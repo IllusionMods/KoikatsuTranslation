@@ -56,6 +56,33 @@
 ペイント０２の色=Paint 02 Color
 ペイント０２回転=Paint 02 Rotation
 
+; Makeup Types (Both for Body and Face)
+ハート=Heart
+水滴=Water Droplet
+星Ａ=Star A
+星Ｂ=Star B
+三日月=Crescent Moon
+キスマーク=Kiss Mark
+クモ=Spider
+クモの巣=Spiderweb
+バラ=Rose
+陰陽=Yin-Yang
+禁止=Prohibited
+蝶=Butterfly
+肉球=Pawprint
+ターゲット=Target
+ネイティブライン=Native Line
+正の字=Counter
+スラッシュ=Slash
+クロススラッシュ=Cross Slash
+クロススラッシュ×５=Cross Slash x5
+第三の目=Third Eye
+ドクロ=Skull
+絆創膏=Bandage
+; Character Design Addon Pack Vol. 1 (add06)
+桜=Cherry Blossom
+印=Emblem
+
 ; Slider Notice (Red Text)
 ; Note is currently bugged - translation plugin doesn't act on string. Due to color codes/HTML?
 ※ 各項目の変形に関するものをまとめたものとなります。=※ You can adjust all option sliders at once in this list.
@@ -590,29 +617,6 @@ RGB=RGB
 ペイント０２大きさ=Paint 02 Size
 ペイント０２位置プリセット=Paint 02 Position Presets
 
-; Face -> Type -> Makeup Types
-ハート=Heart
-水滴=Water Droplet
-星Ａ=Star A
-星Ｂ=Star B
-三日月=Crescent Moon
-キスマーク=Kiss Mark
-クモ=Spider
-クモの巣=Spiderweb
-バラ=Rose
-陰陽=Yin-Yang
-禁止=Prohibited
-蝶=Butterfly
-肉球=Pawprint
-ターゲット=Target
-ネイティブライン=Native Line
-スラッシュ=Slash
-クロススラッシュ=Cross Slash
-クロススラッシュ×５=Cross Slash x5
-第三の目=Third Eye
-ドクロ=Skull
-絆創膏=Bandage
-
 ; Face -> Paint -> Position Presets
 左頬=Left Side of Face
 右頬=Right Side of Face
@@ -830,13 +834,13 @@ RGB=RGB
 アップツイン=High Twintails
 ショート=Short
 カールボブ=Curled Bob
-サイドテール（左)=Side Tail (L)
+サイドテール(左)=Side Tail (L)
 サイドテール(右)=Side Tail (R)
 ベリーショート=Very Short
 ツインおさげ=Low Twintails
 結わえロング=Tied Long
 リボンなし結わえロング=Tied Long Without Ribbon
-ポニーテ-ル=Ponytail
+ポニーテール=Ponytail
 リボンなしポニーテール=Ponytail Without Ribbon
 サイドアップ(左)=Side-Up (L)
 サイドアップ(右)=Side-Up (R)
@@ -847,6 +851,9 @@ RGB=RGB
 ツーサイドアップ=Twin Side-Ups
 ストレートミディアム=Straight Medium
 セミロング=Semi-Long
+; Character Design Addon Pack Vol. 1 (add06)
+ボリュームポニーテール=Thick Ponytail
+外はねショート=Short, Swept Out
 
 ; Hair -> Bangs
 前髪の種類=Front Hair Type
@@ -894,6 +901,8 @@ M字バングストレート(左)=M-Shaped Straight Bangs (L)
 M字バングストレート(右)=M-Shaped Straight Bangs (R)
 横分けヘア(左)=Sideswept Parted (L)
 横分けヘア(右)=Sideswept Parted (R)
+; Character Design Addon Pack Vol. 1 (add06)
+ハネぱっつん=Straight Bangs, Swept Up
 
 ; Hair -> Side Hair
 横髪の種類=Side Hair Type
@@ -937,6 +946,10 @@ M字バングストレート(右)=M-Shaped Straight Bangs (R)
 雷ハイライト=Lightning Bolt Highlight
 帯ハイライト=Band Highlight
 四角ハイライト=Square Highlight
+; Character Design Addon Pack Vol. 1 (add06)
+ぼかし帯ハイライト=Gradient Band Highlight
+ぼかし四角ハイライト=Gradient Square Highlight
+ぼかし線ハイライト=Gradient Line Highlight
 
 ;
 ; Clothing Menu
@@ -1151,6 +1164,16 @@ Tシャツ無地(男)=Plain T-Shirt (Male)
 裸エプロン=Naked Apron
 ロングワイシャツ=Long Dress Shirt
 ショルダーレスブラウス=Blouse With Shoulder Lace
+; Magical Girl Preorder Bonus (add02)
+魔法学園制服上着=Magic Academy Uniform Top
+; Early Preorder Bonus (add03)
+セクシーランジェリー（上）=Sexy Lingerie (Top)
+; Preorder Bonus (add04)
+軍服=Military Uniform
+; Maid Preorder Bonus (add05)
+メイド服=Maid Top
+; Character Design Addon Pack Vol. 1 (add06)
+鬼神の装束(上)=Demon God's Costume (Top)
 
 ; Clothing -> Top -> Innerwear Types
 ワイシャツ=Dress Shirt
@@ -1161,6 +1184,8 @@ Tシャツ無地(男)=Plain T-Shirt (Male)
 ;Gym Clothing
 ;Camisole
 ノースリーブシャツ=Sleeveless Dress Shirt
+; Character Design Addon Pack Vol. 1 (add06)
+巫女内衣=Shrine Maiden's Robe
 
 ; Clothing -> Top -> Outerwear Types
 ブレザーA=Blazer A
@@ -1176,6 +1201,8 @@ Tシャツ無地(男)=Plain T-Shirt (Male)
 うさ耳パーカー=Rabbit-Ears Parka
 ポンチョコート=Poncho Coat
 エプロン=Apron
+; Character Design Addon Pack Vol. 1 (add06)
+陣羽織=Battle Surcoat
 
 ; Clothing -> Top -> Decoration Types
 リボン=Ribbon
@@ -1183,6 +1210,10 @@ Tシャツ無地(男)=Plain T-Shirt (Male)
 ネクタイ=Necktie
 ルーズネクタイ短=Loose Necktie (Short)
 ルーズネクタイ長=Loose Necktie (Long)
+; Maid Preorder Bonus (add05)
+メイドスカート=Maid Skirt
+; Character Design Addon Pack Vol. 1 (add06)
+のど輪=Throat Guard
 
 ; Clothing -> Top -> Emblem Types
 赤と青=Red And Blue
@@ -1208,6 +1239,11 @@ H=Letter H
 番号01=Number 01
 番号02=Number 02
 番号03=Number 03
+; Character Design Addon Pack Vol. 1 (add06)
+桔梗の紋(白)=Kikyou Crest (White)
+桔梗の紋(黒)=Kikyou Crest (Black)
+三つ巴(白)=Tomoe Triplet (White)
+三つ巴(黒)=Tomoe Triplet (Black)
 
 ; Clothing -> Bottom
 ボトムスを初期の状態に戻す=Restore Default Bottom Settings
@@ -1245,6 +1281,17 @@ H=Letter H
 キュロットスカート=Culotte Skirt
 ハーフパンツ=Half Pants
 キュートパンツ=Cute Pants
+; Magical Girl Preorder Bonus (add02)
+魔法学園制服スカート=Magic Academy Uniform Skirt
+; Early Preorder Bonus (add03)
+セクシーランジェリー（下）=Sexy Lingerie (Bottom)
+; Preorder Bonus (add04)
+; Damn it Illusion
+軍服タイトスカート　=Military Tight Skirt
+; Character Design Addon Pack Vol. 1 (add06)
+巫女スカート=Shrine Maiden Skirt
+鬼神の装束A(下)=Demon God's Costume A (Bottom)
+鬼神の装束B(下)=Demon God's Costume B (Bottom)
 
 ; Clothing -> Bra
 ブラを初期の状態に戻す=Restore Default Bra Settings
@@ -1308,6 +1355,15 @@ H=Letter H
 指先絆創膏右手=Right Hand Fingertip Bandage
 ;Gloves
 長手袋=Long Gloves
+; Magical Girl Preorder Bonus (add02)
+魔法学園制服の袖=Magic Academy Uniform Sleeves
+; Preorder Bonus (add04)
+将校の手袋=Commissioned Officer Gloves
+; Maid Preorder Bonus (add05)
+メイド服の袖=Maid Sleeves
+; Character Design Addon Pack Vol. 1 (add06)
+巫女武者手甲=Shrine Maiden Warrior Bracers
+鬼神の小手=Demon God's Gauntlets
 
 ; Clothing -> Pantyhose
 パンストを初期の状態に戻す=Restore Default Pantyhose Settings
@@ -1323,6 +1379,8 @@ H=Letter H
 ガーターベルト=Garter Belt
 網タイツ=Fishnet Tights
 レギンス=Leggings
+; Preorder Bonus (add04)
+将校のガーターベルト=Commissioned Officer Garter Belt
 
 ; Clothing -> Legwear
 靴下を初期の状態に戻す=Restore Default Legwear Settings
@@ -1346,6 +1404,12 @@ H=Letter H
 レッグウォーマー=Leg Warmers
 ; Damn it Illusion
 レッグウォーマー =Leg Warmers
+; Magical Girl Preorder Bonus (add02)
+魔法のニーソックス=Magical Kneesocks
+; Preorder Bonus (add04)
+将校のブーツ=Commissioned Officer Boots
+; Character Design Addon Pack Vol. 1 (add06)
+巫女ニーソックス=Shrine Maiden Kneesocks
 
 ; Clothing -> Shoes
 内履きを初期の状態に戻す=Restore Default Indoor Shoe Settings
@@ -1380,6 +1444,12 @@ H=Letter H
 草履=Zori
 ハイカットスニーカー=High-Cut Sneakers
 ダンスシューズ=Dance Shoes
+; Magical Girl Preorder Bonus (add02)
+魔法のブーツ=Magical Boots
+; Maid Preorder Bonus (add05)
+ラウンドパンプス=Round Pumps
+; Character Design Addon Pack Vol. 1 (add06)
+鬼神の脛当て=Demon God's Greaves
 
 ; Clothing -> Copy Menu
 コピー元のコーディネート=Uniform Source
@@ -1761,6 +1831,22 @@ XYZの文字を左右ドラッグでも調整できます=You can also adjust X/
 うさぎの着ぐるみ頭=Rabbit Costume Head
 いぬの着ぐるみ頭=Dog Costume Head
 三角巾=Bandanna
+; Magical Girl Preorder Bonus (add02)
+魔法の帽子=Magical Hat
+; Early Preorder Bonus (add03)
+猫耳（右）=Cat Ear (Right)
+猫耳（左）=Cat Ear (Left)
+鈴付きリボン=Ribbon and Bell
+; Preorder Bonus (add04)
+; Damn it Illusion
+将校の帽子 =Commissioned Officer Hat
+; Maid Preorder Bonus (add05)
+メイドヘアバンド=Maid Hairband
+メイドカチューシャ=Maid Headband
+; Character Design Addon Pack Vol. 1 (add06)
+羊の角=Sheep Horns
+牛の角=Cow Horns
+一角=Unicorn Horn
 
 ; Accessories -> Face
 スクエア=Square Glasses
@@ -1796,6 +1882,9 @@ XYZの文字を左右ドラッグでも調整できます=You can also adjust X/
 ;Third Eye
 ワンポイント=Starpoint Earring
 土星=Saturn Earring
+; Character Design Addon Pack Vol. 1 (add06)
+鬼神の額当て（右）=Demon God's Brow Guard (Right)
+鬼神の額当て（左）=Demon God's Brow Guard (Left)
 
 ; Accessories -> Neck
 マフラー=Muffler
@@ -1816,6 +1905,19 @@ XYZの文字を左右ドラッグでも調整できます=You can also adjust X/
 一粒ペンダント=Starpoint Pendant
 星のペンダント=Star Pendant
 土星のペンダント=Saturn Pendant
+; Early Preorder Bonus (add03)
+; Damn it Illusion
+鈴付きチョーカー =Bell Choker
+; Preorder Bonus (add04)
+; Damn it Illusion
+階級バッジ =Rank Badge
+; Character Design Addon Pack Vol. 1 (add06)
+鈴=Bell
+シデ=Shinto Paper Streamer
+; Damn it Illusion
+鬼神のリボン =Demon God's Ribbon
+; Damn it Illusion
+勾玉の首飾り =Magatama Amulet
 
 ; Accessories -> Torso
 リュックサック=Backpack
@@ -1847,6 +1949,17 @@ XYZの文字を左右ドラッグでも調整できます=You can also adjust X/
 キツネ尻尾=Fox Tail
 エレキギター=Electric Guitar
 ベルト=Belt
+; Early Preorder Bonus (add03)
+猫尻尾=Cat Tail
+; Preorder Bonus (add04)
+将校のサーベル=Commissioned Officer Sabre
+; Character Design Addon Pack Vol. 1 (add06)
+鞘小太刀=Sheathed Short Sword
+白木拵え納刀=Sheathed Wooden Sword
+白木拵えの鞘=Wooden Sword Sheath
+2連鞘刀=Twin Sheathed Swords
+鬼神の腰当右用=Demon God's Hip Guard (Right)
+鬼神の腰当左用=Demon God's Hip Guard (Left)
 
 ; Accessories -> Legs
 チアガーターリボン（左）=Cheerleader Garter Ribbon (Left)
@@ -1871,6 +1984,12 @@ XYZの文字を左右ドラッグでも調整できます=You can also adjust X/
 拘束バンド右用=Right Restraint
 カフス左用=Left Cuff
 カフス右用=Right Cuff
+; Character Design Addon Pack Vol. 1 (add06)
+くノ一肩当て右用=Kunoichi Shoulderpad (Right)
+くノ一肩当て左用=Kunoichi Shoulderpad (Left)
+巫女袖右用=Shrine Maiden Sleeve (Right)
+巫女袖左用=Shrine Maiden Sleeve (Left)
+鬼神の肩当て=Demon God's Shoulderpad
 
 ; Accessories -> Hands
 革カバン=Leather Bag
@@ -1893,6 +2012,12 @@ XYZの文字を左右ドラッグでも調整できます=You can also adjust X/
 お金持ちの指輪=Diamond Ring
 アナルバイブ=Anal Vibrator
 電気マッサージ器=Vibrating Wand
+; Magical Girl Preorder Bonus (add02)
+魔法のステッキ=Magical Wand
+; Character Design Addon Pack Vol. 1 (add06)
+小太刀=Short Sword
+白木拵え刀=Wooden Sword
+鬼神の金棒=Demon God's Iron Club
 
 ; Accessories -> Crotch
 バイブ=Vibrating Dildo
@@ -1912,6 +2037,8 @@ XYZの文字を左右ドラッグでも調整できます=You can also adjust X/
 
 ;
 ; Profile Menu
+; This will mix both the male and female profiles for now
+; Will comment which is what once Bepis adds inline commenting via the new format
 ;
 
 キャラ=Character
@@ -1933,7 +2060,7 @@ B=B
 O=O
 AB=AB
 
-; Profile -> Character -> Personality Types
+; Profile -> Character -> Female Personality Types
 性格を選択=Personality Selection
 セクシー=Sexy
 お嬢様=Ojousama
@@ -1965,6 +2092,15 @@ AB=AB
 意地っ張り=Stubborn
 のじゃっ子=Old-Fashioned Girl
 素直クール=Docile
+
+; Profile -> Male Personality Types
+; Less personality types and more setting the male between two sets of opposite elements
+慎重=Cautious
+積極的=Assertive
+マイペース=Own Pace
+勤勉=Busybody
+クール=Quiet
+優しい=Friendly
 
 ; Profile -> Character -> Club Types
 帰宅部=Going Home Club
@@ -2037,7 +2173,9 @@ AB=AB
 キャラ保存と削除=Save/Delete Character
 服読込み=Load Clothing
 服の保存と削除=Save/Delete Clothing
+; This label gets applied over the one below it if F10 refreshed
 コンフィグ=Configuration
+表現方法=Lighting Settings
 
 ; File Menu -> Load Character
 キャラ一覧=Character List
@@ -2078,34 +2216,19 @@ No Image=No Image
 服=Clothes
 アクセサリ=Accessories
 
-; File Menu -> Load Clothing -> Clothing Set Options
-教師=Classroom Teacher
-チアガール=Cheerleader
-小悪魔=Little Devil
-アイドル=Idol
-保健医=Medical Doctor
-;Staying Overnight
-;Staying Overnight 2
-;Casual Clothing
-;Swimsuit
-;Gym Uniform
-学生服=School Uniform
-
 ; File Menu -> Save Clothing -> Dialogue Box
 コーディネート名を入力して下さい=Please Enter A Name For The Clothing Set
 
-; File Menu -> Configuration
+; File Menu -> Lighting Options
+表現方法=Light Settings
 ※ キャラクターごとの設定ではなく、ゲーム全体の設定=※ These settings are not set per-character,
 　 となります。=　 instead they affect the entire game.
 影の表現=Shadow Type
 影の濃さ=Shadow Density
 アウトラインの濃さ=Outline Density
 アウトラインの幅=Outline Thickness
-BGMの音量=BGM Volume
-効果音の音量=Sound Effects Volume
-注視点を表示する=Show Crosshair
 
-; File Menu -> Configuration -> Shadow Types
+; File Menu -> Lighting Options -> Shadow Types
 浅いなめらか影=Slight, Smooth Shadows
 浅いくっきり影=Slight, Sharp Shadows
 深いなめらか影=Deep, Smooth Shadows
