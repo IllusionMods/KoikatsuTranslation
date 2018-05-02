@@ -1,0 +1,24 @@
+﻿﻿屋上,FALSE
+0,屋上
+adv_ev_00_camera,Camera
+adv_ev_00_chara,Chara
+0,3,1
+0,1
+0,標準
+0,Stand_Joy_00
+Out,,,,none
+[P名],「もぐもぐ……こういうところで食べるご飯はおいしいね」
+0,笑顔（目閉じ）
+0,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_151
+[H名],「そうだね……ぷっ、あはは！　あごにごはん粒ついてるよ」
+[P名],「そんなに笑わなくても……あっ、本当だ。しかもこんなに」
+0,微笑
+0,,adv_ev_05_152
+[H名],「全然気づいてないんだから、思わず笑っちゃった」
+FALSE
+in,,,,none
+System.Int32,jumpNo02,79
+H_relation,0,2,恋人,知り合い
+恋人
+,83,FALSE,TRUE,TRUE
+知り合い

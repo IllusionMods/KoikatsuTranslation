@@ -1,0 +1,19 @@
+﻿﻿体育館,FALSE
+0,体育館
+adv_ev_00_camera,Camera
+adv_ev_00_chara,Chara
+0,Gym
+0,3,1
+0,1
+Out,,,,none
+[P名],「うわっ！　あー……取られたー」
+0,笑顔
+0,sound/data/pcm/c22/adv/00.unity3d,adv_ev_22_165
+[H名],「わぁ、決まった！　えへへ、バドミントンって楽しいね！」
+[P名],「そうだね。男女でも普通に楽しめるし……よし、次は絶対に俺が取るよ」
+0,ドヤ顔
+0,,adv_ev_22_166
+[H名],「ふふーっ、どこからでもいいよー！」
+FALSE
+in,,,,none
+System.Int32,jumpNo01,75

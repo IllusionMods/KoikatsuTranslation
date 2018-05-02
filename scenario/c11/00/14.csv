@@ -1,0 +1,23 @@
+﻿﻿グラウンド,FALSE
+0,グラウンド
+adv_ev_00_camera,Camera
+adv_ev_00_chara,Chara
+0,Gym
+0,3,1
+0,1
+0,標準
+0,Stand_Joy_01
+Out,,,,none
+0,sound/data/pcm/c11/adv/00.unity3d,adv_ev_11_151
+[H名],「ジャンケンポン！　あいこでしょ！　あ～ん、負けちゃったわ。私が鬼ね」
+0,Stand_Sat_02
+0,,adv_ev_11_152
+[H名],「うふふ、待て待て～……きゃっ！」
+[P名],「あっ、大丈夫！？」
+0,ちょっと照れた笑顔
+0,,adv_ev_11_153
+[H名],「うふふっ、つーかまえた♪　ぎゅーっ」
+[P名],（鬼ごっこでフェイント！？）
+FALSE
+in,,,,none
+System.Int32,jumpNo01,76

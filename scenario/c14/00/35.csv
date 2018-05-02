@@ -1,0 +1,30 @@
+﻿﻿部室,FALSE
+0,部室
+adv_ev_00_camera,Camera
+adv_ev_00_chara,Chara
+0,3,1
+0,1
+0,標準（目閉じ）
+0,Stand_Ang_05
+Out,,,,none
+0,sound/data/pcm/c14/adv/00.unity3d,adv_ev_14_169
+[H名],「なーんか最近刺激がねぇなぁ～」
+[P名],「刺激か……。どうされたいの？」
+0,少し驚き
+0,Stand_25_00
+0,,adv_ev_14_170
+[H名],「ん～、なんか無理矢理押し倒されたりとか……ってうわぁ！」
+[P名],「こう言う感じに？」
+in,.8,black,back,TRUE
+0,ドキドキ
+0,Stand_Sat_06
+out,.8,black,back,TRUE
+0,,adv_ev_14_171
+[H名],「んっ……！　あっ……！　ここじゃダメだってば……！」
+[P名],「え～、だって刺激が欲しいんだろ？　こういうことじゃないの？」
+0,,adv_ev_14_172
+[H名],「そういうことだけど……んあっ！」
+[P名],「今日は俺の言うこと聞いてもらおうか？」
+FALSE
+in,,,,none
+System.Int32,jumpNo03,86

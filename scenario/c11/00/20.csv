@@ -1,0 +1,18 @@
+﻿﻿中庭,FALSE
+0,中庭
+adv_ev_00_camera,Camera
+adv_ev_00_chara,Chara
+0,3,1
+0,1
+0,Stand_Joy_01
+Out,,,,none
+[P名],（これは美味い！　夢中で食べちゃうな）
+0,微笑
+0,sound/data/pcm/c11/adv/00.unity3d,adv_ev_11_160
+[H名],「うふふ、いい食べっぷりね～。作ってきた甲斐があるわ」
+0,Stand_24_00
+0,,adv_ev_11_161
+[H名],「あら、もう……うふふ。口の周り汚しちゃって。ほら、拭き拭きしましょうね～」
+FALSE
+in,,,,none
+System.Int32,jumpNo02,81

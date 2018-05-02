@@ -1,0 +1,23 @@
+﻿﻿adv/bg/00.unity3d,bg_11_e
+0,3,1
+0,1
+0,Stand_Joy_04
+0,School02
+out,,,,none
+[P名],「へえ、色々あるんだね」
+0,笑顔
+0,sound/data/pcm/c09/adv/00.unity3d,adv_ev_09_085
+[H名],「あ、ゲームセンターだ！　ねえ、ちょっと入ってみてもいい？」
+[P名],「うん、いいよ」
+in,1,black,back,TRUE
+out,1,black,back,TRUE
+0,笑顔（目閉じ）
+0,Stand_09_00
+0,,adv_ev_09_086
+[H名],「いやあ、すっきりしたぁ！　やっぱり気分転換にはここが一番ね！」
+[P名],（よかった、喜んでもらえたみたいだ）
+FALSE
+in,,,,none
+FALSE
+0,0,1
+0,0

@@ -1,0 +1,20 @@
+﻿﻿図書室,FALSE
+0,図書室
+adv_ev_00_camera,Camera
+adv_ev_00_chara,Chara
+0,3,1
+0,1
+0,真剣
+0,Stand_10_00
+Out,,,,none
+0,sound/data/pcm/c10/adv/00.unity3d,adv_ev_10_136
+[H名],「図書館の雰囲気は、まるで異界なのだ……」
+[P名],「異界？　なんで？」
+0,微笑
+0,Stand_Ang_04
+0,,adv_ev_10_137
+[H名],「静寂そのものではないか。ここは。我らのためにある場所である」
+[P名],「はは、そうだね」
+FALSE
+in,,,,none
+System.Int32,jumpNo00,71

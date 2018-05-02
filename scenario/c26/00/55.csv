@@ -1,0 +1,20 @@
+﻿﻿adv/bg/00.unity3d,bg_11_e
+0,3,1
+0,1
+0,School02
+0,照れ顔
+0,Stand_23_00
+out,,,,none
+0,sound/data/pcm/c26/adv/00.unity3d,adv_ev_26_133
+[H名],「……[P]、手」
+[P名],「えっ？　あ、うん！　手、繋ごうか」
+0,ちょっと照れた笑顔
+0,,adv_ev_26_134
+[H名],「……うん。[P]の手、暖かい……」
+[P名],「じゃあ、しばらくこのまま繋いでいようか」
+FALSE
+in,,,,none
+System.Int32,jumpNo04,67
+FALSE
+0,0,1
+0,0

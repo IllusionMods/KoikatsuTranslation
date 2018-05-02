@@ -1,0 +1,21 @@
+﻿﻿教室2-1,FALSE
+0,教室2-1
+adv_ev_00_camera,Camera
+adv_ev_00_chara,Chara
+0,3,1
+0,1
+0,思案
+0,Stand_09_00
+Out,,,,none
+[P名],「難しいな……この問題……」
+0,sound/data/pcm/c14/adv/00.unity3d,adv_ev_14_137
+[H名],「どれどれ、私に任せろ、ふむふむ、ほうなるほど」
+[P名],「どう？　わかりそう？」
+0,標準
+0,Stand_Ang_08
+0,,adv_ev_14_138
+[H名],「いや……全然」
+[P名],「え！　さっきの自信は一体……！」
+FALSE
+in,,,,none
+System.Int32,jumpNo00,69

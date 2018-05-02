@@ -1,0 +1,21 @@
+﻿﻿屋上,FALSE
+0,屋上
+adv_ev_00_camera,Camera
+adv_ev_00_chara,Chara
+0,3,1
+0,1
+0,標準
+0,Stand_Joy_00
+Out,,,,none
+0,sound/data/pcm/c26/adv/00.unity3d,adv_ev_26_157
+[H名],「……[P]。あ～ん」
+[P名],「えっ？　あ～……むぐっ！」
+0,,adv_ev_26_158
+[H名],「……美味しい？　今日の玉子焼きは、自信作」
+[P名],「い、いきなり口の中に入れるから驚いたよ……すごく美味しいけど」
+0,ちょっと照れた笑顔
+0,,adv_ev_26_159
+[H名],「そう……良かった」
+FALSE
+in,,,,none
+System.Int32,jumpNo02,81

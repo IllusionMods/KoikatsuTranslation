@@ -1,0 +1,20 @@
+﻿﻿図書室,FALSE
+0,図書室
+adv_ev_00_camera,Camera
+adv_ev_00_chara,Chara
+0,3,1
+0,1
+0,ちょっと照れた笑顔
+0,Stand_Joy_00
+Out,,,,none
+0,sound/data/pcm/c21/adv/00.unity3d,adv_ev_21_145
+[H名],「ねね、さっき本棚の影でエッチしてるカップルがいたよ……」
+[P名],「えっ……」
+0,笑顔（目閉じ）
+0,Stand_Ang_08
+0,,adv_ev_21_146
+[H名],「なーんてね♪　ほら、鼻の下伸ばさないで集中する！」
+[P名],「く、くそう……雑念が入ってきちゃったじゃないか……」
+FALSE
+in,,,,none
+System.Int32,jumpNo00,71

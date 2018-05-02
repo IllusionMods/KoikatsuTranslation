@@ -1,0 +1,24 @@
+﻿﻿Date,,0,,TRUE
+adv/bg/00.unity3d,bg_10
+0,3,1
+0,1
+0,Plain
+0,スマイルA
+0,Stand_Joy_04
+Out,,,,none
+0,sound/data/pcm/c00/adv/00.unity3d,adv_ev_00_106
+[H名],「今日は私が君をおもてなしするわ」
+[P名],「そんな、悪いよ」
+0,,adv_ev_00_107
+[H名],「いいから、私に付いてきて♪」
+in,1,black,back,TRUE
+0,スマイルA(目閉じ)
+0,Stand_Joy_06
+out,1,black,back,TRUE
+0,,adv_ev_00_108
+[H名],「次はね、あっち！　早く早く～♪」
+FALSE
+in,,,,none
+FALSE
+0,0,1
+0,0

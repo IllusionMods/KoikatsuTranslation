@@ -1,0 +1,19 @@
+﻿﻿食堂,FALSE
+0,食堂
+adv_ev_00_camera,Camera
+adv_ev_00_chara,Chara
+0,1
+0,3,1
+0,標準
+0,Stand_12_00
+Out,,,,none
+0,sound/data/pcm/c17/adv/00.unity3d,adv_ev_17_153
+[H名],「あなた、本当においしそうにご飯食べるわね」
+[P名],「そう？　逆に[H姓]さんは今食べてるそれ、おいしくないの？」
+0,Stand_Ang_01
+0,,adv_ev_17_154
+[H名],「えっ？　い、いや、……普通においしいけれど」
+[P名],「よかった。[H姓]さんと一緒に食べる時間、楽しみたかったから」
+FALSE
+in,,,,none
+System.Int32,jumpNo02,80

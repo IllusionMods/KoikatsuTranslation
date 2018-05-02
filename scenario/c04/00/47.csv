@@ -1,0 +1,20 @@
+﻿﻿図書室,FALSE
+0,図書室
+adv_ev_00_camera,Camera
+adv_ev_00_chara,Chara
+0,3,1
+0,1
+0,真剣
+0,Stand_04_00
+Out,,,,none
+0,sound/data/pcm/c04/adv/00.unity3d,adv_ev_04_139
+[H名],「[P]くん、この問題……ここ、間違えてるわよ」
+[P名],「あっ……ごめん、せっかく教えてもらった所なのに」
+0,微笑
+0,Stand_Joy_09
+0,,adv_ev_04_140
+[H名],「ふふっ、これは補習をお望みってことかしら？　いくらでも付き合ってあげるわ」
+[P名],「ははは……お手柔らかにお願いします」
+FALSE
+in,,,,none
+System.Int32,jumpNo00,71

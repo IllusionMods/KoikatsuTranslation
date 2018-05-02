@@ -1,0 +1,28 @@
+﻿﻿食堂,FALSE
+0,食堂
+adv_ev_00_camera,Camera
+adv_ev_00_chara,Chara
+0,3,1
+0,1
+0,笑顔（目閉じ）
+0,Stand_Joy_04
+Out,,,,none
+0,sound/data/pcm/c03/adv/00.unity3d,adv_ev_03_194
+[H名],「お昼の時間は幸せなのです！　もうお腹ぺこぺこですよ！」
+[P名],「ふふっ、こういう時、一生懸命だよね」
+0,驚き
+0,Stand_Sat_02
+0,,adv_ev_03_194_more_00
+[H名],「はわっ……も、もしかしてバカにされたですかっ！？」
+[P名],「違う違う。輝いてるなぁと思って！　俺も一生懸命食べようって気になるんだ」
+0,ちょっと照れた笑顔
+0,Stand_Joy_00
+0,,adv_ev_03_195
+[H名],「あ……えへへ……買いかぶりすぎです。ただ単にお腹が空いてるだけなのですよー」
+FALSE
+in,,,,none
+System.Int32,jumpNo02,79
+H_relation,0,2,恋人,知り合い
+恋人
+,83,FALSE,TRUE,TRUE
+知り合い

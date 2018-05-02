@@ -1,0 +1,21 @@
+﻿﻿グラウンド,FALSE
+0,グラウンド
+adv_ev_00_camera,Camera
+adv_ev_00_chara,Chara
+0,Gym
+0,3,1
+0,1
+0,真剣
+0,Stand_07_00
+Out,,,,none
+0,sound/data/pcm/c26/adv/00.unity3d,adv_ev_26_144
+[H名],「……遅い」
+[P名],「はぁ……はぁ……！　そ、そっちが速過ぎるだけだと思うんだけど……！」
+0,,adv_ev_26_145
+[H名],「……私は普通に、走ってるだけ……遅いのはそっち」
+[P名],「そ、そうかな……」
+0,,adv_ev_26_146
+[H名],「……ほら、続き……行くよ」
+FALSE
+in,,,,none
+System.Int32,jumpNo01,74

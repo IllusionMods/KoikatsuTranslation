@@ -1,0 +1,19 @@
+﻿﻿図書室,FALSE
+0,図書室
+adv_ev_00_camera,Camera
+adv_ev_00_chara,Chara
+0,3,1
+0,1
+0,Stand_24_00
+Out,,,,none
+[P名],「それじゃあ、勉強を始めようか」
+0,照れ顔
+0,sound/data/pcm/c29/adv/00.unity3d,adv_ev_29_148
+[H名],「ええ。それにしても――」
+[P名],「ん？　どうかした？」
+0,,adv_ev_29_149
+[H名],「改めてこうして向かい合うと、照れますね」
+[P名],「えっ？　そ、そうだね……あはははは」
+FALSE
+in,,,,none
+System.Int32,jumpNo00,69

@@ -1,0 +1,21 @@
+﻿﻿adv/bg/00.unity3d,bg_15_e
+0,3,1
+0,1
+0,School02
+0,見つめながらドキドキ
+0,Stand_Joy_00
+out,,,,none
+0,sound/data/pcm/c13/adv/00.unity3d,adv_ev_13_132
+[H名],「ねぇ。ちょっと目。つぶってて……チュッ、んっ……」
+[P名],「……って、え！？ い、いまのって……」
+0,キス（目閉じ）
+0,Stand_Sat_02
+0,,adv_ev_13_133
+[H名],「はぁ～、補充完了～。今度は[P]くんから……ね？」
+[P名],「あ、そ、それじゃあ……ちゅっ」
+FALSE
+in,,,,none
+System.Int32,jumpNo04,67
+FALSE
+0,0,1
+0,0

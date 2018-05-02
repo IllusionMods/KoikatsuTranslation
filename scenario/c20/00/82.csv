@@ -1,0 +1,19 @@
+﻿﻿図書室,FALSE
+0,図書室
+adv_ev_00_camera,Camera
+adv_ev_00_chara,Chara
+0,3,1
+0,1
+0,微笑
+0,Stand_Joy_01
+Out,,,,none
+0,sound/data/pcm/c20/adv/00.unity3d,adv_ev_20_139
+[H名],「図書館でお勉強デートですね」
+[P名],「これもデートなの？」
+0,不安
+0,,adv_ev_20_140
+[H名],「はい……そう思ってたのは私だけでしょうか？」
+[P名],「い、いや！　お喋りしながら勉強するんだから立派なデートだよねこれは！　ははは」
+FALSE
+in,,,,none
+System.Int32,jumpNo00,71

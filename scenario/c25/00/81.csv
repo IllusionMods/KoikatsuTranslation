@@ -1,0 +1,19 @@
+﻿﻿食堂,FALSE
+0,食堂
+adv_ev_00_camera,Camera
+adv_ev_00_chara,Chara
+0,3,1
+0,1
+0,笑顔
+0,Stand_Joy_04
+Out,,,,none
+0,sound/data/pcm/c25/adv/00.unity3d,adv_ev_25_153
+[H名],「今日はうどんでいっかなー」
+[P名],「うどんだけ？　あまり食欲なかった？」
+0,笑顔（目閉じ）
+0,,adv_ev_25_154
+[H名],「ふふふ……実は今日お菓子持って来てて～そっち食べたいな～って」
+[P名],「悪い子だな～。あっ、一口貰ってもいいかな？」
+FALSE
+in,,,,none
+System.Int32,jumpNo02,80

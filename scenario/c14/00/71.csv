@@ -1,0 +1,19 @@
+﻿﻿adv/bg/00.unity3d,bg_op
+0,3,1
+0,1
+0,School02
+0,標準
+0,Stand_07_00
+out,,,,none
+0,sound/data/pcm/c14/adv/00.unity3d,adv_ev_14_190
+0,callBundle,callName1
+[H名],「おはよう……[Pあだ名]」
+[P名],「おはよう、[Hあだ名]」
+0,ドキドキ
+0,Stand_Ang_03
+0,sound/data/pcm/c14/adv/00.unity3d,adv_ev_14_191
+[H名],「……ああ、くっそ！　恥ずい……気まぐれに呼ぶんじゃなかった」
+FALSE
+in,,,,none
+0,0,1
+0,0

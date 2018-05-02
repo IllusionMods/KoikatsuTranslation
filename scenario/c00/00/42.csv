@@ -1,0 +1,45 @@
+﻿﻿Date,,0,,TRUE
+adv/bg/00.unity3d,bg_14
+0,3,1
+0,1
+0,Plain
+0,スマイルB
+0,Stand_Joy_00
+Out,,,,none
+0,sound/data/pcm/c00/adv/00.unity3d,adv_ev_00_101
+[H名],「さぁ、初デートは何をしましょうか？」
+[P名],「あっ、俺、色々考えてきたんだ！　えっと、まずは……」
+0,スマイルA(目閉じ)
+0,Stand_Joy_01
+0,,adv_ev_00_102
+[H名],「うふふ、一生懸命でカワイイ♪」
+[P名],「えっ……？」
+0,スマイルB
+0,Stand_Joy_00
+0,,adv_ev_00_103
+[H名],「ただの独り言よ。それじゃ、まずはどうするの……？」
+in,1,black,back,TRUE
+0,スマイルA(目閉じ)
+out,1,black,back,TRUE
+0,,adv_ev_00_104
+[H名],「なかなかいいデートプランじゃない♪」
+[P名],「本当？　良かった～」
+[P名],（この調子でデートを楽しんでもらうぞ！）
+in,1,black,back,TRUE
+adv/bg/00.unity3d,bg_15_e
+0,ウィンク(右閉じ)
+0,Stand_00_00
+out,1,black,back,TRUE
+0,,adv_ev_00_105
+[H名],「今日は楽しかったわ。初めてにしては上出来よね♪　お疲れさま」
+FALSE
+in,,,,none
+FALSE
+H_favor,1,20
+H_favor,H_favor
+H_lewdness,1,20
+H_lewdness,H_lewdness
+H_anger,2,20
+H_anger,H_anger
+0,0,1
+0,0

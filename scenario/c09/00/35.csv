@@ -1,0 +1,23 @@
+﻿﻿Date,,0,,TRUE
+adv/bg/00.unity3d,bg_10
+0,3,1
+0,1
+0,Plain
+0,標準
+0,Stand_24_00
+Out,,,,none
+0,sound/data/pcm/c09/adv/00.unity3d,adv_ev_09_108
+[H名],「ねえ、新しくゲームセンターができたんだけど……行かない？」
+[P名],「本当にゲームセンターが好きだね。よし、今日はとことん付き合うよ」
+in,1,black,back,TRUE
+0,ドヤ顔
+0,Stand_Joy_02
+out,1,black,back,TRUE
+0,,adv_ev_09_109
+[H名],「イエ～イ！　あたしの１０連勝～！　あたし勝とうなんて一兆年早いのよ！」
+[P名],「くっそ～！　何でだろう、他の人に負けたときよりずっと悔しい……」
+FALSE
+in,,,,none
+FALSE
+0,0,1
+0,0

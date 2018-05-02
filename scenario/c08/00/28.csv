@@ -1,0 +1,20 @@
+﻿﻿食堂,FALSE
+0,食堂
+adv_ev_00_camera,Camera
+adv_ev_00_chara,Chara
+0,3,1
+0,1
+0,標準
+0,Stand_Joy_00
+Out,,,,none
+0,sound/data/pcm/c08/adv/00.unity3d,adv_ev_08_154
+[H名],「……じゅるり」
+[P名],「えっ、何？　どうしたの！」
+0,微笑
+0,Stand_Sat_02
+0,,adv_ev_08_155
+[H名],「これとそれ、交換っこしようよ♪」
+[P名],「なんだぁ～これが食べたかったんだね。いいよ！」
+FALSE
+in,,,,none
+System.Int32,jumpNo02,80

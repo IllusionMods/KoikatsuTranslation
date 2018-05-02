@@ -1,0 +1,22 @@
+﻿﻿adv/bg/00.unity3d,bg_11_e
+0,3,1
+0,1
+0,ちょっと照れた笑顔
+0,Stand_06_00
+Out,,,,none
+0,sound/data/pcm/c06/adv/00.unity3d,adv_ev_06_119
+[H名],「本日は、このような素敵なお出かけに誘っていただき、ありがたく存じます」
+0,Stand_Joy_01
+0,,adv_ev_06_120
+[H名],「もし宜しければ、また連れていっていただけますか？　できれば、逢引という形で……うふふ」
+FALSE
+in,,,,none
+FALSE
+H_favor,1,20
+H_favor,H_favor
+H_lewdness,1,20
+H_lewdness,H_lewdness
+H_anger,2,20
+H_anger,H_anger
+0,0,1
+0,0

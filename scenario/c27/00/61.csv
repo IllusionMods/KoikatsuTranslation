@@ -1,0 +1,20 @@
+﻿﻿adv/bg/00.unity3d,bg_op
+0,School02
+0,3,1
+0,1
+0,ドキドキ
+0,Stand_Joy_00
+out,,,,none
+0,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_192
+0,callBundle,callName1
+[H名],「あっ……お、おはよ…………[Pあだ名]」
+[P名],「おはよう、[Hあだ名]」
+0,恥ずかしくて真っ赤
+0,Stand_Oth_08
+0,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_193
+[H名],「はぅ！　あ……あ……授業、始まっちゃう……ええと、教室どっちだっけ」
+FALSE
+in,,,,none
+0,0,1
+0,0
+FALSE

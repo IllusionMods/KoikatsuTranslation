@@ -1,0 +1,21 @@
+﻿﻿adv/bg/00.unity3d,bg_11_e
+0,3,1
+0,1
+0,笑顔
+0,Stand_Sat_02
+Out,,,,none
+0,sound/data/pcm/c15/adv/00.unity3d,adv_ev_15_111
+[H名],「あー、今日は楽しかったぞ♪」
+0,,adv_ev_15_112
+[H名],「またキミとデートしたいな。っていうか、絶対するぞ！　それじゃーねー」
+FALSE
+in,,,,none
+FALSE
+H_favor,1,20
+H_favor,H_favor
+H_lewdness,1,20
+H_lewdness,H_lewdness
+H_anger,2,20
+H_anger,H_anger
+0,0,1
+0,0

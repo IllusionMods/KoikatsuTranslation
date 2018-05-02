@@ -1,0 +1,21 @@
+﻿﻿グラウンド,FALSE
+0,グラウンド
+adv_ev_00_camera,Camera
+adv_ev_00_chara,Chara
+0,Gym
+0,3,1
+0,1
+0,ドキドキ
+0,Stand_Oth_05
+Out,,,,none
+[P名],「どうした？　顔がその……とろけてるぞ？」
+0,sound/data/pcm/c07/adv/00.unity3d,adv_ev_07_149
+[H名],「私さ、走ってると途中で、頭がボヤっとしてくるんだ」
+[P名],「ランナーズハイって、やつか？」
+0,興奮気味の笑顔
+0,Stand_Joy_04
+0,,adv_ev_07_150
+[H名],「うん。これってスッゴイ、気持ちいいんだぞ？　お前もしようぜ？　ハァ、ハァ」
+FALSE
+in,,,,none
+System.Int32,jumpNo01,75

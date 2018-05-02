@@ -1,0 +1,18 @@
+﻿﻿図書室,FALSE
+0,図書室
+adv_ev_00_camera,Camera
+adv_ev_00_chara,Chara
+0,3,1
+0,1
+0,Stand_Joy_01
+Out,,,,none
+[P名],「へえ、和訳と原作でこんなに表現の差が出るんだね」
+0,笑顔
+0,sound/data/pcm/c19/adv/00.unity3d,adv_ev_19_136
+[H名],「でしょう？　特に有名なのが、夏目漱石の話かな」
+[P名],「あ、聞いた事ある。確か『I love you』を『月がきれいですね』って訳したんだっけ」
+0,,adv_ev_19_137
+[H名],「ええ。この表現、私はとても気に入っているんだ……」
+FALSE
+in,,,,none
+System.Int32,jumpNo00,70

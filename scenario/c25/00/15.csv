@@ -1,0 +1,19 @@
+﻿﻿体育館,FALSE
+0,体育館
+adv_ev_00_camera,Camera
+adv_ev_00_chara,Chara
+0,Gym
+0,Stand_25_00
+Out,,,,none
+[P名],「すぅ……」
+0,疑問
+0,sound/data/pcm/c25/adv/00.unity3d,adv_ev_25_147
+[H名],「なに～？　なんか顔近いよ～？」
+[P名],「[H]の汗もいいにおいすると思って」
+0,焦り
+0,Stand_Oth_08
+0,,adv_ev_25_148
+[H名],「はっ、なっ！？　やめろ～へんた～い」
+FALSE
+in,,,,none
+System.Int32,jumpNo01,76

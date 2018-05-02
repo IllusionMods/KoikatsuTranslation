@@ -1,0 +1,19 @@
+﻿﻿教室2-1,FALSE
+0,教室2-1
+adv_ev_00_camera,Camera
+adv_ev_00_chara,Chara
+0,3,1
+0,1
+0,微笑
+0,Stand_07_00
+Out,,,,none
+0,sound/data/pcm/c07/adv/00.unity3d,adv_ev_07_140
+[H名],「なあ、化学記号ってなんか、やらしいよな？」
+[P名],「え、そうか？　ただの記号にしか見えないけど」
+0,笑顔（目閉じ）
+0,,adv_ev_07_141
+[H名],「これなんて、男女が上下逆にくっついて、クルクル回ってる感じで……」
+[P名],「……集中しようぜ」
+FALSE
+in,,,,none
+System.Int32,jumpNo00,70

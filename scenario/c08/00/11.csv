@@ -1,0 +1,22 @@
+﻿﻿裏庭,FALSE
+0,裏庭
+adv_ev_00_camera,Camera
+adv_ev_00_chara,Chara
+0,3,1
+0,1
+0,微笑
+0,Stand_22_00
+Out,,,,none
+0,sound/data/pcm/c08/adv/00.unity3d,adv_ev_08_156
+[H名],「はい、お弁当だよ♪」
+[P名],「お～ありがとう！　でもなんで三つもあるの？」
+0,Stand_Joy_00
+0,,adv_ev_08_157
+[H名],「三つの内の二つは[P]君のお弁当なんだよ」
+[P名],「えっ、二つも食べていいのか？」
+0,微笑み（目閉じ）
+0,,adv_ev_08_158
+[H名],「うん。だって育ち盛りなんでしょ♪」
+FALSE
+in,,,,none
+System.Int32,jumpNo02,81

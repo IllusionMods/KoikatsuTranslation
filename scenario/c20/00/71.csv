@@ -1,0 +1,26 @@
+﻿﻿教室2-1,FALSE
+0,教室2-1
+adv_ev_00_camera,Camera
+adv_ev_00_chara,Chara
+0,Stand_24_00
+0,3,1
+0,1
+Out,,,,none
+[P名],「ここ、どう解けばいいのかな」
+0,思案
+0,sound/data/pcm/c20/adv/00.unity3d,adv_ev_20_135
+[H名],「えっとですね、ここは……あれ？　なんでしたっけ……」
+[P名],「はは、二人で図書室に行く？」
+0,3,1
+0,恥ずかしくて真っ赤
+0,Stand_20_00
+0,,adv_ev_20_136
+[H名],「はい。……うぅ、お恥ずかしい」
+[P名],「いやいやそんなことないよ。ここかなり難しいと思うし。じゃあさっそく図書室に行こう」
+FALSE
+in,,,,none
+図書室,None
+0,図書室
+adv_ev_00_camera,Camera
+adv_ev_00_chara,Chara
+System.Int32,jumpNo00,69

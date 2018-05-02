@@ -1,0 +1,19 @@
+﻿﻿図書室,FALSE
+0,図書室
+adv_ev_00_camera,Camera
+adv_ev_00_chara,Chara
+0,3,1
+0,1
+0,標準
+0,Stand_05_00
+Out,,,,none
+0,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_138
+[H名],「こうやって一緒に勉強してると、普通のカップルみたい」
+[P名],「急にどうしたの？　付き合ってるんだから、カップルだよ」
+0,デレ顔
+0,Stand_Joy_00
+0,,adv_ev_05_139
+[H名],「この星でひとりだったから、こうしてあなたと過ごす時間が嬉しいの……えへへ」
+FALSE
+in,,,,none
+System.Int32,jumpNo00,71

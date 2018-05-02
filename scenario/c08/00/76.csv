@@ -1,0 +1,19 @@
+﻿﻿自室,FALSE
+0,自室
+adv_ev_00_camera,Camera
+adv_ev_00_chara,Chara
+0,3,1
+0,1
+Out,,,,none
+0,笑顔（目閉じ）
+0,Stand_Joy_00
+0,sound/data/pcm/c08/adv/00.unity3d,adv_ev_08_126
+[H名],「おっ邪魔しまーす」
+0,デレ顔
+0,Stand_Oth_02
+0,,adv_ev_08_127
+[H名],「あっ！　[P]君……ここ、すごくおっきくなってるよ」
+FALSE
+in,,,,none
+0,0,1
+0,0

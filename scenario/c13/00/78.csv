@@ -1,0 +1,22 @@
+﻿﻿adv/bg/00.unity3d,bg_11_e
+0,3,1
+0,1
+0,笑顔
+0,Stand_Sat_02
+Out,,,,none
+0,sound/data/pcm/c13/adv/00.unity3d,adv_ev_13_110
+[H名],「はぁ～今日はマジ楽しかったね～」
+0,ウィンク(左閉じ)
+0,,adv_ev_13_111
+[H名],「これで終わりなんてやだからね？　絶対また誘ってよ？　それじゃ楽しみにしてるから」
+FALSE
+in,,,,none
+FALSE
+H_favor,1,20
+H_favor,H_favor
+H_lewdness,1,20
+H_lewdness,H_lewdness
+H_anger,2,20
+H_anger,H_anger
+0,0,1
+0,0

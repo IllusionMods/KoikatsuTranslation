@@ -1,0 +1,19 @@
+﻿﻿adv/bg/00.unity3d,bg_op
+0,School02
+0,3,1
+0,1
+0,笑顔（目閉じ）
+0,Stand_07_00
+out,,,,none
+0,sound/data/pcm/c07/adv/00.unity3d,adv_ev_07_189
+0,callBundle,callName1
+[H名],「えっと……おはよう！　[Pあだ名]」
+[P名],「おはよう、[Hあだ名]」
+0,照れ顔
+0,sound/data/pcm/c07/adv/00.unity3d,adv_ev_07_190
+[H名],「朝の挨拶らしく元気よく呼んでみたが……少し恥ずかしさが薄れた気が……する」
+FALSE
+in,,,,none
+0,0,1
+0,0
+FALSE

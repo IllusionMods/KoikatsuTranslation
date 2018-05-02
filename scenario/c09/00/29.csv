@@ -1,0 +1,23 @@
+﻿﻿食堂,FALSE
+0,食堂
+adv_ev_00_camera,Camera
+adv_ev_00_chara,Chara
+0,3,1
+0,1
+Out,,,,none
+0,微笑み（目閉じ）
+0,Stand_Joy_00
+0,sound/data/pcm/c09/adv/00.unity3d,adv_ev_09_152
+[H名],「ん～！　やっぱりおいしい～！」
+[P名],「あんまり食べすぎるなよ。お腹こわすから」
+0,ちょっと膨れる感じ
+0,Stand_Ang_00
+0,,adv_ev_09_153
+[H名],「わ、わかってるわよ！」
+FALSE
+in,,,,none
+System.Int32,jumpNo02,79
+H_relation,0,2,恋人,知り合い
+恋人
+,83,FALSE,TRUE,TRUE
+知り合い

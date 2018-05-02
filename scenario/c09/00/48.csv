@@ -1,0 +1,24 @@
+﻿﻿体育館,FALSE
+0,体育館
+adv_ev_00_camera,Camera
+adv_ev_00_chara,Chara
+0,Gym
+0,3,1
+0,1
+0,微笑
+0,Stand_09_00
+Out,,,,none
+0,sound/data/pcm/c09/adv/00.unity3d,adv_ev_09_143
+[H名],「はい、ストレッチするわよ～。いっち、にぃ、さん、しぃ～」
+[P名],「ああ、手が届かない！　キミ、よく届くね」
+0,疑問
+0,,adv_ev_09_144
+[H名],「あれ。普通届かない、こういうの？」
+[P名],「届かないよ～」
+0,呆れ
+0,Stand_Ang_08
+0,,adv_ev_09_145
+[H名],「なによ。これじゃ話にもならないわね」
+FALSE
+in,,,,none
+System.Int32,jumpNo01,74

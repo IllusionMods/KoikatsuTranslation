@@ -1,0 +1,24 @@
+﻿﻿プール,FALSE
+0,プール
+adv_ev_00_camera,Camera
+adv_ev_00_chara,Chara
+0,Swim
+0,3,1
+0,1
+0,Stand_Sat_01
+Out,,,,none
+[P名],「じゃあ、[H]の後ろからぴったりくっついて泳ぐから」
+0,呆れ
+0,sound/data/pcm/c21/adv/00.unity3d,adv_ev_21_153
+[H名],「なにさらっとスケベ心丸出しなこと言ってるのカナ？」
+[P名],「男の子の夢だからね！　……ダメ？」
+0,困り顔
+0,Stand_Ang_00
+0,,adv_ev_21_154
+[H名],「も～、雨でズブ濡れになった捨て犬みたいな目は禁止！」
+0,Stand_Sat_07
+0,,adv_ev_21_155
+[H名],「……はあ、仕方ないなぁ。他の子に気づかれないようにしてね？」
+FALSE
+in,,,,none
+System.Int32,jumpNo01,76

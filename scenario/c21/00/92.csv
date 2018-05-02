@@ -1,0 +1,19 @@
+﻿﻿自室,FALSE
+0,自室
+adv_ev_00_camera,Camera
+adv_ev_00_chara,Chara
+0,Pajamas
+0,3,1
+0,1
+0,微笑
+0,Stand_Sat_02
+out,,,,none
+0,sound/data/pcm/c21/adv/00.unity3d,adv_ev_21_040
+[H名],「あ、おはよう♪　えへへ、シャワー借りたよ」
+0,思わず目を逸らす
+0,,adv_ev_21_041
+[H名],「あ、あんまりジッとみられると恥ずかしいよ～……エッチ♪」
+FALSE
+in,,,,none
+0,0,1
+0,0

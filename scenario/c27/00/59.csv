@@ -1,0 +1,23 @@
+﻿﻿2F,FALSE
+0,2F
+adv_ev_00_camera,Camera
+adv_ev_00_chara,Chara
+0,3,1
+0,1
+0,真剣
+0,Stand_Ang_01
+Out,,,,none
+0,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_167
+[H名],「えっと……それじゃ、私に壁ドンしてみて」
+[P名],「わかった……いくよ」
+0,焦り
+0,Stand_Oth_08
+0,,adv_ev_27_168
+[H名],「ひゃ～っ！　近い近い近い！　ダメ！　離れて！　キスしちゃうぅっ」
+[P名],「でも壁に手をついたらこの距離になるって……」
+0,ドキドキ
+0,,adv_ev_27_169
+[H名],「こ、これは難易度が高すぎるわ……違うのにしましょ！　うん、それがいいわ」
+FALSE
+in,,,,none
+System.Int32,jumpNo03,85

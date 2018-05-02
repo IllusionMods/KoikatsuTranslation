@@ -1,0 +1,22 @@
+﻿﻿グラウンド,FALSE
+0,グラウンド
+adv_ev_00_camera,Camera
+adv_ev_00_chara,Chara
+0,Gym
+0,3,1
+0,1
+0,Stand_Joy_00
+Out,,,,none
+[P名],「ぐぁっ！　砂が目に入った！」
+0,不安
+0,sound/data/pcm/c16/adv/00.unity3d,adv_ev_16_151
+[H名],「えっ、大丈夫？　ほら、ちょっと見せて……」
+[P名],「あー、大丈夫だよ。涙と一緒に出ちゃうと思うし……」
+0,真剣２
+0,Stand_Ang_07
+0,,adv_ev_16_152
+[H名],「だめよ。失明したらどうするの？　少しじっとしてて」
+[P名],「（うわぁ……[H姓]さんの汗の匂いで……頭クラクラしてきた……）」
+FALSE
+in,,,,none
+System.Int32,jumpNo01,75

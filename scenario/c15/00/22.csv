@@ -1,0 +1,20 @@
+﻿﻿体育館,FALSE
+0,体育館
+adv_ev_00_camera,Camera
+adv_ev_00_chara,Chara
+0,3,1
+0,1
+0,Gym
+0,Stand_Joy_04
+Out,,,,none
+[P名],「はぁはぁ、か、勝った」
+0,笑顔
+0,sound/data/pcm/c15/adv/00.unity3d,adv_ev_15_147
+[H名],「おぉー、足速いなー、キミ」
+[P名],（なんとか面目は保てたかな？）
+0,,adv_ev_15_148
+[H名],「よーし！　次はあたしもホンキ出しちゃうぞー！」
+[P名],「え、えぇ！？　本気じゃなかったのか……」
+FALSE
+in,,,,none
+System.Int32,jumpNo01,75

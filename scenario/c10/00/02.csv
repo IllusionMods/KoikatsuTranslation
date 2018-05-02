@@ -1,0 +1,22 @@
+﻿﻿食堂,FALSE
+0,食堂
+adv_ev_00_camera,Camera
+adv_ev_00_chara,Chara
+0,3,1
+0,1
+0,疑問
+0,Stand_Ang_01
+Out,,,,none
+0,sound/data/pcm/c10/adv/00.unity3d,adv_ev_10_149
+[H名],「む……いつもと味が違う？」
+[P名],「そうなの？　よく気づくね」
+0,標準
+0,,adv_ev_10_150
+[H名],「我の好みの味だからな」
+FALSE
+in,,,,none
+System.Int32,jumpNo02,79
+H_relation,0,2,恋人,知り合い
+恋人
+,83,FALSE,TRUE,TRUE
+知り合い

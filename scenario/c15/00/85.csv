@@ -1,0 +1,18 @@
+﻿﻿教室2-1,FALSE
+0,教室2-1
+adv_ev_00_camera,Camera
+adv_ev_00_chara,Chara
+0,3,1
+0,1
+0,疑問
+0,Stand_Sat_02
+Out,,,,none
+0,sound/data/pcm/c15/adv/00.unity3d,adv_ev_15_138
+[H名],「なーなー、勉強ってホントに役に立つのかー？」
+[P名],「きっと、みんな同じこと考えてるよね。でも、勉強は大事だよ」
+0,,adv_ev_15_139
+[H名],「遊びの時間も大事だぞー？　コーイン、アレのごとく？　って言うしなー」
+[P名],（やっぱり勉強って大事だよな。うん）
+FALSE
+in,,,,none
+System.Int32,jumpNo00,70

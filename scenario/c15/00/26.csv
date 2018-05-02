@@ -1,0 +1,20 @@
+﻿﻿食堂,FALSE
+0,食堂
+adv_ev_00_camera,Camera
+adv_ev_00_chara,Chara
+0,3,1
+0,1
+0,ちょっと照れた笑顔
+0,Stand_Joy_05
+Out,,,,none
+0,sound/data/pcm/c15/adv/00.unity3d,adv_ev_15_155
+[H名],「へへー、アーンしてやろうかー？　ほら、アーン」
+[P名],「え！？　あ、アーン……」
+0,微笑み（目閉じ）
+0,Stand_Ang_01
+0,,adv_ev_15_156
+[H名],「なんてなー。ぱくっ、もぐもぐ……」
+[P名],「そ、それはズルいよ！　俺が恥ずかしいだけだよ！」
+FALSE
+in,,,,none
+System.Int32,jumpNo02,80

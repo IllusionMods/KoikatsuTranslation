@@ -1,0 +1,22 @@
+﻿﻿裏庭,FALSE
+0,裏庭
+adv_ev_00_camera,Camera
+adv_ev_00_chara,Chara
+0,3,1
+0,1
+0,笑顔
+0,Stand_Joy_05
+Out,,,,none
+0,sound/data/pcm/c14/adv/00.unity3d,adv_ev_14_158
+[H名],「お、今日は弁当か？」
+[P名],「そう、たまには自分で作るのもいいかなって」
+0,,adv_ev_14_159
+[H名],「どれどれ、味見してやろう……」
+[P名],「あ、あの……俺のおかずが……無くなっ……あっ！」
+0,笑顔（目閉じ）
+0,Stand_Sat_02
+0,,adv_ev_14_160
+[H名],「[P]は料理うまいな！　これならお嫁に行っても安心だな！　ハハハ！」
+FALSE
+in,,,,none
+System.Int32,jumpNo02,81

@@ -1,0 +1,22 @@
+﻿﻿中庭,FALSE
+0,中庭
+adv_ev_00_camera,Camera
+adv_ev_00_chara,Chara
+0,3,1
+0,1
+0,標準
+0,Stand_Joy_01
+Out,,,,none
+0,sound/data/pcm/c11/adv/00.unity3d,adv_ev_11_156
+[H名],「どう？　私のお弁当、お口に合うかしら？」
+[P名],「なんか懐かしい味がする……すごく美味しいよ」
+0,微笑
+0,,adv_ev_11_157
+[H名],「うふふ、それは良かったわ。こんなので良ければまた作ってくるから、食べたくなったらいつでも言ってね」
+FALSE
+in,,,,none
+System.Int32,jumpNo02,79
+H_relation,0,2,恋人,知り合い
+恋人
+,83,FALSE,TRUE,TRUE
+知り合い

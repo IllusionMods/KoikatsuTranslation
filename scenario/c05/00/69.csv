@@ -1,0 +1,19 @@
+﻿﻿グラウンド,FALSE
+0,グラウンド
+adv_ev_00_camera,Camera
+adv_ev_00_chara,Chara
+0,Gym
+0,3,1
+0,1
+0,標準
+0,Stand_05_00
+Out,,,,none
+[P名],「おお、すごい。どうやったらそんなに遠くまで飛ばせるの？」
+0,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_145
+[H名],「ただ、言うとおりにしてるだけだよ。あなたには、なにも聞こえない？」
+[P名],「うん。あーあ、俺もそんなに上手くなりたいな」
+0,,adv_ev_05_146
+[H名],「もう一回やってみて？　あなたにも聞こえるといいのに……」
+FALSE
+in,,,,none
+System.Int32,jumpNo01,75

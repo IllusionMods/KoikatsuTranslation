@@ -1,0 +1,21 @@
+﻿﻿adv/bg/00.unity3d,bg_11_e
+0,3,1
+0,1
+0,微笑
+0,Stand_Joy_00
+Out,,,,none
+0,sound/data/pcm/c12/adv/00.unity3d,adv_ev_12_112
+[H名],「今日も楽しかった。なんかまだふわふわしてるよ。えへへ」
+0,,adv_ev_12_113
+[H名],「またいつでも誘ってくれていいから。待ってるから……な？　うん。じゃ、気を付けて帰れよ」
+FALSE
+in,,,,none
+FALSE
+H_favor,1,20
+H_favor,H_favor
+H_lewdness,1,20
+H_lewdness,H_lewdness
+H_anger,2,20
+H_anger,H_anger
+0,0,1
+0,0

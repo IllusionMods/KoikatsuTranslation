@@ -1,0 +1,19 @@
+﻿﻿グラウンド,FALSE
+0,グラウンド
+adv_ev_00_camera,Camera
+adv_ev_00_chara,Chara
+0,Gym
+0,3,1
+0,1
+0,笑顔（目閉じ）
+0,Stand_Joy_06
+Out,,,,none
+0,sound/data/pcm/c11/adv/00.unity3d,adv_ev_11_148
+[H名],「鬼さんこちら♪　つかまえてごらんなさ～い」
+[P名],（この年になって鬼ごっこか……）
+0,,adv_ev_11_149
+[H名],「ほーら、何してるの？　私はこっちよ～。うふふふふっ」
+[P名],（は、早い！　彼女……鬼ごっこのプロだ！）
+FALSE
+in,,,,none
+System.Int32,jumpNo01,74

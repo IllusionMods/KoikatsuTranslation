@@ -1,0 +1,21 @@
+﻿﻿食堂,FALSE
+0,食堂
+adv_ev_00_camera,Camera
+adv_ev_00_chara,Chara
+0,3,1
+0,1
+0,笑顔
+0,Stand_Joy_07
+Out,,,,none
+0,sound/data/pcm/c07/adv/00.unity3d,adv_ev_07_155
+[H名],「さっ、メシメシ～。今日はなに食べる？」
+[P名],「ここって結構、色々あるんだよな。迷うね」
+0,,adv_ev_07_156
+[H名],「おー、迷ったら肉じゃないか？　男子と言えば肉、筋肉と言えば男子。だろ？」
+FALSE
+in,,,,none
+System.Int32,jumpNo02,79
+H_relation,0,2,恋人,知り合い
+恋人
+,83,FALSE,TRUE,TRUE
+知り合い

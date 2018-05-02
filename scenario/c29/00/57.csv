@@ -1,0 +1,27 @@
+﻿﻿Date,,0,,TRUE
+adv/bg/00.unity3d,bg_10
+0,3,1
+0,1
+0,Plain
+0,微笑
+0,Stand_Joy_00
+Out,,,,none
+0,sound/data/pcm/c29/adv/00.unity3d,adv_ev_29_118
+[H名],「今日はいったい、どのようなデートになるのか――楽しみです」
+[P名],「うん、俺も。じゃあ早速行こうか」
+in,1,black,back,TRUE
+out,1,black,back,TRUE
+[P名],「どうしたの？　こっちをじっと見て」
+0,3,1
+0,思わず目を逸らす
+0,Stand_Sat_06
+0,,adv_ev_29_119
+[H名],「い、いえ……並んで歩く横顔が素敵だと……」
+0,焦り
+0,,adv_ev_29_120
+[H名],「す、すみません……！　今の言葉は忘れてください！」
+FALSE
+in,,,,none
+0,0,1
+0,0
+FALSE

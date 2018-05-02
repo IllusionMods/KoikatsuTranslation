@@ -1,0 +1,43 @@
+﻿﻿Date,,0,,TRUE
+adv/bg/00.unity3d,bg_10
+0,3,1
+0,1
+0,Plain
+0,笑顔（目閉じ）
+0,Stand_Sat_02
+Out,,,,none
+0,sound/data/pcm/c15/adv/00.unity3d,adv_ev_15_103
+[H名],「へへー、初デート初デート♪　あたし、いますごくワクワクしてるぞ！」
+[P名],「俺もワクワクしてる。初デートだから、記念になる思い出、作ろうね」
+0,,adv_ev_15_104
+[H名],「おおー、期待してるぞ！　よろしくな」
+[P名],「任せて」
+in,1,black,back,TRUE
+0,笑顔
+out,1,black,back,TRUE
+[P名],「どう、楽しめてるかな？」
+0,Stand_Joy_04
+0,,adv_ev_15_105
+[H名],「もちろん！　キミと一緒だからかな？　歩いてるだけでも楽しいぞ！」
+[P名],「はは、そういってくれて嬉しいよ。おっ、もうすぐ次の目的地だ」
+0,,adv_ev_15_106
+[H名],「次は何で勝負するんだ？　ゲームか？　それとも早食いか？」
+[P名],「別に勝負をするわけじゃ……ま、楽しんでくれるならいっか」
+in,1,black,back,TRUE
+adv/bg/00.unity3d,bg_11_e
+0,ドキドキ笑顔
+0,Stand_22_00
+out,1,black,back,TRUE
+0,,adv_ev_15_107
+[H名],「今日は最高の思い出作れたぞ♪　またデートしような？　じゃーねー！」
+FALSE
+in,,,,none
+FALSE
+H_favor,1,20
+H_favor,H_favor
+H_lewdness,1,20
+H_lewdness,H_lewdness
+H_anger,2,20
+H_anger,H_anger
+0,0,1
+0,0

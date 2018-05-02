@@ -1,0 +1,22 @@
+﻿﻿StaffRoom,,0,,TRUE
+自室,FALSE
+0,自室
+adv_ev_00_camera,Camera
+adv_ev_00_chara,Chara
+0,3,1
+0,1
+0,微笑
+0,Stand_Ang_01
+Out,,,,none
+0,sound/data/pcm/c14/adv/00.unity3d,adv_ev_14_125
+[H名],「ふ～ん、ここが[P]の部屋か……わりと片付いてんな」
+0,,adv_ev_14_126
+[H名],「なんか[P]らしい部屋っていうか。ここにいると落ち着くわ……」
+0,ドキドキ
+0,Stand_Oth_00
+0,,adv_ev_14_127
+[H名],「傍に寄ってもいいか？　な、なんだよ、おまえだって、その気で誘ったんだろ？」
+FALSE
+in,,,,none
+0,0,1
+0,0

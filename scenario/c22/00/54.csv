@@ -1,0 +1,23 @@
+﻿﻿adv/bg/00.unity3d,bg_11_e
+0,3,1
+0,1
+0,School02
+0,思案
+0,Stand_Joy_05
+Out,,,,none
+0,sound/data/pcm/c22/adv/00.unity3d,adv_ev_22_138
+[H名],「あれ、もしかして……あそこのお店、新しくなった？」
+[P名],「ん？　そうだっけ？」
+0,標準
+0,,adv_ev_22_139
+[H名],「うん、前はパスタ屋さんだったよー」
+0,微笑
+0,Stand_Sat_01
+0,,adv_ev_22_140
+[H名],「結構好きなお店だったのに残念……あ、でもでも新しいお店も美味しいかもしれないよね！」
+FALSE
+in,,,,none
+System.Int32,jumpNo04,66
+0,0,1
+0,0
+FALSE

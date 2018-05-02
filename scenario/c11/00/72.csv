@@ -1,0 +1,20 @@
+﻿﻿自室,FALSE
+0,自室
+adv_ev_00_camera,Camera
+adv_ev_00_chara,Chara
+0,Pajamas
+0,3,1
+0,1
+0,標準
+0,Stand_Joy_07
+out,,,,none
+0,sound/data/pcm/c11/adv/00.unity3d,adv_ev_11_040
+[H名],「ふ～、シャワーでスッキリ♪　あら、あなたも汗を流してく？」
+0,微笑
+0,Stand_24_00
+0,,adv_ev_11_041
+[H名],「うふふ……まだベッドでゴロゴロしたいかしらね。ご自由にどうぞ♪」
+FALSE
+in,,,,none
+0,0,1
+0,0

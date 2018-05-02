@@ -1,0 +1,22 @@
+﻿﻿adv/bg/00.unity3d,bg_11_e
+0,School02
+0,3,1
+0,1
+0,Stand_Joy_08
+out,,,,none
+[P名],「へえ、色々あるんだね」
+0,微笑
+0,sound/data/pcm/c24/adv/00.unity3d,adv_ev_24_087
+[H名],「あのお店に入ってみませんか？　あなたの好きなものがたくさんありそうです」
+[P名],「うん、いいよ」
+in,1,black,back,TRUE
+out,1,black,back,TRUE
+0,ドキドキ笑顔
+0,,adv_ev_24_088
+[H名],「うふふ♡　あなたの喜ぶ顔がたくさん見られてとっても幸せでした♡」
+[P名],（よかった、喜んでもらえたみたいだ）
+FALSE
+in,,,,none
+FALSE
+0,0,1
+0,0

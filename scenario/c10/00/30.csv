@@ -1,0 +1,19 @@
+﻿﻿adv/bg/00.unity3d,bg_15_e
+0,3,1
+0,1
+0,School02
+0,照れ顔
+0,Stand_Sat_02
+out,,,,none
+0,sound/data/pcm/c10/adv/00.unity3d,adv_ev_10_129
+[H名],「なあなあ……」
+[P名],「んっ？　何？」
+0,,adv_ev_10_130
+[H名],「もっと……汝にくっつきたい……のだ」
+[P名],「はは、何？　めちゃ照れてるね♪　なんか……可愛いなあ」
+FALSE
+in,,,,none
+System.Int32,jumpNo04,67
+FALSE
+0,0,1
+0,0

@@ -1,0 +1,18 @@
+﻿﻿食堂,FALSE
+0,食堂
+adv_ev_00_camera,Camera
+adv_ev_00_chara,Chara
+0,3,1
+0,1
+0,標準
+0,Stand_21_00
+Out,,,,none
+0,sound/data/pcm/c11/adv/00.unity3d,adv_ev_11_158
+[H名],「ここの食堂、なかなかの味でしょ？　私のおかずもちょっと試してみて」
+[P名],「いいの？　ありがとう」
+0,,adv_ev_11_159
+[H名],「バランスが悪くなっちゃったわね……お野菜もどうぞ。あら、これだとご飯が少ないわ。はい、私の分を半分あげる」
+[P名],（こんなに食べきれるかな……）
+FALSE
+in,,,,none
+System.Int32,jumpNo02,80

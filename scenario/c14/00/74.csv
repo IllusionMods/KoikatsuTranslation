@@ -1,0 +1,25 @@
+﻿﻿部室,FALSE
+0,部室
+adv_ev_00_camera,Camera
+adv_ev_00_chara,Chara
+0,3,1
+0,1
+0,標準
+0,Stand_Joy_09
+Out,,,,none
+0,sound/data/pcm/c14/adv/00.unity3d,adv_ev_14_166
+[H名],「お前恋人出来たらやってみたいこととかあんのか？」
+[P名],「う～ん、そう言われてみるとなんだろうなぁ～」
+[P名],「あ、そうだ恋人繋ぎやってみたいな！」
+0,,adv_ev_14_167
+[H名],「恋人繋ぎ……？　あぁあれか手を絡ませるやつな、やってみようぜ」
+in,.8,black,back,TRUE
+0,照れ顔
+0,Stand_Sat_06
+out,.8,black,back,TRUE
+0,,adv_ev_14_168
+[H名],「お……おい……もう満足か？」
+[P名],「う……うん。ありがとう。……あれ？　なんか顔赤くない？」
+FALSE
+in,,,,none
+System.Int32,jumpNo03,85

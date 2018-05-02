@@ -1,0 +1,24 @@
+﻿﻿食堂,FALSE
+0,食堂
+adv_ev_00_camera,Camera
+adv_ev_00_chara,Chara
+0,3,1
+0,1
+0,笑顔
+0,Stand_02_00
+Out,,,,none
+0,sound/data/pcm/c02/adv/00.unity3d,adv_ev_02_161
+[H名],「おほほほ、見事な健啖ぶりですわね！　節制している身としては羨ましいですわ」
+[P名],「でも、いっぱい食べないと、一日頑張れないよ？」
+0,標準
+0,Stand_Joy_05
+0,,adv_ev_02_162
+[H名],「おっしゃる通りですわね……今回は、おかわりいたしますわ！」
+[P名],（……美味しそうに食べる子だなぁ。それでいて上品なんだからすごい……）
+FALSE
+in,,,,none
+System.Int32,jumpNo02,79
+H_relation,0,2,恋人,知り合い
+恋人
+,83,FALSE,TRUE,TRUE
+知り合い

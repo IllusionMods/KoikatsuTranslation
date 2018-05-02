@@ -1,0 +1,20 @@
+﻿﻿中庭,FALSE
+0,中庭
+adv_ev_01_camera,Camera
+adv_ev_01_chara,Chara
+0,School02
+0,3,1
+0,1
+0,標準
+0,Stand_17_00
+Out,,,,none
+0,sound/data/pcm/c17/adv/00.unity3d,adv_ev_17_127
+[H名],「いつもと同じ帰り道なのに、今日は少し違って感じるわ」
+[P名],「え？　どうして？」
+0,,adv_ev_17_128
+[H名],「……なんででしょうね。あなたが気づいていないならいいわ」
+FALSE
+in,,,,none
+System.Int32,jumpNo04,65
+0,0,1
+0,0

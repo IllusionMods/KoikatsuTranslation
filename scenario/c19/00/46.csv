@@ -1,0 +1,18 @@
+﻿﻿食堂,FALSE
+0,食堂
+adv_ev_00_camera,Camera
+adv_ev_00_chara,Chara
+0,3,1
+0,1
+0,笑顔
+0,Stand_24_00
+Out,,,,none
+0,sound/data/pcm/c19/adv/00.unity3d,adv_ev_19_153
+[H名],「本当にいつも美味しそうに食べるね。見てるこっちも筆が進みそう」
+[P名],「筆？　箸じゃなくて？」
+0,,adv_ev_19_154
+[H名],「お箸も確かに進むけどね。それ以上にグルメ系の小説が1本書けそうな気分になって……」
+[P名],「そうなんだ。それなら、完成したら見せてよ。楽しみに待ってるから」
+FALSE
+in,,,,none
+System.Int32,jumpNo02,80

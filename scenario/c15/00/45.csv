@@ -1,0 +1,23 @@
+﻿﻿体育館,FALSE
+0,体育館
+adv_ev_00_camera,Camera
+adv_ev_00_chara,Chara
+0,3,1
+0,1
+0,Gym
+0,標準
+0,Stand_Joy_05
+Out,,,,none
+0,sound/data/pcm/c15/adv/00.unity3d,adv_ev_15_144
+[H名],「いーち、にー、さーん、しー……」
+[P名],「いたた……も、もう少し優しくしてくれない？」
+0,,adv_ev_15_145
+[H名],「もー、キミ身体硬すぎだぞー。準備運動で弱音吐くなー」
+[P名],「うぐぐ……く、苦しい……」
+0,笑顔（目閉じ）
+0,Stand_07_00
+0,,adv_ev_15_146
+[H名],「まだなんにも勝負してないぞー？　ほら、がんばー！」
+FALSE
+in,,,,none
+System.Int32,jumpNo01,74

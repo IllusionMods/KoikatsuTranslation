@@ -1,0 +1,18 @@
+﻿﻿自室,FALSE
+0,自室
+adv_ev_00_camera,Camera
+adv_ev_00_chara,Chara
+0,3,1
+0,1
+0,微笑
+0,Stand_Joy_05
+Out,,,,none
+0,sound/data/pcm/c15/adv/00.unity3d,adv_ev_15_127
+[H名],「へへー、お邪魔するぞー」
+0,見つめながらドキドキ
+0,,adv_ev_15_128
+[H名],「さぁ、始めるぞ。キミももう抑えきれないんだろ？　あたしももう……」
+FALSE
+in,,,,none
+0,0,1
+0,0

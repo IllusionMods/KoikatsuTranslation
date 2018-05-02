@@ -1,0 +1,20 @@
+﻿﻿adv/bg/00.unity3d,bg_15_e
+0,School02
+0,3,1
+0,1
+0,デレ顔
+0,Stand_Oth_00
+out,,,,none
+0,sound/data/pcm/c00/adv/00.unity3d,adv_ev_00_133
+[H名],「私、こういうところでもやってみたいなって思ってたの……ねぇ、いいでしょ？」
+[P名],「はい！？　えっと、それは色々と問題が……」
+0,デレ顔(目閉じ)
+0,Stand_Joy_00
+0,,adv_ev_00_134
+[H名],「ちゅっ！　…………ふふ、キスしちゃった」
+FALSE
+in,,,,none
+System.Int32,jumpNo04,67
+FALSE
+0,0,1
+0,0

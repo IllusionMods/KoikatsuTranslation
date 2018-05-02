@@ -1,0 +1,22 @@
+﻿﻿裏庭,FALSE
+0,裏庭
+adv_ev_00_camera,Camera
+adv_ev_00_chara,Chara
+0,3,1
+0,1
+0,デレ顔
+0,Stand_23_00
+Out,,,,none
+0,sound/data/pcm/c25/adv/00.unity3d,adv_ev_25_155
+[H名],「ここなら人目も少ないね～……」
+[P名],「ん？　どうかした？」
+0,はにかみ
+0,Stand_Joy_00
+0,,adv_ev_25_156
+[H名],「ふふ～♪　はい、[P]、あ～ん」
+[P名],「えっ、あ～ん……」
+0,,adv_ev_25_157
+[H名],「ちょっとやってみたかったり～♪」
+FALSE
+in,,,,none
+System.Int32,jumpNo02,81

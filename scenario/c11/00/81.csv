@@ -1,0 +1,19 @@
+﻿﻿自室,FALSE
+0,自室
+adv_ev_00_camera,Camera
+adv_ev_00_chara,Chara
+0,3,1
+0,1
+0,ちょっと照れた笑顔
+0,Stand_22_00
+Out,,,,none
+0,sound/data/pcm/c11/adv/00.unity3d,adv_ev_11_128
+[H名],「あら、こんなところにエッチな本が……うふふ、いいのよ。男の子だもんね」
+0,見つめながらドキドキ
+0,Stand_11_00
+0,,adv_ev_11_129
+[H名],「この本に載ってるようなこと、する……？　ワガママ言ってくれてもいいのよ」
+FALSE
+in,,,,none
+0,0,1
+0,0

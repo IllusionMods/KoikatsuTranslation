@@ -1,0 +1,19 @@
+﻿﻿食堂,FALSE
+0,食堂
+adv_ev_00_camera,Camera
+adv_ev_00_chara,Chara
+0,3,1
+0,1
+0,呆れ
+0,Stand_12_00
+Out,,,,none
+0,sound/data/pcm/c13/adv/00.unity3d,adv_ev_13_154
+[H名],「あ、またパンだけ？ 栄養偏っちゃうよ？」
+[P名],「わかってはいるんだけどな～。ついつい……」
+0,Stand_Sat_02
+0,,adv_ev_13_155
+[H名],「もぉ～、しょうがないから今度……アタシがお弁当作ってきてあげる」
+[P名],「それ食べたい！ あ、いや助かる！ お願いします」
+FALSE
+in,,,,none
+System.Int32,jumpNo02,80

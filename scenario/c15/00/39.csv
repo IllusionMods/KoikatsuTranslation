@@ -1,0 +1,26 @@
+﻿﻿Date,,0,,TRUE
+adv/bg/00.unity3d,bg_14
+0,3,1
+0,1
+0,Plain
+0,微笑
+0,Stand_Joy_00
+Out,,,,none
+0,sound/data/pcm/c15/adv/00.unity3d,adv_ev_15_108
+[H名],「へへー、今日になるの、ずっと待ってたんだぞ」
+[P名],「俺もだよ。じゃあ、行こうか」
+in,1,black,back,TRUE
+out,1,black,back,TRUE
+[P名],「こうやって、芝生の上に座るのっていいよね」
+0,笑顔（目閉じ）
+0,Stand_Joy_05
+0,,adv_ev_15_109
+[H名],「そうだな。でも……ふたりで寝転がった方がさらにいいと思うぞ、うりゃっ！」
+[P名],「うわっ！？」
+0,,adv_ev_15_110
+[H名],「へへー、どうだ？　あたしと芝生に挟まれて気持ちいいだろ？」
+FALSE
+in,,,,none
+FALSE
+0,0,1
+0,0

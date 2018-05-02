@@ -1,0 +1,22 @@
+﻿﻿StaffRoom,,0,,TRUE
+自室,FALSE
+0,自室
+adv_ev_00_camera,Camera
+adv_ev_00_chara,Chara
+0,3,1
+0,1
+0,少し緊張
+0,Stand_21_00
+Out,,,,none
+0,sound/data/pcm/c09/adv/00.unity3d,adv_ev_09_123
+[H名],「うわあ、ここがあんたの家かぁ……」
+0,ドキドキ
+0,,adv_ev_09_124
+[H名],「何だろう、すっごくドキドキする。あたし、調子が悪いのかな……？」
+0,Stand_Ang_01
+0,,adv_ev_09_125
+[H名],「やっぱり、するの？　ち、ちょっと待って！　心の準備が……すぅー、はぁー……よし！　覚悟、出来たわ」
+FALSE
+in,,,,none
+0,0,1
+0,0

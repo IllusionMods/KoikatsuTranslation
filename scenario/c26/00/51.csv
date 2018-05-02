@@ -1,0 +1,22 @@
+﻿﻿StaffRoom,,0,,TRUE
+自室,FALSE
+0,自室
+adv_ev_00_camera,Camera
+adv_ev_00_chara,Chara
+0,3,1
+0,1
+0,ちょっと照れた笑顔
+0,Stand_21_00
+Out,,,,none
+0,sound/data/pcm/c26/adv/00.unity3d,adv_ev_26_124
+[H名],「……ここが、[P]の部屋……」
+0,,adv_ev_26_125
+[H名],「……なんか、嬉しい」
+0,見つめながらドキドキ
+0,Stand_Oth_00
+0,,adv_ev_26_126
+[H名],「[P]、私としたいの？　……うん、いいよ。私も触れ合いたいから……」
+FALSE
+in,,,,none
+0,0,1
+0,0

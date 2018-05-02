@@ -1,0 +1,58 @@
+﻿﻿Date,,0,,TRUE
+adv/bg/00.unity3d,bg_14
+0,3,1
+0,1
+0,微笑
+0,Stand_Joy_00
+0,Plain
+Out,,,,none
+0,sound/data/pcm/c10/adv/00.unity3d,adv_ev_10_110
+[H名],「また、汝と共に散策できるとはな……」
+[P名],「とりあえず、ぶらぶら歩こうか」
+in,1,black,back,TRUE
+0,困り顔
+0,Stand_Joy_00
+out,1,black,back,TRUE
+0,,adv_ev_10_111
+[H名],「少し歩き疲れたな、魔力が足りないかもしれない」
+[P名],「大丈夫？　少し休もうか？」
+0,照れ顔
+0,Stand_Sat_02
+0,,adv_ev_10_112
+[H名],「ああ……そ、そうだ！　お、おんぶという行為をしてくれないか？」
+[P名],「お、おんぶ！？ なんでまた？」
+0,,adv_ev_10_113
+[H名],「えっと　汝の背中にギューッとしたいなって……ダメ？」
+[P名],「や、やる！　やりたい！　やらせてください！」
+in,1,black,back,TRUE
+adv/bg/00.unity3d,bg_15_e
+0,Stand_Sat_01
+out,1,black,back,TRUE
+0,,adv_ev_10_114
+[H名],「ふぅ……お別れかあ。さ、寂しいな、汝はどうなのだ？」
+TRUE,「俺も、寂しいよ。もう少し一緒にいたい」,選択肢A,「寂しいけど、またこれるよ」,選択肢B
+選択肢A
+System.Boolean,isH,TRUE
+[P名],「俺も、寂しいよ。もう少し一緒にいたい」
+0,Stand_Joy_00
+0,,adv_ev_10_115
+[H名],「我もだ……汝ともっとイチャイチャしたい」
+終了
+選択肢B
+H_favor,1,20
+H_favor,H_favor
+H_lewdness,1,20
+H_lewdness,H_lewdness
+H_anger,2,20
+H_anger,H_anger
+[P名],「寂しいけど……またこれるよ、一緒に。次はもっと楽しくなるはず……ううん、今日以上に楽しませるよ！」
+0,Stand_Sat_00
+0,,adv_ev_10_116
+[H名],「そ、そうか……わかった。次もよろしく頼む」
+終了
+終了
+FALSE
+in,,,,none
+FALSE
+0,0,1
+0,0

@@ -1,0 +1,25 @@
+﻿﻿部室,FALSE
+0,部室
+adv_ev_00_camera,Camera
+adv_ev_00_chara,Chara
+0,3,1
+0,1
+0,標準
+0,Stand_Sat_02
+Out,,,,none
+0,sound/data/pcm/c15/adv/00.unity3d,adv_ev_15_165
+[H名],「なーなー、彼女が他の男に言い寄られたらどうするー？」
+[P名],「もちろん、その男を追い払うよ」
+0,ウィンク(右閉じ)
+0,,adv_ev_15_166
+[H名],「オッケー！　部長の男らしいとこ、期待してるぞー」
+in,.8,black,back,TRUE
+0,照れ顔
+0,Stand_Ang_01
+out,.8,black,back,TRUE
+0,,adv_ev_15_167
+[H名],「おぉ……、思ってたより、ドキドキしたぞ」
+[P名],「はは、壁ドンって、冷静になると結構勇気いるもんだね」
+FALSE
+in,,,,none
+System.Int32,jumpNo03,85

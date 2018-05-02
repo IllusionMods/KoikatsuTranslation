@@ -1,0 +1,17 @@
+﻿﻿自室,FALSE
+0,自室
+adv_ev_00_camera,Camera
+adv_ev_00_chara,Chara
+0,3,1
+0,1
+0,ドキドキ
+0,Stand_Sat_01
+Out,,,,none
+0,sound/data/pcm/c10/adv/00.unity3d,adv_ev_10_123
+[H名],「こら！　そ、そんなにがっつくな……」
+0,,adv_ev_10_124
+[H名],「あせらなくても……今日は、たくさん出していいから、な？」
+FALSE
+in,,,,none
+0,0,1
+0,0

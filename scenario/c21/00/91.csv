@@ -1,0 +1,21 @@
+﻿﻿グラウンド,FALSE
+0,グラウンド
+adv_ev_00_camera,Camera
+adv_ev_00_chara,Chara
+0,Gym
+0,3,1
+0,1
+0,疑問
+0,Stand_11_00
+Out,,,,none
+0,sound/data/pcm/c21/adv/00.unity3d,adv_ev_21_149
+[H名],「とりあえず外に出てきたけど、何をするの？」
+[P名],「保健体育の教科書に載ってた『二人で出来るストレッチ』っていうのをやってみようかと」
+0,呆れ
+0,Stand_Oth_08
+0,,adv_ev_21_150
+[H名],「……それって、エッチぃやつじゃないよね？」
+[P名],「女子にとっても保健体育ってそういうイメージなの！？　すごく健全なやつだよ！」
+FALSE
+in,,,,none
+System.Int32,jumpNo01,74

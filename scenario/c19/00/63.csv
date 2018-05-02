@@ -1,0 +1,23 @@
+﻿﻿adv/bg/00.unity3d,bg_11_e
+0,3,1
+0,1
+0,Stand_24_00
+0,School02
+out,,,,none
+[P名],「へえ、色々あるんだね」
+0,笑顔
+0,sound/data/pcm/c19/adv/00.unity3d,adv_ev_19_084
+[H名],「あの書店とかはどうかな？　実は今日、新刊の発売日なの」
+[P名],「うん、いいよ」
+in,1,black,back,TRUE
+out,1,black,back,TRUE
+0,笑顔（目閉じ）
+0,Stand_Joy_01
+0,,adv_ev_19_085
+[H名],「わざわざ付き合ってくれてありがとう。おかげで新しいジャンルを開拓できたかも」
+[P名],（よかった、喜んでもらえたみたいだ）
+FALSE
+in,,,,none
+FALSE
+0,0,1
+0,0

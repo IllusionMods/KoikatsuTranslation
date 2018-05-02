@@ -1,0 +1,20 @@
+﻿﻿教室2-1,FALSE
+0,教室2-1
+adv_ev_00_camera,Camera
+adv_ev_00_chara,Chara
+0,3,1
+0,1
+0,照れ顔
+0,Stand_Oth_00
+Out,,,,none
+0,sound/data/pcm/c07/adv/00.unity3d,adv_ev_07_157
+[H名],「こうやって机を挟んで食べるのって、その、アレみたいだよな」
+[P名],「んー？　ワイワイやって楽しいよな」
+0,真剣な顔（照れ）
+0,,adv_ev_07_158
+[H名],「じゃなくて！　アレ！　男女が向かい合って食事してるんだから、その」
+[P名],「あー！　給食！」
+[P名],「ど、どうした？　プルプル震えだして……」
+FALSE
+in,,,,none
+System.Int32,jumpNo02,80

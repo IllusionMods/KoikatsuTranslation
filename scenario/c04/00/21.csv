@@ -1,0 +1,20 @@
+﻿﻿食堂,FALSE
+0,食堂
+adv_ev_00_camera,Camera
+adv_ev_00_chara,Chara
+0,3,1
+0,1
+0,標準
+0,Stand_04_00
+Out,,,,none
+[P名],「いつも思うけど、きみの食べ方って上品だよね」
+0,照れ顔
+0,sound/data/pcm/c04/adv/00.unity3d,adv_ev_04_154
+[H名],「そ、そうかしら？　意識したことはないんだけど……」
+[P名],「うん、なんていうか……キレイだ」
+0,Stand_Joy_09
+0,,adv_ev_04_155
+[H名],「き、キレイって……もう、女の子にそんな言葉を軽々と使っちゃダメよ……？」
+FALSE
+in,,,,none
+System.Int32,jumpNo02,80

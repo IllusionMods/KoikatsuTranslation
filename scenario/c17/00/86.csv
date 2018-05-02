@@ -1,0 +1,22 @@
+﻿﻿グラウンド,FALSE
+0,グラウンド
+adv_ev_00_camera,Camera
+adv_ev_00_chara,Chara
+0,Gym
+0,Stand_Joy_07
+0,3,1
+0,1
+Out,,,,none
+[P名],「ふぅ。ちょっと疲れたから、休憩にしない？」
+0,標準
+0,Stand_Joy_07
+0,sound/data/pcm/c17/adv/00.unity3d,adv_ev_17_147
+[H名],「えぇ、そうね。私も少し汗かいちゃったわ」
+[P名],「そ、そう……」
+0,見つめながらドキドキ
+0,Stand_Joy_05
+0,,adv_ev_17_148
+[H名],「目線がいやらしいとこに行ってるわよ？　ふふっ、今はダメ。あとで……ね？」
+FALSE
+in,,,,none
+System.Int32,jumpNo01,76

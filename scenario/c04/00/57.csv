@@ -1,0 +1,17 @@
+﻿﻿自室,FALSE
+0,自室
+adv_ev_00_camera,Camera
+adv_ev_00_chara,Chara
+0,3,1
+0,1
+0,見つめながらドキドキ
+0,Stand_Oth_00
+Out,,,,none
+0,sound/data/pcm/c04/adv/00.unity3d,adv_ev_04_126
+[H名],「おじゃまします……って、手が早いんだから、もう……」
+0,,adv_ev_04_127
+[H名],「そんなお盛んなお猿さんは……私が搾り取っちゃうわよ……ふふっ」
+FALSE
+in,,,,none
+0,0,1
+0,0

@@ -1,0 +1,18 @@
+﻿﻿自室,FALSE
+0,自室
+adv_ev_00_camera,Camera
+adv_ev_00_chara,Chara
+0,Pajamas
+0,3,1
+0,1
+0,照れ顔
+0,Stand_Oth_00
+out,,,,none
+0,sound/data/pcm/c06/adv/00.unity3d,adv_ev_06_044
+[H名],「あ……お早う御座います。お風呂をいただいておりました」
+0,,adv_ev_06_045
+[H名],「……こちらの布ですか？　その……貴方がお好きかと思いまして……ど、どうでしょう」
+FALSE
+in,,,,none
+0,0,1
+0,0

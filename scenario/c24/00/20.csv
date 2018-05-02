@@ -1,0 +1,22 @@
+﻿﻿中庭,FALSE
+0,中庭
+adv_ev_01_camera,Camera
+adv_ev_01_chara,Chara
+0,School02
+0,3,1
+0,1
+0,Stand_Joy_01
+Out,,,,none
+[P名],「ごめん、待った？」
+0,はにかみ
+0,sound/data/pcm/c24/adv/00.unity3d,adv_ev_24_143
+[H名],「いいえ、私も今来たところです♡　……うふふ♡　一度言ってみたかったんです♡」
+[P名],「校門で待ち合わせって男女共通のロマンなんだね」
+0,ちょっと照れた笑顔
+0,,adv_ev_24_144
+[H名],「はい♡　それでは、帰りましょう♡」
+FALSE
+in,,,,none
+System.Int32,jumpNo04,65
+0,0,1
+0,0

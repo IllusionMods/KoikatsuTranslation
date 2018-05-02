@@ -1,0 +1,19 @@
+﻿﻿自室,FALSE
+0,自室
+adv_ev_00_camera,Camera
+adv_ev_00_chara,Chara
+0,3,1
+0,1
+0,笑顔（目閉じ）
+0,Stand_Joy_06
+Out,,,,none
+0,sound/data/pcm/c21/adv/00.unity3d,adv_ev_21_127
+[H名],「また来ちゃいましたよ～っと」
+0,見つめながらドキドキ
+0,Stand_Sat_01
+0,,adv_ev_21_128
+[H名],「……あ、もうしちゃうの？　仕方ないな～、なんて言いながらね、私もちょっと期待してた♡」
+FALSE
+in,,,,none
+0,0,1
+0,0

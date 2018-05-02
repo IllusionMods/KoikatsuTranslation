@@ -1,0 +1,21 @@
+﻿﻿中庭,FALSE
+0,中庭
+adv_ev_01_camera,Camera
+adv_ev_01_chara,Chara
+0,School02
+0,3,1
+0,1
+0,疑問
+0,Stand_Joy_05
+Out,,,,none
+0,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_129
+[H名],「ねぇ……寄り道って、どういうところに行ったりするの？」
+[P名],「そうだな……公園とか、喫茶店とか、買い物とか……あと家に行ったりとか」
+0,焦り
+0,,adv_ev_27_130
+[H名],「それって、あんたの家ってこと……！？　と、とにかく、歩きながら頭を整理するわ」
+FALSE
+in,,,,none
+System.Int32,jumpNo04,65
+0,0,1
+0,0

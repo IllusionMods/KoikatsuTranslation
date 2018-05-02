@@ -1,0 +1,27 @@
+﻿﻿部室,FALSE
+0,部室
+adv_ev_00_camera,Camera
+adv_ev_00_chara,Chara
+0,3,1
+0,1
+0,標準
+0,Stand_04_00
+Out,,,,none
+[P名],「今日はその、告白の練習をしたいと思ってるんだ」
+0,少し驚き
+0,sound/data/pcm/c04/adv/00.unity3d,adv_ev_04_164
+[H名],「えっ……あなた、誰かに告白するの？」
+[P名],「い、いや、そういうワケじゃないんだけど……その時のためにね」
+0,照れ顔
+0,,adv_ev_04_165
+[H名],「そ、そう……じゃあ、私も……その時のために、ね？　勘違いしちゃ、だめよ？」
+in,.8,black,back,TRUE
+0,恥ずかしくて真っ赤
+0,Stand_Oth_00
+out,.8,black,back,TRUE
+0,,adv_ev_04_166
+[H名],「……も、もうだめ……顔が熱いわ……」
+[P名],「ははっ、俺も……で、でもなんか……幸せだよ」
+FALSE
+in,,,,none
+System.Int32,jumpNo03,85

@@ -1,0 +1,20 @@
+﻿﻿adv/bg/00.unity3d,bg_op
+0,School02
+0,3,1
+0,1
+0,笑顔（目閉じ）
+0,Stand_22_00
+out,,,,none
+0,callBundle,callName1
+0,sound/data/pcm/c08/adv/00.unity3d,adv_ev_08_188
+[H名],「[Pあだ名]！　おっはよう！」
+[P名],「おはよう、[Hあだ名]」
+0,微笑み（目閉じ）
+0,Stand_Joy_05
+0,,adv_ev_08_189
+[H名],「えへへ、特別な感じがしていいね」
+FALSE
+in,,,,none
+0,0,1
+0,0
+FALSE

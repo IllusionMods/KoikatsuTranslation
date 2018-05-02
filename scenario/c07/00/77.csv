@@ -1,0 +1,48 @@
+﻿﻿Date,,0,,TRUE
+adv/bg/00.unity3d,bg_14
+0,3,1
+0,1
+0,Plain
+0,笑顔（目閉じ）
+0,Stand_07_00
+Out,,,,none
+0,sound/data/pcm/c07/adv/00.unity3d,adv_ev_07_104
+[H名],「やっぱりデートと言えば公園。だよな！？」
+[P名],「あはは……お約束と言えば、そうかもね」
+0,不満
+0,,adv_ev_07_105
+[H名],「む……お約束は嫌か？　私らはまだデート初心者なんだぞ？」
+[P名],「嫌なわけないだろ、きみとならどこだって楽しいさ」
+0,はにかみ
+0,,adv_ev_07_106
+[H名],「お、おう……わかってればいいんだよ！　じゃあ、行こう！」
+in,1,black,back,TRUE
+0,照れ顔
+out,1,black,back,TRUE
+0,,adv_ev_07_107
+[H名],「デートってドキドキして、なんて言うか羽が生えた気分だ」
+[P名],「楽しそうで良かったよ」
+0,はにかみ
+0,Stand_Ang_05
+0,,adv_ev_07_108
+[H名],「おう！　楽しい！　お前は楽しいか？　……その……私と一緒で……」
+[P名],「もちろん」
+[P名],（……こんな表情もするんだな。よし、もっと心を開かせちゃおう！）
+in,1,black,back,TRUE
+adv/bg/00.unity3d,bg_15_e
+0,笑顔
+0,Stand_07_00
+out,1,black,back,TRUE
+0,,adv_ev_07_109
+[H名],「今日もまた、絆が強まった気がする！　これから、もっとよろしくな！」
+FALSE
+in,,,,none
+FALSE
+H_favor,1,20
+H_favor,H_favor
+H_lewdness,1,20
+H_lewdness,H_lewdness
+H_anger,2,20
+H_anger,H_anger
+0,0,1
+0,0

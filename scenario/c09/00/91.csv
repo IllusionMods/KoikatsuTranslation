@@ -1,0 +1,20 @@
+﻿﻿教室2-1,FALSE
+0,教室2-1
+adv_ev_00_camera,Camera
+adv_ev_00_chara,Chara
+0,3,1
+0,1
+0,困り顔
+0,Stand_23_00
+Out,,,,none
+0,sound/data/pcm/c09/adv/00.unity3d,adv_ev_09_137
+[H名],「ねえ。よかったら、ここんとこ教えてくれない？」
+[P名],「え、いいよ？　……ええ？　こんなのも分からないの？」
+0,ちょっと膨れる感じ
+0,Stand_Ang_00
+0,,adv_ev_09_138
+[H名],「悪かったわね！　そんなこと言うんだったら、あんたにお願いしない！」
+[P名],「ごめん、俺が悪かったよ。だから機嫌をそこねないで……！」
+FALSE
+in,,,,none
+System.Int32,jumpNo00,70

@@ -1,0 +1,20 @@
+﻿﻿プール,FALSE
+0,プール
+adv_ev_00_camera,Camera
+adv_ev_00_chara,Chara
+0,Swim
+0,3,1
+0,1
+0,Stand_Sat_01
+Out,,,,none
+[P名],「じーっ……」
+0,標準
+0,sound/data/pcm/c23/adv/00.unity3d,adv_ev_23_147
+[H名],「ふぅ、泳いできたんだなぁ。って、ど、どこを見てるんだい！？」
+[P名],「い、いや、別に見てないけど」
+0,照れ顔
+0,,adv_ev_23_148
+[H名],「ほ、本当なのかなぁ！？　も、もぅ、[P]さんは///」
+FALSE
+in,,,,none
+System.Int32,jumpNo01,76

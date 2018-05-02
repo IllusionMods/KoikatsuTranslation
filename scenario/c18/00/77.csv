@@ -1,0 +1,21 @@
+﻿﻿グラウンド,FALSE
+0,グラウンド
+adv_ev_00_camera,Camera
+adv_ev_00_chara,Chara
+0,3,1
+0,1
+0,Gym
+0,標準
+0,Stand_Joy_06
+Out,,,,none
+0,sound/data/pcm/c18/adv/00.unity3d,adv_ev_18_147
+[H名],「えっと……それっ」
+[P名],「うおっ！？」
+0,不安
+0,Stand_Sat_02
+0,,adv_ev_18_148
+[H名],「だ、大丈夫ですか？　やっぱりボールを蹴るのは危険ですね……」
+[P名],「い、いや、どこに飛ぶか分からないスリルがたまらないよ」
+FALSE
+in,,,,none
+System.Int32,jumpNo01,75

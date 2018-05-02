@@ -1,0 +1,22 @@
+﻿﻿StaffRoom,,0,,TRUE
+自室,FALSE
+0,自室
+adv_ev_00_camera,Camera
+adv_ev_00_chara,Chara
+0,3,1
+0,1
+0,笑顔
+0,Stand_21_00
+Out,,,,none
+0,sound/data/pcm/c23/adv/00.unity3d,adv_ev_23_122
+[H名],「失礼します。ここがあなたの部屋なのかぁ」
+0,ドキドキ
+0,Stand_Oth_00
+0,,adv_ev_23_123
+[H名],「恋人とはいえ初めての男子の部屋はドキドキしてしまう」
+0,,adv_ev_23_124
+[H名],「あの……今から、するんだよね？　エッチを？」
+FALSE
+in,,,,none
+0,0,1
+0,0

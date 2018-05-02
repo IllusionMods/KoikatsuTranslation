@@ -1,0 +1,21 @@
+﻿﻿体育館,FALSE
+0,体育館
+adv_ev_00_camera,Camera
+adv_ev_00_chara,Chara
+0,Gym
+0,3,1
+0,1
+0,Stand_Sat_02
+Out,,,,none
+[P名],「はじめの頃と比べて柔らかくなってきたね。特訓の成果が出て来たかな？」
+0,微笑
+0,sound/data/pcm/c19/adv/00.unity3d,adv_ev_19_147
+[H名],「うん。痛みにもだいぶ慣れてきたし……んぅ……あんっ」
+[P名],「っ！？　ご、ごめん！　どこか変なとこ触っちゃった！？」
+0,ドキドキ
+0,Stand_Oth_00
+0,,adv_ev_19_148
+[H名],「そっ、そんな事ないよ。私の方こそ、紛らわしかったのなら……後で責任、取るね？」
+FALSE
+in,,,,none
+System.Int32,jumpNo01,76

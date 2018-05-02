@@ -1,0 +1,23 @@
+﻿﻿Date,,0,,TRUE
+adv/bg/00.unity3d,bg_10
+0,3,1
+0,1
+0,Plain
+Out,,,,none
+0,微笑
+0,Stand_Joy_03
+0,sound/data/pcm/c08/adv/00.unity3d,adv_ev_08_108
+[H名],「えへっ、今日のデート楽しみにしてたんだぁ」
+[P名],「俺も楽しみにしてたよ。じゃあ行こうか」
+in,1,black,back,TRUE
+out,1,black,back,TRUE
+[P名],「おっ、この動物のキーホルダー[H]さんに似てるなー」
+0,笑顔
+0,Stand_Joy_00
+0,,adv_ev_08_109
+[H名],「ほんと！　あなたから見て私はこういうイメージなんだね。えへっ、嬉しいなぁ～」
+FALSE
+in,,,,none
+FALSE
+0,0,1
+0,0

@@ -1,0 +1,19 @@
+﻿﻿食堂,FALSE
+0,食堂
+adv_ev_00_camera,Camera
+adv_ev_00_chara,Chara
+0,3,1
+0,1
+Out,,,,none
+0,笑顔
+0,Stand_24_00
+0,sound/data/pcm/c09/adv/00.unity3d,adv_ev_09_154
+[H名],「どう？　美味しいでしょう？」
+[P名],「うん、絶品だね。こんな欧風カレーを食べたのは初めだよ」
+0,ドヤ顔
+0,,adv_ev_09_155
+[H名],「そうでしょう？　あたしが勧めただけのことはあるでしょう？」
+[P名],「はは、そうだね。教えてくれてありがとう」
+FALSE
+in,,,,none
+System.Int32,jumpNo02,80

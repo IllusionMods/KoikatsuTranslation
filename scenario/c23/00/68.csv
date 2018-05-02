@@ -1,0 +1,19 @@
+﻿﻿自室,FALSE
+0,自室
+adv_ev_00_camera,Camera
+adv_ev_00_chara,Chara
+0,3,1
+0,1
+0,笑顔（目閉じ）
+0,Stand_Joy_00
+Out,,,,none
+0,sound/data/pcm/c23/adv/00.unity3d,adv_ev_23_125
+[H名],「ではでは、[P]さんの部屋へおじゃましまーす」
+0,ドキドキ
+0,Stand_Oth_00
+0,,adv_ev_23_126
+[H名],「あぁ、気が早い人だなぁ、もうベッドに///　そ、そんなにしたいん、だね」
+FALSE
+in,,,,none
+0,0,1
+0,0

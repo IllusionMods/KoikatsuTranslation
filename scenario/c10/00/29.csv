@@ -1,0 +1,22 @@
+﻿﻿StaffRoom,,0,,TRUE
+自室,FALSE
+0,自室
+adv_ev_00_camera,Camera
+adv_ev_00_chara,Chara
+0,3,1
+0,1
+0,笑顔
+0,Stand_Ang_01
+Out,,,,none
+0,sound/data/pcm/c10/adv/00.unity3d,adv_ev_10_120
+[H名],「ここが、汝の居城か……なかなか小綺麗にしておるではないか」
+0,デレ顔
+0,Stand_Sat_02
+0,,adv_ev_10_121
+[H名],「ふぅ……はてさて、どうしたものか。我の心臓がかなり踊っておるぞ」
+0,,adv_ev_10_122
+[H名],「汝はしたくてたまらなかったのか？　実は我も……」
+FALSE
+in,,,,none
+0,0,1
+0,0

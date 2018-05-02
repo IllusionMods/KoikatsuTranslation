@@ -1,0 +1,25 @@
+﻿﻿屋上,FALSE
+0,屋上
+adv_ev_00_camera,Camera
+adv_ev_00_chara,Chara
+0,3,1
+0,1
+0,笑顔
+0,Stand_Sat_02
+Out,,,,none
+0,sound/data/pcm/c24/adv/00.unity3d,adv_ev_24_170
+[H名],「今日はあなたの大好物ばっかりのお弁当を作ってきていたんです」
+[P名],「わ……本当だ。……え？　もともと俺と食べるために？」
+0,はにかみ
+0,Stand_Joy_06
+0,,adv_ev_24_171
+[H名],「もともとは、一人あーんごっこをするためです♡　でも今日は二人あーんごっこですね♡　はい、あーん♡」
+[P名],「もぐっ……」
+[P名],（美味しい……！）
+FALSE
+in,,,,none
+System.Int32,jumpNo02,79
+H_relation,0,2,恋人,知り合い
+恋人
+,83,FALSE,TRUE,TRUE
+知り合い

@@ -1,0 +1,20 @@
+﻿﻿中庭,FALSE
+0,中庭
+adv_ev_01_camera,Camera
+adv_ev_01_chara,Chara
+0,School02
+0,3,1
+0,1
+0,標準
+0,Stand_07_00
+Out,,,,none
+[P名],「せっかくだし、少し寄り道していかない？」
+0,sound/data/pcm/c07/adv/00.unity3d,adv_ev_07_131
+[H名],「ああ、別に構わないぜ」
+0,,adv_ev_07_132
+[H名],「街の方にでもいくか？　あそこなら大体何でもあるしな」
+FALSE
+in,,,,none
+System.Int32,jumpNo04,65
+0,0,1
+0,0

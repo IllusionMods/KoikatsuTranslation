@@ -1,0 +1,20 @@
+﻿﻿教室2-1,FALSE
+0,教室2-1
+adv_ev_00_camera,Camera
+adv_ev_00_chara,Chara
+0,3,1
+0,1
+0,苦しげな表情
+0,Stand_Oth_06
+Out,,,,none
+0,sound/data/pcm/c13/adv/00.unity3d,adv_ev_13_137
+[H名],「ん～、ダメだ～、マジでわっかんない！」
+[P名],「今回の範囲は難しいよな。ま、お互い頑張ろう」
+0,標準（目閉じ）
+0,Stand_Sat_02
+0,,adv_ev_13_138
+[H名],「頑張る！ 頑張るから、終わったら……ごほーびちょうだい！ 甘いもの、とか」
+[P名],「そうだな、よし。じゃあパパッと片付ちゃおう！」
+FALSE
+in,,,,none
+System.Int32,jumpNo00,70

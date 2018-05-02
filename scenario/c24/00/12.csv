@@ -1,0 +1,19 @@
+﻿﻿adv/bg/00.unity3d,bg_op
+0,3,1
+0,1
+0,笑顔
+0,Stand_Joy_00
+out,,,,none
+0,sound/data/pcm/c24/adv/00.unity3d,adv_ev_24_202
+0,callBundle,callName1
+[H名],「おはようございます。[Pあだ名]♡」
+[P名],「あ……おはよう、[Hあだ名]」
+0,ちょっと照れた笑顔
+0,Stand_Joy_00
+0,sound/data/pcm/c24/adv/00.unity3d,adv_ev_24_203
+[H名],「うふふ♡　愛称で呼び合うと、幸せな一日が始まった感じがしますね♡」
+FALSE
+in,,,,none
+0,0,1
+0,0
+FALSE

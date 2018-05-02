@@ -1,0 +1,19 @@
+﻿﻿グラウンド,FALSE
+0,グラウンド
+adv_ev_00_camera,Camera
+adv_ev_00_chara,Chara
+0,Gym
+0,3,1
+0,1
+0,Stand_Sat_01
+Out,,,,none
+[P名],「……っ、やったぁ！　一位だ！」
+0,真剣
+0,sound/data/pcm/c26/adv/00.unity3d,adv_ev_26_147
+[H名],「……むぅ」
+[P名],「じゃあ約束のジュース、お願いね」
+0,,adv_ev_26_148
+[H名],「……残念。けど次は、勝つ……！」
+FALSE
+in,,,,none
+System.Int32,jumpNo01,75

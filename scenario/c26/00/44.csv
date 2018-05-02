@@ -1,0 +1,18 @@
+﻿﻿図書室,FALSE
+0,図書室
+adv_ev_00_camera,Camera
+adv_ev_00_chara,Chara
+0,3,1
+0,1
+0,標準
+0,Stand_17_00
+Out,,,,none
+0,sound/data/pcm/c26/adv/00.unity3d,adv_ev_26_138
+[H名],「……ねえ、この問題、覚えてる？」
+[P名],「ん？　あ～えっと、ここは……こうするんだよ」
+0,,adv_ev_26_139
+[H名],「……そう、ありがとう……って、何で笑ってるの？」
+[P名],「ううん。前は俺が教えてもらってたから、なんか新鮮だなって」
+FALSE
+in,,,,none
+System.Int32,jumpNo00,70

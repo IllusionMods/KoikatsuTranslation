@@ -1,0 +1,22 @@
+﻿﻿StaffRoom,,0,,TRUE
+自室,FALSE
+0,自室
+adv_ev_00_camera,Camera
+adv_ev_00_chara,Chara
+0,3,1
+0,1
+0,標準
+0,Stand_00_00
+Out,,,,none
+0,sound/data/pcm/c00/adv/00.unity3d,adv_ev_00_123
+[H名],「へぇ、案外キレイにしてるじゃない。もしかして急いで片付けたりした？」
+0,ちょっと照れた笑顔
+0,,adv_ev_00_124
+[H名],「ふふ……その努力も、今はすごく嬉しいわよ」
+0,Stand_Oth_00
+0,,adv_ev_00_125
+[H名],「ベッドからも君の匂いがするわ……幸せ～♪　ここで……やっちゃうんでしょ？　いいわ……来て」
+FALSE
+in,,,,none
+0,0,1
+0,0

@@ -1,0 +1,22 @@
+﻿﻿体育館,FALSE
+0,体育館
+adv_ev_00_camera,Camera
+adv_ev_00_chara,Chara
+0,Gym
+0,3,1
+0,1
+0,標準
+0,Stand_07_00
+Out,,,,none
+0,sound/data/pcm/c07/adv/00.unity3d,adv_ev_07_146
+[H名],「じゃ、先にやるぞ。……はっ！　と」
+[P名],「凄っ！　めっちゃ高く飛んでたよ」
+0,,adv_ev_07_147
+[H名],「いやぁ～、昔からこういうのは得意でさ」
+[P名],「どんなスポーツでも、どんとこいって感じだな」
+0,笑顔（目閉じ）
+0,,adv_ev_07_148
+[H名],「ハハ！　そんなこと……あるかもな！　よしっ、次はお前の番だぜ」
+FALSE
+in,,,,none
+System.Int32,jumpNo01,74

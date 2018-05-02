@@ -1,0 +1,17 @@
+﻿﻿裏庭,FALSE
+0,裏庭
+adv_ev_00_camera,Camera
+adv_ev_00_chara,Chara
+0,Gym
+0,3,1
+0,1
+0,Stand_04_00
+Out,,,,none
+[P名],（ふたりでかくれんぼか……）
+0,ドヤ顔
+0,sound/data/pcm/c11/adv/00.unity3d,adv_ev_11_150
+[H名],「うふふ……完璧だわ。これならあの子だって絶対に見つけられないはずよ」
+[P名],（って言ってるけど、ここからだと丸見えなんだよなぁ……）
+FALSE
+in,,,,none
+System.Int32,jumpNo01,75

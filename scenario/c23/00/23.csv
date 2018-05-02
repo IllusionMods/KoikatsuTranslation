@@ -1,0 +1,23 @@
+﻿﻿グラウンド,FALSE
+0,グラウンド
+adv_ev_00_camera,Camera
+adv_ev_00_chara,Chara
+0,Gym
+0,3,1
+0,1
+0,苦しげな表情
+0,Stand_Sat_03
+Out,,,,none
+0,sound/data/pcm/c23/adv/00.unity3d,adv_ev_23_142
+[H名],「ハァ、ハァ、くたびれるなぁ」
+[P名],「はぁ、はぁ、マラソンすると、持久力がつくよ、がんばろう」
+0,Stand_Joy_04
+0,,adv_ev_23_143
+[H名],「リアルは体力へると、きついよなぁ、そうだアニメの事を考えよう。たぁっ！」
+[P名],「あれ？　元気になった？」
+0,笑顔（目閉じ）
+0,,adv_ev_23_144
+[H名],「そう見える？　これが夢と希望の力だよ。ふふふ、ふ」
+FALSE
+in,,,,none
+System.Int32,jumpNo01,74

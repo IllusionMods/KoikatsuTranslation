@@ -1,0 +1,21 @@
+﻿﻿体育館,FALSE
+0,体育館
+adv_ev_00_camera,Camera
+adv_ev_00_chara,Chara
+0,Gym
+0,3,1
+0,1
+0,Stand_Oth_08
+Out,,,,none
+[P名],「な、なぁ[H]……その汗で服が透けて、その……」
+0,ちょっと膨れる感じ
+0,sound/data/pcm/c13/adv/00.unity3d,adv_ev_13_148
+[H名],「わわっ、もぉ～エッチ。ずーっと黙って見てたんだ～」
+[P名],「ご、ごめん。でもごめん何かつい誘惑に負けて……」
+0,見つめながらドキドキ
+0,Stand_Sat_01
+0,,adv_ev_13_149
+[H名],「ふ～ん……でもさ、ほんとに見てるだけでいいの？ 後で……もっと気持ちいい運動、しよっか？」
+FALSE
+in,,,,none
+System.Int32,jumpNo01,76

@@ -1,0 +1,18 @@
+﻿﻿教室2-1,FALSE
+0,教室2-1
+adv_ev_00_camera,Camera
+adv_ev_00_chara,Chara
+0,3,1
+0,1
+0,Stand_Joy_09
+Out,,,,none
+[P名],「この問題の答え、これで合ってるかな？　俺はＡだと思うんだけど」
+0,思案
+0,sound/data/pcm/c11/adv/00.unity3d,adv_ev_11_138
+[H名],「どれ？　……そうねぇ……Ｂでも合ってそうだし……Ｃとも考えられるわね……」
+[P名],「う～ん……」
+0,,adv_ev_11_139
+[H名],「う～～ん……」
+FALSE
+in,,,,none
+System.Int32,jumpNo00,69

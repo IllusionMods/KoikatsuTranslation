@@ -1,0 +1,20 @@
+﻿﻿食堂,FALSE
+0,食堂
+adv_ev_00_camera,Camera
+adv_ev_00_chara,Chara
+0,3,1
+0,1
+0,疑問
+0,Stand_21_00
+Out,,,,none
+0,sound/data/pcm/c12/adv/00.unity3d,adv_ev_12_158
+[H名],「あれ？　食堂味付け変わった？　いつもより美味くなってるような……」
+[P名],「あ、それ俺も思った。二人で食べてるからかなって」
+0,ちょっと膨れる感じ
+0,Stand_Oth_01
+0,,adv_ev_12_159
+[H名],「ぶふっ！　い、いきなり変な事言うなぁ！　むせちゃっただろぉ……」
+[P名],「ご、ごめん……あはは」
+FALSE
+in,,,,none
+System.Int32,jumpNo02,80

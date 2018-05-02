@@ -1,0 +1,21 @@
+﻿﻿adv/bg/00.unity3d,bg_11_e
+0,3,1
+0,1
+0,School02
+0,微笑
+0,Stand_23_00
+out,,,,none
+0,sound/data/pcm/c25/adv/00.unity3d,adv_ev_25_131
+[H名],「どっか寄って行く～？」
+[P名],「ん？　寄り道は嫌いなんじゃなかったっけ？」
+0,ちょっと膨れる感じ
+0,Stand_Sat_02
+0,,adv_ev_25_132
+[H名],「……[P]はもっと私と一緒に居たくないの～？」
+[P名],「そ、そんなことないよ！　じゃあ、どこか行こうか」
+FALSE
+in,,,,none
+System.Int32,jumpNo04,67
+FALSE
+0,0,1
+0,0

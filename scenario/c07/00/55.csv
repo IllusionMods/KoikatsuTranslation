@@ -1,0 +1,19 @@
+﻿﻿adv/bg/00.unity3d,bg_15_e
+0,3,1
+0,1
+0,School02
+0,照れ顔
+0,Stand_Oth_00
+out,,,,none
+0,sound/data/pcm/c07/adv/00.unity3d,adv_ev_07_135
+[H名],「ところで、手……つながないか？」
+[P名],「どうした？　あらたまって……いいよ。ほら貸して」
+0,,adv_ev_07_136
+[H名],「は、肌が触れ合うって感じ、良いよな……」
+[P名],「ああ。[H]の熱が伝わってくるよ」
+FALSE
+in,,,,none
+System.Int32,jumpNo04,67
+FALSE
+0,0,1
+0,0

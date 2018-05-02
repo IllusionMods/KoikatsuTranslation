@@ -1,0 +1,19 @@
+﻿﻿adv/bg/00.unity3d,bg_11_e
+0,3,1
+0,1
+0,School02
+0,笑顔
+0,Stand_15_00
+Out,,,,none
+0,sound/data/pcm/c15/adv/00.unity3d,adv_ev_15_129
+[H名],「この街にはもう慣れたのか？　よかったらキミを色んなとこに案内したいなー」
+[P名],「ありがとう。でも、学園帰りで疲れてない？」
+0,Stand_Joy_01
+0,,adv_ev_15_130
+[H名],「ぜーんぜん、むしろここからが本番！　だろー？」
+FALSE
+in,,,,none
+System.Int32,jumpNo04,65
+0,0,1
+0,0
+FALSE

@@ -1,0 +1,18 @@
+﻿﻿図書室,FALSE
+0,図書室
+adv_ev_00_camera,Camera
+adv_ev_00_chara,Chara
+0,3,1
+0,1
+0,標準
+0,Stand_05_00
+Out,,,,none
+[P名],「さて、今日も勉強がんばろうか」
+0,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_136
+[H名],「あなたってけっこうかわいい鉛筆使ってるんだ」
+[P名],「これ？　書きやすくて好きなんだ。そっちはシンプルなの使ってるんだね」
+0,,adv_ev_05_137
+[H名],「向こうに持っていけるか分からないし、お気に入りはあまり作らないようにしてるの」
+FALSE
+in,,,,none
+System.Int32,jumpNo00,70

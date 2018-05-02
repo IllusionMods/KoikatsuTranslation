@@ -1,0 +1,24 @@
+﻿﻿StaffRoom,,0,,TRUE
+自室,FALSE
+0,自室
+adv_ev_00_camera,Camera
+adv_ev_00_chara,Chara
+0,3,1
+0,1
+0,少し驚き
+0,Stand_Sat_02
+Out,,,,none
+0,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_124
+[H名],「ふわぁ……男の子の部屋ってこんな風なんだ……」
+0,はにかみ
+0,,adv_ev_27_125
+[H名],「あ、これが毎日あんたが寝てるベッドね。……くんくん……はぁ、いい匂いがする～♪」
+0,3,1
+0,ドキドキ
+0,Stand_Sat_06
+0,,adv_ev_27_126
+[H名],「……ごめん、ひとりで盛り上がっちゃった。い、今から、するのよね……？　どうぞ……っ」
+FALSE
+in,,,,none
+0,0,1
+0,0

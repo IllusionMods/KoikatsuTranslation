@@ -1,0 +1,34 @@
+﻿﻿TRUE
+Communication,,0,,TRUE
+0,疑問
+0,Stand_Sat_01
+0,3,1
+0,1
+out,.5,,,none
+0,sound/data/pcm/c-2/adv/00.unity3d,teach_-2_000
+麗奈,「あなた、この間転入してきた子ね」
+[P名],「えっ？　はい、そうです」
+0,標準
+0,Stand_16_00
+0,sound/data/pcm/c-2/adv/00.unity3d,teach_-2_001
+麗奈,「私は橋本麗奈。数学の授業を担当する他に、指導教諭も務めているわ」
+0,sound/data/pcm/c-2/adv/00.unity3d,teach_-2_002
+麗奈,「あなたの事情は把握しているけれど、この学園に入ったのなら勉学を疎かにしないように」
+[P名],「は、はい……」
+0,真剣
+0,sound/data/pcm/c-2/adv/00.unity3d,teach_-2_003
+麗奈,「それと、生活態度についても注意すること。良いかしら」
+[P名],「わ、わかりました」
+0,不満
+0,Stand_04_00
+0,sound/data/pcm/c-2/adv/00.unity3d,teach_-2_004
+麗奈,「返事が頼りないわね」
+[P名],「わかりました……！　気をつけます！」
+0,標準
+0,Stand_16_00
+0,sound/data/pcm/c-2/adv/00.unity3d,teach_-2_005
+麗奈,「……よし。それじゃあ」
+FALSE
+in,,,,none
+0,0,1
+0,0

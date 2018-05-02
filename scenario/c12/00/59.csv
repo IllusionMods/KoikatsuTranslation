@@ -1,0 +1,18 @@
+﻿﻿adv/bg/00.unity3d,bg_op
+0,3,1
+0,1
+0,School02
+0,標準（目閉じ）
+0,Stand_Ang_07
+out,,,,none
+0,sound/data/pcm/c12/adv/00.unity3d,adv_ev_12_050
+[H名],「ふぁ……おはよ……。んぅ～～っ」
+[P名],「おはよ。眠そうだね」
+0,呆れ
+0,,adv_ev_12_051
+[H名],「誰のせいだと思う？　授業中に寝ちゃったら、責任とってもらうからな」
+FALSE
+in,,,,none
+0,0,1
+0,0
+FALSE

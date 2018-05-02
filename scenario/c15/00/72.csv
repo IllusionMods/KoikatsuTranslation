@@ -1,0 +1,59 @@
+﻿﻿Date,,0,,TRUE
+adv/bg/00.unity3d,bg_14
+0,3,1
+0,1
+0,Plain
+0,笑顔（目閉じ）
+0,Stand_Joy_01
+Out,,,,none
+0,sound/data/pcm/c15/adv/00.unity3d,adv_ev_15_114
+[H名],「へへー、今日はすごく楽しいことが起こる予感がするぞ」
+[P名],「本当に？　楽しいことがたくさん起こればいいな。よし、行こうか」
+in,1,black,back,TRUE
+0,笑顔
+0,Stand_Ang_01
+out,1,black,back,TRUE
+0,,adv_ev_15_115
+[H名],「ねーねー、手を繋いで歩いてるあたしたちって、ちゃんとカップルに見えるかな？」
+[P名],「ちゃんと見えるよ、他のカップルと同じに」
+0,疑問
+0,Stand_Sat_02
+0,,adv_ev_15_116
+[H名],「……他のカップルと同じー？　それじゃモノ足りないぞー」
+[P名],「モノ足りないって、じゃあどうする？」
+0,興奮気味の笑顔
+0,,adv_ev_15_117
+[H名],「うーん……もっとベタベタしよーよ！　キスして、ギューッと抱きしめてよ」
+[P名],（[H]、どんどん積極的になっていくな）
+in,1,black,back,TRUE
+adv/bg/00.unity3d,bg_15_e
+0,Stand_Joy_04
+out,1,black,back,TRUE
+0,,adv_ev_15_118
+[H名],「今日もいっぱい楽しいことがあったな！　キミとベタベタできたし……」
+TRUE,「もっと一緒にいたいな」,選択肢A,「楽しかったね。それじゃ、また」,選択肢B
+選択肢A
+System.Boolean,isH,TRUE
+[P名],「もっと一緒にいたいな」
+0,Stand_Joy_04
+0,,adv_ev_15_119
+[H名],「あ、あたしも！　まだキミと離れたくないって思ってたんだぞ」
+終了
+選択肢B
+H_favor,1,20
+H_favor,H_favor
+H_lewdness,1,20
+H_lewdness,H_lewdness
+H_anger,2,20
+H_anger,H_anger
+[P名],「楽しかったね。それじゃ、また」
+0,Stand_Joy_00
+0,,adv_ev_15_120
+[H名],「うん！　またデートで楽しいことしような♪　じゃーねー」
+終了
+終了
+FALSE
+in,,,,none
+FALSE
+0,0,1
+0,0

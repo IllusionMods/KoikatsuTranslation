@@ -1,0 +1,14 @@
+﻿﻿in,1,black,back,TRUE
+FALSE
+2F,FALSE
+0,2F
+advPos_op05,Camera
+bbb
+26
+out,1,black,back,TRUE
+[P名],「職員室はここだな」
+,プレートに書かれた『職員室』という文字を見て、きちんと着いたことを確認する。
+,まずは担任の先生に挨拶しないと。
+sound/data/se/00.unity3d,se_door1_open,0,0,TRUE,TRUE,-1,FALSE,FALSE
+,ドアを開けて職員室へ入っていく。
+[P名],「失礼します」

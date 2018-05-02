@@ -1,0 +1,20 @@
+﻿﻿adv/bg/00.unity3d,bg_05_e
+0,School02
+0,3,1
+0,1
+0,笑顔（目閉じ）
+0,Stand_Joy_00
+out,,,,none
+0,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_135
+[H名],「エヘヘ……寄り道でこんなところ来ちゃったね」
+[P名],「あ、そっちのジュース美味しそう。ひとくち頂戴」
+0,恥ずかしくて真っ赤
+0,Stand_Ang_00
+0,,adv_ev_27_136
+[H名],「あっ！　あんたそれ、かかか間接キス……！　も～っ……」
+FALSE
+in,,,,none
+System.Int32,jumpNo04,67
+FALSE
+0,0,1
+0,0

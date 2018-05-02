@@ -1,0 +1,20 @@
+﻿﻿adv/bg/00.unity3d,bg_op
+0,School02
+0,3,1
+0,1
+0,笑顔（目閉じ）
+0,Stand_22_00
+out,,,,none
+0,sound/data/pcm/c22/adv/00.unity3d,adv_ev_22_219
+0,callBundle,callName1
+[H名],「あ、おはよう！　[Pあだ名]」
+[P名],「おはよう、[Hあだ名]」
+0,ちょっと照れた笑顔
+0,Stand_Joy_00
+0,sound/data/pcm/c22/adv/00.unity3d,adv_ev_22_220
+[H名],「えへへ、朝からラブラブな感じ……ちょっと照れちゃうね」
+FALSE
+in,,,,none
+0,0,1
+0,0
+FALSE

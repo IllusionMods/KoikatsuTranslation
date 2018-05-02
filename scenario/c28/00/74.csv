@@ -1,0 +1,19 @@
+﻿﻿食堂,FALSE
+0,食堂
+adv_ev_00_camera,Camera
+adv_ev_00_chara,Chara
+0,3,1
+0,1
+0,標準
+0,Stand_11_00
+Out,,,,none
+0,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_153
+[H名],「お主は苦手なものはあるのか？」
+[P名],「いやぁ、特にこれってものはないかなー」
+0,困り顔
+0,,adv_ev_28_154
+[H名],「だったらわしが苦手もの食べてくれぬか？　あとでこっそり」
+[P名],「あはは。いいよ。俺の皿に置いといて」
+FALSE
+in,,,,none
+System.Int32,jumpNo02,80

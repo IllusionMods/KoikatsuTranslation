@@ -1,0 +1,20 @@
+﻿﻿体育館,FALSE
+0,体育館
+adv_ev_00_camera,Camera
+adv_ev_00_chara,Chara
+0,Gym
+0,3,1
+0,1
+0,Stand_Sat_01
+Out,,,,none
+[P名],「……」
+0,呆れ
+0,sound/data/pcm/c20/adv/00.unity3d,adv_ev_20_148
+[H名],「その顔、何かいやらしいこと考えていませんか？　今からやるのは健全な運動ですよ？」
+[P名],「ご、ごめん」
+0,ドキドキ
+0,,adv_ev_20_149
+[H名],「……どうしても我慢できないのなら、その、また後で……」」
+FALSE
+in,,,,none
+System.Int32,jumpNo01,76

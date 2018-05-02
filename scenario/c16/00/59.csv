@@ -1,0 +1,20 @@
+﻿﻿自室,FALSE
+0,自室
+adv_ev_00_camera,Camera
+adv_ev_00_chara,Chara
+0,Pajamas
+0,3,1
+0,1
+0,笑顔（目閉じ）
+0,Stand_Joy_00
+out,,,,none
+0,sound/data/pcm/c16/adv/00.unity3d,adv_ev_16_042
+[H名],「おはよう♪　シャワー先に借りたわよ。アナタも入った方がいいわ」
+0,照れ顔
+0,Stand_Joy_05
+0,,adv_ev_16_043
+[H名],「ほらぐずぐずしないで……あっ……えと……朝から元気なのね……」
+FALSE
+in,,,,none
+0,0,1
+0,0

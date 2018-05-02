@@ -1,0 +1,22 @@
+﻿﻿StaffRoom,,0,,TRUE
+自室,FALSE
+0,自室
+adv_ev_00_camera,Camera
+adv_ev_00_chara,Chara
+0,3,1
+0,1
+0,微笑
+0,Stand_19_00
+Out,,,,none
+0,sound/data/pcm/c29/adv/00.unity3d,adv_ev_29_135
+[H名],「では、お邪魔いたします」
+0,,adv_ev_29_136
+[H名],「……なるほど、このような部屋なのですね。意外、と言っては失礼ですが清潔感のある部屋だと思います」
+0,ドキドキ
+0,Stand_Oth_00
+0,,adv_ev_29_137
+[H名],「そ、それで……早速するのですか？　わ、わかりました」
+FALSE
+in,,,,none
+0,0,1
+0,0

@@ -1,0 +1,20 @@
+﻿﻿図書室,FALSE
+0,図書室
+adv_ev_00_camera,Camera
+adv_ev_00_chara,Chara
+0,3,1
+0,1
+0,疑問
+0,Stand_Joy_09
+Out,,,,none
+0,sound/data/pcm/c13/adv/00.unity3d,adv_ev_13_139
+[H名],「……？ どうしたの、アタシの顔じ～っと見つめちゃって」
+[P名],「え、いや……なんか勉強してる時の真剣な表情とか、すごい可愛いなぁって」
+0,照れ顔
+0,Stand_Ang_01
+0,,adv_ev_13_140
+[H名],「ちょ！ いきなり何言ってんの！ そ、そんなこと言われたら……もっと好きになっちゃうじゃん」
+[P名],「ははは、でも、それはいいことだね」
+FALSE
+in,,,,none
+System.Int32,jumpNo00,71

@@ -1,0 +1,21 @@
+﻿﻿中庭,FALSE
+0,中庭
+adv_ev_00_camera,Camera
+adv_ev_00_chara,Chara
+0,Gym
+0,3,1
+0,1
+0,Stand_Joy_06
+Out,,,,none
+[P名],「うん、今のもいい球だったよ。君、キャッチボールうまいね」
+0,不満
+0,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_149
+[H名],「会話のキャッチボールはそうでもないんだけど……」
+[P名],「え、何か言った？」
+0,笑顔
+0,Stand_Sat_07
+0,,adv_ev_27_150
+[H名],「ううん、こっちの話！　ね、まだまだ続けましょ」
+FALSE
+in,,,,none
+System.Int32,jumpNo01,75

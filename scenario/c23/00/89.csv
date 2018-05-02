@@ -1,0 +1,22 @@
+﻿﻿屋上,FALSE
+0,屋上
+adv_ev_00_camera,Camera
+adv_ev_00_chara,Chara
+0,3,1
+0,1
+0,微笑
+0,Stand_Joy_00
+Out,,,,none
+0,sound/data/pcm/c23/adv/00.unity3d,adv_ev_23_155
+[H名],「ねえねえ。このパンケーキ……一緒に食べ合わない？」
+[P名],「えっ、同時に！？　うれしいけど、すこし照れるな」
+0,,adv_ev_23_156
+[H名],「二人しかいないし、そ、そんなこと気にしちゃダメなんだなぁ」
+[P名],「うん。わかった……もぐっ」
+0,はにかみ
+0,Stand_Sat_02
+0,,adv_ev_23_157
+[H名],「それっ……もぐっ……えへ、へ。おいしいなぁ♪」
+FALSE
+in,,,,none
+System.Int32,jumpNo02,81

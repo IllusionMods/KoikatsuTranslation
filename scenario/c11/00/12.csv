@@ -1,0 +1,20 @@
+﻿﻿adv/bg/00.unity3d,bg_11_e
+0,3,1
+0,1
+0,School02
+0,標準
+0,Stand_11_00
+Out,,,,none
+0,sound/data/pcm/c11/adv/00.unity3d,adv_ev_11_130
+[H名],「いつもこの通学路を使ってるの？」
+[P名],「普段はね。でも遅刻しそうな時は、抜け道を通ることもあるかな」
+0,笑顔（目閉じ）
+0,Stand_Joy_01
+0,,adv_ev_11_131
+[H名],「まぁ、抜け道なんて楽しそうね！　あなたが見つけたの？　私にも教えてくれるかしら」
+FALSE
+in,,,,none
+System.Int32,jumpNo04,65
+FALSE
+0,0,1
+0,0

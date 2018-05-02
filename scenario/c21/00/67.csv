@@ -1,0 +1,23 @@
+﻿﻿Date,,0,,TRUE
+adv/bg/00.unity3d,bg_10
+0,3,1
+0,1
+0,Plain
+0,ウィンク(右閉じ)
+0,Stand_23_00
+Out,,,,none
+0,sound/data/pcm/c21/adv/00.unity3d,adv_ev_21_108
+[H名],「いきなりですが問題です。今日の私は普段の私とどこが違うでしょうか？」
+[P名],「お…じゃあ、デート中に全部当ててみせるよ」
+in,1,black,back,TRUE
+0,嬉しい
+0,Stand_24_00
+out,1,black,back,TRUE
+[P名],「あ、このクレープ美味しいな」
+0,,adv_ev_21_109
+[H名],「でしょ！？　私のおススメなんだ～！　こっちの味も食べてみて♪」
+FALSE
+in,,,,none
+0,0,1
+0,0
+FALSE

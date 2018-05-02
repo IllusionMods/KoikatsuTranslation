@@ -1,0 +1,27 @@
+﻿﻿adv/bg/00.unity3d,bg_11_e
+0,3,1
+0,1
+0,興奮気味の笑顔
+0,Stand_Joy_04
+Out,,,,none
+0,sound/data/pcm/c03/adv/00.unity3d,adv_ev_03_132
+[H名],「今日はすっごく楽しかったですっ！　ありがとうなのですっ！」
+0,ちょっと照れた笑顔
+0,Stand_03_00
+0,,adv_ev_03_133
+[H名],「次回は……もっともっと近しい関係でデート出来ると……もっとドキドキしちゃうかなーなんて……思ってるです……」
+0,焦り
+0,Stand_Oth_01
+0,,adv_ev_03_134
+[H名],「あ、で、でもでもっ……私が勝手に思ってるだけですからっ、き、気にしないでくださいですーっ！」
+FALSE
+in,,,,none
+FALSE
+H_favor,1,20
+H_favor,H_favor
+H_lewdness,1,20
+H_lewdness,H_lewdness
+H_anger,2,20
+H_anger,H_anger
+0,0,1
+0,0

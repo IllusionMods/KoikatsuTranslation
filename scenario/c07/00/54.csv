@@ -1,0 +1,24 @@
+﻿﻿中庭,FALSE
+0,中庭
+adv_ev_01_camera,Camera
+adv_ev_01_chara,Chara
+0,School02
+0,3,1
+0,1
+0,標準
+0,Stand_07_00
+Out,,,,none
+[P名],「遅かったね。ん？　それ何？」
+0,困り顔
+0,sound/data/pcm/c07/adv/00.unity3d,adv_ev_07_133
+[H名],「いや、ま～た下駄箱に手紙がさぁ……」
+[P名],「ラブレターってやつ？」
+0,Stand_Sat_02
+0,,adv_ev_07_134
+[H名],「ち、ちがうよ！　今度のは『妹にしてください』とかいう奴だよ！」
+[P名],「そ、そう……相変わらず人気あるね」
+FALSE
+in,,,,none
+System.Int32,jumpNo04,66
+0,0,1
+0,0
