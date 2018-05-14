@@ -82,6 +82,15 @@
 ; Character Design Addon Pack Vol. 1 (add06)
 桜=Cherry Blossom
 印=Emblem
+; Character Design Addon Pack Vol. 2 (add08)
+バーコード=Barcode
+CAUTION=CAUTION
+DANGER=DANGER
+WARNING=WARNING
+００=00
+０１=01
+０２=02
+０３=03
 
 ; Slider Notice (Red Text)
 ; Note is currently bugged - translation plugin doesn't act on string. Due to color codes/HTML?
@@ -263,13 +272,6 @@ NO=No
 デフォルメつむり=Cartoony Closed
 横一文字=Horizontal Line
 デフォルメ泣き=Cartoony Crying
-; Bonus "unlocked" poses from a mod
-未使用１ 左１=Unused 1 (Left 1)
-未使用２ 右１=Unused 2 (Right 1)
-未使用３ 閉じ１=Unused 3 (Closed 1)
-未使用４ 左２=Unused 4 (Left 2)
-未使用５ 右２=Unused 5 (Right 2)
-未使用６ 閉じ２=Unused 6 (Closed 2)
 
 ; Right Sidebar -> Mouth Patterns
 嬉しい=Happy (Broad)
@@ -304,10 +306,6 @@ NO=No
 ん　大=Big N
 猫口　閉じ=Catlike
 デフォルメニコ=Cartoony Smile
-; Bonus "unlocked" poses from a mod
-未：アンタってさー=You Are...?
-未：いい度胸ね=Some Nerve, Huh?
-未：むー=Grr—
 
 ; Right Sidebar -> Gaze Direction Options
 視線の向き=Gaze Direction
@@ -354,34 +352,31 @@ NO=No
 立ち２８=Pose 28
 立ち２９=Pose 29
 立ち３０=Pose 30
-立ち３１=Pose 31
-立ち３２=Pose 32
-立ち３３=Pose 33
-立ち３４=Pose 34
-座り=Kneeling
-寝=Laying
-; Bonus "unlocked" poses from a mod
-未：Fマネキン=Female Mannequin
-未：Mマネキン=Male Mannequin
-未：G座り１=Girl Sitting 1
-未：G座り２=Girl Sitting 2
-未：G座り３=Girl Sitting 3
-未：G座り４=Girl Sitting 4
-未：G寝１=Girl Laying 1
-未：G寝２=Girl Laying 2
-未：G寝３=Girl Laying 3
-未：G寝４=Girl Laying 4
-未：M立ち１=Male Standing 1
-未：M立ち２=Male Standing 2
-未：M立ち３=Male Standing 3
-未：M立ち４=Male Standing 4
-未：M立ち５=Male Standing 5
-未：その他=Active
-未：Hポーズ１=H-Pose 1
-未：Hポーズ２=H-Pose 2
-未：Hポーズ３=H-Pose 3
-未：Hポーズ４=H-Pose 4
-未：Hポーズ５=H-Pose 5
+座り１=Sitting 1
+座り２=Sitting 2
+座り３=Sitting 3
+座り４=Sitting 4
+座り５=Sitting 5
+寝１=Laying 1
+寝２=Laying 2
+寝３=Laying 3
+寝４=Laying 4
+寝５=Laying 5
+特殊１=Special 1
+特殊２=Special 2
+特殊３=Special 3
+特殊４=Special 4
+特殊５=Special 5
+Ｈ１=H-Pose 1
+Ｈ２=H-Pose 2
+Ｈ３=H-Pose 3
+Ｈ４=H-Pose 4
+Ｈ５=H-Pose 5
+男立ち１=Male Standing 1
+男立ち２=Male Standing 2
+男立ち３=Male Standing 3
+男立ち４=Male Standing 4
+男立ち５=Male Standing 5
 
 ; Right Sidebar -> Light Direction Options
 ライトの向き調整=Light Direction
@@ -746,6 +741,12 @@ RGB=RGB
 日焼け跡の種類=Suntan Type
 日焼け跡の色=Suntan Color
 
+; Body -> Suntan Types
+; This only covers stuff not listed under the generic "Type" stuff
+; (Which is all tans up until Character Design Addon Pack Vol. 2 (add08))
+電子回路=Electronic Circuit
+ライン=Lines
+
 ; Body -> Body Paint
 ;Paint 01 Type
 ;Paint 01 Color
@@ -854,6 +855,20 @@ RGB=RGB
 ; Character Design Addon Pack Vol. 1 (add06)
 ボリュームポニーテール=Thick Ponytail
 外はねショート=Short, Swept Out
+; Character Design Addon Pack Vol. 2 (add08)
+ぱっつんロング=Straight-Cut, Long
+; Patch 0501/0502 (add11)
+ふわポニー=Fluffy Ponytail
+お団子シングル=Single Bun
+ふわポニーロング=Fluffy Long Ponytail
+カールポニー=Curled Ponytail
+ショートツイン=Short Twintails
+ショートツインカール=Short Curled Twintails
+お団子ダブル=Double Bun
+ショートツインロール=Short Twin Drills
+ツインカール=Curled Twintails
+ふわツインウェーブ=Fluffy Wavy Twintails
+ツインロール=Twin Drills
 
 ; Hair -> Bangs
 前髪の種類=Front Hair Type
@@ -885,7 +900,7 @@ M字バング=M-Shaped Bangs
 前おさげ=Twintail Bangs
 縦巻きロール=Drill Rolls
 横分けぱっつん(左)=Parted Trimmed Bangs (L)
-横分けぱっつん_(右)=Parted Trimmed Bangs (R)
+横分けぱっつん(右)=Parted Trimmed Bangs (R)
 片目隠し(左)=Covering Eye (L)
 片目隠し(右)=Covering Eye (R)
 横流しヘア(左)=Sideswept (L)
@@ -903,6 +918,11 @@ M字バングストレート(右)=M-Shaped Straight Bangs (R)
 横分けヘア(右)=Sideswept Parted (R)
 ; Character Design Addon Pack Vol. 1 (add06)
 ハネぱっつん=Straight Bangs, Swept Up
+; Character Design Addon Pack Vol. 2 (add08)
+ぱっつんエアインテーク=Straight-Cut, Air Intake
+; Patch 0501/0502 (add11)
+ウェーブショート=Wavy Short
+アップバング=Upward Swept Bangs
 
 ; Hair -> Side Hair
 横髪の種類=Side Hair Type
@@ -1164,6 +1184,8 @@ Tシャツ無地(男)=Plain T-Shirt (Male)
 裸エプロン=Naked Apron
 ロングワイシャツ=Long Dress Shirt
 ショルダーレスブラウス=Blouse With Shoulder Lace
+; Sofmap Exclusive Preorder Bonus (add01)
+キュートナース服=Cute Nurse Outfit
 ; Magical Girl Preorder Bonus (add02)
 魔法学園制服上着=Magic Academy Uniform Top
 ; Early Preorder Bonus (add03)
@@ -1244,6 +1266,9 @@ H=Letter H
 桔梗の紋(黒)=Kikyou Crest (Black)
 三つ巴(白)=Tomoe Triplet (White)
 三つ巴(黒)=Tomoe Triplet (Black)
+; Character Design Addon Pack Vol. 2 (add08)
+;CAUTION
+;DANGER
 
 ; Clothing -> Bottom
 ボトムスを初期の状態に戻す=Restore Default Bottom Settings
@@ -1321,6 +1346,8 @@ H=Letter H
 ハイレグレオタード=High-Leg Leotard
 ; Damn it Illusion
 ハイレグレオタード =High-Leg Leotard
+; Character Design Addon Pack Vol. 2 (add08)
+メカスーツ=Mecha Suit
 
 ; Clothing -> Underwear
 ショーツを初期の状態に戻す=Restore Default Underwear Settings
@@ -1364,6 +1391,8 @@ H=Letter H
 ; Character Design Addon Pack Vol. 1 (add06)
 巫女武者手甲=Shrine Maiden Warrior Bracers
 鬼神の小手=Demon God's Gauntlets
+; Character Design Addon Pack Vol. 2 (add08)
+メカグローブ=Mecha Gloves
 
 ; Clothing -> Pantyhose
 パンストを初期の状態に戻す=Restore Default Pantyhose Settings
@@ -1404,12 +1433,16 @@ H=Letter H
 レッグウォーマー=Leg Warmers
 ; Damn it Illusion
 レッグウォーマー =Leg Warmers
+; Sofmap Exclusive Preorder Bonus (add01)
+網ニーソックス=Netted Kneesocks
 ; Magical Girl Preorder Bonus (add02)
 魔法のニーソックス=Magical Kneesocks
 ; Preorder Bonus (add04)
 将校のブーツ=Commissioned Officer Boots
 ; Character Design Addon Pack Vol. 1 (add06)
 巫女ニーソックス=Shrine Maiden Kneesocks
+; Character Design Addon Pack Vol. 2 (add08)
+メカソックス=Mecha Socks
 
 ; Clothing -> Shoes
 内履きを初期の状態に戻す=Restore Default Indoor Shoe Settings
@@ -1444,6 +1477,8 @@ H=Letter H
 草履=Zori
 ハイカットスニーカー=High-Cut Sneakers
 ダンスシューズ=Dance Shoes
+; Sofmap Exclusive Preorder Bonus (add01)
+キュートナースシューズ=Cute Nurse Shoes
 ; Magical Girl Preorder Bonus (add02)
 魔法のブーツ=Magical Boots
 ; Maid Preorder Bonus (add05)
@@ -1795,8 +1830,12 @@ XYZの文字を左右ドラッグでも調整できます=You can also adjust X/
 大きなリボン=Large Ribbon
 花=Flower
 ハイビスカス=Hibiscus
-花の髪飾り（揺れ）=Flower Ornament (Can Move)
+花の髪飾り（揺れ）=Flower Ornament (Moves)
 牡丹の髪飾り=Tree Peony Ornament
+; Character Design Addon Pack Vol. 2 (add08)
+メカヘアー=Mecha Hair
+メカループ=Mech Loop
+メカウィングリング=Mecha Winged Ring
 
 ; Accessories -> Head
 ;Ribbon
@@ -1831,6 +1870,8 @@ XYZの文字を左右ドラッグでも調整できます=You can also adjust X/
 うさぎの着ぐるみ頭=Rabbit Costume Head
 いぬの着ぐるみ頭=Dog Costume Head
 三角巾=Bandanna
+; Sofmap Exclusive Preorder Bonus (add01)
+キュートナースキャップ=Cute Nurse Cap
 ; Magical Girl Preorder Bonus (add02)
 魔法の帽子=Magical Hat
 ; Early Preorder Bonus (add03)
@@ -1847,6 +1888,33 @@ XYZの文字を左右ドラッグでも調整できます=You can also adjust X/
 羊の角=Sheep Horns
 牛の角=Cow Horns
 一角=Unicorn Horn
+; Character Design Addon Pack Vol. 2 (add08)
+メカレシーバー=Mecha Receiver
+メカ装甲１=Mecha Armor 1
+メカ装甲２=Mecha Armor 2
+メカ装甲３=Mecha Armor 3
+メカ装甲４=Mecha Armor 4
+メカポッド=Mecha Pod
+メカシールド=Mecha Shield
+メカゴーグル=Mecha Goggles
+メカバイザー=Mecha Visor
+メカボール=Mecha Ball
+メカポール=Mecha Pole
+メカビームポール=Mecha Beam Pole
+メカデルタ=Mecha Delta
+メカボックス=Mecha Box
+メカサークル=Mecha Circle
+メカウィング=Mecha Wing
+メカブースター=Mecha Booster
+メカチューブ=Mecha Tube
+メカシザー=Mecha Scissors
+メカドリル=Mecha Drill
+艦艇の模型=War Fleet Model
+魚雷発射管の模型=Torpedo Tube Model
+2連装砲台の模型=Twin Gun Mount Model
+メカアンテナ=Mecha Antenna
+メカウイングⅡ=Mecha Wing Ⅱ
+メカバイザーⅡ=Mecha Visor Ⅱ
 
 ; Accessories -> Face
 スクエア=Square Glasses
@@ -1918,6 +1986,8 @@ XYZの文字を左右ドラッグでも調整できます=You can also adjust X/
 鬼神のリボン =Demon God's Ribbon
 ; Damn it Illusion
 勾玉の首飾り =Magatama Amulet
+; Character Design Addon Pack Vol. 2 (add08)
+メカタイ=Mecha Tie
 
 ; Accessories -> Torso
 リュックサック=Backpack
@@ -1960,12 +2030,17 @@ XYZの文字を左右ドラッグでも調整できます=You can also adjust X/
 2連鞘刀=Twin Sheathed Swords
 鬼神の腰当右用=Demon God's Hip Guard (Right)
 鬼神の腰当左用=Demon God's Hip Guard (Left)
+; Character Design Addon Pack Vol. 2 (add08)
+メカアンプ=Mecha Amplifier
 
 ; Accessories -> Legs
 チアガーターリボン（左）=Cheerleader Garter Ribbon (Left)
 チアガーターリボン（右）=Cheerleader Garter Ribbon (Right)
 フリルガーターリング（左）=Frilly Garter Ribbon (Left)
 フリルガーターリング（右）=Frilly Garter Ribbon (Right)
+; Sofmap Exclusive Preorder Bonus (add01)
+注射ガーターリング（左）=Injection Ring Garter (Left)
+注射ガーターリング（右）=Injection Ring Garter (Right)
 
 ; Accessories -> Arms
 ナイロンボストンA=Nylon Boston Bag A
@@ -1990,6 +2065,13 @@ XYZの文字を左右ドラッグでも調整できます=You can also adjust X/
 巫女袖右用=Shrine Maiden Sleeve (Right)
 巫女袖左用=Shrine Maiden Sleeve (Left)
 鬼神の肩当て=Demon God's Shoulderpad
+; Character Design Addon Pack Vol. 2 (add08)
+メカショルダー=Mecha Shoulder
+メカ装甲５=Mecha Armor 5
+メカ装甲６=Mecha Armor 6
+メカ装甲６×３=Mecha Armor 6x3
+メカシールドⅡ=Mecha Shield Ⅱ
+メカブースターⅡ=Mecha Booster Ⅱ
 
 ; Accessories -> Hands
 革カバン=Leather Bag
@@ -2012,6 +2094,8 @@ XYZの文字を左右ドラッグでも調整できます=You can also adjust X/
 お金持ちの指輪=Diamond Ring
 アナルバイブ=Anal Vibrator
 電気マッサージ器=Vibrating Wand
+; Sofmap Exclusive Preorder Bonus (add01)
+注射器=Syringe
 ; Magical Girl Preorder Bonus (add02)
 魔法のステッキ=Magical Wand
 ; Character Design Addon Pack Vol. 1 (add06)
@@ -2069,29 +2153,29 @@ AB=AB
 ミステリアス=Mysterious
 電波=Weirdo
 大和撫子=Yamato Nadeshiko
-ボーイッシュ=Boyish
+ボーイッシュ=Tomboy
 純真無垢=Pure
-単純=Blunt
-邪気眼=Evil Eye
+単純=Simple
+邪気眼=Delusional
 母性的=Motherly
 姉御肌=Big Sisterly
 ギャル=Gyaru
-不良少女=Bad Girl
+不良少女=Delinquent
 野生的=Wild
 意識高いクール=Wannabe
-ひねくれ=Crabby
-不幸少女=Unlucky Girl
-文学少女=Bookish Girl
-モジモジ=Nervous
-正統派ヒロイン=Traditional Schoolgirl
+ひねくれ=Reluctant
+不幸少女=Pessimist
+文学少女=Bookish
+モジモジ=Timid
+正統派ヒロイン=Typical Schoolgirl
 ミーハー=Trendy
-オタク女子=Otaku Girl
+オタク女子=Otaku
 ヤンデレ=Yandere
 ものぐさ=Lazy
 無口=Quiet
 意地っ張り=Stubborn
-のじゃっ子=Old-Fashioned Girl
-素直クール=Docile
+のじゃっ子=Old-Fashioned
+素直クール=Humble
 
 ; Profile -> Male Personality Types
 ; Less personality types and more setting the male between two sets of opposite elements
