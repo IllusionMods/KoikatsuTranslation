@@ -1,4 +1,4 @@
-;
+﻿;
 ; "Universal" Text
 ; For everything too generic or used in multiple places.
 ;
@@ -96,7 +96,7 @@ WARNING=WARNING
 ; Note is currently bugged - translation plugin doesn't act on string. Due to color codes/HTML?
 ※ 各項目の変形に関するものをまとめたものとなります。=※ You can adjust all option sliders at once in this list.
 
-; Used for Profile -> Perversions/Nature
+; Used for Profile -> H-Scene/Nature
 YES=Yes
 NO=No
 
@@ -859,6 +859,10 @@ RGB=RGB
 ぱっつんロング=Straight-Cut, Long
 ; Character Design Addon Pack Vol. 3 (add09)
 三つ編みお団子=Braided Bun
+; Character Design Addon Pack Vol. 4 (add10)
+ゆるふわボブ=Loose Fluffy Bob
+くせっ毛ショート=Short, Curled
+;Wavy Long
 ; Patch 0501/0502 (add11)
 ふわポニー=Fluffy Ponytail
 お団子シングル=Single Bun
@@ -872,16 +876,16 @@ RGB=RGB
 ふわツインウェーブ=Fluffy Wavy Twintails
 ツインロール=Twin Drills
 
-; Hair -> Bangs
+; Hair -> Front Hair
 前髪の種類=Front Hair Type
 前髪の長さ=Front Hair Length
 前髪の基本の色=Front Hair Base Color
 前髪の根本の色=Front Hair Root Color
 前髪の毛先の色=Front Hair Tip Color
 前髪のアウトラインの色=Front Hair Outline Color
-前髪の装飾の色０１=Bangs Accessory 01 Color
+前髪の装飾の色０１=Front Hair Accessory 01 Color
 
-; Hair -> Bangs -> Bangs Types
+; Hair -> Front Hair -> Front Hair Types
 ストレート=Straight
 横はねカール(左)=Swept-Out Curl (L)
 横はねカール(右)=Swept-Out Curl (R)
@@ -924,6 +928,10 @@ M字バングストレート(右)=M-Shaped Straight Bangs (R)
 ぱっつんエアインテーク=Straight-Cut, Air Intake
 ; Character Design Addon Pack Vol. 3 (add09)
 ナイトバング=Knight Bangs
+; Character Design Addon Pack Vol. 4 (add10)
+ゆるふわボブ前=Loose Fluffy Bobbed Bangs
+くせっ毛ショート前=Short, Curled Bangs
+中分けぱっつん=Medium Straight-Cut Bangs
 ; Patch 0501/0502 (add11)
 ウェーブショート=Wavy Short
 アップバング=Upward Swept Bangs
@@ -1202,6 +1210,8 @@ Tシャツ無地(男)=Plain T-Shirt (Male)
 鬼神の装束(上)=Demon God's Costume (Top)
 ; Character Design Addon Pack Vol. 3 (add09)
 騎士のスーツ=Knight's Armor
+; Character Design Addon Pack Vol. 4 (add10)
+裸サスペンダー=Naked Suspenders
 
 ; Clothing -> Top -> Innerwear Types
 ワイシャツ=Dress Shirt
@@ -1214,6 +1224,8 @@ Tシャツ無地(男)=Plain T-Shirt (Male)
 ノースリーブシャツ=Sleeveless Dress Shirt
 ; Character Design Addon Pack Vol. 1 (add06)
 巫女内衣=Shrine Maiden's Robe
+; Character Design Addon Pack Vol. 4 (add10)
+チューブトップシャツ=Tube Top
 
 ; Clothing -> Top -> Outerwear Types
 ブレザーA=Blazer A
@@ -1231,6 +1243,8 @@ Tシャツ無地(男)=Plain T-Shirt (Male)
 エプロン=Apron
 ; Character Design Addon Pack Vol. 1 (add06)
 陣羽織=Battle Surcoat
+; Character Design Addon Pack Vol. 4 (add10)
+サスペンダー=Suspenders
 
 ; Clothing -> Top -> Decoration Types
 リボン=Ribbon
@@ -1356,6 +1370,9 @@ H=Letter H
 ハイレグレオタード =High-Leg Leotard
 ; Character Design Addon Pack Vol. 2 (add08)
 メカスーツ=Mecha Suit
+; Character Design Addon Pack Vol. 4 (add10)
+全身タイツ=Full-Body Tights
+大人ワンピース=Adult One-Piece
 
 ; Clothing -> Underwear
 ショーツを初期の状態に戻す=Restore Default Underwear Settings
@@ -1403,6 +1420,8 @@ H=Letter H
 メカグローブ=Mecha Gloves
 ; Character Design Addon Pack Vol. 3 (add09)
 騎士の手袋=Knight's Gloves
+; Character Design Addon Pack Vol. 4 (add10)
+メカハンド=Mecha Hands
 
 ; Clothing -> Pantyhose
 パンストを初期の状態に戻す=Restore Default Pantyhose Settings
@@ -1499,6 +1518,8 @@ H=Letter H
 鬼神の脛当て=Demon God's Greaves
 ; Character Design Addon Pack Vol. 3 (add09)
 騎士のブーツ=Knight's Boots
+; Character Design Addon Pack Vol. 4 (add10)
+メカブーツ=Mecha Boots
 
 ; Clothing -> Copy Menu
 コピー元のコーディネート=Uniform Source
@@ -1936,6 +1957,8 @@ XYZの文字を左右ドラッグでも調整できます=You can also adjust X/
 ナイトバイザー=Knight Visor
 鎧兜=Armored Helmet
 毛玉=Furball
+; Character Design Addon Pack Vol. 4 (add10)
+玉飾り=New Year Ornament
 
 ; Accessories -> Face
 スクエア=Square Glasses
@@ -2058,8 +2081,8 @@ XYZの文字を左右ドラッグでも調整できます=You can also adjust X/
 ; Character Design Addon Pack Vol. 2 (add08)
 メカアンプ=Mecha Amplifier
 ; Character Design Addon Pack Vol. 3 (add09)
-騎士の腰当右用=Knight Right Hip Armor
-騎士の腰当左用=Knight Left Hip Armor
+騎士の腰当右用=Knight's Right Hip Armor
+騎士の腰当左用=Knight's Left Hip Armor
 ロングソードの鞘=Longsword Sheath
 
 ; Accessories -> Legs
@@ -2070,6 +2093,9 @@ XYZの文字を左右ドラッグでも調整できます=You can also adjust X/
 ; Sofmap Exclusive Preorder Bonus (add01)
 注射ガーターリング（左）=Injection Ring Garter (Left)
 注射ガーターリング（右）=Injection Ring Garter (Right)
+; Character Design Addon Pack Vol. 4 (add10)
+メカフット（左）=Mecha Foot (Left)
+メカフット（右）=Mecha Foot (Right)
 
 ; Accessories -> Arms
 ナイロンボストンA=Nylon Boston Bag A
@@ -2153,6 +2179,12 @@ XYZの文字を左右ドラッグでも調整できます=You can also adjust X/
 魔法の書=Grimoire
 騎士のレイピア=Knight's Rapier
 騎士のレイピア(鞘)=Knight's Rapier (Sheath)
+; Character Design Addon Pack Vol. 4 (add10)
+エンシェントロッド=Ancient Rod
+メカハンド握り右用=Mecha Right Fist
+メカハンド握り左用=Mecha Left Fist
+メカハンド開き右用=Mecha Right Open Hand
+メカハンド開き左用=Mecha Left Open Hand
 
 ; Accessories -> Crotch
 バイブ=Vibrating Dildo
@@ -2177,7 +2209,7 @@ XYZの文字を左右ドラッグでも調整できます=You can also adjust X/
 ;
 
 キャラ=Character
-エッチ=Perversions
+エッチ=H-Scene
 質問=Nature
 個性=Traits
 
@@ -2243,7 +2275,7 @@ AB=AB
 漫研部=Manga Club
 チアリーディング部=Cheerleading Club
 茶道部=Tea Ceremony Club
-陸上部=Track And Field Club
+陸上部=Track & Field Club
 
 ; Profile -> Character -> Name Box
 名前を入力して下さい=Please Enter A Name
@@ -2253,7 +2285,7 @@ AB=AB
 ; Profile -> Character -> Nickname Box
 愛称を入力して下さい=Please Enter A Nickname
 
-; Profile -> Perversions
+; Profile -> H-Scene
 性感帯=Erogenous Zone
 キスを拒否しない？=Won't Refuse Kisses?
 激しい愛撫を拒否しない？=Won't Refuse Groping?
@@ -2261,7 +2293,7 @@ AB=AB
 電マを拒否しない？=Won't Refuse Vibrating Toys?
 ゴム付けなくてもOK？=Sex Without Condoms Is Okay?
 
-; Profile -> Perversions -> Erogenous Zone Types
+; Profile -> H-Scene -> Erogenous Zone Types
 ;None
 唇=Lips
 ;Chest
@@ -2299,6 +2331,8 @@ AB=AB
 活発=Lively
 綺麗好き=Likes Cleanliness
 一人好き=Likes Being Alone
+; Character Design Addon Pack Vol. 4 (add10)
+女の子好き=Likes Girls
 
 ;
 ; File Menu
@@ -2314,7 +2348,11 @@ AB=AB
 
 ; File Menu -> Load Character
 キャラ一覧=Character List
+部活と性格=Club/Pers.
+;Name
 日付=Date
+;Club Activities
+;Personality
 ※ 読込みたい情報にチェックを入れてください=※ Please Check What Aspects Of The Character To Load
 ;Face
 体=Body
@@ -2379,3 +2417,10 @@ No Image=No Image
 キャラメイクを終了しますか？=Quit The Character Maker?
 キャラ編集を終了しますか？=Quit Editing This Character?
 ゲームを終了しますか？=Quit The Game?
+
+; Maker called from Class Edit Menu
+学生証画像の撮影=Take Student ID Image
+編集前に戻す=Revert Edits
+キャラを編集前に戻しますか？=Revert This Character?
+反映せず終了=Cancel & End
+反映して終了=Apply & End
