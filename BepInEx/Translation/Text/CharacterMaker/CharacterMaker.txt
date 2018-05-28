@@ -92,8 +92,7 @@ WARNING=WARNING
 ０２=02
 ０３=03
 
-; Slider Notice (Red Text)
-; Note is currently bugged - translation plugin doesn't act on string. Due to color codes/HTML?
+; All Sliders Notice
 ※ 各項目の変形に関するものをまとめたものとなります。=※ You can adjust all option sliders at once in this list.
 
 ; Used for Profile -> H-Scene/Nature
@@ -1155,8 +1154,6 @@ Tシャツ(柄B)=T-Shirt (Design B)
 ジャージ(フィット)=Jersey (To Waist)
 ジャージ(スカート)=Jersey (Over Skirt)
 ジャージ前開き=Open Jersey
-; Damn it Illusion
-ジャージ前開き =Open Jersey
 チアトップス=Cheerleader Top
 テニスウェア=Tennis Top
 ランニングウェア=Running Top
@@ -1169,11 +1166,7 @@ Tシャツ(柄B)=T-Shirt (Design B)
 アイドルワンピ=Idol One-Piece
 ワンピース=One-Piece
 白衣=Doctor's Coat
-; Damn it Illusion
-白衣 =Doctor's Coat
 スーツ=Suit
-; Damn it Illusion
-スーツ =Suit
 ノースリーブワンピース=Sleeveless One-Piece
 カーディガンキャミソール=Cardigan Camisole
 ジャケットタンクトップ=Jacket And Tank Top
@@ -1331,8 +1324,7 @@ H=Letter H
 ; Early Preorder Bonus (add03)
 セクシーランジェリー（下）=Sexy Lingerie (Bottom)
 ; Preorder Bonus (add04)
-; Damn it Illusion
-軍服タイトスカート　=Military Tight Skirt
+軍服タイトスカート=Military Tight Skirt
 ; Character Design Addon Pack Vol. 1 (add06)
 巫女スカート=Shrine Maiden Skirt
 鬼神の装束A(下)=Demon God's Costume A (Bottom)
@@ -1359,15 +1351,9 @@ H=Letter H
 リボンレースブラ=Ribbon Lace Bra
 オープンレースブラ=Open Lace Bra
 レースビスチェ=Lace Bustier
-; Damn it Illusion
-レースビスチェ =Lace Bustier
 エンブレムシール(上)=Seashells (Top)
 レオタード=Leotard
-; Damn it Illusion
-レオタード =Leotard
 ハイレグレオタード=High-Leg Leotard
-; Damn it Illusion
-ハイレグレオタード =High-Leg Leotard
 ; Character Design Addon Pack Vol. 2 (add08)
 メカスーツ=Mecha Suit
 ; Character Design Addon Pack Vol. 4 (add10)
@@ -1460,8 +1446,6 @@ H=Letter H
 フリルニーソックス=Frilly Kneesocks
 クルーソックス（折り返し）=Crew Socks (Cuffed)
 レッグウォーマー=Leg Warmers
-; Damn it Illusion
-レッグウォーマー =Leg Warmers
 ; Sofmap Exclusive Preorder Bonus (add01)
 網ニーソックス=Netted Kneesocks
 ; Magical Girl Preorder Bonus (add02)
@@ -1489,17 +1473,9 @@ H=Letter H
 小悪魔パンプス=Devil Pumps
 アイドルパンプス=Idol Pumps
 リボンパンプス=Ribbon Pumps
-; Damn it Illusion
-リボンパンプス =Ribbon Pumps
 サンダル=Sandals
-; Damn it Illusion
-サンダル =Sandals
 サイドリボンパンプス=Side-Ribbon Pumps
-; Damn it Illusion
-サイドリボンパンプス =Side-Ribbon Pumps
 パンプス=Pumps
-; Damn it Illusion
-パンプス =Pumps
 ビーチサンダル=Beach Sandals
 フラワーサンダル=Flower Sandals
 便所サンダル=Bathroom Sandals
@@ -1914,8 +1890,7 @@ XYZの文字を左右ドラッグでも調整できます=You can also adjust X/
 猫耳（左）=Cat Ear (Left)
 鈴付きリボン=Ribbon and Bell
 ; Preorder Bonus (add04)
-; Damn it Illusion
-将校の帽子 =Commissioned Officer Hat
+将校の帽子=Commissioned Officer Hat
 ; Maid Preorder Bonus (add05)
 メイドヘアバンド=Maid Hairband
 メイドカチューシャ=Maid Headband
@@ -1982,9 +1957,7 @@ XYZの文字を左右ドラッグでも調整できます=You can also adjust X/
 ムーン=Moon
 スター=Star
 ビッグスター=Big Star
-エンジェル=Angel
-; Damn it Illusion
-エンジェル =Angel
+エンジェル=Cupid
 ソードスカル=Sword And Skull
 ハートインカム=Heart Headset
 プリーツマスク=Sickness Mask
@@ -2002,15 +1975,11 @@ XYZの文字を左右ドラッグでも調整できます=You can also adjust X/
 マフラー=Muffler
 ロングネクタイ=Long Necktie
 リボンチョーカー=Ribbon Choker
-; Damn it Illusion
-リボンチョーカー =Ribbon Choker
 小悪魔チョーカー=Devil Choker
 ホイッスル=Whistle
 聴診器=Stethoscope
 首枷=Metal Collar
 蝶ネクタイ=Bow Tie
-; Damn it Illusion
-蝶ネクタイ =Bow Tie
 首掛けメガホン=Hanging Megaphone
 ハートペンダント=Heart Pendant
 リボンペンダント=Ribbon Pendant
@@ -2018,18 +1987,14 @@ XYZの文字を左右ドラッグでも調整できます=You can also adjust X/
 星のペンダント=Star Pendant
 土星のペンダント=Saturn Pendant
 ; Early Preorder Bonus (add03)
-; Damn it Illusion
-鈴付きチョーカー =Bell Choker
+鈴付きチョーカー=Bell Choker
 ; Preorder Bonus (add04)
-; Damn it Illusion
-階級バッジ =Rank Badge
+階級バッジ=Rank Badge
 ; Character Design Addon Pack Vol. 1 (add06)
 鈴=Bell
 シデ=Shinto Paper Streamer
-; Damn it Illusion
-鬼神のリボン =Demon God's Ribbon
-; Damn it Illusion
-勾玉の首飾り =Magatama Amulet
+鬼神のリボン=Demon God's Ribbon
+勾玉の首飾り=Magatama Amulet
 ; Character Design Addon Pack Vol. 2 (add08)
 メカタイ=Mecha Tie
 ; Character Design Addon Pack Vol. 3 (add09)
