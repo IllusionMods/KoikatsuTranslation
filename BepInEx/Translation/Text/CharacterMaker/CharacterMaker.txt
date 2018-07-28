@@ -1,20 +1,22 @@
-﻿;
-; "Universal" Text
-; For everything too generic or used in multiple places.
-;
+﻿#set exe Koikatu
 
-; Used mostly in menu buttons
+//
+// "Universal" Text
+// For everything too generic or used in multiple places.
+//
+
+// Used mostly in menu buttons
 全体=General
 変形まとめ=Slider List
 コピー=Copy
 
-; Used as both a Profile heading as well as a clothing type
+// Used as both a Profile heading as well as a clothing type
 部活=Club Activities
 
-; Used as a clothing outfit type as well as clothing, period
+// Used as a clothing outfit type as well as clothing, period
 体操着=Gym Uniform
 
-; Used in multiple right sidebar expression choices
+// Used in multiple right sidebar expression choices
 デフォルト=Default
 怒り=Angry
 真剣=Serious
@@ -26,7 +28,7 @@
 焦り=Impatient
 驚き=Surprised
 
-; Used in Eye/Head Tracking right sidebar options
+// Used in Eye/Head Tracking right sidebar options
 カメラ=At Camera
 上=Upward
 左上=Up and Left
@@ -38,17 +40,17 @@
 右上=Right and Up
 そらす=Avert Gaze
 
-; Used in a handful of places, such as Face -> Overall
+// Used in a handful of places, such as Face -> Overall
 なし=None
 
-; Used in a handful of places, such as Face -> Eyebrows
+// Used in a handful of places, such as Face -> Eyebrows
 しない=No
 する=Yes
 
-; Used in a handful of places, such as for expressions as well as pubic hair
+// Used in a handful of places, such as for expressions as well as pubic hair
 三角=Triangle
 
-; Used for both Facepaint as well as Body Paint
+// Used for both Facepaint as well as Body Paint
 ペイント０１の種類=Paint 01 Type
 ペイント０１の色=Paint 01 Color
 ペイント０１回転=Paint 01 Rotation
@@ -56,7 +58,7 @@
 ペイント０２の色=Paint 02 Color
 ペイント０２回転=Paint 02 Rotation
 
-; Makeup Types (Both for Body and Face)
+// Makeup Types (Both for Body and Face)
 ハート=Heart
 水滴=Water Droplet
 星Ａ=Star A
@@ -79,10 +81,10 @@
 第三の目=Third Eye
 ドクロ=Skull
 絆創膏=Bandage
-; Character Design Addon Pack Vol. 1 (add06)
+// Character Design Addon Pack Vol. 1 (add06)
 桜=Cherry Blossom
 印=Emblem
-; Character Design Addon Pack Vol. 2 (add08)
+// Character Design Addon Pack Vol. 2 (add08)
 バーコード=Barcode
 CAUTION=CAUTION
 DANGER=DANGER
@@ -92,27 +94,29 @@ WARNING=WARNING
 ０２=02
 ０３=03
 
-; All Sliders Notice
+// All Sliders Notice
 ※ 各項目の変形に関するものをまとめたものとなります。=※ You can adjust all option sliders at once in this list.
 
-; Used for Profile -> H-Scene/Nature
+// Used for Profile -> H-Scene/Nature
 YES=Yes
 NO=No
 
-; Used for Profile -> Name/Nickname Entry Boxes
+// Used for Profile -> Name/Nickname Entry Boxes
 決定=Accept
 キャンセル=Cancel
 
-; Used in a few different spots
+// Used in a few different spots
 ランダム=Random
 
-; Generic dialogue box confirmations
+// Generic dialogue box confirmations
 はい=Yes
 いいえ=No
 
-; Type List Slots
+// Type List Slots
 タイプ１=Type 1
 タイプ２=Type 2
+// Good job Illusion fucking this one up - Lip Type needs it
+タイプ2=Type 2
 タイプ３=Type 3
 タイプ４=Type 4
 タイプ５=Type 5
@@ -189,24 +193,24 @@ NO=No
 タイプ７６=Type 76
 タイプ７７=Type 77
 
-;
-; Clothing Selection Stuff
-;
+//
+// Clothing Selection Stuff
+//
 
 コーディネートタイプ=Uniform Type
 学生服（校内）=In School
-学生服（下校）=Leaving School
+学生服（下校）=Going Home
 水着=Swimsuit
 私服=Casual Clothes
 お泊り=Sleeping Over
 
-;
-; Right Sidebar Label
-;
+//
+// Right Sidebar Label
+//
 
 確認操作パネル=Control Panel
 
-; Right Sidebar -> Clothing State Options
+// Right Sidebar -> Clothing State Options
 
 服の状態=Clothing State
 自動=Auto
@@ -214,19 +218,19 @@ NO=No
 下着=Underwear
 全裸=Naked
 
-; Right Sidebar -> Shoe Type Options
+// Right Sidebar -> Shoe Type Options
 
 表示する靴のタイプ=Displayed Shoe Type
 内履き=Indoors
 外履き=Outdoors
 
-; Right Sidebar -> Show Accessory Options
+// Right Sidebar -> Show Accessory Options
 
 アクセサリの表示=Show Accessories
 メイン=Main
 サブ=Sub
 
-; Right Sidebar -> Eye/Mouth Pattern Labels
+// Right Sidebar -> Eye/Mouth Pattern Labels
 眉のパターン=Eyebrow Pattern
 目のパターン=Eye Pattern
 目の開き=Eye Openness
@@ -234,7 +238,7 @@ NO=No
 口のパターン=Mouth Pattern
 口の開き=Mouth Openness
 
-; Right Sidebar -> Eyebrow Patterns
+// Right Sidebar -> Eyebrow Patterns
 困り=Worried
 疑問L=Doubt L
 疑問R=Doubt R
@@ -246,7 +250,7 @@ NO=No
 ウィンクL=Winking L
 ウィンクR=Winking R
 
-; Right Sidebar -> Eye Patterns
+// Right Sidebar -> Eye Patterns
 両目閉じ=Closed
 笑顔　両目閉じ=Happy, Closed
 微笑=Happy
@@ -272,7 +276,7 @@ NO=No
 横一文字=Horizontal Line
 デフォルメ泣き=Cartoony Crying
 
-; Right Sidebar -> Mouth Patterns
+// Right Sidebar -> Mouth Patterns
 嬉しい=Happy (Broad)
 嬉しいs=Happy (Moderate)
 嬉しいss=Happy (Slight)
@@ -306,19 +310,19 @@ NO=No
 猫口　閉じ=Catlike
 デフォルメニコ=Cartoony Smile
 
-; Right Sidebar -> Gaze Direction Options
+// Right Sidebar -> Gaze Direction Options
 視線の向き=Gaze Direction
 首の向き=Head Direction
 ポーズ=Pose
 
-; Right Sidebar -> Gaze Direction Selections
+// Right Sidebar -> Gaze Direction Selections
 視線の向き調整=Eye Adjustment Tuning
 
-; Right Sidebar -> Head Direction Selections
+// Right Sidebar -> Head Direction Selections
 首の向き調整=Head Adjustment Tuning
 アニメ=From Animation
 
-; Right Sidebar -> Pose Selections
+// Right Sidebar -> Pose Selections
 基本=Basic
 揺れ=Bouncing
 立ち０１=Pose 01
@@ -376,29 +380,31 @@ NO=No
 男立ち３=Male Standing 3
 男立ち４=Male Standing 4
 男立ち５=Male Standing 5
+// When did this get added...?
+立ち３１=Pose 31
 
-; Right Sidebar -> Light Direction Options
+// Right Sidebar -> Light Direction Options
 ライトの向き調整=Light Direction
 X=X
 Y=Y
 ライトの向きを初期化=Reset Light Direction
 
-; Right Sidebar -> Background Options
+// Right Sidebar -> Background Options
 
 背景の種類=Background
 画像=Image
 単色=Static
 背景色=Color
 
-; Right Sidebar -> Frame Options
+// Right Sidebar -> Frame Options
 
 撮影フレーム=Photography Frame
 前面フレームを表示=Show Foreground Frame
 背面フレームを表示=Show Background Frame
 
-;
-; Color Picker Menu
-;
+//
+// Color Picker Menu
+//
 
 カラー=Color
 ピッカー=Picker
@@ -420,9 +426,9 @@ RGB=RGB
 左クリックで現在のカラーを登録します=Left-Click To Copy Current Color
 左クリックで適応、右クリックで削除します=Left-Click To Apply, Right-Click To Delete
 
-;
-; Face Menu
-;
+//
+// Face Menu
+//
 
 耳=Ears
 顎=Jaw
@@ -435,7 +441,7 @@ RGB=RGB
 ホクロ=Mole
 化粧(基本)=Makeup
 
-; Face -> General
+// Face -> General
 顔の全体横幅=Face Width
 顔の上部前後=Upper Face Depth
 顔の上部上下=Upper Face Height
@@ -445,21 +451,21 @@ RGB=RGB
 特殊表現の種類=Face Overlay Type
 特殊表現の強さ=Face Overlay Strength
 
-; Face -> General -> Face Overlay Types
+// Face -> General -> Face Overlay Types
 シワ=Wrinkles
 強調１=Emphasis 1
 強調２=Emphasis 2
 境界線=Boundary Lines
 目周りの影=Shadowed Eyes
 
-; Face -> Ears
+// Face -> Ears
 耳のサイズ=Ear Size
 耳の角度Y軸=Ear Angle Y Axis
 耳の角度Z軸=Ear Angle Z Axis
 耳の上部形状=Ear Upper Shape
 耳の下部形状=Ear Lower Shape
 
-; Face -> Jaw
+// Face -> Jaw
 顎の下部上下=Lower Jaw Vertical Position
 顎の下部奥行=Lower Jaw Depth
 顎の上下=Jaw Vertical Position
@@ -469,7 +475,7 @@ RGB=RGB
 顎先の前後=Chin Depth
 顎先の幅=Chin Width
 
-; Face -> Cheeks
+// Face -> Cheeks
 頬骨の幅=Cheekbone Width
 頬骨の前後=Cheekbone Depth
 頬の幅=Cheek Width
@@ -477,7 +483,7 @@ RGB=RGB
 頬の上下=Cheek Vertical Position
 頬のツヤの強さ=Cheek Gloss
 
-; Face -> Eyebrows
+// Face -> Eyebrows
 眉の上下=Eyebrow Vertical Position
 眉の横位置=Eyebrow Spacing
 眉の角度=Eyebrow Angle
@@ -491,7 +497,7 @@ RGB=RGB
 眉の色を陰毛の色に合わせる=Copy Pubic Hair Color To Eyebrows
 コンフィグ依存=Config Decides
 
-; Face -> Eyes
+// Face -> Eyes
 上まぶたの形状１=Upper Eyelid Shape 1
 上まぶたの形状２=Upper Eyelid Shape 2
 上まぶたの形状３=Upper Eyelid Shape 3
@@ -510,7 +516,7 @@ RGB=RGB
 アイライン下の種類=Lower Eyeliner Type
 アイラインの色=Eyeliner Color
 
-; Face -> Iris
+// Face -> Iris
 白目のグラデ種類=Sclera Type
 白目の色①=Sclera Color ①
 白目の色②=Sclera Color ②
@@ -518,8 +524,8 @@ RGB=RGB
 ハイライト上の色=Upper Highlight Color
 ハイライト下の種類=Lower Highlight Type
 ハイライトの下色=Lower Highlight Color
-; This'll get fixed at some point, so here's another for when it is.
-;ハイライト下の色=Lower Highlight Color
+// This'll get fixed at some point, so here's another for when it is.
+//ハイライト下の色=Lower Highlight Color
 ハイライト上の上下位置=Upper Highlight Vertical
 ハイライト下の上下位置=Lower Highlight Vertical
 瞳の左右位置=Iris Spacing
@@ -542,13 +548,13 @@ RGB=RGB
 右目の設定を左目に反映=Copy Right Eye To Left
 ※ 現在の目のパターンではアイシャドウは表示されません。=※ Eyeshadow cannot be displayed with this pattern.
 
-; Face -> Nose
+// Face -> Nose
 鼻先の高さ=Nose Tip Height
 鼻の上下=Nose Vertical Position
 鼻筋の高さ=Nose Ridge Height
 鼻の種類=Nose Type
 
-; Face -> Mouth
+// Face -> Mouth
 口の上下=Mouth Vertical Position
 口の横幅=Mouth Width
 口の前後=Mouth Depth
@@ -560,7 +566,7 @@ RGB=RGB
 唇のツヤの強さ=Lip Gloss
 八重歯を表示する=Enable Fangs
 
-; Face -> Moles
+// Face -> Moles
 ホクロの種類=Mole Type
 ホクロの色=Mole Color
 ホクロの左右位置=Mole Horizontal Position
@@ -568,11 +574,11 @@ RGB=RGB
 ホクロの大きさ=Mole Size
 ホクロ位置プリセット=Mole Position Presets
 
-; Face -> Moles -> Mole Types
+// Face -> Moles -> Mole Types
 そばかす１=Freckles 1
 そばかす２=Freckles 2
 
-; Face -> Moles -> Mole Position Presets
+// Face -> Moles -> Mole Position Presets
 ホクロ配置=Mole Position
 左の口元=Left Lower Lip
 右の口元=Right Lower Lip
@@ -583,40 +589,40 @@ RGB=RGB
 額中央=Middle of Forehead
 そばかす=Freckles
 
-; Face -> Makeup
+// Face -> Makeup
 アイシャドウの種類=Eyeshadow Type
 アイシャドウの色=Eye Shadow Color
 チークの種類=Cheek Type
 チークの色=Cheek Color
 リップの種類=Lip Type
 リップの色=Lip Color
-; Facepaint 01 Type is currently BUGGED - Also used for Face Overlay, Illusion needs to fix
+// Facepaint 01 Type is currently BUGGED - Also used for Face Overlay, Illusion needs to fix
 フェイスペイント０１の種類=Facepaint 01 Type
 フェイスペイント０１配置=Facepaint 01 Position
 フェイスペイント０２配置=Facepaint 02 Position
-;Paint 01 Type
-;Paint 01 Color
+//Paint 01 Type
+//Paint 01 Color
 ペイント０１左右位置=Paint 01 Horizontal
 ペイント０１上下位置=Paint 01 Vertical
-;Paint 01 Rotation
+//Paint 01 Rotation
 ペイント０１大きさ=Paint 01 Size
 ペイント０１位置プリセット=Paint 01 Position Presets
 
 フェイスペイント０２の種類=Facepaint 02 Type
-;Paint 02 Type
-;Paint 02 Color
+//Paint 02 Type
+//Paint 02 Color
 ペイント０２左右位置=Paint 02 Horizontal
 ペイント０２上下位置=Paint 02 Vertical
-;Paint 02 Rotation
+//Paint 02 Rotation
 ペイント０２大きさ=Paint 02 Size
 ペイント０２位置プリセット=Paint 02 Position Presets
 
-; Face -> Paint -> Position Presets
+// Face -> Paint -> Position Presets
 左頬=Left Side of Face
 右頬=Right Side of Face
 おでこ=Forehead
 
-; Face -> Sliders
+// Face -> Sliders
 最小=Minimum
 最大=Maximum
 顔全体の横幅=Face Width
@@ -624,9 +630,9 @@ RGB=RGB
 顎の先前後=Chin Depth
 顎の先幅=Chin Width
 
-;
-; Body Menu
-;
+//
+// Body Menu
+//
 
 胸=Chest
 上半身=Upper Body
@@ -638,7 +644,7 @@ RGB=RGB
 日焼け跡=Suntan
 ペイント=Body Paint
 
-; Body -> Overall
+// Body -> Overall
 身長=Body Height
 頭のサイズ=Head Size
 肉感の種類=Skin Type
@@ -648,12 +654,12 @@ RGB=RGB
 肌のツヤの強さ=Skin Gloss
 肌ラインを表示する=Display Skin Detail Lines
 
-; Body -> Overall -> Skin Types
+// Body -> Overall -> Skin Types
 ムキムキ=Muscular
 ポッチャリ=Chubby
 スレンダー=Slender
 
-; Body -> Chest
+// Body -> Chest
 胸のサイズ=Breast Size
 胸の上下位置=Breast Vertical Position
 胸の左右開き=Breast Spacing
@@ -671,7 +677,7 @@ RGB=RGB
 乳首の色=Nipple Color
 乳首のツヤ強さ=Nipple Gloss
 
-; Body -> Upper Body
+// Body -> Upper Body
 首周りの幅=Neck Width
 首周りの奥=Neck Thickness
 胴体肩周りの幅=Shoulder Width
@@ -681,7 +687,7 @@ RGB=RGB
 胴体下の幅=Lower Torso Width
 胴体下の奥=Lower Torso Thickness
 
-; Body -> Lower Body
+// Body -> Lower Body
 ウエストの位置=Waist Position
 腹部=Belly Thickness
 腰上の幅=Waist Width
@@ -691,7 +697,7 @@ RGB=RGB
 尻のサイズ=Butt Size
 尻の角度=Butt Angle
 
-; Body -> Arms
+// Body -> Arms
 肩幅=Shoulder Width
 肩の奥=Shoulder Thickness
 上腕の幅=Upper Arm Width
@@ -700,7 +706,7 @@ RGB=RGB
 肘周りの奥=Elbow Thickness
 前腕=Forearm Thickness
 
-; Body -> Legs
+// Body -> Legs
 太もも上の幅=Upper Thigh Width
 太もも上の奥=Upper Thigh Thickness
 太もも下の幅=Lower Thigh Width
@@ -711,18 +717,18 @@ RGB=RGB
 足首の幅=Ankle Width
 足首の奥=Ankle Thickness
 
-; Body -> Nails
+// Body -> Nails
 爪の色=Nail Color
 爪のツヤの強さ=Nail Gloss
 
-; Body -> Pubic Hair
+// Body -> Pubic Hair
 陰毛の種類=Pubic Hair Type
 陰毛の色=Pubic Hair Color
 陰毛の色を髪と眉に反映する=Copy Pubic Hair Color To Hair And Eyebrows
 陰毛の色を眉の色に合わせる=Copy Eyebrow Color To Pubic Hair
 陰毛の色を髪の色に合わせる=Copy Hair Color To Pubic Hair
 
-; Body -> Pubic Hair -> Pubic Hair Types
+// Body -> Pubic Hair -> Pubic Hair Types
 四角=Rectangular
 小三角=Small Triangle
 丸=Circle
@@ -736,39 +742,39 @@ RGB=RGB
 横長=Broad
 そり跡=Pubic Stubble
 
-; Body -> Suntan
+// Body -> Suntan
 日焼け跡の種類=Suntan Type
 日焼け跡の色=Suntan Color
 
-; Body -> Suntan Types
-; This only covers stuff not listed under the generic "Type" stuff
-; (Which is all tans up until Character Design Addon Pack Vol. 2 (add08))
+// Body -> Suntan Types
+// This only covers stuff not listed under the generic "Type" stuff
+// (Which is all tans up until Character Design Addon Pack Vol. 2 (add08))
 電子回路=Electronic Circuit
 ライン=Lines
 
-; Body -> Body Paint
-;Paint 01 Type
-;Paint 01 Color
+// Body -> Body Paint
+//Paint 01 Type
+//Paint 01 Color
 ペイント０１の配置=Paint 01 Location
 ペイント０１左右補正=Paint 01 Horizontal
 ペイント０１上下補正=Paint 01 Vertical
-;Paint 01 Rotation
+//Paint 01 Rotation
 ペイント０１サイズ補正=Paint 01 Size
-;Paint 02 Type
-;Paint 02 Color
+//Paint 02 Type
+//Paint 02 Color
 ペイント０２の配置=Paint 02 Location
 ペイント０２左右補正=Paint 02 Horizontal
 ペイント０２上下補正=Paint 02 Vertical
-;Paint 02 Rotation
+//Paint 02 Rotation
 ペイント０２サイズ補正=Paint 02 Size
 
-; Body -> Body Paint -> Body Paint Misc. Labels
+// Body -> Body Paint -> Body Paint Misc. Labels
 ボディーペイント０１の配置=Body Paint 01 Position
 ボディーペイント０２の配置=Body Paint 02 Position
 ボディーペイント０１の種類=Body Paint 01 Selection
 ボディーペイント０２の種類=Body Paint 02 Selection
 
-; Body -> Body Paint -> Body Paint Location
+// Body -> Body Paint -> Body Paint Location
 腹・股間=Midriff
 背中・うなじ=Between Shoulder Blades
 腰=Hips
@@ -789,9 +795,9 @@ RGB=RGB
 右肩=Right Upper Arm
 右腕=Right Forearm
 
-;
-; Hair Menu
-;
+//
+// Hair Menu
+//
 
 後ろ髪=Back
 前髪=Front
@@ -799,7 +805,7 @@ RGB=RGB
 エクステ=Extensions
 その他=Miscellaneous
 
-; Hair -> General Hair Settings
+// Hair -> General Hair Settings
 前髪・後ろ髪・横髪・エクステの色を統一する=Share Color With All Hairs
 根本と毛先の色を個別に設定する=Enable Root And Tip Color Adjustment
 アウトラインの色を個別に設定する=Enable Outline Color Adjustment
@@ -808,13 +814,13 @@ RGB=RGB
 髪の色を陰毛の色に合わせる=Copy Pubic Hair Color To Hair Base
 アウトラインの色=Outline Color
 
-; Hair -> Hair Accessory Options
+// Hair -> Hair Accessory Options
 髪飾りの色①=Hair Accessory Color ①
 髪飾りの色②=Hair Accessory Color ②
 髪飾りの色③=Hair Accessory Color ③
 髪飾りの色を初期に戻す=Set Accessory Color To Default
 
-; Hair -> Back Hair
+// Hair -> Back Hair
 後ろ髪の種類=Back Hair Type
 後ろ髪の基本の色=Back Hair Base Color
 後ろ髪の根本の色=Back Hair Root Color
@@ -822,7 +828,7 @@ RGB=RGB
 後ろ髪のアウトラインの色=Back Hair Outline Color
 後ろ髪の装飾の色０１=Back Hair Accessory 01 Color
 
-; Hair -> Back Hair -> Hair Types
+// Hair -> Back Hair -> Hair Types
 ロングヘア=Long Hair
 ロングサイドテール(左)=Long Side Tail (L)
 ロングサイドテール(右)=Long Side Tail (R)
@@ -830,7 +836,7 @@ RGB=RGB
 リボンなしロングサイド(右)=Long Side Tail Without Ribbon (R)
 ボブヘア=Bobbed Hair
 お嬢様ロング=Long Ojousama Braid
-ツインテール=Long Twintails
+ツインテール=Twintails
 アップツイン=High Twintails
 ショート=Short
 カールボブ=Curled Bob
@@ -851,18 +857,18 @@ RGB=RGB
 ツーサイドアップ=Twin Side-Ups
 ストレートミディアム=Straight Medium
 セミロング=Semi-Long
-; Character Design Addon Pack Vol. 1 (add06)
+// Character Design Addon Pack Vol. 1 (add06)
 ボリュームポニーテール=Thick Ponytail
 外はねショート=Short, Swept Out
-; Character Design Addon Pack Vol. 2 (add08)
+// Character Design Addon Pack Vol. 2 (add08)
 ぱっつんロング=Straight-Cut, Long
-; Character Design Addon Pack Vol. 3 (add09)
+// Character Design Addon Pack Vol. 3 (add09)
 三つ編みお団子=Braided Bun
-; Character Design Addon Pack Vol. 4 (add10)
+// Character Design Addon Pack Vol. 4 (add10)
 ゆるふわボブ=Loose Fluffy Bob
 くせっ毛ショート=Short, Curled
-;Wavy Long
-; Patch 0501/0502 (add11)
+//Wavy Long
+// Patch 0501/0502 (add11)
 ふわポニー=Fluffy Ponytail
 お団子シングル=Single Bun
 ふわポニーロング=Fluffy Long Ponytail
@@ -874,8 +880,19 @@ RGB=RGB
 ツインカール=Curled Twintails
 ふわツインウェーブ=Fluffy Wavy Twintails
 ツインロール=Twin Drills
+// Patch 0629 (add12)
+ツイン三つ編み=Twin Braids
+ミディアムダウン=Medium Down
+ツインロングおさげ=Long Twintails
+ハーフアップ=Half-Up
+// Patch 0727 (add13/14)
+三つ編み横おさげ(左)=Horizontal Braid (Left)
+三つ編み横おさげ(右)=Horizontal Braid (Right)
+ぱっつんボブ=Straight-Cut Bang Bob
+カジュアルオールバック=Casual, All Back
+ツーサイドアップショート=Twin Side-Up Short
 
-; Hair -> Front Hair
+// Hair -> Front Hair
 前髪の種類=Front Hair Type
 前髪の長さ=Front Hair Length
 前髪の基本の色=Front Hair Base Color
@@ -884,7 +901,7 @@ RGB=RGB
 前髪のアウトラインの色=Front Hair Outline Color
 前髪の装飾の色０１=Front Hair Accessory 01 Color
 
-; Hair -> Front Hair -> Front Hair Types
+// Hair -> Front Hair -> Front Hair Types
 ストレート=Straight
 横はねカール(左)=Swept-Out Curl (L)
 横はねカール(右)=Swept-Out Curl (R)
@@ -921,21 +938,32 @@ M字バングストレート(左)=M-Shaped Straight Bangs (L)
 M字バングストレート(右)=M-Shaped Straight Bangs (R)
 横分けヘア(左)=Sideswept Parted (L)
 横分けヘア(右)=Sideswept Parted (R)
-; Character Design Addon Pack Vol. 1 (add06)
+// Character Design Addon Pack Vol. 1 (add06)
 ハネぱっつん=Straight Bangs, Swept Up
-; Character Design Addon Pack Vol. 2 (add08)
+// Character Design Addon Pack Vol. 2 (add08)
 ぱっつんエアインテーク=Straight-Cut, Air Intake
-; Character Design Addon Pack Vol. 3 (add09)
+// Character Design Addon Pack Vol. 3 (add09)
 ナイトバング=Knight Bangs
-; Character Design Addon Pack Vol. 4 (add10)
+// Character Design Addon Pack Vol. 4 (add10)
 ゆるふわボブ前=Loose Fluffy Bobbed Bangs
 くせっ毛ショート前=Short, Curled Bangs
 中分けぱっつん=Medium Straight-Cut Bangs
-; Patch 0501/0502 (add11)
+// Patch 0501/0502 (add11)
 ウェーブショート=Wavy Short
 アップバング=Upward Swept Bangs
+// Patch 0629 (add12)
+斜めぱっつん(右)=Slanting Straight-Cut Bangs (Right)
+斜めぱっつん(左)=Slanting Straight-Cut Bangs (Left)
+でこジャギー=Jagged Forehead
+ハネミディアム=Medium Bangs, Swept Up
+ふわカール=Fluffy Curled
+// Patch 0727 (add13/14)
+サイドカール=Side Curl
+//Wavy Long
+スパイキー前=Spiky Bangs
+中分けミディアム=Medium, Middle Parted
 
-; Hair -> Side Hair
+// Hair -> Side Hair
 横髪の種類=Side Hair Type
 横髪の基本の色=Side Hair Base Color
 横髪の根本の色=Side Hair Root Color
@@ -943,14 +971,14 @@ M字バングストレート(右)=M-Shaped Straight Bangs (R)
 横髪のアウトラインの色=Side Hair Outline Color
 横髪の装飾の色０１=Side Hair Accessory 01 Color
 
-; Hair -> Side Hair -> Side Hair Types
+// Hair -> Side Hair -> Side Hair Types
 ほそロング=Fine And Long
 おさげ=Twintails
 太い=Thick
 ふとロング=Thick And Long
 はねロング=Feathered Long
 
-; Hair -> Extensions
+// Hair -> Extensions
 エクステの種類=Extension Type
 付け毛の種類=Ahoge Type
 エクステの基本の色=Extension Base Color
@@ -958,7 +986,7 @@ M字バングストレート(右)=M-Shaped Straight Bangs (R)
 エクステの毛先の色=Extension Tip Color
 エクステのアウトラインの色=Extension Outline Color
 
-; Hair -> Extensions -> Extension Types
+// Hair -> Extensions -> Extension Types
 ちょび=Tiny
 くるくる=Curled
 ギザギザ=Jagged
@@ -967,24 +995,24 @@ M字バングストレート(右)=M-Shaped Straight Bangs (R)
 はね毛=Featherlike
 長触覚=Long Ahoge
 
-; Hair -> Miscellaneous
+// Hair -> Miscellaneous
 ツヤの種類=Highlight Type
 
-; Hair -> Miscellaneous -> Highlight Types
+// Hair -> Miscellaneous -> Highlight Types
 髪のツヤ種類=Hair Highlight Type
 線ハイライト=Line Highlight
 丸ハイライト=Circle Highlight
 雷ハイライト=Lightning Bolt Highlight
 帯ハイライト=Band Highlight
 四角ハイライト=Square Highlight
-; Character Design Addon Pack Vol. 1 (add06)
+// Character Design Addon Pack Vol. 1 (add06)
 ぼかし帯ハイライト=Gradient Band Highlight
 ぼかし四角ハイライト=Gradient Square Highlight
 ぼかし線ハイライト=Gradient Line Highlight
 
-;
-; Clothing Menu
-;
+//
+// Clothing Menu
+//
 
 トップス=Top
 ボトムス=Bottom
@@ -996,7 +1024,7 @@ M字バングストレート(右)=M-Shaped Straight Bangs (R)
 靴(内履き)=Indoor Shoes
 靴(外履き)=Outdoor Shoes
 
-; Clothing -> Shared Options
+// Clothing -> Shared Options
 柄の種類=Pattern Type
 胴の種類=Body Type
 襟の種類=Collar Type
@@ -1016,7 +1044,7 @@ M字バングストレート(右)=M-Shaped Straight Bangs (R)
 柄③の大きさ(高さ)=Pattern ③ Height
 柄③の色=Pattern Color ③
 
-; Clothing -> Shared Cloth Patterns
+// Clothing -> Shared Cloth Patterns
 ストライプ=Vertical Stripes
 斜めストライプ=Slanted Stripes
 ボーダー=Horizontal Stripes
@@ -1025,13 +1053,13 @@ M字バングストレート(右)=M-Shaped Straight Bangs (R)
 市松チェック=Checkerboard
 ハーリキンチェック=Harlequin Checkered
 千鳥格子=Hound's Tooth
-;Heart
+//Heart
 水玉=Polka Dots
 花柄=Flowers
 星A=Stars A
 星B=Stars B
 イチゴ=Strawberries
-;Skull
+//Skull
 ヒョウ=Leopard Print
 シマウマ=Zebra Stripes
 麻の葉=Hexagons
@@ -1054,13 +1082,15 @@ M字バングストレート(右)=M-Shaped Straight Bangs (R)
 ギンガムチェック=Gingham Checkered
 変則ストライプ=Irregular Vertical Stripes
 変則ボーダー=Irregular Horizontal Stripes
-;Circle
+//Circle
+// Patch 0727 (add13/14)
+//Hibiscus
 
-; Clothing -> Misc. Options
+// Clothing -> Misc. Options
 オプション①を表示=Show Option ①
 オプション②を表示=Show Option ②
 
-; Clothing -> Top Labels
+// Clothing -> Top Labels
 トップスの色０１=Top 01 Color
 トップス柄の色０１=Top Pattern 01 Color
 トップスの色０２=Top 02 Color
@@ -1070,7 +1100,7 @@ M字バングストレート(右)=M-Shaped Straight Bangs (R)
 トップスの色０４=Top 04 Color
 トップス柄の色０４=Top Pattern 04 Color
 
-; Clothing -> Bottom Labels
+// Clothing -> Bottom Labels
 ボトムスの色０１=Bottom 01 Color
 ボトムス柄の色０１=Bottom Pattern 01 Color
 ボトムスの色０２=Bottom 02 Color
@@ -1078,7 +1108,7 @@ M字バングストレート(右)=M-Shaped Straight Bangs (R)
 ボトムスの色０３=Bottom 03 Color
 ボトムス柄の色０３=Bottom Pattern 03 Color
 
-; Clothing -> Bra Labels
+// Clothing -> Bra Labels
 ブラの色０１=Bra 01 Color
 ブラ柄の色０１=Bra Pattern 01 Color
 ブラの色０２=Bra 02 Color
@@ -1086,7 +1116,7 @@ M字バングストレート(右)=M-Shaped Straight Bangs (R)
 ブラの色０３=Bra 03 Color
 ブラ柄の色０３=Bra Pattern 03 Color
 
-; Clothing -> Underwear Labels
+// Clothing -> Underwear Labels
 ショーツの色０１=Underwear 01 Color
 ショーツ柄の色０１=Underwear Pattern 01 Color
 ショーツの色０２=Underwear 02 Color
@@ -1094,7 +1124,7 @@ M字バングストレート(右)=M-Shaped Straight Bangs (R)
 ショーツの色０３=Underwear 03 Color
 ショーツ柄の色０３=Underwear Pattern 03 Color
 
-; Clothing -> Glove Labels
+// Clothing -> Glove Labels
 手袋の色０１=Glove 01 Color
 手袋柄の色０１=Glove Pattern 01 Color
 手袋の色０２=Glove 02 Color
@@ -1102,7 +1132,7 @@ M字バングストレート(右)=M-Shaped Straight Bangs (R)
 手袋の色０３=Glove 03 Color
 手袋柄の色０３=Glove Pattern 03 Color
 
-; Clothing -> Pantyhose Labels
+// Clothing -> Pantyhose Labels
 パンストの色０１=Pantyhose 01 Color
 パンスト柄の色０１=Pantyhose Pattern 01 Color
 パンストの色０２=Pantyhose 02 Color
@@ -1110,7 +1140,7 @@ M字バングストレート(右)=M-Shaped Straight Bangs (R)
 パンストの色０３=Pantyhose 03 Color
 パンスト柄の色０３=Pantyhose Pattern 03 Color
 
-; Clothing -> Legwear Labels
+// Clothing -> Legwear Labels
 靴下の色０１=Legwear 01 Color
 靴下柄の色０１=Legwear Pattern 01 Color
 靴下の色０２=Legwear 02 Color
@@ -1118,7 +1148,7 @@ M字バングストレート(右)=M-Shaped Straight Bangs (R)
 靴下の色０３=Legwear 03 Color
 靴下柄の色０３=Legwear Pattern 03 Color
 
-; Clothing -> Shoe Labels
+// Clothing -> Shoe Labels
 内履きの色０１=Indoor Shoe 01 Color
 内履き柄の色０１=Indoor Shoe Pattern 01 Color
 内履きの色０２=Indoor Shoe 02 Color
@@ -1132,7 +1162,7 @@ M字バングストレート(右)=M-Shaped Straight Bangs (R)
 外履きの色０３=Outdoor Shoe 03 Color
 外履き柄の色０３=Outdoor Shoe Pattern 03 Color
 
-; Clothing -> Tops
+// Clothing -> Tops
 トップスを初期の状態に戻す=Restore Default Top Settings
 トップスの種類=Top Type
 インナーの種類=Innerwear Type
@@ -1145,7 +1175,7 @@ M字バングストレート(右)=M-Shaped Straight Bangs (R)
 装飾の柄の色=Decoration Pattern Color
 エンブレムの種類=Emblem Type
 
-; Clothing -> Top -> Top Type
+// Clothing -> Top -> Top Type
 セーラータイプ=Sailor Type
 ジャケットタイプ=Jacket Type
 Tシャツ(無地)=T-Shirt (Plain)
@@ -1189,38 +1219,47 @@ Tシャツ無地(男)=Plain T-Shirt (Male)
 裸エプロン=Naked Apron
 ロングワイシャツ=Long Dress Shirt
 ショルダーレスブラウス=Blouse With Shoulder Lace
-; Sofmap Exclusive Preorder Bonus (add01)
+// Sofmap Exclusive Preorder Bonus (add01)
 キュートナース服=Cute Nurse Outfit
-; Magical Girl Preorder Bonus (add02)
+// Magical Girl Preorder Bonus (add02)
 魔法学園制服上着=Magic Academy Uniform Top
-; Early Preorder Bonus (add03)
+// Early Preorder Bonus (add03)
 セクシーランジェリー（上）=Sexy Lingerie (Top)
-; Preorder Bonus (add04)
+// Preorder Bonus (add04)
 軍服=Military Uniform
-; Maid Preorder Bonus (add05)
+// Maid Preorder Bonus (add05)
 メイド服=Maid Top
-; Character Design Addon Pack Vol. 1 (add06)
+// Character Design Addon Pack Vol. 1 (add06)
 鬼神の装束(上)=Demon God's Costume (Top)
-; Character Design Addon Pack Vol. 3 (add09)
+// Character Design Addon Pack Vol. 3 (add09)
 騎士のスーツ=Knight's Armor
-; Character Design Addon Pack Vol. 4 (add10)
+// Character Design Addon Pack Vol. 4 (add10)
 裸サスペンダー=Naked Suspenders
+// Patch 0629 (add12)
+フリルワンピース=Frilly One-Piece Dress
+ワンピース(花柄)=One-Piece Dress (Flower Pattern)
+ワンピース（無地）=One-Piece Dress (Plain)
+// Patch 0727 (add13/14)
+ショートパレオ=Short Pareo
+ショートパレオ（単色）=Short Pareo (Single Color)
+シースルーパレオ=See-Through Pareo
+セクシーパレオ=Sexy Pareo
 
-; Clothing -> Top -> Innerwear Types
+// Clothing -> Top -> Innerwear Types
 ワイシャツ=Dress Shirt
 ワイシャツ襟開け=Dress Shirt (Opened Collar)
 ワイシャツベスト=Vest And Dress Shirt
 ワイシャツパーカー=Parka And Dress Shirt
 肩吊りワイシャツ=Shoulder-Hung Dress Shirt
-;Gym Clothing
-;Camisole
+//Gym Clothing
+//Camisole
 ノースリーブシャツ=Sleeveless Dress Shirt
-; Character Design Addon Pack Vol. 1 (add06)
+// Character Design Addon Pack Vol. 1 (add06)
 巫女内衣=Shrine Maiden's Robe
-; Character Design Addon Pack Vol. 4 (add10)
+// Character Design Addon Pack Vol. 4 (add10)
 チューブトップシャツ=Tube Top
 
-; Clothing -> Top -> Outerwear Types
+// Clothing -> Top -> Outerwear Types
 ブレザーA=Blazer A
 ブレザーA前開き=Blazer A (Opened)
 ブレザーB=Blazer B
@@ -1229,31 +1268,31 @@ Tシャツ無地(男)=Plain T-Shirt (Male)
 ブレザーC前開き=Blazer C (Opened)
 ブレザーC前開き(ライン色固定)=Blazer C (Opened) (Fixed Line Color)
 カーディガン=Cardigan
-;Open Jersey
+//Open Jersey
 学ラン前開き=Gakuran (Opened)
 うさ耳パーカー=Rabbit-Ears Parka
 ポンチョコート=Poncho Coat
 エプロン=Apron
-; Character Design Addon Pack Vol. 1 (add06)
+// Character Design Addon Pack Vol. 1 (add06)
 陣羽織=Battle Surcoat
-; Character Design Addon Pack Vol. 4 (add10)
+// Character Design Addon Pack Vol. 4 (add10)
 サスペンダー=Suspenders
 
-; Clothing -> Top -> Decoration Types
+// Clothing -> Top -> Decoration Types
 リボン=Ribbon
 細リボン=Fine Ribbon
 ネクタイ=Necktie
 ルーズネクタイ短=Loose Necktie (Short)
 ルーズネクタイ長=Loose Necktie (Long)
-; Maid Preorder Bonus (add05)
+// Maid Preorder Bonus (add05)
 メイドスカート=Maid Skirt
-; Character Design Addon Pack Vol. 1 (add06)
+// Character Design Addon Pack Vol. 1 (add06)
 のど輪=Throat Guard
 
-; Clothing -> Top -> Emblem Types
+// Clothing -> Top -> Emblem Types
 赤と青=Red And Blue
-C=Letter C
-H=Letter H
+C=C
+H=H
 年数Ⅰ=Year Ⅰ
 年数Ⅱ=Year Ⅱ
 年数Ⅲ=Year Ⅲ
@@ -1274,20 +1313,20 @@ H=Letter H
 番号01=Number 01
 番号02=Number 02
 番号03=Number 03
-; Character Design Addon Pack Vol. 1 (add06)
+// Character Design Addon Pack Vol. 1 (add06)
 桔梗の紋(白)=Kikyou Crest (White)
 桔梗の紋(黒)=Kikyou Crest (Black)
 三つ巴(白)=Tomoe Triplet (White)
 三つ巴(黒)=Tomoe Triplet (Black)
-; Character Design Addon Pack Vol. 2 (add08)
-;CAUTION
-;DANGER
+// Character Design Addon Pack Vol. 2 (add08)
+//CAUTION
+//DANGER
 
-; Clothing -> Bottom
+// Clothing -> Bottom
 ボトムスを初期の状態に戻す=Restore Default Bottom Settings
 ボトムスの種類=Bottom Type
 
-; Clothing -> Bottom -> Bottom Types
+// Clothing -> Bottom -> Bottom Types
 ブルマ=Bloomers
 ショートジャージ=Short Jersey Shorts
 ハーフジャージ=Long Jersey Shorts
@@ -1319,28 +1358,30 @@ H=Letter H
 キュロットスカート=Culotte Skirt
 ハーフパンツ=Half Pants
 キュートパンツ=Cute Pants
-; Magical Girl Preorder Bonus (add02)
+// Magical Girl Preorder Bonus (add02)
 魔法学園制服スカート=Magic Academy Uniform Skirt
-; Early Preorder Bonus (add03)
+// Early Preorder Bonus (add03)
 セクシーランジェリー（下）=Sexy Lingerie (Bottom)
-; Preorder Bonus (add04)
+// Preorder Bonus (add04)
 軍服タイトスカート=Military Tight Skirt
-; Character Design Addon Pack Vol. 1 (add06)
+// Character Design Addon Pack Vol. 1 (add06)
 巫女スカート=Shrine Maiden Skirt
 鬼神の装束A(下)=Demon God's Costume A (Bottom)
 鬼神の装束B(下)=Demon God's Costume B (Bottom)
-; Character Design Addon Pack Vol. 3 (add09)
+// Character Design Addon Pack Vol. 3 (add09)
 騎士のスカート=Knight's Skirt
+// Patch 0727 (add13/14)
+パレオ=Pareo Skirt
 
-; Clothing -> Bra
+// Clothing -> Bra
 ブラを初期の状態に戻す=Restore Default Bra Settings
 ブラの種類=Bra Type
 
-; Clothing -> Bra Types
+// Clothing -> Bra Types
 リボンブラ=Ribbon Bra
 レーストップブラ=Lace Top Bra
 三角ブラ=Triangle Bra
-ストラップレスブラ=Strap Lace Bra
+ストラップレスブラ=Strapless Bra
 スポーツブラ=Sports Bra
 ハーフトップブラ=Half-Top Bra
 スクール水着=School Swimsuit
@@ -1354,17 +1395,17 @@ H=Letter H
 エンブレムシール(上)=Seashells (Top)
 レオタード=Leotard
 ハイレグレオタード=High-Leg Leotard
-; Character Design Addon Pack Vol. 2 (add08)
+// Character Design Addon Pack Vol. 2 (add08)
 メカスーツ=Mecha Suit
-; Character Design Addon Pack Vol. 4 (add10)
+// Character Design Addon Pack Vol. 4 (add10)
 全身タイツ=Full-Body Tights
 大人ワンピース=Adult One-Piece
 
-; Clothing -> Underwear
+// Clothing -> Underwear
 ショーツを初期の状態に戻す=Restore Default Underwear Settings
 ショーツの種類=Underwear Type
 
-; Clothing -> Underwear -> Underwear Types
+// Clothing -> Underwear -> Underwear Types
 リボンショーツ=Ribbon Panties
 レーストップショーツ=Lace Topped Panties
 ハイレッグショーツ=Hi-Leg Panties
@@ -1372,7 +1413,7 @@ H=Letter H
 スポーツショーツ=Sports Panties
 スタンダードショーツ=Standard Panties
 くまパンツ=Bear Panties
-;Bikini Swimsuit
+//Bikini Swimsuit
 ブーメランパンツ=Boomerang Panties
 ふんどし=Fundoshi
 ファンシーショーツ=Fancy Panties
@@ -1381,39 +1422,39 @@ H=Letter H
 エレガントショーツ=Elegant Panties
 エンブレムシール(下)=Emblem Seal (Lower)
 
-; Clothing -> Gloves
+// Clothing -> Gloves
 手袋を初期の状態に戻す=Restore Default Glove Settings
 手袋の種類=Glove Type
 
-; Clothing -> Glove Types
+// Clothing -> Glove Types
 弓かけ=Archery Glove
 小悪魔手袋=Devil Gloves
 アイドル手袋=Idol Gloves
 指先絆創膏左手=Left Hand Fingertip Bandage
 指先絆創膏右手=Right Hand Fingertip Bandage
-;Gloves
+//Gloves
 長手袋=Long Gloves
-; Magical Girl Preorder Bonus (add02)
+// Magical Girl Preorder Bonus (add02)
 魔法学園制服の袖=Magic Academy Uniform Sleeves
-; Preorder Bonus (add04)
+// Preorder Bonus (add04)
 将校の手袋=Commissioned Officer Gloves
-; Maid Preorder Bonus (add05)
+// Maid Preorder Bonus (add05)
 メイド服の袖=Maid Sleeves
-; Character Design Addon Pack Vol. 1 (add06)
+// Character Design Addon Pack Vol. 1 (add06)
 巫女武者手甲=Shrine Maiden Warrior Bracers
 鬼神の小手=Demon God's Gauntlets
-; Character Design Addon Pack Vol. 2 (add08)
+// Character Design Addon Pack Vol. 2 (add08)
 メカグローブ=Mecha Gloves
-; Character Design Addon Pack Vol. 3 (add09)
+// Character Design Addon Pack Vol. 3 (add09)
 騎士の手袋=Knight's Gloves
-; Character Design Addon Pack Vol. 4 (add10)
+// Character Design Addon Pack Vol. 4 (add10)
 メカハンド=Mecha Hands
 
-; Clothing -> Pantyhose
+// Clothing -> Pantyhose
 パンストを初期の状態に戻す=Restore Default Pantyhose Settings
 パンストの種類=Pantyhose Type
 
-; Clothing -> Pantyhose Types
+// Clothing -> Pantyhose Types
 パンストA=Pantyhose A
 パンストB=Pantyhose B
 厚手パンストA=Thick Pantyhose A
@@ -1423,14 +1464,14 @@ H=Letter H
 ガーターベルト=Garter Belt
 網タイツ=Fishnet Tights
 レギンス=Leggings
-; Preorder Bonus (add04)
+// Preorder Bonus (add04)
 将校のガーターベルト=Commissioned Officer Garter Belt
 
-; Clothing -> Legwear
+// Clothing -> Legwear
 靴下を初期の状態に戻す=Restore Default Legwear Settings
 靴下の種類=Legwear Types
 
-; Clothing -> Legwear Types
+// Clothing -> Legwear Types
 ハイソックス=High Socks
 色分けハイソックス=Colored Cuff High Socks
 ルーズソックス=Loose Socks
@@ -1446,25 +1487,25 @@ H=Letter H
 フリルニーソックス=Frilly Kneesocks
 クルーソックス（折り返し）=Crew Socks (Cuffed)
 レッグウォーマー=Leg Warmers
-; Sofmap Exclusive Preorder Bonus (add01)
+// Sofmap Exclusive Preorder Bonus (add01)
 網ニーソックス=Netted Kneesocks
-; Magical Girl Preorder Bonus (add02)
+// Magical Girl Preorder Bonus (add02)
 魔法のニーソックス=Magical Kneesocks
-; Preorder Bonus (add04)
+// Preorder Bonus (add04)
 将校のブーツ=Commissioned Officer Boots
-; Character Design Addon Pack Vol. 1 (add06)
+// Character Design Addon Pack Vol. 1 (add06)
 巫女ニーソックス=Shrine Maiden Kneesocks
-; Character Design Addon Pack Vol. 2 (add08)
+// Character Design Addon Pack Vol. 2 (add08)
 メカソックス=Mecha Socks
-; Character Design Addon Pack Vol. 3 (add09)
+// Character Design Addon Pack Vol. 3 (add09)
 騎士のソックス=Knight's Socks
 
-; Clothing -> Shoes
+// Clothing -> Shoes
 内履きを初期の状態に戻す=Restore Default Indoor Shoe Settings
 外履きを初期の状態に戻す=Restore Default Outdoor Shoe Settings
 靴の種類=Shoe Type
 
-; Clothing -> Shoe Types
+// Clothing -> Shoe Types
 ローファー=Loafers
 上履き=Uwabaki
 運動靴=Sneakers
@@ -1484,20 +1525,25 @@ H=Letter H
 草履=Zori
 ハイカットスニーカー=High-Cut Sneakers
 ダンスシューズ=Dance Shoes
-; Sofmap Exclusive Preorder Bonus (add01)
+// Sofmap Exclusive Preorder Bonus (add01)
 キュートナースシューズ=Cute Nurse Shoes
-; Magical Girl Preorder Bonus (add02)
+// Magical Girl Preorder Bonus (add02)
 魔法のブーツ=Magical Boots
-; Maid Preorder Bonus (add05)
+// Maid Preorder Bonus (add05)
 ラウンドパンプス=Round Pumps
-; Character Design Addon Pack Vol. 1 (add06)
+// Character Design Addon Pack Vol. 1 (add06)
 鬼神の脛当て=Demon God's Greaves
-; Character Design Addon Pack Vol. 3 (add09)
+// Character Design Addon Pack Vol. 3 (add09)
 騎士のブーツ=Knight's Boots
-; Character Design Addon Pack Vol. 4 (add10)
+// Character Design Addon Pack Vol. 4 (add10)
 メカブーツ=Mecha Boots
+// Patch 0629 (add12)
+ブロッサムサンダル=Blossom Sandals
+コルクサンダル=Cork Sandals
+// Patch 0727 (add13/14)
+シェルサンダル=Shell Sandals
 
-; Clothing -> Copy Menu
+// Clothing -> Copy Menu
 コピー元のコーディネート=Uniform Source
 コピー先のコーディネート=Uniform Destination
 パーツA=Part A
@@ -1506,17 +1552,17 @@ H=Letter H
 全選択=All
 全解除=None
 
-;
-; Accessory Menu
-;
+//
+// Accessory Menu
+//
 
-; Accessory Main Menu Options
+// Accessory Main Menu Options
 タイプや種類変更時に前回の親を引き継ぐ=Use Previous Parent When Changing Accessory Type
 種類変更時に前回の色を引き継ぐ=Use Previous Color When Changing Accessory
 タイプ=Type
 
-; Slot Lists
-; Illusion is extra fucking derpy and cannot into numbers - yes, both sets are needed
+// Slot Lists
+// Illusion is extra fucking derpy and cannot into numbers - yes, both sets are needed
 スロット01=Slot 01
 スロット02=Slot 02
 スロット03=Slot 03
@@ -1548,7 +1594,7 @@ H=Letter H
 スロット20=Slot 20
 入れ替え=Transfer
 
-; Slot Type Labels
+// Slot Type Labels
 髪=Hair
 頭=Head
 顔=Face
@@ -1557,7 +1603,7 @@ H=Letter H
 手=Hands
 股間周り=Crotch
 
-; Slot Menu Dialogue
+// Slot Menu Dialogue
 種類=Type
 親=Parent
 親を初期設定に戻す=Reset To Default Parent
@@ -1581,7 +1627,7 @@ H=Letter H
 　 グループ分けです。=　a whole group of accessories at once.
 　 サブに設定するとH開始時に非表示になります。=　The Sub group will be hidden during H-Scenes.
 
-; Fun Slot Adjustment Shit
+// Fun Slot Adjustment Shit
 スロット01の親を選択=Slot 01 Parent Selection
 スロット01の調整01=Slot 01 Adjustment 01
 スロット01の調整02=Slot 01 Adjustment 02
@@ -1643,7 +1689,7 @@ H=Letter H
 スロット20の調整01=Slot 20 Adjustment 01
 スロット20の調整02=Slot 20 Adjustment 02
 
-; Slot Colors
+// Slot Colors
 スロット01 カラー①=Slot 01 Color ①
 スロット01 カラー②=Slot 01 Color ②
 スロット01 カラー③=Slot 01 Color ③
@@ -1725,7 +1771,7 @@ H=Letter H
 スロット20 カラー③=Slot 20 Color ③
 スロット20 カラー④=Slot 20 Color ④
 
-; Accessory Movement Dialogue
+// Accessory Movement Dialogue
 XYZの文字を左右ドラッグでも調整できます=You can also adjust X/Y/Z by dragging left or right.
 移動量=Movement Amount
 0.1=0.1
@@ -1748,7 +1794,7 @@ XYZの文字を左右ドラッグでも調整できます=You can also adjust X/
 値を貼り付け=Paste Value
 全てリセット=Reset All
 
-; Accessory Parent List
+// Accessory Parent List
 親を選択=Parent Selection
 ---------------------- 髪 ----------------------=---------------------- Hair ----------------------
 ポニー=Ponytail
@@ -1813,7 +1859,7 @@ XYZの文字を左右ドラッグでも調整できます=You can also adjust X/
 女性器=Vagina
 尻穴=Anus
 
-;Accessory Dialogue Box Label List
+//Accessory Dialogue Box Label List
 アクセサリ（髪）の種類=Accessory (Hair) Type
 アクセサリ（頭）の種類=Accessory (Head) Type
 アクセサリ（顔）の種類=Accessory (Face) Type
@@ -1825,7 +1871,7 @@ XYZの文字を左右ドラッグでも調整できます=You can also adjust X/
 アクセサリ（手）の種類=Accessory (Hands) Type
 アクセサリ（股間）の種類=Accessory (Crotch) Type
 
-; Accessories -> Hair
+// Accessories -> Hair
 ヘアピン=Hairpin
 クロスヘアピン=Cross Hairpin
 髪留め=Barette
@@ -1843,13 +1889,16 @@ XYZの文字を左右ドラッグでも調整できます=You can also adjust X/
 ハイビスカス=Hibiscus
 花の髪飾り（揺れ）=Flower Ornament (Moves)
 牡丹の髪飾り=Tree Peony Ornament
-; Character Design Addon Pack Vol. 2 (add08)
+// Character Design Addon Pack Vol. 2 (add08)
 メカヘアー=Mecha Hair
 メカループ=Mecha Loop
 メカウィングリング=Mecha Winged Ring
+// Patch 0727 (add13/14)
+貝殻=Seashell
+ヒトデ=Starfish
 
-; Accessories -> Head
-;Ribbon
+// Accessories -> Head
+//Ribbon
 ヘアバンド=Hairband
 結びヘアバンド=Knotted Hairband
 紐リボン=String Ribbon
@@ -1881,24 +1930,24 @@ XYZの文字を左右ドラッグでも調整できます=You can also adjust X/
 うさぎの着ぐるみ頭=Rabbit Costume Head
 いぬの着ぐるみ頭=Dog Costume Head
 三角巾=Bandanna
-; Sofmap Exclusive Preorder Bonus (add01)
+// Sofmap Exclusive Preorder Bonus (add01)
 キュートナースキャップ=Cute Nurse Cap
-; Magical Girl Preorder Bonus (add02)
+// Magical Girl Preorder Bonus (add02)
 魔法の帽子=Magical Hat
-; Early Preorder Bonus (add03)
+// Early Preorder Bonus (add03)
 猫耳（右）=Cat Ear (Right)
 猫耳（左）=Cat Ear (Left)
 鈴付きリボン=Ribbon and Bell
-; Preorder Bonus (add04)
+// Preorder Bonus (add04)
 将校の帽子=Commissioned Officer Hat
-; Maid Preorder Bonus (add05)
+// Maid Preorder Bonus (add05)
 メイドヘアバンド=Maid Hairband
 メイドカチューシャ=Maid Headband
-; Character Design Addon Pack Vol. 1 (add06)
+// Character Design Addon Pack Vol. 1 (add06)
 羊の角=Sheep Horns
 牛の角=Cow Horns
 一角=Unicorn Horn
-; Character Design Addon Pack Vol. 2 (add08)
+// Character Design Addon Pack Vol. 2 (add08)
 メカレシーバー=Mecha Receiver
 メカ装甲１=Mecha Armor 1
 メカ装甲２=Mecha Armor 2
@@ -1925,17 +1974,19 @@ XYZの文字を左右ドラッグでも調整できます=You can also adjust X/
 メカアンテナ=Mecha Antenna
 メカウイングⅡ=Mecha Wing Ⅱ
 メカバイザーⅡ=Mecha Visor Ⅱ
-; Character Design Addon Pack Vol. 3 (add09)
+// Character Design Addon Pack Vol. 3 (add09)
 ロイヤルクラウン=Royal Crown
 羽の髪飾り左用=Left Hair Feather
 羽の髪飾り右用=Right Hair Feather
 ナイトバイザー=Knight Visor
 鎧兜=Armored Helmet
 毛玉=Furball
-; Character Design Addon Pack Vol. 4 (add10)
+// Character Design Addon Pack Vol. 4 (add10)
 玉飾り=New Year Ornament
+// Patch 0629 (add12)
+つば広帽子=Wide-Brimmed Hat
 
-; Accessories -> Face
+// Accessories -> Face
 スクエア=Square Glasses
 ウェリントン=Wellington Glasses
 スポーツ=Sports Glasses
@@ -1964,14 +2015,16 @@ XYZの文字を左右ドラッグでも調整できます=You can also adjust X/
 トースト=Toast
 ピエロの鼻=Clown Nose
 ガラスの鼻=Glass Nose
-;Third Eye
+//Third Eye
 ワンポイント=Starpoint Earring
 土星=Saturn Earring
-; Character Design Addon Pack Vol. 1 (add06)
+// Character Design Addon Pack Vol. 1 (add06)
 鬼神の額当て（右）=Demon God's Brow Guard (Right)
 鬼神の額当て（左）=Demon God's Brow Guard (Left)
+// Patch 0629 (add12)
+雫=Drop Earring
 
-; Accessories -> Neck
+// Accessories -> Neck
 マフラー=Muffler
 ロングネクタイ=Long Necktie
 リボンチョーカー=Ribbon Choker
@@ -1986,21 +2039,23 @@ XYZの文字を左右ドラッグでも調整できます=You can also adjust X/
 一粒ペンダント=Starpoint Pendant
 星のペンダント=Star Pendant
 土星のペンダント=Saturn Pendant
-; Early Preorder Bonus (add03)
+// Early Preorder Bonus (add03)
 鈴付きチョーカー=Bell Choker
-; Preorder Bonus (add04)
+// Preorder Bonus (add04)
 階級バッジ=Rank Badge
-; Character Design Addon Pack Vol. 1 (add06)
+// Character Design Addon Pack Vol. 1 (add06)
 鈴=Bell
 シデ=Shinto Paper Streamer
 鬼神のリボン=Demon God's Ribbon
 勾玉の首飾り=Magatama Amulet
-; Character Design Addon Pack Vol. 2 (add08)
+// Character Design Addon Pack Vol. 2 (add08)
 メカタイ=Mecha Tie
-; Character Design Addon Pack Vol. 3 (add09)
+// Character Design Addon Pack Vol. 3 (add09)
 ロイヤルリボン=Royal Ribbon
+// Patch 0629 (add12)
+3ポイント=Three-Jewel Necklace
 
-; Accessories -> Torso
+// Accessories -> Torso
 リュックサック=Backpack
 背負いボストン=Boston Bag
 背負いカバン=Leather Backpack
@@ -2017,10 +2072,10 @@ XYZの文字を左右ドラッグでも調整できます=You can also adjust X/
 天使の翼左用=Left Angel Wing
 天使の翼右用=Right Angel Wing
 ギターケース=Guitar Case
-; Character Design Addon Pack Vol. 3 (add09)
+// Character Design Addon Pack Vol. 3 (add09)
 アーマープレート=Armor Plate
 
-; Accessories -> Hips
+// Accessories -> Hips
 腰巻カーディガン=Wrapped Cardigan
 エレガントリボン=Elegant Ribbon
 テールリボン=Tail Ribbon
@@ -2032,37 +2087,37 @@ XYZの文字を左右ドラッグでも調整できます=You can also adjust X/
 キツネ尻尾=Fox Tail
 エレキギター=Electric Guitar
 ベルト=Belt
-; Early Preorder Bonus (add03)
+// Early Preorder Bonus (add03)
 猫尻尾=Cat Tail
-; Preorder Bonus (add04)
+// Preorder Bonus (add04)
 将校のサーベル=Commissioned Officer Sabre
-; Character Design Addon Pack Vol. 1 (add06)
+// Character Design Addon Pack Vol. 1 (add06)
 鞘小太刀=Sheathed Short Sword
 白木拵え納刀=Sheathed Wooden Sword
 白木拵えの鞘=Wooden Sword Sheath
 2連鞘刀=Twin Sheathed Swords
 鬼神の腰当右用=Demon God's Hip Guard (Right)
 鬼神の腰当左用=Demon God's Hip Guard (Left)
-; Character Design Addon Pack Vol. 2 (add08)
+// Character Design Addon Pack Vol. 2 (add08)
 メカアンプ=Mecha Amplifier
-; Character Design Addon Pack Vol. 3 (add09)
+// Character Design Addon Pack Vol. 3 (add09)
 騎士の腰当右用=Knight's Right Hip Armor
 騎士の腰当左用=Knight's Left Hip Armor
 ロングソードの鞘=Longsword Sheath
 
-; Accessories -> Legs
+// Accessories -> Legs
 チアガーターリボン（左）=Cheerleader Garter Ribbon (Left)
 チアガーターリボン（右）=Cheerleader Garter Ribbon (Right)
 フリルガーターリング（左）=Frilly Garter Ribbon (Left)
 フリルガーターリング（右）=Frilly Garter Ribbon (Right)
-; Sofmap Exclusive Preorder Bonus (add01)
+// Sofmap Exclusive Preorder Bonus (add01)
 注射ガーターリング（左）=Injection Ring Garter (Left)
 注射ガーターリング（右）=Injection Ring Garter (Right)
-; Character Design Addon Pack Vol. 4 (add10)
+// Character Design Addon Pack Vol. 4 (add10)
 メカフット（左）=Mecha Foot (Left)
 メカフット（右）=Mecha Foot (Right)
 
-; Accessories -> Arms
+// Accessories -> Arms
 ナイロンボストンA=Nylon Boston Bag A
 ナイロンボストンB=Nylon Boston Bag B
 シュシュA=Scrunchie A
@@ -2079,28 +2134,30 @@ XYZの文字を左右ドラッグでも調整できます=You can also adjust X/
 拘束バンド右用=Right Restraint
 カフス左用=Left Cuff
 カフス右用=Right Cuff
-; Character Design Addon Pack Vol. 1 (add06)
+// Character Design Addon Pack Vol. 1 (add06)
 くノ一肩当て右用=Kunoichi Shoulderpad (Right)
 くノ一肩当て左用=Kunoichi Shoulderpad (Left)
 巫女袖右用=Shrine Maiden Sleeve (Right)
 巫女袖左用=Shrine Maiden Sleeve (Left)
 鬼神の肩当て=Demon God's Shoulderpad
-; Character Design Addon Pack Vol. 2 (add08)
+// Character Design Addon Pack Vol. 2 (add08)
 メカショルダー=Mecha Shoulder
 メカ装甲５=Mecha Armor 5
 メカ装甲６=Mecha Armor 6
 メカ装甲６×３=Mecha Armor 6x3
 メカシールドⅡ=Mecha Shield Ⅱ
 メカブースターⅡ=Mecha Booster Ⅱ
-; Character Design Addon Pack Vol. 3 (add09)
+// Character Design Addon Pack Vol. 3 (add09)
 タングルショルダー右用=Tangle Shoulder (Right)
 タングルショルダー左用=Tangle Shoulder (Left)
 騎士の肩当て右用=Knight Shoulderpad (Right)
 騎士の肩当て左用=Knight Shoulderpad (Left)
 鎧肩当て右用=Armored Shoulderpad (Right)
 鎧肩当て左用=Armored Shoulderpad (Left)
+// Patch 0629 (add12)
+オーバル腕時計=Oval Wristwatch
 
-; Accessories -> Hands
+// Accessories -> Hands
 革カバン=Leather Bag
 指示棒=Guide Rod
 出席名簿=Attendance List
@@ -2121,15 +2178,15 @@ XYZの文字を左右ドラッグでも調整できます=You can also adjust X/
 お金持ちの指輪=Diamond Ring
 アナルバイブ=Anal Vibrator
 電気マッサージ器=Vibrating Wand
-; Sofmap Exclusive Preorder Bonus (add01)
+// Sofmap Exclusive Preorder Bonus (add01)
 注射器=Syringe
-; Magical Girl Preorder Bonus (add02)
+// Magical Girl Preorder Bonus (add02)
 魔法のステッキ=Magical Wand
-; Character Design Addon Pack Vol. 1 (add06)
+// Character Design Addon Pack Vol. 1 (add06)
 小太刀=Short Sword
 白木拵え刀=Wooden Sword
 鬼神の金棒=Demon God's Iron Club
-; Character Design Addon Pack Vol. 3 (add09)
+// Character Design Addon Pack Vol. 3 (add09)
 ロングソード=Longsword
 バックラー=Shield
 ルーンソード=Runesword
@@ -2144,18 +2201,18 @@ XYZの文字を左右ドラッグでも調整できます=You can also adjust X/
 魔法の書=Grimoire
 騎士のレイピア=Knight's Rapier
 騎士のレイピア(鞘)=Knight's Rapier (Sheath)
-; Character Design Addon Pack Vol. 4 (add10)
+// Character Design Addon Pack Vol. 4 (add10)
 エンシェントロッド=Ancient Rod
 メカハンド握り右用=Mecha Right Fist
 メカハンド握り左用=Mecha Left Fist
 メカハンド開き右用=Mecha Right Open Hand
 メカハンド開き左用=Mecha Left Open Hand
 
-; Accessories -> Crotch
+// Accessories -> Crotch
 バイブ=Vibrating Dildo
-;Anal Vibrator
+//Anal Vibrator
 
-; Accessories -> Transfer Menu
+// Accessories -> Transfer Menu
 コピー元を選択して下さい=Item Source
 コピー先を選択して下さい=Item Destination
 左右の親を切り替える=Swap Sides When Transfering
@@ -2167,18 +2224,18 @@ XYZの文字を左右ドラッグでも調整できます=You can also adjust X/
 調整②を左右反転コピー=Flip Adjustment ② Hor. On Copy
 調整②を上下反転コピー=Flip Adjustment ② Ver. On Copy
 
-;
-; Profile Menu
-; This will mix both the male and female profiles for now
-; Will comment which is what once Bepis adds inline commenting via the new format
-;
+//
+// Profile Menu
+// This will mix both the male and female profiles for now
+// Will comment which is what once Bepis adds inline commenting via the new format
+//
 
 キャラ=Character
 エッチ=H-Scene
 質問=Nature
 個性=Traits
 
-; Profile -> Character
+// Profile -> Character
 名前=Name
 愛称=Nickname
 性格=Personality
@@ -2192,7 +2249,7 @@ B=B
 O=O
 AB=AB
 
-; Profile -> Character -> Female Personality Types
+// Profile -> Character -> Female Personality Types
 性格を選択=Personality Selection
 セクシー=Sexy
 お嬢様=Ojousama
@@ -2224,17 +2281,19 @@ AB=AB
 意地っ張り=Stubborn
 のじゃっ子=Old-Fashioned
 素直クール=Humble
+// Patch 0727 (add13/14)
+気さく=Friendly
 
-; Profile -> Male Personality Types
-; Less personality types and more setting the male between two sets of opposite elements
+// Profile -> Male Personality Types
+// Less personality types and more setting the male between two sets of opposite elements
 慎重=Cautious
 積極的=Assertive
 マイペース=Own Pace
-勤勉=Busybody
+勤勉=Diligent
 クール=Quiet
-優しい=Friendly
+優しい=Amiable
 
-; Profile -> Character -> Club Types
+// Profile -> Character -> Club Types
 帰宅部=Going Home Club
 水泳部=Swimming Club
 漫研部=Manga Club
@@ -2242,15 +2301,15 @@ AB=AB
 茶道部=Tea Ceremony Club
 陸上部=Track & Field Club
 
-; Profile -> Character -> Name Box
+// Profile -> Character -> Name Box
 名前を入力して下さい=Please Enter A Name
 姓=L
 名=F
 
-; Profile -> Character -> Nickname Box
+// Profile -> Character -> Nickname Box
 愛称を入力して下さい=Please Enter A Nickname
 
-; Profile -> H-Scene
+// Profile -> H-Scene
 性感帯=Erogenous Zone
 キスを拒否しない？=Won't Refuse Kisses?
 激しい愛撫を拒否しない？=Won't Refuse Groping?
@@ -2258,16 +2317,16 @@ AB=AB
 電マを拒否しない？=Won't Refuse Vibrating Toys?
 ゴム付けなくてもOK？=Sex Without Condoms Is Okay?
 
-; Profile -> H-Scene -> Erogenous Zone Types
-;None
+// Profile -> H-Scene -> Erogenous Zone Types
+//None
 唇=Lips
-;Chest
+//Chest
 股間=Crotch
 アナル=Anus
 尻=Butt
 乳首=Nipples
 
-; Profile -> Nature
+// Profile -> Nature
 動物は好き？=Likes Animals?
 食べるのは好き？=Likes To Eat?
 料理するのは好き？=Likes To Cook?
@@ -2278,7 +2337,7 @@ AB=AB
 からいのは平気？=Okay With Spicy Food?
 甘いのは好き？=Likes Sweets?
 
-; Profile -> Traits
+// Profile -> Traits
 頻尿=Pees Often
 チョロイ=Simple
 読書好き=Likes Reading
@@ -2296,48 +2355,48 @@ AB=AB
 活発=Lively
 綺麗好き=Likes Cleanliness
 一人好き=Likes Being Alone
-; Character Design Addon Pack Vol. 4 (add10)
+// Character Design Addon Pack Vol. 4 (add10)
 女の子好き=Likes Girls
 
-;
-; File Menu
-;
+//
+// File Menu
+//
 
 キャラ読込み=Load Character
 キャラ保存と削除=Save/Delete Character
 服読込み=Load Clothing
 服の保存と削除=Save/Delete Clothing
-; This label gets applied over the one below it if F10 refreshed
+// This label gets applied over the one below it if F10 refreshed
 コンフィグ=Configuration
 表現方法=Lighting Settings
 
-; File Menu -> Load Character
+// File Menu -> Load Character
 キャラ一覧=Character List
 部活と性格=Club/Pers.
-;Name
+//Name
 日付=Date
-;Club Activities
-;Personality
+//Club Activities
+//Personality
 ※ 読込みたい情報にチェックを入れてください=※ Please Check What Aspects Of The Character To Load
-;Face
+//Face
 体=Body
-;Hair
+//Hair
 キャラ情報=Character Information
 コーディネートセット=Clothing Sets
 読込み=Load
 
-; File Menu -> Save/Delete Character
+// File Menu -> Save/Delete Character
 削除=Delete
 新規保存=Save New
 上書き保存=Save
 
-; File Menu -> Save/Delete Character -> Replace Image
+// File Menu -> Save/Delete Character -> Replace Image
 キャラ画像を変更しますか？=Change This Character's Picture?
 変更して保存=New Image
 変更せず保存=Keep Image
 保存をやめる=Don't Save
 
-; File Menu -> Save Character -> Take Picture
+// File Menu -> Save Character -> Take Picture
 No Image=No Image
 学生証画像=Student Card Picture
 カード画像=Character Card Picture
@@ -2349,15 +2408,15 @@ No Image=No Image
 保存=Save
 戻る=Cancel
 
-; File Menu -> Load Clothing
+// File Menu -> Load Clothing
 コーディネート一覧=Clothing Sets List
 服=Clothes
 アクセサリ=Accessories
 
-; File Menu -> Save Clothing -> Dialogue Box
+// File Menu -> Save Clothing -> Dialogue Box
 コーディネート名を入力して下さい=Please Enter A Name For The Clothing Set
 
-; File Menu -> Lighting Options
+// File Menu -> Lighting Options
 表現方法=Light Settings
 ※ キャラクターごとの設定ではなく、ゲーム全体の設定=※ These settings are not set per-character,
 　 となります。=　 instead they affect the entire game.
@@ -2366,7 +2425,7 @@ No Image=No Image
 アウトラインの濃さ=Outline Density
 アウトラインの幅=Outline Thickness
 
-; File Menu -> Lighting Options -> Shadow Types
+// File Menu -> Lighting Options -> Shadow Types
 浅いなめらか影=Slight, Smooth Shadows
 浅いくっきり影=Slight, Sharp Shadows
 深いなめらか影=Deep, Smooth Shadows
@@ -2375,7 +2434,7 @@ No Image=No Image
 完全なめらか影=Perfect, Smooth Shadows
 影なし=No Shadows
 
-; Miscellaneous Messages
+// Miscellaneous Messages
 スペースキーで戻ります=Spacebar To Return
 本当に削除しますか？=Really Delete This?
 本当に上書きしますか？=Really Overwrite This?
@@ -2383,7 +2442,7 @@ No Image=No Image
 キャラ編集を終了しますか？=Quit Editing This Character?
 ゲームを終了しますか？=Quit The Game?
 
-; Maker called from Class Edit Menu
+// Maker called from Class Edit Menu
 学生証画像の撮影=Take Student ID Image
 編集前に戻す=Revert Edits
 キャラを編集前に戻しますか？=Revert This Character?
