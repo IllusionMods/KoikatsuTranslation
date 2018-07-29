@@ -1400,6 +1400,10 @@ H=H
 // Character Design Addon Pack Vol. 4 (add10)
 全身タイツ=Full-Body Tights
 大人ワンピース=Adult One-Piece
+// Additional Personalities DLC (add15/16/17/18)
+ラインタンガ=Line Tanga
+マイクロモノキニ=Micro Monokini
+クロスホルター=Cross Halter
 
 // Clothing -> Underwear
 ショーツを初期の状態に戻す=Restore Default Underwear Settings
@@ -2283,6 +2287,10 @@ AB=AB
 素直クール=Humble
 // Patch 0727 (add13/14)
 気さく=Friendly
+// Additional Personalities DLC (add15/16/17/18)
+勝ち気=Willful
+誠実=Honest
+艶やか=Glamorous
 
 // Profile -> Male Personality Types
 // Less personality types and more setting the male between two sets of opposite elements
