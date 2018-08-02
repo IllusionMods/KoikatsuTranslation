@@ -921,7 +921,7 @@ FKアイテム=FK Items
 クワガタ=Stag Beetle
 虫かご(小)=Insect Cage (Small)
 虫かご(大)=Insect Cage (Large)
-//Swimsuit
+水着=Swimsuit
 
 //
 // Add -> Items -> Character
@@ -1049,8 +1049,7 @@ FKアイテム=FK Items
 // Add -> Items -> Character -> Neck
 マフラー=Muffler
 小悪魔チョーカー=Devil Choker
-// Damn it Illusion
-蝶ネクタイ =Bow Tie
+蝶ネクタイ=Bow Tie
 首枷=Metal Collar
 ハートのペンダント=Heart Pendant
 首掛けメガホン=Hanging Megaphone
@@ -1065,10 +1064,8 @@ FKアイテム=FK Items
 // Character Design Addon Pack Vol. 1 (add06)
 鈴=Bell
 シデ=Shinto Paper Streamer
-// Damn it Illusion
-鬼神のリボン =Demon God's Ribbon
-// Damn it Illusion
-勾玉の首飾り =Magatama Amulet
+鬼神のリボン=Demon God's Ribbon
+勾玉の首飾り=Magatama Amulet
 
 // Add -> Items -> Character -> Torso
 リュックサック=Backpack
@@ -1195,19 +1192,19 @@ FKアイテム=FK Items
 
 // Add -> Items -> Character -> Summer
 ウクレレ=Ukelele
-扇子(開)=
-扇子(閉)=
-虫取りあみ=
-水風船(無地)=
-水風船(柄)=
-プラバケツ=
-スコップ=
-くまで=
-サーフボード=
-//Crab
-//Seashell
-//Starfish
-水鉄砲=
+扇子(開)=Folding Fan (Open)
+扇子(閉)=Folding Fan (Closed)
+虫取りあみ=Bug-Catching Net
+水風船(無地)=Water Balloon (Plain)
+水風船(柄)=Water Balloon (Patterned)
+プラバケツ=Plastic Bucket
+スコップ=Scoop
+くまで=Rake
+サーフボード=Surfboard
+カニ=Crab
+貝殻=Seashell
+ヒトデ=Starfish
+水鉄砲=Water Gun
 
 
 //
@@ -1606,7 +1603,7 @@ FKアナルビーズ3=FK Anal Beads 3
 屋上=Rooftop
 プール=Pool
 食堂=Cafeteria
-シャワールーム=Showers
+シャワールーム=Shower Room
 ロッカールーム=Locker Room
 裏庭=Rear Garden
 ライブステージ=Live Concert Stage
