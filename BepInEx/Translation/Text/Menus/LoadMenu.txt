@@ -1,0 +1,5 @@
+#set EXE Koikatu
+//#set level 10
+
+ロードデータを選択して下さい=Please Pick Data To Load
+ロードしますか？=Load This Game?

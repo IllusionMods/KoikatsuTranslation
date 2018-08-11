@@ -1,0 +1,45 @@
+#set EXE Koikatu
+//#set level 22
+
+//
+// Extra -> Free-H Menu
+//
+
+女キャラ選択=Girl Selection
+
+// Character Information
+・性格=Personality
+・性感帯=Ero. Zone
+・キスを拒否しない？=Kisses Okay?
+・激しい愛撫を拒否しない？=Groping Okay?
+・電マを拒否しない？=Toys Okay?
+・アナルを拒否しない？=Anal Okay?
+・ゴム付けなくてもOK？=Condomless Okay?
+
+// H Settings
+H段階=H-Level
+初めて=1st Time
+不慣れ=Inexp.
+慣れ=Exp.
+淫乱=Horny
+状態=Safety
+安全日=Safe Day
+危険日=Risky Day
+
+男キャラ選択=Boy Selection
+
+マップ選択=Map Selection
+
+//Time Settings
+時間帯=Time Of Day
+昼=Midday
+夕方=Evening
+夜=Night
+
+// Masturbation Mode Only
+発見=Discovery
+されてない=Not Found
+されてる=Found
+
+// Lesbian Mode Only
+相手キャラ選択=Partner Selection
