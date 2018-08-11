@@ -1,0 +1,78 @@
+#set EXE Koikatu
+#set level 13
+
+//
+// Classroom Edit Menu
+//
+
+// Top Right Menu
+ランダムキャラの検索方法=Random Character Source
+ネットワークから=Online
+キャラフォルダから=Character Folder
+情報確認=Show Info
+// These both need label overrides... badly. Abbreviating is okay I guess, but bleh.
+愛称=Nick.
+性格=Pers.
+最大登校人数=Max. Students
+
+// Default School Names, etc.
+コイカツ女学園 学園長=Koikatsu Girls' Academy, Headmistress
+学園長=Headmistress
+
+// Amount of Attending Students
+0人=0
+1人=1
+2人=2
+3人=3
+4人=4
+5人=5
+6人=6
+7人=7
+8人=8
+9人=9
+10人=10
+11人=11
+12人=12
+13人=13
+14人=14
+15人=15
+16人=16
+17人=17
+18人=18
+19人=19
+20人=20
+21人=21
+22人=22
+23人=23
+24人=24
+25人=25
+26人=26
+27人=27
+28人=28
+29人=29
+30人=30
+31人=31
+32人=32
+33人=33
+34人=34
+35人=35
+36人=36
+37人=37
+38人=38
+
+// Right Side Buttons
+転入=Register
+転校=Transfer
+//Random
+//Nickname
+キャラ編集=Edit Char.
+空席全ランダム=Fill Empty
+全て空席にする=Empty All
+転校させますか？=Transfer to a different school?
+全キャラを転校させますか？=Transfer all to a different school?
+
+// Seats
+この席には既に女の子が座っています=A girl already sits in this seat.
+
+// Character Selection
+キャラ一覧=Character List

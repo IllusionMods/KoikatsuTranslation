@@ -1,0 +1,18 @@
+#set EXE Koikatu
+//#set level 14
+
+//
+// Start Scenario Menu
+//
+
+プレイヤーを選択して下さい=Please Select a Player Character
+エンブレムを選択して下さい=Please Select an Emblem
+学園名を入力して下さい=Please Enter the School's Name
+コイカツ女学園=Koikatsu Girls' Academy
+
+// Miscellaneous Card Stuff
+Ｏ型=Type O
+Ａ型=Type A
+Ｂ型=Type B
+ＡＢ型=Type AB
+コイカツ部=Koikatsu Club

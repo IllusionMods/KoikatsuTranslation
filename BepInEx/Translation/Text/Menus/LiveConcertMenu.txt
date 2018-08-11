@@ -1,0 +1,29 @@
+#set EXE Koikatu
+//#set level 24
+
+//
+// Extra -> Live Mode
+//
+
+// Buttons At Start
+キャラ選択=Character Select
+ファイル選択=Load File
+アイドルに戻す=Default Idol
+//Clothing Menu
+学生服(校内)=In School
+学生服(下校)=Going Home
+//Gym Uniform
+//Swimsuit
+//Club Activities
+//Casual Clothes
+//Sleeping Over
+//Pick File
+アイドル服=Idol Outfit
+//Miscellaneous
+//Uwabaki
+下履き=Outdoor Shoes
+マイク=Microphone
+
+// Label Stuff
+キャラ一覧=Select A Character
+服の読み込み=Load An Outfit
