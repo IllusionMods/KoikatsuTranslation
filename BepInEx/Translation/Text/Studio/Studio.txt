@@ -115,6 +115,10 @@
 素直クール=Humble
 //Patch 0727
 気さく=Friendly
+//DLC, also includes Friendly above
+勝ち気=Willful
+誠実=Honest
+艶やか=Glamorous
 
 //
 // Add Menu
