@@ -1,0 +1,17 @@
+#set EXE Koikatu
+//#set level 8,29
+//Level 8 = Main Menu, 29 = Ranking sign-up menu, 3= some kind of transition/reg with server?
+//Level 30 is the ranking menu, but it won't work without a modded DB due to Illusion IP checks
+
+//
+// Ranking
+//
+
+// Main Menu Button
+ランキングに参加=Get Ranked
+ランキング=Ranking
+
+// Ranking Nickname Select
+ハンドルネームを入力して下さい=Please Enter A Nickname.
+※ ランキングに参加するにはハンドルネームの登録が必要です=※ A Nickname is required to participate in Ranking.
+ハンドルネーム=Nickname
