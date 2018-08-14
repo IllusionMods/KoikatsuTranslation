@@ -162,7 +162,7 @@ Ctrlキーをしゃがみに設定=Ctrl Key To Crouch
 注視点位置=Crosshair Location
 
 // Extras
-初回H緩和=Always Virgins
+初回H緩和=Virgins Don't Need Foreplay
 イキそうボタン表示(※1)=Show Orgasm Button (※1)
 H経験値 n倍=H-Experience Multiplier
 ADVイベントを省略しない(※2)=Don't Skip ADV Events (※2)
