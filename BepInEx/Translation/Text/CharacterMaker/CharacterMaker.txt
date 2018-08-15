@@ -1,4 +1,5 @@
 ﻿#set exe Koikatu
+//#set level 2
 
 //
 // "Universal" Text
@@ -2273,7 +2274,7 @@ AB=AB
 野生的=Wild
 意識高いクール=Wannabe
 ひねくれ=Reluctant
-不幸少女=Pessimist
+不幸少女=Jinxed
 文学少女=Bookish
 モジモジ=Timid
 正統派ヒロイン=Typical Schoolgirl
@@ -2299,7 +2300,7 @@ AB=AB
 マイペース=Own Pace
 勤勉=Diligent
 クール=Quiet
-優しい=Amiable
+優しい=Affectionate
 
 // Profile -> Character -> Club Types
 帰宅部=Going Home Club
@@ -2414,7 +2415,7 @@ No Image=No Image
 　 しないと保存できません。=　 both a student card and character card picture.
 撮影=Take Picture
 保存=Save
-戻る=Cancel
+戻る=Back
 
 // File Menu -> Load Clothing
 コーディネート一覧=Clothing Sets List

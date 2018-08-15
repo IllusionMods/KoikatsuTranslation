@@ -101,7 +101,7 @@
 野性的=Wild
 意識高いクール=Wannabe
 ひねくれ=Reluctant
-不幸少女=Pessimist
+不幸少女=Jinxed
 文学少女=Bookish
 モジモジ=Timid
 正統派ヒロイン=Typical Schoolgirl
