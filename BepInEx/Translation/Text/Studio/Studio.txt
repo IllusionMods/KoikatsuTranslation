@@ -113,10 +113,11 @@
 意地っ張り=Stubborn
 のじゃっ子=Old-Fashioned
 素直クール=Humble
-//Patch 0727
+// Patch 0727
 気さく=Friendly
-//DLC, also includes Friendly above
-勝ち気=Willful
+// Personality DLC, also includes Friendly above
+// Illusion just HAS to be different here compared to the main game!
+勝気=Willful
 誠実=Honest
 艶やか=Glamorous
 
@@ -1209,7 +1210,11 @@ FKアイテム=FK Items
 貝殻=Seashell
 ヒトデ=Starfish
 水鉄砲=Water Gun
-
+//Patch 0831 (studio11)
+サイドドレープ=Side Drapes
+浮き輪=Swimming Ring
+浮き輪(ドーナツ)=Swimming Ring (Donut)
+浮き輪(猫)=Swimming Ring (Cat)
 
 //
 // Add -> Items -> H-Items
@@ -2727,6 +2732,10 @@ Hシーン(覗き)=H-Scene (Peeping)
 ラインの幅=Line Width
 ポイントの上限=Show Endpoint
 あり=Show
+// Patch 0831?
+起動時シーンロード画面を開く=Open Scene Load Screen At Startup
+開く=Open
+開かない=Don't Open
 
 // System Menu -> Logo
 // Trivia: For awhile, this was the only part of the Studio an early version of the DynamicTranslation plugin could ever touch.

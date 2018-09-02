@@ -1401,6 +1401,8 @@ H=H
 // Character Design Addon Pack Vol. 4 (add10)
 全身タイツ=Full-Body Tights
 大人ワンピース=Adult One-Piece
+// Patch 0831 (add100)
+ビキニ水着(フリル付き)=Bikini Swimsuit (With Frills)
 // Additional Personalities DLC (add15/16/17/18)
 ラインタンガ=Line Tanga
 マイクロモノキニ=Micro Monokini
@@ -1426,6 +1428,8 @@ H=H
 オープンレースショーツ=Open Lace Panties
 エレガントショーツ=Elegant Panties
 エンブレムシール(下)=Emblem Seal (Lower)
+// Patch 0831 (add100)
+ビキニ水着(フリル付き)=Bikini Swimsuit (With Frills)
 
 // Clothing -> Gloves
 手袋を初期の状態に戻す=Restore Default Glove Settings
@@ -2109,6 +2113,11 @@ XYZの文字を左右ドラッグでも調整できます=You can also adjust X/
 騎士の腰当右用=Knight's Right Hip Armor
 騎士の腰当左用=Knight's Left Hip Armor
 ロングソードの鞘=Longsword Sheath
+// Patch 0831 (add100)
+浮き輪=Swimming Ring
+浮き輪(ドーナツ)=Swimming Ring (Donut)
+浮き輪(猫)=Swimming Ring (Cat)
+サイドドレープ=Side Drapes
 
 // Accessories -> Legs
 チアガーターリボン（左）=Cheerleader Garter Ribbon (Left)
