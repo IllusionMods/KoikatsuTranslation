@@ -118,6 +118,8 @@
 // Personality DLC, also includes Friendly above
 // Illusion just HAS to be different here compared to the main game!
 勝気=Willful
+// And then Illusion has to double-derp by using both versions!
+勝ち気=Willful
 誠実=Honest
 艶やか=Glamorous
 
