@@ -1,5 +1,5 @@
 #set EXE Koikatu
-//#set level 21
+#set level 21
 
 //
 // Events Menu
@@ -64,7 +64,7 @@
 一人部長は大変なのです=The Serious One-Woman Club Leader
 今日も勧誘なのです=Today's Also Invitation Day
 魅惑の円盤なのです=The Attraction Disc
-宇宙Ｎｏ．１小悪魔なのです=The No. 1 Imp In The Universe
+宇宙Ｎｏ．１小悪魔なのです=The #1 Imp In The Universe
 本当のわたし……なのです=The Real Me......
 それでもコスプレが好きなのです=I Still Like To Cosplay
 自分を分析！　なのです=Self-Analysis!
@@ -79,7 +79,7 @@
 再びチア部へ=A Second Visit To Cheerleading Club
 桜の憧れ=Sakura's Dreams
 体育祭へ向けて=Going To The Sports Festival
-//Angry
+怒り=Angry
 胸の内=Inside My Chest
 休日デート=Holiday Date
 勇気の告白=A Bold Confession
@@ -104,7 +104,7 @@
 容姿の変更=Change Appearance
 
 // Character Select Menu
-キャラクター選択=Select A Character
+//Select A Character
 
 // Reset Confirmation
 容姿を初期化しますか？=Reset To Default Appearance?
