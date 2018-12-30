@@ -1,5 +1,5 @@
 ﻿#set exe Koikatu
-//#set level 2
+#set level 2
 
 //
 // "Universal" Text
@@ -52,12 +52,9 @@
 三角=Triangle
 
 // Used for both Facepaint as well as Body Paint
-ペイント０１の種類=Paint 01 Type
-ペイント０１の色=Paint 01 Color
-ペイント０１回転=Paint 01 Rotation
-ペイント０２の種類=Paint 02 Type
-ペイント０２の色=Paint 02 Color
-ペイント０２回転=Paint 02 Rotation
+r:"^ペイント(０[０-９])の種類$"=r:"Paint $1 Type"
+r:"^ペイント(０[０-９])の色$"=r:"Paint $1 Color"
+r:"^ペイント(０[０-９])回転$"=r:"Paint $1 Rotation"
 
 // Makeup Types (Both for Body and Face)
 ハート=Heart
@@ -90,10 +87,7 @@
 CAUTION=CAUTION
 DANGER=DANGER
 WARNING=WARNING
-００=00
-０１=01
-０２=02
-０３=03
+r:"^([０-９][０-９])+$"=r:"$1" // For the four numerical makeups. Also prevents Accessory slots from fucking up later.
 
 // All Sliders Notice
 ※ 各項目の変形に関するものをまとめたものとなります。=※ You can adjust all option sliders at once in this list.
@@ -109,90 +103,8 @@ NO=No
 // Used in a few different spots
 ランダム=Random
 
-// Generic dialogue box confirmations
-はい=Yes
-いいえ=No
-
 // Type List Slots
-タイプ１=Type 1
-タイプ２=Type 2
-// Good job Illusion fucking this one up - Lip Type needs it
-タイプ2=Type 2
-タイプ３=Type 3
-タイプ４=Type 4
-タイプ５=Type 5
-タイプ６=Type 6
-タイプ７=Type 7
-タイプ８=Type 8
-タイプ９=Type 9
-タイプ１０=Type 10
-タイプ１１=Type 11
-タイプ１２=Type 12
-タイプ１３=Type 13
-タイプ１４=Type 14
-タイプ１５=Type 15
-タイプ１６=Type 16
-タイプ１７=Type 17
-タイプ１８=Type 18
-タイプ１９=Type 19
-タイプ２０=Type 20
-タイプ２１=Type 21
-タイプ２２=Type 22
-タイプ２３=Type 23
-タイプ２４=Type 24
-タイプ２５=Type 25
-タイプ２６=Type 26
-タイプ２７=Type 27
-タイプ２８=Type 28
-タイプ２９=Type 29
-タイプ３０=Type 30
-タイプ３１=Type 31
-タイプ３２=Type 32
-タイプ３３=Type 33
-タイプ３４=Type 34
-タイプ３５=Type 35
-タイプ３６=Type 36
-タイプ３７=Type 37
-タイプ３８=Type 38
-タイプ３９=Type 39
-タイプ４０=Type 40
-タイプ４１=Type 41
-タイプ４２=Type 42
-タイプ４３=Type 43
-タイプ４４=Type 44
-タイプ４５=Type 45
-タイプ４６=Type 46
-タイプ４７=Type 47
-タイプ４８=Type 48
-タイプ４９=Type 49
-タイプ５０=Type 50
-タイプ５１=Type 51
-タイプ５２=Type 52
-タイプ５３=Type 53
-タイプ５４=Type 54
-タイプ５５=Type 55
-タイプ５６=Type 56
-タイプ５７=Type 57
-タイプ５８=Type 58
-タイプ５９=Type 59
-タイプ６０=Type 60
-タイプ６１=Type 61
-タイプ６２=Type 62
-タイプ６３=Type 63
-タイプ６４=Type 64
-タイプ６５=Type 65
-タイプ６６=Type 66
-タイプ６７=Type 67
-タイプ６８=Type 68
-タイプ６９=Type 69
-タイプ７０=Type 70
-タイプ７１=Type 71
-タイプ７２=Type 72
-タイプ７３=Type 73
-タイプ７４=Type 74
-タイプ７５=Type 75
-タイプ７６=Type 76
-タイプ７７=Type 77
+r:"^タイプ([０-９0-9]+)$"=r:"Type $1" // Behold, the power of RegEx! 78 lines gone in a flash! Fullwidth needed for Lip Type 2, which has a halfwidth label (Illusion bug).
 
 //
 // Clothing Selection Stuff
@@ -201,7 +113,9 @@ NO=No
 コーディネートタイプ=Uniform Type
 学生服（校内）=In School
 学生服（下校）=Going Home
+//Gym Uniform
 水着=Swimsuit
+//Club Activities
 私服=Casual Clothes
 お泊り=Sleeping Over
 
@@ -326,63 +240,12 @@ NO=No
 // Right Sidebar -> Pose Selections
 基本=Basic
 揺れ=Bouncing
-立ち０１=Pose 01
-立ち０２=Pose 02
-立ち０３=Pose 03
-立ち０４=Pose 04
-立ち０５=Pose 05
-立ち０６=Pose 06
-立ち０７=Pose 07
-立ち０８=Pose 08
-立ち０９=Pose 09
-立ち１０=Pose 10
-立ち１１=Pose 11
-立ち１２=Pose 12
-立ち１３=Pose 13
-立ち１４=Pose 14
-立ち１５=Pose 15
-立ち１６=Pose 16
-立ち１７=Pose 17
-立ち１８=Pose 18
-立ち１９=Pose 19
-立ち２０=Pose 20
-立ち２１=Pose 21
-立ち２２=Pose 22
-立ち２３=Pose 23
-立ち２４=Pose 24
-立ち２５=Pose 25
-立ち２６=Pose 26
-立ち２７=Pose 27
-立ち２８=Pose 28
-立ち２９=Pose 29
-立ち３０=Pose 30
-座り１=Sitting 1
-座り２=Sitting 2
-座り３=Sitting 3
-座り４=Sitting 4
-座り５=Sitting 5
-寝１=Laying 1
-寝２=Laying 2
-寝３=Laying 3
-寝４=Laying 4
-寝５=Laying 5
-特殊１=Special 1
-特殊２=Special 2
-特殊３=Special 3
-特殊４=Special 4
-特殊５=Special 5
-Ｈ１=H-Pose 1
-Ｈ２=H-Pose 2
-Ｈ３=H-Pose 3
-Ｈ４=H-Pose 4
-Ｈ５=H-Pose 5
-男立ち１=Male Standing 1
-男立ち２=Male Standing 2
-男立ち３=Male Standing 3
-男立ち４=Male Standing 4
-男立ち５=Male Standing 5
-// When did this get added...?
-立ち３１=Pose 31
+r:"^立ち([０-９][０-９])+$"=r:"Pose $1" // Pose prepends a 0 for its first nine, so can't just do the + RegEx shortcut.
+r:"^座り([０-９])$"=r:"Sitting $1"
+r:"^寝([０-９])$"=r:"Laying $1"
+r:"^特殊([０-９])$"=r:"Special $1"
+r:"^Ｈ([０-９])$"=r:"H-Pose $1"
+r:"^男立ち([０-９])$"=r:"Male Standing $1"
 
 // Right Sidebar -> Light Direction Options
 ライトの向き調整=Light Direction
@@ -441,6 +304,8 @@ RGB=RGB
 口=Mouth
 ホクロ=Mole
 化粧(基本)=Makeup
+// From Patch 12/21 on, this label got changed. Disappointed, thought it was something new...
+化粧=Makeup
 
 // Face -> General
 顔の全体横幅=Face Width
@@ -454,17 +319,15 @@ RGB=RGB
 
 // Face -> General -> Face Overlay Types
 シワ=Wrinkles
-強調１=Emphasis 1
-強調２=Emphasis 2
+r:"^強調([０-９])$"=r:"Emphasis $1"
 境界線=Boundary Lines
 目周りの影=Shadowed Eyes
 
 // Face -> Ears
 耳のサイズ=Ear Size
-耳の角度Y軸=Ear Angle Y Axis
-耳の角度Z軸=Ear Angle Z Axis
-耳の上部形状=Ear Upper Shape
-耳の下部形状=Ear Lower Shape
+r:"^耳の角度([A-Z])軸$"=r:"Ear Angle $1 Axis"
+耳の上部形状=Upper Ear Shape
+耳の下部形状=Lower Ear Shape
 
 // Face -> Jaw
 顎の下部上下=Lower Jaw Vertical Position
@@ -499,12 +362,8 @@ RGB=RGB
 コンフィグ依存=Config Decides
 
 // Face -> Eyes
-上まぶたの形状１=Upper Eyelid Shape 1
-上まぶたの形状２=Upper Eyelid Shape 2
-上まぶたの形状３=Upper Eyelid Shape 3
-下まぶたの形状１=Lower Eyelid Shape 1
-下まぶたの形状２=Lower Eyelid Shape 2
-下まぶたの形状３=Lower Eyelid Shape 3
+r:"^上まぶたの形状([０-９])$"=r:"Upper Eyelid Shape $1"
+r:"^下まぶたの形状([０-９])$"=r:"Lower Eyelid Shape $1"
 目の上下=Eye Vertical Position
 目の横位置=Eye Spacing
 目の前後=Eye Depth
@@ -519,14 +378,12 @@ RGB=RGB
 
 // Face -> Iris
 白目のグラデ種類=Sclera Type
-白目の色①=Sclera Color ①
-白目の色②=Sclera Color ②
+r:"^白目の色([①-⑨])$"=r:"Sclera Color $1"
 ハイライト上の種類=Upper Highlight Type
 ハイライト上の色=Upper Highlight Color
 ハイライト下の種類=Lower Highlight Type
-ハイライトの下色=Lower Highlight Color
-// This'll get fixed at some point, so here's another for when it is.
-//ハイライト下の色=Lower Highlight Color
+ハイライトの下色=Lower Highlight Color // Older Versions
+ハイライト下の色=Lower Highlight Color // Newer Versions
 ハイライト上の上下位置=Upper Highlight Vertical
 ハイライト下の上下位置=Lower Highlight Vertical
 瞳の左右位置=Iris Spacing
@@ -539,8 +396,7 @@ RGB=RGB
 左目=Left Eye
 右目=Right Eye
 瞳の種類=Eye Type
-瞳の色①=Eye Color ①
-瞳の色②=Eye Color ②
+r:"^瞳の色([①-⑨])$"=r:"Eye Color $1"
 瞳のグラデ種類=Eye Gradient Type
 瞳のグラデ合成方法=Eye Gradient Strength
 瞳のグラデ上下調整=Eye Gradient Vertical
@@ -576,8 +432,7 @@ RGB=RGB
 ホクロ位置プリセット=Mole Position Presets
 
 // Face -> Moles -> Mole Types
-そばかす１=Freckles 1
-そばかす２=Freckles 2
+r:"^そばかす([０-９])$"=r:"Freckles $1"
 
 // Face -> Moles -> Mole Position Presets
 ホクロ配置=Mole Position
@@ -598,25 +453,18 @@ RGB=RGB
 リップの種類=Lip Type
 リップの色=Lip Color
 // Facepaint 01 Type is currently BUGGED - Also used for Face Overlay, Illusion needs to fix
-フェイスペイント０１の種類=Facepaint 01 Type
-フェイスペイント０１配置=Facepaint 01 Position
-フェイスペイント０２配置=Facepaint 02 Position
+r:"^フェイスペイント(０[０-９])の種類$"=r:"Facepaint $1 Type"
+r:"^フェイスペイント(０[０-９])配置$"=r:"Facepaint $1 Position"
+r:"^ペイント(０[０-９])左右位置$"=r:"Paint $1 Horizontal"
+r:"^ペイント(０[０-９])上下位置$"=r:"Paint $1 Vertical"
+r:"^ペイント(０[０-９])大きさ$"=r:"Paint $1 Size"
+r:"^ペイント(０[０-９])位置プリセット$"=r:"Paint $1 Position Presets"
 //Paint 01 Type
 //Paint 01 Color
-ペイント０１左右位置=Paint 01 Horizontal
-ペイント０１上下位置=Paint 01 Vertical
 //Paint 01 Rotation
-ペイント０１大きさ=Paint 01 Size
-ペイント０１位置プリセット=Paint 01 Position Presets
-
-フェイスペイント０２の種類=Facepaint 02 Type
 //Paint 02 Type
 //Paint 02 Color
-ペイント０２左右位置=Paint 02 Horizontal
-ペイント０２上下位置=Paint 02 Vertical
 //Paint 02 Rotation
-ペイント０２大きさ=Paint 02 Size
-ペイント０２位置プリセット=Paint 02 Position Presets
 
 // Face -> Paint -> Position Presets
 左頬=Left Side of Face
@@ -756,24 +604,18 @@ RGB=RGB
 // Body -> Body Paint
 //Paint 01 Type
 //Paint 01 Color
-ペイント０１の配置=Paint 01 Location
-ペイント０１左右補正=Paint 01 Horizontal
-ペイント０１上下補正=Paint 01 Vertical
+r:"^ペイント(０[０-９])の配置$"=r:"Paint $1 Position"
+r:"^ペイント(０[０-９])左右補正$"=r:"Paint $1 Horizontal"
+r:"^ペイント(０[０-９])上下補正$"=r:"Paint $1 Vertical"
+r:"^ペイント(０[０-９])サイズ補正$"=r:"Paint $1 Size"
 //Paint 01 Rotation
-ペイント０１サイズ補正=Paint 01 Size
 //Paint 02 Type
 //Paint 02 Color
-ペイント０２の配置=Paint 02 Location
-ペイント０２左右補正=Paint 02 Horizontal
-ペイント０２上下補正=Paint 02 Vertical
 //Paint 02 Rotation
-ペイント０２サイズ補正=Paint 02 Size
 
 // Body -> Body Paint -> Body Paint Misc. Labels
-ボディーペイント０１の配置=Body Paint 01 Position
-ボディーペイント０２の配置=Body Paint 02 Position
-ボディーペイント０１の種類=Body Paint 01 Selection
-ボディーペイント０２の種類=Body Paint 02 Selection
+r:"^ボディーペイント(０[０-９])の配置$"=r:"Body Paint $1 Position"
+r:"^ボディーペイント(０[０-９])の種類$"=r:"Body Paint $1 Selection"
 
 // Body -> Body Paint -> Body Paint Location
 腹・股間=Midriff
@@ -816,9 +658,7 @@ RGB=RGB
 アウトラインの色=Outline Color
 
 // Hair -> Hair Accessory Options
-髪飾りの色①=Hair Accessory Color ①
-髪飾りの色②=Hair Accessory Color ②
-髪飾りの色③=Hair Accessory Color ③
+r:"^髪飾りの色([①-⑨])$"=r:"Hair Accessory Color $1"
 髪飾りの色を初期に戻す=Set Accessory Color To Default
 
 // Hair -> Back Hair
@@ -1029,36 +869,24 @@ M字バングストレート(右)=M-Shaped Straight Bangs (R)
 柄の種類=Pattern Type
 胴の種類=Body Type
 襟の種類=Collar Type
-服の色①=Cloth Color ①
-服の柄①=Cloth Pattern ①
-柄①の大きさ(幅)=Pattern ① Width
-柄①の大きさ(高さ)=Pattern ① Height
-柄①の色=Pattern Color ①
-服の色②=Cloth Color ②
-服の柄②=Cloth Pattern ②
-柄②の大きさ(幅)=Pattern ② Width
-柄②の大きさ(高さ)=Pattern ② Height
-柄②の色=Pattern Color ②
-服の色③=Cloth Color ③
-服の柄③=Cloth Pattern ③
-柄③の大きさ(幅)=Pattern ③ Width
-柄③の大きさ(高さ)=Pattern ③ Height
-柄③の色=Pattern Color ③
+r:"^服の色([①-⑨])$"=r:"Cloth Color $1"
+r:"^服の柄([①-⑨])$"=r:"Cloth Pattern $1"
+r:"^柄([①-⑨])の大きさ\\(幅\\)$"=r:"Pattern $1 Width"
+r:"^柄([①-⑨])の大きさ\\(高さ\\)$"=r:"Pattern $1 Height"
+r:"^柄([①-⑨])の色$"=r:"Pattern Color $1"
 
 // Clothing -> Shared Cloth Patterns
 ストライプ=Vertical Stripes
 斜めストライプ=Slanted Stripes
 ボーダー=Horizontal Stripes
-チェックA=Checkered A
-チェックB=Checkered B
+r:"^チェック([A-Z])$"=r:"Checkered $1"
 市松チェック=Checkerboard
 ハーリキンチェック=Harlequin Checkered
 千鳥格子=Hound's Tooth
 //Heart
 水玉=Polka Dots
 花柄=Flowers
-星A=Stars A
-星B=Stars B
+r:"^星([A-Z])$"=r:"Stars $1"
 イチゴ=Strawberries
 //Skull
 ヒョウ=Leopard Print
@@ -1088,80 +916,41 @@ M字バングストレート(右)=M-Shaped Straight Bangs (R)
 //Hibiscus
 
 // Clothing -> Misc. Options
-オプション①を表示=Show Option ①
-オプション②を表示=Show Option ②
+r:"^オプション([①-⑨])を表示$"=r:"Show Option $1"
 
 // Clothing -> Top Labels
-トップスの色０１=Top 01 Color
-トップス柄の色０１=Top Pattern 01 Color
-トップスの色０２=Top 02 Color
-トップス柄の色０２=Top Pattern 02 Color
-トップスの色０３=Top 03 Color
-トップス柄の色０３=Top Pattern 03 Color
-トップスの色０４=Top 04 Color
-トップス柄の色０４=Top Pattern 04 Color
+r:"^トップスの色(０[０-９])$"=r:"Top $1 Color"
+r:"^トップス柄の色(０[０-９])$"=r:"Top Pattern $1 Color"
 
 // Clothing -> Bottom Labels
-ボトムスの色０１=Bottom 01 Color
-ボトムス柄の色０１=Bottom Pattern 01 Color
-ボトムスの色０２=Bottom 02 Color
-ボトムス柄の色０２=Bottom Pattern 02 Color
-ボトムスの色０３=Bottom 03 Color
-ボトムス柄の色０３=Bottom Pattern 03 Color
+r:"^ボトムスの色(０[０-９])$"=r:"Bottom $1 Color"
+r:"^ボトムス柄の色(０[０-９])$"=r:"Bottom Pattern $1 Color"
 
 // Clothing -> Bra Labels
-ブラの色０１=Bra 01 Color
-ブラ柄の色０１=Bra Pattern 01 Color
-ブラの色０２=Bra 02 Color
-ブラ柄の色０２=Bra Pattern 02 Color
-ブラの色０３=Bra 03 Color
-ブラ柄の色０３=Bra Pattern 03 Color
+r:"^ブラの色(０[０-９])$"=r:"Bra $1 Color"
+r:"^ブラ柄の色(０[０-９])$"=r:"Bra Pattern $1 Color"
 
 // Clothing -> Underwear Labels
-ショーツの色０１=Underwear 01 Color
-ショーツ柄の色０１=Underwear Pattern 01 Color
-ショーツの色０２=Underwear 02 Color
-ショーツ柄の色０２=Underwear Pattern 02 Color
-ショーツの色０３=Underwear 03 Color
-ショーツ柄の色０３=Underwear Pattern 03 Color
+r:"^ショーツの色(０[０-９])$"=r:"Underwear $1 Color"
+r:"^ショーツ柄の色(０[０-９])$"=r:"Underwear Pattern $1 Color"
 
 // Clothing -> Glove Labels
-手袋の色０１=Glove 01 Color
-手袋柄の色０１=Glove Pattern 01 Color
-手袋の色０２=Glove 02 Color
-手袋柄の色０２=Glove Pattern 02 Color
-手袋の色０３=Glove 03 Color
-手袋柄の色０３=Glove Pattern 03 Color
+r:"^手袋の色(０[０-９])$"=r:"Glove $1 Color"
+r:"^手袋柄の色(０[０-９])$"=r:"Glove Pattern $1 Color"
 
 // Clothing -> Pantyhose Labels
-パンストの色０１=Pantyhose 01 Color
-パンスト柄の色０１=Pantyhose Pattern 01 Color
-パンストの色０２=Pantyhose 02 Color
-パンスト柄の色０２=Pantyhose Pattern 02 Color
-パンストの色０３=Pantyhose 03 Color
-パンスト柄の色０３=Pantyhose Pattern 03 Color
+r:"^パンストの色(０[０-９])$"=r:"Pantyhose $1 Color"
+r:"^パンスト柄の色(０[０-９])$"=r:"Pantyhose Pattern $1 Color"
 
 // Clothing -> Legwear Labels
-靴下の色０１=Legwear 01 Color
-靴下柄の色０１=Legwear Pattern 01 Color
-靴下の色０２=Legwear 02 Color
-靴下柄の色０２=Legwear Pattern 02 Color
-靴下の色０３=Legwear 03 Color
-靴下柄の色０３=Legwear Pattern 03 Color
+r:"^靴下の色(０[０-９])$"=r:"Legwear $1 Color"
+r:"^靴下柄の色(０[０-９])$"=r:"Legwear Pattern $1 Color"
 
 // Clothing -> Shoe Labels
-内履きの色０１=Indoor Shoe 01 Color
-内履き柄の色０１=Indoor Shoe Pattern 01 Color
-内履きの色０２=Indoor Shoe 02 Color
-内履き柄の色０２=Indoor Shoe Pattern 02 Color
-内履きの色０３=Indoor Shoe 03 Color
-内履き柄の色０３=Indoor Shoe Pattern 03 Color
-外履きの色０１=Outdoor Shoe 01 Color
-外履き柄の色０１=Outdoor Shoe Pattern 01 Color
-外履きの色０２=Outdoor Shoe 02 Color
-外履き柄の色０２=Outdoor Shoe Pattern 02 Color
-外履きの色０３=Outdoor Shoe 03 Color
-外履き柄の色０３=Outdoor Shoe Pattern 03 Color
+r:"^内履きの色(０[０-９])$"=r:"Indoor Shoe $1 Color"
+r:"^内履き柄の色(０[０-９])$"=r:"Indoor Shoe Pattern $1 Color"
+r:"^外履きの色(０[０-９])$"=r:"Outdoor Shoe $1 Color"
+r:"^外履き柄の色(０[０-９])$"=r:"Outdoor Shoe Pattern $1 Color"
 
 // Clothing -> Tops
 トップスを初期の状態に戻す=Restore Default Top Settings
@@ -1180,8 +969,7 @@ M字バングストレート(右)=M-Shaped Straight Bangs (R)
 セーラータイプ=Sailor Type
 ジャケットタイプ=Jacket Type
 Tシャツ(無地)=T-Shirt (Plain)
-Tシャツ(柄A)=T-Shirt (Design A)
-Tシャツ(柄B)=T-Shirt (Design B)
+r:"^Tシャツ\\(柄([A-Z])\\)$"=r:"T-Shirt (Design $1)"
 ジャージ(フィット)=Jersey (To Waist)
 ジャージ(スカート)=Jersey (Over Skirt)
 ジャージ前開き=Open Jersey
@@ -1238,13 +1026,23 @@ Tシャツ無地(男)=Plain T-Shirt (Male)
 裸サスペンダー=Naked Suspenders
 // Patch 0629 (add12)
 フリルワンピース=Frilly One-Piece Dress
-ワンピース(花柄)=One-Piece Dress (Flower Pattern)
+ワンピース(花柄)=One-Piece Dress (Flower Pattern) // Older Versions
+ワンピース（花柄）=One-Piece Dress (Flower Pattern) // Newer Versions
 ワンピース（無地）=One-Piece Dress (Plain)
 // Patch 0727 (add13/14)
 ショートパレオ=Short Pareo
 ショートパレオ（単色）=Short Pareo (Single Color)
 シースルーパレオ=See-Through Pareo
 セクシーパレオ=Sexy Pareo
+// Patch 1026 (add19)
+ハロウィントップス=Halloween Top
+// Afterschool DLC (add20/25)
+ウェディングドレス=Wedding Dress
+ボリュームネックパーカー=Turtleneck Parka
+パフスリーブトップス=Puffy-Sleeved Top
+タキシード(男)=Tuxedo (Male)
+// Patch 1221 (add24/25/26)
+クリスマストップス=Christmas Top
 
 // Clothing -> Top -> Innerwear Types
 ワイシャツ=Dress Shirt
@@ -1261,10 +1059,8 @@ Tシャツ無地(男)=Plain T-Shirt (Male)
 チューブトップシャツ=Tube Top
 
 // Clothing -> Top -> Outerwear Types
-ブレザーA=Blazer A
+r:"^ブレザー([A-Z])$"=r:"Blazer $1"
 ブレザーA前開き=Blazer A (Opened)
-ブレザーB=Blazer B
-ブレザーC=Blazer C
 ブレザーC(ライン色固定)=Blazer C (Fixed Line Color)
 ブレザーC前開き=Blazer C (Opened)
 ブレザーC前開き(ライン色固定)=Blazer C (Opened) (Fixed Line Color)
@@ -1294,9 +1090,7 @@ Tシャツ無地(男)=Plain T-Shirt (Male)
 赤と青=Red And Blue
 C=C
 H=H
-年数Ⅰ=Year Ⅰ
-年数Ⅱ=Year Ⅱ
-年数Ⅲ=Year Ⅲ
+r:"^年数([Ⅰ-Ⅹ])$"=r:"Year $1"
 北=North
 北2=North 2
 南=South
@@ -1310,10 +1104,7 @@ H=H
 くま=Bear
 鉄十字学園=Iron Cross Academy
 サイコうさぎ=Psycho Bunny
-番号00=Number 00
-番号01=Number 01
-番号02=Number 02
-番号03=Number 03
+r:"^番号(0[0-9])$"=r:"Number $1"
 // Character Design Addon Pack Vol. 1 (add06)
 桔梗の紋(白)=Kikyou Crest (White)
 桔梗の紋(黒)=Kikyou Crest (Black)
@@ -1337,12 +1128,9 @@ H=H
 ゆったりロングパンツ=Comfortable Long Pants
 ホットパンツ=Hotpants
 カーゴパンツ=Cargo Pants
-プリーツスカートA=Pleated Skirt A
-プリーツスカートB=Pleated Skirt B
-ボックススカートA=Box Skirt A
-ボックススカートB=Box Skirt B
-フレアスカートA=Flared Skirt A
-フレアスカートB=Flared Skirt B
+r:"^プリーツスカート([A-Z])$"=r:"Pleated Skirt $1"
+r:"^ボックススカート([A-Z])$"=r:"Box Skirt $1"
+r:"^フレアスカート([A-Z])$"=r:"Flared Skirt $1"
 プリーツスカートロングA=Long Pleated Skirt A
 プリーツスカートミニ=Pleated Miniskirt
 テニススカート=Tennis Skirt
@@ -1367,12 +1155,18 @@ H=H
 軍服タイトスカート=Military Tight Skirt
 // Character Design Addon Pack Vol. 1 (add06)
 巫女スカート=Shrine Maiden Skirt
-鬼神の装束A(下)=Demon God's Costume A (Bottom)
-鬼神の装束B(下)=Demon God's Costume B (Bottom)
+r:"^鬼神の装束([A-Z])\\(下\\)$"=r:"Demon God's Costume $1 (Bottom)"
 // Character Design Addon Pack Vol. 3 (add09)
 騎士のスカート=Knight's Skirt
 // Patch 0727 (add13/14)
 パレオ=Pareo Skirt
+// Patch 1026 (add19)
+カボチャパンツ=Pumpkin Pants
+// Afterschool DLC (add20/25)
+フォーマルパンツ=Formal Pants
+フリルスカート=Frilly Skirt
+// Patch 1221 (add24/25/26)
+クリスマススカート=Christmas Skirt
 
 // Clothing -> Bra
 ブラを初期の状態に戻す=Restore Default Bra Settings
@@ -1430,6 +1224,8 @@ H=H
 エンブレムシール(下)=Emblem Seal (Lower)
 // Patch 0831 (add100)
 ビキニ水着(フリル付き)=Bikini Swimsuit (With Frills)
+// Afterschool DLC (add20/25)
+ウェディングショーツ=Wedding Panties
 
 // Clothing -> Gloves
 手袋を初期の状態に戻す=Restore Default Glove Settings
@@ -1458,16 +1254,20 @@ H=H
 騎士の手袋=Knight's Gloves
 // Character Design Addon Pack Vol. 4 (add10)
 メカハンド=Mecha Hands
+// Afterschool DLC (add20/25
+ウェディングパフ=Wedding Sleeves
+ウェディングリボンポイント=Wedding Ribbon Gloves
+ウェディングショート=Short Wedding Gloves
+// Patch 1221 (add24/25/26)
+クリスマスミトン=Christmas Mittens
 
 // Clothing -> Pantyhose
 パンストを初期の状態に戻す=Restore Default Pantyhose Settings
 パンストの種類=Pantyhose Type
 
 // Clothing -> Pantyhose Types
-パンストA=Pantyhose A
-パンストB=Pantyhose B
-厚手パンストA=Thick Pantyhose A
-厚手パンストB=Thick Pantyhose B
+r:"^パンスト([A-Z])$"=r:"Pantyhose $1"
+r:"^厚手パンスト([A-Z])$"=r:"Thick Pantyhose $1"
 スパッツ=Spats
 アンダースコート=Underskirt Panties
 ガーターベルト=Garter Belt
@@ -1475,6 +1275,8 @@ H=H
 レギンス=Leggings
 // Preorder Bonus (add04)
 将校のガーターベルト=Commissioned Officer Garter Belt
+// Afterschool DLC (add20/25)
+ウェディングガーター=Wedding Garters
 
 // Clothing -> Legwear
 靴下を初期の状態に戻す=Restore Default Legwear Settings
@@ -1487,8 +1289,7 @@ H=H
 ニーソックス=Kneesocks
 アンクルソックス=Ankle Socks
 フットカバー=Foot Covers
-ガーターソックスA=Garter Socks A
-ガーターソックスB=Garter Socks B
+r:"^ガーターソックス([A-Z])$"=r:"Garter Socks $1"
 足袋=Tabi Socks
 小悪魔ニーソックス=Devil Kneesocks
 アイドルニーソックス=Idol Kneesocks
@@ -1508,6 +1309,12 @@ H=H
 メカソックス=Mecha Socks
 // Character Design Addon Pack Vol. 3 (add09)
 騎士のソックス=Knight's Socks
+// Patch 1026 (add19)
+ハロウィンソックス=Halloween Socks
+// Afterschool DLC (add20/25)
+ウェディングソックス=Wedding Socks
+// Patch 1221 (add24/25/26)
+クリスマスソックス=Christmas Socks
 
 // Clothing -> Shoes
 内履きを初期の状態に戻す=Restore Default Indoor Shoe Settings
@@ -1551,13 +1358,19 @@ H=H
 コルクサンダル=Cork Sandals
 // Patch 0727 (add13/14)
 シェルサンダル=Shell Sandals
+// Patch 1026 (add19)
+ハロウィンシューズ=Halloween Shoes
+// Afterschool DLC (add20/25)
+ウェディングシューズ=Wedding Shoes
+フォーマルシューズ=Formal Shoes
+レースアップブーツ=Lace-Up Boots
+// Patch 1221 (add24/25/26)
+クリスマスブーツ=Christmas Boots
 
 // Clothing -> Copy Menu
 コピー元のコーディネート=Uniform Source
 コピー先のコーディネート=Uniform Destination
-パーツA=Part A
-パーツB=Part B
-パーツC=Part C
+r:"^パーツ([A-Z])$"=r:"Part $1"
 全選択=All
 全解除=None
 
@@ -1571,36 +1384,8 @@ H=H
 タイプ=Type
 
 // Slot Lists
-// Illusion is extra fucking derpy and cannot into numbers - yes, both sets are needed
-スロット01=Slot 01
-スロット02=Slot 02
-スロット03=Slot 03
-スロット04=Slot 04
-スロット05=Slot 05
-スロット06=Slot 06
-スロット07=Slot 07
-スロット08=Slot 08
-スロット09=Slot 09
-スロット０１=Slot 01
-スロット０2=Slot 02
-スロット０3=Slot 03
-スロット０4=Slot 04
-スロット０5=Slot 05
-スロット０6=Slot 06
-スロット０7=Slot 07
-スロット０8=Slot 08
-スロット０9=Slot 09
-スロット10=Slot 10
-スロット11=Slot 11
-スロット12=Slot 12
-スロット13=Slot 13
-スロット14=Slot 14
-スロット15=Slot 15
-スロット16=Slot 16
-スロット17=Slot 17
-スロット18=Slot 18
-スロット19=Slot 19
-スロット20=Slot 20
+// Illusion was extra fucking derpy and cannot into numbers - yes, there's various cases where they mixed fullwidth and halfwidth numbers
+r:"^スロット([０-９0-9][０-９0-9])$"=r:"Slot $1"
 入れ替え=Transfer
 
 // Slot Type Labels
@@ -1617,13 +1402,9 @@ H=H
 親=Parent
 親を初期設定に戻す=Reset To Default Parent
 左右の親を入れ替え=Swap Sides
-カラー①=Color 1
-カラー②=Color 2
-カラー③=Color 3
-カラー④=Color 4
+r:"^カラー([①-⑨])$"="Color $1"
 アクセサリの色を初期に戻す=Reset To Original Color
-調整01=Adjustment 01
-調整02=Adjustment 02
+r:"^調整(0[0-9])$"=r:"Adjustment $1"
 クリックで編集します=Click To Edit
 操作軸を表示する=Show Control Axis
 (                                )= (                             )
@@ -1632,153 +1413,15 @@ H=H
 速度=Speed
 大きさ=Size
 グループ=Group
-※ アクセサリの表示をまとめて切り替える時の=※ You can use this to hide
-　 グループ分けです。=　a whole group of accessories at once.
-　 サブに設定するとH開始時に非表示になります。=　The Sub group will be hidden during H-Scenes.
+"※ アクセサリの表示をまとめて切り替える時の\n　 グループ分けです。\n　 サブに設定するとH開始時に非表示になります。"="※ You can use this to hide a whole group\n　 of accessories at once.\n　 The Sub group will be hidden during H-Scenes."
 
 // Fun Slot Adjustment Shit
-スロット01の親を選択=Slot 01 Parent Selection
-スロット01の調整01=Slot 01 Adjustment 01
-スロット01の調整02=Slot 01 Adjustment 02
-スロット02の親を選択=Slot 02 Parent Selection
-スロット02の調整01=Slot 02 Adjustment 01
-スロット02の調整02=Slot 02 Adjustment 02
-スロット03の親を選択=Slot 03 Parent Selection
-スロット03の調整01=Slot 03 Adjustment 01
-スロット03の調整02=Slot 03 Adjustment 02
-スロット04の親を選択=Slot 04 Parent Selection
-スロット04の調整01=Slot 04 Adjustment 01
-スロット04の調整02=Slot 04 Adjustment 02
-スロット05の親を選択=Slot 05 Parent Selection
-スロット05の調整01=Slot 05 Adjustment 01
-スロット05の調整02=Slot 05 Adjustment 02
-スロット06の親を選択=Slot 06 Parent Selection
-スロット06の調整01=Slot 06 Adjustment 01
-スロット06の調整02=Slot 06 Adjustment 02
-スロット07の親を選択=Slot 07 Parent Selection
-スロット07の調整01=Slot 07 Adjustment 01
-スロット07の調整02=Slot 07 Adjustment 02
-スロット08の親を選択=Slot 08 Parent Selection
-スロット08の調整01=Slot 08 Adjustment 01
-スロット08の調整02=Slot 08 Adjustment 02
-スロット09の親を選択=Slot 09 Parent Selection
-スロット09の調整01=Slot 09 Adjustment 01
-スロット09の調整02=Slot 09 Adjustment 02
-スロット10の親を選択=Slot 10 Parent Selection
-スロット10の調整01=Slot 10 Adjustment 01
-スロット10の調整02=Slot 10 Adjustment 02
-スロット11の親を選択=Slot 11 Parent Selection
-スロット11の調整01=Slot 11 Adjustment 01
-スロット11の調整02=Slot 11 Adjustment 02
-スロット12の親を選択=Slot 12 Parent Selection
-スロット12の調整01=Slot 12 Adjustment 01
-スロット12の調整02=Slot 12 Adjustment 02
-スロット13の親を選択=Slot 13 Parent Selection
-スロット13の調整01=Slot 13 Adjustment 01
-スロット13の調整02=Slot 13 Adjustment 02
-スロット14の親を選択=Slot 14 Parent Selection
-スロット14の調整01=Slot 14 Adjustment 01
-スロット14の調整02=Slot 14 Adjustment 02
-スロット15の親を選択=Slot 15 Parent Selection
-スロット15の調整01=Slot 15 Adjustment 01
-スロット15の調整02=Slot 15 Adjustment 02
-スロット16の親を選択=Slot 16 Parent Selection
-スロット16の調整01=Slot 16 Adjustment 01
-スロット16の調整02=Slot 16 Adjustment 02
-スロット17の親を選択=Slot 17 Parent Selection
-スロット17の調整01=Slot 17 Adjustment 01
-スロット17の調整02=Slot 17 Adjustment 02
-スロット18の親を選択=Slot 18 Parent Selection
-スロット18の調整01=Slot 18 Adjustment 01
-スロット18の調整02=Slot 18 Adjustment 02
-スロット19の親を選択=Slot 19 Parent Selection
-スロット19の調整01=Slot 19 Adjustment 01
-スロット19の調整02=Slot 19 Adjustment 02
-スロット20の親を選択=Slot 20 Parent Selection
-スロット20の調整01=Slot 20 Adjustment 01
-スロット20の調整02=Slot 20 Adjustment 02
+// You have no idea how tedious it was to type out the Non-RegEx version of this...
+r:"^スロット([0-9][0-9])の親を選択$"=r:"Slot $1 Parent Selection"
+r:"^スロット([0-9][0-9])の調整(0[0-9])$"=r:"Slot $1 Adjustment $2"
 
 // Slot Colors
-スロット01 カラー①=Slot 01 Color ①
-スロット01 カラー②=Slot 01 Color ②
-スロット01 カラー③=Slot 01 Color ③
-スロット01 カラー④=Slot 01 Color ④
-スロット02 カラー①=Slot 02 Color ①
-スロット02 カラー②=Slot 02 Color ②
-スロット02 カラー③=Slot 02 Color ③
-スロット02 カラー④=Slot 02 Color ④
-スロット03 カラー①=Slot 03 Color ①
-スロット03 カラー②=Slot 03 Color ②
-スロット03 カラー③=Slot 03 Color ③
-スロット03 カラー④=Slot 03 Color ④
-スロット04 カラー①=Slot 04 Color ①
-スロット04 カラー②=Slot 04 Color ②
-スロット04 カラー③=Slot 04 Color ③
-スロット04 カラー④=Slot 04 Color ④
-スロット05 カラー①=Slot 05 Color ①
-スロット05 カラー②=Slot 05 Color ②
-スロット05 カラー③=Slot 05 Color ③
-スロット05 カラー④=Slot 05 Color ④
-スロット06 カラー①=Slot 06 Color ①
-スロット06 カラー②=Slot 06 Color ②
-スロット06 カラー③=Slot 06 Color ③
-スロット06 カラー④=Slot 06 Color ④
-スロット07 カラー①=Slot 07 Color ①
-スロット07 カラー②=Slot 07 Color ②
-スロット07 カラー③=Slot 07 Color ③
-スロット07 カラー④=Slot 07 Color ④
-スロット08 カラー①=Slot 08 Color ①
-スロット08 カラー②=Slot 08 Color ②
-スロット08 カラー③=Slot 08 Color ③
-スロット08 カラー④=Slot 08 Color ④
-スロット09 カラー①=Slot 09 Color ①
-スロット09 カラー②=Slot 09 Color ②
-スロット09 カラー③=Slot 09 Color ③
-スロット09 カラー④=Slot 09 Color ④
-スロット10 カラー①=Slot 10 Color ①
-スロット10 カラー②=Slot 10 Color ②
-スロット10 カラー③=Slot 10 Color ③
-スロット10 カラー④=Slot 10 Color ④
-スロット11 カラー①=Slot 11 Color ①
-スロット11 カラー②=Slot 11 Color ②
-スロット11 カラー③=Slot 11 Color ③
-スロット11 カラー④=Slot 11 Color ④
-スロット12 カラー①=Slot 12 Color ①
-スロット12 カラー②=Slot 12 Color ②
-スロット12 カラー③=Slot 12 Color ③
-スロット12 カラー④=Slot 12 Color ④
-スロット13 カラー①=Slot 13 Color ①
-スロット13 カラー②=Slot 13 Color ②
-スロット13 カラー③=Slot 13 Color ③
-スロット13 カラー④=Slot 13 Color ④
-スロット14 カラー①=Slot 14 Color ①
-スロット14 カラー②=Slot 14 Color ②
-スロット14 カラー③=Slot 14 Color ③
-スロット14 カラー④=Slot 14 Color ④
-スロット15 カラー①=Slot 15 Color ①
-スロット15 カラー②=Slot 15 Color ②
-スロット15 カラー③=Slot 15 Color ③
-スロット15 カラー④=Slot 15 Color ④
-スロット16 カラー①=Slot 16 Color ①
-スロット16 カラー②=Slot 16 Color ②
-スロット16 カラー③=Slot 16 Color ③
-スロット16 カラー④=Slot 16 Color ④
-スロット17 カラー①=Slot 17 Color ①
-スロット17 カラー②=Slot 17 Color ②
-スロット17 カラー③=Slot 17 Color ③
-スロット17 カラー④=Slot 17 Color ④
-スロット18 カラー①=Slot 18 Color ①
-スロット18 カラー②=Slot 18 Color ②
-スロット18 カラー③=Slot 18 Color ③
-スロット18 カラー④=Slot 18 Color ④
-スロット19 カラー①=Slot 19 Color ①
-スロット19 カラー②=Slot 19 Color ②
-スロット19 カラー③=Slot 19 Color ③
-スロット18 カラー④=Slot 19 Color ④
-スロット20 カラー①=Slot 20 Color ①
-スロット20 カラー②=Slot 20 Color ②
-スロット20 カラー③=Slot 20 Color ③
-スロット20 カラー④=Slot 20 Color ④
+r:"^スロット([0-9][0-9]) カラー([①-⑨])$"=r:"Slot $1 Color $2" // And 80 lines withered away.
 
 // Accessory Movement Dialogue
 XYZの文字を左右ドラッグでも調整できます=You can also adjust X/Y/Z by dragging left or right.
@@ -1786,19 +1429,13 @@ XYZの文字を左右ドラッグでも調整できます=You can also adjust X/
 0.1=0.1
 1.0=1.0
 10.0=10.0
-位置 Ｘ=X Location
-位置 Ｙ=Y Location
-位置 Ｚ=Z Location
+r:"^位置 ([Ａ-Ｚ])$"=r:"$1 Location"
 回転量=Rotation Amount
 5.0=5.0
-回転 Ｘ=X Rotation
-回転 Ｙ=Y Rotation
-回転 Ｚ=Z Rotation
+r:"^回転 ([Ａ-Ｚ])$"=r:"$1 Rotation"
 拡縮量=Scale Amount
 0.01=0.01
-拡縮 Ｘ=X Scale
-拡縮 Ｙ=Y Scale
-拡縮 Ｚ=Z Scale
+r:"^拡縮 ([Ａ-Ｚ])$"=r:"$1 Scale"
 値をコピー=Copy Value
 値を貼り付け=Paste Value
 全てリセット=Reset All
@@ -1891,8 +1528,7 @@ XYZの文字を左右ドラッグでも調整できます=You can also adjust X/
 ハートのバレッタ=Heart Barette
 蝶の髪飾り=Butterfly Ornament
 ドクロの髪飾り=Skull Ornament
-細リボンA=Fine Ribbon A
-細リボンB=Fine Ribbon B
+r:"^細リボン([A-Z])$"=r:"Fine Ribbon $1"
 大きなリボン=Large Ribbon
 花=Flower
 ハイビスカス=Hibiscus
@@ -1905,6 +1541,8 @@ XYZの文字を左右ドラッグでも調整できます=You can also adjust X/
 // Patch 0727 (add13/14)
 貝殻=Seashell
 ヒトデ=Starfish
+// Patch 1221 (add24/25/26)
+雪の結晶=Snowflake
 
 // Accessories -> Head
 //Ribbon
@@ -1958,10 +1596,7 @@ XYZの文字を左右ドラッグでも調整できます=You can also adjust X/
 一角=Unicorn Horn
 // Character Design Addon Pack Vol. 2 (add08)
 メカレシーバー=Mecha Receiver
-メカ装甲１=Mecha Armor 1
-メカ装甲２=Mecha Armor 2
-メカ装甲３=Mecha Armor 3
-メカ装甲４=Mecha Armor 4
+r:"^メカ装甲([０-９])$"=r:"Mecha Armor $1"
 メカポッド=Mecha Pod
 メカシールド=Mecha Shield
 メカゴーグル=Mecha Goggles
@@ -1994,6 +1629,15 @@ XYZの文字を左右ドラッグでも調整できます=You can also adjust X/
 玉飾り=New Year Ornament
 // Patch 0629 (add12)
 つば広帽子=Wide-Brimmed Hat
+// Patch 1026 (add19)
+パンプキンクラウン=Pumpkin Crown
+ハロウィンゴースト=Halloween Ghost
+// Afterschool DLC (add20/25)
+ウェディングティアラ=Wedding Tiara
+ウェディングヴェール=Wedding Veil
+r:"^付け毛([0-9][0-9])$"=r:"Hairpiece $1"
+// Patch 1221 (add24/25/26)
+サンタ帽子=Santa Hat
 
 // Accessories -> Face
 スクエア=Square Glasses
@@ -2009,8 +1653,7 @@ XYZの文字を左右ドラッグでも調整できます=You can also adjust X/
 水泳ゴーグル=Swimming Goggles
 眼帯右用=Left Eyepatch
 眼帯左用=Right Eyepatch
-ハートA=Heart A
-ハートB=Heart B
+r:"^ハート([A-Z])$"=r:"Heart $1"
 スペード=Spade
 ダイア=Diamond
 クローバー=Club
@@ -2032,6 +1675,8 @@ XYZの文字を左右ドラッグでも調整できます=You can also adjust X/
 鬼神の額当て（左）=Demon God's Brow Guard (Left)
 // Patch 0629 (add12)
 雫=Drop Earring
+// Afterschool DLC (add20/25)
+ウェディング雫=Wedding Earring
 
 // Accessories -> Neck
 マフラー=Muffler
@@ -2063,6 +1708,15 @@ XYZの文字を左右ドラッグでも調整できます=You can also adjust X/
 ロイヤルリボン=Royal Ribbon
 // Patch 0629 (add12)
 3ポイント=Three-Jewel Necklace
+// Patch 1026 (add19)
+ハロウィンリボン=Halloween Ribbon
+// Afterschool DLC (add20/25)
+ウェディングチョーカー=Wedding Choker
+フォーマルリボン=Bow Tie
+//Slider // BADLY needs an override - this should be "Zipper"
+ネームプレート=Nameplate // I guess if your name is "Wedding Planner," it's accurate enough...
+// Patch 1221 (add24/25/26)
+クリスマスリボン=Christmas Ribbon
 
 // Accessories -> Torso
 リュックサック=Backpack
@@ -2118,6 +1772,9 @@ XYZの文字を左右ドラッグでも調整できます=You can also adjust X/
 浮き輪(ドーナツ)=Swimming Ring (Donut)
 浮き輪(猫)=Swimming Ring (Cat)
 サイドドレープ=Side Drapes
+// Afterschool DLC (add20/25)
+ウェディングバッスル=Wedding Bustle
+ウェディングリボン=Wedding Ribbon
 
 // Accessories -> Legs
 チアガーターリボン（左）=Cheerleader Garter Ribbon (Left)
@@ -2132,10 +1789,8 @@ XYZの文字を左右ドラッグでも調整できます=You can also adjust X/
 メカフット（右）=Mecha Foot (Right)
 
 // Accessories -> Arms
-ナイロンボストンA=Nylon Boston Bag A
-ナイロンボストンB=Nylon Boston Bag B
-シュシュA=Scrunchie A
-シュシュB=Scrunchie B
+r:"^ナイロンボストン([A-Z])$"=r:"Nylon Boston Bag $1"
+r:"^シュシュ([A-Z])$"=r:"Scrunchie $1"
 ハート腕時計=Heart Wristwatch
 ボールビーズ=Ball Bead Bracelet
 メタルバングル=Metal Bangle
@@ -2156,9 +1811,9 @@ XYZの文字を左右ドラッグでも調整できます=You can also adjust X/
 鬼神の肩当て=Demon God's Shoulderpad
 // Character Design Addon Pack Vol. 2 (add08)
 メカショルダー=Mecha Shoulder
-メカ装甲５=Mecha Armor 5
-メカ装甲６=Mecha Armor 6
-メカ装甲６×３=Mecha Armor 6x3
+//Mecha Armor 5
+//Mecha Armor 6
+メカ装甲６×３=Mecha Armor ６×３
 メカシールドⅡ=Mecha Shield Ⅱ
 メカブースターⅡ=Mecha Booster Ⅱ
 // Character Design Addon Pack Vol. 3 (add09)
@@ -2221,6 +1876,15 @@ XYZの文字を左右ドラッグでも調整できます=You can also adjust X/
 メカハンド握り左用=Mecha Left Fist
 メカハンド開き右用=Mecha Right Open Hand
 メカハンド開き左用=Mecha Left Open Hand
+// Patch 1026 (add19)
+ハロウィンブルーム=Halloween Broom
+// Afterschool DLC (add20/25)
+結婚指輪（女）=Wedding Ring (Women)
+結婚指輪（男）=Wedding Ring (Men)
+婚約指輪=Engagement Ring
+ブライダルブーケ=Bridal Bouquet
+// Patch 1221 (add24/25/26)
+雪の結晶ステッキ=Snowflake Wand
 
 // Accessories -> Crotch
 バイブ=Vibrating Dildo
@@ -2231,31 +1895,26 @@ XYZの文字を左右ドラッグでも調整できます=You can also adjust X/
 コピー先を選択して下さい=Item Destination
 左右の親を切り替える=Swap Sides When Transfering
 スロットをコピー=Copy Slot
-調整①をコピー=Copy Adjustment ①
-調整①を左右反転コピー=Flip Adjustment ① Hor. On Copy
-調整①を上下反転コピー=Flip Adjustment ① Ver. On Copy
-調整②をコピー=Copy Adjustment ②
-調整②を左右反転コピー=Flip Adjustment ② Hor. On Copy
-調整②を上下反転コピー=Flip Adjustment ② Ver. On Copy
+r:"^調整([①-⑨])をコピー$"=r:"Copy Adjustment $1"
+r:"^調整([①-⑨])を左右反転コピー$"=r:"Flip Adjustment $1 Hor. On Copy"
+r:"^調整([①-⑨])を上下反転コピー$"=r:"Flip Adjustment $1 Ver. On Copy"
 
 //
 // Profile Menu
-// This will mix both the male and female profiles for now
-// Will comment which is what once Bepis adds inline commenting via the new format
 //
 
 キャラ=Character
-エッチ=H-Scene
-質問=Nature
-個性=Traits
+エッチ=H-Scene // Female Only
+質問=Nature // Female Only
+個性=Traits // Female Only
 
 // Profile -> Character
 名前=Name
-愛称=Nickname
+愛称=Nickname // Female only
 性格=Personality
 血液型=Blood Type
 誕生日=Birthday
-音声調整(低-高)=Voice Pitch (Low - High)
+音声調整(低-高)=Voice Pitch (Low - High) // Female Only
 日=Day
 月=Mo.
 A=A
@@ -2265,42 +1924,47 @@ AB=AB
 
 // Profile -> Character -> Female Personality Types
 性格を選択=Personality Selection
-セクシー=Sexy
-お嬢様=Ojousama
-高飛車=Snobby
-後輩キャラ=Kouhai
-ミステリアス=Mysterious
-電波=Weirdo
-大和撫子=Yamato Nadeshiko
-ボーイッシュ=Tomboy
-純真無垢=Pure
-単純=Simple
-邪気眼=Delusional
-母性的=Motherly
-姉御肌=Big Sisterly
-ギャル=Gyaru
-不良少女=Delinquent
-野生的=Wild
-意識高いクール=Wannabe
-ひねくれ=Reluctant
-不幸少女=Jinxed
-文学少女=Bookish
-モジモジ=Timid
-正統派ヒロイン=Typical Schoolgirl
-ミーハー=Trendy
-オタク女子=Otaku
-ヤンデレ=Yandere
-ものぐさ=Lazy
-無口=Quiet
-意地っ張り=Stubborn
-のじゃっ子=Old-Fashioned
-素直クール=Humble
+//Sexy
+//Ojousama
+//Snobby
+//Kouhai
+//Mysterious
+//Weirdo
+//Yamato Nadeshiko
+//Tomboy
+//Pure
+//Simple
+//Delusional
+//Motherly
+//Big Sisterly
+//Gyaru
+//Delinquent
+//Wild
+//Wannabe
+//Reluctant
+//Jinxed
+//Bookish
+//Timid
+//Typical Schoolgirl
+//Trendy
+//Otaku
+//Yandere
+//Lazy
+//Quiet
+//Stubborn
+//Old-Fashioned
+//Humble
 // Patch 0727 (add13/14)
-気さく=Friendly
+//Friendly
 // Additional Personalities DLC (add15/16/17/18)
-勝ち気=Willful
-誠実=Honest
-艶やか=Glamorous
+//Willful
+//Honest
+//Glamorous
+// Afterschool DLC (add20/25)
+//Returnee
+//Slangy
+//Sadistic
+//Emotionless
 
 // Profile -> Male Personality Types
 // Less personality types and more setting the male between two sets of opposite elements
@@ -2309,15 +1973,16 @@ AB=AB
 マイペース=Own Pace
 勤勉=Diligent
 クール=Quiet
-優しい=Affectionate
+優しい=Outgoing
 
 // Profile -> Character -> Club Types
-帰宅部=Going Home Club
-水泳部=Swimming Club
-漫研部=Manga Club
-チアリーディング部=Cheerleading Club
-茶道部=Tea Ceremony Club
-陸上部=Track & Field Club
+// Female Only
+//Going Home Club
+//Swimming Club
+//Manga Club
+//Cheerleading Club
+//Tea Ceremony Club
+//Track & Field Club
 
 // Profile -> Character -> Name Box
 名前を入力して下さい=Please Enter A Name
@@ -2325,17 +1990,20 @@ AB=AB
 名=F
 
 // Profile -> Character -> Nickname Box
+// Females Only
 愛称を入力して下さい=Please Enter A Nickname
 
 // Profile -> H-Scene
+// Females Only
 性感帯=Erogenous Zone
-キスを拒否しない？=Won't Refuse Kisses?
-激しい愛撫を拒否しない？=Won't Refuse Groping?
-アナルを拒否しない？=Won't Refuse Anal Sex?
-電マを拒否しない？=Won't Refuse Vibrating Toys?
-ゴム付けなくてもOK？=Sex Without Condoms Is Okay?
+キスを拒否しない？=Always Allows Kisses?
+激しい愛撫を拒否しない？=Always Allows Groping?
+アナルを拒否しない？=Always Allows Anal Sex?
+電マを拒否しない？=Always Allows Vibrating Toys?
+ゴム付けなくてもOK？=Condomless Sex Is Okay?
 
 // Profile -> H-Scene -> Erogenous Zone Types
+// Females Only
 //None
 唇=Lips
 //Chest
@@ -2345,6 +2013,7 @@ AB=AB
 乳首=Nipples
 
 // Profile -> Nature
+// Females Only
 動物は好き？=Likes Animals?
 食べるのは好き？=Likes To Eat?
 料理するのは好き？=Likes To Cook?
@@ -2356,6 +2025,7 @@ AB=AB
 甘いのは好き？=Likes Sweets?
 
 // Profile -> Traits
+// Females Only
 頻尿=Pees Often
 チョロイ=Simple
 読書好き=Likes Reading
@@ -2420,8 +2090,7 @@ No Image=No Image
 カード画像=Character Card Picture
 学生証画像を撮影=Student Card
 カード画像を撮影=Character Card
-※ 学生証画像及びカード画像を撮影=※ You can't save the card without taking
-　 しないと保存できません。=　 both a student card and character card picture.
+"※ 学生証画像及びカード画像を撮影\n　 しないと保存できません。"="※ You can't save the card without\n　 a picture for the student card\n　 and the character card.
 撮影=Take Picture
 保存=Save
 戻る=Back
@@ -2436,8 +2105,7 @@ No Image=No Image
 
 // File Menu -> Lighting Options
 表現方法=Light Settings
-※ キャラクターごとの設定ではなく、ゲーム全体の設定=※ These settings are not set per-character,
-　 となります。=　 instead they affect the entire game.
+"※ キャラクターごとの設定ではなく、ゲーム全体の設定\n　 となります。"="※ These settings are not set per-character,\n　 instead they affect the entire game."
 影の表現=Shadow Type
 影の濃さ=Shadow Density
 アウトラインの濃さ=Outline Density
@@ -2458,7 +2126,6 @@ No Image=No Image
 本当に上書きしますか？=Really Overwrite This?
 キャラメイクを終了しますか？=Quit The Character Maker?
 キャラ編集を終了しますか？=Quit Editing This Character?
-ゲームを終了しますか？=Quit The Game?
 
 // Maker called from Class Edit Menu
 学生証画像の撮影=Take Student ID Image
@@ -2466,3 +2133,103 @@ No Image=No Image
 キャラを編集前に戻しますか？=Revert This Character?
 反映せず終了=Cancel & End
 反映して終了=Apply & End
+
+//
+// Standard Characters Section
+//
+
+// Lina Robert
+リナ ロベール=Lina Robert
+:　リナ ロベール=:　Lina Robert
+:　リナ先生=:　Lina-sensei
+
+// Hashimoto Reina
+橋本 麗奈=Hashimoto Reina
+:　橋本 麗奈=:　Hashimoto Reina
+:　麗奈先生=:　Reina-sensei
+
+// Sakurai Nonoka
+櫻井 野乃花=Sakurai Nonoka
+:　櫻井 野乃花=:　Sakurai Nonoka
+:　ののか先生=:　Nonoka-sensei
+
+// Himekawa Mai
+姫川 舞=Himekawa Mai
+:　姫川 舞=:　Himekawa Mai
+:　舞=:　Mai
+
+// Hiiragi Konomi
+柊 このみ=Hiiragi Konomi
+:　柊 このみ=:　Hiiragi Konomi
+:　このみ=:　Konomi
+
+// Yuuki Sakura
+結城 桜=Yuuki Sakura
+:　結城 桜=:　Yuuki Sakura
+:　さくら=:　Sakura
+
+// Minase Ai
+水瀬 亜依=Minase Ai
+:　水瀬 亜依=:　Minase Ai
+:　あい=:　Ai
+
+//
+// Catch-Alls For In-Class Editing
+//
+
+// Personalities
+:　セクシー=:　Sexy
+:　お嬢様=:　Ojousama
+:　高飛車=:　Snobby
+:　後輩キャラ=:　Kouhai
+:　ミステリアス=:　Mysterious
+:　電波=:　Weirdo
+:　大和撫子=:　Yamato Nadeshiko
+:　ボーイッシュ=:　Tomboy
+:　純真無垢=:　Pure
+:　単純=:　Simple
+:　邪気眼=:　Delusional
+:　母性的=:　Motherly
+:　姉御肌=:　Big Sisterly
+:　ギャル=:　Gyaru
+:　不良少女=:　Delinquent
+:　野生的=:　Wild
+:　意識高いクール=:　Wannabe
+:　ひねくれ=:　Reluctant
+:　不幸少女=:　Jinxed
+:　文学少女=:　Bookish
+:　モジモジ=:　Timid
+:　正統派ヒロイン=:　Typical Schoolgirl
+:　ミーハー=:　Trendy
+:　オタク女子=:　Otaku
+:　ヤンデレ=:　Yandere
+:　ものぐさ=:　Lazy
+:　無口=:　Quiet
+:　意地っ張り=:　Stubborn
+:　のじゃっ子=:　Old-Fashioned
+:　素直クール=:　Humble
+// Patch 0727 (add13/14)
+:　気さく=:　Friendly
+// Additional Personalities DLC (add15/16/17/18)
+:　勝ち気=:　Willful
+:　誠実=:　Honest
+:　艶やか=:　Glamorous
+// Afterschool DLC Personalities (add20/25)
+:　帰国子女=:　Returnee
+:　方言娘=:　Slangy
+:　Ｓッ気=:　Sadistic
+:　無感情=:　Emotionless
+
+// Blood Types
+r:"^:　([Ａ-Ｚ]+)型$"=r:":　Type $1"
+
+// Birthdays
+r:"^:　([0-9]+)月([0-9]+)日$"=r:":　$1/$2"
+
+// Clubs
+:　帰宅部=:　Going Home Club
+:　水泳部=:　Swimming Club
+:　漫研部=:　Manga Club
+:　チアリーディング部=:　Cheerleading Club
+:　茶道部=:　Tea Ceremony Club
+:　陸上部=:　Track & Field Club

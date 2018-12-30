@@ -1,5 +1,5 @@
 #set EXE Koikatu
-#set level 13
+#set level 7,13 // 13 is the default class menu, 7 gets additively loaded when you transfer students in/out
 
 //
 // Classroom Edit Menu
@@ -10,69 +10,116 @@
 ネットワークから=Online
 キャラフォルダから=Character Folder
 情報確認=Show Info
+なし=None
 // These both need label overrides... badly. Abbreviating is okay I guess, but bleh.
 愛称=Nick.
 性格=Pers.
 最大登校人数=Max. Students
+クラスの登録人数を最大にする=Maximize Class Registration
 
 // Default School Names, etc.
+コイカツ女学園=Koikatsu Girls' Academy
 コイカツ女学園 学園長=Koikatsu Girls' Academy, Headmistress
 学園長=Headmistress
+コイカツ部=Koikatsu Club // For the Player
 
 // Amount of Attending Students
-0人=0
-1人=1
-2人=2
-3人=3
-4人=4
-5人=5
-6人=6
-7人=7
-8人=8
-9人=9
-10人=10
-11人=11
-12人=12
-13人=13
-14人=14
-15人=15
-16人=16
-17人=17
-18人=18
-19人=19
-20人=20
-21人=21
-22人=22
-23人=23
-24人=24
-25人=25
-26人=26
-27人=27
-28人=28
-29人=29
-30人=30
-31人=31
-32人=32
-33人=33
-34人=34
-35人=35
-36人=36
-37人=37
-38人=38
+r:"^([0-9]+)人$"=r:"$1"
 
 // Right Side Buttons
 転入=Register
 転校=Transfer
-//Random
+ランダム=Random
 //Nickname
 キャラ編集=Edit Char.
-空席全ランダム=Fill Empty
+対象=Target
+全体=Every Class
+クラス=This Class
+空席全ランダム=Fill Empty // Older Versions
+空席ランダム=Fill Empty // Newer Versions
 全て空席にする=Empty All
 転校させますか？=Transfer to a different school?
-全キャラを転校させますか？=Transfer all to a different school?
+全キャラを転校させますか？=Transfer everyone to a different school?
+クラス内のキャラを転校させますか？=Transfer this class to a different school?
 
-// Seats
+// Traits
+頻尿=Pees Often
+チョロイ=Simple
+読書好き=Likes Reading
+受け身=Passive
+怠惰=Lazy
+運動好き=Likes Exercising
+はらぺこ=Hungry
+ビッチ=Slutty
+音楽好き=Likes Music
+フレンドリー=Friendly
+神出鬼没=Suddenly Appears
+真面目=Diligent
+鈍感=Insensitive
+むっつり=Gloomy
+活発=Lively
+綺麗好き=Likes Cleanliness
+一人好き=Likes Being Alone
+// Character Design Addon Pack Vol. 4 (add10)
+女の子好き=Likes Girls
+全選択=All // Button to enable all traits
+全解除=None // Button to disable all traits
+
+// Ai's seat
 この席には既に女の子が座っています=A girl already sits in this seat.
 
 // Character Selection
 キャラ一覧=Character List
+部活と性格=Club/Pers.
+名前=Name
+日付=Date
+部活=Club
+//Pers.
+
+// Blood Types
+r:"^([Ａ-Ｚ]+)型$"=r:"Type $1"
+
+// Date Conversion
+r:"^([0-9]+)月([0-9]+)日$"="$1/$2"
+
+//
+// Standard Characters Section
+//
+
+// Tried doing this with a sideloader mod, but the game just doesn't accept it that way.
+// Sorry, guys.
+
+// Lina Robert
+リナ ロベール=Lina Robert
+:　リナ ロベール=:　Lina Robert
+:　リナ先生=:　Lina-sensei
+
+// Hashimoto Reina
+橋本 麗奈=Hashimoto Reina
+:　橋本 麗奈=:　Hashimoto Reina
+:　麗奈先生=:　Reina-sensei
+
+// Sakurai Nonoka
+櫻井 野乃花=Sakurai Nonoka
+:　櫻井 野乃花=:　Sakurai Nonoka
+:　ののか先生=:　Nonoka-sensei
+
+// Himekawa Mai
+姫川 舞=Himekawa Mai
+:　姫川 舞=:　Himekawa Mai
+:　舞=:　Mai
+
+// Hiiragi Konomi
+柊 このみ=Hiiragi Konomi
+:　柊 このみ=:　Hiiragi Konomi
+:　このみ=:　Konomi
+
+// Yuuki Sakura
+結城 桜=Yuuki Sakura
+:　結城 桜=:　Yuuki Sakura
+:　さくら=:　Sakura
+
+// Minase Ai
+水瀬 亜依=Minase Ai
+:　水瀬 亜依=:　Minase Ai
+:　あい=:　Ai
