@@ -1038,9 +1038,13 @@ Tシャツ無地(男)=Plain T-Shirt (Male)
 ハロウィントップス=Halloween Top
 // Afterschool DLC (add20/25)
 ウェディングドレス=Wedding Dress
-ボリュームネックパーカー=Turtleneck Parka
-パフスリーブトップス=Puffy-Sleeved Top
 タキシード(男)=Tuxedo (Male)
+パフスリーブトップス=Puffy-Sleeved Top
+ボリュームネックパーカー=Turtleneck Parka
+// Afterschool Preorder DLC (add 21/22/23)
+和メイドトップス=Japanese Maid Top
+CAトップス=Cabin Attendant Top
+//Naked Apron // Because yes - they really just had to name two different items the exact same thing.
 // Patch 1221 (add24/25/26)
 クリスマストップス=Christmas Top
 
@@ -1165,6 +1169,9 @@ r:"^鬼神の装束([A-Z])\\(下\\)$"=r:"Demon God's Costume $1 (Bottom)"
 // Afterschool DLC (add20/25)
 フォーマルパンツ=Formal Pants
 フリルスカート=Frilly Skirt
+// Afterschool Preorder DLC (add 21/22/23)
+和メイドボトム=Japanese Maid Skirt
+CAタイトスカート=Cabin Attendant Tight Skirt
 // Patch 1221 (add24/25/26)
 クリスマススカート=Christmas Skirt
 
@@ -1254,7 +1261,7 @@ r:"^鬼神の装束([A-Z])\\(下\\)$"=r:"Demon God's Costume $1 (Bottom)"
 騎士の手袋=Knight's Gloves
 // Character Design Addon Pack Vol. 4 (add10)
 メカハンド=Mecha Hands
-// Afterschool DLC (add20/25
+// Afterschool DLC (add20/25)
 ウェディングパフ=Wedding Sleeves
 ウェディングリボンポイント=Wedding Ribbon Gloves
 ウェディングショート=Short Wedding Gloves
@@ -1364,6 +1371,9 @@ r:"^ガーターソックス([A-Z])$"=r:"Garter Socks $1"
 ウェディングシューズ=Wedding Shoes
 フォーマルシューズ=Formal Shoes
 レースアップブーツ=Lace-Up Boots
+// Afterschool Preorder DLC (add 21/22/23)
+ショートレースアップブーツ=Short Lace-Up Boots
+CAシューズ=Cabin Attendant Shoes
 // Patch 1221 (add24/25/26)
 クリスマスブーツ=Christmas Boots
 
@@ -1541,6 +1551,8 @@ r:"^細リボン([A-Z])$"=r:"Fine Ribbon $1"
 // Patch 0727 (add13/14)
 貝殻=Seashell
 ヒトデ=Starfish
+// Afterschool Preorder DLC (add 21/22/23)
+サクラの髪飾り=Cherry Blossom Ornament
 // Patch 1221 (add24/25/26)
 雪の結晶=Snowflake
 
@@ -1636,6 +1648,9 @@ r:"^メカ装甲([０-９])$"=r:"Mecha Armor $1"
 ウェディングティアラ=Wedding Tiara
 ウェディングヴェール=Wedding Veil
 r:"^付け毛([0-9][0-9])$"=r:"Hairpiece $1"
+// Afterschool Preorder DLC (add 21/22/23)
+ヘッドドレス=Headdress
+CAキャップ=Cabin Attendant Cap
 // Patch 1221 (add24/25/26)
 サンタ帽子=Santa Hat
 
@@ -1714,7 +1729,9 @@ r:"^ハート([A-Z])$"=r:"Heart $1"
 ウェディングチョーカー=Wedding Choker
 フォーマルリボン=Bow Tie
 //Slider // BADLY needs an override - this should be "Zipper"
-ネームプレート=Nameplate // I guess if your name is "Wedding Planner," it's accurate enough...
+ネームプレート=Nameplate // I guess if your name is "Wedding Planner," it's accurate enough... and guess what, that's exactly what her name is on her Character Card.
+// Afterschool Preorder DLC (add 21/22/23)
+CAネッカチーフ=Cabin Attendant Neckerchief
 // Patch 1221 (add24/25/26)
 クリスマスリボン=Christmas Ribbon
 
@@ -2135,47 +2152,35 @@ No Image=No Image
 反映して終了=Apply & End
 
 //
-// Standard Characters Section
+// Catch-Alls For In-Class Editing
 //
 
-// Lina Robert
+// Story Characters
+
+// Tried doing this with a sideloader mod, but the game just doesn't accept it that way.
+// Sorry, guys.
+
 リナ ロベール=Lina Robert
 :　リナ ロベール=:　Lina Robert
 :　リナ先生=:　Lina-sensei
-
-// Hashimoto Reina
 橋本 麗奈=Hashimoto Reina
 :　橋本 麗奈=:　Hashimoto Reina
 :　麗奈先生=:　Reina-sensei
-
-// Sakurai Nonoka
 櫻井 野乃花=Sakurai Nonoka
 :　櫻井 野乃花=:　Sakurai Nonoka
 :　ののか先生=:　Nonoka-sensei
-
-// Himekawa Mai
 姫川 舞=Himekawa Mai
 :　姫川 舞=:　Himekawa Mai
 :　舞=:　Mai
-
-// Hiiragi Konomi
 柊 このみ=Hiiragi Konomi
 :　柊 このみ=:　Hiiragi Konomi
 :　このみ=:　Konomi
-
-// Yuuki Sakura
 結城 桜=Yuuki Sakura
 :　結城 桜=:　Yuuki Sakura
 :　さくら=:　Sakura
-
-// Minase Ai
 水瀬 亜依=Minase Ai
 :　水瀬 亜依=:　Minase Ai
 :　あい=:　Ai
-
-//
-// Catch-Alls For In-Class Editing
-//
 
 // Personalities
 :　セクシー=:　Sexy
