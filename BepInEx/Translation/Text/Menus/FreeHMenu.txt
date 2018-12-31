@@ -1,9 +1,11 @@
 #set EXE Koikatu
-#set level 22
+#set level -1,22 // -1 is some sort of preloader level...?
 
 //
 // Extra -> Free-H Menu
 //
+
+キャラ一覧=Character List
 
 女キャラ選択=Girl Selection
 部活と性格=Club/Pers.
@@ -26,6 +28,14 @@
 ・電マを拒否しない？=Toys Okay?
 ・アナルを拒否しない？=Anal Okay?
 ・ゴム付けなくてもOK？=Condomless Okay?
+
+// Erogenous ZOOOOOOOOOOOOOOONES, hahahaha, oh, concubine, erogenous zooooooooones...
+唇=Lips
+胸=Chest
+股間=Crotch
+アナル=Anus
+尻=Butt
+乳首=Nipples
 
 // H Settings
 H段階=H-Level
@@ -54,3 +64,9 @@ H段階=H-Level
 
 // Lesbian Mode Only
 相手キャラ選択=Partner Selection
+
+// Afterschool Addons for 3P
+名前 :=Name: 
+性格：=Pers.: 
+女の子1人目="Girl #1"
+女の子2人目="Girl #2"
