@@ -2,7 +2,7 @@
 English translation project for Koikatsu
 
 ## Installation
-These translations require the latest build of BepisPlugins, since they rely on changes made to DTL not yet available in the current BepisPlugins release.
+These translations require the latest build of BepisPlugins since they rely on changes made to DynamicTranslationLoader not yet available in the current BepisPlugins release.
 
 1. Install the [latest BepisPlugins build](http://bepisbuilds.dyn.mk/bepis_plugins)  
 2. Press the green "Clone or download" button above and click "download zip"
