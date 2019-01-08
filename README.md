@@ -24,7 +24,7 @@ https://jisho.org/
 http://www.romajidesu.com/  
 
 ## How-to
-When you have translations to submit [fork the repository](https://help.github.com/articles/fork-a-repo/). Upload your changes to your fork and then [submit a pull request](https://help.github.com/articles/about-pull-requests/). Your pull request will be reviewed and accepted after a quality check. Again, no raw machine translations will be accepted.  
+When you have translations to submit [fork the repository](https://help.github.com/articles/fork-a-repo/). Upload your changes to your fork and then [submit a pull request](https://help.github.com/articles/about-pull-requests/). Your pull request will be reviewed and accepted after a quality check. Again, no raw machine translations will be accepted. Proper capitalization, punctuation, and spelling is a must.  
 
 Every translation.txt file has the raw Japanese text that needs translations. Each one starts commented out (// at the begining) to avoid DynamicTranslationLoader errors. For your text to display correctly in game, put the translation on the right side of the equal sign and remove the // at the start of the line. Do not edit the Japanese text or the translation will not work.  
 
