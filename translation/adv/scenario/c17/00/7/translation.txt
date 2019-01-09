@@ -1,5 +1,5 @@
-//「……あなた、それ本当の気持ちなの？」=
-//「うん、俺はきみのことが本当に好きなんだ」=
-//「そ、そう……私もあなたのことは、その……好きよ」=
-//「そ、それじゃあ俺と、付き合ってくれる？」=
-//「ええ、私でよければ、付き合ってください」=
+﻿「……あなた、それ本当の気持ちなの？」=「You...Are those your true feelings?」
+「うん、俺はきみのことが本当に好きなんだ」=「Yes, I really do like you.」
+「そ、そう……私もあなたのことは、その……好きよ」=「I-I see...I also...well...like you.」
+「そ、それじゃあ俺と、付き合ってくれる？」=「W-Well then, will you go out with me?」
+「ええ、私でよければ、付き合ってください」=「Yes, if you're fine with me, then lets go out.」

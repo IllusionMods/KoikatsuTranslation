@@ -1,2 +1,2 @@
-//「あら、お目覚めのようね。おはよう。どうしたの恥ずかしそうな顔して？」=
-//「昨日のことを思い出したの？　ふふっ、すごく気持ちよかったわ」=
+「あら、お目覚めのようね。おはよう。どうしたの恥ずかしそうな顔して？」=「Oh, you're awake. Good morning. Why do you look so embarassed?」
+「昨日のことを思い出したの？　ふふっ、すごく気持ちよかったわ」=「Do you remember what happened yesterday? Haha, it felt really good.」

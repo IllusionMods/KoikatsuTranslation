@@ -1,6 +1,6 @@
-//「えっと、今少しいいかな。よければキミと話がしたいんだけど」=
-//「私と話がしたい？　他をあたってもらってもいいかしら」=
-//「他をって……君と話をしたいんだけど、ダメかな？」=
-//「どうしてもって言うなら構わないけど。ところであなたは……」=
-//「あ、俺は[P名前]って言うんだ。この学園唯一の男子で……」=
-//「そんなこと知っているわ。……それで、話って何？」=
+﻿「えっと、今少しいいかな。よければキミと話がしたいんだけど」=「Umm, is now a good time? If it's ok, I'd like to talk with you.」
+「私と話がしたい？　他をあたってもらってもいいかしら」=「You want to talk with me? I'm wondering if you can just ask someone else.」
+「他をって……君と話をしたいんだけど、ダメかな？」=「Someone else...But I'd like to talk with you, is that not ok?」
+「どうしてもって言うなら構わないけど。ところであなたは……」=「If you have to talk with me, then I guess it's fine. By the way, you are...」
+「あ、俺は[P名前]って言うんだ。この学園唯一の男子で……」=「Ah, I am [P名前]. I'm this school's only male student.」
+「そんなこと知っているわ。……それで、話って何？」=「I know that much. So, what did you want to talk about?」
