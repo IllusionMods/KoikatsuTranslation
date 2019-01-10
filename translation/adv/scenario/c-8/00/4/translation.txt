@@ -1,10 +1,3 @@
-//Scene specific character names
-新入部員さん？=New member?
-新入部員……さん？=New member...?
-このみちゃん？=Konomi-chan?
-見慣れない女の子=Unfamiliar girl
-まさか……！=It can't be...!
-
 「この間はずいぶん盛り上がったな」=“Boy did we had a heated discussion the other day.”
 放課後、何気なく校舎内を歩きながら、漫研部前で先日のこのみちゃんとの会話を思い出す。=As I was wondering around after school, my conversation with Konomi-chan the other day came up to mind.
 「まさか自分があんなにアニメについて語れるとは思ってなかった……」=“I couldn't believe that I talked that much about an anime...”
@@ -121,3 +114,10 @@
 「……次に会った時、きちんと謝ろう」=“...Next time we meet, I'll have to apologize to her for today.”
 このみちゃんがいなくなった廊下を見つめたまま、そんなことを考える。=Staring at the empty hallway, those thoughts ran through my mind.
 俺の中ではなぜか、アニメのめるとこのみちゃんの姿が完全に重なっていた。=For some reason, in my mind, Konomi-chan and Merulun from the anime felt completely like the same person.
+
+//Scene specific character names
+見慣れない女の子=Unfamiliar girl
+新入部員さん？=New member?
+新入部員……さん？=New member...?
+まさか……！=It can't be...!
+このみちゃん？=Konomi-chan?
