@@ -1,2 +1,2 @@
-//「汝の魔物から熱を帯びた魔力が伝わるぞ」=
-//「も、もっとくっついていたいなって……」=
+「汝の魔物から熱を帯びた魔力が伝わるぞ」=“I can feel the demonic power circulating within you!”
+「も、もっとくっついていたいなって……」=“I-I want to hug you more...”

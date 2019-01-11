@@ -1,5 +1,5 @@
-//「えぇっ！　わ、私……いや、我を罠にはめようとしておるのか？」=
-//「罠なんかじゃないよ！　 きみのことが気になって仕方がないんだ……」=
-//「つまり……我は愛を告げられているのか！？」=
-//「そうだよ。好きなんだ……俺と付き合って下さい」=
-//「わ、私なんかで本当に良ければ……こちらこそ、よ、よろしくお願いします！」=
+「えぇっ！　わ、私……いや、我を罠にはめようとしておるのか？」=“Eeh! Is this a trap?”
+「罠なんかじゃないよ！　 きみのことが気になって仕方がないんだ……」=“It's not a trap! It's a way of getting to know you better...”
+「つまり……我は愛を告げられているのか！？」=“In other words... you're confessing to me!?”
+「そうだよ。好きなんだ……俺と付き合って下さい」=“That's right. I love you... please go out with me!”
+「わ、私なんかで本当に良ければ……こちらこそ、よ、よろしくお願いします！」=“I-if you're fine with me, then... p-please treat me well!”

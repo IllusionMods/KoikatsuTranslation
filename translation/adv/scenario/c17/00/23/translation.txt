@@ -1,3 +1,3 @@
-「えっと……」=「Umm...」
-「授業でパンケーキを作ったのだけれど、よかったらどうかしら……？」=「I made some pancakes in class, if it's ok with you...?」
-「あなたのために作ったわけじゃなくて、多めに作ったから……それでよ」=「I didn't make it for you or anything, I just made a little too much...That's it.」
+//「えっと……」=
+//「授業でパンケーキを作ったのだけれど、よかったらどうかしら……？」=
+//「あなたのために作ったわけじゃなくて、多めに作ったから……それでよ」=

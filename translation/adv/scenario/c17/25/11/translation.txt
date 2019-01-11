@@ -1,5 +1,5 @@
-﻿「ねえ、別れてほしいの」=「Hey, I want to break up.」
-「え、それってどういう……」=「Huh, what does that mean...?」
-「言葉のままの意味よ、冷めちゃったの……」=「It means exactly what it means, I feel like you've been cold...」
-「ちょっと待って。俺の何がいけなかったのかな」=「Hold on a second. What did I do wrong?」
-「自分の胸にでも聞いてみたら？　……さようなら」=「Why don't you try asking yourself? Bye...」
+//「ねえ、別れてほしいの」=
+//「え、それってどういう……」=
+//「言葉のままの意味よ、冷めちゃったの……」=
+//「ちょっと待って。俺の何がいけなかったのかな」=
+//「自分の胸にでも聞いてみたら？　……さようなら」=
