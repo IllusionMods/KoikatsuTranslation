@@ -1,3 +1,3 @@
-//「私は予習しなくても問題ないけれど……まぁ、いいわ」=
-//「それじゃあお願いします」=
-//「誰かと勉強するのなんて、初めてで少し新鮮ね」=
+﻿「私は予習しなくても問題ないけれど……まぁ、いいわ」=「Although I'll be fine not studying...Well, why not.」
+「それじゃあお願いします」=「Then I'll be in your care.」
+「誰かと勉強するのなんて、初めてで少し新鮮ね」=「Studying with someone else for the first time, it's kind of refreshing.」

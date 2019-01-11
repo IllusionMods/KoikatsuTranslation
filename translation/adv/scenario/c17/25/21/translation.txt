@@ -1,3 +1,3 @@
-//「おはよう。今日もいつも通り顔色が悪いわね」=
-//「おはようって俺そんなに顔色悪い……？」=
-//「ふふっ、冗談よ。ほら、一緒に教室までいきましょう」=
+「おはよう。今日もいつも通り顔色が悪いわね」=「Good morning. You don't look so good today either.」
+「おはようって俺そんなに顔色悪い……？」=「Morning, do I really look that bad?」
+「ふふっ、冗談よ。ほら、一緒に教室までいきましょう」=「Haha, it's just a joke. Come on, let's go to class together.」

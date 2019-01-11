@@ -1,2 +1,2 @@
-//「あ、やっと見つけたわ。授業でタルトを作ってみたのだけれど、どうかしら？」=
-//「あ、あなたのために作ったの。だから残さず食べてね。それじゃ、またね」=
+「あ、やっと見つけたわ。授業でタルトを作ってみたのだけれど、どうかしら？」=「Ah, I finally found you. I tried making a tart in class, would you like to try it?」
+「あ、あなたのために作ったの。だから残さず食べてね。それじゃ、またね」=「Ah, I made it for you. So, please enjoy it. Well then, see you.」
