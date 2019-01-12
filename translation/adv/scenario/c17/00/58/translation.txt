@@ -1,4 +1,4 @@
-//「ほら、何してるのよ。時間がもったいないわ、はやく行くわよ」=
-//「あっ、そんな急がなくても大丈夫だよ」=
-//「ここの喫茶店、落ち着いた雰囲気でいいわね」=
-//「そうだね。ゆっくりとコーヒーを飲みながら、話すのも楽しいね」=
+「ほら、何してるのよ。時間がもったいないわ、はやく行くわよ」=「Hey, what are you doing? We're wasting time, let's hurry and go.」
+「あっ、そんな急がなくても大丈夫だよ」=「Oh, you don't need to feel so rushed it'll be fine.」
+「ここの喫茶店、落ち着いた雰囲気でいいわね」=「This cafe's atmosphere is really relaxing.」
+「そうだね。ゆっくりとコーヒーを飲みながら、話すのも楽しいね」=「You're right. Casually drinking coffee and talking is quite fun.」
