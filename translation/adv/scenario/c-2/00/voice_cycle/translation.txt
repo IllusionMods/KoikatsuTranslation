@@ -1,9 +1,9 @@
 //「昔から、どうしても食事を摂るタイミングを逃しがちなのよね」=
-//「昼休みも有効活用しなくては、ね」=
-//「午後からも頑張るのよ」=
-//「恋愛を主目的にした部活――前代未聞とはいえ、学園長の考えはわかる気がするわ……少しだけ」=
-//「部活の調子はどうかしら。他の生徒たちに迷惑をかけないよう、注意するのよ」=
+「昼休みも有効活用しなくては、ね」=“Make good use of your lunch break, all right?”
+「午後からも頑張るのよ」=“Do you best this afternoon.”
+「恋愛を主目的にした部活――前代未聞とはいえ、学園長の考えはわかる気がするわ……少しだけ」=“A club with the goal of teaching love-- It's such a strange thing, but I think I understand what the principal was thinking... a little.”
+「部活の調子はどうかしら。他の生徒たちに迷惑をかけないよう、注意するのよ」=“I wonder about these club activities. Do your best not to disturb the other students.”
 //「大丈夫だと思うけれど、念のため……女性に声をかけるのは学園内だけにしておくのよ？」=
-//「もう放課後よ。遅くならないうちに帰りなさい？」=
-//「真っ直ぐ家へ帰って、しっかり勉強すること。良いわね？」=
-//「そろそろ暗くなるわ。用事がないのなら下校するように」=
+「もう放課後よ。遅くならないうちに帰りなさい？」=“School's already over. Shouldn't you head home before it gets too late?”
+「真っ直ぐ家へ帰って、しっかり勉強すること。良いわね？」=“Head straight home and study hard. Understood?”
+「そろそろ暗くなるわ。用事がないのなら下校するように」=“It's getting dark. If you don't have any duties you should head home.”

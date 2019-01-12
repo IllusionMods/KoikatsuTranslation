@@ -1,4 +1,4 @@
-//「……今日は、それだけ？」=
-//「う、うん！　あんまりお腹が空いてなくて……」=
-//「……本音は？」=
-//「……少しお金を使い過ぎました」=
+「……今日は、それだけ？」=“...You're having only this much today?”
+「う、うん！　あんまりお腹が空いてなくて……」=“Y-yeah! I don't feel very hungry...”
+「……本音は？」=“...What is it really?”
+「……少しお金を使い過ぎました」=“...I spent a bit too much money.”
