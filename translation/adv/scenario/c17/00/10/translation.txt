@@ -5,4 +5,4 @@
 「よしっ、ありがとう！」=「Yes! Thank you!」
 「ところでどんなことをする部活なのかしら？」=「By the way, what kind of club activities do you have?」
 「えっと、お話したり、スキンシップを取ったりとか」=「Umm, we talk and do skinship stuff.」
-「スキンシップというのが少し気になるけど、とりあえずこれからよろしくね」=「I'm a bit worried about this "skinship." Anyway, please take care of me.」
+「スキンシップというのが少し気になるけど、とりあえずこれからよろしくね」=「I'm a bit worried about this “skinship.” Anyway, please take care of me.」
