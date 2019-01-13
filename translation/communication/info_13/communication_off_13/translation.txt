@@ -34,7 +34,7 @@
 「そ～、昨日夜更かししちゃってさ～。マジ眠いんだよね～」=“Yeah～ I stayed up late last night～ I'm totally sleepy～”
 「出された課題はちゃんとやってる？」=“Have you been studying for today's lessons?”
 「もちろん。意外とマジメなんだよ？」=“Of course I am. You surprised I'm good at studying?”
-「ふわぁ……あっ、ごめん少し眠くて」=*Yawwnnn......* 「Ahh, sorry, I'm a little tired.」
+「ふわぁ……あっ、ごめん少し眠くて」=*Yawwnnn......* “Ahh, sorry, I'm a little tired.”
 「夜更かしでもした？　アタシも見たいドラマがあって遅くまで起きてたんだ」=“You stay up last night? Sometimes I'm watching the late-night drama, so I get up late too sometimes.”
 「友達に男の子を紹介される事とかあるの？」=“Would you be able to befriend a boy?”
 「ま、まあアタシ人気だし？　そんなの日常っていうか……」=“W-Well, I'm popular, right? That sorta stuff happens every day......”
@@ -446,7 +446,7 @@
 「じゃあ、アタシはその何倍も好きだよ～」=“Well, I like you many times over～”
 「ちょっとだけ目つぶってて」=“Close your eyes for a sec.”
 「……？　これでいいの？」=“......? Like this?”
-「チュ……っ。だーい好き」=*Smooch......* 「I loooove you.」
+「チュ……っ。だーい好き」=*Smooch......* “I loooove you.”
 「[P]くん……大好き」=“[P]-kun...... I love you.”
 「俺もだよ」=“I love you too.”
 「もう絶対離してあげないんだから、覚悟しててよ？」=“I'm absolutely not gonna give you up, but you're ready for that, right?”
