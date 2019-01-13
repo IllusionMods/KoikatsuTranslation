@@ -400,7 +400,7 @@
 //「デートの遅刻って何分まで許せる？」=
 //「何分でも待つぞ……ただし、10分超えたらお仕置きだな！　クククッ……」=
 //「我を待たせるとは言語道断！　ククッ、冗談だぞ……」=
-「二人の間で、どうしてもこれだけは許せないことってある？」=Between us two, what is the one thing you wouldn't forgive no matter what?
+「二人の間で、どうしてもこれだけは許せないことってある？」=“Between the two of us, what is the one thing you wouldn't forgive no matter what?”
 //「ふむ……汝と会えなくなること……だ」=
 //「浮気……だな。もしやったら……汝の顔面にパンチをお見舞いするぞ」　=
 「二人でインドアもなかなか楽しいよね！」=“We should head inside and have some fun!”

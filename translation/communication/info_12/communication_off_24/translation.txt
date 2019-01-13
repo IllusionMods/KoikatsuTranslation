@@ -198,7 +198,7 @@
 //「私の中に入ってきてくれれば、教えてあげられるんですけれど♡」=
 「結婚願望ってある？」=“Do you want to get married?”
 「うふふ♡　それってプロポーズですよね♡　私、きっといい奥さんになりますね♡」=“Uhufu♡ Is that a proposal?♡ I will surely be a good wife♡”
-「あなたと一生一緒にいられるなら、結婚できなくてもいいです♡」=“If I can be with you forever, I wouldn't be able to say no♡”
+「あなたと一生一緒にいられるなら、結婚できなくてもいいです♡」=“As long as I can be with you forever, it doesn't matter if we're married♡”
 「俺のこと好き？」=“Do you like me?”
 //「大好きです♡　好きすぎて好きです♡　うふふ♡　好きなんです♡　あなたのことが♡」=
 //「好きというより、愛しています♡　一緒に死にたいです♡」=
