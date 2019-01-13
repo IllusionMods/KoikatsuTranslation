@@ -8,8 +8,6 @@ These translations require the latest build of BepisPlugins since they rely on c
 2. Press the green "Clone or download" button above and click "download zip"  
 2. Extract the zip and merge the Translation folder with the one in your BepInEx folder.  
 
-Note: With the latest BepisPlugins build and all the H translations H scenes will take a long time to load. Remove or rename all the H translations folder until I fix this.
-
 ## Contribution
 There are over 161024 unique lines of text that need translation and any help is appreciated. Regardless of your translation skill and Japanese knowledge you can still help with translations. Even if you have no experience you can help by using Google translate or other translation services and then cleaning up the translation using sanity and a bit of logic. Absolutely no raw machine translations will be accepted, users can use [XUnity.AutoTranslator](https://github.com/bbepis/XUnity.AutoTranslator/releases) for that. These translations serve as a midway point between machine translation and proper, skilled translations.  
 
