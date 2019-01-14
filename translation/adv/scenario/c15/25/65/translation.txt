@@ -1,3 +1,3 @@
-//「この街にはもう慣れたのか？　よかったらキミを色んなとこに案内したいなー」=
-//「ありがとう。でも、学園帰りで疲れてない？」=
-//「ぜーんぜん、むしろここからが本番！　だろー？」=
+「この街にはもう慣れたのか？　よかったらキミを色んなとこに案内したいなー」=“Have you gotten used to this town already? Would you like me to show you around?”
+「ありがとう。でも、学園帰りで疲れてない？」=“Thanks, but aren't you tired from school?”
+「ぜーんぜん、むしろここからが本番！　だろー？」=“Not at all, in fact I'm getting even more excited! Right?”

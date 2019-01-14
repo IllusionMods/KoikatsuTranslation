@@ -1,8 +1,8 @@
-//………………=
-//…………=
-//……=
-//「もうここまで来ちゃったぞ……寂しいけど、また今度だな」=
-//「……時間あるなら、家に来ない？　[H]ともっと一緒にいたいんだ」=
-//「時間あるある！　あたしもまだキミと離れたくないぞ！」=
-//「そうだね。また今度。それじゃ……」=
-//「うん、じゃーねー」=
+………………=.........
+…………=......
+……=...
+「もうここまで来ちゃったぞ……寂しいけど、また今度だな」=“It's already time to go, huh... I feel lonely, but see you next time!”
+「……時間あるなら、家に来ない？　[H]ともっと一緒にいたいんだ」=“...If you have the time, won't you come to my home? I spend more time with you.”
+「時間あるある！　あたしもまだキミと離れたくないぞ！」=“I have time! I don't want to leave you just yet!”
+「そうだね。また今度。それじゃ……」=“I see. Maybe next time. See you later...”
+「うん、じゃーねー」=“Yeah, bye～”

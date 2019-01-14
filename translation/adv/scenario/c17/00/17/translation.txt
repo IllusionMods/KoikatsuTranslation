@@ -1,4 +1,4 @@
-「んーっ、よく寝た。……あれ？　メモがある。なになに――」=「Hmm, I slept really well. Hm? A memo? Let's see...」
+「んーっ、よく寝た。……あれ？　メモがある。なになに――」=“Mmm, I slept well. ...Oh? There's a letter. What's it say...?”
 『[P]くん、おはよう。今日は職員室に用があるから先に行くわ』=『[P]-kun, Morning. I left early because I have stuff to take care of in the staff room.』
 『くれぐれも遅刻はしないように。あと朝食もしっかり摂るようにね』=『Be careful not to be late. Remember to eat your breakfast too.』
 『それじゃまた学園で。あと[P]くん寝言で私の名前何回も呼んでたわよ』=『Well then, I'll see you at school. Also, you said my name many times while you were sleeping.』
