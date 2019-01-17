@@ -91,7 +91,7 @@
 「大丈夫です！　怖くないです！　私も一緒に堕ち……もとい引っ張り込んであげるですからっ！」=“Don't worry! It's not scary! I'll fall... no, drag you down along with meeeee!”
 「やめて！」=“Noooo!”
 全力で拒否するものの、ビラを片手にぐいぐいと迫ってくる。=Even though I'm declining as best as I could, the flyer in front of me just keeps getting ever closer and closer.
-可哀想だと思うのは本音なので、出来れば考えてあげたいけれど……。="I do sincerely sympathize with her, and were things different, would have considered it a thought but..."
+可哀想だと思うのは本音なので、出来れば考えてあげたいけれど……。=“I do sincerely sympathize with her, and were things different, would have considered it a thought but...”
 「このみちゃんの言いたいことも痛いほどよく分かるけど、実は俺――自分も部長やってるんだ。だから掛け持ちはちょっと……」=“I can understand where you're coming, but truth is I'm also a club-president myself. So yeah, I can't just leave it like...”
 「うちの部なら気にしなくてへーきです！　私が正義！　私がルールなのです！」=“No problems, you don't have to worry about trivial stuff in our club! I am justice! I am the law!”
 「もー、先輩ったら、仕方ないですねぇ」=“Come on... Senpai, you really are hopeless.”
