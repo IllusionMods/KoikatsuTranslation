@@ -1,2 +1,2 @@
-//「今日家庭科の授業でケーキ作ったから、[P]くんに味見してほしくてさ～」=
-//「アタシが食べさせてあげよっか？　って、冗談だから！　とにかく後で感想聞かせてね！」=
+「今日家庭科の授業でケーキ作ったから、[P]くんに味見してほしくてさ～」=“I made a cake in Home Economics today, and I want you to taste it, [P]-kun～”
+「アタシが食べさせてあげよっか？　って、冗談だから！　とにかく後で感想聞かせてね！」=“Or would you rather eat me instead? Hey, just joking! But anyway, let me know what you think about it afterwards, 'kay?”

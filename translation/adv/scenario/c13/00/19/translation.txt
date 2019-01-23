@@ -1,1 +1,1 @@
-//「おはよ～。今日も元気そうじゃん」=
+「おはよ～。今日も元気そうじゃん」=“Good morning～ You seem energetic today.”

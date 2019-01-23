@@ -1,1 +1,1 @@
-//「これ今流行ってるやつじゃん！　ありがと～」=
+「これ今流行ってるやつじゃん！　ありがと～」=“This is what's popular right now! Thanks～”
