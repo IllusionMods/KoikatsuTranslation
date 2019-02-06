@@ -1,7 +1,7 @@
-//「ふふっ、君とのおしゃべりがこんなにも楽しいなんてね」=
-//「俺も、まだまだしゃべり足りないよ」=
-//「ねぇ……私たち、なんだかとってもいい関係になれそうじゃない……？」=
-//「えっ、それはどういう……？」=
-//「うふふ、それはね……友達以上……ってコト♪」=
-//（でもその後に恋人未満って続くんだよね、きっと）=
-//「これからの私たちの関係に、乞うご期待♪　じゃあね」=
+「ふふっ、君とのおしゃべりがこんなにも楽しいなんてね」=“Fufu, I would have never thought it would be this much fun talking with you.”
+「俺も、まだまだしゃべり足りないよ」=“Me too, I still want to keep talking.”
+「ねぇ……私たち、なんだかとってもいい関係になれそうじゃない……？」=“Hey... don't you think this could somehow develop into a very good relationship...?”
+「えっ、それはどういう……？」=“Eh, by that you mean...?”
+「うふふ、それはね……友達以上……ってコト♪」=“Ufufu, what I meant was... just as friends... ♪”
+（でもその後に恋人未満って続くんだよね、きっと）=(But afterwards it's going to be closer to being lovers, surely.)
+「これからの私たちの関係に、乞うご期待♪　じゃあね」=“Please look forward to our relationship in the future ♪ See you.”
