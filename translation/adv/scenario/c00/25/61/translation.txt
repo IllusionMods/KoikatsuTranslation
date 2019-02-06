@@ -1,5 +1,6 @@
 「今日は最後まで君のために時間を空けてあるの……♪」=“Today I have all the time for you until the very end... ♪”
 「それじゃ、時間が許す限り一緒にいよう」=“Well then, let's stay together as long as time allows.”
+「ええ♪」=“Yes ♪”
 「ケーキが来たわ。はい、あーん♪」=“The cake came. Say ah ♪”
 「ちょっと……恥ずかしいってば」=“Wait... It's embarrassing.”
 「もう、いいじゃない。私たち、どこからどう見てもデート中のカップルなんだし♪」=“Geez, isn't it fine? No matter how you look at it, we look like a couple on a date ♪”
