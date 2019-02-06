@@ -1,7 +1,7 @@
-//「すぅ……すぅ……ん、んん……」=
-//（ううん、何だか下半身に違和感が……？）=
-//「…………」=
-//「って……え？　え？」=
-//「どう？　気持ち、いい？」=
-//「え？　あ、凄く気持ちいいよ……じゃなくて、何して……？」=
-//「うふふ♡　無防備に寝てたから襲っちゃった♪」=
+「すぅ……すぅ……ん、んん……」=“Zzz... Zzz... N-nnn...”
+（ううん、何だか下半身に違和感が……？）=(No, somehow I feel that there's soemthing weird with my crotch...?)
+「…………」=“... ... ...”
+「って……え？　え？」=“Huh... eh? Eh?”
+「どう？　気持ち、いい？」=“So? Does it feel good?”
+「え？　あ、凄く気持ちいいよ……じゃなくて、何して……？」=“Eh? Ah, it feels really good... But not that, what are you doing...?”
+「うふふ♡　無防備に寝てたから襲っちゃった♪」=“Ufufu ♡ I ended up attacking you because you were sleeping so defencelessly.”
