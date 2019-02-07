@@ -11,7 +11,12 @@ These translations require the latest build of BepisPlugins since they rely on c
 ## Contribution
 There are over 161024 unique lines of text that need translation and any help is appreciated. Regardless of your translation skill and Japanese knowledge you can still help with translations. Even if you have no experience you can help by using Google translate or other translation services and then cleaning up the translation using sanity and a bit of logic. Absolutely no raw machine translations will be accepted, users can use [XUnity.AutoTranslator](https://github.com/bbepis/XUnity.AutoTranslator/releases) for that. These translations serve as a midway point between machine translation and proper, skilled translations.  
 
-The goal of this translation project is to provide passable translations for any text not already translated by the [main translation project](https://github.com/bbepis/KoikatsuTranslation)
+The goal of this translation project is to provide passable translations for any text not already translated by the [main translation project](https://github.com/bbepis/KoikatsuTranslation)  
+
+Status:  
+Opening - Complete  
+c00 (Sexy) - In progress  
+c13 (Gyaru) - Mostly complete  
 
 ## Tools
 These tools can help you make sense of the raw Japanese and the machine translations:  
