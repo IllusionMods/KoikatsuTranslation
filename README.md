@@ -15,8 +15,8 @@ The goal of this translation project is to provide passable translations for any
 
 Status:  
 Opening - Complete  
-c00 (Sexy) - In progress  
-c13 (Gyaru) - Mostly complete  
+c00 (Sexy) - In progress by ShadowTsuki  
+c13 (Gyaru) - Mostly complete by DarkPulse  
 
 ## Tools
 These tools can help you make sense of the raw Japanese and the machine translations:  
