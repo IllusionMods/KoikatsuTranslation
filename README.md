@@ -17,3 +17,11 @@ When you have translations to submit [fork the repository](https://help.github.c
 Coordinate with other translators on the [Koikatsu Discord](https://discord.gg/urDt8CK) lingual-studies channel.
 
 If you have any questions or suggestions, ask on the Koikatsu Discord.
+
+## Credits
+- ManlyMarco / MarC0 (image cleaning and translation, current maintainer, DynamicTranslationLoader development)
+- CrazeDazeD (studio image cleaning and translation)
+- BadOne (translation)
+- Newmaxd (NMX) (image cleaning and translation)
+- Lucifer (hosting/project start, organization)
+- Leveltree (image cleaning and translation, first translation)
