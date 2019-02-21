@@ -6,6 +6,8 @@ namespace ReleaseTool
 {
     internal static class ReleaseTool
     {
+        private static TextWriter _originalOut;
+
         private static void Main(string[] args)
         {
             if (args.Length == 1 && !string.IsNullOrWhiteSpace(args[0]) && args[0].TrimEnd('\\').EndsWith("\\translation"))
@@ -16,14 +18,14 @@ namespace ReleaseTool
                     Console.ForegroundColor = ConsoleColor.Yellow;
                     Console.WriteLine("Beginning release creation!");
 
-                    var originalOut = Console.Out;
+                    _originalOut = Console.Out;
                     var detailsPath = Path.Combine(Environment.CurrentDirectory, "results.txt");
                     Console.SetOut(new StreamWriter(detailsPath));
 
                     var result = ScanResursively(root);
 
                     Console.Out.Flush();
-                    Console.SetOut(originalOut);
+                    Console.SetOut(_originalOut);
 
                     Console.ForegroundColor = ConsoleColor.Green;
                     Console.WriteLine($"Creating release done, {result.GetPercent() * 100:F3}% completed.");
@@ -61,7 +63,7 @@ namespace ReleaseTool
                 catch (Exception e)
                 {
                     Console.ForegroundColor = ConsoleColor.Red;
-                    Console.WriteLine(e.Message);
+                    _originalOut.WriteLine(e.Message);
                 }
 
                 //var percentage = (float)translatedLines.Length / (float)lines.Length;
@@ -90,7 +92,7 @@ namespace ReleaseTool
                 catch (Exception e)
                 {
                     Console.ForegroundColor = ConsoleColor.Red;
-                    Console.WriteLine(e.Message);
+                    _originalOut.WriteLine(e.Message);
                 }
             }
 
