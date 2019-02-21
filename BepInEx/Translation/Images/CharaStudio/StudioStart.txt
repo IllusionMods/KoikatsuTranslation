@@ -1,0 +1,1 @@
+sp_sn_61_00_00=StudioStart/sp_sn_61_00_00.png
