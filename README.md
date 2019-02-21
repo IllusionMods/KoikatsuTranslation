@@ -1,6 +1,6 @@
-# KoikatsuTranslation
-
-This is an English-language translation of the Illusion eroge [Koikatsu.](http://illusion.jp/preview/koikatu/) This project only translates images. For text check [bbepis/KoikatsuTranslation](https://github.com/bbepis/KoikatsuTranslation) and [DeathWeasel1337/Koikatsu-Translations](https://github.com/DeathWeasel1337/Koikatsu-Translations).
+![preview](https://user-images.githubusercontent.com/39247311/53176845-2ecaa880-35ef-11e9-87eb-884927b77510.png)
+# Koikatsu! Image Translation
+This is an English-language translation of the Illusion eroge [Koikatu](http://illusion.jp/preview/koikatu/). This project only translates images. For text check [bbepis/KoikatsuTranslation](https://github.com/bbepis/KoikatsuTranslation) and [DeathWeasel1337/Koikatsu-Translations](https://github.com/DeathWeasel1337/Koikatsu-Translations).
 
 This plugin uses [BepInEx](https://github.com/BepInEx/BepInEx) and [BepisPlugins for Koikatsu](https://github.com/bbepis/BepisPlugins) to translate images in the game without modifying any game files,
 
