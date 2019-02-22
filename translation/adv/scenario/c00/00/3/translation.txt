@@ -1,3 +1,3 @@
-//「そういえば一緒に帰るのは初めてよね。もちろん、いいわよ」=
-//「なんかちょっと緊張するね……」=
-//「うふふっ、その反応、カワイイ♪　肩の力抜いて。さ、帰りましょ」=
+「そういえば一緒に帰るのは初めてよね。もちろん、いいわよ」=“Now that I think about it, it's the first time we walked home together. Of course, it's okay.”
+「なんかちょっと緊張するね……」=“Somehow I'm feeling a bit nervous now...”
+「うふふっ、その反応、カワイイ♪　肩の力抜いて。さ、帰りましょ」=“Ufufu, that reaction, it's cute ♪ Don't be so tense. Now, let's go home.”

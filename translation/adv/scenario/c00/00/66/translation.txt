@@ -1,5 +1,5 @@
-//「ねぇ、これからちょっと寄り道して、ゆっくり休憩できるトコロへ行かない？」=
-//「えっ……」=
-//「美味しいパンケーキを出してくれる喫茶店があるの。……もしかして、別のこと期待しちゃった？」=
-//「そ、そんなことは……それじゃ早くお店行こう！」=
-//「うふふっ……そうね」=
+「ねぇ、これからちょっと寄り道して、ゆっくり休憩できるトコロへ行かない？」=“Hey, can we take a little detour, and take a short break over there?”
+「えっ……」=“Eh...”
+「美味しいパンケーキを出してくれる喫茶店があるの。……もしかして、別のこと期待しちゃった？」=“There's a coffee shop that serves delicious pancakes... Don't tell me, you were expecting something else?”
+「そ、そんなことは……それじゃ早くお店行こう！」=“T-that's not... Then let's hurry to that shop!”
+「うふふっ……そうね」=“Ufufu... Right.”

@@ -1,4 +1,4 @@
-//「またやけに突然ね……」=
-//「無茶なこと言ってるって、わかってるんだ。でも……」=
-//「……散々君のことあおったのは、私だもんね」=
-//「いいわ。そこから新しく始まる関係だってあるかもしれないし……♪」=
+「またやけに突然ね……」=“You're doing something awful again...”
+「無茶なこと言ってるって、わかってるんだ。でも……」=“I know what I'm saying is unreasonable, I understand, but...”
+「……散々君のことあおったのは、私だもんね」=“...It's my fault for neglecting you, that you're acting this way.”
+「いいわ。そこから新しく始まる関係だってあるかもしれないし……♪」=“Alright. From here on out, let's restart out relationship, it might be a good thing... ♪”

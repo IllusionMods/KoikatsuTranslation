@@ -1,5 +1,5 @@
-//「あの……それ……冗談、じゃないわよね？」=
-//「もちろん、本気の言葉だよ。これが俺の気持ち」=
-//「いつからそう思ってたの？　……ううん、今はそんなことどうだってよくて」=
-//「俺の彼女になってください！」=
-//「あぁ……夢みたい……。……私でよければ、ぜひ！」=
+「あの……それ……冗談、じゃないわよね？」=“Um... You're... not joking, right?”
+「もちろん、本気の言葉だよ。これが俺の気持ち」=“Of course, I'm being serious. These are my true feelings.”
+「いつからそう思ってたの？　……ううん、今はそんなことどうだってよくて」=“Since when did you start thinking of me that way? ...No, that doesn't matter right now.”
+「俺の彼女になってください！」=“Please be my girlfriend!”
+「あぁ……夢みたい……。……私でよければ、ぜひ！」=“Ahh... This is like a dream... If you're fine with me, then by all means!”

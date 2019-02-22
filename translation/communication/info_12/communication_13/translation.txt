@@ -179,7 +179,7 @@
 「やっほ～、コイカツ部は順調？」=“Yoo-hoo～ How's the Koikatsu Club doing?”
 「んん～っ、やっとお昼～。疲れたね～」=“Mmm～ Finally, lunchtime～ I'm so worn out, y'know～?”
 「今日も1日お疲れ様～、ってまだまだ元気そうじゃん～」=“Good work today too～ You seem to be hanging in there～”
-「わわっ！ びっくりした～。あは、アタシにイタズラしたの？」 =“Wawaah! You scared me～ Aha, you playing tricks on me?”
+「わわっ！ びっくりした～。あは、アタシにイタズラしたの？」=“Wawaah! You scared me～ Aha, you playing tricks on me?”
 「ん？　アタシの事呼んだ？」=“Hm? Were you looking for me?”
 「本とかはよく読むの？」=“Do you read lots of books?”
 「そうだね～。けっこう読んでる方じゃないかな～」=“Sure do～ Maybe no one can keep up with me in reading～”
