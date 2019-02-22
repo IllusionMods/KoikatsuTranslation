@@ -26,9 +26,9 @@
 Ｂ型=Type B
 
 // Nicknames screen
-～ 個別指定した愛称を呼んでくれる子 ～=～ Assign her Nickname for you ～
-～ プレイヤーの名前 ～=～ Player's name ～
-～ プレイヤーの愛称 ～=～ Player Nickname ～
+～ 個別指定した愛称を呼んでくれる子 ～=～ Assign her nickname for you ～
+～ プレイヤーの名前 ～=～ Player's Name ～
+～ プレイヤーの愛称 ～=～ Player's Nickname ～
 個別指定をしない=Don't specify individually
 名：=Name:
 姓：=Surname:
