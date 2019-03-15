@@ -4,7 +4,7 @@ English translation project for Koikatsu
 ## Installation
 These translations require the latest build of BepisPlugins since they rely on changes made to DynamicTranslationLoader not yet available in the current BepisPlugins release.
 
-1. Install the [latest BepisPlugins build](http://bepisbuilds.dyn.mk/bepis_plugins)  
+1. Install [BepInEx](https://github.com/BepInEx/BepInEx/releases) and [BepisPlugins](https://github.com/bbepis/BepisPlugins/releases)
 2. Press the green "Clone or download" button above and click "download zip"  
 2. Extract the zip and merge the Translation folder with the one in your BepInEx folder.  
 
@@ -15,8 +15,8 @@ The goal of this translation project is to provide passable translations for any
 
 Status:  
 Opening - Complete  
-c00 (Sexy) - In progress by ShadowTsuki  
-c13 (Gyaru) - Mostly complete by DarkPulse  
+c00 (Sexy), c29 (Humble) - Scenario and Communication in progress by ShadowTsuki  
+c13 (Gyaru) - Scenario and Communication mostly complete by DarkPulse  
 
 ## Tools
 These tools can help you make sense of the raw Japanese and the machine translations:  
