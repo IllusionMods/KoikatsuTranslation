@@ -1,11 +1,11 @@
 「それではこれより、式を執り行います」="Now then, let's do the ceremony."
 「新たなご出発の証として、お二人には誓いの言葉を立てていただきます」="As a token of your newfound relations, we invite the two of you to take your oaths."
-（牧師さんは本物なのかな。すごく手が込んでるな）=(Has this pastor hosted events in the past? He seems like he knows what he is doing."
+（牧師さんは本物なのかな。すごく手が込んでるな）=(Has this pastor hosted events in the past? He seems like he knows what he is doing.)
 「[P名]さん、あなたはこの女性とお付き合いし、より親密な関係になろうとしております」="Do you, [P名], take this woman to be your wedded wife 'til your games be over?"
 「あなたは健康なときも、そうでないときも、お互いの気持ちが続く限り――」="Through sickness, and in health, your feelings for one another shall go through thick and thin--"
 「この人を守り、笑顔を絶やすことなく幸せにすることを誓いますか？」="Do you pledge to protect this person, and make them happy for the rest of their days?"
 「はい、誓います」="Yes, I do."
-「[H名]さん、あなたはこの男性とお付き合いし、より親密な関係になろうとしております」=Do you, [H名], take this man to be your wedded husband 'til your games be over?
+「[H名]さん、あなたはこの男性とお付き合いし、より親密な関係になろうとしております」="Do you, [H名], take this man to be your wedded husband 'til your games be over?"
 「……はい、誓います」="...Yes, I do."
 「それでは、二人の愛の証として、誓いのキスをお願いします」="Then, by the power invested in me, you may kiss to finish the oath."
 「緊張してる？」="Are you nervous at all?"
