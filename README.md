@@ -20,6 +20,8 @@ c00 (Sexy), c29 (Humble) - Scenario and Communication in progress by ShadowTsuki
 c13 (Gyaru) - Scenario and Communication mostly complete by DarkPulse  
 
 ## Tools
+[KK_TranslationSync](https://github.com/DeathWeasel1337/KK_Plugins#kk_translationsync) is a plugin for formatting and copy/pasting translations between files when there are duplicate entries.
+
 These tools can help you make sense of the raw Japanese and the machine translations:  
 
 [Yomichan](https://foosoft.net/projects/yomichan/)  
