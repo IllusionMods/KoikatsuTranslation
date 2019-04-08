@@ -1,7 +1,7 @@
-//「あの……」=
-//「何？　この私に何か用かしら？　手短に済ませて」=
-//「えっ、あっ、うん！　えっと、俺の名前は……」=
-//「知っているから言わなくていい。私は手短にと言ったわ。早く本題に入りなさい」=
-//「あっ、うん。えっと……それじゃあ……」=
-//「はぁ、何をモタモタしているの？　男というのは処理能力が低いのかしら？　正直、期待外れね」=
-//（うわ、このままじゃマズイぞ……早く何か話さないと！）=
+「あの……」=''Um..."
+「何？　この私に何か用かしら？　手短に済ませて」=''Hm? What do you want?''
+「えっ、あっ、うん！　えっと、俺の名前は……」=''Err... oh, yeah! Well, my name is...''
+「知っているから言わなくていい。私は手短にと言ったわ。早く本題に入りなさい」=''I know, you don't have to say it. I said it briefly. Get to the point already''
+「あっ、うん。えっと……それじゃあ……」=''Ah, yeah. Uhh... So...''
+「はぁ、何をモタモタしているの？　男というのは処理能力が低いのかしら？　正直、期待外れね」=''Huh? What are you mumbling about? Is boys' processing power too low? Honestly, what a disappointment.''
+（うわ、このままじゃマズイぞ……早く何か話さないと！）= (Uhh, this is bad... I need to say something!)

@@ -1,8 +1,8 @@
-//「は？　そんな得体の知れない部活に、私が入るわけないでしょ」=
-//「そこを何とか！　ほら、入ってみれば自ずとわかるし……」=
-//「それでは手遅れでしょう。家畜小屋に自ら入るなんて、どうかしてるわ」=
-//「か、家畜小屋にもいいところはあるよ？」=
-//「へぇ、例えば？　一回だけチャンスをあげるわ。私に興味を持たせてみなさい」=
-//「えっと、ほら……家畜小屋に[H名]さんが来たら、家畜は全部、[H名]さんのものだよ！」=
-//「確かに、その通りね。フフッ、中々面白そうじゃない。いいわ、コイカツ部、入ってあげる」=
-//（勢いで凄い事言っちゃったけど……まぁなんとかなる……よね？）=
+「は？　そんな得体の知れない部活に、私が入るわけないでしょ」=''What? There's no way I'll join a mysterious club like this!''
+「そこを何とか！　ほら、入ってみれば自ずとわかるし……」=''Please reconsider! If you join, it won't be mysterious anymore!''
+「それでは手遅れでしょう。家畜小屋に自ら入るなんて、どうかしてるわ」=''Then it'll be too late, right? Thinking that I myself will enter a livestock shed, you gotta be crazy.''
+「か、家畜小屋にもいいところはあるよ？」=''L-livestock shed also has its good places you know?''
+「へぇ、例えば？　一回だけチャンスをあげるわ。私に興味を持たせてみなさい」=''Oh really? For example? I'll give you one chance. Arouse my interest.''
+「えっと、ほら……家畜小屋に[H名]さんが来たら、家畜は全部、[H名]さんのものだよ！」=''Um, so... If Miss [H名] comes to a shed, all livestock belongs to miss [H名]!''
+「確かに、その通りね。フフッ、中々面白そうじゃない。いいわ、コイカツ部、入ってあげる」=''In fact, that's exactly how it is. Fufu, it's getting quite interesting. Alright, I'll join Koikatsu Club.''
+（勢いで凄い事言っちゃったけど……まぁなんとかなる……よね？）=(I said some crazy stuff there, but... It'll work out somehow... right?)

@@ -1,8 +1,8 @@
 ………………=.........
 …………=......
 ……=...
-//「下僕の家はこの辺りだったわね。荷物持ちご苦労様。もういいわよ、返しなさい」=
-//「もう少し一緒にいられないかな？　俺の家まで、荷物持つよ」=
-//「そうねぇ、荷物持ちのご褒美もあげないといけないし……フフッ、いいわよ」=
-//「うん、わかった。気を付けて帰ってね。じゃあ、また」=
-//「あら、下僕に心配されてしまったわ。フフッ、貴方こそ愚図なんだから、気を付けて帰りなさい」=
+「下僕の家はこの辺りだったわね。荷物持ちご苦労様。もういいわよ、返しなさい」=''Your house was somewhere in this area, right? Thanks for holding my bags. It's okay, you can give them back.''
+「もう少し一緒にいられないかな？　俺の家まで、荷物持つよ」=''Can we stay together for a bit more? I'll hold on to your things.''
+「そうねぇ、荷物持ちのご褒美もあげないといけないし……フフッ、いいわよ」=''Hmm, I also need to reward you for holding them... Fufu, okay.''
+「うん、わかった。気を付けて帰ってね。じゃあ、また」=''Got it. Be careful on your way home. See you.''
+「あら、下僕に心配されてしまったわ。フフッ、貴方こそ愚図なんだから、気を付けて帰りなさい」=''Heh, I made my manservant worry about me. Fufu, you're usually a dullard so be careful as well.''
