@@ -1,0 +1,6 @@
+「ほら、もうすぐ退室時間よ。手早く掃除しなさい」=''Hey, it's almost time to exit the room. Make a quick cleanup.''
+「わぁ、ホントだ！　あと３分も無いよ！　[H名]さんも手伝って！」=''Waah, it's true! We have 3 minutes left! Miss [H名], help me too!''
+「は？　嫌よ。無駄に口を開く暇があるなら、匂いとかにも気を付けなさい。結構わかるものよ？」=''Huh? No. If you have time to open your mouth, take care of the smell too, got it?''
+「うぅ……匂いかぁ……[H名]さん、消臭スプレーとか持ってたりしない？」=''Uu... The smell, huh... Miss [H名], don't you have a deodorant?''
+「ええ、それならあるわよ。貴方が臭いから、持ち歩くようにしているの」=''Yes, I do. You stink, so I always have it with me.''
+「ぐっ、理由を聞くと複雑だけど……まぁ、とにかく貸してもらっていい？」=''Guh, I have mixed feelings after seeing the reasoning, but... Anyway, would you lend it to me?''
