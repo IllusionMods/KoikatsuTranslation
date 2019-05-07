@@ -1,2 +1,2 @@
-//「……[P]、家庭科でスイートポテト作った。食べて」=
-//「たぶんおいしい……と、思う……。感想を聞かせてくれるとうれしい……」=
+﻿「……[P]、家庭科でスイートポテト作った。食べて」="...[P], I made some boiled potatoes in home economics. Eat up."
+「たぶんおいしい……と、思う……。感想を聞かせてくれるとうれしい……」="I thought they were delicious... But... I'd be glad to hear what you have to say."
