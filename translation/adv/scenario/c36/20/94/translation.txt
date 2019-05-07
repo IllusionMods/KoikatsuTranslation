@@ -1,7 +1,7 @@
-//「すぅ……すぅ……ん、んん……」=
-//（ううん、何だか下半身に違和感が……？）=
-//「…………」=
-//「って……え？　え？ [H名]さん？」=
-//「あら、ようやく起きたのね。寝ていてもピクピク反応する貴方、面白かったわよ」=
-//「面白いって……また何でこんな事を……」=
-//「特に理由なんてないわ。気持ちよさそうに寝ていたから、邪魔したくなっただけよ」=
+「すぅ……すぅ……ん、んん……」="Zzz...Zzz...N, nn..."
+（ううん、何だか下半身に違和感が……？）="Uummm, my lower part of body feels strange."
+「…………」=............
+「って……え？　え？ [H名]さん？」="E...Eh? Ehh? Miss [H名]?"
+「あら、ようやく起きたのね。寝ていてもピクピク反応する貴方、面白かったわよ」="Oh, you finally woke up. It's funny how yours was twitching even though you were asleep."
+「面白いって……また何でこんな事を……」="F-funny... Why are you..."
+「特に理由なんてないわ。気持ちよさそうに寝ていたから、邪魔したくなっただけよ」="There's no special reason. You were sleeping so peacefully, it made me want to disturb it a little."
