@@ -1,4 +1,4 @@
-//「待ちなさい。この私に、豚と交尾しろと言うの？」=''Wait. You want me to mate with a pig?''
-//「う、うん……豚にも性欲はあるから……しょ、処理して欲しいなぁって……」=''Y-yes... A pig also has a sexual desire, so... I-if you're okay with it...''
-//「ふぅん、そんなに情けない顔で見つめられたら、苛めて泣かせたくなるじゃない」=''Humph, that miserable face of yours makes me want to torment and make you cry.''
-//「いいわ。特別に豚の性欲処理を手伝ってあげる。はぁ、家畜の世話って大変ね」=''Alright. I'll make an exeption and take care of pig's sexual urges. *Sigh* taking care of livestock sure is hard.''
+「待ちなさい。この私に、豚と交尾しろと言うの？」="Wait. Do you want me to mate with a pig?"
+「う、うん……豚にも性欲はあるから……しょ、処理して欲しいなぁって……」="Y-yes... A pig also has a sexual desire, so... I-if you're okay with it..."
+「ふぅん、そんなに情けない顔で見つめられたら、苛めて泣かせたくなるじゃない」="Hmmm, that miserable face of yours makes me want to torment and make you cry."
+「いいわ。特別に豚の性欲処理を手伝ってあげる。はぁ、家畜の世話って大変ね」="Alright. I'll take a special care of pig's sexual urges. *Sigh* looking after livestock sure is hard."

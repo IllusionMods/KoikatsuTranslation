@@ -1,2 +1,2 @@
-「いい所にいたわね。家庭科でクッキーを作ったのだけれど、最初に失敗してしまってね」=''Oh, great that you're here. I've made cookies in home economics, but they didn't come out right on first try.''
-「捨てるのも勿体なかったから、あげるわ。黒コゲだけど、貴方が食べている餌よりはマシでしょう？」=''It'd be a waste to throw them away, so here. It's better than the fodder you usually eat, right?''
+「いい所にいたわね。家庭科でクッキーを作ったのだけれど、最初に失敗してしまってね」="Oh, great that you're here. I've made cookies in home economics, but they didn't come out right on first try."
+「捨てるのも勿体なかったから、あげるわ。黒コゲだけど、貴方が食べている餌よりはマシでしょう？」="It'd be a waste to throw them away, so here. It's better than the fodder you usually eat, right?"

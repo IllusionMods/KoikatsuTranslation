@@ -1,5 +1,4 @@
-「デートで公園ね。定番と言えば定番だけど。それで、ここで何をするのかしら？」=''A date at the park huh. The most standard of places. So, what are we going to do here?''
-「えっ、それは散歩とか……話とか。あー、ほら！　出店が出てる！　行ってみようよ！」=''Umm, stroll around, talk... Ah, look! There's a food stand! Let's go!''
-「クレープ、美味しかったね」=''That crêpe was pretty delicious.''
-「フフッ、クレープに救われたわね。おかげで少しは楽しめたわ。
-」=''Fufu, saved by a crêpe. Thanks to that I was able to have some fun. Make sure to show your gratitude later.''
+「デートで公園ね。定番と言えば定番だけど。それで、ここで何をするのかしら？」="A date at the park huh. The most standard of places. So, what are we going to do here?"
+「えっ、それは散歩とか……話とか。あー、ほら！　出店が出てる！　行ってみようよ！」="Umm, stroll around, talk... Ah, look! There's a food stand! Let's go!"
+「クレープ、美味しかったね」="That crêpe was pretty delicious."
+「フフッ、クレープに救われたわね。おかげで少しは楽しめたわ。」="Fufu, saved by a crêpe. Thanks to that I was able to have some fun. Make sure to show your gratitude later."

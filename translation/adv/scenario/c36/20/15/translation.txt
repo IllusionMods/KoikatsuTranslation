@@ -1,2 +1,2 @@
-「あら、ようやくお目覚め？　貴方が惰眠を貪っているから、勝手にシャワーを借りたわよ」=''Oh, you finally woke up? You were sleeping like a log, so I borrowed a shower.''
-「残念だったわね、もう少し早く起きれば覗けたのに。最も、そんな事をしたらタダではすまないけど」=''What a pity, right? If you have woken up just a little bit earlier, you could peek some. If you did, however, then of course it would be inexcusable, so...''
+「あら、ようやくお目覚め？　貴方が惰眠を貪っているから、勝手にシャワーを借りたわよ」="Oh, you finally woke up? You were sleeping like a log, so I borrowed a shower."
+「残念だったわね、もう少し早く起きれば覗けたのに。最も、そんな事をしたらタダではすまないけど」="What a pity, right? If you have woken up just a little bit earlier, you could peek some. If you did, however, then of course it would be inexcusable, so..."

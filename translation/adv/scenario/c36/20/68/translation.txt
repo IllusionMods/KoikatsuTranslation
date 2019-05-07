@@ -1,6 +1,6 @@
 ………………=.........
 …………=......
 ……=...
-「さて、この辺でお別れかしら。帰り道の退屈凌ぎにはなったわ」=''Well, shall we part here? That was a nice way to stave off boredom.''
-「よかった。まったく役立たずだったわけではないんだね。じゃあまた」=''I'm glad then. That means I'm not completely useless, right? Good bye then.''
-「フッ、呆れる程にポジティブね。それじゃあ」=''Hah, you're surprisingly positive. Well then, see you.''
+「さて、この辺でお別れかしら。帰り道の退屈凌ぎにはなったわ」="Well, shall we part here? That was a nice way to stave off boredom."
+「よかった。まったく役立たずだったわけではないんだね。じゃあまた」="I'm glad then. That means I'm not completely useless, right? Good bye then."
+「フッ、呆れる程にポジティブね。それじゃあ」="Hah, you're surprisingly positive. Well then, see you."

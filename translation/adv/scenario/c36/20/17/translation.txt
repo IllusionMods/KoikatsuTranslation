@@ -1,3 +1,3 @@
-『下僕へ。おはよう、本当は叩き起こそうと思ったけれど、やめておいてあげたわ。感謝しなさい』=''To my servant. Good morning. I thought of waking you up, but changed my mind. Be thankful.''
-『貴方の惰眠に付き合うほど暇ではないから、先に出るわ。後で謝罪に来る事、絶対よ』=''I don't have time for your indolence, so I went on first. Make sure you'll come apologize to me later.''
-『学園で待ってるわ。来なかったら死んだと思うから、そのつもりで。　貴方のご主人様[H名前]より』=''I'm waiting at school. If you don't come, I'll think you died. I mean it.''
+『下僕へ。おはよう、本当は叩き起こそうと思ったけれど、やめておいてあげたわ。感謝しなさい』="To my servant. Good morning. I thought of waking you up, but changed my mind. Be thankful."
+『貴方の惰眠に付き合うほど暇ではないから、先に出るわ。後で謝罪に来る事、絶対よ』="I don't have time for your indolence, so I went on first. Make sure you'll come apologize to me later."
+『学園で待ってるわ。来なかったら死んだと思うから、そのつもりで。　貴方のご主人様[H名前]より』="I'm waiting at school. If you don't come, I'll think you died. I mean it."

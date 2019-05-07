@@ -1,5 +1,5 @@
-「のどかなものね。公園というのは、ゆっくり時間が流れている気がするわ」=''So tranquil. A park is a place where you can feel the passage of time, huh.''
-「もしかして、公園好き？」=''Does that mean you like parks?''
-「はぁ、短絡的ね。好きとか嫌いではないわ、情緒があると言いたかったのよ」=''Huh? You're too hasty. It's not about liking or hating. What I wanted to say was, there is a certain atmosphere to it.'' 
-「あはは……それはなんか、雰囲気を壊してごめん」=''Ahaha... Sorry for ruining the mood''
-「貴方は全てが単純そうでいいわね。悩みとかあるのかしら？　どうせ、くだらない事でしょうけど」=''You think that everything is simple huh? Do you even have any worries? At best, about some stupid things, right?''
+「のどかなものね。公園というのは、ゆっくり時間が流れている気がするわ」="So tranquil. A park is a place where you can feel the passage of time, huh."
+「もしかして、公園好き？」="Does that mean you like parks?"
+「はぁ、短絡的ね。好きとか嫌いではないわ、情緒があると言いたかったのよ」="Huh? You're too hasty. It's not about liking or hating. What I wanted to say was, there is a certain atmosphere to it." 
+「あはは……それはなんか、雰囲気を壊してごめん」="Ahaha... Sorry for ruining the mood"
+「貴方は全てが単純そうでいいわね。悩みとかあるのかしら？　どうせ、くだらない事でしょうけど」="You think that everything is simple huh? Do you even have any worries? At best, about some stupid things, right?"

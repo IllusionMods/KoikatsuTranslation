@@ -1,3 +1,3 @@
-「無駄に爽やかね。で、運動って何をする気なの？」=''A complete waste of effort. So, this exercise of yours, what do you intend to do?''
-「おっ、という事は返事はＯＫ？」=''Oh, so the answer is OK?''
-「その返しでＮＯと言いたくなったけど、まぁいいわ。何をするか早く決めなさい」=''I wanted to say NO, but I guess it's okay. Quickly decide what we're going to do.''
+「無駄に爽やかね。で、運動って何をする気なの？」="You sound awfully cheerful. So, this exercise of yours, what do you want to do?"
+「おっ、という事は返事はＯＫ？」="Oh, can I take it for an OK?"
+「その返しでＮＯと言いたくなったけど、まぁいいわ。何をするか早く決めなさい」="I wanted to say no, but I whatever. Quickly decide what we'll do."
