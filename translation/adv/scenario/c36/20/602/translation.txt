@@ -1,6 +1,6 @@
-//「んぶっ！？　えっ、[H名]さん！？」=
-//「はむっ、ちゅっ……ぷぁっ、フフッ、前置きなんていらないわ、すぐにシましょう？」=
-//「う、うん……[H名]さんがいいなら……」=
-//「折角こんな所まで来たのだもの、少し乱れたい気分なの。いい声で鳴かせてあげるわ」=
-//「ぁはは……俺、大丈夫かな？」=
-//「たぶんダメね。私がダメにするもの。ンフッ、そのちょっと怯えた顔、たまらなくそそるわ」=
+「んぶっ！？　えっ、[H名]さん！？」="*Pant*!? Erm, Miss [H名]!?"
+「はむっ、ちゅっ……ぷぁっ、フフッ、前置きなんていらないわ、すぐにシましょう？」="Om, *kiss*... Pah, fufu, I don't need a foreplay, let's do it right now."
+「う、うん……[H名]さんがいいなら……」="Y-yes... If Miss [H名] is okay with it..." 
+「折角こんな所まで来たのだもの、少し乱れたい気分なの。いい声で鳴かせてあげるわ」="We've come all the way here, so I want to go all out. 
+「ぁはは……俺、大丈夫かな？」="Ahaha... I wonder if I'll be okay?"
+「たぶんダメね。私がダメにするもの。ンフッ、そのちょっと怯えた顔、たまらなくそそるわ」="You probably won't. I'll make you break. Hehe, your frightened face is wonderful."

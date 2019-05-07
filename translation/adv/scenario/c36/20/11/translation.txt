@@ -1,5 +1,5 @@
-//「貴方、調子に乗り過ぎたわね。流石に目に余るわ。私の下僕として、相応しくない」=
-//「ぇ……その、相応しくないと……どうなるの？」=
-//「相変わらず理解力が低いわね。下僕から家畜に戻るのよ。いえ、それ以下ね、ただのゴミクズ」=
-//「ま、待って！　俺、反省して、頑張るから！」=
-//「いいえ、待たないわ。惨めに泣いて謝っても無駄。もう何もかも終わりよ。さようなら」=
+「貴方、調子に乗り過ぎたわね。流石に目に余るわ。私の下僕として、相応しくない」="You got way too carried away. Intolerable! You should have behaved appropriately to your role, manservant" 
+「ぇ……その、相応しくないと……どうなるの？」="U-... um, what will happen now that I d-didn't?"
+「相変わらず理解力が低いわね。下僕から家畜に戻るのよ。いえ、それ以下ね、ただのゴミクズ」="You don't get it, do you? You are downgraded to livestock again. No, even lower, just a trash."
+「ま、待って！　俺、反省して、頑張るから！」="W-wait! Please reconsider, I'll change myself!"
+「いいえ、待たないわ。惨めに泣いて謝っても無駄。もう何もかも終わりよ。さようなら」="No, I won't wait. Even if you apologize with a pitiable weeping face, there's no use. It's over. Bye."

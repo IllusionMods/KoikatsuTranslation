@@ -1,5 +1,5 @@
-//「へえ、色々あるんだね」=
-//「そうね、なかなか面白そうな所もあるじゃない。付いてきなさい」=
-//「うん、いいよ」=
-//「フフッ、くだらない所ばかりかと思っていたけど、それなりに楽しめるじゃない」=
-//（よかった、喜んでもらえたみたいだ）=
+「へえ、色々あるんだね」="Hoh, so many different spots..."
+「そうね、なかなか面白そうな所もあるじゃない。付いてきなさい」="Right, there are some quite interesting places. Come with me."
+「うん、いいよ」="Yeah, sure."
+「フフッ、くだらない所ばかりかと思っていたけど、それなりに楽しめるじゃない」="Fufu, I thought there would be only worthless ones."
+（よかった、喜んでもらえたみたいだ）=(Great, looks like she's pleased)
