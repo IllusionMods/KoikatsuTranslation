@@ -272,3 +272,6 @@ sp_h_15_00_21=_ENG_Cursors/sp_h_15_00_21.png
 sp_h_15_00_23=_ENG_Cursors/sp_h_15_00_23.png
 sp_h_15_00_24=_ENG_Cursors/sp_h_15_00_24.png
 sp_h_15_00_25=_ENG_Cursors/sp_h_15_00_25.png
+sp_map_35_00=_ENG/sp_map_35_00.png
+sp_42_00_09=_ENG/sp_42_00_09.png
+sp_42_01_09=_ENG/sp_42_01_09.png
