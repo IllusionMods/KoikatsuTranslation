@@ -123,6 +123,8 @@ BGM=Game BGM
 //Slangy
 //Sadistic
 //Emotionless
+// Emotion Creators Preorder DLC
+//Perfectionist
 養護教諭=School Nurse
 数学教師=Math Teacher
 語学教師(担任)=Lang. Teacher (Homeroom)
@@ -195,7 +197,7 @@ AI:主人公に対する会話、エッチの誘い行動をしない=AI: When s
 AI:主人公に対する会話、エッチの誘いでコミュニケーションシーンに入らない(※3)=AI: When speaking to player, don't invite them into Communication Scenes (※3)
 AI:主人公をエッチに誘いに来る行動の発生頻度(※4)=AI: Frequency of inviting player for sex (※4)
 AI:主人公へ話しかけに来る行動の発生頻度(※4)=AI: Frequency of seeking player to talk to them (※4)
-コミュニケーションシーン中のヒロインからのお誘い発生確率=Chances of Heroine seducing player in Communication Scene
+コミュニケーションシーン中のヒロインからのお誘い発生確率=% Chance of Heroine seducing player in Communication Scene
 ※1　一部のランキングには反映されません。=※1 This is not reflected in some rankings.
 ※2　一部のイベントで演出に矛盾が発生する場合があります。=※2 This may cause contradictions in the flow of events.
 ※3　マップ上にてキャラの頭上に吹き出しアイコンが表示され、近づいて右クリックでシーンが切り替わります。="※3 When a speech bubble appears over the character, right-click them to move to the scene." // Base game version
