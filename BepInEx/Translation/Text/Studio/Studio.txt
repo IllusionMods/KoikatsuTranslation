@@ -165,7 +165,10 @@ r:"^ポイント([0-9]+)$"=r:"Point $1"
 帰国子女=Returnee
 方言娘=Slangy
 Ｓっ気=Sadistic // Studio has to be different here, too...
+Sッ気=Sadistic // ...Then they fixed it.
 無感情=Emotionless
+// Emotion Creators Preorder DLC
+几帳面=Perfectionist
 
 //
 // Color Picker
@@ -1024,6 +1027,10 @@ r:"^宝箱([0-9])$"=r:"Treasure Chest $1"
 //Afterschool
 // Patch 1221
 //Christmas
+// Emotion Creators Preorder DLC
+//EC
+// Koikatsu Darkness DLC (via Emotion Creators)
+ダークネス=Darkness
 
 // Add -> Items -> Character -> Hair
 蝶の髪飾り=Butterfly Ornament
@@ -1304,6 +1311,22 @@ r:"^付け毛([0-9][0-9])$"=r:"Hairpiece $1"
 雪の結晶ステッキ=Snowflake Wand
 サンタ帽子=Santa Hat
 クリスマスリボン=Christmas Ribbon
+
+// Emotion Creators Preorder Bonus
+// Add -> Items -> Character -> EC
+シトリースカーフ=Sitri's Scarf
+シトリータイ=Sitri's Tie
+コンシェルジュハット=Concierge Hat
+芭蕉扇=Folding Fan
+ぼんぼりピアス=Paper Lamp Earring
+
+// Koikatsu Darkness DLC (via Emotion Creators)
+// Add -> Items -> Character -> Darkness
+メカトライニードル=Mecha Tri-Needle
+メカライオン=Mecha Lion
+メカホイール=Mecha Wheel
+メカアーマー=Mecha Armor
+メカシールドⅢ=Mecha Shield Ⅲ
 
 //
 // Add -> Items -> H-Items
@@ -1586,6 +1609,8 @@ r:"^シンプルコア([0-9])$"=r:"Simple Core $1"
 //General
 // This needs to get fixed by a label override
 //H-Items
+// Koikatsu Darkness DLC (via Emotion Creators)
+ヒューマンFK=Human FK
 
 // Add -> Items -> FK Items -> General
 FK関節=FK Joint
@@ -1596,6 +1621,9 @@ r:"^土台([0-9])$"=r:"Base $1"
 // Add -> Items -> FK Items -> H-Items
 r:"^FK触手([0-9])$"=r:"FK Tentacle $1"
 r:"^FKアナルビーズ([0-9])$"=r:"FK Anal Beads $1"
+
+// Add -> Items -> FK Items -> Human FK
+モブ=Mob
 
 //
 // Add -> Map
@@ -1641,6 +1669,8 @@ r:"^教室([0-9])-([0-9])$"=r:"Classroom $1-$2"
 満員電車=Crowded Train
 電車=Train
 公園=Park
+// Koikatsu Darkness DLC (via Emotion Creators)
+備品倉庫=Equipment Storehouse
 
 //
 // Add -> Map Lights
@@ -1924,7 +1954,8 @@ r:"^食事([Ａ-ＺA-Z][0-9])$"=r:"Eating $1" // A is fullwidth, B/C are halfwid
 r:"^チアダンス練習([0-9])$"=r:"Cheerleader Practice $1"
 ダンス練習待機=About To Practice Dancing
 ダンス練習=Practicing Dancing
-r:"^ストレッチ([0-9])$"=r:"Stretching $1"
+r:"^ストレッチ([0-9])$"=r:"Stretching $1" // Earlier versions
+r:"^ストレッチ([０-９])$"=r:"Stretching $1" // Later versions
 クロールで泳ぐ=Swimming Front Crawl
 r:"^プール座り([0-9])$"=r:"Sitting Poolside $1"
 
@@ -2180,6 +2211,8 @@ orz=orz
 // Patch 0727
 寝バック=Lying Doggystyle
 ソファ騎乗位=Sofa Cowgirl
+// Emotion Creators Preorder DLC
+押し付けバック=Pressed From Behind
 
 // Animation Menu -> Character Animation -> Insertion -> Poses
 挿入前待機=About To Insert
@@ -2353,8 +2386,16 @@ r:"^着替え([0-9])$"=r:"Changing $1"
 //Basic 3
 //Basic 4
 
+// Emotion Creators Preorder DLC
+// Animation Menu -> Character Animation -> EC
+//Pose
+
+// Animation Menu -> Character Animation -> EC -> Pose
+//Basic 1
+
 //
 // Animation Menu -> Character Animation -> Voice
+// A whole bunch of shit I'm just not ready to do yet...
 //
 
 // Animation Menu -> Character Animation -> Voice -> Situation

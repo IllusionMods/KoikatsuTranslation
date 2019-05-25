@@ -88,6 +88,10 @@ CAUTION=CAUTION
 DANGER=DANGER
 WARNING=WARNING
 r:"^([０-９][０-９])+$"=r:"$1" // For the four numerical makeups. Also prevents Accessory slots from fucking up later.
+// Added by the Emotion Creators Preorder Bonus
+一本キズ=Long Scar
+十字キズ=Cross Scar
+三本キズ=Triple Scars
 
 // All Sliders Notice
 ※ 各項目の変形に関するものをまとめたものとなります。=※ You can adjust all option sliders at once in this list.
@@ -105,6 +109,9 @@ NO=No
 
 // Type List Slots
 r:"^タイプ([０-９0-9]+)$"=r:"Type $1" // Behold, the power of RegEx! 78 lines gone in a flash! Fullwidth needed for Lip Type 2, which has a halfwidth label (Illusion bug).
+
+// Emotion Creators Preorder Bonus added the ability to stop hair/accessory physics, which is shared, so this label goes in the generics
+揺れないようにする=Disable Physics
 
 //
 // Clothing Selection Stuff
@@ -247,6 +254,12 @@ r:"^特殊([０-９])$"=r:"Special $1"
 r:"^Ｈ([０-９])$"=r:"H-Pose $1"
 r:"^男立ち([０-９])$"=r:"Male Standing $1"
 
+// Added by Emotion Creators Preorder DLC
+// Right Sidebar -> Hand Patterns
+左手のパターン=Left Hand Pattern
+右手のパターン=Right Hand Pattern
+r:"^パターン([0-9][0-9])$"=r:"Pattern $1"
+
 // Right Sidebar -> Light Direction Options
 ライトの向き調整=Light Direction
 X=X
@@ -308,6 +321,9 @@ RGB=RGB
 化粧=Makeup
 
 // Face -> General
+// Emotion Creators preorder bonus added some extra stuff here, marked with an ECB comment
+頭の種類=Face Type // ECB
+頭の種類に合わせたデフォルトの顔に戻す=Reset Face Type To Default Face // ECB
 顔の全体横幅=Face Width
 顔の上部前後=Upper Face Depth
 顔の上部上下=Upper Face Height
@@ -496,6 +512,7 @@ r:"^ペイント(０[０-９])位置プリセット$"=r:"Paint $1 Position Prese
 // Body -> Overall
 身長=Body Height
 頭のサイズ=Head Size
+骨格タイプ=Skeleton Type // Emotion Creators Preorder Bonus
 肉感の種類=Skin Type
 肉感の強さ=Skin Type Strength
 肌の色=Skin Color
@@ -732,6 +749,21 @@ r:"^髪飾りの色([①-⑨])$"=r:"Hair Accessory Color $1"
 ぱっつんボブ=Straight-Cut Bang Bob
 カジュアルオールバック=Casual, All Back
 ツーサイドアップショート=Twin Side-Up Short
+// Emotion Creators Preorder Bonus
+ストレートカール後ろ=Straight, Curled Back
+切りそろえショート(右)=Short, Tucked Back (R)
+切りそろえショート(左)=Short, Tucked Back (L)
+ひとつ結び=Single Knot
+シトリーバック=Sitri Back
+エアリーボブ=Airy Bob
+つんショート後ろ=Short, Spiky
+リーゼント=Ducktail
+横分けショート前=Horizontal Divided, Short
+坊主=Buddhist Priest Cut
+カーリーショート後ろ=Curly, Short Back
+ふわセミロング=Fluffy, Shoulder Length
+つんはねショート=Short, Upswept Spikes
+ローツインテール=Narrow Twintails
 
 // Hair -> Front Hair
 前髪の種類=Front Hair Type
@@ -803,6 +835,22 @@ M字バングストレート(右)=M-Shaped Straight Bangs (R)
 //Wavy Long
 スパイキー前=Spiky Bangs
 中分けミディアム=Medium, Middle Parted
+// Emotion Creators Preorder Bonus
+ストレートカール前=Straight, Curled Bangs
+撫でつけ(右)=Smoothed Down (Right)
+撫でつけ(左)=Smoothed Down (Left)
+横ハネ=Horizontal Wings
+横長ぱっつん=Oblong Straight-Cut Bangs
+横長くせっ毛=Horizontal Frizzy Hair
+シトリーフロント=Sitri Front
+エアリーボブ前(左)=Airy Bob Bangs (Left)
+エアリーボブ前(右)=Airy Bob Bangs (Right)
+つんショート前=Short, Spiky Bangs
+カーリーショート前=Curly, Short Bangs
+ドッグイヤー=Dog-Eared
+アシンメトリー前=Asymmetrical Bangs
+中分けデコ出し=Divided, Forehead-Exposing
+ミディアムストレート=Medium Straight
 
 // Hair -> Side Hair
 横髪の種類=Side Hair Type
@@ -835,6 +883,8 @@ M字バングストレート(右)=M-Shaped Straight Bangs (R)
 触覚(2本)=Ahoge (Twin)
 はね毛=Featherlike
 長触覚=Long Ahoge
+// Emotion Creators Preorder Bonus
+外はね=Outer Wings
 
 // Hair -> Miscellaneous
 ツヤの種類=Highlight Type
@@ -914,6 +964,9 @@ r:"^星([A-Z])$"=r:"Stars $1"
 //Circle
 // Patch 0727 (add13/14)
 //Hibiscus
+// Emotion Creators Preorder Bonus
+r:"^斜めチェック([A-Z])$"=r:"Slanted Checkered $1"
+中華模様=Chinese Pattern
 
 // Clothing -> Misc. Options
 r:"^オプション([①-⑨])を表示$"=r:"Show Option $1"
@@ -963,7 +1016,15 @@ r:"^外履き柄の色(０[０-９])$"=r:"Outdoor Shoe Pattern $1 Color"
 装飾の柄の大きさ(幅)=Decoration Pattern Width
 装飾の柄の大きさ(高さ)=Decoration Pattern Height
 装飾の柄の色=Decoration Pattern Color
-エンブレムの種類=Emblem Type
+エンブレムの種類=Emblem Type // Without Emotion Creators Preorder Bonus
+// Emotion Creators Preorder Bonus Allows for two Emblem slots now
+r:"^エンブレム(0[0-9])の種類$"="Emblem $1 Type"
+// Used in some Emotion Creators Preorder Bonus Outfits
+袖の種類=Sleeve Type
+// Cosmetic Hackery...
+TypeA=Type A
+TypeB=Type B
+TypeC=Type C
 
 // Clothing -> Top -> Top Type
 セーラータイプ=Sailor Type
@@ -996,12 +1057,12 @@ r:"^Tシャツ\\(柄([A-Z])\\)$"=r:"T-Shirt (Design $1)"
 ベビードール=Babydoll
 バスタオル=Bath Towel
 バニースーツ=Bunny Suit
-Tシャツ無地(男)=Plain T-Shirt (Male)
-ネクタイブレザー(男)=Necktie Blazer (Male)
-学ラン(男)=Gakuran (Male)
-学ランTシャツ(男)=Gakuran And T-Shirt (Male)
-ワイシャツ(男)=Dress Shirt (Male)
-ワイシャツベスト(男)=Vest And Dress Shirt (Male)
+Tシャツ無地(男)=Plain T-Shirt (Boys)
+ネクタイブレザー(男)=Necktie Blazer (Boys)
+学ラン(男)=Gakuran (Boys)
+学ランTシャツ(男)=Gakuran And T-Shirt (Boys)
+ワイシャツ(男)=Dress Shirt (Boys)
+ワイシャツベスト(男)=Vest And Dress Shirt (Boys)
 パジャマ(上)=Pajama Top
 サロペット=Overalls
 裸サロペット=Naked Overalls
@@ -1038,7 +1099,7 @@ Tシャツ無地(男)=Plain T-Shirt (Male)
 ハロウィントップス=Halloween Top
 // Afterschool DLC (add20/25)
 ウェディングドレス=Wedding Dress
-タキシード(男)=Tuxedo (Male)
+タキシード(男)=Tuxedo (Boys)
 パフスリーブトップス=Puffy-Sleeved Top
 ボリュームネックパーカー=Turtleneck Parka
 // Afterschool Preorder DLC (add 21/22/23)
@@ -1047,6 +1108,27 @@ CAトップス=Cabin Attendant Top
 //Naked Apron // Because yes - they really just had to name two different items the exact same thing.
 // Patch 1221 (add24/25/26)
 クリスマストップス=Christmas Top
+// Emotion Creators Preorder Bonus
+セーラーシャツ(男)=Sailor Shirt (Boys)
+セーラーノースリーブ(男)=Sleeveless Sailor (Boys)
+ベースボールシャツ(男)=Baseball Jersey (Boys)
+和風制服=Japanese-Style Uniform
+和風制服(無地)=Japanese-Style Uniform (Plain)
+洋風制服（ベスト）=Western-Style Uniform (Vest)
+洋風制服（ジャケット）=Western-Style Uniform (Jacket)
+ニットセーター=Knitted Sweater
+//Gym Uniform
+スポーツウェア(女)=Sportswear (Girls)
+サッカーシャツ(男)=Soccer Jersey (Boys)
+コンシェルジュスーツ=Concierge Suit
+シトリートップス=Sitri Top
+セーラーワンピース=One-Piece Sailor Suit
+r:"^クラシカルメイド([A-Z])$"="Classical Maid $1"
+キュートブラウス=Cute Blouse
+フロントリボン=Front Ribbon
+チャイナドレス=China Dress
+// Koikatsu Darkness DLC (via Emotion Creators)
+亀甲縛り=Bondage Ropes
 
 // Clothing -> Top -> Innerwear Types
 ワイシャツ=Dress Shirt
@@ -1078,6 +1160,8 @@ r:"^ブレザー([A-Z])$"=r:"Blazer $1"
 陣羽織=Battle Surcoat
 // Character Design Addon Pack Vol. 4 (add10)
 サスペンダー=Suspenders
+// Emotion Creators Preorder Bonus
+//Doctor's Coat
 
 // Clothing -> Top -> Decoration Types
 リボン=Ribbon
@@ -1117,6 +1201,9 @@ r:"^番号(0[0-9])$"=r:"Number $1"
 // Character Design Addon Pack Vol. 2 (add08)
 //CAUTION
 //DANGER
+// Emotion Creators Preorder Bonus
+r:"^背番号([0-9][0-9])$"="Jersey Number $1"
+一角獣=Unicorn
 
 // Clothing -> Bottom
 ボトムスを初期の状態に戻す=Restore Default Bottom Settings
@@ -1174,6 +1261,14 @@ r:"^鬼神の装束([A-Z])\\(下\\)$"=r:"Demon God's Costume $1 (Bottom)"
 CAタイトスカート=Cabin Attendant Tight Skirt
 // Patch 1221 (add24/25/26)
 クリスマススカート=Christmas Skirt
+// Emotion Creators Preorder Bonus
+サスペンダーズボン=Suspender Pants
+ベースボールズボン=Baseball Pants
+ロングフレアスカート=Long Flared Skirt
+バスケットパンツ=Basketball Shorts
+サッカーパンツ=Soccer Shorts
+コンシェルジュスカート=Concierge Skirt
+r:"^クラシカルメイドスカート([A-Z])$"=r:"Classical Maid Skirt $1"
 
 // Clothing -> Bra
 ブラを初期の状態に戻す=Restore Default Bra Settings
@@ -1208,6 +1303,11 @@ CAタイトスカート=Cabin Attendant Tight Skirt
 ラインタンガ=Line Tanga
 マイクロモノキニ=Micro Monokini
 クロスホルター=Cross Halter
+// Emotion Creators Preorder Bonus
+アンダーシャツ（女）=Undershirt (Girls)
+キュートブラ=Cute Bra
+ハートリボンブラ=Heart Ribbon Bra
+フラワーレースブラ=Flower Lace Bra
 
 // Clothing -> Underwear
 ショーツを初期の状態に戻す=Restore Default Underwear Settings
@@ -1233,6 +1333,10 @@ CAタイトスカート=Cabin Attendant Tight Skirt
 ビキニ水着(フリル付き)=Bikini Swimsuit (With Frills)
 // Afterschool DLC (add20/25)
 ウェディングショーツ=Wedding Panties
+// Emotion Creators Preorder Bonus
+キュートショーツ=Cute Panties
+ハートリボンショーツ=Heart Ribbon Panties
+フラワーレースショーツ=Flower Lace Panties
 
 // Clothing -> Gloves
 手袋を初期の状態に戻す=Restore Default Glove Settings
@@ -1267,6 +1371,14 @@ CAタイトスカート=Cabin Attendant Tight Skirt
 ウェディングショート=Short Wedding Gloves
 // Patch 1221 (add24/25/26)
 クリスマスミトン=Christmas Mittens
+// Emotion Creators Preorder Bonus
+ベルトグローブ=Belt Gloves
+ベルトグローブ(指ぬき)=Belt Gloves (Fingerless)
+ショートグローブ(指ぬき)=Short Gloves (Fingerless)
+肘サポーター=Elbowpads
+コンシェルジュスリーブ=Concierge Sleeves
+桔梗飾りのグローブ=Chinese Bellflower Gloves
+チャイナグローブ=China Gloves
 
 // Clothing -> Pantyhose
 パンストを初期の状態に戻す=Restore Default Pantyhose Settings
@@ -1284,6 +1396,15 @@ r:"^厚手パンスト([A-Z])$"=r:"Thick Pantyhose $1"
 将校のガーターベルト=Commissioned Officer Garter Belt
 // Afterschool DLC (add20/25)
 ウェディングガーター=Wedding Garters
+// Emotion Creators Preorder Bonus
+ベースボールストッキング=Baseball Stockings
+膝サポーター=Kneepads
+ロングスパッツ=Long Spats
+ガードル=Girdle
+キュートガーター=Cute Garters
+シンプルガーター=Simple Garters
+// Koikatsu Darkness DLC (via Emotion Creators)
+パンスト(破れ)=Pantyhose (Torn)
 
 // Clothing -> Legwear
 靴下を初期の状態に戻す=Restore Default Legwear Settings
@@ -1322,6 +1443,12 @@ r:"^ガーターソックス([A-Z])$"=r:"Garter Socks $1"
 ウェディングソックス=Wedding Socks
 // Patch 1221 (add24/25/26)
 クリスマスソックス=Christmas Socks
+// Emotion Creators Preorder Bonus
+桔梗飾りのニーソックス=Chinese Bellflower Kneesocks
+キュートソックス=Cute Socks
+キュートハイソックス=Cute High Socks
+シースルーニーソ=See-Through Kneesocks
+チャイナソックス=China Socks
 
 // Clothing -> Shoes
 内履きを初期の状態に戻す=Restore Default Indoor Shoe Settings
@@ -1376,6 +1503,14 @@ r:"^ガーターソックス([A-Z])$"=r:"Garter Socks $1"
 CAシューズ=Cabin Attendant Shoes
 // Patch 1221 (add24/25/26)
 クリスマスブーツ=Christmas Boots
+// Emotion Creators Preorder Bonus
+リングブーツ=Ring Boots
+ベースボールシューズ=Baseball Cleats
+バスケットシューズ=Basketball Shoes
+コンシェルジュブーツ=Concierge Boots
+タッセルローファー=Tassel Loafers
+メイドシューズ=Maid Shoes
+チャイナシューズ=China Shoes
 
 // Clothing -> Copy Menu
 コピー元のコーディネート=Uniform Source
@@ -1555,6 +1690,11 @@ r:"^細リボン([A-Z])$"=r:"Fine Ribbon $1"
 サクラの髪飾り=Cherry Blossom Ornament
 // Patch 1221 (add24/25/26)
 雪の結晶=Snowflake
+// Emotion Creators Preorder Bonus
+テントウムシ=Ladybug
+//Ribbon
+桔梗の髪飾り=Chinese Bellflower Ornaments
+ワッペン=Badge
 
 // Accessories -> Head
 //Ribbon
@@ -1653,6 +1793,18 @@ r:"^付け毛([0-9][0-9])$"=r:"Hairpiece $1"
 CAキャップ=Cabin Attendant Cap
 // Patch 1221 (add24/25/26)
 サンタ帽子=Santa Hat
+// Emotion Creators Preorder Bonus
+猫耳=Cat Ears
+ニット帽子=Knitted Hat
+紐付きニット帽子=Knitted Hat (With Strings)
+猫型ニット帽子=Cat-Style Knitted Hat
+毛糸の毛玉=Ball Of Woollen Yarn
+シルクハット=Silk Hat
+キュートリボン=Cute Ribbon
+コンシェルジュハット=Concierge Hat
+セーラーハット=Sailor Hat
+メイドキャップ=Maid Cap
+メイドプリム=Maid Prim
 
 // Accessories -> Face
 スクエア=Square Glasses
@@ -1692,6 +1844,8 @@ r:"^ハート([A-Z])$"=r:"Heart $1"
 雫=Drop Earring
 // Afterschool DLC (add20/25)
 ウェディング雫=Wedding Earring
+// Emotion Creators Preorder Bonus
+ぼんぼりピアス=Paper Lamp Earring
 
 // Accessories -> Neck
 マフラー=Muffler
@@ -1734,6 +1888,14 @@ r:"^ハート([A-Z])$"=r:"Heart $1"
 CAネッカチーフ=Cabin Attendant Neckerchief
 // Patch 1221 (add24/25/26)
 クリスマスリボン=Christmas Ribbon
+// Emotion Creators Preorder Bonus
+エトワールブローチ=Star Choker
+スカーフ=Scarf
+シンプルブローチ=Simple Choker
+ヴィンテージブローチ=Vintage Choker
+マント=Mantle
+シトリースカーフ=Sitri Scarf
+シトリータイ=Sitri Tie
 
 // Accessories -> Torso
 リュックサック=Backpack
@@ -1842,6 +2004,9 @@ r:"^シュシュ([A-Z])$"=r:"Scrunchie $1"
 鎧肩当て左用=Armored Shoulderpad (Left)
 // Patch 0629 (add12)
 オーバル腕時計=Oval Wristwatch
+// Emotion Creators Preorder Bonus
+和風制服の袖（右）=Japanese-Style Uniform Sleeve (Right)
+和風制服の袖（左）=Japanese-Style Uniform Sleeve (Left)
 
 // Accessories -> Hands
 革カバン=Leather Bag
@@ -1902,6 +2067,11 @@ r:"^シュシュ([A-Z])$"=r:"Scrunchie $1"
 ブライダルブーケ=Bridal Bouquet
 // Patch 1221 (add24/25/26)
 雪の結晶ステッキ=Snowflake Wand
+// Emotion Creators Preorder Bonus
+バット=Bat
+包丁=Kitchen Knife
+フライパン=Frying Pan
+芭蕉扇=Folding Fan
 
 // Accessories -> Crotch
 バイブ=Vibrating Dildo
@@ -1982,6 +2152,8 @@ AB=AB
 //Slangy
 //Sadistic
 //Emotionless
+// Emotion Creators Preorder DLC
+//Perfectionist
 
 // Profile -> Male Personality Types
 // Less personality types and more setting the male between two sets of opposite elements
@@ -2224,6 +2396,7 @@ No Image=No Image
 :　方言娘=:　Slangy
 :　Ｓッ気=:　Sadistic
 :　無感情=:　Emotionless
+:　几帳面=:　Perfectionist
 
 // Blood Types
 r:"^:　([Ａ-Ｚ]+)型$"=r:":　Type $1"
