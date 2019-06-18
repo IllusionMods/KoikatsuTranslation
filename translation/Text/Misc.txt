@@ -69,6 +69,7 @@
 // Talk
 世間話=Small talk
 コイバナ=Love talk
+エッチ=H talk
 勉強しよう=Study
 運動しよう=Exercise
 昼食に誘う=Invite to lunch
