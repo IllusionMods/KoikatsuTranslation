@@ -1,7 +1,8 @@
+SpriteAtlasTexture-VR (Group 0)-2048x2048-fmt12=_VR/SpriteAtlasTexture-VR (Group 0)-2048x2048-fmt12.png
+logo=../../Koikatu/Scenes/_ENG/logo.png
 NoData=../../Koikatu/Scenes/_ENG/NoData.png
 SpriteAtlasTexture-ClubReport-1024x2048-fmt12=../../Koikatu/Scenes/_ENG/SpriteAtlasTexture-ClubReport-1024x2048-fmt12.png
 SpriteAtlasTexture-H (Group 0)-1024x2048-fmt12=../../Koikatu/Scenes/_ENG/SpriteAtlasTexture-H (Group 0)-1024x2048-fmt12.png
-SpriteAtlasTexture-H (Group 1)-512x512-fmt10=../../Koikatu/Scenes/_ENG/SpriteAtlasTexture-H (Group 1)-512x512-fmt10.png
 SpriteAtlasTexture-HResult (Group 0)-2048x2048-fmt12=../../Koikatu/Scenes/_ENG/SpriteAtlasTexture-HResult (Group 0)-2048x2048-fmt12.png
 SpriteAtlasTexture-network-2048x512-fmt4=../../Koikatu/Scenes/_ENG/SpriteAtlasTexture-network-2048x512-fmt4.png
 [1920,1080,0,0]SpriteAtlasTexture-Free-2048x2048-fmt10=../../Koikatu/Scenes/_ENG/[1920,1080,0,0]SpriteAtlasTexture-Free-2048x2048-fmt10.png
