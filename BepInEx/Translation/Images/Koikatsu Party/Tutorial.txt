@@ -1,0 +1,5 @@
+1=../../Koikatu/Scenes/_ENG_Tutorial\1.png
+2=../../Koikatu/Scenes/_ENG_Tutorial\2.png
+3=../../Koikatu/Scenes/_ENG_Tutorial\3.png
+4=../../Koikatu/Scenes/_ENG_Tutorial\4.png
+5=../../Koikatu/Scenes/_ENG_Tutorial\5.png
