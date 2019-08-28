@@ -2,8 +2,6 @@
 English translation project for Koikatsu
 
 ## Installation
-These translations require the latest build of BepisPlugins since they rely on changes made to DynamicTranslationLoader not yet available in the current BepisPlugins release.
-
 1. Install [BepInEx](https://github.com/BepInEx/BepInEx/releases) and [BepisPlugins](https://github.com/bbepis/BepisPlugins/releases).
 2. Press the green "Clone or download" button above and click "download zip".
 3. Extract the zip and merge the Translation folder with the one in your BepInEx folder.
