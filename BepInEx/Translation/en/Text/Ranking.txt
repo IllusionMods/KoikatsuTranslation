@@ -1,4 +1,13 @@
-﻿本当にアップロードしますか？=Do you really want to upload it?
+﻿// Main Menu Button
+ランキングに参加=Get Ranked
+ランキング=Ranking
+
+// Ranking Nickname Select
+ハンドルネームを入力して下さい=Please Enter A Nickname.
+※ ランキングに参加するにはハンドルネームの登録が必要です=※ A Nickname is required to participate in Ranking.
+ハンドルネーム=Nickname
+
+本当にアップロードしますか？=Do you really want to upload it?
 データを取得しています=Retrieving data
 プレイデータ=Play data
 覗きマスター：トイレ=Peeping Master: Toilet
