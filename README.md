@@ -1,8 +1,8 @@
 ![preview](https://user-images.githubusercontent.com/39247311/53176845-2ecaa880-35ef-11e9-87eb-884927b77510.png)
 # Koikatsu! Image Translation
-This is an English-language translation of the Illusion eroge [Koikatu](http://illusion.jp/preview/koikatu/). This project only translates images. For text check [bbepis/KoikatsuTranslation](https://github.com/bbepis/KoikatsuTranslation) and [DeathWeasel1337/Koikatsu-Translations](https://github.com/DeathWeasel1337/Koikatsu-Translations).
+This is an English translation of the Illusion eroge [Koikatu](http://illusion.jp/preview/koikatu/) and its English version [Koikatsu Party](https://store.steampowered.com/app/1073440/__Koikatsu_Party/) (the English release doesn't translate Studio and expansion content, this fills in the gaps). This project only translates images. For text check [bbepis/KoikatsuTranslation](https://github.com/bbepis/KoikatsuTranslation) and [DeathWeasel1337/Koikatsu-Translations](https://github.com/DeathWeasel1337/Koikatsu-Translations).
 
-This plugin uses [BepInEx](https://github.com/BepInEx/BepInEx) and [BepisPlugins for Koikatsu](https://github.com/bbepis/BepisPlugins) to translate images in the game without modifying any game files,
+This plugin uses [AutoTranslator](https://github.com/bbepis/XUnity.AutoTranslator) to translate images in the game without modifying any game files.
 
 ## How to install
 1. Install the latest [AutoTranslator](https://github.com/bbepis/XUnity.AutoTranslator/releases).
