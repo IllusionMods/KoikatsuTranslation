@@ -4,16 +4,11 @@ This is an English-language translation of the Illusion eroge [Koikatu](http://i
 
 This plugin uses [BepInEx](https://github.com/BepInEx/BepInEx) and [BepisPlugins for Koikatsu](https://github.com/bbepis/BepisPlugins) to translate images in the game without modifying any game files,
 
-## Prerequisites
-- 0201 game and studio update (01/02/2019) + optionally After-school DLC
-- BepInEx v4.1 or newer (https://github.com/BepInEx/BepInEx/releases)
-- Bepis Plugins r5 or newer (https://github.com/bbepis/BepisPlugins/releases)
-
-## Installation
-1. Install BepInEx and Bepis Plugins according to their install instructions.
-2. Delete your BepInEx\translation\Images folder (in game directory) if it exists.
-3. Download latest release or press the green "Clone or download" button above and click "download zip".
-4. Extract BepInEx folder from this archive to game directory.
+## How to install
+1. Install the latest [AutoTranslator](https://github.com/bbepis/XUnity.AutoTranslator/releases).
+2. Download the latest release from the [releases](https://github.com/IllusionMods/KoikatsuImageTranslation/releases) page.
+3. Extract the archive into your game directory.
+4. If you have Koikatsu Party (not Koikatu) remove `\BepInEx\Translation\en\Texture\Koikatu.zip` to prevent translation collisions.
 
 ## Contributing
 When you have translations to submit [fork the repository](https://help.github.com/articles/fork-a-repo/). Upload your changes to your fork and then [submit a pull request](https://help.github.com/articles/about-pull-requests/). Your pull request will be reviewed and accepted after a quality check. Again, no raw machine translations will be accepted. Proper capitalization, punctuation, and spelling is a must.  
@@ -29,3 +24,4 @@ If you have any questions or suggestions, ask on the Koikatsu Discord.
 - Newmaxd (NMX) (image cleaning and translation)
 - Lucifer (hosting/project start, organization)
 - Leveltree (image cleaning and translation, first translation)
+- DeathWeasel (optimizations and stuff)
