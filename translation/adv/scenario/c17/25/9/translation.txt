@@ -1,3 +1,3 @@
-﻿「で、デート？　……私たち、恋人同士じゃないのに？」=「D-Date?...We're not lovers though?」
-「それはわかってるけど……ダメかな？」=「I understand that, but...isn't it fine?」
-「……わ、わかったわよ。ただし、退屈させないでよね？」=「I-I get it. However, make sure it isn't boring ok?」
+「で、デート？　……私たち、恋人同士じゃないのに？」=“D-Date?...We're not lovers though?”
+「それはわかってるけど……ダメかな？」=“I understand that, but...isn't it fine?”
+「……わ、わかったわよ。ただし、退屈させないでよね？」=“I-I get it. However, make sure it isn't boring ok?”

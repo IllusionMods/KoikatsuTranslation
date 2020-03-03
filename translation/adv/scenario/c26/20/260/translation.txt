@@ -1,4 +1,4 @@
-//「……少し、恥ずかしかった」=
-//「ご、ごめん。たださ、いつもよりも興奮できたんじゃないかな……？」=
-//「……否定は、しない。……でも、しばらくは……大人しくしてね」=
-//「は、はい。自重します」=
+「……少し、恥ずかしかった」="...Well, that was embarassing."
+「ご、ごめん。たださ、いつもよりも興奮できたんじゃないかな……？」="Sorry about that. Maybe I was just more excited than usual..."
+「……否定は、しない。……でも、しばらくは……大人しくしてね」="...I don't think so. Just... lay low for the next little while."
+「は、はい。自重します」="O-okay. Got it."

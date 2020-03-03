@@ -1,7 +1,7 @@
-//「あっ、日が落ちてきちゃったね。いつの間にか話し込んでたみたい」=
-//「貴方の話が長すぎるのよ。もう少し要点を絞ってから話しなさい」=
-//「ぁはは……それはあるかも。じゃあ、そろそろ出ようか？」=
-//「そうね。あまり長居しても迷惑になるし、行きましょ」=
-//「うん、じゃあ会計してきちゃうね」=
-//「私も一緒に行くわ、下僕に出させたのでは、主人の顔が立たないでしょ」=
-//「そんな、気にしなくていいのに」=
+「あっ、日が落ちてきちゃったね。いつの間にか話し込んでたみたい」="Ah, the sun's already setting. We were so absorbed in talkling that a whole day has passed before we knew it."
+「貴方の話が長すぎるのよ。もう少し要点を絞ってから話しなさい」="That's because you talk too long. Focus a bit more while speaking."
+「ぁはは……それはあるかも。じゃあ、そろそろ出ようか？」="Ahaha... That might be it. Shall we go now?"
+「そうね。あまり長居しても迷惑になるし、行きましょ」="Yeah, overstaying isn't good, let's get going."
+「うん、じゃあ会計してきちゃうね」="I'll go pay for the check then."
+「私も一緒に行くわ、下僕に出させたのでは、主人の顔が立たないでしょ」="I'm going too. A master can't maintain his status if he's left by his manservant."
+「そんな、気にしなくていいのに」="No way, you didn't have to worry about it though."

@@ -1,1 +1,1 @@
-「これ、私の好みじゃまったくないのだけれど？　せっかくだけれど遠慮しておくわ」=「This, this doesn't fit my preferences at all? Well, I'll accept it anyway.」
+「これ、私の好みじゃまったくないのだけれど？　せっかくだけれど遠慮しておくわ」=“This, this doesn't fit my preferences at all? Well, I'll accept it anyway.”

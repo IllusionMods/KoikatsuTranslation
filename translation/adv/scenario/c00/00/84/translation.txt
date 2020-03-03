@@ -1,6 +1,6 @@
-//「それじゃ、早速部活動を始めましょ。よいしょっと……」=
-//「待って、なんで突然服を脱ごうとしてるの！？」=
-//「恋人っぽいことをするのがコイカツ部なんでしょ？　だったらやることはひとつじゃない」=
-//「いや、その、それはさすがにいきなりすぎるっていうか、物事には順序ってものが……」=
-//「ふふっ、冗談よ。ちょっと試させてもらっただけ。君が紳士な男の子で安心したわ」=
-//「……もちろん、そのまま流されちゃってても良かったんだけど♪」=
+「それじゃ、早速部活動を始めましょ。よいしょっと……」=“Well then, let's hurry and start club activities. There we go...”
+「待って、なんで突然服を脱ごうとしてるの！？」=“Wait, why are you undressing so suddenly!?”
+「恋人っぽいことをするのがコイカツ部なんでしょ？　だったらやることはひとつじゃない」=“Isn't the Koikatsu club about doing things lovers would do? So there's only one thing to do.”
+「いや、その、それはさすがにいきなりすぎるっていうか、物事には順序ってものが……」=“No, well, that's what I call being too sudden, there's an order to these things...”
+「ふふっ、冗談よ。ちょっと試させてもらっただけ。君が紳士な男の子で安心したわ」=“Fufu, it was a joke. I just wanted to test you. I'm relieved that you're a nice guy.”
+「……もちろん、そのまま流されちゃってても良かったんだけど♪」=“...Of course, I'd be okay to just go with the flow ♪”

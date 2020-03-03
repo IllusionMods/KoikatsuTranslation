@@ -2,18 +2,24 @@
 English translation project for Koikatsu
 
 ## Installation
-These translations require the latest build of BepisPlugins since they rely on changes made to DynamicTranslationLoader not yet available in the current BepisPlugins release.
-
-1. Install the [latest BepisPlugins build](http://bepisbuilds.dyn.mk/bepis_plugins)  
-2. Press the green "Clone or download" button above and click "download zip"  
-2. Extract the zip and merge the Translation folder with the one in your BepInEx folder.  
+1. Install [BepInEx](https://github.com/BepInEx/BepInEx/releases) and [BepisPlugins](https://github.com/bbepis/BepisPlugins/releases).
+2. Press the green "Clone or download" button above and click "download zip".
+3. Extract the zip and merge the Translation folder with the one in your BepInEx folder.
+4. For H translations, [KK_Subtitles](https://github.com/DeathWeasel1337/KK_Plugins#readme) is required to display the text on screen.
 
 ## Contribution
 There are over 161024 unique lines of text that need translation and any help is appreciated. Regardless of your translation skill and Japanese knowledge you can still help with translations. Even if you have no experience you can help by using Google translate or other translation services and then cleaning up the translation using sanity and a bit of logic. Absolutely no raw machine translations will be accepted, users can use [XUnity.AutoTranslator](https://github.com/bbepis/XUnity.AutoTranslator/releases) for that. These translations serve as a midway point between machine translation and proper, skilled translations.  
 
-The goal of this translation project is to provide passable translations for any text not already translated by the [main translation project](https://github.com/bbepis/KoikatsuTranslation)
+The goal of this translation project is to provide passable translations for any text not already translated by the [main translation project](https://github.com/bbepis/KoikatsuTranslation)  
+
+Status:  
+Opening - Complete  
+c00 (Sexy), c29 (Humble) - Scenario and Communication in progress by ShadowTsuki  
+c13 (Gyaru) - Scenario and Communication mostly complete by DarkPulse  
 
 ## Tools
+[KK_TranslationSync](https://github.com/DeathWeasel1337/KK_Plugins#kk_translationsync) is a plugin for formatting and copy/pasting translations between files when there are duplicate entries.
+
 These tools can help you make sense of the raw Japanese and the machine translations:  
 
 [Yomichan](https://foosoft.net/projects/yomichan/)  
