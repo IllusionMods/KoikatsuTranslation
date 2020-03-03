@@ -14,7 +14,7 @@ The goal of this translation project is to provide passable translations for any
 
 Status:  
 Opening - Complete  
-c00 (Sexy), c29 (Humble) - Scenario and Communication in progress by ShadowTsuki  
+c00 (Sexy) - Scenario and Communication mostly complete by ShadowTsuki  
 c13 (Gyaru) - Scenario and Communication mostly complete by DarkPulse  
 
 ## Tools
