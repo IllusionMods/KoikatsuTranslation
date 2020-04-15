@@ -12,3 +12,6 @@
 （我慢しろ、俺っ！　こんな所で勃起させたら[H名]さんに何を言われるか……！）=(I must persevere! What would Miss [H名] say if I were to have a boner in such a place...!)
 （どこでもおっ勃たてる節操のない奴だと罵られ……それも案外、悪くないような……）=(Just how much would she abuse me for having no principles... But that also doesn't sound too bad...)
 （って、その考えがダメだ！　我慢、我慢……少しの辛抱だ）=(No, don't think about it! I must... Endure... Just a bit of patience.)
+
+//CHOICE:『欲望に身を任せる』=
+//CHOICE:『鉄の自制心で堪える』=

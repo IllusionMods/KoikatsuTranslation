@@ -6,3 +6,6 @@
 「時間あるある！　あたしもまだキミと離れたくないぞ！」=“I have time! I don't want to leave you just yet!”
 「そうだね。また今度。それじゃ……」=“I see. Maybe next time. See you later...”
 「うん、じゃーねー」=“Yeah, bye～”
+
+//CHOICE:「……時間あるなら、家に来ない？」=
+//CHOICE:「そうだね。また今度」=

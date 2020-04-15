@@ -29,3 +29,5 @@
 ……=...
 「……こら、下僕なんて大声で言わないの、皆驚いてるわよ」="...Hey manservant, don't raise your voice, you've startled everyone."
 「……でも、頑張りなさい。それなりに期待しておいてあげるわ」="...But do your best. I'm expecting you'll do, in your own way."
+
+//「……はい、誓います」=

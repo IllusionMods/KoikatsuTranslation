@@ -11,3 +11,6 @@
 「あら、未練がましいわね。でもいいわ、貴方の家に行きましょ。もう少しだけ、遊んであげる」="Hehe, you don't know when to let go. But that's okay. Let's go to your home. I'll spend some more time for you."
 「うん、今日はありがとう。本当に楽しかった。またね」="Thanks for today. I really enjoyed it. Good bye."
 「気が乗ったら、また遊んであげてもいいわ。フフッ、じゃあね」="Let's meet again next time. Fufu, see you then"
+
+//CHOICE:「あ、待って！　もう少しだけ、一緒にいられないかな？」=
+//CHOICE:「うん、今日はありがとう。本当に楽しかった。またね」=

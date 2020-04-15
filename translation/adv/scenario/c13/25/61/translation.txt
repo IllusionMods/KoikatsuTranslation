@@ -10,3 +10,6 @@
 「あ、その、アタシもまだ[P]くんと離れたくない……」=“Ah, uh, I also don't want you to leave yet, [P]-kun......”
 「俺も同じ気持ちだよ……それじゃあ、また」=“I enjoyed myself too...... Alright, see you later.”
 「うん。また２人でデートしようね。ばいばーい」=“Yep. Let's go on a date again together, just the two of us, 'kay? Bye-bye―”
+
+//CHOICE:「俺もだよ……もう少し一緒にいたいな」=
+//CHOICE:「俺も同じ気持ちだよ……それじゃあ、また」=
