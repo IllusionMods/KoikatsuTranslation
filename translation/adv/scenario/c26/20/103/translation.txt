@@ -8,3 +8,6 @@
 「本当に？　無理な時はちゃんと言ってね。[H名]はあんまりしゃべらないからさ」="Really? Just say when you need a break, [H名]. I don't want to push you too hard."
 「うん……わかった」="OK, got it."
 「約束だからね。よし、駅まで手を繋いで帰ろっか」="Okay, let's walk back to the station together."
+
+//CHOICE:『見せたいところがあるんだ』=
+//CHOICE:『暗くなる前に帰ろうか』=

@@ -5,3 +5,5 @@
 「……おはよう。ぐっすり、寝てたね」="...Good morning. It seemed like you slept well.
 「……もしかして、ずっとこうしてたの？」="...How long have you been doing this?"
 「うん……おちんちん、辛そうだったから……」="Yeah...it was so warm..."
+
+//「すぅ……すぅ……ん、んん……」=

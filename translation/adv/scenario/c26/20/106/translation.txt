@@ -32,3 +32,6 @@
 「……うん。そっか、そうだね。次が、ある」="OK. Lead the way."
 「次も……楽しませてね」="Be seeing you."
 「もちろん。さあ、帰ろうか」="Of course. Let's head home."
+
+//CHOICE:『また、エッチしない？』=
+//CHOICE:『そろそろ、帰ろうか』=
