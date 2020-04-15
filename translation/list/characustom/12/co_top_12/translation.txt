@@ -1,3 +1,3 @@
-//フリルワンピース=
-//ワンピース（花柄）=
-//ワンピース（無地）=
+フリルワンピース=Frilly One-Piece Dress
+ワンピース（花柄）=One-Piece Dress (Flower Pattern) // Newer Versions
+ワンピース（無地）=One-Piece Dress (Plain)

@@ -1,2 +1,2 @@
-//ブロッサムサンダル=
-//コルクサンダル=
+ブロッサムサンダル=Blossom Sandals
+コルクサンダル=Cork Sandals

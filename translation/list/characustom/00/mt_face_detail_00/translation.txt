@@ -1,6 +1,6 @@
-//なし=
-//シワ=
+なし=None
+シワ=Wrinkles
 //強調１=
 //強調２=
-//境界線=
-//目周りの影=
+境界線=Boundary Lines
+目周りの影=Shadowed Eyes

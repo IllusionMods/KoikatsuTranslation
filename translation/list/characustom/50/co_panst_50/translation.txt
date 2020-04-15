@@ -1,6 +1,6 @@
-//ベースボールストッキング=
-//膝サポーター=
-//ロングスパッツ=
-//ガードル=
-//キュートガーター=
-//シンプルガーター=
+ベースボールストッキング=Baseball Stockings
+膝サポーター=Kneepads
+ロングスパッツ=Long Spats
+ガードル=Girdle
+キュートガーター=Cute Garters
+シンプルガーター=Simple Garters

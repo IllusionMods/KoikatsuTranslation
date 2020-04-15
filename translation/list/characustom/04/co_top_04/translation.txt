@@ -1,1 +1,1 @@
-//軍服=
+軍服=Military Uniform

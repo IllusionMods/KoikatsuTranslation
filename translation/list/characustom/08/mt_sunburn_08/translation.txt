@@ -1,2 +1,2 @@
-//電子回路=
-//ライン=
+電子回路=Electronic Circuit
+ライン=Lines

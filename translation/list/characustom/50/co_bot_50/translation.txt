@@ -1,9 +1,9 @@
-//サスペンダーズボン=
-//ベースボールズボン=
-//ロングフレアスカート=
-//バスケットパンツ=
-//サッカーパンツ=
-//コンシェルジュスカート=
+サスペンダーズボン=Suspender Pants
+ベースボールズボン=Baseball Pants
+ロングフレアスカート=Long Flared Skirt
+バスケットパンツ=Basketball Shorts
+サッカーパンツ=Soccer Shorts
+コンシェルジュスカート=Concierge Skirt
 //プリーツスカートC=
 //プリーツスカートD=
 //クラシカルメイドスカートA=

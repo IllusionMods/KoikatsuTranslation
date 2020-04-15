@@ -1,10 +1,10 @@
-//なし=
+なし=None
 //パンストA=
 //パンストB=
 //厚手パンストA=
 //厚手パンストB=
-//スパッツ=
-//アンダースコート=
-//ガーターベルト=
-//網タイツ=
-//レギンス=
+スパッツ=Spats
+アンダースコート=Underskirt Panties
+ガーターベルト=Garter Belt
+網タイツ=Fishnet Tights
+レギンス=Leggings

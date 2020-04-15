@@ -1,4 +1,4 @@
-//ショートパレオ=
-//ショートパレオ（単色）=
-//シースルーパレオ=
-//セクシーパレオ=
+ショートパレオ=Short Pareo
+ショートパレオ（単色）=Short Pareo (Single Color)
+シースルーパレオ=See-Through Pareo
+セクシーパレオ=Sexy Pareo

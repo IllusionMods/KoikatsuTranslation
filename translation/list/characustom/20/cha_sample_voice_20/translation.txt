@@ -1,4 +1,4 @@
-//帰国子女=
-//方言娘=
-//Sッ気=
-//無感情=
+帰国子女=Returnee
+方言娘=Slangy
+Sッ気=Sadistic // ...Then they fixed it.
+無感情=Emotionless
