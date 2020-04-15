@@ -1,3 +1,3 @@
-//ゆるふわボブ=
-//くせっ毛ショート=
-//ウェーブロング=
+ゆるふわボブ=Loose Fluffy Bob
+くせっ毛ショート=Short, Curled
+ウェーブロング=Wavy Long

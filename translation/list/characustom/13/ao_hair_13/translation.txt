@@ -1,2 +1,2 @@
-//貝殻=
-//ヒトデ=
+貝殻=Seashell
+ヒトデ=Starfish

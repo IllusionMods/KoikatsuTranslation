@@ -1,4 +1,4 @@
-//ストレートカール後ろ=
-//切りそろえショート(右)=
-//切りそろえショート(左)=
-//ひとつ結び=
+ストレートカール後ろ=Straight, Curled Back
+切りそろえショート(右)=Short, Tucked Back (R)
+切りそろえショート(左)=Short, Tucked Back (L)
+ひとつ結び=Single Knot

@@ -1,8 +1,8 @@
-//バーコード=
-//ターゲット=
-//CAUTION=
-//DANGER=
-//WARNING=
+バーコード=Barcode
+ターゲット=Target
+CAUTION=CAUTION
+DANGER=DANGER
+WARNING=WARNING
 //００=
 //０１=
 //０２=

@@ -1,4 +1,4 @@
-//ウェディングドレス=
-//タキシード(男)=
-//パフスリーブトップス=
-//ボリュームネックパーカー=
+ウェディングドレス=Wedding Dress
+タキシード(男)=Tuxedo (Boys)
+パフスリーブトップス=Puffy-Sleeved Top
+ボリュームネックパーカー=Turtleneck Parka
