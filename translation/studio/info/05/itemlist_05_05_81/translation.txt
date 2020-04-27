@@ -1,0 +1,4 @@
+爆弾=Bomb
+バリスタの槍=Ballista Javelin
+布袋=Cloth Bag
+コイン=Coin

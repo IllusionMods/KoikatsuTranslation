@@ -1,0 +1,5 @@
+ビル1=Building 1
+ビル2=Building 2
+ビル3=Building 3
+ビル4=Building 4
+公衆トイレ=Public Bathroom

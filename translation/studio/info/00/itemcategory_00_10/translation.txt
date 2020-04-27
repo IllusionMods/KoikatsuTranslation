@@ -1,0 +1,2 @@
+obj有り=With Objects
+obj無し=Without Objects

@@ -1,0 +1,12 @@
+回転=Rotator
+関節180=180° Joint
+関節60=60° Joint
+ピストン=Piston
+吊りパイプ柔らか=Flexible Hanging Pipe
+吊りパイプ固い=Stiff Hanging Pipe
+吊りボール柔らか=Flexible Hanging Ball
+吊りボール固い=Stiff Hanging Ball
+吊りパイプ柔らか(長=Flexible Hanging Pipe (Long)
+吊りパイプ固い(長=Stiff Hanging Pipe (Long)
+吊りボール柔らか(長=Flexible Hanging Ball (Long)
+吊りボール固い(長=Stiff Hanging Ball (Long)

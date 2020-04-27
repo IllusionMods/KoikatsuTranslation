@@ -1,0 +1,17 @@
+仕切りカーテン=Privacy Curtain
+カーテンレール1=Curtain Rails 1
+カーテンレール2=Curtain Rails 2
+カーテン1=Curtain 1
+カーテン2=Curtain 2
+ブラインド1=Blinds 1
+ブラインド2=Blinds 2
+ブラインド3=Blinds 3
+ブラインド4=Blinds 4
+パーテーション=Partition
+シャワー室仕切り1=Shower Divider 1
+シャワー室仕切り2=Shower Divider 2
+シャワー室仕切り3=Shower Divider 3
+トイレ仕切り1=Toilet Divider 1
+トイレ仕切り2=Toilet Divider 2
+トイレ仕切り3=Toilet Divider 3
+トイレ仕切り4=Toilet Divider 4

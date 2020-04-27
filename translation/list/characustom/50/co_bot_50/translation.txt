@@ -4,7 +4,7 @@
 バスケットパンツ=Basketball Shorts
 サッカーパンツ=Soccer Shorts
 コンシェルジュスカート=Concierge Skirt
-//プリーツスカートC=
-//プリーツスカートD=
-//クラシカルメイドスカートA=
-//クラシカルメイドスカートB=
+プリーツスカートC=Pleated Skirt C
+プリーツスカートD=Pleated Skirt D
+クラシカルメイドスカートA=Classical Maid Skirt A
+クラシカルメイドスカートB=Classical Maid Skirt B

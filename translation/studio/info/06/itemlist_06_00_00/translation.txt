@@ -1,0 +1,5 @@
+半ピラミッド(通常)=Half Pyramid (General)
+角なし半四角錐(通常)=Beveled Half-Squared Pyramid (General)
+半コーン(通常)=Half Cone (General)
+階段型(通常)=Stairs (General)
+半カプセル(通常)=Half Capsule (General)

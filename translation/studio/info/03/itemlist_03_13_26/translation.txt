@@ -1,0 +1,6 @@
+魔法陣=Magic Circle
+溶解粘液1=Dissolving Liquids 1
+溶解粘液2=Dissolving Liquids 2
+溶解粘液3=Dissolving Liquids 3
+溶解粘液4=Dissolving Liquids 4
+溶解粘液5=Dissolving Liquids 5

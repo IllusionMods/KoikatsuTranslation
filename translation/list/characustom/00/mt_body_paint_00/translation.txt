@@ -1,8 +1,8 @@
 なし=None
 ハート=Heart
 水滴=Water Droplet
-//星A=
-//星B=
+星A=Stars A
+星B=Stars B
 三日月=Crescent Moon
 キスマーク=Kiss Mark
 クモ=Spider
