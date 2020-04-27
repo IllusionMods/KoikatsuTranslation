@@ -1,0 +1,4 @@
+日用品=Daily Life
+雑貨=General Goods
+電化製品=Appliances
+医療=Medical Care

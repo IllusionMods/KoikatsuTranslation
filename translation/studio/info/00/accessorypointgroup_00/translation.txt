@@ -1,0 +1,10 @@
+髪=Hair
+頭=Head
+顔=Face
+首=Neck
+胴=Torso
+腰=Hips
+脚=Legs
+腕=Arms
+手=Hands
+股間=Crotch

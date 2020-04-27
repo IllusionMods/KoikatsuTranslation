@@ -11,8 +11,8 @@
 水泳ゴーグル=Swimming Goggles
 眼帯右用=Left Eyepatch
 眼帯左用=Right Eyepatch
-//ハートA=
-//ハートB=
+ハートA=Heart A
+ハートB=Heart B
 スペード=Spade
 ダイア=Diamond
 クローバー=Club

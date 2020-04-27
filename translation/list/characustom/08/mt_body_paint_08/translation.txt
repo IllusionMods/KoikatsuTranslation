@@ -3,7 +3,7 @@
 CAUTION=CAUTION
 DANGER=DANGER
 WARNING=WARNING
-//００=
-//０１=
-//０２=
-//０３=
+００=00
+０１=01
+０２=02
+０３=03

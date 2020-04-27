@@ -1,0 +1,5 @@
+FK触手1=FK Tentacle 1
+FK触手2=FK Tentacle 2
+FKアナルビーズ1=FK Anal Beads 1
+FKアナルビーズ2=FK Anal Beads 2
+FKアナルビーズ3=FK Anal Beads 3

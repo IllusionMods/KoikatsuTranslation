@@ -1,0 +1,17 @@
+蝶の髪飾り=Butterfly Ornament
+花=Flower
+花の髪飾り（揺れ）=Flower Ornament (Moves)
+ハイビスカス=Hibiscus
+牡丹の髪飾り=Tree Peony Ornament
+ヘアピン=Hairpin
+ハートのバレッタ=Heart Barette
+ハートの髪飾り=Heart Ornament
+髪留め=Barette
+安全ピン=Safety Pin
+大きなリボン=Large Ribbon
+細リボンA=Fine Ribbon A
+細リボンB=Fine Ribbon B
+ドクロの髪飾り=Skull Ornament
+星のバレッタ=Star Barette
+星の髪飾り=Star Ornament
+クロスヘアピン=Cross Hairpin

@@ -1,0 +1,5 @@
+ポール=Pole
+野点傘=Open Umbrella
+ウサギの置物=Rabbit Ornament
+狸の置物=Tanuki Ornament
+木箱=Wooden Crate
