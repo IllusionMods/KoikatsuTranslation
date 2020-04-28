@@ -1,0 +1,2 @@
+吹き出し=Speech Balloons
+画面効果=Scene Effects

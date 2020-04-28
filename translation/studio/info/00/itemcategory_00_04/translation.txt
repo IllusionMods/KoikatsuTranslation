@@ -1,0 +1,2 @@
+飲み物=Drinks
+食べ物=Food

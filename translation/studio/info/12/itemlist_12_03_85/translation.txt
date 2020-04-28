@@ -1,0 +1,13 @@
+しゃれこうべ=Skull
+棺桶(箱)=Coffin
+棺桶(蓋)=Coffin Lid
+大鍋=Cauldron
+大きいお玉=Large Ladle
+コウモリのシルエット=Bat's Silhouette
+クモのシルエット=Spider's Silhouette
+ぺろぺろキャンディ=Large Lollipop
+あめ玉=Wrapped Candy
+カボチャ=Pumpkin
+カボチャ(顔)=Jack-o'-lantern
+カボチャ(入れ物)=Jack-o'-lantern (Bucket)
+スイカヘッド=Watermelon Head

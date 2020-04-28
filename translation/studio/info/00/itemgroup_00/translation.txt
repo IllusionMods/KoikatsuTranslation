@@ -1,0 +1,14 @@
+基本形=Models
+ベース=Base
+家具=Furniture
+オブジェ=Objects
+食材=Foodstuffs
+小物=Small Articles
+キャラ=Character
+Ｈアイテム=H-Items
+2D効果=2D Effects
+ギミック=Gimmicks
+3DSE=3D SFX
+武器=Weapons
+エフェクト=Effects
+グロー=Glow

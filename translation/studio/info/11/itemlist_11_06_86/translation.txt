@@ -1,0 +1,4 @@
+サイドドレープ=Side Drapes
+浮き輪=Swimming Ring
+浮き輪(ドーナツ)=Swimming Ring (Donut)
+浮き輪(猫)=Swimming Ring (Cat)

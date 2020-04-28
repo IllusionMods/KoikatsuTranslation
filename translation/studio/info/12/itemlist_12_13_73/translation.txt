@@ -1,0 +1,3 @@
+闇=Darkness
+火炎=Flames
+土煙=Dust Clouds

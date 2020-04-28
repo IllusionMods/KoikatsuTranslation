@@ -1,2 +1,2 @@
-//斜めチェックA=
-//斜めチェックB=
+斜めチェックA=Slanted Checkered A
+斜めチェックB=Slanted Checkered B

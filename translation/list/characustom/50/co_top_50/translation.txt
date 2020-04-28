@@ -13,7 +13,7 @@
 コンシェルジュスーツ=Concierge Suit
 シトリートップス=Sitri Top
 セーラーワンピース=One-Piece Sailor Suit
-//クラシカルメイドA=
-//クラシカルメイドB=
+クラシカルメイドA="Classical Maid $1"
+クラシカルメイドB="Classical Maid $1"
 キュートブラウス=Cute Blouse
 フロントリボン=Front Ribbon

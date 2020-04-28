@@ -5,8 +5,8 @@
 ニーソックス=Kneesocks
 アンクルソックス=Ankle Socks
 フットカバー=Foot Covers
-//ガーターソックスA=
-//ガーターソックスB=
+ガーターソックスA=Garter Socks A
+ガーターソックスB=Garter Socks B
 足袋=Tabi Socks
 小悪魔ニーソックス=Devil Kneesocks
 アイドルニーソックス=Idol Kneesocks

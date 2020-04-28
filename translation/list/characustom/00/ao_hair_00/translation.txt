@@ -8,8 +8,8 @@
 ハートのバレッタ=Heart Barette
 蝶の髪飾り=Butterfly Ornament
 ドクロの髪飾り=Skull Ornament
-//細リボンA=
-//細リボンB=
+細リボンA=Fine Ribbon A
+細リボンB=Fine Ribbon B
 大きなリボン=Large Ribbon
 花=Flower
 ハイビスカス=Hibiscus
