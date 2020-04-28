@@ -1,0 +1,11 @@
+//表示名=
+しゃがみ1=Squatting 1
+しゃがみ2=Squatting 2
+しゃがみ3=Squatting 3
+正座=Sitting Seiza
+お茶をたてる待機=About To Perform Tea Ceremony
+お茶をたてる=Performing Tea Ceremony
+お茶を飲む待機=About To Drink Tea
+お茶を飲む=Drinking Tea
+女の子座り=Girly Sitting
+お姉さん座り=Onee-san Sitting

@@ -1,0 +1,7 @@
+//表示名=
+歩く1=Walking 1
+歩く2=Walking 2
+走る1=Running 1
+走る2=Running 2
+走る3=Running 3
+走る4=Running 4
