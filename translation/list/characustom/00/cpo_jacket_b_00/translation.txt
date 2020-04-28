@@ -1,8 +1,8 @@
 なし=None
-//ブレザーA=
+ブレザーA=Blazer A
 ブレザーA前開き=Blazer A (Opened)
-//ブレザーB=
-//ブレザーC=
+ブレザーB=Blazer B
+ブレザーC=Blazer C
 ブレザーC(ライン色固定)=Blazer C (Fixed Line Color)
 ブレザーC前開き=Blazer C (Opened)
 ブレザーC前開き(ライン色固定)=Blazer C (Opened) (Fixed Line Color)

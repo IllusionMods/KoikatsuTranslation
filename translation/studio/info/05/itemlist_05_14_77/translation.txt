@@ -1,0 +1,3 @@
+シンプルコア1=Simple Core 1
+シンプルコア2=Simple Core 2
+ペンライト=Penlight

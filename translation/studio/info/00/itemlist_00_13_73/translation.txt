@@ -1,0 +1,7 @@
+滝=Waterfall
+液体=Urine
+濃い液体（弱）=Female Ejaculate (Weak)
+濃い液体（中）=Female Ejaculate (Average)
+濃い液体（強）=Female Ejaculate (Strong)
+シャワー（弱）=Shower (Weak)
+シャワー（強）=Shower (Strong)

@@ -1,0 +1,5 @@
+身長計=Height Scale
+座高計=Seated Height Scale
+体重計=Weight Scale
+視力検査機=Eyesight Chart
+洗面器台=Washbowl Stand

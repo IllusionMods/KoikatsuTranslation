@@ -1,0 +1,5 @@
+メカトライニードル=Mecha Tri-Needle
+メカライオン=Mecha Lion
+メカホイール=Mecha Wheel
+メカアーマー=Mecha Armor
+メカシールドⅢ=Mecha Shield Ⅲ

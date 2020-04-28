@@ -1,7 +1,7 @@
-//ナイロンボストンA=
-//ナイロンボストンB=
-//シュシュA=
-//シュシュB=
+ナイロンボストンA=Nylon Boston Bag A
+ナイロンボストンB=Nylon Boston Bag B
+シュシュA=Scrunchie A
+シュシュB=Scrunchie B
 ハート腕時計=Heart Wristwatch
 ボールビーズ=Ball Bead Bracelet
 メタルバングル=Metal Bangle

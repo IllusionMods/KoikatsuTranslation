@@ -1,0 +1,9 @@
+襖1=Sliding Door 1
+襖2=Sliding Door 2
+ガラス入り障子=Glass-Paned Paper Door
+障子1=Paper Door 1
+障子2=Paper Door 2
+戸=Door
+トイレドア1=Toilet Door 1
+トイレドア2=Toilet Door 2
+シャワー室ドア=Shower Door

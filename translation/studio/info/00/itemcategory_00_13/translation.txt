@@ -1,0 +1,2 @@
+固定エフェクト=Fixed Effects
+パーティクル=Particles

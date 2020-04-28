@@ -1,4 +1,4 @@
 なし=None
 ホクロ=Mole
-//そばかす１=
-//そばかす２=
+そばかす１=Freckles 1
+そばかす２=Freckles 2

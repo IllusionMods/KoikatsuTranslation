@@ -1,0 +1,3 @@
+光の軌跡=Point of Light
+光の閃光=Flashes of Light
+光の粉=Sparkles of Light

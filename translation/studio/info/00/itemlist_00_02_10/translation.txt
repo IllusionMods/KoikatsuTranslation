@@ -1,0 +1,3 @@
+自室ベッド=Personal Bed
+保健室ベッド=School Bed
+布団=Futon

@@ -1,0 +1,11 @@
+大砲=Cannon
+大砲(筒)=Cannon (Barrel)
+大砲(台)=Cannon (Stand)
+大砲(玉)=Cannonball
+爆弾=Bomb
+バリスタ=Ballista
+バリスタの槍=Ballista Javelin
+宝箱1=Treasure Chest 1
+宝箱2=Treasure Chest 2
+布袋=Cloth Bag
+コイン=Coin
