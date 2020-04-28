@@ -1,0 +1,7 @@
+//表示名=
+攻撃１=Attack 1
+攻撃２=Attack 2
+攻撃３=Attack 3
+攻撃４=Attack 4
+防御=Blocking
+倒れる=Knocked Down

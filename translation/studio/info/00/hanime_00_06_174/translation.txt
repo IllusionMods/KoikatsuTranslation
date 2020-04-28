@@ -1,0 +1,8 @@
+//表示名=
+弱ループ=Slow Loop
+中ループ=Medium Loop
+強ループ=Fast Loop
+絶頂前ループ=Before Climax Loop
+絶頂=Climax
+絶頂事後=Climax End
+事後=Afterglow
