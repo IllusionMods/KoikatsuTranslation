@@ -1,3 +1,3 @@
-//「はぁ？　なんでだよ」=
-//「途中まで帰る方向一緒だし、もっともっと仲良くなりたいからかな」=
-//「ちっ、それならしょうがねぇなぁ。一緒に帰ってやるよ」=
+「はぁ？　なんでだよ」=Huh?　Why is that?
+「途中まで帰る方向一緒だし、もっともっと仲良くなりたいからかな」=We're halfway home, and we're heading in the same direction. Maybe it's because I want to get to know you better.
+「ちっ、それならしょうがねぇなぁ。一緒に帰ってやるよ」=Tsk. Well, I guess it can't hurt. I'm going home with you.
