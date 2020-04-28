@@ -8,7 +8,7 @@
 「うふふ、冗談よ♪　あ、そうそう、お弁当を用意してきたの。食べる？」=Nah, I'm just teasing you. Oh, right, I brought some lunch. Want to try some?
 「え？　いいの！　食べる食べる！」=Oh? Gladly! Thank you for the meal!
 「はい、お手製サンドイッチよ。お口に合うといいんだけど……」=Yes, it's a homemade sandwich. I hope you like it.
-「わ！　超美味しそう！　絶対口に合うよ。じゃ、いただきまーす！」=Wow!It looks so tasty!It's definitely a mouthful. Let's eat, then!
+「わ！　超美味しそう！　絶対口に合うよ。じゃ、いただきまーす！」=Wow!　It looks so tasty!　It's definitely a mouthful. Let's eat, then!
 「もぐ、もぐもぐ……う～ん、美味しい！　最高だね！」=Munch, munch... mhm, delicious! It's amazing!
 「うふふ、このピクルスも自家製なのよ。どう？」=Here, try this homegrown pickle. Like it?
 「うんっ、酸っぱくて、ポリポリしてて……超サイコー！」=Yeah, it's so sour... I love it!
