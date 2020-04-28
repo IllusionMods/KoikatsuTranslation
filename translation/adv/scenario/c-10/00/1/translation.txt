@@ -141,7 +141,7 @@
 「ううん。今、ようやくこの子との会話に満足したところよ」=“No. I finally got to talk with him.”
 「もう、あんまり困らせないでくださいよ」=“Jeez, please don't inconvenience me like that...”
 「あはは、えっと、大丈夫だよ」=“Ahaha, well, it's fine.”
-「それって『さっき言われたことは任せてください』って意味よね？　安心したわ、じゃ、私泳ぐから」=“So you know what I meant by ‘I wanted to talk to you’ now, right?　I'm relieved, well, I'll be going.”
+「それって『さっき言われたことは任せてください』って意味よね？　安心したわ、じゃ、私泳ぐから」=“So you know what I meant by ‘I wanted to talk to you’ now, right? I'm relieved, well, I'll be going.”
 部長は言葉の途中からすでに歩き出し、言い終わるや否やプールに飛び込んでしまった。=She was already on her way out as she was saying that, and as soon as she was done speaking, she jumped into the pool.
 「フリーダムなんだから……ていうか、さっき言われたことってなに？」=“She's so carefree... I mean, what did you two talk about earlier?”
 「いや、それはえっと……」=“Well, that's, uhm...”
