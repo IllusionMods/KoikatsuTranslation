@@ -1,3 +1,3 @@
-﻿「……あなた、これ……食べる？」="...You want some of my food...?"
+「……あなた、これ……食べる？」="...You want some of my food...?"
 「[P]が喜ぶと思って、クッキー……焼いてきた」="I have some cookies for [P]... I baked them myself."
 「……感想は、後で聞かせてほしい」="I want you to tell me what you think of them..."
