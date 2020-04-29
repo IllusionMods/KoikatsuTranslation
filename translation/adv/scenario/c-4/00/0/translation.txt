@@ -4,3 +4,5 @@
 「きみも手探りだと思うけど、同じくらい私も手探りなの。だから……一緒に頑張りましょうね」=“You may have trouble talking with them, but I'll also mess up while talking with you. So... let's do our best together.”
 「あ……はい！　ありがとうございます！　俺、先生みたいな人が担任で良かったです」=“Ah... yes! Thank you very much! I'm glad I have a teacher like you!”
 「あら、嬉しい♪　私もきみみたいな子が入ってくれて嬉しいわ。何かあったらいつでも頼ってね」=“Ah, I'm glad♪ I'm also happy that a boy like you entered the school. If you need anything, feel free to ask.”
+
+野乃花=Nonoka

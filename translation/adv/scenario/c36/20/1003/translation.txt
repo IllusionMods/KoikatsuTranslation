@@ -31,3 +31,6 @@
 「……でも、頑張りなさい。それなりに期待しておいてあげるわ」="...But do your best. I'm expecting you'll do, in your own way."
 
 //「……はい、誓います」=
+
+モブ=Mob
+牧師=Pastor

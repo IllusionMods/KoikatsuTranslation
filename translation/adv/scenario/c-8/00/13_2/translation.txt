@@ -45,3 +45,5 @@
 
 //CHOICE:コスプレ=
 //CHOICE:制服=
+
+このみ=Konomi

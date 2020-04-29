@@ -30,3 +30,5 @@
 （うろ覚えなんだけどなぁ……ま、なんとかなるか）=(I remembered it, but... Well, what will be will be.)
 「それでは、こちらで少々お待ちください」="Well then, please wait here for a moment."
 「わかりました」="Got it."
+
+モブ=Mob
