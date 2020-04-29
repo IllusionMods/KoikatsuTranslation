@@ -12,3 +12,5 @@
 「あぁ、そういえば貴方も着替えてたわね。フフッ、可哀相だからコメントは控えておくわ」="Ah, now that you mention it, you also changed clothes... Fufu, you looked pathetic so I'll restrain myself from commenting."
 「えぇっ、それってダメだったって事？　たしかにカッコ悪いところいっぱい見せちゃったけど……」="Eeh, does that mean it wasn't good? Surely there were a lot of uncool things about me, but.."
 「……って、[H名]さん！　待って！　おいてかないでよ！」="...Hey, Miss [H名]! Wait! Don't leave me!"
+
+モブ=Mob

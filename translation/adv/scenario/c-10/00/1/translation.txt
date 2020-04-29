@@ -156,3 +156,5 @@
 
 //Scene specific names
 水泳部部長=Swimming Club President
+
+亜依=Ai

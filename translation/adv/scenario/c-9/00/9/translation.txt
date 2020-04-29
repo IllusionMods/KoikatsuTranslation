@@ -9,3 +9,5 @@
 
 //CHOICE:桜に告白する=
 //CHOICE:告白しない=
+
+桜=Sakura
