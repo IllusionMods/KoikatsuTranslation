@@ -1,4 +1,4 @@
-﻿「えっと……いま大丈夫かな？　よければ君とお話ししたいんだけど」="Um, are you busy? I'd like to speak with you for a sec."
+「えっと……いま大丈夫かな？　よければ君とお話ししたいんだけど」="Um, are you busy? I'd like to speak with you for a sec."
 「……あなた確か……転校してきた人……？」="...Are you... the transfer student...?"
 「そうそう、覚えててくれたんだ？」="Yeah, that's me. ...Did you forget?"
 「……顔だけは……。いつもならすぐに忘れるけど……」="...No, I recognized your face... I just have a hard time remembering things..."

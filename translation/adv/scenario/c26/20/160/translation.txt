@@ -1,4 +1,4 @@
-﻿「ありがとう。大丈夫だった？」="Thanks. Are you okay?"
+「ありがとう。大丈夫だった？」="Thanks. Are you okay?"
 「うん。……大丈夫」="Yeah... I'm fine."
 「そっか、よかった。なら、最後に」="I'm glad. Finally..."
 「ん……。何で、キスを……？」=

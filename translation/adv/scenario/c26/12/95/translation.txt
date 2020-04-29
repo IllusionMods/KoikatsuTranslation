@@ -1,4 +1,4 @@
-﻿「すぅ……すぅ…………ん、んん……」="Yeah... yeah... Nnnn...."
+「すぅ……すぅ…………ん、んん……」="Yeah... yeah... Nnnn...."
 （んぅ……すごく気持ちいいような……いったい、何が……？）="(Nnn... It feels so good... what's going on?)"
 「…………」="..."
 「へっ！　ど、どうして俺の上に……？」="Hey! How is it in there?"

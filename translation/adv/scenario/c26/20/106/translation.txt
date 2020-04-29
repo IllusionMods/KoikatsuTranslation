@@ -1,4 +1,4 @@
-﻿「何度見ても、ここからの夜景は綺麗だね」="No matter how many times I see it, the view is beautiful..."
+「何度見ても、ここからの夜景は綺麗だね」="No matter how many times I see it, the view is beautiful..."
 「……うん。ここ、好き」="...Yeah. I like it here."
 （[H名]と初めて来た時もこんな感じだったな……）="(This is just like the first time I met [H名]...)"
 「……どうしたの？　もしかして……思い出してたの？」="...What's wrong? Did you remember something again?"
