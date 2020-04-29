@@ -8,3 +8,5 @@
 //「返事が頼りないわね」=“That's not a very reliable answer.”
 //「わかりました……！　気をつけます！」=“Understood...! I'll be careful!”
 //「……よし。それじゃあ」=“...All right. Well then.”
+
+麗奈=Reina

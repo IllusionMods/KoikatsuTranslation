@@ -12,3 +12,5 @@
 （マジか……夢なら覚めないでくれ）=(If this is a dream... don't wake me up.)
 「[H名]、綺麗だよ。一目見て、余計な緊張がどこか行ったよ」="[H名], you look great. At first, you seemed kind of tense."
 「あり、がとう。……私も、あなたが隣にいると、安心する。……かっこいい……」="Thanks again. I'm relieved now that now I'm next to you..."
+
+モブ=Mob
