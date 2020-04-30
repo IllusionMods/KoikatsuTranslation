@@ -1,5 +1,6 @@
 ﻿// Names and Nicknames
 
+
 // Heroines and Faculty
 リナ ロベール=Lina Robert
 4月25日=April 25
@@ -460,3 +461,31 @@ Heroine 高津 珠美=Heroine Takatsu Tamami
 アリカ=Arika
 一颯=Ibuki
 ウォルフ=Wolf
+
+// Scenario only chars
+牧師=Pastor
+亜依の母=Ai's Mother
+乙梨さん=Otonashi
+号令係=Class Representative
+妙齢の女性=Young Woman
+水泳部部長=Swimming Club President
+チア部副部長=Cheerleader Vice Captain
+？？？=???
+
+こども=Child
+クラスメイト女子=Classmate
+女の子=Girl
+女子学生=Student
+女子生徒=Schoolgirl
+女学生=Student
+新入部員=New Member
+部員=Club Member
+チア部部員=Cheerleader
+// above sometimes grouped with a number or letter
+sr:"^(こども|クラスメイト女子|女の子|女子学生|女子生徒|女学生|新入部員|部員|チア部部員)([Ａ-ＤA-D０-９0-9])$"=$1 $2
+
+
+
+
+
+
