@@ -3,5 +3,5 @@
 「私と話をしていて楽しい？」=Do you enjoy our little discussions?
 「……そう。なら良いのだけど」=... Is that so? I'm glad to hear that.
 CHOICE:部活の成果を確認してもらえますか？=Can you check the progress of my club activities?
-CHOICE:先生と話がしたくて……ダメですか？=I just wanted to talk to the doctor. Is that okay?
+CHOICE:先生と話がしたくて……ダメですか？=I just wanted to talk to the teacher. Is that okay?
 麗奈=Reina
