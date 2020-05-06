@@ -1,11 +1,10 @@
-//（うん、俺の気持ちを伝えよう）=
-//部員全員が帰り、プールに残ったのは俺たちだけになった。=
-//「水瀬さん、ちょっといい？」=
-//「うん、なーに？」=
-//「この前の……告白の答えなんだけど」=
-//「へえっ！？　あ、あ、えっと、う、うん……」=
-//水瀬さんは一瞬で真っ赤になり、落ち着きを失ってしまう。=
-//（平静を装ってたけど、ずっここんな感じだったのかな。もう、安心させてあげないと！）=
-//俺は水瀬さんをまっすぐに見つめると、口を開いた。=
-
+（うん、俺の気持ちを伝えよう）=Yeah, I'll tell you how I feel.
+部員全員が帰り、プールに残ったのは俺たちだけになった。=The whole squad went home. Now we are the only ones left in the pool.
+「水瀬さん、ちょっといい？」=Mr. Mizuse, do you have a minute?
+「うん、なーに？」=Yeah, what is it?
+「この前の……告白の答えなんだけど」=About the confession I made the other day.
+「へえっ！？　あ、あ、えっと、う、うん……」=Huh? Uh, uh, uh... um...
+水瀬さんは一瞬で真っ赤になり、落ち着きを失ってしまう。=Mizuse turned bright red in an instant and lost her composure.
+（平静を装ってたけど、ずっここんな感じだったのかな。もう、安心させてあげないと！）=I pretended to be calm, but I felt the same... I just need to reassure her!
+俺は水瀬さんをまっすぐに見つめると、口を開いた。=I stared straight at Mizuse-san and opened my mouth.
 亜依=Ai
