@@ -166,7 +166,7 @@ ON/OFF=ON / OFF
 //None
 頭の一部=Head Only
 //All
-"※ CPUやメモリーに負荷のかかる設定となります。\n　 マシンスペックやアクセサリの使用状況によって動作が不安定になりますのでご注意下さい。\n　 その場合は、登校人数を減らすなどの調整をして下さい。\n※ この設定が反映されるのは、各キャラの服装が次に変更されるタイミングとなります。"="※ This will increase the load on the CPU and memory.\n　 Depending on your machine's specs, instability may result, so please be careful.\n　 If this happens, please decrease the number of students in the school.\n※ This setting is applied the next time a character changes their clothing."
+※ CPUやメモリーに負荷のかかる設定となります。\n　 マシンスペックやアクセサリの使用状況によって動作が不安定になりますのでご注意下さい。\n　 その場合は、登校人数を減らすなどの調整をして下さい。\n※ この設定が反映されるのは、各キャラの服装が次に変更されるタイミングとなります。=※ This will increase the load on the CPU and memory.\n　 Depending on your machine's specs, instability may result, so please be careful.\n　 If this happens, please decrease the number of students in the school.\n※ This setting is applied the next time a character changes their clothing.
 マップ移動設定=Map Movement Settings
 左クリック移動=Left-Click To Move
 登校人数=Students At School
@@ -200,15 +200,19 @@ AI:主人公へ話しかけに来る行動の発生頻度(※4)=AI: Frequency of
 コミュニケーションシーン中のヒロインからのお誘い発生確率=% Chance of Heroine seducing player in Communication Scene
 ※1　一部のランキングには反映されません。=※1 This is not reflected in some rankings.
 ※2　一部のイベントで演出に矛盾が発生する場合があります。=※2 This may cause contradictions in the flow of events.
-※3　マップ上にてキャラの頭上に吹き出しアイコンが表示され、近づいて右クリックでシーンが切り替わります。="※3 When a speech bubble appears over the character, right-click them to move to the scene." // Base game version
-"※3　マップ上にてキャラの頭上に吹き出しアイコンが表示され、\n         近づいて右クリックでシーンが切り替わります。"="※3 When a speech bubble appears over the character,\n　　right-click them to move to the scene." // Afterschool version
-"※4　数値を０にした場合も変更直前の数値が反映される為、一回だけ発生する可能性があります。\n  　　また、エッチに誘いに来る行動の発生頻度を下げますと、休憩スポットでの襲われエッチが発生しにくくなり、\n 　　 ０の場合は発生しなくなります。"="※4 Even when set to 0, the previously set value is temporarily retained, so it may still happen once.\n　　Also, if you lower the frequency of sex, it will be less likely to occur next time you're at a rest spot,\n　　and it will not occur at all if set to 0." // Base game version
-"※4　数値を０にした場合も変更直前の数値が反映される為、一回だけ発生する\n　　  可能性があります。\n　　  また、エッチに誘いに来る行動の発生頻度を下げますと、休憩スポットでの\n　　  襲われエッチが発生しにくくなり、０の場合は発生しなくなります。"="※4 Even when set to 0, the previously set value is temporarily retained,\n　　so it may still happen once. Also, if you lower the frequency of sex,\n　　it will be less likely to occur next time you're at a rest spot,\n　　and it will not occur at all if set to 0." // Afterschool version
+// Base game version
+※3　マップ上にてキャラの頭上に吹き出しアイコンが表示され、近づいて右クリックでシーンが切り替わります。=※3 When a speech bubble appears over the character, right-click them to move to the scene.
+// Afterschool version
+※3　マップ上にてキャラの頭上に吹き出しアイコンが表示され、\n         近づいて右クリックでシーンが切り替わります。=※3 When a speech bubble appears over the character,\n　　right-click them to move to the scene.
+// Base game version
+※4　数値を０にした場合も変更直前の数値が反映される為、一回だけ発生する可能性があります。\n  　　また、エッチに誘いに来る行動の発生頻度を下げますと、休憩スポットでの襲われエッチが発生しにくくなり、\n 　　 ０の場合は発生しなくなります。=※4 Even when set to 0, the previously set value is temporarily retained, so it may still happen once.\n　　Also, if you lower the frequency of sex, it will be less likely to occur next time you're at a rest spot,\n　　and it will not occur at all if set to 0.
+// Afterschool version
+※4　数値を０にした場合も変更直前の数値が反映される為、一回だけ発生する\n　　  可能性があります。\n　　  また、エッチに誘いに来る行動の発生頻度を下げますと、休憩スポットでの\n　　  襲われエッチが発生しにくくなり、０の場合は発生しなくなります。=※4 Even when set to 0, the previously set value is temporarily retained,\n　　so it may still happen once. Also, if you lower the frequency of sex,\n　　it will be less likely to occur next time you're at a rest spot,\n　　and it will not occur at all if set to 0.
 // Afterschool additions
 地下鉄マップのモブを表示する=Show Mob characters on Subway Map
 モブの色=Mob Color
 マップ選択デートに入らない(※5)=Don't Enter Map Selection On Dates (※5)
-※5　マップ選択デートが追加される前のデートイベントを見ることが出来ます。="※5 You can see the old date events, from before when\n　　the additional maps were added."
+※5　マップ選択デートが追加される前のデートイベントを見ることが出来ます。=※5 You can see the old date events, from before when\n　　the additional maps were added.
 
 // Button along the bottom
 初期化=Defaults

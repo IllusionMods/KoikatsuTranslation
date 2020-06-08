@@ -21,10 +21,11 @@
 コイカツ女学園=Koikatsu Girls' Academy
 コイカツ女学園 学園長=Koikatsu Girls' Academy, Headmistress
 学園長=Headmistress
-コイカツ部=Koikatsu Club // For the Player
+// For the Player
+コイカツ部=Koikatsu Club
 
 // Amount of Attending Students
-r:"^([0-9]+)人$"=r:"$1"
+r:"^([0-9]+)人$"=$1
 
 // Right Side Buttons
 転入=Register
@@ -35,8 +36,9 @@ r:"^([0-9]+)人$"=r:"$1"
 対象=Target
 全体=Every Class
 クラス=This Class
-空席全ランダム=Fill Empty // Older Versions
-空席ランダム=Fill Empty // Newer Versions
+空席ランダム=Fill Empty
+// Older Versions
+空席全ランダム=Fill Empty
 全て空席にする=Empty All
 転校させますか？=Transfer to a different school?
 全キャラを転校させますか？=Transfer everyone to a different school?
@@ -62,8 +64,11 @@ r:"^([0-9]+)人$"=r:"$1"
 一人好き=Likes Being Alone
 // Character Design Addon Pack Vol. 4 (add10)
 女の子好き=Likes Girls
-全選択=All // Button to enable all traits
-全解除=None // Button to disable all traits
+// Button to enable all traits
+全選択=All
+// Button to disable all traits
+全解除=None
+
 
 // Ai's seat
 この席には既に女の子が座っています=A girl already sits in this seat.
@@ -77,10 +82,10 @@ r:"^([0-9]+)人$"=r:"$1"
 //Pers.
 
 // Blood Types
-r:"^([Ａ-Ｚ]+)型$"=r:"Type $1"
+r:"^([Ａ-Ｚ]+)型$"=Type $1
 
 // Date Conversion
-r:"^([0-9]+)月([0-9]+)日$"="$1/$2"
+r:"^([0-9]+)月([0-9]+)日$"=$1/$2
 
 //
 // Story Characters Section

@@ -28,6 +28,7 @@
 ・電マを拒否しない？=Toys Okay?
 ・アナルを拒否しない？=Anal Okay?
 ・ゴム付けなくてもOK？=Condomless Okay?
+sr"^・(.*？)$"=$1
 
 // Erogenous ZOOOOOOOOOOOOOOONES, hahahaha, oh, concubine, erogenous zooooooooones...
 唇=Lips
@@ -68,5 +69,5 @@ H段階=H-Level
 // Afterschool Addons for 3P
 名前 :=Name: 
 性格：=Pers.: 
-女の子1人目="Girl #1"
-女の子2人目="Girl #2"
+女の子1人目=Girl #1
+女の子2人目=Girl #2

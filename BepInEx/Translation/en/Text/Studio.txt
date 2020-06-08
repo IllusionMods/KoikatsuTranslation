@@ -1,4 +1,4 @@
-﻿#set exe CharaStudio
+#set exe CharaStudio
 
 //
 // Right Sidebar
@@ -7,7 +7,7 @@
 ワークスペース=Workspace
 
 // Right Sidebar -> Camera
-r:"^カメラ([0-9]+)$"=r:"Camera $1"
+r:"^カメラ([０-９0-9]+)$"=Camera $1
 
 // Camera Animation Settings
 名前=Name
@@ -17,7 +17,7 @@ r:"^カメラ([0-9]+)$"=r:"Camera $1"
 ルート=Route
 子接続先=Child Access Point
 スタート=Start
-r:"^ポイント([0-9]+)$"=r:"Point $1"
+r:"^ポイント([０-９0-9]+)$"=Point $1
 
 // Route Animation Settings
 ルート設定=Route Settings
@@ -48,70 +48,76 @@ r:"^ポイント([0-9]+)$"=r:"Point $1"
 バウンド=Bound
 
 // Right Sidebar -> Added Character
-グループ : 髪=Group: Hair
-グループ : 頭=Group: Head
-グループ : 顔=Group: Face
-グループ : 首=Group: Neck
-グループ : 胴=Group: Torso
-グループ : 腰=Group: Waist
-グループ : 脚=Group: Legs
-グループ : 腕=Group: Arms
-グループ : 手=Group: Hands
-グループ : 股間=Group: Crotch
-部位 : ポニー=Part: Ponytail
-部位 : ツイン左=Part: Left Twintail
-部位 : ツイン右=Part: Right Twintail
-部位 : ヘアピン左=Part: Left Hairpin
-部位 : ヘアピン右=Part: Right Hairpin
-部位 : 帽子=Part: Hat
-部位 : 額=Part: Forehead
-部位 : 頭上=Part: Top of Head
-部位 : 頭中心=Part: Center of Head
-部位 : イヤリング左=Part: Left Earring
-部位 : イヤリング右=Part: Right Earring
-部位 : 眼鏡=Part: Glasses
-部位 : 鼻=Part: Nose
-部位 : 口=Part: Mouth
-部位 : 首=Part: Neck
-部位 : 胸上=Part: Upper Chest
-部位 : 胸上中央=Part: Center Of Upper Chest
-部位 : 左乳首=Part: Left Nipple
-部位 : 右乳首=Part: Right Nipple
-部位 : 背中中央=Part: Center Of Back
-部位 : 背中左=Part: Left Of Back
-部位 : 背中右=Part: Right Of Back
-部位 : 腰=Part: Waist
-部位 : 腰前=Part: Front Of Waist
-部位 : 腰後ろ=Part: Rear Of Waist
-部位 : 腰左=Part: Left Waist
-部位 : 腰右=Part: Right Waist
-部位 : 左太もも=Part: Left Thigh
-部位 : 左ひざ=Part: Left Knee
-部位 : 左足首=Part: Left Ankle
-部位 : かかと左=Part: Left Heel
-部位 : 右太もも=Part: Right Thigh
-部位 : 右ひざ=Part: Right Knee
-部位 : 右足首=Part: Right Ankle
-部位 : かかと右=Part: Right Heel
-部位 : 左肩=Part: Left Shoulder
-部位 : 左上腕=Part: Left Upper Arm
-部位 : 左ひじ=Part: Left Elbow
-部位 : 左手首=Part: Left Wrist
-部位 : 右肩=Part: Right Shoulder
-部位 : 右上腕=Part: Right Upper Arm
-部位 : 右ひじ=Part: Right Elbow
-部位 : 右手首=Part: Right Wrist
-部位 : 左手=Part: Left Hand
-部位 : 左人差指=Part: Left Index Finger
-部位 : 左中指=Part: Left Middle Finger
-部位 : 左薬指=Part: Left Ring Finger
-部位 : 右手=Part: Right Hand
-部位 : 右人差指=Part: Right Index Finger
-部位 : 右中指=Part: Right Middle Finger
-部位 : 右薬指=Part: Right Ring Finger
-部位 : 男根根本=Part: Base Of Penis
-部位 : 女性器=Part: Female Genitalia
-部位 : 尻穴=Part: Anus
+sr:"^グループ : (.*)$"=Group: $1
+sr:"^部位 : (.*)$"=Part: $1
+
+// Groups
+髪=Hair
+頭=Head
+顔=Face
+首=Neck
+胴=Torso
+腰=Waist
+脚=Legs
+腕=Arms
+手=Hands
+股間=Crotch
+
+// Parts
+ポニー=Ponytail
+ツイン左=Left Twintail
+ツイン右=Right Twintail
+ヘアピン左=Left Hairpin
+ヘアピン右=Right Hairpin
+帽子=Hat
+額=Forehead
+頭上=Top of Head
+頭中心=Center of Head
+イヤリング左=Left Earring
+イヤリング右=Right Earring
+眼鏡=Glasses
+鼻=Nose
+口=Mouth
+首=Neck
+胸上=Upper Chest
+胸上中央=Center Of Upper Chest
+左乳首=Left Nipple
+右乳首=Right Nipple
+背中中央=Center Of Back
+背中左=Left Of Back
+背中右=Right Of Back
+腰=Waist
+腰前=Front Of Waist
+腰後ろ=Rear Of Waist
+腰左=Left Waist
+腰右=Right Waist
+左太もも=Left Thigh
+左ひざ=Left Knee
+左足首=Left Ankle
+かかと左=Left Heel
+右太もも=Right Thigh
+右ひざ=Right Knee
+右足首=Right Ankle
+かかと右=Right Heel
+左肩=Left Shoulder
+左上腕=Left Upper Arm
+左ひじ=Left Elbow
+左手首=Left Wrist
+右肩=Right Shoulder
+右上腕=Right Upper Arm
+右ひじ=Right Elbow
+右手首=Right Wrist
+左手=Left Hand
+左人差指=Left Index Finger
+左中指=Left Middle Finger
+左薬指=Left Ring Finger
+右手=Right Hand
+右人差指=Right Index Finger
+右中指=Right Middle Finger
+右薬指=Right Ring Finger
+男根根本=Base Of Penis
+女性器=Female Genitalia
+尻穴=Anus
 
 // Right Sidebar -> Default New Folder
 フォルダー=New Folder
@@ -157,15 +163,16 @@ r:"^ポイント([0-9]+)$"=r:"Point $1"
 // Patch 0727
 気さく=Friendly
 // Personality DLC, also includes Friendly above
-勝気=Willful // Illusion just HAS to be different here compared to the main game!
-勝ち気=Willful // And then Illusion has to double-derp by using both versions!
+// Studio uses two versions of Willful and Sadistic
+勝気=Willful
+勝ち気=Willful
 誠実=Honest
 艶やか=Glamorous
 // Afterschool DLC
 帰国子女=Returnee
 方言娘=Slangy
-Ｓっ気=Sadistic // Studio has to be different here, too...
-Sッ気=Sadistic // ...Then they fixed it.
+Ｓっ気=Sadistic
+Sッ気=Sadistic
 無感情=Emotionless
 // Emotion Creators Preorder DLC
 几帳面=Perfectionist
@@ -195,7 +202,7 @@ Sッ気=Sadistic // ...Then they fixed it.
 オブジェクトコントローラー=Object Controller
 平行移動=Horiz.
 上下移動=Vert.
-r:"^([Ａ-Ｚ])回転$"=r:"$1 Rot."
+r:"^([Ａ-Ｚ])回転$"=$1 Rot.
 
 //
 // Map Controller
@@ -226,22 +233,22 @@ r:"^([Ａ-Ｚ])回転$"=r:"$1 Rot."
 揺れ制御=Shake Control
 
 // Item Settings -> Lower Right Box (Color picker)
-r:"^アイテム カラー([０-９])$"=r:"Item Color $1"
-r:"^柄の色([０-９])$"=r:"Pattern Color $1"
+r:"^アイテム カラー([０-９0-9]+)$"=Item Color $1
+r:"^柄の色([０-９0-9]+)$"=Pattern Color $1
 
 // Item Settings -> Patterns
 柄を選択して下さい=Please Select A Pattern
 ストライプ=Vertical Stripes
 斜めストライプ=Slanted Stripes
 ボーダー=Horizontal Stripes
-r:"^チェック([A-Z])$"=r:"Checkered $1"
+r:"^チェック([A-Z])$"=Checkered $1
 市松チェック=Checkerboard
 ハーリキンチェック=Harlequin Checkered
 千鳥格子=Hound's Tooth
 ハート=Heart
 水玉=Polka Dots
 花柄=Flowers
-r:"^星([A-Z])$"=r:"Stars $1"
+r:"^星([A-Z])$"=Stars $1
 イチゴ=Strawberries
 ドクロ=Skull
 ヒョウ=Leopard Print
@@ -281,7 +288,8 @@ r:"^星([A-Z])$"=r:"Stars $1"
 //Strength
 //Intensity
 スポット角度=Spot Angle
-ライト=Light // Lower Right Box
+// Lower Right Box
+ライト=Light
 
 //
 // Add Menu
@@ -516,18 +524,18 @@ FKアイテム=FK Items
 画像板=Image Board
 
 // Add -> Items -> Base -> Ground
-r:"^畳([0-9])$"=r:"Tatami Mat $1"
+r:"^畳([０-９0-9]+)$"=Tatami Mat $1
 囲炉裏=Sunken Fireplace
-r:"^アスファルト床([0-9])$"=r:"Asphalt Floor $1"
-r:"^石床([0-9])$"=r:"Stone Floor $1"
-r:"^石畳([0-9])$"=r:"Stone Paving $1"
-r:"^レンガ床([0-9])$"=r:"Brick Floor $1"
-r:"^タイル床([０-９0-9])$"=r:"Tile Floor $1" // Because the first one is goddamn fullwidth
+r:"^アスファルト床([０-９0-9]+)$"=Asphalt Floor $1
+r:"^石床([０-９0-9]+)$"=Stone Floor $1
+r:"^石畳([０-９0-9]+)$"=Stone Paving $1
+r:"^レンガ床([０-９0-9]+)$"=Brick Floor $1
+r:"^タイル床([０-９0-9]+)$"=Tile Floor $1
 校内床=School Floor
 体育館床=Gym Floor
-r:"^砂地([0-9])$"=r:"Sand $1"
+r:"^砂地([０-９0-9]+)$"=Sand $1
 地面(土)=Dirt
-r:"^花壇([0-9])$"=r:"Flower Bed $1"
+r:"^花壇([０-９0-9]+)$"=Flower Bed $1
 草原=Grass
 水面(海)=Ocean Surface
 水面(川)=River Surface
@@ -538,19 +546,19 @@ r:"^花壇([0-9])$"=r:"Flower Bed $1"
 浜辺(砂)=Beach (All Sand)
 
 // Add -> Items -> Base -> Doors
-r:"^襖([0-9])$"=r:"Sliding Door $1"
+r:"^襖([０-９0-9]+)$"=Sliding Door $1
 ガラス入り障子=Glass-Paned Paper Door
-r:"^障子([0-9])$"=r:"Paper Door $1"
+r:"^障子([０-９0-9]+)$"=Paper Door $1
 戸=Door
-r:"^トイレドア([0-9])$"=r:"Toilet Door $1"
+r:"^トイレドア([０-９0-9]+)$"=Toilet Door $1
 シャワー室ドア=Shower Door
 
 // Add -> Items -> Base -> Walls
-r:"^石壁([0-9])$"=r:"Stone Wall $1"
+r:"^石壁([０-９0-9]+)$"=Stone Wall $1
 石柱=Stone Pillar
 木柱=Wood Pillar
 木製壁=Wood Wall
-r:"^ブロック壁([0-9])$"=r:"Block Wall $1"
+r:"^ブロック壁([０-９0-9]+)$"=Block Wall $1
 体育館壁=Gym Wall
 黒板=Blackboard
 窓=Window
@@ -558,19 +566,19 @@ r:"^ブロック壁([0-9])$"=r:"Block Wall $1"
 
 // Add -> Items -> Base -> Stairs
 階段(木)=Wooden Stairs
-r:"^石階段([0-9])$"=r:"Stone Stairs $1"
+r:"^石階段([０-９0-9]+)$"=Stone Stairs $1
 
 // Add -> Items -> Base -> Installed Objects
 柵=Fence
 竹柵=Bamboo Fence
 金網フェンス=Chain-Link Fence
 木製コーナー=Wooden Cornerpost
-r:"^壁ボックス([0-9])$"=r:"Wall Box $1"
-r:"^ホワイトボード([0-9])$"=r:"Whiteboard $1"
+r:"^壁ボックス([０-９0-9]+)$"=Wall Box $1
+r:"^ホワイトボード([０-９0-9]+)$"=Whiteboard $1
 立て看板=Billboard
 注意看板=Caution Sign
 ししおどし=Shishi-odoshi
-r:"^岩([0-9])$"=r:"Rock $1"
+r:"^岩([０-９0-9]+)$"=Rock $1
 鉄骨=Steel Beams
 ガードレール=Guardrail
 駐輪場屋根=Bicycle Parking
@@ -583,7 +591,7 @@ r:"^岩([0-9])$"=r:"Rock $1"
 切り株=Tree Stump
 
 // Add -> Items -> Base -> Structures
-r:"^ビル([0-9])$"=r:"Building $1"
+r:"^ビル([０-９0-9]+)$"=Building $1
 公衆トイレ=Public Bathroom
 
 // Add -> Items -> Base -> Skies
@@ -614,7 +622,7 @@ r:"^ビル([0-9])$"=r:"Building $1"
 布団=Futon
 
 // Add -> Items -> Furniture -> Desks
-r:"^机([0-9])$"=r:"Desk $1"
+r:"^机([０-９0-9]+)$"=Desk $1
 折り畳み用机=Folding Desk
 コーナー机=Corner Desk
 教壇=Teacher's Podium
@@ -623,7 +631,7 @@ r:"^机([0-9])$"=r:"Desk $1"
 長テーブル低=Short Long Table
 長テーブル高=Tall Long Table
 丸テーブル高=Tall Circular Table
-r:"^ちゃぶ台([0-9])$"=r:"Chabudai $1"
+r:"^ちゃぶ台([０-９0-9]+)$"=Chabudai $1
 食堂テーブル=Dining Table
 食堂長テーブル=Long Dining Table
 ガラステーブル(四角)=Rectangular Glass Table
@@ -632,51 +640,51 @@ r:"^ちゃぶ台([0-9])$"=r:"Chabudai $1"
 教卓=Teacher's Desk
 
 // Add -> Items -> Furniture -> Chairs
-r:"^椅子([0-9])$"=r:"Chair $1"
-r:"^食堂椅子([0-9])$"=r:"Dining Chair $1"
+r:"^椅子([０-９0-9]+)$"=Chair $1
+r:"^食堂椅子([０-９0-9]+)$"=Dining Chair $1
 丸椅子=Stool
 木椅子=Wooden Chair
-r:"^パイプ椅子([0-9])$"=r:"Pipe Chair $1"
+r:"^パイプ椅子([０-９0-9]+)$"=Pipe Chair $1
 座椅子=Legless Chair
-r:"^長椅子([0-9])$"=r:"Gym Bench $1"
-r:"^ソファ([0-9])$"=r:"Sofa $1"
-r:"^豪華ソファ([0-9])$"=r:"Expensive Sofa $1"
-r:"^ベンチ([0-9])$"=r:"Bench $1"
+r:"^長椅子([０-９0-9]+)$"=Gym Bench $1
+r:"^ソファ([０-９0-9]+)$"=Sofa $1
+r:"^豪華ソファ([０-９0-9]+)$"=Expensive Sofa $1
+r:"^ベンチ([０-９0-9]+)$"=Bench $1
 監視台=Judge's Chair
-r:"^和風長椅子([0-9])$"=r:"Japanese Chair $1"
+r:"^和風長椅子([０-９0-9]+)$"=Japanese Chair $1
 教室椅子=Classroom Chair
 // Patch 0525
 丸椅子(高)=Stool (High)
 テラスチェアー=Terrace Chair
 
 // Add -> Items -> Furniture -> Shelves
-r:"^ロッカー([0-9])$"=r:"Locker $1"
-r:"^壁棚([0-9])$"=r:"Wall Shelf $1"
-r:"^小棚([0-9])$"=r:"Small Shelf $1"
-r:"^事務棚([0-9])$"=r:"Office Shelf $1"
-r:"^大棚([0-9])$"=r:"Large Shelf $1"
-r:"^自室棚([0-9])$"=r:"Bedroom Shelf $1"
-r:"^図書室棚([0-9])$"=r:"Library Shelf $1"
-r:"^棚([0-9])$"=r:"Shelf $1"
+r:"^ロッカー([０-９0-9]+)$"=Locker $1
+r:"^壁棚([０-９0-9]+)$"=Wall Shelf $1
+r:"^小棚([０-９0-9]+)$"=Small Shelf $1
+r:"^事務棚([０-９0-9]+)$"=Office Shelf $1
+r:"^大棚([０-９0-9]+)$"=Large Shelf $1
+r:"^自室棚([０-９0-9]+)$"=Bedroom Shelf $1
+r:"^図書室棚([０-９0-9]+)$"=Library Shelf $1
+r:"^棚([０-９0-9]+)$"=Shelf $1
 
 // Add -> Items -> Furniture -> Dividers
 仕切りカーテン=Privacy Curtain
-r:"^カーテンレール([0-9])$"=r:"Curtain Rails $1"
-r:"^カーテン([0-9])$"=r:"Curtain $1"
-r:"^ブラインド([0-9])$"=r:"Blinds $1"
+r:"^カーテンレール([０-９0-9]+)$"=Curtain Rails $1
+r:"^カーテン([０-９0-9]+)$"=Curtain $1
+r:"^ブラインド([０-９0-9]+)$"=Blinds $1
 パーテーション=Partition
-r:"^シャワー室仕切り([0-9])$"=r:"Shower Divider $1"
-r:"^トイレ仕切り([0-9])$"=r:"Toilet Divider $1"
+r:"^シャワー室仕切り([０-９0-9]+)$"=Shower Divider $1
+r:"^トイレ仕切り([０-９0-9]+)$"=Toilet Divider $1
 
 // Add -> Items -> Furniture -> Bathroom
-r:"^便器([0-9])$"=r:"Toilet $1"
-r:"^トイレットペーパー([0-9])$"=r:"Toiletpaper $1"
+r:"^便器([０-９0-9]+)$"=Toilet $1
+r:"^トイレットペーパー([０-９0-9]+)$"=Toiletpaper $1
 流し台=Washstand
 水道=Washbasin
-r:"^蛇口([0-9])$"=r:"Faucet $1"
+r:"^蛇口([０-９0-9]+)$"=Faucet $1
 シャワーノズル=Shower Nozzle
 シャワーノブ=Shower Knob
-r:"^洗面器([0-9])$"=r:"Sink $1"
+r:"^洗面器([０-９0-9]+)$"=Sink $1
 
 // Add -> Items -> Furniture -> Summer
 ビーチチェア=Beach Chair
@@ -707,23 +715,23 @@ r:"^洗面器([0-9])$"=r:"Sink $1"
 バスケットゴール=Basketball Backboard
 平均台=Balance Beam
 ボール入れ=Ball Container
-r:"^マット([0-9])$"=r:"Mat $1"
-r:"^跳び箱([0-9])$"=r:"Vaulting Horse $1"
+r:"^マット([０-９0-9]+)$"=Mat $1
+r:"^跳び箱([０-９0-9]+)$"=Vaulting Horse $1
 踏切版=Starting Block
 得点台=Scoreboard
-r:"^ボール([0-9])$"=r:"Ball $1"
+r:"^ボール([０-９0-9]+)$"=Ball $1
 ハードル=Hurdle
-r:"^プールロープ([0-9])$"=r:"Pool Rope $1"
-r:"^飛び込み台([0-9])$"=r:"Diving Board $1"
-r:"^手すり([0-9])$"=r:"Handrail $1"
+r:"^プールロープ([０-９0-9]+)$"=Pool Rope $1
+r:"^飛び込み台([０-９0-9]+)$"=Diving Board $1
+r:"^手すり([０-９0-9]+)$"=Handrail $1
 朝礼台=Morning Assembly Stand
 サッカーゴール=Soccer Goal
 ローラー=Roller
 ネット=Net
 
 // Add -> Items -> Objects -> Plants
-r:"^観葉植物([0-9])$"=r:"Decorative Plant $1"
-r:"^生垣([0-9])$"=r:"Hedge $1"
+r:"^観葉植物([０-９0-9]+)$"=Decorative Plant $1
+r:"^生垣([０-９0-9]+)$"=Hedge $1
 カエデ=Maple Tree
 木=Tree
 
@@ -788,9 +796,9 @@ r:"^生垣([0-9])$"=r:"Hedge $1"
 灰皿=Ashtray
 かご=Basket
 丸いステンドグラス=Circular Stained Glass
-r:"^ステンドグラス([０-９])$"=r:"Stained Glass $1"
+r:"^ステンドグラス([０-９0-9]+)$"=Stained Glass $1
 太陽のステンドグラス=Sun Pattern Stained Glass
-r:"^教会の柱([０-９])$"=r:"Church Pillar $1"
+r:"^教会の柱([０-９0-9]+)$"=Church Pillar $1
 装飾柵=Decorative Fence
 祭壇=Altar
 教会の椅子=Church Pew
@@ -798,20 +806,20 @@ r:"^教会の柱([０-９])$"=r:"Church Pillar $1"
 装飾花=Ornamental Flower
 透けた布=Transparent Cloth
 細い蝋燭=Slender Candle
-r:"^燭台([０-９])$"=r:"Candlestick $1"
+r:"^燭台([０-９0-9]+)$"=Candlestick $1
 丸いソファ=Round Ottoman
 個室のソファ=Bedroom Sofa
 個室のテーブル=Bedroom Table
 タンバリン=Tambourine
 マラカス=Maracas
-r:"^音楽機器([０-９])$"=r:"Karaoke Machine $1"
+r:"^音楽機器([０-９0-9]+)$"=Karaoke Machine $1
 マイクスタンド=Microphone Stand
 マイク=Microphone
-r:"^充電器([０-９])$"=r:"Charging Dock $1"
+r:"^充電器([０-９0-9]+)$"=Charging Dock $1
 監視カメラ=Surveillance Camera
 リールライト=Light Batten
-r:"^音響機器([０-９])$"=r:"Loudspeaker $1"
-r:"^照明機器([０-９])$"=r:"Stage Lighting $1"
+r:"^音響機器([０-９0-9]+)$"=Loudspeaker $1
+r:"^照明機器([０-９0-9]+)$"=Stage Lighting $1
 簡易鉄骨（大）=Simple Steel Truss (Large)
 簡易鉄骨（中）=Simple Steel Truss (Medium)
 簡易鉄骨（小）=Simple Steel Truss (Small)
@@ -856,17 +864,17 @@ r:"^照明機器([０-９])$"=r:"Stage Lighting $1"
 ラムネ瓶=Lemon Soda Bottle
 
 // Add -> Items -> Objects -> Foodstuffs -> Food
-r:"^弁当([0-9])$"=r:"Bento $1"
+r:"^弁当([０-９0-9]+)$"=Bento $1
 アイスクリーム=Ice Cream
 お茶菓子=Tea Cakes
 おにぎり=Rice Ball
 カツサンド=Pork Sandwich
-r:"^サンドイッチ([0-9])$"=r:"Sandwich $1"
-r:"^メロンパン([0-9])$"=r:"Melon Bread $1"
+r:"^サンドイッチ([０-９0-9]+)$"=Sandwich $1
+r:"^メロンパン([０-９0-9]+)$"=Melon Bread $1
 パウンドケーキ=Pound Cake
 ごはん=Bowl Of Rice
-r:"^定食([0-9])$"=r:"Full Meal $1"
-r:"^バナナ([0-9])$"=r:"Banana $1"
+r:"^定食([０-９0-9]+)$"=Full Meal $1
+r:"^バナナ([０-９0-9]+)$"=Banana $1
 胡瓜=Cucumber
 魚肉ソーセージ=Fish Sausage
 // Patch 0727
@@ -894,49 +902,49 @@ r:"^バナナ([0-9])$"=r:"Banana $1"
 色ペン=Colored Pen
 鉛筆=Pencil
 消しゴム=Eraser
-r:"^ノート([0-9])$"=r:"Notebook $1"
+r:"^ノート([０-９0-9]+)$"=Notebook $1
 ちりとり=Dustpan
-r:"^バケツ([0-9])$"=r:"Bucket $1"
+r:"^バケツ([０-９0-9]+)$"=Bucket $1
 雑巾=Dustcloth
 消火器=Fire Extinguisher
 手鏡=Hand Mirror
-r:"^踏み台([0-9])$"=r:"Stool $1"
+r:"^踏み台([０-９0-9]+)$"=Stool $1
 すのこ=Slatted Wood
-r:"^カレンダー([0-9])$"=r:"Calendar $1"
+r:"^カレンダー([０-９0-9]+)$"=Calendar $1
 本立て=Bookend
-r:"^本([0-9])$"=r:"Book $1"
+r:"^本([０-９0-9]+)$"=Book $1
 本列=Row of Books
-r:"^見開き本([0-9])$"=r:"Opened Book $1"
+r:"^見開き本([０-９0-9]+)$"=Opened Book $1
 テッシュ=Box Of Tissues
-r:"^ゴミ箱([0-9])$"=r:"Garbage Can $1"
-r:"^ダンボール([0-9])$"=r:"Cardboard $1"
+r:"^ゴミ箱([０-９0-9]+)$"=Garbage Can $1
+r:"^ダンボール([０-９0-9]+)$"=Cardboard $1
 ツールボックス=Toolbox
-r:"^紙箱([0-9])$"=r:"Paper Box $1"
+r:"^紙箱([０-９0-9]+)$"=Paper Box $1
 
 // Add -> Items -> Objects -> Small Articles -> General Goods
 うさぎの人形=Rabbit Doll
 ジト目うさぎ=Disgusted Rabbit
 額縁=Frame
-r:"^壁掛け([0-9])$"=r:"Wall Decoration $1"
+r:"^壁掛け([０-９0-9]+)$"=Wall Decoration $1
 バインダー=Binder
 デスクマット=Desk Mat
 黒板消し=Blackboard Eraser
 書類入れ=Document Holder
-r:"^掲載物([０-９0-9])$"=r:"Notice $1" // Because the fourth one is goddamn fullwidth
+r:"^掲載物([０-９0-9]+)$"=Notice $1
 漫研部チラシ=Manga Club Leaflet
-r:"^プラモデル([0-9])$"=r:"Plastic Model $1"
+r:"^プラモデル([０-９0-9]+)$"=Plastic Model $1
 地球儀=Globe
-r:"^大型定規([0-9])$"=r:"Large Ruler $1"
+r:"^大型定規([０-９0-9]+)$"=Large Ruler $1
 コルクボード=Corkboard
 木製トンボ=Wooden Dragonfly
 カラーコーン=Safety Cone
 コーンバー=Cone Bar
 将棋盤=Shogi Board
 将棋駒入れ=Shogi Piece Container
-r:"^壺([0-9])$"=r:"Vase $1"
-r:"^座布団([0-9])$"=r:"Zabuton $1"
-r:"^掛け軸([0-9])$"=r:"Hanging Scroll $1"
-r:"^陶器([0-9])$"=r:"Earthenware $1"
+r:"^壺([０-９0-9]+)$"=Vase $1
+r:"^座布団([０-９0-9]+)$"=Zabuton $1
+r:"^掛け軸([０-９0-9]+)$"=Hanging Scroll $1
+r:"^陶器([０-９0-9]+)$"=Earthenware $1
 柄杓=Dipper
 釜=Kettle
 蝋燭=Candle
@@ -946,7 +954,7 @@ r:"^陶器([0-9])$"=r:"Earthenware $1"
 
 // Add -> Items -> Objects -> Small Articles -> Appliances
 照明スイッチ=Light Switch
-r:"^時計([0-9])$"=r:"Clock $1"
+r:"^時計([０-９0-9]+)$"=Clock $1
 エアコン=Air Conditioner
 イヤホン=Earbuds
 ゲームコントローラー=Game Controller
@@ -961,13 +969,13 @@ r:"^時計([0-9])$"=r:"Clock $1"
 ノートＰＣ=Laptop
 プリンター=Printer
 コンポ=Compact Stereo
-r:"^テレビ([0-9])$"=r:"TV $1"
-r:"^冷水器([0-9])$"=r:"Water Fountain $1"
-r:"^自販機([0-9])$"=r:"Vending Machine $1"
+r:"^テレビ([０-９0-9]+)$"=TV $1
+r:"^冷水器([０-９0-9]+)$"=Water Fountain $1
+r:"^自販機([０-９0-9]+)$"=Vending Machine $1
 教室スピーカー=Classroom Speaker
 コンセント=Electrical Socket
-r:"^たこ足配線([0-9])$"=r:"Power Strip $1"
-r:"^コンセントコード([0-9])$"=r:"Electrical Cord $1"
+r:"^たこ足配線([０-９0-9]+)$"=Power Strip $1
+r:"^コンセントコード([０-９0-9]+)$"=Electrical Cord $1
 
 // Add -> Items -> Objects -> Small Articles -> Medical Care
 身長計=Height Scale
@@ -984,7 +992,7 @@ r:"^コンセントコード([0-9])$"=r:"Electrical Cord $1"
 爆弾=Bomb
 バリスタ=Ballista
 バリスタの槍=Ballista Javelin
-r:"^宝箱([0-9])$"=r:"Treasure Chest $1"
+r:"^宝箱([０-９0-9]+)$"=Treasure Chest $1
 布袋=Cloth Bag
 コイン=Coin
 
@@ -1044,18 +1052,18 @@ r:"^宝箱([0-9])$"=r:"Treasure Chest $1"
 髪留め=Barette
 安全ピン=Safety Pin
 大きなリボン=Large Ribbon
-r:"^細リボン([A-Z])$"=r:"Fine Ribbon $1"
+r:"^細リボン([A-Z])$"=Fine Ribbon $1
 ドクロの髪飾り=Skull Ornament
 星のバレッタ=Star Barette
 星の髪飾り=Star Ornament
 クロスヘアピン=Cross Hairpin
 
 // Add -> Items -> Character -> Head
-r:"^あほ毛([A-Z])$"=r:"Ahoge $1"
-r:"^くるくるあほ毛([A-Z])$"=r:"Curly Ahoge $1"
-r:"^ギザギザあほ毛([A-Z])$"=r:"Jagged Ahoge $1"
-r:"^ちょびあほ毛([A-Z])$"=r:"Tiny Ahoge $1"
-r:"^ハートあほ毛([A-Z])$"=r:"Heart Ahoge $1"
+r:"^あほ毛([A-Z])$"=Ahoge $1
+r:"^くるくるあほ毛([A-Z])$"=Curly Ahoge $1
+r:"^ギザギザあほ毛([A-Z])$"=Jagged Ahoge $1
+r:"^ちょびあほ毛([A-Z])$"=Tiny Ahoge $1
+r:"^ハートあほ毛([A-Z])$"=Heart Ahoge $1
 ベレー帽=Beret
 カラー帽子=Colored Hat
 鉢巻=Headband
@@ -1107,7 +1115,7 @@ r:"^ハートあほ毛([A-Z])$"=r:"Heart Ahoge $1"
 眼帯左用=Right Eyepatch
 プリーツマスク=Sickness Mask
 ダイア=Diamond
-r:"^ハート([A-Z])$"=r:"Heart $1"
+r:"^ハート([A-Z])$"=Heart $1
 スペード=Spade
 クローバー=Club
 土星=Saturn Earring
@@ -1203,9 +1211,9 @@ r:"^ハート([A-Z])$"=r:"Heart $1"
 艦艇の模型=War Fleet Model
 魚雷発射管の模型=Torpedo Tube Model
 2連装砲台の模型=Twin Gun Mount Model
-r:"^メカ装甲([０-９])$"=r:"Mecha Armor $1"
+r:"^メカ装甲([０-９0-9]+)$"=Mecha Armor $1
 メカ装甲６×３=Mecha Armor ６×３
-r:"^メカアンテナ([0-9])$"=r:"Mecha Antenna $1"
+r:"^メカアンテナ([０-９0-9]+)$"=Mecha Antenna $1
 メカショルダー=Mecha Shoulder
 メカウィング=Mecha Wing
 メカウイングⅡ=Mecha Wing Ⅱ
@@ -1304,7 +1312,7 @@ r:"^メカアンテナ([0-9])$"=r:"Mecha Antenna $1"
 ウェディングチョーカー=Wedding Choker
 ウェディングバッスル=Wedding Bustle
 ウェディングリボン=Wedding Ribbon
-r:"^付け毛([0-9][0-9])$"=r:"Hairpiece $1"
+r:"^付け毛([０-９0-9][０-９0-9]+)$"=Hairpiece $1
 
 // Add -> Items -> Character -> Christmas
 雪の結晶(キャラ)=Snowflake (Character)
@@ -1357,30 +1365,30 @@ r:"^付け毛([0-9][0-9])$"=r:"Hairpiece $1"
 // Add -> Items -> 2D Effects -> Speech Balloons
 // Thanks for doing #1 as a fullwidth numeral and everything else as halfwidth, Illusion
 // At least you didn't mix up the parentheses unlike in the general/chara model items
-r:"^丸吹き出し([０-９0-9])左$"=r:"Oval $1 Left"
-r:"^丸吹き出し([０-９0-9])左\\(影あり\\)$"=r:"Oval $1 Left (Shadowed)"
-r:"^丸吹き出し([０-９0-9])右$"=r:"Oval $1 Right"
-r:"^丸吹き出し([０-９0-9])右\\(影あり\\)$"=r:"Oval $1 Right (Shadowed)"
-r:"^角吹き出し([０-９0-9])左$"=r:"Angular $1 Left"
-r:"^角吹き出し([０-９0-9])左\\(影あり\\)$"=r:"Angular $1 Left (Shadowed)"
-r:"^角吹き出し([０-９0-9])右$"=r:"Angular $1 Right"
-r:"^角吹き出し([０-９0-9])右\\(影あり\\)$"=r:"Angular $1 Right (Shadowed)"
-r:"^四角吹き出し([０-９0-9])左$"=r:"Rectangular $1 Left"
-r:"^四角吹き出し([０-９0-9])左\\(影あり\\)$"=r:"Rectangular $1 Left (Shadowed)"
-r:"^四角吹き出し([０-９0-9])右$"=r:"Rectangular $1 Right"
-r:"^四角吹き出し([０-９0-9])右\\(影あり\\)$"=r:"Rectangular $1 Right (Shadowed)"
-r:"^正円吹き出し([０-９0-9])左$"=r:"Circular $1 Left"
-r:"^正円吹き出し([０-９0-9])左\\(影あり\\)$"=r:"Circular $1 Left (Shadowed)"
-r:"^正円吹き出し([０-９0-9])右$"=r:"Circular $1 Right"
-r:"^正円吹き出し([０-９0-9])右\\(影あり\\)$"=r:"Circular $1 Right (Shadowed)"
-r:"^雲吹き出し([０-９0-9])左$"=r:"Cloud $1 Left"
-r:"^雲吹き出し([０-９0-9])左\\(影あり\\)$"=r:"Cloud $1 Left (Shadowed)"
-r:"^雲吹き出し([０-９0-9])右$"=r:"Cloud $1 Right"
-r:"^雲吹き出し([０-９0-9])右\\(影あり\\)$"=r:"Cloud $1 Right (Shadowed)"
-r:"^雷吹き出し([０-９0-9])左$"=r:"Lightning $1 Left"
-r:"^雷吹き出し([０-９0-9])左\\(影あり\\)$"=r:"Lightning $1 Left (Shadowed)"
-r:"^雷吹き出し([０-９0-9])右$"=r:"Lightning $1 Right"
-r:"^雷吹き出し([０-９0-9])右\\(影あり\\)$"=r:"Lightning $1 Right (Shadowed)"
+r:"^丸吹き出し([０-９0-9]+)左$"=Oval $1 Left
+r:"^丸吹き出し([０-９0-9]+)左\\(影あり\\)$"=Oval $1 Left (Shadowed)
+r:"^丸吹き出し([０-９0-9]+)右$"=Oval $1 Right
+r:"^丸吹き出し([０-９0-9]+)右\\(影あり\\)$"=Oval $1 Right (Shadowed)
+r:"^角吹き出し([０-９0-9]+)左$"=Angular $1 Left
+r:"^角吹き出し([０-９0-9]+)左\\(影あり\\)$"=Angular $1 Left (Shadowed)
+r:"^角吹き出し([０-９0-9]+)右$"=Angular $1 Right
+r:"^角吹き出し([０-９0-9]+)右\\(影あり\\)$"=Angular $1 Right (Shadowed)
+r:"^四角吹き出し([０-９0-9]+)左$"=Rectangular $1 Left
+r:"^四角吹き出し([０-９0-9]+)左\\(影あり\\)$"=Rectangular $1 Left (Shadowed)
+r:"^四角吹き出し([０-９0-9]+)右$"=Rectangular $1 Right
+r:"^四角吹き出し([０-９0-9]+)右\\(影あり\\)$"=Rectangular $1 Right (Shadowed)
+r:"^正円吹き出し([０-９0-9]+)左$"=Circular $1 Left
+r:"^正円吹き出し([０-９0-9]+)左\\(影あり\\)$"=Circular $1 Left (Shadowed)
+r:"^正円吹き出し([０-９0-9]+)右$"=Circular $1 Right
+r:"^正円吹き出し([０-９0-9]+)右\\(影あり\\)$"=Circular $1 Right (Shadowed)
+r:"^雲吹き出し([０-９0-9]+)左$"=Cloud $1 Left
+r:"^雲吹き出し([０-９0-9]+)左\\(影あり\\)$"=Cloud $1 Left (Shadowed)
+r:"^雲吹き出し([０-９0-9]+)右$"=Cloud $1 Right
+r:"^雲吹き出し([０-９0-9]+)右\\(影あり\\)$"=Cloud $1 Right (Shadowed)
+r:"^雷吹き出し([０-９0-9]+)左$"=Lightning $1 Left
+r:"^雷吹き出し([０-９0-9]+)左\\(影あり\\)$"=Lightning $1 Left (Shadowed)
+r:"^雷吹き出し([０-９0-9]+)右$"=Lightning $1 Right
+r:"^雷吹き出し([０-９0-9]+)右\\(影あり\\)$"=Lightning $1 Right (Shadowed)
 回想吹き出し１左=Thinking １ Left
 回想吹き出し１左(影あり)=Thinking １ Left (Shadowed)
 回想吹き出し１右=Thinking １ Right
@@ -1389,27 +1397,28 @@ r:"^雷吹き出し([０-９0-9])右\\(影あり\\)$"=r:"Lightning $1 Right (Sha
 // Illusion buggered the first kanji in the next four - should be 楕, but it's 惰)
 // If they'd done it properly, the line above would've been RegEx'd, but since not, it's static
 // Ellipse 2+ Left onwards use halfwidth numerals as well
-r:"^惰円吹き出し([0-9])左$"=r:"Ellipse $1 Left"
-r:"^惰円吹き出し([０-９0-9])左\\(影あり\\)$"=r:"Ellipse $1 Left (Shadowed)"
-r:"^惰円吹き出し([０-９0-9])右$"=r:"Ellipse $1 Right"
-r:"^惰円吹き出し([０-９0-9])右\\(影あり\\)$"=r:"Ellipse $1 Right (Shadowed)"
+r:"^惰円吹き出し([０-９0-9]+)左$"=Ellipse $1 Left
+r:"^惰円吹き出し([０-９0-9]+)左\\(影あり\\)$"=Ellipse $1 Left (Shadowed)
+r:"^惰円吹き出し([０-９0-9]+)右$"=Ellipse $1 Right
+r:"^惰円吹き出し([０-９0-9]+)右\\(影あり\\)$"=Ellipse $1 Right (Shadowed)
 棘吹き出し１左=Shocked 1 Left
 棘吹き出し１左(影あり)=Shocked 1 Left (Shadowed)
 棘吹き出し１右=Shocked 1 Right
 棘吹き出し１右(影あり)=Shocked 1 Right (Shadowed)
-r:"^先なし吹き出し\\(楕円([0-9])\\)$"=r:"No Tip (Ellipse $1)"
+r:"^先なし吹き出し\\(楕円([０-９0-9]+)\\)$"=No Tip (Ellipse $1)
 先なし吹き出し(角)=No Tip (Angular)
-r:"^先なし吹き出し\\(四角([0-9])\\)$"=r:"No Tip (Rectangular $1)"
+r:"^先なし吹き出し\\(四角([０-９0-9]+)\\)$"=No Tip (Rectangular $1)
 先なし吹き出し(正円)=No Tip (Circular)
 先なし吹き出し(雲)=No Tip (Cloud)
-r:"^吹き出し先([0-9]+)$"=r:"Tip $1"
+r:"^吹き出し先([０-９0-9]+)$"=Tip $1
 // These got added somewhere...
-r:"^色影\\(四角([0-9])\\)$"=r:"Colored Shadow (Square $1)"
+r:"^色影\\(四角([０-９0-9]+)\\)$"=Colored Shadow (Square $1)
 
 // Add -> Items -> 2D Effects -> Scene Effects
 集中線=Focal Lines
 丸影=Circular Shadow
-r:"^レンズフレア([A-Z])$"=r:"Lens Flare $1" // Lens Flares C-G were added in Patch 0525, A/B are base game
+// Lens Flares C-G were added in Patch 0525, A/B are base game
+r:"^レンズフレア([A-Z])$"=Lens Flare $1
 // Patch 0727
 色影=Colored Shadow
 
@@ -1422,7 +1431,8 @@ obj無し=Without Objects
 
 // Add -> Items -> Gimmicks -> With Objects
 回転=Rotator
-r:"^関節([0-9]+)$"=r:"$1° Joint" //10°, 30°, and 45° were added in Patch 0525, 60/180 are base game
+//10°, 30°, and 45° were added in Patch 0525, 60/180 are base game
+r:"^関節([０-９0-9]+)$"=$1° Joint
 ピストン=Piston
 吊りパイプ柔らか=Flexible Hanging Pipe
 吊りパイプ固い=Stiff Hanging Pipe
@@ -1433,23 +1443,24 @@ r:"^関節([0-9]+)$"=r:"$1° Joint" //10°, 30°, and 45° were added in Patch 0
 吊りボール柔らか(長=Flexible Hanging Ball (Long)
 吊りボール固い(長=Stiff Hanging Ball (Long)
 // Character Design Addon Pack Vol. 3 (add09)
-r:"^投げ([0-9]+)$"=r:"Pitch $1"
+r:"^投げ([０-９0-9]+)$"=Pitch $1
 // Patch 0525
-r:"^関節([0-9]+)$"=r:"$1° Joint"
+r:"^関節([０-９0-9]+)$"=$1° Joint
 // Patch 0629
-r:"^関節([0-9]+)_Bタイプ$"=r:"$1° Joint Type B"
+r:"^関節([０-９0-9]+)_Bタイプ$"=$1° Joint Type B
 
 // Add -> Items -> Gimmicks -> Without Objects
 回転（obj無し）=Rotator (Without Object)
 ピストン（obj無し）=Piston (Without Object)
 振動（obj無し）=Shaker (Without Object)
 浮遊（obj無し）=Floater (Without Object)
-r:"^回転([0-9]+)（obj無し）$"=r:"$1° Rotator (Without Object)" // 10°, 30°, and 45° were added in Patch 0525, 60/180 are base game
-r:"^バウンド([０-９])（obj無し）$"=r:"Bound $1 (Without Object)"
+// 10°, 30°, and 45° were added in Patch 0525, 60/180 are base game
+r:"^回転([０-９0-9]+)（obj無し）$"=$1° Rotator (Without Object)
+r:"^バウンド([０-９0-9]+)（obj無し）$"=Bound $1 (Without Object)
 // Character Design Addon Pack Vol. 3 (add09)
-r:"^投げ([0-9]+)（obj無し）$"=r:"Pitch $1 (Without Object)"
+r:"^投げ([０-９0-9]+)（obj無し）$"=Pitch $1 (Without Object)
 // Patch 0629
-r:"^回転([0-9]+)_Bタイプ（obj無し）$"=r:"$1° Rotator Type B (Without Object)"
+r:"^回転([０-９0-9]+)_Bタイプ（obj無し）$"=$1° Rotator Type B (Without Object)
 
 //
 // Add -> Items -> 3D SFX
@@ -1475,8 +1486,8 @@ r:"^回転([0-9]+)_Bタイプ（obj無し）$"=r:"$1° Rotator Type B (Without O
 焚火=Bonfire
 
 // Add -> Items -> 3D SFX -> Personalities
-r:"^喘ぎ([0-9])$"=r:"Panting $1"
-r:"^フェラ([0-9])$"=r:"Blowjob $1"
+r:"^喘ぎ([０-９0-9]+)$"=Panting $1
+r:"^フェラ([０-９0-9]+)$"=Blowjob $1
 
 //
 // Add -> Items -> Weapons
@@ -1549,7 +1560,7 @@ r:"^フェラ([0-9])$"=r:"Blowjob $1"
 バリア・ピラミッド(赤)=Pyramidal Energy Barrier (Red)
 // Character Design Addon Pack Vol. 3 (add09)
 魔法陣=Magic Circle
-r:"^溶解粘液([0-9])$"=r:"Dissolving Liquids $1"
+r:"^溶解粘液([０-９0-9]+)$"=Dissolving Liquids $1
 
 // Add -> Items -> Effects -> Particles
 滝=Waterfall
@@ -1583,17 +1594,17 @@ r:"^溶解粘液([0-9])$"=r:"Dissolving Liquids $1"
 //Mecha
 
 // Add -> Items -> Glow -> Illumination
-r:"^電気照明([0-9])$"=r:"Electric Light $1"
-r:"^電気照明\\(和\\)([0-9])$"=r:"Soft Electric Light $1"
-r:"^電気スタンド([0-9])$"=r:"Floor Lamp $1"
-r:"^非常灯([0-9])$"=r:"Emergency Light $1"
+r:"^電気照明([０-９0-9]+)$"=Electric Light $1
+r:"^電気照明\\(和\\)([０-９0-9]+)$"=Soft Electric Light $1
+r:"^電気スタンド([０-９0-9]+)$"=Floor Lamp $1
+r:"^非常灯([０-９0-9]+)$"=Emergency Light $1
 
 // Add -> Items -> Glow -> Illumination -> Anim Settings
 発光色=Light Color
 発光の強さ=Light Strength
 
 // Add -> Items -> Glow -> Mecha
-r:"^シンプルコア([0-9])$"=r:"Simple Core $1"
+r:"^シンプルコア([０-９0-9]+)$"=Simple Core $1
 電球=Light Bulb
 電球(細)=Light Bulb (Cylinder)
 球体=Orb
@@ -1615,12 +1626,12 @@ r:"^シンプルコア([0-9])$"=r:"Simple Core $1"
 // Add -> Items -> FK Items -> General
 FK関節=FK Joint
 FK軸=FK Shaft
-r:"^FK先端([0-9])$"=r:"FK Tip $1"
-r:"^土台([0-9])$"=r:"Base $1"
+r:"^FK先端([０-９0-9]+)$"=FK Tip $1
+r:"^土台([０-９0-9]+)$"=Base $1
 
 // Add -> Items -> FK Items -> H-Items
-r:"^FK触手([0-9])$"=r:"FK Tentacle $1"
-r:"^FKアナルビーズ([0-9])$"=r:"FK Anal Beads $1"
+r:"^FK触手([０-９0-9]+)$"=FK Tentacle $1
+r:"^FKアナルビーズ([０-９0-9]+)$"=FK Anal Beads $1
 
 // Add -> Items -> FK Items -> Human FK
 モブ=Mob
@@ -1634,7 +1645,7 @@ r:"^FKアナルビーズ([0-9])$"=r:"FK Anal Beads $1"
 1F=1st Floor
 2F=2nd Floor
 3F=3rd Floor
-r:"^教室([0-9])-([0-9])$"=r:"Classroom $1-$2"
+r:"^教室([０-９0-9]+)-([０-９0-9]+)$"=Classroom $1-$2
 1F女子トイレ=1st Floor Girls' Bathroom
 2F女子トイレ=2nd Floor Girls' Bathroom
 3F女子トイレ=3rd Floor Girls' Bathroom
@@ -1726,7 +1737,7 @@ r:"^教室([0-9])-([0-9])$"=r:"Classroom $1-$2"
 靴 =Shoes
 
 // Animation Menu -> Current State -> Accessories
-r:"^スロ([0-9][0-9])$"=r:"Slot $1"
+r:"^スロ([０-９0-9][０-９0-9]+)$"=Slot $1
 
 // Animation Menu -> Current State -> Fluids
 顔=Face
@@ -1821,7 +1832,7 @@ H女複数=Multi-Girl H
 
 速度=Speed
 パターン=Pattern
-r:"^補助([0-9])$"=r:"Extra $1"
+r:"^補助([０-９0-9]+)$"=Extra $1
 付属アイテム表示=Show Attached Items
 強制ループ=Force Looping
 アニメーション操作=Animation Management
@@ -1850,20 +1861,20 @@ r:"^補助([0-9])$"=r:"Extra $1"
 
 // Animation Menu -> Character Animation -> Character -> Basic
 初期ポーズ=T-Pose
-r:"^立ち([0-9]+)$"=r:"Basic $1"
+r:"^立ち([０-９0-9]+)$"=Basic $1
 
 // Animation Menu -> Character Animation -> Character -> Pose
-r:"^ポーズ([0-9]+)$"=r:"Pose $1"
+r:"^ポーズ([０-９0-9]+)$"=Pose $1
 
 // Animation Menu -> Character Animation -> Character -> Emotions
-r:"^喜([0-9]+)$"=r:"Happy $1"
-r:"^怒([0-9]+)$"=r:"Angry $1"
-r:"^哀([0-9]+)$"=r:"Sad $1"
-r:"^驚恥他([0-9]+)$"=r:"Surprise/Shame/Etc. $1"
+r:"^喜([０-９0-9]+)$"=Happy $1
+r:"^怒([０-９0-9]+)$"=Angry $1
+r:"^哀([０-９0-9]+)$"=Sad $1
+r:"^驚恥他([０-９0-9]+)$"=Surprise/Shame/Etc. $1
 
 // Animation Menu -> Character Animation -> Character -> Walking & Running
-r:"^歩く([0-9])$"=r:"Walking $1"
-r:"^走る([0-9])$"=r:"Running $1"
+r:"^歩く([０-９0-9]+)$"=Walking $1
+r:"^走る([０-９0-9]+)$"=Running $1
 
 // Animation Menu -> Character Animation -> Character -> Standing
 //Idle 1
@@ -1888,15 +1899,15 @@ r:"^走る([0-9])$"=r:"Running $1"
 箒持ち待機さぼり=Idling On Broom
 机を拭く=Wiping Desk
 窓を拭く=Wiping Window
-r:"^壁立ち([0-9])$"=r:"Leaning On Wall $1"
+r:"^壁立ち([０-９0-9]+)$"=Leaning On Wall $1
 
 // Animation Menu -> Character Animation -> Character -> Conversation
-r:"^待機([0-9]+)$"=r:"Idle $1"
-r:"^話す([0-9]+)$"=r:"Talking $1"
+r:"^待機([０-９0-9]+)$"=Idle $1
+r:"^話す([０-９0-9]+)$"=Talking $1
 
 // Animation Menu -> Character Animation -> Character -> Chairs
 待機=Idle
-r:"^本を読む([0-9])$"=r:"Reading Book $1"
+r:"^本を読む([０-９0-9]+)$"=Reading Book $1
 //Looking At Smartphone
 //Swiping Smartphone Screen
 ゲームをする=Playing Game
@@ -1906,13 +1917,13 @@ r:"^本を読む([0-9])$"=r:"Reading Book $1"
 //Stretching
 //Fixing Hair
 片足上げ抱え=Leg Tucked In Arm
-r:"^足を組み待機([0-9])$"=r:"Crosslegged $1"
-r:"^足を組み換える([0-9])$"=r:"Switching Legs $1"
+r:"^足を組み待機([０-９0-9]+)$"=Crosslegged $1
+r:"^足を組み換える([０-９0-9]+)$"=Switching Legs $1
 ソファーでまったり=Relaxing On Sofa
 
 // Animation Menu -> Character Animation -> Character -> Sitting At Desk
-r:"^本を読む待機([0-9])$"=r:"About To Read Book $1"
-r:"^姿勢を変える([0-9])$"=r:"Changing Posture $1"
+r:"^本を読む待機([０-９0-9]+)$"=About To Read Book $1
+r:"^姿勢を変える([０-９0-9]+)$"=Changing Posture $1
 勉強をする待機=About To Study
 勉強をする=Studying
 絵を描く待機=About to Draw
@@ -1930,7 +1941,7 @@ r:"^姿勢を変える([0-9])$"=r:"Changing Posture $1"
 寝たふり=Pretending To Sleep
 
 // Animation Menu -> Character Animation -> Character -> Sitting On Floor
-r:"^しゃがみ([0-9])$"=r:"Squatting $1"
+r:"^しゃがみ([０-９0-9]+)$"=Squatting $1
 正座=Sitting Seiza
 お茶をたてる待機=About To Perform Tea Ceremony
 お茶をたてる=Performing Tea Ceremony
@@ -1940,7 +1951,8 @@ r:"^しゃがみ([0-9])$"=r:"Squatting $1"
 お姉さん座り=Onee-san Sitting
 
 // Animation Menu -> Character Animation -> Character -> Eating
-r:"^食事([Ａ-ＺA-Z][0-9])$"=r:"Eating $1" // A is fullwidth, B/C are halfwidth, Illusion gonna Illusion
+// A is fullwidth, B/C are halfwidth, Illusion gonna Illusion
+r:"^食事([Ａ-ＺA-Z][０-９0-9]+)$"=Eating $1
 
 // Animation Menu -> Character Animation -> Character -> Action
 くしゃみ=Sneezing
@@ -1951,19 +1963,21 @@ r:"^食事([Ａ-ＺA-Z][0-9])$"=r:"Eating $1" // A is fullwidth, B/C are halfwid
 リップクリームを塗る=Using Lip Balm
 ポスターを貼る=Putting Up Poster
 チアダンス待機=About To Cheer
-r:"^チアダンス練習([0-9])$"=r:"Cheerleader Practice $1"
+r:"^チアダンス練習([０-９0-9]+)$"=Cheerleader Practice $1
 ダンス練習待機=About To Practice Dancing
 ダンス練習=Practicing Dancing
-r:"^ストレッチ([0-9])$"=r:"Stretching $1" // Earlier versions
-r:"^ストレッチ([０-９])$"=r:"Stretching $1" // Later versions
+// Stretching - Earlier versions
+r:"^ストレッチ([０-９0-9]+)$"=Stretching $1
+// Stretching - Later versions
+r:"^ストレッチ([０-９0-9]+)$"=Stretching $1
 クロールで泳ぐ=Swimming Front Crawl
-r:"^プール座り([0-9])$"=r:"Sitting Poolside $1"
+r:"^プール座り([０-９0-9]+)$"=Sitting Poolside $1
 
 // Animation Menu -> Character Animation -> Character -> Reaction
-r:"^恥ずかしがる([0-9])$"=r:"Embarrassed $1"
+r:"^恥ずかしがる([０-９0-9]+)$"=Embarrassed $1
 顔を見られ隠す=Hiding Face From View
 胸を見られ恥ずかしがる=Hiding Chest From Embarrassment
-r:"^胸を触られ隠す([0-9])$"=r:"Covering Chest From Touch $1"
+r:"^胸を触られ隠す([０-９0-9]+)$"=Covering Chest From Touch $1
 頬を触られ嫌がられる=Hating Face Being Touched
 手を触れられ恥ずかしがる=Embarrassed From Hand Touch
 手を触れられ嫌がられる=Hating Hand Being Touched
@@ -1976,11 +1990,11 @@ r:"^胸を触られ隠す([0-9])$"=r:"Covering Chest From Touch $1"
 //Laying
 机で寝る=Sleeping At Desk
 椅子で寝る=Sleeping In Chair
-r:"^ベンチで寝る([0-9])$"=r:"Sleeping On Bench $1"
-r:"^添い寝([0-9])$"=r:"Sleeping Together $1"
+r:"^ベンチで寝る([０-９0-9]+)$"=Sleeping On Bench $1
+r:"^添い寝([０-９0-9]+)$"=Sleeping Together $1
 
 // Animation Menu -> Character Animation -> Character -> Live Concert
-r:"^シーン([0-9])$"=r:"Scene $1"
+r:"^シーン([０-９0-9]+)$"=Scene $1
 フル=Loop
 
 // Animation Menu -> Character Animation -> Character -> Male
@@ -2003,9 +2017,9 @@ r:"^シーン([0-9])$"=r:"Scene $1"
 座り=Sitting
 
 // Animation Menu -> Character Animation -> Character -> Additional 1
-r:"^立ちポーズ([0-9]+)$"=r:"Standing Pose $1"
-r:"^座り([0-9])$"=r:"Sitting $1"
-r:"^寝([0-9])$"=r:"Laying $1"
+r:"^立ちポーズ([０-９0-9]+)$"=Standing Pose $1
+r:"^座り([０-９0-9]+)$"=Sitting $1
+r:"^寝([０-９0-9]+)$"=Laying $1
 
 //
 // Animation Menu -> Character Animation -> Studio
@@ -2028,11 +2042,11 @@ r:"^寝([0-9])$"=r:"Laying $1"
 // Animation Menu -> Character Animation -> Studio -> Dancing
 ポールダンス=Pole Dance
 // Character Design Addon Pack Vol. 2
-r:"^ダンス([0-9])$"=r:"Dance $1"
+r:"^ダンス([０-９0-9]+)$"=Dance $1
 
 // Animation Menu -> Character Animation -> Studio -> Gravure
 // WHY DID THEY SWITCH TO FULLWIDTH HERE, FUCK
-r:"^立ち([０-９])$"=r:"Standing $1"
+r:"^立ち([０-９0-9]+)$"=Standing $1
 中腰１=Kneeling １
 中腰２=Kneeling ２
 中腰３=Squatting １
@@ -2040,9 +2054,9 @@ r:"^立ち([０-９])$"=r:"Standing $1"
 中腰５=Bridging １
 中腰６=Hands & Knees １
 中腰７=Hands & Knees ２
-r:"^座り([０-９]+)$"=r:"Sitting $1"
-r:"^寝([０-９])$"=r:"Laying $1"
-r:"^椅子([０-９])$"=r:"Seated $1"
+r:"^座り([０-９0-9]+)$"=Sitting $1
+r:"^寝([０-９0-9]+)$"=Laying $1
+r:"^椅子([０-９0-9]+)$"=Seated $1
 
 // Animation Menu -> Character Animation -> Studio -> Vacation
 //Basic 1
@@ -2303,32 +2317,33 @@ orz=orz
 男 弓矢=Male: Bow And Arrow
 
 // Animation Menu -> Character Animation -> Battle Poses -> Cut-In
-r:"^格闘([A-Z][０-９])$"=r:"Fighting $1" // Halfwidth letters, fullwidth numerals... of course.
-r:"^気弾([０-９])$"=r:"Energy Bullet $1"
-r:"^片手剣([０-９])$"=r:"One-Handed Sword $1"
-r:"^盾と剣([０-９])$"=r:"Sword And Shield $1"
-r:"^小太刀([０-９])$"=r:"Short Sword $1"
-r:"^小太刀二刀([０-９])$"=r:"Twin Short Swords $1"
-r:"^拳銃([０-９])$"=r:"Pistol $1"
-r:"^二丁拳銃([０-９])$"=r:"Twin Pistols $1"
-r:"^投擲([０-９])$"=r:"Throwing $1"
-r:"^魔法杖([０-９])$"=r:"Magic Wand $1"
-r:"^魔法本([０-９])$"=r:"Grimoire $1"
-r:"^両手剣([０-９])$"=r:"Two-Handed Sword $1"
-r:"^棒・槍([０-９])$"=r:"Polearm / Spear $1"
-r:"^槌・鎌([０-９])$"=r:"Hammer / Sickle $1"
-r:"^ライフル([０-９])$"=r:"Rifle $1"
-r:"^弓矢([０-９])$"=r:"Bow And Arrow $1"
+// Halfwidth letters, fullwidth numerals... of course.
+r:"^格闘([A-Z][０-９0-9]+)$"=Fighting $1
+r:"^気弾([０-９0-9]+)$"=Energy Bullet $1
+r:"^片手剣([０-９0-9]+)$"=One-Handed Sword $1
+r:"^盾と剣([０-９0-9]+)$"=Sword And Shield $1
+r:"^小太刀([０-９0-9]+)$"=Short Sword $1
+r:"^小太刀二刀([０-９0-9]+)$"=Twin Short Swords $1
+r:"^拳銃([０-９0-9]+)$"=Pistol $1
+r:"^二丁拳銃([０-９0-9]+)$"=Twin Pistols $1
+r:"^投擲([０-９0-9]+)$"=Throwing $1
+r:"^魔法杖([０-９0-9]+)$"=Magic Wand $1
+r:"^魔法本([０-９0-9]+)$"=Grimoire $1
+r:"^両手剣([０-９0-9]+)$"=Two-Handed Sword $1
+r:"^棒・槍([０-９0-9]+)$"=Polearm / Spear $1
+r:"^槌・鎌([０-９0-9]+)$"=Hammer / Sickle $1
+r:"^ライフル([０-９0-9]+)$"=Rifle $1
+r:"^弓矢([０-９0-9]+)$"=Bow And Arrow $1
 
 // Animation Menu -> Character Animation -> Battle Poses -> Battle Poses
-r:"^攻撃([０-９])$"=r:"Attack $1"
+r:"^攻撃([０-９0-9]+)$"=Attack $1
 防御=Blocking
 倒れる=Knocked Down
 
 // Animation Menu -> Character Animation -> Lesbian
-r:"^具合わせ([A-Z])$"=r:"Scissoring $1"
-r:"^椅子クンニ([A-Z])$"=r:"Seated Cunnilingus $1"
-r:"^互い弄り([A-Z])$"=r:"Mutual Groping $1"
+r:"^具合わせ([A-Z])$"=Scissoring $1
+r:"^椅子クンニ([A-Z])$"=Seated Cunnilingus $1
+r:"^互い弄り([A-Z])$"=Mutual Groping $1
 
 // Animation Menu -> Character Animation -> Outdoors
 ストレッチ=Stretching
@@ -2342,10 +2357,10 @@ r:"^互い弄り([A-Z])$"=r:"Mutual Groping $1"
 //Stretching 4
 
 // Animation Menu -> Character Animation -> Outdoors -> Moving Around Types
-r:"^動き回る([０-９])$"=r:"Moving Around $1"
+r:"^動き回る([０-９0-9]+)$"=Moving Around $1
 
 // Animation Menu -> Character Animation -> Outdoors -> Diving Types
-r:"^ダイブ([０-９])$"=r:"Diving $1"
+r:"^ダイブ([０-９0-9]+)$"=Diving $1
 
 // Animation Menu -> Character Animation -> Summer
 //Pose
@@ -2355,7 +2370,7 @@ r:"^ダイブ([０-９])$"=r:"Diving $1"
 //Basic 1
 
 // Animation Menu -> Character Animation -> Summer -> Action
-r:"^ビーチボール([0-9])$"=r:"Beach Ball $1"
+r:"^ビーチボール([０-９0-9]+)$"=Beach Ball $1
 女 準備体操=Girl: Warm-Up Exercise
 女 水を掛ける=Girl: Splashing Water
 女 水を掛けられる=Girl: Splashed By Water
@@ -2364,7 +2379,7 @@ r:"^ビーチボール([0-9])$"=r:"Beach Ball $1"
 男 水を掛けられる=Boy: Splashed By Water
 //Ukelele
 シューティング=Shooting Water Gun
-r:"^着替え([0-9])$"=r:"Changing $1"
+r:"^着替え([０-９0-9]+)$"=Changing $1
 
 // Animation Menu -> Character Animation -> Multi-Girl H
 男 Wフェラ=Boy: Double Blowjob
@@ -2430,7 +2445,7 @@ r:"^着替え([0-9])$"=r:"Changing $1"
 //
 
 ライトの影響度=Light Influence
-r:"^カラー([０-９])$"=r:"Color $1"
+r:"^カラー([０-９0-9]+)$"=Color $1
 影=Shadowing
 ラインの色=Line Color
 ラインの太さ=Line Thickness
@@ -2464,7 +2479,7 @@ Hシーン(覗き)=H-Scene (Peeping)
 日常=Normal Day
 夕焼け=Evening
 思い出=Memories
-r:"^エンディング曲アレンジ([0-9])$"=r:"Ending Arrangement $1"
+r:"^エンディング曲アレンジ([０-９0-9]+)$"=Ending Arrangement $1
 クールな女の子と会話=Conversation With Calm Girl
 元気な女の子と会話=Conversation With Energetic Girl
 朝の公園=Morning At The Park
@@ -2491,7 +2506,8 @@ RunningDreamer=Running Dreamer
 // System Menu -> Config
 背景色=Background Color
 モブの色=Mob Char. Color
-モブ色=Mob Color // For the picker
+// For the picker
+モブ色=Mob Color
 マップ遮蔽処理=Do Map Shading
 // What the hell do these next two options do? They don't seem to change jack on characters.
 眉の最前面表示=Brows Through Hair
@@ -2506,7 +2522,7 @@ RunningDreamer=Running Dreamer
 
 // System Menu -> Options
 カメラ設定=Camera Settings
-r:"^カメラ速度([A-Z])軸$"=r:"Camera $1 Speed"
+r:"^カメラ速度([A-Z])軸$"=Camera $1 Speed
 カメラ移動速度=Camera Movement Speed
 操作軸の設定=Axis Settings
 大きさ=Size

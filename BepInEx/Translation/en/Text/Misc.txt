@@ -1,4 +1,4 @@
-﻿
+
 // Menu
 ランキング=Ranking
 ランキングに参加=Join Ranking
@@ -12,6 +12,7 @@
 ロードしますか？=Load this save data?
 タイトルへ戻りますか？=Return to title?
 ゲームを終了しますか？=Quit the game?
+セーブしますか？=Create new save?
 家に帰りますか？=Go home?
 彼女を呼び出しますか？=Call her?
 編集前に戻す=Restore before editing

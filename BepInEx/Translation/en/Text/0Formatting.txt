@@ -1,0 +1,15 @@
+// regexes and substitution regexes that are needed for places where the code
+// is prepocessing otherwise translatable (and likely translated) strings
+
+// having these as already hard-coded replacements fails if part of the strings
+// are already translated via asset lists, etc.
+
+sr"^[:：]\s*(.*)$"=: $1
+
+sr:"^Name[:：]\s+(.*)$"=Name: $1
+sr:"^Heroine\s+(.*)$"=Heroine $1
+
+sr:"^(----+)\s+([^ ]+)\s+(----+)$"=$1 $2 $3
+
+// Date Conversion (global scoped)
+r:"^([0-9]+)月([0-9]+)日$"=$1/$2

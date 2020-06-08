@@ -1,4 +1,4 @@
-﻿// Main Menu Button
+// Main Menu Button
 ランキングに参加=Get Ranked
 ランキング=Ranking
 

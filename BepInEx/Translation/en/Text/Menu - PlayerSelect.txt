@@ -16,17 +16,17 @@
 コイカツ部=Koikatsu Club
 
 // Blood Types
-r:"^([Ａ-Ｚ]+)型$"=r:"Type $1"
+r:"^([Ａ-Ｚ]+)型$"=Type $1
 
 // Date Conversion
-r:"^([0-9]+)月([0-9]+)日$"=r:"$1/$2"
+r:"^([0-9]+)月([0-9]+)日$"=$1/$2
 
 // Emblems
 なし=None
 赤と青=Red And Blue
 C=C
 H=H
-r:"^年数([Ⅰ-Ⅹ])$"=r:"Year $1"
+r:"^年数([IVXLCDM])$"=Year $1
 北=North
 北2=North 2
 南=South
@@ -40,7 +40,7 @@ r:"^年数([Ⅰ-Ⅹ])$"=r:"Year $1"
 くま=Bear
 鉄十字学園=Iron Cross Academy
 サイコうさぎ=Psycho Bunny
-r:"^番号(0[0-9])$"=r:"Number $1"
+r:"^番号([0-9]+)$"=Number $1
 // Character Design Addon Pack Vol. 1 (add06)
 桔梗の紋(白)=Kikyou Crest (White)
 桔梗の紋(黒)=Kikyou Crest (Black)

@@ -1,4 +1,4 @@
-﻿#set exe Koikatu
+#set exe Koikatu
 #set level 2
 
 //
@@ -52,9 +52,9 @@
 三角=Triangle
 
 // Used for both Facepaint as well as Body Paint
-r:"^ペイント(０[０-９])の種類$"=r:"Paint $1 Type"
-r:"^ペイント(０[０-９])の色$"=r:"Paint $1 Color"
-r:"^ペイント(０[０-９])回転$"=r:"Paint $1 Rotation"
+r:"^ペイント([０-９]+)の種類$"=Paint $1 Type
+r:"^ペイント([０-９]+)の色$"=Paint $1 Color
+r:"^ペイント([０-９]+)回転$"=Paint $1 Rotation
 
 // Makeup Types (Both for Body and Face)
 ハート=Heart
@@ -87,7 +87,8 @@ r:"^ペイント(０[０-９])回転$"=r:"Paint $1 Rotation"
 CAUTION=CAUTION
 DANGER=DANGER
 WARNING=WARNING
-r:"^([０-９][０-９])+$"=r:"$1" // For the four numerical makeups. Also prevents Accessory slots from fucking up later.
+// For the four numerical makeups. Also prevents Accessory slots from fucking up later.
+r:"^([０-９0-9]+)$"=$1
 // Added by the Emotion Creators Preorder Bonus
 一本キズ=Long Scar
 十字キズ=Cross Scar
@@ -108,7 +109,8 @@ NO=No
 ランダム=Random
 
 // Type List Slots
-r:"^タイプ([０-９0-9]+)$"=r:"Type $1" // Behold, the power of RegEx! 78 lines gone in a flash! Fullwidth needed for Lip Type 2, which has a halfwidth label (Illusion bug).
+// Behold, the power of RegEx! 78 lines gone in a flash! Fullwidth needed for Lip Type 2, which has a halfwidth label (Illusion bug).
+r:"^タイプ([０-９0-9]+)$"=Type $1
 
 // Emotion Creators Preorder Bonus added the ability to stop hair/accessory physics, which is shared, so this label goes in the generics
 揺れないようにする=Disable Physics
@@ -247,18 +249,18 @@ r:"^タイプ([０-９0-9]+)$"=r:"Type $1" // Behold, the power of RegEx! 78 lin
 // Right Sidebar -> Pose Selections
 基本=Basic
 揺れ=Bouncing
-r:"^立ち([０-９][０-９])+$"=r:"Pose $1" // Pose prepends a 0 for its first nine, so can't just do the + RegEx shortcut.
-r:"^座り([０-９])$"=r:"Sitting $1"
-r:"^寝([０-９])$"=r:"Laying $1"
-r:"^特殊([０-９])$"=r:"Special $1"
-r:"^Ｈ([０-９])$"=r:"H-Pose $1"
-r:"^男立ち([０-９])$"=r:"Male Standing $1"
+r:"^立ち([０-９]+)$"=Pose $1
+r:"^座り([０-９]+)$"=Sitting $1
+r:"^寝([０-９]+)$"=Laying $1
+r:"^特殊([０-９]+)$"=Special $1
+r:"^Ｈ([０-９]+)$"=H-Pose $1
+r:"^男立ち([０-９]+)$"=Male Standing $1
 
 // Added by Emotion Creators Preorder DLC
 // Right Sidebar -> Hand Patterns
 左手のパターン=Left Hand Pattern
 右手のパターン=Right Hand Pattern
-r:"^パターン([0-9][0-9])$"=r:"Pattern $1"
+r:"^パターン([0-9]+)$"=Pattern $1
 
 // Right Sidebar -> Light Direction Options
 ライトの向き調整=Light Direction
@@ -322,8 +324,10 @@ RGB=RGB
 
 // Face -> General
 // Emotion Creators preorder bonus added some extra stuff here, marked with an ECB comment
-頭の種類=Face Type // ECB
-頭の種類に合わせたデフォルトの顔に戻す=Reset Face Type To Default Face // ECB
+// ECB
+頭の種類=Face Type
+// ECB
+頭の種類に合わせたデフォルトの顔に戻す=Reset Face Type To Default Face
 顔の全体横幅=Face Width
 顔の上部前後=Upper Face Depth
 顔の上部上下=Upper Face Height
@@ -335,13 +339,13 @@ RGB=RGB
 
 // Face -> General -> Face Overlay Types
 シワ=Wrinkles
-r:"^強調([０-９])$"=r:"Emphasis $1"
+r:"^強調([０-９]+)$"=Emphasis $1
 境界線=Boundary Lines
 目周りの影=Shadowed Eyes
 
 // Face -> Ears
 耳のサイズ=Ear Size
-r:"^耳の角度([A-Z])軸$"=r:"Ear Angle $1 Axis"
+r:"^耳の角度([A-Z])軸$"=Ear Angle $1 Axis
 耳の上部形状=Upper Ear Shape
 耳の下部形状=Lower Ear Shape
 
@@ -378,8 +382,8 @@ r:"^耳の角度([A-Z])軸$"=r:"Ear Angle $1 Axis"
 コンフィグ依存=Config Decides
 
 // Face -> Eyes
-r:"^上まぶたの形状([０-９])$"=r:"Upper Eyelid Shape $1"
-r:"^下まぶたの形状([０-９])$"=r:"Lower Eyelid Shape $1"
+r:"^上まぶたの形状([０-９]+)$"=Upper Eyelid Shape $1
+r:"^下まぶたの形状([０-９]+)$"=Lower Eyelid Shape $1
 目の上下=Eye Vertical Position
 目の横位置=Eye Spacing
 目の前後=Eye Depth
@@ -394,12 +398,13 @@ r:"^下まぶたの形状([０-９])$"=r:"Lower Eyelid Shape $1"
 
 // Face -> Iris
 白目のグラデ種類=Sclera Type
-r:"^白目の色([①-⑨])$"=r:"Sclera Color $1"
+r:"^白目の色([①-⑨])$"=Sclera Color $1
 ハイライト上の種類=Upper Highlight Type
 ハイライト上の色=Upper Highlight Color
 ハイライト下の種類=Lower Highlight Type
-ハイライトの下色=Lower Highlight Color // Older Versions
-ハイライト下の色=Lower Highlight Color // Newer Versions
+ハイライト下の色=Lower Highlight Color 
+// Typo from Older Versions
+ハイライトの下色=Lower Highlight Color
 ハイライト上の上下位置=Upper Highlight Vertical
 ハイライト下の上下位置=Lower Highlight Vertical
 瞳の左右位置=Iris Spacing
@@ -412,7 +417,7 @@ r:"^白目の色([①-⑨])$"=r:"Sclera Color $1"
 左目=Left Eye
 右目=Right Eye
 瞳の種類=Eye Type
-r:"^瞳の色([①-⑨])$"=r:"Eye Color $1"
+r:"^瞳の色([①-⑨])$"=Eye Color $1
 瞳のグラデ種類=Eye Gradient Type
 瞳のグラデ合成方法=Eye Gradient Strength
 瞳のグラデ上下調整=Eye Gradient Vertical
@@ -448,7 +453,7 @@ r:"^瞳の色([①-⑨])$"=r:"Eye Color $1"
 ホクロ位置プリセット=Mole Position Presets
 
 // Face -> Moles -> Mole Types
-r:"^そばかす([０-９])$"=r:"Freckles $1"
+r:"^そばかす([０-９])$"=Freckles $1
 
 // Face -> Moles -> Mole Position Presets
 ホクロ配置=Mole Position
@@ -469,12 +474,12 @@ r:"^そばかす([０-９])$"=r:"Freckles $1"
 リップの種類=Lip Type
 リップの色=Lip Color
 // Facepaint 01 Type is currently BUGGED - Also used for Face Overlay, Illusion needs to fix
-r:"^フェイスペイント(０[０-９])の種類$"=r:"Facepaint $1 Type"
-r:"^フェイスペイント(０[０-９])配置$"=r:"Facepaint $1 Position"
-r:"^ペイント(０[０-９])左右位置$"=r:"Paint $1 Horizontal"
-r:"^ペイント(０[０-９])上下位置$"=r:"Paint $1 Vertical"
-r:"^ペイント(０[０-９])大きさ$"=r:"Paint $1 Size"
-r:"^ペイント(０[０-９])位置プリセット$"=r:"Paint $1 Position Presets"
+r:"^フェイスペイント([０-９0-9]+)の種類$"=Facepaint $1 Type
+r:"^フェイスペイント([０-９0-9]+)配置$"=Facepaint $1 Position
+r:"^ペイント([０-９0-9]+)左右位置$"=Paint $1 Horizontal
+r:"^ペイント([０-９0-9]+)上下位置$"=Paint $1 Vertical
+r:"^ペイント([０-９0-9]+)大きさ$"=Paint $1 Size
+r:"^ペイント([０-９0-9]+)位置プリセット$"=Paint $1 Position Presets
 //Paint 01 Type
 //Paint 01 Color
 //Paint 01 Rotation
@@ -512,7 +517,8 @@ r:"^ペイント(０[０-９])位置プリセット$"=r:"Paint $1 Position Prese
 // Body -> Overall
 身長=Body Height
 頭のサイズ=Head Size
-骨格タイプ=Skeleton Type // Emotion Creators Preorder Bonus
+// Emotion Creators Preorder Bonus
+骨格タイプ=Skeleton Type
 肉感の種類=Skin Type
 肉感の強さ=Skin Type Strength
 肌の色=Skin Color
@@ -621,18 +627,18 @@ r:"^ペイント(０[０-９])位置プリセット$"=r:"Paint $1 Position Prese
 // Body -> Body Paint
 //Paint 01 Type
 //Paint 01 Color
-r:"^ペイント(０[０-９])の配置$"=r:"Paint $1 Position"
-r:"^ペイント(０[０-９])左右補正$"=r:"Paint $1 Horizontal"
-r:"^ペイント(０[０-９])上下補正$"=r:"Paint $1 Vertical"
-r:"^ペイント(０[０-９])サイズ補正$"=r:"Paint $1 Size"
+r:"^ペイント([０-９0-9]+)の配置$"=Paint $1 Position
+r:"^ペイント([０-９0-9]+)左右補正$"=Paint $1 Horizontal
+r:"^ペイント([０-９0-9]+)上下補正$"=Paint $1 Vertical
+r:"^ペイント([０-９0-9]+)サイズ補正$"=Paint $1 Size
 //Paint 01 Rotation
 //Paint 02 Type
 //Paint 02 Color
 //Paint 02 Rotation
 
 // Body -> Body Paint -> Body Paint Misc. Labels
-r:"^ボディーペイント(０[０-９])の配置$"=r:"Body Paint $1 Position"
-r:"^ボディーペイント(０[０-９])の種類$"=r:"Body Paint $1 Selection"
+r:"^ボディーペイント([０-９0-9]+)の配置$"=Body Paint $1 Position
+r:"^ボディーペイント([０-９0-9]+)の種類$"=Body Paint $1 Selection
 
 // Body -> Body Paint -> Body Paint Location
 腹・股間=Midriff
@@ -675,7 +681,7 @@ r:"^ボディーペイント(０[０-９])の種類$"=r:"Body Paint $1 Selection
 アウトラインの色=Outline Color
 
 // Hair -> Hair Accessory Options
-r:"^髪飾りの色([①-⑨])$"=r:"Hair Accessory Color $1"
+r:"^髪飾りの色([①-⑨])$"=Hair Accessory Color $1
 髪飾りの色を初期に戻す=Set Accessory Color To Default
 
 // Hair -> Back Hair
@@ -919,24 +925,24 @@ M字バングストレート(右)=M-Shaped Straight Bangs (R)
 柄の種類=Pattern Type
 胴の種類=Body Type
 襟の種類=Collar Type
-r:"^服の色([①-⑨])$"=r:"Cloth Color $1"
-r:"^服の柄([①-⑨])$"=r:"Cloth Pattern $1"
-r:"^柄([①-⑨])の大きさ\\(幅\\)$"=r:"Pattern $1 Width"
-r:"^柄([①-⑨])の大きさ\\(高さ\\)$"=r:"Pattern $1 Height"
-r:"^柄([①-⑨])の色$"=r:"Pattern Color $1"
+r:"^服の色([①-⑨])$"=Cloth Color $1
+r:"^服の柄([①-⑨])$"=Cloth Pattern $1
+r:"^柄([①-⑨])の大きさ\\(幅\\)$"=Pattern $1 Width
+r:"^柄([①-⑨])の大きさ\\(高さ\\)$"=Pattern $1 Height
+r:"^柄([①-⑨])の色$"=Pattern Color $1
 
 // Clothing -> Shared Cloth Patterns
 ストライプ=Vertical Stripes
 斜めストライプ=Slanted Stripes
 ボーダー=Horizontal Stripes
-r:"^チェック([A-Z])$"=r:"Checkered $1"
+r:"^チェック([A-Z])$"=Checkered $1
 市松チェック=Checkerboard
 ハーリキンチェック=Harlequin Checkered
 千鳥格子=Hound's Tooth
 //Heart
 水玉=Polka Dots
 花柄=Flowers
-r:"^星([A-Z])$"=r:"Stars $1"
+r:"^星([A-Z])$"=Stars $1
 イチゴ=Strawberries
 //Skull
 ヒョウ=Leopard Print
@@ -965,45 +971,45 @@ r:"^星([A-Z])$"=r:"Stars $1"
 // Patch 0727 (add13/14)
 //Hibiscus
 // Emotion Creators Preorder Bonus
-r:"^斜めチェック([A-Z])$"=r:"Slanted Checkered $1"
+r:"^斜めチェック([A-Z])$"=Slanted Checkered $1
 中華模様=Chinese Pattern
 
 // Clothing -> Misc. Options
-r:"^オプション([①-⑨])を表示$"=r:"Show Option $1"
+r:"^オプション([①-⑨])を表示$"=Show Option $1
 
 // Clothing -> Top Labels
-r:"^トップスの色(０[０-９])$"=r:"Top $1 Color"
-r:"^トップス柄の色(０[０-９])$"=r:"Top Pattern $1 Color"
+r:"^トップスの色([０-９0-9]+)$"=Top $1 Color
+r:"^トップス柄の色([０-９0-9]+)$"=Top Pattern $1 Color
 
 // Clothing -> Bottom Labels
-r:"^ボトムスの色(０[０-９])$"=r:"Bottom $1 Color"
-r:"^ボトムス柄の色(０[０-９])$"=r:"Bottom Pattern $1 Color"
+r:"^ボトムスの色([０-９0-9]+)$"=Bottom $1 Color
+r:"^ボトムス柄の色([０-９0-9]+)$"=Bottom Pattern $1 Color
 
 // Clothing -> Bra Labels
-r:"^ブラの色(０[０-９])$"=r:"Bra $1 Color"
-r:"^ブラ柄の色(０[０-９])$"=r:"Bra Pattern $1 Color"
+r:"^ブラの色([０-９0-9]+)$"=Bra $1 Color
+r:"^ブラ柄の色([０-９0-9]+)$"=Bra Pattern $1 Color
 
 // Clothing -> Underwear Labels
-r:"^ショーツの色(０[０-９])$"=r:"Underwear $1 Color"
-r:"^ショーツ柄の色(０[０-９])$"=r:"Underwear Pattern $1 Color"
+r:"^ショーツの色([０-９0-9]+)$"=Underwear $1 Color
+r:"^ショーツ柄の色([０-９0-9]+)$"=Underwear Pattern $1 Color
 
 // Clothing -> Glove Labels
-r:"^手袋の色(０[０-９])$"=r:"Glove $1 Color"
-r:"^手袋柄の色(０[０-９])$"=r:"Glove Pattern $1 Color"
+r:"^手袋の色([０-９0-9]+)$"=Glove $1 Color
+r:"^手袋柄の色([０-９0-9]+)$"=Glove Pattern $1 Color
 
 // Clothing -> Pantyhose Labels
-r:"^パンストの色(０[０-９])$"=r:"Pantyhose $1 Color"
-r:"^パンスト柄の色(０[０-９])$"=r:"Pantyhose Pattern $1 Color"
+r:"^パンストの色([０-９0-9]+)$"=Pantyhose $1 Color
+r:"^パンスト柄の色([０-９0-9]+)$"=Pantyhose Pattern $1 Color
 
 // Clothing -> Legwear Labels
-r:"^靴下の色(０[０-９])$"=r:"Legwear $1 Color"
-r:"^靴下柄の色(０[０-９])$"=r:"Legwear Pattern $1 Color"
+r:"^靴下の色([０-９0-9]+)$"=Legwear $1 Color
+r:"^靴下柄の色([０-９0-9]+)$"=Legwear Pattern $1 Color
 
 // Clothing -> Shoe Labels
-r:"^内履きの色(０[０-９])$"=r:"Indoor Shoe $1 Color"
-r:"^内履き柄の色(０[０-９])$"=r:"Indoor Shoe Pattern $1 Color"
-r:"^外履きの色(０[０-９])$"=r:"Outdoor Shoe $1 Color"
-r:"^外履き柄の色(０[０-９])$"=r:"Outdoor Shoe Pattern $1 Color"
+r:"^内履きの色([０-９0-9]+)$"=Indoor Shoe $1 Color
+r:"^内履き柄の色([０-９0-9]+)$"=Indoor Shoe Pattern $1 Color
+r:"^外履きの色([０-９0-9]+)$"=Outdoor Shoe $1 Color
+r:"^外履き柄の色([０-９0-9]+)$"=Outdoor Shoe Pattern $1 Color
 
 // Clothing -> Tops
 トップスを初期の状態に戻す=Restore Default Top Settings
@@ -1016,9 +1022,10 @@ r:"^外履き柄の色(０[０-９])$"=r:"Outdoor Shoe Pattern $1 Color"
 装飾の柄の大きさ(幅)=Decoration Pattern Width
 装飾の柄の大きさ(高さ)=Decoration Pattern Height
 装飾の柄の色=Decoration Pattern Color
-エンブレムの種類=Emblem Type // Without Emotion Creators Preorder Bonus
+// Without Emotion Creators Preorder Bonus
+エンブレムの種類=Emblem Type
 // Emotion Creators Preorder Bonus Allows for two Emblem slots now
-r:"^エンブレム(0[0-9])の種類$"="Emblem $1 Type"
+r:"^エンブレム(0[0-9])の種類$"=Emblem $1 Type
 // Used in some Emotion Creators Preorder Bonus Outfits
 袖の種類=Sleeve Type
 // Cosmetic Hackery...
@@ -1030,7 +1037,7 @@ TypeC=Type C
 セーラータイプ=Sailor Type
 ジャケットタイプ=Jacket Type
 Tシャツ(無地)=T-Shirt (Plain)
-r:"^Tシャツ\\(柄([A-Z])\\)$"=r:"T-Shirt (Design $1)"
+r:"^Tシャツ\\(柄([A-Z])\\)$"=T-Shirt (Design $1)
 ジャージ(フィット)=Jersey (To Waist)
 ジャージ(スカート)=Jersey (Over Skirt)
 ジャージ前開き=Open Jersey
@@ -1087,8 +1094,9 @@ Tシャツ無地(男)=Plain T-Shirt (Boys)
 裸サスペンダー=Naked Suspenders
 // Patch 0629 (add12)
 フリルワンピース=Frilly One-Piece Dress
-ワンピース(花柄)=One-Piece Dress (Flower Pattern) // Older Versions
-ワンピース（花柄）=One-Piece Dress (Flower Pattern) // Newer Versions
+ワンピース（花柄）=One-Piece Dress (Flower Pattern)
+// Older Version
+ワンピース(花柄)=One-Piece Dress (Flower Pattern)
 ワンピース（無地）=One-Piece Dress (Plain)
 // Patch 0727 (add13/14)
 ショートパレオ=Short Pareo
@@ -1123,7 +1131,7 @@ CAトップス=Cabin Attendant Top
 コンシェルジュスーツ=Concierge Suit
 シトリートップス=Sitri Top
 セーラーワンピース=One-Piece Sailor Suit
-r:"^クラシカルメイド([A-Z])$"="Classical Maid $1"
+r:"^クラシカルメイド([A-Z])$"=Classical Maid $1
 キュートブラウス=Cute Blouse
 フロントリボン=Front Ribbon
 チャイナドレス=China Dress
@@ -1145,7 +1153,7 @@ r:"^クラシカルメイド([A-Z])$"="Classical Maid $1"
 チューブトップシャツ=Tube Top
 
 // Clothing -> Top -> Outerwear Types
-r:"^ブレザー([A-Z])$"=r:"Blazer $1"
+r:"^ブレザー([A-Z])$"=Blazer $1
 ブレザーA前開き=Blazer A (Opened)
 ブレザーC(ライン色固定)=Blazer C (Fixed Line Color)
 ブレザーC前開き=Blazer C (Opened)
@@ -1178,7 +1186,7 @@ r:"^ブレザー([A-Z])$"=r:"Blazer $1"
 赤と青=Red And Blue
 C=C
 H=H
-r:"^年数([Ⅰ-Ⅹ])$"=r:"Year $1"
+r:"^年数([Ⅰ-Ⅹ])$"=Year $1
 北=North
 北2=North 2
 南=South
@@ -1192,7 +1200,7 @@ r:"^年数([Ⅰ-Ⅹ])$"=r:"Year $1"
 くま=Bear
 鉄十字学園=Iron Cross Academy
 サイコうさぎ=Psycho Bunny
-r:"^番号(0[0-9])$"=r:"Number $1"
+r:"^番号(0[0-9])$"=Number $1
 // Character Design Addon Pack Vol. 1 (add06)
 桔梗の紋(白)=Kikyou Crest (White)
 桔梗の紋(黒)=Kikyou Crest (Black)
@@ -1202,7 +1210,7 @@ r:"^番号(0[0-9])$"=r:"Number $1"
 //CAUTION
 //DANGER
 // Emotion Creators Preorder Bonus
-r:"^背番号([0-9][0-9])$"="Jersey Number $1"
+r:"^背番号([0-9]+)$"=Jersey Number $1
 一角獣=Unicorn
 
 // Clothing -> Bottom
@@ -1219,9 +1227,9 @@ r:"^背番号([0-9][0-9])$"="Jersey Number $1"
 ゆったりロングパンツ=Comfortable Long Pants
 ホットパンツ=Hotpants
 カーゴパンツ=Cargo Pants
-r:"^プリーツスカート([A-Z])$"=r:"Pleated Skirt $1"
-r:"^ボックススカート([A-Z])$"=r:"Box Skirt $1"
-r:"^フレアスカート([A-Z])$"=r:"Flared Skirt $1"
+r:"^プリーツスカート([A-Z])$"=Pleated Skirt $1
+r:"^ボックススカート([A-Z])$"=Box Skirt $1
+r:"^フレアスカート([A-Z])$"=Flared Skirt $1
 プリーツスカートロングA=Long Pleated Skirt A
 プリーツスカートミニ=Pleated Miniskirt
 テニススカート=Tennis Skirt
@@ -1246,7 +1254,7 @@ r:"^フレアスカート([A-Z])$"=r:"Flared Skirt $1"
 軍服タイトスカート=Military Tight Skirt
 // Character Design Addon Pack Vol. 1 (add06)
 巫女スカート=Shrine Maiden Skirt
-r:"^鬼神の装束([A-Z])\\(下\\)$"=r:"Demon God's Costume $1 (Bottom)"
+r:"^鬼神の装束([A-Z])\\(下\\)$"=Demon God's Costume $1 (Bottom)
 // Character Design Addon Pack Vol. 3 (add09)
 騎士のスカート=Knight's Skirt
 // Patch 0727 (add13/14)
@@ -1268,7 +1276,7 @@ CAタイトスカート=Cabin Attendant Tight Skirt
 バスケットパンツ=Basketball Shorts
 サッカーパンツ=Soccer Shorts
 コンシェルジュスカート=Concierge Skirt
-r:"^クラシカルメイドスカート([A-Z])$"=r:"Classical Maid Skirt $1"
+r:"^クラシカルメイドスカート([A-Z])$"=Classical Maid Skirt $1
 
 // Clothing -> Bra
 ブラを初期の状態に戻す=Restore Default Bra Settings
@@ -1385,8 +1393,8 @@ r:"^クラシカルメイドスカート([A-Z])$"=r:"Classical Maid Skirt $1"
 パンストの種類=Pantyhose Type
 
 // Clothing -> Pantyhose Types
-r:"^パンスト([A-Z])$"=r:"Pantyhose $1"
-r:"^厚手パンスト([A-Z])$"=r:"Thick Pantyhose $1"
+r:"^パンスト([A-Z])$"=Pantyhose $1
+r:"^厚手パンスト([A-Z])$"=Thick Pantyhose $1
 スパッツ=Spats
 アンダースコート=Underskirt Panties
 ガーターベルト=Garter Belt
@@ -1417,7 +1425,7 @@ r:"^厚手パンスト([A-Z])$"=r:"Thick Pantyhose $1"
 ニーソックス=Kneesocks
 アンクルソックス=Ankle Socks
 フットカバー=Foot Covers
-r:"^ガーターソックス([A-Z])$"=r:"Garter Socks $1"
+r:"^ガーターソックス([A-Z])$"=Garter Socks $1
 足袋=Tabi Socks
 小悪魔ニーソックス=Devil Kneesocks
 アイドルニーソックス=Idol Kneesocks
@@ -1515,7 +1523,7 @@ CAシューズ=Cabin Attendant Shoes
 // Clothing -> Copy Menu
 コピー元のコーディネート=Uniform Source
 コピー先のコーディネート=Uniform Destination
-r:"^パーツ([A-Z])$"=r:"Part $1"
+r:"^パーツ([A-Z])$"=Part $1
 全選択=All
 全解除=None
 
@@ -1530,7 +1538,7 @@ r:"^パーツ([A-Z])$"=r:"Part $1"
 
 // Slot Lists
 // Illusion was extra fucking derpy and cannot into numbers - yes, there's various cases where they mixed fullwidth and halfwidth numbers
-r:"^スロット([０-９0-9][０-９0-9])$"=r:"Slot $1"
+r:"^スロット([０-９0-9]+)$"=Slot $1
 入れ替え=Transfer
 
 // Slot Type Labels
@@ -1547,9 +1555,9 @@ r:"^スロット([０-９0-9][０-９0-9])$"=r:"Slot $1"
 親=Parent
 親を初期設定に戻す=Reset To Default Parent
 左右の親を入れ替え=Swap Sides
-r:"^カラー([①-⑨])$"="Color $1"
+r:"^カラー([①-⑨])$"=Color $1
 アクセサリの色を初期に戻す=Reset To Original Color
-r:"^調整(0[0-9])$"=r:"Adjustment $1"
+r:"^調整([0-9]+)$"=Adjustment $1
 クリックで編集します=Click To Edit
 操作軸を表示する=Show Control Axis
 (                                )= (                             )
@@ -1558,32 +1566,28 @@ r:"^調整(0[0-9])$"=r:"Adjustment $1"
 速度=Speed
 大きさ=Size
 グループ=Group
-"※ アクセサリの表示をまとめて切り替える時の\n　 グループ分けです。\n　 サブに設定するとH開始時に非表示になります。"="※ You can use this to hide a whole group\n　 of accessories at once.\n　 The Sub group will be hidden during H-Scenes."
+※ アクセサリの表示をまとめて切り替える時の\n　 グループ分けです。\n　 サブに設定するとH開始時に非表示になります。=※ You can use this to hide a whole group\n　 of accessories at once.\n　 The Sub group will be hidden during H-Scenes.
 
 // Fun Slot Adjustment Shit
 // You have no idea how tedious it was to type out the Non-RegEx version of this...
-r:"^スロット([0-9][0-9])の親を選択$"=r:"Slot $1 Parent Selection"
-r:"^スロット([0-9][0-9])の調整(0[0-9])$"=r:"Slot $1 Adjustment $2"
+r:"^スロット([0-9]+)の親を選択$"=Slot $1 Parent Selection
+r:"^スロット([0-9]+)の調整([0-9]+)$"=Slot $1 Adjustment $2
 
-// Slot Colors
-r:"^スロット([0-9][0-9]) カラー([①-⑨])$"=r:"Slot $1 Color $2" // And 80 lines withered away.
+// Slot Colors ( And 80 lines withered away.)
+r:"^スロット([0-9]+) カラー([①-⑨])$"=Slot $1 Color $2
 
 // Accessory Movement Dialogue
 XYZの文字を左右ドラッグでも調整できます=You can also adjust X/Y/Z by dragging left or right.
 移動量=Movement Amount
-0.1=0.1
-1.0=1.0
-10.0=10.0
-r:"^位置 ([Ａ-Ｚ])$"=r:"$1 Location"
+r:"^位置 ([Ａ-Ｚ])$"=$1 Location
 回転量=Rotation Amount
-5.0=5.0
-r:"^回転 ([Ａ-Ｚ])$"=r:"$1 Rotation"
+r:"^回転 ([Ａ-Ｚ])$"=$1 Rotation
 拡縮量=Scale Amount
-0.01=0.01
-r:"^拡縮 ([Ａ-Ｚ])$"=r:"$1 Scale"
+r:"^拡縮 ([Ａ-Ｚ])$"=$1 Scale
 値をコピー=Copy Value
 値を貼り付け=Paste Value
 全てリセット=Reset All
+r:"^([0-9]+\.[0-9]+)$"=$1
 
 // Accessory Parent List
 親を選択=Parent Selection
@@ -1673,7 +1677,7 @@ r:"^拡縮 ([Ａ-Ｚ])$"=r:"$1 Scale"
 ハートのバレッタ=Heart Barette
 蝶の髪飾り=Butterfly Ornament
 ドクロの髪飾り=Skull Ornament
-r:"^細リボン([A-Z])$"=r:"Fine Ribbon $1"
+r:"^細リボン([A-Z])$"=Fine Ribbon $1
 大きなリボン=Large Ribbon
 花=Flower
 ハイビスカス=Hibiscus
@@ -1748,7 +1752,7 @@ r:"^細リボン([A-Z])$"=r:"Fine Ribbon $1"
 一角=Unicorn Horn
 // Character Design Addon Pack Vol. 2 (add08)
 メカレシーバー=Mecha Receiver
-r:"^メカ装甲([０-９])$"=r:"Mecha Armor $1"
+r:"^メカ装甲([０-９])$"=Mecha Armor $1
 メカポッド=Mecha Pod
 メカシールド=Mecha Shield
 メカゴーグル=Mecha Goggles
@@ -1787,7 +1791,7 @@ r:"^メカ装甲([０-９])$"=r:"Mecha Armor $1"
 // Afterschool DLC (add20/25)
 ウェディングティアラ=Wedding Tiara
 ウェディングヴェール=Wedding Veil
-r:"^付け毛([0-9][0-9])$"=r:"Hairpiece $1"
+r:"^付け毛([0-9][0-9])$"=Hairpiece $1
 // Afterschool Preorder DLC (add 21/22/23)
 ヘッドドレス=Headdress
 CAキャップ=Cabin Attendant Cap
@@ -1820,7 +1824,7 @@ CAキャップ=Cabin Attendant Cap
 水泳ゴーグル=Swimming Goggles
 眼帯右用=Left Eyepatch
 眼帯左用=Right Eyepatch
-r:"^ハート([A-Z])$"=r:"Heart $1"
+r:"^ハート([A-Z])$"=Heart $1
 スペード=Spade
 ダイア=Diamond
 クローバー=Club
@@ -1883,7 +1887,8 @@ r:"^ハート([A-Z])$"=r:"Heart $1"
 ウェディングチョーカー=Wedding Choker
 フォーマルリボン=Bow Tie
 //Slider // BADLY needs an override - this should be "Zipper"
-ネームプレート=Nameplate // I guess if your name is "Wedding Planner," it's accurate enough... and guess what, that's exactly what her name is on her Character Card.
+// I guess if your name is "Wedding Planner," it's accurate enough... and guess what, that's exactly what her name is on her Character Card.
+ネームプレート=Nameplate
 // Afterschool Preorder DLC (add 21/22/23)
 CAネッカチーフ=Cabin Attendant Neckerchief
 // Patch 1221 (add24/25/26)
@@ -1968,8 +1973,8 @@ CAネッカチーフ=Cabin Attendant Neckerchief
 メカフット（右）=Mecha Foot (Right)
 
 // Accessories -> Arms
-r:"^ナイロンボストン([A-Z])$"=r:"Nylon Boston Bag $1"
-r:"^シュシュ([A-Z])$"=r:"Scrunchie $1"
+r:"^ナイロンボストン([A-Z])$"=Nylon Boston Bag $1
+r:"^シュシュ([A-Z])$"=Scrunchie $1
 ハート腕時計=Heart Wristwatch
 ボールビーズ=Ball Bead Bracelet
 メタルバングル=Metal Bangle
@@ -2082,26 +2087,28 @@ r:"^シュシュ([A-Z])$"=r:"Scrunchie $1"
 コピー先を選択して下さい=Item Destination
 左右の親を切り替える=Swap Sides When Transfering
 スロットをコピー=Copy Slot
-r:"^調整([①-⑨])をコピー$"=r:"Copy Adjustment $1"
-r:"^調整([①-⑨])を左右反転コピー$"=r:"Flip Adjustment $1 Hor. On Copy"
-r:"^調整([①-⑨])を上下反転コピー$"=r:"Flip Adjustment $1 Ver. On Copy"
+r:"^調整([①-⑨])をコピー$"=Copy Adjustment $1
+r:"^調整([①-⑨])を左右反転コピー$"=Flip Adjustment $1 Hor. On Copy
+r:"^調整([①-⑨])を上下反転コピー$"=Flip Adjustment $1 Ver. On Copy
 
 //
 // Profile Menu
 //
 
 キャラ=Character
-エッチ=H-Scene // Female Only
-質問=Nature // Female Only
-個性=Traits // Female Only
+// H-Scene/Nature/Traits are Female Only
+エッチ=H-Scene
+質問=Nature
+個性=Traits
 
 // Profile -> Character
+// Nickname/Voice Pitch are Female only
 名前=Name
-愛称=Nickname // Female only
+愛称=Nickname
 性格=Personality
 血液型=Blood Type
 誕生日=Birthday
-音声調整(低-高)=Voice Pitch (Low - High) // Female Only
+音声調整(低-高)=Voice Pitch (Low - High)
 日=Day
 月=Mo.
 A=A
@@ -2279,7 +2286,7 @@ No Image=No Image
 カード画像=Character Card Picture
 学生証画像を撮影=Student Card
 カード画像を撮影=Character Card
-"※ 学生証画像及びカード画像を撮影\n　 しないと保存できません。"="※ You can't save the card without\n　 a picture for the student card\n　 and the character card.
+※ 学生証画像及びカード画像を撮影\n　 しないと保存できません。=※ You can't save the card without\n　 a picture for the student card\n　 and the character card.
 撮影=Take Picture
 保存=Save
 戻る=Back
@@ -2294,7 +2301,7 @@ No Image=No Image
 
 // File Menu -> Lighting Options
 表現方法=Light Settings
-"※ キャラクターごとの設定ではなく、ゲーム全体の設定\n　 となります。"="※ These settings are not set per-character,\n　 instead they affect the entire game."
+※ キャラクターごとの設定ではなく、ゲーム全体の設定\n　 となります。=※ These settings are not set per-character,\n　 instead they affect the entire game.
 影の表現=Shadow Type
 影の濃さ=Shadow Density
 アウトラインの濃さ=Outline Density
@@ -2329,85 +2336,82 @@ No Image=No Image
 
 // Story Characters
 
+
 // Tried doing this with a sideloader mod, but the game just doesn't accept it that way.
 // Sorry, guys.
 
+
 リナ ロベール=Lina Robert
-:　リナ ロベール=:　Lina Robert
-:　リナ先生=:　Lina-sensei
+リナ先生=Lina-sensei
 橋本 麗奈=Hashimoto Reina
-:　橋本 麗奈=:　Hashimoto Reina
-:　麗奈先生=:　Reina-sensei
+麗奈先生=Reina-sensei
 櫻井 野乃花=Sakurai Nonoka
-:　櫻井 野乃花=:　Sakurai Nonoka
-:　ののか先生=:　Nonoka-sensei
+ののか先生=Nonoka-sensei
 姫川 舞=Himekawa Mai
-:　姫川 舞=:　Himekawa Mai
-:　舞=:　Mai
+舞=Mai
 柊 このみ=Hiiragi Konomi
-:　柊 このみ=:　Hiiragi Konomi
-:　このみ=:　Konomi
+このみ=Konomi
 結城 桜=Yuuki Sakura
-:　結城 桜=:　Yuuki Sakura
-:　さくら=:　Sakura
+結城 桜=Yuuki Sakura
+さくら=Sakura
 水瀬 亜依=Minase Ai
-:　水瀬 亜依=:　Minase Ai
-:　あい=:　Ai
+水瀬 亜依=Minase Ai
+あい=Ai
 
 // Personalities
-:　セクシー=:　Sexy
-:　お嬢様=:　Ojousama
-:　高飛車=:　Snobby
-:　後輩キャラ=:　Kouhai
-:　ミステリアス=:　Mysterious
-:　電波=:　Weirdo
-:　大和撫子=:　Yamato Nadeshiko
-:　ボーイッシュ=:　Tomboy
-:　純真無垢=:　Pure
-:　単純=:　Simple
-:　邪気眼=:　Delusional
-:　母性的=:　Motherly
-:　姉御肌=:　Big Sisterly
-:　ギャル=:　Gyaru
-:　不良少女=:　Delinquent
-:　野生的=:　Wild
-:　意識高いクール=:　Wannabe
-:　ひねくれ=:　Reluctant
-:　不幸少女=:　Jinxed
-:　文学少女=:　Bookish
-:　モジモジ=:　Timid
-:　正統派ヒロイン=:　Typical Schoolgirl
-:　ミーハー=:　Trendy
-:　オタク女子=:　Otaku
-:　ヤンデレ=:　Yandere
-:　ものぐさ=:　Lazy
-:　無口=:　Quiet
-:　意地っ張り=:　Stubborn
-:　のじゃっ子=:　Old-Fashioned
-:　素直クール=:　Humble
+セクシー=Sexy
+お嬢様=Ojousama
+高飛車=Snobby
+後輩キャラ=Kouhai
+ミステリアス=Mysterious
+電波=Weirdo
+大和撫子=Yamato Nadeshiko
+ボーイッシュ=Tomboy
+純真無垢=Pure
+単純=Simple
+邪気眼=Delusional
+母性的=Motherly
+姉御肌=Big Sisterly
+ギャル=Gyaru
+不良少女=Delinquent
+野生的=Wild
+意識高いクール=Wannabe
+ひねくれ=Reluctant
+不幸少女=Jinxed
+文学少女=Bookish
+モジモジ=Timid
+正統派ヒロイン=Typical Schoolgirl
+ミーハー=Trendy
+オタク女子=Otaku
+ヤンデレ=Yandere
+ものぐさ=Lazy
+無口=Quiet
+意地っ張り=Stubborn
+のじゃっ子=Old-Fashioned
+素直クール=Humble
 // Patch 0727 (add13/14)
-:　気さく=:　Friendly
+気さく=Friendly
 // Additional Personalities DLC (add15/16/17/18)
-:　勝ち気=:　Willful
-:　誠実=:　Honest
-:　艶やか=:　Glamorous
+勝ち気=Willful
+誠実=Honest
+艶やか=Glamorous
 // Afterschool DLC Personalities (add20/25)
-:　帰国子女=:　Returnee
-:　方言娘=:　Slangy
-:　Ｓッ気=:　Sadistic
-:　無感情=:　Emotionless
-:　几帳面=:　Perfectionist
+帰国子女=Returnee
+方言娘=Slangy
+Ｓッ気=Sadistic
+無感情=Emotionless
+几帳面=Perfectionist
 
 // Blood Types
-r:"^:　([Ａ-Ｚ]+)型$"=r:":　Type $1"
+r:"^(:\s+)?([Ａ-Ｚ]+)型$"=$1Type $2
 
 // Birthdays
-r:"^:　([0-9]+)月([0-9]+)日$"=r:":　$1/$2"
+r:"^(:\s+)?([0-9]+)月([0-9]+)日$"=$1$2/$3
 
 // Clubs
-:　帰宅部=:　Going Home Club
-:　水泳部=:　Swimming Club
-:　漫研部=:　Manga Club
-:　チアリーディング部=:　Cheerleading Club
-:　茶道部=:　Tea Ceremony Club
-:　陸上部=:　Track & Field Club
+帰宅部=Going Home Club
+水泳部=Swimming Club
+漫研部=Manga Club
+チアリーディング部=Cheerleading Club
+茶道部=Tea Ceremony Club
+陸上部=Track & Field Club
