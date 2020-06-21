@@ -10,7 +10,15 @@ namespace ReleaseTool
 
         private static void Main(string[] args)
         {
-            if (args.Length == 1 && !string.IsNullOrWhiteSpace(args[0]) && args[0].TrimEnd('\\').EndsWith("\\translation"))
+            var fgc = Console.ForegroundColor;
+            if (args.Length != 1 || !Directory.Exists(args[0]) || !args[0].Replace('/', '\\').TrimEnd('\\').EndsWith("\\translation", StringComparison.OrdinalIgnoreCase))
+            {
+                Console.ForegroundColor = ConsoleColor.Red;
+                Console.WriteLine("Error: Invalid arguments");
+                Console.ForegroundColor = fgc;
+                Console.WriteLine("Drag the translation folder from the repository on to this tool's exe to generate a release. Detailed results will be saved to results.txt in the program directory.");
+            }
+            else
             {
                 var root = new DirectoryInfo(args[0]);
                 if (root.Exists)
@@ -31,13 +39,11 @@ namespace ReleaseTool
                     Console.WriteLine($"Creating release done, {result.GetPercent() * 100:F3}% completed.");
                     Console.ForegroundColor = ConsoleColor.Gray;
                     Console.WriteLine("Detailed results were saved to " + detailsPath);
-                    Console.ReadKey(true);
-                    return;
                 }
             }
 
-            Console.ForegroundColor = ConsoleColor.Red;
-            Console.WriteLine("Pass a path to the translation folder, and make sure there are only .txt files inside of it! Detailed results will be saved to results.txt in the program directory.");
+            Console.ForegroundColor = fgc;
+            Console.WriteLine("Press any key to exit...");
             Console.ReadKey(true);
         }
 
