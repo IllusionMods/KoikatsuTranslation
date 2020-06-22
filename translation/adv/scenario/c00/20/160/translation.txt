@@ -1,5 +1,5 @@
-//「少し遅くなっちゃった……ごめんね？」=
-//「ううん、いいのよ。君との時間……すっごく楽しかったわ」=
-//「あ、あはは……じゃ、その……えっと、駅まで手、つないでいい？」=
-//「ふふふ、可愛いんだからぁ……はい、どーぞぉ♪」=
-//「ふふ、じゃ、帰ろう！」=
+「少し遅くなっちゃった……ごめんね？」=It's gotten a bit late... Sorry about that.
+「ううん、いいのよ。君との時間……すっごく楽しかったわ」=Nah, it's fine. Spending time with you... is always so fun.
+「あ、あはは……じゃ、その……えっと、駅まで手、つないでいい？」=A-ahaha... Then, well... Er, then until we get to the station, can we hold hands?
+「ふふふ、可愛いんだからぁ……はい、どーぞぉ♪」=Fufufu, because you're so cute... Yes, here. ♪
+「ふふ、じゃ、帰ろう！」=Fufu, then, let's go home!

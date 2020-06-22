@@ -1,12 +1,15 @@
-//「あぁん、もうすぐ終わりの時間ね」=
-//「歌い足りない感じだね」=
-//「うふふ、そうなの。もっと歌いたい気分なのよね」=
-//「じゃ、もうちょっと歌おうよ。延長の電話、入れておくね」=
-//「ぼちぼち出る用意しなきゃ」=
-//「ふぅ、少し歌い足りないわね。でもまあいいわ。また来ましょう」=
-//「うん、楽しみにしてる」=
-//「だね。次の曲が最後になりそうかな」=
-//「[H名]が入れていいよ。はい、どーぞ」=
-//「いいの？　じゃあ、遠慮なく♪」=
-//『小さな手の平 掴める物はきっと限られているけど♪』=
-//「Ｙｅａｈ　Ｙｅａｈ！」=
+「あぁん、もうすぐ終わりの時間ね」=Ahh, it's about time to go.
+「歌い足りない感じだね」=It doesn't feel like I sang enough yet.
+「うふふ、そうなの。もっと歌いたい気分なのよね」=Ufufu, right? You just feel like singing more.
+「じゃ、もうちょっと歌おうよ。延長の電話、入れておくね」=Then, let's sing a little more. I'll ask for an extension over the phone.
+「ぼちぼち出る用意しなきゃ」=I'll have to prepare little by little.
+「ふぅ、少し歌い足りないわね。でもまあいいわ。また来ましょう」=Fuu, I still haven't sung enough. But that's fine. Let's come again.
+「うん、楽しみにしてる」=Yeah, I'm looking forward to it.
+「だね。次の曲が最後になりそうかな」=Right? I guess the next song will be the last one then.
+「[H名]が入れていいよ。はい、どーぞ」=You can sing it, [H名]. Here you go.
+「いいの？　じゃあ、遠慮なく♪」=Is that okay? Then, I won't hesitate. ♪
+『小さな手の平 掴める物はきっと限られているけど♪』="I'm sure that there are only some things I can grasp in my small palm but even so- ♪"
+「Ｙｅａｈ　Ｙｅａｈ！」=Yeah, yeah!
+
+CHOICE:『歌い足りなさそうだね』="Doesn't feel like we sang enough."
+CHOICE:『帰る仕度をしよっか』="We should get ready to head home."

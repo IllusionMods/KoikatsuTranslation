@@ -1,12 +1,15 @@
-//「あぁん……もうこんな時間なの～？　まだ全部回れてないのに……時間って残酷ね」=
-//「ねえ、まだちょっと時間に余裕があるなら、今日の締めくくりをしない？」=
-//「あら、何？　エッチなこと考えてるんでしょ～～……もう、悪い子ね♪」=
-//「違うよ……観覧車に乗ろうって思って……」=
-//「観覧車？　ふふ、なーんだ……やっぱりちょっとエッチじゃない。いいわよ、行きましょ♪」=
-//（そんなにエッチかなぁ……？　景色を見せたいだけだったんだけど……）=
-//「このままじゃ遅くなっちゃいそうだし、今日は帰ろうか」=
-//「もう帰っちゃうの？　寂しいわ」=
-//「うう……そう言われるとグラっとくる……で、でも、明日に差し障っちゃうしね」=
-//「もう、つれないんだからぁ。でもしょうがないわよね。いいわ、帰りましょ」=
-//（ちょっと拗ねてる……可愛いんだから……）=
-//「さあ、駅まで行こう」=
+「あぁん……もうこんな時間なの～？　まだ全部回れてないのに……時間って残酷ね」=Aahn... Is it that time already~? Even though I haven't gone all out yet... Time is cruel, huh.
+「ねえ、まだちょっと時間に余裕があるなら、今日の締めくくりをしない？」=Hey, if you still have a bit of time afterwards, why don't we close up for today?
+「あら、何？　エッチなこと考えてるんでしょ～～……もう、悪い子ね♪」=Oh, what? You're just thinking about sex, aren't you?~~ ... Geez, such a naughty boy. ♪
+「違うよ……観覧車に乗ろうって思って……」=That's not it... I just thought we could go on the ferris wheel...
+「観覧車？　ふふ、なーんだ……やっぱりちょっとエッチじゃない。いいわよ、行きましょ♪」=The ferris wheel? Fufu, so that's it... I knew it had something to be something dirty after all. Okay then, let's go. ♪
+（そんなにエッチかなぁ……？　景色を見せたいだけだったんだけど……）=(Is it really that lewd...? I just really wanted to see the scenery though...)
+「このままじゃ遅くなっちゃいそうだし、今日は帰ろうか」=We're going to be late if we keep going at this pace, let's just go home. 
+「もう帰っちゃうの？　寂しいわ」=Leaving so soon? I'll get lonely.
+「うう……そう言われるとグラっとくる……で、でも、明日に差し障っちゃうしね」=Ugh... If you say it like that then I'll go... B-but, it'll cause problems for tomorrow.
+「もう、つれないんだからぁ。でもしょうがないわよね。いいわ、帰りましょ」=Geez, that's too bad. But it can't be helped. Okay, let's go home.
+（ちょっと拗ねてる……可愛いんだから……）=(I'm getting a bit restless... because she's so cute...)
+「さあ、駅まで行こう」=Then, let's head to the station.
+
+CHOICE:『最後に観覧車に乗ってかない？』="Why don't we ride the ferris wheel?"
+CHOICE:『暗くなる前に帰ろうか』="Let's head home before it gets dark."

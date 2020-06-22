@@ -1,4 +1,4 @@
-//「ふふ、どう？　楽しかった？　私はすごく楽しかったわ」=
-//「……まさか、あんなことしてくるだなんて思っても見なかったよ=
-//「ふふ、油断大敵ね。隙あらば、私はいつだって襲いかかっちゃうんだから♪」=
-//「本物の肉食系女子だね……」=
+「ふふ、どう？　楽しかった？　私はすごく楽しかったわ」=Fufu, how is it? Did you enjoy it? I had a lot of fun.
+「……まさか、あんなことしてくるだなんて思っても見なかったよ=... I never thought I'd ever be doing something like that.
+「ふふ、油断大敵ね。隙あらば、私はいつだって襲いかかっちゃうんだから♪」=Fufu, you were such a strong opponent. If I had the chance, I'd always be the one attacking. ♪
+「本物の肉食系女子だね……」=You really are a carnivorous girl, huh...
