@@ -1,3 +1,3 @@
-//「これよ……授業で作ったんだけどおまえ食うか？」=
-//「い……嫌ならいいんだ別に」=
-//「でも、食べるなら……あとで味の感想聞かせろよ」=
+「これよ……授業で作ったんだけどおまえ食うか？」=Here it is... I made this for class... You want some?
+「い……嫌ならいいんだ別に」=I... It's okay if you don't wanna.
+「でも、食べるなら……あとで味の感想聞かせろよ」=But... If you're gonna eat it let me know what you think of it later.

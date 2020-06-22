@@ -111,4 +111,7 @@
 
 //Scene specific names
 女の子=Girl
-？？？=? ? ?
+？？？=???
+
+野乃花=Nonoka
+亜依=Ai

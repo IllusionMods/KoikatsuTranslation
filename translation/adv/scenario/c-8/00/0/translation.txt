@@ -149,3 +149,6 @@
 「ぐぬぬ……諦めないであります。先輩に入って頂ければ、男性がいるという物珍しさから他の学生たちだって……」=“Hnugh~nugh, don't give up now. If Senpai were to join, everyone else would be willing join out of curiosity...”
 （客寄せパンダ！？）=(An attraction to lure people in!?)
 素直だったり黒かったり、何だかちょっと変わった娘だなと思いつつ、俺はその場を後にした。=I finally left the hallway, with thoughts of a somewhat strange girl, who's at times a schemer but also at times quite honest and likable.
+
+女の子=Girl
+このみ=Konomi

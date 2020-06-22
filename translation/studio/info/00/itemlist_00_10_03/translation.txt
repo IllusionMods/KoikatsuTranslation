@@ -1,0 +1,8 @@
+回転（obj無し）=Rotator (Without Object)
+ピストン（obj無し）=Piston (Without Object)
+振動（obj無し）=Shaker (Without Object)
+浮遊（obj無し）=Floater (Without Object)
+回転180（obj無し）=180° Rotator (Without Object)
+回転60（obj無し）=60° Rotator (Without Object)
+バウンド１（obj無し）=Bound 1 (Without Object)
+バウンド２（obj無し）=Bound 2 (Without Object)

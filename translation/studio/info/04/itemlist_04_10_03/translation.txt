@@ -1,0 +1,3 @@
+回転10（obj無し）=10° Rotator (Without Object)
+回転30（obj無し）=30° Rotator (Without Object)
+回転45（obj無し）=45° Rotator (Without Object)

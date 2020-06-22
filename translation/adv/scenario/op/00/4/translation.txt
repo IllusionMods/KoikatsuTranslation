@@ -34,3 +34,5 @@
 「うふふ、いい返事ですー。クラスに向かうので、先生について来てください」=“Ufufu, excellent answer. Alright, we'll now head to class so be sure to follow me.”
 ゆっくり立ち上がり、ぽてぽてと歩き出した先生の後ろをついていく。=I followed behind Sensei as she gently stood up and started gracefully towards the classroom.
 移動しながら自己紹介で何を話すか考えておこう。=I should I think about how I'll introduce myself on the way.
+
+野乃花=Nonoka

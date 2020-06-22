@@ -1,0 +1,6 @@
+//表示名=
+床=Sitting On Floor
+椅子=Chairs
+立ち=Standing
+プール=Pool
+オナホ=Onahole

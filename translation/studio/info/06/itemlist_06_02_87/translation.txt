@@ -1,0 +1,6 @@
+ビーチチェア=Beach Chair
+ビーチパラソル=Beach Parasol
+木の椅子=Wooden Chair
+木の長椅子=Wooden Bench
+木の机=Wooden Desk
+木の箱=Wooden Box

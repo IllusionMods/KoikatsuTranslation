@@ -1,0 +1,16 @@
+ナイロンボストンA=Nylon Boston Bag A
+ナイロンボストンB=Nylon Boston Bag B
+シュシュA=Scrunchie A
+シュシュB=Scrunchie B
+ハート腕時計=Heart Wristwatch
+ボールビーズ=Ball Bead Bracelet
+メタルバングル=Metal Bangle
+腕章「委員長」="Committee Chair" Armband
+腕章「実習」="Training" Armband
+腕章「風紀」="Public Morals" Armband
+リストバンド左用=Left Wristband
+リストバンド右用=Right Wristband
+拘束バンド左用=Left Restraint
+拘束バンド右用=Right Restraint
+カフス左用=Left Cuff
+カフス右用=Right Cuff

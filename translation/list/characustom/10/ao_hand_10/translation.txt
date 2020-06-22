@@ -1,0 +1,5 @@
+エンシェントロッド=Ancient Rod
+メカハンド握り右用=Mecha Right Fist
+メカハンド開き右用=Mecha Right Open Hand
+メカハンド握り左用=Mecha Left Fist
+メカハンド開き左用=Mecha Left Open Hand

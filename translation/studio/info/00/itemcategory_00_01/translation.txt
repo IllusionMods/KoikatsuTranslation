@@ -1,0 +1,8 @@
+地面=Ground
+ドア=Doors
+壁=Walls
+階段=Stairs
+設置物=Installed Objects
+建造物=Structures
+空=Skies
+画像板=Image Board
