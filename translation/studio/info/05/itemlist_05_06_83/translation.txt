@@ -1,6 +1,0 @@
-野球バット=Baseball Bat
-ヘルメット=Baseball Helmet
-つば広帽子=Wide-Brimmed Cap
-雫=Drop Earring
-3ポイント=Three-Jewel Necklace
-オーバル腕時計=Oval Wristwatch

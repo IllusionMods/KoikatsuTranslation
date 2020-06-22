@@ -1,2 +1,0 @@
-通常=General
-H=H

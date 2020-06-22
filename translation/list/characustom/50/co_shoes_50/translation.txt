@@ -1,6 +1,0 @@
-リングブーツ=Ring Boots
-ベースボールシューズ=Baseball Cleats
-バスケットシューズ=Basketball Shoes
-コンシェルジュブーツ=Concierge Boots
-タッセルローファー=Tassel Loafers
-メイドシューズ=Maid Shoes

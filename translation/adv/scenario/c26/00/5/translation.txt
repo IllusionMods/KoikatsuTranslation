@@ -1,3 +1,3 @@
-「運動……？　何するの？」="Exercise? What are you doing?"
+﻿「運動……？　何するの？」="Exercise? What are you doing?"
 「まだ決めてないけど、そんなに激しいことはしないつもりだよ」="I'm not sure yet, but I won't push myself too hard."
 「そう……わかった……それなら、いいよ」="Yeah... okay... that's all right."

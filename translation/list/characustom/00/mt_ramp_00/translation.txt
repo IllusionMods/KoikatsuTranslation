@@ -1,7 +1,0 @@
-浅いなめらか影=Slight, Smooth Shadows
-浅いくっきり影=Slight, Sharp Shadows
-深いなめらか影=Deep, Smooth Shadows
-深いくっきり影=Deep, Sharp Shadows
-境界線のある影=Boundary Line Shadows
-完全なめらか影=Perfect, Smooth Shadows
-影なし=No Shadows

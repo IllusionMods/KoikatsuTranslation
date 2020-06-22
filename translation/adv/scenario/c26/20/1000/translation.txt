@@ -10,5 +10,3 @@
 「そっか……[H名]が気になるなら、やってみようか。怪しい感じがしたら、すぐに逃げよう」="I see... If you want to attend, [H名], we can go. If things go south, we leave as soon as we can."
 「……わかりました。お引き受けします」="...Understood. I'll take care of it."
 「ありがとうございます！　それでは、さっそく式場までご案内いたしますね！」="Thank you, thank you! I'll take you two to the ceremony right away!"
-
-モブ=Mob

@@ -1,6 +1,0 @@
-鞘小太刀=Sheathed Short Sword
-白木拵え納刀=Sheathed Wooden Sword
-白木拵えの鞘=Wooden Sword Sheath
-2連鞘刀=Twin Sheathed Swords
-鬼神の腰当右用=Demon God's Hip Guard (Right)
-鬼神の腰当左用=Demon God's Hip Guard (Left)

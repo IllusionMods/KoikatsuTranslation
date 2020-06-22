@@ -1,6 +1,0 @@
-ベッド=Beds
-机=Desks
-椅子=Chairs
-棚=Shelves
-仕切り=Dividers
-水周り=Bathroom

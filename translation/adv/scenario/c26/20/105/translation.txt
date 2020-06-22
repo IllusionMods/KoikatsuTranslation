@@ -1,4 +1,4 @@
-「すごく……綺麗」="It's... so beautiful."
+﻿「すごく……綺麗」="It's... so beautiful."
 「ここのこと調べてたら、夜景が綺麗だって書いてあってさ。どうしても[H名]と見たかったんだよ」="If you look up, the sky looks dazzling. It reminds me of you, [H名]."
 「美しいってこの景色のことを言うんだろうね。ビルの明かりや街のネオン。夜空が暗いほど、光が存在感を増してる……」="I was about to say the same thing. The lights from the buildings, the neons lights from the city. The darker the sky is, the more they shine..."
 「……うん」="...Yeah."

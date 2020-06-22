@@ -1,2 +1,0 @@
-ビール=Beer Mug
-ラムネ瓶=Lemon Soda Bottle

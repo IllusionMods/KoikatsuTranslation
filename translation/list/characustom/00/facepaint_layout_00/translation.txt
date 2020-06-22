@@ -1,6 +1,0 @@
-左頬=Left Side of Face
-右頬=Right Side of Face
-おでこ=Forehead
-鼻=Nose
-口=Mouth
-顎=Jaw

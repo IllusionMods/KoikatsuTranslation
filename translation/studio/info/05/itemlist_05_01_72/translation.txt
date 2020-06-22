@@ -1,4 +1,0 @@
-街灯=Street Light
-焚火=Bonfire
-焚火(大)=Bonfire (Large)
-切り株=Tree Stump

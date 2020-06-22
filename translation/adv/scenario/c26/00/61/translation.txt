@@ -10,6 +10,3 @@
 「うん、私もそう思った。じゃあ、もう少し……」="I was thinking the same thing. Okay, maybe a bit longer..."
 「俺もすごく楽しかった、また遊ぼうね」="I had lots of fun. We should do this again sometime."
 「……うん、またね。今日は……ありがとう」="...I see. Thanks again."
-
-//CHOICE:「もう少し、一緒にいない？」=
-//CHOICE:「俺もすごく楽しかった、また遊ぼうね」=

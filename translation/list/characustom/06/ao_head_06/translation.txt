@@ -1,3 +1,0 @@
-羊の角=Sheep Horns
-牛の角=Cow Horns
-一角=Unicorn Horn

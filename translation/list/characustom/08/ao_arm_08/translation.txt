@@ -1,6 +1,0 @@
-メカショルダー=Mecha Shoulder
-メカ装甲５=Mecha Armor 5
-メカ装甲６=Mecha Armor 6
-メカ装甲６×３=Mecha Armor 6×3
-メカシールドⅡ=Mecha Shield Ⅱ
-メカブースターⅡ=Mecha Booster Ⅱ

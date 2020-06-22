@@ -1,3 +1,3 @@
-「ねぇ、これ……家庭科の授業で作ったの。食べて……くれる？」=Hi... This is umm... Homework from our home economic class, will you... Have a try?
-「あなたにあげる特別な理由はないけど……。後で感想、聞かせてね」=I don't really have specific reasons but... Would you give me your opinion after?
-「……やっぱり感想はいい！　おいしくないって言われたら、落ち込んじゃう」=... Or no! no opinion please! I will feel so loss if you don't like it
+//「ねぇ、これ……家庭科の授業で作ったの。食べて……くれる？」=
+//「あなたにあげる特別な理由はないけど……。後で感想、聞かせてね」=
+//「……やっぱり感想はいい！　おいしくないって言われたら、落ち込んじゃう」=

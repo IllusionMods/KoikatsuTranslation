@@ -7,6 +7,3 @@
 「少し名残惜しいけど、まだ二人で来よう」="It's a bit of a shame... but we can't stay here past closing."
 「ん、また二人で。……それじゃ、駅まで……手、繋ごう」="Okay, let's walk back. ...Can we hold hands on the way?"
 「ああ」="Sure."
-
-//CHOICE:『観覧車に誘う』=
-//CHOICE:『俺たちも帰ろうか』=

@@ -1,6 +1,0 @@
-なし=None
-シワ=Wrinkles
-強調１=Emphasis 1
-強調２=Emphasis 2
-境界線=Boundary Lines
-目周りの影=Shadowed Eyes

@@ -197,9 +197,7 @@
 笑顔満開のこのみとハイタッチをして、今日の部活も無事終了した。=High-fiving with Konomi, we then ended the day there.
 
 //Scene specific character names
-女子学生Ａ=Student A
-女子学生Ｂ=Student B
-女子学生Ｃ=Student C
-女子学生Ｄ=Student D
-
-このみ=Konomi
+女子学生Ａ=Female Student A
+女子学生Ｂ=Female Student B
+女子学生Ｃ=Female Student C
+女子学生Ｄ=Female Student D

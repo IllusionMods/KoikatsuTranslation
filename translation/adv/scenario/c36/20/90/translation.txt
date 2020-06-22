@@ -9,5 +9,3 @@
 「あがっ、いだっ！　潰れるっ！　ホントに頭潰れるっ！」="Guh, oww! It's getting crushed! My head's seriously deforming!"
 「フフフッ、ほら、もっといい悲鳴を聞かせなさい。そうしたら、また呼んであげるわ」="Fufufu, let me hear a better scream. Then I'll call you by your nickname again."
 「いぎっ！　ごめんなざいっ！　もう許じでぐだざいっ、[Hあだ名]……ぐぉおおぉっ！」="Oww! I'm sorry! Vorgibve mee bleazee, [Hあだ名]... Guaaaaah!"
-
-//「それはその……俺は、[Hあだ名]に、もう一度愛称で呼ばれながら、優しく撫でて欲しいな、なんて？」=

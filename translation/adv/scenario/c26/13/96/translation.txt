@@ -1,9 +1,7 @@
-「すぅ……すぅ…………ん、んん……」="Mm... mmm... nnnn...."
+﻿「すぅ……すぅ…………ん、んん……」="Mm... mmm... nnnn...."
 （んぅ……ん……なんか、下半身に違和感が……？）="(Nnn... There's something up with my lower half...)"
 「…………」="...."
 「って……え？　え？」="H...huh? Huh?"
 「……おはよう。ぐっすり、寝てたね」="...Good morning. It seemed like you slept well.
 「……もしかして、ずっとこうしてたの？」="...How long have you been doing this?"
 「うん……おちんちん、辛そうだったから……」="Yeah...it was so warm..."
-
-//「すぅ……すぅ……ん、んん……」=

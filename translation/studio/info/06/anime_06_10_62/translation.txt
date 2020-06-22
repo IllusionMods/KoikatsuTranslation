@@ -1,5 +1,0 @@
-//表示名=
-ストレッチ１=Stretching 1
-ストレッチ２=Stretching 2
-ストレッチ３=Stretching 3
-ストレッチ４=Stretching 4

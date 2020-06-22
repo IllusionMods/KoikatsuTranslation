@@ -18,6 +18,3 @@
 「じゃ、じゃあ、やっぱりここに──」=T-then, let's do it here after all--
 「今更言っても、だーめ。ほら、フロント連絡しなきゃ」=Even if you say that no, we can't. Now then, you need to call the front desk.
 「わかったよ──あのー、すみません、そろそろ出ます。会計お願いしまーす」=I got it already- Um, excuse me, we're just about done here. We'd like the check please.
-
-//CHOICE:『Ｈに誘ってみる』=
-//CHOICE:『今日はもう帰ろうか』=

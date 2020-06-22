@@ -1,7 +1,0 @@
-観葉植物1=Decorative Plant 1
-観葉植物2=Decorative Plant 2
-観葉植物3=Decorative Plant 3
-生垣1=Hedge 1
-生垣2=Hedge 2
-カエデ=Maple Tree
-木=Tree

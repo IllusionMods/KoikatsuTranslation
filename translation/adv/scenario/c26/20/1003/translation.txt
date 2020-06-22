@@ -29,6 +29,3 @@
 …………=......
 ……=...
 「……幸せです」="...I'm happy with you already."
-
-モブ=Mob
-牧師=Pastor

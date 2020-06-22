@@ -1,4 +1,0 @@
-//表示名=
-ループIN=Loop Start
-ループ=Loop
-ループOUT=Loop End

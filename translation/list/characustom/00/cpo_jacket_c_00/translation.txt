@@ -1,6 +1,0 @@
-なし=None
-リボン=Ribbon
-細リボン=Fine Ribbon
-ネクタイ=Necktie
-ルーズネクタイ短=Loose Necktie (Short)
-ルーズネクタイ長=Loose Necktie (Long)

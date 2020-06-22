@@ -1,4 +1,4 @@
-「すぅ……すぅ…………ん、んん……」="Yeah... yeah... Nnnn...."
+﻿「すぅ……すぅ…………ん、んん……」="Yeah... yeah... Nnnn...."
 （ん、んん……何だか下半身に違和感が……？）="(Nnn... There's something up with my lower half...)"
 「…………」="...."
 「って……え？　え？」="H...huh? Huh?"

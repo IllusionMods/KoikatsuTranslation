@@ -6,6 +6,3 @@
 「……うん、いいよ」="Sure, that's fine."
 「そっか、じゃあまたね」="Okay, see you later."
 「うん、またね……」="Yeah, see you..."
-
-//CHOICE:「よかったら……このまま家に来ない？」=
-//CHOICE:「そっか、じゃあまたね」=

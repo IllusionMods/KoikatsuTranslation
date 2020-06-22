@@ -1,7 +1,0 @@
-//表示名=
-シーン1=Scene 1
-シーン2=Scene 2
-シーン3=Scene 3
-シーン4=Scene 4
-シーン5=Scene 5
-フル=Loop

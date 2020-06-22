@@ -1,4 +1,4 @@
-「何度見ても、ここからの夜景は綺麗だね」="No matter how many times I see it, the view is beautiful..."
+﻿「何度見ても、ここからの夜景は綺麗だね」="No matter how many times I see it, the view is beautiful..."
 「……うん。ここ、好き」="...Yeah. I like it here."
 （[H名]と初めて来た時もこんな感じだったな……）="(This is just like the first time I met [H名]...)"
 「……どうしたの？　もしかして……思い出してたの？」="...What's wrong? Did you remember something again?"
@@ -32,6 +32,3 @@
 「……うん。そっか、そうだね。次が、ある」="OK. Lead the way."
 「次も……楽しませてね」="Be seeing you."
 「もちろん。さあ、帰ろうか」="Of course. Let's head home."
-
-//CHOICE:『また、エッチしない？』=
-//CHOICE:『そろそろ、帰ろうか』=

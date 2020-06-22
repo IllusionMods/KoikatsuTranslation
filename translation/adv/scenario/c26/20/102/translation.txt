@@ -1,4 +1,4 @@
-「お待たせ。遅くなってごめんね。はい、アイスクリーム買ってきたよ」="Hey, thanks for waiting for me. Sorry I'm late. I got ice cream."
+﻿「お待たせ。遅くなってごめんね。はい、アイスクリーム買ってきたよ」="Hey, thanks for waiting for me. Sorry I'm late. I got ice cream."
 「……ありがとう」="...Thanks."
 （一口が小さくて、可愛いな。小動物的な感じってこんなことをいうだろうなー……ってつめた！）="(Her bites were small and cute, like a rabbit...)"
 「うわっ！」="Oh!"

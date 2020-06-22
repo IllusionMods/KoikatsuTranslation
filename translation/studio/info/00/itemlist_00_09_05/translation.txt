@@ -1,4 +1,0 @@
-集中線=Focal Lines
-丸影=Circular Shadow
-レンズフレアA=Lens Flare A
-レンズフレアB=Lens Flare B

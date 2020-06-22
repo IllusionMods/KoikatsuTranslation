@@ -1,4 +1,0 @@
-雪の結晶(キャラ)=Snowflake (Character)
-雪の結晶ステッキ=Snowflake Wand
-サンタ帽子=Santa Hat
-クリスマスリボン=Christmas Ribbon

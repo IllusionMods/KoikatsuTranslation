@@ -6,6 +6,3 @@
 「これから？　いいよ。アタシもちょーど、一緒にいたいと思ってたんだ」=“From now on? Sure. I thought a little bit that I'd like to be with you too.”
 「そうだね、今日はありがとう。それじゃあまた！」=“That's right, so thanks for today. Alright, see you later!”
 「うん、それじゃあまたね」=“Yep, alright, seeya later, 'kay?”
-
-//CHOICE:「ねぇ、このあともしよかったら……家に来ない？」=
-//CHOICE:「そうだね、今日はありがとう。それじゃあまた！」=

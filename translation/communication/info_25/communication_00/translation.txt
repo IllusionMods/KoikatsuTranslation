@@ -560,6 +560,3 @@
 「もう、入ってきちゃダメよ？　入るなら、私しかいないときに、ね？」=“Geez, you can't come in? If you're coming in, it's only when I'm here, okay?”
 「入部してくれるの？　歓迎するよ！」=“You'll join us? Welcome!”
 「嬉しいわ♡」=“I'm happy ♡”
-
-//「甘えるのはあまり得意じゃないんだけれど……君のためなら頑張るわ」=
-//「ふふっ、どうしたの？　[Pあだ名]。もう、君が照れてどうするのよ」=

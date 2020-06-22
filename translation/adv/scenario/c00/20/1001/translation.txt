@@ -29,6 +29,3 @@
 （うろ覚えなんだけどなぁ……ま、なんとかなるか）=(I can't really remember it at all though... Well, it'll work out somehow.)
 「それでは、こちらで少々お待ちください」=Now then, please wait here for a moment.
 「わかりました」=I understand.
-
-モブ=Mob
-

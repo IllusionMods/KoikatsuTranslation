@@ -11,6 +11,3 @@
 「ええ、帰るにはまだ早いものね」=“Yeah, it's too early to go home.”
 「俺も楽しかったよ、それじゃあね」=“I also had fun, well see ya.”
 「ええ、気を付けて帰ってね。また連絡するわ」=“Yeah, return home safely. I'll contact you later.”
-
-//CHOICE:「まだもう少し一緒にいない？」=
-//CHOICE:「俺も楽しかったよ、それじゃあね」=

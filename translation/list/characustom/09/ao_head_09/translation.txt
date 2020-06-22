@@ -1,6 +1,0 @@
-ロイヤルクラウン=Royal Crown
-羽の髪飾り左用=Left Hair Feather
-羽の髪飾り右用=Right Hair Feather
-ナイトバイザー=Knight Visor
-鎧兜=Armored Helmet
-毛玉=Furball

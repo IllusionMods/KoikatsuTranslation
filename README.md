@@ -35,20 +35,3 @@ When you have translations to submit [fork the repository](https://help.github.c
 Every translation.txt file has the raw Japanese text that needs translations. Each one starts commented out (// at the begining) to avoid DynamicTranslationLoader errors. For your text to display correctly in game, put the translation on the right side of the equal sign and remove the // at the start of the line. Do not edit the Japanese text or the translation will not work.  
 
 Coordinate with other translators on the [Koikatsu Discord](https://discord.gg/urDt8CK) lingual-studies channel. To avoid translation conflicts please ask if anyone is working on a file. If you have any questions about the quality of your translations, ask for advice on the Koikatsu Discord.
-
-
-## Personalities
-Translation files are organized by personality ID, for reference the personalies are listed below:
-
-|  |  |  |  |
-| ------------- | ------------- | ------------- | ------------- |
-| c00 - Sexy  | c01 - Ojousama  | c02 - Snobby  | c03 - Kouhai  |
-| c04 - Mysterious  | c05 - Weirdo  | c06 - Yamamoto Nadeshiko  | c07 - Tomboy  |
-| c08 - Pure  | c09 - Simple  | c10 - Delusional  | c11 - Motherly  |
-| c12 - Big Sisterly  | c13 - Gyaru  | c14 - Delinquent  | c15 - Wild  |
-| c16 - Wannabe  | c17 - Reluctant  | c18 - Jinxed  | c19 - Bookish  |
-| c20 - Timid  | c21 - Typical Schoolgirl  | c22 - Trendy  | c23 - Otaku  |
-| c24 - Yandere  | c25 - Lazy  | c26 - Quiet  | c27 - Stubborn  |
-| c28 - Old-Fashioned  | c29 - Humble  | c30 - Friendly  | c31 - Willful  |
-| c32 - Honest  | c33 - Glamorous  | c34 - Returnee  | c35 - Slangy  |
-| c36 - Sadistic  | c37 - Emotionless  | c38 - Perfectionist  |   |

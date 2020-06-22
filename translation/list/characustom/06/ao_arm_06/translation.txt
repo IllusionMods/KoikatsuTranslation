@@ -1,5 +1,0 @@
-くノ一肩当て右用=Kunoichi Shoulderpad (Right)
-くノ一肩当て左用=Kunoichi Shoulderpad (Left)
-巫女袖右用=Shrine Maiden Sleeve (Right)
-巫女袖左用=Shrine Maiden Sleeve (Left)
-鬼神の肩当て=Demon God's Shoulderpad

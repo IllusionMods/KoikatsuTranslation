@@ -1,3 +1,0 @@
-全体光=Entire Map
-ポイントライト=Point Light
-スポットライト=Spotlight

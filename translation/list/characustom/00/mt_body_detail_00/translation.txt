@@ -1,4 +1,0 @@
-なし=None
-ムキムキ=Muscular
-ポッチャリ=Chubby
-スレンダー=Slender

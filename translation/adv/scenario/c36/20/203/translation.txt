@@ -10,6 +10,3 @@
 「えーっと、それじゃあ。最後にお土産だけでも見ていく？」="Umm, then as our last stop let's maybe look at some souvenirs?"
 「だから何故疑問形なの？　終わり悪ければ、全て悪しよ？」="Why the question mark again? All's bad that ends bad you know!"
 「ぐっ、仰る通りです……そうだ！　何かプレゼントするよ！　行こう！　そうしよう！」="Guh, it's as you say... I know! I'll give you a present! Let's go! Let's do that!"
-
-//CHOICE:『じゃあ、最後に観覧車に乗ろうよ』=
-//CHOICE:『暗くなる前に帰った方がいいかな？』=

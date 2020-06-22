@@ -1,6 +1,0 @@
-ベルトグローブ=Belt Gloves
-ベルトグローブ(指ぬき)=Belt Gloves (Fingerless)
-ショートグローブ(指ぬき)=Short Gloves (Fingerless)
-肘サポーター=Elbowpads
-コンシェルジュスリーブ=Concierge Sleeves
-桔梗飾りのグローブ=Chinese Bellflower Gloves

@@ -1,5 +1,0 @@
-半ピラミッド(キャラ)=Half Pyramid (Character)
-角なし半四角錐(キャラ)=Beveled Half-Squared Pyramid (Character)
-半コーン(キャラ)=Half Cone (Character)
-階段型(キャラ)=Stairs (Character)
-半カプセル(キャラ)=Half Capsule (Character)

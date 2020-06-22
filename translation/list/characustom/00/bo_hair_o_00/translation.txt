@@ -1,9 +1,0 @@
-なし=None
-ちょび=Tiny
-くるくる=Curled
-ギザギザ=Jagged
-ハート=Heart
-触覚(1本)=Ahoge (Single)
-触覚(2本)=Ahoge (Twin)
-はね毛=Featherlike
-長触覚=Long Ahoge

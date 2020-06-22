@@ -1,4 +1,4 @@
-（うーん、どうしたのかな。あまりしゃべらないのは、いつものことだけど）="(Is something wrong? She's not talking at all...)"
+﻿（うーん、どうしたのかな。あまりしゃべらないのは、いつものことだけど）="(Is something wrong? She's not talking at all...)"
 「もしかして、公園デートつまらない？」="Are you... finding the date boring?"
 「そんなこと、ないけど。……なんで？」="No, not at all... why?"
 「なんとなく、心ここにあらずって感じがしてさ」="Somehow, I feel like of peaceful here."

@@ -12,6 +12,3 @@
 （……ひたすら、我慢するしかないか。こんなとこで、勃たせたら……[H名]を失望させちゃうからな）=(I don't have a choice but to grin and bear it for now.  What if everybody sees it... [H名] will be so embarassed.)
 （せめて空いてるスペースができれば、密着せずに済むんだけど……）=(If only there was another open seat, I wouldn't need to do this...)
 （俺の自制心……最後までもってくれよっ）=(I just need to control myself... until the next stop.)
-
-//CHOICE:『Ｈをお願いする』=
-//CHOICE:『ひたすら我慢する』=

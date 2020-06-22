@@ -12,6 +12,3 @@
 「ん、それなら……」="Oh... okay."
 「初めて感じた　胸の痛みは　絆深くなる証～♪」="My bleeding heart aches～♪ for someone I call my own～♪ I'll find them someday～♪"
 「いいぞっ、[H名]～！」="Let's go, [H名]～！"
-
-//CHOICE:『延長して、もうちょっと歌おうよ』=
-//CHOICE:『帰る仕度をしよっか』=

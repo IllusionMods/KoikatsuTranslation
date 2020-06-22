@@ -24,7 +24,3 @@
 「ぇっ、ぁっ……ぁ、ありがとう……ございます」="Eh, ah... Thank you... Very much."
 「プッ、何よその顔。見ていると苛めたくなるから、今日はこの辺でね」="Pfft, what's up with that face. Looking at it makes me want to tease you, so let's say our goodbyes."
 「あっ、うん……それじゃあ、また……」="Ah, yeah... Well then, till next time..."
-
-//CHOICE:『自宅に誘う』=
-//CHOICE:『ラブホに誘う』=
-//CHOICE:『さよならする』=

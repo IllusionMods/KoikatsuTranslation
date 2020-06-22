@@ -20,6 +20,3 @@
 「[H名]さん、密室だと容赦ないんだもん……俺、壊れちゃうよ……」="Miss [H名], I think it's too much for this closed room... I think I'm going to break...
 「フフッ、なにを女々しい事を言っているのよ。私達はただカラオケで歌っていただけでしょ？」="Fufu, why are you talking all ladylike? We were only singing at karaoke bar, right?"
 「ちょくちょく詰られたり、踏まれたりした気がするけど……まぁ、とりあえず会計済ませてきちゃうね」="I frequently get scolded, feel like my feelings are being trampled down, but... well, for now let's put an end to this meeting."
-
-//CHOICE:『一緒にいられるなら、それでもいいかな』=
-//CHOICE:『心が折れそうだから、今日はもう帰ろう』=

@@ -13,5 +13,3 @@
 「……綺麗だ。綺麗ってこういう事を言うんだ……」="... Stunning. That's when you say someone's stunning..."
 「[H名]さん、す、凄い似合ってるよ。綺麗で、とにかく綺麗だよ」="Miss [H名], i-it fits you extremely well. You're beautiful, really beautiful."
 「フッ、まったく。こういう時まで頼りないわね。でも、ありがとう……」="Good grief. Even at a time like this you're helpless. But, thank you..."
-
-モブ=Mob

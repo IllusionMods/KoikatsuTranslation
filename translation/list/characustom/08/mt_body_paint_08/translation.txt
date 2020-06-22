@@ -1,9 +1,0 @@
-バーコード=Barcode
-ターゲット=Target
-CAUTION=CAUTION
-DANGER=DANGER
-WARNING=WARNING
-００=00
-０１=01
-０２=02
-０３=03

@@ -1,2 +1,2 @@
-「[P]くん。はい！　これ、授業で作ったの」=[P]-kun. hey, I cook this for homework
-「わたしの愛情がたっぷりだから、よーく味わって食べてね♪」=I put a lot of love in it, pleeease taste it carefully♪
+//「[P]くん。はい！　これ、授業で作ったの」=
+//「わたしの愛情がたっぷりだから、よーく味わって食べてね♪」=

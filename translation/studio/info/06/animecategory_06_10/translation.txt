@@ -1,3 +1,0 @@
-ストレッチ=Stretching
-動き回る=Moving Around
-ダイブ=Diving

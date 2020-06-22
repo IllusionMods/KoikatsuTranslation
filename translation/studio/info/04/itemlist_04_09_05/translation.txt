@@ -1,5 +1,0 @@
-レンズフレアC=Lens Flare C
-レンズフレアD=Lens Flare D
-レンズフレアE=Lens Flare E
-レンズフレアF=Lens Flare F
-レンズフレアG=Lens Flare G

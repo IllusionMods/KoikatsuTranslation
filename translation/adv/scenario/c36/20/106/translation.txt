@@ -31,7 +31,3 @@
 「下僕よ。性欲を持て余している下僕」="A manservant who can't manage his sexual desire."
 「はは……ですよねー。じゃあ、手を繋いで帰るくらいは許してくれる？」="Haha... so that's it. Will you forgive me if we go back home while holding hands?"
 「フフッ、どうぞ。貴方がどこまで我慢できるのか、楽しませてもらうわ」="Fufu, go ahead. I wonder how long you'll hold on. Let me enjoy it~"
-
-//CHOICE:『実は、またここでエッチしたいなって……』=
-//CHOICE:『この景色をまた二人で見たいなって思ってただけだよ』=
-//「ご、強引過ぎたかな？　一度スイッチが入っちゃうと、止まらなくて……」=

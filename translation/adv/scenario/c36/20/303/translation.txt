@@ -10,6 +10,3 @@
 「ひどいなぁ……ま、[H名]さんの歌声が聞けるならいいけど」="You're harsh... Well, it's fine if that means I get to hear Miss [H名]'s singing voice."
 『小さな手の平 掴める物は～♪　きっと限られているけど♪』="A palm so small, The things it can grasp~♪  It can't hold too much♪"
 （この曲、本当お気に入りだよなぁ）=(She must really like that song huh.)
-
-//CHOICE:『延長して、もうちょっと歌おうよ』=
-//CHOICE:『そうだね。帰る仕度をしよっか』=

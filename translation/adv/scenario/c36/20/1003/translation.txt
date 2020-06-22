@@ -20,7 +20,8 @@
 「いい？　行動力よ？　それが全て。失敗して私に踏みつけられる事を恐れてはダメ。まぁ、貴方にはご褒美みたいなものでしょ？」="Got it? It's about the ability to take action. That's all. Don't be afraid of being stepped on by me if you make a mistake. But that would be a reward for you, wouldn't it?"
 「いやぁ、はは……それは……」="No way, haha... That's..."
 「ンッ、早速失敗したわね。後でお仕置きしてあげるから、今は黙って聞いていなさい」="Shh, you failed instantly. I'll punish you later, so stay silent and listen now."
-「貴方を下僕に選んで良かった……そう私に思わせてみなさい。そうすれば、貴方の望むものが手に入るわ。全てね」="I'm glad that I chose you as my manservant... Let me think that way. If you do, you'll get what you desire. Everything."
+「貴方を下僕に選んで良かった……そう私に思わせてみなさい。そうすれば、貴方の望むものが手に入るわ。全てね」=
+"I'm glad that I chose you as my manservant... Let me think that way. If you do, you'll get what you desire. Everything."
 「うんっ！　わかった！　俺、[H名]さんに相応しい下僕になれるよう、頑張るよ！」="Yes! Understood! I'll do my best to be a suitable manservant for Miss [H名]!"
 「んんっ……」="Nn..."
 ………………=.........
@@ -28,8 +29,3 @@
 ……=...
 「……こら、下僕なんて大声で言わないの、皆驚いてるわよ」="...Hey manservant, don't raise your voice, you've startled everyone."
 「……でも、頑張りなさい。それなりに期待しておいてあげるわ」="...But do your best. I'm expecting you'll do, in your own way."
-
-//「……はい、誓います」=
-
-モブ=Mob
-牧師=Pastor

@@ -1,5 +1,0 @@
-//表示名=
-ダイブ１=Diving 1
-ダイブ２=Diving 2
-ダイブ３=Diving 3
-ダイブ４=Diving 4

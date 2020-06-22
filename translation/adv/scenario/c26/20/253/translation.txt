@@ -15,6 +15,3 @@
 （……ハッ、いかん！　欲望に流されるな俺！）=(...No, stop it! What the hell are you thinking?!)
 （ここで勃起したら、せっかくのデートが台無しになってしまう！）=(Everybody's gonna look at us funny... we're gonna be on the evening news...)
 （混雑が解消されるまでの辛抱だ……我慢するんだ、俺っ！）=(I can wait until it goes away... I'll put up with it, I'll--!)
-
-//CHOICE:『欲望に少し抵抗する』=
-//CHOICE:『鉄の自制心を持って抵抗する』=

@@ -1,4 +1,4 @@
-「あっ……もう、こんな時間。周りが、オレンジに……」="Oh... It's so late already. The sky's completely orange...."
+﻿「あっ……もう、こんな時間。周りが、オレンジに……」="Oh... It's so late already. The sky's completely orange...."
 「実は一緒に見たいところがあるんだ。時間は、まだ大丈夫？」="Actually, there was a place I wanted to see together. Is it too late, or...?"
 「大丈夫……。一緒に見たいものって何？」="It's fine... What did you want to go and see?"
 「それは着いてからのお楽しみってことで」="I had a fun time since we arrived."
@@ -8,6 +8,3 @@
 「本当に？　無理な時はちゃんと言ってね。[H名]はあんまりしゃべらないからさ」="Really? Just say when you need a break, [H名]. I don't want to push you too hard."
 「うん……わかった」="OK, got it."
 「約束だからね。よし、駅まで手を繋いで帰ろっか」="Okay, let's walk back to the station together."
-
-//CHOICE:『見せたいところがあるんだ』=
-//CHOICE:『暗くなる前に帰ろうか』=

@@ -41,5 +41,5 @@
 （……我慢ガマン。股間がやばい……夜景を見て、心を鎮めよう……）=(... Endure it, endure it. My crotch is in trouble... I'll look at the night view to calm down my heart...)
 「ふぅ、じゃあ、そろそろ帰ろうか」=Foo, now then, let's head home.
 
-CHOICE:『この気分のままエッチしたいな』="This kinda mood makes me want to have sex."
-CHOICE:『またこの景色を楽しもう』="Let's come back to look at this scenery again."
+CHOICE:『この気分のままエッチしたいな』="This kinda mood makes me want to have sex"
+CHOICE:『またこの景色を楽しもう』="Let's take another look at this scenery"

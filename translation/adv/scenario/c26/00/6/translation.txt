@@ -1,3 +1,3 @@
-「……行くって、どこに？」="Where are you going?"
+﻿「……行くって、どこに？」="Where are you going?"
 「ついてからのお楽しみ」="It's a good way to have fun."
 「……？」="...Huh?"

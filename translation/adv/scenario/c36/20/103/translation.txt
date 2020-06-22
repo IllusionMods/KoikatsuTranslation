@@ -11,6 +11,3 @@
 「あはは……やっぱりカッコ付け過ぎだったかな？」="Ahaha, was that too presumptuous of me?"
 「そうね、１０年早いと思うわ。いえ、貴方をきちんと躾けるには、１０年でも足りないかしら」="Let me see, 10 years too early for you to speak like that. No, to tran you properly, 10 years is definitely too short."
 「期待に応えられるように、一歩ずつ頑張るよ」="I'll do my best and do one step at a time to live up to your expectations."
-
-//CHOICE:『まだ時間ある？』=
-//CHOICE:『俺も楽しかった』=

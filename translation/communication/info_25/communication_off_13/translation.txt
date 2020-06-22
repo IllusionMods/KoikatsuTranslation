@@ -563,9 +563,3 @@
 「ちょっと、ちょっと！　今は他の子がいるからヤバイって！」=“Hold up, hold up! It's dangerous, there's other girls around right now!”
 「もちろんいいよ。大歓迎！」=“Of course you can. Welcome aboard!”
 「ありがと～、すっごい嬉しい」=“Thanks～ I'm super happy!”
-
-//「出された課題はちゃんとやってる？」=
-//「ねね、もっと違う話も聞かせて」=
-//「いいよ～。どんな運動しよっか」=
-//「あ～疲れた。[P]くんの成分補充しなきゃ～」=
-//「もぉ、ほーんと大好きだよね」=

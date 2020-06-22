@@ -1,8 +1,0 @@
-ビーム・扇=Energy Beam (Folding Fan)
-ビーム・剣=Energy Beam (Sword)
-バリア・円(緑)=Spherical Energy Barrier (Green)
-バリア・円(赤)=Spherical Energy Barrier (Red)
-バリア・四角(緑)=Cubic Energy Barrier (Green)
-バリア・四角(赤)=Cubic Energy Barrier (Red)
-バリア・ピラミッド(緑)=Pyramidal Energy Barrier (Green)
-バリア・ピラミッド(赤)=Pyramidal Energy Barrier (Red)

@@ -2,5 +2,3 @@
 「えっ、それは散歩とか……話とか。あー、ほら！　出店が出てる！　行ってみようよ！」="Umm, stroll around, talk... Ah, look! There's a food stand! Let's go!"
 「クレープ、美味しかったね」="That crêpe was pretty delicious."
 「フフッ、クレープに救われたわね。おかげで少しは楽しめたわ。」="Fufu, saved by a crêpe. Thanks to that I was able to have some fun. Make sure to show your gratitude later."
-
-//「フフッ、クレープに救われたわね。おかげで少しは楽しめたわ。後でお礼を言っておきなさい」=

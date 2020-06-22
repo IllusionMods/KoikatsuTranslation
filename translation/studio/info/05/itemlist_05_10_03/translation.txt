@@ -1,5 +1,0 @@
-回転10_Bタイプ（obj無し）=10° Rotator Type B (Without Object)
-回転30_Bタイプ（obj無し）=30° Rotator Type B (Without Object)
-回転45_Bタイプ（obj無し）=45° Rotator Type B (Without Object)
-回転60_Bタイプ（obj無し）=60° Rotator Type B (Without Object)
-回転180_Bタイプ（obj無し）=180° Rotator Type B (Without Object)
