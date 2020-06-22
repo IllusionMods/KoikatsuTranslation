@@ -1,0 +1,8 @@
+//表示名=
+ダンス1=Dance 1
+ダンス2=Dance 2
+ダンス3=Dance 3
+ダンス4=Dance 4
+ダンス5=Dance 5
+ダンス6=Dance 6
+ダンス7=Dance 7

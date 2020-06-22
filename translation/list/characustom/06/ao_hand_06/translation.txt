@@ -1,0 +1,3 @@
+小太刀=Short Sword
+白木拵え刀=Wooden Sword
+鬼神の金棒=Demon God's Iron Club

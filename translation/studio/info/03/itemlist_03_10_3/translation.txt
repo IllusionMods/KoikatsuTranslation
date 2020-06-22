@@ -1,0 +1,2 @@
+投げ01（obj無し）=Pitch 01 (Without Object)
+投げ02（obj無し）=Pitch 02 (Without Object)

@@ -1,0 +1,3 @@
+バット=Bat
+包丁=Kitchen Knife
+フライパン=Frying Pan

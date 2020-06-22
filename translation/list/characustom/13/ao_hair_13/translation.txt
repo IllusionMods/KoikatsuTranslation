@@ -1,0 +1,2 @@
+貝殻=Seashell
+ヒトデ=Starfish

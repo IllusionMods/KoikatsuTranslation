@@ -1,0 +1,3 @@
+ぼかし帯ハイライト=Gradient Band Highlight
+ぼかし四角ハイライト=Gradient Square Highlight
+ぼかし線ハイライト=Gradient Line Highlight

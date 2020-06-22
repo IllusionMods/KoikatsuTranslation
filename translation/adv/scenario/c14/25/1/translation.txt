@@ -1,4 +1,4 @@
-//「や、やあこんにちは！」=
-//「あぁん、なんだよ……って、噂の転校生じゃねえか！」=
-//「う、うん……それで、君と少し話がしたいんだけどいいかな？」=
-//「あぁ、いいぜ。実は私もおまえに興味があったんだ」=
+「や、やあこんにちは！」=Uh... Hello there!
+「あぁん、なんだよ……って、噂の転校生じゃねえか！」=Uhh. What the fuck... Isn't it the transfer student I heard about!
+「う、うん……それで、君と少し話がしたいんだけどいいかな？」=Um, yeah... So, I'd like to have a little chat with you, if that's okay.
+「あぁ、いいぜ。実は私もおまえに興味があったんだ」=Yeah, sure. Actually, I was curious about you, too.

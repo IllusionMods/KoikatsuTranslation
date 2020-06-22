@@ -1,0 +1,8 @@
+ワイシャツ=Dress Shirt
+ワイシャツ襟開け=Dress Shirt (Opened Collar)
+ワイシャツベスト=Vest And Dress Shirt
+ワイシャツパーカー=Parka And Dress Shirt
+肩吊りワイシャツ=Shoulder-Hung Dress Shirt
+体操着=Gym Uniform
+キャミソール=Camisole
+ノースリーブシャツ=Sleeveless Dress Shirt

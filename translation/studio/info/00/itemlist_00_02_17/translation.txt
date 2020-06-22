@@ -1,0 +1,16 @@
+便器1=Toilet 1
+便器2=Toilet 2
+便器3=Toilet 3
+便器4=Toilet 4
+トイレットペーパー1=Toiletpaper 1
+トイレットペーパー2=Toiletpaper 2
+トイレットペーパー3=Toiletpaper 3
+流し台=Washstand
+水道=Washbasin
+蛇口1=Faucet 1
+蛇口2=Faucet 2
+シャワーノズル=Shower Nozzle
+シャワーノブ=Shower Knob
+洗面器1=Sink 1
+洗面器2=Sink 2
+洗面器3=Sink 3

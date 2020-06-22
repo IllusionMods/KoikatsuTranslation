@@ -1,0 +1,8 @@
+なし=None
+弓かけ=Archery Glove
+小悪魔手袋=Devil Gloves
+アイドル手袋=Idol Gloves
+指先絆創膏左手=Left Hand Fingertip Bandage
+指先絆創膏右手=Right Hand Fingertip Bandage
+手袋=Gloves
+長手袋=Long Gloves

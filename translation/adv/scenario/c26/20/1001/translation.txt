@@ -31,3 +31,5 @@
 （うろ覚えなんだけどなぁ……ま、なんとかなるか）=(I don't think I got all of that... but I'll try."
 「それでは、こちらで少々お待ちください」="Please, wait here for a moment."
 「わかりました」="Got it."
+
+モブ=Mob

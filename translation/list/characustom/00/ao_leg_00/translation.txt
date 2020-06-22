@@ -1,0 +1,4 @@
+チアガーターリボン（左）=Cheerleader Garter Ribbon (Left)
+チアガーターリボン（右）=Cheerleader Garter Ribbon (Right)
+フリルガーターリング（左）=Frilly Garter Ribbon (Left)
+フリルガーターリング（右）=Frilly Garter Ribbon (Right)

@@ -1,0 +1,7 @@
+エトワールブローチ=Star Choker
+スカーフ=Scarf
+シンプルブローチ=Simple Choker
+ヴィンテージブローチ=Vintage Choker
+マント=Mantle
+シトリースカーフ=Sitri's Scarf
+シトリータイ=Sitri's Tie

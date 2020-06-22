@@ -13,4 +13,4 @@
 「なるほど、そうだったかぁ……まあいいや、それじゃあ駅に向かおうか」=I see, so that's it... Well then, let's head back to the station.
 
 CHOICE:『まだ時間ある？』="Do you still have some time?"
-CHOICE:『俺も楽しかった』="I also had fun."
+CHOICE:『俺も楽しかった』="I had fun too."

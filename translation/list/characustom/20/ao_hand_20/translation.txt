@@ -1,0 +1,4 @@
+結婚指輪（女）=Wedding Ring (Women)
+結婚指輪（男）=Wedding Ring (Men)
+婚約指輪=Engagement Ring
+ブライダルブーケ=Bridal Bouquet

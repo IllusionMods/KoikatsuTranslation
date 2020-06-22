@@ -1,0 +1,3 @@
+一本キズ=Long Scar
+十字キズ=Cross Scar
+三本キズ=Triple Scars

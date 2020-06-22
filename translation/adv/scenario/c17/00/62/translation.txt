@@ -6,3 +6,6 @@
 「ええ、全然構わないわよ。私も、まだ一緒にいたいって思ってたから」=“Yes, I don't mind at all. I was also thinking that I still want to be with you.”
 「そうだね、じゃあまたね」=“That's true, see you again.”
 「ええ、それじゃあまた」=“Yes, see you soon.”
+
+//CHOICE:「これから、俺の家にこれないかな？」=
+//CHOICE:「そうだね、じゃあまたね」=

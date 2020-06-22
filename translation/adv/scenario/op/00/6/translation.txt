@@ -55,3 +55,5 @@
 「えーと……あ、あそこが空いてるわねー。そこに座ってください」=“Let's see... Ah, there's an empty seat. Please sit there.”
 「わかりました」=“Alright.”
 こうしてなんとか無事（？）自己紹介を終えた。=And so, I somehow managed to end my introduction on a rather positive note... besides a hiccup or two. 
+
+野乃花=Nonoka

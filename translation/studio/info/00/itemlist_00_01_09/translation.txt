@@ -1,0 +1,3 @@
+階段(木)=Wooden Stairs
+石階段1=Stone Stairs 1
+石階段2=Stone Stairs 2

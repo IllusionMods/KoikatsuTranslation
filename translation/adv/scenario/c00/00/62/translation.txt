@@ -6,3 +6,6 @@
 「ふふっ……やましいこと考えてたって、行くわ。まだ君と離れたくないんだもの」=“Fufu... I can think of doing something, I'll go. I don't want to be seperated from you just yet.”
 「そうだね……名残惜しいけど、ばいばい」=“That's right... It's regrettable but, bye-bye.”
 「別れ際ってこんなにも寂しかったのね……。さよなら……」=“I never knew going our seperate ways would be so lonely... Goodbye...”
+
+//CHOICE:「……よかったら、ウチに寄ってく？」=
+//CHOICE:「そうだね……ばいばい」=
