@@ -1,5 +1,5 @@
-「こんにちは。今、話しかけてもＯＫ？」=“Hello. Is it okay if we talk right now?”
-「ええ、大丈夫よ。どうしたの？」=“Yes, that's fine. What's wrong?”
-「あんまり話したことないから、話してみたいなって思って……」=“We never really talked, and I thought maybe we could now...”
-「そう言われてみれば、そうね……。それじゃ、何をお話しする？」=“Now that you mention it, you're right... Okay then, what should we talk about?”
-「えっと、そうだな……」=“Um, let's see...”
+「こんにちは。今、話しかけてもＯＫ？」=Hello. Are you good to talk right now?
+「ええ、大丈夫よ。どうしたの？」=Yes, that's fine. What's wrong?
+「あんまり話したことないから、話してみたいなって思って……」=We never really talked, and I thought maybe we could now...
+「そう言われてみれば、そうね……。それじゃ、何をお話しする？」=Now that you mention it, you're right... Okay then, what should we talk about?
+「えっと、そうだな……」=Um, let's see...
