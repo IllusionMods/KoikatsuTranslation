@@ -1,5 +1,5 @@
-「あぁん、もうダメぇ……」=“Ahh, no more...”
-「……君って意外と体力無いんだね」=“...You surprisingly don't have any physical strength, huh.”
-「君が激しくするからでしょ、もう……」=“It's because you make it hard, geez...”
-「でも、これも悪くないわね……期待できそうだわ」=“But, this isn't so bad either... I can expect this.”
-（一体何を期待されているんだろう……）=(What on earth are you expecting...?)
+「あぁん、もうダメぇ……」=Ahh, no more...
+「……君って意外と体力無いんだね」=... You surprisingly don't have any physical strength, huh.
+「君が激しくするからでしょ、もう……」=It's because you make it hard, geez...
+「でも、これも悪くないわね……期待できそうだわ」=But, this isn't so bad either... This is pretty promising.
+（一体何を期待されているんだろう……）=(What on earth are you thinking about...?)
