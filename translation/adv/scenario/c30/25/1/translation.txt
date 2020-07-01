@@ -1,5 +1,5 @@
-//「あ、今ちょっといいかな？　少しだけでも話したいんだけど」=
-//「ええ、別に構わないわよ。えっと……キミが転入生の男の子？」=
-//「うん、そう。[P名前]って言うんだ。よろしくね」=
-//「ふふっ、こちらこそよろしく。じゃ、最初は何から話そうかしら？」=
-//「そうだな。えーっと……」=
+「あ、今ちょっといいかな？　少しだけでも話したいんだけど」=Ah, is now a good time? I wanted to talk to you for a bit.
+「ええ、別に構わないわよ。えっと……キミが転入生の男の子？」=Yeah, I don't really mind. Um... are you the male transfer student?
+「うん、そう。[P名前]って言うんだ。よろしくね」=Yeah, that's right. They call me [P名前]. Nice to meet you.
+「ふふっ、こちらこそよろしく。じゃ、最初は何から話そうかしら？」=Fufu, nice to meet you too. So what should we talk about first?
+「そうだな。えーっと……」=You're right. Er...
