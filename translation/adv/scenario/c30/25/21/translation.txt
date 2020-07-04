@@ -1,3 +1,3 @@
-//「おはよう。今日も午前中は疲れそうな授業が揃っちゃってるわよね」=
-//「うん。考えただけでぐったり……でも朝から[H名]に会えたから、元気が出たよ」=
-//「っ……も、もうー、キミってば突然ドキっとすること言うんだから。でも……ふふっ、おかげで私も元気になっちゃった♪」=
+「おはよう。今日も午前中は疲れそうな授業が揃っちゃってるわよね」=Good Morning. Today as well, there's tons of tiring morning classes, don't you think?
+「うん。考えただけでぐったり……でも朝から[H名]に会えたから、元気が出たよ」=Yeah, Its making me tired just thinking about it… But, just seeing you in the morning is enough to recharge me back to full capacity.
+「っ……も、もうー、キミってば突然ドキっとすること言うんだから。でも……ふふっ、おかげで私も元気になっちゃった♪」=…J-Jeez~ You always suddenly say such heart-throbbing things… But, Fufu~ Because of you, I too feel recharged~ ♪

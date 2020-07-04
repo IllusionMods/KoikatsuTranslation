@@ -1,11 +1,11 @@
 ………………=.........
 …………=......
 ……=...
-//「一人で帰る時はずいぶん遠く感じるのに、二人だとあっという間に分かれ道まで着いちゃう……帰り道っていじわるね」=
-//「だったらこの後、うちに寄らない？　俺ももっと話したいし……」=
-//「ありがとう、嬉しいわ。キミとだったら、お話したいことが尽きないの」=
-//「今度はもう少しゆっくり帰ろうか」=
-//「ふふっ、そうね。ふふっ、カメというより……カタツムリくらいの速度で帰りたいわね」=
+「一人で帰る時はずいぶん遠く感じるのに、二人だとあっという間に分かれ道まで着いちゃう……帰り道っていじわるね」=When I am alone, the walk home always feels so long, and yet when we're together, we always reach the fork in the road in blink of an eye… The path to home is truly cruel.
+「だったらこの後、うちに寄らない？　俺ももっと話したいし……」=If that's the case, wanna stop by my place after this? I'd love to talk to you even more…
+「ありがとう、嬉しいわ。キミとだったら、お話したいことが尽きないの」=Thanks, I'd love to. With you, I'd never run out of things to talk about.
+「今度はもう少しゆっくり帰ろうか」=Next time, let's take the walk back home at a slower pace.
+「ふふっ、そうね。ふふっ、カメというより……カタツムリくらいの速度で帰りたいわね」=Fufu~ you're right. Fufu~, forget turtles, I wanna go at the pace of a snail.
 
-//CHOICE:「だったらこの後、うちに……」=
-//CHOICE:「今度はもう少しゆっくり帰ろうか」=
+CHOICE:「だったらこの後、うちに……」=CHOICE: In that case, wanna stop by my place…
+CHOICE:「今度はもう少しゆっくり帰ろうか」=CHOICE: Next time, let's take the walk back home at a slower pace.

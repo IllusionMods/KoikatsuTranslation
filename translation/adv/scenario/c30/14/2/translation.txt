@@ -1,6 +1,6 @@
-//「ふふっ、最近ちょっとずつキミを理解出来るようになったみたい」=
-//「本当に？　嬉しいな。俺もちょっと距離が近くなった気がするよ」=
-//「誰かと親しくなれるのって嬉しいわよね」=
-//「これからももっともっとキミと仲良くなりたいわ」=
-//「もちろん。こっちからお願いしたいくらいだよ。これからもよろしくね」=
-//「ええっ、よろしく！　それじゃ、また色々なお話聞かせてね」=
+「ふふっ、最近ちょっとずつキミを理解出来るようになったみたい」=Fufuu~, looks like I've started understanding more and more about you recently.
+「本当に？　嬉しいな。俺もちょっと距離が近くなった気がするよ」=Really? That makes me happy. I too feel like we're getting closer.
+「誰かと親しくなれるのって嬉しいわよね」=It really makes you happy, to get close with someone, doesn't it?
+「これからももっともっとキミと仲良くなりたいわ」=I want to get along with you even more from now on~
+「もちろん。こっちからお願いしたいくらいだよ。これからもよろしくね」=Of course! I feel the same way. Please take care of me from here-on as well.
+「ええっ、よろしく！　それじゃ、また色々なお話聞かせてね」=Yes! Same for me! Then, please tell me even more interesting stories from now on~

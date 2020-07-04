@@ -1,3 +1,3 @@
-//「ふふっ、誘ってもらえて嬉しい！　もちろんＯＫよ」=
-//「良かった。何だかもう楽しみになってきたよ」=
-//「私もよ。どこに行くか、何をするか……そんなことを考える時から、もうデートって始まってるのね、ふふっ」=
+「ふふっ、誘ってもらえて嬉しい！　もちろんＯＫよ」=Fufuu. Im glad you invited me! Of course, my answer is yes.
+「良かった。何だかもう楽しみになってきたよ」=Great! Im looking forward to it.
+「私もよ。どこに行くか、何をするか……そんなことを考える時から、もうデートって始まってるのね、ふふっ」=So am I. Where to go, what to do.. When you start thinking of that stuff, the date has already started, Fufu~
