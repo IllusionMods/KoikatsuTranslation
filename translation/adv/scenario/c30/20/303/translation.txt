@@ -1,19 +1,19 @@
-//「そろそろ終了時間だけど……どうする？　私はキミに合わせるわよ」=
-//「よし、なら延長しちょおうよ。もっと[H名]と一緒に歌いたい！」=
-//「あら、奇遇ね。私も、もう少し歌いたいと思っていたところよ。じゃあ、延長の電話入れておくわね」=
-//「うん、ありがと。よーし！　今日はとことん歌いまくろう！」=
-//「ずっと歌い続けても喉が痛くなりそうだし、今日はこの辺でやめておこうか」=
-//「そうね、遊んでいて体を壊しちゃたら、折角ここまで楽しかったのに、嫌な思い出になっちゃうもの」=
-//「でしょ？　適度が一番だから仕度をしたら出よう」=
-//「でしょ？　だから次の一曲を一緒に歌って、終わりにしよう」=
-//「ふふ、最後に二人で歌うのって素敵ね。曲は私が決めてもいいかしら？」=
-//「もちろん」=
-//「それじゃあ……これ！」=
-//（おっ、この曲は……！）=
-//『小さな手の平 掴める物は～♪　きっと限られているけど♪』=
-//（[H名]一緒に歌うと楽しさと気持ちよさが倍増だな）=
+「そろそろ終了時間だけど……どうする？　私はキミに合わせるわよ」=Our slot for the room is almost used up… what do you wanna do? I'll go with whatever you want
+「よし、なら延長しちょおうよ。もっと[H名]と一緒に歌いたい！」=Alright, then let's extend it. I wanna sing together with you a lot more, [H名]!
+「あら、奇遇ね。私も、もう少し歌いたいと思っていたところよ。じゃあ、延長の電話入れておくわね」=Oh, Nice. I wanted to sing with you a lot more too. Then, I'll call the reception and let them know.
+「うん、ありがと。よーし！　今日はとことん歌いまくろう！」=Thanks. Alright! Let's sing like there's no tomorrow!
+「ずっと歌い続けても喉が痛くなりそうだし、今日はこの辺でやめておこうか」=If we continue to sing like this for even longer, pretty sure our throats will go out, so let's stop here for now.
+「そうね、遊んでいて体を壊しちゃたら、折角ここまで楽しかったのに、嫌な思い出になっちゃうもの」=Good idea. If we hurt ourselves while enjoying ourselves like this, even tho it was fun so far, it would become an unpleasant memory.
+「でしょ？　適度が一番だから仕度をしたら出よう」=Right? Everything in moderation, as they say.
+「でしょ？　だから次の一曲を一緒に歌って、終わりにしよう」=Right? Then, let's do a duet for the last song, and then go home.
+「ふふ、最後に二人で歌うのって素敵ね。曲は私が決めてもいいかしら？」=Fufu, doing a duet for the final one sounds lovely. Is it alright if I pick the song?
+「もちろん」=Of course.
+「それじゃあ……これ！」=Then, how about.. this!
+（おっ、この曲は……！）=(Oh, this song is…!)
+『小さな手の平 掴める物は～♪　きっと限られているけど♪』=[ The things these small hands can hold ~ ♪ They are surely limited but ♪ ]
+（[H名]一緒に歌うと楽しさと気持ちよさが倍増だな）=(Sing it together with [H名] somehow doubles my enjoyment of it.)
 
-//CHOICE:『よし、延長しちゃおう！』=
-//CHOICE:『うーん、今日は帰ろうか』=
+CHOICE:『よし、延長しちゃおう！』=CHOICE: Alright, Let's extend it!
+CHOICE:『うーん、今日は帰ろうか』=CHOICE: Well, Let's go home for today
 
 [P名]＆[H名]=[P名] & [H名]

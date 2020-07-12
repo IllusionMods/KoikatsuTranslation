@@ -1,13 +1,13 @@
-//「お疲れ様でした。ふふっ、素敵な式でしたよ」=
-//「本番の結婚式も、是非、私どもの式場で挙げてくださいね！」=
-//「えっと、前向きに考えさせてもらいます」=
-//「お願いします！　今日はお引き受けいただいて、ありがとうございました」=
-//「ふぁー、なんか一気に力が抜けたぁ……ちょっと休憩していこう……ね？」=
-//「あらら、さっきまではかなりカッコよかったのに……また可愛いキミに戻っちゃったわね」=
-//「うぅ……カッコよさを無理して持続した結果だよ……[H名]なら知ってるでしょ？　いつもの俺のこと……」=
-//「ええ、知ってるわよ。お姉さんに可愛いって言われるより、キミはカッコイイって言ってもらいたいこと」=
-//「それはそうなんだけど……はは、今日はもう降参……カッコイイ俺にはなれそうにないや……」=
-//「うん、無理しなくていいわ。お疲れさま」=
-//（……疲れたけど、本当にいい経験ができたなぁ）=
+「お疲れ様でした。ふふっ、素敵な式でしたよ」=Good work today. Fufu~ It was a lovely ceremony.
+「本番の結婚式も、是非、私どもの式場で挙げてくださいね！」=For your future wedding as well, please contact us! We'll do our best!
+「えっと、前向きに考えさせてもらいます」=Uhm, we'll think about it if we ever get to that point.
+「お願いします！　今日はお引き受けいただいて、ありがとうございました」=Thank you! And for helping us out so much today as well, thank you very much!
+「ふぁー、なんか一気に力が抜けたぁ……ちょっと休憩していこう……ね？」=Fuaa-, Somehow, the tiredness of today just hit me all at once… Let's take a break, shall we?
+「あらら、さっきまではかなりカッコよかったのに……また可愛いキミに戻っちゃったわね」=Oho, even tho you were so cool till now… Now you're back to the usual cute [P名], heh.
+「うぅ……カッコよさを無理して持続した結果だよ……[H名]なら知ってるでしょ？　いつもの俺のこと……」=Ugh.. It is because I was forcing myself to be cool this whole time that I'm so tired now… You should know how I usually am, [Hな]
+「ええ、知ってるわよ。お姉さんに可愛いって言われるより、キミはカッコイイって言ってもらいたいこと」=Yep, I do. You like hearing "You're so cool!" rather than "You're so cute~", don't you?
+「それはそうなんだけど……はは、今日はもう降参……カッコイイ俺にはなれそうにないや……」=That's true but… Haha, I give up for today. I don't think my cool side is going to show itself anytime soon again
+「うん、無理しなくていいわ。お疲れさま」=Yeah, don't push yourself, you're tired. Good work today.
+（……疲れたけど、本当にいい経験ができたなぁ）=(….It was tiring but, it was truly an amazing experience…)
 
 モブ=Mob

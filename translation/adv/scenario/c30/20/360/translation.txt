@@ -1,5 +1,5 @@
-//「……歌った後だからかしら？　なんだかすごく疲れちゃった」=
-//「だね……時間ギリギリまで休んで……あっ！」=
-//「[H名]！　延長時間ギリギリになってる！　早く支度して出ないと！」=
-//「え、本当！？　え、えーと、準備準備……」=
-//「先に会計してくるよ！」=
+「……歌った後だからかしら？　なんだかすごく疲れちゃった」=….I'm beat. I didn't know singing could be that tiring.
+「だね……時間ギリギリまで休んで……あっ！」=I feel ya. We were going at it till the very end… Ah!
+「[H名]！　延長時間ギリギリになってる！　早く支度して出ないと！」=[H名]! We gotta leave! Otherwise, We'll roll over into the next slot!
+「え、本当！？　え、えーと、準備準備……」=Eh, Really!? Ah, Uhm, lemme just grab my stuff real quick…
+「先に会計してくるよ！」=We really should settle the bill first!

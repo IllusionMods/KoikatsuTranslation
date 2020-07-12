@@ -1,6 +1,6 @@
-//「[H名]っ、俺もうっ！」=
-//「待って……ちょっと、がっつき過ぎよ？　そんなに、我慢してたの？」=
-//「うんっ、もうずっと……俺、我慢の限界だよ、今すぐでも[H名]を押し倒したい」=
-//「あらら、お姉さん襲われちゃう？　いいわ……ちょっと乱暴なキミも、見てみたいかな」=
-//「乱暴まではしないけど……とにかくもう……俺っ」=
-//「わかってる。もうもうって牛さんみたいになってないで……さぁ、来て……」=
+「[H名]っ、俺もうっ！」=[H名], I can't--!
+「待って……ちょっと、がっつき過ぎよ？　そんなに、我慢してたの？」=Wait!... Aren't you a bit too riled up? Were you really holding back that much?
+「うんっ、もうずっと……俺、我慢の限界だよ、今すぐでも[H名]を押し倒したい」=Yeah, For so long… I'm at my limit. I want to push you down right now so bad…
+「あらら、お姉さん襲われちゃう？　いいわ……ちょっと乱暴なキミも、見てみたいかな」=Oh boy, are you going to assault this onee-san? Alright, Go ahead. I want to see your rough and reckless side too.
+「乱暴まではしないけど……とにかくもう……俺っ」=It's not so bad that I'm going to assault you… In any case, I--
+「わかってる。もうもうって牛さんみたいになってないで……さぁ、来て……」=I get it. I get it so you don't need to act like a bull in heat. Alright, come…
