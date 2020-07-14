@@ -2,4 +2,4 @@
 「先生はいつでもきみの味方よ」=“I'll always be on your side.”
 「ふふっ、今日の星占いね、先生、一位だったの」=“Fufu～ In today's horoscope, I'm number one.”
 
-//野乃花=
+野乃花=Nonoka
