@@ -2,7 +2,7 @@
 「そう……だね。少し、緊張する」="Yeah... you're right. I'm a bit nervous."
 「歌うのは好きじゃなったりする？」="Do you like to sing?"
 「……嫌いじゃない。たまに……一人で、来る」="...Not really. Come on... in here."
-「そうなんだ。ヒトカラするぐらいだし、[H名]の歌、楽しみだな」=
+//「そうなんだ。ヒトカラするぐらいだし、[H名]の歌、楽しみだな」=
 「やっぱり……歌わないと、ダメ？」="I see... do you not want to sing?"
 「まあ、カラオケデートだからね。それに歌うの嫌いってわけじゃないんでしょ？」="Well, we're at the karaoke bar. And you wanted to sing, didn't you?" 
 「……歌う姿を見られるのが……恥ずかしい。それに……」="I can hear you singing... It's embarassing... and..."

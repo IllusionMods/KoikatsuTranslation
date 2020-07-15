@@ -32,7 +32,7 @@
 
 OPTION[0]:はい=Yes.
 OPTION[0]:いいえ=No.
-OPTION[1]:うん=Yup
+OPTION[1]:うん=Yup.
 //OPTION[1]:してる節はある=
 OPTION[2]:好きだよ=I like it.
 OPTION[2]:苦手かな=Not my thing.

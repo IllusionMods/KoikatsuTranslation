@@ -25,7 +25,7 @@
 「……それって、評価されてるって事でいいんだよね？」="...Does that mean, you're evaluating me?"
 「そうよ。ここまで近くで、私とこんなに長く付き合った人はいないもの。理由はまぁ、聞かなくともわかるでしょ？」="That's right. There is no other person who was going out with me for this long."
 「それは、まぁ……」="Well, I guess..."
-（[H名]さんに合わせるの、大変だからなぁ……）=（That's because it's tough to be with to Miss [H名].)=
+（[H名]さんに合わせるの、大変だからなぁ……）=（That's because it's tough to be with to Miss [H名].)
 「そういえば、貴方は何で私の下僕になろうと思ったの？」="Which reminds me, why did you become my manservant?"
 「えっ、それは……色々あるけど、一番は[H名]さんといると安心するから……かな」="Erm, that's... There are a couple of reasons, but the most important is that when I'm with you, I feel at peace."
 「へぇ、あれだけ苛められて安心していたなんて。やっぱり貴方、ちょっとおかしいんじゃないの？」="Huuh, I tease you to that extent and you're saying you feel at peace? Something's seriously wrong with you."

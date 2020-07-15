@@ -1,6 +1,6 @@
 「ありがとう。大丈夫だった？」="Thanks. Are you okay?"
 「うん。……大丈夫」="Yeah... I'm fine."
 「そっか、よかった。なら、最後に」="I'm glad. Finally..."
-「ん……。何で、キスを……？」=
+//「ん……。何で、キスを……？」=
 「俺の知ってる映画の主人公がさ、愛し合った後に頬にキスをしてたんだ。それを何となく思い出してさ」="The main character of that movie was kissing the girl on the cheek. It reminded me of that scene..." 
 「さて、いい時間だし、そろそろ帰ろうか」="Well, that was fun. We should go back here sometime."

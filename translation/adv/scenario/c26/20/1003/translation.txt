@@ -15,7 +15,7 @@
 「ええ、そうなの！？　確かに神前式にはキスはないもんね」="Wait, what?! What about the kiss?"
 「……別に……キスの有無は、無関係。なんとなく、憧れてた……」="...But, I don't want to... It doesn't really matter if we kiss or not. I'm still in love with this man, am I not...?"
 「でも……あなたと結婚式が、挙げられるなら、それが理想。……洋式でも、和式でも、マサイ式でも」="But... I should have told them about it before... Western-style, Japanese-style, Masai-style..."
-「え、マサイ式はちょっとイメージつかないから、勘弁してほしいかな……」=
+//「え、マサイ式はちょっとイメージつかないから、勘弁してほしいかな……」=
 「ふふ……マサイは、冗談」="Hehe... I was joking about the Masai-style."
 「笑ったってことは、緊張はもう解けた？」="Are you done yet?"
 「……ありがとう。解けた。本当に、ありがとう」="Thank you. I think I'm done now... Sorry about that."
