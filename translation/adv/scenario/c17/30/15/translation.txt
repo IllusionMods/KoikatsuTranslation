@@ -1,3 +1,3 @@
 
-//「あら、おはよう。あ、シャワー借りたわよ」=
-//「な、なに？　そんなにジロジロ見られると恥ずかしいのだけど……」=
+「あら、おはよう。あ、シャワー借りたわよ」=“Oh, good morning. Ah, I borrowed your shower.”
+「な、なに？　そんなにジロジロ見られると恥ずかしいのだけど……」=“W-What? It's embarassing when you stare at me like that...”

@@ -7,7 +7,7 @@
 「それではこれより、式を執り行います」="We'll now hold the ceremony."
 「新たなご出発の証として、お二人には誓いの言葉を立てていただきます」='This oath between the two shall be a proof of their new journey."
 「[P名]さん、あなたは今、この女性を妻とし夫婦になろうとしています」="Mr. [P名], presently you are going to become a married couple with this woman as your wife."
-「汝、健やかなるときも、病めるときも、喜びのときも、悲しみのときも、富めるときも、貧しいときも」="Do you promise to be with her in sickness and health, through happiness and sadness, in wealth and poverty" 
+「汝、健やかなるときも、病めるときも、喜びのときも、悲しみのときも、富めるときも、貧しいときも」="Do you promise to be with her in sickness and health, through happiness and sadness, in wealth and poverty"
 「これを愛し、これを敬い、これを慰め、これを助け、その命ある限り、真心を尽くすことを誓いますか？」="To love, to respect, to console, to support, to devote yourself for her till death do you part?"
 「はい、誓います」="Yes, I promise."
 「[H名]さん、あなたは今、この男性を夫とし夫婦になろうとしています」="Miss [H名], presently you are going to become a married couple with this man as your husband..."
@@ -46,7 +46,7 @@
 「あぁ、やばい泣きそう……ぐすっ、ありがとう[H名]……ありがとう皆っ！　俺達、最高に幸せですっ！」="Aah, I think I'll cry... *Sob* thank you [H名]... Thank you, everyone! We couldn't be happier!"
 「ほら、涙拭きなさい。本当にもう……最後の最後で、しまらないわね。フフッ」="Hey, wipe your tears. Seriously... You're hopeless to the very end. Fufu～"
 「だって……俺嬉しくて……[H名]さんと……ぐすっ、[H名]と結婚できたんだって思ったら……涙止まんなくてっ」="When I think that... I could *sob*... could marry [H名], I'm so happy... I can't stop my tears."
-「あのねぇ、感極まって泣くのは普通私の役割なのよ？　まぁいいわ、私の分まで、みっともない姿を晒しなさい。アナタ……」="Normally it is my role to make you cry, but you're so overcome with emotions, I think it's okay. Show me your shameless self, darling..." 
+「あのねぇ、感極まって泣くのは普通私の役割なのよ？　まぁいいわ、私の分まで、みっともない姿を晒しなさい。アナタ……」="Normally it is my role to make you cry, but you're so overcome with emotions, I think it's okay. Show me your shameless self, darling..."
 
 モブ=Mob
 牧師=Pastor

@@ -1,5 +1,5 @@
 
-//「ようやくふたりきりになれたわね……何の勉強から始めましょうか？」=
-//「数学……じゃなくて、保健体育……とか？」=
-//「ふふっ、ノリがわかってきたじゃない♪　それじゃ、私が手取り足取り教えてあげるわね……」=
-//（そう言って数学の教科書を開くのかぁ……ガックリ）=
+「ようやくふたりきりになれたわね……何の勉強から始めましょうか？」=We finally got used to being alone together... What should we study first?
+「数学……じゃなくて、保健体育……とか？」=Math... or not. Something like... health and physical education?
+「ふふっ、ノリがわかってきたじゃない♪　それじゃ、私が手取り足取り教えてあげるわね……」=Fufu, I don't know what you're talking about. ♪ Well then, I'll teach you how to solve this...
+（そう言って数学の教科書を開くのかぁ……ガックリ）=(Even though you say that, the math textbook is open... How disappointing.)

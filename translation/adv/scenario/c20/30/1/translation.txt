@@ -1,6 +1,6 @@
 
-//「[H姓]さん、今いいかな？　話がしたいんだけど」=
-//「あ……は、はい。……どうかしましたか？」=
-//「いや、[H姓]さんとはあまり話したことがなかったから、話がしたいなって思っただけだよ」=
-//「わ、私とですか？　はい……大丈夫です。　あの、私、面白い話とかできませんけど……」=
-//「大丈夫、そんなこと気にしなくていいよ。それで、話なんだけど……」=
+「[H姓]さん、今いいかな？　話がしたいんだけど」=“[H姓], do you have a moment? I would like to talk.”
+「あ……は、はい。……どうかしましたか？」=“Ah...... y-yes. ......What is it?”
+「いや、[H姓]さんとはあまり話したことがなかったから、話がしたいなって思っただけだよ」=“No, I just thought I could talk with [H姓] because I haven't talked a lot with him.”
+「わ、私とですか？　はい……大丈夫です。　あの、私、面白い話とかできませんけど……」=“W-with me? Yes...... It's fine. Um, but I cannot talk about interesting things......”
+「大丈夫、そんなこと気にしなくていいよ。それで、話なんだけど……」=“It's fine, don't worry about that. So about what we were talking......”

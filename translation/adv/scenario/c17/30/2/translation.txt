@@ -1,8 +1,8 @@
 
-//「はじめは鬱陶しかったけれど、あなたと話すのもいい暇つぶしにはなるわね」=
-//「それって……いい意味にとっていいのかな？」=
-//「さあ、どうかしらね」=
-//「でも、私なんかと話していてあなた楽しいの？」=
-//「うん、楽しいよ、とても」=
-//「はぁ……あなたがそれでいいのならいいけれど」=
-//「じゃ、私はもういくわ。さようなら」=
+「はじめは鬱陶しかったけれど、あなたと話すのもいい暇つぶしにはなるわね」=“At first I thought you were annoying, but talking with you is a good way to kill time.”
+「それって……いい意味にとっていいのかな？」=“That's...a compliment right?”
+「さあ、どうかしらね」=“Hmm... Who knows?”
+「でも、私なんかと話していてあなた楽しいの？」=“But, you're having fun while talking with me?”
+「うん、楽しいよ、とても」=“Yes, it's fun, really.”
+「はぁ……あなたがそれでいいのならいいけれど」=“Sigh... Well if it's ok with you.”
+「じゃ、私はもういくわ。さようなら」=“Well, I'm going to go. See you.”

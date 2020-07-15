@@ -1,8 +1,8 @@
 
-//「やった、今日の日替わりは唐揚げだ」=
-//「えー、唐揚げの日って……女子だと逆に人気がない方なんだけどな」=
-//「そうなの？　美味しいのに？」=
-//「味じゃなくてカロリーの問題だよー。美味しいのは……分かってるんだよ……うぅ……」=
-//「もう、そんな辛そうに我慢しなくても……一つあげよっか？」=
-//「はぅっ！？　う……ぅ……はぅ……く……ぅ……お……お願いします……」=
-//「あ、ははは……すごい葛藤だったね」=
+「やった、今日の日替わりは唐揚げだ」=“Today I decided to change and brought fried food.”
+「えー、唐揚げの日って……女子だと逆に人気がない方なんだけどな」=“Eh～ Fried food today... it's not very popular among girls, though...”
+「そうなの？　美味しいのに？」=“Is that so? Even though it's delicious?”
+「味じゃなくてカロリーの問題だよー。美味しいのは……分かってるんだよ……うぅ……」=“The problem isn't the taste, but the calories～ It's delicious... I know that... uu...”
+「もう、そんな辛そうに我慢しなくても……一つあげよっか？」=“Jeez, you're being harsh on yourself... would you like a bite?”
+「はぅっ！？　う……ぅ……はぅ……く……ぅ……お……お願いします……」=“Haa!? Uu... ha... ku... p... please...”
+「あ、ははは……すごい葛藤だったね」=“Ah, hahaha... you looked really conflicted.”

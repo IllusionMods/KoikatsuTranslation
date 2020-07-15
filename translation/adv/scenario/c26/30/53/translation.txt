@@ -1,2 +1,2 @@
 
-//「……どうしたの？　具合、悪いの？」=
+「……どうしたの？　具合、悪いの？」="...What's wrong? Are you not feeling well?"

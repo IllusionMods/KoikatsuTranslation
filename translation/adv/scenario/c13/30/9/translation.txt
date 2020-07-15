@@ -1,4 +1,4 @@
 
-//「[P]くんとアタシでデート？　それすっごい楽しそうじゃん！」=
-//「よし、それじゃあ決まりだね」=
-//「うん。[P]くん、た～くさんいいコトしようね？」=
+「[P]くんとアタシでデート？　それすっごい楽しそうじゃん！」=“Going on a date with [P]-kun? That'd make me super happy!”
+「よし、それじゃあ決まりだね」=“Alright, then that settles it, right?”
+「うん。[P]くん、た～くさんいいコトしようね？」=“Yup. [P]-kun, let's have a good time, 'kay?”

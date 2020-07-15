@@ -4,7 +4,7 @@
 「……嫌いじゃない。たまに……一人で、来る」="...Not really. Come on... in here."
 //「そうなんだ。ヒトカラするぐらいだし、[H名]の歌、楽しみだな」=
 「やっぱり……歌わないと、ダメ？」="I see... do you not want to sing?"
-「まあ、カラオケデートだからね。それに歌うの嫌いってわけじゃないんでしょ？」="Well, we're at the karaoke bar. And you wanted to sing, didn't you?" 
+「まあ、カラオケデートだからね。それに歌うの嫌いってわけじゃないんでしょ？」="Well, we're at the karaoke bar. And you wanted to sing, didn't you?"
 「……歌う姿を見られるのが……恥ずかしい。それに……」="I can hear you singing... It's embarassing... and..."
 「……それに？」="...And?"
 「…………好きな曲って、自分の内面を、表してる感じで……恥ずかしい」="......One of my favourite songs expresses how I really feel... it's embarassing."

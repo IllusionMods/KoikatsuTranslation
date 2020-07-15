@@ -1,5 +1,5 @@
 
-//「……ん！　このおかず、すごく美味しい」=
-//「本当！？　良かったわ～。君がこれ好きだって言うから、お料理すっごく練習したの」=
-//「そうだったんだ……。俺のために、ありがとう」=
-//「もっと見せて……美味しいものを食べた時の、君の恍惚とした表情がたまらないのぉ」=
+「……ん！　このおかず、すごく美味しい」=... Mm! This side dish, it's delicious.
+「本当！？　良かったわ～。君がこれ好きだって言うから、お料理すっごく練習したの」=Really?! I'm so glad~ It's because you said that you liked this, I practiced cooking it so much.
+「そうだったんだ……。俺のために、ありがとう」=Is that so... For my sake, thank you.
+「もっと見せて……美味しいものを食べた時の、君の恍惚とした表情がたまらないのぉ」=Show me more... When you eat delicious things, your ecstatic expression is irresistible.

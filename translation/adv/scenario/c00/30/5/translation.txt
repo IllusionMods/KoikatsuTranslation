@@ -1,4 +1,4 @@
 
-//「やだ、君ってばかなり積極的なタイプだったのね」=
-//「えっ？　バレーボールでもしようかと思って誘ったんだけど……」=
-//「えっ……ああ、バレーボールね！　わかってたわよ、うんうん」=
+「やだ、君ってばかなり積極的なタイプだったのね」=Nooo, you're actually the type to be pretty aggressive, huh.
+「えっ？　バレーボールでもしようかと思って誘ったんだけど……」=Eh? I thought we could play volleyball so I invited you but...
+「えっ……ああ、バレーボールね！　わかってたわよ、うんうん」=Eh... Ah, volleyball! I knew that, yup yup.

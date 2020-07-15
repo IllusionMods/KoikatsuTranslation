@@ -1,6 +1,6 @@
 
-//「ねえ……床ドンって、何？」=
-//「えっと、床ドンっていうのは……こんな感じの～」=
-//「……面白そう。やろう」=
-//「……どう？　ドキッとした」=
-//「う、うん。俺が受けなんだってことに、少々……」=
+「ねえ……床ドンって、何？」="Hey... what's a 'floor don?'"
+「えっと、床ドンっていうのは……こんな感じの～」="Well, here's how you do it... Like this~"
+「……面白そう。やろう」="...Seems interesting. Let's do it."
+「……どう？　ドキッとした」="...How? It's kind of freaky."
+「う、うん。俺が受けなんだってことに、少々……」="Y-yeah, sort of. Just a tiny bit, though..."

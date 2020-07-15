@@ -1,4 +1,4 @@
 
-//「ようやく誘ってくれたわね♪」=
-//「あ……もしかして、待ってた？」=
-//「初めて誘う時は、心の準備とか、色々あるものね。それで、どこへお出掛けする？」=
+「ようやく誘ってくれたわね♪」=You finally came. ♪
+「あ……もしかして、待ってた？」=Ah... Don't tell me, were you waiting?
+「初めて誘う時は、心の準備とか、色々あるものね。それで、どこへお出掛けする？」=When you're asked out for the first time, you have to prepare your heart, as well a lot of other things. So, where are we going?

@@ -1,6 +1,6 @@
 
-//「はぁっ……はぁ、あは、やっぱり体を動かすのは楽しいね～」=
-//「そういってもらえると誘ったかいがあったよ」=
-//「でも[P]くんって、マジ運動神経いいね～。知らなかったけど……かっこいいじゃん」=
-//「そうなのか？ これくらいはまぁ、普通だろ」=
-//「これは女子もキュンキュンしちゃうね～、アタシも……な～んてね」=
+「はぁっ……はぁ、あは、やっぱり体を動かすのは楽しいね～」=“Haaa...... haa, aha, I knew it'd be fun working out with you, huh～”
+「そういってもらえると誘ったかいがあったよ」=“That's why I invited you along for it.”
+「でも[P]くんって、マジ運動神経いいね～。知らなかったけど……かっこいいじゃん」=“Anyway, your reflexes are totally awesome, huh [P]-kun～? I didn't notice it before, but...... I think you're pretty cool.”
+「そうなのか？ これくらいはまぁ、普通だろ」=“Do you? This much isn't anything special, though.”
+「これは女子もキュンキュンしちゃうね～、アタシも……な～んてね」=“They'll let you squeeze a girl up nice and tight～ And I'll...... Juuust kidding!”

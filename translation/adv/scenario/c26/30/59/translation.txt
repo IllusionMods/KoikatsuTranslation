@@ -1,3 +1,3 @@
 
-//「その……今日はありがとう」=
-//「……またデートしようね。それじゃあ……また」=
+「その……今日はありがとう」="Th-thanks for today."
+「……またデートしようね。それじゃあ……また」="...We should go out again sometime. Alright, see you..."

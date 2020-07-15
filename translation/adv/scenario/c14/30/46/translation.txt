@@ -1,4 +1,4 @@
 
-//「ん……まぁ、その……良かったぞ？」=
-//「ホント？　俺も気持ちよかったよ」=
-//「そうか！　それなら良かった」=
+「ん……まぁ、その……良かったぞ？」=Mmm... Well, it's, uh... It was good, right?
+「ホント？　俺も気持ちよかったよ」=Are you sure?　It felt good to me, too.
+「そうか！　それなら良かった」=I see!　I'm glad to hear it.

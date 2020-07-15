@@ -1,8 +1,8 @@
 
-//「[P]くんが部長なんだよね？　まぁ、アタシも暇だし入ってもいいけど……」=
-//「本当？　ならそうしてくれると嬉しいな」=
-//「何もそんなにはしゃぐことないじゃん。今まで通り一緒にいるだけなんでしょ？」=
-//「まぁ……でもせっかく部活に入ってくるなら、今まで以上に仲良くなれるようなことをしたな、なんて」=
-//「あ、今ちょっとエッチなこと考えたでしょ」=
-//「うっ……ごめん、ちょっと考えちゃってた」=
-//「やらし～。でも……[P]くんだったら特別に……な～んてね」=
+「[P]くんが部長なんだよね？　まぁ、アタシも暇だし入ってもいいけど……」=“That's the club you're head of, right [P]-kun? Well, I've got spare time, so I guess it'd be fun to join......”
+「本当？　ならそうしてくれると嬉しいな」=“Really? If you did, it'd make me really happy.”
+「何もそんなにはしゃぐことないじゃん。今まで通り一緒にいるだけなんでしょ？」=“I don't care for anything too crazy. We just keep doing things together like we've been, right?”
+「まぁ……でもせっかく部活に入ってくるなら、今まで以上に仲良くなれるようなことをしたな、なんて」=“Well...... if you join in the club activities, we'll do things that help us to get along even better, and so on.”
+「あ、今ちょっとエッチなこと考えたでしょ」=“Ah, now you're thinking a little about dirty stuff, aren't you?”
+「うっ……ごめん、ちょっと考えちゃってた」=“Uuu...... sorry, I guess I did a little.”
+「やらし～。でも……[P]くんだったら特別に……な～んてね」=“Perv～ But...... if it's [P]-kun, maybe there's an exception...... kidding, 'kay?”

@@ -1,8 +1,8 @@
 
-//「あのー、今ちょっといいですか？」=
-//「あら、君が例の男の子ね♪　私に声を掛けるなんて、見る目あるぅ」=
-//「自己紹介が先ですよね。俺は[P名前]っていいます」=
-//「敬語なんていいわよ。もっとラフにいきましょ」=
-//「ホント？　それは助かるな」=
-//「わからないことがあったら何でも聞いてちょうだい」=
-//（優しい人で良かった！　まずは何を話そう……？）=
+「あのー、今ちょっといいですか？」=Um, do you have a minute?
+「あら、君が例の男の子ね♪　私に声を掛けるなんて、見る目あるぅ」=Oh, so you're the rumoured boy. ♪ For you to call out to me, you must have a good eye.
+「自己紹介が先ですよね。俺は[P名前]っていいます」=Let me introduce myself first. My name is [P名前].
+「敬語なんていいわよ。もっとラフにいきましょ」=No need to be so formal. You can speak more roughly.
+「ホント？　それは助かるな」=Really? That'll help me out.
+「わからないことがあったら何でも聞いてちょうだい」=If you don't understand something, you can ask me anytime.
+（優しい人で良かった！　まずは何を話そう……？）=(I'm glad she's a nice person! Now what should we talk about...?)

@@ -1,2 +1,2 @@
 
-//「……おはよう。最近、やたらあなたの顔を見る気がするわね」=
+「……おはよう。最近、やたらあなたの顔を見る気がするわね」=“Morning. Recently, I've been seeing your face a lot.”

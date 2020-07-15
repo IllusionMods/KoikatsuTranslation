@@ -1,6 +1,6 @@
 
-//「一緒に部活するの、実は楽しみにしてたのだぞ？」=
-//「そうなんだ？　なんかうれしいなぁ」=
-//「コイカツで、男性という生き物をもっと知りたい……」=
-//「男の生態系ってこと？」=
-//「い、いや、汝のこと……きょ、興味あるのだ」=
+「一緒に部活するの、実は楽しみにしてたのだぞ？」=“Doing club activities together is fun, isn't it?”
+「そうなんだ？　なんかうれしいなぁ」=“You think? I'm happy to hear that...”
+「コイカツで、男性という生き物をもっと知りたい……」=“So, I'd like to know more about men...”
+「男の生態系ってこと？」=“Like how men think?”
+「い、いや、汝のこと……きょ、興味あるのだ」=“N- no... about you... I'm interested...”

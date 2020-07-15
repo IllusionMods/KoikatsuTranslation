@@ -1,6 +1,6 @@
 
-//「それ、本気で言ってるの？　……理由を聞かせてもらってもいいかな」=
-//「…………ごめん」=
-//「……そう。君は優しいのね」=
-//「今までありがとう」=
-//「私の方こそ、楽しい思い出を沢山ありがとう。次はうまくいくといいわね。応援してるわ」=
+「それ、本気で言ってるの？　……理由を聞かせてもらってもいいかな」=Are you seriously saying that? ... I'd like to hear your reasoning if you could.
+「…………ごめん」=... Sorry.
+「……そう。君は優しいのね」=... I see. Well aren't you nice.
+「今までありがとう」=Thank you for everything up till now.
+「私の方こそ、楽しい思い出を沢山ありがとう。次はうまくいくといいわね。応援してるわ」=I'd like to thank you for all of the happy memories. I hope it works out for you in the future. I'll support you.

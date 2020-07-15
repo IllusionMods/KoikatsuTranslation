@@ -1,14 +1,14 @@
 
-//「ちょっと思ったんだけど……俺たち、愛称で呼び合ったらどうなるのかな？」=
-//「ふたりの仲がもっと深まるんじゃないかな。ちょっとやってみましょうよ」=
-//「えっと、それじゃあ俺のことは……[Pあだ名]で」=
-//「なぁにそれ、そんな呼び方でいいの？」=
-//「一度そう呼んでもらいたくて……ダメかな？」=
-//「えぇ～、どうしようかな」=
-//「あ……やっぱりそんな呼び方するの嫌だよね。ごめん」=
-//「ふふっ、嘘ウソ。君が喜んでくれるなら、私は何だってやるわ……ね、[Pあだ名]♪」=
-//「うぐっ！　……す、すごくいい……。ありがとう、[Hあだ名]」=
-//「やん♪　もう……イキナリ呼ぶなんて、卑怯よ。照れちゃうじゃない」=
-//「でも、たまにはこういうのもいいわね。また呼び合いましょうか？」=
-//「ちょっと恥ずかしかったから、たまにがいいかな……」=
-//「うふふ、そうね。たまに、ね……」=
+「ちょっと思ったんだけど……俺たち、愛称で呼び合ったらどうなるのかな？」=I just thought about it right now but... what do you think about calling each other by nicknames?
+「ふたりの仲がもっと深まるんじゃないかな。ちょっとやってみましょうよ」=I wonder if that'll make us closer. Let's try it out for a bit.
+「えっと、それじゃあ俺のことは……[Pあだ名]で」=Um, well then for me... [Pあだ名].
+「なぁにそれ、そんな呼び方でいいの？」=What's with that, do you really want me to call you that?
+「一度そう呼んでもらいたくて……ダメかな？」=I wanted to be called that at least once... you can't?
+「えぇ～、どうしようかな」=Eh~ What should I do?
+「あ……やっぱりそんな呼び方するの嫌だよね。ごめん」=Ah... As I thought, you wouldn't want to call me that, right? Sorry.
+「ふふっ、嘘ウソ。君が喜んでくれるなら、私は何だってやるわ……ね、[Pあだ名]♪」=Fufu, I'm lying, I'm lying. If it makes you happy, I'll do anything... okay, [Pあだ名]? ♪
+「うぐっ！　……す、すごくいい……。ありがとう、[Hあだ名]」=Ugh! ...T-that's great... Thank you, [Hあだ名].
+「やん♪　もう……イキナリ呼ぶなんて、卑怯よ。照れちゃうじゃない」=Don't. ♪ Geez... Calling me that so suddenly is unfair. I'll get shy.
+「でも、たまにはこういうのもいいわね。また呼び合いましょうか？」=But it's nice once in a while, right? Should I say it again?
+「ちょっと恥ずかしかったから、たまにがいいかな……」=Because it was a little embarrassing, once in a while is okay...
+「うふふ、そうね。たまに、ね……」=Ufufu, right. Once in a while then...

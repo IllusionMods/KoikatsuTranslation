@@ -1,8 +1,8 @@
 
-//「キミってマジ面白いよね～。時間が過ぎるのあっという間だったよ～」=
-//「はは、ありがとう。話すようになって、お互いの事少しは知れてよかったよ」=
-//「確かにね～。でも、アタシもっとキミのこと知りたいな」=
-//「だからこれからもアタシに色んなコト……教えてね？」=
-//「うん。かわりに俺にも[H姓]さんのこと、もっと教えてほしいな」=
-//「あは、もっちろんだよ～」=
-//「それじゃ、また話そ！ バイバイ～」=
+「キミってマジ面白いよね～。時間が過ぎるのあっという間だったよ～」=“You're totally cool, y'know～ Time spent with ya just goes by in the blink of an eye～”
+「はは、ありがとう。話すようになって、お互いの事少しは知れてよかったよ」=“Haha, thanks. Since we've been speaking, it got to the point where it's good that we're learning about each other a little.”
+「確かにね～。でも、アタシもっとキミのこと知りたいな」=“Totally, huh～ But I wanna know more about you too.”
+「だからこれからもアタシに色んなコト……教えてね？」=“So from now on, you'll...... teach me all sorts of stuff, right?”
+「うん。かわりに俺にも[H姓]さんのこと、もっと教えてほしいな」=“Sure. And in exchange for that, I want to learn more about [H姓]-san too.”
+「あは、もっちろんだよ～」=“Aha, of course ya do～”
+「それじゃ、また話そ！ バイバイ～」=“Well then, let's talk again! Bye-bye～”

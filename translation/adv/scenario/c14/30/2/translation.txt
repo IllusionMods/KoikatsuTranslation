@@ -1,8 +1,8 @@
 
-//「ははっ……おまえ、話してみると意外と面白いな」=
-//「そ、そうかな……」=
-//「あぁ、おまえと話せて楽しかったぜ」=
-//「本当？　それならよかった。俺も楽しかったよ」=
-//「そういってもらえると嬉しいな」=
-//「それじゃ、またね」=
-//「ああ、また暇があったら話しようぜ」=
+「ははっ……おまえ、話してみると意外と面白いな」=Haha... Dude... It's surprisingly entertaining to talk to you.
+「そ、そうかな……」=Well, I wouldn't say that...
+「あぁ、おまえと話せて楽しかったぜ」=Yeah, it's been fun talking to you.
+「本当？　それならよかった。俺も楽しかったよ」=Really? I'm glad to hear it. It was fun for me too.
+「そういってもらえると嬉しいな」=I'm happy to hear that.
+「それじゃ、またね」=I'll see ya later.
+「ああ、また暇があったら話しようぜ」=Yeah, we'll talk again when you're free.

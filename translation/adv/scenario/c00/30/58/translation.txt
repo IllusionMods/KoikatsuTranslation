@@ -1,5 +1,5 @@
 
-//「今日は私が君をおもてなしするわ」=
-//「そんな、悪いよ」=
-//「いいから、私に付いてきて♪」=
-//「次はね、あっち！　早く早く～♪」=
+「今日は私が君をおもてなしするわ」=I'll be treating you today.
+「そんな、悪いよ」=No way, I'll feel bad.
+「いいから、私に付いてきて♪」=It's fine, come with me. ♪
+「次はね、あっち！　早く早く～♪」=Next is, over there! Hurry hurry~ ♪

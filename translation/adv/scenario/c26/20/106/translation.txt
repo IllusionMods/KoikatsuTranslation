@@ -19,7 +19,7 @@
 「……もしかして、あなた、そういうフェチなの？」="...Maybe... you're my fetish?"
 「……それはノーコメントで」="...Excuse me?"
 「……どうしても、したいの？」="...But seriously, do you want to do it?"
-「ああ。……今、[H名]の事が好きでしょうがないって感じでさ」="Yeah. I... would love to, [H名]" 
+「ああ。……今、[H名]の事が好きでしょうがないって感じでさ」="Yeah. I... would love to, [H名]"
 「……そんな風に言われたら、断れない」="...Well, it'd be rude to say no."
 「じゃあ、いいかな？」="Well then, shall we...?"
 「うん…………優しく、愛して」="Yeah... gentle and caring..."

@@ -1,4 +1,4 @@
 
-//「私でいいの？　わかったわ。でも、どこへ行くの？」=
-//「それはね……まだ秘密」=
-//「やだぁ、どこへ連れて行かれちゃうのかしら♪」=
+「私でいいの？　わかったわ。でも、どこへ行くの？」=Are you okay with me? I understand. But where are we going?
+「それはね……まだ秘密」=Well that's... still a secret.
+「やだぁ、どこへ連れて行かれちゃうのかしら♪」=Oh nooo, I wonder where you're going to take me? ♪

@@ -1,6 +1,6 @@
 
-//「あれ、それだけしか食べないの？」=
-//「だって、食べすぎると、ついてほしくないところにお肉がついちゃうんだもの」=
-//「そんな気にすることないと思うんだけどなぁ」=
-//「気にするわよぉ。ほらここ、ちょっと触ってみて。プニプニでしょ～」=
-//「ホントだ、柔らか……って簡単にお腹とか触らせちゃダメだよ！？」=
+「あれ、それだけしか食べないの？」=Huh, you're only eating that much?
+「だって、食べすぎると、ついてほしくないところにお肉がついちゃうんだもの」='Cause, even if I eat a little too much, fat starts to stick out in unwanted areas.
+「そんな気にすることないと思うんだけどなぁ」=I don't think you have to worry about that.
+「気にするわよぉ。ほらここ、ちょっと触ってみて。プニプニでしょ～」=It bothers me. Here, touch it for a bit. It's squishy, right?~
+「ホントだ、柔らか……って簡単にお腹とか触らせちゃダメだよ！？」=You're right, it's soft... Hey, do you just let anyone touch your stomach that easily?!

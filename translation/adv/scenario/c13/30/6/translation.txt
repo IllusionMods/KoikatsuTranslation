@@ -1,4 +1,4 @@
 
-//「うん。でも[P]くん、アタシをどこに連れていくつもりなの？」=
-//「うーん。それは到着するまでのお楽しみってことで」=
-//「[P]くんがそういうなら……あ、でもいやらしい所はダメだからね！」=
+「うん。でも[P]くん、アタシをどこに連れていくつもりなの？」=“Sure. But [P]-kun, where you gonna take me, and why?”
+「うーん。それは到着するまでのお楽しみってことで」=“Can't tell you― But you'll like it quite a bit when we get there.”
+「[P]くんがそういうなら……あ、でもいやらしい所はダメだからね！」=“Well if you put it like that, [P]-kun...... Ah, it'd better not be somewhere dirty, got it!?”

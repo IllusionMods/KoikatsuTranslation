@@ -10,7 +10,7 @@
 「ど、どうしたの？　いきなり……」="W-what's wrong?"
 「こんな大声出したって、外には聞こえてない。君にだけにしか伝わらないってすごくない？」="I can barely hear you out here. Isn't that great that only the two of us can hear each other?"
 「ふふ……そのフレーズ、詩的、かも」="Hmm... that phrase sounded poetic."
-「……私も、好き。そんな風に言われると……胸が、キュンって、なるよ」="...I like it too. And when you said 
+「……私も、好き。そんな風に言われると……胸が、キュンって、なるよ」="...I like it too. And when you said
 //「俺だって。言葉にすると、気持ちがどんどん強くなる気がする」=
 //「……[H名]としたい」=
 //「今、[H名]とエッチがしたい。これが嘘偽りのない今の気持ちだ」=

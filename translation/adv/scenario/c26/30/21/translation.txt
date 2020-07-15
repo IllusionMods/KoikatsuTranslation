@@ -1,4 +1,4 @@
 
-//「……[P]、おはよう」=
-//「おはよう。昨日、面白いことがあったんだけど、良かったら聞いてくれないかな？」=
-//「うん……話してみて……。[P]の話、聞きたい」=
+「……[P]、おはよう」="...[P], good morning."
+「おはよう。昨日、面白いことがあったんだけど、良かったら聞いてくれないかな？」="Good morning. Something funny happened yesterday. Do you want to know what it is?"
+「うん……話してみて……。[P]の話、聞きたい」="Yeah... Let's talk... I want to learn more about you, [P]."
