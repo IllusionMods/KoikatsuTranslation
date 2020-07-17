@@ -1,2 +1,2 @@
-//「あなたの傍にいると……すごく落ち着く」=
-//「こうしてくっついてるだけなのに……胸の中が温かくなる」=
+「あなたの傍にいると……すごく落ち着く」="It's so calming... being by your side."
+「こうしてくっついてるだけなのに……胸の中が温かくなる」="When it's just the two of us... I get butterflies in my stomach."

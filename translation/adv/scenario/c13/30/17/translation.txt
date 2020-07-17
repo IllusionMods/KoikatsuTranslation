@@ -1,0 +1,5 @@
+
+「んーっ、よく寝た。……あれ？　メモがある。なになに――」=“Mmm, I slept well. ...Oh? There's a letter. What's it say...?”
+『[P]くん、おはよ～。今日、日直だから先に学園行くね～』=“Good morning, [P]-kun～ Today I've got early morning monitor duty, so I went to school already, okay?”
+『朝ご飯食べたらちゃんときてよ？　遅刻とかマジありえないから！』=“Make sure you eat something for breakfast. I totally can't have you being late!”
+『早くアタシに会いに来てくれないと嫌いになっちゃうからね？』=“And if you don't hurry up and come see me, I'm gonna be really mad, got it?”

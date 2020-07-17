@@ -1,0 +1,14 @@
+
+「ねーねー、[Pあだ名]」=“Hey, hey, [Pあだ名]!”
+「……うん？　今のって俺を呼んだの？」=“......Yeah? Did you call for me just now?”
+「そうだよ？　パッと思いついたんだけど、イヤだった？」=“Really now? I thought I'd do it without warning you, did it suck that bad?”
+「いや全然、いきなりだったからちょっと驚いただけだよ」=“Not at all, it was just so sudden I was a little surprised by it.”
+「あは、そっかそっか。アタシのネーミングセンスが悪いのかと思っちゃったよ～」=“Aha, I see, I see. I guess I must feel like my naming sense is worse than it actually is～”
+「じゃあ次はそっちの番だよ、アタシの愛称考えてよー」=“Alright, now it's your turn, so think hard of what my nickname is―”
+「き、急だなぁ……うーん、じゃあ[Hあだ名]なんてどうだろう？」=“P-Putting me on the spot...... right― Well, it was [Hあだ名], wasn't it?”
+「んー、アタシには及ばないけど、そのセンスは買ってあげよっかな～」=“Hm―Even though it doesn't suit me, I'll still value your choice～”
+「あはは、それはどうも」=“Ahaha, why thank you.”
+「せっかく付け合ったんだし、ちょっと呼び合ってみよ？　アタシから呼ぶねー。……[Pあだ名]」=“Since we get along so well, why don't we do it more often? My nickname for you...... [Pあだ名].”
+「えっと……[Hあだ名]」=“Uhh...... [Hあだ名].”
+「……うん、ちょっと照れるけど……幸せって感じ」=“......Yep, it's a little embarrassing...... but it makes me feel happy.”
+「俺も……たまにこうして呼び合うのもいいかもね」=“Me too...... but I guess it's alright to call each other that once in awhile, right?”

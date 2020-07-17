@@ -5,7 +5,7 @@
 「ガイドマップを見てるけど、他に乗りたいものある？」="You're looking at the park map. Was there anything you wanted to do?"
 「……なんとなく……眺めてただけ」="...Not really... I was just looking at the map."
 「なんとなくか。俺に貸してよ、それ」="Can I look at it for a second?"
-「お、少し離れた所にコーヒーカップがあるな。今日はまだ乗ってないし、これ乗ってみる？」="Oh, there's a café not too far from here. Should we get something there?" 
+「お、少し離れた所にコーヒーカップがあるな。今日はまだ乗ってないし、これ乗ってみる？」="Oh, there's a café not too far from here. Should we get something there?"
 「……うん、私も、ちょっと乗ってみたかった」="...Sure, I could use a pick-me-up."
 「……そう言えば、ブラックコーヒー好きだったよね」="...Speaking of, I've always taken my coffee black."
 「好き……苦くて」="I like it... bitter."

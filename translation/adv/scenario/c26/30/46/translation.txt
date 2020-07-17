@@ -1,0 +1,4 @@
+
+「……どう？　気持ちよかった？」="...What do you think? How is it?"
+「うん、最高だったよ……」="Yeah, it's great..."
+「……なら、良かった」="...That's nice to hear."

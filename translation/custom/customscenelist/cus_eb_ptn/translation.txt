@@ -1,0 +1,17 @@
+
+怒り=Angry
+困り=Worried
+つまらない=Bored
+疑問L=Doubt L
+疑問R=Doubt R
+思案L=Thinking L
+思案R=Thinking R
+怒り2L=Furious L
+怒り2R=Furious R
+真剣=Serious
+不安=Anxious
+驚き=Surprised
+落胆=Disappointed
+ドヤ=Smug
+ウィンクL=Winking L
+ウィンクR=Winking R

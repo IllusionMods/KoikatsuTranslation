@@ -1,5 +1,5 @@
-//「……もう、私に近づかないで」=
-//「え……な、なんで？」=
-//「もう、自分の気持ちに嘘はつけないから。ごめん、[P]といても、楽しくない……」=
-//「ま、待ってよ。そんな急に……！」=
-//「……さようなら」=
+「……もう、私に近づかないで」="...Get away from me."
+「え……な、なんで？」="What... what did I do?"
+「もう、自分の気持ちに嘘はつけないから。ごめん、[P]といても、楽しくない……」="I can't lie about my feelings anymore. I'm sorry, [P], but this isn't fun anymore..."
+「ま、待ってよ。そんな急に……！」="What?! You're breaking up with me? This is all so sudden...!"
+「……さようなら」="...Goodbye."

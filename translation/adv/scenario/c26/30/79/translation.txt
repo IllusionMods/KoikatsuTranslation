@@ -1,0 +1,4 @@
+
+「……涼しい」="...The wind up here is kind of cool."
+「屋上でお昼っていうのも良いよね」="Eating lunch up on the rooftop is kind of relaxing."
+「……うん」="...Yeah."

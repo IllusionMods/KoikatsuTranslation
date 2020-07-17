@@ -1,0 +1,4 @@
+
+「お、おじゃましま～す。へぇ、[P]くんの部屋、結構片付いてるんだね～」=“P-Pardon me～ Huh, your room's all spick and span, isn't it [P]-kun～”
+「はじめてきたけど、なんかすごいドキドキするね」=“It's my first time in here, so my heart's really racing, y'know?”
+「やっぱり、アタシとしたいんだよね？　あは、じゃあ早く[P]くんのベットでいいコトしよ？」=Anyway, you wanted to do me, right? Aha, then wouldn't it be good for us to hurry and get on your bed, [P]-kun?"

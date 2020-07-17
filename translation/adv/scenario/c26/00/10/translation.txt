@@ -2,6 +2,6 @@
 「本当？　ありがとう」="Really? Thank you."
 「……あなたと一緒にいるだけでいいんでしょ？」="...I'm just trying to get closer to you."
 「まぁ、そんなところかな？　えーと、他にはね……」="...Well, is that everything? Well
-「いい、あなたと一緒にいられるんだったら……他は別に……」=
+//「いい、あなたと一緒にいられるんだったら……他は別に……」=
 「ほ、本当に……？　説明しなくても大丈夫？」="Really? You don't have to explain?"
 「うん……。それさえ確認できれば……」="Yeah... If you can even prove it..."

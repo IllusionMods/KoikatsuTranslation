@@ -3,6 +3,6 @@
 「…………」="...."
 「って……え？　え？」="H...huh? Huh?"
 「気持ち、いい？　辛そうだったから……慰めてたの」="Are you feeling okay? That was...kind of painful, but I'm fine."
-「……けっこう大胆なことするね」=
+//「……けっこう大胆なことするね」=
 「そう、かな？　……そう、かも」="Is that so? Maybe."
 （無自覚だったのか……）="(I didn't know what was going on...")"

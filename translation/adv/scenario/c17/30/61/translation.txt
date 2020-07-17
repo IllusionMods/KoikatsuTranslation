@@ -1,0 +1,15 @@
+
+「あっ……もう来てたんだ、待たせちゃった？」=“Ah...You're already here. Did I keep you waiting?”
+「い、いいえ、今来たところよ。それじゃ、行きましょう」=“N-No, I just got here. Well then, lets go.”
+「……[H]さんって、やっぱりこういう静かな所好きだよね」=“[H]-san, you really like quiet places like this don't you?”
+「ええ、それもあるけど。……こうやってゆっくり、あなたと話すのが好きなの」=“Yes, that's true too. However, taking it slowly and talking to you, it's also soothing.”
+「……やっぱりこういう女って、退屈かしら？」=“That was really girly, am I boring?”
+「ううん、そんなことないよ、俺もこうして[H]さんとゆっくりする時間、好きだし」=“No, that's not true. I also like spending time relaxing with you as well.”
+「そ、そう……ならよかった」=“I-I see...that's fine then.”
+「今日は楽しかったわ、ありがとう[P]くん」=“Today was fun. Thank you [P]-kun.”
+//CHOICE:「まだもう少し一緒にいたいな」=
+//CHOICE:「俺も楽しかったよ、それじゃあね」=
+「まだもう少し一緒にいたいな」=“I still want to be together for a little while.”
+「えっ……も、もう、わがままなんだから。……いいわよ」=「Eh? Y-You're already being so greedy...It's fine though."
+「俺も楽しかったよ。それじゃあね」=“I also really enjoyed it. I'll see you later.”
+「あっ……うん、じゃあ、またね」=“Ah...Yes, see you.”
