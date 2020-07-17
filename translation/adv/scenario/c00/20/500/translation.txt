@@ -22,7 +22,7 @@
 「ふふ、学園で過ごす時間も、デートと同じぐらい、楽しいものね」=Fufu, spending time at school, as much on a date, is pretty fun too.
 「……でも、やっぱりちょっと名残惜しいよ」=... But, it's still a bit of a shame after all.
 「ええ、ホントに……でも、この寂しい気持ちが次に遊ぶ喜びになるのよ」=Yeah, for real... But, these lonely feelings will become happy the next time we hang out.
-「……うん、また、遊ぼうね。ばいばい」=Yup, let's hang out again. Bye bye. 
+「……うん、また、遊ぼうね。ばいばい」=Yup, let's hang out again. Bye bye.
 
 CHOICE:『自宅に誘う』="Invite her to your home"
 CHOICE:『ラブホに誘う』="Invite to love hotel"

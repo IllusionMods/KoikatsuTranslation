@@ -1,0 +1,6 @@
+
+SPECIAL:先輩=Senpai
+SPECIAL:お兄ちゃん=Oniichan
+SPECIAL:先生=Sensei
+SPECIAL:ダーリン=Darling
+SPECIAL:ご主人様=Goshujinsama

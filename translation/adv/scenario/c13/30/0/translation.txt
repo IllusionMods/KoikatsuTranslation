@@ -1,0 +1,8 @@
+
+「あ、今って時間大丈夫かな。できれば少し話したいんだけど」=“Ah, I hope it's an okay time right now. If possible, I'd like to talk to you a little.”
+「あ、噂の男の子じゃん。アタシと話したいの？ いいよー」=“Ah, you're the boy I've heard rumors about. You wanna talk to me? Cool―”
+「俺は[P名前]って言うんだ。噂って……俺、なんかしたのかな」=“My name is [P名前]. But rumored......? What did I do?”
+「多分みんな君のこと興味あるんだよ。アタシも……知りたいし」=“It's probably because everyone's excited about ya. Me too...... I wanna get to know ya.”
+「それならいいんだけど……」=“That's good if that's the case......”
+「注目されるのはいいことだよ！　とにかくこれからよろしくね！」=“It's a good thing to be noticed! Anyway, looking forward to ya from now on, 'kay?”
+(話しやすい子だな。もう少し何か聞いてみるか……)=(She's easy to talk to. Maybe she'd like to hear a little more......)

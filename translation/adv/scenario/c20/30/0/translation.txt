@@ -1,0 +1,9 @@
+
+「あの、話がしたいんだけどちょっといいかな」=“Um, I wanted to talk a bit if it's possible.”
+「……えっ？　……あ。は、はじめまして。えぇっと……なんでしょうか……？」=“......Eh? ......Ah. Yes, nice to meet you. Umm...... What is it......?”
+「はじめまして。俺は[P名前]って言うんだ」=“Nice to meet you. You can call me [P名前].”
+「あ……うぅ……ごめんなさい。あの、その……」=“Ah...... Uh...... Sorry. Um, that......”
+（もしかして、男が苦手なのかな？）=（Maybe a man is not good at it?）
+「大丈夫？　無理そうならまた今度にするけど……」=“Are you ok? If it is possible, we can do it again in an other moment......”
+「あ、い、いえ……な、なんとか、頑張ってみます……！」=“Ah, n-no......, s-somehow I'll do my best......!”
+（すごく警戒してるみたいだけど話をしてくれそうだ。どんな話をしよう……？）=（I seem to be very cautious but I'm going to talk. What shoud I talk about......?）

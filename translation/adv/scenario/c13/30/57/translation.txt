@@ -1,0 +1,10 @@
+
+「[P]くんさ、初めてのデートだからって、そんなに緊張しなくてもいいじゃん」=“[P]-kun, this is my first date, so I hope it's okay if I'm a little nervous.”
+「やっぱりデートだと思うとドキドキして……そういうのなれてるの？」=“Of course your heart will race if you think about the date like that...... have you gotten used to me yet?”
+「なれてなんか……そ、そのアタシも男の子となんて初めてだし……って、もう早く行こうよ！」=“Got used to you......? I-It's my first time together with a boy...... gah, let's just hurry up and go already!”
+「そうだね、じゃあ早速行こうか」=“I gotcha, then let's get going right away.”
+「[P]くんすごいじゃん。女の子が喜びそうな所とかたくさん知ってて」=“You're amazing, [P]-kun. You know all the places to go to that'll make a girl happy.”
+「いっぱい楽しんでもらいたくて、いろいろ調べたからね」=“Well if you had a good time, then you'll learn all sorts of things, right?”
+「ちょ、そんなこと言われたら、マジヤバいから！ でもホント楽しいよ。ありがとう」=“Wait, if you put it that way, that sounds totally dangerous! But I really did have a good time. Thanks.”
+（よかった。何とか楽しんでもらえてるみたいだな）=(That's good. She still managed to have a good time somehow.)
+「今日はホントにありがと！　それじゃ、また学園でね！」=“Really, thanks for today! Alright, seeya later at school, 'kay?!”

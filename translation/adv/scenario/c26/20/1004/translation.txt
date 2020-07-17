@@ -1,12 +1,12 @@
-「お疲れ様でした。ふふっ、素敵な式でしたよ」="Thank you for your time and performance. 
+「お疲れ様でした。ふふっ、素敵な式でしたよ」="Thank you for your time and performance.
 「本番の結婚式も、是非、私どもの式場で挙げてくださいね！」="Please give us a wedding ceremony at our ceremony venue!"
 「えっと、前向きに考えさせてもらいます」="Let me think about it for a moment."
-「お願いします！　今日はお引き受けいただいて、ありがとうございました」=
+//「お願いします！　今日はお引き受けいただいて、ありがとうございました」=
 「終わった……な。ところどころ緊張しまくって、あんまり覚えてないかも……」="It's over... I was so nervous that I could barely think..."
 「……そう、なの？　あの誓いの、言葉も？　あのキスも？」="...Really? What about the oath, and the kiss?"
 「あ、いやいや、ちゃんとそこは覚えてるよ。[H名]のかわいいウェディングドレス姿だって、未だに脳裏にいるから」="Oh, oh, I still remember those bits. Even that image of [H名] in her dress is still etched into my mind."
 「うん……私も……しっかり、覚えてる」="Yeah... me too... I still remember."
-「貴重な体験をさせてもらったよな。今日は二人で過ごした時間の中で、大きな出来事があった日だ」="Today was a valuable experience. I can finally see the two of us as a couple, living domestically and all that." 
+「貴重な体験をさせてもらったよな。今日は二人で過ごした時間の中で、大きな出来事があった日だ」="Today was a valuable experience. I can finally see the two of us as a couple, living domestically and all that."
 「これを超すには実際に、結婚式を挙げるしかないかも……なんて」="If we want to go beyond this, we should do the real thing... huh?"
 「……私はそうであってほしい。もっと時間をかけて……愛を、育んで……そうすれば、きっと」="...That sounds like heaven on earth. Loving... and nurturing... We should wait on it a bit longer.
 「そうだな。急ぐことでもないし、多分タイミングとか大事なんだろうし。焦らず急がず、だよ」="You're right. This thing isn't something to rush."

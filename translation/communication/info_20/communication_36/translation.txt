@@ -40,12 +40,12 @@
 //「ふぅん、それで口説いているつもりだとしたら、男として終わってるわね」=
 「フフッ、見え透いたお世辞でご機嫌窺い？　気色悪いわね」="Fufu, trying to get on my good side with your obvious flattery? That's disgusting!"
 「恋をしたいって思う？」="Do you want to fall in love?"
-「えぇ。相手は貴方じゃないけどね。家畜と恋はできないもの、フフフッ」="Yeah. Not with you of course. After all it's impossible to fall in love with livestock, fufufu~" 
+「えぇ。相手は貴方じゃないけどね。家畜と恋はできないもの、フフフッ」="Yeah. Not with you of course. After all it's impossible to fall in love with livestock, fufufu~"
 //「それ、本気で聞いてるの？　だとしたら貴方、かなり気持ち悪いわよ」=
 「好きな男性のタイプを教えてくれる？」="Would you tell me what type of boys do you like?"
 「そうね、何事も学ぶ意欲の高い人かしら。先の見えていない奴は嫌いよ」="Hmm, probably those who have a desire to learn anything. I hate guys who don't look ahead."
 //「まさか、自分がタイプだと言われるとか期待してる？　貴方は男性ではなくオスでしょ？」=
-「貴方、露骨過ぎるのよ。何もわかっていないのね」="You're getting ahead of yourself. You just don't get it, do you." 
+「貴方、露骨過ぎるのよ。何もわかっていないのね」="You're getting ahead of yourself. You just don't get it, do you."
 「[H名]さんって、女子からもモテそうだよね？」="[H名]-san, you're quite popular among girls too, right?"
 「気に入った子は召使にしているわ。色々と便利よ」="I turn those who I like to my servants. It's convenient in many ways."
 「最低限、恋人に求めるものって何？」="What at the very least you'd want from a boyfriend?"
@@ -169,7 +169,7 @@
 「はぁ、ここはね、私のお気に入りの場所なの。家畜は立ち入り禁止よ」="Ah, this is my favorite place, you know. No livestock allowed."
 「水着見学ご苦労様。何？　図星でしょう？　今更取り繕っても無駄よ？」="Good job on the swimwear inspection. What? That was bull's-eye, right? No point in glossing over it now."
 //「少しは本を読みなさい。足りない脳でも、多少はマシになるでしょう」=
-「落ち着きがないわね。一体何がしたいの？」="You're nervous, just what in the world are you planning to do?" 
+「落ち着きがないわね。一体何がしたいの？」="You're nervous, just what in the world are you planning to do?"
 「さようなら、変態マゾ豚さん。二度と誘わないでね？」="Farewell, pervert masochist pig-san. Don't invite me again, got it?"
 //「ほら、もっと焦りなさい。私の期待に応えるのは、難しいわよ？」=
 「少し貴方の話を聞かせなさい。これは命令よ、拒否権はないわ」="Let's talk for a bit. It's an order, you don't have any choice."
@@ -519,7 +519,7 @@
 「フフッ、たっぷり躾けてあげるわ。下僕の活動、頑張りましょうね」="Fufu, I'll discipline you plenty. Let's do our best to enjoy manservant's activities."
 「腹を出しなさい、本当のゲボカツを教えてあげるわ」="Show me your stomach. I'll show you real Servkatsu."
 //「自分から荷物を持ちに来るなんて、少しはわかってきたようね」=
-「帰るわよ下僕。仕度はもう済んでいるでしょうね？」="We're going home, manservant. You're ready, right?" 
+「帰るわよ下僕。仕度はもう済んでいるでしょうね？」="We're going home, manservant. You're ready, right?"
 「よろしい。特別に、並んで歩く事を許可してあげるわ。喜びなさい」="Very well. I'll let you walk side-by-side with me. Be grateful."
 「愚図は嫌いと言った筈よ。あと、主の命令に背く下僕も嫌い」="I'm sure I told you I hate dullards. I also hate manservants who disobey master's orders."
 「フッ、前回より期待値は上がってるわよ。貴方に応えられるかしら？」="Heh, you're looking forward to it more than last time. What should I do, I wonder?"

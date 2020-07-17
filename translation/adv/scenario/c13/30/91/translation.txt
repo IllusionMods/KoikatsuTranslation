@@ -1,0 +1,4 @@
+
+「おっはよー、[Pあだ名]」=“Good morning, [Pあだ名]―”
+「あ！　おはよう、[Hあだ名]」=“Ah! Good morning, [Hあだ名]!”
+「あはは、顔赤くして、かわいい～。え、うっそ、アタシの顔も赤い！？」=“Ahaha, your face is red, it's cute～ Eh? No way, my face is red too!?”

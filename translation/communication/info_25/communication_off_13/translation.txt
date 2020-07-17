@@ -564,8 +564,8 @@
 「もちろんいいよ。大歓迎！」=“Of course you can. Welcome aboard!”
 「ありがと～、すっごい嬉しい」=“Thanks～ I'm super happy!”
 
-//「出された課題はちゃんとやってる？」=
-//「ねね、もっと違う話も聞かせて」=
-//「いいよ～。どんな運動しよっか」=
-//「あ～疲れた。[P]くんの成分補充しなきゃ～」=
-//「もぉ、ほーんと大好きだよね」=
+「出された課題はちゃんとやってる？」=“Have you been studying for today's lessons?”
+「ねね、もっと違う話も聞かせて」=“Hey, let's talk about something else.”
+「いいよ～。どんな運動しよっか」=“Sure～ How you wanna work out?”
+「あ～疲れた。[P]くんの成分補充しなきゃ～」=“Ah～ I'm wiped out. [P]-kun's extra stuff filled me up～”
+「もぉ、ほーんと大好きだよね」=“Jeez, you really love 'em, huh.”
