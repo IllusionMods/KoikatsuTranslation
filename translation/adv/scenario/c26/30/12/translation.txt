@@ -1,0 +1,5 @@
+
+「……うん、いいよ」="...Yeah, okay."
+「[H]……本当に、俺でいいの？」="[H]... are you sure about this?"
+「……うん。[P]が好きだからいい……」="...Yeah. I'm really in love with you, [P]..."
+「[P]……初めてはいい思い出にさせてね……」="[P]... Don't ever forget this moment..."

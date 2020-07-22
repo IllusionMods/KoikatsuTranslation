@@ -1,0 +1,6 @@
+
+「それマジで言ってるの？　アタシなんかしちゃったかな……」=“Did you seriously just say that? Did I do something wrong......?”
+「いや、その……本当にごめん」=“No, just...... I'm really sorry.”
+「[P]くんが謝ることじゃないじゃん。でも理由は聞きたいかも」=“You don't have to apologize to me, [P]-kun. But I want to know why.”
+「……」=“...”
+「そっか。それじゃ[P]くんとはお別れだね……ぐすっ……いっ、いままでありがと。じゃね……」=“I see. Well then, if you want to break up with me, [P]-kun......” *Sniffle......* “Th-Thanks for everything up until now. Seeya......”

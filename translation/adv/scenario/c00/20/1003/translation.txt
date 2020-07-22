@@ -6,7 +6,7 @@
 「この人を守り、笑顔を絶やすことなく幸せにすることを誓いますか？」=So that you will protect this person, and vow to to keep them smiling and happy?
 「はっ、はい、誓います」=Y-yes, I promise.
 「[H名]さん、あなたはこの男性とお付き合いし、より親密な関係になろうとしております」=[H名]-san, you're about to enter a much more intimate relationship with this man that you are currently dating.
-「はい、誓います」=Yes, I promise. 
+「はい、誓います」=Yes, I promise.
 「それでは、二人の愛の証として、誓いのキスをお願いします」=In that case, to show your love for each other, you may kiss to solidate this vow.
 「キスまでするのか……？　ふう、モデルって大変だ……」=So we're going as far as kissing, huh...? Foo, modelling is pretty hard...
 「あの……流れでこんなことになったけどさ、俺……[H名]みたいな素敵な奥さんが、欲しいって思ってる」=Um... Although this just kind of happened, I... I've always wanted a wonderful wife like you, [H名].

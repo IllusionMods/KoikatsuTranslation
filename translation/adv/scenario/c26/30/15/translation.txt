@@ -1,0 +1,3 @@
+
+「……おはよう、[P]。シャワーかりたよ」="...Good morning, [P]. I showered this morning."
+「……どうしたの？　私の身体、何かついてる……？」="...What's wrong? Is there something on me...?"

@@ -24,7 +24,7 @@
 「ははは……ありがとうございます」="Hahaha... Thank you very much."
 「式のご説明はお受けになりましたか？」="Was the explanation about the ceremony clear?"
 「えっと、まずは新郎役の俺から入場するんですよね？」="Umm, as the groom I enter the room first, right?"
-「はい。扉が開いたらゆっくりと署名台までお進みください」="Yes. When the door opens, please walk slowly until you reach the podium." 
+「はい。扉が開いたらゆっくりと署名台までお進みください」="Yes. When the door opens, please walk slowly until you reach the podium."
 「で、その後に新婦が登場して、それから誓いの言葉とか、式のメイン部分をやっていくと」="And after that the bride makes her entrance. Then we make our vows and the main part of the ceremony starts."
 「完璧です！　進行はバッチリですね」="Exactly! You remember the whole course perfectly."
 （うろ覚えなんだけどなぁ……ま、なんとかなるか）=(I remembered it, but... Well, what will be will be.)

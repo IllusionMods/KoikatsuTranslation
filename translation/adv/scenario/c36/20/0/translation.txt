@@ -1,4 +1,4 @@
-「待って、もしかして私に話しかけようとしている？」= "Wait, are you by any chance trying to talk to me?"
+「待って、もしかして私に話しかけようとしている？」="Wait, are you by any chance trying to talk to me?"
 「えっ、うん……そうだけど……」="Eh, y-yeah, that's right, but..."
 「へぇ、学園の家畜風情が、この私と話をしたいと言うのね」="Huh, the likes of school's livestock wants to talk to ME?"
 「か、家畜って……そんな」="L-livestock... No way..."

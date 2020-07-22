@@ -1,0 +1,15 @@
+
+「あは、誘ってくれてありがとね。食べたかったんだあそこのジェラート」=“Aha, thanks for asking me out again y'know. I wanna go out to that ice cream place.”
+「うん、それじゃ早速行こうか！」=“Alright, then let's get going at once!”
+「キミとふたりでここにこれるなんてマジで幸せ」=“Being together with you, just the two of us like this, makes me totally happy.”
+「俺も幸せだ。まぁ、俺は[H]と一緒にいるだけでいつも幸せだけど」=“I'm happy too. Well, I guess I'm always happy when I'm with you though, [H].”
+「そ、そんなこと面と向かって言われたら照れるじゃん……」=“Th-That's gonna make me shy if you say stuff like that right to my face......”
+「お、俺も急に何言ってんだろ……」=“M-Maybe I said that too soon......”
+「さっ、さっ、お互い顔が熱くなったところで、ジェラートでクールダウンしよ！」=“Hey hey, now both of our faces are red, so let's cool down with some ice cream!”
+「はぁ～。今日マジで楽しかった。それにアタシ……[P]くんのこと、もっと好きになった」=“Haa～ I totally had a great time today. And thanks to this...... I like you even more, [P]-kun.”
+//CHOICE:「俺もだよ……もう少し一緒にいたいな」=
+//CHOICE:「俺も同じ気持ちだよ……それじゃあ、また」=
+「俺もだよ。その……もう少し[H]と一緒にいたい」=“Me too. Uh...... I want to be with you a little while longer, [H].”
+「あ、その、アタシもまだ[P]くんと離れたくない……」=“Ah, uh, I also don't want you to leave yet, [P]-kun......”
+「俺も同じ気持ちだよ……それじゃあ、また」=“I enjoyed myself too...... Alright, see you later.”
+「うん。また２人でデートしようね。ばいばーい」=“Yep. Let's go on a date again together, just the two of us, 'kay? Bye-bye―”

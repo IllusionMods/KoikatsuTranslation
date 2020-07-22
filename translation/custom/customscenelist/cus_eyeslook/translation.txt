@@ -1,0 +1,11 @@
+
+カメラ=At Camera
+上=Upward
+右上=Right and Up
+右=Right
+右下=Down and Right
+下=Downward
+左下=Down and Left
+左=Left
+左上=Up and Left
+そらす=Avert Gaze

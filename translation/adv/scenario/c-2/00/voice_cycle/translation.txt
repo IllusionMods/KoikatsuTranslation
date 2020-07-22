@@ -7,3 +7,5 @@
 「もう放課後よ。遅くならないうちに帰りなさい？」=“School's already over. Shouldn't you head home before it gets too late?”
 「真っ直ぐ家へ帰って、しっかり勉強すること。良いわね？」=“Head straight home and study hard. Understood?”
 「そろそろ暗くなるわ。用事がないのなら下校するように」=“It's getting dark. If you don't have any duties you should head home.”
+
+麗奈=Reina

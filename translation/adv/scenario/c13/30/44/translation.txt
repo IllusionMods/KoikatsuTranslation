@@ -1,0 +1,6 @@
+
+「へえ、色々あるんだね」=“Woah, there's all sorts of choices, huh?”
+「あ、あれ最近流行ってるポップコーンのお店じゃん！　ねぇあのお店行ってもいい？」=“Ah, there's that popcorn shop that's gotten popular lately! Hey, you wanna try it out?”
+「うん、いいよ」=“Sure, sounds good.”
+「ん～。美味しかった。[P]くんと食べさせあいっこもできたし」=“Mmm～ That was so good. It was nice to eat it with you, [P]-kun.”
+（よかった、喜んでもらえたみたいだ）=(That’s good, seems she had a good time.)

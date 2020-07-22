@@ -1,0 +1,6 @@
+
+「あの、今って時間ある？　できれば少し話したいんだけど」=“Uhh, do you have a moment? If possible, I'd like to talk to you a little.”
+「うん。大丈夫だよ～。何かあった？」=“Sure. It's fine～ What's up?”
+「いや、普通に少し話してみたいなぁって……」=“Nothing, I just wanted to talk for a little bit......”
+「マジ？ 実はアタシも話してみたかったんだ～」=“Seriously? Honestly, I wanted to talk to ya too～”
+「それならよかった、それじゃ……」=“If that's the case, that's good. Well then......”

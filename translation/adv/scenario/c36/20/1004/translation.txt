@@ -4,7 +4,7 @@
 「お願いします！　今日はお引き受けいただいて、ありがとうございました」="Please! Thank you very much for accepting our request!"
 「はぁぁ～～っ、めちゃくちゃ緊張したぁ～～っ」="Haaaa~~, it was so stressful~~"
 「ふぅ、ご苦労様。正に夢のような一時、というやつだったわね」="*Pant* thank you for your work. It was like straight from a dream."
-「ホントだね。[H名]さんのウェディングドレス姿、思い出しただけで興奮するよ！」="That's true. I get excited just by recalling the look of Miss [H名] in a wedding dress." 
+「ホントだね。[H名]さんのウェディングドレス姿、思い出しただけで興奮するよ！」="That's true. I get excited just by recalling the look of Miss [H名] in a wedding dress."
 「興奮って、まさか変な事を考えているんじゃないでしょうね？　そこまでいったら、救いようがないわよ？」="By excited you didn't mean anything strange, right? If you did, you're beyond saving."
 「ぁはは、だ、大丈夫だよ……とにかく綺麗で、もう綺麗って言葉そのものだったから」="Ahaha, i-it's okay... Anyway, you were so beautiful, even more than beautiful."
 「フッ、足りない頭じゃ、その辺りの表現が限界かしらね。まぁ、素直に嬉しく思っておくわ」="Pfft, so that's the limit of your brain huh. I'll take it as you being honestly happy."

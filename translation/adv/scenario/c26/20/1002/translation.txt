@@ -2,7 +2,7 @@
 （……[H名]は大丈夫かな？　少し心配だ）=(Is [H名] okay in there? I'm getting worried."
 （いよいよ出番か……）=(It's almost time...)
 （どうしよう、めっちゃ緊張してきた……）=(What should I do?)
-（……軽々に引き受けるんじゃなかったかも）= 
+//（……軽々に引き受けるんじゃなかったかも）=
 （ふぅ……汗をべっとりかいてしまった……もっと、しっかりしないと）=(Geez... This outfit is sweaty... Just stay calm...)
 「これより新婦が入場致します。後方の扉口をご覧ください」="The bride will enter from the back door... now."
 （いよいよ、[H名]がくるんだな……）=(That's [H名]'s cue...)

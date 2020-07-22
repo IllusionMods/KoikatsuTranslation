@@ -7,3 +7,6 @@ CHOICE:部活の成果を確認してもらえますか？=Can you check the pro
 CHOICE:先生と話がしたくて……ダメですか？=I just wanted to talk to the teacher. Is that okay?
 
 麗奈=Reina
+
+//CHOICE:また部活の成果を見てくれますか？=
+//CHOICE:先生ともっと話がしたくて=

@@ -107,7 +107,7 @@
 「勉強だけが全てじゃないものね。遊びも大切よ」=“Studying alone isn't everything, right? Playing is important too.”
 「おしゃれには気を使ってる？」=“Do you care about being fashionable?”
 「今度、君の私服姿を見てみたいわ♡」=“Next time, I'd like to see your casual clothes ♡”
-「ついつい楽な方に逃げちゃうのよね。夏は薄着になってばかりだし……」=“Eventually you'd want to change into something comfortable, right? It's more about dressing light during the summer...” 
+「ついつい楽な方に逃げちゃうのよね。夏は薄着になってばかりだし……」=“Eventually you'd want to change into something comfortable, right? It's more about dressing light during the summer...”
 「そう。君のこと、教えてくれてありがとう」=“I see. Thank you for telling me.”
 「その前に……ちゃんと言うこと、あるでしょ？」=“Before that... there's something you have to say properly, dont you?”
 「誠意を見せてくれてありがとう。もう怒ってないわよ」=“Thank you for being honest. I'm not mad anymore.”
@@ -234,7 +234,7 @@
 「君も私も、舌だけはまだお子様ってことね。早く大人になりたいわ～」=“Both you and me still have childish tastes, huh. I want to become an adult soon~”
 「辛い食べ物は平気？」=“Are you okay with spicy food?”
 「それじゃあ今度、オススメのお店に連れて行ってあげる♪　すっごく辛いから覚悟してね♡」=“Well then, I'll take you to a recommended shop next time ♪ Prepare for how spicy it is ♡”
-「あんまり辛いとおクチの感覚が鈍っちゃうからダメよね」=“I can't stand it when my mouth feels numb if it's too spicy.” 
+「あんまり辛いとおクチの感覚が鈍っちゃうからダメよね」=“I can't stand it when my mouth feels numb if it's too spicy.”
 「君、甘いものは好き？」=“Do you like sweets?”
 「クリームたっぷりのケーキをあーんってするの、夢なの♡　今度付き合ってくれない？」=“Being fed cake with lots of whipped cream on it, is a fantasy of mine ♡ Won't you join me next time?”
 「お菓子も恋も、ちょっとビターな方が刺激があっていいわよね」=“Whether it's sweets or love, I think it's better with some bitterness to it.”
@@ -380,7 +380,7 @@
 「あ～ん、悔しい！　君の気配ならすぐわかると思ったのに～」=“Ahhn~, how frustrating! I thought that I could easily tell if it was you immediately~”
 「あともう少しで私の方から声を掛けていたところよ。今回は君の勝ちね♡」=“I was this close to calling out to you. You win this time ♡”
 「夜更かししたりする？」=“Do you ever stay up late?”
-「友達と長電話する時は、割とね。ノロケ話を始めると、止まらなくなっちゃうの♡」=“When I'm on a long phone calls with a friend, it happens. Once I start talking about a certain someone, I can't stop ♡” 
+「友達と長電話する時は、割とね。ノロケ話を始めると、止まらなくなっちゃうの♡」=“When I'm on a long phone calls with a friend, it happens. Once I start talking about a certain someone, I can't stop ♡”
 「お肌に悪いから、なるべく早く寝るようにしてるわ」=“It's bad for your skin, so I try to sleep as early as possible.”
 「将来の夢ってある？」=“Do you have any dreams for the future?”
 「好きな人とずぅーっと一緒にいること、かな？　ねっ、未来の旦那様♡」=“ I guess being with the person you love forever? Hey, future husband ♡”
@@ -552,7 +552,7 @@
 「ううん、何でもないわ。ちょっと呼んでみたかっただけ♪」=“No, it's nothing. I just wanted to call out to you ♪”
 「[Pあだ名]……ふふっ、私も、同じ気持ちだったの♡」=“[Pあだ名]... Fufu, me too, I feel the same way ♡”
 「[Pあだ名]……ねぇ、H、しない？　いいでしょ？」=“[Pあだ名]... Hey, let's have sex? It's fine, right?”
-「ふふ、お話しましょうよ」=“Fufu, let's talk.” 
+「ふふ、お話しましょうよ」=“Fufu, let's talk.”
 「ふふ、[Pあだ名]♪　お話しましょうよ」=“Fufu, [Pあだ名] ♪ Let's talk.”
 「ふふっ、男の子としては、やっぱり気になるのかしら？」=“Fufu, being a guy, I guess that you're worried after all?”
 「いくら興味があっても、入っちゃダメよ？」=“No matter how interested you are, you can't come in.”
