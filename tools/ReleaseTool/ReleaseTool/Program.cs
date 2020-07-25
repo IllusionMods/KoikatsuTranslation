@@ -74,10 +74,17 @@ namespace ReleaseTool
                         if (File.Exists(licensePath)) output.Add(licensePath, "LICENSE");
 
                         var configDir = Path.Combine(root.FullName, "config");
-                        foreach (var file in Directory.GetFiles(configDir, "*", SearchOption.AllDirectories))
+                        if (Directory.Exists(configDir))
                         {
-                            var entryName = Path.Combine("BepInEx", CleanPath(file.Substring(root.FullName.Length)));
-                            output.Add(file, entryName);
+                            foreach (var file in Directory.GetFiles(configDir, "*", SearchOption.AllDirectories))
+                            {
+                                var entryName = Path.Combine("BepInEx", CleanPath(file.Substring(root.FullName.Length)));
+                                output.Add(file, entryName);
+                            }
+                        }
+                        else
+                        {
+                            Console.WriteLine("No config directory found, skipping adding AT config file");
                         }
 
                         var tlDir = Path.Combine(root.FullName, "Translation\\en");
