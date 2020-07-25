@@ -52,3 +52,12 @@ Translation files are organized by personality ID, for reference the personalies
 | c28 - Old-Fashioned  | c29 - Humble  | c30 - Friendly  | c31 - Willful  |
 | c32 - Honest  | c33 - Glamorous  | c34 - Returnee  | c35 - Slangy  |
 | c36 - Sadistic  | c37 - Emotionless  | c38 - Perfectionist  |   |
+
+| Personality ID | Added in |
+| ------ | ------------------------------------ |
+|00 - 29 | Base game                            |
+|30      | Free DLC                             |
+|31 - 33 | Personality Expansion DLC (07/27)    |
+|34 - 37 | AfterSchool Expansion DLC (12/21)    |
+|38      | Yoyaku Preorder Exclusive DLC        |
+|81 - 86 | Story personalities added through a mod, should be ignored |
