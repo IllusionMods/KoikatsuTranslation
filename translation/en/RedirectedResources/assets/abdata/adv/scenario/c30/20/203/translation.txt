@@ -7,6 +7,6 @@
 「そうね、一度くらい見てみたいかも。でも、それこそ邪魔になるわよね」=I know, right? I'd like to see it atleast once, but then again, if were to do that, we'll just get in the way.
 「はは、じゃあ最後にお土産でも買って、今日は帰ろうか」　=Haha, then, let's buy a few souvenirs and go home.
 
-CHOICE:『観覧車に乗らない？』=CHOICE: Wanna ride the Ferris Wheel?
-CHOICE:『そろそろ帰った方がいいかな？』=CHOICE: Should we head home?
+CHOICE:『観覧車に乗らない？』=Wanna ride the Ferris Wheel?
+CHOICE:『そろそろ帰った方がいいかな？』=Should we head home?
 「はは、じゃあ最後にお土産でも買って、今日は帰ろうか」=Haha, then, let's buy a few souvenirs and go home.

@@ -11,5 +11,5 @@
 「と、とにかくごめんね！」=A-At any rate, I'm really sorry!
 （気持ちいいけど、我慢しなきゃ……！　今日のデートを台無しにしないように……）=(It feels good, but I have to control myself…! Otherwise, this whole date will be ruined…)
 
-CHOICE:『一応我慢してみる』=CHOICE: I'll try enduring for now
-CHOICE:『必死で我慢する』=CHOICE: I'll have to desparately endure.
+CHOICE:『一応我慢してみる』=I'll try enduring for now
+CHOICE:『必死で我慢する』=I'll have to desparately endure.

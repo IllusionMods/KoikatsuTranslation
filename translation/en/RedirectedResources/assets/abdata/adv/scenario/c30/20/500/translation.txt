@@ -23,6 +23,6 @@
 「ううん、そんな事ない。ねぇ、最後にぎゅーって抱き締め合いましょ？　離れてる間も、寂しくならないように」=No, that's not true. Hey, let's hug each other really tightly, so that we don't feel lonely while we're apart, alright?
 「う、うん……いいよ。ちょっと恥ずかしいけど、[H名]がしたいっていうなら」=Y-Yea, Alright… It feels a bit embarrassing doing it out in the open but, if you wanna do it, [H名]…
 
-CHOICE:『寝て起きるのは、俺の家で……とか？』=CHOICE: Wanna come sleep at my house, or something?
-CHOICE:『ホテルでもう少し一緒に過ごさない？』=CHOICE: Wanna spend some more time at a hotel?
-CHOICE:『何でもない、今日は素直に帰ろうか』=CHOICE: It's nothing, Let's go home for today.
+CHOICE:『寝て起きるのは、俺の家で……とか？』=Wanna come sleep at my house, or something?
+CHOICE:『ホテルでもう少し一緒に過ごさない？』=Wanna spend some more time at a hotel?
+CHOICE:『何でもない、今日は素直に帰ろうか』=It's nothing, Let's go home for today.

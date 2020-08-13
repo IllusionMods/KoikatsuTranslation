@@ -7,5 +7,5 @@
 「今度はもう少しゆっくり帰ろうか」=Next time, let's take the walk back home at a slower pace.
 「ふふっ、そうね。ふふっ、カメというより……カタツムリくらいの速度で帰りたいわね」=Fufu~ you're right. Fufu~, forget turtles, I wanna go at the pace of a snail.
 
-CHOICE:「だったらこの後、うちに……」=CHOICE: In that case, wanna stop by my place…
-CHOICE:「今度はもう少しゆっくり帰ろうか」=CHOICE: Next time, let's take the walk back home at a slower pace.
+CHOICE:「だったらこの後、うちに……」=In that case, wanna stop by my place…
+CHOICE:「今度はもう少しゆっくり帰ろうか」=Next time, let's take the walk back home at a slower pace.

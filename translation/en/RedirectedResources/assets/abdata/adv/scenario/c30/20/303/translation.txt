@@ -13,7 +13,7 @@
 『小さな手の平 掴める物は～♪　きっと限られているけど♪』=[ The things these small hands can hold ~ ♪ They are surely limited but ♪ ]
 （[H名]一緒に歌うと楽しさと気持ちよさが倍増だな）=(Sing it together with [H名] somehow doubles my enjoyment of it.)
 
-CHOICE:『よし、延長しちゃおう！』=CHOICE: Alright, Let's extend it!
-CHOICE:『うーん、今日は帰ろうか』=CHOICE: Well, Let's go home for today
+CHOICE:『よし、延長しちゃおう！』=Alright, Let's extend it!
+CHOICE:『うーん、今日は帰ろうか』=Well, Let's go home for today
 
 [P名]＆[H名]=[P名] & [H名]

@@ -34,5 +34,5 @@
 「えっ……別れるって……ぇと、今日はって事よね？　まさか……」=Eh…. Part ways…? Uhm, you mean for today, right? Perhaps… No way….
 「わぁっ、違う違う！　もう暗いし、送っていくって意味だって！　はぁ……本当に、そういう意味じゃないからね！」=Woah, No, It's not like that! It's already dark out, I just meant to drop you off back home! Haah, Seriously, I didn't mean it that way!
 
-CHOICE:『そうかも……です』=CHOICE: Yea… Let's part ways here.
-CHOICE:『違うよ、そうじゃないって』=CHOICE: No, I didn't mean it like that!
+CHOICE:『そうかも……です』=Yea… Let's part ways here.
+CHOICE:『違うよ、そうじゃないって』=No, I didn't mean it like that!
