@@ -1,4 +1,4 @@
-「そろそろ終了時間だけど……どうする？　私はキミに合わせるわよ」=Our slot for the room is almost used up… what do you wanna do? I'll go with whatever you want
+「そろそろ終了時間だけど……どうする？　私はキミに合わせるわよ」=Our slot for the room is almost used up... what do you wanna do? I'll go with whatever you want
 「よし、なら延長しちょおうよ。もっと[H名]と一緒に歌いたい！」=Alright, then let's extend it. I wanna sing together with you a lot more, [H名]!
 「あら、奇遇ね。私も、もう少し歌いたいと思っていたところよ。じゃあ、延長の電話入れておくわね」=Oh, Nice. I wanted to sing with you a lot more too. Then, I'll call the reception and let them know.
 「うん、ありがと。よーし！　今日はとことん歌いまくろう！」=Thanks. Alright! Let's sing like there's no tomorrow!
@@ -8,12 +8,10 @@
 「でしょ？　だから次の一曲を一緒に歌って、終わりにしよう」=Right? Then, let's do a duet for the last song, and then go home.
 「ふふ、最後に二人で歌うのって素敵ね。曲は私が決めてもいいかしら？」=Fufu, doing a duet for the final one sounds lovely. Is it alright if I pick the song?
 「もちろん」=Of course.
-「それじゃあ……これ！」=Then, how about.. this!
-（おっ、この曲は……！）=(Oh, this song is…!)
+「それじゃあ……これ！」=Then, how about... this!
+（おっ、この曲は……！）=(Oh, this song is...!)
 『小さな手の平 掴める物は～♪　きっと限られているけど♪』=[ The things these small hands can hold ~ ♪ They are surely limited but ♪ ]
 （[H名]一緒に歌うと楽しさと気持ちよさが倍増だな）=(Sing it together with [H名] somehow doubles my enjoyment of it.)
-
 CHOICE:『よし、延長しちゃおう！』=Alright, Let's extend it!
 CHOICE:『うーん、今日は帰ろうか』=Well, Let's go home for today
-
 [P名]＆[H名]=[P名] & [H名]

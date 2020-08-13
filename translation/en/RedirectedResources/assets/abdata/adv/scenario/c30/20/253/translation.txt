@@ -1,15 +1,14 @@
-「あらら、帰宅ラッシュと重なっちゃったかしら……もうちょっとこっちに寄れる？」=Arara, I wonder if it's already home commute rush hour… Wanna huddle a bit  closer?
-「うん、たぶん大丈夫……って、おあっ！？」=Yeah, sure…. Eh, Woah!?
+「あらら、帰宅ラッシュと重なっちゃったかしら……もうちょっとこっちに寄れる？」=Arara, I wonder if it's already home commute rush hour... Wanna huddle a bit closer?
+「うん、たぶん大丈夫……って、おあっ！？」=Yeah, sure... Eh, Woah!?
 「あはは……キミのちょっとは、少し近過ぎないかしら？」=Ahaha... Isn't your idea of a "bit" too much?
-「いや、これは事故みたいなもので……えっと……」=No, this is an accident, so uhm…
-（うぅ……でも、こんな近くで[H名]の匂いと体温を感じてたらっ……）=(Uugh… At this distance… I can clearly feel her body temperature and her scent…)
-（っ……我慢しなきゃいけない……けど……ダメだ、抑え切れない……）=(…..I have to endure this…. but… no good… I can't control it anymore…
-「ん？　……これは何かしら？　硬くて太くて……こんなもの、さっきまでは無かったわよね？」=Hmm? ….Wonder what this is? So hard and thick… This thing, It wasn't here before, was it?
-「あぁっ、それはっ……[H名]っ……撫でたら……」=Aaah, that's… [H名]… If you rub it like that….
-「んぅ？　なんで？　とっても気持ち良そうな顔になってるのに……なんでダメなの？」=Huh? Why? Even tho your expression all but says how good it feels… Why is it no good?
-「いや、わかってるでしょ？　ここ、電車の中だし……[H名]っ、ホントに、まずいって……」=No, surely you understand! We're in a train… [H名], it's really really not a good idea…
+「いや、これは事故みたいなもので……えっと……」=No, this is an accident, so uhm...
+（うぅ……でも、こんな近くで[H名]の匂いと体温を感じてたらっ……）=(Uugh... At this distance... I can clearly feel her body temperature and her scent...)
+（っ……我慢しなきゃいけない……けど……ダメだ、抑え切れない……）=(...I have to endure this... but... no good... I can't control it anymore...
+「ん？　……これは何かしら？　硬くて太くて……こんなもの、さっきまでは無かったわよね？」=Hmm? ...Wonder what this is? So hard and thick... This thing, It wasn't here before, was it?
+「あぁっ、それはっ……[H名]っ……撫でたら……」=Aaah, that's... [H名]... If you rub it like that...
+「んぅ？　なんで？　とっても気持ち良そうな顔になってるのに……なんでダメなの？」=Huh? Why? Even tho your expression all but says how good it feels... Why is it no good?
+「いや、わかってるでしょ？　ここ、電車の中だし……[H名]っ、ホントに、まずいって……」=No, surely you understand! We're in a train... [H名], it's really really not a good idea...
 「と、とにかくごめんね！」=A-At any rate, I'm really sorry!
-（気持ちいいけど、我慢しなきゃ……！　今日のデートを台無しにしないように……）=(It feels good, but I have to control myself…! Otherwise, this whole date will be ruined…)
-
+（気持ちいいけど、我慢しなきゃ……！　今日のデートを台無しにしないように……）=(It feels good, but I have to control myself...! Otherwise, this whole date will be ruined...)
 CHOICE:『一応我慢してみる』=I'll try enduring for now
 CHOICE:『必死で我慢する』=I'll have to desparately endure.
