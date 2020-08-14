@@ -4,7 +4,7 @@
 「ううん。キミがそうしたいならやってみましょう」=Alright. If you're so interested in it, then let's do it.
 「やったね！　それじゃ……俺のことは[Pあだ名]って呼んでほしいな」=Yay! Then... Can you call me by [Pあだ名]?
 「わわっ、私が付けるんじゃなくて、自分で決めてるのね……しかもその呼び方……本当にそれでいいの？」=Wao, So instead of me picking one, you already picked one out for yourself beforehand? And a nickname like that to boot... Are you sure about it?
-「うん。この呼び方がいい。[H名]から、こうやって呼ばれたいんだ」=Yeah. That name is fine. I'd like you to call me by that name. 
+「うん。この呼び方がいい。[H名]から、こうやって呼ばれたいんだ」=Yeah. That name is fine. I'd like you to call me by that name.
 「もう……そう言われたら悪い気はしないけど……その、私から言うのは恥ずかしいから、先にキミが呼んでくれる？」=Well, alright... If you say so, then I won't feel bad about it... But, that is, it's embarrassing for me to say it first. Won't you call me by my nickname first?
 「全然いいよ。実は自分のだけじゃなくて、[H名]の愛称も考えてたんだよね」=I don't mind at all. Actually, I have already thought of a good nickname for you, [H名], alongside my own.
 「ずいぶん準備がいいのね」=You're awfully well prepared.

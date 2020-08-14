@@ -12,7 +12,7 @@
 「付いていくのは構わないけど、どこまで行くのかな？」=I don't mind following you, but where are we going, exactly?
 「ちょっ、どこに入ろうとしてるの！　ダメよっ！」=Hey, you mustn't go in there!
 「あっ……ふふっ、キミと話せると思うと何だか楽しくなっちゃうな」=Ah... Fufu... Just thinking about having a chat with you makes me happy.
-「そういえば……キミって男の子なのよね……あ、ううん、深い意味はないわよ」=Speaking of that... You really are a boy, aren't you?... Ah, no, I didn't mean anything super deep by that.
+「そういえば……キミって男の子なのよね……あ、ううん、深い意味はないわよ」=Speaking of that... You really are a boy, aren't you?...... Ah, no, I didn't mean anything super deep by that.
 「キミも一緒にやってみる？　運動不足の解消になるわよ」=Wanna try it with me? It'll make up for your lack of exercise.
 「あら……もしかして、うちの部に興味あるの？」=Oh... Are you perhaps interested in our club?
 「コイカツ部の活動中？　いいねぇ、青春だねぇ！」=In the middle of Koikatsu Club Activities? That's great, youth is the springtime of life afterall.
@@ -100,7 +100,7 @@
 「私もお料理好きよ。今度一緒に何か作ってみない？」=I love cooking too. Wanna try cooking something together sometime?
 「あらら、違った？　大丈夫、お料理なんて出来なくても平気よ。って、私もあんまり出来ないから人のこと言えないんだけど♪」=Oh my, was I wrong? Ah, it's fine though, even if you can't cook, it's fine. Eh, it's not like I can cook super well either, so why am I going around passing judgement?
 「キミ、身体を動かすのって好き？　体育の授業とか……」=Hey, do you like moving your body? Like during P.E class or whatever...
-「そうなんだ。こう見えて私も好きなのよ。結構得意なんだから」=I see. I may look like this but I love it too. I'd go so far as to call it my speciality. 
+「そうなんだ。こう見えて私も好きなのよ。結構得意なんだから」=I see. I may look like this but I love it too. I'd go so far as to call it my speciality.
 「やっぱりそういうタイプかー。ううん、大丈夫、私も苦手だもの」=Ah, so you're that sort of person afterall. Nah, It's fine. It's not my cup of tea either.
 「ね、キミは日頃から真面目に勉強するタイプ？」=Hey, are you the kind of person to study hard everyday from morning to evening?
 「ふふっ、偉い偉い！　私もコツコツ派だから気が合うかもね」=Fufu, that's great! I'm also in the same "study hard" camp, so we might get along.
@@ -117,7 +117,7 @@
 「ダメだってば。さすがに怒るわよ？」=I said it's no good. I'll actually get mad.
 「……んー、どこ見てるのかな？　ん？　ん？」=...Hmmmm... where do you think you're looking at? Hmm? Hmm?
 「そういうとこ、じーっと見るの良くないと思うなぁ。本気よ？」=I don't think it's good for you to stare at that kind of place so intently. I'm being serious.
-「キミがセクハラ男子になるのを見過ごすわけにはいかないわね。はい、もう禁止！」=Nope, I can't overlook this sexual harrassment anymore. Here, Stop! 
+「キミがセクハラ男子になるのを見過ごすわけにはいかないわね。はい、もう禁止！」=Nope, I can't overlook this sexual harrassment anymore. Here, Stop!
 「……ジロジロ見たって何も変わらないよ」=...staring at it so intently won't actually make it change or anything, you know.
 「えっ……いきなりどうしたの？　私の手、何か気になる？」=Eh... What's this all of a sudden? Why the sudden interest in my hand?
 「やんっ……もー、男子に手を握られるのって結構緊張するのよ？」=Hiya!... Jeez~, you know it's very nervewracking to have your hand suddenly grasped by a guy.
@@ -137,7 +137,7 @@
 「うーん、何か楽しい話はないかしら……」=Well, can't we talk about something fun...
 「キミって……聞きたい言葉も言ってくれずに放っておくのね」=You... You're just going to leave without saying the words I want to hear, aren't you?
 「……ごめんなさい、もうやめましょう。なんだかイメージと違う会話になっちゃったわね」=...I'm sorry, let's stop here. Somehow this conversation turned out different from what I was expecting.
-「こういう状態で会話しても楽しくないわよね」=It's not fun to have a chat in a situation like this. 
+「こういう状態で会話しても楽しくないわよね」=It's not fun to have a chat in a situation like this.
 「キミと話してるとすごく楽しいわ。また色々話しましょ」=When I'm talking with you, I always have an absolute blast. Let's talk about tons of different things again, alright?
 「キミの話聞いてると……私、興味津々になっちゃう。何にって……それは秘密よ♪」=Whenever you tell me something new... I always become super interested in it. Hmm? Interested in which part, exactly? That's a secret ♪
 「今回はここまでにしましょ。またね」=Let's stop here for now. See ya later.
@@ -193,7 +193,7 @@
 「家事とかは得意？」=Are you good at housework?
 「見ての通り、一通りはこなせるわよ。こう見えて私、出来る女なんですからね」=As you can see, in general, I can do most of everything. I may look like this, but I'm a capable woman.
 「あ、あはは……あはははー……ノーコメントよ！」=A-Ahaha... Ahahahaha--... No comment!
-「うーん、せっかくだからキミとは違うお話がしたいわね」=Well, we don't get to talk often so I really wanna talk about something else with you. 
+「うーん、せっかくだからキミとは違うお話がしたいわね」=Well, we don't get to talk often so I really wanna talk about something else with you.
 「この間の大雨の日、駅前の排水溝が……」=The other day, when it raining super heavily, the drain in front of the station...
 「知ってる知ってる。噴水みたいになること、あるわよね」=Oh, I know about this. It became like a water fountain, didn't it?
 「やっぱり彼氏とか欲しい？」=So you want a boyfriend afterall?
@@ -204,7 +204,7 @@
 「たまには私からしたい……かな。なーんて。あ、こら、変な目で見ないの！」=Sometimes I wanna be the one who initiates them... Yeah. Ah, hey, Don't look at me with those fishy eyes!
 「結婚するとしたら、式って挙げたい？」=If you ever get married, would you prefer a full blown ceremony?
 「もちろん。私だって女の子ですからね。一生に一度くらいウエディングドレスを着てみたいわ」=Of course. I'm a girl afterall. I wanna try on a wedding dress atleast once in my life.
-「うーん、恥ずかしいから別に……あ、でもドレスは着たいから写真だけは撮りたいかな」=Well, it's rather embarrassing so not particularly... Ah, but, I do want to take a picture in a wedding dress if possible. 
+「うーん、恥ずかしいから別に……あ、でもドレスは着たいから写真だけは撮りたいかな」=Well, it's rather embarrassing so not particularly... Ah, but, I do want to take a picture in a wedding dress if possible.
 「好きな人には積極的にアタックする？」=Would you be proactive in your attempts to court your lover?
 「もちろん！　当たって砕けろが信条！　と言いたいところだけど……そう簡単にはいかないわよね」=Of course! Make them crumble and fall into your hands, that is my creed!-- Or so I'd like to say but... easier said then done.
 「しないわよー。もー、私のこと、どんな人だと思ってるの？　心はすっごく乙女なんですからね」=Of course not. What kind of person do you take me for? I'm actually a pure hearted maiden, you know.
@@ -234,7 +234,7 @@
 「良かったー。お姉さんもブラック苦手……ミルクないときついのよね」=I'm glad. This onee-san can't handle black coffee either... It's hard to drink it without atleast milk.
 「お料理って、辛い物は好き？」=Do you like your food spicy?
 「いいわね！　オススメのアジア料理屋さんあるから、今度一緒に行きましょう」=Awesome! There's some nice asian restaurants that I know of, next time, let's go together, alright?
-「えへへ、実はお姉さんも無理ー。我慢して食べるのもつらいものね」=Ehehe... Actually, this onee-san can't handle it either. Even just enduring it is hard. 
+「えへへ、実はお姉さんも無理ー。我慢して食べるのもつらいものね」=Ehehe... Actually, this onee-san can't handle it either. Even just enduring it is hard.
 「気になってたんだけど、キミは甘い物好き？　ほら、男の子だし、どうかなって」=I was curious, do you have a sweet tooth? Since you're a guy and all, I was wondering.
 「なるほど、男の子でも甘い物好きはいるのね。私？　私はもちろん大好きよ」=I see. So there are boys out there who like sweet food as well. Me? Of course, I love sweet food.
 「やっぱり？　男の子ってそういう子多いのかな？　私も苦手なんだけど、女子だと珍しい方なのよ」=Is that so? I wonder if there are many guys like that? It's not my cup of tea either, although that's a fairly rare quality amongst girls.
@@ -245,7 +245,7 @@
 「キミは女の子に対して好みの身長とかってある？　どれくらいの娘が好き？」=Do you have any height preference or the like when it comes to girls? If so, how tall do you like them?
 「あら嬉しい。背が高いのって、実はちょっとコンプレックスだったりしたのよ」=Oh, that makes me happy. You know, I actually have a bit of a complex when it comes to my height.
 「なるほどなるほど。私くらいでちょうどいいかしら？」=I see, I see. So, about my height then?
-「ふふふっ、今、生まれて初めて、身長低くて良かったって思っちゃったわ」=Fufufu, for the first time in my life, I'm glad that I'm short. 
+「ふふふっ、今、生まれて初めて、身長低くて良かったって思っちゃったわ」=Fufufu, for the first time in my life, I'm glad that I'm short.
 「女子に対して、体型の好みとか……もちろんあるわよね？　聞いてもいい？」=When it comes to girls, you probably have a preferred figure or body type or something... right? Can you tell me about it?
 「本当？　私くらいでも大丈夫？　もー、キミって優しいんだからー」=Really? Am I good in that regard then? Jeez, it's because you're so kind...
 「ふふっ、体型の維持って大変なんだけど……せっかくだから頑張っちゃおうかしら」=Fufu, it's really difficult to maintain your body but... well, I suppose I should try my best.
@@ -422,7 +422,7 @@
 「自分はＭだと思う？」=Do you think you are an M?
 「うーん、女の子って基本はＭの娘が多いんじゃないかしら？　あ、あくまで一般論よ？」=Well, don't you think that generally there are a lot of girls who are masochists? Ah, that's just the general opinion tho.
 「ふふっ、私は間違いなくドＳね。キミのこと、いっぱい苛めたいもの……って、本気で答えたらどうする気なの？」=Fufu, I am unmistakably a hard S. I really want to tease you all day... If I actually replied with that seriously, what would you do?
-「鏡とかでさ、自分のアソコをじっくり見たことある？」=Hey, have you ever, by using a mirror or whatever, properly taken a look at your nether regions? 
+「鏡とかでさ、自分のアソコをじっくり見たことある？」=Hey, have you ever, by using a mirror or whatever, properly taken a look at your nether regions?
 「恥ずかしいこと平気で聞くんだから……その、あるわ。だって、気になったんだもの……」=You really ask the most embarrassing things so easily... Yes, I've done that. I mean, I was curious...
 「じっくりと見たことは……って、なに真面目に答えてるの、私！」=I really have take a good... Wait, why are you answering this so earnestly, Me!?
 「今、恥ずかしい話はちょっと……他のこと話しましょう」=Talking about such embarrassing things is a bit... Let's talk about something else.
@@ -537,7 +537,7 @@
 「いいえ」「やん」「そうかしら？」「違うわよ」「そんなことない」="No" "Nah" "Is that so?" "That's incorrect" "That's not it"
 「へぇ」「あら」「なるほど……」「うんうん」「そうなのね」="Heh" "Oh my" "I see..." "Yea Yea" "Seems like it"
 「えっ！？」「ひゃんっ！」「わぁっ！」「ひあっ！」「きゃっ！」="Eh!?" "Hyan!" "Wah!" "Hyaa!" "Kyaa!"
-「ふふっ」「あはっ」「もう♪」「えへへ」「こら♪」="Fufu" "Aha" "Jeez♪" "Ehehe" "Hey♪" 
+「ふふっ」「あはっ」「もう♪」「えへへ」「こら♪」="Fufu" "Aha" "Jeez♪" "Ehehe" "Hey♪"
 「ふんっ」「つーん」「ぷいっ」「やだっ」「こーらー」="Hmph" "Well" "*Snub*" "No" "Cut it out"
 「うぅ……」「はぅ……」「はぁぁ……」「あぅぅ……」「がっかり……」="Uu..." "Hau..." "Haaa..." "Auuu..." "Disappointing..."
 「もーっ！」「あははっ」「やだもー♪」「うふふっ」「笑っちゃう♪」="Jeez!" "Ahaha" "Oh Dear ♪" "Ufufu" "I'll laugh ♪"

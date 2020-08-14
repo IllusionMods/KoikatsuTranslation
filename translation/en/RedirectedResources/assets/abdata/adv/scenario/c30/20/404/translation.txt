@@ -14,7 +14,7 @@
 「はむっ……」=*Munch*...
 「んくっ、ごくっ……うん！　幸せな味がする」=*Munch*, *Gulp*... Yep, it really is delicious!
 「でしょう？　気に入ったのならもっと食べる？」=Right? You want more?
-「いやいや、俺は十分幸せをもらったから、後は[H名]が食べちゃって」=No, no, I've already received a bunch of your happiness, you should eat the rest by yourself, [H名]. 
+「いやいや、俺は十分幸せをもらったから、後は[H名]が食べちゃって」=No, no, I've already received a bunch of your happiness, you should eat the rest by yourself, [H名].
 「それ、コーヒー味のケーキ？　なんか大人な感じがするね」=That cake, is it coffee flavoured? Feels a bit mature.
 「うん、チョコモカブラウニーって言うの。大人かどうはわからないけど、ほろ苦い感じで美味しいわよ」=Yep, Choco-Moca-Brownie, apparently. I don't know about mature but just slightly bitter, enough to be delicious.
 「ほろ苦いか……もうその言葉の感じが大人って感じだよ」=Slightly bitter, huh... The maturity of those words is exactly what I'm talking about.
