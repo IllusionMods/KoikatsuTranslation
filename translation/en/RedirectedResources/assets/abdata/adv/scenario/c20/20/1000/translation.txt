@@ -1,8 +1,8 @@
 「すみませーん！　少しお時間よろしいでしょうか？」= Excuse me, do you have a moment?
 「あっ、はい。何ですか？」=Yeah?
-「ありがとうございます！　私、この近くの結婚式場に勤めているウェディングプランナーの玉城と申します！」=Thank you, sorry to distrub you. My name is Tamashiro, and I'm a wedding planner who works for a venue nearby.
+「ありがとうございます！　私、この近くの結婚式場に勤めているウェディングプランナーの玉城と申します！」=Thank you, sorry to distrub you. My name is Tamaki, and I'm a wedding planner who works for a venue nearby.
 「う、ウェディングプランナー？　どうして、そんな人が俺たちに声を……？」=A wedding planner? Why did you want to speak with us?
-「現在、私どもの式場にてブライダルフェアを行っておりまして、模擬挙式のモデルをお願いできる方を探していたのですが……」=We are currently holding a bridal fair in our ceremony hall, and I'm looking for a someone, a couple of people to exact, who could for a model for a simulated wedding ceremony.
+「現在、私どもの式場にてブライダルフェアを行っておりまして、模擬挙式のモデルをお願いできる方を探していたのですが……」=We are currently holding a bridal fair in our ceremony hall, and I'm looking for a someone, a couple of people to be exact, who could for a model for a simulated wedding ceremony.
 「もしかして、俺たちにそのモデルを？」=And you think we could be that model?
 「はい！　すごくお似合いで素敵なカップルさんでしたので、是非にと声をかけさせていただきました！　いかがでしょうか？」=I do. You just seemed like such a cute couple, I had to ask. So, what do you say?
 「どうする？　俺は引き受けてみたいって思うんだけど」=What do you think? I think it sounds interesting.
