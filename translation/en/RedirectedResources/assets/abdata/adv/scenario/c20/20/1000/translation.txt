@@ -10,7 +10,7 @@
 「大丈夫だよ、あくまで模擬なんだから。それに俺も一緒だし、何かあればフォローするよ」=You'll be totally fine, there's nothing to worry about, it's not like it's a real wedding. Plus, I'll be there if you need help.
 「でしたら……引き受けて、やってみたいですっ」=Then... I'll do it!
 「オッケー。決まりだね」=Ok, sounds good.
-「お待たせしました。俺達でよければ、やらせてください」=Ma'am, it sounds good to us. Let's do it.
+「お待たせしました。俺達でよければ、やらせてください」=Sorry for making you wait. If you're fine with us, then please let us do it.
 「ありがとうございます！　それでは、さっそく式場までご案内いたしますね！」=Thanks so much! Ok, let's head on over to the ceremony hall.
 
 モブ=Mob
