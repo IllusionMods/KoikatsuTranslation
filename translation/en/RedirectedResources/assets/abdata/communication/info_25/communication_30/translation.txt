@@ -315,7 +315,7 @@
 「今日のお昼は先約がいるかしら？　もしフリーなら一緒にどう？」=Do you have plans with anyone for the lunch break today? If you're free, wanna spend it together?
 「ふふっ、ありがとう。キミと一緒なら楽しいお昼が過ごせるの」=Fufu, Thank you. With you, I can pass the lunch break while having fun.
 「あら、残念……それじゃまた誘うわね」=Oh, that's too bad... Then I'll invite you again some other time.
-「俺と一緒にコイカツしない？」=Wanna do love activities with me?+B2178
+「俺と一緒にコイカツしない？」=Wanna do love activities with me?
 「ふふっ、待ってたわ。それじゃどんなことをしましょうか？」=Fufu, I was waiting for that. Then, what shall we do?
 「あ……ごめんなさい、今日は無理なの。今度、落ち着いてる時にまた……ね？」=Ah... Sorry, I can't do it right now. Maybe once things have calmed down a bit, invite me again?
 「コイカツって私からお願いしてもいいの？　だったら今からどうかしら？」=Would you mind if I wanted to do some love activities? If no, how about right now?
