@@ -1,5 +1,5 @@
 「はふ……ね、少し休憩しましょうか？」=Hah... Hey, wanna take a small break?
-「うん、いいよ。俺も汗拭きたいなって思ってたとこ」=Yeah, alright. I was also thinking of taking a small one to wipe down this sweat.
-「結構いい勝負だったけど……キミ、手加減してくれたでしょう？　ふふっ、お姉さんには分かっちゃうんだから。ねぇ、物足りなくない？　大丈夫？」=That was a pretty good match but... You were going easy on me, weren't you? I can tell, you know? But is it alright? Are you really satisfied with this?
-「あはは、バレてたんだ？　でも大丈夫だよ。こんなに汗かいてるんだから、良い運動になってるのは間違いないよ。[H名]こそ、激しすぎなかった？」=Ahaha, so you saw through it. But it's alright. With how much I'm sweating, there's no doubt that it was good exercise. But what about you, [H名]? It wasn't too extreme?
-「ええ、ちょうどいい感じで……すごく楽しめてるわ。休憩したらもう一勝負やりましょう」=No, it was just the right difficulty, so it was very fun for me. After the break, let's have one more match.
+「うん、いいよ。俺も汗拭きたいなって思ってたとこ」=Yeah, alright. I was also thinking of resting for a bit to wipe down this sweat.
+「結構いい勝負だったけど……キミ、手加減してくれたでしょう？　ふふっ、お姉さんには分かっちゃうんだから。ねぇ、物足りなくない？　大丈夫？」=That was a pretty good match but... You were going easy on me, weren't you? Fufu, onee-san can tell after all. But hey, is this enough? Are you really okay with this?
+「あはは、バレてたんだ？　でも大丈夫だよ。こんなに汗かいてるんだから、良い運動になってるのは間違いないよ。[H名]こそ、激しすぎなかった？」=Ahaha, so you saw through it, huh? But it's alright. With how much I'm sweating, there's no doubt that it was a good work out. But what about you, [H名]? It wasn't too extreme?
+「ええ、ちょうどいい感じで……すごく楽しめてるわ。休憩したらもう一勝負やりましょう」=No, this was just about right... so it was very fun for me. After a break... let's have one more match.
