@@ -120,3 +120,6 @@ OPTION[208]:いいよ=OK.
 //OPTION[208]:やだ=
 OPTION[209]:いいよ=OK.
 OPTION[209]:ごめん=Sorry.
+
+//OPTION[109]:はい=
+//OPTION[109]:いいえ=

@@ -11,3 +11,5 @@
 離れ離れ=Separation
 二人きりの保健室=By Ourselves In The School Infirmary
 告白の答えは？=A Confession Answer?
+
+//告白もう一度=
