@@ -1,11 +1,11 @@
-「さて、公園に着いたけど、何をしようか？」=Well, here we are, at the park. What should we do?
-「ん？　別に何かをしようと思う事はないんじゃない？　私はキミと一緒にいられたら幸せだし」=Hmm? It's not like we have to do anything in particular. Just being with you makes me happy.
+「さて、公園に着いたけど、何をしようか？」=Well, where we are, at the park. What should we do?
+「ん？　別に何かをしようと思う事はないんじゃない？　私はキミと一緒にいられたら幸せだし」=Hm? It's not like we have to do anything in particular though? Just being with you makes me happy.
 「それは俺もだけど……流石に二人でボーっとしてるのも……ね？」=While I feel the same way... Isn't just standing here doing nothing a bit... eh?
-「確かにちょっと間抜けかも。でも、恋人同士なら、そういうのもアリだって思わない？」=Yea, we probably would look like fools. But, since we're lovers anyway, is there a problem with that?
+「確かにちょっと間抜けかも。でも、恋人同士なら、そういうのもアリだって思わない？」=We probably look like idiots. But, since we're lovers anyway, is there a problem with that?
 「恋人同士だからこそ色々したくなるんじゃないかな……公園なんて、友達同士じゃあんまりこないし」=It's because we're lovers that I was thinking of doing something... but then again, if we were just friends we wouldn't have come to the park in the first place.
 「そう、それよ。友達同士って、あくまでやる事が一緒だったりとか、何か一緒の目的がないと集まりにくいじゃない」=Yep, that's right. Don't friends hate coming together unless they have a common goal or absolutely need to do something together?
-「そうだね。共通の目的っていうか、何かするって決まってないと集まる事すらないかも」=You're right. Rather than a common goal, they straight up don't come together unless they have plans, do they
-「でしょう？　私、そういうのちょっと寂しいなって思ってたのよね。でも、恋人同士なら、そうじゃないでしょ？」=Right? I think that's a bit sad. But since we're lovers, that's not the case, yes?
+「そうだね。共通の目的っていうか、何かするって決まってないと集まる事すらないかも」=You're right. Rather than have a common goal, they wouldn't just come together unless they have plans.
+「でしょう？　私、そういうのちょっと寂しいなって思ってたのよね。でも、恋人同士なら、そうじゃないでしょ？」=Right? Although I do think that's a bit of a lonely way to look at it. I think that's a bit sad. But since we're lovers, that's not the case, yes?
 「うん、一緒に何をしたいとかじゃなくて、とにかく[H名]と一緒にいたいって気持ちの方が強いからね」=Yeah, rather than wanting to do something with you, I just feel like being there by your side, [H名].
 「よかった、同じ考えでいてくれて。違うって言われたら、お姉さん泣いちゃってたかも……」=I'm glad, that you feel the same way. If you said something else, Onee-san would have started crying on the spot...
 「えっ！？　そこまで？」=Eh!? That much?
