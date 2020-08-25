@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 by Text Dump v1.4.1
 //
-//SPECIAL:先輩=
-//SPECIAL:お兄ちゃん=
-//SPECIAL:先生=
-//SPECIAL:ダーリン=
-//SPECIAL:ご主人様=
+SPECIAL:先輩=Senpai
+SPECIAL:お兄ちゃん=Oniichan
+SPECIAL:先生=Sensei
+SPECIAL:ダーリン=Darling
+SPECIAL:ご主人様=Goshujinsama

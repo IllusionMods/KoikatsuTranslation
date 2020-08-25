@@ -39,15 +39,13 @@
 //するよ=
 //うーん……=
 
-OPTION[0]:はい=Yes.
-OPTION[0]:いいえ=No.
 OPTION[1]:ある=It is.
 OPTION[1]:ない=Never.
 OPTION[2]:好き=I like them.
 //OPTION[2]:好きじゃない=
 //OPTION[3]:よく食べる=
 //OPTION[3]:あまり食べない=
-//OPTION[4]:する=
+OPTION[4]:する=Yes
 OPTION[4]:しない=Never.
 OPTION[5]:好き=I like it.
 //OPTION[5]:好きじゃない=
@@ -96,10 +94,6 @@ OPTION[107]:いいよ=OK.
 OPTION[107]:ごめん=Sorry.
 OPTION[108]:いいよ=OK.
 OPTION[108]:ごめん=Sorry.
-OPTION[200]:はい=Yes.
-OPTION[200]:いいえ=No.
-OPTION[201]:はい=Yes.
-OPTION[201]:いいえ=No.
 OPTION[202]:いいよ=OK.
 OPTION[202]:ごめん=Sorry.
 OPTION[203]:いいよ=OK.
@@ -117,5 +111,3 @@ OPTION[208]:ごめん=Sorry.
 OPTION[209]:いいよ=OK.
 OPTION[209]:ごめん=Sorry.
 
-//OPTION[109]:はい=
-//OPTION[109]:いいえ=

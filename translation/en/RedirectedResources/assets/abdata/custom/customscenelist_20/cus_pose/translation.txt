@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 by Text Dump v1.4.1
 //
-//立ち３５=
-//立ち３６=
-//立ち３７=
-//立ち３８=
+立ち３５=Pose 35
+立ち３６=Pose 36
+立ち３７=Pose 37
+立ち３８=Pose 38

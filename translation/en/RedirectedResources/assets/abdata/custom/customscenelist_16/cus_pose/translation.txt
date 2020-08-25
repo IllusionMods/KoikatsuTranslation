@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 by Text Dump v1.4.1
 //
-//立ち３３=
+立ち３３=Pose 33

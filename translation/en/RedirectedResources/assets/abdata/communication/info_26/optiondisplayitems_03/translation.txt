@@ -40,8 +40,6 @@
 //いるよー=
 //うーん……=
 
-OPTION[0]:はい=Yes.
-OPTION[0]:いいえ=No.
 //OPTION[1]:変だと思う=
 OPTION[1]:そんなことないよ=Not true.
 //OPTION[2]:無類の動物好きです=
@@ -97,10 +95,6 @@ OPTION[107]:いいよ=OK.
 OPTION[107]:ごめん=Sorry.
 //OPTION[108]:いるよー=
 OPTION[108]:うーん……=Errr...
-OPTION[200]:はい=Yes.
-OPTION[200]:いいえ=No.
-OPTION[201]:はい=Yes.
-OPTION[201]:いいえ=No.
 OPTION[202]:いいよ=OK.
 OPTION[202]:ごめん=Sorry.
 OPTION[203]:いいよ=OK.
@@ -118,5 +112,3 @@ OPTION[208]:ごめん=Sorry.
 OPTION[209]:いいよ=OK.
 OPTION[209]:ごめん=Sorry.
 
-//OPTION[109]:はい=
-//OPTION[109]:いいえ=

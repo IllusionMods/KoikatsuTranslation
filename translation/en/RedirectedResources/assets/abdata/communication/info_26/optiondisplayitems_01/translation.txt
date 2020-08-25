@@ -39,8 +39,6 @@
 //そんなことない=
 ごめん=Sorry
 
-OPTION[0]:はい=Yes.
-OPTION[0]:いいえ=No.
 OPTION[1]:そうだね=Yeah, that's right.
 OPTION[1]:そうでもないよ=Not really.
 OPTION[2]:好きだよ=I like it.
@@ -57,7 +55,7 @@ OPTION[4]:ちょっと苦手で…=I'm not a good cook.
 //OPTION[7]:興味がなぁ…=
 //OPTION[8]:落ち着く=
 //OPTION[8]:緊張する=
-//OPTION[9]:飲む=
+OPTION[9]:飲む=Drinking
 //OPTION[9]:甘味が欲しい=
 OPTION[10]:平気=Alright.
 OPTION[10]:苦手=I'm not a fan.
@@ -96,10 +94,6 @@ OPTION[107]:いいよ=OK.
 OPTION[107]:ごめん=Sorry.
 OPTION[108]:いいよ=OK.
 OPTION[108]:ごめん=Sorry.
-OPTION[200]:はい=Yes.
-OPTION[200]:いいえ=No.
-OPTION[201]:はい=Yes.
-OPTION[201]:いいえ=No.
 OPTION[202]:いいよ=OK.
 OPTION[202]:ごめん=Sorry.
 OPTION[203]:いいよ=OK.
@@ -117,5 +111,3 @@ OPTION[208]:ごめん=Sorry.
 OPTION[209]:いいよ=OK.
 OPTION[209]:ごめん=Sorry.
 
-//OPTION[109]:はい=
-//OPTION[109]:いいえ=

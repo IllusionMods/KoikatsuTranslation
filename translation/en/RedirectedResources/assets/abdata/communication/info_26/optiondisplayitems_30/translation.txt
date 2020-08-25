@@ -41,8 +41,6 @@
 そうだね=That's right.
 うーん……=Errr...
 
-//OPTION[0]:はい=
-//OPTION[0]:いいえ=
 //OPTION[1]:わりと見えるかも=
 //OPTION[1]:ううん、見えないよ=
 //OPTION[2]:うん、好きだよ=
@@ -98,12 +96,6 @@
 //OPTION[107]:ごめん=
 //OPTION[108]:いいよ=
 //OPTION[108]:ごめん=
-//OPTION[109]:はい=
-//OPTION[109]:いいえ=
-//OPTION[200]:はい=
-//OPTION[200]:いいえ=
-//OPTION[201]:はい=
-//OPTION[201]:いいえ=
 //OPTION[202]:いいよ=
 //OPTION[202]:ごめん=
 //OPTION[203]:いいよ=

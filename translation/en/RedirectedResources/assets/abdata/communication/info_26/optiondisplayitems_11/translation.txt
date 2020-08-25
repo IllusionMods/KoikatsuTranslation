@@ -44,8 +44,6 @@
 //……=
 //できてるよ=
 
-OPTION[0]:はい=Yes.
-OPTION[0]:いいえ=No.
 //OPTION[1]:思わない=
 OPTION[1]:ちょっとだけ…=A bit...
 OPTION[2]:好きだよ=I like it.
@@ -101,18 +99,12 @@ OPTION[106]:ごめん=Sorry.
 //OPTION[107]:必要ないよ=
 //OPTION[108]:一緒にしようかな=
 OPTION[108]:うーん……=Errr...
-OPTION[200]:はい=Yes.
-OPTION[200]:いいえ=No.
-OPTION[201]:はい=Yes.
-OPTION[201]:いいえ=No.
 //OPTION[202]:ヤろう=
 OPTION[202]:……=......
 OPTION[203]:いいよ=OK.
 OPTION[203]:ごめん=Sorry.
 //OPTION[204]:できてるよ=
 OPTION[204]:うーん……=Errr...
-OPTION[205]:はい=Yes.
-OPTION[205]:いいえ=No.
 OPTION[206]:いいよ=OK.
 OPTION[206]:ごめん=Sorry.
 //OPTION[207]:助かるよ=
@@ -122,5 +114,3 @@ OPTION[208]:ごめん=Sorry.
 OPTION[209]:いいよ=OK.
 OPTION[209]:ごめん=Sorry.
 
-//OPTION[109]:はい=
-//OPTION[109]:いいえ=

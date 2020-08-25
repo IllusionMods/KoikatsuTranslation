@@ -43,8 +43,6 @@
 いいよ、健全にやろう=Alright, let's do it discreetly.
 うーん……=Er...
 
-//OPTION[0]:はい=
-//OPTION[0]:いいえ=
 //OPTION[1]:そうだね、少し距離を感じるかも=
 //OPTION[1]:そうでもないよ。逆に、かまいたくなるかな=
 //OPTION[2]:うん、動物なら大概好きだよ=
@@ -100,12 +98,6 @@
 //OPTION[107]:ごめん=
 //OPTION[108]:いいよ=
 //OPTION[108]:ごめん=
-//OPTION[109]:はい=
-//OPTION[109]:いいえ=
-//OPTION[200]:はい=
-//OPTION[200]:いいえ=
-//OPTION[201]:はい=
-//OPTION[201]:いいえ=
 //OPTION[202]:いいよ=
 //OPTION[202]:ごめん=
 //OPTION[203]:いいよ=

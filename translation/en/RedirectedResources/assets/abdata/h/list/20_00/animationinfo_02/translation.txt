@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 by Text Dump v1.4.1
 //
-//押し付けバック=
+押し付けバック=Pressed From Behind

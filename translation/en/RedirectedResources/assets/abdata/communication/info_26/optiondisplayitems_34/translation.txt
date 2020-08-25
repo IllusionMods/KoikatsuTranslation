@@ -38,8 +38,6 @@
 ごめん=Sorry
 もちろんいいよ=Of course it's okay.
 
-//OPTION[0]:はい=
-//OPTION[0]:いいえ=
 //OPTION[1]:そんなことないよ=
 //OPTION[1]:もうちょっと上手くなりたいね=
 //OPTION[2]:だいたい好き=
@@ -81,7 +79,7 @@
 //OPTION[100]:……ごめん=
 //OPTION[101]:いいよ=
 //OPTION[101]:……ごめん=
-//OPTION[102]:する=
+OPTION[102]:する=Yes
 //OPTION[102]:うーん……=
 //OPTION[103]:いいよ=
 //OPTION[103]:ごめん=
@@ -95,12 +93,6 @@
 //OPTION[107]:ごめん=
 //OPTION[108]:いいよ=
 //OPTION[108]:うーん……=
-//OPTION[109]:はい=
-//OPTION[109]:いいえ=
-//OPTION[200]:はい=
-//OPTION[200]:いいえ=
-//OPTION[201]:はい=
-//OPTION[201]:いいえ=
 //OPTION[202]:いいよ=
 //OPTION[202]:ごめん=
 //OPTION[203]:いいよ=

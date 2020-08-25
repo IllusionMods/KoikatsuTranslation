@@ -46,8 +46,6 @@
 お願いします！=I'll leave it to you!
 シたい=I want to.
 
-//OPTION[0]:はい=
-//OPTION[0]:いいえ=
 //OPTION[1]:うーん、そうだね。少し怖いかな=
 //OPTION[1]:いや、怖いと思った事はないかな=
 //OPTION[2]:大好きだよ。猫とかいいよね=
@@ -103,12 +101,6 @@
 //OPTION[107]:ごめん=
 //OPTION[108]:いいよ=
 //OPTION[108]:ごめん=
-//OPTION[109]:はい=
-//OPTION[109]:いいえ=
-//OPTION[200]:はい=
-//OPTION[200]:いいえ=
-//OPTION[201]:はい=
-//OPTION[201]:いいえ=
 //OPTION[202]:いいよ=
 //OPTION[202]:ごめん=
 //OPTION[203]:いいよ=

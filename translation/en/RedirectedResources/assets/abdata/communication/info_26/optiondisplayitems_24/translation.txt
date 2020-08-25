@@ -32,8 +32,6 @@
 ……ごめん=...Sorry
 ごめん=Sorry
 
-OPTION[0]:はい=Yes.
-OPTION[0]:いいえ=No.
 //OPTION[1]:ソンナコトナイデス=
 //OPTION[1]:その通り=
 OPTION[2]:好きだよ=I like it.
@@ -44,7 +42,7 @@ OPTION[4]:好きだよ=I like it.
 //OPTION[4]:無駄にあるだけ=
 OPTION[5]:得意=I'm great at that.
 OPTION[5]:苦手=I'm not a fan.
-//OPTION[6]:する=
+OPTION[6]:する=Yes
 OPTION[6]:しない=Never.
 //OPTION[7]:気にしてる=
 //OPTION[7]:興味ないね=
@@ -89,10 +87,6 @@ OPTION[107]:いいよ=OK.
 OPTION[107]:ごめん=Sorry.
 OPTION[108]:いいよ=OK.
 OPTION[108]:ごめん=Sorry.
-OPTION[200]:はい=Yes.
-OPTION[200]:いいえ=No.
-OPTION[201]:はい=Yes.
-OPTION[201]:いいえ=No.
 OPTION[202]:いいよ=OK.
 OPTION[202]:ごめん=Sorry.
 OPTION[203]:いいよ=OK.
@@ -110,5 +104,3 @@ OPTION[208]:ごめん=Sorry.
 OPTION[209]:いいよ=OK.
 OPTION[209]:ごめん=Sorry.
 
-//OPTION[109]:はい=
-//OPTION[109]:いいえ=

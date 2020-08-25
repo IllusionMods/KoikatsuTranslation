@@ -28,7 +28,7 @@
 ロッカールーム=Locker Room
 裏庭=Rear Garden
 
-//体育館ライブ=
+体育館ライブ=Live Gymnasium Concert
 //女子トイレ覗き=
 //シャワールーム覗き=
 //ロッカールーム覗き=
