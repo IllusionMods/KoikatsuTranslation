@@ -39,7 +39,6 @@ OPTION[4]:好きだよ=I like it.
 //OPTION[4]:無駄にあるだけ=
 OPTION[5]:得意=I'm great at that.
 OPTION[5]:苦手=I'm not a fan.
-OPTION[6]:する=Yes
 OPTION[6]:しない=Never.
 //OPTION[7]:気にしてる=
 //OPTION[7]:興味ないね=

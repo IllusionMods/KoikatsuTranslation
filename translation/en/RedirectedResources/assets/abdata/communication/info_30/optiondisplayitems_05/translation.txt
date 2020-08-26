@@ -13,7 +13,6 @@ OPTION[2]:好き=I like them.
 //よく食べる=
 //OPTION[3]:あまり食べない=
 //あまり食べない=
-OPTION[4]:する=Yes
 する=Yes
 OPTION[4]:しない=Never.
 しない=No

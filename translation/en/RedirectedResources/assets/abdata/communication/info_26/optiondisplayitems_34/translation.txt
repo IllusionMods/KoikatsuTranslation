@@ -79,7 +79,6 @@
 //OPTION[100]:……ごめん=
 //OPTION[101]:いいよ=
 //OPTION[101]:……ごめん=
-OPTION[102]:する=Yes
 //OPTION[102]:うーん……=
 //OPTION[103]:いいよ=
 //OPTION[103]:ごめん=
