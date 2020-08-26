@@ -1,4 +1,3 @@
-//表示名=
 ビーチボール1=Beach Ball 1
 ビーチボール2=Beach Ball 2
 ビーチボール3=Beach Ball 3

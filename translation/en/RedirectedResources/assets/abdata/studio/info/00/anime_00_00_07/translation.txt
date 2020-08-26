@@ -1,4 +1,3 @@
-//表示名=
 本を読む待機1=About To Read Book 1
 姿勢を変える1=Changing Posture 1
 本を読む待機2=About To Read Book 2

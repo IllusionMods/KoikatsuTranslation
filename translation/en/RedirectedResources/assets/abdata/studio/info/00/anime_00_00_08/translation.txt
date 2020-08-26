@@ -1,4 +1,3 @@
-//表示名=
 しゃがみ1=Squatting 1
 しゃがみ2=Squatting 2
 しゃがみ3=Squatting 3

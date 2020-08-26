@@ -1,3 +1,3 @@
 巫女スカート=Shrine Maiden Skirt
-//鬼神の装束A(下)=
-//鬼神の装束B(下)=
+鬼神の装束A(下)=Demon God's Costume A (Bottom)
+鬼神の装束B(下)=Demon God's Costume B (Bottom)

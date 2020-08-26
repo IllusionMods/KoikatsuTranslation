@@ -1,4 +1,3 @@
-//表示名=
 喜1=Happy 1
 喜2=Happy 2
 喜3=Happy 3

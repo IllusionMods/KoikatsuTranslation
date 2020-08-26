@@ -7,7 +7,7 @@
 洋風制服（ジャケット）=Western-Style Uniform (Jacket)
 ニットセーター=Knitted Sweater
 体操着=Gym Uniform
-//スポーツウェア(男)=
+スポーツウェア(男)=Sportswear (Boys)
 スポーツウェア(女)=Sportswear (Girls)
 サッカーシャツ(男)=Soccer Jersey (Boys)
 コンシェルジュスーツ=Concierge Suit

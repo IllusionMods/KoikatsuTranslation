@@ -1,4 +1,3 @@
-//表示名=
 恥ずかしがる1=Embarrassed 1
 恥ずかしがる2=Embarrassed 2
 恥ずかしがる3=Embarrassed 3
