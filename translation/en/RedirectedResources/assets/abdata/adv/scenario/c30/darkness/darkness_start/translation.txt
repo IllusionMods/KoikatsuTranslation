@@ -1,4 +1,4 @@
-「ここって開かずの間、でしょ？　ずっと使われてないんじゃないの？」=This room is locked, isn't it? Hasn't it been empty for ages?
-「物置きよね、普通の。ここに何があるの？」=Isn't this just a normal storeroom? Is there something here?
-「……どうかしたの？　さっきからなんの反応もしないけど？」=...something wrong? You haven't said anything for a while now.
-「キャッ……！　何よ、誰なの！？」=Kyaa...! What the-- Who are you!?
+「ここって開かずの間、でしょ？　ずっと使われてないんじゃないの？」=This room is locked, isn't it? Doesn't it look like it hasn't been used for ages?
+「物置きよね、普通の。ここに何があるの？」=This just looks like an ordinary storeroom. Is there something here?
+「……どうかしたの？　さっきからなんの反応もしないけど？」=...Is there something wrong? You haven't said anything for a while now.
+「キャッ……！　何よ、誰なの！？」=Kyaa...! What the- Who are you!?
