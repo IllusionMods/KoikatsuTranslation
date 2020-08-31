@@ -1,1 +1,2 @@
-шкахоЯ=Honest
+誠実=Honest
+
