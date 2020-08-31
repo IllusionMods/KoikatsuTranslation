@@ -2341,7 +2341,7 @@ No Image=No Image
 // Sorry, guys.
 
 
-リナ ロベール=Lina Robert
+リナ ロベール=Lina Roberts
 リナ先生=Lina-sensei
 橋本 麗奈=Hashimoto Reina
 麗奈先生=Reina-sensei
