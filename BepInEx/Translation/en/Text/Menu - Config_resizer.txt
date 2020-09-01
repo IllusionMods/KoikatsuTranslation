@@ -1,0 +1,36 @@
+
+
+ConfigScene/Canvas/imgWindow/ScrollView/Content=ChangeFontSizeByPercentage(0.85)
+
+// don't wrap this one
+ConfigScene/Canvas/imgWindow/ScrollView/Content/Node Graphic/Garphic/title=UGUI_HorizontalOverflow(overflow)
+
+ConfigScene/Canvas/imgWindow/ScrollView/Content/Node ADV/Text/FontSpeed/Fast=ChangeFontSizeByPercentage(0.6)
+ConfigScene/Canvas/imgWindow/ScrollView/Content/Node ADV/Text/FontSpeed/Fast=UGUI_HorizontalOverflow(overflow)
+ConfigScene/Canvas/imgWindow/ScrollView/Content/Node ADV/Text/FontSpeed/Slow=ChangeFontSizeByPercentage(0.6)
+ConfigScene/Canvas/imgWindow/ScrollView/Content/Node ADV/Text/FontSpeed/Slow=UGUI_HorizontalOverflow(overflow)
+
+ConfigScene/Canvas/imgWindow/ScrollView/Content/Node ADV/Text/AutoWaitTime/Long=ChangeFontSizeByPercentage(0.6)
+ConfigScene/Canvas/imgWindow/ScrollView/Content/Node ADV/Text/AutoWaitTime/Long=UGUI_HorizontalOverflow(overflow)
+ConfigScene/Canvas/imgWindow/ScrollView/Content/Node ADV/Text/AutoWaitTime/Short=ChangeFontSizeByPercentage(0.6)
+ConfigScene/Canvas/imgWindow/ScrollView/Content/Node ADV/Text/AutoWaitTime/Short=UGUI_HorizontalOverflow(overflow)
+
+// make these fit on one line correctly
+
+ConfigScene/Canvas/imgWindow/ScrollView/Content/Node H/H/SemenType/text=IgnoreFontSize()
+ConfigScene/Canvas/imgWindow/ScrollView/Content/Node H/H/SemenType/text=ChangeFontSizeByPercentage(0.8)
+ConfigScene/Canvas/imgWindow/ScrollView/Content/Node H/H/SemenType=UGUI_HorizontalOverflow(overflow)
+ConfigScene/Canvas/imgWindow/ScrollView/Content/Node H/H/SemenType=ChangeFontSizeByPercentage(0.6)
+
+
+ConfigScene/Canvas/imgWindow/ScrollView/Content/Node Etcetra/Etc/InvertMoveX=ChangeFontSizeByPercentage(0.65)
+ConfigScene/Canvas/imgWindow/ScrollView/Content/Node Etcetra/Etc/InvertMoveY=ChangeFontSizeByPercentage(0.65)
+
+
+ConfigScene/Canvas/imgWindow/ScrollView/Content/Node Etcetra/Etc/title_ss=ChangeFontSizeByPercentage(0.7)
+ConfigScene/Canvas/imgWindow/ScrollView/Content/Node Etcetra/Etc/title_sss=ChangeFontSizeByPercentage(0.75)
+
+
+ConfigScene/Canvas/button=ChangeFontSizeByPercentage(0.8)
+
+

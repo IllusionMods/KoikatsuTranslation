@@ -1,5 +1,5 @@
 #set EXE Koikatu
-#set level -1,22 // -1 is some sort of preloader level...?
+#set level -1,22 // -1 is global default
 
 //
 // Extra -> Free-H Menu

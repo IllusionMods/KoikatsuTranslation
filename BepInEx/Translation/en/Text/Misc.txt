@@ -42,31 +42,6 @@
 ロング=Long
 ツイン=Twintails
 
-// Status information
-ステータス情報=Status Information
-名前順=By name
-好意順=By affection
-情報切替え=Switch info
-現在地=Location
-関係=Relationship
-好感度=Affection
-Ｈ度=H level
-Ｈ経験=H experience
-Ｈ回数=H count
-初めて=First time
-デート=Date
-未定=Undecided
-約束あり=Promised
-所属=Affiliated
-未所属=Not affiliated
-部員数=Club members
-恋人=Lover
-友達=Friend
-知り合い=Acquaintance
-初対面=First meeting
-状態=Status
-普通=Normal
-
 // Talk
 世間話=Small talk
 コイバナ=Love talk

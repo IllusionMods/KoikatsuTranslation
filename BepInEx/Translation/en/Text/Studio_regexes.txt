@@ -1,0 +1,15 @@
+#set exe CharaStudio
+
+// Regexes that help with translating scene folder names, etc.
+
+sr:"^カメラ[_\s]*(?<cam_num>[０-９0-9]+([~，～・、,－―][０-９0-9]+)*)[　\s]*(?<post_pre_i>[\[\(（<]+)(?<post>[^\]\)）>]+)(?<post_post_i>[\]\)）>]+)$"=Camera ${cam_num} ${post_pre_i}${post}${post_post_i}
+
+r:^カメラ[_\s]*([０-９0-9]+([~，～・、,－―-][０-９0-9]+)+)$=Camera $1
+
+sr:^カメラ[_\s]*(?<cam_num_i>[０-９0-9]+([~，～・、,－―][０-９0-9]+)*([：:　\s]*))(?<body>.*)$=Camera ${cam_num_i} ${body}
+
+sr:^シーン([０-９0-9]+)$=Scene $1
+
+sr:^シーン(?<scene_num>[０-９0-9]+)[　\s]*(?<post_pre_i>[\[\(（<]+)(?<post>[^\]\)）>]+)(?<post_post_i>[\]\)）>]+)$=Scene ${scene_num} ${post_pre_i}${post}${post_post_i}
+
+

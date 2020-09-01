@@ -1,0 +1,11 @@
+
+ClassRoomSelectScene/classroomcanvas/Check/Random/title=ChangeFontSizeByPercentage(0.8)
+ClassRoomSelectScene/classroomcanvas/Check/Random=ChangeFontSizeByPercentage(0.7)
+
+ClassRoomSelectScene/classroomcanvas/Check/Infomation/title=ChangeFontSizeByPercentage(0.8)
+ClassRoomSelectScene/classroomcanvas/Check/Infomation=ChangeFontSizeByPercentage(0.50)
+ClassRoomSelectScene/classroomcanvas/Check/Infomation=UGUI_HorizontalOverflow(overflow)
+
+ClassRoomSelectScene/classroomcanvas/Check/sldTemp=ChangeFontSizeByPercentage(0.7)
+
+ClassRoomSelectScene/classroomcanvas/Buttons=ChangeFontSizeByPercentage(0.75)
