@@ -52,9 +52,9 @@
 三角=Triangle
 
 // Used for both Facepaint as well as Body Paint
-r:"^ペイント([０-９]+)の種類$"=Paint $1 Type
-r:"^ペイント([０-９]+)の色$"=Paint $1 Color
-r:"^ペイント([０-９]+)回転$"=Paint $1 Rotation
+r:"^ペイント([０-９0-9]+)の種類$"=Paint $1 Type
+r:"^ペイント([０-９0-9]+)の色$"=Paint $1 Color
+r:"^ペイント([０-９0-9]+)回転$"=Paint $1 Rotation
 
 // Makeup Types (Both for Body and Face)
 ハート=Heart
@@ -249,18 +249,18 @@ r:"^タイプ([０-９0-9]+)$"=Type $1
 // Right Sidebar -> Pose Selections
 基本=Basic
 揺れ=Bouncing
-r:"^立ち([０-９]+)$"=Pose $1
-r:"^座り([０-９]+)$"=Sitting $1
-r:"^寝([０-９]+)$"=Laying $1
-r:"^特殊([０-９]+)$"=Special $1
-r:"^Ｈ([０-９]+)$"=H-Pose $1
-r:"^男立ち([０-９]+)$"=Male Standing $1
+r:"^立ち([０-９0-9]+)$"=Pose $1
+r:"^座り([０-９0-9]+)$"=Sitting $1
+r:"^寝([０-９0-9]+)$"=Laying $1
+r:"^特殊([０-９0-9]+)$"=Special $1
+r:"^Ｈ([０-９0-9]+)$"=H-Pose $1
+r:"^男立ち([０-９0-9]+)$"=Male Standing $1
 
 // Added by Emotion Creators Preorder DLC
 // Right Sidebar -> Hand Patterns
 左手のパターン=Left Hand Pattern
 右手のパターン=Right Hand Pattern
-r:"^パターン([0-9]+)$"=Pattern $1
+r:"^パターン([０-９0-9]+)$"=Pattern $1
 
 // Right Sidebar -> Light Direction Options
 ライトの向き調整=Light Direction
@@ -339,7 +339,7 @@ RGB=RGB
 
 // Face -> General -> Face Overlay Types
 シワ=Wrinkles
-r:"^強調([０-９]+)$"=Emphasis $1
+r:"^強調([０-９0-9]+)$"=Emphasis $1
 境界線=Boundary Lines
 目周りの影=Shadowed Eyes
 
@@ -382,8 +382,8 @@ r:"^耳の角度([A-Z])軸$"=Ear Angle $1 Axis
 コンフィグ依存=Config Decides
 
 // Face -> Eyes
-r:"^上まぶたの形状([０-９]+)$"=Upper Eyelid Shape $1
-r:"^下まぶたの形状([０-９]+)$"=Lower Eyelid Shape $1
+r:"^上まぶたの形状([０-９0-9]+)$"=Upper Eyelid Shape $1
+r:"^下まぶたの形状([０-９0-9]+)$"=Lower Eyelid Shape $1
 目の上下=Eye Vertical Position
 目の横位置=Eye Spacing
 目の前後=Eye Depth
@@ -453,7 +453,7 @@ r:"^瞳の色([①-⑨])$"=Eye Color $1
 ホクロ位置プリセット=Mole Position Presets
 
 // Face -> Moles -> Mole Types
-r:"^そばかす([０-９])$"=Freckles $1
+r:"^そばかす([０-９0-9])$"=Freckles $1
 
 // Face -> Moles -> Mole Position Presets
 ホクロ配置=Mole Position
@@ -1025,7 +1025,7 @@ r:"^外履き柄の色([０-９0-9]+)$"=Outdoor Shoe Pattern $1 Color
 // Without Emotion Creators Preorder Bonus
 エンブレムの種類=Emblem Type
 // Emotion Creators Preorder Bonus Allows for two Emblem slots now
-r:"^エンブレム(0[0-9])の種類$"=Emblem $1 Type
+r:"^エンブレム([０-９0-9]+)の種類$"=Emblem $1 Type
 // Used in some Emotion Creators Preorder Bonus Outfits
 袖の種類=Sleeve Type
 // Cosmetic Hackery...
@@ -1200,7 +1200,7 @@ r:"^年数([Ⅰ-Ⅹ])$"=Year $1
 くま=Bear
 鉄十字学園=Iron Cross Academy
 サイコうさぎ=Psycho Bunny
-r:"^番号(0[0-9])$"=Number $1
+r:"^番号([０-９0-9]+)$"=Number $1
 // Character Design Addon Pack Vol. 1 (add06)
 桔梗の紋(白)=Kikyou Crest (White)
 桔梗の紋(黒)=Kikyou Crest (Black)
@@ -1210,7 +1210,7 @@ r:"^番号(0[0-9])$"=Number $1
 //CAUTION
 //DANGER
 // Emotion Creators Preorder Bonus
-r:"^背番号([0-9]+)$"=Jersey Number $1
+r:"^背番号([０-９0-9]+)$"=Jersey Number $1
 一角獣=Unicorn
 
 // Clothing -> Bottom
@@ -1557,7 +1557,7 @@ r:"^スロット([０-９0-9]+)$"=Slot $1
 左右の親を入れ替え=Swap Sides
 r:"^カラー([①-⑨])$"=Color $1
 アクセサリの色を初期に戻す=Reset To Original Color
-r:"^調整([0-9]+)$"=Adjustment $1
+r:"^調整([０-９0-9]+)$"=Adjustment $1
 クリックで編集します=Click To Edit
 操作軸を表示する=Show Control Axis
 (                                )= (                             )
@@ -1570,11 +1570,11 @@ r:"^調整([0-9]+)$"=Adjustment $1
 
 // Fun Slot Adjustment Shit
 // You have no idea how tedious it was to type out the Non-RegEx version of this...
-r:"^スロット([0-9]+)の親を選択$"=Slot $1 Parent Selection
-r:"^スロット([0-9]+)の調整([0-9]+)$"=Slot $1 Adjustment $2
+r:"^スロット([０-９0-9]+)の親を選択$"=Slot $1 Parent Selection
+r:"^スロット([０-９0-9]+)の調整([０-９0-9]+)$"=Slot $1 Adjustment $2
 
 // Slot Colors ( And 80 lines withered away.)
-r:"^スロット([0-9]+) カラー([①-⑨])$"=Slot $1 Color $2
+r:"^スロット([０-９0-9]+) カラー([①-⑨])$"=Slot $1 Color $2
 
 // Accessory Movement Dialogue
 XYZの文字を左右ドラッグでも調整できます=You can also adjust X/Y/Z by dragging left or right.
@@ -1587,7 +1587,7 @@ r:"^拡縮 ([Ａ-Ｚ])$"=$1 Scale
 値をコピー=Copy Value
 値を貼り付け=Paste Value
 全てリセット=Reset All
-r:"^([0-9]+\.[0-9]+)$"=$1
+r:"^([０-９0-9]+\.[０-９0-9]+)$"=$1
 
 // Accessory Parent List
 親を選択=Parent Selection
@@ -1752,7 +1752,7 @@ r:"^細リボン([A-Z])$"=Fine Ribbon $1
 一角=Unicorn Horn
 // Character Design Addon Pack Vol. 2 (add08)
 メカレシーバー=Mecha Receiver
-r:"^メカ装甲([０-９])$"=Mecha Armor $1
+r:"^メカ装甲([０-９0-9])$"=Mecha Armor $1
 メカポッド=Mecha Pod
 メカシールド=Mecha Shield
 メカゴーグル=Mecha Goggles
@@ -1791,7 +1791,7 @@ r:"^メカ装甲([０-９])$"=Mecha Armor $1
 // Afterschool DLC (add20/25)
 ウェディングティアラ=Wedding Tiara
 ウェディングヴェール=Wedding Veil
-r:"^付け毛([0-9][0-9])$"=Hairpiece $1
+r:"^付け毛([０-９0-9]+)$"=Hairpiece $1
 // Afterschool Preorder DLC (add 21/22/23)
 ヘッドドレス=Headdress
 CAキャップ=Cabin Attendant Cap
@@ -2406,7 +2406,7 @@ No Image=No Image
 r:"^(:\s+)?([Ａ-Ｚ]+)型$"=$1Type $2
 
 // Birthdays
-r:"^(:\s+)?([0-9]+)月([0-9]+)日$"=$1$2/$3
+r:"^(:\s+)?([０-９0-9]+)月([０-９0-9]+)日$"=$1$2/$3
 
 // Clubs
 帰宅部=Going Home Club

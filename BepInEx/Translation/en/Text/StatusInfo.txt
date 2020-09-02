@@ -27,7 +27,6 @@
 親密度=Intimacy
 親密度は恋人のみ反映されます。=Intimacy is only displayed for lovers.
 
-r:"^([０-９0-9]+)\s*人$"=$1
 
 // Level Overrides - enforce these forms
 # set level 27
@@ -36,9 +35,3 @@ r:"^([０-９0-9]+)\s*人$"=$1
 慣れ=Experienced
 
 r:"^([０-９0-9]+)\s*人$"=$1
-
-// all latin chars - standard regex
-r:"^([\u0020-\u024F]+)\s+学園長$"=$1 Headmaster
-
-// not all latin chars - use splitter regex
-sr:"^(.*[\u0020-\u024F].*)\s+学園長$"=$1 Headmaster

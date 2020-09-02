@@ -141,3 +141,23 @@ BGMの音量=BGM volume
 
 
 プレイヤーの服装=Player's clothing
+
+// Default School Names, etc.
+コイカツ女学園 学園長=Koikatsu Girls' Academy, Headmistress
+コイカツ女学園=Koikatsu Girls' Academy
+学園長=Headmistress
+コイカツ部=Koikatsu Club
+
+// These are hitting at some level they aren't current set to
+//so adding them globally for now
+
+ランダム=Random
+サンプル=Sample
+トップ=Top
+ボトム=Bottom
+ブラ=Bra
+ショーツ=Underwear
+パンスト=Pantyhose
+手袋=Gloves
+靴下=Legwear
+靴 =Shoes
