@@ -63,8 +63,9 @@ r:"^カテゴリ([０-９0-9]+)$"=Category $1
 コメントを入れてください=Please enter comment
 ※既存の版権に抵触する恐れのある記述はお控えください。\n　確認次第削除させていただく場合がございます。=※Please refrain from infringing any copyrights. Infringing material will be deleted if confirmed.
 r:"^※既存の版権に抵触する恐れのある記述はお控えください。[\n\s]+確認次第削除させていただく場合がございます。$"=※Please refrain from infringing any copyrights. Infringing material will be deleted if confirmed.
+
 // not 100% sure on level for these, make them global
-# unset level 3,4,5
+#unset level 3,4,5
 キャラデータをアップロードしました=Uploading character data...
 キャラデータを追加しました=Downloading character data...
 本当にアップロードしますか？=Really upload this?

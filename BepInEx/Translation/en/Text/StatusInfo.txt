@@ -29,7 +29,7 @@
 
 
 // Level Overrides - enforce these forms
-# set level 27
+#set level 27
 怒り=Angry
 不慣れ=Inexperienced
 慣れ=Experienced
