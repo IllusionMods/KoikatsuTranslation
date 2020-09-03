@@ -1752,7 +1752,7 @@ r:"^細リボン([A-Z])$"=Fine Ribbon $1
 一角=Unicorn Horn
 // Character Design Addon Pack Vol. 2 (add08)
 メカレシーバー=Mecha Receiver
-r:"^メカ装甲([０-９0-9])$"=Mecha Armor $1
+r:"^メカ装甲([０-９0-9]+)$"=Mecha Armor $1
 メカポッド=Mecha Pod
 メカシールド=Mecha Shield
 メカゴーグル=Mecha Goggles

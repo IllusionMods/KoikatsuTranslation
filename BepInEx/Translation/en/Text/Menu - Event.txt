@@ -1,5 +1,18 @@
 #set EXE Koikatu
+#set level 21,7
+
+// Reset Confirmation Pop-up
+容姿を初期化しますか？=Reset To Default Appearance?
+
 #set level 21
+
+// Others
+各イベントに登場する先生とプレイヤーの容姿を設定します=Set the appearance for the Teachers and the Player for these Events.
+
+// Buttons
+容姿の初期化=Reset Appearance
+容姿の変更=Change Appearance
+
 
 //
 // Events Menu
@@ -45,6 +58,9 @@
 //
 //
 //
+
+
+// event title should be loaded from assets now. these will be removed shortly
 
 // Himekawa Mai
 初めての出会い=First Meeting
@@ -96,15 +112,4 @@
 おうちデート=A Date At Home
 二人きりのプールで=By Ourselves In The Pool
 
-// Others
-各イベントに登場する先生とプレイヤーの容姿を設定します=Set the appearance for the Teachers and the Player for these Events.
 
-// Buttons
-容姿の初期化=Reset Appearance
-容姿の変更=Change Appearance
-
-// Character Select Menu
-//Select A Character
-
-// Reset Confirmation
-容姿を初期化しますか？=Reset To Default Appearance?

@@ -96,31 +96,6 @@ Hしたい=Do H
 Ｈ力=H power
 選択肢=Choice
 
-// Character Upload
-アップロード=Upload
-ダウンロード=Download
-人気順に並べる=Sort by popularity
-総合=Total
-週間=Weekly
-新しい順に並べる=Newest first
-古い順に並べる=Oldest first
-キャッシュを有効にする=Enable cache
-キャッシュを削除=Empty cache
-利用規約=Terms of service
-血液型：=Blood type:
-名前：=Name:
-愛称：=Nickname:
-性格：=Personality:
-誕生日：=Birthday:
-部活：=Club:
-本当にアップロードしますか？=Really upload this?
-(一度見たキャラ画像の表示が早くなります)=(Characters loaded once will display faster in the future)
-※１~４GBのハードディスクの空き容量が必要です=※1-4 GB of free space required
-※既存の版権に抵触する恐れのある記述はお控えください。\r\n　確認次第削除させていただく場合がございます。=※Please refrain from infringing any copyrights. Infringing material will be deleted if confirmed.
-データを取得しています=Loading data..
-サーバーをチェックしています=Checking server..
-キャラデータをアップロードしました=Uploading character data..
-キャラデータを追加しました=Downloading character data..
 
 // -------------------custom
 名前を入力して下さい=Please enter a name
@@ -160,4 +135,9 @@ BGMの音量=BGM volume
 パンスト=Pantyhose
 手袋=Gloves
 靴下=Legwear
-靴 =Shoes
+靴=Shoes
+服の読み込み=Load An Outfit
+読込み=Load
+保存=Save
+トイレ覗き=Toilet Peeping
+シャワー覗き=Shower Peeping
