@@ -249,12 +249,44 @@ r:"^タイプ([０-９0-9]+)$"=Type $1
 // Right Sidebar -> Pose Selections
 基本=Basic
 揺れ=Bouncing
-r:"^立ち([０-９0-9]+)$"=Pose $1
-r:"^座り([０-９0-9]+)$"=Sitting $1
-r:"^寝([０-９0-9]+)$"=Laying $1
-r:"^特殊([０-９0-9]+)$"=Special $1
-r:"^Ｈ([０-９0-9]+)$"=H-Pose $1
-r:"^男立ち([０-９0-9]+)$"=Male Standing $1
+お姉さん座り=Onee-san Sit
+チアダンス待機=Pre-Cheer
+リップクリームを塗る待機=Lip Balm
+初期ポーズ=T-Pose
+女の子座り=Girly Sit
+隠すループ=Cover Self
+女マネキン=Girl Dummy
+男マネキン=Boy Dummy
+待機=Wait
+
+// some of the numbered poses have leading spaces
+r:"^\s*グラビア中腰([０-９0-9]+)?$"=Gravure Kneel $1
+r:"^\s*グラビア座り([０-９0-9]+)?$"=Gravure Sit $1
+r:"^\s*グラビア立ち([０-９0-9]+)?$"=Gravure Stand $1
+r:"^\s*ハロウィン([０-９0-9]+)?$"=Halloween $1
+r:"^\s*ファンタジーポーズ([０-９0-9]+)?$"=Fantasy $1
+r:"^\s*ポーズ([０-９0-9]+)?$"=Pose $1
+r:"^\s*メカポーズ([０-９0-9]+)?$"=Mecha $1
+r:"^\s*休日座り([０-９0-9]+)?$"=Hol. Sit $1
+r:"^\s*休日立ち([０-９0-9]+)?$"=Hol. Stand $1
+r:"^\s*会話待機([０-９0-9]+)?$"=Wait $1
+r:"^\s*和ポーズ([０-９0-9]+)?$"=Weak $1
+r:"^\s*喜([０-９0-9]+)$"=Happy $1
+r:"^\s*怒([０-９0-9]+)$"=Angry $1
+r:"^\s*哀([０-９0-9]+)$"=Sad $1
+r:"^\s*驚恥他([０-９0-9]+)$"=Surprise $1
+r:"^\s*立ち([０-９0-9]+)$"=Basic $1
+r:"^\s*基本立ち([０-９0-9]+)?$"=Basic Stand $1
+r:"^\s*壁立ち([０-９0-9]+)?$"=Wall Lean $1
+r:"^\s*前待機([０-９0-9]+)?$"=About To Begin $1
+r:"^\s*立ちポーズ([０-９0-9]+)?$"=Stand Pose $1
+r:"^\s*立ち([０-９0-9]+)?$"=Pose $1
+r:"^\s*座り([０-９0-9]+)?$"=Sitting $1
+r:"^\s*寝([０-９0-9]+)?$"=Laying $1
+r:"^\s*特殊([０-９0-9]+)?$"=Special $1
+r:"^\s*Ｈ([０-９0-9]+)?$"=H-Pose $1
+r:"^\s*男立ち([０-９0-9]+)?$"=Male Standing $1
+
 
 // Added by Emotion Creators Preorder DLC
 // Right Sidebar -> Hand Patterns
