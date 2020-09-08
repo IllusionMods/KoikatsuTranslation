@@ -1,0 +1,37 @@
+ステータス情報=Status Information
+名前順=By Name
+好意順=By Affection
+情報切替え=Switch Info
+現在地=Location
+関係=Relationship
+好感度=Affection
+Ｈ度=H Level
+Ｈ経験=H Experience
+Ｈ回数=H Count
+初めて=First Time
+デート=Date
+未定=Undecided
+約束あり=Promised
+所属=Member
+未所属=Non-Member
+部員数=Club Members
+恋人=Lover
+友達=Friend
+知り合い=Acquaintance
+初対面=First Meeting
+状態=Status
+普通=Normal
+怒り=Angry
+不慣れ=Inexperienced
+慣れ=Experienced
+親密度=Intimacy
+親密度は恋人のみ反映されます。=Intimacy is only displayed for lovers.
+
+
+// Level Overrides - enforce these forms
+#set level 27
+怒り=Angry
+不慣れ=Inexperienced
+慣れ=Experienced
+
+r:"^([０-９0-9]+)\s*人$"=$1

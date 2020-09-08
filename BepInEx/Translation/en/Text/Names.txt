@@ -4,13 +4,13 @@
 
 // Heroines and Faculty
 
-リナ ロベール=Lina Robert
+リナ ロベール=Lina Roberts
 リナ=Lina
-ロベール=Robert
+ロベール=Roberts
 リナ先生=Dr. Lina
 養護教諭=School Nurse
 
-櫻井 野乃花=Sakurai Nonaka
+櫻井 野乃花=Sakurai Nonoka
 櫻井=Sakurai
 野乃花=Nonoka
 ののか先生=Nonoka-sensei
