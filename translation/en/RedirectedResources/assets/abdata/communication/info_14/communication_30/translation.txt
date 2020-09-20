@@ -279,9 +279,9 @@
 「誰かとおしゃべりするのってストレス解消にもなるのよ。キミも楽しんでくれてるかしら？」=Chatting with someone sure works wonders for stress relief. Are you also having fun?
 「あら、難しい顔してどうしたのかしら？　何か楽しいお話を考えてくれてるの？」=Oh, did somethin happen for you to make that serious face? Are you thinking of fun conversations to have?
 「こういう時に黙っちゃうなんて……はぁぁ」=At times like these I should just be silent... Haah.
-「今の私、ちょっとイライラしちゃってる。何でだか……分かるわよね？」=Right now, I'm a bit frustrated. You Do you get it?
-「もう……全然すっきりしない。じゃあね」=Tsk... I can't seem to calm down. See ya later.
-「今度またキミとお話出来るのが楽しみよ。色々なこと、聞かせてね」=I'm looking forward to having another chat with you later. Tell me about lots of things, alright?
+「今の私、ちょっとイライラしちゃってる。何でだか……分かるわよね？」=Right now, I'm a bit frustrated. You do you know why... right?
+「もう……全然すっきりしない。じゃあね」=Geez... I can't seem to calm down. See you later.
+「今度またキミとお話出来るのが楽しみよ。色々なこと、聞かせてね」=I'm looking forward to talking with you again. Let's talk about lots of things, alright?
 「健全なお話も楽しいけど……次回はもう少しドキドキするお話でも……なーんて。ふふっ、それじゃまたね」=Wholesome conversation is fun but... let's have a more heart-throbbing conversation maybe next time... just an idle thought. Fufu, then, I'll see you later~
 「楽しい時間をありがとう。またお話しましょうね」=Thanks for the fun times. Let's talk again sometime.
 「ええ、またいつでも声を掛けて。楽しみに待ってるわね」=Yes, call for me again at any time. I'll be looking forward to it.
