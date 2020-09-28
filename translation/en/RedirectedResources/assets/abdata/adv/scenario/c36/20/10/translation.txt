@@ -1,8 +1,8 @@
-「は？　そんな得体の知れない部活に、私が入るわけないでしょ」="What? There's no way I'd join a mysterious club like this."
-「そこを何とか！　ほら、入ってみれば自ずとわかるし……」="Please reconsider! If you join, it won't be mysterious anymore!"
-「それでは手遅れでしょう。家畜小屋に自ら入るなんて、どうかしてるわ」="Then it'll be too late, right? You have to be crazy to think that I'd enter a livestock shed."
-「か、家畜小屋にもいいところはあるよ？」="L-livestock shed also has its good points, you know?"
-「へぇ、例えば？　一回だけチャンスをあげるわ。私に興味を持たせてみなさい」="Oh really? For example? I'll give you one chance. Arouse my interest."
-「えっと、ほら……家畜小屋に[H名]さんが来たら、家畜は全部、[H名]さんのものだよ！」="Umm, so... If Miss [H名] comes to a shed, all livestock belongs to Miss [H名]!"
-「確かに、その通りね。フフッ、中々面白そうじゃない。いいわ、コイカツ部、入ってあげる」="Yeah, it's as you say... Fufu, it's getting quite interesting. Alright, I'll join Koikatsu Club."
-（勢いで凄い事言っちゃったけど……まぁなんとかなる……よね？）=(I said some crazy stuff there, but... It'll work out somehow... right?)
+「は？　そんな得体の知れない部活に、私が入るわけないでしょ」=Haa? There's no way I'd join such a suspicious club.
+「そこを何とか！　ほら、入ってみれば自ずとわかるし……」=Please reconsider! You'll understand what it's about once you join….
+「それでは手遅れでしょう。家畜小屋に自ら入るなんて、どうかしてるわ」=Then it'll be too late, right? You have to be crazy to think that I'd enter an animal pen willingly
+「か、家畜小屋にもいいところはあるよ？」=E-Even an animal pen has it's charms, you know?
+「へぇ、例えば？　一回だけチャンスをあげるわ。私に興味を持たせてみなさい」=Heh? For example? I'll give you one chance. Arouse my interest.
+「えっと、ほら……家畜小屋に[H名]さんが来たら、家畜は全部、[H名]さんのものだよ！」=Uhm, Look…. If [H名]-san were to come to the animal pen, all the animals in the pen would belong to you!
+「確かに、その通りね。フフッ、中々面白そうじゃない。いいわ、コイカツ部、入ってあげる」=Certainly, that is true... Fufu, it's getting quite interesting. Alright, I'll join Koikatsu Club.
+（勢いで凄い事言っちゃったけど……まぁなんとかなる……よね？）=(I said some crazy stuff there in the heat of the moment, but... It'll work out somehow... right?)

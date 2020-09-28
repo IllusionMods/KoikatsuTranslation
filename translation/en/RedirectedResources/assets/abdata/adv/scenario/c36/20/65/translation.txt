@@ -1,3 +1,3 @@
-「貴方と並んで帰るなんて、不思議な気分ね。ほら、何か面白い話の一つでもしなさい」="It's a strange feeling, walking home alongside you. C'mon, say something interesting."
-「えっ！？　えっとぉ……いつもは誰と帰ってるの？」="Huh? U-um... Is there someone you usually go home with?"
-「特にいないわよ。誰かと一緒に帰る事自体が珍しいわね。で？　これが面白い話なの？」="No, not really. Going home with anyone is rather rare for me. So? Is that something interesting?"
+「貴方と並んで帰るなんて、不思議な気分ね。ほら、何か面白い話の一つでもしなさい」=Walking home alongside you like this, it's quite the weird feeling. Come on, say something interesting, even just an opener. 
+「えっ！？　えっとぉ……いつもは誰と帰ってるの？」=Eh--!? Uhmmm.... Usually, who do you go home with?
+「特にいないわよ。誰かと一緒に帰る事自体が珍しいわね。で？　これが面白い話なの？」="No one in particular. In the first place, going home with anyone is pretty rare for me. So? Is this the ""interesting"" conversation you came up with?"

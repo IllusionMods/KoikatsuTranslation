@@ -1,6 +1,6 @@
-「はぁっ、楽しかった時間も、そろそろ終わりだね」="*Sigh* our pleasant time is about to end."
-「そうね。夢の時間は終わり、辛くて面倒な現実に帰るのよ」="Yeah. The dream's time is ending, we're going back to bitter and troublesome reality."
-「うぅ……なんか一気に体が重くなってきた」="Uu... Somehow my body's suddenly gotten heavier."
-「あら、私は普段の生活も好きよ。苛め甲斐のある下僕がいるからね」="Oh, but I like a normal life too. That's because I have a manservant to bully."
-「はは、そうだね。[H名]さんと一緒にいられるなら、それだけで俺も満足かな」="Haha, I guess. If I'm together with Miss [H名], I also feel satisfied."
-「ふぅん、生意気言うようになったじゃない。フフッ」="Huuh, you've learned how to speak brazenly, huh. Fufu~"
+「はぁっ、楽しかった時間も、そろそろ終わりだね」=Haa--, Looks like our fun time is just about over.
+「そうね。夢の時間は終わり、辛くて面倒な現実に帰るのよ」=Seems so. Fantasy time is over, and now we go back to the harsh, troublesome reality.
+「うぅ……なんか一気に体が重くなってきた」=Uuu… I feel like my body's suddenly gotten heavier.
+「あら、私は普段の生活も好きよ。苛め甲斐のある下僕がいるからね」=Oh my, I personally like the usual ordinary life as well. After all, I have a manservant worth bullying.
+「はは、そうだね。[H名]さんと一緒にいられるなら、それだけで俺も満足かな」=Haha, Indeed. If I can just be together with you, [H名]-san, then I'm also satisfied.
+「ふぅん、生意気言うようになったじゃない。フフッ」=Hmm, you've sure become quite cheeky, haven't you. Fufu--

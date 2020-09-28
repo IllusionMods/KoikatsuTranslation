@@ -1,4 +1,4 @@
-「グラウンドに来たという事は、走り込み？　基本だけど、また地味なものを選んだわね」="We've come to the sports ground to run around? It's a basic sport, but you've chosen something plain again."
-「運動しながらも話せたらいいなって思って、並んでジョギングなんてどう？」="I thought we could chat while jogging side-by-side. How's that sound?"
-「いいわよ、私のペースに付いてこれるならね。遅れたら容赦なく置いていくから、そのつもりで」="Alright, if you can keep up with me that is. If you are too slow, I'll mercilessly leave you behind. I mean it."
-「よし、わかった！　気合を入れて、意地でも付いていくよ！」="Ok, understood! I'll keep up with you no matter what!"
+「グラウンドに来たという事は、走り込み？　基本だけど、また地味なものを選んだわね」=We came to the ground to do, what, long distance running? It's the basic foundation but, you sure picked something plain again.
+「運動しながらも話せたらいいなって思って、並んでジョギングなんてどう？」=I thought it'd be great to chat while exercising, so how does side-by-side jogging sound?
+「いいわよ、私のペースに付いてこれるならね。遅れたら容赦なく置いていくから、そのつもりで」=Alright, if you can keep up with me. If you fall behind, I won't even spare you a glance, so act accordingly. 
+「よし、わかった！　気合を入れて、意地でも付いていくよ！」=Alright, I got it! I'll do my best, and keep up with you no matter what!

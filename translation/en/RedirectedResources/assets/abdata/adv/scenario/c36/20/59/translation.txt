@@ -1,2 +1,2 @@
-「悪くはなかったけれど、良くもなかったわ。次はもっと考えておく事。もう少しだけ、チャンスをあげるわ」="It wasn't bad, but not good either. I hope next time will be better. I'll give you another chance."
-「理解している？　この私と、またデートできる機会があるという事よ？　はぁ、家畜のレベルで話すのは面倒ね」="Do you get it? You'll have an opportunity to go on a date with me again. Eh, it's difficult to speak so that livestock can understand."
+「悪くはなかったけれど、良くもなかったわ。次はもっと考えておく事。もう少しだけ、チャンスをあげるわ」=Wasn't bad, but it wasn't great either. Do better next time. I'll give you just one more chance.
+「理解している？　この私と、またデートできる機会があるという事よ？　はぁ、家畜のレベルで話すのは面倒ね」=Do you understand? I'm saying you still have a chance to go on a date with me again. Haa, it's a pain to talk on the same level as livestock. 
