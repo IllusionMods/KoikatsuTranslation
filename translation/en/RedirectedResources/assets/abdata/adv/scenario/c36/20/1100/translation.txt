@@ -1,25 +1,25 @@
 「これより新婦が入場致します。後方の扉口をご覧ください」=And now, the bride will make her entrance. Please pay attention to the main door.
-（[H名]さん……）=([H名]-san….)
+（[H名]さん……）=([H名]-san...)
 俺の事を下僕と言って、どんな時も罵る事を忘れなかった[H名]さん。=`[H名]-san, who always called me her manservant, who verbally abused me at every opportunity she got.`
 そんな彼女が、俺の花嫁として、純白のウェディングドレスを着ている。=`That woman is now wearing a pure white wedding dress, as my bride.`
 誰にも染められない筈の[H名]さんが、あなた色に染まりますという意味のドレスを着ているんだ。=`[H名]-san, who refuses to let herself be stained by anyone else's colors, is now wearing such a dress, as if asking me to stain her with mine. `
-（ヤバイ……もう泣いちゃいそうだ……でも、絶対[H名]さんにどやされるよなぁ……）=(Not good… I feel like crying already… But [H名]-san will surely beat me up if I do….)
-「それではこれより、式を執り行います」=Then without further ado, let's start the ceremony
+（ヤバイ……もう泣いちゃいそうだ……でも、絶対[H名]さんにどやされるよなぁ……）=(Not good... I feel like crying already... But [H名]-san will surely beat me up if I do...)
+「それではこれより、式を執り行います」=Then without further ado, let's start the ceremony.
 「新たなご出発の証として、お二人には誓いの言葉を立てていただきます」=As the proof of a fresh departure, you both have to make certain vows.
-「[P名]さん、あなたは今、この女性を妻とし夫婦になろうとしています」=Mr. [P名], Right now, you are about to become a married couple, with this woman as your wife. 
-「汝、健やかなるときも、病めるときも、喜びのときも、悲しみのときも、富めるときも、貧しいときも」=Do you promise, in times of sickness or in health, in times of happiness or sadness, whether you are rich or poor
+「[P名]さん、あなたは今、この女性を妻とし夫婦になろうとしています」=Mr. [P名], Right now, you are about to become a married couple, with this woman as your wife.
+「汝、健やかなるときも、病めるときも、喜びのときも、悲しみのときも、富めるときも、貧しいときも」=Do you promise, in times of sickness or in health, in times of happiness or sadness, whether you are rich or poor?
 「これを愛し、これを敬い、これを慰め、これを助け、その命ある限り、真心を尽くすことを誓いますか？」=to love her, to respect her, to comfort her, to support her, till the end of days, to the full extent of your abilities?
 「はい、誓います」=Yes, I do.
-「[H名]さん、あなたは今、この男性を夫とし夫婦になろうとしています」=Miss [H名], Right now, you are about to become a married couple, with this  man as your husband.
+「[H名]さん、あなたは今、この男性を夫とし夫婦になろうとしています」=Miss [H名], Right now, you are about to become a married couple, with this man as your husband.
 「では、二人の誓いの印として、指輪の交換を致します」=Then, as the proof of your vows, you may now exchange the rings.
 「初めに新郎から新婦へ」=First from the groom to the bride.
 「フフッ、手、震えてるわよ？」=Fufu, your hands are shaking, you know?
-「ご、ごめん……流石に緊張しちゃって」=S-Sorry… I'm just really nervous
-「頑張りなさい、ほんの数分の事よ。でも、一生の中で最も大切な数分だわ」=Hang on, Do your best, It's just a matter of a few more minutes. Although, these few minutes are the most important minutes of our lives. 
-「うん……わかってる。しっかり頑張るよ」=Yeah…. I know. I'll do my best.
+「ご、ごめん……流石に緊張しちゃって」=S-Sorry... I'm just really nervous.
+「頑張りなさい、ほんの数分の事よ。でも、一生の中で最も大切な数分だわ」=Hang on, Do your best, It's just a matter of a few more minutes. Although, these few minutes are the most important minutes of our lives.
+「うん……わかってる。しっかり頑張るよ」=Yeah... I know. I'll do my best.
 「新婦から新郎へ」=Now from the bride to the groom.
 「あれ、[H名]さんも手、震えてない？」=Huh, [H名]-san, aren't your hands shaking too?
-「貴方の錯覚よ。自分が震えているから、そう見えるだけ。あと呼び方……ね？」=It's just your delusion. You're shaking, so everything looks like it's shaking to you. Also, that way of calling… Please?
+「貴方の錯覚よ。自分が震えているから、そう見えるだけ。あと呼び方……ね？」=It's just your delusion. You're shaking, so everything looks like it's shaking to you. Also, that way of calling... Please?
 「そっか、ごめん[H名]。なんか謝ってばっかりだね、俺」=Right, Sorry, [H名]. Somehow, I feel like I'm doing nothing but apologizing.
 「最後に、愛の証としてキスをしていただきます」=Finally, as the proof of your love, you may now kiss each other.
 「……[H名]、愛してる」=...[H名], I love you.
@@ -33,20 +33,23 @@
 「だからね、パートナーになったって、貴方は下僕のまま。一生私の下僕でいなさい。命令よ」=That's why, even as partners, you'll still be my manservant. Be my manservant for our whole lives. It's an order.
 「うん、喜んでっ」=Yes, with pleasure--.
 「さぁ、貴方からは何かないの？　さっきも言ったけど、大事な数分間よ？」=Now then, won't you say a few words as well? I said it before as well, but these are some very precious minutes of our lives, you know?
-「えっと、俺……[H名]の事を愛してる。絶対幸せにする！」=Uhm, I… really love you, [H名]. I'll definitely make you happy!
-「えぇ、しなさい。私を幸せに、貴方も一緒に幸せに、してみせなさい。私も……愛してるわ」=Yes, do that. Make me happy, Be happy together with me. I… love you too.
-「うんっ、うんっ……ありがとう。本当に、[H名]と出会えてよかった。これからもずっと一緒に、いてください！」=Yeah--, Yeah--…. Thank you. I'm truly glad I met you, [H名]. Please stay with me forever!
-「ん、んふっ……」=Nn, nnfuu--…..
+「えっと、俺……[H名]の事を愛してる。絶対幸せにする！」=Uhm, I... really love you, [H名]. I'll definitely make you happy!
+「えぇ、しなさい。私を幸せに、貴方も一緒に幸せに、してみせなさい。私も……愛してるわ」=Yes, do that. Make me happy, Be happy together with me. I... love you too.
+「うんっ、うんっ……ありがとう。本当に、[H名]と出会えてよかった。これからもずっと一緒に、いてください！」=Yeah--, Yeah--... Thank you. I'm truly glad I met you, [H名]. Please stay with me forever!
+「ん、んふっ……」=Nn, nnfuu--...
 ………………=.........
 …………=......
 ……=...
 「フフフッ、頑張ったわね。ご褒美は、この私よ」=Fufufu--, You sure worked hard. For your reward, you get me.
 「ここに二人の愛は結ばれました」=Here, the love of these two has been bound together.
 「それでは、皆様に誓いの印である指輪をご披露ください」=Now then, please present the proof of vows to everyone present.
-「あぁ、やばい泣きそう……ぐすっ、ありがとう[H名]……ありがとう皆っ！　俺達、最高に幸せですっ！」=Aaah, No good, I'm feel like crying… *Sob*, Thank you, [H名]…. Thank you, Everyone! We couldn't be happier!
-「ほら、涙拭きなさい。本当にもう……最後の最後で、しまらないわね。フフッ」=Come on, Wipe your tears. Seriously… You're hopeless to the very end. Fufu--
-「だって……俺嬉しくて……[H名]さんと……ぐすっ、[H名]と結婚できたんだって思ったら……涙止まんなくてっ」=It's just…. I'm just so happy… When I think about… When I think about how I just married you, [H名]…. The tears just don't stop coming out--
-「あのねぇ、感極まって泣くのは普通私の役割なのよ？　まぁいいわ、私の分まで、みっともない姿を晒しなさい。アナタ……」=You know, normally it is the bride's role to be the one overcome with emotions, to be the one crying like that. Well, It's fine I suppose. Show that unbecoming sight to everyone, enough for the both of us, my darling….
+「あぁ、やばい泣きそう……ぐすっ、ありがとう[H名]……ありがとう皆っ！　俺達、最高に幸せですっ！」=Aaah, No good, I'm feel like crying... *Sob*, Thank you, [H名]... Thank you, Everyone! We couldn't be happier!
+「ほら、涙拭きなさい。本当にもう……最後の最後で、しまらないわね。フフッ」=Come on, Wipe your tears. Seriously... You're hopeless to the very end. Fufu--
+「だって……俺嬉しくて……[H名]さんと……ぐすっ、[H名]と結婚できたんだって思ったら……涙止まんなくてっ」=It's just... I'm just so happy... When I think about... When I think about how I just married you, [H名]... The tears just don't stop coming out--
+「あのねぇ、感極まって泣くのは普通私の役割なのよ？　まぁいいわ、私の分まで、みっともない姿を晒しなさい。アナタ……」=You know, normally it is the bride's role to be the one overcome with emotions, to be the one crying like that. Well, It's fine I suppose. Show that unbecoming sight to everyone, enough for the both of us, my darling...
 
 モブ=Mob
 牧師=Pastor
+
+
+

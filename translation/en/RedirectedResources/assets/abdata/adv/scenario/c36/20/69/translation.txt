@@ -1,8 +1,11 @@
 「じゃあ、とりあえず始めていこうか」=Well then, for the time being, I suppose we should study.
 「とりあえずって何？　貴方、いつもそんな適当な勉強の仕方をしているの？」="What's with that ""For the time being""? Do you always study in that sort of half-hearted manner?"
-「えっ、まぁ、気が乗ったところから手を付けてく感じかなぁ……」=Eh--, Well, I start with whichever part interests me the most, I guess….
+「えっ、まぁ、気が乗ったところから手を付けてく感じかなぁ……」=Eh--, Well, I start with whichever part interests me the most, I guess...
 「集中力散漫ね。それで良く、一緒に勉強しようなんて言えたものだわ」=You sure have a short attention span. And yet, somehow you still found it within yourself to invite me to a study session.
 「いやでも、一つのところでずっと詰まるよりは、効率がいい時もあるんだよ？」=No but, rather than being stuck on the same place for a long time, it sometimes ends up being really efficient to switch problems, no?
 「ほら、どう？　結構捗ったと思わない？」=Look, how is it? Don't you think I've made quite a bit of progress?
 「誤差の範囲よ。まぁ、全然ダメだと思っていたから、予想以上の結果ではあるわね」=It's within margin of error. Well, this is better than I expected, if only because I thought you were completely hopeless.
 「でしょでしょ？　次は[H名]さんの勉強のやり方も知りたいな」=See, See? I wanna see the way you study as well, [H名]-san.
+
+
+

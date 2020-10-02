@@ -1,6 +1,9 @@
-「喜びなさい。この私が、下僕の餌を作ってきてあげたわ」=Rejoice. I've prepared some fodder for you, manservant. 
-「えっ！？　下僕の餌って……ぇ？　本当に[H名]さんの手作り？　手作り弁当？」=Eh--!? Fodder… eh? Did you really make this, [H名]-san? A handmade boxed lunch?
+「喜びなさい。この私が、下僕の餌を作ってきてあげたわ」=Rejoice. I've prepared some fodder for you, manservant.
+「えっ！？　下僕の餌って……ぇ？　本当に[H名]さんの手作り？　手作り弁当？」=Eh--!? Fodder... eh? Did you really make this, [H名]-san? A handmade boxed lunch?
 「そうね、強いていうなら下僕弁当かしら。ほら、いらないの？」=I suppose, If I had to say, it would be a manservant's boxed lunch. You don't want it?
 「いえっ！　いります！　食べさせて頂きます！　ありがとうございます！」=No--! I do! Let me have the honour of eating it! Thank you very much!
 「フフッ、素直なところは貴方の数少ない美点ね。さぁ、私の気が変わらないうちに、早く食べなさい」=Fufu--, your obedience is one of your few good points. Come now, quickly eat it, before I change my mind.
-「喜んで！　おぉぉ……こ、これが[H名]さんの手作り弁当……俺、明日死ぬのかな？」=With pleasure! Oooo…... S-so this is [H名]-san's handmade lunch… Am I going to die tomorrow?
+「喜んで！　おぉぉ……こ、これが[H名]さんの手作り弁当……俺、明日死ぬのかな？」=With pleasure! Oooo...... S-so this is [H名]-san's handmade lunch... Am I going to die tomorrow?
+
+
+

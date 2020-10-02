@@ -1,8 +1,8 @@
 「はぁ、喫茶店まで来て、何故コーヒーではなくウーロン茶を頼むの？　やっぱり貴方センスないわね」=Haa, we've bothered to come to this coffee shop, so why are you ordering oolong tea instead of coffee? You really do have no sense whatsoever.
 「い、いいでしょ。ウーロン茶だって美味しいよ？」=I-Isn't it fine? Oolong Tea tastes pretty good too.
 「ウーロン茶に罪はないわ。美味しいのも認める。私が言っているのは貴方のセンスの話よ」=There's no sin in getting oolong tea. I'll admit that it's good. What I'm talking about is your lack of sense.
-「今日はたまたまだよ。そこまで言うなら、次はコーヒーを頼むから……」=I just happened to order it today. If you're going to go that far, then I'll get coffee next time…
-「ふぅん、いつもそう言って、結局ウーロン茶じゃない。くだらない見栄を張るのはよしなさい」=Hmmm, you always say that, but in the end you default to oolong tea. Stop putting on pointless airs. 
+「今日はたまたまだよ。そこまで言うなら、次はコーヒーを頼むから……」=I just happened to order it today. If you're going to go that far, then I'll get coffee next time...
+「ふぅん、いつもそう言って、結局ウーロン茶じゃない。くだらない見栄を張るのはよしなさい」=Hmmm, you always say that, but in the end you default to oolong tea. Stop putting on pointless airs.
 「ぐっ、そんなにコーヒーにこだわるなら、[H名]さんは相当飲み慣れてるんだよね？」=Guh--, If you're so fixated on coffee, then you must be pretty experienced with drinking it yourself, no, [H名]-san?
 「は？　お酒ならともかく、コーヒーに飲み慣れるも何もないでしょう」=Hah? Alcohol is one thing, but there's nothing unusual about being used to drinking coffee.
 「いやほら、砂糖とかミルクを入れるか、それともブラックかで派閥があったりするでしょ？」=No, what I meant was, everyone likes it different, right? Some people add sugar and milk, some people prefer it black.
@@ -13,8 +13,11 @@
 「ち、違うよ！　出来る女のイメージっていうか、女傑？　女帝？　とにかくそんな感じ」=N-No, that's not what I meant! I was trying to say you had a capable woman sort of image, rather, heroine-ish? Amazonian? A queen? That kind of feeling.
 「フフッ、まぁ専属の下僕がいるからね。女帝のイメージというのは、間違いではないかもしれないわ」="Fufu--, Well, I do have an exclusive manservant, afterall. I don't think that ""queen"" image is all that far off the mark. "
 「砂糖もミルクも入れるわよ。特に砂糖は多めかしら」=I add both milk and sugar to mine. Especially sugar, I usually go for a little extra.
-「へぇ意外。[H名]さんはカッコよくブラックを飲んでるイメージだったなぁ」=Huh, that's pretty unexpected. I had an image of you drinking black coffee, being all cool and stuff, in my head. 
+「へぇ意外。[H名]さんはカッコよくブラックを飲んでるイメージだったなぁ」=Huh, that's pretty unexpected. I had an image of you drinking black coffee, being all cool and stuff, in my head.
 「それ、いつも疑問に思ってたのよね。ブラックがカッコイイとか、誰が決めたのよ」=You know, I've always wondered about that. Who decided one day that drinking black coffee is cool?
-「えっ、誰がって、それはわかんないけど……一般的なイメージじゃない？」=Eh--, Even if you ask me… It's a popular image nowadays, no?
+「えっ、誰がって、それはわかんないけど……一般的なイメージじゃない？」=Eh--, Even if you ask me... It's a popular image nowadays, no?
 「そうやって、皆が言っているからと流されるのはやめなさい。私の下僕として、相応しくないわよ」=Stop getting carried away with popular trends like that. It isn't fitting of you, as my manservant.
 「ぁっ、はい。以後気を付けます……」=Ah--, Yes. I'll be more careful from now on.
+
+
+

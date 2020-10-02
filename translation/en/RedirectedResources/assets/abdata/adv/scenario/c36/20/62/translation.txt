@@ -3,9 +3,12 @@
 ……=...
 「下僕の家はこの辺りだったわね。荷物持ちご苦労様。もういいわよ、返しなさい」=Your house was somewhere around here, no, Manservant? Good work with those bags. You can hand those back now.
 「もう少し一緒にいられないかな？　俺の家まで、荷物持つよ」=Can't we stay together for a bit more? I'll carry your stuff till my house.
-「そうねぇ、荷物持ちのご褒美もあげないといけないし……フフッ、いいわよ」=Hmm, Indeed, I also do need to give you a reward for carrying my stuff… Fufu, Alright.
+「そうねぇ、荷物持ちのご褒美もあげないといけないし……フフッ、いいわよ」=Hmm, Indeed, I also do need to give you a reward for carrying my stuff... Fufu, Alright.
 「うん、わかった。気を付けて帰ってね。じゃあ、また」=Yeah, Got it. Get home safely, okay? Then, See ya.
 「あら、下僕に心配されてしまったわ。フフッ、貴方こそ愚図なんだから、気を付けて帰りなさい」=Oh my, I made my manservant worry about me. Fufu--, You're quite the dullard yourself, so you should be careful on the way home too.
 
-CHOICE:「もう少し一緒にいられないかな？」=CHOICE: Can't we stay together for a bit more?
-CHOICE:「うん、わかった。気を付けて帰ってね」=CHOICE: Yeah, Got it. Get home safely, okay?
+CHOICE:「もう少し一緒にいられないかな？」= Can't we stay together for a bit more?
+CHOICE:「うん、わかった。気を付けて帰ってね」= Yeah, Got it. Get home safely, okay?
+
+
+

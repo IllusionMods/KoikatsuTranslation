@@ -1,3 +1,6 @@
 「デート？　下僕と遊んであげる事を、デートと言うのかしら？」="A date? Messing around with my manservant is called ""a date"" now?"
-「えっと、言い方は任せる……一緒にいてくれるだけで、嬉しいし」=Uhm, You can call it whatever you want…. I'm just happy to go along with you.
+「えっと、言い方は任せる……一緒にいてくれるだけで、嬉しいし」=Uhm, You can call it whatever you want... I'm just happy to go along with you.
 「そう、なら敢えてデートのままでいいわ。付き合ってあげるから、楽しませてみせなさい」="I see, then I suppose ""date"" is fine enough, not that it matters. I'll keep you company, so show me a good time."
+
+
+

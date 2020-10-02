@@ -1,9 +1,12 @@
 「喜びなさい、貴方の名前、憶えてあげたわ」=Rejoice, for I have done you the honour of remembering your name.
-「えっ、それって……呼んでくれるって事？」=Eh--, Does that mean…. You're going to call me by my name now?
+「えっ、それって……呼んでくれるって事？」=Eh--, Does that mean... You're going to call me by my name now?
 「いいえ、ただの家畜から、名前のある豚になっただけよ。それだけでも十分なご褒美でしょう？」=No, you've just been promoted from nameless livestock to a pig with a name. That alone should be a sufficient enough reward, no?
 「う、うん！　そうだね！　一歩前進って事だもんね！」=Y-Yeah! You're right! It's a step forward if nothing else!
 「どう取るかは貴方次第よ。ただ、私を失望させるような真似はしないことね」=How you take it is up to you. However, try not to act in a way that'll disappoint me, okay?
 「わかってる。俺頑張るよ！」=I understand. I'll work hard!
 「フフッ、興奮し過ぎよ。少しは恥じらいというものを持ちなさい、人間扱いして欲しいならね」=Fufu--, You're getting too excited. Have some restraint, if you wish to be treated like a human, that is.
-「あはは……でも、喜べって言ったのは[H名]さんだよ？」=Ahaha… But, you're the one who told me to rejoice, [H名]-san.
+「あはは……でも、喜べって言ったのは[H名]さんだよ？」=Ahaha... But, you're the one who told me to rejoice, [H名]-san.
 「ふぅん、言うようになったじゃない。少し前までただの家畜だったのに、生意気ね」=Hmm, you've sure found your voice, haven't you. Even though you were nothing but nameless livestock until now. How cheeky.
+
+
+

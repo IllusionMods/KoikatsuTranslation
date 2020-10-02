@@ -1,16 +1,19 @@
-「たまにはこういう所でゆっくりするのもいいわね。貴方にしては、良い店を選んだじゃない」=It's nice to take it easy in a place like this every once in a while, isn't it. Quite the nice shop, considering who picked it. 
+「たまにはこういう所でゆっくりするのもいいわね。貴方にしては、良い店を選んだじゃない」=It's nice to take it easy in a place like this every once in a while, isn't it. Quite the nice shop, considering who picked it.
 「気に入ってくれて良かった。色々調べて、予約しておいたんだ」=I'm glad that you like it. I researched quite a bit before I made reservations here.
-「そういう事はいちいち言わないものよ。下僕なりに努力した事くらい、察せない主ではないわ」=Don't bring up every small thing like that. I'm not a heartless master, someone who doesn't recognize how hard their manservant works. 
+「そういう事はいちいち言わないものよ。下僕なりに努力した事くらい、察せない主ではないわ」=Don't bring up every small thing like that. I'm not a heartless master, someone who doesn't recognize how hard their manservant works.
 「しかし考えたわね。お店の中なら、私は派手に貴方を苛められない。そういう事でしょ？」=But, you've sure thought this through. If we're inside this shop, I can't bully you too conspicuously. Isn't that it?
-「いや、そこまでは考えてなかったんだけど……二人きりになれる所の方が良かったかな？」=No, I didn't really think that far… Would it have been better if I picked some place we could be alone together instead?
-「私はどっちでも構わないわ。貴方が苛めて欲しいと言うのなら、場所を変える事をオススメするけど」=I don't particularly mind either way. But, if you want me to bully you, I'd recommend we switch locations
-「えっと、それは……あー、とりあえずカラオケとかに行こうか！　二人きりで楽しめそうだし！」=Uhm, That's….. Aah, For the time being, let's head to a Karaoke bar or something! We could enjoy it just by ourselves!
+「いや、そこまでは考えてなかったんだけど……二人きりになれる所の方が良かったかな？」=No, I didn't really think that far... Would it have been better if I picked some place we could be alone together instead?
+「私はどっちでも構わないわ。貴方が苛めて欲しいと言うのなら、場所を変える事をオススメするけど」=I don't particularly mind either way. But, if you want me to bully you, I'd recommend we switch locations.
+「えっと、それは……あー、とりあえずカラオケとかに行こうか！　二人きりで楽しめそうだし！」=Uhm, That's... Aah, For the time being, let's head to a Karaoke bar or something! We could enjoy it just by ourselves!
 「いいんじゃない。そうね、とても楽しめそう。二人きりなら、遠慮はいらないもの。フフフッ」=Sounds great. Indeed, we could enjoy it a lot. If we're by ourselves, there's no need for restraint. Fufufu--
 「ふぅ、それなりに楽しめたわ。それじゃあ、ここでお別れでいいかしら？」=Fuu, I enjoyed it quite a bit. Well then, shall we call it here for today?
 「あ、待って！　もう少しだけ、一緒にいられないかな？」=Ah, wait! Can we not stay together, just for a little bit more?
-「あら、未練がましいわね。でもいいわ、貴方の家に行きましょ。もう少しだけ、遊んであげる」=Oh my, don't know when to let go, huh? But it's fine, let's go to your house. I'll play with you, just a little bit more. 
+「あら、未練がましいわね。でもいいわ、貴方の家に行きましょ。もう少しだけ、遊んであげる」=Oh my, don't know when to let go, huh? But it's fine, let's go to your house. I'll play with you, just a little bit more.
 「うん、今日はありがとう。本当に楽しかった。またね」=Yeah, Thanks for today. I truly enjoyed it. See ya.
 「気が乗ったら、また遊んであげてもいいわ。フフッ、じゃあね」=I don't mind hanging out again with you, if you ever get in the mood. Fufu--, Bye.
 
-CHOICE:「あ、待って！　もう少しだけ、一緒にいられないかな？」=CHOICE: Ah, wait! Can we not stay together, just for a little bit more?
-CHOICE:「うん、今日はありがとう。本当に楽しかった。またね」=CHOICE: Yeah, Thanks for today. I truly enjoyed it. See ya.
+CHOICE:「あ、待って！　もう少しだけ、一緒にいられないかな？」= Ah, wait! Can we not stay together, just for a little bit more?
+CHOICE:「うん、今日はありがとう。本当に楽しかった。またね」= Yeah, Thanks for today. I truly enjoyed it. See ya.
+
+
+

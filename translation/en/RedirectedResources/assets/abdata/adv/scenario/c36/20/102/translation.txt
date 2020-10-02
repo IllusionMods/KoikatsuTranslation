@@ -1,33 +1,36 @@
 「下僕、さっきから私達の後を付いてくる、アレは何？」=Manservant, What's that, that thing that has been following us for a while now?
-「何って、犬だと思うけど……小型犬、ポメラニアンかな？」="""What"", you say, It's a dog I think… A small breed, Pomeranian, maybe?"
-わん=Woof
-「そんな事はわかっているわ、何で付いてくるのかと聞いているのよ」=I know that, what I want to know is why it's following us
-「さ、さぁ……[H名]さんのこと、好きなんじゃない？」=W-Who knows… It probably likes you, [H名]-san.
-「はぁ、まったく。どうしてこう駄犬にばかり懐かれるのかしら」=Haa, Good Grief. Why am I always followed around by mutts like these
+「何って、犬だと思うけど……小型犬、ポメラニアンかな？」="""What"", you say, It's a dog I think... A small breed, Pomeranian, maybe?"
+わん=Woof!
+「そんな事はわかっているわ、何で付いてくるのかと聞いているのよ」=I know that, what I want to know is why it's following us?
+「さ、さぁ……[H名]さんのこと、好きなんじゃない？」=W-Who knows... It probably likes you, [H名]-san.
+「はぁ、まったく。どうしてこう駄犬にばかり懐かれるのかしら」=Haa, Good Grief. Why am I always followed around by mutts like these!
 「あはは……お世話になっております」=Ahaha... Sorry for the trouble.
 「ふざけてる場合じゃないでしょ。コレ、放っておいたらずっと付いてくるわよ？」=This isn't the time for jokes. If we leave it be, it'll keep following us around the whole time.
 「そうだね。首輪が付いてるから、散歩中に逃げ出したのかな？」=You're right. It does have a collar, so I wonder if it ran away during a walk?
 「待て、そこで待てよ。お座り、伏せ」=Stop, Stop there. Sit. Lie down.
 「うわ凄い！　犬がちゃんと言う事聞いてる！」=Uwah, Amazing! The dog's listening to your orders!
 「フッ、誰かさんのせいで、犬の扱いには慣れているからね。ほら、お手」=Pfft, It's because I'm used to dealing with dogs, because of a certain someone. Here, Shake.
-「おぉ、そこまで……って、あれ？　行っちゃったね……あぁ、飼い主さんが来たのか」=Oooh, You don't need to go that far…. Hmm, What? It ran away… Aah, the owner showed up, looks like.
-「……お手。ほら、お手よ。早くしなさい」=…. Shake. Come on, Shake. Hurry up.
+「おぉ、そこまで……って、あれ？　行っちゃったね……あぁ、飼い主さんが来たのか」=Oooh, You don't need to go that far... Hmm, What? It ran away... Aah, the owner showed up, looks like.
+「……お手。ほら、お手よ。早くしなさい」=... Shake. Come on, Shake. Hurry up.
 「えっ、俺に言ってたの？　えっと、はいっ」=Eh--, Me? Uhm, Yes, here--
 （[H名]さん、犬に逃げられて、ちょっと寂しかったのかな）=(I wonder if [H名]-san is feeling lonely, since the dog ran away from her and all.)
-わんわん=Woof woof
-「っく。待て、待てよっ……んぅ、何で言う事を聞かないのっ。私が命令しているのよっ」=Kuh. Wait, Stop… Nnuu, Why aren't you listening to what I'm saying--. I'm giving you an order--
+わんわん=Woof! Woof!
+「っく。待て、待てよっ……んぅ、何で言う事を聞かないのっ。私が命令しているのよっ」=Kuh. Wait, Stop... Nnuu, Why aren't you listening to what I'm saying--. I'm giving you an order--
 「まぁ、普通は飼い主以外の言う事は聞かないよねぇ……」=Well, they tend not to listen to commands from anyone except their owners...
 「面倒ね、というか舐め過ぎよ。足舐めるのやめなさっ、ひゃっ」=What a pain, you're licking me too much. Stop licking my leg--, Hyaa--
-ぺろぺろわんわん=*Lick* *Lick* Woof Woof
+ぺろぺろわんわん=*Lick* *Lick* Woof! Woof!
 「うわ、言う事は聞かないけど、めちゃくちゃ懐かれてるね」=Uwah, It's not listening to commands, but it sure has gotten attached, hasn't it.
 わんわんぺろぺろ=Woof Woof *Lick* *Lick*
 「下僕、この子を何とかしなさい。駄犬同士なら話も通じるでしょ？」=Manservant, Deal with this dog somehow. You're both mutts so you should be able to understand each other, no?
-「いやぁ……そんな事言われても。試してはみるけどさ……」=Well… Even if you say that. Well no harm in trying I guess…
+「いやぁ……そんな事言われても。試してはみるけどさ……」=Well... Even if you say that. Well no harm in trying I guess...
 わぅ？=Woof?
 「ごめんね。その人は俺の飼い主だから。キミは自分の飼い主のところに戻ってくれないかな？」=Sorry about this, but this person is my owner. Won't you return to yours?
 わん！=Woof!
 ――ダッ！=――*Dash*!
 「おっ、わかってくれたみたい。あそこにいるのが飼い主さんかな？」=Oh, Looks like he got it. That person over there is it's owner, huh?
-「へぇ、まさか本当に話が通じるとはね。それにしても『その人は俺の飼い主』なんて……フフッ」="Heh, To think you really could talk to it. Even so, saying ""This person is my owner""… Fufu--"
+「へぇ、まさか本当に話が通じるとはね。それにしても『その人は俺の飼い主』なんて……フフッ」="Heh, To think you really could talk to it. Even so, saying ""This person is my owner""... Fufu--"
 
 わん！=Woof!
+
+
+
