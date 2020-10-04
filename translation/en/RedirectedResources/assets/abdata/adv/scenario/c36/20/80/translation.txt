@@ -2,6 +2,3 @@
 「ふぅん、ちゃんと人の食べられるものなんでしょうね？　まずは貴方が食べてみなさい、毒味よ」=Hmm, you did take care to make it edible for humans, right? You try eating some first, as a test for poison.
 「そんな警戒しなくても……んっ、もぐ。ほら、食べられるよ？　食べてくれる？」=No need to be so cautious... Nn--, *Chew*. Look, it's fine. Will you try it?
 「仕方ないわね、食べてあげるわ。んっ、んくっ……うん、可もなく不可もなく、普通の味ね」=Guess it can't be helped, I'll try it. Nn--, *Chew*... Yeah, neither above-grade nor failing-grade, just an average taste.
-
-
-

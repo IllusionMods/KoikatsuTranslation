@@ -35,6 +35,3 @@
 CHOICE:『実は、またここでエッチしたいなって……』= 『To be honest, I wanted to have sex with you again here...』
 CHOICE:『この景色をまた二人で見たいなって思ってただけだよ』= 『I was just thinking that I wanted to see this scenery together again, that's all.』
 「ご、強引過ぎたかな？　一度スイッチが入っちゃうと、止まらなくて……」=W-Was it too overbearing? Once my switch is flipped, I'm can't control myself...
-
-
-

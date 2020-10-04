@@ -28,6 +28,3 @@
 CHOICE:『自宅に誘う』=『Invite to your house』
 CHOICE:『ラブホに誘う』=『Invite to a love hotel』
 CHOICE:『さよならする』=『Say goodbye』
-
-
-

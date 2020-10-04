@@ -49,6 +49,3 @@
 了解です=Roger that!
 わかりました=I understand.
 ありがとうございます=Thank you.
-
-
-
