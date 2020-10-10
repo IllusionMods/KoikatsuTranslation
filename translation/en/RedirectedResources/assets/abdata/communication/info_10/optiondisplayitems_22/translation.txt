@@ -30,8 +30,6 @@
 //幸せだよ=
 //不幸だ=
 
-OPTION[0]:はい=Yes.
-OPTION[0]:いいえ=No.
 OPTION[1]:そうかも=Maybe.
 OPTION[1]:そうでもない=Not really.
 OPTION[2]:好きだよ=I like it.
@@ -69,7 +67,4 @@ OPTION[14]:痩せているのが=I prefer thin girls.
 OPTION[16]:そうでもない=Not really.
 //OPTION[17]:幸せだよ=
 //OPTION[17]:不幸だ=
-OPTION[200]:はい=Yes.
-OPTION[200]:いいえ=No.
-OPTION[201]:はい=Yes.
-OPTION[201]:いいえ=No.
+

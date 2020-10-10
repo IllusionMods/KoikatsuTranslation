@@ -1,4 +1,3 @@
-//表示名=
 待機=Idle
 本を読む1=Reading Book 1
 本を読む2=Reading Book 2

@@ -32,8 +32,6 @@
 //そうかもしれないね=
 //そんなことなかったよ=
 
-OPTION[0]:はい=Yes.
-OPTION[0]:いいえ=No.
 //OPTION[1]:それは仕方ないね=
 //OPTION[1]:そうかなぁ？=
 OPTION[2]:好きだよ=I like it.
@@ -71,7 +69,4 @@ OPTION[14]:痩せているのが=I prefer thin girls.
 //OPTION[16]:今はまだ考えられない=
 //OPTION[17]:そうかもしれないね=
 //OPTION[17]:そんなことなかったよ=
-OPTION[200]:はい=Yes.
-OPTION[200]:いいえ=No.
-OPTION[201]:はい=Yes.
-OPTION[201]:いいえ=No.
+

@@ -1,4 +1,3 @@
-//表示名=
 格闘A１=Fighting A1
 格闘A２=Fighting A2
 格闘A３=Fighting A3

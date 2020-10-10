@@ -35,8 +35,6 @@
 //いいよ、やろう=
 //いいよ、帰ろう=
 
-OPTION[0]:はい=Yes.
-OPTION[0]:いいえ=No.
 //OPTION[1]:わがまま=
 //OPTION[1]:全然=
 OPTION[2]:好きだよ=I like it.
@@ -92,10 +90,6 @@ OPTION[107]:いいよ=OK.
 OPTION[107]:ごめん=Sorry.
 OPTION[108]:いいよ=OK.
 OPTION[108]:ごめん=Sorry.
-OPTION[200]:はい=Yes.
-OPTION[200]:いいえ=No.
-OPTION[201]:はい=Yes.
-OPTION[201]:いいえ=No.
 OPTION[202]:いいよ=OK.
 OPTION[202]:ごめん=Sorry.
 //OPTION[203]:嬉しいよ=
@@ -112,3 +106,4 @@ OPTION[207]:ごめん=Sorry.
 OPTION[208]:ごめん=Sorry.
 OPTION[209]:いいよ=OK.
 OPTION[209]:ごめん=Sorry.
+

@@ -35,8 +35,6 @@
 //もちろん！=
 //将来、かぁ…=
 
-OPTION[0]:はい=Yes.
-OPTION[0]:いいえ=No.
 //OPTION[1]:正直、面倒…=
 //OPTION[1]:個性があっていい=
 OPTION[2]:好き=I like them.
@@ -74,7 +72,4 @@ OPTION[14]:痩せているのが=I prefer thin girls.
 //OPTION[16]:全然平気=
 //OPTION[17]:もちろん！=
 //OPTION[17]:将来、かぁ…=
-OPTION[200]:はい=Yes.
-OPTION[200]:いいえ=No.
-OPTION[201]:はい=Yes.
-OPTION[201]:いいえ=No.
+

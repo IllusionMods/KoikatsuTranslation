@@ -1,4 +1,3 @@
-//表示名=
 前待機=About To Begin
 待機=Idle
 弱ループ=Slow Loop

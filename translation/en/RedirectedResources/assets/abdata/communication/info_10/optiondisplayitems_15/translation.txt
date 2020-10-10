@@ -34,8 +34,6 @@
 //身も心もぴったりだぞ=
 //考えたこともないぞ=
 
-OPTION[0]:はい=Yes.
-OPTION[0]:いいえ=No.
 //OPTION[1]:確かに変だね=
 OPTION[1]:そんなことない=It's not like that.
 OPTION[2]:好きだよ=I like it.
@@ -73,7 +71,4 @@ OPTION[14]:痩せているのが=I prefer thin girls.
 //OPTION[16]:キミがいるだけで満足=
 //OPTION[17]:身も心もぴったりだぞ=
 //OPTION[17]:考えたこともないぞ=
-OPTION[200]:はい=Yes.
-OPTION[200]:いいえ=No.
-OPTION[201]:はい=Yes.
-OPTION[201]:いいえ=No.
+

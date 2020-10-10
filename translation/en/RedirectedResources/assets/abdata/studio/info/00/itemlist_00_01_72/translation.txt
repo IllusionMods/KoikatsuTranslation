@@ -21,4 +21,4 @@
 駐輪場屋根=Bicycle Parking
 渡り廊下=Passageway
 公衆電話=Payphone
-//街頭=
+街頭=Street

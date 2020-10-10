@@ -1,4 +1,3 @@
-//表示名=
 動き回る１=Moving Around 1
 動き回る２=Moving Around 2
 動き回る３=Moving Around 3

@@ -1,7 +1,5 @@
 
-OPTION[0]:はい=Yes.
 はい=Yes
-OPTION[0]:いいえ=No.
 いいえ=No
 OPTION[1]:そうだね=Yeah, that's right.
 //そうだね=
@@ -30,7 +28,7 @@ OPTION[7]:あんまり…=Not often...
 //OPTION[8]:平気だよ=
 //平気だよ=
 OPTION[8]:苦手かな=Not my thing.
-//OPTION[9]:飲む=
+OPTION[9]:飲む=Drinking
 飲む=Drinking
 //OPTION[9]:飲まない=
 //飲まない=
@@ -88,10 +86,6 @@ OPTION[107]:いいよ=OK.
 OPTION[107]:ごめん=Sorry.
 OPTION[108]:いいよ=OK.
 OPTION[108]:ごめん=Sorry.
-OPTION[200]:はい=Yes.
-OPTION[200]:いいえ=No.
-OPTION[201]:はい=Yes.
-OPTION[201]:いいえ=No.
 OPTION[202]:いいよ=OK.
 OPTION[202]:ごめん=Sorry.
 OPTION[203]:いいよ=OK.

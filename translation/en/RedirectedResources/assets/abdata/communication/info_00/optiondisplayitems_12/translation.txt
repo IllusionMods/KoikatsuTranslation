@@ -34,8 +34,6 @@
 //既にボロボロです=
 //自分は全部受け止める=
 
-OPTION[0]:はい=Yes.
-OPTION[0]:いいえ=No.
 OPTION[1]:そうかもね=Maybe so.
 //OPTION[1]:人それぞれだよ=
 OPTION[2]:好きだよ=I like it.
@@ -73,7 +71,4 @@ OPTION[14]:痩せているのが=I prefer thin girls.
 //OPTION[16]:猿じゃあるまいし…=
 //OPTION[17]:既にボロボロです=
 //OPTION[17]:自分は全部受け止める=
-OPTION[200]:はい=Yes.
-OPTION[200]:いいえ=No.
-OPTION[201]:はい=Yes.
-OPTION[201]:いいえ=No.
+

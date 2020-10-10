@@ -34,8 +34,6 @@
 //そうに決まってる=
 //違うんじゃないかな？=
 
-OPTION[0]:はい=Yes.
-OPTION[0]:いいえ=No.
 OPTION[1]:そんなことない=It's not like that.
 //OPTION[1]:そんなことある=
 //OPTION[2]:犬、いいよね=
@@ -73,7 +71,4 @@ OPTION[14]:痩せているのが=I prefer thin girls.
 //OPTION[16]:今はまだ考えられない=
 //OPTION[17]:そうに決まってる=
 //OPTION[17]:違うんじゃないかな？=
-OPTION[200]:はい=Yes.
-OPTION[200]:いいえ=No.
-OPTION[201]:はい=Yes.
-OPTION[201]:いいえ=No.
+

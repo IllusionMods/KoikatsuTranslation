@@ -1,5 +1,5 @@
-//ブラックホール=
-//波紋の軌跡=
-//光の雨=
-//斬=
-//眩いひかり=
+ブラックホール=Black Hole
+波紋の軌跡=Ripples
+光の雨=Light Rain
+斬=Slash
+眩いひかり=Dazzling Light

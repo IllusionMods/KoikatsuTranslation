@@ -1,4 +1,3 @@
-//表示名=
 弱ループ=Slow Loop
 中ループ=Medium Loop
 強ループ=Fast Loop

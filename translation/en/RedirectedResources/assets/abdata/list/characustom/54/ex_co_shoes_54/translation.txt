@@ -1,2 +1,2 @@
 なし=None
-//作業靴=
+作業靴=Work Shoes
