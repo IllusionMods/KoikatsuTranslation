@@ -1,7 +1,7 @@
-「今ちょっといい？　もし良かったら少しだけ俺と話さない？」=Are you free right now? If it's fine with you, can we talk for a bit?
-「あら、キミが噂の？　へぇ……本当に男の子なのねぇ……」=Oh, so you're the rumoured transfer student? Heh... So you really are a boy...
-「あはは、そんなしみじみ言われても……俺は[P名前]って言うんだ。よろしくね」=Ahaha, even if you say it like that... They call me [P名前]. Nice to meet you.
-「こちらこそよろしく。キミ、女子との会話にずいぶん慣れてるのね」=I could say the same, nice to meet you. It seems like you're already used to talking to girls.
-「そんなことないって。こう見えて結構頑張ってるんだよ？　今だってドキドキしてるんだから」=It's not like that really. Doesn't it look like I'm trying my best? Even now, my heart's pounding.
-「えー、そうなのかしら？　でも……ふふっ、いいわ、お姉さん信じちゃう。それで……お話ってなにかしら？」=Eh, are you sure about that? But... Fufu, that's fine, this onee-chan here will believe you. So... what should we talk about?
-（大人っぽくて優しそうな娘だな。まずはどんな話をしよう……？）=(She seems like a kind and mature girl. What should we talk about first...?)
+「今ちょっといい？　もし良かったら少しだけ俺と話さない？」=Hey, do you have a moment? If it's alright with you, can we talk for a bit?
+「あら、キミが噂の？　へぇ……本当に男の子なのねぇ……」=Oh, so you're the one from the rumours? Huh... So you really are a guy...
+「あはは、そんなしみじみ言われても……俺は[P名前]って言うんだ。よろしくね」=Ahaha, hearing that from you while you're staring so intensely at me... My name is [P名前]. Nice to meet you.
+「こちらこそよろしく。キミ、女子との会話にずいぶん慣れてるのね」=The pleasure is all mine. You sure are used to talking to girls, aren't you?
+「そんなことないって。こう見えて結構頑張ってるんだよ？　今だってドキドキしてるんだから」=Not really. Even if I look confident, I'm really trying my best here you know? My heart is beating really hard right now.
+「えー、そうなのかしら？　でも……ふふっ、いいわ、お姉さん信じちゃう。それで……お話ってなにかしら？」=Ehh, I wonder about that? Fufu... Alright, this onee-san here will believe you. So... what did you want to talk about?
+（大人っぽくて優しそうな娘だな。まずはどんな話をしよう……？）=(Looks like she's a kind and mature woman. Now what should I talk about...?)
