@@ -30,8 +30,6 @@
 //当たり前でしょ=
 //釣り合ってるかな…=
 
-OPTION[0]:はい=Yes.
-OPTION[0]:いいえ=No.
 //OPTION[1]:確かに変わってるね=
 OPTION[1]:そうでもないよ=Not really.
 //OPTION[2]:お好き=
@@ -69,7 +67,4 @@ OPTION[16]:もちろん=Of course.
 //OPTION[16]:焦る必要はない=
 //OPTION[17]:当たり前でしょ=
 //OPTION[17]:釣り合ってるかな…=
-OPTION[200]:はい=Yes.
-OPTION[200]:いいえ=No.
-OPTION[201]:はい=Yes.
-OPTION[201]:いいえ=No.
+

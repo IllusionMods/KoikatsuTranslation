@@ -1,4 +1,3 @@
-//表示名=
 挿入前待機=About To Insert
 挿入=Insertion
 挿入待機=Inserted Loop

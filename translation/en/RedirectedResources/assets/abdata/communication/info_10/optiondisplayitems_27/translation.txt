@@ -30,8 +30,6 @@
 //そうかもね=
 //焦らなくていいよ=
 
-OPTION[0]:はい=Yes.
-OPTION[0]:いいえ=No.
 //OPTION[1]:平気だね=
 OPTION[1]:うーん…=Ehh...
 OPTION[2]:好きだよ=I like it.
@@ -44,7 +42,6 @@ OPTION[4]:しないね=I don't.
 OPTION[5]:苦手な方=Nope.
 OPTION[6]:してる=I do.
 OPTION[6]:してない=I don't.
-//OPTION[7]:する=
 OPTION[7]:しない=Never.
 //OPTION[8]:怖くない=
 //OPTION[8]:怖かった=
@@ -64,12 +61,9 @@ OPTION[14]:ぽっちゃりしているのが=Plump girls are best.
 OPTION[14]:程よいのが=Somewhere in the middle.
 OPTION[14]:痩せているのが=I prefer thin girls.
 //OPTION[15]:楽しい=
-//OPTION[15]:つまらない=
+OPTION[15]:つまらない=Bored
 //OPTION[16]:多い=
 //OPTION[16]:少ない=
 OPTION[17]:そうかもね=Maybe so.
 //OPTION[17]:焦らなくていいよ=
-OPTION[200]:はい=Yes.
-OPTION[200]:いいえ=No.
-OPTION[201]:はい=Yes.
-OPTION[201]:いいえ=No.
+

@@ -1,2 +1,2 @@
 なし=None
-//作業着=
+作業着=Worker's Jacket

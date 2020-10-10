@@ -1,4 +1,3 @@
-//表示名=
 寝返り待機=About To Turn Over
 寝返り=Turning Over
 寝=Laying

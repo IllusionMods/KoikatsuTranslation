@@ -38,8 +38,6 @@
 //あるよ=
 //うーん……=
 
-OPTION[0]:はい=Yes.
-OPTION[0]:いいえ=No.
 //OPTION[1]:確かに変わってるね=
 OPTION[1]:そうでもないよ=Not really.
 //OPTION[2]:お好き=
@@ -95,10 +93,6 @@ OPTION[107]:いいよ=OK.
 OPTION[107]:ごめん=Sorry.
 OPTION[108]:あるよ=Yeah!
 OPTION[108]:うーん……=Errr...
-OPTION[200]:はい=Yes.
-OPTION[200]:いいえ=No.
-OPTION[201]:はい=Yes.
-OPTION[201]:いいえ=No.
 OPTION[202]:いいよ=OK.
 OPTION[202]:ごめん=Sorry.
 OPTION[203]:いいよ=OK.
@@ -115,3 +109,4 @@ OPTION[208]:いいよ=OK.
 OPTION[208]:ごめん=Sorry.
 OPTION[209]:いいよ=OK.
 OPTION[209]:ごめん=Sorry.
+

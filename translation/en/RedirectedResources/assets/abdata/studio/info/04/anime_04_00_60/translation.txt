@@ -1,4 +1,3 @@
-//表示名=
 立ちポーズ1=Standing Pose 1
 立ちポーズ2=Standing Pose 2
 立ちポーズ3=Standing Pose 3

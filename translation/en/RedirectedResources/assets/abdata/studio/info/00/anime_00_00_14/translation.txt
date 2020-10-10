@@ -1,4 +1,3 @@
-//表示名=
 待機=Idle
 歩く=Walking
 走り=Running

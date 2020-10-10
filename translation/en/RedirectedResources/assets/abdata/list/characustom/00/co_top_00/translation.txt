@@ -2,8 +2,8 @@
 セーラータイプ=Sailor Type
 ジャケットタイプ=Jacket Type
 Tシャツ(無地)=T-Shirt (Plain)
-//Tシャツ(柄A)=
-//Tシャツ(柄B)=
+Tシャツ(柄A)=T-Shirt (Design A)
+Tシャツ(柄B)=T-Shirt (Design B)
 ジャージ(フィット)=Jersey (To Waist)
 ジャージ(スカート)=Jersey (Over Skirt)
 ジャージ前開き=Open Jersey

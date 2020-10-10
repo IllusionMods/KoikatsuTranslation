@@ -38,8 +38,6 @@
 //デートしようか=
 ……？=...?
 
-OPTION[0]:はい=Yes.
-OPTION[0]:いいえ=No.
 //OPTION[1]:苦手かも=
 //OPTION[1]:気にならない=
 OPTION[2]:好きだよ=I like it.
@@ -95,10 +93,6 @@ OPTION[107]:いいよ=OK.
 OPTION[107]:ごめん=Sorry.
 //OPTION[108]:俺もしようかな=
 OPTION[108]:うーん……=Errr...
-OPTION[200]:はい=Yes.
-OPTION[200]:いいえ=No.
-OPTION[201]:はい=Yes.
-OPTION[201]:いいえ=No.
 //OPTION[202]:いいよ、ヤろう=
 OPTION[202]:うーん……=Errr...
 OPTION[203]:いいよ=OK.
@@ -115,3 +109,4 @@ OPTION[208]:いいよ=OK.
 OPTION[208]:ごめん=Sorry.
 //OPTION[209]:いいよ、ヤろう=
 OPTION[209]:ごめん=Sorry.
+

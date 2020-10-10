@@ -1,4 +1,3 @@
-//表示名=
 立ち１=Standing 1
 立ち２=Standing 2
 立ち３=Standing 3

@@ -1,4 +1,3 @@
-//表示名=
 挿入前待機=About To Insert
 挿入=Insertion
 挿入待機=Inserted Loop
@@ -7,10 +6,10 @@
 絶頂前ループ=Before Climax Loop
 中出し開始=Come Inside Start
 中出しループ=Come Inside Loop
-//女絶頂開始=
-//女絶頂ループ=
-//同時絶頂開始=
-//同時絶頂ループ=
+女絶頂開始=Girl Climax Start
+女絶頂ループ=Girl Climax Loop
+同時絶頂開始=Mutual Climax Start
+同時絶頂ループ=Mutual Climax Loop
 絶頂事後=Climax End
 中出し事後=After Coming Inside
 外出し開始=Come Outside Start

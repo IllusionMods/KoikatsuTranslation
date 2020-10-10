@@ -29,8 +29,6 @@
 //信じる=
 //信じない=
 
-OPTION[0]:はい=Yes.
-OPTION[0]:いいえ=No.
 //OPTION[1]:ダメじゃないよ～=
 //OPTION[1]:ダメだよ～=
 //OPTION[2]:羨ましい=
@@ -68,7 +66,4 @@ OPTION[15]:ばっちり=Right on the mark.
 //OPTION[16]:いつも通りでいい=
 //OPTION[17]:信じる=
 //OPTION[17]:信じない=
-OPTION[200]:はい=Yes.
-OPTION[200]:いいえ=No.
-OPTION[201]:はい=Yes.
-OPTION[201]:いいえ=No.
+

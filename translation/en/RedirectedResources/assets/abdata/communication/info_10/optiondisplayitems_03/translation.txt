@@ -33,8 +33,6 @@
 //好きだよ=
 ……？=...?
 
-OPTION[0]:はい=Yes.
-OPTION[0]:いいえ=No.
 //OPTION[1]:変だと思う=
 OPTION[1]:そんなことないよ=Not true.
 //OPTION[2]:無類の動物好きです=
@@ -72,7 +70,4 @@ OPTION[15]:そんなことないよ=Not true.
 //OPTION[16]:家で一緒に居る方がいい=
 OPTION[17]:好きだよ=I like it.
 OPTION[17]:……？=...?
-OPTION[200]:はい=Yes.
-OPTION[200]:いいえ=No.
-OPTION[201]:はい=Yes.
-OPTION[201]:いいえ=No.
+

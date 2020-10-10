@@ -34,8 +34,6 @@
 //変わった=
 //変わらない=
 
-OPTION[0]:はい=Yes.
-OPTION[0]:いいえ=No.
 //OPTION[1]:なってきた=
 //OPTION[1]:まだまだだね=
 //OPTION[2]:ウサギとか可愛いよね=
@@ -73,7 +71,4 @@ OPTION[14]:痩せているのが=I prefer thin girls.
 //OPTION[16]:簡単=
 //OPTION[17]:変わった=
 //OPTION[17]:変わらない=
-OPTION[200]:はい=Yes.
-OPTION[200]:いいえ=No.
-OPTION[201]:はい=Yes.
-OPTION[201]:いいえ=No.
+

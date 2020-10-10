@@ -33,8 +33,6 @@
 //落ち着く=
 //息が詰まる=
 
-OPTION[0]:はい=Yes.
-OPTION[0]:いいえ=No.
 OPTION[1]:そんなことない=It's not like that.
 OPTION[1]:えっ…？=Eh?
 OPTION[2]:好きだよ=I like it.
@@ -72,7 +70,4 @@ OPTION[15]:そうかも=Maybe.
 //OPTION[16]:運命なんて所詮…=
 //OPTION[17]:落ち着く=
 //OPTION[17]:息が詰まる=
-OPTION[200]:はい=Yes.
-OPTION[200]:いいえ=No.
-OPTION[201]:はい=Yes.
-OPTION[201]:いいえ=No.
+

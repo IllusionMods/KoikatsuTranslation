@@ -25,8 +25,6 @@
 //そうに決まってる=
 //そうは思わない=
 
-OPTION[0]:はい=Yes.
-OPTION[0]:いいえ=No.
 //OPTION[1]:わがまま=
 //OPTION[1]:全然=
 OPTION[2]:好きだよ=I like it.
@@ -64,7 +62,4 @@ OPTION[15]:そうだね=Yeah, that's right.
 //OPTION[16]:まだ二人きりでいたい=
 //OPTION[17]:そうに決まってる=
 //OPTION[17]:そうは思わない=
-OPTION[200]:はい=Yes.
-OPTION[200]:いいえ=No.
-OPTION[201]:はい=Yes.
-OPTION[201]:いいえ=No.
+

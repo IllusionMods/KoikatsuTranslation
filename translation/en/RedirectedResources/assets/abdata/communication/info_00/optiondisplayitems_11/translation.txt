@@ -32,8 +32,6 @@
 //身も心も包み込んで=
 //必要ない=
 
-OPTION[0]:はい=Yes.
-OPTION[0]:いいえ=No.
 //OPTION[1]:思わない=
 OPTION[1]:ちょっとだけ…=A bit...
 OPTION[2]:好きだよ=I like it.
@@ -71,9 +69,4 @@ OPTION[14]:痩せているのが=I prefer thin girls.
 OPTION[16]:・・・・・・=......
 //OPTION[17]:身も心も包み込んで=
 //OPTION[17]:必要ない=
-OPTION[200]:はい=Yes.
-OPTION[200]:いいえ=No.
-OPTION[201]:はい=Yes.
-OPTION[201]:いいえ=No.
-OPTION[205]:はい=Yes.
-OPTION[205]:いいえ=No.
+
