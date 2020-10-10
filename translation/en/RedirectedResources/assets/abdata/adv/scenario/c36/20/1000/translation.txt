@@ -1,13 +1,16 @@
-「すみませーん！　少しお時間よろしいでしょうか？」="Excuse meee! Do you perchance have some time to spare?"
-「あっ、はい。何ですか？」="Ah, yes. What is it?"
-「ありがとうございます！　私、この近くの結婚式場に勤めているウェディングプランナーの玉城と申します！」="Thank you very much! My name is Tamaki, I'm working as a wedding planner on behalf of a wedding hall nearby."
-「う、ウェディングプランナー？　どうして、そんな人が俺たちに声を……？」="Oh, a wedding planner? Why did such a person call out to us?"
-「現在、私どもの式場にてブライダルフェアを行っておりまして、模擬挙式のモデルをお願いできる方を探していたのですが……」="On the occasion of wedding fair taking place in the ceremonial hall, we've been currently looking for models to participate in a mock wedding ceremony."
-「それで、私達にモデルを頼みたいと、そういう事でしょうか？」="So you'd like us to be those mentioned models for you?"
-「はい！　すごくお似合いで素敵なカップルさんでしたので、是非にと声をかけさせていただきました！　いかがでしょうか？」="Yes! A lovely couple such as yourself would really suit the project, so I allowed myself to call out to you! Would that be possible?"
-「素敵なカップルだって！　はは、俺達は主人とゲボッ――ぐぅ……」="A lovely couple! Haha, we're a master and a manser... Guh!..."
-「んっふふ。余計な事は言わなくていいのよ。折角の機会よ、やらせてもらいましょう？」="Fufufu. You don't have to say it. It's a rare opportunity, so let's do it."
-「そ、そうだね……俺達でよければ、モデルやらせてください……ははは……ぅぐ」="Y-yeah... If you're fine with us, then let us be the models... Hahaha... Gah."
-「ありがとうございます！　それでは、さっそく式場までご案内いたしますね！」="Thank you very much! Then I shall take the honour of guiding you to a ceremonial hall."
+「すみませーん！　少しお時間よろしいでしょうか？」=Excuse meee! Can I have some of your time, please?
+「あっ、はい。何ですか？」=Ah, yes. What is it?
+「ありがとうございます！　私、この近くの結婚式場に勤めているウェディングプランナーの玉城と申します！」=Thank you very much! My name is Tamaki, and Im a wedding planner from the nearby wedding hall!
+「う、ウェディングプランナー？　どうして、そんな人が俺たちに声を……？」=A wedding planner? What did you need with us...?
+「現在、私どもの式場にてブライダルフェアを行っておりまして、模擬挙式のモデルをお願いできる方を探していたのですが……」=Right now, at our hall, there's currently a Wedding Fair being held. So I have been out searching for couples who could model for us in a mock wedding ceremony.
+「それで、私達にモデルを頼みたいと、そういう事でしょうか？」=So you'd like us to be those models?
+「はい！　すごくお似合いで素敵なカップルさんでしたので、是非にと声をかけさせていただきました！　いかがでしょうか？」=Yes! You guys look like a lovely couple that gets along really well, I just had to call out to you. How about it?
+「素敵なカップルだって！　はは、俺達は主人とゲボッ――ぐぅ……」=A lovely couple, she says! Haha, we're a master and a manser... Guh!...
+「んっふふ。余計な事は言わなくていいのよ。折角の機会よ、やらせてもらいましょう？」=nnfufu. No need to say anything unnecessary. It's a rare opportunity, why don't we take her up on it?
+「そ、そうだね……俺達でよければ、モデルやらせてください……ははは……ぅぐ」=Y-yeah... If you're fine with us, then let us be the models... Hahaha... Guh.
+「ありがとうございます！　それでは、さっそく式場までご案内いたしますね！」=Thank you very much! Then, I'll take you both to the wedding hall.
 
 モブ=Mob
+
+
+

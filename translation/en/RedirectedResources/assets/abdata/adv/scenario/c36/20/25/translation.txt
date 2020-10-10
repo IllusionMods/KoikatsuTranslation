@@ -1,1 +1,4 @@
-「へぇ、プレゼントね。見え透いたご機嫌窺いだけど、受け取ってあげるわ」="A present, huh. You clearly want to get on my good side, but well, I shall accept it
+「へぇ、プレゼントね。見え透いたご機嫌窺いだけど、受け取ってあげるわ」=Heh, a present, huh? It's very obviously an attempt at improving our relationship, but well, I'll accept it I suppose.
+
+
+

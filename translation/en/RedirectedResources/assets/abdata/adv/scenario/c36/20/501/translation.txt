@@ -1,6 +1,9 @@
-（あれ？　待ち合わせ１分前なのに、[H名]さんまだ来ない……って、人波が割れて、まさか……）=(Huh? It's one minute left to our meeting, but Miss [H名] hasn't come yet... Don't tell me she was smashed by a surging crowd...)
-「ふぅ、なんとか間に合ったようね。まったく、人混みで歩きにくいったらないわ」="*Pant* looks like I've made it in time. Good grief, I'm not that bad when it comes to avoiding crowds."
-「はは……凄いね[H名]さん、人が避けてたよ」="Haha... You're amazing Miss [H名], you've avoided physical contact with them"
-「私はまっすぐ歩いていただけよ。あっちが勝手に避けたの。まぁ、もし邪魔されていたら……」="I was just going straight ahead. It was them who avoided contact with me. Well, if they ever got in my way..."
-「あー、とりあえず無事に会えて、良かったよね！」="Ah, but anyway it's good that we could meet without accidents!"
-（なんか俺達、凄い目立ってる気がする。早く他の場所に行こう）=(Somehow I feel like we're standing out. Let's go somewhere else.)
+（あれ？　待ち合わせ１分前なのに、[H名]さんまだ来ない……って、人波が割れて、まさか……）=(Huh? There's only a minute left until the set time, but [H名]-san's still not here... Wait, the crowd is splitting apart, is that... )
+「ふぅ、なんとか間に合ったようね。まったく、人混みで歩きにくいったらないわ」=Fuu, Looks like I made it in time. It really is a pain to get through crowds.
+「はは……凄いね[H名]さん、人が避けてたよ」=Haha... You're amazing, [H名]-san, everyone made way for you.
+「私はまっすぐ歩いていただけよ。あっちが勝手に避けたの。まぁ、もし邪魔されていたら……」=I was just walking dead straight, everyone got out of the way by themselves. Well, if they did get in my way...
+「あー、とりあえず無事に会えて、良かったよね！」=Aah, in any case, it's great that we were able to meet without any problems!
+（なんか俺達、凄い目立ってる気がする。早く他の場所に行こう）=(I feel like we're being really conspicuous right now. Let's go somewhere else quickly)
+
+
+

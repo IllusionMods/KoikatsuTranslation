@@ -1,5 +1,8 @@
-「ねぇ、トレーニングの前に潜水勝負をしましょうよ。貴方とやってみたかったの」="Hey, let's play a diving game before training. I wanted to try it with you."
-「それ……俺の頭、絶対押さえつけるつもりだよね？」="You're definitely going to hold my head underwater!"
-「大丈夫よ。下僕の息がどれくらい続くかは知ってるわ。主として、当然の知識ね」="It's okay, I know exactly how long my manservant can hold your breath. For your master it's a basic knowledge."
-「いやそれ、絶対大丈夫じゃないよね？　その……普通に泳ぐとかじゃダメ？」="No, that's definitely not okay. Um... Can't we just swim normally?"
-「ダメよ。私がやると言ったらやるの。ほら、貴方が先よ、早く潜りなさい」="No, we can't. When I say do something, you do it. C'mon, you're first, dive!"
+「ねぇ、トレーニングの前に潜水勝負をしましょうよ。貴方とやってみたかったの」=Hey, let's have a diving match before we get into training. I've been wanting to do it with you.
+「それ……俺の頭、絶対押さえつけるつもりだよね？」=That... you're planning on holding my head underwater, aren't you? I'm sure.
+「大丈夫よ。下僕の息がどれくらい続くかは知ってるわ。主として、当然の知識ね」=It'll be fine. I know exactly how long my manservant can take before suffocating. As your master, it's natural for me to know.
+「いやそれ、絶対大丈夫じゃないよね？　その……普通に泳ぐとかじゃダメ？」=No, that, I definitely don't think that's fine. Uhm... Can't we swim normally or something?
+「ダメよ。私がやると言ったらやるの。ほら、貴方が先よ、早く潜りなさい」=We can't. When I tell you to do something, you must do it. Come on, you're going first, take a dive already.
+
+
+

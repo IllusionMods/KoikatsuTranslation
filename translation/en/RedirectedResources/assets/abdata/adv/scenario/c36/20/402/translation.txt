@@ -1,20 +1,23 @@
-「はぁ、喫茶店まで来て、何故コーヒーではなくウーロン茶を頼むの？　やっぱり貴方センスないわね」="*Sigh* we've come to a coffee shop, so why are you ordering Oolong tea? As expected, you have no sense."
-「い、いいでしょ。ウーロン茶だって美味しいよ？」="W-whatever. Oolong tea is great, you know?"
-「ウーロン茶に罪はないわ。美味しいのも認める。私が言っているのは貴方のセンスの話よ」="Picking an Oolong tea isn't a sin. I agree with that it's good. But what I'm saying is, you lack sense."
-「今日はたまたまだよ。そこまで言うなら、次はコーヒーを頼むから……」="I just happened to order it today, okay? But if you say it that far, I'll order a coffee next."
-「ふぅん、いつもそう言って、結局ウーロン茶じゃない。くだらない見栄を張るのはよしなさい」="Huuh, you say that, but in the end you always order Oolong tea. Stop putting on airs."
-「ぐっ、そんなにコーヒーにこだわるなら、[H名]さんは相当飲み慣れてるんだよね？」="Guh, if you're so fixated on coffee, then let's talk about your drinking habits"
-「は？　お酒ならともかく、コーヒーに飲み慣れるも何もないでしょう」="Huh? Unlike alcohol, you can't talk about coffee drinking habits."
-「いやほら、砂糖とかミルクを入れるか、それともブラックかで派閥があったりするでしょ？」="No, look. I mean, you add sugar, or milk, or prefer it black, right?"
-「[H名]さんって、そういえばどっちだったかなって思って」="On that subject, which one do you like?"
-「私はブラック派よ。コーヒー本来の味を楽しみたいからね」="I like it black. Then it really tastes like coffee.
-「あぁ、やっぱり。[H名]さんにブラックコーヒーってめちゃくちゃ似合うよね」="Ah, I knew it. A black coffee totally suits you, Miss [H名]."
-「どういう意味？　腹黒いとでも言いたいのかしら？」="What do you mean by that? Something malicious I wonder?"
-「ち、違うよ！　出来る女のイメージっていうか、女傑？　女帝？　とにかくそんな感じ」="N-no! I had that image of a... lady of character? Something like that."
-「フフッ、まぁ専属の下僕がいるからね。女帝のイメージというのは、間違いではないかもしれないわ」="Fufu, that's because I have a manservant. A lady of character might fit me perfectly."
-「砂糖もミルクも入れるわよ。特に砂糖は多めかしら」="I'll add sugar and milk. Especially some more sugar."
-「へぇ意外。[H名]さんはカッコよくブラックを飲んでるイメージだったなぁ」="Huuh, that's unexpected. I had that image of a cool Miss [H名] drinking her black coffee."
-「それ、いつも疑問に思ってたのよね。ブラックがカッコイイとか、誰が決めたのよ」="Your way of thinking is strange. Who said it was cool to drink a black coffee?"
-「えっ、誰がって、それはわかんないけど……一般的なイメージじゃない？」="Erm, even if you ask me... That's a popular image you know?"
-「そうやって、皆が言っているからと流されるのはやめなさい。私の下僕として、相応しくないわよ」="Stop saying what other people say. It's not suitable for my manservant."
-「ぁっ、はい。以後気を付けます……」="Ah, yes. I'll be careful from now on."
+「はぁ、喫茶店まで来て、何故コーヒーではなくウーロン茶を頼むの？　やっぱり貴方センスないわね」=Haa, we've bothered to come to this coffee shop, so why are you ordering oolong tea instead of coffee? You really do have no sense whatsoever.
+「い、いいでしょ。ウーロン茶だって美味しいよ？」=I-Isn't it fine? Oolong Tea tastes pretty good too.
+「ウーロン茶に罪はないわ。美味しいのも認める。私が言っているのは貴方のセンスの話よ」=There's no sin in getting oolong tea. I'll admit that it's good. What I'm talking about is your lack of sense.
+「今日はたまたまだよ。そこまで言うなら、次はコーヒーを頼むから……」=I just happened to order it today. If you're going to go that far, then I'll get coffee next time...
+「ふぅん、いつもそう言って、結局ウーロン茶じゃない。くだらない見栄を張るのはよしなさい」=Hmmm, you always say that, but in the end you default to oolong tea. Stop putting on pointless airs.
+「ぐっ、そんなにコーヒーにこだわるなら、[H名]さんは相当飲み慣れてるんだよね？」=Guh--, If you're so fixated on coffee, then you must be pretty experienced with drinking it yourself, no, [H名]-san?
+「は？　お酒ならともかく、コーヒーに飲み慣れるも何もないでしょう」=Hah? Alcohol is one thing, but there's nothing unusual about being used to drinking coffee.
+「いやほら、砂糖とかミルクを入れるか、それともブラックかで派閥があったりするでしょ？」=No, what I meant was, everyone likes it different, right? Some people add sugar and milk, some people prefer it black.
+「[H名]さんって、そういえばどっちだったかなって思って」=I was just wondering which way you preferred your coffee, [H名]-san.
+「私はブラック派よ。コーヒー本来の味を楽しみたいからね」=I like it black myself. I really like enjoying the natural taste that coffee has.
+「あぁ、やっぱり。[H名]さんにブラックコーヒーってめちゃくちゃ似合うよね」=Aah, I knew it. After all, Black coffee really suits your image, [H名]-san.
+「どういう意味？　腹黒いとでも言いたいのかしら？」=What are you implying? Are you trying to say that I'm a black hearted person?
+「ち、違うよ！　出来る女のイメージっていうか、女傑？　女帝？　とにかくそんな感じ」=N-No, that's not what I meant! I was trying to say you had a capable woman sort of image, rather, heroine-ish? Amazonian? A queen? That kind of feeling.
+「フフッ、まぁ専属の下僕がいるからね。女帝のイメージというのは、間違いではないかもしれないわ」="Fufu--, Well, I do have an exclusive manservant, afterall. I don't think that ""queen"" image is all that far off the mark. "
+「砂糖もミルクも入れるわよ。特に砂糖は多めかしら」=I add both milk and sugar to mine. Especially sugar, I usually go for a little extra.
+「へぇ意外。[H名]さんはカッコよくブラックを飲んでるイメージだったなぁ」=Huh, that's pretty unexpected. I had an image of you drinking black coffee, being all cool and stuff, in my head.
+「それ、いつも疑問に思ってたのよね。ブラックがカッコイイとか、誰が決めたのよ」=You know, I've always wondered about that. Who decided one day that drinking black coffee is cool?
+「えっ、誰がって、それはわかんないけど……一般的なイメージじゃない？」=Eh--, Even if you ask me... It's a popular image nowadays, no?
+「そうやって、皆が言っているからと流されるのはやめなさい。私の下僕として、相応しくないわよ」=Stop getting carried away with popular trends like that. It isn't fitting of you, as my manservant.
+「ぁっ、はい。以後気を付けます……」=Ah--, Yes. I'll be more careful from now on.
+
+
+

@@ -1,17 +1,20 @@
-「うわ、どんどん人が乗ってくるね……ごめん[H名]さん、少し詰められる？」="Wow, more and more people are getting on."
-「無理よ、寄るなと言ったでしょ。こらっ、いくらなんでも近付き過ぎよ」="I just told you 'don't come near me', didn't I? Say what you like, but you're getting too close."
-「そんな事言ったって、この混雑じゃ仕方ないよっ……あぁっ」="Even if you did tell me that, I can't stop people from flowing in... Ah."
-（はぁ、[H名]さんの匂いがこんな近くに……やば、反応してしまうっ）=(*Sigh* the smell of Miss [H名] is so close... It's dangerous, I'm reacting to it down there."
-（イケナイことだけど……我慢できない）=(It's unacceptable, but... I can't control it.)
-「んぅ、今すぐその恥知らずなモノを、私から離しなさい。ほら、早く」="Take this thing from me immediately. C'mon, quickly."
-「む、無理だよ……動ける状態じゃないし、こうなったら中々元には戻らないよ……」="I can't help it... I can't move in this situation, and now it pretty much won't get flabby."
-「無理じゃないし、例え無理でもやるのよ。私の命令が聞けないの？」="Don't say you can't help it, even if it's impossible, do it. You can't follow my order?"
-「うぅぅ、じゃあ、[H名]さんにも手伝ってもらうよっ」="Uuh, then... Give me a hand, Miss [H名]."
-「ちょっと、待ちなさい……貴方まさか……やめっ、こらっ、お仕置きじゃ済まないわよ？」="Wait, what are you planning... No way... Sto-, hey! Your punishment will be severe!"
-「ごめん、もう止められそうにないっ。なるべく早く終わらせるから」="I'm sorry, it looks like it can't be stopped anymore. Let me end this quickly then."
-（我慢しろ、俺っ！　こんな所で勃起させたら[H名]さんに何を言われるか……！）=(I must persevere! What would Miss [H名] say if I were to have a boner in such a place...!)
-（どこでもおっ勃たてる節操のない奴だと罵られ……それも案外、悪くないような……）=(Just how much would she abuse me for having no principles... But that also doesn't sound too bad...)
-（って、その考えがダメだ！　我慢、我慢……少しの辛抱だ）=(No, don't think about it! I must... Endure... Just a bit of patience.)
+「うわ、どんどん人が乗ってくるね……ごめん[H名]さん、少し詰められる？」=Uwah, more and more people keep getting on... Sorry, [H名]-san, Can I move a bit closer?
+「無理よ、寄るなと言ったでしょ。こらっ、いくらなんでも近付き過ぎよ」=No way, I told you to not come closer than that, no? Hey--, No matter how you look at it, that's way too close.
+「そんな事言ったって、この混雑じゃ仕方ないよっ……あぁっ」=Even if you say that, It can't be helped, in this crowd... Aaah--
+（はぁ、[H名]さんの匂いがこんな近くに……やば、反応してしまうっ）=(Haa, Smelling [H名]-san from this close... No good, it'll have a reaction--)
+（イケナイことだけど……我慢できない）=(I know I shouldn't do this but... I can't help it)
+「んぅ、今すぐその恥知らずなモノを、私から離しなさい。ほら、早く」=Nnu, pull away that shameless thing from me at once. Come on, quickly.
+「む、無理だよ……動ける状態じゃないし、こうなったら中々元には戻らないよ……」=I-I can't... I can't exactly move right now, and in this situation, it won't easily go back down to normal...
+「無理じゃないし、例え無理でもやるのよ。私の命令が聞けないの？」=It's not impossible, and even if it is, do it anyway. Are you not going to listen to my orders?
+「うぅぅ、じゃあ、[H名]さんにも手伝ってもらうよっ」=Uuu, then, I'll have you help me, [H名]-san.
+「ちょっと、待ちなさい……貴方まさか……やめっ、こらっ、お仕置きじゃ済まないわよ？」=Wait, Stop right there... You can't be for real... Stop--, Hey--, This isn't something I can excuse with even a punishment, you know?
+「ごめん、もう止められそうにないっ。なるべく早く終わらせるから」=Sorry, I don't think I can stop it anymore. I'll try my best to end it as quick as possible.
+（我慢しろ、俺っ！　こんな所で勃起させたら[H名]さんに何を言われるか……！）=(No, Control yourself, Me--! If I pitch a tent in a place like this, what will [H名]-san think of me......!
+（どこでもおっ勃たてる節操のない奴だと罵られ……それも案外、悪くないような……）=(She'd curse at me, call me an honourless bastard, someone who pops a chub anywhere without minding the time or place... Ah but, that doesn't sound too bad...)
+（って、その考えがダメだ！　我慢、我慢……少しの辛抱だ）=(--No, I musn't think like that! Endure it, Endure it... It's only a short trial)
 
-//CHOICE:『欲望に身を任せる』=
-//CHOICE:『鉄の自制心で堪える』=
+CHOICE:『欲望に身を任せる』=『Give in to desires』
+CHOICE:『鉄の自制心で堪える』=『Bear it with an Iron will』
+
+
+

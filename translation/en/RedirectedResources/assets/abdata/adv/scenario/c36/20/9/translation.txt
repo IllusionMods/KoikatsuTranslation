@@ -1,5 +1,8 @@
-「デート？　家畜の散歩に付き合えと？　それは、私に何の得があるのかしら？」="A date? To go out with a pig? Are there any benefits for me??"
-「お、俺と仲良くなれる……とか？」="Y-you'll be able to spend time with me?"
-「はっ、笑わせないで。自分がそんな大層な存在だと思っているの？　滑稽ね」="Huh, don't make me laugh. You think you're worth spending time with you?"
-「じゃあ、俺の休日の時間を、全て[H名]さんに捧げる……とか？」="Well then, on a day off I'll fully devote myself to Miss [H名]... or something?"
-「ふぅん、それなら悪くないわね。丁度いいわ、色々やってみたい事があったの」="Hmm, that doesn't sound bad. Actually that's perfect, there are things I wanted to try doing"
+「デート？　家畜の散歩に付き合えと？　それは、私に何の得があるのかしら？」=A date? Keeping livestock company during their stroll? What do I stand to gain from it?
+「お、俺と仲良くなれる……とか？」=W-We'll become closer... and stuff?
+「はっ、笑わせないで。自分がそんな大層な存在だと思っているの？　滑稽ね」=Ha--, Don't make me laugh. You think you're an existence worthy of being close with? Ridiculous.
+「じゃあ、俺の休日の時間を、全て[H名]さんに捧げる……とか？」=Then, I'll devote a full day off to you, [H名]-san... how about that?
+「ふぅん、それなら悪くないわね。丁度いいわ、色々やってみたい事があったの」=Hmm, that doesn't sound too bad. Perfect, actually, there are a few things I wanted to try out.
+
+
+

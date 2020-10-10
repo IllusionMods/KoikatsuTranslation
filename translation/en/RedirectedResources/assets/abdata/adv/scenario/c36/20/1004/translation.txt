@@ -1,16 +1,19 @@
-「お疲れ様でした。ふふっ、素敵な式でしたよ」="Thank you for your hard work. Fufu, it was a splendid ceremony."
-「本番の結婚式も、是非、私どもの式場で挙げてくださいね！」="Please main event
-「えっと、前向きに考えさせてもらいます」="Umm, let me thing about it
-「お願いします！　今日はお引き受けいただいて、ありがとうございました」="Please! Thank you very much for accepting our request!"
-「はぁぁ～～っ、めちゃくちゃ緊張したぁ～～っ」="Haaaa~~, it was so stressful~~"
-「ふぅ、ご苦労様。正に夢のような一時、というやつだったわね」="*Pant* thank you for your work. It was like straight from a dream."
-「ホントだね。[H名]さんのウェディングドレス姿、思い出しただけで興奮するよ！」="That's true. I get excited just by recalling the look of Miss [H名] in a wedding dress."
-「興奮って、まさか変な事を考えているんじゃないでしょうね？　そこまでいったら、救いようがないわよ？」="By excited you didn't mean anything strange, right? If you did, you're beyond saving."
-「ぁはは、だ、大丈夫だよ……とにかく綺麗で、もう綺麗って言葉そのものだったから」="Ahaha, i-it's okay... Anyway, you were so beautiful, even more than beautiful."
-「フッ、足りない頭じゃ、その辺りの表現が限界かしらね。まぁ、素直に嬉しく思っておくわ」="Pfft, so that's the limit of your brain huh. I'll take it as you being honestly happy."
-「ねぇ、俺の衣装はどうだった？　似合ってた？」="Hey, how was my outfit? Did it suit me?"
-「あぁ、そういえば貴方も着替えてたわね。フフッ、可哀相だからコメントは控えておくわ」="Ah, now that you mention it, you also changed clothes... Fufu, you looked pathetic so I'll restrain myself from commenting."
-「えぇっ、それってダメだったって事？　たしかにカッコ悪いところいっぱい見せちゃったけど……」="Eeh, does that mean it wasn't good? Surely there were a lot of uncool things about me, but.."
-「……って、[H名]さん！　待って！　おいてかないでよ！」="...Hey, Miss [H名]! Wait! Don't leave me!"
+「お疲れ様でした。ふふっ、素敵な式でしたよ」=Good work today. Fufu~ It was a lovely ceremony.
+「本番の結婚式も、是非、私どもの式場で挙げてくださいね！」=For your future wedding as well, please contact us! We'll do our best!
+「えっと、前向きに考えさせてもらいます」=Uhm, we'll think about it if we ever get to that point.
+「お願いします！　今日はお引き受けいただいて、ありがとうございました」=Thank you! And for helping us out so much today as well, thank you very much!
+「はぁぁ～～っ、めちゃくちゃ緊張したぁ～～っ」=Haaa~~~, That was so stressful ~~~
+「ふぅ、ご苦労様。正に夢のような一時、というやつだったわね」=Fuu, Good work today. That was a very dreamlike event, wasn't it?
+「ホントだね。[H名]さんのウェディングドレス姿、思い出しただけで興奮するよ！」=For sure. Just remembering the sight of you in that wedding dress makes me so excited, [H名]-san!
+「興奮って、まさか変な事を考えているんじゃないでしょうね？　そこまでいったら、救いようがないわよ？」=Excited, huh? You're not thinking of any weird things right now, are you? If you say yes, then you truly are beyond saving.
+「ぁはは、だ、大丈夫だよ……とにかく綺麗で、もう綺麗って言葉そのものだったから」=Ahaha, N-No, I wasn't, don't worry... Anyways, you were so beautiful. Like, you were the very standard of beauty.
+「フッ、足りない頭じゃ、その辺りの表現が限界かしらね。まぁ、素直に嬉しく思っておくわ」=Pfft, so that's the best expression your slow brain could come up with, huh? Well, I'll happily take it, I suppose.
+「ねぇ、俺の衣装はどうだった？　似合ってた？」=Hey, tell me, how did I look? Did it suit me?
+「あぁ、そういえば貴方も着替えてたわね。フフッ、可哀相だからコメントは控えておくわ」=Aah, now that you mention it, you also got into the whole getup, didn't you. Fufu, I feel bad so I'll refrain from commenting.
+「えぇっ、それってダメだったって事？　たしかにカッコ悪いところいっぱい見せちゃったけど……」=Eeeh--, So you're saying I didn't look good? For sure I showed you some uncool parts of mine but...
+「……って、[H名]さん！　待って！　おいてかないでよ！」=...--Hey, [H名]-san! Wait! Don't leave me behind!
 
 モブ=Mob
+
+
+

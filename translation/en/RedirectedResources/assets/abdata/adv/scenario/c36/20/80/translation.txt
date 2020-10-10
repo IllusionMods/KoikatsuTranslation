@@ -1,4 +1,7 @@
-「じゃーん！　[H名]さんに食べてもらいたくて、お弁当を作ってきました！」="Tadaa! I was so pumped by thinking of eating with Miss [H名] that I made bento!"
-「ふぅん、ちゃんと人の食べられるものなんでしょうね？　まずは貴方が食べてみなさい、毒味よ」="Huh, I wonder if it's edible by humans. First, you try some, Food taster."
-「そんな警戒しなくても……んっ、もぐ。ほら、食べられるよ？　食べてくれる？」="No reason to get so cautio... Nn.. *munch*. See? It's edible. Want to try?"
-「仕方ないわね、食べてあげるわ。んっ、んくっ……うん、可もなく不可もなく、普通の味ね」="Eh, I guess I'll try it then. *munch munch*... Yeah, neither good nor bad. An ordinary taste."
+「じゃーん！　[H名]さんに食べてもらいたくて、お弁当を作ってきました！」=Ta-dah! I made a boxed lunch for you, [H名]-san, since I wanted you to try my cooking!
+「ふぅん、ちゃんと人の食べられるものなんでしょうね？　まずは貴方が食べてみなさい、毒味よ」=Hmm, you did take care to make it edible for humans, right? You try eating some first, as a test for poison.
+「そんな警戒しなくても……んっ、もぐ。ほら、食べられるよ？　食べてくれる？」=No need to be so cautious... Nn--, *Chew*. Look, it's fine. Will you try it?
+「仕方ないわね、食べてあげるわ。んっ、んくっ……うん、可もなく不可もなく、普通の味ね」=Guess it can't be helped, I'll try it. Nn--, *Chew*... Yeah, neither above-grade nor failing-grade, just an average taste.
+
+
+

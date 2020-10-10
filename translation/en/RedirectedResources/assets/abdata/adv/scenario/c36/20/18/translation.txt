@@ -1,1 +1,4 @@
-「あら、朝から家畜が迷い込んでいるようね。ここは学園よ、家畜小屋ではないわ」="Oh, looks like livesock got lost this morning. This is a school, not a shed"
+「あら、朝から家畜が迷い込んでいるようね。ここは学園よ、家畜小屋ではないわ」=Oh my, looks like the livestock have gotten lost first thing in the morning. This is a school, you know, not an animal pen.
+
+
+

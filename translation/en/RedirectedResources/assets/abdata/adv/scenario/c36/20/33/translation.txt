@@ -1,1 +1,4 @@
-「はぁ、おすわり。少しお説教をしてあげるわ。主にゴミを渡すとは、どういう了見なのかしら？」="*Sigh* sit!. I'll give you a little sermon. What was your intention of giving your master this trash?"
+「はぁ、おすわり。少しお説教をしてあげるわ。主にゴミを渡すとは、どういう了見なのかしら？」=Haa, Sit. I'll give you a small lecture. What were you thinking, giving your master such trash?
+
+
+

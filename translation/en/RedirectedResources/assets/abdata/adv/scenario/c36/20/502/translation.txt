@@ -1,5 +1,8 @@
-「あ、[H名]さん、こっちこっち！」="Miss [H名], here!"
-「チッ、大声で呼ばなくてもわかるわよ。みっともない」="Tsk, I hear you even if you don't shout. You're disgraceful."
-「あはは……ごめん。[H名]さんを見つけたら、嬉しくなっちゃって」="Ahaha... Sorry. I got happy when I saw Miss [H名]."
-「駄犬に懐かれてもねぇ……フフッ、それで、今日はどこへ行くの？」="You're attached to me like a dog... Fufu, so where are we going today?"
-「どうしようかな～、少し相談して決めようか」="What should we do～. Let's decide together."
+「あ、[H名]さん、こっちこっち！」=Ah, [H名]-san, here, right here!
+「チッ、大声で呼ばなくてもわかるわよ。みっともない」=Tsk, I can tell even without you calling out to me. So unbecoming.
+「あはは……ごめん。[H名]さんを見つけたら、嬉しくなっちゃって」=Ahaha... Sorry. I just felt happy when I saw you, [H名]-san.
+「駄犬に懐かれてもねぇ……フフッ、それで、今日はどこへ行くの？」=You're like a mutt, with how attached you are to me... Fufu, so, where shall we head to, today?
+「どうしようかな～、少し相談して決めようか」=I wonder, what shall we do~, let's think about it together.
+
+
+
