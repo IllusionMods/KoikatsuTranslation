@@ -1,6 +1,6 @@
-//「ふふっ、面白そうな部活に誘ってもらえて嬉しいわ」=
-//「ってことは、入部してくれるの？」=
-//「もちろん。前々から興味あったもの。それで、どんな活動をしているの？」=
-//「まあ、名前の通り恋愛について学ぶ部活……かな。恥ずかしいこともあるけど、きっと役に立つと思うよ」=
-//「……なんか、ふわっとした説明になってごめんね」=
-//「あはは……まあ、活動すれば分かるはずよ。これからよろしくね、部長さん♪」=
+「ふふっ、面白そうな部活に誘ってもらえて嬉しいわ」=Fufuu, Im glad you invited me to the club activity. It was really interesting.
+「ってことは、入部してくれるの？」=So, that means you'll join the club?
+「もちろん。前々から興味あったもの。それで、どんな活動をしているの？」=Of course! I've been interested in it for a while now. So, what kind of activities do you usually do in the club?
+「まあ、名前の通り恋愛について学ぶ部活……かな。恥ずかしいこともあるけど、きっと役に立つと思うよ」=Well, as the name suggests, in-depth studies of love and emotions I suppose. While a lot of it is really embarrasing, I think it will definitely be useful in the future.
+「……なんか、ふわっとした説明になってごめんね」=...Uhm. Im sorry, that really doesn't explain anything, does it?
+「あはは……まあ、活動すれば分かるはずよ。これからよろしくね、部長さん♪」=Ahaha... Well, Ill understand if I do a few of those activities myself. Please take care of me, Buchou-san.

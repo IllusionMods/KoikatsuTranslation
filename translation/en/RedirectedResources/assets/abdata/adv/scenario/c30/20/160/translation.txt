@@ -1,7 +1,7 @@
-//「……ふふ、素敵な時間だったわ。ありがとう」=
-//「ほんと？　その……外だったけど？」=
-//「本当よ。……きっと、キミと二人なら、どこでも素敵な時間を過ごせてしまうのね」=
-//「改めて思ったわ……お姉さん、キミにメロメロみたい」=
-//「……そんなこと言われたら俺、ますます[H名]のこと好きで好きでたまらなくなっちゃう」=
-//「私だって、そんなこと告白されたら、ますますキミを好きになっちゃう♪」=
-//（ああ……今、すごく幸せだ。今日はここでデートできて本当によかったなぁ）=
+「……ふふ、素敵な時間だったわ。ありがとう」=...Fufu, I had a wonderful time. Thank you.
+「ほんと？　その……外だったけど？」=Really? Even though... it was outside?
+「本当よ。……きっと、キミと二人なら、どこでも素敵な時間を過ごせてしまうのね」=Really... If it's with you, I would have a wonderful time just about anywhere.
+「改めて思ったわ……お姉さん、キミにメロメロみたい」=I've realized it once again... It must look like this onee-san is madly in love with you.
+「……そんなこと言われたら俺、ますます[H名]のこと好きで好きでたまらなくなっちゃう」=...If you say something like that, I can't help but feel even more in love with you, [H名].
+「私だって、そんなこと告白されたら、ますますキミを好きになっちゃう♪」=Me too, if you suddenly confess to me like that, I also can't help but fall in love with you even more ♪
+（ああ……今、すごく幸せだ。今日はここでデートできて本当によかったなぁ）=(Aaah... I feel so blessed right now. I'm so glad that we went out to have this date today.)
