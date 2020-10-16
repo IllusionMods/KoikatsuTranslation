@@ -9,6 +9,3 @@
 
 CHOICE:「もう少し一緒にいられないかな？」= Can't we stay together for a bit more?
 CHOICE:「うん、わかった。気を付けて帰ってね」= Yeah, Got it. Get home safely, okay?
-
-
-

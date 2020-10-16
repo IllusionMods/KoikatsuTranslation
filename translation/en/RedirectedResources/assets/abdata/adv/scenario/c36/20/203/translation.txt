@@ -13,6 +13,3 @@
 
 CHOICE:『じゃあ、最後に観覧車に乗ろうよ』=『Then, Let's ride the Ferris Wheel to end the day』
 CHOICE:『暗くなる前に帰った方がいいかな？』=『Would it be better to go home before it becomes dark?』
-
-
-
