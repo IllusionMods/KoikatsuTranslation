@@ -710,9 +710,6 @@ NAME[1]:要=Youkichi
 綺声神=Ayaginugoeshin
 閻魔=Enma
 // END COLUMN 1 (surnames)
-
-
-
 // BEGIN COLUMN 2  (surnames), prefix dupes with NAME[2]:
 アーノルド=Arnold
 アシモフ=Asimov
@@ -939,9 +936,6 @@ NAME[2]:レイモンド=Reymonds
 ロブソン=Robson
 ワトソン=Watson
 // END COLUMN 2 (surnames)
-
-
-
 // BEGIN COLUMN 3 (female given), prefix dupes with NAME[3]:
 あい=Ai
 あおい=Aoi
@@ -1638,9 +1632,6 @@ NAME[3]:凛=Rin
 莉子=Riko
 莉緒=Rio
 // END COLUMN 3 (female given)
-
-
-
 // BEGIN COLUMN 4 (female given), prefix dupes with NAME[4]:
 アーシア=Asia
 アーニャ=Anya
@@ -1875,9 +1866,6 @@ NAME[4]:レイ=Rei
 ロックベル=Rockbell
 ロベルタ=Roberta
 // END COLUMN 4 (female given)
-
-
-
 // BEGIN COLUMN 5 (male given), prefix dupes with NAME[5]:
 愛斗=Chikato
 愛翔=Aito
@@ -2390,9 +2378,6 @@ NAME[5]:凛=Rin
 颯馬=Souma
 遙馬=Haruma
 // END COLUMN 5 (male given)
-
-
-
 // BEGIN COLUMN 6 (male given), prefix dupes with NAME[6]:
 アーロン=Aaron
 アイザック=Izzac

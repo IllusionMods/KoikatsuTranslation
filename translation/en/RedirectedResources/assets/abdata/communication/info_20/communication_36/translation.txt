@@ -559,6 +559,3 @@
 「あら、[Pあだ名]。少し付き合いなさい。まずは、そのニヤついた顔を直してからね」=Ah, [Pあだ名]. Accompany me for a bit. But first, take care of that grin of yours.
 「え、本当にいいの？　ありがとう」=Eh, Is it really fine? Thank you?
 「感謝の気持ちが足りないわね。ま、別にいいけれど」=Your expression of gratitude is lacking. Well, I don't particularly mind I suppose.
-
-
-

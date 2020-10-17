@@ -14,6 +14,3 @@
 「……って、[H名]さん！　待って！　おいてかないでよ！」=...--Hey, [H名]-san! Wait! Don't leave me behind!
 
 モブ=Mob
-
-
-

@@ -14,6 +14,3 @@
 
 CHOICE:『まだ時間ある？』=『Do you still have some time?』
 CHOICE:『俺も楽しかった』=『I had a blast too』
-
-
-
