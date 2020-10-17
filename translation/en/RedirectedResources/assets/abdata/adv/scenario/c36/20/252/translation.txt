@@ -15,3 +15,6 @@
 
 CHOICE:『欲望に身を任せる』=『Give in to desires』
 CHOICE:『鉄の自制心で堪える』=『Bear it with an Iron will』
+
+
+

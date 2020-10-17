@@ -14,3 +14,6 @@
 
 CHOICE:「あ、待って！　もう少しだけ、一緒にいられないかな？」= Ah, wait! Can we not stay together, just for a little bit more?
 CHOICE:「うん、今日はありがとう。本当に楽しかった。またね」= Yeah, Thanks for today. I truly enjoyed it. See ya.
+
+
+

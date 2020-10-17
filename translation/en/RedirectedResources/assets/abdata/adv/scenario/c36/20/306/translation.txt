@@ -23,3 +23,6 @@
 
 CHOICE:『一緒にいられるなら、それでもいいかな』=『If we can be together, I think I'm fine with that』
 CHOICE:『心が折れそうだから、今日はもう帰ろう』=『My heart feels like it's going to break, so let's just go home for today.』
+
+
+

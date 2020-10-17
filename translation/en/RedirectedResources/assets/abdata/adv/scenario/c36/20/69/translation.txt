@@ -6,3 +6,6 @@
 「ほら、どう？　結構捗ったと思わない？」=Look, how is it? Don't you think I've made quite a bit of progress?
 「誤差の範囲よ。まぁ、全然ダメだと思っていたから、予想以上の結果ではあるわね」=It's within margin of error. Well, this is better than I expected, if only because I thought you were completely hopeless.
 「でしょでしょ？　次は[H名]さんの勉強のやり方も知りたいな」=See, See? I wanna see the way you study as well, [H名]-san.
+
+
+

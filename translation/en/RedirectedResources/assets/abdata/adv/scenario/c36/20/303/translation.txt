@@ -13,3 +13,6 @@
 
 CHOICE:『延長して、もうちょっと歌おうよ』=『Extend it, let's sing a bit more』
 CHOICE:『そうだね。帰る仕度をしよっか』=『You're right, then let's prepare to head back home.』
+
+
+
