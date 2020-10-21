@@ -41,6 +41,14 @@
 またお願い=Do it again
 入れて欲しい=Put it in
 
+// Darkness
+中に出すぞ=Cum inside!
+外に出すぞ=Cum outside!
+もう一度だ=Again!
+飲め=Swallow!
+吐け=Spit!
+入れるぞ=Shove it in!
+
 // Positions
 
 // Masturbation
