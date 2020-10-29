@@ -113,6 +113,7 @@ BGMの音量=BGM volume
 マップ一覧=Map list
 部員一覧=Member list
 呼び出す=Call
+アフタースクール=After School
 
 
 プレイヤーの服装=Player's clothing
@@ -141,3 +142,5 @@ BGMの音量=BGM volume
 保存=Save
 トイレ覗き=Toilet Peeping
 シャワー覗き=Shower Peeping
+
+チュートリアルを終了しますか？=Finished with the tutorial?
