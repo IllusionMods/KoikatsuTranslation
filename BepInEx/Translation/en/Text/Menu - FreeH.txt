@@ -66,6 +66,9 @@ H段階=H-Level
 // Lesbian Mode Only
 相手キャラ選択=Partner Selection
 
+// Darkness Mode Only
+※マップは固定となります=*Map is pre-selected
+
 // Afterschool Addons for 3P
 名前 :=Name: 
 性格：=Pers.: 
