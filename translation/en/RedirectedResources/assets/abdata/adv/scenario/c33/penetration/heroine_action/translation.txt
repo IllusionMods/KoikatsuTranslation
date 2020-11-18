@@ -1,4 +1,4 @@
-//「えっと……混ざりたいの？　……どうする？」=
-//「ふぅん、面白そうじゃない」=
-//「えっと……混ざりたいの？　俺はＯＫだけど……」=
-//「いいわよ。二人とも、相手をしてあげる……」=
+「えっと……混ざりたいの？　……どうする？」=Erhm... You wanna join us?...What do you wanna do?
+「ふぅん、面白そうじゃない」=Hmm, why not, sounds interesting.
+「えっと……混ざりたいの？　俺はＯＫだけど……」=Erhm... You wanna join us? I'm all OK with it but...
+「いいわよ。二人とも、相手をしてあげる……」=No problem. I'll keep you both company...

@@ -1,5 +1,5 @@
-//「っ、遅くなってごめん……少し頼まれごとを引き受けてたら、長引いちゃって……」=
-//「わざわざ走ってきたの？　汗だくじゃない」=
-//「う、うん……[H名]さんを、待たせたくなくて……」=
-//「ふふふ、優しいのね……ほら、これで汗を拭いて。少し息を整えてから一緒に帰りましょ」=
-//（うわ……いいにおいのハンカチ……使うのもったいないけど、洗って返そう）=
+「っ、遅くなってごめん……少し頼まれごとを引き受けてたら、長引いちゃって……」=--!, Sorry for being late... Someone asked me to do something for them, and it dragged on a bit...
+「わざわざ走ってきたの？　汗だくじゃない」=So you ran all the way here, just for me? You're absolutely dripping in sweat.
+「う、うん……[H名]さんを、待たせたくなくて……」=Y-Yeah... I didn't want to make you wait, [H名]-san...
+「ふふふ、優しいのね……ほら、これで汗を拭いて。少し息を整えてから一緒に帰りましょ」=Fufufu, you're so sweet... Here, wipe your sweat off with this. Let's head home together after you catch your breath.
+（うわ……いいにおいのハンカチ……使うのもったいないけど、洗って返そう）=(Uwah... Her handkerchief smells so nice... Feels like such a waste to use it like this, I suppose I'll return it after washing it.)
