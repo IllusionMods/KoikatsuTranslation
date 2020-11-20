@@ -1739,6 +1739,10 @@ r:"^教室([０-９0-9]+)-([０-９0-9]+)$"=Classroom $1-$2
 // Animation Menu -> Current State -> Accessories
 r:"^スロ([０-９0-9][０-９0-9]+)$"=Slot $1
 
+// or if you have Studio Accesory Names plugin you need these 2
+r:"^スロット([０-９0-9][０-９0-9]+)$"=Slot $1
+sr:"^(?<slot_num_i>[０-９0-9]{2})\s+(?<accessory>\S.*)$"=${slot_num_i} ${accessory}
+
 // Animation Menu -> Current State -> Fluids
 顔=Face
 胸=Chest
