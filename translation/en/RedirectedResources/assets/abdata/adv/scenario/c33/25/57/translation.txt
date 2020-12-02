@@ -1,11 +1,11 @@
-//「よし１５分前に到着……って、[H名]さん！？　いつからいたの！？」=
+「よし１５分前に到着……って、[H名]さん！？ いつからいたの！？」=Alright, I got here 15 mins early... Eh, [H名]-san!? How long have you been here!?
 「私も今来たところよ。先にチケットを取りに行ったら、意外と時間が余っちゃって」=I got here just now too. I came to get the tickets ahead of time, but I had more time leftover than I expected.
 「そうだったんだね、ありがとう」=I see, so that's how it was, thanks.
-//「今日観るのは、[H名]さんおススメの映画なんだよね？　楽しみだなぁ」=
+「今日観るのは、[H名]さんおススメの映画なんだよね？ 楽しみだなぁ」=The movie we're watching today, it's one you've recommended before, isn't it? I'm looking forward to it.
 「ふふ、あなたの肌に合う映画だといいけど……上映までもう少しかかるから、その辺をぶらぶらしましょ」=Fufu, would be nice if you like it... There's still a bit of time before it starts, so let's wander around over there.
 「映画、すごく昔のって言ってたけど面白かったぁ。ミニシアターの雰囲気も良かったし、また行きたいな」=Even though you mentioned before that it was an old movie, it was still very interesting. The mood in that mini-theatre was also really nice, I wanna come here again.
-//「本当？　支配人にリバイバルを頼んだ甲斐があったわ。昔からの知り合いなの」=
-//「えっ？　頼んだって……わざわざ、今日のために？」=
+「本当？ 支配人にリバイバルを頼んだ甲斐があったわ。昔からの知り合いなの」=Really? It was worth asking the manager to screen it again then. He's someone I know from back in the day.
+「えっ？ 頼んだって……わざわざ、今日のために？」=Eh--? Asking, you say... you went out of your way, just for our date today?
 「私のことをあなたにもっと知ってもらいたくて……迷惑だった？」=I wanted to get you to know even more about me... Was it a bother?
 「迷惑なんて……嬉しいよ！」=It wasn't a bother... I'm super happy!
 「うふふ、よかった。あなたとの初デートだから、私の一番好きな映画を観てほしかったの」=Ufufu, I'm glad. It's our first date, so I wanted to show you my favourite movie.

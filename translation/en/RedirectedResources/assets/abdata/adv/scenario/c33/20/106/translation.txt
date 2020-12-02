@@ -19,15 +19,14 @@
 「普段、出かけるときは香水をつけるけど、あなたとデートするときはつけないの。どうしてだと思う？」=Normally, I put on perfume when I go out, but when I'm on a date with you, I never put on any. Why do you think that is?
 「[H名]さんの汗のにおいで、俺が興奮するから？」=Because I'll get horny from catching a wiff of your sweat, [H名]-san?
 「あ・た・り♡」=Spot・On ♡
-「[H名]さん……！　じゃ、じゃあまた場所を変えようか」=[H名]-san...! Then, Then, Shall we change locations again?
+「[H名]さん……！ じゃ、じゃあまた場所を変えようか」=[H名]-san...! Then, Then, Shall we change locations again?
 「本当に綺麗な夜景だね。[H名]さんの心があんな風にキラキラしてるなら、嬉しいな」=It truly is beautiful. If your heart is really sparkling like that, then I'm really happy.
 「……あなた、恋愛小説を読んだり、そういう映画を観たりした？」=......Did you read romance novels or watch those sorts of movies?
-「え？　なんで？」=Eh? Why?
+「え？ なんで？」=Eh? Why?
 「……なら、別にいいの」=......It's fine then.
 「？」=?
 「しばらく、こうしてていい？」=Can we stay like this, for a while?
 「それは、もちろん」=Of course.
 「あなたがどんどん女の子の心を抉る言葉を覚えてて、お姉さん将来が心配よ」=With how quickly you're learning phrases like that, that just dig out a woman's heart, Onee-san's worried for the future.
-
 CHOICE:『[H名]さんの方が綺麗だよ』=『[H名]-san is way more beautiful!』
 CHOICE:『本当に綺麗な夜景だね』=『Truly, what a beautiful nightscape.』

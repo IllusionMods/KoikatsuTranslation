@@ -1,6 +1,6 @@
-//「じゃあさっそく勉強……ん？　[H名]さん、その筆箱……ペンギン？」=
-//「え？　ああ、これ？　昔、家族と水族館に行ったときに買ってもらったペンケースなの、ペンギンだけに」=
+「じゃあさっそく勉強……ん？ [H名]さん、その筆箱……ペンギン？」=Then, let's start with the... Hmm? [H名]-san, that pencil case... a penguin?
+「え？ ああ、これ？ 昔、家族と水族館に行ったときに買ってもらったペンケースなの、ペンギンだけに」=Eh? Aaah, this? I had my parents buy this pencase for me when we went to an aquarium a long time ago, just because it was a penguin.
 「じゃあ、そのペンギンのシャーペンも、イルカのクリアファイルも？」=Then, that penguin mechanical pencil, and that dolphin notepad too?
-//「ええ。意外とこういう趣味なの。幻滅した？　ふふふ」=
+「ええ。意外とこういう趣味なの。幻滅した？ ふふふ」=Yes. I actually really like this sort of stuff. Disillusioned? Fufufu~
 「そ、そんなことないよ。女の子っぽくていいと思う」=T-That's not it. I think it's quite girly, very nice.
 （大人っぽい人が子どもっぽいものを使ってるのって……なんかドキッとするな）=(A mature person using childish stuff like that... Kinda makes my heart race.)

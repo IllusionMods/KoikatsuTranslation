@@ -4,11 +4,10 @@
 「観覧車、乗らない？」=Won't you ride the ferris wheel with me?
 「あら、それってエッチのお誘い？」=Oh my, is that an invite for some sexy time?
 「ち、違うよ。たしかに個室だけど……もう少ししたら夜景が綺麗な時間になるなと思って」=N-No, not at all. Certainly, it'll be like a private room for us but... I was just thinking that in just a bit more, the night view is going to turn into a real sight to see.
-「ふふ、冗談よ♡　吊り橋効果でドキドキしに行きましょうか」=Fufu, I was joking♡ Then, shall we go and become sufferers of the Suspension Bridge Effect?
+「ふふ、冗談よ♡ 吊り橋効果でドキドキしに行きましょうか」=Fufu, I was joking♡ Then, shall we go and become sufferers of the Suspension Bridge Effect?
 「暗くなる前に帰ろうか」=Shall we go home before it turns dark?
 「そうね。今日が最後の遊園地ってわけでもないし……」=Good call. It's not like this is the last time we'll be coming to the amusement park...
 「また、一緒に来てくれるでしょう？」=We're going to come here together again, right?
 「うん、もちろんだよ」=Yeah, of course.
-
 CHOICE:『観覧車に乗らない？』=『Won't you ride the Ferris Wheel with me?』
 CHOICE:『暗くなる前に帰ろうか』=『Shall we go home before it turns dark?』

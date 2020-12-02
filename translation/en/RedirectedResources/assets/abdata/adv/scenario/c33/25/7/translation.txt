@@ -1,5 +1,5 @@
 「あら……あなたさえ良ければ、隣りにいさせてほしいけど、いいの？」=Oh... If it's alright with you, I'd like to be by your side, is it okay?
-//「い、いいよ、もちろん！　あ～、よかったぁ……」=
+「い、いいよ、もちろん！ あ～、よかったぁ……」=O-Of course, it's alright! Aah~, I'm so glad...
 「ふふ、そんなヘナヘナになっちゃうぐらい緊張してたの？」=Fufu, were you that nervous? Enough to have your legs turn to jelly?
 「だって、[H名]さんってすごく大人っぽいから、男として見られてないかもって心配で……」=I mean, you're so mature and adult-like, [H名]-san, I was worried you didn't see me as a man...
 「くすくすっ、私ってそんなに大人っぽい？」=*Chuckle*, do I seem that mature to you?

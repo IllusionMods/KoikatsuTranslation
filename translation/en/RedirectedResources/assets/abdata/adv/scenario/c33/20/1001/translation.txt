@@ -3,7 +3,7 @@
 「本当にウェディングドレスが着られるのね。柄じゃないけど、ドキドキしてきたわ」=I'm really going to get to put on a wedding dress, huh. It doesn't fit me, but I'm getting real excited.
 「チャペルはこの扉の向こうになります。準備が整いましたら、こちらからご入場ください」=The chapel is beyond this door. Once the preperations are dealt with, please make an entrance through here.
 「準備ですか？」=Preparations?
-「はい！　これからお二人には、ウェディングドレスとタキシードにお召し替えいただきます」=Yes! We'll have the both of you change into a wedding dress and a tuxedo after this.
+「はい！ これからお二人には、ウェディングドレスとタキシードにお召し替えいただきます」=Yes! We'll have the both of you change into a wedding dress and a tuxedo after this.
 「別のスタッフがお支度部屋までご案内しますので、少々お待ちください」=There is other staff coming that will guide you to the changing rooms and help you get into the clothes, so please wait here for a bit.
 「……ちょっと緊張してきた」=......I'm getting a bit nervous.
 「頑張ってね、旦那様」=Do your best, Mr. Husband.
@@ -11,24 +11,23 @@
 「私、どんな奥さんだと思う？」=What kind of a wife do you think I'll be?
 「え……そうだなぁ。なんとなく働いてそう。[H名]さん、バリバリのキャリアウーマンって感じ。あーでも、専業主婦の[H名]さんってのも捨てがたい……」=Eh... Let's see. I imagine you'll be working at something or other. Probably a hardworking career woman, it suits you. Ah, but, you'd be great as a stay at home housewife too...
 「ふふ、夢が広がるわね」=Fufu, you have big dreams.
-「お待たせしました！　それではご案内致します」=Sorry for the wait! Well then, I'll be guiding you inside.
+「お待たせしました！ それではご案内致します」=Sorry for the wait! Well then, I'll be guiding you inside.
 「式の流れなどは、お支度部屋にてご説明させていただきますね」=Things like flow of the ceremony and how to do things will be explained inside the changing room itself.
-「あっ、はい！　[H名]さんだったら、どんな奥さんでも素敵だと思うよ。それじゃ、またあとでね」=Ah, Okay! I think that you'd be wonderful no matter what sort of wife you end up being, [H名]-san. Then, I'll be seeing you later.
+「あっ、はい！ [H名]さんだったら、どんな奥さんでも素敵だと思うよ。それじゃ、またあとでね」=Ah, Okay! I think that you'd be wonderful no matter what sort of wife you end up being, [H名]-san. Then, I'll be seeing you later.
 「ふふ、言うじゃない。またね」=Fufu, maybe so. See ya.
 ………………=.........
 …………=......
 ……=...
 （……着替えてみたけど、服に着られてる感がすごい）=(...Well I got changed. These clothes feel amazing tho.)
 （っと、スタッフさんが呼んでる。さっきの所に戻るのかな？）=(Oh, the staff is calling me. I suppose I should go back.)
-「まぁ！　よくお似合いですよ」=Oh my! It suits you very well!
+「まぁ！ よくお似合いですよ」=Oh my! It suits you very well!
 「ははは……ありがとうございます」=Hahaha... Thank you very much.
 「式のご説明はお受けになりましたか？」=Have you understood the explanation for the ceremony?
 「えっと、まずは新郎役の俺から入場するんですよね？」=Uhm, let's see. First the Groom, that's me, has to enter the chapel, yes?
 「はい。扉が開いたらゆっくりと署名台までお進みください」=Yes, that's right. When this door opens, slowly make your way towards the signature table.
 「で、その後に新婦が登場して、それから誓いの言葉とか、式のメイン部分をやっていくと」=Then, after that, the bride will enter the scene. After that, there's the main parts of the ceremony like the vows and such.
-「完璧です！　進行はバッチリですね」=Perfect! You're spot on.
+「完璧です！ 進行はバッチリですね」=Perfect! You're spot on.
 （うろ覚えなんだけどなぁ……ま、なんとかなるか）=(I can only vaguely remember it though... Well, I'll manage it I suppose)
 「それでは、こちらで少々お待ちください」=Well then, please wait here for a moment.
 「わかりました」=Got it.
-
 モブ=Mob
