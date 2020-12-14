@@ -1,0 +1,3 @@
+身体を表示=Show Body
+身体を消す=Hide Body
+アクセサリは表示する=Display Accessory
