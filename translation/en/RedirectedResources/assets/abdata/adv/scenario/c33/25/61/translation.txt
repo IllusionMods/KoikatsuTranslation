@@ -10,6 +10,6 @@
 「……ええ、私も同じ気持ちよ」=......Yes, I feel the same way.
 「うん、また行こう。それじゃあね」=Yeah, let's. Then, later.
 「ええ、また学園でね」=Yes, let's meet at the school again.
-//=
+
 CHOICE:「もうちょっと一緒にすごさない？」=[Can't we stay together just a bit longer?]
 CHOICE:「俺もだよ。それじゃあまたね」=[Same here. Then, till next time]

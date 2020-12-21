@@ -11,6 +11,6 @@
 「シャワー」=A shower--
 「エッチなこと考えてくれた？」=Having lewd thoughts?
 「ま、また誘導したの？」=T-trying to lead me on again?
-//=
+
 CHOICE:『夜景を見せにいく』=『Take her to see the Night View』
 CHOICE:『切り上げて駅に向かう』=『Wrap it up and head to the station』

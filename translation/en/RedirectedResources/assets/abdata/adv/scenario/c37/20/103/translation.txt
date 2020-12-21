@@ -11,6 +11,6 @@
 「うん。最後まで、ちゃんとデートっぽくしようかなって」=Yeah. I was thinking of keeping the date going, until the very last moment.
 「わかりました。では――」=Understood. Well then--
 「ありがとう。行こうか」=Thank you. Let's go.
-//=
+
 CHOICE:『まだ時間ある？』=Do you still have time?
 CHOICE:『そろそろ出ようか』=Maybe we should head back.

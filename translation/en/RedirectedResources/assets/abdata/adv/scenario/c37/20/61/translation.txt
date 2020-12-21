@@ -13,6 +13,6 @@
 「あーごめん、今日はちょっと……」=Aaah, sorry, today's a bit...
 「……そうですか、今日はここまでですね」=...Is that so? Then we'll be parting ways here for today.
 「では、本日もありがとうございました、次回のデートも楽しみにしています」=Thank you very much for today as well, I'm looking forward to our next date as well.
-//=
+
 CHOICE:「……うん、歓迎するよ」=...Yeah, you're welcome to.
 CHOICE:「ごめん、今日はちょっと……」=Sorry, today's a bit...

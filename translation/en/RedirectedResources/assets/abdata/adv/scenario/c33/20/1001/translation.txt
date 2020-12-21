@@ -30,5 +30,5 @@
 （うろ覚えなんだけどなぁ……ま、なんとかなるか）=(I can only vaguely remember it though... Well, I'll manage it I suppose)
 「それでは、こちらで少々お待ちください」=Well then, please wait here for a moment.
 「わかりました」=Got it.
-//=
+
 モブ=Mob

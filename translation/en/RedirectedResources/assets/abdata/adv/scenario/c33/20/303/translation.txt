@@ -15,6 +15,6 @@
 「入れたよ！」=I put it in the queue!
 『もしも今 背中に羽が生えて 大空自由に 飛び回れたら～♪』=『If only I could sprout wings from my back and fly freely in the wide open sky right now♪』
 （ん～、何度聞いてもすごい美声……うっとりするなぁ）=(Nn~, No matter how many times I listen to it, she has an amazingly beautiful voice... So enchanting)
-//=
+
 CHOICE:『延長したいな』=『I want to extend it』
 CHOICE:『延長はいいかな』=『I think we should call it a day』

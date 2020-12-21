@@ -12,6 +12,6 @@
 「……声、抑えなければならなそうですね」=... Suppose I'll just have to keep my voice down.
 （っ、気持ちいいけど、ここは我慢しなきゃ……！）=(--, It feels really good but, I gotta endure here...!)
 （せっかくのデートを台無しにしないためにも、何か別のことを考えて気を紛らわせよう……）=(I'll have to focus on something else, if I don't want to end the date today on a bad note...)
-//=
+
 CHOICE:『欲望に身を任せる』=『Give in to your desires』
 CHOICE:『鉄の自制心で堪える』=『Bear it with an iron will』

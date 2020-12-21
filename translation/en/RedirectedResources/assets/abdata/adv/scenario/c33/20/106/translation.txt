@@ -28,6 +28,6 @@
 「しばらく、こうしてていい？」=Can we stay like this, for a while?
 「それは、もちろん」=Of course.
 「あなたがどんどん女の子の心を抉る言葉を覚えてて、お姉さん将来が心配よ」=With how quickly you're learning phrases like that, that just dig out a woman's heart, Onee-san's worried for the future.
-//=
+
 CHOICE:『[H名]さんの方が綺麗だよ』=『[H名]-san is way more beautiful!』
 CHOICE:『本当に綺麗な夜景だね』=『Truly, what a beautiful nightscape.』

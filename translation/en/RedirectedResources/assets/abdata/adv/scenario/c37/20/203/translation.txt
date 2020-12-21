@@ -7,6 +7,6 @@
 「そうですね」=Indeed.
 「次回の為にも、楽しみは残しておきましょう」=Let's leave behind some things to look forward to, for next time's sake.
 「うん。じゃあ、名残惜しいけど行こっか」=Yeah. Then, while I don't wanna be apart from you, let's go.
-//=
+
 CHOICE:『最後に観覧車に乗ってかない？』=『Wanna go ride on the Ferris Wheel to end the day?』
 CHOICE:『暗くなるから帰ろうか』=『It's gonna get dark so maybe we should go home.』

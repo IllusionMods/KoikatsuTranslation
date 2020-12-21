@@ -10,5 +10,5 @@
 「ええ、私も。興味津々よ」=Yes, same here. I'm super up for it.
 「じゃあ決まりだね！　俺たちでよければお願いします」=Then that's settled! If the two of us will do, then please.
 「ありがとうございます！　それでは、さっそく式場までご案内いたしますね！」=Thank you very much! Then, I'll take you both to the wedding hall.
-//=
+
 モブ=Mob

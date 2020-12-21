@@ -9,5 +9,5 @@
 「ええ、構いませんよ」=Yes, I don't mind.
 「うん。それじゃあ……俺たちでよければ」=Okay. Well then... If you're fine with the two of us.
 「ありがとうございます！　それでは、さっそく式場までご案内いたしますね！」=Thank you very much! Then, I'll take you both to the wedding hall.
-//=
+
 モブ=Mob

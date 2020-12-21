@@ -18,6 +18,6 @@
 「……そうですね」=......Indeed.
 「……？　ほら、出るよ？」=.........? Come on, aren't you coming?
 「……はい、只今準備します」=...Yes, give me a moment to get my things.
-//=
+
 CHOICE:『最後までいよう』=『Stay until the end』
 CHOICE:『今日はもう帰ろうか』=『Let's go home for today』
