@@ -1,5 +1,5 @@
-//「大人になったら、もう少し遅くまでいても大丈夫かな？」=
-//「そうね。きっと何年か後には、この時間もあそこにいると思うわ」=
-//「遊園地に併設されてるホテルに泊まったりね」=
-//「楽しそうじゃない。次の日も思いっきり遊んじゃったりして、ふふふっ」=
-//（何年か後も[H名]さんと付き合えてたらいいな……うん、頑張ろう）=
+「大人になったら、もう少し遅くまでいても大丈夫かな？」=I wonder if it'd be alright to stay for longer once we become adults.
+「そうね。きっと何年か後には、この時間もあそこにいると思うわ」=For sure. In many years from now, I'm sure we'd still be there at this time.
+「遊園地に併設されてるホテルに泊まったりね」=We'll stay at the hotel that's tied to the amusement park.
+「楽しそうじゃない。次の日も思いっきり遊んじゃったりして、ふふふっ」=That sounds fun. Have an absolute blast the next day as well, Fufufu--
+（何年か後も[H名]さんと付き合えてたらいいな……うん、頑張ろう）=(Would be great if we could keep dating, even years from now... Yeah, I'll try my best)

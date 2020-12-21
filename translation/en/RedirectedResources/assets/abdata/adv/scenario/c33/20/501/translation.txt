@@ -1,6 +1,6 @@
-//「[H名]さん、遅れてごめんっ！」=
-//「ふふ、やっぱり走ってきた。ゆっくりでいいって返信したのに……でも、あなたのそういう男の子っぽいところ、好きよ」=
-//「はぁ……はぁ……男の子っぽい？　遅れて走ってくるところが？」=
-//「クスッ。そういう、鈍感で真っ直ぐなところが♡　それより、遅れてきたんだから、今日はたくさん私を楽しませてね？」=
-//「う、うん、もちろんだよ！」=
-//（遅れちゃったのに、ご機嫌だな。何だかよくわからないけど、[H名]さんが楽しそうなら、何より……お望み通り、楽しいところへ連れていってあげよう！）=
+「[H名]さん、遅れてごめんっ！」=[H名]-san, I'm sorry I'm late--!
+「ふふ、やっぱり走ってきた。ゆっくりでいいって返信したのに……でも、あなたのそういう男の子っぽいところ、好きよ」=Fufu, you really did come running. Even though I told you to take your time... But, I really like that boyish side of you.
+「はぁ……はぁ……男の子っぽい？　遅れて走ってくるところが？」=Haa... Haa... Boyish? What, me being late and running all the way?
+「クスッ。そういう、鈍感で真っ直ぐなところが♡　それより、遅れてきたんだから、今日はたくさん私を楽しませてね？」=*Giggle*. No, that block-headed and honest side of yours♡ But, since you were indeed late, make sure to entertain me lots today, alright?
+「う、うん、もちろんだよ！」=Y-Yeah, that's a given!
+（遅れちゃったのに、ご機嫌だな。何だかよくわからないけど、[H名]さんが楽しそうなら、何より……お望み通り、楽しいところへ連れていってあげよう！）=(Even though I was late, she sure is in a good mood. I don't really get it but, making [H名]-san have a good time is the top priority... Then, as she wants, let's take her to a fun place!)
