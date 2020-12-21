@@ -1,2 +1,2 @@
-//「授業で焼いたマフィンです、どうぞ」=
-//「あとで感想を聞かせてください」=
+「授業で焼いたマフィンです、どうぞ」=I baked these muffins during class, have some.
+「あとで感想を聞かせてください」=Tell me how you like them later, alright?

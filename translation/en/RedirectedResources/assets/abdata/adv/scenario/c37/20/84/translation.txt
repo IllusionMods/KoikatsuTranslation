@@ -1,5 +1,5 @@
-//「では……まずは何をすればいいのでしょうか？」=
-//「そうだね、まずは……普通におしゃべりするところからかな」=
-//「それは普段からしていると思いますが」=
-//「こういう機会じゃないと話せない事をお互いにして、より親睦も深めようって事さ」=
-//「ふむ……わかりました、では―――」=
+「では……まずは何をすればいいのでしょうか？」=Well then... What should we start with?
+「そうだね、まずは……普通におしゃべりするところからかな」=Let's see, first... I suppose we should start with a normal chat?
+「それは普段からしていると思いますが」=I think we do that a lot on a regular basis anyway though.
+「こういう機会じゃないと話せない事をお互いにして、より親睦も深めようって事さ」=The point is to deepen our friendship by talking about things that we normally don't talk about, things that we're only bringing up because we're doing this sort of thing.
+「ふむ……わかりました、では―――」=Hmmm... I understand, well then---

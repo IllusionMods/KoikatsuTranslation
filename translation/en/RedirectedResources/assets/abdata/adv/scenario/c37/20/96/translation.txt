@@ -1,7 +1,7 @@
-//「すぅ……すぅ……ん、んん……」=
-//（んぅ……ん……なんか、下半身に違和感が……？）=
-//「…………」=
-//「……え？　えぇっ？」=
-//「ずいぶん気持ち良さそうに寝てましたね」=
-//「ちょっと疲れてて……って、そうじゃなくて！　いったいなにしてるの？」=
-//「見てのとおり、スッキリしてもらおうと思ってます」=
+「すぅ……すぅ……ん、んん……」=*Snore*... *Snore*... Nn, Nnnnn......
+（んぅ……ん……なんか、下半身に違和感が……？）=(Nn, Nnnn...... For some reason, there's this weird feeling in my lower half...?)
+「…………」=...
+「……え？　えぇっ？」=...Eh? Eeh--?
+「ずいぶん気持ち良さそうに寝てましたね」=You were having quite the nice sleep there, weren't you?
+「ちょっと疲れてて……って、そうじゃなくて！　いったいなにしてるの？」=I was a bit tired, you see... Wait, that's not the point! Just what are you doing?
+「見てのとおり、スッキリしてもらおうと思ってます」=As you can see, I thought I'd help you feel refreshed.

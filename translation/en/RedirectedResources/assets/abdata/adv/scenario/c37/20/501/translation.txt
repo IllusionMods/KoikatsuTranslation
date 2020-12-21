@@ -1,7 +1,7 @@
-//「あ……」=
-//「どうやら同じタイミングで到着したようですね」=
-//「はは、そうみたいだね」=
-//「とは言え、集合時刻までまだ時間はあるはずですが？」=
-//「それを言ったら[H名]だってそうだろ？」=
-//「私はデートに浮かれているだけですので。それで、今日はどこへ向かいますか？」=
-//「え、あぁうん、えっと今日は……」=
+「あ……」=Ah...
+「どうやら同じタイミングで到着したようですね」=Seems like we've both arrived at the same time, huh?
+「はは、そうみたいだね」=Haha, looks like it.
+「とは言え、集合時刻までまだ時間はあるはずですが？」=That said, there should still be a fair bit of time before the appointed time for our date, no?
+「それを言ったら[H名]だってそうだろ？」=You say that but, you came early just like me, no?
+「私はデートに浮かれているだけですので。それで、今日はどこへ向かいますか？」=I'm just really excited about our date today, that's all. So then, where are we headed to, today?
+「え、あぁうん、えっと今日は……」=Eh, Ah, Uhm, Erm, Today...
