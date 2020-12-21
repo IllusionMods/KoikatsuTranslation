@@ -27,7 +27,7 @@
 「ちゅ、ん……」=*Kiss*, Nn...
 「ありがと。じゃあ、またね」=Thanks. Then, see ya later.
 「ええ。それではまた」=Yes. Till next time.
-//=
+
 CHOICE:『自宅に誘う』=『Invite to your place』
 CHOICE:『ラブホに誘う』=『Invite to a love hotel』
 CHOICE:『それでもさよならする』=『Or say goodbye』

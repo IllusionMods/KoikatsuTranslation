@@ -12,6 +12,6 @@
 「声は出さずに。静かに……私を感じていて下さい」=Don't make a sound. Quietly... Enjoy the sensation of being inside me.
 （っ、気持ちいいけど、ここは絶対我慢しなきゃ……！）=(--!, It feels really good but, I definitely gotta endure here...!)
 （せっかくのデートを台無しにしないためにも、何か別のことを考えて気を紛らわせよう……）=(I'll have to focus on something else, if I don't want to end the date today on a bad note...)
-//=
+
 CHOICE:『我慢しようとしてみる』=『Make an attempt at enduring it』
 CHOICE:『必死に我慢する』=『Desperately endure it』

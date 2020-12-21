@@ -21,7 +21,7 @@
 「[H名]さんをヤキモキさせたくて」=I wanted to make you anxious, [H名]-san.
 「あら、意外とイジワルなのね。いいわ、あなたのお望みどおり、とってもヤキモキして帰っちゃう。その代わり、次のデートは大変なことになっちゃうから」=Oh, you sure are quite the bully today. Alright then, just as you want, I'll go home while being super anxious. In turn though, I'll give you one hell of a hard time on our next date, alright?
 「うん、楽しみにしてる。またね、[H名]さん」=Yeah, I look forward to it. See ya later, [H名]-san.
-//=
+
 CHOICE:『自宅に誘う』=『Invite to your place』
 CHOICE:『ラブホに誘う』=『Invite to love-hotel』
 CHOICE:『さよならする』=『Say goodbye』

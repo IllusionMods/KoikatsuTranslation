@@ -47,6 +47,6 @@
 「そうだね。きっとそうだよ」=Probably. I'm sure it's like that.
 「では、この幸せをずっと手放さないようにしましょう」=Then, let's make sure to never let go of this happiness.
 「もちろんだよ。ずっとずっと先の未来まで、ね」=Of course. All the way till we're old bones.
-//=
+
 モブ=Mob
 牧師=Pastor

@@ -13,6 +13,6 @@
 （さ、流石にここで勃起させるのはマズイっ。別のことを考えて意識を逸らそう……）=(I-It really would be bad to pop a boner in this situation--. I should shift focus to something else...)
 （とりあえず勉強のことでも…………そういば、何か大切なことを忘れてた、ような……？　何だっけ？）=(For now, I should try thinking about studies... Come to think of it, I feel like I've forgotten about something important...? What was it?)
 （っ、そうだ課題！　[H名]さんとのデートが楽しみすぎですっかり忘れてた……！）=(--, That's right, the assignment! I was so busy thinking about my date with [H名]-san that I completely forgot about it...!)
-//=
+
 CHOICE:『欲望に身を任せる』=『Surrender to your desires』
 CHOICE:『必死に我慢する』=『Desperately endure』

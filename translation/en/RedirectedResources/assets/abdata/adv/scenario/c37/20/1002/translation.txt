@@ -13,5 +13,5 @@
 「[H名]……」=[H名]...
 「すごく綺麗だよ。ドレスも似合ってるし」=You look really lovely. The dress suits you too.
 「……ありがとうございます」=...Thank you very much.
-//=
+
 モブ=Mob

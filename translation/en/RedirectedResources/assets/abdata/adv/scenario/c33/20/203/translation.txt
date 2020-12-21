@@ -9,6 +9,6 @@
 「そうね。今日が最後の遊園地ってわけでもないし……」=Good call. It's not like this is the last time we'll be coming to the amusement park...
 「また、一緒に来てくれるでしょう？」=We're going to come here together again, right?
 「うん、もちろんだよ」=Yeah, of course.
-//=
+
 CHOICE:『観覧車に乗らない？』=『Won't you ride the Ferris Wheel with me?』
 CHOICE:『暗くなる前に帰ろうか』=『Shall we go home before it turns dark?』

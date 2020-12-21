@@ -29,6 +29,6 @@
 「ううん。むしろ喜んで」=No, If anything, I'm really happy.
 「――っと。これでＯＫだね。行こうか」=----and, there, we're good to go. Shall we?
 「はい」=Yes.
-//=
+
 CHOICE:『ここでエッチしちゃうくらいにね』=『So much so that we could have sex in here』
 CHOICE:『また一緒に夜景を見に来ようね』=『Let's come again to look at the night sky』
