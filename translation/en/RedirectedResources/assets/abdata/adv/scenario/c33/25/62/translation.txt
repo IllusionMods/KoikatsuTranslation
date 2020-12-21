@@ -1,11 +1,11 @@
 ………………=.........
 …………=......
 ……=...
-//「それでね……あら、もう着いちゃった。今日はここまでね」=
-//「……この後、家にこれないかな？　まだ[H名]さんと一緒にいたい」=
-//「ええ、私もそう思ってたわ……自分との時間を名残惜しんでくれる人がいるって幸せよね、ふふふ」=
-//「そうだね、ばいばい」=
-//「ええ、またね」=
-
-//CHOICE:「もしよかったら、俺の家に来ない？」=
-//CHOICE:「そうだね。じゃあ、ばいばい」=
+「それでね……あら、もう着いちゃった。今日はここまでね」=And so... Oh, we're here already. Guess this is where we part for today.
+「……この後、家にこれないかな？　まだ[H名]さんと一緒にいたい」=......Wanna come to my place after this? I wanna spend more time with you, [H名]-san.
+「ええ、私もそう思ってたわ……自分との時間を名残惜しんでくれる人がいるって幸せよね、ふふふ」=Yes, I was thinking the same... It feels really nice, to know there's someone who doesn't want to part with me, fufufu~
+「そうだね、ばいばい」=Suppose so, byebye~
+「ええ、またね」=Yes, see ya later.
+//=
+CHOICE:「もしよかったら、俺の家に来ない？」=[ If you like, wanna come to my place? ]
+CHOICE:「そうだね。じゃあ、ばいばい」=[ Suppose so. Then, bye-bye ]

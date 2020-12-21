@@ -1,4 +1,4 @@
-//「あ、[H名]さん！　今日もキレイだね！」=
-//「…………あなたって、将来、何人の女の子を泣かせるのかしらね……なんて、ふふふ、ありがと♡」=
-//「え、えっと……どういたしまして？」=
-//（何か俺を見透かすような目で見てきてるけど……試されてる！？　よし、今日ははりきって[H名]さんをときめかせよう！）=
+「あ、[H名]さん！　今日もキレイだね！」=Ah, [H名]-san! You're beautiful as usual!
+「…………あなたって、将来、何人の女の子を泣かせるのかしらね……なんて、ふふふ、ありがと♡」=...I wonder just how many girls you'll make cry in the future...joking, fufufu, thanks ♡
+「え、えっと……どういたしまして？」=E-Ehrm... You're welcome, I guess?
+（何か俺を見透かすような目で見てきてるけど……試されてる！？　よし、今日ははりきって[H名]さんをときめかせよう！）=(With how she's staring at me, I feel like she trying to see right through me... Wait, Am I being tested!? Alright, let's go all out today, and make [H名]-san feel her heart throb!)
