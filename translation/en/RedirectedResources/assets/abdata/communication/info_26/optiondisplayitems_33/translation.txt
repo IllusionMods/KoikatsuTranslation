@@ -31,12 +31,12 @@
 連れていく=Take me there.
 連れていかない=I won't go.
 興味ある=Not all that interested.
-あんまり興味ない=
+//あんまり興味ない=
 ある=There is.
 ない=Not there.
 俺も好きだよ=I like it too.
 ……ごめん=...Sorry
-……俺も好きだ=
+//……俺も好きだ=
 いいよ=Alright
 ごめん=Sorry
 もちろんいいよ=Of course that's fine.

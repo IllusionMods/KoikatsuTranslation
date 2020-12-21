@@ -243,7 +243,7 @@
 「そうね。大も小も兼ねるのが普通よ。たまには良い事を言うじゃない」="Right? It's normal not to choose either big or small. You occasionally say some good things."
 「あら、本当に変態だったのね。ふーん、まぁ良しとしましょう」="Oh, so you're really a pervert. Hmm... Well, let's say it's fine."
 「女の身長って、どれくらいが好みなの？　教えなさい」="Say, what height do you prefer in a girl?"
-//「ふぅん、見下されて、踏まれたいのね？　このマゾ豚」="Huuh, you want to be looked down on and trampled, right? You masochistic pig."
+「ふぅん、見下されて、踏まれたいのね？　このマゾ豚」="Huuh, you want to be looked down on and trampled, right? You masochistic pig."
 「貴方らしい、何の面白みのない答えね。まぁいいわ」="An uninteresting answer, just like you. Well, whatever."
 //「幼女趣味の犯罪者予備軍を発見。速やかに通報した方が良さそうね。フフッ」=
 「女の体型に好みはあるの？　くだらないフェチはいいから、簡潔に答えなさい」="Is there a figure you prefer in a girl? I don't care about your stupid fetishes, just answer briefly."
@@ -452,7 +452,7 @@
 「……早く出しなさい。二度とふざけた事が言えないように、もいであげるわ」="...Pull it out right now. I'll rub it so that you'll never be able to joke again."
 「男から見て、私の胸はどうなのかしら？　下僕の意見を聞かせなさい」="From boy's point of view, how are my breasts? Let me hear your thoughts."
 //「フッ、そう。少し下品かと思っていたけど、下品な貴方には丁度いいのね」=
-//「わかったから、その無様に大きくしたものを、早く小さくしなさい」="I got it, so make this unsightly big thing smaller.
+「わかったから、その無様に大きくしたものを、早く小さくしなさい」="I got it, so make this unsightly big thing smaller.
 「変な気を使っているのではないでしょうね？　フンッ、まぁいいわ」="You don't mean anything strange by that, right? Heh, whatever."
 「貴方、私の身長の事はどう思っているの？」="What do you think about my height?"
 //「やはり見下されるのが好きなの？　マゾ豚なところは変わらないわね」=

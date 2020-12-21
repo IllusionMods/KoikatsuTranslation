@@ -4,4 +4,3 @@
 「もしかして、迷惑だったか……？」="Sorry, was I being annoying...?"
 「そんな……迷惑なんて……。違うの、少しびっくりしただけ……」="No, no... Nothing like that. I was just surprised...
 「驚いたけど……うれしかった。その、私も……あなたのこと好き……」="I was suprised... and happy. I... like you too."
-"

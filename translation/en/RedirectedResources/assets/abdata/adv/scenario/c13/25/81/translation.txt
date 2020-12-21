@@ -1,5 +1,5 @@
-//「じゃ～ん。今日は手作りのお弁当持ってきました～」=“Ta-daa! Today I made a bento, just for you～”
-//「うぉ！ めちゃくちゃ美味そう。いただきます！ って、なんでくれないの！？」=“Whoa! It looks extremely tasty. Time to dig in! Wait, where's yours!?”
-//「勝手に食べちゃダメじゃん？ アタシが食べさせてあげるから……はい、あ～ん」=“You're not gonna eat it on your own? Then I'll feed it to you...... okay, say ahh～”
-//「あ、あ～ん……もぐもぐ、ごくん。うん！ めっちゃ美味しい！」=“A-Ahh......” *Munch munch, Gulp* “Yeah! It's really delicious!”
-//「あは、良かった！ 毎日作ってあげるからね？ その……アタシが、お嫁さんになったら」=“Aha, glad to hear it! I'll make you one every day from now on, 'kay? Uh...... when I become a bride.”
+「じゃ～ん。今日は手作りのお弁当持ってきました～」=“Ta-daa! Today I made a bento, just for you～”
+「うぉ！ めちゃくちゃ美味そう。いただきます！ って、なんでくれないの！？」=“Whoa! It looks extremely tasty. Time to dig in! Wait, where's yours!?”
+「勝手に食べちゃダメじゃん？ アタシが食べさせてあげるから……はい、あ～ん」=“You're not gonna eat it on your own? Then I'll feed it to you...... okay, say ahh～”
+「あ、あ～ん……もぐもぐ、ごくん。うん！ めっちゃ美味しい！」=“A-Ahh......” *Munch munch, Gulp* “Yeah! It's really delicious!”
+「あは、良かった！ 毎日作ってあげるからね？ その……アタシが、お嫁さんになったら」=“Aha, glad to hear it! I'll make you one every day from now on, 'kay? Uh...... when I become a bride.”

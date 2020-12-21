@@ -1,4 +1,4 @@
 「んーっ、よく寝た。……あれ？　メモがある。なになに――」=“Mmm, I slept well. ...Oh? There's a letter. What's it say...?”
-//『[P]くん、おはよー。よく寝てたから先に出るぞ』=“[P]-kun, good morning. I slept well and I'll be leaving first.”
-//『ちゃんと顔洗って、ご飯食べてこいよー。また学園で会おう！』=“Wash your face properly and eat breakfast. See you again at school!”
-//『それと、寝顔にキスしておいた♪　[H]』=“Also, I kissed your sleeping face♪ [H]”
+『[P]くん、おはよー。よく寝てたから先に出るぞ』=“[P]-kun, good morning. I slept well and I'll be leaving first.”
+『ちゃんと顔洗って、ご飯食べてこいよー。また学園で会おう！』=“Wash your face properly and eat breakfast. See you again at school!”
+『それと、寝顔にキスしておいた♪　[H]』=“Also, I kissed your sleeping face♪ [H]”

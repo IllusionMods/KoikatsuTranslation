@@ -198,7 +198,7 @@
 //「へえ、いいな～。今度それでおごってよ」=
 「彼氏がほしいって思ったことはある？」=“Have you ever wanted a boyfriend?”
 //「そ、それはもちろんよ。だって、女の子なんだもの」=
-//「その、漫画みたな恋に憧れはあるけど……正直、よく分からないわ」=“Well that's... Because I read about it in manga... To be honest, I don't know.”
+「その、漫画みたな恋に憧れはあるけど……正直、よく分からないわ」=“Well that's... Because I read about it in manga... To be honest, I don't know.”
 「どんなシチュエーションで運命の人と出会いたい？」=“What kind of situation would you like to meet your fated one in?”
 //「そうね。あたしが強盗犯の人質になったところに白馬で駆けつけて助けて欲しいわ」=
 「運命の人と出会えるならどんな出会い方でもいいわ」=“Meeting my fated one anywhere is fine.”
