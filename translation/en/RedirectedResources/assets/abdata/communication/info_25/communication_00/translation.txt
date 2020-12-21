@@ -545,7 +545,7 @@
 「もう……ダメ」「ダメったらダメ」「言う事を聞いて」「お願い」=“Geez... you can't.”“No means no.”“Listen to me.”“Please.”
 「ねぇ」「ちょっといい？」「あのね」「実は……」=“Hey.”“Is now good?”“Hey, so...”“Actually...”
 「ねぇ、[Hあだ名]」=“Hey, [Hあだ名].”
-「ふふっ、どうしたの？　[Pあだ名]。　もう、君が照れてどうするのよ」=“Fufu, what's wrong? [Pあだ名]. Geez, what are you getting shy for?”
+「ふふっ、どうしたの？　[Pあだ名]。もう、君が照れてどうするのよ」=“Fufu, what's wrong? [Pあだ名]. Geez, what are you getting shy for?”
 「……今、そう呼ばれても嬉しくないわ」=“...Now, even if you call me that, I won't be happy.”
 「ねーえ……[Pあだ名]」=“Hey... [Pあだ名].”
 「どうしたの？　[Hあだ名]」=“What's wrong, [Hあだ名]?”
