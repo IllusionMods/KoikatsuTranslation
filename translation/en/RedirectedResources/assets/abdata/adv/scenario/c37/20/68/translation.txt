@@ -1,6 +1,6 @@
 ………………=.........
 …………=......
 ……=...
-//「ここでお別れですね」=
-//「うん。また今度一緒に帰ろうね」=
-//「はい、それではまた」=
+「ここでお別れですね」=This is where we go our separate ways, right?
+「うん。また今度一緒に帰ろうね」=Yeah. Let's walk home together again sometime.
+「はい、それではまた」=Yes, till next time.

@@ -1,5 +1,5 @@
-//「……おはようございます」=
-//「おはよ、どうしたの？」=
-//「いえ、見惚れていただけです。さ、教室へ向かいましょう」=
-//「ちょ、待ってよ！？」=
-//（照れ隠しかな……？）=
+「……おはようございます」=...Good morning.
+「おはよ、どうしたの？」=Morning, what's up?
+「いえ、見惚れていただけです。さ、教室へ向かいましょう」=Nothing, I was just lost in your face. Come on, let's head to the classroom.
+「ちょ、待ってよ！？」=Wai--, Wait a sec!
+（照れ隠しかな……？）=(Is she trying to hide her shyness...?)

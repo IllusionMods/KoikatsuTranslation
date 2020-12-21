@@ -1,5 +1,5 @@
-//「本日もよろしくお願いします」=
-//「うん、それじゃ行こっか」=
-//「公園でゆっくりするのも良いね」=
-//「はい、経済的ですし、今の私達にあっていると思います」=
-//「そ、そうだね、あはは……」=
+「本日もよろしくお願いします」=Please take care of me today as well.
+「うん、それじゃ行こっか」=Yeah, well then, let's go.
+「公園でゆっくりするのも良いね」=Taking it easy at the park is nice too.
+「はい、経済的ですし、今の私達にあっていると思います」=Yes, it's very economical too, I think it suits us, as we are right now.
+「そ、そうだね、あはは……」=T-That's true, ahaha...

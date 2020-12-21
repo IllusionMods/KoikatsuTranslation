@@ -1,2 +1,2 @@
-//「これ、どうぞ」=
-//「先程の授業でクッキーを焼いたので」=
+「これ、どうぞ」=Here, have these.
+「先程の授業でクッキーを焼いたので」=I baked some cookies in class just a bit ago.

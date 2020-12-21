@@ -1,4 +1,4 @@
-//「ふぅ、よい盛り上がりでしたね」=
-//「そうだね、盛り上がりすぎてバレてないか心配だけど……」=
-//「バレているとは思います。が、他の客もココはそういう場所だと認識しているのでしょう」=
-//「そ、そっか、それならセーフ……なのかなぁ？」=
+「ふぅ、よい盛り上がりでしたね」=Fuu, we got pretty excited, didn't we?
+「そうだね、盛り上がりすぎてバレてないか心配だけど……」=Indeed, I'm actually pretty worried that we got too excited and possibly gave the game up though...
+「バレているとは思います。が、他の客もココはそういう場所だと認識しているのでしょう」=I do think we got caught. But, I'm sure the other customers are also aware that this kind of thing goes on in a place like this.
+「そ、そっか、それならセーフ……なのかなぁ？」=I-I see, in that case, we're good... probably?

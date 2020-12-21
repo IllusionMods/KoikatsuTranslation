@@ -1,6 +1,6 @@
-//「もう大分暗くなってきちゃったね。そろそろ帰ろうか」=
-//「そうしましょう」=
-//「観覧車からの夜景、素敵でした」=
-//「街がキラキラ輝いてるみたいで、印象的だったよね。また見たいな」=
-//「一緒に見ましょう、これから何回でも」=
-//「うん。俺たち二人で、ね」=
+「もう大分暗くなってきちゃったね。そろそろ帰ろうか」=It's gotten pretty damn dark, hasn't it? Let's head back home soon.
+「そうしましょう」=Let's do that.
+「観覧車からの夜景、素敵でした」=The night sky from the Ferris Wheel, it was lovely.
+「街がキラキラ輝いてるみたいで、印象的だったよね。また見たいな」=The town was sparkling so bright, it was really memorable, wasn't it? I wanna see it again someday.
+「一緒に見ましょう、これから何回でも」=Let's see it together, as many times as we want.
+「うん。俺たち二人で、ね」=Yeah, the two of us, together.

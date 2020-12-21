@@ -1,3 +1,3 @@
-//「勉強ですか、具体的には何の科目を？」=
-//「そこまでは決めてなかったな。一緒になにするか考えよう」=
-//「わかりました」=
+「勉強ですか、具体的には何の科目を？」=Studying, you say? Specifically, just what subject are we to study?
+「そこまでは決めてなかったな。一緒になにするか考えよう」=I haven't thought that far ahead. Let's think of one together.
+「わかりました」=Understood.

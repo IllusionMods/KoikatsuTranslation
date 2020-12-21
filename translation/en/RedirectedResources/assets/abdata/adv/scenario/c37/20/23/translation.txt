@@ -1,3 +1,3 @@
-//「これ、もらってくれませんか？」=
-//「ビスケットケーキ、家庭科で作ったんです」=
-//「食べてもらえると嬉しいです」=
+「これ、もらってくれませんか？」=Won't you have some of this?
+「ビスケットケーキ、家庭科で作ったんです」=I baked a biscuit cake during Home-Ec.
+「食べてもらえると嬉しいです」=It'd make me really happy if you try some.
