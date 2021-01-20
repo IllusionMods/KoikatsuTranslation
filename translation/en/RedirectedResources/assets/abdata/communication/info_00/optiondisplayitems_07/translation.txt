@@ -33,8 +33,6 @@
 //ある=
 //ない=
 
-OPTION[0]:はい=Yes.
-OPTION[0]:いいえ=No.
 //OPTION[1]:っぽい=
 //OPTION[1]:どう見ても女の子=
 //OPTION[2]:猫好き=
@@ -72,7 +70,4 @@ OPTION[16]:ある=It is.
 OPTION[16]:ない=Never.
 OPTION[17]:ある=It is.
 OPTION[17]:ない=Never.
-OPTION[200]:はい=Yes.
-OPTION[200]:いいえ=No.
-OPTION[201]:はい=Yes.
-OPTION[201]:いいえ=No.
+

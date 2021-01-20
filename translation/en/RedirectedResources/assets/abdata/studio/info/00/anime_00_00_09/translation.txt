@@ -1,4 +1,3 @@
-//表示名=
 食事Ａ1=Eating A1
 食事Ａ2=Eating A2
 食事Ａ3=Eating A3

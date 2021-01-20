@@ -1,5 +1,5 @@
-//「っぁ、ふわぁぁぁぁ……」=
-//「大きい欠伸して、そんなに疲れてたのね」=
-//「はは……自分で思ってた以上に、はしゃぎすぎてみたい」=
-//「うーん、席が空いてたら『着くまで眠ってていいよ』って言ってあげられるんだけど……立ったまま寝てみる？」=
-//「そ、それはちょっと……」=
+「っぁ、ふわぁぁぁぁ……」=Uh, uwaaaaa...
+「大きい欠伸して、そんなに疲れてたのね」=Such a big yawn, you're that tired, huh.
+「はは……自分で思ってた以上に、はしゃぎすぎてみたい」=Haha... I think I overdid it a bit at the park.
+「うーん、席が空いてたら『着くまで眠ってていいよ』って言ってあげられるんだけど……立ったまま寝てみる？」=Well, I was gonna say that it's fine to sleep until we get home if we found seats but... do you wanna try sleeping standing up?
+「そ、それはちょっと……」=T-that's a bit...

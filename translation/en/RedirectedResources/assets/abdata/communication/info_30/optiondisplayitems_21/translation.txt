@@ -1,7 +1,5 @@
 
-OPTION[0]:はい=Yes.
 はい=Yes
-OPTION[0]:いいえ=No.
 いいえ=No
 OPTION[1]:そんなことない=It's not like that.
 //そんなことない=
@@ -95,10 +93,6 @@ OPTION[107]:いいよ=OK.
 OPTION[107]:ごめん=Sorry.
 OPTION[108]:いいよ=OK.
 OPTION[108]:ごめん=Sorry.
-OPTION[200]:はい=Yes.
-OPTION[200]:いいえ=No.
-OPTION[201]:はい=Yes.
-OPTION[201]:いいえ=No.
 OPTION[202]:いいよ=OK.
 OPTION[202]:ごめん=Sorry.
 OPTION[203]:いいよ=OK.

@@ -35,14 +35,12 @@
 //ありだね=
 //現実的じゃない=
 
-OPTION[0]:はい=Yes.
-OPTION[0]:いいえ=No.
 OPTION[1]:そうだね=Yeah, that's right.
 OPTION[1]:そうでもないよ=Not really.
 OPTION[2]:好きだよ=I like it.
 OPTION[2]:うーん…=Ehh...
 OPTION[3]:つい食べちゃう=I eat without thinking about it.
-OPTION[3]:あんまり食べない=I don't each too much.
+OPTION[3]:あんまり食べない=I don't eat too much.
 OPTION[4]:作るよ=I cook.
 OPTION[4]:ちょっと苦手で…=I'm not a good cook.
 //OPTION[5]:好きな方かな=
@@ -53,7 +51,7 @@ OPTION[4]:ちょっと苦手で…=I'm not a good cook.
 //OPTION[7]:興味がなぁ…=
 //OPTION[8]:落ち着く=
 //OPTION[8]:緊張する=
-//OPTION[9]:飲む=
+OPTION[9]:飲む=Drinking
 //OPTION[9]:甘味が欲しい=
 OPTION[10]:平気=Alright.
 OPTION[10]:苦手=I'm not a fan.
@@ -74,7 +72,4 @@ OPTION[15]:そうかもね=Maybe so.
 //OPTION[16]:全然平気=
 OPTION[17]:ありだね=Yeah
 //OPTION[17]:現実的じゃない=
-OPTION[200]:はい=Yes.
-OPTION[200]:いいえ=No.
-OPTION[201]:はい=Yes.
-OPTION[201]:いいえ=No.
+

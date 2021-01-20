@@ -33,15 +33,12 @@
 //行けるといいな=
 //う、うーん…=
 
-OPTION[0]:はい=Yes.
-OPTION[0]:いいえ=No.
 OPTION[1]:ある=It is.
 OPTION[1]:ない=Never.
 OPTION[2]:好き=I like them.
 //OPTION[2]:好きじゃない=
 //OPTION[3]:よく食べる=
 //OPTION[3]:あまり食べない=
-//OPTION[4]:する=
 OPTION[4]:しない=Never.
 OPTION[5]:好き=I like it.
 //OPTION[5]:好きじゃない=
@@ -72,7 +69,4 @@ OPTION[16]:好きだよ=I like it.
 OPTION[16]:・・・・・・=......
 //OPTION[17]:行けるといいな=
 //OPTION[17]:う、うーん…=
-OPTION[200]:はい=Yes.
-OPTION[200]:いいえ=No.
-OPTION[201]:はい=Yes.
-OPTION[201]:いいえ=No.
+

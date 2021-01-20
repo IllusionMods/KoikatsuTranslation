@@ -30,8 +30,6 @@
 //目の前にいいオカズが…=
 //するよりキミとシたい=
 
-OPTION[0]:はい=Yes.
-OPTION[0]:いいえ=No.
 //OPTION[1]:変じゃない=
 //OPTION[1]:どう見ても変=
 OPTION[2]:好きだよ=I like it.
@@ -69,7 +67,4 @@ OPTION[15]:（鼻で笑う）=*snort*
 //OPTION[16]:二人きりならどこでも…=
 //OPTION[17]:目の前にいいオカズが…=
 //OPTION[17]:するよりキミとシたい=
-OPTION[200]:はい=Yes.
-OPTION[200]:いいえ=No.
-OPTION[201]:はい=Yes.
-OPTION[201]:いいえ=No.
+

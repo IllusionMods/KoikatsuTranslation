@@ -4,8 +4,8 @@
 電気照明4=Electric Light 4
 電気照明5=Electric Light 5
 電気照明6=Electric Light 6
-//電気照明(和)1=
-//電気照明(和)2=
+電気照明(和)1=Soft Electric Light 1
+電気照明(和)2=Soft Electric Light 2
 電気スタンド1=Floor Lamp 1
 電気スタンド2=Floor Lamp 2
 電気スタンド3=Floor Lamp 3

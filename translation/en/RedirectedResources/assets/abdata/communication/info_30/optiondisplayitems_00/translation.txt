@@ -1,5 +1,3 @@
-OPTION[0]:はい=Yes.
-OPTION[0]:いいえ=No.
 OPTION[1]:うん=Yup.
 OPTION[1]:してる節はある=I know how to do this one section.
 OPTION[2]:好きだよ=I like it.
@@ -55,10 +53,6 @@ OPTION[107]:い、いいよ=A-alright.
 OPTION[107]:うーん……=Errr...
 OPTION[108]:発散したい=I want to blow off steam.
 OPTION[108]:うーん……=Errr...
-OPTION[200]:はい=Yes.
-OPTION[200]:いいえ=No.
-OPTION[201]:はい=Yes.
-OPTION[201]:いいえ=No.
 OPTION[202]:いいよ=OK.
 OPTION[202]:ごめん=Sorry.
 OPTION[203]:いいよ=OK.

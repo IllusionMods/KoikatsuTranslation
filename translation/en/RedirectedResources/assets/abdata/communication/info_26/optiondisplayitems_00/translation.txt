@@ -38,8 +38,6 @@
 //うーん……=
 //発散したい=
 
-OPTION[0]:はい=Yes.
-OPTION[0]:いいえ=No.
 OPTION[1]:うん=Yup.
 //OPTION[1]:してる節はある=
 OPTION[2]:好きだよ=I like it.
@@ -95,10 +93,6 @@ OPTION[106]:ごめん=Sorry.
 OPTION[107]:うーん……=Errr...
 //OPTION[108]:発散したい=
 OPTION[108]:うーん……=Errr...
-OPTION[200]:はい=Yes.
-OPTION[200]:いいえ=No.
-OPTION[201]:はい=Yes.
-OPTION[201]:いいえ=No.
 OPTION[202]:いいよ=OK.
 OPTION[202]:ごめん=Sorry.
 OPTION[203]:いいよ=OK.
@@ -115,3 +109,4 @@ OPTION[208]:いいよ=OK.
 OPTION[208]:ごめん=Sorry.
 OPTION[209]:いいよ=OK.
 OPTION[209]:ごめん=Sorry.
+

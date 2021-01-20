@@ -1,2 +1,2 @@
-//「お疲れ様でした、本日もありがとうございます」=
-//「次回も楽しみにしています。それではまた学園で」=
+「お疲れ様でした、本日もありがとうございます」=Thank you very much for today as well.
+「次回も楽しみにしています。それではまた学園で」=I look forward to next time as well. I'll see you at school.

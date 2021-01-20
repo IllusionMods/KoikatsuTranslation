@@ -1,5 +1,5 @@
-//「へえ、色々あるんだね」=
-//「あのお店、入ってもいいですか」=
-//「うん、いいよ」=
-//「楽しかったです」=
-//（よかった、喜んでもらえたみたいだ）=
+「へえ、色々あるんだね」=Hoh, there's quite the variety.
+「あのお店、入ってもいいですか」=That shop over there, can we go take a look at it?
+「うん、いいよ」=Yeah, sure.
+「楽しかったです」=I had fun.
+（よかった、喜んでもらえたみたいだ）=(I'm glad, looks like she had a good time)

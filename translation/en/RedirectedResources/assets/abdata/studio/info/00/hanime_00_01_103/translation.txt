@@ -1,4 +1,3 @@
-//表示名=
 待機=Idle
 胸反応開始=Initial Breast Touch
 胸触り待機=About To Grope Breasts

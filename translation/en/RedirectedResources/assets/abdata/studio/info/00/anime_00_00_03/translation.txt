@@ -1,4 +1,3 @@
-//表示名=
 歩く1=Walking 1
 歩く2=Walking 2
 走る1=Running 1

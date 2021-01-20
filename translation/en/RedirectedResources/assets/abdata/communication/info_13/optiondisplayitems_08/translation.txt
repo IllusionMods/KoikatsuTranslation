@@ -32,8 +32,6 @@
 そうに決まってる=I know it
 そうとは限らない=I don't know
 
-OPTION[0]:はい=Yes.
-OPTION[0]:いいえ=No.
 OPTION[1]:そうでもない=Not really.
 //OPTION[1]:子供っぽい=
 OPTION[2]:好きだよ=I like it.
@@ -71,7 +69,4 @@ OPTION[14]:痩せているのが=I prefer thin girls.
 OPTION[16]:うーん…=Ehh...
 //OPTION[17]:そうに決まってる=
 //OPTION[17]:そうとは限らない=
-OPTION[200]:はい=Yes.
-OPTION[200]:いいえ=No.
-OPTION[201]:はい=Yes.
-OPTION[201]:いいえ=No.
+

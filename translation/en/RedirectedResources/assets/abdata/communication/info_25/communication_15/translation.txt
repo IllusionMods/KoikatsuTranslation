@@ -405,7 +405,7 @@
 //「とーぜん！　友達にはあとでごめんなさい、ってなー」=
 //「うーん。その時によるかなー。でも、キミがいちばん大事なんだぞ？」=
 「いまの彼氏と結婚できる？」=“Would you marry your boyfriend?”
-//「おぉ？　いきなりプロポーズかー。お願いします、だぞー♪」=“Oooh? A sudden proposal, huh... Absolutely～♪”
+「おぉ？　いきなりプロポーズかー。お願いします、だぞー♪」=“Oooh? A sudden proposal, huh... Absolutely～♪”
 「うーん？　もしかしたら、もっといい男が……なんてなー」=“Hmm? Well, if he's a good person then... maybe～”
 //「なーんか、ムズムズしてきたなー。他の話しないかー？」=
 「好きだよ、[H]」=“I love you, [H]”

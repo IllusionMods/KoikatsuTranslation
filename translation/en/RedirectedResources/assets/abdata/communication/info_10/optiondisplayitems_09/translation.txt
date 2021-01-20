@@ -32,8 +32,6 @@
 //思う=
 //どうだろう…=
 
-OPTION[0]:はい=Yes.
-OPTION[0]:いいえ=No.
 //OPTION[1]:子供っぽいっていうか…=
 OPTION[1]:そんなことないよ=Not true.
 OPTION[2]:好きだよ=I like it.
@@ -71,7 +69,4 @@ OPTION[16]:好きだよ=I like it.
 //OPTION[16]:そこまでは…？=
 //OPTION[17]:思う=
 OPTION[17]:どうだろう…=Not sure...
-OPTION[200]:はい=Yes.
-OPTION[200]:いいえ=No.
-OPTION[201]:はい=Yes.
-OPTION[201]:いいえ=No.
+

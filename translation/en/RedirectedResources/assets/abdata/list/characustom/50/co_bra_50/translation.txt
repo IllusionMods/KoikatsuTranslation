@@ -1,5 +1,5 @@
 アンダーシャツ（女）=Undershirt (Girls)
-//アンダーシャツ（男）=
+アンダーシャツ（男）=Undershirt (Boys)
 キュートブラ=Cute Bra
 ハートリボンブラ=Heart Ribbon Bra
 フラワーレースブラ=Flower Lace Bra

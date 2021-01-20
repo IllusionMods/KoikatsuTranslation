@@ -27,3 +27,8 @@
 シャワールーム=Shower Room
 ロッカールーム=Locker Room
 裏庭=Rear Garden
+
+体育館ライブ=Live Gymnasium Concert
+女子トイレ覗き=Girls' Bathroom Peeking
+シャワールーム覗き=Shower Room Peeking
+ロッカールーム覗き=Locker Room Peeking

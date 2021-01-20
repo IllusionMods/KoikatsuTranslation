@@ -1,2 +1,2 @@
-//色影(四角1)=
-//色影(四角2)=
+色影(四角1)=Colored Shadow (Square 1)
+色影(四角2)=Colored Shadow (Square 2)

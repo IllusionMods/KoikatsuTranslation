@@ -1,5 +1,5 @@
-//「じゃあ、今日も始めよっか」=
-//「今回の活動内容はどういったものなのでしょうか」=
-//「んー、今回は―ーー」=
-//「なるほど、あなたの事がよりわかった気がします」=
-//「良かった。そしたら次は――」=
+「じゃあ、今日も始めよっか」=Then, let's start today's session too.
+「今回の活動内容はどういったものなのでしょうか」=What sort of activity are we doing this time?
+「んー、今回は―ーー」=Hmmmm, this time---
+「なるほど、あなたの事がよりわかった気がします」=I see, I feel like I understand even more about you know.
+「良かった。そしたら次は――」=I'm glad. In that case, next up is---
