@@ -2,7 +2,7 @@
 「ん、とりあえず言ってみろ。私がわかる範囲なら、教えてやる」=Mm, go ahead, I guess. If it's an area I'm knowledgeable in, I'll explain it to you.
 「えーっと、[H名]のスリーサイズは？」=Errhm, what are your three sizes?
 「……教えてやってもいいが、真面目にやるつもりがないなら私は帰るぞ？」=...While I don't mind telling you, if you don't plan on being serious about this then I'mma go home, alright?
-「ご、ごめん！　真面目にやります！　……でも、今の答えだけは……聞きたいかも……」=S-Sorry! I'll be serious!B$3 $4ut, I do want to hear... the answer to that last question...
+「ご、ごめん！　真面目にやります！　……でも、今の答えだけは……聞きたいかも……」=S-Sorry! I'll be serious!But, I do want to hear... the answer to that last question...
 「ふぅ、結構捗ったね……最初はホント……ごめんね」=Fuu, we made quite a lot of progress... For what I did at first... I'm really sorry.
 「まったく、本当に帰ってやろうかと思ったぞ？　次はないからな、気を付けろよ」=Seriously, I really was considering just walking away, you know? I won't let you off next time, so be careful.
 「ハッ！　了解であります！　[H名]殿！」=Yes--! Understood! Ma'am [H名]!

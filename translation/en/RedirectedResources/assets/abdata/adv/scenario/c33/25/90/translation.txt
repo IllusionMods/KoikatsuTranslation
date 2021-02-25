@@ -2,7 +2,7 @@
 「えっ！　[H名]さん、そんな、いきなり……」=Eh--! [H名]-san, what's up, all of a sudden...
 「ふふふ、期待させちゃった？　私が言いたいのは、愛称で呼び合ったらお互いの距離が縮まると思ったってこと」=Fufufu, got your hopes up? What I'm trying to say is, I think the gap between us would decrease a lot if we called each other by pet names.
 「愛称？」=Pet name?
-「そうよ。……[Pあだ名]」=That's right.[$3 $4Pあだ名]
+「そうよ。……[Pあだ名]」=That's right.[Pあだ名]
 「お、おぉ……」=Oh, Oooo...
 「私のことはなんて呼んでくれるの？」=What are you going to call me?
 「え？　えっと……[H名]さんは……[Hあだ名]、かな？」=Eh? Erhm... [H名]-san would be... How about [Hあだ名]?

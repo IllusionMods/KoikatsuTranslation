@@ -104,7 +104,7 @@
 「実は私も体を動かすのは少々苦手で……はい、オンチなんです」=The truth is, I'm bad at exercise too... Yes, I'm completely hopeless.
 「勉強はちゃんと毎日やっていますか？」=Do you study everyday?
 「わからないことがあれば聞いてください。私で良ければ、お教えしますよ」=If there's anything you don't understand, feel free to ask. If you're fine with me, then I can teach you at any time.
-「サボりたくなる気持ちはわかります。……コホン、今言ったことは忘れてください」=I do understand the feeling of wanting to just laze around.*$3 $4ahem*, please forget what I just said.
+「サボりたくなる気持ちはわかります。……コホン、今言ったことは忘れてください」=I do understand the feeling of wanting to just laze around.*ahem*, please forget what I just said.
 「あなた、おしゃれには興味がありますか」=Do you have any interest in fashion trends?
 「ではいずれファッションチェックなど……私の見る目は厳しいですよ」=Then, a fashion check is in order, one of these days... I have a very strict eye, you know?
 「同意見です。清潔で公序良俗に反していなければ、何でもいいかと」=I'm of the same opinion. As long as it's clean and unoffensive, anything is fine.
@@ -169,10 +169,10 @@
 「悩みがあるといつもここに来てしまうんです……本から答えを得られる気がして」=I end up coming here whenever there's something on my mind... Since I feel like I can find the answer to my problems in a book.
 「あなたも先生の手伝いに？　殊勝な心掛けですね」=Are you here to lend the teacher a hand as well? What an admirable attitude.
 「おや、身体を動かしにきたんですか？」=Oh my, have you come here to get a workout?
-「どこへ行くのか説明を！　……と、言っても聞かないようですね」=Tell me where you're going first!E$3 $4ven if I say that, you don't seem to be listening.
+「どこへ行くのか説明を！　……と、言っても聞かないようですね」=Tell me where you're going first!Even if I say that, you don't seem to be listening.
 「今なら冗談で済ませられます。ここまでにしておきましょう」=You can still pass it off as a joke. Let's just leave it at this.
 「あの、例の約束ですが……あ、いえ、忘れていないか確認したかっただけです」=Hey, that promise you made to me the other day... Ah, no, I just wanted to confirm that you hadn't forgotten.
-「あなたともっと話がしたいです。……いけませんか？」=I want to chat with you even more.I$3 $4s it bad of me?
+「あなたともっと話がしたいです。……いけませんか？」=I want to chat with you even more.Is it bad of me?
 「その、男性というのは、性……いえ、何でもありません」=Uhm, Boys are, that is, sex--... No, it's nothing.
 「あなたもやりたくてウズウズしているようですね。見学はいつでも歓迎しますよ」=Seems like you're itching to do it as well. You're welcome to visit our club at any time, you know?
 「私たちの部活に興味を持っていたなんて、何だか意外ですね」=To think you had an interest in our club, I'm actually pretty surprised.
@@ -213,7 +213,7 @@
 「難しい問題ですね……一緒に考えてみましょうか」=What a difficult question... Let's brainstorm it together.
 「エッチな妄想ってする？」=Do you have lewd fantasies?
 「いざという時に備えて、イメージトレーニングはしっかりやっていますが、何か？」=I do mental rehearsals, yes, just-in-case the situation ever arises. What about it?
-「妄想なんて、この私がすると？　……なぜそのような疑いの目で見るのです」="Do you really think I'd have ""fantasies""?W$3 $4hat's with those doubt-filled eyes?"
+「妄想なんて、この私がすると？　……なぜそのような疑いの目で見るのです」="Do you really think I'd have ""fantasies""?What's with those doubt-filled eyes?"
 「男の裸に興奮したりする？」=Does a guy's naked body turn you on?
 「緊張で心拍数は上がるでしょうね……見慣れないものですので」=It does make my heart race, from nervousness though... It's not something I'm used to seeing, afterall.
 「試しに見せつけようとしないで下さいね。あなたなら大丈夫だと思いますが」="Please don't try to show off your own as a ""test"", alright? Though, I wouldn't mind seeing yours all that much."
@@ -230,7 +230,7 @@
 「私たちももうちゃんとお友達なのですね。……言葉にすると、少し恥ずかしいです」=The two of us have properly become friends already, haven't we? ... Feels a bit embarrassing to put it into words.
 「あなたが安心する笑顔を再考せねばなりませんね……ふむ、どうしたものか」=I have to give more thought to a smile that would best make you feel relaxed... Hmm, what to do.
 「あなた、コーヒーはブラックで飲めますか」=Can you drink black coffee?
-「私の前だからといって、背伸びしていませんか？　……ふふ、冗談です」=Are you sure you're not exaggerating, to look cooler in front of me?F$3 $4ufu, I'm joking.
+「私の前だからといって、背伸びしていませんか？　……ふふ、冗談です」=Are you sure you're not exaggerating, to look cooler in front of me?Fufu, I'm joking.
 「私もまだまだお子様舌でして……苦いのはちょっと」=I have the taste buds of a child myself too... Bitter stuff is a bit...
 「あなた、辛い料理は平気ですか」=Are you good with spicy food?
 「ふふ……平気と言いましたね。では今度、付き合って頂きましょう」=Fufu... I see, so you really won't go back on those words, yeah? Then, next time, let's get some together.
@@ -284,7 +284,7 @@
 「もう時間ですか……時が経つのは早いですね。では、失礼」=I'm already out of time, huh... The time sure flew by. Well then, excuse me.
 「あなたにはお聞きしたいことがあったんですが……残念、時間です」=There's so much stuff I want to talk to you about but... sadly, I'm out of time.
 「すみません、一旦お別れの時間です。では、また」=I'm sorry, we'll have to part ways here for now. Then, till next time.
-「わかりました。……あの。また話し掛けて下さいね」=Understood.L$3 $4isten. Call out to me again sometime, alright?
+「わかりました。……あの。また話し掛けて下さいね」=Understood.Listen. Call out to me again sometime, alright?
 「あなたがそれで良いのでしたら……」=If you're okay with that...
 「君のことが好きなんだ」=I like you, as a guy.
 「お気持ちは嬉しいのですが……すみません」=While I appreciate the sentiment... I'm sorry.
@@ -358,7 +358,7 @@
 「もう、驚かせないでください！　ふたりきりになりたいのはわかりますが……」=Jeez, please don't startle me like that! I get that you want to be alone with me but still...
 「間違えてしまったんですよね？　ね？　いいから私に話を合わせて下さい」=You entered this place by mistake, right? Right? Don't worry about it, just match your story with mine.
 「やっぱりダメ……。すみません、少し気分を落ち着けてきます」=It really is no good... I'm sorry, I'm going to go cool off my head for a bit.
-「はぁ……。イライラなんてしていませんよ。……で？」=Haaa... Nope, I'm not getting irritated.S$3 $4o?
+「はぁ……。イライラなんてしていませんよ。……で？」=Haaa... Nope, I'm not getting irritated.So?
 「すみません、時間が……あの、またお話してくださいね。では……」=I'm sorry, I'm out of time... Hey, come talk to me again later, alright? Then...
 「そういう目は……私だけに向けてくださいね」=That sort of gaze... Don't point it towards anyone aside from me, alright?
 「あまり見ていると、セクハラだと騒がれますので……気を付けてください」=If you stare like that too much, you'll get accused of sexual harrassment sooner or later so... please be careful.
@@ -371,7 +371,7 @@
 「もう、あなたという人は……。はい、もう帰りますよ」=Jeez, you're so... Yes, I'm going home now.
 「もうすぐですよね。た、楽しみにしています……はい」=It's almost the day, isn't it? I-I'm looking forward to it... yes.
 「あなたともっと仲良くなるにはどうしたらいいんでしょうか？　今よりももっと、です」=What do I need to do to become even closer to you? Even closer than we are now.
-「私も人並みには興味があるんですよ？　……皆まで言わせないでください」=I'm also just as interested in it as everyone else, you know?D$3 $4on't make me say the whole thing.
+「私も人並みには興味があるんですよ？　……皆まで言わせないでください」=I'm also just as interested in it as everyone else, you know?Don't make me say the whole thing.
 「もうすぐ試合があるんです。あなたが応援してくれたら勝てるかもしれません」=There's a competition soon. If you come to cheer us on, we might just win.
 「見学だけですか？　良ければ一緒に……いかがでしょう」=Just a club visit? If you don't mind, how about we... do it together?
 「私にもできることがあれば言って下さい。そうすれば一緒にいられるので……」=If there's anything I can do as well, please let me know. That way, we could be together for a bit as well...
