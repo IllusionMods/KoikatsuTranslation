@@ -1,11 +1,10 @@
-//「……綺麗な夕焼けですね。いつの間にかこんな時間になってしまっています」=
-//「ねえ、急いでないなら、最後に観覧車に乗らない？」=
-//「観覧車ですか？　いいですね、乗りましょう」=
-//「ゆっくりと歩いていけば、綺麗な夜景が見える時間になりそうですね」=
-//「それじゃあ、のんびり行こうか」=
-//「このままじゃ遅くなっちゃう。名残惜しいけど、乗り逃したアトラクションは、諦めようか……」=
-//「ふぅ、残念です。次の楽しみに取っておくことにしましょう」=
-//「うん、次が楽しみだ！　じゃ、出口に向かおうか」=
-
-//CHOICE:『最後に観覧車に乗ってかない？』=
-//CHOICE:『暗くなる前に帰ろうか』=
+「……綺麗な夕焼けですね。いつの間にかこんな時間になってしまっています」=...What a pretty sunset. The time really did fly by, didn't it?
+「ねえ、急いでないなら、最後に観覧車に乗らない？」=Hey, if you're not in a rush, wanna ride the ferris wheel to wrap up the day?
+「観覧車ですか？　いいですね、乗りましょう」=The ferris wheel? Sounds good, let's do it.
+「ゆっくりと歩いていけば、綺麗な夜景が見える時間になりそうですね」=If we walk at a slow pace, we'll have the time to watch this beautiful night sky too.
+「それじゃあ、のんびり行こうか」=Well then, let's take a relaxing walk.
+「このままじゃ遅くなっちゃう。名残惜しいけど、乗り逃したアトラクションは、諦めようか……」=It'll get dark at this rate. It's a bit of a shame but, I suppose we'll have to give up on the attractions we missed...
+「ふぅ、残念です。次の楽しみに取っておくことにしましょう」=Fuu, a shame indeed. Let's save them for next time.
+「うん、次が楽しみだ！　じゃ、出口に向かおうか」=Yeah, I look forward to it! Then, shall we head to the exit?
+CHOICE:『最後に観覧車に乗ってかない？』=『Wanna go ride the Ferris Wheel to wrap up the day?』
+CHOICE:『暗くなる前に帰ろうか』=『Shall we go home before it becomes dark?』

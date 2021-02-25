@@ -1,3 +1,3 @@
-//「では、上がらせて頂きます。……シンプルなお部屋ですね。もっと物で溢れているかと思っていました」=
-//「もしかして私が来ることを想定して、掃除を？　そこまで気を使って下さらなくても構いませんのに」=
-//「……それだけあなたも準備なさっているということですよね。私も、この後の展開は想定の範囲内ですので……」=
+「では、上がらせて頂きます。……シンプルなお部屋ですね。もっと物で溢れているかと思っていました」=Well then, I'll be coming in.Q$3 $4uite the simple room. I thought it'd be a lot more messy, with a lot more things.
+「もしかして私が来ることを想定して、掃除を？　そこまで気を使って下さらなくても構いませんのに」=Perhaps, did you clean up just-in-case I came over? You didn't need to go that far, you know, I wouldn't have minded.
+「……それだけあなたも準備なさっているということですよね。私も、この後の展開は想定の範囲内ですので……」=...I suppose that's just how much you're prepared as well, huh? I, as well, have prepared myself for what comes next...
