@@ -1,5 +1,5 @@
-//「むぅ、久々にきたな……」=
-//「どうしたの？　って……わぁ！　それラブレター！？」=
-//「こ、こらっ！　大声を出すな！　……この手の場合……だいたい差出人が近くにいるんだ……」=
-//「そっか、[H名]って人気あるんだね……俺も負けてられないな……」=
-//「ど、どういう意味だそれは？　妙な事を言って……帰り道に刺されてもしらんぞ？」=
+「むぅ、久々にきたな……」=Muh, it's been a while since I've gotten one of these...
+「どうしたの？　って……わぁ！　それラブレター！？」=What's up? Huh...Woah! Isn't that a love letter!?
+「こ、こらっ！　大声を出すな！　……この手の場合……だいたい差出人が近くにいるんだ……」=H-Hey--! Don't announce it to the entire world!L$3 $4ooking at it... the sender must be close by...
+「そっか、[H名]って人気あるんだね……俺も負けてられないな……」=I see, you're really popular, aren't you, [H名]... I can't get too complacent either, huh...
+「ど、どういう意味だそれは？　妙な事を言って……帰り道に刺されてもしらんぞ？」=W-What do you even mean by that? Saying such strange things... Don't beg to me for help if you get shanked on the way back, alright?

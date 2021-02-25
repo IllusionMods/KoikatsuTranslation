@@ -1,3 +1,3 @@
-//「ほ、ほら、カップケーキだ。授業で作ってな……おまえにやるから……食べてみてくれるか？」=
-//「た、他意はないぞ？　少し作り過ぎてな……わりと上手くできたと、思うのだが……」=
-//「今すぐでなくていいから、食べたら……感想を聞かせてくれると嬉しい。で、ではなっ」=
+「ほ、ほら、カップケーキだ。授業で作ってな……おまえにやるから……食べてみてくれるか？」=H-Here, cupcakes. I made them in class... I'll give them to you... Will you try them?
+「た、他意はないぞ？　少し作り過ぎてな……わりと上手くできたと、思うのだが……」=I-I don't mean anything by it, just so you know. I just made a few too many... I think they came out pretty well but...
+「今すぐでなくていいから、食べたら……感想を聞かせてくれると嬉しい。で、ではなっ」=You don't need to eat them right now if you don't want to, just... I'd love to hear your opinion of them. W-Well then, see ya--

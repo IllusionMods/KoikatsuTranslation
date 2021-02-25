@@ -1,2 +1,2 @@
-//「今日は楽しませてもらった。お陰でいい休日を過ごせたぞ」=
-//「次も楽しませてくれること、期待しているからな？」=
+「今日は楽しませてもらった。お陰でいい休日を過ごせたぞ」=I had a fun time today. Thanks to you, I had a great day off.
+「次も楽しませてくれること、期待しているからな？」=I'm looking forward to having a great time next time too, okay?
