@@ -1,3 +1,1 @@
-「きみはなかなか怪我しないわね。やっぱり身体が頑丈なのかしら？」=You never seem to get hurt. I guess the human body is pretty resilient after all, isn't it?
-
-リナ=Lina
+﻿「きみはなかなか怪我しないわね。やっぱり身体が頑丈なのかしら？」="You don't get hurt very often, do you? I wonder if your body is strong enough?"

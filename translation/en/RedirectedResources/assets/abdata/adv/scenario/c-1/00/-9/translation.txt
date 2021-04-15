@@ -1,3 +1,1 @@
-//「もっと保健室に遊びに来てくれていいのよ？　先生、結構暇なんだから」=
-
-リナ=Lina
+﻿「もっと保健室に遊びに来てくれていいのよ？　先生、結構暇なんだから」="You can come visit me in the infirmary more often, okay? This doctor has a lot of free time."

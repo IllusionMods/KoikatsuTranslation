@@ -1,3 +1,1 @@
-//「コイカツ部かぁ……楽しそうな部活ね。私が学生の頃にもあれば良かったのにー」=
-
-リナ=Lina
+﻿「コイカツ部かぁ...楽しそうな部活ね。私が学生の頃にもあれば良かったのにー」="The Koikatsu club... That sounds like a fun activity. I wish we had one when I was in school."
