@@ -1,12 +1,10 @@
-
-数学の授業=Mathematics Lesson
-水泳部での亜依=Ai of the Swimming Club
-ズル休み=Skipping School
-乙梨さんのトラウマを打破せよ=Breaking Down From Otonashi-san's Trauma
-亜依のコンプレックス=Ai's Complex
-似たもの親子=Like Parent and Child
-恋バナのような告白=A Girl's Talk Confession
-おうちデート=A Date at Home
-二人きりのプールで=By Ourselves in the Pool
-
+﻿数学の授業=Math Class.
+水泳部での亜依=Ai in the Swimming Club.
+ズル休み=Cheat Day.
+乙梨さんのトラウマを打破せよ=Break Through Miss Otonashi's Fear.
+亜依のコンプレックス=Ai's Complex.
+似たもの親子=Like Mother Like Daughter.
+恋バナのような告白=Confession-like Love Story
+おうちデート=A Date at Home.
+二人きりのプールで=Just the Two of Us at the Pool.
 亜依への気持ち=Feelings for Ai
