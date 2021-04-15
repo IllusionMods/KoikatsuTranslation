@@ -1,18 +1,16 @@
-//「今日の練習はこれで終わり！　気を付け、礼！」=
-//今日も部長の役割を練習する水瀬さんの号令が響く。=
-//「よし、行くか」=
-//隅で見学していた俺は、覚悟を決めるように宣言すると、後片付けの手伝いに向かう。=
-//（今日こそは返事をしないとな……）=
-//「よっと」=
-//「お、力持ち～」=
-//「よいしょよいしょ」=
-//「私も負けないぞ～」=
-//軽口を叩き合いながらも、どこかでお互い意識してる。=
-//水瀬さんが笑うたびに無理をしてることが伝わってきて、早く返事をしてあげないとと心が急く。=
-//（今日こそ、言えるか……？）=
-//俺は、自分の心に問いかける。=
-
-//CHOICE:ＯＫする=
-//CHOICE:保留にする=
-
-亜依=Ai
+﻿亜依=Ai
+「今日の練習はこれで終わり！　気を付け、礼！」="That's all for today's practice! Attention, bow!"
+今日も部長の役割を練習する水瀬さんの号令が響く。=Ai's orders rang out as she practised her role as club president again today.
+「よし、行くか」="Okay, let's go."
+隅で見学していた俺は、覚悟を決めるように宣言すると、後片付けの手伝いに向かう。=After watching from the corner, I decided it was time and went to help with the clean up.
+（今日こそは返事をしないとな……）=(I'll have to get back to her today...)
+「よっと」="Yes, sir."
+「お、力持ち～」="Oh, you're so strong~"
+「よいしょよいしょ」="Heave ho."
+「私も負けないぞ～」="I'm not going to let you beat me~"
+軽口を叩き合いながらも、どこかでお互い意識してる。=We talk casually to each other, but we're each very focussed on the other.
+水瀬さんが笑うたびに無理をしてることが伝わってきて、早く返事をしてあげないとと心が急く。=Every time Ai smiled I could tell she was forcing herself, and my mind raced to answer her quickly.
+（今日こそ、言えるか……？）=(Is today the day to tell her?)
+俺は、自分の心に問いかける。=I keep asking myself the same question.
+CHOICE:ＯＫする=CHOICE: Okay, I'll do it.
+CHOICE:保留にする=CHOICE: I'll hold off for now.

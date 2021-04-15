@@ -1,11 +1,10 @@
-（うん、俺の気持ちを伝えよう）=(Yeah, I'll tell you how I feel.)
-部員全員が帰り、プールに残ったのは俺たちだけになった。=The rest of the club went home, and now we're the only ones left in the pool.
-「水瀬さん、ちょっといい？」=Minase-san, do you have a minute?
-「うん、なーに？」=Yeah, what is it?
-「この前の……告白の答えなんだけど」=About the confession I made the other day.
-「へえっ！？　あ、あ、えっと、う、うん……」=Huh? A-ah, er, y-yeah...
-水瀬さんは一瞬で真っ赤になり、落ち着きを失ってしまう。=Minase-san turned bright red in an instant and lost her composure.
-（平静を装ってたけど、ずっここんな感じだったのかな。もう、安心させてあげないと！）=(I pretended to be calm, but I felt the same... I just need to reassure her!)
-俺は水瀬さんをまっすぐに見つめると、口を開いた。=I stared straight at Minase-san and opened my mouth.
-
+﻿（うん、俺の気持ちを伝えよう）=(Yeah, I'll tell her how I feel)
+部員全員が帰り、プールに残ったのは俺たちだけになった。=All of the club members had gone, and we were the only ones left at the pool.
+「水瀬さん、ちょっといい？」="Miss Minase, do you have a moment?"
 亜依=Ai
+「うん、なーに？」="Yeah, what is it?"
+「この前の……告白の答えなんだけど」="The other day... you asked me how I really felt."
+「へえっ！？　あ、あ、えっと、う、うん……」="Hey!? Ah, ah, well, uh, um..."
+水瀬さんは一瞬で真っ赤になり、落ち着きを失ってしまう。=Miss Minase instantly turns bright red and loses her composure.
+（平静を装ってたけど、ずっここんな感じだったのかな。もう、安心させてあげないと！）=(She was trying to act calm, but I wonder if she was like this all along. I need to put her mind at ease her now!)
+俺は水瀬さんをまっすぐに見つめると、口を開いた。=I stared straight at Miss Minase and began to speak.
