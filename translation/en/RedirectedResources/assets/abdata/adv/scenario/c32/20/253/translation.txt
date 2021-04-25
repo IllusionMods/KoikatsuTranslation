@@ -8,5 +8,6 @@
 「嫌なら逃げればいいじゃないですか。このまま続けたら、どうなるのか……私、すごく興味がありますね──」=If you don't like it, all you have to do is run away. If I keep going like this, I wonder what'll happen... I'm super curious to find out----
 （こ、これ以上は本当にマズイ……流石に自重しよう）=(A-Any more than this would be seriously bad... Gotta restrain myself)
 （しかし……自重しても[H名]と距離が近いことに変わりはないわけで……うぅ、我慢できるかな、俺……）=(But... Even if I try to restrain myself, it's not like it'll change how close we currently are... Uuu, can I really endure...)
+
 CHOICE:『自重しない』=『Let it happen』
 CHOICE:『自重する』=『Restrain yourself』

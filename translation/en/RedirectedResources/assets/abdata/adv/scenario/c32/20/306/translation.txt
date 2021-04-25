@@ -20,5 +20,6 @@
 「どうしたの？」=What's up?
 「身体のケアだけじゃなく、喉のケアもすべきです。のど飴や、何か喉の粘膜に良いものを摂取すべきです」=Aside from just rest alone, caring for our throats is important too. We ought to take something good for our throats, like cough drops.
 「そうだね。何か買ってから帰ろうか」=You have a point. Let's go home after grabbing something.
+
 CHOICE:『マッサージしてあげようか？』=『Shall I give you a massage?』
 CHOICE:『今日はもう帰ろう』=『Let's go home for today』

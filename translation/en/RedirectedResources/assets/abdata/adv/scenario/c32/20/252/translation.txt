@@ -12,5 +12,6 @@
 （気持ちいいけど……我慢、しなきゃ……）=(It feels really good but... I have to, endure...)
 （うう、でも……本当に我慢できるか？　[H名]の身体の柔らかさや、[H名]の匂いの誘惑があるのに……）=(Uuuuu, but... Can I really endure? Even though [H名]'s body is so soft, even though her scent keeps tempting me...)
 （はっ、意識したらダメだ！　別のことを考えて気を紛らわせよう……）=(Hah--, becoming conscious of it will make it worse! Should think about something else, distract my mind...)
+
 CHOICE:『欲望に身を任せる』=『Give in to your desires』
 CHOICE:『我慢する』=『Endure it』

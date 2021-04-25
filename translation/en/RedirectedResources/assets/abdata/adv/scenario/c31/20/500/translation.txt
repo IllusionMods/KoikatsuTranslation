@@ -22,6 +22,7 @@
 「はは、流石にそこまでは……するかも」=Haha, even for me, that's a bit... I might take you up on that.
 「だろうな、まぁいつもの事だ。帰ってお互い風呂に入った後にでも、ゆっくり話そう」=I'll bet, well, not that it's any different from usual. After we get home, let's talk slowly, even after we both take a bath.
 「うん、そうだね。さっきまで名残惜しかったのに、逆に早く帰りたくなってきたよ」=Yeah, let's do that. Even though I felt reluctant to part till just a few moments ago, now I instead want to quickly get home.
+
 CHOICE:『俺の家に寄っていかない？』=『Won't you come to my place?』
 CHOICE:『ホテルに泊まるとか、どう？』=『How about we stay the night at a hotel?』
 CHOICE:『早めに帰って、あとで電話するよ』=『Let's get home quickly, then chat on the phone.』

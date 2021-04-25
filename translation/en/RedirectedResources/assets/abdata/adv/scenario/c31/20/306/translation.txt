@@ -19,5 +19,6 @@
 「あれ？　もしかして……[H名]はもっと歌っていきたい？」=Oh? Perhaps... Do you want to sing more, [H名]?
 「そうじゃない。正直に言うとな、おまえと別れるのが少し名残惜しいんだ」=That's not it. Honestly, I don't want to part with you, that's all.
 （うっ、そういう事を言われちゃうと、この後を期待しちゃうなぁ……）=(Uuu--, If you say something like that to me, I can't help but have expectations for later...)
+
 CHOICE:『エッチ、しちゃうとか？』=『We could have sex』
 CHOICE:『うーん、特にないかも……今日はもう帰る？』=『Well, nothing in particular... Shall we go back home for today?』

@@ -11,5 +11,6 @@
 「ええっ、嬉しいっ！　キミのお家にお邪魔したら、もっともっと新しい自分を発見出来そうよ♪」=Yes! I'd love to! If I were to go to your place, I'm sure I'll learn a lot of new things about myself and grow as a person ♪
 「俺もそう思うよ。これからも一緒に成長していこうね」=I think so too. Then, let's continue to grow, together.
 「ええ、建設的な関係でいましょうね。また次回のデートも楽しみにしてるわね」=Yes, let's form a postive and constructive relationship. I'm looking forward to the next date~
+
 CHOICE:「この後、もし良かったらうちに来ない？」=After this, if you like, wanna come to my place?
 CHOICE:「俺もそう思うよ」=I think so too.

@@ -6,5 +6,6 @@
 「あ、あぁ……いいぞ。丁度私も……暇だったしな……うん」=Ah, yeah... Okay. I was just... free too... yeah.
 「うん、[H名]も気を付けてね」=Yeah, you be careful too, [H名].
 「そっけない奴だ……ンッ、何でもない。ではな」=What a cold guy... Nn--, It was nothing. See ya.
+
 CHOICE:「家に寄ってかない？」=Won't you drop by my place?
 CHOICE:「[H名]も気を付けてね」=You be careful too, [H名]

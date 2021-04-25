@@ -6,5 +6,6 @@
 「このままじゃ遅くなっちゃう。名残惜しいけど、乗り逃したアトラクションは、諦めようか……」=It'll get dark at this rate. It's a bit of a shame but, I suppose we'll have to give up on the attractions we missed...
 「ふぅ、残念です。次の楽しみに取っておくことにしましょう」=Fuu, a shame indeed. Let's save them for next time.
 「うん、次が楽しみだ！　じゃ、出口に向かおうか」=Yeah, I look forward to it! Then, shall we head to the exit?
+
 CHOICE:『最後に観覧車に乗ってかない？』=『Wanna go ride the Ferris Wheel to wrap up the day?』
 CHOICE:『暗くなる前に帰ろうか』=『Shall we go home before it becomes dark?』

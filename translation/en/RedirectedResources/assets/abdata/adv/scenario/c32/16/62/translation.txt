@@ -6,5 +6,6 @@
 「もう、いつお誘いがあるかとドキドキしていたんですよ。もちろん、お邪魔させて頂きます」=Jeez, do you know how long I've been waiting for you to invite me? Of course, the answer is yes.
 「そうだね、また今度……それじゃ、ばいばい」=Seems so, next time then... Well then, bye bye.
 「……意気地なし。……いえ、何も？　では、失礼します」=...No balls.No, I didn't say anything, just your imagination. Well then, excuse me.
+
 CHOICE:「……この後、家に来れないかな？」=...Won't you come to my place after this?
 CHOICE:「そうだね、ばいばい」=Seems so, byebye.

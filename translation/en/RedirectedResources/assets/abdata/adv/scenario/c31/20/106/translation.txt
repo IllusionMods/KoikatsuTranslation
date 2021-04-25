@@ -34,5 +34,6 @@
 「うぅ、その答え方は反則。やっぱり……シていい？」=Uuu, that sort of answer is against the rules. Is it really... okay? Can we?
 「だーめーだっ。男なら一度言った事は曲げるな。ほら、手くらいは繋いでやるから、もう帰るぞ」=We - can - not--. If you're a man, don't take back your words. Come on, I'll let you hold my hand atleast, let's go home.
 「あぁ、そんなぁ……やっぱり選択を間違えたかなぁ……」=Aaah, don't say that... I really did pick the wrong choice, didn't I...
+
 CHOICE:『是非、お願いします』=『Yes, please』
 CHOICE:『もうかなり暗いし、今日は帰ろうか』=『It's already gotten quite dark, shall we go home for today?』

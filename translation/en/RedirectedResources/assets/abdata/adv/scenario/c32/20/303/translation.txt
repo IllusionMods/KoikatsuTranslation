@@ -13,5 +13,6 @@
 「いや、そんな身構えなくても……」=No, you don't really need to go that far...
 「もしも今 背中に羽が生えて 大空自由に飛び回れたら～」=『If only I could sprout wings from my back and fly freely in the wide open sky right now~』
 （……まあ、カワイイからいっか）=(... Well, it's cute so who cares)
+
 CHOICE:『延長していい？』=『Can we extend it?』
 CHOICE:『そろそろ出ようか』=『We should head out』

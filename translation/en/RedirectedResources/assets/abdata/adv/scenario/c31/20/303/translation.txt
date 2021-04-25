@@ -13,5 +13,6 @@
 「ちぇっ」=Wai--
 『もしも今 背中に羽が生えて 大空自由に 飛び回れたら～♪』=『If only I could sprout wings from my back and fly freely in the wide open sky right now~♪』
 「Ｆｕ、Ｆｕ～♪」=Fuu, Fuu~ ♪
+
 CHOICE:『延長して、もっと歌おうよ』=『Let's extend it and sing more』
 CHOICE:『この辺で帰ろうか』=『Let's leave it here』

@@ -12,5 +12,6 @@
 「フフッ、意見が合ったな。いいだろう……もう少しだけだぞ？」=Fufu--, looks like we're of the same mind. Why not... Just for bit longer though, okay?
 「うん、俺も寂しいけど……ここまでかな」=Yeah, I feel a bit lonely too but... let's stop here.
 「あぁ……では離すぞ？　フッ、お互いの汗でびっしょりだな」=Yeah... Then, I'm letting go, okay? Hah, they're drenched with our sweat.
+
 CHOICE:「もう少しだけ、繋がっていたいな……」=I want to keep holding hands, just for a bit longer...
 CHOICE:「うん、俺も寂しいけど……ここまでかな」=Yeah, I feel a bit lonely too but... let's stop here.

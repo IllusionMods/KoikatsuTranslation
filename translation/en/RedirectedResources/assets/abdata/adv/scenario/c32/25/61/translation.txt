@@ -10,5 +10,6 @@
 「……仰せのままに。私も同じ気持ちですから……」=...As you wish. I feel the same way, so...
 「俺も楽しかったよ、それじゃあね」=I had a lot of fun too, well then, see ya.
 「では、手を離しますね……。それでは、お気をつけて」=Well then, I'll let go, alright?...... Well then, take care.
+
 CHOICE:「もう少し一緒にいたいな」=I want to be together for a bit longer.
 CHOICE:「俺も楽しかったよ、それじゃあね」=I had a lot of fun too, well then, see ya.
