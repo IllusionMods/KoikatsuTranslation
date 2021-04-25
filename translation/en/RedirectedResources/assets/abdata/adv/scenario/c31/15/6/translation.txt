@@ -1,3 +1,3 @@
-「付いてこい……だ？　何処に、何の目的で行くんだ？」="""Follow me""... you say? Where, and for what reason?"
+「付いてこい……だ？　何処に、何の目的で行くんだ？」="Follow me"... you say? Where, and for what reason?
 「いやそれは、まだ秘密という事で……サプライズ的な？」=Well, that's still a secret... Treat it as a surprise?
 「怪しさしかないが……まぁいいだろう。おまえに釣られてみるというのも、面白そうだしな」=Sounds real suspicious but... Well, it's fine I suppose. The idea of being caught in your net sounds fun too.

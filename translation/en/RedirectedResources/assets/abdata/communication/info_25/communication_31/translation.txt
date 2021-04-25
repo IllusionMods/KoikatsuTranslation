@@ -50,7 +50,7 @@
 「そう決めつけるのはどうかと思うが……まぁ、好きな奴は多いな」=While I don't think too well of the way you're just assuming things about all of us... well, there are lots of girls who like that sort of stuff.
 「女子同士の恋愛って、あったりした？」=Ever had a romance going with a girl?
 「そ、それは……私がという事か？　い、いや、教えんぞ」=T-That's... Are you asking about me? N-No, I ain't telling you.
-「[H名]って、お姉様とか女王様とか、呼ばれてそうだよね？」="[H名], seems like you're the type to get called ""Onee-sama~"" or ""My Queen!"" by others, aren't you?"
+「[H名]って、お姉様とか女王様とか、呼ばれてそうだよね？」=[H名], seems like you're the type to get called "Onee-sama~" or "My Queen!" by others, aren't you?
 「ほぅ、何故そう思ったのか、聞かせて欲しいな」=Hoh, what makes you think that? I'd like to hear the answer.
 「積極的な男性ってどう思う？」=What do you think of assertive guys?
 「悪くはないな。動きがある奴の方が、見ていて楽しい」=They're not bad. It's more fun to watch energetic guys.
@@ -102,7 +102,7 @@
 「運動は得意か？　体を動かすのが好き、というだけでもいいぞ」=You good at exercise? Nothing insane, just asking if you like getting a workout, moving your body.
 「よし、いいぞ。丁度一緒にトレーニングする相手を探していたんだ」=Alright, good. I was just looking for a training partner as it is.
 「ははっ、わかるぞ。どうにも億劫が先にくるのだろう？」=Haha--, I get you. It always somehow starts feeling annoying right as you're about to do it, doesn't it?
-「学生の本分は勉強……おまえもそのタイプか？」="""A student's duty is to study""... Are you that type of guy too?"
+「学生の本分は勉強……おまえもそのタイプか？」="A student's duty is to study"... Are you that type of guy too?
 「いいな、私も一緒だ。学ぶという事に無駄はないからな」=Nice, I'm the same as you. You could never go wrong with learning even more.
 「ははっ、潔い答えだな。うん、実は私もだ！」=Haha--, what a straight and manly reply. Yeah, the truth is, I'm the same way!
 「見た目は大事と言うが……おまえはそう思うか？」=I think that one's appearance is important but... do you feel the same way?
@@ -187,9 +187,9 @@
 「捨て猫とか見たら、拾ってあげる？」=If you saw an abandoned kitten, would you pick it up?
 「まぁな。見過す事もできないだろう。飼うかどうかは別として」=Yeah. I can't exactly ignore them. Whether I'd keep them myself is another question.
 「いや、餌くらいはやってもいいが、後はそいつ次第だろう」=No, at most I'd leave behind food, the rest would depend on the little guy itself.
-「好きな四字熟語ってある？　やっぱり、唯我独尊とか？」="Do you have a favourite phrase? Something like ""I am my own man through heaven and earth""?"
+「好きな四字熟語ってある？　やっぱり、唯我独尊とか？」=Do you have a favourite phrase? Something like "I am my own man through heaven and earth"?
 「フッ、遠回しに偉そうと言いたいのか？　だが、その通りだ」=Pfft, trying to call me self-conceited in a roundabout way? But, yeah, I guess that one.
-「違うな、その逆だ。一視同仁、誰にでも平等に接するという事だ」="I'd say the reverse of that. ""Equality without Discrimination"". Everyone deserves to be treated equally."
+「違うな、その逆だ。一視同仁、誰にでも平等に接するという事だ」=I'd say the reverse of that. "Equality without Discrimination". Everyone deserves to be treated equally.
 「早起きは得意？」=Ya good at getting up early?
 「あぁ、バッチリだぞ。何事もメリハリは大事だからな」=Yeah, I wake up perfectly on time. Everything in life should be balanced.
 「苦手、だな……。どうにも朝は弱くて困る」=Nah, pretty bad... Mornings are my kryptonite.
@@ -203,7 +203,7 @@
 「当たり前だ。間違いは正してやるのが、パートナーの役目だろう」=That's obvious. It's the partner's duty, to fix their mistakes.
 「いや、怒るというか離れるな。それで気付けなければ、そこまでだ」=No, rather than angry, I'd distance myself. And if they don't realize it, well that's as far as that goes.
 「ズバリ、結婚願望はある？」=Essentially, do you dream of marriage?
-「なにがズバリか知らんが。人並みにはあるぞ。なんだ、悪いか？」="I don't know what you mean by ""Essentially"", but, about as much as the next girl. Why, don't like it?"
+「なにがズバリか知らんが。人並みにはあるぞ。なんだ、悪いか？」=I don't know what you mean by "Essentially", but, about as much as the next girl. Why, don't like it?
 「憧れよりも面倒そうな印象が強いな。女としてはどうかと思うが」=To be honest, it sounds more like a pain than anything else. As a woman, I don't really think of it all that well.
 「恋人の過去って気にする？」=Would you worry about your lover's past?
 「気にならないと言えば嘘になるが、それほど拘りもしないな」=It'd be a lie to say I wouldn't but, I wouldn't get all that fixated over it.
@@ -215,7 +215,7 @@
 「も、持っている……ぞ。い、いざという時のために予習は必要だろう……」=I-I... do. I-It's important to be prepared, when push comes to shove...
 「例え持っていたとしても、おまえにだけは言わん」=Even if I did, I wouldn't tell you.
 「やっぱりエッチの時は攻めたい方？」=I expect as much but, do you prefer being the top during sex?
-「や、やっぱりとはなんだ！　ま、まぁ……その通りだが……」="W-What do you mean ""I expect as much""!? B-But... yeah, I do..."
+「や、やっぱりとはなんだ！　ま、まぁ……その通りだが……」=W-What do you mean "I expect as much"!? B-But... yeah, I do...
 「いや、以外かもしれんが、リードされたいと思っているぞ」=No, this might catch you by surprise but, I'd actually prefer my partner to take the lead.
 「オナニーした事ある？」=Have you ever wanked?
 「あ、あぁ……あるぞ。私にだって、性欲くらいある……」=Y-Yeah... I have. I have a sexual drive too...
@@ -232,7 +232,7 @@
 「おまえ、コーヒーはブラック派か？」=Do you like your coffee black?
 「ほぅ、話がわかる奴だな。そうだ、ブラックこそコーヒーだな」=Hoh, reasonable chap, ain'tcha? That's right, black coffee is real coffee, isn't it?
 「あぁ、賛成だ。わざわざ苦いものを飲む必要もあるまい」=Aah, I agree. There's no point in going out of your way to drink bitter stuff.
-「辛いのは平気か？　激辛料理とか、あるだろ」="You good with spicy food? Like, the sort of ""extra spicy!"" and ""Hellfire!"" stuff out there."
+「辛いのは平気か？　激辛料理とか、あるだろ」=You good with spicy food? Like, the sort of "extra spicy!" and "Hellfire!" stuff out there.
 「そうか。なら、辛さの調節できるカレー屋で、一勝負といこうじゃないか」=I see. In that case, this calls for a bout at the local spicy curry place, don't you think?
 「わかるぞ。舌が刺激されれば美味いと勘違いしている輩が多過ぎる」=I feel you. There's way too many people who think something tastes good just because their tongues are about to burn off.
 「甘いものは好きか？　洋菓子、和菓子、どちらでもいいぞ」=Do you like sweet stuff? Western or Japanese sweets, either are fine.
@@ -261,7 +261,7 @@
 「私は注意したぞ？　言ってわからん奴は……どうなるかな？」=For what it's worth, I did warn you. About what happens to guys... who don't listen to reason.
 「そうかそうか、おまえは痛いのが好きなタイプか」=I see, I see, you're the type that likes pain, huh?
 「目は口ほどに物を言う……さて、私の目は、何と言っている？」=They say eyes are the window to the soul... Now then, what can you see in my eyes?
-「こーらっ、親しき仲にも礼儀ありだぞっ」="Hey--, have you never heard of ""personal distance""?"
+「こーらっ、親しき仲にも礼儀ありだぞっ」=Hey--, have you never heard of "personal distance"?
 「おまえは何がしたいのだ？　面倒な事をするな」=Just what is it that you want to do? Don't be annoying.
 「握力勝負でもしたいのか？　ん？」=Wanna see who's grip is stronger? Hmm?
 「はぁ、少し気を許せばこれだ……最低だなおまえは」=Haa, this is what happens when I let my guard down... You truly are the worst.
@@ -351,7 +351,7 @@
 「むっ、そうか……まぁ、気が変わったらいつでも言いに来い」=Muh--, I see... Well, if you change your mind, just say the word.
 「[H名]はコイカツ部に興味ない？　よかったら入ってほしいな」=Do you have any interest in the Koikatsu club, [H名]? I'd be really happy if you joined.
 「興味がないわけではないが……うーん、少し様子見だな」=I wouldn't say I have no interest but... Well, I'll wait and see for now.
-「あー、コイカツ部、だったか？　入ってやっても……いいぞ？」="Aah, was it called the ""Koikatsu club""? I don't mind if you... sign me up, you know?"
+「あー、コイカツ部、だったか？　入ってやっても……いいぞ？」=Aah, was it called the "Koikatsu club"? I don't mind if you... sign me up, you know?
 「ちょっと付いてきてくれる？」=Will you come with me for a bit?
 「またいきなりだな。で、何処に行くんだ？」=Completely out of the blue again, isn't it? So, where are we going?
 「すまん、他に用事がある。また今度にしてくれるか？」=Sorry, I have other things to do. Can we do this another time?
@@ -392,7 +392,7 @@
 「いや、下着だけが一番多いな……フッ、今想像しただろう？」=No, I tend to sleep in my underwear very often... Hah, you just imagined it, didn't you?
 「将来の夢ってある？」=Got any aspirations for the future?
 「あるにはある。だが、語る程の事でもない、些細な夢だよ」=Well, yeah, I do. But, they're nothing worth talking about.
-「お嫁さん、という柄でもないか……なんだ、残念そうな顔をするな」="Not something like ""Being a wife""... What, don't make such a disappointed face."
+「お嫁さん、という柄でもないか……なんだ、残念そうな顔をするな」=Not something like "Being a wife"... What, don't make such a disappointed face.
 「つまらん事を聞くな。そういう所、たまに抜けているなおまえは」=Don't ask about such tedious stuff. You're really careless about that sort of stuff sometimes.
 「この前、家に白いヤモリがいてさ。縁起いいよね」=The other day, I saw this white lizard around the house. It's a good omen, isn't it?
 「フフッ、それはよかったな。文字通り、おめでたい奴だよ」=Fufu--, that's great. True to its name, it's an good guy to have around.
@@ -408,12 +408,12 @@
 「あるぞ。たくさんある。少しずつで構わんから、叶えて欲しいものだな」=There is. Lots of stuff. I don't mind if you do it slowly, as long as you make it all come true eventually.
 「そこまではないな。おまえがやりたい事に、付き合ってやるよ」=Not really. I'll go along with anything you want to do though.
 「いつまでに結婚したい？」=When do you want to get married?
-「今すぐと答えれば、おまえはプロポーズしてくれるのか？　ん？」="If I said ""right now"", would you propose to me? Hm?"
+「今すぐと答えれば、おまえはプロポーズしてくれるのか？　ん？」=If I said "right now", would you propose to me? Hm?
 「考えたことがなかったな……おまえが望むならいつでもいいぞ？」=I've never really thought about it... If you want to do it, I'm ready to go at any time, you know?
 「浮かれ過ぎだ。恋人になって嬉しいのはわかるが、少しは慎め」=You're getting too ahead of yourself. I understand that you're happy that we're dating but, tone it down a bit.
 「[H名]、好きだよ」=I love you, [H名].
 「なっ、急にどうした？　何か頼み事か？　フフッ、言ってみろ」=Wha--, Why all of a sudden? You want something? Fufu--, try telling me.
-「好きって１０回言い合った後にキスしよう？」="Let's kiss after we say ""I love you"" to each other 10 times, alright?"
+「好きって１０回言い合った後にキスしよう？」=Let's kiss after we say "I love you" to each other 10 times, alright?
 「意味がわからん……だがまぁ、どうしてもと言うなら……」=I don't understand... But, well, if you really want to...
 「生理は重い方？」=Are your periods rough?
 「あぁ、一日寝ていたい時もあるな。弱々しくなって困る……」=Yeah, I have times when I just want to sleep the whole day away. I become all weak and stuff, it's really troubling...
@@ -450,7 +450,7 @@
 「最近よく笑うようになったと言われたのだが、そうか？」=I've been told that I tend to laugh and smile a lot more these days but, is that so?
 「うん、[H名]の笑顔、好きだよ」=Yeah, I love your smile, [H名].
 「うっ、恥ずかしい事を言う奴だなおまえは……」=Uu--, you really do love saying embarrassing stuff...
-「あー、私の胸は好きか？　大きいとか、小さいとかあるだろう？」="Aah, do you like my chest? You should have preferences, no? Like, ""Big"" or ""Small"" or whatever."
+「あー、私の胸は好きか？　大きいとか、小さいとかあるだろう？」=Aah, do you like my chest? You should have preferences, no? Like, "Big" or "Small" or whatever.
 「そうか、文字通り手に余る程だったが、おまえが好きならいい」=I see, they were literally too much for me to handle but, if you like them then that's fine.
 「丁度いいというのは、奇跡的なのかもな。おまえが恋人で良かったよ」=Them being just the right size is almost a miracle. I'm glad you're my lover.
 「なら、小ぶりなりの良さを磨かなくてはな。まずは感度か？　フフッ」=In that case, I suppose we'll just have to refine all the strong points of being small then. Should we start with sensitivity first? Fufu--

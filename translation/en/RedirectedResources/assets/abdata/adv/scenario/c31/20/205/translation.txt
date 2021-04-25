@@ -1,4 +1,4 @@
-「はぁ、溜息が出る程綺麗というのは、こういう事を言うのだろうな」="Haa, this is what they mean when they say something is ""breathtakingly beautiful"", isn't it?"
+「はぁ、溜息が出る程綺麗というのは、こういう事を言うのだろうな」=Haa, this is what they mean when they say something is "breathtakingly beautiful", isn't it?
 「よかった。気に入ってもらえたみたいで一安心だよ」=What a relief, I'm glad you like it.
 「流石にこの夜景を気に入らないという奴はいないんじゃないか？　もしいたら、ひねくれ過ぎだ」=I don't think there's a single person out there who wouldn't like this sort of view. If there is, they'd be way too cynical.
 「はは、そこまで言って貰えると。色々調べた甲斐があったかな」=Haha, hearing you say that much, I'm glad I put in the effort to check this place out.
@@ -6,10 +6,10 @@
 「[H名]の行きたいところでいいと思うよ。俺は[H名]と一緒ならどこでも楽しいし」=I think any spot you'd like to go to is fine, [H名]. I'm happy enough just being together with you.
 「そうは言ってもな。極端な例だが、いきなり北極に行きたいと言われても困るだろう？」=Even so. I know it's an extreme case but, if I told you I'd like to go to the North Pole with you, even you'd be troubled, no?
 「はは、それは流石にね。でも、そこまで難しく考える必要ないよ。俺達、恋人同士なんだしさ」=Haha, yeah, even for me that's a bit much. But, you don't need to think over it so much, you know? We're lovers afterall.
-「そ、そうだな……恋人同士か、改めて言われるとこそばゆいな」="Y-You're right... Hearing you say the word ""lovers"" again, it makes me feel a bit fuzzy inside."
-「うん、最近思うんだよね。本当に恋人同士っていいなってさ」="Yeah, I've been feeling the same way recently. ""It's really nice that we're lovers"", and all."
+「そ、そうだな……恋人同士か、改めて言われるとこそばゆいな」=Y-You're right... Hearing you say the word "lovers" again, it makes me feel a bit fuzzy inside.
+「うん、最近思うんだよね。本当に恋人同士っていいなってさ」=Yeah, I've been feeling the same way recently. "It's really nice that we're lovers", and all.
 「ん？　どういう事だ？　ここはしばらく二人きりだ、普段は言えないような恥ずかしい話もしていいぞ」=Hmm? What do you mean? It's just the two of us here right now, so I don't mind if we talk about embarrassing stuff we usually don't bring up.
-「ありがと。さっきも言ったけど、この人と一緒ならどこに居ても幸せって凄い事だと思うんだよね」="Thanks. I said it just before too but, isn't it amazing, the idea of ""I'm happy enough just being at this person's side, no matter where it is""?"
+「ありがと。さっきも言ったけど、この人と一緒ならどこに居ても幸せって凄い事だと思うんだよね」=Thanks. I said it just before too but, isn't it amazing, the idea of "I'm happy enough just being at this person's side, no matter where it is"?
 「友達同士ならさ、やりたい事が重なったりしないと一緒に遊んだりしないけど。恋人ならそんなの関係ないでしょ？」=Like, if you're friends with someone, you don't usually hang out together unless your plans converge together. But if you're lovers, that sort of thing doesn't matter, no?
 「そうだな。どこで何をするかより、おまえと一緒にいる、それが一番重要だからな」=You're right. Rather than where we are or what we're doing, being together with you is the most important thing for me.
 「そうそう、そういう事。上手く伝わってよかったよ」=Exactly, that sort of thing. I'm glad I was able to articulate it properly.
@@ -36,7 +36,7 @@
 「フフッ、いくら二人きりだからって、さっきから恥ずかしい事を言い過ぎだぞ」=Fufu--, even if it's just the two of us, you've only been saying embarrassing things for the last little while.
 「いやぁ……実はずっとこうちゃってイチャつきたくて。遊園地は面白かったけど、人の目が多過ぎるね」=No, well... I've been wanting to flirt like this for so long. The amusement park was fun but, there were too many eyes all around.
 「そうだな。遊び回って楽しかったが、おまえとゆっくり話していなかった……最後に観覧車は大正解だ」=That's true. It was fun to play around but, I didn't get to talk at ease with you like this... Going for the ferris wheel at the end was the perfect choice.
-「最後と言わず、もう一周くらい乗っちゃう？」="Wanna scratch that ""last event"" thing and ride on the ferris wheel again?"
+「最後と言わず、もう一周くらい乗っちゃう？」=Wanna scratch that "last event" thing and ride on the ferris wheel again?
 「賛成と言いたいが……お互い抑えが効かなくなりそうだ。ゆっくりしたいなら、もっと安全なところにするべきだな」=While I'd like to jump on that chance... I don't think we'd be able to control ourselves. If we want to take it nice and slow, we should do it in a safer place.
 「はは、そうだね。じゃあ、残りの時間はどうしようか？　もう下り始めてるから、結構すぐ終わっちゃいそうだけど」=Haha, you're right. Then, what should we do with the remaining time? It's already started going down again, it'll be over real soon.
 「別に何をすると決めなくてもいいさ。一緒に居るだけで幸せ、それが恋人同士なんだろう？」=It's not like we have to go out of our way to do anything specific. Just cherishing the time we spend together, being happy just being by each other's side, isn't that what being lovers is about?

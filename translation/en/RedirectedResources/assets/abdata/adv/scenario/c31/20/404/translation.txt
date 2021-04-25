@@ -1,7 +1,7 @@
 「ようやく頼んだものが来たな。少し待ちくたびれたぞ」=Finally our order showed up. I almost got tired of waiting.
 「そこはほら、待った分だけ美味しく感じる筈だから、得したと思えばいいんだよ」=Well, I mean, the longer you have to wait for it, the better it tastes so, just take it as a good thing.
 「ほぉ、おまえのそういうポジティブなところは、たまに見習いたくなるな」=Hoh, sometimes I wish I could learn to be more positive like you.
-「たまになんだ……とにかく食べようか。これ以上待ってられないって感じだし」="What do you mean ""sometimes""... Anyways, let's eat. I don't think I can wait any longer."
+「たまになんだ……とにかく食べようか。これ以上待ってられないって感じだし」=What do you mean "sometimes"... Anyways, let's eat. I don't think I can wait any longer.
 「いちごパフェか～、[H名]もそういうの食べるんだね」=A strawberry parfait, huh~. You eat stuff like too, huh, [H名]?
 「まぁな。しかし、おまえもいちごパフェを頼むなんて、無理して私に合わせなくていいんだぞ？」=Yeah. But, ordering a strawberry parfait for yourself too, you didn't need to put yourself out to match me, you know?
 「いやいや、俺いちごパフェ好きだし。甘いものなら割となんでもいけるよ」=Not at all, I like it. I'm fine with sweet things in general, actually.
@@ -18,7 +18,7 @@
 「おっ、抹茶プリンも美味しそうだね」=Oh--, that maccha pudding looks delicious too.
 「そんなもの欲しい気な顔をしてもやらんぞ。おまえはそうやってすぐに人のものまで食いたがる」=Even if you make that greedy face, I ain't giving you any. You always end up wanting to eat others' food like that.
 「えぇ、食べたいなんて言ってないのに……横暴だよ……」=Eeh, even though I haven't said I want any... This is tyranny...
-「口で言わずとも、目が語っていたぞ。『抹茶プリンが食べたい～』ってな」="Even if your mouth doesn't move, your eyes say everything. ""I want some of that maccha pudding~"", and all."
+「口で言わずとも、目が語っていたぞ。『抹茶プリンが食べたい～』ってな」=Even if your mouth doesn't move, your eyes say everything. "I want some of that maccha pudding~", and all.
 「なっ、そんな事思ってないし！　ただ美味しそうだなーって思っただけだよ」=Wha--, that's not what I'm thinking at all! I only thought that it looked pretty delicious, that's all.
 「フフッ、そうかそうか。なら一口やろうと思っていたが、そういう事ならやめておくか」=Fufu--, I see, I see. I thought I'd let you have a bite but, if you don't want it then I won't.
 「えっ！？　そ、それは……」=Eh--!? T-That's...

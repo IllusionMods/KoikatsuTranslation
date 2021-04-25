@@ -2,7 +2,7 @@
 「えぇ、とても美味しいです」=Yes, It's really delicious.
 「うーん……俺もひとくち食べてみたいなー、なんて」=Hmmm... I want to try a bite too, eh, nevermind.
 「別に構いませんが」=I don't particularly mind though.
-「ほんと？　やった。じゃあ前みたいに『あーん』で食べさせてくれるかな」="Really? Yay. Then, will you feed me it while going ""Aaaahn"" like last time?"
+「ほんと？　やった。じゃあ前みたいに『あーん』で食べさせてくれるかな」=Really? Yay. Then, will you feed me it while going "Aaaahn" like last time?
 「わかりました」=Understood.
 「それでは……あーん」=Well then... Aaahn.
 「もぐもぐもぐ……」=*Chew Chew Chew*...
