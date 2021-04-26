@@ -1,4 +1,4 @@
-「んーっ、よく寝た。……あれ？　メモがある。なになに――」=“Mmm, I slept well. ...Oh? There's a letter. What's it say...?”
-//『おはようございます。迷いましたが、あまりにも気持ちよさそうにお眠りなので、起こさないでおきました』=
-//『不要な気遣いでしたら、すみません。今日だけは目覚まし時計を私だと思って下さい。私よりも多少うるさいとは思いますが……』=
-//『では、先に学園へ行って待っています。　[H]』=
+「んーっ、よく寝た。……あれ？　メモがある。なになに――」=Nnnn, I slept well.Oh? There's a letter. Let's see----
+『おはようございます。迷いましたが、あまりにも気持ちよさそうにお眠りなので、起こさないでおきました』=『Good morning. I wanted to wake you up, but you were sleeping so peacefully, I ended up leaving you be.』
+『不要な気遣いでしたら、すみません。今日だけは目覚まし時計を私だと思って下さい。私よりも多少うるさいとは思いますが……』=『If that's unneeded concern on my part, then I apologize. Just for today, think of the alarm clock as me. Though I do think it's a fair bit noisier than I usually am...』
+『では、先に学園へ行って待っています。　[H]』=『Well then, I'll be waiting for you at the school. [H名]』

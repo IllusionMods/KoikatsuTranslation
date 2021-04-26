@@ -1,5 +1,5 @@
-//「あなた、本当に幸せそうな顔で食べますね」=
-//「あんまり見られると恥ずかしいな……」=
-//「失礼。私も自分の食事に集中します」=
-//「そうしてくれると助かるよ」=
-//「…………ふふっ。……いえ、見ていませんよ」=
+「あなた、本当に幸せそうな顔で食べますね」=You sure are eating that really happily.
+「あんまり見られると恥ずかしいな……」=It's kinda embarrassing to be stared at this much...
+「失礼。私も自分の食事に集中します」=My bad. I'll concentrate on my own food.
+「そうしてくれると助かるよ」=Would be nice if you did.
+「…………ふふっ。……いえ、見ていませんよ」=.........Fufu--.Nope, I'm not staring at you. Not at all.

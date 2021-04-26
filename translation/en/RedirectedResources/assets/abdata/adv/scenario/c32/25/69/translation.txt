@@ -1,7 +1,7 @@
-//「まずはあなたの学力を把握させて下さい」=
-//「もしかして、小テストの結果とか見る感じ……？」=
-//「ここで改めてテストを受けて頂いてもよろしいですが……」=
-//「わ～っ、見せます！　はい、これ！　なのでテストはご勘弁を……」=
-//「素直にそうしていればいいんです。……む。これは……」=
-//「現状は平均的……ですが、磨けば光るものがありそうな……面白いですね、どこから始めましょうか……」=
-//（人に教えるのが好きなのかな？　あんまり厳しくないといいけど）=
+「まずはあなたの学力を把握させて下さい」=For the time being, let me confirm your academic capabilities.
+「もしかして、小テストの結果とか見る感じ……？」=By that, do you mean you want to see my test results or something...?
+「ここで改めてテストを受けて頂いてもよろしいですが……」=Well, I suppose I wouldn't mind having you take a new test right here, on the spot...
+「わ～っ、見せます！　はい、これ！　なのでテストはご勘弁を……」=Waaah~, I'll show it to you! Here, take it! So please, spare me the test...
+「素直にそうしていればいいんです。……む。これは……」=You should have done so from the start.Mm. This is...
+「現状は平均的……ですが、磨けば光るものがありそうな……面白いですね、どこから始めましょうか……」=You're about average at present... But, like a diamond in the rough, you'll shine if polished a bit... Interesting, where should I start...
+（人に教えるのが好きなのかな？　あんまり厳しくないといいけど）=(Is she someone who likes teaching others? I hope she's not too strict though.)

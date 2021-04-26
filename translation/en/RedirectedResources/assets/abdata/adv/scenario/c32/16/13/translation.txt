@@ -1,3 +1,3 @@
-//「いつお誘い頂けるか、待っていたんですよ。もちろん答えはＯＫです」=
-//「良かった！　じゃあ楽しみにしてて」=
-//「あなただけに準備をお任せするわけにはいきません。一緒にプランを考えましょう。ふふ……胸が躍りますね」=
+「いつお誘い頂けるか、待っていたんですよ。もちろん答えはＯＫです」=I've been waiting this whole time, for you to invite me, you know? Of course, I'm all for it.
+「良かった！　じゃあ楽しみにしてて」=I'm glad! Then, look forward to it, alright?
+「あなただけに準備をお任せするわけにはいきません。一緒にプランを考えましょう。ふふ……胸が躍りますね」=I can't leave all the preparations to you alone. Let's think of a plan together. Fufu... My chest, it's pounding so hard.

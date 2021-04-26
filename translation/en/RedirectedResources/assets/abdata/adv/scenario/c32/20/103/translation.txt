@@ -1,13 +1,13 @@
-//「ふぅ、今日はいっぱい遊びましたね。もう夕方になってしまいました」=
-//「ねえ、まだ時間あるかな。もう少しここでゆっくりしない？」=
-//「そんなに公園が気に入ったのですか？　わかります」=
-//「ん、公園じゃなく、一緒にいる人のおかげかなーって」=
-//「……それ、私も思っていました」=
-//「そう？　よかった！　じゃあ、一緒に見たいものがあるんだ。ついてきて」=
-//「だね。じゃあ、デートの締めくくりをしよう」=
-//「締めくくり？　何をするんですか？」=
-//「手をつないで、一緒に駅まで戻ることだよ。さあ、行こう！」=
-//「……照れますね。でも、いいデートだったって、心から思います」=
+「ふぅ、今日はいっぱい遊びましたね。もう夕方になってしまいました」=Fuu, we sure played around a lot today. The sun's already gone down.
+「ねえ、まだ時間あるかな。もう少しここでゆっくりしない？」=Hey, do you still have some time? Wanna take it easy here for a bit longer?
+「そんなに公園が気に入ったのですか？　わかります」=Did you like the park that much? I can understand.
+「ん、公園じゃなく、一緒にいる人のおかげかなーって」=Mm, it's not the park, but rather the company, if you catch my drift.
+「……それ、私も思っていました」=...I was thinking the same thing.
+「そう？　よかった！　じゃあ、一緒に見たいものがあるんだ。ついてきて」=That so? Great! Then, there's something I want to show you. Come with me.
+「だね。じゃあ、デートの締めくくりをしよう」=Yeah. Then, let's bring this date to a close, with one final thing.
+「締めくくり？　何をするんですか？」=A final thing? What are we doing?
+「手をつないで、一緒に駅まで戻ることだよ。さあ、行こう！」=We join our hands, and return to the station together. Come on, let's go!
+「……照れますね。でも、いいデートだったって、心から思います」=...I'll blush. But, it really was a good date, I feel that from my heart.
 
-//CHOICE:『まだ時間ある？』=
-//CHOICE:『帰ろうか』=
+CHOICE:『まだ時間ある？』=『Still got time?』
+CHOICE:『帰ろうか』=『Shall we go home?』

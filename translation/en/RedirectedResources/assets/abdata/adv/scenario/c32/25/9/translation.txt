@@ -1,3 +1,3 @@
-//「はい、いいですよ。集合時間と場所を指定下さい」=
-//「え……そんな簡単に、いいの？」=
-//「やってみたかったのでしょう？　なら、臆せずやるべきです」=
+「はい、いいですよ。集合時間と場所を指定下さい」=Yes, alright. You can pick the time and place.
+「え……そんな簡単に、いいの？」=Eh... That easily, are you sure?
+「やってみたかったのでしょう？　なら、臆せずやるべきです」=You wanted to try it, no? Then you ought to do so without any hesitation.

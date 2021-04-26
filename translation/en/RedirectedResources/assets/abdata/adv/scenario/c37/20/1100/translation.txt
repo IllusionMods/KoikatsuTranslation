@@ -29,7 +29,7 @@
 「[H名]……」=[H名]...
 「ありがとうございます、[P名]」=Thank you very much, [P名].
 「私と出会ってくれたこと、好きになってくれたこと――」=For having met me, for having fallen in love with me--
-「なにより愛してくれたこと、嬉しい以外の言葉が見つかりません」="For having loved me so much, I can't find words to describe how I'm feeling, other than ""I'm happy""."
+「なにより愛してくれたこと、嬉しい以外の言葉が見つかりません」=For having loved me so much, I can't find words to describe how I'm feeling, other than "I'm happy".
 「こんな私ですが、末永くお願いします」=I know I'm like this but, please be with me forever.
 「こちらこそ。[H名]が一緒にいてくれて、好きになってくれたこと……どう言っていいかわからないくらい嬉しいよ」=I should be the one saying that. Being with me, falling in love with me... I'm so happy, I don't even know how to express it.
 「[H名]をずっと幸せに……ううん、二人で幸せでいられるように頑張るから、これからも俺の一番近くにいてください」=I'll definitely make you... No, I'll do my best so we can be happy together forever, so please keep staying by my side.

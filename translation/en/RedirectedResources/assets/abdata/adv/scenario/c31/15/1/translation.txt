@@ -1,5 +1,5 @@
-//「あー[H姓]さん。今、いいかな？　出来れば話したいなって」=
-//「あぁ、話くらいならしてもいいが……その妙によそよそしい態度はやめろ。呼び方も、名前でいい」=
-//「ご、ごめん。初めて話しかける時って……その、距離感が難しくて」=
-//「フッ、早速おまえの事が一つわかった。ひとの顔色を窺うタイプか」=
-//「え、うんまぁ……多少はね？　えぇっと、それじゃあ……」=
+「あー[H姓]さん。今、いいかな？　出来れば話したいなって」=Aah, [H姓]-san. Is now a good time? I wanted to talk to you for a bit, if possible.
+「あぁ、話くらいならしてもいいが……その妙によそよそしい態度はやめろ。呼び方も、名前でいい」=Aah, I don't mind talking but... stop with that weirdly standoffish attitude. Also, just call me by my name.
+「ご、ごめん。初めて話しかける時って……その、距離感が難しくて」=S-Sorry. It's our first time talking so... It's kinda hard to gauge the right distance.
+「フッ、早速おまえの事が一つわかった。ひとの顔色を窺うタイプか」=Hah, I already figured out something about you. The type to try and peek at someone's expression in a conversation, huh?
+「え、うんまぁ……多少はね？　えぇっと、それじゃあ……」=Eh, yeah, well... more or less? Errhm, well then...
