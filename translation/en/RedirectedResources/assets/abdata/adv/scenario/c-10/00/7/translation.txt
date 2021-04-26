@@ -18,7 +18,6 @@
 （なんとなくの世間話でもいいんだ。電話してみよう）=(I doesn't matter what we talk about. I'll call her)
 「そうと決まれば……ええと、水瀬さんの番号は……」=Now that I've made up my mind... uh, her number is...
 アドレス帳から水瀬さんの番号を探して、コールを開始す――。=I looked up her number in my address book and started dialing.
-亜依=Ai
 『はいもしもしっ』="Yes, hello."
 「はやっ！」=Heya!
 『あっ、ごめんね！　その、私も、ちょうど、携帯を持ってたっていうか、電話しようと思ってた、というか……』="Oh, I'm sorry! I was just looking at my phone and thinking I should call you..."
@@ -27,7 +26,6 @@
 お母さんが近くにいるのだろうか、後半は誰かに向けて話しているようだった。=I suspected her mother was nearby, as she seemed to also be speaking to someone else.
 というか、今も話している。=Well, at least we were talking.
 『だから、違うってば……違……ああっ、とらないでっ、ママぁ！』="I told you, it's not... wait... no, let that go, Mama!
-亜依の母=Ai's mother
 『もしもし～、亜依ちゃんのママです。いつも亜依ちゃんがお世話になってまーす』="Hello~ it's Ai's mother. Thank you so much for taking care of her."
 「あ、ど、どうも」=Oh, h-hey there.
 『あのね、さっき亜依ちゃんが言ってたけど、そろそろケーキが出来あがるのよ。よかったら、うちに来ない？』="The cake Ai mentioned is almost ready. Would you like to come over and have some?"
@@ -177,3 +175,6 @@
 「水瀬さん……焦りすぎて、順番が逆になってきちゃってるよ……？」=Minase-san... was I so caught up in the moment, that I got the results backwards...?
 しかし、その問いに答える人は誰もいない。=But there was no-one there to answer that question.
 俺は、頭が真っ白になってしまい、その日は何も手が付かなかった。=I couldn't think straight and didn't get anything else done that day.
+
+亜依=Ai
+亜依の母=Ai's mother

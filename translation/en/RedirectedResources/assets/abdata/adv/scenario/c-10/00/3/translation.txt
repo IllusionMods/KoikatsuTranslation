@@ -1,9 +1,7 @@
 ﻿（今日は乙梨さんとお喋りする日だ……男にトラウマがあるって言ってたけど、まずは話してみないとな）=(Today is the day I'm going to talk to Otonashi-san... I heard she was traumatized by men, but I should talk to her first)
 一応、その手の本を何冊か読んだけど、とにかく個人差があって、詳しく話を聞くことが第一なのだとか。=For now, I've read several books on the subject, but everyone is different, and the first thing to do is to hear the details.
 ただ、話を聞くところまで漕ぎつけるのが大変で、本によっては聞き出す心得やテクニックに終始しているものもあった。=However, it was often difficult to get them to open up, so some of the books were all about just how to listen.
-亜依=Ai
 「あ、お待たせ！　乙梨さん、連れてきたよ」=Hey there! I've brought Otonashi-san with me.
-乙梨さん=Otonashi-san
 「……」=......
 （おお……！　顔も合わせられないと思ってたけど、来てくれたんだ）=(Oh...! I didn't think we'd be meeting face to face, but here she is)
 おそらく、水瀬さんの持前のカリスマで色々と説得してくれたんだろう。=Perhaps Minase-san's charms persuaded her to do this.
@@ -110,7 +108,6 @@
 「ついでにお化粧もしちゃおうか？　すごく簡単なやつだけど」=Do you want me to do your makeup while I'm at it? Just something simple.
 「いやいやいや、そこまでする必要ないよ！」=No, no, no, we don't have to go that far!
 「し……した方が……い、いいかも、しれ……ませ、ん……」=I think... you should... it might be a good idea... or not...
-亜依＆[P名]=Ai & [P名]
 「！？」=!?
 気を付けないと聞き逃してしまいそうな、そんなか細い声だった。そして――。=It was such a faint voice that if you weren't careful you might miss it. And then...
 「少し、ずつ……大丈、夫に、なってき……ました……」=Little by little... I'm feeling more comfortable... I'm getting better...
@@ -152,3 +149,7 @@
 「マネージャーだけどね？　これからよろしくね！」=I'm the manager, remember? Please take care of me from now on!
 頑なにマネージャーを主張しているのも、自信のなさから来るものなのか。=I wonder if her stubborn insistence on being a manager comes from a lack of confidence.
 けれど今は、乙梨さんが明るい表情で帰ったこと、そして水瀬さんとの関係を一歩先に進められたことを喜ぶことにした。=But for now, I decided to rejoice in the fact that Otonashi-san had left with a cheerful expression on her face, and that I had been able to take my relationship with Minase-san one step further.
+
+亜依=Ai
+乙梨さん=Otonashi-san
+亜依＆[P名]=Ai & [P名]
