@@ -8,8 +8,10 @@
 「うぅ……それじゃ、あ、あーん……」=Ugh... Then, a-ahh...
 「ふふっ、口元にクリームが残ってるわよ。拭ってあげるから、こっち来て……ちゅっ♪　……ふふ、美味しい」=Fufu, you have some cream leftover on your mouth. I'll wipe it, come here... Chu. ♪ ... Fufu, delicious.
 「今日も楽しかったわ。デートっていいものね。毎日したいかも……なんてね」=I had fun today. Dates are nice. I might want to do it everyday... Just kidding.
+
 CHOICE:「まだもう少し一緒にいない？」="Want to be together for a little longer?"
 CHOICE:「俺も楽しかったよ、それじゃあね」="I had fun too, well, see ya."
+
 「まだもう少し一緒にいない？」=Want to be together for a little longer?
 「ええ、帰るにはまだ早いものね」=Yeah, it's too early to go home.
 「俺も楽しかったよ、それじゃあね」=I had fun too, well, see ya.

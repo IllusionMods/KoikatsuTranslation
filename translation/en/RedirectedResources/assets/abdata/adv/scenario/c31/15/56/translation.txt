@@ -1,6 +1,6 @@
-//「ま、待て。私はこういう性格だから……嫌な所があったなら言ってくれ。直すよう、努力する」=
-//「ごめん……そういう事じゃないんだ」=
-//「では、どういう事だ？　一方的過ぎるだろう……こんなの……辛すぎる……」=
-//「一方的なのはわかってるよ。でもごめん……本当にごめん」=
-//「ッ、すまん……みっともない姿を見せたな。だが、最後に一つだけ、言っておきたい事がある」=
-//「おまえと一緒にいた時間は……楽しかった。本当に感謝しているよ……ありがとう……ではな……」=
+「ま、待て。私はこういう性格だから……嫌な所があったなら言ってくれ。直すよう、努力する」=W-Wait. I have this kind of a personality so... If there's something you don't like about me, just tell me. I'll do my best to change.
+「ごめん……そういう事じゃないんだ」=Sorry... That's not it.
+「では、どういう事だ？　一方的過ぎるだろう……こんなの……辛すぎる……」=Then what is it? This is too one-sided... This is... too painful...
+「一方的なのはわかってるよ。でもごめん……本当にごめん」=I know it's one-sided. But I'm sorry... I'm really sorry.
+「ッ、すまん……みっともない姿を見せたな。だが、最後に一つだけ、言っておきたい事がある」=!, sorry... I showed you a pathetic sight, didn't I? But, there's something I'd like to say, just one last thing.
+「おまえと一緒にいた時間は……楽しかった。本当に感謝しているよ……ありがとう……ではな……」=The time we spent together... It was fun. I'm really grateful... Thank you... See ya then...

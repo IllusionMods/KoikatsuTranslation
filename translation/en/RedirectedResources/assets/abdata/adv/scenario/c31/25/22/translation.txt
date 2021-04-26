@@ -1,2 +1,2 @@
-//「あー、ちょっと来い。クッキーをくれてやる。私の手作りだぞ？　感謝しろ」=
-//「授業で作ったのだが、少し余ってな。どうせならおまえにと……ほら、いいから食え」=
+「あー、ちょっと来い。クッキーをくれてやる。私の手作りだぞ？　感謝しろ」=Aah, come here for a bit. I'll give you some cookies. I made these myself, you know? Be grateful.
+「授業で作ったのだが、少し余ってな。どうせならおまえにと……ほら、いいから食え」=I made them in class but, there were a few left over. I thought I might as well give them to you... Come on, it's fine so go ahead and eat them.

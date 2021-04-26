@@ -1,5 +1,5 @@
-//「へえ、色々あるんだね」=
-//「あなたも興味がおありなようですね。ではもっと見てみませんか」=
-//「うん、いいよ」=
-//「予想以上に満足できました」=
-//（よかった、喜んでもらえたみたいだ）=
+「へえ、色々あるんだね」=Hoh, there's quite the variety, huh?
+「あなたも興味がおありなようですね。ではもっと見てみませんか」=Looks like you have quite a bit of interest in this too. Then, shall we take a closer look?
+「うん、いいよ」=Yeah, sure.
+「予想以上に満足できました」=That was more satisfying that I would have expected.
+（よかった、喜んでもらえたみたいだ）=(I'm glad, looks like she enjoyed it)

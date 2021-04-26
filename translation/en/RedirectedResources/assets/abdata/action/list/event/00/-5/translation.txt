@@ -1,15 +1,13 @@
-
-初めての出会い=First Meeting
-あの娘は……？=That Girl......?
-偶然の再会=A Lucky Reunion
-やってみたいことは？=What Do You Want To Do?
-図書館すたでぃんぐ=Library Studying
-学園ライブ=Live Campus Concert
-経験不足で……？=You're Not Experienced......?
-いよいよコイカツ！=Finally, Koikatsu Club!
-恋、戸惑い=Love and Confusion
-離れ離れ=Separation
-二人きりの保健室=By Ourselves in the School Infirmary
-告白の答えは？=A Confession Answer?
-
-告白もう一度=Confessing Again
+﻿初めての出会い=First Meeting
+あの娘は……？=Is That Girl...?
+偶然の再会=A Coincidental Reunion
+やってみたいことは？=What Would You Like to Do?
+図書館すたでぃんぐ=Syudying at the Library
+学園ライブ=School Live
+経験不足で……？=Lack of Experience with...?
+いよいよコイカツ！=Finally, Koikatsu!
+恋、戸惑い=Love, Confused
+離れ離れ=Separated
+二人きりの保健室=The Two of Us Alone in the Infirmary
+告白の答えは？=What's the Answer to my Confession?
+告白もう一度=Confession Once More

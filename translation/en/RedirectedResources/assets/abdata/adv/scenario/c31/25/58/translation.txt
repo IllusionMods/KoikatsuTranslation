@@ -1,5 +1,5 @@
-//「周りを気にして歩いた事などなかったが、おまえと並んで歩くと少し違ってくるな」=
-//「そういうのはあるかもね。ほら、俺達デートしてるぞ！　って自慢したい気分！」=
-//「こら、そういう事は大きな声で言うなっ……私も同じだと思われたら……恥ずかしいだろう……」=
-//「一緒に店に入ったり、街を歩いてるだけだけど、これでデートになるかな？」=
-//「そう構える事もないだろう。二人で一緒にいて楽しければデート。それでいいんじゃないか？」=
+「周りを気にして歩いた事などなかったが、おまえと並んで歩くと少し違ってくるな」=I've never really paid attention to my surroundings when walking around before but, it feels different when I walk alongside you.
+「そういうのはあるかもね。ほら、俺達デートしてるぞ！　って自慢したい気分！」=That might be true. I feel like boasting, "We're on a date, you know!", I'm in that sort of mood!
+「こら、そういう事は大きな声で言うなっ……私も同じだと思われたら……恥ずかしいだろう……」=Hey, don't say that sort of thing in such a loud voice--... If people start thinking I'm the same way... It'll be really embarrassing...
+「一緒に店に入ったり、街を歩いてるだけだけど、これでデートになるかな？」=We're just walking around together, and entering stores and stuff but, will it really be a date like this?
+「そう構える事もないだろう。二人で一緒にいて楽しければデート。それでいいんじゃないか？」=It's not something to be that bothered about, no? As long as we have fun together, it's a date. Isn't that just fine?

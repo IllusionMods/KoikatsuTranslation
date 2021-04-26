@@ -1,5 +1,5 @@
-//「街を散策するのですね。あなたについて行きますので、お好きなところへどうぞ」=
-//「君の行きたいところも忘れないでね。デートってお互いが楽しむものだから」=
-//「なるほど。承知しました」=
-//「少し気になる店を発見しました。立ち寄ってもよろしいでしょうか」=
-//「もちろん！　行こう行こう」=
+「街を散策するのですね。あなたについて行きますので、お好きなところへどうぞ」=Walking around the town, huh? I'll follow you, so go wherever you like.
+「君の行きたいところも忘れないでね。デートってお互いが楽しむものだから」=Don't forget to call out any places you like either, alright? A date is something we both have to enjoy, afterall.
+「なるほど。承知しました」=I see. Understood.
+「少し気になる店を発見しました。立ち寄ってもよろしいでしょうか」=I found a store that I'm a bit curious about. Is it alright if we drop by there for a moment?
+「もちろん！　行こう行こう」=Of course! Let's go, Let's go.

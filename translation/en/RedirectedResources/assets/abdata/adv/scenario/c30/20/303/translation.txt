@@ -15,4 +15,5 @@
 
 CHOICE:『よし、延長しちゃおう！』=Alright, let's extend it!
 CHOICE:『うーん、今日は帰ろうか』=Well, let's go home for today.
+
 [P名]＆[H名]=[P名] & [H名]

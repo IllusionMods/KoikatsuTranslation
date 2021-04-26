@@ -1,2 +1,2 @@
-//「おはようございます。昨日のお疲れはちゃんと取れたようですね」=
-//「私ですか？　あなたの寝顔がこんなそばにあるのに、おちおち寝てなど……って、私のことはどうでもいいんです」=
+「おはようございます。昨日のお疲れはちゃんと取れたようですね」=Good morning. Looks like you're fully recharged from yesterday's fatigue.
+「私ですか？　あなたの寝顔がこんなそばにあるのに、おちおち寝てなど……って、私のことはどうでもいいんです」=About me? Your sleeping face is so close to me, yet aside from sleeping peacefully... Eh, you don't need to worry about me.
