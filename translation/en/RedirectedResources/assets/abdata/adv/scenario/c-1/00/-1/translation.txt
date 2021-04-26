@@ -1,2 +1,3 @@
-﻿リナ=Lina
-「きみはなかなか怪我しないわね。やっぱり身体が頑丈なのかしら？」=You don't get hurt very often, do you? I wonder if your body is strong enough?
+﻿「きみはなかなか怪我しないわね。やっぱり身体が頑丈なのかしら？」=You don't get hurt very often, do you? I wonder if your body is strong enough?
+
+リナ=Lina

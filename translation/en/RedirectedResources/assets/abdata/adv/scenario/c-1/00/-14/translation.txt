@@ -1,2 +1,3 @@
-﻿リナ=Lina
-「先生の男性経験が知りたい？　あら、男性経験だけでいいの？　女性経験もあるかもしれないわよ？」=You want to know about the teacher's experience with men? Oh, just experience with men? Maybe I've experienced women, too?
+﻿「先生の男性経験が知りたい？　あら、男性経験だけでいいの？　女性経験もあるかもしれないわよ？」=You want to know about the teacher's experience with men? Oh, just experience with men? Maybe I've experienced women, too?
+
+リナ=Lina

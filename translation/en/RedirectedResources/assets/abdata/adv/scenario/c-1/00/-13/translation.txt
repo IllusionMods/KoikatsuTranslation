@@ -1,2 +1,3 @@
-﻿リナ=Lina
-「保健室に一人でいると、わりと眠くなっちゃうの。まぁ、怪我人がいないに越したことはないんだけどね」=When I'm alone in the infirmary, I get rather sleepy. Well, it's better if there are no injured people.
+﻿「保健室に一人でいると、わりと眠くなっちゃうの。まぁ、怪我人がいないに越したことはないんだけどね」=When I'm alone in the infirmary, I get rather sleepy. Well, it's better if there are no injured people.
+
+リナ=Lina

@@ -1,4 +1,5 @@
-﻿リナ=Lina
-「病は気から。でも病気になったらきちんと治しましょうね」=Illness is in the mind. But if you get sick, you should treat it properly.
+﻿「病は気から。でも病気になったらきちんと治しましょうね」=Illness is in the mind. But if you get sick, you should treat it properly.
 「先生が……身も心も優しく診てあげる♪」=The doctor will... gently examine your body and mind♪
 「保健室はいつでも誰でもウエルカムよ♪」=The infirmary is always open to anyone♪
+
+リナ=Lina
