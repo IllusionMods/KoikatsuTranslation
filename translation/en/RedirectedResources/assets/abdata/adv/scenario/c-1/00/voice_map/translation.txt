@@ -1,4 +1,5 @@
-﻿「あら、私だってたまにはここにいるのよ？」=Oh my, you know I'm sometimescome here, right?
+﻿「あら、私だってたまにはここにいるのよ？」=Oh my, you know I come here sometimes, right?
+
 「もしかして保健室に用事だった？　すぐに戻るから待っててね」=Did you have to go to the infirmary? I'll be right there so wait for a bit.
 「職員室って意外とざわざわしてるでしょう？　落ち着かないわよね」=Isn't the staff room annoyingly crowded? It's very uncomfortable.
 「きみは廊下もきちんと右側を歩いて……模範的な学生ね」=You walk on the right side of the hallway... You're an exemplary student.
