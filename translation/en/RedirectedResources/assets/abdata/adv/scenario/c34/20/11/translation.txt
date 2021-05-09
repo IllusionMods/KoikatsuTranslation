@@ -1,5 +1,5 @@
-//「ワタシたち……もうｃｏｕｐｌｅじゃない方が、イイ思うヨ」=
-//「え……どうしたの？」=
-//「ドウシタノ？　ワタシたち、うまく行ってないヨネ。Ｈａｒｄ　ｔｏ　ｕｎｄｅｒｓｔａｎｄ……アナタのコト、分からないカラ」=
-//「それって……ちょっと待って」=
-//「ココロの距離、遠くなったヨ。サヨナラデス」=
+﻿「ワタシたち……もうｃｏｕｐｌｅじゃない方が、イイ思うヨ」=I think it would be better... if we weren't a couple anymore.
+「え……どうしたの？」=Eh... what's the matter?
+「ドウシタノ？　ワタシたち、うまく行ってないヨネ。Ｈａｒｄ　ｔｏ　ｕｎｄｅｒｓｔａｎｄ……アナタのコト、分からないカラ」="What's the matter"? It's that it's not working out between us. It's hard for me to... understand you.""
+「それって……ちょっと待って」=That... please, just wait.
+「ココロの距離、遠くなったヨ。サヨナラデス」=Our hearts, have gotten really distant. Goodbye.

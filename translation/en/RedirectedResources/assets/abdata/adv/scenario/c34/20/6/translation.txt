@@ -1,3 +1,3 @@
-//「ＯＫ♪　ドコ行くヨー？」=
-//「まだシークレットで」=
-//「フフ、ナイショ、楽しみネー」=
+﻿「ＯＫ♪　ドコ行くヨー？」=OK♪ Where are you taking me?
+「まだシークレットで」=It's still a secret.
+「フフ、ナイショ、楽しみネー」=Fufu, secret, sounds fun.

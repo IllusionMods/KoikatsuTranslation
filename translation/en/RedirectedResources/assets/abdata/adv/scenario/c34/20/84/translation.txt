@@ -1,6 +1,6 @@
-//「アノー……ＫＯＩ－ＫＡＴＳＵ部ハ、エッチする部活？」=
-//「いやいやいや、コイカツ部自体はとてもクリーンで健全な部活だよ……多分」=
-//「Ｉ　ｓｅｅ♪　ニッポン語の『アイ』と『コイ』、英語に直すとドッチも『Ｌｏｖｅ』ダカラ、言葉のｎｕａｎｃｅ難しいネー」=
-//「そうなんだ……あれ？　Ｌｏｖｅとｌｉｋｅは違うんだよね？」=
-//「違うケド、『アイ』と『コイ』と言うヨリ、『大』と『小』ミタイ。『アイ』と『コイ』ニモ『大』と『小』あるデショ？」=
-//（なるほど、わかったような、わからないような……というか、すごく学問的にコイカツしてる気がする）=
+﻿「アノー……ＫＯＩ－ＫＡＴＳＵ部ハ、エッチする部活？」=Uhm... Is the Koikatsu club, a sex club?
+「いやいやいや、コイカツ部自体はとてもクリーンで健全な部活だよ……多分」=Nonono, the whole idea behind the Koikatsu club is to do clean and wholesome and family-friendly stuff... probably.
+「Ｉ　ｓｅｅ♪　ニッポン語の『アイ』と『コイ』、英語に直すとドッチも『Ｌｏｖｅ』ダカラ、言葉のｎｕａｎｃｅ難しいネー」="I see♪ When you translate 愛 (Ai)" and "恋 (Koi)" into English, both of them mean "Love", so the nuance is difficult to comprehend.""
+「そうなんだ……あれ？　Ｌｏｖｅとｌｉｋｅは違うんだよね？」="I see... Huh? Love" and "Like" are different, aren't they?""
+「違うケド、『アイ』と『コイ』と言うヨリ、『大』と『小』ミタイ。『アイ』と『コイ』ニモ『大』と『小』あるデショ？」="They are but, rather than it being the difference between Koi" and "Ai", it's more about "big" and "small" of it. Like, even with "koi" and "ai", there's varying degrees of both, no?""
+（なるほど、わかったような、わからないような……というか、すごく学問的にコイカツしてる気がする）=(I see. I feel like I get it, but at the same time not... I feel like the love activities between us are going to be super academic)
