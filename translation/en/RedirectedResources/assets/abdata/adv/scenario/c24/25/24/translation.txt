@@ -1,3 +1,3 @@
-//「今、大丈夫ですか？　さっき、調理実習でハンバーグを作ったので、よかったら食べてもらえませんか？」=
-//「あ……よく言われるんですが、爪とか髪とか、病気になりそうな変なものは何も入れていません」=
-//「その代わり、私の愛をいっぱい込めました♡　それでは、失礼します♡」=
+﻿「今、大丈夫ですか？　さっき、調理実習でハンバーグを作ったので、よかったら食べてもらえませんか？」=Do you have a moment? I made this hamburg steak during home-ec earlier, won't you eat it for me?
+「あ……よく言われるんですが、爪とか髪とか、病気になりそうな変なものは何も入れていません」=Ah... I get this a lot but, I haven't put anything harmful in it like my nails or my hair or anything.
+「その代わり、私の愛をいっぱい込めました♡　それでは、失礼します♡」=The only thing I've packed this full of is my love for you♡ Well then, please enjoy♡

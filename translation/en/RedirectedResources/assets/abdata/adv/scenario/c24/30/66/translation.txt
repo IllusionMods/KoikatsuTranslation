@@ -1,6 +1,6 @@
-
-//「見慣れた街なのに、違う街みたいに見えます♡」=
-//「え、どうして？」=
-//「大好きなあなたと二人きりで歩いているからです♡　今まで興味のなかったお店も、あなたとなら入りたくなってしまって♡」=
-//「じゃあ、ちょっと寄り道してみる？」=
-//「はい♡　帰り道がこんなに楽しいなんて、思ってもみなかったです♡」=
+﻿
+「見慣れた街なのに、違う街みたいに見えます♡」=Even though I know this town like the back of my hand, it feels like an entirely different place now♡
+「え、どうして？」=Eh, why?
+「大好きなあなたと二人きりで歩いているからです♡　今まで興味のなかったお店も、あなたとなら入りたくなってしまって♡」=It's because I'm walking side by side with you, my love♡ Even the stores that never interested me till now, I can't help but want to check them out together with you♡
+「じゃあ、ちょっと寄り道してみる？」=Wanna take a slight detour then?
+「はい♡　帰り道がこんなに楽しいなんて、思ってもみなかったです♡」=Sure♡ I never once thought that walking home could ever be so fun♡

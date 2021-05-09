@@ -1,7 +1,7 @@
-
-//「昔、学園に行きたくないときに、ここの公園でよく妄想していました……私は学園の人気者って……痛い子ですよね」=
-//「そ、そんなことないよ……」=
-//「すみません、暗い話をしてしまって。でも、もう大丈夫です♡　今はあなたのおかげで学園に行くのが楽しみで仕方ないんです♡」=
-//「そう言ってもらえると嬉しいな」=
-//「はい♡　この公園も、あなたと一緒に来たから、とても明るい場所に思えます♡　うふふ♡」=
-//（これからも、どんどんそういう場所を作ってあげたいな……）=
+﻿
+「昔、学園に行きたくないときに、ここの公園でよく妄想していました……私は学園の人気者って……痛い子ですよね」=Back in the day, whenever I wouldn't feel like going to school, I'd come here and fantasize... about being the most popular girl in school and stuff... sounds cringy, doesn't it?
+「そ、そんなことないよ……」=N-Not at all...
+「すみません、暗い話をしてしまって。でも、もう大丈夫です♡　今はあなたのおかげで学園に行くのが楽しみで仕方ないんです♡」=I'm sorry, I started talking about depressing stuff. But, I'm alright now♡ These days, thanks to you, going to school has become so fun, I almost can't help myself sometimes♡
+「そう言ってもらえると嬉しいな」=Hearing that makes me really happy.
+「はい♡　この公園も、あなたと一緒に来たから、とても明るい場所に思えます♡　うふふ♡」=Yes♡ This park too, ever since I started coming here with you, it started looking like such a bright place to me♡ Ufufu♡
+（これからも、どんどんそういう場所を作ってあげたいな……）=(I'd love to make it so that she feels that way about all sorts of other places too...)

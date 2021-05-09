@@ -1,3 +1,3 @@
-//「もしかして、好き合っている男女が二人っきりでする『運動♡』のことですか？」=
-//「え？　あっ、そうじゃなくて！　普通に身体を動かそうってことだよ！」=
-//「え……私ったら、なんて早とちりを♡　ごめんなさい、聞かなかったことにしてください♡」=
+﻿「もしかして、好き合っている男女が二人っきりでする『運動♡』のことですか？」="By any chance, are you talking about the sort of exercise♡" a loving couple in a healthy relationship often does?""
+「え？　あっ、そうじゃなくて！　普通に身体を動かそうってことだよ！」=Eh? Ah--, not that! I just meant a normal workout!
+「え……私ったら、なんて早とちりを♡　ごめんなさい、聞かなかったことにしてください♡」=Eh... I always jump to the wrong conclusion so fast♡ I'm sorry, please pretend you didn't hear that♡

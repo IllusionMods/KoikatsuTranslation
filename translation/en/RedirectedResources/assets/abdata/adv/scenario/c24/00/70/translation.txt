@@ -1,6 +1,6 @@
-//「さっきからキョロキョロして集中できてないみたいだけど、どうかした？」=
-//「あなたに挨拶してくる子の顔と名前を憶えているんです……今は私とコイカツ中なのに……」=
-//（まずい……図書室でやった方がよかったな……ここはひとまず……）=
-//「あ、じゃあこうしない？　あと３０分でノルマ達成できたら、今度甘いもの食べに行こうよ」=
-//「１５分で終わらせます♡　二人っきりで、甘いもの♡　お口にあ～ん、なんてしちゃったり♡　うふふ♡」=
-//（すごいスピードだ……次からは場所も考えないとな……）=
+﻿「さっきからキョロキョロして集中できてないみたいだけど、どうかした？」=Something the matter? You've been looking around all over and haven't really been focusing on it for a while now.
+「あなたに挨拶してくる子の顔と名前を憶えているんです……今は私とコイカツ中なのに……」=I'm memorizing the face and name of every girl that comes to say hello to you... Even though this should be our private koikatsu time...
+（まずい……図書室でやった方がよかったな……ここはひとまず……）=(This is bad... Should have done this at the library... For now, I gotta...)
+「あ、じゃあこうしない？　あと３０分でノルマ達成できたら、今度甘いもの食べに行こうよ」=Ah, then how about this? If we finish this up in the next 30 minutes, I'll take you out for some ice cream. How about it?
+「１５分で終わらせます♡　二人っきりで、甘いもの♡　お口にあ～ん、なんてしちゃったり♡　うふふ♡」=I can do it within 15♡ Ice cream, just the two of us♡ Feeding each other, with those small little spoons♡ Ufufu♡
+（すごいスピードだ……次からは場所も考えないとな……）=(Such amazing speed... Guess I gotta think over the place we do this at too, next time...)

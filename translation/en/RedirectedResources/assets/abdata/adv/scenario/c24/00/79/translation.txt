@@ -1,5 +1,5 @@
-//「今日はあなたの大好物ばっかりのお弁当を作ってきていたんです」=
-//「わ……本当だ。……え？　もともと俺と食べるために？」=
-//「もともとは、一人あーんごっこをするためです♡　でも今日は二人あーんごっこですね♡　はい、あーん♡」=
-//「もぐっ……」=
-//（美味しい……！）=
+﻿「今日はあなたの大好物ばっかりのお弁当を作ってきていたんです」=I made lunch for you today, packed full of only stuff that you love.
+「わ……本当だ。……え？　もともと俺と食べるために？」=Wah... For real. ...Eh? Were you planning on eating lunch with me today?
+「もともとは、一人あーんごっこをするためです♡　でも今日は二人あーんごっこですね♡　はい、あーん♡」=Well, the original plan was to pretend that we were feeding lunch to each other♡ But today we can feed each other for real♡ Here you go, open up♡
+「もぐっ……」=*Chew*--...
+（美味しい……！）=(It's so good...!)

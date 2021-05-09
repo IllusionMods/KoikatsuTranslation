@@ -1,3 +1,3 @@
-//「満足できましたか？」=
-//「う、うん。でもごめん。こんなところで……」=
-//「いえ、私も満足したので大丈夫です♡　また、いつでもどこでも、私を求めてくださいね♡」=
+﻿「満足できましたか？」=Do you feel satisfied?
+「う、うん。でもごめん。こんなところで……」=Y-Yeah. But, I'm sorry, in a place like this, I...
+「いえ、私も満足したので大丈夫です♡　また、いつでもどこでも、私を求めてくださいね♡」=Don't worry, I felt good doing it too, so it's alright♡ Feel free to lust after me again, wherever and whenever♡

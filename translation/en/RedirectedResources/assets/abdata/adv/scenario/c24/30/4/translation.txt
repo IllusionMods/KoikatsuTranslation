@@ -1,4 +1,4 @@
-
-//「はい、喜んで♡　たしか、今は物理で分からないところがあるんですよね？」=
-//「えっ、そんなことまで……」=
-//「あなたのことは何でも知ってますから♡　頑張って勉強してきたので、教えてあげますね♡」=
+﻿
+「はい、喜んで♡　たしか、今は物理で分からないところがあるんですよね？」=Yes, gladly♡ If I recall correctly, there's a physics problem that's puzzling you at the moment, isn't there?
+「えっ、そんなことまで……」=Eh--, how'd you know that?...
+「あなたのことは何でも知ってますから♡　頑張って勉強してきたので、教えてあげますね♡」=I know everything there is to know about you♡ I did my best and studied it as thoroughly as I could, so I'll teach you♡

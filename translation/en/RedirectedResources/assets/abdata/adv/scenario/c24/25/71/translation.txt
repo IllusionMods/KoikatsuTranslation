@@ -1,5 +1,5 @@
-//「すみません、あそこにいる子も勉強に誘ってもいいですか？」=
-//「えっ……いいけど、どうしたの？」=
-//「ありがとうございます♡　クラスメイトなんですけど、丁度ここがわからないって言ってたんです。誘ってきますね♡」=
-//（付き合う前に比べると、他の子に寛容になったよなぁ……）=
-//（友達も増えてるみたいだし、コイカツ冥利に尽きるってもんだよね）=
+﻿「すみません、あそこにいる子も勉強に誘ってもいいですか？」=I'm sorry, could I invite that girl over there to our study session?
+「えっ……いいけど、どうしたの？」=Eh--... I'm fine with it but, what's up?
+「ありがとうございます♡　クラスメイトなんですけど、丁度ここがわからないって言ってたんです。誘ってきますね♡」=Thank you very much♡ She's my classmate, she was telling me the other day about how she didn't really understand the part we're going over. I'll go invite her♡
+（付き合う前に比べると、他の子に寛容になったよなぁ……）=(Compared to when we just started going out, she's become a lot more tolerant of other girls...)
+（友達も増えてるみたいだし、コイカツ冥利に尽きるってもんだよね）=(Seems like she has a lot more friends now too, looks like the Koikatsu club hasn't been entirely useless.)

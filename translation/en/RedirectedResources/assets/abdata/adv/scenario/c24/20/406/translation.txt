@@ -1,7 +1,7 @@
-//「[H名]、ほら見て、もうこんな時間。時間を忘れちゃうぐらい話し合えるなんて、本当にラブラブカップルだよね」=
-//「ふふ♡　そうですね♡　あなたが私に合わせてそういうことを言ってくれるのが、本当にラブラブカップルだと思います♡　あなたのお陰なんです♡」=
-//「[H名]はいつも俺が喜ぶこととか楽しむようなことをしてくれようとするからね。恩返しみたいなものだよ」=
-//「それなら、私も恩返しで、あなた好みの彼女になります♡　あなたに心の底から愛してもらえるように♡」=
-//「俺も[H名]が想像してる以上に[H名]好みの彼氏にならないとね」=
-//「私が思っている以上に……♡　楽しみにしてますね♡　私、ずっとずっと待ってますから♡　ずっと……♡」=
-//「あはは、そんなに待たせないよ。それじゃ、会計しちゃおっか」=
+﻿「[H名]、ほら見て、もうこんな時間。時間を忘れちゃうぐらい話し合えるなんて、本当にラブラブカップルだよね」=Look, [H名], it's already this late. Chatting so much we forgot about the time, we truly are a lovey-dovey couple, aren't we?
+「ふふ♡　そうですね♡　あなたが私に合わせてそういうことを言ってくれるのが、本当にラブラブカップルだと思います♡　あなたのお陰なんです♡」=Fufu♡ Yes♡ I think what makes us the most lovey-dovey is the fact that you said the sort of thing I usually do♡ It's thanks to you♡
+「[H名]はいつも俺が喜ぶこととか楽しむようなことをしてくれようとするからね。恩返しみたいなものだよ」=You always do stuff trying to make me happy or letting me have a good time, afterall. I just wanted to return the favour.
+「それなら、私も恩返しで、あなた好みの彼女になります♡　あなたに心の底から愛してもらえるように♡」=In that case, I'll return the favour too, and become the sort of girlfriend that's exactly your type♡ That way, you won't be able to help your love for me♡
+「俺も[H名]が想像してる以上に[H名]好みの彼氏にならないとね」=Well, looks like I'll have to up my game, and become a better boyfriend than you can even imagine.
+「私が思っている以上に……♡　楽しみにしてますね♡　私、ずっとずっと待ってますから♡　ずっと……♡」=Better than I could even imagine...♡ I'll look forward to that♡ I'll wait for it as long as it takes♡ As long as it takes...♡
+「あはは、そんなに待たせないよ。それじゃ、会計しちゃおっか」=Ahaha, I won't make you wait that much. Well then, shall we go settle the bill?

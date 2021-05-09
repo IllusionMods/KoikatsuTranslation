@@ -1,4 +1,4 @@
-//（ふぅ……そろそろ降りる準備しとかないと）=
-//（……今日のデート、[H名]に楽しんでもらえたかな？）=
-//（観覧車では、二人きりの空間でゆっくり話せて、より[H名]想いを知れた気がするけど……）=
-//（……この次は、今日よりもっといいデートにしよう！　それでもっと[H名]に喜んでもらおう）=
+﻿（ふぅ……そろそろ降りる準備しとかないと）=(Fuu... Gotta get ready to get off)
+（……今日のデート、[H名]に楽しんでもらえたかな？）=(...I wonder if she enjoyed our date today?)
+（観覧車では、二人きりの空間でゆっくり話せて、より[H名]想いを知れた気がするけど……）=(I feel like I got to know her a lot better, having a nice slow chat on that ferris wheel with her...)
+（……この次は、今日よりもっといいデートにしよう！　それでもっと[H名]に喜んでもらおう）=(...Let's make the next date an even better one! I'll have to make her even happier.)

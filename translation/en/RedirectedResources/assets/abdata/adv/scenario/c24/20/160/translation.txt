@@ -1,7 +1,7 @@
-//「[H名]……可愛かったよ」=
-//「あなたも格好よかったです♡　好きな人に求められるのって幸せですね♡」=
-//「[H名]がどこまでも受け入れてくれるからね……あぁ、風が涼しい。もう少しだけゆっくりしない？」=
-//「はい♡　このまま夜を明かしてもいいですよ♡」=
-//「さすがにそれじゃ風邪引いちゃうよ」=
-//「じゃあ、もう少しだけにします♡　その方が、またここに来たくなりますし♡」=
-//「そうだね。きっとまた来よう」=
+﻿「[H名]……可愛かったよ」=[H名]... you were really cute.
+「あなたも格好よかったです♡　好きな人に求められるのって幸せですね♡」=You were really cool too♡ Being wanted by the person you love feels like pure happiness, doesn't it?♡
+「[H名]がどこまでも受け入れてくれるからね……あぁ、風が涼しい。もう少しだけゆっくりしない？」=It was because you were willing to go however far I wanted to go... Man, this wind's so nice and refreshing. Wanna relax for a bit like this?
+「はい♡　このまま夜を明かしてもいいですよ♡」=Yes♡ We can just spend the night like this too, you know?♡
+「さすがにそれじゃ風邪引いちゃうよ」=We really will end up catching a cold that way.
+「じゃあ、もう少しだけにします♡　その方が、またここに来たくなりますし♡」=Then, just for a bit longer then♡ That way, we'll want to come here again sometime too♡
+「そうだね。きっとまた来よう」=Yeah. Let's come here again for sure.

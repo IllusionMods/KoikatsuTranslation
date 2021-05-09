@@ -1,5 +1,5 @@
-
-//「ごめん、待った？」=
-//「いいえ、私も今来たところです♡　……うふふ♡　一度言ってみたかったんです♡」=
-//「校門で待ち合わせって男女共通のロマンなんだね」=
-//「はい♡　それでは、帰りましょう♡」=
+﻿
+「ごめん、待った？」=Sorry, did I make you wait?
+「いいえ、私も今来たところです♡　……うふふ♡　一度言ってみたかったんです♡」=Not at all, I got here just now myself♡ ...Ufufu♡ I've always wanted to say that once in my life♡
+「校門で待ち合わせって男女共通のロマンなんだね」=Man, meeting up at the back of the school as a couple is what it's all about, isn't it?
+「はい♡　それでは、帰りましょう♡」=Yes♡ Well then, let's go home♡

@@ -1,6 +1,6 @@
-
-//「へえ、色々あるんだね」=
-//「あのお店に入ってみませんか？　あなたの好きなものがたくさんありそうです」=
-//「うん、いいよ」=
-//「うふふ♡　あなたの喜ぶ顔がたくさん見られてとっても幸せでした♡」=
-//（よかった、喜んでもらえたみたいだ）=
+﻿
+「へえ、色々あるんだね」=Heh, there's all sorts, aren't there?
+「あのお店に入ってみませんか？　あなたの好きなものがたくさんありそうです」=Wanna go take a look at that store? I think you'll like what they have to offer.
+「うん、いいよ」=Yeah, alright.
+「うふふ♡　あなたの喜ぶ顔がたくさん見られてとっても幸せでした♡」=Ufufu♡ I'm so happy right now, since I got to see so many of your bright smiles♡
+（よかった、喜んでもらえたみたいだ）=(I'm glad, looks like she enjoyed it)

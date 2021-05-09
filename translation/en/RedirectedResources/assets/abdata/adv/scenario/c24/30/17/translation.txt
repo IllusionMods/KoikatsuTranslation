@@ -1,6 +1,6 @@
-
-「んーっ、よく寝た。……あれ？　メモがある。なになに――」=“Mmm, I slept well. ...Oh? There's a letter. What's it say...?”
-//『[P]さんへ　おはようございます♡　今日は日直の日なので、先に学園に向かいます』=
-//『本当は新婚の奥さんみたいに身の回りのお世話をしたかったんですけど……』=
-//『昨日の今日なので、身支度に時間がかかってしまいました（照　それではまた学園で「愛」ましょう♡』=
-//『P.S.こんな私と付き合ってくれて、いつもありがとうございます♡　[H]』=
+﻿
+「んーっ、よく寝た。……あれ？　メモがある。なになに――」=Mmm, I slept well. ...Oh? There's a note. Let's see----
+『[P]さんへ　おはようございます♡　今日は日直の日なので、先に学園に向かいます』=『To [P]-san, good morning♡ I'm on day duty today, so I'll be heading out first.』
+『本当は新婚の奥さんみたいに身の回りのお世話をしたかったんですけど……』=『Though I honestly really just wanted to clean up around the place and take care of you as if we were newlyweds...』
+『昨日の今日なので、身支度に時間がかかってしまいました（照　それではまた学園で「愛」ましょう♡』=『It took a good while for me to dress up for class, you know? *blush*, well then, let's continue where we left off at school ♡』
+『P.S.こんな私と付き合ってくれて、いつもありがとうございます♡　[H]』=『P.S. Thank you, for going out with me, and loving me even though I'm like this. Thank you for everything♡ [H]』

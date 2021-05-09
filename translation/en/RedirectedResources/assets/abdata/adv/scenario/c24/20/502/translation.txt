@@ -1,3 +1,3 @@
-//「[H名]、おはよう！」=
-//「おはようございます♡　今日は他の女の子からも、学園からも♡　あなたをひとり占めできるので、ワクワクしていました♡　いっぱい楽しみましょうね♡」=
-//「あはは、[H名]らしい言い回しだね。よーし、今日はトコトン独り占めされちゃうぞ！」=
+﻿「[H名]、おはよう！」=Morning, [H名]!
+「おはようございます♡　今日は他の女の子からも、学園からも♡　あなたをひとり占めできるので、ワクワクしていました♡　いっぱい楽しみましょうね♡」=Good morning♡ I was really excited for this♡, since I can have you all to myself for today, whether it be from the other girls or from our classes♡ Let's have lots of fun♡
+「あはは、[H名]らしい言い回しだね。よーし、今日はトコトン独り占めされちゃうぞ！」=Ahaha, that's just like you to say that, [H名]. Alright, you can hog me all to yourself for the whole day today!
