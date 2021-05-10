@@ -1,3 +1,3 @@
-//「うーん、どこも席は空いてなさそうだね。立ちっぱなしになるけど大丈夫？」=
-//「大丈夫です♡　今、あなたが優しくしてくれたお陰で、このまま半日は立っていられそうです♡」=
-//（永遠とかじゃなく半日ってのがリアルだ……[H名]の場合本当に立ってられそうな気がする）=
+﻿「うーん、どこも席は空いてなさそうだね。立ちっぱなしになるけど大丈夫？」=Mmmm, doesn't seem like there's any free seats here. Are you sure you're fine with standing the whole way?
+「大丈夫です♡　今、あなたが優しくしてくれたお陰で、このまま半日は立っていられそうです♡」=Yes, I'm fine♡ I'm so charged up from how sweet you were just then, that I could stay standing for half a day if I had to♡
+（永遠とかじゃなく半日ってのがリアルだ……[H名]の場合本当に立ってられそうな気がする）=(Not eternity, but a more realistic half a day... I really could see her just staying stood up for half a day too.)

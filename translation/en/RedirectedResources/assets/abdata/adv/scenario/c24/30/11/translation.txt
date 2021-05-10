@@ -1,7 +1,7 @@
-
-//「……ごめんなさい。もう私、あなたとは付き合えません……」=
-//「え……」=
-//「私……今朝……最近あなたと仲良くしてるあの子のこと、殺したいって……」=
-//「グチャグチャにすりつぶしてやりたいって思っちゃいました！　もう私、自分が抑えきれません……♡」=
-//「だ、大丈夫だよ。落ち着いて……」=
-//「もう、無理です。このままじゃ私、あなたのことまで……だから……だから……さよならっ！」=
+﻿
+「……ごめんなさい。もう私、あなたとは付き合えません……」=...I'm sorry. I can't go out with you anymore...
+「え……」=Wha...
+「私……今朝……最近あなたと仲良くしてるあの子のこと、殺したいって……」=This morning... I... felt the urge to kill the girl you've recently been getting along with...
+「グチャグチャにすりつぶしてやりたいって思っちゃいました！　もう私、自分が抑えきれません……♡」=I really wanted to grind her into a bloody pulp! I can't control myself anymore...♡
+「だ、大丈夫だよ。落ち着いて……」=I-It's alright. Calm down...
+「もう、無理です。このままじゃ私、あなたのことまで……だから……だから……さよならっ！」=That's impossible. At this rate, I might even do something to you... that's why... that's why... goodbye--!

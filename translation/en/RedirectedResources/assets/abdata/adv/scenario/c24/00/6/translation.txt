@@ -1,3 +1,3 @@
-//「はい、どこにでも連れていってください♡」=
-//「時間大丈夫？」=
-//「大丈夫じゃなくても付いていきます♡　あなたと私は一心同体ですから♡」=
+﻿「はい、どこにでも連れていってください♡」=Yes, take me wherever you want♡
+「時間大丈夫？」=You alright on time?
+「大丈夫じゃなくても付いていきます♡　あなたと私は一心同体ですから♡」=Even if I wasn't, I'd still go with you♡ We're one, in body and spirit, afterall♡

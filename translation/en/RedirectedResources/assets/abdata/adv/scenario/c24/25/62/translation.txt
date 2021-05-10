@@ -1,12 +1,12 @@
-………………=.........
+﻿………………=.........
 …………=......
 ……=...
-//「本当はまだ一緒にいたいんですけど、あまり遅くまでいても迷惑ですよね？」=
-//「そんなことないよ。[H]さえよければ、家に来ない？」=
-//「あ……はい♡　それでは、私たちの愛の巣に行きましょう♡　なんて、付き合う前の私なら言ってそうですよね♡」=
-//「あははっ、すごく言ってそう！」=
-//「家族も心配しちゃうよ。また誘うから」=
-//「気を遣ってくれてありがとうございます♡　では、また学園で会いましょうね♡」=
+「本当はまだ一緒にいたいんですけど、あまり遅くまでいても迷惑ですよね？」=I'd honestly love to spend some more time with you, but if I held you up any longer, I'd just be a bother, wouldn't I?
+「そんなことないよ。[H]さえよければ、家に来ない？」=That's not true at all. If you'd like, wanna come to my place?
+「あ……はい♡　それでは、私たちの愛の巣に行きましょう♡　なんて、付き合う前の私なら言ってそうですよね♡」=Ah... yes♡ Well then, let's go to our lovenest♡ Heh, that sounds like something the me from before we started going out together would have said♡
+「あははっ、すごく言ってそう！」=Ahaha--, for real!
+「家族も心配しちゃうよ。また誘うから」=Your family's gonna get worried. I'll ask you out again, don't worry.
+「気を遣ってくれてありがとうございます♡　では、また学園で会いましょうね♡」=Thank you for always looking out for me♡ Well then, let's see each other at school later♡
 
-//CHOICE:「そんなことないよ」=
-//CHOICE:「家族も心配しちゃうよ」=
+CHOICE:「そんなことないよ」=That's not true at all.
+CHOICE:「家族も心配しちゃうよ」=Your family's gonna get worried.

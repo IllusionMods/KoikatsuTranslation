@@ -1,4 +1,4 @@
-
-「おはようございます♡　よかったら教室まで一緒に行きませんか？」=“Good morning♡　Would you like to go to the classroom together?”
-「もちろん！　そういえば、初めて会った頃はずっと眠そうだったけど、今はそんなことないよね」=“Of course! Thinking about it, when we first met you were always sleepy, but now you look fine!”
-「もともと夜更かしでしたから……でも、少しでもあなたと同じ時間を過ごしたいと思ってからは、自然と規則正しくなりました♡」=“I used to say up late... however, when I think about spending more time with you, I sleep more regularly now♡”
+﻿
+「おはようございます♡　よかったら教室まで一緒に行きませんか？」=Good morning♡ Shall we walk to the classroom together?
+「もちろん！　そういえば、初めて会った頃はずっと眠そうだったけど、今はそんなことないよね」=Of course! Come to think of it, when we first met, you always looked so sleepy, but nowadays you seem fine.
+「もともと夜更かしでしたから……でも、少しでもあなたと同じ時間を過ごしたいと思ってからは、自然と規則正しくなりました♡」=I used to stay up all night afterall... but, when I started wanting to spend even a bit more of my time together with you, my sleep schedule automatically fixed itself♡

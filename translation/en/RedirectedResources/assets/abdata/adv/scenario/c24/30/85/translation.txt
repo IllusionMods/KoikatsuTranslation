@@ -1,6 +1,6 @@
-
-//「うふふ♡　ようやく二人っきりになれましたね♡　ナニをします？　あなたがしたいこと、全部していいんですよ♡」=
-//「す、ストップ！　あまりストレートすぎても、男が引いちゃったりするから注意だよ」=
-//「はわ……ごめんなさいっ、あなたのことが好きすぎて……でも、そうですよね、直しますから嫌いにならないでくださいっ」=
-//「うん、大丈夫だよ。わかってくれたなら平気だから」=
-//（理性的にはかなりやばかったけどね……！）=
+﻿
+「うふふ♡　ようやく二人っきりになれましたね♡　ナニをします？　あなたがしたいこと、全部していいんですよ♡」=Ufufu♡ Finally some alone time with you♡ What would you like to do? I'm fine with anything that you want to do♡
+「す、ストップ！　あまりストレートすぎても、男が引いちゃったりするから注意だよ」=S-Stop right there! If you throw too much of a straight ball like that, some guys might get turned off, so be careful.
+「はわ……ごめんなさいっ、あなたのことが好きすぎて……でも、そうですよね、直しますから嫌いにならないでくださいっ」=Hawah--... I'm sorry--, I just love you so much... But, you're right, I'll change so, please don't come to hate me--
+「うん、大丈夫だよ。わかってくれたなら平気だから」=Yeah, it's alright. It's perfectly fine, as long as you understand.
+（理性的にはかなりやばかったけどね……！）=(I almost felt my rationality slip there...!)

@@ -1,14 +1,14 @@
-//「色々ありましたけど、遊園地ってとっても楽しいですね♡」=
-//（本当に楽しんでそうだけど、色々って言葉が引っ掛かるな。たしかに、だいぶ気を遣ったみたいだからな……）=
-//「[H名]、よかったら観覧車に乗らない？　もう少ししたら、綺麗な夜景が見える時間になりそうだし」=
-//「はい♡　あなたと二人っきりになれる場所なら、どこだって行きます♡　観覧車で素敵な二人旅行をしましょう♡」=
-//「二人旅行、いいね。じゃあ、行こうか」=
-//「ゆっくりと流れる時間を二人で楽しみましょう♡」=
-//「うん、とっても楽しかったね。でも、ちょっと遊びすぎて疲れちゃったから、今日は早めに帰ろうか」=
-//「あ……すみません、私のせいで疲れさせてしまいましたか？」=
-//「[H名]のせいというか、[H名]のおかげで疲れるまで遊ぶことが出来たんだよ。ありがとう」=
-//「私のおかげ……♡　ふふ♡　それなら嬉しいです♡　あなたに喜んでもらえることが何よりなので、元気がでちゃいました♡」=
-//（やっぱり、[H名]疲れてたんだな。早く帰って、明日また元気な[H名]を見せてもらおう）=
+﻿「色々ありましたけど、遊園地ってとっても楽しいですね♡」=A lot of stuff happened but, amusement parks are really fun, no?♡
+（本当に楽しんでそうだけど、色々って言葉が引っ掛かるな。たしかに、だいぶ気を遣ったみたいだからな……）="(Yeah, it really has been a ton of fun but, that stuff" is the problem. We really had to avoid quite a few landmines there...)""
+「[H名]、よかったら観覧車に乗らない？　もう少ししたら、綺麗な夜景が見える時間になりそうだし」=[H名], wanna ride the ferris wheel? The stars are gonna come out in just a little bit, I think we'll catch quite the view.
+「はい♡　あなたと二人っきりになれる場所なら、どこだって行きます♡　観覧車で素敵な二人旅行をしましょう♡」=Yes♡ If it's somewhere we can be alone together, I'm willing to go anywhere♡ Let's have a lovely trip on the ferris wheel♡
+「二人旅行、いいね。じゃあ、行こうか」=A trip, huh? Sounds nice. Well then, let's go.
+「ゆっくりと流れる時間を二人で楽しみましょう♡」=Let's savour each other's company slowly♡
+「うん、とっても楽しかったね。でも、ちょっと遊びすぎて疲れちゃったから、今日は早めに帰ろうか」=Yeah, it was a lot of fun. But, I'm a bit tired out from all that fun so, let's go home early today.
+「あ……すみません、私のせいで疲れさせてしまいましたか？」=Ah... I'm sorry, was it my fault? Did I make you too tired out?
+「[H名]のせいというか、[H名]のおかげで疲れるまで遊ぶことが出来たんだよ。ありがとう」=Rather than your fault, it was thanks to you that I was able to have fun until I got tired out. Thanks.
+「私のおかげ……♡　ふふ♡　それなら嬉しいです♡　あなたに喜んでもらえることが何よりなので、元気がでちゃいました♡」=Thanks to me...♡ Fufu, in that case, I'm glad♡ Nothing is more important to me than your happiness, so I feel a lot less tired now too♡
+（やっぱり、[H名]疲れてたんだな。早く帰って、明日また元気な[H名]を見せてもらおう）=(So she really was tired. Let's go home quickly today, so that I can see her being lively again tomorrow)
 
-//CHOICE:『観覧車に誘う』=
-//CHOICE:『早めに帰る』=
+CHOICE:『観覧車に誘う』=『Invite her onto the ferris wheel』
+CHOICE:『早めに帰る』=『Go home early』

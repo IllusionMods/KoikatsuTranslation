@@ -1,2 +1,2 @@
-//「こんにちは。今日調理実習でクッキーを作ったんです。よかったら食べてもらいたくて……」=
-//「くんくん……よかった、他の子のクッキーをまだ食べてないんですね。私が一番乗りです♡」=
+﻿「こんにちは。今日調理実習でクッキーを作ったんです。よかったら食べてもらいたくて……」=Hello. I made cookies during home-ec today. I'd love it if you tried some...
+「くんくん……よかった、他の子のクッキーをまだ食べてないんですね。私が一番乗りです♡」=*Sniff-sniff*... I'm glad, seems like you haven't tried any of the other girls' cookies yet. I'm the first one here♡

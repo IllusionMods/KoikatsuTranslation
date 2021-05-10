@@ -1,5 +1,5 @@
-//「あなたの体操着姿、素敵です♡　写メ撮ってもいいですか？」=
-//「い、いいよ？」=
-//「ありがとうございます♡　何もポーズ取ってないのに格好いいです♡　好きです♡　誰にも渡したくありません♡」=
-//「あはは、ありがと……」=
-//（運動してないけど、楽しそうだからいいか……）=
+﻿「あなたの体操着姿、素敵です♡　写メ撮ってもいいですか？」=You look so handsome in that track suit♡ Would you mind if I took a picture?
+「い、いいよ？」=G-Go ahead.
+「ありがとうございます♡　何もポーズ取ってないのに格好いいです♡　好きです♡　誰にも渡したくありません♡」=Thank you very much♡ You look so cool even without taking any sort of pose♡ I love you♡ I don't want to let you go, ever♡
+「あはは、ありがと……」=Ahaha, thanks...
+（運動してないけど、楽しそうだからいいか……）=(We're not really exercising but, well I guess it's fine since she's having fun...)

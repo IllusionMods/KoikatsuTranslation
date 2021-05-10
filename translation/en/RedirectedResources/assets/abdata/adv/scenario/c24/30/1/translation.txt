@@ -1,7 +1,7 @@
-
-//「あ、今ちょっといいかな」=
-//「！！　……はい。お話……ですよね？　コイカツ部の……」=
-//「あ、噂で聞いてたかな？」=
-//「そうですね……情報収集の八割は噂話です……」=
-//（情報収集……？）=
-//「えっと、よろしくね。じゃあ……」=
+﻿
+「あ、今ちょっといいかな」=Ah, do you have a moment?
+「！！　……はい。お話……ですよね？　コイカツ部の……」=!! ... Yes. You want to... chat, right? About the Koikatsu club...
+「あ、噂で聞いてたかな？」=Oh, did you hear about me from the others?
+「そうですね……情報収集の八割は噂話です……」=I suppose so... Rumours do make up 80% of all information gathering, afterall...
+（情報収集……？）=(Information gathering...?)
+「えっと、よろしくね。じゃあ……」=Erhm, anyhow, well met. So then...

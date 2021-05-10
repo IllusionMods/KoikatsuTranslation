@@ -1,8 +1,8 @@
-
-//「私がコイカツ部に……いいんですか？」=
-//「うん……是非一緒に活動したいと思ってさ」=
-//「とっても嬉しいんですけど……他の子とも一緒に活動するんですよね？」=
-//「あっ！　たまにそういう時があるけど、基本は二人きりだよ」=
-//「というか、きみとは二人きりの方がいいと思ってるから、安心して」=
-//「うふふ♡　私って大切にされていますね♡　色んな恋の活動、しちゃいましょうね♡」=
-//「う、うん。よろしくね」=
+﻿
+「私がコイカツ部に……いいんですか？」=Me, in the Koikatsu club... are you sure?
+「うん……是非一緒に活動したいと思ってさ」=Yeah... I just really wanna do the club activities with you.
+「とっても嬉しいんですけど……他の子とも一緒に活動するんですよね？」=That makes me happier than you realize but... other girls will be joining in too, won't they?
+「あっ！　たまにそういう時があるけど、基本は二人きりだよ」=Ah--! There might be times like that every so often but, it'll usually just be the two of us.
+「というか、きみとは二人きりの方がいいと思ってるから、安心して」=If anything, I think it'd be best if it was just the two of us when we do them together, so don't worry.
+「うふふ♡　私って大切にされていますね♡　色んな恋の活動、しちゃいましょうね♡」=Ufufu♡ You cherish me so much♡ Let's do all sorts of love activities together, okay?♡
+「う、うん。よろしくね」=Y-Yeah. Take care of me.

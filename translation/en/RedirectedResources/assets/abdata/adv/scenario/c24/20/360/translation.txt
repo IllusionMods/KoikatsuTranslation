@@ -1,6 +1,6 @@
-//「カラオケで愛してもらって、嬉しいです♡　これからも、いつでも♡　どこでも♡　あなたの愛を受け入れますから、遠慮なんて絶対にしないでくださいね♡」=
-//「ありがとう。[H名]になら安心して自分を解放できるよ」=
-//「あなたが優しい人だということは私が誰よりもわかっています♡　だから、男の人特有の暴力性とか、冷たさも見せていいですからね♡　きっとゾクゾクします♡」=
-//「暴力と冷たさかぁ。たしかに、普段、抑えてるものかも」=
-//「学園では女の子たちに囲まれて気苦労も多いでしょうから、いつでも私でストレス発散してください♡　いつでも♡　どこでも♡　カラオケでも♡」=
-//（[H名]と付き合い続けたら、Ｓっぽい性癖が進化して大変なことになりそうだな……）=
+﻿「カラオケで愛してもらって、嬉しいです♡　これからも、いつでも♡　どこでも♡　あなたの愛を受け入れますから、遠慮なんて絶対にしないでくださいね♡」=It made me really happy, to feel your love while at Karaoke♡ In the future too, I'll be ready to accept your love anywhere♡ at any time♡ so please don't do something like holding back, okay?♡
+「ありがとう。[H名]になら安心して自分を解放できるよ」=Thanks. I can really let myself go, when I'm with you, [H名].
+「あなたが優しい人だということは私が誰よりもわかっています♡　だから、男の人特有の暴力性とか、冷たさも見せていいですからね♡　きっとゾクゾクします♡」=I know better than anyone else just how gentle a person you are♡ That's why, feel free to show me your violent and cold side as well, if you want to♡ I'm sure it'll be really exciting♡
+「暴力と冷たさかぁ。たしかに、普段、抑えてるものかも」=Violent and cold side, huh? For sure, normally, I'm probably keeping that sort of thing in check.
+「学園では女の子たちに囲まれて気苦労も多いでしょうから、いつでも私でストレス発散してください♡　いつでも♡　どこでも♡　カラオケでも♡」=I'm sure you get burnt off being constantly surrounded by girls on all sides at the school too so, use me for stress relief whenever you want to♡ Whenever♡ Wherever♡ Even at Karaoke if you want to♡
+（[H名]と付き合い続けたら、Ｓっぽい性癖が進化して大変なことになりそうだな……）=(I feel like if I keep going out with [H名], I'm going to get more and more sadistic over time...)
