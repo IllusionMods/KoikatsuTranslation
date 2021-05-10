@@ -1,2 +1,2 @@
-//「おーっす！　今日は特別に手料理を食べさせてやるぞ！　ほらこれ！」=
-//「嫌いなものとか、無いよな？　も、もしあっても食え！」=
+﻿「おーっす！　今日は特別に手料理を食べさせてやるぞ！　ほらこれ！」=Sup! I'll have you eat some of my handmade stuff today! Here, look!
+「嫌いなものとか、無いよな？　も、もしあっても食え！」=It's not something you hate, right? E-Even if it is, just pinch your nose and gulp it down!

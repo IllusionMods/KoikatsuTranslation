@@ -1,4 +1,4 @@
-//「ふー、なんとかバレずにすんだな」=
-//「あんなに混んでるとこで……気づかれるかと思ったじゃねぇか！」=
-//「ごめんごめん。[H名]の体があまりにも魅力的だったからさ」=
-//「そ、そうなのか？　……って、私のせいにするなー！」=
+﻿「ふー、なんとかバレずにすんだな」=Fuu, we managed to make it out scot free, somehow.
+「あんなに混んでるとこで……気づかれるかと思ったじゃねぇか！」=In such a crowded place too... I thought we'd get caught red handed for sure!
+「ごめんごめん。[H名]の体があまりにも魅力的だったからさ」=Sorry, sorry. Your body was just way too bewitching, [H名].
+「そ、そうなのか？　……って、私のせいにするなー！」=T-That so? ...Wait, don't make it my fault!

@@ -1,4 +1,4 @@
-
-//「いいぞ。でもどこに行くんだ？」=
-//「ちょっと二人になりたいんだ」=
-//「なんだよ改まって。相談事ならいつでも聞くぞ」=
+﻿
+「いいぞ。でもどこに行くんだ？」=Sure. But where are we going?
+「ちょっと二人になりたいんだ」=Somewhere we can be alone together.
+「なんだよ改まって。相談事ならいつでも聞くぞ」=No need to stand on ceremony with me, you know? If you need to ask me something, I'm always all ears.

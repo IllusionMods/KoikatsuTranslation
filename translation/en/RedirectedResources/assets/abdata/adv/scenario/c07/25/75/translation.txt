@@ -1,4 +1,4 @@
-//「どうした？　顔がその……とろけてるぞ？」=
-//「私さ、走ってると途中で、頭がボヤっとしてくるんだ」=
-//「ランナーズハイって、やつか？」=
-//「うん。これってスッゴイ、気持ちいいんだぞ？　お前もしようぜ？　ハァ、ハァ」=
+﻿「どうした？　顔がその……とろけてるぞ？」=What's up? You look kinda... spaced out.
+「私さ、走ってると途中で、頭がボヤっとしてくるんだ」=My head kinda goes blank, whenever I've been running for a while.
+「ランナーズハイって、やつか？」="Is it the so called Runner's High?"""
+「うん。これってスッゴイ、気持ちいいんだぞ？　お前もしようぜ？　ハァ、ハァ」=Yah. It feels amazingly good, you know? You ought to try it too. Haa, haa.

@@ -1,8 +1,8 @@
-//「あはは。お前って面白い奴なんだな！」=
-//「俺もきみとは、なんかこう気楽に話せる感じがするよ」=
-//「む、それって私を女として見てないってことじゃないか？」=
-//「い、いや、そんなことは……」=
-//「……なーんてね。実は私もさー、女子から浮いてるというか、その……」=
-//「きみの場合は浮いてるってより、憧れの対象って感じだよ」=
-//「あっ、憧れぇ～？　やめろよ、ちょっと……って、確かにそうかも……な」=
-//「とにかくまあ、これからは気楽に声かけさせてもらうよ！　うん」=
+﻿「あはは。お前って面白い奴なんだな！」=Ahaha. You sure are an interesting guy!
+「俺もきみとは、なんかこう気楽に話せる感じがするよ」=Thanks. I feel like I can loosen up around you too.
+「む、それって私を女として見てないってことじゃないか？」=Mmph, doesn't that mean you don't see me as a woman?
+「い、いや、そんなことは……」=N-No, that's not what I--...
+「……なーんてね。実は私もさー、女子から浮いてるというか、その……」=...Kidding. Honestly, me too. I don't really feel like I really gel with the girls myself...
+「きみの場合は浮いてるってより、憧れの対象って感じだよ」=In your case, I think it's less about not gelling with them and more that they all just look up to you.
+「あっ、憧れぇ～？　やめろよ、ちょっと……って、確かにそうかも……な」=Ah--, look up to me~? Come off it with that stuff... no, maybe that really might be the case... maybe.
+「とにかくまあ、これからは気楽に声かけさせてもらうよ！　うん」=In any case, feel free to call out to me for a chat anytime! Yeah.

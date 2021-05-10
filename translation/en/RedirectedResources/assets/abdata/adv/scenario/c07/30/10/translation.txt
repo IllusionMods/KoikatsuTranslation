@@ -1,8 +1,8 @@
-
-//「うーん……正直興味はあるんだけどさ、私が力になれる事なのか？」=
-//「もちろん！」=
-//「そうか！　じゃあ、私も参加させてもらおう！」=
-//「ありがとう！」=
-//「き、気にするなよ、私とお前の仲だろ！　……で、コイカツ部って具体的に何をするんだ？」=
-//「そうだね……とりあえずは、今までと同じように俺と話をしてくれると嬉しいかな」=
-//「んんぅ？　会話するだけ？　部活なのにか？　んー、よく分からんけど……ま、よろしく頼むよ、部長！」=
+﻿
+「うーん……正直興味はあるんだけどさ、私が力になれる事なのか？」=Well... honestly, I am a bit interested but, could I really be useful to you?
+「もちろん！」=Of course!
+「そうか！　じゃあ、私も参加させてもらおう！」=I see! Then, I guess I'll join in!
+「ありがとう！」=Thanks!
+「き、気にするなよ、私とお前の仲だろ！　……で、コイカツ部って具体的に何をするんだ？」=D-Don't worry about it, we're chums, aren't we? ...So, what exactly do you get up to, in the koikatsu club?
+「そうだね……とりあえずは、今までと同じように俺と話をしてくれると嬉しいかな」=Good question... Well, for now, It'll be good enough if we just chatted like we have so far.
+「んんぅ？　会話するだけ？　部活なのにか？　んー、よく分からんけど……ま、よろしく頼むよ、部長！」=Hmm? Just chat? And that's supposed to be your club activities? Nn, I don't really get it but... well, I'll leave it to you, chief!

@@ -1,4 +1,4 @@
-「んーっ、よく寝た。……あれ？　メモがある。なになに――」=“Mmm, I slept well. ...Oh? There's a letter. What's it say...?”
-//『おはよう！　よく眠れたか？　今日は先にでるぞ』=
-//『昨晩は[P]、なんか凄かったよな。私もなんかこう、負けてられない』=
-//『今度は一緒に出ようぜ！　すき。だよ』=
+﻿「んーっ、よく寝た。……あれ？　メモがある。なになに――」=Mmm, I slept well. ...Oh? There's a letter. Let's see--
+『おはよう！　よく眠れたか？　今日は先にでるぞ』=Morning! Slept well? I gotta leave early today.
+『昨晩は[P]、なんか凄かったよな。私もなんかこう、負けてられない』=You were kinda amazing last night, [P]. No way in hell I'm losing though.
+『今度は一緒に出ようぜ！　すき。だよ』=Let's head out together next time! Love. From me.

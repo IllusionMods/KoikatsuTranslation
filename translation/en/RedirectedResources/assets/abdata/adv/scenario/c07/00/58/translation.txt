@@ -1,5 +1,5 @@
-//「ほら、見てみろよ。あっちにもカップルがいるぞ。あっ……腕、組んでる……いいなぁ」=
-//「ほら、見てないで俺たちも行こう。……腕、組むか？」=
-//「……手なら、いいぞ」=
-//「さっきから大人しいけど、具合でもわるい？」=
-//「ち、ちがう！　お前って、見かけより手が硬い。やっぱ男子だよなあ……って」=
+﻿「ほら、見てみろよ。あっちにもカップルがいるぞ。あっ……腕、組んでる……いいなぁ」=Hey, look at this. There's a couple over there too. Ah--... they're walking arm in arm... must be nice.
+「ほら、見てないで俺たちも行こう。……腕、組むか？」=Don't stand and watch, we should go too. ...Wanna link arms?
+「……手なら、いいぞ」=...I don't mind holding hands.
+「さっきから大人しいけど、具合でもわるい？」=You've been pretty quiet for a while now, you feel alright?
+「ち、ちがう！　お前って、見かけより手が硬い。やっぱ男子だよなあ……って」=T-That's not it! Your hand, it's much more solid than it looks. It's so manly... wuh, ignore that.

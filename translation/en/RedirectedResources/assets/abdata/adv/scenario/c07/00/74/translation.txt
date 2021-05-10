@@ -1,5 +1,5 @@
-//「じゃ、先にやるぞ。……はっ！　と」=
-//「凄っ！　めっちゃ高く飛んでたよ」=
-//「いやぁ～、昔からこういうのは得意でさ」=
-//「どんなスポーツでも、どんとこいって感じだな」=
-//「ハハ！　そんなこと……あるかもな！　よしっ、次はお前の番だぜ」=
+﻿「じゃ、先にやるぞ。……はっ！　と」=Then, I'll go first. ...Hah--! There.
+「凄っ！　めっちゃ高く飛んでたよ」=Amazing--! That flew real far.
+「いやぁ～、昔からこういうのは得意でさ」=Heh~, I've always been good at this sort of stuff.
+「どんなスポーツでも、どんとこいって感じだな」=Feels like you could take on just about any sport head on.
+「ハハ！　そんなこと……あるかもな！　よしっ、次はお前の番だぜ」=Haha! Even I'm not... no, that might not be off the mark! Alright--, you're up next.

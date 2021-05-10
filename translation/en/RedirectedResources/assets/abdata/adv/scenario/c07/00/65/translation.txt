@@ -1,3 +1,3 @@
-//「せっかくだし、少し寄り道していかない？」=
-//「ああ、別に構わないぜ」=
-//「街の方にでもいくか？　あそこなら大体何でもあるしな」=
+﻿「せっかくだし、少し寄り道していかない？」=Since we're doing this anyway, wanna take the scenic route?
+「ああ、別に構わないぜ」=Yeah, I don't really mind.
+「街の方にでもいくか？　あそこなら大体何でもあるしな」=Wanna hit up downtown? There should be all sorts of places there.

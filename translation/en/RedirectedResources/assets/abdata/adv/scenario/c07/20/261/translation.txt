@@ -1,4 +1,4 @@
-//「ふぅ……びっくりしたよ、[H名]からシてくるなんて」=
-//「む、いいだろ別に。[P名]の匂いをかぐと、なんか……我慢できなくなるんだよ」=
-//「そうなの？　じゃあもう一回かいでみる？」=
-//「やめろっ！　またシたくなるだろーが！」=
+﻿「ふぅ……びっくりしたよ、[H名]からシてくるなんて」=Fuu... That really caught me off guard, to think you'd make the move.
+「む、いいだろ別に。[P名]の匂いをかぐと、なんか……我慢できなくなるんだよ」=Muh, who cares in the end. When I smell your scent, I just can't... I can't control myself.
+「そうなの？　じゃあもう一回かいでみる？」=Is that so? Then, wanna take another sniff?
+「やめろっ！　またシたくなるだろーが！」=Stop it--! You'll put me in the mood again!

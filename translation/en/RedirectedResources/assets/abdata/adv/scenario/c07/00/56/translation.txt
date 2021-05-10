@@ -1,5 +1,5 @@
-//「え？！　私なんかしちゃった？！　嫌われることした？！」=
-//「いや……そうじゃないんだ。しばらく距離を置こうというか……」=
-//「な、なんで。もっといっぱい恋したいのに……いやだよ」=
-//「ごめん、[H]」=
-//「胸が痛いよ。これが失恋ってやつなのかな……ハハ……」=
+﻿「え？！　私なんかしちゃった？！　嫌われることした？！」=Eh!? Did I do something wrong!? Did I do something you hate?!
+「いや……そうじゃないんだ。しばらく距離を置こうというか……」=No... That's not it. I just think we should maintain our distance for a bit...
+「な、なんで。もっといっぱい恋したいのに……いやだよ」=W-Why? I want to love you so much more... I don't want this.
+「ごめん、[H]」=Sorry, [H].
+「胸が痛いよ。これが失恋ってやつなのかな……ハハ……」=My chest hurts. Is this what it feels like, to have your heart broken... haha...

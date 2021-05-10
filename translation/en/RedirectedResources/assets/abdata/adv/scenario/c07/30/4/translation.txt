@@ -1,6 +1,6 @@
-
-//「勉強……一緒に勉強かぁ！　こういうのって良いよな～！」=
-//「お互いに得意科目を補えるからね」=
-//「そ、そうだな……！　ね、念のために言っておくけど、変なことはするなよな？」=
-//「変なことってなんだよ？」=
-//「し、知らない！　ほら……勉強するぞ、勉強！」=
+﻿
+「勉強……一緒に勉強かぁ！　こういうのって良いよな～！」=Studying... studying together, huh! Sounds nice~!
+「お互いに得意科目を補えるからね」=We can cover for each other's weak points, and all.
+「そ、そうだな……！　ね、念のために言っておくけど、変なことはするなよな？」=Y-Yeah...! Hey, I'll say this just in case but uh, don't pull any weird stuff, aight?
+「変なことってなんだよ？」=What do you mean by weird stuff?
+「し、知らない！　ほら……勉強するぞ、勉強！」=D-Don't ask me! Come on... we're studying, studying!

@@ -1,6 +1,6 @@
-//「[H名]……」=
-//「……うぅうん……ダ、ダメだって、今日は汗かいたから」=
-//「な、シャワー浴びてからにしようぜ……？」=
-//「もう我慢できないんだ……！」=
-//「[P名]はほんとにスケベだな……くさくても知らないぞ」=
-//「くさいわけないよ……[H名]の匂い、最高だよ……」=
+﻿「[H名]……」=[H名]...
+「……うぅうん……ダ、ダメだって、今日は汗かいたから」=...Mmmmm... D-Don't, I got really sweaty today.
+「な、シャワー浴びてからにしようぜ……？」=Hey, how about we take a shower first...?
+「もう我慢できないんだ……！」=I can't hold back anymore...!
+「[P名]はほんとにスケベだな……くさくても知らないぞ」=You really are such a perv, [P名]... Don't bitch at me later if I stink.
+「くさいわけないよ……[H名]の匂い、最高だよ……」=You don't stink... Your scent, [H名], it's the best...

@@ -1,6 +1,6 @@
-//「な、なんだこりゃ！　すげえな！　ラブホって、なんつうか……こんな感じかよ！」=
-//「こんな感じって？」=
-//「なんか……雰囲気がエッチというか……」=
-//「そりゃ、ラブホだからね。そのために来たわけだし……」=
-//「[H名]……そろそろ、いいか？」=
-//「ああ……いいぜ」=
+﻿「な、なんだこりゃ！　すげえな！　ラブホって、なんつうか……こんな感じかよ！」=W-What the heck! This is amazing! How do I say this, love hotels... so they're like this, huh!
+「こんな感じって？」="Like this?"""
+「なんか……雰囲気がエッチというか……」=It's like... the mood's kinda lewd and stuff...
+「そりゃ、ラブホだからね。そのために来たわけだし……」=Well, of course, it's a love hotel afterall. We came here to do that sort of thing, afterall...
+「[H名]……そろそろ、いいか？」=[H名]... Can we get to it right away?
+「ああ……いいぜ」=Yeah... sure.

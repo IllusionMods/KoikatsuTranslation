@@ -1,4 +1,4 @@
-
-//「ん？　ああいいよ。デートだろ？　そんぐらいオッケー……って、デートぉ？！　あのデートをしたいのか！？　わ、私と！」=
-//「ああ。こういうのは正式に申し込みたかったからさ」=
-//「もちろん良いよ！　私とお前の仲だもんな！　あはは！」=
+﻿
+「ん？　ああいいよ。デートだろ？　そんぐらいオッケー……って、デートぉ？！　あのデートをしたいのか！？　わ、私と！」="Hm? Ah, sure. Just a date, right? I don't mind, yeah... wait, a date--?! You mean a date date!? W-With me?!"""
+「ああ。こういうのは正式に申し込みたかったからさ」=Yeah. I wanted to do atleast this seriously.
+「もちろん良いよ！　私とお前の仲だもんな！　あはは！」=Of course I'm all for it! We're chums, afterall! Ahaha!

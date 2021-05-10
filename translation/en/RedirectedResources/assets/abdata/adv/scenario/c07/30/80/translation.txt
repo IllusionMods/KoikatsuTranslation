@@ -1,6 +1,6 @@
-
-//「こうやって机を並べて食べるのって、その、アレみたいだよな」=
-//「んー？　ワイワイやって楽しいよな」=
-//「じゃなくて！　アレ！　男女が向かい合って食事してるんだから、その」=
-//「あー！　給食！」=
-//「ど、どうした？　プルプル震えだして……」=
+﻿
+「こうやって机を並べて食べるのって、その、アレみたいだよな」=Lining up our desks and eating lunch together like this, it has that sort of feeling to it, don't you think?
+「んー？　ワイワイやって楽しいよな」=Hm? Yeah, it's pretty fun.
+「じゃなくて！　アレ！　男女が向かい合って食事してるんだから、その」=That's not what I mean! You know, 'that'! Two people, eating lunch together, facing each other, you know, that sort of thing.
+「あー！　給食！」=Ah! Like a school meal service!
+「ど、どうした？　プルプル震えだして……」=W-What's the matter? Those eyes are pretty scary, you know...

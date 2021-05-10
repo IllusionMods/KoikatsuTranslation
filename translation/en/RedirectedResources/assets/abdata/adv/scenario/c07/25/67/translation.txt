@@ -1,4 +1,4 @@
-//「ところで、手……つながないか？」=
-//「どうした？　あらたまって……いいよ。ほら貸して」=
-//「は、肌が触れ合うって感じ、良いよな……」=
-//「ああ。[H]の熱が伝わってくるよ」=
+﻿「ところで、手……つながないか？」=By the way, wanna... hold hands?
+「どうした？　あらたまって……いいよ。ほら貸して」=What's the matter, being all formal and stuff... But sure. Come on, give it here.
+「は、肌が触れ合うって感じ、良いよな……」=F-Feels pretty nice, to touch each other's skin like this, doesn't it...
+「ああ。[H]の熱が伝わってくるよ」=Yeah. I can feel your warmth, [H].

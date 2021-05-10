@@ -1,3 +1,3 @@
-//「あっ、ちょっといいか？　今日は料理を作ったんだ……お前のために」=
-//「えと、見た目はちょっとあれかもしれないけど、味は悪くないと思うんだ、うん」=
-//「だから、その……美味しく食べてくれると嬉しい……そ、それじゃあ！」=
+﻿「あっ、ちょっといいか？　今日は料理を作ったんだ……お前のために」=Ah--, got a moment? I made something to eat... for you.
+「えと、見た目はちょっとあれかもしれないけど、味は悪くないと思うんだ、うん」=Erhm, it might look a bit 'eh' but, I think it tastes pretty alright, yeah.
+「だから、その……美味しく食べてくれると嬉しい……そ、それじゃあ！」=That's why, uhm... I'd be real happy if you like it, and stuff it all down... t-then, see ya!

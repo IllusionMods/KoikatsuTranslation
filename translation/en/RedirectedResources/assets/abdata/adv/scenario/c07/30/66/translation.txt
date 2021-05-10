@@ -1,6 +1,6 @@
-
-//「遅かったね。ん？　それ何？」=
-//「いや、ま～た下駄箱に手紙がさぁ……」=
-//「ラブレターってやつ？」=
-//「ち、ちがうよ！　今度のは『妹にしてください』とかいう奴だよ！」=
-//「そ、そう……相変わらず人気あるね」=
+﻿
+「遅かったね。ん？　それ何？」=You sure took your time. Hm? What's that?
+「いや、ま～た下駄箱に手紙がさぁ……」=Well, someone stuffed a letter in my shoebox again, you see...
+「ラブレターってやつ？」=A love letter?
+「ち、ちがうよ！　今度のは『妹にしてください』とかいう奴だよ！」="N-No, not at all! This time it's more of a Please let me be your little sister deal!"""
+「そ、そう……相変わらず人気あるね」=I-I see... You're as popular as ever.

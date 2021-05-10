@@ -1,5 +1,5 @@
-//「じゃあ、とりあえず何から始めようか？」=
-//「うーん、そうだなぁ。腕相撲でもするか！」=
-//「あのな……今日は勉強、だったよな？」=
-//「頭の血流アップにちょうど良いんだぜ、これ。ほらほら、お前も腕まくりしよう！」=
-//「ま、まて。自分でまくるよ」=
+﻿「じゃあ、とりあえず何から始めようか？」=Well then, what should we start with?
+「うーん、そうだなぁ。腕相撲でもするか！」=Hmm, good question. Let's have a bout of arm wrestling!
+「あのな……今日は勉強、だったよな？」=You know... we're meant to be studying today, no?
+「頭の血流アップにちょうど良いんだぜ、これ。ほらほら、お前も腕まくりしよう！」=It helps to get the blood pumping first. Come on, roll up your sleeves!
+「ま、まて。自分でまくるよ」=W-Wait, I can do it myself.

@@ -1,8 +1,8 @@
-//「覗き込んできてる奴とか、いなかったよな……？　私、夢中だったから……」=
-//「心配しなくても大丈夫。そんな奴いなかったよ」=
-//「本当か？　本当に大丈夫だな？」=
-//「大丈夫だって！」=
-//「……たぶん」=
-//「たぶんってなんだよーっ！」=
-//「ははは、うそうそ。本当に大丈夫だから」=
-//「っと、ここのまま話してたら時間がきちゃう。支度して出ようか」=
+﻿「覗き込んできてる奴とか、いなかったよな……？　私、夢中だったから……」=There wasn't anybody peeping in on us, right...? I was really into it so I didn't notice...
+「心配しなくても大丈夫。そんな奴いなかったよ」=You don't need to worry. There wasn't anyone.
+「本当か？　本当に大丈夫だな？」=For real? We really got away scot-free, right?
+「大丈夫だって！」=I'm telling you, we did!
+「……たぶん」=...Probably.
+「たぶんってなんだよーっ！」=What's with that wishy-washy reply!
+「ははは、うそうそ。本当に大丈夫だから」=Hahaha, I'm kidding, kidding. It really is alright.
+「っと、ここのまま話してたら時間がきちゃう。支度して出ようか」=Mm, if we keep chatting away like this, we're gonna run out of time. Let's pack up our stuff and head out.
