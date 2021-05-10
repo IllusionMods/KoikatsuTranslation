@@ -1,6 +1,6 @@
-
-//「ねえ、ちょっといいかな？」=
-//「お？　噂の男の子じゃんか。　どうした？」=
-//「大した用じゃないんだけど、少し話がしたくてさ」=
-//「ふーん。いいぜ、私でよければなんでも聞けよな！」=
-//（話しやすい女の子だな……何から聞こうかな？）=
+﻿
+「ねえ、ちょっといいかな？」=Hey, got a moment?
+「お？　噂の男の子じゃんか。　どうした？」=Oh? If it isn't the rumoured boy. What's up?
+「大した用じゃないんだけど、少し話がしたくてさ」=Nothing much, just wanted to chat for a bit.
+「ふーん。いいぜ、私でよければなんでも聞けよな！」=Hmmm. Sure, why not. Ask away.
+（話しやすい女の子だな……何から聞こうかな？）=(She sure is easy to talk to... What should I start with?)

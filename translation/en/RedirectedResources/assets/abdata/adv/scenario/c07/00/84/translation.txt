@@ -1,5 +1,5 @@
-//「へ～、ここがコイカツ部か。つまり恋の勉強をする……のか？」=
-//「まあ、そうだね」=
-//「んで、どんなことするんだ？」=
-//「そうだなぁ……例えばこれ。最近流行りの、壁ドン！」=
-//「……ちょ、ちょっと……ハハ。ほ、他には？」=
+﻿「へ～、ここがコイカツ部か。つまり恋の勉強をする……のか？」=Heh~, so this is the Koikatsu club, huh. So basically, you study... romance, here?
+「まあ、そうだね」=Yeah, basically.
+「んで、どんなことするんだ？」="So then, what sort of stuff counts as romance?"""
+「そうだなぁ……例えばこれ。最近流行りの、壁ドン！」=Good question... For example, pushing someone against the wall, like this! Pretty popular these days.
+「……ちょ、ちょっと……ハハ。ほ、他には？」=...H-Hey, come on... Haha. W-What else you got?

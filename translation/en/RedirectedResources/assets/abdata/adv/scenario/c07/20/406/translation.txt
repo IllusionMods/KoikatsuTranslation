@@ -1,7 +1,7 @@
-//「あ、もうこんな時間だ。ずいぶん話し込んじゃったな」=
-//「げげっ！　そんなに長いこといたか！？」=
-//「ははっ、話に夢中で気づかなかったね。そろそろ出ようか」=
-//「そうだな……まだ話し足りなかったんだけどなぁ……」=
-//「また来ようよ。喫茶店だと、ゆっくり話せるし」=
-//「ああ、絶対だぞ。忘れるなよ！」=
-//「わかってるって。そんじゃ、お会計してくるよ」=
+﻿「あ、もうこんな時間だ。ずいぶん話し込んじゃったな」=Ah, it's already this late, huh. We really got into our chat there, didn't we?
+「げげっ！　そんなに長いこといたか！？」=Geh--! We've been here for this long?!
+「ははっ、話に夢中で気づかなかったね。そろそろ出ようか」=Haha--, we both got so drawn in, neither of us realized. Shall we head out?
+「そうだな……まだ話し足りなかったんだけどなぁ……」=Good idea... I still hadn't finished chatting with you though...
+「また来ようよ。喫茶店だと、ゆっくり話せるし」=Let's come again then. We can take our sweet time chatting next time.
+「ああ、絶対だぞ。忘れるなよ！」=Yeah, we gotta. Don't forget about it, okay?!
+「わかってるって。そんじゃ、お会計してくるよ」=I got it, I got it. Well then, I'll go settle the bill.

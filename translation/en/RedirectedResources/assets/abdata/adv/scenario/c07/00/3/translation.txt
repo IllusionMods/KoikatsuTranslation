@@ -1,5 +1,5 @@
-//「おう！　いいぜ、帰ろう帰ろう！」=
-//「ありがとな、ひとりじゃなんか嫌でさ」=
-//「気にするな！　……って、あれ？　ふたりっきりで歩くなんて、これって……？」=
-//「ん？　なんか言った？」=
-//「な、なんでもない！　ほら、さっさと行こうぜ！」=
+﻿「おう！　いいぜ、帰ろう帰ろう！」=Oh! Sure, let's go, let's walk home together!
+「ありがとな、ひとりじゃなんか嫌でさ」=Thanks mate, walking home alone is kinda a drag.
+「気にするな！　……って、あれ？　ふたりっきりで歩くなんて、これって……？」=Don't mention it! ...huh. Huh? Just the two of us, walking together, is this a...?
+「ん？　なんか言った？」=Hm? You say something?
+「な、なんでもない！　ほら、さっさと行こうぜ！」=I-It's nothing! Come on, let's get a move on!

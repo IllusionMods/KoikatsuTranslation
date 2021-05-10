@@ -1,4 +1,4 @@
-//「お、おう！　私もちょうど運動したかったんだ！」=
-//「な、なんか嬉しそうだな。それで、なにかしたいスポーツとかあるか？」=
-//「そうだなー……私はお前と運動出来ればなんでも……じゃない！　お前が得意なスポーツでいいぞ！」=
-//「そ、そうか……じゃあ、お言葉に甘えて……」=
+﻿「お、おう！　私もちょうど運動したかったんだ！」=S-Sure! I was just feeling like getting a workout myself!
+「な、なんか嬉しそうだな。それで、なにかしたいスポーツとかあるか？」=Y-You sure look happy about it. So then, is there any sport in particular you wanna do?
+「そうだなー……私はお前と運動出来ればなんでも……じゃない！　お前が得意なスポーツでいいぞ！」=Let's see... well, as long as I can get a workout with you I don't particularly... No, ignore that last one! Any sport you're good at will be fine!
+「そ、そうか……じゃあ、お言葉に甘えて……」=I-I see... then, I'll take you up on that...

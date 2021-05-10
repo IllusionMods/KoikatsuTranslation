@@ -1,5 +1,5 @@
-
-//「ま、マジか？　私もその……[P]となら良いかなって……思ってたんだ……」=
-//「本当？　すごく、嬉しいよ」=
-//「[P]、やっ、優しくして……ほしい……」=
-//「[P]、緊張する……はやく、キスして……くれ……」=
+﻿
+「ま、マジか？　私もその……[P]となら良いかなって……思ってたんだ……」=F-For real? I was, uhm... thinking that maybe it could work... between us too...
+「本当？　すごく、嬉しいよ」=Really? That makes me more happy than you can imagine.
+「[P]、やっ、優しくして……ほしい……」=[P], g-go easy... on me...
+「[P]、緊張する……はやく、キスして……くれ……」=[P], I'm getting nervous... kiss me... already...

@@ -1,6 +1,6 @@
-//「あ、君、ちょっと話良いかな？」=
-//「お？　お前ってひょっとしてあの噂の男の子？」=
-//「俺は[P名前]。よろしくね。なんか聞いてた？」=
-//「クラスの女子たち、お前の話でもちきりだよ」=
-//「俺の話って…ど、どんなのだった？」=
-//「少なくとも悪口じゃ～なかったよ。んで、話って何？」=
+﻿「あ、君、ちょっと話良いかな？」=Ah, hey, could we talk for a moment?
+「お？　お前ってひょっとしてあの噂の男の子？」=Oh? Are you by any chance that boy everyone's been talking about?
+「俺は[P名前]。よろしくね。なんか聞いてた？」=I'm [P名前]. Nice to meet you. You've already heard about me?
+「クラスの女子たち、お前の話でもちきりだよ」=You're the talk of the town, or I suppose the class.
+「俺の話って…ど、どんなのだった？」=Talk of the town... J-Just what sort of talk, if I may ask?
+「少なくとも悪口じゃ～なかったよ。んで、話って何？」=At the very least, it wasn't bad. So then, whatcha wanna talk about?

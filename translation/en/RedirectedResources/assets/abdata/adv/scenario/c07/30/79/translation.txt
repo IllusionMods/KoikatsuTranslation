@@ -1,4 +1,4 @@
-
-//「さっ、メシメシ～。今日はなに食べる？」=
-//「ここって結構、色々あるんだよな。迷うね」=
-//「おー、迷ったら肉じゃないか？　男子と言えば肉、筋肉と言えば男子。だろ？」=
+﻿
+「さっ、メシメシ～。今日はなに食べる？」=Now then--, time for some grub~. Whatcha going for today?
+「ここって結構、色々あるんだよな。迷うね」=This place has quite the variety, doesn't it? I'm not sure.
+「おー、迷ったら肉じゃないか？　男子と言えば肉、筋肉と言えば男子。だろ？」=Oh, well, when in doubt, go for meat, no? A man's gotta be manly, and have manly muscles. No?

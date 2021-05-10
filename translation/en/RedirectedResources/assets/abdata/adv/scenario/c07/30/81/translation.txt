@@ -1,6 +1,6 @@
-
-//「ん～いい風。やっぱランチは屋上に限るなあ」=
-//「へ～、天気が良いと、結構人が出るんだな。知らなかったよ」=
-//「ちょっと[P]、他の子より私を見ろよな～」=
-//「ああ、ゴメンな。別に女の子を見てたわけじゃないんだ」=
-//「あ、いや。こっちこそゴメン……ほらほら、これ私が作ったんだぜ？」=
+﻿
+「ん～いい風。やっぱランチは屋上に限るなあ」=Nnn~, such a nice wind. You really gotta have lunch at the rooftop afterall.
+「へ～、天気が良いと、結構人が出るんだな。知らなかったよ」=Heh~, lots of people show up when the weather's good, huh. I had no idea.
+「ちょっと[P]、他の子より私を見ろよな～」=Hey, [P], keep your eyes on me rather than the other girls, alright~?
+「ああ、ゴメンな。別に女の子を見てたわけじゃないんだ」=Ah, my bad. It's not like I was trying to look at other girls.
+「あ、いや。こっちこそゴメン……ほらほら、これ私が作ったんだぜ？」=Ah, no. I should be saying sorry... Come on, forget that, I made lunch, you know?

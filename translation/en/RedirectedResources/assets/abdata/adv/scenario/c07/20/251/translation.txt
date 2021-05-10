@@ -1,4 +1,4 @@
-//（ふぅ……もうそろそろ、降りる準備をしておかないと）=
-//（……今日のデートも良い思い出が作れたな）=
-//（観覧車では二人きりの空間で、いい雰囲気になれたしなぁ……）=
-//（……うん、この次も絶対[H名]を楽しませるデートにしよう！）=
+﻿（ふぅ……もうそろそろ、降りる準備をしておかないと）=(Fuu... gotta get ready to get off soon)
+（……今日のデートも良い思い出が作れたな）=(...We sure made great memories today too)
+（観覧車では二人きりの空間で、いい雰囲気になれたしなぁ……）=(Had a great mood going between the two of us too, on that ferris wheel...)
+（……うん、この次も絶対[H名]を楽しませるデートにしよう！）=(...Alright, let's make the next date one that [H名] can enjoy herself to her heart's content again!)

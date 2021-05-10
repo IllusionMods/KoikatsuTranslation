@@ -1,6 +1,6 @@
-
-//「へえ、色々あるんだね」=
-//「おっ、カフェだ。入ってみないか？」=
-//「うん、いいよ」=
-//「良い雰囲気の店だったな。その……また行こうぜ！」=
-//（よかった、喜んでもらえたみたいだ）=
+﻿
+「へえ、色々あるんだね」=Huh. There's quite the variety.
+「おっ、カフェだ。入ってみないか？」=Oh--, there's a cafe. Wanna check it out?
+「うん、いいよ」=Yeah, sure.
+「良い雰囲気の店だったな。その……また行こうぜ！」=Place sure had a nice atmosphere. Uhm... Let's come again!
+（よかった、喜んでもらえたみたいだ）=(I'm glad, looks like she enjoyed it)

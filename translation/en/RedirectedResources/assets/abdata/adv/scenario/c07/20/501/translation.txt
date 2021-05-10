@@ -1,7 +1,7 @@
-//（そろそろ待ち合わせの時間だ。[H名]は……お、来た来た）=
-//「よう[P名]。待たせたか？」=
-//「いや、待ち合わせ時間ピッタリだよ」=
-//「俺が早く着きすぎちゃったんだ。[H名]とのデートがあまりにも楽しみだったもんで」=
-//「そうなのか。まったく、子供みたいだな～[P名]は。……まあ、その、私も楽しみにしてたけどさ」=
-//「よかった、[H名]も同じ気持ちだったんだね」=
-//（よし、今日はどこに行こうかな）=
+﻿（そろそろ待ち合わせの時間だ。[H名]は……お、来た来た）=(It's almost the time we said we'd meet up at. [H名]'s... ah, there she is.)
+「よう[P名]。待たせたか？」=Yo, [P名]. Did I make you wait?
+「いや、待ち合わせ時間ピッタリだよ」=Nope, you're right on time.
+「俺が早く着きすぎちゃったんだ。[H名]とのデートがあまりにも楽しみだったもんで」=I just showed up way too early. I was just looking so much forward to our date together, you see.
+「そうなのか。まったく、子供みたいだな～[P名]は。……まあ、その、私も楽しみにしてたけどさ」=That so, huh? Good grief, you're still just like a kid~, [P名]. ...Well, I was looking forward to it too, though.
+「よかった、[H名]も同じ気持ちだったんだね」=I'm glad, looks like we felt the same way.
+（よし、今日はどこに行こうかな）=(Alright, where shall we go today?)

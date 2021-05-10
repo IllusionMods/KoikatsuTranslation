@@ -1,6 +1,6 @@
-
-//「なあ、別れようか……私たち」=
-//「え？　どうしたんだよ、急に……」=
-//「ダメなんだ、お前と居るとイライラするんだ……今もイライラしてるんだ！」=
-//「俺、なんか気に障ることしちゃったかな？」=
-//「わからないなら、もうお前と話すことはないね！　じゃあな！」=
+﻿
+「なあ、別れようか……私たち」=Hey, listen, maybe we should... split up.
+「え？　どうしたんだよ、急に……」=Eh? That's a bit sudden, what's the matter...
+「ダメなんだ、お前と居るとイライラするんだ……今もイライラしてるんだ！」=It's not working out, just being with you gets on my nerves... Even now, I'm kinda pissed!
+「俺、なんか気に障ることしちゃったかな？」=Did I do something to rub you the wrong way?
+「わからないなら、もうお前と話すことはないね！　じゃあな！」=If you don't know, then there's no point in us talking anymore! See ya!

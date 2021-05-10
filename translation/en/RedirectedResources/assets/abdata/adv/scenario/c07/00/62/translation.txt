@@ -1,11 +1,11 @@
-………………=.........
+﻿………………=.........
 …………=......
 ……=...
-//「あ～……ここでお別れか、まぁ仕方ないよな……」=
-//「寂しいなら俺の家に来ないか？」=
-//「え？　……ば、バカ！　別に寂しくなんかない、けど……来てもいいってなら、行こうかな、へへっ」=
-//「またすぐに会えるさ、そんな寂しそうな顔するなよ」=
-//「そ、そんな顔してねぇし！　じ、じゃあまたな！」=
+「あ～……ここでお別れか、まぁ仕方ないよな……」=Ah~... We gotta split up here, huh. Well, it can't be helped I guess...
+「寂しいなら俺の家に来ないか？」=If you feel lonely, wanna hit up my place?
+「え？　……ば、バカ！　別に寂しくなんかない、けど……来てもいいってなら、行こうかな、へへっ」=Eh? ...D-Dummy! It's not like I feel lonely or anything, but... if you're fine with it, then maybe I'll take you up on that, hehe--
+「またすぐに会えるさ、そんな寂しそうな顔するなよ」=Don't make such a lonely face, we'll meet up again real soon.
+「そ、そんな顔してねぇし！　じ、じゃあまたな！」=I-I ain't making any such face! W-Well then, see ya!
 
-//CHOICE:「俺の家に来ないか？」=
-//CHOICE:「またすぐに会えるさ」=
+CHOICE:「俺の家に来ないか？」=Wanna hit up my place?
+CHOICE:「またすぐに会えるさ」=We'll meet up again real soon.
