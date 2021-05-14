@@ -1,4 +1,4 @@
-//「ふぅ……今日はかなり頑張ったなぁ。いつもこんなに運動することってないかも」=
-//「そうなん？　君、スポーツとか好きそうなんに……違うんや」=
-//「そんなにがっちりやる機会って少なくてさ。でも[H名]と一緒だと、ついつい張り切っちゃって」=
-//「あはは、実は私も。君と一緒に運動してると、いつも以上に元気になるとよ。えへへ、なんでかいなね」=
+﻿「ふぅ……今日はかなり頑張ったなぁ。いつもこんなに運動することってないかも」=Fuu... We worked quite hard today. I don't think I exercise this much usually.
+「そうなん？　君、スポーツとか好きそうなんに……違うんや」=That so? You seem like the type to like sports though... guess not.
+「そんなにがっちりやる機会って少なくてさ。でも[H名]と一緒だと、ついつい張り切っちゃって」=I don't really get the chance to sit down and do it properly all that often, you see. But, I just can't help but get fired up with you, [H名].
+「あはは、実は私も。君と一緒に運動してると、いつも以上に元気になるとよ。えへへ、なんでかいなね」=Ahaha, honestly, me too. When I get a workout with you, I feel way more energetic than usual. Ehehe, I wonder why?

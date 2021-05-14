@@ -1,4 +1,4 @@
-//「あれ……君、そのくらいで足りるん？　もっと食べんでいいと？」=
-//「うん、このくらいで十分だけど……変かな？　というか、周りの女子と比べたらこれでも多いと思うよ」=
-//「勝手な想像っちゃけど、男の子ってもっといっぱい食べると思ってた。こーーんくらい！」=
-//「あはは、そんなに食べるのは大食いの人くらいだって」=
+﻿「あれ……君、そのくらいで足りるん？　もっと食べんでいいと？」=Huh... are you fine with just that much? Sure you don't want to go for more?
+「うん、このくらいで十分だけど……変かな？　というか、周りの女子と比べたらこれでも多いと思うよ」=Yeah, this much is fine for me but... is it strange? Compared to what the girls around here get, I feel like this is still a lot more.
+「勝手な想像っちゃけど、男の子ってもっといっぱい食べると思ってた。こーーんくらい！」=Well, I'd always thought that boys would eat a lot more. Like, ~this~ much!
+「あはは、そんなに食べるのは大食いの人くらいだって」=Ahaha, only an absolute glutton would eat that much.

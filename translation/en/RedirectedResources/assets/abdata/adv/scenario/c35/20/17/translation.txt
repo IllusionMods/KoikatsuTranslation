@@ -1,5 +1,5 @@
-//『[P名]、おはよう。きちんと起きてくれたかな？　ごめんね、今日はあんまり時間ないから、私、先に行っちゃうね』=
-//『ふふっ、今の君の顔を思い浮かべるとちょっと可笑しいかも』=
-//『だって……標準語だから変だなって思ってるでしょう？　私だって、お手紙だったらきちんと標準語で書けるんだよ』=
-//『それじゃ、私はそろそろ行かなきゃ。今はまだ君がそこで寝ているのに、もう『早く会いたいな』なんて思っちゃってます』=
-//『君のこと、世界で一番愛しとうよ♪　なんて♪　大好きっ！ [H名]』=
+﻿『[P名]、おはよう。きちんと起きてくれたかな？　ごめんね、今日はあんまり時間ないから、私、先に行っちゃうね』=『[P名], morning. Did you wake up properly? Sorry, I don't have all that much time today, so I'll leave early.』
+『ふふっ、今の君の顔を思い浮かべるとちょっと可笑しいかも』=『Fufu--, when I try thinking about just what sort of face you'd be making right about now, I can't help but laugh.』
+『だって……標準語だから変だなって思ってるでしょう？　私だって、お手紙だったらきちんと標準語で書けるんだよ』=『I mean... you're probably wondering just what happened to cause me to write this in standard Japanese, no? Even I tend to use standard Japanese when I sit down to write a letter.』
+『それじゃ、私はそろそろ行かなきゃ。今はまだ君がそこで寝ているのに、もう『早く会いたいな』なんて思っちゃってます』=『Well then, I gotta go. Even though you're sleeping like a log right over there right now, I can't help but think『I want to see you already』』
+『君のこと、世界で一番愛しとうよ♪　なんて♪　大好きっ！ [H名]』=『I love you the most in this whole world♪ Heh♪ I love you--! [H名]』
