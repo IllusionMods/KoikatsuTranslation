@@ -1,0 +1,34 @@
+#set exe Koikatu,Koikatu VR,Koikatsu Party,Koikatsu Party VR
+#set level 24
+
+//
+// Extra -> Live Mode
+//
+
+// Buttons At Start
+キャラ選択=Character Select
+ファイル選択=Load File
+アイドルに戻す=Default Idol
+
+服装=Clothing Menu
+学生服(校内)=In School
+学生服(下校)=Going Home
+体操着=Gym Uniform
+水着=Swimsuit
+部活=Club Activities
+私服=Casual Clothes
+お泊り=Sleeping Over
+//Load File
+アイドル服=Idol Outfit
+
+その他=Miscellaneous
+上履き=Uwabaki
+下履き=Outdoor Shoes
+マイク=Microphone
+
+// Label Stuff
+キャラ一覧=Select A Character
+服の読み込み=Load An Outfit
+
+// Load Button
+読込み=Load

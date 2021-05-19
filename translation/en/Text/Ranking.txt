@@ -1,0 +1,37 @@
+// Main Menu Button
+ランキングに参加=Get Ranked
+ランキング=Ranking
+
+// Ranking Nickname Select
+ハンドルネームを入力して下さい=Please Enter A Nickname.
+※ ランキングに参加するにはハンドルネームの登録が必要です=※ A Nickname is required to participate in Ranking.
+ハンドルネーム=Nickname
+
+本当にアップロードしますか？=Do you really want to upload it?
+データを取得しています=Retrieving data
+プレイデータ=Play data
+覗きマスター：トイレ=Peeping Master: Toilet
+覗きマスター：シャワー=Peeping Master: Shower
+覗きマスター：オナニー=Peeping Master: Masturbation
+豪胆Ｈマスター=Bold H Master
+絶頂名人=Climax Master
+中出しマスター=Creampie Master
+中出しマスター：生=Creampie Master: Raw
+中出しマスター：アナル=Creampie Master: Anal
+怒らせ名人=Angry Master
+デートマスター=Dating Master
+自宅Ｈ好き=Love at home H
+おっぱい星人=Boobs Star
+お尻フェチ=Butt Fetish
+ゴッドフィンガー=God Finger
+おもちゃマイスター=Toy Meister
+部員勧誘に成功した回数=Number of times recruited
+これまで付き合った人数=Number of people I've dated
+経験人数=Number of experienced people
+プレイ時間=Play time
+潜入失敗：ロッカー編=Sneak Failure: Locker
+潜入失敗：トイレ編=Sneak Failure: Toilet section
+潜入失敗：シャワー編=Sneak Failure: Shower
+筋肉大好き=I love muscles
+勉強大好き=I love studying
+エロ大好き=I love eroticism

@@ -1,0 +1,115 @@
+#set exe Koikatu,Koikatu VR,Koikatsu Party,Koikatsu Party VR
+#set level 21,7
+
+// Reset Confirmation Pop-up
+容姿を初期化しますか？=Reset To Default Appearance?
+
+#set level 21
+
+// Others
+各イベントに登場する先生とプレイヤーの容姿を設定します=Set the appearance for the Teachers and the Player for these Events.
+
+// Buttons
+容姿の初期化=Reset Appearance
+容姿の変更=Change Appearance
+
+
+//
+// Events Menu
+// You should really not look at this file if you don't want the game to be spoiled!
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+// YOU HAVE BEEN WARNED!
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+
+
+// event title should be loaded from assets now. these will be removed shortly
+
+// Himekawa Mai
+初めての出会い=First Meeting
+あの娘は……？=That Girl......?
+偶然の再会=A Lucky Reunion
+やってみたいことは？=What Do You Want To Do?
+図書館すたでぃんぐ=Library Studying
+学園ライブ=Live Campus Concert
+経験不足で……？=You're Not Experienced......?
+いよいよコイカツ！=Finally, Koikatsu Club!
+恋、戸惑い=Love And Confusion
+離れ離れ=Separation
+二人きりの保健室=By Ourselves In The School Infirmary
+告白の答えは？=A Confession Answer?
+
+// Hiiragi Konomi
+一人部長は大変なのです=The Serious One-Woman Club Leader
+今日も勧誘なのです=Today's Also Invitation Day
+魅惑の円盤なのです=The Attraction Disc
+宇宙Ｎｏ．１小悪魔なのです=The #1 Imp In The Universe
+本当のわたし……なのです=The Real Me......
+それでもコスプレが好きなのです=I Still Like To Cosplay
+自分を分析！　なのです=Self-Analysis!
+コイカツ！ 始めるです=Koikatsu Club! The Beginning
+いつもと違う自分になるです=I'll Become Different From My Usual Self
+恋人は貴方って言いたい！　なのです=I Want To Say You're My Boyfriend!
+明日への期待が膨らむです=Growing Excitement For Tomorrow
+伝えたい愛おしさなのです=I Want To Tell My Precious
+
+// Yuuki Sakura
+あの子はチアリーディング部=The Cheerleading Club Girl
+再びチア部へ=A Second Visit To Cheerleading Club
+桜の憧れ=Sakura's Dreams
+体育祭へ向けて=Going To The Sports Festival
+怒り=Angry
+胸の内=Inside My Chest
+休日デート=Holiday Date
+勇気の告白=A Bold Confession
+桜の想い=Sakura's Wishes
+
+// Minase Ai
+数学の授業=Mathematics Lesson
+水泳部での亜依=Ai Of The Swimming Club
+ズル休み=Skipping School
+乙梨さんのトラウマを打破せよ=Breaking Down From Otonashi-san's Trauma
+亜依のコンプレックス=Ai's Complex
+似たもの親子=Like Parent And Child
+恋バナのような告白=A Girl's Talk Confession
+おうちデート=A Date At Home
+二人きりのプールで=By Ourselves In The Pool
+
+

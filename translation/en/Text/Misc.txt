@@ -1,0 +1,146 @@
+
+// Menu
+ランキング=Ranking
+ランキングに参加=Join Ranking
+タイトル=Title
+ゲーム終了=Quit game
+戻る=Return
+ロードデータを選択して下さい=Select save data to load
+セーブデータを選択して下さい=Select save data
+セーブしました=Game saved.
+上書きしますか？=Overwrite this save?
+ロードしますか？=Load this save data?
+タイトルへ戻りますか？=Return to title?
+ゲームを終了しますか？=Quit the game?
+セーブしますか？=Create new save?
+家に帰りますか？=Go home?
+彼女を呼び出しますか？=Call her?
+編集前に戻す=Restore before editing
+キャラを編集前に戻しますか？=Revert character to before editing?
+コンフィグ=Configuration
+データの取得に失敗しました=Data acquisition failed
+
+// Class screen
+Ｏ型=Type O
+ＡＢ型=Type AB
+Ａ型=Type A
+Ｂ型=Type B
+
+// Nicknames screen
+～ 個別指定した愛称を呼んでくれる子 ～=～ Assign her nickname for you ～
+～ プレイヤーの名前 ～=～ Player's Name ～
+～ プレイヤーの愛称 ～=～ Player's Nickname ～
+個別指定をしない=Don't specify individually
+名：=Name:
+姓：=Surname:
+
+// Maker
+小さい=Small
+高い=Tall
+低い=Lean
+大きい=Big
+ロング=Long
+ツイン=Twintails
+
+// Talk
+世間話=Small talk
+コイバナ=Love talk
+エッチ=H talk
+勉強しよう=Study
+運動しよう=Exercise
+昼食に誘う=Invite to lunch
+別れる=Break up
+Hしたい=Do H
+部活しよう=Do Koikatsu
+ついてきて=Follow me
+一緒に帰ろう=Go home together
+謝る=Apologize
+デートに誘う=Ask on a date
+告白する=Confess
+コイカツ部に誘う=Invite to Koikatsu
+
+// Areas
+教室1-1=Classroom 1-1
+教室1-2=Classroom 1-2
+教室2-1=Classroom 2-1
+教室2-2=Classroom 2-2
+教室3-1=Classroom 3-1
+教室3-2=Classroom 3-2
+中庭=Courtyard
+裏庭=Backyard
+保健室=Infirmary
+図書室=Library
+部室=Clubroom
+職員室=Staff room
+食堂=Cafeteria
+漫研=Manga club
+和室=Japanese style room
+グラウンド=Sports ground
+シャワールーム=Shower room
+ロッカールーム=Locker room
+プール=Pool
+体育館=Gym
+体育倉庫=Gym storage room
+職員トイレ(男)=Staff restroom (Men)
+1F女子トイレ=1F Restroom (Women)
+2F女子トイレ=2F Restroom (Women)
+3F女子トイレ=3F Restroom (Women)
+廊下１Ｆ=Corridor 1F
+廊下２Ｆ=Corridor 2F
+廊下３Ｆ=Corridor 3F
+屋上=Rooftop
+
+// Other
+知力=Intelligence
+体力=Power
+Ｈ力=H power
+選択肢=Choice
+
+
+// -------------------custom
+名前を入力して下さい=Please enter a name
+愛称を入力して下さい=Please enter a nickname
+性格を選択=Select personality
+
+// Livestage free roaming cycles
+BGMの音量=BGM volume
+効果音の音量=Sound FX volume
+注視点を表示する=Display focal point
+エッチシーン=H scene
+コミュニケーション=Communication
+ゲームの進め方=How to Play
+コイカツ報告書=Koikatsu Report
+マップ一覧=Map list
+部員一覧=Member list
+呼び出す=Call
+アフタースクール=After School
+
+
+プレイヤーの服装=Player's clothing
+
+// Default School Names, etc.
+コイカツ女学園 学園長=Koikatsu Girls' Academy, Headmistress
+コイカツ女学園=Koikatsu Girls' Academy
+学園長=Headmistress
+コイカツ部=Koikatsu Club
+
+// These are hitting at some level they aren't current set to
+//so adding them globally for now
+
+ランダム=Random
+サンプル=Sample
+トップ=Top
+ボトム=Bottom
+ブラ=Bra
+ショーツ=Underwear
+パンスト=Pantyhose
+手袋=Gloves
+靴下=Legwear
+靴=Shoes
+服の読み込み=Load An Outfit
+読込み=Load
+保存=Save
+トイレ覗き=Toilet Peeping
+シャワー覗き=Shower Peeping
+
+チュートリアルを終了しますか？=Finished with the tutorial?

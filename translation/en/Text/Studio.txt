@@ -1,0 +1,2646 @@
+#set exe CharaStudio
+
+//
+// Right Sidebar
+//
+
+ワークスペース=Workspace
+
+// Right Sidebar -> Camera
+r:"^カメラ([０-９0-9]+)$"=Camera $1
+
+// Camera Animation Settings
+名前=Name
+動作=Active
+
+// Right Sidebar -> Route
+ルート=Route
+子接続先=Child Access Point
+スタート=Start
+r:"^ポイント([０-９0-9]+)$"=Point $1
+
+// Route Animation Settings
+ルート設定=Route Settings
+ルートコントローラー=Route Controller
+//Name
+追加=Add Point
+向き補正=Correct Aim
+//Loop
+ライン描画=Motion Line
+//Line Color
+ルートのラインカラー=Route Line Color
+
+// Route Point Settings
+ルートポイント設定=Route Point Settings
+//Speed
+挙動=Behavior
+形状=Shape
+直線=Line
+曲線=Curve
+連結=Link
+
+// Route Point Behaviors
+直線的=Linear
+徐々に早く=Speeds Up
+徐々に遅く=Slows Down
+急に早く=Immediate Fast
+急に遅く=Immediate Slow
+バウンド=Bound
+
+// Right Sidebar -> Added Character
+sr:"^グループ : (.*)$"=Group: $1
+sr:"^部位 : (.*)$"=Part: $1
+
+// Groups
+髪=Hair
+頭=Head
+顔=Face
+首=Neck
+胴=Torso
+腰=Waist
+脚=Legs
+腕=Arms
+手=Hands
+股間=Crotch
+
+// Parts
+ポニー=Ponytail
+ツイン左=Left Twintail
+ツイン右=Right Twintail
+ヘアピン左=Left Hairpin
+ヘアピン右=Right Hairpin
+帽子=Hat
+額=Forehead
+頭上=Top of Head
+頭中心=Center of Head
+イヤリング左=Left Earring
+イヤリング右=Right Earring
+眼鏡=Glasses
+鼻=Nose
+口=Mouth
+首=Neck
+胸上=Upper Chest
+胸上中央=Center Of Upper Chest
+左乳首=Left Nipple
+右乳首=Right Nipple
+背中中央=Center Of Back
+背中左=Left Of Back
+背中右=Right Of Back
+腰=Waist
+腰前=Front Of Waist
+腰後ろ=Rear Of Waist
+腰左=Left Waist
+腰右=Right Waist
+左太もも=Left Thigh
+左ひざ=Left Knee
+左足首=Left Ankle
+かかと左=Left Heel
+右太もも=Right Thigh
+右ひざ=Right Knee
+右足首=Right Ankle
+かかと右=Right Heel
+左肩=Left Shoulder
+左上腕=Left Upper Arm
+左ひじ=Left Elbow
+左手首=Left Wrist
+右肩=Right Shoulder
+右上腕=Right Upper Arm
+右ひじ=Right Elbow
+右手首=Right Wrist
+左手=Left Hand
+左人差指=Left Index Finger
+左中指=Left Middle Finger
+左薬指=Left Ring Finger
+右手=Right Hand
+右人差指=Right Index Finger
+右中指=Right Middle Finger
+右薬指=Right Ring Finger
+男根根本=Base Of Penis
+女性器=Female Genitalia
+尻穴=Anus
+
+// Right Sidebar -> Default New Folder
+フォルダー=New Folder
+名前を入力=Enter A Name
+
+// New Camera control from Patch 0727
+設定しているカメラ=Set Camera
+
+//
+// Personalities
+//
+
+セクシー=Sexy
+お嬢様=Ojousama
+高飛車=Snobby
+後輩キャラ=Kouhai
+ミステリアス=Mysterious
+電波=Weirdo
+大和撫子=Yamato Nadeshiko
+ボーイッシュ=Tomboy
+純真無垢=Pure
+単純=Simple
+邪気眼=Delusional
+母性的=Motherly
+姉御肌=Big Sisterly
+ギャル=Gyaru
+不良少女=Delinquent
+野性的=Wild
+意識高いクール=Wannabe
+ひねくれ=Reluctant
+不幸少女=Jinxed
+文学少女=Bookish
+モジモジ=Timid
+正統派ヒロイン=Typical Schoolgirl
+ミーハー=Trendy
+オタク女子=Otaku
+ヤンデレ=Yandere
+ものぐさ=Lazy
+無口=Quiet
+意地っ張り=Stubborn
+のじゃっ子=Old-Fashioned
+素直クール=Humble
+// Patch 0727
+気さく=Friendly
+// Personality DLC, also includes Friendly above
+// Studio uses two versions of Willful and Sadistic
+勝気=Willful
+勝ち気=Willful
+誠実=Honest
+艶やか=Glamorous
+// Afterschool DLC
+帰国子女=Returnee
+方言娘=Slangy
+Ｓっ気=Sadistic
+Sッ気=Sadistic
+無感情=Emotionless
+// Emotion Creators Preorder DLC
+几帳面=Perfectionist
+
+//
+// Color Picker
+//
+
+// Picker
+ピッカー=Picker
+スライダー=Slider
+プリセット=Presets
+サンプル=Sample
+見本=Result
+色合い=Hue
+鮮やかさ=Saturation
+明るさ=Value
+赤=Red
+緑=Green
+青=Blue
+透明度=Alpha
+
+//
+// Object Controller
+//
+
+オブジェクトコントローラー=Object Controller
+平行移動=Horiz.
+上下移動=Vert.
+r:"^([Ａ-Ｚ])回転$"=$1 Rot.
+
+//
+// Map Controller
+//
+位置=Location
+//Horiz.
+//Vert.
+時間帯=Time Of Day
+
+//
+// Item Settings
+//
+
+//Color 1
+柄=Pattern
+柄の色=Pattern Color
+繰り返す=Tile Pattern
+横移動=Horizontal
+縦移動=Vertical
+横スケール=Hor. Scale
+縦スケール=Vert. Scale
+//Rotator
+//Shadowing
+アルファ=Alpha
+//Line Color
+//Line Thickness
+//FK
+揺れ制御=Shake Control
+
+// Item Settings -> Lower Right Box (Color picker)
+r:"^アイテム カラー([０-９0-9]+)$"=Item Color $1
+r:"^柄の色([０-９0-9]+)$"=Pattern Color $1
+
+// Item Settings -> Patterns
+柄を選択して下さい=Please Select A Pattern
+ストライプ=Vertical Stripes
+斜めストライプ=Slanted Stripes
+ボーダー=Horizontal Stripes
+r:"^チェック([A-Z])$"=Checkered $1
+市松チェック=Checkerboard
+ハーリキンチェック=Harlequin Checkered
+千鳥格子=Hound's Tooth
+ハート=Heart
+水玉=Polka Dots
+花柄=Flowers
+r:"^星([A-Z])$"=Stars $1
+イチゴ=Strawberries
+ドクロ=Skull
+ヒョウ=Leopard Print
+シマウマ=Zebra Stripes
+麻の葉=Hexagons
+青海波=Ocean Waves
+唐草=Arabesque
+矢絣=Arrow Feathers
+鹿子=Deerskin
+亀甲花菱=Turtleshell Flowers
+ノルデック=Nordic
+迷彩=Camouflage
+網=Netting
+編み込み=Weaved
+レンガ=Brick
+グラデーションボーダー=Gradient
+縦線=Vertical Lines
+横線=Horizontal Lines
+モザイク=Mosaic
+アーガイル=Argyle
+チマヨ=Chimayo
+ギンガムチェック=Gingham Checkered
+変則ストライプ=Irregular Vertical Stripes
+変則ボーダー=Irregular Horizontal Stripes
+丸=Circle
+// Patch 0727 (add13/14)
+//Hibiscus
+
+//
+// Map Light Stuff
+//
+
+//Color
+ライトのON/OFF=Light On/Off
+ターゲット表示=Show Target
+//Self-Shadowing
+//Strength
+//Intensity
+スポット角度=Spot Angle
+// Lower Right Box
+ライト=Light
+
+//
+// Add Menu
+//
+
+女キャラ=Girls
+男キャラ=Boys
+アイテム=Items
+マップ=Map
+マップライト=Map Lights
+背景=Background
+フレーム=Frame
+
+// Add -> Items
+基本形=Models
+ベース=Base
+家具=Furniture
+オブジェ=Objects
+食材=Foodstuffs
+小物=Small Articles
+キャラ=Character
+Ｈアイテム=H-Items
+2D効果=2D Effects
+ギミック=Gimmicks
+3DSE=3D SFX
+武器=Weapons
+エフェクト=Effects
+グロー=Glow
+// Character Design Addon Pack Vol. 2
+FKアイテム=FK Items
+
+//
+// Add -> Items -> Models
+//
+
+通常=General
+//Character
+
+// Add -> Items -> Models -> General
+スフィア(通常）=Sphere (General)
+キューブ(通常）=Cube (General)
+ピラミッド(通常）=Pyramid (General)
+コーン(通常）=Cone (General)
+シリンダー(通常）=Cylinder (General)
+クリスタル(通常）=Diamond (General)
+リング(通常）=Ring (General)
+星1(通常）=Star 1 (General)
+星2(通常）=Star 2 (General)
+星3(通常）=Star 3 (General)
+星4(通常）=Star 4 (General)
+ハート1(通常）=Heart 1 (General)
+ハート2(通常）=Heart 2 (General)
+爪(通常）=Claw 1 (General)
+筒(通常）=Dot 1 (General)
+筒2(通常）=Sot 2 (General)
+パイプ1(通常）=Pipe 1 (General)
+パイプ2(通常）=Pipe 2 (General)
+台形1(通常）=Trapezoid 1 (General)
+台形2(通常）=Trapezoid 2 (General)
+矢印1(通常）=Arrow 1 (General)
+矢印2(通常）=Arrow 2 (General)
+矢印3(通常）=Arrow 3 (General)
+穴あきキューブ(通常）=Hollow Cube (General)
+直角1(通常）=Right Angle 1 (General)
+直角2(通常）=Right Angle 2 (General)
+直角3(通常）=Right Angle 3 (General)
+三日月1(通常）=Crescent Moon 1 (General)
+三日月2(通常）=Crescent Moon 2 (General)
+三日月3(通常）=Crescent Moon 3 (General)
+十字(通常）=Cross (General)
+Ｖ字(通常）=V-Mark (General)
+穴あき楕円(通常）=Hollow Elipse (General)
+先尖り棒(通常）=Pointed Rod (General)
+三角(通常）=Triangle (General)
+穴あき三角(通常)=Hollow Triangle (General)
+弧1(通常）=Arc 1 (General)
+弧2(通常）=Arc 2 (General)
+弧3(通常）=Arc 3 (General)
+四分円(通常）=Quadrant (General)
+半円(通常）=Semicircle (General)
+五角形(通常）=Pentagon (General)
+六角形(通常）=Hexagon (General)
+穴あき六角形(通常）=Hollow Hexagon (General)
+八角形(通常）=Octagon (General)
+頭(通常）=Head (General)
+平面（通常）=Flat Plane (General)
+輪(通常)=Hoop (General)
+カプセル(通常)=Capsule (General)
+正台形(通常)=Perfect Trapezoid (General)
+// Patch 0525
+山型多角形1(通常)=Mountain Polygon 1 (General)
+山型多角形2(通常)=Mountain Polygon 2 (General)
+長六角形(通常)=Long Hexagon (General)
+長五角形（通常）=Long Pentagon (General)
+歪み三角柱(通常)=Bent Triangle (General)
+マウス型右(通常)=Right Mouse Button (General)
+マウス型左(通常)=Left Mouse Button (General)
+三角横台形(通常)=Horizontal Triangle (General)
+五角横台形(通常)=Horizontal Pentagon (General)
+円形横台形(通常)=Horizontal Circle (General)
+ドロップ立体(通常)=Thick Droplet (General)
+ドロップ平面(通常)=Flattened Droplet (General)
+ひょうたん立体(通常)=Thick Gourd (General)
+ひょうたん平面(通常)=Flattened Gourd (General)
+// Patch 0629
+角リング(通常)=Angled Ring (General)
+立体半円(通常)=Solid Hemisphere (General)
+立体四半円(通常)=Solid Quadrasphere (General)
+角型(通常)=Angular Teardrop (General)
+直角形(通常)=Right Angle Triangle (General)
+斜ひし形(通常)=Parallelogram (General)
+歪み台形(通常)=Squared Trapezoid (General)
+欠け四角(通常)=Square With Curve (General)
+二対多角形(通常)=Notched Hexagon (General)
+ヒレ型(通常)=Fin (General)
+歪み多角形(通常)=Bent Tube (General)
+角なし斜ひし形(通常)=Beveled Parallelogram (General)
+角なし歪み台形(通常)=Beveled Squared Trapezoid (General)
+角なし四角錐(通常)=Beveled Pyramid (General)
+角なし三角(通常)=Beveled Triangle (General)
+角なし四角(通常)=Beveled Square (General)
+筒四分(通常)=Quarter Tube (General)
+// Patch 0727
+半ピラミッド(通常)=Half Pyramid (General)
+角なし半四角錐(通常)=Beveled Half-Squared Pyramid (General)
+半コーン(通常)=Half Cone (General)
+階段型(通常)=Stairs (General)
+半カプセル(通常)=Half Capsule (General)
+
+// Add -> Items -> Models -> Character
+スフィア(キャラ)=Sphere (Character)
+キューブ(キャラ）=Cube (Character)
+ピラミッド(キャラ）=Pyramid (Character)
+コーン(キャラ）=Cone (Character)
+シリンダー(キャラ）=Cylinder (Character)
+クリスタル(キャラ）=Diamond (Character)
+リング(キャラ）=Ring (Character)
+星1(キャラ）=Star 1 (Character)
+星2(キャラ）=Star 2 (Character)
+星3(キャラ）=Star 3 (Character)
+星4(キャラ）=Star 4 (Character)
+ハート1(キャラ）=Heart 1 (Character)
+ハート2(キャラ）=Heart 2 (Character)
+爪(キャラ）=Claw 1 (Character)
+筒(キャラ）=Dot 1 (Character)
+筒2(キャラ）=Sot 2 (Character)
+パイプ1(キャラ）=Pipe 1 (Character)
+パイプ2(キャラ）=Pipe 2 (Character)
+台形1(キャラ）=Trapezoid 1 (Character)
+台形2(キャラ）=Trapezoid 2 (Character)
+矢印1(キャラ）=Arrow 1 (Character)
+矢印2(キャラ）=Arrow 2 (Character)
+矢印3(キャラ）=Arrow 3 (Character)
+穴あきキューブ(キャラ）=Hollow Cube (Character)
+直角1(キャラ）=Right Angle 1 (Character)
+直角2(キャラ）=Right Angle 2 (Character)
+直角3(キャラ）=Right Angle 3 (Character)
+三日月1(キャラ）=Crescent Moon 1 (Character)
+三日月2(キャラ）=Crescent Moon 2 (Character)
+三日月3(キャラ）=Crescent Moon 3 (Character)
+十字(キャラ）=Cross (Character)
+Ｖ字(キャラ）=V-Mark (Character)
+穴あき楕円(キャラ）=Hollow Elipse (Character)
+先尖り棒(キャラ）=Pointed Rod (Character)
+三角(キャラ）=Triangle (Character)
+穴あき三角(キャラ）=Hollow Triangle (Character)
+弧1(キャラ）=Arc 1 (Character)
+弧2(キャラ）=Arc 2 (Character)
+弧3(キャラ）=Arc 3 (Character)
+四分円(キャラ）=Quadrant (Character)
+半円(キャラ）=Semicircle (Character)
+五角形(キャラ）=Pentagon (Character)
+六角形(キャラ）=Hexagon (Character)
+穴あき六角形(キャラ）=Hollow Hexagon (Character)
+八角形(キャラ）=Octagon (Character)
+頭(キャラ）=Head (Character)
+平面（キャラ）=Flat Plane (Character)
+輪(キャラ)=Hoop (Character)
+カプセル(キャラ)=Capsule (Character)
+正台形(キャラ)=Perfect Trapezoid (Character)
+// Patch 0525
+山型多角形1(キャラ)=Mountain Polygon 1 (Character)
+山型多角形2(キャラ)=Mountain Polygon 2 (Character)
+長六角形(キャラ)=Long Hexagon (General)
+長五角形（キャラ）=Long Pentagon (General)
+歪み三角柱(キャラ)=Bent Triangle (General)
+マウス型右(キャラ)=Right Mouse Button (General)
+マウス型左(キャラ)=Left Mouse Button (General)
+三角横台形(キャラ)=Horizontal Triangle (General)
+五角横台形(キャラ)=Horizontal Pentagon (General)
+円形横台形(キャラ)=Horizontal Circle (General)
+ドロップ立体(キャラ)=Thick Droplet (General)
+ドロップ平面(キャラ)=Flattened Droplet (General)
+ひょうたん立体(キャラ)=Thick Gourd (General)
+ひょうたん平面(キャラ)=Flattened Gourd (General)
+// Patch 0629
+角リング(キャラ)=Angled Ring (Character)
+立体半円(キャラ)=Solid Hemisphere (Character)
+立体四半円(キャラ)=Solid Quadrasphere (Character)
+角型(キャラ)=Angular Teardrop (Character)
+直角形(キャラ)=Right Angle Triangle (Character)
+斜ひし形(キャラ)=Parallelogram (Character)
+歪み台形(キャラ)=Squared Trapezoid (Character)
+欠け四角(キャラ)=Square With Curve (Character)
+二対多角形(キャラ)=Notched Hexagon (Character)
+ヒレ型(キャラ)=Fin (Character)
+歪み多角形(キャラ)=Bent Tube (Character)
+角なし斜ひし形(キャラ)=Beveled Parallelogram (Character)
+角なし歪み台形(キャラ)=Beveled Squared Trapezoid (Character)
+角なし四角錐(キャラ)=Beveled Pyramid (Character)
+角なし三角(キャラ)=Beveled Triangle (Character)
+角なし四角(キャラ)=Beveled Square (Character)
+筒四分(キャラ)=Quarter Tube (Character)
+// Patch 0727
+半ピラミッド(キャラ)=Half Pyramid (Character)
+角なし半四角錐(キャラ)=Beveled Half-Squared Pyramid (Character)
+半コーン(キャラ)=Half Cone (Character)
+階段型(キャラ)=Stairs (Character)
+半カプセル(キャラ)=Half Capsule (Character)
+
+//
+// Add -> Items -> Base
+//
+
+地面=Ground
+ドア=Doors
+壁=Walls
+階段=Stairs
+設置物=Installed Objects
+建造物=Structures
+空=Skies
+画像板=Image Board
+
+// Add -> Items -> Base -> Ground
+r:"^畳([０-９0-9]+)$"=Tatami Mat $1
+囲炉裏=Sunken Fireplace
+r:"^アスファルト床([０-９0-9]+)$"=Asphalt Floor $1
+r:"^石床([０-９0-9]+)$"=Stone Floor $1
+r:"^石畳([０-９0-9]+)$"=Stone Paving $1
+r:"^レンガ床([０-９0-9]+)$"=Brick Floor $1
+r:"^タイル床([０-９0-9]+)$"=Tile Floor $1
+校内床=School Floor
+体育館床=Gym Floor
+r:"^砂地([０-９0-9]+)$"=Sand $1
+地面(土)=Dirt
+r:"^花壇([０-９0-9]+)$"=Flower Bed $1
+草原=Grass
+水面(海)=Ocean Surface
+水面(川)=River Surface
+// Patch 0629
+野原=Field
+// Patch 0727
+浜辺=Beach
+浜辺(砂)=Beach (All Sand)
+
+// Add -> Items -> Base -> Doors
+r:"^襖([０-９0-9]+)$"=Sliding Door $1
+ガラス入り障子=Glass-Paned Paper Door
+r:"^障子([０-９0-9]+)$"=Paper Door $1
+戸=Door
+r:"^トイレドア([０-９0-9]+)$"=Toilet Door $1
+シャワー室ドア=Shower Door
+
+// Add -> Items -> Base -> Walls
+r:"^石壁([０-９0-9]+)$"=Stone Wall $1
+石柱=Stone Pillar
+木柱=Wood Pillar
+木製壁=Wood Wall
+r:"^ブロック壁([０-９0-9]+)$"=Block Wall $1
+体育館壁=Gym Wall
+黒板=Blackboard
+窓=Window
+スクリーン=Screen
+
+// Add -> Items -> Base -> Stairs
+階段(木)=Wooden Stairs
+r:"^石階段([０-９0-9]+)$"=Stone Stairs $1
+
+// Add -> Items -> Base -> Installed Objects
+柵=Fence
+竹柵=Bamboo Fence
+金網フェンス=Chain-Link Fence
+木製コーナー=Wooden Cornerpost
+r:"^壁ボックス([０-９0-9]+)$"=Wall Box $1
+r:"^ホワイトボード([０-９0-9]+)$"=Whiteboard $1
+立て看板=Billboard
+注意看板=Caution Sign
+ししおどし=Shishi-odoshi
+r:"^岩([０-９0-9]+)$"=Rock $1
+鉄骨=Steel Beams
+ガードレール=Guardrail
+駐輪場屋根=Bicycle Parking
+渡り廊下=Passageway
+公衆電話=Payphone
+// Patch 0629
+街灯=Street Light
+//Bonfire
+焚火(大)=Bonfire (Large)
+切り株=Tree Stump
+
+// Add -> Items -> Base -> Structures
+r:"^ビル([０-９0-9]+)$"=Building $1
+公衆トイレ=Public Bathroom
+
+// Add -> Items -> Base -> Skies
+青空=Blue Sky
+夕空=Twilight Sky
+夜空=Night Sky
+
+// Add -> Items -> Base -> Image Board
+長方形=Rectangle
+
+
+//
+// Add -> Items -> Furniture
+//
+
+ベッド=Beds
+机=Desks
+椅子=Chairs
+棚=Shelves
+仕切り=Dividers
+水周り=Bathroom
+// Patch 0727
+サマー=Summer
+
+// Add -> Items -> Furniture -> Beds
+自室ベッド=Personal Bed
+保健室ベッド=School Bed
+布団=Futon
+
+// Add -> Items -> Furniture -> Desks
+r:"^机([０-９0-9]+)$"=Desk $1
+折り畳み用机=Folding Desk
+コーナー机=Corner Desk
+教壇=Teacher's Podium
+四角テーブル=Rectangular Table
+三角テーブル=Triangular Table
+長テーブル低=Short Long Table
+長テーブル高=Tall Long Table
+丸テーブル高=Tall Circular Table
+r:"^ちゃぶ台([０-９0-9]+)$"=Chabudai $1
+食堂テーブル=Dining Table
+食堂長テーブル=Long Dining Table
+ガラステーブル(四角)=Rectangular Glass Table
+ガラステーブル(円)=Circular Glass Table
+教室机=Classroom Desk
+教卓=Teacher's Desk
+
+// Add -> Items -> Furniture -> Chairs
+r:"^椅子([０-９0-9]+)$"=Chair $1
+r:"^食堂椅子([０-９0-9]+)$"=Dining Chair $1
+丸椅子=Stool
+木椅子=Wooden Chair
+r:"^パイプ椅子([０-９0-9]+)$"=Pipe Chair $1
+座椅子=Legless Chair
+r:"^長椅子([０-９0-9]+)$"=Gym Bench $1
+r:"^ソファ([０-９0-9]+)$"=Sofa $1
+r:"^豪華ソファ([０-９0-9]+)$"=Expensive Sofa $1
+r:"^ベンチ([０-９0-9]+)$"=Bench $1
+監視台=Judge's Chair
+r:"^和風長椅子([０-９0-9]+)$"=Japanese Chair $1
+教室椅子=Classroom Chair
+// Patch 0525
+丸椅子(高)=Stool (High)
+テラスチェアー=Terrace Chair
+
+// Add -> Items -> Furniture -> Shelves
+r:"^ロッカー([０-９0-9]+)$"=Locker $1
+r:"^壁棚([０-９0-9]+)$"=Wall Shelf $1
+r:"^小棚([０-９0-9]+)$"=Small Shelf $1
+r:"^事務棚([０-９0-9]+)$"=Office Shelf $1
+r:"^大棚([０-９0-9]+)$"=Large Shelf $1
+r:"^自室棚([０-９0-9]+)$"=Bedroom Shelf $1
+r:"^図書室棚([０-９0-9]+)$"=Library Shelf $1
+r:"^棚([０-９0-9]+)$"=Shelf $1
+
+// Add -> Items -> Furniture -> Dividers
+仕切りカーテン=Privacy Curtain
+r:"^カーテンレール([０-９0-9]+)$"=Curtain Rails $1
+r:"^カーテン([０-９0-9]+)$"=Curtain $1
+r:"^ブラインド([０-９0-9]+)$"=Blinds $1
+パーテーション=Partition
+r:"^シャワー室仕切り([０-９0-9]+)$"=Shower Divider $1
+r:"^トイレ仕切り([０-９0-9]+)$"=Toilet Divider $1
+
+// Add -> Items -> Furniture -> Bathroom
+r:"^便器([０-９0-9]+)$"=Toilet $1
+r:"^トイレットペーパー([０-９0-9]+)$"=Toiletpaper $1
+流し台=Washstand
+水道=Washbasin
+r:"^蛇口([０-９0-9]+)$"=Faucet $1
+シャワーノズル=Shower Nozzle
+シャワーノブ=Shower Knob
+r:"^洗面器([０-９0-9]+)$"=Sink $1
+
+// Add -> Items -> Furniture -> Summer
+ビーチチェア=Beach Chair
+ビーチパラソル=Beach Parasol
+木の椅子=Wooden Chair
+木の長椅子=Wooden Bench
+木の机=Wooden Desk
+木の箱=Wooden Box
+
+//
+// Add -> Items -> Objects
+//
+
+スポーツ=Sports
+植物=Plants
+置物=Ornaments
+その他=Miscellaneous
+// Patch 0727
+//Summer
+// Patch 1026
+ハロウィン=Halloween
+// Afterschool DLC
+アフタースクール=Afterschool
+// Patch 1221
+クリスマス=Christmas
+
+// Add -> Items -> Objects -> Sports
+バスケットゴール=Basketball Backboard
+平均台=Balance Beam
+ボール入れ=Ball Container
+r:"^マット([０-９0-9]+)$"=Mat $1
+r:"^跳び箱([０-９0-9]+)$"=Vaulting Horse $1
+踏切版=Starting Block
+得点台=Scoreboard
+r:"^ボール([０-９0-9]+)$"=Ball $1
+ハードル=Hurdle
+r:"^プールロープ([０-９0-9]+)$"=Pool Rope $1
+r:"^飛び込み台([０-９0-9]+)$"=Diving Board $1
+r:"^手すり([０-９0-9]+)$"=Handrail $1
+朝礼台=Morning Assembly Stand
+サッカーゴール=Soccer Goal
+ローラー=Roller
+ネット=Net
+
+// Add -> Items -> Objects -> Plants
+r:"^観葉植物([０-９0-9]+)$"=Decorative Plant $1
+r:"^生垣([０-９0-9]+)$"=Hedge $1
+カエデ=Maple Tree
+木=Tree
+
+// Add -> Items -> Objects -> Ornaments
+ポール=Pole
+野点傘=Open Umbrella
+ウサギの置物=Rabbit Ornament
+狸の置物=Tanuki Ornament
+木箱=Wooden Crate
+
+// Add -> Items -> Objects -> Miscellaneous
+三角木馬=Spanish Donkey
+木製拘束具=Pillory
+錘=Weighted Shackle
+
+// Add -> Items -> Objects -> Summer
+竹=Bamboo
+竹台=Bamboo Tower
+竹半分=Half Bamboo
+竹食器=Bamboo Tableware
+タライ=Washtub
+かき氷機=Shaved Ice Machine
+かき氷の旗=Shaved Ice Banner
+バナナボート=Banana Boat
+ボート=Boat
+オール=Oar
+カヌー=Canoe
+ビーチマット=Beach Mat
+シダ=Fern
+ヤシの木(直立)=Palm Tree (Upright)
+ヤシの木(彎曲)=Palm Tree (Curved)
+茂み=Thicket
+ひまわり=Sunflower
+消波ブロック=Wave-Breaking Block
+
+// Add -> Items -> Objects -> Halloween
+しゃれこうべ=Skull
+棺桶(箱)=Coffin
+棺桶(蓋)=Coffin Lid
+大鍋=Cauldron
+大きいお玉=Large Ladle
+コウモリのシルエット=Bat's Silhouette
+クモのシルエット=Spider's Silhouette
+ぺろぺろキャンディ=Large Lollipop
+あめ玉=Wrapped Candy
+カボチャ=Pumpkin
+カボチャ(顔)=Jack-o'-lantern
+カボチャ(入れ物)=Jack-o'-lantern (Bucket)
+スイカヘッド=Watermelon Head
+
+// Add -> Items -> Objects -> Afterschool
+パイプソファ=Pipe Sofa
+丸いガラステーブル=Round Glass Table
+丸いベッド=Round Bed
+丸い棚=Round Nightstand
+シックな棚=Chic Shelves
+装飾ランプ=Decorative Lamp
+大型テレビ=Big-Screen TV
+精算機=Ticket Adjustment Machine
+大きい照明スイッチ=Large Lighting Switchboard
+小型自動販売機=Small Vending Machine
+灰皿=Ashtray
+かご=Basket
+丸いステンドグラス=Circular Stained Glass
+r:"^ステンドグラス([０-９0-9]+)$"=Stained Glass $1
+太陽のステンドグラス=Sun Pattern Stained Glass
+r:"^教会の柱([０-９0-9]+)$"=Church Pillar $1
+装飾柵=Decorative Fence
+祭壇=Altar
+教会の椅子=Church Pew
+演説台=Lectern
+装飾花=Ornamental Flower
+透けた布=Transparent Cloth
+細い蝋燭=Slender Candle
+r:"^燭台([０-９0-9]+)$"=Candlestick $1
+丸いソファ=Round Ottoman
+個室のソファ=Bedroom Sofa
+個室のテーブル=Bedroom Table
+タンバリン=Tambourine
+マラカス=Maracas
+r:"^音楽機器([０-９0-9]+)$"=Karaoke Machine $1
+マイクスタンド=Microphone Stand
+マイク=Microphone
+r:"^充電器([０-９0-9]+)$"=Charging Dock $1
+監視カメラ=Surveillance Camera
+リールライト=Light Batten
+r:"^音響機器([０-９0-9]+)$"=Loudspeaker $1
+r:"^照明機器([０-９0-9]+)$"=Stage Lighting $1
+簡易鉄骨（大）=Simple Steel Truss (Large)
+簡易鉄骨（中）=Simple Steel Truss (Medium)
+簡易鉄骨（小）=Simple Steel Truss (Small)
+大型の台=Large Steel Tower
+誘導柵=Guardrail
+
+// Add -> Items -> Objects -> Christmas
+ソリ=Sleigh
+ゆきだるま=Snowman
+雪の結晶=Snowflake
+クリスマスケーキ=Christmas Cake
+クリスマスツリー=Christmas Tree
+プレゼント=Present
+こたつ=Kotatsu
+みかん=Mandarin Orange
+イルミネーション(電球)=Christmas Lights (String)
+イルミネーション(チューブ)=Christmas Lights (Tube)
+
+//
+// Add -> Items -> Objects -> Foodstuffs
+//
+
+飲み物=Drinks
+食べ物=Food
+
+// Add -> Items -> Objects -> Foodstuffs -> Drinks
+ドリンク缶=Drink Can
+ペットボトルのお茶=Plastic Tea Bottle
+ペットボトルの水=Plastic Water Bottle
+パックのお茶=Tea Box
+いちごみるく=Strawberry Milk
+牛乳コーヒー=Coffee With Milk Box
+バナナジュース=Banana Juice
+コーヒー=Cup Of Coffee
+受け皿=Drink Saucer
+抹茶ラテ=Green Tea Latte
+茶碗=Teacup
+茶筅=Tea Whisk
+紙コップ=Paper Cup
+// Patch 0727
+ビール=Beer Mug
+ラムネ瓶=Lemon Soda Bottle
+
+// Add -> Items -> Objects -> Foodstuffs -> Food
+r:"^弁当([０-９0-9]+)$"=Bento $1
+アイスクリーム=Ice Cream
+お茶菓子=Tea Cakes
+おにぎり=Rice Ball
+カツサンド=Pork Sandwich
+r:"^サンドイッチ([０-９0-9]+)$"=Sandwich $1
+r:"^メロンパン([０-９0-9]+)$"=Melon Bread $1
+パウンドケーキ=Pound Cake
+ごはん=Bowl Of Rice
+r:"^定食([０-９0-9]+)$"=Full Meal $1
+r:"^バナナ([０-９0-9]+)$"=Banana $1
+胡瓜=Cucumber
+魚肉ソーセージ=Fish Sausage
+// Patch 0727
+ソフトクリーム=Ice Cream Cone
+
+//
+// Add -> Items -> Objects -> Small Articles
+//
+
+日用品=Daily Life
+雑貨=General Goods
+電化製品=Appliances
+医療=Medical Care
+// Character Design Addon Pack Vol. 3 (add09)
+ファンタジー=Fantasy
+// Patch 0727
+//Summer
+
+// Add -> Items -> Objects -> Small Articles -> Daily Life
+ハンガー=Hanger
+包丁=Kitchen Knife
+スプーン=Spoon
+箸=Chopsticks
+シャーペン=Mechanical Pencil
+色ペン=Colored Pen
+鉛筆=Pencil
+消しゴム=Eraser
+r:"^ノート([０-９0-9]+)$"=Notebook $1
+ちりとり=Dustpan
+r:"^バケツ([０-９0-9]+)$"=Bucket $1
+雑巾=Dustcloth
+消火器=Fire Extinguisher
+手鏡=Hand Mirror
+r:"^踏み台([０-９0-9]+)$"=Stool $1
+すのこ=Slatted Wood
+r:"^カレンダー([０-９0-9]+)$"=Calendar $1
+本立て=Bookend
+r:"^本([０-９0-9]+)$"=Book $1
+本列=Row of Books
+r:"^見開き本([０-９0-9]+)$"=Opened Book $1
+テッシュ=Box Of Tissues
+r:"^ゴミ箱([０-９0-9]+)$"=Garbage Can $1
+r:"^ダンボール([０-９0-9]+)$"=Cardboard $1
+ツールボックス=Toolbox
+r:"^紙箱([０-９0-9]+)$"=Paper Box $1
+
+// Add -> Items -> Objects -> Small Articles -> General Goods
+うさぎの人形=Rabbit Doll
+ジト目うさぎ=Disgusted Rabbit
+額縁=Frame
+r:"^壁掛け([０-９0-9]+)$"=Wall Decoration $1
+バインダー=Binder
+デスクマット=Desk Mat
+黒板消し=Blackboard Eraser
+書類入れ=Document Holder
+r:"^掲載物([０-９0-9]+)$"=Notice $1
+漫研部チラシ=Manga Club Leaflet
+r:"^プラモデル([０-９0-9]+)$"=Plastic Model $1
+地球儀=Globe
+r:"^大型定規([０-９0-9]+)$"=Large Ruler $1
+コルクボード=Corkboard
+木製トンボ=Wooden Dragonfly
+カラーコーン=Safety Cone
+コーンバー=Cone Bar
+将棋盤=Shogi Board
+将棋駒入れ=Shogi Piece Container
+r:"^壺([０-９0-9]+)$"=Vase $1
+r:"^座布団([０-９0-9]+)$"=Zabuton $1
+r:"^掛け軸([０-９0-9]+)$"=Hanging Scroll $1
+r:"^陶器([０-９0-9]+)$"=Earthenware $1
+柄杓=Dipper
+釜=Kettle
+蝋燭=Candle
+タバコ=Cigarette
+マッサージオイル=Massage Oil
+乗馬鞭=Riding Crop
+
+// Add -> Items -> Objects -> Small Articles -> Appliances
+照明スイッチ=Light Switch
+r:"^時計([０-９0-9]+)$"=Clock $1
+エアコン=Air Conditioner
+イヤホン=Earbuds
+ゲームコントローラー=Game Controller
+マッサージ器=Vibrating Wand
+換気扇=Ventilation Fan
+サーキュレーター=Air Circulator
+レトロな扇風機=Retro Electric Fan
+冷蔵庫=Refrigerator
+電子レンジ=Microwave Oven
+ポット=Pot
+スマホ=Smartphone
+ノートＰＣ=Laptop
+プリンター=Printer
+コンポ=Compact Stereo
+r:"^テレビ([０-９0-9]+)$"=TV $1
+r:"^冷水器([０-９0-9]+)$"=Water Fountain $1
+r:"^自販機([０-９0-9]+)$"=Vending Machine $1
+教室スピーカー=Classroom Speaker
+コンセント=Electrical Socket
+r:"^たこ足配線([０-９0-9]+)$"=Power Strip $1
+r:"^コンセントコード([０-９0-9]+)$"=Electrical Cord $1
+
+// Add -> Items -> Objects -> Small Articles -> Medical Care
+身長計=Height Scale
+座高計=Seated Height Scale
+体重計=Weight Scale
+視力検査機=Eyesight Chart
+洗面器台=Washbowl Stand
+
+// Add -> Items -> Objects -> Small Articles -> Fantasy
+大砲=Cannon
+大砲(筒)=Cannon (Barrel)
+大砲(台)=Cannon (Stand)
+大砲(玉)=Cannonball
+爆弾=Bomb
+バリスタ=Ballista
+バリスタの槍=Ballista Javelin
+r:"^宝箱([０-９0-9]+)$"=Treasure Chest $1
+布袋=Cloth Bag
+コイン=Coin
+
+// Add -> Items -> Objects -> Small Articles -> Summer
+ビーチボール=Beach Ball
+提灯=Paper Lantern
+うちわ=Hand Fan
+ぶたの置物=Pig Ornament
+カブトムシ=Rhinoceros Beetle
+クワガタ=Stag Beetle
+虫かご(小)=Insect Cage (Small)
+虫かご(大)=Insect Cage (Large)
+水着=Swimsuit
+
+//
+// Add -> Items -> Character
+//
+
+髪=Hair
+頭=Head
+顔=Face
+首=Neck
+胴=Torso
+腰=Hips
+腕=Arms
+手=Hands
+// Character Design Addon Pack Vol. 2 (add08)
+メカ=Mecha
+// Character Design Addon Pack Vol. 3 (add09)
+//Fantasy
+// Patch 0525
+追加01=Additional 01
+// Patch 0629
+追加02=Additional 02
+// Patch 0727
+//Summer
+// Patch 1026
+//Halloween
+// Afterschool DLC
+//Afterschool
+// Patch 1221
+//Christmas
+// Emotion Creators Preorder DLC
+//EC
+// Koikatsu Darkness DLC (via Emotion Creators)
+ダークネス=Darkness
+
+// Add -> Items -> Character -> Hair
+蝶の髪飾り=Butterfly Ornament
+花=Flower
+花の髪飾り（揺れ）=Flower Ornament (Moves)
+ハイビスカス=Hibiscus
+牡丹の髪飾り=Tree Peony Ornament
+ヘアピン=Hairpin
+ハートのバレッタ=Heart Barette
+ハートの髪飾り=Heart Ornament
+髪留め=Barette
+安全ピン=Safety Pin
+大きなリボン=Large Ribbon
+r:"^細リボン([A-Z])$"=Fine Ribbon $1
+ドクロの髪飾り=Skull Ornament
+星のバレッタ=Star Barette
+星の髪飾り=Star Ornament
+クロスヘアピン=Cross Hairpin
+
+// Add -> Items -> Character -> Head
+r:"^あほ毛([A-Z])$"=Ahoge $1
+r:"^くるくるあほ毛([A-Z])$"=Curly Ahoge $1
+r:"^ギザギザあほ毛([A-Z])$"=Jagged Ahoge $1
+r:"^ちょびあほ毛([A-Z])$"=Tiny Ahoge $1
+r:"^ハートあほ毛([A-Z])$"=Heart Ahoge $1
+ベレー帽=Beret
+カラー帽子=Colored Hat
+鉢巻=Headband
+結びヘアバンド=Knotted Hairband
+ヘアバンド=Hairband
+密着型ヘッドホン=Snug Headphones
+ヘッドホン=Headphones
+麦わら帽子=Straw Hat
+サンバイザー=Sun Visor
+三角巾=Bandanna
+水泳キャップ=Swimming Cap
+リボン=Ribbon
+紐リボン=String Ribbon
+パーティーハット=Party Hat
+野球ヘルメット=Baseball Helmet
+王冠=Crown
+天使の輪=Angel Halo
+いぬの着ぐるみ頭=Dog Costume Head
+うさぎの着ぐるみ頭=Rabbit Costume Head
+めんだこ=Flapjack Octopus
+キツネ耳=Fox Ears
+きのこ=Mushroom
+猫のおもちゃ=Toy Cat
+うなぎ=Eel
+うさ耳バンド=Bunny Ears Hairband
+悪魔の角=Devil Horns
+羊の角=Sheep Horns
+牛の角=Cow Horns
+一角=Unicorn Horn
+// Character Design Addon Pack Vol. 1 (add06)
+鬼神の額当て(右)=Demon God's Brow Guard (Right)
+鬼神の額当て(左)=Demon God's Brow Guard (Left)
+
+// Add -> Items -> Character -> Face
+スクエア=Square Glasses
+ウェリントン=Wellington Glasses
+// This needs to get fixed by a label override, so for now, commented out, uses "Sports" label
+// from item category list earlier in the meanwhile
+// スポーツ=Sports Glasses
+オーバル=Oval Glasses
+ラウンド=Round Glasses
+シューティンググラス=Shooting Glasses
+アンダーリム(細)=Under Rim Glasses (Narrow)
+アンダーリム=Under Rim Glasses
+フレームレス=Frame Lenses
+水泳ゴーグル=Swimming Goggles
+丸瓶底眼鏡=Thick Circle Glasses
+眼帯右用=Left Eyepatch
+眼帯左用=Right Eyepatch
+プリーツマスク=Sickness Mask
+ダイア=Diamond
+r:"^ハート([A-Z])$"=Heart $1
+スペード=Spade
+クローバー=Club
+土星=Saturn Earring
+ムーン=Moon
+スター=Star
+ビッグスター=Big Star
+エンジェル=Angel
+ソードスカル=Sword And Skull
+ワンポイント=Starpoint Earring
+ハートインカム=Heart Headset
+トースト=Toast
+ピエロの鼻=Clown Nose
+ガラスの鼻=Glass Nose
+第三の目=Third Eye
+リング=Ring
+リングジュエル=Jeweled Ring
+
+// Add -> Items -> Character -> Neck
+マフラー=Muffler
+小悪魔チョーカー=Devil Choker
+蝶ネクタイ=Bow Tie
+首枷=Metal Collar
+ハートのペンダント=Heart Pendant
+首掛けメガホン=Hanging Megaphone
+一粒ペンダント=Starpoint Pendant
+リボンペンダント=Ribbon Pendant
+ロングネクタイ=Long Necktie
+リボンチョーカー=Ribbon Choker
+星のペンダント=Star Pendant
+土星のペンダント=Saturn Pendant
+聴診器=Stethoscope
+ホイッスル=Whistle
+// Character Design Addon Pack Vol. 1 (add06)
+鈴=Bell
+シデ=Shinto Paper Streamer
+鬼神のリボン=Demon God's Ribbon
+勾玉の首飾り=Magatama Amulet
+
+// Add -> Items -> Character -> Torso
+リュックサック=Backpack
+ギターケース=Guitar Case
+背負いカバン=Leather Backpack
+ポスターリュックサック=Backpack With Posters
+背負いボストン=Boston Bag
+天使の翼右用=Right Angel Wing
+天使の翼左用=Left Angel Wing
+小悪魔の翼右用=Right Devil Wing
+小悪魔の翼左用=Left Devil Wing
+悪魔の翼右用=Right Demon Wing
+悪魔の翼左用=Left Demon Wing
+
+// Add -> Items -> Character -> Hips
+小悪魔尻尾=Devil Tail
+悪魔尻尾=Demon Tail
+ウサギ尻尾=Rabbit Tail
+キツネ尻尾=Fox Tail
+エレキギター=Electric Guitar
+ベルト=Belt
+ウォレットチェーン=Wallet Chain
+腰巻カーディガン=Wrapped Cardigan
+テールリボン=Tail Ribbon
+エレガントリボン=Elegant Ribbon
+鬼神の腰当右用=Demon God's Hip Guard (Right)
+
+// Add -> Items -> Character -> Arms
+腕ベルト=Arm Belt
+メタルバングル=Metal Bangle
+ナイロンボストン=Nylon Boston Bag
+シュシュ=Scrunchie
+カフス=Cuffs
+// Character Design Addon Pack Vol. 1 (add06)
+くノ一肩当て=Kunoichi Shoulderpad
+巫女袖=Shrine Maiden Sleeve
+鬼神の肩当て=Demon God's Shoulderpad
+
+// Add -> Items -> Character -> Hands
+お金持ちの指輪=Diamond Ring
+食べかけアイスバー=Half-Eaten Popsicle
+傘=Umbrella
+番傘=Coarse Oilpaper Umbrella
+出席名簿=Attendance List
+ステージマイク=Stage Microphone
+ポンポン=Pom-Pom
+テニスラケット=Tennis Racket
+指示棒=Guide Rod
+テニスボール=Tennis Ball
+クリップ=Clip
+洗濯ばさみ=Clothespin
+持ち看板=Handheld Sign
+コントローラー=Controller
+
+// Add -> Items -> Character -> Mecha
+艦艇の模型=War Fleet Model
+魚雷発射管の模型=Torpedo Tube Model
+2連装砲台の模型=Twin Gun Mount Model
+r:"^メカ装甲([０-９0-9]+)$"=Mecha Armor $1
+メカ装甲６×３=Mecha Armor ６×３
+r:"^メカアンテナ([０-９0-9]+)$"=Mecha Antenna $1
+メカショルダー=Mecha Shoulder
+メカウィング=Mecha Wing
+メカウイングⅡ=Mecha Wing Ⅱ
+メカシールド=Mecha Shield
+メカシールドⅡ=Mecha Shield Ⅱ
+メカブースター=Mecha Booster
+メカブースターⅡ=Mecha Booster Ⅱ
+メカサークル=Mecha Circle
+メカボックス=Mecha Box
+メカポッド=Mecha Pod
+メカデルタ=Mecha Delta
+メカチューブ=Mecha Tube
+メカポール=Mecha Pole
+メカビームポール=Mecha Beam Pole
+メカシザー=Mecha Scissors
+メカドリル=Mecha Drill
+メカバイザー=Mecha Visor
+メカバイザーⅡ=Mecha Visor Ⅱ
+メカゴーグル=Mecha Goggles
+メカボール=Mecha Ball
+メカヘアー=Mecha Hair
+メカレシーバー=Mecha Receiver
+メカタイ=Mecha Tie
+メカループ=Mecha Loop
+メカアンプ=Mecha Amplifier
+メカウィングリング=Mecha Winged Ring
+
+// Add -> Items -> Character -> Fantasy
+ナイトバイザー=Knight Visor
+鎧兜=Armored Helmet
+鎧肩当て=Armored Shoulderpad
+騎士の肩当て=Knight's Shoulderpad
+騎士の腰当=Knight's Hip Armor
+アーマープレート=Armor Plate
+タングルショルダー=Tangle Shoulderpad
+羽の髪飾り左用=Left Hair Feather
+羽の髪飾り右用=Right Hair Feather
+ロイヤルクラウン=Royal Crown
+ロイヤルリボン=Royal Ribbon
+毛玉=Furball
+
+// Add -> Items -> Character -> Additional 01
+玉飾り=New Year Ornament
+メカハンド握り右用=Mecha Right Fist
+メカハンド握り左用=Mecha Left Fist
+メカハンド開き右用=Mecha Right Open Hand
+メカハンド開き左用=Mecha Left Open Hand
+メカフット=Mecha Foot
+
+// Add -> Items -> Character -> Additional 02
+野球バット=Baseball Bat
+ヘルメット=Baseball Helmet
+つば広帽子=Wide-Brimmed Cap
+雫=Drop Earring
+3ポイント=Three-Jewel Necklace
+オーバル腕時計=Oval Wristwatch
+
+// Add -> Items -> Character -> Summer
+ウクレレ=Ukelele
+扇子(開)=Folding Fan (Open)
+扇子(閉)=Folding Fan (Closed)
+虫取りあみ=Bug-Catching Net
+水風船(無地)=Water Balloon (Plain)
+水風船(柄)=Water Balloon (Patterned)
+プラバケツ=Plastic Bucket
+スコップ=Scoop
+くまで=Rake
+サーフボード=Surfboard
+カニ=Crab
+貝殻=Seashell
+ヒトデ=Starfish
+水鉄砲=Water Gun
+//Patch 0831 (studio11)
+サイドドレープ=Side Drapes
+浮き輪=Swimming Ring
+浮き輪(ドーナツ)=Swimming Ring (Donut)
+浮き輪(猫)=Swimming Ring (Cat)
+
+// Add -> Items -> Character -> Halloween
+ハロウィンブルーム=Halloween Broom
+ハロウィンゴースト=Halloween Ghost
+パンプキンクラウン=Pumpkin Crown
+ハロウィンリボン=Halloween Ribbon
+
+// Add -> Items -> Character -> Afterschool
+ウェディング雫=Wedding Earring
+婚約指輪=Engagement Ring
+結婚指輪（女）=Wedding Ring (Women)
+結婚指輪（男）=Wedding Ring (Men)
+ブライダルブーケ=Bridal Bouquet
+ウェディングティアラ=Wedding Tiara
+ウェディングヴェール=Wedding Veil
+フォーマルリボン=Bow Tie
+ネームプレート=Nameplate
+//Slider // Should really be "Zipper" - needs override
+ウェディングチョーカー=Wedding Choker
+ウェディングバッスル=Wedding Bustle
+ウェディングリボン=Wedding Ribbon
+r:"^付け毛([０-９0-9][０-９0-9]+)$"=Hairpiece $1
+
+// Add -> Items -> Character -> Christmas
+雪の結晶(キャラ)=Snowflake (Character)
+雪の結晶ステッキ=Snowflake Wand
+サンタ帽子=Santa Hat
+クリスマスリボン=Christmas Ribbon
+
+// Emotion Creators Preorder Bonus
+// Add -> Items -> Character -> EC
+シトリースカーフ=Sitri's Scarf
+シトリータイ=Sitri's Tie
+コンシェルジュハット=Concierge Hat
+芭蕉扇=Folding Fan
+ぼんぼりピアス=Paper Lamp Earring
+
+// Koikatsu Darkness DLC (via Emotion Creators)
+// Add -> Items -> Character -> Darkness
+メカトライニードル=Mecha Tri-Needle
+メカライオン=Mecha Lion
+メカホイール=Mecha Wheel
+メカアーマー=Mecha Armor
+メカシールドⅢ=Mecha Shield Ⅲ
+
+//
+// Add -> Items -> H-Items
+//
+
+おもちゃ=Sex Toys
+
+// Add -> Items -> H-Items -> Sex Toys
+アナルバイブ=Anal Vibrator
+アナルバイブ(長)=Anal Vibrator (Long)
+バイブ=Vibrating Dildo
+ディルド=Dildo
+オナホ=Onahole
+ローター=Rotor
+ギャグボール=Ballgag
+棘ボール=Prickle Ball
+// Afterschool DLC
+すけべいす=Open-Bottomed Stool
+コンドーム=Wrapped Condom
+
+//
+// Add -> Items -> 2D Effects
+//
+
+吹き出し=Speech Balloons
+画面効果=Scene Effects
+
+// Add -> Items -> 2D Effects -> Speech Balloons
+// Thanks for doing #1 as a fullwidth numeral and everything else as halfwidth, Illusion
+// At least you didn't mix up the parentheses unlike in the general/chara model items
+r:"^丸吹き出し([０-９0-9]+)左$"=Oval $1 Left
+r:"^丸吹き出し([０-９0-9]+)左\\(影あり\\)$"=Oval $1 Left (Shadowed)
+r:"^丸吹き出し([０-９0-9]+)右$"=Oval $1 Right
+r:"^丸吹き出し([０-９0-9]+)右\\(影あり\\)$"=Oval $1 Right (Shadowed)
+r:"^角吹き出し([０-９0-9]+)左$"=Angular $1 Left
+r:"^角吹き出し([０-９0-9]+)左\\(影あり\\)$"=Angular $1 Left (Shadowed)
+r:"^角吹き出し([０-９0-9]+)右$"=Angular $1 Right
+r:"^角吹き出し([０-９0-9]+)右\\(影あり\\)$"=Angular $1 Right (Shadowed)
+r:"^四角吹き出し([０-９0-9]+)左$"=Rectangular $1 Left
+r:"^四角吹き出し([０-９0-9]+)左\\(影あり\\)$"=Rectangular $1 Left (Shadowed)
+r:"^四角吹き出し([０-９0-9]+)右$"=Rectangular $1 Right
+r:"^四角吹き出し([０-９0-9]+)右\\(影あり\\)$"=Rectangular $1 Right (Shadowed)
+r:"^正円吹き出し([０-９0-9]+)左$"=Circular $1 Left
+r:"^正円吹き出し([０-９0-9]+)左\\(影あり\\)$"=Circular $1 Left (Shadowed)
+r:"^正円吹き出し([０-９0-9]+)右$"=Circular $1 Right
+r:"^正円吹き出し([０-９0-9]+)右\\(影あり\\)$"=Circular $1 Right (Shadowed)
+r:"^雲吹き出し([０-９0-9]+)左$"=Cloud $1 Left
+r:"^雲吹き出し([０-９0-9]+)左\\(影あり\\)$"=Cloud $1 Left (Shadowed)
+r:"^雲吹き出し([０-９0-9]+)右$"=Cloud $1 Right
+r:"^雲吹き出し([０-９0-9]+)右\\(影あり\\)$"=Cloud $1 Right (Shadowed)
+r:"^雷吹き出し([０-９0-9]+)左$"=Lightning $1 Left
+r:"^雷吹き出し([０-９0-9]+)左\\(影あり\\)$"=Lightning $1 Left (Shadowed)
+r:"^雷吹き出し([０-９0-9]+)右$"=Lightning $1 Right
+r:"^雷吹き出し([０-９0-9]+)右\\(影あり\\)$"=Lightning $1 Right (Shadowed)
+回想吹き出し１左=Thinking １ Left
+回想吹き出し１左(影あり)=Thinking １ Left (Shadowed)
+回想吹き出し１右=Thinking １ Right
+回想吹き出し１右(影あり)=Thinking １ Right (Shadowed)
+楕円吹き出し１左=Ellipse １ Left
+// Illusion buggered the first kanji in the next four - should be 楕, but it's 惰)
+// If they'd done it properly, the line above would've been RegEx'd, but since not, it's static
+// Ellipse 2+ Left onwards use halfwidth numerals as well
+r:"^惰円吹き出し([０-９0-9]+)左$"=Ellipse $1 Left
+r:"^惰円吹き出し([０-９0-9]+)左\\(影あり\\)$"=Ellipse $1 Left (Shadowed)
+r:"^惰円吹き出し([０-９0-9]+)右$"=Ellipse $1 Right
+r:"^惰円吹き出し([０-９0-9]+)右\\(影あり\\)$"=Ellipse $1 Right (Shadowed)
+棘吹き出し１左=Shocked 1 Left
+棘吹き出し１左(影あり)=Shocked 1 Left (Shadowed)
+棘吹き出し１右=Shocked 1 Right
+棘吹き出し１右(影あり)=Shocked 1 Right (Shadowed)
+r:"^先なし吹き出し\\(楕円([０-９0-9]+)\\)$"=No Tip (Ellipse $1)
+先なし吹き出し(角)=No Tip (Angular)
+r:"^先なし吹き出し\\(四角([０-９0-9]+)\\)$"=No Tip (Rectangular $1)
+先なし吹き出し(正円)=No Tip (Circular)
+先なし吹き出し(雲)=No Tip (Cloud)
+r:"^吹き出し先([０-９0-9]+)$"=Tip $1
+// These got added somewhere...
+r:"^色影\\(四角([０-９0-9]+)\\)$"=Colored Shadow (Square $1)
+
+// Add -> Items -> 2D Effects -> Scene Effects
+集中線=Focal Lines
+丸影=Circular Shadow
+// Lens Flares C-G were added in Patch 0525, A/B are base game
+r:"^レンズフレア([A-Z])$"=Lens Flare $1
+// Patch 0727
+色影=Colored Shadow
+
+//
+// Add -> Items -> Gimmicks
+//
+
+obj有り=With Objects
+obj無し=Without Objects
+
+// Add -> Items -> Gimmicks -> With Objects
+回転=Rotator
+//10°, 30°, and 45° were added in Patch 0525, 60/180 are base game
+r:"^関節([０-９0-9]+)$"=$1° Joint
+ピストン=Piston
+吊りパイプ柔らか=Flexible Hanging Pipe
+吊りパイプ固い=Stiff Hanging Pipe
+吊りボール柔らか=Flexible Hanging Ball
+吊りボール固い=Stiff Hanging Ball
+吊りパイプ柔らか(長=Flexible Hanging Pipe (Long)
+吊りパイプ固い(長=Stiff Hanging Pipe (Long)
+吊りボール柔らか(長=Flexible Hanging Ball (Long)
+吊りボール固い(長=Stiff Hanging Ball (Long)
+// Character Design Addon Pack Vol. 3 (add09)
+r:"^投げ([０-９0-9]+)$"=Pitch $1
+// Patch 0525
+r:"^関節([０-９0-9]+)$"=$1° Joint
+// Patch 0629
+r:"^関節([０-９0-9]+)_Bタイプ$"=$1° Joint Type B
+
+// Add -> Items -> Gimmicks -> Without Objects
+回転（obj無し）=Rotator (Without Object)
+ピストン（obj無し）=Piston (Without Object)
+振動（obj無し）=Shaker (Without Object)
+浮遊（obj無し）=Floater (Without Object)
+// 10°, 30°, and 45° were added in Patch 0525, 60/180 are base game
+r:"^回転([０-９0-9]+)（obj無し）$"=$1° Rotator (Without Object)
+r:"^バウンド([０-９0-9]+)（obj無し）$"=Bound $1 (Without Object)
+// Character Design Addon Pack Vol. 3 (add09)
+r:"^投げ([０-９0-9]+)（obj無し）$"=Pitch $1 (Without Object)
+// Patch 0629
+r:"^回転([０-９0-9]+)_Bタイプ（obj無し）$"=$1° Rotator Type B (Without Object)
+
+//
+// Add -> Items -> 3D SFX
+//
+
+環境音=Environment
+
+// Add -> Items -> 3D SFX -> Environment
+回転音=Rotation
+雨音=Rain
+バイブ音=Vibrator
+デンマ音=Electric Wand
+水流=Water Flowing
+水流(激)=Water Flowing (Strong)
+犬の鳴き声=Dog Barking
+鳥のさえずり=Birds Chirping
+風=Wind
+木々のざわめき=Leaves Rustling
+電話のコール音=Telephone Ringing
+夏の夕暮れ=Summer Twilight Chirping
+//Ventilation Fan
+虫の声=Crickets Chirping
+焚火=Bonfire
+
+// Add -> Items -> 3D SFX -> Personalities
+r:"^喘ぎ([０-９0-9]+)$"=Panting $1
+r:"^フェラ([０-９0-9]+)$"=Blowjob $1
+
+//
+// Add -> Items -> Weapons
+//
+
+コイカツ=Koikatsu
+// Character Design Addon Pack Vol. 3 (add09)
+//Fantasy
+
+// Add -> Items -> Weapons -> Koikatsu
+矢=Arrow
+弓=Bow
+弓袋=Bow Bag
+小悪魔フォーク=Devil Pitchfork
+小悪魔フォーク(小)=Devil Pitchfork (Small)
+刀=Sword
+刀の鞘=Sword Scabbard
+竹刀=Bamboo Sword
+// Character Design Addon Pack Vol. 1 (add06)
+鞘小太刀=Sheathed Short Sword
+小太刀=Short Sword
+// Character Design Addon Pack Vol. 1 (add06)
+2連鞘刀=Twin Sheathed Swords
+白木拵え刀=Wooden Sword
+白木拵えの納刀=Sheathed Wooden Sword
+白木拵えの鞘=Wooden Sword Sheath
+鬼神の金棒=Demon God's Iron Club
+
+// Add -> Items -> Weapons -> Fantasy
+ロングソード=Longsword
+ロングソードの鞘=Longsword Sheath
+バックラー=Shield
+ルーンソード=Runesword
+ルーンシールド=Rune Shield
+ウォーハンマー=Warhammer
+ハルバード=Halberd
+クレイモア=Claymore
+ダガー=Dagger
+ロングボウ=Longbow
+古式ライフル銃=Flintlock Rifle
+古式銃=Flintlock Pistol
+魔法の書=Grimoire
+騎士のレイピア=Knight's Rapier
+騎士のレイピア(鞘)=Knight's Rapier (Sheath)
+// Patch 0525
+エンシェントロッド=Ancient Rod
+
+//
+// Add -> Items -> Effects
+//
+
+固定エフェクト=Fixed Effects
+パーティクル=Particles
+
+// Add -> Items -> Effects -> Fixed Effects
+波動・円=Energy Wave (Circle)
+波動・柱=Energy Wave (Pillar)
+波動・斬=Energy Wave (Arc)
+液溜まり=Semen Puddle
+液体A=Semen Drip
+液体B=Semen Spurt
+// Character Design Addon Pack Vol. 2
+ビーム・扇=Energy Beam (Folding Fan)
+ビーム・剣=Energy Beam (Sword)
+バリア・円(緑)=Spherical Energy Barrier (Green)
+バリア・円(赤)=Spherical Energy Barrier (Red)
+バリア・四角(緑)=Cubic Energy Barrier (Green)
+バリア・四角(赤)=Cubic Energy Barrier (Red)
+バリア・ピラミッド(緑)=Pyramidal Energy Barrier (Green)
+バリア・ピラミッド(赤)=Pyramidal Energy Barrier (Red)
+// Character Design Addon Pack Vol. 3 (add09)
+魔法陣=Magic Circle
+r:"^溶解粘液([０-９0-9]+)$"=Dissolving Liquids $1
+
+// Add -> Items -> Effects -> Particles
+滝=Waterfall
+液体=Urine
+濃い液体（弱）=Female Ejaculate (Weak)
+濃い液体（中）=Female Ejaculate (Average)
+濃い液体（強）=Female Ejaculate (Strong)
+シャワー（弱）=Shower (Weak)
+シャワー（強）=Shower (Strong)
+// Patch 0525
+バブルシャワー=Shower Bubbles
+火=Fire
+火の玉=Ball Of Fire
+動く波動=Energy Waves
+キラキラ=Sparkles
+放電=Electrical Discharge
+マズルフラッシュ=Muzzle Flashes
+// These got added somewhere...
+闇=Darkness
+火炎=Flames
+土煙=Dust Clouds
+光の軌跡=Point of Light
+光の閃光=Flashes of Light
+光の粉=Sparkles of Light
+
+//
+// Add -> Items -> Glow
+//
+
+照明=Illumination
+//Mecha
+
+// Add -> Items -> Glow -> Illumination
+r:"^電気照明([０-９0-9]+)$"=Electric Light $1
+r:"^電気照明\\(和\\)([０-９0-9]+)$"=Soft Electric Light $1
+r:"^電気スタンド([０-９0-9]+)$"=Floor Lamp $1
+r:"^非常灯([０-９0-9]+)$"=Emergency Light $1
+
+// Add -> Items -> Glow -> Illumination -> Anim Settings
+発光色=Light Color
+発光の強さ=Light Strength
+
+// Add -> Items -> Glow -> Mecha
+r:"^シンプルコア([０-９0-9]+)$"=Simple Core $1
+電球=Light Bulb
+電球(細)=Light Bulb (Cylinder)
+球体=Orb
+円柱(細)=Rod
+円柱=Disc
+円柱(溝あり)=Disc (Grooved)
+輪=Hoop
+//Ring
+リング(細)=Thin Ring
+ペンライト=Penlight
+
+// Add -> Items -> FK Items
+//General
+// This needs to get fixed by a label override
+//H-Items
+// Koikatsu Darkness DLC (via Emotion Creators)
+ヒューマンFK=Human FK
+
+// Add -> Items -> FK Items -> General
+FK関節=FK Joint
+FK軸=FK Shaft
+r:"^FK先端([０-９0-9]+)$"=FK Tip $1
+r:"^土台([０-９0-9]+)$"=Base $1
+
+// Add -> Items -> FK Items -> H-Items
+r:"^FK触手([０-９0-9]+)$"=FK Tentacle $1
+r:"^FKアナルビーズ([０-９0-9]+)$"=FK Anal Beads $1
+
+// Add -> Items -> FK Items -> Human FK
+モブ=Mob
+
+//
+// Add -> Map
+//
+
+なし=None
+自室=Bedroom
+1F=1st Floor
+2F=2nd Floor
+3F=3rd Floor
+r:"^教室([０-９0-9]+)-([０-９0-9]+)$"=Classroom $1-$2
+1F女子トイレ=1st Floor Girls' Bathroom
+2F女子トイレ=2nd Floor Girls' Bathroom
+3F女子トイレ=3rd Floor Girls' Bathroom
+職員室=Staff Room
+職員トイレ(男)=Staff Bathroom (Males)
+保健室=School Infirmary
+図書室=Library
+部室=Club Room
+漫研=Manga Club
+和室=Japanese-style Room
+体育倉庫=Gym Storehouse
+体育館=Gymnasium
+中庭=Courtyard
+グラウンド=Sports Ground
+屋上=Rooftop
+プール=Pool
+食堂=Cafeteria
+シャワールーム=Shower Room
+ロッカールーム=Locker Room
+裏庭=Rear Garden
+ライブステージ=Live Concert Stage
+体育館ライブ=Live Gymnasium Concert
+女子トイレ個室=Single Girl's Toilet
+シャワールーム個室=Single Shower Stall
+ロッカールーム個室=Single Locker Area
+空き部室=Unused Clubroom
+空き教室=Unused Classroom
+// Afterschool DLC
+ラブホテル=Love Hotel
+カラオケ=Karaoke Room
+教会=Church
+満員電車=Crowded Train
+電車=Train
+公園=Park
+// Koikatsu Darkness DLC (via Emotion Creators)
+備品倉庫=Equipment Storehouse
+
+//
+// Add -> Map Lights
+//
+
+全体光=Entire Map
+ポイントライト=Point Light
+スポットライト=Spotlight
+
+//
+// Background
+// These are based on filenames in the system itself
+// The "None" is just here for completeness' sake
+//
+
+//None
+
+//
+// Frame
+// These are based on filenames in the system itself
+// The "None" is just here for completeness' sake
+//
+
+//None
+
+//
+// Animation Menu
+//
+
+状態=Current State
+キネマ=Kinematics
+アニメ=Animations
+ボイス=Voice
+衣装=Clothing
+関節補正=Joint Adjustment
+
+//
+// Animation Menu -> Current State
+//
+
+服装=Clothing Menu
+タイプ=Type
+一括=Set All
+
+// Animation Menu -> Current State -> Clothing Settings
+トップ=Top
+ボトム=Bottom
+ブラ=Bra
+ショーツ=Underwear
+パンスト=Pantyhose
+手袋=Gloves
+靴下=Legwear
+靴 =Shoes
+
+// Animation Menu -> Current State -> Accessories
+r:"^スロ([０-９0-9][０-９0-9]+)$"=Slot $1
+
+// or if you have Studio Accesory Names plugin you need these 2
+r:"^スロット([０-９0-9][０-９0-9]+)$"=Slot $1
+sr:"^(?<slot_num_i>[０-９0-9]{2})\s+(?<accessory>\S.*)$"=${slot_num_i} ${accessory}
+
+// Animation Menu -> Current State -> Fluids
+顔=Face
+胸=Chest
+背中=Back
+腹=Stomach
+お尻=Butt
+
+// Animation Menu -> Current State -> Miscellaneous
+涙Lv=Tears Level
+頬赤=Face Flushing
+乳首=Nipple Stiffness
+男根=Penis
+男根サイズ=Penis Size
+
+// Animation Menu -> Current State -> Males Only
+単色化=Monocolor
+カラー=Color
+
+//
+// Animation Menu -> Kinematics
+//
+
+FK=FK
+IK=IK
+視線=Gaze
+首操作=Head Operation
+眉・目・口=Brows / Eyes / Mouth
+手=Hands
+ポーズ=Pose
+
+// Animation Menu -> Kinematics -> Kinematics General
+機能=Active
+表示=Display
+サイズ=Size
+
+// Animation Menu -> Kinematics -> Forward Kinematics
+髪=Hair
+首=Neck
+胸=Chest
+体=Body
+右手=Right Hand
+左手=Left Hand
+スカート=Skirt
+
+// Animation Menu -> Kinematics -> Inverse Kinematics
+一括=Set All
+体=Body
+右手=Right Hand
+左手=Left Hand
+右足=Right Foot
+左足=Left Foot
+
+// Animation Menu -> Kinematics -> Eyebrows / Eyes / Mouth
+種類=Pattern
+開き=Openness
+瞬き=Blinking
+口パク=Lip-Sync
+
+// Animation Menu -> Kinematics -> Eyebrows / Eyes / Mouth -> Display Types
+コンフィグ依存=From Config
+//General
+最前面=Frontmost
+
+// Animation Menu -> Kinematics -> Pose
+NoName=No Name
+
+//
+// Animation Menu -> Character Animation
+//
+
+キャラ=Character
+スタジオ=Studio
+H愛撫=H-Caressing
+女H奉仕=Girl Service
+男H奉仕=Male Service
+女H挿入=Girl Insertion
+男H挿入=Male Insertion
+H特殊=Special H
+// Character Design Addon Pack Vol. 3 (add09)
+バトル=Battle
+// Patch 0525
+レズ=Lesbian
+// Patch 0727
+アウトドア=Outdoors
+//Summer
+// Afterschool DLC
+H女複数=Multi-Girl H
+//Afterschool
+
+// Animation Controller
+
+速度=Speed
+パターン=Pattern
+r:"^補助([０-９0-9]+)$"=Extra $1
+付属アイテム表示=Show Attached Items
+強制ループ=Force Looping
+アニメーション操作=Animation Management
+
+//
+// Animation Menu -> Character Animation -> Character
+//
+
+基本=Basic
+ポーズ=Pose
+感情=Emotions
+歩く・走る=Walking & Running
+立ち=Standing
+会話=Conversation
+//Chairs
+椅子・机=Sitting At Desk
+床=Sitting On Floor
+食べる=Eating
+アクション=Action
+リアクション=Reaction
+寝=Laying
+ライブ=Live Concert
+男=Male
+// Patch 0525
+追加1=Additional 1
+
+// Animation Menu -> Character Animation -> Character -> Basic
+初期ポーズ=T-Pose
+r:"^立ち([０-９0-9]+)$"=Basic $1
+
+// Animation Menu -> Character Animation -> Character -> Pose
+r:"^ポーズ([０-９0-9]+)$"=Pose $1
+
+// Animation Menu -> Character Animation -> Character -> Emotions
+r:"^喜([０-９0-9]+)$"=Happy $1
+r:"^怒([０-９0-9]+)$"=Angry $1
+r:"^哀([０-９0-9]+)$"=Sad $1
+r:"^驚恥他([０-９0-9]+)$"=Surprise/Shame/Etc. $1
+
+// Animation Menu -> Character Animation -> Character -> Walking & Running
+r:"^歩く([０-９0-9]+)$"=Walking $1
+r:"^走る([０-９0-9]+)$"=Running $1
+
+// Animation Menu -> Character Animation -> Character -> Standing
+//Idle 1
+//Idle 2
+//Idle 3
+本を探す=Searching For Book
+本を見る=Looking At Book
+スマホを眺める=Looking At Smartphone
+フリック操作=Swiping Smartphone Screen
+音楽を聴く=Listening To Music
+自撮り待機=Preparing For Selfie
+自撮り=Taking Selfie
+飲む待機=About To Drink
+飲む=Drinking
+外を眺める=Looking Outside
+伸び=Stretching
+髪を直す=Fixing Hair
+容姿を確認する=Examining Self
+チラシを配る=Distributing Leaflets
+箒持ち待機=About To Sweep
+掃く=Sweeping
+箒持ち待機さぼり=Idling On Broom
+机を拭く=Wiping Desk
+窓を拭く=Wiping Window
+r:"^壁立ち([０-９0-9]+)$"=Leaning On Wall $1
+
+// Animation Menu -> Character Animation -> Character -> Conversation
+r:"^待機([０-９0-9]+)$"=Idle $1
+r:"^話す([０-９0-9]+)$"=Talking $1
+
+// Animation Menu -> Character Animation -> Character -> Chairs
+待機=Idle
+r:"^本を読む([０-９0-9]+)$"=Reading Book $1
+//Looking At Smartphone
+//Swiping Smartphone Screen
+ゲームをする=Playing Game
+//Listening To Music
+//About To Drink
+//Drinking
+//Stretching
+//Fixing Hair
+片足上げ抱え=Leg Tucked In Arm
+r:"^足を組み待機([０-９0-9]+)$"=Crosslegged $1
+r:"^足を組み換える([０-９0-9]+)$"=Switching Legs $1
+ソファーでまったり=Relaxing On Sofa
+
+// Animation Menu -> Character Animation -> Character -> Sitting At Desk
+r:"^本を読む待機([０-９0-9]+)$"=About To Read Book $1
+r:"^姿勢を変える([０-９0-9]+)$"=Changing Posture $1
+勉強をする待機=About To Study
+勉強をする=Studying
+絵を描く待機=About to Draw
+絵を描く=Drawing
+//Looking At Smartphone
+//Swiping Smartphone Screen
+//Listening To Music
+//About To Drink
+//Drinking
+容姿を確認する待機=About To Examine Self
+//Examining Self
+横座り=Legs To Side
+机に座る=Sitting On Desk
+机によりかかる=Leaning On Desk
+寝たふり=Pretending To Sleep
+
+// Animation Menu -> Character Animation -> Character -> Sitting On Floor
+r:"^しゃがみ([０-９0-9]+)$"=Squatting $1
+正座=Sitting Seiza
+お茶をたてる待機=About To Perform Tea Ceremony
+お茶をたてる=Performing Tea Ceremony
+お茶を飲む待機=About To Drink Tea
+お茶を飲む=Drinking Tea
+女の子座り=Girly Sitting
+お姉さん座り=Onee-san Sitting
+
+// Animation Menu -> Character Animation -> Character -> Eating
+// A is fullwidth, B/C are halfwidth, Illusion gonna Illusion
+r:"^食事([Ａ-ＺA-Z][０-９0-9]+)$"=Eating $1
+
+// Animation Menu -> Character Animation -> Character -> Action
+くしゃみ=Sneezing
+あくび=Yawning
+暑がる=Hot
+手を振る=Waving
+リップクリームを塗る待機=About To Use Lip Balm
+リップクリームを塗る=Using Lip Balm
+ポスターを貼る=Putting Up Poster
+チアダンス待機=About To Cheer
+r:"^チアダンス練習([０-９0-9]+)$"=Cheerleader Practice $1
+ダンス練習待機=About To Practice Dancing
+ダンス練習=Practicing Dancing
+// Stretching - Earlier versions
+r:"^ストレッチ([０-９0-9]+)$"=Stretching $1
+// Stretching - Later versions
+r:"^ストレッチ([０-９0-9]+)$"=Stretching $1
+クロールで泳ぐ=Swimming Front Crawl
+r:"^プール座り([０-９0-9]+)$"=Sitting Poolside $1
+
+// Animation Menu -> Character Animation -> Character -> Reaction
+r:"^恥ずかしがる([０-９0-9]+)$"=Embarrassed $1
+顔を見られ隠す=Hiding Face From View
+胸を見られ恥ずかしがる=Hiding Chest From Embarrassment
+r:"^胸を触られ隠す([０-９0-9]+)$"=Covering Chest From Touch $1
+頬を触られ嫌がられる=Hating Face Being Touched
+手を触れられ恥ずかしがる=Embarrassed From Hand Touch
+手を触れられ嫌がられる=Hating Hand Being Touched
+隠す=Covering Self Up
+隠すループ=Covering Self Up Loop
+
+// Animation Menu -> Character Animation -> Character -> Laying
+寝返り待機=About To Turn Over
+寝返り=Turning Over
+//Laying
+机で寝る=Sleeping At Desk
+椅子で寝る=Sleeping In Chair
+r:"^ベンチで寝る([０-９0-9]+)$"=Sleeping On Bench $1
+r:"^添い寝([０-９0-9]+)$"=Sleeping Together $1
+
+// Animation Menu -> Character Animation -> Character -> Live Concert
+r:"^シーン([０-９0-9]+)$"=Scene $1
+フル=Loop
+
+// Animation Menu -> Character Animation -> Character -> Male
+//Idle
+歩く=Walking
+走り=Running
+しゃがみ=Taking A Knee
+しゃがみ歩き=Crouch-Walking
+話す=Talking
+呼び出し=Calling Someone
+//Reading Book 1
+//Reading Book 2
+パタパタ=Flapping
+スクワット=Squatting
+しんきゃく=Stretching
+シャドーボクシング=Shadowboxing
+腰振り=Shaking Hips
+//Studying
+// This might need a label override - conflicts with character maker
+座り=Sitting
+
+// Animation Menu -> Character Animation -> Character -> Additional 1
+r:"^立ちポーズ([０-９0-9]+)$"=Standing Pose $1
+r:"^座り([０-９0-9]+)$"=Sitting $1
+r:"^寝([０-９0-9]+)$"=Laying $1
+
+//
+// Animation Menu -> Character Animation -> Studio
+//
+
+ダンス=Dancing
+和=Calm
+// Character Design Addon Pack Vol. 2
+//Mecha
+//Fantasy
+// Patch 0525
+グラビア=Gravure
+// Patch 0629
+休日=Vacation
+// Patch 1026
+//Halloween
+// Patch 1221
+//Christmas
+
+// Animation Menu -> Character Animation -> Studio -> Dancing
+ポールダンス=Pole Dance
+// Character Design Addon Pack Vol. 2
+r:"^ダンス([０-９0-9]+)$"=Dance $1
+
+// Animation Menu -> Character Animation -> Studio -> Gravure
+// WHY DID THEY SWITCH TO FULLWIDTH HERE, FUCK
+r:"^立ち([０-９0-9]+)$"=Standing $1
+中腰１=Kneeling １
+中腰２=Kneeling ２
+中腰３=Squatting １
+中腰４=Kneeling ３
+中腰５=Bridging １
+中腰６=Hands & Knees １
+中腰７=Hands & Knees ２
+r:"^座り([０-９0-9]+)$"=Sitting $1
+r:"^寝([０-９0-9]+)$"=Laying $1
+r:"^椅子([０-９0-9]+)$"=Seated $1
+
+// Animation Menu -> Character Animation -> Studio -> Vacation
+//Basic 1
+//Basic 2
+//Basic 3
+//Basic 4
+//Basic 5
+//Basic 6
+//Basic 7
+//Basic 8
+//Basic 9
+//Basic 10
+//Basic 11
+//Basic 12
+//Basic 13
+//Sitting 1
+//Sitting 2
+//Sitting 3
+//Sitting 4
+//Sitting 5
+//Sitting 6
+//Sitting 7
+スイング=Swinging Bat
+orz=orz
+
+// Animation Menu -> Character Animation -> Studio -> Halloween
+//Pose 1
+//Pose 2
+//Pose 3
+//Animations - Cauldron Stirring, needs override
+
+// Animation Menu -> Character Animation -> Studio -> Christmas
+//Pose 1
+//Pose 2
+
+//
+// Animation Menu -> Character Animation -> H-Caressing
+//
+
+//Standing
+仰向け=Looking Upward
+四つん這い=Hands & Knees
+椅子座り=Sitting In Chair
+椅子バック=Doggystyle Against Chair
+机バック=Doggystyle Against Desk
+壁バック=Doggystyle Against Wall
+机座り=Sitting Om Desk
+机しゃがみ=Squatting On Desk
+本棚=At Bookshelves
+いたずら=Molesting
+
+// Animation Menu -> Character Animation -> H-Caressing -> Poses
+//Idle
+胸反応開始=Initial Breast Touch
+胸触り待機=About To Grope Breasts
+股間反応開始=Initial Crotch Touch
+股間触り待機=About To Grope Crotch
+尻反応開始=Initial Butt Touch
+尻触り待機=About To Grope Butt
+キス反応開始=Initial Kiss Reaction
+キス反応ループ=Kissing Reaction Loop
+前嫌がりループ=Before Dislike Loop
+後嫌がりループ=After Dislike Loop
+絶頂開始=About To Climax
+絶頂ループ=Climax Loop
+事後=Afterglow
+
+//
+// Animation Menu -> Character Animation -> Service
+//
+
+前待機=About To Begin
+亀頭いじり=Glans Rubbing
+片手コキ=One-Hand Handjob
+両手コキ=Two-Hand Handjob
+先舐め＋竿舐め=Tip & Shaft Licking
+片手フェラ=One-Hand Blowjob
+両手フェラ=Two-Hand Blowjob
+パイズリ=Paizuri
+腕はさみパイズリ=Hand-Assisted Paizuri
+押し付けパイズリ=Pressed Paizuri
+パイズリ+咥え=Paizuri & Sucking
+椅子亀頭いじり=Seated Glans Rubbing
+椅子片手コキ=Seated One-Hand Handjob
+椅子先舐め＋竿舐め=Seated Tip & Shaft Licking
+椅子ノーハンド先舐め=Seated No-Hand Tip Licking
+椅子両手フェラ=Seated Two-Hand Blowjob
+椅子パイズリ=Seated Paizuri
+椅子腕はさみパイズリ=Seated Hand-Assisted Paizuri
+椅子パイズリ+舐め=Seated Paizuri & Licking
+椅子パイズリ+咥え=Seated Paizuri & Sucking
+立ち亀頭いじり=Standing Glans Rubbing
+立ち片手コキ=Standing One-Hand Handjob
+立ち玉舐め手コキ=Standing Handjob & Ball Licking
+立ち手コキ玉いじり=Standing Handjob & Ballrub
+立ち片手フェラ=Standing One-Hand Blowjob
+立ち両手フェラ=Standing Two-Hand Blowjob
+立ちノーハンドフェラ=Standing No-Hand Blowjob
+立ちパイズリ=Standing Paizuri
+立ち腕はさみパイズリ=Standing Hand-Assisted Paizuri
+立ちパイズリ+咥え=Standing Paizuri & Sucking
+立ちオナホ手コキ=Standing Onahole Handjob
+プールパイズリ=Pool Paizuri
+// Patch 0727
+椅子またがりフェラ=Sitting Blowjob
+ベンチフェラ=Bench Blowjob
+// Afterschool DLC
+密着手コキ=Crowded Handjob
+
+// Animation Menu -> Character Animation -> Service -> Poses
+弱ループ=Slow Loop
+強ループ=Fast Loop
+絶頂前ループ=Before Climax Loop
+外出し開始=Come Outside Start
+外出しループ=Come Outside Loop
+外出し事後=Come Outside End
+中出し開始=Come Inside Start
+中出しループ=Come Inside Loop
+口内待機IN=Come In Mouth
+口内待機=Come In Mouth Idle
+のむIN=Start Swallowing
+のむ=Swallowing
+のむ事後=After Swallowing
+はくIN=Start Spitting Out
+はく=Spit Out
+はく事後=After Spitting Out
+
+//
+// Animation Menu -> Character Animation -> Insertion
+//
+
+正常位=Missionary
+開脚正常位=Holding Legs Missionary
+後背位=Doggystyle
+後背位アナル=Anal Doggystyle
+腕引っ張り後背位=Arm-Grab Doggystyle
+腕引っ張り後背位アナル=Arm-Grab Anal Doggystyle
+騎乗位=Cowgirl
+側位=Spooning
+立位=Standing
+駅弁=Ekiben
+椅子対面=Seated Facing
+椅子背面=Seated Spooning
+//Doggystyle Against Chair
+椅子バックアナル=Anal Doggystyle Against Seat
+腕引っ張り椅子バック=Arm-Grab Doggystyle Against Seat
+腕引っ張り椅子バックアナル=Arm-Grab Doggystyle Anal Against Seat
+机寝位=Laying On Desk
+//Doggystyle Against Desk
+机バックアナル=Anal Doggystyle Against Desk
+腕引っ張り机バック=Arm-Grab Doggystyle Against Desk
+腕引っ張り机バックアナル=Arm-Grab Doggystyle Anal Against Desk
+机側位=Laying On Desk
+壁対面片足上げ=Leg Lifted Facing Against Wall
+//Doggystyle Against Wall
+壁バックアナル=Anal Doggystyle Against Wall
+片足上げ壁バック=Leg Lifted Doggystyle Against Wall
+片足上げ壁バックアナル=Leg Lifted Anal Doggystyle Against Wall
+プールバック=Doggystyle In Pool
+フェンス後背位=Doggystyle Against Fence
+フェンス掴まり駅弁=Ekiben Grabbing Fence
+種付けプレス=Mating Press
+// Patch 0629
+マングリ正常位=Piledriver Missionary
+跳び箱バック=Vaulting Horse Doggystyle
+// Patch 0727
+寝バック=Lying Doggystyle
+ソファ騎乗位=Sofa Cowgirl
+// Emotion Creators Preorder DLC
+押し付けバック=Pressed From Behind
+
+// Animation Menu -> Character Animation -> Insertion -> Poses
+挿入前待機=About To Insert
+挿入=Insertion
+挿入待機=Inserted Loop
+//Slow Loop
+//Fast Loop
+//Before Climax Loop
+//Come Inside Start
+//Come Inside Loop
+女絶頂弱開始=Girl Weak Climax Start
+女絶頂弱ループ=Girl Weak Climax Loop
+同時絶頂弱開始=Mutual Weak Climax Start
+同時絶頂弱ループ=Mutual Weak Climax Loop
+絶頂弱事後=After Mutual Weak Climax
+女絶頂強開始=Girl Strong Climax Start
+女絶頂強ループ=Girl Strong Climax Loop
+同時絶頂強開始=Mutual Strong Climax Start
+同時絶頂強ループ=Mutual Strong Climax Loop
+絶頂強事後=After Mutual Strong Climax
+中出し事後=After Coming Inside
+//Come Outside Start
+//Come Outside Loop
+//Come Outside End
+抜く=Pulling Out
+汁垂れ=Dripping Juices
+
+//
+// Animation Menu -> Character Animation -> Special H
+//
+
+角オナニー=Masturbating Against Corner
+椅子オナニー=Masturbating In Chair
+立ちオナニー=Masturbating While Standing
+トイレ覗き=Toilet Peeping
+シャワー覗き=Shower Peeping
+// Patch 0629
+ハードルオナニー=Hurdle Masturbation
+
+// Animation Menu -> Character Animation -> Special H -> Poses
+//Slow Loop
+中ループ=Medium Loop
+//Fast Loop
+//Before Climax Loop
+絶頂=Climax
+絶頂事後=Climax End
+//Afterglow
+ループIN=Loop Start
+ループ=Loop
+ループOUT=Loop End
+
+// Animation Menu -> Character Animation -> Battle Categories
+女 カットイン=Female: Cut-In
+女 格闘A=Female: Fighting A
+女 格闘B=Female: Fighting B
+女 気弾=Female: Energy Bullet
+女 片手剣=Female: One-Handed Sword
+女 盾と剣=Female: Sword And Shield
+女 小太刀1=Female: Short Sword 1
+女 小太刀2=Female: Short Sword 2
+女 拳銃1=Female: Pistol 1
+女 拳銃2=Female: Pistol 2
+女 投擲=Female: Throwing
+女 魔法杖=Female: Magic Wand
+女 魔法本=Female: Grimoire
+女 両手剣=Female: Two-Handed Sword
+女 棒・槍=Female: Polearm / Spear
+女 槌・鎌=Female: Hammer / Sickle
+女 ライフル=Female: Rifle
+女 弓矢=Female: Bow And Arrow
+男 カットイン=Male: Cut-In
+男 格闘A=Male: Fighting A
+男 格闘B=Male: Fighting B
+男 気弾=Male: Energy Bullet
+男 片手剣=Male: One-Handed Sword
+男 盾と剣=Male: Sword And Shield
+男 小太刀1=Male: Short Sword 1
+男 小太刀2=Male: Short Sword 2
+男 拳銃1=Male: Pistol 1
+男 拳銃2=Male: Pistol 2
+男 投擲=Male: Throwing
+男 魔法杖=Male: Magic Wand
+男 魔法本=Male: Grimoire
+男 両手剣=Male: Two-Handed Sword
+男 棒・槍=Male: Polearm / Spear
+男 槌・鎌=Male: Hammer / Sickle
+男 ライフル=Male: Rifle
+男 弓矢=Male: Bow And Arrow
+
+// Animation Menu -> Character Animation -> Battle Poses -> Cut-In
+// Halfwidth letters, fullwidth numerals... of course.
+r:"^格闘([A-Z][０-９0-9]+)$"=Fighting $1
+r:"^気弾([０-９0-9]+)$"=Energy Bullet $1
+r:"^片手剣([０-９0-9]+)$"=One-Handed Sword $1
+r:"^盾と剣([０-９0-9]+)$"=Sword And Shield $1
+r:"^小太刀([０-９0-9]+)$"=Short Sword $1
+r:"^小太刀二刀([０-９0-9]+)$"=Twin Short Swords $1
+r:"^拳銃([０-９0-9]+)$"=Pistol $1
+r:"^二丁拳銃([０-９0-9]+)$"=Twin Pistols $1
+r:"^投擲([０-９0-9]+)$"=Throwing $1
+r:"^魔法杖([０-９0-9]+)$"=Magic Wand $1
+r:"^魔法本([０-９0-9]+)$"=Grimoire $1
+r:"^両手剣([０-９0-9]+)$"=Two-Handed Sword $1
+r:"^棒・槍([０-９0-9]+)$"=Polearm / Spear $1
+r:"^槌・鎌([０-９0-9]+)$"=Hammer / Sickle $1
+r:"^ライフル([０-９0-9]+)$"=Rifle $1
+r:"^弓矢([０-９0-9]+)$"=Bow And Arrow $1
+
+// Animation Menu -> Character Animation -> Battle Poses -> Battle Poses
+r:"^攻撃([０-９0-9]+)$"=Attack $1
+防御=Blocking
+倒れる=Knocked Down
+
+// Animation Menu -> Character Animation -> Lesbian
+r:"^具合わせ([A-Z])$"=Scissoring $1
+r:"^椅子クンニ([A-Z])$"=Seated Cunnilingus $1
+r:"^互い弄り([A-Z])$"=Mutual Groping $1
+
+// Animation Menu -> Character Animation -> Outdoors
+ストレッチ=Stretching
+動き回る=Moving Around
+ダイブ=Diving
+
+// Animation Menu -> Character Animation -> Outdoors -> Stretching Types
+//Stretching 1
+//Stretching 2
+//Stretching 3
+//Stretching 4
+
+// Animation Menu -> Character Animation -> Outdoors -> Moving Around Types
+r:"^動き回る([０-９0-9]+)$"=Moving Around $1
+
+// Animation Menu -> Character Animation -> Outdoors -> Diving Types
+r:"^ダイブ([０-９0-9]+)$"=Diving $1
+
+// Animation Menu -> Character Animation -> Summer
+//Pose
+//Action
+
+// Animation Menu -> Character Animation -> Summer -> Pose
+//Basic 1
+
+// Animation Menu -> Character Animation -> Summer -> Action
+r:"^ビーチボール([０-９0-9]+)$"=Beach Ball $1
+女 準備体操=Girl: Warm-Up Exercise
+女 水を掛ける=Girl: Splashing Water
+女 水を掛けられる=Girl: Splashed By Water
+男 準備体操=Boy: Warm-Up Exercise
+男 水を掛ける=Boy: Splashing Water
+男 水を掛けられる=Boy: Splashed By Water
+//Ukelele
+シューティング=Shooting Water Gun
+r:"^着替え([０-９0-9]+)$"=Changing $1
+
+// Animation Menu -> Character Animation -> Multi-Girl H
+男 Wフェラ=Boy: Double Blowjob
+女 WフェラA=Girl A: Double Blowjob
+女 WフェラB=Girl B: Double Blowjob
+男 騎乗位クンニ=Boy: Cowgirl Cunnilingus
+女 騎乗位クンニA=Girl A: Cowgirl Cunnilingus
+女 騎乗位クンニB=Girl B: Cowgirl Cunnilingus
+男 後背位手マン=Boy: Fingering From Behind
+女 後背位手マンA=Girl A: Fingering From Behind
+女 後背位手マンB=Girl B: Fingering From Behind
+
+// Animation Menu -> Character Animation -> Afterschool
+//Pose
+
+// Animation Menu -> Character Animation -> Afterschool -> Pose
+//Basic 1
+//Basic 2
+//Basic 3
+//Basic 4
+
+// Emotion Creators Preorder DLC
+// Animation Menu -> Character Animation -> EC
+//Pose
+
+// Animation Menu -> Character Animation -> EC -> Pose
+//Basic 1
+
+//
+// Animation Menu -> Character Animation -> Voice
+// A whole bunch of shit I'm just not ready to do yet...
+//
+
+// Animation Menu -> Character Animation -> Voice -> Situation
+汎用呼吸=Generic Breathing
+Ｈ呼吸愛撫不慣れ=Inexperienced H-Caress Breathing
+Ｈ呼吸奉仕不慣れ=Inexperienced H-Service Breathing
+Ｈ呼吸挿入不慣れ=Inexperienced H-Insertion Breathing
+Ｈ呼吸愛撫慣れ=Experienced H-Caress Breathing
+Ｈ呼吸奉仕慣れ=Experienced H-Service Breathing
+Ｈ呼吸挿入慣れ=Experienced H-Insertion Breathing
+Ｈ呼吸愛撫淫乱=Lewd H-Caress Breathing
+Ｈ呼吸奉仕淫乱=Lewd H-Service Breathing
+Ｈ呼吸挿入淫乱=Lewd H-Insertion Breathing
+
+// TO-DO: Add in alllllllllll of this voice shit after everything else that's remotely worthwhile is done.
+
+//
+// Animation Menu -> Character Animation -> Joint Adjustment
+//
+
+右腕=Right Forearm
+左腕=Left Forearm
+//Right Foot
+//Left Foot
+左前腕部=Left Forearm Group
+右前腕部=Right Forearm Group
+右太もも=Right Thigh
+左太もも=Left Thigh
+
+//
+// Animation Menu -> Item Animation
+//
+
+ライトの影響度=Light Influence
+r:"^カラー([０-９0-9]+)$"=Color $1
+影=Shadowing
+ラインの色=Line Color
+ラインの太さ=Line Thickness
+
+//
+// Sound Menu
+//
+
+BGM=Game BGM
+外部読込=Load External File
+
+// Sound Menu -> Game BGM
+タイトル=Title Screen
+マップ移動中=During Map Movement
+マップ夕方=Map In Evening
+カスタム=Customizer
+コミュニケーションモード=Communication Mode
+出会い=Encounter
+恋人と会話=Conversation With Lover
+怒り=Angry
+Hシーン(穏やか)=H-Scene (Gentle)
+Hシーン(Hなムード)=H-Scene (H-Mode)
+Hシーン(覗き)=H-Scene (Peeping)
+もの悲しい=Melancholy
+告白/回想=Confession / Reflection
+デート(ウキウキ)=Date (Cheerful)
+自宅(朝メニュー)=Home (Morning Menu)
+自宅(夜メニュー)=Home (Evening Menu)
+システムメニュー=System Menu
+//Club Room
+日常=Normal Day
+夕焼け=Evening
+思い出=Memories
+r:"^エンディング曲アレンジ([０-９0-9]+)$"=Ending Arrangement $1
+クールな女の子と会話=Conversation With Calm Girl
+元気な女の子と会話=Conversation With Energetic Girl
+朝の公園=Morning At The Park
+カフェ=Cafe
+システム画面=System Screen
+// Afterschool DLC
+青空アドベンチャー=Blue Sky Adventure
+RunningDreamer=Running Dreamer
+
+//
+// System Menu
+//
+
+コンフィグ=Config
+オプション=Options
+ロゴ=Logo
+キャラライト=Character Lighting
+//Scene Effects
+セーブ=Save
+ロード=Load
+初期化=Reset
+終了=Quit
+
+// System Menu -> Config
+背景色=Background Color
+モブの色=Mob Char. Color
+// For the picker
+モブ色=Mob Color
+マップ遮蔽処理=Do Map Shading
+// What the hell do these next two options do? They don't seem to change jack on characters.
+眉の最前面表示=Brows Through Hair
+目の最前面表示=Eyes Through Hair
+オーディオ設定=Audio Settings
+マスター音量=Master Volume
+ＢＧＭ=BGM
+効果音=SFX
+システム音=System
+環境音=Environment
+音声=Voices
+
+// System Menu -> Options
+カメラ設定=Camera Settings
+r:"^カメラ速度([A-Z])軸$"=Camera $1 Speed
+カメラ移動速度=Camera Movement Speed
+操作軸の設定=Axis Settings
+大きさ=Size
+速度(移動量)=Speed (Movement Rate)
+スナップ移動幅=Grid Snap Amount
+オブジェクトの設定=Object Settings
+追加位置=Spawn Location
+原点=Origin
+注視点=Crosshair
+表示タイプ=Display Type
+全表示=Show All
+選択表示=Selected
+追加時の自動表示=Automatically Show
+する=Yes
+しない=No
+追加時の自動選択=Automatically Select
+キャラFK設定=Character FK Settings
+カラー設定=Color Settings
+FKカラー 髪=FK Color: Hair
+FKカラー 首=FK Color: Head
+FKカラー 胸=FK Color: Chest
+FKカラー 体=FK Color: Body
+FKカラー 右手=FK Color: Right Hand
+FKカラー 左手=FK Color: Left Hand
+FKカラー スカート=FK Color: Skirt
+ラインの描画=Draw Lines
+アイテムFKのカラー設定=Item FK Color Settings
+FKカラー アイテム=FK Color: Items
+// Patch 0727
+ルートシステム=Route System
+ラインの幅=Line Width
+ポイントの上限=Show Endpoint
+あり=Show
+// Patch 0831?
+起動時シーンロード画面を開く=Open Scene Load Screen At Startup
+開く=Open
+開かない=Don't Open
+
+// System Menu -> Logo
+// Trivia: For awhile, this was the only part of the Studio an early version of the DynamicTranslation plugin could ever touch.
+デフォルト=Default
+illusion ロゴ 白=Illusion Logo (White)
+illusion ロゴ 黒=Illusion Logo (Black)
+illusion文字のみ 白=Word: Illusion (White)
+illusion文字のみ 黒=Word: Illusion (Black)
+キャラスタジオ 白=Character Studio (White)
+キャラスタジオ 黒=Character Studio (Black)
+キャラスタジオ ロゴ=Character Studio Logo
+キャラスタジオ文字のみ 白=Words: "Character Studio" (White)
+キャラスタジオ文字のみ 黒=Words: "Character Studio" (Black)
+
+// System Menu -> Character Lighting
+カラー=Color
+セルフシャドウ=Self-Shadowing
+強さ=Strength
+ライト縦=Vertical Light
+ライト横=Horizontal Light
+
+// System Menu -> Scene Effects
+カラーの調整=Color Adjustment
+色味=Shade
+画面の色味調整=Scene Shade Adjustment
+アンビエントオクルージョン=Ambient Occlusion
+描画=Display
+範囲=Intensity
+被写界深度=Depth Of Field
+焦点幅=Focus Distance
+絞り=Aperture
+ビネット=Vignette
+フォグ=Fog
+濃さ=Thickness
+開始距離=Starting Distance
+ブルーム=Bloom
+しきい値=Threshold Level
+光のぼかし=Light Gradation
+サンシャフト=Sunshafts
+しきい色=Threshold Color
+光の色=Light Color
+サンシャフト しきい色=Sunshafts: Threshold Color
+サンシャフト 光の色=Sunshafts: Light Color
+光源=Light Source
+影の表現=Shadow Type
+影の濃さ=Shadow Density
+アウトラインの濃さ=Outline Density
+アウトラインの幅=Outline Thickness
+全体の陰影の色=Overall Shadow Color
+
+// System Menu -> Scene Effects -> Color Adjustment -> Shade Dropdown List
+昼=Midday
+夕=Evening
+夜=Night
+//Live Concert Stage
+ビビッド=Vivid
+ノスタルジー=Nostalgia
+レトロ=Retro
+フラットカラー=Flat Color
+フォースカラー=False Color
+コミック=Comics
+モノクロ=Monochrome
+セピア=Sepia
+リバースモノクロ=Reverse Monochrome
+リバースカラー=Reverse Color
+レッドアクセント=Red Accents
+ブルーアクセント=Blue Accents
+グリーンアクセント=Green Accents
+
+// System Menu -> Scene Effects -> Light Source
+マップ依存=Map Dependent
+
+// System Menu -> Scene Effects -> Shadow Types
+浅いなめらか影=Slight, Smooth Shadows
+浅いくっきり影=Slight, Sharp Shadows
+深いなめらか影=Deep, Smooth Shadows
+深いくっきり影=Deep, Sharp Shadows
+境界線のある影=Boundary Line Shadows
+完全なめらか影=Perfect, Smooth Shadows
+影なし=No Shadows

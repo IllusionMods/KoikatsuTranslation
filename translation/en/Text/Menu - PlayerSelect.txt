@@ -1,0 +1,45 @@
+#set exe Koikatu,Koikatu VR,Koikatsu Party,Koikatsu Party VR
+#set level 8,9,14 // Needs to be active on Level 8 (Main Menu) and 9 (Config Menu), or a few things wig out (namely the default school text doesn't get replaced).
+
+//
+// Start Scenario Menu
+//
+
+プレイヤーを選択して下さい=Please Select a Player Character
+エンブレムを選択して下さい=Please Select an Emblem
+学園名を入力して下さい=Please Enter the School's Name
+
+// Blood Types
+r:"^([Ａ-Ｚ]+)型$"=Type $1
+
+// Date Conversion
+r:"^([０-９0-9]+)月([０-９0-9]+)日$"=$1/$2
+
+// Emblems
+なし=None
+赤と青=Red And Blue
+C=C
+H=H
+r:"^年数([IVXLCDM])$"=Year $1
+北=North
+北2=North 2
+南=South
+南2=South 2
+西=West
+西2=West 2
+東=East
+東2=East 2
+鷹=Falcon
+獅子=Lion
+くま=Bear
+鉄十字学園=Iron Cross Academy
+サイコうさぎ=Psycho Bunny
+r:"^番号([０-９0-9]+)$"=Number $1
+// Character Design Addon Pack Vol. 1 (add06)
+桔梗の紋(白)=Kikyou Crest (White)
+桔梗の紋(黒)=Kikyou Crest (Black)
+三つ巴(白)=Tomoe Triplet (White)
+三つ巴(黒)=Tomoe Triplet (Black)
+// Character Design Addon Pack Vol. 2 (add08)
+//CAUTION
+//DANGER
