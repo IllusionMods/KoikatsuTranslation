@@ -1,4 +1,4 @@
-#set EXE Koikatu
+#set exe Koikatu,Koikatu VR,Koikatsu Party,Koikatsu Party VR
 #set level 21,7
 
 // Reset Confirmation Pop-up

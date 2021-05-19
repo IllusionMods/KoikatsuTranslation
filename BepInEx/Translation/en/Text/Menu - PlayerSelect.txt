@@ -1,4 +1,4 @@
-#set EXE Koikatu
+#set exe Koikatu,Koikatu VR,Koikatsu Party,Koikatsu Party VR
 #set level 8,9,14 // Needs to be active on Level 8 (Main Menu) and 9 (Config Menu), or a few things wig out (namely the default school text doesn't get replaced).
 
 //

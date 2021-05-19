@@ -1,4 +1,4 @@
-#set exe Koikatu
+#set exe Koikatu,Koikatu VR,Koikatsu Party,Koikatsu Party VR
 #set level 2
 
 //
