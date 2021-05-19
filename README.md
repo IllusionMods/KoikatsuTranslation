@@ -130,48 +130,57 @@ Table with the localization of the translations for each part of the game:
 
 #### Personalities
 
-| ID | Name       | Eng Name           | Dialog (`adv/scenario/`) | Dialog (`communication/info_*/`) | Call Names (`etcetra/list/nickname/`) | H Lines (`h/list/*/`)     | Source                            |
-|----|------------|--------------------|--------------------------|----------------------------------|---------------------------------------|---------------------------|-----------------------------------|
-| 00 | セクシー系お姉さま  | Sexy               | `c00/*`                  | `*_00`                           | `c00`                                 | `personality_voice_c00_*` |                                   |
-| 01 | お嬢様        | Ojousama           | `c01/*`                  | `*_01`                           | `c01`                                 | `personality_voice_c01_*` |                                   |
-| 02 | タカビー       | Snobby             | `c02/*`                  | `*_02`                           | `c02`                                 | `personality_voice_c02_*` |                                   |
-| 03 | 小悪魔っ子      | Kouhai             | `c03/*`                  | `*_03`                           | `c03`                                 | `personality_voice_c03_*` |                                   |
-| 04 | ミステリアス     | Mysterious         | `c04/*`                  | `*_04`                           | `c04`                                 | `personality_voice_c04_*` |                                   |
-| 05 | 電波         | Weirdo             | `c05/*`                  | `*_05`                           | `c05`                                 | `personality_voice_c05_*` |                                   |
-| 06 | 大和撫子       | Yamamoto Nadeshiko | `c06/*`                  | `*_06`                           | `c06`                                 | `personality_voice_c06_*` |                                   |
-| 07 | ボーイッシュ     | Tomboy             | `c07/*`                  | `*_07`                           | `c07`                                 | `personality_voice_c07_*` |                                   |
-| 08 | 純粋無垢な子供    | Pure               | `c08/*`                  | `*_08`                           | `c08`                                 | `personality_voice_c08_*` |                                   |
-| 09 | アホの子       | Simple             | `c09/*`                  | `*_09`                           | `c09`                                 | `personality_voice_c09_*` |                                   |
-| 10 | 邪気眼        | Delusional         | `c10/*`                  | `*_10`                           | `c10`                                 | `personality_voice_c10_*` |                                   |
-| 11 | 母性的お姉さん    | Motherly           | `c11/*`                  | `*_11`                           | `c11`                                 | `personality_voice_c11_*` |                                   |
-| 12 | 姉御肌        | Big Sisterly       | `c12/*`                  | `*_12`                           | `c12`                                 | `personality_voice_c12_*` |                                   |
-| 13 | コギャル       | Gyaru              | `c13/*`                  | `*_13`                           | `c13`                                 | `personality_voice_c13_*` |                                   |
-| 14 | 不良少女       | Delinquent         | `c14/*`                  | `*_14`                           | `c14`                                 | `personality_voice_c14_*` |                                   |
-| 15 | 野生的        | Wild               | `c15/*`                  | `*_15`                           | `c15`                                 | `personality_voice_c15_*` |                                   |
-| 16 | 意識高いクールな女性 | Wannabe            | `c16/*`                  | `*_16`                           | `c16`                                 | `personality_voice_c16_*` |                                   |
-| 17 | ひねくれ       | Reluctant          | `c17/*`                  | `*_17`                           | `c17`                                 | `personality_voice_c17_*` |                                   |
-| 18 | 不幸少女       | Jinxed             | `c18/*`                  | `*_18`                           | `c18`                                 | `personality_voice_c18_*` |                                   |
-| 19 | 文学少女       | Bookish            | `c19/*`                  | `*_19`                           | `c19`                                 | `personality_voice_c19_*` |                                   |
-| 20 | モジモジ       | Timid              | `c20/*`                  | `*_20`                           | `c20`                                 | `personality_voice_c20_*` |                                   |
-| 21 | 正統派ヒロイン    | Typical Schoolgirl | `c21/*`                  | `*_21`                           | `c21`                                 | `personality_voice_c21_*` |                                   |
-| 22 | ミーハー       | Trendy             | `c22/*`                  | `*_22`                           | `c22`                                 | `personality_voice_c22_*` |                                   |
-| 23 | オタク女子      | Otaku              | `c23/*`                  | `*_23`                           | `c23`                                 | `personality_voice_c23_*` |                                   |
-| 24 | ヤンデレ       | Yandere            | `c24/*`                  | `*_24`                           | `c24`                                 | `personality_voice_c24_*` |                                   |
-| 25 | ダル         | Lazy               | `c25/*`                  | `*_25`                           | `c25`                                 | `personality_voice_c25_*` |                                   |
-| 26 | 無口         | Quiet              | `c26/*`                  | `*_26`                           | `c26`                                 | `personality_voice_c26_*` |                                   |
-| 27 | 意地っ張り      | Stubborn           | `c27/*`                  | `*_27`                           | `c27`                                 | `personality_voice_c27_*` |                                   |
-| 28 | ロリばばあ      | Old-Fashioned      | `c28/*`                  | `*_28`                           | `c28`                                 | `personality_voice_c28_*` |                                   |
-| 29 | 素直クール      | Humble             | `c29/*`                  | `*_29`                           | `c29`                                 | `personality_voice_c29_*` |                                   |
-| 30 | 気さく        | Friendly           | `c30/*`                  | `*_30`                           | `c30`                                 | `personality_voice_c30_*` | Free DLC                          |
-| 31 | 勝ち気        | Willful            | `c31/*`                  | `*_31`                           | `c31`                                 | `personality_voice_c31_*` | Personality Expansion DLC (07/27) |
-| 32 | 誠実         | Honest             | `c32/*`                  | `*_32`                           | `c32`                                 | `personality_voice_c32_*` | Personality Expansion DLC (07/27) |
-| 33 | 艶やか        | Glamorous          | `c33/*`                  | `*_33`                           | `c33`                                 | `personality_voice_c33_*` | Personality Expansion DLC (07/27) |
-| 34 | 帰国子女       | Returnee           | `c34/*`                  | `*_34`                           | `c34`                                 | `personality_voice_c34_*` | AfterSchool Expansion DLC (12/21) |
-| 35 | 方言娘        | Slangy             | `c35/*`                  | `*_35`                           | `c35`                                 | `personality_voice_c35_*` | AfterSchool Expansion DLC (12/21) |
-| 36 | Sッ気        | Sadistic           | `c36/*`                  | `*_36`                           | `c36`                                 | `personality_voice_c36_*` | AfterSchool Expansion DLC (12/21) |
-| 37 | 無感情        | Emotionless        | `c37/*`                  | `*_37`                           | `c37`                                 | `personality_voice_c37_*` | AfterSchool Expansion DLC (12/21) |
-| 38 | 几帳面        | Perfectionist      | `c38/*`                  | `*_38`                           | `c38`                                 | `personality_voice_c38_*` | Yoyaku Preorder Exclusive DLC     |
+| ID | Name       | Eng Name           | Source                            |
+|----|------------|--------------------|-----------------------------------|
+| 00 | セクシー系お姉さま  | Sexy               |                                   |
+| 01 | お嬢様        | Ojousama           |                                   |
+| 02 | タカビー       | Snobby             |                                   |
+| 03 | 小悪魔っ子      | Kouhai             |                                   |
+| 04 | ミステリアス     | Mysterious         |                                   |
+| 05 | 電波         | Weirdo             |                                   |
+| 06 | 大和撫子       | Yamamoto Nadeshiko |                                   |
+| 07 | ボーイッシュ     | Tomboy             |                                   |
+| 08 | 純粋無垢な子供    | Pure               |                                   |
+| 09 | アホの子       | Simple             |                                   |
+| 10 | 邪気眼        | Delusional         |                                   |
+| 11 | 母性的お姉さん    | Motherly           |                                   |
+| 12 | 姉御肌        | Big Sisterly       |                                   |
+| 13 | コギャル       | Gyaru              |                                   |
+| 14 | 不良少女       | Delinquent         |                                   |
+| 15 | 野生的        | Wild               |                                   |
+| 16 | 意識高いクールな女性 | Wannabe            |                                   |
+| 17 | ひねくれ       | Reluctant          |                                   |
+| 18 | 不幸少女       | Jinxed             |                                   |
+| 19 | 文学少女       | Bookish            |                                   |
+| 20 | モジモジ       | Timid              |                                   |
+| 21 | 正統派ヒロイン    | Typical Schoolgirl |                                   |
+| 22 | ミーハー       | Trendy             |                                   |
+| 23 | オタク女子      | Otaku              |                                   |
+| 24 | ヤンデレ       | Yandere            |                                   |
+| 25 | ダル         | Lazy               |                                   |
+| 26 | 無口         | Quiet              |                                   |
+| 27 | 意地っ張り      | Stubborn           |                                   |
+| 28 | ロリばばあ      | Old-Fashioned      |                                   |
+| 29 | 素直クール      | Humble             |                                   |
+| 30 | 気さく        | Friendly           | Free DLC                          |
+| 31 | 勝ち気        | Willful            | Personality Expansion DLC (07/27) |
+| 32 | 誠実         | Honest             | Personality Expansion DLC (07/27) |
+| 33 | 艶やか        | Glamorous          | Personality Expansion DLC (07/27) |
+| 34 | 帰国子女       | Returnee           | AfterSchool Expansion DLC (12/21) |
+| 35 | 方言娘        | Slangy             | AfterSchool Expansion DLC (12/21) |
+| 36 | Sッ気        | Sadistic           | AfterSchool Expansion DLC (12/21) |
+| 37 | 無感情        | Emotionless        | AfterSchool Expansion DLC (12/21) |
+| 38 | 几帳面        | Perfectionist      | Yoyaku Preorder Exclusive DLC     |
 
+
+#### Personality Asset Locations
+
+| Type       | Location (replace `##` with ID from table above) |
+|------------|--------------------------------------------------|
+| Dialog     | `adv/scenario/c##/*`                             |
+| Dialog     | `communication/info_*/*_##`                      |
+| Call Names | `etcetra/list/nickname/c##`                      |
+| H Lines    | `h/list/*/personality_voice_c38_*`               |
 
 ### Specialized translation lines
 
