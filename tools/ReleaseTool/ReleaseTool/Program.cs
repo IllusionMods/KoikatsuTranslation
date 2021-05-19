@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using ICSharpCode.SharpZipLib.Zip;
@@ -34,160 +35,219 @@ namespace ReleaseTool
 
         private static void Main(string[] args)
         {
-            if (args.Length != 1 || !Directory.Exists(args[0]))
-            {
-                ShowInvalidArgsError();
-            }
-            else
-            {
-                var root = new DirectoryInfo(args[0]);
-                var translationName = root.Name.Replace("-master", ""); //todo let user enter it
 
-                var translationDir = Path.Combine(root.FullName, "translation");
-                if (!Directory.Exists(translationDir))
+            try
+            {
+                if (args.Length != 1 || !Directory.Exists(args[0]))
                 {
                     ShowInvalidArgsError();
                 }
                 else
                 {
-                    Console.ForegroundColor = ConsoleColor.Yellow;
-                    Console.WriteLine("Beginning release creation!");
-                    Console.ForegroundColor = ConsoleColor.White;
+                    var root = new DirectoryInfo(args[0]);
+                    var translationName = root.Name.Replace("-master", ""); //todo let user enter it
 
-                    var programDir = Path.GetDirectoryName(typeof(ReleaseTool).Assembly.Location) ??
-                                     Environment.CurrentDirectory;
-
-                    var detailsPath = Path.Combine(programDir, "results.txt");
-
-                    var outputPath = Path.Combine(programDir, translationName + "_Release_" + DateTime.Now.ToString("yyyy-MM-dd") + ".zip");
-                    File.Delete(outputPath);
-                    using (var output = ZipFile.Create(outputPath))
+                    var translationDir = Path.Combine(root.FullName, "translation");
+                    if (!Directory.Exists(translationDir))
                     {
-                        Console.WriteLine("Writing the release to " + outputPath);
+                        ShowInvalidArgsError();
+                    }
+                    else
+                    {
+                        Console.ForegroundColor = ConsoleColor.Yellow;
+                        Console.WriteLine("Beginning release creation!");
+                        Console.ForegroundColor = ConsoleColor.White;
 
-                        output.BeginUpdate(new MemoryArchiveStorage(FileUpdateMode.Direct));
+                        var programDir = Path.GetDirectoryName(typeof(ReleaseTool).Assembly.Location) ??
+                                         Environment.CurrentDirectory;
 
-                        var readmePath = Path.Combine(root.FullName, "README.md");
-                        if (File.Exists(readmePath)) output.Add(readmePath, "README.md");
+                        var detailsPath = Path.Combine(programDir, "results.txt");
 
-                        var licensePath = Path.Combine(root.FullName, "LICENSE");
-                        if (File.Exists(licensePath)) output.Add(licensePath, "LICENSE");
+                        var outputPath = Path.Combine(programDir, translationName + "_Release_" + DateTime.Now.ToString("yyyy-MM-dd") + ".zip");
+                        File.Delete(outputPath);
 
-                        var configDir = Path.Combine(root.FullName, "config");
-                        if (Directory.Exists(configDir))
+                        using (var output = ZipFile.Create(outputPath))
                         {
-                            foreach (var file in Directory.GetFiles(configDir, "*", SearchOption.AllDirectories))
+                            void AddToZip(string filePath, string entryName)
                             {
-                                var entryName = Path.Combine("BepInEx", CleanPath(file.Substring(root.FullName.Length)));
-                                output.Add(file, entryName);
+                                Console.WriteLine("Adding file: " + entryName);
+                                output.Add(filePath, entryName);
                             }
-                        }
-                        else
-                        {
-                            Console.WriteLine("No config directory found, skipping adding AT config file");
-                        }
 
-                        var tlDir = Path.Combine(root.FullName, "Translation\\en");
+                            Console.WriteLine("Writing the release to " + outputPath);
 
-                        // Make a working copy
-                        Console.WriteLine("Creating a work copy of the translation files...");
-                        var copyDir = new DirectoryInfo(Path.Combine(Path.GetTempPath(), "releasetool_tl_temp"));
-                        if (copyDir.Exists) copyDir.Delete(true);
-                        CopyAll(new DirectoryInfo(tlDir), copyDir);
+                            output.BeginUpdate(new MemoryArchiveStorage(FileUpdateMode.Direct));
 
-                        Console.WriteLine("Cleaning untranslated lines and files...");
-                        _originalOut = Console.Out;
-                        Console.SetOut(new StreamWriter(detailsPath));
-                        // Clean up the copied files
-                        var result = CleanTranslations(copyDir);
-                        Console.Out.Flush();
-                        Console.SetOut(_originalOut);
+                            var readmePath = Path.Combine(root.FullName, "README.md");
+                            if (File.Exists(readmePath)) output.Add(readmePath, "README.md");
 
-                        // Use the cleaned up copy
-                        tlDir = copyDir.FullName;
+                            var licensePath = Path.Combine(root.FullName, "LICENSE");
+                            if (File.Exists(licensePath)) output.Add(licensePath, "LICENSE");
 
-                        Console.WriteLine("Writing cleaned translation files into archives...");
-
-                        var texDir = Path.Combine(tlDir, "Texture");
-                        if (Directory.Exists(texDir) && Directory.GetFiles(texDir, "*.png", SearchOption.AllDirectories).Any())
-                        {
-                            var texZipPath = Path.GetTempFileName();
-                            using (var texZipFile = ZipFile.Create(texZipPath))
+                            var configDir = Path.Combine(root.FullName, "config");
+                            if (Directory.Exists(configDir))
                             {
-                                texZipFile.BeginUpdate(new MemoryArchiveStorage(FileUpdateMode.Direct));
-
-                                foreach (var file in Directory.GetFiles(texDir, "*.png", SearchOption.AllDirectories))
+                                foreach (var file in Directory.GetFiles(configDir, "*", SearchOption.AllDirectories))
                                 {
-                                    var entryName = CleanPath(file.Substring(texDir.Length));
-                                    //Console.WriteLine("Adding texture to texture archive: " + entryName);
-                                    texZipFile.Add(file, entryName);
+                                    var entryName = Path.Combine("BepInEx", CleanPath(file.Substring(root.FullName.Length)));
+                                    AddToZip(file, entryName);
                                 }
-
-                                texZipFile.CommitUpdate();
                             }
-                            output.Add(texZipPath, "BepInEx\\Translation\\en\\Texture\\" + translationName + "_Textures.zip");
-                        }
-
-                        var assetDir = Path.Combine(tlDir, "RedirectedResources\\assets");
-                        if (Directory.Exists(assetDir) && Directory.GetFiles(assetDir, "*.txt", SearchOption.AllDirectories).Any())
-                        {
-                            var assZipPath = Path.GetTempFileName();
-                            using (var assZipFile = ZipFile.Create(assZipPath))
+                            else
                             {
-                                assZipFile.BeginUpdate(new MemoryArchiveStorage(FileUpdateMode.Direct));
-
-                                foreach (var file in Directory.GetFiles(assetDir, "*.txt", SearchOption.AllDirectories))
-                                {
-                                    var entryName = CleanPath(file.Substring(assetDir.Length));
-                                    //Console.WriteLine("Adding to redirected assets archive: " + entryName);
-                                    assZipFile.Add(file, entryName);
-                                }
-
-                                assZipFile.CommitUpdate();
+                                Console.WriteLine("No config directory found, skipping adding AT config file");
                             }
-                            output.Add(assZipPath, "BepInEx\\Translation\\en\\RedirectedResources\\assets\\" + translationName + "_Assets.zip");
-                        }
 
-                        var textDir = Path.Combine(tlDir, "Text");
-                        if (Directory.Exists(textDir) && Directory.GetFiles(textDir, "*.txt", SearchOption.AllDirectories).Any())
-                        {
-                            var textZipPath = Path.GetTempFileName();
-                            using (var textZipFile = ZipFile.Create(textZipPath))
+                            var userdataDir = Path.Combine(root.FullName, "UserData");
+                            if (Directory.Exists(userdataDir) && Directory.GetFiles(userdataDir, "*", SearchOption.AllDirectories).Any())
                             {
-                                textZipFile.BeginUpdate(new MemoryArchiveStorage(FileUpdateMode.Direct));
-
-                                foreach (var file in Directory.GetFiles(textDir, "*.txt", SearchOption.AllDirectories))
+                                foreach (var file in Directory.GetFiles(userdataDir, "*", SearchOption.AllDirectories))
                                 {
-                                    var entryName = CleanPath(file.Substring(textDir.Length));
-                                    //Console.WriteLine("Adding to redirected assets archive: " + entryName);
-                                    textZipFile.Add(file, entryName);
+                                    var entryName = CleanPath(file.Substring(root.FullName.Length));
+                                    AddToZip(file, entryName);
                                 }
-
-                                textZipFile.CommitUpdate();
                             }
-                            output.Add(textZipPath, "BepInEx\\Translation\\en\\Text\\" + translationName + "_Text.zip");
+
+                            var tlDir = Path.Combine(root.FullName, "Translation\\en");
+
+                            // Make a working copy
+                            Console.WriteLine("Creating a work copy of the translation files...");
+                            var copyDir = new DirectoryInfo(Path.Combine(GetTempPath(), "releasetool_tl_temp"));
+                            if (copyDir.Exists) copyDir.Delete(true);
+                            CopyAll(new DirectoryInfo(tlDir), copyDir);
+
+                            Console.WriteLine("Cleaning untranslated lines and files...");
+                            _originalOut = Console.Out;
+                            Console.SetOut(new StreamWriter(detailsPath));
+                            // Clean up the copied files
+                            var result = CleanTranslations(copyDir);
+                            Console.Out.Flush();
+                            Console.SetOut(_originalOut);
+
+                            // Use the cleaned up copy
+                            tlDir = copyDir.FullName;
+
+                            Console.WriteLine("Writing cleaned translation files into archives...");
+
+                            var texDir = Path.Combine(tlDir, "Texture");
+                            if (Directory.Exists(texDir))
+                            {
+                                foreach (var subTexDir in Directory.GetDirectories(texDir))
+                                {
+                                    if (!Directory.GetFiles(subTexDir, "*.png", SearchOption.AllDirectories).Any())
+                                        continue;
+
+                                    var texZipPath = GetTempFileName();
+                                    using (var texZipFile = ZipFile.Create(texZipPath))
+                                    {
+                                        texZipFile.BeginUpdate(new MemoryArchiveStorage(FileUpdateMode.Direct));
+
+                                        foreach (var file in Directory.GetFiles(subTexDir, "*.png", SearchOption.AllDirectories))
+                                        {
+                                            var entryName = CleanPath(file.Substring(subTexDir.Length));
+                                            //Console.WriteLine("Adding texture to texture archive: " + entryName);
+                                            texZipFile.Add(file, entryName);
+                                        }
+
+                                        texZipFile.CommitUpdate();
+                                    }
+                                    AddToZip(texZipPath, "BepInEx\\Translation\\en\\Texture\\" + Path.GetFileName(subTexDir) + ".zip");
+                                }
+                            }
+
+                            var assetDir = Path.Combine(tlDir, "RedirectedResources\\assets");
+                            if (Directory.Exists(assetDir) && Directory.GetFiles(assetDir, "*.txt", SearchOption.AllDirectories).Any())
+                            {
+                                var assZipPath = GetTempFileName();
+                                using (var assZipFile = ZipFile.Create(assZipPath))
+                                {
+                                    assZipFile.BeginUpdate(new MemoryArchiveStorage(FileUpdateMode.Direct));
+
+                                    foreach (var file in Directory.GetFiles(assetDir, "*.txt", SearchOption.AllDirectories))
+                                    {
+                                        var entryName = CleanPath(file.Substring(assetDir.Length));
+                                        //Console.WriteLine("Adding to redirected assets archive: " + entryName);
+                                        assZipFile.Add(file, entryName);
+                                    }
+
+                                    assZipFile.CommitUpdate();
+                                }
+                                AddToZip(assZipPath, "BepInEx\\Translation\\en\\RedirectedResources\\assets\\" + translationName + "_Assets.zip");
+                            }
+
+                            var textDir = Path.Combine(tlDir, "Text");
+                            if (Directory.Exists(textDir) && Directory.GetFiles(textDir, "*.txt", SearchOption.AllDirectories).Any())
+                            {
+                                var textZipPath = GetTempFileName();
+                                using (var textZipFile = ZipFile.Create(textZipPath))
+                                {
+                                    textZipFile.BeginUpdate(new MemoryArchiveStorage(FileUpdateMode.Direct));
+
+                                    foreach (var file in Directory.GetFiles(textDir, "*.txt", SearchOption.AllDirectories))
+                                    {
+                                        var entryName = CleanPath(file.Substring(textDir.Length));
+                                        //Console.WriteLine("Adding to redirected assets archive: " + entryName);
+                                        textZipFile.Add(file, entryName);
+                                    }
+
+                                    textZipFile.CommitUpdate();
+                                }
+                                AddToZip(textZipPath, "BepInEx\\Translation\\en\\Text\\" + translationName + "_Text.zip");
+                            }
+
+                            foreach (ZipEntry entry in output)
+                            {
+                                entry.CompressionMethod = CompressionMethod.Deflated;
+                            }
+
+                            Console.WriteLine("Compressing...");
+
+                            output.CommitUpdate();
+
+                            Console.ForegroundColor = ConsoleColor.Green;
+                            Console.WriteLine($"Creating release done, {result.GetPercent() * 100:F3}% completed.");
+                            Console.ForegroundColor = ConsoleColor.Gray;
+                            Console.WriteLine("Detailed results were saved to " + detailsPath);
+
+                            copyDir.Delete(true);
                         }
-
-                        foreach (ZipEntry entry in output)
-                        {
-                            entry.CompressionMethod = CompressionMethod.Deflated;
-                        }
-
-                        output.CommitUpdate();
-
-                        Console.ForegroundColor = ConsoleColor.Green;
-                        Console.WriteLine($"Creating release done, {result.GetPercent() * 100:F3}% completed.");
-                        Console.ForegroundColor = ConsoleColor.Gray;
-                        Console.WriteLine("Detailed results were saved to " + detailsPath);
-
-                        copyDir.Delete(true);
                     }
                 }
             }
+            catch (Exception e)
+            {
+                Console.ForegroundColor = ConsoleColor.Red;
+                Console.WriteLine("Aborting release creation because of an unexpected error: " + e.Message);
+            }
 
             Console.ForegroundColor = ConsoleColor.White;
-            Console.WriteLine("Press any key to exit...");
+
+            if (_toCleanup.Any())
+            {
+                Console.WriteLine("Cleaning up temporary files...");
+                foreach (var info in _toCleanup)
+                {
+                    try { info.Delete(); }
+                    catch { }
+                }
+            }
+
+            Console.WriteLine("Finished! Press any key to exit.");
             Console.ReadKey(true);
+        }
+
+        private static readonly List<FileSystemInfo> _toCleanup = new List<FileSystemInfo>();
+        private static string GetTempFileName()
+        {
+            var tempFileName = Path.GetTempFileName();
+            _toCleanup.Add(new FileInfo(tempFileName));
+            return tempFileName;
+        }
+        private static string GetTempPath()
+        {
+            var tempPath = Path.GetTempPath();
+            _toCleanup.Add(new DirectoryInfo(tempPath));
+            return tempPath;
         }
 
         private static void ShowInvalidArgsError()
