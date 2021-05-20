@@ -1,0 +1,101 @@
+#set exe Koikatu,Koikatu VR,Koikatsu Party,Koikatsu Party VR
+#set level 7,13 // 13 is the default class menu, 7 gets additively loaded when you transfer students in/out
+
+//
+// Classroom Edit Menu
+//
+
+// Top Right Menu
+ランダムキャラの検索方法=Random Character Source
+ネットワークから=Online
+キャラフォルダから=Character Folder
+情報確認=Show Info
+なし=None
+// These both need label overrides... badly. Abbreviating is okay I guess, but bleh.
+愛称=Nick.
+性格=Pers.
+最大登校人数=Max. Students
+クラスの登録人数を最大にする=Maximize Class Registration
+
+// Amount of Attending Students
+r:"^([０-９0-9]+)\s*人$"=$1
+
+// Right Side Buttons
+転入=Register
+転校=Transfer
+ランダム=Random
+//Nickname
+キャラ編集=Edit Char.
+対象=Target
+全体=Every Class
+クラス=This Class
+空席ランダム=Fill Empty
+// Older Versions
+空席全ランダム=Fill Empty
+全て空席にする=Empty All
+転校させますか？=Transfer to a different school?
+全キャラを転校させますか？=Transfer everyone to a different school?
+クラス内のキャラを転校させますか？=Transfer this class to a different school?
+
+// Traits
+頻尿=Pees Often
+チョロイ=Simple
+読書好き=Likes Reading
+受け身=Passive
+怠惰=Lazy
+運動好き=Likes Exercising
+はらぺこ=Hungry
+ビッチ=Slutty
+音楽好き=Likes Music
+フレンドリー=Friendly
+神出鬼没=Suddenly Appears
+真面目=Diligent
+鈍感=Insensitive
+むっつり=Gloomy
+活発=Lively
+綺麗好き=Likes Cleanliness
+一人好き=Likes Being Alone
+// Character Design Addon Pack Vol. 4 (add10)
+女の子好き=Likes Girls
+// Button to enable all traits
+全選択=All
+// Button to disable all traits
+全解除=None
+
+
+// Ai's seat
+この席には既に女の子が座っています=A girl already sits in this seat.
+
+// Character Selection
+キャラ一覧=Character List
+部活と性格=Club/Pers.
+名前=Name
+日付=Date
+部活=Club
+//Pers.
+
+// Blood Types
+r:"^([Ａ-Ｚ]+)型$"=Type $1
+
+// Date Conversion
+r:"^([０-９0-9]+)月([０-９0-9]+)日$"=$1/$2
+
+//
+// Story Characters Section
+//
+
+// Tried doing this with a sideloader mod, but the game just doesn't accept it that way.
+// Sorry, guys.
+
+リナ ロベール=Lina Roberts
+橋本 麗奈=Hashimoto Reina
+櫻井 野乃花=Sakurai Nonoka
+姫川 舞=Himekawa Mai
+柊 このみ=Hiiragi Konomi
+結城 桜=Yuuki Sakura
+水瀬 亜依=Minase Ai
+
+// Teacher "Clubs"
+養護教諭=School Nurse
+数学教師=Math Teacher
+語学教師(担任)=Lang. Teacher (Homeroom)

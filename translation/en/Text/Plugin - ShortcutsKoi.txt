@@ -1,0 +1,169 @@
+//Main Menu
+キャラメイク補助=Chara Maker Assist
+メニュー=Menu
+ライト=Lighting
+カメラ=Camera
+オブジェクト操作=Object Operation
+エフェクト=Effect
+マルチカメラ=Multi Camera
+ラノベ=Novel
+ポーズ=Pose
+設定=Settings
+閉じる=Close
+最大化=Maximize
+最小化=Minimize
+ウィンドウ幅の調整=Adjust Window Width
+Window幅=Window Width
+サブメニューを閉じる=Close Submenu
+スピードコントロール=Speed Controller
+スロー=Slow
+スロースライダー=Slow Slider
+早送り=Fast Forward
+早送りスライダー=Fast Forward Slider
+インフォメーション=Information
+デフォルト設定=Default Configuration
+カメラデータ初期化=Initialize Camera Data
+
+//Light Menu
+標準ライト=Standard Lighting
+追加ライト=Additional Lights
+テカリ調整=Lock Adjustment
+調整=Adjustment
+影のバイアス=Shadow Bias
+影の強さ=Shadow Strength
+ライトの追加=Additional Lighting
+追加ライト一覧=Additional Light List
+キャラライト=Character Lighting
+ライト名=Light Name
+コメント=Comment
+ライト削除=Delete Light
+ライトレンダモード=Light Render Mode
+Cube表示=Cube Display
+ライト種類=Light Type
+カラー=Color
+赤=Red
+緑=Green
+青=Blue
+明るさ=Brightness
+照射範囲=Exposure Range
+照射角度=Exposure Angle
+カメラ座標にライトを移動=Move light to camera coordinates
+ライトをキャラに向ける=Point light to character
+座標=Coordinates
+回転=Rotation
+ハード=Hard
+ソフト=Soft
+なし=None
+この項目はマップが読み込まれないと機能しません。=This will not work unless a map is loaded.
+マップ非表示でスタジオりたい場合は、一度マップを読み込んで「マップ表示切替」でマップを非表示にしてからお楽しみ下さ～い=If you want the map hidden, load a map and use 「Map Display Toggle」 to hide the map
+
+
+//Camera Menu
+メインカメラ操作=Main Camera Operation
+アイテムをカメラモニタに=Camera to Monitor Item
+カメラが見つからねぇ！=Camera could not be found!
+カメラにする=Make Camera
+スクリーン化する=Convert to Screen
+選択中のカメラ：=Selected Camera:
+カメラリストの更新=Update Camera List
+カメラ詳細情報=Detailed Camera Information
+Trueにする=Set True
+Falseにする=Set False
+背景設定=Background Settings
+Webカメラの設定=Webcam Settings
+Webカメラ未接続=Webcam not connected
+Webカメラの選択\n接続済みWEBカメラ=Webcam Selection\nSelected Webcam
+Webカメラリスト更新=Webcam List Update
+選択中Webカメラ=Selected Webcam
+背景に画像を設定=Set Image as Background
+前面に画像を設定=Set Image as Foreground
+
+//Object Menu
+オブジェクト一覧=Object List
+検索=Search
+非検索=Exclude
+検索対象=Search Target
+オブジェクト名=Object Name
+コンポーネント名=Component Name
+表示数/ページ=Views/Page
+前のページ=Previous Page
+次のページ=Next Page
+オブジェクト情報=Object Information
+オブジェクトのサイズ・移動・回転=Object Size, Movement, and Rotation
+マテリアル操作（色変更等）=Material Operation (color change, etc.)
+オブジェクトツリー=Object Tree
+コンポーネントチェック=Component Check
+アタッチされているコンポーネント=Attached Components
+レイヤ変更=Change Layer
+Lightコンポーネントの調整=Light Component Adjustment
+Canvasコンポーネントの調整=Canvas Component Adjustment
+表示/非表示=Show/Hide
+前のマテリアル=Previous Material
+次のマテリアル=Next Material
+使用シェーダ=Shaders Used
+色調整=Color Adjustment
+レンダーキュー=Render Cue
+プロパティ値変更=Change Property Value
+float型=Float Type
+Color型=Color Type
+マテリアル=Material
+増減=Increase and Decrease
+テクスチャの変更=Change Texture
+シェーダーの変更=Change Shader
+URLから取得=Retrieve from URL
+テクスチャファイル一覧=Texture File List
+リスト更新=Update List
+シェーダー一覧=Shader List
+ファイルがないぜよ・・・=No files found...
+テクスチャとシェーダー=Textures and Shaders
+
+//Pose Menu
+コピー元キャラの選択=Select Copy Source Character
+コピー先キャラの選択=Select Copy Destination Character
+反転コピー=Reverse Copy
+
+//Common
+スケール=Scale
+有効にする=Enable
+無効にする=Disable
+リセット=Reset
+リスト=List
+表示=Display
+コピー=Copy
+非表示=Hide
+移動=Movement
+削除=Delete
+サイズ=Size
+強さ=Strength
+元に戻す=Restore
+未選択=None Selected
+
+//Settings
+メインメニュー表示キー=Man Menu Display Key
+使用するモニタ数(要ゲーム再起動)=Number of monitors to use (requires game restart)
+常に AdvancedMode を使う=Always use Advanced Mode
+起動時、カメラをHDRモードにする=Set the camera to HDR mode at startup
+バックグラウンドでは一時停止=Pause in background
+反映=Set
+再読込=Reset
+保存=Save
+本編がラクになる機能を使う=Easy Story Mode
+尚、この機能を使った場合、公式のランキングには参加できない、またはBANされる可能性があります。\r\n会話が無制限にできちゃうとかはっきりいってゲーム性を無視・否定しちゃってますからね・・・=If you use this function you cannot join the official ranking or you may be banned.
+ポップアップテキストの設定=Pop up text setting
+有効=Active
+アイテム情報詳細表示設定=Item detailed information display setting
+フォントサイズ=Font Size
+文字色=Text Color
+背景色=Background Color
+固定ガイド表示=Fixed Guide Display
+UIサイズ調整=UI Size Adjustment
+ライトメニュー表示キー=Light Menu Display Key
+カメラメニュー表示キー=Camera Menu Display Key
+オブジェクト操作メニュー表示キー=Object Operation Menu Display Key
+エフェクトメニュー表示キー=Effect Menu Display Key
+パーティクルメニュー表示キー=Particle Menu Display Key
+設定メニュー表示キー=Settings Menu Display Key
+サブメニューを閉じるキー=Close Submenu Key
+
+//Chara Maker Assist
+キャラメイクアシスタンス=Chara Maker Assist

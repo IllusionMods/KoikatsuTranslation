@@ -1,0 +1,23 @@
+// Weekday
+「今日の運勢はバッチリ！　良い一日になりそうだ」=Today's fortune is perfect! It's gonna be a great day.
+「よし、今日も積極的に行こう！」=OK, let's make it a great day!
+「さてと、今日もコイカツしちゃいますか！」=Now then, let's do some clubwork today!
+「今日も良い日になりそうだ」=It's going to be a good day today.
+「よしっ！　今日も一日がんばりますか」=All right! Let's do our best today.
+「快調快調、今日も元気にいってみよう！」=Feeling good today, going to make the best of it!
+
+// Holiday
+「今日は家事に精を出すかな」=I have some housework to do today.
+「誰が来ても良いように掃除しておこう」=Time to clean my room, in case of visitors.
+
+// Date Day
+「今日はあの子とデートする日だ」=I have a date planned for today.
+
+// Saturday
+
+「今日は私服の女の子と会えるかも」=I might be able to see a girl wearing her casual clothes today.
+「今日は誰か学園に登校してるかな」=I wonder if anyone's coming to school today.
+
+// After Nap
+「ふぁぁ……、すっきりした」=Ah... That was refreshing.
+

@@ -1,0 +1,79 @@
+#set exe Koikatu,Koikatu VR,Koikatsu Party,Koikatsu Party VR
+
+//
+// Global Text Strings that will be used ANYWHERE.
+// Only put something here if you're AWFULLY sure it can be used everywhere
+// with no change in meaning!
+//
+
+// Generic Accepts/etc.
+戻る=Back
+決定=Accept
+キャンセル=Cancel
+
+はい=Yes
+いいえ=No
+
+// Various Game Messages
+ゲームを終了しますか？=Quit The Game?
+
+// Name/Date, used generally in character selections
+// Avoid adding Club/Personality to here, they get abbreviated/used in various other ways
+名前=Name
+日付=Date
+
+// Female Personalities and Clubs
+セクシー=Sexy
+お嬢様=Ojousama
+高飛車=Snobby
+後輩キャラ=Kouhai
+ミステリアス=Mysterious
+電波=Weirdo
+大和撫子=Yamato Nadeshiko
+ボーイッシュ=Tomboy
+純真無垢=Pure
+単純=Simple
+邪気眼=Delusional
+母性的=Motherly
+姉御肌=Big Sisterly
+ギャル=Gyaru
+不良少女=Delinquent
+野生的=Wild
+意識高いクール=Wannabe
+ひねくれ=Reluctant
+不幸少女=Jinxed
+文学少女=Bookish
+モジモジ=Timid
+正統派ヒロイン=Typical Schoolgirl
+ミーハー=Trendy
+オタク女子=Otaku
+ヤンデレ=Yandere
+ものぐさ=Lazy
+無口=Quiet
+意地っ張り=Stubborn
+のじゃっ子=Old-Fashioned
+素直クール=Humble
+// Patch 0727 (add13/14)
+気さく=Friendly
+// Additional Personalities DLC (add15/16/17/18)
+勝ち気=Willful
+誠実=Honest
+艶やか=Glamorous
+// Afterschool DLC Personalities (add20/25)
+帰国子女=Returnee
+方言娘=Slangy
+Ｓッ気=Sadistic
+無感情=Emotionless
+// Emotion Creators Preorder DLC
+几帳面=Perfectionist
+
+// Club Types
+帰宅部=Going Home Club
+水泳部=Swimming Club
+漫研部=Manga Club
+チアリーディング部=Cheerleading Club
+茶道部=Tea Ceremony Club
+陸上部=Track & Field Club
+
+// Character Select Menu
+キャラクター選択=Select A Character

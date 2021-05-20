@@ -1,0 +1,76 @@
+#set exe Koikatu,Koikatu VR,Koikatsu Party,Koikatsu Party VR
+#set level -1,22 // -1 is global default
+
+//
+// Extra -> Free-H Menu
+//
+
+キャラ一覧=Character List
+
+女キャラ選択=Girl Selection
+部活と性格=Club/Pers.
+//Name
+//Date
+部活=Club
+性格=Pers.
+帰宅部=Going Home Club
+水泳部=Swimming Club
+漫研部=Manga Club
+チアリーディング部=Cheerleading Club
+茶道部=Tea Ceremony Club
+陸上部=Track & Field Club
+
+// Character Information
+・性格=Personality
+・性感帯=Ero. Zone
+・キスを拒否しない？=Kisses Okay?
+・激しい愛撫を拒否しない？=Groping Okay?
+・電マを拒否しない？=Toys Okay?
+・アナルを拒否しない？=Anal Okay?
+・ゴム付けなくてもOK？=Condomless Okay?
+sr"^・(.*？)$"=$1
+
+// Erogenous ZOOOOOOOOOOOOOOONES, hahahaha, oh, concubine, erogenous zooooooooones...
+唇=Lips
+胸=Chest
+股間=Crotch
+アナル=Anus
+尻=Butt
+乳首=Nipples
+
+// H Settings
+H段階=H-Level
+初めて=1st Time
+不慣れ=Inexp.
+慣れ=Exp.
+淫乱=Horny
+状態=Safety
+安全日=Safe Day
+危険日=Risky Day
+
+男キャラ選択=Boy Selection
+
+マップ選択=Map Selection
+
+//Time Settings
+時間帯=Time Of Day
+昼=Daytime
+夕方=Evening
+夜=Night
+
+// Masturbation Mode Only
+発見=Discovery
+されてない=Not Found
+されてる=Found
+
+// Lesbian Mode Only
+相手キャラ選択=Partner Selection
+
+// Darkness Mode Only
+※マップは固定となります=*Map is pre-selected
+
+// Afterschool Addons for 3P
+名前 :=Name: 
+性格：=Pers.: 
+女の子1人目=Girl #1
+女の子2人目=Girl #2

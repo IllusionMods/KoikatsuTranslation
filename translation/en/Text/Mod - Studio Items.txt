@@ -1,0 +1,375 @@
+[ymd] 大道具=[ymd] Large Props
+[ymd] 小道具=[ymd] Small Props
+[ymd] 演出=[ymd] Effects
+
+// HarvexARC-Maps
+Nico静画ムムムさん=Nico Shizuka Mumumu
+
+// HarvexARC-Maps / Nico Shizuka Mumumu
+ラビットハウス=Rabbit House
+天満宮=Tenmangu
+清水風=Shimizu Style
+
+// PDAFT Stuff / Maps
+ワールドイズマイン stg=World Is Mine Stg
+
+// [ymd] Props
+CLO ベース=CLO Base
+CLO 壁=CLO Wall
+スカイドーム=Sky Dome
+スクリーン=Screen
+テレビカメラ=TV Camera
+マップ HM スタジオ=Map HM Studio
+マップ HM スタジオ カスタム=Map HM Studio Custom
+マップ HM ステージ=Map HM Stage
+マップ HM ステージ カスタム=Map HM Stage Custom
+マップ HM ハーレム部屋=Map HM Harlem Room
+マップ HM ベンチ=Map HM Bench
+マップ HM 公園=Map HM Park
+r:"^ロケーション([a-zA-Zａ-ｚＡ-Ｚ]+)$"=r:"Location $1"
+
+// [ymd] Props / CLO Base
+r:"^CLベース アスファルト床([０-９0-9]+) *$"=r:"CL Base Asphalt Floor $1"
+r:"^CLベース タイル床([０-９0-9]+)$"=r:"CL Base Tile Floor $1"
+r:"^CLベース レンガ床([０-９0-9]+)$"=r:"CL Base Brick Floor $1"
+CLベース 体育館床=CL Base Gymnasium Floor
+CLベース 地面(土)=CL Base Ground (Sat)
+CLベース 校内床=CL Base School Floor
+CLベース 浜辺=CL Base Beach
+CLベース 浜辺(砂)=CL Base Beach (Sand)
+r:"^CLベース 石床([０-９0-9]+)$"=r:"CL Base Stone Floor $1"
+r:"^CLベース 石畳([０-９0-9]+)$"=r:"CL Base Cobblestone $1"
+r:"^CLベース 砂地([０-９0-9]+)$"=r:"CL Base Sand $1"
+CLベース 草原=CL Base Meadow
+CLベース 野原=CL Base Field
+
+// [ymd] Props / CLO Wall
+CL壁 スクリーン=CL Wall Screen
+r:"^CL壁 ブロック壁([０-９0-9]+)$"=r:"CL Wall Block Wall $1"
+CL壁 体育館壁=CL Wall Gymnasium Wall
+CL壁 木柱=CL Wall Wood Post
+CL壁 木製壁=CL Wall Wooden Wall
+r:"^CL壁 石壁([０-９0-9]+)$"=r:"CL Wall Stone Wall $1"
+CL壁 石柱=CL Wall
+CL壁 窓=CL Wall Window
+CL壁 黒板=CL Wall Blackboard
+
+// [ymd] Props / Sky Dome
+画像球 外側=Image Sphere Outside
+透過球=Transparent Sphere
+
+// [ymd] Props / Location HS
+マップ HS シャワー室=Map HS Shower Room
+マップ HS トイレ=Map HS Toilet
+
+// [ymd] Props / Location PC
+マップ PC トイレ=Map PC Toilet
+マップ PC 公園=Map PC Park
+マップ PC 和室=Map PC Japanese-style Room
+マップ PC 大観覧場=Map PC Large Viewing Area
+マップ PC 大観覧場 檻=Map PC Large Viewing Area Cage
+マップ PC 応接室=Map PC Reception Room
+マップ PC 洋室=Map PC Western-style Room
+マップ PC 浴場=Map PC Bath
+マップ PC 牢屋=Map PC Prison
+マップ PC 路地裏=Map PC Alley Back
+
+// [ymd] Props / Location PH
+r:"^マップ PH 公園 ([a-zA-Zａ-ｚＡ-Ｚ]+)$"=r:"Map PH Park $1"
+
+// [ymd] Props / Location PPD
+マップ PPD オフィス=Map PPD Office
+マップ PPD プール=Map PPD Pool
+マップ PPD ポルノストア=Map PPD Porn Store
+マップ PPD 喫茶店=Map PPD Cafe
+マップ PPD 地下室=Map PPD Basement
+マップ PPD 地下街=Map PPD Underground Street
+マップ PPD 楽屋=Map PPD Dressing Room
+マップ PPD 自室=Map PPD Own Room
+マップ PPDA 温泉=Map PPDA Hot Springs
+
+// [ymd] Props / Plants
+低木=Shrub
+r:"^木([０-９0-9]+) 幹$"=r:"Tree $1 Trunk"
+r:"木([０-９0-9]+) 枝葉([０-９0-9]*)$"=r:"Tree $1 Branches And Leaves $2"
+芝=Shiba
+草 少量=Grass Small Amount
+r:"^草([０-９0-9]+)$"=r:"Grass $1"
+草原=Grass
+草原 減量=Grass Reduction
+
+// [ymd] Props
+小道具=Small Props
+手で持つ物=Handheld Items
+衣服FK=Clothes FK
+鏡=Mirror
+食べ物関係=Food Related
+
+// [ymd] Props / Mob
+r:"^モブ ([a-zA-Zａ-ｚＡ-Ｚ]+)女([０-９0-9]*)"=r:"Mob $1 Woman $2"
+r:"^モブ ([a-zA-Zａ-ｚＡ-Ｚ]+)男([０-９0-9]*)"=r:"Mob $1 Man $2"
+モブ PPD イカ=Mob PPD Squid
+モブ PPD クモ=Mob PPD Spider
+モブ PPD ブタ=Mob PPD Pig
+r:"^モブ PPD([０-９0-9]+)$"=r:"Mob PPD$1"
+猫のおもちゃ FK=Cat Toy FK
+猫のおもちゃ 単色 FK=Cat Toy Single Color FK
+舌 FK=Tongue FK
+舌 FK カラーマスク=Tongue FK Color Mask
+
+// [ymd] Props / Props
+キーボード=Keyboard
+ギター=Guitar
+ギターピック=Guitar Pick
+ダンボール=Cardboard
+ダンボール FK=Cardboard FK
+r:"^ドラム ([a-zA-Zａ-ｚＡ-Ｚ]+)$"=r:"Drum $1"
+ドラム スティック=Drum Stick
+ドラム 椅子=Drum Chair
+r:"^ハンガー ([０-９0-9]+)$"=r:"Hanger $1"
+ハンガー ラック=Hanger Rack
+ピアノ=Piano
+ピアノ 椅子=Piano Chair
+マイク=Microphone
+マイクスタンド=Microphone Stand
+リコーダー=Recorder
+身長計 ヒット部分=Height Gauge Hit Part
+身長計 ベース部分=Height Scale Base Part
+
+// [ymd] Props / Handheld Items
+うなぎ[FK]=Unagi [FK]
+ほうき[FK]=Broom [FK]
+アサルトライフル=Assault Rifle
+ウォーターガン=Water Gun
+r:"^ガンブレード ([０-９0-9]+)$"=r:"Gun Blade $1"
+クナイ=Kunai
+スタンガン=Stun Gun
+タオル[FK]=Towel [FK]
+チアバトン=Cibaton
+チェーンソー=Chainsaw
+ハリセン=Harisen
+ハリセン しなり=Harrison
+ハンカチ[FK]=Handkerchief [FK]
+ハンドガン=Hand Gun
+バトルライフル=Battle Rifle
+バラ一輪=One Rose
+ヒロインソード=Heroine Sword
+ピコピコハンマー=Pico Pico Hammer
+ブライダルブーケ=Bridal Bouquet
+モップ=Mop
+伸ばし棒=Stick
+刺突剣=Stabbing Sword
+剣=Sword
+大剣=Large Sword
+小太刀=Short Sword
+弾薬=Ammunition
+戦槌=Battle
+曲剣=Curved Sword
+本=Book
+r:"^杖 ([０-９0-9]+)$"=r:"Cane $1"
+r:"^槍 ([０-９0-9]+)$"=r:"槍 $1"
+煙管=Smoke Pipe
+r:"^盾 ([０-９0-9]+)$"=r:"Shield $1"
+花束=Bouquet
+薬莢=Pharmaceutical Capsule
+警棒=Batons
+重火器=Heavy Weapons
+重火器 展開=Heavy Weapons Deployment
+鉤爪=Claw
+錆びた剣=Rusted Sword
+r:"^鎌([０-９0-9]+)$"=r:"鎌 $1"
+魔法の杖[FK]=Magic Wand [FK]
+
+// [ymd] Props / Clothes FK
+r:"^ショーツ ([０-９0-9]+)$"=r:"Shorts $1"
+スクール水着=School Swimsuit
+r:"^ストッキング ([a-zA-Zａ-ｚＡ-Ｚ]+)$"=r:"Stocking $1"
+トップス キャミソール=Tops Camisole
+r:"^トップス シャツ ([a-zA-Zａ-ｚＡ-Ｚ]+)$"=r:"Tops Shirt $1"
+トップス ジャージ=Tops Jersey
+トップス セーラー=Tops Sailor
+トップス セーラースカーフ=Tops Sailor Scarf
+トップス パジャマ=Tops Pajamas
+トップス パーカー=Tops Parker
+r:"^トップス ブレザー上着 ([a-zA-Zａ-ｚＡ-Ｚ]+)$"=r:"Tops Blazer Outerwear $1"
+r:"^トップス ランニングウェア ([a-zA-Zａ-ｚＡ-Ｚ]+)$"=r:"Tops Running Wear $1"
+r:"^トップス ロングワイシャツ ([a-zA-Zａ-ｚＡ-Ｚ]+)$"=r:"Tops Long Shirt $1"
+r:"^トップス ロングワイシャツ ([a-zA-Zａ-ｚＡ-Ｚ]+)$"=r:"Tops Long Shirts $1"
+トップス ワンピース=Tops One Piece
+バスタオル=Bath Towel
+ビキニ水着 上=Bikini Swimwear On
+ビキニ水着 下=Bikini Swimwear Below
+r:"^ブラ ([０-９0-9]+)$"=r:"Bra $1"
+ボトムス ショートジャージ=Bottoms Short Jersey
+ボトムス ハーフジャージ=Bottoms Half Jersey
+ボトムス パジャマ=Bottoms Pajamas
+ボトムス フレアスカート=Bottoms Flare Skirt
+ボトムス ブルマ=Bottoms Burma
+ボトムス ホットパンツ=Bottoms Hot Pants
+ボトムス ボックススカート=Bottoms Box Skirt
+ボトムス ボトムス キュートパンツ=Bottoms Bottoms Shorts
+ボトムス ミニタイトスカート=Bottom Slim Skirt
+ボトムス ロングパンツ=Bottoms Pants
+r:"^手袋([a-zA-Zａ-ｚＡ-Ｚ]+)$"=r:"Gloves $1"
+r:"^手袋ロング ([a-zA-Zａ-ｚＡ-Ｚ]+)$"=r:"Gloves Long $1"
+r:"^手袋ロング ([a-zA-Zａ-ｚＡ-Ｚ]+)$"=r:"Glove Long $1"
+競技水着=Competition Swimwear
+r:"靴下 ([０-９0-9]+) ([a-zA-Zａ-ｚＡ-Ｚ]+)$"=r:"Socks $1 $2"
+鏡=Mirror
+
+// [ymd] Props / Mirror
+鏡 円=Mirror Circle
+r:"^鏡 円 アルファ ([０-９0-9]+)$"=r:"Mirror Circle Alpha $1"
+鏡 円 境界ぼかし=Mirror Circle Border Blur
+鏡 四角=Mirror Square
+r:"^鏡 四角 アルファ ([０-９0-9]+)$"=r:"Mirror Square Alpha $1"
+鏡 四角 境界ぼかし=Mirror Square Border Blur
+
+// [ymd] Props / Food Relations
+おしぼり=Towel
+おたま=Ladle
+おにぎり=Rice Ball
+おぼん=Follow
+お皿=The Dishes
+まな板=Cutting Board
+まな板 白=Cutting Board White
+アイス箱=Ice Box
+カレー=Curry
+ケーキ=Cake
+コーヒー=Cup Of Coffee
+サラダ=Salad
+ショートケーキ=Shortcake
+スイカ=Watermelon
+スプーン=Spoon
+r:"^ネギ ([a-zA-Zａ-ｚＡ-Ｚ]+)$"=r:"Green Onion $1"
+バスケット=Basket
+バスケット 空 FK=Basket Empty FK
+r:"^パン ([０-９0-9]+)$"=r:"Bread $1"
+ビール グラスジョッキ=Beer Glass Mug
+ビール 樽ジョッキ=Beer Barrel Mug
+ビール 瓶=Beer Bottle
+ビール缶=Beer Can
+r:"^ピザ ([a-zA-Zａ-ｚＡ-Ｚ]+)$"=r:"Pizza $1"
+r:"^ピーマン ([a-zA-Zａ-ｚＡ-Ｚ]+)$"=r:"Bell Pepper $1"
+r:"^フォーク ([０-９0-9]+)$"=r:"Fork $1"
+フライパン=Frying Pan
+ヘラ=Hera
+ボウル=Bowl
+r:"^ポテチ ([a-zA-Zａ-ｚＡ-Ｚ]+)$"=r:"Potech $1"
+マグカップ=Mug
+ランチョンマット=Place Mat
+レシピ本=Recipe Book
+ワイン グラス=Wine Glass
+ワイン ボトル=Wine Bottle
+包丁=Kitchen Knife
+r:"^卵 ([a-zA-Zａ-ｚＡ-Ｚ]+)$"=r:"Egg $1"
+寸胴鍋=Scale Pot
+小麦粉袋=Flour Bag
+恵方巻=Ehime Winding
+r:"料理鍋([０-９0-9]+) ([a-zA-Zａ-ｚＡ-Ｚ]+)$"=r:"Cooking Pot $1 $2"
+本命チョコ=My Favorite Chocolate
+本命チョコ カラーマスク=My Favorite Chocolate Color Mask
+泡だて器=Foamer
+瓶容器=Bottle Container
+目玉焼き=Fried Egg
+紅茶 カップ=Tea Cup
+紅茶 カップ受皿=Tea Cup Saucer
+紅茶 ポット=Tea Pot
+紙袋=Paper Bag
+義理チョコ=In-law Chocolate
+買い物袋=Shopping Bag
+酒樽=Barrel
+陶器酒瓶=Pottery Sake Bottle
+骨付き肉=Meat With Bone
+魚=Fish
+
+// [ymd] Production
+ひらがな=Hiragana
+ひらがな 濁=Hiragana Muddy
+アルファベット=Alphabet
+カタカナ=Katakana
+カタカナ 濁=Katakana Muddy
+効果=Effect
+数字=Number
+照明=Illumination
+記号=Symbol
+
+r:"^文字 ([ぁ-ゟ])$"=r:"Hiragana $1"
+r:"^文字 ([゠-ヿ])$"=r:"Katakana $1"
+r:"^文字 ([a-zA-Zａ-ｚＡ-Ｚ])$"=r:"Letter $1"
+
+// [ymd] Production / Effect
+三角影[減算]=Triangular Shadow [Subtract]
+丸影[アルファ]=Round Shadow [Alpha]
+丸影[減算FK]=Round Shadow [Subtracted FK]
+丸影[減算]=Round Shadow [Subtraction]
+四角影[減算]=Square Shadow [Subtraction]
+曲面影[減算]=Curved Surface [Subtract]
+集中線 影なし=Concentrated Line Without Shadow
+
+// [ymd] Production / Number
+r:"^数字 ([０-９0-9]+)$"=r:"Number $1"
+
+// [ymd] Production / Illumination
+スポットレーザー 虹=Spot Laser Rainbow
+パーライト 虹=Perlight Rainbow
+パーライト 赤=Perlite Red
+パーライト 青=Perlite Blue
+パーライト 黄=Perlite Yellow
+
+// [ymd] Production / Symbol
+r:"^記号 (.)$"=r:"Symbol $1"
+
+記号 ぐるぐる=Symbol Round
+記号 キャッキャ=Symbol Cashier
+記号 ハート=Symbol Heart
+記号 ハート割=Symbol Heart Rate
+記号 ビクッ=Symbol Wince
+記号 卵=Symbol Egg
+記号 句点=Symbol Period
+記号 怒=Symbol Angry
+r:"^記号 汗([０-９0-9]+)$"=r:"Symbol Sweat $1"
+記号 羽右=Symbol Feather Right
+記号 羽左=Symbol Feather Left
+記号 肉球=Symbol Meatball
+記号 読点=Symbol Comma
+記号 連斜線=Symbol Cross Hatching
+
+// Character / MOD
+M1ヘルメット(MMD)=M1 Helmet (MMD)
+けもくまニット帽(MMD)=Kekuma Bear Knit Cap (MMD)
+けもくろしばニット帽(MMD)=Undressed Knit Hat (MMD)
+けもこしばニット帽(MMD)=Kemo Koshiba Knit Cap (MMD)
+けもねこニット帽(MMD)=Keneko Cat Knit Hat (MMD)
+けもぱんだニット帽(MMD)=Kepanda Knit Hat (MMD)
+けもひつじニット帽(MMD)=Kemono Sheep Hat (MMD)
+けもぶたニット帽(MMD)=Kemobuta Knit Cap (MMD)
+ウエスタンハット(HS)=Western Hat (HS)
+ウシャンカ(MMD)=Ushanka (MMD)
+キャスケット(HM)=Casquette (HM)
+キャスケット(自作)=Casquette (Self-Made)
+ギャリソンキャップ(HS)=Garrison Cap (HS)
+コック帽(MMD)=Cock Hat (MMD)
+コンシェルジュハット(HS)=Concierge Hat (HS)
+ゴスロリハット(HS)=Gothic Lolita Hat (HS)
+サンタ帽子(HS)=Santa Hat (HS)
+セキュリティーキャップ(HS)=Security Cap (HS)
+r:"セキュリティーキャップ([０-９0-9]+).HS.$"=r:"Security Cap $1 (HS)"
+ニット帽(MMD)=Knit Cap (MMD)
+ハンチング帽(MMD)=Hunting Cap (MMD)
+ヘルメット(MMD)=Helmet (MMD)
+ベレー帽(HM)=Beret (HM)
+マジシャンハット(HS)=Magician Hat (HS)
+マリオンの帽子(HS)=Marions Hat (HS)
+海賊帽子(HS)=Pirate Hat (HS)
+警備帽(PPD)=Security Cap (PPD)
+野球帽(MMD)=Baseball Cap (MMD)
+霊幻帽子(PPD)=Ghost Hat (PPD)
+魔女の帽子(HS)=Witch's Hat (HS)
+
+// Small Articles / GBB_MOD
+オレンジバルーン=Orange Balloon
+盾の勇者の盾=Shield Hero Shield
+
+// 2D Effects / Text (jim's plugin)
+文字Text=Text

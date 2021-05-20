@@ -1,0 +1,71 @@
+#set level 3,4,5
+
+// network check (3)
+// downloader (4)
+// uploader (5)
+
+sr:"(^.*)：(\n)?$"=$1:$3
+r:"^カテゴリ([０-９0-9]+)$"=Category $1
+
+// NetworkCheckScene
+サーバーをチェックしています=Checking server...
+サーバーへのアクセスに失敗しました。=Failed to access server.
+データの取得に失敗しました=Data acquisition failed
+何かキーを押して下さい=Press any key...
+
+// Downloader/bgCache
+キャッシュを有効にする(一度見たキャラ画像の表示が早くなります)=Enable caching (Character image display will be faster after initial load)
+※１~４GBのハードディスクの空き容量が必要です=※1-4 GB of free space required
+キャッシュを削除=Clear Cache
+
+// Downloader buttons
+削除=Delete
+ダウンロード=Download
+アップロード=Upload
+タイトル=Title Screen
+
+// Downloader/CharaInfomation
+名前=Name
+愛称=Nickname
+性格=Personality
+誕生日=Birthday
+血液型=Blood Type
+部活=Club
+ハンドルネーム=User Handle
+コメント=Comment
+
+// Downloader/SearchRequest
+人気順に並べる=By Popularity
+新しい順に並べる=By Newest
+古い順に並べる=By Oldest
+総合=Total
+週間=Weekly
+低い=Lean
+普通=Normal
+高い=Tall
+小さい=Small
+大きい=Big
+セミロング=Semi-Long
+ロング=Long
+ショート=Short
+その他=Miscellaneous
+ツイン=Twintails
+ポニー=Ponytail
+
+
+// Uploader buttons
+利用規約=Terms of Service
+
+// Uploader
+プレイヤーを選択して下さい=Please Select a Player Character
+日付=Date
+ハンドル名を入れてください=Please enter user handle
+コメントを入れてください=Please enter comment
+※既存の版権に抵触する恐れのある記述はお控えください。\n　確認次第削除させていただく場合がございます。=※Please refrain from infringing any copyrights. Infringing material will be deleted if confirmed.
+r:"^※既存の版権に抵触する恐れのある記述はお控えください。[\n\s]+確認次第削除させていただく場合がございます。$"=※Please refrain from infringing any copyrights. Infringing material will be deleted if confirmed.
+
+// not 100% sure on level for these, make them global
+#unset level 3,4,5
+キャラデータをアップロードしました=Uploading character data...
+キャラデータを追加しました=Downloading character data...
+本当にアップロードしますか？=Really upload this?
