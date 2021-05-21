@@ -40,7 +40,7 @@ original text=translated text
 Example:
 
 ```
-åÂî—=Food
+ÊÇüÈ£Ø=Food
 ```
 
 Lines beginning with `//` are considered comments, i.e., they are not considered in the translation.
@@ -93,13 +93,13 @@ Every `translation.txt` file has the raw Japanese text that needs translations. 
 Before:
 
 ```
-//TÉVÉÉÉc=
+//T„Ç∑„É£„ÉÑ=
 ```
 
 After:
 
 ```
-TÉVÉÉÉc=T-shirt
+T„Ç∑„É£„ÉÑ=T-shirt
 ```
 
 If `zz_machineTranslation.txt` files are present only lines that are not translated by `translation.txt` will be used. If the file `translation.txt` has been fully translated, the file `zz_machineTranslation.txt` can be deleted. The goal of this translation project is that none of the `zz_machineTranslation.txt` files remain.
@@ -125,62 +125,82 @@ Table with the localization of the translations for each part of the game:
 | `h/list/*/personality_voice*`           | H Subtitles               |
 | `list/characustom`                      | Maker stuff               |
 | `list/characustom/*/cha_sample_voice_*` | Personality names         |
+| `list/random_name`                      | Random names              |
 | `map/list/mapinfo`                      | Map names                 |
 | `studio/info`                           | Studio stuff              |
 
+
 #### Personalities
 
+##### Character Personalities
+
 | ID | Name       | Eng Name           | Source                            |
-|----|------------|--------------------|-----------------------------------|
-| 00 | ÉZÉNÉVÅ[ånÇ®éoÇ≥Ç‹  | Sexy               |                                   |
-| 01 | Ç®èÏól        | Ojousama           |                                   |
-| 02 | É^ÉJÉrÅ[       | Snobby             |                                   |
-| 03 | è¨à´ñÇÇ¡éq      | Kouhai             |                                   |
-| 04 | É~ÉXÉeÉäÉAÉX     | Mysterious         |                                   |
-| 05 | ìdîg         | Weirdo             |                                   |
-| 06 | ëÂòaïèéq       | Yamamoto Nadeshiko |                                   |
-| 07 | É{Å[ÉCÉbÉVÉÖ     | Tomboy             |                                   |
-| 08 | èÉêàñ≥çCÇ»éqãü    | Pure               |                                   |
-| 09 | ÉAÉzÇÃéq       | Simple             |                                   |
-| 10 | é◊ãCä·        | Delusional         |                                   |
-| 11 | ïÍê´ìIÇ®éoÇ≥ÇÒ    | Motherly           |                                   |
-| 12 | éoå‰îß        | Big Sisterly       |                                   |
-| 13 | ÉRÉMÉÉÉã       | Gyaru              |                                   |
-| 14 | ïsó«è≠èó       | Delinquent         |                                   |
-| 15 | ñÏê∂ìI        | Wild               |                                   |
-| 16 | à”éØçÇÇ¢ÉNÅ[ÉãÇ»èóê´ | Wannabe            |                                   |
-| 17 | Ç–ÇÀÇ≠ÇÍ       | Reluctant          |                                   |
-| 18 | ïsçKè≠èó       | Jinxed             |                                   |
-| 19 | ï∂äwè≠èó       | Bookish            |                                   |
-| 20 | ÉÇÉWÉÇÉW       | Timid              |                                   |
-| 21 | ê≥ìùîhÉqÉçÉCÉì    | Typical Schoolgirl |                                   |
-| 22 | É~Å[ÉnÅ[       | Trendy             |                                   |
-| 23 | ÉIÉ^ÉNèóéq      | Otaku              |                                   |
-| 24 | ÉÑÉìÉfÉå       | Yandere            |                                   |
-| 25 | É_Éã         | Lazy               |                                   |
-| 26 | ñ≥å˚         | Quiet              |                                   |
-| 27 | à”ínÇ¡í£ÇË      | Stubborn           |                                   |
-| 28 | ÉçÉäÇŒÇŒÇ†      | Old-Fashioned      |                                   |
-| 29 | ëfíºÉNÅ[Éã      | Humble             |                                   |
-| 30 | ãCÇ≥Ç≠        | Friendly           | Free DLC                          |
-| 31 | èüÇøãC        | Willful            | Personality Expansion DLC (07/27) |
-| 32 | êΩé¿         | Honest             | Personality Expansion DLC (07/27) |
-| 33 | âêÇ‚Ç©        | Glamorous          | Personality Expansion DLC (07/27) |
-| 34 | ãAçëéqèó       | Returnee           | AfterSchool Expansion DLC (12/21) |
-| 35 | ï˚åæñ∫        | Slangy             | AfterSchool Expansion DLC (12/21) |
-| 36 | SÉbãC        | Sadistic           | AfterSchool Expansion DLC (12/21) |
-| 37 | ñ≥ä¥èÓ        | Emotionless        | AfterSchool Expansion DLC (12/21) |
-| 38 | ô{í†ñ         | Perfectionist      | Yoyaku Preorder Exclusive DLC     |
+|:--:|:-----------|:-------------------|:----------------------------------|
+| 00 | „Çª„ÇØ„Ç∑„ÉºÁ≥ª„ÅäÂßâ„Åï„Åæ  | Sexy               |                                   |
+| 01 | „ÅäÂ¨¢Êßò        | Ojousama           |                                   |
+| 02 | „Çø„Ç´„Éì„Éº       | Snobby             |                                   |
+| 03 | Â∞èÊÇ™È≠î„Å£Â≠ê      | Kouhai             |                                   |
+| 04 | „Éü„Çπ„ÉÜ„É™„Ç¢„Çπ     | Mysterious         |                                   |
+| 05 | ÈõªÊ≥¢         | Weirdo             |                                   |
+| 06 | Â§ßÂíåÊí´Â≠ê       | Yamamoto Nadeshiko |                                   |
+| 07 | „Éú„Éº„Ç§„ÉÉ„Ç∑„É•     | Tomboy             |                                   |
+| 08 | Á¥îÁ≤ãÁÑ°Âû¢„Å™Â≠ê‰æõ    | Pure               |                                   |
+| 09 | „Ç¢„Éõ„ÅÆÂ≠ê       | Simple             |                                   |
+| 10 | ÈÇ™Ê∞óÁúº        | Delusional         |                                   |
+| 11 | ÊØçÊÄßÁöÑ„ÅäÂßâ„Åï„Çì    | Motherly           |                                   |
+| 12 | ÂßâÂæ°ËÇå        | Big Sisterly       |                                   |
+| 13 | „Ç≥„ÇÆ„É£„É´       | Gyaru              |                                   |
+| 14 | ‰∏çËâØÂ∞ëÂ•≥       | Delinquent         |                                   |
+| 15 | ÈáéÁîüÁöÑ        | Wild               |                                   |
+| 16 | ÊÑèË≠òÈ´ò„ÅÑ„ÇØ„Éº„É´„Å™Â•≥ÊÄß | Wannabe            |                                   |
+| 17 | „Å≤„Å≠„Åè„Çå       | Reluctant          |                                   |
+| 18 | ‰∏çÂπ∏Â∞ëÂ•≥       | Jinxed             |                                   |
+| 19 | ÊñáÂ≠¶Â∞ëÂ•≥       | Bookish            |                                   |
+| 20 | „É¢„Ç∏„É¢„Ç∏       | Timid              |                                   |
+| 21 | Ê≠£Áµ±Ê¥æ„Éí„É≠„Ç§„É≥    | Typical Schoolgirl |                                   |
+| 22 | „Éü„Éº„Éè„Éº       | Trendy             |                                   |
+| 23 | „Ç™„Çø„ÇØÂ•≥Â≠ê      | Otaku              |                                   |
+| 24 | „É§„É≥„Éá„É¨       | Yandere            |                                   |
+| 25 | „ÉÄ„É´         | Lazy               |                                   |
+| 26 | ÁÑ°Âè£         | Quiet              |                                   |
+| 27 | ÊÑèÂú∞„Å£Âºµ„Çä      | Stubborn           |                                   |
+| 28 | „É≠„É™„Å∞„Å∞„ÅÇ      | Old-Fashioned      |                                   |
+| 29 | Á¥†Áõ¥„ÇØ„Éº„É´      | Humble             |                                   |
+| 30 | Ê∞ó„Åï„Åè        | Friendly           | Free DLC                          |
+| 31 | Âãù„Å°Ê∞ó        | Willful            | Personality Expansion DLC (07/27) |
+| 32 | Ë™†ÂÆü         | Honest             | Personality Expansion DLC (07/27) |
+| 33 | Ëâ∂„ÇÑ„Åã        | Glamorous          | Personality Expansion DLC (07/27) |
+| 34 | Â∏∞ÂõΩÂ≠êÂ•≥       | Returnee           | AfterSchool Expansion DLC (12/21) |
+| 35 | ÊñπË®ÄÂ®ò        | Slangy             | AfterSchool Expansion DLC (12/21) |
+| 36 | S„ÉÉÊ∞ó        | Sadistic           | AfterSchool Expansion DLC (12/21) |
+| 37 | ÁÑ°ÊÑüÊÉÖ        | Emotionless        | AfterSchool Expansion DLC (12/21) |
+| 38 | Âá†Â∏≥Èù¢        | Perfectionist      | Yoyaku Preorder Exclusive DLC     |
+
+##### NPC Personalities
+
+
+| ID  | Name    | Eng Name        |
+|:---:|:--------|:----------------|
+| -1  | „É™„Éä„Éª„É≠„Éô„Éº„É´ | Lina Roberts    |
+| -2  | Ê©ãÊú¨È∫óÂ•à    | Hashimoto Reina |
+| -4  | Ê´ª‰∫ïÈáé‰πÉËä±   | Sakurai Nonoka  |
+| -5  | Âß´Â∑ùËàû     | Himekawa Mai    |
+| -8  | Êüä„Åì„ÅÆ„Åø    | Hiiragi Konomi  |
+| -9  | ÁµêÂüéÊ°ú     | Yuuki Sakura    |
+| -10 | Ê∞¥ÁÄ¨‰∫ú‰æù    | Minase Ai       |
+
 
 
 #### Personality Asset Locations
 
-| Type       | Location (replace `##` with ID from table above) |
-|------------|--------------------------------------------------|
-| Dialog     | `adv/scenario/c##/*`                             |
-| Dialog     | `communication/info_*/*_##`                      |
-| Call Names | `etcetra/list/nickname/c##`                      |
-| H Lines    | `h/list/*/personality_voice_c38_*`               |
+| Type                   | Location (replace `##` with ID from table above) |
+|------------------------|--------------------------------------------------|
+| Dialog (adv)           | `adv/scenario/c##/*`                             |
+| Dialog (communication) | `communication/info_*/*_##`                      |
+| Call Names             | `etcetra/list/nickname/*/c##`                      |
+| H Lines                | `h/list/*/personality_voice_c##_*`               |
+
+NPC Personalities only have entries under Dialog (adv) and H Lines.
 
 ### Specialized translation lines
 
@@ -192,7 +212,7 @@ Format strings have replacements in them processed by [`String.Format`](https://
 
 Example:
 ```
-{0}Ç∆íáÇ™Ç¢Ç¢Ç∆évÇ¡ÇƒÇÈÇÌ=I think I'm good friends with {0}.
+{0}„Å®‰ª≤„Åå„ÅÑ„ÅÑ„Å®ÊÄù„Å£„Å¶„Çã„Çè=I think I'm good friends with {0}.
 ```
 
 #### ADV Choices
@@ -202,7 +222,7 @@ Because these strings are encoded into a larger entry in the resource files they
 Example:
 
 ```
-CHOICE:éÛÇØéÊÇÈ=Accept
+CHOICE:Âèó„ÅëÂèñ„Çã=Accept
 ```
 
 #### Optional Prefixes
@@ -210,11 +230,11 @@ CHOICE:éÛÇØéÊÇÈ=Accept
 There are a number of assets that support the use of optional prefixing to get a more exact match. This allows for more specific translations in cases where multiple assets might match the same replacement code.  Matching for these assets will first try the prefixed match, then fall back to the standard un-prefixed match.  Given the following translation file:
 
 ```
-PREFIX1:Ç±ÇÒÇ…ÇøÇÕ=Hi!
-Ç±ÇÒÇ…ÇøÇÕ=Hello.
+PREFIX1:„Åì„Çì„Å´„Å°„ÅØ=Hi!
+„Åì„Çì„Å´„Å°„ÅØ=Hello.
 ```
 
-Trying to match `Ç±ÇÒÇ…ÇøÇÕ` for an asset using `PREFIX1` would return `Hi!`, where an asset using `PREFIX2` would fall back to `Hello.`.
+Trying to match `„Åì„Çì„Å´„Å°„ÅØ` for an asset using `PREFIX1` would return `Hi!`, where an asset using `PREFIX2` would fall back to `Hello.`.
 
 Some prefixes can be combined with numbers, which limit them to matching specific table rows or columns.
 
@@ -238,7 +258,61 @@ Some prefixes can be combined with numbers, which limit them to matching specifi
 
 ## Status
 
-Opening - Complete
-c00 (Sexy) - Scenario and Communication complete by ShadowTsuki
-c13 (Gyaru) - Scenario and Communication mostly complete by DarkPulse
+
+|              Id |  Status | Current translation contributors                                           |
+|----------------:|--------:|:---------------------------------------------------------------------------|
+|          NPC -1 | 100.00% | ShadowTsuki, Avvilimento                                                   |
+|          NPC -2 |  45.31% | GeBo1, DeathWeasel1337, ShadowTsuki                                        |
+|          NPC -4 |  34.13% | GeBo1, DeathWeasel1337, ShadowTsuki                                        |
+|          NPC -5 |  03.81% | ShadowTsuki, DeathWeasel1337                                               |
+|          NPC -8 |  56.01% | DeathWeasel1337, ShadowTsuki                                               |
+|          NPC -9 |  02.51% | ShadowTsuki                                                                |
+|         NPC -10 | 100.00% | Avvilimento, ShadowTsuki                                                   |
+|        Pers. 00 |  96.19% | GeBo1, ShadowTsuki, DeathWeasel1337, ScrewThisNoise                        |
+|        Pers. 01 |  05.65% | GeBo1, DeathWeasel1337, ShadowTsuki                                        |
+|        Pers. 02 |  03.62% | GeBo1, DeathWeasel1337, ShadowTsuki                                        |
+|        Pers. 03 |  03.83% | GeBo1, DeathWeasel1337, ShadowTsuki                                        |
+|        Pers. 04 |  04.33% | GeBo1, DeathWeasel1337, ShadowTsuki                                        |
+|        Pers. 05 |  04.49% | GeBo1, DeathWeasel1337, ShadowTsuki                                        |
+|        Pers. 06 |  04.36% | GeBo1, DeathWeasel1337, ShadowTsuki                                        |
+|        Pers. 07 |  95.52% | ScrewThisNoise, DeathWeasel1337, GeBo1, ShadowTsuki                        |
+|        Pers. 08 |  06.85% | GeBo1, DeathWeasel1337, ShadowTsuki, ScrewThisNoise                        |
+|        Pers. 09 |  05.84% | GeBo1, DeathWeasel1337, ShadowTsuki, ScrewThisNoise                        |
+|        Pers. 10 |  16.01% | DeathWeasel1337, GeBo1, ShadowTsuki                                        |
+|        Pers. 11 |  03.99% | GeBo1, DeathWeasel1337, ShadowTsuki                                        |
+|        Pers. 12 |  03.52% | GeBo1, DeathWeasel1337, ShadowTsuki                                        |
+|        Pers. 13 |  85.86% | DeathWeasel1337, GeBo1, ScrewThisNoise, ShadowTsuki                        |
+|        Pers. 14 |  06.50% | GeBo1, ShadowTsuki, DeathWeasel1337                                        |
+|        Pers. 15 |  09.18% | DeathWeasel1337, GeBo1, ShadowTsuki, ScrewThisNoise                        |
+|        Pers. 16 |  03.70% | GeBo1, DeathWeasel1337, ShadowTsuki                                        |
+|        Pers. 17 |  07.57% | GeBo1, DeathWeasel1337, ShadowTsuki, WataThaBradicus                       |
+|        Pers. 18 |  04.37% | GeBo1, DeathWeasel1337, ShadowTsuki                                        |
+|        Pers. 19 |  04.15% | GeBo1, DeathWeasel1337, ShadowTsuki                                        |
+|        Pers. 20 |  05.53% | GeBo1, Erasmo, DeathWeasel1337, ShadowTsuki, Francesc Xavier Caro Miro     |
+|        Pers. 21 |  04.40% | GeBo1, DeathWeasel1337, ShadowTsuki                                        |
+|        Pers. 22 |  07.49% | DeathWeasel1337, GeBo1, ShadowTsuki                                        |
+|        Pers. 23 |  03.38% | GeBo1, DeathWeasel1337, ShadowTsuki                                        |
+|        Pers. 24 |  98.73% | ScrewThisNoise, GeBo1, DeathWeasel1337, ShadowTsuki                        |
+|        Pers. 25 |  03.93% | GeBo1, DeathWeasel1337, ShadowTsuki                                        |
+|        Pers. 26 |  24.91% | tstephenson888, GeBo1, DeathWeasel1337, ShadowTsuki, ScrewThisNoise        |
+|        Pers. 27 |  05.63% | GeBo1, DeathWeasel1337, ShadowTsuki                                        |
+|        Pers. 28 |  04.01% | GeBo1, DeathWeasel1337, ShadowTsuki                                        |
+|        Pers. 29 |  04.27% | GeBo1, DeathWeasel1337, ShadowTsuki                                        |
+|        Pers. 30 |  96.06% | ScrewThisNoise, GeBo1, DeathWeasel1337, ShadowTsuki                        |
+|        Pers. 31 |  96.03% | ScrewThisNoise, ManlyMarco, DeathWeasel1337, GeBo1, ShadowTsuki            |
+|        Pers. 32 |  95.85% | ScrewThisNoise, DeathWeasel1337, ManlyMarco, GeBo1, ShadowTsuki            |
+|        Pers. 33 |  96.11% | ScrewThisNoise, ManlyMarco, DeathWeasel1337, ShadowTsuki, GeBo1            |
+|        Pers. 34 |  05.22% | GeBo1, DeathWeasel1337, ShadowTsuki                                        |
+|        Pers. 35 |  05.46% | GeBo1, DeathWeasel1337, ShadowTsuki                                        |
+|        Pers. 36 |  79.00% | Kropiciel, GeBo1, DeathWeasel1337, ShadowTsuki, ScrewThisNoise, ManlyMarco |
+|        Pers. 37 |  90.80% | ScrewThisNoise, DeathWeasel1337, ShadowTsuki, ManlyMarco, GeBo1            |
+|        Pers. 38 |  03.11% | GeBo1, ShadowTsuki                                                         |
+|    Event Titles | 100.00% | Avvilimento, ShadowTsuki                                                   |
+|     Maker Items |  98.87% | ShadowTsuki, GeBo1                                                         |
+| Maker Pose Text |  95.24% | GeBo1                                                                      |
+|       Map Names | 100.00% | GeBo1                                                                      |
+|       Positions |  99.30% | GeBo1                                                                      |
+|    Random Names | 100.00% | GeBo1                                                                      |
+|    Studio Lists |  69.40% | ShadowTsuki, GeBo1                                                         |
+
 
