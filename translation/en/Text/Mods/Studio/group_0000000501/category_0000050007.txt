@@ -1,0 +1,38 @@
+//
+// Dumped for Koikatsu v5.1 by Mod Text Dump v0.0.1: 2021-05-25
+// #set exe CharaStudio
+//
+
+#set exe CharaStudio
+
+
+// chara/ymd/si_fonts.unity3d
+記号 ！=Symbol ！
+記号 ？=Symbol ？
+記号 読点=Symbol Comma
+記号 句点=Symbol Period
+記号 肉球=Symbol Meatball
+記号 ハート=Symbol Heart
+記号 ハート割=Symbol Heart Rate
+記号 羽左=Symbol Feather Left
+記号 羽右=Symbol Feather Right
+記号 汗１=Symbol Sweat １
+記号 汗２=Symbol Sweat ２
+記号 怒=Symbol Angry
+記号 キャッキャ=Symbol Cashier
+記号 ビクッ=Symbol Wince
+記号 ぐるぐる=Symbol Round
+記号 連斜線=Symbol Cross Hatching
+記号 卵=Symbol Egg
+記号 ＠=Symbol ＠
+記号 ～=Symbol ～
+記号 ―=Symbol ―
+記号 ＋=Symbol ＋
+記号 ÷=Symbol ÷
+記号 ×=Symbol ×
+記号 ・=Symbol ・
+記号 …=Symbol …
+記号 （=Symbol （
+記号 ）=Symbol ）
+記号 「=Symbol 「
+記号 」=Symbol 」

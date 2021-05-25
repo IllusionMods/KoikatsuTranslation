@@ -1,0 +1,16 @@
+//
+// Dumped for Koikatsu v5.1 by Mod Text Dump v0.0.1: 2021-05-25
+// #set exe CharaStudio
+//
+
+#set exe CharaStudio
+
+
+// chara/ymd/si_locationSBPR.unity3d
+マップ SBPR プール内=Map SBPR Inside pool
+マップ SBPR プール外=Map SBPR Outside Pool
+マップ SBPR 洞窟キャラライト=Map SBPR Cave Character Light
+マップ SBPR 洞窟マップライト=Map SBPR Cave Map Light
+マップ SBPR ミニビーチ=Map SBPR Mini Beach
+マップ 水面A=Map Water Surface A
+マップ 水面B=Map Water Surface B

@@ -1,0 +1,22 @@
+//
+// Dumped for Koikatsu v5.1 by Mod Text Dump v0.0.1: 2021-05-25
+// #set exe CharaStudio
+//
+
+#set exe CharaStudio
+
+
+// studio/warship.unity3d
+待发上游=Wait发上游
+长春防空炮=Changchun air defense gun
+长春烟囱=Changchun Manor
+猫主炮=Cat main gun
+长春船头=Long Spring Ship Head
+猫副炮=Sub-cat
+长春船头炮=Long Spring Ship Head Gun
+上游1本体=Upper 1 Body
+长春腿炮=Long Spring Thigh Guns
+塔什干主炮=Main Gun
+塔什干火控=Fire Control
+塔什干鱼雷=Fish Mines
+未发射上游=Unloaded upper course

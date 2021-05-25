@@ -1,0 +1,40 @@
+//
+// Dumped for Koikatsu v5.1 by Mod Text Dump v0.0.1: 2021-05-25
+// #set exe CharaStudio
+//
+
+#set exe CharaStudio
+
+
+// chara/deathweasel/ec_items.unity3d
+ヴァルキリーショルダー右用=Valkyrie Shoulder Right
+ヴァルキリーショルダー左用=Valkyrie Shoulder Left
+聖女の杖=Saint Mary's Staff
+聖女の竪琴=Saint's Harp
+バゼラード=Bazelard
+聖女の首飾り=Saint's Necklace
+盗賊のマフラー=Thieves' Scarf
+聖女の腰飾り=Saint's Waistcoat
+盗賊のベルト=Bandit's Belt
+盗賊のポーチ=Thief's Pouch
+バゼラードの鞘=Bazelard's Scabbard
+サキュバスショルダー右用=Succubus Shoulder Right
+サキュバスショルダー左用=Succubus Shoulder Left
+サキュバスの翼左用=Succubus Wing Left
+サキュバスの翼右用=Succubus Wing Right
+バフォメットの仮面=Mask of Baphomet
+モノクル(右)=Monocle (Right)
+モノクル(左)=Monocle (Left)
+サキュバスサイズ=Succubus Size
+禁書（閉）=Forbidden Book (Closed)
+禁書（開）=Forbidden book (Open)
+サキュバスの角=Horns of Succubus
+茨の冠=Crown of Thorns
+スカルブローチ=Skull Brooch
+サキュバス尻尾=Succubus Tail
+サキュバスのランタン=Succubus Lantern
+ネクロマンサーの腰飾り=Necromancer's waistcoat
+魔力の砂時計=Hourglass of Magic
+ネクロマンサーベルト=Necromancer Belt
+魔術師のポーチ=Sorcerer's Pouch
+闇の守り=Darkness Charm

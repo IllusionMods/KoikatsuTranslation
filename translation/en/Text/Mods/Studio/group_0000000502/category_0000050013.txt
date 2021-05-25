@@ -1,0 +1,12 @@
+//
+// Dumped for Koikatsu v5.1 by Mod Text Dump v0.0.1: 2021-05-25
+// #set exe CharaStudio
+//
+
+#set exe CharaStudio
+
+
+// chara/ymd/si_skydome.unity3d
+スカイドーム=Sky Dome
+透過球=Transparent Sphere
+画像球 外側=Image Sphere Outside

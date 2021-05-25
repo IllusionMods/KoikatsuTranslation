@@ -1,0 +1,16 @@
+//
+// Dumped for Koikatsu v5.1 by Mod Text Dump v0.0.1: 2021-05-25
+// #set exe CharaStudio
+//
+
+#set exe CharaStudio
+
+数字=Number
+ひらがな=Hiragana
+ひらがな 濁=Hiragana Muddy
+カタカナ=Katakana
+カタカナ 濁=Katakana Muddy
+アルファベット=Alphabet
+記号=Symbol
+効果=Effect
+照明=Illumination

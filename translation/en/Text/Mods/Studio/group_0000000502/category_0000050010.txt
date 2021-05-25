@@ -1,0 +1,17 @@
+//
+// Dumped for Koikatsu v5.1 by Mod Text Dump v0.0.1: 2021-05-25
+// #set exe CharaStudio
+//
+
+#set exe CharaStudio
+
+
+// chara/ymd/si_locationHS.unity3d
+マップ HS ロビー=Map HS lobby
+マップ HS 自室=Map HS room
+マップ HS 女の子部屋=Map hs girl's room
+マップ HS 裏庭=Map HS backyard
+マップ HS 中庭=Map HS courtyard
+マップ HS トイレ=Map HS Toilet
+マップ HS シャワー室=Map HS Shower Room
+マップ HS 温泉=Map HS Hot springs

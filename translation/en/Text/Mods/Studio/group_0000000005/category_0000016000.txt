@@ -1,0 +1,14 @@
+//
+// Dumped for Koikatsu v5.1 by Mod Text Dump v0.0.1: 2021-05-25
+// #set exe CharaStudio
+//
+
+#set exe CharaStudio
+
+
+// chara/_mods/mash3.unity3d
+ロード・カルデアス=Lord Chaldeas
+
+// chara/_mods/Mine.unity3d
+盾の勇者の盾=Shield Hero Shield
+オレンジバルーン=Orange Balloon

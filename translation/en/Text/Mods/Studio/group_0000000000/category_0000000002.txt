@@ -1,0 +1,97 @@
+//
+// Dumped for Koikatsu v5.1 by Mod Text Dump v0.0.1: 2021-05-25
+// #set exe CharaStudio
+//
+
+#set exe CharaStudio
+
+
+// studio/str_bs00.unity3d
+スフィア(影)=Sphere (Shadow)
+キューブ(影)=Cube (Shadow)
+ピラミッド(影)=Pyramid (Shadow)
+コーン(影)=Cone (Shadow)
+シリンダー(影)=Cylinder(Shadow)
+クリスタル(影)=Crystal(Shadow)
+リング(影)=Ring(Shadow)
+星1(影)=Star1(Shadow)
+星2(影)=Star2(Shadow)
+星3(影)=Star3(Shadow)
+星4(影)=Star4(Shadow)
+ハート1(影)=Heart1(Shadow)
+ハート2(影)=Heart2(Shadow)
+爪(影)=Claw(Shadow)
+筒(影)=Tube(Shadow)
+筒2(影)=Tube2(Shadow)
+パイプ1(影)=Pipe1(shadow)
+パイプ2(影)=Pipe2(shadow)
+台形1(影)=Trapezoid1(Shadow)
+台形2(影)=Trapezoid 2(Shadow)
+矢印1(影)=Arrow1(Shadow)
+矢印2(影)=Arrow2(Shadow)
+矢印3(影)=Arrow 3(Shadow)
+穴あきキューブ(影)=Cube with hole(Shadow)
+直角1(影)=Right Angle1(Shadow)
+直角2(影)=Right Angle2(Shadow)
+直角3(影)=Right Angle 3(Shadow)
+三日月1(影)=Crescent1(Shadow)
+三日月2(影)=Crescent2(shadow)
+三日月3(影)=Crescent3(Shadow)
+十字(影)=Cross(Shadow)
+Ｖ字(影)=V(Shadow)
+穴あき楕円(影)=Oval with hole(Shadow)
+先尖り棒(影)=Pointed Bar(Shadow)
+三角(影)=Triangle(shadow)
+穴あき三角(影)=Triangle with hole(shadow)
+弧1(影)=Arc1(shadow)
+弧2(影)=Arc2(Shadow)
+弧3(影)=Arc3(Shadow)
+四分円(影)=Quarter Circle(Shadow)
+半円(影)=Half Circle(Shadow)
+五角形(影)=Pentagon(Shadow)
+六角形(影)=Hexagon(Shadow)
+穴あき六角形(影)=Hexagon with Hole(Shadow)
+八角形(影)=Octagon
+頭(影)=Head
+平面(影)=Plane(Shadow)
+輪(影)=Wheel
+カプセル(影)=Capsule(shadow)
+正台形(影)=Trapezoid(Shade)
+
+// studio/str_bs01.unity3d
+山型多角形1(影)=Mountain Polygon 1(Shade)
+山型多角形2(影)=Mountain Polygon 2(Shadow)
+長六角形(影)=Long hexagon
+長五角形(影)=Rectangular pentagon
+歪み三角柱(影)=Distortion triangle (Shadow)
+マウス型右(影)=Mouse right(shadow)
+マウス型左(影)=Mouse left(Shadow)
+三角横台形(影)=Triangle horizontal trapezoid(Shadow)
+五角横台形(影)=Pentagonal horizontal trapezoid(Shadow)
+円形横台形(影)=Round horizontal trapezoid(Shadow)
+ドロップ立体(影)=Drop solid(Shadow)
+ドロップ平面(影)=Drop plane
+ひょうたん立体(影)=Gourd
+ひょうたん平面(影)=Gourd plane
+角リング(影)=Square ring (Shadow)
+立体半円(影)=Semi-circle
+立体四半円(影)=3D semicircle(Shade)
+角型(影)=Square(Shadow)
+直角形(影)=Rectangle(Shadow)
+斜ひし形(影)=Oblique rhombus(Shadow)
+歪み台形(影)=Distortion Trapezoid(Shadow)
+欠け四角(影)=Chipped Rectangle(Shadow)
+二対多角形(影)=Two Pair Polygon(Shade)
+ヒレ型(影)=Fin shaped(Shade)
+歪み多角形(影)=Distortion Polygon(Shade)
+角なし斜ひし形(影)=Oblique rhombus without corners(shadow)
+角なし歪み台形(影)=Cornerless distorted trapezoid(shadow)
+角なし四角錐(影)=Square pyramid without corners(Shade)
+角なし三角(影)=Triangle(Shade)
+角なし四角(影)=Square(Shade)
+筒四分(影)=Quarter Tube(Shade)
+半ピラミッド(影)=Half pyramid(Shade)
+角なし半四角錐(影)=Half Pyramid(Shade)
+半コーン(影)=Half cone(shadow)
+階段型(影)=Staircase(shadow)
+半カプセル(影)=Half capsule (shadow)

@@ -1,0 +1,19 @@
+//
+// Dumped for Koikatsu v5.1 by Mod Text Dump v0.0.1: 2021-05-25
+// #set exe CharaStudio
+//
+
+#set exe CharaStudio
+
+
+// chara/ymd/si_fonts.unity3d
+数字 ０=Number ０
+数字 １=Number １
+数字 ２=Number ２
+数字 ３=Number ３
+数字 ４=Number ４
+数字 ５=Number ５
+数字 ６=Number ６
+数字 ７=Number ７
+数字 ８=Number ８
+数字 ９=Number ９

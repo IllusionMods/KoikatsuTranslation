@@ -1,0 +1,20 @@
+//
+// Dumped for Koikatsu v5.1 by Mod Text Dump v0.0.1: 2021-05-25
+// #set exe CharaStudio
+//
+
+#set exe CharaStudio
+
+
+// studio/GTAV apartment Small.unity3d
+框架=Stile and rail
+洗浴間道具=Bathing Room Tools
+臥室道具=Lying Room
+臥室衣櫃門 左=Lying-in wardrobe Left
+臥室衣櫃門 右=Lying-in wardrobe (right)
+臥室椅子=Lying room chair
+臥室遊戲機手柄=Lying room play equipment handle
+客廳道具=Parlor equipment
+客廳遙控器=Parlor Harness
+客廳椅子=Parlor Chair
+廚房道具=Kitchen Tools
