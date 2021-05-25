@@ -1,0 +1,60 @@
+//
+// Dumped for Koikatsu v5.1 by Mod Text Dump v0.0.1: 2021-05-25
+//
+
+// chara/_kero/CMS_NT_00.unity3d
+タイプ１=Pattern 1
+タイプ２=Pattern 2
+タイプ３=Pattern 3
+タイプ４=Pattern 4
+タイプ５=Pattern 5
+タイプ６=Type 6
+タイプ７=Type 7
+タイプ８=Type 8
+タイプ９=Type 9
+タイプ2=Pattern 2
+タイプＧ=Type G
+タイプＨ=Type H
+タイプＩ=Type I
+タイプＪ=Type J
+タイプＫ=Type K
+タイプＬ=Type L
+タイプＭ=Type M
+タイプＮ=Type N
+タイプＡ=Type A
+タイプＢ=Type B
+タイプＣ=Type C
+タイプＤ=Type D
+タイプＥ=Type E
+タイプＦ=Type F
+タイプＯ=Type O
+タイプＰ=Type P
+タイプＱ=Type Q
+タイプＲ=Type R
+タイプＳ=Type S
+タイプ１（下唇のみ）=Type 1 (Lower Lip Only)
+タイプ２（下唇のみ）=Type 2 (Lower Lip Only)
+タイプ３（下唇のみ）=Type 3 (Lower Lip Only)
+タイプ４（下唇のみ）=Type 4 (Lower Lip Only)
+タイプ５（下唇のみ）=Type 5 (Lower Lip Only)
+タイプ６（下唇のみ）=Type 6 (Lower Lip Only)
+タイプ７（下唇のみ）=Type 7 (Lower Lip Only)
+タイプ８（下唇のみ）=Type 8 (Lower Lip Only)
+タイプＴ=Type T
+タイプＵ=Type U
+タイプＶ=Type V
+タイプＷ=Type W
+タイプＸ=Type X
+タイプＹ=Type Y
+タイプＺ=Type Z
+タイプＡＡ=Type AA
+タイプＡＢ=Type AB
+タイプＡＣ=Type AC
+タイプＡＤ=Type AD
+タイプＡＥ=Type AE
+タイプＡＦ=Type AF
+タイプＡＧ=Type AG
+タイプＡＨ=Type AH
+タイプＡＩ=Type AI
+タイプＡＪ=Type AJ
+タイプＡＫ=Type AK

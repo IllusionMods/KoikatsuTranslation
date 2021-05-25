@@ -1,0 +1,184 @@
+//
+// Dumped for Koikatsu v5.1 by Mod Text Dump v0.0.1: 2021-05-25
+//
+
+// chara/etc.unity3d
+なし=None
+
+// chara/karasu/mt_body_paint_k00.unity3d
+右手1=Right Hand 1
+左手1=Left Hand 1
+右手2=Right hand 2
+左手2=Left hand 2
+
+// chara/nose.unity3d
+タイプＡ=Type A
+タイプＢ=Type B
+タイプＣ=Type C
+タイプＤ=Type D
+タイプＥ=Type E
+タイプＦ=Type F
+タイプＧ=Type G
+タイプＨ=Type H
+タイプＩ=Type I
+タイプＪ=Type J
+タイプＫ=Type K
+タイプＬ=Type L
+タイプＭ=Type M
+タイプＮ=Type N
+タイプＯ=Type O
+タイプＰ=Type P
+タイプＱ=Type Q
+タイプＲ=Type R
+タイプＳ=Type S
+タイプＴ=Type T
+タイプＵ=Type U
+タイプＶ=Type V
+タイプＷ=Type W
+タイプＸ=Type X
+タイプＹ=Type Y
+タイプＺ=Type Z
+タイプＡＡ=Type AA
+タイプＡＢ=Type AB
+タイプＡＣ=Type AC
+タイプＡＤ=Type AD
+タイプＡＥ=Type AE
+タイプＡＦ=Type AF
+タイプＡＧ=Type AG
+タイプＡＨ=Type AH
+タイプＡＩ=Type AI
+タイプＡＪ=Type AJ
+タイプＡＫ=Type AK
+タイプ１=Pattern 1
+タイプ２=Pattern 2
+タイプ３=Pattern 3
+タイプ４=Pattern 4
+
+// chara/_mods/rider.unity3d
+ライダー=Rider
+
+// chara/_kero/CMS_NT_00.unity3d
+タイプＡＬ=Type AL
+タイプＡＭ=Type AM
+タイプＡＮ=Type AN
+タイプＡＯ=Type AO
+タイプＡＰ=Type AP
+タイプＡＱ=Type AQ
+タイプＡＲ=Type AR
+タイプＡＳ=Type AS
+タイプＡＴ=Type AT
+タイプＡＵ=Type AU
+タイプＡＶ=Type AV
+タイプＡＷ=Type AW
+タイプＡＸ=Type AX
+タイプＡＹ=Type AY
+タイプＡＺ=Type AZ
+タイプＢＡ=Type BA
+タイプＢＢ=Type BB
+タイプＢＣ=Type BC
+タイプＢＤ=Type BD
+タイプＢＥ=Type BE
+タイプＢＦ=Type BF
+タイプＢＧ=Type BG
+タイプＢＨ=Type BH
+タイプＢＩ=Type BI
+タイプＢＪ=Type BJ
+タイプＢＫ=Type BK
+タイプＢＬ=Type BL
+タイプＢＭ=Type BM
+タイプＢＮ=Type BN
+タイプＢＯ=Type BO
+タイプＢＰ=Type BP
+タイプＢＱ=Type BQ
+タイプＢＲ=Type BR
+タイプＢＳ=Type BS
+タイプＢＴ=Type BT
+タイプＢＵ=Type BU
+タイプＢＶ=Type BV
+タイプＢＷ=Type BW
+タイプＢＸ=Type BX
+タイプＢＹ=Type BY
+タイプＢＺ=Type BZ
+タイプＣＡ=Type CA
+タイプＣＢ=Type CB
+タイプＣＣ=Type CC
+タイプＣＤ=Type CD
+タイプＣＥ=Type CE
+タイプＣＦ=Type CF
+タイプＣＧ=Type CG
+タイプＣＨ=Type CH
+タイプＣＩ=Type CI
+タイプＣＪ=Type CJ
+タイプＣＫ=Type CK
+タイプＣＬ=Type CL
+タイプＣＭ=Type CM
+タイプＣＮ=Type CN
+タイプＣＯ=Type CO
+タイプＣＰ=Type CP
+タイプＣＱ=Type CQ
+タイプＣＲ=Type CR
+タイプＣＳ=Type CS
+タイプＣＴ=Type CT
+タイプＣＵ=Type CU
+タイプＣＶ=Type CV
+タイプＣＷ=Type CW
+タイプＣＸ=Type CX
+タイプＣＹ=Type CY
+タイプＣＺ=Type CZ
+タイプＤＡ=Type DA
+タイプＤＢ=Type DB
+タイプＤＣ=Type DC
+タイプＤＤ=Type DD
+タイプＤＥ=Type DE
+タイプＤＦ=Type DF
+タイプＤＧ=Type DG
+タイプＤＨ=Type DH
+タイプＤＩ=Type DI
+タイプＤＪ=Type DJ
+タイプＤＫ=Type DK
+タイプＤＬ=Type DL
+タイプＤＭ=Type DM
+タイプＤＮ=Type DN
+タイプＤＯ=Type DO
+タイプＤＰ=Type DP
+タイプＤＱ=Type DQ
+タイプＤＲ=Type DR
+タイプＤＳ=Type DS
+タイプＤＴ=Type DT
+タイプＤＵ=Type DU
+タイプＤＶ=Type DV
+タイプＤＷ=Type DW
+タイプＤＸ=Type DX
+タイプＤＹ=Type DY
+タイプＤＺ=Type DZ
+タイプＥＡ=Type EA
+タイプＥＢ=Type EB
+タイプＥＣ=Type EC
+タイプＥＤ=Type ED
+タイプＥＥ=Type EE
+タイプＥＦ=Type EF
+
+// list/characustom/00_vkat02.unity3d
+一本キズ=Long Scar
+十字キズ=Cross Scar
+三本キズ=Triple Scars
+
+// chara/ymd/mf_sakuya.unity3d
+サクヤ 鼻筋=Sakuya Nose line
+
+// chara/ymd/mf_siru.unity3d
+汁=juice
+
+// chara/ymd/mf_ymdtexture.unity3d
+鼻影改=nose shadow revision
+鼻４=nose 4
+鼻筋=nasal stripe
+鼻影=shadow of nose
+ほうれい線=smile line
+ファンデーション=foundation
+目元１=Around the eyes 1
+目元２=Around the eyes 2
+チーク１=Blush 1
+チーク２=Blush 2
+鼻影R=Nose shadow R
+鼻影改R=Nose Shadow Revision R

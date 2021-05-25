@@ -1,0 +1,37 @@
+//
+// Dumped for Koikatsu v5.1 by Mod Text Dump v0.0.1: 2021-05-25
+//
+
+// chara/nashi/mt_nip_00.unity3d
+Clochette乳首1=Clochette nipple 1
+Clochette乳首2=Clochette Nipple 2
+Clochette乳首3=Clochette Nipple 3
+Clochette乳首4=Clochette nipple 4
+Clochette乳首5=Clochette nipple 5
+Clochette乳首6=Clochette nipple6
+Clochette乳首7=Clochette Nipple7
+
+// chara/etc.unity3d
+なし=None
+
+// chara/phmod/mt_nip_PH1.unity3d
+リアル１=Real 1
+リアル２=Real 2
+陥没乳首=Depressed Nipple
+パフィー=Puffy
+エロマンガ=Erotic Manga
+スター=Star
+ハート=Pattern 9
+
+// chara/phmod/mt_nip_PH2.unity3d
+リアル１落書き=Real 1 Doodle
+リアル２落書き=Real 2 Graffiti
+陥没乳首落書き=Puffy graffiti
+パフィー落書き=Puffy Graffiti
+エロマンガ落書き=Eromanga Graffiti
+
+// chara/YAN_MOD/yan_nip.unity3d
+タイプＡ=Type A
+タイプＡ（ハイライト無し）=Type A (without highlight)
+タイプＢ=Type B
+タイプＢ（ハイライト無し）=Type B (without highlight)

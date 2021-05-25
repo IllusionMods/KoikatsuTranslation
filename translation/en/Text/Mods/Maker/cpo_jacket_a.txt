@@ -1,0 +1,241 @@
+//
+// Dumped for Koikatsu v5.1 by Mod Text Dump v0.0.1: 2021-05-25
+//
+
+// chara/co_top_00.unity3d
+[Add]着物=[Add] Kimono
+キャミソール B=Camisole B
+キャミソール(谷間改)=Camisole(cleavage revision)
+
+// chara/anse/anse_turtleneck_sleeveless_short.unity3d
+ハイネック ノースリーブ ショート=High Neck Sleeveless Short
+
+// chara/anse/anse_turtleneck_sleeveless_long.unity3d
+ハイネック ノースリーブ ロング=High-neck Sleeveless Long
+
+// chara/07_atago/co_bra_07_atago.unity3d
+聖女のビスチェ-atago=Bustier of a saint-atago
+
+// chara/07_djeeta/co_bra_07_djeeta.unity3d
+聖女のビスチェ_djeeta=Saint's bustier-djeeta
+
+// chara/mt_pattern_ZA.unity3d
+男背心短袖衬衣=Men's polo shirt with short sleeves
+
+// chara/mt_pattern_KL.unity3d
+男学生背心衬衣=Men's polo shirt
+长袖衬衣(男)=Long-sleeved polo shirt (for men)
+
+// chara/co_shoes.unity3d
+贵族短风衣=Short-Sleeved Shirt
+
+// chara/mt_pattern_KK.unity3d
+短袖衬衣(男)=Short-sleeved Shirt (Male)
+半袖襟開衬衣=Short-sleeved Collar Opening
+长袖襟開衬衣=Long-sleeved Collar Opening Shirt
+
+// chara/mt_pattern_AH.unity3d
+HS2男衬衣=HS2 polo shirt for men
+HS2男马甲=HS2 men's marsupial
+
+// chara/Sen3_hair.unity3d
+闪轨本校制服=Internal channels
+
+// chara/Sen3_rean.unity3d
+黎恩服装=Reen Clothes
+
+// chara/_mods/fumina02.unity3d
+フミナ3=Humina 3
+
+// chara/_mods/Gal_01.unity3d
+谷間ワイシャツout=Cleavage shirt out
+谷間ワイシャツin=Cleavage shirt in
+
+// chara/_mods/LongSleeveT.unity3d
+ハイネック長袖Tシャツ=High Neck Long Sleeve T-Shirt
+丸首長袖Tシャツ=Long Sleeve T-Shirt
+ハイネック長袖Tシャツ-hallessena=High Neck Long Sleeve T-Shirt-hallessena
+ハイネック長袖Tシャツ-may=High Neck Long Sleeve T-Shirt-may
+?�イ?�ッ??��袖T?�ャ??-shikibu=? High neck sleeves T-shirt-hallessena High-neck long-sleeved T-shirt-may? Long-sleeved T-shirt -shikibu
+
+// chara/_mods1/LongSleeveT_atago.unity3d
+ハイネック長袖Tシャツ_atago=High-neck long-sleeved T-shirt_atago
+
+// chara/_mods1/LongSleeveT_danua.unity3d
+ハイネック長袖Tシャツ_danua=High-neck long-sleeved T-shirt_danua
+
+// chara/_mods/mash2.unity3d
+マシュ鎧胸=Marsh armor chest
+
+// chara/_mods/mash4.unity3d
+マシュ鎧胸テカ=Armor chest
+
+// chara/_mods/mash5.unity3d
+マシュ鎧胴2テカ=Marsh Armor Body 2 Teka
+
+// chara/_mods/mash8.unity3d
+マシュ鎧胴2=Marsh Armor Body 2
+
+// chara/_mods/matou.unity3d
+穂群原学園制服=Hogunhara School Uniform
+
+// chara/_mods/Mine6.unity3d
+マイン鎧胴=Mine Armor Body
+
+// chara/_mods/Mine8.unity3d
+マイン鎧胴2=Mine Armor Body 2
+
+// chara/_mods/miraiakari.unity3d
+ミライアカリ=Mariah Carey
+
+// chara/_mods/otokura.unity3d
+乙倉インナー=Otokura Innerwear
+
+// chara/_mods/toosaka.unity3d
+遠坂シャツ=Tohsaka Shirt
+穂群原学園制服袖まくり=Hobunbara School Uniform Sleeve Roll Up
+
+// chara/_mods/vest.unity3d
+ワイシャツベスト=Dress Shirt Vest
+
+// chara/JK/jk_tops.unity3d
+キャミソール(下乳)=Camisole(lower breast)
+キャミソール(maskless)=Camisole(maskless)
+
+// chara/JK/idol - sarashi.unity3d
+アイドル胸当て=Idol Breastplate
+
+// chara/JK/sukeshirt2.unity3d
+透けワイシャツ=Transparent shirt
+透けワイシャツ襟開け=Open-collared transparent shirts
+透け半袖ワイシャツ襟開け=Transparent short-sleeved shirt with collar open
+
+// chara/JK/sukeshirt3.unity3d
+透け半袖ワイシャツ=Transparent short-sleeved shirt
+
+// chara/mm/buruma_taisouhuku.unity3d
+透け体操着=Transparent gym uniform
+透け体操着2=Transparent gym shirt 2
+透け体操着_djeeta=Transparent gym uniform_djeeta
+
+// chara/mm/buruma_taisouhuku_in.unity3d
+体操着in=Gym clothes in
+
+// chara/mm/buruma_taisouhuku_in_suke.unity3d
+透け体操着in=Transparent Gym Uniform in
+
+// chara/mm/jakbikini.unity3d
+ビキニ水着=Bikini Bottoms
+
+// chara/mf_alice_v2.unity3d
+整合騎士の制服[アリス][SAO]=Matching Knight's Uniform [Alice][SAO]
+
+// chara/mf_asuna.unity3d
+創世神ステイシア[SAO]=God of Creation Stacia [SAO][SAO
+
+// chara/mf_leafa.unity3d
+地神テラリア[SAO]=Earth God Terraria [SAO].
+
+// chara/mf_sinon_CaitSith.unity3d
+シノン(ケットシー)[SAO]=Sinon(Ketsee)[SAO][SAO
+
+// chara/mf_sinon.unity3d
+太陽神ソルス[SAO]=Solus, God of the Sun[SAO].
+
+// chara/nakay/co_openshirt_nkt07.unity3d
+ワイシャツ襟開け２=Shirt Open Collar 2
+ワイシャツ襟開け３=Open Shirt Collar 3
+腕捲りワイシャツ襟開け２=Open Collar of Shirt with Arms Rolled Up 2
+腕捲りワイシャツ襟開け３=Open-Collared Shirt with Arms Rolled Up 3
+半袖ワイシャツ襟開け２=Short-Sleeved Shirt Open Collar 2
+半袖ワイシャツ襟開け３=Short-Sleeved Shirt Collar Opener 3
+
+// chara/nakay/co_openshirtout_nkt08.unity3d
+ワイシャツ裾だし・襟開け２=Shirt Hemming & Collar Opening 2
+ワイシャツ裾だし・襟開け３=Shirt Hemming & Collar Opening 3
+腕捲りワイシャツ裾だし・襟開け２=Roll-up Shirt Hem & Collar Opening 2
+腕捲りワイシャツ裾だし・襟開け３=Rolled-up shirt hems/unbuttoned collar 3
+半袖ワイシャツ裾だし・襟開け２=Short-sleeved shirt-hem/unbuttoned collar 2
+半袖ワイシャツ裾だし・襟開け３=Short-sleeved shirt with hem and collar open3
+
+// chara/nakay/tj_dummy.unity3d
+なし（乳首消し）=None (nipples removed)
+
+// chara/nakay/cpo_jacket_ab_00.unity3d
+ワイシャツ襟開け・裾だし=Shirt Collar and Hem
+ワイシャツ襟開け・裾だし(半脱ぎ改)=Short-sleeved shirt open-collared and hemmed (half-undressed)
+半袖ワイシャツ襟開け・裾だし=Short-sleeved shirt with open collar and hem
+半袖ワイシャツ=Short-Sleeved Shirt
+半袖ワイシャツ襟開け=Short-Sleeved Shirt Collar Opener
+ワイシャツ・カーディガン=Shirt / Cardigan
+ワイシャツ・萌え袖カーディガン=Shirt, Moe Sleeve Cardigan
+
+// chara/nakay/cpo_jacket_a_nkt01.unity3d
+ワイシャツ襟開け(半脱ぎ改)=Shirt Collar Opener (Semi-Unbuttoned)
+
+// chara/cpo_jacket_ab_00.unity3d
+ワイシャツ襟開け・裾だし-halleseena=Shirt Collar Opening & Hemming - Halleseena
+
+// chara/nashi/ns_jacket.unity3d
+フリル付きシャツ=Ruffled Shirts
+フリル付きシャツ 半袖=Short-Sleeved Ruffled Shirts
+袖出しシャツ=Sleeved Shirt
+襟開け袖出しシャツ=Collar Openers
+袖フリルシャツ=Ruffled Sleeve Shirts
+ハイネックセーター=High Neck Sweater
+
+// chara/nashi/ns_sweater_haruka.unity3d
+肩出しニット-haruka=Shoulder-Bared Knit-Haruka
+
+// chara/nashi/ns_Erifrill.unity3d
+襟立てフリルブラウス=Ruffled Blouse with Collar
+りんりんブラウス=Rin Rin Blouse
+
+// chara/NBY_top.unity3d
+NBY上1=NBY Top 1
+NBY上2=NBY Top 2
+NBY上1-rose=NBY Top 1-rose
+
+// chara/nin/nin_jacket.unity3d
+全身タイツ(忍インナー)=Full Length Tights (Shinobi Innerwear)
+大人ワンピース=Adult Dress
+
+// chara/oyd_hoodie.unity3d
+パーカー=Hoodie
+
+// chara/sleeveless_top.unity3d
+ノースリーブ1=Sleeveless 1
+ノースリーブ2=Sleeveless 2
+
+// chara/xne/xne_co_top_altbunny.unity3d
+マジシャン風シャツ（襟のみ）=Magician-style shirt (collar only)
+
+// chara/xne/xne_cpo_top_jinner07cut.unity3d
+へそだしキャミソール=Navel Camisole
+
+// chara/xne/xne_co_top_jinner_mc.unity3d
+マジシャン風シャツ（肩だし）=Magician-Style Shirt (Sleeveless)
+マジシャン風シャツ（袖なし）=Magician-Style Shirt (Sleeveless)
+マジシャン風シャツ（長袖）=Magician-Style Shirt (Long-Sleeved)
+
+// chara/ymd/mf_clothVariation.unity3d
+ワイシャツ半袖襟開け=Short-Sleeved Collarless Shirt
+ワイシャツ半袖ベスト=Shirt Short-Sleeved Vest
+丸襟ブラウスもどき=Round Collar Blouse
+丸襟ブラウスもどき2=Round Collar Blouse 2
+ノースリーブ アレンジ=Sleeveless Arrange
+丸襟ブラウスもどき2-vira=Round Collar Blouse 2-vira
+ワイシャツ半袖襟開け-himiko=Short-sleeved shirt with collar open-himiko
+ハロウィントップス op削除1=Halloween Tops op deleted1
+
+// chara/y005a.unity3d
+体操着（へそ出し）=Gym Uniform (navel showing)
+
+// chara/y005b.unity3d
+体操着（下乳出し）=Gym Uniform (Bare Breasts)
+
+// chara/etc.unity3d
+なし=None
+
+// chara/mod_zmr/cpo_jacket_a_zmr.unity3d
+ワイシャツ=Dress Shirt

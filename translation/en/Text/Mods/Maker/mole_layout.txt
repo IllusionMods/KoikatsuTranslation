@@ -1,0 +1,11 @@
+//
+// Dumped for Koikatsu v5.1 by Mod Text Dump v0.0.1: 2021-05-25
+//
+
+// chara/thumb/facepaint_layout_00.unity3d
+左頬=Left Cheek
+右頬=Right Cheek
+おでこ=Forehead
+鼻=Nose
+口=Mouth
+顎=Chin

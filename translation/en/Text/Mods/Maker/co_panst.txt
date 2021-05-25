@@ -1,0 +1,205 @@
+//
+// Dumped for Koikatsu v5.1 by Mod Text Dump v0.0.1: 2021-05-25
+//
+
+// chara/_mods/claire2.unity3d
+クレアレギンス=Claire Leggings
+
+// chara/co_bot_00.unity3d
+[Add]セクシータイトスカート=[Add] Sexy Tight Skirt
+[Add]ゆったりロングパンツ=[Add] Loose Long Pants
+
+// chara/AntY/co_panst_00.unity3d
+アラストル Ant Y Stockings Transparent 1 (Garter Belt)=Arastole Ant Y Stockings Transparent 1 (Garter Belt)
+アラストル Ant Y Stockings Transparent 2 (Garter Belt)=Arastru Ant Y Stockings Transparent 2 (Garter Belt)
+アラストル Ant Y Stockings Transparent 3 (Garter Belt)=Arastre Ant Y Stockings Transparent 3 (Garter Belt)
+アラストル Ant Y Stockings Solid 1 (Garter Belt)=Arastole Ant Y Stockings Solid 1 (Garter Belt)
+アラストル Ant Y Stockings Solid 2 (Garter Belt)=Arastole Ant Y Stockings Solid 2 (Garter Belt)
+アラストル Ant Y Stockings Solid 3 (Garter Belt)=Arastole Ant Y Stockings Solid 3 (Garter Belt)
+アラストル Ant Y Stockings Transparent 1=Arastru Ant Y Stockings Transparent 1
+アラストル Ant Y Stockings Transparent 2=Arastru Ant Y Stockings Transparent 2
+アラストル Ant Y Stockings Transparent 3=Arastru Ant Y Stockings Transparent 3
+アラストル Ant Y Stockings Solid 1=Arastole Ant Y Stockings Solid 1
+アラストル Ant Y Stockings Solid 2=Arastole Ant Y Stockings Solid 2
+アラストル Ant Y Stockings Solid 3=Arastru Ant Y Stockings Solid 3
+
+// chara/deathweasel/ec_items.unity3d
+サイドレースレギンス=Side Lace Leggings
+
+// chara/ymgpt/ymgpt_co_gloves_long01_lr_alt.unity3d
+長手袋(L)=Long Glove(L)
+長手袋(R)=Long Glove(R)
+
+// chara/mt_pattern_KA.unity3d
+贵族护臂=贵族护臂
+贵族腰带=Women's waistband
+
+// chara/mt_pattern_ZZ.unity3d
+军服腰带=军服腰带
+
+// chara/mt_pattern_SP.unity3d
+王子服束腰=Prince's uniform
+
+// chara/bot_makoto.unity3d
+休闲口袋=Casual Bag
+
+// chara/_mods/blue_wind.unity3d
+ブルーウィンド下=Blue Wind Underwear
+
+// chara/_mods/chirai_04.unity3d
+チライスパッツ=Chillai Spats
+
+// chara/_mods/fumina01.unity3d
+フミナ=Fumina
+
+// chara/_mods/fumina02.unity3d
+フミナ2=Fumina 2
+
+// chara/_mods/makinon05.unity3d
+マキノガーター=Makino Garter
+
+// chara/_mods/mash6.unity3d
+マシュパンスト2テカ=Marsh Pantyhose 2 Teka
+
+// chara/_mods/mash9.unity3d
+マシュパンスト2=Marsh pantyhose 2
+
+// chara/_mods/mash.unity3d
+マシュ=Marsh
+マシュパンスト=Marsh pantyhose
+
+// chara/_mods/miraiakari.unity3d
+ミライアカリ=Mariah Carey
+
+// chara/_mods/racingmiku.unity3d
+レーシングミク2019=Racing Miku 2019
+
+// chara/_mods/sinon03.unity3d
+シノンショートパンツ=Chinon Shorts
+
+// chara/JK/BB_socks.unity3d
+アイドルニーソックス2=Idol Knee Socks 2
+
+// chara/JK/BB_socks2.unity3d
+アイドルニーソックス3=Idol Knee Socks 3
+
+// chara/JK/idol - sholder.unity3d
+アイドルショルダー=Idol Shoulder
+
+// chara/mm/buruma.unity3d
+ブルマ=Bloomers
+ランニングショーツ=Running Shorts
+透けブルマ=Transparent Bloomers
+透けランニングショーツ=Transparent running shorts
+
+// chara/mm/buruma_sukima1p.unity3d
+食い込みブルマ=Blooming Bloomers
+
+// chara/mm/buruma_sukima2p.unity3d
+食い込みブルマ2=Full Length Bloomers 2
+
+// chara/mf_asuna.unity3d
+創世神ステイシア[SAO]=God of Creation Stacia [SAO][SAO
+
+// chara/_kero/co_gloves_NT_02.unity3d
+レア用手袋=Gloves for Rare
+
+// chara/_kero/co_NailGloves_NT_01_alt.unity3d
+ネイルチップ（Ｓ）=Nail Tip (S)
+ネイルチップ（Ｍ）=Nail Tip (M)
+ネイルチップ（Ｌ）=Nail Tip (L)
+
+// chara/nakay/co_kuikomithigh_nkt00.unity3d
+くいこみスパッツ１分=Kumi-Kumi Spats 1min
+くいこみスパッツ４分=Kumi-Kumi Spats 4 min.
+
+// chara/nakay/co_panst_nkt00.unity3d
+パンスト（下げ）=Pantyhose (lowered)
+
+// chara/nashi/ns_bodytights.unity3d
+ツヤボディ1=Shiny Body 1
+ツヤボディ2=Shiny Body 2
+ツヤボディ3=Glossy Body 3
+ザラツヤボディ1=Rough Glossy Body 1
+ザラツヤボディ2=Glossy Body 2
+ザラツヤボディ3=Shiny Body 3
+全身タイツ=Full body tights
+全身タイツ ツヤ=Full Length Tights Glossy
+
+// chara/nashi/ns_panst_zuri.unity3d
+ずらしパンスト=Slip Pantyhose
+ずらしパンスト　ランガード付き=Sliding pantyhose with run guard
+
+// chara/nashi/ns_socks.unity3d
+右ハイサイ=Right High Sides
+右ニーソ=Right Knee Socks
+右ハイソ=right high-socks
+左ニーソ=Left knee socks
+左ハイソ=Left high-socks
+
+// chara/nashi/ns_panst.unity3d
+破れパンスト=Torn pantyhose
+破れ大パンスト=Large Ripped Pantyhose
+破れパンスト　ランガード付き=Ripped Pantyhose with Lung Guard
+破れ大パンスト　ランガード付き=Ripped Large Pantyhose w/Run Guard
+破れ網タイツ=Ripped Mesh Tights
+破れ大網タイツ=Ripped Large Mesh Tights
+
+// chara/nin/nin_shitagi.unity3d
+袖(レオタード)=Sleeves (Leotard)
+
+// chara/_kero_mvd/cpo_shimakazeS_NT_00.unity3d
+透過全身タイツ VerA=Transparent Full Length Tights Ver.
+透過全身タイツ VerB=Transparent Full-Body Tights Ver.
+疑似ヌルテカボディ=Pseudo-slippery body
+さらしショート無地=Sarashi Short Plain
+
+// chara/ztoki/ztoki_04_socks_00.unity3d
+長めのニーソ=Longer Knee Socks
+長めのニーソ 二色分け=Longer Knee Socks Two-Color
+長めのニーソ 網=Longer Knee Socks Net
+
+// chara/taka/taka_co_panst_02.unity3d
+スパッツ改 (5分丈)=Spats Kai (5'-length)
+スパッツ改 (3分丈)=Spats Kai (3min. length)
+スパッツ改 (1分丈)=Spats Kai (1 min. length)
+
+// chara/taka/taka_co_panst_04.unity3d
+スパッツ改 (太もも用ベルト)=Spats Kai (Belt for Thighs)
+スパッツ改 (太もも用ベルト/右のみ)=Spaz Kai (Belt for Thighs/Right Only)
+スパッツ改 (太もも用ベルト/左のみ)=Spats Kai (Belt for Thighs/Left Only)
+
+// chara/taka/taka_co_panst_03.unity3d
+スパッツ改 (5分丈/透過)=Spats Kai (5'Length/Transparent)
+スパッツ改 (3分丈/透過)=Spats Kai (3'Length/Transparent)
+スパッツ改 (1分丈/透過)=Spaz Kai (1min length/Transparent)
+
+// chara/xne/xne_co_top_altbunny.unity3d
+マジシャン風シャツ（襟のみ）=Magician-style shirt (collar only)
+
+// chara/ymd/mf_clothExtend.unity3d
+パフトショルダー 小=Puffed Shoulder Small
+パフトショルダー 3c=Puffed Shoulder 3c
+パフトショルダー=Puffed shoulder
+襟 1=Collar 1
+襟 2=Collar 2
+襟 3=Collar 3
+
+// chara/ymd/mf_clothVariation.unity3d
+くいこみニーハイ 1=Knee High 1
+くいこみニーハイ 2=Knee highs 2
+
+// chara/ymd/mf_clothVariation3.unity3d
+サポーター 膝=Supporter Knee
+サポーター 膝 L=Supporter Knee L
+サポーター 膝 R=Supporter Knee R
+サポーター 肘=Supporter Elbow
+サポーター 肘 L=Supporter Elbow L
+サポーター 肘 R=Supporter Elbow R
+サポーター 肘 膝=Supporter Elbow Knee
+
+// chara/ymd/mf_siru.unity3d
+汁1=Juice 1
+汁2=Juice 2
+汁3=Juice 3
+汁4=Juice 4

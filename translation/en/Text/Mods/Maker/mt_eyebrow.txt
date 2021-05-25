@@ -1,0 +1,99 @@
+//
+// Dumped for Koikatsu v5.1 by Mod Text Dump v0.0.1: 2021-05-25
+//
+
+// chara/dak/mt_eyebrow_00.unity3d
+タイプ8改=Type 8 Revision
+
+// chara/Hiro/hiro_eyebrow_00.unity3d
+太眉=Thick eyebrows
+長太眉（キュート）=Long thick eyebrows (Cute)
+長太眉（エレガント）=Long thick eyebrows(Elegant)
+極太眉=Very Thick Eyebrows
+
+// chara/_kero/CMS_NT_00.unity3d
+タイプ１（縦ショート）=Type 1 (Vertical Short)
+タイプ１（横ショート）=Type 1 (Horizontal Short)
+タイプ１（縦ロング）=Type 1 (Vertical Long)
+タイプ１（横ロング）=Type 1 (Horizontal Long)
+タイプ２（縦ショート）=Type 2 (Vertical short)
+タイプ２（横ショート）=Type 2 (Horizontal short)
+タイプ２（縦ロング）=Type 2 (Vertical long)
+タイプ２（横ロング）=Type 2 (Horizontal Long)
+タイプ３（縦ショート）=Type 3 (Vertical short)
+タイプ３（横ショート）=Type 3 (Horizontal short)
+タイプ３（縦ロング）=Type 3 (Vertical Long)
+タイプ３（横ロング）=Type 3 (Horizontal Long)
+タイプ４（縦ショート）=Type 4 (Vertical short)
+タイプ４（横ショート）=Type 4 (Horizontal short)
+タイプ４（縦ロング）=Type 4 (Vertical Long)
+タイプ４（横ロング）=Type 4 (Horizontal Long)
+タイプ５（縦ショート）=Type 5 (Vertical short)
+タイプ５（横ショート）=Type 5 (Horizontal short)
+タイプ５（縦ロング）=Type 5 (Vertical Long)
+タイプ５（横ロング）=Type 5 (Horizontal Long)
+タイプ６（縦ショート）=Type 6 (Vertical short)
+タイプ６（横ショート）=Type 6 (Horizontal short)
+タイプ６（縦ロング）=Type 6 (Vertical Long)
+タイプ６（横ロング）=Type 6 (Horizontal Long)
+タイプ７（縦ショート）=Type 7 (Vertical short)
+タイプ７（横ショート）=Type 7 (Horizontal short)
+タイプ７（縦ロング）=Type 7 (Vertical Long)
+タイプ７（横ロング）=Type 7 (Horizontal Long)
+タイプ８（縦ショート）=Type 8 (Vertical short)
+タイプ８（横ショート）=Type 8 (Horizontal short)
+タイプ８（縦ロング）=Type 8 (Vertical Long)
+タイプ８（横ロング）=Type 8 (Horizontal Long)
+タイプ９（縦ショート）=Type 9 (Vertical short)
+タイプ９（横ショート）=Type 9 (Horizontal short)
+タイプ９（縦ロング）=Type 9 (Vertical Long)
+タイプ９（横ロング）=Type 9 (Horizontal Long)
+タイプ１０（縦ショート）=Type 10 (Vertical short)
+タイプ１０（横ショート）=Type 10 (Horizontal short)
+タイプ１０（縦ロング）=Type 10 (Vertical Long)
+タイプ１０（横ロング）=Type 10 (Horizontal Long)
+タイプ１１（縦ショート）=Type 11 (Vertical short)
+タイプ１１（横ショート）=Type 11 (Horizontal short)
+タイプ１１（縦ロング）=Type 11 (Vertical Long)
+タイプ１１（横ロング）=Type 11 (Horizontal Long)
+タイプ１２（縦ショート）=Type 12 (Vertical short)
+タイプ１２（横ショート）=Type 12 (Horizontal Short)
+タイプ１２（縦ロング）=Type 12 (Vertical Long)
+タイプ１２（横ロング）=Type 12 (Horizontal Long)
+タイプ１３（縦ショート）=Type 13 (Vertical short)
+タイプ１３（横ショート）=Type 13 (Horizontal short)
+タイプ１３（縦ロング）=Type 13 (Vertical long)
+タイプ１３（横ロング）=Type 13 (Horizontal Long)
+タイプ１４（縦ショート）=Type 14 (Vertical short)
+タイプ１４（横ショート）=Type 14 (Horizontal Short)
+タイプ１４（縦ロング）=Type 14 (Vertical Long)
+タイプ１４（横ロング）=Type 14 (Horizontal Long)
+タイプ１５（縦ショート）=Type 15 (Vertical Short)
+タイプ１５（横ショート）=Type 15 (Horizontal Short)
+タイプ１５（縦ロング）=Type 15 (Vertical Long)
+タイプ１５（横ロング）=Type 15 (Horizontal Long)
+タイプＡ=Type A
+タイプＢ=Type B
+タイプＣ=Type C
+タイプＤ=Type D
+タイプＥ=Type E
+タイプＦ=Type F
+タイプＧ=Type G
+タイプＨ=Type H
+タイプＩ=Type I
+タイプＪ=Type J
+タイプＫ=Type K
+タイプＬ=Type L
+タイプＭ=Type M
+
+// list/characustom/00_vkat02.unity3d
+タイプ１６=Type 16
+
+// chara/ymd/mf_sakuya.unity3d
+サクヤ 眉=Sakuya Eyebrows
+
+// chara/ymd/mf_ymdtexture.unity3d
+中長１=Medium-Long 1
+中長２=Medium-Long 2
+中長丸１=Medium-Long Round 1
+中長丸２=Medium-Long Round 2

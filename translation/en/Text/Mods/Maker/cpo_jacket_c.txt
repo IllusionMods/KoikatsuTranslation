@@ -1,0 +1,48 @@
+//
+// Dumped for Koikatsu v5.1 by Mod Text Dump v0.0.1: 2021-05-25
+//
+
+// chara/mt_pattern_KL.unity3d
+背心衬衣用领带=领带 for衬衣
+
+// chara/co_shoes.unity3d
+HS2贵族风衣=HS2 Dress
+
+// chara/mt_pattern_AI.unity3d
+男领带(衬衣)=Male 领带(衬衣)
+
+// chara/Sen3_rean.unity3d
+黎恩服饰=Beach Beach Clothing
+
+// chara/_mods/matou.unity3d
+穂群原学園制服=Hogunhara School Uniform
+
+// chara/JK/idol - nekutai.unity3d
+アイドルネクタイ=idle tie
+
+// chara/mf_alice_v2.unity3d
+整合騎士の鎧[アリス][SAO]=Matching Knight's Armor [Alice][SAO]
+
+// chara/nakay/cpo_jacket_c_nkt00.unity3d
+ルーズリボン１=Loose ribbon 1
+ルーズリボン２=Loose ribbon 2
+ルーズリボン３=Loose ribbon 3
+ルーズネクタイ外=Loose tie outside
+
+// chara/cpo_jacket_b_nkt01.unity3d
+ジャンパースカート-hareacc=Jumperskirt-hareacc
+
+// chara/nashi/ns_jacket.unity3d
+リボン=Ribbon
+リボン 宝石=Ribbons-Jewels
+ジャボ=jabot
+ゆるリボン=loose ribbon
+
+// chara/nashi/ns_cape_atago.unity3d
+クリスマスポンチョ_atago=Christmas poncho-atago
+
+// chara/nashi/ns_cape.unity3d
+クリスマスポンチョ-Lamretta=Christmas Poncho-Lamretta
+
+// chara/nin/nin_jacket.unity3d
+巫女内衣=Shrine Maiden Inner

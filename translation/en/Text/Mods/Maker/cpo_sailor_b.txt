@@ -1,0 +1,15 @@
+//
+// Dumped for Koikatsu v5.1 by Mod Text Dump v0.0.1: 2021-05-25
+//
+
+// chara/roy12_mod/roy12_halfseifuku_00.unity3d
+タイプ２ (No frills)=Type 2 (No frills)
+
+// chara/_mods/eva.unity3d
+第3新東京市立第壱中学校制服=Daiichi Junior High School Uniform
+
+// chara/_mods/watanabe.unity3d
+みら僕=Miraboku
+
+// chara/etc.unity3d
+なし=None

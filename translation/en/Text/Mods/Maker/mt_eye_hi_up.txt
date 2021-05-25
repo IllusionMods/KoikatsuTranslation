@@ -1,0 +1,200 @@
+//
+// Dumped for Koikatsu v5.1 by Mod Text Dump v0.0.1: 2021-05-25
+//
+
+// chara/noa/noa_eye_hi_up.unity3d
+乃愛=Noa
+
+// chara/mt_eye_hi_up_bdsqlsz.unity3d
+COM3D１=COM3D1
+COM3D２=COM3D2
+COM3D３=COM3D3
+COM3D４=COM3D4
+COM3D５=COM3D5
+COM3D６=COM3D6
+COM3D７=COM3D7
+COM3D８=COM3D8
+COM3D９=COM3D9
+COM3D１０=COM3D10
+COM3D１１=COM3D11
+COM3D１２=COM3D12
+COM3D１３=COM3D13
+COM3D１４=COM3D14
+COM3D１５=COM3D15
+COM3D１６=COM3D16
+COM3D１７=COM3D17
+
+// chara/mt_eye_hi_down_00.unity3d
+タイプ１（下）=Type 1 (lower)
+タイプ２（下）=Type 2 (lower)
+タイプ３（下）=Type 3 (lower)
+タイプ４（下）=Type 4 (lower)
+タイプ５（下）=Type 5 (lower)
+タイプ６（下）=Type 6 (lower)
+タイプ７（下）=Type 7 (lower)
+タイプ８（下）=Type 8 (lower)
+タイプ９（下）=Type 9 (lower)
+タイプ１０（下）=Type 10 (lower)
+タイプ１１（下）=Type 11 (lower)
+タイプ１２（下）=Type 12 (lower)
+タイプ１３（下）=Type 13 (lower)
+タイプ１４（下）=Type 14 (lower)
+タイプ１５（下）=Type 15 (lower)
+タイプ１６（下）=Type 16 (lower)
+タイプ１７（下）=Type 17 (lower)
+タイプ１８（下）=Type 18 (lower)
+タイプ１９（下）=Type 19 (lower)
+タイプ２０（下）=Type 20 (lower)
+タイプ２１（下）=Type 21 (lower)
+タイプ２２（下）=Type 22 (lower)
+タイプ２３（下）=Type 23 (lower)
+タイプ２４（下）=Type 24 (lower)
+タイプ２５（下）=Type 25 (lower)
+タイプ２６（下）=Type 26 (Lower)
+
+// chara/_kero/CMS_NT_00.unity3d
+タイプ１（反転）=Type 1 (Reverse)
+タイプ２（反転）=Type 2 (Reverse)
+タイプ３（反転）=Type 3 (Reverse)
+タイプ４（反転）=Type 4 (Reverse)
+タイプ５（反転）=Type 5 (Reverse)
+タイプ６（反転）=Type 6 (Reverse)
+タイプ７（反転）=Type 7 (Reverse)
+タイプ８（反転）=Type 8 (Reverse)
+タイプ９（反転）=Type 9 (Reverse)
+タイプ１０（反転）=Type 10 (Reverse)
+タイプ１１（反転）=Type 11 (Reverse)
+タイプ１２（反転）=Type 12 (Reverse)
+タイプ１３（反転）=Type 13 (Reverse)
+タイプ１４（反転）=Type 14 (Reverse)
+タイプ１５（反転）=Type 15 (Reverse)
+タイプ１６（反転）=Type 16 (Reverse)
+タイプ１７（反転）=Type 17 (Reverse)
+タイプ１８（反転）=Type 18 (Reverse)
+タイプ１９（反転）=Type 19 (Reverse)
+タイプ２０（反転）=Type 20 (Reverse)
+タイプ２１（反転）=Type 21 (Reverse)
+タイプ２２（反転）=Type 22 (Reverse)
+タイプ２３（反転）=Type 23 (Reverse)
+タイプ２４（反転）=Type 24 (Reverse)
+タイプ２５（反転）=Type 25 (Flip)
+タイプ２６（反転）=Type 26 (Inverted)
+タイプ２７（反転）=Type 27 (Reverse)
+タイプ２８（反転）=Type 28 (Reverse)
+タイプ２９（反転）=Type 29 (Reverse)
+タイプ３０（反転）=Type 30 (Reverse)
+タイプ３１（反転）=Type 31 (Reverse)
+タイプ３２（反転）=Type 32 (Reverse)
+タイプ３３（反転）=Type 33 (reversed)
+タイプ３４（反転）=Type 34 (Reverse)
+タイプ３５（反転）=Type 35 (Reverse)
+タイプ３６（反転）=Type 36 (Reverse)
+タイプ３７（反転）=Type 37 (Reverse)
+タイプ３８（反転）=Type 38 (Reverse)
+タイプ３９（反転）=Type 39 (Reverse)
+タイプ４０（反転）=Type 40 (Reverse)
+タイプ４１（反転）=Type 41 (Reverse)
+タイプ１（下反転）=Type 1 (Flip down)
+タイプ２（下反転）=Type 2 (Flip down)
+タイプ３（下反転）=Type 3 (Flip down)
+タイプ４（下反転）=Type 4 (Flip down)
+タイプ５（下反転）=Type 5 (Flip down)
+タイプ６（下反転）=Type 6 (Flip down)
+タイプ７（下反転）=Type 7 (Flip down)
+タイプ８（下反転）=Type 8 (Flip down)
+タイプ９（下反転）=Type 9 (Flip down)
+タイプ１０（下反転）=Type 10 (Flip down)
+タイプ１１（下反転）=Type 11 (Flip down)
+タイプ１２（下反転）=Type 12 (Flip down)
+タイプ１３（下反転）=Type 13 (Flip down)
+タイプ１４（下反転）=Type 14 (Flip down)
+タイプ１５（下反転）=Type 15 (Flip down)
+タイプ１６（下反転）=Type 16 (Flip down)
+タイプ１７（下反転）=Type 17 (Flip down)
+タイプ１８（下反転）=Type 18 (Flip down)
+タイプ１９（下反転）=Type 19 (Flip down)
+タイプ２０（下反転）=Type 20 (Flip down)
+タイプ２１（下反転）=Type 21 (Flip down)
+タイプ２２（下反転）=Type 22 (Flip down)
+タイプ２３（下反転）=Type 23 (Flip down)
+タイプ２４（下反転）=Type 24 (Flip down)
+タイプ２５（下反転）=Type 25 (Flip down)
+タイプ２６（下反転）=Type 26 (Flip Down)
+タイプＡＭ=Type AM
+タイプＡＮ=Type AN
+タイプＡＯ=Type AO
+タイプＡＰ=Type AP
+タイプＡＱ=Type AQ
+タイプＡＲ=Type AR
+タイプＡＳ=Type AS
+タイプＡ=Type A
+タイプＢ=Type B
+タイプＣ=Type C
+タイプＤ=Type D
+タイプＥ=Type E
+タイプＦ=Type F
+タイプＧ=Type G
+タイプＨ=Type H
+タイプＩ=Type I
+タイプＪ=Type J
+タイプＫ=Type K
+タイプＬ=Type L
+タイプＭ=Type M
+タイプＮ=Type N
+タイプＯ=Type O
+タイプＰ=Type P
+タイプＱ=Type Q
+タイプＲ=Type R
+タイプＳ=Type S
+タイプＴ=Type T
+タイプＵ=Type U
+タイプＶ=Type V
+タイプＷ=Type W
+タイプＸ=Type X
+タイプＹ=Type Y
+タイプＺ=Type Z
+タイプＡＡ=Type AA
+タイプＡＢ=Type AB
+タイプＡＣ=Type AC
+タイプＡＤ=Type AD
+タイプＡＥ=Type AE
+タイプＡＦ=Type AF
+タイプＡＧ=Type AG
+タイプＡＨ=Type AH
+タイプＡＩ=Type AI
+タイプＡＪ=Type AJ
+タイプＡＫ=Type AK
+タイプＡＬ=Type AL
+なし=None
+
+// chara/sagiri/sagiri_eye_hi_up.unity3d
+紗霧=Sagiri
+
+// chara/mod/mod_aurora_al.unity3d
+瞳ハイライト上_オーロラAL=Pupil Highlight Upper_Aurora AL
+
+// chara/mod/mod_eden_vb.unity3d
+瞳ハイライト上_エデンVB=Eye Highlight Upper_Eden VB
+
+// list/characustom/00_vkat02.unity3d
+タイプ４２=Type 42
+
+// chara/ymd/mf_sakuya.unity3d
+サクヤ 目ハイライト=Sakuya Eye Highlight
+
+// chara/YAN_MOD/yan_eye_hi_up.unity3d
+タイプ001=Type 001
+タイプ002=Type 002
+タイプ003=Type 003
+タイプ004=Type 004
+タイプ005=Type 005
+タイプ006=Type 006
+タイプ007=Type 007
+タイプ008=Type 008
+タイプ009=Type 009
+タイプ010=Type 010
+タイプ011=Type 011
+
+// chara/mod_zmr/mt_eye_hi_up_zmr.unity3d
+ハイライトA=Highlight A
+ハイライトB=Highlight B

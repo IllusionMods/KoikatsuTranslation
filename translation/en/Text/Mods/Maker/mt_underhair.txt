@@ -1,0 +1,33 @@
+//
+// Dumped for Koikatsu v5.1 by Mod Text Dump v0.0.1: 2021-05-25
+//
+
+// chara/nam/nam_mt_pubic_hair_00.unity3d
+四角剃跡=Square Shave
+小三角剃跡=Small Triangle Razor
+丸剃跡=Round Scars
+薄い剃跡=Thin Razor Scars
+小盾剃跡=Small Shield Scars
+大盾剃跡=Large Shield Scars
+太縦長剃跡=Large Long Razor
+細縦長剃跡=fine long stubble
+薄縦長剃跡=thin long stub
+大縦長剃跡=large long stub
+横長剃跡=long horizontal razor stubble
+広四角剃跡=broad rectangular razor
+広大盾剃跡=large shield-shaped scar
+広中盾剃跡=broad and medium shield
+広小盾剃跡=broad and small shield marks
+まばら広四角剃跡=sparse broad rectangular shavings
+まばら広大盾剃跡=sparse large shield shavings
+まばら広中盾剃跡=sparse broad and medium shield
+まばら広小盾剃跡=sparse broad and small shield
+
+// chara/nam/mt_nam_pubic_hair_00.unity3d
+三角剃跡=Triangular Shave
+
+// chara/phmod/mt_underhair_PH1.unity3d
+陰毛１=pubic hair 1
+陰毛２=pubic hair 2
+陰毛３=pubic hair 3
+陰毛４=pubic hair 4

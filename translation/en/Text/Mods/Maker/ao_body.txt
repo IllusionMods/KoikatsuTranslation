@@ -1,0 +1,78 @@
+//
+// Dumped for Koikatsu v5.1 by Mod Text Dump v0.0.1: 2021-05-25
+//
+
+// chara/deathweasel/ec_items.unity3d
+サキュバスの翼左用=Succubus' Wing for Left
+サキュバスの翼右用=Succubus' Wing for Right
+
+// chara/nam/ao_nam_acc_00.unity3d
+シンプル乳首リング=Simple Nipple Ring
+乳首リング改=Nipple Ring Kai
+乳首リングジュエル改=Nipple Ring Jewel Kai
+サーキュラーバーベルピアス=Circular Barbell Earrings
+サーキュラーバーベルジュエルピアス=Circular Barbell Jewel Earrings
+バナナバーベルピアス=Banana Barbell Earrings
+バナナバーベルジュエルピアス=Banana Barbell Jewel Earrings
+ストレートバーベル短ピアス=Straight Barbell Short Earrings
+ストレートジュエルバーベル短ピアス=Straight Jeweled Barbell Short Earrings
+ストレートバーベル長ピアス=Straight Barbell Long Earrings
+ストレートジュエルバーベル長ピアス=Straight Jeweled Barbell Long Earrings
+アローバーベルピアス=Arrow Barbell Earrings
+アローバーベルジュエルピアス1色=Arrow Barbell Jewel Earrings 1 color
+アローバーベルジュエルピアス2色=Arrow Barbell Jewel Earrings 2 colors
+アローバーベルジュエルピアス3色=Arrow Barbell Jewel Earrings 3 colors
+ビーズシールド=Bead Shield
+ビーズシールドピアス=Bead Shield Earrings
+ビーズシールドジュエルピアス=Bead Shield Jewel Earrings
+1色ジュエルシールド=1 color jewel shield
+1色ジュエルシールドピアス=1 color jewel shield earrings
+1色ジュエルシールドジュエルピアス=1 color jewel shield jewel earrings
+2色ジュエルシールド=2 Color Jewel Shield
+2色ジュエルシールドピアス=2 Color Jewel Shield Earrings
+2色ジュエルシールドジュエルピアス=2 color jewel shield jewel earrings
+
+// chara/gray/F_devil01_a.unity3d
+悪魔の翼左用（改）=Devil's Wings for Left (Revision)
+悪魔の翼右用（改）=Devil's Wing for Right (Revised)
+
+// chara/koikoi/ao_body_07.unity3d
+AI翼=AI Wings
+
+// chara/_kero/ao_koopa.unity3d
+クッパのこうら=Bowser's Shell
+
+// chara/ao_body_09_k.unity3d
+アーマープレート_k=Armor Plate_k
+
+// chara/nakay/ao_cardigan_n01.unity3d
+セーラー重ね着カーディガン１=Sailor Layered Cardigan 1
+セーラー重ね着カーディガン２=Sailor Overlapping Cardigan 2
+
+// chara/mod/mod_eden_vb.unity3d
+光翼_エデンVB=Hikari Tsubasa_Eden VB
+光翼_エデンVB_アニメ無=Light Wings_Eden VB_without animation
+
+// chara/mod/mod_ranrin_acm.unity3d
+蝶翅_嵐燐結騎=butterfly wing_storm phosphorus knight
+蝶翅_嵐燐結騎_エフェ無=butterfly wing_storm_rink_without_effect
+蝶翅_嵐燐結騎_アニメ無=wing_storm_rin_without_animation
+
+// chara/roie/roie_accessories.unity3d
+背負いカバン（取手なし）=Backpack (without handle)
+デイパック=daypack
+
+// chara/ao_body_halloween.unity3d
+クモの巣=Spider Web
+
+// chara/ao_body_newyear.unity3d
+勲章=medals
+メダル=medal
+
+// chara/ao_body_xmas.unity3d
+プレゼント袋=Gift Bag
+スノークリスタル=Snow Crystal
+
+// chara/mod_zmr/ao_body_zmr.unity3d
+悪魔の翼左用=Demon Wing (Left)
+悪魔の翼右用=Demon Wing (Right)

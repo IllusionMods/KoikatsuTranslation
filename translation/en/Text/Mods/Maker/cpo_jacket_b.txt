@@ -1,0 +1,163 @@
+//
+// Dumped for Koikatsu v5.1 by Mod Text Dump v0.0.1: 2021-05-25
+//
+
+// chara/_mods/claire2.unity3d
+クレアブレザー=Claire Blazer
+
+// chara/co_top_00.unity3d
+[Add]弓道衣胸当てなし=Add] Kyudo Kimono without Breastplate
+[Add]スーツ=[Add] suit
+[Add]ノースリーブワンピース=[Add] Sleeveless dress
+[Add]パーカー前開き=Add] Hoodie with front opening
+
+// chara/co_top_12.unity3d
+[Add]ワンピース（無地）=Add] dress (plain)
+
+// chara/anse/anse_dress.unity3d
+あんせ長袖ワンピ=Anse long-sleeved one-piece
+
+// chara/co_shoes_22_22.unity3d
+男背带=men's back strap
+
+// chara/co_shoes.unity3d
+贵族短风衣=Short-Sleeved Shirt
+
+// chara/mt_pattern_ZA.unity3d
+立领制服=领制服
+男学生服=Men's school uniform
+男背心短袖衬衣=Men's polo shirt with short sleeves
+
+// chara/mt_pattern_AH.unity3d
+HS2男马甲=HS2 men's marsupial
+
+// chara/mt_pattern_KL.unity3d
+男学生背心衬衣=Men's polo shirt
+
+// chara/Sen3_hair.unity3d
+闪轨本校制服=Internal channels
+
+// chara/Sen3_rean.unity3d
+黎恩服饰(下摆)=Reen Clothing饰(Inferior & Fore)
+黎恩服饰(固定)=Dress饰(Fixed)
+
+// chara/_mods/Gal_02.unity3d
+谷間カーディガン=Cleavage Cardigan
+
+// chara/_mods/kirisu.unity3d
+ブレザーC改=Blazer C
+
+// chara/_mods/Mine5.unity3d
+マインマント=Mine Cloak
+
+// chara/_mods/miraiakari.unity3d
+ミライアカリ=Mariah Carey
+
+// chara/_mods/otokura.unity3d
+乙倉アウター=Otokura Outerwear
+
+// chara/_mods/toosaka.unity3d
+遠坂コート=Tohsaka Coat
+
+// chara/_mods/sweet_patissiere.unity3d
+スウィート・パティシエール=Sweet Patissiere
+
+// chara/Hayashi/hayashi_hoodie.unity3d
+パーカー前開き=Open-front Hoodie
+
+// chara/JK/idol - onaka.unity3d
+アイドルおなか=Idol Tummy
+
+// chara/mm/parkeropm.unity3d
+半開きパーカー=Half-open Hoodie
+
+// chara/mf_alice_v2.unity3d
+整合騎士の鎧[アリス][SAO]=Matching Knight's Armor [Alice][SAO]
+
+// chara/mf_asuna.unity3d
+創世神ステイシア[SAO]=God of Creation Stacia [SAO][SAO
+
+// chara/mf_leafa.unity3d
+地神テラリア[SAO]=Earth God Terraria [SAO].
+
+// chara/mf_sinon_CaitSith.unity3d
+シノン(ケットシー)[SAO]=Sinon(Ketsee)[SAO][SAO
+
+// chara/mf_sinon.unity3d
+太陽神ソルス[SAO]=Solus, God of the Sun[SAO].
+
+// chara/cpo_jacket_b_00.unity3d
+ブレザーC(inmab改)=Blazer C(inmab modified)
+
+// chara/nakay/cpo_jacket_ab_00.unity3d
+長袖ブレザーC前開き=Long Sleeve Blazer C Front Opening
+ロングカーディガン前開き=Long Cardigan Front Opening
+ベスト=Vest
+ロングパーカー１=Long Hoodie 1
+ロングパーカー２=Long Hoodie 2
+ノースリーブロングパーカー=Sleeveless Long Hoodie
+
+// chara/nakay/cpo_jacket_b_nkt01.unity3d
+萌え袖ロングパーカー１=Moe Sleeve Long Hoodie1
+萌え袖ロングパーカー２=Moe Sleeve Long Hoodie2
+ジャンパースカート=Jumperskirt
+
+// chara/cpo_jacket_b_nkt01_himiko.unity3d
+ジャンパースカート_himiko=Jumperskirt-himiko
+
+// chara/cpo_jacket_b_nkt01.unity3d
+ジャンパースカート-may=Jumperskirt-may
+ジャンパースカート-melt=Jumperskirt-melt
+ジャンパースカート-merline=Jumperskirt-merline
+
+// chara/nashi/ns_jacket.unity3d
+乳袋ジャケット=breast bag jacket
+乳袋ジャケット 袖無し=breast bag jacket without sleeves
+コルセット=Corset
+カーディガン=Cardigan
+ロングカーディガン=Long Cardigans
+ジャケット=Jacket
+セーター=Sweater
+キャミソール=Camisole
+カーディガン_djeeta=Cardigans-djeeta
+
+// chara/nashi/ns_FurCoat.unity3d
+ファーコート=Fur Coat
+ファーコート-hallessena=Fur coat-hallessena
+
+// chara/nin/nin_jacket.unity3d
+弓道衣(マスク改)=Kyudo-gi (mask modification)
+弓道衣胸当てなし(マスク改)=Kyudo-garment without breastplate (mask modification)
+弓道衣半脱ぎ=Kyudo robe half off
+着物(マスク改)=Kimono (mask modification)
+着物半脱ぎ=Kimono
+着物柄あり(マスク改)=Kimono with pattern (Mask Modification)
+着物柄あり半脱ぎ=Kimono with pattern
+
+// chara/roie/roie_tops.unity3d
+ベーシックコート=Basic Coat
+トレンチコート=Trench Coat
+ワンピコート=One-piece Coats
+ノースリーブワンピ=Sleeveless Onesie
+キーホールワンピ=Keyhole Onesies
+ベアワンピ=Bare One-Piece
+ベアワンピ（レザー）=Bare One-Piece (Leather)
+ノースリーブトップス（スレンダー）=Sleeveless Tops (Slender)
+ノースリーブトップス（グラマー）=Sleeveless Tops (Glamour)
+ベスト（スレンダー）=Vest (Slender)
+ベスト（グラマー）=Vest(Glamour)
+ライダース（スレンダー）=Riders(Slender)
+ライダース（グラマー）=Riders (Glamour)
+
+// chara/xne/xne_cpo_jacket_skcdg.unity3d
+腰巻カーディガン並=Waist Wrap Cardigan
+腰巻カーディガン広=Wide Waistband Cardigan
+腰巻カーディガン広々=Wide Waist Wrap Cardigan
+
+// chara/ymd/mf_clothExtend.unity3d
+パフトショルダー 小-shikibu=Puffed Shoulder Small-Shikibu
+
+// chara/ymd/mf_clothVariation.unity3d
+ジャンパースカートもどき=Jumperskirt
+ジャンパースカートもどき 2=Jumperskirt 2
+ハロウィントップス op削除1=Halloween Tops op deleted1

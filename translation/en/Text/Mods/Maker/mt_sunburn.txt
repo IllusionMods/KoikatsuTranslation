@@ -1,0 +1,14 @@
+//
+// Dumped for Koikatsu v5.1 by Mod Text Dump v0.0.1: 2021-05-25
+//
+
+// chara/mm/bihaku.unity3d
+美白=Whitening
+
+// chara/wtf/wtf_akami.unity3d
+赤み=Reddish
+
+// chara/ymd/mf_ymdtexture.unity3d
+ハイネック ワンピ=High Neck Onesie
+ハイネック セパレ=High Neck Separe
+ハイネック 上だけ=High Neck Top Only

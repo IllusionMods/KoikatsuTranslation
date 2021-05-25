@@ -1,0 +1,66 @@
+//
+// Dumped for Koikatsu v5.1 by Mod Text Dump v0.0.1: 2021-05-25
+//
+
+// chara/deathweasel/ec_items.unity3d
+聖女の首飾り=Saint's necklace
+盗賊のマフラー=Thieves' scarf
+スカルブローチ=Skull brooch
+
+// chara/gray/F_neck00_a.unity3d
+エキゾチックネックレス=Exotic necklace
+
+// chara/_mods/Gal_04.unity3d
+ロングリボン=Long ribbon
+
+// chara/_mods/sinon07.unity3d
+シノンマフラー=Sinon scarf
+
+// chara/_mods/sinon05.unity3d
+シノン腰のヤツ=Sinon waist guy
+
+// chara/_mods/takamura3.unity3d
+衛士強化装備首=Guard enhancement equipment neck
+
+// chara/ao_neck_03.unity3d
+鈴付きチョーカー =Bell Choker
+
+// chara/mf_alice.unity3d
+騎士のマント[アリス]=Knight's cloak [Alice].
+ネックレス[アリス]=Necklace [Alice].
+
+// chara/mf_alice_v2.unity3d
+整合騎士のマント[アリス][SAO]=Matching knight's cloak [Alice][SAO].
+ネックレス[アリス][SAO]=Necklace [Alice][SAO].
+
+// chara/mf_sinon.unity3d
+太陽神ソルス[SAO]=Solus, God of the Sun[SAO].
+
+// chara/nakay/ao_neck_nkt01.unity3d
+ルーズネックリボン１=Loose neck ribbon 1
+ルーズネックリボン２=Loose neck ribbon 2
+ルーズネクタイ=Loose necktie
+
+// chara/nin/nin_acs.unity3d
+えり巻き=necktie wrap
+くび巻き=Neck Wrap
+えり巻き(調整2有)=Erimaki (with 2 adjustments)
+
+// chara/roie/roie_accessories.unity3d
+マフラー無地（WBAccs）=Scarf plain (WBAccs)
+
+// chara/ao_neck_xmas.unity3d
+クリスマスベル=Christmas Bells
+
+// list/characustom/00_vkat02.unity3d
+エトワールブローチ=Star Choker
+
+// chara/ymd/mf_accneckP.unity3d
+付けフード=Attached hood
+付けマント=attached cape
+ドッグタグ=Dog tag
+十字架=Crucifix
+チョーカー=Choker
+タイ=Tie
+ルーズタイ=Loose Ties
+リボンタイ=Ribbon Tie

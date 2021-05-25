@@ -1,0 +1,136 @@
+//
+// Dumped for Koikatsu v5.1 by Mod Text Dump v0.0.1: 2021-05-25
+//
+
+// chara/deathweasel/ec_items.unity3d
+ヴァルキリーグリーヴ=Valkyrie Greaves
+聖女のサンダル=Saint's Sandals
+盗賊のブーツ=Thieves' Boots
+サキュバスブーツ=Succubus Boots
+ネクロマンサーのブーツ=Necromancer Boots
+
+// chara/co_shoes.unity3d
+盔甲靴=Crampon boots
+HM男主黑皮鞋=HM men's black leather boots
+HM男主白皮鞋=HM boots
+HS2贵族靴=HS2 crampon boots
+
+// chara/co_shoes_22_22.unity3d
+运动板鞋=Crampons
+EC皮靴(改)=EC leather shoes(modified)
+
+// chara/mt_pattern_SH.unity3d
+AI牛津皮鞋=AI leather shoes
+
+// chara/mt_pattern_ZZ.unity3d
+HS2护腿靴=HS2 护腿シューズ
+
+// chara/Sen3_hair.unity3d
+闪轨本校制服=Internal channels
+
+// chara/sutela6.unity3d
+sutela_鞋子=sutela_鞋子
+
+// chara/_mods/chirai_05.unity3d
+チライブーツ=Chillai boots
+
+// chara/_mods/fumina01.unity3d
+フミナ=Fumina
+
+// chara/_mods/gantz_suit3.unity3d
+ガンツシューズ=Gantz shoes
+
+// chara/_mods/gantz_suit7.unity3d
+ガンツシューズ2=Gantz shoes 2
+
+// chara/_mods/makinon07.unity3d
+マキノパンプス=Makino Pumps
+
+// chara/_mods/mash2.unity3d
+マシュブーツ=mash boots
+
+// chara/_mods/mash4.unity3d
+マシュブーツテカ=Marsh Boots Teka
+
+// chara/_mods/mash7.unity3d
+マシュブーツ2テカ=Marsh Boot 2 Teka
+
+// chara/_mods/mash10.unity3d
+マシュブーツ2=Marshmallow Boots 2
+
+// chara/_mods/Mine3.unity3d
+マイン鎧脚=Mine Armor Legs
+
+// chara/_mods/miro2.unity3d
+ミロブーツ=Milo Boots
+
+// chara/_mods/rider3.unity3d
+ライダーパンプス=Rider Pumps
+
+// chara/co_shoes_01.unity3d
+キュートナースシューズ=Cute Nurse Shoes
+
+// chara/mf_alice.unity3d
+騎士のブーツ[アリス]=Knight's Boots [Alice].
+ビキニアーマー[アリス]=Bikini Armor [Alice][SAO
+
+// chara/mf_alice_v2.unity3d
+整合騎士のブーツ[アリス][SAO]=Matching Knight's Boots [Alice][SAO]
+ビキニアーマー[アリス][SAO]=Bikini Armor [Alice][SAO]
+
+// chara/mf_asuna.unity3d
+創世神ステイシア[SAO]=God of Creation Stacia [SAO][SAO
+
+// chara/mf_leafa.unity3d
+地神テラリア[SAO]=Earth God Terraria [SAO].
+
+// chara/mf_sinon_CaitSith.unity3d
+シノン(ケットシー)[SAO]=Sinon(Ketsee)[SAO][SAO
+
+// chara/mf_sinon.unity3d
+太陽神ソルス[SAO]=Solus, God of the Sun[SAO].
+
+// chara/qinxiezi.unity3d
+琴鞋子=Koto鞋子
+
+// chara/mod/mod_aurora_al.unity3d
+水上靴_オーロラAL=Water shoes_Aurora AL
+
+// chara/mod/mod_ranrin_acm.unity3d
+靴_嵐燐結騎=Shoes_Arashi Rin Yugi
+
+// chara/co_shoes_xmas.unity3d
+サンタブーツ=Santa Boots
+
+// list/characustom/00_vkat02.unity3d
+リングブーツ=Ring Boots
+
+// wen/wenlihuazou.unity3d
+wen立华奏=wen liyuan
+
+// wen/wenyaojing.unity3d
+wen妖精=wen Fairy
+
+// wen/wenyeye.unity3d
+wen夜夜=WEN Night Night
+
+// chara/ws54090/co_shoes_00.unity3d
+(Stiletto) ローファー=(Stiletto) Loafers
+(Stiletto) 小悪魔パンプス=(Stiletto) Little Devil Pumps
+(Stiletto) アイドルパンプス=(Stiletto) Idle Pumps
+(Stiletto) リボンパンプス =(Stiletto) Ribbon Pumps 
+(Stiletto) サンダル =(Stiletto) Sandals 
+(Stiletto) サイドリボンパンプス =(Stiletto) Side Ribbon Pumps 
+(Stiletto) パンプス =(Stiletto) Pumps 
+(Stiletto) 便所サンダル=(Stiletto) Latrine sandals
+(Stiletto) リボンストラップサンダル=(Stiletto) Ribbon strap sandals
+(Stiletto) 草履=(Stiletto) Sandals
+
+// chara/ymd/mf_texchange.unity3d
+騎士のブーツ[マスク変更]=Knight's boots [Mask change] (Stiletto)
+
+// chara/mod_zmr/co_shoes_zmr.unity3d
+ブーツ=Boots
+
+// chara/xz.unity3d
+卡莲南瓜鞋子=卡莲南瓜鞋子

@@ -1,0 +1,12 @@
+//
+// Dumped for Koikatsu v5.1 by Mod Text Dump v0.0.1: 2021-05-25
+//
+
+// chara/_mods/eva.unity3d
+第3新東京市立第壱中学校制服=Daiichi Junior High School Uniform
+
+// chara/sage/sagesk2.unity3d
+島風=Shimakaze
+
+// chara/11/cpo_jacket_ab_00_atago.unity3d
+ワイシャツ・カーディガン_atago=Shirts & Cardigans_atago

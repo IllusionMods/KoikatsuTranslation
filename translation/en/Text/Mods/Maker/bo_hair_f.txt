@@ -1,0 +1,101 @@
+//
+// Dumped for Koikatsu v5.1 by Mod Text Dump v0.0.1: 2021-05-25
+//
+
+// chara/noa/noa_hair_f.unity3d
+乃愛=Noa
+
+// chara/dak/bo_hair_f_00.unity3d
+[dak]でこだし(短)=[dak]Dekodashi (short)
+[dak]アイドルカット改(左)=dak]Idle Cut Revision (Left)
+[dak]アイドルカット改(右)=dak]Idle Cut Revision (Right)
+[dak]M字バングストレート改(右)=[dak]Straight M-Shaped Bangs (Right)
+[dak]M字バングストレート改2(右)=[dak]M-Shaped Bang Straight Revision 2 (Right)
+[dak]M字バングストレート改3(右)=[dak]M-Shaped Bang Straight Revision 3 (Right)
+[dak]M字バングストレート改4(右)=[dak]M-Shaped Bang Straight Revision 4 (Right)
+[dak]M字バングストレート改5(右)=[dak]M-Shaped Bang Straight Revision 5 (Right)
+[dak]M字バングストレート改(左)=[dak]Straight M-Shaped Bangs Kai (left)
+[dak]M字バングストレート改2(左)=[dak]M-Shaped Bang Straight Revision 2 (Left)
+[dak]M字バングストレート改3(左)=[dak]M-Shaped Bang Straight Revision 3(Left)
+[dak]M字バングストレート改4(左)=[dak]M-Shaped Bang Straight Revision 4 (Left)
+[dak]M字バングストレート改5(左)=[dak]M-Shaped Bang Straight Revision 5 (left)
+
+// chara/dak/bo_hair_f_01.unity3d
+[dak]ロングサイドアイドルカット(左)=[dak]Long Side Idle Cut (Left)
+[dak]中分ボブ(前)=dak]Mid-length bob (front)
+[dak]ロングサイドアイドルカット(右)=dak]Long Side Idle Cut (Right)
+
+// chara/bo_hair_f_00.unity3d
+(右)ストレート=(right)Straight
+(右)お嬢様分け=(right)Lady's parting
+(右)くせストレート=(Right)Straight hair
+(右)M字バング=(Right)M-shaped bang
+(右)ショートヘア=(Right)Short hair
+(右)きのこヘア=(Right) Mushroom hair
+(右)切りっぱなし=(Right) Cropped hair
+(右)ウェーブロング=(Right)Long wavy hair
+(右)前おさげ=(Right)Front pigtails
+(右)縦巻きロール=(Right) Vertical rolls
+(右)ボーイッシュ=(Right) Boyish
+
+// chara/mk179/unused_hair.unity3d
+(右)おかっぱ=(Right)Haircut
+
+// chara/mf_alice_v2.unity3d
+サイドロング[アリス][SAO]=Side Long [Alice][SAO]
+
+// chara/mf_leafa.unity3d
+地神テラリア[SAO]=Earth God Terraria [SAO].
+
+// chara/mf_sinon_CaitSith.unity3d
+シノン(ケットシー)[SAO]=Sinon(Ketsee)[SAO][SAO
+
+// chara/mf_sinon.unity3d
+シノン[SAO]=Sinon [SAO][SAO
+
+// chara/sagiri/sagiri_hair_f.unity3d
+紗霧=Sagiri
+
+// chara/mod/mod_aurora_al_hair_f.unity3d
+外ハネパッツン_オーロラAL=Gaihane-Patsun_Aurora AL
+
+// chara/mod/mod_eden_vb.unity3d
+メカクレフロント_エデンVB=Mecakure Front_Eden VB
+
+// chara/mod/mod_ranrin_acm.unity3d
+ミディアムショート_嵐燐結騎=Medium Short_Arashi Rin Yuki
+
+// chara/mod_ryl/bo_hair_f_ryl_01.unity3d
+りりっくショート=Rikku Short
+ぷらいどショート=Puraidoh Short
+
+// chara/mod_ryl/bo_hair_f_ryl_02.unity3d
+すまいるアシメ(右)=Sumire Asime (Right)
+
+// chara/mod_ryl/bo_hair_f_ryl_02_i.unity3d
+すまいるアシメ(左)=Sumai Asime (Left)
+
+// chara/bo_hair_f_mod_01.unity3d
+横分け=Side Parting
+ショートヘア=Short Hair
+左右分け=Side parting
+でこだし=Exposed Forehead
+おかっぱ=Bowl-cut
+Ｍ字カット=M-Shaped Cut
+姫カット=Princess Cut
+
+// chara/Hayashi/vhair02_f_02.unity3d
+つんつんショート=Pointy Short
+横分けショート=Side parting short
+くせっ毛ショート=Curly Hair Short
+
+// chara/ymd/mf_hairNicoichi.unity3d
+F15 調整 I=F15 Adjustment I
+F15 調整 II=F15 Adjustment II
+F02 調整=F02 Adjustment
+F02 反転 調整 =F02 Invert Adjustment 
+F04 + F20 反転=F04 + F20 Invert
+F08 調整=F08 Adjustment
+
+// chara/ymd/mf_haircap.unity3d
+M字バング左 前なし=M-Bang Left No Front

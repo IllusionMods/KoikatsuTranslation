@@ -1,0 +1,94 @@
+//
+// Dumped for Koikatsu v5.1 by Mod Text Dump v0.0.1: 2021-05-25
+//
+
+// chara/deathweasel/ec_items.unity3d
+サキュバスソックス=Succubus Socks
+
+// chara/ymgpt/ymgpt_co_gloves_long01_lr_alt.unity3d
+長手袋(L)=Long Glove(L)
+長手袋(R)=Long Glove(R)
+
+// chara/mt_pattern_KA.unity3d
+贵族腰带=Women's waistband
+贵族护臂=贵族护臂
+
+// chara/_mods/Gal_03.unity3d
+もっとルーズソックス=More Loose Socks
+
+// chara/_mods/makinon06.unity3d
+マキノソックス=Makino Socks
+
+// chara/_mods/rider.unity3d
+ライダーソックス=Rider Socks
+
+// chara/JK/BB_socks.unity3d
+アイドルニーソックス2=Idol Knee Socks 2
+
+// chara/JK/BB_socks2.unity3d
+アイドルニーソックス3=Idol Knee Socks 3
+
+// chara/JK/idol - sholder.unity3d
+アイドルショルダー=Idol Shoulder
+
+// chara/co_socks_01.unity3d
+網ニーソックス=Fishnet Knee Socks
+
+// chara/_kero/co_NailGloves_NT_01_alt.unity3d
+ネイルチップ（Ｓ）=Nail Tip (S)
+ネイルチップ（Ｍ）=Nail Tip (M)
+ネイルチップ（Ｌ）=Nail Tip (L)
+
+// chara/nakay/co_kuikomithigh_nkt00.unity3d
+くいこみニーソ=Kumikomi Knee Socks
+くいこみサイハイ=KIKUMI SAI HIGH
+
+// chara/nashi/ns_socks.unity3d
+左ハイサイ=Left High Sai
+左ニーソ=Left knee socks
+左ハイソ=Left high-socks
+右ニーソ=Right Knee Socks
+右ハイソ=right high-socks
+
+// chara/mod/mod_aurora_al.unity3d
+ガーターサイハイ_オーロラAL=Garter sigh high_Aurora AL
+
+// chara/mod/mod_ranrin_acm.unity3d
+ニーソ_嵐燐結騎=Knee Socks_Arashi Rin Yuki
+
+// chara/roie/roie_socks.unity3d
+ロークルー=Low Crew
+クルー=Crew
+スリークォーター=Three Quarters
+
+// chara/co_socks_xmas.unity3d
+サンタ=Santa Claus
+
+// wen/wenyaojing.unity3d
+wen妖精=wen Fairy
+
+// chara/ymd/mf_clothExtend.unity3d
+パフトショルダー 小=Puffed Shoulder Small
+パフトショルダー 3c=Puffed Shoulder 3c
+パフトショルダー=Puffed shoulder
+襟 1=Collar 1
+襟 2=Collar 2
+襟 3=Collar 3
+
+// chara/ymd/mf_clothVariation.unity3d
+くいこみニーハイ 1=Knee High 1
+くいこみニーハイ 2=Knee highs 2
+
+// chara/ymd/mf_siru.unity3d
+汁1=Juice 1
+汁2=Juice 2
+汁3=Juice 3
+汁4=Juice 4
+
+// chara/ymd/mf_texchange.unity3d
+騎士のソックス[マスク変更]=Knight's socks [mask change].
+
+// chara/ztoki/ztoki_04_socks_00.unity3d
+長めのニーソ=Longer Knee Socks
+長めのニーソ 二色分け=Longer Knee Socks Two-Color
+長めのニーソ 網=Longer Knee Socks Net

@@ -1,0 +1,161 @@
+//
+// Dumped for Koikatsu v5.1 by Mod Text Dump v0.0.1: 2021-05-25
+//
+
+// chara/co_top_00_01.unity3d
+[Add]カーディガンキャミソール=[Add] Cardigan Camisole
+
+// chara/AntY/co_gloves_00.unity3d
+アラストル Ant Y Long Gloves=Arastole Ant Y Long Gloves
+アラストル Ant Y Long Gloves Transparent=Arastole Ant Y Long Gloves Transparent
+アラストル Ant Y Long Gloves Fingerless=Arastole Ant Y Long Gloves Fingerless
+アラストル Ant Y Long Gloves Fingerless Transparent=Arastole Ant Y Long Gloves Fingerless Transparent
+アラストル Ant Y Short Gloves=Arastre Ant Y Short Gloves
+アラストル Ant Y Short Gloves Transparent=Arastole Ant Y Short Gloves Transparent
+アラストル Ant Y Short Gloves Fingerless=Ant Y Short Gloves Fingerless
+アラストル Ant Y Short Gloves Fingerless Transparent=Arastle Ant Y Short Gloves Fingerless Transparent
+
+// chara/deathweasel/ec_items.unity3d
+ヴァルキリーグローブ=Valkyrie Gloves
+聖女の手袋=Saint's Gloves
+盗賊のグローブ=Thief's Glove
+サキュバスーグローブ=Succubus Gloves
+ネクロマンサーのグローブ=Necromancer Gloves
+
+// chara/ymgpt/ymgpt_co_gloves_long01_lr.unity3d
+長手袋(L)=Long Glove(L)
+長手袋(R)=Long Glove(R)
+
+// chara/ymgpt/ymgpt_co_gloves_long01_alpha.unity3d
+長手袋(Alpha)=Long Gloves(Alpha)
+長手袋(Alpha L)=Long Glove(Alpha L)
+長手袋(Alpha R)=Long Gloves(Alpha R)
+
+// chara/mt_pattern_KA.unity3d
+贵族护臂=贵族护臂
+
+// chara/_mods/angela.unity3d
+三等官手袋=Third class gloves
+
+// chara/_mods/chirai_02.unity3d
+チライグローブ=Chillai glove
+
+// chara/_mods/gantz_suit3.unity3d
+ガンツグローブ=Gantz Glove
+
+// chara/_mods/gantz_suit7.unity3d
+ガンツグローブ2=Gantz glove 2
+
+// chara/_mods/makinon04.unity3d
+マキノグローブ=Makino glove
+
+// chara/_mods/mash6.unity3d
+マシュグローブ2テカ=mash glove 2 teka
+
+// chara/_mods/mash9.unity3d
+マシュグローブ2=mash glove 2
+
+// chara/_mods/mash.unity3d
+マシュ=Marsh
+マシュグローブ=Marsh Glove
+
+// chara/_mods/Mine3.unity3d
+マイン鎧籠手=Mine Armor Basket Hand
+
+// chara/_mods/rider2.unity3d
+ライダー手袋=Rider Gloves
+
+// chara/Hayashi/hayashi_glove.unity3d
+小悪魔手袋（装飾なし）=Little Devil Gloves (No Decoration)
+小悪魔手袋（シンプル）=Little Devil Gloves (Simple)
+
+// chara/Hayashi/hayashi_gloves_06.unity3d
+巫女武者手甲（手甲なし）=Miko Warrior Hand Armor (without Hand Armor)
+
+// chara/JK/idol - sholder.unity3d
+アイドルショルダー=Idol Shoulder
+
+// chara/mf_alice.unity3d
+騎士の籠手[アリス]=Knight's Baskets [Alice][SAO
+
+// chara/mf_alice_v2.unity3d
+整合騎士の籠手[アリス][SAO]=Alignment knight's basket hand [Alice][SAO].
+
+// chara/mf_asuna.unity3d
+創世神ステイシア[SAO]=God of Creation Stacia [SAO][SAO
+
+// chara/mf_leafa.unity3d
+地神テラリア[SAO]=Earth God Terraria [SAO].
+
+// chara/mf_sinon_CaitSith.unity3d
+シノン(ケットシー)[SAO]=Sinon(Ketsee)[SAO][SAO
+
+// chara/mf_sinon.unity3d
+太陽神ソルス[SAO]=Solus, God of the Sun[SAO].
+
+// chara/_kero/co_gloves_NT_02.unity3d
+レア用手袋=Gloves for Rare
+
+// chara/_kero/co_NailGloves_NT_01.unity3d
+ネイルチップ（Ｓ）=Nail Tip (S)
+ネイルチップ（Ｍ）=Nail Tip (M)
+ネイルチップ（Ｌ）=Nail Tip (L)
+
+// chara/nakay/co_cardigan_n01.unity3d
+セーラー重ね着カーディガン１=Sailor Layered Cardigan 1
+セーラー重ね着カーディガン２=Sailor Overlapping Cardigan 2
+セーラー重ね着カーディガン３=Sailor Layered Cardigan 3
+
+// chara/nashi/ns_gloves.unity3d
+フリル手袋=Frilled Gloves
+フリルアームカバー=Frilled Arm Cover
+
+// chara/mod/mod_aurora_al.unity3d
+ワンピース袖_オーロラAL=One-piece sleeves_Aurora AL
+
+// chara/mod/mod_eden_vb.unity3d
+ローブ袖_エデンVB=Robe sleeve_Eden VB
+
+// chara/mod/mod_ranrin_acm.unity3d
+長手袋_嵐燐結騎=Long gloves_Arashi Rin Kuki
+
+// chara/co_gloves_xmas.unity3d
+サンタ=Santa Claus
+
+// list/characustom/00_vkat02.unity3d
+ベルトグローブ=Belt Gloves
+ベルトグローブ(指ぬき)=Belt Gloves (Fingerless)
+ショートグローブ(指ぬき)=Short Gloves (Fingerless)
+
+// wen/wenyaojing.unity3d
+wen妖精=wen Fairy
+
+// chara/xne/xne_co_gloves_rurina.unity3d
+ジムリーダー風手袋=Gym leader style gloves
+ジムリーダー風手袋（右のみ）=Gym Leader Style Gloves (Right Only)
+
+// chara/ymd/mf_clothExtend.unity3d
+パフトショルダー 小=Puffed Shoulder Small
+パフトショルダー 3c=Puffed Shoulder 3c
+パフトショルダー=Puffed shoulder
+
+// chara/ymd/mf_clothVariation.unity3d
+指ぬきグローブ=Fingeless glove
+指ぬきグローブL=Fingerless glove L
+指ぬきグローブR=Fingerless Glove R
+
+// chara/ymd/mf_clothVariation2.unity3d
+厚手の手袋=Thicker Gloves
+もっと厚手の手袋=Thicker gloves
+
+// chara/ymd/mf_siru.unity3d
+汁1=Juice 1
+汁2=Juice 2
+汁3=Juice 3
+汁4=Juice 4
+
+// chara/ymd/mf_texchange.unity3d
+騎士の手袋[マスク変更]=Knight's gloves[Mask change].
+
+// chara/mod_zmr/co_gloves_zmr.unity3d
+グローブ=Glove

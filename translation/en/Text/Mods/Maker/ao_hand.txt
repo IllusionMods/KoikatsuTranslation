@@ -1,0 +1,92 @@
+//
+// Dumped for Koikatsu v5.1 by Mod Text Dump v0.0.1: 2021-05-25
+//
+
+// chara/tdi/kt_pokeball.unity3d
+PokéBall=PokéBall
+
+// chara/deathweasel/ec_items.unity3d
+聖女の杖=Saint's Staff
+聖女の竪琴=Saint's Harp
+バゼラード=Bazelard
+サキュバスサイズ=Succubus Size
+禁書（閉）=Forbidden Book (Closed)
+禁書（開）=Forbidden book (open)
+
+// chara/_mods/mash3.unity3d
+ロード・カルデアス=Lord Chaldeans
+
+// chara/_mods/rider.unity3d
+ライダーダガー=Rider Dagger
+
+// chara/koi_ao_hand_00.unity3d
+風船=Balloons
+
+// chara/koikoi/ao_hand_42.unity3d
+AI杵=AI pestle
+
+// chara/ao_hand_01.unity3d
+注射器=Syringe
+
+// chara/ao_hand_50.unity3d
+EX咖喱棒=EX Curry stick
+
+// chara/mf_alice.unity3d
+金木犀の剣[アリス]=Kinmokusei no Tsurugi [Alice][SAO
+
+// chara/mf_alice_v2.unity3d
+金木犀の剣[アリス][SAO]=Sword of fragrant rhinoceros [Alice][SAO].
+サークル01[SAO]=circle 01[SAO][SAO
+サークル02[SAO]=circle 02[SAO]
+サークル03[SAO]=circle 03[SAO]
+サークル04[SAO]=Circle 04[SAO][SAO
+サークル05[SAO]=Circle05[SAO][SAO
+
+// chara/mf_asuna.unity3d
+ラディアントライト[SAO]=Radiant Light [SAO].
+
+// chara/mf_leafa.unity3d
+ヴァーデュラス・アニマ[SAO]=Verdurus Anima [SAO].
+
+// chara/mf_sinon_CaitSith.unity3d
+トリスタン・ボウ[SAO]=Tristan Bow [SAO].
+トリスタン・ボウ2[SAO]=Tristan Bow 2[SAO].
+トリスタン・ボウの矢[SAO]=Arrow of Tristan Bow [SAO].
+
+// chara/mf_sinon.unity3d
+アニヒレート・レイ[SAO]=Annihilate Ray [SAO].
+アニヒレート・レイ2[SAO]=Annihilate Ray 2[SAO].
+アニヒレート・レイ3[SAO]=Annihilate Ray 3 [SAO].
+アニヒレート・レイの矢[SAO]=Annihilate Ray's Arrow [SAO].
+
+// chara/_kero/ao_hm_nurse_cap_NT_00.unity3d
+注射器（小）=Syringe (Small)
+注射器（大）=Syringe (large)
+体温計=Thermometer
+
+// chara/ao_hand_muchi.unity3d
+乗馬鞭１=Riding whip 1
+乗馬鞭２=Riding whip 2
+バラ鞭１=Rose whip 1
+バラ鞭２=Rose whip 2
+
+// chara/mod/mod_eden_vb.unity3d
+神杖ウルク_VBエデン=Divine Staff Uruk_VB Eden
+
+// chara/ao_hand_halloween.unity3d
+かぼちゃカバン=Pumpkin Bag
+魔法のホウキ=Magic broom
+
+// chara/ao_hand_newyear.unity3d
+羽子板=Feather board
+ハネ=Honeycomb
+ミカン=Tangerine
+なす君=Eggplant
+
+// chara/ao_hand_valentine.unity3d
+ハートチョコ=Heart chocolate
+ラブレター=love letter
+
+// wen/wenyeyeacc.unity3d
+wen夜夜袖子左=wenYoruYoruSodeko left
+wen夜夜袖子右=wen night sleeve right

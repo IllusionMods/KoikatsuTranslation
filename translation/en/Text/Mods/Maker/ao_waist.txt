@@ -1,0 +1,179 @@
+//
+// Dumped for Koikatsu v5.1 by Mod Text Dump v0.0.1: 2021-05-25
+//
+
+// chara/deathweasel/ec_items.unity3d
+聖女の腰飾り=Saint's Waistcoat
+盗賊のベルト=Bandit's Belt
+盗賊のポーチ=Thief's Pouch
+バゼラードの鞘=Bazelard's Sheath
+サキュバス尻尾=Succubus Tail
+サキュバスのランタン=Succubus Lantern
+ネクロマンサーの腰飾り=Necromancer's Waistcoat
+魔力の砂時計=Hourglass of Magic
+ネクロマンサーベルト=Necromancer Belt
+魔術師のポーチ=Sorcerer's Pouch
+闇の守り=Charm of Darkness
+
+// chara/co_shoes.unity3d
+贵族风衣腰饰=Necromancer's waistcoat
+
+// chara/gray/F_devil00_a.unity3d
+小悪魔尻尾(リボンなし)=Little devil tail (without ribbon)
+
+// chara/gray/F_gems_a.unity3d
+ジェム1=Gem 1
+ジェム2=Gem 2
+ジェム3=Gem 3
+ジェム4=Gem 4
+ジェム5=Gem 5
+
+// chara/gray/F_bbelt_a.unity3d
+メタルベルト=Metal belt
+
+// chara/_mods/sinon06.unity3d
+ポーチ=Pouch
+
+// chara/ao_waist_03.unity3d
+猫尻尾=Cat Tail
+
+// chara/mm/mmepuron.unity3d
+エプロン=Apron
+
+// chara/mf_alice.unity3d
+金木犀の剣の鞘[アリス]=Scabbard of the Sword of the Golden Rhinoceros [Alice]
+金木犀の剣(納刀)[アリス]=Sword of the Golden Rhinoceros [Alice][SAO]
+
+// chara/mf_alice_v2.unity3d
+金木犀の剣の鞘[アリス][SAO]=Scabbard of the Sword of the Golden Rhinoceros [Alice][SAO]
+金木犀の剣(納刀)[アリス][SAO]=Sword of the Golden Rhinoceros [Alice][SAO].
+
+// chara/mf_asuna.unity3d
+ラディアントライトの鞘[SAO]=Radiant Light Scabbard [SAO][Alice
+ラディアントライト(納刀)[SAO]=Radiant Light (sword)[SAO][SAO
+
+// chara/mf_leafa.unity3d
+ヴァーデュラス・アニマの鞘[SAO]=Verdurus Anima Scabbard [SAO]
+ヴァーデュラス・アニマ(納刀)[SAO]=Verdurus Anima (sword)[SAO][SAO
+
+// chara/mf_sinon_CaitSith.unity3d
+シノン(ケットシー)[SAO]=Sinon(Ketsee)[SAO][SAO
+
+// chara/nakay/ao_waist_osk00.unity3d
+オーバースカート・プリーツＡ=Overskirt Pleats A
+オーバースカート・プリーツロングＡ=Overskirt Pleated Long A
+
+// chara/ao_creamset_nkt.unity3d
+クリーム1=Cream 1
+クリーム2=Cream 2
+イチゴ=Pattern 14
+
+// chara/mod/mod_eden_vb.unity3d
+尻尾_エデンVB=Tail_Eden VB
+尻尾_エデンVB_アニメ無=Tail_Eden VB_without animation
+
+// chara/roie/roie_accessories.unity3d
+コートベルト=Coat Belt
+
+// chara/ao_waist_xmas.unity3d
+トナカイ=Reindeer
+ソリ=Sled
+
+// chara/ymd/mf_accprim.unity3d
+スフィア=Sphere
+キューブ=Cube
+ピラミッド=Pyramid
+コーン=cone
+シリンダー=Cylinder
+クリスタル=Crystals
+リング=Ring
+星１=Star 1
+星２=Star 2
+星３=Star 3
+星４=Star 4
+ハート１=Heart 1
+ハート２=Heart 2
+爪=Claw
+筒１=Tube 1
+筒２=Tube2
+パイプ１=Pipe 1
+パイプ２=Pipe 2
+台形１=Trapezoid 1
+台形２=Trapezoid 2
+矢印１=Arrow 1
+矢印２=Arrow 2
+矢印３=Arrow 3
+穴あきキューブ=Cube with holes
+直角１=Right angle 1
+直角２=Right angle 2
+直角３=Right angle 3
+三日月１=Crescent1
+三日月２=Crescent 2
+三日月３=Crescent 3
+十字=Cross
+V字=V-shape
+穴あき楕円=Oval with hole
+先尖り棒=Pointed bar
+三角=Triangle
+穴あき三角=Perforated triangle
+弧１=Arc 1
+弧２=Arc 2
+弧３=Arc 3
+四分円=Quarter circle
+半円=Semicircle
+五角形=Pentagon
+六角形=Hexagon
+穴あき六角形=Hexagon with hole
+八角形=Octagon
+頭=Head
+平面=Plane
+輪=Ring
+カプセル=Capsule
+正台形=regular trapezoid
+山型多角形1=Mountain polygon 1
+山型多角形2=Mountain polygon 2
+長六角形=Long hexagon
+長五角形=Long pentagon
+歪み三角柱=Distorted triangular prism
+マウス型右=Mouse type right
+マウス型左=Mouse left
+五角横台形=Pentagonal horizontal trapezoid
+円形横台形=Round horizontal trapezoid
+三角横台形=Triangular trapezoid
+ドロップ立体=Drop solid
+ドロップ平面=Drop plane
+ひょうたん立体=Gourd
+ひょうたん平面=Gourd plane
+角リング=Square ring
+立体半円=Three-dimensional semicircle
+立体四半円=3D semicircle
+角型=Square shape
+直角形=Rectangle
+斜ひし形=Oblique rhombus
+歪み台形=Distortion trapezoid
+欠け四角=Missing square
+二対多角形=Two-pair polygon
+ヒレ型=Fin-shaped
+歪み多角形=Distortion polygon
+角なし斜ひし形=Diagonal rhombus without corners
+角なし歪み台形=Cornerless distorted trapezoid
+角なし四角錐=Quadrilateral pyramid without corners
+角なし三角=Triangle without corners
+角なし四角=Quadrilaterals without corners
+筒四分=Cylinder quadrant
+ディストーション 球=Distortion Sphere
+ディストーション 平面=Distortion Plane
+スフィア-lamretta=Sphere -lamretta
+スフィアmay=Sphere may
+スフィアmelt=Sphere melt
+筒2-merline=tube2-merline
+スフィアshikibu=Sphere shikibu
+
+// chara/ymd/mf_accprim_danua.unity3d
+スフィア-danua=sphere - danua
+頭-danua=head-danua
+
+// chara/ymd/mf_texchange.unity3d
+サイドドレープ [マスク変更]=side drape [mask change].
+サイドドレープ [リボンなし]=side drape [without ribbon]
+サイドドレープ[白透過]=Side drape [white transparent].

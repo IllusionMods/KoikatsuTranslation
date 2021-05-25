@@ -1,0 +1,583 @@
+//
+// Dumped for Koikatsu v5.1 by Mod Text Dump v0.0.1: 2021-05-25
+//
+
+// chara/CC_Equipment.unity3d
+待发上游1=Waiting for the first flight
+防空炮=Air Defense Gun
+后辈烟囱=Powering the Empress
+船头=Ship Head
+船头炮=Head of Boat
+腿炮=Thigh Gun
+未射上游1=Unfired Top Unit 1
+上游1本体=Upper water 1 body
+
+// chara/BSM_Equipment.unity3d
+俾斯麦主炮=Ethnic addressee
+俾斯麦副炮=Ethnic addressee
+
+// chara/acc_p3_yukari.unity3d
+ゆかりの髪 (P3)=Yukari's hair (P3)
+
+// chara/acc_noir_items.unity3d
+奥村春の髪=Okumura spring hair
+ノワールハット=Noir hat
+ノワールマスク=Noir mask
+
+// chara/deathweasel/acc_bo_hair_b.unity3d
+ロングヘア=Long Hair
+ロングヘア A=Long Hair A
+ロングヘア B=Long Hair B
+ロングヘア C=Long Hair C
+ロングサイドテール(左)=Long Side Tail (Left)
+ロングサイドテール(左) A=Long Side Tail (L) A
+ロングサイドテール(左) B=Long Side Tail (L) B
+ロングサイドテール(左) C=Long Side Tail (L) C
+ロングサイドテール(左) D=Long Side Tail (L) D
+ロングサイドテール(右)=Long Side Tail (Right)
+ロングサイドテール(右) A=Long Side Tail (R) A
+ロングサイドテール(右) B=Long Side Tail (R) B
+ロングサイドテール(右) C=Long Side Tail (R) C
+ロングサイドテール(右) D=Long Side Tail (R) D
+ボブヘア=Bob
+お嬢様ロング=Princess
+お嬢様ロング A=Long Ojousama Braid A
+お嬢様ロング B=Long Ojousama Braid B
+お嬢様ロング C=Long Ojousama Braid C
+お嬢様ロング D=Long Ojousama Braid D
+お嬢様ロング E=Long Ojousama Braid E
+お嬢様ロング F=Long Ojousama Braid F
+ツインテール=Twin Tails
+ツインテール A=Twintails A
+ツインテール B=Twintails B
+ツインテール C=Twintails C
+ポニーテール=Ponytail
+リボンなしポニーテール=Ponytail w/o Ribbon
+ポニーテール A=Ponytail A
+ポニーテール B=Ponytail B
+ポニーテール C=Ponytail C
+アップツイン=High Twin Tails
+アップツイン A=High Twintails A
+アップツイン B=High Twintails B
+アップツイン C=High Twintails C
+ショート=Short
+ショート A=Short A
+ツインおさげ=Twin Tails (Rear)
+ツインおさげ A=Low Twintails A
+ツインおさげ B=Low Twintails B
+ツインおさげ C=Low Twintails C
+結わえロング=Tied Long
+リボンなし結わえロング=Tied Long w/o Ribbon
+サイドアップ(左)=One-side Up (Left)
+サイドアップ(左) A=Side-Up (L) A
+サイドアップ(左) B=Side up (left) B
+サイドアップ(右)=One-side Up (Right)
+サイドアップ(右) A=Side-Up (R) A
+サイドアップ(右) B=Side Up (Right) B
+三つ編み=Braid
+三つ編み A=Braided A
+三つ編み B=Braided B
+外はねロング=Long with a Flick
+ベリーロング=Very Long
+細ツインテール=Thin Twin Tails
+細ツインテール A=Thin Twintails A
+細ツインテール B=Thin Twintails B
+細ツインテール C=Thin Twintails C
+ツーサイドアップ=Both Sides Up
+ツーサイドアップ A=Twin Side-Ups A
+ツーサイドアップ B=Twin Side-Ups B
+ツーサイドアップ C=Twin Side-Ups C
+ストレートミディアム=Straight Medium
+セミロング=Semi-long
+カールボブ A=Curled Bob A
+サイドテール(左)=Side Tail (Left)
+サイドテール(左) A=Side Tail (L) A
+サイドテール(左) B=Side Tail (L) B
+サイドテール(右)=Side Tail (Right)
+サイドテール(右) A=Side Tail (R) A
+サイドテール(右) B=Side Tail (R) B
+ベリーショート=Very Short
+ボリュームポニーテール=Thick Ponytail
+ボリュームポニーテール A=Thick Ponytail A
+ボリュームポニーテール B=Thick Ponytail B
+ボリュームポニーテール C=Thick Ponytail C
+ボリュームポニーテール D=Thick Ponytail D
+外はねショート=Short with a Flick
+ぱっつんロング=Straight-bangs Long
+ぱっつんロング A=Straight-Cut, Long A
+ぱっつんロング B=Straight-Cut, Long B
+ぱっつんロング C=Straight-Cut, Long C
+三つ編みお団子=Braid Bun
+ゆるふわボブ=Wavy Bob
+くせっ毛ショート=Curly Hair Short
+ウェーブロング=Wavy Long
+ウェーブロング A=Wavy Long A
+ウェーブロング B=Wavy Long B
+ウェーブロング C=Wavy Long C
+ふわポニー=Fluffy Ponytail
+ふわポニー A=Fluffy Ponytail A
+ふわポニー B=Fluffy Ponytail B
+ふわポニー C=Fluffy Ponytail C
+お団子シングル=Single Bun
+ふわポニーロング=Fluffy Long Ponytail
+ふわポニーロング A=Fluffy Long Ponytail A
+カールポニー=Curly Ponytail
+カールポニー A=Curled Ponytail A
+ショートツイン=Short Twin Tails
+ショートツイン A=Short Twintails A
+ショートツイン B=Short Twintails B
+ショートツインカール=Curly Short Twin Tails
+ショートツインカール A=Short Curled Twintails A
+ショートツインカール B=Short Curled Twintails B
+お団子ダブル=Double Bun
+お団子ダブル A=Double Bun A
+お団子ダブル B=Double Bun B
+ショートツインロール=Curled Short Twin Tails
+ショートツインロール A=Short Twin Drills A
+ショートツインロール B=Short Twin Drills B
+ツインカール=Curled Twin Tails
+ツインカール A=Twin Curl A
+ツインカール B=Twin curls B
+ふわツインウェーブ=Wavy Loose Twin Tails
+ふわツインウェーブ A=Fluffy Wavy Twintails A
+ふわツインウェーブ B=Fluffy Wavy Twintails B
+ツインロール=Twin Rolls
+ツインロール A=Twin Drills A
+ツインロール B=Twin Drills B
+ミディアムダウン=Medium Down
+ツインロングおさげ=Long Twin Tails (Rear)
+ハーフアップ=Half-up
+ハーフアップ A=Half-Up A
+ハーフアップ B=Half-Up B
+ハーフアップ C=Half-Up C
+ハーフアップ D=Half-Up D
+ハーフアップ E=Half-Up E
+ハーフアップ F=Half-Up F
+ツイン三つ編み=Twin Braids
+ぱっつんボブ=Straight-cut Bob
+ぱっつんボブ A=Straight-Cut Bang Bob A
+ぱっつんボブ B=Straight-Cut Bang Bob B
+ぱっつんボブ C=Straight-Cut Bang Bob C
+ぱっつんボブ D=Straight-Cut Bang Bob D
+ぱっつんボブ E=Straight-Cut Bang Bob E
+カジュアルオールバック=Pinned-back Casual
+ツーサイドアップショート=Short with Sides Up
+三つ編み横おさげ(左)=Braided Side Tail (Left)
+三つ編み横おさげ(左) A=Horizontal Braid (L) A
+三つ編み横おさげ(左) B=Horizontal Braid (L) B
+三つ編み横おさげ(右)=Braided Side Tail (Right)
+三つ編み横おさげ(右) A=Horizontal Braid (R) A
+三つ編み横おさげ(右) B=Horizontal Braid (R) B
+ひとつ結び=Single Knot
+ひとつ結び A=Single Knot A
+ひとつ結び B=Single Knot B
+ひとつ結び C=Single Knot C
+ストレートカール後ろ=Straight, Curled Back
+切りそろえショート(右)=Short, Tucked Back (R)
+切りそろえショート(左)=Short, Tucked Back (L)
+シトリーバック=Sitri Back
+シトリーバック A=Sitri Back A
+シトリーバック B=Sitri Back B
+シトリーバック C=Sitri Back C
+シトリーバック D=Sitri Back D
+シトリーバック E=Sitri Back E
+エアリーボブ=Airy Bob
+エアリーボブ A=Airy Bob A
+エアリーボブ B=Airy Bob B
+エアリーボブ C=Airy Bob C
+エアリーボブ D=Airy Bob D
+エアリーボブ E=Airy Bob E
+エアリーボブ F=Airy Bob F
+エアリーボブ G=Airy Bob G
+エアリーボブ H=Airy Bob H
+エアリーボブ I=Airy Bob I
+ふわセミロング=Fluffy, Shoulder Length
+ふわセミロング A=Fluffy, Shoulder Length A
+ふわセミロング B=Fluffy, Shoulder Length B
+ふわセミロング C=Fluffy, Shoulder Length C
+つんはねショート=Short, Upswept Spikes
+つんはねショート A=Short, Upswept Spikes A
+つんはねショート B=Short, Upswept Spikes B
+つんはねショート C=Short, Upswept Spikes C
+ローツインテール=Narrow Twintails
+ローツインテール A=Narrow Twintails A
+ローツインテール B=Narrow Twintails B
+ローツインテール C=Narrow Twintails C
+つんショート後ろ=Short, Spiky
+リーゼント=Ducktail
+横分けショート前=Horizontal Divided, Short
+坊主=Buddhist Priest Cut
+カーリーショート後ろ=Curly, Short Back
+
+// chara/deathweasel/acc_bo_hair_o.unity3d
+ちょびあほ毛=Small Hair Flick
+触覚あほ毛(2本)=Twin Ahoge
+はね毛あほ毛=Featherlike Ahoge
+長触覚あほ毛=Long Ahoge
+ちょびあほ毛（揺れなし）=Tiny Ahoge (No movement)
+あほ毛（揺れなし）=Ahoge (No movement)
+くるくるあほ毛（揺れなし）=Curly Ahoge (No movement)
+ギザギザあほ毛（揺れなし）=Jagged Ahoge (No movement)
+ハートあほ毛（揺れなし）=Heart Ahoge (No movement)
+触覚あほ毛（2本）（揺れなし）=Twin Ahoge (No movement)
+はね毛あほ毛（揺れなし）=Featherlike Ahoge (No movement)
+長触覚あほ毛（揺れなし）=Long Ahoge (No movement)
+外はね=Outer Wings
+
+// chara/deathweasel/ec_items.unity3d
+サキュバスの角=Horns of Succubus
+茨の冠=Crown of Thorns
+
+// chara/dak/ao_head_01.unity3d
+[dak]キツネ耳(ふさ小)=[dak]Fox Ears (full small)
+[dak]付け毛d0=[dak]False hair d0
+[dak]付け毛d1=[dak]Hairpiece d1
+[dak]付け毛d2=[dak]Hair d2
+[dak]付け毛d3=[dak]Hairpiece d3
+[dak]付け毛d4=[dak]Hairpiece d4
+[dak]付け毛d5=[dak]hairpiece d5
+
+// chara/dak/ao_head_00.unity3d
+[dak]コロネ右(揺れ)=[dak]Coronet Right (shaking)
+[dak]コロネ左(揺れ)=[dak]Coronet left (shaking)
+
+// chara/ao_head_01.unity3d
+HM男主发型=HM male head shape
+キュートナースキャップ=Cute Nurse Cap
+
+// chara/Sen3_hair.unity3d
+闪轨皇太子=Beaming Prince
+黎恩的发型=发型黎恩的
+库尔特发型=库尔特发型
+尤西斯发型=Youxiang发型
+学生的发型=Student发型
+艾伦的发型=艾伦发型
+闪轨三军帽=Three transphants hat
+
+// chara/_mods/zack.unity3d
+宇宙人ヘッド=Alien head
+
+// chara/_mods/angela2.unity3d
+足光装甲 L=Leg Light Armor L
+足光装甲 R=Leg Light Armor R
+上腕光装甲=Upper arm light armor
+背中の丸いの=Round back
+光手甲=Light hand armor
+前腕装甲=Forearm armor
+光バイザー=Optical visor
+光髪留め=Optical hair clip
+
+// chara/_mods/angela3.unity3d
+毛束 R=Hair bundle R
+毛束 L=Hair bundle L
+
+// chara/_mods/ituki2.unity3d
+いつき髪 後横=Back Side of Hair
+いつき髪 後中=Back middle of Itsuki hair
+
+// chara/_mods/makinami2.unity3d
+真希波ヘッドバンド=Makinami Headband
+
+// chara/_mods/makinon08.unity3d
+マキノ三角=Makino Triangle
+
+// chara/_mods/natumi5.unity3d
+ハーフヘルメット=Half helmet
+ハーフヘルメット2=Half helmet 2
+
+// chara/_mods/rider.unity3d
+付け毛 超ベリーロング 前=Hairpiece Super Very Long Front
+付け毛 超ベリーロング 横=Hairpiece Super Very Long Side
+付け毛 超ベリーロング 後=Hairpiece Super Belly Long Back
+
+// chara/_mods/villetta.unity3d
+ヴィレッタ髷=Villetta Topknot
+
+// chara/_mods/watanabe2.unity3d
+付け毛 ヨーソロー後=Hairpiece - Yoh Thoreau (back)
+
+// chara/Hayashi/hayashi_crown.unity3d
+ロイヤルクラウン（装飾なし）=Royal Crown (no decoration)
+
+// chara/koi_ao_head_01.unity3d
+猫耳カチューシャ=Cat ear catsuit
+
+// chara/koikoi/ao_head_20.unity3d
+AI耳=AI Ears
+
+// chara/koi_ao_head_00.unity3d
+スクールサマーハット=School Summer Hat
+
+// chara/ao_head_03.unity3d
+猫耳（右）=Cat Ear (Right)
+猫耳（左）=Cat Ear (Left)
+鈴付きリボン=Ribbon with Bells
+
+// chara/mf_alice.unity3d
+髪飾り[アリス]=Hair Decoration [Alice]
+三つ編み[アリス]=Braids [Alice][SAO
+
+// chara/mf_alice_v2.unity3d
+髪飾り[アリス][SAO]=Hair ornament [Alice][SAO].
+
+// chara/mf_asuna.unity3d
+髪飾り：創世神ステイシア[SAO]=Hair ornament: Stacia, the God of Creation[SAO].
+
+// chara/mf_sinon_CaitSith.unity3d
+シノン(ケットシー)[SAO]=Sinon(Ketsee)[SAO][SAO
+
+// chara/mf_sinon.unity3d
+太陽神ソルス[SAO]=Solus, God of the Sun[SAO].
+
+// chara/_kero/ao_hairband_NT.unity3d
+ヘアバンド（ツヤあり）=Hair band (shiny)
+
+// chara/_kero/ao_extePack_NT_01.unity3d
+HM付け毛[o12]=HM hairpiece[o12]
+HM付け毛[o12]（揺れなし 左右調整）=HM hairpiece [o12] (no shaking, left/right adjustment)
+HM付け毛[o09]=HM hairpiece [o09]
+HM付け毛[o09]（揺れなし 左右調整）=HM hairpiece [o09] (no shaking, left/right adjustment)
+HM付け毛[o14]=HM hairpiece [o14]
+HM付け毛[o14]（揺れなし 左右調整）=HM hairpiece [o14] (no shaking, left/right adjustment)
+HM付け毛[s04_L]=HM hairpiece [s04_L]
+HM付け毛[s04_R]=HM hairpiece [s04_R] (left/right adjustment)
+HM付け毛[b08](左右調整）=HM hairpiece [b08] (left/right adjustment)
+HM付け毛[b45_L]=HM hairpiece [b45_L] (left/right adjustment)
+HM付け毛[b45_R]=HM hairpiece[b45_R].
+KK付け毛[b06]=KK hairpiece[b06].
+KK付け毛[b12]=KK hairpiece[b12] (left/right adjustment)
+KK付け毛[b15_L]=KK hairpiece [b15_L].
+KK付け毛[b15_R]=KK hairpiece[b15_R]
+KK付け毛[b11_L]=KK hairpiece[b11_L] KK hairpiece[b11_L
+KK付け毛[b11_R]=KK hairpiece [b11_R].
+
+// chara/_kero/ao_extePack_NT_02.unity3d
+HM付け毛[o17]=HM hairpiece [o17]
+HM付け毛[o17]（揺れなし 左右調整）=HM hairpiece [o17] (No shaking, left/right adjustment)
+KK付け毛[f23_S]=KK hairpiece [f23_S].
+HM付け毛[o03]=HM hairpiece [o03] HM hairpiece [o20
+HM付け毛[o20]=HM hairpiece [o20] HM hairpiece [o20
+HM付け毛[o20]（揺れなし 左右調整）=HM hairpiece [o20] (no shaking, left/right adjustment)
+HM付け毛[o25]=HM hairpiece [o25] HM hairpiece [o25
+HM付け毛[o25]（揺れなし 左右調整）=HM hairpiece [o25] (no shaking, left/right adjustment)
+KK付け毛[b22]=KK hairpiece [b22] HM hairpiece [f47
+HM付け毛[f47]=HM hairpiece [f47] HM hairpiece [f47
+HM付け毛[f47](左右調整）=HM hairpiece [f47] (left/right adjustment)
+HSチャイナポンポン[b14]=HS China Pom Pom [b14] (left/right adjustment)
+HSチャイナポンポン[b14]（揺れなし 左右調整）=HS China pom-poms[b14] (no shaking, left/right adjustment)
+HSチャイナポンポン[b14](模様なし)=HS China Pom Pom[b14](No pattern)
+HSチャイナポンポン[b14]（模様なし 揺れなし 左右調整）=HS China Pom Pom [b14] (no pattern, no shaking, left/right adjustment)
+HM付け毛[s03_L]=HM hairpiece [s03_L]
+HM付け毛[s03_R]=HM hairpiece [s03_R] (no pattern)
+HM付け毛[s19]=HM hairpiece [s19] (no pattern)
+HM付け毛[s19]（チョロ毛なし）=HM hairpiece [s19] (without choro-hair)
+KK付け毛[f23_F]=KK hairpiece [f23_F]
+
+// chara/_kero/HATS_NT_00.unity3d
+ゴスロリハット(HS)=Gothic Lolita Hat (HS)
+サンタ帽子(HS)=Santa Hat (HS)
+マリオンの帽子(HS)=Marions Hat (HS)
+セキュリティーキャップ(HS)=Security Cap (HS)
+セキュリティーキャップ01(HS)=Security Cap 01 (HS)
+ギャリソンキャップ(HS)=Garrison Cap (HS)
+海賊帽子(HS)=Pirate Hat (HS)
+魔女の帽子(HS)=Witch's Hat (HS)
+ウエスタンハット(HS)=Western Hat (HS)
+コンシェルジュハット(HS)=Concierge Hat (HS)
+マジシャンハット(HS)=Magician Hat (HS)
+M1ヘルメット(MMD)=M1 Helmet (MMD)
+ベレー帽(HM)=Beret (HM)
+キャスケット(HM)=Casquette (HM)
+ニット帽(MMD)=Knit Cap (MMD)
+けもくまニット帽(MMD)=Kekuma Bear Knit Cap (MMD)
+けもねこニット帽(MMD)=Keneko Cat Knit Hat (MMD)
+けもぱんだニット帽(MMD)=Kepanda Knit Hat (MMD)
+けもひつじニット帽(MMD)=Kemono Sheep Hat (MMD)
+けもぶたニット帽(MMD)=Kemobuta Knit Cap (MMD)
+けもくろしばニット帽(MMD)=Undressed Knit Hat (MMD)
+けもこしばニット帽(MMD)=Kemo Koshiba Knit Cap (MMD)
+ヘルメット(MMD)=Helmet (MMD)
+警備帽(PPD)=Security Cap (PPD)
+ウシャンカ(MMD)=Ushanka (MMD)
+コック帽(MMD)=Cock Hat (MMD)
+霊幻帽子(PPD)=Ghost Hat (PPD)
+ハンチング帽(MMD)=Hunting Cap (MMD)
+野球帽(MMD)=Baseball Cap (MMD)
+キャスケット(自作)=Casquette (Self-Made)
+
+// chara/_kero/ao_hm_nurse_cap_NT_00.unity3d
+HMナースキャップ=HM nurse cap
+
+// chara/mod/mod_eden_vb.unity3d
+ティアラ_エデンVB=Tiara_Eden VB
+角_エデンVB=Horn_Eden VB
+
+// chara/mod/mod_ranrin_acm.unity3d
+カチューシャ_嵐燐結騎=Catsuit_Arashi Rinkouki
+
+// chara/taka/taka_ao_head_03.unity3d
+ヘアバンド (真っ白)=Hair band (Pure white)
+ヘアバンド (真っ白/光沢あり)=Hair band (Pure white/Shiny)
+
+// chara/TSG_Equipment.unity3d
+塔什干主炮=Tithing gun
+塔什干鱼雷=Fish lightning
+塔什干相机=Tithing machine
+
+// chara/ao_head_halloween.unity3d
+魔女の帽子１=Witch's hat 1
+魔女の帽子２=Witch's hat 2
+幽霊=Ghosts
+目玉（こわい）=Eyeballs (scary)
+かぼちゃ=Pumpkin
+かぼちゃマスク=Pumpkin Mask
+
+// chara/ao_head_newyear.unity3d
+ふじ君=Fuji-kun
+門松=Kadomatsu
+鏡餅=Kagamimochi
+ししまい=lentil rice
+たか君=Taka-kun
+うりぼう=Uri-bo
+軍帽エンブレム=military cap emblem
+鍋（具あり）=Nabe (with ingredients)
+鍋（具なし）=Nabe (without ingredients)
+
+// chara/ao_head_xmas.unity3d
+プレゼントBOX=Gift box
+サンタ帽子=Santa Hat
+シルクハット=Silk Hat
+スノーマン=Snowman
+オーナメント=Ornament
+キャンディーケイン=Candy cane
+星飾り=Star ornament
+クリスマスツリー=Christmas tree
+トナカイカチューシャ=Reindeer Headband
+
+// list/characustom/00_vkat02.unity3d
+猫耳=Cat Ears
+
+// wen/wenlihuazou.unity3d
+wen立华奏=wen liyuan
+
+// wen/wenyeyeacc.unity3d
+wen夜夜=WEN Night Night
+
+// chara/wtf/wtf_hairband.unity3d
+結びヘアバンド改=Knot Hair Band Kai
+
+// chara/ymd/mf_accbutahead.unity3d
+ぶたヘッド=Pig Head
+ドルフヘッド=Dolf Head
+ヒーローヘッド1=Hero Head 1
+ヒーローヘッド2=Hero Head 2
+モヒカン=Mohawk
+骸骨面上=Skeleton face up
+骸骨面下=Skeleton Face Down
+石付サークレット=Circlet with stone
+櫛 1=Comb 1
+櫛 2=Comb 2
+櫛 3=Comb 3
+シスターヴェール=Sister Veil
+テールフード=Tail Hood
+帽子=Hat
+ミニシルクハット=Mini Silk Hat
+鉢巻 2ヵ所調整=Headband 2 adjustments
+しゃれこうべ=Shamikabe
+シルエット こうもり=Silhouette Bat
+シルエット くも=Silhouette Spider
+スイカ=Watermelon
+
+// chara/ymd/mf_acchairB.unity3d
+付け毛 ロングヘア side=Hairpiece Long hair side
+付け毛 ツインテール base=Hairpiece Twin-tail base
+付け毛 ベリーロング=Hairpiece belly long
+付け毛 ベリーロング side=Hairpiece, belly long side
+付け毛 ツーサイドアップ side=Hairpiece, two side up side
+付け毛 ツーサイドアップ=Hairpiece Two Side Up
+付け毛 ぱっつんロング=Long hairpiece
+付け毛 三つ編みリング=Hairpiece Braid Ring
+付け毛 ツインロングおさげbase=Hairpiece twin long pigtails base
+
+// chara/ymd/mf_acchairP.unity3d
+付け毛 HMF05=Hairpiece HMF05
+付け毛 HMF06=Hairpiece HMF06
+付け毛 HMF07=Hairpiece HMF07
+付け毛 HMF10=Hairpiece HMF10
+付け毛 HMF13=Hairpiece HMF13
+付け毛 HMF22=Hairpiece HMF22
+付け毛 HMF25=Hairpiece HMF25
+付け毛 HMF27=Hairpiece HMF27
+付け毛 HMF29=Hairpiece HMF29
+付け毛 HMF30=Hairpiece HMF30
+付け毛 HMF32=Hairpiece HMF32
+付け毛 HMF36=Hairpiece HMF36
+付け毛 HMF37=Hairpiece HMF37
+付け毛 HMF45=Hairpiece HMF45
+付け毛 HMO08=Hairpiece HMO08
+付け毛 HMO14=Hairpiece HMO14
+付け毛 HMO20=Hairpiece HMO20
+付け毛 HMO27=Hairpiece HMO27
+付け毛 HMS12=Hairpiece HMS12
+付け毛 HMS15=Hairpiece HMS15
+付け毛 HMS19=Hairpiece HMS19
+付け毛 インテーク1=Hairpiece Intake 1
+付け毛 インテーク2A=Hairpiece Intake 2A
+付け毛 インテーク2B=Hair Intake 2B
+
+// chara/ymd/mf_acchairP_rev4.unity3d
+付け毛 ウェーブロング=Hairpiece Wave Long
+付け毛 ウェーブショート=Hairpiece Wave Short
+付け毛 ウェーブ=Wavy Hairpiece
+付け毛 ウェーブポニー=Hairpiece Wavy Pony
+付け毛 お団子HS=Hairpiece Bun HS
+
+// chara/ymd/mf_acchairP2.unity3d
+付け毛 SS1B=Hairpiece SS1B
+付け毛 SS1F=Hairpiece SS1F
+付け毛 SS2B=Hairpiece SS2B
+付け毛 SS2F=Hairpiece SS2F
+付け毛 SS2Op=Hairpiece SS2Op
+付け毛 SS2S1L=Hairpiece SS2S1L
+付け毛 SS2S1R=Hairpiece SS2S1R
+付け毛 SS2S2=Hairpiece SS2S2
+付け毛 SS3F=Hairpiece SS3F
+付け毛 SS3P1=Hairpiece SS3P1
+付け毛 SS3P2=Hairpiece SS3P2
+付け毛 SS3P1inv=Hairpiece SS3P1inv
+付け毛 SS3P2inv=Hairpiece SS3P2inv
+付け毛 SS4=Hairpiece SS4
+付け毛 SS5=Hairpiece SS5
+付け毛 SS6B=Hairpiece SS6B
+付け毛 SS6F1=Hairpiece SS6F1
+付け毛 SS6F2L=Hairpiece SS6F2L
+付け毛 SS6F2R=Hairpiece SS6F2R
+付け毛 SS6Op=Hairpiece SS6Op
+付け毛 SS6SL=Hairpiece SS6SL
+付け毛 SS6SR=Hairpiece SS6SR
+付け毛 SS7B=Hairpiece SS7B
+付け毛 SS7BOp=Hairpiece SS7BOp
+付け毛 SS7F=Hairpiece SS7F
+付け毛 SS7SL=Hairpiece SS7SL
+付け毛 SS7SR=Hairpiece SS7SR
+
+// chara/ymd/mf_ahogeKai.unity3d
+アホ毛改=Aho hair modification
+アホ毛改曲A=Aho hair modification song A
+アホ毛改曲B=Aho Hair Modification B
+アホ毛2=Aho Hair 2
+アホ毛2曲A=Aho Hair 2 Song A
+アホ毛2曲B=Aho Hair 2 Song B
+アホ毛3=Aho Hair 3
+アホ毛3曲A=hairy 3 song A
+アホ毛3曲B=Stupid Hair 3 Song B
+
+// chara/_yubi/ao_yubi_arulucrown_00.unity3d
+アルルメイヤ頭アクセ=Arulmeyer Head Accessory
+
+// chara/mod_zmr/mf_acchairB_zmr.unity3d
+ベリーショート改=Belly Short
+セミロング改=Semi-Long
+ボブ改=Bob Kai
+ロングヘア改A=Long Hair Kai A
+ロングヘア改B=Long Hair B

@@ -1,0 +1,13 @@
+//
+// Dumped for Koikatsu v5.1 by Mod Text Dump v0.0.1: 2021-05-25
+//
+
+// chara/thumb/mole_layout_00.unity3d
+左の口元=Mouth (Lower Left)
+右の口元=Mouth (Lower Right)
+左の口上=Mouth (Upper Left)
+右の口上=Mouth (Upper Right)
+左の目元=Below Left Eye
+右の目元=Below Right Eye
+額中央=Between Eyes
+そばかす=Freckles

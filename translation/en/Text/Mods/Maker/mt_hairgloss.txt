@@ -1,0 +1,39 @@
+//
+// Dumped for Koikatsu v5.1 by Mod Text Dump v0.0.1: 2021-05-25
+//
+
+// chara/noa/noa_hairgloss.unity3d
+乃愛=Noa
+
+// chara/_kero/CMS_NT_00.unity3d
+タイプＡ=Type A
+タイプＢ=Type B
+タイプＣ=Type C
+タイプＤ=Type D
+タイプＥ=Type E
+タイプＦ=Type F
+タイプＧ=Type G
+タイプＨ=Type H
+タイプＩ=Type I
+タイプＪ=Type J
+タイプＫ=Type K
+タイプＬ=Type L
+タイプＭ=Type M
+タイプＮ=Type N
+タイプＯ=Type O
+タイプＰ=Type P
+タイプＱ=Type Q
+タイプＲ=Type R
+
+// chara/sagiri/sagiri_hairgloss.unity3d
+紗霧=Sagiri
+
+// chara/mod/mod_eden_vb.unity3d
+髪ハイライト_エデンVB=Hair highlight_Eden VB
+
+// chara/ymd/mf_sakuya.unity3d
+サクヤ髪ハイライト=Crispy Hair Highlight
+
+// chara/ymd/mf_ymdtexture.unity3d
+線ハイライト大=Line Highlight Large
+雷ハイライト大=Lightning Highlight Large

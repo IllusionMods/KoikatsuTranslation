@@ -1,0 +1,140 @@
+//
+// Dumped for Koikatsu v5.1 by Mod Text Dump v0.0.1: 2021-05-25
+//
+
+// chara/mt_eye_00.unity3d
+タイプ１=Pattern 1
+
+// chara/noa/noa_eye.unity3d
+乃愛=Noa
+
+// chara/sekka/sek_ban_eye.unity3d
+バンドリ（ハイライト有）=Bandolier (with highlight)
+バンドリ（ハイライト無）=Bandolier (without highlight)
+
+// chara/mt_eye_bdsqlsz.unity3d
+adeye１=adeye1
+adeye２=adeye2
+adeye３=adeye3
+adeye４=adeye4
+adeye５=adeye5
+adeye６=adeye6
+adeye７=adeye7
+adeye８=adeye8
+adeye９=adeye9
+adeye１０=adeye10
+
+// chara/dak/mt_eye_00.unity3d
+三重線2-3=Triple line 2-3
+三重線2-2=Triple line 2-2
+三重線2-1=Mie Line 2-1
+三重線1-3=Mie Line 1-3
+三重線1-2=Mie Line 1-2
+三重線1-1=Mie Line 1-1
+二重線1-3=Double line 1-3
+二重線2-3=Double line 2-3
+二重線3-3=Double line 3-3
+二重線4-3=Double line 4-3
+二重線4-2=Double line 4-2
+二重線4-1=Double line 4-1
+二重線1-2=Double line 1-2
+二重線2-2=Double line 2-2
+二重線3-2=Double line 3-2
+二重線1-1=Double line 1-1
+二重線2-1=Double line 2-1
+二重線3-1=Double line 3-1
+
+// chara/_mods/rider.unity3d
+ライダー=Rider
+
+// chara/_kero/CMS_NT_00.unity3d
+タイプＡＮ=Type AN
+タイプＡ=Type A
+タイプＢ=Type B
+タイプＣ=Type C
+タイプＤ=Type D
+タイプＥ=Type E
+タイプＦ=Type F
+タイプＧ=Type G
+タイプＨ=Type H
+タイプＩ=Type I
+タイプＪ=Type J
+タイプＫ=Type K
+タイプＬ=Type L
+タイプＭ=Type M
+タイプＮ=Type N
+タイプＯ=Type O
+タイプＰ=Type P
+タイプＱ=Type Q
+タイプＲ=Type R
+タイプＳ=Type S
+タイプＴ=Type T
+タイプＵ=Type U
+タイプＶ=Type V
+タイプＷ=Type W
+タイプＸ=Type X
+タイプＹ=Type Y
+タイプＺ=Type Z
+タイプＡＡ=Type AA
+タイプＡＢ=Type AB
+タイプＡＣ=Type AC
+タイプＡＤ=Type AD
+タイプＡＥ=Type AE
+タイプＡＦ=Type AF
+タイプＡＧ=Type AG
+タイプＡＨ=Type AH
+タイプＡＩ=Type AI
+タイプＡＪ=Type AJ
+タイプＡＫ=Type AK
+タイプＡＬ=Type AL
+タイプＡＭ=Type AM
+なし=None
+
+// chara/sagiri/sagiri_eye.unity3d
+紗霧=Sagiri
+
+// chara/mod/mod_eden_vb.unity3d
+瞳_エデンVB=Eye_Eden VB
+
+// chara/mod/mod_ranrin_acm.unity3d
+瞳_嵐燐結騎=Eye_Rin
+
+// list/characustom/00_vkat02.unity3d
+タイプ７８=Type 78
+タイプ７９=Type 79
+タイプ８０=Type 80
+タイプ８１=Type 81
+タイプ８２=Type 82
+タイプ８３=Type 83
+タイプ８４=Type 84
+
+// wen/wenyaojing.unity3d
+wen妖精眼睛=Fiery eyes
+
+// chara/ymd/mf_sakuya.unity3d
+サクヤ 虹彩=Sakuya Iris
+
+// chara/YAN_MOD/yan_eye_hitomi.unity3d
+タイプ001=Type 001
+タイプ002=Type 002
+タイプ003=Type 003
+タイプ004=Type 004
+タイプ005=Type 005
+タイプ006=Type 006
+タイプ007=Type 007
+タイプ008=Type 008
+タイプ009=Type 009
+タイプ010=Type 010
+タイプ011=Type 011
+タイプ012=Type 012
+タイプ013=Type 013
+タイプ014=Type 014
+タイプ015=Type 015
+タイプ016=Type 016
+タイプ017=Type 017
+タイプ018=Type 018
+タイプ019=Type 019
+タイプ020=Type 020
+タイプ021=Type 021
+タイプ022=Type022
+タイプ023=Type 023

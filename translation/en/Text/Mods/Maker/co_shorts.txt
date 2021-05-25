@@ -1,0 +1,125 @@
+//
+// Dumped for Koikatsu v5.1 by Mod Text Dump v0.0.1: 2021-05-25
+//
+
+// chara/nashiki/nashiki_shorts.unity3d
+おぱんつ1=Panty 1
+おぱんつ2=Panty 2
+おぱんつ3=Panty 3
+おぱんつ4=Panty 4
+おぱんつ5=Panty 5
+おぱんつ6=Panty 6
+おぱんつ7=Panty 7
+おぱんつ8=Panty 8
+
+// chara/nam/co_shibari_00.unity3d
+亀甲縛り改1=Tortoise Shell Binding Kai 1
+亀甲縛り改2=Tortoise Shell Binding Kai 2
+
+// chara/_mods/fumina02.unity3d
+フミナ3=Humina 3
+
+// chara/_mods/miraiakari.unity3d
+ミライアカリ=Mariah Carey
+
+// chara/co_bot_00.unity3d
+ブルマ（下着）=Bloomers (Underwear)
+ブルマ=Bloomers
+
+// chara/mae_dirtypair.unity3d
+Maハイローショーツ=Ma High-Low Panties
+
+// chara/mm/buruma.unity3d
+ランニングショーツ=Running Shorts
+
+// chara/_kero/cpo_shimakazeS_NT_00.unity3d
+エンブレムシール(下)UV変更=Emblem sticker (bottom) UV change
+
+// chara/hundosi_k.unity3d
+ふんどし_k=Loincloth_k
+
+// chara/co_creamset_nkt.unity3d
+クリーム=Cream
+
+// chara/nakay/co_shorts_nkt00.unity3d
+リボンショーツ(下げ)=Ribbon Panties (Lower)
+ドロワーズ=Drawers
+旧ドロワーズ=Old Drawers
+旧ドロワーズ＆スタンダードショーツ=Old Drawers & Standard Panties
+ビキニ(UV改)=Bikinis(UV Modification)
+
+// chara/nashi/ns_mizugi.unity3d
+ビキニショーツ=Bikinis Panties
+ビキニショーツ 食い込み気味=Bikinis with bite
+メタルビキニショーツ=Metal Bikini Panties
+
+// chara/nashi/ns_shorts.unity3d
+ショーツ1=Panties 1
+ショーツ2=Panties 2
+ショーツ3=Panties 3
+ショーツ4=Panties 4
+ショーツ5=Panties 5
+ショーツ6=Shorts 6
+ショーツ7=Shorts 7
+ショーツ8=Shorts 8
+ショーツ9=Shorts 9
+ショーツ10=Panties 10
+
+// chara/nashi/ns_shorts_zuri.unity3d
+ずらしショーツ=Sliding Panties
+
+// chara/nashi/co_microbikini.unity3d
+極小マイクロショーツ=Ultra-Small Micro Panties
+
+// chara/nashi/ns_mizugi_2nd.unity3d
+紐付きショーツ=Strap-on Panties
+紐付きハートショーツ=Heart Panties with Straps
+
+// chara/nin/nin_shitagi.unity3d
+ハイレッグショーツ(ツヤ)=High-Leg Panties (Glossy)
+六尺ふんどし=Six-Shaku Loincloths
+女下帯=Women's Underwear
+
+// chara/co_shorts_xmas.unity3d
+サンタ=Santa Claus
+
+// list/characustom/00_vkat02.unity3d
+ブーメラン=Boomerang
+
+// chara/xne/xne_co_bot_spats_sss.unity3d
+ベリx2ショスパッツ=Belly x 2 Shots Panties
+
+// chara/xne/xne_co_bot_hlbikini.unity3d
+ハイレグビキニ=High-Leg Bikini
+
+// chara/xne/xne_co_bot_spats_s.unity3d
+ショートスパッツ=Short spats
+ベリショスパッツ=Verishot Spats
+
+// chara/xne/xne_co_shorts_HMB.unity3d
+Ｈマイクロビキニ=H Micro Bikini
+極小マイクロビキニ=Super Small Micro Bikini
+
+// chara/y005c.unity3d
+レーシングブルマ=Racing Bloomers
+
+// chara/y005d.unity3d
+ハイレグブルマ=High Leg Bloomers
+
+// chara/y005e.unity3d
+ローレグブルマ=Low Leg Bloomers
+
+// chara/y004.unity3d
+マイクロビキニ（下）=Micro bikini (bottom)
+
+// chara/ztoki/ztoki_03_shorts_00.unity3d
+はみげるパンツ [イ]=Revealing pants [A].
+はみげるパンツ [ロ]=Bald pants [B].
+はみげるパンツ [ハ]=Revealing pants [C].
+
+// chara/ztoki/ztoki_01b_shorts_nippless.unity3d
+ハート=Pattern 9
+星=Star
+クロス=Cross
+ハート 小=Heart Small
+絆創膏=Bandage

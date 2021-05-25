@@ -1,0 +1,105 @@
+//
+// Dumped for Koikatsu v5.1 by Mod Text Dump v0.0.1: 2021-05-25
+//
+
+// chara/_mods/claire_hair.unity3d
+ドリルツインテール=Drill twin tails
+
+// chara/noa/noa_hair_b.unity3d
+乃愛=Noa
+
+// chara/dak/bo_hair_b_00.unity3d
+[dak]リボンなしロングサイド広い(左テール無し)=[dak] long side wide without ribbon (no left tail)
+[dak]ウエーブロング広い=[dak] wavy long wide
+[dak]ツインロングおさげ(改)=[dak] twin long pigtails (modified)
+
+// chara/dak/bo_hair_b_01.unity3d
+[dak]中分ボブ(後)=[dak]Medium-length bob (back)
+
+// chara/etc.unity3d
+なし=None
+
+// chara/mf_alice_v2.unity3d
+三つ編み[アリス][SAO]=Braids [Alice][SAO].
+
+// chara/mf_leafa.unity3d
+地神テラリア[SAO]=Earth God Terraria [SAO].
+
+// chara/_kero/bo_hair_b_tailnone_NT.unity3d
+サイドテール（左)（テールなし）=Side Tail (Left) (No Tail)
+サイドテール(右)（テールなし）=Side Tail (Right) (No Tail)
+ツインおさげ（テールなし）=Twin pigtails (without tails)
+ポニーテ-ル（テールなし）=Ponytail (no tail)
+サイドアップ(左)（テールなし）=Side Up (Left) (No Tail)
+サイドアップ(右)（テールなし）=Side up (right) (no tail)
+細ツインテール（テールなし）=Thin Twin Tail (No Tail)
+ツーサイドアップ（テールなし）=Two Side Up (No Tail)
+ショートショート=Short Short
+
+// chara/sagiri/sagiri_hair_b.unity3d
+紗霧=Sagiri
+
+// chara/mod/mod_aurora_al.unity3d
+ふんわりロング_オーロラAL=Fluffy Long_Aurora AL
+
+// chara/mod/mod_eden_vb.unity3d
+クロスカールロング_エデンVB=Crossed Curl Long_Eden VB
+
+// chara/mod/mod_ranrin_acm.unity3d
+ツーサイドアップ_嵐燐結騎=Two Side Up_Arashi Rin Yuki
+
+// chara/bo_hair_b_mod_01.unity3d
+セミロング=Semi-long
+ショートカット=Short cut
+ツインテール=Twin Tails
+ロング=Long
+お団子=Bun
+サイドテール=Side Tail
+
+// chara/Hayashi/vhair02_b_02.unity3d
+つんつんベリーショート=Pointy Belly Short
+リーゼント=Ducktail
+流しベリーショート=Flowing Belly Short
+ボウズ=Bowed
+くせっ毛ベリーショート=Curly Belly Short
+
+// wen/wenlihuazou.unity3d
+wen立华奏=wen liyuan
+
+// wen/wenyaojing.unity3d
+wen妖精=wen Fairy
+
+// wen/wenyeye.unity3d
+wen夜夜=WEN Night Night
+
+// chara/ymd/mf_hairBArrange.unity3d
+ロングヘア アウトライン=Long Hair Outline
+ボブヘア アウトライン=bob hair outline
+ポニーテール 中結び=Ponytail Medium Knot
+ショート アウトライン=short hair outline
+外はねロング アウトライン=Long Outlines
+ベリーロング 短=Belly Long Short
+ストレートミディアム アウトライン=Straight Medium Out Line
+セミロング アウトライン=Semi-Long Outline
+外はねショート 長=Curly Short Length
+ぱっつんロング 短=Straight-Cut, Long 短
+カールボブ アウトライン=Curly Bob Outline
+ベリーショート 長=Belly Short Long
+カールポニー アウトライン=Curly Pony Outline
+ゆるふわボブ アウトライン=Loose Bob Outline
+ぱっつんボブ アウトライン=Floppy Bob Outline
+
+// chara/ymd/mf_haircap.unity3d
+ぼーず=Bozu
+ぼーず2=BOBZ2
+穴埋め=Hole Filling
+ぼーず＋穴埋め=Bozu + Hole Filling
+ツイン テールなし1=Twin Tail-less 1
+ツイン テールなし2=Twin without tail 2
+ポニー テールなし=Pony without tail
+サイド テールなし1=Side Tail-less 1
+サイド テールなし2=Side without tail2
+サイドアップ テールなし1=Side up without tail1
+サイドアップ テールなし2=Side Up No Tail2
+ツーサイドアップ テールなし=Two Side Up No Tail
+ツーサイドアップS テールなし=Two Side Up S No Tail

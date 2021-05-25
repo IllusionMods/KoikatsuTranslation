@@ -1,0 +1,47 @@
+//
+// Dumped for Koikatsu v5.1 by Mod Text Dump v0.0.1: 2021-05-25
+//
+
+// chara/_mods/eva.unity3d
+第3新東京市立第壱中学校制服=Daiichi Junior High School Uniform
+
+// chara/_mods/watanabe.unity3d
+みら僕=Miraboku
+
+// chara/sage/sagesk2.unity3d
+島風=Shimakaze
+
+// chara/sage/sagesk3.unity3d
+島風ボタンなし=Shimakaze No Button
+
+// chara/_kero/cpo_shimakazeS_NT_00.unity3d
+島風ショート=Shimakaze Short
+島風ショート（ゆったりVer）=Shimakaze Short (Loose Ver.)
+
+// chara/nashi/ns_sailor_chichitent.unity3d
+乳テントセーラー=Breast Tent Sailor
+乳テントセーラー-rose=Breast Tent Sailor-rose
+
+// chara/nashi1/ns_sailor_chichitent_haruka.unity3d
+乳テントセーラー-haruka=Breasted Tent Sailor-Haruka
+
+// chara/nashi/ns_sailor.unity3d
+夏セーラー1=Summer Sailor 1
+夏セーラー2=Summer Sailor 2
+夏セーラー3=Summer Sailor 3
+厚手長袖セーラー=Thick Long Sleeve Sailor
+
+// chara/sailor_alt.unity3d
+タイプ1 半袖1=Type 1 Short Sleeve 1
+タイプ1 半袖2=Type 1 Short Sleeve 2
+タイプ2 半袖=Type 2 Short Sleeves
+タイプ4 ノースリーブ=Type 4 Sleeveless
+
+// chara/ymd/mf_clothVariation2.unity3d
+タイプ５＋タイプ３=Type 5 + Type 3
+
+// chara/etc.unity3d
+なし=None
+
+// chara/mod_zmr/cpo_sailor_a_zmr.unity3d
+袖なしセーラー=Sleeveless Sailor

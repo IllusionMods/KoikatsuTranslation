@@ -1,0 +1,46 @@
+//
+// Dumped for Koikatsu v5.1 by Mod Text Dump v0.0.1: 2021-05-25
+//
+
+// chara/nam/nam_ao_kokan_00.unity3d
+アナルプラグ1=Anal Plug 1
+アナルプラグ2=anal plug 2
+ハートアナルプラグ1=Heart Anal Plug 1
+ハートアナルプラグ2=Heart Anal Plug 2
+ティアドロップアナルプラグ1=teardrop anal plug 1
+ティアドロップアナルプラグ2=teardrop anal plug 2
+
+// chara/koi_ao_kokan_00.unity3d
+アナルビーズ=anal beads
+
+// chara/nakay/ao_puhair_kp.unity3d
+kPlug用四角=Square for kPlug
+kPlug用小三角=Small triangle for kPlug
+kPlug用丸=Round for kPlug
+kPlug用薄い=Thin for kPlug
+kPlug用小盾=Small shield for kPlug
+kPlug用大盾=Large shield for kPlug
+kPlug用太縦長=Thick Vertical for kPlug
+kPlug用横長=Horizontal Length for kPlug
+kPlug用陰唇１=Labia1 for kPlug
+kPlug用陰唇２=Labia 2 for kPlug
+
+// chara/nashi/ns_ao_inmou.unity3d
+トライアングル=Triangle
+ワンフィンガー=One Finger
+ワイルド=Wild
+オーバル=Oval
+ハート=Pattern 9
+ちょびロング=Chobi Long
+ナチュナル=Naturals
+
+// chara/stinger722_ao_kokan_inmou.unity3d
+陰毛F=Pubic Hair F
+陰毛R=Pubic hair R
+
+// chara/ymd/mf_accetcP.unity3d
+バナナ=banana
+バナナ 黒=Banana Black
+ゴーヤ=Bitter Melon
+ゴーヤ 色替え可=Bitter melon can be changed
+貝殻=Shell

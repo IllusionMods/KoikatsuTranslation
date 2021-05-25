@@ -1,0 +1,59 @@
+//
+// Dumped for Koikatsu v5.1 by Mod Text Dump v0.0.1: 2021-05-25
+//
+
+// chara/_mods/natumi2.unity3d
+夏美=Summer beauty
+
+// chara/_kero/CMS_NT_00.unity3d
+タイプＡ=Type A
+タイプＢ=Type B
+タイプＣ=Type C
+タイプＤ=Type D
+タイプＥ=Type E
+タイプＦ=Type F
+タイプＧ=Type G
+タイプＨ=Type H
+タイプＩ=Type I
+タイプＪ=Type J
+タイプＫ=Type K
+タイプＬ=Type L
+タイプＭ=Type M
+タイプＮ=Type N
+タイプＯ=Type O
+タイプＰ=Type P
+タイプＱ=Type Q
+タイプＲ=Type R
+タイプＳ=Type S
+タイプＴ=Type T
+タイプＵ=Type U
+タイプＶ=Type V
+タイプＷ=Type W
+タイプＸ=Type X
+タイプＹ=Type Y
+タイプＺ=Type Z
+タイプＡＡ=Type AA
+タイプＡＢ=Type AB
+タイプＡＣ=Type AC
+タイプＡＤ=Type AD
+タイプＡＥ=Type AE
+タイプＡＦ=Type AF
+タイプＡＧ=Type AG
+タイプＡＨ=Type AH
+タイプＡＩ=Type AI
+タイプＡＪ=Type AJ
+タイプＡＫ=Type AK
+
+// chara/_kero/mt_nose_NT.unity3d
+タイプ５=Pattern 5
+タイプ６=Type 6
+タイプ７=Type 7
+
+// list/characustom/00_vkat02.unity3d
+タイプ5=Type 5
+
+// chara/ymd/mf_sakuya.unity3d
+サクヤ鼻=Sakuya Nose
+
+// chara/YAN_MOD/yan_noseline.unity3d
+タイプ001=Type 001

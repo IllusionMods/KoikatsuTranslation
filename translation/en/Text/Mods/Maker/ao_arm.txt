@@ -1,0 +1,91 @@
+//
+// Dumped for Koikatsu v5.1 by Mod Text Dump v0.0.1: 2021-05-25
+//
+
+// chara/_mods/claire.unity3d
+クレア四角=Claire square
+クレア輪=Claire circle
+クレア左=Claire left
+クレア右=Claire right
+クレア丸=Claire circle
+クレア尻=Claire butt
+
+// chara/deathweasel/ec_items.unity3d
+ヴァルキリーショルダー右用=Valkyrie shoulder for right
+ヴァルキリーショルダー左用=Valkyrie shoulder for left
+サキュバスショルダー右用=Succubus shoulder right
+サキュバスショルダー左用=Succubus shoulder left
+
+// chara/gray/F_arm02_c.unity3d
+スタッズレザーアーム左用=Studded leather arm for left
+スタッズレザーアーム右用=Studded leather arm for right
+
+// chara/gray/F_arm00_c.unity3d
+エキゾチックリング左用=Exotic Ring Left
+エキゾチックリング右用=Exotic Ring Right
+
+// chara/_mods/gantz_suit2.unity3d
+ガンツ丸1個=Gantz Round 1pc
+ガンツ丸靴用４個=Ganz Round for Shoes 4 pcs
+ガンツ丸横２個=Ganz Round Horizontal 2 pcs
+ガンツ丸縦２個=2 vertical Ganz rounds
+ガンツ丸腕用４個=4 Gants for arms
+ガンツ丸首用４個=4 pcs for neck
+
+// chara/_mods/gantz_suit5.unity3d
+ガンツ丸金属=Gantz Maru Metal
+
+// chara/_mods/gantz_suit6.unity3d
+光る円柱=Glowing Cylinder
+
+// chara/_mods/ituki.unity3d
+Qテクターパーツ=Q-Tector Parts
+光る立方体=Glowing Cube
+光る球体=Glowing Sphere
+
+// chara/_mods/kira01.unity3d
+キラメイチェンジャー=Kira Mei Changer
+
+// chara/_mods/Mine2.unity3d
+マイン鎧手首=Mine Armor Wrist
+マイン鎧手甲左=Mine Armor Hand Armor Left
+マイン鎧手甲右=Mine Armor Hand Armor Right
+マイン鎧肘左=Mine Armor Elbow Left
+マイン鎧肘右=Mine Armor Elbow Right
+マイン鎧膝=Mine Armor Knee
+マイン髪留め=Mine Hair Clip
+
+// chara/_mods/Mine.unity3d
+盾の勇者の盾=Shield Hero Shield
+オレンジバルーン=Orange Balloon
+
+// chara/_mods/miro3.unity3d
+ミロ腕=Milo Arm
+ミロ手=Milo Hand
+
+// chara/_mods/miro4.unity3d
+ミロ肩=Milo Shoulder
+
+// chara/_mods/toosaka2.unity3d
+魔術刻印=Magical Mark
+
+// chara/_mods/takamura2.unity3d
+衛士強化装備肩=Guardsman Strengthening Equipment Shoulder
+
+// chara/JK/BB_acc.unity3d
+ＢＢ=BB
+
+// chara/koikoi/ao_arm_00.unity3d
+AIダクトテープ芯=AI duct tape core
+
+// chara/mf_alice.unity3d
+騎士のリボン[アリス]=Knight's ribbon [Alice][SAO
+
+// chara/mf_alice_v2.unity3d
+整合騎士のリボン[アリス][SAO]=Alignment Knight's Ribbon [Alice][SAO]
+
+// chara/mf_asuna.unity3d
+腕輪：創世神ステイシア[SAO]=Arm band: Stacia, God of Creation [SAO].
+
+// chara/ao_arm_halloween.unity3d
+ドクロ=Pattern 15

@@ -1,0 +1,9 @@
+//
+// Dumped for Koikatsu v5.1 by Mod Text Dump v0.0.1: 2021-05-25
+//
+
+// chara/ymd/mf_ymdtexture.unity3d
+濃=Dark
+ムキムキ 濃=Muscular Dark
+ポッチャリ 濃=Chubby Dark
+スレンダー 濃=Slender Dark

@@ -1,0 +1,46 @@
+//
+// Dumped for Koikatsu v5.1 by Mod Text Dump v0.0.1: 2021-05-25
+//
+
+// chara/dak/mt_ramp_00.unity3d
+深いなめらか影1=Deep smooth shadow 1
+深いなめらか影2=Deep smooth shadow 2
+深いなめらか影3=Deep Smooth Shadow 3
+逆光用ボケ影1=Bokeh shadow for backlight 1
+逆光用ボケ影2=Bokeh shadow for backlighting 2
+逆光用ボケ影3=Bokeh shadow for backlighting 3
+逆光用なめらか=Smooth for backlighting
+
+// chara/dak/mt_ramp_rev00.unity3d
+逆光用完全なめらか影=Perfectly smooth shadow for backlighting
+逆光用深いくっきり影=backlit deep clear shadow
+逆光用深いなめらか影=backlit deep smooth shadow
+逆光用境界線のある影=bordered shadow for backlighting
+逆光用浅いなめらか影=Shallow smooth shadow for backlighting
+逆光用浅いくっきり影=Shallow clear shadow for backlighting
+
+// chara/koikoi/mt_ramp_koikoi_00.unity3d
+はっきり＋リムライト=Clear + Rim Light
+なめらか＋リムライト=Smooth + rim light
+リムライトもなめらか=Rim light also smooth
+逆光=Backlighting
+境界線＋リムライト=Border + Rim Light
+リムライトのみ=Rim light only
+
+// chara/phmod/mt_ramp_PH1.unity3d
+完全なめらか１=Perfectly smooth 1
+完全なめらか２=Perfectly smooth 2
+ハイブリッド１=Hybrid 1
+ハイブリッド２=Hybrid 2
+アニメ調１=Cartoony1
+アニメ調２=Animated2
+アニメ調３=Animated3
+
+// chara/ymd/mf_ramp.unity3d
+境界くっきり１=Clear Boundary 1
+境界くっきり２=Clear Boundary 2
+境界くっきり３=Clear Boundary 3
+
+// chara/mod_zmr/mt_ramp_zmr_01.unity3d
+アニメ影=Anime Shadow
+メカ影=Mechanical Shadow

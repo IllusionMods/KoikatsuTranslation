@@ -1,0 +1,51 @@
+//
+// Dumped for Koikatsu v5.1 by Mod Text Dump v0.0.1: 2021-05-25
+//
+
+// chara/dak/ao_hair_00.unity3d
+[dak]花のみ=[dak]Flower only
+
+// chara/dak/ao_head_00.unity3d
+[dak]コロネ右(揺れ)=[dak]Coronet Right (shaking)
+[dak]コロネ左(揺れ)=[dak]Coronet left (shaking)
+
+// chara/_mods/ayanami2.unity3d
+綾波の頭のヤツ=The one on Ayanami's head
+
+// chara/_mods/fumina01.unity3d
+フミナ=Fumina
+
+// chara/_mods/otokura2.unity3d
+乙倉ロープ=Otokura rope
+
+// chara/_mods/racingmiku2.unity3d
+レーミクリボン=Raymic ribbon
+
+// chara/_mods/sinon04.unity3d
+シノン髪飾り=Sinon hair ornament
+
+// chara/_mods/sweet_patissiere2.unity3d
+くるくるリボン=Kuru Kuru Ribbon
+結び目=Knot
+
+// chara/mod/mod_aurora_al.unity3d
+髪飾り_オーロラAL=Hair ornament_Aurora AL
+
+// chara/mod/mod_ranrin_acm.unity3d
+髪リボン_嵐燐結騎=Hair ribbon_Arashi Rin Kuki
+
+// chara/ao_hair_halloween.unity3d
+こうもり=bat
+三日月=Crescent Moon
+ハロウィンバッジ=Halloween Badge
+クモ=Spider
+
+// chara/ao_hair_xmas.unity3d
+ジンジャーマンクッキー=Gingerbread Cookie
+
+// list/characustom/00_vkat02.unity3d
+テントウムシ=Ladybug
+
+// chara/xne/xne_ao_accZ46.unity3d
+ドイツ風クロス=German style cross
+ドイツ風紋章=German Crest

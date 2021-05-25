@@ -1,0 +1,11 @@
+//
+// Dumped for Koikatsu v5.1 by Mod Text Dump v0.0.1: 2021-05-25
+//
+
+// chara/mt_pattern_SP.unity3d
+骑士护腿(左)=骑 thighs (left)
+骑士护腿(右)=骑 thighs (right)
+
+// chara/ao_leg_01.unity3d
+注射ガーターリング（左）=Syringe Gatling (Left)
+注射ガーターリング（右）=Syringe Gatling (Right)

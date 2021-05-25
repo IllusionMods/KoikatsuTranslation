@@ -1,0 +1,24 @@
+//
+// Dumped for Koikatsu v5.1 by Mod Text Dump v0.0.1: 2021-05-25
+//
+
+// chara/_mods/claire_hair.unity3d
+ほそウェーブ=Faint Waves
+
+// chara/mf_leafa.unity3d
+地神テラリア[SAO]=Earth God Terraria [SAO].
+
+// chara/mf_sinon_CaitSith.unity3d
+シノン(ケットシー)[SAO]=Sinon(Ketsee)[SAO][SAO
+
+// chara/mf_sinon.unity3d
+シノン[SAO]=Sinon [SAO][SAO
+
+// chara/mod/mod_eden_vb.unity3d
+ミドルロング_エデンVB=Middle Long_Eden VB
+
+// chara/mod/mod_ranrin_acm.unity3d
+ダブルロング_嵐燐結騎=Double Long_Arashi Rin Yuki
+
+// chara/ymd/mf_hairNicoichi.unity3d
+S06 調整=S06 Adjustment

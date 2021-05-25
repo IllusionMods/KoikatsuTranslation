@@ -1,0 +1,311 @@
+//
+// Dumped for Koikatsu v5.1 by Mod Text Dump v0.0.1: 2021-05-25
+//
+
+// chara/_mods/claire2.unity3d
+クレアレオタード=Claire Leotard
+
+// chara/deathweasel/ec_items.unity3d
+聖女のビスチェ=Saint Bustier
+サキュバスビスチェ=Succubus Bustier
+
+// chara/deathweasel1/ec_items_haruka.unity3d
+聖女のビスチェ-haruka=Bustier of Saint Haruka
+
+// chara/nam/co_shibari_00.unity3d
+亀甲縛り改1=Tortoise Shell Binding Kai 1
+亀甲縛り改2=Tortoise Shell Binding Kai 2
+
+// chara/co_bra_00.unity3d
+ナミブラ=Nami Bra
+
+// chara/07_danua/co_bra_07_danua.unity3d
+聖女のビスチェ-danua=bustier of saint-danua
+
+// chara/mt_pattern_AI.unity3d
+搭配HS男衬衣用T恤=T-shirt for HS man's polo shirt
+
+// chara/mt_pattern_KA.unity3d
+贵族腰带=Women's waistband
+
+// chara/co_shoes.unity3d
+贵族风衣=Clothes for noble families
+
+// chara/mt_pattern_ZZ.unity3d
+偶像服肩章=Shoulder patch
+王子服肩章=Shoulder patch for prince
+军服肩章=Shoulder patch for military uniform
+肩章=Shoulder patch
+军服腰带=军服腰带
+
+// chara/ao_head_01.unity3d
+偶像肩章改=偶像服肩章改
+
+// chara/mt_pattern_SP.unity3d
+王子服束腰=Prince's uniform
+
+// chara/Sen3_rean.unity3d
+黎恩(下摆腰带扣)=Reign (Lower & Fore Waistband)
+
+// chara/_mods/zack2.unity3d
+全身金属タイツ=Full-length metal tights
+
+// chara/_mods/angela.unity3d
+三等官アンダー=Third Class Officer Under
+
+// chara/_mods/ayanami.unity3d
+黒波プラグスーツ=Black Wave Plug Suit
+
+// chara/_mods/blue_wind.unity3d
+ブルーウィンド上=Blue Wind Upper
+
+// chara/_mods/chirai_03.unity3d
+チライインナー=Chirai Inner
+
+// chara/_mods/fumina01.unity3d
+フミナ=Fumina
+
+// chara/_mods/fumina02.unity3d
+フミナ2=Fumina 2
+
+// chara/_mods/gantz_suit.unity3d
+半脱ぎガンツスーツ=Half Undressed Gantz Suit
+
+// chara/_mods/gantz_suit4.unity3d
+ガンツスーツインナー=Gantz Suit Inner
+
+// chara/_mods/gantz_suit8.unity3d
+ガンツスーツインナー2=Gantz Suit Inner 2
+
+// chara/_mods/hotlimit.unity3d
+HotLimit衣装=HotLimit Costumes
+
+// chara/_mods/ituki5.unity3d
+Qテクター=Q-Tector
+Qテクター(ツヤ)=Q-techter (Tsuya)
+
+// chara/_mods/makinami.unity3d
+真希波用ヴィレプラグスーツ=Vire Plug Suit for Makinami
+
+// chara/_mods/makinami3.unity3d
+式波用ヴィレプラグスーツ=Vire Plug Suit for Shikinami
+
+// chara/_mods/makinon02.unity3d
+マキノレオタード=Makino Leotard
+
+// chara/_mods/mash.unity3d
+マシュ=Marsh
+マシュインナー=Marsh Innerwear
+
+// chara/_mods/miraiakari.unity3d
+ミライアカリ=Mariah Carey
+
+// chara/_mods/miro.unity3d
+ミロスーツ=Milo Suit
+
+// chara/_mods/natumi.unity3d
+クロップドチューブトップ=Cropped Tube Top
+
+// chara/_mods/racingmiku.unity3d
+レーシングミク2019=Racing Miku 2019
+
+// chara/_mods/shiny_plug_suit1.unity3d
+テカテカ真希波プラグスーツ=Tekateka Makinami Plug Suit
+
+// chara/_mods/shiny_plug_suit2.unity3d
+テカテカ式波プラグスーツ=Tekateka Shikinami Plug Suit
+
+// chara/_mods/shiny_plug_suit3.unity3d
+テカテカ黒波プラグスーツ=Techa Techa Black Wave Plug Suit
+
+// chara/_mods/sinon01.unity3d
+シノンインナー=Sinon Innerwear
+
+// chara/_mods/watanabe.unity3d
+ヨーソロー水着=Yossorow Swimsuit
+
+// chara/Hayashi/hayashi_no_frill.unity3d
+フリル水着（フリルなし）=Frill Swimsuit (No Frill)
+
+// chara/m14/m14_small_swim.unity3d
+スクール水着_small =School swimsuit_small 
+
+// chara/m14/m14_small_swim2.unity3d
+スクール水着_small2 =School swimsuit_small2 
+
+// chara/mae_dirtypair.unity3d
+Maハイローブラ=Ma high-low bra
+
+// chara/mae_leotard.unity3d
+聖女堕とし=Saint Corruption
+
+// chara/mat/mat_open_bra.unity3d
+オープンビキニ=Open bikini
+オープンビスチェ =Open bustier 
+オープンフリルビキニ=Open Frilled Bikini
+
+// chara/Mint/co_M_holesSC.unity3d
+穴あきスク水=School Swimwear with Holes
+ハート穴スク水=Heart Hole School Swimsuit
+破れスク水=Torn School Swimsuit
+
+// chara/Mint/co_Mint_Tubetops.unity3d
+チューブトップ=Tube Top
+ツヤありチューブトップ=Shiny tube tops
+ミニチューブトップ=Mini Tube Tops
+
+// chara/_kero/cpo_shimakazeS_NT_00.unity3d
+透過全身タイツ VerA=Transparent Full Length Tights Ver.
+透過全身タイツ VerB=Transparent Full-Body Tights Ver.
+疑似ヌルテカボディ=Pseudo-slippery body
+さらしショート無地=Sarashi Short Plain
+
+// chara/_kero/co_SwimKikkou_NT_00.unity3d
+亀甲縛り=Tortoise Shell Binding
+
+// chara/nashi/ns_bra.unity3d
+フルカップブラ=Full Cup Bra
+フルカップブラ 柄付き=Full Cup Bra with Pattern
+4/5カップブラ=4/5 Cup Bra
+4/5カップブラ 柄付き=4/5-Cup Bra with Pattern
+3/4カップブラ=3/4 Cup Bra
+3/4カップブラ 柄付き=3/4 Cup Bra with Pattern
+1/2カップブラ=1/2 Cup Bra
+1/2カップブラ 柄付き=1/2 Cup Bra Patterned
+紐付きチューブトップブラ=Tube Top Bra with Straps
+紐付きチューブトップブラ 柄付き=Tube Top Bra with Straps Patterned
+シェルフカップブラ=Shelf Cup Bra
+シェルフカップブラ 柄付き=Shelf Cup Bra with Pattern
+オープンブラ=Open Bra
+オープンブラ エナメル風味=Open bra with enamel
+
+// chara/nashi/ns_mizugi.unity3d
+ひもぴーんビキニ=Flouncy Bikini
+ひもぴーんビキニ　ツヤ=Flouncy bikini Glossy
+ひもぴーんマイクロビキニ=Floppy micro bikini
+ひもぴーんバンドゥビキニ=Hymopy bandeau bikini
+ひもぴーん△ビキニ=Hymopy △ bikini
+ひもぴーんマイクロ△ビキニ=Hymopy micro bikini
+ひもぴーんビキニ カラバリ=Pimpin bikini Color variation
+ひもぴーんビキニ　ツヤ　カラバリ=Pimpin bikini Glossy Calabash
+ひもぴーんマイクロビキニ　カラバリ=HIMOPYN micro bikini Calabash
+ひもぴーん△ビキニ　カラバリ=HIMOPYN bikini -color variation
+ひもぴーんマイクロ△ビキニ　カラバリ=HIMOPYN micro bikini -color variation
+メタルひもぴーんビキニ=Metal string bikini
+メタルひもぴーんマイクロビキニ=Metal string micro bikini
+メタルひもぴーんバンドゥビキニ=Metal string bandeau bikini
+メタルひもぴーん△ビキニ=Metal string bikini
+メタルひもぴーんマイクロ△ビキニ=Metal string micro bikini
+
+// chara/nashi/ns_mizugi_lo.unity3d
+新スク=New School
+競スク=Competition swimwear
+ワンピース水着=One-piece swimwear
+
+// chara/nashi/ns_mizugi_tubetop.unity3d
+チューブトップ紐クロス=Tube top string cross
+チューブトップ紐センター=Tube top string center
+
+// chara/nashi/co_microbikini.unity3d
+極小マイクロブラ=Ultra-small micro bra
+
+// chara/nashi/ns_Front_hook.unity3d
+フロントホック 横ぽろり=Front Hook Side Purl
+フロントホック 前ぽろり=Front Hook Front Porous
+
+// chara/nashi/ns_mizugi_2nd.unity3d
+ひもぴーん2nd三角ビキニ=Himopy 2nd triangle bikini
+ひもぴーん2ndクロス三角ビキニ=Himopy 2nd cross triangle bikini
+
+// chara/nin/nin_shitagi.unity3d
+三角ブラ(ツヤ)=Triangle bra (glossy)
+ストラップレスブラ(ツヤ)=Strapless bra, lustrous
+レオタード (袖なし)=Leotard (Sleeveless)
+ハイレグレオタード (袖なし)=High-Leg Leotard (Sleeveless)
+全身タイツ(ショーツ可)=Full-length tights (shorts allowed)
+アサシンレオタード=Assassin Leotard
+
+// chara/taka/taka_co_bra_01.unity3d
+ビキニ水着 (3色変更可)=Bikinis (3 colors available)
+
+// chara/mat/mat_swim_hc.unity3d
+ハートカット競泳水着=Heart cut swimsuit
+ハートカット競泳水着 ツヤ有り=Heart cut swimsuit with luster
+ハートカットビキニ水着=Heart cut bikini swimsuit
+ハートカットビキニ水着 ツヤ有り=Heart cut bikini swimsuit with luster
+ハートカットレオタード=Heart Cut Leotard
+ハートカットレオタード ツヤ有り=Heart cut leotard with luster
+
+// chara/co_bra_xmas.unity3d
+サンタ=Santa Claus
+
+// chara/xne/xne_co_top_altbunny.unity3d
+ハイレグバニーH_A（襟op）=High-Legged Bunny H_A (collar op)
+ハイレグバニーH_B（襟op）=High-Legged Bunny H_B (Collar op)
+ハイレグバニー（重ね着用/襟op）=High-Legged Bunny (Overlapping / Collar op)
+
+// chara/xne/xne_co_bra_brzlswim.unity3d
+ブラジル水着（張り極小）=Brazilian swimsuit (very small tension)
+ブラジル水着（張り小）=Brazilian swimsuit (Tension small)
+ブラジル水着（張り中）=Brazilian swimsuit (medium tension)
+ブラジル水着（張り大）=Brazilian swimsuit (large)
+
+// chara/xne/xne_co_bra_eroswim01.unity3d
+xne水着Ａ=XNE Swimsuit A
+xne水着Ａ（透け）=XNE Swimsuit A (transparent)
+xneレース下着=XNE Lace Underwear
+
+// chara/xne/xne_co_bra_himoswim.unity3d
+ひも水着=String swimsuit
+ひも水着（透け）=Braided swimsuit (transparent)
+ひも水着（巨乳）=String swimsuit (Big tits)
+ひも水着（巨乳／透け）=String swimsuit (Big tits / Transparent)
+
+// chara/xne/xne_co_bra_saitotights.unity3d
+ボディタイツ（筋肉質）=Body Tights (Muscular)
+ボディタイツ透け（筋肉質）=Body tights transparent (muscular)
+ボディタイツ（普通）=Body tights (normal)
+ボディタイツ透け（普通）=Body Tights Transparent (Normal)
+ボディタイツ（痩せ）=Body Tights (Skinny)
+ボディタイツ透け（痩せ）=Transparent body tights (skinny)
+
+// chara/xne/xne_co_bra_gantaiswim.unity3d
+眼帯ビキニ=Eye patch bikini
+眼帯ビキニ（紐ピン）=Eye patch bikini (string pin)
+四角ビキニ=Square bikini
+四角ビキニ（紐ピン）=Square bikini (string pins)
+
+// chara/xne/xne_co_bra_tubeswim.unity3d
+チューブトップ水着=Tube top swimsuit
+チューブトップ水着（胸張り）=Tube top swimsuit (breast padding)
+チューブトップ水着H=Tube top swimsuit H
+
+// chara/ymd/mf_clothVariation.unity3d
+クロスネック=Cross neck
+アンダーシャツ1=Undershirt 1
+アンダーシャツ2 ロングレギンス=Undershirt 2 Long leggings
+アンダーシャツ2 スパッツ=Undershirt 2 Spats
+アンダーシャツ3 ツートン=Undershirt 3 Two-Tone
+アンダーシャツ3 ツートン 袖短=Undershirt3 Two-Tone Short Sleeves
+アンダーシャツ3 首まで=Undershirt 3 Up to Neck
+アンダーシャツ3 首まで 袖短=Undershirt 3 Up to neck Short sleeves
+
+// chara/ymd/mf_texchange.unity3d
+スクール水着 テカ=School swimsuit Teka
+競泳水着 テカ=Swimsuit, teka
+
+// chara/y004.unity3d
+マイクロビキニ（上）=Micro bikini (top)
+
+// chara/y003.unity3d
+透けスクール水着=Transparent School Swimsuit
+
+// chara/y002.unity3d
+透け競泳水着=Transparent swimsuit
+
+// chara/ztoki/ztoki_01b_bra_nippless.unity3d
+ハート=Pattern 9
+星=Star
+クロス=Cross
+ハート 小=Heart Small
+絆創膏=Bandage

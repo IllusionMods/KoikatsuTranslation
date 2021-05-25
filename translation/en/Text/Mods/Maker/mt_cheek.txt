@@ -1,0 +1,42 @@
+//
+// Dumped for Koikatsu v5.1 by Mod Text Dump v0.0.1: 2021-05-25
+//
+
+// chara/noa/noa_cheek.unity3d
+乃愛=Noa
+
+// chara/_kero/CMS_NT_00.unity3d
+タイプＡ=Type A
+タイプＢ=Type B
+タイプＣ=Type C
+タイプＤ=Type D
+タイプＥ=Type E
+タイプＦ=Type F
+タイプＧ=Type G
+タイプＨ=Type H
+タイプＩ=Type I
+タイプＪ=Type J
+タイプＫ=Type K
+タイプＬ=Type L
+タイプＭ=Type M
+タイプＮ=Type N
+タイプＯ=Type O
+タイプＰ=Type P
+タイプＱ=Type Q
+タイプＲ=Type R
+タイプＳ=Type S
+タイプＴ=Type T
+
+// chara/sagiri/sagiri_cheek.unity3d
+紗霧=Sagiri
+
+// chara/mod/mod_aurora_al.unity3d
+チーク_オーロラAL=Cheek_Aurora AL
+
+// chara/ymd/mf_ymdtexture.unity3d
+タイプ１ 改１=Type 1 Revision 1
+タイプ１ 改２=Type 1 Revision 2
+タイプ３ 改１=Type 3 Revision 1
+タイプ３ 改２=Type 3 Revision 2
+タイプ３ 改３=Type 3 Revision 3
+タイプ３ 改４=Type 3 Revision 4

@@ -1,0 +1,9 @@
+//
+// Dumped for Koikatsu v5.1 by Mod Text Dump v0.0.1: 2021-05-25
+//
+
+// chara/mod/mod_eden_vb.unity3d
+シングルカール_エデンVB=Single Curl_Eden VB
+
+// chara/mod/mod_sample_rcl_00.unity3d
+動く！狐耳=Move! fox ears

@@ -1,0 +1,89 @@
+//
+// Dumped for Koikatsu v5.1 by Mod Text Dump v0.0.1: 2021-05-25
+//
+
+// chara/mt_emblem_00.unity3d
+寄宿学校のジュリエット=Juliet of the Boarding School
+
+// chara/karasu/mt_emblem_k00.unity3d
+ハート1=Heart 1
+ハート2=Heart 2
+
+// chara/_kero/CMS_NT_00.unity3d
+タイプＡ=Type A
+タイプＢ=Type B
+タイプＣ=Type C
+タイプＤ=Type D
+
+// chara/_kero/cpo_shimakazeS_NT_00.unity3d
+絆創膏=Bandage
+絆創膏（縦）=Adhesive Plaster (Vertical)
+
+// chara/phmod/mt_emblem_PH1.unity3d
+絆創膏１（横）=Adhesive Plaster 1 (horizontal)
+絆創膏１（縦）=Adhesive Plaster 1 (vertical)
+ハート１（大）=Heart 1 (large)
+ハート１（小）=Heart 1 (small)
+ハート２（大）=Heart 2 (large)
+ハート２（小）=Heart 2 (small)
+ハート３（大）=Heart 3 (large)
+ハート３（小）=Heart 3 (small)
+ハート４（大）=Heart 4 (large)
+ハート４（小）=Heart 4 (small)
+ハート５（大）=Heart 5 (large)
+ハート５（小）=Heart 5 (small)
+ハート６（大）=Heart 6 (large)
+ハート６（小）=Heart 6 (small)
+ハート７（大）=Heart 7 (large)
+ハート７（小）=Heart 7 (small)
+ハート８（大）=Heart 8 (large)
+ハート８（小）=Heart 8 (small)
+ハート９（大）=Heart 9 (large)
+ハート９（小）=Heart 9 (small)
+ハート１０（小）=Heart 10 (small)
+ハート１０（大）=Heart 10 (large)
+母乳=Mother's Milk
+
+// chara/phmod/mt_emblem_PH2.unity3d
+絆創膏２（大）=Adhesive Bandage 2 (Large)
+絆創膏２（小）=Adhesive Bandage 2 (Small)
+スター１（大）=Star 1 (Large)
+スター１（小）=Star 1 (small)
+スター２（大）=Star 2 (large)
+スター２（小）=Star 2 (small)
+スター３（大）=Star 3 (large)
+スター３（小）=Star 3 (small)
+スター４（大）=Star 4 (large)
+スター４（小）=Star 4 (small)
+スター５（大）=Star 5 (Large)
+スター５（小）=Star 5 (small)
+スター６=Star 6
+スター７=Star 7 (large)
+スター８（大）=Star 8 (large)
+スター８（小）=Star 8 (Small)
+スター９（大）=Star 9 (large)
+スター９（小）=Star 9 (Small)
+済（大）=Star 8 (Large)
+済（小）=Half Price (Large)
+半額（大）=Half Price (Large)
+半額（小）=Half Price (Small)
+レース１=Lace 1
+
+// chara/ymd/mf_sakuya.unity3d
+サクヤ 校章=Sakuya School Badge
+
+// chara/ztoki/ztoki_emblem_00.unity3d
+クロス 黒=Cross Black
+クロス 黒 FUCK=Cross Black FUCK
+ハート 赤=Heart Red
+ハート ピンク=Heart Pink
+ハート 白=Heart White
+星 黄=Star Yellow
+星 青=Star Blue
+星 ピンク=Star Pink
+ドクロ 黒=Skull Black
+ドクロ 紫=Skull Purple
+ハート 小 ピンク=Heart Small Pink
+ハート 小 赤=Heart Small Red
+ハート 小 黒=Heart small black
+花 文字入り=Flower with text
