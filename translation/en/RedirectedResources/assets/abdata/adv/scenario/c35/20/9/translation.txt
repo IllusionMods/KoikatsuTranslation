@@ -1,3 +1,3 @@
-//「わーい、私と出かけてくれるん？　めっちゃ嬉しい！　この街の色んなとこ案内してね」=
-//「ありがとう、せっかくのデートだもんね。期待に応えられるように頑張るよ」=
-//「そうやね……って、デート！？　そ、そっかっ……男女二人で出かけるんやけん……デートの約束なんや……わわっ、ど、どうしよ、緊張してきたー！」=
+﻿「わーい、私と出かけてくれるん？　めっちゃ嬉しい！　この街の色んなとこ案内してね」=Yay, you're gonna take me out somewhere? I'm super happy! Show me around this town, okay?
+「ありがとう、せっかくのデートだもんね。期待に応えられるように頑張るよ」=Thanks, I'll try my best to answer those expectations. Since this'll be a date afterall.
+「そうやね……って、デート！？　そ、そっかっ……男女二人で出かけるんやけん……デートの約束なんや……わわっ、ど、どうしよ、緊張してきたー！」=Yeah... wait, a date?! I-I see--... a boy and girl will be going out together so... it's a date... wawah--, w-what do I do, I'm getting nervous!

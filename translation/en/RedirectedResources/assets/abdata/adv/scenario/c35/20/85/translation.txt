@@ -1,8 +1,8 @@
-//「よーし、今日もコイカツ頑張るん！　実は私、コイカツ向きの雑誌買ってきたとよ！」=
-//「えっ、本当に？　ありがとう！　どんな雑誌？」=
-//「うん、これ！　出産前に読むのがこっちで……出産後に読むのがこっち……」=
-//「ちょ、ちょっと待って！」=
-//「……ん？　私、なんか間違った？　恋人らしいことするっちゃろ？」=
-//「そ、それはそうだけど……色々すっ飛ばしすぎだよ！？　部活でやるのはこの雑誌よりもずーっと前のことだよ？」=
-//「妊娠の前にすること……？　はぅっ……そ、そっか、もっと生々しい事やったんっ……ご、ごめんっ……次はそういう本買ってくるけんっ！」=
-//「か、買わなくていいよ！　それじゃまるで罰ゲームの部活だよっ！」=
+﻿「よーし、今日もコイカツ頑張るん！　実は私、コイカツ向きの雑誌買ってきたとよ！」=Alright, I'll work hard today too! You know, I actually went and bought some magazines for us to use as reference material!
+「えっ、本当に？　ありがとう！　どんな雑誌？」=Eh--, really? Thanks! What sort of magazines?
+「うん、これ！　出産前に読むのがこっちで……出産後に読むのがこっち……」=Yeah, these! This one, to be read before delivery and... this one for after the child's born...
+「ちょ、ちょっと待って！」=W-Wait just a moment!
+「……ん？　私、なんか間違った？　恋人らしいことするっちゃろ？」=...Hm? Did I get something wrong? We're gonna do things that couples do, right?
+「そ、それはそうだけど……色々すっ飛ばしすぎだよ！？　部活でやるのはこの雑誌よりもずーっと前のことだよ？」=T-That's not wrong but... you're skipping over quite a lot of stuff, you know?! The stuff we're gonna do as club activities is stuff that happens much, much earlier than this, you know?
+「妊娠の前にすること……？　はぅっ……そ、そっか、もっと生々しい事やったんっ……ご、ごめんっ……次はそういう本買ってくるけんっ！」=You mean things that happen before pregnancy...? Hauu--... I-I see, so it's more about the true-to-life stuff--... S-Sorry--... Next time I'll go buy those sorts of books instead!
+「か、買わなくていいよ！　それじゃまるで罰ゲームの部活だよっ！」=N-No need! Our club activities aren't those sorts of truth-or-dare things--!

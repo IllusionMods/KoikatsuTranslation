@@ -1,11 +1,11 @@
-………………=.........
+﻿………………=.........
 …………=......
 ……=...
-//「あ、もう分かれ道……ずっと一緒におりたかったんに……一緒に帰るとなんでこげん帰り道が短いっちゃろ……」=
-//「それじゃ、この後、うちに来ない？　俺もまだ[H名]と離れたくないんだ」=
-//「ふわぁっ！　ばり嬉しかぁ！　うん、ぜひお邪魔させて！」=
-//「寂しいけど、またすぐ会えるよ」=
-//「えへへ、そうやね！　それじゃっ、またね！」=
+「あ、もう分かれ道……ずっと一緒におりたかったんに……一緒に帰るとなんでこげん帰り道が短いっちゃろ……」=Ah, we already have to split... I wanted to spend lots more time with you... Why does the walk home become so much shorter when we're together...
+「それじゃ、この後、うちに来ない？　俺もまだ[H名]と離れたくないんだ」=Well then, wanna come to my place? I don't want to let you go either, [H名].
+「ふわぁっ！　ばり嬉しかぁ！　うん、ぜひお邪魔させて！」=Fuwah--! I'd love to! Yeah, please let me come!
+「寂しいけど、またすぐ会えるよ」=It's sad but, we'll meet again real soon.
+「えへへ、そうやね！　それじゃっ、またね！」=Ehehe, you're right! Well then--, till next time!
 
-//CHOICE:「それじゃ、この後……」=
-//CHOICE:「寂しいけど、またすぐ会えるよ」=
+CHOICE:「それじゃ、この後……」=Well then, after this...
+CHOICE:「寂しいけど、またすぐ会えるよ」=It's sad but, we'll meet again real soon.

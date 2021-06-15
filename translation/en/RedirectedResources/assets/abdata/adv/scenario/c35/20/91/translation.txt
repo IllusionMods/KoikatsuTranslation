@@ -1,3 +1,3 @@
-//「あっ、おはよう、[Pあだ名]。今日も張り切るん！」=
-//「おはよう[Hあだ名]。うん、張り切るよー」=
-//「あはは、朝から愛称で呼ばれたら、それだけで元気になるん！」=
+﻿「あっ、おはよう、[Pあだ名]。今日も張り切るん！」=Ah--, morning, [Pあだ名]. I'mma work hard today!
+「おはよう[Hあだ名]。うん、張り切るよー」=Morning, [Hあだ名]. Yeah, same here.
+「あはは、朝から愛称で呼ばれたら、それだけで元気になるん！」=Ahaha, just hearing you call me that, right from the start, is enough to cheer me up for the whole day!

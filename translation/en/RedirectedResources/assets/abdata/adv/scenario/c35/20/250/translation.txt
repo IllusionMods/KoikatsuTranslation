@@ -1,4 +1,4 @@
-//「うぅ……遊園地帰りの電車って……やっぱりちょっと寂しいん」=
-//「うん、分かる。帰りだけじゃなくて閉園した後の遊園地見るのも寂しいよね。さっきまで楽しかった場所が一気に暗くなっちゃうし……」=
-//「うん……中で朝まで過ごせたら楽しいのに……２４時間営業の遊園地とかないんかな」=
-//「うーん、さすがにそれは厳しいような気もするけど……世界のどこかにはあるのかな」=
+﻿「うぅ……遊園地帰りの電車って……やっぱりちょっと寂しいん」=Uuu... The ride back home from the amusement park... it really does feel a bit sad.
+「うん、分かる。帰りだけじゃなくて閉園した後の遊園地見るのも寂しいよね。さっきまで楽しかった場所が一気に暗くなっちゃうし……」=Yeah, I feel you. Not just going home, but also watching as the amusement park closes down. A place full of fun, going dark in one fell swoop...
+「うん……中で朝まで過ごせたら楽しいのに……２４時間営業の遊園地とかないんかな」=Yeah... Even though it'd be so great if we could play around till morning... Are there no amusement parks out there that are open 24 hours?
+「うーん、さすがにそれは厳しいような気もするけど……世界のどこかにはあるのかな」=Mmm, I feel like staying open all day would be real hard to pull off but... I wonder if there is one somewhere in this world.

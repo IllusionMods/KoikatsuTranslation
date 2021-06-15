@@ -1,5 +1,5 @@
-//「あ、少しの間でいいから、俺と話してもらえないかな？」=
-//「うん、いいよー。でもこの学園、本当に男の子がおるんやねぇ。ただの噂かと思っとったよ」=
-//「あはは、驚かせてごめんね。俺は[P名前]って言うんだ。よろしくね」=
-//「私は[H名前]。気軽に名前で呼んでくれていいけんね。えっと……どんなこと話すん？」=
-//「そうだな。それじゃ……」=
+﻿「あ、少しの間でいいから、俺と話してもらえないかな？」=Ah, won't you chat with me? I don't mind if it's just for a minute or two.
+「うん、いいよー。でもこの学園、本当に男の子がおるんやねぇ。ただの噂かと思っとったよ」=Yeah, alright. But, this school, it really had a boy huh? I thought it was just idle gossip or something.
+「あはは、驚かせてごめんね。俺は[P名前]って言うんだ。よろしくね」=Ahaha, sorry for surprising you there. I go by [P名前]. Nice to meet you.
+「私は[H名前]。気軽に名前で呼んでくれていいけんね。えっと……どんなこと話すん？」=[H名前] for me. Feel free to just call me by my name directly. Erhm... Whatcha wanna talk about?
+「そうだな。それじゃ……」=Right. Let's see...
