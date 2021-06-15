@@ -27,7 +27,7 @@
 「はい、これでよろしいでしょうか」=Yes, is this acceptable?
 「よきかなよきかな……ってむずがゆいなこれ……」=Yep, excellent work... Man, acting like a big-wig feels kinda awkward...
 「ご満足いただけましたか？　お姫様」=Are you satisfied, my princess?
-「よせよ、お姫様なんて……」="Princess, come off it..."""
+「よせよ、お姫様なんて……」="Princess", come off it...
 「俺にとって[H名]は、たった一人のお姫様だよ」=To me, you're the only one deserving of the title, [H名].
 「バカ……な、なら、もっと近うよれ！」=Dummy... i-in that case, come even closer!
 「これ以上って……」=Closer than this...?
