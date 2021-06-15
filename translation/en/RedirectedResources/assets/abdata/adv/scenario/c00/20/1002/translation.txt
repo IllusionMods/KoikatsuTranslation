@@ -1,18 +1,18 @@
-「ふう、タキシードって結構肩が凝るなぁ……」=Fuu, a tuxedo is pretty stiff...
-「けど、ウェデングドレスは、きっともっと大変なんだろうな～……」=But, wedding dresses are probably a lot more difficult~...
-「……ってか、へへへ、楽しみだな。[H名]のことだから、似合ってるんだろうなー……」=...I mean, eheheh, I'm looking forward to it. Since it's [H名], it'll suit her...
-（いよいよ出番か……よし、頑張ろう）=(It's our time to go... Alright, I'll do my best.)
-（いい式場だな……こんな場所で、ほんとに結婚式を挙げられたら最高だろうな……そして相手が[H名]なら言うことなしだ）=(It's a pretty good ceremony... This really is the best place to have a wedding at... And since my partner is [H名], there's nothing to complain about.)
-（よし気合を入れて頑張ろう！）=(Wish us luck and let's do our best!)
-（ふぅ……不恰好になってなかったよな？　ちょっと心配だ……）=(Fuu... I don't look ugly, right?)
-「これより新婦が入場致します。後方の扉口をご覧ください」=The bride will now enter. Please look at the back door.
-（うう、ヤバい……滅茶苦茶緊張してきた……）=(Uhh, this is bad... I'm getting super nervous right now...)
-両開きの大きな扉が開くと、純白のドレスをまとった花嫁が佇んでいた。=When the large double doors had opened, there, in a pure white dress stood the bride.
-思わず息を呑んで、ウエディング姿の見目麗しい彼女を見つめる。=Subconsiously holding my breath, I stare at her in a beautiful wedding dress.
-清楚で、華やかで、気高い花嫁をバージンロードが美しく演出しているようで、俺は花嫁からまったく目は離せなかった。=The spotless, gorgeous, and outstanding bride was walking down the aisle, she looked so beautiful, that I couldn't take my eyes off her at all.
-「……すごいな。想像してたより、ずっと……ずっと綺麗だ……」=...Amazing. More than what I thought, you're much... much more beautiful...
-「……素敵な花嫁さんになってるよ」=... You became a really lovely bride.
-「ふふ、ありがと♪　君も、最高の花婿さんよ」=Fufu, thank you. ♪ You too, you're the best groom.
+﻿「ふう、タキシードって結構肩が凝るなぁ……」=Fuu, this tuxedo is pretty heavy...
+「けど、ウェデングドレスは、きっともっと大変なんだろうな～……」=But, I'm sure a wedding dress would be even more of a pain to wear~...
+「……ってか、へへへ、楽しみだな。[H名]のことだから、似合ってるんだろうなー……」=...--Hehehe, I'm looking forward to it. Since it's [H名] we're talking about here, she'd probably look amazing in it...
+（いよいよ出番か……よし、頑張ろう）=(Finally, showtime... Alright, gotta do my best.)
+（いい式場だな……こんな場所で、ほんとに結婚式を挙げられたら最高だろうな……そして相手が[H名]なら言うことなしだ）=(What a hall though... It would be just the best, to have a real wedding here... and if [H名] were to be my bride, then that would be just perfect.)
+（よし気合を入れて頑張ろう！）=(Alright, time to bring out my A-game!)
+（ふぅ……不恰好になってなかったよな？　ちょっと心配だ……）=(Fuu... I didn't make for too clumsy a sight, did I? I'm a bit worried...)
+「これより新婦が入場致します。後方の扉口をご覧ください」=And now, the bride will make her entrance. Please pay attention to the main door.
+（うう、ヤバい……滅茶苦茶緊張してきた……）=(Uuu, damn... I'm getting super nervous...)
+両開きの大きな扉が開くと、純白のドレスをまとった花嫁が佇んでいた。=When the wide double doors opened, there was a bride standing there, clad in a pure white dress.
+思わず息を呑んで、ウエディング姿の見目麗しい彼女を見つめる。=My breath was stolen away, as I looked at her standing in that wedding dress, beautiful as she was.
+清楚で、華やかで、気高い花嫁をバージンロードが美しく演出しているようで、俺は花嫁からまったく目は離せなかった。=I couldn't take my eyes off her at all, as if the aisle was presenting her to me, my trim, gorgeous, magnificent bride.
+「……すごいな。想像してたより、ずっと……ずっと綺麗だ……」=...Amazing. You're beautiful, more, much more beautiful... than I could have ever imagined...
+「……素敵な花嫁さんになってるよ」=...You've become a lovely bride.
+「ふふ、ありがと♪　君も、最高の花婿さんよ」=Fufu, thanks♪ You're just the perfect groom too.
 
 モブ=Mob
 

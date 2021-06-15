@@ -1,5 +1,5 @@
-「それ、本気で言ってるの？　……理由を聞かせてもらってもいいかな」=“Are you seriously saying that? ...I'd like to hear your reasoning if you could.”
-「…………ごめん」=“...Sorry.”
-「……そう。君は優しいのね」=“...I see. Aren't you nice.”
-「今までありがとう」=“Thank you for everything up till now.”
-「私の方こそ、楽しい思い出を沢山ありがとう。次はうまくいくといいわね。応援してるわ」=“I'd like to thank you for all of the happy memories. I hope it works out for you in the future. I'll support you.”
+﻿「それ、本気で言ってるの？　……理由を聞かせてもらってもいいかな」=Are you being serious? ...Could you atleast tell me why?
+「…………ごめん」=...Sorry.
+「……そう。君は優しいのね」=...I see. At the end of the day, you can't bear to break my heart.
+「今までありがとう」=Thanks for everything till now.
+「私の方こそ、楽しい思い出を沢山ありがとう。次はうまくいくといいわね。応援してるわ」=Same here, thank you for all these fun memories. It'd be great if it goes well between you and your next girlfriend. I'll cheer for you.

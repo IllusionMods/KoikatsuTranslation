@@ -1,14 +1,13 @@
-
-「ちょっと思ったんだけど……俺たち、愛称で呼び合ったらどうなるのかな？」=I just thought about it right now but... what do you think about calling each other by nicknames?
-「ふたりの仲がもっと深まるんじゃないかな。ちょっとやってみましょうよ」=I wonder if that'll make us closer. Let's try it out for a bit.
-「えっと、それじゃあ俺のことは……[Pあだ名]で」=Um, well then for me... [Pあだ名].
-「なぁにそれ、そんな呼び方でいいの？」=What's with that, do you really want me to call you that?
-「一度そう呼んでもらいたくて……ダメかな？」=I wanted to be called that at least once... you can't?
-「えぇ～、どうしようかな」=Eh~ What should I do?
-「あ……やっぱりそんな呼び方するの嫌だよね。ごめん」=Ah... As I thought, you wouldn't want to call me that, right? Sorry.
-「ふふっ、嘘ウソ。君が喜んでくれるなら、私は何だってやるわ……ね、[Pあだ名]♪」=Fufu, I'm lying, I'm lying. If it makes you happy, I'll do anything... okay, [Pあだ名]? ♪
-「うぐっ！　……す、すごくいい……。ありがとう、[Hあだ名]」=Ugh! ...T-that's great... Thank you, [Hあだ名].
-「やん♪　もう……イキナリ呼ぶなんて、卑怯よ。照れちゃうじゃない」=Don't. ♪ Geez... Calling me that so suddenly is unfair. I'll get shy.
-「でも、たまにはこういうのもいいわね。また呼び合いましょうか？」=But it's nice once in a while, right? Should I say it again?
-「ちょっと恥ずかしかったから、たまにがいいかな……」=Because it was a little embarrassing, once in a while is okay...
-「うふふ、そうね。たまに、ね……」=Ufufu, right. Once in a while then...
+﻿「ちょっと思ったんだけど……俺たち、愛称で呼び合ったらどうなるのかな？」=Hey, I was thinking... what'd it be like if we started calling each other by nicknames?
+「ふたりの仲がもっと深まるんじゃないかな。ちょっとやってみましょうよ」=We'd probably get even closer together. Let's try it out.
+「えっと、それじゃあ俺のことは……[Pあだ名]で」=Erhm, well then, call me by uh... [Pあだ名].
+「なぁにそれ、そんな呼び方でいいの？」=What's with that, you sure you want me to call you that?
+「一度そう呼んでもらいたくて……ダメかな？」=I've always wanted to hear you call me that atleast once... no good?
+「えぇ～、どうしようかな」=Eeh~, I dunno~.
+「あ……やっぱりそんな呼び方するの嫌だよね。ごめん」=Ah... of course, I should have expected you'd feel grossed out by that. Sorry.
+「ふふっ、嘘ウソ。君が喜んでくれるなら、私は何だってやるわ……ね、[Pあだ名]♪」=Fufu--, I'm kidding, kidding. I'll do anything, if it'll make you happy... Hey, [Pあだ名]♪
+「うぐっ！　……す、すごくいい……。ありがとう、[Hあだ名]」=Uguh--! ...S-So good... Thanks, [Hあだ名].
+「やん♪　もう……イキナリ呼ぶなんて、卑怯よ。照れちゃうじゃない」=Hyan♪ Jeez... calling me that out of the blue is unfair, you know. Look, now you've got me blushing.
+「でも、たまにはこういうのもいいわね。また呼び合いましょうか？」=But, this sort of thing is nice too, every so often. Shall we call each other that again sometime?
+「ちょっと恥ずかしかったから、たまにがいいかな……」=It was a bit embarrassing, so I'll go with that too...
+「うふふ、そうね。たまに、ね……」=Ufufu, yeah. Every so often, yeah...

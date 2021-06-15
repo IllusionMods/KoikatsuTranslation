@@ -1,4 +1,4 @@
-「んーっ、よく寝た。……あれ？　メモがある。なになに――」=Mmm, I slept well. ... Oh? There's a letter. What's it say...?
-『グッモーニン、お寝坊さん♪　なかなか起きないから、先に行くわね』="Good morning, sleepy head. ♪ This doesn't happen often, so I'll go on ahead."
-『朝ごはんを作っておいたの。君の口に合うといいんだけど……』="I made breakfast. I hope you like it..."
-『それじゃ、学園で待ってるわ。早く来てね♪　[H]』="Well then, I'll be waiting at school. Come quickly. ♪ -[H]"
+﻿「んーっ、よく寝た。……あれ？　メモがある。なになに――」=Nnnnn, I slept well. ...Huh? There's a note. Let's see--
+『グッモーニン、お寝坊さん♪　なかなか起きないから、先に行くわね』=Good morning, you sleepyhead♪ You weren't waking up no matter what I tried, so I'm leaving first, kay?
+『朝ごはんを作っておいたの。君の口に合うといいんだけど……』=I made breakfast for you. I hope you like it...
+『それじゃ、学園で待ってるわ。早く来てね♪　[H]』=Well then, I'll be waiting for you at school. Come quickly, okay?♪ --[H]

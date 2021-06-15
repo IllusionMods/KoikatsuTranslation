@@ -1,3 +1,3 @@
-「ねぇ……私、ちゃんと君を気持ちよくさせられてた？」=“Hey... I... did I make you feel good?”
-「心配しなくても、ちゃんと気持ちよかったよ」=“You don't have to worry, it felt good.”
-「本当？　良かった……。これからもっと君を気持ちよくするために、頑張るわね」=“Really? I'm glad... Then I'll do my best to make you feel even better from now on.”
+﻿「ねぇ……私、ちゃんと君を気持ちよくさせられてた？」=Hey... was I able to make you feel good?
+「心配しなくても、ちゃんと気持ちよかったよ」=You don't have to worry, it felt good for me too.
+「本当？　良かった……。これからもっと君を気持ちよくするために、頑張るわね」=Really? I'm glad... I'll work hard, so that I can make you feel even better next time, okay?
