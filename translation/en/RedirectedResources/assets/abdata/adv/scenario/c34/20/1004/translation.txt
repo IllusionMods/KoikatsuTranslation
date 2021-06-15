@@ -1,14 +1,14 @@
-//「お疲れ様でした。ふふっ、素敵な式でしたよ」=
-//「本番の結婚式も、是非、私どもの式場で挙げてくださいね！」=
-//「ま、まだまだ先の話になりそうですけど、ここで結婚式を挙げられるように頑張ります……！」=
-//「お願いします！　今日はお引き受けいただいて、ありがとうございました」=
-//「[H名]。すごかった……俺、感動しちゃったよ」=
-//「ワタシも♡　まだ胸がドキドキしてるヨ♡　結婚って、トッテモｈａｐｐｙダネ♡　ア、ン～、ｈａｐｐｙの入り口、カナ？」=
-//「そうだね。きっと俺たちが知らないような大変なことがいっぱいあるんだろうけど、結婚は幸せの入り口だよね」=
-//「……エット……モシ……ｉｆの話ダケド、本当にワタシたち、結婚するコトになったラ、どんな夫婦になるのカナ」=
-//「うーん。どんな、か……どんなと言われると、まだわからないから、難しいけど……」=
-//「たぶん、その頃の[H名]は、日本語を流暢に喋れるようになってるんだと思うよ」=
-//「Ｗｏｗ♡　ソレって素敵♡　今日、頑張ってアナタに想い伝えたケド、全然伝えられなかったカラ、次は完璧なニッポン語で、想い、伝えるネ♡」=
-//「うん、楽しみにしてるよ。その日を迎えられるように、二人で頑張らなくっちゃね」=
+﻿「お疲れ様でした。ふふっ、素敵な式でしたよ」=Good work today. Fufu~ It was a lovely ceremony.
+「本番の結婚式も、是非、私どもの式場で挙げてくださいね！」=For your actual wedding as well, please, do call upon us!
+「ま、まだまだ先の話になりそうですけど、ここで結婚式を挙げられるように頑張ります……！」=T-That's still a long ways ahead from now but, we'll work hard so that we can have a wedding here...!
+「お願いします！　今日はお引き受けいただいて、ありがとうございました」=Thank you! And for helping us out so much today as well, thank you very much!
+「[H名]。すごかった……俺、感動しちゃったよ」=[H名]. You were amazing... I was really moved.
+「ワタシも♡　まだ胸がドキドキしてるヨ♡　結婚って、トッテモｈａｐｐｙダネ♡　ア、ン～、ｈａｐｐｙの入り口、カナ？」=Me too♡ My chest is still racing♡ Marriage is a really happy thing, isn't it?♡ Ah, nn~, rather, the door to happiness?
+「そうだね。きっと俺たちが知らないような大変なことがいっぱいあるんだろうけど、結婚は幸せの入り口だよね」=Indeed. I'm sure there's lots of pain-in-the-ass stuff that we don't know about but, marriage is the gateway to happiness.
+「……エット……モシ……ｉｆの話ダケド、本当にワタシたち、結婚するコトになったラ、どんな夫婦になるのカナ」=...Erm... If... Just as an "if", if we really did end up getting married, what sort of a couple would we be?
+「うーん。どんな、か……どんなと言われると、まだわからないから、難しいけど……」=Mmmmm. What sort, huh... I don't exactly know yet, so it's a hard question but...
+「たぶん、その頃の[H名]は、日本語を流暢に喋れるようになってるんだと思うよ」=I think by that time, you'd probably be able to talk fluently in Japanese.
+「Ｗｏｗ♡　ソレって素敵♡　今日、頑張ってアナタに想い伝えたケド、全然伝えられなかったカラ、次は完璧なニッポン語で、想い、伝えるネ♡」=Wow♡ That'd be amazing♡ Today, I tried my best to communicate my feelings to you, but I couldn't at all, so next time I'll do it in perfect Japanese ♡
+「うん、楽しみにしてるよ。その日を迎えられるように、二人で頑張らなくっちゃね」=Yeah, I'm looking forward to it. We both gotta work hard together, in order to make that day come true.
 
 モブ=Mob

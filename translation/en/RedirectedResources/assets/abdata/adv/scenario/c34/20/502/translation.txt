@@ -1,3 +1,3 @@
-//「あ、[H名]！」=
-//「Ｈｉｙａ！　今日のｄａｔｅ、トッテモ楽しみにシテタヨ～♡」=
-//「俺も楽しみだったよ！　[H名]が喜んでくれそうなところに連れていくからね！」=
+﻿「あ、[H名]！」=Ah, [H名]!
+「Ｈｉｙａ！　今日のｄａｔｅ、トッテモ楽しみにシテタヨ～♡」=Hiya! I was super looking forward to today's date, you know~♡
+「俺も楽しみだったよ！　[H名]が喜んでくれそうなところに連れていくからね！」=Me too! I'll take you somewhere that you'll definitely find fun!

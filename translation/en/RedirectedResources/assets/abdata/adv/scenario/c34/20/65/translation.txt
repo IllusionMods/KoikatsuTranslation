@@ -1,3 +1,3 @@
-//「そういえば、どうしてまた日本に帰ってきたの？　あ、まずは海外に行った理由を聞きたいかも」=
-//「ドッチも同じネ♪　Ｍａｍａのオシゴト終わたカラ、ｂａｃｋｈｏｍｅしてきたヨ」=
-//「お母さんのお仕事？　世界を股にかけるお仕事してるなんて、すごいね」=
+﻿「そういえば、どうしてまた日本に帰ってきたの？　あ、まずは海外に行った理由を聞きたいかも」=Come to think of it, why did you come back to Japan? Ah, actually, tell me about why you went abroad first instead.
+「ドッチも同じネ♪　Ｍａｍａのオシゴト終わたカラ、ｂａｃｋｈｏｍｅしてきたヨ」=Both have the same answer♪ Mama finished her work so, we came back home.
+「お母さんのお仕事？　世界を股にかけるお仕事してるなんて、すごいね」=Your mom's work? She has a job that involves travelling the globe, huh? Amazing.

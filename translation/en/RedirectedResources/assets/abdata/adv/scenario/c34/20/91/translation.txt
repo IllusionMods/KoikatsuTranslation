@@ -1,3 +1,3 @@
-//「[Pあだ名]♪　オハヨー！」=
-//「[Hあだ名]！　おはよう！」=
-//「フフフ♡　Ｎｉｃｋｎａｍｅで呼び合ってｓｔａｒｔする朝、トッテモトッテモ幸せダネ♡」=
+﻿「[Pあだ名]♪　オハヨー！」=[Pあだ名]♪ Morning!
+「[Hあだ名]！　おはよう！」=[Hあだ名]! Morning!
+「フフフ♡　Ｎｉｃｋｎａｍｅで呼び合ってｓｔａｒｔする朝、トッテモトッテモ幸せダネ♡」=Fufufu♡ Makes me so happy, to start our day by calling each other by nicknames♡
