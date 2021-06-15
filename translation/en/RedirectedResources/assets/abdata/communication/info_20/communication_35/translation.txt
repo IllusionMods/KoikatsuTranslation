@@ -67,7 +67,7 @@
 「優しい男性とかどうかな？」=What do you think of kind and gentle guys?
 「うん、いいと思うよ。やっぱり何よりも優しさが一番よ」=I think they're nice. In my books, kindness is everything.
 「悪くないと思うけど……優しい人って大体優柔不断なんよね……それが苦手かも……」=I don't think they're bad but... those sorts of people are mostly just shilly-shally, don't you think?... they're not for me...
-「クールな男性とかどうかな？」="What do you think of the cool sorts of guys?"""
+「クールな男性とかどうかな？」=What do you think of the cool sorts of guys?
 「ばり格好いいよね。そういう人、憧れるなぁ」=They're super cool. Man, I really like those sorts of guys.
 「クールな人って無口やけん嫌いかも」=They don't really talk with their words so I kinda hate them.
 「あのさ、エッチなことって……前住んでたところの方が進んでた？」=Hey, I've got a question, lewd stuff... did people do it more often where you used to live?
@@ -199,7 +199,7 @@
 「憧れの結婚式とかある？」=Is there a specific type of marriage ceremony you long for?
 「あるよ～、女の子の憧れやもん！　でも、ドレスも白無垢も素敵やけん決められないっちゃね」=There is~, every girl has one! But, both a wedding dress and a white kimono sound great, I can't really decide between them.
 「特にないかなぁ……相手の人に任せるよ」=Not really... I'd leave it up to my partner.
-「憧れのデートってある？」="Do you have an ideal date in mind?"""
+「憧れのデートってある？」=Do you have an ideal date in mind?
 「う、うん。好きな人と一日中一緒に過ごすこと。ありきたりって言うのは禁止やけんね？」=Y-Yeah. Just spending the whole day with the person I love. So you know, you're forbidden from saying that it's too ordinary, okay?
 「うーん、自分がデートしてる姿自体、想像できんけん……ないかも」=Well, I can't even imagine myself going out on a date so... probably not?
 「告白は男子からするべきだと思う？」=Do you think guys should be the ones to confess?
@@ -386,7 +386,7 @@
 「……恋、やと思う。好きな人と一緒なら普通の一日もばり楽しいけん！」=...I think it's love. Even an ordinary day becomes so fun when you spend it with your lover!
 「学園祭とかの行事かな？　二人で楽しく周ろーね、約束よ！」=I guess something like a school festival? Let's go around together when our school has one, it's a promise!
 「寝る時って何か考え事とかするタイプ？」=Are you the type to think over stuff when in bed?
-「もう……それ、君のこと考えながら寝ようよ、って言って欲しいっちゃろ？　もちろんそうやけど！」="Jeez... I always think of you when I'm trying to sleep, that's what you want to hear, right? Of course, not that I don't do that! """
+「もう……それ、君のこと考えながら寝ようよ、って言って欲しいっちゃろ？　もちろんそうやけど！」=Jeez... I always think of you when I'm trying to sleep, that's what you want to hear, right? Of course, not that I don't do that!
 「私、横になったらすぐ寝落ちするタイプなんよ。健康的やろ？」=I'm the type to fall asleep as soon as I lie down on my side. Pretty healthy, no?
 「なにか変な癖とかある？」=Do you have any weird habits of any sort?
 「う……あ、あるよ。気付いたらいつも自分でほっぺた触っとるっちゃん……や、柔らかくて……うぅ……」=Uu... I-I do. Before I realize it, I'm always touching my own cheeks... T-They're just so soft... Uuu...
@@ -423,7 +423,7 @@
 「どうやろ？　くすぐったいの苦手やし……結構敏感なんかな？」=Who knows? I can't handle being tickled... I guess I'm pretty sensitive?
 「もぅー！　そんなん分からんってばー。だって人と比べる機会とかないやん！」=Jeez! I don't know about that sort of stuff. It's not like I have anyone to compare myself to!
 「激しいエッチとか好き？」=Do you like it rough?
-「うぅ……多分よ？　多分やけどっ！　優しいのも激しいのも……どっちも好き……なんやない？」="Uuu... probably? It's a probably at best, okay--?! I'm pretty sure... I like it either way... both gentle and rough..."""
+「うぅ……多分よ？　多分やけどっ！　優しいのも激しいのも……どっちも好き……なんやない？」=Uuu... probably? It's a probably at best, okay--?! I'm pretty sure... I like it either way... both gentle and rough...
 「は、激しすぎるのってどうなんやろ……優しくしっとり……みたいなのがいいかなぁ。……って、この話、恥ずいって！」=I-I don't know about too much roughness... Soft and gentle... is good I think. ...--wuh, this topic, it's really embarrassing!
 「男の子って本当にそういう話好きなんやね。でも今はダメ」=Boys really do love talking about that sort of stuff, don't they? But we can't right now.
 「女の子ってさ、エッチすればするほど、開放的になっていくらしいよ」=Seems like girls tend to get more sexually open, the more they have sex.
@@ -469,7 +469,7 @@
 「もう見たらいかんって。ばり恥ずかしいもん」=Don't look at me anymore, it's really embarrassing.
 「ふふっ、そんなに私の胸が気になるん？　まぁ、男の子にはないものやもんね」=Fufu--, are you that curious about my chest? Well, I guess that's to be expected, boys don't have any afterall.
 「ちょっと見過ぎやない？　あっ、ううん、別に嫌なわけじゃないとよ？」=Aren't you staring too much? Ah--, no, not to say I hate it, okay?
-「君、もしかして私におっぱいって言わせたいだけやろ？　言っちゃーけん、これ以上見たらいかんよ？　はい、おっぱい♪　おっぱい♪」="You just want me to say Boobs, don't you? I'll say it, so don't look at them so much, okay? Here, Boobs♪ Boobs♪"""
+「君、もしかして私におっぱいって言わせたいだけやろ？　言っちゃーけん、これ以上見たらいかんよ？　はい、おっぱい♪　おっぱい♪」=You just want me to say "Boobs", don't you? I'll say it, so don't look at them so much, okay? Here, Boobs♪ Boobs♪
 「もう……彼女が拗ねとるのくらい分かるやろ？」=Jeez... you should be able to tell when your girlfriend is sulking, no?
 「あんっ……もー、急に握るけん、変な声出たやん」=Ahn--... jeez, you grabbed at it so suddenly, you made me make such a weird sound.
 「にぎにぎされるの嫌いじゃないっちゃけど……実はめっちゃ緊張するんよ？」=I don't hate it when you grab at me like this but... It's actually really nerveracking, you know?
@@ -498,7 +498,7 @@
 「はーい、またね」=Yes, bye~
 「うん……分かった……ううん、私がこんなんやけん、無理なんやろ？　大丈夫、分かっとーつもりやけん……」=Yeah... got it... no, I'm like this after all, so it's impossible, no? It's alright, I understand...
 「あのね、色々考えたっちゃけど……私たち、別れた方がいいっちゃないかな。多分、もう無理やけん……」=Hey, I thought about it a bunch and... wouldn't it be better if we broke up? I don't think it's possible, between us anymore...
-「もー、君って本当にはっきり言うんやね。でも……うん、いいよ。本当はね……私もしたいっちゃん」="Jeez, you really don't do the whole subtlety thing, do you? But... yeah, alright. The truth is... I want to do it too. """
+「もー、君って本当にはっきり言うんやね。でも……うん、いいよ。本当はね……私もしたいっちゃん」=Jeez, you really don't do the whole "subtlety" thing, do you? But... yeah, alright. The truth is... I want to do it too.
 「えっとー……そのー……も、もし良かったら……エッチ……せん？」=Erhm... uhm... I-If you like... wanna... have sex?
 「はぁぁ、良かったぁ……自分から言うのって、なんかやらしい感じやし……めっちゃ緊張したっちゃん！」=Haaa, I'm so glad... asking for it myself, feels kinda dirty... I was super nervous!
 「えぇっ、ダメなん！？　あっ、い、いやっ、別にっ……そこまでしたいわけじゃないけん、いいけどっ！」=Eeh--! We can't?! Ah--, n-no--, it's not like--... I want to do it that badly, so it's fine--!
