@@ -33,7 +33,7 @@
 //OPTION[8]:そうだと思う=
 そうだと思う=I think so.
 //OPTION[8]:もしもなんてない=
-もしもなんてない="There are no ifs" in life.""
+もしもなんてない=There are no "ifs" in life.
 //OPTION[9]:男は黙ってＢｌａｃｋ=
 男は黙ってＢｌａｃｋ=I'll honestly admit I drink black.
 //OPTION[9]:Ｍｉｌｋは入れたいな=

@@ -7,7 +7,7 @@
 「別のスタッフがお支度部屋までご案内しますので、少々お待ちください」=There is other staff coming that will guide you to the changing rooms and help you get into the clothes, so please wait here for a bit.
 「お召し替えだって。ついにウェディングドレス姿の[H名]が見られるんだね」=Changing clothes, she said. Finally I'll get to see you in a wedding dress, [H名], huh?
 「アナタのｔｕｘｅｄｏモネ♡　……ハゥ～、ナンダカ、ドキドキしてキタ……♡　ワタシたち、ｍｏｄｅｌサンダケド、結婚するのカナ？」=And for me, you in a tuxedo♡... Fuu~, I'm getting kinda excited... ♡ We're just modeling but, are we going to get married?
-「模擬挙式っていうぐらいだから、するよね。[H名]は俺が結婚相手でいいの？」="Well she did say it'd be a ceremony", so we probably will. Are you fine with having me as your marriage partner, [H名]?""
+「模擬挙式っていうぐらいだから、するよね。[H名]は俺が結婚相手でいいの？」=Well she did say it'd be a "ceremony", so we probably will. Are you fine with having me as your marriage partner, [H名]?
 「ＫＯＩ－ＫＡＴＳＵ部の部長サンが、ソンナコト聞いていいのカナ？　どんなａｎｓｗｅｒが帰ってきても、ビックリしない？　フフ♡」=Are you sure you should be asking that, as the president of the Koikatsu-club? No matter what sort of answer you get, won't you get taken aback? Fufu♡
 （[H名]と結婚か……そもそも結婚自体、俺には遠い未来の出来事だけど……でも、学生の頃から付き合ってる[H名]と結婚できるのは、いいんじゃないかな）=(Marrying [H名], huh... In the first place, the mere idea of marrying anyone is in the distant future... But, getting married to [H名], who I've been going out with since highschool, wouldn't be such a bad idea.)
 「……うん、ビックリしないよ」=...Yeah, I won't get taken aback.
