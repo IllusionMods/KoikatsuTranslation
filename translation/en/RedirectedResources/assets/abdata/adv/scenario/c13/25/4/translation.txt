@@ -1,5 +1,5 @@
-「いいよ！　今日の数学マジヤバくてさ～。復習しなきゃと思ってたんだ～」=“Sure! Today's math day, and I totally suck at it～ I think it'd be good to review it～”
-「アタシも一緒に勉強してくれる人さがしてたんだよね～。いっしょにしよっか」=“I was also looking for someone to study with, y'know～ So you wanna do it together?”
-「それはちょうど良かった」=“I'd like that quite a bit.”
-「わかんないところあったら教えてね？」=“You'll teach me stuff I don't know, right?”
-「もちろん！　それじゃあ早速取り掛かろうか」=“Of course! Well then, shall we begin right away?”
+﻿「いいよ！　今日の数学マジヤバくてさ～。復習しなきゃと思ってたんだ～」=Sure! Math class today was super rough~. I was just thinking that I needed to get some studying in~
+「アタシも一緒に勉強してくれる人さがしてたんだよね～。いっしょにしよっか」=I was looking for someone to study with too~. Let's do it together.
+「それはちょうど良かった」=That works out perfectly then.
+「わかんないところあったら教えてね？」=If there's any parts I don't understand, teach me, okay?
+「もちろん！　それじゃあ早速取り掛かろうか」=Of course! Well then, let's get started right away.

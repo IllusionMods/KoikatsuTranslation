@@ -1,6 +1,5 @@
-
-「ふぅ～、さすがにちょっと疲れたなぁ……」=“Phew～ I knew that'd wear me out a little......”
-「へぇ～。すごい、全部あってるじゃん」=“Huh～ Amazing, you're the only one in the club?”
-「いや、今日はたまたま、なんか調子よくて」=“Nah, today I'm just a little strained, that's all.”
-「これなら将来も安泰じゃん。そしたらアタシも面倒見てもらおっかな～……なんてね」=“Then from now on, take it easy. Unless you want me taking care of you～ ......Just kidding!”
-「び、びっくりした～冗談だよね、ははは」=“Y-You scared me～ You're joking, right? Hahaha.”
+﻿「ふぅ～、さすがにちょっと疲れたなぁ……」=Fuu~, that really was quite tiring...
+「へぇ～。すごい、全部あってるじゃん」=Heh~. Amazing, they're all correct.
+「いや、今日はたまたま、なんか調子よくて」=No, that was just luck, I feel pretty good today.
+「これなら将来も安泰じゃん。そしたらアタシも面倒見てもらおっかな～……なんてね」=If it's like this, your future looks pretty solid too. Maybe I'll hitch a ride next to you myself~... kidding.
+「び、びっくりした～冗談だよね、ははは」=T-That really caught me off guard~, nice joke, hahaha.

@@ -1,1 +1,1 @@
-「ありがと～、[P]くん。すっごい嬉しい」=“Thanks a ton, [P]-kun～ I'm seriously happy.”
+﻿「ありがと～、[P]くん。すっごい嬉しい」=Thanks~, [P名]-kun. I'm super happy.

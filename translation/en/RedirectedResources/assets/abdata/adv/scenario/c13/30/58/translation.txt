@@ -1,5 +1,4 @@
-
-「やっほ～。今日楽しみにしてたんだから、ちゃんとエスコートしてよ？」=“Yoo-hoo～ I've been looking forward to today, so escort me around, okay?”
-「任せて」=“Of course.”
-「そのケーキ美味しそうだね。よかったら一口くれない？」=“That cake looks delicious, huh? If you don't mind, can I have a bite?”
-「え～、しょうがないなぁ。じゃあはい、あ～ん。どう美味しい？」=“Well～ Guess it can't be helped, huh. Alright, say ahhh～ How's it taste?”
+﻿「やっほ～。今日楽しみにしてたんだから、ちゃんとエスコートしてよ？」=Heya~. I was really looking to today, so show me a good time, okay?
+「任せて」=Leave it to me.
+「そのケーキ美味しそうだね。よかったら一口くれない？」=That cake looks delicious. Mind if I have a bite?
+「え～、しょうがないなぁ。じゃあはい、あ～ん。どう美味しい？」=Eh~, guess it can't be helped~. Here you go, aaahn. How is it, is it good?
