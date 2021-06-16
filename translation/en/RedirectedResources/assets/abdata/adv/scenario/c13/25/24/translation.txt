@@ -1,2 +1,2 @@
-「あ、いた！　超探したんだけど！　授業で作ったケーキ、あげようと思って」=“Ah, there! I've been super-searching for you! I made a cake in class, while I was thinking about you.”
-「[P]くんのために作ったんだから、ちゃんと食べてよね？　それじゃ、またね」=“Since I made it just for you, [P]-kun, make sure you eat it slowly, 'kay? Well then, seeya later!”
+﻿「あ、いた！　超探したんだけど！　授業で作ったケーキ、あげようと思って」=Ah, there you are! I've been looking up and down for you! I thought I'd give you this cake that I baked in class.
+「[P]くんのために作ったんだから、ちゃんと食べてよね？　それじゃ、またね」=I made it for you, so eat it all, okay? Well then, see ya.

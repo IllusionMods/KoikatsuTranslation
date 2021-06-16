@@ -1,3 +1,3 @@
-「[P]くんとアタシでデート？　それすっごい楽しそうじゃん！」=“Going on a date with [P]-kun? That'd make me super happy!”
-「よし、それじゃあ決まりだね」=“Alright, then that settles it, right?”
-「うん。[P]くん、た～くさんいいコトしようね？」=“Yup. [P]-kun, let's have a good time, 'kay?”
+﻿「[P]くんとアタシでデート？　それすっごい楽しそうじゃん！」=You and me, on a date? That sounds super fun!
+「よし、それじゃあ決まりだね」=Alright, that's settled then.
+「うん。[P]くん、た～くさんいいコトしようね？」=Yeah. [P]-kun, let's have a ton of fun, okay?

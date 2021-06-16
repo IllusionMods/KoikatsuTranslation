@@ -1,2 +1,1 @@
-
-「あっ、おはよ～」=“Ahh, good morning～”
+﻿「あっ、おはよ～」=Ah--, mornin'~

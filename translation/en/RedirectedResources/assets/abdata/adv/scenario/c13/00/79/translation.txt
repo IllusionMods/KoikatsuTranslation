@@ -1,3 +1,3 @@
-「二人で食べるといつもの倍くらい美味しい気がするよね～」=“Lunch always seems twice as delicious when it's the two of us, huh～”
-「確かに。きみと一緒だとすごく美味しい」=“Definitely. It's really delicious when together with you.”
-「あは、嬉しいこと言ってくれるじゃん」=“Aha, I'm happy to hear you say that!”
+﻿「二人で食べるといつもの倍くらい美味しい気がするよね～」=When we eat together, food tastes twice as good as usual, doesn't it~
+「確かに。きみと一緒だとすごく美味しい」=For sure. When I eat with you, food tastes great.
+「あは、嬉しいこと言ってくれるじゃん」=Aha, you know just how to make a girl happy.

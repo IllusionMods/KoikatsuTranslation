@@ -1,4 +1,3 @@
-
-「うん。でも[P]くん、アタシをどこに連れていくつもりなの？」=“Sure. But [P]-kun, where you gonna take me, and why?”
-「うーん。それは到着するまでのお楽しみってことで」=“Can't tell you― But you'll like it quite a bit when we get there.”
-「[P]くんがそういうなら……あ、でもいやらしい所はダメだからね！」=“Well if you put it like that, [P]-kun...... Ah, it'd better not be somewhere dirty, got it!?”
+﻿「うん。でも[P]くん、アタシをどこに連れていくつもりなの？」=Yeah. But [P名]-kun, where do you plan on taking me?
+「うーん。それは到着するまでのお楽しみってことで」=Mmm. You'll just have to wait until we get there to find out.
+「[P]くんがそういうなら……あ、でもいやらしい所はダメだからね！」=If you say so... ah, but you can't take me to any lewd places, got it?!

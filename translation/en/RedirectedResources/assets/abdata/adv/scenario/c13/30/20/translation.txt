@@ -1,2 +1,1 @@
-
-「あ、[P]くん！　朝から会えるなんてマジヤバいね～」=“Ah, [P]-kun! It's totally awesome that I ran into you, huh～”
+﻿「あ、[P]くん！　朝から会えるなんてマジヤバいね～」=Ah, [P]-kun! It's super awesome that we got to see each other right in the morning, isn't it~?

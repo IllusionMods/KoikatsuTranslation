@@ -1,5 +1,5 @@
-「ん？ なんか人だかりができてるな……なんだろ？」=“Hm? Seems there's a crowd up ahead...... what's with that?”
-「あ！ あれこないだできたばっかのクレープ屋じゃん！」=“Ah! They've come all this way to visit the crepe shop!”
-「そうなのか、じゃあせっかくだし寄ってくか」=“That's why? Then do you want to wait in line?”
-「賛成！ あ、それなら……食べさせ合おっか？」=“Totally! Ah, in that case..... wanna join me?”
-「っつ！！ お、お願いします！！！」=“...!! O-Of course I'd like to!!!”
+﻿「ん？ なんか人だかりができてるな……なんだろ？」=Nn? There's a crowd up ahead... I wonder what's up?
+「あ！ あれこないだできたばっかのクレープ屋じゃん！」=Ah! That's the crepe place that opened just a few days ago!
+「そうなのか、じゃあせっかくだし寄ってくか」=That so? Well then, since we're here anyway, we might as well go take a look.
+「賛成！ あ、それなら……食べさせ合おっか？」=Defo! Ah, in that case... wanna feed each other?
+「っつ！！ お、お願いします！！！」=---!! Y-Yes please!!!
