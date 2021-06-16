@@ -1,4 +1,3 @@
-
-「あ、おはよう、[Pあだ名]♪」=Ah, good morning, [Pあだ名]. ♪
-「あ……お、おはよう、[Hあだ名]」=Ah... G-good morning, [Hあだ名].
-「慣れない感じがまたイイわね～♪　これからいっぱい練習しましょ」=Not getting used to it also nice~ ♪ Let's practice a lot from now on.
+﻿「あ、おはよう、[Pあだ名]♪」=Ah, morning, [Pあだ名]♪
+「あ……お、おはよう、[Hあだ名]」=Ah... m-morning, [Hあだ名].
+「慣れない感じがまたイイわね～♪　これからいっぱい練習しましょ」=The way it still feels a bit awkward is so nice~♪ Let's practice lots more in the future.

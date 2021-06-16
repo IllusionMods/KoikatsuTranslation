@@ -1,11 +1,11 @@
-………………=.........
+﻿………………=.........
 …………=......
 ……=...
-「楽しい時間はあっという間ね……」=“Having fun really makes the time fly...”
-「……よかったら、この後、ウチに寄ってく？　やましいこと考えてるとかは全然ないから」=“...If you don't mind, in a little bit, want to come over to my place? I don't really have anything else to do.”
-「ふふっ……やましいこと考えてたって、行くわ。まだ君と離れたくないんだもの」=“Fufu... I can think of doing something, I'll go. I don't want to be seperated from you just yet.”
-「そうだね……名残惜しいけど、ばいばい」=“That's right... It's regrettable but, bye-bye.”
-「別れ際ってこんなにも寂しかったのね……。さよなら……」=“I never knew going our seperate ways would be so lonely... Goodbye...”
+「楽しい時間はあっという間ね……」=Time flies when you're having fun, doesn't it...
+「……よかったら、この後、ウチに寄ってく？　やましいこと考えてるとかは全然ないから」=...If you'd like, wanna come to my place? Don't worry, I won't do weird stuff to you.
+「ふふっ……やましいこと考えてたって、行くわ。まだ君と離れたくないんだもの」=Fufu--... Even if you wanted to, I'd still go with you. I don't want to part with you just yet.
+「そうだね……名残惜しいけど、ばいばい」=It sure does... It's sad but, we'll have to say bye-bye here.
+「別れ際ってこんなにも寂しかったのね……。さよなら……」=It feels this lonely to part, huh... Goodbye...
 
-CHOICE:「……よかったら、ウチに寄ってく？」="If you'd like, want to come over?"
-CHOICE:「そうだね……ばいばい」="That's right... Bye-bye."
+CHOICE:「……よかったら、ウチに寄ってく？」=...If you'd like, wanna come to my place?
+CHOICE:「そうだね……ばいばい」=It sure does... Bye-bye.
