@@ -1,4 +1,4 @@
-﻿//OPTION[0]:はい=
+//OPTION[0]:はい=
 はい=Yes.
 //OPTION[0]:いいえ=
 いいえ=No.
@@ -72,14 +72,14 @@
 //OPTION[17]:ある=
 //OPTION[17]:ない=
 //OPTION[100]:いいよ=
-//いいよ=
+いいよ=It's fine.
 //OPTION[100]:……ごめん=
-//……ごめん=
+……ごめん=...I'm sorry.
 //OPTION[101]:いいよ=
 //OPTION[101]:……ごめん=
 //OPTION[102]:いいよ=
-//OPTION[102]:ごめん=
-//ごめん=
+OPTION[102]:ごめん=I'm sorry.
+ごめん=...I'm sorry.
 //OPTION[103]:いいよ=
 //OPTION[103]:ごめん=
 //OPTION[104]:いいよ=
