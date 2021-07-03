@@ -1,4 +1,4 @@
-﻿//OPTION[0]:はい=
+//OPTION[0]:はい=
 はい=Yes.
 //OPTION[0]:いいえ=
 いいえ=No.

@@ -1,11 +1,11 @@
 ﻿「さて、と。次はどこに行こうか」=Now then. Where do you wanna go next?
 「そうだな～……ん？　なんだかい～い匂いが……？」=Good question~... Hm? I feel like I can smell something real~ nice...?
 「あっ、こんなところに屋台があったのか。……おお、ホットドッグだ！」=Ah--, I didn't know they had food stalls here. ...Ooh, they've got hot dogs!
-「……な、なあ、今、聞こえたか？」=...H-Hey, did you hear that just now?
+「……な、なあ、今、聞こえたか？」=......H-Hey, did you hear that just now?
 「ばっちりとね」=Loud and clear.
 「ぬわーん！　だ、だってそろそろ昼飯の時間だろ？　こんないい匂いがしてきたら、そりゃ腹も減るだろ？」=But--! I-I mean, it's almost lunch time, no? Just about anyone's gonna have their stomach growl when they smell something this good so close to lunch.
 「そんな必死になって弁解しなくても……。俺も腹減ったし、お昼にしようか」=You don't need to justify it so frantically... I'm pretty hungry myself anyway, so let's just have lunch here.
-………………=...
+………………=.........
 「うーん、ホットドッグっていっても、結構種類があるんだなー」=Hmmm, even amongst hot dogs, there's all sorts, huh?
 「私、これ食べてみたい」=I wanna try this.
 「ん？　『辛すぎてごめんねっ！！　激辛チリソースホットドッグ』だって？」=Hm? 『Sorry if it's too spicy--!!　Super Spicy Chilly Sauce Hot Dog』
@@ -19,7 +19,7 @@
 「え、なんで平然と食べてるの？　俺、唇が焼けただれそうなんだけど……」=Eh, how are you eating it so calmly? I feel like my lips are gonna burn off...
 「こんなん売っちゃいけないレベルだよ！　『ごめんねっ』なんて軽い謝罪で許される問題じゃ無いぞ！」=This isn't something you can sell! It's not something you can gloss over with a light『Sorry』!
 「大げさだなぁ[P名]は。こんなもん普通だろ。……私もう一個食べようかな」=You're making too big a deal out of it, [P名]. This much is normal, no? ...Maybe I'll go for another one.
-「……なるほど、こういう人間がいるから売ってるわけか……うまいことできてるんだな……」=...I see, I guess that's why they're selling it, because people like you exist... Guess they've got some chops alright...
+「……なるほど、こういう人間がいるから売ってるわけか……うまいことできてるんだな……」=......I see, I guess that's why they're selling it, because people like you exist... Guess they've got some chops alright...
 「私、この普通のホットドッグにするよ。シンプルこそ至高ってな」=I'll go with this normal one here. Simple is best, afterall.
 「いいね、ノッた。俺も同じやつにしよう」=Sounds good, I'll go with the same one.
 「……お、きたきた。そこのベンチで座って食べようか」=...Oh, it's here. Wanna go sit at that bench and eat it?

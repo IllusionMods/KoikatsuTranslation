@@ -44,7 +44,7 @@
 「そりゃ～やっぱ、バラの花束に綺麗な夕日は、基本だろうな～」=Well, the basics of the basics would be to set up a scene with a boquet of roses and a beautiful sunset for a backdrop~
 「き、気持ちだよ！　やっぱ純粋な心が一番だ。うん」=T-The feelings are what's important! The most important thing is to have a pure heart. Yeah.
 「どういうタイプの男が好きなの？」=What sort of type of guys do you like?
-「そうだなぁ……どちらかというとクールな方が好みかな？」="Good question... If I had to say, I'd say the cool sort, I guess?"""
+「そうだなぁ……どちらかというとクールな方が好みかな？」=Good question... If I had to say, I'd say the "cool" sort, I guess?
 「ん～わりぃ、考えたことないから分かんないわ」=Nn, sorry, I've never really thought about it so I don't really know.
 「お前な！　いきなりそんな質問するんじゃない……もう」=Dude! Don't go asking girls those sorts of questions out of nowhere... jeez.
 「この学園の生徒は、恋愛について興味が強い方なのかな？」=Would you say that the students of this school are particularly interested in romance and the like?
@@ -196,7 +196,7 @@
 「あー……違う話題にしようぜ！」=Aah... Let's talk about something else!
 「まあ、詳しいことは知らないんだけどな～」=Well, not that I know the concrete details~
 「そうか～　それちょっと面白いな」=I see~, that's pretty interesting.
-「理想の恋愛ってある？」="Do you have an ideal in terms of romance?"""
+「理想の恋愛ってある？」=Do you have an "ideal" in terms of romance?
 「もちろん、両想いのラブラブだ！　……わ、悪いかよ？」=Of course, requited love! ...W-What, got a problem?
 「贅沢は言わないな～。相手を幸せにしたいね」=Nothing too fancy~. I'd just want to make my boyfriend happy.
 「どんな告白されたら、嬉しい？」=What sort of a confession would make you happy?
@@ -206,7 +206,7 @@
 「そうだな……昔やってた、部活内での恋愛ドラマとか好きだったぞ」=Hmm, let me think... I really liked the sort of highschool club member romance dramas that they used to air back in the day.
 「んー。恋愛がメインになってるドラマはないな」=Nnn. I don't really watch dramas where the romance is the main focus, to tell you the truth.
 「デートするなら、どんな場所がいい？」=If someone were to take you on a date, where would you like to go?
-「お約束のデートコースって言うのかな……憧れるよ」="Any place you'd go to for a typical date... I love that sort of thing."""
+「お約束のデートコースって言うのかな……憧れるよ」=Any place you'd go to for a "typical" date... I love that sort of thing.
 「場所よりも、雰囲気なんじゃないかなぁ……」=I think the mood is more important, rather than the place itself...
 「……小っ恥ずかしいからさ、別の話にしようぜ」=...It's a bit embarrassing, so let's talk about something else.
 「この間、読んだ漫画なんだけど……」=I read this in a manga the other day...
@@ -246,7 +246,7 @@
 「そっか！　それなら安心……いや、私もそう思う！」=I see! That's a relief... No, I feel the same way as you!
 「そうそう、服選ぶのとかも楽なんだぜ？」=Exactly, it's easy to pick out clothes too, you know?
 「わ、私さぁ、ずっと身長伸びてないんだ～。こまったこまった」=Y-You know, I haven't gotten any taller in years~. Whatever shall I do~
-「理想的な女子の体型ってあるのか？」="Do you have an ideal body figure, when it comes to girls?"""
+「理想的な女子の体型ってあるのか？」=Do you have an "ideal" body figure, when it comes to girls?
 「だよな？　海外じゃその方が人気だって言うしな～」=I know, right? Seems like a lot of guys like it like that too, in the west~
 「ほう、そうか～。んじゃ、現状維持だな、ははっ」=Hoh, I see~. Well then, guess I gotta maintain my current figure, haha--
 「そうかそうか。そう言えば私、いくら食べても太らないんだよ。体質かね～」=I see, I see. Come to think of it, no matter how much I stuff myself, I never put on any weight. I wonder if that's just how I'm built~
@@ -268,7 +268,7 @@
 「そこらのクッションみたいに、気軽にさわるな！」=Don't fondle them like they're just decorative cushions!
 「……私が女子ってこと、忘れてないよな？」=...You're not forgetting that I'm a girl, right?
 「ちょっ、お前は私のお父さんかっての……」=Hey--, you're not my dad...
-「頭がよくなりますよーに……なわけないだろ！」="Hopefully I'll become more intelligent from this... like hell!"""
+「頭がよくなりますよーに……なわけないだろ！」="Hopefully I'll become more intelligent from this"... like hell!
 「あーもう！　お前ってやつは何がしたいんだ？」=Ahh, jeez! Just what are you trying here?
 「き、急になにすんだよ……」=W-What's gotten into you...
 「こらこら。女子の顔は気軽にさわるもんじゃないぜ？」=Hey, come on. You shouldn't be going around touching girls' faces so casually, you know?
@@ -287,7 +287,7 @@
 「わりぃ、つい話し込んじゃったな！　でも楽しかったぜ！」=Sorry, we really got into it there for a moment, didn't we! But it was fun!
 「ん？　いいのか？　んじゃあな」=Hm? You sure? Well then, see ya.
 「あのさ、俺と付き合ってくれないか？」=Hey, won't you go out with me?
-「そ、そう言うのってまだ早いんじゃないか？……。悪いな……」=I-Isn't that still too fast for us? ... Sorry...
+「そ、そう言うのってまだ早いんじゃないか？……。悪いな……」=I-Isn't that still too fast for us? ...... Sorry...
 「やっぱり、きみのことが好きなんだ」=I really do love you.
 「私もそれを言おうと思ってた……いっ、いいぜ？　よろしくな！」=I was just about to say the same thing... S-Sure. I don't mind dating you. Take care of me!
 「どうしても、付き合うってまだ想像つかない。ごめんな」=I really can't see us going out together just yet. Sorry.
@@ -297,7 +297,7 @@
 「しつこいようだけど……私、[P]と付き合いたいんだ！」=I know I'm being real obstinate but... I really wanna go out with you!
 「や、やったぁ！　はぁ～！　いま私、死んでもいいぞぉ！」=Y-Yay! Haa~! If I were to die right now, I'd die happy!
 「だ、だよなあ！　他にイイ女子がいるのに、私なんかじゃ、なぁ……」=O-Of course! When there's already so many good girls here, someone like me is...
-「……俺、二人でHなことしたいんだ」=...I wanna have sex with you.
+「……俺、二人でHなことしたいんだ」=......I wanna have sex with you.
 「な、なーに言ってんだか！　マジな顔しちゃって。ハハ」=W-What the heck are you saying! With such a serious face too. Haha.
 「俺、きみとエッチしたいんだ」=I wanna do it with you.
 「い、いいぞ。私もその、うずうずしてたしな……や、やるか！」=S-Sure. I was feeling, uhm, real itchy to do it too... T-Then let's get to it!
@@ -434,7 +434,7 @@
 「な、なぁ……もっと女の子らしさを出した方がいいのか？」=H-Hey... do you think I should act more girly?
 「そ、そうか。女の子らしさ……口調とか、か？　わからん……」=I-I see. Girliness... like my way of speaking, and stuff? I don't really know...
 「そっか！　そのままでいいか！　ありがとな！」=I see! I'm fine as I am, huh! Thanks!
-「親に似てるとかって言われたことあるか？」="Have people ever told you stuff like You resemble your parents and junk?"""
+「親に似てるとかって言われたことあるか？」=Have people ever told you stuff like "You resemble your parents" and junk?
 「お前もか～。私もよく言われるんだよ。あれ、やめて欲しいよな～」=A fellow comrade, huh~. I get that a lot too. Would be great if people dropped that, you know?~
 「そうだよなぁ、親子だからって、絶対似るってわけでもないよな」=I know, right? Just because we're a parent and child doesn't mean we have to resemble each other.
 「お前は徹夜とかしたことあるのか？」=Have you ever stayed up all night?
@@ -478,7 +478,7 @@
 「ちょっ……私、我慢できなくなるから……」=Hey--... I won't be able to hold myself back, if you keep this up...
 「だから！　発情しちゃうって～の！」=I told you! I'll start getting into the mood!
 「せ、責任とれるのか？　これ以上気持ちよくして……」=C-Can you take responsibility? Huh? If you make me feel any more of this...
-「二ャ～……。クゥ～ン……。どっちが好みだ？」=Nyah~... Kuun~... Which one of those do you like the best?
+「二ャ～……。クゥ～ン……。どっちが好みだ？」=Nyah~...... Kuun~... Which one of those do you like the best?
 「このまま眠っちゃいそうだ……ってそれは困る。やめようぜっ」=I feel like I could just take a nap right here... No, that'd be bad. Let's stop there--.
 「そりゃ私だって、この場で甘えまくりたいさ……でも止められなくなるから、ここまでな！」=Even I want to just get crazy spoiled by you too... but that's a train that won't stop once it gets going, so let's leave it at that!
 「その指、舐めちゃうぞ？　ペロペロって……」=I'll lick that finger of yours, you know? *slurp* and all...
@@ -553,7 +553,7 @@
 「……どうしたの？　[Hあだ名]」=...What's up? [Hあだ名].
 「いや、深い意味はない……愛称で呼びたい気分だったんだ」=No, well, I didn't mean anything by it... I just felt like calling you that.
 「……いいぞ。[Pあだ名]……私を抱いてくれ」=...Sure. [Pあだ名]... embrace me.
-「あのさ、さっきから疼いて仕方ないんだ。……[Pあだ名]……しないか？」=Hey, I've been throbbing so bad down there for a while now, I can't endure it anymore. ...[Pあだ名]... do you feel like it too?
+「あのさ、さっきから疼いて仕方ないんだ。……[Pあだ名]……しないか？」=Hey, I've been throbbing so bad down there for a while now, I can't endure it anymore. ......[Pあだ名]... do you feel like it too?
 「おっす！　暇ならちょっと話そーぜ」=Sup! If you're free, let's chat.
 「おっす！　[Pあだ名]。暇ならちょっと話そーぜ」=Sup, [Pあだ名]! If you're free, let's chat.
 「ちょっ……何でここに来てるんだよっ」=Hey--... Why are you coming in here--.
