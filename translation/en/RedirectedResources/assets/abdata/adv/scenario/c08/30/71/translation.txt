@@ -1,5 +1,4 @@
-
-//「なんでかなぁ。集中できないよ」=
-//「えっ、どうしたの！」=
-//「ドキドキが邪魔して、勉強が頭に入らないの」=
-//「一緒だね。実は俺もそうなんだ」=
+﻿「なんでかなぁ。集中できないよ」=I wonder why it is, I can't concentrate at all.
+「えっ、どうしたの！」=Eh--, what's the matter!
+「ドキドキが邪魔して、勉強が頭に入らないの」=My heart's getting in the way, I can't get the material into my head at all.
+「一緒だね。実は俺もそうなんだ」=We're in the same boat then. I feel the same way.

@@ -1,2 +1,2 @@
-//「んっ、うぅん…………はれ……もしかして、寝てた？」=
-//「何で寝ちゃってたんだろう……うーん、疲れてたのかなぁ。ごめんね、せっかく一緒にいたのに」=
+﻿「んっ、うぅん…………はれ……もしかして、寝てた？」=Nn--, nnnn... huh... was I asleep?
+「何で寝ちゃってたんだろう……うーん、疲れてたのかなぁ。ごめんね、せっかく一緒にいたのに」=Why did I fall asleep... Nnn, was I just that tired? I'm sorry, we finally managed to get some alone time together too.

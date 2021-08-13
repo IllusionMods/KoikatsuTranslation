@@ -1,5 +1,5 @@
-//「さっきから唸ってるけど、どうしたの？」=
-//「……わからないの」=
-//「教えてあげるよ。どこが分からないんだ？」=
-//「えっとねぇ……どこがわからないのか、わからないの」=
-//「…………」=
+﻿「さっきから唸ってるけど、どうしたの？」=You've been growling for a while now, what's up?
+「……わからないの」=...I don't get it.
+「教えてあげるよ。どこが分からないんだ？」=I'll help you. What part don't you get?
+「えっとねぇ……どこがわからないのか、わからないの」=Erhm, you see... I don't get which part I don't get.
+「…………」=...

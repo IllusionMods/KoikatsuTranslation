@@ -1,2 +1,1 @@
-
-//「おはよぉ。良い天気だね」=
+﻿「おはよぉ。良い天気だね」=Mornin'. Such nice weather today.

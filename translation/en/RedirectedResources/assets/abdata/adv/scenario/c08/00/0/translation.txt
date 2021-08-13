@@ -1,7 +1,7 @@
-//「えっと……君、ちょっと話さない？」=
-//「あ、あなた、噂の男の人？」=
-//「う、うん、噂の男。[P名前]って言うんだ」=
-//「初めまして、よろしくね」=
-//「よろしく！　ってどうしたの？　俺の顔に何か付いてる？」=
-//「ん～ん。家族以外で男の人とこんな至近距離で会話したの、初めてだったものだから」=
-//（なんかすごいい観察されてるけど……どんな話をしよう）=
+﻿「えっと……君、ちょっと話さない？」=Erhm... hey, could we chat for a bit?
+「あ、あなた、噂の男の人？」=A-Are you, the boy from the rumours?
+「う、うん、噂の男。[P名前]って言うんだ」=Y-Yeah, that very boy. I go by [P名].
+「初めまして、よろしくね」=Nice to meet you.
+「よろしく！　ってどうしたの？　俺の顔に何か付いてる？」=Same! Erm, something the matter? Is there something on my face?
+「ん～ん。家族以外で男の人とこんな至近距離で会話したの、初めてだったものだから」=Nnnn~. it's just my first time talking to a boy from so up close, atleast one outside of my family.
+（なんかすごいい観察されてるけど……どんな話をしよう）=(She's staring holes through me, I feel like a lab rat... oh well, what should we talk about?)

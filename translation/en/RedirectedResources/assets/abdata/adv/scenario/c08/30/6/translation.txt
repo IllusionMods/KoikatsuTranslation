@@ -1,4 +1,3 @@
-
-//「どこへ行くの？」=
-//「ふたりきりになれるところ。付いてきて」=
-//「うん。でもふたりきりになれるところで、なにをするのかなぁ」=
+﻿「どこへ行くの？」=Where are we going?
+「ふたりきりになれるところ。付いてきて」=A place where we can be by ourselves. Follow me.
+「うん。でもふたりきりになれるところで、なにをするのかなぁ」=Yeah. But, just what sort of thing are we gonna get up to by ourselves anyway~?

@@ -1,4 +1,3 @@
-
-//「うん、いいよ。私、男の人と一緒に帰るの初めてだよ」=
-//「そうなんだ」=
-//「うん。とっても楽しみ！」=
+﻿「うん、いいよ。私、男の人と一緒に帰るの初めてだよ」=Yeah, alright. It's my first time walking home with a boy.
+「そうなんだ」=I see.
+「うん。とっても楽しみ！」=Yeah. I'm really excited!

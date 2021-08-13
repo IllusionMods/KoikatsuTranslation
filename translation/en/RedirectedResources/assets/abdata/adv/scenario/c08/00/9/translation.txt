@@ -1,3 +1,3 @@
-//「デートってなにをするの？」=
-//「仲の良い男女が二人きりで、遊びに行くんだ」=
-//「それってすごく素敵なことだね。デート、行ってみたいなぁ」=
+﻿「デートってなにをするの？」=What exactly do you do on a date?
+「仲の良い男女が二人きりで、遊びに行くんだ」=A boy and a girl that like each other, go out together and have fun.
+「それってすごく素敵なことだね。デート、行ってみたいなぁ」=That does sound wonderful. I wanna try going on a date.

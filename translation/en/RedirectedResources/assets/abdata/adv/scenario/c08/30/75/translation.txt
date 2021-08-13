@@ -1,6 +1,5 @@
-
-//「はぁはぁ……意外と負けず嫌いなんだな」=
-//「ぜぇぜぇ……も、もう一度、勝負なんだよ」=
-//「だ、大丈夫なの？」=
-//「駆けっこ……勝つまでやるんだからね」=
-//（きっとワザと負けても納得しないんだろうな……）=
+﻿「はぁはぁ……意外と負けず嫌いなんだな」=Haahaa... you sure do hate losing, I didn't expect that.
+「ぜぇぜぇ……も、もう一度、勝負なんだよ」=*wheeze*... W-We're doing it, one more time.
+「だ、大丈夫なの？」=A-Are you sure?
+「駆けっこ……勝つまでやるんだからね」=We'll race... until I win.
+（きっとワザと負けても納得しないんだろうな……）=(She'd probably get mad at me if I lost on purpose, wouldn't she...)
