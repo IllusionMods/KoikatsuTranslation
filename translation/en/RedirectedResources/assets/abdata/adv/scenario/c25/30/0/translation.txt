@@ -1,7 +1,6 @@
-
-//「ねぇ、今いいかな？」=
-//「ん～？　私に何か～？」=
-//「暇そうにしてるなって思って。俺は[P名前]って言うんだ」=
-//「そっか～って知ってるけどね。ひとりだけの男子、目立ってるもんね～」=
-//「そ、そうかな……それで何か話でもしたいなって」=
-//「何かって言われても困るんですけど～、簡単な質問ぐらいなら答えるよ～」=
+﻿「ねぇ、今いいかな？」=Hey, is it a good time right now?
+「ん～？　私に何か～？」=Nn~? Need something from me~?
+「暇そうにしてるなって思って。俺は[P名前]って言うんだ」=You just seemed like you were free. I go by [P名前].
+「そっか～って知ってるけどね。ひとりだけの男子、目立ってるもんね～」=I see~, already knew that though. You're the only boy here, you stand out a fair bit~
+「そ、そうかな……それで何か話でもしたいなって」=T-That so?... Anyways, I was just thinking that maybe it'd be nice to have a chat about, well, something.
+「何かって言われても困るんですけど～、簡単な質問ぐらいなら答えるよ～」=I can't exactly come up with 'something' on the spot like that~, but I guess I can answer any questions you might have~

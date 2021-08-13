@@ -1,7 +1,7 @@
-//「えぇ～面倒くさい気がする～」=
-//「お願い！　きみと一緒に部活したいんだ」=
-//「それに、コイカツ部ってぶっちゃけ何するかよく分かってないし～」=
-//「お喋りしたりして、親睦を深めるための部活だよ」=
-//「胡散臭いっす……うぉっと、もしかしてナンパされてる？」=
-//「う～ん、勧誘はしているんだけど」=
-//「はぁ～、入部はするけど、面倒なことはしないからね～」=
+﻿「えぇ～面倒くさい気がする～」=Eeh~, sounds like a pain, that~
+「お願い！　きみと一緒に部活したいんだ」=Please! I want to do club activities with you.
+「それに、コイカツ部ってぶっちゃけ何するかよく分かってないし～」=Not to mention, I don't really get what your "koikatsu" club is about and stuff~
+「お喋りしたりして、親睦を深めるための部活だよ」=It's a club where we'll chat together and deeper our ties and stuff.
+「胡散臭いっす……うぉっと、もしかしてナンパされてる？」=Sounds real fishy... oh, am I being hit on right now?
+「う～ん、勧誘はしているんだけど」=Mmm, at the very least, I'm trying to get you to join my club.
+「はぁ～、入部はするけど、面倒なことはしないからね～」=Haa~, I'll join but, don't expect me to do much, alright?~

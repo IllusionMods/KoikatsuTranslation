@@ -1,6 +1,5 @@
-
-//「へえ、色々あるんだね」=
-//「もうフラフラするの疲れた～。どっか座ってお茶しよ～？」=
-//「うん、いいよ」=
-//「ふぅ、まあたまにはこういうのもいいか～」=
-//（よかった、喜んでもらえたみたいだ）=
+﻿「へえ、色々あるんだね」=Heh, they've got all kinds of variety here.
+「もうフラフラするの疲れた～。どっか座ってお茶しよ～？」=I'm tired of all this walking~. Wanna relax somewhere and have some tea~?
+「うん、いいよ」=Yeah, alright.
+「ふぅ、まあたまにはこういうのもいいか～」=Fuu, this sort of thing isn't bad every once in a while~
+（よかった、喜んでもらえたみたいだ）=(I'm glad, looks like she enjoyed it.)

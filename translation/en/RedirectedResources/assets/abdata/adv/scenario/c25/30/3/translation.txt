@@ -1,4 +1,3 @@
-
-//「……まあ、帰るだけならいいよ～」=
-//「どこか寄りたいとことかある？」=
-//「そういうのは面倒だから～」=
+﻿「……まあ、帰るだけならいいよ～」=...Well, if it's just walking, then sure~
+「どこか寄りたいとことかある？」=Any place you wanna stop by on the way?
+「そういうのは面倒だから～」=That sort of thing's a pain~

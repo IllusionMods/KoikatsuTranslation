@@ -1,4 +1,3 @@
-
-//「おはよ～、[P]。いつも元気そうだね～」=
-//「おはよう[H]。そっちはいつも眠そうだね」=
-//「朝は眠いのが標準的な人間というものだ～」=
+﻿「おはよ～、[P]。いつも元気そうだね～」=Mornin~, [P]. You're always so full of energy~
+「おはよう[H]。そっちはいつも眠そうだね」=Morning, [H]. And you always look half asleep.
+「朝は眠いのが標準的な人間というものだ～」=Being half-asleep in the morning's pretty standard human behaviour, I'd say~

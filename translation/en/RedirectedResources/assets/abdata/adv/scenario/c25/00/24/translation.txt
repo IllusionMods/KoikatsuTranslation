@@ -1,2 +1,2 @@
-//「お～い、[P]～」=
-//「ほ～ら、彼女さんの手作りっすよ～。感謝して頂きなさ～い」=
+﻿「お～い、[P]～」=Ooii~, [P]~
+「ほ～ら、彼女さんの手作りっすよ～。感謝して頂きなさ～い」=Here~, your girlfriend made this for you~. Be thankful and gobble it all up~

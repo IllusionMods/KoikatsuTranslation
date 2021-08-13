@@ -1,4 +1,4 @@
-//「今いいかな？　ちょっと君と話してみたいんだけど」=
-//「私ですか～？　ていうかその誘い方、まさかナンパっすか？」=
-//「初対面の人にほいほい着いてったりしないっすよ？」=
-//「ち、違うんだ。ただ普通に話たいって思って」=
+﻿「今いいかな？　ちょっと君と話してみたいんだけど」=Is now a good time? I'd like to have a chat with you.
+「私ですか～？　ていうかその誘い方、まさかナンパっすか？」=Me~? That way of asking though, are you hitting on me?
+「初対面の人にほいほい着いてったりしないっすよ？」=You're not here to chat up someone you just met, right?
+「ち、違うんだ。ただ普通に話たいって思って」=N-Not at all. I just wanted to have a chat, a normal chat.
