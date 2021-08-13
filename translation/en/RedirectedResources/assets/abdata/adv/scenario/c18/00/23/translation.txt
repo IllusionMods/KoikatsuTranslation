@@ -1,3 +1,3 @@
-//「あ、あのっ……唐突なのですが！」=
-//「よかったらこのクッキー、食べませんか？　家庭科の授業で作ったんです！」=
-//「大丈夫です。変なものが混ざったりしないように、細心の注意を払いましたから」=
+﻿「あ、あのっ……唐突なのですが！」=U-Uhm--... I know this is sudden, but!
+「よかったらこのクッキー、食べませんか？　家庭科の授業で作ったんです！」=Won't you try these cookies? I made them during home-economics!
+「大丈夫です。変なものが混ざったりしないように、細心の注意を払いましたから」=It's alright. I took extreme precautions while making them, just to make sure that nothing weird ended up in them.

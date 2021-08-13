@@ -1,3 +1,3 @@
-//「う、運動ですか？　私と？」=
-//「うん。駄目かな？」=
-//「いえ……。でも、物も人も少ないところでお願いします」=
+﻿「う、運動ですか？　私と？」=E-Exercise? With me?
+「うん。駄目かな？」=Yeah. No good?
+「いえ……。でも、物も人も少ないところでお願いします」=No... But, let's do it in a place devoid of people and things in general.

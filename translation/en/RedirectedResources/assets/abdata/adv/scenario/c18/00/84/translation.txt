@@ -1,5 +1,5 @@
-//「恋人同士の行動を勉強する、ですか。改めて変わった部活ですね」=
-//「そうだね。入部した事、後悔してる？」=
-//「いえいえ、ユニークなのは嫌いじゃありませんよ。それで、どうしましょう？」=
-//「最初だし、試しに手でも繋いでみようか」=
-//「そうしましょうか。……不思議と緊張しますね、これ」=
+﻿「恋人同士の行動を勉強する、ですか。改めて変わった部活ですね」=Studying about things that couples get up to, is it? Really, what a strange club.
+「そうだね。入部した事、後悔してる？」=It sure is. Regretting that you signed on?
+「いえいえ、ユニークなのは嫌いじゃありませんよ。それで、どうしましょう？」=Not at all, I don't hate unique things. So then, what shall we do?
+「最初だし、試しに手でも繋いでみようか」=It's your first time so, let's try holding hands as a test.
+「そうしましょうか。……不思議と緊張しますね、これ」=Then let's do that. ...Makes you feel strangely tense, this.

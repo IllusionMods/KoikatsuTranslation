@@ -1,7 +1,6 @@
-
-//「キス、しませんか？」=
-//「いきなり、大胆だね」=
-//「いいじゃありませんか。本当に恋人同士なんですから」=
-//「そうだね。……じゃあ」=
-//「んはぁ……、ねえ、もっとしましょう……？」=
-//「今度は舌入れちゃいます……んっ」=
+﻿「キス、しませんか？」=Won't you, kiss me?
+「いきなり、大胆だね」=So sudden, you're feeling pretty bold today.
+「いいじゃありませんか。本当に恋人同士なんですから」=Isn't it fine? We really are a couple, afterall.
+「そうだね。……じゃあ」=True. ...then.
+「んはぁ……、ねえ、もっとしましょう……？」=Nnhaa... Hey, let's do it more...?
+「今度は舌入れちゃいます……んっ」=I'll put in my tongue this time... nn--

@@ -1,4 +1,3 @@
-
-//「うーん、私は構いませんけど……」=
-//「私が勉強したところは絶対にテストに出ないんですよね……」=
-//「ま、まあ、テストに出なくても勉強する意味はあるから」=
+﻿「うーん、私は構いませんけど……」=Mmmm, I don't really mind but...
+「私が勉強したところは絶対にテストに出ないんですよね……」=The stuff I study will definitely not be what shows up on the test...
+「ま、まあ、テストに出なくても勉強する意味はあるから」=W-Well, we have to study all of it either way, whether it shows up on the test or not.

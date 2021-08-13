@@ -1,4 +1,4 @@
-「んーっ、よく寝た。……あれ？　メモがある。なになに――」=“Mmm, I slept well. ...Oh? There's a letter. What's it say...?”
-//『おはようございます、[P]さん。よく眠れましたか？』=
-//『日直の用事がありますので、お先に学園でお待ちしています』=
-//『今日も無事故無怪我を心がけて、安全に過ごしましょう』=
+﻿「んーっ、よく寝た。……あれ？　メモがある。なになに――」=Nnnnn, I slept well. ...Huh? There's a note. Let's see--
+『おはようございます、[P]さん。よく眠れましたか？』=『Good morning, [P]-san. Had a good sleep?』
+『日直の用事がありますので、お先に学園でお待ちしています』=『I've got day duty today, so I'll be waiting for you at school.』
+『今日も無事故無怪我を心がけて、安全に過ごしましょう』=『Let's try our best to get through today as well, without injuries or incidents.』
