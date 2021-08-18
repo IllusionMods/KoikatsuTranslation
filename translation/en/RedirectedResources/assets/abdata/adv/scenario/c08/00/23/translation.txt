@@ -1,3 +1,3 @@
-//「ねぇねぇ、家庭科でお菓子作ったんだよ」=
-//「ちょっとだけ、形が崩れちゃって見た目はダメだけど……」=
-//「でも、味は保証するから、はい、あげるね！」=
+﻿「ねぇねぇ、家庭科でお菓子作ったんだよ」=Hey, I made some sweets during home ec.
+「ちょっとだけ、形が崩れちゃって見た目はダメだけど……」=They look a bit misshappen and junk but...
+「でも、味は保証するから、はい、あげるね！」=I can vouch for the taste, so here, you can have them!

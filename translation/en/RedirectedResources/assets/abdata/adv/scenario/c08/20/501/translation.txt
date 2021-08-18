@@ -1,5 +1,5 @@
-//「はぁ、はぁ、ごめん！　[H名]、待った？」=
-//「むぅ、待ったよぉ」=
-//「本当にごめん！　お詫びに今日のデートは全力でサービスするから！」=
-//「別に、そこまで謝らなくてもいいよぉ。でも……期待してるね♪」=
-//「ああ、任せといて！」=
+﻿「はぁ、はぁ、ごめん！　[H名]、待った？」=Haa, haa, sorry! Did you wait long, [H]?
+「むぅ、待ったよぉ」=Muu, I did~
+「本当にごめん！　お詫びに今日のデートは全力でサービスするから！」=I'm really sorry! I'll do my best to make it up to you for this on our date today!
+「別に、そこまで謝らなくてもいいよぉ。でも……期待してるね♪」=You don't have to apologize that much, silly. But... I'm expecting good things, okay?♪
+「ああ、任せといて！」=Yeah, leave it to me!

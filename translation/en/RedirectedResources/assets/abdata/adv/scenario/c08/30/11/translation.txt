@@ -1,6 +1,5 @@
-
-//「なにも感じなくなっちゃった」=
-//「え……」=
-//「興味が、沸いてこないの……」=
-//「それってどういうこと？」=
-//「私もよくわからない。でも、もうなにも教えてくれなくていいよ。じゃあもう行くね」=
+﻿「なにも感じなくなっちゃった」=I don't feel anything anymore.
+「え……」=Eh...
+「興味が、沸いてこないの……」=I can't seem to get interested anymore...
+「それってどういうこと？」=Just what do you mean?
+「私もよくわからない。でも、もうなにも教えてくれなくていいよ。じゃあもう行くね」=I don't know all that well either. But, you don't have to teach me anything anymore. Well then, I'mma go.

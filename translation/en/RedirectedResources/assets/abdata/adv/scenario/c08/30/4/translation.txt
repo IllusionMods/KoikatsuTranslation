@@ -1,4 +1,3 @@
-
-//「うん、いいよ。授業でわからないところがあったから、誰かに聞こうと思ってたんだ」=
-//「そうなんだ。俺でよければ力になるよ」=
-//「本当にあなたは頼りになるなぁ」=
+﻿「うん、いいよ。授業でわからないところがあったから、誰かに聞こうと思ってたんだ」=Yeah, okay. I was just thinking of asking somebody for help, since there's a bunch of stuff I really can't wrap my head around going on in class.
+「そうなんだ。俺でよければ力になるよ」=I see. If I'll do, then I'll try my best to help.
+「本当にあなたは頼りになるなぁ」=You really are just so reliable.

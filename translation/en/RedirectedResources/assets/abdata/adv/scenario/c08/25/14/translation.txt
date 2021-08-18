@@ -1,2 +1,2 @@
-//「[P]君。おはよう♪　お腹すいてないかな？　え、もうちょっと寝たいの？」=
-//「ダメだよ、学園いかないといけないし、それに[P]君はまず起きたら私をぎゅっとしないといけないんだから♪」=
+﻿「[P]君。おはよう♪　お腹すいてないかな？　え、もうちょっと寝たいの？」=[P]-kun. Good morning♪ Are you hungry? Eh, you want to sleep a bit more?
+「ダメだよ、学園いかないといけないし、それに[P]君はまず起きたら私をぎゅっとしないといけないんだから♪」=You can't, we have to go to school, not to mention, you have to get up and hug me real tight first too♪

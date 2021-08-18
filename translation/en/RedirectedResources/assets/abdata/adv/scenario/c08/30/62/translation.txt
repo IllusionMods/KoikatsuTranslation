@@ -1,11 +1,11 @@
-
-………………=.........
+﻿………………=.........
 …………=......
 ……=...
-//「今日も私にいろいろ教えてくれてありがとね♪　じゃあ、そろそろ帰るね」=
-//CHOICE:「もしよかったら、今から家にこない？」=
-//CHOICE:「続きは、また学園でね」=
-//「もしよかったら、今から家にこない？」=
-//「うん、行く♪　もっと[P]君にいろいろと教えてほしいからね！」=
-//「続きは、また学園でね」=
-//「うん、楽しみにしてるね♪　それじゃまたね」=
+「今日も私にいろいろ教えてくれてありがとね♪　じゃあ、そろそろ帰るね」=Thanks for teaching me about all sorts of new things today too♪ Well then, I'mma head home, okay?
+「もしよかったら、今から家にこない？」=If it's alright, wanna come to my place?
+「うん、行く♪　もっと[P]君にいろいろと教えてほしいからね！」=Yeah, I'd love to♪ I want you to teach me lots more stuff, afterall!
+「続きは、また学園でね」=Let's continue this at school then.
+「うん、楽しみにしてるね♪　それじゃまたね」=Yeah, I'm looking forward to it♪ Well then, see ya.
+
+CHOICE:「もしよかったら、今から家にこない？」=If it's alright, wanna come to my place?
+CHOICE:「続きは、また学園でね」=Let's continue this at school then.

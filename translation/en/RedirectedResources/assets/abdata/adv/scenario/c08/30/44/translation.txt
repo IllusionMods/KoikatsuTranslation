@@ -1,6 +1,5 @@
-
-//「へえ、色々あるんだね」=
-//「うん、色々あって目移りしちゃうなぁ、あ、あれ可愛いよ。お店、入ってみよ♪」=
-//「うん、いいよ」=
-//「あなたとお揃いだ。嬉しいなぁ、大事にするね！」=
-//（よかった、喜んでもらえたみたいだ）=
+﻿「へえ、色々あるんだね」=Hoh, they've got all sorts, huh?
+「うん、色々あって目移りしちゃうなぁ、あ、あれ可愛いよ。お店、入ってみよ♪」=Yeah, everything's vying for your attention all at once. Ah, that's really cute. Let's check that store out♪
+「うん、いいよ」=Yeah, alright.
+「あなたとお揃いだ。嬉しいなぁ、大事にするね！」=We got a matching pair. I'm so happy, I'll treasure it!
+（よかった、喜んでもらえたみたいだ）=(I'm glad, looks like she's enjoying herself.)
