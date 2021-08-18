@@ -1,3 +1,2 @@
-
-//「おはようございます。シャワーをお借りしました」=
-//「あはは、そんなに見つめなくても、あなたにならいつでもお見せしますよ♪」=
+﻿「おはようございます。シャワーをお借りしました」=Good morning. I borrowed your shower.
+「あはは、そんなに見つめなくても、あなたにならいつでもお見せしますよ♪」=Ahaha, you don't have to stare so much, I'll let you have a look anytime you want♪

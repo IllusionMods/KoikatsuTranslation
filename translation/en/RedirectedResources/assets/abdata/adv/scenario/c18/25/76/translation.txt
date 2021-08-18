@@ -1,4 +1,4 @@
-//「よ、よし、来い……！」=
-//「それじゃ、行きますよー！　それっ！」=
-//「ぐぅっ……！　この緊張感が癖になる……！」=
-//「キャッチボールなのに、とっても真剣な表情ですね。そんな顔も好きです」=
+﻿「よ、よし、来い……！」=A-Alright, come...!
+「それじゃ、行きますよー！　それっ！」=Well then, here I go! There--!
+「ぐぅっ……！　この緊張感が癖になる……！」=Guh--...! This nerveracking feeling is pretty addicting...!
+「キャッチボールなのに、とっても真剣な表情ですね。そんな顔も好きです」=Even though it's just catchball, you're so serious. I love that expression too.

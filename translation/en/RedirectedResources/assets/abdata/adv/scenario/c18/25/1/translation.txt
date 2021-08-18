@@ -1,4 +1,4 @@
-//「え、ええと……何かご用でしょうか……？」=
-//「は、話しかける前から身構えなくてもいいんじゃないかな……？」=
-//「す、すみません。男の人とちゃんと喋るのははじめてで……何が起こるかわからないので」=
-//「そ、そっか……何も起こらないと思うけど……じ、じゃあ、話すよ？」=
+﻿「え、ええと……何かご用でしょうか……？」=E-Eerhm... is there something you need...?
+「は、話しかける前から身構えなくてもいいんじゃないかな……？」=Y-You don't have to go on-guard like that even before we start chatting, you know...?
+「す、すみません。男の人とちゃんと喋るのははじめてで……何が起こるかわからないので」=I-I'm sorry. It's my first time talking with a guy, one on one... God knows what's gonna happen.
+「そ、そっか……何も起こらないと思うけど……じ、じゃあ、話すよ？」=I-I see... I don't think anything's gonna happen but... w-well, I'mma go first, okay?

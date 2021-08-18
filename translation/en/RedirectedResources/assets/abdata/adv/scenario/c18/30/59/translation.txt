@@ -1,3 +1,2 @@
-
-//「色々とありましたけど、今日はあなたのおかげで素敵な一日でした」=
-//「ご迷惑でなければ、またご一緒したいです。それでは、また」=
+﻿「色々とありましたけど、今日はあなたのおかげで素敵な一日でした」=A bunch of stuff happened but, thanks to you, I had a lovely day.
+「ご迷惑でなければ、またご一緒したいです。それでは、また」=If it's not too much trouble, I'd like to spend some more time with you again sometime. Well then, be seeing you.

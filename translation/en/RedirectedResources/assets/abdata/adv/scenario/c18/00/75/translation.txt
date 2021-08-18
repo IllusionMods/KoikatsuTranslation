@@ -1,4 +1,4 @@
-//「えっと……それっ」=
-//「うおっ！？」=
-//「だ、大丈夫ですか？　やっぱりボールを蹴るのは危険ですね……」=
-//「い、いや、どこに飛ぶか分からないスリルがたまらないよ」=
+﻿「えっと……それっ」=Erhm... there--
+「うおっ！？」=Woah--!?
+「だ、大丈夫ですか？　やっぱりボールを蹴るのは危険ですね……」=A-Are you alright? It really is too dangerous to kick the ball like that, isn't it...
+「い、いや、どこに飛ぶか分からないスリルがたまらないよ」=N-No, the thrill of not knowing exactly where it's gonna hit is actually pretty addicting.

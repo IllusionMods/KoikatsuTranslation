@@ -1,3 +1,3 @@
-//「あ、おはようございます。[Pあだ名]」=
-//「うん、おはよう[Hあだ名]」=
-//「ふふっ、朝から会えたのが嬉しくて、つい愛称で呼んじゃいました」=
+﻿「あ、おはようございます。[Pあだ名]」=Ah, good morning, [Pあだ名].
+「うん、おはよう[Hあだ名]」=Yeah, morning, [Hあだ名].
+「ふふっ、朝から会えたのが嬉しくて、つい愛称で呼んじゃいました」=Fufu--, I was so happy, getting to see you first thing in the morning, I ended up using your nickname.
