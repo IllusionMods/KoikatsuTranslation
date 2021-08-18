@@ -1,13 +1,13 @@
-//「お疲れ様でした。ふふっ、素敵な式でしたよ」=
-//「本番の結婚式も、是非、私どもの式場で挙げてくださいね！」=
-//「えっと、前向きに考えさせてもらいます」=
-//「お願いします！　今日はお引き受けいただいて、ありがとうございました」=
-//「ふぅ……ようやく終わったね」=
-//「今日は自分の気持ちを、ちゃんと言えてすっきりしたな～」=
-//「ひょんなキッカケだけど、素敵なイベントに参加できて良かった～」=
-//「俺も嬉しかったよ。[H名]の想いが聞けて。あの言葉、絶対に忘れないよ……」=
-//「そんな真顔で言わないでよ～。恥ずかしいからさ～」=
-//「はは、でも本当に嬉しかったんだよ」=
-//（ちょっと本来の予定と変わったけど……素敵なデートになったな）=
+﻿「お疲れ様でした。ふふっ、素敵な式でしたよ」=Good work today. Fufu~ It was a lovely ceremony.
+「本番の結婚式も、是非、私どもの式場で挙げてくださいね！」=For your actual wedding as well, please, do call upon us!
+「えっと、前向きに考えさせてもらいます」=Uhm, sure, if we get to that point.
+「お願いします！　今日はお引き受けいただいて、ありがとうございました」=Thank you! And for helping us out so much today as well, thank you very much!
+「ふぅ……ようやく終わったね」=Fuu... it finally ended.
+「今日は自分の気持ちを、ちゃんと言えてすっきりしたな～」=Man, I feel so refreshed now, now that I've told you my real feelings~
+「ひょんなキッカケだけど、素敵なイベントに参加できて良かった～」=It was really unexpected but, I'm glad we took part in something so lovely~
+「俺も嬉しかったよ。[H名]の想いが聞けて。あの言葉、絶対に忘れないよ……」=I was really happy too, you know? Hearing your feelings, [H名]. I will never forget those words...
+「そんな真顔で言わないでよ～。恥ずかしいからさ～」=Don't say that with such a straight face~. It's really embarrassing~
+「はは、でも本当に嬉しかったんだよ」=Haha, but I really was happy.
+（ちょっと本来の予定と変わったけど……素敵なデートになったな）=(It kinda went off the rails there for a bit but... that really was a lovely date.)
 
 モブ=Mob

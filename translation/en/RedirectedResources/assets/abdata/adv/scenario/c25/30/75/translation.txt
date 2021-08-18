@@ -1,5 +1,4 @@
-
-//「たまには身体動かさないとね」=
-//「たまにじゃないじゃ～ん。元気過ぎるんじゃないかな～」=
-//「そうかな？」=
-//「そーだよ～。そーゆーとこも男の子ってことかね～」=
+﻿「たまには身体動かさないとね」=Gotta move your body every once in a while, afterall.
+「たまにじゃないじゃ～ん。元気過ぎるんじゃないかな～」=This isn't "every once in a while"~. Aren't you just way too energetic~
+「そうかな？」=You think so?
+「そーだよ～。そーゆーとこも男の子ってことかね～」=Yeah, you are~. Guess that's part of being a boy too~

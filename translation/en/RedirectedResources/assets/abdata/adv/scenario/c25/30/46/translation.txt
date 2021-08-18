@@ -1,4 +1,3 @@
-
-//「ふぅ……こんなに気持ちいいなんて……」=
-//「感じてもらえて、嬉しいよ」=
-//「はふぅ……、また、しよ～ね」=
+﻿「ふぅ……こんなに気持ちいいなんて……」=Fuu... to think it'd feel this good...
+「感じてもらえて、嬉しいよ」=I'm glad that you enjoyed it.
+「はふぅ……、また、しよ～ね」=*breathe*... let's do it again sometime, okay?~

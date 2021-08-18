@@ -1,4 +1,4 @@
-//「……本が読みたくなる」=
-//「今は勉強しようよ」=
-//「つい本を読むのに時間を使って勉強から逃げちゃうよね～」=
-//「それって……テスト前に掃除してしまうってやつかな？」=
+﻿「……本が読みたくなる」=...I feel like reading a book.
+「今は勉強しようよ」=Let's focus on studying for now.
+「つい本を読むのに時間を使って勉強から逃げちゃうよね～」=Everytime I sit down to study, before I know it the day's gone and I've finished another book~
+「それって……テスト前に掃除してしまうってやつかな？」=That's... you're one of those people, that clean their entire place right before test, huh?

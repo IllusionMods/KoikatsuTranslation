@@ -1,2 +1,2 @@
-//「ん～、今日はいっぱい話せたね～」=
-//「また付き合ってあげてもいいよ～。じゃあ、またね～」=
+﻿「ん～、今日はいっぱい話せたね～」=Nn~, we chatted tons today, didn't we~
+「また付き合ってあげてもいいよ～。じゃあ、またね～」=I don't mind going along again with you next time~. Well then, see ya~

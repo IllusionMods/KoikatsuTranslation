@@ -1,6 +1,5 @@
-
-//「ここなら人目も少ないね～……」=
-//「ん？　どうかした？」=
-//「ふふ～♪　はい、[P]、あ～ん」=
-//「えっ、あ～ん……」=
-//「ちょっとやってみたかったり～♪」=
+﻿「ここなら人目も少ないね～……」=Nobody will see us here either~...
+「ん？　どうかした？」=Hm? Something the matter?
+「ふふ～♪　はい、[P]、あ～ん」=Fufu~♪ Here, [P], aahn~
+「えっ、あ～ん……」=Eh--, aahn~...
+「ちょっとやってみたかったり～♪」=I just felt like trying that~♪

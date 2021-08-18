@@ -1,4 +1,3 @@
-
-//「……面倒だけどいつかやらねば～」=
-//「今がやるときだよ！　一緒にがんばろう」=
-//「でもやっぱり面倒なんだけど～」=
+﻿「……面倒だけどいつかやらねば～」=...It's a pain but, gotta do it eventually I guess~
+「今がやるときだよ！　一緒にがんばろう」=Better now than never! Let's work hard together.
+「でもやっぱり面倒なんだけど～」=But, man, it really is such a pain~

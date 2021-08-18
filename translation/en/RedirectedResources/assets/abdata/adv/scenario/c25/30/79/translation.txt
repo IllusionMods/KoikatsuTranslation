@@ -1,4 +1,3 @@
-
-//「何食べんの～？」=
-//「定食のどれかにしようかなって」=
-//「ふ～ん、量が欲しいなら定食になるのかな～」=
+﻿「何食べんの～？」=Whatcha gonna eat~?
+「定食のどれかにしようかなって」=Thought I'd grab a set meal or something.
+「ふ～ん、量が欲しいなら定食になるのかな～」=Hmm, guess set meals are the way to go, if you want to have a heavy meal~

@@ -1,5 +1,4 @@
-
-//「授業以外でも勉強なんて……だる～ん……」=
-//「勉強は積み重ねだし細目にやっておかないとね」=
-//「やりたくないね～代わりにやっといて～」=
-//「はは……代わりにはなれないから頑張ろう！」=
+﻿「授業以外でも勉強なんて……だる～ん……」=Studying even outside of class... I dunno...
+「勉強は積み重ねだし細目にやっておかないとね」=You have to do it little by little, since knowledge builds up over time.
+「やりたくないね～代わりにやっといて～」=Man, I'd really rather not~, do it for me~
+「はは……代わりにはなれないから頑張ろう！」=Haha... that's not an option, so let's do our best!

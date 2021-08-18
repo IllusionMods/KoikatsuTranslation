@@ -1,5 +1,5 @@
-//「ここのところなんだけどさ……わかる？」=
-//「しら～ん、なんもわかんないし～」=
-//「ええっ……。どこからわからない？　教えようか？」=
-//「そんなマジメに取られても～……しょーがないな～私が教えてあげよ～」=
-//「え、ええっ？　わかるのかわからないのかわからなくなったよ……」=
+﻿「ここのところなんだけどさ……わかる？」=Hey, I'm kinda stuck on this bit... you know how to do it?
+「しら～ん、なんもわかんないし～」=I don't~, I don't understand anything at all~
+「ええっ……。どこからわからない？　教えようか？」=Eeeh--... What part do you not understand? Want me to teach you?
+「そんなマジメに取られても～……しょーがないな～私が教えてあげよ～」=You don't have to take me so seriously~... Guess it can't be helped~ I'll show you how to do it~
+「え、ええっ？　わかるのかわからないのかわからなくなったよ……」=E-Eeh--? Now I'm the one who doesn't understand anything...
