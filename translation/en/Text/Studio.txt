@@ -2588,6 +2588,8 @@ illusion文字のみ 黒=Word: Illusion (Black)
 // System Menu -> Scene Effects
 カラーの調整=Color Adjustment
 色味=Shade
+// 色味２ is added by the TwoLut plugin
+色味２=Shade 2
 画面の色味調整=Scene Shade Adjustment
 アンビエントオクルージョン=Ambient Occlusion
 描画=Display
