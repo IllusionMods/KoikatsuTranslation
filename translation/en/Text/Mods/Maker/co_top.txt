@@ -6,16 +6,16 @@
 乃愛=Noa
 
 // chara/LUmod/cat_top_03.unity3d
-//猫ランジェリー=
+猫ランジェリー=Cat Lingerie
 
 // chara/anse/anse_sunshine_tshirt.unity3d
-//あんせサンシャインTシャツ=
+あんせサンシャインTシャツ=Anse sunshine T-shirt
 
 // chara/anse/anse_susomusubi_tshirt.unity3d
-//あんせ裾結びTシャツ=
+あんせ裾結びTシャツ=Anse hem knot t-shirt
 
 // chara/anse/anse_susomusubi_clear_tshirt.unity3d
-//あんせ裾結びTシャツ(透明)=
+あんせ裾結びTシャツ(透明)=Safety T-shirt (transparent)
 
 // chara/deathweasel/ec_items.unity3d
 ヴァルキリーアーマー=Valkyrie Armor
@@ -29,15 +29,15 @@
 亀甲縛り改2=Tortoise Shell Binding Kai 2
 
 // chara/nam/co_taisoufuku_top_00.unity3d
-//体操服In=
-//体操服In透けA=
-//体操服In透けB=
-//体操服=
-//体操服改透けA=
-//体操服改透けB=
-//長体操服1=
-//長体操服1透けA=
-//長体操服1透けB=
+体操服In=Gym Uniform In
+体操服In透けA=Gym Uniform In Transparent A
+体操服In透けB=Gym Uniform In Transparent B
+体操服=Gym Uniform
+体操服改透けA=Transparent Gym Uniform A
+体操服改透けB=Transparent Gym Uniform B
+長体操服1=Long Gym Uniform 1
+長体操服1透けA=Long Gym Uniform 1 Transparent A
+長体操服1透けB=Long Gym Uniform 1 Transparent B
 
 // chara/mt_pattern_KL.unity3d
 工装=Engineering Equipment
@@ -47,7 +47,7 @@
 休闲西装=Casual Western Apparel
 
 // chara/co_top_00_02change.unity3d
-//AA1衬衣=
+AA1衬衣=AA1 Shirt
 
 // chara/co_shoes.unity3d
 HS2贵族风衣=HS2 Dress
@@ -124,7 +124,7 @@ HS2男马甲=HS2 men's marsupial
 スウェットA=Sweatshirt A
 
 // chara/co_top_dl01.unity3d
-//DALI临时MOD=
+DALI临时MOD=DALI Temporary MOD
 
 // chara/JK/jk_tops.unity3d
 キャミソール(下乳)=Camisole(lower breast)
@@ -152,8 +152,8 @@ HS2男马甲=HS2 men's marsupial
 長袖シャツ=Long Sleeve Shirt
 
 // chara/Matne/matne_top_00.unity3d
-//ワンピース（インナーなし）=
-//セーラーワンピース改=
+ワンピース（インナーなし）=One-piece (without inner wear)
+セーラーワンピース改=Sailor Dress modified
 
 // chara/Mint/co_Mint_NakedCoat.unity3d
 裸コート=Bare Coat
@@ -364,10 +364,10 @@ wen夜夜=WEN Night Night
 すけレースドレス01胸あけ=Suke-Lace Dress 01 (open chest)
 
 // chara/xne/xne_co_top_skdrs01b.unity3d
-//すけレースドレス01v2=
+すけレースドレス01v2=Transparent-Lace Dress 01v2
 
 // chara/xne/xne_co_top_skdrs01hb.unity3d
-すけレースドレス01v2胸あけ=Sukesuke Lace Dress 01v2 Open-Breasted
+すけレースドレス01v2胸あけ=Transparent-Lace Dress 01v2 Open-Breasted
 
 // chara/xne/xne_co_top_sukecami.unity3d
 すけすけキャミソール=Sukesuke Camisole
@@ -473,9 +473,9 @@ wen夜夜=WEN Night Night
 乳テントTシャツミニ=Tshirt Mini
 
 // chara/escargot_002_01C_co_top_01.unity3d
-//ほのかTシャツ（モーモちゃん）=
-//ほのかTシャツ（無地）=
+ほのかTシャツ（モーモちゃん）=Honoka T-Shirt (Momo-chan)
+ほのかTシャツ（無地）=Honoka T-Shirt (Plain)
 
 // chara/escargot_002_01C_co_top_02.unity3d
-//透けほのかTシャツ（モーモちゃん）=
-//透けほのかTシャツ（無地）=
+透けほのかTシャツ（モーモちゃん）=Transparent Honoka T-shirt (Momo-chan)
+透けほのかTシャツ（無地）=Transparent Honoka T-shirt (plain)

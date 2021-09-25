@@ -88,7 +88,7 @@ AIダクトテープ芯=AI duct tape core
 腕輪：創世神ステイシア[SAO]=Arm band: Stacia, God of Creation [SAO].
 
 // chara/mf_vladilena_milize_arm.unity3d
-//レーナ[86-EIGHTY SIX-]=
+レーナ[86-EIGHTY SIX-]=Raina [86-EIGHTY SIX-]
 
 // chara/ao_arm_halloween.unity3d
 ドクロ=Skull

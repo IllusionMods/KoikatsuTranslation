@@ -14,18 +14,18 @@
 ハイネック ノースリーブ ロング=High-neck Sleeveless Long
 
 // chara/nam/co_taisoufuku_top_00.unity3d
-//体操服In=
-//体操服In透けA=
-//体操服In透けB=
-//体操服=
-//体操服改透けA=
-//体操服改透けB=
-//長体操服1=
-//長体操服1透けA=
-//長体操服1透けB=
+体操服In=Gym Uniform In
+体操服In透けA=Gym Uniform In Transparent A
+体操服In透けB=Gym Uniform In Transparent B
+体操服=Gym Uniform
+体操服改透けA=Gym Uniform Transparent A
+体操服改透けB=Gym Uniform Transparent B
+長体操服1=Long Gym Uniform 1
+長体操服1透けA=Long Gym Uniform 1 Transparent A
+長体操服1透けB=Long Gym Uniform 1 Transparent B
 
 // chara/07_kumbhira/co_bra_07_kumbhira.unity3d
-//聖女のビスチェ-kumbhira=
+聖女のビスチェ-kumbhira=Saint's Bustier - kumbhira
 
 // chara/mt_pattern_ZA.unity3d
 男背心短袖衬衣=Men's polo shirt with short sleeves
@@ -62,7 +62,7 @@ HS2男马甲=HS2 men's marsupial
 // chara/_mods/LongSleeveT.unity3d
 ハイネック長袖Tシャツ=High Neck Long Sleeve T-Shirt
 丸首長袖Tシャツ=Long Sleeve T-Shirt
-//丸首長袖Tシャツ_boudica=
+丸首長袖Tシャツ_boudica=Round neck long sleeve T-shirt - boudica
 ハイネック長袖Tシャツ-hallessena=High Neck Long Sleeve T-Shirt-hallessena
 ハイネック長袖Tシャツ-may=High Neck Long Sleeve T-Shirt-may
 ?�イ?�ッ??��袖T?�ャ??-shikibu=? High neck sleeves T-shirt-hallessena High-neck long-sleeved T-shirt-may? Long-sleeved T-shirt -shikibu
@@ -74,10 +74,10 @@ HS2男马甲=HS2 men's marsupial
 ハイネック長袖Tシャツ_danua=High-neck long-sleeved T-shirt_danua
 
 // chara/_mods1/LongSleeveT_kumbhira.unity3d
-//ハイネック長袖Tシャツ_kumbhira=
+ハイネック長袖Tシャツ_kumbhira=High-Neck Long-Sleeved T-Shirt - kumbhira
 
 // chara/_mods1/LongSleeveT_takao.unity3d
-//ハイネック長袖Tシャツ_takao=
+ハイネック長袖Tシャツ_takao=High-Neck Long-Sleeved T-shirt - takao
 
 // chara/_mods/mash2.unity3d
 マシュ鎧胸=Marsh armor chest
@@ -129,7 +129,7 @@ HS2男马甲=HS2 men's marsupial
 透け半袖ワイシャツ=Transparent short-sleeved shirt
 
 // chara/sam-cpo_jacket_a_00.unity3d
-//ノースリーmillefi=
+ノースリーmillefi=Sleeveless millefi
 
 // chara/mm/buruma_taisouhuku.unity3d
 透け体操着=Transparent gym uniform
@@ -160,7 +160,7 @@ HS2男马甲=HS2 men's marsupial
 太陽神ソルス[SAO]=Solus, God of the Sun[SAO].
 
 // chara/mf_vladilena_milize_top01.unity3d
-//レーナ[86-EIGHTY SIX-]=
+レーナ[86-EIGHTY SIX-]=Raina [86-EIGHTY SIX-]
 
 // chara/nakay/co_openshirt_nkt07.unity3d
 ワイシャツ襟開け２=Shirt Open Collar 2

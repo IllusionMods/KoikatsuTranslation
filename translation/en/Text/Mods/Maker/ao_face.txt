@@ -368,11 +368,11 @@ M字バングストレート(右)=M-Shaped Straight Bangs (R)
 狐の面=Fox Mask
 
 // chara/sak_acc_bo_hair_f_50.unity3d
-//SAK中分けデコ出し=
+SAK中分けデコ出し=SAK middle parted deco
 
 // chara/zeta/sunshineacc.unity3d
-//Sunshine FH 2 - �؂葵���A�V�����g���o���O=Sunshine fh 2-؂ 葵 v v � � �
-//Sunshine FH 6 - �؂葵���T�C�h�J�[��=
+Sunshine FH 2 - �؂葵���A�V�����g���o���O=Sunshine FH 2 - ???
+Sunshine FH 6 - �؂葵���T�C�h�J�[��=Sunshine FH 6 - ???
 
 // chara/xne/xne_ao_accmask.unity3d
 マスク改（フェラ）=Mask Revision (Blow)

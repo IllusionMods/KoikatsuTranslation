@@ -32,10 +32,10 @@
 長手袋(Alpha R)=Long Gloves(Alpha R)
 
 // chara/07/co_gloves_07_ext.unity3d
-//ヴァルキリーグローブ (Right)=
+ヴァルキリーグローブ (Right)=Valkyrie Gloves (Right)
 
 // chara/mt_pattern_KA.unity3d
-//贵族护臂=
+贵族护臂=Noble Armguards
 
 // chara/_mods/angela.unity3d
 三等官手袋=Third class gloves

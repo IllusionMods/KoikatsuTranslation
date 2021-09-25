@@ -18,13 +18,13 @@
 あんせ長袖ワンピ=Anse long-sleeved one-piece
 
 // chara/anse/anse_suspenders_long.unity3d
-//あんせサスペンダー ロング=
+あんせサスペンダー ロング=Safety suspenders long
 
 // chara/anse/anse_suspenders_mid.unity3d
-//あんせサスペンダー ショート=
+あんせサスペンダー ショート=Safety suspenders short
 
 // chara/anse/anse_raincoat.unity3d
-//あんせレインコート=
+あんせレインコート=Safety raincoat
 
 // chara/co_shoes_22_22.unity3d
 男背带=men's back strap
@@ -96,18 +96,18 @@ HS2男马甲=HS2 men's marsupial
 太陽神ソルス[SAO]=Solus, God of the Sun[SAO].
 
 // chara/mf_vladilena_milize_top02.unity3d
-//レーナ[86-EIGHTY SIX-]=
+レーナ[86-EIGHTY SIX-]=Raina [86-EIGHTY SIX-]
 
 // chara/nakay/co_top_parker_nkt12.unity3d
-//だぼパーカー(スカート)=
-//だぼパーカー(フィット)=
-//だぼパーカー腕まくり(スカート)=
-//だぼパーカー腕まくり(フィット)=
-//だぼパーカー萌袖(スカート)=
-//だぼパーカー萌袖(フィット)=
+だぼパーカー(スカート)=Draped Parka (Skirt)
+だぼパーカー(フィット)=Draped Parka (Fitted)
+だぼパーカー腕まくり(スカート)=Draped Parka w\ rolled up sleeves (Skirt)
+だぼパーカー腕まくり(フィット)=Draped Parka w\ rolled up sleeves (Fitted)
+だぼパーカー萌袖(スカート)=Draped Parka w\ cute sleeves (Skirt)
+だぼパーカー萌袖(フィット)=Draped Parka w\ cute sleeves (Fitted)
 
 // chara/nakay/co_jacket_02_nkt13.unity3d
-//だぼカーディガン=
+だぼカーディガン=Draped Cardigan
 
 // chara/cpo_jacket_b_00.unity3d
 ブレザーC(inmab改)=Blazer C(inmab modified)

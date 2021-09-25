@@ -6,13 +6,13 @@
 あんせフレアスカート=Anse Flare Skirt
 
 // chara/anse/anse_high-waist_frill_skirt.unity3d
-//ハイウエストスカート(フリル付き)=
+ハイウエストスカート(フリル付き)=High-Waist Skirt (with Ruffles)
 
 // chara/anse/anse_high-waist_skirt.unity3d
-//ハイウエストスカート(サスペンダー付き)=
+ハイウエストスカート(サスペンダー付き)=High-Waist Skirt (with Suspenders)
 
 // chara/anse/anse_high-waist_only_skirt.unity3d
-//ハイウエストスカート=
+ハイウエストスカート=High-Waist Skirt
 
 // chara/anse/anse_sayoko_skirt.unity3d
 二段フリルスカート=Two-tiered Frilled Skirt
@@ -22,22 +22,22 @@
 盗賊のズボン=Thieves' Trousers
 サキュバスの腰飾り=Succubus' Waistcoat
 ネクロマンサーのズボン=Necromancer's Trousers
-//聖女のビスチェ_kumbhira_bot=
-//盗賊のズボン (Pantsu Allowed)=
+聖女のビスチェ_kumbhira_bot=Saint's bustier - kumbhira_bot
+盗賊のズボン (Pantsu Allowed)=Thief's pants (Pantsu Allowed)
 
 // chara/nam/co_taisoufuku_bot_00.unity3d
-//ブルマ1A=
-//ブルマ1B=
-//ブルマ2A=
-//ブルマ2B=
-//ブルマ3A=
-//ブルマ3B=
+ブルマ1A=Bloomers 1A
+ブルマ1B=Bloomers 1B
+ブルマ2A=Bloomers 2A
+ブルマ2B=Bloomers 2B
+ブルマ3A=Bloomers 3A
+ブルマ3B=Bloomers 3B
 
 // chara/co_bot_00.unity3d
-//ローライズロングパンツLv1=
-//ローライズロングパンツLv2=
-//ローライズロングパンツLv3=
-//ローライズロングパンツLv4=
+ローライズロングパンツLv1=Low-rise long pants Lv1
+ローライズロングパンツLv2=Low-rise long pants Lv2
+ローライズロングパンツLv3=Low-rise long pants Lv3
+ローライズロングパンツLv4=Low-rise long pants Lv4
 
 // chara/co_shoes_22_22.unity3d
 偶像长裤=Even long pants
@@ -159,7 +159,7 @@ HS2贵族长裤=HS2 long pants
 太陽神ソルス[SAO]=Solus, God of the Sun[SAO].
 
 // chara/mf_vladilena_milize_bot.unity3d
-//レーナ[86-EIGHTY SIX-]=
+レーナ[86-EIGHTY SIX-]=Raina [86-EIGHTY SIX-]
 
 // chara/co_bot_nkt00.unity3d
 ニッカ(Low無)=Knickers (Low)
@@ -194,10 +194,10 @@ HS2贵族长裤=HS2 long pants
 段フリルスカート_djeeta=Tiered Ruffle Skirt_djeeta
 
 // chara/nashi/ns_skirt_ver2.unity3d
-//3段プリーツスカート ver2=
-//5段プリーツスカート ver2=
-//7段プリーツスカート ver2=
-//9段プリーツスカート ver2=
+3段プリーツスカート ver2=3 Tier Pleated Skirt ver2
+5段プリーツスカート ver2=5 tier pleated skirt ver2
+7段プリーツスカート ver2=7 tier pleated skirt ver2
+9段プリーツスカート ver2=9 tier pleated skirt ver2
 
 // chara/nashiki/nashiki_short_skirt_collider.unity3d
 ショートプリーツスカートA_collider=Short Pleated Skirt A_collider
@@ -229,7 +229,7 @@ NBYパンツ=NBY Pants
 ショートパンツ(大濡)=Wet shorts
 
 // chara/jeans/rollup_jeans.unity3d
-//ジーンズ(ロールアップ)=
+ジーンズ(ロールアップ)=Jeans (Roll-up)
 
 // chara/jeans/wet_rollup_jeans.unity3d
 RUデニム(濡)=RU Denim (Wet)

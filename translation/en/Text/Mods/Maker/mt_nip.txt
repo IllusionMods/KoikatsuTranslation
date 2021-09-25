@@ -3,30 +3,30 @@
 //
 
 // chara/nam/mt_inverted_nip_00.unity3d
-//陥没乳首1A=
-//陥没乳首1B=
-//陥没乳首1C=
-//陥没乳首1D=
-//陥没乳首1E=
-//陥没乳首1F=
-//陥没乳首2A=
-//陥没乳首2B=
-//陥没乳首2C=
-//陥没乳首2D=
-//陥没乳首2E=
-//陥没乳首2F=
-//陥没乳首3A=
-//陥没乳首3B=
-//陥没乳首3C=
-//陥没乳首3D=
-//陥没乳首3E=
-//陥没乳首3F=
-//陥没乳首4A=
-//陥没乳首4B=
-//陥没乳首4C=
-//陥没乳首4D=
-//陥没乳首4E=
-//陥没乳首4F=
+陥没乳首1A=Sunken Nipple 1A
+陥没乳首1B=Recessed Nipple 1B
+陥没乳首1C=Recessed Nipple 1C
+陥没乳首1D=Recessed Nipple 1D
+陥没乳首1E=Recessed Nipple 1E
+陥没乳首1F=Recessed Nipple 1F
+陥没乳首2A=Recessed Nipple 2A
+陥没乳首2B=Recessed Nipple 2B
+陥没乳首2C=Recessed Nipple 2C
+陥没乳首2D=Recessed Nipple 2D
+陥没乳首2E=Recessed Nipple 2E
+陥没乳首2F=Recessed Nipple 2F
+陥没乳首3A=Recessed Nipple 3A
+陥没乳首3B=Recessed Nipple 3B
+陥没乳首3C=Recessed Nipple 3C
+陥没乳首3D=Recessed Nipple 3D
+陥没乳首3E=Recessed Nipple 3E
+陥没乳首3F=Recessed Nipple 3F
+陥没乳首4A=Recessed Nipple 4A
+陥没乳首4B=Recessed Nipple 4B
+陥没乳首4C=Recessed Nipple 4C
+陥没乳首4D=Recessed Nipple 4D
+陥没乳首4E=Recessed Nipple 4E
+陥没乳首4F=Recessed Nipple 4F
 
 // chara/nashi/mt_nip_00.unity3d
 Clochette乳首1=Clochette nipple 1

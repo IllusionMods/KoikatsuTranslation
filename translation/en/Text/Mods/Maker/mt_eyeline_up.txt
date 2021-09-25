@@ -34,7 +34,7 @@ Type 54 改=Type 54 modified
 新条アカネ=Akane Shinjo
 
 // chara/mf_vladilena_milize_eyeline_up.unity3d
-//レーナ[86-EIGHTY SIX-]=
+レーナ[86-EIGHTY SIX-]=Raina [86-EIGHTY SIX-]
 
 // chara/_kero/CMS_NT_00.unity3d
 タイプ1（色変え）=Type 1 (color change)

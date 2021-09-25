@@ -6,7 +6,7 @@
 クレアレオタード=Claire Leotard
 
 // chara/anse/anse_raincoat_b.unity3d
-//あんせレインコート=
+あんせレインコート=Safety Raincoat
 
 // chara/deathweasel/ec_items.unity3d
 聖女のビスチェ=Saint Bustier
@@ -33,7 +33,7 @@
 王子服肩章=Shoulder patch for prince
 军服肩章=Shoulder patch for military uniform
 肩章=Shoulder patch
-//军服腰带=
+军服腰带=Military uniform waistband
 
 // chara/ao_head_01.unity3d
 //偶像肩章改=偶像服肩章改
@@ -142,7 +142,7 @@ Maハイローブラ=Ma high-low bra
 オープンフリルビキニ=Open Frilled Bikini
 
 // chara/co_bra_103.unity3d
-//Millefi水着=
+Millefi水着=Millefi Swimsuit
 
 // chara/Mint/co_M_holesSC.unity3d
 穴あきスク水=School Swimwear with Holes
@@ -155,7 +155,7 @@ Maハイローブラ=Ma high-low bra
 ミニチューブトップ=Mini Tube Tops
 
 // chara/mf_vladilena_milize_bra01.unity3d
-//レーナ[86-EIGHTY SIX-]=
+レーナ[86-EIGHTY SIX-]=Raina [86-EIGHTY SIX-]
 
 // chara/_kero/cpo_shimakazeS_NT_00.unity3d
 透過全身タイツ VerA=Transparent Full Length Tights Ver.
@@ -183,18 +183,18 @@ Maハイローブラ=Ma high-low bra
 オープンブラ エナメル風味=Open bra with enamel
 
 // chara/nashi/ns_bra_ver1.unity3d
-//フルカップブラ1 ver1=
-//フルカップブラ2 ver1=
-//4/5カップブラ1 ver1=
-//4/5カップブラ2 ver1=
-//3/4カップブラ1 ver1=
-//3/4カップブラ2 ver1=
-//1/2カップブラ1 ver1=
-//1/2カップブラ2 ver1=
-//紐付きチューブトップブラ1 ver1=
-//紐付きチューブトップブラ2 ver1=
-//シェルフカップブラ ver1=
-//オープンブラ ver1=
+フルカップブラ1 ver1=Full Cup Bra 1 ver1
+フルカップブラ2 ver1=Full Cup Bra 2 ver1
+4/5カップブラ1 ver1=4/5 Cup Bra1 ver1
+4/5カップブラ2 ver1=4/5 Cup Bra 2 ver1
+3/4カップブラ1 ver1=3/4 Cup Bra 1 ver1
+3/4カップブラ2 ver1=3/4 Cup Bra 2 ver1
+1/2カップブラ1 ver1=1/2 Cup Bra 1 ver1
+1/2カップブラ2 ver1=1/2 Cup Bra 2 ver1
+紐付きチューブトップブラ1 ver1=Tube Top Bra with Strings 1 ver1
+紐付きチューブトップブラ2 ver1=Tube top bra with strings 2 ver1
+シェルフカップブラ ver1=Shelf Cup Bra ver1
+オープンブラ ver1=Open Bra ver1
 
 // chara/nashi/ns_mizugi.unity3d
 ひもぴーんビキニ=Flouncy Bikini
@@ -307,10 +307,10 @@ xneレース下着=XNE Lace Underwear
 アンダーシャツ3 首まで 袖短=Undershirt 3 Up to neck Short sleeves
 
 // chara/ymd/mf_clothVariation_rev11.unity3d
-//アンダーシャツ3 ツートン rev11=
-//アンダーシャツ3 ツートン 袖短 rev11=
-//アンダーシャツ3 首まで rev11=
-//アンダーシャツ3 首まで 袖短 rev11=
+アンダーシャツ3 ツートン rev11=Undershirt 3 two-tone rev11
+アンダーシャツ3 ツートン 袖短 rev11=Undershirt 3 Two-Tone Short Sleeves rev11
+アンダーシャツ3 首まで rev11=Undershirt 3 up to neck rev11
+アンダーシャツ3 首まで 袖短 rev11=Undershirt 3 up to neck, short sleeves rev11
 
 // chara/ymd/mf_texchange.unity3d
 スクール水着 テカ=School swimsuit Teka

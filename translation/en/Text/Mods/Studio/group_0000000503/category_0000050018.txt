@@ -32,7 +32,7 @@
 
 // chara/ymd/si_sports.unity3d
 野球 ボールA=Baseball Ball A
-//野球 ボールB=
+野球 ボールB=Baseball Ball B
 野球 右利きグローブA=Baseball Right-handed glove A
 野球 右利きグローブB=Baseball Right-handed glove B
 野球 左利きグローブA=Baseball Left-handed glove A

@@ -229,65 +229,65 @@
 茨の冠=Crown of Thorns
 
 // chara/halfup.unity3d
-//ハーフアップ(伸)=
-//ハーフアップ(上)=
-//ハーフアップ(下)=
-//ハーフアップ(後伸)=
-//ハーフアップ(尾)=
-//ハーフアップ(尾伸)=
-//ハーフアップ(バンド)=
+ハーフアップ(伸)=Half-Up (Straight)
+ハーフアップ(上)=Half-up (Top)
+ハーフアップ(下)=Half-Up (Bottom)
+ハーフアップ(後伸)=Half-Up (Back Extend)
+ハーフアップ(尾)=Half-Up (Tail)
+ハーフアップ(尾伸)=Half-Up (Tail Extend)
+ハーフアップ(バンド)=Half-Up (Band)
 
 // chara/lady_long.unity3d
-//お嬢様ロング(伸)=
-//お嬢様ロング(前)=
-//お嬢様ロング(下)=
-//お嬢様ロング(結)=
-//お嬢様ロング(後伸)=
-//お嬢様ロング(尾)=
-//お嬢様ロング(尾伸)=
+お嬢様ロング(伸)=Lady's Long (Straight)
+お嬢様ロング(前)=Lady Long (Front)
+お嬢様ロング(下)=Lady's Long (Bottom)
+お嬢様ロング(結)=Ojousama Long (Tie)
+お嬢様ロング(後伸)=Lady Long (Back Extend)
+お嬢様ロング(尾)=Lady Long (Tail)
+お嬢様ロング(尾伸)=Lady's Long (Tail Extend)
 
 // chara/long_sidetail_l.unity3d
-//ロングサイドテール(左伸)=
-//リボンなしロングサイド(左伸)=
-//ロングサイドテール(左前)=
-//ロングサイドテール(左下)=
-//ロングサイドテール(左後伸)=
-//ロングサイドテール(左尾)=
-//ロングサイドテール(左尾伸)=
-//ロングサイドテール(左バンド)=
-//リボンなしロングサイド(左バンド)=
+ロングサイドテール(左伸)=Long Side Tail (Left Extend)
+リボンなしロングサイド(左伸)=Long Side Without Ribbon (Left Extend)
+ロングサイドテール(左前)=Long Side Tail (Left Front)
+ロングサイドテール(左下)=Long Side Tail (Left Bottom)
+ロングサイドテール(左後伸)=Long Side Tail (Left Back Extend)
+ロングサイドテール(左尾)=Long Side Tail (Left Tail)
+ロングサイドテール(左尾伸)=Long Side Tail (Left Tail Extend)
+ロングサイドテール(左バンド)=Long Side Tail (Left Band)
+リボンなしロングサイド(左バンド)=Long Side Without Ribbon (Left Band)
 
 // chara/long_sidetail_r.unity3d
-//ロングサイドテール(右伸)=
-//リボンなしロングサイド(右伸)=
-//ロングサイドテール(右前)=
-//ロングサイドテール(右下)=
-//ロングサイドテール(右後伸)=
-//ロングサイドテール(右尾)=
-//ロングサイドテール(右尾伸)=
-//ロングサイドテール(右バンド)=
-//リボンなしロングサイド(右バンド)=
+ロングサイドテール(右伸)=Long Side Tail (Right Extend)
+リボンなしロングサイド(右伸)=Long Side Without Ribbon (Right Extend)
+ロングサイドテール(右前)=Long Side Tail (Right Front)
+ロングサイドテール(右下)=Long Side Tail (Right Bottom)
+ロングサイドテール(右後伸)=Long Side Tail (Right Back Extend)
+ロングサイドテール(右尾)=Long Side Tail (Right Tail)
+ロングサイドテール(右尾伸)=Long Side Tail (Right Tail Extend)
+ロングサイドテール(右バンド)=Long Side Tail (Right Band)
+リボンなしロングサイド(右バンド)=Long Side Without Ribbon (Right band)
 
 // chara/sidetail_l.unity3d
-//サイドテール(左伸)=
-//サイドテール(左基)=
-//サイドテール(左尾)=
-//サイドテール(左尾伸)=
-//サイドテール(左バンド)=
+サイドテール(左伸)=Side Tail (Left Extend)
+サイドテール(左基)=Side Tail (Left Base)
+サイドテール(左尾)=Side Tail (Left Tail)
+サイドテール(左尾伸)=Side Tail (Left Tail Extend)
+サイドテール(左バンド)=Side Tail (Left Band)
 
 // chara/sidetail_r.unity3d
-//サイドテール(右伸)=
-//サイドテール(右基)=
-//サイドテール(右尾)=
-//サイドテール(右尾伸)=
-//サイドテール(右バンド)=
+サイドテール(右伸)=Side Tail (Right Extend)
+サイドテール(右基)=Side Tail (Right Base)
+サイドテール(右尾)=Side Tail (Right Tail)
+サイドテール(右尾伸)=Side Tail (Right Tail Extend)
+サイドテール(右バンド)=Side Tail (Right Band)
 
 // chara/volume_ponytail.unity3d
-//ボリュームポニーテール(伸)=
-//ボリュームポニーテール(基)=
-//ボリュームポニーテール(尾)=
-//ボリュームポニーテール(尾伸)=
-//ボリュームポニーテール(バンド)=
+ボリュームポニーテール(伸)=Volume Ponytail (Extend)
+ボリュームポニーテール(基)=Volume Ponytail (Base)
+ボリュームポニーテール(尾)=Volume Ponytail (Tail)
+ボリュームポニーテール(尾伸)=Volume Ponytail (Tail Extend)
+ボリュームポニーテール(バンド)=Volume Ponytail (Band)
 
 // chara/dak/ao_head_01.unity3d
 [dak]キツネ耳(ふさ小)=[dak]Fox Ears (full small)
@@ -309,7 +309,7 @@ HM男主发型=HM male head shape
 // chara/Sen3_hair.unity3d
 闪轨皇太子=Beaming Prince
 //黎恩的发型=发型黎恩的
-//库尔特发型=
+库尔特发型=Kurt haircut
 //尤西斯发型=Youxiang发型
 //学生的发型=Student发型
 //艾伦的发型=艾伦发型
@@ -395,7 +395,7 @@ AI耳=AI Ears
 太陽神ソルス[SAO]=Solus, God of the Sun[SAO].
 
 // chara/mf_vladilena_milize_head01.unity3d
-//レーナ[86-EIGHTY SIX-]=
+レーナ[86-EIGHTY SIX-]=Raina [86-EIGHTY SIX-]
 
 // chara/_kero/ao_hairband_NT.unity3d
 ヘアバンド（ツヤあり）=Hair band (shiny)

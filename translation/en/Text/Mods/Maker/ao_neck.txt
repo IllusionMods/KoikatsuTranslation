@@ -37,7 +37,7 @@
 太陽神ソルス[SAO]=Solus, God of the Sun[SAO].
 
 // chara/mf_vladilena_milize_neck.unity3d
-//レーナ[86-EIGHTY SIX-]=
+レーナ[86-EIGHTY SIX-]=Raina [86-EIGHTY SIX-]
 
 // chara/ao_neck_nkt01.unity3d
 ルーズネックリボン１=Loose neck ribbon 1
@@ -52,7 +52,7 @@
 マフラー無地（WBAccs）=Scarf plain (WBAccs)
 
 // chara/roie/roie_scarf.unity3d
-//マフラー無地=
+マフラー無地=Scarf Plain
 
 // chara/ao_neck_xmas.unity3d
 クリスマスベル=Christmas Bells

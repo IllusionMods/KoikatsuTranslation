@@ -33,7 +33,7 @@ Maハイローショーツ=Ma High-Low Panties
 ランニングショーツ=Running Shorts
 
 // chara/mf_vladilena_milize_shorts.unity3d
-//レーナ[86-EIGHTY SIX-]=
+レーナ[86-EIGHTY SIX-]=Raina [86-EIGHTY SIX-]
 
 // chara/_kero/cpo_shimakazeS_NT_00.unity3d
 エンブレムシール(下)UV変更=Emblem sticker (bottom) UV change
@@ -69,22 +69,22 @@ Maハイローショーツ=Ma High-Low Panties
 ショーツ10=Panties 10
 
 // chara/nashi/ns_shorts_ver1.unity3d
-//シーム無しリボンショーツ ver1=
-//透けシーム無しリボンショーツ ver1=
-//シーム無しレーストップショーツ ver1=
-//透けシーム無しレーストップショーツ ver1=
-//ショーツ1 ver1=
-//ショーツ1シーム無し ver1=
-//ショーツ2 ver1=
-//ショーツ2シーム無し ver1=
-//ショーツ3 ver1=
-//ショーツ3シーム無し ver1=
-//ショーツ4 ver1=
-//ショーツ4シーム無し ver1=
-//ショーツ5 ver1=
-//ショーツ5シーム無し ver1=
-//ショーツ6 ver1=
-//ショーツ6シーム無し ver1=
+シーム無しリボンショーツ ver1=Ribbon Panties no seam ver1
+透けシーム無しリボンショーツ ver1=Transparent Ribbon Panties no seam ver1
+シーム無しレーストップショーツ ver1=Lace Top Panties no seam ver1
+透けシーム無しレーストップショーツ ver1=Transparent Lace Top Panties no seam ver1
+ショーツ1 ver1=Panties 1 ver1
+ショーツ1シーム無し ver1=Panties 1 no seam ver1
+ショーツ2 ver1=Panties 2 ver1
+ショーツ2シーム無し ver1=Panties 2 no seam ver1
+ショーツ3 ver1=Panties 3 ver1
+ショーツ3シーム無し ver1=Panties 3 no seam ver1
+ショーツ4 ver1=Panties 4 ver1
+ショーツ4シーム無し ver1=Panties 4 no seam ver1
+ショーツ5 ver1=Panties 5 ver1
+ショーツ5シーム無し ver1=Panties 5 no seam ver1
+ショーツ6 ver1=Panties 6 ver1
+ショーツ6シーム無し ver1=Panties 6 no seam ver1
 
 // chara/nashi/ns_shorts_zuri.unity3d
 ずらしショーツ=Sliding Panties

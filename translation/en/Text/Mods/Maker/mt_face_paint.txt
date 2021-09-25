@@ -164,7 +164,7 @@
 三本キズ=Triple Scars
 
 // chara/ymd/mf_fpaint.unity3d
-//鼻影_=
+鼻影_=Nose Shadow_
 鼻４=nose 4
 鼻筋=nasal stripe
 鼻影=shadow of nose

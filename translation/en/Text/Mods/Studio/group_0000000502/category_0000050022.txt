@@ -17,7 +17,7 @@
 低木1=Shrub 1
 低木2=Shrub 2
 低木3=Shrub 3
-//生垣ブロック=
+生垣ブロック=Hedge block
 生垣サークル=Hedge circle
 芝=Shiba
 草原=Grass
@@ -35,7 +35,7 @@
 観葉植物=Ornamental plants
 花 アスター=Flower Asters
 花びら アスター=Flower petal Asters
-//花 アマリリス=
+花 アマリリス=Flower Amaryllis
 花びら アマリリス=Petals Amaryllis
 花 キショウブ=Flowering plant Kisshoubu
 花びら キショウブ=Flower petal Rhododendron
@@ -50,7 +50,7 @@
 花 ナデシコ=Flower: Nadeshiko
 花びら ナデシコ=Flower petal NADESHIKO
 花 バラ=Flower Roses
-//花びら バラ=
+花びら バラ=Rose Petals
 花びら バラ 色可変=Petals rose Variable color
 花 マリーゴールド=Flower Marigold
 花びら マリーゴールド=Petal Marigold
@@ -64,14 +64,14 @@
 花 チューリップ=Flower Tulip
 花 ガーベラ=Flower Gerbera
 花 アンスリウム白=Flower Anthurium white
-//花 アンスリウム赤=
-//花 サルビア=
+花 アンスリウム赤=Flower Anthurium Red
+花 サルビア=Salvia Flower
 花 リナリア プルプレア=Flower Linaria Purpurea
 じょうろ=Watering can
-//プランター1=
-//プランター2=
+プランター1=Planter 1
+プランター2=Planter 2
 土袋=Soil bag
 花瓶=Flower vase
 瓶1=Vase 1
 瓶2=Vase 2
-//瓶3=
+瓶3=Vase 3

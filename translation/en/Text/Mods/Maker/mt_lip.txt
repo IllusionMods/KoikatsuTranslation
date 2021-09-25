@@ -3,14 +3,14 @@
 //
 
 // chara/breakthrough/mt_lip.unity3d
-//タイプい=
-//タイプろ=
-//タイプは=
-//タイプに=
-//タイプほ=
-//タイプへ=
-//タイプと=
-//タイプち=
+タイプい=Type い
+タイプろ=Type ろ
+タイプは=Type は
+タイプに=Type に
+タイプほ=Type ほ
+タイプへ=Type へ
+タイプと=Type と
+タイプち=Type ち
 
 // chara/_kero/mt_lip_NT.unity3d
 タイプ１（下唇のみ）=Type 1 (Lower Lip Only)

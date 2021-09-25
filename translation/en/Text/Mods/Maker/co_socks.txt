@@ -11,7 +11,7 @@
 
 // chara/mt_pattern_KA.unity3d
 贵族腰带=Women's waistband
-//贵族护臂=
+贵族护臂=Noble Armguard
 
 // chara/_mods/Gal_03.unity3d
 もっとルーズソックス=More Loose Socks
@@ -35,7 +35,7 @@
 網ニーソックス=Netted Kneesocks
 
 // chara/mf_vladilena_milize_socks.unity3d
-//レーナ[86-EIGHTY SIX-]=
+レーナ[86-EIGHTY SIX-]=Raina [86-EIGHTY SIX-]
 
 // chara/_kero/co_NailGloves_NT_01_alt.unity3d
 ネイルチップ（Ｓ）=Nail Tip (S)

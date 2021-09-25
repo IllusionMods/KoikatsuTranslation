@@ -60,7 +60,7 @@
 シノン(ケットシー)[SAO]=Sinon(Ketsee)[SAO][SAO
 
 // chara/mf_vladilena_milize_waist.unity3d
-//レーナ[86-EIGHTY SIX-]=
+レーナ[86-EIGHTY SIX-]=Raina [86-EIGHTY SIX-]
 
 // chara/nakay/ao_waist_osk00.unity3d
 オーバースカート・プリーツＡ=Overskirt Pleats A

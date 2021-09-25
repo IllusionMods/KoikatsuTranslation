@@ -24,7 +24,7 @@ HS2贵族风衣=HS2 Dress
 整合騎士の鎧[アリス][SAO]=Matching Knight's Armor [Alice][SAO]
 
 // chara/mf_vladilena_milize_top03.unity3d
-//レーナ[86-EIGHTY SIX-]=
+レーナ[86-EIGHTY SIX-]=Raina [86-EIGHTY SIX-]
 
 // chara/nakay/cpo_jacket_c_nkt00.unity3d
 ルーズリボン１=Loose ribbon 1
@@ -45,7 +45,7 @@ HS2贵族风衣=HS2 Dress
 クリスマスポンチョ_atago=Christmas poncho-atago
 
 // chara/nashi/ns_cape_takao.unity3d
-//クリスマスポンチョ_takao=
+クリスマスポンチョ_takao=Christmas poncho - takao
 
 // chara/nashi/ns_cape.unity3d
 クリスマスポンチョ-Lamretta=Christmas Poncho-Lamretta

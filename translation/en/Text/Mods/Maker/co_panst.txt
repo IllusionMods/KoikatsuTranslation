@@ -29,23 +29,23 @@
 サイドレースレギンス=Side Lace Leggings
 
 // chara/nam/co_taisoufuku_bot_00.unity3d
-//ブルマ1A=
-//ブルマ1B=
-//ブルマ2A=
-//ブルマ2B=
-//ブルマ3A=
-//ブルマ3B=
+ブルマ1A=Bloomers 1A
+ブルマ1B=Bloomers 1B
+ブルマ2A=Bloomers 2A
+ブルマ2B=Bloomers 2B
+ブルマ3A=Bloomers 3A
+ブルマ3B=Bloomers 3B
 
 // chara/ymgpt/ymgpt_co_gloves_long01_lr_alt.unity3d
 長手袋(L)=Long Glove(L)
 長手袋(R)=Long Glove(R)
 
 // chara/mt_pattern_KA.unity3d
-//贵族护臂=
+贵族护臂=Noble Armguards
 贵族腰带=Women's waistband
 
 // chara/mt_pattern_ZZ.unity3d
-//军服腰带=
+军服腰带=Military uniform waistband
 
 // chara/mt_pattern_SP.unity3d
 王子服束腰=Prince's uniform
@@ -97,7 +97,7 @@
 アイドルショルダー=Idol Shoulder
 
 // chara/Matne/matne_panst_00.unity3d
-//チア用アンダースコート=
+チア用アンダースコート=Cheerleading Underskirt
 
 // chara/mm/buruma.unity3d
 ブルマ=Bloomers
@@ -115,7 +115,7 @@
 創世神ステイシア[SAO]=God of Creation Stacia [SAO][SAO
 
 // chara/mf_vladilena_milize_panst.unity3d
-//レーナ[86-EIGHTY SIX-]=
+レーナ[86-EIGHTY SIX-]=Raina [86-EIGHTY SIX-]
 
 // chara/_kero/co_gloves_NT_02.unity3d
 レア用手袋=Gloves for Rare

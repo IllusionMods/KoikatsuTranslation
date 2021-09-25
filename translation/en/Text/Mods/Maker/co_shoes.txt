@@ -3,10 +3,10 @@
 //
 
 // chara/anse/anse_blucher.unity3d
-//プレーントゥ外羽根=
+プレーントゥ外羽根=Plain toe outer feather
 
 // chara/anse/anse_rain_boots.unity3d
-//あんせ長靴=
+あんせ長靴=Safety Boots
 
 // chara/deathweasel/ec_items.unity3d
 ヴァルキリーグリーヴ=Valkyrie Greaves
@@ -94,7 +94,7 @@ AI牛津皮鞋=AI leather shoes
 太陽神ソルス[SAO]=Solus, God of the Sun[SAO].
 
 // chara/mf_vladilena_milize_shoes.unity3d
-//レーナ[86-EIGHTY SIX-]=
+レーナ[86-EIGHTY SIX-]=Raina [86-EIGHTY SIX-]
 
 // chara/qinxiezi.unity3d
 //琴鞋子=Koto鞋子
@@ -139,4 +139,4 @@ wen夜夜=WEN Night Night
 ブーツ=Boots
 
 // chara/xz.unity3d
-//卡莲南瓜鞋子=
+卡莲南瓜鞋子=Karin Pumpkin Shoes

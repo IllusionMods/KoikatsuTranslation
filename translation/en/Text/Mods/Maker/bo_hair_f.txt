@@ -54,7 +54,7 @@
 シノン[SAO]=Sinon [SAO][SAO
 
 // chara/mf_vladilena_milize_hair_f.unity3d
-//レーナ[86-EIGHTY SIX-]=
+レーナ[86-EIGHTY SIX-]=Raina [86-EIGHTY SIX-]
 
 // chara/sagiri/sagiri_hair_f.unity3d
 紗霧=Sagiri

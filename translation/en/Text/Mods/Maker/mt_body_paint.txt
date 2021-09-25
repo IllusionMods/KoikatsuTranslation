@@ -46,18 +46,18 @@
 左手2=Left hand 2
 
 // chara/MCT.unity3d
-//魔法陣01=
-//魔法陣02=
-//魔法陣03=
-//魔法陣04=
-//魔法陣05=
-//魔法陣06=
-//魔法陣07=
-//魔法陣08=
-//魔法陣09=
-//魔法陣10=
-//魔法陣11=
-//魔法陣12=
+魔法陣01=Magic circle 01
+魔法陣02=Magic circle 02
+魔法陣03=Magic circle 03
+魔法陣04=Magic circle 04
+魔法陣05=Magic circle 05
+魔法陣06=Magic circle 06
+魔法陣07=Magic circle 07
+魔法陣08=Magic circle 08
+魔法陣09=Magic circle 09
+魔法陣10=Magic circle 10
+魔法陣11=Magic circle 11
+魔法陣12=Magic circle 12
 
 // chara/mt_underhair_01.unity3d
 四角=Rectangular

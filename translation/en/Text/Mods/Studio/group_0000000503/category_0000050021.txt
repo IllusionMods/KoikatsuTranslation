@@ -44,8 +44,8 @@
 鉤爪=Claw
 大剣=Large Sword
 戦槌=Battle
-//鎌１=
-//鎌２=
+鎌１=Sickle 1
+鎌２=Sickle 2
 杖 １=Cane １
 杖 ２=Cane ２
 本=Book

@@ -3,7 +3,7 @@
 //
 
 // chara/mf_vladilena_milize_hair_o.unity3d
-//レーナ[86-EIGHTY SIX-]=
+レーナ[86-EIGHTY SIX-]=Raina [86-EIGHTY SIX-]
 
 // chara/mod/mod_eden_vb.unity3d
 シングルカール_エデンVB=Single Curl_Eden VB

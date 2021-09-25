@@ -3,19 +3,19 @@
 //
 
 // chara/anse/anse_curtain_sailor.unity3d
-//乳カーテンセーラー=
+乳カーテンセーラー=Breast Curtain Sailor
 
 // chara/anse/anse_curtain_sailor_l.unity3d
-//乳カーテンセーラー巨乳=
+乳カーテンセーラー巨乳=Breast Curtain Sailor \w Big Breasts
 
 // chara/anse/anse_curtain_sailor_s.unity3d
-//乳カーテンセーラー貧乳=
+乳カーテンセーラー貧乳=Breast Curtain Sailor \w Small Breasts
 
 // chara/anse/anse_tent_sailor.unity3d
-//長袖テントセーラー(袖フリル)=
+長袖テントセーラー(袖フリル)=Long Sleeve Tent Sailor (Sleeve Frill)
 
 // chara/anse/anse_short_tent_sailor.unity3d
-//脇見せセーラー=
+脇見せセーラー=Sailor with side show
 
 // chara/_mods/eva.unity3d
 第3新東京市立第壱中学校制服=Daiichi Junior High School Uniform
@@ -30,13 +30,13 @@
 島風ボタンなし=Shimakaze No Button
 
 // chara/Matne/matne_sailor_a_00.unity3d
-//タイプ５改（半袖カフスなし）=
-//タイプ５改（長袖カフスなし）=
-//セーラーノースリーブ=
-//タイプ５改（袖ラインなし）=
+タイプ５改（半袖カフスなし）=Type 5 modified (without short sleeve cuffs)
+タイプ５改（長袖カフスなし）=Type 5 modified (without long sleeve cuffs)
+セーラーノースリーブ=Sailor Sleeveless
+タイプ５改（袖ラインなし）=Type 5 modified (without sleeve line)
 
 // chara/Matne/matne_sailor_a_01.unity3d
-//タイプ５改（長袖ラインなし）=
+タイプ５改（長袖ラインなし）=Type 5 modified (without long sleeve line)
 
 // chara/_kero/cpo_shimakazeS_NT_00.unity3d
 島風ショート=Shimakaze Short

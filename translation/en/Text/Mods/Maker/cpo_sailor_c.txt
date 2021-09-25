@@ -9,7 +9,7 @@
 島風=Shimakaze
 
 // chara/Matne/matne_sailor_bc_00.unity3d
-//タイプ４改=
+タイプ４改=Type 4 modified 
 
 // chara/11/cpo_jacket_ab_00_atago.unity3d
 ワイシャツ・カーディガン_atago=Shirts & Cardigans_atago
