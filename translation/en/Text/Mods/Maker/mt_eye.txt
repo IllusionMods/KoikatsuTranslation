@@ -1,9 +1,9 @@
 //
-// Dumped for Koikatsu v5.1 by Mod Text Dump v0.0.1: 2021-05-25
+// Dumped for Koikatsu v5.1 by Mod Text Dump v0.6.0
 //
 
 // chara/mt_eye_00.unity3d
-タイプ１=Pattern 1
+タイプ１=Type 1
 
 // chara/noa/noa_eye.unity3d
 乃愛=Noa

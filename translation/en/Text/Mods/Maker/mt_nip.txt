@@ -1,6 +1,32 @@
 //
-// Dumped for Koikatsu v5.1 by Mod Text Dump v0.0.1: 2021-05-25
+// Dumped for Koikatsu v5.1 by Mod Text Dump v0.6.0
 //
+
+// chara/nam/mt_inverted_nip_00.unity3d
+//陥没乳首1A=
+//陥没乳首1B=
+//陥没乳首1C=
+//陥没乳首1D=
+//陥没乳首1E=
+//陥没乳首1F=
+//陥没乳首2A=
+//陥没乳首2B=
+//陥没乳首2C=
+//陥没乳首2D=
+//陥没乳首2E=
+//陥没乳首2F=
+//陥没乳首3A=
+//陥没乳首3B=
+//陥没乳首3C=
+//陥没乳首3D=
+//陥没乳首3E=
+//陥没乳首3F=
+//陥没乳首4A=
+//陥没乳首4B=
+//陥没乳首4C=
+//陥没乳首4D=
+//陥没乳首4E=
+//陥没乳首4F=
 
 // chara/nashi/mt_nip_00.unity3d
 Clochette乳首1=Clochette nipple 1
@@ -21,7 +47,7 @@ Clochette乳首7=Clochette Nipple7
 パフィー=Puffy
 エロマンガ=Erotic Manga
 スター=Star
-ハート=Pattern 9
+ハート=Heart
 
 // chara/phmod/mt_nip_PH2.unity3d
 リアル１落書き=Real 1 Doodle

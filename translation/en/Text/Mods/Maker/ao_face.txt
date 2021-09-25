@@ -1,9 +1,6 @@
 //
-// Dumped for Koikatsu v5.1 by Mod Text Dump v0.0.1: 2021-05-25
+// Dumped for Koikatsu v5.1 by Mod Text Dump v0.6.0
 //
-
-// chara/mod_GN/mf_acchairF_GN.unity3d
-hairF pequeño=hairF pequeño
 
 // chara/deathweasel/acc_bo_hair_f_00.unity3d
 ストレート(左)=Straight (L)
@@ -14,23 +11,23 @@ hairF pequeño=hairF pequeño
 ストレート(右) A=Straight (R) A
 ストレート(右) B=Straight (R) B
 ストレート(右) C=Straight (R) C
-横はねカール(左)=Side Curl (Left)
+横はねカール(左)=Swept-Out Curl (L)
 横はねカール(左) A=Swept-Out Curl (L) A
 横はねカール(左) B=Swept-Out Curl (L) B
 横はねカール(左) C=Swept-Out Curl (L) C
 横はねカール(左) D=Swept-Out Curl (L) D
-横はねカール(右)=Side Curl (Right)
+横はねカール(右)=Swept-Out Curl (R)
 横はねカール(右) A=Swept-Out Curl (R) A
 横はねカール(右) B=Swept-Out Curl (R) B
 横はねカール(右) C=Swept-Out Curl (R) C
 横はねカール(右) D=Swept-Out Curl (R) D
-姫カット(左)=Princess (Left)
+姫カット(左)=Princess Cut (L)
 姫カット(左) A=Princess Cut (L) A
 姫カット(左) B=Princess Cut (L) B
 姫カット(左) C=Princess Cut (L) C
 姫カット(左) D=Princess Cut (L) D
 姫カット(左) E=Princess Cut (L) E
-姫カット(右)=Princess (Right)
+姫カット(右)=Princess Cut (R)
 姫カット(右) A=Princess Cut (R) A
 姫カット(右) B=Princess Cut (R) B
 姫カット(右) C=Princess Cut (R) C
@@ -62,25 +59,25 @@ M字バング(右)=M-Shaped Bangs (R)
 前おさげ(右)=Twintail Bangs (R)
 縦巻きロール(左)=Drill Rolls (L)
 縦巻きロール(右)=Drill Rolls (R)
-横分けぱっつん(左)=Side-parted Straight Bangs (Left)
-横分けぱっつん(右)=Side-parted Straight Bangs (Right)
-片目隠し(左)=Over-eye (Left)
-片目隠し(右)=Over-eye (Right)
+横分けぱっつん(左)=Parted Trimmed Bangs (L)
+横分けぱっつん(右)=Parted Trimmed Bangs (R)
+片目隠し(左)=Covering Eye (L)
+片目隠し(右)=Covering Eye (R)
 ボーイッシュ(左)=Tomboy (L)
 ボーイッシュ(右)=Tomboy (R)
-横流しヘア（右)=Side-swept (Right)
-横流しヘア(左)=Side-swept (Left)
-アイドルカット(左)=Idol (Left)
-アイドルカット（右)=Idol (Right)
-でこだし=Exposed Forehead
-でこだしウェーブ=Exposed Forehead Wavy
-カーブきのこ=Curved Mushroom-cut
-でこだし横流し(左)=Side-swept Exposed Forehead (Left)
-でこだし横流し(右)=Side-swept Exposed Forehead (Right)
-M字バングストレート(左)=Straight M-shaped Bangs (Left)
-M字バングストレート(右)=Straight M-shaped Bangs (Right)
-横分けヘア(左)=Side-parting (Left)
-横分けヘア(右)=Side-parting (Right)
+横流しヘア（右)=Sideswept (R)
+横流しヘア(左)=Sideswept (L)
+アイドルカット(左)=Idol Cut (L)
+アイドルカット（右)=Idol Cut (R)
+でこだし=Forehead-Showing
+でこだしウェーブ=Wavy Forehead-Showing
+カーブきのこ=Curved Mushroom
+でこだし横流し(左)=Forehead-Showing Sideswept (L)
+でこだし横流し(右)=Forehead-Showing Sideswept (R)
+M字バングストレート(左)=M-Shaped Straight Bangs (L)
+M字バングストレート(右)=M-Shaped Straight Bangs (R)
+横分けヘア(左)=Sideswept Parted (L)
+横分けヘア(右)=Sideswept Parted (R)
 切りっぱなし(左)=Untrimmed (L)
 切りっぱなし(左) A=Untrimmed (L) A
 切りっぱなし(左) B=Untrimmed (L) B
@@ -109,25 +106,25 @@ M字バングストレート(右)=Straight M-shaped Bangs (Right)
 ウェーブロング(右) E=Wavy Long (R) E
 ウェーブロング(右) F=Wavy Long (R) F
 ウェーブロング(右) G=Wavy Long (R) G
-前下がりボブ(左)=Angled Bob (Left)
+前下がりボブ(左)=Low Parted Bob (L)
 前下がりボブ(左) A=Low Parted Bob (L) A
 前下がりボブ(左) B=Low Parted Bob (L) B
 前下がりボブ(左) C=Low Parted Bob (L) C
 前下がりボブ(左) D=Low Parted Bob (L) D
 前下がりボブ(左) E=Low Parted Bob (L) E
-前下がりボブ(右)=Angled Bob (Right)
+前下がりボブ(右)=Low Parted Bob (R)
 前下がりボブ(右) A=Low Parted Bob (R) A
 前下がりボブ(右) B=Low Parted Bob (R) B
 前下がりボブ(右) C=Low Parted Bob (R) C
 前下がりボブ(右) D=Low Parted Bob (R) D
 前下がりボブ(右) E=Low Parted Bob (R) E
-中分ヘア(左)=Middle Parting (Left)
+中分ヘア(左)=Even Split (L)
 中分ヘア(左) A=Even Split (L) A
 中分ヘア(左) B=Even Split (L) B
 中分ヘア(左) C=Even Split (L) C
 中分ヘア(左) D=Even Split (L) D
 中分ヘア(左) E=Even Split (L) E
-中分ヘア(右)=Middle Parting (Right)
+中分ヘア(右)=Even Split (R)
 中分ヘア(右) A=Even Split (R) A
 中分ヘア(右) B=Even Split (R) B
 中分ヘア(右) C=Even Split (R) C
@@ -151,27 +148,27 @@ M字バングストレート(右)=Straight M-shaped Bangs (Right)
 おかっぱ(右) G=Bobbed (R) G
 
 // chara/deathweasel/acc_bo_hair_f_06.unity3d
-ハネぱっつん=Straight-bangs with a Flick
+ハネぱっつん=Straight Bangs, Swept Up
 
 // chara/deathweasel/acc_bo_hair_f_08.unity3d
-ぱっつんエアインテーク=Straight-bangs with M-shape
+ぱっつんエアインテーク=Straight-Cut, Air Intake
 
 // chara/deathweasel/acc_bo_hair_f_09.unity3d
 ナイトバング=Knight Bangs
 
 // chara/deathweasel/acc_bo_hair_f_10.unity3d
-ゆるふわボブ前=Fluffy Bob (front)
-くせっ毛ショート前=Curly Short (front)
-中分けぱっつん=Straight-bangs Middle Parting
+ゆるふわボブ前=Loose Fluffy Bobbed Bangs
+くせっ毛ショート前=Short, Curled Bangs
+中分けぱっつん=Medium Straight-Cut Bangs
 中分けぱっつん A=Medium Straight-Cut Bangs A
 中分けぱっつん B=Medium Straight-Cut Bangs B
 
 // chara/deathweasel/acc_bo_hair_f_11.unity3d
 ウェーブショート=Wavy Short
-アップバング=Raised Bangs
+アップバング=Upward Swept Bangs
 
 // chara/deathweasel/acc_bo_hair_f_12.unity3d
-でこジャギー=Jagged Short Bangs
+でこジャギー=Jagged Forehead
 でこジャギー A=Jagged Forehead A
 でこジャギー B=Jagged Forehead B
 でこジャギー C=Jagged Forehead C
@@ -179,19 +176,19 @@ M字バングストレート(右)=Straight M-shaped Bangs (Right)
 でこジャギー E=Jagged Forehead E
 でこジャギー F=Jagged Forehead F
 でこジャギー G=Jagged Forehead G
-ハネミディアム=Shoulder-length with a Flick
+ハネミディアム=Medium Bangs, Swept Up
 ハネミディアム A=Medium Bangs, Swept Up A
 ハネミディアム B=Medium Bangs, Swept Up B
 ハネミディアム C=Medium Bangs, Swept Up C
 ハネミディアム D=Medium Bangs, Swept Up D
 ハネミディアム E=Medium Bangs, Swept Up E
-ふわカール=Fluffy Curls
+ふわカール=Fluffy Curled
 ふわカール A=Fluffy Curled A
 ふわカール B=Fluffy Curled B
 ふわカール C=Fluffy Curled C
 ふわカール D=Fluffy Curled D
-斜めぱっつん(右)=Diagonal Bangs (Right)
-斜めぱっつん(左)=Diagonal Bangs (Left)
+斜めぱっつん(右)=Slanting Straight-Cut Bangs (Right)
+斜めぱっつん(左)=Slanting Straight-Cut Bangs (Left)
 
 // chara/deathweasel/acc_bo_hair_f_13.unity3d
 ウェーブロング=Wavy Long
@@ -199,17 +196,17 @@ M字バングストレート(右)=Straight M-shaped Bangs (Right)
 ウェーブロング B=Wavy Long B
 ウェーブロング C=Wavy Long C
 ウェーブロング D=Wavy Long D
-スパイキー前=Spiky (Front)
+スパイキー前=Spiky Bangs
 スパイキー前 A=Spiky Bangs A
 スパイキー前 B=Spiky Bangs B
 スパイキー前 D=Spiky Bangs D
 スパイキー前 E=Spiky Bangs E
-中分けミディアム=Shoulder-length Middle Parting
+中分けミディアム=Medium, Middle Parted
 中分けミディアム A=Medium, Middle Parted A
 中分けミディアム B=Medium, Middle Parted B
 中分けミディアム C=Medium, Middle Parted C
 中分けミディアム D=Medium, Middle Parted D
-サイドカール=Side Curls
+サイドカール=Side Curl
 
 // chara/deathweasel/acc_bo_hair_f_20.unity3d
 横ハネ=Horizontal Wings
@@ -243,7 +240,7 @@ M字バングストレート(右)=Straight M-shaped Bangs (Right)
 横長くせっ毛 N=Horizontal Frizzy Hair N
 横長くせっ毛 O=Horizontal Frizzy Hair O
 ストレートカール前=Straight, Curled Bangs
-撫でつけ(右)=Stroked (right)
+撫でつけ(右)=Smoothed Down (Right)
 撫でつけ(左)=Smoothed Down (Left)
 
 // chara/deathweasel/acc_bo_hair_f_50.unity3d
@@ -295,19 +292,19 @@ M字バングストレート(右)=Straight M-shaped Bangs (Right)
 ドッグイヤー=Dog-Eared
 
 // chara/deathweasel/acc_bo_hair_s.unity3d
-ほそロング=thin long
+ほそロング=Fine And Long
 ほそロング R=Fine And Long R
 ほそロング L=Fine And Long L
-おさげ=Pigtail
+おさげ=Twintails
 おさげ R=Twintails R
 おさげ L=Twintails L
 太い=Thick
 太い R=Thick R
 太い L=Thick L
-ふとロング=Futo Long
+ふとロング=Thick And Long
 ふとロング R=Thick And Long R
 ふとロング L=Thick And Long L
-はねロング=Flick Long
+はねロング=Feathered Long
 はねロング R=Feathered Long R
 はねロング L=Feathered Long L
 ウェーブロング R=Wavy Long R
@@ -323,16 +320,6 @@ M字バングストレート(右)=Straight M-shaped Bangs (Right)
 ぷらいどショート=Puraidoh Short
 すまいるアシメ(右)=Sumire Asime (Right)
 すまいるアシメ(左)=Sumai Asime (Left)
-
-// chara/bang_m.unity3d
-M字バング=M-shaped Bangs
-M字バング(前)=M-bang (Front)
-M字バング(中央)=M-Square Bang(Center)
-M字バング(左内)=M-Square Bang(Inner Left)
-M字バング(右内)=M-Square Bang(Inner Right)
-M字バング(左外)=M-Square Bang(Outside Left)
-M字バング(右外)=M-Bang (Outside Right)
-M字バング(両外)=M-Square Bang(Both Outside)
 
 // chara/curve_kinoko.unity3d
 カーブきのこ(中央)=Curved Mushroom(Center)
@@ -379,6 +366,13 @@ M字バング(両外)=M-Square Bang(Both Outside)
 
 // chara/koi_ao_face_00.unity3d
 狐の面=Fox Mask
+
+// chara/sak_acc_bo_hair_f_50.unity3d
+//SAK中分けデコ出し=
+
+// chara/zeta/sunshineacc.unity3d
+//Sunshine FH 2 - �؂葵���A�V�����g���o���O=Sunshine fh 2-؂ 葵 v v � � �
+//Sunshine FH 6 - �؂葵���T�C�h�J�[��=
 
 // chara/xne/xne_ao_accmask.unity3d
 マスク改（フェラ）=Mask Revision (Blow)

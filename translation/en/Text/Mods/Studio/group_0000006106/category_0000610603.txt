@@ -1,13 +1,12 @@
 //
-// Dumped for Koikatsu v5.1 by Mod Text Dump v0.0.1: 2021-05-25
-// #set exe CharaStudio
+// Dumped for Koikatsu v5.0 by Mod Text Dump v0.6.0
 //
 
 #set exe CharaStudio
 
 
 // studio/item_muchi_nkt.unity3d
-乗馬鞭１=Riding Whip 1
-乗馬鞭２=Riding Whip 2
-バラ鞭１=Rose Whip 1
-バラ鞭２=Rose Whip 2
+乗馬鞭１=Riding whip 1
+乗馬鞭２=Riding whip 2
+バラ鞭１=Rose whip 1
+バラ鞭２=Rose whip 2

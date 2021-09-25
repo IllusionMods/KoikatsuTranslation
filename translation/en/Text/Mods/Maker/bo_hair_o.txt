@@ -1,6 +1,9 @@
 //
-// Dumped for Koikatsu v5.1 by Mod Text Dump v0.0.1: 2021-05-25
+// Dumped for Koikatsu v5.1 by Mod Text Dump v0.6.0
 //
+
+// chara/mf_vladilena_milize_hair_o.unity3d
+//レーナ[86-EIGHTY SIX-]=
 
 // chara/mod/mod_eden_vb.unity3d
 シングルカール_エデンVB=Single Curl_Eden VB

@@ -1,5 +1,5 @@
 //
-// Dumped for Koikatsu v5.1 by Mod Text Dump v0.0.1: 2021-05-25
+// Dumped for Koikatsu v5.1 by Mod Text Dump v0.6.0
 //
 
 // chara/deathweasel/ec_items.unity3d
@@ -11,7 +11,7 @@
 
 // chara/mt_pattern_KA.unity3d
 贵族腰带=Women's waistband
-贵族护臂=贵族护臂
+//贵族护臂=
 
 // chara/_mods/Gal_03.unity3d
 もっとルーズソックス=More Loose Socks
@@ -32,7 +32,10 @@
 アイドルショルダー=Idol Shoulder
 
 // chara/co_socks_01.unity3d
-網ニーソックス=Fishnet Knee Socks
+網ニーソックス=Netted Kneesocks
+
+// chara/mf_vladilena_milize_socks.unity3d
+//レーナ[86-EIGHTY SIX-]=
 
 // chara/_kero/co_NailGloves_NT_01_alt.unity3d
 ネイルチップ（Ｓ）=Nail Tip (S)
@@ -92,3 +95,7 @@ wen妖精=wen Fairy
 長めのニーソ=Longer Knee Socks
 長めのニーソ 二色分け=Longer Knee Socks Two-Color
 長めのニーソ 網=Longer Knee Socks Net
+
+// chara/co_bot_00.unity3d
+ショートパンツ=Short Pants
+ホットパンツ=Hotpants

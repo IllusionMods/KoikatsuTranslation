@@ -1,6 +1,21 @@
 //
-// Dumped for Koikatsu v5.1 by Mod Text Dump v0.0.1: 2021-05-25
+// Dumped for Koikatsu v5.1 by Mod Text Dump v0.6.0
 //
+
+// chara/anse/anse_curtain_sailor.unity3d
+//乳カーテンセーラー=
+
+// chara/anse/anse_curtain_sailor_l.unity3d
+//乳カーテンセーラー巨乳=
+
+// chara/anse/anse_curtain_sailor_s.unity3d
+//乳カーテンセーラー貧乳=
+
+// chara/anse/anse_tent_sailor.unity3d
+//長袖テントセーラー(袖フリル)=
+
+// chara/anse/anse_short_tent_sailor.unity3d
+//脇見せセーラー=
 
 // chara/_mods/eva.unity3d
 第3新東京市立第壱中学校制服=Daiichi Junior High School Uniform
@@ -13,6 +28,15 @@
 
 // chara/sage/sagesk3.unity3d
 島風ボタンなし=Shimakaze No Button
+
+// chara/Matne/matne_sailor_a_00.unity3d
+//タイプ５改（半袖カフスなし）=
+//タイプ５改（長袖カフスなし）=
+//セーラーノースリーブ=
+//タイプ５改（袖ラインなし）=
+
+// chara/Matne/matne_sailor_a_01.unity3d
+//タイプ５改（長袖ラインなし）=
 
 // chara/_kero/cpo_shimakazeS_NT_00.unity3d
 島風ショート=Shimakaze Short

@@ -1,6 +1,9 @@
 //
-// Dumped for Koikatsu v5.1 by Mod Text Dump v0.0.1: 2021-05-25
+// Dumped for Koikatsu v5.1 by Mod Text Dump v0.6.0
 //
+
+// chara/etc.unity3d
+なし=None
 
 // chara/nam/nam_mt_pubic_hair_00.unity3d
 四角剃跡=Square Shave

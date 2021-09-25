@@ -1,6 +1,5 @@
 //
-// Dumped for Koikatsu v5.1 by Mod Text Dump v0.0.1: 2021-05-25
-// #set exe CharaStudio
+// Dumped for Koikatsu v5.0 by Mod Text Dump v0.6.0
 //
 
 #set exe CharaStudio
@@ -12,7 +11,7 @@
 タオル[FK]=Towel [FK]
 ハンカチ[FK]=Handkerchief [FK]
 花束=Bouquet
-ブライダルブーケ=Wedding Bouquet
+ブライダルブーケ=Bridal Bouquet
 バラ一輪=One Rose
 チアバトン=Cibaton
 ハリセン=Harisen
@@ -45,8 +44,8 @@
 鉤爪=Claw
 大剣=Large Sword
 戦槌=Battle
-鎌１=鎌 １
-鎌２=鎌 ２
+//鎌１=
+//鎌２=
 杖 １=Cane １
 杖 ２=Cane ２
 本=Book

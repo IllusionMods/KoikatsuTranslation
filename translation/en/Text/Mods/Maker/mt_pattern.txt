@@ -1,11 +1,11 @@
 //
-// Dumped for Koikatsu v5.1 by Mod Text Dump v0.0.1: 2021-05-25
+// Dumped for Koikatsu v5.1 by Mod Text Dump v0.6.0
 //
 
 // chara/karasu/mt_pattern_k00.unity3d
 ウサギ小=Rabbit Small
 ウサギ大=Rabbit Large
-肉球=Paw Print
+肉球=Pawprint
 蝶=Butterfly
 氷晶=Ice Crystal
 天使=Angel

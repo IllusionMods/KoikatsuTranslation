@@ -1,0 +1,17 @@
+//
+// Dumped for Koikatsu v5.0 by Mod Text Dump v0.6.0
+//
+
+#set exe CharaStudio
+
+
+// studio/Hateleite_MAP_ESTATE.unity3d
+框架=Stile and rail
+植物=Plants
+//其他道具=
+//前门=
+//后门=
+//葡萄酒桌的椅子=
+//橱柜暗门=
+//内门=
+//天空框架=

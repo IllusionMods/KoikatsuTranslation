@@ -1,15 +1,15 @@
 //
-// Dumped for Koikatsu v5.1 by Mod Text Dump v0.0.1: 2021-05-25
+// Dumped for Koikatsu v5.1 by Mod Text Dump v0.6.0
 //
 
 // chara/mt_pattern_KL.unity3d
-背心衬衣用领带=领带 for衬衣
+//背心衬衣用领带=领带 for衬衣
 
 // chara/co_shoes.unity3d
 HS2贵族风衣=HS2 Dress
 
 // chara/mt_pattern_AI.unity3d
-男领带(衬衣)=Male 领带(衬衣)
+//男领带(衬衣)=Male 领带(衬衣)
 
 // chara/Sen3_rean.unity3d
 黎恩服饰=Beach Beach Clothing
@@ -22,6 +22,9 @@ HS2贵族风衣=HS2 Dress
 
 // chara/mf_alice_v2.unity3d
 整合騎士の鎧[アリス][SAO]=Matching Knight's Armor [Alice][SAO]
+
+// chara/mf_vladilena_milize_top03.unity3d
+//レーナ[86-EIGHTY SIX-]=
 
 // chara/nakay/cpo_jacket_c_nkt00.unity3d
 ルーズリボン１=Loose ribbon 1
@@ -41,8 +44,8 @@ HS2贵族风衣=HS2 Dress
 // chara/nashi/ns_cape_atago.unity3d
 クリスマスポンチョ_atago=Christmas poncho-atago
 
+// chara/nashi/ns_cape_takao.unity3d
+//クリスマスポンチョ_takao=
+
 // chara/nashi/ns_cape.unity3d
 クリスマスポンチョ-Lamretta=Christmas Poncho-Lamretta
-
-// chara/nin/nin_jacket.unity3d
-巫女内衣=Shrine Maiden Inner

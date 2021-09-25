@@ -1,6 +1,16 @@
 //
-// Dumped for Koikatsu v5.1 by Mod Text Dump v0.0.1: 2021-05-25
+// Dumped for Koikatsu v5.1 by Mod Text Dump v0.6.0
 //
+
+// chara/breakthrough/mt_lip.unity3d
+//タイプい=
+//タイプろ=
+//タイプは=
+//タイプに=
+//タイプほ=
+//タイプへ=
+//タイプと=
+//タイプち=
 
 // chara/_kero/mt_lip_NT.unity3d
 タイプ１（下唇のみ）=Type 1 (Lower Lip Only)

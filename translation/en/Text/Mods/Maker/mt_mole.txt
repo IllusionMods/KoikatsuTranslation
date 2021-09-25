@@ -1,18 +1,18 @@
 //
-// Dumped for Koikatsu v5.1 by Mod Text Dump v0.0.1: 2021-05-25
+// Dumped for Koikatsu v5.1 by Mod Text Dump v0.6.0
 //
 
 // chara/_kero/CMS_NT_00.unity3d
-タイプ１=Pattern 1
-タイプ２=Pattern 2
-タイプ３=Pattern 3
-タイプ４=Pattern 4
-タイプ５=Pattern 5
+タイプ１=Type 1
+タイプ２=Type 2
+タイプ３=Type 3
+タイプ４=Type 4
+タイプ５=Type 5
 タイプ６=Type 6
 タイプ７=Type 7
 タイプ８=Type 8
 タイプ９=Type 9
-タイプ2=Pattern 2
+タイプ2=Type 2
 タイプＧ=Type G
 タイプＨ=Type H
 タイプＩ=Type I

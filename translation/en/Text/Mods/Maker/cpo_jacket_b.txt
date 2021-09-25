@@ -1,5 +1,5 @@
 //
-// Dumped for Koikatsu v5.1 by Mod Text Dump v0.0.1: 2021-05-25
+// Dumped for Koikatsu v5.1 by Mod Text Dump v0.6.0
 //
 
 // chara/_mods/claire2.unity3d
@@ -17,6 +17,15 @@
 // chara/anse/anse_dress.unity3d
 あんせ長袖ワンピ=Anse long-sleeved one-piece
 
+// chara/anse/anse_suspenders_long.unity3d
+//あんせサスペンダー ロング=
+
+// chara/anse/anse_suspenders_mid.unity3d
+//あんせサスペンダー ショート=
+
+// chara/anse/anse_raincoat.unity3d
+//あんせレインコート=
+
 // chara/co_shoes_22_22.unity3d
 男背带=men's back strap
 
@@ -24,7 +33,7 @@
 贵族短风衣=Short-Sleeved Shirt
 
 // chara/mt_pattern_ZA.unity3d
-立领制服=领制服
+//立领制服=领制服
 男学生服=Men's school uniform
 男背心短袖衬衣=Men's polo shirt with short sleeves
 
@@ -38,8 +47,8 @@ HS2男马甲=HS2 men's marsupial
 闪轨本校制服=Internal channels
 
 // chara/Sen3_rean.unity3d
-黎恩服饰(下摆)=Reen Clothing饰(Inferior & Fore)
-黎恩服饰(固定)=Dress饰(Fixed)
+//黎恩服饰(下摆)=Reen Clothing饰(Inferior & Fore)
+//黎恩服饰(固定)=Dress饰(Fixed)
 
 // chara/_mods/Gal_02.unity3d
 谷間カーディガン=Cleavage Cardigan
@@ -63,13 +72,13 @@ HS2男马甲=HS2 men's marsupial
 スウィート・パティシエール=Sweet Patissiere
 
 // chara/Hayashi/hayashi_hoodie.unity3d
-パーカー前開き=Open-front Hoodie
+パーカー前開き=Open Parka
 
 // chara/JK/idol - onaka.unity3d
 アイドルおなか=Idol Tummy
 
 // chara/mm/parkeropm.unity3d
-半開きパーカー=Half-open Hoodie
+半開きパーカー=Partially-Open Parka
 
 // chara/mf_alice_v2.unity3d
 整合騎士の鎧[アリス][SAO]=Matching Knight's Armor [Alice][SAO]
@@ -85,6 +94,20 @@ HS2男马甲=HS2 men's marsupial
 
 // chara/mf_sinon.unity3d
 太陽神ソルス[SAO]=Solus, God of the Sun[SAO].
+
+// chara/mf_vladilena_milize_top02.unity3d
+//レーナ[86-EIGHTY SIX-]=
+
+// chara/nakay/co_top_parker_nkt12.unity3d
+//だぼパーカー(スカート)=
+//だぼパーカー(フィット)=
+//だぼパーカー腕まくり(スカート)=
+//だぼパーカー腕まくり(フィット)=
+//だぼパーカー萌袖(スカート)=
+//だぼパーカー萌袖(フィット)=
+
+// chara/nakay/co_jacket_02_nkt13.unity3d
+//だぼカーディガン=
 
 // chara/cpo_jacket_b_00.unity3d
 ブレザーC(inmab改)=Blazer C(inmab modified)
@@ -125,15 +148,6 @@ HS2男马甲=HS2 men's marsupial
 ファーコート=Fur Coat
 ファーコート-hallessena=Fur coat-hallessena
 
-// chara/nin/nin_jacket.unity3d
-弓道衣(マスク改)=Kyudo-gi (mask modification)
-弓道衣胸当てなし(マスク改)=Kyudo-garment without breastplate (mask modification)
-弓道衣半脱ぎ=Kyudo robe half off
-着物(マスク改)=Kimono (mask modification)
-着物半脱ぎ=Kimono
-着物柄あり(マスク改)=Kimono with pattern (Mask Modification)
-着物柄あり半脱ぎ=Kimono with pattern
-
 // chara/roie/roie_tops.unity3d
 ベーシックコート=Basic Coat
 トレンチコート=Trench Coat
@@ -154,10 +168,6 @@ HS2男马甲=HS2 men's marsupial
 腰巻カーディガン広=Wide Waistband Cardigan
 腰巻カーディガン広々=Wide Waist Wrap Cardigan
 
-// chara/ymd/mf_clothExtend.unity3d
-パフトショルダー 小-shikibu=Puffed Shoulder Small-Shikibu
-
 // chara/ymd/mf_clothVariation.unity3d
 ジャンパースカートもどき=Jumperskirt
 ジャンパースカートもどき 2=Jumperskirt 2
-ハロウィントップス op削除1=Halloween Tops op deleted1

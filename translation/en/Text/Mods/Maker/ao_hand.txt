@@ -1,9 +1,6 @@
 //
-// Dumped for Koikatsu v5.1 by Mod Text Dump v0.0.1: 2021-05-25
+// Dumped for Koikatsu v5.1 by Mod Text Dump v0.6.0
 //
-
-// chara/tdi/kt_pokeball.unity3d
-PokéBall=PokéBall
 
 // chara/deathweasel/ec_items.unity3d
 聖女の杖=Saint's Staff
@@ -12,6 +9,9 @@ PokéBall=PokéBall
 サキュバスサイズ=Succubus Size
 禁書（閉）=Forbidden Book (Closed)
 禁書（開）=Forbidden book (open)
+
+// chara/AccClothes/p_o_gloves_acc.unity3d
+手袋=Gloves
 
 // chara/_mods/mash3.unity3d
 ロード・カルデアス=Lord Chaldeans

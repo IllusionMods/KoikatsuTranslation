@@ -1,13 +1,21 @@
 //
-// Dumped for Koikatsu v5.1 by Mod Text Dump v0.0.1: 2021-05-25
+// Dumped for Koikatsu v5.1 by Mod Text Dump v0.6.0
 //
-
-// chara/nashi/ns_shinobi.unity3d
-忍=Shinobu
-忍 花魁=Shinobi Courtesan
 
 // chara/noa/noa_top.unity3d
 乃愛=Noa
+
+// chara/LUmod/cat_top_03.unity3d
+//猫ランジェリー=
+
+// chara/anse/anse_sunshine_tshirt.unity3d
+//あんせサンシャインTシャツ=
+
+// chara/anse/anse_susomusubi_tshirt.unity3d
+//あんせ裾結びTシャツ=
+
+// chara/anse/anse_susomusubi_clear_tshirt.unity3d
+//あんせ裾結びTシャツ(透明)=
 
 // chara/deathweasel/ec_items.unity3d
 ヴァルキリーアーマー=Valkyrie Armor
@@ -20,6 +28,17 @@
 亀甲縛り改1=Tortoise Shell Binding Kai 1
 亀甲縛り改2=Tortoise Shell Binding Kai 2
 
+// chara/nam/co_taisoufuku_top_00.unity3d
+//体操服In=
+//体操服In透けA=
+//体操服In透けB=
+//体操服=
+//体操服改透けA=
+//体操服改透けB=
+//長体操服1=
+//長体操服1透けA=
+//長体操服1透けB=
+
 // chara/mt_pattern_KL.unity3d
 工装=Engineering Equipment
 长袖衬衣(男)=Long-sleeved polo shirt (for men)
@@ -28,21 +47,21 @@
 休闲西装=Casual Western Apparel
 
 // chara/co_top_00_02change.unity3d
-AA1衬衣=AA1衬衣
+//AA1衬衣=
 
 // chara/co_shoes.unity3d
 HS2贵族风衣=HS2 Dress
 
 // chara/mt_pattern_KK.unity3d
 短袖衬衣(男)=Short-sleeved Shirt (Male)
-男西装(领色固定)=Western-style clothes (领色固定)
+//男西装(领色固定)=Western-style clothes (领色固定)
 
 // chara/mt_pattern_SP.unity3d
 男西装(腰带)=Western-style dress (waistband)
 HS外穿衬衣=HS polo shirt
 
 // chara/mt_pattern_BB.unity3d
-男T恤(鸡心领)=T-shirt (鸡心领)
+//男T恤(鸡心领)=T-shirt (鸡心领)
 男棒球服(外)=Man's ball gown (outer)
 
 // chara/mt_pattern_AH.unity3d
@@ -105,35 +124,36 @@ HS2男马甲=HS2 men's marsupial
 スウェットA=Sweatshirt A
 
 // chara/co_top_dl01.unity3d
-DALI临时MOD=DALI临时 MOD
+//DALI临时MOD=
 
 // chara/JK/jk_tops.unity3d
 キャミソール(下乳)=Camisole(lower breast)
 キャミソール(maskless)=Camisole(maskless)
 
 // chara/co_top_01.unity3d
-キュートナース服=Cute Nurse Uniform
+キュートナース服=Cute Nurse Outfit
 
 // alice4.unity3d
 衣服=Clothing
 
 // chara/co_top_03.unity3d
-セクシーランジェリー（上）=Sexy Lingerie
+セクシーランジェリー（上）=Sexy Lingerie (Top)
 
 // chara/m14/co_top_04_1.unity3d
-軍服2 =Military uniform 2 
+軍服2 =Military uniform 2
 
 // chara/mat/mat_corset.unity3d
 コルセットのみ=Corset only
 
 // chara/mat/mat_top.unity3d
-ジャージ前開き=Tracksuit (Open)
+ジャージ前開き=Open Jersey
 カーディガン無し=No cardigan
 ベビードール ツヤ有り=Baby doll with luster
 長袖シャツ=Long Sleeve Shirt
 
-// chara/ucklline/co_top_20_melt.unity3d
-ボリュームネックパーカー_melt=Volume neck parka_melt
+// chara/Matne/matne_top_00.unity3d
+//ワンピース（インナーなし）=
+//セーラーワンピース改=
 
 // chara/Mint/co_Mint_NakedCoat.unity3d
 裸コート=Bare Coat
@@ -196,6 +216,10 @@ HMナース服 verB=HM nurse suit verB
 冴えカノ冬服=Saekano Winter Wear
 冴えカノ夏服=Saekano Summer Wear
 
+// chara/nashi/ns_shinobi.unity3d
+忍=Shinobu
+忍 花魁=Shinobi Courtesan
+
 // chara/nashi/ns_sweater.unity3d
 ハイネックニットワンピース=High Neck Knit Dress
 Vネックニットワンピース=V-Neck Knit Dress
@@ -220,7 +244,7 @@ Vネックニットワンピース=V-Neck Knit Dress
 結びTシャツ 透け=Knotted Tee Transparent
 
 // chara/nashi/ns_Babydoll.unity3d
-ベビードール=Babydoll Dress
+ベビードール=Babydoll
 ベビードール オープン=Baby Doll Open
 
 // chara/nashi/ns_cape.unity3d
@@ -233,10 +257,6 @@ Vネックニットワンピース=V-Neck Knit Dress
 
 // chara/nashi/ns_FurCoat.unity3d
 ファーコート=Fur Coat
-
-// chara/nin/nin_top.unity3d
-浴衣=Yukata
-ミニ浴衣=Mini Yukata
 
 // chara/pinosante/cropped_camisole_fuckdoll.unity3d
 キャミソール (クロップド ファック ドール)=Camisole (cropped) (fuck doll)
@@ -260,15 +280,9 @@ Vネックニットワンピース=V-Neck Knit Dress
 
 // chara/saropet/ripped_saropet.unity3d
 멜빵 청바지=빵청바지
-나체 멜빵 청바지=나체 멜빵청바지
-
-// chara/saropet/wet_saropet.unity3d
-멜빵 청바지 (젖음)=멜빵청바지 (젖음)
-나체 멜빵 청바지 (젖음)=나체 멜빵청바지 (젖음)
 
 // chara/saropet/wethard_saropet.unity3d
 멜빵 청바지 (많이 젖음)=멜빵청바지 (많_젖음)
-나체 멜빵 청바지 (많이 젖음)=나체 멜빵청바지 (많이젖음)
 
 // chara/mat/mat_onep.unity3d
 ワンピース 改A=One Piece Revision A
@@ -350,7 +364,7 @@ wen夜夜=WEN Night Night
 すけレースドレス01胸あけ=Suke-Lace Dress 01 (open chest)
 
 // chara/xne/xne_co_top_skdrs01b.unity3d
-すけレースドレス01v2=すけレースドレス01 v2
+//すけレースドレス01v2=
 
 // chara/xne/xne_co_top_skdrs01hb.unity3d
 すけレースドレス01v2胸あけ=Sukesuke Lace Dress 01v2 Open-Breasted
@@ -386,7 +400,7 @@ wen夜夜=WEN Night Night
 タートルネック out=Turtleneck out
 タートルネック パフスリーブ in=turtleneck with puff sleeves in
 タートルネック パフスリーブ out=Turtleneck with puff sleeves out
-タートルネック ジャケット =Turtleneck Jacket 
+タートルネック ジャケット =Turtleneck Jacket
 タートルネック 胸元空き=Turtleneck open at chest
 タートルネック パフスリーブ 胸元空き=Turtleneck Puffed sleeves open at chest
 長袖 ベルスリーブ=Long Sleeve Bell Sleeve
@@ -457,3 +471,11 @@ wen夜夜=WEN Night Night
 
 // chara/escargot_001_01C_co_top_02.unity3d
 乳テントTシャツミニ=Tshirt Mini
+
+// chara/escargot_002_01C_co_top_01.unity3d
+//ほのかTシャツ（モーモちゃん）=
+//ほのかTシャツ（無地）=
+
+// chara/escargot_002_01C_co_top_02.unity3d
+//透けほのかTシャツ（モーモちゃん）=
+//透けほのかTシャツ（無地）=

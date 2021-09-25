@@ -1,6 +1,15 @@
 //
-// Dumped for Koikatsu v5.1 by Mod Text Dump v0.0.1: 2021-05-25
+// Dumped for Koikatsu v5.1 by Mod Text Dump v0.6.0
 //
+
+// chara/AccClothes/p_o_bodytights_acc.unity3d
+全身タイツ=Full-Body Tights
+
+// chara/AccClothes/p_o_top_swim_bunny_acc.unity3d
+バニースーツ=Bunny Suit
+
+// chara/p_o_top_halloween.unity3d
+ハロウィントップス=Halloween Top
 
 // chara/deathweasel/ec_items.unity3d
 サキュバスの翼左用=Succubus' Wing for Left
@@ -39,6 +48,15 @@
 // chara/koikoi/ao_body_07.unity3d
 AI翼=AI Wings
 
+// chara/AccClothes/p_o_top_swim_leotard_nor.unity3d
+レオタード=Leotard
+
+// chara/AccClothes/p_o_top_swim_leotard_high.unity3d
+ハイレグレオタード=High-Leg Leotard
+
+// chara/m14/AccClothes/p_o_swim_sc01.unity3d
+スクール水着_small=School swimsuit_small
+
 // chara/_kero/ao_koopa.unity3d
 クッパのこうら=Bowser's Shell
 
@@ -62,8 +80,14 @@ AI翼=AI Wings
 背負いカバン（取手なし）=Backpack (without handle)
 デイパック=daypack
 
+// chara/AccClothes/p_o_swim_sc01.unity3d
+スクール水着=School Swimsuit
+
+// chara/AccClothes/p_o_top_swim_SC.unity3d
+競泳水着=Competition Swimsuit
+
 // chara/ao_body_halloween.unity3d
-クモの巣=Spider Web
+クモの巣=Spiderweb
 
 // chara/ao_body_newyear.unity3d
 勲章=medals
@@ -74,5 +98,5 @@ AI翼=AI Wings
 スノークリスタル=Snow Crystal
 
 // chara/mod_zmr/ao_body_zmr.unity3d
-悪魔の翼左用=Demon Wing (Left)
-悪魔の翼右用=Demon Wing (Right)
+悪魔の翼左用=Left Demon Wing
+悪魔の翼右用=Right Demon Wing
