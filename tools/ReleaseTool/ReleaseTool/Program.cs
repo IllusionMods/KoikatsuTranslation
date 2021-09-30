@@ -151,7 +151,7 @@ namespace ReleaseTool
 
                                         texZipFile.CommitUpdate();
                                     }
-                                    AddToZip(texZipPath, "BepInEx\\Translation\\en\\Texture\\" + Path.GetFileName(subTexDir) + ".zip");
+                                    AddToZip(texZipPath, "BepInEx\\Translation\\en\\Texture\\" + translationName + "_" + Path.GetFileName(subTexDir) + ".zip");
                                 }
                             }
 
