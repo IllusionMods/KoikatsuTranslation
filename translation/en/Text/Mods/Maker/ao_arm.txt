@@ -70,7 +70,7 @@ Qテクターパーツ=Q-Tector Parts
 魔術刻印=Magical Mark
 
 // chara/_mods/takamura2.unity3d
-衛士強化装備肩=Guardsman Strengthening Equipment Shoulder
+衛士強化装備肩=Pilot Fortified Suit (shoulder)
 
 // chara/JK/BB_acc.unity3d
 ＢＢ=BB

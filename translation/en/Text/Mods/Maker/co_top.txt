@@ -114,7 +114,7 @@ HS2男马甲=HS2 men's marsupial
 シノンジャケット=Sinon Jacket
 
 // chara/_mods/takamura.unity3d
-衛士強化装備=Guard Enhancement Equipment
+衛士強化装備=Pilot Fortified Suit
 
 // chara/hffun_mods/hffun_runwear_top_00.unity3d
 ランニングウェアA=Running wear A

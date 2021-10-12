@@ -20,7 +20,7 @@
 シノン腰のヤツ=Sinon waist guy
 
 // chara/_mods/takamura3.unity3d
-衛士強化装備首=Guard enhancement equipment neck
+衛士強化装備首=Pilot Fortified Suit (neck)
 
 // chara/ao_neck_03.unity3d
 鈴付きチョーカー =Bell Choker
