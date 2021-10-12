@@ -359,7 +359,7 @@ M字バングストレート(右)=M-Shaped Straight Bangs (R)
 ライダーマスク=Rider Mask
 
 // chara/_mods/takamura4.unity3d
-衛士強化装備顔=Eishi Strengthening Equipment Face
+衛士強化装備顔=Pilot Fortified Suit (face)
 
 // chara/_mods/watanabe2.unity3d
 付け毛 ヨーソロー前=Hairpiece Before Yozora
