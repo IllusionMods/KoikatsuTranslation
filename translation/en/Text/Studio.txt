@@ -2646,3 +2646,16 @@ illusion文字のみ 黒=Word: Illusion (Black)
 境界線のある影=Boundary Line Shadows
 完全なめらか影=Perfect, Smooth Shadows
 影なし=No Shadows
+
+// Clothing Types
+// some of these are re-used in alternate maingame translations unscoped
+// so include here to ensure studio uses correct ones
+学生服（校内）=In School
+学生服（下校）=Going Home
+r:学生服\s*（校内）=In School
+r:学生服\s*（下校）=Going Home
+体操着=Gym Uniform
+水着=Swimsuit
+部活=Club Activities
+私服=Casual Clothes
+お泊り=Sleeping Over

@@ -1,3 +1,5 @@
+#set exe Koikatu,Koikatu VR,Koikatsu Party,Koikatsu Party VR
+
 ステータス情報=Status Information
 名前順=By Name
 好意順=By Affection
@@ -21,15 +23,12 @@
 初対面=First Meeting
 状態=Status
 普通=Normal
-怒り=Angry
-不慣れ=Inexperienced
-慣れ=Experienced
 親密度=Intimacy
 親密度は恋人のみ反映されます。=Intimacy is only displayed for lovers.
 
 
 // Level Overrides - enforce these forms
-#set level 27
+#set level 27,-1
 怒り=Angry
 不慣れ=Inexperienced
 慣れ=Experienced
