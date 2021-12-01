@@ -1,3 +1,3 @@
-//「あ、いたいた！」=
-//「これ、授業でクッキー焼いてみたんだ。形はちょっと変かもしれないけど……」=
-//「味には自信あるんだ！　だから食べてくれよな！」=
+﻿「あ、いたいた！」=Ah, here you are!
+「これ、授業でクッキー焼いてみたんだ。形はちょっと変かもしれないけど……」=I tried baking some cookies during class. They might look a little bit weird but...
+「味には自信あるんだ！　だから食べてくれよな！」=I've full confidence that they taste great! So eat them, okay?

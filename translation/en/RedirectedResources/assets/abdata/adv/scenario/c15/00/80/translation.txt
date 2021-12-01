@@ -1,4 +1,4 @@
-//「へへー、アーンしてやろうかー？　ほら、アーン」=
-「え！？　あ、アーン……」=“Eh!? A, aah...”
-「なんてなー。ぱくっ、もぐもぐ……」=“Just kidding! *munch munch*”
-「そ、それはズルいよ！　俺が恥ずかしいだけだよ！」=“Th-that's unfair! I was really embarassed!”
+﻿「へへー、アーンしてやろうかー？　ほら、アーン」=Hehe, want me to feed you? C'mon, open wide.
+「え！？　あ、アーン……」=Eh!? A-Aahn...
+「なんてなー。ぱくっ、もぐもぐ……」=Psych. *bite*, *munch munch*...
+「そ、それはズルいよ！　俺が恥ずかしいだけだよ！」=T-That's unfair! You just made me embarrass myself!

@@ -1,6 +1,6 @@
-//「じゃあ、そろそろ……するぞ」=
-//「あはは、やっぱり、[H名]もしたかったんだね」=
-//「むぅ……キミは、あたしとしたくないのかー？」=
-//「えっ、いやいや、もちろん俺もしたいよ！　からかっちゃってごめんね」=
-//「ううん、あたしはただ、キミの気持ちを確かめたかっただけだぞっ。さあ、やるぞ！」=
-//「うんっ……！」=
+﻿「じゃあ、そろそろ……するぞ」=Well then, let's... do it.
+「あはは、やっぱり、[H名]もしたかったんだね」=Ahaha, you wanted to do it too, huh?
+「むぅ……キミは、あたしとしたくないのかー？」=Muu... do you not wanna do it with me?
+「えっ、いやいや、もちろん俺もしたいよ！　からかっちゃってごめんね」=Eh--, no, of course, I wanna do it too! Sorry for poking fun at you there.
+「ううん、あたしはただ、キミの気持ちを確かめたかっただけだぞっ。さあ、やるぞ！」=No, I was just, I just wanted to confirm that you felt the same way--. Now then, let's do it!
+「うんっ……！」=Yeah--...!
