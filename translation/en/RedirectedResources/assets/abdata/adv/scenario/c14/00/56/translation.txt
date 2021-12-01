@@ -1,5 +1,5 @@
-//「え……別れるって、おまえ……どういうことだよ？　私、何かしたか……？」=
-//「いや、ごめん、こっちの都合なんだ……申し訳ない」=
-//「こっちの都合って何だよ！　言ってくれなきゃわかんねえだろうがよ！」=
-//「ごめん、本当にごめん……」=
-//「くそっ、ヘタれが……もういいよ。じゃな」=
+﻿「え……別れるって、おまえ……どういうことだよ？　私、何かしたか……？」=Eh... "split up", you... what's the matter? Did I do something...?
+「いや、ごめん、こっちの都合なんだ……申し訳ない」=No, sorry, it's not you, it's me... I have no excuse.
+「こっちの都合って何だよ！　言ってくれなきゃわかんねえだろうがよ！」=The fuck you mean "it's me"! How am I supposed to understand if you won't tell me!
+「ごめん、本当にごめん……」=Sorry, I really am sorry...
+「くそっ、ヘタれが……もういいよ。じゃな」=You fucking--, motherfucker... whatever. See ya.

@@ -1,4 +1,3 @@
-
-//「……別に行ってやってもいいぞ」=
-//「ありがとう！　どこ行きたい？」=
-//「[P]の行きたいところならどこだっていいよ……」=
+﻿「……別に行ってやってもいいぞ」=...I don't really mind, I guess.
+「ありがとう！　どこ行きたい？」=Thank you! Anywhere in particular you wanna go?
+「[P]の行きたいところならどこだっていいよ……」=I'd be fine with anywhere you wanna go, [P]...

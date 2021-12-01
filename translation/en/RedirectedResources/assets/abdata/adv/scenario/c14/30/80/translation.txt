@@ -1,5 +1,4 @@
-
-//「お前食いもんで好き嫌いとかあんのか？」=
-//「いや、特にないかな。そっちは？」=
-//「私もないかな。出されたもんは全部食うよ」=
-//「あ、意外！」=
+﻿「お前食いもんで好き嫌いとかあんのか？」=You got any foods you like or hate?
+「いや、特にないかな。そっちは？」=No, not really, I'd say? You?
+「私もないかな。出されたもんは全部食うよ」=Same as you. I'll eat anything anyone lays out in front of me.
+「あ、意外！」=Ah, I didn't expect that!

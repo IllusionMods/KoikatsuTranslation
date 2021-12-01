@@ -1,3 +1,2 @@
-
-//「今日はとても楽しかったぞ！　またいつでも付き合ってやるからな」=
-//「誘えよ？　お前から誘うんだぞ？　絶対だぞ！」=
+﻿「今日はとても楽しかったぞ！　またいつでも付き合ってやるからな」=I had a lot of fun today! I'll keep you company again anytime you want.
+「誘えよ？　お前から誘うんだぞ？　絶対だぞ！」=Ask me again, alright? You're the one who was to do it. You got it? You absolutely must!

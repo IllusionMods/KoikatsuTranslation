@@ -1,6 +1,6 @@
-//「お前恋人出来たらやってみたいこととかあんのか？」=
-//「う～ん、そう言われてみるとなんだろうなぁ～」=
-//「あ、そうだ恋人繋ぎやってみたいな！」=
-//「恋人繋ぎ……？　あぁあれか手を絡ませるやつな、やってみようぜ」=
-//「お……おい……もう満足か？」=
-//「う……うん。ありがとう。……あれ？　なんか顔赤くない？」=
+﻿「お前恋人出来たらやってみたいこととかあんのか？」=Is there anything you'd like to do, if you ever get a girlfriend?
+「う～ん、そう言われてみるとなんだろうなぁ～」=Mmm~, I wonder, never really thought about it~
+「あ、そうだ恋人繋ぎやってみたいな！」=Ah, right, I'd love to do that couple's handholding thing!
+「恋人繋ぎ……？　あぁあれか手を絡ませるやつな、やってみようぜ」=Couple's handholding...? Aah, you mean where you entwine your fingers and stuff too, right? Let's try it out.
+「お……おい……もう満足か？」=H... Hey... you satisfied yet?
+「う……うん。ありがとう。……あれ？　なんか顔赤くない？」=Y... Yeah. Thanks. ...Huh? Isn't your face a bit flushed?

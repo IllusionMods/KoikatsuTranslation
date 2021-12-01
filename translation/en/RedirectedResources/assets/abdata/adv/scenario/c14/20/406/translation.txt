@@ -1,6 +1,6 @@
-//「あっ、もうこんな時間か。随分長居しちゃったね」=
-//「そうだな。はー、食った食った。私はもう満足だ」=
-//「俺も、もう十分かな……」=
-//「いやぁ、飯食ったりだべったりしながら、のんびり過ごすのもいいもんだな」=
-//「はは、それじゃ、また一緒にのんびり過ごそうね」=
-//「おお、お前となら退屈しないだろうしな」=
+﻿「あっ、もうこんな時間か。随分長居しちゃったね」=Ah--, it's already this late, huh? We stayed pretty long, huh?
+「そうだな。はー、食った食った。私はもう満足だ」=Yeah. Haah, I'm stuffed. Yep, I'm full.
+「俺も、もう十分かな……」=I think I've had plenty too...
+「いやぁ、飯食ったりだべったりしながら、のんびり過ごすのもいいもんだな」=Man, just taking it easy while stuffing your face and chatting around is so nice too.
+「はは、それじゃ、また一緒にのんびり過ごそうね」=Haha, well then, let's take it easy again here sometime, okay?
+「おお、お前となら退屈しないだろうしな」=Sure, with you, I probably won't get bored either.

@@ -1,5 +1,4 @@
-
-「んーっ、よく寝た。……あれ？　メモがある。なになに――」=“Mmm, I slept well. ...Oh? There's a letter. What's it say...?”
-//『[P]、起きたか？　あんまりぐっすり眠ってたから先出たぞ』=
-//『朝飯作っといたから適当に食え』=
-//『残したら殺すかんな、[H]』=
+﻿「んーっ、よく寝た。……あれ？　メモがある。なになに――」=Nn--, I slept well. ...Huh? There's a note. Let's see----
+『[P]、起きたか？　あんまりぐっすり眠ってたから先出たぞ』=『You up, [P]? You were sleeping way too tight so I left first.』
+『朝飯作っといたから適当に食え』=『I made you breakfast so eat it up.』
+『残したら殺すかんな、[H]』=『Leave any behind and you'll be next on the menu. [H].』

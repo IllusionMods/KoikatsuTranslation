@@ -1,6 +1,5 @@
-
-//「今日はどこに連れてってくれるんだ？」=
-//「それは、行ってのお楽しみということで！」=
-//「いや～、いい試合だったな」=
-//「楽しんでくれたみたいでよかったよ」=
-//「あぁ、今も興奮が収まらねえよ。本当に連れて来てくれてありがとな」=
+﻿「今日はどこに連れてってくれるんだ？」=Where are ya gonna take me today?
+「それは、行ってのお楽しみということで！」=That's a surprise for when we get there!
+「いや～、いい試合だったな」=Man~, that was a good match.
+「楽しんでくれたみたいでよかったよ」=I'm glad you enjoyed it.
+「あぁ、今も興奮が収まらねえよ。本当に連れて来てくれてありがとな」=Yeah, my blood's flowing even now. Thanks for taking me along today, really.

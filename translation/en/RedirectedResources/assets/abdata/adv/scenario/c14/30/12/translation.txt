@@ -1,6 +1,5 @@
-
-//「……いいぞ」=
-//「えっ、ホントに？」=
-//「なんだよ！　すんのかしねぇのかはっきりしろよ！」=
-//「したい、俺は[H]としたいです！　だから……よろしくね」=
-//「おう、その……優しくしろよ」=
+﻿「……いいぞ」=...Sure.
+「えっ、ホントに？」=Eh--, really?
+「なんだよ！　すんのかしねぇのかはっきりしろよ！」=What!? Make up your mind whether you wanna do it or not!
+「したい、俺は[H]としたいです！　だから……よろしくね」=I wanna, I wanna do it with you, [H]! So uhm... take care of me, okay?
+「おう、その……優しくしろよ」=Yeah, uhm... be gentle, kay?
