@@ -1,4 +1,3 @@
-
-//「ふ～ん、ここが[P]の部屋か……わりと片付いてんな」=
-//「なんか[P]らしい部屋っていうか。ここにいると落ち着くわ……」=
-//「傍に寄ってもいいか？　な、なんだよ、おまえだって、その気で誘ったんだろ？」=
+﻿「ふ～ん、ここが[P]の部屋か……わりと片付いてんな」=Hmm~, so this is your room, huh... you keep things pretty organized, huh?
+「なんか[P]らしい部屋っていうか。ここにいると落ち着くわ……」=Honestly, it's just like you, [P]. Being here really calms me down...
+「傍に寄ってもいいか？　な、なんだよ、おまえだって、その気で誘ったんだろ？」=Mind if I get close to you? I-I mean, you invited me here, because you wanted to do it too, no?

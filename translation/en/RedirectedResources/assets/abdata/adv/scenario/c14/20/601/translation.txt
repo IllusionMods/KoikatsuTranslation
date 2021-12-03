@@ -1,6 +1,6 @@
-//「こ、ここがラブホか……」=
-//「じゃ、じゃあ……始めようか……？」=
-//「なっ！？　おい、気が早すぎるだろ！」=
-//「もっと、こう……雰囲気ってものをだな……」=
-//「ああ、うん……」=
-//（正直、そんな可愛い姿見せられたら、ますます昂ぶっちゃうんだけど……）=
+﻿「こ、ここがラブホか……」=S-So this is a love hotel, huh...
+「じゃ、じゃあ……始めようか……？」=T-Then... shall we...?
+「なっ！？　おい、気が早すぎるだろ！」=Wha--!? Hey, you're skipping all the steps!
+「もっと、こう……雰囲気ってものをだな……」=You gotta, you know... create a mood and stuff...
+「ああ、うん……」=Aah, okay...
+（正直、そんな可愛い姿見せられたら、ますます昂ぶっちゃうんだけど……）=(Honestly, seeing her being so cute makes my self-control evaporate that much harder though...)

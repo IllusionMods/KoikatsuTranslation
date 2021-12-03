@@ -1,5 +1,4 @@
-
-「や、やあこんにちは！」=Uh... Hello there!
-「あぁん、なんだよ……って、噂の転校生じゃねえか！」=Uhh. What the fuck... Isn't it the transfer student I heard about!
-「う、うん……それで、君と少し話がしたいんだけどいいかな？」=Um, yeah... So, I'd like to have a little chat with you, if that's okay.
-「あぁ、いいぜ。実は私もおまえに興味があったんだ」=Yeah, sure. Actually, I was curious about you, too.
+﻿「や、やあこんにちは！」=H-Hey, how's it hanging!
+「あぁん、なんだよ……って、噂の転校生じゃねえか！」=Aahn, the hell do you... oh, if it ain't the rumoured transfer student!
+「う、うん……それで、君と少し話がしたいんだけどいいかな？」=Y-Yeah... anyways, I'd like to chat with you for a bit, how about it?
+「あぁ、いいぜ。実は私もおまえに興味があったんだ」=Yeah, sure. I had some interest in you myself, actually.

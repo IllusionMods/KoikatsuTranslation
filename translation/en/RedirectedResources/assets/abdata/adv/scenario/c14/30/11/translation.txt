@@ -1,6 +1,5 @@
-
-//「お前もう私の目の前に現れんな」=
-//「え……？　ど、どうして？」=
-//「うるせぇ。いいから二度と話しかけんな」=
-//「ま、待って！　少し話を……」=
-//「話しかけんなっつってんだろ！　失せろ！」=
+﻿「お前もう私の目の前に現れんな」=Don't show yourself in front of me ever again.
+「え……？　ど、どうして？」=Eh...? W-Why?
+「うるせぇ。いいから二度と話しかけんな」=Shut it. Never open your trap in front of me again.
+「ま、待って！　少し話を……」=W-Wait! Let's atleast talk this out...
+「話しかけんなっつってんだろ！　失せろ！」=I told you to not talk to me! Beat it!

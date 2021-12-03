@@ -1,4 +1,3 @@
-
-//「デートぉ！？　デートってあのデートか？　私と？」=
-//「うん、そのデートだよ……どうかな？」=
-//「……退屈させたら絞めるからな。それでもいいなら、行ってやってもいいぞ」=
+﻿「デートぉ！？　デートってあのデートか？　私と？」=A date!? You mean that sort of a 'date'? With me?
+「うん、そのデートだよ……どうかな？」=Yeah, I mean that sort of a date... how about it?
+「……退屈させたら絞めるからな。それでもいいなら、行ってやってもいいぞ」=...I will strangle you if you bore me. If that's still acceptable to you, I don't mind.

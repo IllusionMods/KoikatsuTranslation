@@ -1,3 +1,3 @@
-//「いい食いっぷりだなお前」=
-//「ここのご飯おいしいね！」=
-//「おい、ほっぺたになんかついてるぞ」=
+﻿「いい食いっぷりだなお前」=You sure eat well.
+「ここのご飯おいしいね！」=The food here's great, innit!
+「おい、ほっぺたになんかついてるぞ」=Oi, you've got some on your cheeks.

@@ -1,3 +1,3 @@
-「これ……授業で作ったんだけどおまえ食うか？」=This is just... I made this for class... You wanna?
-「これは……ケーキ？　おいしそう！」=What is this... Cake? Yummy!
-「そうか、おいしそうに見えるか……それならよかった。じゃあ、これ味わって食べてくれよな」=Well, I guess it does look yummy... I'm glad to hear it. Well, I'll let you have a taste of this.
+﻿「これ……授業で作ったんだけどおまえ食うか？」=I made... this during class, wanna eat?
+「これは……ケーキ？　おいしそう！」=Let's see... cookies? They look so good!
+「そうか、おいしそうに見えるか……それならよかった。じゃあ、これ味わって食べてくれよな」=I see, they look good, huh... I'm glad to hear that. Then, savour them and munch them all down, okay?
