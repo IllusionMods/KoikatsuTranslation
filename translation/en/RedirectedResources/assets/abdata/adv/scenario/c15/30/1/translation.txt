@@ -1,6 +1,5 @@
-
-//「いま大丈夫？　ちょっと話をしてみたいんだけれど」=
-//「うん？　あたしに興味ある感じ？　何か怪しいぞ」=
-//「いや、興味はあるけど怪しくないって。普通に話したいだけだよ」=
-//「ふーん。楽しい話なら大歓迎だぞ」=
-//「よかった。それじゃ……」=
+﻿「いま大丈夫？　ちょっと話をしてみたいんだけれど」=Got a moment? I'd like to have a chat with you, if I can.
+「うん？　あたしに興味ある感じ？　何か怪しいぞ」=Yeah? Interested in me? Smells fishy.
+「いや、興味はあるけど怪しくないって。普通に話したいだけだよ」=No, I am interested but that's about it. I just want to talk to you, honest.
+「ふーん。楽しい話なら大歓迎だぞ」=Hmmm. I'm always up for fun chats.
+「よかった。それじゃ……」=Great. Well then...

@@ -1,13 +1,12 @@
-//「ん……気付いたらもう暗くなってきてたんだなー……」=
-//「[H名]、まだもう少し時間あるかな？」=
-//「うん、あたしならまだ大丈夫だぞー」=
-//「よかった。実は、[H名]に見せたいものがあって」=
-//「そんなものがあるのか？　キミがあたしに見せたいものかー、楽しみだな♪」=
-//「日が沈んじゃう前に、帰ろうか」=
-//「デートが終わっちゃうのは残念だけど、時間ばっかりはどうしようもないもんなー……」=
-//「いや、[H名]。まだデートは終わりじゃないよ」=
-//「駅まで手を繋いでいこ！　俺達が二人でいる限り、デートは続いてるんだから」=
-//「おお、それもそうだなっ。よーし、まだまだデートを楽しむぞ！」=
-
-//CHOICE:『まだ時間ある？』=
-//CHOICE:『そろそろ帰ろうか』=
+﻿「ん……気付いたらもう暗くなってきてたんだなー……」=Nn... the sun went down before we realized it...
+「[H名]、まだもう少し時間あるかな？」=[H名], do you still have some more time?
+「うん、あたしならまだ大丈夫だぞー」=Yeah, I'm still good to go.
+「よかった。実は、[H名]に見せたいものがあって」=Great. I actually have something that I wanted to show you.
+「そんなものがあるのか？　キミがあたしに見せたいものかー、楽しみだな♪」=Really? Something you wanna show me, huh~, now I'm getting excited♪
+「日が沈んじゃう前に、帰ろうか」=Let's go home before the sun completely sets.
+「デートが終わっちゃうのは残念だけど、時間ばっかりはどうしようもないもんなー……」=It's a bit of a shame to just end our date like this but, time is the one thing we can really do nothing about...
+「いや、[H名]。まだデートは終わりじゃないよ」=No, [H名]. Our date's not over yet.
+「駅まで手を繋いでいこ！　俺達が二人でいる限り、デートは続いてるんだから」=Let's hold hands till we get to the station! As long as we're together, the show stays on the road.
+「おお、それもそうだなっ。よーし、まだまだデートを楽しむぞ！」=Ooh, you're not wrong--. Alright, let's enjoy our date a whole lot more!
+CHOICE:『まだ時間ある？』=Still got some time?
+CHOICE:『そろそろ帰ろうか』=Let's head home.

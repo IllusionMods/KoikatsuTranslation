@@ -1,3 +1,3 @@
-「お邪魔するぞー。へー、ここがキミの部屋なんだー」=“Sorry for intruding～ Wow, so this is your home, huh...”
-「男子の部屋に入るの、初めてだぞ……何か、そわそわしちゃうなー」=“It's my first time entering a boy's room, so... somehow, I'm really nervous...”
-「それで、もちろん……ヤるんだよな？　へへ、興奮してきたぞ」=“Well, of course... you want to do it? Hehe, you look so excited.”
+﻿「お邪魔するぞー。へー、ここがキミの部屋なんだー」=I'm comin' in. Hoh, so this is your place, huh?
+「男子の部屋に入るの、初めてだぞ……何か、そわそわしちゃうなー」=It's my first time, entering a boy's room, you know... I'm feeling, a bit fidgety.
+「それで、もちろん……ヤるんだよな？　へへ、興奮してきたぞ」=So then, we're gonna... do it, right? Hehe, I'm getting excited.

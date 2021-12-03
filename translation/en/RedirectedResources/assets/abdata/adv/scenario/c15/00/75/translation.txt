@@ -1,5 +1,5 @@
-//「はぁはぁ、か、勝った」=
-//「おぉー、足速いなー、キミ」=
-//（なんとか面目は保てたかな？）=
-//「よーし！　次はあたしもホンキ出しちゃうぞー！」=
-//「え、えぇ！？　本気じゃなかったのか……」=
+﻿「はぁはぁ、か、勝った」=Haa, haa, I-I won.
+「おぉー、足速いなー、キミ」=Ooh, you're pretty fast.
+（なんとか面目は保てたかな？）=(Did I manage to save some face?)
+「よーし！　次はあたしもホンキ出しちゃうぞー！」=Alright! I'll get serious too then!
+「え、えぇ！？　本気じゃなかったのか……」=E-Eeh!? So you were holding back...

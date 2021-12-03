@@ -1,4 +1,3 @@
-
-//「あたしは気持ちよかったぞ！　キミはどうだった？」=
-//「すごくよかったよ」=
-//「なら、お互い満足したってことだな！　よかった～」=
+﻿「あたしは気持ちよかったぞ！　キミはどうだった？」=It was really good for me! What about you?
+「すごくよかったよ」=It was amazing.
+「なら、お互い満足したってことだな！　よかった～」=In that case, looks like we're both satisfied! I'm glad~

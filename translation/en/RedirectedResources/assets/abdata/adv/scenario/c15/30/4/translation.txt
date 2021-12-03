@@ -1,4 +1,3 @@
-
-//「よろしく頼むー。体を動かすのは得意なんだけど頭はちょっとな……」=
-//「じゃあ、さっそく始めようか」=
-//「うん、たぶん全部聞くことになるけど、よろしく！」=
+﻿「よろしく頼むー。体を動かすのは得意なんだけど頭はちょっとな……」=Okay, please help me. I'm good at working my body, but my head's a bit...
+「じゃあ、さっそく始めようか」=Well then, let's get started right away.
+「うん、たぶん全部聞くことになるけど、よろしく！」=Yeah, I'm probably gonna ask you about every single thing, but please!

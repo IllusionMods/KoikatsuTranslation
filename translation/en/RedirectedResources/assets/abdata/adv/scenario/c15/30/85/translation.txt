@@ -1,6 +1,5 @@
-
-//「なーなー、彼女が他の男に言い寄られたらどうするー？」=
-//「もちろん、その男を追い払うよ」=
-//「オッケー！　部長の男らしいとこ、期待してるぞー」=
-//「おぉ……、思ってたより、ドキドキしたぞ」=
-//「はは、壁ドンって、冷静になると結構勇気いるもんだね」=
+﻿「なーなー、彼女が他の男に言い寄られたらどうするー？」=Hey, question, if someone started hitting on your girlfriend, what'd you do?
+「もちろん、その男を追い払うよ」=Of course, I'd chase that guy away.
+「オッケー！　部長の男らしいとこ、期待してるぞー」=Okay! I'm really looking forward to seeing your manly side, prez.
+「おぉ……、思ってたより、ドキドキしたぞ」=Ooh... that made my hard race, harder than I thought it would.
+「はは、壁ドンって、冷静になると結構勇気いるもんだね」=Haha, thinking about it calmly, this push-against-the-wall thing, takes a lot of courage, doesn't it?

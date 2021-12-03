@@ -1,3 +1,3 @@
-//「誰かと食べるご飯はおいしーなー」=
-//「そうだね。一人だと寂しいしね」=
-//「うんうん。あたしも一人で食べるのはちょっとヤだなー」=
+﻿「誰かと食べるご飯はおいしーなー」=Lunch always tastes better with company.
+「そうだね。一人だと寂しいしね」=Yeah. Feels lonely to eat by yourself, doesn't it?
+「うんうん。あたしも一人で食べるのはちょっとヤだなー」=Yeah, exactly. I kinda hate eating by myself too.
