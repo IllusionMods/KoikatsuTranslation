@@ -11,5 +11,5 @@
 「俺も楽しかったよ。それじゃあね」=“I also really enjoyed it. I'll see you later.”
 「あっ……うん、じゃあ、またね」=“Ah...Yes, see you.”
 
-//CHOICE:「まだもう少し一緒にいたいな」=
+CHOICE:「まだもう少し一緒にいたいな」=“I still want to be together for a little while.”
 //CHOICE:「俺も楽しかったよ、それじゃあね」=

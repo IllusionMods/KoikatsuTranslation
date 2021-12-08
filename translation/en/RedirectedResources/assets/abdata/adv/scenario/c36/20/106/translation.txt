@@ -34,4 +34,4 @@
 
 //CHOICE:『実は、またここでエッチしたいなって……』=
 //CHOICE:『この景色をまた二人で見たいなって思ってただけだよ』=
-//「ご、強引過ぎたかな？　一度スイッチが入っちゃうと、止まらなくて……」=
+「ご、強引過ぎたかな？　一度スイッチが入っちゃうと、止まらなくて……」="Was I being too pushy? Once I turn the switch, it's difficult to stop myself..."

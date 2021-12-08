@@ -8,4 +8,4 @@
 「ええ、それじゃあまた」=“Yes, see you soon.”
 
 //CHOICE:「これから、俺の家にこれないかな？」=
-//CHOICE:「そうだね、じゃあまたね」=
+CHOICE:「そうだね、じゃあまたね」=“That's true, see you again.”

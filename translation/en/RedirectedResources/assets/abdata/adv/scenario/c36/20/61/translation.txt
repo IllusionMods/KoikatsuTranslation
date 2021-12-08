@@ -12,5 +12,5 @@
 「うん、今日はありがとう。本当に楽しかった。またね」="Thanks for today. I really enjoyed it. Good bye."
 「気が乗ったら、また遊んであげてもいいわ。フフッ、じゃあね」="Let's meet again next time. Fufu, see you then"
 
-//CHOICE:「あ、待って！　もう少しだけ、一緒にいられないかな？」=
-//CHOICE:「うん、今日はありがとう。本当に楽しかった。またね」=
+CHOICE:「あ、待って！　もう少しだけ、一緒にいられないかな？」="Ah, wait! Can we stay together for a bit longer?"
+CHOICE:「うん、今日はありがとう。本当に楽しかった。またね」="Thanks for today. I really enjoyed it. Good bye."

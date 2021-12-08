@@ -7,8 +7,8 @@
 「公園なんかでいいの？　もっと[H]の行きたいところがあれば、そこで……」="Is that okay with you, [H]? Just tell me if you want to go somewhere else..."
 「私は……あなたの隣にいられるなら、それだけでも……幸せ……」="If I can be next to you, anything's fine with me..."
 「……ありがとう、[P]。すごく楽しかった」="Thank you, [P]. It was so much fun."
-//CHOICE:「もう少し、一緒にいない？」=
-//CHOICE:「俺もすごく楽しかった、また遊ぼうね」=
+CHOICE:「もう少し、一緒にいない？」="Wait, can you stay a bit longer?"
+CHOICE:「俺もすごく楽しかった、また遊ぼうね」="I had lots of fun. We should do this again sometime."
 「もう少し、一緒にいない？」="Wait, can you stay a bit longer?"
 「うん、私もそう思った。じゃあ、もう少し……」="I was thinking the same thing. Okay, maybe a bit longer..."
 「俺もすごく楽しかった、また遊ぼうね」="I had lots of fun. We should do this again sometime."

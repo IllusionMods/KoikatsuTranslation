@@ -7,7 +7,7 @@
 「ううん、そんなことないよ、俺もこうして[H]さんとゆっくりする時間、好きだし」=“No, that's not true. I also like spending time relaxing with you as well.”
 「そ、そう……ならよかった」=“I-I see...that's fine then.”
 「今日は楽しかったわ、ありがとう[P]くん」=“Today was fun. Thank you [P]-kun.”
-//CHOICE:「まだもう少し一緒にいたいな」=
+CHOICE:「まだもう少し一緒にいたいな」=“I still want to be together for a little while.”
 //CHOICE:「俺も楽しかったよ、それじゃあね」=
 「まだもう少し一緒にいたいな」=“I still want to be together for a little while.”
 「えっ……も、もう、わがままなんだから。……いいわよ」=「Eh? Y-You're already being so greedy...It's fine though."

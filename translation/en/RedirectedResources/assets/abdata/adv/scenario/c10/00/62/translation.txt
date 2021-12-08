@@ -7,5 +7,5 @@
 「寂しいほど……次、会うのが楽しみになるよ」=“I'm so lonely... I'm looking forward to seeing you again.”
 「ふむ……それはあるかもしれない。では、またな」=“Fumu... There may come another time. Well, see you later.”
 
-//CHOICE:「せっかくだから俺の家にこない？」=
-//CHOICE:「寂しいほど……次、会うのが楽しみになるよ」=
+CHOICE:「せっかくだから俺の家にこない？」=“We've been this far already. Won't you come to my house?”
+CHOICE:「寂しいほど……次、会うのが楽しみになるよ」=“I'm so lonely... I'm looking forward to seeing you again.”
