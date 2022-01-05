@@ -3,8 +3,8 @@
 …………=......
 ……=...
 「……あっ、そろそろお別れ……」="...It's time for us to say goodbye..."
-//CHOICE:「よかったら……このまま家に来ない？」=
-//CHOICE:「そっか、じゃあまたね」=
+CHOICE:「よかったら……このまま家に来ない？」="Hey...why don't you come over to my place?"
+CHOICE:「そっか、じゃあまたね」="Okay, see you later."
 「よかったら……このまま家に来ない？」="Hey...why don't you come over to my place?"
 「……うん、いいよ」="Sure, that's fine."
 「そっか、じゃあまたね」="Okay, see you later."

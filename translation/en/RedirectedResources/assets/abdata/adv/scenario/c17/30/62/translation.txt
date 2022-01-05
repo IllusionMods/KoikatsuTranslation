@@ -4,7 +4,7 @@
 ……=...
 「まだ話してたいけれど、ここでお別れね」=“I still want to talk, but we leave in separate directions here.”
 //CHOICE:「これから、俺の家にこれないかな？」=
-//CHOICE:「そうだね、じゃあまたね」=
+CHOICE:「そうだね、じゃあまたね」=“That's true, see you again.”
 「これから、俺の家に来られないかな？　まだ[H]さんと一緒にいたくて」=“In that case, how about coming over to my place? I still want to be with [H]-san.”
 「ええ、全然構わないわよ。私も、まだ一緒にいたいって思ってたから」=“Yes, I don't mind at all. I was also thinking that I still want to be with you.”
 「そうだね、じゃあまたね」=“That's true, see you again.”
