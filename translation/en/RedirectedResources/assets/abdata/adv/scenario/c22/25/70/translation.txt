@@ -1,7 +1,7 @@
-//「今日のところはちょっと難しいかも……頭パンクしちゃいそう」=
-//「うーん……俺も。理解するのに時間かかりそうだよ」=
-//「えへへ、私だったら時間は平気だよ。ギリギリまで勉強しよ？」=
-//「いいの？」=
-//「私が君と勉強したいの！　二人の方が捗るんだもん！」=
-//「あはは、そうだね。それじゃあと少し、頑張ろう」=
-//「おー！」=
+﻿「今日のところはちょっと難しいかも……頭パンクしちゃいそう」=This might be some of the hardest homework I've done till now... Feels like my head's gonna rip.
+「うーん……俺も。理解するのに時間かかりそうだよ」=Mmm... me too. Just understanding it's taking quite a lot of time.
+「えへへ、私だったら時間は平気だよ。ギリギリまで勉強しよ？」=Ehehe, I'm good on time, personally. Let's study until we can't anymore?
+「いいの？」=You sure?
+「私が君と勉強したいの！　二人の方が捗るんだもん！」=I want to study next to you! I get so much more done together with you!
+「あはは、そうだね。それじゃあと少し、頑張ろう」=Ahaha, right. Well then, let's keep at it.
+「おー！」=Yeah~!

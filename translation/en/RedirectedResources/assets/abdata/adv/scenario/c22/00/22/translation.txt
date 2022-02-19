@@ -1,3 +1,3 @@
-//「ねぇねぇ、これ、今日の家庭科で作ったお菓子なんだけど……もし良かったらもらってくれないかな？」=
-//「え？　俺に？　いいの？」=
-//「うんっ！　男の子の意見も聞きたくてっ！　あっ、味の保証は……そんなに出来ないんだけど……えへへ……」=
+﻿「ねぇねぇ、これ、今日の家庭科で作ったお菓子なんだけど……もし良かったらもらってくれないかな？」=Hey, hey, I made these sweets during home-ec today... won't you try some?
+「え？　俺に？　いいの？」=Eh? Me? You sure?
+「うんっ！　男の子の意見も聞きたくてっ！　あっ、味の保証は……そんなに出来ないんだけど……えへへ……」=Yeah--! I wanna hear a boy's opinion too--! Ah--, I can't... super guarantee that they'll taste the best though... ehehe...

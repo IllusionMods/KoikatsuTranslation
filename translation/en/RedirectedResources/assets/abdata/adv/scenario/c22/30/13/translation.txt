@@ -1,4 +1,3 @@
-
-//「嬉しいっ！　もちろんＯＫだよっ！　楽しみっ！」=
-//「あはは、俺も楽しみ。一緒に楽しめるといいな」=
-//「うん！　君といられれば何だって楽しいよ！　当日まで寝られなくなっちゃいそう♪」=
+﻿「嬉しいっ！　もちろんＯＫだよっ！　楽しみっ！」=I'm so happy--! Of course, it's a yes--! I'm excited--!
+「あはは、俺も楽しみ。一緒に楽しめるといいな」=Ahaha, me too. Hopefully we can both enjoy ourselves.
+「うん！　君といられれば何だって楽しいよ！　当日まで寝られなくなっちゃいそう♪」=Yeah! Anything's enjoyable as long as you're there with me! I feel like I won't be able to sleep a wink until the day of our date♪

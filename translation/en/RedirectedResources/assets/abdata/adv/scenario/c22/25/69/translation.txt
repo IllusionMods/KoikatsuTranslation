@@ -1,7 +1,7 @@
-//「んーっ、結構頑張ったね！」=
-//「そうだね。こんなに勉強が捗ったのは久しぶりだよ」=
-//「私も！　やっぱり誰かと一緒にすると違うなぁ」=
-//「特に相手が男の子だと……頑張らなきゃって気になっちゃう。えへへ」=
-//「あはは。俺もきみが傍にいると頑張れるかも」=
-//「わわっ、私限定だ……も、もう……照れちゃうよぅ……」=
-//「あはは、ごめん。でも、本当だよ」=
+﻿「んーっ、結構頑張ったね！」=Nn--, we really put our all in that, huh!
+「そうだね。こんなに勉強が捗ったのは久しぶりだよ」=Yeah. It's been a while since I've gotten so much done in one go.
+「私も！　やっぱり誰かと一緒にすると違うなぁ」=Me too! It really is different, doing it together with someone.
+「特に相手が男の子だと……頑張らなきゃって気になっちゃう。えへへ」=Especially when the study partner's a boy... I just feel like I have to do my best, you know? Ehehe~
+「あはは。俺もきみが傍にいると頑張れるかも」=Ahaha. Having you next to me makes me put out my 100% too.
+「わわっ、私限定だ……も、もう……照れちゃうよぅ……」=Wawah--, just me... j-jeez... you'll make me blush...
+「あはは、ごめん。でも、本当だよ」=Ahaha, sorry. But, it's true.

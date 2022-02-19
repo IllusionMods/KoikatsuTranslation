@@ -1,5 +1,5 @@
-//「ね、今ちょっと話してもいいかな？」=
-//「うん、いいよー！　どうしたの？　私に何か用事？」=
-//「特に用事ってわけじゃないんだけど……純粋に話してみたいなって。あんまり話したことなかったからさ」=
-//「なるほど！　うん、そうだね！　私も君とお話ししたいかも！」=
-//「やった！」=
+﻿「ね、今ちょっと話してもいいかな？」=Hey, do you mind chatting with me for a bit?
+「うん、いいよー！　どうしたの？　私に何か用事？」=Yeah, alright! What's up? Need something from me?
+「特に用事ってわけじゃないんだけど……純粋に話してみたいなって。あんまり話したことなかったからさ」=I don't need anything in particular... Just wanted to have a little chat, that's all. Since we've never talked much, you know.
+「なるほど！　うん、そうだね！　私も君とお話ししたいかも！」=I see! Yeah, you're right! I wanna chat with you too!
+「やった！」=Great!
