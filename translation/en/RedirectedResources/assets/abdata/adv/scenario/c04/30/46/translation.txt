@@ -1,4 +1,3 @@
-
-//「こんなこと聞くのも、恥ずかしいのだけど……私、ちゃんとできたかしら？」=
-//「うん、すごく良かったよ」=
-//「そっか。ふふっ……私も、気持ちよかったわ」=
+﻿「こんなこと聞くのも、恥ずかしいのだけど……私、ちゃんとできたかしら？」=It's a bit embarrassing to ask this but... did I do it properly?
+「うん、すごく良かったよ」=Yes, you were amazing.
+「そっか。ふふっ……私も、気持ちよかったわ」=I see. Fufu--... I felt, amazing too.

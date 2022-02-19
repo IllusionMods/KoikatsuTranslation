@@ -1,6 +1,6 @@
-//「ふう、お腹いっぱいだよ」=
-//「そうね。満足だわ」=
-//「外も暗くなってきたし、そろそろ出ようか」=
-//「あら？　もうこんな時間だったのね……全然気づかなかった……」=
-//「じゃあ、会計を済ませてくるからちょっと待ってて」=
-//「悪いわね。お願いするわ」=
+﻿「ふう、お腹いっぱいだよ」=Fuu, I'm stuffed.
+「そうね。満足だわ」=Indeed. I'm satisfied.
+「外も暗くなってきたし、そろそろ出ようか」=It's started getting dark out too, we should head out.
+「あら？　もうこんな時間だったのね……全然気づかなかった……」=Oh? It's already gotten this late, huh... I didn't notice at all...
+「じゃあ、会計を済ませてくるからちょっと待ってて」=Well then, I'll go settle the bill so wait here a bit.
+「悪いわね。お願いするわ」=Sorry about that. Thank you.

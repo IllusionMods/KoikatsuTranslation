@@ -1,2 +1,2 @@
-//「今日はとても楽しかったわ、ありがとう」=
-//「次デートする時は恋び……な、なんでもないわ。……じゃあ、またね？」=
+﻿「今日はとても楽しかったわ、ありがとう」=I had a lot of fun today, thank you.
+「次デートする時は恋び……な、なんでもないわ。……じゃあ、またね？」=How about we go on our next date as a cou... i-it's nothing, ignore that. ...See you, okay?

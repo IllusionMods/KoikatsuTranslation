@@ -1,3 +1,3 @@
-//「あっ、ねえ、ちょっと……」=
-//「これ、ブラウニー……家庭科の授業で作ったの、良ければ、食べてくれる？」=
-//「不味かったら捨てちゃっていいから……そ、それじゃあ、また」=
+﻿「あっ、ねえ、ちょっと……」=Ah--, hey, listen...
+「これ、ブラウニー……家庭科の授業で作ったの、良ければ、食べてくれる？」=here's, some brownies... I made them during home economics. Would you care to try them?
+「不味かったら捨てちゃっていいから……そ、それじゃあ、また」=You can throw them away if they don't taste good... w-well then, see you.

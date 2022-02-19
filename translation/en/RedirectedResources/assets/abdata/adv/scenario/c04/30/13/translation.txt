@@ -1,4 +1,3 @@
-
-//「で、デート……も、もちろんいいわよ。恋人、だものね……！」=
-//「ど、どうしたの？　顔がすごく赤いけど……」=
-//「う、ううん、大丈夫よ……デート、楽しみにしてるわねっ！」=
+﻿「で、デート……も、もちろんいいわよ。恋人、だものね……！」=A-A date... o-of course, it's a yes. We're a couple, afterall...!
+「ど、どうしたの？　顔がすごく赤いけど……」=W-What's the matter? Your face's burning up...
+「う、ううん、大丈夫よ……デート、楽しみにしてるわねっ！」=N-No, it's nothing, I'm okay... I'm really, looking forward to it, okay--?!

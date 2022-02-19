@@ -1,4 +1,3 @@
-
-//「いいわね、私もちょうど、復習したいと思ってたところだったの」=
-//「ならよかった。それじゃあ、始めようか」=
-//「はい、よろしくお願いしますね。センセイ？」=
+﻿「いいわね、私もちょうど、復習したいと思ってたところだったの」=Sounds good, I was just feeling like doing some revisions myself.
+「ならよかった。それじゃあ、始めようか」=Great. Well then, let's start.
+「はい、よろしくお願いしますね。センセイ？」=Yes, please take care of me. Sensei~

@@ -1,6 +1,5 @@
-
-//「……ねえ、ここ教えてくれる？」=
-//「うん？　……ここはね、こうしてこうすると……」=
-//「おおっ、すごいね。こんな解き方があるとは思わなかった……」=
-//「ふふっ、なんだか私がセンセイになっちゃったわね」=
-//「ははは……ごめんなさい」=
+﻿「……ねえ、ここ教えてくれる？」=...Hey, will you teach me this part?
+「うん？　……ここはね、こうしてこうすると……」=Hm? ...This part, you have to do it like this...
+「おおっ、すごいね。こんな解き方があるとは思わなかった……」=Ooh--, that's amazing. I never knew you could solve it this way...
+「ふふっ、なんだか私がセンセイになっちゃったわね」=Fufu--, seems like I became the teacher instead, huh?
+「ははは……ごめんなさい」=Hahaha... I'm sorry.

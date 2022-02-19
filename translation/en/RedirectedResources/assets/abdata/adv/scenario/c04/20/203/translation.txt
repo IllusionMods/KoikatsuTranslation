@@ -1,12 +1,11 @@
-//「だいぶ見て回ったわね……園内がすっかりオレンジ色に染まっているわ」=
-//「まだ時間が大丈夫なら、最後に観覧車に乗ってかない？」=
-//「ええ、大丈夫よ。もう少し待てば、観覧車から綺麗な夜景が見れそうね」=
-//「だね。楽しみだ」=
-//「暗くなる前に今日は帰ろうか」=
-//「そうね。楽しい時間はあっという間だわ」=
-//「だねぇ……」=
-//「また連れてきてね？　約束よ」=
-//「うん」=
-
-//CHOICE:『最後に観覧車に乗ってかない？』=
-//CHOICE:『暗くなる前に帰ろうか』=
+﻿「だいぶ見て回ったわね……園内がすっかりオレンジ色に染まっているわ」=We sure went through a whole lot of them... the entire place is dyed orange now.
+「まだ時間が大丈夫なら、最後に観覧車に乗ってかない？」=If you've still got some time, how about we ride the ferris wheel to close things off?
+「ええ、大丈夫よ。もう少し待てば、観覧車から綺麗な夜景が見れそうね」=Yes, I'm good on time. If we wait a little bit, I bet we'll get to see quite the night view.
+「だね。楽しみだ」=Yeah. I'm looking forward to it.
+「暗くなる前に今日は帰ろうか」=Let's go home before it gets dark.
+「そうね。楽しい時間はあっという間だわ」=Indeed. Time flies when you're having fun.
+「だねぇ……」=Sure does...
+「また連れてきてね？　約束よ」=Bring me back here someday again, okay? It's a promise.
+「うん」=Sure.
+CHOICE:『最後に観覧車に乗ってかない？』=Wanna ride the ferris wheel to close it off?
+CHOICE:『暗くなる前に帰ろうか』=Let's go home before it gets dark.
