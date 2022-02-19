@@ -1,4 +1,4 @@
-//「本当に不思議……あなたと一緒にいると、それだけでこの景色が色づきだすの」=
-//「思えば、初めて一緒に帰った時もそんな事言ってたよね」=
-//「うん、あなたがそれを教えてくれた。だから、この先もずっと……」=
-//「……ああ。連れて行ってあげるよ。君の知らない物語へとね……」=
+﻿「本当に不思議……あなたと一緒にいると、それだけでこの景色が色づきだすの」=It really is strange... just being with you, makes the scenery look so much more colorful.
+「思えば、初めて一緒に帰った時もそんな事言ってたよね」=You did say something similar the first time we walked home together, didn't you?
+「うん、あなたがそれを教えてくれた。だから、この先もずっと……」=Yeah, you showed this world to me. That's why, in the future too...
+「……ああ。連れて行ってあげるよ。君の知らない物語へとね……」=...Yeah, I'll show them to you. Stories you've not yet seen...

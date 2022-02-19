@@ -1,3 +1,2 @@
-
-//「あっ、おはよう[P]君。ちょっとシャワーを借りてたの」=
-//「そ、そんなにじっと見つめられると……やっぱり恥ずかしいよ……」=
+﻿「あっ、おはよう[P]君。ちょっとシャワーを借りてたの」=Ah--, morning, [P]-kun. I borrowed your shower.
+「そ、そんなにじっと見つめられると……やっぱり恥ずかしいよ……」=I-If you stare at me so much... it really is embarrassing...

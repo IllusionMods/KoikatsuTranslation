@@ -1,5 +1,5 @@
-//「何か違う……こんなの、恋人が抱くものじゃない……」=
-//「え……どうしたの？」=
-//「ううん。ただ、愛想を尽かすってこういう感じなんだなって、思ってるだけだから」=
-//「えっ？　ちょ、ちょっと待って」=
-//「ごめんね、もう私に構わないで。私から本を読む時間を奪わないで……！」=
+﻿「何か違う……こんなの、恋人が抱くものじゃない……」=Something's not right... this feeling, it's not the feeling of love...
+「え……どうしたの？」=Eh... what's the matter?
+「ううん。ただ、愛想を尽かすってこういう感じなんだなって、思ってるだけだから」=Nothing. I was just thinking that maybe this is what it feels like to fall out of love for someone.
+「えっ？　ちょ、ちょっと待って」=Eh--? W-Wait, hold on a sec.
+「ごめんね、もう私に構わないで。私から本を読む時間を奪わないで……！」=Sorry, don't bother yourself with me anymore though. Don't steal away my time from books...!

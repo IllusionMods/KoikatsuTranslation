@@ -1,11 +1,10 @@
-………………=.........
-…………=......
+﻿………………=...
+…………=...
 ……=...
-//「あっ、もう分かれ道だね。私はこっち側だから……」=
-//「……もっと、そばに居たいな。君さえよければだけど、家に来ない？」=
-//「[P]君……うん、私も……あなたのそばに居たい。それじゃ、よろしくね」=
-//「それじゃ、また学園で」=
-//「うん、学園でもよろしくね。例の本、明日持ってくるから」=
-
-//CHOICE:「……もっと、そばに居たいな」=
-//CHOICE:「それじゃ、また学園で」=
+「あっ、もう分かれ道だね。私はこっち側だから……」=Ah--, we have to split here, don't we? Since my home's this way...
+「……もっと、そばに居たいな。君さえよければだけど、家に来ない？」=...I wanna, stay with you a bit longer. Won't you come to my place? Only if it's alright with you.
+「[P]君……うん、私も……あなたのそばに居たい。それじゃ、よろしくね」=[P]-kun... yeah, I want to... stay by your side too. Well then, please lead the way.
+「それじゃ、また学園で」=Well then, see ya at school.
+「うん、学園でもよろしくね。例の本、明日持ってくるから」=Yeah, see you then. I'll bring the book I told you about.
+CHOICE:「……もっと、そばに居たいな」=...I wanna stay with you for a bit longer.
+CHOICE:「それじゃ、また学園で」=Well then, see ya at school.
