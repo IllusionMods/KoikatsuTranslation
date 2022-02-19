@@ -1,10 +1,9 @@
-
-//「……私、男の人とデートだなんて初めてで、ドキドキしています」=
-//「俺も……すごくドキドキしてる。今日はいっぱい思い出作ろう」=
-//「は、はい！　その、エスコート、お願いします！」=
-//「うん、任せて！」=
-//「これが、デート……うふふ」=
-//「どうかな？　楽しんでもらえてればいいけど……」=
-//「すごく、新鮮で楽しいです。楽しすぎて、ドキドキが止まらないです……」=
-//（良かった。最後まで楽しんでもらえるよう頑張らなくちゃ）=
-//「今日は本当に楽しかったです。わ、私……今日のことは忘れません！」=
+﻿「……私、男の人とデートだなんて初めてで、ドキドキしています」=...It's my first time, going out on a date with a guy, so my heart's racing.
+「俺も……すごくドキドキしてる。今日はいっぱい思い出作ろう」=Mine too... it's going at lightspeed. Let's make lots of memories today.
+「は、はい！　その、エスコート、お願いします！」=Y-Yes! Uhm, please, take care of me!
+「うん、任せて！」=Yeah, leave it to me!
+「これが、デート……うふふ」=So this is, a date... ufufu~
+「どうかな？　楽しんでもらえてればいいけど……」=How is it? I hope you're enjoying yourself...
+「すごく、新鮮で楽しいです。楽しすぎて、ドキドキが止まらないです……」=It's a really novel and fun experience. It's so fun, my heart won't stop racing...
+（良かった。最後まで楽しんでもらえるよう頑張らなくちゃ）=(Great. I gotta work hard so she keeps enjoying herself till the end.)
+「今日は本当に楽しかったです。わ、私……今日のことは忘れません！」=Today really was a blast. I-I... will never forget this day!

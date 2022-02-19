@@ -1,9 +1,8 @@
-
-「あの、話がしたいんだけどちょっといいかな」=“Um, I wanted to talk a bit if it's possible.”
-「……えっ？　……あ。は、はじめまして。えぇっと……なんでしょうか……？」=“......Eh? ......Ah. Yes, nice to meet you. Umm...... What is it......?”
-「はじめまして。俺は[P名前]って言うんだ」=“Nice to meet you. You can call me [P名前].”
-「あ……うぅ……ごめんなさい。あの、その……」=“Ah...... Uh...... Sorry. Um, that......”
-（もしかして、男が苦手なのかな？）=（Maybe a man is not good at it?）
-「大丈夫？　無理そうならまた今度にするけど……」=“Are you ok? If it is possible, we can do it again in an other moment......”
-「あ、い、いえ……な、なんとか、頑張ってみます……！」=“Ah, n-no......, s-somehow I'll do my best......!”
-（すごく警戒してるみたいだけど話をしてくれそうだ。どんな話をしよう……？）=（I seem to be very cautious but I'm going to talk. What shoud I talk about......?）
+﻿「あの、話がしたいんだけどちょっといいかな」=Uhm, do you have a moment? I'd like to chat.
+「……えっ？　……あ。は、はじめまして。えぇっと……なんでしょうか……？」=...Eh--? ...Ah. H-Hello. Eerhm... what is it...?
+「はじめまして。俺は[P名前]って言うんだ」=Nice to meet you. I go by [P名前].
+「あ……うぅ……ごめんなさい。あの、その……」=Ah... uu... I'm sorry. Uhm, it's...
+（もしかして、男が苦手なのかな？）=(Maybe she can't handle being around a boy?)
+「大丈夫？　無理そうならまた今度にするけど……」=You alright? If you're feeling uncomfortable, we can do this another time...
+「あ、い、いえ……な、なんとか、頑張ってみます……！」=Ah, n-no... I-I'll hang in there, or, I'll try atleast...!
+（すごく警戒してるみたいだけど話をしてくれそうだ。どんな話をしよう……？）=(While she's super on guard, she seems willing enough to talk. What should I start with...?)

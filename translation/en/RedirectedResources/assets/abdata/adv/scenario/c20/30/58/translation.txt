@@ -1,5 +1,4 @@
-
-//「あの、今日のデート……楽しみにしていました」=
-//「本当？　それは嬉しいな……よし、じゃあさっそく行こうか」=
-//「この喫茶店、お気に入りなんだよね」=
-//「と、とっても素敵なお店です……！」=
+﻿「あの、今日のデート……楽しみにしていました」=Uhm, I've been really... looking forward to this.
+「本当？　それは嬉しいな……よし、じゃあさっそく行こうか」=Really? Boy am I glad to hear that... alright, let's head off then.
+「この喫茶店、お気に入りなんだよね」=You really like this cafe, don't you?
+「と、とっても素敵なお店です……！」=I-It's a wonderful place...!

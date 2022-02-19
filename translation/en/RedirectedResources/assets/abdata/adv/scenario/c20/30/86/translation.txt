@@ -1,9 +1,8 @@
-
-//「[P]さん、今日はやってみたいことがあります。この雑誌の記事を読んでください」=
-//「なになに『いろいろなキスの仕方。これで二人の愛を確かめ合おう』……？」=
-//「はい……ダメですか？」=
-//「そんなことないよ。一つずつ試してみよう」=
-//「んっ……」=
-//「ん……このベーシックなキスはプレッシャーキスって言うのか」=
-//「うふふ、恋人でもやっぱり緊張しちゃいますね。私、このキス好きです」=
-//「じゃあもう一回」=
+﻿「[P]さん、今日はやってみたいことがあります。この雑誌の記事を読んでください」=[P]-san, there's something I'd like to try out today. Please read this magazine article.
+「なになに『いろいろなキスの仕方。これで二人の愛を確かめ合おう』……？」=Let's see,「Kissing for Dummies 101. Deepen your love for each other with these varied techniques」...?
+「はい……ダメですか？」=Yes... is it a no?
+「そんなことないよ。一つずつ試してみよう」=Not at all. Let's go through all of them one by one.
+「んっ……」=Nn--...
+「ん……このベーシックなキスはプレッシャーキスって言うのか」=Nn... this basic kiss is called a "pressure kiss", huh?
+「うふふ、恋人でもやっぱり緊張しちゃいますね。私、このキス好きです」=Ufufu, even if it's basic, for new couples, it'd be quite tension inducing. I love that kiss.
+「じゃあもう一回」=Then, let's do it again.

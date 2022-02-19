@@ -1,3 +1,3 @@
-//「お、おはようございます、[Pあだ名]」=
-//「うん、おはよう[Hあだ名]」=
-//「や、やっぱりドキドキしてしまいますね、えへへ……」=
+﻿「お、おはようございます、[Pあだ名]」=G-Good morning, [Pあだ名].
+「うん、おはよう[Hあだ名]」=Yeah, good morning, [Hあだ名].
+「や、やっぱりドキドキしてしまいますね、えへへ……」=T-This really does make your heart pound, doesn't it, ehehe...

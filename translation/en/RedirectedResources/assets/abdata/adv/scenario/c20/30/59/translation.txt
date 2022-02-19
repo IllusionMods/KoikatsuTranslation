@@ -1,3 +1,2 @@
-
-//「今日は、楽しかったです」=
-//「それで、その……良ければまた、また……私とデートしてください……じ、じゃあ、また！」=
+﻿「今日は、楽しかったです」=Today was, a lot of fun.
+「それで、その……良ければまた、また……私とデートしてください……じ、じゃあ、また！」=If it's, uhm... if it's alright, please go... go out on a date with me again... t-then, see you!

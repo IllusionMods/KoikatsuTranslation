@@ -1,3 +1,2 @@
-
-//「あ、お目覚めですか？　ちょっと、シャワーを借りました」=
-//「あの……あまりジッと見ないでください。恥ずかしいです……」=
+﻿「あ、お目覚めですか？　ちょっと、シャワーを借りました」=Ah, have you woken up? I borrowed your shower.
+「あの……あまりジッと見ないでください。恥ずかしいです……」=Uhm... please don't stare so much. It's embarrassing...

@@ -1,3 +1,2 @@
-
-//「あ、おはようございます。……あなたの寝顔が見たくて、先に起きちゃいました」=
-//「あの……ごめんなさい、あなたの寝顔の写真、撮っちゃいました。えへへ……」=
+﻿「あ、おはようございます。……あなたの寝顔が見たくて、先に起きちゃいました」=Ah, good morning. ...I just wanted to see your sleeping face so badly, I woke up ahead of time.
+「あの……ごめんなさい、あなたの寝顔の写真、撮っちゃいました。えへへ……」=Uhm... I'm sorry, I took a photo, of your sleeping face. Ehehe~...

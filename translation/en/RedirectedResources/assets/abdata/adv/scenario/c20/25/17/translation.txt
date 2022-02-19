@@ -1,4 +1,4 @@
-「んーっ、よく寝た。……あれ？　メモがある。なになに――」=“Mmm, I slept well. ...Oh? There's a letter. What's it say...?”
-//『おはようございます。すみませんが、日直なので先に行きますね』=
-//『朝ごはん、作っておいたので必ず食べてください』=
-//『少しでも早くあなたに会いたいので、寝坊なんてしないでくださいね』=
+﻿「んーっ、よく寝た。……あれ？　メモがある。なになに――」=Nnn, I slept well. ...Huh? There's a note. Let's see--
+『おはようございます。すみませんが、日直なので先に行きますね』=「Good morning. I'm sorry, I'm on day duty today so I'm going to head out first, okay? 」
+『朝ごはん、作っておいたので必ず食べてください』=「I made you breakfast, so please eat it before leaving.」
+『少しでも早くあなたに会いたいので、寝坊なんてしないでくださいね』=「I want to see you as soon as I can, so please don't sleep in, okay?」
