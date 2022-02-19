@@ -1,2 +1,2 @@
-//「え？　あ、あの、私たち一体、何をしてたんですか？」=
-//「……変ですね、何も覚えていないなんて。なんだかモヤモヤします」=
+﻿「え？　あ、あの、私たち一体、何をしてたんですか？」=Eh? U-Uhm, just what were we doing?
+「……変ですね、何も覚えていないなんて。なんだかモヤモヤします」=...It's rather weird, isn't it? Neither of us remembers anything at all. It all feels so fuzzy and gloomy.

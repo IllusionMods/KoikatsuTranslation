@@ -1,4 +1,4 @@
-//「で、デート？……あなたとデート…………」=
-//「ですが、私たちはお付き合いをしているわけでは……」=
-//「そうなんだけど、まあデート『みたいなもの』ってことで。どう？」=
-//「コイカツの一環ということですか？　……そういうことでしたら、お付き合いいたします」=
+﻿「で、デート？……あなたとデート…………」=A-A date? ...A date with you...
+「ですが、私たちはお付き合いをしているわけでは……」=However, we're not exactly dating...
+「そうなんだけど、まあデート『みたいなもの』ってことで。どう？」=That's true but, well, it doesn't have to be a date-date, it could be a date-like thing. How about it?
+「コイカツの一環ということですか？　……そういうことでしたら、お付き合いいたします」=A sort of love-activity, huh? ...In that case, I don't mind accompanying you.

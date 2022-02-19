@@ -1,9 +1,8 @@
-
-//「なっ！？　じ、自分でなにを言っているのか、わかっているんですか？　私たちは……」=
-//「わかってるよ。俺たちは恋人同士じゃない。でもきみとエッチをしたいんだ」=
-//「し、支離滅裂です……」=
-//「きみは嫌？　俺とエッチするの」=
-//「……その聞き方はずるいです。論点がずれています」=
-//「ただ、もし答えるならば……嫌ではありません」=
-//「それじゃあ――」=
-//「このようなことは……今回だけですからね」=
+﻿「なっ！？　じ、自分でなにを言っているのか、わかっているんですか？　私たちは……」=Wha--!? D-Do you even understand what you're saying? We're not...
+「わかってるよ。俺たちは恋人同士じゃない。でもきみとエッチをしたいんだ」=I know. We're not dating. But, I want to have sex with you.
+「し、支離滅裂です……」=I-I don't, cannot compute...
+「きみは嫌？　俺とエッチするの」=Do you hate the idea of it? Of having sex with me.
+「……その聞き方はずるいです。論点がずれています」=...That's unfair, the way you put that. That's really not the issue here.
+「ただ、もし答えるならば……嫌ではありません」=Although, if I had to answer... I don't hate the idea of it, no.
+「それじゃあ――」=Then--
+「このようなことは……今回だけですからね」=Just this... Just this once, okay?

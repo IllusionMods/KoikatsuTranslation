@@ -1,5 +1,5 @@
-//「それじゃあ、勉強を始めようか」=
-//「ええ。それにしても――」=
-//「ん？　どうかした？」=
-//「改めてこうして向かい合うと、照れますね」=
-//「えっ？　そ、そうだね……あはははは」=
+﻿「それじゃあ、勉強を始めようか」=Well then, let's get started.
+「ええ。それにしても――」=Yes. All things considered, though--
+「ん？　どうかした？」=Nn? What's up?
+「改めてこうして向かい合うと、照れますね」=Facing each other like this, it's quite embarrassing, isn't it?
+「えっ？　そ、そうだね……あはははは」=Eh--? Y-Yeah, it is... ahahahaha.

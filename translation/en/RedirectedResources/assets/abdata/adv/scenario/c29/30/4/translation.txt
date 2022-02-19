@@ -1,4 +1,3 @@
-
-//「構いませんよ。勉学は疎かにできませんからね」=
-//「気合い充分だね。じゃあ始めようか」=
-//「ええ」=
+﻿「構いませんよ。勉学は疎かにできませんからね」=I don't mind. It wouldn't do to neglect studies, afterall.
+「気合い充分だね。じゃあ始めようか」=Someone's sure motivated. Let's start then.
+「ええ」=Yes.

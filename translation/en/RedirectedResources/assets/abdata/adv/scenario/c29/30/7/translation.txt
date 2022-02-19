@@ -1,9 +1,8 @@
-
-//「…………」=
-//「あ、あのー……」=
-//「はっ……す、すみません、突然のことすぎて意識が飛んでいました」=
-//「びっくりさせちゃったかな。でも、俺の本心なんだ」=
-//「……まさか、人生で初めて受ける告白があなたからになるとは」=
-//「確かに驚きましたが、私も……その……あなたと同じ気持ちです」=
-//「えっと……それじゃあ……」=
-//「あなたの告白、お受けいたします。恋人に……なりましょう」=
+﻿「…………」=......
+「あ、あのー……」=U-Uhm...
+「はっ……す、すみません、突然のことすぎて意識が飛んでいました」=Ha--... I-I'm sorry, that was just so sudden, I lost consciousness for a bit.
+「びっくりさせちゃったかな。でも、俺の本心なんだ」=Caught you off guard, huh? But, it's how I truly feel.
+「……まさか、人生で初めて受ける告白があなたからになるとは」=...I never thought that my first ever confession would be from you.
+「確かに驚きましたが、私も……その……あなたと同じ気持ちです」=It was certainly quite surprising but, I too... uhm... feel the same way.
+「えっと……それじゃあ……」=Erhm... well then...
+「あなたの告白、お受けいたします。恋人に……なりましょう」=I accept your confession. Let's... become a couple.

@@ -1,3 +1,2 @@
-
-//「今日もまた、素晴らしいデートでした。終わってしまうのが寂しいくらいです」=
-//「……また今度しようね。デート」=
+﻿「今日もまた、素晴らしいデートでした。終わってしまうのが寂しいくらいです」=Today's date was yet another wonderful one. So much so, it almost feels sad that it has to end.
+「……また今度しようね。デート」=...Let's go on a date again, okay?

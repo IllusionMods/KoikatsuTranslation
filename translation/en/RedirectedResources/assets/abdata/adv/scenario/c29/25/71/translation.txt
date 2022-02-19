@@ -1,4 +1,4 @@
-//「図書室ではなく、部室なんですね」=
-//「うん。ほら、図書室だと完全に二人きりってわけじゃないから」=
-//「あっ……た、確かにそうですね……二人きり、[P]さんと二人きり……」=
-//「意識したら緊張してきました……っ」=
+﻿「図書室ではなく、部室なんですね」=At the clubroom, rather than the library, huh?
+「うん。ほら、図書室だと完全に二人きりってわけじゃないから」=Yeah. I mean, you know, we can't be ever be truly alone at the library afterall.
+「あっ……た、確かにそうですね……二人きり、[P]さんと二人きり……」=Ah--... I-Indeed, that is the case... alone, alone with you, [P]-san...
+「意識したら緊張してきました……っ」=I'm starting to get rather nervous now...--

@@ -1,4 +1,4 @@
-//「ど、どうぞ……してください」=
-//「だいぶ緊張してるみたいだけど、本当に大丈夫？」=
-//「ええ……あなたに抱いてもらえるなら本望です」=
-//「好き同士だから共有できる快感……私にください」=
+﻿「ど、どうぞ……してください」=G-Go ahead then... do it please.
+「だいぶ緊張してるみたいだけど、本当に大丈夫？」=You seem really tense, are you sure you're alright with this?
+「ええ……あなたに抱いてもらえるなら本望です」=Yes... I've long wished for this, to be embraced by you.
+「好き同士だから共有できる快感……私にください」=Please give me the pleasure... only lovers can share.

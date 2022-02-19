@@ -1,5 +1,4 @@
-
-//「なるほど。運動を」=
-//「ダメだったかな」=
-//「……いえ。二人でできる運動はどんなものがあるか、と」=
-//「考えている内に案が出てくるかもね。俺も一緒に考えるよ」=
+﻿「なるほど。運動を」=I see. Exercise, is it?
+「ダメだったかな」=No good, huh?
+「……いえ。二人でできる運動はどんなものがあるか、と」=...No. I was just wondering about what sort of exercise we could even do together.
+「考えている内に案が出てくるかもね。俺も一緒に考えるよ」=I'll help. We might be able to dig up something fun together.

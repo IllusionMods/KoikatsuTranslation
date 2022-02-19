@@ -1,2 +1,2 @@
-//「今日は誘っていただきありがとうございました。おかげで、素敵な一日をすごせたと思います」=
-//「また、学園でお会いしましょう」=
+﻿「今日は誘っていただきありがとうございました。おかげで、素敵な一日をすごせたと思います」=Thank you very much for taking me out today. Thanks to you, I had a splendid day today.
+「また、学園でお会いしましょう」=Let's see each other at school, okay?

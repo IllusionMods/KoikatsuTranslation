@@ -1,2 +1,2 @@
-//「そ、そうなんですか……はい、私でよければ」=
-//「あ、口止めとかではなくて、その……私もまだ物足りなくて……」=
+﻿「そ、そうなんですか……はい、私でよければ」=I-I see... okay, if you'll do with me.
+「あ、口止めとかではなくて、その……私もまだ物足りなくて……」=Ah, don't worry, it's not that you're coercing me, uhm... I still haven't had enough yet either so...
