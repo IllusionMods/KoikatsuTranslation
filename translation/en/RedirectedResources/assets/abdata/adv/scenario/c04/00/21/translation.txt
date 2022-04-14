@@ -1,3 +1,3 @@
-//「おはよう。ふふっ」=
-//「どうしたの、何か良いことあった？」=
-//「ええ……こうしてあなたの隣を歩けるのが、幸せだなって」=
+﻿「おはよう。ふふっ」=Good morning. Fufu--
+「どうしたの、何か良いことあった？」=What's up, did something good happen?
+「ええ……こうしてあなたの隣を歩けるのが、幸せだなって」=Yes... just being able to walk like this, right next to you, makes me really happy.

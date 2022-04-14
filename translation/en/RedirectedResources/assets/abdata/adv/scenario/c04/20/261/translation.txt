@@ -1,4 +1,4 @@
-//「気持ちよかったけど……ちょっとあせったよ」=
-//「ねえ……もし、あの時私が『助けて』って叫んでたら、どうなってたのかしら？」=
-//「！？　絶対やめてくれよ！？」=
-//「ふふふ……冗談よ」=
+﻿「気持ちよかったけど……ちょっとあせったよ」=That felt great but... yeah, my heart nearly went kaboom there.
+「ねえ……もし、あの時私が『助けて』って叫んでたら、どうなってたのかしら？」=Hey... if, back there, I screamed for help, how would that have turned out?
+「！？　絶対やめてくれよ！？」=!? Please never do that!
+「ふふふ……冗談よ」=Fufufu... I'm joking.

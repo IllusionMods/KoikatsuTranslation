@@ -1,4 +1,3 @@
-
-//「もちろんいいわよ、デート代はあなたのおごりよね？」=
-//「えっと、それはちょっと厳しいかなー……」=
-//「ふふっ、冗談よ。それじゃあエスコート、お願いね」=
+﻿「もちろんいいわよ、デート代はあなたのおごりよね？」=Of course, it's a yes. You're paying, right?
+「えっと、それはちょっと厳しいかなー……」=Erhm, for the whole date? That'd be...
+「ふふっ、冗談よ。それじゃあエスコート、お願いね」=Fufu--, I'm joking. Well then, please do take care of me.

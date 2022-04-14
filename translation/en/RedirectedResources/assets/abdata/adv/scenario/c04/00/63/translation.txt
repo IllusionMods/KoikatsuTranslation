@@ -1,3 +1,3 @@
-//「おじゃまします……これがあなたの部屋なのね」=
-//「……ふふっ、慌てないの……私は逃げたりしないんだから」=
-//「……いいわよ、あなたのベッドの上で、抱いて？」=
+﻿「おじゃまします……これがあなたの部屋なのね」=I'm coming in... so this is your room, huh?
+「……ふふっ、慌てないの……私は逃げたりしないんだから」=...Fufu--, come now, no rushing... I'm not going to run away.
+「……いいわよ、あなたのベッドの上で、抱いて？」=...It's alright. Embrace me, on your bed?

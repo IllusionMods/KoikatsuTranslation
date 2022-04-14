@@ -1,5 +1,4 @@
-
-「んーっ、よく寝た。……あれ？　メモがある。なになに――」=“Mmm, I slept well. ...Oh? There's a letter. What's it say...?”
-//『おはよう、今日は早めに出なきゃいけないから、先に出るわね』=
-//『本当はゆっくりとあなたの寝顔を見ておきたかったのだけど……がまんがまん』=
-//『それじゃ、また学園でね♪　あなたの[H]より』=
+﻿「んーっ、よく寝た。……あれ？　メモがある。なになに――」=Nnn--, I slept well. ...Huh? There's a note. Let's see----
+『おはよう、今日は早めに出なきゃいけないから、先に出るわね』=『Good morning, I gotta head out early today, so I'm leaving first, okay?』
+『本当はゆっくりとあなたの寝顔を見ておきたかったのだけど……がまんがまん』=『I honestly wanted to just stay in and look at your sleeping face but... endure, must endure.』
+『それじゃ、また学園でね♪　あなたの[H]より』=『Well then, see you at school♪ --Yours and only yours, [H]』

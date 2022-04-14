@@ -1,7 +1,6 @@
-
-//「今日はその、告白の練習をしたいと思ってるんだ」=
-//「えっ……あなた、誰かに告白するの？」=
-//「い、いや、そういうワケじゃないんだけど……その時のためにね」=
-//「そ、そう……じゃあ、私も……その時のために、ね？　勘違いしちゃ、だめよ？」=
-//「……も、もうだめ……顔が熱いわ……」=
-//「ははっ、俺も……で、でもなんか……幸せだよ」=
+﻿「今日はその、告白の練習をしたいと思ってるんだ」=Today, uhm, I was thinking that we could try maybe practicing confessions.
+「えっ……あなた、誰かに告白するの？」=Eh--... are you going to confess to someone?
+「い、いや、そういうワケじゃないんだけど……その時のためにね」=N-No, that's not it... but well, it'd be good prep for when the time comes.
+「そ、そう……じゃあ、私も……その時のために、ね？　勘違いしちゃ、だめよ？」=I-I see... then, I guess I'll join too... just as prep for that time too, okay? Don't misunderstand it, okay?
+「……も、もうだめ……顔が熱いわ……」=...I-I can't anymore... my face is burning up...
+「ははっ、俺も……で、でもなんか……幸せだよ」=Haha--, mine too... b-but how do I say this... I feel happy.

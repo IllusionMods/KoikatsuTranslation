@@ -1,9 +1,8 @@
-
-//「ねえ部長さん、私、やってみたいことがあるんだけど」=
-//「はい、なんでしょうか[H]さん」=
-//「その、男の子を膝枕して、耳かきなんてしてみたいなって」=
-//「……はい。ぜひ、お願いします」=
-//「……どこかかゆい所はない？　さっきからだんまりだけど」=
-//「……ごめん、膝が心地よくて……寝そう」=
-//「あら……ふふっ、いいわよ。じゃあ予定を変更して……よしよし、っと」=
-//（……ああ、膝の柔らかさとなでなでのダブルパンチで、眠気が……）=
+﻿「ねえ部長さん、私、やってみたいことがあるんだけど」=Hey, Mr. President, there's something I'd like to try out.
+「はい、なんでしょうか[H]さん」=Yes, what is it, [H名]-san?
+「その、男の子を膝枕して、耳かきなんてしてみたいなって」=It's uhm, I want to try cleaning a boy's ear, with his head on my lap.
+「……はい。ぜひ、お願いします」=...Okay. Please, by all means.
+「……どこかかゆい所はない？　さっきからだんまりだけど」=...Does it itch anywhere? You've been quiet for a while.
+「……ごめん、膝が心地よくて……寝そう」=...Sorry, your lap just feels so comfortable... it's made me sleepy.
+「あら……ふふっ、いいわよ。じゃあ予定を変更して……よしよし、っと」=Oh my... fufu--, it's alright. Then, let's change the plan... there, there, off you go.
+（……ああ、膝の柔らかさとなでなでのダブルパンチで、眠気が……）=(...Aah, the double knockout punch of her soft thighs, and her hands stroking my head, I'm starting to...)

@@ -1,11 +1,10 @@
-
-………………=.........
-…………=......
+﻿………………=...
+…………=...
 ……=...
-//「っと、あなたの家はあっちだったわね、残念だけど、ここで……」=
-//CHOICE:「良ければだけど……家に来ない？」=
-//CHOICE:「うん、名残惜しいけど……またね」=
-//「良ければだけど……家に来ない？」=
-//「あなたがいいなら、喜んで。……ふふっ、そのまま住んじゃおうかしら、なんてね」=
-//「うん、名残惜しいけど……またね」=
-//「そんな顔しないの。すぐに会えるんだから……それじゃ、またね」=
+「っと、あなたの家はあっちだったわね、残念だけど、ここで……」=Oh, your place is over that way, isn't it? It's a shame but, we'll have to...
+「良ければだけど……家に来ない？」=If it's alright with you... won't you come to my place?
+「あなたがいいなら、喜んで。……ふふっ、そのまま住んじゃおうかしら、なんてね」=If you're fine with it, then gladly. ...Fufu--, maybe I'll take this chance to just move in with you, kidding.
+「うん、名残惜しいけど……またね」=Yeah, I don't want to say goodbye but... see ya later.
+「そんな顔しないの。すぐに会えるんだから……それじゃ、またね」=Don't make that sort of a face. We'll get to see each other again in now time... well then, see you.
+CHOICE:「良ければだけど……家に来ない？」=If it's alright with you... won't you come to my place?
+CHOICE:「うん、名残惜しいけど……またね」=Yeah, I don't want to say goodbye but... see ya later.

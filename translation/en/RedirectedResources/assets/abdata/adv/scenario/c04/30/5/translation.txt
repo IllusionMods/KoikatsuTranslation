@@ -1,4 +1,3 @@
-
-//「いいわよ、それじゃあ鬼ごっこしましょうか、あなたが鬼ね？」=
-//「ちょっと待って！　ふたりで鬼ごっこはキツいよ……」=
-//「それもそうね、じゃあ、ふたりで何か考えましょうか」=
+﻿「いいわよ、それじゃあ鬼ごっこしましょうか、あなたが鬼ね？」=Sure, well then, let's play tag. You're it.
+「ちょっと待って！　ふたりで鬼ごっこはキツいよ……」=Hang on a sec! A two person game of tag is a bit...
+「それもそうね、じゃあ、ふたりで何か考えましょうか」=You're not wrong. Let's think of something together then.

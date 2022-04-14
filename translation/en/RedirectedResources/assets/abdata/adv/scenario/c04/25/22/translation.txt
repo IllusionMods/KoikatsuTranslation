@@ -1,2 +1,2 @@
-//「あっ、ちょうどいい所に来てくれたわ。はい、クッキーどうぞ」=
-//「家庭科の授業で作ったの。私はもうたくさん食べたから……よければ、食べて？　じゃあ、またね」=
+﻿「あっ、ちょうどいい所に来てくれたわ。はい、クッキーどうぞ」=Ah--, you came at just the right time. Here, have these cookies.
+「家庭科の授業で作ったの。私はもうたくさん食べたから……よければ、食べて？　じゃあ、またね」=I made them during home economics. I already ate a lot of them so... if you'd like, eat some? Well then, see you.

@@ -1,7 +1,7 @@
-//「あなたが部長なら、きっと面白い部活ね。よろこんで入部するわ」=
-//「いいの？　やった！」=
-//「でも、これっていったい何をする部活なの？」=
-//「いつも通りおしゃべりをしたり……あとは、スキンシップかな」=
-//「スキンシップって……具体的には何をするの？」=
-//「えーと……それは、その……」=
-//「うーん、これはあなたを見張るって意味でも、入ったほうがよさそうね」=
+﻿「あなたが部長なら、きっと面白い部活ね。よろこんで入部するわ」=If you're the president, then I'm sure it's going to be a fun experience. I'd be glad to join.
+「いいの？　やった！」=You sure? Yay!
+「でも、これっていったい何をする部活なの？」=But, exactly what sort of club activities are they?
+「いつも通りおしゃべりをしたり……あとは、スキンシップかな」=Just chatting, like we usually do... also, some minor skinship and the like.
+「スキンシップって……具体的には何をするの？」=Skinship... exactly what would it entail?
+「えーと……それは、その……」=Erhm... that's, uhm...
+「うーん、これはあなたを見張るって意味でも、入ったほうがよさそうね」=Mmm, indeed, it'd be best for me to join your club, if only to keep an eye on you.

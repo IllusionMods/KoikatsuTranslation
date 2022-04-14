@@ -1,5 +1,5 @@
-//「へえ、色々あるんだね」=
-//「あっ、あのお店かわいいわ。寄ってもいい？」=
-//「うん、いいよ」=
-//「ふふっ、付き合ってくれてありがとう、楽しかったわ」=
-//（よかった、喜んでもらえたみたいだ）=
+﻿「へえ、色々あるんだね」=Hoh, there's all sorts here, huh?
+「あっ、あのお店かわいいわ。寄ってもいい？」=Ah--, that shop looks cute. Mind if we check it out?
+「うん、いいよ」=Sure, let's go.
+「ふふっ、付き合ってくれてありがとう、楽しかったわ」=Fufu--, thanks for putting up with me, it was very fun.
+（よかった、喜んでもらえたみたいだ）=(Great, looks like she enjoyed it.)
