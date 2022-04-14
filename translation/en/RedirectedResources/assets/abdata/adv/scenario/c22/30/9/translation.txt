@@ -1,4 +1,3 @@
-
-//「わぁぁ、いいの！？　嬉しいーっ！」=
-//「わわっ、そんなに喜んでくれるんだ！？」=
-//「当たり前だよーっ！　実は……ずっと待っていたのです♪　ふふーっ！」=
+﻿「わぁぁ、いいの！？　嬉しいーっ！」=Waah, you sure?! I'm so happy--!
+「わわっ、そんなに喜んでくれるんだ！？」=Wawah--, does it make you that happy?!
+「当たり前だよーっ！　実は……ずっと待っていたのです♪　ふふーっ！」=Of course, you dummy--! The truth is... I've been waiting for it this whole time♪ Fufu~!

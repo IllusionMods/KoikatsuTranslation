@@ -1,5 +1,5 @@
-//（ん……朝か……。昨日は確か……ん？　んん？　何だか妙に温かい気が……）=
-//「下半身……何か当たってるのか？」=
-//「あ、おはよう。もう朝ですよー」=
-//「あっ、おはよう。そっか、昨日は[H]が泊まりに来て……って、うわぁっ！　何してるのっ！？」=
-//「ふふーっ、おはようのちゅーだよ♪　だって私が起きるより前にこの子はもう起きてたんだもん。可愛い♪　ちゅっ！」=
+﻿（ん……朝か……。昨日は確か……ん？　んん？　何だか妙に温かい気が……）=(Nn... morning, huh... Yesterday, I... Mm? Mmmm? Something feels weirdly warm...)
+「下半身……何か当たってるのか？」=Is there something... on my crotch?
+「あ、おはよう。もう朝ですよー」=Ah, wakey-wakey. It's already morning~
+「あっ、おはよう。そっか、昨日は[H]が泊まりに来て……って、うわぁっ！　何してるのっ！？」=Ah--, morning. Right, you stayed over last ni... wuh, uwaah--! What are you doing--!?
+「ふふーっ、おはようのちゅーだよ♪　だって私が起きるより前にこの子はもう起きてたんだもん。可愛い♪　ちゅっ！」=Fufu~, it's just a morning kiss♪ I mean, afterall, before you or even me, this little guy of yours woke up first out of all three of us. So cute♪ *kiss*!

@@ -1,8 +1,7 @@
-
-//「あのさ、今、ふと思ったんだけど……」=
-//「え？　なぁに？」=
-//「いや、なんて言うか……こう……遊び半分で運動してるとさ。何となくデートしてる気にならない？」=
-//「わわっ……い、言っちゃいましたか……実はさっきからずっと私もそう思ってたよー」=
-//「だよね。学園使ったデートって感じ」=
-//「あ、あはは……もー、そんなこと言われたら、急にドキドキしちゃうよー！」=
-//「それじゃ、学園デート。時間ギリギリまで……よろしくお願いします」=
+﻿「あのさ、今、ふと思ったんだけど……」=Hey, listen, I just thought about something...
+「え？　なぁに？」=Eh? What is it?
+「いや、なんて言うか……こう……遊び半分で運動してるとさ。何となくデートしてる気にならない？」=No, well, it's... like... when we're half-exercising and half-playing like this, doesn't it feel like a date in a way?
+「わわっ……い、言っちゃいましたか……実はさっきからずっと私もそう思ってたよー」=Wawah--... y-you went and said it... I've actually been thinking about the same thing for a while now~
+「だよね。学園使ったデートって感じ」=Right. A date with the school as the stage.
+「あ、あはは……もー、そんなこと言われたら、急にドキドキしちゃうよー！」=A-Ahaha... jeez, if you say stuff like that, you're gonna make my heart race out of nowhere~!
+「それじゃ、学園デート。時間ギリギリまで……よろしくお願いします」=Well then, let's enjoy this... school date, till we're out of time.

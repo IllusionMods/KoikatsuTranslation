@@ -1,8 +1,8 @@
-//「今、ちょっといいかな？　君と話したいんだけど」=
-//「わわっ、話しかけられちゃった！」=
-//「あっ、ごめん！　嫌だった？」=
-//「ううんううん、違うの！」=
-//「男の子が転入してきたって聞いてたから……もし話しかけられたらどうしようって、ずっと緊張してたの。ごめんね」=
-//「あー、そうだよね。いきなり男が入ってきたら焦るよね」=
-//「うん。でも……お話ししやすそうな人で良かった。私からもお願いしていい？　君のお話聞きたいな」=
-//「もちろん！　よろしくね！」=
+﻿「今、ちょっといいかな？　君と話したいんだけど」=Hey, do you have a moment? I'd like to chat with you.
+「わわっ、話しかけられちゃった！」=Wawah--, you're really talking to me!
+「あっ、ごめん！　嫌だった？」=Ah--, sorry! Would you rather not?
+「ううんううん、違うの！」=No, no, I want to!
+「男の子が転入してきたって聞いてたから……もし話しかけられたらどうしようって、ずっと緊張してたの。ごめんね」=It's just that, I'd heard that a boy transferred in... and I got real nervous, didn't know what I'd do if you actually came to talk to me. Sorry~
+「あー、そうだよね。いきなり男が入ってきたら焦るよね」=Ah, of course. Having a boy transfer into an all-girls school would make just about anybody anxious.
+「うん。でも……お話ししやすそうな人で良かった。私からもお願いしていい？　君のお話聞きたいな」=Exactly. But... I'm glad, you seem like an easy guy to chat with. Mind if I ask for that from my end too? I'd love to hear what you have to say.
+「もちろん！　よろしくね！」=Of course! Let's get to know each other!
