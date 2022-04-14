@@ -1,11 +1,10 @@
-………………=.........
-…………=......
+﻿………………=...
+…………=...
 ……=...
-//「あっ、もうこんな時間……残念ですが、今日はここまでですね」=
-//「……この後、家にこれないかな？　まだ[H]といたいんだ」=
-//「え！？　……はい、大丈夫です！　私も、まだ一緒にいたかったので、嬉しいです！」=
-//「そうだね、また会おうね。それじゃ、ばいばい」=
-//「はい、それではまた」=
-
-//CHOICE:「この後、家にこれないかな？」=
-//CHOICE:「そうだね、ばいばい」=
+「あっ、もうこんな時間……残念ですが、今日はここまでですね」=Ah--, it's already this late... it's a shame but, we'll have to say goodbye here.
+「……この後、家にこれないかな？　まだ[H]といたいんだ」=...Won't you come to my place? I want to be with you more, [H].
+「え！？　……はい、大丈夫です！　私も、まだ一緒にいたかったので、嬉しいです！」=Eh!? ...Yes, alright! I wanted to spend some more time together too, so I'm really happy!
+「そうだね、また会おうね。それじゃ、ばいばい」=Yeah. Let's see each other again. Byebye then.
+「はい、それではまた」=Yes, see you.
+CHOICE:「この後、家にこれないかな？」=Won't you come to my place?
+CHOICE:「そうだね、ばいばい」=Yeah, byebye.

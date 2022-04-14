@@ -1,5 +1,5 @@
-//「あの……私、あなたがよくわからなくなってきました。……怖いんです、一緒にいるのが」=
-//「え……」=
-//「ごめんなさい……。私には、男の人と仲良くなるのは、無理だったみたいです」=
-//「ちょ、ちょっと待って！」=
-//「本当にごめんなさい……さ、さようなら……！」=
+﻿「あの……私、あなたがよくわからなくなってきました。……怖いんです、一緒にいるのが」=Uhm... I don't, understand you anymore... I'm scared, of being together anymore.
+「え……」=Eh...
+「ごめんなさい……。私には、男の人と仲良くなるのは、無理だったみたいです」=I'm sorry... Seems like it was impossible all along, for me to get along, with a boy.
+「ちょ、ちょっと待って！」=W-Wait a sec!
+「本当にごめんなさい……さ、さようなら……！」=I really am sorry... g-goodbye...!

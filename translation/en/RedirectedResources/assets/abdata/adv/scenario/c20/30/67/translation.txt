@@ -1,5 +1,4 @@
-
-//「あの、少しくっついてもいいですか？　そうすれば、一日の疲れが取れる気がするので」=
-//「はは、そういうことなら全然いいよ」=
-//「や、やった。それでは……ぎゅっ」=
-//「意外と力強くきた！　お、俺もお返しに……ぎゅーっ」=
+﻿「あの、少しくっついてもいいですか？　そうすれば、一日の疲れが取れる気がするので」=Uhm, mind if I snuggle up to you? I feel like it'll melt away all my fatigue.
+「はは、そういうことなら全然いいよ」=Haha, no need to ask, go right ahead.
+「や、やった。それでは……ぎゅっ」=Y-Yay. Well then... *squeeze*
+「意外と力強くきた！　お、俺もお返しに……ぎゅーっ」=I didn't expect that much fire from you! G-Guess I'll fire back... *squeeze*

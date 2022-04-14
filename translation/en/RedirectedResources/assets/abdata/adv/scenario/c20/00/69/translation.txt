@@ -1,5 +1,5 @@
-//「ここ、どう解けばいいのかな」=
-//「えっとですね、ここは……あれ？　なんでしたっけ……」=
-//「はは、二人で図書室に行く？」=
-//「はい。……うぅ、お恥ずかしい」=
-//「いやいやそんなことないよ。ここかなり難しいと思うし。じゃあさっそく図書室に行こう」=
+﻿「ここ、どう解けばいいのかな」=How should I go about solving this one?
+「えっとですね、ここは……あれ？　なんでしたっけ……」=Erhm, you see, this is... huh? How did you solve this one...
+「はは、二人で図書室に行く？」=Haha, wanna hit up the library together?
+「はい。……うぅ、お恥ずかしい」=Yes. ...Uuu, so embarrassing.
+「いやいやそんなことないよ。ここかなり難しいと思うし。じゃあさっそく図書室に行こう」=No, don't worry about it, seriously. This part seems to be a pretty tough nut to crack anyway. Well then, let's head to the library.

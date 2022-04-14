@@ -1,2 +1,2 @@
-//「お、おじゃまします」=
-//「……あの、なんでもうベッドにいるんですか？　……もう、仕方ないですね」=
+﻿「お、おじゃまします」=I-I'm coming in.
+「……あの、なんでもうベッドにいるんですか？　……もう、仕方ないですね」=...Uhm, why are you already on the bed? ...Jeez, there's no helping you.

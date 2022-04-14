@@ -1,2 +1,1 @@
-
-//「……お、おはようございます。えっと、いい天気……ですね」=
+﻿「……お、おはようございます。えっと、いい天気……ですね」=...G-Good morning. Erhm, good weather out today... isn't it?

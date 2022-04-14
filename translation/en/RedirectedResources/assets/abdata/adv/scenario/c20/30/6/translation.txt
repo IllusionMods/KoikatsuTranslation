@@ -1,4 +1,3 @@
-
-//「え？　あの、どこに行くんですか？」=
-//「まだナイショ」=
-//「……へ、変なところじゃないですよね？」=
+﻿「え？　あの、どこに行くんですか？」=Eh? Uhm, where are we going?
+「まだナイショ」=That's a secret for now.
+「……へ、変なところじゃないですよね？」=...I-It's nowhere weird, right?

@@ -1,7 +1,7 @@
-//「居心地よくて結構長居しちゃったし……暗くなる前にお店を出ようか」=
-//「そうしましょうか。時間を忘れて、まったりしちゃいましたね……」=
-//「また時間作って一緒に来よう。……それじゃあ[H名]は先に外で待っててよ」=
-//「え、あ、あのっ……私も、出します！」=
-//「いいっていいって。これくらい」=
-//「で、でも……いえ、わかりました。その……ありがとうございます」=
-//「どーいたしまして。ははっ、ちょっとはかっこついたかな」=
+﻿「居心地よくて結構長居しちゃったし……暗くなる前にお店を出ようか」=This place is so comfy, we stayed way past the time we should have... we should head out before it gets dark.
+「そうしましょうか。時間を忘れて、まったりしちゃいましたね……」=Let's do that then. We really did just forget about the time, didn't we...
+「また時間作って一緒に来よう。……それじゃあ[H名]は先に外で待っててよ」=Let's make some time again soon and come here together. ...Well then, you can leave and wait outside for me.
+「え、あ、あのっ……私も、出します！」=Eh, u-uhm--... I'll, pay too!
+「いいっていいって。これくらい」=It's fine, it's fine. Let me handle this.
+「で、でも……いえ、わかりました。その……ありがとうございます」=B-But... no, okay. Uhm... thank you very much.
+「どーいたしまして。ははっ、ちょっとはかっこついたかな」=You are very welcome. Haha--, even I wanna be a cool boyfriend, you know?

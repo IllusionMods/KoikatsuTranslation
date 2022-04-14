@@ -1,4 +1,3 @@
-
-//「……私でよければ。よ、よろしくお願いします」=
-//「じゃあ、さっそく始めようか」=
-//「男の人と一緒に勉強したことがないので、緊張します……」=
+﻿「……私でよければ。よ、よろしくお願いします」=...If you'll have me, then sure. P-Please take care of me.
+「じゃあ、さっそく始めようか」=Well then, let's get started right away.
+「男の人と一緒に勉強したことがないので、緊張します……」=I've never really had a study session with a boy, so I'm nervous...
