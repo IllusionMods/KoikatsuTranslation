@@ -61,13 +61,13 @@
 「勤勉な男性ってどう思う？」="What do you think of dilligent boys?"
 「好ましいわね。学ぶ姿勢は伸びしろに繋がるわ。成長のない男は嫌いなの」="They're likeable. A will to learn is linked to potential. I hate boys who don't mature."
 //「厄介ね、そういう男は自分のルールを押し付けたがるわ。滅ぼすべきよ」=
-//「マイペースな男性ってどう思う？」=
+「マイペースな男性ってどう思う？」=What do you think of guys who go at their own pace?
 //「いいんじゃない。自由を奪って、泣かせてやりたくなるわ」=
 //「いらない存在ね。私に合わせられない男になんて興味はないわ」=
 「優しい男性ってどう思う？」="What do you think of kind boys?"
 //「いいわね。どこまで良い人でいられるのか、試したくなる」=
 「退屈ね。そういう男って、大抵つまらないのよ」="Boring. Generally speaking, those types are dull."
-//「クールな男性ってどう思う？」=
+「クールな男性ってどう思う？」=What do you think of cool guys?
 //「自信があるのは良い事よ。それをポッキリ折ってあげた時の顔が楽しみ」=
 //「ナルシストはお呼びじゃないわ。気持ち悪くて吐き気がする」=
 「オナニーを始めたのって、どれくらいから？」="When did you start masturbating?"
