@@ -1,2 +1,2 @@
-//「あの……今日の家庭科でスコーンを作ったんだけど……。よかったら食べてね」=
-//「おいしいかどうか……ちょっと自信ないんだけど、後で感想を聞かせてね」=
+﻿「あの……今日の家庭科でスコーンを作ったんだけど……。よかったら食べてね」=Uhm... I made some scones at home-ec today and... Eat them if you like, okay?
+「おいしいかどうか……ちょっと自信ないんだけど、後で感想を聞かせてね」=I don't know if they're gonna be tasty or not... probably not but, lemme know later, okay?

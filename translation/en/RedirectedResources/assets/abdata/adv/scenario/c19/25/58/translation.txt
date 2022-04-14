@@ -1,4 +1,4 @@
-//「ふふっ、今日という日を楽しみにしてたの。さあ、行きましょう？」=
-//「そうだね。今日のデートも小説に負けないようにしないと」=
-//「普段こういう場所で遊んだりしないの？」=
-//「そうね。普段通うのが図書館か、来ても書店くらいだったから」=
+﻿「ふふっ、今日という日を楽しみにしてたの。さあ、行きましょう？」=Fufu--, I was really looking forward to today. So then, shall we?
+「そうだね。今日のデートも小説に負けないようにしないと」=Yeah. Gotta make today's date one so good it won't lose out to the ones from my novels.
+「普段こういう場所で遊んだりしないの？」=Do you not come to places like this often?
+「そうね。普段通うのが図書館か、来ても書店くらいだったから」=Yeah, I don't. Normally I just spend my time at the library, and even if I come here, it's usually for the book stores.

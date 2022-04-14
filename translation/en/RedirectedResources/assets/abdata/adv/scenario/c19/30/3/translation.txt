@@ -1,4 +1,3 @@
-
-//「私と？　う、うん、わかった。実は、ちょっと憧れてたんだ……こういうの……」=
-//「そうなんだ？」=
-//「うん……なんだか、小説の主人公になったみたい……」=
+﻿「私と？　う、うん、わかった。実は、ちょっと憧れてたんだ……こういうの……」=With me? Y-Yeah, okay. Honestly, I've always wanted to... do something like this...
+「そうなんだ？」=Really?
+「うん……なんだか、小説の主人公になったみたい……」=Yeah... it kinda feels like I became a protagonist, of a story...

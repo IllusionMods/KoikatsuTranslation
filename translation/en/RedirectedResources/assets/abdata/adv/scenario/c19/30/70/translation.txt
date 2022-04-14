@@ -1,5 +1,4 @@
-
-//「へえ、和訳と原作でこんなに表現の差が出るんだね」=
-//「でしょう？　特に有名なのが、夏目漱石の話かな」=
-//「あ、聞いた事ある。確か『I love you』を『月がきれいですね』って訳したんだっけ」=
-//「ええ。この表現、私はとても気に入っているんだ……」=
+﻿「へえ、和訳と原作でこんなに表現の差が出るんだね」=Hoh, there can be this much of a difference between the original and the translation, huh?
+「でしょう？　特に有名なのが、夏目漱石の話かな」=Right? One of the most famous examples of this, would be Natsume Souseki's works.
+「あ、聞いた事ある。確か『I love you』を『月がきれいですね』って訳したんだっけ」=Ah, I've heard of that before. If I recall correctly, the line『I love you』was translated as『The Moon sure is Beautiful, isn't it?』, right?
+「ええ。この表現、私はとても気に入っているんだ……」=Yes. I just love that expression...

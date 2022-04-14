@@ -1,4 +1,3 @@
-
-//「うん。デート……私達、恋人同士だもんね」=
-//「そうだね。恋愛小説みたいに、色々考えておくよ」=
-//「うん、私も準備しなくっちゃ。[P]君こそ、楽しみにしててね」=
+﻿「うん。デート……私達、恋人同士だもんね」=Yeah. A date... we're a couple, afterall.
+「そうだね。恋愛小説みたいに、色々考えておくよ」=That we are. I'll think up of some stuff for us to do, stuff that shows up in novels.
+「うん、私も準備しなくっちゃ。[P]君こそ、楽しみにしててね」=Okay, I'll get some stuff ready too. Look forward to it yourself too, [P]-kun.

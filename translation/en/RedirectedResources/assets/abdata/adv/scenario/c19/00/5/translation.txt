@@ -1,3 +1,3 @@
-//「う、うん。いいけど、何をするの？　……あ、本の整理とかかな？」=
-//「えっ！？　きみらしいといえばらしいけど、それって運動に入るのかな？」=
-//「あ……確かに。で、でも、意外と力のいる仕事だったりするんだよ？」=
+﻿「う、うん。いいけど、何をするの？　……あ、本の整理とかかな？」=Y-Yeah. Sure but, what are we gonna do? ...Ah, how about rearranging books?
+「えっ！？　きみらしいといえばらしいけど、それって運動に入るのかな？」=Eh--!? Well, that does sound exactly like you but, does that really count as exercise?
+「あ……確かに。で、でも、意外と力のいる仕事だったりするんだよ？」=Ah... you're not wrong. B-But, it actually takes quite a lot of effort, you know?

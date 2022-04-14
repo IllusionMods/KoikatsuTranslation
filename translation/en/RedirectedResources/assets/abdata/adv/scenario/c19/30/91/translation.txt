@@ -1,4 +1,3 @@
-
-//「あ、おはよう。[Pあだ名]」=
-//「うん、おはよう、[Hあだ名]」=
-//「朝からちょっとドキドキしちゃった」=
+﻿「あ、おはよう。[Pあだ名]」=Ah, good morning. [Pあだ名].
+「うん、おはよう、[Hあだ名]」=Yeah, mornin', [Hあだ名].
+「朝からちょっとドキドキしちゃった」=I've got my heart racing first thing in the morning.
