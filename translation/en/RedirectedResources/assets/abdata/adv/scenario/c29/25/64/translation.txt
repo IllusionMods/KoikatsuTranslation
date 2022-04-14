@@ -1,2 +1,2 @@
-//「お邪魔いたします。いつ来ても綺麗な部屋ですね」=
-//「……ところで、いきなりベッドへ誘うのはどうかと思うのですけれど……。我慢できないと仰るなら、仕方ありません」=
+﻿「お邪魔いたします。いつ来ても綺麗な部屋ですね」=Do excuse me. No matter when I come here, it's always so clean and lovely.
+「……ところで、いきなりベッドへ誘うのはどうかと思うのですけれど……。我慢できないと仰るなら、仕方ありません」=...By the way, I don't think exactly think well of going to the bed straight away but... if you cannot hold it in any longer, then it cannot be helped.

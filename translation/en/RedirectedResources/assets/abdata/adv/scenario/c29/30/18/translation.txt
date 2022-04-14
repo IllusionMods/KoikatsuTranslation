@@ -1,2 +1,1 @@
-
-//「おはようございます。いつもこの時間に？」=
+﻿「おはようございます。いつもこの時間に？」=Good morning. Do you always get to school at this time?

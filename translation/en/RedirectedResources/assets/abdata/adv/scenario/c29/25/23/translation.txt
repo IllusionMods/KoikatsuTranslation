@@ -1,3 +1,3 @@
-//「あ、あの……こ、これを……」=
-//「家庭科で作った、サンドイッチ……です」=
-//「お口に合うかはわからないのですが……た、食べてみてほしいです」=
+﻿「あ、あの……こ、これを……」=U-Uhm... T-Take thi...
+「家庭科で作った、サンドイッチ……です」=I made this sandwich, during home-economics...
+「お口に合うかはわからないのですが……た、食べてみてほしいです」=I don't know if it'll be to your tastes or not but... I-I'd love it if you tried it.

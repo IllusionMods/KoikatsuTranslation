@@ -1,6 +1,5 @@
-
-//「あっ……見たことのないおにぎりが……」=
-//「コンビニで見つけたんだ。『新発売！』ってポップが出てて」=
-//「…………じーっ」=
-//「一口食べる？」=
-//「そ、そんなつもりでは……ですが、折角の申し出なのでありがたくいただきます」=
+﻿「あっ……見たことのないおにぎりが……」=Ah--... I've never seen such a rice ball before...
+「コンビニで見つけたんだ。『新発売！』ってポップが出てて」=I got it from the convenience store. Had a signboard saying "New Product!" and everything.
+「…………じーっ」=...*Stare*.
+「一口食べる？」=Want a bite?
+「そ、そんなつもりでは……ですが、折角の申し出なのでありがたくいただきます」=I-I didn't mean to... however, since you've offered, I'll gladly accept.

@@ -1,11 +1,10 @@
-
-………………=.........
-…………=......
+﻿………………=...
+…………=...
 ……=...
-//「ここでお別れですね」=
-//CHOICE:「そうだ。よかったら俺の家に来ない？」=
-//CHOICE:「うん。それじゃあね」=
-//「そうだ。よかったら俺の家に来ない？　もう少し話していたいんだ」=
-//「そう……ですね。ではお言葉に甘えるとします。実は私も、このままお別れは寂しいと思っていたので」=
-//「うん。それじゃあね。また学園で」=
-//「ええ、また」=
+「ここでお別れですね」=This is where we go our own ways, huh?
+「そうだ。よかったら俺の家に来ない？　もう少し話していたいんだ」=Oh, right. If you'd like, how about hitting up my place? I wanna chat with you for a bit longer.
+「そう……ですね。ではお言葉に甘えるとします。実は私も、このままお別れは寂しいと思っていたので」=In... deed. I'll take you up on that then. I was also thinking that just saying goodbye like this was too sad.
+「うん。それじゃあね。また学園で」=Yeah. See ya at school.
+「ええ、また」=Yes, be seeing you.
+CHOICE:「そうだ。よかったら俺の家に来ない？」=Oh right. If you'd like, how about hitting up my place?
+CHOICE:「うん。それじゃあね」=Yeah. See ya then.

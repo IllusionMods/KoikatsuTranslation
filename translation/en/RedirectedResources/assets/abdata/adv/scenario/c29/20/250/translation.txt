@@ -1,4 +1,4 @@
-//「はぁ……さようなら遊園地……」=
-//「随分と名残惜しそうな顔をしていますね」=
-//「もうちょっとだけ遊んでたかったなって思うと、ついね」=
-//「名残惜しさと言うより、未練の方でしたか」=
+﻿「はぁ……さようなら遊園地……」=Haa... goodbye, amusement park...
+「随分と名残惜しそうな顔をしていますね」=That's quite the reluctant expression you've got there.
+「もうちょっとだけ遊んでたかったなって思うと、ついね」=I just wish we could have stayed and had fun for a bit longer, that's all.
+「名残惜しさと言うより、未練の方でしたか」=More of an attachment, than reluctance, is it?
