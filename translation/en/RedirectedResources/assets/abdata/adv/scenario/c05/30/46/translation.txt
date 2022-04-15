@@ -1,4 +1,4 @@
 
-//「すごく気持ちよかった……」=
-//「うん、俺も同じだよ」=
-//「これで宇宙のかれらにも近づけたよね」=
+「すごく気持ちよかった……」=That was very enjoyable...
+「うん、俺も同じだよ」=Yeah, I feel the same way.
+「これで宇宙のかれらにも近づけたよね」=We're one step closer to "them" in space, now.

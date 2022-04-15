@@ -1,2 +1,2 @@
-//「[P]くん、おはよう♪　昨日は幸せだった……」=
-//「体にあなたの力が巡っているのが分かるの♪　あなたもわたしを感じるよね？」=
+「[P]くん、おはよう♪　昨日は幸せだった……」=Good morning♪ I was happy last night...
+「体にあなたの力が巡っているのが分かるの♪　あなたもわたしを感じるよね？」=I can feel your power coursing through my body♪ Do you feel mine, too?
