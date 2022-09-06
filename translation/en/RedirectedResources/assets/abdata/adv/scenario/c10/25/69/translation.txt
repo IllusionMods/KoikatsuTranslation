@@ -1,5 +1,5 @@
-//「一人で勉強するより、二人の方がはかどるよね」=
-//「そ、そう……ね」=
-//「呪文、覚えた？　なんてね」=
-//「ば、バカにするでないぞ！」=
-//「ごめん、でも、こういうの楽しいね」=
+﻿「一人で勉強するより、二人の方がはかどるよね」=Doing it with someone else makes it go much faster, doesn't it?
+「そ、そう……ね」=Y-Yeah... it does.
+「呪文、覚えた？　なんてね」=Learned any new incantations? Heh.
+「ば、バカにするでないぞ！」=D-Do not mock me!
+「ごめん、でも、こういうの楽しいね」=Sorry. But, it's fun doing this together, isn't it?

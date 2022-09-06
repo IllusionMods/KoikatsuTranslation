@@ -1,6 +1,6 @@
-//「き、来るべく神との戦に備えて……か、身体をほぐしておかねば！」=
-//「そ、そうそう！　その意気だよ！」=
-//「同胞よ、ストレッチをするから、背中を押してくれないか？」=
-//「ん？　いいよ。いくよー」=
-//「ひゃっ！　くすぐったい！　そ、そこはダメ……」=
-//「せ、背中押せっていったじゃん……」=
+﻿「き、来るべく神との戦に備えて……か、身体をほぐしておかねば！」=W-We must prepare our bodies... f-for the upcoming war with heaven!
+「そ、そうそう！　その意気だよ！」=E-Exactly! That's the spirit!
+「同胞よ、ストレッチをするから、背中を押してくれないか？」=My comrade, I shall stretch, so won't thou push my back?
+「ん？　いいよ。いくよー」=Nn? Sure, here I go.
+「ひゃっ！　くすぐったい！　そ、そこはダメ……」=Hyah--! It tickles! N-Not there...
+「せ、背中押せっていったじゃん……」=Y-You're the one who told me do it...

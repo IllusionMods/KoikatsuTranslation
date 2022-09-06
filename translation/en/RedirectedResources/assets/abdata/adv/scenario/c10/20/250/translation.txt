@@ -1,4 +1,4 @@
-//「ふぅ、帰り道はまるで魔法が解けていくようだ」=
-//「たしかに、ちょっと寂しくなるね。遊園地はまさに、夢と魔法の世界だったしな」=
-//「……いつか我も魔法を極めて、あの世界を再現してみせようぞ。クックック」=
-//「あはは、応援してるよ……」=
+﻿「ふぅ、帰り道はまるで魔法が解けていくようだ」=Fuuh, the way back almost feels like the melting of a spell.
+「たしかに、ちょっと寂しくなるね。遊園地はまさに、夢と魔法の世界だったしな」=For sure, it does make you a bit sad, doesn't it? The amusement park really was a land of dreams and magic.
+「……いつか我も魔法を極めて、あの世界を再現してみせようぞ。クックック」=...One day, I shall master all magic, and recreate that world anew. Kukukuh--
+「あはは、応援してるよ……」=Ahahah, I'm cheering for you...

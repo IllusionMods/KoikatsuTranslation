@@ -1,8 +1,8 @@
-//「あ、初めまして！　よろしく」=
-//「きゃっ……お、男の子……えっと……よ、よろしく」=
-//「ごめん、驚かせて。ちょっと話がしたくて声をかけたんだけど……あっ、俺は[P名前]って言うんだ」=
-//「わ、我は驚いてなどいない！　断じてだ！　そ、それで……我に何の用だ？」=
-//「我……？　えっと、さっきも言った通り、君と話したくて声をかけたんだけど、迷惑だったかな？」=
-//「め、迷惑ではない。その、話しぐらいなら付き合ってやろう……ぞ！」=
-//「ありがとう」=
-//（ちょっと変わってるけど、悪い子ではなさそうだな。何を話してみようかな……？）=
+﻿「あ、初めまして！　よろしく」=Ah, hello! Nice to meet you.
+「きゃっ……お、男の子……えっと……よ、よろしく」=Kyah--... A-A boy... erhm... nice to meet you too.
+「ごめん、驚かせて。ちょっと話がしたくて声をかけたんだけど……あっ、俺は[P名前]って言うんだ」=Sorry, I surprised you there, didn't I? I wanted to chat with you a bit, that's why I called out... ah--, I go by [P名前].
+「わ、我は驚いてなどいない！　断じてだ！　そ、それで……我に何の用だ？」=N-Nothing of the sort! I wasn't surprised at all! S-So then... what is it thou needst from me?
+「我……？　えっと、さっきも言った通り、君と話したくて声をかけたんだけど、迷惑だったかな？」=Needst...? Erhm, like I said before, I called out to you since I wanted to talk to you. Am I bothering you?
+「め、迷惑ではない。その、話しぐらいなら付き合ってやろう……ぞ！」=N-Not at all. It's, I do not mind, if it's just a little chat... with ye!
+「ありがとう」=Thank you.
+（ちょっと変わってるけど、悪い子ではなさそうだな。何を話してみようかな……？）=(She's a bit weird but, she doesn't seem like a bad person. What should I talk about...?)

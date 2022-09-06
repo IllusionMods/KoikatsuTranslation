@@ -1,5 +1,5 @@
-//「そうか……悪魔の契約を解除したいのか……な、な、なぜ？」=
-//「ごめん……」=
-//「べ、べつに、あ、謝る必要なんか。そ、そうか、我のことが嫌いになったのだな」=
-//「嫌いになったわけじゃないんだけど……ごめん」=
-//「グスッ……うん、分かったよ……じゃあ、さようなら……うぅ」=
+﻿「そうか……悪魔の契約を解除したいのか……な、な、なぜ？」=Is that so... thou desirest to dissolve our contract... m-m-may I ask why?
+「ごめん……」=Sorry...
+「べ、べつに、あ、謝る必要なんか。そ、そうか、我のことが嫌いになったのだな」=T-Thou d-don't need to, apologize. I-I see, I have incurred thy hatred, haven't I?
+「嫌いになったわけじゃないんだけど……ごめん」=Not at all, I haven't come to hate you, it's just... sorry.
+「グスッ……うん、分かったよ……じゃあ、さようなら……うぅ」=*Sob*... yeah, it's fine, I got it... goodbye then... uuu--

@@ -1,4 +1,4 @@
-//「今回の試験は特に難しそうだね」=
-//「わ、我も……共にがんばろうぞ」=
-//「気合十分だね、さあ、やろう！」=
-//「う、うむ。や、やるしかないのである！」=
+﻿「今回の試験は特に難しそうだね」=The next test is gonna be a hard one, huh?
+「わ、我も……共にがんばろうぞ」=I-I shalt... do my best, as well.
+「気合十分だね、さあ、やろう！」=We don't want for spirit, atleast. Let's go get 'em!
+「う、うむ。や、やるしかないのである！」=U-Umu. T-There's naught but to do it!
