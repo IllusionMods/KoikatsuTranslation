@@ -1,5 +1,5 @@
-//「体を動かした後だから夜風が気持ちいいね」=
-//「そうね。ただちょっと涼し……ひ……ひ……くしゅんっ」=
-//「あれ、大丈夫！？　身体が冷えちゃったかな？　風邪ひかないうちに帰ろう」=
-//「うん……。あのさ、帰り道、肩抱いててくれる？　これ以上冷えないように……」=
-//「もちろんだ。さ、行こう」=
+﻿「体を動かした後だから夜風が気持ちいいね」=After a workout like that, the breeze sure feels nice, doesn't it?
+「そうね。ただちょっと涼し……ひ……ひ……くしゅんっ」=Yeah. Though, it's a bit too coo... oo... ool... *sneeze*
+「あれ、大丈夫！？　身体が冷えちゃったかな？　風邪ひかないうちに帰ろう」=Huh, you okay?! Are you feeling cold? Let's go home before you catch a cold.
+「うん……。あのさ、帰り道、肩抱いててくれる？　これ以上冷えないように……」=Yeah... hey, will you hold me, till we get there? So that I don't get any colder...
+「もちろんだ。さ、行こう」=Of course. Now, let's go.

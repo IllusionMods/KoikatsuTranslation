@@ -1,5 +1,4 @@
-
-//「ん～、なんかロマンチック！　手をつないでもいい？」=
-//「え？　ああ、いいよ。つなごうか」=
-//「うん！　ああ、この幸せが、いつまでも続けばいいのに」=
-//「そうだな。でも、大丈夫さ。俺が、キミを守ってやるから」=
+﻿「ん～、なんかロマンチック！　手をつないでもいい？」=Nn~, feels kinda romantic! Mind if I hold your hand?
+「え？　ああ、いいよ。つなごうか」=Eh? Aah, sure. Let's hold hands.
+「うん！　ああ、この幸せが、いつまでも続けばいいのに」=Okay! Aah, if only this happiness, could last forever.
+「そうだな。でも、大丈夫さ。俺が、キミを守ってやるから」=If only indeed. But, it's alright. I'll protect you forever.

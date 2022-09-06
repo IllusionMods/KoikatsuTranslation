@@ -1,5 +1,4 @@
-
-//「ねえ、新しくゲームセンターができたんだけど……行かない？」=
-//「本当にゲームセンターが好きだね。よし、今日はとことん付き合うよ」=
-//「イエ～イ！　あたしの１０連勝～！　あたしに勝とうなんて一兆年早いのよ！」=
-//「くっそ～！　何でだろう、他の人に負けたときよりずっと悔しい……」=
+﻿「ねえ、新しくゲームセンターができたんだけど……行かない？」=Hey, a new arcade just popped up... how about it?
+「本当にゲームセンターが好きだね。よし、今日はとことん付き合うよ」=You really do love arcades, don't you? Alright, gonna make sure you have your fill today.
+「イエ～イ！　あたしの１０連勝～！　あたしに勝とうなんて一兆年早いのよ！」=Yay~! That makes the 10th win for me~! You're a trillion years too early, thinking you can beat me!
+「くっそ～！　何でだろう、他の人に負けたときよりずっと悔しい……」=Damn~! Feels so much more frustrating too, than losing to anybody else, I wonder why...

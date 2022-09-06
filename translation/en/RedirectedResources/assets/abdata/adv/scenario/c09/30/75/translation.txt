@@ -1,5 +1,4 @@
-
-//「いくぞ！　えいっ！」=
-//「わぁ！　ゴールされちゃった！　あんた、バスケうまいわね」=
-//「いやいや、それほどでもないよ。キミもなかなかじゃないか」=
-//「うふふ。そんなこと言われたの、生まれて初めてよ」=
+﻿「いくぞ！　えいっ！」=Here I go! There--!
+「わぁ！　ゴールされちゃった！　あんた、バスケうまいわね」=Waah! You got a goal on me! You're pretty good at basketball, huh?
+「いやいや、それほどでもないよ。キミもなかなかじゃないか」=Not at all. You're pretty good yourself too.
+「うふふ。そんなこと言われたの、生まれて初めてよ」=Ufufu, it's the first time someone's ever told me that.

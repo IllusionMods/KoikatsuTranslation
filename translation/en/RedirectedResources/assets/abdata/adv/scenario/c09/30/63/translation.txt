@@ -1,4 +1,3 @@
-
-//「うわあ、ここがあんたの家かぁ……」=
-//「何だろう、すっごくドキドキする。あたし、調子が悪いのかな……？」=
-//「やっぱり、するの？　ち、ちょっと待って！　心の準備が……すぅー、はぁー……よし！　覚悟、出来たわ」=
+﻿「うわあ、ここがあんたの家かぁ……」=Uwaah, so this is your home...
+「何だろう、すっごくドキドキする。あたし、調子が悪いのかな……？」=My heart's pounding. I wonder why? Am I, sick or something...?
+「やっぱり、するの？　ち、ちょっと待って！　心の準備が……すぅー、はぁー……よし！　覚悟、出来たわ」=So we're gonna do it afterall? H-Hey, wait a sec! My heart's not... *inhale*, *exhale*... alright! I'm ready.

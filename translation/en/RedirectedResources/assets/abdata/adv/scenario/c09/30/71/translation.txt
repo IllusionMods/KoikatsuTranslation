@@ -1,5 +1,4 @@
-
-//「ふう、疲れた～」=
-//「ほんとにね。勉強の調子はどう？」=
-//「悪くはないけど、少し声が大きいわよ」=
-//「あ、ごめん……気をつけるよ」=
+﻿「ふう、疲れた～」=Fuu, I'm beat~
+「ほんとにね。勉強の調子はどう？」=Same. How's the progress?
+「悪くはないけど、少し声が大きいわよ」=Not bad but, you're being a bit loud.
+「あ、ごめん……気をつけるよ」=Ah, sorry... I'll be more careful.

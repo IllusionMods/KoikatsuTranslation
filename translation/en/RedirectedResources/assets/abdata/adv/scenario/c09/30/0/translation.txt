@@ -1,8 +1,7 @@
-
-//「ねえ、ちょっといいかな」=
-//「あんた、例の転校生ね！　な、何？　あたしに用でもあるの？」=
-//「出来れば君と話したいんだけど……」=
-//「え、えぇ、いいわよ。あんたの話し相手になってあげる」=
-//「ほんとに？　いやあ、助かるよ～。相手が女子だとなかなか話しかけづらくてさ」=
-//「まあ、最初の頃はそんなものよ。ところで、あんたの名前、聞いてもいい？」=
-//「あ、名乗るが遅くてごめんね。俺は、[P名前]っていうんだ、よろしく。それで、話なんだけど……」=
+﻿「ねえ、ちょっといいかな」=Hey, got a moment?
+「あんた、例の転校生ね！　な、何？　あたしに用でもあるの？」=You're that transfer student, aren't you! W-What is it? Do you need something from me?
+「出来れば君と話したいんだけど……」=I'd like to chat with you, if possible...
+「え、えぇ、いいわよ。あんたの話し相手になってあげる」=Y-Yes, okay. I'd be happy to chat with you.
+「ほんとに？　いやあ、助かるよ～。相手が女子だとなかなか話しかけづらくてさ」=Really? Man, you're a lifesafer~. It's kinda hard to just go up to a girl and ask for a chat, you know?
+「まあ、最初の頃はそんなものよ。ところで、あんたの名前、聞いてもいい？」=You'll get used to it eventually. By the way, mind if I ask your name?
+「あ、名乗るが遅くてごめんね。俺は、[P名前]っていうんだ、よろしく。それで、話なんだけど……」=Ah, sorry for not starting off with that. I go by [P名前], nice to meet you. Well then, about that chat...

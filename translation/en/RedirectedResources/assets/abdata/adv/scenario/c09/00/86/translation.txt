@@ -1,8 +1,8 @@
-//「ねえ、部長さん。せっかくの機会だから、やってみたいことがあるんだけど……」=
-//「お、意見か。いいね、そういうの。なんだい、やってみたいことって」=
-//「あたし、キスがしたいの」=
-//「うん。……え、ええ！？」=
-//「どう？　こんな姿勢でいいのかしら」=
-//「いや、俺に聞かれても……」=
-//「しっかりしなさいよ！　あんた部長なんでしょう！？」=
-//「そ、そんなこと言われても……」=
+﻿「ねえ、部長さん。せっかくの機会だから、やってみたいことがあるんだけど……」=Hey, Mr. Prez. There's actually something I wanna try out with you...
+「お、意見か。いいね、そういうの。なんだい、やってみたいことって」=Oh, an idea from you, huh? That's great, good job. What is it, that you wanna do?
+「あたし、キスがしたいの」=I wanna kiss.
+「うん。……え、ええ！？」=Sure. ...E-Eeh!?
+「どう？　こんな姿勢でいいのかしら」=How's this? Is this posture fine?
+「いや、俺に聞かれても……」=No, even if you ask me...
+「しっかりしなさいよ！　あんた部長なんでしょう！？」=Get a grip! You're the president, no!?
+「そ、そんなこと言われても……」=E-Even if I am...

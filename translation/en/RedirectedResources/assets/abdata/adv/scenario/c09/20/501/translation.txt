@@ -1,5 +1,5 @@
-//（よし、まだ待ち合わせ時間まで５分ある。[H名]はまだみたいだな……）=
-//「おっはよー！」=
-//「わっ！　……いきなり声かけたら、びっくりするじゃないか」=
-//「はい、あたしの方が先ね。何かちょうだい」=
-//「分かったよ……まぁ、何かおごるよ」=
+﻿（よし、まだ待ち合わせ時間まで５分ある。[H名]はまだみたいだな……）=(Alright, there's still 5 minutes until we said we were gonna meet. Seems like she's not here yet...)
+「おっはよー！」=Mornin'!
+「わっ！　……いきなり声かけたら、びっくりするじゃないか」=Wah--! ...That's really scared me, you know?
+「はい、あたしの方が先ね。何かちょうだい」=Looks like I got here first then. Give me something.
+「分かったよ……まぁ、何かおごるよ」=I got it... well, I'll treat you to something.

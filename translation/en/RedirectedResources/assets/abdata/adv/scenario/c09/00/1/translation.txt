@@ -1,5 +1,5 @@
-//「ねえ、ちょっといいかな？」=
-//「え！？　べ、別に構わないけど……何か用？」=
-//「いや、話し相手がなかなか見つからなくて困ってて……」=
-//「ああ、そうなの。だったら、一緒に話してもいいわよ」=
-//「ほんとに！？　嬉しいなあ。俺、[P名前]。よろしくね」=
+﻿「ねえ、ちょっといいかな？」=Hey, got a moment?
+「え！？　べ、別に構わないけど……何か用？」=Eh!? S-Sure but... need something?
+「いや、話し相手がなかなか見つからなくて困ってて……」=No, I've just been having trouble finding someone to talk to here, and...
+「ああ、そうなの。だったら、一緒に話してもいいわよ」=Aah, I see. I don't mind chatting with you then.
+「ほんとに！？　嬉しいなあ。俺、[P名前]。よろしくね」=Really?! Thank you. I'm [P名前]. Nice to meet you.

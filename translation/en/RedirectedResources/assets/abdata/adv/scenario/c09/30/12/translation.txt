@@ -1,5 +1,4 @@
-
-//「……そう言うと、思ってた」=
-//「え？　それって、どういうこと？」=
-//「鈍いわねえ！　これ以上言わせないでよ！」=
-//「あんたとあたしはもうそういう関係ってことよ！　それぐらい、わかりなさいよ！」=
+﻿「……そう言うと、思ってた」=...I thought, you'd say that.
+「え？　それって、どういうこと？」=Eh? What do you mean by that?
+「鈍いわねえ！　これ以上言わせないでよ！」=Darn blockhead! Don't make me say any more!
+「あんたとあたしはもうそういう関係ってことよ！　それぐらい、わかりなさいよ！」=We're reached that point in our relationship! Understand that much, atleast!
