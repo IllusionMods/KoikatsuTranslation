@@ -1,7 +1,6 @@
-
-//「あの～、今、話しかけても大丈夫かな？」=
-//「まぁ、男の子！　珍しいわね～。……あ！　あなたが例の転校生ね？　初めまして～」=
-//「は、初めまして……」=
-//「あらあら、緊張してるのね。うふふ、可愛い～♪　怖がらなくても大丈夫よ。みんなとっても優しいから」=
-//「それで、どうしたのかしら？　行きたいところがあれば、おねーさんが連れて行ってあげるわよ」=
-//（面倒見良さそうな人だな……この人に声掛けて正解だったかも！　それじゃ、何を話そう……）=
+﻿「あの～、今、話しかけても大丈夫かな？」=Uhm~, do you mind chatting with me for a moment?
+「まぁ、男の子！　珍しいわね～。……あ！　あなたが例の転校生ね？　初めまして～」=Oh my, a boy! Such a cutie too~. ...Ah! Are you that transfer student? Nice to meet you~
+「は、初めまして……」=N-Nice to meet you...
+「あらあら、緊張してるのね。うふふ、可愛い～♪　怖がらなくても大丈夫よ。みんなとっても優しいから」=Oh dear, so nervous. Ufufu, adorable~♪ You don't need to be scared. Everyone here's really nice.
+「それで、どうしたのかしら？　行きたいところがあれば、おねーさんが連れて行ってあげるわよ」=So then, what's the matter? Onee-san here doesn't mind leading the way if you need help finding a place.
+（面倒見良さそうな人だな……この人に声掛けて正解だったかも！　それじゃ、何を話そう……）=(She seems really caring... Yep, it was the right call to call out to her! Well then, what should I start with...)

@@ -1,5 +1,4 @@
-
-//「ここの食堂、なかなかの味でしょ？　私のおかずもちょっと試してみて」=
-//「いいの？　ありがとう」=
-//「バランスが悪くなっちゃったわね……お野菜もどうぞ。あら、これだとご飯が少ないわ。はい、私の分を半分あげる」=
-//（こんなに食べきれるかな……）=
+﻿「ここの食堂、なかなかの味でしょ？　私のおかずもちょっと試してみて」=Our cafeteria here serves pretty good stuff, no? Try some of my sides too.
+「いいの？　ありがとう」=You sure? Thanks.
+「バランスが悪くなっちゃったわね……お野菜もどうぞ。あら、これだとご飯が少ないわ。はい、私の分を半分あげる」=That's not very balanced though... have some veggies too. My, that's too many sides and too little rice. Here, have half of mine.
+（こんなに食べきれるかな……）=(Can I really get this all down...)

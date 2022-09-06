@@ -1,7 +1,6 @@
-
-//「あなたから甘えてきてくれるのを待ってたの！　私、全力であなたのお手伝いをするわ」=
-//「良かった……！　これで活動も活性化するよ。ありがとう！」=
-//「あなた、部を立ち上げてから色々と苦労してたものね……草葉の陰から見守ることしかできなくて、辛かったわぁ」=
-//（もっと早くから頼っても良かったかもしれないな……）=
-//「それじゃ、まずは部室の模様替えをしましょうね。ティーセットを用意して、お茶菓子も……それから……」=
-//（部室が憩いの場に！？　すごい張り切ってくれてるし、任せよう……）=
+﻿「あなたから甘えてきてくれるのを待ってたの！　私、全力であなたのお手伝いをするわ」=I was waiting for you to come ask me for some love! I'll help you the best I can.
+「良かった……！　これで活動も活性化するよ。ありがとう！」=Great...! This'll help the activities get some fire too. Thanks!
+「あなた、部を立ち上げてから色々と苦労してたものね……草葉の陰から見守ることしかできなくて、辛かったわぁ」=You've been working so hard everyday since you started that club... it was really hard on me, you know? I couldn't help you in any way, aside from watching over you.
+（もっと早くから頼っても良かったかもしれないな……）=(Maybe I should have asked her for help sooner...)
+「それじゃ、まずは部室の模様替えをしましょうね。ティーセットを用意して、お茶菓子も……それから……」=Well then, let's change things here up a bit. Gotta get a tea set, also some cakes to go along with them... also...
+（部室が憩いの場に！？　すごい張り切ってくれてるし、任せよう……）=(The club into a cafe!? She seems really into it, guess I'll leave her to it...)

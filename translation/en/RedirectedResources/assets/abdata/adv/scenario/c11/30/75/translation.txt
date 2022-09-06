@@ -1,4 +1,3 @@
-
-//（ふたりでかくれんぼか……）=
-//「うふふ……完璧だわ。これならあの子だって絶対に見つけられないはずよ」=
-//（って言ってるけど、ここからだと丸見えなんだよなぁ……）=
+﻿（ふたりでかくれんぼか……）=(2 player hide and seek, huh...)
+「うふふ……完璧だわ。これならあの子だって絶対に見つけられないはずよ」=Ufufu... This is the perfect spot. Even he shouldn't be able to find me now.
+（って言ってるけど、ここからだと丸見えなんだよなぁ……）=(You're not even hidden there...)

@@ -1,5 +1,5 @@
-//「この学園にはもう慣れた？」=
-//「うん、お陰様でね。友達も出来たし、毎日が楽しいよ」=
-//「それは良かったわ！　……でも、楽しいことばかりじゃないでしょう？」=
-//「あ……うん。君にはわかっちゃうか。実は……」=
-//「待って、あそこのベンチに座ってゆっくり話しましょ。まだ時間はたっぷりあるもの」=
+﻿「この学園にはもう慣れた？」=Have you gotten used to this school yet?
+「うん、お陰様でね。友達も出来たし、毎日が楽しいよ」=Yeah, thanks to your help. I've made lots of friends now, so everyday's a blast.
+「それは良かったわ！　……でも、楽しいことばかりじゃないでしょう？」=I'm glad to hear that! ...But, it's not all fun things, is it?
+「あ……うん。君にはわかっちゃうか。実は……」=Ah... yeah. Should have guessed you'd notice. Actually...
+「待って、あそこのベンチに座ってゆっくり話しましょ。まだ時間はたっぷりあるもの」=Wait, let's go sit on that bench and talk. We have lots of time still.

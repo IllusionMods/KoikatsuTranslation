@@ -1,4 +1,4 @@
-//「……すっかり楽しんじゃった……ごめんね？」=
-//「別にいいのよ……。楽しんでもらえてよかったわ。でも流石にドキドキしたわね」=
-//「うん……俺もドキドキだった」=
-//「そう……？　ノリノリで楽しんでたようだけど……でもまあ、何事もなくてよかったわ」=
+﻿「……すっかり楽しんじゃった……ごめんね？」=...I ended up just taking advantage of it and enjoying myself... I'm sorry.
+「別にいいのよ……。楽しんでもらえてよかったわ。でも流石にドキドキしたわね」=It's fine... I'm glad you enjoyed it. But that really did make my heart race.
+「うん……俺もドキドキだった」=Yeah... mine too.
+「そう……？　ノリノリで楽しんでたようだけど……でもまあ、何事もなくてよかったわ」=That so...? Seemed to me like you were just enjoying the moment... but well, I'm glad nothing happened.

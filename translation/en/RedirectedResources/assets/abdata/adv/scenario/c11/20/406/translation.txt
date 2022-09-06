@@ -1,6 +1,6 @@
-//「あらあら、まぁ……もうこんな時間になってたのね」=
-//「あ、ホントだ。時間って経つの早いなぁ」=
-//「どうする？　もう少しここでゆっくりしちゃう？」=
-//「うーん、さすが長居しすぎちゃったし、そろそろ出ようか」=
-//「わかったわ。会計してくるから、帰る準備してて？　忘れ物しちゃ駄目よ」=
-//「あ、会計なら俺がするってば。先に出ててくれていいよ」=
+﻿「あらあら、まぁ……もうこんな時間になってたのね」=Oh dearie me... it's already gotten so late, huh?
+「あ、ホントだ。時間って経つの早いなぁ」=Ah, you're right. Time sure flies.
+「どうする？　もう少しここでゆっくりしちゃう？」=What do you want to do? Want to spend some more time relaxing here?
+「うーん、さすが長居しすぎちゃったし、そろそろ出ようか」=Mmmm, pretty sure if we stay any longer the servers are going to throw us dirty looks, let's leave.
+「わかったわ。会計してくるから、帰る準備してて？　忘れ物しちゃ駄目よ」=Got it. I'll go settle the bill so, get your stuff ready, okay? No forgetting anything.
+「あ、会計なら俺がするってば。先に出ててくれていいよ」=Ah, you seriously don't need to, I'll settle the bill. You can just head out and wait for me.

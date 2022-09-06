@@ -1,8 +1,7 @@
-
-//「部室まで来てもらったけど、実は今日の活動内容、まだ決めてないんだ……」=
-//「そうねぇ……コイカツでしょ？　それじゃあ、お姫様抱っこなんてどうかしら。女の子の憧れよ～」=
-//「いいね！　じゃ、早速やってみようか」=
-//「ふぅっ……んんん！　んん～っ……はぁ、はぁ、もう少し待ってね、あとちょっとで持ち上がりそうなの」=
-//「あのー、これって逆じゃないかな……俺が君を持ち上げるのが普通だと思うんだけど」=
-//「それはダメよ。だって恥ずかしいじゃない……あなたに体重がバレちゃうわ」=
-//（ええ～……）=
+﻿「部室まで来てもらったけど、実は今日の活動内容、まだ決めてないんだ……」=I actually haven't settled on what we're gonna do for today. And I made you come all the way here too...
+「そうねぇ……コイカツでしょ？　それじゃあ、お姫様抱っこなんてどうかしら。女の子の憧れよ～」=Right... it's love activities, no? Well then, how about a princess carry? Every girl dreams of it~
+「いいね！　じゃ、早速やってみようか」=That's perfect! Then, let's do it.
+「ふぅっ……んんん！　んん～っ……はぁ、はぁ、もう少し待ってね、あとちょっとで持ち上がりそうなの」=Fuuh--... Nnn! Nnn~... haah, haah, wait just a bit, okay? I should manage to lift you up, any moment now.
+「あのー、これって逆じゃないかな……俺が君を持ち上げるのが普通だと思うんだけど」=Uhm, aren't our roles reversed here... I feel like normally I'd be the one carrying you.
+「それはダメよ。だって恥ずかしいじゃない……あなたに体重がバレちゃうわ」=We can't do that. That's too embarrassing... you'll figure out my weight that way.
+（ええ～……）=(Eeh~...)

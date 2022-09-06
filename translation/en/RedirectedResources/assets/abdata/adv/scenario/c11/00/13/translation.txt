@@ -1,4 +1,4 @@
-//「お外でもあなたとラブラブできるなんて、嬉しいわ～♪」=
-//「恥ずかしいから、人前であんまりイチャイチャするのはちょっと……」=
-//「大丈夫、あなたに恥ずかしい思いはさせないわ。私に任せておけば大丈夫よ」=
-//「うふふ……うんと甘えさせてあげましょう♪」=
+﻿「お外でもあなたとラブラブできるなんて、嬉しいわ～♪」=Being able to keep being lovey-dovey even outside makes me so happy~♪
+「恥ずかしいから、人前であんまりイチャイチャするのはちょっと……」=It's embarrassing so, I'd rather not flirt in front of other people...
+「大丈夫、あなたに恥ずかしい思いはさせないわ。私に任せておけば大丈夫よ」=It's alright, I won't do anything to embarrass you at all. It'll be alright so just leave it all to me.
+「うふふ……うんと甘えさせてあげましょう♪」=Ufufu... let's spoil you lots today♪

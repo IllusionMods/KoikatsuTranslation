@@ -1,3 +1,3 @@
-//「あら、私も一緒に？　男の子の元気についていけるかしら……」=
-//「そんなに激しい運動をするつもりじゃないから安心してよ」=
-//「そう？　それじゃ、一緒にはしゃいじゃおうかしら」=
+﻿「あら、私も一緒に？　男の子の元気についていけるかしら……」=My, with me? I wonder if I'll be able to keep up with you...
+「そんなに激しい運動をするつもりじゃないから安心してよ」=I don't plan on doing anything that rough, so don't worry.
+「そう？　それじゃ、一緒にはしゃいじゃおうかしら」=That so? Well then, let's have some fun together.

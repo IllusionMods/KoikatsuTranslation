@@ -1,3 +1,3 @@
-//「もしかして、校舎の探索かしら？　うふふ、男の子の考えることといえば、まずは冒険だものね」=
-//「すっかりバレちゃってるな……もちろん行くよね？」=
-//「ええ、とっても楽しそうだもの。お供させてもらうわ」=
+﻿「もしかして、校舎の探索かしら？　うふふ、男の子の考えることといえば、まずは冒険だものね」=Exploring the school building, are we? Ufufu, boys have nothing but adventure on their minds, do they?
+「すっかりバレちゃってるな……もちろん行くよね？」=You've seen right through me... you'll come, right?
+「ええ、とっても楽しそうだもの。お供させてもらうわ」=Yes, it sounds incredibly fun. I'll accompany you.

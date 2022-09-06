@@ -1,4 +1,4 @@
-//「はぁ……清々しい気分ね。ふふ、素敵だったわ……」=
-//「うん、俺も、今日はこんなことが出来て嬉しかったよ。本当にありがとう」=
-//「それじゃ、名残惜しいけど、帰りましょう……落とし物や、忘れ物はない？　暗いからつまづいたりしないようにね？」=
-//「はは、心配してくれてありがとう。じゃ、行こうか──」=
+﻿「はぁ……清々しい気分ね。ふふ、素敵だったわ……」=Haah... what a refreshing feeling. Fufu, that was lovely...
+「うん、俺も、今日はこんなことが出来て嬉しかったよ。本当にありがとう」=Yeah, me too, I'm glad we got to do this today. Thank you, really.
+「それじゃ、名残惜しいけど、帰りましょう……落とし物や、忘れ物はない？　暗いからつまづいたりしないようにね？」=Well then, it's a bit sad but, let's go home... haven't forgotten anything, have you? It's dark out so, be careful not to trip, okay?
+「はは、心配してくれてありがとう。じゃ、行こうか──」=Haha, thanks for looking out for me. Then, let's go--
