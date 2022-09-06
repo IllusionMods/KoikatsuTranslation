@@ -1,5 +1,5 @@
-//「へえ、色々あるんだね」=
-//「おっ！　あの店なんて面白そうだぞ。入ってみないか？」=
-//「うん、いいよ」=
-//「へへ、いい感じだったな。また行きたいな」=
-//（よかった、喜んでもらえたみたいだ）=
+﻿「へえ、色々あるんだね」=Hoh, there's all sorts, huh?
+「おっ！　あの店なんて面白そうだぞ。入ってみないか？」=Oh--! That shop over there looks kinda interesting. Wanna check it out?
+「うん、いいよ」=Yeah, sure.
+「へへ、いい感じだったな。また行きたいな」=Heheh, it was pretty nice, wasn't it? I wanna go there again.
+（よかった、喜んでもらえたみたいだ）=(Great, looks like she enjoyed it.)

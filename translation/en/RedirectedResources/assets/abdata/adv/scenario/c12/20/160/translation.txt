@@ -1,8 +1,8 @@
-//「……ホントに公園でしちゃうなんて、来るたびに思い出しそう」=
-//「うっ……反省してます」=
-//「ん？　違う違う、後悔してるとかじゃなくて、公園の前通るだけでニヤけちゃいそうだなって」=
-//「あぁ、そういう事？　本当は嫌だったのかなって、心配したよ」=
-//「はは、おまえっていつもは勢いがいいのに、こういう時になると妙に心配性になるよな」=
-//「だって、[H名]との事は、絶対失敗したくないし……それだけ真剣って事だよ」=
-//「はいはい、わかってるよ。あたしとしては、もう少し冗談も通じるようになってくれると、嬉しいんだけどなぁ」=
-//「ぐっ、努力するよ……今日はとりあえず、駅まで送るね」=
+﻿「……ホントに公園でしちゃうなんて、来るたびに思い出しそう」=...To think we'd actually do it here, I feel like I'm gonna remember it anytime I come here.
+「うっ……反省してます」=Uu--... I'm reflecting, yes.
+「ん？　違う違う、後悔してるとかじゃなくて、公園の前通るだけでニヤけちゃいそうだなって」=Nn? That's not it, I don't regret it or anything, was just thinking at how I'm gonna probably grin like an idiot everytime walk by the park gate.
+「あぁ、そういう事？　本当は嫌だったのかなって、心配したよ」=Aah, really? I was worried, whether you had just let me force myself on you, and stuff.
+「はは、おまえっていつもは勢いがいいのに、こういう時になると妙に心配性になるよな」=Hahah, you're always so lively usually, why do you turn into such a worrywart at times like these?
+「だって、[H名]との事は、絶対失敗したくないし……それだけ真剣って事だよ」=I can't help it, I don't want to mess this up... I take us very seriously, you know?
+「はいはい、わかってるよ。あたしとしては、もう少し冗談も通じるようになってくれると、嬉しいんだけどなぁ」=Yes yes, I know. Personally though, I'd appreciate it if you lightened up a tad bit more~
+「ぐっ、努力するよ……今日はとりあえず、駅まで送るね」=Guh--, I'll do my best... Anyways, I'll walk you to the station.

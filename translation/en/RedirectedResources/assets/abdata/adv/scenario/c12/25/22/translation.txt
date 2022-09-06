@@ -1,2 +1,2 @@
-//「よ、よぅ。家庭科でクッキー作ったんだ。だからその……食べるか？」=
-//「味はまぁまぁだと思う。調子に乗って作り過ぎたから、よければ食べてくれよ」=
+﻿「よ、よぅ。家庭科でクッキー作ったんだ。だからその……食べるか？」=Y-Yo. I made some cookies during home ec. So uhm... will you eat them?
+「味はまぁまぁだと思う。調子に乗って作り過ぎたから、よければ食べてくれよ」=I think the flavour's pretty alright. I got carried away and made too many, so if you'd like, eat them all.

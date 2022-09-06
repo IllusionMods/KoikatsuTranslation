@@ -1,7 +1,7 @@
-//「えっと、今いいかな。出来れば君と話したいんだけど」=
-//「お、来たね。噂の転入生クン」=
-//「俺は[P名前]って言うんだ。よろしく」=
-//「はいはいよろしく。てか、なんか固くない？　緊張してる？」=
-//「いや、まぁ……ちょっとね」=
-//「はぁ、そんなんでこれから大丈夫なの？　ま、何かあったら話くらい聞いてあげるけどさ」=
-//「ありがとう。そうだな……じゃあ早速なんだけど」=
+﻿「えっと、今いいかな。出来れば君と話したいんだけど」=Erhm, is now a good time? I'd love to chat, if that's okay.
+「お、来たね。噂の転入生クン」=Oh, finally, the transfer student showed himself.
+「俺は[P名前]って言うんだ。よろしく」=I go by [P名前]. Nice to meet you.
+「はいはいよろしく。てか、なんか固くない？　緊張してる？」=Yes yes, nice to meet you. You seem pretty stiff. Nervous?
+「いや、まぁ……ちょっとね」=No, well... a bit.
+「はぁ、そんなんでこれから大丈夫なの？　ま、何かあったら話くらい聞いてあげるけどさ」=Haah, you sure you're gonna hold up in this place? Well, if you ever want to talk, I don't mind lending an ear.
+「ありがとう。そうだな……じゃあ早速なんだけど」=Thank you. Well then... alright, let's jump straight into this.

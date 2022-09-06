@@ -1,3 +1,3 @@
-//「ふぅん、お誘いね……別にいいけど。どこに行くつもりだい？」=
-//「それはまだナイショという事で」=
-//「あ、怪しすぎるだろそれ……変なとこ行きそうになったらひっぱたくからな」=
+﻿「ふぅん、お誘いね……別にいいけど。どこに行くつもりだい？」=Fuuhn, asking me to tag along, huh... sure, I guess. Where're we going?
+「それはまだナイショという事で」=That's still a secret.
+「あ、怪しすぎるだろそれ……変なとこ行きそうになったらひっぱたくからな」=Ah, you couldn't make this smell more fishy if you tried... try anything funny, and a slap will be waiting for you, okay?...

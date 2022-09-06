@@ -1,5 +1,5 @@
-//「な、なぁ……ちょっと公園で休憩していかないか？」=
-//「いいけど、どこか調子悪いの？」=
-//「いやまぁ……ちょっとな、わかるだろ？」=
-//「あ……もしかしてあの日……」=
-//「ばっ！　違うから！　あーもー！　もうちょっと一緒にいたいなって思ってたの！」=
+﻿「な、なぁ……ちょっと公園で休憩していかないか？」=H-Hey... could we take a break at the park?
+「いいけど、どこか調子悪いの？」=Sure but, do you not feel well? Are you okay?
+「いやまぁ……ちょっとな、わかるだろ？」=No, well... it's, you know, you know?
+「あ……もしかしてあの日……」=Ah... aunt Irma, huh...
+「ばっ！　違うから！　あーもー！　もうちょっと一緒にいたいなって思ってたの！」=Idi--! That's not it! Aah, jeez! I just wanted to be together a bit more!
