@@ -1,5 +1,5 @@
-//「[H姓]さん、今時間大丈夫？　その、出来れば話したいなって」=
-//「ん？　大丈夫だけど……あたしに何か用？」=
-//「いや、ちょっと話してみたいなって……ダメかな？」=
-//「ダメじゃないけど。へぇ、噂通りほんとにナンパみたいな事してんだ」=
-//「あはは……まぁね。嫌じゃなければもうちょっと話したいんだけど……」=
+「[H姓]さん、今時間大丈夫？　その、出来れば話したいなって」=“[H姓]-san, is now a good time? Uhm, I'd love to chat with you, if possible.”
+「ん？　大丈夫だけど……あたしに何か用？」=“Nn? Sure but... you need something from me?”
+「いや、ちょっと話してみたいなって……ダメかな？」=“No, I just wanted to chat a bit... no dice?”
+「ダメじゃないけど。へぇ、噂通りほんとにナンパみたいな事してんだ」=“Not at all. Though, so you really do go around picking up girls, huh? That's what I heard.”
+「あはは……まぁね。嫌じゃなければもうちょっと話したいんだけど……」=“Ahaha... well, I can't deny that. If you really don't mind, I'd love to stick around and chat a bit more with you...”

@@ -1,5 +1,5 @@
-//「ふぅ、す、少しはこの感じにも慣れてきたかな」=
-//「じゃあ今日はちょっと大胆に攻めてみようかな！」=
-//「えっ！　う、うん……お手柔らかにぃー」=
-//「おぉ！　見てこれ！　ハートのダブルストロージュースだって！　一緒に飲もう？」=
-//「なっ！　こ、これは大胆過ぎっ……って、うぅ、わかった飲むよ。そんな悲しそうな顔するなって」=
+「ふぅ、す、少しはこの感じにも慣れてきたかな」=“Fuuh, I-I think I'm getting used to this stuff too.”
+「じゃあ今日はちょっと大胆に攻めてみようかな！」=“Guess I'll up the ante a little bit today then!”
+「えっ！　う、うん……お手柔らかにぃー」=“Eh--! O-Okay... go easy on me~”
+「おぉ！　見てこれ！　ハートのダブルストロージュースだって！　一緒に飲もう？」=“Ooh! Look! They're offering free a "heart-shaped double straw" with every drink! Wanna try it?”
+「なっ！　こ、これは大胆過ぎっ……って、うぅ、わかった飲むよ。そんな悲しそうな顔するなって」=“Wha--! T-That's upping it a bit too high... wuh, uuu, I got it, I'll try it. Don't make such a sad face.”

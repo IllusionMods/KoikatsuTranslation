@@ -1,7 +1,7 @@
-//「コイカツ部って……な、なんか恥ずかしいというか……むず痒いんだよなぁ」=
-//「ダメかな。できれば一緒に活動したいんだけど」=
-//「う、うーん。具体的には何をするんだよ」=
-//「話したり、触れ合ったり？」=
-//「ふ、触れ合うって……ぇ、えっちな事とかも……しちゃったり……」=
-//「それはその……お互いの合意があれば……かな」=
-//「あ、あはは、そうだよな、当たり前だよな。わかった、コイカツ部入るよ。よろしくな」=
+「コイカツ部って……な、なんか恥ずかしいというか……むず痒いんだよなぁ」=“The Koikatsu club... s-sounds kinda embarrassing, like... just the name makes me feel awkward.”
+「ダメかな。できれば一緒に活動したいんだけど」=“Will you really not join? I'd love to have you join our club activities.”
+「う、うーん。具体的には何をするんだよ」=“N-Nnn. Exactly what will we be doing?”
+「話したり、触れ合ったり？」=“Chatting, getting intimate with each other, stuff like that?”
+「ふ、触れ合うって……ぇ、えっちな事とかも……しちゃったり……」=“G-Getting intimate... d-doing lewd stuff... as well...”
+「それはその……お互いの合意があれば……かな」=“Well, that's... if we both consent... you know?”
+「あ、あはは、そうだよな、当たり前だよな。わかった、コイカツ部入るよ。よろしくな」=“A-Ahaha, right, of course. Got it, I'll join. Take care of me.”

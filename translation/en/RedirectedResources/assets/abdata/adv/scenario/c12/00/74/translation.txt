@@ -1,5 +1,5 @@
-//「よし！　ダッシュもう一本！」=
-//「うぇぇ……まだやるの？」=
-//「当たろ前だろー。あたしは中途半端が嫌いなんだっ！」=
-//「わかった。とことん付き合うよ」=
-//「お、いいねいいね～。そういうの好きだぞ」=
+「よし！　ダッシュもう一本！」=“Alright! One more!”
+「うぇぇ……まだやるの？」=“Uweeh... one more, really?”
+「当たろ前だろー。あたしは中途半端が嫌いなんだっ！」=“Of course. I hate half assing stuff--!”
+「わかった。とことん付き合うよ」=“Got it. Guess I'll push along too.”
+「お、いいねいいね～。そういうの好きだぞ」=“Oh, good, good~. That's the spirit.”
