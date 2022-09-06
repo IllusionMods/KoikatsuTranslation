@@ -1,5 +1,4 @@
-
-//「率直に言うわ……私たち、別れましょ」=
-//「えっ、何で突然……俺のこと嫌いになった？」=
-//「ううん……私があんたに理想を見すぎてたんだと思う。やっぱり漫画みたいに幸せにはいかないのね……」=
-//「あんた、いい奴だから、すぐまた彼女ができるわよ。頑張ってね。それじゃ……」=
+﻿「率直に言うわ……私たち、別れましょ」=I'll be straight... let's break up.
+「えっ、何で突然……俺のこと嫌いになった？」=Eh--, why so suddenly... Have you come to hate me?
+「ううん……私があんたに理想を見すぎてたんだと思う。やっぱり漫画みたいに幸せにはいかないのね……」=No... I think I just placed a relationship with you on too much of a pedestal. Real life really is nothing like manga fantasies, is it...
+「あんた、いい奴だから、すぐまた彼女ができるわよ。頑張ってね。それじゃ……」=You're a really good guy, so you'll be able to get another girl in no time. Good luck, okay? See ya...

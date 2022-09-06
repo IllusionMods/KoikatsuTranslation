@@ -1,8 +1,8 @@
-//「今日は王様ゲームをやるわよ♪」=
-//「それって、ふたりでやるゲームじゃないよね……」=
-//「えっ！？　そ、そうなんだ……せっかくクジまで作ってきたのに……」=
-//「わ、わかった、やろう！　きっとふたりでも楽しく遊べるよ」=
-//「……うん！　それじゃ、クジを引いて……あ♪　私が王様だわ」=
-//「それじゃ、王様じゃなかった人は、王様に……キスすること……」=
-//（なるほど、これが目的だったのか……それじゃ）=
-//「はぅ……っん……ふふ……ゲーム、まだまだ続けるわよね？」=
+﻿「今日は王様ゲームをやるわよ♪」=We're gonna play some Simon says today♪
+「それって、ふたりでやるゲームじゃないよね……」=That's not exactly a game you play with two people, is it...
+「えっ！？　そ、そうなんだ……せっかくクジまで作ってきたのに……」=Eh--!? H-Huh... I even prepared the raffle and everything...
+「わ、わかった、やろう！　きっとふたりでも楽しく遊べるよ」=G-Got it, let's do it! I'm sure we'll be able to enjoy it, even with just the two of us.
+「……うん！　それじゃ、クジを引いて……あ♪　私が王様だわ」=...Okay! Well then, draw a slip... ah♪ Guess I'm Simon then.
+「それじゃ、王様じゃなかった人は、王様に……キスすること……」=Well then, Simon says... to kiss Simon...
+（なるほど、これが目的だったのか……それじゃ）=(I see, so this was what she wanted, huh... Guess I'll oblige.)
+「はぅ……っん……ふふ……ゲーム、まだまだ続けるわよね？」=Hauu... nn... fufu... we're gonna, keep going, right?

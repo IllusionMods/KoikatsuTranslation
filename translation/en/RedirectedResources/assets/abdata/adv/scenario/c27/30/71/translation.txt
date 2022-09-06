@@ -1,6 +1,5 @@
-
-//「こんなところで勉強するの！？」=
-//「この時間、ふたりきりになれる場所っていったらココしかなかったのよ」=
-//「わかった……それじゃ、やろうか」=
-//「……ふわぁ……ベッドがあると眠くなってきちゃうわね……ちょっとだけ……すぅ～」=
-//（……寝てしまったぞ）=
+﻿「こんなところで勉強するの！？」=We're gonna study in here!?
+「この時間、ふたりきりになれる場所っていったらココしかなかったのよ」=This was the only place where we could be alone together like this, at this time.
+「わかった……それじゃ、やろうか」=Got it... well then, let's do it.
+「……ふわぁ……ベッドがあると眠くなってきちゃうわね……ちょっとだけ……すぅ～」=...Fuwah... with the bed right there, you can't help but wanna take a nap, can you... just for a bit... *snooze*~
+（……寝てしまったぞ）=(...She fell asleep.)

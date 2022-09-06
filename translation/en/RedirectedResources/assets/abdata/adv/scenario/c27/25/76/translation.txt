@@ -1,4 +1,4 @@
-//「この勝負に勝てば……あんたを自由にできるッ……！」=
-//「その勝負……マジでやるんだ」=
-//「あんたもストレス発散したいでしょ？　だから本気できて……！」=
-//（この運動がストレス発散にはならないのか……）=
+﻿「この勝負に勝てば……あんたを自由にできるッ……！」=If I win this... I can have my way with you...
+「その勝負……マジでやるんだ」=You're... serious about that, huh?
+「あんたもストレス発散したいでしょ？　だから本気できて……！」=You wanna release some stress too, no? So come at me for real...!
+（この運動がストレス発散にはならないのか……）=(Isn't this exercise gonna be pretty good stress relief on its own?...)

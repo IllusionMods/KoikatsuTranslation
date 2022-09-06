@@ -1,5 +1,4 @@
-
-//「ホントは生徒指導室が一番集中できるんだけど……空いてなかったらしょうがないわね」=
-//「教室でも充分勉強はできそうだし、ここでいいんじゃない？」=
-//「そうね……それじゃ、まずは数学からやりましょ。ちょっと教えてほしいところがあるんだけど……」=
-//（そ、そんなに近づかなくても……嬉しいけど）=
+﻿「ホントは生徒指導室が一番集中できるんだけど……空いてなかったらしょうがないわね」=Honestly, I concentrate the best when I study in the counselor's office but... it can't be helped since it was closed.
+「教室でも充分勉強はできそうだし、ここでいいんじゃない？」=Isn't it fine here? The classroom's pretty decent for doing studies too.
+「そうね……それじゃ、まずは数学からやりましょ。ちょっと教えてほしいところがあるんだけど……」=Yeah... well then, let's start with math. There's a spot I'd like your help with...
+（そ、そんなに近づかなくても……嬉しいけど）=(Y-You don't need to get that close, you know... not that I'm unhappy about it.)

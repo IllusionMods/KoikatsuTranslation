@@ -1,7 +1,7 @@
-//「[H名]っ……」=
-//「んんっ……」=
-//「んぁっ……んぅ、んん……」=
-//「っ……い、いきなりは、ビックリするから……」=
-//「でも、[H名]もシタくて来てくれたんだよね？」=
-//「……そう、だけど。もっと優しく、感じさせて？」=
-//「ごめん……わかったよ」=
+﻿「[H名]っ……」=[H名]--...
+「んんっ……」=Nnn--...
+「んぁっ……んぅ、んん……」=Nnah--... nnnn, nnnn...
+「っ……い、いきなりは、ビックリするから……」=--...i-it's really startling, when you do it out of nowhere...
+「でも、[H名]もシタくて来てくれたんだよね？」=But, you came here with me because you want to do it too, no?
+「……そう、だけど。もっと優しく、感じさせて？」=...That's true, but--. Be a bit more gentle, please?
+「ごめん……わかったよ」=Sorry... I got it.

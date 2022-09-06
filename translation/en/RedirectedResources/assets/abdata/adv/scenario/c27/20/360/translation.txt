@@ -1,7 +1,7 @@
-//「うぅ、けっこう大きな声、出しちゃってた気がする……」=
-//「これだけ音が響いてるから、心配ないよ」=
-//「っと、もうすぐ時間だ。[H名]は仕度できてる？」=
-//「うん……あっ、ちょっと待って！　部屋に消臭スプレーをかけておかないと」=
-//「なにかあったっけ？」=
-//「……したことバレたら、もうここのカラオケこれない」=
-//「はは……そうだね。じゃ、俺は先に会計済ませとくよ」=
+﻿「うぅ、けっこう大きな声、出しちゃってた気がする……」=Uuu, I feel like, we moaned way too loudly...
+「これだけ音が響いてるから、心配ないよ」=Our own voices are echoing so loudly in here, I don't think you need to worry.
+「っと、もうすぐ時間だ。[H名]は仕度できてる？」=Oh, our time's almost up. You ready to go, [H名]?
+「うん……あっ、ちょっと待って！　部屋に消臭スプレーをかけておかないと」=Yeah... ah--, wait a sec! Gotta spray deodorant around the room.
+「なにかあったっけ？」=Why, something the matter?
+「……したことバレたら、もうここのカラオケこれない」=...If they find out that we did it here, we won't be able to come here to do karaoke again.
+「はは……そうだね。じゃ、俺は先に会計済ませとくよ」=Haha... good point. Well then, I'll go settle the bill in the meantime.

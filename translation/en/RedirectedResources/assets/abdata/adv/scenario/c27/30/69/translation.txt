@@ -1,6 +1,5 @@
-
-//「ちらっ……ちらちらっ……」=
-//「え……どうしたの？」=
-//「別に……いつ教え合ったりするのかなって思っただけ……」=
-//「あー、それはどっちかが言い出さないと……って、俺の方から言った方が良かったかな」=
-//「わからないところがあるの！？　いいわよ、どこでも私に聞いて」=
+﻿「ちらっ……ちらちらっ……」=*glance*... *glance glance*...
+「え……どうしたの？」=Eh... what's the matter?
+「別に……いつ教え合ったりするのかなって思っただけ……」=Nothing... just wondering when we were gonna start teaching each other and stuff...
+「あー、それはどっちかが言い出さないと……って、俺の方から言った方が良かったかな」=Aah, well one of us has to actually ask something before... maybe I should take the first one here?
+「わからないところがあるの！？　いいわよ、どこでも私に聞いて」=There's something you don't understand!? Sure, ask away.

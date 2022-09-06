@@ -1,6 +1,5 @@
-
-//「うぅ、やっぱり緊張するぅ……でも、気張らずにやるわっ」=
-//「あはは、肩に力入れすぎないようにね。それじゃ、今日はどこへ行く？」=
-//「この前入れなかったお店に行ってみたいわ。それから……」=
-//「は～、美味しかった。……あっ、あそこのクレープ屋さんも気になる……」=
-//（どれだけ食べるんだろう……）=
+﻿「うぅ、やっぱり緊張するぅ……でも、気張らずにやるわっ」=Uuu, I really am nervous... but, I won't strain myself--
+「あはは、肩に力入れすぎないようにね。それじゃ、今日はどこへ行く？」=Ahaha, no need to get so nervous, okay? Well then, where do you wanna go today?
+「この前入れなかったお店に行ってみたいわ。それから……」=I wanna try going to all the stores we couldn't last time. After that...
+「は～、美味しかった。……あっ、あそこのクレープ屋さんも気になる……」=Hah~, that was so delicious. ...Ah--, that crêperie looks pretty interesting too...
+（どれだけ食べるんだろう……）=(Just how much can she even fit in there...)

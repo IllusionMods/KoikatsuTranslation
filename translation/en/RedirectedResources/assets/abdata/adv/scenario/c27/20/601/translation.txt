@@ -1,6 +1,6 @@
-//「初めて来ただけど……案外、綺麗なのね」=
-//「一応、ホテルだから」=
-//「受付のとき、随分手馴れた気がするけど……調べてたの？」=
-//「カッコ悪いところは見せられないからね」=
-//「それより……いいかな？　正直、もう抑えがきかないんだ」=
-//「……聞かなくても、返事は決まってるから」=
+﻿「初めて来ただけど……案外、綺麗なのね」=It's my first time here but... it's surprisingly pretty.
+「一応、ホテルだから」=Well, it is a hotel, afterall.
+「受付のとき、随分手馴れた気がするけど……調べてたの？」=You sure handled the booking at the reception real smoothly... did you already look this place up before?
+「カッコ悪いところは見せられないからね」=It wouldn't do to show you an uncool sight, afterall.
+「それより……いいかな？　正直、もう抑えがきかないんだ」=Rather than that... Can we? I honestly can't hold it in any more.
+「……聞かなくても、返事は決まってるから」=...Why do you even ask? You already know the answer, no?
