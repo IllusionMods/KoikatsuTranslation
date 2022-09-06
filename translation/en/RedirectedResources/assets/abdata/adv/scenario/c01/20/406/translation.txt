@@ -1,8 +1,8 @@
-//「……あ、そろそろ混んできたね」=
-//「そうですね。これ以上はお邪魔になってしまうかもしれませんし、そろそろ出ましょうか」=
-//「だね。それにしても、けっこう喋ってたんだね。もう夕方だよ」=
-//「あなたと喋っていると、時間を忘れてしまいますから……」=
-//「そうだよね。いつもは昼休みが終わったり、部活時間だったり、限りがあるから、こんなゆっくり話せて楽しかったよ」=
-//「また、喫茶店でこうやってお話してくれますか？」=
-//「もちろん。また時間を忘れて話そうね……それじゃ、会計してくるよ」=
-//（喫茶店で話すだけでこんなに喜んでくれるなんて、嬉しいな。これからも[H名]にとって新鮮な体験をいろいろさせてあげたいな）=
+﻿「……あ、そろそろ混んできたね」=...Ah, it's getting quite busy here, huh?
+「そうですね。これ以上はお邪魔になってしまうかもしれませんし、そろそろ出ましょうか」=Seems so. We might just end up holding up a table if we stay any longer, let's head out.
+「だね。それにしても、けっこう喋ってたんだね。もう夕方だよ」=Sounds good. Even so, we sure chatted a whole lot, huh? The sun's already going down.
+「あなたと喋っていると、時間を忘れてしまいますから……」=When we chat, I just can't help but forget the time, so...
+「そうだよね。いつもは昼休みが終わったり、部活時間だったり、限りがあるから、こんなゆっくり話せて楽しかったよ」=Right. Normally, the lunch bell rings, or the time we have for club runs out, just about everything has a limit, so it was really fun to have such a nice, slow chat.
+「また、喫茶店でこうやってお話してくれますか？」=Will you, take me out here for another chat sometime?
+「もちろん。また時間を忘れて話そうね……それじゃ、会計してくるよ」=Of course. Let's chat like this again, while forgetting the time... well then, I'mma go settle the bill.
+（喫茶店で話すだけでこんなに喜んでくれるなんて、嬉しいな。これからも[H名]にとって新鮮な体験をいろいろさせてあげたいな）=(Man, it sure does make me happy, that even something like this is enough to make her day. I wanna make her experience all sorts of new things.)

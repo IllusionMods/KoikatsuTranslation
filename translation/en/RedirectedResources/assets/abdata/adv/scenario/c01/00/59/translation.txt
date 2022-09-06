@@ -1,2 +1,2 @@
-//「とても楽しい一日でした。あの……また、誘っていただけますか？」=
-//「もちろん！　またデートしようね」=
+﻿「とても楽しい一日でした。あの……また、誘っていただけますか？」=I had a very fun day. Uhm... will you, take me out again?
+「もちろん！　またデートしようね」=Of course! Let's go on a date again soon, okay?

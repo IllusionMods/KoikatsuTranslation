@@ -1,4 +1,4 @@
-//「むむむっ。この問題はなかなか手ごわいですね……」=
-//「こっちも苦戦中だよ。授業はちゃんと聞いてたはずなんだけどなぁ」=
-//「あはは……ですが、ここで諦めるわけにはいきませんね」=
-//「そうだね。最後まで頑張ろう！」=
+﻿「むむむっ。この問題はなかなか手ごわいですね……」=Mumumu--. This is quite the formidable problem...
+「こっちも苦戦中だよ。授業はちゃんと聞いてたはずなんだけどなぁ」=I'm in a close fight myself. I'm pretty sure I was paying attention during that class too~
+「あはは……ですが、ここで諦めるわけにはいきませんね」=Ahaha... however, we can't exactly give up here, can we?
+「そうだね。最後まで頑張ろう！」=Yeah, you're right. Let's do our best till the end!

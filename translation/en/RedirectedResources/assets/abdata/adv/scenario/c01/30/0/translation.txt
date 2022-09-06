@@ -1,9 +1,8 @@
-
-//「ごめん、ちょっといいかな」=
-//「えっ？　あら、あなたは確か転入生の。私になにかご用ですか？」=
-//「うん。[P名前]っていうんだけど、もしよかったら少し話ができればと思って」=
-//「あなたと……ですか？　ええ、よろしいですよ」=
-//「本当？　良かったぁ、断られなくて」=
-//「ふふっ。女の子ばかりの学園へ転入されて、ご苦労も多いと思います。困り事があったらぜひ相談してください」=
-//「ありがとう。その時はよろしくね。それじゃあ、えーっと……」=
-//（優しそうな子だなぁ。どんな話をしてみよう）=
+﻿「ごめん、ちょっといいかな」=Sorry, have you got a sec?
+「えっ？　あら、あなたは確か転入生の。私になにかご用ですか？」=Eh--? Oh my, if I recall right, you're that transfer student. Do you need something from me?
+「うん。[P名前]っていうんだけど、もしよかったら少し話ができればと思って」=Yeah. I'm [P名前], was thinking that we could have a little chat.
+「あなたと……ですか？　ええ、よろしいですよ」=You and... me? Alright, I don't mind.
+「本当？　良かったぁ、断られなくて」=Really? Great, thanks for not turning me down.
+「ふふっ。女の子ばかりの学園へ転入されて、ご苦労も多いと思います。困り事があったらぜひ相談してください」=Fufu--. I'm sure you have you have your own share of troubles, what with being transferred to an all girls school and whatnot. I don't mind lending you an ear anytime you need it.
+「ありがとう。その時はよろしくね。それじゃあ、えーっと……」=Thank you. I'll remember that offer. Well then, erhm...
+（優しそうな子だなぁ。どんな話をしてみよう）=(Such a kind heart. What should I try talking about?)

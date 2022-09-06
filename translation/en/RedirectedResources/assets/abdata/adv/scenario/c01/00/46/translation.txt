@@ -1,3 +1,3 @@
-//「ど、どうでしたか？　私は気持ちよくしてもらえましたけど、あなたのことは……」=
-//「俺も気持ちよかったよ、すごく」=
-//「ほ、本当ですか？　でしたら安心しました」=
+﻿「ど、どうでしたか？　私は気持ちよくしてもらえましたけど、あなたのことは……」=H-How was it? I enjoyed it quite a bit but, you...
+「俺も気持ちよかったよ、すごく」=It was amazing for me too, really.
+「ほ、本当ですか？　でしたら安心しました」=R-Really? That's a relief then.

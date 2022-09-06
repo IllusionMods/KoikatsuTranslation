@@ -1,5 +1,4 @@
-
-//「はい、良いですよ。少し……ドキドキしますね」=
-//「うん、俺も。ちなみに、寄り道とかは平気？」=
-//「あまり遅くならなければ問題ありません」=
-//「どこへ連れて行ってもらえるのか、今から楽しみです」=
+﻿「はい、良いですよ。少し……ドキドキしますね」=Yes, alright. It's a bit... heart racing, isn't it?
+「うん、俺も。ちなみに、寄り道とかは平気？」=Yeah, mine's pounding too. By the way, are you fine with detours?
+「あまり遅くならなければ問題ありません」=As long as it doesn't make us late, it's no problem.
+「どこへ連れて行ってもらえるのか、今から楽しみです」=I'm already excited to see, just where you are going to take me.

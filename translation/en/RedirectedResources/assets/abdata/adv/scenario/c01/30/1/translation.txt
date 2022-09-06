@@ -1,6 +1,5 @@
-
-//「[H姓]さん、今時間大丈夫かな」=
-//「大丈夫ですよ。もしかして、私とお話をしに？」=
-//「うん。[H姓]さんのこと、もっといろいろ知りたいなって」=
-//「そうですか。[P姓]さんとお話をするのは新鮮ですから、その……よろしくお願いしますね」=
-//「はははっ、こちらこそ。それじゃあ、ええと――」=
+﻿「[H姓]さん、今時間大丈夫かな」=[H姓]-san, is this a good time?
+「大丈夫ですよ。もしかして、私とお話をしに？」=Yes. Have you come to chat with me, perchance?
+「うん。[H姓]さんのこと、もっといろいろ知りたいなって」=Yeah. I wanted to get to know you better.
+「そうですか。[P姓]さんとお話をするのは新鮮ですから、その……よろしくお願いしますね」=Is that so? I don't mind our chats either, [P姓]-san, they're quite... refreshing.
+「はははっ、こちらこそ。それじゃあ、ええと――」=Hahaha--, I see, I see. Well then, erhm--

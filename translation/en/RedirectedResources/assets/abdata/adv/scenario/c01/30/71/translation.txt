@@ -1,4 +1,3 @@
-
-//「あなたのことが気になって、もしかするとお勉強に集中できないかもしれません……」=
-//「実は俺も……今日はゆるい感じでいこうか」=
-//「はい……。たまにはこのような日があっても良いですよね」=
+﻿「あなたのことが気になって、もしかするとお勉強に集中できないかもしれません……」=I might not be able to concentrate actually, I just can't stop my mind from wandering onto you...
+「実は俺も……今日はゆるい感じでいこうか」=Me too, actually... let's just take it easy today, alright?
+「はい……。たまにはこのような日があっても良いですよね」=Yes... Days like these are nice too, aren't they?

@@ -1,5 +1,5 @@
-//「……あっ、シャーペンの芯が切れちゃった。替芯は……あれ？」=
-//「よろしければ、私のを何本かどうぞ。太さはこれで合っていますか？」=
-//「えっと……うん、大丈夫だけど……いいの？」=
-//「はい。せっかくのお勉強会ですから、時間まで頑張りましょう？」=
-//「うん、ありがとう。じゃあお言葉に甘えて……。今度返すから」=
+﻿「……あっ、シャーペンの芯が切れちゃった。替芯は……あれ？」=...Ah--, I'm out of lead. Let's see, gotta repla... huh?
+「よろしければ、私のを何本かどうぞ。太さはこれで合っていますか？」=If you'd like, you can have some of mine. Is this about the right thickness?
+「えっと……うん、大丈夫だけど……いいの？」=Erhm... yeah, this'll work but... you sure?
+「はい。せっかくのお勉強会ですから、時間まで頑張りましょう？」=Yes. We finally sat down to study together, so let's study until we're done?
+「うん、ありがとう。じゃあお言葉に甘えて……。今度返すから」=Yeah, thanks. I'll take you up on the offer then... I'll return it to you next time.
