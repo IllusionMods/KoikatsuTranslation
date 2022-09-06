@@ -1,5 +1,5 @@
-//「私も入っていいのですか！？　だったらぜひにーっ！」=
-//「やった！　ありがとう」=
-//「いえいえ、こちらこそありがとうなのです！　コイカツ部ってどんな部活なのですか？」=
-//「簡単に言うと恋愛ゴッコみたいなことをする部活なんだけど……」=
-//「はわっ、あなたと恋愛ゴッコ……な、なんだかすごくドキドキな響きですっ！　よろしくお願いするですっ！」=
+﻿「私も入っていいのですか！？　だったらぜひにーっ！」=Can I really join!? I'd love it!
+「やった！　ありがとう」=Yay! Thanks.
+「いえいえ、こちらこそありがとうなのです！　コイカツ部ってどんな部活なのですか？」=No, no, the pleasure's mine, thank you! What sort of a club is it?
+「簡単に言うと恋愛ゴッコみたいなことをする部活なんだけど……」=Basically, we play at romance and stuff...
+「はわっ、あなたと恋愛ゴッコ……な、なんだかすごくドキドキな響きですっ！　よろしくお願いするですっ！」=Hawah--, playing at romance with you... s-sounds so exciting! I'd love to be there--!

@@ -1,5 +1,5 @@
-//「お昼の時間は幸せなのです！　もうお腹ぺこぺこですよ！」=
-//「ふふっ、こういう時、一生懸命だよね」=
-//「はわっ……も、もしかしてバカにされたですかっ！？」=
-//「違う違う。輝いてるなぁと思って！　俺も一生懸命食べようって気になるんだ」=
-//「あ……えへへ……買いかぶりすぎです。ただ単にお腹が空いてるだけなのですよー」=
+﻿「お昼の時間は幸せなのです！　もうお腹ぺこぺこですよ！」=Lunch time is happy time! My belly's all ready for refueling!
+「ふふっ、こういう時、一生懸命だよね」=Fufu--, you sure get fired up at times like these.
+「はわっ……も、もしかしてバカにされたですかっ！？」=Hawah--... d-did you just make fun of me--!? You did, didn't you!
+「違う違う。輝いてるなぁと思って！　俺も一生懸命食べようって気になるんだ」=Not at all. Was just thinking "ah, she's so bright", that's it! It makes me fired up too.
+「あ……えへへ……買いかぶりすぎです。ただ単にお腹が空いてるだけなのですよー」=Ah... ehehe... you're giving me too much credit. I'm just starving, that's all!

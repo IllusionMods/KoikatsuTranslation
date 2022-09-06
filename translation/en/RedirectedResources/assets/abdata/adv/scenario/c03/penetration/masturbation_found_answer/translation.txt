@@ -1,2 +1,2 @@
-//「わかってるです、そんなに大きくしちゃってるですから……」=
-//「それじゃ、早速するです！　ほら、するったらするですよ！」=
+﻿「わかってるです、そんなに大きくしちゃってるですから……」=I know, you're already so big, afterall...
+「それじゃ、早速するです！　ほら、するったらするですよ！」=Well then, let's get to it! C'mon, we've no time to waste!

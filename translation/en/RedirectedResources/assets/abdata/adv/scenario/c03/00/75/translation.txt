@@ -1,5 +1,5 @@
-//「頂きなのですっ！」=
-//「あっ、やられたっ！」=
-//「えへへっ、今のフェイントは分かりやすかったですよ。それじゃ次は私が攻めるです！」=
-//「いいよ。でも俺も手加減はしないからね」=
-//「ふっふっふ、それは私のドリブル捌きを見てから言うですよ。それじゃ……いくです！」=
+﻿「頂きなのですっ！」=I'll be taking that--!
+「あっ、やられたっ！」=Ah--, you got me--!
+「えへへっ、今のフェイントは分かりやすかったですよ。それじゃ次は私が攻めるです！」=Ehehe--, that feint was really easy to see through, you know? Well then, it's my turn to press the attack!
+「いいよ。でも俺も手加減はしないからね」=Sure. But I'm not gonna hold back either, okay?
+「ふっふっふ、それは私のドリブル捌きを見てから言うですよ。それじゃ……いくです！」=Fuhfuhfuh, save that for after you see my dribbling skills. Well then... here I come!
