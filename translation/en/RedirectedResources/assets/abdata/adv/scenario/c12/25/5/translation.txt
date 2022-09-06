@@ -1,3 +1,3 @@
-﻿「うん、悪くない提案だな。で、何するかは決めてるのか？」=Yeah, not a bad idea. So, settled on what we're gonna do?
-「うーん、ごめん。まだそこまでは」=Nnn, sorry. Didn't get that far.
-「はは、そんな事だろうと思ったよ。じゃあ、まずはそこからだな」=Hahah, I guessed as much. Well then, let's start from there.
+//「うん、悪くない提案だな。で、何するかは決めてるのか？」=
+//「うーん、ごめん。まだそこまでは」=
+//「はは、そんな事だろうと思ったよ。じゃあ、まずはそこからだな」=

@@ -1,3 +1,3 @@
-﻿「ふふーん。今日はプレゼントをもってきたぞ！」=Fufuhn~. I've come with a present!
-「ほい、カップケーキだ。授業で作ったんだよ。食べてみてくれ」=Here, some cupcakes. I made them during home ec. Try them.
-「ほら、早く食べろって……で、感想を言う事。結構よくできたと思うんだ」=C'mon, eat them already... So, how are they? I think they came out pretty good.
+//「ふふーん。今日はプレゼントをもってきたぞ！」=
+//「ほい、カップケーキだ。授業で作ったんだよ。食べてみてくれ」=
+//「ほら、早く食べろって……で、感想を言う事。結構よくできたと思うんだ」=
