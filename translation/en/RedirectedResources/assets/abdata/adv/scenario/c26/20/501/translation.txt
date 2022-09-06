@@ -1,8 +1,8 @@
-//（よし、予定通り約束の１０分前には着きそうだ。待たせるなんてかっこ悪いだけだしな）=
-//「とーちゃく……って、えぇ！　[H名]！」=
-「……おはよう」=“...Good morning.”
-//「お、おはよう。早く着いて待ってるつもりだったんだけど、待たせてごめん」=
-//「もっとゆっくり来てくれてもよかったのに」=
-//「……あなたを待たせたくなかった、から」=
-//「ありがとう。俺のこと考えててくれて嬉しいよ」=
-//（さて、どこへ行こうかな）=
+﻿（よし、予定通り約束の１０分前には着きそうだ。待たせるなんてかっこ悪いだけだしな）=(Alright, I'm gonna get there 10 minutes earlier than we set out to. Would just be plain uncool to make her wait, afterall.)
+「とーちゃく……って、えぇ！　[H名]！」=Alright, I'm her... wuh, eeh! [H]!
+「……おはよう」=...Morning.
+「お、おはよう。早く着いて待ってるつもりだったんだけど、待たせてごめん」=M-Morning. I planned on getting here first and waiting for you, sorry for making you wait.
+「もっとゆっくり来てくれてもよかったのに」=You could have taken your time, I wouldn't have minded.
+「……あなたを待たせたくなかった、から」=...I didn't want to, make you wait.
+「ありがとう。俺のこと考えててくれて嬉しいよ」=Thank you. It makes me really happy that you thought of me.
+（さて、どこへ行こうかな）=(Now then, where should we go?)

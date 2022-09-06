@@ -1,4 +1,4 @@
-「ごめん……じゃなくて、ありがとう……かな？　その、よかったよ」="Sorry... about that. Did you like it at least?"
-「ん、あなたが、喜んでくれて……良かった。こういうの……嫌いじゃないし」="You seem happy... Good. This is probably the best outcome."
-「でも……これは気まぐれ。……いつも、期待しないでね」="But... this is kind of rare. Don't expect me to do that again."
-「あっ、はい」="OK."
+﻿「ごめん……じゃなくて、ありがとう……かな？　その、よかったよ」=Sorry... no, thanks... I guess? Uhm, it was great.
+「ん、あなたが、喜んでくれて……良かった。こういうの……嫌いじゃないし」=Nn, I'm glad, you... enjoyed it. I don't... hate this sort of thing.
+「でも……これは気まぐれ。……いつも、期待しないでね」=But... I just felt like it. ...Don't expect it, everytime, okay?
+「あっ、はい」=Ah--, yes.

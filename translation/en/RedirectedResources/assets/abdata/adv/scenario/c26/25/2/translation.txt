@@ -1,7 +1,7 @@
-「……あなたと話す時間は、楽しいから好き」="...I'm enjoying the time we spend together. It's kind of fun, to be honest."
-「はは、そういってもらえると嬉しいよ」="Really? I'm flattered..."
-「……あなたのする話は、面白いから全部覚えてる」="All of the stories you told me... They were so interesting."
-「だから……また話を聞かせて」="So... I want to talk some more."
-「任せて、今度も面白い話をきかせるからさ」="Leave it to me. I've always got stories to tell."
-「……うん」="...Sure."
-「じゃあ……またね」="Bye... See you around."
+﻿「……あなたと話す時間は、楽しいから好き」=...Spending time chatting with you is fun, so I love it.
+「はは、そういってもらえると嬉しいよ」=Haha, that's quite nice of you to say.
+「……あなたのする話は、面白いから全部覚えてる」=...The things you tell me are, really fun so, I remember them all.
+「だから……また話を聞かせて」=So... talk to me again.
+「任せて、今度も面白い話をきかせるからさ」=Leave it to me, I'll tell you lots more fun stuff next time.
+「……うん」=...Okay.
+「じゃあ……またね」=Then... see you.

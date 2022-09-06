@@ -1,4 +1,4 @@
-「んーっ、よく寝た。……あれ？　メモがある。なになに――」=“Mmm, I slept well. ...Oh? There's a letter. What's it say...?”
-『おはよう。[P]、起きなかったから先に行ってるよ』="Good morning, [P]. I went ahead because you didn't wake up."
-『念のため、遅刻には気をつけて』="Just be careful that you aren't late."
-『P.S.また学園で、お話聞かせてね』="P.S. Talk with me at the school."
+﻿「んーっ、よく寝た。……あれ？　メモがある。なになに――」=Nnn, I slept well. ...Huh? There's a note. Let's see----
+『おはよう。[P]、起きなかったから先に行ってるよ』=「Morning. You weren't waking up, so I'm leaving first.」
+『念のため、遅刻には気をつけて』=「Just in case, try to make it on time.」
+『P.S.また学園で、お話聞かせてね』=「P.S. Talk to me more at school, okay?」
