@@ -1,4 +1,4 @@
-//「これ、好きなアニメのキーホルダーなんだ。良かったら触ってみて」=
-//「うん。……へえ、良くできてるね」=
-//「えぇ、そうなんだ。ふふ、ふ。つ、つかまえた。ギュッ」=
-//「ははは、やられたな」=
+﻿「これ、好きなアニメのキーホルダーなんだ。良かったら触ってみて」=This keychain is from an anime I really love. Try touching it, if you want.
+「うん。……へえ、良くできてるね」=Okay. ...Hoh, it's pretty well made.
+「えぇ、そうなんだ。ふふ、ふ。つ、つかまえた。ギュッ」=Yes, it is. Fufu, fuh. I-I got you. *squeeze*
+「ははは、やられたな」=Hahaha, I fell for it.

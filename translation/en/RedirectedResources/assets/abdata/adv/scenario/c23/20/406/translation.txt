@@ -1,6 +1,6 @@
-//「おっ！　もうこんな時間か。そろそろ出ようか」=
-//「そうですな。うーん……色々語れて楽しかったんだなぁ」=
-//「あ、先に行ってていいよ」=
-//「えっと……もしかして主人公してくれるのかい？」=
-//「まあ、ちょっとはカッコつけさせてよ」=
-//「ふふ、ふ……ありがとうなんだなぁ」=
+﻿「おっ！　もうこんな時間か。そろそろ出ようか」=Oh--! It's already so late, huh? Let's head out.
+「そうですな。うーん……色々語れて楽しかったんだなぁ」=Yeah. Nnn... it was so fun, we chatted about all sorts of stuff~
+「あ、先に行ってていいよ」=Ah, you can leave first and wait outside.
+「えっと……もしかして主人公してくれるのかい？」=Erhm... gonna be my hero for once?
+「まあ、ちょっとはカッコつけさせてよ」=Well, yeah, I wanna show off sometimes too.
+「ふふ、ふ……ありがとうなんだなぁ」=Fufuh, fuh... thank you~

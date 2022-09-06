@@ -1,7 +1,7 @@
-//「コイカツ部ってあなたが部長の部活、だよね？　なら、入ってみようかなぁ」=
-//「やったぁ。ありがとう」=
-//「あなたと、いつもみたいにアニメとかゲームの話をする部活だよね？」=
-//「うん。そんなところだよ。あとは、スキンシップとか」=
-//「スキンシップ？　もしかして、それって、エロ同人みたいなこと」=
-//「まっ、まあ……それは、そのうちに説明するよ」=
-//「そっか。あなたとどんなことをするか楽しみだ。それでは、よろしく」=
+﻿「コイカツ部ってあなたが部長の部活、だよね？　なら、入ってみようかなぁ」=The Koikatsu club's the club you're the president of, right? Guess I'll join and have a look myself~
+「やったぁ。ありがとう」=Yay~. Thanks.
+「あなたと、いつもみたいにアニメとかゲームの話をする部活だよね？」=It's a place where I can spend my day chatting with you about games and anime and stuff, like we usually do, right?
+「うん。そんなところだよ。あとは、スキンシップとか」=Yeah. Basically. Also, some skinship and stuff.
+「スキンシップ？　もしかして、それって、エロ同人みたいなこと/」=
+「まっ、まあ……それは、そのうちに説明するよ」=W-Well... we'll cross that bridge when we get there.
+「そっか。あなたとどんなことをするか楽しみだ。それでは、よろしく」=I see. I'm excited to see just what we're gonna do. Well then, glad to join, prez.

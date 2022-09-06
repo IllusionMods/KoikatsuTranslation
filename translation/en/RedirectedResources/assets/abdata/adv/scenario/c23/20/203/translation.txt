@@ -1,11 +1,10 @@
-//「もう夕方だね……この後はどうする？」=
-//「まだ時間が大丈夫なら、最後に観覧車に乗ってかない？」=
-//「遊園地デートで観覧車！　ゲームならイベントスチルが解放されますな」=
-//「もちろん、乗らせていただきますとも！」=
-//「暗くなる前に、今日はもう帰ろうか」=
-//「そうだね……最後に売店に寄ってもいいかい？」=
-//「グッズを確認してみたいんだ。もしかしたらアニメのコラボ商品が出てるかも……」=
-//「いいよ。俺も興味あるし、行こうか」=
-
-//CHOICE:『最後に観覧車に乗ってかない？』=
-//CHOICE:『暗くなる前に帰ろうか』=
+﻿「もう夕方だね……この後はどうする？」=It's already evening... what do you wanna do after this?
+CHOICE:『最後に観覧車に乗ってかない？』=Wanna ride the ferris wheel?
+CHOICE:『暗くなる前に帰ろうか』=Let's go home before it gets dark.
+「まだ時間が大丈夫なら、最後に観覧車に乗ってかない？」=If you've still got some time, how about we ride on the ferris wheel to close things off?
+「遊園地デートで観覧車！　ゲームならイベントスチルが解放されますな」=The ferris wheel, on an amusement park date! In a game, this is where you'd see a unique CG.
+「もちろん、乗らせていただきますとも！」=Of course, I'd love to go!
+「暗くなる前に、今日はもう帰ろうか」=Let's go home, before it gets dark.
+「そうだね……最後に売店に寄ってもいいかい？」=Yeah... mind if we stop by the gift shop before we leave?
+「グッズを確認してみたいんだ。もしかしたらアニメのコラボ商品が出てるかも……」=I want to check out the stuff they have. They might have some limited edition anime collab stuff...
+「いいよ。俺も興味あるし、行こうか」=Sure. I'm interested too, let's go.

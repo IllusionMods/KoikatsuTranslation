@@ -1,8 +1,8 @@
-//「あの、こ、こういうこと、やってみたいと思ってるんだけど」=
-//「なになに、眠れる姫をキスで起こす王子、名作アニメのシーンだね」=
-//「え、えぇとお姫様。憧れなの。……あ、あぁ、言わない方が良かったかなぁ」=
-//「いや、いいじゃないか。やってみよう」=
-//「[P]王子……んっ……」=
-//「[H]姫、お目覚めを……ん……」=
-//「……んっ、ん……あぁ、良かったぁ。あ、ありがとう」=
-//「どういたしまして。こういうのもムードがでるね」=
+﻿「あの、こ、こういうこと、やってみたいと思ってるんだけど/」=
+「なになに、眠れる姫をキスで起こす王子、名作アニメのシーンだね」=What, lemme see, one of those scenes where the princess wakes up the sleeping princess with a kiss, huh?
+「え、えぇとお姫様。憧れなの。……あ、あぁ、言わない方が良かったかなぁ」=E-Eerhm, I've always dreamed, of being a princess. ...M-Maybe I shouldn't have brought this up.
+「いや、いいじゃないか。やってみよう」=No, isn't it fine? Let's try it.
+「[P]王子……んっ……」=My prince... nn--...
+「[H]姫、お目覚めを……ん……」=Open your eyes, my dearest princess... nnn...
+「……んっ、ん……あぁ、良かったぁ。あ、ありがとう」=...Nn--, nn... aah, that was great. T-Thanks.
+「どういたしまして。こういうのもムードがでるね」=You're very welcome. This sort of thing really makes your mood, doesn't it?

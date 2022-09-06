@@ -1,2 +1,2 @@
-//「あのぅ、フルーツゼリー食べない？　家庭科の授業で作ったんだ」=
-//「あなたしか、渡す人が思いうかばなくて。どうぞ。ゲームの合成の要領でやってみたよ」=
+﻿「あのぅ、フルーツゼリー食べない？　家庭科の授業で作ったんだ」=Uhm, won't you have some of this fruit jelly? I made it during home-economics.
+「あなたしか、渡す人が思いうかばなくて。どうぞ。ゲームの合成の要領でやってみたよ」=I couldn't think of anybody else, to give it to. Please try some. I made it using a recipe I found in a game.

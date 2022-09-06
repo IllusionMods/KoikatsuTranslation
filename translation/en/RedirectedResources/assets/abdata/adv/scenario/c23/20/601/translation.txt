@@ -1,7 +1,7 @@
-//「ここがラブホ……基本的には作画の通りですな……」=
-//「アニメに登場することあるんだ？」=
-//「まあ……作品によっては登場しますぞ」=
-//「しかし、自分が来ることになるとは……」=
-//「緊張してる？」=
-//「少し……。なので、優しくしてくれると、嬉しいんだなぁ……」=
-//「うん、任せて」=
+﻿「ここがラブホ……基本的には作画の通りですな……」=This is a love hotel... it looks like just about what I've seen in anime...
+「アニメに登場することあるんだ？」=They show up in anime?
+「まあ……作品によっては登場しますぞ」=Well... depending on the genre, yeah.
+「しかし、自分が来ることになるとは……」=But, to think I'd actually come here myself...
+「緊張してる？」=Nervous?
+「少し……。なので、優しくしてくれると、嬉しいんだなぁ……」=A bit... Therefore, I hope you'll, be gentle with me...
+「うん、任せて」=Okay, leave it to me.

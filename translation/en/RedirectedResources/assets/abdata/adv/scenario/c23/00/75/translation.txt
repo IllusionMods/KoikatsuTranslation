@@ -1,5 +1,5 @@
-//「キャッチボールをやってみよう」=
-//「えぇ、ワタシが投げるからね。それっ」=
-//「よし、取った。投げるよ、それっ、あっ」=
-//(ボールがあらぬ方向へ）=
-//「あぁ、ボールがログアウト～。もう一回やってみようなんだなぁ！」=
+﻿「キャッチボールをやってみよう」=Let's try some catch.
+「えぇ、ワタシが投げるからね。それっ」=Alright, I'll throw it, okay? There--
+「よし、取った。投げるよ、それっ、あっ」=Alright, got it. Alright, here goes--, ah--
+(ボールがあらぬ方向へ）=(Yeah that's not where it was supposed to go)
+「あぁ、ボールがログアウト～。もう一回やってみようなんだなぁ！」=Aah, the ball gave up on us and logged out~. Let's try it again!
