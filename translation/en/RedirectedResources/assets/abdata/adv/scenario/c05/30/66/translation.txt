@@ -1,5 +1,4 @@
-
-//「一緒に帰ってくれてありがとう」=
-//「あなたと帰るのは嫌な感じがしないの、なんでだろう」=
-//「君が分からないなら、俺にも分からないな。そう言われると嬉しいけど」=
-//「やっぱりあなたも……ううん、まだ分からないよね。でも、そうだとしたら……」=
+﻿「一緒に帰ってくれてありがとう」=Thanks for walking home with me.
+「あなたと帰るのは嫌な感じがしないの、なんでだろう」=Walking home together with you doesn't feel awful at all. I wonder why?
+「君が分からないなら、俺にも分からないな。そう言われると嬉しいけど」=If you don't know, then I can't say I do either. I'm glad you feel that way though.
+「やっぱりあなたも……ううん、まだ分からないよね。でも、そうだとしたら……」=You really must be... no, it's still too early, isn't it? But, if you were...

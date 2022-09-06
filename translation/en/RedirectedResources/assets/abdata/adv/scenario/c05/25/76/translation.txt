@@ -1,4 +1,4 @@
-//「さっきからずっと浮いてるだけだけど、まだ泳がないの？」=
-//「もうちょっとだけ。こう浮いて目を閉じると、宇宙にいるみたいに感じるの」=
-//「俺は、まだそういう感覚がないからなあ。宇宙ってどういうところなんだ？」=
-//「素敵なところだよ。そういう意味では、今、ここはふたりだけの宇宙だね、えへへ」=
+﻿「さっきからずっと浮いてるだけだけど、まだ泳がないの？」=You've kinda been just floating around this whole time, not gonna swim?
+「もうちょっとだけ。こう浮いて目を閉じると、宇宙にいるみたいに感じるの」=Just a little bit more. When I close my eyes while floating around like this, I feel like I'm in space.
+「俺は、まだそういう感覚がないからなあ。宇宙ってどういうところなんだ？」=I still have absolutely no sense for that. What's it like, out there?
+「素敵なところだよ。そういう意味では、今、ここはふたりだけの宇宙だね、えへへ」=It's wonderful. Thinking about it like that, this is our own little chunk of space, isn't it? Ehehe.

@@ -1,3 +1,3 @@
-//「うん。運動だって、大事だもんね」=
-//「それって、やっぱり宇宙と関係が？」=
-//「え？　関係ないよ？　でも……そういうアプローチもいいかも」=
+﻿「うん。運動だって、大事だもんね」=Yeah, exercise is important too, isn't it?
+「それって、やっぱり宇宙と関係が？」=Does that have a connection with space too?
+「え？　関係ないよ？　でも……そういうアプローチもいいかも」=Eh? None at all. But... that's not a bad way of thinking about it.

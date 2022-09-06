@@ -1,1 +1,1 @@
-//「おはよう。話があるなら後で聞くよ？」=
+﻿「おはよう。話があるなら後で聞くよ？」=Good morning. If you want to talk, I'll hear you out later, okay?

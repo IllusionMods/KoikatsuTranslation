@@ -1,4 +1,4 @@
-//「もぐもぐ……こういうところで食べるご飯はおいしいね」=
-//「そうだね……ぷっ、あはは！　あごにごはん粒ついてるよ」=
-//「そんなに笑わなくても……あっ、本当だ。しかもこんなに」=
-//「全然気づいてないんだから、思わず笑っちゃった」=
+﻿「もぐもぐ……こういうところで食べるご飯はおいしいね」=*Chew chew*... eating in a place like this makes it extra delicious, doesn't it?
+「そうだね……ぷっ、あはは！　あごにごはん粒ついてるよ」=Yeah... pfft, ahaha! There's some rice on your chin.
+「そんなに笑わなくても……あっ、本当だ。しかもこんなに」=I don't think it's something to laugh that much ove... Ah--, you're right. So much of it too. How the fuck?
+「全然気づいてないんだから、思わず笑っちゃった」=You didn't notice at all, so I just couldn't help myself.

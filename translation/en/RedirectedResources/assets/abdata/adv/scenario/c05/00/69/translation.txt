@@ -1,5 +1,5 @@
-//「……さっきから手が止まってるけど、そこが分からないの？」=
-//「うん。分からないし、あまりやる気もなくって」=
-//「ダメだよ。俺が教えてあげるから。えっと……」=
-//「……ありがとう。あなた、意外と勉強できるんだね」=
-//「たまたまだよ、だから難しいのは聞かないでよ？」=
+﻿「……さっきから手が止まってるけど、そこが分からないの？」=... I see your hand's not moved for a while. Don't get that part?
+「うん。分からないし、あまりやる気もなくって」=Yeah. I don't get it, and I don't feel like figuring it out.
+「ダメだよ。俺が教えてあげるから。えっと……」=That's bad. I'll teach it to you. Erhm...
+「……ありがとう。あなた、意外と勉強できるんだね」=...Thanks. You're actually pretty good at studying, huh?
+「たまたまだよ、だから難しいのは聞かないでよ？」=I just happened to know it, so don't start asking me difficult things, alright?

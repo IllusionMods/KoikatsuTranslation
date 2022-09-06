@@ -1,7 +1,7 @@
-//「まだ、ホテルは緊張する？」=
-//「入るときだけは……ちょっとね。でもこうやって部屋に入れば、もう平気だよ……こんな風に」=
-//「んん……」=
-//「ん……んんっ……」=
-//「……えへへ、びっくりした？」=
-//「あなたを通して、大きな存在を感じるの……もっと、していい？」=
-//「[H名]……！」=
+﻿「まだ、ホテルは緊張する？」=Does this place still make you nervous?
+「入るときだけは……ちょっとね。でもこうやって部屋に入れば、もう平気だよ……こんな風に」=When we're making our way in... a little bit. But, once we get into the room, I'm fine... like this.
+「んん……」=Nnn...
+「ん……んんっ……」=Nn... nnn--...
+「……えへへ、びっくりした？」=...Ehehe, did I surprise you?
+「あなたを通して、大きな存在を感じるの……もっと、していい？」=I can feel a great presence, through you... mind if I, go for more?
+「[H名]……！」=[H]...!

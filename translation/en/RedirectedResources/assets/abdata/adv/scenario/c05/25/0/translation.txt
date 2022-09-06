@@ -1,7 +1,7 @@
-//「ねぇ、今って時間あるかな？　話があるんだ」=
-//「え？　……少しの間なら」=
-//「ありがとう。この後は、なにか予定があるの？」=
-//「今、メッセージを待ってるの。昨日は、わたしから送ったんだ」=
-//「えっと……どういうこと？」=
-//「宇宙にはわたしの仲間――“かれら”がいるの。だけど今日は電波が悪いからか、メッセージが中々届かなくて……」=
-//（か、変わった子だ……だけど、とにかく話してみよう）=
+﻿「ねぇ、今って時間あるかな？　話があるんだ」=Hey, do you have time right now? I wanna chat with you.
+「え？　……少しの間なら」=Eh? ...I guess a little bit, sure.
+「ありがとう。この後は、なにか予定があるの？」=Thanks. Are you doing something after this?
+「今、メッセージを待ってるの。昨日は、わたしから送ったんだ」=I'm waiting for a reply right now. To a message I send yesterday.
+「えっと……どういうこと？」=Erhm... what do you mean?
+「宇宙にはわたしの仲間――“かれら”がいるの。だけど今日は電波が悪いからか、メッセージが中々届かなくて……」=They -- my comrades --, are waiting in outer space. However, there's lots of signal interference today, so we're having a hard time exchanging messages.
+（か、変わった子だ……だけど、とにかく話してみよう）=(W-What a weird gal... but, let's just try talking to her.)

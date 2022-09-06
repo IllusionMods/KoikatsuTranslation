@@ -1,3 +1,3 @@
-//「いいよ。あの……どんなことするの？」=
-//「えーっと、一緒に外を歩いたりとか？」=
-//「そうなんだ……じゃあ、“かれら”と交信しやすいスポット、一緒に探そう？」=
+﻿「いいよ。あの……どんなことするの？」=Sure. Uhm... what're we gonna do?
+「えーっと、一緒に外を歩いたりとか？」=Eerhm, like, taking the walk around town and stuff?
+「そうなんだ……じゃあ、“かれら”と交信しやすいスポット、一緒に探そう？」=I see... then, let's search for a spot where the signal quality to "them" is great?

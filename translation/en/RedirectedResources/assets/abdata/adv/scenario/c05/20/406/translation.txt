@@ -1,5 +1,5 @@
-//「あ、もうこんな時間か。だいぶ話しこんじゃったね」=
-//「あなたの話が面白いから、時間を忘れてたよ」=
-//「はは、そう言ってくれて嬉しいよ」=
-//「また一緒に来て、のんびり過ごそうか」=
-//「うんっ。今度は“かれら”の話、もっと色々教えてあげるね」=
+﻿「あ、もうこんな時間か。だいぶ話しこんじゃったね」=Ah, it's already this late, huh? We really got into our chat, didn't we?
+「あなたの話が面白いから、時間を忘れてたよ」=Chatting with you is always really fun so, I forgot the time too.
+「はは、そう言ってくれて嬉しいよ」=Haha, makes me happy to hear you say that.
+「また一緒に来て、のんびり過ごそうか」=Let's come here again to chill out, shall we?
+「うんっ。今度は“かれら”の話、もっと色々教えてあげるね」=Yeah--. I'll tell you lots more about "them" next time, okay?

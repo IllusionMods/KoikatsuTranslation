@@ -1,5 +1,5 @@
-//「うーん……ねぇ、コイカツ部ってどういうことするの？」=
-//「そうだなぁ、たとえばドキドキすることとか……って、う、うわっ」=
-//「きゃっ！　いてて……ちょっと、重い……」=
-//「ってて、ごめん！　……あっ、こういうの、かな？」=
-//「ドキドキはしたよ。ビックリしてだけど……触ってみて？」=
+﻿「うーん……ねぇ、コイカツ部ってどういうことするの？」=Nnnn... hey, just what do you do in this club anyway?
+「そうだなぁ、たとえばドキドキすることとか……って、う、うわっ」=Let's see, for example, heart racing stuff and whatnot... w-woah--
+「きゃっ！　いてて……ちょっと、重い……」=Kyah--! Owww... hey, you're kinda heavy...
+「ってて、ごめん！　……あっ、こういうの、かな？」=Oww, sorry! ...Ah--, I guess, stuff like that?
+「ドキドキはしたよ。ビックリしてだけど……触ってみて？」=Well, it made my heart race for sure. It was really surprising though... try feeling it?

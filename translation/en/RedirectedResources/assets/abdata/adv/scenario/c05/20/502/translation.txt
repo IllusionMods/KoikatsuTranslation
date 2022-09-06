@@ -1,8 +1,8 @@
-//「はぁ、はぁ……マズいな。遅刻だ」=
-//（ん？　向こうから歩いてくるのは……）=
-//「[H名]、ここまで来てくれたんだね。遅れちゃってごめん」=
-//「ううん、いいの。予定の場所で待っていたら、あなたを発見して……早く会いたいと思っただけ」=
-//「はは、ありがとう。それにしても、よく見つけられたね。ここ、待ち合わせ場所から離れてるでしょ？」=
-//「こっちのほうからあなたの力を感じ取ったの。それを頼りにして来たんだよ」=
-//「すごいな、その第六感……いや、受信性能とか言ったほうがいいのかな？　ともかく、ありがとう」=
-//「それじゃ、行こうか」=
+﻿「はぁ、はぁ……マズいな。遅刻だ」=Haah, haah... damn. I'm late.
+（ん？　向こうから歩いてくるのは……）=(Hm? That person, walking over here...)
+「[H名]、ここまで来てくれたんだね。遅れちゃってごめん」=You walked all the way here, huh? Sorry I'm late, [H].
+「ううん、いいの。予定の場所で待っていたら、あなたを発見して……早く会いたいと思っただけ」=No, it's fine. When I detected you, while waiting for you at the spot... I just wanted to see you so badly.
+「はは、ありがとう。それにしても、よく見つけられたね。ここ、待ち合わせ場所から離れてるでしょ？」=Haha, thanks. Even so, I'm surprised you noticed. The place we were supposed to meet up at is a ways away, no?
+「こっちのほうからあなたの力を感じ取ったの。それを頼りにして来たんだよ」=I sensed your power. I used that as a guide.
+「すごいな、その第六感……いや、受信性能とか言ったほうがいいのかな？　ともかく、ありがとう」=That's some sixth sense you have... No, would it be better to call it telepathy? Anyways, thank you.
+「それじゃ、行こうか」=Well then, shall we?

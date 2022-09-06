@@ -1,4 +1,4 @@
-//「今日の儀式、楽しみだね……えへへ」=
-//「そうだね……それじゃ、行こうか」=
-//「そう……こうやって手を繋いで……空に掲げるの」=
-//（いつやっても手を繋いでるだけにしか見えないけど……嬉しそうだし、いいよな）=
+﻿「今日の儀式、楽しみだね……えへへ」=I'm really excited, about today's ritual... ehehe.
+「そうだね……それじゃ、行こうか」=Right... let's go then.
+「そう……こうやって手を繋いで……空に掲げるの」=That's it... hold my hand like this... and look at the sky.
+（いつやっても手を繋いでるだけにしか見えないけど……嬉しそうだし、いいよな）=(No matter how many times we do it, doesn't seem to be anything except normal hand holding to me... well, she seems happy, so it's fine)

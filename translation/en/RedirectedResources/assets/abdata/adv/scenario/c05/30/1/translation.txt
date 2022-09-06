@@ -1,6 +1,5 @@
-
-//「ねえ、ちょっと話がしたいんだけど」=
-//「……いいけど、なにか用？」=
-//「えっと、今なにしてるのかなって」=
-//「……“かれら”からのメッセージを待ってるの」=
-//「そ、そっか……じ、じゃあ待ってる間、お話しようか……？」=
+﻿「ねえ、ちょっと話がしたいんだけど」=Hey, I wanna chat with you a bit.
+「……いいけど、なにか用？」=...Sure but, what is it?
+「えっと、今なにしてるのかなって」=Erhm, was just wondering what you were up to.
+「……“かれら”からのメッセージを待ってるの」=...I'm waiting for a message from "them".
+「そ、そっか……じ、じゃあ待ってる間、お話しようか……？」=I-I see... t-then, how about we chat while you wait...?
