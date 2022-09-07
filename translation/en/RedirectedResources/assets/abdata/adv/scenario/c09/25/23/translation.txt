@@ -1,3 +1,3 @@
-//「あの……これ、あたしがつくったお菓子なんだけど。よかったら食べて」=
-//「どうしてって、そんなの決まってるじゃない。た、食べてほしいからよ、あんたに……」=
-//「今度また感想を聞かせてよね……じゃあ！」=
+「あの……これ、あたしがつくったお菓子なんだけど。よかったら食べて」=“Uhm... I made these sweets. If you like, eat them.”
+「どうしてって、そんなの決まってるじゃない。た、食べてほしいからよ、あんたに……」=“Why, you ask, that's obvious, isn't it? I-I want you, to eat them...”
+「今度また感想を聞かせてよね……じゃあ！」=“Tell me how you like them later, okay?... See ya!”

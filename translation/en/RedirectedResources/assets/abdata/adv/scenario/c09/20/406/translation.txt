@@ -1,7 +1,7 @@
-//「あ、もうこんな時間か。そろそろ出ようか？」=
-//「そうね。ちょっと長居しすぎたかも」=
-//「[H名]といると退屈しないから、ついつい話しこんじゃってたよ」=
-//「ふふ、嬉しいこと言ってくれるわね」=
-//「[H名]はリアクションがいいからね～」=
-//「ちょ、それどういう意味よ！」=
-//「ははは」=
+「あ、もうこんな時間か。そろそろ出ようか？」=“Ah, it's already this late. Wanna head out?”
+「そうね。ちょっと長居しすぎたかも」=“Yeah. I think we overstayed a bit too much.”
+「[H名]といると退屈しないから、ついつい話しこんじゃってたよ」=“I really don't get bored when I'm with you, so it's no wonder we ended up talking so much.”
+「ふふ、嬉しいこと言ってくれるわね」=“Fufu, you sure know how to sweet talk a girl.”
+「[H名]はリアクションがいいからね～」=“It's because your reactions are so good, [H]~”
+「ちょ、それどういう意味よ！」=“Hey--, just what do you mean by that!”
+「ははは」=“Hahaha.”
