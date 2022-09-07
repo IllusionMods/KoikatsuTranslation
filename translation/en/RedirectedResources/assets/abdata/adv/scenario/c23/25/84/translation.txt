@@ -1,5 +1,5 @@
-﻿「あの、コイカツ部とは恋人たちがどんなことするか勉強をするんだよね？」=Uhm, so the Koikatsu club is all about studying exactly what sort of things couples get up to, right?
-「まあ、大まかにいえばそんな感じだね。何かやりたいことがあるの？」=Well, broadly speaking, yes. Is there anything you wanna try in particular?
-「え、ええと、うん。好きなアニメのセリフを言ってほしんだけど」=E-Eerhm, yeah. I'd love it if you could say the lines from an anime I love.
-「わかったよ。『[H]、傍をはなれるな！　おまえは俺が守るっ！」……こうでいいかな」=Got it. 「[H], don't leave my side! I'll protect you--!」...is that fine?
-「わぁ、あ、ありがとう。キュンとしちゃった」=Wah, t-thanks. That made my heart skip a beat.
+//「あの、コイカツ部とは恋人たちがどんなことするか勉強をするんだよね？」=
+//「まあ、大まかにいえばそんな感じだね。何かやりたいことがあるの？」=
+//「え、ええと、うん。好きなアニメのセリフを言ってほしんだけど」=
+//「わかったよ。『[H]、傍をはなれるな！　おまえは俺が守るっ！」……こうでいいかな」=
+//「わぁ、あ、ありがとう。キュンとしちゃった」=

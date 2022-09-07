@@ -1,4 +1,4 @@
-﻿「やあ、またあなたとデートできてうれしいよ」=Man, I'm really happy we get to have another date together.
-「俺もだよ。じゃあ、行こうか」=Me too. Let's go then.
-「このゲーム有名なの？」=Is this a popular game?
-「これは知る人ぞ知るゲームで、クソゲーとも呼ばれているよ」=Nah, it's a really niche game, and even amongst those of us who play it, we shit on it all day.
+//「やあ、またあなたとデートできてうれしいよ」=
+//「俺もだよ。じゃあ、行こうか」=
+//「このゲーム有名なの？」=
+//「これは知る人ぞ知るゲームで、クソゲーとも呼ばれているよ」=

@@ -1,5 +1,5 @@
-﻿「あれ？　ずいぶん早いね。まだ待ち合わせ時間前だよ？」=Huh? You're pretty early. There was still some time on the clock, you know?
-「ワタシだって本気を出せばこんなものですぞ！」=I can do things properly when I want to too, you know!
-「どのくらい待ってたの？」=How long did you wait for me?
-「一時間ぐらいですかな。暇つぶしの道具には事欠きませんから」=An hour, I guess? Not like I lack things to kill time with.
-「それは早すぎだと思うけど……ま、まあ、とりあえず行こうか」=I really do think an hour is a bit too early but... w-well, let's just go.
+//「あれ？　ずいぶん早いね。まだ待ち合わせ時間前だよ？」=
+//「ワタシだって本気を出せばこんなものですぞ！」=
+//「どのくらい待ってたの？」=
+//「一時間ぐらいですかな。暇つぶしの道具には事欠きませんから」=
+//「それは早すぎだと思うけど……ま、まあ、とりあえず行こうか」=

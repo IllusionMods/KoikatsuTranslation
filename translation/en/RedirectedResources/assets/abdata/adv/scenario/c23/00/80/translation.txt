@@ -1,4 +1,4 @@
-﻿「あなたって火属性と水属性では、どちらが好み？」=Between fire and water, elements I mean, which do you prefer?
-「よくわからないけど、水属性にしとこうかな？」=I don't really get the question but, I guess water?
-「なるほど、では今日はお味噌汁を頼もう」=I see, I'll go with Miso soup today then.
-（……火属性だと何だったのかな？）=(...What would she have picked for fire?)
+//「あなたって火属性と水属性では、どちらが好み？」=
+//「よくわからないけど、水属性にしとこうかな？」=
+//「なるほど、では今日はお味噌汁を頼もう」=
+//（……火属性だと何だったのかな？）=

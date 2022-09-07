@@ -1,5 +1,5 @@
-﻿「君、今時間ある？　出来れば話したいなって」=Do you have time right now? If it's alright, I'd like to chat, and stuff.
-「大丈夫だよ。私と話したいということはあなたはもしやアニメやゲームを愛する同志なのかい？」=Yep, I'm good on time. Since you want to talk to me, you must be a fellow lover games and all things anime?
-「いや、そうじゃないけど、普通に話したかったんだ」=No, not really, I just wanted to chat with you.
-「そっか、早とちりだったね。もちろん歓迎するよ」=I see, seems I jumped to the wrong conclusion. Of course, I'm up for a chat.
-「よかった、それじゃ……」=Great, then...
+//「君、今時間ある？　出来れば話したいなって」=
+//「大丈夫だよ。私と話したいということはあなたはもしやアニメやゲームを愛する同志なのかい？」=
+//「いや、そうじゃないけど、普通に話したかったんだ」=
+//「そっか、早とちりだったね。もちろん歓迎するよ」=
+//「よかった、それじゃ……」=

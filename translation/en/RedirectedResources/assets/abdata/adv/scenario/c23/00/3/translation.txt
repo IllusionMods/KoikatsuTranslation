@@ -1,3 +1,3 @@
-﻿「いいよ。初物でいささか緊張してしまいますが、やってみましょう」=Sure. I've never done it before so I'm nervous but, let's try it.
-「うん、一緒にやってみよう」=Okay, let's go then.
-「それと、もし良ければ寄り道などいかがかな？」=Also, how about we take a detour or two?
+//「いいよ。初物でいささか緊張してしまいますが、やってみましょう」=
+//「うん、一緒にやってみよう」=
+//「それと、もし良ければ寄り道などいかがかな？」=

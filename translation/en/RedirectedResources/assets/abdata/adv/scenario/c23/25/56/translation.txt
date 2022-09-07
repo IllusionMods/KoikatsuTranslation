@@ -1,5 +1,5 @@
-﻿「どうしたんだい、そんな事言って……まさか、本気なの？」=What's wrong, why'd you say tha... wait, are you serious?
-「ごめん……」=Sorry...
-「謝られてもわけが。趣味の話をしすぎたかなぁ。これから気をつけるけど、うぅ……」=I mean, there should be a reason, right? Did I talk your ear out too much? I'll try to be more careful from now own, uu...
-「……」=...
-「本気なんだね……もう帰ってアニメの世界に浸るよ。じゃあね」=You're serious, aren't you... I'm just gonna go home and drown my sorrows in anime. See ya.
+//「どうしたんだい、そんな事言って……まさか、本気なの？」=
+//「ごめん……」=
+//「謝られてもわけが。趣味の話をしすぎたかなぁ。これから気をつけるけど、うぅ……」=
+//「……」=
+//「本気なんだね……もう帰ってアニメの世界に浸るよ。じゃあね」=
