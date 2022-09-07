@@ -1,3 +1,4 @@
-﻿「デート……つまり、どこかへ出掛けるということですよね？」=A date... basically, you mean for us to head out somewhere together, right?
-「そうそう。どうかな？」=Exactly. How about it?
-「良いですよ。あなたと一緒にすごす時間は好きですから。それで、どちらへ行くんですか？」=Alright. I love spending time with you. So, where are we going?
+
+//「デート……つまり、どこかへ出掛けるということですよね？」=
+//「そうそう。どうかな？」=
+//「良いですよ。あなたと一緒にすごす時間は好きですから。それで、どちらへ行くんですか？」=

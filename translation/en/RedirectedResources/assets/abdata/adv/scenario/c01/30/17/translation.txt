@@ -1,4 +1,5 @@
-﻿「んーっ、よく寝た。……あれ？　メモがある。なになに――」=Nnn--, I slept well. ...Huh? There's a note. Let's see---
-『おはようございます。すみません、一度家に寄らなければいけないので、先に出ますね』=「Good morning. I'm sorry, I need to go back to my home for a bit, so I shall leave first.」
-『本当は朝食を作っておきたかったのですが、時間がなくて……』=「I actually really wanted to make you some breakfast, but I didn't have the time...」
-『では、遅刻せずに登校してくださいね。　[H]』=「Please come to class without being late, okay? [H]」
+
+「んーっ、よく寝た。……あれ？　メモがある。なになに――」=“Mmm, I slept well. ... Oh? There's a letter. What's it say...?”
+//『おはようございます。すみません、一度家に寄らなければいけないので、先に出ますね』=
+//『本当は朝食を作っておきたかったのですが、時間がなくて……』=
+//『では、遅刻せずに登校してくださいね。　[H]』=

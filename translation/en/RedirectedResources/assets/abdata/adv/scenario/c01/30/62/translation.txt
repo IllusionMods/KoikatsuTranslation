@@ -1,10 +1,11 @@
-﻿………………=...
-…………=...
+
+………………=.........
+…………=......
 ……=...
-「あっ……名残惜しいですが、ここでお別れですね」=Ah--... it's a shame but, we'll have to say goodbye here, won't we?
-「もしよかったら、俺の家に来ない？　もう少しだけ一緒にいたいんだ」=If it's alright, won't you come to my place? I wanna be with you more.
-「あ……えっと……そ、そうですね。私も……本当はあなたと離れたくないと……思っていましたので」=Ah... erhm... i-indeed. I... don't want to say... goodbye either, honestly.
-「そうだね。また学園で会えるし、今日はこのへんで、かな。ばいばい」=Yeah. We'll see each other at school again though, so let's cut this off here, okay? Byebye.
-「はい。さようなら」=Yes. Goodbye.
-CHOICE:「もしよかったら、俺の家に来ない？」=If it's alright, won't you come to my place?
-CHOICE:「そうだね。じゃあ、ばいばい」=Yeah. Byebye then.
+//「あっ……名残惜しいですが、ここでお別れですね」=
+//CHOICE:「もしよかったら、俺の家に来ない？」=
+//CHOICE:「そうだね。じゃあ、ばいばい」=
+//「もしよかったら、俺の家に来ない？　もう少しだけ一緒にいたいんだ」=
+//「あ……えっと……そ、そうですね。私も……本当はあなたと離れたくないと……思っていましたので」=
+//「そうだね。また学園で会えるし、今日はこのへんで、かな。ばいばい」=
+//「はい。さようなら」=

@@ -1,11 +1,12 @@
-﻿「なんと言いますか、ドキドキしますね。デート……ですものね」=How do I say this, this is quite exciting, isn't it? It's a... date, afterall, isn't it?
-「うん。俺もドキドキしてる。一緒に楽しめるように頑張るから、今日はよろしくね」=Yeah. My heart's racing too. I'll do my best so that we can both enjoy ourselves together, so let's have a good day out today, okay?
-「お、お願いいたします……！……はぁ……心臓がはち切れそうです……」=P-Please...! ...Haah... it feels like my heart's going to burst...
-「満足してもらえるようにエスコートするよ」=I'll definitely show you a good time, you won't be unsatisfied.
-「なるほど。これが、本当のデートというものなのですね」=I see. So this is, what a real date is, huh?
-「本当の？」=A 'real' date?
-「あっ……すみません、本で読んでいた知識しかなかったもので……」=Ah--... I'm sorry, I've only ever read about it in books, so...
-「実際のデートは、想像していたよりもずっと楽しく、刺激的でした」=It's been a much more enjoyable and, stimulating experience, than I thought it would be.
-「そっか。でも、今日はまだまだ続くよ。最後まで楽しんでもらえたら嬉しいな」=I see. But, the day's not over yet. I hope you enjoy the whole thing.
-「今日は本当にありがとうございました。今まで感じたことのない高揚感と……あとは、幸せで胸がいっぱいです」=Thank you so much, for today. My chest is full of a sort of emotional high that I've never quite felt before... alongside, happiness.
-「このような体験も悪くありませんね。ふふふっ」=This sort of experience is not bad at all. Fufufu--
+
+//「なんと言いますか、ドキドキしますね。デート……ですものね」=
+//「うん。俺もドキドキしてる。一緒に楽しめるように頑張るから、今日はよろしくね」=
+//「お、お願いいたします……！……はぁ……心臓がはち切れそうです……」=
+//「満足してもらえるようにエスコートするよ」=
+//「なるほど。これが、本当のデートというものなのですね」=
+//「本当の？」=
+//「あっ……すみません、本で読んでいた知識しかなかったもので……」=
+//「実際のデートは、想像していたよりもずっと楽しく、刺激的でした」=
+//「そっか。でも、今日はまだまだ続くよ。最後まで楽しんでもらえたら嬉しいな」=
+//「今日は本当にありがとうございました。今まで感じたことのない高揚感と……あとは、幸せで胸がいっぱいです」=
+//「このような体験も悪くありませんね。ふふふっ」=

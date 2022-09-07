@@ -1,1 +1,2 @@
-﻿「あっ……もう終わりなんですね。い、いえっ、私は十分満足しましたから。本当ですよ？」=Ah--... we're stopping here, huh? N-No--, I'm perfectly satisfied as well. It's the truth, you know?
+
+//「あっ……もう終わりなんですね。い、いえっ、私は十分満足しましたから。本当ですよ？」=

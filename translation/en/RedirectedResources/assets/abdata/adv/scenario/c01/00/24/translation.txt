@@ -1,3 +1,3 @@
-﻿「はい、先程の授業で作ったチョコレートです」=Here, I made some chocolate in the last class.
-「バレンタインではないですけど、良いですよね？」=It's not exactly valentines but, it's okay, right?
-「ふふふっ。ありがとうございます。味わって食べてくださいね」=Fufufu--. Thank you very much. Please savour it, okay?
+//「はい、先程の授業で作ったチョコレートです」=
+//「バレンタインではないですけど、良いですよね？」=
+//「ふふふっ。ありがとうございます。味わって食べてくださいね」=

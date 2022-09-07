@@ -1,3 +1,3 @@
-﻿「お、おじゃま……します」=I-I'm coming... in.
-「家族以外で男性の部屋に入るなんて、あなたが初めてで……」=You're the first man, whose room I'm entering, the first man outside of my family...
-「な、なにか粗相をしてしまったら、遠慮せずに教えてくださいね？」=I-If I do something wrong, please let me know without holding back, okay?
+//「お、おじゃま……します」=
+//「家族以外で男性の部屋に入るなんて、あなたが初めてで……」=
+//「な、なにか粗相をしてしまったら、遠慮せずに教えてくださいね？」=

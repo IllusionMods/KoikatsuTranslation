@@ -1,6 +1,6 @@
-﻿「ええと、まずは柔軟体操からやってみようか」=Eerhm, shall we start with warm up exercises then?
-「いわゆるストレッチですね。こう、腕を大きく挙げて～～という」=The so called stretches, yes? Extending and stretching your arms, like this~~
-「うん、それはラジオ体操だね」=Yeah, those are radio calisthenics.
-「あ、あら……違いましたか」=O-Oh... I got them mixed up.
-「ま、まあ似てる部分もあるかな。とにかく、ストレッチをやってみよう」=W-Well, they're similar, in many ways. Anyways, let's do some stretches.
-「はい。よろしくお願いしますね」=Yes. Let's.
+//「ええと、まずは柔軟体操からやってみようか」=
+//「いわゆるストレッチですね。こう、腕を大きく挙げて～～という」=
+//「うん、それはラジオ体操だね」=
+//「あ、あら……違いましたか」=
+//「ま、まあ似てる部分もあるかな。とにかく、ストレッチをやってみよう」=
+//「はい。よろしくお願いしますね」=

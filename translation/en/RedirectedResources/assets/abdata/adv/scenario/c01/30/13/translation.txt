@@ -1,4 +1,5 @@
-﻿「は、はい。ぜひ行きましょう」=Y-Yes. By all means.
-「はあぁ……今からドキドキしてしまいます」=Haah... my heart is already pounding for it.
-「当日はもっとドキドキしてもらえるように、プランを考えておくね」=I'll think up a date plan, so that it'll pound even more on the day in question, alright?
-「お、お願いします……はぁ、緊張で倒れないようにしなくちゃ……」=P-Please do... haah, I'll need to make sure I don't collapse from tension...
+
+//「は、はい。ぜひ行きましょう」=
+//「はあぁ……今からドキドキしてしまいます」=
+//「当日はもっとドキドキしてもらえるように、プランを考えておくね」=
+//「お、お願いします……はぁ、緊張で倒れないようにしなくちゃ……」=

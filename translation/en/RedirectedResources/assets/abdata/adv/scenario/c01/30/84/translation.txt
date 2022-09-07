@@ -1,7 +1,8 @@
-﻿「恋人たちの行動を研究するのがコイカツ部……ということで合っていますか？」=The Koikatsu club, a place where we come to research the building blocks of a couple... is that about the gist of it?
-「うん。だいたいそんな感じだよ。だから、きみともそういう活動をしたいんだけど……なにか希望はある？」=Yeah. More or less. That's why, I wanna try out some of those building blocks with you... anything you wanna try?
-「そうですね――」=Hmm, let's see---
-「で、では、部活の趣旨にそっているかわからないのですが……一緒に恋愛小説を読みたいです」=W-Well then, I do not know whether it matches the purpose of the club or not but... I would like to read a romance novel together.
-「えっ？　恋愛小説？　一緒に？」=Eh--? A romance novel? Together?
-「はい。こう、二人でくっつきながら一冊の本を……あっ、もしくは私があなたの膝の上に乗って……」=Yes. Reading a single book together, shoulder to shoulder like this... ah--, perhaps I could sit on lap...
-「あ、それは恋人っぽいかも。やってみよう！」=Ah, that sounds pretty lovey-dovey. Let's try it!
+
+//「恋人たちの行動を研究するのがコイカツ部……ということで合っていますか？」=
+//「うん。だいたいそんな感じだよ。だから、きみともそういう活動をしたいんだけど……なにか希望はある？」=
+//「そうですね――」=
+//「で、では、部活の趣旨にそっているかわからないのですが……一緒に恋愛小説を読みたいです」=
+//「えっ？　恋愛小説？　一緒に？」=
+//「はい。こう、二人でくっつきながら一冊の本を……あっ、もしくは私があなたの膝の上に乗って……」=
+//「あ、それは恋人っぽいかも。やってみよう！」=

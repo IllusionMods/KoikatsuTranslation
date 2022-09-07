@@ -1,6 +1,7 @@
-﻿「えっ…………ええぇっ？　本当に私の事……夢じゃありませんよね？」=Eh--... eeeeeh--? Me, of all people?... This isn't a dream, is it?
-「もちろん。これが夢だったらガックリだよ、俺」=Of course not. If this ends up being a dream, I'm gonna cry.
-「は、はい……ではやはり現実…………あうぅぅ、一体どんな反応をすれば良いのか……」=Y-Yes... then this much be reality indeed... auuuuu, how should I react...
-「でも、これだけは伝えなくてはいけませんね。私も、あなたのこと……好き、ですよ」=But, I must atleast get this across. I do, uhm... love you, too.
-「じゃあ、付き合ってくれるかな」=Then, will you go out with me?
-「……はい。これからは、恋人としてよろしくお願いしますね」=...Yes, please be my boyfriend.
+
+//「えっ…………ええぇっ？　本当に私の事……夢じゃありませんよね？」=
+//「もちろん。これが夢だったらガックリだよ、俺」=
+//「は、はい……ではやはり現実…………あうぅぅ、一体どんな反応をすれば良いのか……」=
+//「でも、これだけは伝えなくてはいけませんね。私も、あなたのこと……好き、ですよ」=
+//「じゃあ、付き合ってくれるかな」=
+//「……はい。これからは、恋人としてよろしくお願いしますね」=

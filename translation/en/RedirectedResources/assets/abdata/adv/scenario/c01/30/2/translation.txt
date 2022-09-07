@@ -1,8 +1,9 @@
-﻿「男性の方とお話をするのは、とても珍しい経験で……でも、今はなんだか楽しいです」=Chatting with a boy is, quite the unusual experiece for me... but, I find myself really enjoying this.
-「本当？　そう言ってくれると嬉しいな」=Really? I'm happy to hear that.
-「俺も[H姓]さんと話すの楽しいからさ」=Since I have fun chatting with you too, you know? [H姓]-san.
-「あっ……ありがとうございます。その……少しずつで大丈夫なので、もっとあなたのことを教えてくれますか？」=Ah--... thank you very much. Uhm... I don't mind if it's only little by little but, won't you tell me more about yourself?
-「もちろん。お互いのこと、これからいっぱい知っていきたいな」=Of course. I'd love for us to get to know each other better.
-「そうですね。ふふふっ。まさか、あなたとこういった会話ができるなんて」=Indeed. Fufufu--. To think, I'd have chats with you like these.
-「あ、でももう時間ですが――続きはまた今度、ですね」=Ah, but I'm out of time-- Let's continue this next time, okay?
-「うん。またね」=Yeah. See ya.
+
+//「男性の方とお話をするのは、とても珍しい経験で……でも、今はなんだか楽しいです」=
+//「本当？　そう言ってくれると嬉しいな」=
+//「俺も[H姓]さんと話すの楽しいからさ」=
+//「あっ……ありがとうございます。その……少しずつで大丈夫なので、もっとあなたのことを教えてくれますか？」=
+//「もちろん。お互いのこと、これからいっぱい知っていきたいな」=
+//「そうですね。ふふふっ。まさか、あなたとこういった会話ができるなんて」=
+//「あ、でももう時間ですが――続きはまた今度、ですね」=
+//「うん。またね」=
