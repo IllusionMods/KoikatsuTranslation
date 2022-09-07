@@ -1,5 +1,5 @@
-//「おはようございます。本日はよろしくお願いします」=
-//「うん、こちらこそ！　今日は面白いところに連れていくからね」=
-//「面白いところですか。どちらでしょう？」=
-//「まだ内緒！　こっちだよ」=
-//（[H名]は今日も控え目で可愛いな。そんな[H名]でも楽しんでもらえるようなところに連れていこう！）=
+「おはようございます。本日はよろしくお願いします」=“Good morning. Please take care of me today.”
+「うん、こちらこそ！　今日は面白いところに連れていくからね」=“Yeah, me too! I'll take you somewhere fun today.”
+「面白いところですか。どちらでしょう？」=“Somewhere fun, you say? Where are we going?”
+「まだ内緒！　こっちだよ」=“That's still a secret! C'mon, over here.”
+（[H名]は今日も控え目で可愛いな。そんな[H名]でも楽しんでもらえるようなところに連れていこう！）=(She's so polite and adorable today too. Let's take her somewhere when even she can have fun!)

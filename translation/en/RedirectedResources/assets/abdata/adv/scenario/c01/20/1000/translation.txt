@@ -1,14 +1,14 @@
-//「すみませーん！　少しお時間よろしいでしょうか？」=
-//「あっ、はい。何ですか？」=
-//「ありがとうございます！　私、この近くの結婚式場に勤めているウェディングプランナーの玉城と申します！」=
-//「う、ウェディングプランナー？　どうして、そんな人が俺たちに声を……？」=
-//「現在、私どもの式場にてブライダルフェアを行っておりまして、模擬挙式のモデルをお願いできる方を探していたのですが……」=
-//「……えっと、私たちにモデルを……ということなのでしょうか？」=
-//「はい！　すごくお似合いで素敵なカップルさんでしたので、是非にと声をかけさせていただきました！　いかがでしょうか？」=
-//（[H名]と結婚式か……はっきりと考えたことなかったな。高嶺の花すぎるからかな……？）=
-//「いい機会かもね。[H名]がいいなら、やってみたいな」=
-//「はい、私も興味があります。是非、参加させていただきましょう」=
-//「だね！　じゃあ、よろしくお願いします！」=
-//「ありがとうございます！　それでは、さっそく式場までご案内いたしますね！」=
+「すみませーん！　少しお時間よろしいでしょうか？」=“Excuse meee! Can I have some of your time, please?”
+「あっ、はい。何ですか？」=“Ah--, Yes. What is it?”
+「ありがとうございます！　私、この近くの結婚式場に勤めているウェディングプランナーの玉城と申します！」=“Thank you very much! My name is Tamaki, and Im a wedding planner from the nearby wedding hall!”
+「う、ウェディングプランナー？　どうして、そんな人が俺たちに声を……？」=“W-Wedding Planner? What do you need from us...?”
+「現在、私どもの式場にてブライダルフェアを行っておりまして、模擬挙式のモデルをお願いできる方を探していたのですが……」=“Right now, at our hall, there's currently a Wedding Fair being held. So I have been out searching for couples who could model for us in a mock wedding ceremony...”
+「……えっと、私たちにモデルを……ということなのでしょうか？」=“...Erhm, are you asking us to... model for you?”
+「はい！　すごくお似合いで素敵なカップルさんでしたので、是非にと声をかけさせていただきました！　いかがでしょうか？」=“Yes! You guys look like a lovely couple that gets along really well, I just had to call out to you. How about it?”
+（[H名]と結婚式か……はっきりと考えたことなかったな。高嶺の花すぎるからかな……？）=(A wedding ceremony with [H], huh... Never really gave it a serious thought. Maybe because I know that she's out of my league...?)
+「いい機会かもね。[H名]がいいなら、やってみたいな」=“It might be nice. If you're okay with it, [H], I wanna try it out.”
+「はい、私も興味があります。是非、参加させていただきましょう」=“Yes, I'm interested in it as well. Let's have her make models out of us.”
+「だね！　じゃあ、よろしくお願いします！」=“Alright! Well then, please take care of us!”
+「ありがとうございます！　それでは、さっそく式場までご案内いたしますね！」=“Thank you very much! Then, I'll take you both to the wedding hall!”
 
 モブ=Mob

@@ -1,7 +1,7 @@
-//「[H名]、よかったよ……」=
-//「私もです……身体だけでなく、心も通い合った気がします……胸が、温かいんです……」=
-//「うん……俺も、[H名]のことが好きだって気持ちが大きくなった気がするよ……」=
-//「気がする、だけですか……？」=
-//「ううん、大きくなった。[H名]が俺のことを受け入れてくれたみたいにね」=
-//「……二人の愛を確かめ合えたし、今日はそろそろ帰ろうか」=
-//「はい……幸せな時間をありがとうございました」=
+「[H名]、よかったよ……」=“[H], that was amazing...”
+「私もです……身体だけでなく、心も通い合った気がします……胸が、温かいんです……」=“For me too... it felt like even our hearts were one, not just our bodies... my chest, feels so warm...”
+「うん……俺も、[H名]のことが好きだって気持ちが大きくなった気がするよ……」=“Yeah... I feel like, my love for you just grew too...”
+「気がする、だけですか……？」=“You just, 'feel like' it...?”
+「ううん、大きくなった。[H名]が俺のことを受け入れてくれたみたいにね」=“No, it definitely grew. It grew when you accepted me, [H].”
+「……二人の愛を確かめ合えたし、今日はそろそろ帰ろうか」=“...We've confirmed our love for each other and everything now, so let's go home for today, shall we?”
+「はい……幸せな時間をありがとうございました」=“Yes... thank you so much, for such a lovely time.”

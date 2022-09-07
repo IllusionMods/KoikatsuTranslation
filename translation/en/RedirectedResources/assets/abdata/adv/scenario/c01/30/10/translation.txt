@@ -1,6 +1,6 @@
 
-//「そうですね。以前から興味深い部活だと思っていましたので、これを機に入部してみます」=
-//「ホント？　よしっ！」=
-//「ふふふっ。ガッツポーズまでして、随分嬉しそうですね」=
-//「そりゃそうだよ。[H姓]さんが入ってくれるんだから。これからは、コイカツ部の部員としてもよろしくね」=
-//「はい。よろしくお願いします。今まで以上に……その、仲良くしてくれると嬉しいです」=
+「そうですね。以前から興味深い部活だと思っていましたので、これを機に入部してみます」=“Indeed. I've always thought of it as quite the interesting club so, I'll take this chance and join it.”
+「ホント？　よしっ！」=“Really? Alright--!”
+「ふふふっ。ガッツポーズまでして、随分嬉しそうですね」=“Fufufu--. You sure seem happy, even cheering like that.”
+「そりゃそうだよ。[H姓]さんが入ってくれるんだから。これからは、コイカツ部の部員としてもよろしくね」=“Well, of course. You're joining the club, afterall. Let's take care of each other as fellow club members, okay? [H姓]-san.”
+「はい。よろしくお願いします。今まで以上に……その、仲良くしてくれると嬉しいです」=“Yes. Let's. I hope we can... uhm, get closer together than we already are.”

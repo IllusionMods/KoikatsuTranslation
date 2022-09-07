@@ -1,7 +1,7 @@
 
-//「まさか、用具室に縄跳びが置いてあるとは思わなかったよ」=
-//「……私、縄跳び苦手なんです。どうしても足に引っかかってしまって」=
-//「そうなんだ。見てるから飛んでみてくれる？」=
-//「は、はい……では恥ずかしながら――え、えいっ」=
-//「あぅっ……！！」=
-//（め、目をつぶりながら飛んだら、それは引っかかっちゃうよ……）=
+「まさか、用具室に縄跳びが置いてあるとは思わなかったよ」=“I never thought our school's storage would have a skipping rope of all things.”
+「……私、縄跳び苦手なんです。どうしても足に引っかかってしまって」=“...I'm actually, really bad with those. My feet always get caught in it.”
+「そうなんだ。見てるから飛んでみてくれる？」=“I see. I'll watch you, so could you try doing it for me?”
+「は、はい……では恥ずかしながら――え、えいっ」=“O-Okay... well then, it's really embarrassing to do this but-- t-there--”
+「あぅっ……！！」=“Auuu--...!!”
+（め、目をつぶりながら飛んだら、それは引っかかっちゃうよ……）=(I-If you close your eyes while doing it, of course you're gonna get your feet caught...)

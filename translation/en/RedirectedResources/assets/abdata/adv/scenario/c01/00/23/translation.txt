@@ -1,3 +1,3 @@
-//「ええと……これ、ど、どうぞ……」=
-//「家庭科の授業で、プリンを作って……お、美味しくできたと思うんです」=
-//「だから、その……食べてみてください……！」=
+「ええと……これ、ど、どうぞ……」=“Eerhm... h-have this, please...”
+「家庭科の授業で、プリンを作って……お、美味しくできたと思うんです」=“I made some pudding, during home economics... I-I think it came out well.”
+「だから、その……食べてみてください……！」=“So, uhm... please eat it...!”

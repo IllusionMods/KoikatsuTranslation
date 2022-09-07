@@ -1,4 +1,4 @@
-//「きみはなにか好きな料理ってある？」=
-//「んー……パスタはよく食べますね。最近は冷製のものにはまっています」=
-//「冷製パスタかぁ。見かけたら頼んでみようかな」=
-//「ぜひ。さっぱりした口当たりで美味しいですよ」=
+「きみはなにか好きな料理ってある？」=“Is there any dish you like in particular?”
+「んー……パスタはよく食べますね。最近は冷製のものにはまっています」=“Nnn... I eat pasta often. Recently, I've been really into cold pasta.”
+「冷製パスタかぁ。見かけたら頼んでみようかな」=“Cold pasta, huh~. Maybe I'll try it out myself, if I ever see it somewhere.”
+「ぜひ。さっぱりした口当たりで美味しいですよ」=“Please do. It has a really clean taste to it, it's delicious.”

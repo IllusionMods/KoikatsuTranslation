@@ -1,5 +1,5 @@
-//「……えっ。すみません、私の聞き間違えでしょうか、今『別れたい』と……」=
-//「聞き間違えじゃないよ。ごめん……」=
-//「あっ、そ、その……どうか顔を上げてください。私に至らないところがあったのですよね……？」=
-//「だとしたら、謝るのは私の方です。理想の彼女になれず、すみません……」=
-//「ええと……で、ではこれで…………さようなら」=
+「……えっ。すみません、私の聞き間違えでしょうか、今『別れたい』と……」=“...Eh--. I'm sorry, did I mishear? I think you just said that you want to...”
+「聞き間違えじゃないよ。ごめん……」=“You didn't mishear. I'm sorry...”
+「あっ、そ、その……どうか顔を上げてください。私に至らないところがあったのですよね……？」=“Ah--, u-uhm... please raise your head. I must have failed you in some way, right...?”
+「だとしたら、謝るのは私の方です。理想の彼女になれず、すみません……」=“If so, I should be the one apologizing. I'm sorry, for not being your ideal girlfriend...”
+「ええと……で、ではこれで…………さようなら」=“Eerhm... w-well then, this is... goodbye.”

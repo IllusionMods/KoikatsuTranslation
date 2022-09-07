@@ -1,6 +1,6 @@
 
-//「あの……ごめんなさい。私、もうあなたとの関係を続けていくことができません」=
-//「えっ？　それって……」=
-//「私が悪いんだと思います。あなたをもっと受け入れられる私だったら、きっと……」=
-//「ま、待って、もう少し話を――」=
-//「本当にごめんなさい。でも、もう無理なんです。それでは」=
+「あの……ごめんなさい。私、もうあなたとの関係を続けていくことができません」=“Uhm... I'm sorry. I cannot continue with our relationship anymore.”
+「えっ？　それって……」=“Eh--? That's...”
+「私が悪いんだと思います。あなたをもっと受け入れられる私だったら、きっと……」=“I do think I'm at fault. If I was a more accepting person, then perhaps...”
+「ま、待って、もう少し話を――」=“W-Wait, let's talk this out--”
+「本当にごめんなさい。でも、もう無理なんです。それでは」=“I really am sorry. But, I can't anymore. Goodbye.”
