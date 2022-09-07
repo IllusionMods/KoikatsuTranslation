@@ -1,8 +1,8 @@
-//「か、彼氏とお勉強だなんて……ドキドキするです……」=
-//「そんなに緊張しなくてもいいよ。普通に勉強するだけだよ？」=
-//「普通に……お勉強……彼氏と……はわわ……」=
-//「違う違う！　[H]、絶対何か変なこと考えてる！」=
-//「ふあっ……ご、ごめんなさいです……ドキドキが加速しすぎたですよ……お勉強頑張るです！」=
-//「うん、頑張ろう。一緒に出来るとこまで進めていこう」=
-//「か、彼氏とっ……一緒にっ……出来るとこっ……までっ……はわわ……」=
-//「また絶対間違ってる！」=
+「か、彼氏とお勉強だなんて……ドキドキするです……」=“A-A study session with my boyfriend... my heart's pounding...”
+「そんなに緊張しなくてもいいよ。普通に勉強するだけだよ？」=“You don't need to be so nervous, you know? We're just studying like normal, you know?”
+「普通に……お勉強……彼氏と……はわわ……」=“Studying... like normal... with my boyfriend... hawawah...”
+「違う違う！　[H]、絶対何か変なこと考えてる！」=“Get your mind out of the gutter! I bet you're definitely thinking something weird!”
+「ふあっ……ご、ごめんなさいです……ドキドキが加速しすぎたですよ……お勉強頑張るです！」=“Fuah... I-I'm sorry... my heart started going a thousand miles an hour... I'll do my best!”
+「うん、頑張ろう。一緒に出来るとこまで進めていこう」=“Yeah, let's do our best. Let's do as much as we can together.”
+「か、彼氏とっ……一緒にっ……出来るとこっ……までっ……はわわ……」=“A-As much as we can--... together--... my boyfriend... and I--... hawawah...”
+「また絶対間違ってる！」=“Out of the gutter, I said!”

@@ -1,1 +1,1 @@
-//「ありがたく頂くです！」=
+「ありがたく頂くです！」=“I shall happily accept it!”

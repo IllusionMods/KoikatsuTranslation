@@ -1,5 +1,5 @@
-//「これ、調理実習であなたのことを考えながら作ったです！　あの、食べてみてくれるですか？　きっと気に入ってくれると思うですけど……」=
-//「もちろん、俺のために作ってくれたならよろこんで食べるよ！」=
-//「はむ……ん……おおお、美味しい！　すごいよ[H]！　ありがとう！」=
-//「あ……ふふーっ！　あなたは大げさなのです！　彼女が作ったからそう思うだけなのです！　それほど大した味じゃないのですよ！」=
-//「でも……えへへ、私、嬉しくて泣いちゃいそうなのです♪」=
+「これ、調理実習であなたのことを考えながら作ったです！　あの、食べてみてくれるですか？　きっと気に入ってくれると思うですけど……」=“I made these while thinking about you, during cooking class! Uhm, will you try them? I'm pretty sure you'd really like them...”
+「もちろん、俺のために作ってくれたならよろこんで食べるよ！」=“Of course, if you made them while thinking of me, there's no way I can keep my hands off them!”
+「はむ……ん……おおお、美味しい！　すごいよ[H]！　ありがとう！」=“*bite*... nn... oooh, so good! They're amazing, [H]! Thanks!”
+「あ……ふふーっ！　あなたは大げさなのです！　彼女が作ったからそう思うだけなのです！　それほど大した味じゃないのですよ！」=“Ah... fufu~! You're always exaggerating! They only taste so good to you because your girlfriend made them for you! They're not that amazing!”
+「でも……えへへ、私、嬉しくて泣いちゃいそうなのです♪」=“But... ehehe, I'm so happy, I could cry on the spot♪”

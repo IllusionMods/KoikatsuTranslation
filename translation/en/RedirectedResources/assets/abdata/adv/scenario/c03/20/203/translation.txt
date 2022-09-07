@@ -1,11 +1,11 @@
-//「あ……もう夕方……さすがにこれだけたくさん乗ると、すぐに時間も過ぎちゃうですね……」=
-//「そうだね。それじゃ最後の締めくくりに……あの観覧車に乗らない？」=
-//「あっ、乗りたいですーっ！　やっぱり遊園地といえば観覧車なのです！」=
-//「そうだよね！　二人で落ち着いて話も出来るし……」=
-//「はぅっ……そうでしたっ……それはますます乗らなきゃいけないのです！」=
-//「まだ明るいうちに駅まで戻ろっか？　遅くなると混んじゃいそうだし……」=
-//「はいです！　名残惜しいですけど……この気持ちは次回来る時まで楽しみに取っておくです！」=
-//「それじゃあ、駅に向かおうか」=
+「あ……もう夕方……さすがにこれだけたくさん乗ると、すぐに時間も過ぎちゃうですね……」=“Ah... it's already evening... I guess when you get on this many rides, time passing this fast is par for the course...”
+「そうだね。それじゃ最後の締めくくりに……あの観覧車に乗らない？」=“Right. Well then, to close things off... wanna ride that ferris wheel?”
+「あっ、乗りたいですーっ！　やっぱり遊園地といえば観覧車なのです！」=“Ah--, I do--! Can't go to the amusement park and not ride the ferris wheel!”
+「そうだよね！　二人で落ち着いて話も出来るし……」=“Right! We'll get to have some time to ourselves too...”
+「はぅっ……そうでしたっ……それはますます乗らなきゃいけないのです！」=“Hauu--... right--... we really must ride it then!”
+「まだ明るいうちに駅まで戻ろっか？　遅くなると混んじゃいそうだし……」=“Shall we head home while it's still bright out? Feels like the trains are gonna get packed once it gets dark...”
+「はいです！　名残惜しいですけど……この気持ちは次回来る時まで楽しみに取っておくです！」=“Yes! It's sad to go back home like this but... I'll just save these feelings for the next time we come!”
+「それじゃあ、駅に向かおうか」=“Well then, let's go.”
 
-//CHOICE:『締めくくりに観覧車乗らない？』=
-//CHOICE:『明るいうちに帰ろうか』=
+CHOICE:『締めくくりに観覧車乗らない？』=Wanna ride the ferris wheel to close things off?
+CHOICE:『明るいうちに帰ろうか』=Let's go home while it's still bright out.
