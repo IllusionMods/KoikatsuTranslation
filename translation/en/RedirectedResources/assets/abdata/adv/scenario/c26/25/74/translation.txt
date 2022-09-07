@@ -1,5 +1,5 @@
-﻿「……遅い」=...Slow.
-「はぁ……はぁ……！　そ、そっちが速過ぎるだけだと思うんだけど……！」=Haah... haah...! I-I think you're just way too fast...!
-「……私は普通に、走ってるだけ……遅いのはそっち」=...I'm just, running normally... you're the slowpoke.
-「そ、そうかな……」=Y-You think so?...
-「……ほら、続き……行くよ」=...C'mon, we're... doing it again.
+「……遅い」="...Pick up the pace."
+「はぁ……はぁ……！　そ、そっちが速過ぎるだけだと思うんだけど……！」=Huff, puff... "You're going too fast...!"
+「……私は普通に、走ってるだけ……遅いのはそっち」="...I'm running at my normal speed... You're just too slow."
+「そ、そうかな……」="My legs beg to differ..."
+「……ほら、続き……行くよ」="...Hmph, okay. I'll keep going..."

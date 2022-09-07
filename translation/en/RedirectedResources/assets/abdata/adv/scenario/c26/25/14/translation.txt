@@ -1,2 +1,2 @@
-﻿「……おはよう、[P]。もう朝だよ……」=...It's morning, [P]. Time to wake up...
-「……なんで顔を隠すの？　寝顔が恥ずかしい、から……？」=...Why're you hiding your face? Embarrassed that I can see, your bed face...?
+「……おはよう、[P]。もう朝だよ……」="Good morning, [P]. It's so early..."
+「……なんで顔を隠すの？　寝顔が恥ずかしい、から……？」="...Why are you hiding your face? Is your face still waking up...?"

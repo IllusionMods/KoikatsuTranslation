@@ -1,11 +1,12 @@
-﻿「ん……もうすぐ日が暮れるから、帰る人が多いね」=Nn... there's lots of people leaving, huh? Since the sun's about to go down.
-CHOICE:『観覧車に誘う』=Invite for a ferris wheel ride.
-CHOICE:『俺たちも帰ろうか』=Let's go home ourselves.
-「そうだね……でも、まだ時間あるし、最後に観覧車に乗っていかない？」=Yeah... but, we still have some time so, wanna go ride the ferris wheel to close it off?
-「観覧車……狭くて落ち着いて、好き」=The ferris wheel... the cabin's so narrow and calm, I love it.
-「よしっ、それじゃあ乗りに行こうか」=Alright--, let's go ride it then.
-「俺たちもそろそろ帰ろうか」=Let's head home ourselves.
-「うん……遊園地、いっぱい遊んだね」=Yeah... we had a lot of fun today, didn't we?
-「少し名残惜しいけど、まだ二人で来よう」=It's a bit sad but, let's come here together again.
-「ん、また二人で。……それじゃ、駅まで……手、繋ごう」=Nn, together. ...Well then, let's hold hands... till, the station.
-「ああ」=Yeah.
+「ん……もうすぐ日が暮れるから、帰る人が多いね」="Hm... it's getting dark, and a lot of people are heading home."
+「そうだね……でも、まだ時間あるし、最後に観覧車に乗っていかない？」="But... we probably still have time to ride the Ferris wheel. Shall we?"
+「観覧車……狭くて落ち着いて、好き」="The Ferris wheel... it's calming. I like it."
+「よしっ、それじゃあ乗りに行こうか」="All right, let's get on."
+「俺たちもそろそろ帰ろうか」="I think we should get going."
+「うん……遊園地、いっぱい遊んだね」="Yeah... we've been here for a while."
+「少し名残惜しいけど、まだ二人で来よう」="It's a bit of a shame... but we can't stay here past closing."
+「ん、また二人で。……それじゃ、駅まで……手、繋ごう」="Okay, let's walk back. ...Can we hold hands on the way?"
+「ああ」="Sure."
+
+//CHOICE:『観覧車に誘う』=
+//CHOICE:『俺たちも帰ろうか』=

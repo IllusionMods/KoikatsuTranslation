@@ -1,3 +1,3 @@
-﻿「おはよう、[Pあだ名]」=Morning, [Pあだ名].
-「うん。おはよう、[Hあだ名]。愛称で呼んでくれて嬉しいよ」=Yeah, morning, [Hあだ名]. Makes me happy that you called me that.
-「……そう。喜んでくれたなら、よかった」=...I see. I'm glad, then.
+「おはよう、[Pあだ名]」="Good morning, [Pあだ名]."
+「うん。おはよう、[Hあだ名]。愛称で呼んでくれて嬉しいよ」="Hey, right back at you, [Hあだ名]. Are we still on for the nicknames?"
+「……そう。喜んでくれたなら、よかった」="...Yeah. If you want to keep using them, I'm fine with it."
