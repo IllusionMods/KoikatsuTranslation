@@ -1,5 +1,6 @@
-﻿「はい、あ～ん……どう？　おいしい？」=Here, open wide~... how is it? Is it tasty?
-「うん、おいしい」=Yeah, really tasty.
-「これは、早起きして作ったの。そう言ってくれて嬉しい……」=I got up early, to make this. So hearing you say that makes me really happy...
-「本当においしいよ。[H]に食べさせてもらってるからかな？」=It really is delicious. Wonder if it's because you're feeding it to me?
-「えへへ、あなたとこうしてると……この星にいても幸せになれそうって思っちゃう」=Ehehe, when we spend time like this... being stuck on this planet doesn't feel as awful anymore.
+
+//「はい、あ～ん……どう？　おいしい？」=
+//「うん、おいしい」=
+//「これは、早起きして作ったの。そう言ってくれて嬉しい……」=
+//「本当においしいよ。[H]に食べさせてもらってるからかな？」=
+//「えへへ、あなたとこうしてると……この星にいても幸せになれそうって思っちゃう」=

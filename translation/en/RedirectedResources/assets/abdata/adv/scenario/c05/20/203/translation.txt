@@ -1,12 +1,13 @@
-﻿「次はなにに乗ろう……って、あれっ？　もうこんな時間なんだ……えへへ、はしゃぎすぎちゃったね」=What should we ride next... wait, huh--? It's already so late... Ehehe, we got a bit too carried away, didn't we?
-「[H名]。もし時間が大丈夫なら、最後に観覧車に乗っていこうかなって思うんだけど……どうかな？」=[H]. If you've still got some time, I was thinking that maybe we could ride the ferris wheel together... how about it?
-「えっ……観覧車？　本当にっ？」=Eh--... the ferris wheel? We can--?!
-「わたしも、[P名]くんが嫌じゃなかったら絶対乗ろうと思ってたんだ……」=I really wanted to, ride it too, if you weren't against it, [P]-kun...
-「よかった。それなら、早速行こうか」=Great. Let's go there right away then.
-「今日は[H名]のいつもとは違う部分が見れて楽しかったよ」=I got to see a whole new side of you today, [H], it was really fun.
-「さて、遅くなる前に帰ろうか。あ、売店とかあるけど……なにか買っていく？」=Now then, let's go home before it gets late, shall we? Ah, there's a gift shop too... want to grab something?
-「うんっ。いつもはね、“かれら”の元へ持っていけるかわからないから、あんまり物を欲しいと思わないけど……」=Yeah--. Normally, you know, I don't really want for much of anything, since I dunno if I'll be able to take it with me, to where "they" are, but...
-「[P名]くんとの思い出が強く残るように、なにかお揃いのものがほしいな」=I want to get something matching with you, so that the memories don't fade.
-「了解。それじゃあ、できるだけ宇宙に持っていけそうなものにしないとね」=Roger. Suppose we'll just have to find something that we could easily take with us to space then.
-CHOICE:『最後に観覧車に乗ってかない？』=Wanna ride the ferris wheel together?
-CHOICE:『暗くなる前に帰ろうか』=Let's go home before it gets late, shall we?
+//「次はなにに乗ろう……って、あれっ？　もうこんな時間なんだ……えへへ、はしゃぎすぎちゃったね」=
+//「[H名]。もし時間が大丈夫なら、最後に観覧車に乗っていこうかなって思うんだけど……どうかな？」=
+//「えっ……観覧車？　本当にっ？」=
+//「わたしも、[P名]くんが嫌じゃなかったら絶対乗ろうと思ってたんだ……」=
+//「よかった。それなら、早速行こうか」=
+//「今日は[H名]のいつもとは違う部分が見れて楽しかったよ」=
+//「さて、遅くなる前に帰ろうか。あ、売店とかあるけど……なにか買っていく？」=
+//「うんっ。いつもはね、“かれら”の元へ持っていけるかわからないから、あんまり物を欲しいと思わないけど……」=
+//「[P名]くんとの思い出が強く残るように、なにかお揃いのものがほしいな」=
+//「了解。それじゃあ、できるだけ宇宙に持っていけそうなものにしないとね」=
+
+//CHOICE:『最後に観覧車に乗ってかない？』=
+//CHOICE:『暗くなる前に帰ろうか』=

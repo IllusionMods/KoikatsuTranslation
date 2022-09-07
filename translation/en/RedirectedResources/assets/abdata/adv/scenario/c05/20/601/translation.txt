@@ -1,8 +1,8 @@
-﻿「本当に、ホテルに来ちゃった……すごいね、この迫ってくるような空間……」=We really did, come to a hotel... amazing, this sultry atmosphere...
-「はは、そんなに緊張しなくてもいいんだよ」=Haha, you don't need to be that tense, you know?
-「そう言われても……むしろ、なんであなたはそんなにリラックスしてるの？」=Even if you say that... if anything, why are you so relaxed?
-「エスコートする側が慌てていたら格好悪いし、何より[H名]が安心できないでしょ？」=If I as the escort was panicking, I wouldn't exactly look cool, but more than anything else, it would make you worry as well, no?
-「わたしを思ってのこと、なんだね……」=You were thinking of me, huh...
-「まあ、そういうこと」=Well, more or less.
-「嬉しい……えっと、じゃあ……受信する準備はできてるから……」=I'm glad... erhm, then... I'm already ready to go, for our communication so...
-「[H名]……」=[H]...
+//「本当に、ホテルに来ちゃった……すごいね、この迫ってくるような空間……」=
+//「はは、そんなに緊張しなくてもいいんだよ」=
+//「そう言われても……むしろ、なんであなたはそんなにリラックスしてるの？」=
+//「エスコートする側が慌てていたら格好悪いし、何より[H名]が安心できないでしょ？」=
+//「わたしを思ってのこと、なんだね……」=
+//「まあ、そういうこと」=
+//「嬉しい……えっと、じゃあ……受信する準備はできてるから……」=
+「[H名]……」=[H名]...

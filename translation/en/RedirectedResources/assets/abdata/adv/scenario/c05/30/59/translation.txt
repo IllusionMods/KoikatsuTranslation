@@ -1,2 +1,3 @@
-﻿「今日は、あなたと一緒にいられて嬉しかった」=Spending time with you today, made me really happy.
-「また……今度もデートしてくれると、嬉しい。あなたといると、より近づける気がするから。それじゃばいばい」=I'd... love it, if you asked me out again soon. When I'm with you, I feel like I can get even closer to them. Bye bye then.
+
+//「今日は、あなたと一緒にいられて嬉しかった」=
+//「また……今度もデートしてくれると、嬉しい。あなたといると、より近づける気がするから。それじゃばいばい」=

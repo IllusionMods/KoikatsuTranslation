@@ -1,5 +1,5 @@
-﻿「こ、これって告白……？　あ、あの……えっと……！」=I-Is this a confession...? U-Uhm... erhm...!
-「うん。付き合って欲しいんだ……だめかな？」=Yeah. I want you to go out with me... no dice?
-「そんなことない！　つ、付き合う！　いいんだよね？　……ありがとう」=Not at all! I-I will! You don't mind, right? ...Thank you.
-「こっちこそ、そんなに喜んでくれて……緊張した甲斐があったよ」=I didn't know it'd make you that happy... it was worth it to push past my nervousness.
-「えへへ……“かれら”にも報告しなくちゃね……わたしは幸せだよって」=Ehehe... I gotta make a report to "them" too... that I'm happy, down here.
+//「こ、これって告白……？　あ、あの……えっと……！」=
+//「うん。付き合って欲しいんだ……だめかな？」=
+//「そんなことない！　つ、付き合う！　いいんだよね？　……ありがとう」=
+//「こっちこそ、そんなに喜んでくれて……緊張した甲斐があったよ」=
+//「えへへ……“かれら”にも報告しなくちゃね……わたしは幸せだよって」=
