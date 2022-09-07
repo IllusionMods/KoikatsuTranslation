@@ -27,7 +27,7 @@
 「あなたの理想を叶える準備はできてます……でも、できれば、あなたからしていただけると、嬉しいです」=“I'm ready to make whatever dreams you have come true... but, if possible, I'd appreciate it, if you could be the one to do it.”
 「うん……ん……」=“Sure... nnn...”
 「ん……んん……」=“Nn... nnn...”
-「…………」=“...”
+「…………」=“......”
 「……はぁ。素敵な時間ですね」=“...Haah. What a lovely evening.”
 「うん。幸せだよ」=“Yeah, I'm really happy right now.”
 「……もうしばらく、このまま夜景を見ていようね」=“...Let's stay here and enjoy the view a bit longer, okay?”

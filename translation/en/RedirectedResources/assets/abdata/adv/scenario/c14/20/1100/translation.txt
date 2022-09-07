@@ -1,4 +1,4 @@
-﻿「これより新婦が入場致します。後方の扉口をご覧ください」=And now, the bride will make her entrance. Please pay attention to the main door.
+「これより新婦が入場致します。後方の扉口をご覧ください」=And now, the bride will make her entrance. Please pay attention to the main door.
 （[H名]……）=([H名]...)
 入場した[H名]を見て、俺はまた彼女に恋をした。=Looking at her, making her way in, made me fall for her all over again.
 『ドレスは似合わないから……』と着るのを渋っていたけれど、本当によく似合っている。=She tried her best too, to get out of wearing that dress, "It won't look good on me...", and all. Well just look how good it looks on her.
@@ -25,7 +25,7 @@
 「そうだよね。せっかくの晴れ舞台だもんね」=Right. It's our big moment, afterall.
 「ま、でもお前が隣にいれば、ちょっとはマシに感じるよ」=But, well, you're right next to me so, it's not that bad.
 「最後に、愛の証としてキスをしていただきます」=Lastly, as the proof of your love, you may now kiss each other.
-「…………」=...
+「…………」=“......”
 「……ちょっと、言わせてもらってもいいか？」=...Mind if I say some stuff first?
 「うん。なに、[H名]」=Go ahead, what is it?
 「私は、強がってることも多いけどなあ……」=I always, try to put on a strong front...

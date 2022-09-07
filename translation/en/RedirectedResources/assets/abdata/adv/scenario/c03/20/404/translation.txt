@@ -29,6 +29,6 @@
 「はいっ、あーんっ！」=“Here--, aahn--!”
 「あはは、ちょっとだけ恥ずかしいけど……あーん……」=“Ahaha, it's a tad bit embarrassing, but... aaahn...”
 「あむっ、ん……本当だ、しつこくない」=“*bite*, nn... you're right, it's not heavy at all.”
-「…………」=“...”
+「…………」=“......”
 「[H名]？　どうしたの？」=“[H]? What's wrong?”
 「わぁぁ、すみませんっ！　あーんで食べてもらえたことに感動して、言葉をなくしていたですーっ！」=“Waah, I'm sorry--! I was so moved since I got to feed you, that I was at a loss for words--!”

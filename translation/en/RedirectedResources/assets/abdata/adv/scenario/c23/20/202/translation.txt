@@ -3,7 +3,7 @@
 「……えっと、行っちゃダメかい？」=“...Erhm, could we go?”
 「別にいいよ。行こうか」=“I don't really mind. Let's go.”
 「ありがとう！　ふっふっふ、腕がなるんだなぁ！」=“Thanks! Fuh fuh fuh, time for me to show off~!”
-………………=...
+………………=.........
 「おお、クレーンゲームがたくさん……景品は遊園地限定グッズですな」=“Oooh, so many crane machines... and the merch inside is park-brand limited edition stuff that they don't sell.”
 「何か目ぼしいものはあった？」=“Anything catch your eye?”
 「うーん、あのキーホルダーは造形に惹かれるものがある……まずは、アレを狙ってみるよ」=“Nnnn, that keychain's design is really nice... I'll try going for that, first.”

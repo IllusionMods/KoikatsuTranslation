@@ -35,7 +35,7 @@
 「それはもう、情熱で……」=“Of course! With unwavering belief and passion I'll...”
 「ふぁっ！！」=“Faaah!!”
 「ぐううぅぅぅ……」=“Grrrr...”
-「…………」=“...”
+「…………」=“......”
 「いやいや、擬音で真似してドヤ顔されても、はっきりお腹から聞こえてきたからね！」=“No no no, I heard that one coming clearly from your stomach, so don't try to hide it with your voice and make it looked like you fooled me!”
 「くぅぅ……情けない限りです……」=“Kuu... I'm ashamed of myself...”
 どうやらお腹が減っているのを我慢して勧誘していたらしい。=Seems like she was holding out on her hunger to continue recruiting.

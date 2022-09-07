@@ -1,4 +1,4 @@
-﻿「これより新婦が入場致します。後方の扉口をご覧ください」=And now, the bride will make her entrance. Please pay attention to the main door.
+「これより新婦が入場致します。後方の扉口をご覧ください」=And now, the bride will make her entrance. Please pay attention to the main door.
 （[H名]……）=([H名]...)
 扉口からゆっくりと入場してきた[H名]を見て、思わず感嘆の声が漏れる。=Looking at [H] slowly making her way through the entrance, I couldn't keep my admiration from bursting out of my mouth.
 いつも元気でにこやかに笑う[H名]に、純白のドレスはよく似合っていて――=On her, the always-sunny girl, the girl who never once let go of her smile, the wedding dress looked so good--
@@ -22,7 +22,7 @@
 「もちろん緊張してるよ。でも……嬉しさの方が大きいの」=I'm nervous too, of course. But... I'm even happier than I'm nervous.
 「はは、さっきからずっと笑顔だもんね。[H名]の笑顔を見てると、俺も嬉しくなるよ」=Haha, you have had that smile on your face this whole time. Seeing you smile makes me happy too.
 「最後に、愛の証としてキスをしていただきます」=Lastly, as the proof of your love, you may now kiss each other.
-「…………」=...
+「…………」=“......”
 「あのね……」=Hey, listen...
 「うん」=Yeah.
 「……この瞬間を迎えられて……私、もう言葉もないくらい幸せです……私と結婚してくれて……ありがとう」=...Getting to see this day with you... makes me so happy, I can't even put it into words... thank you... for marrying me.

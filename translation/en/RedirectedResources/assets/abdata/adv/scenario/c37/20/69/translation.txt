@@ -2,7 +2,7 @@
 「いえ、特にありません」=No, not in particular.
 「……困ってる科目は？」=...Any subjects you're stuck on?
 「特にありません」=None in particular.
-「……」=...
+「……」=“...”
 「あなたは確かここが苦手でしたよね？」=If I recall correctly, you were weak at this, weren't you?
 「あ、はい……ご指導、よろしくお願いします」=Ah, yes... Please guide me.
 「ふぅ、だいぶわかった気がするよ」=Fuu, I feel like I understand for the most part.

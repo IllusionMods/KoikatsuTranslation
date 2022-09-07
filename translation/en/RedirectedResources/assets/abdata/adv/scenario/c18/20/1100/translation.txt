@@ -1,4 +1,4 @@
-﻿「これより新婦が入場致します。後方の扉口をご覧ください」=And now, the bride will make her entrance. Please pay attention to the main door.
+「これより新婦が入場致します。後方の扉口をご覧ください」=And now, the bride will make her entrance. Please pay attention to the main door.
 （[H名]……）=([H名]...)
 普段不幸だと嘆く[H名]が、幸せの象徴ともいえる真っ白なウェディングドレスに身を包んでいる。=[H名], the girl that would lamenting her bad luck at anything and everything, is clad in something that could be said to be a symbol of happiness, a pure white wedding dress,
 ――俺と結婚するために。=----All in an effort to marry me.
@@ -22,7 +22,7 @@
 「そっか……ゆっくりで、大丈夫だからね」=I see... take your time, no need to rush.
 「はいっ……」=Okay--...
 「最後に、愛の証としてキスをしていただきます」=Lastly, as the proof of your love, you may now kiss each other.
-「…………」=.........
+「…………」=“......”
 「あの、ですね……」=Uhm, you see...
 「うん」=Yeah.
 「実は私、今も実感がないんです……」=Honestly, even now, I can't believe this...

@@ -1,7 +1,7 @@
 「[H名]の青空アドベンチャーは何度聞いても癒されるなぁ……あ、飲み物なくなってるね。俺、取って来るよ」=“No matter how many times I hear you sing Blue Sky Adventure, it's always so soothing~... ah, we're starting to run out of drinks. I'll go grab some.”
 「歌い終わりましたし、私が取ってきましょうか？」=“I already finished the song so, shall I go grab them instead?”
 「大丈夫、俺に任せて。ちょっと休憩にしようよ」=“It's alright, leave it to me. Just take a break for now.”
-………………=...
+………………=.........
 「ただいまー……ん？」=“I'm back... nn?”
 （[H名]が食い入るように画面を見てるぞ……？）=(She almost looks like she's going to devour that tablet whole...)
 「なに見てるの？　……ってあれ、また身長の高いアイドルと低いアイドルがユニットを組んだんだ。多いね、最近」=“What're you looking at? ...Huh, they put together another unit with a tall and short idol. There's been a lot of those recently, haven't they?”

@@ -4,7 +4,7 @@
 「うん、いいと思うぞ。味の種類が結構あるみたいだな。定番の塩に、キャラメルとか、カレーなんていうのもあるぞ」=“Yeah, I think that's fine. Seems like they've got all sorts of flavours. Regular salted, caramel and even curry flavoured, however that works.”
 「[H名]はどれにする？　俺は[H名]と違うのにするから、ちょっとずつ交換して、味比べしようよ」=“What are you gonna go with, [H]? I'll go with something different, so that we can try out both.”
 「おっ、それいいな。うーん、じゃあ、あたしはっと……」=“Oh--, that sounds nice. Nnnn, then, I guess I'll...”
-………………=...
+………………=.........
 「キャラメル味にしてみた。ほら、サービスでたくさんキャラメルかけてくれたぞ。んへへっ」=“I went with Caramel. Look, they heaped on so much extra just for me. Nnheheh--”
 「よかったね。俺はバニラ味にしたよ」=“Nice. I went with vanilla myself.”
 「おぉ、ナイスぅ！　それ、最後までどっちにしようか悩んでたんだよ」=“Oooh, nice! I was really split between that and this for the longest time.”
