@@ -1,3 +1,3 @@
 
-//「あ、起きた。おはよう！　シャワー借りてたからね」=
-//「何じろじろ見てんのよ。ぶっ飛ばすわよ！」=
+「あ、起きた。おはよう！　シャワー借りてたからね」=“Ah, you're up. Good morning! I borrowed your shower.”
+「何じろじろ見てんのよ。ぶっ飛ばすわよ！」=“What're you staring at me for? I'll clobber you!”

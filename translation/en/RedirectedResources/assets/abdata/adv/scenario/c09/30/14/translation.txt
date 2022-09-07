@@ -1,3 +1,3 @@
 
-//「おはよう、[P]。起きて起きてー」=
-//「もう、また寝ないでよ！　せっかくなんだから何か話をしましょうよ！」=
+「おはよう、[P]。起きて起きてー」=“Good morning, [P]. Wakey-wakey~”
+「もう、また寝ないでよ！　せっかくなんだから何か話をしましょうよ！」=“Jeez, don't go back to sleep! I stayed over so, let's chat atleast!”

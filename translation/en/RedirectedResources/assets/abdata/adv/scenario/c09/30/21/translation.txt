@@ -1,4 +1,4 @@
 
-//「あ、おはよう。今日の授業の課題、やってきた？」=
-//「おはよ～。課題？　ああ、すっかり忘れてた！」=
-//「そう、それはよかったわ！　あたしも忘れたから、先生に一緒に怒られましょ！」=
+「あ、おはよう。今日の授業の課題、やってきた？」=“Ah, good morning. Did you do the assignment due today?”
+「おはよ～。課題？　ああ、すっかり忘れてた！」=“Morning~. Assignment? Aah, I completely forgot!”
+「そう、それはよかったわ！　あたしも忘れたから、先生に一緒に怒られましょ！」=“I see, boy am I glad to hear that! I forgot about it too so, let's get scolded together!”

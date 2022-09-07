@@ -1,5 +1,5 @@
 
-//「よしっ！　これで俺の３連勝。約束通り今度パンを奢ってね」=
-//「くぅ～～、ハンデがあれば勝てると思ったのにぃ～！　……お願いします！　次の勝負であたしが勝ったらちゃらにして！ お小遣いがピンチなの！」=
-//「……はぁ、しょうがないな。それじゃあ、もう１勝負しようか」=
-//「ありがとう！　絶対に負かせてやるんだから！」=
+「よしっ！　これで俺の３連勝。約束通り今度パンを奢ってね」=“Alright--! That makes 3 wins for me. Guess lunch next time is on you then.”
+「くぅ～～、ハンデがあれば勝てると思ったのにぃ～！　……お願いします！　次の勝負であたしが勝ったらちゃらにして！ お小遣いがピンチなの！」=“Kuuh~~, and I thought I'd win for sure, especially after that handicap~! ...Please! If I win the next one, could we please call it even? I'm genuinely broke right now!”
+「……はぁ、しょうがないな。それじゃあ、もう１勝負しようか」=“...Haah, guess it can't be helped. Let's go for one more then.”
+「ありがとう！　絶対に負かせてやるんだから！」=“Thank you! I'm definitely gonna win this time!”

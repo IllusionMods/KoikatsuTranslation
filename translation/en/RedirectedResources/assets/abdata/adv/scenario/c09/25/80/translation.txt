@@ -1,4 +1,4 @@
-//「どう？　美味しいでしょう？」=
-//「うん、絶品だね。こんな欧風カレーを食べたのは初めてだよ」=
-//「そうでしょう？　あたしが勧めただけのことはあるでしょう？」=
-//「はは、そうだね。教えてくれてありがとう」=
+「どう？　美味しいでしょう？」=“How is it? Damn good, no?”
+「うん、絶品だね。こんな欧風カレーを食べたのは初めてだよ」=“Yeah, it's exquisite. It's my first time eating a western sort of curry.”
+「そうでしょう？　あたしが勧めただけのことはあるでしょう？」=“Right? Pretty good recommendation, if I do say so myself, no?”
+「はは、そうだね。教えてくれてありがとう」=“Haha, yeah. Thanks for telling me about it.”
