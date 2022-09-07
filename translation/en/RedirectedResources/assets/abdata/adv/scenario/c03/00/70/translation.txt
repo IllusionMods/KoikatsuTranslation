@@ -1,7 +1,7 @@
-﻿「せっかくあなたと一緒にお勉強できるですから、私、今日はやってやってやりまくるですよ！」=I finally get to study with you, so I'm going to study up a storm, a tempest, a whole whirlwind!
-「お、気合い入ってるね！　科目は何をやるの？」=Oh, someone's really into it! What subject are we doing today?
-「全科目いけるとこまでいくです！」=Every single one of them!
-「あ、あはは……それはちょっと無茶なんじゃ……もう少し計画的な方がよくない？」=A-Ahaha... I think that's gonna be a bit much... shouldn't we do it a bit more strategically?
-「大丈夫です！　いけるです！　あなたと一緒なのです！」=It's alright! It'll be fine! You're here with me, afterall!
-「うーん、そう言い切られると何だか出来る気もしてくるね。よーし、じゃ、俺も頑張ってみよっかな」=Nnn, when you put it like that, I feel like it'll be A-OK too. Alright, then, guess I'll go all out too.
-「はいです！　燃えてきたですよー！」=Yes! I'm burning up here!
+//「せっかくあなたと一緒にお勉強できるですから、私、今日はやってやってやりまくるですよ！」=
+//「お、気合い入ってるね！　科目は何をやるの？」=
+//「全科目いけるとこまでいくです！」=
+//「あ、あはは……それはちょっと無茶なんじゃ……もう少し計画的な方がよくない？」=
+//「大丈夫です！　いけるです！　あなたと一緒なのです！」=
+//「うーん、そう言い切られると何だか出来る気もしてくるね。よーし、じゃ、俺も頑張ってみよっかな」=
+//「はいです！　燃えてきたですよー！」=

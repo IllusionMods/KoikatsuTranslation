@@ -1,2 +1,2 @@
-﻿「はぅ……ごめんなさい……私、ちょっと大胆になってしまってたです……恥ずかしい……」=Hauu... I'm sorry... I became a bit bold there... so embarrassing...
-「ううん、すごく嬉しかったよ。[H名]、ありがとう」=No, it made me really happy. Thank you, [H].
+//「はぅ……ごめんなさい……私、ちょっと大胆になってしまってたです……恥ずかしい……」=
+//「ううん、すごく嬉しかったよ。[H名]、ありがとう」=

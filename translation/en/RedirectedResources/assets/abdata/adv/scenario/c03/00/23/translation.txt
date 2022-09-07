@@ -1,5 +1,5 @@
-﻿「これ、家庭科の調理実習で作ったお菓子ですけど……もし良かったらあなたに食べて欲しーです」=I made some sweets during cooking class, and uhm... if it's okay, I want you to eat them.
-「おお、すごく本格的！　ラッピングも良い感じだ」=Ooh, they look super professional! You even wrapped them so nicely and everything.
-「あはは、ありがとうです！　ささ、お味の方もぜひぜひです！」=Ahaha, thank you! Go on, please do try them!
-「うん、あむ……おお、美味しい！　すごい！　[H]さんってお菓子作るの上手なんだ！？」=Yeah, *bite*... oooh, this is great! Amazing! You know how to bake, [H]-san?!
-「えへへ、実は自信あるのです！　でも……はふぅ……食べてもらうまでドッキドキだったのですー！　安心したですよー」=Ehehe, I'm actually pretty confident in my abilities! But... *pant*... my heart was going a thousand miles an hour until you tried it! What a relief~
+//「これ、家庭科の調理実習で作ったお菓子ですけど……もし良かったらあなたに食べて欲しーです」=
+//「おお、すごく本格的！　ラッピングも良い感じだ」=
+//「あはは、ありがとうです！　ささ、お味の方もぜひぜひです！」=
+//「うん、あむ……おお、美味しい！　すごい！　[H]さんってお菓子作るの上手なんだ！？」=
+//「えへへ、実は自信あるのです！　でも……はふぅ……食べてもらうまでドッキドキだったのですー！　安心したですよー」=

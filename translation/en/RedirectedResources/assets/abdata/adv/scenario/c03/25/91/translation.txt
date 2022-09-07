@@ -1,3 +1,3 @@
-﻿「[Pあだ名]、おはようなのです！」=Morning, [Pあだ名]!
-「おはよう、[Hあだ名]」=Morning, [Hあだ名].
-「ふふーっ、愛称で呼び合うと、何だか朝から得したような気分になるですよ♪」=Fufuh~, it was already worth getting out of bed today, just because of that♪
+//「[Pあだ名]、おはようなのです！」=
+//「おはよう、[Hあだ名]」=
+//「ふふーっ、愛称で呼び合うと、何だか朝から得したような気分になるですよ♪」=

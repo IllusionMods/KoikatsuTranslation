@@ -1,7 +1,7 @@
-﻿「はぁぁ……結構疲れたね。[H]は大丈夫？」=Haah... that was tiring. You okay, [H]?
-「平気なのです。でも結構集中して運動したですね」=I'm fine. But, you were really focused there, weren't you?
-「うん、なんだか夢中になっちゃって……動いてる時の[H]が可愛くて、ずっと見ちゃってたんだ」=Yeah, I lost myself in it... you just looked so adorable, moving around like that, I just couldn't help but watch you.
-「はわっ……さ、さらっとすごいことを言われたですっ！　で、でもでも……私もあなたのお顔……ずっと見てたですよ」=Hawah--... a-a bombshell like that out of nowhere--! B-But but... I was watching your face... the whole time too.
-「汗をかいてるあなた……すごく……格好良かったです……」=You looked... so cool... sweating up a storm like that...
-「あ、あはは、ありがとう。何だか……照れるね」=A-Ahaha, thanks. Man... I'm blushing now.
-「わ、私の方が照れてるですよー！」=I-I'm blushing more than you, pretty sure!
+//「はぁぁ……結構疲れたね。[H]は大丈夫？」=
+//「平気なのです。でも結構集中して運動したですね」=
+//「うん、なんだか夢中になっちゃって……動いてる時の[H]が可愛くて、ずっと見ちゃってたんだ」=
+//「はわっ……さ、さらっとすごいことを言われたですっ！　で、でもでも……私もあなたのお顔……ずっと見てたですよ」=
+//「汗をかいてるあなた……すごく……格好良かったです……」=
+//「あ、あはは、ありがとう。何だか……照れるね」=
+//「わ、私の方が照れてるですよー！」=

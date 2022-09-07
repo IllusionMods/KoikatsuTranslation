@@ -1,3 +1,3 @@
-﻿「ありがとですっ！　すっごく幸せなのですーっ！」=Thank you--! I'm super happy--!
-「あはは、受け入れてもらえて良かった！」=Ahaha, great, I'm glad you don't mind!
-「受け入れるに決まってるですよー！　だって……あなたのこと、もっともっと知りたいですもん！」=Of course I don't mind! Afterall... I want to, know you more, lots more!
+//「ありがとですっ！　すっごく幸せなのですーっ！」=
+//「あはは、受け入れてもらえて良かった！」=
+//「受け入れるに決まってるですよー！　だって……あなたのこと、もっともっと知りたいですもん！」=

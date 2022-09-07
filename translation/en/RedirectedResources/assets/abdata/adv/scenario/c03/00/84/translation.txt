@@ -1,7 +1,7 @@
-﻿「それでは早速コイカツをやるです！」=Well then, let's start with the love activity right away!
-「あっ、ちょっと待って！　その前に内容を説明しないと……」=Ah--, wait a sec! Atleast let me explain to you what the deal here is...
-「おお、そうでした！　私、どんなことをやるのか全く無知でした！　で、どのようなことをするですか？」=Ooh, right! I don't know what we're even gonna do at all! So, what're we gonna do?
-「そうだね、恋人ゴッコっぽいことなんだけど……例えばこう……手を繋いだりとか……」=Right, so, it's basically all about playing at being a couple... for example... holding hands and whatnot...
-「はぅっ……こ、こんな感じ……ですか？」=Hauuu... l-like... like this?
-「そうそう、恋人っぽく……ぎゅっと繋いでみて？」=Exactly, as if we're dating... try giving it a squeeze?
-「ぎゅ……ぎゅうっ……はわ、は、恥ずかしくて変な汗かいちゃいそうです……これ、どんな部活よりも難しいですよー！」=*Sque... *Squeeze*... hawah, i-it's so embarrassing I feel like my hand's gonna start sweating... this is the hardest club activity I've ever done!
+//「それでは早速コイカツをやるです！」=
+//「あっ、ちょっと待って！　その前に内容を説明しないと……」=
+//「おお、そうでした！　私、どんなことをやるのか全く無知でした！　で、どのようなことをするですか？」=
+//「そうだね、恋人ゴッコっぽいことなんだけど……例えばこう……手を繋いだりとか……」=
+//「はぅっ……こ、こんな感じ……ですか？」=
+//「そうそう、恋人っぽく……ぎゅっと繋いでみて？」=
+//「ぎゅ……ぎゅうっ……はわ、は、恥ずかしくて変な汗かいちゃいそうです……これ、どんな部活よりも難しいですよー！」=
