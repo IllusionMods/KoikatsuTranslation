@@ -1,4 +1,4 @@
-//「ここは……物置き部屋のようですね。ほっ、安心しました」=
-//「開かずの間と呼ばれ、妙な噂があったので少し怖かったのですが……杞憂だったようです」=
-//「……どうされました？　体調が優れないようでしたら、保健室にー―」=
-//「キャッ……！　だ、誰かいるのですか！？」=
+「ここは……物置き部屋のようですね。ほっ、安心しました」=“This is... a storage room, from the looks of it. Hoh--, what a relief.”
+「開かずの間と呼ばれ、妙な噂があったので少し怖かったのですが……杞憂だったようです」=“I was a bit scared, what with a rumour going around that we really mustn't go into this room, no matter what... seems like it was groundless.”
+「……どうされました？　体調が優れないようでしたら、保健室にー―」=“...What's the matter? If you feel unwell, perhaps you should go to the inf--”
+「キャッ……！　だ、誰かいるのですか！？」=“Kyah--...! I-Is there someone there?!”

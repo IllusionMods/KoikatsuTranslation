@@ -1,4 +1,4 @@
 
-//「いつもは一人で帰ってるの？」=
-//「そうですね。一人が多いかもしれません。たまにお友達と一緒ですが」=
-//「なので、あなたとこうして下校しているのがとても新鮮なんです」=
+「いつもは一人で帰ってるの？」=“Do you always walk home by yourself?”
+「そうですね。一人が多いかもしれません。たまにお友達と一緒ですが」=“Hmm. I think I often do, yes. Sometimes I go with friends though.”
+「なので、あなたとこうして下校しているのがとても新鮮なんです」=“That's why, walking home together with you like this is a really fresh experience for me.”

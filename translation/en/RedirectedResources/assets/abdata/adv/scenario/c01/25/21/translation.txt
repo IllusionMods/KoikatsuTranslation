@@ -1,3 +1,3 @@
-//「あら、おはようございます。少しでも早くあなたの顔を見られて嬉しいです」=
-//「おはよ。その“少し”が大切だよね」=
-//「そう思います。こうやって、教室まで一緒に歩いていけるんですから」=
+「あら、おはようございます。少しでも早くあなたの顔を見られて嬉しいです」=“Oh, good morning. Getting to see your face even a little bit quicker makes me happy.”
+「おはよ。その“少し”が大切だよね」=“Good morning. That "little bit" is what makes the difference, isn't it?”
+「そう思います。こうやって、教室まで一緒に歩いていけるんですから」=“I feel so, yes. Afterall, it lets us walk to class together like this.”

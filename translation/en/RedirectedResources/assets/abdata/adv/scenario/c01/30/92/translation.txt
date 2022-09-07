@@ -1,2 +1,2 @@
 
-//「その、お願いを聞いていただいて嬉しかったです」=
+「その、お願いを聞いていただいて嬉しかったです」=“Uhm, it made me really happy, that you listened.”

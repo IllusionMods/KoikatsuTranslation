@@ -1,3 +1,3 @@
-//「美味しいご飯を食べると、幸せになれます」=
-//「わかるよ。嫌なことがあっても忘れちゃうくらいだよね」=
-//「ええ。ご飯は偉大です」=
+「美味しいご飯を食べると、幸せになれます」=“Eating good food, makes me happy.”
+「わかるよ。嫌なことがあっても忘れちゃうくらいだよね」=“I feel you. It just washes away all the badness, doesn't it?”
+「ええ。ご飯は偉大です」=“Yes. It makes life worth living.”

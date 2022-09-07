@@ -1,6 +1,6 @@
 
-//「へえ、色々あるんだね」=
-//「あっ……あのお店が気になります。行ってみませんか？」=
-//「うん、いいよ」=
-//「ふふっ。様々なアクセサリーが置いていましたね。見ているだけでも楽しかったです」=
-//（よかった、喜んでもらえたみたいだ）=
+「へえ、色々あるんだね」=“Hoh, there's all sorts, huh?”
+「あっ……あのお店が気になります。行ってみませんか？」=“Ah--... I'm really curious about that one. Could we try going in?”
+「うん、いいよ」=“Yeah, sure.”
+「ふふっ。様々なアクセサリーが置いていましたね。見ているだけでも楽しかったです」=“Fufu--, they had all sorts of accessories, didn't they? It was fun just looking at them.”
+（よかった、喜んでもらえたみたいだ）=(Great, looks like she enjoyed it.)
