@@ -1,8 +1,8 @@
-//「ま、まさか汝からで、デートに誘ってくれるとはな！」=
-//「どこか行きたいところはある？」=
-//「わ、我はどこでも付いていくぞ！」=
-//「そう？　じゃあ、あそこに行こうかな……」=
-//「クククッ、汝とこうして歩くのもいいな」=
-//「満足して頂いているでしょうか？」=
-//「うむ、悪魔の我もホッコリ笑顔なり！」=
-//「今日は、本当に、ありがとう……またデートしようね」=
+「ま、まさか汝からで、デートに誘ってくれるとはな！」=“T-To think thou wouldst go out of thine way to ask me out on a date!”
+「どこか行きたいところはある？」=“Got any place you wanna go to?”
+「わ、我はどこでも付いていくぞ！」=“I-I do not mind just following thy lead!”
+「そう？　じゃあ、あそこに行こうかな……」=“That so? Then, let's go there...”
+「クククッ、汝とこうして歩くのもいいな」=“Kukukuh--, walking together with thee like this is nice as well.”
+「満足して頂いているでしょうか？」=“Art thou satisfied?”
+「うむ、悪魔の我もホッコリ笑顔なり！」=“Umu, it brings a smile to the face of even a demon such as me!”
+「今日は、本当に、ありがとう……またデートしようね」=“Really, thank you, for today... let's go out on a date again, okay?”

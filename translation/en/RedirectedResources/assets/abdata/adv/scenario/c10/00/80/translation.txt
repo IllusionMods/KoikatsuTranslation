@@ -1,4 +1,4 @@
-//「んっ？　このおかずが欲しいのか？」=
-//「えっ？　いいの！　ラッキー」」=
-//「ふむ、アーンするのだ」=
-//「て、照れるな、はは」=
+「んっ？　このおかずが欲しいのか？」=“Nn--? Thou wantst this side?”
+「えっ？　いいの！　ラッキー」」=Eh--? You sure? Damn, I'm lucky.
+「ふむ、アーンするのだ」=“Fumuh, open wide.”
+「て、照れるな、はは」=“M-Man, this is embarrassing, hahah.”

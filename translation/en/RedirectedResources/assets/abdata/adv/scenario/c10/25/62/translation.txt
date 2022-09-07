@@ -1,11 +1,11 @@
-………………=.........
-…………=......
+………………=...
+…………=...
 ……=...
-「……どうやら、別れの時がきてしまったようだ」=“...It seems like the time to part ways has come.”
-「せっかくだから俺の家にこない？」=“We've been this far already. Won't you come to my house?”
-「わ、我を汝の居城に招待してくれるのか！　う、うれしい……」=“Y-you're inviting me to visit your domain! I'm so glad...”
-「寂しいほど……次、会うのが楽しみになるよ」=“I'm so lonely... I'm looking forward to seeing you again.”
-「ふむ……それはあるかもしれない。では、またな」=“Fumu... There may come another time. Well, see you later.”
+「……どうやら、別れの時がきてしまったようだ」=“...Seems our time together must end.”
+「せっかくだから俺の家にこない？」=“Well, wanna come to my place? I mean, we're already out.”
+「わ、我を汝の居城に招待してくれるのか！　う、うれしい……」=“T-Thou art inviting me to thine abode?! I-I'm so happy...”
+「寂しいほど……次、会うのが楽しみになるよ」=“The sadder the parting... the happier our eventual reunion will be.”
+「ふむ……それはあるかもしれない。では、またな」=“Fumuh... that may very well be true. Well then, fare thee well.”
 
-CHOICE:「せっかくだから俺の家にこない？」=“We've been this far already. Won't you come to my house?”
-CHOICE:「寂しいほど……次、会うのが楽しみになるよ」=“I'm so lonely... I'm looking forward to seeing you again.”
+CHOICE:「せっかくだから俺の家にこない？」=Well, wanna come to my place? I mean, we're already out.
+CHOICE:「寂しいほど……次、会うのが楽しみになるよ」=The sadder the parting... the happier our eventual reunion will be.

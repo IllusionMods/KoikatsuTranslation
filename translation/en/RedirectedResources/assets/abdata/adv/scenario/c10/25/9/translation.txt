@@ -1,3 +1,3 @@
-//「うむ、よかろう……人間界の散策か……久しいな、クククッ」=
-//「デートなんだけど、まあ、いいか」=
-//「さぁ、さっそく混沌をこの世に広めにゆくぞ！」=
+「うむ、よかろう……人間界の散策か……久しいな、クククッ」=“Umu, very well... a walk around the human realm... it has been a while, kukukuh--”
+「デートなんだけど、まあ、いいか」=“It's not a walk but a date. Well, I guess that doesn't really matter.”
+「さぁ、さっそく混沌をこの世に広めにゆくぞ！」=“Come now, we shall spread chaos through this realm!”
