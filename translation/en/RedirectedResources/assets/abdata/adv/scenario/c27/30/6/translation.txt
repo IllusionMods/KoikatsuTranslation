@@ -1,3 +1,4 @@
-﻿「先生に呼び出しでもくらったの？　私が付いて行っても役に立たないと思うけど」=Did the teachers lump something onto you? Even if you take me along, I don't think I'll be of all that much help.
-「違うよ……！　この学園広いから、色々見て回ろうと思って」=That's not it...! This school's pretty big so, I thought you could help me check it out a bit.
-「ああ、そういうこと……。何かちょっと楽しそうだし……行ってみてもいいかも」=Aah, so that's it... That sounds kinda fun... I don't really mind.
+
+//「先生に呼び出しでもくらったの？　私が付いて行っても役に立たないと思うけど」=
+//「違うよ……！　この学園広いから、色々見て回ろうと思って」=
+//「ああ、そういうこと……。何かちょっと楽しそうだし……行ってみてもいいかも」=

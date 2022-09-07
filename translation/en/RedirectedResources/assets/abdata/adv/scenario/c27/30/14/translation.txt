@@ -1,2 +1,3 @@
-﻿「あ……おはよ。まだ寝てても良かったのに」=Ah... morning. You could have slept for a bit longer, you know?
-「もう、顔に落書きなんてしないわよ！　……寝顔、もっと見てたかっただけ」=Jeez, I'm not gonna scribble on your face and stuff! ...I just wanted to look at your sleeping face more.
+
+//「あ……おはよ。まだ寝てても良かったのに」=
+//「もう、顔に落書きなんてしないわよ！　……寝顔、もっと見てたかっただけ」=

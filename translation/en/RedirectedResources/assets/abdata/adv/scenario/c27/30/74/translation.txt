@@ -1,4 +1,5 @@
-﻿「もう、もっと激しくボールぶつけてきてもいいのに」=Jeez, you can hit it harder, you know? I'll be fine.
-（まさかホントにドッジボールすることになるとは……）=(I really didn't think we'd actually go with dodgeball...)
-「私は本気でいかせてもらうからね。そして……あんたに勝つ！」=I'm gonna be going serious, atleast, and am... gonna win!
-（ま、楽しそうだからいいか）=(Well, she's having fun so who cares.)
+
+//「もう、もっと激しくボールぶつけてきてもいいのに」=
+//（まさかホントにドッジボールすることになるとは……）=
+//「私は本気でいかせてもらうからね。そして……あんたに勝つ！」=
+//（ま、楽しそうだからいいか）=

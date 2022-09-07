@@ -1,5 +1,6 @@
-﻿「ふぇっ！？　ここここの私に、好きとか……っ！　あんた、正気！？」=Fueh--!? S-S-S-Saying "I love you", to a girl like me...--! Are you sane!?
-「俺の本気、伝わらないかな」=Maybe I don't sound serious enough.
-「そんな真っ直ぐ見つめないで……あぅ……わかったからぁ……」=Don't stare at me so directly... auu... I got it, I got it so...
-「俺と付き合ってくれる？」=Will you go out with me?
-「うぅ……あい……こちらこそ……よろしくお願いします……」=Uu... yes... please do... take care of me...
+
+//「ふぇっ！？　ここここの私に、好きとか……っ！　あんた、正気！？」=
+//「俺の本気、伝わらないかな」=
+//「そんな真っ直ぐ見つめないで……あぅ……わかったからぁ……」=
+//「俺と付き合ってくれる？」=
+//「うぅ……あい……こちらこそ……よろしくお願いします……」=

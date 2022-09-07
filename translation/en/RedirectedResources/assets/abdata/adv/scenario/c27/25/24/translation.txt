@@ -1,2 +1,2 @@
-﻿「家庭科の授業でお弁当を作ったの。我ながら会心の出来だから、あんたも食べてみて」=I made lunch during home-ec. It came out pretty well, if I do say so myself, try it yourself too.
-「先生がね、料理は好きな人のことを思って作ると美味しくなるって言ってたから……」=You see, the teacher said that if you cook while thinking of the person you love the most, it'll come out better and stuff...
+//「家庭科の授業でお弁当を作ったの。我ながら会心の出来だから、あんたも食べてみて」=
+//「先生がね、料理は好きな人のことを思って作ると美味しくなるって言ってたから……」=

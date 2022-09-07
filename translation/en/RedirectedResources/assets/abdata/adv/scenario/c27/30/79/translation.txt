@@ -1,3 +1,4 @@
-﻿「あれ……箸が進んでないみたいだけど、もしかしてお腹空いてない？」=Huh... you're not eating very much, are you not that hungry today?
-「ううん……別にっ……食べてるところ人に見られるの、あんまり慣れてないだけ……」=No... it's not that--... it's just, I'm not used to being watched while I eat so...
-「で、でも……我慢できないから、食べるっ！」=B-But... I really can't hold it in, so I'mma eat--!
+
+//「あれ……箸が進んでないみたいだけど、もしかしてお腹空いてない？」=
+//「ううん……別にっ……食べてるところ人に見られるの、あんまり慣れてないだけ……」=
+//「で、でも……我慢できないから、食べるっ！」=

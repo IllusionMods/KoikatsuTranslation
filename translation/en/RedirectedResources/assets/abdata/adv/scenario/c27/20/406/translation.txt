@@ -1,7 +1,7 @@
-﻿「んー……ん、おっと、もうこんな時間か。のんびり話しこんじゃったね」=Nnn... nn, oh, it's already this late, huh? We really got into our chat there, huh?
-「そうね。今日は贅沢な時間の使い方をした気がするわ」=We did. Feel like we spent our time truly luxuriously today.
-「どうする？　もう少しゆっくりする？」=What do you wanna do? Wanna take it easy here for a bit longer?
-「ううん。長居しすぎたし、そろそろ出ましょ」=No. We've overstayed our welcome, let's head out.
-「了解。じゃあ会計してくるよ」=Roger. I'll go settle the bill then.
-「あっ……えっと、ありがと」=Ah--... erhm, thanks.
-「いえいえ」=My pleasure.
+//「んー……ん、おっと、もうこんな時間か。のんびり話しこんじゃったね」=
+//「そうね。今日は贅沢な時間の使い方をした気がするわ」=
+//「どうする？　もう少しゆっくりする？」=
+//「ううん。長居しすぎたし、そろそろ出ましょ」=
+//「了解。じゃあ会計してくるよ」=
+//「あっ……えっと、ありがと」=
+//「いえいえ」=

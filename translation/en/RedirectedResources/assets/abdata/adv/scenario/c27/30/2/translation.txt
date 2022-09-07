@@ -1,8 +1,9 @@
-﻿「あんたとしゃべってると、なんだか時間が経つのが早く感じるわ」=Whenever we get to talking, I feel like time starts passing way faster.
-「楽しいからそう感じるんだろうね」=Probably because it's fun, I bet.
-「たっ、楽しい……！？　もしかしてだけど……あんたもそう感じてたりする……？」=F-Fun...!? You... feel that way too...?
-「うん、楽しいよ」=Yeah, it's fun.
-「……！　あのさ……変なこと言ってるかもしれないけど……これって、友達になれたってことなのかな」=...! Hey, listen... I might be just saying weird stuff here but... does this mean we've become friends?
-「えっ、俺たちもう友達でしょ」=Eh--, I thought we already were friends.
-「あっ、う、うん！　そうよね……友達……ふふっ……友達かぁ……。時間取らせて悪かったわね。じゃっ」=Ah--, y-yeah! Of course... friends... fufu--... friends, huh... Anyways, sorry for taking up your time with this stuff. See ya--
-（嬉しそうだな……）=(She sure looks happy...)
+
+//「あんたとしゃべってると、なんだか時間が経つのが早く感じるわ」=
+//「楽しいからそう感じるんだろうね」=
+//「たっ、楽しい……！？　もしかしてだけど……あんたもそう感じてたりする……？」=
+//「うん、楽しいよ」=
+//「……！　あのさ……変なこと言ってるかもしれないけど……これって、友達になれたってことなのかな」=
+//「えっ、俺たちもう友達でしょ」=
+//「あっ、う、うん！　そうよね……友達……ふふっ……友達かぁ……。時間取らせて悪かったわね。じゃっ」=
+//（嬉しそうだな……）=

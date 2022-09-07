@@ -1,6 +1,7 @@
-﻿「ねぇ君、今ちょっといい？」=Hey, got a moment?
-「あっ、男子……！　えっと、誰か……ちょっと……誰かいないの」=Ah--, a boy...! Erhm, is there... erhm... is there nobody else here?
-「あの～……俺、君に話しかけてるんだけど」=Uhm~... I'm talking to you, not anyone else, though.
-「わ、私！？　ちょっと待って！　……すぅ～……はぁ～……よし」=M-Me!? Hang on a sec! ...*inhale*~... *exhale*~... alright.
-「……な、何？　私に聞きたいことでもあるの？」=...W-What? Is there something you want to ask me?
-（だいぶ警戒されてるみたいだな……。まずは何を話そうか？）=(She sure has her guard up... Well, I guess let's start with something?)
+
+//「ねぇ君、今ちょっといい？」=
+//「あっ、男子……！　えっと、誰か……ちょっと……誰かいないの」=
+//「あの～……俺、君に話しかけてるんだけど」=
+//「わ、私！？　ちょっと待って！　……すぅ～……はぁ～……よし」=
+//「……な、何？　私に聞きたいことでもあるの？」=
+//（だいぶ警戒されてるみたいだな……。まずは何を話そうか？）=
