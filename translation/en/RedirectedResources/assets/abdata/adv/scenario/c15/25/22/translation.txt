@@ -1,2 +1,2 @@
-﻿「やーやー、キミにプリンをあげよー！　これ、授業で作ってみたんだ」=Hey, here's some pudding for you! I made it in class.
-「ってゆーか、キミの好みとかもっと教えてほしいぞ」=Heck, you ought to tell me more about what sort of stuff you like eating.
+「やーやー、キミにプリンをあげよー！　これ、授業で作ってみたんだ」=“Hey, here's some pudding for you! I made it in class.”
+「ってゆーか、キミの好みとかもっと教えてほしいぞ」=“Heck, you ought to tell me more about what sort of stuff you like eating.”
