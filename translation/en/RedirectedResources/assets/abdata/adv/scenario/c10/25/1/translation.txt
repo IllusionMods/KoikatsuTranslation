@@ -1,5 +1,5 @@
-﻿「ねえ……今、話して大丈夫？」=Hey... could we chat for a bit?
-「な、何ゆえ？？？　さては我の正体を……」=F-For what reason??? I suppose thou have searched out my true identity...
-「正体？ それって一体……」=Your true identity? Just what are you...
-「少ししゃべりたいなと思っただけだよ」=I just wanted to chat with you for a bit, that's all.
-「は、はい。私……じゃなくて、我でよければ！」=O-Oh. If you'll... I mean, if thou shalt have me as thy sparring partner!
+//「ねえ……今、話して大丈夫？」=
+//「な、何ゆえ？？？　さては我の正体を……」=
+//「正体？ それって一体……」=
+//「少ししゃべりたいなと思っただけだよ」=
+//「は、はい。私……じゃなくて、我でよければ！」=

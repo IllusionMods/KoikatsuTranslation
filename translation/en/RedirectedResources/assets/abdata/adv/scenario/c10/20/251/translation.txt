@@ -1,3 +1,3 @@
-﻿（……ふぅ、もうすぐ駅か。今日のデートも良い思い出が作れたな）=(...Fuuh, almost at the station. We sure made some good memories today)
-（最後の観覧車では、すごく甘酸っぱい時間を過ごせたし、デートは大成功だ！）=(That ferris wheel ride at the end, was so sweet too, the day was a complete success!)
-（この次も、絶対[H名]を楽しませるデートにしよう！）=(Let's make the next one enjoyable too, for her!)
+//（……ふぅ、もうすぐ駅か。今日のデートも良い思い出が作れたな）=
+//（最後の観覧車では、すごく甘酸っぱい時間を過ごせたし、デートは大成功だ！）=
+//（この次も、絶対[H名]を楽しませるデートにしよう！）=

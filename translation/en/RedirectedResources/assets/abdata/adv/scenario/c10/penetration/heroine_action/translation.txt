@@ -1,4 +1,4 @@
-﻿「えっと……混ざりたいの？　[H名]はどうしたい？」=Erhm... you wanna join us? What do you wanna do, [H]?
-「え？　そ、それは、３人で交わるということか……？　ま、まぁ、我は構わぬが……」=Eh? T-That's, is this going to be a threesome then...? W-Well, I do not mind...
-「えっと……混ざりたいの？　……どうする？」=Erhm... you wanna join us? ...What do you say?
-「ほう、我らを相手に臆さぬとは……良かろう、貴様を我らの贄として認めてやろうぞ！」=Hoh, to dare to parley with us... very well, we shall accept thee as our sacrifice!
+//「えっと……混ざりたいの？　[H名]はどうしたい？」=
+//「え？　そ、それは、３人で交わるということか……？　ま、まぁ、我は構わぬが……」=
+「えっと……混ざりたいの？　……どうする？」=Erhm... You wanna join us? What do you wanna do?
+//「ほう、我らを相手に臆さぬとは……良かろう、貴様を我らの贄として認めてやろうぞ！」=

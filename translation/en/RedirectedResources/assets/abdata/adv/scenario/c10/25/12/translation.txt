@@ -1,5 +1,5 @@
-﻿「ふ、ふぁぁっ！　い、いよいよ悪魔の契約の時か……」=Fuh, fuaaah--! I-It is finally that time, for our contract to be fulfilled...
-「うん、今からするよ」=Yeah, we're gonna do it right now.
-「[P]だけだぞ……我がこの先、契約を結ぶのは……」=Thou art the only one, [P]... the only one, I will ever forge a contract with...
-「大切にするよ」=I'll treasure the right.
-「う、うむ。わ、我の方こそよろしく……お願いします」=U-Umu. P-Please... take care of me.
+//「ふ、ふぁぁっ！　い、いよいよ悪魔の契約の時か……」=
+//「うん、今からするよ」=
+//「[P]だけだぞ……我がこの先、契約を結ぶのは……」=
+//「大切にするよ」=
+//「う、うむ。わ、我の方こそよろしく……お願いします」=

@@ -1,3 +1,3 @@
-﻿「良い朝だな……[Pあだ名]」=What a good morning it is... [Pあだ名].
-（……やっぱりいいな、愛称）=(...Nicknames really were a good idea.)
-「こ、こら！　なんか言ってくれぇ……！」=H-Hey! Say something...!
+//「良い朝だな……[Pあだ名]」=
+//（……やっぱりいいな、愛称）=
+//「こ、こら！　なんか言ってくれぇ……！」=
