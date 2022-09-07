@@ -1,4 +1,4 @@
-「……[P]、手」="...[P], give me your hand."
-「えっ？　あ、うん！　手、繋ごうか」="Huh? Oh, right! Here, let's hold hands."
-「……うん。[P]の手、暖かい……」="...[P], your hands are so warm..."
-「じゃあ、しばらくこのまま繋いでいようか」="Should we stay like this for a bit?"
+「……[P]、手」=“...[P], hand.”
+「えっ？　あ、うん！　手、繋ごうか」=“Eh--? Ah, sure! Let's hold hands.”
+「……うん。[P]の手、暖かい……」=“...Yeah. Your hand, is so warm...”
+「じゃあ、しばらくこのまま繋いでいようか」=“Guess we can hold hands for the rest of the way then.”

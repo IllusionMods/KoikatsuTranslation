@@ -1,5 +1,5 @@
-「ねえ……床ドンって、何？」="Hey... what's a 'floor don?'"
-「えっと、床ドンっていうのは……こんな感じの～」="Well, here's how you do it... Like this~"
-「……面白そう。やろう」="...Seems interesting. Let's do it."
-「……どう？　ドキッとした」="...How? It's kind of freaky."
-「う、うん。俺が受けなんだってことに、少々……」="Y-yeah, sort of. Just a tiny bit, though..."
+「ねえ……床ドンって、何？」=“Hey... what's "yukadon"?”
+「えっと、床ドンっていうのは……こんな感じの～」=“Erhm, it's basically... this~”
+「……面白そう。やろう」=“...Looks interesting. Let's do it.”
+「……どう？　ドキッとした」=“...How was it? My heart throbbed.”
+「う、うん。俺が受けなんだってことに、少々……」=“Y-Yeah. The fact that I was the one on the receiving end, was certainly...”

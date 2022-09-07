@@ -1,5 +1,5 @@
-//「あっ、[H姓]さん。よかったら一緒に話でもどうかな？」=
-「……私と？　何故？」="...With me? Why?"
-//「[H姓]さんとあまり話したことなかったし、これを機にどうかなって」=
-「……そう。別に少しくらいなら、構わないけど」="...Sure, I don't mind. A change of pace is always nice."
-「ありがとう、それじゃ……」="Thank you..."
+「あっ、[H姓]さん。よかったら一緒に話でもどうかな？」=“Ah--, [H姓]-san. How about a chat together?”
+「……私と？　何故？」=“...With me? Why?”
+「[H姓]さんとあまり話したことなかったし、これを機にどうかなって」=“We've never really talked so, thought I'd take this chance, and all.”
+「……そう。別に少しくらいなら、構わないけど」=“...I see. If it's just for a bit, I don't mind, I guess.”
+「ありがとう、それじゃ……」=“Thanks, well then...”
