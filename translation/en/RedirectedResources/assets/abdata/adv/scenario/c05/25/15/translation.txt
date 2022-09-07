@@ -1,2 +1,2 @@
-//「シャワー、借りたよ♪　[P]くんも浴びる？」=
-//「そ、そんなに見られると、恥ずかしい……」=
+「シャワー、借りたよ♪　[P]くんも浴びる？」=“I borrowed your shower♪ Wanna take one too?”
+「そ、そんなに見られると、恥ずかしい……」=“I-It's embarrassing, when you stare so much...”

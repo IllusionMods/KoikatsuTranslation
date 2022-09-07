@@ -1,4 +1,4 @@
 
-//「おはよう♪　……えへへ」=
-//「おはよう、[H]。なんだか嬉しそうだね」=
-//「[P]くんとこうして並んでると、出会うのは運命だったって思えるの」=
+「おはよう♪　……えへへ」=“Morning♪ ...Ehehe.”
+「おはよう、[H]。なんだか嬉しそうだね」=“Morning, [H]. You seem happy today.”
+「[P]くんとこうして並んでると、出会うのは運命だったって思えるの」=“When I walk side by side with you like this, it really makes me feel that our meeting was destiny.”

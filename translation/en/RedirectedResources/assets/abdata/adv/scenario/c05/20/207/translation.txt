@@ -1,7 +1,7 @@
-//「暗くなってきたね……そろそろ帰ろうか」=
-//「もう、この遊園地ともお別れなんだね……」=
-//「楽しめば楽しむほど、離れるのが名残惜しくなるよね」=
-//「うん……でも、寂しいだけじゃないよ」=
-//「次はどんなことができるかな、って楽しみにできるから」=
-//「はは、それは効果のありそうな対処法だね」=
-//「なら、次回の予定も立てながら帰ろうか」=
+「暗くなってきたね……そろそろ帰ろうか」=“Started getting dark, hasn't it... let's go home, shall we?”
+「もう、この遊園地ともお別れなんだね……」=“It's already goodbye to this amusement park, huh...”
+「楽しめば楽しむほど、離れるのが名残惜しくなるよね」=“The more fun it is, the sadder it feels to leave, doesn't it?”
+「うん……でも、寂しいだけじゃないよ」=“Yeah... but, it's not just all sadness.”
+「次はどんなことができるかな、って楽しみにできるから」=“Because it's also exciting, to think about what else we could do next time here.”
+「はは、それは効果のありそうな対処法だね」=“Haha, that sounds like quite the effective train of thought indeed.”
+「なら、次回の予定も立てながら帰ろうか」=“In that case, let's plan out our next visit while we walk back.”

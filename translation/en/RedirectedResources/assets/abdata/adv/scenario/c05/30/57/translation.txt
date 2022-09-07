@@ -1,10 +1,10 @@
 
-//「男の子とデートなんて初めて」=
-//「緊張する？」=
-//「……うん。他の人と違って、あなたが近くにいると、意識しちゃう」=
-//「そう言われると、こっちまで緊張してきた。とにかく、行こうか」=
-//「ねぇ、なんだかいつもより、距離が近すぎるような……」=
-//「初めてのことがいっぱいで、嬉しくって」=
-//「もっと引っ付いていい？　そっちの方があなたを感じられる」=
-//（けっこう積極的なのかな？　おかげで、こっちはすごく緊張するよ）=
-//「今日はありがとう。この調子なら……じゃあ、またね」=
+「男の子とデートなんて初めて」=“It's my first time going on a date with a guy.”
+「緊張する？」=“Nervous?”
+「……うん。他の人と違って、あなたが近くにいると、意識しちゃう」=“...Yeah. Unlike other people, when I'm close to you, I find myself being conscious.”
+「そう言われると、こっちまで緊張してきた。とにかく、行こうか」=“Now I'm getting nervous. Anyways, let's go.”
+「ねぇ、なんだかいつもより、距離が近すぎるような……」=“Hey, I feel like we're way too much closer, than usual right now...”
+「初めてのことがいっぱいで、嬉しくって」=“I'm just happy, from how many new things I'm experiencing today.”
+「もっと引っ付いていい？　そっちの方があなたを感じられる」=“Mind if I get closer? That way I'll be able to feel you better.”
+（けっこう積極的なのかな？　おかげで、こっちはすごく緊張するよ）=(Is she pretty aggressive underneath all that? Thanks to that, I feel more nervous than ever)
+「今日はありがとう。この調子なら……じゃあ、またね」=“Thanks for today. At this rate, we'll... then, see ya.”

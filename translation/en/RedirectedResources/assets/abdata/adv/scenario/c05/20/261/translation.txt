@@ -1,4 +1,4 @@
-//「えへへ。あなたを通して……宇宙の力、しっかり受け取ったよ？」=
-//「宇宙のためなら、ずいぶん大胆になるんだね……」=
-//「大胆なのは宇宙のせいだけじゃないよ」=
-//「あなたのせいでも……あるんだから」=
+「えへへ。あなたを通して……宇宙の力、しっかり受け取ったよ？」=“Ehehe. Through you... I got to take in the power of the cosmos, you know?”
+「宇宙のためなら、ずいぶん大胆になるんだね……」=“You sure become quite bold, when it concerns the cosmos...”
+「大胆なのは宇宙のせいだけじゃないよ」=“It's not just the cosmos that makes me that bold, you know?”
+「あなたのせいでも……あるんだから」=“I become bold because of... you too.”
