@@ -1,2 +1,2 @@
-//「私、ここまで人に優しくされたことってなかったかも……」=
-//「私がこういうことにまだ慣れてないから、とびきり優しくしてくれたんだよね。……ありがと」=
+「私、ここまで人に優しくされたことってなかったかも……」=“I don't think anyone's ever been this sweet to me...”
+「私がこういうことにまだ慣れてないから、とびきり優しくしてくれたんだよね。……ありがと」=“I'm still not used to this sort of thing, so you were being extra gentle with me, weren't you?... Thanks.”

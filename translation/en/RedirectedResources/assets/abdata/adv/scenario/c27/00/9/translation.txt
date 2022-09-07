@@ -1,3 +1,3 @@
-//「デートって、あの、異性同士がふたりきりでどこかへ出かけたり、イチャイチャしたりするっていう……」=
-//「間違ってはいないかな……いきなりイチャイチャしようとまでは言わないけど」=
-//「いっ、いいわよ、やりましょ！　イチャイチャも……あんたがしたいなら……すればいいんじゃない」=
+「デートって、あの、異性同士がふたりきりでどこかへ出かけたり、イチャイチャしたりするっていう……」=“Aren't dates, uhm, those things where two people of the opposite sex go out somewhere together, and flirt all day together and...”
+「間違ってはいないかな……いきなりイチャイチャしようとまでは言わないけど」=“You're not wrong, but... I wouldn't exactly go as far as flirting right from the first one.”
+「いっ、いいわよ、やりましょ！　イチャイチャも……あんたがしたいなら……すればいいんじゃない」=“S-Sure, let's do it! Flirting too... if you want to do it... why not just go ahead?”

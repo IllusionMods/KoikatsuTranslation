@@ -1,3 +1,3 @@
-//「おはよ。朝の小テストの勉強、してきた？」=
-//「えっ、小テストなんてあるの！？」=
-//「やっぱり忘れてたか……。ほら、早く教室行くわよ。出題するところ、教えてあげる」=
+「おはよ。朝の小テストの勉強、してきた？」=“Morning. Study for the morning test?”
+「えっ、小テストなんてあるの！？」=“Eh--, there's a test!?”
+「やっぱり忘れてたか……。ほら、早く教室行くわよ。出題するところ、教えてあげる」=“I knew it... Come on, let's hurry to the class. I'll give you a primer on the syllabus.”

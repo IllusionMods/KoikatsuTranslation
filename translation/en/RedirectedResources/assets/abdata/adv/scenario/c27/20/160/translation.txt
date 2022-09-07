@@ -1,8 +1,8 @@
-//「ふぅ……火照った身体に夜風が気持ちいいけど、ちょっと冷えすぎちゃいそうだね」=
-//「そ、そうね…………へっくしゅ……うぅ」=
-//「って、既に冷えちゃってたか。じゃあ、急いで帰ろ――」=
-//「……いい事を思いついたんだけど、ぴったりくっつきながら帰ったら、イチャイチャ出来る上に[H名]の身体も温められるんじゃない？」=
-//「はぁ、そんなことしたら、歩きにくくてしょうがないでしょ」=
-//「名案だと思ったんだけど……ダメかな？」=
-//「……人に見られたら恥ずかしいから、少しだけよ」=
-//「はは、ありがとう」=
+「ふぅ……火照った身体に夜風が気持ちいいけど、ちょっと冷えすぎちゃいそうだね」=“Fuu... the night breeze does feel nice on my burning body but, feels like we might end up cooling down a bit too much.”
+「そ、そうね…………へっくしゅ……うぅ」=“Y-Yeah... *sneeze*... uuuu--”
+「って、既に冷えちゃってたか。じゃあ、急いで帰ろ――」=“You've already gotten too cold, huh? Well then, let's rush home--”
+「……いい事を思いついたんだけど、ぴったりくっつきながら帰ったら、イチャイチャ出来る上に[H名]の身体も温められるんじゃない？」=“...I just thought of something. If we go back while clinging to each other, we'll be able to flirt and warm up your body both at once, no?”
+「はぁ、そんなことしたら、歩きにくくてしょうがないでしょ」=“Haa, we can't do that, it'd be pretty hard to walk like that, no?”
+「名案だと思ったんだけど……ダメかな？」=“I thought it was a pretty good idea though... not happening?”
+「……人に見られたら恥ずかしいから、少しだけよ」=“...It'd be really embarrassing if someone sees us, so only for a little bit, okay?”
+「はは、ありがとう」=“Haha, thanks.”

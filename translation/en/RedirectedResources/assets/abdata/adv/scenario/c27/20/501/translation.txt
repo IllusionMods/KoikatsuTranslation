@@ -1,7 +1,7 @@
-//（よし、待ち合わせ時間の５分前に到着っと。[H名]はまだ来て……って、こっちに走ってきてるぞ）=
-//「ごめんっ！　私、遅れちゃった！？」=
-//「大丈夫。まだ待ち合わせ時間にはなってないよ」=
-//「……デートが楽しみで眠れなくて、寝坊しちゃったの？」=
-//「っ、エスパー！？」=
-//「はは、[H名]が分かりやすいだけだよ」=
-//（さてと、今日はどこに行こうかな）=
+（よし、待ち合わせ時間の５分前に到着っと。[H名]はまだ来て……って、こっちに走ってきてるぞ）=(Alright, got here 5 minutes before our set time. She doesn't seem to have... wha, she's dashing over here.)
+「ごめんっ！　私、遅れちゃった！？」=“Sorry--! Am I late!?”
+「大丈夫。まだ待ち合わせ時間にはなってないよ」=“It's alright. It's still not the time we said we'd meet up by.”
+「……デートが楽しみで眠れなくて、寝坊しちゃったの？」=“...Did you stay up all night because of the excitement and oversleep in the morning?”
+「っ、エスパー！？」=“--, are you an esper!?”
+「はは、[H名]が分かりやすいだけだよ」=“Haha, you're just easy to read, that's all.”
+（さてと、今日はどこに行こうかな）=(So then, where should we go for today?)
