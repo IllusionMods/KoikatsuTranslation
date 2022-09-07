@@ -1,8 +1,8 @@
-//「ふぅ……エッチな発声練習、しちゃったわね～」=
-//「歌声はもちろんだけど、あっちの声も素敵だったよ」=
-//「ん～……、あの声を褒められて、喜んでいいのかしら？」=
-//「いいに決まってるよ。だって、聴いてるとすごく昂ぶっちゃうし」=
-//「うふふ、そう言われると、すごく照れくさいわね」=
-//「はは、じゃあそろそろ時間だし部屋を出ようか」=
-//「ええ。あ、その前にお片づけをしておかないと。ふんふ～ん♪」=
-//（……こういうところ、ほんと家庭的だよなぁ）=
+「ふぅ……エッチな発声練習、しちゃったわね～」=“Fuu... that was some lewd vocal training~”
+「歌声はもちろんだけど、あっちの声も素敵だったよ」=“Your singing voice is of course lovely, but your moaning voice is also wonderful.”
+「ん～……、あの声を褒められて、喜んでいいのかしら？」=“Nnn~... Should I really be happy, about that sort of a compliment~?”
+「いいに決まってるよ。だって、聴いてるとすごく昂ぶっちゃうし」=“Of course. Afterall, as the one who gets to hear it, it makes me really excited.”
+「うふふ、そう言われると、すごく照れくさいわね」=“Ufufu, you're gonna make me blush ear to ear.”
+「はは、じゃあそろそろ時間だし部屋を出ようか」=“Haha, well then, our time's almost up, let's head out.”
+「ええ。あ、その前にお片づけをしておかないと。ふんふ～ん♪」=“Yes. Ah, before that, we have to clean up after ourselves. Fuhnfuhn~♪”
+（……こういうところ、ほんと家庭的だよなぁ）=(...This side of her, is so homely~)

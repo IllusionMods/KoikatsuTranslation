@@ -1,3 +1,3 @@
 
-//「ふ～、シャワーでスッキリ♪　あら、あなたも汗を流してく？」=
-//「うふふ……まだベッドでゴロゴロしたいかしらね。ご自由にどうぞ♪」=
+「ふ～、シャワーでスッキリ♪　あら、あなたも汗を流してく？」=“Fuu~, so refreshed♪ My, do you want to take one too?”
+「うふふ……まだベッドでゴロゴロしたいかしらね。ご自由にどうぞ♪」=“Ufufu... seems you want to roll around in bed a little bit more. Feel free♪”

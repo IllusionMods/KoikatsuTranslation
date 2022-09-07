@@ -1,5 +1,5 @@
 
-//「この問題の答え、これで合ってるかな？　俺はＡだと思うんだけど」=
-//「どれ？　……そうねぇ……Ｂでも合ってそうだし……Ｃとも考えられるわね……」=
-//「う～ん……」=
-//「う～～ん……」=
+「この問題の答え、これで合ってるかな？　俺はＡだと思うんだけど」=“You think this is the right answer, to this question? I feel like it's A.”
+「どれ？　……そうねぇ……Ｂでも合ってそうだし……Ｃとも考えられるわね……」=“Which one? ...Hmm, yeah... seems like it could be B too... C could work you, if you think about it this way...”
+「う～ん……」=“Mmm...”
+「う～～ん……」=“Mmmm...”

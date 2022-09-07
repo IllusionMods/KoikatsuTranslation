@@ -1,4 +1,4 @@
 
-//「どう？　私のお弁当、お口に合うかしら？」=
-//「なんか懐かしい味がする……すごく美味しいよ」=
-//「うふふ、それは良かったわ。こんなので良ければまた作ってくるから、食べたくなったらいつでも言ってね」=
+「どう？　私のお弁当、お口に合うかしら？」=“How is it? The lunch I made, is it to your liking?”
+「なんか懐かしい味がする……すごく美味しいよ」=“It's got kind of a nostalgic taste... It's delicious.”
+「うふふ、それは良かったわ。こんなので良ければまた作ってくるから、食べたくなったらいつでも言ってね」=“Ufufu, I'm glad to hear that. If you're fine with something like this, then I don't mind making it again, so if you feel like eating my cooking, just let me know, okay?”

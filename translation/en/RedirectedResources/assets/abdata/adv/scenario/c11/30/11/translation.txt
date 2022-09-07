@@ -1,5 +1,5 @@
 
-//「ごめんねぇ、私、もうダメみたい……別れるしかないわ」=
-//「そんな急に……！　何がダメなの？」=
-//「大きな愛であなたを包めなくなっちゃったの……こんなの彼女失格よ……」=
-//「あなたを許してあげられなくてごめんね……さようなら……」=
+「ごめんねぇ、私、もうダメみたい……別れるしかないわ」=“I'm sorry~, I can't do it anymore... we have to split up.”
+「そんな急に……！　何がダメなの？」=“That's so sudden though...! What's the problem? What don't you like?”
+「大きな愛であなたを包めなくなっちゃったの……こんなの彼女失格よ……」=“I can't wrap you in a big ball of love anymore... nobody deserves a girlfriend like this...”
+「あなたを許してあげられなくてごめんね……さようなら……」=“I'm sorry I couldn't find it in me to forgive you... goodbye...”

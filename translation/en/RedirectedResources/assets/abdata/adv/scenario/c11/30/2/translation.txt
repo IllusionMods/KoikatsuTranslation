@@ -1,8 +1,8 @@
 
-//「お友達も増えてきたみたいで、良かったわね」=
-//「君がきっかけを作ってくれたおかげだよ。ありがとう」=
-//「そんな、お礼なんていいのよ～。頑張ったのはあなたなんだし」=
-//「本当に感謝してるんだ。ここまで親身になってくれたのは君だけだし」=
-//「うふふ、だってこの学園でたったひとりの男の子でしょ。放っておけなかったんですもの」=
-//「これからもいっぱい私を頼ってね。あなたになら、特別何だってしてあげちゃう」=
-//「あはは……いつも助かってます。これからもよろしく！」=
+「お友達も増えてきたみたいで、良かったわね」=“Seems like you've made some new friends recently, how nice.”
+「君がきっかけを作ってくれたおかげだよ。ありがとう」=“It's all thanks to you helping me get a foot in through the door. Thanks.”
+「そんな、お礼なんていいのよ～。頑張ったのはあなたなんだし」=“You don't need to thank me~. You're the one who put in all the effort.”
+「本当に感謝してるんだ。ここまで親身になってくれたのは君だけだし」=“I really am thankful. You're the only one who's been this warm to me.”
+「うふふ、だってこの学園でたったひとりの男の子でしょ。放っておけなかったんですもの」=“Ufufu, I mean, you're the only boy at this school, no? I couldn't just leave you be.”
+「これからもいっぱい私を頼ってね。あなたになら、特別何だってしてあげちゃう」=“Don't hesitate to rely on me lots and lots more, okay? Just for you, I'll do anything.”
+「あはは……いつも助かってます。これからもよろしく！」=“Ahaha... you always save my butt somehow or other. Please keep doing so in the future too!”
