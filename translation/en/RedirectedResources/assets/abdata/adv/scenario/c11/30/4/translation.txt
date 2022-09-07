@@ -1,3 +1,4 @@
-﻿「まぁ、あなたから勉強って言いだすなんて……どうしたの！？」=My, you've grown so studious all of a sudden... what's the matter?!
-「いやいや、ちゃんと真面目に勉強してるよ！？　毎日予習復習もしてるし」=I'm actually pretty serious about my studies, you know?! I do revisions everyday.
-「あらあら、うふふ、ごめんね。あなたも遊びたい盛りなのかと思っちゃって……。勉強、しましょうか」=Oh dearie, ufufu, I'm sorry. You're a young boy full of energy, so I thought that you'd prefer playing instead... Let's study, shall we?
+
+//「まぁ、あなたから勉強って言いだすなんて……どうしたの！？」=
+//「いやいや、ちゃんと真面目に勉強してるよ！？　毎日予習復習もしてるし」=
+//「あらあら、うふふ、ごめんね。あなたも遊びたい盛りなのかと思っちゃって……。勉強、しましょうか」=

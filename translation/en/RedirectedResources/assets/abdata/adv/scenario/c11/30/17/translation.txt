@@ -1,4 +1,5 @@
-﻿「んーっ、よく寝た。……あれ？　メモがある。なになに――」=Nnn, I slept well. ...Huh? There's a note. Let's see----
-『おはよう。お寝坊さんにならないように、ちゃんとひとりで起きられたかしら？』=「Good morning. Did you wake up on time by yourself?」
-『急いでいても、ちゃんと朝ご飯は食べてね。お弁当とハンカチも忘れずに持って出るのよ』=「Even if you have to rush, eat your breakfast properly, okay? Don't forget your handkerchief or your lunchbox either.」
-『あ、宿題はやった？　あなたのことだから心配はないと思うけど……。学園で待ってます。　[H]』=「Ah, did you do your homework? It is you so I'm sure I have nothing to worry about there but well... I'm waiting for you at school. [H]」
+
+「んーっ、よく寝た。……あれ？　メモがある。なになに――」=“Mmm, I slept well. ...Oh? There's a letter. What's it say...?”
+//『おはよう。お寝坊さんにならないように、ちゃんとひとりで起きられたかしら？』=
+//『急いでいても、ちゃんと朝ご飯は食べてね。お弁当とハンカチも忘れずに持って出るのよ』=
+//『あ、宿題はやった？　あなたのことだから心配はないと思うけど……。学園で待ってます。　[H]』=

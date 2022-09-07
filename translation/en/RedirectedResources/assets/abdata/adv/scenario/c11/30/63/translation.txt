@@ -1,3 +1,4 @@
-﻿「これがあなたのお部屋なの……あ、洗濯物がそのままじゃない。もう、食器はすぐに洗わなきゃ」=So this is your room... ah, don't leave your laundry in a pile like that. Jeez, you have to wash the dishes right after you're done using them.
-「……あらあら、ごめんね。つい余計なところばっかり見ちゃって。少し緊張してるみたい」=...My, I'm sorry. I didn't mean to be a nag. Seems like I'm a bit nervous.
-「さて……それじゃあ始めましょうか。自分で脱ぎ脱ぎする？」=Now then... let's start, shall we? Will you take off your clothes on your own?
+
+//「これがあなたのお部屋なの……あ、洗濯物がそのままじゃない。もう、食器はすぐに洗わなきゃ」=
+//「……あらあら、ごめんね。つい余計なところばっかり見ちゃって。少し緊張してるみたい」=
+//「さて……それじゃあ始めましょうか。自分で脱ぎ脱ぎする？」=

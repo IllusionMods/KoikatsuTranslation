@@ -1,3 +1,3 @@
-﻿「ねぇ、ちょっといいかしら……あなたに渡したいものがあるの」=Hey, do you have a sec?... I want to give you something.
-「これ……カップケーキよ。あなたのママとの思い出のお菓子……授業で作ってみたの」=Here... some cupcakes. I tried making them in class... just like your mom always used to make.
-「あなたのママには負けちゃうだろうけど、この味も私との思い出になってくれると嬉しいわ……」=I'm sure they're no match for the ones your mom makes but, I hope you'll remember the taste of these ones too...
+//「ねぇ、ちょっといいかしら……あなたに渡したいものがあるの」=
+//「これ……カップケーキよ。あなたのママとの思い出のお菓子……授業で作ってみたの」=
+//「あなたのママには負けちゃうだろうけど、この味も私との思い出になってくれると嬉しいわ……」=

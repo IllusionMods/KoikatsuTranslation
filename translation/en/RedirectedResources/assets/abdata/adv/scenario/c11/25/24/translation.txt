@@ -1,2 +1,2 @@
-﻿「見て見て～、デコレーションケーキよ！　家庭科の授業で作っちゃったの」=Look, look~, this cake looks really nice, no? I made it in Home-Ec.
-「少し早いけれど、あなたのバースデーをお祝いしましょ♪」=It's a bit early but, let's celebrate your birthday♪
+//「見て見て～、デコレーションケーキよ！　家庭科の授業で作っちゃったの」=
+//「少し早いけれど、あなたのバースデーをお祝いしましょ♪」=

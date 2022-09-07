@@ -1,11 +1,12 @@
-﻿「……もう辺りがオレンジね。一日が早いわ～」=...The area's all orange already. Days are too short~
-「ねえ、急いで帰らなくていいなら、ラストに観覧車に乗っていかない？」=Hey, if you don't need to rush home right away, wanna go ride on the ferris wheel to close things off?
-「あらあら、観覧車に乗りたいの？」=My, you want to ride the ferris wheel?
-「うん。二人で一緒に……綺麗な夜景を見たいんだ」=Yeah. I want to... savour the night sky with you.
-「うふふ、素敵ね。それじゃあ、ゆっくり歩いていきましょうか。着くころにはちょうどいい時間になってるはずよ」=Ufufu, sounds lovely. Then, let's make our way there slowly. It should be just perfect by the time we get there.
-「そろそろ暗くなっちゃうから、今回はここまでにしておこうか」=It's gonna get dark out soon, so let's leave it at this for now.
-「そうね。あんまり遅いと、あなたがおねむになっちゃうものね」=Right. Any later, and you're gonna start getting sleepy.
-「そんなに早く眠くならないって」=I'm not gonna get sleepy that early.
-「ふふふ、冗談よ。でも、遅くなって明日に響くといけないから、今日は帰りましょうか」=Fufufu, I'm joing. But, it'd be bad to stay out till late and wake up late tomorrow, so let's go home for today.
-CHOICE:『最後に観覧車に乗りたい』=I want to ride on the ferris wheel
-CHOICE:『暗くなる前に帰ろうか』=Let's go home before it gets dark
+//「……もう辺りがオレンジね。一日が早いわ～」=
+//「ねえ、急いで帰らなくていいなら、ラストに観覧車に乗っていかない？」=
+//「あらあら、観覧車に乗りたいの？」=
+//「うん。二人で一緒に……綺麗な夜景を見たいんだ」=
+//「うふふ、素敵ね。それじゃあ、ゆっくり歩いていきましょうか。着くころにはちょうどいい時間になってるはずよ」=
+//「そろそろ暗くなっちゃうから、今回はここまでにしておこうか」=
+//「そうね。あんまり遅いと、あなたがおねむになっちゃうものね」=
+//「そんなに早く眠くならないって」=
+//「ふふふ、冗談よ。でも、遅くなって明日に響くといけないから、今日は帰りましょうか」=
+
+//CHOICE:『最後に観覧車に乗りたい』=
+//CHOICE:『暗くなる前に帰ろうか』=
