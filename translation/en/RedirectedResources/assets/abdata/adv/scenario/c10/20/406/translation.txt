@@ -1,5 +1,5 @@
-//「もうこんな時間か。いつの間にか随分時間が経っちゃったな」=
-//「おぉ、そうか。ただ話をして共に食事をしていただけなのに、不思議なものだ」=
-//「好きな女の子と過ごす時間はあっという間、だな」=
-//「うむ、アインシュタインの相対性理論だな。我も、その……汝と過ごす時間はあっという間に過ぎたぞ」=
-//「あはは、それは嬉しいな……それじゃ、ひとまず出ようか」=
+「もうこんな時間か。いつの間にか随分時間が経っちゃったな」=“It's already so late, huh? The time really flew by, didn't it?”
+「おぉ、そうか。ただ話をして共に食事をしていただけなのに、不思議なものだ」=“Ooh, is it now? We only sat down and had a meal together while chatting. Time is a strange thing.”
+「好きな女の子と過ごす時間はあっという間、だな」=“They do say time flies when you spend it with the girl you love.”
+「うむ、アインシュタインの相対性理論だな。我も、その……汝と過ごす時間はあっという間に過ぎたぞ」=“Umu, Einstein's theory of relativity, is it not? My time, uhm... flew by too.”
+「あはは、それは嬉しいな……それじゃ、ひとまず出ようか」=“Ahahah, that makes me happy. ...Well then, let's head out.”

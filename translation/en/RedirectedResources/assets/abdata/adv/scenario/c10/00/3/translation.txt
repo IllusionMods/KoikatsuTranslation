@@ -1,3 +1,3 @@
-「い、一緒に帰る？　我らが……」=“Go home t-together? Us...?”
-「だめかな？」=“You can't?”
-「いや、こ、こちらこそお願いします……じゃなかった！　同行を許可する！」=“It's not that, I-I'm fine with it, so, please... wait! You shall accompany me!”
+「い、一緒に帰る？　我らが……」=“W-Walk home together? Us?...”
+「だめかな？」=“You don't wanna?”
+「いや、こ、こちらこそお願いします……じゃなかった！　同行を許可する！」=“No, I-I want to, I really want to... I mean! I'll allow it!”

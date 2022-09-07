@@ -1,4 +1,4 @@
-//「んーっ！　遊園地、満喫したぞ！」=
-//「楽しんでくれたならよかったよ。また一緒に来ようね」=
-//「うむ！　次に来るときが今から待ち遠しいぞ！」=
-//「嬉しいこと言ってくれるね」=
+「んーっ！　遊園地、満喫したぞ！」=“Nnn--! I am full, I truly am!”
+「楽しんでくれたならよかったよ。また一緒に来ようね」=“I'm glad you enjoyed yourself. Let's come again, okay?”
+「うむ！　次に来るときが今から待ち遠しいぞ！」=“Umu! I am already looking forward to our next trip here!”
+「嬉しいこと言ってくれるね」=“You sure know how to make a guy happy.”

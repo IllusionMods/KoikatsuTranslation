@@ -1,7 +1,7 @@
-//「我の魔界の力を欲しているということだな？　いいであろう！　部に入るぞ！」=
-//「おお、すごく乗り気で良かったよ」=
-//「ところで、何をする部活なのだ？」=
-//「まあ基本的には今までみたいに話したりして、交流を深める感じかな」=
-//「交流……まぐわう？　我らが！？　何かいやらしいぞ！」=
-//「まぐわうって……まあ、スキンシップぐらいはあるかもね」=
-//「な、なるほど、……スキンシップくらいならいいかも」=
+「我の魔界の力を欲しているということだな？　いいであろう！　部に入るぞ！」=“Thou wantst to use my demonic powers for thy own means, right? Very well then! I shall join thy club.”
+「おお、すごく乗り気で良かったよ」=“Oooh, I'm glad to see you're so into it.”
+「ところで、何をする部活なのだ？」=“By the way, what sort of a club is it?”
+「まあ基本的には今までみたいに話したりして、交流を深める感じかな」=“Well, basically, it's about talking like we have till now, a little bit of intermingling here and there, the works.”
+「交流……まぐわう？　我らが！？　何かいやらしいぞ！」=“Intermingling... Intercourse? Us!? That sounds lewd!”
+「まぐわうって……まあ、スキンシップぐらいはあるかもね」=“Intercourse... well, I mean I guess we will end up getting pretty touchy with each other, a bit of skinship and whatnot.”
+「な、なるほど、……スキンシップくらいならいいかも」=“I-I see... Some skinship should be fine.”
