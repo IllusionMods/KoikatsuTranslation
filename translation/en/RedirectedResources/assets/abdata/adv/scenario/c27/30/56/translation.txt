@@ -1,6 +1,6 @@
 
-//「えぇっ、そんなぁ……。考え直してはくれないの……？」=
-//「もう決めたことだから……」=
-//「……っく……そう……それじゃ……仕方ないわね……」=
-//「ごめんな。君と付き合えたこと、俺、光栄に思ってるから」=
-//「優しくしないで！　辛くなるからぁ……うぅっ……さよなら！」=
+「えぇっ、そんなぁ……。考え直してはくれないの……？」=“Eeeh--, don't say that... won't you think it over...?”
+「もう決めたことだから……」=“I've already made up my mind...”
+「……っく……そう……それじゃ……仕方ないわね……」=“...kuh... I see... well then... it can't be helped, can it...”
+「ごめんな。君と付き合えたこと、俺、光栄に思ってるから」=“Sorry. I think of it as an honour, to have been able to go out with you.”
+「優しくしないで！　辛くなるからぁ……うぅっ……さよなら！」=“Don't try to be kind! It just hurts... uuu--... goodbye!”

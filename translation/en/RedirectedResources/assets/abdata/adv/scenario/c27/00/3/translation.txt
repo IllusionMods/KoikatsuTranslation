@@ -1,3 +1,3 @@
-//「いいけど……一緒に帰るって、何をするの？」=
-//「しゃべりながら帰ったり、途中で寄り道したり、とかかな」=
-//「寄り道……！　ふぅん……一緒に帰ったりするのもなかなか悪くなさそうね。それじゃ、行くわよ」=
+「いいけど……一緒に帰るって、何をするの？」=“Sure but... what are we gonna do on our way home?”
+「しゃべりながら帰ったり、途中で寄り道したり、とかかな」=“Just chatting and, well, taking a detour every so often, and so on, I guess?”
+「寄り道……！　ふぅん……一緒に帰ったりするのもなかなか悪くなさそうね。それじゃ、行くわよ」=“A detour...! Hmmmm... this whole "walking home together" thing ain't all that bad either. Well then, let's go.”

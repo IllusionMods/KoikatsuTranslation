@@ -1,4 +1,4 @@
 
-//「勉強ってひとりでするものでしょ。一緒になんてできるの？」=
-//「わからないところを教え合えば、ひとりでやるよりもはかどると思うんだけど……」=
-//「それ、すごく楽しそ……じゃなくて、効率的かもね。いいわよ、早速始めましょ」=
+「勉強ってひとりでするものでしょ。一緒になんてできるの？」=“Studying's something you do by yourself, no? How do you do it with someone else?”
+「わからないところを教え合えば、ひとりでやるよりもはかどると思うんだけど……」=“We could help each other out if we get stuck on a problem and stuff, I do think it'll go way better than just doing it alone...”
+「それ、すごく楽しそ……じゃなくて、効率的かもね。いいわよ、早速始めましょ」=“That sounds super fun... err, I meant efficient. Sure, let's get to it right away.”

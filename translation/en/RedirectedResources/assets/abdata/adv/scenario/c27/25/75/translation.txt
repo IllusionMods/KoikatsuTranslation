@@ -1,4 +1,4 @@
-//「うん、今のもいい球だったよ。君、キャッチボールうまいね」=
-//「会話のキャッチボールはそうでもないんだけど……」=
-//「え、何か言った？」=
-//「ううん、こっちの話！　ね、まだまだ続けましょ」=
+「うん、今のもいい球だったよ。君、キャッチボールうまいね」=“Yeah, you threw real good today too. You're pretty good at catch, huh?”
+「会話のキャッチボールはそうでもないんだけど……」=“Yeah, but not when it comes to throwing back replies to people...”
+「え、何か言った？」=“Eh, did you say something?”
+「ううん、こっちの話！　ね、まだまだ続けましょ」=“No, just mumbling to myself! Hey, let's keep going.”

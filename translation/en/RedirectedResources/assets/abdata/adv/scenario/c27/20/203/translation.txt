@@ -1,13 +1,13 @@
-//「色々見て回れたわね……って、もうこんな時間！？　経つのが早いわ……」=
-//「まだ時間が大丈夫なら、最後に観覧車に乗ってかない？」=
-//「うん、大丈夫よ。そういえば、まだ乗ってなかったわね」=
-//「もう少ししたら、日が沈んで綺麗な夜景が見えると思うよ」=
-//「ん……楽しみだわ」=
-//「暗くなる前に、今日はもう帰ろうか。乗れなかったやつは、また次のときにってことで」=
-//「……そうね。また、二人で来る機会はあるものね」=
-//「最後にお店に寄ってもいい？　家族にお土産を買っていきたいの」=
-//「いいよ。俺も何か買おうかな」=
-//（……よく考えたら渡す相手、叔母さんくらいしかいないな。ま、ちょっとしたお菓子くらい買っておくか）=
+「色々見て回れたわね……って、もうこんな時間！？　経つのが早いわ……」=“We toured around a whole bunch, didn't we?... wait, it's already this late!? It all flew by way too fast...”
+「まだ時間が大丈夫なら、最後に観覧車に乗ってかない？」=“If you're still good on time, wanna go ride the ferris wheel to close off the day?”
+「うん、大丈夫よ。そういえば、まだ乗ってなかったわね」=“Yeah, I'm good on time. Come to think of it, we didn't ride it at all today, did we?”
+「もう少ししたら、日が沈んで綺麗な夜景が見えると思うよ」=“In just a little bit, the sun's gonna set, I bet the nightscape from the wheel's gonna be real pretty.”
+「ん……楽しみだわ」=“Nn... I'm really excited.”
+「暗くなる前に、今日はもう帰ろうか。乗れなかったやつは、また次のときにってことで」=“Maybe we should go home for today, before it gets dark. We can always ride the ones we couldn't today next time.”
+「……そうね。また、二人で来る機会はあるものね」=“...Right. We'll get to come here again together, won't we?”
+「最後にお店に寄ってもいい？　家族にお土産を買っていきたいの」=“Mind if we take a snoop at the store before we leave? I wanna get souvenirs for my family.”
+「いいよ。俺も何か買おうかな」=“Sure. Maybe I'll grab something too.”
+（……よく考えたら渡す相手、叔母さんくらいしかいないな。ま、ちょっとしたお菓子くらい買っておくか）=(...Now that I think about it, I don't really have anyone to buy a souvenir for, except my aunt I guess. Well, guess I'll grab some sweets or something.)
 
-//CHOICE:『最後に観覧車に乗ってかない？』=
-//CHOICE:『暗くなる前に帰ろうか』=
+CHOICE:『最後に観覧車に乗ってかない？』=『Wanna ride the ferris wheel to end the day?』
+CHOICE:『暗くなる前に帰ろうか』=『Let's go home before it gets dark』

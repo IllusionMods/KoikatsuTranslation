@@ -1,3 +1,3 @@
-//「ちょっといい？　授業でカップケーキ作ったんだけど……良かったら食べて」=
-//「あっ、勘違いしないでよね！　別に、あんたへあげようと思って作ったんじゃないんだから」=
-//「でも……食べたら感想は聞かせて。今後の参考にしたいし……」=
+「ちょっといい？　授業でカップケーキ作ったんだけど……良かったら食べて」=“Got a sec? I made some cupcakes during class... eat them if you like.”
+「あっ、勘違いしないでよね！　別に、あんたへあげようと思って作ったんじゃないんだから」=“Ah--, don't misunderstand, okay?! It's not like I made them while thinking of giving them to you or anything.”
+「でも……食べたら感想は聞かせて。今後の参考にしたいし……」=“But... lemme know your thoughts after you eat them. The next batch should...”
