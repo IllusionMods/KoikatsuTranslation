@@ -44,7 +44,7 @@
 「う、うん……お互いその、我慢しよう……我慢……」=“G-Go ahead... we gotta, endure... endure...”
 「だな。少しすれば、お互い落ち着くと思うから……それまでは目を合わせるの禁止な？　今はその……色々まずい」=“Yeah. I think we'll both feel more calm, after a bit so... no looking into each other's eyes until then, okay? It's gonna... not end well.”
 「わかった……落ち着くまでは、景色を見ているという事で……」=“Got it... let's just savour the view, until we both settle down...”
-………………=...
+………………=.........
 「……[H名]、落ち着いた？」=“...[H], feel better?”
 「ぅ、うん……ちょっとはな……おまえはどうなんだ？」=“Y-Yeah... a little bit... what about you?”
 「俺もちょっとだけ……でも、さっきよりはかなりマシだと思う」=“Same here... but, it's a lot better than before.”

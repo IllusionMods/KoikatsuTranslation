@@ -1,4 +1,4 @@
-﻿「はぁ……休日の風が吹いてるなぁ……」=Ahh... the holiday wind is blowing.
+「はぁ……休日の風が吹いてるなぁ……」=Ahh... the holiday wind is blowing.
 俺は、家でごろごろして過ごしていた。=I spent the day lounging around the house.
 最近は色々なことがあって、休日は体力回復に努めるのが義務になりつつある。=With everything that's been going on lately, it's becoming very important to try to recover my strength during the holidays.
 （そうしないと一週間持たないからね）=(Otherwise I wouldn't last a week)
@@ -97,7 +97,7 @@
 「ど、どうしたの？　ぼーっとして」=Is something the matter? You seem distracted.
 「あ、いや、何でもないよ！」=Ah, no, it's nothing!
 洗い物はすぐに終わってしまったようで、水瀬さんはすでに戻ってきていた。=She had finished washing the dishes, and had already returned.
-「……」=......
+「……」=“...”
 （しまった。変なこと思い出してないで、話題考えておけばよかった！）=(Oh shoot. I should have thought of something to talk about instead of remembering weird stuff!)
 「えーと、なんか、静かだね」=Well, it's kinda quiet, isn't it.
 「あ、このアパート、けっこう防音しっかりしてるらしいから」=Oh, I heard this apartment is pretty well sound proofed.
@@ -160,7 +160,7 @@
 「水瀬さんの本音は……この前、聞いたよ。でも、その口で、想いを伝えるって、約束したからね」=How you really feel... I heard you the other day. But you promised to tell me how you felt yourself.
 「……わかってる……」=... I know...
 さっきまで車のドリフト音が響いていた部屋が静まり返り、どっちのものともわからない心臓の音が聞こえてくる。=The room that had echoed with the sound of drifting cars earlier had become silent, and all I could hear was the sound of a beating heart.
-「…………」=............
+「…………」=“......”
 そして、それは突然の出来事だった。=And then it happened.
 「んんっ！？」=Hmm!?
 「～～～～っ！」=*~~~~ Tch!*

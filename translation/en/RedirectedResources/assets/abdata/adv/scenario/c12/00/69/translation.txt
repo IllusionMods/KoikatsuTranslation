@@ -1,4 +1,4 @@
-「…………」=“...”
+「…………」=“......”
 「……んぅ～、飽きたぁ～」=“...Nn~, I'm bored~”
 「早いよ、まだ始めたばっかりじゃん」=“We just started.”
 「そんな事言ったって、おまえが隣にいたんじゃ集中できないんだもん……」=“Even if you say that, I can't focus when you're right next to me...”

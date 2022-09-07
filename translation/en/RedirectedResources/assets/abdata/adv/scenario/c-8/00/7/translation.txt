@@ -1,4 +1,4 @@
-「…………」=“...”
+「…………」=“......”
 「このみちゃん？」=“Konomi-chan?”
 「はいっ！？」=“Yes!?”
 「えっと……そんなに身構えなくてもいいよ？」=“Eh... You don't have to brace yourself that much okay?”

@@ -7,7 +7,7 @@
 「あ！　あそこの移動カフェで飲み物を買ってくるよ！　ちょっと待ってて」=“Ah! I bet we could buy something to drink from that food truck over there! Just wait here a sec.”
 「はぁ……う、うむ……はぁ……はぁ……」=“Haah... u-umu... haah... haah...”
 （大変だ！　一刻も早く飲み物を飲ませないと！）=(Damn! I gotta get her something to drink, stat!)
-………………=...
+………………=.........
 「お待たせ！　はい、これ飲んで」=“Here you go! Drink this.”
 「んっ……ごくっごくっごくっ……っぷはぁ！」=“Nn--... *gulp gulp gulp*... puhaaah!”
 「おぉ、一気に飲み干した……だ、大丈夫？」=“Oooh, in one swig... y-you okay?”

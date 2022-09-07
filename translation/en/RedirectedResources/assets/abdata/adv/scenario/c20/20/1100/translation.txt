@@ -1,4 +1,4 @@
-﻿「これより新婦が入場致します。後方の扉口をご覧ください」=And now, the bride will make her entrance. Please pay attention to the main door.
+「これより新婦が入場致します。後方の扉口をご覧ください」=And now, the bride will make her entrance. Please pay attention to the main door.
 （[H名]……）=([H名]...)
 少し気恥ずかしそうにしながら、ドレス姿の[H名]がゆっくりと入場してくる。=She walked in, clad in a wedding dress, looking slightly embarrassed.
 相も変わらず人の注目を集めるのは苦手なようで、ちょっとだけ縮こまってしまっている。=As usual, she was curling up a bit, not used to all the attention she was getting.
@@ -21,7 +21,7 @@
 「もちろん覚えてるよ。とても嬉しかった」=Yep, I remember them. They made me really happy.
 「あの時は誓いの言葉というか、感謝の言葉みたいになってましたけど……」=They came off more as words of gratitude, than vows back then but...
 「最後に、愛の証としてキスをしていただきます」=Lastly, as the proof of your love, you may now kiss each other.
-「…………」=...
+「…………」=“......”
 「……今でも、私の気持ちはあの時と変わっていません。ううん、それどころかもっと強くなっています」=...Even now, my feelings are no different from that time. No, if anything, they've gotten stronger.
 「引っ込み思案な私の手をひいてくれてありがとう」=Thank you, for pulling such a withdrawn girl like me, by the hand.
 「話すことが苦手な私とたくさんお話してくれてありがとう」=Thank you, for talking so much to such an unsociable girl like me.

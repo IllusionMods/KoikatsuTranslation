@@ -26,7 +26,7 @@
 「……今は景色を見てたいの」=“...I wanna look at the scenery though.”
 「[H名]、こっちを向いて」=“[H名], look over here.”
 「なに――んんっ、ん…………」=“What---- Nnn--, nnn...”
-「…………」=“...”
+「…………」=“......”
 「っ……い、いきなりしないでよ……心の準備、出来てないんだから……」=“--...D-Don't do it so suddenly... my heart wasn't ready...”
 「ごめん……でも、どうしてもこのタイミングでしたかったんだ」=“Sorry... but, I really wanted to do it then.”
 「なんで？」=“Why?”

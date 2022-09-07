@@ -3,7 +3,7 @@
 「このまま、ぼーっとしていたくもなるけど……あっ、向こうにお店が出てるね。行ってみる？」=While I do want to just stay like this and stare out in a daze... Ah--, there's a shop over there. Wanna go check it out?
 「はい、お腹も空いてきましたので丁度いいです」=Yes, I was just feeling hungry so it's perfect.
 「よしっ、じゃあここでお昼ご飯にしちゃおう」=Alright--, then let's have lunch here.
-………………=.....................
+………………=.........
 「へぇ。ご飯物から軽食まで色々あるね。こんなに揃ってると迷うなぁ」=Hoh, they have everything from fast food to full course meals. With this many options, it's actually kinda hard to decide.
 「[H名]はなに食べたい？」=What do you want to eat, [H名]?
 「私はこちらのサンドイッチにします」=I'll have this sandwich over here.

@@ -7,7 +7,7 @@
 「うーん、ホントに？　実はジェットコースターが怖かったり？」="Y-yeah. Is that true? Or it's that because roller coaster is scary?"
 「はぁ……いいわよ。そこまで言うなら乗ってあげるわ。ただし、並んでいる間の暇潰しは貴方でするから」="*Sigh* okay. If you say it that far, I'll ride it. However, you'll have to amuse me while we're standing in line."
 「えぇっ……周りの迷惑にならない範囲で、お願いします……」="Uh, as long as it doesn't inconvenience other people..."
-………………=........
+………………=.........
 「ねぇ……これ、全然列が進まないのだけど……」="Hey... This line isn't moving at all..."
 「そ、そうだねぇ……ジェットコースターはやっぱり一番人気があるから……」="Y-yeah... As expected, roller coaster is the most popular attraction..."
 「完全に選択を間違えたわ。貴方がくだらない挑発なんかするからよっ」="That choice was a mistake. It's your fault for being a good-for-nothing."

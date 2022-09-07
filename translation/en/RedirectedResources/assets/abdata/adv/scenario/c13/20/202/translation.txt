@@ -1,4 +1,4 @@
-﻿「まずは何からしようか？」=What should we start with first?
+「まずは何からしようか？」=What should we start with first?
 「んー、とりあえず周って、面白そうなのがあったら乗ろうよ」=Nnn, well for now, let's ride on anything we come across that looks fun.
 「了解！　よし、さっそく出発だ」=Got it! Well then, let's set off.
 ぐぅ～……=*rumble*~...
@@ -15,7 +15,7 @@
 「あはは……自分で思ってたよりお腹が空いてたみたいで……いつもより早い時間に朝ご飯を食べたからかな？」=Ahaha... I was hungrier than even I realized... I wonder if it's because I got breakfast way earlier today?
 「ふふ、なんか[P名]くんらしい理由～」=Fufu, that reason is something only you could come up with~
 「さっそく、いただきまーす！　もぐもぐ、うんっ、美味しい！」=Well then, let's not waste time and dig in! *chew chew*, yeah--, it's great!
-「……」=...
+「……」=“...”
 「……あれ？　[H名]は食べないの？ あっ、も、もしかしてお腹空いてない？」=...Huh? You're not gonna eat, [H名]? Ah--, A-Are you not hungry by any chance?
 「ううん、そうじゃなくて……[P名]くんの食べてるとこ見てたら、なんか幸せだなーって思ったの」=No, that's not it... I was just kinda lost watching you eat, it made me really happy for some reason.
 「そ、そう……？」=T-That so...?

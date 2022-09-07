@@ -6,10 +6,10 @@
 「それじゃ次は何に乗ろっか？」=“Well then, what should we ride next?”
 「あ……では……乗り物は一旦休憩して……この遊園地のキャラクターグッズが売っているお店に行きませんか？　私、何か思い出に残る物が欲しいですよ」=“Ah... then... how about we take a break from the rides and... make our way to the souvenir shop? I want to buy something, to remember this way by.”
 「キャラクターグッズかぁ……いいね。行ってみよう」=“The souvenir shop, huh... sure. Let's go.”
-………………=...
+………………=.........
 「ねぇ、[H名]……この遊園地のキャラクターってこれ……？」=“Hey, [H]... is this the park's mascot...?”
 「そ、そうみたいですね……しっかり『公式キャラクター』って書かれてるですし……」=“I-It seems to be... It has「The Park's Official Mascot」written on it too...”
-「…………」=“...”
+「…………」=“......”
 （どうしよう！　絶望的に可愛くない！　というか、なんだこのキャラ。見てると微妙にイライラしてくる顔してるぞ！）=(What do I do! It's not cute at all! It's downright hideous! Heck, what is up with this thing? The more I look at it the more ticked off I get!)
 「うぅん……どうするですかねぇ……ストラップもマグカップも全部……その……」=“Nnnnn... what do we do... the phone strap, or the mug, all of them... are, uhm...”
 「可愛くないよね……」=“Not even remotely adorable...”

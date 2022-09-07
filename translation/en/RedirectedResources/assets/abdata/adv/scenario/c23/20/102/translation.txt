@@ -5,7 +5,7 @@
 「何が食べたい？」=“What do you wanna eat?”
 「クレープが食べたいかな」=“A crepe.”
 「了解。じゃあ一緒に買いに行こうか」=“Roger. Let's go buy it together then.”
-………………=...
+………………=.........
 「たくさんあるんだなぁ……うぅん……どっちを頼もう」=“They've got all sorts, huh... nnn... what should I go with?”
 「二つで悩んでるなら両方買ってシェアしようか」=“If you're having a hard time picking between two of them, let's buy both and share them.”
 「いいのかい？　あなたも食べたいものがあるんじゃ」=“You sure? Shouldn't there be one you wanna try too?”
