@@ -1,5 +1,5 @@
-﻿「え……？　どうして？　どうしてあたし、あんたと別れなくちゃいけないの？」=Eh...? Why? Why do I have to, break up with you?
-「ごめんよ、[H]」=I'm sorry, [H].
-「ごめんじゃ、あたしはわからないわよ！　何がいけなかったの？　直すから言ってよ！」=I can't understand, just from a 'sorry'! What went wrong? I'll change so tell me!
-「……ごめん」=...Sorry.
-「……うぅ……そ、そう……理由も言ってくれないほど、嫌われたのね……さよなら……」=...Uuu... I-I see... I've made you hate me so much, that you won't even tell me why... goodbye...
+//「え……？　どうして？　どうしてあたし、あんたと別れなくちゃいけないの？」=
+//「ごめんよ、[H]」=
+//「ごめんじゃ、あたしはわからないわよ！　何がいけなかったの？　直すから言ってよ！」=
+//「……ごめん」=
+//「……うぅ……そ、そう……理由も言ってくれないほど、嫌われたのね……さよなら……」=

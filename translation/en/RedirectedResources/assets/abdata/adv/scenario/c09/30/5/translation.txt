@@ -1,3 +1,4 @@
-﻿「いいわよ！　でも……何をする？」=Sure! But... what are we gonn ado?
-「それが、まだ決まってないんだ……」=Not exactly gotten that far yet...
-「あんたねえ！　そういうのは先に考えておきなさいよ！」=What do I do with you! You're supposed to think of that stuff beforehand!
+
+//「いいわよ！　でも……何をする？」=
+//「それが、まだ決まってないんだ……」=
+//「あんたねえ！　そういうのは先に考えておきなさいよ！」=

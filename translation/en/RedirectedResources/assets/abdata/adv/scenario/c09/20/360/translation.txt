@@ -1,7 +1,7 @@
-﻿「……声、聞かれちゃったんじゃない？」=...They probably heard us, no?
-「カラオケボックスだよ？　防音もされてるし、音楽の音が大きいから大丈夫だよ」=We're in a Karaoke Box, you know? There's lots of loud music, not to mention the rooms are soundproofed.
-「そっか……歌うのに夢中で普通は気づかないわよね」=I see... not something you exactly notice, when singing your heart out, is it?
-「そうそう。……あ、もうすぐ時間だ。それじゃあ、俺は先に会計済ませとくよ」=Exactly. ...Ah, our time's almost up. Well then, I'll go settle the bill.
-「あ、うん……ありがと」=Ah, okay... thanks.
-「気にしないで。割り勘だから」=Don't worry about it. We're going dutch, afterall.
-「そこは奢ってよ～！」=Normally you'd treat the girl, you know~!
+//「……声、聞かれちゃったんじゃない？」=
+//「カラオケボックスだよ？　防音もされてるし、音楽の音が大きいから大丈夫だよ」=
+//「そっか……歌うのに夢中で普通は気づかないわよね」=
+//「そうそう。……あ、もうすぐ時間だ。それじゃあ、俺は先に会計済ませとくよ」=
+//「あ、うん……ありがと」=
+//「気にしないで。割り勘だから」=
+//「そこは奢ってよ～！」=

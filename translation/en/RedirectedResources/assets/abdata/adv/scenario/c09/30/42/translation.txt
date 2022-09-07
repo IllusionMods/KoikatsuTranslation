@@ -1,1 +1,2 @@
-﻿「きゃあ！　何ニヤニヤしてんのよ！　早く出ていって！」=Kyah! What's with that stupid grin! Get out already!
+
+//「きゃあ！　何ニヤニヤしてんのよ！　早く出ていって！」=

@@ -1,5 +1,5 @@
-﻿「で、コイカツ部って、基礎練習とかがあったりするの？」=So, is there like a basic drill, that you go through at this club?
-「いや、まだ特に決めてないけど。どうして？」=No, well, I still haven't sorted that sort of stuff out yet. Why do you ask?
-「だって、運動部や文化部はそういうのをよくやるじゃない。だから、コイカツ部もあるのかなって」=I mean, sports clubs and culture clubs and whatnot often have those sorts of things, no? So I was wondering if the Koikatsu club had them too.
-「そうだね、恋愛で基礎といえば……やっぱり見つめ合いながら手を握ることかな？」=Let's see, a "basic drill" for romance, huh... guess it'd have to be something like holding hands and looking each other straight in the eye.
-「え？　基礎からレベル高くない！？　まあ、挑戦するけど……」=Eh? Isn't that a bit too advanced to be called basic?! Well, I'm up for trying, I guess...
+//「で、コイカツ部って、基礎練習とかがあったりするの？」=
+//「いや、まだ特に決めてないけど。どうして？」=
+//「だって、運動部や文化部はそういうのをよくやるじゃない。だから、コイカツ部もあるのかなって」=
+//「そうだね、恋愛で基礎といえば……やっぱり見つめ合いながら手を握ることかな？」=
+//「え？　基礎からレベル高くない！？　まあ、挑戦するけど……」=

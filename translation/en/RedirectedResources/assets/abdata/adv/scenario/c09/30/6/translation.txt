@@ -1,3 +1,4 @@
-﻿「え！？　べ、別にいいけど。どこへ行くの？」=Eh!? I-I don't really mind though. Where?
-「行ってみてからのお楽しみだよ」=That's for me to know, and for you to find out.
-「もう、じれったいわねえ！」=Jeez, what a tease~!
+
+//「え！？　べ、別にいいけど。どこへ行くの？」=
+//「行ってみてからのお楽しみだよ」=
+//「もう、じれったいわねえ！」=

@@ -1,2 +1,2 @@
-﻿「ねえ、家庭科の授業でお菓子つくったから、あんたにあげる」=Hey, I made some sweets during home ec. so, you can have them.
-「あたしのつくったお菓子は天下一品なんだから、ゼッタイ感激するわよ！」=My baking skills are second to absolutely nobody, so you're definitely gonna be moved to tears!
+//「ねえ、家庭科の授業でお菓子つくったから、あんたにあげる」=
+//「あたしのつくったお菓子は天下一品なんだから、ゼッタイ感激するわよ！」=

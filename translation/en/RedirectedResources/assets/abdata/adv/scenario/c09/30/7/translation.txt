@@ -1,5 +1,6 @@
-﻿「……うそでしょ？　夢じゃないよね？」=...No way? This isn't a dream, right?
-「夢なんかじゃないよ。俺は、本気で言ってるんだ」=It's not a dream. I am being serious.
-「うそ。うそうそ！　こんなの夢に決まってる！」=No way. No way no way! This has to be a dream, this can't be real!
-「そ、そう……俺のこと嫌いなんだ……ごめん、さっき言ったことは気にしないでほしい」=I-I see... I guess you must really hate me... sorry, put those words out of your mind, if you can.
-「バカ！　嫌いなんて言ってないでしょ！　あぁ、もう、あたしも……その、あんたのこと好きよ」=Dummy! I didn't say I hate you, did I! Aah, jeez, I... uhm, I love you too.
+
+//「……うそでしょ？　夢じゃないよね？」=
+//「夢なんかじゃないよ。俺は、本気で言ってるんだ」=
+//「うそ。うそうそ！　こんなの夢に決まってる！」=
+//「そ、そう……俺のこと嫌いなんだ……ごめん、さっき言ったことは気にしないでほしい」=
+//「バカ！　嫌いなんて言ってないでしょ！　あぁ、もう、あたしも……その、あんたのこと好きよ」=

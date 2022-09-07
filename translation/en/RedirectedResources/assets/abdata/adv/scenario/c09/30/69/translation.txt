@@ -1,5 +1,6 @@
-﻿「よし、できたっと！」=Alright, I'm done!
-「ああ、はやいなぁ。よくできるわね」=Aah, that sure was quick. Got a good head on you, I see.
-「いや、答えを見ながらやってるんだ」=Nah, I mean, I was looking at the answers the whole time.
-「なんだ。ダメじゃない、そんなことしちゃ」=Huh. You know you shouldn't do that, no?
-「えへへ。さすがにダメか。これから気を付けるよ」=Ehehe. I guess you're right. I'll be good from now on.
+
+//「よし、できたっと！」=
+//「ああ、はやいなぁ。よくできるわね」=
+//「いや、答えを見ながらやってるんだ」=
+//「なんだ。ダメじゃない、そんなことしちゃ」=
+//「えへへ。さすがにダメか。これから気を付けるよ」=

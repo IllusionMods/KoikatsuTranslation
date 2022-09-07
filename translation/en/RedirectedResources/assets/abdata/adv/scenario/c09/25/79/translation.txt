@@ -1,3 +1,3 @@
-﻿「ん～！　やっぱりおいしい～！」=Nn~! It really is delicious~!
-「あんまり食べすぎるなよ。お腹こわすから」=Don't overeat, you hear me? You're gonna get a stomachache.
-「わ、わかってるわよ！」=I-I know that!
+//「ん～！　やっぱりおいしい～！」=
+//「あんまり食べすぎるなよ。お腹こわすから」=
+//「わ、わかってるわよ！」=

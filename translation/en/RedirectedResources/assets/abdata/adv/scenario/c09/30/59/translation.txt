@@ -1,2 +1,3 @@
-﻿「今日は……まあ、楽しかったわ。その……ありがと」=Today was... well, it was fun. Uhm... thanks.
-「……また、誘ってくれてもいいわよ？　それじゃ、また学園でね」=...I don't mind if you, ask me out again, you know? See you again at school then.
+
+//「今日は……まあ、楽しかったわ。その……ありがと」=
+//「……また、誘ってくれてもいいわよ？　それじゃ、また学園でね」=
