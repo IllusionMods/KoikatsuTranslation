@@ -1,13 +1,13 @@
-//「もう、こんな時間ね。ふふ、今日は一日一緒に居てくれてありがとう」=
-//「おっと、まだ帰るには早いよ。もうちょっとだけ付き合って欲しいんだけど、時間あるかな？」=
-//「あらあら、もちろんよ。でも、翌日に差し支えるような時間まで遊ぶのはなしよ？」=
-//「そんなに遅くならないよ」=
-//「そう、だったらいいわよ。ふふ、もう……一人になるのが寂しいのね。甘えん坊さんなんだから♪」=
-//（そういうわけじゃないんだけどなぁ……）=
-//「お礼を言うのは俺の方だよ。あ、でも、まだデートは終わりじゃないよね？　お別れするまでがデートだし」=
-//「ええ、その通りね。しっかりあなたを最後まで引率しなきゃ」=
-//「あれ、俺が引率される側なの……？」=
-//「当然でしょ？　あなたの面倒を見るために、今日は時間を作ったんだもの」=
+「もう、こんな時間ね。ふふ、今日は一日一緒に居てくれてありがとう」=“It's already this late, huh? Fufu, thanks for being with me this whole day.”
+「おっと、まだ帰るには早いよ。もうちょっとだけ付き合って欲しいんだけど、時間あるかな？」=“Woah, stop right there. We're not going home just yet. I'd like it if you could tag along with me for a bit longer, do you have time?”
+「あらあら、もちろんよ。でも、翌日に差し支えるような時間まで遊ぶのはなしよ？」=“Oh my, of course. But, we can't stay out so late that it'll be hard to get up in the morning tomorrow, okay?”
+「そんなに遅くならないよ」=“It won't get that late.”
+「そう、だったらいいわよ。ふふ、もう……一人になるのが寂しいのね。甘えん坊さんなんだから♪」=“I see, then it's fine. Fufu, oh you... you don't want to be alone, do you? What a pampered child♪”
+（そういうわけじゃないんだけどなぁ……）=(That's really not it though~...)
+「お礼を言うのは俺の方だよ。あ、でも、まだデートは終わりじゃないよね？　お別れするまでがデートだし」=“I should be the one saying thanks. Ah, but, our date's not over yet, is it? It's a date until we have to say goodbye.”
+「ええ、その通りね。しっかりあなたを最後まで引率しなきゃ」=“Yes, you're right on the money. I have to keep leading you till the very end.”
+「あれ、俺が引率される側なの……？」=“Huh, I'm the one being led here...?”
+「当然でしょ？　あなたの面倒を見るために、今日は時間を作ったんだもの」=“That's obvious, no? I made time today so that I could take care of you all day.”
 
-//CHOICE:『まだ時間ある？』=
-//CHOICE:『駅まで一緒に帰ろう』=
+CHOICE:『まだ時間ある？』=Still got some time?
+CHOICE:『駅まで一緒に帰ろう』=Let's go to the station together.

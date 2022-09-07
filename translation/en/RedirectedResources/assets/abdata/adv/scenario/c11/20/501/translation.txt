@@ -1,5 +1,5 @@
-//「あれ？　[H名]、もう着いてる……？　ゴメン、間に合うように来たつもりだったんだけど、遅れちゃった？」=
-//「ううん、時間ピッタリ。私、待つのは慣れてるから、少しくらい遅れても大丈夫だったのに」=
-//「遅刻なんかしないってば」=
-//「うふふ、そうみたいね。そういうところ素敵よ。じゃあ行きましょう」=
-//（……彼女に甘えて、待たせないように気をつけようっと）=
+「あれ？　[H名]、もう着いてる……？　ゴメン、間に合うように来たつもりだったんだけど、遅れちゃった？」=“Huh? [H名], you already got here...? Sorry, I planned on being on time, did I get here late?”
+「ううん、時間ピッタリ。私、待つのは慣れてるから、少しくらい遅れても大丈夫だったのに」=“No, you're right on time. You didn't need to rush here, I'm used to waiting, so I wouldn't have minded if you were a little bit late.”
+「遅刻なんかしないってば」=“I could never make you wait, seriously.”
+「うふふ、そうみたいね。そういうところ素敵よ。じゃあ行きましょう」=“Ufufu, seems so. That side of you is wonderful. Let's go then.”
+（……彼女に甘えて、待たせないように気をつけようっと）=(...She's too good to me, gotta be careful not to make her wait.)

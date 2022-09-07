@@ -1,2 +1,2 @@
 
-//「おはよう。新しいお友達はできた？　私にも紹介してね」=
+「おはよう。新しいお友達はできた？　私にも紹介してね」=“Good morning. Did you make any new friends? Introduce me to them too, okay?”

@@ -1,2 +1,2 @@
-//「ねぇあなた、お腹空いてなぁい？　ほら、クッキーよ。どうぞ、気にせず食べちゃって」=
-//「うふふ、これね、家庭科の授業で作ったやつなの。サクサクで美味しいでしょう？」=
+「ねぇあなた、お腹空いてなぁい？　ほら、クッキーよ。どうぞ、気にせず食べちゃって」=“Hey, are you hungry at all~? Here, have some cookies. Don't mind me, eat them all up.”
+「うふふ、これね、家庭科の授業で作ったやつなの。サクサクで美味しいでしょう？」=“Ufufu, I made these in home-ec, you see. Don't they look delicious?”

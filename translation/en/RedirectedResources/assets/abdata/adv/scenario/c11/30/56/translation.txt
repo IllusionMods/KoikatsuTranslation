@@ -1,9 +1,9 @@
 
-//「そんな……！　夢よ……これは夢なんだわ……あなたが別れを切り出すなんて、夢でしかないもの」=
-//「……夢じゃなくてホントのことだよ」=
-//「嘘よ、お願い、夢だと言ってぇ～！」=
-//「本当にごめん……君は俺なんかにはもったいなさすぎるんだ」=
-//「うぅ……ぐすっ……あなたが決めたことだもの、ひとりで立派ねって褒めてあげなくちゃ……」=
-//「別れても、これだけは覚えていてね。私はいつまでもあなたの味方よ。応援してるわ」=
-//「ありがとう……」=
-//「うっ、うっ……うわぁぁ～ん」=
+「そんな……！　夢よ……これは夢なんだわ……あなたが別れを切り出すなんて、夢でしかないもの」=“This can't be...! A dream... this is a dream... only in a nightmare would you ever break up with me.”
+「……夢じゃなくてホントのことだよ」=“...It's not a dream, it's reality.”
+「嘘よ、お願い、夢だと言ってぇ～！」=“That's a lie, please, say it's just a dream~!”
+「本当にごめん……君は俺なんかにはもったいなさすぎるんだ」=“I really am sorry... A girl like you is wasted on a guy like me.”
+「うぅ……ぐすっ……あなたが決めたことだもの、ひとりで立派ねって褒めてあげなくちゃ……」=“Uuu... *sob*... you decided on it for yourself, I gotta praise you for being such a strong big boy to not need me anymore...”
+「別れても、これだけは覚えていてね。私はいつまでもあなたの味方よ。応援してるわ」=“Even if we're no longer together, just remember this. I'll always be on your side. Always cheering for you.”
+「ありがとう……」=“Thank you...”
+「うっ、うっ……うわぁぁ～ん」=“Uu--, uu--... *uwaaaahn~*”

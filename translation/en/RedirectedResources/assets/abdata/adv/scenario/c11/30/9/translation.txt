@@ -1,4 +1,4 @@
 
-//「まぁ、デートなんてどこで覚えてきたのかしら……おマセさんねぇ」=
-//「下心があって誘ってるわけじゃないんだけどね……！」=
-//「うふふ、わかるわ、デートに憧れる年頃だものね。いいわよ、仲良くデートしましょ」=
+「まぁ、デートなんてどこで覚えてきたのかしら……おマセさんねぇ」=“My, just where did you pick up stuff like "going on a date"... what a precocious child~”
+「下心があって誘ってるわけじゃないんだけどね……！」=“Please understand that I'm not asking you out with any ulterior motive here...!”
+「うふふ、わかるわ、デートに憧れる年頃だものね。いいわよ、仲良くデートしましょ」=“Ufufu, I understand, you're just at that age. Sure, let's go on a date.”

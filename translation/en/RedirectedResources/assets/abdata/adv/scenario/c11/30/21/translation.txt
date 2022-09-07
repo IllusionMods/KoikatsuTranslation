@@ -1,4 +1,4 @@
 
-//「おはよう。あなた、今日、日直じゃなかった？　こんな時間に来てて大丈夫？」=
-//「しまった、忘れてた……！」=
-//「まぁ、それは大変だわ。急いで教室へ行きましょう。私もお手伝いしてあげるからね」=
+「おはよう。あなた、今日、日直じゃなかった？　こんな時間に来てて大丈夫？」=“Good morning. Don't you have day duty today? You sure you aren't running late?”
+「しまった、忘れてた……！」=“Damn, I forgot...!”
+「まぁ、それは大変だわ。急いで教室へ行きましょう。私もお手伝いしてあげるからね」=“My, that's not good. Let's rush to the classroom together. I'll lend you a hand too.”
