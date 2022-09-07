@@ -1,5 +1,5 @@
 
-「んーっ、よく寝た。……あれ？　メモがある。なになに――」=“Mmm, I slept well. ...Oh? There's a letter. What's it say...?”
-//『メッセージが来るかもしれないから、出かけてくるね』=
-//『できれば[P]くんも一緒に来て欲しかったけど、気持ちよさそうに寝てて……』=
-//『えっちも、疲れ過ぎないように、考えてする必要があるかも？』=
+「んーっ、よく寝た。……あれ？　メモがある。なになに――」=“Nnn, I slept well. ...Huh? There's a note. Let's see---”
+『メッセージが来るかもしれないから、出かけてくるね』=「They might send a message, so I'm heading out, okay?」
+『できれば[P]くんも一緒に来て欲しかったけど、気持ちよさそうに寝てて……』=「I really wanted you to come with me too but, you were sleeping so tight, I just couldn't bring myself to wake you...」
+『えっちも、疲れ過ぎないように、考えてする必要があるかも？』=「We might need to rethink the way we have sex. I'd rather you didn't burn out from it.」

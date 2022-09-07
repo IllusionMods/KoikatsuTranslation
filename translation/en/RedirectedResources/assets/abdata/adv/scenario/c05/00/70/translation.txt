@@ -1,4 +1,4 @@
-//「さて、今日も勉強がんばろうか」=
-//「あなたってけっこうかわいい鉛筆使ってるんだ」=
-//「これ？　書きやすくて好きなんだ。そっちはシンプルなの使ってるんだね」=
-//「向こうに持っていけるか分からないし、お気に入りはあまり作らないようにしてるの」=
+「さて、今日も勉強がんばろうか」=“Now then, let's do our best today too, shall we?”
+「あなたってけっこうかわいい鉛筆使ってるんだ」=“That's a pretty cute pencil you've got.”
+「これ？　書きやすくて好きなんだ。そっちはシンプルなの使ってるんだね」=“This? I like it, since it's easy to write with. Yours is pretty simple, huh?”
+「向こうに持っていけるか分からないし、お気に入りはあまり作らないようにしてるの」=“I don't know if I'll be able to take things with me when I go, so I actively try not to get attached to things.”

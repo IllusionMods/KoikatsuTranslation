@@ -1,6 +1,6 @@
-//「コイカツ部……うん、いいよ。わたしも入る」=
-//「ありがとう。これからは部活の一員としてもよろしくね」=
-//「これって、あなたと仲良くする部、ってことでいいの？」=
-//「そうだね。活動ってことにすれば、できることも増えると思うし……」=
-//「そ、それじゃ、本に書いてたあれもできるかも……」=
-//「わたしが仲間のところへ帰るためにも、部活がんばるね♪」=
+「コイカツ部……うん、いいよ。わたしも入る」=“Koikatsu club... okay, sure. I'll join it too.”
+「ありがとう。これからは部活の一員としてもよろしくね」=“Thank you. Let's take good care of each other, as fellow club members.”
+「これって、あなたと仲良くする部、ってことでいいの？」=“Is it okay for me to think of it as a club just for getting close to you?”
+「そうだね。活動ってことにすれば、できることも増えると思うし……」=“Yeah. We'll be able to do even more stuff together, if we label it as a club activity so...”
+「そ、それじゃ、本に書いてたあれもできるかも……」=“T-Then, maybe we could also try what I saw in that book...”
+「わたしが仲間のところへ帰るためにも、部活がんばるね♪」=“Since it'll help me make my way back to my comrades, I'll do my best♪”

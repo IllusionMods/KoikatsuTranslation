@@ -1,5 +1,5 @@
 
-//「[H]さんは、誰かとこんな風にお昼を食べることって多い？」=
-//「あんまりないよ、特に男の子となんかはね。あなたくらいじゃないかな」=
-//「そうなんだね。もぐもぐ……もぐもぐ」=
-//「男の子って、そんなにいっぱい食べるんだ。よかったら、わたしの分も食べる？」=
+「[H]さんは、誰かとこんな風にお昼を食べることって多い？」=“Do you eat lunch like this often, with others, [H]-san?”
+「あんまりないよ、特に男の子となんかはね。あなたくらいじゃないかな」=“Not really, especially not with boys. You're the only one.”
+「そうなんだね。もぐもぐ……もぐもぐ」=“I see. *chew chew*... *chew chew*”
+「男の子って、そんなにいっぱい食べるんだ。よかったら、わたしの分も食べる？」=“Boys eat that much, huh? Want to have some of mine too?”
