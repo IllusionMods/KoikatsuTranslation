@@ -1,2 +1,2 @@
-//「あ～、今日は楽しかったんだなぁ」=
-//「また一緒にでかけようぞ！　では、また」=
+「あ～、今日は楽しかったんだなぁ」=“Ah~, today was so much fun~”
+「また一緒にでかけようぞ！　では、また」=“Let's hang out together again! See ya then.”

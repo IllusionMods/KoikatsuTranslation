@@ -1,3 +1,3 @@
-//「どうだった、かな、ワタシ？　あまり慣れてないと思うんだけど」=
-//「とっても良かったよ」=
-//「そ、そっかぁ。なら、良かったなぁ」=
+「どうだった、かな、ワタシ？　あまり慣れてないと思うんだけど」=“How was, I? Personally I think I could have done with being less nervous.”
+「とっても良かったよ」=“You were great.”
+「そ、そっかぁ。なら、良かったなぁ」=“I-I see~. I'm glad then~”

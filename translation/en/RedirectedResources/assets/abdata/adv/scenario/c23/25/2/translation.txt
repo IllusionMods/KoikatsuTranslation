@@ -1,7 +1,7 @@
-//「あなたと話すのはなんだか楽しいなぁ」=
-//「仲良くなると、もっと話したいことが増えていきそうだね」=
-//「そうだね。もっと仲良くなれたらいいね」=
-//「ゲームやアニメの話もまだ話したいことあるんだ。二次元は奥深くて」=
-//「また聞きたいよ。これからもよろしくね」=
-//「えぇ、よろしく（照）」=
-//「また話せると、うれしいなぁ。では、また」=
+「あなたと話すのはなんだか楽しいなぁ」=“Chatting with you is kinda fun~”
+「仲良くなると、もっと話したいことが増えていきそうだね」=“Bet we'll probably keep finding more and more things to chat about, the closer we get.”
+「そうだね。もっと仲良くなれたらいいね」=“Yeah. I hope we do.”
+「ゲームやアニメの話もまだ話したいことあるんだ。二次元は奥深くて」=“I still wanna talk lots about anime and games. The second dimension is so deep and profound.”
+「また聞きたいよ。これからもよろしくね」=“I'd love to talk more about it. Let's keep chatting lots and lots, alright?”
+「えぇ、よろしく（照）」=“Yes, let's ^_^”
+「また話せると、うれしいなぁ。では、また」=“I hope you, come chat with me again. See you later.”

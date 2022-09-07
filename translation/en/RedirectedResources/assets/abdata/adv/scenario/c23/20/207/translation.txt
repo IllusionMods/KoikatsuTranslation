@@ -1,6 +1,6 @@
-//「本当はまだここで遊んでたいけど……そうもいかないね」=
-//「……どうして楽しい時間ほど、早く過ぎるのかな？」=
-//「たぶん、それだけ濃密な時間を過ごしたってことだと思うよ」=
-//「なるほど……うん、きっとそうなんだろうね」=
-//「……これ以上遅くなるといけないし、帰ろうか」=
-//「ですな……今日は楽しい時間をありがとうなんだなぁ」=
+「本当はまだここで遊んでたいけど……そうもいかないね」=“I honestly want to stick around longer and keep having fun but... we can't do that forever, can we?”
+「……どうして楽しい時間ほど、早く過ぎるのかな？」=“...Why does time pass faster, the more fun it is?”
+「たぶん、それだけ濃密な時間を過ごしたってことだと思うよ」=“Probably because it's more condensed that way, I feel.”
+「なるほど……うん、きっとそうなんだろうね」=“I see... yeah, it's probably that.”
+「……これ以上遅くなるといけないし、帰ろうか」=“...It'd be bad to stay out any longer, let's go home.”
+「ですな……今日は楽しい時間をありがとうなんだなぁ」=“Yeah... thank you for showing me such a good time today~”

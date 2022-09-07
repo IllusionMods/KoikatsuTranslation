@@ -1,5 +1,5 @@
-//「ここは……こうかな」=
-//「えぇ……そうだね……ふぅ、ＭＰがなくなりそう」=
-//「一緒にがんばろうね」=
-//「えぇ、やろう。スタミナアイテムがほしいなぁ」=
-//「もうすこしだ」=
+「ここは……こうかな」=“This goes... like this, I guess?”
+「えぇ……そうだね……ふぅ、ＭＰがなくなりそう」=“Yes... it does... fuu, I'm almost out of MP.”
+「一緒にがんばろうね」=“Let's pull through together.”
+「えぇ、やろう。スタミナアイテムがほしいなぁ」=“Yes, let's. Though I'd love a stamina potion right now.”
+「もうすこしだ」=“Just a bit longer.”

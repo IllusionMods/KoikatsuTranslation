@@ -1,3 +1,3 @@
-//「デートですとー！　これは、これはどうしよう……」=
-//「ダメだったかな」=
-//「いえ、急でビックリしたけど、興味はあるし、むしろ楽しみなのでＯＫだよ」=
+「デートですとー！　これは、これはどうしよう……」=“A date! What do I, what do I do...”
+「ダメだったかな」=“Should I not have asked?”
+「いえ、急でビックリしたけど、興味はあるし、むしろ楽しみなのでＯＫだよ」=“No, I just got surprised with how suddenly you asked, I'm actually very interested in it, heck, I'm super excited so it's an OK from me dawg.”
