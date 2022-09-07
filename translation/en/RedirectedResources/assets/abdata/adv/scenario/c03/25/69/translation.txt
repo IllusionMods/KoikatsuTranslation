@@ -1,7 +1,7 @@
-//「今日は私史上、一番頑張ったかもしれないですー！」=
-//「そんなに！？　でもまぁ、俺も確かに頑張れたかも」=
-//「ですです！　やっぱりお勉強は誰かと一緒にやるに限るです」=
-//「誰かと一緒だと、サボるわけにいかないですからね」=
-//「それだと何だかお互いに監視してるみたいだよ」=
-//「はいです！　あながち間違ってはいないのです！」=
-//「あ、あはは……わりと緊張感のある勉強会だったんだ……」=
+「今日は私史上、一番頑張ったかもしれないですー！」=“I think that was the hardest I've ever worked on anything, ever!”
+「そんなに！？　でもまぁ、俺も確かに頑張れたかも」=“That hard?! But, well, I think I went pretty all in too.”
+「ですです！　やっぱりお勉強は誰かと一緒にやるに限るです」=“Exactly, exactly! Studying together really is the only viable way.”
+「誰かと一緒だと、サボるわけにいかないですからね」=“Since you can't really slack off when you're studying with someone, afterall.”
+「それだと何だかお互いに監視してるみたいだよ」=“You make it sound like we spent the whole time just watching each other.”
+「はいです！　あながち間違ってはいないのです！」=“That's not necessarily untrue, yes!”
+「あ、あはは……わりと緊張感のある勉強会だったんだ……」=“A-Ahaha... that was quite the tense study session...”

@@ -1,4 +1,4 @@
-//「たまにはこういうところで寄り道して、怒られたりとかされてみたいですね」=
-//「なっ！？　いきなりの爆弾発言！」=
-//「あっ、変な意味じゃないですよ！？　ただ、あなたと二人で経験したら……それも思い出になるかなって思っただけです」=
-//「どんな出来事でも、あなたとの思い出になるならいいかなー……って、そう思っちゃったのです♪」=
+「たまにはこういうところで寄り道して、怒られたりとかされてみたいですね」=“I can't help but want to make a stop at a place like this sometimes, if only just to get chewed out at home later for being late.”
+「なっ！？　いきなりの爆弾発言！」=“Wha--?! That's quite the bombshell!”
+「あっ、変な意味じゃないですよ！？　ただ、あなたと二人で経験したら……それも思い出になるかなって思っただけです」=“Ah--, I didn't mean it in a weird way, you know?! It's just, if it's something we experience together then... even something like that would become a good memory, and stuff.”
+「どんな出来事でも、あなたとの思い出になるならいいかなー……って、そう思っちゃったのです♪」=“No matter what it is, if it let's me make more memories with you, then I think I'm fine with it... was what I was thinking, that's all♪”

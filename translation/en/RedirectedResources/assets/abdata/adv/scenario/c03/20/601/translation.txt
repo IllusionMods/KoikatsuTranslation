@@ -1,6 +1,6 @@
-//「こ、ここが……いわゆるラブホテルというところ……ですか！？　なんというかっ……入った瞬間からドキドキなのですっ！」=
-//「分かる。結構緊張するよね」=
-//「はいです……私、初めてですし……そもそも、ホテルなんて……お父さんお母さんと旅行した時か、修学旅行の時くらいしか入ったことないですし……」=
-//「でも……その……こ、ここはっ……そういう意味のホテルじゃないんですよね……あの……あ、あなたと……」=
-//「うん……[H名]……いい？」=
-//「はいです♪　私も……そのつもりで来たですから」=
+「こ、ここが……いわゆるラブホテルというところ……ですか！？　なんというかっ……入った瞬間からドキドキなのですっ！」=“T-This is... a love hotel...?! How do I say this--... my heart's been pounding non-stop since we entered!”
+「分かる。結構緊張するよね」=“I feel you. Can't help being tense, right?”
+「はいです……私、初めてですし……そもそも、ホテルなんて……お父さんお母さんと旅行した時か、修学旅行の時くらいしか入ったことないですし……」=“Yes... It's my first time too... to begin with, I've never really... I've only ever stayed in hotels when we went on trips as family, or during school field trips...”
+「でも……その……こ、ここはっ……そういう意味のホテルじゃないんですよね……あの……あ、あなたと……」=“But... uhm... t-this place is--... not that sort of a hotel, is it... uhm... y-you and I will...”
+「うん……[H名]……いい？」=“Yeah... [H]... do you mind?”
+「はいです♪　私も……そのつもりで来たですから」=“Not at all♪ That's... what we came here for, afterall.”
