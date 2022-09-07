@@ -377,7 +377,7 @@
 「あんた、ほんと熱心よね～。……私も協力してあげよっか？」=“You're really passionate, aren't you~. ...Want my help too?”
 「もうダメ、お腹空きすぎて死んじゃう……」=“I can't no more, I'm gonna starve to death...”
 「あのさ、この後時間ある？　それとも予定あるかな……」=“Listen, do you have time after this? Or do you already have plans...”
-「あ♡　……コホン。な、何か用？」=“Ah♡ ,,,,*cough*. N-Need something?”
+「あ♡　……コホン。な、何か用？」=“Ah♡ ....*cough*. N-Need something?”
 「もー、話しかけるの遅い。……待ってたんだから」=“Jeez, you're so late. ...I've been waiting this whole time.”
 「突然フラッと散歩したくなっちゃうんだよね」=“Sometimes you get an urge to just go and take a walk, don't you?”
 「わかる！　ねぇ、今度、街を探索しに行かない？」=“I feel you! Hey, wanna go explore the town sometime?”
