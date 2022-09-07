@@ -1,5 +1,5 @@
-﻿「どこかに寄ってく？」=Wanna stop by somewhere?
-「おーっ、いいぞー。どっか行きたいとこあるか？」=Oh--, sure. Is there any place you wanna hit up?
-「どこ行こうか。二人で遊べそうな……」=A place, huh? Some place we could have some fun...
-「んー？　もしかして、あたしをアヤシーとこに連れ込んじゃおう、とか？」=Nn? Trying to take me to one of those seedy places?
-「何言ってるんだよ！？」=The heck are you saying!?
+「どこかに寄ってく？」=“Wanna stop by somewhere?”
+「おーっ、いいぞー。どっか行きたいとこあるか？」=“Oh--, sure. Is there any place you wanna hit up?”
+「どこ行こうか。二人で遊べそうな……」=“A place, huh? Some place we could have some fun...”
+「んー？　もしかして、あたしをアヤシーとこに連れ込んじゃおう、とか？」=“Nn? Trying to take me to one of those seedy places?”
+「何言ってるんだよ！？」=“The heck are you saying!?”

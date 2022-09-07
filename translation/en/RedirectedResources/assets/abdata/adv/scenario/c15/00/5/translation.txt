@@ -1,3 +1,3 @@
-﻿「うん、いいぞ！　それじゃ、早速！」=Yeah, okay! Well then, let's go!
-「ちょ、乗り気なのは嬉しいけど、待って！」=Hey, I'm really glad that you're into this but, hold on!
-「早く、早く！　置いてっちゃうぞ！」=Quickly, quickly! I'mma leave you behind, you know!
+「うん、いいぞ！　それじゃ、早速！」=“Yeah, okay! Well then, let's go!”
+「ちょ、乗り気なのは嬉しいけど、待って！」=“Hey, I'm really glad that you're into this but, hold on!”
+「早く、早く！　置いてっちゃうぞ！」=“Quickly, quickly! I'mma leave you behind, you know!”

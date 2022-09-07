@@ -1,5 +1,5 @@
-﻿「……で、ここにこの数字を代入して……」=...And then, you substitute in this from before...
-「……くー……」=...Kuuh...
-「って、おーい？」=...Hey. You there?
-「はっ！　ね、寝てなんかないぞ！　睡眠学習を試してみただけだぞ？」=Hah--! I-I wasn't asleep at all! I was just trying out some sleep-learning, yeah!
-「いや、それ寝てるだけだから」=That's just regular sleeping.
+「……で、ここにこの数字を代入して……」=“...And then, you substitute in this from before...”
+「……くー……」=“...Kuuh...”
+「って、おーい？」=“...Hey. You there?”
+「はっ！　ね、寝てなんかないぞ！　睡眠学習を試してみただけだぞ？」=“Hah--! I-I wasn't asleep at all! I was just trying out some sleep-learning, yeah!”
+「いや、それ寝てるだけだから」=“That's just regular sleeping.”
