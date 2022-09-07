@@ -1,2 +1,2 @@
-//「お、やっと起きたな。なんか幸せそうにへらへらしてたけど、良い夢見れたか？」=
-//「へへ、あたしは見てたよ。一緒に寝ると安心するからかな？」=
+「お、やっと起きたな。なんか幸せそうにへらへらしてたけど、良い夢見れたか？」=“Oh, you're finally awake. You were chuckling so happily, did you see a good dream?”
+「へへ、あたしは見てたよ。一緒に寝ると安心するからかな？」=“Hehe, I for one did. I wonder if it's because I feel safe next to you?”

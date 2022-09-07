@@ -1,2 +1,2 @@
-//「おはよ♪　シャワー借りたぞ。おまえも早く入ってこいよ」=
-//「うっ……起きたばっかりでもうそんなになってるのか……と、とりあえずシャワー浴びてきなって！」=
+「おはよ♪　シャワー借りたぞ。おまえも早く入ってこいよ」=“Morning♪ I borrowed your shower. Take one yourself, quickly.”
+「うっ……起きたばっかりでもうそんなになってるのか……と、とりあえずシャワー浴びてきなって！」=“Uu--... it's barely morning and you're already like that... a-anyways, go take a shower!”

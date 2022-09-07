@@ -1,8 +1,8 @@
-//「何か憧れのシチュエーションってないかな？」=
-//「えっ！　あたしか？　う、うーん……後ろからハグ……とか？」=
-//「おぉ！　それいいね！　なんかすっごく乙女っぽいていうか」=
-//「乙女言うな！　や、やんないぞ……やらないからな！」=
-//「いや、折角だしやってみようよ！　ほら、後ろ向いて」=
-//「えっ、えっ、ちょ、強引だぞ！　ふぁっ……なんかこれ……ふわってしてぇ……」=
-//「うぅ、いつまで抱き着いてるんだよぉ……あたし……匂いとか変じゃないか？」=
-//「大丈夫だよ。甘酸っぱくて良い匂い、すごく女の子っぽい感じ……」=
+「何か憧れのシチュエーションってないかな？」=“Don't you have lovey dovey situations you'd love to act out?”
+「えっ！　あたしか？　う、うーん……後ろからハグ……とか？」=“Eh--! Me? N-Nnn... a hug from behind... something like that?”
+「おぉ！　それいいね！　なんかすっごく乙女っぽいていうか」=“Ooh! That sounds nice! Sounds so girly and stuff.”
+「乙女言うな！　や、やんないぞ……やらないからな！」=“Don't call it girly! I-I ain't doin' it... I ain't!”
+「いや、折角だしやってみようよ！　ほら、後ろ向いて」=“C'mon, don't be like that, let's try it! C'mon, turn around.”
+「えっ、えっ、ちょ、強引だぞ！　ふぁっ……なんかこれ……ふわってしてぇ……」=“Eh--, eh--, hey, stop, I said stop! Fuah--... this kinda... makes me feel so warm...”
+「うぅ、いつまで抱き着いてるんだよぉ……あたし……匂いとか変じゃないか？」=“Uuu, just how long are you gonna hug me for... do I... smell, or anything?”
+「大丈夫だよ。甘酸っぱくて良い匂い、すごく女の子っぽい感じ……」=“Not at all. It's kind of sweet and sour, a really girly scent...”

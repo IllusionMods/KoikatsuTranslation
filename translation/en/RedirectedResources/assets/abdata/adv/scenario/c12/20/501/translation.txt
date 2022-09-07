@@ -1,5 +1,5 @@
-//（待ち合わせ１０分前。うん、丁度いい感じで到着っと。[H名]はもういるかな？）=
-//「おーい！　こっちだこっちー！　愛しの彼女がお待ちかねだぞ～！」=
-//「うわっ、[H名]！？　わかったから！　騒ぎ過ぎだって、周りからめちゃくちゃ見られてるよ？」=
-//「え゛？　マジか……あぁ、ほんとだ……ぅぅ、おまえ、何とかしろ！」=
-//「と、とりあえず移動しようか。ここにいると恥ずかしいし」=
+（待ち合わせ１０分前。うん、丁度いい感じで到着っと。[H名]はもういるかな？）=(Got here 10 minutes early. Yep, perfect. Wonder if she's already here?)
+「おーい！　こっちだこっちー！　愛しの彼女がお待ちかねだぞ～！」=“Oooi! Over here! Your beloved girlfriend's dying from all this waiting~!”
+「うわっ、[H名]！？　わかったから！　騒ぎ過ぎだって、周りからめちゃくちゃ見られてるよ？」=“Uwah--, [H]?! I got it, I got it so calm down! Everyone's staring, you know?”
+「え゛？　マジか……あぁ、ほんとだ……ぅぅ、おまえ、何とかしろ！」=“Eh? For real?... aaah, damn... uuu, hey, fix this!”
+「と、とりあえず移動しようか。ここにいると恥ずかしいし」=“A-Alright, let's go somewhere else then. Can't stay here.”

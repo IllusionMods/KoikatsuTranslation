@@ -1,4 +1,4 @@
-//「結構暗くなっちゃったな。おまえといると時間が経つのが早いよ」=
-//「改めてそう言われちゃうと照れるな」=
-//「照れろ照れろ、その顔が見たくて恥ずかしいの我慢して言ったんだからな」=
-//「はぁ、[H]には敵わないな」=
+「結構暗くなっちゃったな。おまえといると時間が経つのが早いよ」=“It's gotten pretty dark, hasn't it? Time flies when I'm with you.”
+「改めてそう言われちゃうと照れるな」=“Man, you're gonna make me blush.”
+「照れろ照れろ、その顔が見たくて恥ずかしいの我慢して言ったんだからな」=“Go on, blush, that's why I said it anyway, I wanted to see your blushing face, even though it made me blush too.”
+「はぁ、[H]には敵わないな」=“Haah, I can't win against you, [H].”
