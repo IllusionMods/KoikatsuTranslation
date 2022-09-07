@@ -1,4 +1,4 @@
-「……っ、やったぁ！　一位だ！」="...I won! First place!"
-「……むぅ」="...Yay."
-「じゃあ約束のジュース、お願いね」="Okay, where's the thing you promised?"
-「……残念。けど次は、勝つ……！」="...I don't have it. Maybe next time...!"
+「……っ、やったぁ！　一位だ！」=“...--, Yay! I'm first!”
+「……むぅ」=“...Muh.”
+「じゃあ約束のジュース、お願いね」=“I'd like that can of juice I was promised, thanks.”
+「……残念。けど次は、勝つ……！」=“...Darn. But I'll definitely win, next time...!”

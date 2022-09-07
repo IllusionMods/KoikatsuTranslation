@@ -1,5 +1,5 @@
-「ふぅ……たくさん遊んだから、疲れちゃった。[H名]は大丈夫？」="I'm sorry...I'm just tired. Are you okay, [H名]?"
-「ん……平気。まだ遊ぶ元気、あるくらい」="Hm... I'm fine. Don't worry about me."
-「ははは、[H名]は逞しいなぁ」="Hahaha, you're pretty strong, [H名]."
-「……あなたが、だらしないだけ。もっと、しっかりしなきゃ、たくさん遊べない」="...You're a bit sloppy. You just need to build up your stamina, take frequent breaks. That sort of thing."
-「うっ、反省するよ……」="Yeah, I'll think about it..."
+「ふぅ……たくさん遊んだから、疲れちゃった。[H名]は大丈夫？」=“Fuu... we ran around lots so, I'm tired now. You holding up okay, [H]?”
+「ん……平気。まだ遊ぶ元気、あるくらい」=“Nn... I'm fine. I still feel like, running around more.”
+「ははは、[H名]は逞しいなぁ」=“Hahaha, you're pretty strong, [H].”
+「……あなたが、だらしないだけ。もっと、しっかりしなきゃ、たくさん遊べない」=“...You're just, weak. You gotta, get a grip, else we won't be able to run around lots.”
+「うっ、反省するよ……」=“Uu--, I'll be better...”

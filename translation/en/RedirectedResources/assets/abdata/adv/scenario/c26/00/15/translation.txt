@@ -1,2 +1,2 @@
-「……おはよう、[P]。シャワーかりたよ」="...Good morning, [P]. I showered this morning."
-「……どうしたの？　私の身体、何かついてる……？」="...What's wrong? Is there something on me...?"
+「……おはよう、[P]。シャワーかりたよ」=“...Morning, [P]. I borrowed your shower.”
+「……どうしたの？　私の身体、何かついてる……？」=“...What's the matter? Is there, something on my body...?”

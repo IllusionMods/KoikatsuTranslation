@@ -1,5 +1,5 @@
-「……うん、いいよ」="...Yeah, OK."
-「そうだよね。けどそれでも……って、いいの！？」="That's right. But, 'good?!'"
-「……したくないの？」="Do you not want to?"
-「いや、したいけど……本当にいいの？」="No, I still want to... but is it really right?"
-「……うん。あなたとなら……いい、よ」="Yeah... If you are... okay."
+「……うん、いいよ」=“...Yeah, okay.”
+「そうだよね。けどそれでも……って、いいの！？」=“Of course. Even so, I just had to... wait, you're fine with it!?”
+「……したくないの？」=“...You don't wanna do it?”
+「いや、したいけど……本当にいいの？」=“No, I do but... you sure you're fine with it?”
+「……うん。あなたとなら……いい、よ」=“...Yeah. If it's with you... I don't, mind.”

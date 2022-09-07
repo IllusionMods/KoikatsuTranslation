@@ -1,5 +1,5 @@
-「へえ、色々あるんだね」="It seems like there's a lot going on here.
-「私は……バナナクレープが食べたい」="I'm hungry for... a banana crêpe.
-「うん、いいよ」="Yeah, OK."
-「……楽しかった、ありがとう」="That was fun, thank you."
-（よかった、喜んでもらえたみたいだ）=(I'm glad that she's happy.)
+「へえ、色々あるんだね」=“Hoh, there's all sorts, huh?”
+「私は……バナナクレープが食べたい」=“I wanna... eat a banana crepe.”
+「うん、いいよ」=“Yeah, alright.”
+「……楽しかった、ありがとう」=“...That was fun, thanks.”
+（よかった、喜んでもらえたみたいだ）=(Great, looks like she enjoyed it.)
