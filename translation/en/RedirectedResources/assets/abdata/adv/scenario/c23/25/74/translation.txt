@@ -1,5 +1,5 @@
-//「ハァ、ハァ、くたびれるなぁ」=
-//「はぁ、はぁ、マラソンすると、持久力がつくよ、がんばろう」=
-//「リアルは体力へると、きついよなぁ、そうだアニメの事を考えよう。たぁっ！」=
-//「あれ？　元気になった？」=
-//「そう見える？　これが夢と希望の力だよ。ふふふ、ふ」=
+「ハァ、ハァ、くたびれるなぁ」=“Haah, haah, I'm beat~”
+「はぁ、はぁ、マラソンすると、持久力がつくよ、がんばろう」=“Haah, haah, running a marathon like this, really builds your endurance, let's keep at it.”
+「リアルは体力へると、きついよなぁ、そうだアニメの事を考えよう。たぁっ！」=“Having your stamina bar go down in reality, is really rough, huh? Right, anime, time to think of anime. Tah--!”
+「あれ？　元気になった？」=“Huh? Full of energy again?”
+「そう見える？　これが夢と希望の力だよ。ふふふ、ふ」=“Is that how I look to you? This is the power of hopes and dreams. Fufufuh, fuh.”
