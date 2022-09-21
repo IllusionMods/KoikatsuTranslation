@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「さて、観覧車も乗ったし、あとはもう帰るだけかな？」=“Now then, we rode the ferris wheel too, all that's left is to go home now, no?”
 「そうだけど、改めて言うなよ。寂しくなるだろ」=“Yeah but, don't rub it in like that. You're gonna make me sad.”
 「じゃあ、もう少し遊んでいく？　あとほんの少しだけど、閉園まで時間はあるよ」=“Wanna stay for a bit longer then? There's still a little bit of time until they close the place down.”

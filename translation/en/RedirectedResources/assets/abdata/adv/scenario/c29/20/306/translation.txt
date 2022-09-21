@@ -1,8 +1,13 @@
-﻿「……ふぅ。結構歌いましたね」=...Fuu. We sure sang a lot.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「……ふぅ。結構歌いましたね」=...Fuu. We sure sang a lot.
 「だね。二人だと順番も早く回ってくるから」=We did. Turns also go a lot faster when there's just two people.
 「もしかして延長しすぎちゃったかなぁ、これは」=We might have ended up extending our slot out a bit too much.
 「どうしますか？　歌わずに時間まで過ごす方法もありますけれど」=What would you like to do? We could just spend our time without singing as well.
 「んー、そうだなぁ……」=Nnn, that's true...
+CHOICE:『このまま最後までいようか』=Let's just stay till the end.
+CHOICE:『今日はもう帰ろうか』=Let's go home for today.
 「だったら、このまま最後までいようか。せっかく延長したんだしね」=In that case, let's just stay till the end. We might as well, since we extended it.
 「わかりました。もし歌いたいのでしたら歌ってもいいですよ。聴いていますから」=Got it. If you feel like singing then feel free to do so. I'll listen.
 「それもいいけど、もっと他にやりたいことがあるんだ」=That's fine too but, there's some other stuff I'd rather do.
@@ -18,5 +23,3 @@
 「そうしましょう。では会計を――」=Let's do that. As for the bill--
 「あ、俺が払ってくるよ。ちょっと待ってて」=Ah, I'll go take care of it. Wait here a bit.
 「わかりました。ありがとうございます」=Got it. Thank you very much.
-CHOICE:『このまま最後までいようか』=Let's just stay till the end.
-CHOICE:『今日はもう帰ろうか』=Let's go home for today.

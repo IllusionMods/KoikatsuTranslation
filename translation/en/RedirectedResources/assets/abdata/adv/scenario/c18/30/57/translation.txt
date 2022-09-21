@@ -1,4 +1,7 @@
-﻿「家族以外で男の人と出かけるの、初めてです……。緊張します……」=It's my first time, going outside with a man not from my family... I'm getting nervous...
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「家族以外で男の人と出かけるの、初めてです……。緊張します……」=It's my first time, going outside with a man not from my family... I'm getting nervous...
 「俺もだよ。どこか行きたい場所はある？」=Me too. Is there any place you want to check out?
 「いえ、もしよければあなたにエスコートをお願いしたいです」=No, if it's alright, I'd like for you to take the lead and show me around.
 「わかった。任せて」=Got it. Leave it to me.

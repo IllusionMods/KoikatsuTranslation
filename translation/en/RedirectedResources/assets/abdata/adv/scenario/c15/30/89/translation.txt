@@ -1,4 +1,7 @@
-﻿「突然の提案なんだけど、試しに愛称で呼び合ってみない？」=I know it's a bit out of nowhere but, wanna try calling each other nicknames as a test?
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「突然の提案なんだけど、試しに愛称で呼び合ってみない？」=I know it's a bit out of nowhere but, wanna try calling each other nicknames as a test?
 「本当に突然だなー！　でもいいぞ。何か希望があるのか？　それともあたしが考えるのか？」=That really is out of nowhere! But sure. Want me to call you something specific? Or do you want me to think up of one?
 「ありがとう。実はもう、二人の愛称は考えてあるんだ。で、俺のことは[Pあだ名]って呼んでくれないかな？」=Thanks. I've actually already thought up nicknames for us. So, won't you call me [Pあだ名]?
 「うん！　……うん？　それって、なんか違くないかー？」=Okay! ...Huh? Are you sure about that one?

@@ -1,1 +1,4 @@
-﻿「こら！　ここは女子専用だぞ！　さっさと出てけー！」=Hey! This place is for girls only! Make like a tree and leave!
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「こら！　ここは女子専用だぞ！　さっさと出てけー！」=Hey! This place is for girls only! Make like a tree and leave!

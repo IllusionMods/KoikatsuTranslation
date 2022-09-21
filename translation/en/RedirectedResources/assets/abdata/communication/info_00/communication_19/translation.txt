@@ -1,4 +1,7 @@
-﻿「ひゃっ！？　こ、ここは女子トイレですよ～っ！」=Hyah--!? T-This is the girls' toilet, you know~!
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「ひゃっ！？　こ、ここは女子トイレですよ～っ！」=Hyah--!? T-This is the girls' toilet, you know~!
 「ひゃぁぁっ！？　み、見ないでください～っ！」=Hyaaah--!? D-Don't look~!
 「……今急いでるから、また今度……」=...I'm in a rush, so maybe later...
 「……なんでしょうか……？」=...What is it...?

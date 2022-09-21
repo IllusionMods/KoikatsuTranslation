@@ -1,2 +1,5 @@
-﻿「今日はとても楽しかった。時々、小説のヒロインみたいだなって思うくらい……」=I had a lot of fun today. So much so, sometimes I really felt like a heroine in a novel...
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「今日はとても楽しかった。時々、小説のヒロインみたいだなって思うくらい……」=I had a lot of fun today. So much so, sometimes I really felt like a heroine in a novel...
 「あ、えっと、また次も一緒にデートしようね。それじゃあまた……！」=Ah, erhm, let's go on a date again soon, okay? Well then, see ya...!

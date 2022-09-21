@@ -1,4 +1,7 @@
-﻿（ちょっと早く来すぎちゃったかな……待ち合わせまで、どうしよう）=(Did I get here a bit too early?... What should I do, till the meet-up time?)
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+（ちょっと早く来すぎちゃったかな……待ち合わせまで、どうしよう）=(Did I get here a bit too early?... What should I do, till the meet-up time?)
 （……ってあれ、[H名]じゃないか？　早すぎたと思ったくらいなのに）=(...Wait, huh, isn't that [H名]? And here I thought I was too early.)
 「ごめん[H名]、待たせちゃった？」=Sorry, [H名], did I make you wait?
 「そんなことないですよ」=Not at all.

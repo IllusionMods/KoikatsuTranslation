@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 照明スイッチ=Light Switch
 時計1=Clock 1
 時計2=Clock 2

@@ -1,4 +1,6 @@
-
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
 「あっ、運動ですか……」=“Ah--, exercise, you say...”
 「もしかして、あまり好きじゃなかった？」=“Not into it much, by any chance?”
 「いえ、体を動かすのは好きです。ただ、走ることが得意ではなくて……」=“No, I do love moving my body. It's just, running is not my strong suit...”

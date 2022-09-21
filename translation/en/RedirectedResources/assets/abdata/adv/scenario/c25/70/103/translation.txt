@@ -1,0 +1,17 @@
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「ふぅ～、キミと一緒にいると、時間が経つのが早いな～」=Fuu~, when I'm with you, time just flies by~
+CHOICE:『まだ時間ある？』=『Still got time?』
+CHOICE:『暗くなる前に帰ろうか』=『Shall we go home before it gets dark?』
+「えっと、まだ時間あるなら、もう少しここでデートしない？」=Erhm, if you still have some time, wanna keep our date going for a bit longer?
+「別にいいよ～。でも、疲れる様なことは無しだからね～？」=I don't really mind~. But, nothing tiring, okay?~
+「そういうのじゃないから大丈夫。二人で夜景を見たいんだ」=It's nothing like that, so don't worry. I just wanna watch the night sky with you.
+「それなら、全然問題ないっすよ～」=Oh, that's not a problem at all~
+「だね、もう夕方だなんて……これ以上、遅くなる前に今日は帰ろうか」=Yeah, to think it's already dusk... Maybe we should go home before it gets any darker.
+「そうっすね～……あ～、くたくたで体力限界、もう歩けな～い……」=Yeah~... ah~, my body's at the limit, I can't walk no mo~...
+「誰かがおんぶしてくれないと帰れないっすね～、これは……」=Darn, I won't be able to go home at this rate~, not unless someone gives me a piggyback ride...
+「さすがにおんぶは勘弁してほしいな……」=I really would prefer not to though...
+「う～ん、男気を見せて欲しかったけど、仕方ないっすね～」=Mmm, I wanted you to show off some of your manliess but, it can't be helped I guess~
+「妥協して肩車にしますか～」=I'll meet you halfway and have you give me a ride on your shoulders instead~
+「全然妥協されていない！　ってか普通に恥ずかしいんだけど！」=You're not meeting me halfway at all! That's really embarrassing!

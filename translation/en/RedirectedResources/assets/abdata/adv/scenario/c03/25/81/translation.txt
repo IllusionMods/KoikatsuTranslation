@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「はふー、今日みたいな日は屋上に限るです！　お天気良し！　気温も良し！　絶好のお昼ご飯日和！」=“Hafuh~, days like these absolutely must be spent on the roof! It's such nice weather out! The temperature's just perfect too! Truly, the perfect conditions for a good lunch!”
 「あはは、[H]って本当に元気だね。でも確かに今日の屋上は最高かも！」=“Ahaha, you really are a ball of energy, you know that? But, for sure, I think this is some of the best weather I've seen too!”
 「そうなのです！　しかも……実は結構穴場でして……ほら、あまり人がいないのです」=“Exactly! Not to mention... people actually don't tend to come here... I mean, look, there's almost nobody.”

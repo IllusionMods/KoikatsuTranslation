@@ -1,4 +1,7 @@
-﻿こんな、こんな事だめです、放してください=You, you mustn't, please let me go.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+こんな、こんな事だめです、放してください=You, you mustn't, please let me go.
 いやです、どうしてこんなことをするんですか=No, why are you doing this?
 やめて下さい…こんな事、一体何のつもりですか…！？=Please stop... Just why are you doing this...!?
 やめて、下さい、いやです、放してください=Stop, please, I don't want this, please let me go.

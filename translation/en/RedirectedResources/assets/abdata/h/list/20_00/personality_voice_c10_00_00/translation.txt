@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 ううっ、緊張するが……汝なら心配はいらん……かな？=Uuu--, I'm nervous but... with thee in control, I needn't worry... do I?
 な、慣れるのはもう少し時間が必要のようだ……=S-Seems that it'll take some more time for me to get used to this...
 えへへ、我と汝の愛を確かめ合おうぞ=Ehehe, let's confirm our love for each other.
@@ -33,7 +36,7 @@
 初めてであるからして……手ほどきを頼む=It's my first time, thusly... help me with the basics.
 よ、よいぞ、不慣れでも文句はいうなよ=A-Alright, do not complain, even if I fumble my way around.
 仕方がない……力を解放するときがきたようだな=It cannot be helped... seems that I'll have to unseal some of my power.
-//気持ちよくなりすぎても知らんからな=
+いいぞ、気持ちよくなりすぎても知らんからな=Sure, do not blame me later if thy mind gets warped from the pleasure.
 我に奉仕をたのむのか？　い、いいよ、上手くできるかわからないけど……=Going to request for me to serve thee? S-Sure, I don't know if I'll be able to do it well though...
 そんなことをしたら汝は我にかしずくことになるぞ=If I do this, thou shalt end up serving me instead. Do thou comprehend this?
 えへへ、満足させてあげる！=Ehehe, I'll satisfy you!
@@ -163,5 +166,3 @@
 あぁ……我がこんな格好になるなんて……羞恥の極みだ……=Aah... to think I'd take a pose like this... how shameful can someone be...
 恥ずかしくて顔が熱くなるよぉ……=I'm so embarrassed, my face is burning up...
 恥ずかしいのに、自然と体が求めてしまう=Even though it's so embarrassing, my body hungers for it.
-
-いいぞ、気持ちよくなりすぎても知らんからな=Sure, do not blame me later if thy mind gets warped from the pleasure.

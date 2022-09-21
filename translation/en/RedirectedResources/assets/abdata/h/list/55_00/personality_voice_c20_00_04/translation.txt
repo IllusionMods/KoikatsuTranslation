@@ -1,4 +1,7 @@
-﻿あ、あの、これは一体、何なんですか？=U-Uhm, just what, is this?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+あ、あの、これは一体、何なんですか？=U-Uhm, just what, is this?
 イ、いやです…こんな事…や、やめてください…=N-No, please... stop... s-stop this...
 もう、いやです、こんな事、したく、ありませんから=No, no more, I don't, want to do this.
 こ、こんなの、いやです…続けられ、ません…=I-I don't, like this... I can't, do this...

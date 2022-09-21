@@ -1,4 +1,6 @@
-
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
 「あら、おはよ～、[Pあだ名]」=“My, good morning~, [Pあだ名].”
 「あ！　おはよう、[Hあだ名]」=“Ah! Morning, [Hあだ名].”
 「うふふ、やっぱりいいわね～、この呼び方♪」=“Ufufu, these names really are nice~♪”

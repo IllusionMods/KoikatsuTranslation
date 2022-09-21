@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「[H名]は、よくカラオケ行ったりするの？」=“Do you often go to Karaoke, [H]?”
 「あたし、カラオケはあんまり……ゲームセンターには良く行くんだけど」=“Not really... I'm more home at arcades.”
 「そうなんだ。……ひょっとして、歌うの苦手だった？」=“I see. ...By any chance, are you bad at singing?”

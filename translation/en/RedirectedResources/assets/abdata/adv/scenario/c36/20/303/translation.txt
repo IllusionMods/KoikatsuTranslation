@@ -1,15 +1,17 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「ふぅ、大分歌ったわね。そろそろ時間かしら」="*Pant* we've sung a lot. I think the time is about up."
+//CHOICE:『延長して、もうちょっと歌おうよ』=
+//CHOICE:『そうだね。帰る仕度をしよっか』=
 「延長しようよ。俺、歌いたい曲がまだ残っててさ」="Let's extend the time. There are still songs I want to sing."
 「そうね。私も、もう少し歌いたい気分よ。延長なさい」="Well, I also want to sing a bit. Go prolong it."
 「やった。じゃあ、延長の電話を入れるね」="Yay. I'll make an extension call then."
 「もう終わりかぁ。楽しい時間はあっという間だね」="It's already over huh... Time flows when you have fun."
-「えぇ、なかなか楽しめたわ。貴方の歌以外はね。フフッ」="Yeah, I fairly enjoyed it. Apart from your singing. Fufu～"
+「えぇ、なかなか楽しめたわ。貴方の歌以外はね。フフッ」="Yeah, I fairly enjoyed it. Apart from your singing. Fufu~"
 「うぅ、またそんな事言って……結構ノってくれてたじゃん」="Uu, saying these things again... You had a blast, I can tell."
 「そろそろ仕度……あっ、でもあと一曲なら歌える時間あるよ！」="Yeah, let's get ready... Ah, but we have time for one more song!"
 「そうね……最後に貴方の声を聴くのも癪だし、私が歌うわ」="Hmm... It would be an offense to hear your voice at the end, so I'll be the one singing."
 「ひどいなぁ……ま、[H名]さんの歌声が聞けるならいいけど」="You're harsh... Well, it's fine if that means I get to hear Miss [H名]'s singing voice."
 『小さな手の平 掴める物は～♪　きっと限られているけど♪』="A palm so small, The things it can grasp~♪  It can't hold too much♪"
 （この曲、本当お気に入りだよなぁ）=(She must really like that song huh.)
-
-//CHOICE:『延長して、もうちょっと歌おうよ』=
-//CHOICE:『そうだね。帰る仕度をしよっか』=

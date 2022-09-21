@@ -1,4 +1,7 @@
-﻿「この時間だと、もうかなり暗いね」=It gets pretty dark at this time of day, doesn't it?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「この時間だと、もうかなり暗いね」=It gets pretty dark at this time of day, doesn't it?
 「うふふ♪　大人の時間の幕開けって感じがしてドキドキしない？」=Ufufu♪ Doesn't it feel exciting, the way it feels like the adults' time is just beginning and stuff?
 「ああ、思う思う。子供の頃、夜遅くまで起きてる大人が羨ましかったよね」=Aah, it does, it does. Back when I was a kid, I used to be jealous of all the adults who got to stay up till late.
 「子供を先に寝かせて、何かしてたんでしょうね～……ナニをしてたんだと思う？」=I'm sure they wanted to get up to something, after putting the kids to bed~... What do you think they were doing?

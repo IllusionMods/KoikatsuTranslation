@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「今日の儀式、楽しみだね……えへへ」=“I'm really excited, about today's ritual... ehehe.”
 「そうだね……それじゃ、行こうか」=“Right... let's go then.”
 「そう……こうやって手を繋いで……空に掲げるの」=“That's it... hold my hand like this... and look at the sky.”

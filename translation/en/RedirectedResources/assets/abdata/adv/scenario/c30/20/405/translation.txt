@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「[H名]のハンバーグ、焼き立てで美味しそうだね」=[H名], your hamburger steak sure looks fresh and delicious.
 「うん、お肉がまだジュージューいってて、いい匂いがするわ」=Yeah, the meat looks pretty juicy, and it smells great too.
 「火傷に気を付けてね。俺、そういうの食べると、いつも口の中火傷しちゃうから」=Be careful not to burn yourself. Whenever I eat something like this, I always end up burning my mouth.

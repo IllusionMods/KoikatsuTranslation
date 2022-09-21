@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「俺、今日はガッツリいっちゃうよ。豚カツ！」=“I'm gonna go hard today. Time to try out the pork cutlets!”
 「おお……学食の中でもあまり人気のないメニューに手を出したですね」=“Ooh... gonna challenge the menu item even people eating from the cafeteria refuse to try, huh?”
 「え？　一番人気でしょ？」=“Eh? It's the most popular, no?”

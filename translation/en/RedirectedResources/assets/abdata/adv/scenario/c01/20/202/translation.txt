@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 （！？　なんか、着ぐるみが近づいてきたぞ……！？）=(!? The mascot's, walking towards us...!?)
 「あ、風船。私がもらってもいいんですか？」=“Ah, a balloon. Are you sure I can have this?”
 「──ありがとうございます、大切にしますね」=“--Thank you very much, I'll treasure it.”

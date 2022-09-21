@@ -1,4 +1,6 @@
-
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
 「今日のデート、私のためにここを選んでくれたんだ……？」=“You picked this place today, just for me...?”
 「うん。好きなもの頼んでいいよ」=“Yeah. Feel free to order anything you like.”
 「いいの？　……ありがと。ふふっ♪」=“You sure? ...Thanks. Fufu--♪”

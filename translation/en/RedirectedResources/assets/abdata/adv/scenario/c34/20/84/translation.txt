@@ -1,4 +1,7 @@
-﻿「アノー……ＫＯＩ－ＫＡＴＳＵ部ハ、エッチする部活？」=Uhm... Is the Koikatsu club, a sex club?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「アノー……ＫＯＩ－ＫＡＴＳＵ部ハ、エッチする部活？」=Uhm... Is the Koikatsu club, a sex club?
 「いやいやいや、コイカツ部自体はとてもクリーンで健全な部活だよ……多分」=Nonono, the whole idea behind the Koikatsu club is to do clean and wholesome and family-friendly stuff... probably.
 「Ｉ　ｓｅｅ♪　ニッポン語の『アイ』と『コイ』、英語に直すとドッチも『Ｌｏｖｅ』ダカラ、言葉のｎｕａｎｃｅ難しいネー」=I see♪ When you translate "愛 (Ai)" and "恋 (Koi)" into English, both of them mean "Love", so the nuance is difficult to comprehend.
 「そうなんだ……あれ？　Ｌｏｖｅとｌｉｋｅは違うんだよね？」=I see... Huh? "Love" and "Like" are different, aren't they?

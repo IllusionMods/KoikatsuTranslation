@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「ん、もうこんな時間か」=Mmm, it's already this late, huh?
 「ええ、日が落ちてきましたね、あっという間です」=Yes, the sun has gone down, the day really flew by.
 「随分長居しちゃったな、そろそろ出よっか？」=We've stayed for plenty long, I think. Shall we leave?

@@ -1,1 +1,4 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「私のお願いを聞いてくれてありがとうございます。また……お願いしてもいいですか？」=“Thank you very much, for listening to my request. Could I... ask for the same thing again sometime?”

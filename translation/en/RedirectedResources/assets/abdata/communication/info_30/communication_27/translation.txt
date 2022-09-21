@@ -1,4 +1,6 @@
-
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
 「うわっ！　ちょっとあんた、何やってんのよ！　早く出て行って！」=“Uwah--! Hey, what are you doing! Get out of here already!”
 「何で入ってきてるワケ！？　ここ男子禁制なんだけど！」=“What's the grand idea, coming in here!? Boys ain't allowed in here!”
 「もういい？　私、あんたに構ってるほど暇じゃないんだけど」=“Is that all? I don't have time to waste on the likes of you.”
@@ -90,6 +92,7 @@
 「私って、とっつきにくくないよね……？」=“I'm not hard to approach, am I...?”
 「あー、良かった……初対面なのに声掛けてくれたの、あんただけだったから」=“Ah, thank goodness... I only asked because, you're the only person who's ever wanted to get to know me, rather than the other way around.”
 「うぅ、やっぱり……これでも頑張ってるんだけどな」=“Uuu, I knew it... I'm trying my best here though, you know?”
+「あんたに聞いた私が馬鹿だったわ……」=“I was an idiot, asking you of all people...”
 「あんた、動物は好き？」=“Do you like animals?”
 「私もすっごい好き！　毛がもふもふしてるのとか、最高よね」=“I love animals too! They're so fluffy and stuff, they're just the best, no?”
 「私も……なんかちょっと苦手。だって全然なついてくれないんだもん」=“Me too... I'm a bit bad with them. I can't help it, they don't take to me at all.”
@@ -349,6 +352,7 @@
 「あ、そうね……壁とか使えばひとりでもできるわよね……」=“Ah, of course... it's not like I can't play it by myself, I can just use a wall...”
 「コイカツ部に興味ない？　よかったら入ってほしいな」=“Interested in the koikatsu club, even a little bit? I'd love it if you joined.”
 「興味がないわけじゃないんだけど……私にはまだ早いかなって」=“It's not like I don't have any interest in it, but... I think it's a bit too early for me.”
+「部員、足りてないんだったら……私が入ってあげてもいいわよ」=“If you don't have enough club members... I don't mind joining in, you know?”
 「ちょっと付いてきて」=“Come with me for a bit.”
 「まさか告白……！？　え、違う？　……そ、それじゃあ、何の用なの？」=“Am I gonna get confessed to...!? Eh, no? ...W-Well then, what'cha need?”
 「そんな、急に言われても無理だから……！」=“I can't do it on such a short notice...!”

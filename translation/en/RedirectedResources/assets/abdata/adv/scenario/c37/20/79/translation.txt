@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「私のおかずとあなたのおかず、交換しましょう」=Let's exchange our side dishes.
 「ああ、それ食べてみたかったんだよね、ありがとう」=Aah, I did want to try some of that, thanks.
 「どうぞ。では、頂きます」=Go ahead. Well then, thanks for the food.

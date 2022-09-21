@@ -1,3 +1,7 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+モブ=Mob
 「こちらが私どもの式場になります」=“This here is our wedding hall.”
 「立派な式場だね」=“What a lovely hall.”
 「はい。こんなところで結婚式が体験できるなんて、素敵ですね」=“Yes. To think we'll get to experience this in such a place, it's just wonderful, isn't it?”
@@ -30,5 +34,3 @@
 （うろ覚えなんだけどなぁ……ま、なんとかなるか）=(I can only vaguely remember it though... Well, I'll manage it I suppose)
 「それでは、こちらで少々お待ちください」=“Well then, please wait here for a moment.”
 「わかりました」=“Got it.”
-
-モブ=Mob

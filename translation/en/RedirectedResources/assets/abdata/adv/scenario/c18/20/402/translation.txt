@@ -1,4 +1,7 @@
-﻿「[H名]って、よくコーヒーを注文するよね」=You sure go for coffee a lot, [H名].
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「[H名]って、よくコーヒーを注文するよね」=You sure go for coffee a lot, [H名].
 「喫茶店といえばコーヒーですから」=Well, it is a cafe. What else would you get?
 「確かに。でも、中にはコーヒーは無理、って人もいるよね」=You have a point. But, there're people out there who can't handle the stuff, aren't there?
 「そうらしいですね。気持ちはわからなくもないですけれど」=Seems so. It's not like I don't understand why though.

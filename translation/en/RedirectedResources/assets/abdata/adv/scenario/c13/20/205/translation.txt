@@ -1,4 +1,7 @@
-﻿「わぁ、マジたか～い！」=Wah, it's super tall~!
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「わぁ、マジたか～い！」=Wah, it's super tall~!
 「[H名]って、意外と高いのは平気なんだね」=You're pretty good with tall places, huh? I didn't expect that.
 「うん！　だってほら、こんなにも綺麗な夜景が見れるんだから！」=Yeah! Afterall, you can see such a beautiful view!
 「はは、そう言ってもらえるなら、来た甲斐があったな」=Haha, it was worth coming here, just to hear you say that.

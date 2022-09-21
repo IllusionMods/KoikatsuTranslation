@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 ………………=.........
 …………=......
 ……=...
@@ -8,6 +11,9 @@
 「学園でも会ってるし、今日だってずっと一緒にいたのに……不思議だよね」=“We always see each other at school, and we spent the whole day today together but still... it's just so weird, isn't it?”
 「……寂しくなるのは、当たり前よ。だって……それだけ、好きなんだから」=“...It's obvious, that it feels sad. Afterall... we just love each other, that much.”
 「[H名]……」=“[H名]...”
+CHOICE:『自宅に誘う』=Take to your place
+CHOICE:『ラブホに誘う』=Take to love hotel
+CHOICE:『さよならする』=Say goodbye
 「あのさ……このまま、うちに来れないかな？」=“Hey, listen... won't you come over to my place?”
 「……大丈夫よ。時間も、他のことも……うん、大丈夫」=“...Sure, I'm good. Good on time, and other stuff too... yeah.”
 （そんなこと言われたら、我慢できなくなるっ……家に連れ帰る時間さえ惜しい、今すぐにでも[H名]とシタい……！）=(I can't hold it in, not when she just said that--... forget enduring it till I can actually take her home, I want to ravage her right here and now...!)
@@ -24,7 +30,3 @@
 「唇にしたら、本当に離れたくなくなっちゃうから」=“If we actually kissed, on the lips, we really wouldn't be able to let each other go.”
 「それじゃあ、またね」=“Well then, see ya, okay?”
 「うん……また、学園でね」=“Yeah... see ya, at school.”
-
-CHOICE:『自宅に誘う』=Take to your place
-CHOICE:『ラブホに誘う』=Take to love hotel
-CHOICE:『さよならする』=Say goodbye

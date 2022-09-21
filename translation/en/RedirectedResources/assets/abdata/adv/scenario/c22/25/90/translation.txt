@@ -1,4 +1,7 @@
-﻿「あのね、私、実は君にお願いしたいことがあるのです！」=Uhm, listen, I've got a request!
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「あのね、私、実は君にお願いしたいことがあるのです！」=Uhm, listen, I've got a request!
 「ん？　改まってどうしたの？」=Hm? You're being awfully formal today, what's up?
 「うん、あのね……君のこと、愛称で呼んでみたいなーって……恋人同士でそういうことするの、前から憧れだったから……」=You see, it's... I was thinking that, maybe it'd be nice to use nicknames for each other... I've always dreamed of doing this sort of stuff, if I ever got a boyfriend so...
 「あ……うん、もちろんいいよ。確かに愛称っていいよね」=Ah... okay, no problem. Nicknames are pretty nice, for sure.

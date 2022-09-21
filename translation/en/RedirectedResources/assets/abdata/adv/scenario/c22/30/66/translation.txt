@@ -1,4 +1,7 @@
-﻿「あれ、もしかして……あそこのお店、新しくなった？」=Huh, did a... new store open there?
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「あれ、もしかして……あそこのお店、新しくなった？」=Huh, did a... new store open there?
 「ん？　そうだっけ？」=Hm? You think so?
 「うん、前はパスタ屋さんだったよー」=Yeah, it used to be a pasta restaurant, you know~
 「結構好きなお店だったのに残念……あ、でもでも新しいお店も美味しいかもしれないよね！」=Shame, I really liked the place too... ah, but the new outfit might be pretty nice too!

@@ -1,4 +1,7 @@
-﻿「Ｂｙ　ｔｈｅ　ｗａｙ，アナタは、何人のオンナノコとＫＯＩ－ＫＡＴＳＵしてきたのカナ？」=By the way, how many girls have you done these love-activities with so far?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「Ｂｙ　ｔｈｅ　ｗａｙ，アナタは、何人のオンナノコとＫＯＩ－ＫＡＴＳＵしてきたのカナ？」=By the way, how many girls have you done these love-activities with so far?
 「え？　えっと……その……」=Eh? Erhm... That's...
 「アッ、怒ってる訳じゃないカラネ。恋愛って、経験が大事思うカラ、アナタにはモット、他のオンナノコとＫＯＩ－ＫＡＴＳＵして欲しいノ」=Ah--, not to say that I'm mad at you. I think experience is important when it comes to love so, I'd actually prefer if you did love activities with even more women.
 「ええっ！？　でも……自分を棚に上げるようだけど、俺は[H]が他の男の人と恋するのは嫌だなぁ」=Eeeh--!? But... I realize I don't have any grounds to say this but, I'd hate to see you go out with any other man, [H名].

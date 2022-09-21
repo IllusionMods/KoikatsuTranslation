@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「ふぅ、いつ見てもいい景色だな。たまに一人で見に来たくなるくらいだよ」=“Fuu, always great, no matter when we come look at it. I almost feel like coming here by myself sometime, just to look at this.”
 「えっ、そういう時は俺も誘ってよ。いつだって付き合うからさ」=“Eh--, just ask me at that time. I'll make time for you, always.”
 「気持ちは嬉しいけど、深夜に起きちゃった時とかだぞ？　窓から星空を見上げると、ここの景色が浮かぶんだ」=“I appreciate how you feel but, I'm talking about when I wake up in the middle of the night, you know? When I look at the sky from my window, it reminds me of this place.”
@@ -10,6 +13,8 @@
 「うっ……ホントごめん。怖がらせるつもりはなかったんだけど……」=“Uu--... I really am sorry. I didn't mean to frighten you...”
 「んもう、違うって。ドキっていうのは……と、ときめいたって事。まだドキドキしてるから、胸触ってみるか？」=“Jeez, I'm telling you it's not like that. When I said I felt it in my heart, I meant... m-my heart skipped a beat. It's still pounding. Wanna try feeling it?”
 「えっ！？　いいの？　じゃあえっと……」=“Eh--?! You sure? Then, erhm...”
+CHOICE:『胸を触るだけじゃなくて、その先も……』=I want to go further, not just rub your chest...
+CHOICE:『遠慮しておくよ、そのまま襲っちゃいそうだし』=I'll pass, I think I'd just take you here if I did.
 「胸だけで収まる自信がないんだけど……いいかな？」=“I don't think I'm gonna be able to calm down just from rubbing your chest... do you mind?”
 「んっ、いいよ。これだけドキドキさせたんだ。ちゃんと責任持って、あたしの体を鎮めるんだぞ」=“Nn--, go ahead. You've made my heart pound so much, so take some responsibility and make my body calm down.”
 「任せて！　そういう事なら、得意だから！」=“Leave it to me! That's my speciality!”
@@ -32,6 +37,3 @@
 「それじゃあ、俺がしちゃうと止まらなくなると思うから……[H名]がオナニーするのを見てる……とか？」=“Well, I think I won't be able to stop once I start so... how about you masturbate and... I watch?”
 「うぇっ！？　そ、そこまでしなくていいっ！　あーもう帰るぞ！　帰る！　帰らないとダメだ！」=“Uweh--!? W-We don't need to go that far! Aah, jeez, I'm going home! Home! I need to go home!”
 「わぁっ、待って[H名]！　足元暗いんだから、そんなに急いだら、危ないって！」=“Wah--, wait, [H]! Be careful, you're gonna trip in the darkness!”
-
-CHOICE:『胸を触るだけじゃなくて、その先も……』=I want to go further, not just rub your chest...
-CHOICE:『遠慮しておくよ、そのまま襲っちゃいそうだし』=I'll pass, I think I'd just take you here if I did.

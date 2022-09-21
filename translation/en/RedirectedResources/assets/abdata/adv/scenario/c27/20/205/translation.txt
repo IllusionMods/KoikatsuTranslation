@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「……観覧車に乗るのって、随分久しぶりな気がするわ」=“...Really has been a long time, since I last got on one of these.”
 「そうなの？」=“Really?”
 「小さい頃に１回か２回乗って、それっきりね」=“I've only ridden these like once or twice, and only when I was a kid.”

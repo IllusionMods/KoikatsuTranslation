@@ -1,3 +1,6 @@
-﻿（ふぅ……もうすぐ駅か。今日のデートも楽しかったなぁ）=(Fuu... almost at the station, huh? Today's date sure was a blast too.)
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+（ふぅ……もうすぐ駅か。今日のデートも楽しかったなぁ）=(Fuu... almost at the station, huh? Today's date sure was a blast too.)
 （観覧車では二人きりで、いい雰囲気になれたし……）=(We got a really good mood going between us at the ferris wheel too...)
 （……この次も絶対[H名]と二人で楽しむデートにしよう！）=(...Let's have a really fun date together next time too!)

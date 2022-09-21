@@ -1,4 +1,7 @@
-﻿「ふぅ……」=Fuu...
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「ふぅ……」=Fuu...
 「いえーい！　わーわーわー！」=Yay! Wawawah!
 「あの……そんなに盛り上がるほどでしたか？」=Uhm... was it that exciting?
 「うんっ。可愛いけど芯がある感じで、すごく良い歌声だったよ！」=Yeah--. It was cute, but also full of substance, truly amazing singing!

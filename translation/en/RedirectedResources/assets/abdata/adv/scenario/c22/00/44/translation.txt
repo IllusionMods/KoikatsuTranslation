@@ -1,4 +1,7 @@
-﻿「へえ、色々あるんだね」=Hoh, there's all sorts here, huh?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「へえ、色々あるんだね」=Hoh, there's all sorts here, huh?
 「あ、新しいカフェ発見！　入ってみたいな」=Ah, look, a new cafe! I wanna go check it out.
 「うん、いいよ」=Sure, let's go.
 「美味しかったー！　お気に入りショップリストに追加決定だね！」=That was delicious! That's definitely going on my list of favourite shops!

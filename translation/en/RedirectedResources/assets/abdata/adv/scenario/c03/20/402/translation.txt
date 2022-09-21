@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「このお店って雰囲気もよくて……つい長居しちゃいそうですね」=“The mood in this place is so nice... I feel like a few hours could fly by and I wouldn't even notice.”
 「うん、のんびり出来るよね。学園の帰りに寄ってみたりとかしてもいいかも」=“Yeah, pretty easy to relax here, isn't it? Might be a nice stop to add to our walks back home from school.”
 「ですです。二人でこっそり寄り道……いいですね！　青春って感じです！」=“Exactly. A nice little detour... sounds nice! Feels like youth!”

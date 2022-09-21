@@ -1,4 +1,7 @@
-﻿「……ふう。はい、おしまい。次はあなたの番ね」=...Fuu. Alright. It's your turn next, isn't it?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「……ふう。はい、おしまい。次はあなたの番ね」=...Fuu. Alright. It's your turn next, isn't it?
 「いやぁ、やっぱり[H名]の歌はいいね。一生懸命歌ってる感じがグッとくるよ」=Man, you sure do sing well, [H名]. The feeling of you really just giving it your all makes my heart all warm.
 「そ、そんなこと……でも、ありがとう」=T-That's not... but, thank you.
 「私、カラオケなんて[P名]君以外と殆ど来たこと無いけど、歌うのって気持ちいいね」=I've never really gone out karaokeing with anyone else except you, [P名]-kun. Singing sure does feel amazing, huh?

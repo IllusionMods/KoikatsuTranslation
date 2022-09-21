@@ -1,1 +1,4 @@
-﻿「私、今すごく幸せだ……もっと、抱きしめて欲しい」=I'm genuinely really happy right now... hug me tighter.
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「私、今すごく幸せだ……もっと、抱きしめて欲しい」=I'm genuinely really happy right now... hug me tighter.

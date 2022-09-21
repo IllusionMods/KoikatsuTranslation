@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 どうですか？=How is it?
 感じてますか？=Are you feeling good?
 ぴくぴく動いてますよ=It's twitching so much.

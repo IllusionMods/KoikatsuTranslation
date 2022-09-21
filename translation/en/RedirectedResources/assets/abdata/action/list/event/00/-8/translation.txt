@@ -1,4 +1,7 @@
-﻿一人部長は大変なのです=It's Not Easy Leading Alone
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+一人部長は大変なのです=It's Not Easy Leading Alone
 今日も勧誘なのです=I'm Recruiting Again Today
 魅惑の円盤なのです=It's a Fascinating Disc
 宇宙Ｎｏ．１小悪魔なのです=I'm the Number One Little Devil in the Universe

@@ -1,4 +1,7 @@
-﻿「わぁ……メニューにあった写真通りで美味しそう」=Waah... it looks even more delicious than the picture on the menu did.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「わぁ……メニューにあった写真通りで美味しそう」=Waah... it looks even more delicious than the picture on the menu did.
 「ほんとだね。待ってる時間がもったいないしお先にどうぞ」=Really does. It'd be a waste to just stare at it while waiting for my order, so feel free to go ahead.
 「ありがとう。それじゃあ先にいただくね」=Thank you. Well then, I'll go ahead and dig in.
 「そういえばなんでパフェといえばいちごなんだろう？」=On that subject though, why are strawberries the default for parfaits?

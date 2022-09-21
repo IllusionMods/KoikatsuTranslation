@@ -1,3 +1,6 @@
-﻿「いいぞー。へへー、男子と下校なんて初めてだぞ」=Sure. Hehe~, it's my first time walking home with a boy.
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「いいぞー。へへー、男子と下校なんて初めてだぞ」=Sure. Hehe~, it's my first time walking home with a boy.
 「そうなんだ」=That so, huh?
 「うん！　よしっ、それじゃあ早速帰ろう～！」=Yeah! Alright--, let's head home right away~!

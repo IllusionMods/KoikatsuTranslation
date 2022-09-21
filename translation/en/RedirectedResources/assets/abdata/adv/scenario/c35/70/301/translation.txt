@@ -1,0 +1,27 @@
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「こ、これが東京のカラオケボックスなん？　私が知っとるんとちょっと違う……」=I-Is this what a Karaoke Box in Tokyo looks like? It's a bit different from what I'm used to...
+「……？　そうなの？　カラオケって言ったら全部こんな感じじゃない？」=...? That so? Aren't all Karaoke Boxes like this?
+「違う違う。私が知っとるんは、こう……広い敷地の入り口に受付があって……小っちゃい小屋がいくつも並んどって……真ん中にトイレがあると」=Not at all. The ones I know of, they're like... they have these big entrances, with the reception there and... lots of small rooms lined up side by side... with a toilet right in the middle of them all.
+「へぇ、そういうところもあるんだ？」=Hoh, places like that exist too?
+「うん。やっぱり田舎の方が土地があるけんかいな。こげんビルの中っぽいところは来たことないとよ」=Yeah. I guess it's because the countryside has lots of cheap land. I've never been in a small-ish place in a building like this.
+「あはは、それじゃある意味初体験だ。もしかしたら狭く感じちゃうんじゃない？」=Ahaha, then in a way, this is your first time in a place like this. Does it feel cramped or anything?
+「うん……でも……えへへ、二人きりやと思うと、このくらいで丁度いいかいな。君との距離も近いし……田舎のは広すぎるもん」=Yeah... but... ehehe, when I think about how it's just the two of us here, this much space is almost perfect. We're sitting close together and all... the ones back in the sticks are way too big.
+「もしかして地元でも恋人とかと一緒に行ったり……」=By any chance, have you been to karaoke in your homework with a boyfriend or two before...
+「違う違う。恋人とかおったことないよー。親戚の人とかが集まるとね、たまにみんなで行ったりしたん。それも小さい頃の話よ」=Not at all. I've never had a boyfriend before. It was when my relatives would gather together for one reason or another, we'd all go together. Even that's something from back when I was a kid.
+「やけん……その……カラオケに来ておいてなんやけど……私、歌うのってそこまで得意じゃないん」=So... uhm... I've come to do karaoke before but... I'm not all that good at singing.
+「というか、経験したことがあんまりなくて……想像以上に下手やったらごめんね」=Or rather, I don't have much experience with it so... if I suck really badly, I'm sorry, okay?
+「あはは、そんなこと気にしないって。二人きりなんだし、思いっきり声出して行こう！」=Ahaha, don't worry about that stuff. It's just us here, let's make lots of noise!
+（ちょっと緊張してるみたいだし、ここは俺から曲を入れた方がいいかもな）=(She seems a bit nervous, maybe I should take the first song here.)
+「それじゃ早速、入れちゃうね。俺に続いて、[H名]もどんどん入れてくれていいからね」=Well then, I'mma go ahead and put one in, okay? You should go ahead and put in whatever songs you like after me, okay?
+「うんっ！　少しドキドキするけど……君の前やったらどんなことでも出来そうな気がするん！　えへへ、楽しみなん！」=Yeah--! I'm a bit nervous but... I feel like I can pull off anything, as long as you're watching me! Ehehe, I'm looking forward to it!
+「果てしない空の下　どこかにきっとあるんだ♪」=It ought to be somewhere Under this sky stretching so far♪
+「目の前に広がる航路に地図重ねて♪」=Lay out the map, meld it with the path laid out in front of my eyes♪
+………………=.........
+…………=......
+……=...
+「はぁぁ、緊張したぁ～。でも君も一緒に歌ってくれたけん、めっちゃ楽しかったん！」=Haa, I was so nervous~. But, you sang it together with me, so it was a ton of fun!
+「あはは、良かった。誘った手前、楽しんでもらえなかったらどうしようって不安だったんだ」=Ahaha, I'm glad. I really would have had no idea what to do, if you didn't enjoy this date, after I promised to show you a good time and everything.
+「ううん、本当に楽しい。もっともっといっぱい歌いたくなったん！　次の私の番も、一緒に歌える曲入れていい？」=No, it really is fun. I wanna sing more, lots more! Can I put it in another duet song, on my next turn?
+「もちろん！　どんどん盛り上がっていこう！」=Go ahead! Let's get super fired up!

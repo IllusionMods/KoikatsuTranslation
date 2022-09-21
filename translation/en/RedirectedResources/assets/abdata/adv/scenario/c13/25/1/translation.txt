@@ -1,4 +1,7 @@
-﻿「あの、今って時間ある？　できれば少し話したいんだけど」=Uhm, do you have a moment? I'd like to have a chat with you, if possible.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「あの、今って時間ある？　できれば少し話したいんだけど」=Uhm, do you have a moment? I'd like to have a chat with you, if possible.
 「うん。大丈夫だよ～。何かあった？」=Yeah, it's alright~. Something the matter?
 「いや、普通に少し話してみたいなぁって……」=No, I just felt like talking to you for a bit, that's all.
 「マジ？ 実はアタシも話してみたかったんだ～」=For real? Actually, I wanted to chat with you too~

@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「この街にはもう慣れたのか？　よかったらキミを色んなとこに案内したいなー」=“Have you gotten used to the town yet? I'd love to show you around the place.”
 「ありがとう。でも、学園帰りで疲れてない？」=“Thanks. But, sure you're not too tired from school?”
 「ぜーんぜん、むしろここからが本番！　だろー？」=“Not at all, if anything, our day's just begun! No?”

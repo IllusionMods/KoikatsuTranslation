@@ -1,4 +1,7 @@
-﻿「ふいー、歌いきったぜー」=Fuuii~, I sung my heart out.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「ふいー、歌いきったぜー」=Fuuii~, I sung my heart out.
 「そういえば、[H名]ってアップテンポな曲ばかり歌ってるね」=Come to think of it, you've been singing only up-tempo songs, haven't you, [H名]?
 「別に、ばっかりってわけじゃないけどさ。どうせ歌うならテンションあがるのがいいだろ」=I mean, it's not like I go out of my way to sing only them but, if you're gonna sing you might as well sing exciting songs, no?
 「そうなんだ。でもたまには、気分を変えてみるのもいいんじゃないか？」=I see. But, wouldn't it be better to change it up every once in a while?

@@ -1,4 +1,7 @@
-﻿「……この式はこうして、こう解くと早いわ」=...It's faster to solve this equation this way.
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「……この式はこうして、こう解くと早いわ」=...It's faster to solve this equation this way.
 「おおっ……やっぱりすごいなぁ」=Ooh--... you really are amazing.
 「……そ、そんな事ないわよ。次の問題は？」=...N-Not at all. What's the next one?
 「え……ええと、次はこれなんだけど」=E... Erhm, that would be this.

@@ -1,4 +1,9 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「うむうむ、汝と有意義な時を過ごせたぞ！」=“Umu umu, what a worthwile expenditure of time it was!”
+CHOICE:『もう少し一緒にいれない？』=Can't you be with me a little longer?
+CHOICE:『今日はもう帰ろう』=Let's go home for today.
 「はは、ありがとう。でも、せっかくならもう少しだけ、一緒に有意義な時間を過ごさない？」=“Hahah, thanks. But since we're out anyway, won't you expend some more of it with me?”
 「ん？　公園内はもうほとんど見たであろう？　他に見るものでもあるのか？」=“Nn? We have already seen what all the park had to offer, no? Is there more yet for us to behold?”
 「うん、えっと……一度見た場所でも、時間によって違う景色になる。それはさながら妖精の悪戯のように」=“Yeah, erhm... even a place you've already explored, can look different at a different time of day. Take it as the mischief of a fairy, if you will.”
@@ -13,6 +18,3 @@
 「それなのに[H名]はそこへ行くのをやめて、この時間に留まるというのか？」=“You would rather throw that future away, all to wallow in the present?”
 「おぉ、なるほど！　確かにその通りだな。ふふ、では時間を止めるのはやめにするぞ」=“Ooh, I see! Thou art right, as always. Fufuh, I shall forego it this once then.”
 「ふふ…じゃあ、駅へ向かおうか」=“Fufuh... then, let's head to the station.”
-
-CHOICE:『もう少し一緒にいれない？』=Can't you be with me a little longer?
-CHOICE:『今日はもう帰ろう』=Let's go home for today.

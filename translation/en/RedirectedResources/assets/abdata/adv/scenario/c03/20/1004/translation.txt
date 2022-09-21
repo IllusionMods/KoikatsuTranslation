@@ -1,3 +1,7 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+モブ=Mob
 「お疲れ様でした。ふふっ、素敵な式でしたよ」=“Good work today. Fufu~ It was a lovely ceremony.”
 「本番の結婚式も、是非、私どもの式場で挙げてくださいね！」=“For your actual wedding as well, please, do call upon us!”
 「えっと、前向きに考えさせてもらいます」=“Uhm, sure, if we get to that point.”
@@ -12,5 +16,3 @@
 「あっ、いや、えっと……そういうことってきちんと伝えたいから……今はまだ言わないけど……でも……格好良くいられるように頑張るよ」=“Ah--, no, erhm... I want to do it properly, when the day comes... so I won't yet... but... I'll do my best to keep being a cool boyfriend.”
 「あ……はいですっ！　私もっ……私も世界一の花嫁さんになれるように頑張るですよーっ！」=“Ah... yes--! I'll do my--... I'll do my very best too, to become the most beautiful bride for you--!”
 （……本当、いい体験ができたな）=(...That really was, a wonderful experience.)
-
-モブ=Mob

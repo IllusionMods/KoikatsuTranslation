@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「[H名]、大丈夫？　フラフラしてるけど……」=“[H], you okay? You're looking a bit dizzy...”
 「す、すみません……少し、はしゃぎすぎてしまったみたいで……」=“I-I'm sorry... it seems I, ran around too much...”
 「それはまずいかも。ちょっとベンチで休憩しよう」=“That doesn't sound good. Let's sit on a bench and take a break.”

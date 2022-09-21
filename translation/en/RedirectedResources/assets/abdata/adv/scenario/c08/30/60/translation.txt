@@ -1,1 +1,4 @@
-﻿「色々な体験ができて楽しかったなぁ♪　また誘ってね！」=I got to try out so many things, it was a lot of fun♪ Ask me out again sometime!
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「色々な体験ができて楽しかったなぁ♪　また誘ってね！」=I got to try out so many things, it was a lot of fun♪ Ask me out again sometime!

@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 あまり動いちゃ駄目よ？　手元が狂っちゃうもの=Don't move too much, okay? We'll hit someone else.
 丁寧にやった方がいいわよね？　だって周りにバレては困るもの=We should do this slowly and carefully, right? I mean, it'd be real trouble if we get caught.
 今、どこ見てるの？　バレないよう、外見てなさい=Where are you looking right now? Look at the others, make sure we don't get caught.

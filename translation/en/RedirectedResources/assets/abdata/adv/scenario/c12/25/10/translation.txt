@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「コイカツ部って……な、なんか恥ずかしいというか……むず痒いんだよなぁ」=“The Koikatsu club... s-sounds kinda embarrassing, like... just the name makes me feel awkward.”
 「ダメかな。できれば一緒に活動したいんだけど」=“Will you really not join? I'd love to have you join our club activities.”
 「う、うーん。具体的には何をするんだよ」=“N-Nnn. Exactly what will we be doing?”

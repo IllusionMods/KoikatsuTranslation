@@ -1,4 +1,7 @@
-﻿「喫茶店の雰囲気ってなんだかいいよねー」=Man, coffee shops have a great air to them, don't you think?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「喫茶店の雰囲気ってなんだかいいよねー」=Man, coffee shops have a great air to them, don't you think?
 「ええ♪　この待ってる時間が楽しいのよねー……うふふ、ドキドキしちゃう」=Yes♪ The time you spend waiting for your order is pretty fun... Ufufu, I'm getting excited.
 「……なんだかいつも楽しそうだよね、[H名]って」=...You always do seem like you're having fun.
 「うふふ、もちろんよ。女の子ってね、いつだってときめきを探し求めてるんだから」=Ufufu, of course. Girls are always on the lookout for heart-throbbing stuff, you know.

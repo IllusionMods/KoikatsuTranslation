@@ -1,4 +1,7 @@
-﻿「はぁっ……はぁ、あは、やっぱり体を動かすのは楽しいね～」=Haa--... haa, aha, moving your body really is a ton of fun, isn't it~
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「はぁっ……はぁ、あは、やっぱり体を動かすのは楽しいね～」=Haa--... haa, aha, moving your body really is a ton of fun, isn't it~
 「そういってもらえると誘ったかいがあったよ」=Hearing you say that makes me glad I invited you.
 「でも[P]くんって、マジ運動神経いいね～。知らなかったけど……かっこいいじゃん」=But, your reflexes really are awesome, [P名]-kun~. I didn't know that at all... it's pretty cool.
 「そうなのか？ これくらいはまぁ、普通だろ」=That so? This much is just normal, no?

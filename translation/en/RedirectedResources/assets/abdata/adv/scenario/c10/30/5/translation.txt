@@ -1,4 +1,6 @@
-
-//「運動……きたるべき神との大戦に備えねば！」=
-//「けっこう乗り気だね。よし、俺も全力で身体を動かそう！」=
-//「うむ、汝の実力を見せて貰おうぞ！」=
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「運動……きたるべき神との大戦に備えねば！」=“Exercise... we must prepare for the upcoming war with the heavens, indeed!”
+「けっこう乗り気だね。よし、俺も全力で身体を動かそう！」=“Someone's sure into it. Alright, guess I'll put my all into it too!”
+「うむ、汝の実力を見せて貰おうぞ！」=“Umu, I shall see for myself, thy full power!”

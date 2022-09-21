@@ -1,1 +1,4 @@
-﻿「な、何か足りなかったか？　私、もっと動いたりした方が良いのか？」=W-Was I doing it wrong somehow? Should I have moved on my own volition more?
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「な、何か足りなかったか？　私、もっと動いたりした方が良いのか？」=W-Was I doing it wrong somehow? Should I have moved on my own volition more?

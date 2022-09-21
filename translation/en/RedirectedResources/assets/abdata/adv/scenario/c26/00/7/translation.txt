@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「……えっ、私を……？　本気で言ってる……？」=“...Eh--, me...? Are you being serious...?”
 「冗談でこんなことは言わないよ！　俺は本当にきみのことが好きだ！」=“I would never joke about this! I really do love you!”
 「……そ、そんなふうに気持ちを伝えられるの……初めて……」=“...I-It's the first time someone's ever... told me that...”

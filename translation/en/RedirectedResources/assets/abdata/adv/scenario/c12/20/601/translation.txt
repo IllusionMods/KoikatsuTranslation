@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「ラブホって言っても、そこまで普通のホテルと変わらないんだな。もっとその……過激なのを想像してたよ」=“It's called a 'love hotel' and stuff, but it's not all that different from a regular hotel, is it? I expected something more... extreme.”
 「えっと……[H名]が想像してた部屋はどんなのか分からないけど、もっと特別な部屋みたいのもあるらしいね」=“Erhm... I don't know what sort of a room you were imagining but, they do have some special rooms here, I think.”
 「今度はそういう所にも挑戦してみる？」=“Wanna try out one of those next time?”

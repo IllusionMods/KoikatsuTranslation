@@ -1,0 +1,19 @@
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「ここって、広くて綺麗な公園だよね。のんびりしたこの雰囲気、最高だ」=This is quite a nice park, isn't it? Very open and lovely. This easy-going atmosphere, it's the best.
+「こういうところを訪れると、普段のストレスが解きほぐされていくような気がします」=When I visit a place like this, I feel like all my pent up everyday stress just melts away.
+「毎日勉強や課題や予習復習で大変だもんね」=We have to deal with things like studies, and assignments, and reviews on top of that everyday, afterall.
+「……勉強は学生の本分ですから、私はそれほどストレスではありませんが、でも、自然の持つ癒やしの力でリラックスさせられます」=...Studies are part of a student's duties, so they don't stress me to that extent, but, the healing power of nature does relax me a fair bit.
+「土の匂いって、なんか和むよね。子供の頃、泥だらけになったことを思い出しちゃうな」=The scent of earth, it's really calming, isn't it? Reminds me of the days when I'd get all covered in mud from playing around as a child.
+「これもアロマ効果ですね。自然の香りは本当に安らぎます」=It's not much different from aromatherapy, no? The smell of nature is really calming.
+「うん、いい気分になるよね。あ、花が咲いてる。名前わかんないけど、綺麗だね」=Yeah, it puts you in a good mood, doesn't it? Oh, there's flowers in bloom. I don't know the names, but they sure are pretty.
+「ええ、綺麗だと思います。公園の……いえ、自然の風景を感じます」=Yes, I think they're very pretty. It makes really feel like I'm at a park... no, like I'm close to nature.
+「青い空に白い雲、緑の自然な色彩の中で輝く、美しい花……本当に癒やされます」=With a blue sky full of white clouds as a background, in the midst of natural greenry, such beautiful flowers... It really does heal my soul.
+（なんか、よっぽど疲れてる感じだな……）=(Somehow, I feel really tired...)
+「小川や滝なんかもあれば、言うことがなかったのですが……」=If there was something like a stream or a waterfall too, truly one could ask for nothing more but...
+「はは、さすがに公園にはね。遠出して登山すればそういうの見られそうだけど」=Haha, I think that's a bit much for a park. But, if we were to go mountain climbing one day, we might get to see such a scene.
+「登山は自然に癒やしを求める以前に、自分の体力や精神力への挑戦といった趣があるので、ハードルが高く感じますね」=I feel like mountain climbing is more about challenging oneself both mentally and physically against the forces of nature, rather than seeking healing from it, so I feel like the bar is quite high.
+「じゃ、ハイキングがいいかもね」=Then, maybe hiking would be better.
+「そうですね。ではハイキングする気分で、この公園をのんびりと周りましょう」=Indeed. Well then, let's take it easy and take a leisurely walk around this park, while pretending we're hikers.
+「うん、そうしよう」=Yeah, let's do that.

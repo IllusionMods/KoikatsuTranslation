@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 （……水瀬さん、大丈夫かな）=(... Minase-san, I hope you're okay)
 この前、下駄箱で水瀬さんのお母さんと会って、色々なことが発覚した。=The other day, I met Minase-san's mother in the entrance hall and found out a lot of things.
 水瀬さんが自分に自信がない理由はとてもよくわかったし、母子の気持ちも通じ合ったはずだ。=I could understand very well why she was so unsure of herself, and I'm sure that now she and her mother understood each other.
@@ -17,8 +20,10 @@
 （あ、危ない……勢いよくドア開けちゃった。誰もいなくてよかったぁ……ていうか、何で更衣室のドアに鍵がかかってないんだ？）=(Oh, that was close... I went through the door too quickly. I'm glad no-one was in here... I mean, why isn't the door to the locker room locked?)
 ここが更衣室なら、通路を通っていけばプールに着くはず。今度こそ間違えないようにしよう。=If this is the locker room, I should be able to get to the pool by going down the hall. Better not make another mistake this time.
 「……ん？」=...hm?
+水泳部部長=Swimming Club President
 「乙梨さん。今日も最高の泳ぎだったわね」=Otonashi-san. You had another great swim today.
-「ありがとうございます」=Thank you so much."=
+乙梨さん=Otonashi-san
+「ありがとうございます」=Thank you so much."
 （あの声は、乙梨さんと部長！　つまり水泳部だ！　もうそこまで来てたのか）=(Those are the voices of Otonashi-san and the president! That means the swimming club! They're almost here)
 そこで初めて俺は、自分が処刑台に立っていることを知った。=Right then I knew my neck was on the chopping block.
 今、外に出ようものなら『中で何をしていた』ということになるし、このまま突っ立っていれば『そこで何をしている』ということになる。=If I go outside now, it will be "what were you doing in there", and if I just stand here, it will be "why are you in here".
@@ -30,6 +35,7 @@
 俺は自分が危機的状況で混乱していることを自覚しつつ、ロッカーをひとつひとつ開けていく。=I opened the lockers one by one, aware that I was confused in a moment of crisis.
 しかし、中にはしっかりと誰かの荷物と制服が入っていて、残るは一番奥の一つだけということになる。=However, there was someone's bag and uniform inside each of them, which left the only remaining one at the far end.
 「亜依も久しぶりに部活に顔を出したわりには、いい泳ぎだったわね。何かあったの？」=Even though you haven't been to the club for a while you swam well, Ai. What's been going on?
+亜依=Ai
 「え、えっと……はい。色々あって、色々考えて……私、その……」=W-well... yes. I've been going through a lot of stuff and I've been thinking a lot about... myself, and...
 「うん？　何か言いたいことがあるの？」=Oh? Is there anything you'd like to tell me?
 （もうそこまで来てる～！　もう中身を確認している暇はない！　頼むから空っぽであってくれ！）=(They're already here! I don't have time to check the contents! Please let it be empty!)
@@ -44,6 +50,7 @@
 （……あれ？　このにおい、どこかで嗅いだことがあるような……）=(... Huh? I think I know that smell...)
 がちゃり……。=What a mess...
 （あ……）=(Ah...)
+？？？=???
 「え……？」=Er....?
 （嗚呼……さらば青春。さらばコイカツ）=(Aaah... goodbye innocence. Farewell Koikatsu.
 …………。=............
@@ -124,8 +131,3 @@
 俺は雑念を振り払って、水瀬さんの言葉だけを思い返す。=I shake off my distractions and think only of Minase-san's words.
 （……俺もちゃんと答えを準備して待ってないと）=(... I have to be ready for her answer)
 心の中でそう誓い、俺はこっそりと女子更衣室を後にした。=I swore so in my heart, and quietly left the locker room.
-
-水泳部部長=Swimming Club President
-乙梨さん=Otonashi-san
-亜依=Ai
-？？？=???

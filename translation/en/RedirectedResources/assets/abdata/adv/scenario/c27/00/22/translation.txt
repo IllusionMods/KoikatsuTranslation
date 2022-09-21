@@ -1,2 +1,5 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「いい匂いがするって？　家庭科の授業で作ったクッキーのことかな……」=“Something smells nice? Wonder if it's the cookies I made during home-ec that you're smelling...”
 「……はい、食べていいわよ。そんな物欲しそうに見られたら、あげるしかないじゃない」=“...Here, you can have them. How am I supposed to not give them to you, when you look at them so hungrily?”

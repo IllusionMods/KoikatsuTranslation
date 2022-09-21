@@ -1,4 +1,7 @@
-﻿「なあ、愛称付けたーい！」=Hey, I want a nickname!
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「なあ、愛称付けたーい！」=Hey, I want a nickname!
 「急にどうしたの？」=That's a bit out of nowhere. What's up?
 「友達に言われたんだー！　愛称があると、二人の仲がもっと深まるって」=A friend told me! About how we'd get closer together if we gave each other nicknames.
 「愛称か……じゃあちょっと考えてみよっか」=A nickname, huh... let's think of some then.

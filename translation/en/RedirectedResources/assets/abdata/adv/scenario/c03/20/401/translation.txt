@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「えへへ、エアコンが効いた場所ってホッとするですね」=“Eheheh, places with the aircons on let you breathe a lot easier, don't they?”
 「うん、分かる……ちょうど良い気温って落ち着くよね」=“Yeah, I feel you... the temp's just right, it's so calming.”
 「はいです……それにあなたと一緒にいるからか……ちょっと安心して……」=“Yes... on top of that, I don't know if it's because you're here... I feel so relaxed and...”

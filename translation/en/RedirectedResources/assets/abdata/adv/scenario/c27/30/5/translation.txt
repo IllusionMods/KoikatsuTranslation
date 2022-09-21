@@ -1,4 +1,6 @@
-
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
 「そういえば男子ってよく校庭でドッジボールしてたわよね。あんたもそういうの好きなんだ」=“Reminds me, boys always did love playing dodgeball in the school ground, when I was in elementary. You like that sort of thing too, huh?”
 「さすがにガキの頃みたくはしゃいだりはしないけど……体動かすのは今でも好きだよ」=“Even I won't run around like I used to back as a kid but... I still do love moving my body, yeah.”
 「ふぅん……いいわ、付き合ってあげる。昔、男子たち見てて、気になってはいたのよね」=“Hmmm... alright, I'll keep you company. Looking at boys playing it did make me a bit curious.”

@@ -1,0 +1,7 @@
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「ごめん！　もう我慢できない！」=Sorry! I can't hold it in any longer!
+「えぇっ？　い、いきなり始めるのぉ？」=Eeh--? W-We're gonna start right away?
+「こんなとこで[H名]を前にしたら……我慢しろっていうほうが無理だよ」=If anything, with you in front of me, in a place like this... it's more unreasonable to ask me to endure it.
+「わかったよぉ。……私も、同じ気持ち、だから……」=I got it. ...I feel, the same way, afterall...

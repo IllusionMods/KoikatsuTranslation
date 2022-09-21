@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「これをどうぞ」=Please have this.
 「ん、これは？」=Hmm, this is?
 「パンだけではバランスが悪いと思いまして、勝手ながら用意させて頂きました」=I thought that just bread alone isn't good enough for a balanced diet, so I took it upon myself to prepare this for you.

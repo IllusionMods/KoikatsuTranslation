@@ -1,4 +1,7 @@
-﻿「キス、しませんか？」=Won't you, kiss me?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「キス、しませんか？」=Won't you, kiss me?
 「いきなり、大胆だね」=So sudden, you're feeling pretty bold today.
 「いいじゃありませんか。本当に恋人同士なんですから」=Isn't it fine? We really are a couple, afterall.
 「そうだね。……じゃあ」=True. ...then.

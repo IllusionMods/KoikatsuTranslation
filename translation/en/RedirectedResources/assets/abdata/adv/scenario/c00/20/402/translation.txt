@@ -1,4 +1,7 @@
-﻿「はぁ、お腹空いたな～。喫茶店の中の匂いって、めちゃくちゃ食欲沸かない？」=Haa, I'm so hungry~. Doesn't the smell of a cafe just whet your appetite like nothing else?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「はぁ、お腹空いたな～。喫茶店の中の匂いって、めちゃくちゃ食欲沸かない？」=Haa, I'm so hungry~. Doesn't the smell of a cafe just whet your appetite like nothing else?
 「わかるわ。コーヒーの匂いと、微かなカレーの匂い……うふふ、お腹が空いちゃうわよね」=I feel you. The smell of fresh coffee, and the faint aroma of curry... Ufufu, it just makes you hungry, doesn't it?
 「独特の匂いがあるよねー……くんくん……はぁ……いい匂い……」=It's a very unique smell... *sniff sniff*... haaa... so nice...
 「ふふ、あなた、動物みたい。野生を感じちゃう♪」=Fufu, you're like an animal. You'll make me feel all wild♪

@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 大砲=Cannon
 大砲(筒)=Cannon (Barrel)
 大砲(台)=Cannon (Stand)

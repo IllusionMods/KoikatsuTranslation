@@ -1,1 +1,4 @@
-﻿「[P]君。おはよぉ、今日はなにを教えてくれるのかなぁ♪」=[P]-kun, mornin', what are you going to teach me today, I wonder?♪
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「[P]君。おはよぉ、今日はなにを教えてくれるのかなぁ♪」=[P]-kun, mornin', what are you going to teach me today, I wonder?♪

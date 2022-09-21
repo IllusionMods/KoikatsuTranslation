@@ -1,4 +1,6 @@
-
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
 「すごく気持ちよかった……」=“That felt amazing...”
 「うん、俺も同じだよ」=“Yeah, same for me.”
 「これで宇宙のかれらにも近づけたよね」=“We've gotten closer to everyone in space too, haven't we?”

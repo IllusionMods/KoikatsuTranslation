@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「あの、ちょっといいですか？」=Hey, do you have a moment?
 「あなたは確か、学園初になる男子の……。初めまして、[P姓]さん」=If I'm not mistaken, you're that boy, the first boy in this school's history... It's good to meet you, [P姓]-san.
 「えっ、俺のこと知ってるの？」=Eh--, you know about me?

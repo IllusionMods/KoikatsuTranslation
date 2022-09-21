@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「今日という日に我の第三の瞳が、ドクドクと脈打っておるのだ」=“On this day, my third eye is making itself known, it is throbbing.”
 「楽しみにしてくれていたんだね。それじゃあ行こう」=“You were just that excited, huh? Let's go then.”
 「どこかオススメのお店とかない？」=“Got any shops you wanna check out?”

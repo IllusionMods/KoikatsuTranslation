@@ -1,4 +1,6 @@
-
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
 「その……一つお願いしたいことがあるのですけど……良いですか？」=“Uhm... there's something I'd like to request... could I?”
 「うん、なにかな？」=“Yeah, what is it?”
 「ええとですね、あなたのことを愛称で呼んでみたいんです」=“Eerhm, you see, I want to try calling you by a nickname I've thought up.”

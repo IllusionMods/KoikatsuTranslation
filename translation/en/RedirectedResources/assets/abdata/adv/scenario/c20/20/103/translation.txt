@@ -1,4 +1,9 @@
-﻿「のんびり公園デートも素敵ですね……あっという間に夕方です……」=These relaxing park dates are lovely as well, aren't they... the sun went down in no time...
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「のんびり公園デートも素敵ですね……あっという間に夕方です……」=These relaxing park dates are lovely as well, aren't they... the sun went down in no time...
+CHOICE:『もう少し時間ある？』=Still got some time?
+CHOICE:『暗くならないうちに帰ろうか』=Let's go home before it gets dark.
 「まだ時間って大丈夫かな？　ちょっと付き合ってほしいところがあってさ」=Do you still have some time? There's a place I'd like to check out with you.
 「は、はい、大丈夫ですけど……もう暗くなりますよ？」=Y-Yes, I have time but... it'll get dark soon, you know?
 「大丈夫、暗くなってからが一番大事だから。一緒に見たいものがあるんだ」=It's alright, that's the important bit. There's something I wanna see with you.
@@ -6,5 +11,3 @@
 「そうしましょう。……あ、あの、また、ここでデート、しましょうね？」=Let's do that. ...U-Uhm, let's come on a date, here, again, okay?
 「うん、もちろん。暗くなって[H名]が転んだら危ないし、手を繋いで帰ろうか」=Yeah, of course. It'd be bad if you tripped on something because you couldn't see out ahead very well, so let's hold hands on the way back.
 「は、はいっ。えへへ、最後までラブラブです……」=O-Okay-. Ehehe, lovey-dovey till the very end...
-CHOICE:『もう少し時間ある？』=Still got some time?
-CHOICE:『暗くならないうちに帰ろうか』=Let's go home before it gets dark.

@@ -1,3 +1,6 @@
-﻿「ええ、問題ありません」=Yes, I don't mind at all.
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「ええ、問題ありません」=Yes, I don't mind at all.
 「やった。それじゃ帰る準備をしよっと」=Yay. Guess I'll grab my stuff then.
 「私も支度をしてきます」=I'll do so as well.

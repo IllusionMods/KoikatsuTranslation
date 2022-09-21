@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「ここって、広くて綺麗な公園だよね。のんびりしたこの雰囲気、最高だ」=This is quite a nice park, isn't it? Very open and lovely. This easy-going atmosphere, it's the best.
 「こういうところを訪れると、普段のストレスが解きほぐされていくような気がします」=When I visit a place like this, I feel like all my pent up everyday stress just melts away.
 「毎日勉強や課題や予習復習で大変だもんね」=We have to deal with things like studies, and assignments, and reviews on top of that everyday, afterall.

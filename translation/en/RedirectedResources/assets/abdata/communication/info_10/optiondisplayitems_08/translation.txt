@@ -1,4 +1,7 @@
-﻿OPTION[0]:はい=Yes
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+OPTION[0]:はい=Yes
 はい=Yes
 OPTION[0]:いいえ=No
 いいえ=No

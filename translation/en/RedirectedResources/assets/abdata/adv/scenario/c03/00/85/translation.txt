@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「今日のコイカツは私に提案させて欲しーです！」=“Please let me suggest something for our love activity today--!”
 「おお、やる気だね！　いいよ、どんなことする？」=“Ooh, someone's excited! Sure, what do you wanna do?”
 「校舎と校舎の間にロープを張って、一緒に綱渡りやるです！」=“Tie ropes between the two separate wings and walk across them like a tightrope!”

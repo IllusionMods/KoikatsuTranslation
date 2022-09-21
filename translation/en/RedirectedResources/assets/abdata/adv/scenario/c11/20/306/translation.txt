@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「──ふぅ、お粗末でしたー。あー、のどが疲れてきちゃった」=“----Fuu, thanks for listening. Aah~, my throat's getting tired.”
 「お疲れ様。素敵な歌声だったわ～。だんだんとしわがれて、低く、渋い声になって来たわね」=“Great job. That was a lovely performance~. Your throat got progressively hoarser, and your voice became quieter and more and more elegant throughout.”
 「そう？　ははは、ありがとう」=“That so? Hahaha, thanks.”
@@ -6,6 +9,8 @@
 「……だったら、歌わなくたっていいわ。直接アプローチしてみて？」=“...In that case, you don't need to sing one. Why not try a direct approach instead?”
 「私、大人っぽいところを急に見せられたりすると、ドキリとしちゃうの」=“You'll catch me really off my guard, if you show me your mature side out of nowhere.”
 「へぇ、そうなんだね……それじゃあ」=“Hoh, that so... well then.”
+CHOICE:『セクシーな声を出す』=Bring out your sexy side.
+CHOICE:『疲れて声は出せないと伝える』=Tell her that your throat's done for.
 「……ねえ、[H名]、今日のキミは素敵だよ。こうして、同じ空間にいられることが嬉しくてしょうがなんだ」=“...Hey, [H]. You're absolutely lovely today. Just being able to spend time next to you like this, makes me so happy, I can't help it.”
 「あらあら、まぁ……うふふ、予想してたより、ずっと素敵だわ」=“Oh, dearie me... Ufufu, this is even more wonderful, than I imagined.”
 「そうかな？　俺は、いつだって、こうしてるつもりなんだけどね」=“You think so? I'm always trying to show this side of myself to you though.”
@@ -19,6 +24,3 @@
 「うん、そうする」=“Yeah, let's do that.”
 「忘れ物ない？　少しだけテーブルの上、片付けておかないとね」=“Missed anything? We should also clean up the table, atleast a bit.”
 「うん……こんなもんかな。じゃ、出よっか」=“Yeah... that should be fine. Then, let's go.”
-
-CHOICE:『セクシーな声を出す』=Bring out your sexy side.
-CHOICE:『疲れて声は出せないと伝える』=Tell her that your throat's done for.

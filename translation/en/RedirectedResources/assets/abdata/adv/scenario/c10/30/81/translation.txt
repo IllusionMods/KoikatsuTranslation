@@ -1,5 +1,7 @@
-
-「今日は、向かい合わせじゃなく隣に座るのだ」=“Today, we're not sitting face to face. We're sitting next to each other～”
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「今日は、向かい合わせじゃなく隣に座るのだ」=“Today, we're not sitting face to face. We're sitting next to each other~”
 「……良い事思いついた」=“...I had a good idea.”
 「んっ？　なんだ？」=“Hm? What is it?”
 「今度、俺の家で泊まりで晩御飯食べよう」=“Next time, you should stay at my place so we can have dinner.”

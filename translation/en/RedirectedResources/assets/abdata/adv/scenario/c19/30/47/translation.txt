@@ -1,1 +1,4 @@
-﻿「とても気持ち良かったよ。小説の描写も、決して大げさじゃなかったんだね」=That felt amazing. The depiction of it in novels, wasn't exaggerated at all, huh?
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「とても気持ち良かったよ。小説の描写も、決して大げさじゃなかったんだね」=That felt amazing. The depiction of it in novels, wasn't exaggerated at all, huh?

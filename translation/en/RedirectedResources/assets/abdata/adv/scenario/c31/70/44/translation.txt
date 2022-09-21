@@ -1,0 +1,8 @@
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「へえ、色々あるんだね」=Hoh, there's quite the variety, huh?
+「ほぅ、本当に色々あるな……おっ、あそこなんてどうだ？」=Hoh, there really is... Oh--, how about we go there?
+「うん、いいよ」=Yeah, alright.
+「フフッ、結構な時間を使ったな。まぁ、楽しめたので良しとしよう」=Fufu--, that was quite the way to spend our time. Well, I had fun so let's leave it at that.
+（よかった、喜んでもらえたみたいだ）=(I'm glad, looks like she enjoyed it)

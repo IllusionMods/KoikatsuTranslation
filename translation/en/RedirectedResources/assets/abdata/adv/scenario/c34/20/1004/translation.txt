@@ -1,4 +1,8 @@
-﻿「お疲れ様でした。ふふっ、素敵な式でしたよ」=Good work today. Fufu~ It was a lovely ceremony.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+モブ=Mob
+「お疲れ様でした。ふふっ、素敵な式でしたよ」=Good work today. Fufu~ It was a lovely ceremony.
 「本番の結婚式も、是非、私どもの式場で挙げてくださいね！」=For your actual wedding as well, please, do call upon us!
 「ま、まだまだ先の話になりそうですけど、ここで結婚式を挙げられるように頑張ります……！」=T-That's still a long ways ahead from now but, we'll work hard so that we can have a wedding here...!
 「お願いします！　今日はお引き受けいただいて、ありがとうございました」=Thank you! And for helping us out so much today as well, thank you very much!
@@ -10,5 +14,3 @@
 「たぶん、その頃の[H名]は、日本語を流暢に喋れるようになってるんだと思うよ」=I think by that time, you'd probably be able to talk fluently in Japanese.
 「Ｗｏｗ♡　ソレって素敵♡　今日、頑張ってアナタに想い伝えたケド、全然伝えられなかったカラ、次は完璧なニッポン語で、想い、伝えるネ♡」=Wow♡ That'd be amazing♡ Today, I tried my best to communicate my feelings to you, but I couldn't at all, so next time I'll do it in perfect Japanese ♡
 「うん、楽しみにしてるよ。その日を迎えられるように、二人で頑張らなくっちゃね」=Yeah, I'm looking forward to it. We both gotta work hard together, in order to make that day come true.
-
-モブ=Mob

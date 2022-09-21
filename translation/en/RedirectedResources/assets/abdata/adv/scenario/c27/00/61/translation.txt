@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「今日のデート、私のためにここを選んでくれたんだ……？」=“You picked this place today, just for me...?”
 「うん。好きなもの頼んでいいよ」=“Yeah. Feel free to order anything you like.”
 「いいの？　……ありがと。ふふっ♪」=“You sure? ...Thanks. Fufu--♪”
@@ -8,10 +11,9 @@
 （見てると変化が面白いな……）=(Watching her flip flop like that is so fun...)
 「そんなにじっと見つめられてると、恥ずかしいから……」=“It's a bit embarrassing, when you stare at me so much...”
 「今日……ずっとあんたと一緒にいられて、楽しかったわ……」=“Today... being with you the whole time, was so much fun...”
+CHOICE:「まだもう少し一緒にいない？」=Won't you stay with me for a bit longer?
+CHOICE:「俺も楽しかったよ、それじゃあね」=I had a blast too, see ya later then.
 「まだもう少し一緒にいない？」=“Won't you stay with me for a bit longer?”
 「……うん！　私もそう思ってたところなの」=“...Yeah! I was just thinking that myself.”
 「俺も楽しかったよ、それじゃあね」=“I had a blast too, see ya later then.”
 「ありがとね……じゃ、また……」=“Thanks... see ya then...”
-
-CHOICE:「まだもう少し一緒にいない？」=Won't you stay with me for a bit longer?
-CHOICE:「俺も楽しかったよ、それじゃあね」=I had a blast too, see ya later then.

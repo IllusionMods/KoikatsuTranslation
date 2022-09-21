@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「今日は一日いっぱい楽しむですよーっ！」=“We gotta enjoy ourselves lots today!”
 「うん、張り切っていこう！」=“Yeah, let's go all out!”
 「少しずつドキドキも慣れてきましたけど……やっぱりあなたといると緊張するです……デートって意識してるから……ですよね？」=“I've started getting used to all this heart pounding but... being with you really does make me nervous... it's because it's a 'date'... right?”

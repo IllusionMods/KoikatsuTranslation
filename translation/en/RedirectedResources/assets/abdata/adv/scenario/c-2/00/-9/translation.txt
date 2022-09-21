@@ -1,3 +1,4 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 //「私が教えているのは数学だけれど、文系科目も手を抜かずに勉強するのよ？」=
-
-麗奈=Reina

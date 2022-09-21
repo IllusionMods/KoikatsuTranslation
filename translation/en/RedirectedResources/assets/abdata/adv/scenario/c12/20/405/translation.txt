@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「普通の喫茶店だから、オムライスにケチャップアートとかはないんだね」=“It's just a regular cafe so, I guess they don't really draw any ketchup art on the omurice.”
 「ケチャップアートって、あの文字書いたりするやつだろ？　ＬＯＶＥとかさ」=“You mean that stuff where they write on it with ketchup, right? "LOVE" and whatnot.”
 「いいよね、ああいうの。[H名]にやってもらったりしたら、かなり感動する思う」=“It's nice, isn't it? If you did that for me, I'd be pretty moved, you know?”

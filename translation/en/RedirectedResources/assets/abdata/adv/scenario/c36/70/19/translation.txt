@@ -1,0 +1,4 @@
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「はぁ、早朝から貴方の顔を見るなんて、今日は厄日になりそうね」="*Sigh* seeing your face in the early morning, looks like it's going to be an unlucky day."

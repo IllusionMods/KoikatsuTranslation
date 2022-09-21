@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「はふ……たくさん遊んだ後に見る夜景は最高です……」=“*pant*... After running around all day like that, savouring the scenery like this is the best...”
 「そうだね。今日は遊園地を満喫出来た？」=“Yeah. Had your fill of the amusement park today?”
 「はいです。一日あなたと一緒にいられて……それだけで大満足なのですよ」=“Yes. I got to be with you the whole day... I had more than my fill, I'm completely stuffed to the brim~”

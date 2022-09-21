@@ -1,0 +1,9 @@
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「少々寄り道したい所があるのですが、よろしいでしょうか？」=There's a stop I'd like to make on the way, is it fine?
+「ん？　どこに行くの？」=Hmm? Going somewhere?
+「はい、不動産屋へ。あなたとの愛の巣を吟味したく―――」=Yes, the realtor. I wanted to pick out a love nest for us----
+「ストップ、気が早すぎるにも程があるよね？」=Stop right there, even hastiness should have its limits, no?
+「そうでしょうか？　……あぁ、あなたの家へ住み込め、という事ですねわかりました」=Is it so?... Aah, you're telling me that I should come live at your house instead, huh, understood.
+「ああうん、ソレデイイデス……」=Aaah, yeah, sure, that works...

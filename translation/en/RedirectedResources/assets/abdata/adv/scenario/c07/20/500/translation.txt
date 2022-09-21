@@ -1,4 +1,7 @@
-﻿………………=.........
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+………………=.........
 …………=......
 ……=...
 「今日は[H名]と過ごせて本当に楽しかったよ」=I really enjoyed our time together today, [H名].
@@ -8,6 +11,9 @@
 「ははっ、またすぐに会えるだろ」=Haha--, we'll see each other again in no time.
 「つっても……私も本当は帰りたくないんだけどな……」=Though I say that but... I don't really wanna go home either...
 「[H名]……」=[H名].........
+CHOICE:『自宅に誘う』=『Invite to your place』
+CHOICE:『ラブホに誘う』=『Invite to love hotel』
+CHOICE:『さよならする』=『Say goodbye』
 「あの……じゃあさ、うちに来ないか？」=Listen... do you uh, wanna come to my place?
 「行ってもいいのか？　やったぜ！」=Can I? Yay!
 「俺、やっぱりまだ……帰りたくないよ」=I really don't... want to go home.
@@ -27,7 +33,3 @@
 「うん、また次会う時まで頑張れそうだ」=Yeah, I feel like I can hold on till we see each other again.
 「へへっ、そりゃよかった。んじゃ、またな！」=Hehe--, I'm glad then. Well then, see ya!
 「ああ、気をつけてね！」=Yeah, be careful on the way back!
-
-CHOICE:『自宅に誘う』=『Invite to your place』
-CHOICE:『ラブホに誘う』=『Invite to love hotel』
-CHOICE:『さよならする』=『Say goodbye』

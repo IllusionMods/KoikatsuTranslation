@@ -1,0 +1,8 @@
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「……たばこ、臭い」=“...Smells of, cigarettes.”
+「そうだね。いろいろな人が使うからしょうがないよ。嫌だった？」=“Does, doesn't it? All sorts of people come here so it can't be helped. Not keen on it?”
+「……そうじゃなくて……過敏になってる、だけ」=“...That's not it... I'm just nervous, that's all.”
+「それじゃ……[H名]、いいかな？」=“Well then... could we, [H]?”
+「……うん。ＯＫじゃなければ……ついてこないから」=“...Yeah. I wouldn't have come with... if I wasn't okay with it.”

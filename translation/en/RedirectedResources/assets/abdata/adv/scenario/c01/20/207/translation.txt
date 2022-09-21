@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「楽しかったね、観覧車」=“The ferris wheel was fun, wasn't it?”
 「ちょっと恥ずかしかったですけど……はい、楽しかったです」=“It was a bit embarrassing but... yes, I had fun.”
 「あはは、よかった。じゃあ、そろそろ帰ろうか」=“Ahaha, great. Let's go home then, shall we?”

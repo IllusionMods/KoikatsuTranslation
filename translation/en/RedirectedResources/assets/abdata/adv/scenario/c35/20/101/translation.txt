@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「んーっ、芝生のいい匂い……こういうとこ、めっちゃ落ち着くんっ！」=Nnn--, the refreshing smell of grass... It's so darn calming--!
 「あはは、やっぱりコンクリートよりも芝生がいい？」=Ahaha, turf really is better that concrete, huh?
 「うんっ！　だってコロコロ出来るやん？　特に今日みたいに晴れとる日は最高やもん。せっかくやから一緒にコロコロせん？」=Yeah--! I mean, you can roll around on it, no? Especially when it's such a nice day out. Since we're out here, why don't we take the chance to roll around on the grass?

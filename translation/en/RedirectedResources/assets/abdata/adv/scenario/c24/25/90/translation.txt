@@ -1,4 +1,7 @@
-﻿「実は、折り入ってお願いしたいことがあるんです♡」=Truth is, there's something I'd really like to request from you♡
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「実は、折り入ってお願いしたいことがあるんです♡」=Truth is, there's something I'd really like to request from you♡
 「え……なに？」=Eh... What is it?
 「そんなに身構えないでください♡　ただ、愛称で呼び合いたいだけですから♡」=You don't need to brace yourself like that♡ I just want for us to call each other by nicknames♡
 「愛称？　そんなことなら全然いいけど」=Nicknames? That's perfectly fine by me.

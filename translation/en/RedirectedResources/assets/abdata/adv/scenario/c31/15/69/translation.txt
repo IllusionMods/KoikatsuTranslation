@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「それじゃあ、こっちから質問していい？」=Well then, can I go first with a question?
 「ん、とりあえず言ってみろ。私がわかる範囲なら、教えてやる」=Mm, go ahead, I guess. If it's an area I'm knowledgeable in, I'll explain it to you.
 「えーっと、[H名]のスリーサイズは？」=Errhm, what are your three sizes?

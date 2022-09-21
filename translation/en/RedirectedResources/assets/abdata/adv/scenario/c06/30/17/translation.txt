@@ -1,4 +1,6 @@
-
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
 「んーっ、よく寝た。……あれ？　メモがある。なになに――」=“Mmm, I slept well. ...Oh? There's a letter. What's it say...?”
 //『拝啓　逢瀬の残炎くすぶる朝、心地よい疲れに充足感を味わっていることと存じます』=
 //『さて、私は外泊の報告のため、お暇させていただきます』=

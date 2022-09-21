@@ -1,9 +1,14 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「……ふぅ、さすがに喉が疲れてきたわね」=“...Fuu, my throat's really starting to get tired.”
 「はは、俺も少しかれてきたよ。どうする？　そろそろ出る？」=“Haha, mine too, a bit. What do you wanna do? Wanna head out?”
 「でも、まだ時間あるわよ？」=“But, we still have time on the clock, you know?”
 「延長しすぎちゃったかな」=“Maybe we phoned in too many extensions.”
 「少し休んでから何曲か歌えば、いい時間になるとは思うけど……あんたに任せるわ」=“If we rest a bit and then sing one or two more songs, I think that would be just right... I'll leave it to you.”
 「そうだね……」=“Hmm, let's see...”
+CHOICE:『それじゃ、最後までいようか』=『Let's stay till the end then.』
+CHOICE:『今日はもう帰ろうか』=『Let's go home for today, shall we?』
 「それじゃ、最後までいようか。[H名]も歌い足りないみたいだしね」=“Well then, let's stay till the end. Feels like you haven't had enough singing in you yet, afterall.”
 「……歌は、充分歌ったわ。ただ、もう少し……あんたと、いたかったの」=“...I've already sang plenty enough. It's just that, I just wanted to... stay with you, for a bit longer.”
 「[H名]……嬉しいよ」=“[H名]... I'm really happy.”
@@ -21,6 +26,3 @@
 「明日、喉がガラガラになってそうだなぁ。授業であてられたら笑われちゃいそうだ」=“Feels like my throat's gonna be sore all day tomorrow. Bet everyone's gonna laugh if the teacher picks me.”
 「ちゃんとケアしなきゃダメよ？　はい、のど飴」=“You gotta take proper care of it, you know? Here, a cough drop.”
 「ありがと。それじゃ、ちょっと会計済ませてくるよ」=“Thanks. Well then, I'll go settle the bill real quick.”
-
-CHOICE:『それじゃ、最後までいようか』=『Let's stay till the end then.』
-CHOICE:『今日はもう帰ろうか』=『Let's go home for today, shall we?』

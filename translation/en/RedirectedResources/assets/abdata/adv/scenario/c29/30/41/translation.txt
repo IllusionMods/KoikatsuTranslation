@@ -1,1 +1,4 @@
-﻿「きゃあぁっ？　な、なんですかもう……！！」=Kyah--? W-What are you...!!
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「きゃあぁっ？　な、なんですかもう……！！」=Kyah--? W-What are you...!!

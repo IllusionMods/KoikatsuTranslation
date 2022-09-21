@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「人気のあるアトラクションは一通り乗ったかな」=“We've ridden more or less all of the popular ones, huh?”
 「……うん、そう、だね。上がったり、下がったり、激しいのが多かった」=“...Yeah, we, have. There were so many that went up, went down, and were just intense.”
 「アトラクションを楽しんでこその遊園地デートだな」=“Only by enjoying the attractions can you really call it an amusement park date, no?”

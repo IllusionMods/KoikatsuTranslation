@@ -1,4 +1,7 @@
-﻿「[H名]ってさ、いつもどんな雑誌とか読んでるの？」=What sorts of magazines do you read, [H名]?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「[H名]ってさ、いつもどんな雑誌とか読んでるの？」=What sorts of magazines do you read, [H名]?
 「え？　雑誌？　どうして？」=Eh? Magazines? Why'd you ask?
 「あ、うん。[H名]って流行ってることに詳しいからさ。俺も参考にさせてもらおうかなって」=Ah, well. You're real in the know about the current trends so, thought that maybe I'd start reading them too.
 「なるほど。でも私、全然普通だよ？　読んでるのも普通に女の子が買ってる雑誌だし……」=I see. But, you know, I'm just a normal girl, you know? The magazines I read are just normal magazines popular with girls...

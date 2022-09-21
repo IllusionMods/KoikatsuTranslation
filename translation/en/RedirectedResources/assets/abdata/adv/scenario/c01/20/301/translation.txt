@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「ここがカラオケですか。噂には聞いています」=“So this is a Karaoke box, huh? I have heard about it before.”
 「あれ、友達と来たりしないの？」=“Huh, you don't go Karaokeing with friends?”
 「ええ。クラシックにも歌詞がついていたなら、何十曲でも歌えるのですが……」=“Yes. I can sing, quite a few songs, if it's limited to just classical songs but...”

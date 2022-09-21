@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「なぁ、一つお願いしてもいいか？」=Listen, is it alright if I ask for something?
 「ん？　[H名]のお願いなら、一つと言わず何個でもいいよ」=Hm? For you, [H名], anything.
 「そうか、じゃあとりあえず一つ目だな……その、またキスしないか？」=I see, then for now, the first thing... uhm, won't you kiss me again?
@@ -12,6 +15,8 @@
 「なんか、ここに来たらキスっていうのが習慣になってるね」=It's becoming kind of a tradition for us to kiss whenever we come here, isn't it?
 「最初のインパクトというのは大きいからな。それで……続きはするのか？」=The first one's impact was so big, afterall. So, now then... are you going to take the next step?
 「あぁ、えっとそれは……」=Aah, erhm, that's...
+CHOICE:『是非、お願いします』=『Yes, please』
+CHOICE:『もうかなり暗いし、今日は帰ろうか』=『It's already gotten quite dark, shall we go home for today?』
 「外でエッチするのまで習慣化するのは……流石にまずいかな？」=To make even having sex outside into a tradition... It really would be a bad idea, no?
 「いいんじゃないか？　でもあまり慣れると、おまえが楽しくなくなるかもな」=Isn't it fine? But, if we get too used to it, it might not be fun for you anymore.
 「え、なんで？」=Eh, why?
@@ -34,6 +39,3 @@
 「うぅ、その答え方は反則。やっぱり……シていい？」=Uuu, that sort of answer is against the rules. Is it really... okay? Can we?
 「だーめーだっ。男なら一度言った事は曲げるな。ほら、手くらいは繋いでやるから、もう帰るぞ」=We - can - not--. If you're a man, don't take back your words. Come on, I'll let you hold my hand atleast, let's go home.
 「あぁ、そんなぁ……やっぱり選択を間違えたかなぁ……」=Aaah, don't say that... I really did pick the wrong choice, didn't I...
-
-CHOICE:『是非、お願いします』=『Yes, please』
-CHOICE:『もうかなり暗いし、今日は帰ろうか』=『It's already gotten quite dark, shall we go home for today?』

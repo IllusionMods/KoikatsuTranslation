@@ -1,4 +1,7 @@
-﻿一体何なんですか、これは？！=Just what is going on?!
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+一体何なんですか、これは？！=Just what is going on?!
 や、やめてください…こんな事、だめです=P-Please stop... you shouldn't, do things like this.
 いやです、こんな事、もうしたくありません=No, I don't want to do this stuff anymore.
 やめてください、続けたくありませんから！=Please stop, I don't want to do this anymore!

@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 （うーん、デートだからって少し早く来すぎちゃったかな）=(Mmm, even if it was for a date, I got here way too early.)
 「……あっ、おーい！　[P名]！」=“...Ah--, hey! [P名]!”
 「[H名]？　どうしたの、そんなに急いで」=“[H名]? You rushed all the way here, what's the matter?”

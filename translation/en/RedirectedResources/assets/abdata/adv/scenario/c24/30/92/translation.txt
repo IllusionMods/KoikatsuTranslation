@@ -1,1 +1,4 @@
-﻿「うふふ♡　私の誘いを受けてくれて、本当にありがとうございます♡」=Ufufu♡ Thank you very much. I really am thankful, that you accepted it in stride♡
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「うふふ♡　私の誘いを受けてくれて、本当にありがとうございます♡」=Ufufu♡ Thank you very much. I really am thankful, that you accepted it in stride♡

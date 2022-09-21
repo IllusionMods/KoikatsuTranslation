@@ -1,4 +1,6 @@
-
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
 「おはよう♪　……えへへ」=“Morning♪ ...Ehehe.”
 「おはよう、[H]。なんだか嬉しそうだね」=“Morning, [H]. You seem happy today.”
 「[P]くんとこうして並んでると、出会うのは運命だったって思えるの」=“When I walk side by side with you like this, it really makes me feel that our meeting was destiny.”

@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「そうだ、ティッシュペーパーが切れそうなんだった。あそこの薬局で買っていい？」=Ah, that's right, I'm about to run out of tissue papers. Can we make a trip to the pharmacy there?
 「あら、コイカツ部の部長ともなるとティッシュの減りも早いのね、ふふふ」=Oh my, as the Koikatsu club president, you sure run out of tissues fast, huh? Fufufu~
 「ふ、普通に切れただけだよ……そうだ、[H名]さんも何か必要なものがあったらカゴに入れていいよ」=I-It's the usual pace I run out at... That's right, If there's anything you need as well, feel free to put it in the basket.

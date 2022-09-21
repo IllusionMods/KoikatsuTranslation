@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「なぁ、あの奇妙なウサギみたいなの……さっきからずっとこっちを見ていないか？」=Hey, that bizarre rabbit... thing... hasn't it been staring in our direction for a while now?
 「はは、奇妙って言ったら可哀相だよ。この遊園地のマスコットキャラなんだから」=Haha, "bizarre rabit thing", I feel bad for it. It's the mascot character of this park.
 「いや、明らかに奇妙だろ……うわ、とうとう近付いて来た！　おまえ、何とかしろ」=No, it's clearly bizarre... Uwah, it's approaching us! You deal with it somehow!

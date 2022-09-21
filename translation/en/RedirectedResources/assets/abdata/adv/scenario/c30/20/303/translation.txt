@@ -1,4 +1,9 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「そろそろ終了時間だけど……どうする？　私はキミに合わせるわよ」=Our session for the room is almost up... what do you wanna do? I'll go with whatever you want.
+CHOICE:『よし、延長しちゃおう！』=Alright, let's extend it!
+CHOICE:『うーん、今日は帰ろうか』=Well, let's go home for today.
 「よし、なら延長しちょおうよ。もっと[H名]と一緒に歌いたい！」=Alright, then let's extend it. I wanna sing together with you a lot more, [H名]!
 「あら、奇遇ね。私も、もう少し歌いたいと思っていたところよ。じゃあ、延長の電話入れておくわね」=Oh, that's surprising. I wanted to sing with you a lot more too. Then, I'll call for an extension over the phone.
 「うん、ありがと。よーし！　今日はとことん歌いまくろう！」=Yeah, thanks. Alright! Let's sing like there's no tomorrow!
@@ -10,10 +15,6 @@
 「もちろん」=Of course.
 「それじゃあ……これ！」=Then how about... this!
 （おっ、この曲は……！）=(Oh, this song is...!)
+[P名]＆[H名]=[P名] & [H名]
 『小さな手の平 掴める物は～♪　きっと限られているけど♪』="The things these small hands can hold~ ♪ They are surely limited but-- ♪"
 （[H名]一緒に歌うと楽しさと気持ちよさが倍増だな）=(Singing it together with [H名] somehow doubles my enjoyment of it.)
-
-CHOICE:『よし、延長しちゃおう！』=Alright, let's extend it!
-CHOICE:『うーん、今日は帰ろうか』=Well, let's go home for today.
-
-[P名]＆[H名]=[P名] & [H名]

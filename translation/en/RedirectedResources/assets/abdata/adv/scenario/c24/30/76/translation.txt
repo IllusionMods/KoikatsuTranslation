@@ -1,4 +1,7 @@
-﻿「お待たせしました♡」=Sorry for making you wait♡
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「お待たせしました♡」=Sorry for making you wait♡
 「おぉ……やっぱり似合うね！」=Oooh... You really do look great in that!
 「うふふ♡　褒めてくれたので、さっきまで他の子をジロジロ見てたのは許してあげます♡」=Ufufu♡ Since you complimented me, I'll overlook how you were staring at the other girls♡
 「うっ、やっぱり見られてた？」=Urgh--, so you really did see that?

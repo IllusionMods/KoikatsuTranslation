@@ -1,0 +1,21 @@
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「そういえばこの前、少女漫画を買ってみたんだ。今度映画化されるやつ」=“Reminds me, I bought this shoujo manga the other day. You know, the one that's being adapted into a movie soon.”
+「そうなの！？　どうどう、面白かった？」=“You did!? How was it, was it fun?”
+「すごく面白かったよ。序盤から引き込まれて、胸がきゅんとしてさ。やっぱ、人気作品なだけあるよね」=“It was really fun. It hooked me in right from the first page, I was on the edge of my seat the whole time. Popular works are popular for a reason, huh?”
+「うんうん！　わかるわ～。私もドキドキするイベントの連続で、ずっとときめいてたもん」=“Yeah, yeah! I feel you~. All those heart-racing events, one after another, my heart was pounding the whole time.”
+「誰が結ばれるのか考えて、夜眠れないこともあったわね～」=“I even had times when I couldn't sleep at night, wondering just who the main character was gonna tie the knot with~”
+「はは、それは凄いハマりっぷりだね」=“Haha, you really got into it, huh?”
+「ちなみに何巻まで読んだの？」=“By the way, what volume did you read till?”
+「４巻だよ。図書室で二人がキスをしたのかどうか……！　って、引きで終わったとこ」=“Volume 4. Got to the cliffhanger with the whole "Will they kiss or won't they?" at the library.”
+「次の話までモヤモヤするところね～」=“Cliffhangers like that just kill you on the inside, don't they~?”
+「俺は今、そのモヤモヤの真っ只中だよ」=“I'm suffering from that even now, yes.”
+「ふふ、たっぷり味わいなさい。でも、ネタバレだけは注意するのよ？」=“Fufu, savour it thoroughly. But, be careful not to get spoiled, alright?”
+「すごく萎えるもんね……いちおう用心はしてるから大丈夫……なはず」=“It really kills all your motivation to read further, doesn't it?... I'm on guard for them from anywhere so I... should be fine. Should.”
+「これを集めたら、違う少女漫画を買ってみようと思うんだけど、オススメってあるかな？」=“Feeling like starting with another title, after I finish this one. Got any recommendations?”
+「あんたも少女漫画の魅力に気づいたようね！　うーん、何がいいかしら……」=“You realized the charm of shoujo manga too, huh! Mmm, what'd be good for you...”
+「ドラマや映画化されたものは外した方がいい？」=“Should I exclude the ones that have already been adapted into movies or TV dramas?”
+「漫画と展開とか違うなら、読んでみたいかな」=“If the plot's different from the source material, I think I'd like to give them a try.”
+「うーん、そうなるとすぐには絞れないわね……今度、オススメ作品のリストをまとめておくわ」=“Mmm, kinda hard to narrow them down that way... I'll send you a list of the ones I think you'll like later.”
+「ありがと。楽しみにしてるね」=“Thanks. I'm looking forward to it.”

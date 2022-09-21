@@ -1,11 +1,13 @@
-
-//「よ、よし！　で、デートを始めよう！　ぇ、えっと、よろしく！」=
-//「うん、よろしく。えっと、もしかして緊張してる？」=
-//「ぇあっ……ちょ、ちょっとだけな。こ、こういうの慣れてないんだよ……うぅっ」=
-//「なら今日は俺が頑張らないとだね。とりあえず歩こうか」=
-//「な、なんていうか……胸の奥がずっとむず痒い感じで……うぅ、なんか落ち着かないな」=
-//「あー、わかるかも。俺もずっとそんな感じ。でも、嫌じゃないよね？」=
-//「う、うん……嫌じゃない。ふわふわしてるんだけど……安心するみたいな……」=
-//「えへへ、何言ってるんだろうなあたし……でも、おまえも一緒か……そっか……ふふっ」=
-//（照れてる顔、新鮮で可愛いなぁ。言ったら怒られそうだけど……）=
-//「今日は本当に楽しかった。ありがとな。えへっ、じゃあな！」=
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「よ、よし！　で、デートを始めよう！　ぇ、えっと、よろしく！」=“A-Alright! L-Let's start our date! E-Erhm, let's have a good one!”
+「うん、よろしく。えっと、もしかして緊張してる？」=“Yeah, let's. Erhm, are you nervous, or something?”
+「ぇあっ……ちょ、ちょっとだけな。こ、こういうの慣れてないんだよ……うぅっ」=“Eyah--... a-a little bit. I-I'm really not used to this... uuu--”
+「なら今日は俺が頑張らないとだね。とりあえず歩こうか」=“Guess I'll have to pull my own weight today then. Let's start by walking.”
+「な、なんていうか……胸の奥がずっとむず痒い感じで……うぅ、なんか落ち着かないな」=“H-How do I say this... my chest feels so uneasy, like I feel butterflies all over inside... uuu, I can't calm down at all.”
+「あー、わかるかも。俺もずっとそんな感じ。でも、嫌じゃないよね？」=“Aah, I feel you. I've felt like that the whole day too. But, it's not a bad feeling, right?”
+「う、うん……嫌じゃない。ふわふわしてるんだけど……安心するみたいな……」=“Y-Yeah... it's not. I feel very restless but... also very safe...”
+「えへへ、何言ってるんだろうなあたし……でも、おまえも一緒か……そっか……ふふっ」=“Eheheh, what am I even saying... but, you feel the same, huh... I see... fufuh--”
+（照れてる顔、新鮮で可愛いなぁ。言ったら怒られそうだけど……）=(She looks so cute, blushing like that. Don't get to see that often. She'd get mad if I told her that though...)
+「今日は本当に楽しかった。ありがとな。えへっ、じゃあな！」=“Today was really fun. Thanks. Eheh--, see you!”

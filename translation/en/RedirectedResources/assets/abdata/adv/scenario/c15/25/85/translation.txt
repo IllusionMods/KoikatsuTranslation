@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「なーなー、彼女が他の男に言い寄られたらどうするー？」=“Hey, question, if someone started hitting on your girlfriend, what'd you do?”
 「もちろん、その男を追い払うよ」=“Of course, I'd chase that guy away.”
 「オッケー！　部長の男らしいとこ、期待してるぞー」=“Okay! I'm really looking forward to seeing your manly side, prez.”

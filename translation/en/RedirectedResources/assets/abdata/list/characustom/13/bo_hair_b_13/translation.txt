@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 三つ編み横おさげ(左)=Horizontal Braid (Left)
 三つ編み横おさげ(右)=Horizontal Braid (Right)
 ぱっつんボブ=Straight-Cut Bang Bob

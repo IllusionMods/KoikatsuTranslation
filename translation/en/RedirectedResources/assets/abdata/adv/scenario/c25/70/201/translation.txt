@@ -1,0 +1,26 @@
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「まずはどこへ行こうか？」=Where should we go first?
+「う～ん、アトラクションがいっぱいあるから迷っちゃうな～」=Mmm, there's so many attractions, it's hard to pick one, isn't it~
+「おっ、あそこにゲームセンターがあるよ。ゲームは好き？」=Oh--, there's an arcade over there. You like videogames?
+「好きだよ～。ゲーセンはたまに行くっす」=I do~. I go to my local arcade every so often.
+「よし、じゃあ最初はクレーンゲームで遊んでみよう」=Alright, let's try out the arcade here for now.
+「でも、ただ遊ぶだけじゃつまらないから……どっちが先に、あのぬいぐるみを取れるか勝負してみない？」=But, just playing the games is kinda boring so... wanna have a match over who can get that plushie first?
+「それ面白そう～。よ～し、負けないからね～」=That sounds fun~. Alright~, I'm not gonna lose, you know~
+………………=.........
+「……くっ！　結構、難しいなこれ……」=...Kuh--! This is pretty hard...
+「おっ、キャッチした～。そうそう、そのまま穴へ……」=Oh--, I've got it~. Yes, just like that, go towards the hole...
+「やった～！　ぬいぐるみゲットしたよ～」=Yay~! One plushie, scored~
+「えっ、もう取ったの！？　はは……早すぎて全然、勝負にならなかったね……」=Eh--, already!? Haha... It ended so fast, it didn't even turn into a proper match...
+「ふふっ～、クレーンゲームも意外と得意なんだよね～」=Fufu--~, it might not seem like it, but I'm pretty good at the crane game~
+「それ先に言ってよ。まったく、ずるいなぁ……」=Say that beforehand. Jeez, so unfair...
+（……あれ？　子供がこっちを見てる）=(...huh? That kid's looking over at us.)
+「ん～？　このぬいぐるみ欲しいの～？」=Nn~? You want this plushie~?
+「はい、これお姉さんからのプレゼント。大事にしてね～」=Here, a present from this onee-san. Take good care of it, okay?~
+（子供が喜んでる。よほど嬉しかったんだろうな）=(The kid's so excited. Must have made him real happy, huh?)
+「[H名]は優しいね。惚れ直しちゃったよ」=You're such a kind person, [H名]. I've fallen for you again.
+「そ、そうっすか？　持って帰るのが面倒だからあげただけっすよ」=T-That so? I just gave it away because it would have been a pain to carry it home.
+（ふふっ、照れ隠しかな？）=(Fufu--, is she being shy?)
+「それより～、勝負も終わったし、他の場所へ行こう～」=Rather than that~, our match's over too so, let's go somewhere else~
+「うん、行こうか！」=Yeah, let's!

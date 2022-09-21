@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「よし！　ダッシュもう一本！」=“Alright! One more!”
 「うぇぇ……まだやるの？」=“Uweeh... one more, really?”
 「当たろ前だろー。あたしは中途半端が嫌いなんだっ！」=“Of course. I hate half assing stuff--!”

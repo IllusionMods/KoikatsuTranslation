@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「もちろんいいわよ。あなたのお家はどこ？　ちゃんと最後まで送って行ってあげなきゃね」=“Of course, I don't mind. Where's your home? I gotta drop you off right at the door.”
 「いやいや、送らなきゃいけないのは俺の方だよね」=“No no, I'm the one who has to make sure to drop you off at the door.”
 「それはダメよ。あなたが心配だもの、ちゃんと私に送らせて。さぁさ、帰るわよ～」=“That's not happening. I'd get so worried about you, let me drop you off. Now then, let's go~”

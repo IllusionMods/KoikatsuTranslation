@@ -1,0 +1,13 @@
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「もうこんな時間かよ。まだ遊び足りねえ気分だぜ」=It's already this late, huh? I've still not messed around enough.
+「そう？　結構遊びつくしたような気がするけど」=That so? I feel like we ran around all over the place though.
+「いやいや、私はまだまだ満足してねえよ」=No way, I'm still not satisfied yet.
+CHOICE:『最後に観覧車に乗ってかない？』=Wanna ride the ferris wheel to close the day off?
+CHOICE:『暗くなる前に帰ろうか』=Let's go home before it gets dark.
+「じゃあ、最後に観覧車に乗っていかない？」=In that case, wanna go ride the ferris wheel to close the day off?
+「観覧車か……そういや、まだ乗ってなかったな。いいぜ！　乗ろうじゃねえか」=The ferris wheel, huh... right, we haven't gotten on that one yet, have we? Sure! Let's do it.
+「でもさ、もうそろそろ夜になるから、暗くなる前に帰ろうよ」=But, listen, it's gonna get dark out in no time, so we should get home before that happens.
+「ちっ、しゃーねえな。そこまで言うなら、お前の言う通りにしてやるか」=Tsk--, can't be helped. I'll do as you say, since you're being so insistent.
+「今日遊べなかった分は他で埋め合わせてもらうからな、そのつもりでいろよ！」=But just know that I'll have you make up for all the fun we couldn't get to have today, so prepare yourself for that!

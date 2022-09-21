@@ -1,1 +1,4 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「きゃっ！？　な、何！？　うそ、見てたの……？」=“Kyah--!? W-What!? No way, you saw...?”

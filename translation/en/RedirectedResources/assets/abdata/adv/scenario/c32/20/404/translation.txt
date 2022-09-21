@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「う～ん、すごく美味しそうだね！」=Hmm~, looks really delicious!
 「ええ、本当に美味しそうです。では、いただきます」=Yes, it really does. Well then, thanks for the food.
 「そんなご飯食べるときみたいに、ガチンコのいただきますを……」=Saying "thanks for the food" so seriously, like you're eating dinner at home...

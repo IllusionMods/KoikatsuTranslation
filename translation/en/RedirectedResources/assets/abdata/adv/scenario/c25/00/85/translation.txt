@@ -1,4 +1,7 @@
-﻿「デートねぇ……私はあんまり出かけるの好きじゃないな～」=A date, huh... I'm not exactly a fan out going out~
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「デートねぇ……私はあんまり出かけるの好きじゃないな～」=A date, huh... I'm not exactly a fan out going out~
 「うーん、じゃあ室内でもできること……」=Mmm, well then, stuff that we can do indoors...
 「テレビはないから……同じ本を一緒に読んでみる？」=Since there's no TV here... wanna try reading the same book together?
 「ん～？　読み難そうなんだけど……」=Nn~? Feels like it'd be really hard to actually...

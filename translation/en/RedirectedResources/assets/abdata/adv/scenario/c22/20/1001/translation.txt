@@ -1,4 +1,8 @@
-﻿「こちらが私どもの式場になります」=This here is our wedding hall.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+モブ=Mob
+「こちらが私どもの式場になります」=This here is our wedding hall.
 「本当に式場だ……こういう場所ってなかなか来る機会ないから緊張するね」=It really is a wedding hall... it's not often you get to come to places like these, I'm getting nervous.
 「うん……雑誌なんかではよく見てたけど……モデルとはいえ、実際自分がやるとなると……はぅぅ……」=Yeah... they do show up in magazines a lot but... even if it's modelling, when I think about how it's gonna be us doing it... hauuu...
 「チャペルはこの扉の向こうになります。準備が整いましたら、こちらからご入場ください」=The chapel is beyond this door. Once the preperations are dealt with, please make an entrance through here.
@@ -30,4 +34,3 @@
 （うろ覚えなんだけどなぁ……ま、なんとかなるか）=(I can only vaguely remember it though... Well, I'll manage it I suppose)
 「それでは、こちらで少々お待ちください」=Well then, please wait here for a moment.
 「わかりました」=Got it.
-モブ=Mob

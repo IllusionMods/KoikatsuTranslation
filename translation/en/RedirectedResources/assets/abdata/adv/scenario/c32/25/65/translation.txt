@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「不思議ですね。あなたと歩いていると、いつもの道が違って見えます」=It's so mysterious. When I'm walking with you, even the usual road home feels different.
 「楽しい？」=Is it fun?
 「はい、予想以上に。……寄り道をしたくなる気持ちが少しわかりました」=Yes, more than I ever expected.I understand, a bit, the feeling of wanting to take the scenic route.

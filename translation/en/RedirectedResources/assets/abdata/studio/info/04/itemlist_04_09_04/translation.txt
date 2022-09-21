@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 丸吹き出し１左=Oval 1 Left
 丸吹き出し１右=Oval 1 Right
 丸吹き出し2左=Oval 2 Left

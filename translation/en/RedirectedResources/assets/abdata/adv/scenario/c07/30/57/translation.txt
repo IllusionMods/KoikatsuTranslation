@@ -1,4 +1,7 @@
-﻿「やっぱりデートと言えば公園。だよな！？」=Man, when you think of a date, it's gotta be at the park. Don't you think!?
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「やっぱりデートと言えば公園。だよな！？」=Man, when you think of a date, it's gotta be at the park. Don't you think!?
 「あはは……お約束と言えば、そうかもね」=Ahaha... as far as cliches go, yeah.
 「む……お約束は嫌か？　私らはまだデート初心者なんだぞ？」=Mmph... you hate cliches? We're still beginners at this dating thing, you know?
 「嫌なわけないだろ、きみとならどこだって楽しいさ」=Nah, not to say I hate it. When I'm with you, I can enjoy myself just about anywhere.

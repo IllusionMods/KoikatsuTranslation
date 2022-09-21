@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 本を読む待機1=About To Read Book 1
 姿勢を変える1=Changing Posture 1
 本を読む待機2=About To Read Book 2

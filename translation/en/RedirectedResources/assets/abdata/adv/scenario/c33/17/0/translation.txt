@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「あのー、コイカツ部の[P姓]って言うんだけど、いま話せるかな」=Hey, I'm [P姓], from the Koikatsu club, if you have the time, could we talk for a moment?
 「あら、時間ならタップリあるけれど……あなた、私に興味があるの？」=Oh, if it's time, then I have lots but... Do you have an interest in me?
 （おお……大人のお姉さんって感じの人だな）=(Ooh... She has a really mature feel to her)

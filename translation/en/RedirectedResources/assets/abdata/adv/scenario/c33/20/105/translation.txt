@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「この夜景を[H名]さんと一緒に見たかったんだ」=I wanted to watch this night view together with you, [H名]-san.
 「……相変わらず、綺麗ね……」=...As usual, it's beautiful...
 「え？　もしかして、[H名]さん、ここ知ってた？」=Eh? [H名]-san, did you already know about this place?

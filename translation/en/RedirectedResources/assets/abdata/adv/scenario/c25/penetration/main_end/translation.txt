@@ -1,1 +1,4 @@
-﻿「ふう……珍しい経験だったけど、癖になっちゃいそう～」=Fuu... it was a pretty novel experience but, feel like I could get addicted to it~
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「ふう……珍しい経験だったけど、癖になっちゃいそう～」=Fuu... it was a pretty novel experience but, feel like I could get addicted to it~

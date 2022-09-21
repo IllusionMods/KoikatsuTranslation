@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「いい匂いがする。このお店、自家製で豆を挽いてるみたいだね」=“Smells really nice. Seems like they grind their own beans around here.”
 「ええ、さっきも煎った豆を引く、ゴリゴリした音が聞こえてきたわね」=“Yes, there was that noise too, the sound of roasted beans being ground, just earlier.”
 「ああいう作業って楽しそうだね。手間暇が食べ物を美味しくしてさ、満足感が大きくなるんだ」=“That sort of work seems pretty fun, doesn't it? Spending the time and effort to make food more delicious, and more satisfying.”

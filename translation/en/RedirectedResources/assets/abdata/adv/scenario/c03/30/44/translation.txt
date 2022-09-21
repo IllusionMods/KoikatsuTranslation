@@ -1,6 +1,8 @@
-
-//「へえ、色々あるんだね」=
-//「わぁ、あの着ぐるみのクマ可愛いですー！　見に行ってもいーですか？」=
-//「うん、いいよ」=
-//「えへへぇ、可愛くてもふもふしちゃったです！　風船ももらっちゃったですよー！」=
-//（よかった、喜んでもらえたみたいだ）=
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「へえ、色々あるんだね」=“Hoh, there's all sorts, huh?”
+「わぁ、あの着ぐるみのクマ可愛いですー！　見に行ってもいーですか？」=“Waah, that giant stuffed bear mascot is so cute! Could we go check it out?”
+「うん、いいよ」=“Yeah, sure.”
+「えへへぇ、可愛くてもふもふしちゃったです！　風船ももらっちゃったですよー！」=“Ehehe~, it was so cute and fluffy! It even gave me a balloon~!”
+（よかった、喜んでもらえたみたいだ）=(Great, looks like she enjoyed herself.)

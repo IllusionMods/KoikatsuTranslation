@@ -1,2 +1,4 @@
-
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
 「おはようございます。いつもこの時間に登校されるんですか？」=“Good morning. Do you always arrive to school at this time?”

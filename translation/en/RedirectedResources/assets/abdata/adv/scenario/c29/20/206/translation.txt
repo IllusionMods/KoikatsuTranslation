@@ -1,4 +1,7 @@
-﻿「んーっ。今日も目一杯遊んだなぁ。[H名]と一緒だと、時間が過ぎるのが早いよ」=Nnn--. We sure had a ton of fun today too. When we're together, [H名], time really just zips by.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「んーっ。今日も目一杯遊んだなぁ。[H名]と一緒だと、時間が過ぎるのが早いよ」=Nnn--. We sure had a ton of fun today too. When we're together, [H名], time really just zips by.
 「時計を気にする暇すらなかったですね」=We didn't have even enough time to look at the clock.
 「あなたと言えば、次から次へと私の手を引っ張って……ふふっ」=You just always kept pulling my hand, from one thing to the next... fufu--
 「え？　どうかした？」=Eh? Something the matter?

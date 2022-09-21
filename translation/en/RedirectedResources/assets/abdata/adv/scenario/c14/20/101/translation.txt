@@ -1,4 +1,7 @@
-﻿「へへっ、今日はいい散歩日和だよな！」=Hehe--, great weather out for walking today, isn't it!
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「へへっ、今日はいい散歩日和だよな！」=Hehe--, great weather out for walking today, isn't it!
 「う～ん……俺はちょっと、暑すぎると思うな……」=Mmm~... it's a bit too hot for me, personally...
 「なんだよ。これぐらいでダレるなんて、だらしがねえヤツ」=The hell? Is this all that it takes to sap the life out of you? What a slouch.
 「ほら、見てみろよ。向こうで遊んでるガキどもの方がよっぽど元気そうだぜ」=C'mon, look over there. Those kids playing around over there look more energetic than you do right now.

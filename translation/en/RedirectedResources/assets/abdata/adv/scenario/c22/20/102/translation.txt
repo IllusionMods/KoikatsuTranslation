@@ -1,4 +1,7 @@
-﻿「この時間の公園って、やっぱりカップルが多いよね」=There really are a whole lot of couples around at this time, aren't there?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「この時間の公園って、やっぱりカップルが多いよね」=There really are a whole lot of couples around at this time, aren't there?
 「うん、みんなデートしてるんだねー。にこにこしてて楽しそう」=Yeah, everyone's out on a date, huh~? They all look like they're having so much fun.
 「そうだね。それにみんなくっついて……本当に幸せそうだ」=They sure do. They're also all clinging to each other... they really do look happy.
 「あはは、だったらー……私たちも負けないようにくっついちゃお？　こうやって……」=Ahaha, in that case... we can't lose, now can we? Wanna cling to each other? Like this...

@@ -1,4 +1,7 @@
-﻿「あのー……[H名]さん？　お歌を歌わなくていいのかな？」=Uhm... [H名]-san? Sure you don't wanna sing?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「あのー……[H名]さん？　お歌を歌わなくていいのかな？」=Uhm... [H名]-san? Sure you don't wanna sing?
 （隣りのカップルがエッチしてるって分かった途端、ずっと壁に耳をつけている……しかも、日本語の勉強をしてるときの真剣な顔だ……）=(She's got her ear stuck to the wall ever since she realized the couple in the next room over were going at it like rabbits... Not only that, her expression is as serious as when she's studying Japanese...)
 「アッ！　ご、ゴメンネ、聞いたことナイニッポン語、タクサン聞こえるカラ……」=Ah--! S-Sorry, it's just that I got to hear some Japanese that I've never heard before...
 （[H名]って、こんなにエッチな女の子だったかな……ノリノリにならないと、恥ずかしくて丁寧語に戻っちゃうぐらいなのに……あ……！）=(Was she really that dirty a girl, [H名]... Even though she trips up and goes back to using polite language from embarrassment everytime... Ah...!)
@@ -6,6 +9,8 @@
 「っ！！　ァ……ゥ…………だ、ダッテ、語学ｓｃｈｏｏｌで、習えないカラ……」=--!! Ah... uh.........I-I can't help it, they don't teach it at language school...
 「俺は気にしてないよ。むしろ、舌足らずな感じで興奮するぐらいだし」=I don't mind it, you know? If anything, the way your speech is garbled really turns me on.
 「本当？　変じゃないノ？　トテモ不安ダカラ……」=Really? It's not weird? I'm really anxious about it...
+CHOICE:『今ここで証明してみせようか？』=『Shall I prove it to you here, right now?』
+CHOICE:『本当だよ。だから安心して歌おう』=『It's true. That's why, don't worry and sing your heart out.』
 「そんなに不安なら、[H名]のエッチな声に興奮してるって、今証明してみせようか？」=If you're that worried, do you want me to prove it to you right now, that your lewd voice turns me on?
 「エ……ソレって、今、ココでするって意味……カナ？」=Lew--... By that, do you mean you want to... do it here, right now?
 「左様。彼女に不安を抱かせるのは、彼氏の名折れにござる」=Indeed. Making the girlfriend insecure is a great shame on the honour of the boyfriend, worthy of seppuku.
@@ -23,6 +28,3 @@
 「フフ♡　また一歩、ｌｏｖｅ　ｌｏｖｅになれたカラ、その記念ｓｏｎｇをｐｒｅｓｅｎｔするネ♡」=Fufu♡ We've gotten even more lovey-dovey so, I'll present to you a song to commemorate that♡
 「じゃあ俺も[H名]に送るアンサーソングを入れるよ！」=Then I'll queue up a reply to that song too!
 （……こうして時間がくるまで、二人で歌い続けた）=(...We kept singing like this until our slot ran out)
-
-CHOICE:『今ここで証明してみせようか？』=『Shall I prove it to you here, right now?』
-CHOICE:『本当だよ。だから安心して歌おう』=『It's true. That's why, don't worry and sing your heart out.』

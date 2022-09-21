@@ -1,4 +1,7 @@
-﻿「この歌も俺の好きな曲……相変わらず、よく俺のこと分かってるね。こういうのも逐一チェックしてるの？」=This song is one of my favourites too... You know me so well, as usual. Do you research this sort of thing about me too?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「この歌も俺の好きな曲……相変わらず、よく俺のこと分かってるね。こういうのも逐一チェックしてるの？」=This song is one of my favourites too... You know me so well, as usual. Do you research this sort of thing about me too?
 「あなたのことを日々勉強するのが私の生き甲斐ですから♡　もし自分で自分のことがわからなくなったら、私に何でも聞いてくださいね♡」=Learning more about you everyday is my raison d'être, afterall♡ If you ever forget something about yourself, just ask me♡
 「あはは、[H名]と付き合ってれば、自分探しの旅になんて出なくていいだろうね」=Ahaha, I probably won't ever have to go on a journey to do soul-searching, if I just stay with you.
 「そうですよ♡　あなたの魅力は私が全部知ってますし、これからも探していきます♡　あなたが短所だと思ってるところも、裏返せば長所です♡」=That's right♡ I know all your charming points, and I'll keep looking for more as well♡ Stuff that you consider defects, are your merits if you turn them inside out too♡

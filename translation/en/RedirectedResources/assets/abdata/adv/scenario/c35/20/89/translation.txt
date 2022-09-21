@@ -1,4 +1,7 @@
-﻿「俺たちもずいぶん仲良くなったし、そろそろお互いのことを愛称で呼んでみない？　もっと距離が近くなるんじゃないかな？」=We've gotten pretty close now, so wanna try calling each other by nicknames? Don't you think it'll make us even closer?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「俺たちもずいぶん仲良くなったし、そろそろお互いのことを愛称で呼んでみない？　もっと距離が近くなるんじゃないかな？」=We've gotten pretty close now, so wanna try calling each other by nicknames? Don't you think it'll make us even closer?
 「うんっ、いいやんっ！　やろうやろう！　ちょっと恥ずかしいけど、私も君のこと、特別な呼び方してみたい！」=Yeah--, sure--! Let's do it! It's a bit embarrassing but, I want to try calling you something special too!
 「良かった！　それじゃえっと……俺のことは[Pあだ名]って呼んでもらってもいい？」=Great! Well then, erhm... could I get you to call me [Pあだ名]?
 「へぇ、ちょっと変わってる呼び方なんやね。でも、いいよ♪　それじゃ……[Pあだ名]？　これからもよろしくして欲しいん」=Heh, that's a pretty unusual nickname. But, alright♪ Well then... [Pあだ名]? Take care of me in the future too, okay?

@@ -1,4 +1,7 @@
-﻿「Ｈｅｙ，ｍｙ　ｓｗｅｅｔ♡　アナタの大好きなｓｗｉｍｓｕｉｔダヨ♡」=Hey, my sweetheart♡ It's the swimsuit you love so much♡
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「Ｈｅｙ，ｍｙ　ｓｗｅｅｔ♡　アナタの大好きなｓｗｉｍｓｕｉｔダヨ♡」=Hey, my sweetheart♡ It's the swimsuit you love so much♡
 「おぉ……ｎｉｃｅ……ｖｅｒｙ　ｎｉｃｅ！」=Oooh... nice... very nice!
 「フフフ♡　ニッポンのオンナノコたちマネできない、悩殺ｐｏｓｅしちゃおうカナ♡」=Fufufu♡ Maybe I'll pose seductively for you, the sort of pose Japanese girls simply cannot make♡
 「ちょっと待って、ビデオカメラ持ってくる」=Wait a bit, I'll bring a videocamera.

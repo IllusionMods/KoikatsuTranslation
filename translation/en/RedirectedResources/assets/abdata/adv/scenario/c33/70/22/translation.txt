@@ -1,0 +1,5 @@
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「ねえ、調理実習で作ったケーキがあるんだけど、もしよかったら食べてくれない？」=Hey, I have this cake here, that I made during cooking practice, won't you try some?
+「いつも楽しくお話してくれるでしょ？　そのお礼みたいなものだから、あまり気にしないでね」=You always talk about fun stuff with me, so don't mind it too much and take it as a sort of "thanks" from me.

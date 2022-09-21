@@ -1,5 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「勉強も部活も、きちんと頑張りましょうね」=“Do your best in your studies and club activities!”
 「先生はいつでもきみの味方よ」=“I'll always be on your side.”
-「ふふっ、今日の星占いね、先生、一位だったの」=“Fufu～ In today's horoscope, I'm number one.”
-
-野乃花=Nonoka
+「ふふっ、今日の星占いね、先生、一位だったの」=“Fufu~ In today's horoscope, I'm number one.”

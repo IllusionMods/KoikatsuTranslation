@@ -1,4 +1,6 @@
-
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
 //「ふぅ。ちょっと疲れたから、休憩にしない？」=
 //「えぇ、そうね。私も少し汗かいちゃったわ」=
 //「そ、そう……」=

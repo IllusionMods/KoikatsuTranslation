@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「……[P]、手」=“...[P], hand.”
 「えっ？　あ、うん！　手、繋ごうか」=“Eh--? Ah, sure! Let's hold hands.”
 「……うん。[P]の手、暖かい……」=“...Yeah. Your hand, is so warm...”

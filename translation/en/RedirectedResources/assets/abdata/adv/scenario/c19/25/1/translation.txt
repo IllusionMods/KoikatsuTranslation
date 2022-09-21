@@ -1,4 +1,7 @@
-﻿「えっと、その、今大丈夫かな……？」=Erhm, hey, got a moment...?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「えっと、その、今大丈夫かな……？」=Erhm, hey, got a moment...?
 「えっ？　ひゃぁぁっ！？　……あ、ごめんなさい。転校生の人……だよね……？」=Eh--? Hyaaah--?! ...Ah, I'm sorry. You're the... transfer student, right...?
 「うん、はじめましてを言いに来たんだけど……驚かせちゃったかな？　ごめんね」=Yeah, I came to say hi but... caught you off-guard? Sorry.
 「う、ううん、私の方こそ大げさに驚いちゃって……」=N-No, if anything, I was the one who overreacted...

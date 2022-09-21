@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「どんどん昇っていきますね。いつの間にか、地面があんなに遠くなっています」=We keep going higher and higher. Didn't take long at all for the ground to start looking so far from us.
 「動きがゆっくりな分、気付いたら結構上の方まで来てるんだよね」=With how gently it's moving, by the time you notice it, it's already halfway into the sky.
 「ええ。小さい頃はその眺めにはしゃいでいましたけれど、今はなんだか落ち着きます」=Yes. When I was small, this view used to make me all excited, but now it actually calms me down, for some reason.

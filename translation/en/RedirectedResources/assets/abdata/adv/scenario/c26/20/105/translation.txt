@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「すごく……綺麗」=“It's... really pretty.”
 「ここのこと調べてたら、夜景が綺麗だって書いてあってさ。どうしても[H名]と見たかったんだよ」=“When I looked this place up, I found a comment saying that the nightscape is was really something. I just couldn't help myself from seeing it with you.”
 「美しいってこの景色のことを言うんだろうね。ビルの明かりや街のネオン。夜空が暗いほど、光が存在感を増してる……」=“The term "beautiful" is reserved for views like these, isn't it? The lit up buildings, the neon of the city. The darker the night is, the more alive it all looks, doesn't it...”

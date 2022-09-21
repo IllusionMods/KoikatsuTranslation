@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「美味しそうなオムライスですね。いただきます」=“Truly delicious looking omurice, isn't it? I'm digging in.”
 「いただきまーす……もぐっ、もぐ……あぁ、オムライスってどうしてこんなに美味しいんだろうね」=“Digging in~... *chew, chew*... aaah, just why is omurice so delicious?”
 「ふふ、美味しいのは良いですが、口元にご飯粒がついていますよ。取ってあげますね」=“Fufu, I'm glad you are enjoying it but, you just got some rice on your face, you know? I'll take it off for you.”

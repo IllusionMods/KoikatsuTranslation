@@ -1,0 +1,14 @@
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「そろそろ日が沈みそうですね」=Looks like the sun's gonna go down soon.
+CHOICE:『最後に観覧車に乗ってかない？』=『Wanna go ride on the Ferris Wheel to end the day?』
+CHOICE:『暗くなるから帰ろうか』=『It's gonna get dark so maybe we should go home.』
+「時間、まだ大丈夫だったら、最後に観覧車に乗ってかない？」=If you're still good on time, wanna go have a ride on the ferris wheel as the last thing we do?
+「観覧車ですか、構いませんよ」=Ferris wheel, is it? Sure, I don't mind.
+「ありがとう。それじゃ行ってみよっか」=Thank you. Then, let's go take a look.
+「はい」=Yes.
+「まだ乗れてないのもあるけど、暗くなっちゃうからそろそろ帰ろうか」=There's still quite a few attractions we've not tried yet but, it's gonna get dark soon, so maybe we should head home.
+「そうですね」=Indeed.
+「次回の為にも、楽しみは残しておきましょう」=Let's leave behind some things to look forward to, for next time's sake.
+「うん。じゃあ、名残惜しいけど行こっか」=Yeah. Then, while I don't wanna be apart from you, let's go.

@@ -1,1 +1,4 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「きゃあ！　あ、あんたなのね？　もう、覗きなんて趣味が悪いわよ！」=“Kyah! I-It's you, huh? Jeez, I can't approve of you being a peeping tom!”

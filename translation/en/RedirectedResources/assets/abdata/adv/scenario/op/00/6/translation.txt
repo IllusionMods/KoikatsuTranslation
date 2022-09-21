@@ -1,3 +1,7 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+野乃花=Nonoka
 「それじゃあ、教卓の前に立ってくれるかな？」=“Alrighty then, can you please come and stand in front of the board.”
 「はい」=“Alright.”
 先生の指示に従って、教卓の前へ移動する。=Following Sensei's orders, I moved in front of the board.
@@ -15,17 +19,17 @@
 「何かとご迷惑をかけると思いますが、これからよろしくお願いいたします」=“It was a pleasure to meet you all. I hope we'll get along with each other from now on.”
 人間、ファーストインパクトが大事だ。=First impressions are everything when building a new relationship.
 少しでも印象をよくするために、丁寧な口調に気をつけて自己紹介を済ませる。=In order to make as good of an impression as possible, I went through my introduction as politely and as formally as I could.
-「はい、自己紹介ありがとうございましたー」=“OK, thank you for the introduction～.”
-「みなさん、仲良くしてあげてくださいね？　拍手ー」=“Be sure to get along with him, OK everyone? Applause～”
+「はい、自己紹介ありがとうございましたー」=“OK, thank you for the introduction~.”
+「みなさん、仲良くしてあげてくださいね？　拍手ー」=“Be sure to get along with him, OK everyone? Applause~”
 パチパチパチと女生徒たちみんなが手を叩いてくれた。とりあえず歓迎されているみたいだ。=The girls in class all clapped their hands. Seems like I'm welcomed at the least.
-「はーい、ありがとうございます。……あっ、そういえば彼には大事なお仕事がありましてー」=“O～K, thank you everyone.... Ah, I almost forgot that he has something important to tell you all.”
+「はーい、ありがとうございます。……あっ、そういえば彼には大事なお仕事がありましてー」=“O~K, thank you everyone.... Ah, I almost forgot that he has something important to tell you all.”
 「みなさん知っての通り、彼は学園唯一の男の子なのですがー、やはり気になりますよね？　異性として」=“As you all know, he's the only boy in this school, it's only inevitable that you'd be interested in him right? As a member of the opposite sex.”
 先生から突然のぶっちゃけトークに、女の子達はにわかに騒がしくなった。=The whole class lit up when Sensei brought out such a delicate topic so suddenly.
 （……部活のことを話すつもりなのだろうか？）=(...Is she planning to talk about the club?)
 （どの道、話さなきゃいけないことだから、先生から伝えてくれるのはありがたいけど……）=(Well, I'll eventually have to come out with it sooner or later, so it's great that Sensei is telling everyone herself but...)
 （もうちょっと、オブラートに包んだほうがいいんじゃ……？）=(Could you have maybe, I don't know, be a little less blunt...?)
 そんな俺の心配を余所に、女の子達は好奇心を隠すことなく、先生の話を聞いている。=My worries asides, the girls in class continued to listen to Sensei with brimming curiosity.
-「実はー、この度、恋愛経験の少ない皆さんのために、異性とのコミュニケーションを取る練習をしてもらおうかと思いましてー」=“The truth is～, as you all have little to no experience with dating, he's here to help you practice communicating with the opposite sex.”
+「実はー、この度、恋愛経験の少ない皆さんのために、異性とのコミュニケーションを取る練習をしてもらおうかと思いましてー」=“The truth is~, as you all have little to no experience with dating, he's here to help you practice communicating with the opposite sex.”
 「彼にお願いして、この学園に新しく部活を立ち上げることになりました！　では、説明をどうぞ」=“To be more precise, he's going to make a new club in this school! And, your turn to explain.”
 「えっ！？」=“Eh!?”
 （最後まで説明してくれないのか！？）=(You weren't going to explain it all the way!?)
@@ -54,6 +58,4 @@
 「はい、じゃあ、自己紹介も終わったところでー、きみの席を案内しましょうか」=“OK, now that we've got to know each other, let's decide on where you should sit.”
 「えーと……あ、あそこが空いてるわねー。そこに座ってください」=“Let's see... Ah, there's an empty seat. Please sit there.”
 「わかりました」=“Alright.”
-こうしてなんとか無事（？）自己紹介を終えた。=And so, I somehow managed to end my introduction on a rather positive note... besides a hiccup or two. 
-
-野乃花=Nonoka
+こうしてなんとか無事（？）自己紹介を終えた。=And so, I somehow managed to end my introduction on a rather positive note... besides a hiccup or two.

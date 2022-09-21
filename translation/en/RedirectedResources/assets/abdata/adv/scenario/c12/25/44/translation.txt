@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「へえ、色々あるんだね」=“Hoh, there's all sorts, huh?”
 「おっ！　あの店なんて面白そうだぞ。入ってみないか？」=“Oh--! That shop over there looks kinda interesting. Wanna check it out?”
 「うん、いいよ」=“Yeah, sure.”

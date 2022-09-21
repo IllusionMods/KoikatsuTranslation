@@ -1,9 +1,14 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「……やはり歌詞のよい歌は、歌っていて気持ちいいですね……」=“...Singing a song with good lyrics, really does feel nice, doesn't it...”
 （ん？　今、[H名]が俺の下半身に視線を送ってきたような……）=(Nn? I feel like she just gave my crotch, a look...)
 「……次はもっと、大人の恋愛を歌った曲を歌いましょうか……」=“...Shall I sing a song more about mature love, next...”
 「[H名]……もしかしてなんだけど、誘ってる？」=“[H]... I'm just guessing but, are you trying to seduce me?”
 「？　誘ってるとは、どういうことでしょうか」=“? What do you mean by "seducing", exactly?”
 （ああ、これは……据え膳食わぬは男の恥、という状況なのか、それとも気のせいか……どっちだろう？）=(Aaah, this is... am I being asked to dig in here, or is it just my overactive imagination at work... which is it?)
+CHOICE:『自分から誘う』=Seduce her yourself.
+CHOICE:『気のせいだろう』=Probably your imagination.
 「……[H名]、また……ムラムラしちゃったんだけど、いいかな？」=“...[H], I'm... all horny again, could we?”
 「……はい。私も……ほんの少しだけ、期待してしまっていて……」=“...Yes. I've been... hoping for it as well, just a teensy tiny bit...”
 「そうだったんだ。それじゃ……」=“I see. Well then...”
@@ -18,6 +23,3 @@
 「今日はいっぱい歌おうね」=“Let's sing lots today, alright?”
 「ええ。私の歌を聴いて、嬉しそうにしてくれるあなたが好きなので、いっぱい歌います」=“Yes. I love seeing you happy, enjoying hearing me singing so, I'll sing lots.”
 （よかった……やっぱり気のせい、だった、のかな……？）=(Great... really must have been, my overactive imagine, I guess...?)
-
-CHOICE:『自分から誘う』=Seduce her yourself.
-CHOICE:『気のせいだろう』=Probably your imagination.

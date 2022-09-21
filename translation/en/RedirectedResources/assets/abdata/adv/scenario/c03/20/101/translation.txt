@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「あっ、あそこにちょうどいいベンチがあるです！　ちょっと座っていくですか？」=“Ah--, look, there's a perfectly positioned bench right over there! Want to go rest on it for a bit?”
 「うん、いいね。陽射しも結構強いし、休んでいこう」=“Sure, sounds good. The sunlight's pretty damn strong today, let's take a break.”
 「えへへ、ここ、風がすーって抜けて、気持ちいいです！　なかなか良い場所が空いてたですよ」=“Eheheh, the breeze here feels so nice! We got lucky that this bench was free.”

@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 喜1=Happy 1
 喜2=Happy 2
 喜3=Happy 3

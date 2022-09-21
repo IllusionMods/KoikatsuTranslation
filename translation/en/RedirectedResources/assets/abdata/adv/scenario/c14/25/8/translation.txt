@@ -1,4 +1,7 @@
-﻿「はぁ？　おまえ自分で何言ってんのかわかってんのか？」=Haa? Do you even understand what you're spouting out of that mouth?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「はぁ？　おまえ自分で何言ってんのかわかってんのか？」=Haa? Do you even understand what you're spouting out of that mouth?
 「ちゃんとわかってるよ……その上で、お願いしてるんだ」=I understand it just fine... I'm asking with full understanding.
 「……そんなにしたいのか？」=...You wanna do it that badly?
 「うん、どうしてもしたい。なにがなんでもしたい」=Yeah, no matter what. No matter what happens, I wanna do it.

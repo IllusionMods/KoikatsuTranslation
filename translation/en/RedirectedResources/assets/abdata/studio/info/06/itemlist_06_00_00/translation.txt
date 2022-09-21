@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 半ピラミッド(通常)=Half Pyramid (General)
 角なし半四角錐(通常)=Beveled Half-Squared Pyramid (General)
 半コーン(通常)=Half Cone (General)

@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「また、汝と共に散策できるとはな……」=“To think I'd get another chance, to walk in tow with thee...”
 「とりあえず、ぶらぶら歩こうか」=“Let's just walk around for now, okay?”
 「少し歩き疲れたな、魔力が足りないかもしれない」=“I am starting to get tired, my essence reserves might be low.”
@@ -7,10 +10,9 @@
 「えっと　汝の背中にギューッとしたいなって……ダメ？」=“Erhm, I just want to squeeze onto thy wide back... no good?”
 「や、やる！　やりたい！　やらせてください！」=“I-I'll do it! I wanna do it! Please let me do it!”
 「ふぅ……お別れかあ。さ、寂しいな、汝はどうなのだ？」=“Fuuh... split paths, huh? N-Now I feel lonely. What about thee?”
+CHOICE:「俺も、寂しいよ。もう少し一緒にいたい」=Me too, I don't wanna say goodbye either. Let's be together a bit more.
+CHOICE:「寂しいけど、またこれるよ」=I feel the same but, we can just come again.
 「俺も、寂しいよ。もう少し一緒にいたい」=“Me too, I don't wanna say goodbye either. Let's be together a bit more.”
 「我もだ……汝ともっとイチャイチャしたい」=“Me as well... I would like to flirt with thee some more.”
 「寂しいけど……またこれるよ、一緒に。次はもっと楽しくなるはず……ううん、今日以上に楽しませるよ！」=“It is sad but... we can just come again, together. We could do something more fun next time... no, I'll definitely make it more fun next time!”
 「そ、そうか……わかった。次もよろしく頼む」=“I-Is that so... I understand. I shall wait till such a time then.”
-
-CHOICE:「俺も、寂しいよ。もう少し一緒にいたい」=Me too, I don't wanna say goodbye either. Let's be together a bit more.
-CHOICE:「寂しいけど、またこれるよ」=I feel the same but, we can just come again.

@@ -1,0 +1,39 @@
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「何度見ても、素敵な景色なんだなぁ……」=“No matter how many times I see it, it's always so lovely...”
+「だねぇ……俺もしみじみ思うよ」=“Yeah... I feel the same way.”
+「……ここに来ると、アニメの再現をしたことを思い出しますぞ」=“...I can't help but remember that time we re-enacted that anime.”
+「キス、したもんね」=“We even kissed, afterall.”
+「えぇ……ワタシにとって大切な思い出になってるんだなぁ」=“Yes... to me, it's a really precious memory.”
+「ねえ……[H名]……いい、かな？」=“Hey... [H]... could, we?”
+「拒む理由……ワタシにはありませんから……」=“I don't have... any reason to say no to you...”
+「ん……」=“Nn...”
+「んん……ん……」=“Nnn... nn...”
+「……夜景の効果もあってか……一層[H名]の事が愛おしいよ」=“...I wonder if it's the backdrop... you're just that much more lovely right now, [H].”
+「に、二次元ばりにクサい台詞ですぞ、それ……」=“T-That's so trite, it's like straight out of a game, you dummy...”
+「そ、そっか……クサいか、これ……」=“I-I see... trite, huh...”
+「でも……本当に物語のヒロインになれたみたいで、嬉しかったり……」=“But... it really made me feel like a heroine, it made me really happy...”
+「あの……もう一回キス、してもいいかな？」=“Uhm... could we kiss one more time?”
+「もちろん……」=“Of course...”
+「んふ……ちゅ……んぁ……はぁ……んぅぅ……」=“Nnfuh... *kiss*... nnah... haah... nnn...”
+「ん、んん……」=“Nn, nnn...”
+「……情熱的なキスだったね」=“...Such a passionate kiss.”
+「自分で思っていた以上に、気持ちが昂ぶってたみたいで……えへ、へ……」=“Seems like I'm way more into it right now, than I thought... eheh, heh...”
+「…………」=“......”
+CHOICE:『じゃあ、エッチしない？』=Then, wanna have sex?
+CHOICE:『そろそろ帰ろうか』=Let's go home.
+「じゃあ、エッチしない？　前にした、あの場所でさ」=“Then, how about we have sex? You know, where we did it last time?”
+「あなたはすぐ１８禁展開に持っていきますね……」=“You always just love running towards that R-18 certification, don't you...”
+「いや？」=“Don't want to?”
+「そうは言ってませんよ。むしろ、望んでいたというか……」=“I didn't say that. If anything, I've been waiting for it, rather...”
+「え？　なんだって？　俺とエッチしたくてたまらなかった？」=“Eh? What was that? You want to have sex with me so badly you can barely hold it in?”
+「難聴と思わせてしっかり聴いてるじゃないか！」=“Don't pretend you're hard of hearing, I know you're not!”
+「俺が[H名]の言葉を聞き逃すわけないでしょ」=“There's no way I could ever miss a single word out of your mouth, [H].”
+「っ……そこから、口説き文句に繋げるのは、卑怯ですぞ……」=“--... It's unfair, to follow that up with such a sweet chat up line...”
+「ふふ、そっか。じゃあ、デートに相応しいキスもしたことだし、そろそろ帰ろうか」=“Fufu, is that so? Well, we kissed plenty enough to make this date a solid one, let's go home now, shall we?”
+「……えぇ、すっかり遅い時間ですしな」=“...Yes, it is very late out right now.”
+「そういえば……アニメの時間とか大丈夫？　夜にもやってるんでしょ？」=“Reminds me... you're not missing any anime right now, are you? Don't they air them at night too?”
+「さ、さすがにデートの日にリアタイ視聴をしようとは思わないよ」=“E-Even I'm not so far gone as to insisit on watching it in realtime, on the days where we go on a date.”
+「俺のために予定を空けてくれてるんだ。嬉しいな」=“You opened up your day just for me. I'm really happy.”
+「ストレートに言われると、照れますぞ…」=“It's embarrassing when you, say it so directly...”

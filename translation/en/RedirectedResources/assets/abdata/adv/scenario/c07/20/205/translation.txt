@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「おー、見ろよこの景色！　すげーなぁ！」=Ooh, look at this sight! It's amazing!
 「ウキウキだね、[H名]」=You're sure in a good mood, [H名].
 「いや、実を言うとさ……ちょっと憧れてたんだよな。こうやって二人で観覧車に乗るってやつに」=Well, you see... I've always looked forward to this sort of thing. Riding the ferris wheel together like this.

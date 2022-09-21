@@ -1,4 +1,7 @@
-﻿「Ｈｉｙａ、[Pあだ名]♪」=Hiya, [Pあだ名]♪
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「Ｈｉｙａ、[Pあだ名]♪」=Hiya, [Pあだ名]♪
 「あれっ！？　いつもの呼び方と違うね？」=Huh--!? That's not what you usually call me.
 「言葉の壁、難しケド、逆に楽しむコトにシタノ♡　Ｎｉｃｋｎａｍｅはｎｉｃｅｉｄｅａデショ？」=Language barriers are hard but, I decided to have fun with them♡ Calling each other by nicknames is a nice idea, no?
 「嬉しいこと考えてくれるなぁ……あっ、それなら俺も[H]のこと愛称で呼んでみていい？」=You sure thought up something nice... Ah--, In that case, do you mind if I call you by a nickname too?

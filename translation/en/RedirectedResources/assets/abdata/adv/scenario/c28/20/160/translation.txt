@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 //「結構夜風があるし、風邪ひかないように早く帰ったほうがよさそうだね」=
 //「まっ、待つのじゃ」=
 //「どうしたの？」=

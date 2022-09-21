@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「[H名]っ、シャワーとかはいいよね？　すぐしたいんだ！」=[H名], we can skip the shower, right? I want to get to it right away!
 「こらっ、興奮し過ぎだ。シャワーくらい浴びさせろっ……お互い汗臭いのは嫌だろう？」=Hey--, you're getting too excited. Let me take a shower atleast--... It'd be awful if we both stank of sweat, no?
 「俺は大丈夫！　むしろ汗臭い方が興奮するかも……」=I'm fine with it! If anything, your sweat might make me more aroused...

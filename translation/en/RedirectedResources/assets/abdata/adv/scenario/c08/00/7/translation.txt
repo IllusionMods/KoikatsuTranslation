@@ -1,4 +1,7 @@
-﻿「ええっ！　いきなり好きって言われても……私、わからないよ」=Eeh--! Even if you say that... I, I dunno.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「ええっ！　いきなり好きって言われても……私、わからないよ」=Eeh--! Even if you say that... I, I dunno.
 「……それじゃ、俺のこと嫌い？」=...Well then, do you hate me?
 「嫌いじゃない。私、あなたと一緒にいると、いつも心臓がドキドキするもの」=I don't hate you. When I'm with you, my heart always starts racing.
 「俺もそうだよ。だから……俺と付き合ってほしいんだ」=I feel the same way. That's why... I want you to go out with me.

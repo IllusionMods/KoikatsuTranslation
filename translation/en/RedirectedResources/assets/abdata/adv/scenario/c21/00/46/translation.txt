@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 //「どう……だった？　まだあまり慣れてないから、ちゃんと出来たかなって……」=
 「すごく良かったよ」=It was great.
 //「そう？　うふふっ、よかった♪」=

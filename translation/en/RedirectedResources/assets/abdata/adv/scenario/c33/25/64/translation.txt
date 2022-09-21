@@ -1,2 +1,5 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「おじゃまします……くんくん、はぁ……相変わらずあなたのにおいでいっぱいね」=I'm coming in... *sniff-sniff*, Haa... As usual, the whole room is full of your scent.
 「あら、前に来たときよりベッドが片付いてるんじゃない？　これってもしかして――ふふ、やっぱりね」=Oh my, isn't the bed made way better than the last time I came? Is this perhaps----Fufu, as I thought~

@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「なんか周りが騒がしいね。まだ頼んだメニュー来てないし、席変えてもらう？」=Man, it sure is noisy around here. The stuff we ordered isn't here yet so, shall we change tables?
 「女子のグループが多いからな、女三人寄ればなんとやらだ。そこまで目くじらを立てる事もないだろう」=It's because there's lots of groups of girls around, three's a crowd and all that. It's not something to bother about so much, I don't think.
 「へぇ、意外だね。[H名]なら煩いって自分から注意に行くかと思ってた」=Heh~, that's unexpected. I thought you'd go over to them and tell them to quiet down by yourself, [H名].

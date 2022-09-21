@@ -1,1 +1,4 @@
-﻿「きょ、今日は……楽しかったです！　ありがとうございました」=T-Today was... really fun! Thank you very much.
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「きょ、今日は……楽しかったです！　ありがとうございました」=T-Today was... really fun! Thank you very much.

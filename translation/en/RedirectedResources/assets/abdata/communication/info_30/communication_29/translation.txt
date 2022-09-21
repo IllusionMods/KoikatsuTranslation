@@ -1,4 +1,7 @@
-﻿「こ、ここは女子トイレですよ！」=T-This is the girls' toilet, you know!
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「こ、ここは女子トイレですよ！」=T-This is the girls' toilet, you know!
 「きゃっ！　見てはいけません！」=Kyah--! You mustn't look!
 「申し訳ありません。失礼します」=I'm sorry. Excuse me.
 「……なんでしょうか」=...What is it?
@@ -89,6 +92,7 @@
 「何事にも動じない姿勢って大事だと思いますか？」=Do you think that being unruffled, come what may, is a good quality to have?
 「そうですか。私も同感です」=I see. I feel the same way.
 「なるほど。私とは考えが異なるようですね」=I see. Looks like you have a different opinion of things from me.
+「そこまで答えに窮する内容だったでしょうか」=Was it really something that hard to answer?
 「動物はお好きですか？」=Do you like animals?
 「私もです。一緒にいると癒やされます」=Me too. Being near animals is quite soothing.
 「実は私も苦手な方で……」=I actually can't handle them myself either...

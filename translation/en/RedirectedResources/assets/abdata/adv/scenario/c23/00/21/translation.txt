@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「うふ、ふ。ねえ、ねえ聞いてくださいよ、[P]さん」=“Ufu, fuh. Hey, hey listen to me, [P]-san.”
 「なんか嬉しそうな顔してるね」=“You sure look happy.”
 「バレてしまったか。昨日声優さんのサインもらいました。今度一緒に行きませんか？」=“You noticed, huh? Yesterday, I got an autograph from a voice actor I really like. Won't you go together with me next time?”

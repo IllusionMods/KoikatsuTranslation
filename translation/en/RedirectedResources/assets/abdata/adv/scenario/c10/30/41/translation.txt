@@ -1,2 +1,4 @@
-
-//「きゃっ！　ジロジロ見てないで早く出て行ってください！」=
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「きゃっ！　ジロジロ見てないで早く出て行ってください！」=“Kyah--! Don't stare, please just leave already!”

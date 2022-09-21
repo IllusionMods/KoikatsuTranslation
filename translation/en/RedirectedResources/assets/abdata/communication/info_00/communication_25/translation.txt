@@ -1,4 +1,7 @@
-﻿「うぉっ！？　へ、変態だ～！」=Uwoh--?! I-It's a pervert~!
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「うぉっ！？　へ、変態だ～！」=Uwoh--?! I-It's a pervert~!
 「うぉ！？　な、なに入って来てるの～！」=Uwoh!? W-Why are you coming in here~!
 「……ダルいんで無理っす」=...It's a pain so I can't.
 「……なんなんすか？」=...What is it?

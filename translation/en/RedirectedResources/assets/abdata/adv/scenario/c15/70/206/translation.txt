@@ -1,0 +1,33 @@
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「やっぱり、この観覧車からの眺めはいつ見ても綺麗だなー」=“No matter how many times we come here, the view from this ferris wheel is just great, isn't it?”
+「キミももっと近くで見たらどうだー？」=“How about taking a closer look with me?”
+「うん、それじゃあ遠慮なく」=“I'll take you up on that then.”
+「じー……」=“*stare*...”
+「……って、違う違う！　あたしじゃなくって、外の夜景を見るんだぞ！」=“...I didn't mean it that way! Not me, you gotta appreciate the view instead!”
+「でも、俺はこうやって[H名]と二人きりで、近くにいられることの方が嬉しいから」=“But, spending time so close to you like this makes me happier than the view.”
+「キミはまたそうやって……」=“Always with that stuff...”
+「ふふ、でも……あたしだって、キミと二人きりでいられて嬉しいぞー」=“Fufu, but... being alone together with you like this makes me happy too.”
+「よかった。それじゃあ一緒だね！」=“Great, looks like we feel the same way then!”
+「でも、せっかくの観覧車なんだから、外の眺めも見た方がいいんじゃないかー？」=“But, we came all the way out here so, shouldn't you atleast try to appreciate the view outside?”
+「あたしはキミと一緒に夜景を見るのも好きだぞ」=“Appreciating the view together with you is something I love too.”
+「たしかに、そうかもね」=“For sure, you're not wrong.”
+「でも、[H名]越しに外を見てると、どうしても[H名]に目線がいっちゃって」=“But, whenever I try to look past you and focus on the view, my eyes just move back on their own.”
+「いちいち恥ずかしいこと言うなー、キミは」=“Why must you make every line you pour out of that mouth an embarrassing one~?”
+「あはは、そうかな？」=“Ahaha, are they really that bad?”
+「だけど、たしかに隣同士だと外が見にくいかもなー」=“But, certainly, it's hard to focus on the outside view when it's just the two of us.”
+「どうする？　向かい合わせに座るかー？」=“What do you wanna do? Wanna sit face to face with each other?”
+「うーん、それもいいけど、それよりも……」=“Mmm, that'd be nice too but, I'd much rather...”
+「よいしょ……」=“Here we go...”
+「わわっ……！？」=“Wawah--...!?”
+「こうしてもっと近づけば、そっち側の夜景も見やすくなるんじゃないかな」=“Doesn't this make it easy to view the sky on that side too?”
+「そんなこと言って、あたしのことばっかり見てるし……」=“You say that, but you're still staring only at me...”
+「嫌かな？」=“Do you hate it?”
+「……ううん、嫌じゃないぞ。むしろ、嬉しいくらいだな」=“...No, I don't hate it. If anything, it makes me happy.”
+「だよね。[H名]も、俺のこと見つめ返してくれてるし」=“Right? Afterall, you're staring right back at me too.”
+「あははっ。あたしも、なんだかんだで相当キミのことが好きみたいだなー」=“Ahaha--. Seems like I just love you that much too.”
+「[H名]……」=“[H名]...”
+「[P名]……」=“[P名]...”
+「しばらく、こうしててもいいかな？」=“Mind if we stay like this for a bit?”
+「うん、そうだなー。夜景より、観覧車より、あたしはこうして隣でくっついてるのが幸せだぞ」=“Mmm, not really. Rather than the view, and the ride itself, being able to cling to you like this is happiness for me.”

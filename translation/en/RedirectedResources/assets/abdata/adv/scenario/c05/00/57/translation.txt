@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「男の子とデートなんて初めて」=“It's my first time going on a date with a guy.”
 「緊張する？」=“Nervous?”
 「……うん。他の人と違って、あなたが近くにいると、意識しちゃう」=“...Yeah. Unlike other people, when I'm close to you, I find myself being conscious.”

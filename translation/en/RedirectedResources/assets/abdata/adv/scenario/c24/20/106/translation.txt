@@ -1,4 +1,7 @@
-﻿「綺麗な夜景ですね♡　あなたに叩かれたほっぺが思い出しズキズキしちゃいます♡」=What a beautiful night sky♡ The cheek you slapped is stinging from just thinking back to last time♡
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「綺麗な夜景ですね♡　あなたに叩かれたほっぺが思い出しズキズキしちゃいます♡」=What a beautiful night sky♡ The cheek you slapped is stinging from just thinking back to last time♡
 「あ、あの時はごめん。俺も興奮してて……」=S-Sorry for that. I got a bit agitated back then...
 「いいんです♡　このズキズキは嬉しいズキズキですから♡　あなたに傷つけてもらった、一生消えない記憶で……あなたに愛されてる証なんです♡」=It's alright♡ I love this pain♡ This everlasting memory, of you hurting me... It's a reminder of your love for me♡
 「ありがとう、そんな風にとらえてくれて」=Thanks, for taking it that way.
@@ -12,6 +15,8 @@
 「[H名]がそう言ってくれるなら、俺も救われるよ」=I feel a load off my conscience hearing you say that.
 「昔は妄想の中のあなたに恋焦がれてるだけでしたけど、今はちゃんと現実のあなたに恋してます♡」=Back then, I used to spend my days just pining for your love in my delusions but, now I love the you in reality♡
 （本当に……本当にいい子になったなぁ）=(Man... she really has grown so much.)
+CHOICE:『キスをする』=『Kiss her』
+CHOICE:『俺も恋してる』=『I love you too.』
 「[H名]、キスしていい？」=[H名], do you mind if I kiss you?
 「はい♡　私もしてほしいって、思ってました♡　あなたが育てあげた彼女に、キスしてください♡」=Go ahead♡ I want to kiss you too♡ Kiss the girl that you helped grow into a full person♡
 「うん……」=Yeah...
@@ -34,6 +39,3 @@
 「す、すみません……せっかくロマンチックな雰囲気だったのに」=I-I'm sorry... even though we finally had a romantic mood going.
 「[H名]が風邪を引いちゃう方が問題だよ。そろそろ帰ろうか」=I wouldn't want you to catch a cold, [H名]. Let's go home.
 「私、大事にされてますね……♡　はい♡　一緒に帰りましょう♡」=You care so much for me...♡ Yes♡ Let's go home together♡
-
-CHOICE:『キスをする』=『Kiss her』
-CHOICE:『俺も恋してる』=『I love you too.』

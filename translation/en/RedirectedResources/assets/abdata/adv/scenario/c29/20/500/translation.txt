@@ -1,10 +1,16 @@
-﻿………………=.........
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+………………=.........
 …………=......
 ……=...
 「……[H名]、今日はありがとうね。楽しかったよ」=...Thanks for today, [H名]. I had fun.
 「私も一日楽しかったです。ありがとうございます」=I had a lot of fun as well. Thank you very much.
 「うん……」=Yeah...
 「……帰らなくてはいけませんね」=...Though, we must go back home now, mustn't we?
+CHOICE:『自宅に誘う』=『Take to your place』
+CHOICE:『ラブホに誘う』=『Take to love hotel』
+CHOICE:『さよならする』=『Say goodbye』
 「えっと、さ……もし良かったら、ウチに寄っていかない？」=Erhm, listen... if it's alright with you, won't you come to my place?
 「……実は、そう言ってくださるのを待っていました。いいですよ」=...I was actually hoping you'd say that. I don't mind at all.
 （楽しかったのは間違いないけど、少しだけ物足りない……最後に[H名]とシたい……！）=(It's true that we had an absolute blast but, it still doesn't feel fully satisfying... I want to do it with her to close it off...!)
@@ -19,6 +25,3 @@
 「はい、約束です。次にお会いするのは学園でですね」=Yes, it's a promise. The next we'll see each other, it'll be at school, right?
 「うん。じゃあまた」=Yeah. Well then, see ya.
 「はい。それでは」=Yes. Be seeing you.
-CHOICE:『自宅に誘う』=『Take to your place』
-CHOICE:『ラブホに誘う』=『Take to love hotel』
-CHOICE:『さよならする』=『Say goodbye』

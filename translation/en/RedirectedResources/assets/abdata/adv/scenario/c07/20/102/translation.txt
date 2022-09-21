@@ -1,4 +1,7 @@
-﻿「緑の中を歩くのは気持ちいいなー」=It sure feels great to walk amongst greenery~
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「緑の中を歩くのは気持ちいいなー」=It sure feels great to walk amongst greenery~
 「そうだな。風も穏やかで涼しくて、街なかとはやっぱ違うよ」=Yeah. The wind's nice and refreshing too, feels completely different from the city center.
 「そうそう。そんで匂いも違うんだよね。こう、森の香りというか、大地の芳香というか……」=Exactly. The smell is different too, innit? The aroma of forestry, the smell of the earth...
 「……ん、あれ？　このおいしそうな匂いは……？　お、もしかしてあれかな？」=......Nn, huh? What's this appetizing smell...? Oh, is it that?

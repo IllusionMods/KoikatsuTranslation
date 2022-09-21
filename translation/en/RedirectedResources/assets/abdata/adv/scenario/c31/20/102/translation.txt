@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「うん、よく晴れてよかったな、絶好の散歩日和だ」=Yeah, I'm glad it's so clear out today. It's a great day for a walk.
 「そうだね、公園の緑が綺麗で、ずっと歩いてたくなるね」=Yeah, the park's greenry is so pretty, it makes you want to walk around for a long time, doesn't it?
 「あぁ、私もそう思う。でも、ただ私と歩いているだけで、つまらなくないか？」=Yeah, I think the same. But, isn't it boring, just walking alongside me?

@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「あれ？　食堂味付け変わった？　いつもより美味くなってるような……」=“Huh? Did the cafeteria change the recipe? I feel like this tastes better than usual...”
 「あ、それ俺も思った。二人で食べてるからかなって」=“Ah, I thought the same. Maybe it's because we're eating lunch together.”
 「ぶふっ！　い、いきなり変な事言うなぁ！　むせちゃっただろぉ……」=“*Cough*! D-Don't say such weird stuff out of nowhere! I nearly choked on this sandwich...”

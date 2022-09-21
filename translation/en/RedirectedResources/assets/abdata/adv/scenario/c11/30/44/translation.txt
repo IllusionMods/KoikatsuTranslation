@@ -1,4 +1,6 @@
-
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
 「へえ、色々あるんだね」=“Hoh, they've got all sorts, huh?”
 「ひとつずつ見て回ってもいいかしら？」=“Do you mind if we check out everything one by one?”
 「うん、いいよ」=“Sure, no problem.”

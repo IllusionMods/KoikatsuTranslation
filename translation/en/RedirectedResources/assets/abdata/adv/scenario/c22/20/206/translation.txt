@@ -1,4 +1,7 @@
-﻿「今日の夜景もキラキラしてる……すごいよね。ここからの眺めって……真っ暗になることは絶対にないんだね」=The sky's glittering lots tonight too... amazing, isn't it? The view from here... it must never get dark, huh?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「今日の夜景もキラキラしてる……すごいよね。ここからの眺めって……真っ暗になることは絶対にないんだね」=The sky's glittering lots tonight too... amazing, isn't it? The view from here... it must never get dark, huh?
 「そうだね。これだけ広い範囲が見えてるから……きっと真っ暗になることはないかな」=Yeah. You can see so much from here... something, somewhere would be always lit up.
 「……えへへ、何か嬉しいな」=...Ehehe, it kinda makes me happy.
 「どうしたの？」=What's up?

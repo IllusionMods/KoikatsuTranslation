@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「遅かったね。……混んでた？」=“You took your time. ...Was it packed?”
 「この階に男子トイレなくて、下まで行ってたよ」=“There's no men's toilet on this floor, so I had to go all the way downstairs.”
 「やっぱりマイクで歌うと、少し音漏れするんだな。他の部屋からさ、歌声が聞こえてきたんだ」=“Sound leaks out afterall, when you use the mic. I could hear them singing, in the other rooms and stuff.”

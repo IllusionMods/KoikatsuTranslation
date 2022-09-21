@@ -1,1 +1,4 @@
-﻿「もっと色々してあげたかったけど……でもまあ、よかったわよ」=I wanted to do lots more stuff for you... but well, it was good.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「もっと色々してあげたかったけど……でもまあ、よかったわよ」=I wanted to do lots more stuff for you... but well, it was good.

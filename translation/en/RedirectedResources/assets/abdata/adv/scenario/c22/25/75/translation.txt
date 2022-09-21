@@ -1,4 +1,7 @@
-﻿「うわっ！　あー……取られたー」=Uwaah--! Aah... darn. That's a point to you.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「うわっ！　あー……取られたー」=Uwaah--! Aah... darn. That's a point to you.
 「わぁ、決まった！　えへへ、バドミントンって楽しいね！」=Waah, yay! Ehehe, Badminton's pretty fun, isn't it!
 「そうだね。男女でも普通に楽しめるし……よし、次は絶対に俺が取るよ」=Yeah. Both boys and girls can enjoy it together just fine too... Alright, next one's definitely gonna be mine.
 「ふふーっ、どこからでもいいよー！」=Fufu~, come at me~!

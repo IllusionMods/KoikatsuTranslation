@@ -1,4 +1,7 @@
-﻿「うわぁ、おいしそ～！　いっただきま～す！」=Uwah, it looks delicious~! I'm digging in~!
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「うわぁ、おいしそ～！　いっただきま～す！」=Uwah, it looks delicious~! I'm digging in~!
 「うん、いただきます！」=Yeah, I'm digging in!
 「あむっ。ん～！　マジ、サイコーだよ～！」=*Bite*--, Nnn~! It's super good, really~!
 （……とても良い顔をしてるなぁ）=(...She's got such a nice expression on)

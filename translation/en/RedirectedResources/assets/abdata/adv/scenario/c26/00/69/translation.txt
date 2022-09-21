@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「……あれ？　ここはどうするんだっけ？」=“...Huh? How'd you do this one again?”
 「……そこは、こうして別の方式に置き換えて……」=“...You substitute that, with this formula...”
 「お～なるほど。ごめん、こんな簡単な問題で呼んじゃって」=“Oh~, I see. Sorry, I bothered you over something so simple.”

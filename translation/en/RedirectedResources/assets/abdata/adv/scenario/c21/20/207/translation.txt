@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 //「観覧車も乗ったし、もう心残りはないね！」=
 //「うん、ない！　あとは帰るだけでーす」=
 //「あ、お土産とか買う？」=

@@ -1,3 +1,7 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+モブ=Mob
 「すみませーん！　少しお時間よろしいでしょうか？」="Excuse meee! Do you perchance have some time to spare?"
 「あっ、はい。何ですか？」="Ah, yes. What is it?"
 「ありがとうございます！　私、この近くの結婚式場に勤めているウェディングプランナーの玉城と申します！」="Thank you very much! My name is Tamaki, I'm working as a wedding planner on behalf of a wedding hall nearby."
@@ -9,5 +13,3 @@
 「んっふふ。余計な事は言わなくていいのよ。折角の機会よ、やらせてもらいましょう？」="Fufufu. You don't have to say it. It's a rare opportunity, so let's do it."
 「そ、そうだね……俺達でよければ、モデルやらせてください……ははは……ぅぐ」="Y-yeah... If you're fine with us, then let us be the models... Hahaha... Gah."
 「ありがとうございます！　それでは、さっそく式場までご案内いたしますね！」="Thank you very much! Then I shall take the honour of guiding you to a ceremonial hall."
-
-モブ=Mob

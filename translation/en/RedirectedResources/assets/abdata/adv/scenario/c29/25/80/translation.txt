@@ -1,4 +1,7 @@
-﻿「和食と洋食、どちら派ですか？」=Between western food and Japanese food, which do you prefer?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「和食と洋食、どちら派ですか？」=Between western food and Japanese food, which do you prefer?
 「んー、どっちも好きかな。注文するときはわりと直感で選んでるよ。そっちは？」=Nn, I like both. I go with whatever my gut tells me to go for, when I order. You?
 「私も両方好きですけれど……どちらかと言えば和食ですね。食べていると落ち着きます」=I like both cuisines as well but... if I had to pick, I'd pick Japanese food. Eating it makes me calm down.
 「そっか。今日も蕎麦を頼んでるもんね」=I see. You did go with Soba today, didn't you?

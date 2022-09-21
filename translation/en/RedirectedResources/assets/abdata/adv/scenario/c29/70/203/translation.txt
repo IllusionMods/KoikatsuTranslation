@@ -1,0 +1,12 @@
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「すっかりオレンジに染まって……あっという間の一日でしたね」=The sky's gone completely orange... The day really flew by, didn't it?
+CHOICE:『観覧車に乗ってかない？』=『Won't you ride the ferris wheel with me?』
+CHOICE:『暗くなる前に帰ろうか』=『Let's go home before it gets dark』
+「そんな一日の締めくくりに、観覧車に乗っていかない？」=To close it off, how about we go take a ride on the ferris wheel?
+「いいですね。まだ乗っていませんでしたし」=Sounds fun. We haven't ridden it yet either.
+「今から並ぶと、ちょうど夜景が綺麗に見える時に乗れそうですね」=If we line up right now, we'll get on just in time to see the beautiful starry night sky as well.
+「名残惜しいけど、暗くなる前に帰ろうか」=It feels sad to just leave but, we should go home before it gets dark.
+「そうしましょう。次に来る時は、別のアトラクションも楽しんでみたいですね」=Let's do that. It would be a lot of fun to try out the attractions we couldn't today, the next time we come here.
+（次も来る前提で話してくれるのって、なにげに嬉しいよね）=(Hearing her say that like it's such an obvious thing that we'll come here again, makes me kinda happy.)

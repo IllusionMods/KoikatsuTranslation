@@ -1,4 +1,7 @@
-﻿うぅ、は、恥ずかしいです=Uuu, i-it's embarrassing.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+うぅ、は、恥ずかしいです=Uuu, i-it's embarrassing.
 やっぱりちょっと、照れますね=This really is, a bit embarrassing.
 私の身体……好きなだけ見てください=Please stare at my body... as much as you want.
 そんなに焦らされると、期待しちゃいます=If you tease me so much, I'll start expecting even more amazing things.
@@ -510,7 +513,7 @@
 んあ……とまらなくて……もう……そこに……=Nnah... I can't stop... that's...
 こんな快感、堪えられるわけないよぉ=How am I supposed to bear this much pleasure?
 ※本棚対面愛撫（こそこそ）の絶頂と同じ=※Same as the (secret) library bookshelf face-to-face fondling climax.
-はぁ……き、気持ちよかったですけど……ちょっと不幸です本気で嫌がっているわけではありません=Haa... t-that felt great but... I'm just a bit sad. Not that I really hated it.
+はぁ……き、気持ちよかったですけど……ちょっと不幸です//本気で嫌がっているわけではありません=Haa... t-that felt great but... I'm just a bit sad. Not that I really hated it.
 んはぁ……もうちょっと我慢することを覚えなきゃダメだよ？　私もだけど……=Nnhaa... you have to learn to be more patient, you know? Not that I'm in any position to...
 ん、は……学力じゃなくて、エッチの地力が上がっちゃいそうです……=Nn, haa... rather than academics, I feel like I'll end up getting better at sex instead...
 ……エッチしたいけど、ダメダメ……今は勉強しなきゃ=...I want to have sex but, no, we really shouldn't... we have to study.

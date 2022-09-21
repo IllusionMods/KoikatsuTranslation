@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 色影(六角)=Colored Shadow (Hexagon)
 色影(三角)=Colored Shadow (Triangle)
 色影(ハート)=Colored Shadow (Heart)

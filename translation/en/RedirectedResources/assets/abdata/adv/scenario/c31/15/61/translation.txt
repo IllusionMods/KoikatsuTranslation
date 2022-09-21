@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「うぅん、顔が自然に緩んでくるな……すまん、少し浮かれているようだ」=Mmm, my face is relaxing on its own... Sorry, I'm getting a bit too carried away here.
 「謝る事ないよ。[H名]のそういう顔見られるのは貴重だからね」=It's nothing you need to apologize for. Being able to see such an expression on your face is really precious to me.
 「こら、からかう暇があるなら……手くらい繋いだらどうだ？　折角のデート……なのだぞ」=Hey, if you have the leeway to tease me... How about we hold hands atleast? We're on a date... you know?
@@ -8,10 +11,9 @@
 「ここまで来たら、最後の最後まで離すなよ？　ど、どうしてもという時もあると思うが……何とかしろ」=Now that we've come so far, don't let go until the absolute very end, okay? I know there are times when it can't be helped but... Just figure it out.
 「そ、それは……嬉しいような……やり過ぎなような……ははは」=T-That's... I feel happy, yet... It feels like overkill... Hahaha.
 「よし、最後まで手を繋いでいれたな。名残惜しいが……そろそろ離すか？」=Alright, you held my hand till the very end. It feels like a shame but... shall we let go now?
+CHOICE:「もう少しだけ、繋がっていたいな……」=I want to keep holding hands, just for a bit longer...
+CHOICE:「うん、俺も寂しいけど……ここまでかな」=Yeah, I feel a bit lonely too but... let's stop here.
 「もう少しだけ、繋がっていたいな……」=I want to keep holding hands, just for a bit longer...
 「フフッ、意見が合ったな。いいだろう……もう少しだけだぞ？」=Fufu--, looks like we're of the same mind. Why not... Just for bit longer though, okay?
 「うん、俺も寂しいけど……ここまでかな」=Yeah, I feel a bit lonely too but... let's stop here.
 「あぁ……では離すぞ？　フッ、お互いの汗でびっしょりだな」=Yeah... Then, I'm letting go, okay? Hah, they're drenched with our sweat.
-
-CHOICE:「もう少しだけ、繋がっていたいな……」=I want to keep holding hands, just for a bit longer...
-CHOICE:「うん、俺も寂しいけど……ここまでかな」=Yeah, I feel a bit lonely too but... let's stop here.

@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「デートですか、具体的にはどういった事を？」=A date, you say? Just what exactly will we be doing?
 「それは行ってからのお楽しみかな？」=I suppose you'll just have to wait till we get there to find out.
 「わかりました、当日を楽しみに待っています」=Understood, I look forward to it.

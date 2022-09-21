@@ -1,0 +1,25 @@
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「[H名]は、よくカラオケ行ったりするの？」=“Do you often go to Karaoke, [H]?”
+「あたし、カラオケはあんまり……ゲームセンターには良く行くんだけど」=“Not really... I'm more home at arcades.”
+「そうなんだ。……ひょっとして、歌うの苦手だった？」=“I see. ...By any chance, are you bad at singing?”
+「苦手という程でもないんだけどね。得意ではないかな」=“Wouldn't really say "bad". I'm just not that good at it.”
+「俺も同じだよ。普通同士、大声出して気持ちよく歌おうよ」=“Same here then. Let's have some fun together, as a pair of average singers.”
+「ん、そうね……」=“Nn, yeah...”
+「あれ……？　なんか緊張してる？」=“Huh...? You nervous?”
+「ちょっと……あんたと、個室で二人きりだし」=“A bit... we're alone here, together, afterall.”
+「まあまあ、あんまり深く考えるなって。俺、[H名]の歌声を聞かせて欲しいな」=“It's fine, no need to think about it so deeply. I wanna hear you sing, [H].”
+「……で、何歌うか決まった？」=“...So, picked a song yet?”
+「曲がありすぎて、迷っちゃうわね……」=“There's so many, I can't decide...”
+「なんでも好きなの入れちゃえば？　時間かけて選んでもいいから」=“Why not just put in something you like? You can take your time too.”
+「ん～……あら？　ここのって、いろんな採点機能があるのね」=“Nn~... oh? The machine here, has quite a lot of grading functions too, huh?”
+「どれどれ……？　へ～、ほんとだ。ゲームみたいだね。対戦とかもできるんだ」=“Let's see...? Hoh~, you're right. It's like a game. There's even a versus mode.”
+「対戦ねぇ……」=“Versus, huh...”
+「俺と、勝負する？」=“Wanna have a little match?”
+「え～？　いきなり？　あたし得意じゃないって言ってるのに～」=“Eh~? So suddenly? I told you I'm not that good at singing though~”
+「俺も同じって言ったじゃん。そうだ、俺に勝てたらジュース奢ってもいいよ」=“And I told you I'm the same way. How about this, I'll treat you to some juice if you win.”
+「ジュース！！　ホント！？　だったらやる！　あたし先攻ね！」=“Juice?! Really?! You're on then! I'mma go first!”
+「あ、あぁ……いいけど……急に積極的だな……」=“S-Sure... that's fine but... you sure got fired up out of nowhere...”
+『もしも今 背中に羽が生えて 大空自由に 飛び回れたら～♪』=『If only I could, sprout wings from my back, and fly freely, in this wide open sky~♪』
+（どうやら楽しんでくれてる。やっぱり連れてきてよかった……）=(Seems like she's enjoying herself. Karaoke really was the right choice...)

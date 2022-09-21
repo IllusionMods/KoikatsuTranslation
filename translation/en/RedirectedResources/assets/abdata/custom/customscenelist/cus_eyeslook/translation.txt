@@ -1,4 +1,6 @@
-
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 カメラ=At Camera
 上=Upward
 右上=Right and Up

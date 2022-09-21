@@ -1,4 +1,7 @@
-﻿「今、とてもワクワクしてるんだぁ」=I'm really excited right now.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「今、とてもワクワクしてるんだぁ」=I'm really excited right now.
 「俺もだ。一緒だね」=Me too. Looks like we're of the same mind.
 「うん♪ いろんなところ行きたいね！」=Yeah♪ I wanna see lots of places!
 「じゃあまずは、あそこに行ってみようか」=Well then, how about we check that place out for now?

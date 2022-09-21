@@ -1,4 +1,7 @@
-﻿「なあなあ、昨日やってたテレビでやってた映画、見た？」=Say, did you see that movie that was on the TV yesterday?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「なあなあ、昨日やってたテレビでやってた映画、見た？」=Say, did you see that movie that was on the TV yesterday?
 「ああ、見たよ。なんていうか……すごい映画だったよね」=Yeah, I did. How do I say this... It was an amazing movie, wasn't it?
 「ホント、すごかったー。元特殊部隊の男が、たった一人でテロ集団に立ち向かっていくんだよな」=For real, it was. An ex-special forces guy, going up against a terrorist organization all by himself.
 「そうそう」=Yeah, exactly.

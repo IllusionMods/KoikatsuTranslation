@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「ふぇ……そ、それ……本気……ですか？」=“Fueh... a-are... are you... serious?”
 「うん、ごめん……色々考えたんだけど……やっぱり俺達、別れた方がいいと思う……」=“Yeah, sorry... I've been thinking about it a lot and... I really do think that we should split up...”
 「あ……ぅ……わ、私……あのっ……えっと……わ、分かったです……あなたがそう言うならっ……し、仕方ないっ……です……」=“Ah... uu... I-I... uhm--... erhm... I-I got it... if that's how you feel... t-then I suppose it can't... be helped...”

@@ -1,0 +1,21 @@
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「おっ！　自販機がある！　何か飲みもの奢ってあげるよ」=Oh--! There's a vending machine! I'll buy you something to drink.
+「わーありがと～！」=Wah, thanks~!
+「[H名]は何が飲みたい？」=Wha'cha wanna drink, [H名]?
+「え～っとね」=Ehrm, let's see~
+「ブラックコーヒー！」=Black coffee!
+「ブラック飲めるんだ……意外」=So you can drink it black, huh... I'm surprised.
+「大人の階段を上がるために、飲むようにしてるんだぁ」=I'm trying to get used to it, so that I can become more mature.
+「最初は苦手だったけど、最近は苦味が癖になってきて美味しくなってきたの」=I hated it at first but, recently the bitterness has been really growing on me.
+「へー、本当にブラックコーヒーが好きなんだ。じゃあ、これを買うよ」=Hoh, you really do like it black, huh? Well then, I'll buy you this.
+「うん、お願い♪」=Yeah, please♪
+「甘いジュースが飲みたい！　思いっきりあんま～いやつ！」=I want to drink some sweet juice! Something that's absolutely loaded with sweetness!
+「たまには嗜好を変えて苦いのとかにしたら？」=How about stepping out of your comfort zone a bit and trying something bitter?
+「いやだよ～、悪いことしてないのに、苦いの飲まなきゃいけないの？」=No way~, I haven't done anything wrong, why do I have to drink something bitter?
+「ご、ごめんごめん！　そんなに嫌がると思わなかったから……」=S-Sorry, I'm sorry! I didn't know you hated bitter stuff that much...
+（[H名]の中では、苦い物を飲むのはおしおき扱いなのか……）=(She sees having to drink bitter stuff as a sort of punishment, huh?...)
+「じゃあ、とりあえず甘ければなんでもいいんだね？」=Well then, you're fine with anything as long as it's sweet, right?
+「甘いのじゃなくて、あんま～いのでお願い♪」=Not just sweet, get me the super duper sweet stuff, please~♪
+「わ、わかった……」=G-Got it...

@@ -1,4 +1,6 @@
-
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
 「こんなところで勉強するの！？」=“We're gonna study in here!?”
 「この時間、ふたりきりになれる場所っていったらココしかなかったのよ」=“This was the only place where we could be alone together like this, at this time.”
 「わかった……それじゃ、やろうか」=“Got it... well then, let's do it.”

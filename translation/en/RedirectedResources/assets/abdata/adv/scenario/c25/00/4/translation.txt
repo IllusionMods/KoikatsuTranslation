@@ -1,3 +1,6 @@
-﻿「……面倒だけどいつかやらねば～」=...It's a pain but, gotta do it eventually I guess~
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「……面倒だけどいつかやらねば～」=...It's a pain but, gotta do it eventually I guess~
 「今がやるときだよ！　一緒にがんばろう」=Better now than never! Let's work hard together.
 「でもやっぱり面倒なんだけど～」=But, man, it really is such a pain~

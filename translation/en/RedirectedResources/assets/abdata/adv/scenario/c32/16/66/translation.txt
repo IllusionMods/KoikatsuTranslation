@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「ちょっと本屋に寄っていいかな？　読みたい小説があるんだ」=Is it alright if we stop by a bookstore? There's this novel I want to read.
 「寄り道、ですか？　……はい、構いませんよ」=A detour, you say?Yes, I don't mind at all.
 「ありがと。それじゃ行こうか」=Thanks. Then, let's go, shall we?

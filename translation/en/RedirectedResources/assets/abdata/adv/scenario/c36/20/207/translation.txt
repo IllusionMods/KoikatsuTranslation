@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「はぁっ、楽しかった時間も、そろそろ終わりだね」="*Sigh* our pleasant time is about to end."
 「そうね。夢の時間は終わり、辛くて面倒な現実に帰るのよ」="Yeah. The dream's time is ending, we're going back to bitter and troublesome reality."
 「うぅ……なんか一気に体が重くなってきた」="Uu... Somehow my body's suddenly gotten heavier."

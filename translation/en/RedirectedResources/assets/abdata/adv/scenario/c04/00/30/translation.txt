@@ -1,1 +1,4 @@
-﻿「ふふっ、あなたには私の欲しいものなんてお見通しなのね……私、幸せ者ね」=Fufu--, you can see right through to my heart, can't you... how blessed am I?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「ふふっ、あなたには私の欲しいものなんてお見通しなのね……私、幸せ者ね」=Fufu--, you can see right through to my heart, can't you... how blessed am I?

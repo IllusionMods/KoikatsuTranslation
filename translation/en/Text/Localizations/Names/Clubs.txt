@@ -1,0 +1,9 @@
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+帰宅部=Going Home Club
+水泳部=Swimming Club
+漫研部=Manga Club
+チアリーディング部=Cheerleading Club
+茶道部=Tea Ceremony Club
+陸上部=Track & Field Club

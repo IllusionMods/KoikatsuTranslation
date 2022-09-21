@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「あー[H姓]さん。今、いいかな？　出来れば話したいなって」=Aah, [H姓]-san. Is now a good time? I wanted to talk to you for a bit, if possible.
 「あぁ、話くらいならしてもいいが……その妙によそよそしい態度はやめろ。呼び方も、名前でいい」=Aah, I don't mind talking but... stop with that weirdly standoffish attitude. Also, just call me by my name.
 「ご、ごめん。初めて話しかける時って……その、距離感が難しくて」=S-Sorry. It's our first time talking so... It's kinda hard to gauge the right distance.

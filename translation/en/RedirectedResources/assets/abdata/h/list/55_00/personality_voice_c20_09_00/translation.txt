@@ -1,4 +1,7 @@
-﻿お、お願いです、こんな事、やめて下さい=P-Please, stop this, stop doing this.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+お、お願いです、こんな事、やめて下さい=P-Please, stop this, stop doing this.
 ど、どうして、こんなこと、するんですか=W-Why would you, do such a thing?
 や、やめて下さい…こ、こんなの、いやです…=P-Please stop... I-I don't, like this...
 も、もう…やめて、下さい、放してください=P-Please... stop, this. please let me go.

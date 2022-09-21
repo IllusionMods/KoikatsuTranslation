@@ -1,1 +1,4 @@
-﻿「え、えっと、これを……あ、ありがとう……？」=E-Erhm, this is... t-thanks...?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「え、えっと、これを……あ、ありがとう……？」=E-Erhm, this is... t-thanks...?

@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「うわぁっ！　な、なんでっ！　ここ女子トイレだぞ！」=“Uwaaah--! W-Why are you--! This is the girls' toilet!”
 「うぇっ！　ぇ……は？　何考えてんだ？　おい」=“Uweh--! Eh... hah? What're you thinking? Oi.”
 「あー今はパス。また今度な」=“Aah, pass. Next time.”

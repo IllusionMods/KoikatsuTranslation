@@ -1,4 +1,6 @@
-
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
 「……ねえ、この問題、覚えてる？」="...Hey do you remember how I do this?"
 「ん？　あ～えっと、ここは……こうするんだよ」="Hm? Oh, that. Here's what I do..."
 「……そう、ありがとう……って、何で笑ってるの？」="...Thank you... Why are you laughing?"

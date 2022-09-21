@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 気持ちよくなってね？=Feel good, okay?
 気持ちよさそうな顔……=What a melty face...
 気持ちよくしてあげるね=I'll make you feel good, okay?

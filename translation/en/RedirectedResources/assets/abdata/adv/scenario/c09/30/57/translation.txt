@@ -1,4 +1,6 @@
-
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
 「こういうふうに一緒に歩くの、なんか新鮮よね。で、どこに連れてってくれるの？」=“Walking together like this, it feels kinda fresh, doesn't it? So, where are you gonna take me?”
 「どこか行きたいところはある？」=“Got any place you wanna check out?”
 「どこだっていいわよ。あんたの行きたいところで」=“Any place is fine. Wherever you wanna go.”

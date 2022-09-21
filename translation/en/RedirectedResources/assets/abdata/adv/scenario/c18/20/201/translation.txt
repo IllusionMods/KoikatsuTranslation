@@ -1,4 +1,7 @@
-﻿「うーん、やっぱりデートといったら遊園地だ！」=Mmm, gotta come to one of these for a date!
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「うーん、やっぱりデートといったら遊園地だ！」=Mmm, gotta come to one of these for a date!
 「確かに遊園地デートというと、定番かもしれませんが……」=Certainly, amusement park dates are pretty standard fare but...
 「あれ、もしかしてダメだった？」=Erhm, did I mess up and pick something bad?
 「いえ、むしろ憧れではあります……でも、遊園地のメインって絶叫系、って感じじゃないですか？」=No, if anything, it's always been a dream of mine... but, aren't amusement parks all about making you scream and stuff?

@@ -1,4 +1,7 @@
-﻿「……今日の観覧車で、二人の親密度もさらに高まった、かな……？」=...Do you think that, we became even more intimate, during that ferris wheel ride...?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「……今日の観覧車で、二人の親密度もさらに高まった、かな……？」=...Do you think that, we became even more intimate, during that ferris wheel ride...?
 「もう、そういうのはさ～、いちいち口に出して言うもんじゃないの～」=Jeez, you shouldn't ask about that sort of thing every single time~
 「あっ、ごめん……」=Ah--, sorry...
 「まぁ、でも……私も同じこと思ってたけど」=Well, but... I was thinking the same thing.

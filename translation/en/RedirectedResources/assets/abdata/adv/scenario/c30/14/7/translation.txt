@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「えー、冗談。いくらキミでもお姉さんをからかっちゃダメよ？　危うく本気にするところだったじゃない」=Eh, was that a joke? Even if its you, making fun of onee-san is no good you know? It hit way too close to home, I almost thought you were serious.
 「本気で言ってるんだよ。俺、[H名]のこと……好きなんだ」=But I am serious. I... really love you, [H名].
 「嘘……本気……なの？　本当？　本当の本当？　本当の本当に本気？」=No way... Are you... being serious? For real? For real for real? Seriously for real for real?

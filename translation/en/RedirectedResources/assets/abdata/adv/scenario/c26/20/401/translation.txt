@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「ここのおみくじ機って大吉しかでないんだよね」=“The fortune machine here only spits out good ones, doesn't it?”
 「……それで、おみくじって、言っていい、の？」=“...Can you, really call that, a fortune?”
 「まぁいいんじゃないの。凶があらかじめ抜かれてる神社もあるっていうぐらいだし」=“Well, isn't it fine? I mean, there're shrines out there that take out the bad ones in advance too, so.”

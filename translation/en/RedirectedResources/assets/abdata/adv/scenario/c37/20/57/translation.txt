@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「こんにちは、本日はよろしくお願いします」=Good day, please take care of me today.
 「うん、今日は目一杯楽しもうね」=Yeah, let's enjoy ourselves lots today, alright?
 「はい。まずはどういった事をすればいいのでしょうか？」=Yes. What should we do first?

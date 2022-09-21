@@ -1,1 +1,4 @@
-﻿「すごかったよ。とっても気持ちよくて……この快感、やみつきになりそう」=That was amazing. It felt great... I could get addicted to this pleasure.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「すごかったよ。とっても気持ちよくて……この快感、やみつきになりそう」=That was amazing. It felt great... I could get addicted to this pleasure.

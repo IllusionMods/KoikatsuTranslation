@@ -1,0 +1,20 @@
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「やっぱり、大きな声を出すと気分がいいわ」=“Letting your voice free really does feel great.”
+「すっごく気分よく歌ってたよ。ちょっと音は外してたけど」=“You were really enjoying yourself there. Your voice kinda went off-tone there for a bit though.”
+「……あんたが音痴だから、あたしも安心して音を外せるのよ」=“...Thanks to you being tone-deaf, I can freely go off-tone too.”
+「えー？　俺、そんなに音痴かなぁ」=“Eeh~? Am I that tone-deaf~?”
+「あたしより、音外してるわよ」=“You were more off-tone than me.”
+「それ……地味にショックなんだけど。でも別に歌手になりたいわけじゃないし……」=“That's... honestly pretty shocking to hear. But it's not like I wanna become a singer anyway...”
+「え？　みんな歌手になりたくて歌うんじゃないの？」=“Eh? Doesn't everyone sing because they wanna become singers?”
+「まあ、そういう人もいるだろうけど……みんなそうだったら、日本中歌手志望ばっかりになっちゃうよ」=“Well, there's probably people like that but... if everyone was like that, the country would be full of nothing but singers.”
+「それは……そうね。想像したら、ちょっと怖かった」=“That's... not wrong. What a scary thought.”
+「だろ？」=“Right?”
+「それじゃあ、みんな何のためにカラオケに来て歌うんだろう？」=“Well then, why does everyone come to Karaoke then?”
+「それこそ、大きな声だして気分よくなりたいからじゃない？　[H名]だってそうだろ？」=“Why, that's because they want to let their voice out and feel refreshed, no? You're the same way, no?”
+「うん、確かに。大きな声で歌うと気持ちいいもんね」=“Yeah, for sure. It does feel great to sing at full volume.”
+「だから、音痴でもいいんだよ」=“That's why, being tone deaf is A-OK.”
+「あんたの音痴さはちょっと度を越してるけどね」=“Your tone-deafness is a bit too much though, even with all that.”
+「……言いすぎじゃない？」=“...Now, isn't that just too much?”
+「ふふ、それじゃあ、次の曲入れるわね」=“Fufu, well then, I'mma put in the next song.”

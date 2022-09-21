@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 ………………=.........
 …………=......
 ……=...
@@ -7,6 +10,9 @@
 「私もです。こういう気持ちは、きっとあなたのことを大切に感じているからなのだと思います」=Same here. This feeling, I'm sure it's because you're very precious to me.
 「今日は本当にありがとうございました。またデートをできたら、嬉しく思います」=Truly, thank you very much for today. It'd make me really happy if you were to invite me out on a date again.
 「[H名]……」=[H名]......
+CHOICE:『自宅に誘う』=『Invite to home』
+CHOICE:『ラブホに誘う』=『Invite to love hotel』
+CHOICE:『さよならする』=『Say Goodbye』
 「ねえ、よかったら、俺んちこない？」=Hey, if you'd like, wanna come to my place?
 「あなたのお家、ですか？　いきなりあがりこんで、迷惑ではありませんか？」=Your home? Would I not be a bother, coming in out of the blue?
 「迷惑なら誘わないよ」=If you were, I wouldn't have invited you.
@@ -21,7 +27,3 @@
 「もちろんです。必ずまた二人の思い出を作りに行きましょう」=Certainly. Let's make even more memories next time.
 「うん、絶対に！　それじゃあ、またね」=Yeah, definitely! Well then, see ya~
 「はい、また。……次のデートが今から待ち遠しいですね」=Yes, till next time. ... I'm already looking forward to the next one.
-
-CHOICE:『自宅に誘う』=『Invite to home』
-CHOICE:『ラブホに誘う』=『Invite to love hotel』
-CHOICE:『さよならする』=『Say Goodbye』

@@ -1,4 +1,7 @@
-﻿「それで……家からずっと後をつけてきたんだ？」=So... you've been following me all the way from my place?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「それで……家からずっと後をつけてきたんだ？」=So... you've been following me all the way from my place?
 「はい♡　あなたとのデートが楽しみで、いても立ってもいられなくて、始発であなたの家に行きました。外でずっと待ってる間、幸せでした」=Yes♡ I was looking forward to our date so much, I couldn't stay still, so I took the first train to your place. I felt really happy while waiting outside the whole time.
 「い、インターホン押してくれてよかったんだよ？」=Y-You could have just rung the bell, you know? I would have let you in.
 「あなたの睡眠リズムを崩してデートに支障が出るといけないと思ったので……♡」=Well, I didn't want to disrupt your sleep rhythm, it might have gotten into the way of our date...

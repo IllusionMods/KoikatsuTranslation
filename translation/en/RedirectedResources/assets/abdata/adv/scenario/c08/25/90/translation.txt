@@ -1,4 +1,7 @@
-﻿「ねえ、私に愛称付けて～！」=Hey, give me a nickname~!
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「ねえ、私に愛称付けて～！」=Hey, give me a nickname~!
 「急にどうしたの？」=What's the matter, so suddenly?
 「友達がね、愛称を付け合ったらもっと仲良くなれるって言ってたの！」=A friend told me that if we gave each other nicknames, we'd get even closer together and stuff!
 「私はもう考えてあるから、あなたにも考えてほしいんだ～」=I've already thought of one for you so, I want you to come up with one for me too~

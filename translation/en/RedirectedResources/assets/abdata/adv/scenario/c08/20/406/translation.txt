@@ -1,4 +1,7 @@
-﻿「ふぅ……今日はゆったりと過ごせたね」=Fuu... we sure took it easy the whole day.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「ふぅ……今日はゆったりと過ごせたね」=Fuu... we sure took it easy the whole day.
 「へ……？　わっ、もうこんな時間。全然気づかなかったよ～」=Heh...? Wah--, it's already this late. I didn't notice at all~
 「はは、それじゃ会計済ませるからちょっと待ってて」=Haha, well then, I'll go settle the bill so wait here for a bit.
 「あっ、お金！　私の分！」=Ah--, money! Here's my part!

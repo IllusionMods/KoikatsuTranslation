@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「街を散策するのですね。あなたについて行きますので、お好きなところへどうぞ」=Walking around the town, huh? I'll follow you, so go wherever you like.
 「君の行きたいところも忘れないでね。デートってお互いが楽しむものだから」=Don't forget to call out any places you like either, alright? A date is something we both have to enjoy, afterall.
 「なるほど。承知しました」=I see. Understood.

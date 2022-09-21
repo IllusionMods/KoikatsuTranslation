@@ -1,3 +1,6 @@
-﻿「いいわよ、腕組んで帰りましょうか」=Sure, let's go home with our arms linked.
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「いいわよ、腕組んで帰りましょうか」=Sure, let's go home with our arms linked.
 「えっ……そんなバカップルみたいなことするの？」=Eh--... people are going to start fussing around as we walk, you know?
 「ふふっ、冗談よ。じゃあ行きましょうか」=Fufu--, I'm kidding. Let's go then.

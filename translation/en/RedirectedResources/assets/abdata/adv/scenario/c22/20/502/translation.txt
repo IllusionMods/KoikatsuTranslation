@@ -1,4 +1,7 @@
-﻿「[H名]、こっちこっちー」=[H名], over here~
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「[H名]、こっちこっちー」=[H名], over here~
 「遅れちゃってごめんね！　結構待っちゃったよね？」=Sorry for getting here late! I made you wait a lot, didn't I?
 「ううん、ほんの数分だから平気だよ。でも[H名]が遅刻なんて珍しいよね。何かあったの？」=No, it's just a few minutes, no big deal. But, you of all people being late, that's rare. Did something happen?
 「うぅ……髪型とかお洋服とかが決まらなかったのです……なんだか色々悩んじゃって……結局、お気に入りの格好で来ちゃった」=Uuu... I couldn't decide on how to do my hair and what to wear... I spent so much time on it... only to just put on whatever I liked.

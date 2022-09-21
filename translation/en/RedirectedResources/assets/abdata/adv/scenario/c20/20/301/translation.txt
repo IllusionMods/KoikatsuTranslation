@@ -1,4 +1,7 @@
-﻿「ふぅ～。結構歌ったなぁ！」=Fuu~. We sure sang a lot!
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「ふぅ～。結構歌ったなぁ！」=Fuu~. We sure sang a lot!
 「歌、上手なんですね！　なんだか……ずっと聞いていたいです」=You're amazing at singing! I almost... want to listen to it forever.
 「ははっ、ありがとう。でもさ……俺はそろそろ[H名]の歌も聞きたいかな」=Haha--, thanks. But, you know... I wanna hear you sing some too, [H].
 「えっと……私は、聞いてるだけでも楽しいので」=Erhm... just listening to you sing, is more than fun enough for me.

@@ -1,2 +1,5 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「おじゃまします。ふふっ、もう緊張しませんよ？」=“I'm coming in. Fufu--, I'm not nervous anymore, you know?”
 「えっと、まずはお話でも……って、どうしてもうベッドに向かおうとしているのですか？……本当に仕方のない人なのですから」=“Erhm, we could start with a small cha... wuh, why are you already heading for the bed? ...There really is no helping you.”

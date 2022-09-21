@@ -1,4 +1,7 @@
-﻿（うん、俺の気持ちを伝えよう）=(Yeah, I'll tell her how I feel)
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+（うん、俺の気持ちを伝えよう）=(Yeah, I'll tell her how I feel)
 部員全員が帰り、プールに残ったのは俺たちだけになった。=All of the club members had gone, and we were the only ones left at the pool.
 「水瀬さん、ちょっといい？」=Minase-san, do you have a moment?
 亜依=Ai
@@ -8,5 +11,3 @@
 水瀬さんは一瞬で真っ赤になり、落ち着きを失ってしまう。=Minase-san instantly turns bright red and loses her composure.
 （平静を装ってたけど、ずっここんな感じだったのかな。もう、安心させてあげないと！）=(She was trying to act calm, but I wonder if she was like this all along. I need to put her mind at ease her now!)
 俺は水瀬さんをまっすぐに見つめると、口を開いた。=I stared straight at Minase-san and began to speak.
-
-亜依=Ai

@@ -1,0 +1,7 @@
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「ふぅ、遊び疲れてくたくただ～」=“Fuu, I'm completely knackered from all that~”
+「俺も。足がぱんぱんになってるよ」=“Me too. My legs feel like lead right now.”
+「これは筋肉痛コースかも……」=“Bet it's gonna feel like hell tomorrow...”
+「むー、それは情けないぞ！　もっと普段から運動してれば、そんなことにはならないからな」=“Muu, stop being so weak! This would be nothing if you exercised more regularly.”

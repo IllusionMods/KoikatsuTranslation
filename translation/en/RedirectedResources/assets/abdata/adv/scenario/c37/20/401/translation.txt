@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「注文が済んでから運ばれてくるまでのこの時間、好きだと思います」=This period of time, between placing the order and having it arrive, I really like it.
 「そう？　俺は早く来ないかなーと思っちゃうけど……」=Really? I personally can't help but wonder to myself "when is it coming"...
 「もちろん一人の時はそうですが、今はあなたが居てくれますから」=Of course, when I'm by myself, I feel the same way but, right now you're here with me.

@@ -1,7 +1,11 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「とりあえず……こんなもんかな」=“Right, that's that for now, I guess".
 ある程度の片づけを終えたところで、これから生活する自室を見渡す。=After a bit of cleaning, I took a look around the room that's soon to be mine.
 「明日から新しい学園での生活が始まるのか」=“A new school life is starting tomorrow huh.”
 一息つきながら、真新しい制服を見つめる。=Taking a deep breath, I looked at my spiffy new uniform.
+//――――=
 俺の名前は『[P名前]』。=My name is [P名前].
 この春から父親が海外転勤することになり、家族会議の結果、=My father will be working overseas from this spring onwards. So, after a lengthy family meeting,
 両親は海外に、俺は叔母の家の近くに建つアパートで独り暮らしをすることになった。=We decided that I'll live in an apartment near my aunt's while my parents are overseas.
@@ -15,6 +19,7 @@
 「すぐ出ますよっと。えーと……叔母さんからか」=“Coming, coming. Huh, it's from Auntie.”
 画面に表示された名前を確認して応答ボタンを押す。=I pressed ‘Answer’ after checking the name displayed on screen.
 「もしもし」=“Hello?”
+叔母=Aunt
 『どう？　片付けは進んでる？』=“So? Are you done moving in yet?”
 「大体はね。今一息ついてたとこだよ」=“For the most part. I was taking a break just now.”
 『ごめんなさいね、あまり手伝えなくって』=“Sorry that I wasn't able to help much.”
@@ -79,7 +84,3 @@
 叔母さんに言われた通り、今日は早めに寝ることにしよう。=I should probably follow Auntie's advice and call it early.
 「おやすみ」=“Good night.”
 ベッドに入るとすぐに睡魔がやってきた。今夜はぐっすり眠れそうだ。=Diving into my bed, an immense sense of weariness instantly assaulted me. Looks like I'll sleep well tonight.
-
-//Scene specific character names
-叔母=Aunt
-//――――=

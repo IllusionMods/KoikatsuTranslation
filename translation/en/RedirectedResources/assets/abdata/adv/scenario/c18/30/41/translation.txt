@@ -1,1 +1,4 @@
-﻿「きゃっ！？　私なんか覗いてどうするんですか、出ていってください！」=Kyah--!? What's even the point of peeping on someone like me, get out of here, please!
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「きゃっ！？　私なんか覗いてどうするんですか、出ていってください！」=Kyah--!? What's even the point of peeping on someone like me, get out of here, please!

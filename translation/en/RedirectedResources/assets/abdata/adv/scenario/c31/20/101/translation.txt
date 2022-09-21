@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「は～、こうやってのんびり座ってるだけで、癒されるね～」=Haa~, just chilling out like this feels really soothing, doesn't it~
 「おいおい、年寄りみたいな事を言うな。二人でベンチに座ってるだけなんて、退屈じゃないのか？」=Hey, don't be like an old fart. Just sitting on a bench like this, don't you feel bored?
 「ぜんっぜん退屈じゃないよ。そりゃ一人で座ってたらつまらないけど、隣に[H名]がいるしね」=It's not boring at all. I mean, yeah, I would feel bored if I was by myself but, right now you're sitting next to me, [H名].

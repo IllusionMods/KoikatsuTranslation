@@ -1,4 +1,7 @@
-﻿「すごい……玉子がふわふわ」=Amazing... the egg's so fluffy.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「すごい……玉子がふわふわ」=Amazing... the egg's so fluffy.
 「……ねえ、[P名]君はオムライスを頼むのって、子供っぽいと思う？」=...Hey, do you think it's childish of me, to get the omurice, [P]-kun?
 「そんな事無いよ。お子様ランチのイメージもあるけど、オムライス専門のお店も多いくらいだし」=Not at all. It does have the image of belonging to the kids' menu but, there's lots of shops out there that have their omurice as the featured dish too.
 「良かった。そういえば本で読んだんだけど、オムライスって、お腹の弱い常連のお客さん向けに作った料理が発祥のひとつなんだって」=Thank goodness. That reminds me, I read in a book once, that one of the suspected origins of omurice is that it was initially made by a restaurant specifically for regulars with weak stomachs.

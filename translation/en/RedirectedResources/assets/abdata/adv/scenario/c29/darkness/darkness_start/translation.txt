@@ -1,4 +1,7 @@
-﻿「この部屋は、ずっと使用されていないと聞いていたんですが……」=I'd heard that this room hasn't been used for anything for the longest time but...
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「この部屋は、ずっと使用されていないと聞いていたんですが……」=I'd heard that this room hasn't been used for anything for the longest time but...
 「普通の物置きのようですね。ここに何かあるんですか？」=Seems that it's just a regular storage room, huh? Is there something here that you need?
 「……どうしたんですか？　さっきから様子がおかしいですよ」=...What's the matter? You've been acting strangely for a while now.
 「キャッ……！　だ、誰なんですか！？」=Kyah--...! W-Who is it!?

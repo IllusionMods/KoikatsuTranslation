@@ -1,4 +1,9 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「うーん、日が落ちてきたな。どうする？　もう帰るか？」=Well, the sun went down already. What do you want to do? Should we go home?
+CHOICE:『まだ一緒にいたい』=『I want to be together a bit longer』
+CHOICE:『そろそろ帰ろうか』=『Should head home』
 「もうちょっとだけいようよ。ここって夜景の名所だから、[H名]と一緒に見ていきたいんだ」=Let's stay for a bit longer. This place is known for it's night view, so I want to see it together with you, [H名].
 「ほう、上手い誘い文句を考えたな。そこまで言われたら断るわけにもいくまい」=Hoh, you sure came up with a good plan. I can't exactly refuse that invitation, now can I?
 「よかった。断られたどうしようかと思ったよ」=I'm glad. I wouldn't have known what to do if you said no.
@@ -12,6 +17,3 @@
 「それって……遠回しに誘ってる？」=Is that... Is that a roundabout invitation?
 「さぁな。ほら、もう帰るんだろう？　手くらい繋いでいくか？」=Who knows? Come on, we're going home, no? Wanna hold hands atleast?
 「うぅ、何か色々チャンスを逃した気がするけど……うん、駅まで手は繋いで帰ろう」=Uuu, I feel like I just missed out on something just now but... yeah, let's walk to the station hand-in-hand and go home.
-
-CHOICE:『まだ一緒にいたい』=『I want to be together a bit longer』
-CHOICE:『そろそろ帰ろうか』=『Should head home』

@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「あ、あのな、汝……」=“L-Listen, sir...”
 「どうしたの？　[H名]」=“What's up, [H]?”
 「実を言うとな……我も、その、汝と再びここに来ることを、望んでいたのだ……」=“Truth being told... I have been, wishing to come here with thee, again as well...”

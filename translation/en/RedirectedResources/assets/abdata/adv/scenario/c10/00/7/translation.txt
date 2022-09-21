@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「えぇっ！　わ、私……いや、我を罠にはめようとしておるのか？」=“Eeeh--! A-Are you... no, art thou trying to entrap me?”
 「罠なんかじゃないよ！　 きみのことが気になって仕方がないんだ……」=“It's not a trap! I can't stop thinking about you, all day long...”
 「つまり……我は愛を告げられているのか！？」=“Does it mean... is this a profession a love, for me?!”

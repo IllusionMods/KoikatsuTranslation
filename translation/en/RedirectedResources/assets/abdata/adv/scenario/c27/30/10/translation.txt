@@ -1,4 +1,6 @@
-
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
 「それ……私が恋愛経験ないからって、同情心で誘ってくれたんじゃないわよね」=“That... you didn't ask me to join just out of pity for such an unromantic girl, right?”
 「そんなこと思ってないって。君とならコイカツも楽しいだろうなって思っただけだよ」=“That's really not how I see you. I just thought that it'd be fun to do love activities with you.”
 「えっ……そ、そうなの？　それじゃ、あんた、私と恋愛……研究、したいって思ってるんだ……？」=“Eh--... r-really? So you, want to do some love... activities, with me, huh...?”

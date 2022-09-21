@@ -1,4 +1,7 @@
-﻿「あれ、[P名]くん！　ずいぶん早いんだね！　まだ時間前だよ？」=Huh, [P名]-kun! You're here early! There's still lots of time on the clock, you know?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「あれ、[P名]くん！　ずいぶん早いんだね！　まだ時間前だよ？」=Huh, [P名]-kun! You're here early! There's still lots of time on the clock, you know?
 「そっちこそ」=I should say the same.
 「あは、お互い楽しみで仕方なくて、早く来ちゃったんだね～！」=Aha, we both couldn't help ourselves and came early, didn't we~!
 「ははっ、バレちゃったね」=Haha--, jig's up, huh?

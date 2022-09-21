@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「あの……ごめんなさい。私、もうあなたとの関係を続けていくことができません」=“Uhm... I'm sorry. I cannot continue with our relationship anymore.”
 「えっ？　それって……」=“Eh--? That's...”
 「私が悪いんだと思います。あなたをもっと受け入れられる私だったら、きっと……」=“I do think I'm at fault. If I was a more accepting person, then perhaps...”

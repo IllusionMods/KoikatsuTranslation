@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
 「聞き、間違い……じゃないのか？　どうしてそんなこと言うんだ？」=I didn't, mishear you... right? Why would you say that?
 「ごめん……」=Sorry...
 「ごめん、って何だ？　あたしにイヤなとこがあるなら、ハッキリ言ってほしいぞ」=What's the "sorry" for? If there's something about me that makes you upset, then just tell me.

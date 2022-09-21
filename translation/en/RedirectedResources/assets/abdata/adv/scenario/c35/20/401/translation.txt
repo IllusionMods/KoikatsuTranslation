@@ -1,4 +1,7 @@
-﻿「はぁぁ、こういう喫茶店って落ち着くよね。私の地元、こげんお店全然なかったけん、なんか嬉しいん」=Haaa, these sorts of cafes are really calming, don't you think? My hometown didn't really have any places like this, so it feels kinda nice.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「はぁぁ、こういう喫茶店って落ち着くよね。私の地元、こげんお店全然なかったけん、なんか嬉しいん」=Haaa, these sorts of cafes are really calming, don't you think? My hometown didn't really have any places like this, so it feels kinda nice.
 「地元って喫茶店なかったんだ？」=Your hometown didn't have cafes?
 「うん、喫茶店どころか、ご飯食べるところもほとんどなかったん。ほとんど田んぼで……えーっと……そうそう田舎を舞台にしたアニメがあるやろ？　本当あんな感じ」=Nope, forget cafes, there weren't even any places to grab lunch from, aside from one or two. It was mostly just rice fields... Erhm... you know how many anime these days have the sticks as their setting? It's basically just that.
 「ああ、見たことあるかも！　映画にもなったアニメだよね。あんな感じっていうことは……相当のどかなんだね」=Aah, I think I've seen one or two! I'm pretty sure there's even anime movies like that. If it's the same sort of area then... sounds pretty nice and tranquil.

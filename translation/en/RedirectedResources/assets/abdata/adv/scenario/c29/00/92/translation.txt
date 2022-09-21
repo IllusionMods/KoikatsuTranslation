@@ -1,1 +1,4 @@
-﻿「勇気を出して誘ってよかったです」=I'm glad I summoned up my courage and asked.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「勇気を出して誘ってよかったです」=I'm glad I summoned up my courage and asked.

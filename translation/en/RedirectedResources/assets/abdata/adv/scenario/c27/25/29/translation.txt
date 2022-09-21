@@ -1,1 +1,4 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「ホントにもらっても大丈夫なの？　……やった。ありがと！」=“Are you really fine with me just taking this? ...Yay. Thanks!”

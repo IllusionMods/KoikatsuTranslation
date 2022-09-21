@@ -1,4 +1,9 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「ふふ～！　音を紡ぐのは愉快だっ！」=“Fufuh~! It is quite pleasant, to make noise--!”
+CHOICE:『まだ歌い足りないんじゃない？』=Still haven't had enough, have you?
+CHOICE:『でも、そろそろ時間だね』=But, we're almost out of time.
 「[H名]、まだ歌い足りないんじゃない？」=“You've still not had enough yet, right?”
 「うん！　まだまだ歌いたい！」=“Yeah! I wanna sing more, lot's more!”
 「オッケー。それじゃ延長するね」=“Okay. I'll extend it then.”
@@ -10,6 +15,3 @@
 「一曲くらいなら、まだ大丈夫だよ。それ歌ったら帰ろうか」=“We still have enough time for one more song. Let's get through that and go home, okay?”
 『果てしない空の下 どこかにきっとあるんだ～♪』=『I'm sure it's here somewhere, under this boundless bright sky♪』
 「Ｆｕ、Ｆｕ～♪」=“Fuh, fuh~♪”
-
-CHOICE:『まだ歌い足りないんじゃない？』=Still haven't had enough, have you?
-CHOICE:『でも、そろそろ時間だね』=But, we're almost out of time.

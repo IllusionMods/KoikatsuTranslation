@@ -1,3 +1,7 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+モブ=Mob
 「こちらが私どもの式場になります」=This here is our wedding hall.
 「[H名]さん、楽しみだね」=Looks like this'll be fun, [H名]-san.
 「本当にウェディングドレスが着られるのね。柄じゃないけど、ドキドキしてきたわ」=I'm really going to get to put on a wedding dress, huh. It doesn't fit me, but I'm getting real excited.
@@ -30,5 +34,3 @@
 （うろ覚えなんだけどなぁ……ま、なんとかなるか）=(I can only vaguely remember it though... Well, I'll manage it I suppose)
 「それでは、こちらで少々お待ちください」=Well then, please wait here for a moment.
 「わかりました」=Got it.
-
-モブ=Mob

@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「男子とカラオケなんて……初めてだわ」=“Going out to Karaoke with a boy... it's the first time I've done this.”
 「友達とはよく来るの？」=“Do you come often with friends?”
 「誘われたら付き合うけど、自分からはあんまり」=“I tag along if I get invited but, not on my own initiative no.”

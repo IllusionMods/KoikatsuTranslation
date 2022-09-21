@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「興味がない事はないな。後はおまえ次第といったところか……」=It's not like I don't have any interest in it. The rest depends on you, I suppose...
 「それって……どういう事？」=By that... what exactly do you mean?
 「私をコイカツ部に入れて、何をするつもりなんだ？」=What do you plan on doing, after getting me to join the Koikatsu club?

@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 スフィア(通常）=Sphere (General)
 キューブ(通常）=Cube (General)
 ピラミッド(通常）=Pyramid (General)

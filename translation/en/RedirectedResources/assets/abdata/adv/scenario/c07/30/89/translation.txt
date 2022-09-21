@@ -1,4 +1,7 @@
-﻿「いきなりだけど、頼みがあるんだ！」=I know it's completely out of the blue but, I have a request!
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「いきなりだけど、頼みがあるんだ！」=I know it's completely out of the blue but, I have a request!
 「お、おう、どうしたんだよ？　私に出来ることならなんでもするぜ！」=S-Sure, what's up? If it's something I can do then I'll definitely do it!
 「俺のこと、愛称で呼んで欲しいんだ！」=I want you to call me by a nickname!
 「なんだ、そんなことかよ……深刻そうな顔してるから、もっとヤバいことかと」=What, is that it?... Looking at your grave expression, I thought it was something more serious.

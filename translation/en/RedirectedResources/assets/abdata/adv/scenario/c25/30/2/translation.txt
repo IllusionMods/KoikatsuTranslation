@@ -1,4 +1,7 @@
-﻿「仲良くなれそうで良かったよ」=I'm glad, it really does seem like we could get along.
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「仲良くなれそうで良かったよ」=I'm glad, it really does seem like we could get along.
 「またそーゆーことを……まあ会話くらい付き合ってあげるよ～」=Always with that... well, I don't mind chatting I guess~
 「ははは、今度は一緒に遊びに行けたらいいね」=Hahaha, would be pretty sweet to hang out together one of these days.
 「お、これはもしやナンパっすか？」=Oh, are you hitting on me right now?

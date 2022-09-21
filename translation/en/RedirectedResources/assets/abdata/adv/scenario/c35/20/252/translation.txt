@@ -1,7 +1,12 @@
-﻿「わわっ……駅で止まる度に人が乗ってくるね。まさかこんなに混むなんて……[H名]、大丈夫？　きつくない？」=Wawah--... More and more people are getting on at every station. To think it'd get this packed... [H名], you okay? Not too cramped?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「わわっ……駅で止まる度に人が乗ってくるね。まさかこんなに混むなんて……[H名]、大丈夫？　きつくない？」=Wawah--... More and more people are getting on at every station. To think it'd get this packed... [H名], you okay? Not too cramped?
 「う、うん……君が庇ってくれとるけん、私は大丈夫やけど……きつくないん？　支えるのきつかったら、もっと詰めてもいいとよ？」=Y-Yeah... You're looking out for me, so I'm fine but... isn't it too cramped for you? If it gets too hard to hold the others back, you can stick even closer to me, you know?
 「あ、う、うん……そうしたいのはやまやまなんだけど……」=Ah, y-yeah... I'd really rather not do that to you though...
 （ど、どうしよう……もう十分密着してるせいで……[H名]の香りと感触が……く……ぅ……反応しそう……）=(W-What should I do... I'm already pretty glued to her... thanks to that, I can smell her aroma, and the touch of her skin... kuh... uu... my crotch is gonna...)
+CHOICE:『いちおう堪えようとする』=『Make an effort to bear it』
+CHOICE:『何が何でもに堪えようと必死になる』=『Bear it desperately, come what may.』
 （堪えなきゃだけど……ああ……ダメだっ、押えられない……）=(I really have to bear it but... aaah... damn--, I can't hold it down...)
 「ひあっ……あ……え、えっと……はぅぅ……」=Hyah--... ah... e-erhm... hauu...
 「ごめんっ……あのっ、これはそのっ……つまりっ……」=Sorry--... Uhm--, this is, uhm--... basically--...
@@ -12,6 +17,3 @@
 （いやいや！　ダメだ、ダメだ！　我慢するんだ俺っ！）=(Nono! I can't, I musn't! I'm going to endure it--!)
 （いい匂いもしないし、やわらかい感触なんて当たってないぞ……平常心だ平常心）=(It doesn't smell really good at all, and her super soft skin isn't pushing against me at all either... I am the very image of calmness)
 （うぅ……持ってくれよ、俺の自制心っ）=(Uuu... please just bear with it, my sanity--)
-
-CHOICE:『いちおう堪えようとする』=『Make an effort to bear it』
-CHOICE:『何が何でもに堪えようと必死になる』=『Bear it desperately, come what may.』

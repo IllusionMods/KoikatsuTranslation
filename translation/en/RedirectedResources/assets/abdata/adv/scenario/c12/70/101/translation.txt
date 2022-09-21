@@ -1,0 +1,24 @@
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「公園に来たはいいけど、特にやる事を決めてなかったね……」=“We came to the park and all, but we didn't really plan anything out, did we...”
+「なっ、おまえが選んだんだぞ？　あたしはてっきり何か目的があるのかと思ってたよ」=“Hey--, you're the one who went for this, you know? I thought you must have had something cooked up for sure.”
+「うーん、強いて言うなら、[H名]とゆっくりしたかった……かな」=“Nnn, if I really had to say why, I guess I wanted to... just take it easy with you?”
+「じゃあ、それをすればいいんじゃないか？　ゆっくりって言っても色々あるだろ？」=“Then, why don't we do just that? I mean, 'taking it easy' still involves a bunch of stuff, no?”
+「色々って、例えば？」=“For example?”
+「むぅぅ～、そう返されると困るな……例えばほら、ベンチに座るとか、散歩するとか、昼寝って選択肢もあるぞ？」=“Muu~, don't pass the buck onto me... for example, relaxing together at a bench, or taking a walk, and stuff. We could even take a nap together.”
+「うん、その辺りは俺も考えてたんだけど、どれも退屈じゃないかなって……」=“Nnn, I thought about those too but, I was thinking that maybe it'd be a tad bit too boring...”
+「そんな事は、やってみなきゃわからないだろ？　やる前から決めつけるのはよくないぞ」=“How'd we know until we actually try it? It's not good to give up before even trying something.”
+「そうだね。ごめん……なんか、デートってどうしたらいいんだろって、迷っちゃう時があって」=“You're right. Sorry... I just, got a bit too obsessed about making it a proper date, and stuff.”
+「あはは、それあたしもわかるぞ。おまえと付き合う事になって、でも付き合うって何をすればいいのかわからなくて……」=“Ahahah, I feel that too. We've started going ot, but I have no idea what going out even involves...”
+「[H名]もそうだったんだ。とにかく一緒にいたいって気持ちだけが先行してさ、何をするかまで考えが及ばなくて」=“You too, huh? Anyways, I just wanted to be with you so bad, I didn't really get far enough to thinking what exactly we were gonna do.”
+「そうそう。あたしはどっちかっていうと男っぽいだろ？　だからこういう時、もう少し女らしさも身に付けなきゃなって思うよ」=“Exactly. As for me, if you had to say, I'm more manly than girly, no? So I just get too concerned with making myself seem more girly to you.”
+「でも、[H名]のサバサバした所は好きだよ。女の子っぽくないから、変に構えなくていい感じがさ」=“But, I love exactly that side of you, [H]. You're not very girly, so I don't need to mind every word that comes out of my mouth.”
+「おまえ……そういう事を本人の前で言うかなぁ……好きって言ってくれたのは嬉しいけど。結構気にしてるんだぞ？」=“You... should you really be saying it like that, to my face to boot... I mean, hearing you say you love me does make me happy, but it's something I actually worry about a lot, you know?”
+「ごめん。でも無理して変わって欲しくないなって……俺は今のままの[H名]でも十分好きだから」=“Sorry. I just wanted to tell you that I'd rather you didn't force yourself to change... I love the way you are right now, [H].”
+「うぅぅ、好き好き連呼するなよぉ……は、恥ずかしくなってきた……」=“Uuuuu, don't say you love me again and again like that... i-it's embarrassing...”
+「あっ、ほら！　そういうところ、今の[H名]は凄く女の子っぽいよ！　めちゃくちゃ可愛い！」=“Ah--, look! That side of you is really girly, see! It's super adorable!”
+「んうぅ～、それ、真剣に言ってるのが分かるから質が悪いんだよなぁ……ほ、ほら、ずっと立ち話じゃなくて、散歩でもするか？」=“Nnnn~, the way you're saying that so seriously is kinda ticking me off~... c-c'mon, let's take a walk or something, I'm getting bored of just standing in place.”
+「そうしよっか。少し歩けば、何か面白そうなものが見つかるかもしれないし」=“Let's do that. We might find something funny to look at.”
+「はは、無理して面白くしようとしなくていいよ。一緒にいるだけで十分楽しいし、それがほら……恋人ってものだろ？」=“Haha, you don't need to go out of your way to make it interesting for me. It's fun enough just being with you, that's what, you know... being a couple is about, you know?”
+「えっ……ぅ、うん。ありがとう……じゃあ、手を繋いで散歩しようか」=“Eh--... y-yeah. Thanks... then, let's hold hands too.”

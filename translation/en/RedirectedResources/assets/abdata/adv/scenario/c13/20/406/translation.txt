@@ -1,4 +1,7 @@
-﻿「あれ、もう夕方になってる……」=Huh? It's already dusk...
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「あれ、もう夕方になってる……」=Huh? It's already dusk...
 「えー、マジ～？　一日が早すぎるよ～」=Eh, for real~? A day goes by way too fast~
 「そうだね。でも、今日は楽しかったね！」=Yeah, it does. But, today was a ton of fun, wasn't it!
 「うん、そうだね！　こーやってゆったりとするのも、いいカンジだったよ～」=Yeah, it was! Taking it easy like we did today was great too~

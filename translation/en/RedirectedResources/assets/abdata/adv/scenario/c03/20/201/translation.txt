@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「今日は遊園地にしてみたけどどうかな？」=“Well, I thought we could try out the amusement park today, but what do you think?”
 「えへへ、すごく嬉しいです！　私もちょうどこういう賑やかなところへ来たかったですよ！」=“Eheheh, I'm super happy! I wanted to come and spend some time in such a bustling place myself!”
 「良かった。それじゃ早速、何か乗ってみる？」=“Great. Well then, let's not waste time. What should we start with?”

@@ -1,4 +1,6 @@
-
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
 「あらあらあら、我慢できなくて入ってきちゃったの？　どうしましょ～」=“My my my, couldn't hold it in anymore? Whatever shall I do with you~”
 「あらあら、ひとりが寂しくてついてきちゃった？　困ったわねぇ……」=“Oh my, couldn't handle being by yourself so followed me in? What to do with you~”
 「ごめんね、ちょっと冷静になる時間をもらえるかしら」=“I'm sorry, could I have some time to cool down?”
@@ -90,6 +92,7 @@
 「私のこと、面倒に思わないの……？」=“Am I annoying...?”
 「安心したわ。それじゃ、これからもどんどんお世話を焼かせてもらうわね」=“That's a relief. Well then, I'll keep poking my nose into your business, okay?”
 「しつこくしちゃってごめんね……あなたのことが心配でしょうがないの」=“Sorry for being such a nuisance... I just get so worried about you, you know?”
+「こんなこと聞く私って、馬鹿よね……」=“I'm an idiot, aren't I? Asking something like this...”
 「あなた、動物は好き？」=“Do you like animals?”
 「可愛いわよね～！　ずぅーっと抱きしめていたいわ」=“They're adorable, aren't they~! I just wanna hug them forever.”
 「わかるわ……逃げられちゃうとショックよね……」=“I feel you... it's very disappointing when they run away, isn't it...”

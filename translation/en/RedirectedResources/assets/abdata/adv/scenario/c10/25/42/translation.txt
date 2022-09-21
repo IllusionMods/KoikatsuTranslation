@@ -1,1 +1,4 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「な、何してるんですか！？　最低！　早くあっち行ってください！」=“W-What are you doing?! Scum! Please get out!”

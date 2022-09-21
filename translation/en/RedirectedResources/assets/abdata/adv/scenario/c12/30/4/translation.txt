@@ -1,4 +1,6 @@
-
-//「勉強かー。そろそろやらないとって感じだったんだよな」=
-//「じゃあ、丁度いいね」=
-//「はは、そうだな。タイミング良いじゃないか」=
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「勉強かー。そろそろやらないとって感じだったんだよな」=“Studying, huh? Well, I suppose it's about time for me to get some studying in.”
+「じゃあ、丁度いいね」=“Perfect timing then, no?”
+「はは、そうだな。タイミング良いじゃないか」=“Haha, yeah. It is.”

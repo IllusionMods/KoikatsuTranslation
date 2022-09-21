@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「観覧車に乗るのは、久しぶりです」=“It's been a while, since I've ridden on a ferris wheel.”
 「前はいつ乗ったの？」=“When was the last time you got on one?”
 「学園の社会科見学で遊園地に行って……」=“When we went on a field trip, to an amusement park...”

@@ -1,4 +1,7 @@
-﻿「[H名]が頼んだオムライス、美味しそうだね」=The Omurice you ordered sure looks good, [H名].
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「[H名]が頼んだオムライス、美味しそうだね」=The Omurice you ordered sure looks good, [H名].
 「はい。一押しメニューと言うだけあって、とても美味です」=Yes. I can see why it's the chef's recommendation here, it's really delicious.
 「そっかぁ。じゃあ食べさせてほしいなー、なんて」=I see. Man, I'd love it if you fed me some. Kidding.
 「欲望を隠す気がまったくありませんね」=Not planning on hiding your desires at all, huh?

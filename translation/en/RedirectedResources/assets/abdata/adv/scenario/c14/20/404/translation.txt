@@ -1,4 +1,7 @@
-﻿「おっ、きたきた。ようやくスイーツの到着だぜ」=Oh--, it's finally here. Time for some sweets.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「おっ、きたきた。ようやくスイーツの到着だぜ」=Oh--, it's finally here. Time for some sweets.
 「わあ、美味しそう！　これは待ったかいがありそうだね」=Wah, it looks so good! It was worth waiting that long for this.
 「そうだな。それじゃ、早速いただくか」=Yeah. Well then, I'mma dig in right away.
 「んん～！　この味、たまんねえな～！」=Nnn~! Man, this is so darn good~!

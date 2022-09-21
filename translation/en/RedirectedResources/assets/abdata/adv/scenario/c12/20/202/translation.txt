@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「遊園地って結構歩くよね。少し休憩しようか？」=“Amusement parks make you walk a fair bit, don't they? Wanna take a short break?”
 「そうだな。長く遊ぶためにも適度な休憩は必要だ。まだまだ遊び足りないからな」=“Sounds good. Gotta rest if we're to have fun the whole day. And I certainly plan to.”
 「じゃあ、あの出店でポップコーンでも買って、ベンチで休憩しようか」=“Well then, let's buy some popcorn from that stall, and chill at a bench or something.”

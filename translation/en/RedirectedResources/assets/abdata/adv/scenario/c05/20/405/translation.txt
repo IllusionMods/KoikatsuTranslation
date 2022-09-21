@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「美味しそうなオムライスだね」=“That omurice sure looks delicious.”
 「すっごく美味しいよ。このオムライスの美味しさに関しては、“かれら”も羨むくらいなの」=“It's really delicious. Even "they" are jealous, that they do not get to enjoy this.”
 「へえ。“かれら”もほしがるって相当だね」=“Hoh. That's quite high praise.”

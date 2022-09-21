@@ -1,4 +1,6 @@
-
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
 「へえ、色々あるんだね」=“Hoh, there's all sorts, huh?”
 「あっ……あのお店が気になります。行ってみませんか？」=“Ah--... I'm really curious about that one. Could we try going in?”
 「うん、いいよ」=“Yeah, sure.”

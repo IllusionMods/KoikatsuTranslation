@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 電気照明1=Electric Light 1
 電気照明2=Electric Light 2
 電気照明3=Electric Light 3

@@ -1,4 +1,7 @@
-﻿気持ちよく……なれてますか？=Are you... feeling good?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+気持ちよく……なれてますか？=Are you... feeling good?
 このくらいの速さでも……いいですか？=Are you fine with... this speed?
 早くしなくても、気持ちいい……ですよね？=Even if I don't do it any faster, it feels good... right?
 あなたが一番感じるのは、このくらいの早さですよね？=This is the pace that feels the best for you, no?

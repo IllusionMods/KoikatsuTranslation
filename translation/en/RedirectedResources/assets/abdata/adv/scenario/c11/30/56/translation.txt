@@ -1,4 +1,6 @@
-
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
 「そんな……！　夢よ……これは夢なんだわ……あなたが別れを切り出すなんて、夢でしかないもの」=“This can't be...! A dream... this is a dream... only in a nightmare would you ever break up with me.”
 「……夢じゃなくてホントのことだよ」=“...It's not a dream, it's reality.”
 「嘘よ、お願い、夢だと言ってぇ～！」=“That's a lie, please, say it's just a dream~!”

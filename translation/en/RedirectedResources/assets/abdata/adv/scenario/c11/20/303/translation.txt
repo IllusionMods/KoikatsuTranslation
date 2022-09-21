@@ -1,4 +1,9 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「あらあら、もうすぐ時間ね。そろそろおいとましなきゃ」=“Dearie me, our time's almost up. We gotta go home soon.”
+CHOICE:『もう少し歌いたいな』=I wanna sing some more.
+CHOICE:『そうだね、帰る準備をしよう』=Right. Let's get ready to leave.
 「俺、もう少し歌いたいんだけど……ダメ？」=“I want to keep singing with you a bit more... could we?”
 「延長したいの？　いいわ、それじゃあフロントに電話をしないとね」=“You want to extend our slot? Sure, we'll have to put in the call for it soon though.”
 「ありがと！」=“Thanks!”
@@ -11,6 +16,3 @@
 「ふふ、そういうことなら一生懸命歌うわね。えっと……うん、この曲にするわ」=“Fufu, I'll have to pull out all the stops then. Erhm... yeah, this song will do.”
 『もしも今 背中に羽が生えて 大空自由に 飛び回れたら～♪』=『If only I could, sprout wings from my back, and fly freely, in this wide open sky~♪』
 （うん……何度聞いてもいい声だ）=(Yeah... that voice never gets old.)
-
-CHOICE:『もう少し歌いたいな』=I wanna sing some more.
-CHOICE:『そうだね、帰る準備をしよう』=Right. Let's get ready to leave.

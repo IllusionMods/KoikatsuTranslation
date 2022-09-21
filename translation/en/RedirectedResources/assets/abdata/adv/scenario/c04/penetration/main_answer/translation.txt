@@ -1,2 +1,5 @@
-﻿「私は……そうね、別に構わないわよ？」=I... yes, I don't really mind, you know?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「私は……そうね、別に構わないわよ？」=I... yes, I don't really mind, you know?
 「ええ、シましょ。　三者三様の羞恥をさらけ出すのよ」=Yes, let's do it. We'll all show each other our own unique shameful sights.

@@ -1,4 +1,7 @@
-﻿恥ずかしいよ……=It's embarrassing...
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+恥ずかしいよ……=It's embarrassing...
 あ、あまり見ないで=D-Don't look too much.
 焦らしているとか？=Are you trying to tease me?
 焦らさなくていいから、早く……！=You don't have to tease me, quickly...!

@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「興味があったから参加してみたものの……コイカツって私でも出来るのかしら？」="Participate in the club activities if you're interested"... Do you think its possible for me to do something like Koikatsu, that is, lover activities?
 「大丈夫、全然難しいことじゃないよ。ただ普通の恋人同士がするみたいなことをするだけなんだ」=It's alright. It's nothing hard, just act like what a normal couple would act like.
 「っ……そ、それってまさか……いきなりこの部屋で……あんなことやこんなこと……」=!... Do-Does that mean... In this room, we're gonna do something like "this" or "that"...?

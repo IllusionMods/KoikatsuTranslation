@@ -1,4 +1,7 @@
-﻿「よし、それじゃあどれに乗ろうか……えっと、絶叫系とかどう？」=Alright then, which one should we get on... erhm, how're you with the screamer types?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「よし、それじゃあどれに乗ろうか……えっと、絶叫系とかどう？」=Alright then, which one should we get on... erhm, how're you with the screamer types?
 「えっと……絶叫系は……疲れてしまうので、後でもいいですか？」=Erhm... the screamer ones are... really tiring so, could we do them at the end?
 「それもそうか……じゃあ最初はゆったりしたもの……コーヒーカップとかどう？」=That's true as well... then, something easygoing for now... how about the coffee cup?
 「あ、そ、それなら……ゆっくり出来ますし、いいかもしれません」=Ah, t-that... we'll be able to relax as well, it might be nice.

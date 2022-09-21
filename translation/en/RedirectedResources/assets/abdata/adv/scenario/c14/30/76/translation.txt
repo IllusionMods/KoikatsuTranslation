@@ -1,4 +1,7 @@
-﻿「よ～し、今日は何する？」=Alright~, what's the plan for today?
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「よ～し、今日は何する？」=Alright~, what's the plan for today?
 「[P]がしたいことなら、何でもいいぞ」=If there's something you wanna do, I'm fine with anything, [P].
 「じゃあ、エッチ……」=Then, sex...
 「ばっか！　普通の運動に決まってんだろ！」=Idiot! We're here to do some normal exercise!

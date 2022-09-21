@@ -1,2 +1,5 @@
-﻿「へへっ……ただいまー。なんてな」=Hehe--... I'm home. Heh. Kidding.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「へへっ……ただいまー。なんてな」=Hehe--... I'm home. Heh. Kidding.
 「って……ベッドの上でやる気満々じゃねぇか。……まぁ、私も人の事は言えないんだけど……な」=...And you're just raring to go at it, aren't you? ...Well, I guess I'm not one to talk...

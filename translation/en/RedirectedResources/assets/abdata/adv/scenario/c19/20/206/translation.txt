@@ -1,4 +1,7 @@
-﻿「観覧車って不思議……」=The ferris wheel's so incredible...
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「観覧車って不思議……」=The ferris wheel's so incredible...
 「例えば、どういうところが？」=Which part? If you had to pick one.
 「……変な子だな、って笑わないでね？」=...Don't laugh at me and call me weird, okay?
 「大丈夫だって、笑ったりしないよ」=Don't worry, I wouldn't do that to you.

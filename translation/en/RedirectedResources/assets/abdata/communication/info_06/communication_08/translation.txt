@@ -1,4 +1,7 @@
-﻿「ええっ！　女子トイレになにか用なのかなぁ？」=Eeh--! Do you have some business here, inside the girls' toilet?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「ええっ！　女子トイレになにか用なのかなぁ？」=Eeh--! Do you have some business here, inside the girls' toilet?
 「えっと……ロッカー室になにか用なのかなぁ？」=Erhm... do you have some business here, inside the locker room?
 「ちょっと急いでるの。ごめんねぇ」=I'm in a rush. Sorry.
 「……なにかなぁ？」=...What is it?

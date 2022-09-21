@@ -1,1 +1,4 @@
-﻿「あら、私にプレゼント？　何かしら……山吹色のお菓子とか？ ふふっ、冗談よ」=Oh my, a present for me? I wonder what it is... trying to bribe me, are you? Fufu--, I'm joking.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「あら、私にプレゼント？　何かしら……山吹色のお菓子とか？ ふふっ、冗談よ」=Oh my, a present for me? I wonder what it is... trying to bribe me, are you? Fufu--, I'm joking.

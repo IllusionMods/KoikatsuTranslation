@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「やっぱり、遊園地のシメは観覧車よね～」=“The ferris wheel really is the only closer for a day at the amusement park, isn't it~”
 「まあ、定番だね。でも、そんなに乗った記憶ないなぁ」=“Well, it is pretty standard. But, I don't really have many memories of riding it, you know~?”
 「そう？　子供の頃は、最後は観覧車だったような……あれ？　なにかで見ただけだったかな？」=“That so? I feel like, as a kid, whenever we came to the amusement park... huh? Did I just see it somewhere, or something?”

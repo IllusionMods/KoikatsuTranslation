@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「えっと……お、おはよう！　[Pあだ名]」=“Erhm... m-morning! [Pあだ名].”
 「あ！　おはよう、[Hあだ名]」=“Ah! Morning, [Hあだ名].”
 「んぁぁ～っ！　やっぱこれ、こそばゆくなるぅ！」=“Nnaaah~! This really is way too ticklish~!”

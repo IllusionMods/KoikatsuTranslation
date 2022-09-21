@@ -1,4 +1,7 @@
-﻿どうされると気持ちいいんですか？　教えてください=How should I do this, to make you feel good? Please teach me.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+どうされると気持ちいいんですか？　教えてください=How should I do this, to make you feel good? Please teach me.
 気持ちいいですか？　ふふっ、答えてください=Does it feel good? Fufu--, please answer me.
 こうされると、いいんですよね？　知ってますよ？=When I do it like this, it feels good, doesn't it? I know it does, you know?
 びくびくしてますよ……？=It's twitching, you know...?

@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「このぉ、強引にも程があるぞ……電車の中なんて、恥ずかし過ぎて死ぬかと思った」=“You~, there's a limit to how pushy you can be... I thought I was gonna die from embarrassment for a second there.”
 「そんなに？　でも、それならいつもより感じたんじゃない？」=“That bad? But then I bet it must have felt much better than usual too, no?”
 「うっ、うるさいっ、うぅぅ……あたしの顔をじっと見るなぁ……また恥ずかしくなってくるだろぉ……」=“Uu--, shaddup--, uuuuu... don't stare at my face~... I'm gonna start blushing again~...”

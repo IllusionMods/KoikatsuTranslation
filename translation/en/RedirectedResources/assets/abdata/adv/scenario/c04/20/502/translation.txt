@@ -1,3 +1,6 @@
-﻿「ふう、なんとか待ち合わせの時間は守ることが出来たな」=Fuu, I managed to make it right on time.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「ふう、なんとか待ち合わせの時間は守ることが出来たな」=Fuu, I managed to make it right on time.
 「お待たせ。あら、早いのね。女の子を待たせないのはいいことだわ」=Sorry for the wait. Someone sure got here early. Girls really like guys that don't keep them waiting, you know?
 「ふふっ、まぁね。じゃあ行こうか」=Fufu--, I know. Well then, let's go.

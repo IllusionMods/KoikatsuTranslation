@@ -1,2 +1,5 @@
-﻿「フー……、シャワー気持ちよかったぞ、サンキュ！」=Fuu... that shower felt great, thanks!
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「フー……、シャワー気持ちよかったぞ、サンキュ！」=Fuu... that shower felt great, thanks!
 「な、なんだ？！　あ、あんまり見ないでくれ。また変な気分になる！」=W-What?! D-Don't stare so much. I'll get into that mood again!

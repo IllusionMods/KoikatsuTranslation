@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「男の子が好きなオカズばっかりのお弁当を作ってみたの」=I tried making a boxed lunch full of only things that boys like to eat.
 「うわぁ、唐揚げ、チャーハン、野菜の肉巻き、全部美味しそう！」=Uwah, Fried Chicken, Fried Rice, and even Spring Rolls, everything looks delicious!
 「ふふ、そんなに嬉しそうな反応をされたら、それだけでお腹いっぱいになっちゃいそう」=Fufu, if you show me such a happy reaction, I feel like I'll be full from just that.

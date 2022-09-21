@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「おぉ～、きたきた！　待ってました～！」="Ooh~, there we go! We waited for so long~!"
 「はしゃぎ過ぎよ。みっともないからやめなさい」="You're getting too excited. It's embarrassing, so stop it."
 「そんな事言ってぇ、[H名]さんだって嬉しそうな顔してるよ？」="Even if you say that, you look happy Miss [H名]."

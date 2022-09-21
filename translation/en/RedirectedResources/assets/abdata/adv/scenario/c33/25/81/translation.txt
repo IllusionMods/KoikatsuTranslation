@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「えっと……[H名]さんのそれって何ラーメン？」=Erm... What kind of Ramen is that, [H名]-san?
 「激辛コラーゲンボールラーメンよ。美容にいいかと思って。いただきます」=It's super spicy collage ball ramen. They say it's good for your figure. Thanks for the food.
 「いただきます……すごいね、コラーゲンボールがこれでもかってぐらいブチ込まれて……」=Thanks for the food... Amazing, It really is absolutely stuffed with collagen balls...

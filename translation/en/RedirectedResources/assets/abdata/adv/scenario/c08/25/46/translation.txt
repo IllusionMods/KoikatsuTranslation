@@ -1,3 +1,6 @@
-﻿「どうだったかな？　上手に出来てたかな」=How was it? Did I do it properly?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「どうだったかな？　上手に出来てたかな」=How was it? Did I do it properly?
 「すごく上手に出来てたよ」=You were amazing.
 「良かったぁ。次はもっともっとうまくなるからね♪」=I'm glad. I'll get better and better at it, so look forward to next time♪

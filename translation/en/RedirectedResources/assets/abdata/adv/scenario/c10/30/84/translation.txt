@@ -1,4 +1,6 @@
-
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
 「一緒に部活するの、実は楽しみにしてたのだぞ？」=“Doing club activities together is fun, isn't it?”
 「そうなんだ？　なんかうれしいなぁ」=“You think? I'm happy to hear that...”
 「コイカツで、男性という生き物をもっと知りたい……」=“So, I'd like to know more about men...”

@@ -1,1 +1,4 @@
-﻿「ありがとうな。また疼いたときは……あ、いや何でもない」=Thanks, you know? When it starts throbbing again, I'll... ah, no, ignore that.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「ありがとうな。また疼いたときは……あ、いや何でもない」=Thanks, you know? When it starts throbbing again, I'll... ah, no, ignore that.

@@ -1,4 +1,7 @@
-﻿「さぁ、初デートは何をしましょうか？」=Now then, what shall we do for our first date?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「さぁ、初デートは何をしましょうか？」=Now then, what shall we do for our first date?
 「あっ、俺、色々考えてきたんだ！　えっと、まずは……」=Ah--, I actually thought up a lot of stuff! Erhm, first things first...
 「うふふ、一生懸命でカワイイ♪」=Ufufu, you look so cute when you're doing your best♪
 「えっ……？」=Eh--...?

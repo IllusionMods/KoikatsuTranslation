@@ -1,0 +1,27 @@
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「わぁ、おいしそう！　ねぇねぇ、食べてもいい？」=“Wah, it looks delicious! Hey, hey, can I eat yet?”
+「……ふふ、お先にどうぞ。目が輝いてるね」=“...Fufu, feel free to dig in. Your eyes are sure sparkling.”
+「だって、見た目もすごく豪華じゃない。それに、イチゴはスイーツの定番だし」=“I mean, it just looks so fancy. Not to mention, strawberry is the king of all sweets.”
+「でも、どうしてパフェにしたの？　イチゴが使われてるメニューって他にもあったでしょ？」=“But, why a parfait? They have other items with strawberries in them too, no?”
+「圧倒的に量が違うからよ」=“It just has the most of them.”
+「はは、らしい理由だね」=“Haha, that's just like you.”
+「りょ、量だけじゃないわよ！　イチゴの酸味が、え～と、程よくクリームにマッチして……」=“I-It's not just that! The acidity of strawberries, erhm~, works perfectly with cream and...”
+「あ～、まあ、味も美味しいんだね」=“Aah~, well, it tastes good too, doesn't it?”
+「そ、そう。口で説明するより食べたほうが早いわね。はい。一口あげる」=“E-Exactly. It'd be easier to just let you try some, than try to explain. Here. Have a bite.”
+「お、ありがとう……あーん……」=“Oh, thanks... aaaaahn...”
+「ぱくっ。んーっ！　うまい！」=“*bite*. Nn--! Tasty!”
+「……あぅ、なんか照れるわね……」=“...Aauu, my face feels hot...”
+「でも、甘いのは苦手だったんじゃないの？」=“But, I thought you didn't like sweet things?”
+「だから、甘さ控えめ、大人のスイーツよ」=“That's why, it's one of those 'adult sweets', with the sweetness quite understated.”
+「そう言われてもけっこう甘そうに見えるけど……」=“Even if you say that, it looks pretty sweet to me...”
+「そんなことないわ、抹茶だし。もぐもぐ……ほら、そんなに甘くない」=“Not at all, it's matcha and everything, afterall. *Chew chew*... see, it's not that sweet.”
+「ひとりで食べて、ひとりで納得されてもな……」=“Eating by yourself, and agreeing with yourself too...”
+「うるさいわね。そんなに言うならあんたも食べてみなさいよ」=“Shaddup. Just try a bite and see for yourself.”
+「それじゃあ、あーんして食べさせてくれる？」=“Well then, will you feed it to me?”
+「……仕方ないわね。はい、どうぞ」=“...It can't be helped. Here, open up.”
+「あーん……」=“Aaahn...”
+「ん、確かに意外と甘くない……」=“Nn, it's surprisingly unsweet...”
+「でしょ？」=“See?”
+（間接キスになったことには……全く気づいてなさそうだな）=(As for the indirect kiss... she doesn't seem to have realized.)

@@ -1,4 +1,6 @@
-
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
 「ねえ。コイカツ部の活動って、具体的に何をするの？」=“Hey. So what exactly do you do in this club?”
 「そうだね～。女子が男子との付き合いに慣れさせる部活動だからなぁ～」=“Good question~. You see, it's basically a club meant to help girls get used to being near boys~”
 「まずは、男の子の頭の中について勉強しようか」=“For now, let's study exactly what goes on in a boy's head.”

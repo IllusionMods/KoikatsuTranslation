@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「うわ、予想はしてたけど……どこも凄い混雑だね……」=Wow, I expected a crowd but... this is on another level...
 「遊園地だもの、仕方ないわよ。この混雑も楽しむくらいでいかないとねっ」=Well, it can't be helped, it's an amusement park afterall. This crowd is also part of it, so we might as well enjoy it.
 「あぁ、[H名]が彼女でよかったよ……」=Aaah, I'm so glad you're my girlfriend, [H名]...

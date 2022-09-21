@@ -1,4 +1,7 @@
-﻿ド、ドキドキするよ、優しくしてね=M-My heart's racing, be gentle, okay?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+ド、ドキドキするよ、優しくしてね=M-My heart's racing, be gentle, okay?
 まだ緊張するの、乱暴にしないでね=I'm still nervous, don't be rough, okay?
 あは、嬉しいな、今日も優しくしてね=Aha, I'm so happy, be gentle today too, okay?
 あは、今日もいっぱい気持ちよくして欲しいな=Aha, I'd love it if you make me feel great today too.

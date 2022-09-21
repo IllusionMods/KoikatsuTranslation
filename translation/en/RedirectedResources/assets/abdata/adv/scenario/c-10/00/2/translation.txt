@@ -1,6 +1,10 @@
-﻿（今日は水瀬さんが休みだったし、他の子とコイカツしようかな……）=(Minase-san had the day off today, so I think I'll do Koikatsu with the other girls...)
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+（今日は水瀬さんが休みだったし、他の子とコイカツしようかな……）=(Minase-san had the day off today, so I think I'll do Koikatsu with the other girls...)
 登校したときにいないと思ったら、朝のＨＲで櫻井先生が家から連絡があったと教えてくれた。=When I arrived at school and found her missing, Sakurai-sensei told me in morning home room that she had received a call from Minase-san's home.
 どうやら風邪を引いてしまったらしい。=Apparently, she had caught a cold.
+野乃花=Nonoka
 「ちょっといい？」=Do you have a minute?
 「あ、はい」=Uh, yes.
 櫻井先生はプリントの入ったクリアファイルを携えていた。=Sakurai-sensei was carrying a clear file with print outs in it.
@@ -20,7 +24,7 @@
 「よかった。それじゃ、キミの難しいお願い事っていうのを聞きましょうか？」=Good. Now, let's hear about your difficult situation, shall we?
 「……いえ、それに関してはもうちょっと自分で考えてみます」=...No, I'll think about that a bit more on my own.
 「あら、ちょっと寂しいけど……そうね、ひとりで考えるのも大事なことよね。それじゃ、よろしくね」=Oh, that's a bit lonely, but... well, it's important to think for yourself. I'll see you later.
-「はい、任せてください」=Yes, I'm on it."=Yes, I'm on it.
+「はい、任せてください」=Yes, I'm on it."
 櫻井先生は俺のことを少し気にしてる様子だったが、最後は笑顔で去っていった。=Sakurai-sensei seemed a little concerned about me, but in the end she left with a smile on her face.
 （水瀬さんのことを考えていたときに水瀬さんに届けるプリントを受け取った。これは、何かの暗示なのかな）=(While I was thinking about Minase-san, I received a printout to deliver to her. Is this some kind of sign?)
 まあ、風邪を引いてるらしいし、ゆっくり話せないかもしれないけれど。=Well, I heard she has a cold, so we may not be able to talk too much.
@@ -31,6 +35,7 @@
 （……あれっ？　今……）=(...Huh? Just now...)
 水瀬さんとすれ違ったような気がして振り返ると、見覚えのある後ろ姿がぎこちなく立ち去ろうとしているのが見えた。=I felt as if I had passed Minase-san and turned around to see a familiar figure awkwardly trying to walk away.
 「えっと、水瀬さん？」=Uh, Minase-san?
+亜依=Ai
 「ば、バレちゃった？　えへへ……」=Ah, you found me out? Ehhh...
 「えっと、病院帰り？」=Uhh, are you back from the hospital?
 「あー……とりあえず、ゆっくり話せるところに入らない？　キミさえよかったらだけど」=Um... Can we go somewhere where we can talk? If you don't mind.
@@ -95,6 +100,3 @@
 「だね！」=Yeah!
 （今は水瀬さんについていい案は思いつかないけれど、とにかく水瀬さんと関わり続けることが大事だ）=(I can't think of anything to help Minase-san right now, but I feel it's important to keep trying)
 俺はそう思って決意を新たにした。=I made up my mind and renewed my determination.
-
-野乃花=Nonoka
-亜依=Ai

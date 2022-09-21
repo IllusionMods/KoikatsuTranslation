@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 ビーム・扇=Energy Beam (Folding Fan)
 ビーム・剣=Energy Beam (Sword)
 バリア・円(緑)=Spherical Energy Barrier (Green)

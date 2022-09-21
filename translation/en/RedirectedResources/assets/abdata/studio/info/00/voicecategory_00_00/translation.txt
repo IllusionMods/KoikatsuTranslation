@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 汎用呼吸=Generic Breathing
 Ｈ呼吸愛撫不慣れ=Inexperienced H-Caress Breathing
 Ｈ呼吸奉仕不慣れ=Inexperienced H-Service Breathing

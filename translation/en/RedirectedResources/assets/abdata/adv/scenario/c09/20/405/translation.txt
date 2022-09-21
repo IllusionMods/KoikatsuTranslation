@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「へぇ……[H名]の頼んだオムライスもおいしそうだね」=“Hoh... the omurice you ordered looks pretty delicious as well.”
 「むぐもぐ……うん、おいしいわよ。食べてみる？」=“*Chew chew*... yeah, it is. Wanna try?”
 「うん、一口くれる？」=“Yeah, will you give me a bite?”

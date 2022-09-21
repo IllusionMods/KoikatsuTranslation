@@ -1,3 +1,4 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 //「きみとは色々な意味で近しくなれたわね。教え子とこんなに仲良くなれるなんて、先生、嬉しいなぁ」=
-
-野乃花=Nonoka

@@ -1,4 +1,7 @@
-﻿「注文待ってる間はそわそわしちゃうね……そうだ、この前テレビでやってた映画見た？　あのスパイモノの……」=Just waiting for the order to show up makes you pretty restless, doesn't it? ...Right, did you see that movie they aired on TV the other day? That spy movie...
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「注文待ってる間はそわそわしちゃうね……そうだ、この前テレビでやってた映画見た？　あのスパイモノの……」=Just waiting for the order to show up makes you pretty restless, doesn't it? ...Right, did you see that movie they aired on TV the other day? That spy movie...
 「見ました見ましたっ。ハチャメチャだけどそれがすごく面白いシリーズですよね」=I did, I did! It had some really insane hooks but, those just made it more interesting, didn't they?
 「そうそう、俺も好きなんだよね」=They did, I love that sort of stuff too.
 「でも……あの映画を見てるとちょっとだけ羨ましいなって思うんですよね」=But... watching that sort of movie makes you just a tad bit jealous, doesn't it?

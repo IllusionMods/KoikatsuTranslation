@@ -1,4 +1,6 @@
-
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
 「あっ……もう来てたんだ、待たせちゃった？」=“Ah...You're already here. Did I keep you waiting?”
 「い、いいえ、今来たところよ。それじゃ、行きましょう」=“N-No, I just got here. Well then, lets go.”
 「……[H]さんって、やっぱりこういう静かな所好きだよね」=“[H]-san, you really like quiet places like this don't you?”

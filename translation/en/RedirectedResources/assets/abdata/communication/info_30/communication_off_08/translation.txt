@@ -1,4 +1,6 @@
-﻿
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
 「ええっ！　女子トイレになにか用なのかなぁ？」=Eeh--! Do you have some business here, inside the girls' toilet?
 「えっと……ロッカー室になにか用なのかなぁ？」=Erhm... do you have some business here, inside the locker room?
 「ちょっと急いでるの。ごめんねぇ」=I'm in a rush. Sorry.
@@ -89,6 +91,7 @@
 「……私って、やっぱり子供っぽいのかなぁ？」=...Am I really all that childish?
 「安心した。あなたにそんな風に思われていたらショックだったもの」=Thanks, that's a load off my mind. It'd have been a real shocker if you really thought of me that way.
 「そっかぁ……ちゃんと答えてくれて、ありがとう」=I see... thanks for being honest with me.
+「……なんで黙るの？　なんで黙るのぉ？」=...Why are you so quiet? Why won't you answer?
 「男の人も動物好きなのかなぁ？」=Do boys like animals too?
 「私も好きだよ♪　小動物みたいって、よく言われるから親近感が沸くんだぁ」=I love them too♪ People often tell me that I'm like a small animal, so I feel a fair bit of affinity with them.
 「私も苦手なの。毛が多いと、くしゃみが止まらなくなっちゃうから」=I can't handle them either. If they're too hairy, they end up giving me sneezing fits.

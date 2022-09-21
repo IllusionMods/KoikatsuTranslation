@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「……ホントに公園でしちゃうなんて、来るたびに思い出しそう」=“...To think we'd actually do it here, I feel like I'm gonna remember it anytime I come here.”
 「うっ……反省してます」=“Uu--... I'm reflecting, yes.”
 「ん？　違う違う、後悔してるとかじゃなくて、公園の前通るだけでニヤけちゃいそうだなって」=“Nn? That's not it, I don't regret it or anything, was just thinking at how I'm gonna probably grin like an idiot everytime walk by the park gate.”

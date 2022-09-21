@@ -1,1 +1,4 @@
-﻿「ありがとうございました。また今度、三人でできると嬉しいです」=Thank you very much. I'd love to do this again some other time.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「ありがとうございました。また今度、三人でできると嬉しいです」=Thank you very much. I'd love to do this again some other time.

@@ -1,7 +1,12 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「ふぅ。今日もたくさん歌ったね」=“Fuu. We sure sang a lot today too.”
 「うん。あなたと一緒に歌うと、“かれら”とも調和できそうな気がする」=“Yeah. When I sing together with you, I feel like I can harmonize with "them" too.”
 「もう少し時間があるし、わたしはもうちょっと歌おうかなって思うけど……どうかな？」=“We still have some time, I want to sing some more... how about it?”
 「う～ん……」=“Mmm...”
+CHOICE:『それじゃ、最後までいようか』=Well then, let's stay still the end.
+CHOICE:『今日はもう帰ろうか』=Let's go home for today.
 「それじゃ、最後までいようか」=“Well then, let's stay till the end.”
 「ほんと？　嬉しい……」=“Really? Yay...”
 「[P名]くんと一緒にカラオケを楽しめるのも嬉しいし、“かれら”と、そして[P名]くんとたくさんの時間を過ごせるのがもっと嬉しい」=“It's really fun to sing and enjoy karaoke together with you, [P]-kun, but, spending so much time with "them", and you, [P]-kun, makes me even happier than that.”
@@ -17,6 +22,3 @@
 「それじゃ、交信に支障が出ちゃうからね。喉を休ませたほうがいいよ」=“It's gonna get in the way of your communication, if you overdo it. You should rest your throat.”
 「あ……たしかに。ありがとう、気遣ってくれて」=“Ah... you're not wrong. Thank you, for thinking of me.”
 「どういたしまして。それじゃあ、会計済ませてくるね」=“You're very welcome. Well then, I'll go settle the bill.”
-
-CHOICE:『それじゃ、最後までいようか』=Well then, let's stay still the end.
-CHOICE:『今日はもう帰ろうか』=Let's go home for today.

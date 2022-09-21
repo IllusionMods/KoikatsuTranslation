@@ -1,4 +1,7 @@
-﻿「カラオケ久しぶりー！　全力で歌っちゃうよー！」=It's been so long since I've come out to karaoke~! I'mma pull out all the stops today~!
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「カラオケ久しぶりー！　全力で歌っちゃうよー！」=It's been so long since I've come out to karaoke~! I'mma pull out all the stops today~!
 「そうなんだ？　いつ以来なの？」=That so? When was the last time?
 「うんー、最後に友達と行ったのって、もう１０日位前だよー！　ずいぶん歌ってない感じ！」=Mmm, like 10 days ago, with my friends~! Been a while since I've sung my heart out!
 「あ、あはは、それで久しぶりなんだ……さすが[H名]……カラオケ、よく行くんだね」=A-Ahaha, that's "long" for you, huh... suppose that's par for the course... you go to karaoke a lot, huh?

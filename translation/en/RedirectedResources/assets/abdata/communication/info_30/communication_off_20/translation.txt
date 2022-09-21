@@ -1,4 +1,7 @@
-﻿「きゃっ！　あの、ここは女子トイレですよ？」=Kyah--! Uhm, this is the girls' toilet, you know?
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「きゃっ！　あの、ここは女子トイレですよ？」=Kyah--! Uhm, this is the girls' toilet, you know?
 「きゃああっ！　み、見ないでください！」=Kyaaah--! P-Please don't look!
 「その……急いでいるので失礼します」=Uhm... I'm in a rush, so please do excuse me.
 「……なんですか？」=...What is it?
@@ -89,6 +92,7 @@
 「私、あなたと上手に話せるようになってきましたか？」=Do you think I've gotten more comfortable chatting with you?
 「えっ、本当ですか？　よ、良かったです」=Eh--, really? I-I'm glad.
 「そ、そうですよね……もっと頑張らなくちゃ」=R-Right... I gotta work harder.
+「な、なんで話を逸らすんですか……」=W-Why are you avoiding the question...
 「動物って、好きですか？」=Do you like animals?
 「わ、私もなんです！　もふもふしててかわいいですよね」=I-I love them too! They're so fluffy and adorable.
 「あなたも苦手なんですね。実は私も、トラウマがありまして……」=You can't handle them either, huh? Actually, me too, in the past...

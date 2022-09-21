@@ -1,4 +1,7 @@
-﻿「ん～、新緑の良い香りがする～」=Nn~, the scent of newly grown plants is so nice~
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「ん～、新緑の良い香りがする～」=Nn~, the scent of newly grown plants is so nice~
 「たまにはお散歩するのも楽しいね～」=Talking a walk every so often is pretty fun too, isn't it~
 「そうだね。歩いてるだけで、俺も心が安らぐよ。自然に癒されてるって感じがする」=Yeah. Just walking around here, makes my heart feel at ease. Feels like I'm being healed by nature.
 「……でも、俺一人じゃここに来ようと思わなかったから、今日はデートしてくれて本当に感謝してるよ」=...But, I'd have never thought to come here by myself so, I'm really thankful that you came out with me on a date today.

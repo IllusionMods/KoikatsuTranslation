@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「今日もよろしくね。私、すっごく楽しみだったのよ。キミとだったら何回デートしても新鮮な気持ちでいられるの。不思議♪」=Thanks for inviting me out today. I've been looking forward to it. If it's with you, no matter how many times we go out, I always get to experience new things. It's amazing ♪
 「そういうの嬉しいかも。俺も[H名]とだったら、デートする度に新しい発見があるよ」=Hearing that makes me happy. I feel the same way. Everytime I go out with you, I get to see a lot of new and fun things.
 「ふふっ、恥ずかしい発見じゃないといいんだけど♪　それじゃ行きましょう」=Fufu, hopefully none of them are embarrasing things ♪ Well then, shall we go?
@@ -7,10 +10,9 @@
 「うーん……ちょっと恥ずかしいような気もするけど……でも確かにいいかも。[H名]の中に、俺しか知らない部分があるっていうの」=Mmm... It feels a bit embarrasing, but you're right... that certainly sounds appealing. You too have parts that no one besides me knows about, [H名].
 「えっ……わ、私の中はダメよ？　どんな発見をしたのかきちんと教えなさい。そうじゃないと……緊張して話せなくなっちゃうじゃない♪」=Eh... B-but you aren't allowed to do that? You have to properly tell me what you found out about me. Otherwise... I'll feel so nervous that I won't be able to talk ♪
 「ふふっ、今日もお互い、新しい自分に気付けて楽しかったわね。こういう時間って本当に大切だと思うの。いつも私のこと、成長させてくれてありがとう」=Fufu, today was fun, just learning new things about each other. I think spending time together like this is really important. Thank you, for always helping me grow as a person.
+CHOICE:「この後、もし良かったらうちに来ない？」=After this, if you'd like, wanna come to my place?
+CHOICE:「俺もそう思うよ」=I think so too.
 「この後、もし良かったらうちに来ない？」=After this, if you'd like, wanna come to my place?
 「ええっ、嬉しいっ！　キミのお家にお邪魔したら、もっともっと新しい自分を発見出来そうよ♪」=Yes, I'd love to! If I were to go to your place, I'm sure I'll learn a lot of new things about myself and grow as a person ♪
 「俺もそう思うよ。これからも一緒に成長していこうね」=I think so too. Then, let's continue to grow, together.
 「ええ、建設的な関係でいましょうね。また次回のデートも楽しみにしてるわね」=Yes, let's form a postive and constructive relationship. I'm looking forward to our next date.
-
-CHOICE:「この後、もし良かったらうちに来ない？」=After this, if you'd like, wanna come to my place?
-CHOICE:「俺もそう思うよ」=I think so too.

@@ -1,10 +1,16 @@
-﻿………………=.........
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+………………=.........
 …………=......
 ……=...
 「……ここまで、戻って来ちゃったネ」=...Welp, we returned all the way here.
 「エット……今日ハ、ｓｐｅｃｉａｌな時間をイッパイｐｒｅｓｅｎｔしてクレテ、Ｔｈａｎｋｓダヨ♡」=Erhm... Today, you showed me a really amazing time, so thanks♡
 「どういたしまして。俺も楽しかったよ」=Don't mention it. I had a blast too.
 （なんだか[H名]が名残惜しそうだな……もしかして、誘ったらまだ一緒にいてくれたりして……）=(Feels like she doesn't wanna part here... If I ask her, she might just stay with me for a bit longer...)
+CHOICE:『自宅に誘う』=『Invite to your place』
+CHOICE:『ラブホに誘う』=『Invite to a love hotel』
+CHOICE:『さよならする』=『Say goodbye』
 （ちょっと欲望丸出しかな……いや、[H名]には正直に接していいはずだ）=(Maybe that would be being a bit too greedy... No, I should be honest with [H名])
 「あのさ……もし時間があるなら、うちに来ない？」=Hey, listen... If you still have some time, wanna come to my place?
 「エ！？　ア……エット、アナタがイイナラ、モチロン、行きたいヨ？　時間、タップリあるカラ……♡」=Eh!? Ah... Erhm, if it's fine with you, then of course I want to come, you know? I have lots of time to spare...♡
@@ -21,7 +27,3 @@
 「[H名]さえよければ、また行こうね」=If it's alright with you, [H名], let's do this again sometime.
 「予定がナイ時ナラ、ズットアナタといたいぐらいダヨ……♡」=If it's at a time when I don't have any plans, I'd love to stay with you the whole time...♡
 「駅マデ送ってクレテ、アリガト♡　またｓｃｈｏｏｌでオハヨーしようネ♡　Ｂｙｅ－ｂｙｅ♡」=Thanks for walking me to the station♡ Let's greet each other good morning at school later♡ Bye-bye♡
-
-CHOICE:『自宅に誘う』=『Invite to your place』
-CHOICE:『ラブホに誘う』=『Invite to a love hotel』
-CHOICE:『さよならする』=『Say goodbye』

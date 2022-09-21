@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「ふぅ、やっぱり歌うのは気持ちいいね」=“Fuu, singing really does feel amazing.”
 「キミはやっぱり歌が上手いなー」=“You really are amazing at singing.”
 「そうかな？　普通くらいだと思うけど。俺的には[H名]の歌が好きだよ」=“You think? I don't think I'm anything special. I like the way you sing much more.”

@@ -1,1 +1,4 @@
-﻿「うわぁ、ありがとう。大切にするね」=Uwah, thanks. I'll treasure it.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「うわぁ、ありがとう。大切にするね」=Uwah, thanks. I'll treasure it.

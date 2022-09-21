@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「もう真っ暗だ。今日も一日いっぱい遊んだね」=“It's pitch dark already. We sure enjoyed ourselves today, didn't we?”
 「ええ、しっかり遊園地デートを楽しんだわね。疲れたんじゃない？」=“Yes, we enjoyed our amusement park date fully. Aren't you tired out though?”
 「そう言われれば、少し疲れたかな……？」=“Now that you say it, I feel like I am, a little bit...?”

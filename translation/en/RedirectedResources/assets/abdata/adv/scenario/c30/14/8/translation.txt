@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「えっ……いきなり……？　もしかして……キミって誰にでもそういうこと言ってるの？」=Eh... What's this all of a sudden...? Could it be... are you the kind of person who says something like this to any random person?
 「そんなことないよ！？　[H名]だから、したいって思ったんだ。こんなこと……誰にでも言うわけない……」=That's not true! It's only you, [H名], that I want to do it with. Something like this... I wouldn't say it to anyone else...
 「あ、そ、そうよね……ごめんなさい。でも……えっと……ふふっ、そういう風に言ってもらえると嬉しいな」=Ah, i-is that so... I'm sorry. But... um... Fufu, it makes me happy to hear you say it like that.

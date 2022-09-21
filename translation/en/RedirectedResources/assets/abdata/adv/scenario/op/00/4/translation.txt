@@ -1,8 +1,12 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 職員室に入るなり、室内にいた先生方の視線が突き刺さった。=The moment I entered the room, I could feel that everyone's attention was directed straight at me.
 （うっ……居心地が悪い。先生方は俺が転入することを知ってると思うけど……）=(Well... this is awkward. Everyone should know by now that I'm transferring here...)
 おろおろしていると、一人の先生が俺に向けて手を振ってきた。=As I was looking around, one of teachers waved at me.
 （あの人が担任の先生かな）=(Is she the one?)
 近づいて話しかけてみよう。=I should have a chat with her.
+野乃花=Nonoka
 「あなたが転入生くんねー。はじめまして、私は担任の櫻井 野乃花です」=“You're the transfer student right? Nice to meet you, I'm Sakurai Nonoka, your homeroom teacher.”
 「はじめまして[P名前]です。よろしくお願いします」=“Nice to meet you, I'm [P名前]. I'll be in your care from now.”
 「はい、よろしくねー。男の子一人で大変なことはいっぱいあると思うけど、一緒に頑張っていきましょー」=“Me too. I know it's gonna be hard when you're the only male student, but let's both try our best OK?”
@@ -34,5 +38,3 @@
 「うふふ、いい返事ですー。クラスに向かうので、先生について来てください」=“Ufufu, excellent answer. Alright, we'll now head to class so be sure to follow me.”
 ゆっくり立ち上がり、ぽてぽてと歩き出した先生の後ろをついていく。=I followed behind Sensei as she gently stood up and started gracefully towards the classroom.
 移動しながら自己紹介で何を話すか考えておこう。=I should I think about how I'll introduce myself on the way.
-
-野乃花=Nonoka

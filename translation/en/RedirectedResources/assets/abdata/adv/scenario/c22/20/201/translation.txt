@@ -1,4 +1,7 @@
-﻿「今日は遊園地で思いっきりはしゃごう！」=Let's have a blast today!
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「今日は遊園地で思いっきりはしゃごう！」=Let's have a blast today!
 「うんっ、はしゃごうはしゃごう！　この遊園地、最近新しいアトラクションが出来て、また人気が出てるんだよ」=Yeah--, a blast, an absolute blast! They recently added some new attractions, so this park's gotten pretty popular again.
 「お～、さすが詳しいね」=Ooh~, as expected, you know your stuff.
 「あはは、たまたま雑誌で見ただけだよー。えーっと……あ、ほら、あれ。すっごく大きなジェットコースター」=Ahaha, I just happened to see it in a magazine, that's all~. Erhm... ah, look, over there. What a big roller coaster.

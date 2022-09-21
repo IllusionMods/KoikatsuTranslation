@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「今日は楽しかったね。何かやり残した事がなければ、そろそろ帰ろうか」=Today was a blast, wasn't it? Is there's nothing you still want to do, shall we head home?
 「やり残した事か……そう言われると色々と浮かんでくるが、また今度にしよう」=Something I still want to do... Well, that does bring quite a few things to mind but, let's do them next time.
 「そうだね。次の楽しみに取っておこうよ」=Yeah. Let's save them all for next time.

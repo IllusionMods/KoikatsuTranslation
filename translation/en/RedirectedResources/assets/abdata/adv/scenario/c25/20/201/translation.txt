@@ -1,4 +1,7 @@
-﻿「まずはどこへ行こうか？」=Where should we go first?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「まずはどこへ行こうか？」=Where should we go first?
 「う～ん、アトラクションがいっぱいあるから迷っちゃうな～」=Mmm, there's so many attractions, it's hard to pick one, isn't it~
 「おっ、あそこにゲームセンターがあるよ。ゲームは好き？」=Oh--, there's an arcade over there. You like videogames?
 「好きだよ～。ゲーセンはたまに行くっす」=I do~. I go to my local arcade every so often.

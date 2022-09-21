@@ -1,4 +1,7 @@
-﻿「ふおぉ、めっちゃ綺麗やんっ！　やっぱり都会ってすごいんやねぇ！」=Fuooo, it's super beautiful--! Man, big cities really are amazing!
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「ふおぉ、めっちゃ綺麗やんっ！　やっぱり都会ってすごいんやねぇ！」=Fuooo, it's super beautiful--! Man, big cities really are amazing!
 「あはは、都会っていうか……特にここが綺麗なんだよ。たまに穴場夜景スポットとして雑誌とかでも紹介されてたし……」="Ahaha, rather than big cities in general... this place in particular is beautiful. It gets listed every so often too, in those Hidden Gems sections of magazines..."
 「そうなん？　でも雑誌で紹介される場所があるってこと自体、都会ってことやない？　こげん綺麗なんやもん」=That so? But the mere fact that it's listed out in a magazine, isn't that limited to big cities? It's so pretty too.
 「うーん、言われてみればそうかも。確かにこの眺めは圧巻だもんね」=Well, now that you say it. This view really is stunning too.

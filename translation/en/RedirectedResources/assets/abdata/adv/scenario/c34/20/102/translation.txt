@@ -1,4 +1,7 @@
-﻿「う～ん、気持ちいいなぁ……せっかく晴れてるし、アスレチックで思い切り遊ぼうか」=Mmmm, feels so good... It's completely clear out too, let's have some good old athletic fun, shall we?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「う～ん、気持ちいいなぁ……せっかく晴れてるし、アスレチックで思い切り遊ぼうか」=Mmmm, feels so good... It's completely clear out too, let's have some good old athletic fun, shall we?
 「Ｕｈ－ｈｕｈ♪　Ａｔｈｌｅｔｉｃ、楽しみダヨ～♡　ン……？」=Uh-Huh♪ Sounds fun~♡ Mm...?
 「Ｗｈａｔ！？　あそこ、見て！　ネコチャンが木の上でブルブル、鳴いてるヨ！」=What?! There, look! There's a kitten up on that tree, shaking and crying!
 にゃー……=Nyaa...

@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「コイカツ……だっけ？　結局何をする部活なんだよ」=“Koikatsu... you said? So just what do we do here, anyway?”
 「うーん、憧れのシチュエーションを実践してみよう的な？」=“Nnnn, bringing all the situations you can only imagine right into reality, I guess?”
 「だから、それがいまいちイメージ湧かないっていうかー」=“And I told you, it's not exactly easy to come up with something like that on the spot--”

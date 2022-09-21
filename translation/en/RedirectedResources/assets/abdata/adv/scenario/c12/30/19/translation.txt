@@ -1,2 +1,4 @@
-
-//「おはよ。最近おまえの噂ばっかり聞くようになったなぁ」=
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「おはよ。最近おまえの噂ばっかり聞くようになったなぁ」=“Morning. Recently, all I've been hearing is rumours about you.”

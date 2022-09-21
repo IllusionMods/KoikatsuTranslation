@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「喜びなさい。この私が、下僕の餌を作ってきてあげたわ」="Rejoice. I prepared you a fodder, manservant."
 「えっ！？　下僕の餌って……ぇ？　本当に[H名]さんの手作り？　手作り弁当？」="Wha-? A fodder, wh-...? It's really made by Miss [H名]? A handmade bento?"
 「そうね、強いていうなら下僕弁当かしら。ほら、いらないの？」="Well, if you insist on calling it that, it's a manservant's bento. So, you don't want it?"

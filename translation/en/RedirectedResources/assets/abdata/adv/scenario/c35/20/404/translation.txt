@@ -1,4 +1,7 @@
-﻿「おー、来た来た。メニューの通り、美味しそうだね」=Oh, finally, it's here. It looks delicious, just like in the menu.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「おー、来た来た。メニューの通り、美味しそうだね」=Oh, finally, it's here. It looks delicious, just like in the menu.
 「うんっ！　思ってたよりも大きくて……何かお得な気分なん」=Yeah--! It's so much bigger than I expected too... Feels like my money's worth.
 「早速一口……頂きます。あむっ……んーっ！　ふふーっ、味も想像以上に美味しいー！」=I'mma go in for a bite... thanks for the meal. *Bite*--... Nnn--! Fufuu--, it tastes way better than I expected too!
 「あはは、お口に合って良かった。[H名]、本当に美味しそうな顔してる」=Ahaha, great that you like it. Your expression speaks volumes about how delicious it is.

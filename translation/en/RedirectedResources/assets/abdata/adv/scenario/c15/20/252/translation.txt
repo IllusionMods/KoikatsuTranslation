@@ -1,8 +1,13 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「うわぁ、結構人が乗ってきたな……ごめん、もう少しそっちに寄って！」=“Uwah, a whole lot of people started getting on... sorry, please move over a little bit more!”
 「こ、これ以上は行けないぞ……」=“T-There's no more space here...”
 「でも、こっちも押されて……わっ！」=“But, I'm getting pushed from behi... wah--!”
 (後ろから押されて、[H名]にくっついちゃった……)=(I got pushed straight into [H名]...)
 (こんなに[H名]が近くに……柔らかくて、それにいい匂いが……)=(She's so close to me... she's so soft, and smells really nice too...)
+CHOICE:『欲望に身を任せる』=Give in to your desires.
+CHOICE:『鉄の自制心で堪える』=Bear it with an iron will.
 （気持ちよくて、どんどん……大きくなってしまう……）=(It feels so good, I'm starting to... get hard...)
 「……えっと、なー。その、キミのが当たって……それに、大きくなってるぞ」=“...Erhm, hey. Uhm, your thing is poking into me... it's getting bigger and bigger.”
 「ご、ごめん！　[H名]と触れ合ってたら、そういう気分になっちゃって……」=“S-Sorry! The way we're stuck together, it's put me in that sort of a mood...”
@@ -13,5 +18,3 @@
 （い、いや、何を言ってるんだ俺！　柔らかい感触なんてしないし、いい匂いもしないだろう！？）=(N-No, what am I even saying! She doesn't feel soft at all, nor does she smell good, does she!?)
 （いい匂いしないぞ、柔らかくないぞっ。当たってるのは……えっと、ただの壁！　匂いの元は芳香剤だ！）=(She doesn't smell amazing, she's not soft at all--. I'm just... up against the wall, nothing else! The scent's just the air freshner!)
 （ぅ、自分を誤魔化そうにも、限度があるな……限界がきて勃ってしまう前にこの混雑が解消してくれるよう……もう、祈るしかないっ）=(Uu, even if I try to pretend otherwise, it's gonna hit its limit eventually... nothing to do be done about it... I can only pray that the congestion gets better by the time my self-control evaporates)
-CHOICE:『欲望に身を任せる』=Give in to your desires.
-CHOICE:『鉄の自制心で堪える』=Bear it with an iron will.

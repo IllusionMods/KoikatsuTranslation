@@ -1,2 +1,5 @@
-﻿「はぁ～今日はマジ楽しかったね～」=Haan~, today was a blast~
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「はぁ～今日はマジ楽しかったね～」=Haan~, today was a blast~
 「これで終わりなんてやだからね？　絶対また誘ってよ？　それじゃ楽しみにしてるから」=We're not ending it with just this, okay? You definitely have to take me out again sometime, okay? I'm looking forward to it.

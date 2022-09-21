@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「っともうこんな時間だ……そろそろ出た方がいいかな？」=Oh, It's already this late... Should we go back now?
 「うん、そうしましょうか。かなり長居しちゃったから、最後に店員さんにお礼を言っていきましょ」=Yeah, let's do that. We've been here for quite a while, let's also thank the waitress before we go.
 「おぉ、そういう細かい気遣い、[H名]らしいね」=Oh, that kind of attention to detail, as expected of you, [H名].

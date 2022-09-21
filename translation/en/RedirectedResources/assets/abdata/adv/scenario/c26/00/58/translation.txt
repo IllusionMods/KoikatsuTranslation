@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「それじゃあ、そろそろ……って、どうかした？　そんなにじっと手を見て……」=“Well then, shall we... something wrong? You're staring at my hand...”
 「……手、つないでほしい」=“...I want you to, hold my hand.”
 「この紅茶、おいしいね」=“This tea sure is good, huh?”

@@ -1,4 +1,7 @@
-﻿「実はお弁当持って来たんだ～♪」=I actually packed lunch for us~♪
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「実はお弁当持って来たんだ～♪」=I actually packed lunch for us~♪
 「そろそろ、お昼だからそこのベンチに座って一緒に食べよ？」=It's almost lunch time, so how about we go set up shop on that bench and have it together?
 「ほんと！？　ありがたいなぁ！　実は朝からろくに食べて無かったんだ……」=Really!? Thanks! I actually haven't eaten much all day...
 「じゃあ、ちょうどよかったね♪　あっ、あそこのベンチで食べようよ」=Great that I brought this then♪ Ah--, let's eat it at that bench over there.

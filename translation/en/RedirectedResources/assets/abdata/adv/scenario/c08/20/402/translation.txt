@@ -1,4 +1,7 @@
-﻿「むむ～……頼んだやつ、なかなか来ないねぇ……」=Mumuh~... the stuff we ordered, sure doesn't seem to be coming out...
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「むむ～……頼んだやつ、なかなか来ないねぇ……」=Mumuh~... the stuff we ordered, sure doesn't seem to be coming out...
 「そんなに焦るなって。待ってたら来るから」=Don't be so impatient. It'll come if we wait.
 「待ちきれないよぉ……まだかな、まだかな～」=I'm tired of waiting... has it come yet, has it come yet~
 （むぅ……何か別のことで気を逸らすとしよう）=(Muu... let's distract her with something else)

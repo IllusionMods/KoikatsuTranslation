@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「ふわぁぁぁ……ちょっと眠たくなって来ちゃった」=“Fuwaaah... I'm getting a bit sleepy.”
 「あらあら、大きなあくび……。じゃあ、少し休憩しましょうか。うふふ、せっかくだし、膝枕でもしてあげましょっか？」=“My, what a big yawn... Then, let's take a little break, shall we? Ufufu, we're out on a date anyway, want me to give you a lap pillow?”
 「え？　あははは、膝枕かー……それはちょっと恥ずかしいな」=“Eh? Ahahaha, a lap pillow, huh... that'd be a bit embarrasing.”

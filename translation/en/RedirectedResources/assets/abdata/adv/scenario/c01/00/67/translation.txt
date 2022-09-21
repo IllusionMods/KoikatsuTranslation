@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「もうすぐ日が暮れるね」=“Soon the sun will go down, huh?”
 「はい。沈んでいく夕日がとてもロマンチックです」=“Yes. The setting sun is really quite romantic.”
 「あ、あの……キス……してもいいですか？」=“U-Uhm... could we... kiss?”

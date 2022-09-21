@@ -1,4 +1,7 @@
-﻿「おっ！　これ、今話題のやつじゃねえの？」=Oh--! Isn't this that 'in' thing?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「おっ！　これ、今話題のやつじゃねえの？」=Oh--! Isn't this that 'in' thing?
 「ん？　何のこと？」=Nn? What are you talking about?
 「ほら、店の中で流れてる曲の話だよ」=I'm talking about the song that's playing, in the store.
 「この曲、今流行りの映画の曲だろ？　ＣＭとかで聞かねえか？」=This song, it's from that really popular movie, no? Ain't heard it yet? In a TV ad or whatever?
@@ -14,4 +17,3 @@
 「うるせえ！　ああ～もう、この話はやめだ！　聞かなかったことにしてくれ！」=Shaddup! Aah~, jeez, no more of that! Pretend you never heard that!
 「ふふ……じゃあよかったら、今度一緒に見に行こうね」=Fufu... in that case, let's go watch it together one of these days, okay?
 「……まあ、考えといてやるよ」=...Well, I'll think about it.
-「うるせえ！　ああ～もう、この話はやめだ！　聞かなかったことにしてくれ！」=Shaddup! Aah~, jeez, no more of that! Pretend you never heard that!

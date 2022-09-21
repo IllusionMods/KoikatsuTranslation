@@ -1,4 +1,6 @@
-
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
 「今日はよろしくお願いします。あなたとなら素敵な一日をすごせると思っています」=“Please take care of me for today. With you there, I think I could have a lovely time for the whole day.”
 「俺もだよ。じゃあ……行こうか」=“Me too. Well then... let's go.”
 「ええと……手を取ってみても……す、すみません……！」=“Eerhm... could we hold ha... I-I'm sorry...!”

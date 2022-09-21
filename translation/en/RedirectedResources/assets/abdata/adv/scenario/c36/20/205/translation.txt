@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「んっ、観覧車の中って、こんなに小さかったかしら？」="Nn, was the inside of Ferris wheel's passenger cars always this cramped?"
 「[H名]さん、もしかして観覧車は久しぶり？」="Miss [H名], was it perhaps a long time since you've been on a Ferris wheel?"
 「日常的に観覧車に乗る人なんていないでしょ。小さい頃に数回乗っただけよ」="There are no people who ride this thing everyday, right?"

@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「やっぱり、大きな声を出すと気分がいいわ」=“Letting your voice free really does feel great.”
 「すっごく気分よく歌ってたよ。ちょっと音は外してたけど」=“You were really enjoying yourself there. Your voice kinda went off-tone there for a bit though.”
 「……あんたが音痴だから、あたしも安心して音を外せるのよ」=“...Thanks to you being tone-deaf, I can freely go off-tone too.”

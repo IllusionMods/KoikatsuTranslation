@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「おはようございます。本日はよろしくお願いします」=“Good morning. Please take care of me today.”
 「うん、こちらこそ！　今日は面白いところに連れていくからね」=“Yeah, me too! I'll take you somewhere fun today.”
 「面白いところですか。どちらでしょう？」=“Somewhere fun, you say? Where are we going?”

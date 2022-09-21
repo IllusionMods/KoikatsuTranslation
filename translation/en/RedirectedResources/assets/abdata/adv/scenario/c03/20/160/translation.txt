@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「[H名]、大丈夫？　落ち着いた？」=“[H], you okay? Feeling calmer now?”
 「は、はいです……あ、でも……もう少しだけ……休んでもいいですか？」=“Y-Yes... ah, but... do you mind if we... rest a bit?”
 「うん、もちろん。ごめんね、やっぱり疲れさせちゃったかな？」=“Yeah, of course. Sorry, I pushed you too far, didn't I?”

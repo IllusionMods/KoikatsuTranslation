@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「ラブコメ作品でカップルが観覧車に乗ると大体キスするけどさ」=“In romantic comedies, when couples get on ferris wheels, they usually just end up kissing, right?”
 「うん？　それが、どうかしたのかい？」=“Yeah? What about it?”
 「他にはどんなシチュエーションが人気なの？　ちょっと気になって」=“What about other stuff though? Is there any other sort of 'event' that's popular? I'm a bit curious.”

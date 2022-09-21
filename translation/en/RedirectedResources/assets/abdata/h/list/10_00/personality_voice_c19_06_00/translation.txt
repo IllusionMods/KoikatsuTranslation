@@ -1,4 +1,7 @@
-﻿気持ちいいかな？=Does it feel good?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+気持ちいいかな？=Does it feel good?
 もっとはやくするね=I'll do it faster, okay?
 ここ……いいの？=Does it... feel good here?
 じわじわと感じさせてあげるね=I'll make the pleasure spread through you.

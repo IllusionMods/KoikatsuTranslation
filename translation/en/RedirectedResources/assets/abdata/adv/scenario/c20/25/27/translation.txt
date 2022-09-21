@@ -1,1 +1,4 @@
-﻿「プレゼントですか？　……うふふ、なんでしょう？　楽しみです」=A present? ...Ufufu, I wonder what it is? I'm excited.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「プレゼントですか？　……うふふ、なんでしょう？　楽しみです」=A present? ...Ufufu, I wonder what it is? I'm excited.

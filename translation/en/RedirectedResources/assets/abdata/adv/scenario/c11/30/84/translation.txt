@@ -1,4 +1,6 @@
-
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
 「部室まで来てもらったけど、実は今日の活動内容、まだ決めてないんだ……」=“I actually haven't settled on what we're gonna do for today. And I made you come all the way here too...”
 「そうねぇ……コイカツでしょ？　それじゃあ、お姫様抱っこなんてどうかしら。女の子の憧れよ～」=“Right... it's love activities, no? Well then, how about a princess carry? Every girl dreams of it~”
 「いいね！　じゃ、早速やってみようか」=“That's perfect! Then, let's do it.”

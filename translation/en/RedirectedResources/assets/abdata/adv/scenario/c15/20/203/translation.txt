@@ -1,4 +1,9 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「あれっ？　いつの間にか夕日が……そろそろ帰らないとなー」=“Huh--? It's evening already?... We should start making our way back.”
+CHOICE:『最後に観覧車に乗ってかない？』=Wanna ride on the ferris wheel to close the day off?
+CHOICE:『暗くなる前に帰ろうか』=Let's head home before it gets dark.
 「その前に[H名]、最後に観覧車に乗っていかない？」=“Before we do that, wanna go for a round on the ferris wheel?”
 「おお、それ、いいなー。よし、それじゃあ急いで観覧車まで行くぞー」=“Ooh, that sounds nice. Alright, let's run to the ferris wheel then.”
 「そんなに急がなくても。それに多分、日が沈んでからの方が夜景が見えて綺麗だと思うよ」=“You don't need to rush so much. Not to mention, I think the view would probably way better once the sun sets completely.”
@@ -9,5 +14,3 @@
 「[H名]……」=“[H名]...”
 「また絶対、二人でこようね」=“Let's come here again, okay?”
 「うん！　絶対だからな！」=“Yeah! Definitely!”
-CHOICE:『最後に観覧車に乗ってかない？』=Wanna ride on the ferris wheel to close the day off?
-CHOICE:『暗くなる前に帰ろうか』=Let's head home before it gets dark.

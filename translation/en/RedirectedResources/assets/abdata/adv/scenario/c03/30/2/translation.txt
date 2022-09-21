@@ -1,4 +1,6 @@
-
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
 「ここのところ、なんだかあなたとお話するのがどんどん楽しくなってきてるです！」=Recently, it's gotten more and more fun to talk with you!
 「本当に？　だったら良かった。俺も楽しいよ。知り合えて良かった！」=Really? I was hoping it would. I've been having fun, too. I'm so glad I've gotten to know you.
 「えへへ、そう思ってもらえると私も嬉しいです！　男子とお話するのって本当に新鮮なのです！」=Ehehe, I'm super happy that you think that way, too! It's so refreshing to actually talk to a boy!

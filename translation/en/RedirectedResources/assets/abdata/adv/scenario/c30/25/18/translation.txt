@@ -1,1 +1,4 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「あら、おはよう。朝から会えるなんて奇遇ね」=Ara, Good Morning. Didn't expect to see you in the morning.

@@ -1,4 +1,6 @@
-
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 基本=Basic
 揺れ=Bouncing
 立ち０１=Pose 01
@@ -56,3 +58,14 @@
 男立ち３=Male Standing 3
 男立ち４=Male Standing 4
 男立ち５=Male Standing 5
+立ち３１=Basic 31
+立ち３２=Basic 32
+立ち３３=Basic 33
+立ち３４=Basic 34
+座り=Sitting
+寝=Laying
+立ち３５=Basic 35
+立ち３６=Basic 36
+立ち３７=Basic 37
+立ち３８=Basic 38
+立ち３９=Basic 39

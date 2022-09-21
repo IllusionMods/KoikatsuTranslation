@@ -1,4 +1,7 @@
-﻿「[P]くんが部長なんだよね？　まぁ、アタシも暇だし入ってもいいけど……」=You're the club president, right? Well, it's not like I have anything to do, so I don't mind joining...
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「[P]くんが部長なんだよね？　まぁ、アタシも暇だし入ってもいいけど……」=You're the club president, right? Well, it's not like I have anything to do, so I don't mind joining...
 「本当？　ならそうしてくれると嬉しいな」=For real? In that case, I'd love to have you join.
 「何もそんなにはしゃぐことないじゃん。今まで通り一緒にいるだけなんでしょ？」=It's nothing to get that excited over. It's just gonna be a whole lot more of what we've been doing till now, no?
 「まぁ……でもせっかく部活に入ってくるなら、今まで以上に仲良くなれるようなことをしたな、なんて」=Well... I was just thinking that if you were gonna join the club, we could do stuff that could bring us even closer together, and stuff. Just a thought.

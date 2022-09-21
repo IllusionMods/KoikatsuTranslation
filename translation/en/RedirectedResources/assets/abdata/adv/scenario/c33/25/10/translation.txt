@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「あら、私でいいの？　あそこにいる子の方が可愛いわよ」=Oh my, are you fine with me? That girl over there's way cuter, you know?
 「今は他の子じゃなくて、[H名]さんに入ってもらいたいんだ」=For now, rather than other girls, I'd like for you to join, [H名]-san.
 「そうね……あ、嫌ってわけじゃないの。ただ、私みたいなのが恋愛活動って似合わなくない？」=I see... Ah, not to say that I don't want to, but, don't you think those sorts of love activities don't really fit me?

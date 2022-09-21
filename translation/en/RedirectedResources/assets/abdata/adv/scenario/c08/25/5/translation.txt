@@ -1,3 +1,6 @@
-﻿「いいよぉ。私、駆けっこがしたいな」=Sure. I wanna try racing.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「いいよぉ。私、駆けっこがしたいな」=Sure. I wanna try racing.
 「駆けっこなら、絶対俺が勝っちゃうよ？」=You sure? I'll definitely end up winning, you know?
 「ん～……男の人に勝てる運動って、なにか他にないかなぁ」=Nn~... are there really no sports, where I could beat a boy?

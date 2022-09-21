@@ -1,0 +1,14 @@
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「あ、ちょっといいかな？」=Ah, do you have a moment?
+「何か御用でしょうか？」=Do you need something?
+「君と話がしたくてさ。俺は―――」=I wanted to talk with you a bit. I am---
+「[P姓]さん、この場で唯一の男性と認識されています」=[P姓]-san, the only man in this place.
+「あ、うん、そうなんだけど……男の俺とでも仲良くしてくれるかな？」=Ah, yeah, that's about right... Will you get along with a man such as me?
+「異性の仲、つまり恋仲になれと言う事ですね、わかりました」=Getting along with a member of the opposite sex, so you're asking me to be in a relationship with you, yes? Understood.
+「ちょ、それは飛躍しすぎ、あと躊躇もしようよ！？」=Wai--, isn't that quite the leap in logic, also, absolutely no hesitation!?
+「……？　異性間の仲とはそういうものでは？」=......? Isn't that what getting along with a member of the opposite sex means?
+「いやまぁ最終的にそういった関係になれたらいいとは思うけど、普通まずは友達から、とかだよね？」=No, well, I do think it would be nice if we could grow to have that sort of relationship eventually but, normally people start as friends first, no?
+「友達からですね、わかりました。具体的にはどういった事を……」=As friends, you say, understood. Specifically, just what sort of thing...
+（しっかりしてそうだけどいろいろ不安になる子だな……さて……）=(She seems like a she has a good head on her shoulders, but for some reason I feel really worried about her... Well then...)

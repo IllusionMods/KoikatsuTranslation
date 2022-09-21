@@ -1,0 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「は？　私も軽く見られたものね……」="Huh? So you're taking me lightly I see..."
+「えっと、そういうつもりじゃ……」="Err, that not what I was trying t-..."
+「じゃあ、どういうつもりだったのかしら？　少し興味が湧いたわ、特別に付いていってあげる」="Then what were you trying I wonder? It might be interesting, so I'll go along for now."

@@ -1,5 +1,9 @@
-
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+OPTION[0]:はい=Yes.
 はい=Yes.
+OPTION[0]:いいえ=No.
 いいえ=No.
 OPTION[1]:思わない=Not at all.
 思わない=Not at all.
@@ -96,6 +100,12 @@ OPTION[108]:一緒にしようかな=Let's do it together.
 一緒にしようかな=Let's do it together.
 OPTION[108]:うーん……=Mmm...
 うーん……=Mmm...
+OPTION[109]:はい=Yes.
+OPTION[109]:いいえ=No.
+OPTION[200]:はい=Yes.
+OPTION[200]:いいえ=No.
+OPTION[201]:はい=Yes.
+OPTION[201]:いいえ=No.
 OPTION[202]:ヤろう=Let's do it.
 ヤろう=Let's do it.
 OPTION[202]:……=...
@@ -105,6 +115,8 @@ OPTION[203]:ごめん=Sorry.
 OPTION[204]:できてるよ=I'm ready.
 できてるよ=I'm ready.
 OPTION[204]:うーん……=Mmm...
+OPTION[205]:はい=Yes.
+OPTION[205]:いいえ=No.
 OPTION[206]:いいよ=Sure.
 OPTION[206]:ごめん=Sorry.
 OPTION[207]:助かるよ=That'd be a big help.

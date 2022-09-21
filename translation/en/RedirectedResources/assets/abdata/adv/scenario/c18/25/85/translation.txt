@@ -1,4 +1,7 @@
-﻿「今日はどうしましょうか？」=What shall we do today?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「今日はどうしましょうか？」=What shall we do today?
 「そうだなあ。今日は腕を組んでみない？」=Good question. Wanna try linking arms today?
 「恋人たちの不思議な行動の一つですね。動きにくそうなのに」=One of the strangest things a couple can do, isn't it? It looks so hard to walk around like that.
 「試しにやってみれば、どうしてそうするのか分かるかも？」=If we try it ourselves, maybe we'll be able to figure out just why it's so common, no?

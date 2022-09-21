@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「うっわぁ～、すごい！　ねぇ見て！　凄い綺麗よ！　本当に綺麗……」=Uuwaah~ amazing! Hey, look! It's so pretty! Really, really pretty...
 「うんっ、綺麗だね！　夜景も、夜景を見てはしゃいでる[H名]も……」=Mmm, it really is! Both the night sky, and the girl beside me...
 「えっ……もう、なぁにそれ、ベタベタ過ぎて、ちょっと反応に困っちゃうわ」=Eh... Geez, what's with that? That's so cliched, I don't know what to say.

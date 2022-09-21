@@ -1,4 +1,7 @@
-﻿「……あ、あのっ……！」=...U-Uhm--...!
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「……あ、あのっ……！」=...U-Uhm--...!
 「えっ、どうしたの[H姓]さん？」=Eh--, what's the matter, [H姓]-san?
 「その……あなたは、本に興味があったりする？」=It's... are you, at all interested in books?
 「もしよかったら、今度あなたが興味のありそうな本を紹介しようかなって……」=I was thinking of maybe recommending you some books that you might find interesting, only if you're alright with it though...

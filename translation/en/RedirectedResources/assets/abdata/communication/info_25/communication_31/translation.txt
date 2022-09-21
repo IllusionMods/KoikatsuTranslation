@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「何を考えている！　ここは女子用だ！」=What are you thinking!? This is the woman's toilet!
 「おまえというやつはっ！」=Guys like you are--!
 「今は時間がない。それくらい察しろ」=I don't have time right now. Guess that much, atleast.

@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 ………………=.........
 …………=......
 ……=...
@@ -6,6 +9,9 @@
 「えっ、あ、えっと……」=Eh--, Ah, Erhm...
 「選択肢は……そうね、あなたの家に連れてってもらうか……フフッ、それとも、二人でホテル街に消えちゃう？」=The options are... Let's see, either I have you take me to your place... Fufu--, or, shall we disappear for a bit near the love-hotel district?
 （……すごく積極的だ。それだけ今日のデートを楽しんでくれたってことだよな……どうしよう）=(...She's being real assertive. She must have enjoyed today's date a whole lot... What should I do?)
+CHOICE:『自宅に誘う』=『Invite to your place』
+CHOICE:『ラブホに誘う』=『Invite to love-hotel』
+CHOICE:『さよならする』=『Say goodbye』
 「じゃあ……俺の家に来てもらってもいいってこと？」=Then... does that mean you're fine with coming to my place?
 「ええ、もちろん。ここで断ったら、今日あなたとデートしたかった子たちから嫌われちゃうわ。楽しい夜にしましょ♡」=Yes, of course. If I said no here, I'll get hate mail from every girl who also wanted to go on a date with you today. Let's have some fun tonight, shall we?
 「じゃあ、ホテル街に消えちゃおうかな……」=Then, maybe we should spirit away in the love-hotel district...
@@ -21,7 +27,3 @@
 「[H名]さんをヤキモキさせたくて」=I wanted to make you anxious, [H名]-san.
 「あら、意外とイジワルなのね。いいわ、あなたのお望みどおり、とってもヤキモキして帰っちゃう。その代わり、次のデートは大変なことになっちゃうから」=Oh, you sure are quite the bully today. Alright then, just as you want, I'll go home while being super anxious. In turn though, I'll give you one hell of a hard time on our next date, alright?
 「うん、楽しみにしてる。またね、[H名]さん」=Yeah, I look forward to it. See ya later, [H名]-san.
-
-CHOICE:『自宅に誘う』=『Invite to your place』
-CHOICE:『ラブホに誘う』=『Invite to love-hotel』
-CHOICE:『さよならする』=『Say goodbye』

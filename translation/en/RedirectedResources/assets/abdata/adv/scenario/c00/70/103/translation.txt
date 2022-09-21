@@ -1,0 +1,18 @@
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「あ、もうこんな時間なんだね」=Ah, it's already this late, huh.
+「あぁん、もう、時間のことは言わないでよぉ……。せっかく気づかないふりしてたのにぃ……」=Aahn, jeez, don't mention the time... I was pretending not to have noticed and everything...
+「ははは、そんなこと言われたら、参っちゃうなぁ……」=Hahaha, you've got me there...
+CHOICE:『まだ時間ある？』=『You still got some time?』
+CHOICE:『俺も楽しかった』=『I had fun too.』
+「うーん、やっぱりこのままお別れは寂しいな……ねえ、ちょっとだけ時間があったりする？」=Mmm, it really does feel lonely to just part like this... hey, can you make just a bit more time?
+「何？　なになに？　うふふ、もっちろん、大丈夫よ～」=What? What is it? Ufufu, of course, I'm good on time~
+「そう、それはよかった！　実は一緒に行きたいところがあるんだ。ついて来てくれる？」=I see, that's great! There's actually a place I wanted to show you. Will you come with me?
+「いいわよ。ふふふ、どこに連れてってくれるのかしら……ムラムラするわ……」=Alright. Fufufu, just where are you going to take me... I'm getting horny...
+「……そこ、普通、ドキドキじゃない？　まあ、いいや……じゃあ行こう！」=...Aren't you just excited? Well, whatever... let's go!
+「まあ、でもあんまり遅くなると明日に差し障るしね。でも、もうちょっとだけ……一緒にいさせてもらって構わないかな？」=Well, if we stay out too late, we'll have trouble tomorrow. But, do you mind if we... stay together, just a bit longer?
+「ええ、もちろんよ。駅まで、少し歩きましょ。お別れのハグはここでする？　それともお別れ間際がいい？」=I don't mind, not at all. Let's walk towards the station. Wanna give me a parting hug here? Or would you like to do it right before we actually part?
+「うーん、悩むところだなぁ……」=Mmmm, that's a hard decision...
+「うふふ♪　そういう時は、『どっちも！』って答えればいいのよ」=Ufufu♪ At times like these, all you need to do is shout "Both!".
+「なるほど、そうだったかぁ……まあいいや、それじゃあ駅に向かおうか」=I see, so that was it... well, whatever, let's go to the station.

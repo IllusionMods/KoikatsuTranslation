@@ -1,4 +1,7 @@
-﻿「さて、今回はどんなデートプランを立ててくれたのかしら？　ふふっ」=Now then, what sort of date plan did you come up with for today? Fufu--
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「さて、今回はどんなデートプランを立ててくれたのかしら？　ふふっ」=Now then, what sort of date plan did you come up with for today? Fufu--
 「そ、そんなにハードル上げないでよ……ただでさえまだ緊張するんだから」=D-Don't go setting up such high expectations... I'm nervous as it is.
 「ふふっ……じゃあ、今日もエスコートお願いね？」=Fufu--... take care of me today too, okay?
 「何か行きたい所はある？　デートプランがなくもないけど[H]の意見をまだ聞いてないから……」=Is there any place you'd like to go? It's not like I don't have anything planned for today at all but, I still haven't asked what you'd like to do yet...
@@ -7,9 +10,9 @@
 「じゃあ……この映画でいいかな？」=Then... is this one fine?
 「ええ。とても面白そう……早速行きましょうか」=Yes. Looks really interesting... let's go.
 「あなたの色んな表情が見れて楽しかったわ、それじゃ……」=It was a lot of fun, to see all those expressions on your face. Well then...
+CHOICE:「……今日はずっと一緒にいたいな」=...I wanna stay together the whole day.
+CHOICE:「うん、またね……」=Yeah, see ya...
 「……今日はずっと一緒にいたいな」=...I wanna stay together the whole day.
 「……もう、甘えん坊さん。……でも、私も同じ気持ちよ。……お家、お邪魔してもいい？」=...What a spoilt child you are. ...But, I feel the same way. ...mind if I intrude at your place?
 「うん、またね……」=Yeah, see ya...
 「ええ、おやすみなさい……よい夢を」=Yes, goodnight... sweet dreams.
-CHOICE:「……今日はずっと一緒にいたいな」=...I wanna stay together the whole day.
-CHOICE:「うん、またね……」=Yeah, see ya...

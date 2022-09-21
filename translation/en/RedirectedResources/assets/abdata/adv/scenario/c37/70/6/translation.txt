@@ -1,0 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「？　どちらへ行くんですか？」=? Where are we going?
+「まだ内緒かな」=That's still secret.
+「そうですか」=Is that so?

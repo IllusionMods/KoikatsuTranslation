@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「なーなー、チューしてくれよー」=“Hey, listen, kiss me.”
 「俺もそうしたいと思ってた」=“I was just thinking of doing that.”
 「んっ……。へへー、あたしのことだけ見ててなー？」=“Nn--... Hehe, only ever look at me, okay?”

@@ -1,4 +1,6 @@
-
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
 「へえ、色々あるんだね」="It seems like there's a lot going on here.
 「私は……バナナクレープが食べたい」="I'm hungry for... a banana crêpe.
 「うん、いいよ」="Yeah, OK."

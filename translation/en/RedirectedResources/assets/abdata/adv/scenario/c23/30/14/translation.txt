@@ -1,3 +1,5 @@
-
-//「あ……起きた？　おはよう。えへ、へ」=
-//「あの、き、昨日は、楽しかったね」=
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「あ……起きた？　おはよう。えへ、へ」=“Ah... you up? Morning. Ehe, he.”
+//「あの、き、昨日は、楽しかったね///」=

@@ -1,1 +1,4 @@
-﻿「いー刺激だったじゃねえか……十分アリだったぜ……♪」=That was pretty stimulating... yep, it was great...♪
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「いー刺激だったじゃねえか……十分アリだったぜ……♪」=That was pretty stimulating... yep, it was great...♪

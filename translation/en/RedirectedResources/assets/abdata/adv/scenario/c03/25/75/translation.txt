@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「頂きなのですっ！」=“I'll be taking that--!”
 「あっ、やられたっ！」=“Ah--, you got me--!”
 「えへへっ、今のフェイントは分かりやすかったですよ。それじゃ次は私が攻めるです！」=“Ehehe--, that feint was really easy to see through, you know? Well then, it's my turn to press the attack!”

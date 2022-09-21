@@ -1,4 +1,6 @@
-
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
 //「へえ、色々あるんだね」=
 //「今はこういう物が流行っておるのか。この店に入ってもよいか？」=
 //「うん、いいよ」=

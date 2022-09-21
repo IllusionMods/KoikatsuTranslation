@@ -1,1 +1,4 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「……これで終わり？　足りないよぉ……」=“...Is that it? It's not enough~...”

@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「あの……実はお願いがあるのですが、良いですか？」=“Uhm... I've actually got a request, could I?”
 「お願い？　うん、いいよ、なに？」=“A request? Sure, shoot, what is it?”
 「はいー、私、あなたのことを愛称で呼んでみたいのですよ。それだけで新鮮な気分になれる気がするです」=“Alright, I want to try calling you by a nickname. I feel like that alone would be enough to bring some freshness to our relationship.”

@@ -1,0 +1,23 @@
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「そういえば漫画とかでハンバーグが出てくるイメージがないな」=“Come to think of it, a hamburg steak like this doesn't really feel like it'd ever show up in any manga, does it?”
+「うーん、別にそんなことはない気が」=“Nnnn, I don't think that's true.”
+「そう？　俺の勘違いかな」=“Really? Maybe I've just got the wrong idea then.”
+「まあ、個人のイメージは読んだ事のある作品によりますからな」=“Well, I mean, it really depends upon the manga you read, you know?”
+「確かにそうだね。あ、冷めるといけないから先に食べていいよ」=“For sure. Ah, it'd be a shame to let it go cold so feel free to dig in first.”
+「なら遠慮なく、お先に食べさせてもらうよ」=“I'll do just that then, thanks.”
+「いただきます。ふぅー……ふぅー……」=“I'm digging in. *blow*... *blow*...”
+「あむ……むっ！　肉汁が詰まったこの味……！　見事なり……！」=“*Bite*... muh--! This juicy flavour...! Truly superb...!”
+「美味しそうだね。一口、貰っていい？」=“Looks delicious. Could I have a bite too?”
+「いいですぞ。ふぅー……ふぅー……」=“Sure. *Blow*... *blow*...”
+「はい、あーん……」=“Here, aaahn...”
+「あーん……」=“Aahn...”
+「あむ、うむっ……」=“*Bite*, *chew*...”
+「……どうかな？　ワタシの息がかかったハンバーグの味は？」=“...How is it? A piece of this steak, with my breath on it as the sauce?”
+「んぐ！？　げほげほ……食べてる最中にそんなこと言わないでくれ」=“Nnguh!? *cough cough*... Don't say that stuff while I'm still eating, please.”
+「へへ、へ……漫画みたいなリアクション、ご馳走様ですぞぉ」=“Heheh, heh... what a manga-like reaction, truly, thanks for the meal~”
+「くそ……」=“Damn, I got played...”
+「で、味はどうだった？」=“How was it then?”
+「……美味しかったよ」=“...It was delicious.”
+「なら、よかったんだなぁ」=“I'm glad to hear that~”

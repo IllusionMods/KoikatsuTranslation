@@ -1,4 +1,6 @@
-
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
 「そうですね。以前から興味深い部活だと思っていましたので、これを機に入部してみます」=“Indeed. I've always thought of it as quite the interesting club so, I'll take this chance and join it.”
 「ホント？　よしっ！」=“Really? Alright--!”
 「ふふふっ。ガッツポーズまでして、随分嬉しそうですね」=“Fufufu--. You sure seem happy, even cheering like that.”

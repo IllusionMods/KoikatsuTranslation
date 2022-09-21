@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「噴水があるね」=“There's a fountain, huh?”
 「えぇ、見てるとおちつくなぁ。それに重要なモニュメントでもあるし」=“Yes, looking at them really calms me down. Not to mention, they're very important landmarks.”
 「えっ、重要って？」=“Eh--, important?”

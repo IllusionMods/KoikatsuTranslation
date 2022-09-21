@@ -1,4 +1,6 @@
-
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 両目閉じ=Closed
 笑顔=Smiling
 笑顔　両目閉じ=Happy, Closed

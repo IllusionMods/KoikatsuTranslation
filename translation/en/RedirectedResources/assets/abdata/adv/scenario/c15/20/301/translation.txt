@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「ここのカラオケボックスがいいって話を聞いたんだ」=“I've heard that this Karaoke place is really nice.”
 「おぉ、中々良さそうなお店だー」=“Ooh, looks like a pretty nice shop.”
 「なんか物珍しそうにしてるね」=“You seem pretty curious about the place.”

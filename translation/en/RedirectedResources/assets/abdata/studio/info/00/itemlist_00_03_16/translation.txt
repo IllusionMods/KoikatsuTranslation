@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 バスケットゴール=Basketball Backboard
 平均台=Balance Beam
 ボール入れ=Ball Container

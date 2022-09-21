@@ -1,4 +1,7 @@
-﻿「私、観覧車は……昔から、好きなんです」=I've always... loved ferris wheels.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「私、観覧車は……昔から、好きなんです」=I've always... loved ferris wheels.
 「ゆっくり景色が見れて……急かさないですし……何と言うか自分のペースに、合うんです」=You can see so much from here... it doesn't rush from start to finish either... how do I say this, it matches my pace, in a way.
 「確かに[H名]は観覧車が似合うかも。ゆったり安心できるところとかなんか似てるよ」=For sure, you and the ferris wheel might be a perfect fit. A comfortable, relaxing place like this really suits you.
 「そ、そうですか？　ゆったり、安心……」=Y-You think so? Comfortable, relaxing...

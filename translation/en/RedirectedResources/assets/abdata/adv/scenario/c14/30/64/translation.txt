@@ -1,2 +1,5 @@
-﻿「お邪魔しますよ……っと！」=I'm coming in... woah!
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「お邪魔しますよ……っと！」=I'm coming in... woah!
 「えっ！　いやっ！　もう！　いきなりかよ！　好きだなお前も……」=Eh--! Wait--! Jeez! Going straight to bed, are we! You sure do love doing it...

@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「あのね、私、色々考えて……二人の距離を縮めるために、たまには愛称で呼ぶのもいいなって思ったの」=You know, I've been thinking a lot and... I feel that for us to become closer, we should calling each other by nicknames every once in a while.
 「愛称？　例えばどんな」=Nicknames? For example?
 「そうね。例えば……『ねぇ、[Pあだ名]♪』とか？」=Well, for example, something like "Hey, [Pあだ名] ♪"

@@ -1,3 +1,6 @@
-﻿「君とデートできるなんて、嬉しいわ～♪　早速プランを練らなくっちゃ」=Being able to go on a date with you makes me super happy~♪ We gotta hammer out a plan and stuff, pronto.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「君とデートできるなんて、嬉しいわ～♪　早速プランを練らなくっちゃ」=Being able to go on a date with you makes me super happy~♪ We gotta hammer out a plan and stuff, pronto.
 「プランはこっちで考えておくよ」=I'll come up with a plan, don't worry.
 「頼もしいわね。それじゃあ、最初はお任せしようかな」=So dependable~. Well then. I'll leave our first date to you.

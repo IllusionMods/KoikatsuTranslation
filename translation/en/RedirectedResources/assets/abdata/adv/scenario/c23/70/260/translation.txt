@@ -1,0 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「ま、まさか彼氏から痴漢されるとは……」=“T-To think my own boyfriend would molest me...”
+「ごめんね。今度は許可を取ってからするよ」=“I'm sorry. Next time I'll make sure to ask for permission first.”
+「そういう問題ではありませんぞぉ……！」=“That's not the problem here...!”

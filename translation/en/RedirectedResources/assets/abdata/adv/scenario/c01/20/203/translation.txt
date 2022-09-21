@@ -1,5 +1,10 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「はぁ……たくさん遊びましたね」=“Haah... we ran around a whole lot, didn't we?”
 「さすがに疲れちゃったね」=“Starting to get pretty exhausted, huh?”
+CHOICE:『観覧車に誘う』=Invite to a ferris wheel ride.
+CHOICE:『早めに帰る』=Go home early.
 「そうだ、観覧車で休まない？」=“Right, wanna take a break on the ferris wheel?”
 「いいですね。ゆっくりとした時間を過ごしましょう」=“That sounds nice. Let's spend some nice relaxing time.”
 「あ、見て、けっこう空いてるよ」=“Ah, look, the queue's pretty short.”
@@ -10,6 +15,3 @@
 「あら、それはいけませんね。でも……課題が残っているのに私と遊んでくれてありがとうございました」=“Oh, we can't have that. But... you came out on a date with me, even when you have assignments. Thank you very much.”
 「息抜きも必要だからね……って、俺が言うことじゃないか、あはは」=“Well, it's important to take breaks, afterall... guess I'm not in a position to preach that, ahaha.”
 （楽しかったなぁ。また[H名]と遊園地に来よう）=(Man, it was fun~. Let's come here again, with [H].)
-
-CHOICE:『観覧車に誘う』=Invite to a ferris wheel ride.
-CHOICE:『早めに帰る』=Go home early.

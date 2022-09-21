@@ -1,4 +1,7 @@
-﻿「夜景も堪能したし、今日はそろそろ帰ろうか」=We enjoyed the view and everything, we should head home for today.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「夜景も堪能したし、今日はそろそろ帰ろうか」=We enjoyed the view and everything, we should head home for today.
 「そうだね。えへへ、観覧車の中でのこと……思い出すとちょっと恥ずかしい……」=Right. Ehehe, thinking back to the stuff we did in there... it's a little bit embarrassing...
 「分かる……二人きりだから言えたこと……だもんね」=I feel you... we said that stuff only because we were alone together... afterall.
 「うん……何だか夢みたいな時間だったよ……観覧車って素敵だね」=Yeah... it was almost a dreamy time... ferris wheels are just wonderful, aren't they?

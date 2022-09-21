@@ -1,0 +1,19 @@
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「おっ！　これ、今話題のやつじゃねえの？」=Oh--! Isn't this that 'in' thing?
+「ん？　何のこと？」=Nn? What are you talking about?
+「ほら、店の中で流れてる曲の話だよ」=I'm talking about the song that's playing, in the store.
+「この曲、今流行りの映画の曲だろ？　ＣＭとかで聞かねえか？」=This song, it's from that really popular movie, no? Ain't heard it yet? In a TV ad or whatever?
+「う～ん、知らないなあ。なんて映画？」=Mmm, can't say I have. What movie?
+「あれだよ。子ども向け映画の……」=That one. The one aimed at kids...
+「ああ、あの映画か」=Aah, that movie, huh?
+「でも、タイトルは聞いたことあるけど、さすがに主題歌までは知らなかったなぁ」=I've heard the name before but, can't say I knew the song at all.
+「そうなのか？　結構泣ける映画だから、お前も一度見ておいたほうがいいぜ！」=That so? It's quite the emotional movie so, you should try watching it yourself, one of these days!
+「え……でも、子ども向けの映画なんでしょ？　見る気になれないな……なもしかして[H名]、見に行ったの？」=Eh... but, it's a kids' movie, no? Can't really bring myself to watch one of those... did you actually go watch it in a theatre, [H名]?
+「み、見てちゃわりぃのかよぉ！」=W-What's wrong with that?!
+「知り合いに勧められて……別に、見に行きたくて行ったわけじゃねーから！」=A friend recommended it to me... it's not, it's not like I went to watch it on my own!
+「その割には、かなり褒めてたよね」=Considering that, you were sure singing its praises.
+「うるせえ！　ああ～もう、この話はやめだ！　聞かなかったことにしてくれ！」=Shaddup! Aah~, jeez, no more of that! Pretend you never heard that!
+「ふふ……じゃあよかったら、今度一緒に見に行こうね」=Fufu... in that case, let's go watch it together one of these days, okay?
+「……まあ、考えといてやるよ」=...Well, I'll think about it.

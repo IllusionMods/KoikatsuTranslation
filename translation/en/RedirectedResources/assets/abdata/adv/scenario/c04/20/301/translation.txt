@@ -1,4 +1,7 @@
-﻿「カラオケに来るのは久しぶりだわ」=It's been a while since I've come out to karaoke.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「カラオケに来るのは久しぶりだわ」=It's been a while since I've come out to karaoke.
 「そうなの？」=That so?
 「友達に誘われたら行くけど、自分からは誘わないもの」=I go when my friends invite me, but I never really plan it myself.
 「なるほどね」=Makes sense.

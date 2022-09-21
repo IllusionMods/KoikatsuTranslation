@@ -1,2 +1,5 @@
-﻿「おはようございます。シャワーをお借りしました」=Good morning. I borrowed your shower.
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「おはようございます。シャワーをお借りしました」=Good morning. I borrowed your shower.
 「あはは、そんなに見つめなくても、あなたにならいつでもお見せしますよ♪」=Ahaha, you don't have to stare so much, I'll let you have a look anytime you want♪

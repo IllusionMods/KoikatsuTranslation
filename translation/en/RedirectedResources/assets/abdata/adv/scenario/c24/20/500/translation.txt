@@ -1,10 +1,16 @@
-﻿………………=.........
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+………………=.........
 …………=......
 ……=...
 「あ♡　ここで大丈夫ですよ♡　お見送りまでしてもらっちゃって……今日は本当に、本当に本当にありがとうございました♡　私、すごく幸せです♡」=Ah♡ I'll be fine from here♡ You even saw me off and everything... Thank you so, so, so very much♡ I feel extremely happy♡
 「うん、俺もだよ。またデートしようね」=Yeah, me too. Let's go on another date soon.
 「はい♡　……あっ、あの……もし迷惑じゃなかったら、あなたの家にお邪魔しちゃだめですか？　このままバイバイは寂しいです♡」=Yes♡ ...Ah--, uhm... if I'm not being a bother, could I come intrude at your place? I hate saying bye-bye like this♡
 「[H名]……」=[H名]......
+CHOICE:『自宅に誘う』=『Invite her to your place』
+CHOICE:『ラブホに誘う』=『Invite her to a love hotel』
+CHOICE:『さよならする』=『Say goodbye』
 「俺もそう思ってた。うちにおいでよ」=I was just thinking the same thing. Come to my place.
 「っ♡　実はお泊りセットを持ってきてたんです♡　外泊も親に承諾とってます♡」=--♡ I actually brought everything I need to stay the night♡ I even got permission from my parents for it♡
 「はは、ずいぶん準備がいいね。連絡を取る必要もないなら、さっそく行こうか」=Haha, someone's well prepared. Well then, if you don't need to call them, then let's get going.
@@ -18,7 +24,3 @@
 「いいよ」=Alright.
 なでなで=*pat pat*
 「うふふ♡　今日はあなたの指紋で我慢します♡　改めて、今日はありがとうございました♡　また、学園で頭を撫でてくださいね♡」=Ufufu♡ I'll make do for today with just your fingers♡ Thank you so much for everything today♡ Please pat my head again at school tomorrow♡
-
-CHOICE:『自宅に誘う』=『Invite her to your place』
-CHOICE:『ラブホに誘う』=『Invite her to a love hotel』
-CHOICE:『さよならする』=『Say goodbye』

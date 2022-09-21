@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「むぅ、先ほどから我ばかり歌っていないか？　汝も歌うが良い」=“Muh, has it not been solely me running this show for a while now? Thou ought to sing some as well.”
 「気にしないでいいよ？　[H名]が歌ってるのを聞くのも楽しいし」=“You don't need to mind me, you know? Just listening to you sing is more than enough for me.”
 「そんなわけなかろう。こんなに楽しいのに歌わないなどおかしい」=“We cannot have that. Singing is so much fun, yet thou art avoiding it, it is strange.”

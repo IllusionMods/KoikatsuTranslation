@@ -1,1 +1,4 @@
-﻿「うわっ！？　何でお前、い、いつから……！？」=Uwah--?! Why are you, s-since when...!?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「うわっ！？　何でお前、い、いつから……！？」=Uwah--?! Why are you, s-since when...!?

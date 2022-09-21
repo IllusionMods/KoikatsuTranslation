@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「はい、いっちに、さんしっ……って、結構体固いんだね」=“Alright, one, two, three--... your body's pretty stiff, huh?”
 「いだだっ、そうだよ……知ってるだろぉー」=“Owww---, it is... but you already knew that, no~?”
 「あー、うん……まぁ……そうだったね」=“Ah, yeah... well... yeah.”

@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「えへへ……大好きなのです……ぎゅうぅっ……」=“Eheheh... I love you... *squeeze*...”
 「[H]ってば、そんなに抱き付かれたら動けないよ？」=“[H[, if you hug me so hard, I won't be able to move, you know?”
 「でも……恋人同士ですし……恋人らしいことをするのがコイカツ部ですし……」=“But... we're a couple... and doing lovey dovey things is the point of this club...”

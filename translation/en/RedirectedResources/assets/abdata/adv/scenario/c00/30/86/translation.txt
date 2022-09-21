@@ -1,4 +1,7 @@
-﻿「部室にふたりきりよ……君の好きなことしていいわ……」=It's just us here... You can do whatever you like...
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「部室にふたりきりよ……君の好きなことしていいわ……」=It's just us here... You can do whatever you like...
 「部活だよね？　それじゃあ…………手を繋ぐ、とか」=You mean club activities, right? Well then... Let's hold hands, and stuff.
 「ええ～、それだけ？　……いいわよ。それじゃ、指を絡めて……これが恋人繋ぎね」=Eeh~, that's all you got? ...Alright. If we're gonna do it, let's interlock our fingers... now this, this is the sort of thing couples do.
 「わ、指が絡んで……手がすごく気持ちいい……ってこれ、ホントに手を繋いでるだけ？」=M-Man, wrapping our fingers together... feels amazing... --Are we really just going to hold hands though?

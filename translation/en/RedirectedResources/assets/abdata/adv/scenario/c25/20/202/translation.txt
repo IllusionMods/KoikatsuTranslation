@@ -1,4 +1,7 @@
-﻿「まずは、どの乗り物で遊ぼうか？」=Which ride should we go with first?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「まずは、どの乗り物で遊ぼうか？」=Which ride should we go with first?
 「ごめ～ん、その前にお腹空いちゃった～……」=Sorry~, before that, I'm really hungry~...
 「あれ？　朝食は食べて来なかったの？」=Huh? Did you not get breakfast?
 「うん。お化粧とか、着ていく洋服選びに時間を取られて～……」=Yeah. I kinda ended up spending a lot of time putting on makeup and picking my clothes so~...

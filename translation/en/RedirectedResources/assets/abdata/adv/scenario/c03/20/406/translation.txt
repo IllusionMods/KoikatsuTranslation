@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「あ、いつの間にかこんな時間……完全に長居しちゃったね」=“Ah, it's already gotten so late... we've overstayed completely, haven't we?”
 「おお、そうですね。回転の悪いお客になってしまったですよ」=“Ooh, you're right. We've ruined their turnout for the day by hogging this table.”
 「あはは、どうしよう？　お店に迷惑かけないように、追加で何か頼む？」=“Ahahah, what do you wanna do? Wanna order something extra, to make up for it?”

@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「ちょっと、恥ずかしかった……」=“That was, a bit embarrassing...”
 「その割には、結構大きな声も出してなかった？」=“You say that but, weren't you moaning quite loudly there?”
 「“かれら”が、わたしの口を乗っ取ったの……」=“They, hijacked my mouth...”

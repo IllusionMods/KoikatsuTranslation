@@ -1,4 +1,7 @@
-﻿「う～ん……なるほどなぁ……」=Mmm... I see...
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「う～ん……なるほどなぁ……」=Mmm... I see...
 「メニューを見つめてどうかしたの？　さっき注文したばかりだよね？」=What're you staring holes through the menu for? You just placed an order, no?
 「ああ、いや。メニューの隣にいくつか簡単な作り方が書いてあったんだ」=Aah, no. It's just that all the dishes have an 'easy to follow' recipe next to them.
 「へえ。見た感じ、けっこうお手軽そうだね」=Hoh. From the looks of it, they really do seem to be pretty straightforward.

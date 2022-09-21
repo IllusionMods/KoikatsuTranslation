@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 （よし、待ち合わせ時間の５分前に到着っと。[H名]はまだ来て……って、こっちに走ってきてるぞ）=(Alright, got here 5 minutes before our set time. She doesn't seem to have... wha, she's dashing over here.)
 「ごめんっ！　私、遅れちゃった！？」=“Sorry--! Am I late!?”
 「大丈夫。まだ待ち合わせ時間にはなってないよ」=“It's alright. It's still not the time we said we'd meet up by.”

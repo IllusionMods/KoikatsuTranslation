@@ -1,4 +1,6 @@
-
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
 「あぁ、校内で噂になってる部活のことね。このわたしに入って欲しいの？」=“Aah, you mean that club that's got the whole school talking. You want me to join it?”
 「うん、きみと一緒に部活やりたくて……イヤなら別に構わないけど」=“Yeah, I want to do the club activities with you... if you don't want to though, that's fine too.”
 「だ、誰が『イヤ』なんて言ったのよ！　入るに決まってるでしょ！」=“W-Who said I don't want to! Of course I'll join!”

@@ -1,4 +1,7 @@
-﻿「今、誰もいないわね……よし！　はい、どうぞ」=There's no one here right now, huh... Alright! Okay, come here.
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「今、誰もいないわね……よし！　はい、どうぞ」=There's no one here right now, huh... Alright! Okay, come here.
 「？　ソファなんかに座って、どうしたの？」=? What's up? Why did you just jump onto the sofa?
 「どうしたの？　じゃないわよ。ほら、早くこっち来て。膝枕してあげる」=Don't "what's up" me. Come on, come here already. I'll give you a lap pillow.
 「膝枕！　それはすごく恋人っぽい……。……それじゃ、ちょっとだけ」=A lap pillow! That sounds super lovey-dovey... ...Well then, just for a bit.

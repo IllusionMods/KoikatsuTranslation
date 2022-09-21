@@ -1,3 +1,4 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 //「コイカツ部の活動はどう？　あっ、もちろんこれは単純な興味じゃなくて、教師として部活内容を把握するためよ」=
-
-麗奈=Reina

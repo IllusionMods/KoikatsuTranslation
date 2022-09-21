@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「おまえとの事、色々考えてみたんだ。でも、全部わからないんだよ。だから辛くて……」=“I've thought a lot, about us. But, I don't understand any of it. It hurts so much...”
 「ご、ごめん……その……」=“S-Sorry... I...”
 「今更謝るなよ……あたし達、もう終わりにしよう。な？」=“It's too late for apologies... let's just end it, between us. Okay?”

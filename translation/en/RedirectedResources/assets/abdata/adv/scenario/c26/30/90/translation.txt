@@ -1,4 +1,6 @@
-
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
 「ねえ……愛称で呼び合ってみたい」="I was thinking... we should have nicknames for each other."
 「いいね。じゃあお互いの愛称を考えてみよっか」="That's a good idea. Give me a second to come up with one."
 「……どんなのがいいんだろう？」="...What are you thinking?"

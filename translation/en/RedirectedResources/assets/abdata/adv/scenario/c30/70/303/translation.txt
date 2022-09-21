@@ -1,0 +1,20 @@
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「そろそろ終了時間だけど……どうする？　私はキミに合わせるわよ」=Our session for the room is almost up... what do you wanna do? I'll go with whatever you want.
+CHOICE:『よし、延長しちゃおう！』=Alright, let's extend it!
+CHOICE:『うーん、今日は帰ろうか』=Well, let's go home for today.
+「よし、なら延長しちょおうよ。もっと[H名]と一緒に歌いたい！」=Alright, then let's extend it. I wanna sing together with you a lot more, [H名]!
+「あら、奇遇ね。私も、もう少し歌いたいと思っていたところよ。じゃあ、延長の電話入れておくわね」=Oh, that's surprising. I wanted to sing with you a lot more too. Then, I'll call for an extension over the phone.
+「うん、ありがと。よーし！　今日はとことん歌いまくろう！」=Yeah, thanks. Alright! Let's sing like there's no tomorrow!
+「ずっと歌い続けても喉が痛くなりそうだし、今日はこの辺でやめておこうか」=If we continue singing like this for any longer, pretty sure our throats will go out, so let's stop here for now.
+「そうね、遊んでいて体を壊しちゃたら、折角ここまで楽しかったのに、嫌な思い出になっちゃうもの」=You're right, if we hurt ourselves while playing around, even though we came all the way here to have fun, it might become an unpleasant memory.
+「でしょ？　適度が一番だから仕度をしたら出よう」=Right? Everything's best in moderation, so let's get ready to leave.
+「でしょ？　だから次の一曲を一緒に歌って、終わりにしよう」=Right? Then, let's sing one more song together, and that'll be the last one.
+「ふふ、最後に二人で歌うのって素敵ね。曲は私が決めてもいいかしら？」=Fufu, doing a duet for the final one sounds lovely. Is it alright if I pick the song?
+「もちろん」=Of course.
+「それじゃあ……これ！」=Then how about... this!
+（おっ、この曲は……！）=(Oh, this song is...!)
+[P名]＆[H名]=[P名] & [H名]
+『小さな手の平 掴める物は～♪　きっと限られているけど♪』="The things these small hands can hold~ ♪ They are surely limited but-- ♪"
+（[H名]一緒に歌うと楽しさと気持ちよさが倍増だな）=(Singing it together with [H名] somehow doubles my enjoyment of it.)

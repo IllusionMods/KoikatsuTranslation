@@ -1,0 +1,29 @@
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「ラブコメ作品でカップルが観覧車に乗ると大体キスするけどさ」=“In romantic comedies, when couples get on ferris wheels, they usually just end up kissing, right?”
+「うん？　それが、どうかしたのかい？」=“Yeah? What about it?”
+「他にはどんなシチュエーションが人気なの？　ちょっと気になって」=“What about other stuff though? Is there any other sort of 'event' that's popular? I'm a bit curious.”
+「……もしかして、エッチなこと言わせようとしてる？」=“...Wait, are you trying to make me bring up lewd stuff right now?”
+「えっ！？　いや、そんなつもりは……というかあるの？」=“Eh--!? No, I didn't mean... wait, is there lewd stuff?”
+「あるにはあるけど……ラブコメというジャンルではありませぬ」=“Yeah, there is, for what it's worth... not within romantic comedies as a genre though.”
+「ですよね……」=“Right...”
+「まあ、それは置いといて。人気のシチュといわれても……うーん、それこそ好みの範疇ですな」=“Well, leaving that aside. "Popular events"... nnn, everyone has stuff they like more.”
+「じゃあ、[H名]が好きなシチュエーションは？　教えてほしいな」=“Then, what do you like, [H]? I'd love to hear it.”
+「ワタシのかい？　フフ……当ててみせたまえ」=“Me? Fufuh... try guessing.”
+「そうきたか……えっとじゃあ……一緒に夜景をみたり、隣に行って良いか訊いたりするシーンとか？」=“Not gonna be that easy, huh... erhm, then... is it stuff like, looking at the view together and, asking 'Mind if I come closer', and whatnot?”
+「確かにそういうのもいいですな、王道である」=“For sure, that sort of stuff is nice too. It's very standard.”
+「その言い方はハズレか……」=“That's not it then, I'm guessing...”
+「フフ、正解は……肩を寄せ合うシチュです！」=“Fufu, the right answer is... sitting shoulder-to-shoulder!”
+「なるほど……それじゃあ、やってみる？」=“I see... wanna try it then?”
+「いいのかい？　では、失礼して」=“You sure? Excuse me, then.”
+「……これ、楽しい？」=“...Is this fun?”
+「楽しいというより、ドキドキするものですぞ」=“Rather than 'fun', it's exciting.”
+「まあ、今は眠気が勝っちゃってるのですが……」=“Well, my drowsiness is winning out right now though...”
+「なら寝ていいよ」=“Just sleep then.”
+「寝たらおんぶして帰るけど」=“If you do though, I'll carry you back home on my back.”
+「じゅるり……それはそれで魅力的なんだなぁ」=“*shlurp*... that sounds pretty appealing in its own right~”
+「いや、だが実際するとなると物凄い恥ずかしい気がする……」=“No, but if we actually do it I feel like I'll die of embarrassment...”
+「アニメや漫画でも定番でしょ？」=“It's standard fare in anime and manga, no?”
+「定番だけど、実際自分がされるとなると……や、やっぱりなしで！」=“It is but, actually having someone do it to me... n-nevermind, I'd rather not!”
+「なんだ、残念」=“Really? Shame.”

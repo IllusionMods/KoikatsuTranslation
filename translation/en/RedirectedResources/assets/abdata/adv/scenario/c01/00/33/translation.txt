@@ -1,1 +1,4 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「ええと……あなたがくれた物なら、なんでも嬉しいですよ」=“Eerhm... if it's from you, it makes me happy, no matter what it is.”

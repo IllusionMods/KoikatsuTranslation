@@ -1,3 +1,6 @@
-﻿「おはよう♪　ごめんね、勝手にシャワー借りちゃった」=Good morning♪ I'm sorry, I used your shower without asking.
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「おはよう♪　ごめんね、勝手にシャワー借りちゃった」=Good morning♪ I'm sorry, I used your shower without asking.
 「ううん、平気だよ。さっぱりした？」=No, it's fine. Feeling refreshed?
 「うん！　えへへ……ちょっと照れちゃうけど……朝、シャワー出た後に彼氏とお話するなんて……なんだか映画みたい♪」=Yeah! Ehehe... it's a bit embarrassing but... chatting with my boyfriend like this, after getting out of the shower in the morning... it's like I'm in a movie♪

@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「このみちゃんの言う通り、すごいアニメだったな」=“It really was a great anime like Konomi-chan said.”
 廊下を歩きながら、先日このみちゃんに借りた『小悪魔っ娘めるるん』のことを思い出す。=Walking down the hall, I thought about the ‘Devilin Girl Merulun’ anime that Konomi-chan lent me the other day.
 多少ぶっ飛びすぎなキャラだと思ったものの、想像していたよりは圧倒的に面白かった。=Though it did feature a few over-the-top characters, it was outstanding and more interesting than I had originally thought.
@@ -22,6 +25,7 @@
 勝手に入るわけにもいかないしどうしようか……。=I can't just waltz in by myself so I'm really at a loss at what to do.
 そう悩んでいると、何やら部屋の中から物音のようなものが聞こえてきた。=While I was standing there worrying, some sort of sound could be heard coming from inside the room.
 「ん？　何の音だ？」=“Hmmm? What's that sound?”
+このみ=Konomi
 「す……け……お……さい……」=“Pl...wa...li...bit...”
 「え？　このみちゃん？」=“Eh? Konomi-chan?”
 このみちゃんの声？　らしきもの？　が聞こえてきたので、慌てて耳を澄ます。=I could hear Konomi-chan's voice(?), or someone that sounds like her(?), coming from inside so I hastily pressed my ears against the door.
@@ -96,5 +100,3 @@
 このみちゃんが頑張る動機を聞きながら、俺にはそんなものあるのかなと悩んでみたり……。=Hearing her motivations, I wondered myself if I too had something like that...
 俺もこのくらいの情熱で物事に取り組めればいいのに。=If only I could be as passionate when doing things.
 そんなことを考えつつ、小悪魔っ娘めるるんの話題でひとしきり盛り上がる俺達だった。=With those thoughts in mind, our discussions on Devilin Girl Merulun started heating up.
-
-このみ=Konomi

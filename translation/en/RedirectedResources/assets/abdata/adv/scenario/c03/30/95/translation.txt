@@ -1,4 +1,6 @@
-
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
 「すぅ……すぅ…………ん、んん……」=Zzz... zzz... mm, mmm...
 （んぅ……すごく気持ちいいような……いったい、何が……？）=(Mmaah... that feels so good... what the hell...?)
 「…………」=“......”

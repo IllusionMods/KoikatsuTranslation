@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「えっと……混ざりたいの？　……どうする？」=“Erhm... you wanna join us? ...What do you say?”
 「いいんじゃないか？　みんなでした方が、その、たくさん気持ちよくなれそうだし……な？」=“Isn't it fine? If we all do it together, uhm, I bet it'd feel just that much more amazing... you know?”
 「えっと……混ざりたいの？　うーん、俺は３人でしたいけど……」=“Erhm... you wanna join us? Nnnn, I'd love a threesome, but...”

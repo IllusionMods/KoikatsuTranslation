@@ -1,0 +1,19 @@
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「うーん、日が落ちてきたな。どうする？　もう帰るか？」=Well, the sun went down already. What do you want to do? Should we go home?
+CHOICE:『まだ一緒にいたい』=『I want to be together a bit longer』
+CHOICE:『そろそろ帰ろうか』=『Should head home』
+「もうちょっとだけいようよ。ここって夜景の名所だから、[H名]と一緒に見ていきたいんだ」=Let's stay for a bit longer. This place is known for it's night view, so I want to see it together with you, [H名].
+「ほう、上手い誘い文句を考えたな。そこまで言われたら断るわけにもいくまい」=Hoh, you sure came up with a good plan. I can't exactly refuse that invitation, now can I?
+「よかった。断られたどうしようかと思ったよ」=I'm glad. I wouldn't have known what to do if you said no.
+「フフッ、その時はいつもみたいに泣いて懇願したらどうだ？　私の足に縋り付いてな」=Fufu--, you could have always cried asked me to reconsider like usual, you know? Clinging to my legs and everything.
+「いつもって、そこまでした事はないと思うけど……ないよね？」="Like usual", I don't think I've ever gone that far... Have I?
+「と、とにかく行こうか！　夜景スポットに案内するよ」=A-Anyways let's go! I'll take you to the best viewing spot.
+「あんまり暗くなる前に、帰った方がいいよね？　駅まで送っていくよ」=It would be better to go home before it gets too dark, right? I'll walk you to the station.
+「そうだな。暗くなったら、いつおまえに襲われるかわからん」=You're right. If it gets too dark, who knows whether I might get assaulted by you.
+「えぇっ、もしそんな事したって、[H名]には余裕で迎撃されそうだけど……」=Eeh--, If I were to do that, I feel like you'd easily intercept me, without breaking a sweat...
+「わからないぞ？　私だって常に気を張っているわけじゃない。不意を突かれる事くらいあるだろう」=I don't know about that. It's not like I'm always on guard, you know? You could catch me by surprise.
+「それって……遠回しに誘ってる？」=Is that... Is that a roundabout invitation?
+「さぁな。ほら、もう帰るんだろう？　手くらい繋いでいくか？」=Who knows? Come on, we're going home, no? Wanna hold hands atleast?
+「うぅ、何か色々チャンスを逃した気がするけど……うん、駅まで手は繋いで帰ろう」=Uuu, I feel like I just missed out on something just now but... yeah, let's walk to the station hand-in-hand and go home.

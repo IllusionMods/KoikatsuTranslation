@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「バスケットボールって、ちょっと苦手なのよね。ボールに対してゴールが狭すぎない？」=I'm pretty bad at basketball. Isn't the goal too narrow compared to the ball?
 「じゃあ、今日はシュートのやり方を練習しようよ。見てて……」=Then, let's practice shooting for today. Watch...
 「……うんうん、いい感じ。だんだん入るようになってきたね」=...Yeah, Just like that, That's it. You're gradually getting better at getting them in.

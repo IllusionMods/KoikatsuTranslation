@@ -1,4 +1,6 @@
-
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
 「[P]くん♪　わたしね、デートがすごく楽しみだったんだ～。いっぱい楽しも？」=“[P]-kun, I was super looking forward to our date, you know~. Let's enjoy it lots?”
 「そうだね。俺も楽しみにしてたよ。それじゃあ、行こうか」=“Yeah. I was looking forward to it too. Well then, let's go.”
 「この空の向こうに、わたしたちの仲間がいるんだよね」=“Beyond this sky, reside all our comrades, huh?”

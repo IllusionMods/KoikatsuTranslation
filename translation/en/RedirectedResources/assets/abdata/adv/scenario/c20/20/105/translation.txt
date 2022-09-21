@@ -1,4 +1,7 @@
-﻿「これは……すっごく……綺麗、です」=This is... really... beautiful.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「これは……すっごく……綺麗、です」=This is... really... beautiful.
 「街の明かりが星々のように輝いて……地上まで夜空が、広がってるみたい」=The city lights, glimmering like stars... it almost looks like the sky's extending down to the ground.
 「ここから見える夜景が綺麗だって聞いてさ、[H名]と一緒に見たいなって思ってたんだ。……よかった、一緒に来れて」=I'd heard that the view from this place was beautiful, so I really wanted to see it with you, [H]. ...I'm glad, that we came here together.
 「そ、そうだったんですね……私と一緒に……ぐすっ」=I-I see, so that's how it was... together with me... *sob*

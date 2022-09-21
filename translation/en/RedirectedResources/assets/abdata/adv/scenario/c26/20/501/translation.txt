@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 （よし、予定通り約束の１０分前には着きそうだ。待たせるなんてかっこ悪いだけだしな）=(Alright, I'm gonna get there 10 minutes earlier than we set out to. Would just be plain uncool to make her wait, afterall.)
 「とーちゃく……って、えぇ！　[H名]！」=“Alright, I'm her... wuh, eeh! [H]!”
 「……おはよう」=“...Morning.”

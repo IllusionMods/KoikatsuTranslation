@@ -1,4 +1,7 @@
-﻿「へっくしゅ……うぅ、鼻水が……」=*sneeze*... Uuu, my snot is...
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「へっくしゅ……うぅ、鼻水が……」=*sneeze*... Uuu, my snot is...
 「大丈夫？　はい、ティッシュ」=You alright? Here, a tissue.
 「あ、ありがとう……ち～～んっ」=T-Thanks... *blow*--
 「少し風が冷たくなってるし、早めに帰らないとね」=The wind's starting to get colder too, gotta get home in short order.

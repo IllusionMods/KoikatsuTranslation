@@ -1,3 +1,7 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+このみ=Konomi
 「…………」=“......”
 「このみちゃん？」=“Konomi-chan?”
 「はいっ！？」=“Yes!?”
@@ -179,5 +183,3 @@
 テンション高く、このみが瞳をきらきら輝かせる。=Konomi shined her eyes with burning determination.
 あんまり難しいキャラだと、アニメや漫画を確認するところから始めなきゃいけないし……何か、動物の着ぐるみとか……そういうのでいいんだけど……。=I'll have to watch or read the source if it's too a difficult of a character to cosplay... I wonder if she has a stuffed animal suit or something like that I mind... That would be perfect but...
 我が恋人であるこのみのチョイスを信じることにして、今日はお開きにした。=I'll have to trust my lover's choice on that one. And on that note, we decided to call it day.
-
-このみ=Konomi

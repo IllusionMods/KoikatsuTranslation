@@ -1,3 +1,6 @@
-﻿「はぁ？　なんでだよ」=Haa? Why?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「はぁ？　なんでだよ」=Haa? Why?
 「途中まで帰る方向一緒だし、もっともっと仲良くなりたいからかな」=Our houses are mostly the same way, and well, I want to get a bit closer to you.
 「ちっ、それならしょうがねぇなぁ。一緒に帰ってやるよ」=Tsk, can't be helped in that case. Sure, I'll walk home together with you.

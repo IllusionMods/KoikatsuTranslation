@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「はぁ、溜息が出る程綺麗というのは、こういう事を言うのだろうな」=Haa, this is what they mean when they say something is "breathtakingly beautiful", isn't it?
 「よかった。気に入ってもらえたみたいで一安心だよ」=What a relief, I'm glad you like it.
 「流石にこの夜景を気に入らないという奴はいないんじゃないか？　もしいたら、ひねくれ過ぎだ」=I don't think there's a single person out there who wouldn't like this sort of view. If there is, they'd be way too cynical.

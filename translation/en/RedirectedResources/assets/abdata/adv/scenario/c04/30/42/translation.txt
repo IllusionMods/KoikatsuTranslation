@@ -1,1 +1,4 @@
-﻿「……人のことを心の底から軽蔑したのは初めてよ。今すぐ出ていきなさい」=...This is the first time I've ever felt disdain for someone, from the bottom of my heart. Please leave, now.
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「……人のことを心の底から軽蔑したのは初めてよ。今すぐ出ていきなさい」=...This is the first time I've ever felt disdain for someone, from the bottom of my heart. Please leave, now.

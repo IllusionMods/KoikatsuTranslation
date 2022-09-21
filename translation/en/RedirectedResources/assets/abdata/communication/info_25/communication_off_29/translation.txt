@@ -1,4 +1,7 @@
-﻿「こ、ここは女子トイレですよ！」=T-This is the girls' toilet, you know!
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「こ、ここは女子トイレですよ！」=T-This is the girls' toilet, you know!
 「きゃっ！　見てはいけません！」=Kyah--! You mustn't look!
 「申し訳ありません。失礼します」=I'm sorry. Excuse me.
 「……なんでしょうか」=...What is it?
@@ -23,7 +26,7 @@
 「普段、一人でいることっで多い？」=Are you by yourself often?
 「そうですね、どちらかと言うと。もちろん友人との時間も大事ですけれど」=If I had to say, then I would suppose so. Of course, I treasure the time I spend with my friends as well.
 「どうでしょうか。比較的、誰かと一緒の方が多い気がしますが……」=I wonder? If I had to say, I think I spend more time with other people than by myself...
-「授業中につい、ウトウトしちゃうことってない？」=
+「授業中につい、ウトウトしちゃうことってない？」=Ever just felt like taking a small nap during class?
 「実は時々……。気をつけなければと思ってはいるのですけれど」=Honestly, it does happen sometimes... I do try to be careful about it though.
 「私は、常に授業には集中しています。しっかり学ばなくてはいけませんからね」=I always try my best to concentrate in class. We have to absorb the knowledge being handed out properly, afterall.
 「占いって信じる方？」=You the type to believe in astrology and stuff?
@@ -177,7 +180,7 @@
 「練習は順調です。みなさん調子が良いですよ」=Practice is going swimmingly. Everyone's in good form today.
 「少しだけ、こちらの部活にも参加してみますか？」=Would you like to try out our club activities as well?
 「コイカツ部、頑張っていますか？」=Are you working hard at your club activities?
-「ふぅ……お腹が空きました」=
+「ふぅ……お腹が空きました」=Fuu... I feel hungry.
 「ん、私ですか？」=Nn, me?
 「きゃっ？　そ、そういうのは反則です」=Kyah--? T-That sort of thing is unfair.
 「テストが返却される前って、妙にドキドキしたりしない？」=Doesn't it make your heart race, when the teacher starts returning the tests?
@@ -556,5 +559,5 @@
 「興味があってもいけませんよ。早く出てください」=Even if you're curious, you mustn't. Please leave quickly.
 「仕方のない人ですね……誰かが来るまでですよ？」=There's no helping you, is there... Only till someone else comes in, okay?
 「はぁ……覗きなんてしなくても……すぐに出て行ってください」=Haa... you don't have to peep, you know... please leave quickly.
-「もちろん！　歓迎するよ」=
-「嬉しいです、ありがとうございます」=
+「もちろん！　歓迎するよ」=Of course! You're more than welcome.
+「嬉しいです、ありがとうございます」=I'm really happy, thank you very much.

@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「やったぁ！　もちろん行くですっ！　すっごく楽しみなのですよっ！」=“Yay! Of course! I'm super excited!”
 「良かった。一緒に楽しもうね」=“Great. Let's have a fun time, okay?”
 「はいですっ！　どんな格好していくか、今から悩んじゃうですよー♪」=“Yes--! What should I wear? I'll have to start thinking right now♪”

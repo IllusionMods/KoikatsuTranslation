@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「さて、せっかくカラオケに来たんだし、さっそく歌おうか」=“Now then, we came all the way to karaoke, so let's actually sing something, shall we?”
 「今更だけど……ワタシで良かったのかい？」=“It's a bit late at this point but... you sure you're happy with me?”
 「ん？　何が？」=“Hm? Happy about what?”
@@ -16,5 +19,5 @@
 「うんっ。あ、お先にどうぞ」=“Okay--. Ah, feel free to go first.”
 「よぉし、いくぞぉ……」=“Alright, here I go...”
 「いえーい！」=“Yay-!”
-『小さな手の平 掴める物は きっと限られているけど～♪』=『This small hand, the things it can grasp, they are surely limited, but～♪』
+『小さな手の平 掴める物は きっと限られているけど～♪』=『This small hand, the things it can grasp, they are surely limited, but~♪』
 （……感情が込められてて……凄く綺麗だ）=(...What a lovely voice... so packed with emotion)

@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「……その、してしまいましたね」=“...Uhm, so we ended up doing it, huh?”
 「あはは、だね……ちょっと後悔？」=“Ahaha, yeah... you regret it?”
 「いえ、こんなところでしてしまった恥ずかしさがあるだけで、後悔はありません……」=“No, it's just a bit embarrassing that we did it here of all places, I don't regret it a bit...”

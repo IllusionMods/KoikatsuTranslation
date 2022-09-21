@@ -1,4 +1,7 @@
-﻿「ふぅ、ごちそうさま。そろそろ行こうか」=Fuu, that was a good meal. Shall we head out?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「ふぅ、ごちそうさま。そろそろ行こうか」=Fuu, that was a good meal. Shall we head out?
 「そうダネ♡　ゴチソーサマデシタ♪」=Yeah♡ That really was a good meal♪
 「いっぱい『あーん』して、楽しかったね」=It was a ton of fun, the way we fed each other, wasn't it?
 （途中から店員さんの温かい目線を感じて、ちょっと恥ずかしかったけどね）=(It was a bit tad bit embarrassing though, especially with the owner's warm gaze on us halfway through)

@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「やっぱり、ここからの眺めはいいね」=“The view from here really is the best, isn't it?”
 「はい。一日遊びまわった場所が見下ろせるのは素敵ですね」=“Yes. Being able to look down at the place we ran about in all day is just lovely, isn't it?”
 「ジェットコースター、メリーゴーランド、コーヒーカップ、お化け屋敷……」=“The roller coaster, the merry-go-round, the coffee cup, the haunted house...”

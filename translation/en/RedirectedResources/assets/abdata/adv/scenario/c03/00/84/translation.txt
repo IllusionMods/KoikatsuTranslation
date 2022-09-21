@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「それでは早速コイカツをやるです！」=“Well then, let's start with the love activity right away!”
 「あっ、ちょっと待って！　その前に内容を説明しないと……」=“Ah--, wait a sec! Atleast let me explain to you what the deal here is...”
 「おお、そうでした！　私、どんなことをやるのか全く無知でした！　で、どのようなことをするですか？」=“Ooh, right! I don't know what we're even gonna do at all! So, what're we gonna do?”

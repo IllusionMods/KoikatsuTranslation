@@ -1,9 +1,14 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「うーん、混雑してきたね」=“Nnnn, it's starting to get pretty crowded here, huh?”
 「うぅ……人がまるでゴミのようだ……」=“Uuu... men are piled together like trash...”
 「ここからしばらくかかるから、ちょっと我慢してて……うおっ」=“It's gonna stay congested for a bit, I'm pretty sure, so endure it for a bi... uwoh--”
 「な、汝よ、苦しい……もう少し離れられぬか……？」=“T-This is, a bit much... can't thee not give an inch of way, perhaps...?”
 「こっちもあんまり隙間がなくて……今すぐは無理かも」=“I don't have any room here either... I don't think I can, sorry.”
 （しかし、このまま密着してると股間が不味いことになるぞ……）=(But, if we stay stuck together like this, my crotch is gonna react...)
+CHOICE:『欲望に身を任せる』=Give in to your desires.
+CHOICE:『鉄の自制心で堪える』=Bear with an iron will.
 （でも、気持ちいいし、少しくらいなら……あっ、ヤバどんどんムラムラしてきた……）=(But, it feels really nice, a bit shouldn't be... ah--, damn, I'm getting hornier and hornier...)
 「うぐぅ……む？　なんだ？　な、何か硬い物が、我の体に当たっているが……こ、この位置はもしかして……」=“Uguh... muh? What? I-I feel something stiff, poking into my body... i-it couldn't possibly...”
 「ご、ごめん。[H名]がこんなに近くていい匂いするから、抑えられなくて……」=“S-Sorry. You smell so nice from this up close, [H], I just couldn't keep it down...”
@@ -12,6 +17,3 @@
 （ここで勃起したら、せっかくのデートが台無しになってしまう！　堪えるんだ、俺っ）=(If I pop a chub here, our date is gonna end up getting ruined entirely! I'mma endure this, I gotta--)
 （いい匂いもしないし、やわらかい感触なんて当たってない……今、俺の身体にあたってるのはただの石壁だ）=(She doesn't smell nice at all, and her body isn't so soft at all... the only thing I feel is stone.)
 （決して女体なんて、あたってないんだからっ……！）=(Stone is all I feel, definitely not the soft body of a girl...--!)
-
-CHOICE:『欲望に身を任せる』=Give in to your desires.
-CHOICE:『鉄の自制心で堪える』=Bear with an iron will.

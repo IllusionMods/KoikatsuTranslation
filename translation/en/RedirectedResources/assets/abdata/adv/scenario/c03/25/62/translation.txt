@@ -1,11 +1,13 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 ………………=.........
 …………=......
 ……=...
 「はぅ……楽しい時間はあっという間なのです……離れるの寂しいですよ……」=“Hauu... times flies when you're having fun... I don't want to go...”
+CHOICE:「俺も寂しい。良かったらうちに……」=Me neither. If it's alright with you, why not come to...
+CHOICE:「また学園で会えるのが楽しみ」=I'm looking forward to seeing you at school again.
 「俺も寂しいな。えーっと……[H]さえ良かったら、今日はこのまま、うちに寄って帰らない？」=“Me neither. Erhm... if it's alright with you, [H], how about we go to my place today?”
 「わわっ、良いのですかっ！？　ぜひぜひなのですっ！　まだまだいっぱいお話したいですよー！」=“Wawah--, could we really--!? I'd love to, I'd love to--! I want to keep chatting with you more and more!”
 「また学園で会えるから……楽しみにしてるね」=“We'll get to see each other at school again so... I'm looking forward to that.”
 「ですね！　次に会えることを楽しみにして、このまま帰路につくですーっ！」=“Right! Let's go home, while looking forward to seeing each other later~!”
-
-CHOICE:「俺も寂しい。良かったらうちに……」=Me neither. If it's alright with you, why not come to...
-CHOICE:「また学園で会えるのが楽しみ」=I'm looking forward to seeing you at school again.

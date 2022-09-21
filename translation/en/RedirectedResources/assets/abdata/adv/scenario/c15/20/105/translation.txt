@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「……これが、キミの見せたかったものか？」=“...Is this, what you wanted to show me?”
 「そうだよ。どうかな？　ここからの夜景を[H名]に見せたかったんだけど……」=“That's right. What do you think? I wanted to show you the view of the night sky from here...”
 「すごく綺麗だぞー！　こんな場所があったなんて、もっと早く知りたかったくらいだー」=“It's beautiful! So much so, I'm wondering what took me so long to find this place.”

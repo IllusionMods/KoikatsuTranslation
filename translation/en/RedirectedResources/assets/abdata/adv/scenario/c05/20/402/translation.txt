@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「こうやって、[H名]とふたりで喫茶店に来てるだけでたのしいよ」=“It's just fun to just come and relax at a cafe with you like this, [H].”
 「うん。いろんなところで遊ぶのもいいけれど、あなたとゆったり喋るのも好き」=“Yeah. Having fun in all sorts of places is nice too but, I love chatting with you like this too.”
 「気に入ってもらえているようでなによりだよ」=“I'm glad you're enjoying yourself.”

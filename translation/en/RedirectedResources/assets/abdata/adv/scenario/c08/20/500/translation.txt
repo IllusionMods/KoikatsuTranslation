@@ -1,10 +1,16 @@
-﻿………………=.........
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+………………=.........
 …………=......
 ……=...
 「もう、ここに着いちゃったな……」=We've already gotten back here...
 「うん、着いちゃったね……」=Yeah, we sure have...
 「今日のデート楽しかったのに……終わっちゃう……」=Today's date was so much fun, and yet... it's gonna end...
 「……そうだな」=...Right.
+CHOICE:『自宅に誘う』=『Take her to your place』
+CHOICE:『ラブホに行く』=『Take her to a love hotel』
+CHOICE:『別れて帰る』=『Split here and go home』
 「あのさぁ、[H名]。時間があればなんだけど……うちに来ない？」=Listen, [H名]. If you have the time... wanna come to my place? Only if you have the time.
 「もちろん行くよぉ！　今日は遅くなるって伝えてあるから大丈夫♪」=Of course, I'd love to! I told my parents that I'd be out till late today, so it's completely fine♪
 「よし！　やった！」=Alright! Yay!
@@ -22,7 +28,3 @@
 「……えへへ、今度のデートも楽しみにしてるね。バイバイ♪」=...Ehehe, I'm looking forward to our next date. Byebye♪
 「あ、ああ……また」=Y-Yeah... see ya.
 （不意打ちだったから、ドキッとしたな……）=(She nearly made my heart leap out of my chest...)
-
-CHOICE:『自宅に誘う』=『Take her to your place』
-CHOICE:『ラブホに行く』=『Take her to a love hotel』
-CHOICE:『別れて帰る』=『Split here and go home』

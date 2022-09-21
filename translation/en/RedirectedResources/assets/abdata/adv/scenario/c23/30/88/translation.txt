@@ -1,5 +1,7 @@
-
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
 ………………=.........
 …………=......
 ……=...
-//「お疲れさま。恋愛マスターになれるかなぁ」=
+「お疲れさま。恋愛マスターになれるかなぁ」=“Thanks for all the help. Maybe I'll become a master at this romance thing myself~”

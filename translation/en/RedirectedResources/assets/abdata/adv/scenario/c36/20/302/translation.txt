@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 『明日の僕達なら♪　夢に見たあの宝の場所　辿りつけるさ～～♪ さあ手を伸ばして♪』="If it's us♪ Tomorrow, we'll reach the place seen in dreams♪ The place where the ball is~~♪ Extend your hand♪"
 「ひゅ～～！　[H名]さん最高ー！　あ、最後のアレやって、アレ！」="Phew...! Miss [H名] is the best! Do that thing from the end, do it again!"
 「は？　アレって何よ？　気持ち良く歌い切ったのだから、水を差さないでちょうだい」="Hah? What's 'that'? I'm singing now, so don't interrupt me."

@@ -1,9 +1,14 @@
-﻿「んー、歌えば、歌うほどストレスが解消されていくわ」=Nnn, singing is great for venting out stress.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「んー、歌えば、歌うほどストレスが解消されていくわ」=Nnn, singing is great for venting out stress.
 「普段そんなにストレスためてるの？」=Do you get that stressed?
 「まあ、人並み程度にはあるもの。それより、次の曲は入れてないの？」=Well, as much as the next person, I suppose. Forget that, aren't you going to put in another song?
 「あっ、ごめん。あ～、でもどうしようかな……けっこう歌ったから、レパートリーが……」=Ah--, sorry. Aah~, but what should I do... we've already sang a bunch, so I'm out of songs...
 「ん～……」=Nn~...
 「歌わないなら、もうお店を出る？　あなたに任せるわ」=If we're not going to sing, shall we head out? I'll leave it up to you.
+CHOICE:『いや、せっかくだし最後までいよう』=No, let's stay the whole course.
+CHOICE:『今日はもう帰ろうか』=Let's go home for today.
 「いや、せっかくだし最後までいよう」=No, we came all the way out, so let's stay the whole course.
 「ええ、わかったわ」=Yes, got it.
 「じゃあ次に入れる曲探しに……」=Let's look for a song I can put in then...
@@ -24,5 +29,3 @@
 「ああ、俺が払うからいいよ。これは[H名]の綺麗な歌声を聞かせてくれたお礼だと思って」=Aah, I'll pay for it, so don't worry. Just think of it as a little something in return for letting me hear your lovely voice.
 「も、もう……でも、折角だし甘えちゃおうかしら」=D-Dummy... but, maybe I'll take you up on it.
 「そうしてそうして」=Awesome.
-CHOICE:『いや、せっかくだし最後までいよう』=No, let's stay the whole course.
-CHOICE:『今日はもう帰ろうか』=Let's go home for today.

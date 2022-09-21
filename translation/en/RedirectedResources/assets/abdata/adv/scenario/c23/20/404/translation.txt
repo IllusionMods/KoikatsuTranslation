@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「素晴らしい、素晴らしい見た目ですぞー！　じゅるり……では、さっそくいただきます」=“Lovely, it looks just lovely! *drool*... well then, I shall dig in right away!”
 「あむっ……っ！　はうぅうぅ……漫画喫茶のものより遙かに美味しいですぞ！」=“*Bite*...! Hauuuuuu... it's even more delicious than the stuff you get at manga cafes!”
 「あはは、判断基準そこなんだ……」=“Ahaha, that's your yardstick, huh...”

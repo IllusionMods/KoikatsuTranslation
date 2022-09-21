@@ -1,6 +1,8 @@
-
-//「あわ、あわわゎ。これは恋愛アニメで言う、ここここくはくぅぅぅでは？」=
-//「そうだよ。いま君にしてるところ」=
-//「あなたが、ワタシにっ！？　ほ、本当に？　チラッチラッ」=
-//「うん、俺、きみのことが好きなんだ。付き合ってくれる？」=
-//「……う、うれしいなぁ。ワタシも好きだよ。コホンッ、あらためてよろしく」=
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「あわ、あわわゎ。これは恋愛アニメで言う、ここここくはくぅぅぅでは？」=“Awah, awawawah. Is this one of those, so called c-c-c-confessions? From all those romance anime?”
+「そうだよ。いま君にしてるところ」=“That's right. And you're the lucky girl.”
+「あなたが、ワタシにっ！？　ほ、本当に？　チラッチラッ」=“You, confessing to me!? R-Really? *sparkle sparkle*”
+「うん、俺、きみのことが好きなんだ。付き合ってくれる？」=“Yeah, I love you. Will you go out with me?”
+「……う、うれしいなぁ。ワタシも好きだよ。コホンッ、あらためてよろしく」=“...I-I'm so happy. I love you too. *cough*, yes, let's go out together.”

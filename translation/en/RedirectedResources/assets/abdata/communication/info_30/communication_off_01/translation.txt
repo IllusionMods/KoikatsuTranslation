@@ -1,4 +1,6 @@
-
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
 「きゃっ？　な、なんですかっ？」=“Kya--? W-What is it?”
 「きゃあぁぁっ！　だ、ダメです！　見ないでください！」=“Kyaaaaah--! B-Bad man! Please don't look!”
 「その……急いでいるので、失礼します」=“Uhm... I am in a rush, so do excuse me.”
@@ -90,6 +92,7 @@
 「私、友人からマイペースだと言われるのですが、あなたもそう思いますか？」=“My friends have been telling me that I tend to do things in my own unique way, do you feel the same way?”
 「なるほど。やはりそうなのですね」=“I see, it must be true then.”
 「あら、そうですか？　意外なご意見です」=“Oh, is that so? I didn't expect that.”
+「あの。そこで言葉を濁されると、少し不安になってしまいます」=“Uhm. Seeing you be that evasive, is a bit worrying.”
 「動物、お好きですか？」=“Do you like animals?”
 「ふふふっ。見ても触れても可愛らしいですよね」=“Fufufu--. They're adorable, aren't they? Adorable to look at, adorable to play with.”
 「あなたもそうなのですね。私も少し……苦手と言う程ではないのですが……」=“You're the same way, huh? I, too... I wouldn't go so far to say that I can't handle them, but...”

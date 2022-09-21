@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 ポール=Pole
 野点傘=Open Umbrella
 ウサギの置物=Rabbit Ornament

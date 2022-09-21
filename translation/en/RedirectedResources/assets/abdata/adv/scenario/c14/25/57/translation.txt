@@ -1,4 +1,7 @@
-﻿「デートに着る服ってこれでよかったかな？」=Do ya think these clothes are fine? For a date and stuff.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「デートに着る服ってこれでよかったかな？」=Do ya think these clothes are fine? For a date and stuff.
 「その、デートに着る服ってのはわからないけど……かわいいと思うよ」=Uhm, I dunno whether they're good for a date or not but... I do think you look cute.
 「なっ！？　こ、こんなの普通だよ!　普通！」=Wha--!? T-This is just normal! Normal I say!
 「普通かな？　かわいいと思うけどな」=You think so? I think you look cute though.

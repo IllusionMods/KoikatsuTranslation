@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「お？　いいけど、どこ行くんだ？」=“Oh? Sure but, where are we going?”
 「それはお楽しみに」=“You'll just have to wait to find that out.”
 「本当に楽しいところに連れてってほしいぞ」=“I want you to take me to some real fun place, okay?”

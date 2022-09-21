@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「今日は私史上、一番頑張ったかもしれないですー！」=“I think that was the hardest I've ever worked on anything, ever!”
 「そんなに！？　でもまぁ、俺も確かに頑張れたかも」=“That hard?! But, well, I think I went pretty all in too.”
 「ですです！　やっぱりお勉強は誰かと一緒にやるに限るです」=“Exactly, exactly! Studying together really is the only viable way.”

@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「私もね、積極的に参加しようと思って……今日はコイカツについて色々お勉強してきたのよ」=You know, I wanted to be proactive when participating in the club activities, so... I went and studied a fair bit about what to do in Koikatsu before coming here.
 「へぇ、どんなこと？」=Eh, what kind of studies?
 「恋人同士がすることでしょ。まずは温泉旅行とか、生命保険の見直しとか、老後のための資産運用とか……」=The sort of things that couples do together. Things like a hot spring trip, or managing life insurance, or saving up for retirement...

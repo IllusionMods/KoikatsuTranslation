@@ -1,1 +1,4 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「えへへ、上手くできた。これならお迎えも、もうすぐ来てくれるよね」=“Ehehe, that went well. They should come see us soon now, right?”

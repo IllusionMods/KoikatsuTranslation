@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「ふふーっ、実は今日は、とてもいい物を持って来ているのです！」=Fufu~, actually, I brought something I bet you'll love!
 「え？　なに？」=Eh? What is it?
 「これ『はじめての恋人同士』、恋愛教則本なんだよー」=This, the 'First Time Couples' Handbook'. It's a reference book~

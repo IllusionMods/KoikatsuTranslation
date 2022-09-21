@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「んー、公園は植物が多くて気持ちいいなー」=“Nn~, there's so much vegetation around here, it feels great, doesn't it?~”
 「はは、[H名]は元気だね～」=“Haha, you sure are pretty lively today, [H名]~”
 「そういうキミは情けないぞー、いつまで休んでるんだ？」=“And you're being real pathetic, how long are you planning on resting there?”

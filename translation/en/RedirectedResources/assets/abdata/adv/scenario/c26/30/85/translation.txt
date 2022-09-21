@@ -1,4 +1,6 @@
-
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
 「ねえ……床ドンって、何？」="Hey... what's a 'floor don?'"
 「えっと、床ドンっていうのは……こんな感じの～」="Well, here's how you do it... Like this~"
 「……面白そう。やろう」="...Seems interesting. Let's do it."

@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「ふぅ……なんか、やっと座った気がする」=“Fuu... feels like I finally got to sit down, for the day.”
 「ふふふ、そうね。いっぱい歩いたし」=“Fufufu, yeah. We did walk around a lot, afterall.”
 「今日はかなり遊んだから、もう足がぱんぱんだよ」=“We ran around so much today, my legs feel like lead.”

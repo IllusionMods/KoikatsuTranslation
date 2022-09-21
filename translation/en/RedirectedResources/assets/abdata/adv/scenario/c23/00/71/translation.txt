@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「[P]さん、ここの問題って……あっ、消しゴムが床に」=“[P]-san, this problem... ah--, my eraser.”
 「俺が拾うよ。……はい、どうぞ」=“I'll pick it up. ...Here you go.”
 「ありがとう……えへ、へ。勉強もいいものなんだなぁ」=“Thank you... Eheh, heh. Studying not that bad either, is it?”

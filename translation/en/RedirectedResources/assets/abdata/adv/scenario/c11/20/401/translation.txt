@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「素敵な喫茶店ね～。すごく落ち着くわ」=“What a lovely cafe~. Such a calm atmosphere.”
 「うん、[H名]の大人びた雰囲気によく似合ってるよ」=“Yeah, it fits your mature air well, [H].”
 「あらあら、ふふふ……そんなこと言われたら照れちゃうわね。お世辞じゃないといいけど……」=“My, fufufu... you're gonna make me blush, you know. Hopefully, that wasn't just some flattery...”

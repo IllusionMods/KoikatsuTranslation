@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「作ってきたお弁当、美味しかったですか？」=The lunch I made for you, was it tasty?
 「うん、思わずがっついて食べちゃったよ」=Yeah, by the time I came to, it was already in my belly.
 「よかったです、隠し味を入れたのが覿面だったでしょうか？」=I'm glad, could you taste the secret ingredient I put in it?

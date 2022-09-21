@@ -1,9 +1,7 @@
 //
-// Dumped for Koikatsu v5.1 by Text Dump v1.4.2
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-
-
-// BEGIN COLUMN 1 (surnames), prefix dupes with NAME[1]:
+// BEGIN COLUMN 1
 亜門=Amon
 阿部=Abe
 阿良々木=Araragi
@@ -709,11 +707,8 @@ NAME[1]:要=Youkichi
 櫻田=Sakurata
 綺声神=Ayaginugoeshin
 閻魔=Enma
-// END COLUMN 1 (surnames)
-
-
-
-// BEGIN COLUMN 2  (surnames), prefix dupes with NAME[2]:
+// END COLUMN 1
+// BEGIN COLUMN 2
 アーノルド=Arnold
 アシモフ=Asimov
 アシュフォード=Ashford
@@ -938,11 +933,8 @@ NAME[2]:レイモンド=Reymonds
 ロバーツ=Roberts
 ロブソン=Robson
 ワトソン=Watson
-// END COLUMN 2 (surnames)
-
-
-
-// BEGIN COLUMN 3 (female given), prefix dupes with NAME[3]:
+// END COLUMN 2
+// BEGIN COLUMN 3
 あい=Ai
 あおい=Aoi
 あかね=Akane
@@ -1637,11 +1629,8 @@ NAME[3]:凛=Rin
 莉菜=Rina
 莉子=Riko
 莉緒=Rio
-// END COLUMN 3 (female given)
-
-
-
-// BEGIN COLUMN 4 (female given), prefix dupes with NAME[4]:
+// END COLUMN 3
+// BEGIN COLUMN 4
 アーシア=Asia
 アーニャ=Anya
 アイ=Ai
@@ -1874,11 +1863,8 @@ NAME[4]:レイ=Rei
 ローズ=Rose
 ロックベル=Rockbell
 ロベルタ=Roberta
-// END COLUMN 4 (female given)
-
-
-
-// BEGIN COLUMN 5 (male given), prefix dupes with NAME[5]:
+// END COLUMN 4
+// BEGIN COLUMN 5
 愛斗=Chikato
 愛翔=Aito
 NAME[5]:葵=Mamoru
@@ -2389,11 +2375,8 @@ NAME[5]:凛=Rin
 颯斗=Satsuto
 颯馬=Souma
 遙馬=Haruma
-// END COLUMN 5 (male given)
-
-
-
-// BEGIN COLUMN 6 (male given), prefix dupes with NAME[6]:
+// END COLUMN 5
+// BEGIN COLUMN 6
 アーロン=Aaron
 アイザック=Izzac
 アキラ=Akira
@@ -2526,5 +2509,4 @@ NAME[6]:レイモンド=Raymond
 ロニー=Ronnie
 ロバート=Robert
 ロメオ=Romeo
-// END COLUMN 6 (male given)
-
+// END COLUMN 6

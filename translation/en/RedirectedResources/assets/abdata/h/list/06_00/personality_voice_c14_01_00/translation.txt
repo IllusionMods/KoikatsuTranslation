@@ -1,4 +1,7 @@
-﻿……恥ずかしいだろ=...This is embarrassing, dummy.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+……恥ずかしいだろ=...This is embarrassing, dummy.
 ……まだ、恥ずかしいな=...This is still, pretty embarrassing.
 よろしく……な=Take care of me... kay?
 はやく……触ってくれっ……=Touch me... already--...

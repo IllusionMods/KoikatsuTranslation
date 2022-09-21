@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「……カラオケってちょっと不安なんですよね」=...Karaoke is pretty nerveracking, isn't it?
 「えっと、カラオケで不安がる要素がよく分からないんだけど……」=Erhm, I don't really understand what part of Karaoke could exactly be nerveracking...
 「私が歌おうとすると、機械がおかしくなってキーンと大きな音がよく出るんです……」=Whenever it's my turn to sing, the machine gets all weird and starts making head splitting high pitched sounds...

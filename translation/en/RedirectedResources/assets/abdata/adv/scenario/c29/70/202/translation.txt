@@ -1,0 +1,20 @@
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「遊園地の乗り物って、身長制限が設定されてるのがあるよね」=Amusement park rides have those height restrictions on them, don't they?
+「ジェットコースターなどがそうですね」=Seems so, on rides such as the roller coaster and such.
+「そうそう。設定身長にギリギリ足りなくて、泣きわめいてる子どもがいたりとかね」=Yeah, exactly, those. You often see kids around those, crying their eyes out because they just barely don't make the cut.
+「安全のためだから仕方ないんだけど、本人はものすごく悔しいし悲しいと思うんだ」=It can't be helped since it'd be unsafe but, I think it's a really sad thing, especially when you're the person in question.
+「実感のこもった言い方ですね。もしかしてそのような経験をされたことがあるのですか？」=You say that as if you've experienced that yourself. By any chance, have you?
+「随分昔にね。親も係員の人も困ってただろうなぁ」=A long time ago, yeah. I bet I caused a lot of trouble for my parents and the staff too.
+「ふふっ。今となっては懐かしい思い出かもしれませんね」=Fufu--. I imagine it's little more than a nostalgic memory at this point.
+「確かに。笑って思い出せるよ」=For sure. I can't help but smile when I think back to those days.
+「ちなみに[H名]は同じような経験は……」=Incidentally, have you ever gone through the same...
+「ちょっと待ってください。今、私の身長を目測しましたよね」=Please wait just a moment. You just measured my height with your eyes, didn't you?
+「えっ、そんなことない……よ？」=Eh--, not at... all?
+「ごまかしても無駄です。視線の動きでわかります」=There's no point in trying to deceive me. I could tell just from the way your eyes moved.
+「まったく。さすがにもう、制限に引っかかることはありませんから」=Good grief. Even I'm not short enough anymore, to get held back by those height restrictions.
+（何歳くらいまで引っかかってたんだろう……）=(I wonder just till what age she did get held back by them...)
+「小さい頃は、確かにあったと思います」=I do remember getting held back by them, when I was little.
+「両親や係の方を困らせてしまったかどうかまでは、覚えていませんけれど」=Though, I don't remember if I made trouble for my parents or the staff back then or not.
+（乗り物に乗れなくて泣きじゃくる、小さな[H名]……想像すると可愛いな）=(Just imagining her as a child, sobbing because she couldn't get on a ride... so adorable.)

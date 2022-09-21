@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「カラオケ……なんだか随分久しぶりです」=Karaoke... Feels like it's been quite a while since I came here last.
 「そうなんだ。あんまりカラオケって行かないの？」=Huh. You don't go out to karaoke all that often?
 「昔、家族と来たことがある程度……ですね。しかも何年も前の話です」=I used to come with family, back in the day... I suppose. Been a few years, too.

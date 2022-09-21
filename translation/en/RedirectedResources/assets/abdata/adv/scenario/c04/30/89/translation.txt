@@ -1,4 +1,7 @@
-﻿「あのさ、ちょっとお願いがあるんだけど……」=Listen, I've got a request...
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「あのさ、ちょっとお願いがあるんだけど……」=Listen, I've got a request...
 「うん？　なぁに改まって……悩みごと？」=Yes? What's gotten into you, being so formal... something on your mind?
 「ああいや、そういうのじゃなくて。その、愛称で呼び合ってみたいなと思って」=Aah, no, it's nothing like that. It's, uhm, I was thinking that maybe we could call each other by nicknames, and all.
 「愛称……？　そういえば、考えたことなかったわね」=Nicknames...? Come to think of it, never really thought about that.

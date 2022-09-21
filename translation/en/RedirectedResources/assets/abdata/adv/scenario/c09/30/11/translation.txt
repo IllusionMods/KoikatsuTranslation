@@ -1,4 +1,6 @@
-
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
 「もう、決めた。あたし、あんたと別れる」=“I've decided. I'm breaking up with you.”
 「え……？　どうして？　俺たち、あんなに仲良かったじゃないか」=“Eh...? Why? Didn't we get along really well?”
 「仲良しと恋愛は全然違うのよ。似てるけど、ちゃんとそこにも境界線があるの」=“Getting along and being in love are different things. They look similar but, there's a thin boundary between them all the same.”

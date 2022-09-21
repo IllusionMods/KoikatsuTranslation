@@ -1,4 +1,7 @@
-﻿「お前恋人出来たらやってみたいこととかあんのか？」=Is there anything you'd like to do, if you ever get a girlfriend?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「お前恋人出来たらやってみたいこととかあんのか？」=Is there anything you'd like to do, if you ever get a girlfriend?
 「う～ん、そう言われてみるとなんだろうなぁ～」=Mmm~, I wonder, never really thought about it~
 「あ、そうだ恋人繋ぎやってみたいな！」=Ah, right, I'd love to do that couple's handholding thing!
 「恋人繋ぎ……？　あぁあれか手を絡ませるやつな、やってみようぜ」=Couple's handholding...? Aah, you mean where you entwine your fingers and stuff too, right? Let's try it out.

@@ -1,0 +1,19 @@
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「どんどん人が乗ってくるね……ごめん、少し詰めてくれる？」=“More and more people keep getting on, don't they... sorry, mind if we squeeze in together a bit more?”
+「ちょ、さすがに近づきすぎよ」=“Hey--, this really is way too close.”
+「でも、余裕がもうなくて……うおっ」=“But, there really is no spac... uwoph--”
+（っ、俺の股間が[H名]にあたってる……うっ、気持ちいい……）=(--, my crotch's poking straight into [H名]... uu--, feels good...)
+CHOICE:『欲望に身を任せる』=『Give in to your desires』
+CHOICE:『鉄の自制心で堪える』=『Bear it with an iron will』
+（あぁ、気持ちよさに抗えない……）=(Aah, I can't defy the pleasure...)
+「あ、あんたの……どんどん大きくなってるんだけど」=“Y-Your... keeps getting bigger and bigger.”
+「……ごめん。どうしようもないから、しばらく我慢してくれないかな？」=“...Sorry. There really isn't anything I can do about it, could you bear with it for a little bit?”
+「嘘でしょ……どんな方法でもいいから、小さくしてよ……」=“You're kidding, right?... I don't care what you have to do, just make it smaller...”
+「……どんな方法でもいいんだね？　わかった」=“...You really don't mind no matter what I do, right? Got it.”
+「へっ……ま、まさか、この状況でするつもりなの……！？」=“Eh--... n-no way, are you really planning on doing it here...!?”
+「少しの辛抱だから……」=“Just put up with it for a little bit...”
+（我慢、我慢だ俺っ！　盛りのついた動物じゃないんだから！）=(Endure, you're gonna endure, me--! You're not a fucking dog in heat!)
+（いい匂いもしないし、やわらかい感触なんて当たってない……平常心、平常心）=(You're not smelling anything nice, nor are you feeling something heavenly soft at all... keep your cool, keep your cool.)
+（……持ってくれよ、俺の自制心っ）=(...Please hold on, me--)

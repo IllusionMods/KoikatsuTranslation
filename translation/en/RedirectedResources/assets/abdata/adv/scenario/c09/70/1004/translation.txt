@@ -1,0 +1,19 @@
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+モブ=Mob
+「お疲れ様でした。ふふっ、素敵な式でしたよ」=“Good work today. Fufu~ It was a lovely ceremony.”
+「本番の結婚式も、是非、私どもの式場で挙げてくださいね！」=“For your actual wedding as well, please, do call upon us!”
+「えっと、前向きに考えさせてもらいます」=“Uhm, sure, if we get to that point.”
+「お願いします！　今日はお引き受けいただいて、ありがとうございました」=“Thank you! And for helping us out so much today as well, thank you very much!”
+「お疲れ様」=“Good job.”
+「ん……ごめん。聞いてなかった……何か言った？」=“Nn... Sorry. I wasn't listening... did you say something?”
+（あれ？　[H名]……なんかぼーっとしてる）=(Huh? She's kinda... spacing out.)
+「どうしたの？　大丈夫？」=“What's the matter? You okay?”
+「ああ……うん、大丈夫よ。なんだか、夢の中にいる感じが残ってて……」=“Aah... yeah, I'm okay. I just still feel like, that I'm still in a dream...”
+「そっか。結婚式って、やっぱり特別なんだね」=“I see. Guess a wedding really is special, huh?”
+「そうね、いい経験したわ。これで本番もバッチリかな」=“Yeah, it was a good experience. With this, the real one will go off without a hitch too.”
+「本番ね……そうか、今日は本番じゃないんだよな……」=“The real one, huh... right, this wasn't a real one, was it...”
+（本番も俺と……なんて言える度胸があればな……）=(If only I had the courage... to ask her to have me, for her real one as well...)
+「さ～って……それじゃあ、素敵な経験ができたってことで、帰りますか！」=“Now then~... we had such a wonderful experience and everything, time to head home!”
+「あ～あ、一気に現実に戻してくれちゃって……でもまあ……いつまでも余韻に浸ってられないわね」=“Aah~, why'd you have to drag me back to reality... but well... guess we can't bask in the afterglow forever.”

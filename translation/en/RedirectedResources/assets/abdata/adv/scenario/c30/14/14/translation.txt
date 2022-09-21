@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「ふふっ、おはよう……お寝坊さんはよく眠れたかしら？」=Fufu, good morning... Did you sleep well, sleepyhead-san?
 「おはよう。ごめんね、[H名]の隣だとなんだかぐっすり眠っちゃって……」=Good morning. Sorry about that, I slept so soundly being next to you [H名]...
 「ふふっ、そういうの嬉しいな、もー。母性本能って言うのかしら？　そういうのくすぐられちゃう……もう……大好き！」=Fufu, I'm happy to hear that, geez. I wonder if this is what they call maternal instinct? It makes me feel kinda tingly... geez... I love you!

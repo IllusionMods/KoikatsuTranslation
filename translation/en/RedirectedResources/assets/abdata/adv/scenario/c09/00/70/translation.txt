@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「ねえ。よかったら、ここんとこ教えてくれない？」=“Hey. If it's okay, could you help me with this bit?”
 「え、いいよ？　……ええ？　こんなのも分からないの？」=“Eh, sure. ...Eeh? You don't even know this much?”
 「悪かったわね！　そんなこと言うんだったら、あんたにお願いしない！」=“Well, damn, my bad then! If that's what you're gonna be like, then I won't ask again!”

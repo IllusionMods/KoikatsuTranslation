@@ -1,9 +1,14 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 （う～～ん、[H名]さんは普段から妖艶だけど、歌うともっと色っぽいなぁ……ムラムラが止まらない……！）=(Mmmmm, [H名]-san is attractive in general but, she gets even sexier when she sings... I'm so turned on...!)
 「ねぇ、なんだか熱くない？」=Hey, isn't it kinda hot?
 「えっ、あ、エアコンの温度下げる？」=Eh--, Ah, Should I lower the A/C's temperature?
 「ラブソングを歌ったから、身体が火照ってきちゃっただけよ」=It's because I just sang a love song, my body's burning up, that's all.
 （え……？　これ、誘われてる？　ていうか、俺がムラムラしてるの、バレてる？）=(Eh......? Is this an invitation? For that matter, can she tell that I'm horny?)
 「くすっ♡　あと何曲ラブソングを歌ったら我慢できなくなるのかしら♡」=*Giggle*♡ I wonder how many more love songs it'll take before you can't endure it anymore♡
+CHOICE:『もう我慢の限界だよ』=『I'm at the limit of my endurance』
+CHOICE:『もっと[H名]さんの歌が聞きたいな』=『I want to hear you sing even more, [H名]-san』
 「も、もう限界だよ。[H名]さん」=I-I'm already at my limit, [H名]-san.
 「あら？　何が限界なの？　お姉さんに教えてくれる？」=Oh dear? What limit is that? Will you tell this Onee-san?
 「[H名]さんとエッチしたい気持ちが昂りすぎて、もう抑えられないよ。抑えなくていいよね？」=I want to have sex with you so bad, [H名]-san, I can't bear it anymore. It's alright if I can't bear it, right?
@@ -18,6 +23,3 @@
 「望むところだ！」=Perfect, that's just what I want!
 「ふふ♡　エッチなことよりカラオケの方に火がついちゃいそうね」=Fufu♡ Feels like we're going to get more fired up about the karaoke than the sex.
 [H名]さんの予想通り、途中から二人で熱唱するのが楽しくなって、エッチせずにカラオケを後にするのだった。=Just as [H名]-san said, midway through we started having so much fun singing together, we left the karaoke place without having sex at all.
-
-CHOICE:『もう我慢の限界だよ』=『I'm at the limit of my endurance』
-CHOICE:『もっと[H名]さんの歌が聞きたいな』=『I want to hear you sing even more, [H名]-san』

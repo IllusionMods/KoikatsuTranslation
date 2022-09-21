@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「あなたと話すのはなんだか楽しいなぁ」=“Chatting with you is kinda fun~”
 「仲良くなると、もっと話したいことが増えていきそうだね」=“Bet we'll probably keep finding more and more things to chat about, the closer we get.”
 「そうだね。もっと仲良くなれたらいいね」=“Yeah. I hope we do.”

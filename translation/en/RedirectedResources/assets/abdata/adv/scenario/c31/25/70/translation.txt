@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「二人でやると、勉強も楽しいね」=When we do it together, even studying is fun, don't you think?
 「あぁ、否定はできないな。効率も上がるし、良いこと尽くめという訳か」=Yeah, I can't refute that. The efficiency goes the roof too, nothing but good stuff.
 「このまま一緒にやっていたら、二人で学園トップの秀才になっちゃうかもね」=If we keep doing it together like this, we might end up becoming the top prodigies in this school.

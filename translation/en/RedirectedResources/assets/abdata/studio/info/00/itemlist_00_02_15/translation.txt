@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 ロッカー1=Locker 1
 ロッカー2=Locker 2
 ロッカー3=Locker 3

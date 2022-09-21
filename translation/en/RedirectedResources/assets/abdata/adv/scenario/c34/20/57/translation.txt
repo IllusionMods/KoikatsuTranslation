@@ -1,4 +1,7 @@
-﻿「おお！　その服、可愛いね！　キュート！」=Ooh! Those clothes, they're really cute!
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「おお！　その服、可愛いね！　キュート！」=Ooh! Those clothes, they're really cute!
 「アウゥ……ｃｕｔｅ，ｔｈａｎｋ　ｙｏｕ♡　スゴク迷う甲斐ありマシタ♡」=Auuu... thank you♡ It was worth it, to spend all that time, deciding on clothes.
 （めちゃくちゃ緊張してる。可愛いなぁ）=(She's super nervous. So cute)
 「ア、アナタも、ｃｈａｒｍｉｎｇネ♡　今日ハ、ドコ行くデスカ？」=Y-You too, you look super charming♡ Where are we going todayy?

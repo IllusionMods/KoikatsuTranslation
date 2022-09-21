@@ -1,9 +1,15 @@
-﻿………………=.........
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+………………=.........
 …………=......
 ……=...
 「ここまで戻ってきたね……」=We already made our way back here, huh...
 「うぅん……少し寂しい。でも、今日は一日、楽しかったわ」=Mmm... It feels a bit lonely. But, I had a great time today.
 「うん、楽しんでもらえてよかった」=Yeah, I'm glad you enjoyed it.
+CHOICE:『自宅に誘う』=『Invite to your place』
+CHOICE:『ラブホに誘う』=『Invite to a love hotel』
+CHOICE:『さよならする』=『Say goodbye』
 「けど、やっぱり名残惜しいよね……えーっと、その……もしよかったら、だけどさ、俺んち、来ない？」=But, I really don't want to part here... erhm, listen... if you'd like, only if you'd like, wanna like, come to my place?
 「うふふ、行っちゃおうかな♪　実は、家にはもっと遅くなるって言ってたの」=Ufufu, maybe I will♪ I actually told my parents that I'd be out for much later today.
 「は、話が早いね……」=T-That was fast...
@@ -23,7 +29,3 @@
 「……でも、やっぱりちょっと名残惜しいよ」=...But, it really does feel sad.
 「ええ、ホントに……でも、この寂しい気持ちが次に遊ぶ喜びになるのよ」=Yes, it does... but, this sadness will turn into feelings of anticipation for the next time we hang out together.
 「……うん、また、遊ぼうね。ばいばい」=...Yeah, let's hang out again sometime. Byebye.
-
-CHOICE:『自宅に誘う』=『Invite to your place』
-CHOICE:『ラブホに誘う』=『Invite to a love hotel』
-CHOICE:『さよならする』=『Say goodbye』

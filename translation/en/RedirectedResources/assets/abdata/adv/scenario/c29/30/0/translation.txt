@@ -1,4 +1,7 @@
-﻿「あっ。今いい？　ちょっと話をしたいんだけど」=Ah--. Got a moment? I'd like to talk to you for a bit.
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「あっ。今いい？　ちょっと話をしたいんだけど」=Ah--. Got a moment? I'd like to talk to you for a bit.
 「あら？　あなたは……確か転入生の。別に構いませんよ」=Oh? You are... the transfer student, if I recall correctly. I don't really mind.
 「ありがとう。俺、[P名前]っていうんだ。もしかしたら、どこかで名前を聞いてるかもしれないけど」=Thanks. I go by [P名前]. Guess you might have heard my name before too.
 「ええと……そう言えば耳にしたことがあったかもしれません」=Errhm... now that you mention it, I do think I heard of it, yes.

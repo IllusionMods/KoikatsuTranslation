@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「ふぅ、す、少しはこの感じにも慣れてきたかな」=“Fuuh, I-I think I'm getting used to this stuff too.”
 「じゃあ今日はちょっと大胆に攻めてみようかな！」=“Guess I'll up the ante a little bit today then!”
 「えっ！　う、うん……お手柔らかにぃー」=“Eh--! O-Okay... go easy on me~”

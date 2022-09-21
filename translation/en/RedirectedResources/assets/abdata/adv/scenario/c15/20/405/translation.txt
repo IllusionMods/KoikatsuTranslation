@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「もぐもぐ……うんっ！　ここのハンバーグは美味しいぞ！」=“*chew chew*... yeah--! This hamburg steak's delicious!”
 「それならよかった。それにしてもすごいな。ハンバーグの匂いがこっちまで……匂いを嗅いでるだけで、こっちのお腹も空いてくるよ」=“Glad to hear that. Nevertheless, it's pretty amazing. I can smell it all the way from here... even my belly's opening up here, from the aroma of that steak.”
 「[H名]がよければ、一口もらえないかな？」=“If it's alright with you, [H名], could I have a bite?”

@@ -1,4 +1,7 @@
-﻿「えへっ、デートだぁ♪」=Ehe--, we're on a date♪
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「えへっ、デートだぁ♪」=Ehe--, we're on a date♪
 「はしゃいでる[H]を見てたら俺も嬉しくなるよ。けど、転ばないように注意してね？」=Looking at you being so bubbly makes me happy too. But, be careful not to trip, okay?
 「いつもこんな気持ちだったらいいのになぁ」=If only I could feel like this forever.
 「いつもそんなにふわふわしてたら、いずれ空に浮いちゃうかもしれないぞ？」=If you stay bubbly like that forever, you might just float away right into the sky like an actual bubble, you know?
@@ -6,10 +9,9 @@
 「あはは、確かに素敵だけど、実際はいくらふわふわしても浮かないよ！」=Ahaha, that does sound lovely indeed but, in reality, no matter how bubbly you may feel, you will never float away into the sky!
 「そうなんだ……けど、本当に浮いちゃったら、デートなんて出来ないよねぇ！」=I see... but, if I really did float away, we wouldn't be able to go on dates anymore, so who wants to do that!
 「デートの終わりは、いつも寂しくなるね」=When it comes time to wrap things up, it always makes you feel sad, doesn't it?
+CHOICE:「……良かったら、俺の家に来ない？」=If it's alright, won't you come to my place?
+CHOICE:「またすぐ学園で会えるよ」=We'll see each other at school again real soon.
 「……良かったら、俺の家でデートの続きをしないか？」=......If it's alright, won't you continue our date with me at my place?
 「ええっ、本当に？　私もこのままバイバイしたくなかったの……」=Eeh--, really? I didn't want to just say goodbye like this either...
 「そうだな。でもまたすぐ学園で会えるよ」=Yeah, it does. But, we'll see each other at school again real soon.
 「そうだね。また学園で、バイバイ！」=You're right. See ya at school, byebye!
-
-CHOICE:「……良かったら、俺の家に来ない？」=If it's alright, won't you come to my place?
-CHOICE:「またすぐ学園で会えるよ」=We'll see each other at school again real soon.

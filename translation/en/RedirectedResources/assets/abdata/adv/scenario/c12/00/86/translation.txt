@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「うーん、あたしらさ、もう恋人同士なわけだし。わざわざコイカツってのもおかしいよな？」=“Nnnn, we're already a couple and stuff, going out of our way to do these love activities is just weird, no?”
 「じゃあこんなのどう？　[H]、愛してる。結婚して欲しい」=“Then how about this? [H]. I love you. Marry me.”
 「えっ、ぁっ……ぅっ、ぁ……は、はい……って……え？　ほ、本気？」=“Eh--, ah--... uu--, ah... o-okay... wuh... eh? A-Are you serious?”

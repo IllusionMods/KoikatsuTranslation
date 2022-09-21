@@ -1,4 +1,6 @@
-
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
 「行き先も告げずについて来いって……どこに行くのよ？」=“You want me to follow you without knowing where we're going...Where are we going?”
 「まぁまぁ、いいからついてきてよ」=“It'll be fine, just follow me.”
 「変なところに連れて行ったら許さないわよ」=“If you take me to a weird place I'll never forgive you.”

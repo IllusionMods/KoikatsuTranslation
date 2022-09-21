@@ -1,4 +1,6 @@
-
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
 「へえ、あんた面白い子ね！　気に入ったわ！」=“Hoh, you're a pretty interesting guy! I've taken a liking to you!”
 「はは……どうも。でも、気に入ったとか、上から目線の言葉は使わない方がいいと思うよ」=“Haha... thank you. But, taken a liking to me and stuff, I think you'd be better off using less condescending words, just saying.”
 「あっ！　いけない……またやっちゃった……」=“Ah--! Darn... I did it again...”

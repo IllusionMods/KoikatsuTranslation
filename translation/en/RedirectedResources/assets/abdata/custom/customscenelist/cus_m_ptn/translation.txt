@@ -1,4 +1,6 @@
-
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 笑顔=Smiling
 嬉しい=Happy (Broad)
 嬉しいs=Happy (Moderate)

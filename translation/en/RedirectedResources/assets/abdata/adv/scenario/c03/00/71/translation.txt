@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「か、彼氏とお勉強だなんて……ドキドキするです……」=“A-A study session with my boyfriend... my heart's pounding...”
 「そんなに緊張しなくてもいいよ。普通に勉強するだけだよ？」=“You don't need to be so nervous, you know? We're just studying like normal, you know?”
 「普通に……お勉強……彼氏と……はわわ……」=“Studying... like normal... with my boyfriend... hawawah...”

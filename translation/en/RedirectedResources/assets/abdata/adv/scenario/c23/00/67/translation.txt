@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「これ、好きなアニメのキーホルダーなんだ。良かったら触ってみて」=“This keychain is from an anime I really love. Try touching it, if you want.”
 「うん。……へえ、良くできてるね」=“Okay. ...Hoh, it's pretty well made.”
 「えぇ、そうなんだ。ふふ、ふ。つ、つかまえた。ギュッ」=“Yes, it is. Fufu, fuh. I-I got you. *squeeze*”

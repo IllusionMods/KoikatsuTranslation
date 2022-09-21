@@ -1,4 +1,7 @@
-﻿「ふぇぇ、疲れたよぅ……もうぐったり……」=Fueeeh, I'm beat~... completely...
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「ふぇぇ、疲れたよぅ……もうぐったり……」=Fueeeh, I'm beat~... completely...
 「あはは、それじゃ少し休む？」=Ahaha, well then, wanna take a little break?
 「うん……って、君は全然平気そう。やっぱり男の子って体力あるんだね」=Yeah... you seem perfectly okay though. Boys really do have a lot of stamina, huh?
 「うーん、そうだね。女子よりはあるかも。でもきみのタイミングで再開していいからね」=Mmm, yeah. Probably more than your average girl. But, don't mind it, we can get back to it when you're feeling good to go, okay?

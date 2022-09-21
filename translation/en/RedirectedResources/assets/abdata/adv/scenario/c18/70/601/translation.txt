@@ -1,0 +1,9 @@
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「こういうところは初めて来たんですけど……ワケありの部屋だったりしないでしょうか？」=It's my first time coming to a place like this but... doesn't it feel like there's something up with this room?
+「えっ、なんか幽霊とかいたの？」=Eh--, did you see a ghost or something?
+「いえ……私が選んだ部屋ですから……」=No... it's just that, I was the one who picked this room so...
+「まぁまぁ、ネガティブなことはかんがえないで……」=Now now, stop thinking about negative stuff...
+「こっちに来てさ、全部忘れて一緒に幸せになろうよ？」=Come here, let's forget everything and become happy together?
+「そ、そうですね……よろしく、お願いします」=O-Okay... please, take care of me.

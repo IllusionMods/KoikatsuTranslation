@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「今日は下僕にプレゼントをあげるわ。ほら、開けてみなさい」="I have a present for you today, my manservant. Go ahead and open it."
 （おぉ、[H名]さんからプレゼント！　高級そうな箱に入ってるけど、中身は何だろ？）="Woah, a present from Miss [H名]! The box looks pretty luxurious, I wonder what's inside."
 「えっ……これってその……首輪？」="Umm... It's... A collar?"

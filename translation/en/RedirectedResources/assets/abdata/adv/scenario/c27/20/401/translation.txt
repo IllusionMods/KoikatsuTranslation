@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「そういえばこの前、少女漫画を買ってみたんだ。今度映画化されるやつ」=“Reminds me, I bought this shoujo manga the other day. You know, the one that's being adapted into a movie soon.”
 「そうなの！？　どうどう、面白かった？」=“You did!? How was it, was it fun?”
 「すごく面白かったよ。序盤から引き込まれて、胸がきゅんとしてさ。やっぱ、人気作品なだけあるよね」=“It was really fun. It hooked me in right from the first page, I was on the edge of my seat the whole time. Popular works are popular for a reason, huh?”

@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「次に来たときは何に乗ろうか？　俺としては、ジェットコースターは外せないんだけど」=“What should we ride when we come here next? I'm definitely going to get on that roller coaster one more time.”
 「あの水のコースターとかも、また乗ってみたいかな」=“I wanna try riding that water slide again too.”
 「あー、よかったよね。飛沫が涼しくて。うん、あれも絶対乗ろう！」=“Ah~, it was great, wasn't it? The water jets were so refreshing. Yeah, let's ride that one for sure too!”

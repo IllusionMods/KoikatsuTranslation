@@ -1,1 +1,4 @@
-﻿「これは山吹色の……おぬしも悪よのぅ。なーんて、ふふっ。ありがとう」=This is a... you're a pretty conniving old fox too, mister. Kidding. Fufu--, thank you.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「これは山吹色の……おぬしも悪よのぅ。なーんて、ふふっ。ありがとう」=This is a... you're a pretty conniving old fox too, mister. Kidding. Fufu--, thank you.

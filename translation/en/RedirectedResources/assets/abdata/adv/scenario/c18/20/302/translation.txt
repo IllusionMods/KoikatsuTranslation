@@ -1,4 +1,7 @@
-﻿「……ふぅ。なにごともなく無事に歌い終わりました」=...Fuu. I managed to sing to the end without any issues.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「……ふぅ。なにごともなく無事に歌い終わりました」=...Fuu. I managed to sing to the end without any issues.
 「そんなに心配しないでも大丈夫だって。この調子で楽しんじゃおう！　じゃあ次は俺が歌うね」=You really don't need to worry so much. Let's keep the show going! I'll go next, okay?
 「はい。……でも、私のリモコンは使わないほうがいいと思いますよ」=Okay. ...But, I think you should use a different remote, don't use the one I used.
 「なんで？　そんなにこっちのと違いがあるようには見えないけれど」=Why? I can't see much of a difference between the one you used and this one.

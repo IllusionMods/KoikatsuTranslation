@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「今回の試験は特に難しそうだね」=“The next test is gonna be a hard one, huh?”
 「わ、我も……共にがんばろうぞ」=“I-I shalt... do my best, as well.”
 「気合十分だね、さあ、やろう！」=“We don't want for spirit, atleast. Let's go get 'em!”

@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 //「昔から、どうしても食事を摂るタイミングを逃しがちなのよね」=
 「昼休みも有効活用しなくては、ね」=“Make good use of your lunch break, all right?”
 「午後からも頑張るのよ」=“Do you best this afternoon.”
@@ -7,5 +10,3 @@
 「もう放課後よ。遅くならないうちに帰りなさい？」=“School's already over. Shouldn't you head home before it gets too late?”
 「真っ直ぐ家へ帰って、しっかり勉強すること。良いわね？」=“Head straight home and study hard. Understood?”
 「そろそろ暗くなるわ。用事がないのなら下校するように」=“It's getting dark. If you don't have any duties you should head home.”
-
-麗奈=Reina

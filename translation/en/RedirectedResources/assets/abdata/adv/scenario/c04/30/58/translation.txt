@@ -1,4 +1,7 @@
-﻿「ごめん、待たせちゃったかな」=Sorry, did I make you wait?
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「ごめん、待たせちゃったかな」=Sorry, did I make you wait?
 「ううん、今来たとこ。なんて、一度言ってみたかったのよね……ふふっ」=No, I just got here. Heh, I've always wanted to try saying that... fufu--
 「ここの喫茶店、パンケーキが美味しいんだって」=This cafe's pancakes are pretty highly reviewed, apparently.
 「そうなんだ。じゃあ入ってみようか」=I see. Let's head in then.

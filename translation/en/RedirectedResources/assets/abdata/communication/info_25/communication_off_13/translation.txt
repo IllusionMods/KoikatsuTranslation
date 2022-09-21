@@ -1,4 +1,7 @@
-﻿「え？　なんでこんなところにいんの！？　 男子は出てけ―！」=Eh? Why are you in this sort of place!? Boys need to get the fuck out!
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「え？　なんでこんなところにいんの！？　 男子は出てけ―！」=Eh? Why are you in this sort of place!? Boys need to get the fuck out!
 「ちょ、ちょっと！　マジありえないんだけど！　見るな～！」=H-Hey! This is super unbelievable! Don't look~!
 「ごめん、今急いでるから」=Sorry, I'm busy right now.
 「なに？　アタシに何か用？」=What is it? Need something from me?
@@ -32,7 +35,7 @@
 「そんな話じゃなくてさ、もっと楽しい話しようよ」=Rather than that, let's talk about something more fun.
 「今日はなんだか眠そうだね」=You look kinda sleepy today.
 「そ～、昨日夜更かししちゃってさ～。マジ眠いんだよね～」=I am~, I stayed up till late last night, you see~. I'm super sleepy~
-「今日までの課題、やってきた？」=Did you do the assignments due today?
+「出された課題はちゃんとやってる？」=Do you do the assignments they hand out to us?
 「もちろん。意外とマジメなんだよ？」=Of course. I take my studies pretty seriously, you know?
 「ふわぁ……あっ、ごめん少し眠くて」=Fuwah... ah--, sorry, I'm a bit sleepy.
 「夜更かしでもした？　アタシも見たいドラマがあって遅くまで起きてたんだ」=Did you stay up till late last night? I stayed up late too, since there was a TV drama I wanted to watch.
@@ -208,7 +211,7 @@
 「キスってしてみたいと思う？」=Do you have any interest in trying out kissing?
 「そ、そんなキスとか……恥ずかしいじゃん。で、でもキョーミはある……かな」=K-Kissing and stuff is... embarrassing. B-But, I do... have some interest.
 「そ、そんなの恥ずかしいじゃん！」=T-That sort of stuff is super embarrassing!
-「ねね、もっと違う話も聞かせて。」=Hey, let's talk about something else.
+「ねね、もっと違う話も聞かせて」=Hey, tell me about some other stuff too.
 「そういえばこの間、家の近くで……」=Reminds me, the other day, near my house...
 「それマジ？　衝撃の瞬間じゃん！」=For real? What a moment it must have been!
 「友達のエッチな話とかよく聞く？」=Do you hear sex stories from your friends often?
@@ -344,7 +347,7 @@
 「あは、じゃついでに女の子の事も勉強しちゃう？　なーんてね」=Aha, then while we're at it, wanna study the female body too? Kidding~
 「そっか～。それならまたの機会にするよ～」=I see~. I'll ask another time then~
 「一緒に運動しよう」=Let's exercise together.
-「いいよ～。どんな運動しよっか。」=Alright~. What sort of exercise do you wanna do?
+「いいよ～。どんな運動しよっか」=Alright~. What sort of exercise do you wanna do?
 「ごめん！　これからみんなと約束あるんだ～」=Sorry! I really gotta make good on a promise to my friends in a bit~
 「もしよかったら一緒に運動しない？」=If it's alright with you, won't you do some exercise with me?
 「やった～！　じゃあ君の得意な種目でいいよ～」=Yay~! We can play whatever sport you're good at~
@@ -377,7 +380,7 @@
 「見に来てくれたの？　じゃあアタシが頑張るとこちゃんと見ててね」=Did you come to see me? Then watch me do my best, okay?
 「会いに来てくれたの？　アタシも……その、会いたかった」=Did you come to see me? I wanted to... uhm, see you too.
 「今コイカツ中？　よかったらアタシとしようよ」=In the middle of love activities? If you'd like, do them with me.
-「あ～疲れた。 [P]くんの成分補充しなきゃ～」=Aah, I'm so tired~. I gotta get my daily dose of you, [P名]-kun~
+「あ～疲れた。[P]くんの成分補充しなきゃ～」=Aah, I'm so tired~. I gotta get my daily dose of you, [P名]-kun~
 「やっほ～、話したいことたくさんあるんだ～」=Heyo~, I have lots I want to chat with you about~
 「わわっ！　びっくりした～。[P]くんならもっとエッチなイタズラでもよかったんだよ？」=Wawah--! You got me~. You could have played an even more lewd prank if you wanted, you know?
 「何から話そうかな～。世間話？　コイバナ？　それとも……エッチな話？」=What should we talk about first~? Just gossip? Love talk? Or should we... talk about lewd stuff?
@@ -469,7 +472,7 @@
 「あは、どーかした？」=Aha, something the matter?
 「あ、アタシ顔赤くなってない？　もぉ恥ずかしいよぉ～」=Ah, isn't my face getting all red? It's super embarrassing~
 「もう、さすがに恥ずかしいってば」=Jeez, it really is embarrassing.
-「もぉ、ほーんと大好きだよね。」=Jeez, you really do love them, don't you?
+「もぉ、ほーんと大好きだよね」=Jeez, you really do love them, don't you?
 「そんなに触りたいの？　でも今はダーメ。また後で……なんてね？」=You want to touch them that badly? You can't right now, though. Maybe later... okay?
 「ほら、恥ずかしくなってきちゃったからおしまい。ドキドキしたらとまらないから……」=Come on, it's getting really embarrassing so no more. If my heart starts racing it won't stop...
 「ちゃんと目見て話そ？」=Let's talk while looking at each other's eyes, okay?
@@ -563,9 +566,3 @@
 「ちょっと、ちょっと！　今は他の子がいるからヤバイって！」=Hey, hold up! There are other girls here right now!
 「もちろんいいよ。大歓迎！」=Of course you can. We'd love to have you1
 「ありがと～、すっごい嬉しい」=Thanks~, I'm super happy.
-
-「出された課題はちゃんとやってる？」=Do you do the assignments they hand out to us?
-「ねね、もっと違う話も聞かせて」=Hey, tell me about some other stuff too.
-「いいよ～。どんな運動しよっか」=Alright~. What sort of exercise do you wanna do?
-「あ～疲れた。[P]くんの成分補充しなきゃ～」=Aah, I'm so tired~. I gotta get my daily dose of you, [P名]-kun~
-「もぉ、ほーんと大好きだよね」=Jeez, you really do love them, don't you?

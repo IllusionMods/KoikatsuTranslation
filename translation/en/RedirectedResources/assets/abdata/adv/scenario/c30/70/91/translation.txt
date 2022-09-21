@@ -1,0 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「おはよう、[Pあだ名]。今日も一日頑張りましょうね」=Good morning, [Pあだ名]. Let's work hard today as well.
+「おはよう、[Hあだ名]。うん、頑張ろう」=Morning, [Hあだ名]. Yeah, let's.
+「ふふっ、朝からすごくラブラブな感じね。嬉しい♪」=Fufu, feeling like lovebirds from the start of the day. I'm so happy ♪

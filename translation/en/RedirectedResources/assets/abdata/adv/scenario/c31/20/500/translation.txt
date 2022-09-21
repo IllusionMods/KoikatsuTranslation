@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 ………………=.........
 …………=......
 ……=...
@@ -6,6 +9,9 @@
 「この際同棲しちゃう？　なんてね、ははは……」=Wanna take this chance and live together? Just kidding, hahaha...
 「ど、同棲か……うん、そうだな、悪くない提案だ。前向きに考えるとしよう」=L-Living together, huh... Yeah, indeed, that's not a bad idea. I'll try giving it some thought.
 「えっ、ほんとに？　それは嬉しいな。そうしたら、とりあえず今日は……」=Eh--, really? That makes me really happy. In that case, for the time being, we should...
+CHOICE:『俺の家に寄っていかない？』=『Won't you come to my place?』
+CHOICE:『ホテルに泊まるとか、どう？』=『How about we stay the night at a hotel?』
+CHOICE:『早めに帰って、あとで電話するよ』=『Let's get home quickly, then chat on the phone.』
 「やっぱり名残惜しいから、俺の家でもう少し一緒にいたい」=I really don't want to part ways here, I want to spend a bit more time with you, at my place.
 「フッ、そうストレートに言われてしまってはな。断れるわけないだろう」=Pfft, that sure is a straightforward request. I can't exactly refuse, now can I?
 「えっと、これはあくまで提案なんだけど……ホテルに泊るとかどう？」=Erhm, this is just an idea so feel free to refuse but... wanna spend the night at a hotel?
@@ -22,7 +28,3 @@
 「はは、流石にそこまでは……するかも」=Haha, even for me, that's a bit... I might take you up on that.
 「だろうな、まぁいつもの事だ。帰ってお互い風呂に入った後にでも、ゆっくり話そう」=I'll bet, well, not that it's any different from usual. After we get home, let's talk slowly, even after we both take a bath.
 「うん、そうだね。さっきまで名残惜しかったのに、逆に早く帰りたくなってきたよ」=Yeah, let's do that. Even though I felt reluctant to part till just a few moments ago, now I instead want to quickly get home.
-
-CHOICE:『俺の家に寄っていかない？』=『Won't you come to my place?』
-CHOICE:『ホテルに泊まるとか、どう？』=『How about we stay the night at a hotel?』
-CHOICE:『早めに帰って、あとで電話するよ』=『Let's get home quickly, then chat on the phone.』

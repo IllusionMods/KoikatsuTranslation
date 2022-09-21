@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「え……私……ですか……？　あなたが……私を……？」=“Eh... me...? You... want to...?”
 「うん、[H]だよ。俺、[H]のことが好きなんだ」=“Yeah, you, [H]. You're the girl I love, [H].”
 「え……あ……す、好きって……その……そういう好き……ですか？　ああいう好き……ではなく？」=“Eh... ah... l-love... uhm... do you mean it... that way? Not that other sort of... love?”

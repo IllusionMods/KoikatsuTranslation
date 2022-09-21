@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「ありがとう。大丈夫だった？」=“Thank you. You okay?”
 「うん。……大丈夫」=“Yeah. ...I'm okay.”
 「そっか、よかった。なら、最後に」=“I see, I'm glad. Then, lastly.”

@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「ねぇ、[H名]、さっきから気になってたんだけどさ」=Hey, [H名], I've been thinking about this for a while, but...
 「なにかしら？」=What is it?
 「うん、あのね、俺達ずーっとストレッチしてない？　もう結構な時間、二人で伸ばし合ってるよ？」=Yeah, well, haven't we been stretching this entire time? Aren't we both stretched out enough after doing this for so long?

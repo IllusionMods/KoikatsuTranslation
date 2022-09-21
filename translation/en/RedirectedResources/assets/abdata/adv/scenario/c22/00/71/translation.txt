@@ -1,4 +1,7 @@
-﻿「彼氏と一緒にお勉強だなんて……青春だぁ！」=Studying together with my boyfriend... ah, youth!
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「彼氏と一緒にお勉強だなんて……青春だぁ！」=Studying together with my boyfriend... ah, youth!
 「[H]、ここ図書室だよ？」=[H], this is the library, you know?
 「わぁ！　ごめん！　つい嬉しくて……って、私達以外、誰もいないから大丈夫だよ」=Waah! Sorry! I just couldn't help myself... wuh, there's nobody else here apart from us, so it's fine.
 「あ……本当だ」=Ah... you're right.

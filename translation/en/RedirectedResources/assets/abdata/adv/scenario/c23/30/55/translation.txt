@@ -1,2 +1,4 @@
-
-//「おかしいなぁ……見つかったらいけないのに、すごく良かったよぅ……」=
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「おかしいなぁ……見つかったらいけないのに、すごく良かったよぅ……」=“How weird... even though it'd have been really bad if someone saw us, it felt amazing~...”

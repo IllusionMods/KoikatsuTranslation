@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「あの……」="Um..."
 「何？　この私に何か用かしら？　手短に済ませて」="Hm? What do you want? Make it quick."
 「えっ、あっ、うん！　えっと、俺の名前は……」="Err... Oh, yeah! Well, my name is..."

@@ -1,1 +1,4 @@
-﻿「えっ、私にプレゼント……？　ふふっ、楽しみ……何が貰えるのかな？」=Eh--, a present for me...? Fufu--, I'm excited... just what am I gonna get~?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「えっ、私にプレゼント……？　ふふっ、楽しみ……何が貰えるのかな？」=Eh--, a present for me...? Fufu--, I'm excited... just what am I gonna get~?

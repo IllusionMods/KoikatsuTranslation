@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 ………………=.........
 …………=......
 ……=...
@@ -6,6 +9,9 @@
 「な、泣いてないし。それくらい寂しいけど……」=“I-I'm not tearing up. I feel lonely enough to do so though...”
 「またすぐ会えるよ。少し時間が空いた方が、次に会った時感動するだろ？」=“We'll get to see each other again in no time. It'll feel even better when we meet up next time, if we spend some time apart, no?”
 「うん、でもやっぱり……」=“Yeah, but I really would rather...”
+CHOICE:『少しだけ俺の家に寄っていかない？』=Won't you stop by my place just for a little bit?
+CHOICE:『この際ホテルにいかない？』=Wanna take this chance to go to a hotel?
+CHOICE:『何でもない、帰ろうか』=It's nothing, let's go home.
 「少しだけ、少しだけでいいから、俺の家で話でもしようよ」=“A bit, just for a bit, just stop by my place for a bit, we could chat and stuff.”
 「あたし知ってるぞ、少しとか、話だけとかじゃ終わらないって」=“We both know it won't stop at just a chat, or last just for a bit.”
 「うっ、そう言われちゃうと……そうかもしれないけど、ダメかな？」=“Uu--, you're not wrong but... could we really not?”
@@ -24,7 +30,3 @@
 「っちゅ……」=“*kiss*...”
 「……んっ、これで少しの間は我慢できるな？　次に会った時は、もっといい事してやるから」=“...Nn--, this should help you hold on a bit, right? Next time we see each other, I'll do even more fun stuff for you.”
 「えっ、あっ……うん！　今日はありがとう！　次に会えるの、楽しみにしてる！」=“Eh--, ah--... yeah! Thanks for today! Let's see each other real soon!”
-
-CHOICE:『少しだけ俺の家に寄っていかない？』=Won't you stop by my place just for a little bit?
-CHOICE:『この際ホテルにいかない？』=Wanna take this chance to go to a hotel?
-CHOICE:『何でもない、帰ろうか』=It's nothing, let's go home.

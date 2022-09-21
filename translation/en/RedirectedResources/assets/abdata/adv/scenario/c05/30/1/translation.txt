@@ -1,4 +1,6 @@
-
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
 「ねえ、ちょっと話がしたいんだけど」=“Hey, I wanna chat with you a bit.”
 「……いいけど、なにか用？」=“...Sure but, what is it?”
 「えっと、今なにしてるのかなって」=“Erhm, was just wondering what you were up to.”

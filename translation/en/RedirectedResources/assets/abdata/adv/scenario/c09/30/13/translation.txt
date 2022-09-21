@@ -1,4 +1,6 @@
-
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
 「デート？　もちろんいいわよ！　……って、えぇ！　デート！？」=“A date? Of course! ...Wait, whut! A date?!”
 「うん。ダメ、かな？」=“Yeah. Guessing that it's a, uh, it's a no then?”
 「ダメなわけない！　いきなりだからビックリしただけで……もちろんＯＫよ！」=“Not at all! I just got shocked because you brought it up out of nowhere like that... of course, I'm all for it!”

@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 立ち=Standing
 仰向け=Looking Upward
 四つん這い=Hands & Knees

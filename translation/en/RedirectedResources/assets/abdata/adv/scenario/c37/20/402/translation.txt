@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「いい匂いだね」=Smells good, doesn't it?
 「はい、この豆の焙煎された匂い、好きです」=Yes, I like this smell, the smell of roasted beans.
 「挽きたてのコーヒーってずっと嗅いでたくなっちゃうなぁ」=Ah, this aroma of freshly ground coffee is to die for, I could smell this forever.

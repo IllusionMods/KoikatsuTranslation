@@ -1,1 +1,4 @@
-﻿「おはよう。朝のハグ、しましょ♪　ぎゅーっ」=Morning. Let's have a morning hug, shall we?♪ *hug*
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「おはよう。朝のハグ、しましょ♪　ぎゅーっ」=Morning. Let's have a morning hug, shall we?♪ *hug*

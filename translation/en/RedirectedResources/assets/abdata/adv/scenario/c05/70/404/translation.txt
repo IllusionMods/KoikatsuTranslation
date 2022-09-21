@@ -1,0 +1,33 @@
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「写真より美味しそうな料理、っていうのも珍しいね」=“Pretty rare to find food that looks better than the picture, huh?”
+「うん……そうだね」=“Yeah... it is.”
+「あはは。心ここにあらず、っていう感じだね」=“Ahaha. I see someone's a bit distracted.”
+「はっ……こ、これは違うの。今ちょうど、“かれら”の声を聞いていて……」=“Hah--... i-it's not what you think. I just, heard "their" voice just then so...”
+「そんなに取り繕わなくてもいいよ。早速、食べてみたら？」=“You really don't need to worry so much about it. Why not go for it?”
+「うんっ。いただきます」=“Okay--. I'm digging in.”
+「ん～っ。　甘い……幸せ……」=“Nn~. So sweet... I'm in heaven...”
+「それにしても半端じゃないクリームの量だね。くどい、って感じたりしないの？」=“At any rate, that's a heap of cream if I've ever seen one. Isn't it a bit too overly sweet?”
+「女の子の体の大部分は甘いもので作られているの。それは、“かれら”の仲間であるわたしでも同じこと」=“A good chunk of a girl's body is made up of sweet stuff. Even I, a comrade of "theirs", am the same way.”
+「そういうもんなのか」=“Is that how it works?”
+「ふはっ！　え？　あ、そうか！　うん、うん、なるほど……そうだよね……」=“Fuhah--! Eh? Ah, I see! Yeah, yeah, I understand... of course...”
+「[H名]？　いきなりどうしたの？」=“[H]? What's gotten into you?”
+「[P名]くん。“かれら”から交信が……あなたとも、この幸せを共有したほうがいいって……」=“[P]-kun. I just got a message... "they" told me that, I should share some of this happiness with you...”
+「いいの？」=“You sure?”
+「うん。わたしも、その方がいいと思う……あーん」=“Yeah. I think that, it's a great idea too... open wide.”
+「あーん……」=“Aaahn...”
+「あむっ。おおっ、本当にクリームの量がすごいな……これが噂に聞く、女の子の幸せ……甘って思うけど、なかなか癖になるね」=“*Bite*. Ooh--, there really is a ton of cream... so this is the rumoured, happiness of a girl, huh... it's sweet but, damn if it's not addictive.”
+「それに……[H名]に食べさせてもらうと、余計に美味しく感じる！　ありがとう！」=“Not to mention... being fed by you, makes it tastes way too damn good! Thank you!”
+「えへへ……どういたしまして」=“Ehehe... you are very welcome.”
+「そういや[H名]、甘いものは苦手じゃなかったっけ？」=“Reminds me, weren't you bad with sweet stuff, [H]?”
+「この抹茶プリンは甘さ控えめなんだよ。最近は、上品な甘さのスイーツも多いから」=“The sweetness in this matcha pudding is quite restrained. These days, there's lots of elegant sweets out in the market.”
+「だから……甘いものが苦手なのと、スイーツが好きなのは矛盾しないのっ」=“So... my dislike for sweet things, and my love for sweets don't conflict.”
+「あはは。力説するね」=“Ahaha. I see, I see.”
+「なら、俺の口にも合うかな？」=“In that case, do you think I'll like it?”
+「間違いなく合うよ。一口、食べる？　ほら、あーん」=“You definitely will. Want a bite? C'mon, open wide.”
+「いいの？　なら……あーん」=“You sure? Well then... aaahn.”
+「あむっ……うん、たしかに抹茶だと上品な甘さになるね」=“*bite*... yeah, matcha really does give it an elegant sweetness.”
+「[H名]にあーんしてもらったからかな？　すごく美味しいよ。俺の好物のひとつになったかも」=“It's really delicious. Wonder if it's because you fed it to me? I think it just became one of my favourites.”
+「本当？　やった……また、一緒に楽しめるものが増えたね」=“Really? Yay... yet another thing that we can enjoy together.”
+「[H名]のおかげだよ。食べさせてくれてありがとう」=“It's all thanks to you. Thanks for letting me try some.”

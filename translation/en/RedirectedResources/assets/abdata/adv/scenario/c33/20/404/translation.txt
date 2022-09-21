@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「おぉ、[H名]さんが頼んだ奴、おいしそう！　さすが常連さんだね」=Ooh, what you ordered looks delicious, [H名]-san! As expected from a regular.
 「ふふ、どっちも新作のスイーツだから、私も初めて食べるわ。せっかくだから、シェアしましょうか」=Fufu, both of them are new menu items, so I'm also eating this for the first time. This kind of stuff is rare, so shall we share?
 「いいね！」=Sounds good!

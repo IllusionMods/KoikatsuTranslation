@@ -1,4 +1,7 @@
-﻿「ここって、結構いい雰囲気のお店だよね」=This place's got a pretty nice atmosphere, doesn't it?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「ここって、結構いい雰囲気のお店だよね」=This place's got a pretty nice atmosphere, doesn't it?
 「そうですね……あまり喫茶店には詳しくないですが、ここの雰囲気は……好き、です」=Indeed... I don't really know much about cafes but, I like... the mood here.
 「あんまり喫茶店とか行かないんだ？」=You don't go to many cafes, huh?
 「可愛いお店とか見つけて、行きたいなぁと思うことは、あるんですけど……」=There are times, when I do find cute little shops, that I want to check out though...

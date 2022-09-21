@@ -1,1 +1,4 @@
-﻿「あっ、こんな素敵なもの……ほ、本当に貰ってもいいの？　ありがとう！」=Ah--, such a lovely thing... y-you sure I can have it? Thanks!
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「あっ、こんな素敵なもの……ほ、本当に貰ってもいいの？　ありがとう！」=Ah--, such a lovely thing... y-you sure I can have it? Thanks!

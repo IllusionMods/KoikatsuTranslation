@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「ほほ～！　おぉ～！」=“Hohoh~! Ooh~!”
 （ふふ、こんなに無邪気な[H名]が見れるなんて、誘って正解だったな）=(Fufuh, inviting her to this ride really was the right idea, she's so cute and innocent.)
 「何か見える？」=“See anything?”

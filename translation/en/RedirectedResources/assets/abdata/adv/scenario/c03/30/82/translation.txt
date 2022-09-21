@@ -1,5 +1,7 @@
-
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
 ………………=.........
 …………=......
 ……=...
-//「今日はつい食べ過ぎちゃったですー。でもありがとうなのです！」=
+「今日はつい食べ過ぎちゃったですー。でもありがとうなのです！」=“I couldn't help overeating today~. But thank you anyway!”

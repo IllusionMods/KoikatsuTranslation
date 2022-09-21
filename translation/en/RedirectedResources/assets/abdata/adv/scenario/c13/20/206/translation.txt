@@ -1,4 +1,7 @@
-﻿「[P名]くん、今日もマジ楽しかったね！　でも、さすがに疲れたかな～」=[P名]-kun, today was a blast too, wasn't it! But, it really was tiring~
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「[P名]くん、今日もマジ楽しかったね！　でも、さすがに疲れたかな～」=[P名]-kun, today was a blast too, wasn't it! But, it really was tiring~
 「ははは、確かに足がくたくただ」=Hahaha, yeah, my legs feel all battered too.
 「もっと一緒に……っふわぁ」=We could... --fuwah.
 「ねぇ～、少しここで眠っちゃってもいい～？」=Hey~, can I take a short nap here~?

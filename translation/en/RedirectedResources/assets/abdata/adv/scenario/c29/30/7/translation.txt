@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
 「…………」=“......”
 「あ、あのー……」=U-Uhm...
 「はっ……す、すみません、突然のことすぎて意識が飛んでいました」=Ha--... I-I'm sorry, that was just so sudden, I lost consciousness for a bit.

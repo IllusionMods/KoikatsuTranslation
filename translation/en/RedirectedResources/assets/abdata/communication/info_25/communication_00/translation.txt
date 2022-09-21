@@ -1,4 +1,7 @@
-﻿「何やってるの？　ここは女の子のヒミツの花園よ♡」=What are you doing? This is a secret garden only for girls♡
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「何やってるの？　ここは女の子のヒミツの花園よ♡」=What are you doing? This is a secret garden only for girls♡
 「ふふっ、間違えちゃったの？　今度から気をつけてね」=Fufu--, got the wrong door? Be careful next time, okay?
 「ごめんね、今ちょっと忙しいの。またね」=I'm sorry, I'm a bit busy right now, next time, okay?
 「えっと……何かご用？」=Erhm... you need something?
@@ -435,7 +438,7 @@
 「引かれちゃしょうがないわね……ほんのちょっとは我慢するわ」=It wouldn't do to make you feel creeped out... I'll try to endure it. Just a tiny bit.
 「ねぇ、やっぱり私にリードされてる方が楽？」=Hey, do you like it better when I take the lead?
 「任せて♪　何でも手取り足取り教えてあげる♡」=Leave it to me♪ I'll teach you anything and everything with some hands-on experience♡
-「甘えるのはあまり得意じゃないんだけれど……君のためなら頑張るわ」」=I'm not really all that good at depending on others... But I'll do my best for you.
+「甘えるのはあまり得意じゃないんだけれど……君のためなら頑張るわ」=I'm not really all that good at depending on others... But I'll do my best for you.
 「私と恋人になれて……幸せ？」=Are you happy... being my boyfriend?
 「私もよ！　きっと今、私たち、世界一幸せなカップルだわ」=Me too! I'm sure that right now, we're the happiest couple in the world.
 「君のこと、信じてないわけじゃないの。ただ、言葉で確認しておきたかっただけ……」=It's not like I don't trust you, I do. It's just, I wanted to confirm it with words, that's all...
@@ -560,6 +563,3 @@
 「もう、入ってきちゃダメよ？　入るなら、私しかいないときに、ね？」=Jeez, you can't come in here, you know? If you want to, first make sure I'm the only one here, okay?
 「入部してくれるの？　歓迎するよ！」=Will you really join the club? I'd love to have you!
 「嬉しいわ♡」=I'm glad♡
-
-「甘えるのはあまり得意じゃないんだけれど……君のためなら頑張るわ」=I'm not really all that good at depending on others... But I'll do my best for you.
-「ふふっ、どうしたの？　[Pあだ名]。もう、君が照れてどうするのよ」=Fufu--, what's up, [Pあだ名]? Jeez, what are you blushing for?

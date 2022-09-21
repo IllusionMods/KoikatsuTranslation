@@ -1,4 +1,7 @@
-﻿（ふぅ……そろそろ降りる準備しとかないと）=(Fuu... gotta get ready to get off.)
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+（ふぅ……そろそろ降りる準備しとかないと）=(Fuu... gotta get ready to get off.)
 （……今日のデートも良い思い出が作れたな）=(...Today's date made for some great memories too.)
 （特に最後の観覧車……ロマンチックで、本当に[H名]が言うように物語みたいだった……）=(Especially that ride on the ferris wheel... it was so romantic, just like [H名] said, it was fantastical...)
 （……この次も、二人が満足できる素敵なデートにしよう！）=(...Let's make the next date a satisfying one two, for the both of us!)

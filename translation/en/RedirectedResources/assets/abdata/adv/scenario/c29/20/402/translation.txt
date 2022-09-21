@@ -1,4 +1,7 @@
-﻿「ふぅ……。ここ、食べ物もだけど、やっぱり飲み物が美味しいね」=Fuu... the food's great here but damn if the drinks aren't so either.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「ふぅ……。ここ、食べ物もだけど、やっぱり飲み物が美味しいね」=Fuu... the food's great here but damn if the drinks aren't so either.
 「ええ。人気の理由がよくわかります」=Yes. It's easy to tell why this place is so popular.
 「あなたが飲んでいるのはレモンティーでしたね」=The one you've got is a Lemon Tea, right?
 「そうそう。レモンの爽やかな感じがすきなんだよね。[H名]はコーヒーだけど、よく飲むの？」=Right. Can't help but love the refreshing feeling lemons give me. You went with a coffee though, [H名]. Do you drink coffee a lot?

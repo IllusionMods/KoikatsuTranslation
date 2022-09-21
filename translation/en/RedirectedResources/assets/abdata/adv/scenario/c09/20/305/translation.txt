@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「ずっと気になってたんだけど……」=“I've been curious for a while now...”
 「なにが？」=“About what?”
 「このアダルトって項目、なに？　昔の曲が多いんだけど……入れてみていい？」=“What's this adult section? There's lots of old songs in here... mind if I put one in?”

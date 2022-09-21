@@ -1,4 +1,6 @@
-
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
 「ねえ、あんたの愛称考えてみたんだけど、聞きたい？　聞きたいでしょ？」=“Hey, I thought up a nickname for you, wanna hear it? You wanna hear it, don't you?”
 「そうでもないかな」=“Not really.”
 「即答！？　彼女が愛称考えてきたのよ！　それも寝る間も惜しんで！　普通気になるでしょ！？」=“So quickly?! Your cute girlfriend thought of a nickname for you, you know! I even skipped sleep to do it! A normal guy would be curious, no?!”

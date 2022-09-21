@@ -1,4 +1,7 @@
-﻿「この公園ってたまに散歩に来ることはあるけど……全部は周ったことはないの」=I do come to this park to take walks sometimes but... I've never really covered the whole place.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「この公園ってたまに散歩に来ることはあるけど……全部は周ったことはないの」=I do come to this park to take walks sometimes but... I've never really covered the whole place.
 「結構広いもんね。一周するのに結構時間かかるみたいだし」=It is pretty big, isn't it? Seems like it'd take quite a bit of time to cover the whole place at once.
 「そういえばこの公園って、外周をぐるっとまわるジョギングコースもあるんだっけ」=Reminds me, didn't this park have a jogging course going along the whole outer perimeter?
 「そうなの？　……あ、本当だ。走ってくる人がいるね」=Really? ...Ah, you're right. There's people running over there.

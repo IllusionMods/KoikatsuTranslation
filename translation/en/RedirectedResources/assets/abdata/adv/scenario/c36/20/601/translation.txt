@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「へぇ、意外に綺麗じゃない。雰囲気作りも上手いわね」="Oh, it's surprisingly lovely. There's a good atmosphere too."
 「そういう事をする場所だからね」="That's because it's a place where you do this kind of thing."
 「ＳＭルームとかはないの？　本格的に貴方の調教をしてみたいのだけど」="Is there no SM room? I'd like to try out some genuine training on you."

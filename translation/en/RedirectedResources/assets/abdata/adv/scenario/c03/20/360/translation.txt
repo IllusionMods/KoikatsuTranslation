@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「はぅぅ……改めて考えると……すごく大胆なことをしてしまったです……」=“Hauu... thinking about it again... I did something so bold...”
 「二人きりだから大丈夫だよ。さっきの[H名]の姿、俺しか見てないから」=“It's only us here, so it's fine. Only I could see you dancing like that, [H].”
 「わあぁあぁっ！　思い出しちゃ恥ずかしいですーっ！」=“Waaaaaaah--! It's too embarrassing, don't remind me please--!”

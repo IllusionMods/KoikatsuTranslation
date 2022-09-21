@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「職員室はここだな」=“OK, Staff Room”
 プレートに書かれた『職員室』という文字を見て、きちんと着いたことを確認する。=Looking at the plate in front of the door, I let out a sigh of relief.
 まずは担任の先生に挨拶しないと。=First I'll have to say hi to my HR teacher.

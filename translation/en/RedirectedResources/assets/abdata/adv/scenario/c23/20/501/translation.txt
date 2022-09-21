@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「ご、ごめんよぉ！　遅れちゃった？」=“S-Sorry! Am I late?”
 「大丈夫だよ。……ギリギリまでアニメとか見てた？」=“It's okay. ...couldn't stop watching anime until you absolutely had to go?”
 「いや、ネトゲを……あ」=“No, I was playing this mmo... ah.”

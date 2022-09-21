@@ -1,3 +1,6 @@
-﻿「おーす！　ほら、急ごうぜ！」=Sup! Come on, we gotta hurry!
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「おーす！　ほら、急ごうぜ！」=Sup! Come on, we gotta hurry!
 「そうだね。って、押さなくても歩けるって」=You're right. Though, I can walk without you pushing me on, you know?
 「ん？　なんか昨日よりも筋肉ついたか？」=Hm? Did you put on some muscle since yesterday?

@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「喫茶店てさ、男一人ではちょっと入り辛いんだよね」=Places like cafés and such, it's kinda hard for a guy to go in alone.
 「どうして？　一人でいる男の人なんて、結構いるわよ？」=Why? I can see tons of guys here that are sitting by themselves.
 「あー、そういうのって、お洒落な人達でしょ？　なんかノートパソコンとか広げて、カッコよく仕事しちゃってるみたいな」=Ah, those types of men, are pretty stylish though? The type that looks like they're doing cool things on their laptop and such.

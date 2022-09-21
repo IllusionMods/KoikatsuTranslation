@@ -1,4 +1,7 @@
-﻿えへへ……声、出しちゃダメだからね？=Ehehe... you can't let out a single peep, okay?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+えへへ……声、出しちゃダメだからね？=Ehehe... you can't let out a single peep, okay?
 アタシもうまくなったでしょ……？=I got better at this too, no...?
 アタシの手……どう？=My hand... how does it feel?
 これからもっと凄いことしてあげるから……=I'll do even more amazing stuff to you...

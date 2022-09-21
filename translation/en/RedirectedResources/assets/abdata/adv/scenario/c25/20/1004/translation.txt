@@ -1,4 +1,8 @@
-﻿「お疲れ様でした。ふふっ、素敵な式でしたよ」=Good work today. Fufu~ It was a lovely ceremony.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+モブ=Mob
+「お疲れ様でした。ふふっ、素敵な式でしたよ」=Good work today. Fufu~ It was a lovely ceremony.
 「本番の結婚式も、是非、私どもの式場で挙げてくださいね！」=For your actual wedding as well, please, do call upon us!
 「えっと、前向きに考えさせてもらいます」=Uhm, sure, if we get to that point.
 「お願いします！　今日はお引き受けいただいて、ありがとうございました」=Thank you! And for helping us out so much today as well, thank you very much!
@@ -9,5 +13,3 @@
 「そんな真顔で言わないでよ～。恥ずかしいからさ～」=Don't say that with such a straight face~. It's really embarrassing~
 「はは、でも本当に嬉しかったんだよ」=Haha, but I really was happy.
 （ちょっと本来の予定と変わったけど……素敵なデートになったな）=(It kinda went off the rails there for a bit but... that really was a lovely date.)
-
-モブ=Mob

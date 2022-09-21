@@ -1,5 +1,10 @@
-﻿「もうすぐ時間かあ、結構歌ったなあ」=Almost time, huh, we sure sang a lot.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「もうすぐ時間かあ、結構歌ったなあ」=Almost time, huh, we sure sang a lot.
 「そうですね。延長、どうしましょう？」=Indeed. What shall we do? Do you want to extend it?
+CHOICE:『もうちょっと歌おうよ』=『Let's sing a bit more』
+CHOICE:『帰る仕度をしよっか』=『Let's get ready to head out』
 「折角だししようか。歌い足りないや」=We might as well. I still ain't sang enough.
 「私もまだ物足りないので、いいですよ」=I haven't had enough either, so I'm up for it.
 「じゃあ電話入れるね。ちょっとまってて」=Then I'll put in the call. Wait a bit.
@@ -13,6 +18,3 @@
 「そ、そう言われると恥ずかしいですけど……じゃあ、この曲を」=D-Don't say that, it's embarrassing... in that case though, this one then.
 『もしも今 背中に羽が生えて 大空自由に 飛び回れたら～♪』=『If only I could, sprout wings from my back, and fly freely, in this wide open sky~♪』
 （ん～、元気がもらえるいい歌声だなぁ）=(Nn~, just hearing her sing makes me feel so energetic)
-
-CHOICE:『もうちょっと歌おうよ』=『Let's sing a bit more』
-CHOICE:『帰る仕度をしよっか』=『Let's get ready to head out』

@@ -1,7 +1,12 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「やっぱり遊園地は人がたくさんいるなぁ」=As expected, the entire place sure is full of people~.
 「カップルだけじゃなくて、家族連れも多いもの」=It's not just couples either, there's a lot of families too.
 「どこかゆっくり出来そうなところは……おっと」=Let's see, a place where we can take it easy together... woah.
+こどもＡ=Child A
 「わ～い、カップルだ～！」=Waah, look, a couple~!
+こどもＢ=Child B
 「や～い、デートデート～！」=Yaay, a date, a date~!
 「ははは……随分とませてるな」=Hahaha... quite precocious, those kids.
 「今の子供たち、風船を持っていたわね」=They had some balloons with them, didn't they?
@@ -25,5 +30,3 @@
 「きっとカップルにも渡しているのよ」=I'm sure they're handing them out to couples too.
 「そっか……そりゃそうだよな」=I see... guess that makes sense.
 （……周りからみて、ちゃんとカップルと思われてるんだな。ちょっと安心だ）=(...So people really do see us as a couple, huh? That's kinda comforting.)
-こどもＡ=Child A
-こどもＢ=Child B

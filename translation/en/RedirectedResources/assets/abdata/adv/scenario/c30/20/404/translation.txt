@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「うんっ、美味しそうじゃない」=Yeah, that looks delicious.
 「待った甲斐はあったって感じだね。それじゃ、早速食べようか」=Feels like it was worth the wait. Then, let's dig in.
 「ええ。いただきます」=Yes. Let's eat.

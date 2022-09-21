@@ -1,3 +1,6 @@
-﻿「おっはよー。ね、今日って英和辞書持ってきた？」=Mornin'~. Hey, did you bring EN-JP dictionary today?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「おっはよー。ね、今日って英和辞書持ってきた？」=Mornin'~. Hey, did you bring EN-JP dictionary today?
 「辞書……あぁっ！　完全に忘れたーっ！」=My dictionary... aaah--! I forgot it at home--!
 「もうー、やっぱり。それじゃ、私の電子辞書貸してあげる！　教室行こ♪」=Jeez, I knew it. I'll lend you my electronic one then. Let's go to class♪

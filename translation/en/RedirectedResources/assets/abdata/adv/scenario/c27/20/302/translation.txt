@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「ん～、やっぱり大きな声で歌うとスッキリするわね」=“Nn~, singing your heart out really does make you feel refreshed, doesn't it?”
 「はは、すっごく晴れやかな顔してる」=“Haha, that's such a bright expression you've got.”
 「あれ？　あんた、次の曲入れてないけど歌わないの？」=“Huh? You're not putting in a song, are you not gonna sing?”

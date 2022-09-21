@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「あっ、[H姓]さん。よかったら一緒に話でもどうかな？」=“Ah--, [H姓]-san. How about a chat together?”
 「……私と？　何故？」=“...With me? Why?”
 「[H姓]さんとあまり話したことなかったし、これを機にどうかなって」=“We've never really talked so, thought I'd take this chance, and all.”

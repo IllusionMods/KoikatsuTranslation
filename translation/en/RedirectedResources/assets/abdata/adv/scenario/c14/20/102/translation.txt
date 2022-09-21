@@ -1,4 +1,7 @@
-﻿「お、なんだかいい匂いがする……あっ、見てみて、売店があるよ！」=Oh, something smells really nice... ah--, look over there, there's a stall!
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「お、なんだかいい匂いがする……あっ、見てみて、売店があるよ！」=Oh, something smells really nice... ah--, look over there, there's a stall!
 「おお、ちょうど小腹が空いてきたとこなんだよな。寄ってこうぜ」=Ooh, it's just about lunchtime too, isn't it? Let's head over.
 「うん！　……わあ、いろんな味のホットドッグが並んでるね……」=Yeah! ...wah, they've got all sorts of hot dogs lined up, huh...
 「んっ、なになに？　『挑戦者求む　特製激辛ホットドッグ』だって……こういうの、よくあるよね～」=Nn--, what's this?『Challenger wanted! Deluxe Super Spicy Hot Dog』... this kind of thing's getting real popular nowadays, isn't it?~
@@ -29,5 +32,4 @@
 （いや、ここは根性だ！　[H名]の前で、格好悪いところは見せたくない！）=(No, gotta hold my ground here! I don't wanna show [H名], an uncool sight!)
 「ご……ごちそうさま……なんとか食べきれたよ」=T... Thanks for the meal... I managed to finish it, just about.
 「す、すげぇ！　マジで食いやがった……！　私、[P名]のことを少し見直したよ」=A-Amazing! You really scarfed it down...! I'm seriously impressed. You've got bigger balls than I thought.
-「ははは……そ、それは、どうもありがとう……」=Hahaha... t-thank you very much...
 「ははは……そ、それは、どうもありがとう……」=Hahaha... t-thank you very much...

@@ -1,0 +1,11 @@
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「興味がない事はないな。後はおまえ次第といったところか……」=It's not like I don't have any interest in it. The rest depends on you, I suppose...
+「それって……どういう事？」=By that... what exactly do you mean?
+「私をコイカツ部に入れて、何をするつもりなんだ？」=What do you plan on doing, after getting me to join the Koikatsu club?
+「それはまぁ、お話したり……だといつも通りだね。あとは、スキンシップ……とか？」=That's, well, chatting and stuff... Well that's business as usual I guess. Aside from that, some physical stuff... I guess?
+「スキンシップか……本音が透けて見えているぞ？」=Physical stuff, huh... Your actual intentions are clear as day, you know?
+「……下心があるのは否定しません、はい」=...I won't deny that I do have some ulterior motives, yes.
+「まったく……この様子では他の部員も心配だな。監視の意味を込めて、入部するとしよう」=Good grief... Now I'm actually worried about the other club members. I'll join the club, if only to supervise you.
+「あはは……ありがと、嬉しいよ」=Ahaha... Thanks, I appreciate it.

@@ -1,0 +1,22 @@
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「実はさ……最近、たまにオカルト雑誌に目を通したりするんだ」=“The truth is... recently, I've been looking at some occult magazines recently.”
+「え！　本当にっ！？」=“Eh! Really--?!”
+「お、おお……すごい食いつき……。[H名]はいつも“かれら”と交信しているけど、ああいう雑誌はよく読むの？」=“O-Ooh... that's a bite if I've ever seen one... You're always communicating with "them" but, do you read magazines like that too, [H]?”
+「読むっ。オカルトっていうジャンルでくくられるのはシャクだけど、昔からああいうのは大好き」=“I do--. I hate it when people bundle "them" together with "the occult" but, I've always loved that sort of stuff too.”
+「そっか……[P名]くんも、やっと“かれら”のことがわかるようになったんだね」=“I see... you've started to realize "their" existence too, haven't you, [P]-kun?”
+「い、いや。残念ながら、“かれら”と交信できたりはしてないんだけど……」=“N-No. Unfortunately, I've not had the chance to be in any contact with "them" just yet...”
+「そういえば……あの手の雑誌に、“かれら”は映ってたりするの？」=“Reminds me... do magazines like that, have pictures of "them" in them too?”
+「……あんまり口に出しちゃいけないんだけど」=“...For the record, this really isn't something I should be saying out loud, but.”
+「まさか……」=“No way...”
+「実は……映っていたりもする」=“The truth is... sometimes, they do.”
+「ほ、本当にっ！？」=“S-Seriously--!?”
+「しっ……声が大きいよ」=“Shhh... you're being loud.”
+「あ……ご、ごめん」=“Ah... s-sorry.”
+「よく目撃されるのは海外で、ほとんどの写真は偽物だけど……たまに、“かれら”の影を捉えた写真があるの」=“Their sightings occur mostly abroad, so most of the photos here are fakes but... sometimes, they do manage to capture a sighting of "them".”
+「仲間はわたしだけじゃなくて、世界各地にいるだろうから……“かれら”は地球を観測して、救出作戦を練っているはず」=“It's not just me, our comrades are probably spread out all over the globe so... "they" are likely observing the planet, and mounting rescue operations when they can.”
+「す、すごいね……いきなりスケールの大きな話になってきた」=“T-That's amazing... the scale just got bigger all of a sudden.”
+「大丈夫、あなたのことは“かれら”にも伝えてあるから。今度、“かれら”の影が映ってる写真を見せてあげるね」=“Don't worry, I'll tell "them" about you too. I'll show you a picture with "them" in it sometime, okay?”
+「うん、ありがとう。なんだろう、すごくワクワクしてきたよ」=“Okay, thanks. I wonder what "they" are like, I'm excited.”
+「よかった。[P名]くんも一緒に救われようね♪」=“I'm glad. Let's get saved off of here together, okay?♪”

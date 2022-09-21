@@ -1,1 +1,4 @@
-﻿「きゃっ！　ってなんだ[P]くんか～。アタシのこと見たくても、のぞきはダメだよ～」=Kyah--! Oh, it's just you, [P名]-kun~. Even if you wanted to see me just that badly, peeping is bad, you know~
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「きゃっ！　ってなんだ[P]くんか～。アタシのこと見たくても、のぞきはダメだよ～」=Kyah--! Oh, it's just you, [P名]-kun~. Even if you wanted to see me just that badly, peeping is bad, you know~

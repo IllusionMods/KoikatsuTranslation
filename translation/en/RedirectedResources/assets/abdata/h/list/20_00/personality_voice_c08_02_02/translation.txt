@@ -1,4 +1,7 @@
-﻿大きな声出しちゃ駄目だよ？=You can't moan too loudly, okay?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+大きな声出しちゃ駄目だよ？=You can't moan too loudly, okay?
 やさーしく撫でてあげるからね=I'll stroke it real gently.
 気持ちよさそうな顔してるね、可愛いよ=You're making such a melty face, it's adorable.
 じっくり、触ってあげるからね=I'll stroke it real carefully.

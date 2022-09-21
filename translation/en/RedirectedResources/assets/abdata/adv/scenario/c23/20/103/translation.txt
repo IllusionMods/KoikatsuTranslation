@@ -1,4 +1,9 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「ふぃー、空がすっかりオレンジに……楽しい時間はあっという間なんだなぁ」=“Fui~, the sky's completely turned orange... times absolutely flies when you're having fun, doesn't it~”
+CHOICE:『まだ時間ある？』=Still got time?
+CHOICE:『俺も楽しかった』=I had fun too.
 「まだ時間あるかな？」=“Do you still have some time?”
 「あるけど、どうかしたのかい？」=“I do but, is something wrong?”
 「よかった。もう少し付き合って欲しいんだ」=“Great. Stay with me a bit longer.”
@@ -12,6 +17,3 @@
 「……別にアニメ限定ではないと思うけど、確かにそうだね」=“...I don't think that's an anime-only thing but, yeah.”
 「手を繋いで帰ろうか」=“Let's walk home while holding hands?”
 「えへ、へ……ラブラブで幸せ～」=“Eheh, heh... ah, this is so lovey-dovey, my heart~”
-
-CHOICE:『まだ時間ある？』=Still got time?
-CHOICE:『俺も楽しかった』=I had fun too.

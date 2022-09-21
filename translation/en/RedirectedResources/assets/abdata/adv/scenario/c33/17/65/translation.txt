@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「っ、遅くなってごめん……少し頼まれごとを引き受けてたら、長引いちゃって……」=--!, Sorry for being late... Someone asked me to do something for them, and it dragged on a bit...
 「わざわざ走ってきたの？　汗だくじゃない」=So you ran all the way here, just for me? You're absolutely dripping in sweat.
 「う、うん……[H名]さんを、待たせたくなくて……」=Y-Yeah... I didn't want to make you wait, [H名]-san...

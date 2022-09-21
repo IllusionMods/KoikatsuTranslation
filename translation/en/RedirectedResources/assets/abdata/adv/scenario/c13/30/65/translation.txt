@@ -1,3 +1,6 @@
-﻿「何かこうして並んで歩くと……恋人同士みたいだね～」=When we walk side by side like this... it really feels like we're a couple, doesn't it~
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「何かこうして並んで歩くと……恋人同士みたいだね～」=When we walk side by side like this... it really feels like we're a couple, doesn't it~
 「え、あ、あぁ、そうだな」=Eh, y-yeah, it does.
 「あは、ちょっとからかっただけじゃん、そんなマジで照れないでよ～」=Aha, I was just messing with you, don't blush so hard~

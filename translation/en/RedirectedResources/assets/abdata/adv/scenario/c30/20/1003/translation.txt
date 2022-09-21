@@ -1,6 +1,11 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+モブ=Mob
 「それではこれより、式を執り行います」=Then without further ado, let's start the ceremony.
 「新たなご出発の証として、お二人には誓いの言葉を立てていただきます」=As proof of your new beginnings, we ask of you to share your vows.
 （来た！　ここからが一番大事なところだぞ……頑張れ俺！）=(Finally! This is the most important part... I'll have to do my best!)
+牧師=Pastor
 「[P名]さん、あなたはこの女性とお付き合いし、より親密な関係になろうとしております」=[P名]-san, you're about to enter a much more intimate relationship with this woman that you are currently with.
 「あなたは健康なときも、そうでないときも、お互いの気持ちが続く限り――」=Do you promise that in both times of health and sickness, that your feelings for each other will continue--
 「この人を守り、笑顔を絶やすことなく幸せにすることを誓いますか？」=So that you will protect this person, and vow to to keep them smiling and happy?
@@ -31,6 +36,3 @@
 ……=...
 「……好きよ……大好き……ずっと、待ってるから」=... I love you... I love you so much... I'll be waiting, no matter how long it takes.
 「はぁ……ドレスが重いからかしら……足が震えて……ねぇ、ちゃんと支えてね……私のこと……」=Hah... I wonder if the dress is too heavy... My legs feel unsteady... Hey, you have to support me properly... always...
-
-モブ=Mob
-牧師=Pastor

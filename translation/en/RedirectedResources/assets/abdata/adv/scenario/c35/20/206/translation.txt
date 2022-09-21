@@ -1,4 +1,7 @@
-﻿「はぁぁ……やっぱりこの観覧車からの眺めは綺麗なん。何回観ても飽きんとよ」=Haa... The view from this ferris wheel really is beautiful. No matter how many times I see it, I don't get bored of it.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「はぁぁ……やっぱりこの観覧車からの眺めは綺麗なん。何回観ても飽きんとよ」=Haa... The view from this ferris wheel really is beautiful. No matter how many times I see it, I don't get bored of it.
 「あはは、[H名]、またおでこが窓にくっついてるよ。ほら、跡付いてる」=Ahaha, [H名], your forehead's sticking to the window again. Look, you even left a forehead print.
 「あっ……えへへ、つい……これに乗るとどうしても見入ってしまうん。少しでもキラキラしてる夜景に近付きたくて……」=Ah--... ehehe, I just... I always find myself lost in the view whenever I ride this. It makes me want to get closer to the glittering night sky, even if it's just by a little bit...
 「その気持ちは分かるかも。綺麗な物に近付きたいって感覚だよね」=I think I understand how you feel. It's the feeling of wanting to get closer to something beautiful, isn't it?

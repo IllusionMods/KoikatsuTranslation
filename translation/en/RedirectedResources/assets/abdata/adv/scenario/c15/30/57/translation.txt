@@ -1,4 +1,7 @@
-﻿「へへー、初デート初デート♪　あたし、いますごくワクワクしてるぞ！」=Hehe, our first date, our first date♪ I'm super excited right now!
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「へへー、初デート初デート♪　あたし、いますごくワクワクしてるぞ！」=Hehe, our first date, our first date♪ I'm super excited right now!
 「俺もワクワクしてる。初デートだから、記念になる思い出、作ろうね」=I'm excited too. It's our first date so, let's make some real good memories together, okay?
 「おおー、期待してるぞ！　よろしくな」=Yeah, I'm looking forward to it! Take care of me, okay?
 「任せて」=Sure, leave it to me.

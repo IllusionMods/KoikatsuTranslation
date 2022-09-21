@@ -1,4 +1,8 @@
-﻿「今日の練習はこれで終わり！　気を付け、礼！」=That's all for today's practice! Attention, bow!
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+亜依=Ai
+「今日の練習はこれで終わり！　気を付け、礼！」=That's all for today's practice! Attention, bow!
 今日も部長の役割を練習する水瀬さんの号令が響く。=Ai's orders rang out as she practised her role as club president again today.
 「よし、行くか」=Okay, let's go.
 隅で見学していた俺は、覚悟を決めるように宣言すると、後片付けの手伝いに向かう。=After watching from the corner, I decided it was time and went to help with the clean up.
@@ -13,5 +17,3 @@
 俺は、自分の心に問いかける。=I keep asking myself the same question.
 CHOICE:ＯＫする=Okay, I'll do it.
 CHOICE:保留にする=I'll hold off for now.
-
-亜依=Ai

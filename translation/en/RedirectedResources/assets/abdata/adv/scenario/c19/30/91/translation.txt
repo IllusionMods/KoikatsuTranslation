@@ -1,3 +1,6 @@
-﻿「あ、おはよう。[Pあだ名]」=Ah, good morning. [Pあだ名].
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「あ、おはよう。[Pあだ名]」=Ah, good morning. [Pあだ名].
 「うん、おはよう、[Hあだ名]」=Yeah, mornin', [Hあだ名].
 「朝からちょっとドキドキしちゃった」=I've got my heart racing first thing in the morning.

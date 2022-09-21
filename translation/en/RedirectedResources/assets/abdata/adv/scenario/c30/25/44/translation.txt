@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「へえ、色々あるんだね」=Hmm, things like that sure happen a lot don't they
 「あら、あれって新しい……雑貨屋さんね。行ってみてもいいかしら？」=Oh, look at that, isn't that the new general store that opened just recently? Wanna go take a look?
 「うん、いいよ」=Sure, let's go.

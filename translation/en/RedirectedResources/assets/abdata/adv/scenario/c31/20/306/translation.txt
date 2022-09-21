@@ -1,9 +1,14 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「なぁ、たまにはその……一緒に歌ったりしてみるか？」=Hey, wanna try... doing a duet every once in a while?
 「おっ、いいね。でも、お互いに知ってる曲は、ほとんど歌っちゃったよね？」=Oh--, sounds great. But, we've already sang all the songs that both of us would know of, no?
 「うーん、確かにそうだな。お互いにというか、私はそろそろ歌える曲が無くなってきた……」=Hmm, that's true. Forget both of us, I've run out of songs to sing myself...
 「それ、俺もかも……どうしようか？　まだ延長時間は残ってるけど」=Me too, I think... What should we do? We still have some time left on the extension.
 「そうだなぁ……歌う以外でカラオケでやる事となると……」=Let's see... Things we can do at the karaoke box aside from signing...
 「何か食べるとか？　あとはほら……」=Should we get something to eat? After that, you know...
+CHOICE:『エッチ、しちゃうとか？』=『We could have sex』
+CHOICE:『うーん、特にないかも……今日はもう帰る？』=『Well, nothing in particular... Shall we go back home for today?』
 「例えばその……エッチしちゃうとか？」=For example, uhm... we could have sex or something?
 「んぅっ、そういう事は思っていても直接言うな……ムードを考えろ、ムードを」=Nnnn--, don't say that sort of thing directly outloud even if you're thinking about it... Think of the mood, the mood.
 「ごめん、でも[H名]がいいなら、俺はいつでも大丈夫だよ？」=Sorry, but if you're fine with it, [H名], I'm ready to go at any time, you know?
@@ -19,6 +24,3 @@
 「あれ？　もしかして……[H名]はもっと歌っていきたい？」=Oh? Perhaps... Do you want to sing more, [H名]?
 「そうじゃない。正直に言うとな、おまえと別れるのが少し名残惜しいんだ」=That's not it. Honestly, I don't want to part with you, that's all.
 （うっ、そういう事を言われちゃうと、この後を期待しちゃうなぁ……）=(Uuu--, If you say something like that to me, I can't help but have expectations for later...)
-
-CHOICE:『エッチ、しちゃうとか？』=『We could have sex』
-CHOICE:『うーん、特にないかも……今日はもう帰る？』=『Well, nothing in particular... Shall we go back home for today?』

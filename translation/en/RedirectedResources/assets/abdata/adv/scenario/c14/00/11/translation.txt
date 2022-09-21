@@ -1,4 +1,7 @@
-﻿「お前もう私の目の前に現れんな」=Don't show yourself in front of me ever again.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「お前もう私の目の前に現れんな」=Don't show yourself in front of me ever again.
 「え……？　ど、どうして？」=Eh...? W-Why?
 「うるせぇ。いいから二度と話しかけんな」=Shut it. Never open your trap in front of me again.
 「ま、待って！　少し話を……」=W-Wait! Let's atleast talk this out...

@@ -1,4 +1,7 @@
-﻿「……はいこれ。あなた、前に食べたいって言ってたわよね？」=...Here. You said last time that you wanted to try this, no?
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「……はいこれ。あなた、前に食べたいって言ってたわよね？」=...Here. You said last time that you wanted to try this, no?
 「わっ……購買に行く頃にはもうないんだよね。ちょっと待って、今お代を……」=Wah--... it always disappears from the store as soon as lunch break starts too. Hang on a sec, lemme pull out my wallet...
 「いいわよ、私が勝手にやったことだし……あっ、でもそれで気が済まないなら……んっ」=It's alright, I bought it because I wanted to... ah--, but if it still bothers you then... nn--
 「う、うん……わかったよ。……よしよし」=O-Okay... I got it. ...There, there.

@@ -1,4 +1,6 @@
-
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
 「このあたりかしら……あ、ここがいいみたいね」=“Right here?... Ah, this seems like a good spot.”
 「あっ、うん、そこそこそこ……あぁ、いい……」=“Ah--, yeah, there, right there... ah, this is great...”
 「あらあら、気持ちよさそう♪　それじゃ、もっとやってあげるわね」=“My, seems like you're enjoying this♪ Well then, I'll do it some more.”

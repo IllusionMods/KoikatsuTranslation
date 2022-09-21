@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「綺麗、ですね」=Lovely, isn't it?
 「ここ、夜景の名所らしくて、[H名]と一緒に見たいなって思ってたんだ」=This place, it's famous for the night view, so I've been wanting to see it with you, [H名].
 「そうだったんですね」=So it was like that, huh.

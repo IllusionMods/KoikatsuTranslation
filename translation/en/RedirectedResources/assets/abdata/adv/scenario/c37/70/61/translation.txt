@@ -1,0 +1,20 @@
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「お待ちしておりました」=I've been waiting for you.
+「時間ピッタリのはずなんだけど……いつから待ってたの？」=I should be right on time though... How long have you been waiting for?
+「さぁ？　浮かれていたのでわかりません」=Who knows? I was feeling such a rush of happiness, I don't really know.
+「……と、とりあえず行こっか」=...L-Let's move on ahead for now.
+「私、幸せです、とても」=I'm really happy right now, very happy.
+「そう思ってくれると嬉しいよ」=I'm glad you feel that way.
+「あなたも……私と居て幸せですか？」=Does being with me... make you feel happy too?
+「勿論。[H名]の恋人で良かったと思ってるよ」=Of course. I can't help but think about how glad I am, that you're my girlfriend, [H名].
+「……ありがとう、ございます」=......Thank you, very much.
+「もしよろしければ、この後はあなたの部屋で過ごしたいと思うのですが……いかがでしょう？」=If it's alright with you, I really want to spend time with you at your place after this... Can I?
+CHOICE:「……うん、歓迎するよ」=...Yeah, you're welcome to.
+CHOICE:「ごめん、今日はちょっと……」=Sorry, today's a bit...
+「……うん、[H名]が来たいなら歓迎するよ」=...Yeah, if you want to come over, I'll wholeheartedly welcome you, [H名].
+「ありがとうございます、お邪魔させて頂きます」=Thank you very much, I'll be intruding upon your goodwill.
+「あーごめん、今日はちょっと……」=Aaah, sorry, today's a bit...
+「……そうですか、今日はここまでですね」=...Is that so? Then we'll be parting ways here for today.
+「では、本日もありがとうございました、次回のデートも楽しみにしています」=Thank you very much for today as well, I'm looking forward to our next date as well.

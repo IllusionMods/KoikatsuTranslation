@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「美味しそうなハンバーグだね」=What a delicious looking hamburger steak.
 「えぇ、とても美味しいです」=Yes, It's really delicious.
 「うーん……俺もひとくち食べてみたいなー、なんて」=Hmmm... I want to try a bite too, eh, nevermind.

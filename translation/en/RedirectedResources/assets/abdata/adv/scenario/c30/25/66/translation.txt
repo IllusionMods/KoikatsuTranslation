@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「ここの公園って広いし、緑も多いし、素敵でしょ。私、昔はよくここで遊んだのよ」=This park is very big and full of greenry. It is a wonderful place. I used to come here to play a lot when I was a kid.
 「へぇ、小さな頃の[H名]？　可愛かったんだろうなぁ」=Hmm, a small version of [H名]? I bet you were a real cute kid.
 「まったくキミはもう……簡単にそういうことを言うんだから……」=Jeez~, You're always so... you always say things like that so easily...

@@ -1,4 +1,6 @@
-
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
 「ねえ、別れてほしいの」=“Hey, I want to break up.”
 「え、それってどういう……」=“Huh, what does that mean...?”
 「言葉のままの意味よ、冷めちゃったの……」=“It means exactly what it means, I feel like you've been cold...”

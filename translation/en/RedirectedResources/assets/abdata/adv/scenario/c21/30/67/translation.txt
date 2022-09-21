@@ -1,4 +1,6 @@
-
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
 //「あっ、えへ、えへへ……」=
 //「？　どうしたの？」=
 //「友達と目が合っちゃって…やっぱりキミと一緒に帰ると注目を浴びちゃうね」=

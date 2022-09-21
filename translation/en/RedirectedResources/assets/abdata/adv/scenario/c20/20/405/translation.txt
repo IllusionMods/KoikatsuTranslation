@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「…………」=“......”
 「え、えっと……そんなにじっと見られていると、食べづらいです……」=E-Ehrm... it's hard to eat, if you stare so much...
 「あ、もしかして……オムライス、食べたいんですか？」=Ah, by any chance... do you want a bite of this omurice?

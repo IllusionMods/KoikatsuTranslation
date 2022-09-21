@@ -1,4 +1,6 @@
-
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
 「えっ……冗談……よね？　私が何かしたなら謝るし直すわ」=“Eh? You're joking right? I'll apologize if I did something wrong.”
 「えっと、ごめん……」=“Um, sorry...”
 「ごめんって何よ。あなたが何か悪いことでもしたの？　違うでしょ。どうして……」=“Sorry for what? Did you do something wrong? That's not true right? Why...”

@@ -1,4 +1,7 @@
-﻿「ふふっ、君とのおしゃべりがこんなにも楽しいなんてね」=Fufu--, I never thought I'd have this much fun chatting with you.
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「ふふっ、君とのおしゃべりがこんなにも楽しいなんてね」=Fufu--, I never thought I'd have this much fun chatting with you.
 「俺も、まだまだしゃべり足りないよ」=Me too, I still have lots I want to chat with you about.
 「ねぇ……私たち、なんだかとってもいい関係になれそうじゃない……？」=Hey... isn't our relationship getting really close...?
 「えっ、それはどういう……？」=Eh--, exactly what do you...?

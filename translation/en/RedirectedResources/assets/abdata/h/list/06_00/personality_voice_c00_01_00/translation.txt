@@ -1,4 +1,7 @@
-﻿そんなに見つめちゃやぁよ=Don't stare so much.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+そんなに見つめちゃやぁよ=Don't stare so much.
 なぁに？=What is it?
 焦らさないでよ、もう=Don't keep me waiting, jeez~
 ねぇ……早く触って……=Hey... touch me already...

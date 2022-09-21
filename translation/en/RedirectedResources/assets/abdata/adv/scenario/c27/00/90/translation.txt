@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「ね、ねぇ、アンタってさ……今まで人から、どんな風に呼ばれてた？」=“H-Hey, listen... what sort of ways have you gotten people to call you before?”
 「？　どんな風って、普通に名前でだけど……」=“? "What sort of ways", just by my name really...”
 「そうじゃなくて……。その……家族とか、親しい友達とか……こ、恋人は……特別な呼び方、したりするでしょ……？」=“That's not what I mean... Uhm... like, by your family, by your close friends and... c-couples usually... call each other special names, right...?”

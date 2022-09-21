@@ -1,4 +1,7 @@
-﻿「こんにちは。今、いいかな？」=Hello. Do you have a moment?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「こんにちは。今、いいかな？」=Hello. Do you have a moment?
 「あ、てめぇ誰だよ」=Ah, who the hell are you?
 「最近転校してきた[P名前]っていうんだ」=I'm [P名], I transferred in recently.
 「あー。なんか噂になってたな、男が来たとかで……」=Aah. There was that rumour, that a boy recently came here...

@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「わぁ、綺麗なんだなぁ……」=“Waah, it's beautiful...”
 「アニメでもこの夜景は出てくるの？」=“Does this view show up in that anime too?”
 「当然出てきますぞ。主人公とヒロインが手を繋いでこの夜景を見るんだ」=“Of course. The protagonist and heroine hold hands together and savour it together.”

@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「あのさ。今日は手を繋ぎながらデートしない？」=Hey, Listen. Do you mind if we hold hands throughout this date?
 「手を……ですか。あなたがそうしたいのでしたら……」=Hands... you say? If that's what you want...
 「あの……少し待って頂いてもよろしいですか」=Uhm... Could you wait a moment?
@@ -6,10 +9,9 @@
 「ちょっと恥ずかしかったかな。……でも今日は離さないよ」=Must have been a bit embarrassing, I'm sure.But, I won't let go, not today.
 「！　……最後まで頑張らせて頂きます」=!...... I'll try my best to hold on, until the end.
 「だいぶドキドキもしましたが、今日はずっと幸せな気持ちで過ごせました。この手のおかげですね」=My heart was going a hundred miles an hour but, I felt happy the whole time. It's thanks to these hands, isn't it?
+CHOICE:「もう少し一緒にいたいな」=I want to be together for a bit longer.
+CHOICE:「俺も楽しかったよ、それじゃあね」=I had a lot of fun too, well then, see ya.
 「もう少し君と一緒にいたいな」=I want to be with you for a bit longer, to be honest.
 「……仰せのままに。私も同じ気持ちですから……」=...As you wish. I feel the same way, so...
 「俺も楽しかったよ、それじゃあね」=I had a lot of fun too, well then, see ya.
 「では、手を離しますね……。それでは、お気をつけて」=Well then, I'll let go, alright?...... Well then, take care.
-
-CHOICE:「もう少し一緒にいたいな」=I want to be together for a bit longer.
-CHOICE:「俺も楽しかったよ、それじゃあね」=I had a lot of fun too, well then, see ya.

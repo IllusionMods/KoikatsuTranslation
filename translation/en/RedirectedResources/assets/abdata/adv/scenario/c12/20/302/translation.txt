@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「おー！　[H名]、超良かったよー！」=“Oooh! That was super awesome, [H]!”
 「はは、褒め過ぎだって。たぶん採点とか付けたら、そんなでもないと思うぞ？」=“Hahah, you're laying it on too thick. It'd probably get middling score from the thing, you know?”
 「じゃあ、次は採点機能付きで歌ってみる？　[H名]なら絶対いい点数とれると思うけど」=“Wanna do it with the scoring on for the next one then? You'd score pretty high, atleast I think so.”
@@ -17,5 +20,3 @@
 「うん、そうだね。[H名]が恋人で本当に良かったよ。デートは奢るのが常識とか言われたら、正直大変だった」=“Yeah, you're right. I really am glad you're my girlfriend. I honestly would've been put on the spot, if you said "the guy paying is just common sense", and all.”
 「好きな男に負担をかけて、それが当たり前なんて言う奴の神経がわからないけどな。ホント、ありえないと思うぞ」=“I seriously don't understand girls who pointlessly burden the men they supposedly love, and are so casual about it to boot. Really, the nerve.”
 「じゃあ、俺達は仲良く割り勘って事で。何を頼むか、決めちゃおうか」=“Let's go dutch like a healthy couple in a healthy relationship then. We do gotta pick what we're gonna eat though.”
-
-「そうか。なら何か食べ物でも頼むか？　ずっと歌いっぱなしだったから、腹が減ってるだろ？」=“I see. Wanna get a bite to eat then? We've been singing for a while, I bet you're hungry, right?”

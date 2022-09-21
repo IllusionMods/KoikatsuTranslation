@@ -1,4 +1,7 @@
-﻿はい。それじゃあやりましょうか……？=Yes. Well then, shall we get to it...?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+はい。それじゃあやりましょうか……？=Yes. Well then, shall we get to it...?
 いいですよ、癖になっちゃいました？=Sure, have you gotten addicted to it?
 私達の口、そんなによかったですか……？=Did our mouths, feel that good...?
 お口でペロペロしてあげちゃいますねっ=We'll lick it up and down with our mouths--

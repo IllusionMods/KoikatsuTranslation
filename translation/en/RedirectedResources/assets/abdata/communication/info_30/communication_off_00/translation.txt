@@ -1,4 +1,6 @@
-﻿
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
 「何やってるの？　ここは女の子のヒミツの花園よ♡」=What are you doing? This is a secret garden only for girls♡
 「ふふっ、間違えちゃったの？　今度から気をつけてね」=Fufu--, got the wrong door? Be careful next time, okay?
 「ごめんね、今ちょっと忙しいの。またね」=I'm sorry, I'm a bit busy right now, next time, okay?
@@ -90,6 +92,7 @@
 「私、誰にでも馴れ馴れしくなんてしてないわよね……？」=I don't act too overly familiar with everyone, do I...?
 「そうよね、安心したわ。だって、君だけになんだもの♡」=That gives me peace of mind. Afterall, you're the only one I'm like this with♡
 「そう……これからは気をつけなきゃダメね」=I see... I guess I have to be more careful from now on...
+「答えづらいこと聞いちゃってごめんなさい」=I'm sorry for asking a hard-to-answer question.
 「君、動物は好き？」=Do you like animals?
 「いいわよね～！　つぶらな瞳で見つめられたら、ぎゅーってしたくなっちゃう♡」=They're nice, aren't they~! When they look up at me with their big round eyes, I just can't help but hug them♡
 「実は私もなの……。やっぱり人肌の方が恋しくなるわよね」=Me too, actually... The warmth and feel of a person's skin feels much better, doesn't it?

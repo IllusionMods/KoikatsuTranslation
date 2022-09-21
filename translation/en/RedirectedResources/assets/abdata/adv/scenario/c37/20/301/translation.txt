@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「ここがカラオケボックスですか。初めて足を踏み入れました」=So this is a Karaoke Box, huh. This is the first time I've ever stepped foot in one.
 「今日はここで思い切り楽しもう。知ってる曲があったらどんどん入れてね」=Let's have a blast here today. If there are any songs you know of, queue them up, alright?
 「どうすれば曲を入れられるのでしょうか？」=How does one queue up a song?

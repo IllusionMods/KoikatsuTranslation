@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「折角だからどっか寄り道してくか？」=“Well, we're out here so wanna take a detour?”
 「うん。どこか行きたいとこある？」=“Sure. Any place you wanna go?”
 「それはおまえが決めるの。ほら、スパッと決めてカッコイイとこ見せてくれよ」=“You pick. C'mon, just pull something nice out of your butt and show me how cool you can be.”

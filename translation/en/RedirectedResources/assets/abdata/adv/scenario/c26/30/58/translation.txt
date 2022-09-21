@@ -1,4 +1,6 @@
-
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
 「それじゃあ、そろそろ……って、どうかした？　そんなにじっと手を見て……」="Okay, what's wrong...? Look at your hands..."
 「……手、つないでほしい」="...I want to hold your hand."
 「この紅茶、おいしいね」="This tea is delicious."

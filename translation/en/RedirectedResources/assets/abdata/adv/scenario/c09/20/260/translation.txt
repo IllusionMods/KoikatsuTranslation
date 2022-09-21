@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「……本当に、誰にも気づかれなかったでしょうね？」=“...You're sure that nobody noticed us, right?”
 「大丈夫。みんな気づいてないよ」=“We're good. Nobody's noticed.”
 「うぅ～、心配だわ～……だってあたし、いるだけで目立っちゃうもの」=“Uu~, I'm worried~... I mean, I stand out just by existing.”

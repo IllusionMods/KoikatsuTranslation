@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「……改めて言うのも変な感じだけど、いい思い出になったよ」=“...Saying it like this feels kinda weird but, we made some good memories today.”
 「……私もなった。大切な、思い出」=“...I think so too. Precious, memories.”
 「それは何より。……喜んでもらえてよかった」=“That's great. ...I'm glad you enjoyed it.”

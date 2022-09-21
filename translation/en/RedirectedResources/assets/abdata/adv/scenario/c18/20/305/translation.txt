@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「ふぅ……ちょっと歌い疲れたし休憩しようか」=Fuu... I'm a bit tired from all the singing, let's take a break.
 「のどを休めないとですね。あっ、でもせっかくだしお喋り、も……」=We have to rest our throats too, afterall. Ah--, but since we're here, we should talk some, too...
 「……」=“...”

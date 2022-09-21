@@ -1,3 +1,5 @@
-
-//「今日も楽しかった。なんかまだふわふわしてるよ。えへへ」=
-//「またいつでも誘ってくれていいから。待ってるから……な？　うん。じゃ、気を付けて帰れよ」=
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「今日も楽しかった。なんかまだふわふわしてるよ。えへへ」=“Today was fun too. I still feel like I'm on cloud nine. Eheheh.”
+「またいつでも誘ってくれていいから。待ってるから……な？　うん。じゃ、気を付けて帰れよ」=“Ask me out again any time. I'll be waiting... okay? Yeah. Okay, be careful on your way back, kay?”

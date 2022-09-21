@@ -1,1 +1,4 @@
-﻿「あっ、おはようございます！　朝から[P]さんに会えるなんて、今日は幸せに過ごせそうです」=Ah--, good morning! Seeing you right in the morning, [P]-san, I feel like today's gonna be a good day.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「あっ、おはようございます！　朝から[P]さんに会えるなんて、今日は幸せに過ごせそうです」=Ah--, good morning! Seeing you right in the morning, [P]-san, I feel like today's gonna be a good day.

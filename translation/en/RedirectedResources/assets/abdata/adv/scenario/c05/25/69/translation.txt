@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「……さっきから手が止まってるけど、そこが分からないの？」=“... I see your hand's not moved for a while. Don't get that part?”
 「うん。分からないし、あまりやる気もなくって」=“Yeah. I don't get it, and I don't feel like figuring it out.”
 「ダメだよ。俺が教えてあげるから。えっと……」=“That's bad. I'll teach it to you. Erhm...”

@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「どこかに寄ってく？」=“Wanna stop by somewhere?”
 「おーっ、いいぞー。どっか行きたいとこあるか？」=“Oh--, sure. Is there any place you wanna hit up?”
 「どこ行こうか。二人で遊べそうな……」=“A place, huh? Some place we could have some fun...”

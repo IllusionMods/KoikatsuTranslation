@@ -1,1 +1,4 @@
-﻿「こんなところでするの……恥ずかしいのに、なんでこんにドキドキするんだろう」=Doing it in a place like this... just why does it make my heart race so much, even though it's so embarrassing?
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「こんなところでするの……恥ずかしいのに、なんでこんにドキドキするんだろう」=Doing it in a place like this... just why does it make my heart race so much, even though it's so embarrassing?

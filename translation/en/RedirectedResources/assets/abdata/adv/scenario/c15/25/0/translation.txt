@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「あのー、今いいかな。できれば君と話したいんだけど」=“Uhm, is now a good time? I'd like to chat with you, if possible.”
 「……ジー。どうして男がここにいるんだ？」=“...*stare*. Why's there a boy in here?”
 「ああ、最近この学園に転入したんだ。俺は[P名前]って言うんだけど」=“Aah, I transferred in recently. I go by [P名前].”

@@ -1,7 +1,12 @@
-﻿「けっこう混んできたな……ごめん、そっち詰めるね」=It's starting to get pretty packed... sorry, I have to snuggle up with you.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「けっこう混んできたな……ごめん、そっち詰めるね」=It's starting to get pretty packed... sorry, I have to snuggle up with you.
 「はい……でも、その……少し近くない、ですか……？」=Okay... but, uhm... isn't this a bit, too close...?
 「はは……どんどん人に押されちゃって……おわっ！」=Haha... people keep pushing on me from behind, you see... owah--!
 （やばい……股間が[H名]にあたって、マズイことになりそうだ……！）=(Damn... my crotch's rubbing against [H名], this is really not good...!)
+CHOICE:『欲望に少し抵抗する』=『Resist your desires a bit.』
+CHOICE:『必死に我慢する』=『Desperately endure.』
 （さ、流石にここで勃たせるのは……でも、[H名]の身体、柔らかくて気持ちいい……）=(P-Popping a chub in this place really would be... but, her body's so soft, it feels so good...)
 「えっと……あそこがあたってますよ」=Erhm... your thing's poking into me, you know?
 「ごめん……これは不可抗力というか」=Sorry... I can't exactly do anything about it.
@@ -11,6 +16,3 @@
 （気持ちいいけど……ここは我慢しなければ！）=(It feels good but... I have to endure here!)
 （……それにしても、何で女の子ってこんなに柔らかくて、いい匂いがするんだろう）=(...Even so, just why is it that girls smell so good, and have such soft bodies?)
 （いつもは嬉しいことだけど、今この瞬間だけはちょっと恨めしいというか……俺の理性、もつかなぁ）=(Normally they're things to be happy about but, right now, in this moment, I can't help but hate them... will my reason hold?)
-
-CHOICE:『欲望に少し抵抗する』=『Resist your desires a bit.』
-CHOICE:『必死に我慢する』=『Desperately endure.』

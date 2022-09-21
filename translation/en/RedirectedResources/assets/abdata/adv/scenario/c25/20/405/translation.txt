@@ -1,4 +1,7 @@
-﻿「おすすめだけあって、すごく美味しそうだね」=As expected from the chef's recommendation, looks delicious.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「おすすめだけあって、すごく美味しそうだね」=As expected from the chef's recommendation, looks delicious.
 「だね～。見た目が華やかなのはいいことだ～」=It sure does~. The presentation ought to be splendid, just like this~
 「さっそくいただきま～す……あむあむ……」=I'm gonna waste no time, and dig right in... *chew chew*...
 「ん～～、卵がふわふわで幸せ～」=Nn~~, the eggs are so soft and light, it's bliss~

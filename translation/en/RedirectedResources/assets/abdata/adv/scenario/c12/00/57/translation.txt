@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「よ、よし！　で、デートを始めよう！　ぇ、えっと、よろしく！」=“A-Alright! L-Let's start our date! E-Erhm, let's have a good one!”
 「うん、よろしく。えっと、もしかして緊張してる？」=“Yeah, let's. Erhm, are you nervous, or something?”
 「ぇあっ……ちょ、ちょっとだけな。こ、こういうの慣れてないんだよ……うぅっ」=“Eyah--... a-a little bit. I-I'm really not used to this... uuu--”

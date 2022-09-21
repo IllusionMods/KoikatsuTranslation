@@ -1,4 +1,6 @@
-
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
 「まあ、あんたとだったら一緒に勉強するのも悪くないわね」=“Well, it's together with you so studying together doesn't sound like the most awful idea.”
 「そっか、ありがとう。じゃあ早速取り掛かろうか」=“I see, thanks. Then, let's get to it right away, shall we?”
 「……ところであんたは勉強できる？　あたし、あんたを頼りにしてもいい？」=“...By the way, are you any good at studying? Mind if I rely on you for help?”

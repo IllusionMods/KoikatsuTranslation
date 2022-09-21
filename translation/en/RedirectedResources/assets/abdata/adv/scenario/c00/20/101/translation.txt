@@ -1,4 +1,7 @@
-﻿「ん～～～、結構日差しが強いね。ちょっと物陰に避難しよっか」=Nnn~~~, the sun's pretty strong today. Shall we go hide in the shade?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「ん～～～、結構日差しが強いね。ちょっと物陰に避難しよっか」=Nnn~~~, the sun's pretty strong today. Shall we go hide in the shade?
 「公園の物陰？　ふふ、いいわねっ、ちょっと探索しましょ♪」=Shade in the park? Fufu, sounds nice--, let's hunt for some♪
 「探索ね。おっけー…………って、探索？　何を？　どうして？」=A hunt, huh. Okay...--wait, hunt? for what? why?
 「ああん、いっぺんに質問しないで……使用済みのゴムとかぁ、エロ本とか？」=Aahn, one question at a time... hunting for used condoms, or porn mags and stuff, I guess?

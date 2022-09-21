@@ -1,3 +1,6 @@
-﻿「あ、あはは、人に見られながら食べるのってなんだか照れますね」=A-Ahaha, eating while someone's looking at you makes you pretty self-conscious, doesn't it?
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「あ、あはは、人に見られながら食べるのってなんだか照れますね」=A-Ahaha, eating while someone's looking at you makes you pretty self-conscious, doesn't it?
 「そうかもしれないね。じー」=I feel you. *stare*
 「もう、あんまり見ないでください。ほら、あなたも食べて食べて」=Jeez, please don't stare so much. Come on, you should eat as well.

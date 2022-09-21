@@ -1,4 +1,7 @@
-﻿「ここのハンバーグちょっとした名物料理なんだって」=They say the hamburg steak here is something like a local speciality of this entire area.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「ここのハンバーグちょっとした名物料理なんだって」=They say the hamburg steak here is something like a local speciality of this entire area.
 「名物になるのもわかるよ。うまそうだもん、見るからに」=I can understand why. Just by looks alone, it seems so delicious.
 「ふふ、[P名]君、食べたそうな顔してる～！　一口あげよっか？」=Fufu, [P]-kun, you sure seem like you wanna try some~! Want a bite?
 「ほんとに？　じゃあ、お言葉に甘えて……」=I can have one? Well then, I'll take you up on that offer...

@@ -1,4 +1,7 @@
-﻿「うぃ～……ここに来るまでで、既にダルくなってきたっす……」=Uui~... I'm already tired out, just from coming here...
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「うぃ～……ここに来るまでで、既にダルくなってきたっす……」=Uui~... I'm already tired out, just from coming here...
 「まぁまぁ、歌えばストレス解消になるよ」=Now-now, you'll be able to vent all that stress by singing.
 「そういえば、[H名]はカラオケによく来るの？」=On that note though, do you come out to Karaoke often, [H名]?
 「ん～、疲れるし友達とも、ほとんど行かないかな～」=Nn~, it's tiring and stuff, and I don't really go out much with my friends~

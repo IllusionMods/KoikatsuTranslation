@@ -1,0 +1,7 @@
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「座席が空いてなくて残念だったね、立ってて辛くない？」=Shame we couldn't find any seats, you okay with standing?
+「私は大丈夫。電車の中で立って本を読む事も多いから慣れてるわ。[P名]君こそ、席が空いたら座ってきていいよ」=I'm fine. I'm used to reading novels while standing on the train anyway. If anything, feel free to take a seat if one opens up, [P]-kun.
+「いや、俺も大丈夫。[H名]の傍を離れたくないし」=Nah, I'm fine to. I don't want to leave your side either.
+「ふふっ、そう言ってくれると思ってたけど、改めて言われるとドキドキしちゃうね」=Fufu--, I thought you'd say that, but hearing you actually do it really sends my heart racing.

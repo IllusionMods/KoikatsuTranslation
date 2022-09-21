@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「今日はいい天気だね。広々としてるし、空気も綺麗だし……なんだか、走り回りたくなっちゃうよね」=“Really good weather out today, isn't it?”
 「ふふふ、まるでワンちゃんみたいね。あなたをリードと首輪でつないだ方がいいかもしれないわ」=“Fufufu, you're like a puppy. Maybe it'd be better to put a collar and leash on you.”
 「ははは、ノーリードで大丈夫だよ。ちゃんと飼い主の言うこと聞くからね」=“Hahaha, you can keep me unleashed. I'll obey my master, no problem.”

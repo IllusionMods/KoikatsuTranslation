@@ -1,1 +1,4 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「今日は楽しかったなぁ。ではでは、これで。また誘ってくれると嬉しいんだなぁ」=“Today was so much fun~. Well then, this is where we go our own ways. I hope you ask me out again~”

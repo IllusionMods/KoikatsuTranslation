@@ -1,4 +1,6 @@
-
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
 「美味しいご飯を食べると、幸せになれます」=“Eating good food, makes me happy.”
 「わかるよ。嫌なことがあっても忘れちゃうくらいだよね」=“I feel you. It just washes away all the badness, doesn't it?”
 「ええ。ご飯は偉大です」=“Yes. It makes life worth living.”

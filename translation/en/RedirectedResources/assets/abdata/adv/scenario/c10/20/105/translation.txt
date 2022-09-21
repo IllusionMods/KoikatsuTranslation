@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「ふわぁ～～～っ！　素敵！」=“Fuwaah~~! So lovely!”
 「はは、いいリアクションありがとう」=“Haha, I'm happy you like it.”
 「あ……ふふん、闇夜に浮かぶ光、その一つ一つがまるでゴミのようだ！」=“Ah... fufuhn, each and every one of those lights, they twinkle like pieces of garbage!”

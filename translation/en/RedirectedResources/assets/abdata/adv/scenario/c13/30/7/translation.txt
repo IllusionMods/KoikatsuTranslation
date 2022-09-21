@@ -1,4 +1,7 @@
-﻿「え～っと……[P]くんはアタシが好きってこと……なのかな？」=Erhm~... does that mean you... love me?
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「え～っと……[P]くんはアタシが好きってこと……なのかな？」=Erhm~... does that mean you... love me?
 「うん。俺はきみのことが好きだ。だから、付き合ってほしい。」=Yeah. I love you. So, I want you to go out with me.
 「……うん。ア、アタシも……その、[P]くんのこと好きだったから……」=...Yeah. M-Me too... that is, uhm, I love you too so...
 「両想いだったのか……それはなんというかその……ありがとう」=So it's mutual love, huh... I don't know what to say to that other than... thanks.

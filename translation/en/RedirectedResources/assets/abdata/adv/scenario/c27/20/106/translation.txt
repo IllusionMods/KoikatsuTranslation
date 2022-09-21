@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「……いつ来ても、ここは素敵ね」=“...No matter when we come here, this place is always beautiful, isn't it?”
 「ん……そうだね」=“Nn... yeah.”
 「心地いい夜風に吹かれながら愛しい[H名]と綺麗な夜景を見る……最高のシチュエーションだなぁ」=“Being able to watch this lovely night sky next to my beloved girlfriend, while savouring this breeze... this is just the best situation, don't you think?”
@@ -10,6 +13,8 @@
 「ごめんごめん。俺もここの雰囲気に流されてたよ」=“Sorry, sorry. I got a bit carried away by the mood here too.”
 「……デートスポットの魔力？」=“...The magic of a date spot?”
 「はは、そうかも」=“Haha, I guess so.”
+CHOICE:『この前はエッチまでしちゃったしね』=『We even had sex last time, didn't we?』
+CHOICE:『また、この景色を二人で見に来ようね』=『Let's come look at this scenery again together, okay?』
 「この前はエッチまでしちゃったしね。あれは完全に魔力のせいだね、うん」=“We even went as far as to have sex last time. That was completely the fault of the magic of a date spot, wasn't it? Yeah.”
 「魔力じゃなくて、あんたの性欲でしょう！？　ていうか、今思い出させないでよ！」=“That was more just your sex drive, no!? Also, don't make me remember that!”
 「でも、[H名]は俺を受け入れてくれたよね？」=“But, you accepted me back then, didn't you, [H名]?”
@@ -31,6 +36,3 @@
 「手……ちゃんと繋いで」=“You forgot to... hold my hand.”
 「あっ、ごめんね。よし、それじゃあ帰ろう」=“Ah--, sorry. Alright, let's go home then.”
 「うんっ」=“Okay--”
-
-CHOICE:『この前はエッチまでしちゃったしね』=『We even had sex last time, didn't we?』
-CHOICE:『また、この景色を二人で見に来ようね』=『Let's come look at this scenery again together, okay?』

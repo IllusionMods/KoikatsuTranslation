@@ -1,4 +1,7 @@
-﻿「おっ。なんか甘い匂いが漂ってきてる」=Oh--. I can smell something sweet.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「おっ。なんか甘い匂いが漂ってきてる」=Oh--. I can smell something sweet.
 「向こうのクレープ屋さんからですね。何人か並んでいます」=Must be from that crêperie over there. Quite a few people are lined up.
 「ホントだ。俺たちも行ってみる？」=You're right. Wanna try hitting them up too?
 「そうしましょうか。少しお腹も空きましたので」=Let's. I'm feeling a bit peckish myself.

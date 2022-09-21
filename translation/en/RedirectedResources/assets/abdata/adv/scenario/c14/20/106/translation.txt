@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「んん～、何度も見てもいい景色だよな～」=Nn~, it's always so beautiful, no matter how many times we come here~
 「うん、そうだね！」=Yeah, it is!
 「夜景スポットはたくさんあるけど、やっぱりここが一番落ち着くぜ」=There's lots of night-view spots in this city but, this is where I feel the most relaxed.
@@ -14,6 +17,8 @@
 「へへっ、私のキス、上手くなってるだろ……？」=Hehe--, I'm getting better at kissing, no...?
 「うん、上手だよ、[H名]……」=Yeah, you're amazing at it, [H名]...
 「…………」=“......”
+CHOICE:『前はここからエッチまでしたよね』=『We even had sex last time, didn't we?』
+CHOICE:『また、ここに来ようね』=『Let's come here again sometime, okay?』
 「……前はキスだけじゃなくて、エッチまでしちゃったよね」=...We didn't just stop at kissing last time, did we? We even had sex.
 「もしよかったら、今日も俺としてみない？」=If you're up for it, wanna do it again with me?
 「はぁ……お前の頭の中は、そればっかなのかよ！」=Haa... is that the only thing that goes on in your head?!
@@ -27,5 +32,3 @@
 「冷え込んでくる前に、今日はそろそろ帰ろうか」=We should head home, before it gets any colder.
 「名残惜しいが……また来るって約束したしな。約束破ったら許さねぇぞ？」=It's sad but... we did promise that we'd come here again. I ain't gonna forgive you if you break that promise, okay?
 「そんなことしないって」=I wouldn't dream of it.
-CHOICE:『前はここからエッチまでしたよね』=『We even had sex last time, didn't we?』
-CHOICE:『また、ここに来ようね』=『Let's come here again sometime, okay?』

@@ -1,4 +1,7 @@
-﻿「写真で見たよりもずっと大きいね」=It's sure way bigger than it looked in the picture.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「写真で見たよりもずっと大きいね」=It's sure way bigger than it looked in the picture.
 「そう？　こんなものよ。写真より小さいのが来るのと比べれば良心的じゃない」=Yeah? Well, it's certainly way better than places that have servings smaller than they look in pictures, no?
 「それ、食べ切れるの？」=You sure you can eat it all?
 「愚問ね……私がスイーツを食べきれないわけないでしょ？」=What a silly question... Do you really think a girl like me can't go through her sweets?

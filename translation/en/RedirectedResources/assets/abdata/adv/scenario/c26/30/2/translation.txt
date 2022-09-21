@@ -1,4 +1,6 @@
-
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
 「……あなたと話す時間は、楽しいから好き」="...I'm enjoying the time we spend together. It's kind of fun, to be honest."
 「はは、そういってもらえると嬉しいよ」="Really? I'm flattered..."
 「……あなたのする話は、面白いから全部覚えてる」="All of the stories you told me... They were so interesting."

@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「ねえねえ[P名]くん、下があんなに小さく見えるよっ」=“Hey, hey, [P]-kun, look, everything down there looks so tiny--”
 「あはは、楽しそうでなにより。来てよかったね」=“Ahaha, I'm glad you're enjoying yourself. Good thing we came.”
 「そういや、[H名]は遊園地にはあんまり来たことがないみたいだったけど……最後に観覧車に乗ったのって、いつ？」=“Reminds me, doesn't seem like you come to amusement park all that often... when was the last time you rode on the ferris wheel?”

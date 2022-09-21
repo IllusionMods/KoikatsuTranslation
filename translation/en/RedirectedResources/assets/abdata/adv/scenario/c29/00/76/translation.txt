@@ -1,4 +1,7 @@
-﻿「そういえば、昔は休み時間にドッジボールとかよくやってたなぁ」=Reminds me, back in the day, during recess, I always played dodgeball with my friends.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「そういえば、昔は休み時間にドッジボールとかよくやってたなぁ」=Reminds me, back in the day, during recess, I always played dodgeball with my friends.
 「まさかとは思いますけれど、いたいけな彼女にボールをぶつける気ではありませんよね」=Not that I think you actually would but, you're not thinking of throwing a ball at your adorable, helpless girlfriend, right?
 「そんなことしないって……！　ほら、これバレーのボールだから。トス！　トスの練習！」=Of course not...! Look, this is a volleyball, ya know? I was thinking of tossing practice! Just tossing!
 「ふふっ。冗談ですよ」=Fufu--. It was a joke.

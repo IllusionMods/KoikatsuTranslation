@@ -1,1 +1,4 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「このようなはしたない願いを聞いて下さるなんて……感謝します……♪」=“I cannot believe you listened to such a vulgar request of mine... thank you very much...♪”

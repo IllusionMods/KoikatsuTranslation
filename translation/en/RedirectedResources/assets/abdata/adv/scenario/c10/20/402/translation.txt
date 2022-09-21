@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「うぅ……む、むぅ……う～ん……ふぅぅぅ……」=“Uuu... m-muuh... nnnn~... fuuuuu...”
 「[H名]？　どうかした？」=“[H]? What's wrong?”
 「う、うむ……店内が落ち着かなくて……少し、羞恥を感じているのだ」=“U-Umu... I can't calm down... I feel, a bit shy.”

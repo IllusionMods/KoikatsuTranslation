@@ -1,4 +1,7 @@
-﻿「ふふっ、ねぇねぇ、図書室でお勉強ってなんかわくわくせん？」=Fufu--, hey, doesn't it feel kinda exciting to study in the library?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「ふふっ、ねぇねぇ、図書室でお勉強ってなんかわくわくせん？」=Fufu--, hey, doesn't it feel kinda exciting to study in the library?
 「……？　どういう風に？」=...? In what way?
 「ほら、こんなに静かなとこやん？　そこで二人で……なんて……青春っぽいやん」=I mean, look, it's such a quiet place, no? The two of us, together here... heh... feels like the springtime of life.
 「あはは、[H名]って本当に青春好きだよね。でも……まぁ、分かるかも。大人になったら、こんな風に勉強することもなくなりそうだし……」=Ahahah, you really love that term, don't you? But... well, I think I get it. Once we grow up, we won't really study like this anymore...

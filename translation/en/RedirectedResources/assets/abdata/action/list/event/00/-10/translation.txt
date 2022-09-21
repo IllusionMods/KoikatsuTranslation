@@ -1,4 +1,7 @@
-﻿数学の授業=Math Class
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+数学の授業=Math Class
 水泳部での亜依=Ai in the Swimming Club
 ズル休み=Playing Hooky
 乙梨さんのトラウマを打破せよ=Breaking Through Otonashi-san's Trauma

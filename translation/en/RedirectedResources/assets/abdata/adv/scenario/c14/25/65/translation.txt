@@ -1,3 +1,6 @@
-﻿「普段と変わらない帰り道だけど、お前がいると、なんか変な感じだな……」=It's the same street home as usual but, with you next to me, it feels kinda weird...
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「普段と変わらない帰り道だけど、お前がいると、なんか変な感じだな……」=It's the same street home as usual but, with you next to me, it feels kinda weird...
 「どうして？」=Why?
 「いや、誰かと一緒に帰るなんて今まで無かったからよ……こういうのも悪くないかもな」=Well, it's just that I've never really walked home with someone else before... this sort of thing might not be all that bad either.

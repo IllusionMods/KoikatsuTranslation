@@ -1,0 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「うぅ、ケダモノ。誰にも気づかれないからよかったけど……」=“Uu, you animal. It's fine since nobody noticed us though...”
+「ごめん、ごめん。ここからは大人しくしてるからさ」=“Sorry, sorry. I'll pipe down for the rest of the journey.”
+「当たり前のことを言わないでよ！」=“Of course you will, that's not even up for debate!”

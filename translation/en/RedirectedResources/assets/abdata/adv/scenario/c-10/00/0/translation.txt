@@ -1,5 +1,9 @@
-﻿（次の授業は数学か……げっ！）=(My next class is math... geez!)
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+（次の授業は数学か……げっ！）=(My next class is math... geez!)
 何気なく机の中をあさると、出てきたのは前の学園で使っていた数学の教科書だった。=I casually rummaged through my desk and came across a math textbook from my old school.
+亜依=Ai
 「どうしたの？」=What's wrong?
 「前の学園のやつと間違えて持ってきちゃったみたいで……」=I think I accidentally brought the textbook from my old school...
 「わっ……本当だ。どうしよ、橋本先生忘れ物にすごく厳しいんだよ」=Ahh... it's true. I'm not sure what you should do, Hashimoto-sensei is very strict about forgetting things.
@@ -8,7 +12,9 @@
 「！　助かるよ！」=! Thanks a lot!
 「じゃ、ちょっと行ってく――」=Wait here, I'll be back in a minute.
 「あ……」=Ah...
+麗奈=Reina
 「みんな、席に着きなさい。授業を始めるわよ」=Everyone, take your seats. Class is about to begin.
+号令係=Class representative
 「起立！　礼！」=Stand up! Bow!
 「ご、ごめーん。間に合わなかった」=I-I'm sorry. I didn't make it in time.
 「いや、水瀬さんのせいじゃないよ」=No, it's not your fault.
@@ -49,7 +55,7 @@
 俺は橋本先生が黙々と公式を書いているのを確認してから、返事を書く。=I made sure that Hashimoto-sensei was writing a formula on the board, then quietly wrote a reply.
 『作戦って？』="What was the plan?"
 水瀬さんは顔色を変えずに、さらさらとシャーペンを走らせる。=Without hesitation, Minase-san smoothly worked her pencil.
-『橋本先生はすっごく厳しいけど、代わりの提案も一緒にするとあまり怒らないんだよ( .)φ』="Hashimoto-sensei is very strict, but she doesn't get too angry if you suggest alternatives that work. ( .)φ"
+『橋本先生はすっごく厳しいけど、代わりの提案も一緒にするとあまり怒らないんだよ( ..)φ』="Hashimoto-sensei is very strict, but she doesn't get too angry if you suggest alternatives that work.( ..)φ"
 なるほど、そういうことだったのか。=I see, so that's what it was.
 『橋本先生はいつも“生徒の自主性を重んじる”って言ってるから、ちゃんと考えてマイナスを埋めようとすると認めてくれるの』="She always says that she values her students' autonomy, so if you think properly and fill in the blanks she'll agree to it."
 （逆に、単に忘れたことだけ伝えると怒られるってことかな？　もしそうなら、あぶなかった……）=(On the other hand, if I had just told her that I had made a mistake she'd get mad? If so, that could have been a bad idea...)
@@ -65,11 +71,11 @@
 「もう一問解いてみるわね。ちょっとした応用が入ってくるけど、ちゃんと整理すればこんがらがることもないわ」=I'm going to solve one more problem. There's a bit of work involved, but it won't be too confusing if you organize it properly.
 （学園の先生というよりは塾講師って感じだな……）=(Sounds more like a tutor than a school teacher...)
 そんな感想を抱いていると、隣りの席からノートがすっと差し出された。=As I was thinking, a notebook was quickly presented to me from the next seat.
-『さっきからすごく余裕そうだけど、もしかしてキミって数学できる人？Σ(･ω･ﾉ)ﾉ！』="You look so relaxed about all this, are you good at math by chance? Σ(･ω･ﾉ)ﾉ！"
+『さっきからすごく余裕そうだけど、もしかしてキミって数学できる人？Σ(･ω･ﾉ)ﾉ！』="You look so relaxed about all this, are you good at math by chance? Σ(･ω･ﾉ)ﾉ!"
 俺は先生が問題を解いている最中なのを確認してから、筆談を始める。=I made sure the teacher was looking away, and then started writing.
 『そこまでじゃないけど、前の学園でやったところだったから』="Not really, but we already did this at my old school."
 『！』="!"
-『ごめん、数学ってどうしても苦手でダメダメなんだぁ…… (-_-;)　何かいい方法ないかな(>_<。)』="I'm sorry, but I'm really bad at math... (-_-;)　I wish there was a clearer way to do this(>_<。)"
+『ごめん、数学ってどうしても苦手でダメダメなんだぁ…… (-_-;)　何かいい方法ないかな(>_<。)』="I'm sorry, but I'm really bad at math... (-_-;) I wish there was a clearer way to do this(>_<。)"
 （う～ん。そうは言ってもな……橋本先生以上にうまく教えるなんて不可能じゃ……）=(Hmmm. That being said... I don't think it's possible to teach this any better than Hashimoto-sensei...)
 と思ったところで、前の学園の先生はとにかく教科書の書かれていることに沿って授業をしていたことに気が付いた。=When I thought about it, I realised that the teacher at my previous school had just been teaching according to what was written in the textbook.
 片や橋本先生は、教科書を見るのは設問を確認する時ぐらいで、あとはほとんど自分のノートを見ながら教えている。=Hashimoto-sensei, on the other hand, only looks at the textbook to read the questions, and the rest of the time teaches from her own notes.
@@ -119,7 +125,3 @@
 （コイカツ部に誘ってみてもいいかもしれないな）=(Maybe I should ask her to join the Koikatsu club)
 いつか時間のあるときに、コイカツ部の話をしてみよう。=One day when we've got more time, I'll tell you about the Koikatsu club.
 俺は小躍りする水瀬さんを見ながらそう思った。=I thought to myself as I watched her bouncing up and down.
-
-亜依=Ai
-麗奈=Reina
-号令係=Class representative

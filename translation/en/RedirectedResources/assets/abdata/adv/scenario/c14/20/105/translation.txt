@@ -1,4 +1,7 @@
-﻿「おおっ、いい景色だなー！」=Ooh--, what a view!
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「おおっ、いい景色だなー！」=Ooh--, what a view!
 「よかった、[H名]に喜んでもらえてなによりだよ」=Thank goodness, I'm really glad you like it.
 「いやあ、私もそこそこいい場所は知ってるけどよ、こんな景色は初めてだぜ」=Well, I mean, I know some pretty nice places too but damn, this is the first time I've seen something like this.
 「へえ、良かったら他の夜景スポットも教えてほしいな」=Hoh, I'd love to see some of those spots too.

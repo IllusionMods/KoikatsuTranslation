@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「え……いやだ。別れるのなんていやだよ！」=“Eh... No. I don't want to break up!”
 「ごめん。これ以上は……」=“Sorry. I really can't take this...”
 「だって……まだ、しなきゃいけないこともいっぱいあるのに」=“I mean... there's so much stuff, we haven't done yet.”

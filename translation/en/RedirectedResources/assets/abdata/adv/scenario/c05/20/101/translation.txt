@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「へえ……このあたりは案外、穴場だね。歩道から離れているから人も少ないし、景色もいい」=“Hoh... this area's quite the nice spot, isn't it? It's a ways away from the main path, so there's not many people, and the view's great too.”
 「そうなの。公園の中だと、ここは最高の交信スポットなんだよ？」=“That's right. This is the best spot in this park for communication, you know?”
 「邪魔するものがないから、電波がよく届くの」=“There's nothing that gets in the way so, the reception's quite good.”

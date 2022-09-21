@@ -1,4 +1,7 @@
-﻿「ひゃっ！？　こ、ここは女子トイレですよ～っ！」=Hyah--!? T-This is the girls' toilet, you know~!
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「ひゃっ！？　こ、ここは女子トイレですよ～っ！」=Hyah--!? T-This is the girls' toilet, you know~!
 「ひゃぁぁっ！？　み、見ないでください～っ！」=Hyaaah--!? D-Don't look~!
 「……今急いでるから、また今度……」=...I'm in a rush, so maybe later...
 「……なんでしょうか……？」=...What is it...?
@@ -89,6 +92,7 @@
 「え、えっと……私、愛想悪いとか思われてたり、する……？」=E-Erhm... d-do I come off as, unamiable...?
 「う、うん。自覚はあるんだけど、つい……」=Y-Yeah. I do have enough self-awareness to know that, but sometimes I just...
 「そ、そうかな……たまに呼ばれても気づかなかったりするから……」=R-Really?... Sometimes I just don't notice, when people call out to me so...
+「……えっと、やっぱり言いづらいの……？　その、ごめんなさい」=...Erhm, I expected as much but, it's hard to answer, isn't it...? Uhm, I'm sorry.
 「えっと、動物とかは……好き？」=Erhm, do you... like animals and stuff?
 「そうなんだ。私も、小説とかの物語でもよく見るから……」=I see. I like them too, they often show up in the novels I read so...
 「うん、実物を見ると、ニオイとかが思ったよりね……」=Yeah. When face to face with a real one, the smell and stuff is just...

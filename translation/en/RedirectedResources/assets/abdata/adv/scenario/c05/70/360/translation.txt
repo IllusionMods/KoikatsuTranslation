@@ -1,0 +1,10 @@
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「ちょっと、恥ずかしかった……」=“That was, a bit embarrassing...”
+「その割には、結構大きな声も出してなかった？」=“You say that but, weren't you moaning quite loudly there?”
+「“かれら”が、わたしの口を乗っ取ったの……」=“They, hijacked my mouth...”
+「はは、そっか。それなら仕方ないね」=“Haha, I see. Suppose it couldn't be helped then.”
+「うん。今日は“かれら”とも、[P名]くんとも、いっぱい交信できたと思う」=“Yeah. I think I got a lot of communication in today, both with "them", and with you, [P]-kun.”
+「そっか……俺も、[H名]の気持ちをたくさん感じられた気がするよ」=“I see... I feel that I got to feel your feelings lots too, [H].”
+「そろそろ時間だね。じゃあ、俺は会計済ませてくるよ」=“Our time's almost up, isn't it? I'll go and settle the bill then.”

@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 ………………=.........
 …………=......
 ……=...
@@ -8,6 +11,9 @@
 「…………」=“......”
 「なんか、このままさよならするのってちょっと寂しいよね」=It feels kinda lonely just saying goodbye like this, doesn't it?
 「はい。不思議です」=Yes. It's strange.
+CHOICE:『自宅に誘う』=『Invite to your place』
+CHOICE:『ラブホに誘う』=『Invite to a love hotel』
+CHOICE:『それでもさよならする』=『Or say goodbye』
 「えっとさ……このままウチに来ない？」=Urhm, so listen... Won't you come to my place?
 「デート後に彼女を自宅へ招き入れる、と。……なるほど、了解しました」=Inviting your girlfriend to your place after the date, Hm.I see, alright, I understand.
 （……何かを了解されてしまった）=(...I think she just gave me the permission to do something.)
@@ -27,7 +33,3 @@
 「ちゅ、ん……」=*Kiss*, Nn...
 「ありがと。じゃあ、またね」=Thanks. Then, see ya later.
 「ええ。それではまた」=Yes. Till next time.
-
-CHOICE:『自宅に誘う』=『Invite to your place』
-CHOICE:『ラブホに誘う』=『Invite to a love hotel』
-CHOICE:『それでもさよならする』=『Or say goodbye』

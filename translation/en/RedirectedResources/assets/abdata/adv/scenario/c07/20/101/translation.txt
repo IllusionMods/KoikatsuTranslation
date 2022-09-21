@@ -1,4 +1,7 @@
-﻿「天気が良くて気持ちいいな－。絶好の散歩日和だね」=Man, the weather's so good today. Perfect day for a walk.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「天気が良くて気持ちいいな－。絶好の散歩日和だね」=Man, the weather's so good today. Perfect day for a walk.
 「って、あれ？　[H名]がいない……？　どこに行ったんだ？ おーいっ！」=--wait, huh? Where is [H名]...? Did she go somewhere? Hey, [H名]--!
 「ばぁっ！！」=Baa--!!
 「うびょおぅっ！！！！」=Ubyouh--!!!!

@@ -1,1 +1,4 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「きゃっ……。はぁ、あなたか。怒る気も失せたから、早く出ていって」=“Kyah--... Haah, it's you, is it? I don't even feel like getting angry, so just get lost.”

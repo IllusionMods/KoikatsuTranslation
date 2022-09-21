@@ -1,4 +1,6 @@
-
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
 「ジャンケンポン！　あいこでしょ！　あ～ん、負けちゃったわ。私が鬼ね」=“Rock, paper, scissors! Aahn~, I lost. Guess I'm it then.”
 「うふふ、待て待て～……きゃっ！」=“Ufufu, just you wait~... kyah--!”
 「あっ、大丈夫！？」=“Ah--, you alright?!”

@@ -1,2 +1,4 @@
-
-//「おはです！　ふふっ、朝からいっぱい目配せしちゃうですよ♪」=
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「おはです！　ふふっ、朝からいっぱい目配せしちゃうですよ♪」=“Morning! Fufu--, ready yourself for lots of winks and glances♪”

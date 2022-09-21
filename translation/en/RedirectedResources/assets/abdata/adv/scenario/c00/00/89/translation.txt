@@ -1,4 +1,7 @@
-﻿「ちょっと思ったんだけど……俺たち、愛称で呼び合ったらどうなるのかな？」=Hey, I was thinking... what'd it be like if we started calling each other by nicknames?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「ちょっと思ったんだけど……俺たち、愛称で呼び合ったらどうなるのかな？」=Hey, I was thinking... what'd it be like if we started calling each other by nicknames?
 「ふたりの仲がもっと深まるんじゃないかな。ちょっとやってみましょうよ」=We'd probably get even closer together. Let's try it out.
 「えっと、それじゃあ俺のことは……[Pあだ名]で」=Erhm, well then, call me by uh... [Pあだ名].
 「なぁにそれ、そんな呼び方でいいの？」=What's with that, you sure you want me to call you that?

@@ -1,1 +1,4 @@
-﻿「誰かに見つかったらどうするんだよ！　き、嫌いじゃないけど！」=What'll you do if someone sees us! N-Not to say I hate it though!
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「誰かに見つかったらどうするんだよ！　き、嫌いじゃないけど！」=What'll you do if someone sees us! N-Not to say I hate it though!

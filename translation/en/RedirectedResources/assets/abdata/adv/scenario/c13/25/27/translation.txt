@@ -1,1 +1,4 @@
-﻿「ありがと～、[P]くん。すっごい嬉しい」=Thanks~, [P名]-kun. I'm super happy.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「ありがと～、[P]くん。すっごい嬉しい」=Thanks~, [P名]-kun. I'm super happy.

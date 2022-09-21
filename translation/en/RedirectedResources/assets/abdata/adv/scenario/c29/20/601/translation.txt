@@ -1,4 +1,7 @@
-﻿「なるほど。中はこのようになっているのですね」=I see. So this is what it looks like on the inside, huh?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「なるほど。中はこのようになっているのですね」=I see. So this is what it looks like on the inside, huh?
 「びっくりした？」=Surprised?
 「あ、当たり前です。普通は来ることがありませんし……」=O-Of course. It's not like I've ever come here before...
 （でも、俺とは来てくれたんだよね）=(But, you did come here today with me.)

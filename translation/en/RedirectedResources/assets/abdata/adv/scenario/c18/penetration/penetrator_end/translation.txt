@@ -1,1 +1,4 @@
-﻿「ありがとうございました。また見かけたら……その時はお願いしますねっ」=Thank you very much for that. If I come across you again... please let me join in then too, okay?--
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「ありがとうございました。また見かけたら……その時はお願いしますねっ」=Thank you very much for that. If I come across you again... please let me join in then too, okay?--

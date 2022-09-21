@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「あーむ……むふぅ～……あむあむ……ん～っ、何と美味な糧よ！」=“Aaahm... mufuuh~... ahmu ahmuh... nnnn~, such delectable provisions!”
 「ふふ、[H名]、すっごい笑顔になってるね」=“Fufuh, [H], you're smiling a ton today.”
 「はっ……な、何のことだ？　我は簡単に笑顔など見せたりはせぬ」=“Hah--... w-what art thou talking about? I do not smile that easily.”

@@ -1,4 +1,7 @@
-﻿「恋人っぽいこと……するんだよね？ な、なんかドキドキするね～」=We're gonna... do romantic stuff, right? M-My heart's kinda racing~.
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「恋人っぽいこと……するんだよね？ な、なんかドキドキするね～」=We're gonna... do romantic stuff, right? M-My heart's kinda racing~.
 「緊張してる？ 無理はしなくていいけど……」=Are you nervous? You don't need to force yourself, you know...
 「無理してるわけないじゃん！ あ、相手が[P]くんだとなんか照れちゃって……」=I'm not forcing myself! I-It's just that having you be in the other side made me kinda burn up...
 「か、可愛い。抱きしめていいか」=C-Cute. Can I hug you?

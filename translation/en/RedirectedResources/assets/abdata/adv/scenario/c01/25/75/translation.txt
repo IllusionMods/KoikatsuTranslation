@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「まさか、用具室に縄跳びが置いてあるとは思わなかったよ」=“I never thought our school's storage would have a skipping rope of all things.”
 「……私、縄跳び苦手なんです。どうしても足に引っかかってしまって」=“...I'm actually, really bad with those. My feet always get caught in it.”
 「そうなんだ。見てるから飛んでみてくれる？」=“I see. I'll watch you, so could you try doing it for me?”

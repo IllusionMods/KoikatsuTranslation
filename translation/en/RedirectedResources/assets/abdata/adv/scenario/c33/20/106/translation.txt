@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「また、思い出の場所に連れてきてくれてありがと」=Thanks for bringing me to this place of memories again.
 「あの日は、ここに[H名]さんを連れてきてよかったよ」=I'm glad I brought [H名]-san to this place that day.
 「激しいセックスが出来たから？」=Is it because we had such hot sex that day?
@@ -7,6 +10,8 @@
 「ええ。あなたと心から一つになれた場所だもの」=Yes. Afterall, it's the place where we were able to become one, heart and soul.
 「……今日の夜景は本当に綺麗。もしかしたら、自分の心の鏡なのかもね」=... The nightscape tonight really is pretty. Maybe it's a mirror, reflecting my heart.
 「あなたと真剣に付き合って、他の子にも負けたくないって気持ちでいるから、あなたとの時間を貴重に思えるし、夜景もキラキラして見える」=Going out seriously with you, and having the feeling of not wanting to lose to any other girl, I treasure out time together, and the nightscape looks glistening and sparkling too.
+CHOICE:『[H名]さんの方が綺麗だよ』=『[H名]-san is way more beautiful!』
+CHOICE:『本当に綺麗な夜景だね』=『Truly, what a beautiful nightscape.』
 「[H名]さんの方が綺麗だよ。この前ここに来たときより、もっと綺麗になってる」=I personally think that you're way prettier, [H名]-san. You've become even prettier than when we came out here before.
 「それは、あなたに恋をしてるから。あなたの喜ぶ顔を想像しながらお化粧をして、あなたの興奮した顔を夢見ながら髪をとかすの」=That's because I love you. I put on makeup while thinking about your happy expression, and did my hair while dreaming about your aroused expression.
 「興奮した顔？」=Aroused expression?
@@ -28,6 +33,3 @@
 「しばらく、こうしてていい？」=Can we stay like this, for a while?
 「それは、もちろん」=Of course.
 「あなたがどんどん女の子の心を抉る言葉を覚えてて、お姉さん将来が心配よ」=With how quickly you're learning phrases like that, that just dig out a woman's heart, Onee-san's worried for the future.
-
-CHOICE:『[H名]さんの方が綺麗だよ』=『[H名]-san is way more beautiful!』
-CHOICE:『本当に綺麗な夜景だね』=『Truly, what a beautiful nightscape.』

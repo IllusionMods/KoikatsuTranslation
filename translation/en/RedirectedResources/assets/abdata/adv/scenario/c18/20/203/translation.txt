@@ -1,5 +1,10 @@
-﻿「いっぱい回ったね、もうこんな時間だ」=We went around a ton, huh? It's already this late.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「いっぱい回ったね、もうこんな時間だ」=We went around a ton, huh? It's already this late.
 「どうします？ 時間を考えるとアトラクションに乗るなら最後になりそうですけど」=What shall we do? The next ride we get on will have to be our last for the day.
+CHOICE:『そうだな……観覧車でも乗っていかない？』=『Good question... wanna go ride the ferris wheel?』
+CHOICE:『暗くなる前に帰ろっか』=『We should go home before it gets too dark.』
 「そうだな……観覧車でも乗っていかない？」=Good question... wanna go ride the ferris wheel?
 「いいですね、ロマンチックですっ」=Good idea, sounds romantic!
 「でも……宙吊りなので、ちょっと怖いんですよね……」=But... we'll be suspended in midair, so I'm a bit scared...
@@ -9,6 +14,3 @@
 「はいっ。あ、帰りにお土産をみたいです」=Okay--. Ah, I want to look at the gift shop before we leave.
 「いいね。なにか今日の思い出になるものでも買いに行こっか」=Sounds good. Let's go buy something to remember the day with.
 「なにがいいでしょう……今から迷っちゃいます」=I wonder what'd be good... I'm already stuck on what to get.
-
-CHOICE:『そうだな……観覧車でも乗っていかない？』=『Good question... wanna go ride the ferris wheel?』
-CHOICE:『暗くなる前に帰ろっか』=『We should go home before it gets too dark.』

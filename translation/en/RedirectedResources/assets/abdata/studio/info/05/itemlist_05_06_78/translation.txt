@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 艦艇の模型=War Fleet Model
 魚雷発射管の模型=Torpedo Tube Model
 2連装砲台の模型=Twin Gun Mount Model

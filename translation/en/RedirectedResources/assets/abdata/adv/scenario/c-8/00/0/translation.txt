@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「さてと、今日はどんな活動をするかな」=“Now then, what should I do today?”
 ぼんやりと呟きながら廊下を歩く。=Slowly contemplating, I walked down the hallway.
 本当は部員の勧誘なんかもしなきゃいけないんだけど、いつもいつもそういうテンションでいられるわけもない。=I should really be out recruiting new members, but it's not like I can be that high-strung all the time.
@@ -5,6 +8,7 @@
 正直、半端じゃない心細さだ。=Feels lonely as heck you know?
 とはいえ、そういう役目でここにいるのも事実。=But hey, that's why I'm here in the first place.
 何とかしなきゃなぁと思いながら、歩いていると……。=I continued down the hallway, worrying about my lack of action. When...
+女の子=Girl
 「こんにちはなのですー！」=“Hello there!”
 「ん……？」=“Hmm...?”
 ずいぶんとエキセントリックな格好をした女の子が何か配っているけど……。=A girl in pretty eccentric clothing who was handing out flyers caught my attention.
@@ -27,6 +31,7 @@
 「えっ！？　あ、ああ、まぁ、有名かどうかは分かんないけど……一応、一人だけの男子だよ？」=“Huh!? Aah, w-well, not quite sure about the famous part... But yeah, I'm the only boy in school I suppose?”
 「おおお！　お目にかかれて光栄なのです！　私、漫研部部長の柊このみと言う者であります！」=“Oooh! It's an honor to meet your sir! I'm Hiiragi Konomi, President of the manga club.”
 「あ、うん、それはさっき聞こえてきたから何となく分かってるけど……」=“Ah, uh, yeah, I kinda figured that out from what I heard…”
+このみ=Konomi
 「ふおお、初対面なのに名前が分かるということは！　あなたはエスパーさんの類いですか！？」=“Ooh, you already know my name even though we just met! Mayhaps you're a psychic of sort, sir!?”
 「いやごめん、名前は今知ったばかりだよ。漫研部ってことが聞こえてきて……」=“Ah, sorry, no. I didn't know that that was your name. The Manga Club part was what I heard and...”
 「そちらでありましたか！　なるほどなるほど！」=“Aah, so that was what you mean! I see I see”
@@ -149,6 +154,3 @@
 「ぐぬぬ……諦めないであります。先輩に入って頂ければ、男性がいるという物珍しさから他の学生たちだって……」=“Hnugh~nugh, don't give up now. If Senpai were to join, everyone else would be willing join out of curiosity...”
 （客寄せパンダ！？）=(An attraction to lure people in!?)
 素直だったり黒かったり、何だかちょっと変わった娘だなと思いつつ、俺はその場を後にした。=I finally left the hallway, with thoughts of a somewhat strange girl, who's at times a schemer but also at times quite honest and likable.
-
-女の子=Girl
-このみ=Konomi

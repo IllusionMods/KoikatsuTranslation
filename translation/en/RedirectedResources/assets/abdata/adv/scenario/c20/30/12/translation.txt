@@ -1,4 +1,7 @@
-﻿「……は、はい……わ、私でよければ……！」=...O-Okay... I-If you'll have me...!
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「……は、はい……わ、私でよければ……！」=...O-Okay... I-If you'll have me...!
 「本当に、大丈夫？　震えてるけど……」=Are you really sure? You're kinda shaking...
 「こ、怖いのは確かですけど……でも、あなたのこと、大好きだから……」=I-I won't deny, that I'm scared... but, I really do, love you so...
 「わ……私の初めては、あなたにあげます」=I... I'll give my virginity, to you.

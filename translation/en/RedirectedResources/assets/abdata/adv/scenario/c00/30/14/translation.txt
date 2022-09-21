@@ -1,2 +1,5 @@
-﻿「あん、もう起きちゃった。せっかく寝顔を眺めてたのに」=Ahn, up already, huh? I finally got to take my time staring at your sleeping face too.
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「あん、もう起きちゃった。せっかく寝顔を眺めてたのに」=Ahn, up already, huh? I finally got to take my time staring at your sleeping face too.
 「おはよう。君と朝を迎えられるなんて、幸せだわ……」=Morning. It's pure happiness, being able to welcome a new morning next to you...

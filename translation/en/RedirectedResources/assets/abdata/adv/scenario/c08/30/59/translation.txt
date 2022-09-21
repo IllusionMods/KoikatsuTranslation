@@ -1,2 +1,5 @@
-﻿「えへっ、デート、楽しかったぁ」=Ehe--, that was so much fun.
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「えへっ、デート、楽しかったぁ」=Ehe--, that was so much fun.
 「絶対にまた行こうね。はい、約束の指切りげんま～ん♪」=We have to definitely go out on a date again sometime, okay? Here, let's make a pinky promise~♪

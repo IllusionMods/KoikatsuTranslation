@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「へえ、色々あるんだね」=Hoh, there's quite the variety.
 「あのお店、入ってもいいですか」=That shop over there, can we go take a look at it?
 「うん、いいよ」=Yeah, sure.

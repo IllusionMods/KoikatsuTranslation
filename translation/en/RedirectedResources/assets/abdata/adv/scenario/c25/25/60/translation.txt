@@ -1,1 +1,4 @@
-﻿「お疲れ～。まあ楽しかったよ～。またね～」=So tired~. Well, it was fun~. See ya~
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「お疲れ～。まあ楽しかったよ～。またね～」=So tired~. Well, it was fun~. See ya~

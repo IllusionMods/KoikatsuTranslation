@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「じゃあ、そろそろ……するぞ」=“Well then, let's... do it.”
 「あはは、やっぱり、[H名]もしたかったんだね」=“Ahaha, you wanted to do it too, huh?”
 「むぅ……キミは、あたしとしたくないのかー？」=“Muu... do you not wanna do it with me?”

@@ -1,0 +1,9 @@
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+（うーん、デートだからって少し早く来すぎちゃったかな）=(Mmm, even if it was for a date, I got here way too early.)
+「……あっ、おーい！　[P名]！」=“...Ah--, hey! [P名]!”
+「[H名]？　どうしたの、そんなに急いで」=“[H名]? You rushed all the way here, what's the matter?”
+「いや、だってキミが待ってるから……。時間は？　もしかして、あたし遅れちゃったか？」=“No, I mean, you were waiting there so... Is it already time? Was I late, by any chance.”
+「ははっ、大丈夫大丈夫。まだ待ち合わせ時間より前だよ」=“Haha--, nah, you're good. It's still not the time we were supposed to meet up at.”
+（さてと、今日はどこに行こうかな……）=(Now then, where should we go today...)

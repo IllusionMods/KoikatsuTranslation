@@ -1,2 +1,4 @@
-
-//「あ、あれ？　もういいのか？　出してない……よな？　あたしは大丈夫だから、遠慮するなよ？」=
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「あ、あれ？　もういいのか？　出してない……よな？　あたしは大丈夫だから、遠慮するなよ？」=“H-Huh? Are you sure? You've not... cum, have you? I'm fine, you know? You don't need to hold back, okay?”

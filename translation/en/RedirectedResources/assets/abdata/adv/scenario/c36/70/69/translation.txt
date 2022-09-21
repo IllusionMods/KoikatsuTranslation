@@ -1,0 +1,11 @@
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「じゃあ、とりあえず始めていこうか」="So, let's start at once!"
+「とりあえずって何？　貴方、いつもそんな適当な勉強の仕方をしているの？」="Get started? Don't tell me you always study in like that?"
+「えっ、まぁ、気が乗ったところから手を付けてく感じかなぁ……」="Eh? Well, I got excited and so I just wanted to start right away..."
+「集中力散漫ね。それで良く、一緒に勉強しようなんて言えたものだわ」="You won't be able to concentrate like this. What's more, it was you who wanted to study together."
+「いやでも、一つのところでずっと詰まるよりは、効率がいい時もあるんだよ？」="Well yeah, but rather than contemplating one problem, working together is more efficient, right?"
+「ほら、どう？　結構捗ったと思わない？」="Hey, check it out. Don't you think I've made progress?"
+「誤差の範囲よ。まぁ、全然ダメだと思っていたから、予想以上の結果ではあるわね」="You're withing the error range. Well, I thought you're totally hopeless, but you somehow pulled through."
+「でしょでしょ？　次は[H名]さんの勉強のやり方も知りたいな」="Right? Right? Next time I want to see the way Miss [H名] studies as well!"

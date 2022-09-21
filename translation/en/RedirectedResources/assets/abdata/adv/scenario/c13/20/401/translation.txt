@@ -1,4 +1,7 @@
-﻿「なんだか喫茶店の雰囲気って落ち着くよね。静かに流れる時間が心休まるというか」=Cafes like these have a really calming air to them, don't you think? Feels like the quietly passing time is soothing my heart and stuff.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「なんだか喫茶店の雰囲気って落ち着くよね。静かに流れる時間が心休まるというか」=Cafes like these have a really calming air to them, don't you think? Feels like the quietly passing time is soothing my heart and stuff.
 「あ～、その感覚分かる～。このお店は特に内装とかシックでいい感じだし、ゆったりしてたくなるよね～」=Ah~, I feel you~. This cafe in particular has a very chic interior design, you can't help but want to just take it easy~
 「こういう素敵なお店を見つけられるのも、コイカツ部の成果かな？」=Is it because of the Koikatsu club that you know how to find lovely shops like these?
 「それもあるけど……一番はやっぱり、[H名]の喜ぶ顔が見たいからかな」=There is that but... I think the biggest reason was that I wanted to see your happy expression, I guess?

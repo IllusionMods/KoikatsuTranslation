@@ -1,4 +1,7 @@
-﻿「ちょっと提案なんだけど、お互いを愛称で呼んでみない？」=I've an suggestion, wanna try calling each other by nicknames?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「ちょっと提案なんだけど、お互いを愛称で呼んでみない？」=I've an suggestion, wanna try calling each other by nicknames?
 「愛称……より仲が深まりそうな気がしますね。構いませんよ」=Nicknames... feel like they'll make us closer, yes. I don't mind.
 「やった！　じゃあ、俺のことは[Pあだ名]って呼んでもらえる？」=Yay! Well then, could you call me [Pあだ名]?
 「ええっ？　な、なぜそのような不思議な呼び方なのですか……」=Eeh--? W-Why does it have to be such an strange nickname?

@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「ええと、その…………ど、どうぞ」=“Eerhm, uhm... g-go ahead.”
 「いいの？　本当にするよ？」=“You sure? I really will, you know?”
 「は、はい……あなたとなら……いえ、あなたとだから、勇気を出せるんです」=“Y-Yes... if it's with you... no, it's because it's you, that I'm not afraid.”

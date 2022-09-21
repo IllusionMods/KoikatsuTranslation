@@ -1,0 +1,26 @@
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「今日は遊園地にしてみたけどどうかな？」=“Well, I thought we could try out the amusement park today, but what do you think?”
+「えへへ、すごく嬉しいです！　私もちょうどこういう賑やかなところへ来たかったですよ！」=“Eheheh, I'm super happy! I wanted to come and spend some time in such a bustling place myself!”
+「良かった。それじゃ早速、何か乗ってみる？」=“Great. Well then, let's not waste time. What should we start with?”
+「はいです！　えーっと……どんなものでも平気ですか？　苦手なものとかあれば言ってくださいです」=“Yes! Erhm... is anything fine? If there are any rides you don't like, please tell me.”
+「俺？　俺はなんでも平気だよ。むしろ[H名]は大丈夫なの？」=“Me? I'm fine with anything. If anything, are you fine with anything, [H]?”
+「ええ、どれも大好きですよ！　さっきパンフレットを見て、ちょっと気になるものがあったから……行っていいですか？」=“Yes, I love them all! The pamphlet from earlier got me really interested in a specific one... could we go there?”
+「もちろん！　どんな乗り物？」=“Of course! What ride is it?”
+「あそこに見えている……逆バンジーなのです！」=“It's that one over there... the reverse bungee!”
+「お……おおぅ……」=“Oh... ooo...”
+「ふぇ……？　も、もしかして苦手ですか！？」=“Fueh...? Y-You don't like it?!”
+「いやいや、大丈夫！　バンジーって言ってもロープじゃないし……椅子に座って打ち上げられるだけだし……」=“No, no, I'm fine! I mean, it's called 'bungee' but it's not like they tie a rope onto you... you just get flinged into the sky on a seat, that's all...”
+「無理してないですか？」=“Are you sure you're not forcing yourself?”
+「してないしてない。せっかく来たんだから、ああいう絶叫系にもたくさん乗らないとね！」=“Not at all. We came all this way, we gotta ride all sorts of screamers else it won't be worth the admission price!”
+「はいですっ！　ではでは、早速行くですよー！」=“Yes--! Well then, let's go let's go!”
+「あっ、走ったら危ないよ！」=“Ah--, don't run, you might trip!”
+（はは、[H名]、本当に好きなんだな。こうやってはしゃぐ姿を見せてくれるなら、多少の絶叫系くらい……）=(Haha, she sure does love those sorts of things. If I get to see her running around like this, a screamer or two are no big...)
+………………=.........
+「ふわぁ！　最高だったですー！　こんなに気持ち良かったの久しぶりですよ！」=“Fuwaah! That was the best! It's been a while since I've felt this good!”
+「あ、あはは……そう……だね……」=“A-Ahaha... yeah...”
+「あっ……ほ、本当に大丈夫ですか？　なんだか……打ち上がる直前から無口になってたですけど……」=“Ah--... a-are you really okay? I feel like... you went completely silent just before they launched us up...”
+「大丈夫大丈夫……[H名]が楽しんでくれるのが俺の幸せ……」=“I'm fine, I'm fine... seeing you enjoying yourself is enough for me...”
+（でも……今のはさすがに……燃え尽きた……ガクッ……）=(But... that really was... overkill... *shake*...)
+「わぁぁ、膝から崩れないでくださいーっ！」=“Waaah, please don't collapse here--!”

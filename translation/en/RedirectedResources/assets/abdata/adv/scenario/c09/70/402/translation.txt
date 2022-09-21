@@ -1,0 +1,25 @@
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「あんた、紅茶を注文してたけど、コーヒーは飲まないの？」=“I see you ordered black tea, do you not drink coffee?”
+「いや、今日は紅茶の気分だったってだけで、どっちでも飲むよ」=“No, today I just felt like black tea but, I drink both.”
+「どっちもなんて優柔不断ね。適当にどっちが好きってきっぱり言えばいいのに」=“That's so wishy washy. You should just say which one you like better.”
+「そう言われても……でも、そういう二択って妙に盛り上がるね」=“Even if you say that... but, that sort of two choice thing is kinda strangely exciting, isn't it?”
+「そうね。女子の中ではそういう話題が特に多いわ」=“Yeah. Girls especially, we talk about that sort of stuff a lot.”
+「その時も、どちらか選ばないといけないの？」=“At those times, do you have to throw down the gauntlet and pick one too?”
+「うん……でも、どちらか選んでしまうと、その反対派としばらく疎遠になりかねないのよね」=“Yeah... but, if you do pick one, sometimes you end up becoming estranged from the other camp, you know?”
+「なんか、友達付き合いも大変だね」=“Being in a girl friendship sounds hard.”
+「だからそういう時は、どっちにもつかないようにしてるけど……」=“That's why, at times like that, I try to not pick just one...”
+「それじゃ、さっきの俺と同じじゃないか」=“Isn't that the same as me just then, then?”
+「うぅ……それなら、何か二択の質問してみなさいよ。ちゃんと答えてあげるから」=“Uuu... then, ask me something with two choices too. I'll answer for sure.”
+「それじゃあ……コーヒー頼んでたけど、ミルクとか入れる派なんだっけ？」=“Well then... I saw you ordered coffee, are you someone that puts milk in yours?”
+「あたしは、大人だからそのまま飲むわよ」=“I'm an adult, so I drink mine as-is.”
+「うーん……ブラックコーヒーって、泥臭いって言う人いない？　ドラマとか漫画とかでさ」=“Hmm... but aren't there people who say that black coffee kinda smells like dirt? I've seen it in TV dramas and manga for sure.”
+「え？　……そうなの？　別のを頼んだ方がよかったかな……」=“Eh? ...Really? Maybe I should have gone with something different...”
+「い、いや、そんなに気にしなくても……。それに、飲むのは[H名]なんだから好きなの選びなって」=“N-No, well, you don't need to care so much about it... Not to mention, you're the one who has to drink it, so go with what you like.”
+（余計な事を言ってしまったかな……）=(Maybe I said too much...)
+「絶対、砂糖とミルク入れるわよ。そのままなんて飲めないわ」=“Of course I add milk and sugar to mine. I can't drink it as-is.”
+「そういえば紅茶も、イギリスではミルクティーが主流だね」=“Come to think of it, even in England, they mostly drink their tea with milk, don't they?”
+「レモンティーはこっちのフレーバーティーと同じ感覚なんだって」=“Apparently the "lemon tea" they drink over there is about the same as our "flavoured tea" here.”
+「ふぅん……まぁ、あたしは、ミルクさえ入ってればなんでもいいわ」=“Hmm... well, for me, as long as it has milk in it, I can drink it.”
+「わ、わかりやすいな……」=“T-That's quite the palate...”

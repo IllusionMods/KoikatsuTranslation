@@ -1,0 +1,7 @@
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「集中できる環境作りは大事ね。その点、図書室は最高だわ」="It's important to prepare an environment where you'll be able to concentrate. In that respect, library is the best."
+「う、うん、そうだね。集中、集中っと……」="Yeah, right. Concentrate, concentrate..."
+「貴方が成績を落とすのは勝手だけど、私の邪魔はしない事。盗み見してるの、全部わかってるわよ」="If your grades get worse, it's your problem, but don't inconvenience me. I can tell you've been glancing at my notes."
+「うぐっ、さ、流石です……[H名]様……」="Ugh, as one would expect. [H名]-sama..."

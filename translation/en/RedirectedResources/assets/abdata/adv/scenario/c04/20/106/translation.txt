@@ -1,4 +1,7 @@
-﻿「ここに来るとなんだか心が落ち着くわ」=Coming here really calms me down, for some reason.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「ここに来るとなんだか心が落ち着くわ」=Coming here really calms me down, for some reason.
 「ねえ……初めて来た時のこと、覚えてる？」=Hey... do you remember, the first time we came here?
 「もちろんよ。あなたがここに連れてきてくれて、私、本当に感動したもの」=Of course. It really moved me, when you brought me here.
 「はは、そう言ってくれたから、何度でも[H名]とここに来たくなるよ」=Haha, it's because you told me that, that I just can't help but want to come here with you again and again.
@@ -11,6 +14,8 @@
 「ええ、その後……エッチなこともしたわ」=Yes, at that time... we did some lewd stuff too.
 「そんなこともあったね」=That we did.
 「なんだか、夜景までエッチに見えてきてしまう」=I can't help, but feel the sky looks lewd too.
+CHOICE:『またしようか？』=Shall we do it again?
+CHOICE:『また、この景色を二人で見に来ようね』=Let's come here to look at this view again, shall we?
 「またしようか？」=Shall we do it again?
 「同じように？」=Just like last time?
 「そう。でも今度はまた違う思い出になるかも知れないよ」=Exactly. But, this time, we might make some new, unique memories, you know?
@@ -30,5 +35,3 @@
 「うん、俺も[H名]が一番好きだよ」=Yeah, I love you the most in this world too.
 「……それじゃあ、そろそろ帰ろうか」=...Well then, let's head home, shall we?
 「ええ……あなたとまた、ここに来れる日が楽しみだわ」=Yes... I'm looking forward, to coming here with you again.
-CHOICE:『またしようか？』=Shall we do it again?
-CHOICE:『また、この景色を二人で見に来ようね』=Let's come here to look at this view again, shall we?

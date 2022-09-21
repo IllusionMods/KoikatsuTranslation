@@ -1,1 +1,4 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「ふぅ……楽しかったですね。まあ、たまにならまたOKですよ」=Fuu... It was a lot of fun, wasn't it? Well, I'm fine with doing this sort of thing every once in a while.

@@ -1,0 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「いいですね。何をしましょうか？　だいたいのスポーツならルールは存じております」=Sounds nice. What shall we do? I know rules for most of the general sports.
+「最初はやっぱり軽いものがいいかな」=Maybe we should start with something light, don't you think?
+「ご心配には及びません。体力には多少自信がありますから」=You need not worry about me. I have confidence in my stamina, to a reasonable extent.

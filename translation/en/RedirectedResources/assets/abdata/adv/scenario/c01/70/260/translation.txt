@@ -1,0 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「あの……満足、しましたか……？」=“Uhm... are you, satisfied...?”
+「うん。ごめん、こんなところでしちゃって……」=“Yeah. Sorry, I made you do it in a place like this...”
+「いえ……誰にも見つかっていないようなので……大丈夫です……」=“No... nobody seems to have noticed us so... it's alright...”

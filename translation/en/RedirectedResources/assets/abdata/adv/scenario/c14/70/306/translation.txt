@@ -1,0 +1,21 @@
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+……………………=............
+「ふう……これだけ歌えれば、私はもう満足だな」=Fuu... we've sung so much today, I've had my fill.
+「うん、俺もだよ。でも、まだ時間あるんだよね。延長時間取り過ぎちゃったなぁ」=Yeah, me too. But, we've still got some time on our slot. We extended it too much~
+「う～ん。でもよ、私はもう歌いきりました、って気分だぜ」=Nnn~. But, you know, I've already sung all that I felt like singing today.
+「ま、ここでのんびり時間潰すのも悪くねえかもしれないな。どうするよ、[P名]？」=Well, just taking it easy and chilling out here might not be so bad either. What do you wanna do, [P]?
+CHOICE:『それじゃ、最後までいようか』=Well then, let's stay till the end.
+CHOICE:『今日はもう帰ろうか』=Let's just go home.
+「それじゃあ、最後までここにいようよ」=Well then, let's stay here till the end.
+「そうだな。この部屋、邪魔も入らねえし、わりと快適だしな」=Cool. This room is pretty sealed, nobody's going to come bother us, it's pretty nice.
+「……ここでエッチしても、誰にも気づかれなかったし」=...Nobody noticed, even when we had sex here last time.
+「……だったら、今日もシてみる？」=...In that case, wanna do it again?
+「えっ？　……いっ、いや、今度こそ、誰かが来るかもしれねえだろ」=Eh--? ...N-No, we shouldn't push it, someone's definitely going to walk in on us this time.
+「でも……そういうのも、スリリングでいいんじゃないかな？」=But... doesn't that sound pretty thrilling in its own way?
+「……スケベな奴。もうどうなっても知らねえぞ」=...You perv. Don't blame me later.
+「することもないし、今日はもう帰ろっか」=It's not like we've got anything to do, let's just go home.
+「そうだな。たまにはこんな何もない日があってもいいだろうな」=Yeah. Just spending a day or two like this sometimes where we do nothing is pretty nice too.
+「何もないって……一体どんなことがあってほしかったの？」="where we do nothing"... Just what exactly is it that you wanted us to do?
+「うっ、うっせー！　ちょっとは自分で考えろ！」=S--, Shaddup! Use your head for once!

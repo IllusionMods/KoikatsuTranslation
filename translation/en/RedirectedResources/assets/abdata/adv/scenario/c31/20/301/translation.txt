@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「[H名]ってどんな歌が好きなの？　やっぱりロックとか？」=What sort of music do you like, [H名]? Rock and stuff?
 「ロックというか、テンポの速い曲が好きだな。音楽には詳しくないから、正確な名前はわからん」=Rock, yeah, or rather, I like music with fast tempo. I'm not all that knowledgable about music, so I don't know the exact name.
 「あー、わかるかも。音楽って色々あり過ぎて、そもそもジャンルの分け方が分からない感じでしょ？」=Ah, I feel that. There's so many types of music out there, it's hard to know just which genre to label them as, right?
@@ -16,5 +19,5 @@
 「うるさい、茶化すなっ。言っておくが、あまり期待はするなよ？」=Shut up, don't make fun of me--. I'll say this in advance but, don't expect too much, alright?
 「あっ、これ！　ロックじゃなくてアイドルソングだよ？　俺も知ってる！」=Ah--, this! This isn't a rock song but an idol song, you know? I know it too!
 「い、いいだろう？　最近はこの曲がお気に入りなんだ。ンッ、黙って聞いていろっ」=I-Isn't it fine? I've really gotten into this song lately. Nn--, shut up and listen--.
-『小さな手の平 掴める物は～♪　きっと限られているけど♪』=『This small hand, the things it can grasp～♪ They are surely limited, but♪』
+『小さな手の平 掴める物は～♪　きっと限られているけど♪』=『This small hand, the things it can grasp~♪ They are surely limited, but♪』
 「おお！　歌い方はやっぱり少しロックっぽいかも！　いい感じだよー！　[H名]ー！」=Oooh! Your way of singing really does sound a bit like Rock! It's really nice! [H名]!

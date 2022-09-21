@@ -1,0 +1,19 @@
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「メリーゴーランドの次は何に乗るか？」=What do you want to ride after the merry go round?
+「コーヒーカップなんてどう？」=How about the coffee cup?
+「いやいや、そろそろ刺激的なやつにしようぜ。なんかいいモンはないか……」=No way, let's go with something more stimulating. Surely there's something here...
+「……お、ジェットコースターじゃねえか！　よし、あれに乗ろうぜ！」=...Oh, that's a rollercoaster, innit! Alright, let's ride that!
+「え……やめといた方がいいんじゃないかな？」=Eh... maybe you should reconsider.
+「おいおい、ビビってんのか」=Hey, are you pussying out on me?
+「いや、あれ確か、かなりキツイって評判のジェットコースターだよね？」=No, well, that's that rollercoaster that everyone talks about, no? The super rough one.
+「へえ、そうなのか。だったら、なおさら乗ってみたくなったぜ」=Hoh, is it now? In that case, I wanna ride it more than ever now.
+「なあに、ただの度胸試しだよ。ほら、お前も一緒に来いよ！」=Nothing to get scared about, it's just a test of courage. C'mon, you're coming with me too!
+「う、うん……」=K-Kay...
+………………=.........
+（う、うう……。評判以上のキツさだった……結構身に応えるな……）=(U-Uuu... That was even rougher than what I'd heard... really did a number on me...)
+「た、た、大したことなかったな！」=T-That was nothing, not a big deal at all!
+「[H名]……俺の手をそんなに握りしめて、どうしたの？」=[H名]... why've you got my hand in a deathgrip then?
+「べ、別に！　お前が、び、ビビってねえか心配してやってるんだぜ！」=N-No reason! I'm just worried, a-about you, if you're gonna collapse on me from the fear, and stuff!
+（こんなに強がってる[H名]が見られるなら、ジェットコースターも悪くはないかもしれないな……）=(That ride's not all that bad afterall, not when I get to see her like this afterwards...)

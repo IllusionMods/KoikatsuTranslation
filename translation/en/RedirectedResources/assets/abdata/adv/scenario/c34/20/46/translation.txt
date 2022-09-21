@@ -1,3 +1,6 @@
-﻿「ド、ドーデシタカ？　ワタシ、あまり上手違いマスカラ……」=H-How was it? I'm not really all that good at it...
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「ド、ドーデシタカ？　ワタシ、あまり上手違いマスカラ……」=H-How was it? I'm not really all that good at it...
 「Ｇｏｏｄだったよ」=It was really good.
 「っ！　Ｅｎｇｌｉｓｈで言うヤメテクダサーイ。何故かスゴク照れちゃうヨ……♡」=--! Don't say it in English, please. It's really embarrassing for some reason that way...♡

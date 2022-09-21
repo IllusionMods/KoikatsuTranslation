@@ -1,4 +1,7 @@
-﻿「じゃ～ん。今日は手作りのお弁当持ってきました～」=Tada~. I brought you a handmade lunch today~.
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「じゃ～ん。今日は手作りのお弁当持ってきました～」=Tada~. I brought you a handmade lunch today~.
 「うぉ！ めちゃくちゃ美味そう。いただきます！ って、なんでくれないの！？」=Uwoh! It looks amazing. I'm digging in! Wait, why did you pull it back!?
 「勝手に食べちゃダメじゃん？ アタシが食べさせてあげるから……はい、あ～ん」=Why did you start digging in by yourself? I'll feed it to you so... here, aahn~
 「あ、あ～ん……もぐもぐ、ごくん。うん！ めっちゃ美味しい！」=A-Aahn... *chew chew*, *gulp*. Yeah! It's super delish!

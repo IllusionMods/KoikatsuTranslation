@@ -1,4 +1,7 @@
-﻿「ちょっと提案なんだけど、恋人同士なんだから、愛称で呼び合ってみない？」=I've a suggestion. Since we're a couple and everything, wanna try calling each other by a nicknames?
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「ちょっと提案なんだけど、恋人同士なんだから、愛称で呼び合ってみない？」=I've a suggestion. Since we're a couple and everything, wanna try calling each other by a nicknames?
 「素敵です♡　本当にラブラブな二人という感じがしていいと思います♡」=It's a wonderful idea♡ It'll seem like we're extremely lovey-dovey with each other, I think it's great♡
 「じゃあ、俺のことは[Pあだ名]って呼んでくれない？」=Then, won't you call me [Pあだ名]?
 「うふふ♡　あなたの性癖通りの愛称ですね♡」=Ufufu♡ That matches your fetishes to a T♡

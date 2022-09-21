@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「さてと。まず最初はあれとか乗ってみるのはどう？」=Now then. How about we try riding that first?
 「あれは……水の中に飛び込む乗り物のようですね」=That... looks like one that goes through water.
 「そうそう。ジェットコースターほど高くは昇らないけど、スリルと爽快感は強いと思うんだ」=Right, exactly. It doesn't go as high as a roller coaster but, I bet it's real thrilling and refreshing.

@@ -1,2 +1,5 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 巫女武者手甲=Shrine Maiden Warrior Bracers
 鬼神の小手=Demon God's Gauntlets

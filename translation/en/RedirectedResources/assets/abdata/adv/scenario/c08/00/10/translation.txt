@@ -1,4 +1,7 @@
-﻿「うん、入部するよ。実はちょっと興味があったんだぁ。だから誘ってくれてありがとう」=Yeah, sure, I'll join. I was actually a little bit interested. So thanks for asking me.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「うん、入部するよ。実はちょっと興味があったんだぁ。だから誘ってくれてありがとう」=Yeah, sure, I'll join. I was actually a little bit interested. So thanks for asking me.
 「お礼を言うのはこっちだよ。ありがとう」=I should be the one saying that. Thanks.
 「コイカツ部って、今までみたいにいろんなことを教えてくれるところなんだよね？」=The Koikatsu club is a place where you're gonna teach us all sorts of things, like you've been teaching me till now, right?
 「うん。手取り足取りいろんなことを教えてあげるよ」=Yeah. I'll give you some hands on training.

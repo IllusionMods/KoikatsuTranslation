@@ -1,4 +1,7 @@
-﻿「おう！　いいぜ、帰ろう帰ろう！」=Oh! Sure, let's go, let's walk home together!
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「おう！　いいぜ、帰ろう帰ろう！」=Oh! Sure, let's go, let's walk home together!
 「ありがとな、ひとりじゃなんか嫌でさ」=Thanks mate, walking home alone is kinda a drag.
 「気にするな！　……って、あれ？　ふたりっきりで歩くなんて、これって……？」=Don't mention it! ...huh. Huh? Just the two of us, walking together, is this a...?
 「ん？　なんか言った？」=Hm? You say something?

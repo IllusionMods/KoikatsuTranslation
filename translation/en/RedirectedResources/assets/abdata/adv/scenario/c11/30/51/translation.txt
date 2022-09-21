@@ -1,2 +1,4 @@
-
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
 「あらあら、もう終わり？　そう、頑張れないの……じゃあ仕方ないわね」=“My, already over? I see, you can't do your best today... it cannot be helped then.”

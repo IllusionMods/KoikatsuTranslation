@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 三角木馬=Spanish Donkey
 木製拘束具=Pillory
 錘=Weighted Shackle

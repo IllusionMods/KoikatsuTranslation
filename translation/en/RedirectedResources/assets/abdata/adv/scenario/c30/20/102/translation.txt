@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「ねぇ、[H名]が持ってるのって……もしかして……」=Hey, [H名], that thing you're holding... is it...
 「あ、見つかっちゃった？　私ね、お弁当作ってきたの。一緒に食べたいなって思って」=Ah, you already noticed? I actually made a bento. I thought that we could eat it together.
 「おおぉ！　やった！　あそこのベンチで食べない？」=Oooh! Yeah! Why don't we go eat on that bench over there?

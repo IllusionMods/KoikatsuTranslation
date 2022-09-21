@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「観覧車に乗るのって子供の頃以来なんだなぁ」=“I think the last time I rode a ferris wheel was when I was a kid~”
 「昔は絶叫系が苦手だったから、よくお世話になったものです」=“I really wasn't good with screamer rides as a kid so, it often came in handy for my parents.”
 「俺は苦手なものはなかったけど、それでも観覧車は特別視していたな」=“There weren't any rides that I couldn't handle, but the ferris wheel was always a special ride for me too.”

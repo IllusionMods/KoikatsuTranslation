@@ -1,5 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 //「おはよう。今日もしっかり勉強するのよ？」=
 //「ええ、こんにちは」=
 //「さようなら。家での時間も無駄にしないように」=
-
-麗奈=Reina

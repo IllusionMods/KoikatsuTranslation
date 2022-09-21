@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「ん、お肉の香ばしい匂いがする……くんくん、どこからだろう？」=“Nn, the appetizing smell of meat... *sniff sniff*, wonder where it's from?”
 「あそこのお店じゃない？　ほら、『ホットドッグ』ってのぼりが出てるとこ」=“Isn't it from that shop over there? Look, that one with the banner that says "Hot Dog".”
 「おお、大正解みたい。ちょっと覗いてみようよ」=“Ooh, you're bang on. Let's go take a look.”

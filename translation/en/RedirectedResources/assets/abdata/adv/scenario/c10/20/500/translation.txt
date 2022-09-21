@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 ………………=.........
 …………=......
 ……=...
@@ -5,6 +8,9 @@
 「俺も楽しかったよ！　なにより、[H名]の新しい一面も見られたしね」=“Me too! More than anything, I got to see a whole new side of you, afterall.”
 「へ、へへへ……それなら、その、もっと違う一面も、見てみたくはない、か……？」=“H-Heheheh... in that case, uhm, don't thee want to, see yet another side, of me...?”
 「え……？」=“Eh...?”
+CHOICE:『自宅に誘う』=Take to your place.
+CHOICE:『ラブホに誘う』=Take to a love hotel.
+CHOICE:『さよならする』=Say goodbye.
 （[H名]のもっと違う一面、気になるな。でも、普通に誘うのは少し照れくさい……）=(I am curious, for sure. But, I can't just casually ask her to come to my place, that'd be too embarrassing...)
 「えっと……な、ならば同胞よ！　これから我が城へと案内しようではないか！」=“Erhm... t-then, my good fellow! Follow me, I shall show thee mine castle, my humbe abode!”
 「それって、おうちに……」=“Are you, asking me to...”
@@ -22,7 +28,3 @@
 （[H名]……寂しい気持ちを隠そうと、わざと明るく振る舞ってくれてるんだな）=([H]... she's trying really hard to hide how lonely she feels.)
 「ごめんね、[H名]。またすぐに誘うよ、絶対」=“I'm sorry, [H]. I'll definitely take you on a date again, real soon.”
 「……うん、絶対だよ♪」=“...Okay, that's a promise♪”
-
-CHOICE:『自宅に誘う』=Take to your place.
-CHOICE:『ラブホに誘う』=Take to a love hotel.
-CHOICE:『さよならする』=Say goodbye.

@@ -1,0 +1,7 @@
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「気は済みましたか？」=Are you satisfied?
+「う、うん……ホントにごめん、こんなところで……」=Y-Yeah... I'm really sorry, doing it in a place like this...
+「いえ、私も……あなたの匂いを感じてしまいましたから、お相子です」=Don't worry about it, I too... felt good from smelling your scent, so, we're quite even.
+「そ、そう？　なら……結果オーライか……？」=I-Is that so? Then... suppose all's well that end's well...?

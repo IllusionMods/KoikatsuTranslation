@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「はぁっ、かなり歩いたわね。足でも揉んでもらおうかしら」="*Siiigh* we've walked quite a lot. Maybe I should make you rub my feet?"
 「うん、いいよ。じゃあ、足をこっちに……」="Yeah, sure. Let's put your feet here..."
 「バカ、冗談よ。観覧車の中はマッサージルームじゃないわ」="Stupid! It was a joke! There's no room for a foot massage in a Ferris wheel cart!"

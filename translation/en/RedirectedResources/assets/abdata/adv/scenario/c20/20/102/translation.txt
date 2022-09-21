@@ -1,4 +1,7 @@
-﻿「うーん、よく晴れて公園デート日和だね」=Nnn, it's so nice out, perfect for a park date, no?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「うーん、よく晴れて公園デート日和だね」=Nnn, it's so nice out, perfect for a park date, no?
 「そうですね。天気がいいからか、人も多いです…………あ……」=Indeed. There's lots of people out too, wonder if it's because of the weather... ah...
 「ん？　どうかした？」=Hm? What's up?
 「あの人……さわやかな服装で、とってもおしゃれだと思いまして……」=That person... their outfit is so refreshing, I just couldn't help but...

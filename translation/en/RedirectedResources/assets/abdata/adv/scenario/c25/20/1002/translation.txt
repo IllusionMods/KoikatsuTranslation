@@ -1,9 +1,13 @@
-﻿（……なんか、緊張してきた）=(...I'm starting to get nervous.)
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+（……なんか、緊張してきた）=(...I'm starting to get nervous.)
 （きっと[H名]も緊張してるんだろうな……なんてたって、ドレスだし）=(I'm sure [H名]'s pretty nervous too, right about now... no matter what, it is a proper wedding dress.)
 （いよいよ出番か……）=(Finally, showtime...)
 （おぉ、内装も立派だ……）=(Ooh, even the interior is amazing...)
 （……よし、[H名]の新郎役をしっかり努めないと）=(...Alright, I gotta play the part of her groom properly.)
 （……ふぅ、一応モデルらしくできたかな？　少なくとも失敗はしてないはず）=(...Fuu, did I put on a good showing? At the very least, I shouldn't have messed it up.)
+モブ=Mob
 「これより新婦が入場致します。後方の扉口をご覧ください」=And now, the bride will make her entrance. Please pay attention to the main door.
 （[H名]……）=([H名]...)
 視線の先に、純白のウェディングドレスに身を包んだ[H名]が佇んでいた。=In front of my eyes, [H名] was standing there, clad in a pure white dress.
@@ -12,5 +16,3 @@
 （本当に……女神のようだ……）=(She really does... look like a goddess...)
 「[H名]のドレス姿……とても素敵だよ」=You look lovely in that dress... [H名].
 「ふふ～、ありがと～」=Fufu~, thanks~
-
-モブ=Mob

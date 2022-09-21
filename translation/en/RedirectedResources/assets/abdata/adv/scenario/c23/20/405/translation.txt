@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「そういえば漫画とかでハンバーグが出てくるイメージがないな」=“Come to think of it, a hamburg steak like this doesn't really feel like it'd ever show up in any manga, does it?”
 「うーん、別にそんなことはない気が」=“Nnnn, I don't think that's true.”
 「そう？　俺の勘違いかな」=“Really? Maybe I've just got the wrong idea then.”

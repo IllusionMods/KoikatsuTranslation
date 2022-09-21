@@ -1,0 +1,32 @@
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+モブ=Mob
+「それではこれより、式を執り行います」=Then without further ado, let's start the ceremony.
+「新たなご出発の証として、お二人には誓いの言葉を立てていただきます」=As the proof of a fresh departure, you both have to make certain vows.
+（……いよいよか）=(... Finally, huh.)
+牧師=Pastor
+「[P名]さん、あなたはこの女性とお付き合いし、より親密な関係になろうとしております」=Mr. [P名], You have been going out with this woman for a while now. And now you are proceeding towards an even more intimate relationship.
+「あなたは健康なときも、そうでないときも、お互いの気持ちが続く限り――」=Will you, in sickness or in health, as long as your feelings stand--
+「この人を守り、笑顔を絶やすことなく幸せにすることを誓いますか？」=protect this woman, and vow to become her happiness?
+「はい、誓います」=Yes, I vow.
+「[H名]さん、あなたはこの男性とお付き合いし、より親密な関係になろうとしております」=Miss [H名], You have been going out with this man for a while now. And now you are proceeding towards an even more intimate relationship.
+「それでは、二人の愛の証として、誓いのキスをお願いします」=Then, without further ado, as the proof of your love, seal these vows with a kiss.
+「……最初は、こういうのは早いんじゃないかって思ってた。でも引き受けて良かったよ」=...Honestly, at first, I was wondering if this was too early and fast for us. But, I'm glad we went along with it in the end.
+「[H名]が大好きだって改めて実感できたし、このままずっと大切にしたいって思えたんだ」=I got to re-affirm that I really love you, [H名], and that I wanted to treasure what we have together, forever.
+「ありがとうございます」=Thank you very much.
+「私も、あなたと同じ気持ちです」=I feel the same way as you.
+「そっか。気持ちが通じ合ってるのって、やっぱり嬉しいね」=I see. Knowing that we're in tune with each other, it really does make me happy.
+「それもあなたのおかげです」=That's thanks to you as well.
+「あなたが私に声を掛けてくれたから始まった関係なので」=Our relationship exists because you went out of your way to call out to me in the first place.
+「初めは不思議な人だと思ってました」=At the beginning, I thought you were a really odd person.
+「あれほど私に関わってくれる人、今までいませんでしたから」=Since, there hasn't ever been anyone till now who's been bothered enough to involve themselves with me to that extent.
+「あなたは不思議で、特別な人です」=You're a really odd, special person to me.
+「これからも恋人同士でいてくれますか？」=Will you continue to be my lover after this?
+「もちろんだよ。改めて、よろしくね」=That's a matter of course. Once again, do take care of me.
+「ん……」=Nn......
+「んっ……」=Nn--...
+………………=.........
+…………=......
+……=...
+「これからもよろしくお願いします」=Please do take care of me from now on as well.

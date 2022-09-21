@@ -1,4 +1,7 @@
-﻿「へへー、図書室で勉強って、あたしたちマジメなカップルだよなー？」=Hehe, we're such a straight laced couple, studying in the library and stuff.
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「へへー、図書室で勉強って、あたしたちマジメなカップルだよなー？」=Hehe, we're such a straight laced couple, studying in the library and stuff.
 「そうだね。ここなら勉強に集中できそうだし」=Yeah. Feels like we can concentrate more here too.
 「隣に座ってー、ギューッとしてー、チューしてー……」=Sitting right next to each other, hugging each other, kissing each other...
 「勉強に集中できない……」=Can't concentrate...

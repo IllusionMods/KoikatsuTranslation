@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「おー、すごいなー！　期待してたよりずっと美味しそうだぞ！」=“Ooh, this is amazing! It looks way more delicious than I expected!”
 「そうだね！　他の喫茶店と比べても、随分力が入ってるし」=“Yeah! It's quite something, even compared to the menus from other cafes.”
 「なんだか[H名]のを見てたら、俺も食べたくなってきちゃった……もしよかったら、一口もらえない？」=“Looking at your dish's made me wanna try some too... if it's alright, could I have a bite?”

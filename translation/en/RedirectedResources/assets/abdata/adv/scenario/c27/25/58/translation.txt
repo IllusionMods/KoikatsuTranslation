@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「うぅ、やっぱり緊張するぅ……でも、気張らずにやるわっ」=“Uuu, I really am nervous... but, I won't strain myself--”
 「あはは、肩に力入れすぎないようにね。それじゃ、今日はどこへ行く？」=“Ahaha, no need to get so nervous, okay? Well then, where do you wanna go today?”
 「この前入れなかったお店に行ってみたいわ。それから……」=“I wanna try going to all the stores we couldn't last time. After that...”

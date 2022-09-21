@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「もうすぐ待ち合わせ場所だけど……[H名]は居るかな……」=“I'm almost at the place we decided on... is [H] there...”
 「おっはよー！　はい、先に来てたあたしの勝ちねー！」=“Mornin'! Alright, since I got here first, I win!”
 （相変わらず元気だなぁ）=(Energetic as usual~)

@@ -1,3 +1,6 @@
-﻿「おはようございます、[Pあだ名]」=Good morning, [Pあだ名].
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「おはようございます、[Pあだ名]」=Good morning, [Pあだ名].
 「おはよう、[Hあだ名]」=Morning, [Hあだ名].
 「……やはり、少し恥ずかしいですね」=...It really is a tad bit embarrassing, isn't it?

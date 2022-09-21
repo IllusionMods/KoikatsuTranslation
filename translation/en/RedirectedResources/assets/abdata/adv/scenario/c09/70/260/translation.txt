@@ -1,0 +1,9 @@
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「……本当に、誰にも気づかれなかったでしょうね？」=“...You're sure that nobody noticed us, right?”
+「大丈夫。みんな気づいてないよ」=“We're good. Nobody's noticed.”
+「うぅ～、心配だわ～……だってあたし、いるだけで目立っちゃうもの」=“Uu~, I'm worried~... I mean, I stand out just by existing.”
+「ああ、うん。そだね」=“Aah, yeah. That's true.”
+「恥ずかしさを紛らわすためにボケたんだから、ちゃんと突っ込んでちょうだいよ～」=“I said that to push the embarrassment away, so atleast riposte back properly~”
+（……『突っ込むってチンコを？』ってボケたら怒るかなぁ）=(...Wonder if she'd get mad if I say「Riposte with what? Muh dick?」~)

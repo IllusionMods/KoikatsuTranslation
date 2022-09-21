@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「ホントは生徒指導室が一番集中できるんだけど……空いてなかったらしょうがないわね」=“Honestly, I concentrate the best when I study in the counselor's office but... it can't be helped since it was closed.”
 「教室でも充分勉強はできそうだし、ここでいいんじゃない？」=“Isn't it fine here? The classroom's pretty decent for doing studies too.”
 「そうね……それじゃ、まずは数学からやりましょ。ちょっと教えてほしいところがあるんだけど……」=“Yeah... well then, let's start with math. There's a spot I'd like your help with...”

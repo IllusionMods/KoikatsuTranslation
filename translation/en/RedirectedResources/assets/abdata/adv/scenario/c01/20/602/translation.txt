@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「[H名]……もう我慢できないよ……」=“[H]... I can't hold it in any more...”
 「待ってください……する前に、キスを……」=“Please wait... kiss me, before we do it...”
 「うん……んっ……」=“Sure... nn--...”

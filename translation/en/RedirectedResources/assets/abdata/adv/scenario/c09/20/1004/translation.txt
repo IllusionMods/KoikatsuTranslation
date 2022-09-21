@@ -1,3 +1,7 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+モブ=Mob
 「お疲れ様でした。ふふっ、素敵な式でしたよ」=“Good work today. Fufu~ It was a lovely ceremony.”
 「本番の結婚式も、是非、私どもの式場で挙げてくださいね！」=“For your actual wedding as well, please, do call upon us!”
 「えっと、前向きに考えさせてもらいます」=“Uhm, sure, if we get to that point.”
@@ -13,5 +17,3 @@
 （本番も俺と……なんて言える度胸があればな……）=(If only I had the courage... to ask her to have me, for her real one as well...)
 「さ～って……それじゃあ、素敵な経験ができたってことで、帰りますか！」=“Now then~... we had such a wonderful experience and everything, time to head home!”
 「あ～あ、一気に現実に戻してくれちゃって……でもまあ……いつまでも余韻に浸ってられないわね」=“Aah~, why'd you have to drag me back to reality... but well... guess we can't bask in the afterglow forever.”
-
-モブ=Mob

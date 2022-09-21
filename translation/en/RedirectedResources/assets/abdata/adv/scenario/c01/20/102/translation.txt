@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「あ、見て、あの雲、パンみたいだよ」=“Ah, look, that cloud, it looks like a loaf of bread.”
 「本当ですね。その隣りは動物のような形をしてますね」=“It really does. There's one that looks like an animal right next to that one too, isn't there?”
 「犬……いや、牛かな？」=“A dog... no, a cow?”

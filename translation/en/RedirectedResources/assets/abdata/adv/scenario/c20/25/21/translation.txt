@@ -1,4 +1,7 @@
-﻿「あ、おはようございます。　あの、朝ごはんはちゃんと、食べましたか？」=Ah, good morning. Uhm, did you eat breakfast properly?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「あ、おはようございます。　あの、朝ごはんはちゃんと、食べましたか？」=Ah, good morning. Uhm, did you eat breakfast properly?
 「そういえば食べてないな。今日起きる時間ギリギリで……」=Now that you mention it, I didn't. I just barely got out of the door in time...
 「うふふ、あなたのことだから、そうだと思いました。これ、よかったら食べてください」=Ufufu, I knew it'd end up like that, you're just just a klutz. Here, please eat this.
 「ありがとう！　それじゃ教室でいただくね」=Thank you! I'll eat it once I'm at my desk.

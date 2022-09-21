@@ -1,4 +1,6 @@
-
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
 「私、デートに行くのなんて初めてだから、なんか変な気分ね」=“It's my first time going on a date so, it feels kind of weird.”
 「あはは……俺も緊張してるよ。でも、精一杯エスコートするから」=“Ahaha...I'm feeling really nervous. But, I'll escort you as best as I can.”
 「ええ、わかったわ。……あなたのかっこいいところ見せてね」=“Yes, I understand. Let me see your cool parts.”
@@ -6,5 +8,5 @@
 「これがデート……か。このドキドキする感覚は普段味わえないわね」=“This is a date...huh. I don't usually have this nervous like feeling.”
 「どうかな？　俺なりにがんばってみてるんだけど」=“How is it? I'm trying my best, but...”
 「そうね、わ、悪くはないかしら。どちらかと言えば楽しいわ」=“Let's see, it's not bad. If I had to say it's quite fun.”
-（表情もどこか明るいように見えるし、楽しんでもらえてそうでよかった。）=（Her facial expressions look bright, it's great that she's enjoying herself.）
+（表情もどこか明るいように見えるし、楽しんでもらえてそうでよかった。）=(Her facial expressions look bright, it's great that she's enjoying herself.)
 「今日は貴重な体験ができたわ。その、ありがとう。それじゃさようなら」=“I got a very precious expereince today. Um, thank you. Well then, see you.”

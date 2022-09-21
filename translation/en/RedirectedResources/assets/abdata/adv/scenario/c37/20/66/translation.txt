@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「少しベンチで休んでいきましょう」=Let's rest a bit on that bench.
 「いいよ、ちょっと疲れたかな？」=Sure, did you get tired?
 「いえ、少しでもあなたと居られる時間を増やしたくて」=No, I just want to increase the time we have together, even by a little bit.

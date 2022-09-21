@@ -1,1 +1,4 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「あっ……えっと、その……なんと言いますか……あ、ありがとうございます」=“Ah--... erhm, uhm... what should I even say... t-thank you very much.”

@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「ここがラブホ……基本的には作画の通りですな……」=“This is a love hotel... it looks like just about what I've seen in anime...”
 「アニメに登場することあるんだ？」=“They show up in anime?”
 「まあ……作品によっては登場しますぞ」=“Well... depending on the genre, yeah.”

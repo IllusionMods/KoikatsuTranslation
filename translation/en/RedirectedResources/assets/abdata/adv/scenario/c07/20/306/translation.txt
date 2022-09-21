@@ -1,6 +1,11 @@
-﻿「ふ～、歌った歌った！　喉がカラカラだ……んむ、ごくごく……ぷは～！　ジュースうまい！」=Fuu~, we sure sang a ton! My throad's super dry... nnmuh, *gulp gulp*... ~puha~! This juice is great!
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「ふ～、歌った歌った！　喉がカラカラだ……んむ、ごくごく……ぷは～！　ジュースうまい！」=Fuu~, we sure sang a ton! My throad's super dry... nnmuh, *gulp gulp*... ~puha~! This juice is great!
 「はは、ちょっと疲れてきたね」=Haha, man, I'm feeling tiredness creeping up on me.
 「でも、まだ時間はあるな。どうする？」=But, we still have time. What do you wanna do?
+CHOICE:『それじゃ、ちょっとまったりしてようか』=『Well then, let's just chill for a bit.』
+CHOICE:『今日はもう帰ろうか』=『Wanna shuffle out for today?』
 「それじゃ、ちょっとまったりしてようか」=Well then, let's just chill for a bit.
 「それもいいな。……あ～、疲れた。休むから、寄りかからせてくれよな」=That sounds good too. ...Ah~, so tired. I'mma take a breather so, let me lean on you.
 （おっとと……。[H名]、いきなり来たなぁ。それだけ疲れてたのかな）=(Woah... She sure came in out of nowhere. Did she get that tired out?)
@@ -25,6 +30,3 @@
 「思うんだけど……[H名]、毎回全力で歌いすぎじゃないか？」=I always feel this way but... don't you always overdo it, everytime? You go full force.
 「ぼそぼそ歌ったって面白くないだろ！　いいんだよ、これで」=Singing while trying to moderate yourself is boring as all hell, no? It's fine this way!
 「ははっ、[H名]らしいな……」=Haha--, that's so like you...
-
-CHOICE:『それじゃ、ちょっとまったりしてようか』=『Well then, let's just chill for a bit.』
-CHOICE:『今日はもう帰ろうか』=『Wanna shuffle out for today?』

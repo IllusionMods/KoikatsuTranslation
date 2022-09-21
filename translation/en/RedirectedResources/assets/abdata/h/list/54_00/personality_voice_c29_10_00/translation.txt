@@ -1,4 +1,7 @@
-﻿やめてください！　本当に、放してください=Please stop! Really, please let me go.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+やめてください！　本当に、放してください=Please stop! Really, please let me go.
 いやですっ……こんな事、絶対に嫌です=No--... I really don't want to.
 だめですから…こんな事、許されませんよ…！=You mustn't... you can't do this...!
 だ、だめですっ…やめてください=Y-You mustn't--... please stop.

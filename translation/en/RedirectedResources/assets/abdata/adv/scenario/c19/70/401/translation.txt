@@ -1,0 +1,18 @@
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「ねえ、[P名]君。もうちょっとだけメニューを見てもいい？」=Hey, [P]-kun. Do you mind if I hold onto the menu for a bit?
+「いいけど、どうしたの？　追加でなにか頼む？」=Sure but, what's up? Wanna order some sides as well or something?
+「ううん、そういうつもりじゃなくって。色んなメニューがあるなって思って」=No, that's not it. It's just that I was thinking that they've got all kinds of things on it.
+「こういうのを見てると飽きないわ。お料理の解説とかコメントも凝ってるし。見てるだけでお腹が空いてきちゃう」=I can never get bored looking at this stuff. They've got an explanation for every dish, as well as comments from customers about them. Just reading it all's enough to make my belly rumble.
+「確かにそうだね。単に『店長のおすすめ！』とか書いてあるだけより、惹かれるよね」=For sure. Way more effective than just having "The Chef Recommends!" on there, isn't it?
+「そうなの。それで私、こっちとこっち、どっちにしようか迷ってたんだけど……」=Exactly. And because of that, I had a hard time picking between this or this...
+「どっちにしたの？」=Which did you go with?
+「それは来るまでのお楽しみ……ということで」=You'll just have to wait to find that one out... and stuff.
+「でも、ここは本当にメニューが豊富ね。ランチもスイーツも充実してるし」=But, the menu here really is quite rich, isn't it? They've got whole lunch and sweet sections too.
+「定番なのだけじゃなくて、創作料理っぽいものもあるよね」=And it's not just the standard fare either, there've got lots of their unique spins on things.
+「それに盛り付けの写真もきれいで、お皿も可愛いくて…………あ、ほら見て」=All the photos are so pretty too, and the plates just adorable... ah, look over there.
+「向こうの席に運ばれた料理……。あれも美味しそう。どんな名前の料理なのかしらね？」=The food that just got delivered to that table... That looks delicious too. I wonder what dish that is?
+「あっ……ごめんなさい、ちょっとはしたなかったかも。でもつい目移りしちゃって……」=Ah--... I'm sorry, That might have been a bit disgraceful. But my eyes just got drawn to it...
+「あははっ、じゃあ何度も通って、一緒にメニュー制覇しないとね」=Ahaha--, I guess we'll just have to come here again and again, and slowly conquer the menu for ourselves then.
+「うん。いっぱいつきあってね、[P名]君」=Yeah. Come here with me lots, [P]-kun.

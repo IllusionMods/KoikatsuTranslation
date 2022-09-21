@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 待機=Idle
 本を読む1=Reading Book 1
 本を読む2=Reading Book 2

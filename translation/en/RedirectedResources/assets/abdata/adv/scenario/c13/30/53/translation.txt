@@ -1,1 +1,4 @@
-﻿「マジでもういいの？　いやアタシはいいけど……大丈夫？」=Are you sure you've had enough? No, I'm fine but... are you sure?
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「マジでもういいの？　いやアタシはいいけど……大丈夫？」=Are you sure you've had enough? No, I'm fine but... are you sure?

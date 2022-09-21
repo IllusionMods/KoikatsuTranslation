@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「いいわよ。学生ですもの。真面目に勉強する時間も必要よね」=It's fine. We're students after all. Setting aside time to study seriously is also important.
 「うん、勉強が本分だからね。……と言いつつ、最近少しサボり気味だったんだけど」=Yeah, studying is our duty as students... Well, I say that but these days I feel like skipping class a bit.
 「ダメよ？　出来るうちにやっておかなきゃ。ふふっ、さ、頑張りましょ」=That's not good, you know? We have to do it while we still can. Fufu, come on, let's do our best.

@@ -1,4 +1,6 @@
-
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
 「いやあ！　ここは女子トイレよ！　男子の来るところじゃないの！」=“No! This is the girls' toilet! It's not a place for a boy to enter!”
 「きゃあ！　何であんたがここにいるのよ！　出ていって！」=“Kyah! Why are you in here?! Get out!”
 「あたし忙しいの、話しかけないで」=“I'm busy right now, don't talk to me.”
@@ -90,6 +92,7 @@
 「あたしって、子供っぽい口調をしてる？」=“Do you think I talk like a kid?”
 「やっぱりそうかぁ。でも、そこがいいのよね、あたし」=“You think so too, huh~. But, that's one of my charms, innit?”
 「ああ、よかった。最近友達にバカにされちゃうから心配してたの」=“Aah, thank god. My friends have been poking fun at me lately about it, so I got worried.”
+「え、なにその顔。笑わないでよ～！」=“Eh, what's with that face? Don't laugh~!”
 「あんた、動物は好きなの？」=“Do you like animals?”
 「へえ、そうなんだ。実はあたしも好きなのよ」=“Hoh, I see. I love them too, actually.”
 「じゃあ、あたしと一緒ね。苦手なのに妙に懐かれるのよね……」=“Same as me then. They take to me weirdly well though, for some reason.”

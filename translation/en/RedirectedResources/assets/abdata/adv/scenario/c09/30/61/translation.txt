@@ -1,4 +1,6 @@
-
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
 「あたしだけかな。なんだか、幸せな気分がするの」=“I wonder if it's just me. I feel, really happy right now.”
 「いいや、俺もそうだよ……さ、行こうか」=“Not at all, I feel the same way... now then, let's go.”
 「お腹すいた。喫茶店で何か食べない？」=“I'm hungry. Want to get something to eat at a cafe?”

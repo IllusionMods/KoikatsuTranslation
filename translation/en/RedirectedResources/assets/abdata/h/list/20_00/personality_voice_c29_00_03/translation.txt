@@ -1,4 +1,7 @@
-﻿ええ、頑張りますね=Yes, we'll do our best.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+ええ、頑張りますね=Yes, we'll do our best.
 もっともっと搾り取ってみせます=We'll wring you out more and more.
 私たちのご奉仕、気に入ったのですか？=Have you taken a liking to our service?
 腰を抜かしても知りませんよ？=Don't blame us if your hips give in, okay?

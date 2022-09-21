@@ -1,0 +1,26 @@
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「やっぱり遊園地と言えば、ジェットコースターだよね」=“If you visit the amusement park, you just gotta hit up the roller coaster, don't you?”
+「そうだな！　定番中の定番だぞ！　さっそく並ぼう！」=“Yeah! It's mainest of the main attractions! Let's line up right away!”
+「[H名]、そっちじゃないよ！　ジェットコースターの最後尾はこっちだから！」=“Not there, [H名]! The end of the line's over here!”
+「お？　おー……つい、気持ちが先走っちゃったぞ……」=“Oh? Ooh... I kinda got, a bit too into it...”
+「ま、楽しみな気持ちはよく分かるけどね。それじゃ、改めて並ぼうか」=“Well, not that I don't understand how you feel. So then, let's line up.”
+「おー！」=“Yeah!”
+ガタンゴトン ガタンゴトン=*clack clock clack clock*
+「この上がっていく瞬間は、いつ乗ってもドキドキするなー」=“No matter how many times I ride this, this feeling never gets old.”
+「興奮と、ちょっとした恐怖心と……色んな気持ちが込み上げてくるよね」=“Excitement, but also terror... all sorts of feelings start surging up, don't they?”
+「あー、早く上がりきらないかな、待ち遠しいぞ！」=“Aah, how long's it gonna take to get to the top, I can't wait!”
+ガタッ=*Clack*
+「お、いよいよ落ちるよ……！」=“Oh, any moment now...!”
+ガガガガガガガガガ……！=*Claclaclaclacla*
+「あはははは！　楽しいぞ～！」=“AHAHAHAHA! This is so fun~!”
+………………=.........
+「ふー、いっぱい声上げた～！　[H名]も堪能できたかな？」=“Fuu~, man, I screamed my heart out~! Did you enjoy yourself too, [H名]?”
+「んー、楽しかったけど、まだまだ満足できてないな」=“Nn, it was fun but, I'm still not satisfied yet.”
+「もう一回乗りにいくぞ！」=“We're gonna go on one more time!”
+「二回連続？　違うアトラクションにするか、１回休憩しない？」=“Right away? How about we go to another attraction, or take a break?”
+「ほら、先に並ばれちゃう前に列に並ぶぞー！」=“C'mon, we're gonna line up before the line gets any longer!”
+（もう俺の声は届いてないな……）=(Ain't getting through to her, am I...)
+「ほら、早く早くー！」=“C'mon, quickly, quickly~!”
+（まあ、[H名]が楽しいならそれでいっか）=(Well, she's enjoying herself so it's fine I guess.)

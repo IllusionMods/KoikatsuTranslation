@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「これ、今日の調理実習で作ったお菓子なのです！　もし良かったら食べてみてくれるですか？」=“Here, I made some sweets during cooking class! Will you try some?”
 「俺に？　うん、いいよ。ありがとう！」=“Me? Yeah, sure. Thanks!”
 「えへへ、どういたしましてです！　きっと美味しい……多分美味しい……美味しいと信じたい……美味しいと思い込めば……」=“Ehehe, you're very welcome! I'm sure they're tasty... well, they're probably tasty... I hope they are tasty... as long as I believe it hard enough...”

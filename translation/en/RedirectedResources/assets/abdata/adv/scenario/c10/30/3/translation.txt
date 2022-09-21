@@ -1,4 +1,6 @@
-
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
 「い、一緒に帰る？　我らが……」=“Go home t-together? Us...?”
 「だめかな？」=“You can't?”
 「いや、こ、こちらこそお願いします……じゃなかった！　同行を許可する！」=“It's not that, I-I'm fine with it, so, please... wait! You shall accompany me!”

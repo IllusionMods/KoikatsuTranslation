@@ -1,4 +1,6 @@
-
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
 //「はぁはぁ……ちょっと、休もうか？」=
 //「……あ、そうじゃな。……汗も拭かねばな」=
 //「あー、２人とも汗だくだね」=

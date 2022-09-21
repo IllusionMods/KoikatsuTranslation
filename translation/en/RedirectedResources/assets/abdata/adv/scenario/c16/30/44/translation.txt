@@ -1,4 +1,6 @@
-
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
 //「へえ、色々あるんだね」=
 //「あら、あそこのお店、お洒落な感じね。少し入ってみない？」=
 //「うん、いいよ」=

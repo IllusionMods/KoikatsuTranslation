@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 シトリーフロント=Sitri Front
 エアリーボブ前(左)=Airy Bob Bangs (Left)
 エアリーボブ前(右)=Airy Bob Bangs (Right)

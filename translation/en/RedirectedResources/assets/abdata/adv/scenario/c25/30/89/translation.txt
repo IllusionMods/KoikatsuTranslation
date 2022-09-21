@@ -1,4 +1,7 @@
-﻿「俺たち、そろそろ互いに愛称で呼んでもいいと思うんだ」=I think it's about time for us to try calling each other by nicknames.
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「俺たち、そろそろ互いに愛称で呼んでもいいと思うんだ」=I think it's about time for us to try calling each other by nicknames.
 「どうしたの急に～。そもそも愛称って、自然と出来るものじゃないの～？」=What's up with you, all of a sudden~. To begin with, nicknames aren't things you can come up with on the spot, no~?
 「それはそうなんだけどさ……なんていうかこう、刺激が欲しいというか」=That may be so but... how do I say this, I want some spice in our relationship.
 「私はのんびりでもいいんだけどなぁ～。でもまぁ、面白そうだからいいよー」=I'm fine with just taking it easy though~. But well, it sounds interesting so alright.

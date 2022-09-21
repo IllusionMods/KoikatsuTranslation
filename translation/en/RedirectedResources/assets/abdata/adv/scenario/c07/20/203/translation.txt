@@ -1,4 +1,9 @@
-﻿「おお、すっかり辺りがオレンジ色に……もうこんな時間かー」=Ooh, all our surroundings have turned orange... It's already this late, huh.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「おお、すっかり辺りがオレンジ色に……もうこんな時間かー」=Ooh, all our surroundings have turned orange... It's already this late, huh.
+CHOICE:『もう少し、時間ある？』=『You still got some time?』
+CHOICE:『今日は楽しかったね』=『Today was a blast』
 「もう少し、時間ある？」=You still got some time?
 「大丈夫だけど、まだ乗りたいのがあるのか？」=I do but, is there still something you wanna ride?
 「最後にさ、観覧車に乗って行かない？」=Wanna close it off with a ride on the Ferris wheel?
@@ -9,6 +14,3 @@
 「また来ればいいさ。その時までとっておこう」=Well, we can just come again then. Let's save all of them until then.
 「そうだな。よし、すぐに次の予定立てるぞ！」=Good idea. Alright, let's start making plans for the next time then!
 「ははは、気が早いなぁ」=Hahaha, aren't you hasty?
-
-CHOICE:『もう少し、時間ある？』=『You still got some time?』
-CHOICE:『今日は楽しかったね』=『Today was a blast』

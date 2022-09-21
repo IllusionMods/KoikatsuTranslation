@@ -1,4 +1,7 @@
-﻿「カラオケなんて久しぶりだよぉ」=It's been a while since I've been out to karaoke.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「カラオケなんて久しぶりだよぉ」=It's been a while since I've been out to karaoke.
 「[H名]はカラオケとかは、あまり行かないのか？」=Do you not go to things like karaoke all that often, [H]?
 「前は友達と来てたけど、最近は行けてなくて……」=I used to come with friends before but, I haven't gotten many chances lately...
 「だから今日はいっぱい歌うんだぁ♪」=That's why, I'mma sing a ton today♪

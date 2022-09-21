@@ -1,4 +1,7 @@
-﻿「ふ～ん、[P]くん、アタシと……そのエッチなことしたいんだ」=Hmmm, you wanna do... that sort of stuff with me, huh?
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「ふ～ん、[P]くん、アタシと……そのエッチなことしたいんだ」=Hmmm, you wanna do... that sort of stuff with me, huh?
 「だ、だめかな？」=T-Too much?
 「[P]くんに頼まれたら断れないじゃん、それに……アタシもしたい……」=I can't refuse a request from you of all people, not to mention... I wanna do it too...
 「アタシ、その……は、初めてだから、優しくしてくれなきゃ、やだよ？」=I, uhm... I-I'm a virgin, so, you gotta be gentle, okay?

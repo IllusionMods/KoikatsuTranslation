@@ -1,4 +1,7 @@
-﻿「なにも感じなくなっちゃった」=I don't feel anything anymore.
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「なにも感じなくなっちゃった」=I don't feel anything anymore.
 「え……」=Eh...
 「興味が、沸いてこないの……」=I can't seem to get interested anymore...
 「それってどういうこと？」=Just what do you mean?

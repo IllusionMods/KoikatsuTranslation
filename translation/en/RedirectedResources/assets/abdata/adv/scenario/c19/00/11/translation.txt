@@ -1,4 +1,7 @@
-﻿「何か違う……こんなの、恋人が抱くものじゃない……」=Something's not right... this feeling, it's not the feeling of love...
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「何か違う……こんなの、恋人が抱くものじゃない……」=Something's not right... this feeling, it's not the feeling of love...
 「え……どうしたの？」=Eh... what's the matter?
 「ううん。ただ、愛想を尽かすってこういう感じなんだなって、思ってるだけだから」=Nothing. I was just thinking that maybe this is what it feels like to fall out of love for someone.
 「えっ？　ちょ、ちょっと待って」=Eh--? W-Wait, hold on a sec.

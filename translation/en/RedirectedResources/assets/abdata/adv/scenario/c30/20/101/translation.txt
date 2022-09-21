@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「さて、公園に着いたけど、何をしようか？」=Well, here we are, at the park. What should we do?
 「ん？　別に何かをしようと思う事はないんじゃない？　私はキミと一緒にいられたら幸せだし」=Hm? It's not like we have to do anything in particular though? Just being with you makes me happy.
 「それは俺もだけど……流石に二人でボーっとしてるのも……ね？」=While I feel the same way... Isn't just standing here doing nothing a bit... eh?

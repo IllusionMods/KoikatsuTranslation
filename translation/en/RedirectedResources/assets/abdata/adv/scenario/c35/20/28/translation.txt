@@ -1,1 +1,4 @@
-﻿「わわ、ありがとうっ！　私が喜びそうな物、なんで分かったと？　君、エスパーみたいやん！」=Wawah, thanks--! How did you know, about the sort of thing that would make me happy? You're like an esper!
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「わわ、ありがとうっ！　私が喜びそうな物、なんで分かったと？　君、エスパーみたいやん！」=Wawah, thanks--! How did you know, about the sort of thing that would make me happy? You're like an esper!

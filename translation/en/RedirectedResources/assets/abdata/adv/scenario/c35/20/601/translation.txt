@@ -1,4 +1,7 @@
-﻿「こ、こういうホテルって……中はこんな感じなんやね。初めて来たけど……ベッドめっちゃ大きいん」=T-This kind of hotel... this is what they're like on the inside, huh? It's my first time here... the bed's huge.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「こ、こういうホテルって……中はこんな感じなんやね。初めて来たけど……ベッドめっちゃ大きいん」=T-This kind of hotel... this is what they're like on the inside, huh? It's my first time here... the bed's huge.
 「あはは、二人で使うベッドだもんね」=Ahaha, it's for two people, afterall.
 「ふ、二人でっ……はぅ、そ、そうやね。そういうホテルなんやし……なるほどなるほど……」=T-Two people--... hauu, y-you're right. It's that kind of a hotel in the end... I see, I see...
 「あの……[H名]、俺さ……もう……」=Uhm... [H名], I can't... hold on...

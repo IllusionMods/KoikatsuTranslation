@@ -1,8 +1,13 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「……さてと、次に何を歌おうかな。この前覚えたあの曲か、それとも……んー」=...Now then, what shall I sing next? That song I heard the other day, or... Nnn.
 「…………あの、もしかして、私に飽きちゃいましたか……？」=......Uhm, by any chance, have you gotten bored of me...?
 「えっ！？　急にどうしたの？」=Eh--!? Where did that come from?
 「今日は誘ってくれないので……」=You haven't asked for it today, so...
 「…………」=“......”
+CHOICE:『実は焦らしてたんだ』=『I was actually trying to tease you.』
+CHOICE:『純粋に歌を楽しみたいんだ』=『I just want to have a good time singing today.』
 「実は、焦らしてたんだ。[H名]がしびれを切らしてそう言ってくるところが見たくて」=I was actually trying to tease you. I just wanted to see you get more and more impatient.
 「ふふ♡　イジワルしてたんですね♡　学園ではあなたはとっても優しいって言われてますし、私もそう思いますけど、私だからエッチなイジワルするんですよね？」=Fufu♡ You were bullying me, weren't you?♡ Even though everyone at the school, me included, thinks you're so kind, you did some lewd teasing to me because of the way I am, right?
 「うん、俺が[H名]を好き勝手するのが好きなんでしょ？」=Yeah, you love it when I do whatever I want with you, no?
@@ -18,6 +23,3 @@
 「いや、大丈夫だよ。言ってなかった俺も悪いし」=No, it's alright. It's my fault for not saying it directly too.
 「あなたは悪くありません♡　私は、飽きられちゃってないなら大丈夫です♡　だからいっぱい歌いましょう♡　私もあなたの歌を聴きたいです♡」=You did nothing wrong♡ As long as you're not bored of me, I'm fine♡ So let's sing lots♡ I want to hear you sing too♡
 「ありがとう。俺も[H名]の歌聴きたいよ。時間いっぱいまで歌いつくそう！」=Thanks. I wanna hear you sing lots too. Let's sing ourselves dead until we run out of time!
-
-CHOICE:『実は焦らしてたんだ』=『I was actually trying to tease you.』
-CHOICE:『純粋に歌を楽しみたいんだ』=『I just want to have a good time singing today.』

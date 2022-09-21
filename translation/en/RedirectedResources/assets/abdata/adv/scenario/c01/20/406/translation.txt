@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「……あ、そろそろ混んできたね」=“...Ah, it's getting quite busy here, huh?”
 「そうですね。これ以上はお邪魔になってしまうかもしれませんし、そろそろ出ましょうか」=“Seems so. We might just end up holding up a table if we stay any longer, let's head out.”
 「だね。それにしても、けっこう喋ってたんだね。もう夕方だよ」=“Sounds good. Even so, we sure chatted a whole lot, huh? The sun's already going down.”

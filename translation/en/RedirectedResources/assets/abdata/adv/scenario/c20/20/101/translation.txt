@@ -1,4 +1,7 @@
-﻿「今日はこの公園でまったりしようか」=Let's chill in this park for today.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「今日はこの公園でまったりしようか」=Let's chill in this park for today.
 「まったり……何をすればいいんでしょう？」=Chill... what should we do, exactly?
 「んー、何かをするみたいな、そういうのじゃなくてもっと気楽に過ごせばいいと思うよ」=Nnn, we don't have to do anything in particular, let's just spend some relaxing time instead.
 「ほら、あそこの人なんか散歩してるだけだし、ベンチでしゃべってるだけの人もいる、のんびりするのが公園デートだから」=Look, those people over there are just wandering around, and those ones are just chatting on a bench. Relaxing is what a park date is all about.

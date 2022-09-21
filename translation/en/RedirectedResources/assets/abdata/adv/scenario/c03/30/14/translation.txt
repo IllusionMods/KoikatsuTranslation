@@ -1,4 +1,6 @@
-
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
 「あ……おはようなのです」=Ah... good morning!
 「ん……おはよう……[H]はもう起きてたんだ」=Mmm... you're already up, [H]... good morning.
 「はいです。だって……あなたに寝顔見られるの……恥ずかしかったですから……」=You betcha! It would be embarrassing... if you watched me while I was sleeping.

@@ -1,3 +1,7 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+モブ=Mob
 「お疲れ様でした。ふふっ、素敵な式でしたよ」=Good work today. Fufu~ It was a lovely ceremony.
 「本番の結婚式も、是非、私どもの式場で挙げてくださいね！」=For your actual wedding as well, please, do call upon us!
 「はい、そのときは是非……」=Yes, when the time comes, definitely...
@@ -18,5 +22,3 @@
 「……私、絶対、あなたにふさわしい女性になって、あなたと結婚します♡　あなたを一生飽きさせない奥さんになります♡」=......I'll definitely become a woman worthy of you, and marry you someday♡ I'll become a wife you will never get bored of♡
 「うん！　二人で頑張ろうね！」=Yeah! Let's both do our best!
 （俺も、[H名]に愛され続けるように、男を磨き続けないとな）=(I've gotta keep sharpening myself too, so that I can keep being worthy of her love.)
-
-モブ=Mob

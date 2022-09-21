@@ -1,1 +1,4 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「これは意外と、悪くなかったな。……な、汝が求めるのであれば、またしても良いぞ？」=“This was, quite the nice experience, surprisingly. ...I-If it is thy desire, I do not mind doing this again, you know?”

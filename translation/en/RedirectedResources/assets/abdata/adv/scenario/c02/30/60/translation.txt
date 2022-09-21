@@ -1,2 +1,4 @@
-
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
 //「素敵な紳士ぶりでしたわ。また誘ってくれてもよろしくてよ！」=

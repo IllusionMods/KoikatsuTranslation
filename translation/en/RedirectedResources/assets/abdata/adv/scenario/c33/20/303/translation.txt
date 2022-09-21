@@ -1,5 +1,10 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 プルルル……=*Ring Ring*......
 「きっと１０分前の延長確認の電話ね。どうする？　私はどっちでも大丈夫よ」=I bet that's the call to ask if we want to extend the slot. What do you want to do? I'm fine either way myself.
+CHOICE:『延長したいな』=『I want to extend it』
+CHOICE:『延長はいいかな』=『I think we should call it a day』
 「[H名]さんがいいなら、もうちょっと歌いたいな」=If you're fine with it, [H名]-san, then I'd like to sing a bit more.
 ガチャ……=*Clack*...
 「はい……ええ、延長でお願いします……ああ、いえ、そちらのプランは結構です、はい、それでは……」=Yes... Yes, please extend it... Ah, No, that plan is fine, yes, thank you...
@@ -15,6 +20,3 @@
 「入れたよ！」=I put it in the queue!
 『もしも今 背中に羽が生えて 大空自由に 飛び回れたら～♪』=『If only I could sprout wings from my back and fly freely in the wide open sky right now♪』
 （ん～、何度聞いてもすごい美声……うっとりするなぁ）=(Nn~, No matter how many times I listen to it, she has an amazingly beautiful voice... So enchanting)
-
-CHOICE:『延長したいな』=『I want to extend it』
-CHOICE:『延長はいいかな』=『I think we should call it a day』

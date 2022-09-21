@@ -1,4 +1,7 @@
-﻿「コイカツって……恋人同士がやるようなことをするんやろ？」=Love activities... they're supposed to be things that a couple would do together, right?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「コイカツって……恋人同士がやるようなことをするんやろ？」=Love activities... they're supposed to be things that a couple would do together, right?
 「うん、そういうことを一緒に勉強していく部活だもんね」=Yeah, in order to study that sort of thing together.
 「でもそれって……私たちがいつもしてることをそのまますればいいってことやない？　だって私たち……恋人同士なんやし……」=But, in that case... that means that all we need to do is what we usually do, right? After all, we're... a couple and all...
 「そうだね。いつも通りで大丈夫かも」=You've got a point. What we usually get up to should be fine enough.

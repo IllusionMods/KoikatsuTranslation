@@ -1,4 +1,7 @@
-﻿「いやー、いろんなアトラクションがあるね」=Man, there sure are lots of attractions here.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「いやー、いろんなアトラクションがあるね」=Man, there sure are lots of attractions here.
 「おい、早くなんか乗ろうぜ！」=Come on, let's get on something already!
 「そうだね、何がいいかな？」=Sure, what do you wanna go with?
 「うーん、そうだな……お、あの機関車みたいなのに乗って探すってのはどうだ？」=Mmmm, good question... How about we ride on that tram-like thing and look around from there?

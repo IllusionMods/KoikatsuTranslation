@@ -1,1 +1,4 @@
-﻿「きゃぁぁ！　見ないでください！　早く出てください！」=Kyaah! Please don't look! Please leave already!
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「きゃぁぁ！　見ないでください！　早く出てください！」=Kyaah! Please don't look! Please leave already!

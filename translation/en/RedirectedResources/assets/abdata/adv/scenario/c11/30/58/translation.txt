@@ -1,4 +1,6 @@
-
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
 「はい、あなたはここに座って。今、お弁当を用意するわね。あ、飲み物は何がいい？」=“Alright, you sit here. I'll get the lunchboxes out and unpacked. Ah, what would you like to drink?”
 「これ……もしかしてピクニックデート？」=“Is this... one of those picnic dates?”
 「公園でデートといえばこれよね♪　さぁ、お日様の下で仲良くまったりしましょ」=“Has to be this when you're going to a park for a date♪ Now then, let's enjoy some relaxing time off under the sun today.”

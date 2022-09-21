@@ -1,1 +1,4 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「そうだね……どう言えばいいか……あなたがくれたものだし大事にしようかな？」=“Let's see... how do I say this... it's from you, so I guess I'll treasure it?”

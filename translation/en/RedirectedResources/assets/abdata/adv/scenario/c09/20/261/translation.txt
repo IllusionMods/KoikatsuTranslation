@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「[H名]って、意外と大胆なんだね……」=“You're pretty bold, huh, [H]...”
 「だって……あんたのアソコ、あたしがしてあげなきゃ降りる時までにおさまらなかったでしょ？」=“I mean... if I didn't do it right now, your dick wouldn't have gone down by the time we got to the station, no?”
 「……なんか、言ってること、すごくない？」=“...You realize what you're saying? It's kinda amazing.”

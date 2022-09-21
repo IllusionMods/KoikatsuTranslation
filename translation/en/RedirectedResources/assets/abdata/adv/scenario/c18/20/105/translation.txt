@@ -1,4 +1,7 @@
-﻿「こっちに来てほしいんだ。足元気をつけてね」=Come over here. Watch your step, okay?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「こっちに来てほしいんだ。足元気をつけてね」=Come over here. Watch your step, okay?
 「は、はい……すっかり日が暮れちゃいましたけど、大丈夫でしょうか？」=O-Okay... the sun's completely gone down, is it really alright?
 「もうじき明るくなるから……ほら、転んだらいけないから手を掴んで？」=It'll become bright again in no time... here, it'd be real bad if you tripped and hurt yourself, so grab my hand, will you?
 「ありがとうございます。えっと、しっかり握ってくださいね？」=Thank you very much. Erhm, please hold on tight, okay?

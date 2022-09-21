@@ -1,4 +1,6 @@
-
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
 「えっ…………ええぇっ？　本当に私の事……夢じゃありませんよね？」=“Eh--... eeeeeh--? Me, of all people?... This isn't a dream, is it?”
 「もちろん。これが夢だったらガックリだよ、俺」=“Of course not. If this ends up being a dream, I'm gonna cry.”
 「は、はい……ではやはり現実…………あうぅぅ、一体どんな反応をすれば良いのか……」=“Y-Yes... then this much be reality indeed... auuuuu, how should I react...”

@@ -1,3 +1,6 @@
-﻿「うん、いいよ。私もちょっと英語の復習をしようかなって思ってて……」=Yeah, okay. I actually wanted to get some English drills in myself so...
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「うん、いいよ。私もちょっと英語の復習をしようかなって思ってて……」=Yeah, okay. I actually wanted to get some English drills in myself so...
 「英語といえば……英語の本とかも読んだりするの？」=So you mean... you read books in English too?
 「少しだけ……でも……もっと英語力をつけて、たくさん読めるようになりたいな」=Only a little bit... but... I wanna get better at it, so that I can read lots more books.

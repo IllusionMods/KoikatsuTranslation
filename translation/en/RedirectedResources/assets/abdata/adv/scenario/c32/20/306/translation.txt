@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「うう、少し喉が疲れてきました。ちょっと休憩したいですね」=Uuu, my throat feels a bit tired. I want to take a break.
 「あー、うん、結構長い時間楽しんだからね。少しダラダラしよう」=Aah, yeah, we've enjoyed ourselves quite a bit. Let's be lazy and chill for a bit.
 「ダラダラ……あまり好きな言葉ではありませんね。無為に時間を費やしたくないのですが」="Lazy"... I don't particularly like that word. I don't want to waste our time away.
@@ -6,6 +9,8 @@
 「じーっとしてるのが一番じゃない？」=Wouldn't it be best to just stay still?
 「……まあ、そうですけどね」=......Well, yeah, I suppose.
 （うーん、疲れてるなら……）=(Well, If she's tired...)
+CHOICE:『マッサージしてあげようか？』=『Shall I give you a massage?』
+CHOICE:『今日はもう帰ろう』=『Let's go home for today』
 「じゃあ、マッサージ、してあげよっか？　これなら疲労回復につながるし」=Then, shall I give you a massage? Ought to help with the fatigue as well.
 「……それは、つまり…………わかりました。疲労回復効果には疑問がありますが、恋人としての営みは大切ですからね」=...That's, in other words...... Understood. The recovery effects seem dubious to me but, it's important for us to do things as lovers as well.
 「え？　あ、あの……俺、ほんとにマッサージをするつもりだったんだけど……」=Eh? Ah, Uhm... I really was planning on giving you a massage though...
@@ -20,6 +25,3 @@
 「どうしたの？」=What's up?
 「身体のケアだけじゃなく、喉のケアもすべきです。のど飴や、何か喉の粘膜に良いものを摂取すべきです」=Aside from just rest alone, caring for our throats is important too. We ought to take something good for our throats, like cough drops.
 「そうだね。何か買ってから帰ろうか」=You have a point. Let's go home after grabbing something.
-
-CHOICE:『マッサージしてあげようか？』=『Shall I give you a massage?』
-CHOICE:『今日はもう帰ろう』=『Let's go home for today』

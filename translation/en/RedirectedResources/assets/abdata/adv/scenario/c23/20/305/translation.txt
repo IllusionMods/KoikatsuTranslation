@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「ふぅ……熱唱しすぎて、少しフラフラ……」=“Fuu... I got so into it, I feel a bit woozy...”
 「いっかい休憩を挟もっか」=“Let's take a break or two, shall we?”
 「ですなぁ。……ちょ、ちょうどいいし、聞きたいことがあるのですが」=“Yeah~. ...T-This is the perfect time, I want to ask you something.”

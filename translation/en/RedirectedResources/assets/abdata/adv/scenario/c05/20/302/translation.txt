@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「ちょっと小腹が空いてきたね」=“I'm starting to feel a little peckish.”
 「[H名]も、あんまり長時間歌いつづけていたら疲れない？」=“You too, [H], aren't you tired after singing for so long?”
 「うん……この交信方法はいつもと違って声を出すから、力を補充しないと」=“Yeah... unlike normally, this communication method requires for me to actually use my voice so, energy replenishment is a must.”

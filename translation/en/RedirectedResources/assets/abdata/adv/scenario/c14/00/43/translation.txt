@@ -1,1 +1,4 @@
-﻿「ちょっ！　おまえこんなとこで何してんだよ！　やっ！　見るなぁっ！」=Hey--! What are you doing in this place! No--! Don't look--!
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「ちょっ！　おまえこんなとこで何してんだよ！　やっ！　見るなぁっ！」=Hey--! What are you doing in this place! No--! Don't look--!

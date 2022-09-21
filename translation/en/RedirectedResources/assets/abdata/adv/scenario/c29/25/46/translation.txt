@@ -1,3 +1,6 @@
-﻿「あの……私ばかり感じてしまった気がするのですけれど、あなたは……」=Uhm... I feel like I was the only one who felt good, you didn't...
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「あの……私ばかり感じてしまった気がするのですけれど、あなたは……」=Uhm... I feel like I was the only one who felt good, you didn't...
 「俺もすごく気持ち良かったよ」=It felt great for me too.
 「そ、そうですか……なら、良かったです」=I-Is that so... that's good then.

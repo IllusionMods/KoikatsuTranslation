@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「こ、ここが……いわゆるラブホテルというところ……ですか！？　なんというかっ……入った瞬間からドキドキなのですっ！」=“T-This is... a love hotel...?! How do I say this--... my heart's been pounding non-stop since we entered!”
 「分かる。結構緊張するよね」=“I feel you. Can't help being tense, right?”
 「はいです……私、初めてですし……そもそも、ホテルなんて……お父さんお母さんと旅行した時か、修学旅行の時くらいしか入ったことないですし……」=“Yes... It's my first time too... to begin with, I've never really... I've only ever stayed in hotels when we went on trips as family, or during school field trips...”

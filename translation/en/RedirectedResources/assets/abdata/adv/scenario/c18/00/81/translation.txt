@@ -1,4 +1,7 @@
-﻿「じー……」=*stare*...
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「じー……」=*stare*...
 「どうしたの？　欲しいならあげるよ？」=What's up? If you want some, I'll give it to you, you know?
 「あ、いえ。そうですね、少し貸してください」=Ah, no. Although, please do let me borrow some.
 「うん？　別にいいけど、貸すの？」=Yeah? I don't really mind but, you're gonna borrow it?

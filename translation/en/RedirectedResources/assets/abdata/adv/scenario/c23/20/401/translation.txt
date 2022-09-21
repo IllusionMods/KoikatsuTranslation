@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「ワタシ、あまり普通の喫茶店に来たことがないんだ」=“I don't really come to these normal sort of cafes all that much.”
 「普通じゃない喫茶店というと漫画喫茶のことかな？」=“I assume you mean that you frequent mostly manga cafes and such?”
 「うん！　そう！　漫画喫茶、ネット喫茶を考えた人はまさに神！！」=“Yeah! Exactly! Whoever thought up of manga cafes or internet cafes and whatnot was a genius, nay, a god!!”

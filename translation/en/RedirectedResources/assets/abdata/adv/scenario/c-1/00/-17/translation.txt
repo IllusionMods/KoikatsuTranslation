@@ -1,3 +1,4 @@
-﻿「えーっと……別に誘ってるわけじゃないんだけど……今日でも明日でも……部活の成果を報告に来てくれていいのよ？」=Err... It's not that I'm inviting you, but... today or tomorrow... can you come by to report the results of your club activities?
-
-リナ=Lina
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「えーっと……別に誘ってるわけじゃないんだけど……今日でも明日でも……部活の成果を報告に来てくれていいのよ？」=Err... It's not that I'm inviting you, but... today or tomorrow... can you come by to report the results of your club activities?

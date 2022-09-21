@@ -1,4 +1,7 @@
-﻿「で、デート……は、初デートですね！」=A-A date... O-Our first date, huh!
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「で、デート……は、初デートですね！」=A-A date... O-Our first date, huh!
 「うん、行先はまだ考え中だけどね」=Yeah, I've still not decided where we're gonna go though.
 「わ、私はどこでも大丈夫ですよ！　……あっ、出来れば天井がない所とか、地面がある所がいいのかな……？」=I-I'm fine with anything! ...Ah--, if possible, a place without a ceiling, somewhere with solid ground, might be nice...
 「あはは……安全確認はいらないと思うけど……まぁ、楽しみにしておいてよ」=Ahaha... I don't think we'll need that detailed a safety check... Well, look forward to it.

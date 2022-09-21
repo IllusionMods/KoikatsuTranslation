@@ -1,4 +1,7 @@
-﻿「うーん……公園は気持ちいいね」=Nnnn... parks feel great, don't they?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「うーん……公園は気持ちいいね」=Nnnn... parks feel great, don't they?
 「そうね。天気もいいし、日向ぼっこにはもってこいだわ」=Yeah. The weather's great too, it's a perfect day to lounge about in the sun.
 にゃー=*meow*
 「あっ、猫……」=Ah--, it's a cat...

@@ -1,4 +1,7 @@
-﻿「ふー、結構歌ったなぁ」=Fuu, we sang a lot~
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「ふー、結構歌ったなぁ」=Fuu, we sang a lot~
 「ですねぇ……ちょっと休憩にしましょうか」=We sure did~... let's take a break, shall we?
 「そうだね、さすがに疲れた…………んーーっ！　ふぅ……」=Right, I really am tired... nnnn--! Fuu...
 「……あのさ」=...Listen.

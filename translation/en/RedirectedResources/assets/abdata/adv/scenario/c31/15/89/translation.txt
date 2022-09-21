@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「ねぇ、そろそろ俺達も、愛称で呼び合うっていうのやってみない？」=Hey, should we try calling each other by nicknames too?
 「なにがそろそろなのかかは知らんが……やってみてもいいぞ」=I don't know what you're trying to imply but... I don't mind trying it out.
 「おっ、嬉しい反応。じゃあ俺のことは……[Pあだ名]って呼んでほしいな」=Oh--, what a nice response. Then, I'd like you to call me... [Pあだ名].

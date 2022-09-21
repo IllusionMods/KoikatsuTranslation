@@ -1,0 +1,17 @@
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「ふぅ……結構歌ったわね。そろそろ時間だけど、どうする？」=Fuu... we sang quite a lot. Our slot's almost up, what do you want to do?
+CHOICE:『まだ歌い足りないんじゃない？』=You've still not had enough, no?
+CHOICE:『帰る仕度をしよっか』=Let's grab our stuff and go.
+「[H名]は、まだ歌い足りないんじゃない？」=You still haven't had enough singing, no?
+「ふふ、バレてた？　実はもう少し歌いたかったの」=Fufu, is it that obvious? I honestly want to sing a little bit more.
+「じゃあ、延長の電話をするよ」=Then, I'll put in the call for an extension.
+「今日はもう帰ろうか」=Let's go home for today.
+「わかったわ。少し歌いすぎたかしら？」=Got it. Did we go a little bit too hard there?
+「はは、俺はそうかも。じゃあ帰り支度をしようか」=Haha, I did for sure. Then, let's get our stuff ready.
+「そうだな……あと一曲歌ったら出ようか」=Let's see... let's go home after singing one last song.
+「最後だし、[H名]が入れていいよ」=It's the last one anyway, you can take it, [H名].
+「いいの？　……それじゃあ、あの曲を入れるわ」=You sure? ...Well then, I'll go with that song.
+『何度も何度も何度も何度も迷って つまづいても♪』=『No matter how many, how many, how many, how many times I lose my way♪』
+（やっぱり[H名]は上手いなぁ……）=(She really is just so good at it...)

@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「この間はずいぶん盛り上がったな」=“Boy did we had a heated discussion the other day.”
 放課後、何気なく校舎内を歩きながら、漫研部前で先日のこのみちゃんとの会話を思い出す。=As I was wondering around after school, my conversation with Konomi-chan the other day came up to mind.
 「まさか自分があんなにアニメについて語れるとは思ってなかった……」=“I couldn't believe that I talked that much about an anime...”
@@ -10,10 +13,12 @@
 せっかくだからまた少しめるの話でも……と思っていたら……。=Given the chance, I thought about having a quick chat with her... but... much to my surprise....
 「……え？」=“...Eh?”
 部室の中から現れたのは、見慣れない女の子だった。=It was a completely unknown girl that came out of the room instead.
+見慣れない女の子=Unfamiliar girl
 「…………」=“......”
 女の子はどこかおどおどした様子で、俯き加減のまま歩いてくる。=She seemed a bit lost and timid, was staring down and walking with very light and small steps.
 このみちゃんとはまるで違う雰囲気の娘だ。=She was the complete opposite of Konomi-chan.
 （っ……もしかして新入部員か！？）=(Wait... Maybe she's a new member of the club!?)
+新入部員さん？=New member?
 見るからに大人しそうな様子がまさに漫研部員っぽい。=She seemed like the quiet and docile type, the exact kind you would expect a member of the Manga Club to be.
 そう考えると、このみちゃんのテンションはこういう部活だと特殊な方かもしれない。=If you put it that way, maybe Konomi-chan's energy is a rare case when it comes to these kinds of club.
 新しく入ったと思われる娘を遠目に見ながら、そんなことを考える。=Those were my thoughts when I looked at her from afar.
@@ -66,10 +71,14 @@
 そしてその手を目元へ持って行き、今までに何度も見たことのある、めるの決めポーズをする。=She then brought it to the base and her eye, and did a Merulun pose that I've seen so many times before.
 「あ、そのポーズ。このみちゃんもよく……」=“Ah, that pose. Konomi-chan always does...”
 「こ、このみちゃんも…………」=“K-konomi-chan also...”
+新入部員……さん？=New member...?
 「ま……まさか……えっと……その……」=“A... are you... eh... how do I put it...”
+まさか……！=It can't be...!
 「このみ……ちゃん？」=“Konomi... chan?”
+このみちゃん？=Konomi-chan?
 「はぅっ！」=“Hauuu!”
 「っ！？　このみちゃんか！？　マジで！？」=“Eh!? Konomi-chan!? For real!?”
+このみ=Konomi
 「は、はいぃ……」=“Y-yess...”
 新入部員さんならぬこのみちゃんが、もじもじと両手を身体の前で触れ合わせる。=Konomi-chan, and not the newbie I thought she was, gripped both her hands in front of herself quite anxiously.
 そして俺から視線を逸らしながら、静かに頷いた。=And, averting her eyes away from me, nodded silently.
@@ -114,11 +123,3 @@
 「……次に会った時、きちんと謝ろう」=“...Next time we meet, I'll have to apologize to her for today.”
 このみちゃんがいなくなった廊下を見つめたまま、そんなことを考える。=Staring at the empty hallway, those thoughts ran through my mind.
 俺の中ではなぜか、アニメのめるとこのみちゃんの姿が完全に重なっていた。=For some reason, in my mind, Konomi-chan and Merulun from the anime felt completely like the same person.
-
-//Scene specific character names
-見慣れない女の子=Unfamiliar girl
-新入部員さん？=New member?
-新入部員……さん？=New member...?
-まさか……！=It can't be...!
-このみちゃん？=Konomi-chan?
-このみ=Konomi

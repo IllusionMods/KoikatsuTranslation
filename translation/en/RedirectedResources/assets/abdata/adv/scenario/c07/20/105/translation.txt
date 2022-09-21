@@ -1,4 +1,7 @@
-﻿「うわぁ……すごい夜景だな……」=Uwaah... What an amazing view...
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「うわぁ……すごい夜景だな……」=Uwaah... What an amazing view...
 「うん、ほんとに綺麗だ」=Yeah, it really is beautiful.
 「[P名]、よくこんな場所知ってたな」=You sure know some good places, [P名].
 「[H名]に喜んでほしくて、調べておいたんだ」=I wanted to make you happy, so I checked around for a place like this.

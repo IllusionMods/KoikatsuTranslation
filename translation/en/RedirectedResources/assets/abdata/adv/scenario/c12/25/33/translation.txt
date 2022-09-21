@@ -1,1 +1,4 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「気持ちは嬉しい……でも、彼女の好みがわかってないぞっ！　ちゃんと教えるから、よく聞くこと！」=“I appreciate the thought... but, you don't get your girlfriend at all, sir--! I'm gonna tell you what sort of stuff I like, so unplug those ears of yours!”

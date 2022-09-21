@@ -1,5 +1,10 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「もうそろそろ日が暮れるね。[H名]、時間は大丈夫？」=“The day's almost over, isn't it? Are you good on time, [H]?”
 「はい。まだ平気です。どうしましょうか」=“Yes. I'm still fine. What should we do?”
+CHOICE:『行きたいところがあるんだ』=There's a place I wanna check out.
+CHOICE:『今日は帰ろう』=Let's go home for today.
 「よかった。ちょっと[H名]と行きたいところがあるんだ」=“Great. There's a place I wanna check out with you, [H].”
 「行きたいところ、ですか？」=“A place you want to, check out?”
 「いいかな？」=“Could we?”
@@ -11,6 +16,3 @@
 「いえ、両親は二人ともあなたのことを勘違いしているところがありますので、このような嬉しいことはどんどん伝えます」=“It's not, my parents have quite the twisted idea of you, so I'm definitely telling them about things like these.”
 「あはは……それじゃ、どうぞよろしくね」=“Ahaha... well then, please do.”
 「はい、任せてください」=“Yes, please leave it to me.”
-
-CHOICE:『行きたいところがあるんだ』=There's a place I wanna check out.
-CHOICE:『今日は帰ろう』=Let's go home for today.

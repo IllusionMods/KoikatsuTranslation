@@ -1,4 +1,7 @@
-﻿ふふふ、そんなに気に入った？　もちろんいいわよ！=Fufufu, did you get that into it? Of course, it's alright!
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+ふふふ、そんなに気に入った？　もちろんいいわよ！=Fufufu, did you get that into it? Of course, it's alright!
 もちろんよ。ふふ、たっぷり楽しませてあ・げ・る=Of course. Fufu, we'll make you have so・much・fun.
 二人がかりの奉仕って、結構楽しいのよね。大歓迎よ♪=It's pretty fun to do it together with someone else, don't you agree? I'm all for it♪
 よかった……もっとしてあげたかったのよね=Great... I wanted to do more for you too.

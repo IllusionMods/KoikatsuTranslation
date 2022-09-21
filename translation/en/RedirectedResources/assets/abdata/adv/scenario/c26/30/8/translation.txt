@@ -1,4 +1,6 @@
-
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
 「……うん、いいよ」="...Yeah, OK."
 「そうだよね。けどそれでも……って、いいの！？」="That's right. But, 'good?!'"
 「……したくないの？」="Do you not want to?"

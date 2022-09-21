@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「あのさ、今、ちょっと時間ある？　話しだけでもいいかな？」=“Hey, do you have some time right now? Could we chat a bit?”
 「ふぇっ！？　わ、私ですかっ！？」=“Fueh--?! M-Me!?”
 「う、うん……君なんだけど……ダメ？」=“Y-Yeah... you but... am I bothering you?”

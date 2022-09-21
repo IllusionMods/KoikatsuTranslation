@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「ワタシたち、そろそろもう一歩上の段階に行けると思うんだ」=“I think we should take the next step in our relationship.”
 「もう一歩上の段階って？」=“And that would be?”
 「互いに愛称で呼び合うのですぞ。ゲームの幼馴染同士じゃよくあるあれです」=“Calling each other by nicknames. You know, the thing that childhood friends in games often do.”

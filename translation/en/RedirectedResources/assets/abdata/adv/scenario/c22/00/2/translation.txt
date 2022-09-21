@@ -1,4 +1,7 @@
-﻿「私、最近、君と話すのがすっごく楽しみになってきちゃった！」=Recently, I've really started looking forward to chatting with you!
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「私、最近、君と話すのがすっごく楽しみになってきちゃった！」=Recently, I've really started looking forward to chatting with you!
 「本当に？　良かった。実は俺も。[H姓]さんと話すのすごく楽しいよ」=Really? Great. Me too, actually. Chatting with you is always a blast, [H姓]-san.
 「えへへ、嬉しい！　初対面の頃もお話しして楽しいなぁって思ったけど、今はもっともっと楽しい！」=Ehehe, I'm glad! I thought you were a really fun person to be around when we had our first ever chat, but now I think you're super duper fun!
 「これからも君のこと、たくさん知っていけるといいな」=I hope I can get to know lots more about you~

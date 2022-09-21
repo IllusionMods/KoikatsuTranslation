@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「もうすっかり夜だね」=It's completely turned dark, hasn't it.
 「ええ、子供は帰る時間ね」=Yep, it's time for kids to go home.
 「俺、[H名]さんと回れて楽しかったよ」=I had a really fun time with you, [H名]-san.

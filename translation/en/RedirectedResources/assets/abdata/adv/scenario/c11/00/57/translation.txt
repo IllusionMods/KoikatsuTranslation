@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「うふふ、今日を楽しみにしてたわ」=“Ufufu, I was really excited for today.”
 「俺もだよ。楽しみすぎて、昨日はあんまり眠れなかったんだ」=“Me too. So excited, I couldn't sleep all that much last night.”
 「嬉しいわ～。それじゃあ、さっそく行きましょうか」=“That makes me so happy~. Well then, let's go.”

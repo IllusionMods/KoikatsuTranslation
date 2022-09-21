@@ -1,1 +1,4 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「うん、ワタシも乱入OK、ですぞ」=“Yeah, I'm fine with it too.”

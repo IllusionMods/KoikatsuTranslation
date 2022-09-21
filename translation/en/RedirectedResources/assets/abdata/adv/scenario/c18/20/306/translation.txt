@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「……ふぅ。お粗末さまでした」=...Fuu. Thanks for listening.
 「お疲れさま。っと、あと少ししたら時間だね」=That was great. Oh, our slot will be up in just a little bit.
 「もうそんなに経ってたんですか。あっという間でしたね」=It's already been so long, huh? It really flew by.
@@ -11,6 +14,8 @@
 「うん。あれはびっくりしたね」=Yeah. That was really surprising, wasn't it...
 「はい……」=Yes...
 「……」=“...”
+CHOICE:『エッチに誘う』=『Ask for sex』
+CHOICE:『帰ろう』=『Go home』
 「ねえ、エッチしない？」=Hey, won't you have sex with me?
 「えっ！？　この流れで言うんですか？」=Eh--!? Are you really going to bring that up now?
 「うん、思い出したらなんだかムラっときて」=Yeah, thinking back to that made me horny.
@@ -24,6 +29,3 @@
 「最後に二人でデュエットでも歌わない？」=Wanna do a duet for the last one?
 「いいですね。何なら二人で歌えるでしょうか……」=Sounds great. Which one of these can we sing together...
 「俺にも見せて。どれがいいかな……」=Let me have a look too. What should we sing...
-
-CHOICE:『エッチに誘う』=『Ask for sex』
-CHOICE:『帰ろう』=『Go home』

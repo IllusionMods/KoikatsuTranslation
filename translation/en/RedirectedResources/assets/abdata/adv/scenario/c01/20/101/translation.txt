@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「じゃあ、かけるね」=“Then, I'm putting it on, okay?”
 「お願いします」=“Please do.”
 ～♪=~♪

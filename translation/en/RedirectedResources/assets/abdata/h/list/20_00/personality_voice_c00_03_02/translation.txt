@@ -1,4 +1,7 @@
-﻿うふふ、緊張しちゃう……でも今更引き返せないわよね=Ufufu, I'm getting nervous... but we're past the point of no return, aren't we?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+うふふ、緊張しちゃう……でも今更引き返せないわよね=Ufufu, I'm getting nervous... but we're past the point of no return, aren't we?
 何もしないの？　そんなの勿体無いわ=Are you not gonna do anything? That's just a waste.
 ええ、いいわよ♪=Yes, alright♪
 そーっとよ？　激しくしたらバレちゃいそうだから=Gently, alright? If you do it hard, we might get caught.

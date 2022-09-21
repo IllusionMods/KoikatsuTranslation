@@ -1,4 +1,6 @@
-
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
 「子供の名前を呼ぶのは簡単なのに、どうしてなのかしら……」=“Even though it's so easy to call a child nicknames, why is it that...”
 「ん、どうしたの？」=“Nn, what's the matter?”
 「あのね、実はそろそろあなたを愛称で呼びたいのだけれど、なんだか緊張しちゃって。ダメねぇ」=“Listen, I actually wanna start calling you by a nickname now, but it just makes me so tense. It's no good, is it~?”

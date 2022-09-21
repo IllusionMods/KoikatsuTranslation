@@ -1,4 +1,7 @@
-﻿「さあ、お待ちかねの観覧車タイムだ」=Now then, it's the ferris wheel time we've all been waiting for!
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「さあ、お待ちかねの観覧車タイムだ」=Now then, it's the ferris wheel time we've all been waiting for!
 「ふふっ、[P名]君ってばそんなに観覧車に乗りたかったの？」=Fufu--, did you want to ride the ferris wheel that badly, [P]-kun?
 「実はちょっとだけ足が疲れてきてさ。少しゆっくりしたいなって。[H名]は大丈夫？　疲れてない？」=My legs are actually a bit tired, so I just wanted to take it easy for a bit. What about you, [H名]? You okay? Not tired out or anything?
 「そう言われてみると、私もなんだか足が痛いような……すごく楽しくて全然気づいてなかったみたい。ふふっ、今日は誘ってくれてありがとう、[P名]君」=Now that you say it, my legs do kinda hurt... It was all so fun I didn't notice until now. Fufu--, thanks for taking me out on a date today, [P]-kun.

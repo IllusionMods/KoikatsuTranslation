@@ -1,16 +1,21 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+モブ=Mob
 「これより新婦が入場致します。後方の扉口をご覧ください」=“And now, the bride will make her entrance. Please pay attention to the main door.”
-（[H名]……）=([H]...)
-『[H名]と本当に結婚できたら』=「If we really do marry--」
+（[H名]……）=([H名]...)
+『[H名]と本当に結婚できたら』=‘If we really do marry--’
 模擬挙式を行ったあの日、[H名]と絶対に結婚したいと俺は強く願った。=On that day, when we took part in that mock ceremony, I wished from the bottom of my heart, to marry her someday.
 それが今日――現実になるんだ。=That wish is-- becoming reality today.
 （あぁ、なんかもう泣いちゃいそうだ……）=(Aaah, I think I'mma cry if I lose focus even for a second...)
 「それではこれより、式を執り行います」=“Then without further ado, let's start the ceremony.”
 「新たなご出発の証として、お二人には誓いの言葉を立てていただきます」=“As the proof of a fresh departure, you both have to make certain vows.”
-「[P名]さん、あなたは今、この女性を妻とし夫婦になろうとしています」=“Mr. [P名], Right now, you are about to become a married couple, with this woman as your wife.”
+牧師=Pastor
+「[P名]さん、あなたは今、この女性を妻とし夫婦になろうとしています」=“Mr. [P名], you are now about to take this woman to be your wife.”
 「汝、健やかなるときも、病めるときも、喜びのときも、悲しみのときも、富めるときも、貧しいときも」=“Do you promise, in times of sickness or in health, in times of happiness or sadness, whether you are rich or poor,”
 「これを愛し、これを敬い、これを慰め、これを助け、その命ある限り、真心を尽くすことを誓いますか？」=“to love her, to respect her, to comfort her, to support her, till the end of days, to the full extent of your abilities?”
-「はい、誓います」=“Yes, I do.”
-「[H名]さん、あなたは今、この男性を夫とし夫婦になろうとしています」=“Miss [H名], Right now, you are about to become a married couple, with this man as your husband.”
+「はい、誓います」=“Yes, I vow.”
+「[H名]さん、あなたは今、この男性を夫とし夫婦になろうとしています」=“Miss [H名], you are now about to take this man as your husband.”
 「では、二人の誓いの印として、指輪の交換を致します」=“Then, as the proof of your vows, you may now exchange the rings.”
 「初めに新郎から新婦へ」=“First from the groom to the bride.”
 「ほら、大丈夫か？　人生の大一番なんだから、頑張れ」=“Hey, you okay? It's the most crucial moment of your life, do your best.”
@@ -32,9 +37,9 @@
 「そんな事ないよ。いつもグイグイ引っ張ってくれて、凄く頼もしかった。だからちょっと、甘え過ぎてたところもあるかな」=“Not at all. You were really reliable, always pulling me along. I think I might have acted a bit too spoilt, sometimes.”
 「えへへ、たしかに、ちょっと甘やかし過ぎかなって思った事もあったな。でも、おまえはちゃんとあたしを幸せにしてくれた」=“Ehehe. For sure, there were times I thought that I was spoiling you too much. But, you made sure to repay all that, and made me happy.”
 「あたしがお嫁さんだぞ？　信じられるか？　……ぐすっ……あたしは……こんな瞬間、一生来ないかもって思ってたよ」=“I'm actually getting married. Me, a bride. Can you believe it? ...*sob* ...I really thought... that this day would never come for me.”
-「[H名]、まだ泣くのは早いよ。ここからが本当の本番、俺達の人生の本番なんだからさ」=“It's still too early for tears just yet, [H]. The real show, our main story's, only just gonna start from here.”
+「[H名]、まだ泣くのは早いよ。ここからが本当の本番、俺達の人生の本番なんだからさ」=“It's still too early for tears just yet, [H名]. The real show, our main story's, only just gonna start from here.”
 「だから笑って。俺の大好きな、[H名]の笑顔を見ながら、誓いのキスをしたいんだ……」=“So laugh. I want to kiss you, while looking at that smile I love so much...”
-「んっ……」=“Nn--...”
+「んっ……」=“Nnn--...”
 ………………=.........
 …………=......
 ……=...
@@ -43,10 +48,7 @@
 「……愛してる。これからもずっと……ずっと愛してる」=“...I love you. I'll keep loving you... forever.”
 「ここに二人の愛は結ばれました」=“Here, these two have been bound in a union of love.”
 「それでは、皆様に誓いの印である指輪をご披露ください」=“Now then, please present the proof of vows, the rings, to everyone present.”
-「[H名]、もう泣いてもいいよ。みんな嬉し涙だってわかってくれてるから、たくさん泣いていいよ」=“You can cry now, [H]. Everyone can tell that they're tears of joy, so feel free to cry lots.”
+「[H名]、もう泣いてもいいよ。みんな嬉し涙だってわかってくれてるから、たくさん泣いていいよ」=“You can cry now, [H名]. Everyone can tell that they're tears of joy, so feel free to cry lots.”
 「んんっ、泣かないぞっ……ぐすっ……あたしは、泣いてないっ。幸せ過ぎて、ちょっと色々、溢れてるだけなんだっ……」=“Nnn--, I'm not gonna cry--... *sob*... I'm not, crying--. I'm just so happy, stuff's just, overflowing out, is all--...”
-「うん、そうだね、[H名]は泣いてない。幸せが溢れてるだけ……んっ、それは俺もかな……愛してるよ、[H名]」=“Yeah, of course. You're not crying. Your happiness is just overflowing out... nn--, I'm in the same boat here... I love you, [H].”
+「うん、そうだね、[H名]は泣いてない。幸せが溢れてるだけ……んっ、それは俺もかな……愛してるよ、[H名]」=“Yeah, of course. You're not crying. Your happiness is just overflowing out... nn--, I'm in the same boat here... I love you, [H名].”
 「ぁぁ、あたし、おまえのお嫁さんになれたんだな……この気持ち、絶対忘れない。一生忘れないぞ」=“Aah, I became, your bride, huh... I will never forget, this feeling. Never.”
-
-モブ=Mob
-牧師=Pastor

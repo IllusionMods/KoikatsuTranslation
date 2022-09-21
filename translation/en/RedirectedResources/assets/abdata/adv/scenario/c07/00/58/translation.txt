@@ -1,4 +1,7 @@
-﻿「ほら、見てみろよ。あっちにもカップルがいるぞ。あっ……腕、組んでる……いいなぁ」=Hey, look at this. There's a couple over there too. Ah--... they're walking arm in arm... must be nice.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「ほら、見てみろよ。あっちにもカップルがいるぞ。あっ……腕、組んでる……いいなぁ」=Hey, look at this. There's a couple over there too. Ah--... they're walking arm in arm... must be nice.
 「ほら、見てないで俺たちも行こう。……腕、組むか？」=Don't stand and watch, we should go too. ......Wanna link arms?
 「……手なら、いいぞ」=...I don't mind holding hands.
 「さっきから大人しいけど、具合でもわるい？」=You've been pretty quiet for a while now, you feel alright?

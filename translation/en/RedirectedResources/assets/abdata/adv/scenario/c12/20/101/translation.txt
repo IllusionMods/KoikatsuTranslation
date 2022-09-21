@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「公園に来たはいいけど、特にやる事を決めてなかったね……」=“We came to the park and all, but we didn't really plan anything out, did we...”
 「なっ、おまえが選んだんだぞ？　あたしはてっきり何か目的があるのかと思ってたよ」=“Hey--, you're the one who went for this, you know? I thought you must have had something cooked up for sure.”
 「うーん、強いて言うなら、[H名]とゆっくりしたかった……かな」=“Nnn, if I really had to say why, I guess I wanted to... just take it easy with you?”

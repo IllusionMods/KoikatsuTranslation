@@ -1,4 +1,7 @@
-﻿「ねーねー、[Pあだ名]」=Hey, listen, [Pあだ名].
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「ねーねー、[Pあだ名]」=Hey, listen, [Pあだ名].
 「……うん？　今のって俺を呼んだの？」=...Yeah? Did you call me that just now?
 「そうだよ？　パッと思いついたんだけど、イヤだった？」=That's right. I just came up with it on the spot, did it not sound good?
 「いや全然、いきなりだったからちょっと驚いただけだよ」=No, it's the opposite, I just got a bit surprised since it was so sudden, that's all.

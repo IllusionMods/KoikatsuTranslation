@@ -1,4 +1,6 @@
-
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
 「ちょっと提案があるんだけど……お互いのこと愛称で呼んでみない？」=I've got a little suggestion... let's call each other by our nicknames, alright?
 「ふぇ……？　愛称ですか？　ぜひ、ぜひ！　私も呼びたいのです！」=Fweh...? Nicknames? Please, please! I'd like to call you one, too!
 「やったね！　それじゃまずは……俺のこと、[Pあだ名]って呼んでみて？」=Let's do it! Alright then... why not call me [Pあだ名]?

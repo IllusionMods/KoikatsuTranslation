@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「いいだろ？　もう我慢できそうにない」=“We can, right? I don't think I can hold on anymore.”
 「いい、けど……心の準備が……」=“Sure, but... my heart isn't...”
 「んっ……ん……」=“Nn--... nn...”

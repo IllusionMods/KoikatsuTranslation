@@ -1,4 +1,6 @@
-
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
 「恋人たちの行動を研究するのがコイカツ部……ということで合っていますか？」=“The Koikatsu club, a place where we come to research the building blocks of a couple... is that about the gist of it?”
 「うん。だいたいそんな感じだよ。だから、きみともそういう活動をしたいんだけど……なにか希望はある？」=“Yeah. More or less. That's why, I wanna try out some of those building blocks with you... anything you wanna try?”
 「そうですね――」=“Hmm, let's see---”

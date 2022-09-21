@@ -1,0 +1,20 @@
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「うわっ……こんなに人が乗ってくるなんて……人の圧力に、負けそう……」=“Uwah--... to think there'd be so many people getting on... I'm gonna lose, to the tide...”
+「く……も、もうムリ～」=“Kuh... I-I can't squeeze in more~”
+「ご、ごめん。人が多くて……」=“S-Sorry. There's just so many people...”
+「ううん、大丈夫……じゃないけど、こんなに人が乗ってくるんだもん、しかたないわよ」=“No, it's f... not fine but, there's so many people on, it can't be helped.”
+（……[H名]の身体……やわらかいなぁ。それに、なんかいい匂いがする……）=(...Her body... It's so soft. Not to mention, it smells kinda nice...)
+CHOICE:『[H名]の匂いを嗅ぐ』=Sniff her.
+CHOICE:『自重する』=Get a grip.
+（くんくん……すぅ……はぁ……いい匂い……）=(*sniff sniff*... *inhale*... *exhale*... smells so nice...)
+（あっ、ヤバ……興奮してきたかも……）=(Ah--, damn... I think I'm getting horny...)
+「あんた……なんで大きくなってるのよ？」=“Why are you... getting bigger?”
+「えーと……ごめんなさい」=“Erhm... I'm sorry.”
+「……って、待って！　そこ触ろうとしないで！　本当にマズイから！」=“...Wuh, wait! Don't try to touch me there! It'll be really bad!”
+「ん～、なにが～？」=“Nn~, what will~?”
+「おほっ！　ちょ、まっ……」=“Oho--! He--, wai--...”
+「別に我慢しなくたって……いいのよ……」=“It's not like you need to... hold it in, you know...”
+（……って、俺はなに普通に匂い嗅いでんだよ……さすがに自重しろよ）=(...wuh, what am I going and sniffing her like nothing for... fucking hell, get a grip, me.)
+（我ながら、自分の性欲の強さには呆れるばっかりだよ、ほんと）=(Seriously, my own libido scares me sometimes.)

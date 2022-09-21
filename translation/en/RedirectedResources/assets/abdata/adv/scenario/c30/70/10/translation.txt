@@ -1,0 +1,9 @@
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「ふふっ、面白そうな部活に誘ってもらえて嬉しいわ」=Fufu, I'm glad you invited me to take part in your interesting club.
+「ってことは、入部してくれるの？」=So does that mean you'll join the club then?
+「もちろん。前々から興味あったもの。それで、どんな活動をしているの？」=Of course. I've been interested in it for a while now. So, what kind of activities do you usually do?
+「まあ、名前の通り恋愛について学ぶ部活……かな。恥ずかしいこともあるけど、きっと役に立つと思うよ」=Well, as the name suggests, in-depth studies of love and emotions I suppose... While a lot of it is really embarrasing, I think it will definitely be useful in the future.
+「……なんか、ふわっとした説明になってごめんね」=...Uhm, sorry, that doesn't really explain anything, does it?
+「あはは……まあ、活動すれば分かるはずよ。これからよろしくね、部長さん♪」=Ahaha... Well, I'm sure I'll get it if I do a few of those activities myself. Please take care of me, club president-san ♪

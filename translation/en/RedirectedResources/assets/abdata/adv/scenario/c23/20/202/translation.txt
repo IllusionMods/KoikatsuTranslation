@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「ふぅ……色々乗ったけど、次は何しようか？」=“Fuuh... we've ridden quite a bunch of rides, what should we do next?”
 「そうだね……あ、ゲームセンターがある……」=“Right... ah, there's an arcade...”
 「……えっと、行っちゃダメかい？」=“...Erhm, could we go?”

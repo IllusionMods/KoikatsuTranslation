@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「あら、躾がなっていない豚を見つけたわ。そこに正座なさい」="Oh, I've found an untrained pig. Kneel here."
 「へぇ、その勇気は買ってあげる。でも、それは命知らずと言うのよ」="You have guts, I'll give you that, but you've also got a death's wish."
 「邪魔よ、視界に入ってこないで」="You're in my way. Don't come into my field of vision."
@@ -84,7 +87,7 @@
 「待ちなさい、口を開かないで。まずはその、いやらしい顔を何とかして」="Stop, don't open your mouth. Do something with that perverted face first."
 「女の子にも性欲はあるよね？」="Women have sexual desire too, right?"
 「あるわよ。男の泣き顔って、すっごくゾクゾクするもの」="Yeah, of course. Crying men's faces make me incredibly excited.
-「はぁ～、エッチしたいなぁ～……なんちゃって！」="*Siiigh* I so want to do something pervy right now～... Just kidding!"
+「はぁ～、エッチしたいなぁ～……なんちゃって！」="*Siiigh* I so want to do something pervy right now~... Just kidding!"
 「豚がヒトと交尾したいの？　貴方危険ね、即刻処分した方がいいかしら？」="A pig wants to copulate with a human? You're dangerous, so maybe I should dispose of you?"
 「私は対等な関係は求めてない。私が上、貴方が下、それでいいわね？」="I don't seek equal relationships. I am top, you are bottom, is that good?"
 「ふぅん、なら精々頑張りなさい。私は動かない、貴方が近付くか、離れるかよ」="Huuh, then do your best. I won't do anything. Will you get closer, or give up, it's up to you."
@@ -209,7 +212,7 @@
 「苛め甲斐のある家畜を見つけるのは得意よ。ん？　何か違った？」="I'm good at picking out livestock that's worth teasing. Hm? Something's wrong?"
 「まず無いわね。そもそも、対等に見ていないもの」="Not at first. I'd need to look at them equally to begin with."
 「くだらない話ね。脳を取り出して、桃色に塗ってあげましょうか？」="What a stupid question. Should I take your brain out and paint it pink?"
-「は～、恋人が欲しいなぁ～」="*Siiigh* I want a girlfriend so much～"
+「は～、恋人が欲しいなぁ～」="*Siiigh* I want a girlfriend so much~"
 「なら早く家畜小屋に帰りなさい。ここにメスブタはいないわよ？」="Then go back to your shed. There aren't any sows here."
 「女の子の絶頂って長いって聞くけど、本当？」="I've heard that the girl's peak is long, is it true?"
 「本当よ。出して終わりの男とは違うの、余韻を楽しむ余裕があるのよ」="It's true. In comparison to boys who finish at gushing out, girls also enjoy the lingering sensation."
@@ -227,7 +230,7 @@
 「周りが女の子だらけだと、ムラムラしちゃうね……」="I'm getting horny by all these girls around me."
 「なら無様に一人で慰めたら？　得意でしょ？」="Then why don't you go and awkwardly pleasure yourself? It's your specialty, right?"
 「貴方、散々詰られているのに、まだ私に付いてくる気？」="Hey, I'm rebuking you harshly all the time, yet you still want to spend time with me?
-「ふぅん、変わった家畜ね。それともただの変態かしら？　フフッ」="Huuh, what a strange livestock. Or maybe just a pervert? Fufu～"
+「ふぅん、変わった家畜ね。それともただの変態かしら？　フフッ」="Huuh, what a strange livestock. Or maybe just a pervert? Fufu~"
 「まぁ普通はそうでしょうね。平凡でつまらない……フッ、貴方らしいわ」="Well, that's usually the case right? Ordinarily boring... Heh, just like you."
 「貴方、コーヒーはブラック派？」="Do you prefer your coffee black?"
 「本当に？　格好つけてるだけじゃないの？　今度一緒に飲んで、試してあげるわ」="Reeaaally? Aren't you just trying to be cool? We'll test it next time."
@@ -367,7 +370,7 @@
 「ご主人様の水着姿はどう？　目に焼き付けて、今日のオカズにでもしなさい」="How do you like your master in a swimsuit? Burn it into your memory and use in one of your private sessions."
 「今、私を他の女と比べたわね？　へぇ、良い身分になったじゃない」="You just compared me with other girls, right? Huuh, what a treat for your eyes."
 「あら、こんなところまで探しに来たのね。そんなに躾けて欲しかったのかしら？」="Oh, you've come all the way here to search for me? Were you so eager to be trained?"
-「水責めって一回やってみたいのよね。凄く無様な顔が見れそう。フフッ」="I'd love to try water torture on you. I can imagine your face getting extremely distorted. Fufu～"
+「水責めって一回やってみたいのよね。凄く無様な顔が見れそう。フフッ」="I'd love to try water torture on you. I can imagine your face getting extremely distorted. Fufu~"
 「ほら、おすわり。こういう所では吠えてはダメよ？　静かにしてなさい」="Sit! You can't bark in a place like this."
 「主を連れ回しておいて、何もありませんでは済まないわよ？」="You didn't take your master to run around for nothing, right?"
 //「ふふっ、面白い事を考えるわね。そんなに踏まれたいの？」=
@@ -385,7 +388,7 @@
 「自分ね。どこで何をしていようと、それさえしっかりしていれば何とかなるわ」="It'd be me. As long as I do so, I'll be fine no matter where I go or what I do."
 //「特にないわ、一つの事にこだわるのはリスクも伴うの、覚えておきなさい」=
 「俺って、ずっと下僕のままなの？」="Will I always be your manservant?"
-「そうよ、貴方は一生私の下僕。嬉しいでしょう？　フフッ」="Yeah, you'll be my manservant forever. It makes you happy, doesn't it? Fufu～"
+「そうよ、貴方は一生私の下僕。嬉しいでしょう？　フフッ」="Yeah, you'll be my manservant forever. It makes you happy, doesn't it? Fufu~"
 「どうかしらね。可能性は限りなくゼロに近いと思うけど、ゼロではないわ」="Let's see. Chances are extremely low, but they're not zero."
 「寝るときはパジャマ？」="Do you sleep in pajamas?
 「パジャマよ。貴方は裸が似合いそうね、ケモノみたいで。フフッ　」="Yeah. You probably sleep naked like some animal. Fufu~"
@@ -410,7 +413,7 @@
 「下僕は主人と結婚できるのでしょうか？」="Can a manservant marry his master?"
 //「可能性はゼロではないわ。身分違いの恋なんて、よく語られる事でしょう」=
 「無理ね。だって下僕ですもの。それ以上になる必要があるわ」="That's impossible. We're talking about a manservant here. You'd need to become more than that."
-「花の種でも食べてるの？　貴方、脳内が完全にお花畑よ」="Do you eat flower seeds?　The inside of your brain is overtaken by a field of flowers."
+「花の種でも食べてるの？　貴方、脳内が完全にお花畑よ」="Do you eat flower seeds? The inside of your brain is overtaken by a field of flowers."
 「[H名]、好きだ！」="I love you, [H名]!"
 「いつ、私の事を呼び捨てにしていいと言ったのかしら？　ん？」="When did I allow you to call me by my name only? Hmm?"
 「昨日、夢に出てきた[H名]さん、すごく優しくてさ……」="Yesterday in my dream Miss [H名] was so gentle..."
@@ -496,7 +499,6 @@
 「フフッ、貴方を苛めるのが楽しくて、つい時間を忘れてしまったわ」="Fufu, I had so much fun teasing you that I just forgot about the time."
 「下僕、次は体を綺麗にしておきなさい。踏んで汚してあげるわ」="Manservant, wash up your body for the next time. I'll trample you and make it dirty for you again."
 「さて。貴方の相手は終わり。ほら、足を舐めて、感謝の姿勢を見せなさい」="Well then, your life is now over. Show me your gratitude by licking my feet."
-「さて。貴方の相手は終わり。ほら、足を舐めて、感謝の姿勢を見せなさい」="Well then, your life is now over. Show me your gratitude by licking my feet."
 //「へぇ、この私より、優先するものがあると？　さぞ重要な事なのでしょうね」=
 //「何がしたかったの？　意味不明ね」=
 //「そう、結局つまらない家畜に戻るのね。心底呆れたわ」=
@@ -506,7 +508,7 @@
 「そう、それでいいのよ。お互い悪い話ではないでしょう？」="That's a good response. We'll both enjoy it, right?"
 「へぇ、女に恥をかかせるのね。貴方、いつからそんな大層な男になったの？」="Huuh, to think you'd shame a woman. When did you become such a badass?"
 「ここで[H名]さんとＨしたい」="I want to do dirty things with Miss [H名] here."
-「私は構わないわよ。貴方が情けない姿を晒す事になるだけだし。フフッ」="I don't mind. But everyone will be able to see your pathetic self in action. Fufu～"
+「私は構わないわよ。貴方が情けない姿を晒す事になるだけだし。フフッ」="I don't mind. But everyone will be able to see your pathetic self in action. Fufu~"
 //「貴方、性欲だけで生きてるの？　時と場所を弁えなさい」=
 「いいわよ。大声で泣かせてあげる。誰かにみっともない姿を見てもらいましょう」="Okay. I'll make you cry loudly. Let's have people coming here see your shameless demeanor."
 //「勝手に一人で晒してなさい。下僕の露出癖に付き合う程、暇じゃないの」=

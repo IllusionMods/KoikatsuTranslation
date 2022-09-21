@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「さて、かなり居座っちゃったね。そろそろ出ないと、店員さんから睨まれるかも……」=Now then, we've been here for quite a while. If we don't shuffle out quickly, the owner might start glaring at us...
 「流石にそこまではされないだろうが、迷惑になるのは嫌だからな。そろそろ出るか」=I don't think they'd go that far but yeah, I'd hate to be a bother to them. Let's leave.
 「じゃあ、先に会計してきちゃうね。[H名]は待ってて」=Then, I'll go settle the bill real quick. You wait here, [H名].

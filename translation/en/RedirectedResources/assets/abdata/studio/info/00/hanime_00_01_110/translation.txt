@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 待機=Idle
 胸反応開始=Initial Breast Touch
 胸触り待機=About To Grope Breasts

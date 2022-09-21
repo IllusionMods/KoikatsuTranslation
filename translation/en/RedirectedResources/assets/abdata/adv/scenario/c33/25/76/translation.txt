@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「[H名]さん。ちょっと顔色が悪くない？」=[H名]-san. you're looking pretty pale there.
 「わかる？　私、泳げないのよ。小さい頃に川で溺れたことがあって……」=You can tell? You know, I can't swim. I almost drowned in a stream as a kid, you see...
 「そうだったんだ。じゃあ、俺が補助するから、克服しようよ！」=So that's why. Then, I'll help you, so let's conquer that fear!

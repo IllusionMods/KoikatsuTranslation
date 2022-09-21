@@ -1,3 +1,6 @@
-﻿「おはよう！　今日も一日頑張ろうね。えへへ……実はね、私、ここで君に会えるとめっちゃ嬉しいっちゃん」=Morning! Let's do our best today too. Ehehe... you know, the truth is, meeting you here like this makes me super happy.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「おはよう！　今日も一日頑張ろうね。えへへ……実はね、私、ここで君に会えるとめっちゃ嬉しいっちゃん」=Morning! Let's do our best today too. Ehehe... you know, the truth is, meeting you here like this makes me super happy.
 「ここで……って、どういうこと？」="Here... what do you mean?"
 「だって……教室に着くまで、二人の時間が作れるっちゃもん。朝から恋人と二人でおれるなんて、最高に幸せなん♪」=You know... we're alone together like this, until we get to class. Being able to spend time with my boyfriend like this, right from the morning, it's the happiest thing ever♪

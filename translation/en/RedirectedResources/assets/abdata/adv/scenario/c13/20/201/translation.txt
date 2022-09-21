@@ -1,4 +1,7 @@
-﻿「デートと言えば？」=When it comes to dates?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「デートと言えば？」=When it comes to dates?
 「遊園地っしょ～！　イエーイ！」=Gotta be the amusement park! Yay!
 「イエ～イ！」=Yay~!
 「……さて、まず何からしようか？」=...Well then, what shall we start with?

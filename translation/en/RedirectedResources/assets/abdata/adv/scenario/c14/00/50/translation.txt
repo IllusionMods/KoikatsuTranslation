@@ -1,2 +1,5 @@
-﻿「……これ以上気持ちよくなっちまうと、私が私じゃなくなる」=...Any more pleasure, and I won't be me anymore.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「……これ以上気持ちよくなっちまうと、私が私じゃなくなる」=...Any more pleasure, and I won't be me anymore.
 「でも、もう私の体は[P]無しじゃ……」=But, my body already can't live without you, [P]...

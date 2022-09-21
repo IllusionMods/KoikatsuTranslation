@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 ………………=.........
 …………=......
 ……=...
@@ -5,6 +8,9 @@
 「そうね……」=Indeed...
 「……」=“...”
 「……ねえ、今日はこの後どうするの？　私はまだ、大丈夫よ？」=...Hey, what are you doing after this? I've still got, lots of time, you know?
+CHOICE:『自宅に誘う』=Take to your place.
+CHOICE:『ラブホに誘う』=Take to love hotel.
+CHOICE:『さよならする』=Say goodbye.
 「それじゃあ、このままうちに来る……なんてのはどうかな？」=Well then, how about we... hit up my place?
 「えっ……」=Eh--...
 「ん？　どうしたの？」=Nn? What's up?
@@ -23,6 +29,3 @@
 「んん……」=Nn...
 「……改めて、今日はありがとう。名残惜しいけど、また学園でね」=...Really, thanks for today. It's sad but, we'll see each other at school, okay?
 「うん、またね」=Yeah, see you.
-CHOICE:『自宅に誘う』=Take to your place.
-CHOICE:『ラブホに誘う』=Take to love hotel.
-CHOICE:『さよならする』=Say goodbye.

@@ -1,0 +1,36 @@
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+………………=.........
+…………=......
+……=...
+「ここまで戻ってきちゃったね……あはは、[H名]と一緒だと全部があっと言う間だよ」=We got all the way back here already, huh... Ahaha, when I'm with you, time just flies by, [H名].
+「今日はデートしてくれてありがとう。一日、すごく楽しかったよ」=Thanks for coming on a date with me today. I had an amazing day.
+「私もめっちゃ楽しかったん。君と一緒やったら、何しても楽しめるっちゃん」=I had an absolute blast too. I feel like I can enjoy myself with you almost anywhere.
+「あはは、そう思ってもらえたら嬉しいな。俺も同じ気持ちだよ」=Ahaha, hearing you say that makes me happy. I feel the same way.
+「だけど……えっと……何て言うか……」=But... erhm... how do I say this...
+「うん……あっと言う間過ぎるん……やけん、こういう……別れ際って……どうしても寂しくなるっちゃん……」=Yeah... It really did fly by way too quickly... this sort of... parting... I just can't help but feel lonely...
+「そうだよね……」=Yeah...
+CHOICE:『自宅に誘う』=『Invite to your place』
+CHOICE:『ラブホに誘う』=『Invite to Love Hotel』
+CHOICE:『さよならする』=『Say goodbye』
+「あ、そうだ、もし良かったらでいいんだけど……この後、うちにこない？」=Ah, right. This is only a suggestion, no need to force yourself if you don't want to, but... wanna come to my place?
+「っ……いいん！？　うんっ、行きたいっ！　もっともっと君と一緒におりたいもん！」=--...You sure!? Yeah--, I wanna come--! I want to spend even more time with you!
+「あのさっ……今日って、もう少し時間……大丈夫？」=Listen--... Can you spare... a little bit more time today?
+「あ、う、うんっ、大丈夫よ。えっと……どこかまだ連れていってくれるん？」=Ah, y-yeah--, I can. Erhm... you gonna take me somewhere?
+「うん……その……最後にもう少しだけ……二人きりで過ごせたらいいなって……」=Yeah... uhm... I was just thinking that it'd be great... if we could spend a little bit more time together, just the two of us...
+「えっ？　二人きりで過ごせるとこ？　この辺でそういうとこって……」=Eh--? Just the two of us? A place like that, in this area...
+「っ……もしかして、えっと……そ、そういう……ホテル……とかかいな？」=--... by any chance, erhm... do you mean... t-that sort of... hotel, or whatever?
+「うん、ダメかな？」=Yeah, no good?
+「あっ、ううんっ！　全然ダメじゃないよ？　私も……今すぐ君と二人きりになりたいもん」=Ah--, that's not it--! It's perfectly fine, you know? I want to... be alone together with you too.
+「あ、あはは、良かった。それじゃ……行こっか」=A-Ahaha, I'm glad. Well then... Shall we?
+（寂しいけど……お互いに学生だし……明日のこともあるし、あまり遅くなるわけにはいかないもんな……）=(It's really sad but... We're both students... We have class tomorrow too, I really shouldn't hold her up too late...)
+「えーっと……それじゃまた……」=Erhm... well then, till next time...
+「……うん、またね」=...Yeah, later.
+「俺、次に学園で会える時まで、ずーっと[H名]のこと考えてるよ」=I'll be thinking about you the whole time, you know? Till we meet at school again.
+「あっ……う、うんっ、私もっ！　ずっと君のこと考える！　今夜は一晩中、ずーっとデートのこと思い出すけんっ！」=Ah--... Y-Yeah--, me too--! I'm always thinking of you! I'll be thinking about our date today, all night long--!
+「あはは、そんなことしたら寝られなくなっちゃうよ」=Ahaha, you won't be able to sleep if you do that, you know?
+「それでもいいとよ。君のこと考えとったら……どっちにしても眠れんっちゃもん」=It doesn't matter. I can't sleep anyway... when I think about you.
+「[H名]……」=[H名]...
+「わあぁ、わ、私っ……なにげに恥ずいことっ……え、えっとっ……それじゃまたっ！　学園でねっ！」=Waaa, I-I--... said something, so embarrasing--... E-erhm--... Till next time then--! At school--!
+「あ、うんっ！　気を付けて帰ってね！」=Ah, yeah--! Be careful on your way home!

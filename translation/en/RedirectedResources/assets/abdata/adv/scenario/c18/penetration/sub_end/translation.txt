@@ -1,1 +1,4 @@
-﻿「二人を気持ちよくして……すごいですね」=You made us both feel good... you're so amazing.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「二人を気持ちよくして……すごいですね」=You made us both feel good... you're so amazing.

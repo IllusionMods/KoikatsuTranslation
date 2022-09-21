@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 デフォルト=Default
 両目閉じ=Closed
 笑顔=Smiling

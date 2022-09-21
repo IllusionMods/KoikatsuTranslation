@@ -1,1 +1,4 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「え、プレゼント？　ありがとう！　中身は何だろう～」=“Eh, a present? Thank you! I wonder what's inside~”

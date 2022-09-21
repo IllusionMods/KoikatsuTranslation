@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「で、コイカツ部って、基礎練習とかがあったりするの？」=“So, is there like a basic drill, that you go through at this club?”
 「いや、まだ特に決めてないけど。どうして？」=“No, well, I still haven't sorted that sort of stuff out yet. Why do you ask?”
 「だって、運動部や文化部はそういうのをよくやるじゃない。だから、コイカツ部もあるのかなって」=“I mean, sports clubs and culture clubs and whatnot often have those sorts of things, no? So I was wondering if the Koikatsu club had them too.”

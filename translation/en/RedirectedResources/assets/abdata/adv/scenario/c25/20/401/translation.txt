@@ -1,4 +1,7 @@
-﻿「[H名]は、休日とか何してるの？」=[H名], what do you do on your days off?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「[H名]は、休日とか何してるの？」=[H名], what do you do on your days off?
 「う～ん、基本的に部屋でダラダラしてるよ～」=Mmm, well, I generally laze around in my room~
 「部屋で本読んだり～、ネットで動画見たりして～」=Reading a book, or watching videos on the internet or whatever~
 「あー、インドア派なんだね。俺も外出するの面倒な時あるよ」=Ah, you are an indoor type, afterall. Even I have times when I can't be bothered to leave the house either.

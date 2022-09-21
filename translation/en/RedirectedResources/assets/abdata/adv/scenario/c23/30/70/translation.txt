@@ -1,5 +1,7 @@
-
-//「ふふ、ふ。辞典を借りてきたよ。これでクリア確定だね」=
-//「うん。やってみよう」=
-//「あ。そこ、こうやるんじゃない？」=
-//「あ、そうか。ありがとう」=
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「ふふ、ふ。辞典を借りてきたよ。これでクリア確定だね」=“Fufuh, fuh. I went and got a dictionary issued. There's no way we'll fail this duty now.”
+「うん。やってみよう」=“Yeah, let's try it.”
+「あ。そこ、こうやるんじゃない？」=“Ah. Shouldn't that be like this instead?”
+「あ、そうか。ありがとう」=“Ah, you're right. Thanks.”

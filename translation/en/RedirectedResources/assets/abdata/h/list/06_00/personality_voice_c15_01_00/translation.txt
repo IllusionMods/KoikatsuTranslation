@@ -1,4 +1,7 @@
-﻿な、なんか緊張するな=I-I'm getting nervous.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+な、なんか緊張するな=I-I'm getting nervous.
 アタシの体見てて楽しいかー？=Is it fun to look at my body?
 アタシの体綺麗だろ？=Got a lovely body, don't I?
 へへ、もう我慢できないぞ=Hehe, I can't hold it in anymore.

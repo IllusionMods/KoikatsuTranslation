@@ -1,1 +1,4 @@
-﻿「二人相手によく頑張ったなぁ、すごい体力だ」=You sure held up well against two partners at once, you've got quite the bod.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「二人相手によく頑張ったなぁ、すごい体力だ」=You sure held up well against two partners at once, you've got quite the bod.

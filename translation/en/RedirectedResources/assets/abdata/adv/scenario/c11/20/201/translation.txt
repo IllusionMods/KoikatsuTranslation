@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「うお～～っ、遊園地だ！　今日は楽しむぞー！」=“Uwoh~~, it's the amusement park! We're gonna have some fun today!”
 「うふふ、デートの定番だものね。今日は全部回るつもりでがんばりましょう」=“Ufufu, it's a pretty staple date spot, isn't it? Let's try to go through every single attraction today, okay?”
 「もちろんだよ。さて、何から乗ろうかな～」=“Of course. Now then, what should we start with~”

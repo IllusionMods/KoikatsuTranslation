@@ -1,4 +1,7 @@
-﻿「ここは、何度訪れても素敵な場所ですね」=No matter how many times we come here, it's always such a lovely place.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「ここは、何度訪れても素敵な場所ですね」=No matter how many times we come here, it's always such a lovely place.
 「はははっ。すっかりお気に入りの場所になったみたいだね」=Hahaha--. Looks like it's thoroughly become one of your favourite places, huh?
 「ええ。ここに来ると心が落ち着きます」=Yes. When we come here, it really calms my heart down.
 「同時に、夜に溶け込んでしまいそうで……少し切ないと言いますか、寂しくもなるのですけれど」=At the same time, I feel like I'll just melt into the night... it makes my heart unsteady, and also makes me feel a bit lonely.
@@ -8,6 +11,8 @@
 「なんですか？　私、なにか変なことを言ったでしょうか」=What is it? Did I say something weird?
 「ううん。そういうわけじゃないんだけど……」=No. That's not it, but you see...
 「歯切れが悪いですね。怪しいです……」=You're sure being evasive. It's rather fishy...
+CHOICE:『エッチしちゃったなぁって』=『I was thinking about the time we had sex here.』
+CHOICE:『また一緒に見に来ようね』=『Let's come here again, okay?』
 「ここでエッチしちゃったなぁって」=I was thinking about the time we had sex here, and all.
 「……っ！？　そ、そのようなこともありましたけれど、今思い出さなくてもいいじゃないですか」=...--!? W-We did but, do you really have to bring that up right now?
 「またシたくなっちゃうから？」=Why not? Because it'll make you horny?
@@ -27,5 +32,3 @@
 「うんっ。じゃあ今日はそろそろ帰ろうか」=Yeah--. Well then, we should head home.
 「しっかりと手を繋いで、ですね」=With our hands held tight, yes?
 「そうだね」=Right.
-CHOICE:『エッチしちゃったなぁって』=『I was thinking about the time we had sex here.』
-CHOICE:『また一緒に見に来ようね』=『Let's come here again, okay?』

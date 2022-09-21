@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「あら、ここ女子トイレよ？」=Oh my, this is the girl's toilet, you know?
 「女の子の生態でも調べにきたの？　くすくすっ」=Came to check out even girls' private territory? *Giggle*
 「ごめんね、今は構ってられないの。またね」=Sorry. I can't be be bothered right now. See ya later.

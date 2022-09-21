@@ -1,5 +1,7 @@
-
-//「図書館の雰囲気は、まるで異界なのだ……」=
-//「異界？　なんで？」=
-//「静寂そのものではないか。ここは。我らのためにある場所である」=
-//「はは、そうだね」=
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「図書館の雰囲気は、まるで異界なのだ……」=“The atmosphere in this room, it feels like a different world...”
+「異界？　なんで？」=“A different world? Why?”
+「静寂そのものではないか。ここは。我らのためにある場所である」=“Is it not pure silence itself? This place, it was built for us.”
+「はは、そうだね」=“Haha, I guess so.”

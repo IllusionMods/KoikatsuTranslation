@@ -1,4 +1,7 @@
-﻿「私がコイカツ部に……いいんですか？」=Me, in the Koikatsu club... are you sure?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「私がコイカツ部に……いいんですか？」=Me, in the Koikatsu club... are you sure?
 「うん……是非一緒に活動したいと思ってさ」=Yeah... I just really wanna do the club activities with you.
 「とっても嬉しいんですけど……他の子とも一緒に活動するんですよね？」=That makes me happier than you realize but... other girls will be joining in too, won't they?
 「あっ！　たまにそういう時があるけど、基本は二人きりだよ」=Ah--! There might be times like that every so often but, it'll usually just be the two of us.

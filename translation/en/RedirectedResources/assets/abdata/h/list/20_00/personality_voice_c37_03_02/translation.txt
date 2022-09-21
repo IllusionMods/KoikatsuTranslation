@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 入れないのですか？=Are you not going to put it in?
 このままは、どうなのでしょう=What's the matter? Are we going to stay like this?
 どうぞ=Go ahead.

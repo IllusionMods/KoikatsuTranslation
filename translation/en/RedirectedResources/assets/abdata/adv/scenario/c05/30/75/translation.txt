@@ -1,4 +1,6 @@
-
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
 「おお、すごい。どうやったらそんなに遠くまで飛ばせるの？」=“Ooh, amazing. How do you manage to throw it so far?”
 「ただ、言うとおりにしてるだけだよ。あなたには、なにも聞こえない？」=“I'm only doing exactly as they tell me to. Can you, not hear them at all?”
 「うん。あーあ、俺もそんなに上手くなりたいな」=“Yeah. Aah, I'd love to be as good as you at that.”

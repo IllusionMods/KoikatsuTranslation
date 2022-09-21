@@ -1,3 +1,7 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+モブ=Mob
 「すみませーん！　少しお時間よろしいでしょうか？」=Excuse me! Can you spare a minute?
 「あっ、はい。何ですか？」=Ah, yes. What is it?
 「ありがとうございます！　私、この近くの結婚式場に勤めているウェディングプランナーの玉城と申します！」=Thank you very much! My name is Tamaki, and I'm a wedding planner working at the nearby wedding hall!
@@ -9,5 +13,3 @@
 「もう、調子がいいんだから……でも、キミがいいなら、私も付いていくわ」=Geez, we had a good mood going... Well, it's fine, if you want to do it, then I'll tag along.
 「よし！　じゃあ行こう！　というわけで、俺達でよければ、よろしくお願いします！」=Alright! Let's go! Then, if you're fine with us, then we'll leave it up to you!
 「ありがとうございます！　それでは、さっそく式場までご案内いたしますね！」=Thank you very much! Then, I'll take you both to the wedding hall!
-
-モブ=Mob

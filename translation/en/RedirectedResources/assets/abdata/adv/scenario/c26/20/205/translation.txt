@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「どんどん人が小さくなっていくな～」=“The people are getting smaller and smaller, aren't they~?”
 「お、あそこ最初に行ったアトラクションが見えるよ！」=“Oh, look over there, it's the attraction we got on first!”
 「……そう、だね」=“...Yeah, it is.”

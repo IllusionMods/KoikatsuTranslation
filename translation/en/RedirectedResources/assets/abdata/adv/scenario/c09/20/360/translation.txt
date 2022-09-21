@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「……声、聞かれちゃったんじゃない？」=“...They probably heard us, no?”
 「カラオケボックスだよ？　防音もされてるし、音楽の音が大きいから大丈夫だよ」=“We're in a Karaoke Box, you know? There's lots of loud music, not to mention the rooms are soundproofed.”
 「そっか……歌うのに夢中で普通は気づかないわよね」=“I see... not something you exactly notice, when singing your heart out, is it?”

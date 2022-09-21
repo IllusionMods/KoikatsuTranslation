@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 滝=Waterfall
 液体=Urine
 濃い液体（弱）=Female Ejaculate (Weak)

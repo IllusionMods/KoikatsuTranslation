@@ -1,4 +1,7 @@
-﻿「ふ～～……今日も喉の調子が絶好調よ♪」=Fuu~~... My throat's in perfect shape today too♪
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「ふ～～……今日も喉の調子が絶好調よ♪」=Fuu~~... My throat's in perfect shape today too♪
 「うん、上手だったよ。本当にいい声だ」=Yeah, you were amazing. Your voice really is nice.
 「まだまだ序の口よ？　これからもっと調子がよくなるわ」=We're just starting, you know? It'll get even better as we go along.
 「ふぅ……俺はちょっと飛ばしすぎたかな。疲れちゃった……ちょっと休憩させてね」=Fuu... I think I got a bit too into it there. I'm tired... I'll take a small break, if that's alright with you.

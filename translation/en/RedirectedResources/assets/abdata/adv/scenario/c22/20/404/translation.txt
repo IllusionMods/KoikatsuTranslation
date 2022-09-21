@@ -1,4 +1,7 @@
-﻿「おお、なんだかすごく美味しそう！　さすがだね！」=Ooh, that looks kinda amazing! I'm impressed!
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「おお、なんだかすごく美味しそう！　さすがだね！」=Ooh, that looks kinda amazing! I'm impressed!
 「うんっ、写真よりいいよね！　他の人が頼んでるのを見ても美味しそうって思っちゃいそう！」=Yeah--, it looks even better than the photo, doesn't it! To the point that just looking at someone else eating it would look amazing too!
 「それじゃまずは一口……頂きます！　はむっ！　ふぁぁっ、やっぱり美味しいー！」=Well then, let's start with... a bite! *chew*! Fuaah--, it really is delicious~!
 「あはは、良い笑顔だね。どんな感じなの？」=Ahaha, that's a nice smile. What does it taste like?

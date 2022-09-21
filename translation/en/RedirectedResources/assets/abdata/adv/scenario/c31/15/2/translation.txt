@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「どうだ？　私と話す事にも、慣れてきたんじゃないか？」=How is it? Haven't you gotten used to chatting with me now?
 「うん、そうだね。もう変に緊張したりとかは、ないかな」=Yeah, you're right. I don't feel weirdly nervous anymore, I don't think.
 「フッ、そういう時こそ、普段はしない失敗をするものだ。気を付ける事だな」=Hah, it's exactly at times like those, that you might slip up and make a mistake. You better be careful.

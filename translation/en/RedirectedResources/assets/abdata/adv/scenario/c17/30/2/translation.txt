@@ -1,4 +1,6 @@
-
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
 「はじめは鬱陶しかったけれど、あなたと話すのもいい暇つぶしにはなるわね」=“At first I thought you were annoying, but talking with you is a good way to kill time.”
 「それって……いい意味にとっていいのかな？」=“That's...a compliment right?”
 「さあ、どうかしらね」=“Hmm... Who knows?”

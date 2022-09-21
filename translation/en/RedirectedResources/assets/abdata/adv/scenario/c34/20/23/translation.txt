@@ -1,4 +1,7 @@
-﻿「Ｗｅｌｌ……Ｕｍｍ……」=Well... Umm...
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「Ｗｅｌｌ……Ｕｍｍ……」=Well... Umm...
 （ん？　[H名]元気ないな。どうしたんだ？）=(Hm? [H名] seems pretty down. What's the matter?)
 「[H名]？」=[H名]?
 「Ｏｈ、エット……奇遇？　デスネ？」=Oh, erm... What a c-coincidence, us meeting here.

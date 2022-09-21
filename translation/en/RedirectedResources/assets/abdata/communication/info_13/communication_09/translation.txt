@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「いやあ！　ここは女子トイレよ！　男子の来るところじゃないの！」=“No! This is the girls' toilet! It's not a place for a boy to enter!”
 「きゃあ！　何であんたがここにいるのよ！　出ていって！」=“Kyah! Why are you in here?! Get out!”
 「あたし忙しいの、話しかけないで」=“I'm busy right now, don't talk to me.”

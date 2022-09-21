@@ -1,4 +1,7 @@
-﻿「あ、え、う……まあキミなら……いい、よ」=Ah, eh, uu... well, with you... all, right.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「あ、え、う……まあキミなら……いい、よ」=Ah, eh, uu... well, with you... all, right.
 「本当？　すっごく嬉しいよ！」=For real? I'm super happy!
 「か、彼女になれてしまった……彼氏ができてしまった……」=I-I ended up becoming a girlfriend... I ended up making a boyfriend...
 「でも、どうして告白をＯＫしてくれたの？　もしかして……両想いだった？」=But, why did you say yes? By any chance... was the feeling mutual?

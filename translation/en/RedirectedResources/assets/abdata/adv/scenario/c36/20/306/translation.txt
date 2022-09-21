@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「いぇーい！　[H名]さん最高ー！」="Yaay! Miss [H名] is the best!"
 「フッ、それ、毎回言うのね。もうお互いのレパートリーも大体わかっているし、飽きてきたんじゃないの？」="Hah, you say that every time. You pretty much know all the songs already, aren't you getting tired of it yet?"
 「うーん、確かに新鮮味はなくなってきたけど。俺は[H名]さんと二人きりっていうのが大事だから」="Yeah, certainly there's no freshness in it anymore, but what's important is that it's just me and Miss [H名]."
@@ -5,6 +8,8 @@
 「えぇぇ……じゃあ、もう出る？」="Eeeh... Then, shall we leave?"
 「フフッ、その曇った顔が見たかっただけよ。残った時間は、ずっと貴方を苛めてようかしら」="Fufu, I just wanted to see that lonely look on your face. Maybe I should tease you for our remaining time."
 「いやぁ……」="I wonder..."
+//CHOICE:『一緒にいられるなら、それでもいいかな』=
+//CHOICE:『心が折れそうだから、今日はもう帰ろう』=
 「苛められるのはいつもの事だし、[H名]さんと一緒にいられるなら構わないよ」="You can always tease me, and if I can be together with Miss [H名], then I don't mind."
 「あら、そういう反応されると、逆につまらないのよね」="Oh, if you react like that, it becomes uninteresting."
 「わかってる。でも、それが俺の本心だから」="I know, but those are my true feelings."
@@ -20,6 +25,3 @@
 「[H名]さん、密室だと容赦ないんだもん……俺、壊れちゃうよ……」="Miss [H名], I think it's too much for this closed room... I think I'm going to break...
 「フフッ、なにを女々しい事を言っているのよ。私達はただカラオケで歌っていただけでしょ？」="Fufu, why are you talking all ladylike? We were only singing at karaoke bar, right?"
 「ちょくちょく詰られたり、踏まれたりした気がするけど……まぁ、とりあえず会計済ませてきちゃうね」="I frequently get scolded, feel like my feelings are being trampled down, but... well, for now let's put an end to this meeting."
-
-//CHOICE:『一緒にいられるなら、それでもいいかな』=
-//CHOICE:『心が折れそうだから、今日はもう帰ろう』=

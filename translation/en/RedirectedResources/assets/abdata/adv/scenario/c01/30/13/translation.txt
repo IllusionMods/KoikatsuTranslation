@@ -1,4 +1,6 @@
-
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
 「は、はい。ぜひ行きましょう」=“Y-Yes. By all means.”
 「はあぁ……今からドキドキしてしまいます」=“Haah... my heart is already pounding for it.”
 「当日はもっとドキドキしてもらえるように、プランを考えておくね」=“I'll think up a date plan, so that it'll pound even more on the day in question, alright?”

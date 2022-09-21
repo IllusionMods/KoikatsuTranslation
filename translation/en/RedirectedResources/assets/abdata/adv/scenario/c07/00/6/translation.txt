@@ -1,3 +1,6 @@
-﻿「いいぞ。でもどこに行くんだ？」=Sure. But where are we going?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「いいぞ。でもどこに行くんだ？」=Sure. But where are we going?
 「ちょっと二人になりたいんだ」=Somewhere we can be alone together.
 「なんだよ改まって。相談事ならいつでも聞くぞ」=No need to stand on ceremony with me, you know? If you need to ask me something, I'm always all ears.

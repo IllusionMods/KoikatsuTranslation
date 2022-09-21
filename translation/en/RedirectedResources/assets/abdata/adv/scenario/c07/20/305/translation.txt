@@ -1,4 +1,7 @@
-﻿「あ～、すっきりした……っとと、あれ？」=Ah~, I feel so refreshed... wait, huh?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「あ～、すっきりした……っとと、あれ？」=Ah~, I feel so refreshed... wait, huh?
 「あ、[H名]、危ないっ……！！」=Ah, [H名], that's dangerous--...!!
 「……ふーっ、間に合った」=...Fuu--, I made it in time.
 「ああ……悪い悪い。ちょっとクラッときちゃって……」=Yeah... Sorry, my bad. I just felt a bit dizzy...

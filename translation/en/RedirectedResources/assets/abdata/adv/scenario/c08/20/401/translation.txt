@@ -1,4 +1,7 @@
-﻿「実はこの喫茶店、雑誌に紹介されるぐらい有名な店なんだよ。知ってた？」=This cafe is actually so popular, it's even been featured in magazines. Did you know that?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「実はこの喫茶店、雑誌に紹介されるぐらい有名な店なんだよ。知ってた？」=This cafe is actually so popular, it's even been featured in magazines. Did you know that?
 「はぇ～、よく知ってるな、[H名]は……」=Hoh~, you're pretty in the know, [H名]...
 「えへへ～、実はこの日の為に、調べておいたの♪」=Ehehe~, I actually read up on it, just for today♪
 「あ、今思い出したんだけど、この店ってテレビでも紹介してなかった？　確かここだった気がするんだけど……」=Ah, I just remembered but, wasn't this cafe also featured on the telly once? I feel like it was this cafe, anyway...

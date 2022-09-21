@@ -1,4 +1,6 @@
-
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
 「あなたが部長をしてるのよね？　少しだけ、考えさせてくれないかしら……」=“You're the president aren't you? Let me think for a bit...”
 「うん、全然待つよ」=“Sure, I'll wait.”
 ………………=.........

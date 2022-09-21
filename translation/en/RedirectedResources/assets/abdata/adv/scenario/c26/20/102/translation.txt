@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「お待たせ。遅くなってごめんね。はい、アイスクリーム買ってきたよ」=“I'm back. Sorry for taking so much time. Here, ice cream.”
 「……ありがとう」=“...Thanks.”
 （一口が小さくて、可愛いな。小動物的な感じってこんなことをいうだろうなー……ってつめた！）=(Her bites are so small, it's so cute. She's like a small cuddly anima... wuh, that's cold!)

@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「今日も一日遊び倒したなぁ」=We spent the whole day today having fun too.
 「順番待ち、少なかったですね」=We didn't have to wait much, did we?
 「おかげで多くのアトラクションを楽しめました」=Thanks to that, we were able to enjoy lots of attractions.

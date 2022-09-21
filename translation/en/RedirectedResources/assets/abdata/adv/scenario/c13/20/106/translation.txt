@@ -1,4 +1,7 @@
-﻿「う～ん！　いつ来ても、ほんとに綺麗な場所だね～」=Yeah~! No matter how many times we come here, it's always just so pretty, isn't it~
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「う～ん！　いつ来ても、ほんとに綺麗な場所だね～」=Yeah~! No matter how many times we come here, it's always just so pretty, isn't it~
 「本当にそうだね」=Really.
 「ここに来ると、マジで心が綺麗になるってカンジ！」=When we come here, I really do feel like my heart becomes pretty too!
 「[H名]は十分、心が綺麗だよ！」=Your heart's already beautiful enough, [H名]!
@@ -11,6 +14,8 @@
 「ほら、キミはここで、アタシのいい所をいろいろ話そうとしてたじゃん」=You know, the way you started listing off one good thing about me after another and stuff.
 「前も言ったけど、あんな風に褒められるの、生まれて初めてだったから……すごく思い出に残ってるの」=I said it before too but, it was the first time someone ever praised me like that, ever since I was born even... I can't help but remember it.
 「……[H名]」=...[H名].
+CHOICE:『ここでエッチしたことも思い出になってる？』=『Do you remember how we had sex here?』
+CHOICE:『また必ず、ここに来ようね』=『Let's come here again for sure, okay?』
 「……じゃあ、ここでエッチしたことも思い出になってる？」=...Then, do you also remember how we did it here?
 「もう、エッチなことばっかり考えて～！」=Jeez, always with the lewd stuff~!
 「ごめん……でも、俺にとってはいい思い出だったから、つい」=Sorry... but, it was a great memory for me so, I just couldn't help it.
@@ -27,6 +32,3 @@
 「[P名]くんなら、マジでそうしてくれそ～」=Out of all people, I'm sure you can pull it off, [P名]-kun~
 「さっそく有言実行！　腕を組んで帰ろう！」=I'll make good on my word right here, right now! Let's walk home arm in arm!
 「マジでバカップルじゃん、それ～」=We really would look like a pair of sickening lovebirds that way~
-
-CHOICE:『ここでエッチしたことも思い出になってる？』=『Do you remember how we had sex here?』
-CHOICE:『また必ず、ここに来ようね』=『Let's come here again for sure, okay?』

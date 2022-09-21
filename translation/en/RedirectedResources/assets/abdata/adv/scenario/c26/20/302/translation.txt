@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「[H名]って、けっこう上手だよね」=“You're pretty good at this, huh? [H].”
 「……でも、９０点どまり」=“...But, I never went past 90 points.”
 「アベレージ９０点ならすごいことだよ。自信をもって」=“An average of 90 is amazing. You should be more confident.”

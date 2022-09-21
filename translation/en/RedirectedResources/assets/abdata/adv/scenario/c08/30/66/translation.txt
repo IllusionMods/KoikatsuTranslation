@@ -1,4 +1,7 @@
-﻿「ねえ、あの雲とあの雲だったら、どっちが好み？」=Hey, between that cloud and that one over there, which one do you like better?
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「ねえ、あの雲とあの雲だったら、どっちが好み？」=Hey, between that cloud and that one over there, which one do you like better?
 「ん～……あの雲は足が速そうだから好き。あの雲は頭が良さそうだから好き」=Nn~... that cloud looks like it has fast legs, so I like it. That one looks like it's got a pretty good head, so I like it too.
 「えっと、つまりどっちなんだい？」=Erhm, so which is it?
 「どっちも好きなんだよ」=I like them both.

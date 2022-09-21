@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「あー、おいしかったね。さて、お昼からはどうしっよか？」=“Aah, that was delicious, wasn't it? Now then, what should we do, now that we've taken care of lunch?”
 「さすがに、食べてすぐ激しいのは無理ねー」=“I don't think I can ride anything intense, not right after eating.”
 「んー……激しくない乗り物って、あれとか？」=“Nnn... something that's not intense, like that ride?”

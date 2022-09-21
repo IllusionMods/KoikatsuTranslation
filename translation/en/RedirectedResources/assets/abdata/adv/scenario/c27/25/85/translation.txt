@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「えっと……それじゃ、私に壁ドンしてみて」=“Erhm... well then, try holding me against the wall.”
 「わかった……いくよ」=“Got it... Here I come.”
 「ひゃ～っ！　近い近い近い！　ダメ！　離れて！　キスしちゃうぅっ」=“Hyah~! Too close, too darn close! Don't! Get back! We'll end up kissing--”

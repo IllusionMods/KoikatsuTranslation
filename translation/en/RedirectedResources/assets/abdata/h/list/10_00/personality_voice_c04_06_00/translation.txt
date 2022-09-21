@@ -1,4 +1,7 @@
-﻿このくらいが気持ちいでしょう？=This feels good, right?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+このくらいが気持ちいでしょう？=This feels good, right?
 えい、えい……ふふ、気持ちいいのね？=Take this, and that... fufu, feels good, doesn't it?
 もうピクピクしているわね、ふふ=It's already twitching, fufu~
 ほら、えい……ふふふ、かわいい=C'mon, take this... fufufu~, so cute.

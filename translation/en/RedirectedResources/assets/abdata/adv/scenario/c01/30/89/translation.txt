@@ -1,4 +1,6 @@
-
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
 「あのさ。もし良かったらなんだけど、愛称で呼び合ってみない？」=“Hey, listen. If it's alright with you, mind if we try calling each other by nicknames?”
 「愛称……ですか。構いませんよ。なんだか新鮮な感じになりそうですね」=“Nicknames... you say? I don't mind. It does feel like it might be quite refreshing.”
 「ありがとう。それじゃあまず、俺のことは[Pあだ名]って呼んでくれるかな」=“Thank you. Well then, to start things off, could you call me [Pあだ名]?”

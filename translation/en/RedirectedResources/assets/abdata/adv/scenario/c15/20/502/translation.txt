@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 （さて、待ち合わせ場所は……あ、[H名]がもう来てるな）=(Now then, the spot we were supposed to meet up at... ah, she's already there.)
 「来るの早いね。もしかして待たせちゃった？」=“You sure came early. Did I make you wait, by any chance?”
 「ううん、そんなことないぞ。それより、今日はどこにいくんだ？」=“No, not at all. Rather than that, where are we gonna go today?”

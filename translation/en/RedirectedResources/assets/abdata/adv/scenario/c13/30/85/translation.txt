@@ -1,4 +1,7 @@
-﻿「恋人らしいことか～。やっぱりドラマとか映画とか参考にするのがいいのかな？」=Stuff that lovers do, huh~. I guess TV dramas and movies and stuff would make for good references?
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「恋人らしいことか～。やっぱりドラマとか映画とか参考にするのがいいのかな？」=Stuff that lovers do, huh~. I guess TV dramas and movies and stuff would make for good references?
 「それは名案だな！」=That's a great idea!
 「そしたら……膝枕とか、どうかな？」=In that case... how about a lap pillow?
 「確かに恋人っぽいけど、[P]くん……エッチなのはダメ、だからね？」=That really does sound pretty romantic, but [P名]-kun... no lewd stuff, okay?

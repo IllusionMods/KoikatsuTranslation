@@ -1,4 +1,7 @@
-﻿「ここの喫茶店のメニューって、どれも美味しそうな物ばかりだよねー。私、すっごく悩んじゃったよ」=Every single item on the menu here looks delicious, doesn't it~. I had a really hard time picking.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「ここの喫茶店のメニューって、どれも美味しそうな物ばかりだよねー。私、すっごく悩んじゃったよ」=Every single item on the menu here looks delicious, doesn't it~. I had a really hard time picking.
 「分かる！　味も美味しそうだけど、何より見た目が良いよね。メニューの写真だけでも味が想像出来るし……」=I feel you! They look delicious too but, just the presentation alone is amazing. Just the image on the menu sprang the taste into my mind...
 「そうそう。あんな風に上手に盛り付けるの大変だろうなぁ……でもお料理って見た目も大切だもんね」=Exactly. I bed arranging them all like that was a right pain... but you can't skip out on making it look good, afterall.
 「うん、目で食べるっていうくらいだもんね。俺なんか、そういうセンスは全くないから……単純に美味しそうって感じちゃうだけだけど」=Yeah, it needs to be a treat for the eyes too, afterall. I don't really have a mind for that sort of thing so... if it looks tasty, that's good enough for me.

@@ -1,1 +1,4 @@
-﻿「なんだ？　まぁ、貰えるなら貰うけどよ」=What? Well, I don't mind taking it if you're giving it away.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「なんだ？　まぁ、貰えるなら貰うけどよ」=What? Well, I don't mind taking it if you're giving it away.

@@ -1,2 +1,4 @@
-
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
 「え、もう終わりなの？　私まだイって……最後までしていないのに」=“Eh, you're already done? I still haven't...finished yet.”

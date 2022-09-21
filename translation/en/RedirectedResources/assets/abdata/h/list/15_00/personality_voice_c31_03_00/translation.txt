@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 (初挿入)台詞例：ほ、本当に……挿れるのだな……んっ、覚悟はできたぞっ=Y-You're really going to... put it in, huh... Nn--, I've prepared myself--
 私のココは……変じゃないか？　気持ちよくできているなら……いいのだが……=This part of mine... it's not weird, is it? If I can do it well... It's fine I gues...
 どうした？　早く挿れないのか？　我慢は体に毒だぞ？=What's up? Aren't you going to put it in? Suppressing oneself is poison for the body, you know?
