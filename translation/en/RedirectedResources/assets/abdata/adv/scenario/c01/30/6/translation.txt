@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「どちらへ行くんですか？」=“Where are we going?”
-「んー、それはまだ秘密かな」=“Nn, that's gonna stay a secret for now.”
-「えっと……あなたのこと、信じていますよ？」=“Erhm... I'm trusting in you, okay?”
+//「どちらへ行くんですか？」=
+//「んー、それはまだ秘密かな」=
+//「えっと……あなたのこと、信じていますよ？」=

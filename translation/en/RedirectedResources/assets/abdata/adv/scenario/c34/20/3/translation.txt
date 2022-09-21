@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「Ｗｏｗ♪　オトコノコと一緒帰る憧れてタヨー、Ｈａｐｐｙネー♪」=Wow♪ I've always looked forward to walking home with a guy, I'm so happy♪
-「あれ、住んでた国ではそういうことなかったの？」=Huh, did that sort of thing not happen back where you're from?
-「Ｇｒｏｕｐで帰るあったケド、フタリキリはｎｏｔｈｉｎｇ。Ｂｏｙ　ａｎｄ　ｇｉｒｌしたいヨ♡」=We did go home in groups but, nothing like just a boy and girl by themselves. That's what I want to do♡
-「もちろん。色々話しながら帰ろうよ」=Of course. Let's walk home while chatting about stuff.
+//「Ｗｏｗ♪　オトコノコと一緒帰る憧れてタヨー、Ｈａｐｐｙネー♪」=
+//「あれ、住んでた国ではそういうことなかったの？」=
+//「Ｇｒｏｕｐで帰るあったケド、フタリキリはｎｏｔｈｉｎｇ。Ｂｏｙ　ａｎｄ　ｇｉｒｌしたいヨ♡」=
+//「もちろん。色々話しながら帰ろうよ」=

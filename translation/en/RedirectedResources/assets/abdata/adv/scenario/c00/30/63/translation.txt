@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「へぇ、案外キレイにしてるじゃない。もしかして急いで片付けたりした？」=Hoh, you've got the place looking surprisingly tidy. Did you clean it up in a hurry for me?
-「ふふ……その努力も、今はすごく嬉しいわよ」=Fufu... all that effort today, and now this, I'm really happy right now, you know?
-「ベッドからも君の匂いがするわ……幸せ～♪　ここで……やっちゃうんでしょ？　いいわ……来て」=Even the bed smells like you... this is happiness~♪ We're gonna... do it here, right? It's alright... come.
+//「へぇ、案外キレイにしてるじゃない。もしかして急いで片付けたりした？」=
+//「ふふ……その努力も、今はすごく嬉しいわよ」=
+//「ベッドからも君の匂いがするわ……幸せ～♪　ここで……やっちゃうんでしょ？　いいわ……来て」=

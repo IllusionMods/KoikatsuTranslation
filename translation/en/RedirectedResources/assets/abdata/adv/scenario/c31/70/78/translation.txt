@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-………………=.........
-…………=......
-……=...
-「ふぅ、運動した後は気持ちがスッキリするな。おまえは私の体ばかり気にして、モヤモヤが残っているようだが……ん？」=Fuu, my mind really feels clear after some exercise. Though, seems like you have some pent-up feelings still, from staring at my body the whole time... Hmm?
+//………………=
+//…………=
+//……=
+//「ふぅ、運動した後は気持ちがスッキリするな。おまえは私の体ばかり気にして、モヤモヤが残っているようだが……ん？」=

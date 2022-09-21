@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「やだ、君ってばかなり積極的なタイプだったのね」=Gosh, you were a pointlessly proactive sort of guy, huh?
-「えっ？　バレーボールでもしようかと思って誘ったんだけど……」=Eh--? I was just thinking that maybe we could play some volleyball or something...
-「えっ……ああ、バレーボールね！　わかってたわよ、うんうん」=Eh--... Aaah, volleyball, huh! I knew that, I did, yep.
+//「やだ、君ってばかなり積極的なタイプだったのね」=
+//「えっ？　バレーボールでもしようかと思って誘ったんだけど……」=
+//「えっ……ああ、バレーボールね！　わかってたわよ、うんうん」=

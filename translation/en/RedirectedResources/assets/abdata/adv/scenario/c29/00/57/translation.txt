@@ -1,14 +1,14 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「ついにデート……き、緊張します」=Finally, our date... I-I'm getting nervous.
-「俺もだよ。でも、一所懸命楽しませられるように今日は頑張るから」=Me too. But, I'll put my heart and soul into making sure that you have fun today.
-「お願いいたします。私も、できるだけデートっぽくなるように……じ、尽力いたします！」=Please do. Me too, to make sure that it turns out to be a date-like date... I-I'll do my very best!
-（相当緊張してるみたいだな……上手くエスコートしなくちゃ）=(She does seem to be rather nervous... Gotta do a good job of taking the lead today.)
-「いつも見ている風景が、今日は少し違って目に映ります」=Even though I'm used to seeing this scenery already, it looks slightly different today.
-「デートをしているから……ということですよね」=It's because we're on a date... isn't it?
-「きっとね。今日はどの瞬間も特別になるはずだよ」=I'm sure it is. Every moment will be special today, just watch.
-「とても楽しみです。最後までよろしくお願いします」=I'm really looking forward to it. Please take care of me till the end of the day.
-「こちらこそ。じゃあ、次はあっちに行ってみよう」=Same here. Well then, let's try heading over there.
-「今日一日、ありがとうございました。デート……貴重な経験になりました」=Thank you very much, for today. Today was a... really valuable experience to me.
-「あなたと一緒にすごす時間はやはり心地良いです」=The time we spend together really is just so pleasant.
+//「ついにデート……き、緊張します」=
+//「俺もだよ。でも、一所懸命楽しませられるように今日は頑張るから」=
+//「お願いいたします。私も、できるだけデートっぽくなるように……じ、尽力いたします！」=
+//（相当緊張してるみたいだな……上手くエスコートしなくちゃ）=
+//「いつも見ている風景が、今日は少し違って目に映ります」=
+//「デートをしているから……ということですよね」=
+//「きっとね。今日はどの瞬間も特別になるはずだよ」=
+//「とても楽しみです。最後までよろしくお願いします」=
+//「こちらこそ。じゃあ、次はあっちに行ってみよう」=
+//「今日一日、ありがとうございました。デート……貴重な経験になりました」=
+//「あなたと一緒にすごす時間はやはり心地良いです」=

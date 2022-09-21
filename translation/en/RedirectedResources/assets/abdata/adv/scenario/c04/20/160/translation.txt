@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「……少し冷えてしまったわね」=...Gotten a bit chilly, hasn't it?
-「だね、汗もかいたし。なにか羽織るものでも貸そうか？」=Yeah, we sweated a whole lot too. Need to borrow my coat?
-「ありがとう。でも、あなたに温めてもらうから、必用ないわ」=Thank you. But, I have you to warm me up, so I don't need it.
-「あたためるって……また、するの？」=warm you up... you want to, do it again?
-「そうではなくて……手を繋ぐってことよ」=Not that... I'm talking about holding hands.
-「あ、ああ……そういうことか。じゃあ手を繋いで帰ろうか」=A-Aah... so that's what you meant. Well then, let's go home while holding hands.
-「ええ。しっかり温めてね？」=Yes. Warm me up real good, okay?
+//「……少し冷えてしまったわね」=
+//「だね、汗もかいたし。なにか羽織るものでも貸そうか？」=
+//「ありがとう。でも、あなたに温めてもらうから、必用ないわ」=
+//「あたためるって……また、するの？」=
+//「そうではなくて……手を繋ぐってことよ」=
+//「あ、ああ……そういうことか。じゃあ手を繋いで帰ろうか」=
+//「ええ。しっかり温めてね？」=

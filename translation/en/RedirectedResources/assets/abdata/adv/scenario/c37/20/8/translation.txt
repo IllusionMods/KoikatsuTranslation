@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「セックスは恋仲となってからするものでは？」=Isn't sex something we should do after getting into a relationship?
-「あー、君を見ていたらその、シたくなってさ……」=Aaah, It's just that, I was looking at you and, it made me wanna do it...
-「セフレという事ですか、わかりました」=A friends-with-benefits sort of deal? I understand.
-「えっと、ほんとにいいの？」=Erhm, are you really sure?
-「あなたとなら構いません。よろしくお願いします」=I don't mind if its with you. Please take care of me.
+//「セックスは恋仲となってからするものでは？」=
+//「あー、君を見ていたらその、シたくなってさ……」=
+//「セフレという事ですか、わかりました」=
+//「えっと、ほんとにいいの？」=
+//「あなたとなら構いません。よろしくお願いします」=

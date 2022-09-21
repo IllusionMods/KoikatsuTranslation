@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「……あぁ、いやだよぉ」=...Aah, I don't want to!
-「……ごめん」=...Sorry.
-「いや、いやだぁ。なんでもするからそんなこと言わないで」=No, I don't want to! I'll do anything for you, so please don't say that.
-「……もう、決めたんだ」=...I've already made up my mind.
-「あ、ああぁ……うっうう、こんな気持ち……知りたくなかったよぉ」=Ah, Aaaaaaah... uuuuuuu, I never wanted to... know this pain.
+//「……あぁ、いやだよぉ」=
+//「……ごめん」=
+//「いや、いやだぁ。なんでもするからそんなこと言わないで」=
+//「……もう、決めたんだ」=
+//「あ、ああぁ……うっうう、こんな気持ち……知りたくなかったよぉ」=

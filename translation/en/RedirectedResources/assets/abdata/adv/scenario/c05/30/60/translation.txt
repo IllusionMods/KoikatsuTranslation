@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「今日はありがとう。楽しかった。それじゃ、またね」=“Thanks for today. It was fun. Well then, see ya.”
+//「今日はありがとう。楽しかった。それじゃ、またね」=

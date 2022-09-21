@@ -1,18 +1,18 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「しっかし、こんな唐突に新郎やることになるなんてなぁ」=Still though, to think I'd be asked to be play a groom at the drop of a hat.
-（う～ん、この服似合ってる気がしないし、[H名]と釣り合うか不安だ……）=(Mmm~, I feel like this doesn't really look all that good on me, I'm worried I'm gonna rain on her parade...)
-（いよいよ出番か……）=(Showtime, huh...)
-（へぇ、中はこんな風になってるのか……）=(Hoh, they've even got an interior like this, huh...)
-（っと、ぼーっとしてる場合じゃない。[H名]の新郎役として恥ずかしくないようにしなきゃな）=(Woah, don't get distracted. I gotta play my part as [H名]'s groom properly, can't embarrass her.)
-（ふぅ……緊張したけど、何とかこなせたかな）=(Fuu... I got real nervous but, I think I managed it somehow.)
-モブ=Mob
-「これより新婦が入場致します。後方の扉口をご覧ください」=And now, the bride will make her entrance. Please pay attention to the main door.
-（[H名]……）=([H名]...)
-お日様のように明るく元気な[H名]は、純白のウェディングドレスをまとうことで、より一層輝いていた。=[H名], usually cheerful and bright as the sun though she was, was shining even more, clad in that pure white wedding dress.
-衣装がドレスになった。ただそれだけのはずなのに、さっきまでの彼女と全然違って見えて……。=She changed out from her outfit into a dress. That was the only difference, and yet, she looked completely different from the girl she was until just a bit ago...
-そんな姿に俺がどぎまぎする中、[H名]はたおやかに佇んでいた=While I was feeling my heart collapsing in on itself, she was standing there, ever so gracefully...
-「なんか……本当に綺麗だな」=Man... you really are beautiful.
-「びっくりだよ……思ってた以上に似合ってる……」=I'm genuinely surprised... I never thought it would look this good on you...
-「ほ、ほんとに……？　えへへ、嬉しいなぁ」=R-Really...? Ehehe, I'm so happy.
+//「しっかし、こんな唐突に新郎やることになるなんてなぁ」=
+//（う～ん、この服似合ってる気がしないし、[H名]と釣り合うか不安だ……）=
+//（いよいよ出番か……）=
+//（へぇ、中はこんな風になってるのか……）=
+//（っと、ぼーっとしてる場合じゃない。[H名]の新郎役として恥ずかしくないようにしなきゃな）=
+//（ふぅ……緊張したけど、何とかこなせたかな）=
+//モブ=
+//「これより新婦が入場致します。後方の扉口をご覧ください」=
+//（[H名]……）=
+//お日様のように明るく元気な[H名]は、純白のウェディングドレスをまとうことで、より一層輝いていた。=
+//衣装がドレスになった。ただそれだけのはずなのに、さっきまでの彼女と全然違って見えて……。=
+//そんな姿に俺がどぎまぎする中、[H名]はたおやかに佇んでいた=
+//「なんか……本当に綺麗だな」=
+//「びっくりだよ……思ってた以上に似合ってる……」=
+//「ほ、ほんとに……？　えへへ、嬉しいなぁ」=

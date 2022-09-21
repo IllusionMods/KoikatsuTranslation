@@ -1,18 +1,18 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「たまにはこういう所でゆっくりするのもいいわね。貴方にしては、良い店を選んだじゃない」="Sometimes it's good to chill in a place like this huh. You've chosen quite a nice shop, even for you."
-「気に入ってくれて良かった。色々調べて、予約しておいたんだ」="I'm happy it's to your liking. I've searched quite a bit, and made a reservation here."
-「そういう事はいちいち言わないものよ。下僕なりに努力した事くらい、察せない主ではないわ」="Don't say every little thing. As your master I know that my manservant does what he can to please me in his own way."
-「しかし考えたわね。お店の中なら、私は派手に貴方を苛められない。そういう事でしょ？」="But you've planned this ahead, didn't you? In this shop I can't really tease you. That's it, isn't it?"
-「いや、そこまでは考えてなかったんだけど……二人きりになれる所の方が良かったかな？」="No, I didn't think this far, but... Would it be better to choose a place for just the two of us?"
-「私はどっちでも構わないわ。貴方が苛めて欲しいと言うのなら、場所を変える事をオススメするけど」="I don't really mind. But if you're saying you want me to bully you, we can always change our location."
-「えっと、それは……あー、とりあえずカラオケとかに行こうか！　二人きりで楽しめそうだし！」="Err, that's... Ah, for now let's go to karaoke! We'll surely enjoy it, just the two of us!"
-「いいんじゃない。そうね、とても楽しめそう。二人きりなら、遠慮はいらないもの。フフフッ」="Sure, why not. Sounds like fun. If it's just the two of us, there's no need to hold back. Fufufu."
-「ふぅ、それなりに楽しめたわ。それじゃあ、ここでお別れでいいかしら？」="I must say, I kinda enjoyed it. Well then, I guess it's time to part ways."
-CHOICE:「あ、待って！　もう少しだけ、一緒にいられないかな？」="Ah, wait! Can we stay together for a bit longer?"
-CHOICE:「うん、今日はありがとう。本当に楽しかった。またね」="Thanks for today. I really enjoyed it. Good bye."
-「あ、待って！　もう少しだけ、一緒にいられないかな？」="Ah, wait! Can we stay together for a bit longer?"
-「あら、未練がましいわね。でもいいわ、貴方の家に行きましょ。もう少しだけ、遊んであげる」="Hehe, you don't know when to let go. But that's okay. Let's go to your home. I'll spend some more time for you."
-「うん、今日はありがとう。本当に楽しかった。またね」="Thanks for today. I really enjoyed it. Good bye."
-「気が乗ったら、また遊んであげてもいいわ。フフッ、じゃあね」="Let's meet again next time. Fufu, see you then"
+//「たまにはこういう所でゆっくりするのもいいわね。貴方にしては、良い店を選んだじゃない」=
+//「気に入ってくれて良かった。色々調べて、予約しておいたんだ」=
+//「そういう事はいちいち言わないものよ。下僕なりに努力した事くらい、察せない主ではないわ」=
+//「しかし考えたわね。お店の中なら、私は派手に貴方を苛められない。そういう事でしょ？」=
+//「いや、そこまでは考えてなかったんだけど……二人きりになれる所の方が良かったかな？」=
+//「私はどっちでも構わないわ。貴方が苛めて欲しいと言うのなら、場所を変える事をオススメするけど」=
+//「えっと、それは……あー、とりあえずカラオケとかに行こうか！　二人きりで楽しめそうだし！」=
+//「いいんじゃない。そうね、とても楽しめそう。二人きりなら、遠慮はいらないもの。フフフッ」=
+//「ふぅ、それなりに楽しめたわ。それじゃあ、ここでお別れでいいかしら？」=
+//CHOICE:「あ、待って！　もう少しだけ、一緒にいられないかな？」=
+//CHOICE:「うん、今日はありがとう。本当に楽しかった。またね」=
+//「あ、待って！　もう少しだけ、一緒にいられないかな？」=
+//「あら、未練がましいわね。でもいいわ、貴方の家に行きましょ。もう少しだけ、遊んであげる」=
+//「うん、今日はありがとう。本当に楽しかった。またね」=
+//「気が乗ったら、また遊んであげてもいいわ。フフッ、じゃあね」=

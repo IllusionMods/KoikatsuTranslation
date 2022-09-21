@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「なんか、不思議。いつもおしゃべりしてるのに、何でだろう。ドキドキしちゃう」=“It's kinda, strange. Even though we always chat about nothing, I wonder why. Right now, my heart's pounding.”
-「そうだね。俺も同じだよ」=“Yeah. Mine too.”
-「ほんとに？　よかった。あたしだけじゃなかったんだ……」=“Really? Great. It's not just me then...”
+//「なんか、不思議。いつもおしゃべりしてるのに、何でだろう。ドキドキしちゃう」=
+//「そうだね。俺も同じだよ」=
+//「ほんとに？　よかった。あたしだけじゃなかったんだ……」=

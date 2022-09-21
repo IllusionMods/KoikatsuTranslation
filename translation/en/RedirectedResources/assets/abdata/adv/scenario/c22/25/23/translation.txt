@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「あ、あのねっ……これ、授業で作ったお菓子なんだけど……良かったらもらってくれない……かな？」=U-Uhm, listen--... I made these sweets, during home-ec and... won't you... try them?
-「わぁ、すごい丁寧に作ってるね。売り物みたいだ。ありがとう」=Wah, they look lovely. I would gladly pay good money for these at a bakery. Thank you.
-「あ……ど、どういたしまして！　君のこと考えながら作ったから……え、えへへ、美味しいって思ってもらえたらいいな。それじゃっ！」=Ah... y-you're welcome! I made them while thinking of you... E-Ehehe, I hope you like them--! Well then, see ya--!
+//「あ、あのねっ……これ、授業で作ったお菓子なんだけど……良かったらもらってくれない……かな？」=
+//「わぁ、すごい丁寧に作ってるね。売り物みたいだ。ありがとう」=
+//「あ……ど、どういたしまして！　君のこと考えながら作ったから……え、えへへ、美味しいって思ってもらえたらいいな。それじゃっ！」=

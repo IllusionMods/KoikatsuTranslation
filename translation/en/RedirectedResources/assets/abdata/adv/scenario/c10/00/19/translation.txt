@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「ど、同胞よ！　いい朝だな」=“M-My comrade! What a good day it is.”
+//「ど、同胞よ！　いい朝だな」=

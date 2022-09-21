@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「あ、ありがとです！　それじゃ早速……えっと、どうやってするですか……？」=“T-Thank you so much! Well then, let's get to it... erhm, how do you do this...?”
+//「あ、ありがとです！　それじゃ早速……えっと、どうやってするですか……？」=

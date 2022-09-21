@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「っ……！？　見ないで。今すぐ出て行って！」=--...!? Don't look. Get out, right this instant!
+//「っ……！？　見ないで。今すぐ出て行って！」=

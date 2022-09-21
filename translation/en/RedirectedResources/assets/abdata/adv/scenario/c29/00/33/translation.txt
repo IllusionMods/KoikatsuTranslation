@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「恋人からのプレゼントは……どんなものでも嬉しいです」=It's a present from my boyfriend... Doesn't matter what it actually is, I'm happy.
+//「恋人からのプレゼントは……どんなものでも嬉しいです」=

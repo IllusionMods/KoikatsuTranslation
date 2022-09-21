@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「デートぉ！？　デートってあのデートか？　私と？」=A date!? You mean that sort of a 'date'? With me?
-「うん、そのデートだよ……どうかな？」=Yeah, I mean that sort of a date... how about it?
-「……退屈させたら絞めるからな。それでもいいなら、行ってやってもいいぞ」=...I will strangle you if you bore me. If that's still acceptable to you, I don't mind.
+//「デートぉ！？　デートってあのデートか？　私と？」=
+//「うん、そのデートだよ……どうかな？」=
+//「……退屈させたら絞めるからな。それでもいいなら、行ってやってもいいぞ」=

@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「おはよーなのです！　今日も元気なのですよー！」=“Good morning~! I'm feeling super good today too!”
+//「おはよーなのです！　今日も元気なのですよー！」=

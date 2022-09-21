@@ -1,13 +1,13 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-色影(六角)=Colored Shadow (Hexagon)
-色影(三角)=Colored Shadow (Triangle)
-色影(ハート)=Colored Shadow (Heart)
-色影(星)=Colored Shadow (Star)
-色影(月)=Colored Shadow (Moon)
-色影(欠月)=Colored Shadow (Waning Moon)
-色影(雫)=Colored Shadow (Drop)
-色影(十字)=Colored Shadow (Cross)
-色影(縁円)=Colored Shadow (Circle Rim)
-色影(縁四角)=Colored Shadow (Square Rim)
+//色影(六角)=
+//色影(三角)=
+//色影(ハート)=
+//色影(星)=
+//色影(月)=
+//色影(欠月)=
+//色影(雫)=
+//色影(十字)=
+//色影(縁円)=
+//色影(縁四角)=

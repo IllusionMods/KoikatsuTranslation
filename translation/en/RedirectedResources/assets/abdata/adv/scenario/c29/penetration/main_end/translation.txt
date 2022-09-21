@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「たまにはこういったプレイも、悪くないかもしれませんね」=This sort of play might not be all that bad either, every so often.
+//「たまにはこういったプレイも、悪くないかもしれませんね」=

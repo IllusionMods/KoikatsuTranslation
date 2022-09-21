@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「えっ……好きって……あれか？　ライクじゃなくて……ラブ的な……」=“Eh--... do you mean... that sort? Like, not just platonic... romantic...?”
-「そう、ラブの方。愛してる」=“That's right, romantic love. I love you.”
-「あっ、えっ、やっ……だ、大胆だな……自信持てとは……言ってたけどぉ……」=“Ah--, eh--, no--... y-you're very bold... I mean, I did... tell you to be more confident, but~...”
-「うん。きみのおかげで自信がついたよ。だから、付き合って欲しい」=“Yeah. Thanks to you, I finally got some self-confidence. So, I want you to go out with me.”
-「付き合うっていうのは……その……買い物とかお話とかじゃなくて……」=“When you say "go out"... uhm... you don't just mean "go out to do some shopping", or whatever...”
-「男女の関係。恋人になりたいって事」=“Dating. I want to date you.”
-「あぅ……う、うん……いい、よ。えと……こういう時は……よろしくで、いいのかな？」=“Auu... o-okay... su, re. Erhm... what should I say here... take care, of me?”
+//「えっ……好きって……あれか？　ライクじゃなくて……ラブ的な……」=
+//「そう、ラブの方。愛してる」=
+//「あっ、えっ、やっ……だ、大胆だな……自信持てとは……言ってたけどぉ……」=
+//「うん。きみのおかげで自信がついたよ。だから、付き合って欲しい」=
+//「付き合うっていうのは……その……買い物とかお話とかじゃなくて……」=
+//「男女の関係。恋人になりたいって事」=
+//「あぅ……う、うん……いい、よ。えと……こういう時は……よろしくで、いいのかな？」=

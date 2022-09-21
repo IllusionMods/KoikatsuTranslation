@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「もうすっかり夜だね」=It's completely turned dark, hasn't it.
-「ええ、子供は帰る時間ね」=Yep, it's time for kids to go home.
-「俺、[H名]さんと回れて楽しかったよ」=I had a really fun time with you, [H名]-san.
-「ちゃんとドキドキした？　頑張ったのだけど」=Did your heart properly race? I tried my best, you know?
-「うん、そりゃもう。これ以上ないって感じ」=Yeah, that's a given. So much that I felt that it couldn't beat faster.
-「ふふ、高いハードルほど越えたくなるタイプなの。また来ましょうね、遊園地♡」=Fufu, makes me wanna surpass it, like a high hurdle. Let's come again to the amusement park someday, alright? ♡
+//「もうすっかり夜だね」=
+//「ええ、子供は帰る時間ね」=
+//「俺、[H名]さんと回れて楽しかったよ」=
+//「ちゃんとドキドキした？　頑張ったのだけど」=
+//「うん、そりゃもう。これ以上ないって感じ」=
+//「ふふ、高いハードルほど越えたくなるタイプなの。また来ましょうね、遊園地♡」=

@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「とっても良かった……また次が楽しみかもぉ」=“That was amazing... I think I'm looking forward to our next time~”
+//「とっても良かった……また次が楽しみかもぉ」=

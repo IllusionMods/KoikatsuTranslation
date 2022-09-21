@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「勉強は大事ですね。やはり、学生の本分ですから」=“Studying is important, isn't it? It's our job as students, afterall.”
-「あははは……そうだよね、うん……。俺も頑張らなきゃ」=“Ahahaha... indeed, yeah... I gotta do my best too.”
-「早速始めましょう」=“Let's start right away.”
+//「勉強は大事ですね。やはり、学生の本分ですから」=
+//「あははは……そうだよね、うん……。俺も頑張らなきゃ」=
+//「早速始めましょう」=

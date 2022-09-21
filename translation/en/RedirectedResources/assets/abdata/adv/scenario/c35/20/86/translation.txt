@@ -1,13 +1,13 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「コイカツって……恋人同士がやるようなことをするんやろ？」=Love activities... they're supposed to be things that a couple would do together, right?
-「うん、そういうことを一緒に勉強していく部活だもんね」=Yeah, in order to study that sort of thing together.
-「でもそれって……私たちがいつもしてることをそのまますればいいってことやない？　だって私たち……恋人同士なんやし……」=But, in that case... that means that all we need to do is what we usually do, right? After all, we're... a couple and all...
-「そうだね。いつも通りで大丈夫かも」=You've got a point. What we usually get up to should be fine enough.
-「えへへ、やったらさ、この時間も……ある意味デートみたいなものなんやね。君と私……恋人同士の時間……」=Ehehe, then, in that case, this time we have... it's like a date in a way, isn't it? You and me... lovey-dovey time...
-「うん。だからこうやって……手とか握っても平気だよ」=Yeah. So, we can even... hold hands like this and stuff.
-「ひゃっ……あ……ふふっ、学園の中なんにこげんこと出来るとか……幸せな部活なんやね」=Hyah--... ah... fufu--, doing this sort of stuff, even though we're at school... these club activities are so nice.
-「待って……どうせやったら恋人繋ぎしてもいい？　こうやって……しっかり指を絡めるん」=Wait... if we're doing it anyway, wanna do it properly, like lovers? Like this... lock our fingers together and all.
-「あはは、いいね、コイカツっぽい」=Ahaha, this is pretty good, puts the "love" in "love activities"
-「コイカツっていうか……やりたいことやっとるだけなんやけど……でも……ふふっ、楽しいけんいっか。コイカツ、いっぱいする！」=Rather than "love activities"... we're just doing whatever we want to... but... fufu--, it's fun so who cares. I wanna do lots of love activities!
+//「コイカツって……恋人同士がやるようなことをするんやろ？」=
+//「うん、そういうことを一緒に勉強していく部活だもんね」=
+//「でもそれって……私たちがいつもしてることをそのまますればいいってことやない？　だって私たち……恋人同士なんやし……」=
+//「そうだね。いつも通りで大丈夫かも」=
+//「えへへ、やったらさ、この時間も……ある意味デートみたいなものなんやね。君と私……恋人同士の時間……」=
+//「うん。だからこうやって……手とか握っても平気だよ」=
+//「ひゃっ……あ……ふふっ、学園の中なんにこげんこと出来るとか……幸せな部活なんやね」=
+//「待って……どうせやったら恋人繋ぎしてもいい？　こうやって……しっかり指を絡めるん」=
+//「あはは、いいね、コイカツっぽい」=
+//「コイカツっていうか……やりたいことやっとるだけなんやけど……でも……ふふっ、楽しいけんいっか。コイカツ、いっぱいする！」=

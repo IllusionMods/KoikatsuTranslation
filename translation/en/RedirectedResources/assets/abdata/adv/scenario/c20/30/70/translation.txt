@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「今日の範囲、難しくなかったですか？　どこから手をつければよいのか……」=Wasn't today's topic really hard? I don't even know where to start...
-「やっぱりそうだよね。俺だけじゃなくてよかった」=Right? I'm glad it wasn't just me.
-「協力して、今日教わったところを完璧にしましょう」=Let's work hard together, and solidify all that we learned today.
-「うーん、どこから手をつければよいのか……」=Nnn, just where do I start with this...
-「俺も苦戦中だよ」=I've barely got my head above the water here too.
-「協力して、教わったところを完璧にしましょう」=Let's work hard together, and solidify all that we learned.
-「わかった。よし、頑張るぞ」=Got it. Alright, time to do this.
+//「今日の範囲、難しくなかったですか？　どこから手をつければよいのか……」=
+//「やっぱりそうだよね。俺だけじゃなくてよかった」=
+//「協力して、今日教わったところを完璧にしましょう」=
+//「うーん、どこから手をつければよいのか……」=
+//「俺も苦戦中だよ」=
+//「協力して、教わったところを完璧にしましょう」=
+//「わかった。よし、頑張るぞ」=

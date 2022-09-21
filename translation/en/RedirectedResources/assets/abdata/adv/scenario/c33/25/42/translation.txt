@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「……こういことをするのは、男の性なのかしら？」=...Is doing stuff like this just part of what boys are?
+//「……こういことをするのは、男の性なのかしら？」=

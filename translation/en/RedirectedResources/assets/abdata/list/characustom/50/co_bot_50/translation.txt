@@ -1,13 +1,13 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-サスペンダーズボン=Suspender Pants
-ベースボールズボン=Baseball Pants
-ロングフレアスカート=Long Flared Skirt
-バスケットパンツ=Basketball Shorts
-サッカーパンツ=Soccer Shorts
-コンシェルジュスカート=Concierge Skirt
-プリーツスカートC=Pleated Skirt C
-プリーツスカートD=Pleated Skirt D
-クラシカルメイドスカートA=Classical Maid Skirt A
-クラシカルメイドスカートB=Classical Maid Skirt B
+//サスペンダーズボン=
+//ベースボールズボン=
+//ロングフレアスカート=
+//バスケットパンツ=
+//サッカーパンツ=
+//コンシェルジュスカート=
+//プリーツスカートC=
+//プリーツスカートD=
+//クラシカルメイドスカートA=
+//クラシカルメイドスカートB=

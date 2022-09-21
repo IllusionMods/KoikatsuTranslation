@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「おはよう。ごめんね。よく寝とったけん、シャワー使わせてもらったっちゃけど……良かったかいな？」=Morning. Sorry. You were sleeping so well, I took the liberty of borrowing your shower but... should I not have?
-「うん、全然ＯＫだよ。でももう少し早く起きてたら一緒に入れたのか……ちょっと残念だったかも」=Nah, it's perfectly alright. But, I do feel a bit of regret... If only I woke up sooner, we could have took one together.
-「も、もうっ、そんなん恥ずかしいやん……でも……君とやったら……ううん、ダメダメ。恥ずかしさでのぼせそうやもん」=J-Jeez--, that's embarrassing... But... if it's with you... No, stop, I'm not imagining it. I'm gonna go dizzy from embarrassment.
+//「おはよう。ごめんね。よく寝とったけん、シャワー使わせてもらったっちゃけど……良かったかいな？」=
+//「うん、全然ＯＫだよ。でももう少し早く起きてたら一緒に入れたのか……ちょっと残念だったかも」=
+//「も、もうっ、そんなん恥ずかしいやん……でも……君とやったら……ううん、ダメダメ。恥ずかしさでのぼせそうやもん」=

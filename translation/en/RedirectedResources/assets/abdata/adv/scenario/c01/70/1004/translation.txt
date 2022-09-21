@@ -1,17 +1,17 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-モブ=Mob
-「お疲れ様でした。ふふっ、素敵な式でしたよ」=“Good work today. Fufu~ It was a lovely ceremony.”
-「本番の結婚式も、是非、私どもの式場で挙げてくださいね！」=“For your actual wedding as well, please, do call upon us!”
-「はい、そのときは是非……」=“Yes, definitely, when that time comes...”
-「お願いします！　今日はお引き受けいただいて、ありがとうございました」=“Thank you! And for helping us out so much today as well, thank you very much!”
-「素敵なお式でしたね」=“It was a lovely ceremony, wasn't it?”
-「うん……なんかこう、神聖な空気を吸って、生まれ変わった気分」=“Yeah... it felt like, breathing in a holy air, and being born anew.”
-「ふふ、お互いに良い経験になりましたね。でも私は、魔法が解けてしまった童話のお姫様のような気分です」=“Fufu, quite the experience for both of us, wasn't it? But personally, I feel like a princess, from one of those fairy tales, after the magic melts away.”
-「魔法？」=“Magic?”
-「はい。刻限が来て、普通の女の子に戻ってしまいました」=“Yes. The appointed time came, and I turned back into a normal girl.”
-「そんなことない。[H名]はドレスを着てなくても俺のお姫様だよ」=“Not at all. Even without a dress, you're still my very own princess, [H].”
-「ふふ。運命の王子様にずっとそう思ってもらえるように、これからもお姫様な私でいないといけませんね」=“Fufu. I'll have to work hard then, so that I can forever stay a princess, to my very own destined prince.”
-「[H名]にそんなこと言ってもらえるなんて、畏れ多いなぁ。俺はその三倍は頑張らないとだね」=“Having you say that about me, is quite something, you know~? I'm gonna have to put in 3 times that effort.”
-（そうしたら、いつか[H名]と結婚できるのかな？　[H名]と釣り合うような王子様になりたいな……）=(Will I be able to marry her then, if I do that? Man, wouldn't it be nice to be a prince worthy of [H]...)
+//モブ=
+//「お疲れ様でした。ふふっ、素敵な式でしたよ」=
+//「本番の結婚式も、是非、私どもの式場で挙げてくださいね！」=
+//「はい、そのときは是非……」=
+//「お願いします！　今日はお引き受けいただいて、ありがとうございました」=
+//「素敵なお式でしたね」=
+//「うん……なんかこう、神聖な空気を吸って、生まれ変わった気分」=
+//「ふふ、お互いに良い経験になりましたね。でも私は、魔法が解けてしまった童話のお姫様のような気分です」=
+//「魔法？」=
+//「はい。刻限が来て、普通の女の子に戻ってしまいました」=
+//「そんなことない。[H名]はドレスを着てなくても俺のお姫様だよ」=
+//「ふふ。運命の王子様にずっとそう思ってもらえるように、これからもお姫様な私でいないといけませんね」=
+//「[H名]にそんなこと言ってもらえるなんて、畏れ多いなぁ。俺はその三倍は頑張らないとだね」=
+//（そうしたら、いつか[H名]と結婚できるのかな？　[H名]と釣り合うような王子様になりたいな……）=

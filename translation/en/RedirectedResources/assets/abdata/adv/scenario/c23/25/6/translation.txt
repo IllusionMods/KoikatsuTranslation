@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「え、えぇと、これはどこへ行くのかな？」=“E-Eerhm, where are we going?”
-「まだ秘密だよ」=“That's a secret for now.”
-「あはは、は……何かがあるってことだね、期待してるよ」=“Ahaha, hah... there must be something to it then, huh? I'm excited.”
+//「え、えぇと、これはどこへ行くのかな？」=
+//「まだ秘密だよ」=
+//「あはは、は……何かがあるってことだね、期待してるよ」=

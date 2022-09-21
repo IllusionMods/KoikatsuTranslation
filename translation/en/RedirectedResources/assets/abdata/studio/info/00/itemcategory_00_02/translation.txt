@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-ベッド=Beds
-机=Desks
-椅子=Chairs
-棚=Shelves
-仕切り=Dividers
-水周り=Bathroom
+//ベッド=
+//机=
+//椅子=
+//棚=
+//仕切り=
+//水周り=

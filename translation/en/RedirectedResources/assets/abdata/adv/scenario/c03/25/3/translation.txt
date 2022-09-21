@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「あ……は、はいです……えへへ……男子と一緒に帰るなんて……ドッキドキなのです……」=“Ah... y-yes... ehehe... walking home together with a boy... my heart's pounding...”
-「確かに、結構緊張するよね」=“Yeah, I guess it'd make you pretty nervous, wouldn't it?”
-「はいです……だけど初めての経験だから、ちょっぴり……ううん、いっぱい楽しみなのです！」=“Yes... but it's a whole new experience for me so, I'm a bit... no, I'm super excited too!”
-「あなたと一緒に帰る前の私と、一緒に帰った後の私……なにか劇的に変わっちゃってるよーな気がするですよ」=“The me from before I've walked home with you, and the me after I've walked home with you... I feel like there's going to be a really dramatic difference between them.”
-「あはは、ちょっと大げさだよ」=“Ahaha, you're bit a bit too dramatic about it.”
-「いえいえ、私にとっては一大事なのですよー！」=“Not at all, it's really important to me!”
+//「あ……は、はいです……えへへ……男子と一緒に帰るなんて……ドッキドキなのです……」=
+//「確かに、結構緊張するよね」=
+//「はいです……だけど初めての経験だから、ちょっぴり……ううん、いっぱい楽しみなのです！」=
+//「あなたと一緒に帰る前の私と、一緒に帰った後の私……なにか劇的に変わっちゃってるよーな気がするですよ」=
+//「あはは、ちょっと大げさだよ」=
+//「いえいえ、私にとっては一大事なのですよー！」=

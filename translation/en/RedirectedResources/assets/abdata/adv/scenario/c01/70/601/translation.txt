@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「こちらは……？」=“This place is...?”
-「ラブホテルって言って……そのー、正直に言うと、エッチするために借りる部屋なんだ」=“It's called a "love hotel"... it's, uh, if I'm being honest, a place where you can rent out a room for the express purpose of having sex.”
-「まあ……それならそうと、仰っていただければ……私、ぼーっとついてきてしまいました。ごめんなさい」=“My... in that case, if you had just told me... I followed you all the way here with nary a thought. I'm sorry.”
-「な、なんで[H名]が謝るの？」=“W-Why're you the one apologizing?”
-「当然です。こんな部屋までエスコートしてもらったのに、あなたの気持ちを察することが遅れてしまって……」=“Because I should. You took me all the way here, to such a nice place, but I took so long to understand how you felt...”
-「……私でよろしければ、愛してください……」=“...If I'll do, then please make love to me...”
-「いきなり連れてきたのに、そんな嬉しいこと言われたら、もう我慢できないよ……」=“I dragged you all the way here, and yet you're saying such words to me, how am I supposed to hold back...”
+//「こちらは……？」=
+//「ラブホテルって言って……そのー、正直に言うと、エッチするために借りる部屋なんだ」=
+//「まあ……それならそうと、仰っていただければ……私、ぼーっとついてきてしまいました。ごめんなさい」=
+//「な、なんで[H名]が謝るの？」=
+//「当然です。こんな部屋までエスコートしてもらったのに、あなたの気持ちを察することが遅れてしまって……」=
+//「……私でよろしければ、愛してください……」=
+//「いきなり連れてきたのに、そんな嬉しいこと言われたら、もう我慢できないよ……」=

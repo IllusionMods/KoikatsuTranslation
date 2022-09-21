@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「短距離走ですか。５０メートルくらいならなんとかなりそうです」=A sprint, huh? I think I could just about manage a 50 meter one.
-「よし。じゃあ俺が先に走ってみるね」=Alright. Well then, I'll go first.
-「ではタイム測定は私が。良い結果を期待してますよ、ふふっ」=I'll keep time then. I'm expecting good things from you, fufu--
+//「短距離走ですか。５０メートルくらいならなんとかなりそうです」=
+//「よし。じゃあ俺が先に走ってみるね」=
+//「ではタイム測定は私が。良い結果を期待してますよ、ふふっ」=

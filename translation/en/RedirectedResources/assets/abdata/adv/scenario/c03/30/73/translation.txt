@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-………………=.........
-…………=......
-……=...
-「いっぱいドキドキしたですけど……結局はきちんとお勉強出来たです。あなたのおかげなのですよ」=“My heart pounded a lot but... I managed to finish it all in the end. It's all thanks to you.”
-「つ、次もまた……一緒にっ……あのっ……色々なことをっ……進めていきたいですーっ！」=“I-I'd love to... get a lot more--... done--... in many ways--... next time--!”
+//………………=
+//…………=
+//……=
+//「いっぱいドキドキしたですけど……結局はきちんとお勉強出来たです。あなたのおかげなのですよ」=
+//「つ、次もまた……一緒にっ……あのっ……色々なことをっ……進めていきたいですーっ！」=

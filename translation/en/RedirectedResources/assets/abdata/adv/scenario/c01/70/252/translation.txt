@@ -1,19 +1,19 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「混んできましたね」=“It's started getting rather packed, hasn't it?”
-「大丈夫？　もっとこっちに来ていいよ」=“You alright? You can scooch closer to me.”
-「うわっ……」=“Uwah--...”
-（っ……こんなに[H名]と密着しちゃったら、今日一日抑えてた性欲が一気に……）=(--... if we stay glued to each other like this, the horniness I've been holding down all day is going to come rushing out...)
-CHOICE:『欲望に身を任せる』=Give in to your desires.
-CHOICE:『必死に抑える』=Hold it in desperately.
-（っあ……どんどん大きくなってしまう……）=(--Ah... I'm getting bigger and bigger down there...)
-「え……ええ……？　あの、この、私をぐいぐい押してくる感触は……」=“Eh... Eh...? Uhm, this, thing that's digging into me is...”
-「……はい、正解です……」=“...Yes, you've got it right...”
-「ど、どうしましょう」=“W-What shall we do?”
-「我慢できないかも」=“I might not be able to hold it in.”
-「ええっ？　そんな、こんなところで……」=“Eeh--? Don't say that, we're on...”
-「ごめん、絶対にバレないようにするから……」=“Sorry, I'll make sure we don't get caught so...”
-（っ……！　さ、流石にここで勃たせるのは……！）=(--...! P-Popping a chub here really wouldn't be the most gentlemanly thing...!)
-（[H名]の信頼を裏切らないためにも、ここは絶対我慢しないと！）=(I can't betray all the trust she's put in me, I gotta hold it in!)
-（と、とりあえず別のこと考えて気を紛らわせておこう……）=(F-For now, let's try to distract myself with something else...)
+//「混んできましたね」=
+//「大丈夫？　もっとこっちに来ていいよ」=
+//「うわっ……」=
+//（っ……こんなに[H名]と密着しちゃったら、今日一日抑えてた性欲が一気に……）=
+//CHOICE:『欲望に身を任せる』=
+//CHOICE:『必死に抑える』=
+//（っあ……どんどん大きくなってしまう……）=
+//「え……ええ……？　あの、この、私をぐいぐい押してくる感触は……」=
+//「……はい、正解です……」=
+//「ど、どうしましょう」=
+//「我慢できないかも」=
+//「ええっ？　そんな、こんなところで……」=
+//「ごめん、絶対にバレないようにするから……」=
+//（っ……！　さ、流石にここで勃たせるのは……！）=
+//（[H名]の信頼を裏切らないためにも、ここは絶対我慢しないと！）=
+//（と、とりあえず別のこと考えて気を紛らわせておこう……）=

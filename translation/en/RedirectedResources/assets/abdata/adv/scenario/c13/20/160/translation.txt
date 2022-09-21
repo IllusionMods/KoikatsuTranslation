@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「[H名]、大丈夫？　火照って顔が真っ赤だよ」=You alright, [H名]? Your face is all red and burning up.
-「だって、あんなところでシたんだから……こうなるのは当たり前じゃん」=I can't help it, we did it in that sort of a place... it'd be weirder to not get like this.
-「でも、俺的には逆に興奮しちゃったかな。ふふ、ちなみに[H名]はどうだった？」=But, I actually personally got more excited than when I do it normally. Fufu, incidentally, how was it for you?
-「うぅぅ……分かってる癖に。[P名]くんのイジワル！」=Uuu... even though you already know the answer. You're such a meanie, [P名]-kun!
-「ははは……ごめんごめん。さっ、帰ろうか」=Hahaha... sorry, sorry. Well then, let's go home, shall we?
+//「[H名]、大丈夫？　火照って顔が真っ赤だよ」=
+//「だって、あんなところでシたんだから……こうなるのは当たり前じゃん」=
+//「でも、俺的には逆に興奮しちゃったかな。ふふ、ちなみに[H名]はどうだった？」=
+//「うぅぅ……分かってる癖に。[P名]くんのイジワル！」=
+//「ははは……ごめんごめん。さっ、帰ろうか」=

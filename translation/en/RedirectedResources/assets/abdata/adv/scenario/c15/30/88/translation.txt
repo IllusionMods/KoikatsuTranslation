@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-………………=.........
-…………=......
-……=...
-「ふー、お疲れだぞー。次はもーっと深いこと研究したいなー、へへー」=Fuu, good work~. I wanna try researching even deeper stuff next time, hehe~
+//………………=
+//…………=
+//……=
+//「ふー、お疲れだぞー。次はもーっと深いこと研究したいなー、へへー」=

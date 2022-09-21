@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「はぁはぁ、な、なにこれ……身体が痺れて……」=“Haah, haah, w-what is this... my body's gone numb...”
+//「はぁはぁ、な、なにこれ……身体が痺れて……」=

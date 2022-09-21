@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「ここが、汝の居城か……なかなか小綺麗にしておるではないか」=“So this is, thine castle... it is quite neat and tidy, if I do say so myself.”
-「ふぅ……はてさて、どうしたものか。我の心臓がかなり踊っておるぞ」=“Fuuh... now then, what shalt we do about this? My heart is dancing quite a bit.”
-「汝はしたくてたまらなかったのか？　実は我も……」=“Havest thou been dying to do it with me? What fortuity...”
+//「ここが、汝の居城か……なかなか小綺麗にしておるではないか」=
+//「ふぅ……はてさて、どうしたものか。我の心臓がかなり踊っておるぞ」=
+//「汝はしたくてたまらなかったのか？　実は我も……」=

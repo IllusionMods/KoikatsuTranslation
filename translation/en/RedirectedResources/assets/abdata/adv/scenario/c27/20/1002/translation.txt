@@ -1,19 +1,19 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「うーん、慣れない恰好してるから落ち着かない……」=“Mmm, I've really never worn a suit like this before, can't calm down...”
-（……[H名]も同じ何だろうな。なんたって、ウェディングドレスだし）=(...I wonder if [H名]'s in the same boat, right now? It's a wedding dress, afterall.)
-（どんな感じになってるんだろう。似合ってるだろうけど、いまいち想像つかないや）=(I wonder what she looks like right now. She'd probably rock it but, I can't exactly think of an image.)
-（いよいよ出番か……）=(Showtime, huh...)
-（おぉ、立派な式場だ……）=(Ooh, what an elegant hall...)
-（……[H名]の新郎役として恥ずかしくないよう、堂々としなきゃな！）=(...Gotta put on a good show, afterall, I'm here playing as [H名]'s groom afterall!)
-（き、緊張したぁ……ただ歩くだけで、こんなに緊張するなんて……うぅ、もっと気を引き締めないと！）=(I-I was so tense... to think just walking would make me so nervous... uuu, I gotta pull myself together!)
-モブ=Mob
-「これより新婦が入場致します。後方の扉口をご覧ください」=“And now, the bride will make her entrance. Please pay attention to the main door.”
-（[H名]……）=([H名]...)
-扉の向こうから純白のドレスに身を包んだ[H名]が、控えめにゆっくりと進みでてくる。=[H名], clad in a pure white dress, was gracefully making her way here, from beyond the door.
-歩みを止めてぎゅっと目を瞑り、浅い呼吸を何度か繰り返す。=Catching her breath, she stopped, and with her eyes tightly shut, started taking quick, shallow breaths.
-そんな彼女の緊張した仕草の一つ一つが、なんだかとても愛おしく思えてくる。=I couldn't help but think of every single nervous tick she was putting on full display, as just simply lovely.
-「うん……きれいだ」=“Yeah... you've lovely.”
-「すごく、似合ってるよ。思わず見惚れちゃってた」=“You look, just wonderful. I couldn't help but lose myself in you.”
-「あぅ……あ、ありがと……」=“Auu... t-thanks...”
+//「うーん、慣れない恰好してるから落ち着かない……」=
+//（……[H名]も同じ何だろうな。なんたって、ウェディングドレスだし）=
+//（どんな感じになってるんだろう。似合ってるだろうけど、いまいち想像つかないや）=
+//（いよいよ出番か……）=
+//（おぉ、立派な式場だ……）=
+//（……[H名]の新郎役として恥ずかしくないよう、堂々としなきゃな！）=
+//（き、緊張したぁ……ただ歩くだけで、こんなに緊張するなんて……うぅ、もっと気を引き締めないと！）=
+//モブ=
+//「これより新婦が入場致します。後方の扉口をご覧ください」=
+//（[H名]……）=
+//扉の向こうから純白のドレスに身を包んだ[H名]が、控えめにゆっくりと進みでてくる。=
+//歩みを止めてぎゅっと目を瞑り、浅い呼吸を何度か繰り返す。=
+//そんな彼女の緊張した仕草の一つ一つが、なんだかとても愛おしく思えてくる。=
+//「うん……きれいだ」=
+//「すごく、似合ってるよ。思わず見惚れちゃってた」=
+//「あぅ……あ、ありがと……」=

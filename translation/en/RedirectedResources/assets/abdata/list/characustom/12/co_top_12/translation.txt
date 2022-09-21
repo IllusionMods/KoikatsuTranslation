@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-フリルワンピース=Frilly One-Piece Dress
-ワンピース（花柄）=One-Piece Dress (Flower Pattern)
-ワンピース（無地）=One-Piece Dress (Plain)
+//フリルワンピース=
+//ワンピース（花柄）=
+//ワンピース（無地）=

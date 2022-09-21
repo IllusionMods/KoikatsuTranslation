@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「それじゃ、早速部活動を始めましょ。よいしょっと……」=Well then, let's get this show on the road. Upsy-daisy...
-「待って、なんで突然服を脱ごうとしてるの！？」=Wait, why are you taking off your clothes all of a sudden!?
-「恋人っぽいことをするのがコイカツ部なんでしょ？　だったらやることはひとつじゃない」=The Koikatsu club is all about doing lovey-dovey couple stuff, no? In that case, there's only one thing to do, no?
-「いや、その、それはさすがにいきなりすぎるっていうか、物事には順序ってものが……」=No, well, that really would be way too sudden or rather, there's an order to these things...
-「ふふっ、冗談よ。ちょっと試させてもらっただけ。君が紳士な男の子で安心したわ」=Fufu--, I'm just joking. I was just testing you. I'm glad that you're a gentleman.
-「……もちろん、そのまま流されちゃってても良かったんだけど♪」=...Of course, I wouldn't have minded if you went with the flow there too, you know♪
+//「それじゃ、早速部活動を始めましょ。よいしょっと……」=
+//「待って、なんで突然服を脱ごうとしてるの！？」=
+//「恋人っぽいことをするのがコイカツ部なんでしょ？　だったらやることはひとつじゃない」=
+//「いや、その、それはさすがにいきなりすぎるっていうか、物事には順序ってものが……」=
+//「ふふっ、冗談よ。ちょっと試させてもらっただけ。君が紳士な男の子で安心したわ」=
+//「……もちろん、そのまま流されちゃってても良かったんだけど♪」=

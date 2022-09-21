@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「私も、いいわ。……ちゃんと、二人とも気持ちよくさせてよ？」=“I'm fine, with it too. ...Make us both feel good, okay?”
+//「私も、いいわ。……ちゃんと、二人とも気持ちよくさせてよ？」=

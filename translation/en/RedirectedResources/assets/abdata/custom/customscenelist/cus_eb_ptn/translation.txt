@@ -1,19 +1,19 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-怒り=Angry
-困り=Worried
-つまらない=Bored
-疑問L=Doubt L
-疑問R=Doubt R
-思案L=Thinking L
-思案R=Thinking R
-怒り2L=Furious L
-怒り2R=Furious R
-真剣=Serious
-不安=Anxious
-驚き=Surprised
-落胆=Disappointed
-ドヤ=Smug
-ウィンクL=Winking L
-ウィンクR=Winking R
+//怒り=
+//困り=
+//つまらない=
+//疑問L=
+//疑問R=
+//思案L=
+//思案R=
+//怒り2L=
+//怒り2R=
+//真剣=
+//不安=
+//驚き=
+//落胆=
+//ドヤ=
+//ウィンクL=
+//ウィンクR=

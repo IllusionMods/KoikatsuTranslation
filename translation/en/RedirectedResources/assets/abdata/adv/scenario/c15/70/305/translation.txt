@@ -1,22 +1,22 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「なー、そう言えば……」=“Hey, reminds me...”
-「ん？　どうかしたの？」=“Hm? Something up?”
-「……い、いや、やっぱりなんでもないぞー」=“...N-No, nevermind, it's nothing afterall.”
-「えー、気になるよ～。言いたいことがあるなら、なんでも言ってほしいな」=“Eh, now I'm curious~. If there's something you wanna say, don't hold it in and lemme hear it.”
-「言いたいことってわけじゃないんだけど、その、なー……」=“It's not something I exactly wanna say but, uhm, hey...”
-「か、カラオケでエッチをしたって話を又聞きで聞いたこと、思い出しちゃって……」=“I-I just remembered how I heard once, about someone talking about how they had sex at a karaoke box once...”
-「あー……まぁ、カラオケでそういうことをする人もいるよね」=“Ah... well, there's people out there that do that sort of stuff, yeah.”
-「それで、それを俺に言ったってことは、[H名]もやっぱりそういうのに興味あるの？」=“So, the reason you brought that up right now, is it that you're interested in that sort of thing too?”
-「ち、違うぞ！　大体、あたしはキミが言えっていうから言っただけで……」=“T-That's not it! To begin with, I only said it because you told me to...”
-「ふーん、そうなんだ」=“Hmm, I see.”
-「でも、俺は[H名]の話を聞いたせいで、そういう気分になっちゃったな」=“But, hearing you say that has put me in the mood now.”
-「なっ……本気なのかー？」=“Wha--... are you serious?”
-「もちろん。冗談でそんなこと言わないよ」=“Of course. I would never say that sort of thing as a joke.”
-「その顔は……本気みたいだな」=“That expression... looks like you really are serious.”
-「こ、ここでかー？　……でも、カラオケでなんて、恥ずかしいぞー」=“H-Here? ...But, doing it in a karaoke box, it's embarrassing.”
-「もちろん、[H名]が嫌ならやめるよ。でも、できれば俺、本気で[H名]としたいな」=“Of course, if you don't wanna do it then I'll drop it. But, if we can, I really would love to do it with you.”
-「そ、そんな真剣な目で見られても困るぞ」=“D-Don't look at me with such serious eyes.”
-「……でも、そうかー。キミはあたしのことを、そこまで本気で思っててくれてるんだなー」=“...But, I see. That's how serious you are about our relationship, and me, huh?”
-「わかった。優しくしてくれるなら……エッチ、してもいいぞ」=“I got it. If you promise to be gentle then... I don't mind, having sex.”
+//「なー、そう言えば……」=
+//「ん？　どうかしたの？」=
+//「……い、いや、やっぱりなんでもないぞー」=
+//「えー、気になるよ～。言いたいことがあるなら、なんでも言ってほしいな」=
+//「言いたいことってわけじゃないんだけど、その、なー……」=
+//「か、カラオケでエッチをしたって話を又聞きで聞いたこと、思い出しちゃって……」=
+//「あー……まぁ、カラオケでそういうことをする人もいるよね」=
+//「それで、それを俺に言ったってことは、[H名]もやっぱりそういうのに興味あるの？」=
+//「ち、違うぞ！　大体、あたしはキミが言えっていうから言っただけで……」=
+//「ふーん、そうなんだ」=
+//「でも、俺は[H名]の話を聞いたせいで、そういう気分になっちゃったな」=
+//「なっ……本気なのかー？」=
+//「もちろん。冗談でそんなこと言わないよ」=
+//「その顔は……本気みたいだな」=
+//「こ、ここでかー？　……でも、カラオケでなんて、恥ずかしいぞー」=
+//「もちろん、[H名]が嫌ならやめるよ。でも、できれば俺、本気で[H名]としたいな」=
+//「そ、そんな真剣な目で見られても困るぞ」=
+//「……でも、そうかー。キミはあたしのことを、そこまで本気で思っててくれてるんだなー」=
+//「わかった。優しくしてくれるなら……エッチ、してもいいぞ」=

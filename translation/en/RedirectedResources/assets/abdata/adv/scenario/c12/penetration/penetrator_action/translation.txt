@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「ご、ごめん……あたしもその、混ぜてもらっていいかな？　邪魔にはならないようにするからさ……」=“S-Sorry... do you mind if I, join in as well? I'll do my best to not just be in the way...”
+//「ご、ごめん……あたしもその、混ぜてもらっていいかな？　邪魔にはならないようにするからさ……」=

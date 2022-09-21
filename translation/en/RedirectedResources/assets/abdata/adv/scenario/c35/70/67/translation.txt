@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「わぁ、色んな人から見られとる……やっぱりカップルって分かるとかいな？」=Waah, so many people are looking at us... Can they tell we're a couple?
-「あはは、多分ね。二人きりで帰ってるし……」=Ahaha, probably. We're walking home together alone like this and all...
-「そうよね。えへへ、君と付き合うまでは、そういうのって恥ずかしいかなって思っとったけど……今は逆に嬉しいん。もっともっと見て欲しいって思うっちゃん」=That's true. Ehehe, before we started going out, that sort of thing would have sounded really embarrassing to me but... Now, it actually makes me really happy. Like, I want them to look at us even more.
-「仲が良さそうなところ？」=Look at us being close?
-「うんっ、ラブラブなところ！　こうやってぺったりくっついたり……ぴとっ！」=Yeah--, look at us being lovey-dovey! Clinging to you, sticking to you like this... there--!
-「わわっ！　もう……それじゃ手も繋ごっか？」=Wawah--! Jeez... well, wanna hold hands too then?
-「うん、繋ぐん！　ふふーっ、彼氏と寄り添って帰れるとか、幸せー。もっともっと見て欲しくなるん！」=Yeah, I do! Fufu--, cuddling with my boyfriend on the way home and stuff, it's pure happiness. Makes me wanna have them look at us even more!
+//「わぁ、色んな人から見られとる……やっぱりカップルって分かるとかいな？」=
+//「あはは、多分ね。二人きりで帰ってるし……」=
+//「そうよね。えへへ、君と付き合うまでは、そういうのって恥ずかしいかなって思っとったけど……今は逆に嬉しいん。もっともっと見て欲しいって思うっちゃん」=
+//「仲が良さそうなところ？」=
+//「うんっ、ラブラブなところ！　こうやってぺったりくっついたり……ぴとっ！」=
+//「わわっ！　もう……それじゃ手も繋ごっか？」=
+//「うん、繋ぐん！　ふふーっ、彼氏と寄り添って帰れるとか、幸せー。もっともっと見て欲しくなるん！」=

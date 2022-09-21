@@ -1,12 +1,12 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「ふふっ、今日もお天気。ね、こうやって二人でご飯食べてると……なんだかピクニックしてるみたいな気分にならない？」=Fufu~, the weather is great today as well. Hey, eating our food together like this... Doesn't it feel like we're on a picnic?
-「分かる分かる。このまま昼寝したくなっちゃうよね」=I know right? It's making me wanna take a nap right here.
-「ダメよ、午後もちゃんと授業に出ないと」=That's no good, you have to attend the noon classes as well.
-「ダメよ」=It's not good.
-「うぅ……彼女が厳しい……」=Ugh... My girlfriend is so harsh...
-「ふふっ、そうよ。いつもは私の方がしっかりしてなくちゃいけないんだから。そうじゃないとキミ、楽な方に甘えちゃうでしょ」=Fufu~ That's right. You have to always properly do what your girlfriend says, otherwise you'll turn into a lazy bum.
-「的確過ぎて反論の余地もない……でも『いつもは』ってことは、逆に俺がしっかりしなきゃいけない時もあるってこと？」=I have no rebuttal to that... But, "always", huh? Will you stay with me, even if the time comes when I turn into a bum?
-「そ、それはもちろんっ……あるわよ。ほらっ……私だって女子なんだからっ……リードして欲しい時だって……」=Tha-That's a matter of course! I mean, even though I am a girl... there are times I wanna lead as well...
-「……って、お昼に屋上で何てこと言わせるのよ。ほーらー、にやにやしてないで、早くご飯食べるわよ、もー」=...For that matter, what are you even bringing up during lunchtime? Come on, stop grinning to yourself and finish up your food already, Jeez~
+//「ふふっ、今日もお天気。ね、こうやって二人でご飯食べてると……なんだかピクニックしてるみたいな気分にならない？」=
+//「分かる分かる。このまま昼寝したくなっちゃうよね」=
+//「ダメよ、午後もちゃんと授業に出ないと」=
+//「ダメよ」=
+//「うぅ……彼女が厳しい……」=
+//「ふふっ、そうよ。いつもは私の方がしっかりしてなくちゃいけないんだから。そうじゃないとキミ、楽な方に甘えちゃうでしょ」=
+//「的確過ぎて反論の余地もない……でも『いつもは』ってことは、逆に俺がしっかりしなきゃいけない時もあるってこと？」=
+//「そ、それはもちろんっ……あるわよ。ほらっ……私だって女子なんだからっ……リードして欲しい時だって……」=
+//「……って、お昼に屋上で何てこと言わせるのよ。ほーらー、にやにやしてないで、早くご飯食べるわよ、もー」=

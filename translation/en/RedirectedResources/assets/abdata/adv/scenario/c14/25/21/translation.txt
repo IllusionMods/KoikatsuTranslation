@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「よっ、[P]。おはよう」=Yo--, [P]. Morning.
-「おはよう！　朝から機嫌がいいね！」=Good morning! You're sure in a good mood today!
-「まぁな、なんだ。朝一番にお前と会えたからな」=Well, you know. I got to see you first thing in the morning, afterall.
+//「よっ、[P]。おはよう」=
+//「おはよう！　朝から機嫌がいいね！」=
+//「まぁな、なんだ。朝一番にお前と会えたからな」=

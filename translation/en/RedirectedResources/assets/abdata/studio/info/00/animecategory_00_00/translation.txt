@@ -1,18 +1,18 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-基本=Basic
-ポーズ=Pose
-感情=Emotions
-歩く・走る=Walking & Running
-立ち=Standing
-会話=Conversation
-椅子=Chairs
-椅子・机=Sitting At Desk
-床=Sitting On Floor
-食べる=Eating
-アクション=Action
-リアクション=Reaction
-寝=Laying
-ライブ=Live Concert
-男=Male
+//基本=
+//ポーズ=
+//感情=
+//歩く・走る=
+//立ち=
+//会話=
+//椅子=
+//椅子・机=
+//床=
+//食べる=
+//アクション=
+//リアクション=
+//寝=
+//ライブ=
+//男=

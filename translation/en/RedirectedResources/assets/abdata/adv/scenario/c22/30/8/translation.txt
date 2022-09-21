@@ -1,11 +1,11 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「ええぇっ！？　い、いきなりそんなことっ……」=Eeeeeh--!? E-Even if you say that, that's a bit too sudd--...
-「いきなりでごめん！　でも俺……どうしても、きみとそういうことしたくて……ダメかな？」=I know it's sudden! But, I... really want to, do it with you... no good?
-「う、うぅぅ……ダメじゃない……けど……私達、付き合ってるわけじゃないし……」=U-Uuuu... I didn't say that... but... we're not, going out or anything and...
-「でもでもっ……君とだったら……その……し、したいなって気持ちもあるし……はぅ……」=But, but-... with you... uhm... I-I want to do it too... hauuu...
-「えーっと……い、嫌だったらはっきり断ってくれていいから……」=Eerhm... I-If you really don't want to, you can just say no, I won't hold it against you...
-「い、嫌じゃないよっ、嬉しいのっ！　嬉しいけど……ちょっぴり怖くて……あの……や、優しくして……くれますか？」=T-That's not it, I'm really happy--! I'm happy but... I'm just a bit scared... uhm... w-will you be... gentle?
-「もちろん。出来るだけ頑張ります！」=Of course. I'll be as gentle as I can!
-「はぅ……だ、だったら……お願いします……私、上手に出来ないかもしれないけど……よろしくね！」=Hauu... i-in that case... please... I might not, be able to do it properly... but please take care of me!
+//「ええぇっ！？　い、いきなりそんなことっ……」=
+//「いきなりでごめん！　でも俺……どうしても、きみとそういうことしたくて……ダメかな？」=
+//「う、うぅぅ……ダメじゃない……けど……私達、付き合ってるわけじゃないし……」=
+//「でもでもっ……君とだったら……その……し、したいなって気持ちもあるし……はぅ……」=
+//「えーっと……い、嫌だったらはっきり断ってくれていいから……」=
+//「い、嫌じゃないよっ、嬉しいのっ！　嬉しいけど……ちょっぴり怖くて……あの……や、優しくして……くれますか？」=
+//「もちろん。出来るだけ頑張ります！」=
+//「はぅ……だ、だったら……お願いします……私、上手に出来ないかもしれないけど……よろしくね！」=

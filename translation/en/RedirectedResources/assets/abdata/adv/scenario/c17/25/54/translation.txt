@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「恥ずかしかったけれど、すごく気持ちよかったわ。私たち変態ね」=“It was really embarrassing, but it felt really good. We're perverted aren't we.”
+//「恥ずかしかったけれど、すごく気持ちよかったわ。私たち変態ね」=

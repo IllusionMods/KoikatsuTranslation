@@ -1,20 +1,20 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「そういえば喫茶店の漫画とかもあったよね？」=“Reminds me, there was that manga about cafes and whatnot, right?”
-「知ってるのかい！？」=“You know of it!?”
-「うん、俺が知ってるのはアニメ化したやつだけだけど」=“Yeah, well, I know of the anime adaption.”
-「それは最近してた、あれだね！　そうか、あなたも見てたんだね」=“That recently released one, right?! I see, so you watched it too, huh?”
-「うん、すごく面白かったよ」=“Yeah, it was really interesting.”
-「あなたは誰押しだったのかな？　あ、好きなキャラのことですぞ」=“Who did you stan for? Ah, I mean which character did you like the most?”
-「あのぶりっ子かなー。いい性格してて、おもしろかったから」=“I guess that cutesy girl. She had a nice personality, and was pretty interesting.”
-「ナイスチョイスですなぁ」=“Nice choice.”
-「では、そんなあなたのために、そのぶりっ子の真似をしてあげましょうぞ」=“Well then, just for you, I'll put on a cutesy act just like her.”
-「えっ……あ、ありがとう」=“Eh--... t-thanks.”
-「ねえ、注文した料理まだかなー？」=“Hey, is our order still not here~?”
-「いや……さっき、注文したばっかりだから、まだじゃないかな？」=“No... We just placed the order, I think it's gonna take some time.”
-「えー、そんな～……私、お腹ペコりんこで死んじゃうよ（悲）」=“Eeh~, no way~... I'm so hungry I'mma die~”
-「あー……うん……」=“Ah~... yeah...”
-「……モノマネ、結構似てるんだけど、なんか落ち着かないかも」=“...It does resemble her pretty good but, it's kinda putting me off.”
-「俺はいつもの[H名]と話したいから、口調を戻してくれる？」=“I'd much rather talk to the normal you, [H], so could you go back to being the real you?”
-「う、うん……戻すよ。自分でやってて、恥ずかしかったし……」=“O-Okay... I will. It was pretty embarrassing, to do that on the spot too...”
+//「そういえば喫茶店の漫画とかもあったよね？」=
+//「知ってるのかい！？」=
+//「うん、俺が知ってるのはアニメ化したやつだけだけど」=
+//「それは最近してた、あれだね！　そうか、あなたも見てたんだね」=
+//「うん、すごく面白かったよ」=
+//「あなたは誰押しだったのかな？　あ、好きなキャラのことですぞ」=
+//「あのぶりっ子かなー。いい性格してて、おもしろかったから」=
+//「ナイスチョイスですなぁ」=
+//「では、そんなあなたのために、そのぶりっ子の真似をしてあげましょうぞ」=
+//「えっ……あ、ありがとう」=
+//「ねえ、注文した料理まだかなー？」=
+//「いや……さっき、注文したばっかりだから、まだじゃないかな？」=
+//「えー、そんな～……私、お腹ペコりんこで死んじゃうよ（悲）」=
+//「あー……うん……」=
+//「……モノマネ、結構似てるんだけど、なんか落ち着かないかも」=
+//「俺はいつもの[H名]と話したいから、口調を戻してくれる？」=
+//「う、うん……戻すよ。自分でやってて、恥ずかしかったし……」=

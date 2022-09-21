@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「２人も相手するなんて、おまえもなかなかだな」=You're quite something too, keeping two girls company at once.
+//「２人も相手するなんて、おまえもなかなかだな」=

@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「あ……嬉しいです♡　今、もらえるんですか？　うふふ♡」=Ah... I'm really happy♡ Can I have it right now? Ufufu♡
+//「あ……嬉しいです♡　今、もらえるんですか？　うふふ♡」=

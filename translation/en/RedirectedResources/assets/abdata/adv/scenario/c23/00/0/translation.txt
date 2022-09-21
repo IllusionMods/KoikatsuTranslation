@@ -1,11 +1,11 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「あのー、今いいかな。出来れば君と話したいんだけど」=“Uhm, is now a good time? I'd like to chat with you a bit, if we could.”
-「えぇ、大丈夫だよ。貴殿……あなたが例の男子？」=“Yes, it's fine. You are... that boy?”
-「俺は[P名前]って言うんだ。多分、その例のやつだよ」=“I go by [P名前]. Yeah, I'm probably the guy you're thinking of.”
-「なるほど、やはりゲームやアニメの男子とはリアルの男子ちがうなぁ……」=“I see, I guess a real boy, in flesh and blood, would be pretty different from anime and games...”
-「そ、そうかな？」=“Y-You think so?”
-（まじまじと見られてる）=(She's measuring me from head to toe.)
-「……ハッ！　ごめんなさい。好きなキャラに似てるなと思って！　で、話というのは？」=“...Hah! I'm sorry. You just looked similar to a character I love, so you know! So then, you mentioned a chat?”
-（ゲームやアニメが好きな子なのかな。どんな話をしよう……？）=(I guess she loves games or anime and stuff. What should we chat about...?)
+//「あのー、今いいかな。出来れば君と話したいんだけど」=
+//「えぇ、大丈夫だよ。貴殿……あなたが例の男子？」=
+//「俺は[P名前]って言うんだ。多分、その例のやつだよ」=
+//「なるほど、やはりゲームやアニメの男子とはリアルの男子ちがうなぁ……」=
+//「そ、そうかな？」=
+//（まじまじと見られてる）=
+//「……ハッ！　ごめんなさい。好きなキャラに似てるなと思って！　で、話というのは？」=
+//（ゲームやアニメが好きな子なのかな。どんな話をしよう……？）=

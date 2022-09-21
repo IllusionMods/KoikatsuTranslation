@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「……コイカツって、何をやるの？」="...The Love Hunter's Club?"
-「えっと、ざっくり言えば恋愛の研究……ってところかな」="The study of romance, huh... I'm interested."
-「……私、鯉に勝つ部活だと思ってた」="...I thought it was just some kind of joke at first."
-「そ、それはそれで興味があるような……」="It sounds unique, at least..."
-「でも恋愛研究も……悪くない、かも。よろしくね」="But it's not bad at least... Sure, where can I sign up?"
-「うん、よろしく。それじゃあ、今日は……」="Yeah, thanks. Well then, here's what's going on today..."
+//「……コイカツって、何をやるの？」=
+//「えっと、ざっくり言えば恋愛の研究……ってところかな」=
+//「……私、鯉に勝つ部活だと思ってた」=
+//「そ、それはそれで興味があるような……」=
+//「でも恋愛研究も……悪くない、かも。よろしくね」=
+//「うん、よろしく。それじゃあ、今日は……」=

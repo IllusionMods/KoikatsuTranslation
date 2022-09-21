@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「ねえ、せっかくだから寄り道しない？」=“Hey, wanna take a detour while we're here?”
-「いいわよ。どこへ行くの？」=“Sure. Where are we going?”
-「ゲームセンターだよ。キミ、好きだろ？」=“An arcade. You like arcades, no?”
-「うん、大好き！　だったら、そこで音楽ゲームでもやらない？」=“Yeah, I love them! Wanna try out that rhythm game with me then?”
-「あ、それいいね！　ぜったい負けないからな」=“Ah, that sounds fun! I'm definitely not gonna lose.”
+//「ねえ、せっかくだから寄り道しない？」=
+//「いいわよ。どこへ行くの？」=
+//「ゲームセンターだよ。キミ、好きだろ？」=
+//「うん、大好き！　だったら、そこで音楽ゲームでもやらない？」=
+//「あ、それいいね！　ぜったい負けないからな」=

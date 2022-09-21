@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「はぁーのど乾いたね！　めちゃ汗かいた！」=“Haah, man, I'm parched! I sweated so much!”
-「そ、そうだな！　はい、汝の分の飲み物、買っておいたぞ」=“I-Indeed! Here, I bought thine share as well.”
-「え？　ありがとうー！」=“Eh? Thanks~!”
-「我も喉がカラカラである。一緒に飲もうぞ！」=“My throat is dry like the desert as well. Let us drink together!”
+//「はぁーのど乾いたね！　めちゃ汗かいた！」=
+//「そ、そうだな！　はい、汝の分の飲み物、買っておいたぞ」=
+//「え？　ありがとうー！」=
+//「我も喉がカラカラである。一緒に飲もうぞ！」=

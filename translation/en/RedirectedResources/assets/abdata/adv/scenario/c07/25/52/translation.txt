@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「むぅ……もう終わりか？　まぁ、調子が悪いとかあるんだろうけどさ……次は頼むぜ？」=Muu... We done already? Well, I'm sure you just don't feel all that good today but... I expect your A game next time, aight?
+//「むぅ……もう終わりか？　まぁ、調子が悪いとかあるんだろうけどさ……次は頼むぜ？」=

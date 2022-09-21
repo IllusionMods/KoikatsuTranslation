@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「あ、いたいた……おまたせ！　って、まだ約束の５分前だけどね」=Ah, there you are... sorry for the wait! Well, there's still 5 minutes to the time we were supposed to meet up on though.
-「うふふ、あなたに逢いたくて、待っていられなかったの。２０分前に着いちゃったわ」=Ufufu, I just wanted to see you so badly, I couldn't wait. I got here 20 minutes early.
-「そうなの？　ごめん、俺、もっと早く来ればよかったね」=Really? I'm sorry, I should have come earlier.
-「ううん、いいのよ。待ってる時間もドキドキして……あぁん、身体が汗ばんじゃったわ～……」=No, it's alright. I got so excited just waiting for you... aahn, my body's gotten all hot and sweaty~...
-（うう、艶めかしい……）=(Uuu, so sexy...)
-「お、おけ、とにかく、移動しよっか」=O-Okay, anyways, let's go.
+//「あ、いたいた……おまたせ！　って、まだ約束の５分前だけどね」=
+//「うふふ、あなたに逢いたくて、待っていられなかったの。２０分前に着いちゃったわ」=
+//「そうなの？　ごめん、俺、もっと早く来ればよかったね」=
+//「ううん、いいのよ。待ってる時間もドキドキして……あぁん、身体が汗ばんじゃったわ～……」=
+//（うう、艶めかしい……）=
+//「お、おけ、とにかく、移動しよっか」=

@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「んーっ、結構捗るね。一緒に勉強するとかちょっと緊張するかもって思ったっちゃけど……逆に集中出来るん！」=Nnn--, we made a ton of progress. I thought I'd feel nervous, studying together like this but... If anything, I can concentrate a lot more than usual!
-「そうだね。おかげでいつもより時間が過ぎるのが早いかも」=Yah. Thanks to that, feels like time is passing by a lot faster than usual.
-「うん、あっと言う間やったん！」=Yeah, it went by in the blink of an eye!
-「いつもの授業は、早く終わらんかなーって思ってばっかりなんに、可笑しいね」=Even though normally, in class, I'm always waiting for the bell to ring. So funny.
-「あはは、分かる！　授業の時もこのくらい集中出来ればいいんだけどね……」=Ahaha, I feel you! Would be so nice if we could concentrate as much as this during class too...
-「うーん、ずっと二人きりやったら集中出来そうなんやけど……なんて、それは無理やもんね。授業に集中出来ない分、またこうやってお勉強すればいいかいな」=Well, if we were together the whole time, I think we could do it but... that of course isn't possible. We can always just have another session like this, for studying all the things we couldn't focus on in class.
-「うん、賛成。まだ時間はあるし……それじゃあと少しだけ頑張ろっか」=Yeah, good idea. We still have some time so... let's keep at it for just a bit longer.
+//「んーっ、結構捗るね。一緒に勉強するとかちょっと緊張するかもって思ったっちゃけど……逆に集中出来るん！」=
+//「そうだね。おかげでいつもより時間が過ぎるのが早いかも」=
+//「うん、あっと言う間やったん！」=
+//「いつもの授業は、早く終わらんかなーって思ってばっかりなんに、可笑しいね」=
+//「あはは、分かる！　授業の時もこのくらい集中出来ればいいんだけどね……」=
+//「うーん、ずっと二人きりやったら集中出来そうなんやけど……なんて、それは無理やもんね。授業に集中出来ない分、またこうやってお勉強すればいいかいな」=
+//「うん、賛成。まだ時間はあるし……それじゃあと少しだけ頑張ろっか」=

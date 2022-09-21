@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「うむ、我も異論はない……が、ちゃんと平等に気持ちよくするのだぞ……？」=“Umu, I have no objections either... however, thou must endeavour to pleasure us both equally, alright...?”
+//「うむ、我も異論はない……が、ちゃんと平等に気持ちよくするのだぞ……？」=

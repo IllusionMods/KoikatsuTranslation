@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「えっと、ありがとうね。私のことを考えながら選んでくれたっちゃろ？　私にとっては、その時間だけでも十分過ぎるプレゼントなんよ」=Erhm, thanks. You bought this while thinking of me, no? To me, the time you spent doing that is a gift in itself.
+//「えっと、ありがとうね。私のことを考えながら選んでくれたっちゃろ？　私にとっては、その時間だけでも十分過ぎるプレゼントなんよ」=

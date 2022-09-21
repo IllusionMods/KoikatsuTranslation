@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「えへっ、こういうの素直に嬉しいよ。ありがとっ」=“Eheh--, this kinda thing honestly makes me really happy. Thanks--”
+//「えへっ、こういうの素直に嬉しいよ。ありがとっ」=

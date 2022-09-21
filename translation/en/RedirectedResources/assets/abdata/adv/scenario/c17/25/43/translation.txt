@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「ひっ！　だ、誰かと思えばあなたね。ふふっ、覗きは悪趣味よ？」=“I-I was wondering who it was, but it was just you. Fufu, peeking is bad you know?”
+//「ひっ！　だ、誰かと思えばあなたね。ふふっ、覗きは悪趣味よ？」=

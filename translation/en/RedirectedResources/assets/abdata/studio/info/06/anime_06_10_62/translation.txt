@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-ストレッチ１=Stretching 1
-ストレッチ２=Stretching 2
-ストレッチ３=Stretching 3
-ストレッチ４=Stretching 4
+//ストレッチ１=
+//ストレッチ２=
+//ストレッチ３=
+//ストレッチ４=

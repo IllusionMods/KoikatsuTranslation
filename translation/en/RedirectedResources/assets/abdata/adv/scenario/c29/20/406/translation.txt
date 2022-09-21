@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「すっかり夕方だ。ゆっくりしすぎちゃったかな」=The sun's completely gone down. I think we took it a bit too easy.
-「良いのではないでしょうか。今日はそのような日ということで」=Is it not fine? Today was just the day to do so.
-「あはは。[H名]とたくさん話せたし、有意義な時間の使い方だったよ」=Ahaha. We chatted a whole ton too, it was a worthwhile use of time.
-「じゃあ、会計済ませてくるね」=Well then, I'll go settle the bill.
-「はい。ありがとうございます」=Okay. Thank you very much.
+//「すっかり夕方だ。ゆっくりしすぎちゃったかな」=
+//「良いのではないでしょうか。今日はそのような日ということで」=
+//「あはは。[H名]とたくさん話せたし、有意義な時間の使い方だったよ」=
+//「じゃあ、会計済ませてくるね」=
+//「はい。ありがとうございます」=

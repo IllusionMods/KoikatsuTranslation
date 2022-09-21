@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「おはよう、良いゲームを見つけたよ」=“Morning, I found this nice game.”
+//「おはよう、良いゲームを見つけたよ」=

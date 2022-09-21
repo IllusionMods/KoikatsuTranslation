@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「[H名]、お待たせ！　ごめん、待たせちゃった？」=[H名], sorry for the wait! Did I make you wait long?
-「大丈夫、暇つぶしにと思って小説を持ってきてたから平気」=It's alright, I bought a book along to kill time anyway, so it's fine.
-「結構読み進めちゃった？」=Make any progress on it?
-「ううん。あなたが時間どおりに来てくれたから、全然進んでないの。本の続きはまたのお楽しみにしておくね」=Not really. You got here right on time, so I didn't get through even the first few pages. I'll just have to save reading this book for later.
-「そっか。じゃあ、その本より面白い時間を一緒に過ごさないとね」=I see. Guess I gotta show you a better time than that book to make up for it then.
-「よし、それじゃあどこに行こうかな」=Alright, where shall we go then?
+//「[H名]、お待たせ！　ごめん、待たせちゃった？」=
+//「大丈夫、暇つぶしにと思って小説を持ってきてたから平気」=
+//「結構読み進めちゃった？」=
+//「ううん。あなたが時間どおりに来てくれたから、全然進んでないの。本の続きはまたのお楽しみにしておくね」=
+//「そっか。じゃあ、その本より面白い時間を一緒に過ごさないとね」=
+//「よし、それじゃあどこに行こうかな」=

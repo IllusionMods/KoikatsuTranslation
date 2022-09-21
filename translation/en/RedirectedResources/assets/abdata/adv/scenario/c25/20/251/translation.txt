@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-（ふぅ……そろそろ降りる準備しとかないと）=(Fuu... Gotta get ready to get off soon.)
-（……今日のデートも良い思い出が作れたな）=(...Made great memories on today's date too.)
-（特に最後の観覧車……二人きりで熱いキスを交わして……いい雰囲気にだった）=(Especially that ferris wheel ride... that hot kiss we exchanged... it made for a good mood.)
-（……よし、この次も絶対[H名]を楽しませるデートにしよう！）=(...Alright, let's make the next date enjoyable too, for [H名]!)
+//（ふぅ……そろそろ降りる準備しとかないと）=
+//（……今日のデートも良い思い出が作れたな）=
+//（特に最後の観覧車……二人きりで熱いキスを交わして……いい雰囲気にだった）=
+//（……よし、この次も絶対[H名]を楽しませるデートにしよう！）=

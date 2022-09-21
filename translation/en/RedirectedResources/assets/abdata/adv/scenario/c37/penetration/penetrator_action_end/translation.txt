@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「ありがとうございます。では……ナニから始めればいいでしょうか？」=Thank you very much. Then... What should we start with?
+//「ありがとうございます。では……ナニから始めればいいでしょうか？」=

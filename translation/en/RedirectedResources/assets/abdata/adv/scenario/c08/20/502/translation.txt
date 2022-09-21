@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「そろそろ、待ち合わせ場所に着くぞ……ん？　あれ？」=I'm almost at the rendezvous point... nn? Huh?
-「あっ[P名]君！　えへへ～、ばったり！　偶然だね♪」=Ah, [P]-kun! Ehehe~, perfect timing! What a coincidence♪
-「[H名]も今来たとこか？」=You just got here too, [H名]?
-「奇遇、奇遇バッチグーだな！」=Truly, what a fortuitous encounter!
-「ふふっ、古過ぎだよ～。さっ、そんなこと言ってないで早く行こ♪」=Fufu--, you're being way too corny~. Now then--, forget about all that, let's go already♪
-「そ、そうだな……どこに行こうか？」=R-Right... where shall we go?
+//「そろそろ、待ち合わせ場所に着くぞ……ん？　あれ？」=
+//「あっ[P名]君！　えへへ～、ばったり！　偶然だね♪」=
+//「[H名]も今来たとこか？」=
+//「奇遇、奇遇バッチグーだな！」=
+//「ふふっ、古過ぎだよ～。さっ、そんなこと言ってないで早く行こ♪」=
+//「そ、そうだな……どこに行こうか？」=

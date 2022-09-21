@@ -1,5 +1,5 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「起きたか？　すっごい間抜けな面して寝てたぞ」=Awake yet? You were sleeping with such a stupid smile on your face.
-「お前もかわいいとこあるんだな」=Even you have your cute sides, huh?
+//「起きたか？　すっごい間抜けな面して寝てたぞ」=
+//「お前もかわいいとこあるんだな」=

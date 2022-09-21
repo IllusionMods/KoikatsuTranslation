@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「図書館でお勉強デートですね」=A study date at the library together~
-「これもデートなの？」=Is this a date too?
-「はい……そう思ってたのは私だけでしょうか？」=Yes... was it just me who felt that way?
-「い、いや！　お喋りしながら勉強するんだから立派なデートだよねこれは！　ははは」=N-No! We're gonna be chatting each other up while getting our work done, what a great date it'll be! Hahaha.
+//「図書館でお勉強デートですね」=
+//「これもデートなの？」=
+//「はい……そう思ってたのは私だけでしょうか？」=
+//「い、いや！　お喋りしながら勉強するんだから立派なデートだよねこれは！　ははは」=

@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「この前、お母さんの仕事の都合で日本に帰ってきたって言ってたけど、もしかしてまた海外に引っ越す可能性もあるのかな？」=The other day, you told me that you came back to Japan because of your mom's job but, is it possible that you might go back abroad again in the future?
-「転勤トカ？　ン～……あるカモダケド、ワタシは残るから安心シテネ♡」=You mean a job transfer? Nnn~... There might be one but, I'll stay here so don't worry♡
-「ほ、本当？　でも、家族が散り散りになっちゃうのは、よくないんじゃない……？」=R-Really? But, it's not good to have your family split apart everywhere, no...?
-「フフフ♡　ワタシ、ＭａｍａもＰａｐａも大事ダケド、一番はアナタダカラ♡」=Fufufu♡ To me, both my Mama and Papa are very important but, you're my number one♡
-「アナタみたいに一人暮らしシテ、ｐａｒｔ－ｔｉｍｅシテ……ネ？　二人、ズット仲良しダヨ♡」=I'll live alone like you, and work part time... okay? We'll always be close♡
-「[H]……そうだね、ずっと仲良しでいたいよ」=[H名]... You're right, I want to always be close with you.
+//「この前、お母さんの仕事の都合で日本に帰ってきたって言ってたけど、もしかしてまた海外に引っ越す可能性もあるのかな？」=
+//「転勤トカ？　ン～……あるカモダケド、ワタシは残るから安心シテネ♡」=
+//「ほ、本当？　でも、家族が散り散りになっちゃうのは、よくないんじゃない……？」=
+//「フフフ♡　ワタシ、ＭａｍａもＰａｐａも大事ダケド、一番はアナタダカラ♡」=
+//「アナタみたいに一人暮らしシテ、ｐａｒｔ－ｔｉｍｅシテ……ネ？　二人、ズット仲良しダヨ♡」=
+//「[H]……そうだね、ずっと仲良しでいたいよ」=

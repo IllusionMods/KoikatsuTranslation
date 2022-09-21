@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「面倒な気がするのでいいかな～」=Sounds like a pain, so I think I'm good~
-「大丈夫！　絶対面倒じゃないと思えるよ」=It's alright! I can assure you, it won't be all that troublesome.
-「何、その自信は……？　はぁ～、じゃあ試しにちょっとだけだからね～」=W-What's with that confidence...? Haa~, well I'll go along with it for a bit, just as a test though~
+//「面倒な気がするのでいいかな～」=
+//「大丈夫！　絶対面倒じゃないと思えるよ」=
+//「何、その自信は……？　はぁ～、じゃあ試しにちょっとだけだからね～」=

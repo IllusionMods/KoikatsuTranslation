@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-………………=.........
-…………=......
-……=...
-「ごちそうさまでした。恋人ご飯、またしましょうね」=“That was a great meal. Let's eat together again, my darling.”
+//………………=
+//…………=
+//……=
+//「ごちそうさまでした。恋人ご飯、またしましょうね」=

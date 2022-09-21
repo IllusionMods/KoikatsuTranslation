@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-………………=.........
-…………=......
-……=...
-「一緒にお昼は最高であるぞ！　お腹も心も満たされて幸せである」=“Having lunch together truly is the best! It fills me up both in my heart and in my belly, it is bliss.”
+//………………=
+//…………=
+//……=
+//「一緒にお昼は最高であるぞ！　お腹も心も満たされて幸せである」=

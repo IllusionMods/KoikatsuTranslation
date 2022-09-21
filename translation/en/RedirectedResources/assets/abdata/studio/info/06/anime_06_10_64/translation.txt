@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-ダイブ１=Diving 1
-ダイブ２=Diving 2
-ダイブ３=Diving 3
-ダイブ４=Diving 4
+//ダイブ１=
+//ダイブ２=
+//ダイブ３=
+//ダイブ４=

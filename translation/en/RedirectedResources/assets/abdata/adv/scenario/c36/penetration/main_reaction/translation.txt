@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「あら、私の楽しみを邪魔するだなんて、どういう了見かしら？」="Oh, what's your intention of interrupting my fun?"
+//「あら、私の楽しみを邪魔するだなんて、どういう了見かしら？」=

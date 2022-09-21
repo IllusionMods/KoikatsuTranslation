@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「おっはよーう！　うん、今日は良い一日になりそうだなっ」=“Mornin'~! Yeah, looks like today's gonna be another good day--”
+//「おっはよーう！　うん、今日は良い一日になりそうだなっ」=

@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-………………=.........
-…………=......
-……=...
-「くうっ……途中で逆転されちゃうなんて。負けは負け……その、あんたの好きに……」=“Kuuh--... to think you'd manage such a comeback halfway through. A loss is a loss... uhm, you can, have your way with...”
+//………………=
+//…………=
+//……=
+//「くうっ……途中で逆転されちゃうなんて。負けは負け……その、あんたの好きに……」=

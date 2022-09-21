@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「すっかり暗くなちゃったね。もう少しここで遊んでたいけど……今日は帰ろっか」=“It's become completely dark, hasn't it? I wanna stay here a bit longer but... let's go home for today.”
-「……うん。そうね」=“...Okay. Let's do that.”
-「遊園地から出るときって、一気に夢から覚める感じするよね」=“Leaving the amusement park kinda pops that dream bubble all at once, doesn't it?”
-「その感覚ちょっと分かるわ」=“I do feel you, a bit.”
-「現実がすぐ目の前に迫ってる……楽しいから夢から覚めちゃうんだ」=“Reality, crashing in right in front of our eyes... waking us up from our fun dream.”
-「もう、嫌な言い方しないでよ……」=“Jeez, don't say it like that, dummy...”
+//「すっかり暗くなちゃったね。もう少しここで遊んでたいけど……今日は帰ろっか」=
+//「……うん。そうね」=
+//「遊園地から出るときって、一気に夢から覚める感じするよね」=
+//「その感覚ちょっと分かるわ」=
+//「現実がすぐ目の前に迫ってる……楽しいから夢から覚めちゃうんだ」=
+//「もう、嫌な言い方しないでよ……」=

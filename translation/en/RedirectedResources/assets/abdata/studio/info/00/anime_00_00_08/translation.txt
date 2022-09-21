@@ -1,13 +1,13 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-しゃがみ1=Squatting 1
-しゃがみ2=Squatting 2
-しゃがみ3=Squatting 3
-正座=Sitting Seiza
-お茶をたてる待機=About To Perform Tea Ceremony
-お茶をたてる=Performing Tea Ceremony
-お茶を飲む待機=About To Drink Tea
-お茶を飲む=Drinking Tea
-女の子座り=Girly Sitting
-お姉さん座り=Onee-san Sitting
+//しゃがみ1=
+//しゃがみ2=
+//しゃがみ3=
+//正座=
+//お茶をたてる待機=
+//お茶をたてる=
+//お茶を飲む待機=
+//お茶を飲む=
+//女の子座り=
+//お姉さん座り=

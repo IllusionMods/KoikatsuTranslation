@@ -1,17 +1,17 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「ねえ、私に愛称付けて～！」=Hey, give me a nickname~!
-「急にどうしたの？」=What's the matter, so suddenly?
-「友達がね、愛称を付け合ったらもっと仲良くなれるって言ってたの！」=A friend told me that if we gave each other nicknames, we'd get even closer together and stuff!
-「私はもう考えてあるから、あなたにも考えてほしいんだ～」=I've already thought of one for you so, I want you to come up with one for me too~
-「確かに愛称があるのはいいかもね、よし考えてみるよ」=Certainly, having nicknames for each other might be quite nice, alright, I'll try thinking of one.
-「やったー。えへへ、どんなの付けてくれるか楽しみ～」=Yay. Ehehe, I'm excited to hear just what sort of nickname you're gonna give me~
-「……よし、出来たよ。じゃあ、呼び合ってみようか」=...Alright, I've thought of one. Well then, let's call each other by them.
-「うん！　えへへ……ねぇ、[Pあだ名]」=Yeah! Ehehe... hey, [Pあだ名].
-「ん……[Hあだ名]」=Nn... [Hあだ名].
-「……ちょっとだけ恥ずかしいけど、すごく幸せな感じかも」=...It's a little bit embarrassing but, I feel incredibly happy.
-「ねぇ……また呼んでみてもいいかな？」=Hey... is it okay if I call you that again?
-「もちろん！　というか普段から呼んでくれてもいいんだよ」=Of course! Rather, I don't mind it if you start calling me that all the time.
-「たまに呼ぶからこそ特別感があっていいんだ、って友達が言ってたから、時々でいいの」=That friend also told me that it feels special only precisely because it's meant to be used rarely, so let's just do that.
-「そ、そう？　んー、確かに一理あるかもしれないな……」=T-That so? Nn, I do see the logic, yeah...
+//「ねえ、私に愛称付けて～！」=
+//「急にどうしたの？」=
+//「友達がね、愛称を付け合ったらもっと仲良くなれるって言ってたの！」=
+//「私はもう考えてあるから、あなたにも考えてほしいんだ～」=
+//「確かに愛称があるのはいいかもね、よし考えてみるよ」=
+//「やったー。えへへ、どんなの付けてくれるか楽しみ～」=
+//「……よし、出来たよ。じゃあ、呼び合ってみようか」=
+//「うん！　えへへ……ねぇ、[Pあだ名]」=
+//「ん……[Hあだ名]」=
+//「……ちょっとだけ恥ずかしいけど、すごく幸せな感じかも」=
+//「ねぇ……また呼んでみてもいいかな？」=
+//「もちろん！　というか普段から呼んでくれてもいいんだよ」=
+//「たまに呼ぶからこそ特別感があっていいんだ、って友達が言ってたから、時々でいいの」=
+//「そ、そう？　んー、確かに一理あるかもしれないな……」=

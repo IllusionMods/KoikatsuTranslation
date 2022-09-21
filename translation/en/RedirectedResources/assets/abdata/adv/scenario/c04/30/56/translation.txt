@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「えっ……ち、ちょっと待って、何か問題があるなら話して？　ちゃんと直すから……」=Eh--... w-wait a minute, if there's a problem, please tell me? I'll change, I can do it...
-「……ごめん……もう無理なんだ……」=...Sorry... I just can't anymore...
-「……そっか。私、知らないうちにあなたを苦しめていたんだね」=...I see. I was causing you pain, and I didn't even realize, did I?
-「……」=“...”
-「ごめんなさい……今までありがとう。さようなら……っ！」=I'm really sorry... thanks for everything, till now. Goodbye...--!
+//「えっ……ち、ちょっと待って、何か問題があるなら話して？　ちゃんと直すから……」=
+//「……ごめん……もう無理なんだ……」=
+//「……そっか。私、知らないうちにあなたを苦しめていたんだね」=
+//「……」=
+//「ごめんなさい……今までありがとう。さようなら……っ！」=

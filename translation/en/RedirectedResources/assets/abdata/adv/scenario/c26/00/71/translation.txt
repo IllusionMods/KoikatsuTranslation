@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「……ここ、どうするんだっけ？」=“...How'd you do this one again?”
-「えっとそこは……って、なにも俺の膝の上でやらなくても」=“Erhm, that's... you don't need to sit on my lap everytime, you know?”
-「……私は、ここがいいの。で、この問題は……」=“...I, like it here. So, this problem...”
-（ぜ、全然集中できない……！）=(I-I can't focus at all...!)
+//「……ここ、どうするんだっけ？」=
+//「えっとそこは……って、なにも俺の膝の上でやらなくても」=
+//「……私は、ここがいいの。で、この問題は……」=
+//（ぜ、全然集中できない……！）=

@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「……うん、別にいいよ」=“...Yeah, sure.”
-「本当？　ありがとう」=“Really? Thanks.”
-「……あなたと一緒にいるだけでいいんでしょ？」=“...I don't need to do more than just be with you, right?”
-「まぁ、そんなところかな？　えーと、他にはね……」=“Well, more or less? Erhm, there's also...”
-「いい、あなたと一緒にいられるんだったら……他は別に……」=“It's fine, as long as I'm with you... I don't care...”
-「ほ、本当に……？　説明しなくても大丈夫？」=“R-Really...? You sure you don't wanna listen to the explanation?”
-「うん……。それさえ確認できれば……」=“Yeah... I only needed to know that one thing...”
+//「……うん、別にいいよ」=
+//「本当？　ありがとう」=
+//「……あなたと一緒にいるだけでいいんでしょ？」=
+//「まぁ、そんなところかな？　えーと、他にはね……」=
+//「いい、あなたと一緒にいられるんだったら……他は別に……」=
+//「ほ、本当に……？　説明しなくても大丈夫？」=
+//「うん……。それさえ確認できれば……」=

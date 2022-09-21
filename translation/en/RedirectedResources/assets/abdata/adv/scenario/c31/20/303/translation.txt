@@ -1,20 +1,20 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「さて、そろそろ時間か？　もうかなり歌った気がするが」=Now then, is our time almost up? I feel like we've already sung quite a bit.
-CHOICE:『延長して、もっと歌おうよ』=『Let's extend it and sing more』
-CHOICE:『この辺で帰ろうか』=『Let's leave it here』
-「俺はもうちょっと歌いたいかな。延長しても大丈夫？」=I want to sing a bit more. Is it alright if we extent our slot?
-「ほう、タフな奴だな。いいぞ、そこまで言うなら、とことん付き合ってやる」=Hoh, what a tough guy. Alright, if you're gonna say that, then I'll keep you company till the end.
-「いよっし！　じゃあ、延長の電話を入れておくね」=Alright! Then, I'll put in the call for an extension.
-「歌い過ぎて、声が出なくなったら困るからね。この辺で帰ろうか」=If we actually sing our throats out, it'll be quite problematic. Let's leave it here, shall we?
-「そうだな。楽しかったで終わりにしておく方が賢い選択だ」=Sure. Ending it on a good note is a wise choice.
-「だね。じゃあ忘れ物のないように、一度チェックしようか」=Yep. Then, let's check and make sure we're not forgetting anything.
-「そうだね、そろそろ時間が……あっ、でも少しだけ余裕があるな」=Let's see, is it almost up... ah--, we do have a bit of leeway.
-「せっかくだから最後に一曲歌ったら？」=Wanna take the last song? We might as well.
-「だな。時間ギリギリまでいるとするか。うーん、何をいれるか……」=Yeah. Let's sing until the last moment. Hmm, what should I put in...
-「じゃあ、青――」=Then, how about Blue---
-「歌ったから入れん。よし、この曲にしよう」=I've already sung that today, so no. Alright, let's do this one.
-「ちぇっ」=Wai--
-『もしも今 背中に羽が生えて 大空自由に 飛び回れたら～♪』=『If only I could sprout wings from my back and fly freely in the wide open sky right now~♪』
-「Ｆｕ、Ｆｕ～♪」=Fuu, Fuu~ ♪
+//「さて、そろそろ時間か？　もうかなり歌った気がするが」=
+//CHOICE:『延長して、もっと歌おうよ』=
+//CHOICE:『この辺で帰ろうか』=
+//「俺はもうちょっと歌いたいかな。延長しても大丈夫？」=
+//「ほう、タフな奴だな。いいぞ、そこまで言うなら、とことん付き合ってやる」=
+//「いよっし！　じゃあ、延長の電話を入れておくね」=
+//「歌い過ぎて、声が出なくなったら困るからね。この辺で帰ろうか」=
+//「そうだな。楽しかったで終わりにしておく方が賢い選択だ」=
+//「だね。じゃあ忘れ物のないように、一度チェックしようか」=
+//「そうだね、そろそろ時間が……あっ、でも少しだけ余裕があるな」=
+//「せっかくだから最後に一曲歌ったら？」=
+//「だな。時間ギリギリまでいるとするか。うーん、何をいれるか……」=
+//「じゃあ、青――」=
+//「歌ったから入れん。よし、この曲にしよう」=
+//「ちぇっ」=
+//『もしも今 背中に羽が生えて 大空自由に 飛び回れたら～♪』=
+//「Ｆｕ、Ｆｕ～♪」=

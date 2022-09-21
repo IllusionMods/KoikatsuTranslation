@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-（よしっ、今日はかなり早めにこれたぞ）=(Alright--, I got here pretty early today.)
-（[H名]は……まだ着いてないみたいだな）=(As for [H名]... seems like she hasn't gotten here yet.)
-………………=.........
-「ご、ごめんなさいっ。家にある目覚まし時計が全部壊れて寝坊して……」=I-I'm sorry! All the alarm clocks I have at home broke down at the same time, so I overslept...
-「大丈夫だよ、[H名]とデートできるって考えてたらいくらでも待てるから」=It's alright, when I think about how I get to go on a date with you, time really is no object.
-「お、大げさに言いすぎじゃないですか？　嬉しいですけれどっ」=A-Aren't you exaggerating too much? It makes me really happy though--
-「そんなことはないよ。さあ、無事合流できたところで早速行こうか」=It's not an exaggeration. Now then, since we met up with no issues, let's get going, shall we?
+//（よしっ、今日はかなり早めにこれたぞ）=
+//（[H名]は……まだ着いてないみたいだな）=
+//………………=
+//「ご、ごめんなさいっ。家にある目覚まし時計が全部壊れて寝坊して……」=
+//「大丈夫だよ、[H名]とデートできるって考えてたらいくらでも待てるから」=
+//「お、大げさに言いすぎじゃないですか？　嬉しいですけれどっ」=
+//「そんなことはないよ。さあ、無事合流できたところで早速行こうか」=

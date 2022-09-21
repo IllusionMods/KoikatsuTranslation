@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「あらあら、どうしたの？　突然ねぇ」=“Oh my, what's the matter? I wasn't expecting this~”
+//「あらあら、どうしたの？　突然ねぇ」=

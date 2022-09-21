@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「……うん、いいよ」=“....Yeah, okay.”
-「[H]……本当に、俺でいいの？」=“[H]... Are you sure? Are you fine with it being me?”
-「……うん。[P]が好きだからいい……」=“...Yeah. I love you so I don't mind...”
-「[P]……初めてはいい思い出にさせてね……」=“[P]... give me some good memories, okay?...”
+//「……うん、いいよ」=
+//「[H]……本当に、俺でいいの？」=
+//「……うん。[P]が好きだからいい……」=
+//「[P]……初めてはいい思い出にさせてね……」=

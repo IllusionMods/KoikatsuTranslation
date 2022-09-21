@@ -1,13 +1,13 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「気がついたら一面すっかりオレンジ色ね……もうそろそろしたら、日も沈みそう……」=Looks like the sun's going down... The day will be over soon enough...
-CHOICE:『観覧車に乗らない？』=Wanna ride the ferris wheel?
-CHOICE:『そろそろ帰った方がいいかな？』=Should we head home?
-「ねえ、最後に観覧車に乗っていかない？　日が沈んだら綺麗な夜景を見れると思うし……」=Hey, wanna try riding the ferris wheel? I bet the night scenery from up there would look amazing...
-「夜の観覧車……ふふ、素敵な提案だわ。さっそく並びに行きましょう」=The ferris wheel, huh... Fufu, that's a great idea. Let's go line up quickly.
-「大体の人は帰り出してるし、俺達も帰った方がいいかな？」=Most people are going home now, should we head home too?
-「そうしましょうか。あんまり長居しても、スタッフの人達の迷惑になりそうだし」=Let's go. If we were to stay for too long, we'll just be a nuisance to the staff.
-「それは確かに。こういうところの閉店作業って、大変そうだよね」=That's for sure. Closing up a place like this must be difficult.
-「そうね、一度くらい見てみたいかも。でも、それこそ邪魔になるわよね」=Probably, I'd like to see it at least once. But then again, if we were to do that, we'd be a hindrance.
-「はは、じゃあ最後にお土産でも買って、今日は帰ろうか」=Haha, then let's buy a few souvenirs and go home for today.
+//「気がついたら一面すっかりオレンジ色ね……もうそろそろしたら、日も沈みそう……」=
+//CHOICE:『観覧車に乗らない？』=
+//CHOICE:『そろそろ帰った方がいいかな？』=
+//「ねえ、最後に観覧車に乗っていかない？　日が沈んだら綺麗な夜景を見れると思うし……」=
+//「夜の観覧車……ふふ、素敵な提案だわ。さっそく並びに行きましょう」=
+//「大体の人は帰り出してるし、俺達も帰った方がいいかな？」=
+//「そうしましょうか。あんまり長居しても、スタッフの人達の迷惑になりそうだし」=
+//「それは確かに。こういうところの閉店作業って、大変そうだよね」=
+//「そうね、一度くらい見てみたいかも。でも、それこそ邪魔になるわよね」=
+//「はは、じゃあ最後にお土産でも買って、今日は帰ろうか」=

@@ -1,17 +1,17 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「ちょっと提案があるんだけど……お互いのこと愛称で呼んでみない？」=I've got a little suggestion... let's call each other by our nicknames, alright?
-「ふぇ……？　愛称ですか？　ぜひ、ぜひ！　私も呼びたいのです！」=Fweh...? Nicknames? Please, please! I'd like to call you one, too!
-「やったね！　それじゃまずは……俺のこと、[Pあだ名]って呼んでみて？」=Let's do it! Alright then... why not call me [Pあだ名]?
-「えぇーっ、それのどこが愛称なのですか！？　私はもっとこう……普通な感じのを想像してたです！」=Ehhh-! How is that a nickname!? I was imagining something more... normal than that!
-「確かに普通じゃないかもだけど……[H]からはそう呼ばれたいんだ。嫌、だったかな？」=Well, yeah, I guess it's not normal... but that's what I'd like you to call me,  [H]. Don't you like it?
-「ふふーっ、あなたがしたいことで、嫌なことなんてあるはずないです♪　どんな呼び方でも平気なのですよ」=Fufu-! There's nothing you could do that I wouldn't like♪ It doesn't matter what you want me to call you.
-「ありがとう！　それじゃまずは俺から呼んでみるから」=Thank you! Okay, now I'll call you by something.
-「は、はいっ！　ど、ドキドキするですっ！」=Y-yes! I-I'm super excited!
-「……[Hあだ名]」=...[Hあだ名]
-「わぁぁっ！　え、えっとっ……では、私もっ。……[Pあだ名]」=Waaaa! E-er, um...my turn I guess... [Pあだ名].
-「おお、新鮮！　こうやって呼び合うの、いいね。[Hあだ名]!」=Oooh, so fresh! It's great to call each other by nicknames, [Hあだ名]!
-「はいー、恥ずかしいですけど……呼ばれるだけでドキドキするなんて嬉しいです」=Yes- but it's embarrassing... I'm happy that it excites you to be called by a nickname.
-「そうだね。ね、これからもこうやって呼び合ってもいいかな？」=Yeah, I know. Hey, can we keep calling each other by our nicknames?
-「いいですよ。でも……毎回この呼び方はさすがに恥ずかしいですから……ここぞという時だけにするです！」=Oke-dokey. But... I'd be embarrassed if I called you by it, all the time so... I'll save it for special occasions!
+//「ちょっと提案があるんだけど……お互いのこと愛称で呼んでみない？」=
+//「ふぇ……？　愛称ですか？　ぜひ、ぜひ！　私も呼びたいのです！」=
+//「やったね！　それじゃまずは……俺のこと、[Pあだ名]って呼んでみて？」=
+//「えぇーっ、それのどこが愛称なのですか！？　私はもっとこう……普通な感じのを想像してたです！」=
+//「確かに普通じゃないかもだけど……[H]からはそう呼ばれたいんだ。嫌、だったかな？」=
+//「ふふーっ、あなたがしたいことで、嫌なことなんてあるはずないです♪　どんな呼び方でも平気なのですよ」=
+//「ありがとう！　それじゃまずは俺から呼んでみるから」=
+//「は、はいっ！　ど、ドキドキするですっ！」=
+//「……[Hあだ名]」=
+//「わぁぁっ！　え、えっとっ……では、私もっ。……[Pあだ名]」=
+//「おお、新鮮！　こうやって呼び合うの、いいね。[Hあだ名]!」=
+//「はいー、恥ずかしいですけど……呼ばれるだけでドキドキするなんて嬉しいです」=
+//「そうだね。ね、これからもこうやって呼び合ってもいいかな？」=
+//「いいですよ。でも……毎回この呼び方はさすがに恥ずかしいですから……ここぞという時だけにするです！」=

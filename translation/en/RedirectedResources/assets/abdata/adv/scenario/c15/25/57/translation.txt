@@ -1,13 +1,13 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「へへー、初デート初デート♪　あたし、いますごくワクワクしてるぞ！」=“Hehe, our first date, our first date♪ I'm super excited right now!”
-「俺もワクワクしてる。初デートだから、記念になる思い出、作ろうね」=“I'm excited too. It's our first date so, let's make some real good memories together, okay?”
-「おおー、期待してるぞ！　よろしくな」=“Yeah, I'm looking forward to it! Take care of me, okay?”
-「任せて」=“Sure, leave it to me.”
-「どう、楽しめてるかな？」=“How is it, are you enjoying yourself?”
-「もちろん！　キミと一緒だからかな？　歩いてるだけでも楽しいぞ！」=“Of course! Is it because you're here with me, I wonder? Just walking around is fun on its own!”
-「はは、そういってくれて嬉しいよ。おっ、もうすぐ次の目的地だ」=“Haha, I'm glad to hear that. Oh--, we're almost at the next place.”
-「次は何で勝負するんだ？　ゲームか？　それとも早食いか？」=“What sort of thing are we gonna compete at next? A game? Or seeing who can stuff their face the fastest?”
-「別に勝負をするわけじゃ……ま、楽しんでくれるならいっか」=“It's not like we have to compete, you know... well, if you like that sort of stuff then why not, I guess.”
-「今日は最高の思い出作れたぞ♪　またデートしような？　じゃーねー！」=“I made a lot of good memories today♪ Let's go on a date again, okay? See ya!”
+//「へへー、初デート初デート♪　あたし、いますごくワクワクしてるぞ！」=
+//「俺もワクワクしてる。初デートだから、記念になる思い出、作ろうね」=
+//「おおー、期待してるぞ！　よろしくな」=
+//「任せて」=
+//「どう、楽しめてるかな？」=
+//「もちろん！　キミと一緒だからかな？　歩いてるだけでも楽しいぞ！」=
+//「はは、そういってくれて嬉しいよ。おっ、もうすぐ次の目的地だ」=
+//「次は何で勝負するんだ？　ゲームか？　それとも早食いか？」=
+//「別に勝負をするわけじゃ……ま、楽しんでくれるならいっか」=
+//「今日は最高の思い出作れたぞ♪　またデートしような？　じゃーねー！」=

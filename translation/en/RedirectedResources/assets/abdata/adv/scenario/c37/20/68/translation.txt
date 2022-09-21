@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-………………=.........
-…………=......
-……=...
-「ここでお別れですね」=This is where we go our separate ways, right?
-「うん。また今度一緒に帰ろうね」=Yeah. Let's walk home together again sometime.
-「はい、それではまた」=Yes, till next time.
+//………………=
+//…………=
+//……=
+//「ここでお別れですね」=
+//「うん。また今度一緒に帰ろうね」=
+//「はい、それではまた」=

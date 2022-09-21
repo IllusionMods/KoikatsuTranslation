@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「ウソだろぉ……？　あたしまだ全然満たされてないぞぉ」=“You're kidding, right...? I'm still not satisfied at all, you know~?”
+//「ウソだろぉ……？　あたしまだ全然満たされてないぞぉ」=

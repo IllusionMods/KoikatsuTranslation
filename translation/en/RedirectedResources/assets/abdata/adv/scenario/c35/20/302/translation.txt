@@ -1,22 +1,22 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「絶対絶対絶対絶対負けない 気持ちがある♪　強く強く強く強く 想いをこめたら♪」=I won't lose, won't lose, won't lose♪ As long as I put in, my feelings, my feelings, my strong feelings♪
-（おお！　すごい、前に来た時より上手になってる！）=(Ooh! Amazing, she's gotten way better than the last time we came here!)
-（これはずっと聴いていたくなっちゃうかも……）=(Man, I could listen to this all day...)
-………………=.........
-「はぁぁ、お疲れ様でしたっ！　えへへ、やっぱり大きい声出すのって気持ちいいっちゃねぇ！」=Haaa, good work--! Ehehe, it really does feel amazing to sing loudly, doesn't it!
-「うん、すごく気持ち良さそうに歌ってたよー」=Yeah, you looked like you were having a blast.
-「わぁぁ、そげんこと言われると恥ずかしい……でも、えへへ、本当に気持ちいいん。私、君と会うまで、歌うことがこげん楽しいとか思ったことなかったちゃもん」=Waaa, that's embarrassing... but, ehehe, it really did feel great. Before I met you, I never thought singing could be this fun.
-「正直、カラオケとか……年に数回行く程度のものやと思っとったし……自分がこげん大きい声で歌うことになるとか……想像もしとらんかったん」=Honestly, stuff like karaoke... thinking that it's something you'd go do a few times a year... singing my heart out like this... I never even in my wildest dreams thought it'd be like this.
-「あはは、だったらやっぱり今回もカラオケに誘って正解だったね。[H名]、歌上手なんだし……もっと歌わないともったいないよ」=Ahaha, then I guess it was the correct choice to invite you out to karaoke today too. You're so good at singing too... It'd just be a waste if you don't sing even more.
-「じょ、上手なわけないんっ……君の前やけん、好きなように歌えるだけなん……これでもまだちょっと恥ずかしいとよ？」=I-I'm not good at it or anything--... It's just that since I'm with you, I can sing however I want, without worries... But even then it feels a bit embarrassing still, you know?
-「えー、そうなの？　もう全然余裕で歌ってると思ってた。今の曲なんかもすごくのびのびしてたよ」=Ehh, is that so? I thought you were super carefree though. Even just that last song, you looked super at-ease.
-「うぅぅ……私、調子に乗るとすぐにハメを外すタイプやけん……恥ずかしい……」=Uuu... I'm the type to get carried away way too easily, and cuts completely loose... so embarrassing...
-「あああ、そういう意味じゃないよ？　それに……俺の前でハメを外してくれるのは嬉しいし」=Aaah, I didn't mean it that way, you know? Not to mention... knowing that you can cut loose in front of me, makes me happy.
-「あ、あはは……うん、君がそう言ってくれるんやったら……これからもそうするね。恥ずかしいとこもいっぱい見せると思うけど……笑わんどってね」=A-Ahaha... yeah, if that's how you feel... I'll keep that up. I feel like I'm going to end up showing you lots of my embarrassing sides if I do so... don't laugh, okay?
-「はは、俺の方こそ。恥ずかしいところばっかりで……というか、あんなに上手な歌を聞かされたら、そもそも次に歌うのが恥ずかしい」=Haha, I should be the one saying that. I'm just full of embarrassing sides... heck, now that you did such a good job on that last song, it feels embarrassing to take the next one.
-「えー、そげんことないよー。君、歌めっちゃ上手やもん！　えーっと……次の曲は何入れたと？」=Eeh, that's not true. You're super good at singing! Erhm... what song did you put in?
-「あ……ごめん。今の[H名]の歌に聞き入っちゃって選曲してなかった！　すぐに選ぶから待ってて！」=Ah... sorry. I got really lost in your singing there, [H名], I forgot to pick a song! I'll pick one right away so just wait a bit!
-「あはは、慌てんでいいとよー。こうやってお話するんもめっちゃ楽しいけん！」=Ahaha, you don't need to rush. Just chatting like this is super fun too!
-（[H名]、今日も楽しんでくれてるみたいで良かった。恥ずかしいところを見せないよう、自信のある曲を選ぼう）=([H名], she seems like she's enjoying herself. I'm glad. Let's pick a song I'm good at, so that I don't put out a pathetic sight.)
+//「絶対絶対絶対絶対負けない 気持ちがある♪　強く強く強く強く 想いをこめたら♪」=
+//（おお！　すごい、前に来た時より上手になってる！）=
+//（これはずっと聴いていたくなっちゃうかも……）=
+//………………=
+//「はぁぁ、お疲れ様でしたっ！　えへへ、やっぱり大きい声出すのって気持ちいいっちゃねぇ！」=
+//「うん、すごく気持ち良さそうに歌ってたよー」=
+//「わぁぁ、そげんこと言われると恥ずかしい……でも、えへへ、本当に気持ちいいん。私、君と会うまで、歌うことがこげん楽しいとか思ったことなかったちゃもん」=
+//「正直、カラオケとか……年に数回行く程度のものやと思っとったし……自分がこげん大きい声で歌うことになるとか……想像もしとらんかったん」=
+//「あはは、だったらやっぱり今回もカラオケに誘って正解だったね。[H名]、歌上手なんだし……もっと歌わないともったいないよ」=
+//「じょ、上手なわけないんっ……君の前やけん、好きなように歌えるだけなん……これでもまだちょっと恥ずかしいとよ？」=
+//「えー、そうなの？　もう全然余裕で歌ってると思ってた。今の曲なんかもすごくのびのびしてたよ」=
+//「うぅぅ……私、調子に乗るとすぐにハメを外すタイプやけん……恥ずかしい……」=
+//「あああ、そういう意味じゃないよ？　それに……俺の前でハメを外してくれるのは嬉しいし」=
+//「あ、あはは……うん、君がそう言ってくれるんやったら……これからもそうするね。恥ずかしいとこもいっぱい見せると思うけど……笑わんどってね」=
+//「はは、俺の方こそ。恥ずかしいところばっかりで……というか、あんなに上手な歌を聞かされたら、そもそも次に歌うのが恥ずかしい」=
+//「えー、そげんことないよー。君、歌めっちゃ上手やもん！　えーっと……次の曲は何入れたと？」=
+//「あ……ごめん。今の[H名]の歌に聞き入っちゃって選曲してなかった！　すぐに選ぶから待ってて！」=
+//「あはは、慌てんでいいとよー。こうやってお話するんもめっちゃ楽しいけん！」=
+//（[H名]、今日も楽しんでくれてるみたいで良かった。恥ずかしいところを見せないよう、自信のある曲を選ぼう）=

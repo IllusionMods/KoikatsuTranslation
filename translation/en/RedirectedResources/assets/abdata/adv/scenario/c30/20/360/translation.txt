@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「……歌った後だからかしら？　なんだかすごく疲れちゃった」=...Is it because I was singing? I'm pretty tired right now.
-「だね……時間ギリギリまで休んで……あっ！」=Right... We were going at it till the very end... Ah!
-「[H名]！　延長時間ギリギリになってる！　早く支度して出ないと！」=[H名]! It's almost time until they'll ask if we want an extension! We gotta get ready to leave!
-「え、本当！？　え、えーと、準備準備……」=Eh, really!? U-um, lemme grab my stuff real quick...
-「先に会計してくるよ！」=I'll go first to pay the bill!
+//「……歌った後だからかしら？　なんだかすごく疲れちゃった」=
+//「だね……時間ギリギリまで休んで……あっ！」=
+//「[H名]！　延長時間ギリギリになってる！　早く支度して出ないと！」=
+//「え、本当！？　え、えーと、準備準備……」=
+//「先に会計してくるよ！」=

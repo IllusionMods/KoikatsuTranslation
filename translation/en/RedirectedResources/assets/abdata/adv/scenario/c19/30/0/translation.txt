@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「あの、ごめん、今ってお話しできるかな？」=Uhm, sorry, could you spare some time for a quick chat?
-（……あれ、返事がない。聞こえてなかったのかな？）=(...Huh, no response. Did she not hear me?)
-「おーい、聞こえてるー？」=Hey~, am I getting through to you?
-「……わっ？　……あ、あなたって……この間転校してきた……」=...Wah--? ...Y-You're... that transfer...
-「うん、その転校生。はじめましてを言いに来たんだけど、驚かせちゃってごめんね」=Yeah, I'm that transfer student. I came to say hi, sorry if I caught you off-guard.
-「う、ううん、こちらこそごめんなさい」=N-No, if anything, it should be me apologizing.
-「私、考え事をしてると周りが見えなくなっちゃって……」=When I'm thinking about stuff, I kinda shut off the outside world...
+//「あの、ごめん、今ってお話しできるかな？」=
+//（……あれ、返事がない。聞こえてなかったのかな？）=
+//「おーい、聞こえてるー？」=
+//「……わっ？　……あ、あなたって……この間転校してきた……」=
+//「うん、その転校生。はじめましてを言いに来たんだけど、驚かせちゃってごめんね」=
+//「う、ううん、こちらこそごめんなさい」=
+//「私、考え事をしてると周りが見えなくなっちゃって……」=

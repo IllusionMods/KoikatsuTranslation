@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「それじゃいくよ～」=Well then, here I go~
-「はーい！　……あん！　もう、ボールが胸のところで跳ねちゃう」=Okay! ...Ahn! Jeez, the ball hit my chest dead center.
-「ちゃんと手のこの部分でボールを受けるようにして。ほら、ここ、わかる？」=Make sure to hit the ball back with this part of your hand. See here, you got it?
-「……んもう、君のためにわざとやってるの」=...Jeez, I did it on purpose for you.
+//「それじゃいくよ～」=
+//「はーい！　……あん！　もう、ボールが胸のところで跳ねちゃう」=
+//「ちゃんと手のこの部分でボールを受けるようにして。ほら、ここ、わかる？」=
+//「……んもう、君のためにわざとやってるの」=

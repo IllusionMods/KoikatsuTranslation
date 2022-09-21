@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-なし=None
-線ハイライト=Line Highlight
-丸ハイライト=Circle Highlight
-雷ハイライト=Lightning Bolt Highlight
-帯ハイライト=Band Highlight
-四角ハイライト=Square Highlight
+//なし=
+//線ハイライト=
+//丸ハイライト=
+//雷ハイライト=
+//帯ハイライト=
+//四角ハイライト=

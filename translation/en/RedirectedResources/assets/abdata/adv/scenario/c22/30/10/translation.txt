@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「もちろん入るよー！　コイカツ部、ずっと興味あったんだ！」=I'll join, for sure! I've had an interest in your club since you started it!
-「本当に？　良かった！」=Really? Great!
-「コイカツ部って、具体的にはどんなことするのかな？」=What sort of stuff do you do at your club?
-「うーん、恋愛ゴッコっぽいことをする部活かな？　具体的に説明出来なくて申し訳ないけど……」=Mm, playing at romance, I'd say? Sorry for not being able to put it in less wishy-washy terms...
-「ううんっ！　恋愛ゴッコ、楽しそう！　私、そういうの疎いから……これから色々教えてくださいっ、部長っ！」=No--! Playing at romance sounds fun! I'm a dunce when it comes to that stuff... so please teach me lots--, prez--!
+//「もちろん入るよー！　コイカツ部、ずっと興味あったんだ！」=
+//「本当に？　良かった！」=
+//「コイカツ部って、具体的にはどんなことするのかな？」=
+//「うーん、恋愛ゴッコっぽいことをする部活かな？　具体的に説明出来なくて申し訳ないけど……」=
+//「ううんっ！　恋愛ゴッコ、楽しそう！　私、そういうの疎いから……これから色々教えてくださいっ、部長っ！」=

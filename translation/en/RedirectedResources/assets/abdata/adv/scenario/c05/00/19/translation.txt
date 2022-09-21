@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「おはよう。話があるなら後で聞くよ？」=“Good morning. If you want to talk, I'll hear you out later, okay?”
+//「おはよう。話があるなら後で聞くよ？」=

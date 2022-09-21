@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-魔法学園制服上着=Magic Academy Uniform Top
+//魔法学園制服上着=

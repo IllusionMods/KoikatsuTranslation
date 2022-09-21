@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「えっと、もう終わりなのかしら？　私まだ全然満足できていないのだけれど」=“Um, that's it? I'm not satisfied at all though.”
+//「えっと、もう終わりなのかしら？　私まだ全然満足できていないのだけれど」=

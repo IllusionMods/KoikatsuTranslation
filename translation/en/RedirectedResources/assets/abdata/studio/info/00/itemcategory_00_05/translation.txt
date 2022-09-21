@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-日用品=Daily Life
-雑貨=General Goods
-電化製品=Appliances
-医療=Medical Care
+//日用品=
+//雑貨=
+//電化製品=
+//医療=

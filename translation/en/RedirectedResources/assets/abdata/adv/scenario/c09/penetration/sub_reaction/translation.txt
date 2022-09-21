@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「なになに？　私達の女の色香に釣られちゃったって訳？」=“What~? Reeled in by our womanly charm~?”
+//「なになに？　私達の女の色香に釣られちゃったって訳？」=

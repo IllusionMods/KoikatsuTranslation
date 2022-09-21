@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「いつから……どこから、見てたの？」=“Since when... which part, did you start watching from?”
+//「いつから……どこから、見てたの？」=

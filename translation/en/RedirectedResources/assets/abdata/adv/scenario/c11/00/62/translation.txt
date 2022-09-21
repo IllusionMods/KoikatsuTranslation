@@ -1,13 +1,13 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-………………=.........
-…………=......
-……=...
-「あらあら、あなたのお家が見えてきちゃったわ」=“My oh my, your place's already come into view.”
-CHOICE:「よかったら、ウチに寄ってく？」=If you wanna, how about stopping by my place?
-CHOICE:「それじゃ、また」=Well then, see ya.
-「よかったら、ウチに寄ってく？　お茶ぐらいは出すよ」=“If you wanna, how about you stop by my place? Lemme get you some tea atleast.”
-「まぁ、あなたのお部屋に招待してくれるの？　嬉しいわ」=“My, you'll show me inside? I'm so happy”
-「それじゃ、また」=“Well then, see ya.”
-「もう……帰っちゃうの？　そうね……色々やることがあるものね……」=“Dummy... already gonna go home? Suppose it's fair enough... you probably have things to do...”
+//………………=
+//…………=
+//……=
+//「あらあら、あなたのお家が見えてきちゃったわ」=
+//CHOICE:「よかったら、ウチに寄ってく？」=
+//CHOICE:「それじゃ、また」=
+//「よかったら、ウチに寄ってく？　お茶ぐらいは出すよ」=
+//「まぁ、あなたのお部屋に招待してくれるの？　嬉しいわ」=
+//「それじゃ、また」=
+//「もう……帰っちゃうの？　そうね……色々やることがあるものね……」=

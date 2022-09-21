@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「好き合う者同士が体を重ね合うようになるのは、至って自然なことです。ですから問題はありません」=It's perfectly normal for two lovers to eventually join their bodies as well. That's why, I don't mind at all.
-「でも……本当にいいの？」=But... Are you sure?
-「あなたとお付き合いを始めた時から、心の準備はできておりましたので……私の決心をどうぞ無駄になさらないで下さい」=I've been mentally prepared for this ever since we started dating so... please don't make my determination be for naught.
+//「好き合う者同士が体を重ね合うようになるのは、至って自然なことです。ですから問題はありません」=
+//「でも……本当にいいの？」=
+//「あなたとお付き合いを始めた時から、心の準備はできておりましたので……私の決心をどうぞ無駄になさらないで下さい」=

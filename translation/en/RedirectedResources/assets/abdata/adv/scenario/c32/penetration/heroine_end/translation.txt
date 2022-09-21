@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「こういう楽しいハプニングは大歓迎です。とても楽しかったてすよ」=I'm always up for this sort of unexpected stuff. It was a ton of fun.
+//「こういう楽しいハプニングは大歓迎です。とても楽しかったてすよ」=

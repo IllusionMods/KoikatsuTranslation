@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「ありがとうございます。いったい、どんな物なのでしょう」=“Thank you very much. Just what sort of thing is it?”
+//「ありがとうございます。いったい、どんな物なのでしょう」=

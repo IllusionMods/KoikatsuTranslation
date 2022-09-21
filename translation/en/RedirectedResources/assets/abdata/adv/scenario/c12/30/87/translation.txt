@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-………………=.........
-…………=......
-……=...
-「うー、顔が熱いぃ……これしばらく治んないやつだよぉ……」=“Uuu, my face is burning up... and I don't think it's gonna stop...”
+//………………=
+//…………=
+//……=
+//「うー、顔が熱いぃ……これしばらく治んないやつだよぉ……」=

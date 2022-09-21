@@ -1,19 +1,19 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「どうしたの？　さっきからスマホ気にしてばかりだけど……」=“What's wrong? You've been sneaking peeks at your phone for a while...”
-「そろそろ、時間。フロントから、連絡が来そう……」=“It's almost, time. They should, call us any time...”
-「ああ、もうそんな時間なのか」=“Aah, it's already that late, huh?”
-CHOICE:『延長して、もうちょっと歌おうよ』=Let's extend, and sing more.
-CHOICE:『帰る仕度をしよっか』=Let's get ready to head out.
-「もっと歌ってたいから、延長してもいい？」=“I wanna sing some more so, mind if we extend it?”
-「……うん。私も、歌い足りないかも」=“...Yeah, I've not had enough either, I think.”
-「じゃあ延長するね。ついでにさ、フードも頼んじゃおう」=“Let's extend then. Let's order some food too, while we're at it.”
-「それだけ歌ったってことだよね。今日は一緒に歌えてよかったよ」=“We just sang that much, didn't we? I'm glad we sang together today.”
-「うん……次来る、ときは……もう少し長め、だね」=“Yeah... next time, we come... let's extend it a bit more, okay?”
-「だね。帰り支度始めようか」=“Yeah. Let's get our stuff ready.”
-「それじゃあ帰る仕度を……あっ、でもあと少しだけ時間あるよ」=“Well then, let's get ready to... ah--, we still have some time on the clock though.”
-「最後に[H名]が歌ったら？」=“Why don't you take the last one?”
-「ん、それなら……」=“Nn, in that case...”
-「初めて感じた　胸の痛みは　絆深くなる証～♪」=“This novel pain in my heart, that I'm feeling, is proof of our bond~♪”
-「いいぞっ、[H名]～！」=“You're doing great--, [H]~!”
+//「どうしたの？　さっきからスマホ気にしてばかりだけど……」=
+//「そろそろ、時間。フロントから、連絡が来そう……」=
+//「ああ、もうそんな時間なのか」=
+//CHOICE:『延長して、もうちょっと歌おうよ』=
+//CHOICE:『帰る仕度をしよっか』=
+//「もっと歌ってたいから、延長してもいい？」=
+//「……うん。私も、歌い足りないかも」=
+//「じゃあ延長するね。ついでにさ、フードも頼んじゃおう」=
+//「それだけ歌ったってことだよね。今日は一緒に歌えてよかったよ」=
+//「うん……次来る、ときは……もう少し長め、だね」=
+//「だね。帰り支度始めようか」=
+//「それじゃあ帰る仕度を……あっ、でもあと少しだけ時間あるよ」=
+//「最後に[H名]が歌ったら？」=
+//「ん、それなら……」=
+//「初めて感じた　胸の痛みは　絆深くなる証～♪」=
+//「いいぞっ、[H名]～！」=

@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-桔梗の紋(白)=Kikyou Crest (White)
-桔梗の紋(黒)=Kikyou Crest (Black)
-三つ巴(白)=Tomoe Triplet (White)
-三つ巴(黒)=Tomoe Triplet (Black)
+//桔梗の紋(白)=
+//桔梗の紋(黒)=
+//三つ巴(白)=
+//三つ巴(黒)=

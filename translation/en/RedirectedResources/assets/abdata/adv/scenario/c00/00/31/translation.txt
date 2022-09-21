@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「あら……ありがとう。……どういう意味かはわからないけど」=Oh my... Thanks... I don't really know what you were aiming for with this though.
+//「あら……ありがとう。……どういう意味かはわからないけど」=

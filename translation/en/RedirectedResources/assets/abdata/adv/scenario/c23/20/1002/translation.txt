@@ -1,19 +1,19 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「……ちょっと落ち着かないな」=“...Can't seem to calm down.”
-（[H名]は大丈夫かな？　けっこうテンパってたけど……）=(I wonder if [H] is okay? She really seemed to be a bit too tense there...)
-（いよいよ出番か……）=(Showtime, huh...)
-（うぉ、立派なチャペルだ……これを見たら[H名]はますます緊張しちゃいそうだ）=(Uwah, what a lovely chapel... She's just gonna get even more nervous, looking at this)
-（男として、[H名]の彼氏として俺がしっかりしないと！）=(I'll have to take the lead, for the both of us, as a man, as her man!)
-（ふぅ……少し緊張してたけど……変ではなかったよな？）=(Fuu... I got a bit nervous there... but it was probably fine, right?)
-モブ=Mob
-「これより新婦が入場致します。後方の扉口をご覧ください」=“And now, the bride will make her entrance. Please pay attention to the main door.”
-（[H名]……）=([H]...)
-目を向けた先に、純白のウェディングドレスに身を包んだ[H名]がいた。=When I turned my eyes, [H] was standing there, clad in a snow white dress.
-その美しさに思わず心を奪われ、呆然と見つめる。=I couldn't help but stare in a daze, stunned by her sheer beauty.
-[H名]自身はドレスを似合ってないと思ってるかもしないが、そんなことは決してない。=She's probably got it in her head that it doesn't suit her at all, but that's not even remotely true. Not one bit.
-「……本当によく似合ってる」=“...It looks lovely on you.”
-「へ、変じゃないかな？」=“I-It's not weird, is it?”
-「とんでもない。凄く綺麗だよ」=“Not at all. You look beautiful.”
-「えへ、へ……ありがとう」=“Eheh, heh... thank you.”
+//「……ちょっと落ち着かないな」=
+//（[H名]は大丈夫かな？　けっこうテンパってたけど……）=
+//（いよいよ出番か……）=
+//（うぉ、立派なチャペルだ……これを見たら[H名]はますます緊張しちゃいそうだ）=
+//（男として、[H名]の彼氏として俺がしっかりしないと！）=
+//（ふぅ……少し緊張してたけど……変ではなかったよな？）=
+//モブ=
+//「これより新婦が入場致します。後方の扉口をご覧ください」=
+//（[H名]……）=
+//目を向けた先に、純白のウェディングドレスに身を包んだ[H名]がいた。=
+//その美しさに思わず心を奪われ、呆然と見つめる。=
+//[H名]自身はドレスを似合ってないと思ってるかもしないが、そんなことは決してない。=
+//「……本当によく似合ってる」=
+//「へ、変じゃないかな？」=
+//「とんでもない。凄く綺麗だよ」=
+//「えへ、へ……ありがとう」=

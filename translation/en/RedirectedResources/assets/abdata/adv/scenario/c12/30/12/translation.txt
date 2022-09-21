@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「うっ……遂に来たって感じかな……」=“Uu--... the day's finally come...”
-「本気なんだ。ダメかな？」=“I'm serious. Could we?”
-「わかってる。断ったりしないよ。いつかはって思ってたし……でもその……あたし初めてなんだ……」=“I know you are. I'm not going to turn you down. I've always thought about it myself too... but, you know... I'm a virgin...”
-「だ、だから優しくだぞ？　ぅ、ぁうぅっ、こういうの……本当に言う事になるなんて……ぅぅぅっ」=“S-So be gentle, okay? Uu, aauuu--, to think I'd... actually say those words... uuuuu--”
+//「うっ……遂に来たって感じかな……」=
+//「本気なんだ。ダメかな？」=
+//「わかってる。断ったりしないよ。いつかはって思ってたし……でもその……あたし初めてなんだ……」=
+//「だ、だから優しくだぞ？　ぅ、ぁうぅっ、こういうの……本当に言う事になるなんて……ぅぅぅっ」=

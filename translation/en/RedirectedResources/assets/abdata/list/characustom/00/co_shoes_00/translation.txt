@@ -1,23 +1,23 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-なし=None
-ローファー=Loafers
-上履き=Uwabaki
-運動靴=Sneakers
-ランニングシューズ=Running Shoes
-チアブーツ=Cheerleader Boots
-小悪魔パンプス=Devil Pumps
-アイドルパンプス=Idol Pumps
-リボンパンプス=Ribbon Pumps
-サンダル=Sandals
-サイドリボンパンプス=Side-Ribbon Pumps
-パンプス=Pumps
-ビーチサンダル=Beach Sandals
-フラワーサンダル=Flower Sandals
-便所サンダル=Bathroom Sandals
-ベルトブーツ=Belt Boots
-リボンストラップサンダル=Ribbon-Strap Sandals
-草履=Zori
-ハイカットスニーカー=High-Cut Sneakers
-ダンスシューズ=Dance Shoes
+//なし=
+//ローファー=
+//上履き=
+//運動靴=
+//ランニングシューズ=
+//チアブーツ=
+//小悪魔パンプス=
+//アイドルパンプス=
+//リボンパンプス=
+//サンダル=
+//サイドリボンパンプス=
+//パンプス=
+//ビーチサンダル=
+//フラワーサンダル=
+//便所サンダル=
+//ベルトブーツ=
+//リボンストラップサンダル=
+//草履=
+//ハイカットスニーカー=
+//ダンスシューズ=

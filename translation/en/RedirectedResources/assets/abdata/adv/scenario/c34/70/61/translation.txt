@@ -1,19 +1,19 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「Ｈｉｙａ，ｍｙ　ｓｗｅｅｔ♡　ゴメンネ、待ッタ？」=Hiya, my sweetheart♡ Sorry, did you wait long?
-「あ、[H]！　大丈夫だよ。それより今日も可愛いね、ｖｅｒｙ　ｃｕｔｅ！」=Ah, [H名]! It's alright. More importantly, you're looking very cute today!
-「モ～♡　アナタも、素敵ダヨ♡　Ｌｅｔ’ｓ　ｈａｖｅ　ａ　Ｗｏｎｄｅｒｆｕｌ　ｄａｙ♡　最高の一日、シヨウネ♡」=Jeez~♡ You look lovely too♡ Let's have a wonderful day today♡
-「ネ、ネェ……手、繋いデモ、イイカナ？」=H-Hey... Can we, hold hands?
-「あ……ごめんね、女の子に言わせちゃった。じゃあ、せめて俺から……」=Ah... Sorry, I ought to bring up that sort of thing, as the guy. Then, I'll atleast...
-「～～っ♡　ワタシたち、ｌｏｖｅｌｏｖｅダネ♡　ズット、ギュッてシテテ、ホシイノ♡」=~~~♡ We're so lovey-dovey♡ I want to hold your hand forever♡
-「うん、もう離さないよ」=Yeah, I won't let you go anymore.
-「Ｗｏｏ♡　アナタ、カッコイイ過ぎダヨ～♡　ズルイナ、ズルイ～♡」=Woo♡ You're way too cool~♡ So unfair, so unfair~♡
-（[H]の可愛い所が見れたのは嬉しいけど、恥ずかしすぎて顔から火が出そうだ……）=(I'm really glad I got to see her cute sides but, I'm blushing so much I feel like my face is gonna burn up...)
-「Ｏｈ，ｔｉｍｅ　ｌｉｍｉｔデース……今日は楽しいコト、タクサンアリガトネ♡」=Oh, it's already time... thanks for all the fun stuff today♡
-CHOICE:「まだ一緒にいたいな」=I want to be together a bit longer.
-CHOICE:「俺も楽しかったよ、それじゃあね」=I had a blast too, well then, see ya later.
-「まだ一緒にいたいな」=I want to be together a bit longer.
-「っ！　……ワタシもダヨ……♡　今日ハ、ｇｏ　ｈｏｍｅシナクテイイ、ノカナ？　フフ♡」=--! ...Me too...♡ I wonder, do I really have to go home today? Fufu♡
-「俺も楽しかったよ、それじゃあね」=I had a blast too, well then, see ya later.
-「ドッチも楽しい、幸せダネ♡　ソレジャ、マタネ♡」=It was really fun, I'm really happy♡ Well then, later♡
+//「Ｈｉｙａ，ｍｙ　ｓｗｅｅｔ♡　ゴメンネ、待ッタ？」=
+//「あ、[H]！　大丈夫だよ。それより今日も可愛いね、ｖｅｒｙ　ｃｕｔｅ！」=
+//「モ～♡　アナタも、素敵ダヨ♡　Ｌｅｔ’ｓ　ｈａｖｅ　ａ　Ｗｏｎｄｅｒｆｕｌ　ｄａｙ♡　最高の一日、シヨウネ♡」=
+//「ネ、ネェ……手、繋いデモ、イイカナ？」=
+//「あ……ごめんね、女の子に言わせちゃった。じゃあ、せめて俺から……」=
+//「～～っ♡　ワタシたち、ｌｏｖｅｌｏｖｅダネ♡　ズット、ギュッてシテテ、ホシイノ♡」=
+//「うん、もう離さないよ」=
+//「Ｗｏｏ♡　アナタ、カッコイイ過ぎダヨ～♡　ズルイナ、ズルイ～♡」=
+//（[H]の可愛い所が見れたのは嬉しいけど、恥ずかしすぎて顔から火が出そうだ……）=
+//「Ｏｈ，ｔｉｍｅ　ｌｉｍｉｔデース……今日は楽しいコト、タクサンアリガトネ♡」=
+//CHOICE:「まだ一緒にいたいな」=
+//CHOICE:「俺も楽しかったよ、それじゃあね」=
+//「まだ一緒にいたいな」=
+//「っ！　……ワタシもダヨ……♡　今日ハ、ｇｏ　ｈｏｍｅシナクテイイ、ノカナ？　フフ♡」=
+//「俺も楽しかったよ、それじゃあね」=
+//「ドッチも楽しい、幸せダネ♡　ソレジャ、マタネ♡」=

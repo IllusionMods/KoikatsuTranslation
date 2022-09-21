@@ -1,24 +1,24 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「……ふぅ。なにごともなく無事に歌い終わりました」=...Fuu. I managed to sing to the end without any issues.
-「そんなに心配しないでも大丈夫だって。この調子で楽しんじゃおう！　じゃあ次は俺が歌うね」=You really don't need to worry so much. Let's keep the show going! I'll go next, okay?
-「はい。……でも、私のリモコンは使わないほうがいいと思いますよ」=Okay. ...But, I think you should use a different remote, don't use the one I used.
-「なんで？　そんなにこっちのと違いがあるようには見えないけれど」=Why? I can't see much of a difference between the one you used and this one.
-「私が使っていたリモコンなので、なにか悪いことが起こる可能性が……」=It was in my hand so, the possibility that something bad might happen is...
-「大丈夫だよ。ほら、カラオケのリモコンって結構丈夫そうだし」=It's alright. You know, the remotes they have here are pretty durable too.
-「でも……[P名]さんに何かあったら……」=But... if something happens to you...
-「何か起こったなら、それはそれでいいよ」=If something happens, then that'll be that.
-「そんなっ……怪我でもしたら……」=Don't say that--... if you get hurt...
-「もしなにか起こっても、[H名]のときに起こらなかった分ラッキーだよ」=Even if something happens, the fact that it didn't happen while you were holding it would be blessing enough.
-「もう、強がらないでくださいっ」=Jeez, don't be like that, you don't have to put on such a tough act for--
-「そうじゃないよ。ね、[H名]の使ってたマイクも貸して？」=That's not it. Hey, hand that mic you were using to me too?
-「は、はい……」=O-Okay...
-「よしっ、これで[H名]がここで使ってたものは全部俺も使ったから、[H名]の不幸も俺が共有できるってことだ」=Alright--, now that I've used everything here that you used, I can also carry some of your bad luck.
-「これで一蓮托生ってやつだよ。良いことも悪いことも二人で共有しようよ」=We're in the same boat now. Let's share all the good things and the bad things together, okay?
-「もう……ありがとうございます」=Dummy... thank you very much.
-「あははっ。そうだ、ポテトでも頼まない？」=Ahaha--. Right, wanna order some fries?
-「いいですね。歌って少しお腹が空いていたところだったんです」=Sounds good. I was just feeling a bit peckish from all that singing.
-「これでさらに一蓮托生……あっ、同じ釜の飯を食った間柄、とも言えますね？」=With this, forget the same boat, we'll be in the same quarters... ah--, one could say, we'll be eating from the same pot, no?
-「ただのポテトだけどね。なんならポテトが来たら食べさせあいっこでもしようか？　きっと楽しいよ」=Though they'll be just fries in the end. Now that it's come to this, how about we feed the fries to each other? I'm sure it'll be fun.
-「ちょっと恥ずかしいですけど、それは確かに楽しそうです」=Sounds a bit embarrassing but, certainly it does seem fun.
+//「……ふぅ。なにごともなく無事に歌い終わりました」=
+//「そんなに心配しないでも大丈夫だって。この調子で楽しんじゃおう！　じゃあ次は俺が歌うね」=
+//「はい。……でも、私のリモコンは使わないほうがいいと思いますよ」=
+//「なんで？　そんなにこっちのと違いがあるようには見えないけれど」=
+//「私が使っていたリモコンなので、なにか悪いことが起こる可能性が……」=
+//「大丈夫だよ。ほら、カラオケのリモコンって結構丈夫そうだし」=
+//「でも……[P名]さんに何かあったら……」=
+//「何か起こったなら、それはそれでいいよ」=
+//「そんなっ……怪我でもしたら……」=
+//「もしなにか起こっても、[H名]のときに起こらなかった分ラッキーだよ」=
+//「もう、強がらないでくださいっ」=
+//「そうじゃないよ。ね、[H名]の使ってたマイクも貸して？」=
+//「は、はい……」=
+//「よしっ、これで[H名]がここで使ってたものは全部俺も使ったから、[H名]の不幸も俺が共有できるってことだ」=
+//「これで一蓮托生ってやつだよ。良いことも悪いことも二人で共有しようよ」=
+//「もう……ありがとうございます」=
+//「あははっ。そうだ、ポテトでも頼まない？」=
+//「いいですね。歌って少しお腹が空いていたところだったんです」=
+//「これでさらに一蓮托生……あっ、同じ釜の飯を食った間柄、とも言えますね？」=
+//「ただのポテトだけどね。なんならポテトが来たら食べさせあいっこでもしようか？　きっと楽しいよ」=
+//「ちょっと恥ずかしいですけど、それは確かに楽しそうです」=

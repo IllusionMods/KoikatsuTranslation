@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「いいわよ、どこへ連れていってくれるの？」=Sure, where are you going to take me?
-「まだナイショ」=That's still a secret.
-「ふぅん。そんな風に言われたら期待しちゃうわよ？　ふふふ」=Hmmmmm, If you say it like that, I can't help but anticipate something, you know? Fufufu~
+//「いいわよ、どこへ連れていってくれるの？」=
+//「まだナイショ」=
+//「ふぅん。そんな風に言われたら期待しちゃうわよ？　ふふふ」=

@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「こんなところで何をしているの！？　ダメでしょ～」=“What are you doing in here!? You know you can't be here~”
+//「こんなところで何をしているの！？　ダメでしょ～」=

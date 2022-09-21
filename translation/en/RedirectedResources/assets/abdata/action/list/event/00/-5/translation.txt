@@ -1,16 +1,16 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-初めての出会い=First Meeting
-あの娘は……？=Is That Girl...?
-偶然の再会=A Coincidental Reunion
-やってみたいことは？=What Would You Like to Do?
-図書館すたでぃんぐ=Syudying at the Library
-学園ライブ=School Live
-経験不足で……？=Lack of Experience with...?
-いよいよコイカツ！=Finally, Koikatsu!
-恋、戸惑い=Love, Confused
-離れ離れ=Separated
-二人きりの保健室=The Two of Us Alone in the Infirmary
-告白の答えは？=What's the Answer to my Confession?
-告白もう一度=Confession Once More
+//初めての出会い=
+//あの娘は……？=
+//偶然の再会=
+//やってみたいことは？=
+//図書館すたでぃんぐ=
+//学園ライブ=
+//経験不足で……？=
+//いよいよコイカツ！=
+//恋、戸惑い=
+//離れ離れ=
+//二人きりの保健室=
+//告白の答えは？=
+//告白もう一度=

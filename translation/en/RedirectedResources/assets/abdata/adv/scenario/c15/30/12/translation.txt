@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「おー、やっとその気になったかー」=Ooh, finally came around to it, huh?
-「え、やっと、って？」=Eh, "finally"?
-「もー、こっちはガマンの限界だったんだぞ！」=Jeez, I was nearly at the end of my rope here, you know!
-「あたしの初めて……ちゃんともらってくれよな？」=Take my... first time, properly, okay?
+//「おー、やっとその気になったかー」=
+//「え、やっと、って？」=
+//「もー、こっちはガマンの限界だったんだぞ！」=
+//「あたしの初めて……ちゃんともらってくれよな？」=

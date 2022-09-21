@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「え？　まぁ、別にいいわよ」=“Eh? Well, I don't mind, I guess.”
-「ほんとに？　ありがとう！　嬉しいなあ～」=“Really? Thanks! I'm so happy~”
-「た、たかが一緒に帰るくらいで大げさすぎよ！」=“W-We're just going home together, it's not that big a deal!”
+//「え？　まぁ、別にいいわよ」=
+//「ほんとに？　ありがとう！　嬉しいなあ～」=
+//「た、たかが一緒に帰るくらいで大げさすぎよ！」=

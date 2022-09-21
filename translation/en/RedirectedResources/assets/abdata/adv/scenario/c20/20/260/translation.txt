@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「ま、まさか……本当にしちゃうなんて……」=T-To think... you'd really do it...
-「ごめん。自分を抑えられなかったんだ。しかも、恥ずかしがる[H名]がかわいくて余計に……」=Sorry. I really couldn't hold myself back. Not to mention, your embarrassed expression was just so cute, I...
-「うぅ……ほ、本当に……恥ずかしかったんですからね！」=Uuu... I-It really was... embarrassing, just so you know!
+//「ま、まさか……本当にしちゃうなんて……」=
+//「ごめん。自分を抑えられなかったんだ。しかも、恥ずかしがる[H名]がかわいくて余計に……」=
+//「うぅ……ほ、本当に……恥ずかしかったんですからね！」=

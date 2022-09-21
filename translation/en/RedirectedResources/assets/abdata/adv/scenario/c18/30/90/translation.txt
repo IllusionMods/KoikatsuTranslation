@@ -1,19 +1,19 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「あの！　お願いしたいんですけど！」=Uhm! I have a request!
-「どうしたの？　改まって……」=Why so formal all of a sudden...
-「あなたの愛称を考えてきたんです！　なので、ちょっと呼んでみたくて……」=I've thought of a nickname for you! So, I wanted to call you by it...
-「え、本当？　すごい偶然……俺も最近[H]の愛称を考えてたんだ」=Eh, really? What a coincidence... I've been thinking of one for you for a while now too, [H].
-「あっ、同じことを考えてたなんて……思いが通じ合ってるみたいで嬉しいです！　はっ、思いだけでなく私の不幸まで伝わる可能性が……！」=Ah--, to think we were of the same mind... it feels like our hearts are one, I'm so happy! Hah--, the possibility that even my bad luck might spread to you...!
-「はは……流石にそんな心配はしなくていいよ。まあ、もし伝わったとしても俺は気にしないから」=Haha... you really don't have to worry so much. Well, even if it did spread to me, I wouldn't mind.
-「それより、せっかくお互い愛称を考えてきたんだから、呼び合ってみようよ」=Rather than that, since we thought of nicknames for each other, let's use them.
-「は、はい！　それじゃあ、言いますね」=Y-Yes! Well then, I'll say it, okay?
-「……[Pあだ名]」=...[Pあだ名].
-「[Hあだ名]」=[Hあだ名].
-「あぁ、呼んじゃいました……私、呼んじゃいました！」=Aah, I said it... I said it, me!
-「なんだか面と向かうと、少し恥ずかしいね……」=It feels a bit embarrassing, now that we've actually done it, doesn't it...
-「はい……照れくさいですけど、とても幸せです。あの、また呼んでみても、いい、ですか？」=Yes... I'm extremely embarrassed, but also really happy. Uhm, is it alright, if I call you that again?
-「もちろん！　というか、これから愛称で呼び合おうよ！」=Of course! Heck, let's call each other that all the time!
-「えっと……本当はそうしたいんですけど、ずっと呼び合っていたら幸せすぎて死んじゃいそうになるので……」=Erhm... I actually would love to do that but, if we always called each other like that, I'll die from excessive happiness so...
-（反応が可愛いなぁ……）=(Her reactions are so cute...)
+//「あの！　お願いしたいんですけど！」=
+//「どうしたの？　改まって……」=
+//「あなたの愛称を考えてきたんです！　なので、ちょっと呼んでみたくて……」=
+//「え、本当？　すごい偶然……俺も最近[H]の愛称を考えてたんだ」=
+//「あっ、同じことを考えてたなんて……思いが通じ合ってるみたいで嬉しいです！　はっ、思いだけでなく私の不幸まで伝わる可能性が……！」=
+//「はは……流石にそんな心配はしなくていいよ。まあ、もし伝わったとしても俺は気にしないから」=
+//「それより、せっかくお互い愛称を考えてきたんだから、呼び合ってみようよ」=
+//「は、はい！　それじゃあ、言いますね」=
+//「……[Pあだ名]」=
+//「[Hあだ名]」=
+//「あぁ、呼んじゃいました……私、呼んじゃいました！」=
+//「なんだか面と向かうと、少し恥ずかしいね……」=
+//「はい……照れくさいですけど、とても幸せです。あの、また呼んでみても、いい、ですか？」=
+//「もちろん！　というか、これから愛称で呼び合おうよ！」=
+//「えっと……本当はそうしたいんですけど、ずっと呼び合っていたら幸せすぎて死んじゃいそうになるので……」=
+//（反応が可愛いなぁ……）=

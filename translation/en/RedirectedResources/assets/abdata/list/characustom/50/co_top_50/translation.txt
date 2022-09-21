@@ -1,22 +1,22 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-セーラーシャツ(男)=Sailor Shirt (Boys)
-セーラーノースリーブ(男)=Sleeveless Sailor (Boys)
-ベースボールシャツ(男)=Baseball Jersey (Boys)
-和風制服=Japanese-Style Uniform
-和風制服(無地)=Japanese-Style Uniform (Plain)
-洋風制服（ベスト）=Western-Style Uniform (Vest)
-洋風制服（ジャケット）=Western-Style Uniform (Jacket)
-ニットセーター=Knitted Sweater
-体操着=Gym Uniform
-スポーツウェア(男)=Sportswear (Boys)
-スポーツウェア(女)=Sportswear (Girls)
-サッカーシャツ(男)=Soccer Jersey (Boys)
-コンシェルジュスーツ=Concierge Suit
-シトリートップス=Sitri Top
-セーラーワンピース=One-Piece Sailor Suit
-クラシカルメイドA="Classical Maid $1"
-クラシカルメイドB="Classical Maid $1"
-キュートブラウス=Cute Blouse
-フロントリボン=Front Ribbon
+//セーラーシャツ(男)=
+//セーラーノースリーブ(男)=
+//ベースボールシャツ(男)=
+//和風制服=
+//和風制服(無地)=
+//洋風制服（ベスト）=
+//洋風制服（ジャケット）=
+//ニットセーター=
+//体操着=
+//スポーツウェア(男)=
+//スポーツウェア(女)=
+//サッカーシャツ(男)=
+//コンシェルジュスーツ=
+//シトリートップス=
+//セーラーワンピース=
+//クラシカルメイドA=
+//クラシカルメイドB=
+//キュートブラウス=
+//フロントリボン=

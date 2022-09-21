@@ -1,17 +1,17 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「あらら、帰宅ラッシュと重なっちゃったかしら……もうちょっとこっちに寄れる？」=Oh my, I wonder if now is when everyone rushes home right now... Wanna huddle a bit closer?
-「うん、たぶん大丈夫……って、おあっ！？」=Yeah, that's probably fine... Hey, woah!?
-「あはは……キミのちょっとは、少し近過ぎないかしら？」=Ahaha... Isn't this is a bit too much?
-「いや、これは事故みたいなもので……えっと……」=No, this is an accident, so... um...
-（うぅ……でも、こんな近くで[H名]の匂いと体温を感じてたらっ……）=(Ugh... At this distance, I can clearly feel [H名]'s body temperature and smell her scent...)
-CHOICE:『一応我慢してみる』=I'll try enduring for now.
-CHOICE:『必死で我慢する』=I'll have to desparately endure it.
-（っ……我慢しなきゃいけない……けど……ダメだ、抑え切れない……）=(... I have to endure this... but... it's no good, I can't hold back anymore...
-「ん？　……これは何かしら？　硬くて太くて……こんなもの、さっきまでは無かったわよね？」=Hm? ...I wonder what this is? So hard and thick... This thing, It wasn't here before, was it?
-「あぁっ、それはっ……[H名]っ……撫でたら……」=Aaah, that's... [H名]... If you rub it like that...
-「んぅ？　なんで？　とっても気持ち良そうな顔になってるのに……なんでダメなの？」=Huh? Why? Your face expression says how good it feels, so... Why is it no good?
-「いや、わかってるでしょ？　ここ、電車の中だし……[H名]っ、ホントに、まずいって……」=No, you do get it, right? We're on a train... [H名], this is really a bad idea...
-「と、とにかくごめんね！」=A-anyway, I'm sorry!
-（気持ちいいけど、我慢しなきゃ……！　今日のデートを台無しにしないように……）=(It feels good, but I have to control myself...! Otherwise, this whole date will be ruined...)
+//「あらら、帰宅ラッシュと重なっちゃったかしら……もうちょっとこっちに寄れる？」=
+//「うん、たぶん大丈夫……って、おあっ！？」=
+//「あはは……キミのちょっとは、少し近過ぎないかしら？」=
+//「いや、これは事故みたいなもので……えっと……」=
+//（うぅ……でも、こんな近くで[H名]の匂いと体温を感じてたらっ……）=
+//CHOICE:『一応我慢してみる』=
+//CHOICE:『必死で我慢する』=
+//（っ……我慢しなきゃいけない……けど……ダメだ、抑え切れない……）=
+//「ん？　……これは何かしら？　硬くて太くて……こんなもの、さっきまでは無かったわよね？」=
+//「あぁっ、それはっ……[H名]っ……撫でたら……」=
+//「んぅ？　なんで？　とっても気持ち良そうな顔になってるのに……なんでダメなの？」=
+//「いや、わかってるでしょ？　ここ、電車の中だし……[H名]っ、ホントに、まずいって……」=
+//「と、とにかくごめんね！」=
+//（気持ちいいけど、我慢しなきゃ……！　今日のデートを台無しにしないように……）=

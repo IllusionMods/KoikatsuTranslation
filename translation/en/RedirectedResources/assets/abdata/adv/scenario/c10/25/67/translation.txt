@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「なあなあ……」=“Hey, hey...”
-「んっ？　何？」=“Nn--? What?”
-「もっと……汝にくっつきたい……のだ」=“I want to... cling more, to... thee.”
-「はは、何？　めちゃ照れてるね♪　なんか……可愛いなあ」=“Haha, what? Man, you're sure blushing♪ It's kinda... really adorable.”
+//「なあなあ……」=
+//「んっ？　何？」=
+//「もっと……汝にくっつきたい……のだ」=
+//「はは、何？　めちゃ照れてるね♪　なんか……可愛いなあ」=

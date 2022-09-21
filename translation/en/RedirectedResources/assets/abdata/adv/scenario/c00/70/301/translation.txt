@@ -1,24 +1,24 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「カラオケって大好き♪　個室の中で二人っきりってだけで、エッチな気持ちになっちゃうわ～」=I love Karaoke♪ Just being alone together in this small private room, really puts me in a lewd mood~
-「お、落ち着いて。でも、実際エッチなことをする人、多いらしいね」=C-Calm down. But, seems like there's lots of people who do actually get up to that stuff in these rooms.
-「ふーん、じゃあ、私達もする？　……なーんて、冗談よ♪」=Hmmm, then, shall we do it too? ...Kidding, that was a joke♪
-「そ、そういうドキドキする冗談止めて……で、何か飲む？」=S-Stop with those sorts of heart-racing jokes... W-Want a drink?
-「あ、ドリンクバーがあるみたいね。注文も出来るんだ。んー、悩むわー」=Ah, looks like there's a drink bar here. We can order stuff directly too. Nnn, I can't decide.
-「ジャン負けが、飲み物取ってくるでもいいけどね」=We could play a game of rock-paper-scissors to decide who goes and grabs stuff.
-「でも食べ物も何かつまみたいから、注文しましょ。ねえねえ、フライドポテト、頼んでいい？」=But I wanna grab a bite to eat too, so let's order instead. Hey, mind if we order some fries?
-「もちろん。でもいいの？　太っちゃうよ～～」=Not at all. But, are you sure? You'll get fat, you know~~
-「平気よ。歌えばカロリーなんて、ガンガン消費されちゃうもの♡」=It's alright. Once I start singing, I'll be bleeding calories like they're going out of style♡
-「そんなにカロリー消費しちゃうぐらい、熱唱するつもりなんだね」=You plan on singing that hard, huh?
-「うん、歌うの大好き♪　あ、でも、特別上手ってわけじゃないんだけどね」=Yeah, I love singing♪ Ah, but, it's not like my voice is all that special or anything.
-「そうなの？　カラオケ慣れしてそうだから、上手そうだけど」=That so? I feel like you're pretty used to doing karaoke, so thought you'd be good at it.
-「そうやってハードル上げられると、『なーんだ』ってガッカリされちゃうでしょ？　それが悲しいの」=If you raise your expectations like that, you'll just get disappointed, no? That'd be sad.
-「なるほどね。じゃ、実際聞いて判断しないと」=I understand. Well then, guess I'll just have to listen to it to confirm it.
-「ええ、いいわよ～。その前に、電話で注文しなきゃ……あのー、すみませーん、注文なんですけど──」=Yes, alright~. But before that, gotta place the order... Uhm, hello, I'd like to place an order--
-「リモコンでも注文できるんだけどね……さて、と。それじゃ[H名]に歌って欲しい曲、先に入れておくね……よいしょっと」=Could have ordered directly from the console too... Now then. Guess I'll queue up some songs that I want to hear you sing... Alright, there we go.
-「え？　あ、この曲大好き！　歌う歌う！　えーっとマイク、マイク……」=Eh? Ah, I love this song! I'll definitely sing it! Erhm, the mic's...
-「はい、どーぞ」=Here you go.
-「ありがとー！」=Thanks!
-『小さな手の平 掴める物はきっと限られているけど♪』=『This small hand, the things it can grasp, they are surely limited, but~♪』
-（うん、普通に上手いなー……）=(Yeah, she really is good...)
+//「カラオケって大好き♪　個室の中で二人っきりってだけで、エッチな気持ちになっちゃうわ～」=
+//「お、落ち着いて。でも、実際エッチなことをする人、多いらしいね」=
+//「ふーん、じゃあ、私達もする？　……なーんて、冗談よ♪」=
+//「そ、そういうドキドキする冗談止めて……で、何か飲む？」=
+//「あ、ドリンクバーがあるみたいね。注文も出来るんだ。んー、悩むわー」=
+//「ジャン負けが、飲み物取ってくるでもいいけどね」=
+//「でも食べ物も何かつまみたいから、注文しましょ。ねえねえ、フライドポテト、頼んでいい？」=
+//「もちろん。でもいいの？　太っちゃうよ～～」=
+//「平気よ。歌えばカロリーなんて、ガンガン消費されちゃうもの♡」=
+//「そんなにカロリー消費しちゃうぐらい、熱唱するつもりなんだね」=
+//「うん、歌うの大好き♪　あ、でも、特別上手ってわけじゃないんだけどね」=
+//「そうなの？　カラオケ慣れしてそうだから、上手そうだけど」=
+//「そうやってハードル上げられると、『なーんだ』ってガッカリされちゃうでしょ？　それが悲しいの」=
+//「なるほどね。じゃ、実際聞いて判断しないと」=
+//「ええ、いいわよ～。その前に、電話で注文しなきゃ……あのー、すみませーん、注文なんですけど──」=
+//「リモコンでも注文できるんだけどね……さて、と。それじゃ[H名]に歌って欲しい曲、先に入れておくね……よいしょっと」=
+//「え？　あ、この曲大好き！　歌う歌う！　えーっとマイク、マイク……」=
+//「はい、どーぞ」=
+//「ありがとー！」=
+//『小さな手の平 掴める物はきっと限られているけど♪』=
+//（うん、普通に上手いなー……）=

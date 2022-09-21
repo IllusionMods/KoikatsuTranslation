@@ -1,19 +1,19 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「学園は関係なく、あなたとこうして一緒にすごせること、とても嬉しいです。今日は楽しみましょうね」=“It really makes me happy, getting to spend time with you like this, outside of the school. Let's enjoy ourselves today, okay?”
-「うん！　いろんなことをして、学園じゃ見られない顔を見せてくれたら嬉しいな」=“Yeah! With all the things we'll be doing today, I hope you show me some unique smiles today that you don't show at school.”
-「も、もう……」=“D-Dummy...”
-「同じ街並みなはずなのに、あなたと一緒だと違って見える――不思議です」=“Even though it's the same townscape, in tow with you, it feels different --- How strange.”
-「好きな人とだから……だったら嬉しいな」=“I hope it's because... you're with the person you love, just like me.”
-「なっ！？　は、恥ずかしいことをさらっと言わないでください……」=“Wha--!? P-Please don't say such embarrassing things so smoothly...”
-「その……私もそう思っていますけど……」=“Uhm... it's the same for me though...”
-「はははっ。俺たち、以心伝心なのかもね」=“Hahaha--. Our hearts might be connected, you know?”
-「で、ですから、恥ずかしいことを言わないでと……あうぅ……」=“L-Like I said, please don't say such embarrassing things... auuuu...”
-「はあぁ……今日も心が満たされる一日でした」=“Haah... today was a really fulfilling day as well.”
-CHOICE:「もうちょっと一緒にすごさない？」=Won't you spend some more time with me?
-CHOICE:「俺もだよ。それじゃあまたね」=Same here. See ya then.
-「もうちょっと一緒にすごさない？」=“Won't you spend some more time together with me?”
-「あっ……はい。私も、できればそうしたいと思っていました」=“Ah--... yes. I wanted to, spend some more time with you, if we could.”
-「俺もだよ。それじゃあまたね」=“Same here. Well then, see ya.”
-「はい。今日はありがとうございました。また学園で」=“Yes. Thanks for today. See you at school.”
+//「学園は関係なく、あなたとこうして一緒にすごせること、とても嬉しいです。今日は楽しみましょうね」=
+//「うん！　いろんなことをして、学園じゃ見られない顔を見せてくれたら嬉しいな」=
+//「も、もう……」=
+//「同じ街並みなはずなのに、あなたと一緒だと違って見える――不思議です」=
+//「好きな人とだから……だったら嬉しいな」=
+//「なっ！？　は、恥ずかしいことをさらっと言わないでください……」=
+//「その……私もそう思っていますけど……」=
+//「はははっ。俺たち、以心伝心なのかもね」=
+//「で、ですから、恥ずかしいことを言わないでと……あうぅ……」=
+//「はあぁ……今日も心が満たされる一日でした」=
+//CHOICE:「もうちょっと一緒にすごさない？」=
+//CHOICE:「俺もだよ。それじゃあまたね」=
+//「もうちょっと一緒にすごさない？」=
+//「あっ……はい。私も、できればそうしたいと思っていました」=
+//「俺もだよ。それじゃあまたね」=
+//「はい。今日はありがとうございました。また学園で」=

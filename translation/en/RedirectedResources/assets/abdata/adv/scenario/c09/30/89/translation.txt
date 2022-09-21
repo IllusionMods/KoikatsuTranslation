@@ -1,19 +1,19 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「ねえ、ちょっとお願いがあるんだけど……」=“Hey, I've got a bit of a request...”
-「なによ改まって。え、エッチなお願いでもするつもり……！？」=“What're you being so formal for? W-Wait, is it a sexual request...!?”
-「いや、違うけど。その、愛称で呼び合ってみたいなと思ったんだ」=“No, not at all. It's, uhm, I was thinking that maybe we could use nicknames for each other.”
-「愛称……？　そんくらい別にいいわよ」=“Nicknames...? Sure, that's no big deal.”
-「ありがとう！　じゃあ、俺の方で決めてあるから、呼んでくれる？」=“Thanks! Then, I've already thought of one for myself so, will you hear me out?”
-「あたしが決めるんじゃないのね……まぁいいけど。それで、なんて呼び方？」=“I'm not gonna get to decide it, huh... well, sure I guess. So, what is it?”
-「[Pあだ名]」=“[Pあだ名].”
-「なっ……なによソレ！？　そんな呼び方イヤよ！」=“Wha--... what the heck!? No way I'm calling you that!”
-「まぁまぁそう言わずに……呼んでくれたら今度お昼おごるよ、デザートだって付ける！　あと考えた愛称も呼ぶから」=“C'mon, don't be like that... if you call me that, I'll buy you lunch next time. I'll even throw in some dessert! I'll also call you the nickname I've thought up for you!”
-「うぐっ、そんなモノで釣るなんて卑怯よ……」=“Uguh--, baiting your girlfriend with things like that, is unfair...”
-「えっと、じゃあ、呼ぶわよ……[Pあだ名]」=“Erhm, then, I'll say it... [Pあだ名].”
-「おお……思ったより気恥ずかしさはあるけど、いい……。もう一回お願い、[Hあだ名]」=“Oooh... it's way more embarrassing than I expected, but it's so nice... once more, please, [Hあだ名].”
-「いい加減にしなさーい！」=“That's enough of that!”
-「残念……呼んでほしかったんだけど……」=“Shame... I really wanted to hear you say it...”
-「ぅ……そんなに呼んでほしいなら、考えないこともないけど」=“Uu... if you want to hear it that badly, I'll think about it, I guess.”
-「本当？　言質、とったからね」=“Really? Alright, I'll remember those words.”
+//「ねえ、ちょっとお願いがあるんだけど……」=
+//「なによ改まって。え、エッチなお願いでもするつもり……！？」=
+//「いや、違うけど。その、愛称で呼び合ってみたいなと思ったんだ」=
+//「愛称……？　そんくらい別にいいわよ」=
+//「ありがとう！　じゃあ、俺の方で決めてあるから、呼んでくれる？」=
+//「あたしが決めるんじゃないのね……まぁいいけど。それで、なんて呼び方？」=
+//「[Pあだ名]」=
+//「なっ……なによソレ！？　そんな呼び方イヤよ！」=
+//「まぁまぁそう言わずに……呼んでくれたら今度お昼おごるよ、デザートだって付ける！　あと考えた愛称も呼ぶから」=
+//「うぐっ、そんなモノで釣るなんて卑怯よ……」=
+//「えっと、じゃあ、呼ぶわよ……[Pあだ名]」=
+//「おお……思ったより気恥ずかしさはあるけど、いい……。もう一回お願い、[Hあだ名]」=
+//「いい加減にしなさーい！」=
+//「残念……呼んでほしかったんだけど……」=
+//「ぅ……そんなに呼んでほしいなら、考えないこともないけど」=
+//「本当？　言質、とったからね」=

@@ -1,19 +1,19 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「あのさ、ちょっとお願いがあるんだけど……」=Listen, I've got a request...
-「うん？　なぁに改まって……悩みごと？」=Yes? What's gotten into you, being so formal... something on your mind?
-「ああいや、そういうのじゃなくて。その、愛称で呼び合ってみたいなと思って」=Aah, no, it's nothing like that. It's, uhm, I was thinking that maybe we could call each other by nicknames, and all.
-「愛称……？　そういえば、考えたことなかったわね」=Nicknames...? Come to think of it, never really thought about that.
-「今まで機会がなかったけど、やっぱり二人だけの特別な呼び方が欲しくなってさ。どうかな？」=We didn't really have a chance until now but, I really want us to have some special nicknames for each other. How about it?
-「もちろん、いいわよ。ふふっ、何だかさらに仲良くなれそうね」=Of course, I'm all for it. Fufu--, feels like it's going to make us even closer.
-「そう言ってくれると思ってたよ！　それじゃあ、俺のことは[Pあだ名]って呼んでくれないかな？」=I knew you'd say that! Well then, won't you call me [Pあだ名]?
-「……うーん、別にいいけど、それって愛称？」=...Nnn, sure but, is that really a nickname?
-「はい……ただの私利私欲です、すみません」=Yes... I know, I'm just being greedy. I'm sorry.
-「ふふっ、素直でよろしい。それじゃあご褒美に……と、その前に肝心なことを忘れてたわ。私の愛称は決まってるの？」=Fufu--, as long as you're honest. Well then, as your reward... oh, before that, we're forgetting something important. Have you already picked out a nickname for me?
-「もちろんだよ、[Hあだ名]」=Of course, [Hあだ名].
-「ふふっ、ありがとう、[Pあだ名]」=Fufu--, thank you, [Pあだ名].
-「おお、思ってたより破壊力があって恥ずかしい……けど、すごくいい！ねえ、たまにでいいから、また[Pあだ名]って呼んでくれないかな？」=Ooh, the power behind that word, so embarrassing... but, it feels amazing! Hey, I don't mind if you only do it sometimes but, will you call me that again?
-「たまにでいいの？」=Sure you don't want me to call you that all the time?
-「さすがに、ずっとその呼び方なのは……」=That really would be a bit too much...
-「自分でこの名前がいいって言ったのに、変なの。まあ、いいわ。大事なのはあなたに愛称を付けてもらったことだから♪」=Even though you picked it out yourself. You're weird. Well, sure. Not that I mind, since I got a nickname from you too♪
+//「あのさ、ちょっとお願いがあるんだけど……」=
+//「うん？　なぁに改まって……悩みごと？」=
+//「ああいや、そういうのじゃなくて。その、愛称で呼び合ってみたいなと思って」=
+//「愛称……？　そういえば、考えたことなかったわね」=
+//「今まで機会がなかったけど、やっぱり二人だけの特別な呼び方が欲しくなってさ。どうかな？」=
+//「もちろん、いいわよ。ふふっ、何だかさらに仲良くなれそうね」=
+//「そう言ってくれると思ってたよ！　それじゃあ、俺のことは[Pあだ名]って呼んでくれないかな？」=
+//「……うーん、別にいいけど、それって愛称？」=
+//「はい……ただの私利私欲です、すみません」=
+//「ふふっ、素直でよろしい。それじゃあご褒美に……と、その前に肝心なことを忘れてたわ。私の愛称は決まってるの？」=
+//「もちろんだよ、[Hあだ名]」=
+//「ふふっ、ありがとう、[Pあだ名]」=
+//「おお、思ってたより破壊力があって恥ずかしい……けど、すごくいい！ねえ、たまにでいいから、また[Pあだ名]って呼んでくれないかな？」=
+//「たまにでいいの？」=
+//「さすがに、ずっとその呼び方なのは……」=
+//「自分でこの名前がいいって言ったのに、変なの。まあ、いいわ。大事なのはあなたに愛称を付けてもらったことだから♪」=

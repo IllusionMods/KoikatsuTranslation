@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「鬼さんこちら♪　つかまえてごらんなさ～い」=“Catch me if you can♪ I bet you can't though~”
-（この年になって鬼ごっこか……）=(Playing tag at this age...)
-「ほーら、何してるの？　私はこっちよ～。うふふふふっ」=“C'mon, what are you doing? I'm over here~. Ufufufufu--”
-（は、早い！　彼女……鬼ごっこのプロだ！）=(S-So fast! She's... a pro tagger!)
+//「鬼さんこちら♪　つかまえてごらんなさ～い」=
+//（この年になって鬼ごっこか……）=
+//「ほーら、何してるの？　私はこっちよ～。うふふふふっ」=
+//（は、早い！　彼女……鬼ごっこのプロだ！）=

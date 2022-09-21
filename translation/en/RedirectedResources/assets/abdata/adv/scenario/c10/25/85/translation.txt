@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「男子という生き物は、女子にどういうことされると嬉しいのだ？」=“What could a girl do, to make an organism from the male side, happy?”
-「え？　どういうこと……相手が好きな子だったら、なんでも嬉しいけどね」=“Eh? "What"... If it's a girl the boy likes, just about anything would work.”
-「まあ、あえて言うなら、甘えられると頼られてるなぁと感じる」=“Well, if I had to pick something, acting spoiled. Being depended upon feels nice.”
-「甘える、であるか……ふむ、こうか？　ふにゃん♪」=“Spoiled, is it... fumuh, like this? Funyahn~♪”
-「どうだ？　我の甘え方は。　嬉しいか？」=“How is it? Does this make thee happy?”
-「め、めちゃ、密着系だね……嬉しいというかドキドキするよ」=“Y-Your way of acting spoiled, sure is clingy... rather than happy, it's making my heart pound.”
+//「男子という生き物は、女子にどういうことされると嬉しいのだ？」=
+//「え？　どういうこと……相手が好きな子だったら、なんでも嬉しいけどね」=
+//「まあ、あえて言うなら、甘えられると頼られてるなぁと感じる」=
+//「甘える、であるか……ふむ、こうか？　ふにゃん♪」=
+//「どうだ？　我の甘え方は。　嬉しいか？」=
+//「め、めちゃ、密着系だね……嬉しいというかドキドキするよ」=

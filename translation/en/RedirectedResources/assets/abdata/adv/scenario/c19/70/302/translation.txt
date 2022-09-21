@@ -1,18 +1,18 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「……ふう。はい、おしまい。次はあなたの番ね」=...Fuu. Alright. It's your turn next, isn't it?
-「いやぁ、やっぱり[H名]の歌はいいね。一生懸命歌ってる感じがグッとくるよ」=Man, you sure do sing well, [H名]. The feeling of you really just giving it your all makes my heart all warm.
-「そ、そんなこと……でも、ありがとう」=T-That's not... but, thank you.
-「私、カラオケなんて[P名]君以外と殆ど来たこと無いけど、歌うのって気持ちいいね」=I've never really gone out karaokeing with anyone else except you, [P名]-kun. Singing sure does feel amazing, huh?
-「でしょ。歌は聴くだけじゃもったいないよ」=Right? It'd have been such a shame for you to just listen.
-「そうね。素敵な詩をただ読むだけじゃなくって、こうして声に出して歌い上げるのがこんなに気持ちいいなんて知らなかった」=Yeah. I didn't know that actually singing all these lyrics at the top of my voice instead of just reading them on pages could be so fun.
-「[P名]君が誘ってくれたおかげね。ありがとう」=It's all thanks to you taking me out today, [P]-kun. Thank you.
-「そう言ってもらえて、俺も[H名]を誘った甲斐があったよ」=It was all worth it to hear you say that, [H].
-「しっとりとした曲も、アップテンポな曲もそれぞれ歌詞に込められた意味を思いながら歌うのがとても楽しいの」=It's really fun to sing while thinking of the meaning of the lyrics, whether they be soft songs or up-tempo ones.
-「歌詞の意味かぁ……。あ、それじゃあ、もうひとつ、[H名]に歌ってもらいたい曲があるんだけど……」=The meanings of the lyrics, huh... Ah, well then, there's one more song I'd love to hear you sing, [H]...
-「え、どんな曲？　私が知っているものならいいけど……」=Eh, what sort of song? Hopefully it's one I know...
-「えっと……、そう、これこれ。最近流行ってるラブソングなんだけど……」=Erhm... right, it's this. It's a love song that's been topping the charts recently...
-「こ、この曲って確か……」=I-If I recall correctly, this song...
-「あ、[H名]知ってる？　女の子が好きな男の子のことを想って告白する曲なんだけど……」=Ah, you know it, [H]? It's a song a girl would sing as a confession, while thinking of the boy they love...
-「こ、この曲は……はうぅ、恥ずかしいのでまた、いつかの機会に……」=T-This song is... hauuu, way too embarrassing so, maybe next time...
+//「……ふう。はい、おしまい。次はあなたの番ね」=
+//「いやぁ、やっぱり[H名]の歌はいいね。一生懸命歌ってる感じがグッとくるよ」=
+//「そ、そんなこと……でも、ありがとう」=
+//「私、カラオケなんて[P名]君以外と殆ど来たこと無いけど、歌うのって気持ちいいね」=
+//「でしょ。歌は聴くだけじゃもったいないよ」=
+//「そうね。素敵な詩をただ読むだけじゃなくって、こうして声に出して歌い上げるのがこんなに気持ちいいなんて知らなかった」=
+//「[P名]君が誘ってくれたおかげね。ありがとう」=
+//「そう言ってもらえて、俺も[H名]を誘った甲斐があったよ」=
+//「しっとりとした曲も、アップテンポな曲もそれぞれ歌詞に込められた意味を思いながら歌うのがとても楽しいの」=
+//「歌詞の意味かぁ……。あ、それじゃあ、もうひとつ、[H名]に歌ってもらいたい曲があるんだけど……」=
+//「え、どんな曲？　私が知っているものならいいけど……」=
+//「えっと……、そう、これこれ。最近流行ってるラブソングなんだけど……」=
+//「こ、この曲って確か……」=
+//「あ、[H名]知ってる？　女の子が好きな男の子のことを想って告白する曲なんだけど……」=
+//「こ、この曲は……はうぅ、恥ずかしいのでまた、いつかの機会に……」=

@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「そうだ。もしよければゲームセンターに寄っていかない？　この近くにあるんだ」=Right. If it's alright, mind if we stop by the arcade? It's right nearby here.
-「ゲームセンター……馴染みがない場所ですね。楽しいですか？」=The arcade... Not a place I know much about. Is it fun?
-「うん。きっときみが気にいるゲームもあると思うよ」=Yeah. I'm sure they'll have something you'll like too.
-「…………なるほど。少しでしたら構いませんよ」=...I see. I don't mind taking a bit of a detour.
-「やった。じゃあ行こうか」=Yay. Well then, let's go.
+//「そうだ。もしよければゲームセンターに寄っていかない？　この近くにあるんだ」=
+//「ゲームセンター……馴染みがない場所ですね。楽しいですか？」=
+//「うん。きっときみが気にいるゲームもあると思うよ」=
+//「…………なるほど。少しでしたら構いませんよ」=
+//「やった。じゃあ行こうか」=

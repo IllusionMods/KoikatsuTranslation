@@ -1,11 +1,11 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「恋人とするコイカツ、さぞ刺激的な内容なのでしょうね」=Love activities done with your lover, I'm sure you've got something really stimulating in store.
-「ど、どうだろう、ここまで来ると何をすればいいかなぁ」=I-I wonder, we've already come so far, I wonder what we should do.
-「ナニをすればよいのではないのでしょうか？」=Wouldn't it be fine to just do you-know-what?
-「ん？　何か案でもあるの？」=Hmm? You have an idea?
-「ですから、ナニをすればよいのではないかと」=Like I said, can't we just do you-know-what?
-「……？」=.........?
-「……はぁ、とりあえず、いつも通りイチャイチャしましょうか」=.........Haa, it's fine, let's just flirt like we usually do, shall we?
-「う、うん……？」=Y-Yeah...?
+//「恋人とするコイカツ、さぞ刺激的な内容なのでしょうね」=
+//「ど、どうだろう、ここまで来ると何をすればいいかなぁ」=
+//「ナニをすればよいのではないのでしょうか？」=
+//「ん？　何か案でもあるの？」=
+//「ですから、ナニをすればよいのではないかと」=
+//「……？」=
+//「……はぁ、とりあえず、いつも通りイチャイチャしましょうか」=
+//「う、うん……？」=

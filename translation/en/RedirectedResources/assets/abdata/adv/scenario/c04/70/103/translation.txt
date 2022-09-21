@@ -1,12 +1,12 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「もう夕方ね。夕日が少し眩しいわ……」=Already evening, huh? The setting sun is so dazzling...
-CHOICE:『まだ時間ある？』=Still got some time?
-CHOICE:『暗くなる前に帰ろう』=Let's go home before it gets dark.
-「まだ時間大丈夫かな？　一緒に見たいものがあるんだけど……」=Still got some time? There's something I want to look at, with you...
-「ええ、大丈夫よ。ふふ、何を見せてもらえるのかしら……」=Yes, I'm good on time. Fufu, just what are you going to show me?...
-「暗くなる前に、今日は帰ろうか」=Let's go home, before it gets dark.
-「そうね。今日もありがとう。楽しかったわ」=Indeed. Thanks for today too. It was a lot of fun.
-「いえいえ」=My pleasure.
-「ふふっ、たまにはこういうのんびりしたデートもいいわね」=Fufu--, this sort of relaxing date is nice too, every so often.
+//「もう夕方ね。夕日が少し眩しいわ……」=
+//CHOICE:『まだ時間ある？』=
+//CHOICE:『暗くなる前に帰ろう』=
+//「まだ時間大丈夫かな？　一緒に見たいものがあるんだけど……」=
+//「ええ、大丈夫よ。ふふ、何を見せてもらえるのかしら……」=
+//「暗くなる前に、今日は帰ろうか」=
+//「そうね。今日もありがとう。楽しかったわ」=
+//「いえいえ」=
+//「ふふっ、たまにはこういうのんびりしたデートもいいわね」=

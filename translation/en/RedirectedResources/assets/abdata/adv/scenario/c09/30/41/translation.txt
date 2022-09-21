@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「きゃあ！　覗かないで！　出ていってちょうだい！」=“Kyah! Don't peep! Get out, would you!?”
+//「きゃあ！　覗かないで！　出ていってちょうだい！」=

@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「ねぇ、これからちょっと寄り道して、ゆっくり休憩できるトコロへ行かない？」=Hey, wanna take a detour and hit up a place where we can chill out for a bit?
-「えっ……」=Eh--...
-「美味しいパンケーキを出してくれる喫茶店があるの。……もしかして、別のこと期待しちゃった？」=I know a shop that makes some really nice pancakes. ...By any chance, were you hoping for something else?
-「そ、そんなことは……それじゃ早くお店行こう！」=T-That's not... well then, let's set off for that shop!
-「うふふっ……そうね」=Ufufu--... Yeah, lets.
+//「ねぇ、これからちょっと寄り道して、ゆっくり休憩できるトコロへ行かない？」=
+//「えっ……」=
+//「美味しいパンケーキを出してくれる喫茶店があるの。……もしかして、別のこと期待しちゃった？」=
+//「そ、そんなことは……それじゃ早くお店行こう！」=
+//「うふふっ……そうね」=

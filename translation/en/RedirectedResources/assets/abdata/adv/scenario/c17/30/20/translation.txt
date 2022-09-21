@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「あら、おはよう。今日は何かいいことがありそうね」=“Ah, good morning. I feel like something good will happen today.”
+//「あら、おはよう。今日は何かいいことがありそうね」=

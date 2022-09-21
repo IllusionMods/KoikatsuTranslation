@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「我まま聞いてくれて、ありがと。えっと……また、３人でできると嬉しい、かも」=“Thanks for listening to my selfish request. Erhm... I'd love it, if we could do this again, yeah.”
+//「我まま聞いてくれて、ありがと。えっと……また、３人でできると嬉しい、かも」=

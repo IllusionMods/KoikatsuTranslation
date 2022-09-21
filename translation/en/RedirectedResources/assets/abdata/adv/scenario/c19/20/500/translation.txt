@@ -1,25 +1,25 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-………………=.........
-…………=......
-……=...
-「ふぅ、あっという間にここまで戻ってきたな……」=Fuu, we returned all the way here in no time at all...
-「……[P名]君、今日はありがとう。とても楽しかった。……もう、お別れ……かな」=...Thanks for today, [P]-kun. I had a lot of fun. ...Guess this is, goodbye... huh?
-CHOICE:『自宅に誘う』=『Take to your place』
-CHOICE:『ラブホに誘う』=『Take to love hotel』
-CHOICE:『さよならする』=『Say goodbye.』
-「……まだ、時間があったら、俺の部屋に来てくれないかな？」=...If you still, have some time, won't you come over to my place?
-「[P名]君の？　……うん、いいよ。もっとあなたと話したいこと、いっぱいあるから」=Yours? ...Yeah, okay. There's so much more, that I want to talk to you about.
-「あのさ……いまから一緒に[H名]と行きたいところがあるんだ」=Listen... there's a place I wanna go with you, [H名].
-「二人きりになれて……愛しあえる場所なんだけど」=It's gonna be a place where it'll be just the two of us... a place where we'll be able to make love to each other.
-「それって……」=By that, do you...
-「うん……今、想像してる場所のこと」=Yeah... the place that you're thinking of.
-「[P名]君と……ふたりっきり……。……少し恥ずかしいけど、嬉しい。[P名]君が誘ってくれて」=Alone with... you, [P]-kun... ...It's a bit embarrassing but, I'm really happy, that you invited me.
-「うん、もうそろそろ帰らないといけないかな……」=Yeah, we do have go home eventually...
-「そう、だよね……。あ、でも、もう少し、もう少しだけでいいから……あなたと一緒に居てもいい……？」=You're, right... Ah, but, a bit longer, just a little bit longer... can we stay together for a bit longer...?
-「もちろん。よくある小説だと、このあと……別れ際のキスとか、しちゃうよね」=Of course. In all those popular romance novels, right about this time, the characters... they give each other a goodbye kiss, don't they?
-「そうね。……ねえ、私も小説のヒロインみたいに……あなたとキス……してもいい……？」=Yeah. ...Hey, do you mind if I... kiss you too... like a heroine from a novel...?
-「うん、[H名]……」=Go ahead, [H名]...
-「ん……ンく……」=Nn... nnkuh...
-「ふぁ……。ありがとう、[P名]君。じゃ、じゃあまた、学園でね」=Fuah... Thanks, [P]-kun. S-See ya later, at school, then.
+//………………=
+//…………=
+//……=
+//「ふぅ、あっという間にここまで戻ってきたな……」=
+//「……[P名]君、今日はありがとう。とても楽しかった。……もう、お別れ……かな」=
+//CHOICE:『自宅に誘う』=
+//CHOICE:『ラブホに誘う』=
+//CHOICE:『さよならする』=
+//「……まだ、時間があったら、俺の部屋に来てくれないかな？」=
+//「[P名]君の？　……うん、いいよ。もっとあなたと話したいこと、いっぱいあるから」=
+//「あのさ……いまから一緒に[H名]と行きたいところがあるんだ」=
+//「二人きりになれて……愛しあえる場所なんだけど」=
+//「それって……」=
+//「うん……今、想像してる場所のこと」=
+//「[P名]君と……ふたりっきり……。……少し恥ずかしいけど、嬉しい。[P名]君が誘ってくれて」=
+//「うん、もうそろそろ帰らないといけないかな……」=
+//「そう、だよね……。あ、でも、もう少し、もう少しだけでいいから……あなたと一緒に居てもいい……？」=
+//「もちろん。よくある小説だと、このあと……別れ際のキスとか、しちゃうよね」=
+//「そうね。……ねえ、私も小説のヒロインみたいに……あなたとキス……してもいい……？」=
+//「うん、[H名]……」=
+//「ん……ンく……」=
+//「ふぁ……。ありがとう、[P名]君。じゃ、じゃあまた、学園でね」=

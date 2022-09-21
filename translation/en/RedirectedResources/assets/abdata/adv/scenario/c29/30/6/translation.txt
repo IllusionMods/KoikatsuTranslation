@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「一応聞きますが、変な場所ではないですよね？」=I'll go along for now but, you're not planning on taking me some place weird, are you?
-「うん。それは保証するよ」=Yeah. I guarantee that much.
-「わかりました。では案内してください」=Understood. Please lead the way then.
+//「一応聞きますが、変な場所ではないですよね？」=
+//「うん。それは保証するよ」=
+//「わかりました。では案内してください」=

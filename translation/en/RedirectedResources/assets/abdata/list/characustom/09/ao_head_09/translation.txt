@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-ロイヤルクラウン=Royal Crown
-羽の髪飾り左用=Left Hair Feather
-羽の髪飾り右用=Right Hair Feather
-ナイトバイザー=Knight Visor
-鎧兜=Armored Helmet
-毛玉=Furball
+//ロイヤルクラウン=
+//羽の髪飾り左用=
+//羽の髪飾り右用=
+//ナイトバイザー=
+//鎧兜=
+//毛玉=

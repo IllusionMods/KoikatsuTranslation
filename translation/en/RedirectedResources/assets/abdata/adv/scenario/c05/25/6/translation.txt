@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「うん。けど、どこへ行くの？」=“Sure. But, where are we going?”
-「それは着いてからのお楽しみ」=“That's for you to find out and me to know.”
-「分かった。でも、行くならこの方角からがいい、って言ってるよ」=“Got it. But, they're saying that if we're gonna go, we should take this route.”
+//「うん。けど、どこへ行くの？」=
+//「それは着いてからのお楽しみ」=
+//「分かった。でも、行くならこの方角からがいい、って言ってるよ」=

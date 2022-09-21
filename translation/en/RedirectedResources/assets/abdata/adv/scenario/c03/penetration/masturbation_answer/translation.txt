@@ -1,5 +1,5 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「ま、まさかっ……エッチしたいなんて……」=“N-No way... but you're...”
-「も、もちろん……いいですよ……？　その、い、今こんなことしてたですから……私だって、準備万端……なのです」=“O-Of course... I don't mind, you know...? Uhm, I-I was just doing that so... I'm also, ready to... go.”
+//「ま、まさかっ……エッチしたいなんて……」=
+//「も、もちろん……いいですよ……？　その、い、今こんなことしてたですから……私だって、準備万端……なのです」=

@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「さすがに遅くなっちゃったね。そろそろ帰ろっか」=“It's really started getting dark now. Let's go home, shall we?”
-「はいぃ……観覧車の中……すごく幸せでした」=“Yes... I felt pure happiness... on that ferris wheel.”
-「うん、俺も。きっとまた乗ろうね」=“Yeah, me too. Let's ride it again next time, okay?”
-「はいです。約束なのです。その時はまた……いっぱい甘えちゃうですよ」=“Yes. It's a promise. I'll make sure to... act all spoiled again.”
-「いいよ。楽しみにしてるね」=“Sure. I'm looking forward to it.”
-「ふふーっ、私も楽しみなのです♪」=“Fufuh--, me too♪”
+//「さすがに遅くなっちゃったね。そろそろ帰ろっか」=
+//「はいぃ……観覧車の中……すごく幸せでした」=
+//「うん、俺も。きっとまた乗ろうね」=
+//「はいです。約束なのです。その時はまた……いっぱい甘えちゃうですよ」=
+//「いいよ。楽しみにしてるね」=
+//「ふふーっ、私も楽しみなのです♪」=

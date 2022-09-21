@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「あ、[H名]いた。……って、隣のお婆さんは誰だ？　何か話し込んでるみたいだけど……」=“Ah, there she is. ...Who's that old lady next to her? They're chatting about something...”
-「あ、お婆さん行っちゃった……おーい！　[H名]、こっちこっち」=“Ah, she left... hey! [H], over here.”
-「あぁ、もういたのか。もしかして今の見てたか？　ちょっと道案内を頼まれちゃってな」=“Aaah, you already got here. Did you see that? She was just asking me for directions, you know the drill.”
-「そうだったんだ。親切したから何か良い事あるかもね。それじゃ、行こうか？」=“I see. You might have something nice happen to you today. Well then, shall we?”
+//「あ、[H名]いた。……って、隣のお婆さんは誰だ？　何か話し込んでるみたいだけど……」=
+//「あ、お婆さん行っちゃった……おーい！　[H名]、こっちこっち」=
+//「あぁ、もういたのか。もしかして今の見てたか？　ちょっと道案内を頼まれちゃってな」=
+//「そうだったんだ。親切したから何か良い事あるかもね。それじゃ、行こうか？」=

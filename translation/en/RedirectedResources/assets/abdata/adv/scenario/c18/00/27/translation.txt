@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「嬉しいです。今度はどんな幸せを私にくれるんですか？」=I'm really happy. What sort of happiness are you going to bring me this time?
+//「嬉しいです。今度はどんな幸せを私にくれるんですか？」=

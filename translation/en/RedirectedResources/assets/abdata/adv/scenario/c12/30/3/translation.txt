@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「へぇ、自分から誘ってくるなんて。度胸が付いたじゃないか」=“Hoh, to think you'd ask me yourself. You've finally grown a pair.”
-「だ、ダメかな？」=“I-Is that a no?”
-「そんな情けない顔するなって。いいよ、勇気を出したご褒美って奴だな」=“Don't make such a miserable face. Sure, gotta reward you for that courage, afterall.”
+//「へぇ、自分から誘ってくるなんて。度胸が付いたじゃないか」=
+//「だ、ダメかな？」=
+//「そんな情けない顔するなって。いいよ、勇気を出したご褒美って奴だな」=

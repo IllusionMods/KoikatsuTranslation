@@ -1,14 +1,14 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-待機=Idle
-胸反応開始=Initial Breast Touch
-胸触り待機=About To Grope Breasts
-股間反応開始=Initial Crotch Touch
-股間触り待機=About To Grope Crotch
-キス反応開始=Initial Kiss Reaction
-キス反応ループ=Kissing Reaction Loop
-前嫌がりループ=Before Dislike Loop
-絶頂開始=About To Climax
-絶頂ループ=Climax Loop
-事後=Afterglow
+//待機=
+//胸反応開始=
+//胸触り待機=
+//股間反応開始=
+//股間触り待機=
+//キス反応開始=
+//キス反応ループ=
+//前嫌がりループ=
+//絶頂開始=
+//絶頂ループ=
+//事後=

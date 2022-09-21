@@ -1,17 +1,17 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「あたしだけかな。なんだか、幸せな気分がするの」=“I wonder if it's just me. I feel, really happy right now.”
-「いいや、俺もそうだよ……さ、行こうか」=“Not at all, I feel the same way... now then, let's go.”
-「お腹すいた。喫茶店で何か食べない？」=“I'm hungry. Want to get something to eat at a cafe?”
-「そうだね。もう昼だからね。そろそろ食事をとるとするか」=“Mm, yeah. It's already noon. Guess we'll grab lunch.”
-「うん！　あたし、スパゲッティーがいいなぁ。[P]は？」=“Okay! I'd love some spaghetti myself. You, [P]?”
-「偶然だなぁ。俺もちょうど、そう思ってたところなんだ」=“What a coincidence. I was thinking about some spaghetti myself.”
-「うそ！　なんだか気が合ってきたね、あたしたち」=“No way! Feels like we're starting to get more and more in sync, doesn't it?”
-「ごちそうさま。とってもおいしかったね！　今日はいい日だったなぁ」=“My compliments to the chef. That was delicious, wasn't it! What a good day it's been so far~”
-CHOICE:「よかったら、俺の家へ行く？」=Wanna hit up my place?
-CHOICE:「俺も楽しかった。じゃあ、また」=I had a blast too. See ya then.
-「そうだね。よかったら、俺の家へ行く？」=“Yeah. Wanna hit up my place?”
-「ああ、いいね、それ！　じゃあ、早速行こ！」=“Aah, good shout! Let's go, let's go!”
-「そうだね。俺も楽しかった。じゃあ、また」=“Yeah. I had a blast too. See ya then.”
-「うん。またね！　今日はどうもありがとう！」=“Yeah, see ya! Thanks a bunch for today!”
+//「あたしだけかな。なんだか、幸せな気分がするの」=
+//「いいや、俺もそうだよ……さ、行こうか」=
+//「お腹すいた。喫茶店で何か食べない？」=
+//「そうだね。もう昼だからね。そろそろ食事をとるとするか」=
+//「うん！　あたし、スパゲッティーがいいなぁ。[P]は？」=
+//「偶然だなぁ。俺もちょうど、そう思ってたところなんだ」=
+//「うそ！　なんだか気が合ってきたね、あたしたち」=
+//「ごちそうさま。とってもおいしかったね！　今日はいい日だったなぁ」=
+//CHOICE:「よかったら、俺の家へ行く？」=
+//CHOICE:「俺も楽しかった。じゃあ、また」=
+//「そうだね。よかったら、俺の家へ行く？」=
+//「ああ、いいね、それ！　じゃあ、早速行こ！」=
+//「そうだね。俺も楽しかった。じゃあ、また」=
+//「うん。またね！　今日はどうもありがとう！」=

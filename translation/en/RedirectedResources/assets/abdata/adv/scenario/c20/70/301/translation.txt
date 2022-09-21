@@ -1,24 +1,24 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「ふぅ～。結構歌ったなぁ！」=Fuu~. We sure sang a lot!
-「歌、上手なんですね！　なんだか……ずっと聞いていたいです」=You're amazing at singing! I almost... want to listen to it forever.
-「ははっ、ありがとう。でもさ……俺はそろそろ[H名]の歌も聞きたいかな」=Haha--, thanks. But, you know... I wanna hear you sing some too, [H].
-「えっと……私は、聞いてるだけでも楽しいので」=Erhm... just listening to you sing, is more than fun enough for me.
-「うーん……歌うの嫌い？」=Mmm... do you hate singing?
-「いえ、そういうわけでは……ただ、恥ずかしい、です。あなたの前となると、尚更……」=No, that's not it... it's just, embarrassing. Especially in front of you...
-「そっか……[H名]の声、好きだから歌声も聞いてみたかったんだけどな」=I see... I really wanted to hear you sing though, I just love your voice so much.
-「す、すみません、カラオケなのに……」=I-I'm sorry, even though we came to karaoke...
-「この曲とか、歌ってほしかったなぁ」=Man, I really wanted to hear you sing this song too~
-「……え、リクエストまで考えてくれたんですか？　ど、どれですか？」=...Eh, you even thought of a song for me to sing? W-Which one?
-「この曲だよ、好きなんだよね。だから歌ってほしかったんだけど」=It's this song, I really like it, you see? So I really wanted to hear you sing it.
-「あ……し、知ってる」=Ah... I-I know it.
-「え！？　ほんとに！？　じゃあ歌ってよ！」=Eh?! Really?! Then sing it, c'mon!
-「[H名]の歌声聞きたいんだ、お願い！」=I really wanna hear you sing, please!
-「いえ、あの……」=No, uhm...
-「絶対曲と声合うと思うからさ！　一生のお願い！」=I think it's a perfect song for your voice! It'll be my one request, in this entire life!
-「こ、こんなところで一生のお願いを使わないでください！　……わかりました、う、歌います」=D-Don't use up your one request of your life here, please! ...I understand, I-I'll sing it.
-「やった！　それじゃさっそく入れるね！」=Yay! Well then, I'll put it in, okay?
-「ふふっ、恥ずかしいけど……あなたが喜んでくれるなら」=Fufu--, it's embarrassing but... as long as it makes you happy.
-『もしも今背中に羽が生えて大空自由に飛び回れたら♪』=『If only I could sprout wings from my back and fly freely in this wide open sky~♪』
-「ちょっと緊張してるみたいだけど、やっぱり……この曲に[H名]の声はぴったりだ！」=She seems a bit nervous but, it really... does match her voice, just perfectly!
+//「ふぅ～。結構歌ったなぁ！」=
+//「歌、上手なんですね！　なんだか……ずっと聞いていたいです」=
+//「ははっ、ありがとう。でもさ……俺はそろそろ[H名]の歌も聞きたいかな」=
+//「えっと……私は、聞いてるだけでも楽しいので」=
+//「うーん……歌うの嫌い？」=
+//「いえ、そういうわけでは……ただ、恥ずかしい、です。あなたの前となると、尚更……」=
+//「そっか……[H名]の声、好きだから歌声も聞いてみたかったんだけどな」=
+//「す、すみません、カラオケなのに……」=
+//「この曲とか、歌ってほしかったなぁ」=
+//「……え、リクエストまで考えてくれたんですか？　ど、どれですか？」=
+//「この曲だよ、好きなんだよね。だから歌ってほしかったんだけど」=
+//「あ……し、知ってる」=
+//「え！？　ほんとに！？　じゃあ歌ってよ！」=
+//「[H名]の歌声聞きたいんだ、お願い！」=
+//「いえ、あの……」=
+//「絶対曲と声合うと思うからさ！　一生のお願い！」=
+//「こ、こんなところで一生のお願いを使わないでください！　……わかりました、う、歌います」=
+//「やった！　それじゃさっそく入れるね！」=
+//「ふふっ、恥ずかしいけど……あなたが喜んでくれるなら」=
+//『もしも今背中に羽が生えて大空自由に飛び回れたら♪』=
+//「ちょっと緊張してるみたいだけど、やっぱり……この曲に[H名]の声はぴったりだ！」=

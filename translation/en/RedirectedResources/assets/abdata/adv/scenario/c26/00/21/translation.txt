@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「……[P]、おはよう」=“...[P], morning.”
-「おはよう。昨日、面白いことがあったんだけど、良かったら聞いてくれないかな？」=“Morning. Yesterday, something real funny happened, Wanna hear about it?”
-「うん……話してみて……。[P]の話、聞きたい」=“Yeah... tell me... I wanna, hear you talk, [P].”
+//「……[P]、おはよう」=
+//「おはよう。昨日、面白いことがあったんだけど、良かったら聞いてくれないかな？」=
+//「うん……話してみて……。[P]の話、聞きたい」=

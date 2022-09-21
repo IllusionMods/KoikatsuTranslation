@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「ｈｕｈ？　Ｈｍｍ……フフ、イイデスヨ♡」=Huh? Hmm... Fufu, alright♡
-「えっ、いいの？　自分で提案しておいて何だけど、その、つまり……」=Eh--, you sure? I mean, I did bring it up myself but, uhm, you know...
-「Ｓａｙ　ｎｏ　ｍｏｒｅ♡　ニッポンには告白という習慣、ありマスケド、ワタシの育った国デハ、モットｎａｔｕｒａｌデス」=Say no more♡ In Japan, usually confessions come first but, where I was raised, it's pretty natural.
-「ココロとココロ、近づいタラ、カラダとカラダ、近づきマス。トモダチもドラマも、そうデシタ」=When people's hearts get close, their bodies get closer too. My friends, and also all the dramas, they were all like that.
-「ワタシもアナタと、そうなりマス。ダカラ、イイデスヨ♡　ケド、ナニブン、ハジメテデスカラ……」=We're the same way. That's why, it's alright♡ But, please, it's my first time so...
-「うん、優しくするよ」=Yeah, I'll be gentle.
+//「ｈｕｈ？　Ｈｍｍ……フフ、イイデスヨ♡」=
+//「えっ、いいの？　自分で提案しておいて何だけど、その、つまり……」=
+//「Ｓａｙ　ｎｏ　ｍｏｒｅ♡　ニッポンには告白という習慣、ありマスケド、ワタシの育った国デハ、モットｎａｔｕｒａｌデス」=
+//「ココロとココロ、近づいタラ、カラダとカラダ、近づきマス。トモダチもドラマも、そうデシタ」=
+//「ワタシもアナタと、そうなりマス。ダカラ、イイデスヨ♡　ケド、ナニブン、ハジメテデスカラ……」=
+//「うん、優しくするよ」=

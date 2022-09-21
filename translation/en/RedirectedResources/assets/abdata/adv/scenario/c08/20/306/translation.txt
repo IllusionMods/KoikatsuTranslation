@@ -1,24 +1,24 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-………………=.........
-…………=......
-……=...
-「もう歌いたい曲も底をついてきたかな？」=Run out of songs to sing too?
-「そうだね～……これからどうしよっか？」=Yeah~... what should we do for the rest of the time?
-CHOICE:『このまま、まったりしてよう』=『Let's relax and take it easy, just like this』
-CHOICE:『もう出ようか』=『Let's head out』
-「このまま何もせずまったりしようよ」=Let's relax and take it easy like this without doing anything.
-「うん、そうだね。それもいいかも」=Yeah, good shout. That might be nice.
-「あっそうだ！　[P名]君、食べたいものない？　何か頼もうよ！」=Ah, that's right! [P]-kun, is there anything you wanna eat? Let's order something!
-「う～ん……[H名]に任せるよ」=Mmm... I'll leave it to you, [H].
-「分かった。何にしようかな～、メニューは……」=Got it. What should we get~, the menu's over...
-（今だ……！　抱きしめるチャンス！）=(This is it...! My chance to hug her!)
-「きゃっ！　[P名]君！」=Kyah--! [P]-kun!
-「も、も～、まったりってそういうことなの？」=J-Jeez~, is that what counts as "taking it easy" in your book?
-「だめ？」=No good?
-「う～、ずるいよぉ。[P君]のエッチ……」=Uu~, that's unfair. [P]-kun, you lewdie...
-「時間前だけど、今日はもう出ようか」=There's still some time on the clock but, let's head out for today, shall we?
-「うんっ。あ～……ちょっと声がかれてるかもぉ」=Yeah--. Ah~... I think my voice is getting a bit hoarse.
-「それはいけない。[H名]の可愛い声のためにも……はい、のど飴」=That's no good. Your adorable voice must be preserved... here, a cough drop.
-「わ～、ありがと♪」=Wah~, thanks♪
+//………………=
+//…………=
+//……=
+//「もう歌いたい曲も底をついてきたかな？」=
+//「そうだね～……これからどうしよっか？」=
+//CHOICE:『このまま、まったりしてよう』=
+//CHOICE:『もう出ようか』=
+//「このまま何もせずまったりしようよ」=
+//「うん、そうだね。それもいいかも」=
+//「あっそうだ！　[P名]君、食べたいものない？　何か頼もうよ！」=
+//「う～ん……[H名]に任せるよ」=
+//「分かった。何にしようかな～、メニューは……」=
+//（今だ……！　抱きしめるチャンス！）=
+//「きゃっ！　[P名]君！」=
+//「も、も～、まったりってそういうことなの？」=
+//「だめ？」=
+//「う～、ずるいよぉ。[P君]のエッチ……」=
+//「時間前だけど、今日はもう出ようか」=
+//「うんっ。あ～……ちょっと声がかれてるかもぉ」=
+//「それはいけない。[H名]の可愛い声のためにも……はい、のど飴」=
+//「わ～、ありがと♪」=

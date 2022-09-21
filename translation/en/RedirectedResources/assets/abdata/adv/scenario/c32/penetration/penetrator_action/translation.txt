@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「あの……提案、です。もしよければ、私も参加させていただけませんか？」=Hey, uhm... I have a proposal. If it's alright, can I join in too?
+//「あの……提案、です。もしよければ、私も参加させていただけませんか？」=

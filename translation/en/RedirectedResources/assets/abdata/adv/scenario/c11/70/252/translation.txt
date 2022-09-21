@@ -1,18 +1,18 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「おっと……なんだか混んできたね」=“Woah... it's getting pretty packed, huh?”
-「あらあら、まぁ……ほら、もっとこっちに寄っていいのよ。ちょっとぐらいくっついても気にしないわ」=“Dearie me... c'mon, you can come closer to me. I don't mind if you snuggle up to me a bit either.”
-「うん、ありがとう……じゃあ、お言葉に甘えて……」=“Okay, thanks... I'll take you up on that then...”
-（っ……さ、さすがに寄りすぎた！　股間が[H名]に当たって……）=(--... T-That really is way too close! My crotch's poking into her...)
-CHOICE:『そのままでいる』=Stay like that.
-CHOICE:『少しスペースを空ける』=Make some space.
-（……でも、ちょっとくっついても気にしないって言ってくれたし……いいよな？）=(...But, she did say that she doesn't mind if I snuggle up to her a bit so... it should be fine, right?)
-（うん、いいことにしよう……！　気持ちいいし！）=(Yeah, probably...! It feels good too, afterall!)
-「ちょっ……ああん、そんなに硬いもの押し当てちゃダメよ……変な気分になっちゃう」=“Hey--... aaahn, don't poke such a hard rod into me... I'll get into a weird mood.”
-「……なってほしいな。正直、俺……我慢できそうにないから」=“...Could you? Honestly, my self-control is... evaporating here.”
-「……本気なの？　もう、しょうがないんだから。周りの人に内緒でやってちょうだいね？」=“...Are you being serious? Jeez, there's no helping you. Just make sure to do it silently, okay?”
-「もちろんだよ」=“Of course.”
-（……このままじゃ勃ちそうだし、少しスペースをあけよう……）=(...Let's make some space, wouldn't want to pop a chub...)
-（って、もう余裕がない！　どんだけギュウギュウなんだこの車内……！）=(Wuh, people already pushed in behind me! Just how stuffed is this train car...!)
-（うぅ、[H名]と密着したまま勃たせずにいるなんて芸当、俺に出来るだろうか……？）=(Uuu, can I really manage to hold on, without popping a chub, while being glued to her like this...?)
+//「おっと……なんだか混んできたね」=
+//「あらあら、まぁ……ほら、もっとこっちに寄っていいのよ。ちょっとぐらいくっついても気にしないわ」=
+//「うん、ありがとう……じゃあ、お言葉に甘えて……」=
+//（っ……さ、さすがに寄りすぎた！　股間が[H名]に当たって……）=
+//CHOICE:『そのままでいる』=
+//CHOICE:『少しスペースを空ける』=
+//（……でも、ちょっとくっついても気にしないって言ってくれたし……いいよな？）=
+//（うん、いいことにしよう……！　気持ちいいし！）=
+//「ちょっ……ああん、そんなに硬いもの押し当てちゃダメよ……変な気分になっちゃう」=
+//「……なってほしいな。正直、俺……我慢できそうにないから」=
+//「……本気なの？　もう、しょうがないんだから。周りの人に内緒でやってちょうだいね？」=
+//「もちろんだよ」=
+//（……このままじゃ勃ちそうだし、少しスペースをあけよう……）=
+//（って、もう余裕がない！　どんだけギュウギュウなんだこの車内……！）=
+//（うぅ、[H名]と密着したまま勃たせずにいるなんて芸当、俺に出来るだろうか……？）=

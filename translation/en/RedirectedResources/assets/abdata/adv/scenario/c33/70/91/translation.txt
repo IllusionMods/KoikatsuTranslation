@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「ふふふ……おはよ、[Pあだ名]」=Fufufu... Morning, [Pあだ名].
-「あ……おはよう、[Hあだ名]」=G... Good morning, [Hあだ名].
-「これ、合図に出来そうね。なんの、とは言わないけどね、ふふふ」=Looks like this could work pretty well as a signal. Though, signal for what, I won't say, Fufufu~
-（[H名]さんと一緒だと、朝からムラムラしちゃうよ……）=(When I'm with [H名]-san, I feel horny right in the morning...)
+//「ふふふ……おはよ、[Pあだ名]」=
+//「あ……おはよう、[Hあだ名]」=
+//「これ、合図に出来そうね。なんの、とは言わないけどね、ふふふ」=
+//（[H名]さんと一緒だと、朝からムラムラしちゃうよ……）=

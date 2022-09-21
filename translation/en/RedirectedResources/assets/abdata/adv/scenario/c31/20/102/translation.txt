@@ -1,25 +1,25 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「うん、よく晴れてよかったな、絶好の散歩日和だ」=Yeah, I'm glad it's so clear out today. It's a great day for a walk.
-「そうだね、公園の緑が綺麗で、ずっと歩いてたくなるね」=Yeah, the park's greenry is so pretty, it makes you want to walk around for a long time, doesn't it?
-「あぁ、私もそう思う。でも、ただ私と歩いているだけで、つまらなくないか？」=Yeah, I think the same. But, isn't it boring, just walking alongside me?
-「俺は[H名]と一緒なら何でも楽しいけど、何か他にしたい事でもある？」=I personally find anything I do with you fun, [H名], but is there anything else you want to do?
-「そうだなぁ、折角だしちょっと走らないか？　ジョギング程度に、な？」=Let's see, how about we go for a run? Like a jog.
-「オッケー、いいよ。これだけ晴れてると、体を動かしたくなるよね」=Okay, sure. When it's this clear out, it makes you want to move your body, doesn't it?
-「そういう事だ。ペースはおまえに合わせてやるから、すぐにへばったりするなよ？」=That's right. I'll match my pace with yours, so don't wear yourself out all in one go, alright?
-「大丈夫だって。競争とか言われたらどうしようかと思ったけど、やっぱり軽く話せるくらいのペースがいいよね」=It's alright. I would have been at a loss if you were to bring up having a race but, a jog just fast enough to have a light chat while doing so would be nice.
-「一応デートだからな。私だって、ひたすら走って何も話さないなんて、色気のないのは御免だ」=I mean, it's a date afterall. Even I'm not so unromantic as to just want to run around without saying a single word.
-「じゃあ、もっと色気のある運動を……」=Then, how about we do something a bit more romant...
-「ストップだ。それ以上言うなよ？　爽やかな雰囲気が台無しになる。そういうのは、後の楽しみにとっておけ」=Stop right there. Don't finish that sentence, alright? This refreshing mood will come to nothing. Leave that sort of thing for later.
-「ごめん。じゃあ準備運動をして、早速ジョギング開始だね」=Sorry. Then, let's quickly get warmed up and start with the jogging.
-「歩くのもいいが、昼寝とかもいいんじゃないか？　青空を見上げながら……こう、大の字でな」=Walking is nice but, won't a nap be good too? While looking at the blue sky... sprawled out like this.
-「おお、いいねそれ！　なんかすっごく癒されそう！」=Ooh, sounds great! Feels really soothing, that!
-「だろ？　おまえならノってくると思ったよ。それじゃあ、芝生のある所に移動だな」=Right? I knew you'd be up for it. Well then, let's go to a spot with a patch of grass.
-………………=.........
-「は～、最高～！　木漏れ日が気持ち良くて、隣には[H名]がいて、こんな贅沢な昼寝はないね！」=Haa~, this is the life~! The pleasant sunlight peeking through the leaves, and with you by my side, this truly is pure luxury!
-「こら、私が言おうと思っていた事を全部言うな。まったく……」=Hey, don't steal my lines. Jeez...
-「あっはは、同じ事を考えてたなんて、カップルみたいでいいね」=Ahhaha, to think we were thinking the same way, how nice and couple-like.
-「みたい、じゃなくてカップルだろっ。公園で昼寝をするカップルなんて、少し色気がないがな」=What's with the "-like", we are a couple! Though, I think it's a bit unromantic, to be a couple who takes naps together at the local park.
-「そんな事ないと思うよ？　一緒にお昼寝なんて、これぞカップルって感じだし……」=I don't think so, you know? Taking a nap together like this, it's what being a couple is all about, I feel...
-「……って、あれ？　[H名]寝ちゃった？　はは、寝顔も可愛いな」=...Uh, huh? Did she fall asleep? Haha, her sleeping face is cute too.
+//「うん、よく晴れてよかったな、絶好の散歩日和だ」=
+//「そうだね、公園の緑が綺麗で、ずっと歩いてたくなるね」=
+//「あぁ、私もそう思う。でも、ただ私と歩いているだけで、つまらなくないか？」=
+//「俺は[H名]と一緒なら何でも楽しいけど、何か他にしたい事でもある？」=
+//「そうだなぁ、折角だしちょっと走らないか？　ジョギング程度に、な？」=
+//「オッケー、いいよ。これだけ晴れてると、体を動かしたくなるよね」=
+//「そういう事だ。ペースはおまえに合わせてやるから、すぐにへばったりするなよ？」=
+//「大丈夫だって。競争とか言われたらどうしようかと思ったけど、やっぱり軽く話せるくらいのペースがいいよね」=
+//「一応デートだからな。私だって、ひたすら走って何も話さないなんて、色気のないのは御免だ」=
+//「じゃあ、もっと色気のある運動を……」=
+//「ストップだ。それ以上言うなよ？　爽やかな雰囲気が台無しになる。そういうのは、後の楽しみにとっておけ」=
+//「ごめん。じゃあ準備運動をして、早速ジョギング開始だね」=
+//「歩くのもいいが、昼寝とかもいいんじゃないか？　青空を見上げながら……こう、大の字でな」=
+//「おお、いいねそれ！　なんかすっごく癒されそう！」=
+//「だろ？　おまえならノってくると思ったよ。それじゃあ、芝生のある所に移動だな」=
+//………………=
+//「は～、最高～！　木漏れ日が気持ち良くて、隣には[H名]がいて、こんな贅沢な昼寝はないね！」=
+//「こら、私が言おうと思っていた事を全部言うな。まったく……」=
+//「あっはは、同じ事を考えてたなんて、カップルみたいでいいね」=
+//「みたい、じゃなくてカップルだろっ。公園で昼寝をするカップルなんて、少し色気がないがな」=
+//「そんな事ないと思うよ？　一緒にお昼寝なんて、これぞカップルって感じだし……」=
+//「……って、あれ？　[H名]寝ちゃった？　はは、寝顔も可愛いな」=

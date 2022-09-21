@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「へえ、色々あるんだね」=Hoh, they've got all sorts here, huh?
-「向こうのお店、寄ってみてもよろしいですか？」=Would it be alright, if we went and checked out that store over there?
-「うん、いいよ」=Yeah, of course.
-「ふぅ。未知の場所でしたけれど、新鮮で興味深かったです」=Fuu. I'd never been to that sort of place before, it was quite an interesting and fresh experience.
-（よかった、喜んでもらえたみたいだ）=(Great, looks like she enjoyed it.)
+//「へえ、色々あるんだね」=
+//「向こうのお店、寄ってみてもよろしいですか？」=
+//「うん、いいよ」=
+//「ふぅ。未知の場所でしたけれど、新鮮で興味深かったです」=
+//（よかった、喜んでもらえたみたいだ）=

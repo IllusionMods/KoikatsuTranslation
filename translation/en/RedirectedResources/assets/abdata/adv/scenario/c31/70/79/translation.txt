@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「おまえ、好き嫌いはあるのか？　それ、残すなら私が食べてやるぞ？」=Were you a picky eater? If you're gonna skip that, I'mma grab it, you know?
-「うん、いらないから食べていいよ。[H名]の残してるそれと交換しよう」=Yeah, I don't want it, so you can have it. In return, I'll take what you've left over, [H名].
-「だ、ダメだっ！　これは最後の楽しみに取っておいてあるんだっ……絶対やらんからなっ！」=D-Don't--! I'm saving the best for last--... I definitely won't let you have this--!
+//「おまえ、好き嫌いはあるのか？　それ、残すなら私が食べてやるぞ？」=
+//「うん、いらないから食べていいよ。[H名]の残してるそれと交換しよう」=
+//「だ、ダメだっ！　これは最後の楽しみに取っておいてあるんだっ……絶対やらんからなっ！」=

@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「ふ、ふん、良い心がけだ。褒美として、その……わ、我を好きに扱う権利を与えてやっても良いぞ……？」=“F-Fuhn, that is a good attitude. As a reward, uhm... I-I do not mind giving thee the right to use me as thou pleasest, you know...?”
+//「ふ、ふん、良い心がけだ。褒美として、その……わ、我を好きに扱う権利を与えてやっても良いぞ……？」=

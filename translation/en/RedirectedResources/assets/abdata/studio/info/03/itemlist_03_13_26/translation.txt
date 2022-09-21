@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-魔法陣=Magic Circle
-溶解粘液1=Dissolving Liquids 1
-溶解粘液2=Dissolving Liquids 2
-溶解粘液3=Dissolving Liquids 3
-溶解粘液4=Dissolving Liquids 4
-溶解粘液5=Dissolving Liquids 5
+//魔法陣=
+//溶解粘液1=
+//溶解粘液2=
+//溶解粘液3=
+//溶解粘液4=
+//溶解粘液5=

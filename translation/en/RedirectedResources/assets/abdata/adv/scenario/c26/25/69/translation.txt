@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「……あれ？　ここはどうするんだっけ？」=“...Huh? How'd you do this one again?”
-「……そこは、こうして別の方式に置き換えて……」=“...You substitute that, with this formula...”
-「お～なるほど。ごめん、こんな簡単な問題で呼んじゃって」=“Oh~, I see. Sorry, I bothered you over something so simple.”
-「……別に。あなたに教えるのは……嫌じゃない、から」=“...It's fine. I don't mind... helping you, so.”
-「えっ！　そ、そっか……ありがとう」=“Eh--! I-I see... thanks.”
+//「……あれ？　ここはどうするんだっけ？」=
+//「……そこは、こうして別の方式に置き換えて……」=
+//「お～なるほど。ごめん、こんな簡単な問題で呼んじゃって」=
+//「……別に。あなたに教えるのは……嫌じゃない、から」=
+//「えっ！　そ、そっか……ありがとう」=

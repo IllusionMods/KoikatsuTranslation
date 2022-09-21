@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-………………=.........
-…………=......
-……=...
-「んーっ、楽しかったぁ！　また一緒にやろうね！」=Nnn, that was fun! Let's do it again together, okay~?
+//………………=
+//…………=
+//……=
+//「んーっ、楽しかったぁ！　また一緒にやろうね！」=

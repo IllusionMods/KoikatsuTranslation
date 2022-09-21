@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「もっと保健室に遊びに来てくれていいのよ？　先生、結構暇なんだから」=You can come visit me in the infirmary more often, okay? Sensei here has a lot of free time.
+//「もっと保健室に遊びに来てくれていいのよ？　先生、結構暇なんだから」=

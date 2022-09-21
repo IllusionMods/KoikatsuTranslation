@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「ふふ、うれしいわ。でも、あまり気を遣いすぎないでね」=Fufu, I'm happy. But, don't worry about it too much, alright?
+//「ふふ、うれしいわ。でも、あまり気を遣いすぎないでね」=

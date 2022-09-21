@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-………………=.........
-…………=......
-……=...
-「ほっ、なんとか課題は終わったね。その……次もまた、よろしくね……？」=Hoh--, finally done with the assignment. Uhm... help me out next time too, okay...?
+//………………=
+//…………=
+//……=
+//「ほっ、なんとか課題は終わったね。その……次もまた、よろしくね……？」=

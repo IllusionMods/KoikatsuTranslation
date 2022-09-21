@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-（――うん。今のままで十分だ）=(--Yeah. It's sufficient as is.)
-時々部活に顔を出して、話をする。=Sometimes I'll show up at club activities and talk to them.
-そんな楽しい時間が今日もすぎていった。=Today, we had such a good time.
+//（――うん。今のままで十分だ）=
+//時々部活に顔を出して、話をする。=
+//そんな楽しい時間が今日もすぎていった。=

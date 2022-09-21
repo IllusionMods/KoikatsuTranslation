@@ -1,25 +1,25 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-正常位=Missionary
-開脚正常位=Leg Held Missionary
-後背位=Doggy
-腕引っ張り後背位=Arm-Grab Doggy
-騎乗位=Cowgirl
-側位=Spooning
-立位=Standing
-駅弁=Lifting
-椅子対面=Seated Facing
-椅子背面=Seated Behind
-椅子バック=Chair Doggy
-腕引っ張り椅子バック=Chair Arm-Grab Doggy
-机寝位=On Desk
-机バック=Desk Doggy
-腕引っ張り机バック=Desk Arm-Grab Doggy
-机側位=Desk Spooning
-壁対面片足上げ=Wall Facing
-壁バック=Wall Doggy
-片足上げ壁バック=Leg Up Wall Doggy
-プールバック=Pool Doggy
-フェンス後背位=Fence Doggy
-フェンス掴まり駅弁=Fence Lifting
+//正常位=
+//開脚正常位=
+//後背位=
+//腕引っ張り後背位=
+//騎乗位=
+//側位=
+//立位=
+//駅弁=
+//椅子対面=
+//椅子背面=
+//椅子バック=
+//腕引っ張り椅子バック=
+//机寝位=
+//机バック=
+//腕引っ張り机バック=
+//机側位=
+//壁対面片足上げ=
+//壁バック=
+//片足上げ壁バック=
+//プールバック=
+//フェンス後背位=
+//フェンス掴まり駅弁=

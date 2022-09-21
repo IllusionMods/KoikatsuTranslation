@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「あ～、着くまで立ちっぱなしは辛いっす。おんぶ、だっこ～」=Ah~, it's hard to keep standing like this the whole time. Piggy back, carry me, please~
-「いやいや、小さい子供じゃないんだから」=No way, you're not a child.
-「じゃあ四つん這いになって、私専用の椅子になるっすよ」=Well then, get on your hands and knees, and become a chair just for me.
-「今度は女王様！？」=A queen this time?!
+//「あ～、着くまで立ちっぱなしは辛いっす。おんぶ、だっこ～」=
+//「いやいや、小さい子供じゃないんだから」=
+//「じゃあ四つん這いになって、私専用の椅子になるっすよ」=
+//「今度は女王様！？」=

@@ -1,20 +1,20 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「だんだん混んできたな……ごめん、少し詰めてもらっていい？」=It's starting to get more and more packed... sorry, could you move a bit closer?
-「ちょ……さすがに近づきすぎだし！　ドキドキするじゃん……」=Wai... this really is way too close! My heart's gonna start racing...
-「しばらくの辛抱だと思うから……っうわ！」=I don't think it's gonna last long, so just bear with it for... --uwah!
-(まずい……俺の股間が[H名]に……うっ)=(Damn... my crotch is hitting... uu--)
-CHOICE:『欲望に身を任せる』=『Give in to your desires』
-CHOICE:『鉄の自制心で堪える』=『Bear with an iron will』
-（気持ちよすぎて……あぁ、もうダメだ……）=(It feels way too good... aah, I can't anymore...)
-「ちょ、ちょっと！　[P名]くんのおちんちんが当たってる！」=H-Hey, come on! Your dick's poking into me, [P名]-kun!
-「ご、ごめんよ……わっ」=S-Sorry... wah--!
-「んあっ……。そんなに押し付けないで！　おちんちん、小さくさせて……」=Nnah--... Don't push it against me so much! Make it smaller or whatever...
-「も、もう無理なんだ……[H名]。もう俺、我慢できない……！」=I-It's too late now... [H名]. I, I can't endure anymore...!
-「ここで……させてくれないか？」=Won't you... let me do it here?
-「マ、マジで！？　……もぉ～、ホントに仕方ないな～……」=F-For real!? ...Jeez~, there really is no helping you~...
-「ありがとう、[H名]。じゃあ、じっとしてて。少しの間だけだから……！」=Thanks, [H名]. Then, stay still. It'll be over soon so...!
-（我慢、我慢だ俺っ！　ここで勃起したら、せっかくのデートが台無しになるぞ！）=(Endure, endure it, me--! If I pop a chub here, the entire date will all be for nothing!)
-（[H名]のいい匂いもしないし、やわらかい[H名]の身体の感触なんて一切感じないっ）=(You're not really smelling her nice scent, nor are you feeling her soft body on your skin, not at all--)
-（……この混雑が解消されるまで……堪えてくれ、俺の自制心よっ！）=(...Until this crowd thins out a bit... hold out, my self control, hold out--!)
+//「だんだん混んできたな……ごめん、少し詰めてもらっていい？」=
+//「ちょ……さすがに近づきすぎだし！　ドキドキするじゃん……」=
+//「しばらくの辛抱だと思うから……っうわ！」=
+//(まずい……俺の股間が[H名]に……うっ)=
+//CHOICE:『欲望に身を任せる』=
+//CHOICE:『鉄の自制心で堪える』=
+//（気持ちよすぎて……あぁ、もうダメだ……）=
+//「ちょ、ちょっと！　[P名]くんのおちんちんが当たってる！」=
+//「ご、ごめんよ……わっ」=
+//「んあっ……。そんなに押し付けないで！　おちんちん、小さくさせて……」=
+//「も、もう無理なんだ……[H名]。もう俺、我慢できない……！」=
+//「ここで……させてくれないか？」=
+//「マ、マジで！？　……もぉ～、ホントに仕方ないな～……」=
+//「ありがとう、[H名]。じゃあ、じっとしてて。少しの間だけだから……！」=
+//（我慢、我慢だ俺っ！　ここで勃起したら、せっかくのデートが台無しになるぞ！）=
+//（[H名]のいい匂いもしないし、やわらかい[H名]の身体の感触なんて一切感じないっ）=
+//（……この混雑が解消されるまで……堪えてくれ、俺の自制心よっ！）=

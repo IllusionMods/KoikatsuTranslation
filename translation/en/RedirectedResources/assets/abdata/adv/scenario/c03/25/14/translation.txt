@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「あ……おはようなのです」=“Ah... good morning.”
-「ん……おはよう……[H]はもう起きてたんだ」=“Nn... morning... you were already awake, huh?”
-「はいです。だって……あなたに寝顔見られるの……恥ずかしかったですから……」=“Yes. I mean... it would have been really embarrassing... if you saw my sleeping face...”
-「あ……そっか。あはは」=“Ah... I see. Ahaha.”
-「……？　どーして笑うですか？」=“...? Why're you laughing?”
-「寝顔だったら……もう昨日の夜見ちゃったから……」=“If it's your sleeping face... I already saw it plenty last night...”
-「にゃー、乙女の秘密を見たですね！　そんな悪い彼氏さんにはっ……おはようのちゅーしちゃうですっ！　ちゅっ♪」=“Nyah, you spied on a girl's biggest secret, huh! Bad boyfriends like you get... morning kisses--! *kiss*♪”
+//「あ……おはようなのです」=
+//「ん……おはよう……[H]はもう起きてたんだ」=
+//「はいです。だって……あなたに寝顔見られるの……恥ずかしかったですから……」=
+//「あ……そっか。あはは」=
+//「……？　どーして笑うですか？」=
+//「寝顔だったら……もう昨日の夜見ちゃったから……」=
+//「にゃー、乙女の秘密を見たですね！　そんな悪い彼氏さんにはっ……おはようのちゅーしちゃうですっ！　ちゅっ♪」=

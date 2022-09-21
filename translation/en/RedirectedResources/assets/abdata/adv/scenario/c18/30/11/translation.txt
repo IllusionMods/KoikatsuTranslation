@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「ごめんなさい。私もう、無理みたいです」=I'm sorry. I can't go on any longer.
-「えっ……急にどうしたの……？」=Eh--... what's the matter, all of a sudden...?
-「あなたの顔を見るたびに『今日もか……』って。不幸な目にあった時と、同じ感情があるんです。」=Everytime I see your face, I can't help but go『Here we go again...』. It's the same feeling I get whenever something bad happens.
-「……」=“...”
-「もう会わない方がいいんです、私たち。だから……さようなら」=It would be better for us to not see each other again. That's why... Goodbye.
+//「ごめんなさい。私もう、無理みたいです」=
+//「えっ……急にどうしたの……？」=
+//「あなたの顔を見るたびに『今日もか……』って。不幸な目にあった時と、同じ感情があるんです。」=
+//「……」=
+//「もう会わない方がいいんです、私たち。だから……さようなら」=

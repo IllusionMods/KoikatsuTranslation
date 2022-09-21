@@ -1,17 +1,17 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「あのね、私、実は君にお願いしたいことがあるのです！」=Uhm, listen, I've got a request!
-「ん？　改まってどうしたの？」=Hm? You're being awfully formal today, what's up?
-「うん、あのね……君のこと、愛称で呼んでみたいなーって……恋人同士でそういうことするの、前から憧れだったから……」=You see, it's... I was thinking that, maybe it'd be nice to use nicknames for each other... I've always dreamed of doing this sort of stuff, if I ever got a boyfriend so...
-「あ……うん、もちろんいいよ。確かに愛称っていいよね」=Ah... okay, no problem. Nicknames are pretty nice, for sure.
-「うんっ！　ありがとう、それじゃえっと……呼んでみるね」=They are--! Thanks, well then... I'll say it, okay?
-「……[Pあだ名]」=...[Pあだ名].
-「うわぁ、結構照れるかも……でも……うん、新鮮でいいね。俺も呼んでいい？」=Uwah, that's pretty embarrassing... but... yeah, it's really nice and refreshing. Mind if I call you one too?
-「うんっ！　えっと……お願いします」=Sure--! Erhm... please.
-「それじゃ……[Hあだ名]」=Well then... [Hあだ名].
-「わぁぁ、呼ぶのよりも呼ばれる方が恥ずかしい！」=Waah, it's way more embarrassing to have someone call you by one, than calling someone by one!
-「だよね！　俺もそう思った。[Hあだ名]も同じなんだ？」=Right? I felt the same way. You too, huh, [Hあだ名]?
-「もー、恥ずかしいよー！　でも……これからも時々は……こうやって呼び合いたいな」=Jeez, that's embarrassing~! But... I'd love to... call each other these names, every so often.
-「うん、そうしよう、[Hあだ名]」=Alright, let's do that then, [Hあだ名].
-「ふぇぇ、いじわるしないでよーっ！」=Fueh, don't be a meanie~!
+//「あのね、私、実は君にお願いしたいことがあるのです！」=
+//「ん？　改まってどうしたの？」=
+//「うん、あのね……君のこと、愛称で呼んでみたいなーって……恋人同士でそういうことするの、前から憧れだったから……」=
+//「あ……うん、もちろんいいよ。確かに愛称っていいよね」=
+//「うんっ！　ありがとう、それじゃえっと……呼んでみるね」=
+//「……[Pあだ名]」=
+//「うわぁ、結構照れるかも……でも……うん、新鮮でいいね。俺も呼んでいい？」=
+//「うんっ！　えっと……お願いします」=
+//「それじゃ……[Hあだ名]」=
+//「わぁぁ、呼ぶのよりも呼ばれる方が恥ずかしい！」=
+//「だよね！　俺もそう思った。[Hあだ名]も同じなんだ？」=
+//「もー、恥ずかしいよー！　でも……これからも時々は……こうやって呼び合いたいな」=
+//「うん、そうしよう、[Hあだ名]」=
+//「ふぇぇ、いじわるしないでよーっ！」=

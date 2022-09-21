@@ -1,18 +1,18 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-回転音=Rotation
-雨音=Rain
-バイブ音=Vibrator
-デンマ音=Electric Wand
-水流=Water Flowing
-水流(激)=Water Flowing (Strong)
-犬の鳴き声=Dog Barking
-鳥のさえずり=Birds Chirping
-風=Wind
-木々のざわめき=Leaves Rustling
-電話のコール音=Telephone Ringing
-夏の夕暮れ=Summer Twilight Chirping
-換気扇=Ventilation Fan
-虫の声=Crickets Chirping
-焚火=Bonfire
+//回転音=
+//雨音=
+//バイブ音=
+//デンマ音=
+//水流=
+//水流(激)=
+//犬の鳴き声=
+//鳥のさえずり=
+//風=
+//木々のざわめき=
+//電話のコール音=
+//夏の夕暮れ=
+//換気扇=
+//虫の声=
+//焚火=

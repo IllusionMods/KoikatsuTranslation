@@ -1,24 +1,24 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「ふぅ。今日もたくさん歌ったね」=“Fuu. We sure sang a lot today too.”
-「うん。あなたと一緒に歌うと、“かれら”とも調和できそうな気がする」=“Yeah. When I sing together with you, I feel like I can harmonize with "them" too.”
-「もう少し時間があるし、わたしはもうちょっと歌おうかなって思うけど……どうかな？」=“We still have some time, I want to sing some more... how about it?”
-「う～ん……」=“Mmm...”
-CHOICE:『それじゃ、最後までいようか』=Well then, let's stay still the end.
-CHOICE:『今日はもう帰ろうか』=Let's go home for today.
-「それじゃ、最後までいようか」=“Well then, let's stay till the end.”
-「ほんと？　嬉しい……」=“Really? Yay...”
-「[P名]くんと一緒にカラオケを楽しめるのも嬉しいし、“かれら”と、そして[P名]くんとたくさんの時間を過ごせるのがもっと嬉しい」=“It's really fun to sing and enjoy karaoke together with you, [P]-kun, but, spending so much time with "them", and you, [P]-kun, makes me even happier than that.”
-「[H名]……」=“[H]...”
-「んっ……んぅっ……」=“Nn--... nnnn...”
-「[H名]……シたい」=“[H]... I wanna do it.”
-「……わたしと交わりたい、っていうこと？」=“...Do you mean you want to mate?”
-「うん。“かれら”は、どう言ってる？」=“Yeah. How do, "they" feel about it?”
-「えっと、その……[P名]くんに従うように、って……」=“Erhm, uhm... they're telling me to, do whatever you say, [P]-kun...”
-「今日は、もう十分歌ったんじゃない？」=“Haven't we, sung enough for today?”
-「うー……わたしの思ってること、伝わってなかったの？」=“Uuu... did you not understand, what I'm thinking?”
-「わかってるよ。でも、[H名]の声もちょっとかれてきてるでしょ？」=“I understand, don't worry. But, your voice is starting to get a bit tired too, no?”
-「それじゃ、交信に支障が出ちゃうからね。喉を休ませたほうがいいよ」=“It's gonna get in the way of your communication, if you overdo it. You should rest your throat.”
-「あ……たしかに。ありがとう、気遣ってくれて」=“Ah... you're not wrong. Thank you, for thinking of me.”
-「どういたしまして。それじゃあ、会計済ませてくるね」=“You're very welcome. Well then, I'll go settle the bill.”
+//「ふぅ。今日もたくさん歌ったね」=
+//「うん。あなたと一緒に歌うと、“かれら”とも調和できそうな気がする」=
+//「もう少し時間があるし、わたしはもうちょっと歌おうかなって思うけど……どうかな？」=
+//「う～ん……」=
+//CHOICE:『それじゃ、最後までいようか』=
+//CHOICE:『今日はもう帰ろうか』=
+//「それじゃ、最後までいようか」=
+//「ほんと？　嬉しい……」=
+//「[P名]くんと一緒にカラオケを楽しめるのも嬉しいし、“かれら”と、そして[P名]くんとたくさんの時間を過ごせるのがもっと嬉しい」=
+//「[H名]……」=
+//「んっ……んぅっ……」=
+//「[H名]……シたい」=
+//「……わたしと交わりたい、っていうこと？」=
+//「うん。“かれら”は、どう言ってる？」=
+//「えっと、その……[P名]くんに従うように、って……」=
+//「今日は、もう十分歌ったんじゃない？」=
+//「うー……わたしの思ってること、伝わってなかったの？」=
+//「わかってるよ。でも、[H名]の声もちょっとかれてきてるでしょ？」=
+//「それじゃ、交信に支障が出ちゃうからね。喉を休ませたほうがいいよ」=
+//「あ……たしかに。ありがとう、気遣ってくれて」=
+//「どういたしまして。それじゃあ、会計済ませてくるね」=

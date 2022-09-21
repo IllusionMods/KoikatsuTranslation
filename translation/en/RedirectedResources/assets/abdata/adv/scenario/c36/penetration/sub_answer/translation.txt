@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「貴方、二人とも満足させられるの？　もしダメそうなら、容赦なく弾かせてもらうわ」="Will you two make me satisfied? If it's no good, I'll have to decline."
+//「貴方、二人とも満足させられるの？　もしダメそうなら、容赦なく弾かせてもらうわ」=

@@ -1,19 +1,19 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「電車の中、混み合ってきましたね」=It's starting to become quite crowded, isn't it?
-「う、うん。結構余裕が……うわっ」=Y-Yeah. There's no room to... Uwah--
-「ごめん、ぶつかっちゃって……」=Sorry, I didn't mean to...
-「いえ、それはいいのですけれど……あ、あなたのが当たっていて……」=No, it's completely fine, although... y-your thing is poking into me...
-CHOICE:『開き直る』=『Become Bold.』
-CHOICE:『とにかくあやまる』=『Just apologize.』
-「[H名]と密着しちゃってるから、どうしても……」=We're just so close together, [H名], I can't help it...
-「そんなのは理由になりません。早く鎮めてください」=You really cannot use that as an excuse. Please make it calm down quickly.
-「と言われても……わわわわっ」=Even if you say that... wawawawah--
-「ちょ、ちょっと……」=H-Hey...
-「ううぅっ……我慢できなくなくなってきたかも……」=Uuu--... I don't think I can hold it in any longer...
-「待ってください……ここでするつもりですか？」=Please wait... are you really planning on doing it here?
-「できるだけ早く終わらせるから。ね？」=I'll make it as quick as I can. Please?
-「ごめん、本当にごめん！　なんとかするから少しだけ我慢してて！」=Sorry, seriously, I'm sorry! I'll do something about it, so please bear with it for a sec!
-（く……せっかくのデートだったのに、こんなことになってしまうとは……）=(Kuh... we had such a good date, and it ended up like this...)
-（……ひとまず、コレをどうにかさせないとな……違うこと考えておこう）=(...For now, gotta do something about this... Let's think about something else)
+//「電車の中、混み合ってきましたね」=
+//「う、うん。結構余裕が……うわっ」=
+//「ごめん、ぶつかっちゃって……」=
+//「いえ、それはいいのですけれど……あ、あなたのが当たっていて……」=
+//CHOICE:『開き直る』=
+//CHOICE:『とにかくあやまる』=
+//「[H名]と密着しちゃってるから、どうしても……」=
+//「そんなのは理由になりません。早く鎮めてください」=
+//「と言われても……わわわわっ」=
+//「ちょ、ちょっと……」=
+//「ううぅっ……我慢できなくなくなってきたかも……」=
+//「待ってください……ここでするつもりですか？」=
+//「できるだけ早く終わらせるから。ね？」=
+//「ごめん、本当にごめん！　なんとかするから少しだけ我慢してて！」=
+//（く……せっかくのデートだったのに、こんなことになってしまうとは……）=
+//（……ひとまず、コレをどうにかさせないとな……違うこと考えておこう）=

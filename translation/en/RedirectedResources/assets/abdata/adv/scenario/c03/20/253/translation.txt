@@ -1,17 +1,17 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「わわっ、電車の中、結構混んできたですっ！」=“Wawah--, it's starting to get pretty packed--!”
-「止まる度に人が増えてるっ……[H名]、大丈夫？」=“More people pack in at every station... [H], you okay?”
-「は、はいっ……私は大丈夫ですけどっ……あなたが……」=“Y-Yes... I am okay but--... you're--...”
-（うぅ……[H名]の身体、当たってる……いい匂いもして……）=(Uuu... her body is, right up against mine... she smells so nice...)
-CHOICE:『我慢できない』=Can't endure.
-CHOICE:『必死に我慢する』=Endure desperately.
-（っ……我慢、できない……）=(--... can't, endure...)
-「っ……あ、あの……むくむくしてきてるです……」=“---... U-Uhm... it's getting really big...”
-「ごめん……我ながら情けない……」=“Sorry... I know it's quite pathetic...”
-「で、でも……私の身体にくっついて……その……こ、興奮してくれた……ですか……？」=“B-But... did you get aroused... uhm... b-because of... my body...?”
-「うぅ……そう、だけど……」=“Uuu... I did, but...”
-「えへへ……だったら……責任取って私がしてあげるです……私の身体で大きくしてくれたこと、嬉しいですよ」=“Eheheh... in that case... I'll take responsibility and do it... it makes me really happy, that you got erect because of my body.”
-（っ……さすがにここで勃起させるのは、マズイ……！）=(--... popping a chub here really would be, bad...!)
-（今日のデートと、[H名]のために……絶対我慢しなきゃ）=(For our date today, for [H]'s sake... I gotta endure.)
+//「わわっ、電車の中、結構混んできたですっ！」=
+//「止まる度に人が増えてるっ……[H名]、大丈夫？」=
+//「は、はいっ……私は大丈夫ですけどっ……あなたが……」=
+//（うぅ……[H名]の身体、当たってる……いい匂いもして……）=
+//CHOICE:『我慢できない』=
+//CHOICE:『必死に我慢する』=
+//（っ……我慢、できない……）=
+//「っ……あ、あの……むくむくしてきてるです……」=
+//「ごめん……我ながら情けない……」=
+//「で、でも……私の身体にくっついて……その……こ、興奮してくれた……ですか……？」=
+//「うぅ……そう、だけど……」=
+//「えへへ……だったら……責任取って私がしてあげるです……私の身体で大きくしてくれたこと、嬉しいですよ」=
+//（っ……さすがにここで勃起させるのは、マズイ……！）=
+//（今日のデートと、[H名]のために……絶対我慢しなきゃ）=

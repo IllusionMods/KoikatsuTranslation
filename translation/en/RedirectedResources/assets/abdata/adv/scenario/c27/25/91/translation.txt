@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「あっ……お、おはよ…………[Pあだ名]」=“Ah--... m-morning... [Pあだ名].”
-「おはよう、[Hあだ名]」=“Morning, [Hあだ名].”
-「はぅ！　あ……あ……授業、始まっちゃう……ええと、教室どっちだっけ」=“Hau! Ah... ah... class is, gonna start... eerhm, which way was the classroom again?”
+//「あっ……お、おはよ…………[Pあだ名]」=
+//「おはよう、[Hあだ名]」=
+//「はぅ！　あ……あ……授業、始まっちゃう……ええと、教室どっちだっけ」=

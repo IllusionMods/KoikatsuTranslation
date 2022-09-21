@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「……まさか、逆に襲われるとは……」=“...To think, you'd assault me yourself...”
-「ふふ、ふ……でも、悪くなかったのでは？」=“Fufuh, fuh... but, it wasn't bad, was it?”
-「うん……ありがとう」=“Not one bit... thanks.”
+//「……まさか、逆に襲われるとは……」=
+//「ふふ、ふ……でも、悪くなかったのでは？」=
+//「うん……ありがとう」=

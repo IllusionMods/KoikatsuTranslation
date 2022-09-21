@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「んふっ、まだいけるんじゃないのか？　遠慮しないで、好きなだけしていいんだぞ」=“Nnfuh--, can't you keep going? Don't hold back, you can do me as much as you want.”
+//「んふっ、まだいけるんじゃないのか？　遠慮しないで、好きなだけしていいんだぞ」=

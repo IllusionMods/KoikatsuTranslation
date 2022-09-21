@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「え？　あたしにプレゼント！？　へえ、何を用意してくれたの」=“Eh? A present for me?! Hoh, what did you get for me?”
+//「え？　あたしにプレゼント！？　へえ、何を用意してくれたの」=

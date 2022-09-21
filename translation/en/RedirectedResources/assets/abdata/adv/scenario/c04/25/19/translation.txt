@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「おはよう。えっと……また後でね？」=Good morning. Erm... see you later, okay?
+//「おはよう。えっと……また後でね？」=

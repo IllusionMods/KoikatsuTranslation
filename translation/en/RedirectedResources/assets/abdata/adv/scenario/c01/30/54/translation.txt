@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「もう……見つからなかったから良いようなものの……本当はいけないんですからね？」=“Jeez... just because we didn't get found out doesn't mean... normally, we really shouldn't, okay?”
+//「もう……見つからなかったから良いようなものの……本当はいけないんですからね？」=

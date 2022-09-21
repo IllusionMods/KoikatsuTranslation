@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「私のこと、なんでもわかっちゃんだね。嬉しいなぁ♪　大事にするね」=You know all there's to know about me, huh? I'm so happy♪ I'll treasure it.
+//「私のこと、なんでもわかっちゃんだね。嬉しいなぁ♪　大事にするね」=

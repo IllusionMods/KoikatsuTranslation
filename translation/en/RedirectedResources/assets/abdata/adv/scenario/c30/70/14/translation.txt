@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「ふふっ、おはよう……お寝坊さんはよく眠れたかしら？」=Fufu, good morning... Did you sleep well, sleepyhead-san?
-「おはよう。ごめんね、[H名]の隣だとなんだかぐっすり眠っちゃって……」=Good morning. Sorry about that, I slept so soundly being next to you [H名]...
-「ふふっ、そういうの嬉しいな、もー。母性本能って言うのかしら？　そういうのくすぐられちゃう……もう……大好き！」=Fufu, I'm happy to hear that, geez. I wonder if this is what they call maternal instinct? It makes me feel kinda tingly... geez... I love you!
-「あはは、俺も大好きだよ。朝から隣に[H名]がいるなんて……幸せ過ぎる」=Ahaha, I love you too. To have [H名] be by my side up until morning... I couldn't be happier.
-「あら、嬉しい……夢じゃないって理解出来るまで、もう少しぺたぺたしちゃう？　なんて……ふふふっ、それじゃまた、離れがたくなっちゃうわね」=Ah, that makes me so happy... Then, till you understand that this isn't a dream, wanna do it again? Just kidding... Fufufu, if we were to do that, then it'll be hard to go our separate ways, wouldn't it?
+//「ふふっ、おはよう……お寝坊さんはよく眠れたかしら？」=
+//「おはよう。ごめんね、[H名]の隣だとなんだかぐっすり眠っちゃって……」=
+//「ふふっ、そういうの嬉しいな、もー。母性本能って言うのかしら？　そういうのくすぐられちゃう……もう……大好き！」=
+//「あはは、俺も大好きだよ。朝から隣に[H名]がいるなんて……幸せ過ぎる」=
+//「あら、嬉しい……夢じゃないって理解出来るまで、もう少しぺたぺたしちゃう？　なんて……ふふふっ、それじゃまた、離れがたくなっちゃうわね」=

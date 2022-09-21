@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「ふふっ、君とのおしゃべりがこんなにも楽しいなんてね」=Fufu--, I never thought I'd have this much fun chatting with you.
-「俺も、まだまだしゃべり足りないよ」=Me too, I still have lots I want to chat with you about.
-「ねぇ……私たち、なんだかとってもいい関係になれそうじゃない……？」=Hey... isn't our relationship getting really close...?
-「えっ、それはどういう……？」=Eh--, exactly what do you...?
-「うふふ、それはね……友達以上……ってコト♪」=Ufufu, what I mean is... we can be more than just friends... that's what I mean♪
-（でもその後に恋人未満って続くんだよね、きっと）=(But, less than lovers, I bet.)
-「これからの私たちの関係に、乞うご期待♪　じゃあね」=Look forward to seeing how our relationship's develops♪ See ya~
+//「ふふっ、君とのおしゃべりがこんなにも楽しいなんてね」=
+//「俺も、まだまだしゃべり足りないよ」=
+//「ねぇ……私たち、なんだかとってもいい関係になれそうじゃない……？」=
+//「えっ、それはどういう……？」=
+//「うふふ、それはね……友達以上……ってコト♪」=
+//（でもその後に恋人未満って続くんだよね、きっと）=
+//「これからの私たちの関係に、乞うご期待♪　じゃあね」=

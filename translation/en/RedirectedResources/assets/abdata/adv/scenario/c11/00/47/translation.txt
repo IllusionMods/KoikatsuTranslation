@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「最高に幸せよ……赤ちゃんが愛の結晶なのもわかるわ……」=“I'm supremely happy... I understand why they call babies a crystalization of love...”
+//「最高に幸せよ……赤ちゃんが愛の結晶なのもわかるわ……」=

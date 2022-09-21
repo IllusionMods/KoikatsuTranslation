@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「……あんなの、絶対周りに気づかれちゃってるよ……」=...People are definitely onto what you just did...
-「ごめんね、完全に頭が飛んじゃったよ……」=Sorry, I really did lose my head there...
-「もう……。電車に乗るたびに今日のこと、思い出しちゃいそう」=Jeez... Feel like I'll get reminded of today, everytime I get on a train.
+//「……あんなの、絶対周りに気づかれちゃってるよ……」=
+//「ごめんね、完全に頭が飛んじゃったよ……」=
+//「もう……。電車に乗るたびに今日のこと、思い出しちゃいそう」=

@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「すごく残念ですけど……私、あなたとお付き合いしていける自信がなくなったです……」=“I'm super sorry for this but... I don't think I can keep going out with you...”
-「え……まさか……」=“Eh... no way, you can't...”
-「はい……今日でもうお付き合いは解消させて欲しいです……私にも至らないところがたくさんあって……ご迷惑をお掛けしたですよ……」=“Yes... I would like to cancel our relationship... there's so many things I'm lacking in, I just... I just keep causing you so much trouble...”
-「そんな……俺は別に迷惑だなんて……」=“That's not... I really don't think of it as trouble...”
-「あはは、平気なのです。あなたにはきっと、もっと相応しい彼女さんが出来ると思うですよ。応援……してるです……ではっ！」=“Ahaha, it's fine. I think you'll be able to do a lot better than me, a girl that's actually worthy of you. I'll be... cheering for you... goodbye!”
+//「すごく残念ですけど……私、あなたとお付き合いしていける自信がなくなったです……」=
+//「え……まさか……」=
+//「はい……今日でもうお付き合いは解消させて欲しいです……私にも至らないところがたくさんあって……ご迷惑をお掛けしたですよ……」=
+//「そんな……俺は別に迷惑だなんて……」=
+//「あはは、平気なのです。あなたにはきっと、もっと相応しい彼女さんが出来ると思うですよ。応援……してるです……ではっ！」=

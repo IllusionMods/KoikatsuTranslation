@@ -1,13 +1,13 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-数学の授業=Math Class
-水泳部での亜依=Ai in the Swimming Club
-ズル休み=Playing Hooky
-乙梨さんのトラウマを打破せよ=Breaking Through Otonashi-san's Trauma
-亜依のコンプレックス=Ai's Complex
-似たもの親子=Like Mother Like Daughter
-恋バナのような告白=Confession-like Love Story
-おうちデート=A Date at Home
-二人きりのプールで=Just the Two of Us at the Pool
-亜依への気持ち=Feelings for Ai
+//数学の授業=
+//水泳部での亜依=
+//ズル休み=
+//乙梨さんのトラウマを打破せよ=
+//亜依のコンプレックス=
+//似たもの親子=
+//恋バナのような告白=
+//おうちデート=
+//二人きりのプールで=
+//亜依への気持ち=

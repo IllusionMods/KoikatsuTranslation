@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「あ、またパンだけ？ 栄養偏っちゃうよ？」=Ah, just bread again? You're gonna ruin your body with such an unbalanced diet, you know?
-「わかってはいるんだけどな～。ついつい……」=I do understand that, I do~. I can't help it though...
-「もぉ～、しょうがないから今度……アタシがお弁当作ってきてあげる」=Jeez~, it can't be helped so... I'll pack you a lunch next time.
-「それ食べたい！ あ、いや助かる！ お願いします」=Damn, for real?! I wanna eat that! Ah, sorry, that'll really help me out though! Please do so.
+//「あ、またパンだけ？ 栄養偏っちゃうよ？」=
+//「わかってはいるんだけどな～。ついつい……」=
+//「もぉ～、しょうがないから今度……アタシがお弁当作ってきてあげる」=
+//「それ食べたい！ あ、いや助かる！ お願いします」=

@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「へえ、色々あるんだね」=“Oh, there's a lot isn't there?”
-「種類も豊富ね……。あ、あのキーホルダーのお店見にいきましょう」=“There's a lot of different kinds. Ah, let's go to that keychain store over there.”
-「うん、いいよ」=“Sounds like a good idea.”
-「その……買ってくれて、ありがとう……」=“Um...Thanks for buying it for me.”
-（よかった、喜んでもらえたみたいだ）=(Thank goodness. Seems like she liked it.)
+//「へえ、色々あるんだね」=
+//「種類も豊富ね……。あ、あのキーホルダーのお店見にいきましょう」=
+//「うん、いいよ」=
+//「その……買ってくれて、ありがとう……」=
+//（よかった、喜んでもらえたみたいだ）=

@@ -1,13 +1,13 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-………………=.........
-…………=......
-……=...
-「じゃ、私こっちだから……またな」=Then, I'm this way so... see ya.
-CHOICE:「……家にこない？」=...Won't you come to my place?
-CHOICE:「うん、またね」=Yeah, see ya.
-「[H]……このあと、家に来ない？　もうちょっと一緒にいようよ……」=[H]... won't you come to my place? Let's stay together a bit longer...
-「えっ……。別に大丈夫だけど……」=Eh--... I don't really mind...
-「うん、じゃあまた学園で！」=Yeah, see ya at school!
-「おう！」=Yeah!
+//………………=
+//…………=
+//……=
+//「じゃ、私こっちだから……またな」=
+//CHOICE:「……家にこない？」=
+//CHOICE:「うん、またね」=
+//「[H]……このあと、家に来ない？　もうちょっと一緒にいようよ……」=
+//「えっ……。別に大丈夫だけど……」=
+//「うん、じゃあまた学園で！」=
+//「おう！」=

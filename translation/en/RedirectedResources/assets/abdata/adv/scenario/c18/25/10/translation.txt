@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「……ええと、一応、活動内容をお聞きしても？」=...Eerhm, for record's sake, could I ask more about the club activities?
-「ほら、あの、私の場合は安全上の問題がありますので……」=I mean, you know, in my case, something might go wrong and stuff...
-「お喋りをしたりする部活だね。特に危ない要素は無いよ」=The activities are just about talking and stuff. Nothing that could go particularly wrong.
-「私にかかれば、この世に危なくないものなんて無いですよ」=When I'm involved, anything and everything in this world can go wrong.
-「あ、あはは……」=A-Ahaha...
-「……冗談、冗談です。入部しますね。これからよろしくお願いします」=...Joke, it was a joke. I'll join. Please take care of me.
+//「……ええと、一応、活動内容をお聞きしても？」=
+//「ほら、あの、私の場合は安全上の問題がありますので……」=
+//「お喋りをしたりする部活だね。特に危ない要素は無いよ」=
+//「私にかかれば、この世に危なくないものなんて無いですよ」=
+//「あ、あはは……」=
+//「……冗談、冗談です。入部しますね。これからよろしくお願いします」=

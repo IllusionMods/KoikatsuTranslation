@@ -1,21 +1,21 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「こんなにちゃんとした準備するのか……マズいな……体がガチガチだよ」=“They're actually doing it all proper-like, huh... damn... my body's all stiff.”
-（タキシードだけでもいっぱいいっぱいなのに、[H名]が思わせぶりなこと言うから……）=(Just the tuxedo alone is heavy enough on it's own, but she had to pile on some weighty words on top...)
-（うぅ……なんだか、『模擬』どころじゃない緊張感になってきたぞ……）=(Uuu... this is starting to feel less and less like a "mock" ceremony...)
-（いよいよ出番か……）=(Showtime, huh...)
-（うっ……中に入るとより一層プレッシャーが……）=(Uu--... I've barely put my foot through the door and the pressure's doubled...)
-（きっと、[H名]も緊張してるだろうな……新郎役の俺がしゃきっとしないと）=(I bet she's pretty damn nervous too... I gotta get a grip, as her "groom)
-（き、緊張したぁ……ただ歩くだけで、こんなに緊張するなんて……うぅ、もっと気を引き締めないと！）=(M-My heart's pounding... can't believe just walking's made me so nervous... Uuu, I really gotta get a grip here!)
-モブ=Mob
-「これより新婦が入場致します。後方の扉口をご覧ください」=“And now, the bride will make her entrance. Please pay attention to the main door.”
-（[H名]……）=([H名]...)
-純白のドレスを身にまとった[H名]が、毅然とした態度で入場してくる。=[H名] entered the hall, resolute in her steps, clad in a pure white dress.
-呼吸をすることも忘れて、俺はただ見つめていた。=Forgetting even to breathe, I just stared at her.
-今の[H名]は――きっと銀河で一番美しい花嫁だ。=I'm sure of it-- She's definitely the most beautiful bride of them all, in the entire milky way, right now.
-「……すごいな」=“...Amazing.”
-「[H名]……なんていうか、とても素敵だよ……びっくりした……[H名]が入って来てから、ずっとドキドキしてる……」=“[H名]... how do I say this, you look lovely... it really caught me off guard... my heart's been pounding, ever since you stepped through that door...”
-「えへへ……なにか、そうさせる波長でも出てるのかな？　わたしから」=“Ehehe... Am I emanating some sort of wavelength or something? To cause that?”
-「波長？　あはは、それはあるかもしれないね」=“A wavelength? Ahaha, maybe.”
-「ありがとう……[H名]のおかげで、少しだけ緊張が和らいだよ」=“Thank you... I feel a bit calmer now, thanks to you, [H名].”
+//「こんなにちゃんとした準備するのか……マズいな……体がガチガチだよ」=
+//（タキシードだけでもいっぱいいっぱいなのに、[H名]が思わせぶりなこと言うから……）=
+//（うぅ……なんだか、『模擬』どころじゃない緊張感になってきたぞ……）=
+//（いよいよ出番か……）=
+//（うっ……中に入るとより一層プレッシャーが……）=
+//（きっと、[H名]も緊張してるだろうな……新郎役の俺がしゃきっとしないと）=
+//（き、緊張したぁ……ただ歩くだけで、こんなに緊張するなんて……うぅ、もっと気を引き締めないと！）=
+//モブ=
+//「これより新婦が入場致します。後方の扉口をご覧ください」=
+//（[H名]……）=
+//純白のドレスを身にまとった[H名]が、毅然とした態度で入場してくる。=
+//呼吸をすることも忘れて、俺はただ見つめていた。=
+//今の[H名]は――きっと銀河で一番美しい花嫁だ。=
+//「……すごいな」=
+//「[H名]……なんていうか、とても素敵だよ……びっくりした……[H名]が入って来てから、ずっとドキドキしてる……」=
+//「えへへ……なにか、そうさせる波長でも出てるのかな？　わたしから」=
+//「波長？　あはは、それはあるかもしれないね」=
+//「ありがとう……[H名]のおかげで、少しだけ緊張が和らいだよ」=

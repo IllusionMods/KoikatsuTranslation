@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「楽しかったね、観覧車」=“The ferris wheel was fun, wasn't it?”
-「ちょっと恥ずかしかったですけど……はい、楽しかったです」=“It was a bit embarrassing but... yes, I had fun.”
-「あはは、よかった。じゃあ、そろそろ帰ろうか」=“Ahaha, great. Let's go home then, shall we?”
-「はい、遊園地に連れてきてくださって、ありがとうございました」=“Yes, thank you very much, for taking me to an amusement park today.”
-「ううん、こちらこそ楽しい時間をありがとう。駅は……あっちか」=“No, thank you for the great time we had today. The station is... that way, I guess.”
-「少し名残惜しいですね」=“Feels a bit sad though, doesn't it?”
-「わかる。遊園地って帰るとき、ちょっと寂しいよね。でも、また来よう。学園にいる間でも、卒業した後でもさ」=“I feel you. Heading back home from the amusement park feels kinda lonely, doesn't it? But, let's come again. While we're still in school, and even after we graduate.”
+//「楽しかったね、観覧車」=
+//「ちょっと恥ずかしかったですけど……はい、楽しかったです」=
+//「あはは、よかった。じゃあ、そろそろ帰ろうか」=
+//「はい、遊園地に連れてきてくださって、ありがとうございました」=
+//「ううん、こちらこそ楽しい時間をありがとう。駅は……あっちか」=
+//「少し名残惜しいですね」=
+//「わかる。遊園地って帰るとき、ちょっと寂しいよね。でも、また来よう。学園にいる間でも、卒業した後でもさ」=

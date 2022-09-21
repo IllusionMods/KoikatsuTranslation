@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「今日も元気そうね。きみみたいに爽やかな子を見ると、こっちまで元気になっちゃいそう」=You're looking good again today. When I see a child as fresh as you, it makes me feel better.
+//「今日も元気そうね。きみみたいに爽やかな子を見ると、こっちまで元気になっちゃいそう」=

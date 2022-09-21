@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「えっ、ええ！？　こ、困ります……」=Eh--, eeeeh!? T-That's really, I don't...
-「だ、ダメかな……？」=N-No good...?
-「急にそんな幸せな事言われてしまったら、反応に困ります……」=If you make me so happy all of a sudden, I won't know how to react...
-「どうしましょう、すごく嬉しい……。不束者ですが、よろしくお願いします……！」=What should I do, I'm so happy... I may be inexperienced at this but, please do take care of me...!
+//「えっ、ええ！？　こ、困ります……」=
+//「だ、ダメかな……？」=
+//「急にそんな幸せな事言われてしまったら、反応に困ります……」=
+//「どうしましょう、すごく嬉しい……。不束者ですが、よろしくお願いします……！」=

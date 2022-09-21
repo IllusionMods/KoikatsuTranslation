@@ -1,22 +1,22 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「そういえば、言い忘れてたわけじゃないんだけど、今日の[H名]の恰好、可愛いよね」=“Reminds me, not that I just remembered to say it but, you look adorable today, [H].”
-「そうですか？　ありがとうございます、早起きしてひとりファッションショーをして決めたんです」=“Do I? Thank you very much, I got up early and held a mini-fashion show for myself to pick it out.”
-「ひとりファッションショー？」=“A mini-fashion show?”
-「あ……小さい頃からしている遊びなんです。ワードローブから服を全て出して、何度も着替えては姿見の前でポーズを取るという……」=“Ah... it's a fun little thing I've been doing ever since I was a child. I just take out everything from my wardrobe, and take poses in every combination I can think of, in front of the dresser...”
-「へえ。[H名]は小さい頃からおしゃれさんなんだね」=“Hoh. Guess that trendy fashion sense of yours goes back all the way to back then, huh?”
-「ありがとうございます。でも、あなたに褒めていただいたので、私の選択が独りよがりでないことがわかって、安心しました」=“Thank you. But, that's a relief, knowing that you like it too, and that it's not just me having flights of fancy.”
-「今日のテーマはあなたとのデートに着ていく服……あなたに喜んでもらうために選んだんです」=“The theme I was trying to go for was for our date... I picked this outfit because I wanted to make you happy.”
-「なるほど。だから俺の好みのど真ん中なんだね」=“I see. That's why it's exactly the sort of thing I prefer, huh?”
-「喜んでいただけて光栄です。これからも色々試して、あなたの好みを探り続けますね」=“I'm glad you like it. I'll keep trying out lots of things and sound out more and more about your preferences, okay?”
-「ありがとうございます。母にあなたとデートをしに行くと言ったら、コーディネートしてくれました」=“Thank you very much. My mother put together this outfit for me, after I told her that I was going on a date with you.”
-「お母さんの趣味、ナイスだね」=“Your mother has pretty good taste.”
-「はい。男性はこのような恰好だと喜んでくださると」=“Yes. She told me that men prefer this sort of thing.”
-「いやぁ……うん、まったくその通りだよ」=“Man~... yeah, she's right on the money.”
-「では、これからも母に選んでもらいますね」=“Well then, I'll keep having her pick my future outfits too.”
-「あ、でも、[H名]が自分で選んだのも見てみたいかな」=“Ah, but, I'd love to see what you'd pick out as well, [H].”
-「私は……あまり、そのようなセンスを受け継がなかったので……」=“I... didn't really inherit much of that sense at all so...”
-「構わないよ。[H名]が自分に似合うって思うファッションを見たいんだよ」=“Doesn't matter. I wanna see exactly what sort of fashion you like, what you think you look good in.”
-「……では、機会がありましたら、自分で選んでみますけど……笑わないでくださいね」=“...Well then, I'll pick it out myself, if I get the chance but... don't laugh, okay?”
-「そんな。笑うわけないよ。楽しみだなぁ……」=“No way. I would never. Man, I'm excited~...”
+//「そういえば、言い忘れてたわけじゃないんだけど、今日の[H名]の恰好、可愛いよね」=
+//「そうですか？　ありがとうございます、早起きしてひとりファッションショーをして決めたんです」=
+//「ひとりファッションショー？」=
+//「あ……小さい頃からしている遊びなんです。ワードローブから服を全て出して、何度も着替えては姿見の前でポーズを取るという……」=
+//「へえ。[H名]は小さい頃からおしゃれさんなんだね」=
+//「ありがとうございます。でも、あなたに褒めていただいたので、私の選択が独りよがりでないことがわかって、安心しました」=
+//「今日のテーマはあなたとのデートに着ていく服……あなたに喜んでもらうために選んだんです」=
+//「なるほど。だから俺の好みのど真ん中なんだね」=
+//「喜んでいただけて光栄です。これからも色々試して、あなたの好みを探り続けますね」=
+//「ありがとうございます。母にあなたとデートをしに行くと言ったら、コーディネートしてくれました」=
+//「お母さんの趣味、ナイスだね」=
+//「はい。男性はこのような恰好だと喜んでくださると」=
+//「いやぁ……うん、まったくその通りだよ」=
+//「では、これからも母に選んでもらいますね」=
+//「あ、でも、[H名]が自分で選んだのも見てみたいかな」=
+//「私は……あまり、そのようなセンスを受け継がなかったので……」=
+//「構わないよ。[H名]が自分に似合うって思うファッションを見たいんだよ」=
+//「……では、機会がありましたら、自分で選んでみますけど……笑わないでくださいね」=
+//「そんな。笑うわけないよ。楽しみだなぁ……」=

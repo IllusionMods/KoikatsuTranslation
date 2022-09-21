@@ -1,18 +1,18 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「あー、そのさ。折角恋人同士になったんだし。お互い愛称で呼んでみるとか、どう？」=“Aah, listen. We finally became a couple, and stuff. How about we call each other by nicknames, and stuff?”
-「うぇっ！　あ、愛称ねぇ……ま、まぁいいんじゃないか。うん」=“Uweh--! N-Nicknames, huh... w-well, why not? Yeah.”
-「よかった。こういうの嫌がるかなって思ってたから。じゃあ[Pあだ名]って、呼んでくれる？」=“Great. I was worried you wouldn't want to. Will you call me [Pあだ名] then?”
-「へっ？　や、待て！　愛称ってそういう？　いやいやいやいや、考え直せって。本当にいいのか？」=“Heh--? No, wait! Is that a nickname? Hang on just a sec, think it over. Are you sure you want that?”
-「よく考えた結果なんだ。どうしてもダメかな？」=“It's one that I decided on after a lot of thinking. Are you really opposed to it afterall?”
-「もー、そういう聞き方ずるいぞ……。うぅ、わかった。お前の望み通りに呼んでやるよ」=“Jeez, it's unfair, you know, saying it like that... Uuu, I got it. I'll call you what you want me to.”
-「やった！　あ、そうだ、[H]はどう呼ばれたい？　教えてよ」=“Yay! Ah, right. What do you want me to call you, [H]? Tell me.”
-「べ、べつに……特にないから……お、おまえの好きに呼べよ」=“I-I don't... have anything in mind... c-call me whatever you like.”
-「わかった。んー、何かいいの……おっ、思いついた」=“Got it. Nnn, what'd be best... oh--, that's it.”
-「それじゃあ、呼ぶね？　ねぇ、[Hあだ名]！」=“Well then, here I go, okay? Hey, [Hあだ名]!”
-「えぁ、えっと……な、なんだ……？　[Pあだ名]」=“Eyah, werhm... w-what is it...[Pあだ名]?”
-「ふふ、呼んでみただけだよ」=“Fufuh, I just wanted to call you that.”
-「……恥ずかしい思いをして言ったのに、ちょっとイラっとする返事だったな……やっぱ愛称はなし！」=“...I pushed past my embarrassment to call you that, and that's what you reply with?... Nevermind, let's forget it!”
-「えぇっ！　ごめん！　たまにでもいいから、呼んでくれないかな……お願い！」=“Eeh--! Sorry! It'll be fine just every once in a while, so won't you call me that... please!”
-「はぁ～っ……はいはい。たまにな。ホントに気が向いた時だけだからな」=“Haah~... yes, yes. Once in a blue moon. Only when I really feel like it, okay?”
+//「あー、そのさ。折角恋人同士になったんだし。お互い愛称で呼んでみるとか、どう？」=
+//「うぇっ！　あ、愛称ねぇ……ま、まぁいいんじゃないか。うん」=
+//「よかった。こういうの嫌がるかなって思ってたから。じゃあ[Pあだ名]って、呼んでくれる？」=
+//「へっ？　や、待て！　愛称ってそういう？　いやいやいやいや、考え直せって。本当にいいのか？」=
+//「よく考えた結果なんだ。どうしてもダメかな？」=
+//「もー、そういう聞き方ずるいぞ……。うぅ、わかった。お前の望み通りに呼んでやるよ」=
+//「やった！　あ、そうだ、[H]はどう呼ばれたい？　教えてよ」=
+//「べ、べつに……特にないから……お、おまえの好きに呼べよ」=
+//「わかった。んー、何かいいの……おっ、思いついた」=
+//「それじゃあ、呼ぶね？　ねぇ、[Hあだ名]！」=
+//「えぁ、えっと……な、なんだ……？　[Pあだ名]」=
+//「ふふ、呼んでみただけだよ」=
+//「……恥ずかしい思いをして言ったのに、ちょっとイラっとする返事だったな……やっぱ愛称はなし！」=
+//「えぇっ！　ごめん！　たまにでもいいから、呼んでくれないかな……お願い！」=
+//「はぁ～っ……はいはい。たまにな。ホントに気が向いた時だけだからな」=

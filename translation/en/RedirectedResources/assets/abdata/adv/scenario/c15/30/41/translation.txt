@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「うっぎゃあああ！　信じられないぞ！　早く出てけぇー！」=Uuggyaaaaah! I can't believe you! Get out already!
+//「うっぎゃあああ！　信じられないぞ！　早く出てけぇー！」=

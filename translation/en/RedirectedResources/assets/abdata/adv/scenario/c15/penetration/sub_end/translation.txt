@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「はふ、二人も相手にして、何でキミはそんな元気なんだー……？」=“*pant*, just where do you get all that energy from? There were two of us, you know...?”
+//「はふ、二人も相手にして、何でキミはそんな元気なんだー……？」=

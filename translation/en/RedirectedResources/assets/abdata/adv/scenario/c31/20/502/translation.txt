@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「ハァ、ハァ……すまん、少し準備に手間取った……慣れない事は、やるものではないな」=Haa, Haa... Sorry, I got held up with stuff... I really shouldn't try doing things I'm not used to.
-「予定の３分前だし大丈夫だよ。走ってきたの？　凄い汗だよ？」=It's alright, it's still 3 minutes before the time we chose. Did you run here? You're sweating up a storm, you know?
-「あぁ、全力でな……ぅぅ、あまり見るな。最初から汗だくで現れる彼女なんて……我ながら情けない」=Yeah, with all my power... Uuu, don't stare so much. A girlfriend that appears for a date covered head to toe with sweat right from the start... Even for me, it's pretty pathetic.
-「そんな事ないって。遅れないように頑張ってくれたんでしょ？　そういうの、素直に嬉しいよ」=That's not true at all. You did your best so you wouldn't be late, no? That sort of thing really makes me happy.
+//「ハァ、ハァ……すまん、少し準備に手間取った……慣れない事は、やるものではないな」=
+//「予定の３分前だし大丈夫だよ。走ってきたの？　凄い汗だよ？」=
+//「あぁ、全力でな……ぅぅ、あまり見るな。最初から汗だくで現れる彼女なんて……我ながら情けない」=
+//「そんな事ないって。遅れないように頑張ってくれたんでしょ？　そういうの、素直に嬉しいよ」=

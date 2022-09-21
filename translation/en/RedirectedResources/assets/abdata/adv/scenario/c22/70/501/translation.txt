@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-（あっ、[H名]、もう来てる！）=(Ah--, [H名]'s already here!)
-「ごめんっ！　待たせちゃったかな？」=Sorry--! Did I make you wait?
-「ううん、大丈夫だよー。私が早く来ちゃっただけだから、そんなに急がなくてもいいのにー」=No, it's alright. It's my fault for coming much earlier than we decided on, you don't need to rush so much.
-「あはは、あっちから姿が見えたからつい……待たせちゃ悪いと思って」=Ahaha, I saw you from over there so I couldn't help it... didn't want to make you wait.
-「君のこと、いーっぱい考えながら待ってたから、すごく楽しかったよー」=I was thinking of you the whole time I was waiting so, it was a lot of fun~
-「い、いきなりそんなこと言われたら照れちゃうよ。それじゃ、今日はどこに行こうかな」=Y-You're gonna make me blush. Well then, where should we go today?
+//（あっ、[H名]、もう来てる！）=
+//「ごめんっ！　待たせちゃったかな？」=
+//「ううん、大丈夫だよー。私が早く来ちゃっただけだから、そんなに急がなくてもいいのにー」=
+//「あはは、あっちから姿が見えたからつい……待たせちゃ悪いと思って」=
+//「君のこと、いーっぱい考えながら待ってたから、すごく楽しかったよー」=
+//「い、いきなりそんなこと言われたら照れちゃうよ。それじゃ、今日はどこに行こうかな」=

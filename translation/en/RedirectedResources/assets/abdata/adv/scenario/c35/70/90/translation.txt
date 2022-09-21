@@ -1,15 +1,15 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「ねぇ、私たちももうずいぶん仲良しになったっちゃけん、そろそろ呼び方を変えてみるっていうのはどうかいな？　例えば愛称みたいな……」=Hey, we've gotten pretty close and everything so, how about we try changing the way we refer to each other? Something like a nickname, for example...
-「なるほど、愛称か……どんな感じがいいかな？」=I see, a nickname, huh... what sort of thing do you have in mind?
-「私が考えたのやったら……[Pあだ名]♪　っていうのは……どう？」=The one I came up with was... [Pあだ名]♪... how's that?
-「おお、何だか今までと全然違う気分がするね。いいかも」=Ooo, it has a way different feel to it compared to usual. It's pretty nice.
-「良かったー！　やっぱり距離を縮めるには愛称が基本やね！　えーっと……それじゃ君は私のこと、何て呼んでくれるん？」=I'm glad! Nicknames really are fundamental to getting closer together, aren't they! Erhm... well then, what are you going to call me?
-「俺が考えていいんだったら……えーっと……[Hあだ名]ってどう？」=If you don't mind me thinking of one then... erhm... how about [Hあだ名]?
-「わわっ！　嬉しくて……ちょっと照れるん。そんな風に呼ばれると、すごく特別な感じがするね」=Wawah--! I'm so happy... I can't help but blush a bit. Being called that gave me such a special feeling
-「うん、呼んでる俺も特別な感じがするよ。[Hあだ名]……これからもよろしくね」=Yeah, calling you that made me feel the same way. [Hあだ名]... take care of me in the future too.
-「うんっ！　こちらこそ……これからも仲良くして欲しいん」=Yeah--! Same here... Get along with me in the future too.
-「あはは、約束するよ。でも……みんなの前でもずっとこの呼び方にするの？」=Ahaha, I promise you that. But... are we going to always use these nicknames, in front of everyone?
-「はぅっ……そ、それはちょっと恥ずかしいかもしれんね。やけん……んー、時々、この呼び方にしよ？　特別感が出て嬉しいん。いいかいな、[Pあだ名]♪」=Hauu--... T-That might be a bit embarrassing. So... nnn, let's use it every once in a while, okay? It'll keep its special feeling too, which'd be really nice. That okay, [Pあだな]?♪
-「もちろんいいよ。[Hあだ名]」=Of course it's okay. [Hあだ名].
+//「ねぇ、私たちももうずいぶん仲良しになったっちゃけん、そろそろ呼び方を変えてみるっていうのはどうかいな？　例えば愛称みたいな……」=
+//「なるほど、愛称か……どんな感じがいいかな？」=
+//「私が考えたのやったら……[Pあだ名]♪　っていうのは……どう？」=
+//「おお、何だか今までと全然違う気分がするね。いいかも」=
+//「良かったー！　やっぱり距離を縮めるには愛称が基本やね！　えーっと……それじゃ君は私のこと、何て呼んでくれるん？」=
+//「俺が考えていいんだったら……えーっと……[Hあだ名]ってどう？」=
+//「わわっ！　嬉しくて……ちょっと照れるん。そんな風に呼ばれると、すごく特別な感じがするね」=
+//「うん、呼んでる俺も特別な感じがするよ。[Hあだ名]……これからもよろしくね」=
+//「うんっ！　こちらこそ……これからも仲良くして欲しいん」=
+//「あはは、約束するよ。でも……みんなの前でもずっとこの呼び方にするの？」=
+//「はぅっ……そ、それはちょっと恥ずかしいかもしれんね。やけん……んー、時々、この呼び方にしよ？　特別感が出て嬉しいん。いいかいな、[Pあだ名]♪」=
+//「もちろんいいよ。[Hあだ名]」=

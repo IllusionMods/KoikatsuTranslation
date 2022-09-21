@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「う、嘘じゃないみたいだな」=L-Looks like you're serious.
-「もちろんだよ、それで返事は？」=Of course. Your answer?
-「そのあたしも前からキミが好きだったから……」=Uhm, I've been in love with you for a while too so...
-「って、ことは……」=So you're saying...
-「うん、もちろん返事はＯＫだぞ」=Yeah, it's a "yes", of course.
+//「う、嘘じゃないみたいだな」=
+//「もちろんだよ、それで返事は？」=
+//「そのあたしも前からキミが好きだったから……」=
+//「って、ことは……」=
+//「うん、もちろん返事はＯＫだぞ」=

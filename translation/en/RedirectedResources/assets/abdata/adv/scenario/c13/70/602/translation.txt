@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「あはっ、また来ちゃったね～」=Aha--, we came here again~
-「そうだね。……気のせいか、テンション高くない？」=Yeah. ...Aren't you pretty excited? Or is that just my imagination?
-「えっ……！　だって、けっこー楽しみだったし……」=Eh--...! I can't help it, I've been looking forward to this a lot...
-「ほんと？　嬉しいな」=Really? That makes me real happy.
-「……えへへ。だから……[P名]くん……今日もたっくさん、感じさせてよね？」=...Ehehe. That's why... [P名]-kun... do lots of stuff, and make me feel real good today too, okay?
+//「あはっ、また来ちゃったね～」=
+//「そうだね。……気のせいか、テンション高くない？」=
+//「えっ……！　だって、けっこー楽しみだったし……」=
+//「ほんと？　嬉しいな」=
+//「……えへへ。だから……[P名]くん……今日もたっくさん、感じさせてよね？」=

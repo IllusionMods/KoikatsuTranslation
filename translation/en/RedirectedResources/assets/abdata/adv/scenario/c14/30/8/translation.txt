@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「はぁ？　おまえ自分で何言ってんのかわかってんのか？」=Haa? Do you even understand what you're spouting out of that mouth?
-「ちゃんとわかってるよ……その上で、お願いしてるんだ」=I understand it just fine... I'm asking with full understanding.
-「……そんなにしたいのか？」=...You wanna do it that badly?
-「うん、どうしてもしたい。なにがなんでもしたい」=Yeah, no matter what. No matter what happens, I wanna do it.
-「なんでこんなときだけ、押しが強いんだよ……あぁ、もう私の負けだ。してやるからさっさと済ませろよな」=Why do you only ever grow a pair, at times like these... aah, whatever, I lose. I'll do it so get it over with quickly, alright?
+//「はぁ？　おまえ自分で何言ってんのかわかってんのか？」=
+//「ちゃんとわかってるよ……その上で、お願いしてるんだ」=
+//「……そんなにしたいのか？」=
+//「うん、どうしてもしたい。なにがなんでもしたい」=
+//「なんでこんなときだけ、押しが強いんだよ……あぁ、もう私の負けだ。してやるからさっさと済ませろよな」=

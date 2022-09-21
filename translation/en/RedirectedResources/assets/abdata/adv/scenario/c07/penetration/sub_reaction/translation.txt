@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「あちゃー見られてたかー……参ったなぁ……」=Darn, you saw us, huh... Welp, I'm beat...
+//「あちゃー見られてたかー……参ったなぁ……」=

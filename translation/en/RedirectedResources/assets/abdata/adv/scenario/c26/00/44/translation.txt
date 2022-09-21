@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「へえ、色々あるんだね」=“Hoh, there's all sorts, huh?”
-「私は……バナナクレープが食べたい」=“I wanna... eat a banana crepe.”
-「うん、いいよ」=“Yeah, alright.”
-「……楽しかった、ありがとう」=“...That was fun, thanks.”
-（よかった、喜んでもらえたみたいだ）=(Great, looks like she enjoyed it.)
+//「へえ、色々あるんだね」=
+//「私は……バナナクレープが食べたい」=
+//「うん、いいよ」=
+//「……楽しかった、ありがとう」=
+//（よかった、喜んでもらえたみたいだ）=

@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-巫女スカート=Shrine Maiden Skirt
-鬼神の装束A(下)=Demon God's Costume A (Bottom)
-鬼神の装束B(下)=Demon God's Costume B (Bottom)
+//巫女スカート=
+//鬼神の装束A(下)=
+//鬼神の装束B(下)=

@@ -1,17 +1,17 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-モブ=Mob
-「お疲れ様でした。ふふっ、素敵な式でしたよ」=Good work today. Fufu~ It was a lovely ceremony.
-「本番の結婚式も、是非、私どもの式場で挙げてくださいね！」=For your actual wedding as well, please, do call upon us!
-「えっと、前向きに考えさせてもらいます」=Erhm, sure, if we ever get to that point.
-「お願いします！　今日はお引き受けいただいて、ありがとうございました」=Thank you! And for helping us out so much today as well, thank you very much!
-「あはは、緊張したけど……いい経験が出来たよね」=Ahaha, I got really nervous there but... We made some good memories, didn't we?
-「うん……私、君の前であげんこと……うぅ、思い出したら恥ずいぃ……」=Yeah... I did something like that in front of you... Uuu, just thinking back to it is embarrassing...
-「やっぱり結婚式ってすごいんやね。あの場に行くと雰囲気に飲まれるっていうか……素直になれるっていうか……」=Marriage ceremonies are amazing, don't you think? I felt like I got swallowed up by that mood... like I became a lot more willing to go with the flow...
-「確かに……でも、俺が言ったことは全部本当のことだよ？」=Certainly... But, I meant everything I said, you know?
-「あ……えへへ、うんっ、信じとるよ。私だって……全部本音を伝えたつもりやもん」=Ah... Ehehe, yeah--, I believe you. I mean... I wanted to convey everything I really felt too.
-「うん、きちんと伝わってきたよ。[H名]の気持ち……キスと一緒に全部流れ込んできた」=Yeah, you conveyed it just fine. Your feelings... all of them flowed into me, with that kiss.
-「恥ずかしいけど……私も同じ事考えたん。君の気持ち……キスしながら全部流れ込んできたと……あのままずっと唇離したくなかったくらいなんよ」=It's embarrassing but... I feel the same way. Your feelings... all of them flowed into me when we were kissing... so much so, I didn't want to stop.
-「[H名]……今日のことを忘れないで、これからもたくさんキスしようね」=[H名]... Let's never forget what happened today, and kiss lots more in the future too.
-「うんっ！　今日は本当に幸せ！　絶対に忘れられん日になったん！」=Yeah--! Today was one of my happiest days! I definitely won't forget it anytime soon!
+//モブ=
+//「お疲れ様でした。ふふっ、素敵な式でしたよ」=
+//「本番の結婚式も、是非、私どもの式場で挙げてくださいね！」=
+//「えっと、前向きに考えさせてもらいます」=
+//「お願いします！　今日はお引き受けいただいて、ありがとうございました」=
+//「あはは、緊張したけど……いい経験が出来たよね」=
+//「うん……私、君の前であげんこと……うぅ、思い出したら恥ずいぃ……」=
+//「やっぱり結婚式ってすごいんやね。あの場に行くと雰囲気に飲まれるっていうか……素直になれるっていうか……」=
+//「確かに……でも、俺が言ったことは全部本当のことだよ？」=
+//「あ……えへへ、うんっ、信じとるよ。私だって……全部本音を伝えたつもりやもん」=
+//「うん、きちんと伝わってきたよ。[H名]の気持ち……キスと一緒に全部流れ込んできた」=
+//「恥ずかしいけど……私も同じ事考えたん。君の気持ち……キスしながら全部流れ込んできたと……あのままずっと唇離したくなかったくらいなんよ」=
+//「[H名]……今日のことを忘れないで、これからもたくさんキスしようね」=
+//「うんっ！　今日は本当に幸せ！　絶対に忘れられん日になったん！」=

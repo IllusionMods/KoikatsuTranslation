@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-………………=.........
-…………=......
-……=...
-「ふふっ、有意義な活動だったと思わない？」=Fufu--, that was quite the productive session, don't you think?
+//………………=
+//…………=
+//……=
+//「ふふっ、有意義な活動だったと思わない？」=

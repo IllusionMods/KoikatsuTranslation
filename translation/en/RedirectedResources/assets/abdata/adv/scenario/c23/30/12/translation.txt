@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「えぇと……うん」=“Eerhm... okay.”
-「本当にいいの？」=“You really sure?”
-「あなたのこと、っだ、大好きなんだぁ……なので、いいよ」=“I really, l-love you tons... so, I don't mind.”
-「あなたとなら……して、みたい」=“I wanna... try it, with you.”
+//「えぇと……うん」=
+//「本当にいいの？」=
+//「あなたのこと、っだ、大好きなんだぁ……なので、いいよ」=
+//「あなたとなら……して、みたい」=

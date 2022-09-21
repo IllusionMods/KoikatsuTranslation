@@ -1,5 +1,5 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「今日は……あなたとデートできてよかったわ」=“I'm glad I went on this date with you today.”
-「その、また暇なときに誘ってくれれば、付き合えないこともないわよ。それじゃ」=“Um, if you invited me again in your free time, I wouldn't necessarily be against it.”
+//「今日は……あなたとデートできてよかったわ」=
+//「その、また暇なときに誘ってくれれば、付き合えないこともないわよ。それじゃ」=

@@ -1,22 +1,22 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「ふぅ……歌い疲れちゃった～……」=Fuu... I'm tired from all that singing~...
-「二人して連続で歌いまくったからね」=We just kept going one after another, afterall.
-「はしゃぎ過ぎちゃったみたい～」=Looks like we went a bit too overboard~
-「……あ～、ちょうどいい休憩場所、見つけた～」=...Ah~, found the perfect spot, to catch a breather~
-「えっ、どこどこ？」=Eh--, where? I wanna know too.
-「キミの隣だよ～。失礼するね～？」=Right next to you~. Excuse me~.
-「うん、いいよ……って、力抜き過ぎだよ！　俺まで倒れちゃうから……」=Yeah, go ahead... hey, you're going way too limp! Even I'll fall over along with you...
-「んふふ～、このままゴロンと二人で横になっちゃおうよ～」=Nnfufu~, let's just roll over and lie down together~
-CHOICE:『エッチに誘う』=『Invite to sex』
-CHOICE:『疲れてるなら帰ろう』=『If you're tired, then let's go home.』
-「それなら、その流れで……ここでエッチしてみない？」=In that case, wanna keep going further and... have sex?
-「……いいよ～。キミと引っ付いてたら、私もなんだか興奮して来ちゃったし～」=...Sure~. Sticking up close to you made me all horny too~
-「そんなに疲れてるなら、もうお店を出よっか」=If you're that tired, let's beat this joint.
-「え？　あ～……別にすぐ出なくてもいいよ～……」=Eh? Ah~... We don't really have to leave this early~...
-「本当？　無理してない？」=Really? You sure you're not forcing yourself?
-「ん～……キミは変なところで鈍くなるな～……」=Nn~... You're dense at the weirdest of times~...
-「え？　なにかいった？」=Eh? Did you say something?
-「何でもないっすよ～。やっぱりお店出ようかなって思っただけ～」=Nothing at all~. I was just thinking that maybe we really should beat this joint~
-「そ、そう？　じゃあ会計してくるね」=T-That so? Then I'll go settle the bill.
+//「ふぅ……歌い疲れちゃった～……」=
+//「二人して連続で歌いまくったからね」=
+//「はしゃぎ過ぎちゃったみたい～」=
+//「……あ～、ちょうどいい休憩場所、見つけた～」=
+//「えっ、どこどこ？」=
+//「キミの隣だよ～。失礼するね～？」=
+//「うん、いいよ……って、力抜き過ぎだよ！　俺まで倒れちゃうから……」=
+//「んふふ～、このままゴロンと二人で横になっちゃおうよ～」=
+//CHOICE:『エッチに誘う』=
+//CHOICE:『疲れてるなら帰ろう』=
+//「それなら、その流れで……ここでエッチしてみない？」=
+//「……いいよ～。キミと引っ付いてたら、私もなんだか興奮して来ちゃったし～」=
+//「そんなに疲れてるなら、もうお店を出よっか」=
+//「え？　あ～……別にすぐ出なくてもいいよ～……」=
+//「本当？　無理してない？」=
+//「ん～……キミは変なところで鈍くなるな～……」=
+//「え？　なにかいった？」=
+//「何でもないっすよ～。やっぱりお店出ようかなって思っただけ～」=
+//「そ、そう？　じゃあ会計してくるね」=

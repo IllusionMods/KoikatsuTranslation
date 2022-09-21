@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「ここの公園って広いし、緑も多いし、素敵でしょ。私、昔はよくここで遊んだのよ」=This park is very big and full of greenery. It's a wonderful place. I used to come here to play a lot when I was a kid.
-「へぇ、小さな頃の[H名]？　可愛かったんだろうなぁ」=Hmm, a small version of [H名]? I bet you were a real cute kid.
-「まったくキミはもう……簡単にそういうことを言うんだから……」=Geez, you're always so... you always say things like that so easily...
-「え？　嫌だった？　だったらごめん」=Eh? Did you not like that? I'm really sorry.
-「ううん、逆よ。嬉しくて……今日、一緒に帰れて良かったって思っちゃったの。ふふっ、私ったら幸せ者ね」=No, it’s the opposite. I'm really happy... I'm really glad that we walked home together today. Fufu, I really am blessed.
+//「ここの公園って広いし、緑も多いし、素敵でしょ。私、昔はよくここで遊んだのよ」=
+//「へぇ、小さな頃の[H名]？　可愛かったんだろうなぁ」=
+//「まったくキミはもう……簡単にそういうことを言うんだから……」=
+//「え？　嫌だった？　だったらごめん」=
+//「ううん、逆よ。嬉しくて……今日、一緒に帰れて良かったって思っちゃったの。ふふっ、私ったら幸せ者ね」=

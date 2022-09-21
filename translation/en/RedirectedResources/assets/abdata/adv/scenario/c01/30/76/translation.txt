@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「じーっ……」=“*stare*...”
-「あ、あの……先程から視線が……」=“U-Uhm... I can feel your eyes on me...”
-「あっ……ご、ごめん……つい、体操服姿に目がいっちゃって……」=“Ah--... s-sorry... I just, couldn't help but admire you in that outfit...”
-「もう、仕方のない人ですね……」=“Jeez, there's no helping you...”
+//「じーっ……」=
+//「あ、あの……先程から視線が……」=
+//「あっ……ご、ごめん……つい、体操服姿に目がいっちゃって……」=
+//「もう、仕方のない人ですね……」=

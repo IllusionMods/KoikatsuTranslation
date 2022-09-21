@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「はぁ、遅いわよ。買い物すらまともにできないの？」="Ehh, you're late. Seriously, you can't even do something as simple as shopping?"
-「ごめん、頼まれてたスペシャルヤキソバパンが人気で……でもほら、ちゃんとゲットしてきたよ！」="Sorry, this yakisoba sandwich you wanted is just so popular... But hey, I got it!"
-「あら、本当に手に入ったのね。フフッ、初めて食べるわ。貴方にはそうね、パンの端だけ恵んであげる」="Oh, you really got it. Fufu, I'll eat it then. As for you... I'll mercifully give you some bread crust."
+//「はぁ、遅いわよ。買い物すらまともにできないの？」=
+//「ごめん、頼まれてたスペシャルヤキソバパンが人気で……でもほら、ちゃんとゲットしてきたよ！」=
+//「あら、本当に手に入ったのね。フフッ、初めて食べるわ。貴方にはそうね、パンの端だけ恵んであげる」=

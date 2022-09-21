@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「プレゼント？　あ、ありがとうございます……！」=“A present? T-Thank you very much...!”
+//「プレゼント？　あ、ありがとうございます……！」=

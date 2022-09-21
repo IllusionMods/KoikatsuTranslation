@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「はぁ……はぁ、ごめんなさい、待たせちゃった？　いつもはちょっと前に着くようにしてるんだけど……」=“Haah... haah, I'm sorry, did I make you wait? I always try to leave some room on the clock but seems that I...”
-「ううん、待ってないよ。俺も今来たところだし」=“No, you didn't make me wait at all. I just got her myself.”
-「あらあら、私達、５分前行動友達ね～。やっぱりあなたとは気が合うわ～」=“My oh my, seems that we both try to arrive a little early, huh~. We really are on the same wavelength~”
-「はは、そう言ってくれて嬉しいよ。さあ、行こうか」=“Haha, glad to hear that. Now then, let's go.”
+//「はぁ……はぁ、ごめんなさい、待たせちゃった？　いつもはちょっと前に着くようにしてるんだけど……」=
+//「ううん、待ってないよ。俺も今来たところだし」=
+//「あらあら、私達、５分前行動友達ね～。やっぱりあなたとは気が合うわ～」=
+//「はは、そう言ってくれて嬉しいよ。さあ、行こうか」=

@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-………………=.........
-…………=......
-……=...
-「今日もご飯が美味しかった。幸せだなぁ」=Lunch was delicious today too. I'm so happy.
+//………………=
+//…………=
+//……=
+//「今日もご飯が美味しかった。幸せだなぁ」=

@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-集中線=Focal Lines
-丸影=Circular Shadow
-レンズフレアA=Lens Flare A
-レンズフレアB=Lens Flare B
+//集中線=
+//丸影=
+//レンズフレアA=
+//レンズフレアB=

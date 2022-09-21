@@ -1,17 +1,17 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「昨日ね、かれらから『コードネームで呼び合ってみろ』ってメッセージが届いたの。だからあなたのコードネームを考えてみたんだ」=“Last night, you see, I got a message from them.「Call each other by codenames」, it said. So I tried thinking of one for you.”
-「えらく唐突だね……。ちなみにコードネームってどんなの？ 　試しに呼んでみてくれないかな？」=“That's awfully abrupt... Incidentally, what sort of codename is this? Don't suppose you could call me it, as a test?”
-「うん、いいよ。……[Pあだ名]」=“Yeah, sure. ...[Pあだ名].”
-（……思ってたより普通だ。普通の愛称だ。もっと突拍子のないものを付けられるかと）=(...It's more normal than I thought it'd be. It's just a couples' nickname. I thought it was gonna be something way more bizarre.)
-「……何かリアクションしてほしい」=“...I'd like you to hear you say something, in response.”
-「あっ、ごめんね。すごくいいと思うよ、ありがとう、[Hあだ名]」=“Ah--, sorry. I think it's really nice, thank you, [Hあだ名].”
-「……？　もしかして、それがわたしのコードネーム？」=“...? Is that a codename for me?”
-「あ、うん。『呼び合ってみろ』っていうのがメッセージだったんでしょ？　だから俺も考えてみたんだけど、どうかな？」=“Ah, yeah. The message mentioned "each other", no? So I tried thinking of one for you too, how do you like it?”
-「すっごくいいよ！　嬉しいなぁ。もし宇宙に戻っても、この名前はずっと持っていくね」=“It's really nice! I'm so happy. Even if I go back to space, I'll hold onto this name forever.”
-「あはは……宇宙まで行っちゃうか、俺のネーミングセンス……」=“Ahaha... it's gonna spread through space, huh, my naming sense...”
-「たまにコードネームで呼びかけるから、忘れたりしないでね」=“I'll call you with your codename sometimes so, don't forget it, okay?”
-「普段から呼ぶわけじゃないの？」=“We're not gonna start using them for each other everytime?”
-「？　普段から使ってたら意味ないよ」=“? Wouldn't be much of a codename that way.”
-「あぁ、そういうものなんだね。分かったよ」=“Aah, of course. I understand.”
+//「昨日ね、かれらから『コードネームで呼び合ってみろ』ってメッセージが届いたの。だからあなたのコードネームを考えてみたんだ」=
+//「えらく唐突だね……。ちなみにコードネームってどんなの？ 　試しに呼んでみてくれないかな？」=
+//「うん、いいよ。……[Pあだ名]」=
+//（……思ってたより普通だ。普通の愛称だ。もっと突拍子のないものを付けられるかと）=
+//「……何かリアクションしてほしい」=
+//「あっ、ごめんね。すごくいいと思うよ、ありがとう、[Hあだ名]」=
+//「……？　もしかして、それがわたしのコードネーム？」=
+//「あ、うん。『呼び合ってみろ』っていうのがメッセージだったんでしょ？　だから俺も考えてみたんだけど、どうかな？」=
+//「すっごくいいよ！　嬉しいなぁ。もし宇宙に戻っても、この名前はずっと持っていくね」=
+//「あはは……宇宙まで行っちゃうか、俺のネーミングセンス……」=
+//「たまにコードネームで呼びかけるから、忘れたりしないでね」=
+//「普段から呼ぶわけじゃないの？」=
+//「？　普段から使ってたら意味ないよ」=
+//「あぁ、そういうものなんだね。分かったよ」=

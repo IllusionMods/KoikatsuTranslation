@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「その、お願いを聞いていただいて嬉しかったです」=“Uhm, it made me really happy, that you listened.”
+//「その、お願いを聞いていただいて嬉しかったです」=

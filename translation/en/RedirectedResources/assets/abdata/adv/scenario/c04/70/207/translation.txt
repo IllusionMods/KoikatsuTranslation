@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「あ～、地上だ地上だ」=Ah~, it's the ground, the ground.
-「夢から帰ってきたって感じね」=Feels like we just woke up from a dream, doesn't it?
-「ふふ、そうだね。さぁ、もう遅くなっちゃったから、帰ろうか」=Fufu, yeah. Now then, it's gotten pretty darn late, so let's go home.
-「ええ、そうね……ありがとう。素敵な時間だったわ」=Yes, let's... thank you. I had a lovely time.
-「どういたしまして、また、二人で来ようね」=You're very welcome. Let's come here again, okay?
+//「あ～、地上だ地上だ」=
+//「夢から帰ってきたって感じね」=
+//「ふふ、そうだね。さぁ、もう遅くなっちゃったから、帰ろうか」=
+//「ええ、そうね……ありがとう。素敵な時間だったわ」=
+//「どういたしまして、また、二人で来ようね」=

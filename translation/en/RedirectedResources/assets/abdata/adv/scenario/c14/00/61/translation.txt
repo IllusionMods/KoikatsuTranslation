@@ -1,17 +1,17 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「よ～し！ 今日は遊ぶぞ！　[P]！　しっかりついて来いよ！」=Alright~! I'mma have a blast today by hook or by crook! [P]! Keep up!
-「[H]がそんなに楽しそうで嬉しいよ。よし、俺も楽しも！」=I'm glad you're so into this, [H]. Alright, I'mma have some fun too!
-「ははっ、[P]と出会ってから毎日が楽しいよ」=Haha--, ever since I got to know you, [P], every single day's been a blast.
-「俺だってそうだよ」=Same for me, really.
-「初めはパシリ辺りで使ってやろうと思ってたけどな」=At first though I thought I'd put you up to work as my gofer or something.
-「えぇ、そんなこと思ってたの！？」=Eeh, did you really!?
-「でも、そんなことしてたらこの時間もなかっただろうから、しなくてよかったよ」=But, if I did that we probably wouldn't be spending our time like this, so I'm glad I didn't.
-「今日は本当にありがとな。その……ホント楽しかったよ。」=Thanks for today, really. It uhm... it really was a blast.
-CHOICE:「俺も楽しかったよ……もうちょっと一緒にいない？」=I had a blast too. ...won't you stay with me for a bit longer?
-CHOICE:「こちらこそありがとう。じゃあまた学園で！」=No, I should be saying that. Thank you. See ya at school then!
-「俺も楽しかったよ。……もうちょっと一緒にいない？」=I had a blast too. ...won't you stay with me for a bit longer?
-「お、おう私は別にいいけど……」=S-Sure, it's not like I mind...
-「こちらこそありがとう。じゃあまた学園で！」=No, I should be saying that. Thank you. See ya at school then!
-「おう、じゃあな！遅刻すんなよ！」=Yeah, see ya! Don't be late, you hear me!
+//「よ～し！ 今日は遊ぶぞ！　[P]！　しっかりついて来いよ！」=
+//「[H]がそんなに楽しそうで嬉しいよ。よし、俺も楽しも！」=
+//「ははっ、[P]と出会ってから毎日が楽しいよ」=
+//「俺だってそうだよ」=
+//「初めはパシリ辺りで使ってやろうと思ってたけどな」=
+//「えぇ、そんなこと思ってたの！？」=
+//「でも、そんなことしてたらこの時間もなかっただろうから、しなくてよかったよ」=
+//「今日は本当にありがとな。その……ホント楽しかったよ。」=
+//CHOICE:「俺も楽しかったよ……もうちょっと一緒にいない？」=
+//CHOICE:「こちらこそありがとう。じゃあまた学園で！」=
+//「俺も楽しかったよ。……もうちょっと一緒にいない？」=
+//「お、おう私は別にいいけど……」=
+//「こちらこそありがとう。じゃあまた学園で！」=
+//「おう、じゃあな！遅刻すんなよ！」=

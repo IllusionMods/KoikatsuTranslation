@@ -1,11 +1,11 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「はぁ……。あっ、ごめんなさい、ため息なんかついてしまって」=Haa... Ah--, I'm sorry, I didn't mean to sigh.
-「ああ、いいよ気にしなくて。何か嫌なことがあったの？」=Aah, you don't have to worry about something like that. Did something bad happen?
-「はい……先ほど廊下で転んだ拍子にペンを落としてしまったんです」=Yes... Just a while ago, I tripped in the corridor and ended up losing my pen.
-「お気に入りだったんですけど……あぁ、どうして四六時中、トラブルが降りかかってくるんでしょうか……！」=I really liked that pen... Aah, just why do I keep attracting trouble like this, twenty-four-seven...!
-「あ、すみません……愚痴なんかこぼしてしまって。迷惑ですよね……」=Ah, I'm sorry... I started complaining out of nowhere. It's a bother, isn't it...
-「ううん、そんなことないよ。愚痴ならいくらでも聞くよ」=No, not at all. If you want to vent, I'm here.
-「あと、困ったことがあれば相談にも乗るし」=Oh and, if you ever want advice, then feel free to ask.
-「うぅ……ありがとうございます。その、またお話してくださると嬉しいです。それでは失礼しますね」=Uuu... Thank you so much. Uhm, it'd make me really happy if you chat with me again. I have to go now, excuse me.
+//「はぁ……。あっ、ごめんなさい、ため息なんかついてしまって」=
+//「ああ、いいよ気にしなくて。何か嫌なことがあったの？」=
+//「はい……先ほど廊下で転んだ拍子にペンを落としてしまったんです」=
+//「お気に入りだったんですけど……あぁ、どうして四六時中、トラブルが降りかかってくるんでしょうか……！」=
+//「あ、すみません……愚痴なんかこぼしてしまって。迷惑ですよね……」=
+//「ううん、そんなことないよ。愚痴ならいくらでも聞くよ」=
+//「あと、困ったことがあれば相談にも乗るし」=
+//「うぅ……ありがとうございます。その、またお話してくださると嬉しいです。それでは失礼しますね」=

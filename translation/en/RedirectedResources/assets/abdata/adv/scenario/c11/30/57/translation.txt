@@ -1,11 +1,11 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「うふふ、今日を楽しみにしてたわ」=“Ufufu, I was really excited for today.”
-「俺もだよ。楽しみすぎて、昨日はあんまり眠れなかったんだ」=“Me too. So excited, I couldn't sleep all that much last night.”
-「嬉しいわ～。それじゃあ、さっそく行きましょうか」=“That makes me so happy~. Well then, let's go.”
-「見て見て～、あの服、あなたに似合いそうだわ。あっ、あっちも素敵！　迷っちゃうわね～」=“Look, look~, those clothes, they'd look so good on you. Ah--, those are lovely too! I can't decide~”
-「俺のじゃなくて、君の好きな店に行っていいんだよ？」=“We can go somewhere more to your liking instead, you know?”
-「ありがとう。でも私はあなたのものを見てる方が楽しいの♪　ね、試着してみてくれる？」=“Thank you. But picking out clothes for you is more fun for me♪ Hey, will you try them on?”
-「う、うん……君がそれでいいなら……」=“S-Sure... if you're happy with that...”
-「あぁん、もうバイバイしなきゃダメなの？　残念ね……。でも今日は楽しかったわ。ありがとう。それじゃあね」=“Aahn, do we have to say goodbye already? Shame... But I had a lot of fun today. Thank you. See you~.”
+//「うふふ、今日を楽しみにしてたわ」=
+//「俺もだよ。楽しみすぎて、昨日はあんまり眠れなかったんだ」=
+//「嬉しいわ～。それじゃあ、さっそく行きましょうか」=
+//「見て見て～、あの服、あなたに似合いそうだわ。あっ、あっちも素敵！　迷っちゃうわね～」=
+//「俺のじゃなくて、君の好きな店に行っていいんだよ？」=
+//「ありがとう。でも私はあなたのものを見てる方が楽しいの♪　ね、試着してみてくれる？」=
+//「う、うん……君がそれでいいなら……」=
+//「あぁん、もうバイバイしなきゃダメなの？　残念ね……。でも今日は楽しかったわ。ありがとう。それじゃあね」=

@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-……好き。もっと感じさせて=...I love you. Let me feel it more.
-……あなたの、そのセリフ……聞きたかった=...I wanted, to hear you... say that.
-また、おっきく……いいけど……激しく、しないでね=It got, bigger again... sure but... don't be, rough, okay?
-んん……もう一度？　そんなに……溜まってる、の？=Nnn... one more time? Are you... that bottled, up?
+//……好き。もっと感じさせて=
+//……あなたの、そのセリフ……聞きたかった=
+//また、おっきく……いいけど……激しく、しないでね=
+//んん……もう一度？　そんなに……溜まってる、の？=

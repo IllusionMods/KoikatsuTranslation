@@ -1,17 +1,17 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「あの……実はお願いがあるのですが、良いですか？」=“Uhm... I've actually got a request, could I?”
-「お願い？　うん、いいよ、なに？」=“A request? Sure, shoot, what is it?”
-「はいー、私、あなたのことを愛称で呼んでみたいのですよ。それだけで新鮮な気分になれる気がするです」=“Alright, I want to try calling you by a nickname. I feel like that alone would be enough to bring some freshness to our relationship.”
-「愛称かぁ。うん、もちろんいいよ」=“Nicknames, huh? Yeah, of course, go ahead.”
-「やったぁ！　では早速失礼して……呼ぶですよ！」=“Yay! Well then, without further ado... here goes!”
-「……[Pあだ名]」=“...[Pあだ名].”
-「おおお、確かに新鮮だ……ちょっとドキッとしたよ。俺も呼んでいい？」=“Oooh, for sure, that feels 'fresh' for sure... it made my heart skip a beat. Mind if I call you one too?”
-「もちろんです！　お願いするですよ！」=“Not at all! Please do!”
-「えーっと……[Hあだ名]」=“Eerhm... [Hあだ名].”
-「ひあぁ、私もドキッとしたです！　破壊力抜群なのです！」=“Hyaah, my heart skipped a beat too! Truly awe inspiring, this power!”
-「あはは、[Hあだ名]の反応、可愛い。照れてるの？」=“Ahaha, you're so adorable, [Hあだ名]. Did it make you blush that much?”
-「はぅっ……て、照れるに決まってるのです……あなたは平気なのですか？」=“Hauuu--... o-of course it did... do you not feel embarrassed?”
-「もちろん照れてるよ。でも……距離が近くなったみたいで嬉しいんだ。これからはいつもこうやって呼んでいい？」=“Of course I do. But... I'm happy since it feels like we've gotten even closer. Mind if I start calling you that from now on?”
-「う、嬉しいですけど、いつもはダメなのです！　私の身体が保たないのですよ！　時々……こっそり呼び合いたいのですー！」=“I-I'd love that but, not always! My heart won't be able to take it! I'd rather... we called each other those, secretly, in private!”
+//「あの……実はお願いがあるのですが、良いですか？」=
+//「お願い？　うん、いいよ、なに？」=
+//「はいー、私、あなたのことを愛称で呼んでみたいのですよ。それだけで新鮮な気分になれる気がするです」=
+//「愛称かぁ。うん、もちろんいいよ」=
+//「やったぁ！　では早速失礼して……呼ぶですよ！」=
+//「……[Pあだ名]」=
+//「おおお、確かに新鮮だ……ちょっとドキッとしたよ。俺も呼んでいい？」=
+//「もちろんです！　お願いするですよ！」=
+//「えーっと……[Hあだ名]」=
+//「ひあぁ、私もドキッとしたです！　破壊力抜群なのです！」=
+//「あはは、[Hあだ名]の反応、可愛い。照れてるの？」=
+//「はぅっ……て、照れるに決まってるのです……あなたは平気なのですか？」=
+//「もちろん照れてるよ。でも……距離が近くなったみたいで嬉しいんだ。これからはいつもこうやって呼んでいい？」=
+//「う、嬉しいですけど、いつもはダメなのです！　私の身体が保たないのですよ！　時々……こっそり呼び合いたいのですー！」=

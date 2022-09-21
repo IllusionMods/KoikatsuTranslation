@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「ははっ……おまえ、話してみると意外と面白いな」=Haha--... you turned out to be a pretty interesting guy, behind all of that.
-「そ、そうかな……」=Y-You think so?...
-「あぁ、おまえと話せて楽しかったぜ」=Yeah, it was fun to chat with you.
-「本当？　それならよかった。俺も楽しかったよ」=Really? I'm glad to hear that. I had fun too.
-「そういってもらえると嬉しいな」=Hearing that makes me happy.
-「それじゃ、またね」=Well then, see ya.
-「ああ、また暇があったら話しようぜ」=Yeah, let's chat again when we get some time.
+//「ははっ……おまえ、話してみると意外と面白いな」=
+//「そ、そうかな……」=
+//「あぁ、おまえと話せて楽しかったぜ」=
+//「本当？　それならよかった。俺も楽しかったよ」=
+//「そういってもらえると嬉しいな」=
+//「それじゃ、またね」=
+//「ああ、また暇があったら話しようぜ」=

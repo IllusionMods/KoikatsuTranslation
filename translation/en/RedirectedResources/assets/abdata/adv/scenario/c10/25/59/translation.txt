@@ -1,5 +1,5 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「もう別れの時である……次は汝と悪魔の契約を結んで、ここに来たい」=“Time for us to return to our separate worlds... I hope whence we come here next, we will have sealed our abyssal contract.”
-「つ、つまり、もっと、な、仲良しになって欲しいのだ……で、では！」=“B-Basically, I-I would like to, get closer to you... f-fare well!”
+//「もう別れの時である……次は汝と悪魔の契約を結んで、ここに来たい」=
+//「つ、つまり、もっと、な、仲良しになって欲しいのだ……で、では！」=

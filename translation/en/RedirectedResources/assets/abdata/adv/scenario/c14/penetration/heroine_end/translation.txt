@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「こっちも楽しかったぜ。また来いよ、相手してやるから」=I had fun too. Come for another round whenever, I'll keep you company.
+//「こっちも楽しかったぜ。また来いよ、相手してやるから」=

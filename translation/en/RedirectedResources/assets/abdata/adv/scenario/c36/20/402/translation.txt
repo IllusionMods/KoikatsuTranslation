@@ -1,23 +1,23 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「はぁ、喫茶店まで来て、何故コーヒーではなくウーロン茶を頼むの？　やっぱり貴方センスないわね」="*Sigh* we've come to a coffee shop, so why are you ordering Oolong tea? As expected, you have no sense."
-「い、いいでしょ。ウーロン茶だって美味しいよ？」="W-whatever. Oolong tea is great, you know?"
-「ウーロン茶に罪はないわ。美味しいのも認める。私が言っているのは貴方のセンスの話よ」="Picking an Oolong tea isn't a sin. I agree with that it's good. But what I'm saying is, you lack sense."
-「今日はたまたまだよ。そこまで言うなら、次はコーヒーを頼むから……」="I just happened to order it today, okay? But if you say it that far, I'll order a coffee next."
-「ふぅん、いつもそう言って、結局ウーロン茶じゃない。くだらない見栄を張るのはよしなさい」="Huuh, you say that, but in the end you always order Oolong tea. Stop putting on airs."
-「ぐっ、そんなにコーヒーにこだわるなら、[H名]さんは相当飲み慣れてるんだよね？」="Guh, if you're so fixated on coffee, then let's talk about your drinking habits"
-「は？　お酒ならともかく、コーヒーに飲み慣れるも何もないでしょう」="Huh? Unlike alcohol, you can't talk about coffee drinking habits."
-「いやほら、砂糖とかミルクを入れるか、それともブラックかで派閥があったりするでしょ？」="No, look. I mean, you add sugar, or milk, or prefer it black, right?"
-「[H名]さんって、そういえばどっちだったかなって思って」="On that subject, which one do you like?"
-「私はブラック派よ。コーヒー本来の味を楽しみたいからね」="I like it black. Then it really tastes like coffee.
-「あぁ、やっぱり。[H名]さんにブラックコーヒーってめちゃくちゃ似合うよね」="Ah, I knew it. A black coffee totally suits you, Miss [H名]."
-「どういう意味？　腹黒いとでも言いたいのかしら？」="What do you mean by that? Something malicious I wonder?"
-「ち、違うよ！　出来る女のイメージっていうか、女傑？　女帝？　とにかくそんな感じ」="N-no! I had that image of a... lady of character? Something like that."
-「フフッ、まぁ専属の下僕がいるからね。女帝のイメージというのは、間違いではないかもしれないわ」="Fufu, that's because I have a manservant. A lady of character might fit me perfectly."
-「砂糖もミルクも入れるわよ。特に砂糖は多めかしら」="I'll add sugar and milk. Especially some more sugar."
-「へぇ意外。[H名]さんはカッコよくブラックを飲んでるイメージだったなぁ」="Huuh, that's unexpected. I had that image of a cool Miss [H名] drinking her black coffee."
-「それ、いつも疑問に思ってたのよね。ブラックがカッコイイとか、誰が決めたのよ」="Your way of thinking is strange. Who said it was cool to drink a black coffee?"
-「えっ、誰がって、それはわかんないけど……一般的なイメージじゃない？」="Erm, even if you ask me... That's a popular image you know?"
-「そうやって、皆が言っているからと流されるのはやめなさい。私の下僕として、相応しくないわよ」="Stop saying what other people say. It's not suitable for my manservant."
-「ぁっ、はい。以後気を付けます……」="Ah, yes. I'll be careful from now on."
+//「はぁ、喫茶店まで来て、何故コーヒーではなくウーロン茶を頼むの？　やっぱり貴方センスないわね」=
+//「い、いいでしょ。ウーロン茶だって美味しいよ？」=
+//「ウーロン茶に罪はないわ。美味しいのも認める。私が言っているのは貴方のセンスの話よ」=
+//「今日はたまたまだよ。そこまで言うなら、次はコーヒーを頼むから……」=
+//「ふぅん、いつもそう言って、結局ウーロン茶じゃない。くだらない見栄を張るのはよしなさい」=
+//「ぐっ、そんなにコーヒーにこだわるなら、[H名]さんは相当飲み慣れてるんだよね？」=
+//「は？　お酒ならともかく、コーヒーに飲み慣れるも何もないでしょう」=
+//「いやほら、砂糖とかミルクを入れるか、それともブラックかで派閥があったりするでしょ？」=
+//「[H名]さんって、そういえばどっちだったかなって思って」=
+//「私はブラック派よ。コーヒー本来の味を楽しみたいからね」=
+//「あぁ、やっぱり。[H名]さんにブラックコーヒーってめちゃくちゃ似合うよね」=
+//「どういう意味？　腹黒いとでも言いたいのかしら？」=
+//「ち、違うよ！　出来る女のイメージっていうか、女傑？　女帝？　とにかくそんな感じ」=
+//「フフッ、まぁ専属の下僕がいるからね。女帝のイメージというのは、間違いではないかもしれないわ」=
+//「砂糖もミルクも入れるわよ。特に砂糖は多めかしら」=
+//「へぇ意外。[H名]さんはカッコよくブラックを飲んでるイメージだったなぁ」=
+//「それ、いつも疑問に思ってたのよね。ブラックがカッコイイとか、誰が決めたのよ」=
+//「えっ、誰がって、それはわかんないけど……一般的なイメージじゃない？」=
+//「そうやって、皆が言っているからと流されるのはやめなさい。私の下僕として、相応しくないわよ」=
+//「ぁっ、はい。以後気を付けます……」=

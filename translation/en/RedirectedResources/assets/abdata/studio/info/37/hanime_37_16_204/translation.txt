@@ -1,11 +1,11 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-前待機=About To Begin
-待機=Idle
-弱ループ=Slow Loop
-強ループ=Fast Loop
-絶頂前ループ=Before Climax Loop
-外出し開始=Come Outside Start
-外出しループ=Come Outside Loop
-外出し事後=Come Outside End
+//前待機=
+//待機=
+//弱ループ=
+//強ループ=
+//絶頂前ループ=
+//外出し開始=
+//外出しループ=
+//外出し事後=

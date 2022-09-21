@@ -1,18 +1,18 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「ふぅ……お粗末さまでした」=Fuu... Thanks for listening.
-「上手でしたね。ただ、少し気になることがあるんです」=It was great. Just, there's something I'm curious about.
-「え……？　お、俺の歌、何か変だった？」=Eh...? W-Was my singing weird in any way?
-「そうではなく……歌の歌詞について、いろいろ考えさせられてしまって」=That's not it... The song lyrics just made me think about some stuff, that's all.
-「歌の歌詞？」=The song lyrics?
-「この歌の主人公は、友達に過去助けられたのでしょう？」=The song's main character, they were helped by a friend in the past, weren't they?
-「うん、『どんな時にも助けられた』って歌詞があったね」=Yeah, it had the line [You helped me up, no matter what], didn't it?
-「でも今は挫折してるんですよね？　友達は、どうして離れていってしまったんでしょう？」=But they fell down again, right? So why has their friend left? Why are they not there?
-「んー、友達に頼りたくないって思ったからじゃないかな」=Mmm, I suppose they didn't want to always rely on their friend?
-「……なるほど。そうかもしれません。」=...I see. That might be it.
-「きっと、友達を助けたいし、いつまでも頼りたくないって思ったんだよ」=I'm sure it's because they didn't want to always rely on their friend, because they wanted to help them someday as well.
-「友達のために成長する……素晴らしいことですね」=Growing, for the sake of their friend... Wonderful, isn't it?
-「私も、そんな人になりたいです！　頑張って、人間的な成長を心がけます！」=I want to be that sort of a person too! I'll do my best to grow as a person too!
-「う、うん……」=Y-Yeah...
-（カラオケでそこまで影響受けちゃうのか……）=(Is Karaoke really something to take so much influence from...)
+//「ふぅ……お粗末さまでした」=
+//「上手でしたね。ただ、少し気になることがあるんです」=
+//「え……？　お、俺の歌、何か変だった？」=
+//「そうではなく……歌の歌詞について、いろいろ考えさせられてしまって」=
+//「歌の歌詞？」=
+//「この歌の主人公は、友達に過去助けられたのでしょう？」=
+//「うん、『どんな時にも助けられた』って歌詞があったね」=
+//「でも今は挫折してるんですよね？　友達は、どうして離れていってしまったんでしょう？」=
+//「んー、友達に頼りたくないって思ったからじゃないかな」=
+//「……なるほど。そうかもしれません。」=
+//「きっと、友達を助けたいし、いつまでも頼りたくないって思ったんだよ」=
+//「友達のために成長する……素晴らしいことですね」=
+//「私も、そんな人になりたいです！　頑張って、人間的な成長を心がけます！」=
+//「う、うん……」=
+//（カラオケでそこまで影響受けちゃうのか……）=

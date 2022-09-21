@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「え……え？　あ、あの、私たち、友達ですよ……ね？」=Eh... eh? U-Uhm, we're, friends... right?
-「うん。友達なのはわかっているんだけど、きみとしたいんだ」=Yeah. I know that we're just friends but, I want to do it with you.
-「う、うぅ……そんな、急に言われても……」=U-Uuu... even if you, say that, it's a bit too sudden...
-「急でごめん……でも、自分を抑えられそうになくて」=Sorry... but, I just couldn't keep the beast locked inside anymore.
-「そ、そんなに……私のことを……？」=Y-You want me... that much...?
-「……わ、わかりました……でも……えっと、優しくお願いしますね……？」=...I-I understand... but... erhm, please be gentle, okay...?
+//「え……え？　あ、あの、私たち、友達ですよ……ね？」=
+//「うん。友達なのはわかっているんだけど、きみとしたいんだ」=
+//「う、うぅ……そんな、急に言われても……」=
+//「急でごめん……でも、自分を抑えられそうになくて」=
+//「そ、そんなに……私のことを……？」=
+//「……わ、わかりました……でも……えっと、優しくお願いしますね……？」=

@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-シーン1=Scene 1
-シーン2=Scene 2
-シーン3=Scene 3
-シーン4=Scene 4
-シーン5=Scene 5
-フル=Loop
+//シーン1=
+//シーン2=
+//シーン3=
+//シーン4=
+//シーン5=
+//フル=

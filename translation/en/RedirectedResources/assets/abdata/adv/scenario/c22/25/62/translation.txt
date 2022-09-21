@@ -1,13 +1,13 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-………………=.........
-…………=......
-……=...
-「あ……もうこんな時間……君と話していると、あっと言う間に時間が過ぎちゃう……寂しいな」=Ah... it's already so late... when I chat with you, time always flies so fast... I don't like it.
-CHOICE:「俺も寂しい」=Me neither.
-CHOICE:「今度、会えるのが楽しみ」=I'm looking forward to seeing you next time.
-「俺も寂しいよ。もし良かったら、今日はこのままうちに来ない？」=Me neither. If you'd like, wanna head to my place?
-「え？　いいの！？　ふふっ、嬉しい！　まだまだたくさんお話したいもんね！」=Eh? You sure?! Fufu--, I'm so happy! I wanna chat so much more with you, afterall!
-「また会えること、楽しみにしてるよ」=I'm looking forward to seeing you again.
-「そうだね！　それじゃ、またね！」=Yeah! Well then, see ya!
+//………………=
+//…………=
+//……=
+//「あ……もうこんな時間……君と話していると、あっと言う間に時間が過ぎちゃう……寂しいな」=
+//CHOICE:「俺も寂しい」=
+//CHOICE:「今度、会えるのが楽しみ」=
+//「俺も寂しいよ。もし良かったら、今日はこのままうちに来ない？」=
+//「え？　いいの！？　ふふっ、嬉しい！　まだまだたくさんお話したいもんね！」=
+//「また会えること、楽しみにしてるよ」=
+//「そうだね！　それじゃ、またね！」=

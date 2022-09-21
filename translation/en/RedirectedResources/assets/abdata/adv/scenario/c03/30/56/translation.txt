@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「ふぇ……そ、それ……本気……ですか？」=“Fueh... a-are... are you... serious?”
-「うん、ごめん……色々考えたんだけど……やっぱり俺達、別れた方がいいと思う……」=“Yeah, sorry... I've been thinking about it a lot and... I really do think that we should split up...”
-「あ……ぅ……わ、私……あのっ……えっと……わ、分かったです……あなたがそう言うならっ……し、仕方ないっ……です……」=“Ah... uu... I-I... uhm--... erhm... I-I got it... if that's how you feel... t-then I suppose it can't... be helped...”
-「うん……本当にごめん」=“Yeah... I really am sorry.”
-「だ、だだ、大丈夫です、平気ですよ！　だってほらっ……わ、私っ、こう見えて切り換え早いですからっ！」=“I--, I-I-It's fine, I'm fine! I mean, you know--... I-I--, I may not look like it but I'm good at getting over things--!”
-「あ、で、でも……今はもうっ、無理っ、そうですっ……ふぇっ、えっ……ご、ごめっ……なさいっ……涙っ……ふぇぇっ……し、失礼するですーっ！」=“Ah, b-but... looks like--, it's gonna--, take sometime, this time--... fueh--, eh--... s-sor--... rry--... I can't--... fueeh--... e-excuse me, I gotta go--!!”
+//「ふぇ……そ、それ……本気……ですか？」=
+//「うん、ごめん……色々考えたんだけど……やっぱり俺達、別れた方がいいと思う……」=
+//「あ……ぅ……わ、私……あのっ……えっと……わ、分かったです……あなたがそう言うならっ……し、仕方ないっ……です……」=
+//「うん……本当にごめん」=
+//「だ、だだ、大丈夫です、平気ですよ！　だってほらっ……わ、私っ、こう見えて切り換え早いですからっ！」=
+//「あ、で、でも……今はもうっ、無理っ、そうですっ……ふぇっ、えっ……ご、ごめっ……なさいっ……涙っ……ふぇぇっ……し、失礼するですーっ！」=

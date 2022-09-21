@@ -1,12 +1,12 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「静かな図書室、恋人と二人きり、ペンの音だけ響いて……二人の鼓動が……」=A quiet library, two lovebirds alone by themselves. With only the sound of pen on paper to accompany them... Their heartbeats...
-「わわっ、[H名]っ、突然何言い出すの！？」=Uwa-wa, [H名]! What are you saying so suddenly?
-「あっ、違うのよ！？　課題で出てる読書感想文。その題材に選んだ小説の内容がそんな感じでっ……」=Ah, You're mistaken! It's the book report assignment! The contents of the novel I chose are like that, that's all!
-「え？　あっ、そ、そうだったんだ……びっくりした。俺はてっきり……」=Eh? Ah. Is, Is that so? You scared me there for a second. I thought for sure...
-「てっきり……なに？　ドキドキした？」=For sure... what? Did it make your heart throb?
-「あはは、ずいぶんストレートに聞いてくるね」=Ahaha, that's such a straight question, I'm almost at a loss here.
-「そうよ。だって私……今読みながらドキドキしてたもの。キミのこと考えて♪」=That's right! Afterall, While reading the report... my own chest started throbbing as well, thinking about you ♪
-「ダメだよ。きちんと感想文書かないと」=That's no good, you have to focus on the assignment.
-「わぁっ……キミって時々すっごいいじわるー！　もうっ……いいもん。お姉さんは頑張って感想文書きます！」=Woah... You can be really mean from time to time. Fine then! I'll just work hard on the book report then!
+//「静かな図書室、恋人と二人きり、ペンの音だけ響いて……二人の鼓動が……」=
+//「わわっ、[H名]っ、突然何言い出すの！？」=
+//「あっ、違うのよ！？　課題で出てる読書感想文。その題材に選んだ小説の内容がそんな感じでっ……」=
+//「え？　あっ、そ、そうだったんだ……びっくりした。俺はてっきり……」=
+//「てっきり……なに？　ドキドキした？」=
+//「あはは、ずいぶんストレートに聞いてくるね」=
+//「そうよ。だって私……今読みながらドキドキしてたもの。キミのこと考えて♪」=
+//「ダメだよ。きちんと感想文書かないと」=
+//「わぁっ……キミって時々すっごいいじわるー！　もうっ……いいもん。お姉さんは頑張って感想文書きます！」=

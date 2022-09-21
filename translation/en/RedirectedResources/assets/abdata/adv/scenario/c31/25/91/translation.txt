@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「お、おはよう、[Pあだ名]。フッ、まだこう呼ぶときには構えてしまうな」=M-Morning, [Pあだ名]. Pfft, I still stiffen up everytime I call you like that.
-「おはよう、[Hあだ名]。そうだね、なんか照れ臭いな」=Morning, [Hあだ名]. Yeah, really makes you blush, doesn't it?
-「自然に呼び合えるようになるのが理想だろうが、この状態も中々に悪くない。お前もそう思うだろう？」=It'd be great, ideal even, if we could grow to call each other like that naturally but, this situation isn't half bad either. You feel the same way, no?
+//「お、おはよう、[Pあだ名]。フッ、まだこう呼ぶときには構えてしまうな」=
+//「おはよう、[Hあだ名]。そうだね、なんか照れ臭いな」=
+//「自然に呼び合えるようになるのが理想だろうが、この状態も中々に悪くない。お前もそう思うだろう？」=

@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「……お、おはようございます。えっと、いい天気……ですね」=...G-Good morning. Erhm, good weather out today... isn't it?
+//「……お、おはようございます。えっと、いい天気……ですね」=

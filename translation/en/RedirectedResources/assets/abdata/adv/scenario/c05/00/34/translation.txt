@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「わっ、ありがとう。なにかくれるのって、あなたくらいだよ～」=“Wah--, thanks. You're the only one, who would ever give me anything~”
+//「わっ、ありがとう。なにかくれるのって、あなたくらいだよ～」=

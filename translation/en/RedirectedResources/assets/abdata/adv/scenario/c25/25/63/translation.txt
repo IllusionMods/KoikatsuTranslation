@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「おじゃましま～す。ここがキミの部屋か～」=I'm comin' in~. So this is your room, huh~
-「そしてここで愛し合って……ますます深い仲になっちゃうな～」=And this is where we'll make love... and become even closer to each other~
-「この体験を乗り越えて、アダルトな彼氏彼女の関係に～。な～んてね～」=Making this experience a part of us, and upgrading our relationship to that of an adult couple~. Heh, just joking~
+//「おじゃましま～す。ここがキミの部屋か～」=
+//「そしてここで愛し合って……ますます深い仲になっちゃうな～」=
+//「この体験を乗り越えて、アダルトな彼氏彼女の関係に～。な～んてね～」=

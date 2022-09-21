@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「コイカツ部って具体的に何やるとこなんだ？」=So what exactly do you do in this club, anyway?
-「まぁなんというか恋人っぽいことというか……」=Well, how to explain, I guess 'lovey-dovey' stuff...
-「なんかはっきりしねぇなぁ。例えばでいいからなんかやってみろよ」=Doesn't sound like you've thought this out. Try explaining to me with an example or something.
-「例えば……こう後ろからギュっとしてみたり……」=Well, as an example... hugging you from behind, or...
-「おまっ！　ちょっ！　いきなり何してくれてんだこら！」=What--! Hey--! What do you think you're doing, you!
+//「コイカツ部って具体的に何やるとこなんだ？」=
+//「まぁなんというか恋人っぽいことというか……」=
+//「なんかはっきりしねぇなぁ。例えばでいいからなんかやってみろよ」=
+//「例えば……こう後ろからギュっとしてみたり……」=
+//「おまっ！　ちょっ！　いきなり何してくれてんだこら！」=

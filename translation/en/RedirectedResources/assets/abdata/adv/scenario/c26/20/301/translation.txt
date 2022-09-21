@@ -1,20 +1,20 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「二人だけ使うには、この部屋は広く感じるね」=“This room feels pretty big, to use just by ourselves, doesn't it?”
-「そう……だね。少し、緊張する」=“Yeah... it does. I'm getting, a bit nervous.”
-「歌うのは好きじゃなったりする？」=“Do you not like singing?”
-「……嫌いじゃない。たまに……一人で、来る」=“...I don't hate it. Sometimes... I come, by myself.”
-「そうなんだ。ヒトカラするぐらいだし、[H名]の歌、楽しみだな」=“I see. Now I'm even more excited to hear you sing, knowing that you're so into it.”
-「やっぱり……歌わないと、ダメ？」=“Do I... have to sing, afterall?”
-「まあ、カラオケデートだからね。それに歌うの嫌いってわけじゃないんでしょ？」=“Well, we're on a karaoke date, afterall. Not to mention, it's not like you hate singing, no?”
-「……歌う姿を見られるのが……恥ずかしい。それに……」=“...The idea of you seeing me singing is... embarrassing. Not to mention...”
-「……それに？」=“...Not to mention?”
-「…………好きな曲って、自分の内面を、表してる感じで……恥ずかしい」=“...Singing the songs I like, would be like showing off, a part of myself... it's embarrassing.”
-「うまく言えてないけど……困らせて……ごめんなさい」=“I can't explain it properly... sorry... for being annoying.”
-「いや……うん、分かるよ。でもそれなら、なおさら君の歌を聞きたいかな」=“No... yeah, I feel you. But that just makes me wanna hear you sing even more.”
-「……私が歌ったら……あなたは嬉しいの？」=“...Would it make you happy... if I sang?”
-「もちろんだよ」=“Of course.”
-「……わかった。ちゃんと聞いて、ね」=“...Okay. Make sure to listen, okay?”
-「初めて感じた　胸の痛みは　絆深くなる証～♪」=“This novel pain in my heart, that I'm feeling, is proof of our bond~♪”
-（なんだか聞きぼれちゃうな～……）=(What an enchanting voice...)
+//「二人だけ使うには、この部屋は広く感じるね」=
+//「そう……だね。少し、緊張する」=
+//「歌うのは好きじゃなったりする？」=
+//「……嫌いじゃない。たまに……一人で、来る」=
+//「そうなんだ。ヒトカラするぐらいだし、[H名]の歌、楽しみだな」=
+//「やっぱり……歌わないと、ダメ？」=
+//「まあ、カラオケデートだからね。それに歌うの嫌いってわけじゃないんでしょ？」=
+//「……歌う姿を見られるのが……恥ずかしい。それに……」=
+//「……それに？」=
+//「…………好きな曲って、自分の内面を、表してる感じで……恥ずかしい」=
+//「うまく言えてないけど……困らせて……ごめんなさい」=
+//「いや……うん、分かるよ。でもそれなら、なおさら君の歌を聞きたいかな」=
+//「……私が歌ったら……あなたは嬉しいの？」=
+//「もちろんだよ」=
+//「……わかった。ちゃんと聞いて、ね」=
+//「初めて感じた　胸の痛みは　絆深くなる証～♪」=
+//（なんだか聞きぼれちゃうな～……）=

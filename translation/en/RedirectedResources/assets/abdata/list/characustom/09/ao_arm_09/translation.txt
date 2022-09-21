@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-タングルショルダー右用=Tangle Shoulder (Right)
-タングルショルダー左用=Tangle Shoulder (Left)
-騎士の肩当て右用=Knight Shoulderpad (Right)
-騎士の肩当て左用=Knight Shoulderpad (Left)
-鎧肩当て右用=Armored Shoulderpad (Right)
-鎧肩当て左用=Armored Shoulderpad (Left)
+//タングルショルダー右用=
+//タングルショルダー左用=
+//騎士の肩当て右用=
+//騎士の肩当て左用=
+//鎧肩当て右用=
+//鎧肩当て左用=

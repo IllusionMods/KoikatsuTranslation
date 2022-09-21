@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「今日はあなたの分もお弁当作ってきたの。食べてくれる？」=I made lunch for you too, today. Will you eat it?
-「本当？　喜んで！　いただきまーす！」=Really? Gladly! I'm digging in~!
-「ふふっ、どうぞ。お弁当は逃げないから、ゆっくり召し上がれ」=Fufu--, go ahead. The lunchbox isn't going to up and run away, so eat it slowly, okay?
-「もぐもぐ……う、うめえっ！　めちゃくちゃ美味いよこれ！」=*chew chew*... d-delish--! This is amazing!
-「ありがとう……あなたのその顔を見ると、お腹だけじゃなく心も満たされていくわ」=Thank you... seeing you be so happy about it, makes both my belly and heart feel satisfied.
+//「今日はあなたの分もお弁当作ってきたの。食べてくれる？」=
+//「本当？　喜んで！　いただきまーす！」=
+//「ふふっ、どうぞ。お弁当は逃げないから、ゆっくり召し上がれ」=
+//「もぐもぐ……う、うめえっ！　めちゃくちゃ美味いよこれ！」=
+//「ありがとう……あなたのその顔を見ると、お腹だけじゃなく心も満たされていくわ」=

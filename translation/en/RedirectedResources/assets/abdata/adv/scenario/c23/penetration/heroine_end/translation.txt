@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「みんな大満足で、ＰＴの絆はMAX！　って感じですなぁ……♪」=“That was so satisfying, feels like our party link is at MAX!, doesn't it...♪”
+//「みんな大満足で、ＰＴの絆はMAX！　って感じですなぁ……♪」=

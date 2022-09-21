@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-………………=.........
-…………=......
-……=...
-「それじゃあまた。帰り道、気をつけてね」=Well then, later. Be careful on your way home, okay?
-「あは、ありがと！ またね～」=Aha, thanks! See ya~
+//………………=
+//…………=
+//……=
+//「それじゃあまた。帰り道、気をつけてね」=
+//「あは、ありがと！ またね～」=

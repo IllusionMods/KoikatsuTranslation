@@ -1,25 +1,25 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-………………=.........
-「ふぅ……いったん休憩にしよ～？　ちょっと疲れたっす」=Fuu... wanna take a small break~? I'm a bit tired.
-「だね。のどを休めよっか」=Sounds good. Let's rest our throats.
-「せっかくメニューがあるし、なにか注文でもしようよ？　なに頼む？」=We have a menu here and everything so, let's order something, shall we? What'cha wanna get?
-「量がそれなりに多いものがいいっすね～」=Something with a lot of volume~
-「量が多いものか……この辺のメニューはどう？」=A lot of volume, huh... How about something from here?
-「どれどれ～……お、このポップコーンがいい感じだ～。よし、これを注文しよ～っと」=Let's see~... Oh, this popcorn bucket looks good~. Alright, let's go with this~
-「……さっき届いたこれ、６人分はあるよね？」=...They came and left us with this but, this is enough to go around between even 6 people, isn't it?
-「間違えてパーティ用のやつ、頼んじゃったみたいだね……」=Looks like we ended up ordering the party size by accident...
-「量が多いのがいいとは言ったけど、限度を越えてるっす……」=I did say that I wanted something with a lot of volume but, this is way beyond that...
-「でも、注文したからには、私が責任持って食べるよ～」=But, since I asked for it, I'll take responsibility and eat it~
-「ま、まあ俺もいるからさ、無理はしないで……」=W-Well, I'm here too so, don't force yourself, okay?...
-「優しいね～。助かるよ～」=You're so sweet~. That'll really help me out~
-「う～ん、お腹は空いてないっすね～」=Mmm, I'm not really all that hungry~
-「それなら歌ってのど、乾いたでしょう？」=In that case, you should be thirsty from all that singing, right?
-「店員さんにドリンク、注文するね」=I'll order something to drink from the counter, okay?
-「……届いた飲み物の数、やけに多くないっすか？」=...Isn't this like, too much?
-「ごめん。俺が注文し間違えたみたい……」=Sorry. Looks like I messed up the order...
-「だけど、任せて！　注文したからには、全部飲み干すから！」=But, leave it to me! Since I ordered it, I'll gulp it all down!
-「ごくごく、ごくごく…………うぐっ、もう限界。お腹たぷたぷだ……」=*gulp gulp*, *gulp gulp*... uguh-, I can't anymore. I feel like a waterballoon...
-「別に全部を、一気に飲もうとしなくても……」=It's not like you have to drink it all in one go...
-「確かにそうだ……」=You're not wrong...
+//………………=
+//「ふぅ……いったん休憩にしよ～？　ちょっと疲れたっす」=
+//「だね。のどを休めよっか」=
+//「せっかくメニューがあるし、なにか注文でもしようよ？　なに頼む？」=
+//「量がそれなりに多いものがいいっすね～」=
+//「量が多いものか……この辺のメニューはどう？」=
+//「どれどれ～……お、このポップコーンがいい感じだ～。よし、これを注文しよ～っと」=
+//「……さっき届いたこれ、６人分はあるよね？」=
+//「間違えてパーティ用のやつ、頼んじゃったみたいだね……」=
+//「量が多いのがいいとは言ったけど、限度を越えてるっす……」=
+//「でも、注文したからには、私が責任持って食べるよ～」=
+//「ま、まあ俺もいるからさ、無理はしないで……」=
+//「優しいね～。助かるよ～」=
+//「う～ん、お腹は空いてないっすね～」=
+//「それなら歌ってのど、乾いたでしょう？」=
+//「店員さんにドリンク、注文するね」=
+//「……届いた飲み物の数、やけに多くないっすか？」=
+//「ごめん。俺が注文し間違えたみたい……」=
+//「だけど、任せて！　注文したからには、全部飲み干すから！」=
+//「ごくごく、ごくごく…………うぐっ、もう限界。お腹たぷたぷだ……」=
+//「別に全部を、一気に飲もうとしなくても……」=
+//「確かにそうだ……」=

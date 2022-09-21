@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「一緒に部活するの、実は楽しみにしてたのだぞ？」=“I have been actually quite looking forward to doing these activities together, you know?”
-「そうなんだ？　なんかうれしいなぁ」=“Really? Man, that makes me happy~”
-「コイカツで、男性という生き物をもっと知りたい……」=“I would like to learn more about man, from these activities...”
-「男の生態系ってこと？」=“You mean human society?”
-「い、いや、汝のこと……きょ、興味あるのだ」=“N-No, I have a vested interest in... t-thee specifically...”
+//「一緒に部活するの、実は楽しみにしてたのだぞ？」=
+//「そうなんだ？　なんかうれしいなぁ」=
+//「コイカツで、男性という生き物をもっと知りたい……」=
+//「男の生態系ってこと？」=
+//「い、いや、汝のこと……きょ、興味あるのだ」=

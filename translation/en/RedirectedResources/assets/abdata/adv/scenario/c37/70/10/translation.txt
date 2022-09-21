@@ -1,11 +1,11 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「コイカツ部、具体的にはどういった活動をしているのでしょうか？」=Koikatsu club, just what kind of things do you do in that club, exactly?
-「興味出てくれたかな？」=Are you interested?
-「はい、あなたの部活ですから」=Yes, it's your club, afterall.
-「えっとコイカツ部は……コミュニケーションやスキンシップを取って互いを知り合って……あれ？」=Erhm, the Koikatsu club is about... communicating and getting to know each other through some close physical contact, and stuff... I guess?
-「いつもしている事と変わりませんね」=Not much different from what we usually get up to, is it?
-「そうだね……はは……」=You're not wrong... Haha...
-「わかりました、入部させていただきます。部長、何なりとご命令を」=Understood, please let me join the club. I'm always at your beck and call, Mr. Club President.
-「そ、そういう部活じゃないから！」=I-It's not that kind of club!
+//「コイカツ部、具体的にはどういった活動をしているのでしょうか？」=
+//「興味出てくれたかな？」=
+//「はい、あなたの部活ですから」=
+//「えっとコイカツ部は……コミュニケーションやスキンシップを取って互いを知り合って……あれ？」=
+//「いつもしている事と変わりませんね」=
+//「そうだね……はは……」=
+//「わかりました、入部させていただきます。部長、何なりとご命令を」=
+//「そ、そういう部活じゃないから！」=

@@ -1,18 +1,18 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「うわ、混んできたな。大丈夫か？　まだこっち寄れるぞ」=“Uwah, it's started getting pretty packed. You alright? You can scooch a bit closer still.”
-「ありがとう。少しだけ寄らせてもらうね……って、うわっ！？」=“Thanks. Then, just a little bit... wuh, uwah--!?”
-「あっはは……押されちゃったか？　仕方ないな、少しの間はこのままでいよう」=“Ahhahah... did you get pushed? It can't be helped, let's just stay like this for a bit.”
-「ぅ、うん、そうしてくれると助かる……」=“A-Alright, thanks...”
-（しかし……こんだけ[H名]と近いと、反応しそうになっちゃう……）=(However... when she's this close, I can't help but...)
-CHOICE:『欲望に少し抵抗する』=Resist your desires a little bit.
-CHOICE:『鉄の自制心を持って抵抗する』=Brandish your iron will and resist them fully.
-（我慢しなきゃ……でも……んんぅ、この誘惑は耐え難い……）=(Gotta endure... but... nnn, it's so hard...)
-「こんなに近づいたら、キスしたくなるな」=“When you're this close, I can't help but want to kiss you.”
-「はは……そうだね。本当にしたら、流石にまずそうだけど……」=“Hahah... yeah. Actually doing it would be bad though...”
-「んぅ？　何がまずいんだ？　ここをこんなに大きくしている事か？　じゃあ、あたしが何とかしてやらないとな……」=“Nnn? What would be bad? The way you've got it up so hard here? I'll have to do something about it then...”
-「はぅっ！？　[H名]っ、落ち着いてっ……そのままされたら、俺、あぁっ……」=“Hauu--!? [H], calm down... if we do it right here, I, aah--...”
-（いやいや、ダメだダメだ、こんな所で勃起させちゃ！　[H名]に幻滅されちゃうぞ！）=(No no, I can't, I can't pop a chub here! She's gonna lose all faith in me!)
-（そしたら、折角のデートが台無しだ！　ここはひたすらに我慢……）=(This entire date would go to waste if that happens! Nothing to do but to endure it...)
-（……しかし、いつまで我慢すれば……？　うぅ……最後まで堪えられるか不安だ）=(...But, just how long do I...? Uuu... I don't know if I'll be able to hold on the whole way)
+//「うわ、混んできたな。大丈夫か？　まだこっち寄れるぞ」=
+//「ありがとう。少しだけ寄らせてもらうね……って、うわっ！？」=
+//「あっはは……押されちゃったか？　仕方ないな、少しの間はこのままでいよう」=
+//「ぅ、うん、そうしてくれると助かる……」=
+//（しかし……こんだけ[H名]と近いと、反応しそうになっちゃう……）=
+//CHOICE:『欲望に少し抵抗する』=
+//CHOICE:『鉄の自制心を持って抵抗する』=
+//（我慢しなきゃ……でも……んんぅ、この誘惑は耐え難い……）=
+//「こんなに近づいたら、キスしたくなるな」=
+//「はは……そうだね。本当にしたら、流石にまずそうだけど……」=
+//「んぅ？　何がまずいんだ？　ここをこんなに大きくしている事か？　じゃあ、あたしが何とかしてやらないとな……」=
+//「はぅっ！？　[H名]っ、落ち着いてっ……そのままされたら、俺、あぁっ……」=
+//（いやいや、ダメだダメだ、こんな所で勃起させちゃ！　[H名]に幻滅されちゃうぞ！）=
+//（そしたら、折角のデートが台無しだ！　ここはひたすらに我慢……）=
+//（……しかし、いつまで我慢すれば……？　うぅ……最後まで堪えられるか不安だ）=

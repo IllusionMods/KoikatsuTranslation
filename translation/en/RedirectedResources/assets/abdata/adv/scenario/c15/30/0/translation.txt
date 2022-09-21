@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「あのー、今いいかな。できれば君と話したいんだけど」=Uhm, is now a good time? I'd like to chat with you, if possible.
-「……ジー。どうして男がここにいるんだ？」=...*stare*. Why's there a boy in here?
-「ああ、最近この学園に転入したんだ。俺は[P名前]って言うんだけど」=Aah, I transferred in recently. I go by [P名前].
-「クンクン、クンクン。怪しいニオイが……」=*sniff sniff*, *sniff sniff*. Smells fishy...
-「え？　俺、何かニオってる？」=Eh? Do I smell?
-「いやいや。悪いニオイはしないね。あらためてよろしく！」=No, no. Not bad anyway. Alright, nice to meet'ya!
-（ちょっと変わってる子かもな。どんな話をしよう……？）=(Pretty weird gal. What should we talk about...?)
+//「あのー、今いいかな。できれば君と話したいんだけど」=
+//「……ジー。どうして男がここにいるんだ？」=
+//「ああ、最近この学園に転入したんだ。俺は[P名前]って言うんだけど」=
+//「クンクン、クンクン。怪しいニオイが……」=
+//「え？　俺、何かニオってる？」=
+//「いやいや。悪いニオイはしないね。あらためてよろしく！」=
+//（ちょっと変わってる子かもな。どんな話をしよう……？）=

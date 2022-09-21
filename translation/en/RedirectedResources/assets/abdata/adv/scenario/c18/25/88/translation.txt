@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-………………=.........
-…………=......
-……=...
-「お疲れさまでした。……もっともっと、一緒に勉強しましょうね？」=Good work today. ...Let's study more together, lots more, okay?
+//………………=
+//…………=
+//……=
+//「お疲れさまでした。……もっともっと、一緒に勉強しましょうね？」=

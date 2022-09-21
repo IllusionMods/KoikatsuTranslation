@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「へえ、色々あるんだね」=Hoh, there's all sorts, huh?
-「そ、そうですね。……あ、すみません。あのお店、ちょっと行ってみたいです」=I-Indeed. ...Ah, I'm sorry. I want to, try going into that store.
-「うん、いいよ」=Yeah, alright.
-「あの……ありがとうございます。楽しかったです」=Uhm... thank you very much. It was very fun.
-（よかった、喜んでもらえたみたいだ）=(Great, looks like she enjoyed it.)
+//「へえ、色々あるんだね」=
+//「そ、そうですね。……あ、すみません。あのお店、ちょっと行ってみたいです」=
+//「うん、いいよ」=
+//「あの……ありがとうございます。楽しかったです」=
+//（よかった、喜んでもらえたみたいだ）=

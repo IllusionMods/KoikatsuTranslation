@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「どうだ？　私と話す事にも、慣れてきたんじゃないか？」=How is it? Haven't you gotten used to chatting with me now?
-「うん、そうだね。もう変に緊張したりとかは、ないかな」=Yeah, you're right. I don't feel weirdly nervous anymore, I don't think.
-「フッ、そういう時こそ、普段はしない失敗をするものだ。気を付ける事だな」=Hah, it's exactly at times like those, that you might slip up and make a mistake. You better be careful.
-「忠告ありがとう。なんだかんだで、[H名]って優しいよね？」=Thanks for the advice. Inspite of everything, you're a pretty kind person, aren't you, [H名]?
-「んなっ！　な、何を言うっ！　わ、私をからかうのはやめろっ！」=Wwha--! W-What are you saying--! S-Stop making fun of me--!
-「はは、からかってないよ。思ったまま言っただけ。……あー、改めてよろしくね」=Haha, I'm not making fun of you. I just said what I thought.Aah, once again, do take care of me.
-「はぁ、まったく……なにが改めてだ……だがまぁ、よろしくはしてやるとするか、フフッ」=Haa, good grief... What's with the "once again"... But, well, guess I'll keep an eye out for you, fufu--
+//「どうだ？　私と話す事にも、慣れてきたんじゃないか？」=
+//「うん、そうだね。もう変に緊張したりとかは、ないかな」=
+//「フッ、そういう時こそ、普段はしない失敗をするものだ。気を付ける事だな」=
+//「忠告ありがとう。なんだかんだで、[H名]って優しいよね？」=
+//「んなっ！　な、何を言うっ！　わ、私をからかうのはやめろっ！」=
+//「はは、からかってないよ。思ったまま言っただけ。……あー、改めてよろしくね」=
+//「はぁ、まったく……なにが改めてだ……だがまぁ、よろしくはしてやるとするか、フフッ」=

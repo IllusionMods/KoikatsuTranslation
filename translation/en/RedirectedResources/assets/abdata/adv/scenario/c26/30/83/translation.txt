@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-………………=.........
-…………=......
-……=...
-「ご馳走さま……またね」="Thanks for the meal... See you."
+//………………=
+//…………=
+//……=
+//「ご馳走さま……またね」=

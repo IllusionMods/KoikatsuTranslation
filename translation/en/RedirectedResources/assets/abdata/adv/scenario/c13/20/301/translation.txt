@@ -1,22 +1,22 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「うぅ、なんか、ちょっと緊張するな～」=Uuu, I feel kinda nervous~
-「なんで？　[H名]って、よくカラオケに来てそうなイメージあるけど」=Why? I got the image that you were the type to often go out for things like Karaoke, [H名].
-「うん……友達とはよく行くけど……」=Yeah... with my friends, I do but...
-「男の子と二人っきりは、その……初めて、だから……」=It's my first time being, you know... alone with a boy, so...
-「はは、別に緊張することないよ。だって、相手は俺だよ？」=Haha, you don't need to be so nervous. Afterall, that boy is nobody other than me, no?
-「乙女心がわかってないし！　[P名]くんとだから緊張するのっ！」=You don't know how a girl's heart works at all! I'm nervous precisely because it's you, [P名]-kun--!
-「そ、そういうもの……？」=I-Is that so...?
-「そうに決まってんじゃん！　だって……好きな人の前ではいいところ見せたいし……！」=Of course it is, you blockhead! Afterall... I want to show my good side, put on a good show, for my beloved...!
-「ってことで、今日は[P名]くんを惚れ直させるような、歌声披露しちゃうんだからっ！」=--So with that, I'll make you hear such nice singing today, that you'll fall in love with me all over again--!
-（おお、すごい気合が入ってる……！）=(Ooh, she's getting really into it...!)
-「まずは何を歌おうかな……」=What should I start with...
-「二人の初カラオケデートだし、一曲目はデュエットで歌わない？」=It's our first karaoke together, so wanna sing a duet together?
-「それ、ナイスアイディアじゃん！」=That's a great idea!
-「じゃあ、この曲知ってる？」=Well then, you know this song?
-「知ってる、知ってる！　よーし、さっそく入れちゃおう！」=I do, I do! Alright, let's put it in!
-「おー！」=Yeah!
-[P名]＆[H名]=[P名] & [H名]
-『もしも今 背中に羽が生えて 大空自由に 飛び回れたら～♪』=『If only I could, sprout wings from my back, and fly freely, in this wide open sky~♪』
-（[H名]、楽しそうに歌うな～。俺も負けてられないぞっ！）=([H名] sure loves singing~. I can't lose either--!)
+//「うぅ、なんか、ちょっと緊張するな～」=
+//「なんで？　[H名]って、よくカラオケに来てそうなイメージあるけど」=
+//「うん……友達とはよく行くけど……」=
+//「男の子と二人っきりは、その……初めて、だから……」=
+//「はは、別に緊張することないよ。だって、相手は俺だよ？」=
+//「乙女心がわかってないし！　[P名]くんとだから緊張するのっ！」=
+//「そ、そういうもの……？」=
+//「そうに決まってんじゃん！　だって……好きな人の前ではいいところ見せたいし……！」=
+//「ってことで、今日は[P名]くんを惚れ直させるような、歌声披露しちゃうんだからっ！」=
+//（おお、すごい気合が入ってる……！）=
+//「まずは何を歌おうかな……」=
+//「二人の初カラオケデートだし、一曲目はデュエットで歌わない？」=
+//「それ、ナイスアイディアじゃん！」=
+//「じゃあ、この曲知ってる？」=
+//「知ってる、知ってる！　よーし、さっそく入れちゃおう！」=
+//「おー！」=
+//[P名]＆[H名]=
+//『もしも今 背中に羽が生えて 大空自由に 飛び回れたら～♪』=
+//（[H名]、楽しそうに歌うな～。俺も負けてられないぞっ！）=

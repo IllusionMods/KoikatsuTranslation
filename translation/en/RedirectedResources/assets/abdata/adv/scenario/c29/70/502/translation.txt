@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「[H名]ーー！　こっちこっち！」=[H名]--! Over here!
-「おはようございます。まさか、あなたの方が早いとは思いませんでした」=Good morning. I didn't think you'd get here before I did.
-「あれ？　もしかして俺、時間にルーズだって思われてる？」=Huh? By any chance, do you think I'm that careless with time?
-「そういうわけではありませんけれど……と、とにかく行きましょう」=Not exactly, but... w-well anyways, let's go.
-「よしっ。今日は楽しもうね」=Alright--. Let's have a blast today too.
+//「[H名]ーー！　こっちこっち！」=
+//「おはようございます。まさか、あなたの方が早いとは思いませんでした」=
+//「あれ？　もしかして俺、時間にルーズだって思われてる？」=
+//「そういうわけではありませんけれど……と、とにかく行きましょう」=
+//「よしっ。今日は楽しもうね」=

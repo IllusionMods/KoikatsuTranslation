@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「ふぅ……ねぇ、見てるだけで本当にいいの？」=Fuu... hey, are you sure you're alright with just watching?
+//「ふぅ……ねぇ、見てるだけで本当にいいの？」=

@@ -1,17 +1,17 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「そろそろ時間ですね」=Our time's almost up, isn't it?
-CHOICE:『延長して、もうちょっと歌おうよ』=『Let's extend it and sing a bit more』
-CHOICE:『帰る仕度をしよっか』=『Let's get ready to go home』
-「延長しない？　もうちょっと歌いたいんだ」=Wanna extend it? I want to sing for a bit longer.
-「えぇ、構いませんよ」=Sure, I don't mind.
-「それじゃ、電話しておくね」=Well then, I'll make the call.
-「そうだね、そろそろ出る準備しておこうか」=You're right, let's wrap up everything and get ready to leave.
-「はい、また歌いに来ましょう」=Yes, let's come to sing again soon.
-「うん。俺も楽しかったよ」=Yeah. I had fun too.
-「それじゃあ、最後に一曲歌って帰ろうか。せっかくだし[H名]が入れていいよ」=Well then, let's sing one final song and go home. You can sing the last one if you want, [H名].
-「……なるほど。アンカー……トリを私にですか。では、力の限り歌います」=......I see. I'll be the last runner then... huh? Alright then, I'll sing with all my might.
-「いや、そんな気合入れなくても……普段通りでいいから」=No, you don't need to get that fired up... Just do it normally.
-『……小さな手の平　掴める物はきっと限られているけど』=[... This small hand, the things it can grasp are surely limited but--]
-（……普段通り歌ってくれてる、のか。それとも気合を入れてくれてるのか？　うーん、分からない）=(...Is she singing, like she usually does? Or is she fired up? Hmmm, I can't tell)
+//「そろそろ時間ですね」=
+//CHOICE:『延長して、もうちょっと歌おうよ』=
+//CHOICE:『帰る仕度をしよっか』=
+//「延長しない？　もうちょっと歌いたいんだ」=
+//「えぇ、構いませんよ」=
+//「それじゃ、電話しておくね」=
+//「そうだね、そろそろ出る準備しておこうか」=
+//「はい、また歌いに来ましょう」=
+//「うん。俺も楽しかったよ」=
+//「それじゃあ、最後に一曲歌って帰ろうか。せっかくだし[H名]が入れていいよ」=
+//「……なるほど。アンカー……トリを私にですか。では、力の限り歌います」=
+//「いや、そんな気合入れなくても……普段通りでいいから」=
+//『……小さな手の平　掴める物はきっと限られているけど』=
+//（……普段通り歌ってくれてる、のか。それとも気合を入れてくれてるのか？　うーん、分からない）=

@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「[H名]さん。ちょっと顔色が悪くない？」=[H名]-san. you're looking pretty pale there.
-「わかる？　私、泳げないのよ。小さい頃に川で溺れたことがあって……」=You can tell? You know, I can't swim. I almost drowned in a stream as a kid, you see...
-「そうだったんだ。じゃあ、俺が補助するから、克服しようよ！」=So that's why. Then, I'll help you, so let's conquer that fear!
-「絶対に、手を離さないでね……」=Absolutely, definitely don't let go, alright?...
-「トラウマを持ってる人にそんなことしないよ、安心して」=I won't do that to someone who has that kind of tauma, so don't worry.
-「う、うん……信じてるからね？」=Y-Yeah... I'm placing my trust in you, alright?
-（こんな弱気になってる[H名]さん初めて見た。手を離したら一体どうなるんだ……いや、ダメだぞ俺！）=(This is the first time I've seen [H名]-san so vulnerable. I wonder just what she'll be like if I let go... No, you can't think like that, me!)
+//「[H名]さん。ちょっと顔色が悪くない？」=
+//「わかる？　私、泳げないのよ。小さい頃に川で溺れたことがあって……」=
+//「そうだったんだ。じゃあ、俺が補助するから、克服しようよ！」=
+//「絶対に、手を離さないでね……」=
+//「トラウマを持ってる人にそんなことしないよ、安心して」=
+//「う、うん……信じてるからね？」=
+//（こんな弱気になってる[H名]さん初めて見た。手を離したら一体どうなるんだ……いや、ダメだぞ俺！）=

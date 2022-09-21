@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「へ、もう終わり？　えっと……こっちはまだものたりないというか……あー」=“Eh~, are we stopping there? Erhm... I still haven't had enough, like... aaah~”
+//「へ、もう終わり？　えっと……こっちはまだものたりないというか……あー」=

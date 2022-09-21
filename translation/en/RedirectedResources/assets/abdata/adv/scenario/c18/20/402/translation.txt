@@ -1,23 +1,23 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「[H名]って、よくコーヒーを注文するよね」=You sure go for coffee a lot, [H名].
-「喫茶店といえばコーヒーですから」=Well, it is a cafe. What else would you get?
-「確かに。でも、中にはコーヒーは無理、って人もいるよね」=You have a point. But, there're people out there who can't handle the stuff, aren't there?
-「そうらしいですね。気持ちはわからなくもないですけれど」=Seems so. It's not like I don't understand why though.
-「[H名]も、もともとはコーヒー飲めなかったの？」=Was there a time when you couldn't drink it either, [H名]?
-「はい。コーヒーが飲めるようになると大人になれる気がして……」=Yes. I felt that I'd grow a bit more mature if I started drinking it so...
-「頑張って飲める様になったんですけれど、特に何も変わらなかったです」=I did my best and eventually was able to stand it but, I don't think it changed all that much.
-「それは俺も思ってたなあ」=Man, I was the same way.
-「でも、コーヒーが飲めるようになるっていうラインとは別に、ブラックを飲めるかどうかっていうラインもあるよね」=But, it's one thing to drink coffee, and another to drink it black, isn't it?
-「確かに、それも一つの壁ですねぇ」=For sure, that's another wall you have to somehow scale.
-「[H名]はブラック飲めるの？」=Do you drink yours black, [H名]?
-「ええ、むしろブラックの方が好きですね」=Yes, if anything, I prefer it black.
-「そうなんだ。ミルクとかは入れないの？」=I see. You don't put in milk and stuff?
-「コーヒーを飲めるようになったときに、大人になるならブラックを飲めるようにならなきゃ、と思っていたので……」=Back when I was trying to get used to drinking coffee, I thought that if I was going to do it, I might as well learn to drink it black, since it'd make me more mature and stuff...
-「その時は無理してブラックを飲んでたんですけど、いつの間にか好きになっちゃってて、ミルクや砂糖も一切入れなくなりました」=I had to really force myself back then but, before I noticed, I actually started really liking it, and I haven't added any sugar or milk in mine ever since.
-「すっかりコーヒー通になっちゃったんだね」=Became a complete coffee connoisseur, huh?
-「そ、そんなことはないですよっ」=N-No, that's not it--
-「いえ、少しミルクとかを入れたほうが好きですね」=No, I like mine with a bit of milk and stuff.
-「ブラックが飲めないってだけじゃなくて？」=You sure it's not because you can't drink black?
-「そんなんじゃないですよっ！　ホントですよっ？」=No, that's not true--! I'm being honest--!
+//「[H名]って、よくコーヒーを注文するよね」=
+//「喫茶店といえばコーヒーですから」=
+//「確かに。でも、中にはコーヒーは無理、って人もいるよね」=
+//「そうらしいですね。気持ちはわからなくもないですけれど」=
+//「[H名]も、もともとはコーヒー飲めなかったの？」=
+//「はい。コーヒーが飲めるようになると大人になれる気がして……」=
+//「頑張って飲める様になったんですけれど、特に何も変わらなかったです」=
+//「それは俺も思ってたなあ」=
+//「でも、コーヒーが飲めるようになるっていうラインとは別に、ブラックを飲めるかどうかっていうラインもあるよね」=
+//「確かに、それも一つの壁ですねぇ」=
+//「[H名]はブラック飲めるの？」=
+//「ええ、むしろブラックの方が好きですね」=
+//「そうなんだ。ミルクとかは入れないの？」=
+//「コーヒーを飲めるようになったときに、大人になるならブラックを飲めるようにならなきゃ、と思っていたので……」=
+//「その時は無理してブラックを飲んでたんですけど、いつの間にか好きになっちゃってて、ミルクや砂糖も一切入れなくなりました」=
+//「すっかりコーヒー通になっちゃったんだね」=
+//「そ、そんなことはないですよっ」=
+//「いえ、少しミルクとかを入れたほうが好きですね」=
+//「ブラックが飲めないってだけじゃなくて？」=
+//「そんなんじゃないですよっ！　ホントですよっ？」=

@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「すぅ……すぅ…………ん、んん……」=*snore... *snore*... Nnn, nnnn...
-（んぅ……すごく気持ちいいような……いったい、何が……？）=(Nn... Something feels amazing... just what, is it...?)
-「…………」=“......”
-「えっ……何が起きて……？」=Eh--... what is...?
-「おはようございます、よく眠れましたか♡」=Good morning, did you sleep well?♡
-「眠れたけど……これは、いったい……」=I did but... just what are you...
-「ふふっ、見ての通りですよ。私があなたを……襲ったんです♪」=Fufu--, it's exactly what it looks like. I laid... an assault on you♪
+//「すぅ……すぅ…………ん、んん……」=
+//（んぅ……すごく気持ちいいような……いったい、何が……？）=
+//「…………」=
+//「えっ……何が起きて……？」=
+//「おはようございます、よく眠れましたか♡」=
+//「眠れたけど……これは、いったい……」=
+//「ふふっ、見ての通りですよ。私があなたを……襲ったんです♪」=

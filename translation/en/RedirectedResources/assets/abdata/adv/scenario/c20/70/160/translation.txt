@@ -1,12 +1,12 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「少し、冷えてきましたね……」=It's started, getting a bit colder, hasn't it...
-「だね、さっきまではあんなに熱かったのに」=Sure has, even though it was so hot and steamy just a few minutes ago.
-「はぅ、へ、変なこと言わないでください！　は、早く駅へ行きましょう！」=Hauu, p-please don't stay weird stuff! L-Let's go to the station already!
-「はは、ごめんごめん。それじゃあ、行こうか」=Haha, sorry, sorry. Well then, let's go.
-「そうだ、ちょっと寒いし手ぐらい繋いどこうか？」=Right, it's a bit cold and stuff too, how about we hold hands?
-「そ、それは……良い案だと、思います……」=T-That's... a nice idea, I think...
-「あなたの手、温かい……」=Your hand, is so warm...
-「さっきまでの熱さを思い出すような……」=Almost makes you remember the hot steamy passion from...
-「ま、またそういうことを……！」=T-That stuff again...!
+//「少し、冷えてきましたね……」=
+//「だね、さっきまではあんなに熱かったのに」=
+//「はぅ、へ、変なこと言わないでください！　は、早く駅へ行きましょう！」=
+//「はは、ごめんごめん。それじゃあ、行こうか」=
+//「そうだ、ちょっと寒いし手ぐらい繋いどこうか？」=
+//「そ、それは……良い案だと、思います……」=
+//「あなたの手、温かい……」=
+//「さっきまでの熱さを思い出すような……」=
+//「ま、またそういうことを……！」=

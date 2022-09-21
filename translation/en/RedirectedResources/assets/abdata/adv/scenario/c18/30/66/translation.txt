@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「あなたと一緒だと、帰り道も安心感がありますね」=When I'm with you, even the path home feels safe.
-「そうなの？　なら良かったよ」=That so? Glad to hear that.
-「ええ。やっぱり男の子だからでしょうか。頼もしいですよ」=Yes. I wonder if it's because you're a boy? You're really reliable.
+//「あなたと一緒だと、帰り道も安心感がありますね」=
+//「そうなの？　なら良かったよ」=
+//「ええ。やっぱり男の子だからでしょうか。頼もしいですよ」=

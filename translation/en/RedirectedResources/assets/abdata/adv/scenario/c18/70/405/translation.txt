@@ -1,23 +1,23 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「美味しそうなハンバーグだね」=That hamburg steak sure looks delicious.
-「そうですね……お肉の焼ける香りが食欲をそそります……あっ」=It really does... the aroma of the grilled meat's just perfect to whet the... ah--
-ぐぅ～……=*growl*~...
-「……構わず、お先にどうぞ？」=...Don't mind it, just dig in.
-「ううっ、不幸です……お先に、いただきます……」=Uuu--, life's so unfair... I'm going to go ahead then...
-「……これっ、おいしいですっ。すっごいジューシー」=...This is--, really good--. It's so juicy.
-「それはよかった……あ」=That's great... ah.
-「……あなたも我慢してたんですか？」=...Were you holding it in too?
-「まぁ、恥ずかしながら……」=Well, as much as I hate to admit it...
-「うふふ……じゃあ、口を開けてください」=Ufufu... then, please open your mouth.
-「もらっちゃっていいの？」=Are you sure I can have some?
-「いいですよっ。ほらっ、早くしてくれないと落としちゃうかもしれないですよ？」=It's alright--. Come on--, if you don't open your mouth for me quickly, it might fall on the table, you know?
-「うわっ、それは大変だ。あーん……」=Uwah--, that would be a shame. Aaahn~...
-「そのままですよ……あーん……」=Yes, just like that... aaahn...
-「んん……」=Nnn...
-「ほんとだ、すっごくおいしいねこのハンバーグ。今度俺も頼もうかな」=You're right, this steak's straight fire. Maybe I'll get it too, next time.
-「じゃあ次きたとき、私は別のものをたのみます。そうすれば、またこうして分け合えますからね」=Then I'll order something different myself, next time. Then we'll be able to share our food with each other like this again.
-「いいね。他にオススメなメニューとかあるの？」=Sounds great. Is there something else on the menu here that's real popular?
-「うーん……他だとオムライスとかですかね」=Mmm... I suppose that'd be the omurice.
-「次はハンバーグとオムライスが同時にたべられるのか……じゅるり」=Next time, I'll get to eat the steak and omurice at the same time, huh... *gulp*
+//「美味しそうなハンバーグだね」=
+//「そうですね……お肉の焼ける香りが食欲をそそります……あっ」=
+//ぐぅ～……=
+//「……構わず、お先にどうぞ？」=
+//「ううっ、不幸です……お先に、いただきます……」=
+//「……これっ、おいしいですっ。すっごいジューシー」=
+//「それはよかった……あ」=
+//「……あなたも我慢してたんですか？」=
+//「まぁ、恥ずかしながら……」=
+//「うふふ……じゃあ、口を開けてください」=
+//「もらっちゃっていいの？」=
+//「いいですよっ。ほらっ、早くしてくれないと落としちゃうかもしれないですよ？」=
+//「うわっ、それは大変だ。あーん……」=
+//「そのままですよ……あーん……」=
+//「んん……」=
+//「ほんとだ、すっごくおいしいねこのハンバーグ。今度俺も頼もうかな」=
+//「じゃあ次きたとき、私は別のものをたのみます。そうすれば、またこうして分け合えますからね」=
+//「いいね。他にオススメなメニューとかあるの？」=
+//「うーん……他だとオムライスとかですかね」=
+//「次はハンバーグとオムライスが同時にたべられるのか……じゅるり」=

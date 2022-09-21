@@ -1,18 +1,18 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「辺りはすっかりオレンジ色ね……」=The surroundings are dyed completely orange...
-CHOICE:『夜景を見せにいく』=『Take her to see the Night View』
-CHOICE:『切り上げて駅に向かう』=『Wrap it up and head to the station』
-「[H名]さん、まだ時間ある？」=[H名]-san, Do you still have some time?
-「ええ。たっぷりね」=Yes. Lots.
-「じゃあ、一緒に見たいものがあるんだけど、ついてきてもらっていい？」=Then, there's something I wanna show you, will you come with me?
-「ふふ、いいわ。大人しくついてってあげる」=Fufu, alright. I'll quietly follow you.
-「ありがとう！　こっちだよ」=Thank you! It's here.
-「明日もあるし、今日はもう駅に向かおうか」=There's always tomorrow, shall we head to the station for today?
-「そうね。いっぱい遊んだから、少し疲れちゃったわ」=We should. We played around lots today, so I'm a bit tired.
-「公園で思い切り遊ぶ一日なんて、あんまりないもんね。よく眠れそうだ」=It's not often we get to spend all day playing around in the park these days, afterall. I think I'll sleep well tonight.
-「そうね、シャワーも気持ちよさそう」=Indeed, a hot shower would feel really nice too.
-「シャワー」=A shower--
-「エッチなこと考えてくれた？」=Having lewd thoughts?
-「ま、また誘導したの？」=T-trying to lead me on again?
+//「辺りはすっかりオレンジ色ね……」=
+//CHOICE:『夜景を見せにいく』=
+//CHOICE:『切り上げて駅に向かう』=
+//「[H名]さん、まだ時間ある？」=
+//「ええ。たっぷりね」=
+//「じゃあ、一緒に見たいものがあるんだけど、ついてきてもらっていい？」=
+//「ふふ、いいわ。大人しくついてってあげる」=
+//「ありがとう！　こっちだよ」=
+//「明日もあるし、今日はもう駅に向かおうか」=
+//「そうね。いっぱい遊んだから、少し疲れちゃったわ」=
+//「公園で思い切り遊ぶ一日なんて、あんまりないもんね。よく眠れそうだ」=
+//「そうね、シャワーも気持ちよさそう」=
+//「シャワー」=
+//「エッチなこと考えてくれた？」=
+//「ま、また誘導したの？」=

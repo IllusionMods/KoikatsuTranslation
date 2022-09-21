@@ -1,5 +1,5 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-注射ガーターリング（左）=Injection Ring Garter (Left)
-注射ガーターリング（右）=Injection Ring Garter (Right)
+//注射ガーターリング（左）=
+//注射ガーターリング（右）=

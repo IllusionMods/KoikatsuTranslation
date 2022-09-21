@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「へーぇ。あたしがこれ好きだって、誰かから聞いたのか？　男子の調査力侮りがたしだな」=“Hoh. Who told you about what sort of thing I love? Can't look down on a guy's information network, huh?”
+//「へーぇ。あたしがこれ好きだって、誰かから聞いたのか？　男子の調査力侮りがたしだな」=

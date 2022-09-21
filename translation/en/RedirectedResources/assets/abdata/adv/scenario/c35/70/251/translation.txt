@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-（ふぅ……そろそろ降りる準備しとかないと）=(Fuu... Gotta get ready to get off.)
-（……今日のデートも、二人で目一杯楽しめたな）=(...We sure had a blast on today's date too.)
-（特に観覧車……二人きりになれて、いい雰囲気になれなぁ）=(Especially the ferris wheel... we had a really nice mood going on there)
-（……うん、この次も素敵なデートにしよう！）=(...Yeah, let's make the next date a lovely one too!)
+//（ふぅ……そろそろ降りる準備しとかないと）=
+//（……今日のデートも、二人で目一杯楽しめたな）=
+//（特に観覧車……二人きりになれて、いい雰囲気になれなぁ）=
+//（……うん、この次も素敵なデートにしよう！）=

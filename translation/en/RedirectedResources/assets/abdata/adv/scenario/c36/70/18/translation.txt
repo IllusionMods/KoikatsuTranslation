@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「あら、朝から家畜が迷い込んでいるようね。ここは学園よ、家畜小屋ではないわ」="Oh, looks like livesock got lost this morning. This is a school, not a shed"
+//「あら、朝から家畜が迷い込んでいるようね。ここは学園よ、家畜小屋ではないわ」=

@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「お邪魔するわ。へぇ、ここが下僕の巣なのね。藁とかは無いの？　少し期待していたのだけど」="Pardon the intrusion. Huuh, so this is my manservant's nest. There's no straw? Quite unexpected."
-「まぁ、主を迎える部屋としてはギリギリ合格と言ったところかしら。豚は案外綺麗好きなのよね」="Well, I guess as a room to welcome the master it barely gets a pasing score. It's surprisingly clean, pig."
-「あら怒った？　ここは貴方の巣よ、唯一貴方が私を自由にできる場所。さぁ、どうするの？」="Oh, are you angry? It's your nest, the place where I do as I please. So, what should we do?"
+//「お邪魔するわ。へぇ、ここが下僕の巣なのね。藁とかは無いの？　少し期待していたのだけど」=
+//「まぁ、主を迎える部屋としてはギリギリ合格と言ったところかしら。豚は案外綺麗好きなのよね」=
+//「あら怒った？　ここは貴方の巣よ、唯一貴方が私を自由にできる場所。さぁ、どうするの？」=

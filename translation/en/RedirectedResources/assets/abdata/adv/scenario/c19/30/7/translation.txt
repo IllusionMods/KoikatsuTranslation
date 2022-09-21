@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「えっ……わ、私の事、を……！？」=Eh--... m-me...!?
-「うん。小説みたいに上手い事はあまり言えないけど……」=Yeah. I can't really come up with the sort of lines you're used to reading though...
-「……ううん、それは私も同じだよ。私もあなたの事が、好きだから……」=...No, I'm in the same boat there. I love, you too, afterall...
-「うん、俺もだよ。こういう時は確か……『月が綺麗ですね』って言えばいいのかな？」=Yeah, Me too. Would a line like... 『The Moon sure is Beautiful』fit here?
-「ふふっ、月は出てないけどね。それなら私……『死んでもいいわ』って答えないと」=Fufu--, there's no moon out, though. I gotta match you though...『I don't mind dying now.』
+//「えっ……わ、私の事、を……！？」=
+//「うん。小説みたいに上手い事はあまり言えないけど……」=
+//「……ううん、それは私も同じだよ。私もあなたの事が、好きだから……」=
+//「うん、俺もだよ。こういう時は確か……『月が綺麗ですね』って言えばいいのかな？」=
+//「ふふっ、月は出てないけどね。それなら私……『死んでもいいわ』って答えないと」=

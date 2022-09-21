@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「えっ？　ええっと、何の小説の話だっけ……え、違うの？」=Eh--? Eerhm, what story is that from... eh, it's not from a book?
-「……ごめん。フィクションの話じゃないんだ……」=...Sorry. I'm not talking about fiction...
-「嘘、どうして……ぐすっ、あれ？　何故こんなに悲しいの……あっ」=No way, why... *sob*, huh? Why am I so sad... ah--
-「……本当に、ごめん……」=...I really am, sorry...
-「これが、失恋……ぐすっ、最後に……貴重な想いを、あり、が……うぅぅ……！」=So this is, a broken heart... *sob*, thanks for, teaching... me about, such precious feelings, till the, end... uuuu...!
+//「えっ？　ええっと、何の小説の話だっけ……え、違うの？」=
+//「……ごめん。フィクションの話じゃないんだ……」=
+//「嘘、どうして……ぐすっ、あれ？　何故こんなに悲しいの……あっ」=
+//「……本当に、ごめん……」=
+//「これが、失恋……ぐすっ、最後に……貴重な想いを、あり、が……うぅぅ……！」=

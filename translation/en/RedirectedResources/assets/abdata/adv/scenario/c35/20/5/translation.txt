@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「うん、私も身体動かしたいけん、いいよー！　それじゃなんしよっか？」=Yeah, I wanna get a workout too, so sure! What do you wanna do?
-「なんでも大丈夫だけど……勝ち負けがあるスポーツの方が盛り上がるよね」=I'm fine with anything but... I feel like competitive sports really get me fired up.
-「うんうん！　やっぱ勝負せんとね！」=Yeah, yeah! Gotta have a proper battle!
+//「うん、私も身体動かしたいけん、いいよー！　それじゃなんしよっか？」=
+//「なんでも大丈夫だけど……勝ち負けがあるスポーツの方が盛り上がるよね」=
+//「うんうん！　やっぱ勝負せんとね！」=

@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「きゃっ！？　だ、ダメですよ入ってきたら……！」=“Kyah--?! Y-You mustn't come in here...!”
+//「きゃっ！？　だ、ダメですよ入ってきたら……！」=

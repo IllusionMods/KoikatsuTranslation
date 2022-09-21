@@ -1,17 +1,17 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-お金持ちの指輪=Diamond Ring
-食べかけアイスバー=Half-Eaten Popsicle
-傘=Umbrella
-番傘=Coarse Oilpaper Umbrella
-出席名簿=Attendance List
-ステージマイク=Stage Microphone
-ポンポン=Pom-Pom
-テニスラケット=Tennis Racket
-指示棒=Guide Rod
-テニスボール=Tennis Ball
-クリップ=Clip
-洗濯ばさみ=Clothespin
-持ち看板=Handheld Sign
-コントローラー=Controller
+//お金持ちの指輪=
+//食べかけアイスバー=
+//傘=
+//番傘=
+//出席名簿=
+//ステージマイク=
+//ポンポン=
+//テニスラケット=
+//指示棒=
+//テニスボール=
+//クリップ=
+//洗濯ばさみ=
+//持ち看板=
+//コントローラー=

@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「愛し愛されるって、こういうことだったのね……愛してるわ、ダーリン♪」=“So this is what it means, to love and to be loved, huh... I love you, darling♪”
+//「愛し愛されるって、こういうことだったのね……愛してるわ、ダーリン♪」=

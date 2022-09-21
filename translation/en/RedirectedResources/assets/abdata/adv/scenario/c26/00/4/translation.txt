@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「……別にいいけど」=“...Sure, I guess.”
-「ありがとう。今やってるとこが難しくてさ……」=“Thanks, I'm stuck on this super hard part, so...”
-「……多少は、教えられる。私に分かる範囲なら……」=“...I can, help a bit. As long as it's something I know...”
+//「……別にいいけど」=
+//「ありがとう。今やってるとこが難しくてさ……」=
+//「……多少は、教えられる。私に分かる範囲なら……」=

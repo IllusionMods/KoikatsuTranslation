@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-………………=.........
-…………=......
-……=...
-「今日の勉強はこれで終わりだな！　さて、少しならスキンシップ……していいぞ？」=“That's the end of it then! Now then, I do not mind if thou... havest thine way with me, you know?”
+//………………=
+//…………=
+//……=
+//「今日の勉強はこれで終わりだな！　さて、少しならスキンシップ……していいぞ？」=

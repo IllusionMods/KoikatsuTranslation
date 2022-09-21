@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「ここがあなたの部屋……地球での仮の住まい……」=“So this is your room... your temporary shelter, here on Earth...”
-「ねぇ、早くこんなところ抜け出して、みんなのところへ行こうね♪」=“Hey, let's ditch this place quickly, and go back to where everyone is, okay?♪”
-「[P]くん。あなたもわたしと一緒に救われましょう」=“[P]-kun. Let's get saved off here together.”
-「だから……そのためにも今日もえっち、しっかりしよう？」=“So... let's have nice and proper sex today too, to that end?”
+//「ここがあなたの部屋……地球での仮の住まい……」=
+//「ねぇ、早くこんなところ抜け出して、みんなのところへ行こうね♪」=
+//「[P]くん。あなたもわたしと一緒に救われましょう」=
+//「だから……そのためにも今日もえっち、しっかりしよう？」=

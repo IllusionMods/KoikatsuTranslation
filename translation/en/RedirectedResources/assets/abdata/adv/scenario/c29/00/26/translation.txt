@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「あっ……ありがとうございます。いただきます……」=Ah--... thank you very much. I'll gladly accept it...
+//「あっ……ありがとうございます。いただきます……」=

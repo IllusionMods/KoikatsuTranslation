@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「ＯＫ♪　ドコ行くヨー？」=OK♪ Where are you taking me?
-「まだシークレットで」=It's still a secret.
-「フフ、ナイショ、楽しみネー」=Fufu, secret, sounds fun.
+//「ＯＫ♪　ドコ行くヨー？」=
+//「まだシークレットで」=
+//「フフ、ナイショ、楽しみネー」=

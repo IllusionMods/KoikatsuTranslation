@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「お、今日は弁当か？」=Oh, got a lunch box today, huh?
-「そう、たまには自分で作るのもいいかなって」=Yeah, thought it'd be good to make lunch myself every so often.
-「どれどれ、味見してやろう……」=Alright, let's have a little taste then...
-「あ、あの……俺のおかずが……無くなっ……あっ！」=U-Uhm... atleast leave... some of the sides for... ah--!
-「[P]は料理うまいな！」=You make for a pretty good cook, [P]!
+//「お、今日は弁当か？」=
+//「そう、たまには自分で作るのもいいかなって」=
+//「どれどれ、味見してやろう……」=
+//「あ、あの……俺のおかずが……無くなっ……あっ！」=
+//「[P]は料理うまいな！」=

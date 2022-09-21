@@ -1,15 +1,15 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「ねえ、俺たちそろそろ愛称で呼び合ってみない？」=Hey, wanna try calling each other by nicknames?
-「すみませんが、それはできかねます。私はあなたを人として尊敬し、お慕いしているからこそ、今の呼び方をしているので」=I'm sorry but, I cannot bring myself to do that. I refer to you the way I do now not only because I respect you as a person, but because I adore you as well.
-「その気持ちは嬉しいんだけど、でももっとラフに呼べるようになったら、きっと俺たちの仲もより深まると思うんだ」=I'm happy you feel that way, but if we were to become more casual with each other, I'm sure our relationship will also grow stronger and deeper.
-「……なるほど。確かにあなたの言う事にも一理ありますね。では、試しにお呼びしてみましょうか」=...I see. Certainly, there's some truth to what you're saying. Well then, let's try calling each other by nicknames as a test.
-「ありがとう！　じゃあ、俺のことは[Pあだ名]って呼んでくれないかな？　[Hあだ名]」=Thanks! Then, won't you refer to me as [Pあだ名]? [Hあだ名]
-「えっ、それは愛称では……！　それに、さり気なくお呼びになったのは、私の……？」=Eh--, that's not...! And, the one you called out so nonchalantly, was that mine...?
-「そうだよ、一所懸命考えてた愛称。それを俺は呼んでみたんだけど……ダメかな？」=That's right, it's a nickname I came up with after a lot of thinking. I wanted to say it out loud but... Was it no good?
-「くっ……わ、分かりました。えっと……[Pあだ名]」=Kuh--... I-I got it. Erhm... [Pあだ名]
-「おお、いいっ！　すごく嬉しいよ！」=Oooh, so good! I'm so happy right now!
-「私は恥ずかしいです……この呼び方には慣れそうもありません」=I for one am embarrassed... I don't think I could get used to these nicknames either.
-「そ、そっか。でも、たまにでいいから、呼んでくれると嬉しいかなーって」=I-I see. But, you don't need to do it often, even if you only do it every once in a while, it'd make me really happy.
-「たまにでしたら……考えておきます」=I suppose, every once in a while... I'll think about it.
+//「ねえ、俺たちそろそろ愛称で呼び合ってみない？」=
+//「すみませんが、それはできかねます。私はあなたを人として尊敬し、お慕いしているからこそ、今の呼び方をしているので」=
+//「その気持ちは嬉しいんだけど、でももっとラフに呼べるようになったら、きっと俺たちの仲もより深まると思うんだ」=
+//「……なるほど。確かにあなたの言う事にも一理ありますね。では、試しにお呼びしてみましょうか」=
+//「ありがとう！　じゃあ、俺のことは[Pあだ名]って呼んでくれないかな？　[Hあだ名]」=
+//「えっ、それは愛称では……！　それに、さり気なくお呼びになったのは、私の……？」=
+//「そうだよ、一所懸命考えてた愛称。それを俺は呼んでみたんだけど……ダメかな？」=
+//「くっ……わ、分かりました。えっと……[Pあだ名]」=
+//「おお、いいっ！　すごく嬉しいよ！」=
+//「私は恥ずかしいです……この呼び方には慣れそうもありません」=
+//「そ、そっか。でも、たまにでいいから、呼んでくれると嬉しいかなーって」=
+//「たまにでしたら……考えておきます」=

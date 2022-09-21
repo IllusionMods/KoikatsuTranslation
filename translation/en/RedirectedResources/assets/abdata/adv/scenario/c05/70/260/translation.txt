@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「誰にも気づかれなかった……奇跡だよ。“かれら”の加護があったからかな？」=“Nobody noticed us... it's a miracle. Wonder if it's because "they" protected us?”
-「はは、“かれら”もなかなか頼りになるね。これからは、しっかり見てもらっていたほうがいいのかな？」=“Haha, "they" sure are pretty reliable. Should we make sure they've got their eye on us, from next time onwards?”
-「もう、調子に乗らない！　これからは、あんまり電車とかでシちゃダメだからね……？」=“Jeez, don't get carried away! No doing this sort of stuff on a train or whatever anymore, okay...?”
-「ごめん、ごめん。肝に銘じておくよ」=“Sorry, sorry. I'll make sure of that.”
+//「誰にも気づかれなかった……奇跡だよ。“かれら”の加護があったからかな？」=
+//「はは、“かれら”もなかなか頼りになるね。これからは、しっかり見てもらっていたほうがいいのかな？」=
+//「もう、調子に乗らない！　これからは、あんまり電車とかでシちゃダメだからね……？」=
+//「ごめん、ごめん。肝に銘じておくよ」=

@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-………………=.........
-…………=......
-……=...
-「つーかれた～。まあ[P]と一緒なら楽しかったかな～」=So tired~. Well, it was fun to do it with you, I guess~
+//………………=
+//…………=
+//……=
+//「つーかれた～。まあ[P]と一緒なら楽しかったかな～」=

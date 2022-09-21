@@ -1,11 +1,11 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「興味があったから参加してみたものの……コイカツって私でも出来るのかしら？」=Participate in the club activities if I'm interested, huh... Do you think it's possible for me to be able to do Koikatsu properly?
-「大丈夫、全然難しいことじゃないよ。ただ普通の恋人同士がするみたいなことをするだけなんだ」=It's alright, it's nothing too hard. Just act out like what a normal couple would be like.
-「っ……そ、それってまさか……いきなりこの部屋で……あんなことやこんなこと……」=!... D-does that mean... In this room... we're gonna do something like "this" or "that"...?
-「違うよ！？」=That's not it!
-「ふぇっ、あっ、ち、違うのっ！？　ごめんなさいっ、私ったらついそういうものかとっ……」=Fueh, ah, i-it's not!? I'm so sorry, I don't know why I thought it would be something like that...
-（いや……うーん……正確には違わなくもないけど……初っぱなから無茶はしたくないし……）=(Well... I mean... It's not completely incorrect but... I think it would be too unreasonable to ask for that from the get go...)
-「……考え込んじゃってどうしたの？　えっ、まさかやっぱりっ……お姉さん、今からめちゃくちゃにっ……」=...What are you thinking about so seriously? Eh, were you really...? Are you going to mess up this onee-san right here and...
-「違うからっ！」=Like I said, that's not it!
+//「興味があったから参加してみたものの……コイカツって私でも出来るのかしら？」=
+//「大丈夫、全然難しいことじゃないよ。ただ普通の恋人同士がするみたいなことをするだけなんだ」=
+//「っ……そ、それってまさか……いきなりこの部屋で……あんなことやこんなこと……」=
+//「違うよ！？」=
+//「ふぇっ、あっ、ち、違うのっ！？　ごめんなさいっ、私ったらついそういうものかとっ……」=
+//（いや……うーん……正確には違わなくもないけど……初っぱなから無茶はしたくないし……）=
+//「……考え込んじゃってどうしたの？　えっ、まさかやっぱりっ……お姉さん、今からめちゃくちゃにっ……」=
+//「違うからっ！」=

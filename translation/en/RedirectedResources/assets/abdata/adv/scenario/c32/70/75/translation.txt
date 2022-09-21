@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「私の全力を受け取って頂けますね……！」=I'll have you receive a blow filled with all my strength, alright?...!
-「もちろん……！　こ、こいっ……！！」=Of course...! C-Come--......!!
-「……アタックを受ける姿勢がなっていません。もっと腰を下ろして。はい、こうです。わかりますか？」=...You can't receive an attack like that, your posture is all wrong. Lower your hips a bit more. Yes, like this. Do you understand?
-「！？　あの、俺の腰、触ってるんだけど……」=!? Uhm, you're kinda fondling my hips there...
-「っ！？　あ、し、失礼しました……つい夢中になってしまいまして」=--!? Ah, I-I'm sorry... I got a bit too into it.
+//「私の全力を受け取って頂けますね……！」=
+//「もちろん……！　こ、こいっ……！！」=
+//「……アタックを受ける姿勢がなっていません。もっと腰を下ろして。はい、こうです。わかりますか？」=
+//「！？　あの、俺の腰、触ってるんだけど……」=
+//「っ！？　あ、し、失礼しました……つい夢中になってしまいまして」=

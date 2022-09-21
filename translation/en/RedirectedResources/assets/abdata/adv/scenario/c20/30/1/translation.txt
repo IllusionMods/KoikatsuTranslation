@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「[H姓]さん、今いいかな？　話がしたいんだけど」=[H姓]-san, do you have a moment? I'd like to chat with you.
-「あ……は、はい。……どうかしましたか？」=Ah... y-yes. ...Is something the matter?
-「いや、[H姓]さんとはあまり話したことがなかったから、話がしたいなって思っただけだよ」=No, it's just that we've never really talked before so, I just wanted to maybe get a chat going between us.
-「わ、私とですか？　はい……大丈夫です。　あの、私、面白い話とかできませんけど……」=W-With me? Yes... alright. Uhm, I can't, talk about anything interesthing though...
-「大丈夫、そんなこと気にしなくていいよ。それで、話なんだけど……」=It's alright, you really don't need to worry about that. So then...
+//「[H姓]さん、今いいかな？　話がしたいんだけど」=
+//「あ……は、はい。……どうかしましたか？」=
+//「いや、[H姓]さんとはあまり話したことがなかったから、話がしたいなって思っただけだよ」=
+//「わ、私とですか？　はい……大丈夫です。　あの、私、面白い話とかできませんけど……」=
+//「大丈夫、そんなこと気にしなくていいよ。それで、話なんだけど……」=

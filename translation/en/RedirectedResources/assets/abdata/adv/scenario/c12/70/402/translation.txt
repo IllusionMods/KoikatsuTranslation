@@ -1,24 +1,24 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「喫茶店って、みんな色んな事やってるよね。自由空間って感じ」=“Everyone does all sorts of things at cafes, don't they? Feels like 'free space', where you can do anything.”
-「真面目に仕事してる人とか見ると、なんか邪魔しちゃいけない気分になるよな。思わず小声になると言うか」=“Looking at all the people seriously doing their work kinda makes you not wanna be a bother, doesn't it? Like, you automatically lower your volume and stuff.”
-「へぇ、[H名]もそういうところは気を使うんだ」=“Hoh, so even you try to be considerate about things like that, huh?”
-「当たり前だろ。共有区間だからって……いや、だからこそお互いの住み分けをするのは大事だ」=“Of course. Just because we're customers too doesn't mean... no, that's exactly why we must respect each other's right to this space.”
-「おぉ、凄い！　[H名]が真面目で難しい事を言ってる！」=“Ooh, amazing! You of all people, saying such serious things with such a straight face!”
-「あのなぁ……喧嘩売ってるなら帰るぞ？　まったくもう……」=“You know... if you're gonna pick a fight I'mma just go home, you know? Good lord...”
-「ごめんごめん。でも、勉強してる人とかも多いよね。雑音が適度にあった方が集中できるってやつなのかな？」=“Sorry, sorry. But, there's also tons of people studying, aren't there? Wonder if they're the sort that have an easier time concentrating with some amount of noise?”
-「それはあるかもな。一人だと、どうしても怠けがちになるから、周りを監視の目にしてるってのもありそう」=“Maybe. Probably some who also use the people around them as observers so they don't slack off.”
-「あー、わかるかも。あんまり騒いでても迷惑になりそうだし……どうしよ、俺達も勉強する？」=“Aah, I feel that. Man, now I feel like we should try to be more quiet... what do we do, wanna study or something too?”
-「勉強するのは構わないけど、教科書とかは流石に持ってきてないぞ？　どうする？」=“I don't really mind but, you do know that we don't have any textbooks or anything, right? What's the plan?”
-「じゃあ、クイズ形式で問題を出し合っていくとかどう？」=“How about we quiz each other then?”
-「うん、面白そうだな。じゃあ、言い出しっぺのおまえから出題な？　それで、あたしが答える役」=“Yep, that sounds fun. Well then, since you're the one who suggested it, you dish out the questions, okay? I'll answer them.”
-「よし、じゃあ早速いくよ？　俺が[H名]の体の中で、一番好きな部分はどこでしょう？」=“Alright, here I go then. First one. Exactly which spot on your body does the man in front of you love the most?”
-「えっ、ちょ、待てっ！　そういう問題を出すのか？　こ、こらっ、あたしの体をジロジロ見るなぁっ」=“Eh--, wai--, stop--! Are you really gonna go there of all places? D-Dummy, don't stare~!”
-「ヒントを出してるんだよ。ほら、早く答えて？」=“I'm giving you a hint. C'mon, where's my answer?”
-「んー、あたしらはいいんじゃないか？　無理に周りに合わせる必要もないだろ？」=“Nnn, do we have to? I don't think we need to force ourselves to be like other people.”
-「それもそうだね。そこまで勉強が好きってわけでもないし」=“You're not wrong. Not like I love studying that much anyway.”
-「そうそう、そういうのは真面目な奴等にやらしておけばいいんだよ。あたしらはその分のんびりくつろぐ」=“Exactly. We should just leave that stuff to those nerdy types. We can just chill on their behalf.”
-「はは、勉強が好きな人に聞かれたら怒られそうな台詞だね」=“Hahah, bet they'd get real mad if they heard that.”
-「うっ、それもそうか……まぁ、したくないものを無理にしても身に付かないし。何より、今日はデートしに来たんだろ？」=“Uu--, that's true too... well, not like forcing it will make you learn anything. More than anything else, we came here on a date, no?”
-「そうだね。デートで勉強っていうのは、俺達には合ってないかも。普通に楽しくお喋りしよう」=“You're right. Having a study date is probably not something that fits us. Let's just have fun chatting like normal.”
+//「喫茶店って、みんな色んな事やってるよね。自由空間って感じ」=
+//「真面目に仕事してる人とか見ると、なんか邪魔しちゃいけない気分になるよな。思わず小声になると言うか」=
+//「へぇ、[H名]もそういうところは気を使うんだ」=
+//「当たり前だろ。共有区間だからって……いや、だからこそお互いの住み分けをするのは大事だ」=
+//「おぉ、凄い！　[H名]が真面目で難しい事を言ってる！」=
+//「あのなぁ……喧嘩売ってるなら帰るぞ？　まったくもう……」=
+//「ごめんごめん。でも、勉強してる人とかも多いよね。雑音が適度にあった方が集中できるってやつなのかな？」=
+//「それはあるかもな。一人だと、どうしても怠けがちになるから、周りを監視の目にしてるってのもありそう」=
+//「あー、わかるかも。あんまり騒いでても迷惑になりそうだし……どうしよ、俺達も勉強する？」=
+//「勉強するのは構わないけど、教科書とかは流石に持ってきてないぞ？　どうする？」=
+//「じゃあ、クイズ形式で問題を出し合っていくとかどう？」=
+//「うん、面白そうだな。じゃあ、言い出しっぺのおまえから出題な？　それで、あたしが答える役」=
+//「よし、じゃあ早速いくよ？　俺が[H名]の体の中で、一番好きな部分はどこでしょう？」=
+//「えっ、ちょ、待てっ！　そういう問題を出すのか？　こ、こらっ、あたしの体をジロジロ見るなぁっ」=
+//「ヒントを出してるんだよ。ほら、早く答えて？」=
+//「んー、あたしらはいいんじゃないか？　無理に周りに合わせる必要もないだろ？」=
+//「それもそうだね。そこまで勉強が好きってわけでもないし」=
+//「そうそう、そういうのは真面目な奴等にやらしておけばいいんだよ。あたしらはその分のんびりくつろぐ」=
+//「はは、勉強が好きな人に聞かれたら怒られそうな台詞だね」=
+//「うっ、それもそうか……まぁ、したくないものを無理にしても身に付かないし。何より、今日はデートしに来たんだろ？」=
+//「そうだね。デートで勉強っていうのは、俺達には合ってないかも。普通に楽しくお喋りしよう」=

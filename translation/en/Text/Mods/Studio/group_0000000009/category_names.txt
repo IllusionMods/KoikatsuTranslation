@@ -1,7 +1,0 @@
-//
-// Dumped for Koikatsu v5.0 by Mod Text Dump v0.6.0
-//
-
-#set exe CharaStudio
-
-画面効果=Scene Effects

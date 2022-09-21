@@ -1,23 +1,23 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「あ、[H名]、あそこにワゴンカフェがあるよ。何か買って、飲みながら歩こうか」=Ah, [H名], there's a food truck there. Shall we buy something to drink while we're walking?
-「うん、いいね！　私、ちょうど喉が渇いとったん」=Yeah, sounds good! I was just feeling thirsty anyway.
-「コーヒー屋さんみたいだけど、結構人気だね。ちょっとした列が出来てる」=Looks like a coffee stand but, it seems to be pretty popular. There's even a line.
-「あ、ここにメニューがあるよ。何にしよっか？」=Ah, there's a menu here. What shall we get?
-「そうやねぇ……それじゃ私は……」=Let's see... Then, I'll go with...
-「やっぱりそのままの味を楽しみたいけん、アイスコーヒーかな。ブラックで」=I really like the taste of it so, Iced Coffee I guess. Black.
-「お、気が合うね。俺もそうしようと思ってた。一気に飲んじゃいそうだけど」=Ah, we're on the same wavelength. I was about to go for the same. Feel like I'd just gulp it down at once though.
-「あはは、そうやねぇ。陽射しも強いし……それじゃここは、一番大きなサイズに……はぅ……」=Ahaha, yeah. The sun's making itself pretty known too... well then, I guess I'll grab the largest one... hauu...
-「……ん？　どうしたの？」=...Hm? What's the matter?
-「あ、あはは……男の子とデート中なんに、一番大きいサイズ飲むとか……ちょっと恥ずかしくなったん……」="A-Ahaha... Even though I'm out on a date with a boy, saying something like I'll grab the largest one... I feel a bit embarrassed..."
-「なんだ、そんなこと気にしないよ。よーし、それじゃ俺も同じサイズにしよう。一番大きいの二つね」=Don't worry about that sort of thing. Alright, I'll go for the same one as you. Two of the biggest ones they have.
-（のびのびしているかと思ったら、突然こんな風に恥じらったり……[H名]のそういうところ、可愛いな）=(Relaxing at one moment, and flushing up to her neck at the next... that side of her is so cute.)
-「アイスカフェラテにしようかいな。前の人が買ってたの、ミルク多めで美味しそうやったし」=Maybe I'll go for an Iced Cafe Latte. The person before us just bought it, it looked really nice with all that milk.
-「そうだね。俺もそうしよう。せっかくだからホイップも付けようかな。[H名]は？」=Yeah. I'll do the same. Might get whipped cream added to mine too. What about you, [H名]?
-「うんっ、私も乗せるー！　めっちゃ美味しそう！　私、ストローでホイップすくいながら食べるの好きなん！」=Yeah--, I'll go with that too! Sounds amazing! I love scooping up the whipped cream with the straw and eating it that way!
-「あ、分かる分かる！　他には何か甘い系のシロップとかはいらない？　いくつかあるみたいだけど……」=Ah, I feel you! Do you want to add any other sort of sweet syrup? Looks like they've got quite the variety...
-「うぅぅ……本当はいっぱいかけたいけど……ここは我慢なん……そういうのを飲み慣れたら絶対に太るっちゃもん」=Uuu... to be honest, I really do but... I have to control myself... if I get used to drinking it that way, I'll definitely put on some pounds.
-「はは、確かにそうだね。お腹いっぱいになっても困るし……それじゃ、出来るだけ甘くなくて、出来るだけ苦くないのにしよっか」=Haha, certainly, that might happen. Would be really bad if my belly starts showing... Well then, let's make it as balanced between sweetness and bitterness as we can.
-「うんっ！」=Yeah--!
-（本当は甘いのが好きみたいだけど……やっぱり女の子だけあって、カロリーのことは気にするんだな）=(Looks like she really loves sweet stuff but... since she's a girl in the end, she can't help but mind the calories.)
+//「あ、[H名]、あそこにワゴンカフェがあるよ。何か買って、飲みながら歩こうか」=
+//「うん、いいね！　私、ちょうど喉が渇いとったん」=
+//「コーヒー屋さんみたいだけど、結構人気だね。ちょっとした列が出来てる」=
+//「あ、ここにメニューがあるよ。何にしよっか？」=
+//「そうやねぇ……それじゃ私は……」=
+//「やっぱりそのままの味を楽しみたいけん、アイスコーヒーかな。ブラックで」=
+//「お、気が合うね。俺もそうしようと思ってた。一気に飲んじゃいそうだけど」=
+//「あはは、そうやねぇ。陽射しも強いし……それじゃここは、一番大きなサイズに……はぅ……」=
+//「……ん？　どうしたの？」=
+//「あ、あはは……男の子とデート中なんに、一番大きいサイズ飲むとか……ちょっと恥ずかしくなったん……」=
+//「なんだ、そんなこと気にしないよ。よーし、それじゃ俺も同じサイズにしよう。一番大きいの二つね」=
+//（のびのびしているかと思ったら、突然こんな風に恥じらったり……[H名]のそういうところ、可愛いな）=
+//「アイスカフェラテにしようかいな。前の人が買ってたの、ミルク多めで美味しそうやったし」=
+//「そうだね。俺もそうしよう。せっかくだからホイップも付けようかな。[H名]は？」=
+//「うんっ、私も乗せるー！　めっちゃ美味しそう！　私、ストローでホイップすくいながら食べるの好きなん！」=
+//「あ、分かる分かる！　他には何か甘い系のシロップとかはいらない？　いくつかあるみたいだけど……」=
+//「うぅぅ……本当はいっぱいかけたいけど……ここは我慢なん……そういうのを飲み慣れたら絶対に太るっちゃもん」=
+//「はは、確かにそうだね。お腹いっぱいになっても困るし……それじゃ、出来るだけ甘くなくて、出来るだけ苦くないのにしよっか」=
+//「うんっ！」=
+//（本当は甘いのが好きみたいだけど……やっぱり女の子だけあって、カロリーのことは気にするんだな）=

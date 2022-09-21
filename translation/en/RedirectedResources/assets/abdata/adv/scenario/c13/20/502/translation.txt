@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「ごめん、待たせたかな？」=Sorry, did I make you wait long?
-「ううん、今来たところ。……ふふ、なんてね～」=No, I got here just now myself. ...Fufu, kidding~
-「ぷっ、相変わらずだね、[H名]は」=Puh--, you never change, do you, [H名]?
-「それじゃあ、さっそく行こうか」=Well then, let's go.
+//「ごめん、待たせたかな？」=
+//「ううん、今来たところ。……ふふ、なんてね～」=
+//「ぷっ、相変わらずだね、[H名]は」=
+//「それじゃあ、さっそく行こうか」=

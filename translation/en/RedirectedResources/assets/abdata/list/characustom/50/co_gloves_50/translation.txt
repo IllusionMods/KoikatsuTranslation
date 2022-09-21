@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-ベルトグローブ=Belt Gloves
-ベルトグローブ(指ぬき)=Belt Gloves (Fingerless)
-ショートグローブ(指ぬき)=Short Gloves (Fingerless)
-肘サポーター=Elbowpads
-コンシェルジュスリーブ=Concierge Sleeves
-桔梗飾りのグローブ=Chinese Bellflower Gloves
+//ベルトグローブ=
+//ベルトグローブ(指ぬき)=
+//ショートグローブ(指ぬき)=
+//肘サポーター=
+//コンシェルジュスリーブ=
+//桔梗飾りのグローブ=

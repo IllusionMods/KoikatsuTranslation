@@ -1,13 +1,13 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「じゃあ早速……わからなかったりしてる所とかある？」=So then, let's get started right away... Are there any things you don't quite understand?
-「いえ、特にありません」=No, not in particular.
-「……困ってる科目は？」=...Any subjects you're stuck on?
-「特にありません」=None in particular.
-「……」=“...”
-「あなたは確かここが苦手でしたよね？」=If I recall correctly, you were weak at this, weren't you?
-「あ、はい……ご指導、よろしくお願いします」=Ah, yes... Please guide me.
-「ふぅ、だいぶわかった気がするよ」=Fuu, I feel like I understand for the most part.
-「そうですか、では次にこちらを―――」=Is that so? Then, let's take a look at--
-「うへぇスパルタぁ……」=Uweh, no mercy...
+//「じゃあ早速……わからなかったりしてる所とかある？」=
+//「いえ、特にありません」=
+//「……困ってる科目は？」=
+//「特にありません」=
+//「……」=
+//「あなたは確かここが苦手でしたよね？」=
+//「あ、はい……ご指導、よろしくお願いします」=
+//「ふぅ、だいぶわかった気がするよ」=
+//「そうですか、では次にこちらを―――」=
+//「うへぇスパルタぁ……」=

@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-………………=.........
-…………=......
-……=...
-「それじゃここで……またね」=Well then, we're here... see you later.
-「ええ、気を付けて帰ってね」=Yeah, get home safely, alright?
+//………………=
+//…………=
+//……=
+//「それじゃここで……またね」=
+//「ええ、気を付けて帰ってね」=

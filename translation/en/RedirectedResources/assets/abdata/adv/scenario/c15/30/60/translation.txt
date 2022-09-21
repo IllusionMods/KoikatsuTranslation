@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「へへー、今日は楽しかったぞ。ありがとな！　それじゃーねー」=Hehe, I had a lot of fun today. Thanks! See ya then.
+//「へへー、今日は楽しかったぞ。ありがとな！　それじゃーねー」=

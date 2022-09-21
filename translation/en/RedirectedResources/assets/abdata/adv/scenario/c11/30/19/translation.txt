@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「おはよう。新しいお友達はできた？　私にも紹介してね」=“Good morning. Did you make any new friends? Introduce me to them too, okay?”
+//「おはよう。新しいお友達はできた？　私にも紹介してね」=

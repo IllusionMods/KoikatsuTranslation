@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「Ｎｏ！　先生に言いマスヨ！？」=No! I'll tell the teacher, you know!?
+//「Ｎｏ！　先生に言いマスヨ！？」=

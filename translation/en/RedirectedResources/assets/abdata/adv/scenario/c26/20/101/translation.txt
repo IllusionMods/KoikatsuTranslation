@@ -1,24 +1,24 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-（うーん、どうしたのかな。あまりしゃべらないのは、いつものことだけど）=(Nnn, I wonder what's wrong? I mean, not that she talks all that much normally to begin with.)
-「もしかして、公園デートつまらない？」=“By any chance, are you bored?”
-「そんなこと、ないけど。……なんで？」=“Not, at all. ...Why?”
-「なんとなく、心ここにあらずって感じがしてさ」=“I just feel like your heart isn't all here, is all.”
-「……勘違いさせてごめん。あれを探してたの」=“...Sorry for making you feel that way. I'm just looking for it.”
-「あれって……ああ、あの花畑？」=“It... aah, that field of flowers?”
-「うん……これをあなたと一緒に見たかったの」=“Yeah... I wanted to see it with you.”
-「へぇー、そうなんだ。でも、よく知ってたね。こんな綺麗な花畑があること」=“Hoh, I see. But, I'm surprised you knew of it. That there was such a pretty field of flowers here.”
-「……コイカツ部で調べた」=“...I learned it at the club.”
-「それで……季節ごとの花を楽しめるって書いてあったから、探してたの」=“I saw it written down... that you could savour the view of flowers from every season here, so I was looking for it.”
-「それでどう、かな？」=“So, how is, it?”
-「うん、とっても綺麗だよ」=“It's very beautiful.”
-「……そう。ならよかった」=“...I see. I'm glad.”
-「……」=“...”
-「……なに？」=“...What?”
-「いや、花も綺麗だけど……[H名]も綺麗だなと思って」=“No, the flowers are beautiful and all but... I was just thinking that you're very beautiful too, [H].”
-「……私じゃなくて……花を見てよ」=“...Don't look at me... look at the flowers.”
-「せっかく、調べたんだから……それに……ずっと見つめられると、なんだかムズかゆい」=“I went out of my way, to look for them so... not to mention... when you stare at me, it feels tickly.”
-「はは、わかったよ。せっかくだし、もっと近くに行って見に行こうか」=“Haha, I got it. Well then, why don't we go and take a closer look?”
-「うん……行こう」=“Yeah... let's go.”
-（こういうゆっくりと時間を楽しむデートも以外と悪くないな）=(This sort of a slow date isn't bad either, surprisingly.)
+//（うーん、どうしたのかな。あまりしゃべらないのは、いつものことだけど）=
+//「もしかして、公園デートつまらない？」=
+//「そんなこと、ないけど。……なんで？」=
+//「なんとなく、心ここにあらずって感じがしてさ」=
+//「……勘違いさせてごめん。あれを探してたの」=
+//「あれって……ああ、あの花畑？」=
+//「うん……これをあなたと一緒に見たかったの」=
+//「へぇー、そうなんだ。でも、よく知ってたね。こんな綺麗な花畑があること」=
+//「……コイカツ部で調べた」=
+//「それで……季節ごとの花を楽しめるって書いてあったから、探してたの」=
+//「それでどう、かな？」=
+//「うん、とっても綺麗だよ」=
+//「……そう。ならよかった」=
+//「……」=
+//「……なに？」=
+//「いや、花も綺麗だけど……[H名]も綺麗だなと思って」=
+//「……私じゃなくて……花を見てよ」=
+//「せっかく、調べたんだから……それに……ずっと見つめられると、なんだかムズかゆい」=
+//「はは、わかったよ。せっかくだし、もっと近くに行って見に行こうか」=
+//「うん……行こう」=
+//（こういうゆっくりと時間を楽しむデートも以外と悪くないな）=

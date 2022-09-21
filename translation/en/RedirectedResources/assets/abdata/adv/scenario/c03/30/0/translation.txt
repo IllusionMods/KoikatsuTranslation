@@ -1,12 +1,12 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「あのさ、今、ちょっと時間ある？　話しだけでもいいかな？」=“Hey, do you have some time right now? Could we chat a bit?”
-「ふぇっ！？　わ、私ですかっ！？」=“Fueh--?! M-Me!?”
-「う、うん……君なんだけど……ダメ？」=“Y-Yeah... you but... am I bothering you?”
-「あっ、いえいえ、ダメじゃないです！　むしろドンと来いなのですよ！」=“Ah--, no no, not at all! If anything, come as hard as you can!”
-「どんと……？」=“As hard as I can...?”
-「わぁぁ、気にしないでくださいですーっ！　男子が転入してきたって聞いて、ずっと気になってたですよ。あなたがその方なのですか？」=“Waah, please don't mind it--! I've been so curious, the moment I heard a boy was going to transfer in. Are you that person?”
-「うん、多分そうだと思うよ。えーっと……それじゃ、少し話してもいい？」=“Yeah, probably. Erhm... well then, mind chatting with me?”
-「もちろんなのです！　私でよろしけばぜひぜひです！」=“Not at all! If you'll have me, I'd love to!”
-「ありがとう。よろしくね」=“Thanks, glad to hear that.”
+//「あのさ、今、ちょっと時間ある？　話しだけでもいいかな？」=
+//「ふぇっ！？　わ、私ですかっ！？」=
+//「う、うん……君なんだけど……ダメ？」=
+//「あっ、いえいえ、ダメじゃないです！　むしろドンと来いなのですよ！」=
+//「どんと……？」=
+//「わぁぁ、気にしないでくださいですーっ！　男子が転入してきたって聞いて、ずっと気になってたですよ。あなたがその方なのですか？」=
+//「うん、多分そうだと思うよ。えーっと……それじゃ、少し話してもいい？」=
+//「もちろんなのです！　私でよろしけばぜひぜひです！」=
+//「ありがとう。よろしくね」=

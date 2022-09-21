@@ -1,17 +1,17 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-モブ=Mob
-「お疲れ様でした。ふふっ、素敵な式でしたよ」=“Good work today. Fufu~ It was a lovely ceremony.”
-「本番の結婚式も、是非、私どもの式場で挙げてくださいね！」=“For your actual wedding as well, please, do call upon us!”
-「えっと、前向きに考えさせてもらいます」=“Uhm, sure, if we get to that point.”
-「お願いします！　今日はお引き受けいただいて、ありがとうございました」=“Thank you! And for helping us out so much today as well, thank you very much!”
-「ふ～～……なんだか、凄いことになっちゃったね……」=“Fuu~... that really blew up into something amazing, didn't it...”
-「あらあら、大丈夫？　疲れちゃった？　肩でも揉みましょうか？」=“My my, are you alright? Tired out? Want me to rub your shoulders?”
-「そこまで疲れてないよ。むしろ[H名]の方が疲れたんじゃない？」=“I'm not that tired. If anything, aren't you tired, [H]?”
-「うふふ、実はそうなの……ふ～～、結婚式ってヘビーなのね。びっくりしちゃった」=“Ufufu, actually, I am... fuu~, wedding ceremonies are pretty heavy, aren't they? Didn't think they would be.”
-「本物の結婚式が嫌になっちゃったりして」=“Makes you almost not wanna go for a real one.”
-「まあ、何言ってるの？　むしろ楽しみで仕方なくなっちゃったわ」=“My, what are you saying? If antyhing, I'm so excited for it, I can't help myself.”
-「ははは、だろうね。式の時、すごく嬉しそう……いや、今も嬉しさの余韻がギンギンって感じだもんね」=“Hahaha, right. You looked so happy, during the ceremony... No, you still look really happy.”
-「ええ……最高の一時だったわ。ふふ……今日は忘れられない一日になりそう……」=“Yes... it was just the best. Fufu... I probably won't forget today anytime soon...”
-「うん、とんだデートになっちゃった……さて、そろそろ帰ろうか──」=“Yeah, it ended up being quite the date... now then, let's go home, shall we?”
+//モブ=
+//「お疲れ様でした。ふふっ、素敵な式でしたよ」=
+//「本番の結婚式も、是非、私どもの式場で挙げてくださいね！」=
+//「えっと、前向きに考えさせてもらいます」=
+//「お願いします！　今日はお引き受けいただいて、ありがとうございました」=
+//「ふ～～……なんだか、凄いことになっちゃったね……」=
+//「あらあら、大丈夫？　疲れちゃった？　肩でも揉みましょうか？」=
+//「そこまで疲れてないよ。むしろ[H名]の方が疲れたんじゃない？」=
+//「うふふ、実はそうなの……ふ～～、結婚式ってヘビーなのね。びっくりしちゃった」=
+//「本物の結婚式が嫌になっちゃったりして」=
+//「まあ、何言ってるの？　むしろ楽しみで仕方なくなっちゃったわ」=
+//「ははは、だろうね。式の時、すごく嬉しそう……いや、今も嬉しさの余韻がギンギンって感じだもんね」=
+//「ええ……最高の一時だったわ。ふふ……今日は忘れられない一日になりそう……」=
+//「うん、とんだデートになっちゃった……さて、そろそろ帰ろうか──」=

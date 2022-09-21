@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「うわぁっ！　な、何してるかなぁこのケダモノは……んふっ、で？　見ただけで満足できたのか？」=“Uwaah--! J-Just what are you even doing~, you animal... nnfuh--, so? Satisfied with just looking?”
+//「うわぁっ！　な、何してるかなぁこのケダモノは……んふっ、で？　見ただけで満足できたのか？」=

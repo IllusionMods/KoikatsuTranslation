@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「やっと誘ってくれたじゃん～。[P]くん、アタシと出かけたくないのかと思ったよ～」=You finally asked me~. [P]-kun, I thought you didn't want to go on a date with me or something~
-「ごめんごめん！　とにかくたくさん準備しておくから！」=Sorry, sorry! Anyways, I'll prepare all sorts of stuff!
-「じゃあ楽しみにしてるから。[P]くんはアタシにどんなことしてくれるのかなぁ～」=Then, I'mma look forward to it. Just what sort of thing are you gonna do to me, I wonder~
+//「やっと誘ってくれたじゃん～。[P]くん、アタシと出かけたくないのかと思ったよ～」=
+//「ごめんごめん！　とにかくたくさん準備しておくから！」=
+//「じゃあ楽しみにしてるから。[P]くんはアタシにどんなことしてくれるのかなぁ～」=

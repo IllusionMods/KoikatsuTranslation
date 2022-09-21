@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「これが、ラブホテルなのですね。すごく綺麗でビックリしています」=So this is a love hotel, huh? It's so pretty, I'm actually surprised.
-「うん、綺麗だよね。さてと、シャワー浴びる？　それからお腹空いてたら、何か頼めるよ」=Yeah, it really is. Now then, wanna take a shower? After that, if you're hungry, we can order something.
-「お詳しいんですね……ひょっとして…………」=You sure are well-informed... By any chance...
-「あ、や、その、他の子と来たとか、そういうことじゃなくって、たまたま知ってるだけで……」=Ah, no, that's, I've not come here with another girl before or anything, I just happened to know, that's all...
-「あらかじめいろいろと調べていてくれたんですね。そういう事前に準備する姿勢、とても素晴らしいと思います」=You've checked this place out in advance, huh? That sort of attitude, to make preparations in advance, I personally think it's really wonderful.
-「う、うん、ありがとう。えっと、じゃあ……ひとまず始めよっか──」=Y-Yeah, thanks. Erhm, then... For the time being, shall we get on with it--
+//「これが、ラブホテルなのですね。すごく綺麗でビックリしています」=
+//「うん、綺麗だよね。さてと、シャワー浴びる？　それからお腹空いてたら、何か頼めるよ」=
+//「お詳しいんですね……ひょっとして…………」=
+//「あ、や、その、他の子と来たとか、そういうことじゃなくって、たまたま知ってるだけで……」=
+//「あらかじめいろいろと調べていてくれたんですね。そういう事前に準備する姿勢、とても素晴らしいと思います」=
+//「う、うん、ありがとう。えっと、じゃあ……ひとまず始めよっか──」=

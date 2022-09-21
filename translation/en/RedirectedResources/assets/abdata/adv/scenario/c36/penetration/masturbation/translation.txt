@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「あら、いつから居たの？　あまりにも存在感が薄過ぎて、気付かなかったわ」="Oh, how long have you been here? Your presence is so weak that I haven't noticed you."
+//「あら、いつから居たの？　あまりにも存在感が薄過ぎて、気付かなかったわ」=

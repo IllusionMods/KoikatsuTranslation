@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「さすがに恋人とのデートを面倒くさいとは言えないですね～」=Well, a date with my boyfriend isn't something I can really call a "pain in the ass", now is it~
-「と、いうことはＯＫだね！」=So... that's a yes then, I take it?
-「私が退屈しないようにエスコートしてくれること、期待してるっすよ～？」=I'm expecting a good enough time that it won't bore me out, alright~?
+//「さすがに恋人とのデートを面倒くさいとは言えないですね～」=
+//「と、いうことはＯＫだね！」=
+//「私が退屈しないようにエスコートしてくれること、期待してるっすよ～？」=

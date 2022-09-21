@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「ええと、その…………ど、どうぞ」=“Eerhm, uhm... g-go ahead.”
-「いいの？　本当にするよ？」=“You sure? I really will, you know?”
-「は、はい……あなたとなら……いえ、あなたとだから、勇気を出せるんです」=“Y-Yes... if it's with you... no, it's because it's you, that I'm not afraid.”
-「ずっと頭の中で想像するしかなかった気持ち良さ……私に教えてください」=“Please teach me the pleasure... that till now, I could but only imagine in my fantasies.”
+//「ええと、その…………ど、どうぞ」=
+//「いいの？　本当にするよ？」=
+//「は、はい……あなたとなら……いえ、あなたとだから、勇気を出せるんです」=
+//「ずっと頭の中で想像するしかなかった気持ち良さ……私に教えてください」=

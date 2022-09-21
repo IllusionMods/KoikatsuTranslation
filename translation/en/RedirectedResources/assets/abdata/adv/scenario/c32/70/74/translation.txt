@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「やっぱり最初は簡単な運動にしよう。バレーボールとかは？」=Let's start off with some easy stuff first. How about volleyball or something?
-「いいですね。鬼コーチからの血の滲むような超スパルタ指導を思い出します」=Sounds good. It reminds me of my super bloody spartan training-from-hell from my demonic coach.
-「お、お手柔らかによろしくね……？」=B-Be gentle with me, please...?
+//「やっぱり最初は簡単な運動にしよう。バレーボールとかは？」=
+//「いいですね。鬼コーチからの血の滲むような超スパルタ指導を思い出します」=
+//「お、お手柔らかによろしくね……？」=

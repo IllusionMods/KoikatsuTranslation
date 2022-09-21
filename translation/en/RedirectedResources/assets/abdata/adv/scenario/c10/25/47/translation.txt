@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「はぁ、はぁ。我らの身体、お互いに上手く憑依できたのではないか？」=“Haah, haah... Were we not possessing each other's bodies quite nicely there?”
+//「はぁ、はぁ。我らの身体、お互いに上手く憑依できたのではないか？」=

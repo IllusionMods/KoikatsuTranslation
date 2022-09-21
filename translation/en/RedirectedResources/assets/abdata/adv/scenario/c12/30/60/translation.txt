@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「ふぃー、楽しかったな。時間が経つのが早いってやつ？　じゃ、またそのうちな」=“Fui, that was fun. Time sure flies. See you soon then, okay?”
+//「ふぃー、楽しかったな。時間が経つのが早いってやつ？　じゃ、またそのうちな」=

@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「なーなー、勉強ってホントに役に立つのかー？」=“Hey, is studying really gonna be helpful to us in the future?”
-「きっと、みんな同じこと考えてるよね。でも、勉強は大事だよ」=“I'm sure everyone's got the same question on their minds. However, studying really is important.”
-「遊びの時間も大事だぞー？　コーイン、アレのごとく？　って言うしなー」=“Playtime's important too, you know? I mean, they do say, all work and no play makes... uh, well, you get the rest.”
-（やっぱり勉強って大事だよな。うん）=(Yep, can't skip your studies, kids.)
+//「なーなー、勉強ってホントに役に立つのかー？」=
+//「きっと、みんな同じこと考えてるよね。でも、勉強は大事だよ」=
+//「遊びの時間も大事だぞー？　コーイン、アレのごとく？　って言うしなー」=
+//（やっぱり勉強って大事だよな。うん）=

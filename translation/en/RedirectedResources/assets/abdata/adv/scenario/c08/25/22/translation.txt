@@ -1,5 +1,5 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「はい、お菓子あげるね」=Here, I'll give you some sweets, okay?
-「お菓子作りが楽しくて、つい作りすぎちゃったんだぁ」=Baking is just so fun, I ended up making too much.
+//「はい、お菓子あげるね」=
+//「お菓子作りが楽しくて、つい作りすぎちゃったんだぁ」=

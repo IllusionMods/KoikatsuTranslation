@@ -1,15 +1,15 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「あ、もうこんな時間……ただ二人でいるだけで、あっと言う間に時間が過ぎちゃったですよ……」=“Ah, it's already so late... time flew by so fast, all because we were together...”
-CHOICE:『まだ時間ある？』=Still got some time?
-CHOICE:『そろそろ戻ろっか』=Let's go home now.
-「そうだね。さっきまで青空だったのに、もう夕方だ……あのさ、[H名]さえ良かったら、もう少しだけ一緒にいない？」=“Yeah. The sky was blue just a few minutes ago, and yet... hey, if it's alright with you, wanna spend a bit more time together?”
-「ふぇ？　はいです！　私なら全然大丈夫ですよ！　遅くなるって伝えてきてるです！」=“Fueh? I'd love to! It's not a problem at all! I've told my parents that I'd stay out till late!”
-「だったら良かった。[H名]と一緒に見たいものがあるんだ」=“Good then. There's something I wanna see with you.”
-「そうだね。これ以上長居すると遅くなりそうだし……そろそろ駅に戻ろっか」=“Right. Any longer and it'll start getting dark... let's head back to the station.”
-「はぅ……そうですね……楽しい時間ってすぐに終わっちゃうですよ……」=“Hauu... right... fun times always end so fast...”
-「ううん、終わりじゃないよ。まだまだ駅まで一緒に行けるし、今日が終わっても……明日も明後日も……俺と[H名]はまだまだたくさん時間があるんだから」=“No, it's not the end just yet. There's still the walk to the station, and even if today ends... there's tomorrow, and the day after... we still have the entire future to spend together.”
-「あ……はいですっ！　そうですよね！　私、今日のことばかり考えちゃってたです！」=“Ah... yes--! Right! I ended up just focusing on today!”
-「これからもたくさん、あなたとの時間を楽しんでいきたいですよ」=“I want to spend and enjoy lots more time together with you.”
-「うん、俺もだよ」=“Me too, [H].”
+//「あ、もうこんな時間……ただ二人でいるだけで、あっと言う間に時間が過ぎちゃったですよ……」=
+//CHOICE:『まだ時間ある？』=
+//CHOICE:『そろそろ戻ろっか』=
+//「そうだね。さっきまで青空だったのに、もう夕方だ……あのさ、[H名]さえ良かったら、もう少しだけ一緒にいない？」=
+//「ふぇ？　はいです！　私なら全然大丈夫ですよ！　遅くなるって伝えてきてるです！」=
+//「だったら良かった。[H名]と一緒に見たいものがあるんだ」=
+//「そうだね。これ以上長居すると遅くなりそうだし……そろそろ駅に戻ろっか」=
+//「はぅ……そうですね……楽しい時間ってすぐに終わっちゃうですよ……」=
+//「ううん、終わりじゃないよ。まだまだ駅まで一緒に行けるし、今日が終わっても……明日も明後日も……俺と[H名]はまだまだたくさん時間があるんだから」=
+//「あ……はいですっ！　そうですよね！　私、今日のことばかり考えちゃってたです！」=
+//「これからもたくさん、あなたとの時間を楽しんでいきたいですよ」=
+//「うん、俺もだよ」=

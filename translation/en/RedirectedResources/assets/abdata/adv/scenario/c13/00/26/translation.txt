@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「プレゼントくれるの？　嬉し～♪　何だろう」=You're gonna give me a present? So happy~♪ What is it~
+//「プレゼントくれるの？　嬉し～♪　何だろう」=

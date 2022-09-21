@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「嘘……だよな？　そ、そういうの本気にするタイプなんだよ。わかるだろ？」=“That's... just a joke, right? Y-You know I'm the type that takes things like that very seriously, right?”
-「冗談でこんな事言ったりしないよ」=“I would never say something like this as a joke.”
-「ぁっ……そっか、あたしがわかってなかったんだな……。なぁ、ほんとにもう……ダメなのか？」=“Ah--... I see, I just didn't notice, did I... Hey, are we really... through?”
-「…………ごめん」=“...Sorry.”
-「っう……あたしこそ女々しくてごめん。い、今までありがとな！　じゃあま……ッ、バイバイな！」=“Uu--... I'm sorry too, for always being such a drama queen. T-Thanks for everything, till now! See you la--... byebye!”
+//「嘘……だよな？　そ、そういうの本気にするタイプなんだよ。わかるだろ？」=
+//「冗談でこんな事言ったりしないよ」=
+//「ぁっ……そっか、あたしがわかってなかったんだな……。なぁ、ほんとにもう……ダメなのか？」=
+//「…………ごめん」=
+//「っう……あたしこそ女々しくてごめん。い、今までありがとな！　じゃあま……ッ、バイバイな！」=

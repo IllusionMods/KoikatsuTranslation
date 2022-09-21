@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「あ、ありがと……私、頑張る……っ」=“T-Thanks... I'll, do my best...--”
+//「あ、ありがと……私、頑張る……っ」=

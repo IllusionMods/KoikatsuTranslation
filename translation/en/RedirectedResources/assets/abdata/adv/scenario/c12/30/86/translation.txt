@@ -1,11 +1,11 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「うーん、あたしらさ、もう恋人同士なわけだし。わざわざコイカツってのもおかしいよな？」=“Nnnn, we're already a couple and stuff, going out of our way to do these love activities is just weird, no?”
-「じゃあこんなのどう？　[H]、愛してる。結婚して欲しい」=“Then how about this? [H]. I love you. Marry me.”
-「えっ、ぁっ……ぅっ、ぁ……は、はい……って……え？　ほ、本気？」=“Eh--, ah--... uu--, ah... o-okay... wuh... eh? A-Are you serious?”
-「あー、えーっと、コイカツじゃなくてコンカツならって思ったんだけど……」=“Aah, erhm, well, I thought if love activities were a no go then maybe marriage acitivites would be...”
-「ねぇ、まだ怒ってるの？」=“Hey, are you still mad?”
-「怒ってない……でも、ああいうのは遊びで言って欲しくなかったの……」=“I'm not mad... but, don't say that sort of stuff when you don't mean it...”
-「ごめん。でも……愛してるのはホントだよ」=“Sorry. But... I really do love you, that bit was the truth.”
-「んぅぅっ……それ、反則。今度はちゃんとしてくれるの……待ってるからな……」=“Nnnnn--... that's unfair. I'll be waiting, okay?... For you to propose properly, someday...”
+//「うーん、あたしらさ、もう恋人同士なわけだし。わざわざコイカツってのもおかしいよな？」=
+//「じゃあこんなのどう？　[H]、愛してる。結婚して欲しい」=
+//「えっ、ぁっ……ぅっ、ぁ……は、はい……って……え？　ほ、本気？」=
+//「あー、えーっと、コイカツじゃなくてコンカツならって思ったんだけど……」=
+//「ねぇ、まだ怒ってるの？」=
+//「怒ってない……でも、ああいうのは遊びで言って欲しくなかったの……」=
+//「ごめん。でも……愛してるのはホントだよ」=
+//「んぅぅっ……それ、反則。今度はちゃんとしてくれるの……待ってるからな……」=

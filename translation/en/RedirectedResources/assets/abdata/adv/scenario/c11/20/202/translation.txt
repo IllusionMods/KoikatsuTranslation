@@ -1,24 +1,24 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「色々見て回ってたら、すっかり日が高くなってきたね……そろそろお腹空いて来ちゃった。売店でもいかない？」=“It's already noon, huh? We already spent so much time running around... I'm starting to get hungry. How about we go to a food stall?”
-「ちょっと待って。実は……お弁当を用意してきたの。よかったら一緒に食べない？」=“Wait a second. I actually... prepared a lunch for us. Wanna eat it together?”
-「わっ、嬉しい！　もちろんいただくよ！」=“Wah--, I'm so happy! I'd love to!”
-「急だったから、冷凍食品だったり、出来合いのもの買ったりで、全部が全部手作りじゃないんだけれど、それでもいいかしら？」=“I was in rush so, not all of it is fresh food, some is frozen, and some is also readymade stuff I bought from the store. Is that okay?”
-「うんうん、全然おっけーだよ！」=“Yeah, more than okay!”
-「ふふ、よかったわ。じゃあまずは、おにぎりと……」=“Fufu, I'm glad. Then, here's the rice balls and...”
-「わあ、美味しそう！」=“Waah, it looks delicious!”
-「それと、サンドイッチ。色々買ってきたから好きなもの食べて」=“And here's the sandwiches. I bought all sorts of stuff so, eat whatever you like.”
-「おにぎりとサンドイッチ！？　両方食べられるなんて最高！」=“Riceballs and sandwiches!? I can't believe I get to have them both, this is the best!”
-「お惣菜も用意してきたの！　いっぱい摘んでちょうだい」=“I made some stir fried veggies too! Eat lots of these too.”
-「お、おお……結構な量だね」=“O-Ooh... that's quite a lot of veggies.”
-「それから、水筒に麦茶と、紅茶と、烏龍茶を詰めてきたの。好きなの飲んでね」=“I also brought barley tea, black tea, and oolong tea as well, in some thermoses. Drink whatever you like, okay?”
-「お、大荷物だね……どこに隠し持ってたの？」=“T-That's a lot of food... just where did you hide it this whole time?”
-「ふふふ、秘密よ。あ、それから、おやつに大学芋を用意したの。こっちのタッパーに山盛り入ってるからたーんと食べてね」=“Fufufu, that's a secret. Ah, for dessert, I brought some candied sweet potatoes. There's lots of it in this tupperware, so eat lots, okay?”
-「本当にはチョコフォンデュを用意したかったんだけど、流石にそこまでは大げさかなーって」=“I actually wanted to bring some choco fondue for you too, but I thought that might have been overdoing it a bit.”
-「チョコフォンデュ……う、うん、流石に野外で食べるものではないよね」=“Choco Fondue... y-yeah, not exactly the sort of food you'd eat outside.”
-「さあ、いっぱい食べて！　そして、いっぱい遊んで、グングン大きくなるのよ」=“Now then, eat lots! Play lots too, and grow big and strong.”
-「わ、わぁ……うん、見てるだけでお腹いっぱいになりそうだ」=“W-Wah... yeah, just looking at it's making me feel full.”
-「ちなみに、お残しＮＧだからね？」=“By the way, finish everything, okay?”
-「が、頑張るよ……」=“I-I'll try...”
-（お腹いっぱいで絶叫系アトラクションに乗ったら……ヤバいことになりそう……）=(If we get on one of those screamers with my belly full... it's gonna be bad...)
+//「色々見て回ってたら、すっかり日が高くなってきたね……そろそろお腹空いて来ちゃった。売店でもいかない？」=
+//「ちょっと待って。実は……お弁当を用意してきたの。よかったら一緒に食べない？」=
+//「わっ、嬉しい！　もちろんいただくよ！」=
+//「急だったから、冷凍食品だったり、出来合いのもの買ったりで、全部が全部手作りじゃないんだけれど、それでもいいかしら？」=
+//「うんうん、全然おっけーだよ！」=
+//「ふふ、よかったわ。じゃあまずは、おにぎりと……」=
+//「わあ、美味しそう！」=
+//「それと、サンドイッチ。色々買ってきたから好きなもの食べて」=
+//「おにぎりとサンドイッチ！？　両方食べられるなんて最高！」=
+//「お惣菜も用意してきたの！　いっぱい摘んでちょうだい」=
+//「お、おお……結構な量だね」=
+//「それから、水筒に麦茶と、紅茶と、烏龍茶を詰めてきたの。好きなの飲んでね」=
+//「お、大荷物だね……どこに隠し持ってたの？」=
+//「ふふふ、秘密よ。あ、それから、おやつに大学芋を用意したの。こっちのタッパーに山盛り入ってるからたーんと食べてね」=
+//「本当にはチョコフォンデュを用意したかったんだけど、流石にそこまでは大げさかなーって」=
+//「チョコフォンデュ……う、うん、流石に野外で食べるものではないよね」=
+//「さあ、いっぱい食べて！　そして、いっぱい遊んで、グングン大きくなるのよ」=
+//「わ、わぁ……うん、見てるだけでお腹いっぱいになりそうだ」=
+//「ちなみに、お残しＮＧだからね？」=
+//「が、頑張るよ……」=
+//（お腹いっぱいで絶叫系アトラクションに乗ったら……ヤバいことになりそう……）=

@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-………………=.........
-…………=......
-……=...
-「ふぅ、疲れた……じゃあね、また誘ってくれてもいいよ」=“Fuu, I'm tired... see ya, I don't mind if you invite me again.”
+//………………=
+//…………=
+//……=
+//「ふぅ、疲れた……じゃあね、また誘ってくれてもいいよ」=

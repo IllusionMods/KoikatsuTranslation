@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「あの、これ……家庭科の授業でパンケーキを焼いたんです」=Uhm, this... I made some pancakes during home-economics.
-「もしよろしければ食べてくれませんか？」=If it's alright with you, won't you eat them?
-「あ……ありがとうございます。ではどうぞ」=T... Thank you very much. Well then, do enjoy.
+//「あの、これ……家庭科の授業でパンケーキを焼いたんです」=
+//「もしよろしければ食べてくれませんか？」=
+//「あ……ありがとうございます。ではどうぞ」=

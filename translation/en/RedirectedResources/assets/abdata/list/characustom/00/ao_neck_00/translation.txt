@@ -1,17 +1,17 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-マフラー=Muffler
-ロングネクタイ=Long Necktie
-リボンチョーカー=Ribbon Choker
-小悪魔チョーカー=Devil Choker
-ホイッスル=Whistle
-聴診器=Stethoscope
-首枷=Metal Collar
-蝶ネクタイ=Bow Tie
-首掛けメガホン=Hanging Megaphone
-ハートペンダント=Heart Pendant
-リボンペンダント=Ribbon Pendant
-一粒ペンダント=Starpoint Pendant
-星のペンダント=Star Pendant
-土星のペンダント=Saturn Pendant
+//マフラー=
+//ロングネクタイ=
+//リボンチョーカー=
+//小悪魔チョーカー=
+//ホイッスル=
+//聴診器=
+//首枷=
+//蝶ネクタイ=
+//首掛けメガホン=
+//ハートペンダント=
+//リボンペンダント=
+//一粒ペンダント=
+//星のペンダント=
+//土星のペンダント=

@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-キャラ一覧=Select A Character
-コーディネート一覧=Clothing Sets List
+//キャラ一覧=
+//コーディネート一覧=
 //顔設定一覧=
 //体設定一覧=
 //髪設定一覧=

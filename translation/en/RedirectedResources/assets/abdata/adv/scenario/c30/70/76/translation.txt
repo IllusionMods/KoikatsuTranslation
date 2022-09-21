@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「ねぇ、[H名]、さっきから気になってたんだけどさ」=Hey, [H名], I've been thinking about this for a while, but...
-「なにかしら？」=What is it?
-「うん、あのね、俺達ずーっとストレッチしてない？　もう結構な時間、二人で伸ばし合ってるよ？」=Yeah, well, haven't we been stretching this entire time? Aren't we both stretched out enough after doing this for so long?
-「あっ……え、えっと……あはは、ごめんなさい。キミとくっついたら離れたくなくなっちゃって……だって……幸せなんですもの……」=Ah... U-um... Ahaha, I'm sorry. Clinging to you felt so good that I just didn't want let go... It just... makes me so happy...
-「あ……そ、それは……そうかも。こうしてると俺もその……[H名]の温かさとか柔らかさとか伝わってきて……」=Ah... T-that...you might be right. When we're like this... I can feel your body's gentle heat and how soft and tender you are, [H名]...
-「待って待って、それ以上言っちゃダメよ！　そうじゃないとっ……私……ドキドキして何も出来なくなっちゃうっ……」=Wait, wait, don't say any more than that! Otherwise... I'll get excited... And won't be able to do anything...
-「や、やっぱり体育館なんだし、健全に汗を流さなきゃダメよね。うん、さ、頑張りましょう」=E-Either way, this is the gymnasium, sow should work hard and at least build up a sweat. Yeah, l-let's get back to it.
+//「ねぇ、[H名]、さっきから気になってたんだけどさ」=
+//「なにかしら？」=
+//「うん、あのね、俺達ずーっとストレッチしてない？　もう結構な時間、二人で伸ばし合ってるよ？」=
+//「あっ……え、えっと……あはは、ごめんなさい。キミとくっついたら離れたくなくなっちゃって……だって……幸せなんですもの……」=
+//「あ……そ、それは……そうかも。こうしてると俺もその……[H名]の温かさとか柔らかさとか伝わってきて……」=
+//「待って待って、それ以上言っちゃダメよ！　そうじゃないとっ……私……ドキドキして何も出来なくなっちゃうっ……」=
+//「や、やっぱり体育館なんだし、健全に汗を流さなきゃダメよね。うん、さ、頑張りましょう」=

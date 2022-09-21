@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「即刻その行動をおやめ頂きたい。今すぐに。早く」=I would like for you to stop that immediately. At once. Quickly.
+//「即刻その行動をおやめ頂きたい。今すぐに。早く」=

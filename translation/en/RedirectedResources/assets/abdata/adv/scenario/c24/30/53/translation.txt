@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「もう、終わりですか？　もしかして私に飽きてしまったんですか？　そうじゃないって、言ってください……」=Is that it? Are you already bored of me, by any chance? Please say that that's not the truth...
+//「もう、終わりですか？　もしかして私に飽きてしまったんですか？　そうじゃないって、言ってください……」=

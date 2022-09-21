@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「ふー……満足しちゃった。うふふ、素敵な子ね」=“Fuu... I'm satisfied. Ufufu, what a wonderful boy.”
+//「ふー……満足しちゃった。うふふ、素敵な子ね」=

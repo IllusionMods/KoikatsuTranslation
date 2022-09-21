@@ -1,23 +1,23 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「今日は遊園地で思いっきりはしゃごう！」=Let's have a blast today!
-「うんっ、はしゃごうはしゃごう！　この遊園地、最近新しいアトラクションが出来て、また人気が出てるんだよ」=Yeah--, a blast, an absolute blast! They recently added some new attractions, so this park's gotten pretty popular again.
-「お～、さすが詳しいね」=Ooh~, as expected, you know your stuff.
-「あはは、たまたま雑誌で見ただけだよー。えーっと……あ、ほら、あれ。すっごく大きなジェットコースター」=Ahaha, I just happened to see it in a magazine, that's all~. Erhm... ah, look, over there. What a big roller coaster.
-「本当だ……あんな高いところまであるなんて……すごくない？」=Seriously... to think it goes so high up... isn't it kinda amazing?
-「うん、高さもそうだけど……実はそれ以上に角度がすごいみたい。完全に落ちてるって気分になるらしいよー」=Yeah, the height's amazing too but... apparently the angles are in a world of their own. Apparently they really do make you feel like you're in free fall~
-「あ、あはは……そうなんだ……聞いただけでぞわぞわする話だね」=A-Ahaha... I see... I'm feeling restless already and I haven't even gotten on the thing.
-「あはは、お腹の辺りだよね。それで……どうしよう？　せっかくだし……やっぱり乗る？」=Ahaha, your belly's complaining, isn't it? Well then... what do you wanna do? We did come here today so... wanna ride it anyway?
-「そ、それはもちろん！　新アトラクションと聞いたら乗らないわけにはっ！」=O-Of course! We can't exactly leave it be, especially not when it's a brand spanking new ride--!
-「そうだよね。うぅ……ちょっと怖いけど……でも隣に君がいてくれたら平気そう！　さっそく並んでみよ！」=Right. Uu... I'm a bit scared but... I think I can handle it if you're next to me! Let's line up!
-………………=.........
-「ま、まま……まさか……あんなに激しいなんて……」=I-I n-n-n... never thought... it would be that extreme...
-「や……ヤバかったよね……俺、まだ足震えてる……」=T...That was something... My legs are still shaking...
-「わ、私もだよーっ……だって……あのっ……ぜ、絶対に死んじゃうって思ったもん！」=M-Mine too~... I mean... that--... I-I really thought I was gonna die there!
-「思った思った。あ、ここで終わりかなーみたいな感じ。走馬灯見えた」=Same, Same here. "Ah, this is where I die, huh?" and all. I saw my life flash before my eyes even.
-「うぅぅ……どうしてみんなは楽しそうにしていられるんだろう？　もう普通に歩いてるし……」=Uuuu... How is everyone else so unruffled? They're all already walking normally...
-「日頃から乗り慣れてるんじゃないかな。こういうのって絶対に慣れがあるよ」=They probably just got used to it. You would get used to this sort of thing eventually, for sure.
-「そ、そうだよね……でもさすがに繰り返し乗る勇気は……ないかも……はぅぅ……」=R-Right... but I don't think I have the courage to... get back on it again... hauuu...
-「あはは……俺も無理……何か気楽に乗れそうなアトラクション行こっか？」=Ahaha... I can't either... wanna go for something more easy going this time?
-「うんっ！　自分から言い出しておいて申し訳ないけど……次は楽しくて可愛いのに乗りたいよー！」=Yeah--! I mean, it sounds off when I say it like this but... this time I wanna ride something fun and adorable instead~!
+//「今日は遊園地で思いっきりはしゃごう！」=
+//「うんっ、はしゃごうはしゃごう！　この遊園地、最近新しいアトラクションが出来て、また人気が出てるんだよ」=
+//「お～、さすが詳しいね」=
+//「あはは、たまたま雑誌で見ただけだよー。えーっと……あ、ほら、あれ。すっごく大きなジェットコースター」=
+//「本当だ……あんな高いところまであるなんて……すごくない？」=
+//「うん、高さもそうだけど……実はそれ以上に角度がすごいみたい。完全に落ちてるって気分になるらしいよー」=
+//「あ、あはは……そうなんだ……聞いただけでぞわぞわする話だね」=
+//「あはは、お腹の辺りだよね。それで……どうしよう？　せっかくだし……やっぱり乗る？」=
+//「そ、それはもちろん！　新アトラクションと聞いたら乗らないわけにはっ！」=
+//「そうだよね。うぅ……ちょっと怖いけど……でも隣に君がいてくれたら平気そう！　さっそく並んでみよ！」=
+//………………=
+//「ま、まま……まさか……あんなに激しいなんて……」=
+//「や……ヤバかったよね……俺、まだ足震えてる……」=
+//「わ、私もだよーっ……だって……あのっ……ぜ、絶対に死んじゃうって思ったもん！」=
+//「思った思った。あ、ここで終わりかなーみたいな感じ。走馬灯見えた」=
+//「うぅぅ……どうしてみんなは楽しそうにしていられるんだろう？　もう普通に歩いてるし……」=
+//「日頃から乗り慣れてるんじゃないかな。こういうのって絶対に慣れがあるよ」=
+//「そ、そうだよね……でもさすがに繰り返し乗る勇気は……ないかも……はぅぅ……」=
+//「あはは……俺も無理……何か気楽に乗れそうなアトラクション行こっか？」=
+//「うんっ！　自分から言い出しておいて申し訳ないけど……次は楽しくて可愛いのに乗りたいよー！」=

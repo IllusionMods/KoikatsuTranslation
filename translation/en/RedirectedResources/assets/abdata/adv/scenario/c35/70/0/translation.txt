@@ -1,11 +1,11 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「あのさ、もし良かったら、俺とちょっとだけ話してくれないかな？」=Hey, listen, if it's alright with you, won't you chat with me for a bit?
-「わわっ、本当に男の子がおった！　話には聞いとったけど……この学園で男の子に会うとびっくりするね」=Wawah--, there really was a boy! I'm fine with chatting but... meeting a boy in this school really is surprising.
-「お話いいよ。私も男の子と会話してみたいけん。あ、えっと……私ね、[H名前]って言うっちゃけど……君は？」=Sure. I've been feeling like chatting up a guy myself. Ah, erhm... I go by [H名前]... What about you?
-「ありがとう。俺は[P名前]だよ。よろしくね」=Thanks. My name is [P名前]. Nice to meet you.
-「うん、よろしく！　私のことは名前で呼んでくれていいけんね。私、地方出身やけん、まだ方言が抜けてないっちゃけど……話しづらくない？　大丈夫？」=Yeah, nice to meet you! You can just call me by my name. I'm front the countryside so, I've still not lost my weird dialect... Can you understand me fine? Is it clear?
-「全然大丈夫だよ。方言、すごく可愛いと思う。もし良かったら、俺にも色々教えて欲しいな」=It's completely fine. I think the way you speak is super cute. I'd love to learn to speak like that too, if you're fine with teaching me.
-「わぁ、そんなこと言われたん初めて！　えへへ、嬉しくて……ちょっと照れるね。それじゃ……えっと……どんなお話からしようかいな？」=Waah, that's the first time someone's ever said that to me! Ehehe, I'm so happy... Man, I'm blushing. Well then... Erhm... Whatcha wanna talk about?
-（素直で純朴そうな娘だな。どんな会話だったら楽しんでくれるだろう？）=(Man, she sure sems like a nice and simple girl. What sort of topics would she find fun, I wonder?)
+//「あのさ、もし良かったら、俺とちょっとだけ話してくれないかな？」=
+//「わわっ、本当に男の子がおった！　話には聞いとったけど……この学園で男の子に会うとびっくりするね」=
+//「お話いいよ。私も男の子と会話してみたいけん。あ、えっと……私ね、[H名前]って言うっちゃけど……君は？」=
+//「ありがとう。俺は[P名前]だよ。よろしくね」=
+//「うん、よろしく！　私のことは名前で呼んでくれていいけんね。私、地方出身やけん、まだ方言が抜けてないっちゃけど……話しづらくない？　大丈夫？」=
+//「全然大丈夫だよ。方言、すごく可愛いと思う。もし良かったら、俺にも色々教えて欲しいな」=
+//「わぁ、そんなこと言われたん初めて！　えへへ、嬉しくて……ちょっと照れるね。それじゃ……えっと……どんなお話からしようかいな？」=
+//（素直で純朴そうな娘だな。どんな会話だったら楽しんでくれるだろう？）=

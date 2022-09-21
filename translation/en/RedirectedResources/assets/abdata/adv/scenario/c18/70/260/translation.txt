@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「……電車の中で、恥じらいもなくシてしまいました」=...I even ended up discarding my shame on the train.
-「俺は気持ちよかったよ」=I personally enjoyed it a lot.
-「むぅ、あなたはもう少し恥じらいを持ってくださいっ」=Muu, you ought to have some more shame yourself--
+//「……電車の中で、恥じらいもなくシてしまいました」=
+//「俺は気持ちよかったよ」=
+//「むぅ、あなたはもう少し恥じらいを持ってくださいっ」=

@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「えへへ、付き合ってくれてありがとうなのですっ！」=Ehehe, thanks so much for the date!
+//「えへへ、付き合ってくれてありがとうなのですっ！」=

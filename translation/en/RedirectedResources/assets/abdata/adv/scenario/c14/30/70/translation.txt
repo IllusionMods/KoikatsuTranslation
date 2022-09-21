@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「あ～なんでこんなつまんねぇことしなきゃなんないんだよ！」=Ah~, just why do we have to do this boring shit anyway!
-「将来どこかで役に立つかもしれないしさ、頑張ろうよ！」=It might be useful someday in the future, let's keep at it!
-「これのどこがどういう風に役に立つんだよ？」=Just what part of any of this is gonna be useful to us?
-「これのここがこういう風に役に立つんだよ！　きっと！」=Atleast this part would definitely be useful! I'm sure of it!
+//「あ～なんでこんなつまんねぇことしなきゃなんないんだよ！」=
+//「将来どこかで役に立つかもしれないしさ、頑張ろうよ！」=
+//「これのどこがどういう風に役に立つんだよ？」=
+//「これのここがこういう風に役に立つんだよ！　きっと！」=

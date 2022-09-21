@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-………………=.........
-…………=......
-……=...
-「ごちそうさま。ふー、余は満腹じゃー。午後は寝ちゃいそうだなこれ……」=“That was great. Fuuh, our royal stomach is stuffed to the brim~. I think I might just fall asleep in class...”
-「ごちそうさま。ふー、余は満腹じゃー」=“That was great. Fuuh, our royal stomach is stuffed to the brim~”
+//………………=
+//…………=
+//……=
+//「ごちそうさま。ふー、余は満腹じゃー。午後は寝ちゃいそうだなこれ……」=
+//「ごちそうさま。ふー、余は満腹じゃー」=

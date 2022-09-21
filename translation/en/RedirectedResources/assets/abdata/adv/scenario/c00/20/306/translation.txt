@@ -1,25 +1,25 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「う～ん……歌う曲がなくなってきちゃったわ」=Mmm... I've run out of songs to sing.
-「ちょっとハイペースで歌いすぎたのかも」=We might have been going at too high a pace.
-「これじゃ時間余っちゃいそう……ねえ、よかったら、残った時間を君のワンマンショーにしない？」=At this rate, we'll have time left on the clock... hey, if you'd like, wanna make the rest of it a one man show, just by yourself?
-「え？　ああ、うん……それは魅力的だけど、俺もレパートリーが、ほとんど尽きちゃったよ」=Eh? Aah, yeah... it's an attractive offer but, I'm almost out of songs myself.
-「そう……じゃあやっぱり時間余っちゃうわね」=I see... guess we really will have time left on the clock then.
-CHOICE:『Ｈに誘ってみる』=『Try asking for sex.』
-CHOICE:『今日はもう帰ろうか』=『Shall we go home for today?』
-「んー……まあ、せっかくだし、終了時間いっぱいまでゆっくりしたいよね」=Nn... well, we're here anyway, so we could just chill off and take it easy until we run out of time.
-「そう？　だったら……おしゃべりでもする？　あ、でも、もちろんほかのことでも構わないわよ？」=That so? In that case... wanna chat? Ah, but, that's not to say I'd mind doing other stuff too, okay?
-「……その流し目、いいね。俺が何を求めてるのか、わかってるみたいだ」=...those sidelong glances, I like them. You know exactly what I want right now.
-「なんのこと、全然分からないわねー……ふふふ、で？　君はどうしたいの？」=I don't know what you're talking about, not at all... fufufu, so? What do you want to do?
-「エッチしたい！」=I wanna have sex!
-「ふふふっ……もう、ストレートね。でも、いいわよ。そんな言われ方されたら、断れないわ」=Fufufu--... jeez, always so straight. But, alright. I can't exactly say no when you say it like that.
-「正直に言ってよかったよ」=I'm glad I was honest with myself.
-「うふふ……それじゃ始めましょ──」=Ufufu... well then, let's get started--
-「ま、歌う曲もないのに、無理にここに残ることもないよね」=Well, there's no point in forcing ourselves to stay here, especially when we have no songs left to sing.
-「まったくだわ。そろそろ出ましょうか……でも、少し名残惜しいわね」=For sure. Let's beat this joint... But, it does feel a bit regrettable, doesn't it?
-「え？　歌いたい曲、まだあった？」=Eh? Did you still have songs that you wanted to sing?
-「ええ、君のために、可愛い喘ぎ声、上げたかったなーって……うふふ」=Yes, I wanted to gasp cutely, just for you... ufufu~
-「じゃ、じゃあ、やっぱりここに──」=T-Then, maybe we really should stay fo--
-「今更言っても、だーめ。ほら、フロント連絡しなきゃ」=Even if you say that now, it's too late. Come on, we gotta put in the call.
-「わかったよ──あのー、すみません、そろそろ出ます。会計お願いしまーす」=Got it. Uhm, excuse me, we're heading out. We'd like the check please.
+//「う～ん……歌う曲がなくなってきちゃったわ」=
+//「ちょっとハイペースで歌いすぎたのかも」=
+//「これじゃ時間余っちゃいそう……ねえ、よかったら、残った時間を君のワンマンショーにしない？」=
+//「え？　ああ、うん……それは魅力的だけど、俺もレパートリーが、ほとんど尽きちゃったよ」=
+//「そう……じゃあやっぱり時間余っちゃうわね」=
+//CHOICE:『Ｈに誘ってみる』=
+//CHOICE:『今日はもう帰ろうか』=
+//「んー……まあ、せっかくだし、終了時間いっぱいまでゆっくりしたいよね」=
+//「そう？　だったら……おしゃべりでもする？　あ、でも、もちろんほかのことでも構わないわよ？」=
+//「……その流し目、いいね。俺が何を求めてるのか、わかってるみたいだ」=
+//「なんのこと、全然分からないわねー……ふふふ、で？　君はどうしたいの？」=
+//「エッチしたい！」=
+//「ふふふっ……もう、ストレートね。でも、いいわよ。そんな言われ方されたら、断れないわ」=
+//「正直に言ってよかったよ」=
+//「うふふ……それじゃ始めましょ──」=
+//「ま、歌う曲もないのに、無理にここに残ることもないよね」=
+//「まったくだわ。そろそろ出ましょうか……でも、少し名残惜しいわね」=
+//「え？　歌いたい曲、まだあった？」=
+//「ええ、君のために、可愛い喘ぎ声、上げたかったなーって……うふふ」=
+//「じゃ、じゃあ、やっぱりここに──」=
+//「今更言っても、だーめ。ほら、フロント連絡しなきゃ」=
+//「わかったよ──あのー、すみません、そろそろ出ます。会計お願いしまーす」=

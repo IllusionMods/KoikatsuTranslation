@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「……デート？　私と、ですか？」=...A date? With me?
-「ダメかな」=No good?
-「い、いえ！　そんな事は！　で、でも、えっと、私でよければ……よろしくお願いします……！」=N-No! I didn't! B-But, erhm, if you'll have me... then please...!
+//「……デート？　私と、ですか？」=
+//「ダメかな」=
+//「い、いえ！　そんな事は！　で、でも、えっと、私でよければ……よろしくお願いします……！」=

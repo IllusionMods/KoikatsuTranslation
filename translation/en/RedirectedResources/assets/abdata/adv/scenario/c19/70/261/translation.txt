@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「その……なんとういうかありがとう。えっと、[H名]は大丈夫……？」=Uhm... how do I say this, thank you. Erhm, are you okay, [H名]...?
-「うん、私は大丈夫……。[P名]君の名誉も守られたし」=Yeah, I'm fine... I managed to protect your dignity too.
-「股間を大きくしたまま電車を降りてたら、痴漢に思われてたかもしれないしね。ふふっ」=If you got off the train with a hard-on, you might have gotten mistaken for a molester, afterall. Fufu--
-「感謝してます……」=I'm eternally grateful...
+//「その……なんとういうかありがとう。えっと、[H名]は大丈夫……？」=
+//「うん、私は大丈夫……。[P名]君の名誉も守られたし」=
+//「股間を大きくしたまま電車を降りてたら、痴漢に思われてたかもしれないしね。ふふっ」=
+//「感謝してます……」=

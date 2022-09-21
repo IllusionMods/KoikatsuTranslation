@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「おぉっ、これ！　わぁ……嬉しいなぁ……えへへ、ほんとサンキュ」=“Oooh--, this! Waah... I'm so happy... eheheh, thanks, seriously.”
+//「おぉっ、これ！　わぁ……嬉しいなぁ……えへへ、ほんとサンキュ」=

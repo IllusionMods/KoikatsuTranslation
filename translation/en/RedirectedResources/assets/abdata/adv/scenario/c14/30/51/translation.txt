@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「えっ、終わり……？　最後まで、してくれないのか？」=Eh--, already...? You're not gonna, go all the way?
+//「えっ、終わり……？　最後まで、してくれないのか？」=

@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「あっ、運動ですか……」=“Ah--, exercise, you say...”
-「もしかして、あまり好きじゃなかった？」=“Not into it much, by any chance?”
-「いえ、体を動かすのは好きです。ただ、走ることが得意ではなくて……」=“No, I do love moving my body. It's just, running is not my strong suit...”
-「そっか。じゃあそのあたりも考えつつ……どんな運動が良いのか考えてみよう」=“I see. Gonna have to think on that then... let's try to think of something we can do.”
+//「あっ、運動ですか……」=
+//「もしかして、あまり好きじゃなかった？」=
+//「いえ、体を動かすのは好きです。ただ、走ることが得意ではなくて……」=
+//「そっか。じゃあそのあたりも考えつつ……どんな運動が良いのか考えてみよう」=

@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「ふふーっ、実はね、君に渡したい物があるん！　じゃーん、家庭科の授業で作ったお菓子！　それもね、君用に色々考えて作ってみたとよ。良かったら食べてくれる？」=Fufuu--, there's something I want to give you! Tada~, sweets I made during home-ec! I made them while thinking of you too. Will you try them?
-「おお、嬉しい！　もちろん！　今すぐ食べるよ！」=Ooh, I'm so happy! Of course I'll try them! I'll eat them all right now!
-「あ……嬉しい。君のそういうお顔が見たくて作ったっちゃん。ふふっ、好きな人に手作りのお菓子を食べてもらえるとか……女子として最高の幸せなんよ」=Ah... I'm so happy. I made them because I wanted to see you make that smile. Fufu--, having your beloved eat your handmade sweets and stuff... things like that are a girl's happiness, you know?
+//「ふふーっ、実はね、君に渡したい物があるん！　じゃーん、家庭科の授業で作ったお菓子！　それもね、君用に色々考えて作ってみたとよ。良かったら食べてくれる？」=
+//「おお、嬉しい！　もちろん！　今すぐ食べるよ！」=
+//「あ……嬉しい。君のそういうお顔が見たくて作ったっちゃん。ふふっ、好きな人に手作りのお菓子を食べてもらえるとか……女子として最高の幸せなんよ」=

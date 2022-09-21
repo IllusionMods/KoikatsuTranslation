@@ -1,22 +1,22 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「広い公園だけあって、ジョギングしてる人が結構いるね。他にも犬の散歩してる人、バドミントンや、ボール遊びしてる人……」=Just because of how big this park is, there's quite a lot of joggers around. Also a lot of people walking dogs, people playing badminton, or catch-ball, or...
-「こう広いと、運動をしたくなるのも分かります。でも運動をすると汗をかいてしまうので……」=When it's this big, I can understand the feeling of wanting to get a workout. But, if I were to do so, I'll start sweating...
-「汗かくの、嫌いなの？」=Do you hate sweating?
-「いえ、汗で服が濡れるのが嫌なんです。事前に汗をかいてもいい運動用の着替えを用意すべきでした」=No, but I don't like having my clothes get soaked up with sweat. I should have prepared a change of clothes beforehand, a set of clothes that I wouldn't mind using for exercise and sweating in.
-「あとは単純に恰好の問題ですね。運動に適したものじゃないと、存分に楽しめないのでは……と考えてしまいます」=Aside from that, it's simply also a matter of appearance. If I don't wear something that's fit for exercise, I feel like I can't enjoy the activity to the fullest... atleast that's what I end up thinking.
-「ああ、なるほど。それは確かに……そういえば[H名]ってファッションにこだわる方だっけ？」=Aaah, I see. Certainly, that's... On that note though, are you the type to fuss abot over fashion, [H名]?
-「はい。大好きです。費やせるお金や時間には限界がありますので、その中でできるだけのことをいつもしているつもりです」=Yes. I love it. There's a limit to the amount of time and money I have to waste on it though, so I always try to make do with what I can.
-「うんうん、いつも綺麗だもんね」=Yeah, you always do look very pretty.
-「あ、ありがとう、ございます……ただ、今は、ＴＰＯに合わせたファッションをすべきだと主張したいわけで……」=T-Thank you, very much... Though, right now, I'd like to emphasize that one ought to dress according to the time, place and occasion...
-「つまり、もっと他にも、その公園デートにふさわしい格好があったかもしれないと反省してるだけで……」=That is to say, I'm just wondering whether there might have been another dress that would have fit the occasion of a date at the park a lot more than this one and...
-「今日、最高に可愛いよ」=In my opinion, you look the cutest today.
-「……わ、わかりました。最高に恥ずかしいので、もう言わないで下さい…………」=...U-Understood. It's extremely embarrassing so, please don't say anymore...
-（顔、真っ赤だ。ふふ、可愛いなぁ……）=(She's blushing so much. Fufu, so cute...)
-「おしゃれはあんまり関心がありません。でも、清潔感と機能性には気をつけているつもりです」=I don't have all that much interest in fashion, no. But, I do try to pay attention to functionality and hygiene when I can.
-「そうなの？　いつも綺麗だと思うよ」=Is that so? I think you're always pretty though.
-「そ、そんなこと言われても困ります……私は別に、綺麗だと思われたいわけじゃ……」=E-Even if you say that, it's quite troubling... It's not like I go out of my way to try and seem pretty and...
-「ううん、綺麗だよ。俺、いつも思ってるよ」=Nah, you're beautiful. I'm always thinking that.
-「あ、ありがとう……ございます……なんだか、意図せず褒められてしまい、戸惑ってしまいます」=T-Thank you... very much... somehow, I didn't do it to get praised so, I feel very perplexed right now.
-（真っ赤になってる……可愛いなぁ……）=(She's blushing so much... So cute...)
+//「広い公園だけあって、ジョギングしてる人が結構いるね。他にも犬の散歩してる人、バドミントンや、ボール遊びしてる人……」=
+//「こう広いと、運動をしたくなるのも分かります。でも運動をすると汗をかいてしまうので……」=
+//「汗かくの、嫌いなの？」=
+//「いえ、汗で服が濡れるのが嫌なんです。事前に汗をかいてもいい運動用の着替えを用意すべきでした」=
+//「あとは単純に恰好の問題ですね。運動に適したものじゃないと、存分に楽しめないのでは……と考えてしまいます」=
+//「ああ、なるほど。それは確かに……そういえば[H名]ってファッションにこだわる方だっけ？」=
+//「はい。大好きです。費やせるお金や時間には限界がありますので、その中でできるだけのことをいつもしているつもりです」=
+//「うんうん、いつも綺麗だもんね」=
+//「あ、ありがとう、ございます……ただ、今は、ＴＰＯに合わせたファッションをすべきだと主張したいわけで……」=
+//「つまり、もっと他にも、その公園デートにふさわしい格好があったかもしれないと反省してるだけで……」=
+//「今日、最高に可愛いよ」=
+//「……わ、わかりました。最高に恥ずかしいので、もう言わないで下さい…………」=
+//（顔、真っ赤だ。ふふ、可愛いなぁ……）=
+//「おしゃれはあんまり関心がありません。でも、清潔感と機能性には気をつけているつもりです」=
+//「そうなの？　いつも綺麗だと思うよ」=
+//「そ、そんなこと言われても困ります……私は別に、綺麗だと思われたいわけじゃ……」=
+//「ううん、綺麗だよ。俺、いつも思ってるよ」=
+//「あ、ありがとう……ございます……なんだか、意図せず褒められてしまい、戸惑ってしまいます」=
+//（真っ赤になってる……可愛いなぁ……）=

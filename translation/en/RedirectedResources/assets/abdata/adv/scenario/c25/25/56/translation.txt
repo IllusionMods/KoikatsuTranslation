@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「はっ！？　えっ！？　なに？　どうして……？」=Hah--!? Eh--!? What? Why...?
-「ごめん……」=Sorry...
-「どうして……理由はなに？」=Why... any specific reason?
-「……」=“...”
-「……疲れたって感じかな？　私と居ると……。……うぐっ、じゃ、じゃあね～」=...Did you just get tired? Of being with me... ...*sob*, w-well, see ya then~
+//「はっ！？　えっ！？　なに？　どうして……？」=
+//「ごめん……」=
+//「どうして……理由はなに？」=
+//「……」=
+//「……疲れたって感じかな？　私と居ると……。……うぐっ、じゃ、じゃあね～」=

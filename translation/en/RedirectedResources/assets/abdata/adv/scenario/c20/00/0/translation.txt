@@ -1,11 +1,11 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「あの、話がしたいんだけどちょっといいかな」=Uhm, do you have a moment? I'd like to chat.
-「……えっ？　……あ。は、はじめまして。えぇっと……なんでしょうか……？」=...Eh--? ...Ah. H-Hello. Eerhm... what is it...?
-「はじめまして。俺は[P名前]って言うんだ」=Nice to meet you. I go by [P名前].
-「あ……うぅ……ごめんなさい。あの、その……」=Ah... uu... I'm sorry. Uhm, it's...
-（もしかして、男が苦手なのかな？）=(Maybe she can't handle being around a boy?)
-「大丈夫？　無理そうならまた今度にするけど……」=You alright? If you're feeling uncomfortable, we can do this another time...
-「あ、い、いえ……な、なんとか、頑張ってみます……！」=Ah, n-no... I-I'll hang in there, or, I'll try atleast...!
-（すごく警戒してるみたいだけど話をしてくれそうだ。どんな話をしよう……？）=(While she's super on guard, she seems willing enough to talk. What should I start with...?)
+//「あの、話がしたいんだけどちょっといいかな」=
+//「……えっ？　……あ。は、はじめまして。えぇっと……なんでしょうか……？」=
+//「はじめまして。俺は[P名前]って言うんだ」=
+//「あ……うぅ……ごめんなさい。あの、その……」=
+//（もしかして、男が苦手なのかな？）=
+//「大丈夫？　無理そうならまた今度にするけど……」=
+//「あ、い、いえ……な、なんとか、頑張ってみます……！」=
+//（すごく警戒してるみたいだけど話をしてくれそうだ。どんな話をしよう……？）=

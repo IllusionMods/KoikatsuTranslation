@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「ええっ、私に……？　そ、そう……」=“Eeh--, for me...? I-I see...”
+//「ええっ、私に……？　そ、そう……」=

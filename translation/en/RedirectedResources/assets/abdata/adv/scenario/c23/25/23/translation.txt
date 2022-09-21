@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「え、ええと。プリンあげるね。授業でつくってみたんだ」=“E-Eerhm. Here's some pudding, okay? I made it during class.”
-「で、でも、決してそういう意味では……本当だぞぉ！」=“B-But, it's not because of, you know... it's true!”
-「もう、行くから！　じゃあねええ～」=“Anyways, I'm going! See you later~~”
+//「え、ええと。プリンあげるね。授業でつくってみたんだ」=
+//「で、でも、決してそういう意味では……本当だぞぉ！」=
+//「もう、行くから！　じゃあねええ～」=

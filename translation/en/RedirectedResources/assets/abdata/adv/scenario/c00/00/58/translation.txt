@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「今日は私が君をおもてなしするわ」=For today, I'll be the one showing you a good time.
-「そんな、悪いよ」=You don't have to, I'd feel bad.
-「いいから、私に付いてきて♪」=It's fine, just come with me♪
-「次はね、あっち！　早く早く～♪」=We're going there next! Come on, double time~♪
+//「今日は私が君をおもてなしするわ」=
+//「そんな、悪いよ」=
+//「いいから、私に付いてきて♪」=
+//「次はね、あっち！　早く早く～♪」=

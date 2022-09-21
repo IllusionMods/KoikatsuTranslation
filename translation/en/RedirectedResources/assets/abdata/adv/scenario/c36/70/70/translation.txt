@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「うぁ、解答欄が一個ズレてた……」="Oh no, my answers were all shifted by one!"
-「はぁ、貴方らしいミスね。注意力散漫、三歩どころか三秒で全て忘れてるんじゃない？」="*Sigh* that's just like you. You get easily distracted and forget everything after 3 seconds."
-「うぅ、テストの時は気を付けないと……うっかりじゃ済まないからね……」="Uu... I must be careful on the test. I can't be this careless!"
-「気を付けても無駄よ。愚鈍な貴方が、そう簡単にうっかりを直せるとは思えないわ」="It's useless even if you are careful. For someone as stupid as you curing your carelessness won't be this easy."
-「ぐっ、そう言われちゃうと……何かいい方法ないかな？」="Guh, if you say it like that... Isn't there any other way?"
-「簡単よ、貴方が何かミスする度に、私が頬を抓ってあげる。動物の躾と同じよ、痛みで覚えるの」="It's simple. Every time you make a mistake, I'll pinch your cheek. Similar to training an animal, you'll remember once you feel pain."
+//「うぁ、解答欄が一個ズレてた……」=
+//「はぁ、貴方らしいミスね。注意力散漫、三歩どころか三秒で全て忘れてるんじゃない？」=
+//「うぅ、テストの時は気を付けないと……うっかりじゃ済まないからね……」=
+//「気を付けても無駄よ。愚鈍な貴方が、そう簡単にうっかりを直せるとは思えないわ」=
+//「ぐっ、そう言われちゃうと……何かいい方法ないかな？」=
+//「簡単よ、貴方が何かミスする度に、私が頬を抓ってあげる。動物の躾と同じよ、痛みで覚えるの」=

@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「まずは、準備体操カラー。イチ、ニー、サン、シー……」=Let's start with some warm up exercises first. One, two, three, four...
-「あ、そこはワン、ツー、スリー、フォーじゃないんだ」=Ah, you're not using english for counting.
-「ニッポン文化に馴染もうしてるヨ。アタマを使う時、カラダを使う時、ドッチも勉強デショ」=I'm trying to get used to Japanese culture. Both your brain and your body can make for good study tools, no?
-（そっか、言葉の壁があると体育の授業も大変だもんな。よし、運動しながら言葉の勉強が出来ないか、色々考えてみよう）=(I see, if there's a language barrier, even PE becomes a pain in the ass, huh. Alright, let's think of ways to study language while doing exercise.)
+//「まずは、準備体操カラー。イチ、ニー、サン、シー……」=
+//「あ、そこはワン、ツー、スリー、フォーじゃないんだ」=
+//「ニッポン文化に馴染もうしてるヨ。アタマを使う時、カラダを使う時、ドッチも勉強デショ」=
+//（そっか、言葉の壁があると体育の授業も大変だもんな。よし、運動しながら言葉の勉強が出来ないか、色々考えてみよう）=

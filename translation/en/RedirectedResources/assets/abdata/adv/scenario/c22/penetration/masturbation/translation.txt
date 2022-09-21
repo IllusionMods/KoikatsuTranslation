@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「ええぇっ！？　嘘っ……どうして君がいるのーっ！？」=Eeeh--!? No way--... why're you here--!?
+//「ええぇっ！？　嘘っ……どうして君がいるのーっ！？」=

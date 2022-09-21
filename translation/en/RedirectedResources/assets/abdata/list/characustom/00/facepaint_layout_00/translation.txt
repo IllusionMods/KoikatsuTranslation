@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-左頬=Left Side of Face
-右頬=Right Side of Face
-おでこ=Forehead
-鼻=Nose
-口=Mouth
-顎=Jaw
+//左頬=
+//右頬=
+//おでこ=
+//鼻=
+//口=
+//顎=

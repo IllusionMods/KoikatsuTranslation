@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「わ、私とですか？　……はい、大丈夫です。一緒に帰りましょう」=W-With me? ...Okay, sure. Let's walk home together.
-「よかった。色々話して、もっともっと仲良くなれたらいいな」=Great. It'd be great if we can chat lots and become even closer friends.
-「は、はい……私も、頑張ります……では、話しながら、帰りましょう」=Y-Yes... I'll do, my best too... well then, let's walk home, while chatting.
+//「わ、私とですか？　……はい、大丈夫です。一緒に帰りましょう」=
+//「よかった。色々話して、もっともっと仲良くなれたらいいな」=
+//「は、はい……私も、頑張ります……では、話しながら、帰りましょう」=

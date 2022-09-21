@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-………………=.........
-…………=......
-……=...
-「えっと、お疲れさま。また誘ってほしいかなぁ」=Erhm, good work. I'd love it if you asked me again sometime.
+//………………=
+//…………=
+//……=
+//「えっと、お疲れさま。また誘ってほしいかなぁ」=

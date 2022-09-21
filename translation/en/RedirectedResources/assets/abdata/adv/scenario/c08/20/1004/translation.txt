@@ -1,15 +1,15 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-モブ=Mob
-「お疲れ様でした。ふふっ、素敵な式でしたよ」=Good work today. Fufu~ It was a lovely ceremony.
-「本番の結婚式も、是非、私どもの式場で挙げてくださいね！」=For your actual wedding as well, please, do call upon us!
-「えっと、前向きに考えさせてもらいます」=Uhm, sure, if we get to that point.
-「お願いします！　今日はお引き受けいただいて、ありがとうございました」=Thank you! And for helping us out so much today as well, thank you very much!
-「ふぅ、お疲れ様」=Fuu, great work.
-「ふわぁ……なんだか、夢を見てたみたい」=Fuwah... that really felt like, a dream.
-「またこんな日がくるといいなぁ……」=Would be nice if this sort of day comes again for us someday...
-「そうだね、またいつか……」=Yeah, someday...
-「さて……今日はそろそろ帰ろう」=Now then... let's head home for today.
-「あっ！……そういえば、デート中だったの忘れてたよぉ！　えへへ～♪」=Ah--! ...I completely forgot that we were out on a date! Ehehe~♪
-「今日のも立派なデートだよ。それも思いっきり特別なね」=Today's date was splendid too. More extraordinary than any of our other ones, for sure.
+//モブ=
+//「お疲れ様でした。ふふっ、素敵な式でしたよ」=
+//「本番の結婚式も、是非、私どもの式場で挙げてくださいね！」=
+//「えっと、前向きに考えさせてもらいます」=
+//「お願いします！　今日はお引き受けいただいて、ありがとうございました」=
+//「ふぅ、お疲れ様」=
+//「ふわぁ……なんだか、夢を見てたみたい」=
+//「またこんな日がくるといいなぁ……」=
+//「そうだね、またいつか……」=
+//「さて……今日はそろそろ帰ろう」=
+//「あっ！……そういえば、デート中だったの忘れてたよぉ！　えへへ～♪」=
+//「今日のも立派なデートだよ。それも思いっきり特別なね」=

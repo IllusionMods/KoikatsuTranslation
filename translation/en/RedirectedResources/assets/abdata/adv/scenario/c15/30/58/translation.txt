@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「へへー、今日になるの、ずっと待ってたんだぞ」=Hehe, I was waiting for today to come for the longest time.
-「俺もだよ。じゃあ、行こうか」=Me too. Well then, let's go.
-「こうやって、芝生の上に座るのっていいよね」=Sitting on the grass like this is really nice, isn't it?
-「そうだな。でも……ふたりで寝転がった方がさらにいいと思うぞ、うりゃっ！」=It is. But... I think it'd feel even nicer if we lied down together, uuryaah--!
-「うわっ！？」=Uwah--!?
-「へへー、どうだ？　あたしと芝生に挟まれて気持ちいいだろ？」=Hehe, how is it? Feels good to be sandwich between me and the grass like this, no?
+//「へへー、今日になるの、ずっと待ってたんだぞ」=
+//「俺もだよ。じゃあ、行こうか」=
+//「こうやって、芝生の上に座るのっていいよね」=
+//「そうだな。でも……ふたりで寝転がった方がさらにいいと思うぞ、うりゃっ！」=
+//「うわっ！？」=
+//「へへー、どうだ？　あたしと芝生に挟まれて気持ちいいだろ？」=

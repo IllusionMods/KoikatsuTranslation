@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「……もう、私に近づかないで」=“...Don't come near me, anymore.”
-「え……な、なんで？」=“Eh... w-why?”
-「もう、自分の気持ちに嘘はつけないから。ごめん、[P]といても、楽しくない……」=“I can't, lie to myself anymore. Sorry, it's just, not fun to be with you, [P]...”
-「ま、待ってよ。そんな急に……！」=“W-Wait. That's too sudd...!”
-「……さようなら」=“...Goodbye.”
+//「……もう、私に近づかないで」=
+//「え……な、なんで？」=
+//「もう、自分の気持ちに嘘はつけないから。ごめん、[P]といても、楽しくない……」=
+//「ま、待ってよ。そんな急に……！」=
+//「……さようなら」=

@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「すっかり遅くなっちゃったね」=It's sure gotten pitch dark.
-「だな～。もうこんな時間かぁ」=Yeah~. It's already this late, huh?
-「えへへ、一日中あなたと遊園地で遊べて、すっごく嬉しかったよ♪」=Ehehe, I'm so happy that we got to spend the whole day together at the amusement park, I had a blast♪
-「俺もだよ。また次来たときも、こうやって遊ぼうな」=Me too. Let's have fun like this again when we come here next time, okay?
-「うん、約束♪」=Yeah, it's a promise♪
+//「すっかり遅くなっちゃったね」=
+//「だな～。もうこんな時間かぁ」=
+//「えへへ、一日中あなたと遊園地で遊べて、すっごく嬉しかったよ♪」=
+//「俺もだよ。また次来たときも、こうやって遊ぼうな」=
+//「うん、約束♪」=

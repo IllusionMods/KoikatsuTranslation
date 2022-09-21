@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「もしかして、ずっと見ていたのかしら？」=Have you been watching, this whole time?
+//「もしかして、ずっと見ていたのかしら？」=

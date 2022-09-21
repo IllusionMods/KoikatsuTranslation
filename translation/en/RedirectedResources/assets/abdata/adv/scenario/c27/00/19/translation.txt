@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「おはよ。あんた、さっきすごく大きなあくびしてたでしょ。見てたわよ。ふふっ」=“Morning. You were having a really big yawn just then, weren't you? I was watching. Fufu--”
+//「おはよ。あんた、さっきすごく大きなあくびしてたでしょ。見てたわよ。ふふっ」=

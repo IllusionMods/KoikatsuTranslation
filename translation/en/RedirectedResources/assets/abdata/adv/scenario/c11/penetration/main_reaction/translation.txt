@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「あら！　そんなとこに居るなんて……」=“My! To think you'd be in such a place...”
+//「あら！　そんなとこに居るなんて……」=

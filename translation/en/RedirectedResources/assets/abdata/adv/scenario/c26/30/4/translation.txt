@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「……別にいいけど」="...I'm doing okay."
-「ありがとう。今やってるとこが難しくてさ……」="Thank you. This is kind of difficult..."
-「……多少は、教えられる。私に分かる範囲なら……」="...We learned this in class. If I can just figure out what to do..."
+//「……別にいいけど」=
+//「ありがとう。今やってるとこが難しくてさ……」=
+//「……多少は、教えられる。私に分かる範囲なら……」=

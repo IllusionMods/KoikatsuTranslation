@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「よぉ、随分楽しそーな事してんじゃねーか。　私も混ぜてくれよ、な？」=Yoo, you guys sure look like you're havin' fun. Lemme join in, kay?
+//「よぉ、随分楽しそーな事してんじゃねーか。　私も混ぜてくれよ、な？」=

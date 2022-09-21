@@ -1,21 +1,21 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「カラオケに来るのは久しぶりだわ」=It's been a while since I've come out to karaoke.
-「そうなの？」=That so?
-「友達に誘われたら行くけど、自分からは誘わないもの」=I go when my friends invite me, but I never really plan it myself.
-「なるほどね」=Makes sense.
-「早速、曲を入れましょう。あなたは歌は上手いの？」=Let's put in some songs then. Are you good at singing?
-「うーん……普通じゃないかな？　上手いとも言われたことはないけど。[H名]は上手いの？」=Nnn... about average, I'd say? Never really been told by anyone that I'm particularly good. Are you good at it, [H]?
-「……ふふっ」=...Fufu--
-『何度も何度も何度も何度も迷って つまづいても♪』=『No matter how many, how many, how many, how many times I lose my way♪』
-………………=.........
-…………=......
-……=...
-「……どうだった？」=...How was it?
-「驚いたな。すごく上手いじゃないか」=That was a surprise. You're amazing.
-「ありがと。実はちょっと自信あったのよね」=Thank you. I've always had a bit of confidence in it.
-「[H名]がカラオケ好きだったとはね」=Who could have thought that you liked Karaoke that much?
-「さぁ、次はあなたの番よ。曲はもう入れた？」=Now then, it's your turn next. Put in your songs yet?
-「うう……今のを聞いた後だと歌いづらいな……」=Uu... it's kinda hard to follow up after that performance...
-「大丈夫よ。ほら、頑張って」=It's alright. C'mon, do your best.
+//「カラオケに来るのは久しぶりだわ」=
+//「そうなの？」=
+//「友達に誘われたら行くけど、自分からは誘わないもの」=
+//「なるほどね」=
+//「早速、曲を入れましょう。あなたは歌は上手いの？」=
+//「うーん……普通じゃないかな？　上手いとも言われたことはないけど。[H名]は上手いの？」=
+//「……ふふっ」=
+//『何度も何度も何度も何度も迷って つまづいても♪』=
+//………………=
+//…………=
+//……=
+//「……どうだった？」=
+//「驚いたな。すごく上手いじゃないか」=
+//「ありがと。実はちょっと自信あったのよね」=
+//「[H名]がカラオケ好きだったとはね」=
+//「さぁ、次はあなたの番よ。曲はもう入れた？」=
+//「うう……今のを聞いた後だと歌いづらいな……」=
+//「大丈夫よ。ほら、頑張って」=

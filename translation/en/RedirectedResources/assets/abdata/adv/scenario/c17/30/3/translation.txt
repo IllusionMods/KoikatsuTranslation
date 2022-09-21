@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「別にいいけれど。男子と一緒に帰るなんて初めてだわ」=“I don't really mind. It's my first time walking home with a boy.”
-「大丈夫？　なんかすごく緊張してるように見えるけど……」=“Are you ok? You look really nervous...”
-「わ、私は緊張してなんかないわよ……」=“I-I'm not nervous at all...”
+//「別にいいけれど。男子と一緒に帰るなんて初めてだわ」=
+//「大丈夫？　なんかすごく緊張してるように見えるけど……」=
+//「わ、私は緊張してなんかないわよ……」=

@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「あたしにプレゼント?　おおー、期待しちゃうぞ？」=“A present for me? Ooh, you're gonna make a girl hopeful, you know?”
+//「あたしにプレゼント?　おおー、期待しちゃうぞ？」=

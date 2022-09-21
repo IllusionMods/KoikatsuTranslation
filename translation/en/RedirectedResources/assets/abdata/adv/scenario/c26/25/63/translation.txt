@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「……ここが、[P]の部屋……」=“...This is, your room...”
-「……なんか、嬉しい」=“...Makes me, kinda happy.”
-「[P]、私としたいの？　……うん、いいよ。私も触れ合いたいから……」=“You wanna do it with me, [P]? ...Yeah, okay. I want you to touch you too, so...”
+//「……ここが、[P]の部屋……」=
+//「……なんか、嬉しい」=
+//「[P]、私としたいの？　……うん、いいよ。私も触れ合いたいから……」=

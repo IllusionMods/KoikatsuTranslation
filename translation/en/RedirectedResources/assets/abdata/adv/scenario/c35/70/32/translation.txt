@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「あ、ありがとう。君が選んでくれたもの、大切にするけんね」=T-Thanks. You picked this out for me, so I'll have to treasure it.
+//「あ、ありがとう。君が選んでくれたもの、大切にするけんね」=

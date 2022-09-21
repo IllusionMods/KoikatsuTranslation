@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-身長計=Height Scale
-座高計=Seated Height Scale
-体重計=Weight Scale
-視力検査機=Eyesight Chart
-洗面器台=Washbowl Stand
+//身長計=
+//座高計=
+//体重計=
+//視力検査機=
+//洗面器台=

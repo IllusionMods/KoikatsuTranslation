@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-なし=None
-ほそロング=Fine And Long
-おさげ=Twintails
-太い=Thick
-ふとロング=Thick And Long
-はねロング=Feathered Long
-ウェーブロング=Wavy Long
+//なし=
+//ほそロング=
+//おさげ=
+//太い=
+//ふとロング=
+//はねロング=
+//ウェーブロング=

@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「あ、[H名]！　お待たせ！」=“Ah, [H]! Sorry for the wait!”
-「クックック……汝よ、よくぞ来た。逃げずに我の前へ現れたこと、褒めてやろう……」=“Kuh kuh kuh... good that thou made it. Some praise is in order, it takes some will to not run away out of sheer terror...”
-（な、なんだろうこのキャラは……魔王か何かかな？）=(W-What's this character now... is she playing at being Satan or whatever?)
-「あはは、せっかくのデートだからね……それじゃ、行こうか」=“Ahahah, well, we have date plans to follow through, afterall... let's go then.”
-「う、うむっ！」=“U-Umu--!”
+//「あ、[H名]！　お待たせ！」=
+//「クックック……汝よ、よくぞ来た。逃げずに我の前へ現れたこと、褒めてやろう……」=
+//（な、なんだろうこのキャラは……魔王か何かかな？）=
+//「あはは、せっかくのデートだからね……それじゃ、行こうか」=
+//「う、うむっ！」=

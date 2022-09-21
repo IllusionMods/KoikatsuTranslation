@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「ええ、いいわよ。初めてのことで、ちょっとだけ緊張してるけどよろしくね」=Yeah, that's fine. Since it's my first time I'm a bit nervous but please take care of me.
-「そうなの？」=Really? First time?
-「だって男の子と帰る機会なんて、キミと出会うまでなかったんだもの」=Well, I mean, I never had a chance to go home with a boy before I met you.
+//「ええ、いいわよ。初めてのことで、ちょっとだけ緊張してるけどよろしくね」=
+//「そうなの？」=
+//「だって男の子と帰る機会なんて、キミと出会うまでなかったんだもの」=

@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「はぁ、気持ち良かった……また、やろうね……？」=“Haa, that felt great... let's, do it again sometime, okay...?”
+//「はぁ、気持ち良かった……また、やろうね……？」=

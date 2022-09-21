@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「[H名]って、意外と大胆なんだね……」=“You're pretty bold, huh, [H]...”
-「だって……あんたのアソコ、あたしがしてあげなきゃ降りる時までにおさまらなかったでしょ？」=“I mean... if I didn't do it right now, your dick wouldn't have gone down by the time we got to the station, no?”
-「……なんか、言ってること、すごくない？」=“...You realize what you're saying? It's kinda amazing.”
-「言われてみれば……やだっ！　もう、恥ずかしいこと言わせないでよっ！」=“Now that you say it... gosh--! Jeez, don't make me say such embarrassing things--!”
-「なぜ俺が怒られる……？」=“Why am I the villain here...?”
+//「[H名]って、意外と大胆なんだね……」=
+//「だって……あんたのアソコ、あたしがしてあげなきゃ降りる時までにおさまらなかったでしょ？」=
+//「……なんか、言ってること、すごくない？」=
+//「言われてみれば……やだっ！　もう、恥ずかしいこと言わせないでよっ！」=
+//「なぜ俺が怒られる……？」=

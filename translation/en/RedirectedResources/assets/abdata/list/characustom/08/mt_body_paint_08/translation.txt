@@ -1,12 +1,12 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-バーコード=Barcode
-ターゲット=Target
-CAUTION=CAUTION
-DANGER=DANGER
-WARNING=WARNING
-００=00
-０１=01
-０２=02
-０３=03
+//バーコード=
+//ターゲット=
+//CAUTION=
+//DANGER=
+//WARNING=
+//００=
+//０１=
+//０２=
+//０３=

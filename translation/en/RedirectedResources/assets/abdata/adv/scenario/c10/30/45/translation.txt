@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「……まだ、少しズキズキ痛い……。でも、あなたに初めてを捧げられて……うれしいです」=“...It still hurts a little bit... but I'm happy that I gave you my first time...”
+//「……まだ、少しズキズキ痛い……。でも、あなたに初めてを捧げられて……うれしいです」=

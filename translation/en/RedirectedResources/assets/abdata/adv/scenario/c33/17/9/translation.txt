@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「いいわよ」=Sure.
-「やった！　じゃあ俺、喜んでもらえるように頑張るから、期待し――」=Yay! Then, I'll work hard so that you have a good time, so look forward to--
-「もう、肩の力入りすぎ。普通でいいの普通で。あなたと過ごせるだけで私は楽しいんだから」=Jeez, you're getting too worked up. Just go about it normally, alright? Just being able to spend time with you is fun for me.
-「[H名]さん……そう言われると照れくさいよ」=[H名]-san... Hearing you say that is really embarrassing.
-「ふふ、顔を赤くさせるつもりで言ったのだから、照れてもらわないと逆に困るわ」=Fufu, I said it with the intention to see you blushing, if you didn't get embarrased, then I'd be the one with my face red instead.
+//「いいわよ」=
+//「やった！　じゃあ俺、喜んでもらえるように頑張るから、期待し――」=
+//「もう、肩の力入りすぎ。普通でいいの普通で。あなたと過ごせるだけで私は楽しいんだから」=
+//「[H名]さん……そう言われると照れくさいよ」=
+//「ふふ、顔を赤くさせるつもりで言ったのだから、照れてもらわないと逆に困るわ」=

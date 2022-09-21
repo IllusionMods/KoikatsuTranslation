@@ -1,11 +1,11 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「……あ、あのっ……！」=...U-Uhm--...!
-「えっ、どうしたの[H姓]さん？」=Eh--, what's the matter, [H姓]-san?
-「その……あなたは、本に興味があったりする？」=It's... are you, at all interested in books?
-「もしよかったら、今度あなたが興味のありそうな本を紹介しようかなって……」=I was thinking of maybe recommending you some books that you might find interesting, only if you're alright with it though...
-「本当に？　ちょうど、何か面白い本がないかなって思ってたんだ」=Really? I was just craving for something fun to read myself.
-「よかった……私ができることってこれくらいしかないから……」=Thank goodness... this is the only thing I can help you with so...
-「すごく嬉しいよ。じゃあ、お願いしちゃってもいいかな？」=I'm really happy. Well then, mind if I ask for a rec then?
-「う、うん！　次に会う時までに選んでおくね！」=S-Sure! I'll find something for you and tell you when we see each other next.
+//「……あ、あのっ……！」=
+//「えっ、どうしたの[H姓]さん？」=
+//「その……あなたは、本に興味があったりする？」=
+//「もしよかったら、今度あなたが興味のありそうな本を紹介しようかなって……」=
+//「本当に？　ちょうど、何か面白い本がないかなって思ってたんだ」=
+//「よかった……私ができることってこれくらいしかないから……」=
+//「すごく嬉しいよ。じゃあ、お願いしちゃってもいいかな？」=
+//「う、うん！　次に会う時までに選んでおくね！」=

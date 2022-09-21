@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「おい、もっとちゃんと押せよ！　これじゃ柔軟運動になんねぇだろ」=Oi, push harder, come on! Aren't we here to build flexibility?
-「ご……ごめん……」=S... Sorry...
-「お前何か遠慮してねぇか？」=Are you holding back on me?
-「い……いやそういうわけではないんだけど……」=N... Not really...
-「だったらもっとしっかり押してくれ！」=Then push harder, come on!
+//「おい、もっとちゃんと押せよ！　これじゃ柔軟運動になんねぇだろ」=
+//「ご……ごめん……」=
+//「お前何か遠慮してねぇか？」=
+//「い……いやそういうわけではないんだけど……」=
+//「だったらもっとしっかり押してくれ！」=

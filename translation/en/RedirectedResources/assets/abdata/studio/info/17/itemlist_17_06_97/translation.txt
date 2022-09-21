@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-雪の結晶(キャラ)=Snowflake (Character)
-雪の結晶ステッキ=Snowflake Wand
-サンタ帽子=Santa Hat
-クリスマスリボン=Christmas Ribbon
+//雪の結晶(キャラ)=
+//雪の結晶ステッキ=
+//サンタ帽子=
+//クリスマスリボン=

@@ -1,17 +1,17 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「うぃ～……ここに来るまでで、既にダルくなってきたっす……」=Uui~... I'm already tired out, just from coming here...
-「まぁまぁ、歌えばストレス解消になるよ」=Now-now, you'll be able to vent all that stress by singing.
-「そういえば、[H名]はカラオケによく来るの？」=On that note though, do you come out to Karaoke often, [H名]?
-「ん～、疲れるし友達とも、ほとんど行かないかな～」=Nn~, it's tiring and stuff, and I don't really go out much with my friends~
-「……まぁ、でも。[P名]となら……話は別だけど～……」=...But, well. With you, [P名]... the story's a bit different~...
-「えっ、それってどういう事……？」=Eh--, what do you mean...?
-「別に深い意味はないよ～。それより、どっちが先に歌う～？」=I don't mean anything in particular by that~. Rather than that, who's gonna go first~?
-「そっちから歌ってほしいな。[H名]がどんな歌声か気になるし」=I'd love it if you started us off. I'm curious about just sort of a singing voice you have too, [H名].
-「え～、初っ端は恥ずかしいんだけど～」=Eh~, it's embarrassing to be the very first one~
-「大丈夫、俺も音痴だから。お互い様だよ」=It's alright, I'm tone-deaf too. We're both in the same boat.
-「音痴って、勝手に決めつけないでよ～。もう、仕方ないな～」=Don't label me tone-deaf just like that, jeez~. Guess it can't be helped~
-「おっ、やった！　歌ってくれるんだ！」=Oh--, Yay! You're gonna sing then!
-『もしも今背中に羽が生えて大空自由に飛び回れたら～♪』=『If only I could, sprout wings from my back, and fly freely, in this wide open sky~♪』
-（……なんか、[H名]が歌ってる姿って……グッとくるな）=(...Seeing her singing, it kinda... it makes feel stuff)
+//「うぃ～……ここに来るまでで、既にダルくなってきたっす……」=
+//「まぁまぁ、歌えばストレス解消になるよ」=
+//「そういえば、[H名]はカラオケによく来るの？」=
+//「ん～、疲れるし友達とも、ほとんど行かないかな～」=
+//「……まぁ、でも。[P名]となら……話は別だけど～……」=
+//「えっ、それってどういう事……？」=
+//「別に深い意味はないよ～。それより、どっちが先に歌う～？」=
+//「そっちから歌ってほしいな。[H名]がどんな歌声か気になるし」=
+//「え～、初っ端は恥ずかしいんだけど～」=
+//「大丈夫、俺も音痴だから。お互い様だよ」=
+//「音痴って、勝手に決めつけないでよ～。もう、仕方ないな～」=
+//「おっ、やった！　歌ってくれるんだ！」=
+//『もしも今背中に羽が生えて大空自由に飛び回れたら～♪』=
+//（……なんか、[H名]が歌ってる姿って……グッとくるな）=

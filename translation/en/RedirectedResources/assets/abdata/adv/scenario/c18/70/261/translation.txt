@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「気持ちよかったですか……？」=Did it feel good...?
-「うん……それにびっくりした」=Yeah... Still, that was really surprising.
-「お、押し付けてくるほうが悪いんですっ」=D-Don't pin it on me--
+//「気持ちよかったですか……？」=
+//「うん……それにびっくりした」=
+//「お、押し付けてくるほうが悪いんですっ」=

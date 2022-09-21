@@ -1,22 +1,22 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-プルルル……=*Ring Ring*......
-「きっと１０分前の延長確認の電話ね。どうする？　私はどっちでも大丈夫よ」=I bet that's the call to ask if we want to extend the slot. What do you want to do? I'm fine either way myself.
-CHOICE:『延長したいな』=『I want to extend it』
-CHOICE:『延長はいいかな』=『I think we should call it a day』
-「[H名]さんがいいなら、もうちょっと歌いたいな」=If you're fine with it, [H名]-san, then I'd like to sing a bit more.
-ガチャ……=*Clack*...
-「はい……ええ、延長でお願いします……ああ、いえ、そちらのプランは結構です、はい、それでは……」=Yes... Yes, please extend it... Ah, No, that plan is fine, yes, thank you...
-（敬語の[H名]さんって貴重だな。いいもの聞けたぞ）=(It's rare to see [H名]-san speaking so formally. I got to hear something good today)
-「延長はいいかな、そろそろ帰ろう……はい、もしもし……いえ、延長は大丈夫です。はい、わかりました」=I think we've sang enough for today, let's go home... Hello, Yes... No, we don't want to extend. Yes, understood.
-「簡単にだけど掃除しておいたわ。出る前に、ちょっとお化粧を直してもいい？」=It wasn't much but I cleaned up our mess. Before we go, can I fix my make-up real quick?
-「うん、わかった。俺は会計を済ませておくよ」=Yeah, take your time. I'll go settle the bill.
-「延長はいいかな、この時間いっぱいで十分だ。ってことで……はい、もしもし……はい、はい、わかりました。ふぅ……」=I think we've sang enough for today, so let's not extend. So... Hello, yes... Yes, yes, Understood. Fuu...
-「ねえ、最後は私が歌ってもいいかしら？　ほんのちょっとだけ歌い足りない気分だったの」=Hey, can I sing the last song? I feel just a tad bit unsatisfied still.
-「もちろん！　あ、でもリクエストしてもいいかな？」=Of course! Ah, can I request a specific song though?
-「譲ってもらったんだもの。喜んで応えるわ」=You gave me the final song, so I'm happy to oblige.
-「やった！　えーっと、どうしよう……カッコイイ曲もいいけど…………やっぱりこれかな！」=Great! Errhm, which one do I pick... A cool song would be fine too but... Yeah, gotta go for this one!
-「入れたよ！」=I put it in the queue!
-『もしも今 背中に羽が生えて 大空自由に 飛び回れたら～♪』=『If only I could sprout wings from my back and fly freely in the wide open sky right now♪』
-（ん～、何度聞いてもすごい美声……うっとりするなぁ）=(Nn~, No matter how many times I listen to it, she has an amazingly beautiful voice... So enchanting)
+//プルルル……=
+//「きっと１０分前の延長確認の電話ね。どうする？　私はどっちでも大丈夫よ」=
+//CHOICE:『延長したいな』=
+//CHOICE:『延長はいいかな』=
+//「[H名]さんがいいなら、もうちょっと歌いたいな」=
+//ガチャ……=
+//「はい……ええ、延長でお願いします……ああ、いえ、そちらのプランは結構です、はい、それでは……」=
+//（敬語の[H名]さんって貴重だな。いいもの聞けたぞ）=
+//「延長はいいかな、そろそろ帰ろう……はい、もしもし……いえ、延長は大丈夫です。はい、わかりました」=
+//「簡単にだけど掃除しておいたわ。出る前に、ちょっとお化粧を直してもいい？」=
+//「うん、わかった。俺は会計を済ませておくよ」=
+//「延長はいいかな、この時間いっぱいで十分だ。ってことで……はい、もしもし……はい、はい、わかりました。ふぅ……」=
+//「ねえ、最後は私が歌ってもいいかしら？　ほんのちょっとだけ歌い足りない気分だったの」=
+//「もちろん！　あ、でもリクエストしてもいいかな？」=
+//「譲ってもらったんだもの。喜んで応えるわ」=
+//「やった！　えーっと、どうしよう……カッコイイ曲もいいけど…………やっぱりこれかな！」=
+//「入れたよ！」=
+//『もしも今 背中に羽が生えて 大空自由に 飛び回れたら～♪』=
+//（ん～、何度聞いてもすごい美声……うっとりするなぁ）=

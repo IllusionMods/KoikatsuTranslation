@@ -1,13 +1,13 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「今日も一日、とても素敵な時間を過ごせました。ありがとうございます」=I had an absolutely lovely time today too. Thank you very much.
-CHOICE:『あと少しだけ時間ある？』=『Do you still have some time?』
-CHOICE:『俺も楽しかったよ』=『I had fun too.』
-「こちらこそ。それでさ[H名]、あと少しだけ時間あるかな？」=I should be saying that. So then, [H名], do you still have some time?
-「ええ、大丈夫です。あまり遅くならなければ」=Yes, I'm good on time. As long as it doesn't get too dark.
-「よかった。最後に[H名]と一緒に見たいものがあるんだ。ついてきて」=Great. I wanna see something together with you, before we close off the day. Come with me.
-「俺もだよ。でももうちょっとだけ一緒にいられるけどね」=Me too. But, we can still be together, for a bit longer.
-「はい。お別れする瞬間まではデートですよね」=Yes. We're still out on date, all the way up until we say goodbye.
-「そういうこと。だから――はい」=Exactly. That's why--- here.
-「ええ、手を繋いでいきましょう」=Yes, let's walk hand-in-hand.
+//「今日も一日、とても素敵な時間を過ごせました。ありがとうございます」=
+//CHOICE:『あと少しだけ時間ある？』=
+//CHOICE:『俺も楽しかったよ』=
+//「こちらこそ。それでさ[H名]、あと少しだけ時間あるかな？」=
+//「ええ、大丈夫です。あまり遅くならなければ」=
+//「よかった。最後に[H名]と一緒に見たいものがあるんだ。ついてきて」=
+//「俺もだよ。でももうちょっとだけ一緒にいられるけどね」=
+//「はい。お別れする瞬間まではデートですよね」=
+//「そういうこと。だから――はい」=
+//「ええ、手を繋いでいきましょう」=

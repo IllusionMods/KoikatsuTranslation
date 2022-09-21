@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「初めての相手があんたで良かった……ふふっ、ホントよ？」=“I'm glad you were my first... fufu--, I'm serious, you know?”
+//「初めての相手があんたで良かった……ふふっ、ホントよ？」=

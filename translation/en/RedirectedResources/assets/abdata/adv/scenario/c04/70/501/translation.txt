@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-（さて……ちょっと早すぎたかな……待ち合わせの時間までまだ３０分もある……）=(Now then... did I come here a bit too early... there's still 30 minutes till we said we'd meet up...)
-………………=.........
-「お待たせ。今日は随分と早いわね」=Sorry for the wait. You're here early today.
-「うん、今日のデートが楽しみでね、大分早く来ちゃったんだ」=Yeah, I was really looking forward to our date, you see, so I came here quite early.
-「ふふふ……まるで遠足の朝の子供みたいね」=Fufufu... like a kid on the day of a field trip.
-「まあ、気分的には同じようなもんかな」=Well, you're right about that.
-「それじゃあ、行こうか」=Well then, let's go.
+//（さて……ちょっと早すぎたかな……待ち合わせの時間までまだ３０分もある……）=
+//………………=
+//「お待たせ。今日は随分と早いわね」=
+//「うん、今日のデートが楽しみでね、大分早く来ちゃったんだ」=
+//「ふふふ……まるで遠足の朝の子供みたいね」=
+//「まあ、気分的には同じようなもんかな」=
+//「それじゃあ、行こうか」=

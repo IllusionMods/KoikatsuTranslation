@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「んーっ、よく寝た。……あれ？　メモがある。なになに――」=Nnn--, I slept well. ...Huh? There's a note. Let's see---
-『[P]君へ。今日は日直だから、先に学園に行ってきます』=『To [P]-kun. I have day duty today, so I shall be heading out first.』
-『朝食はしっかり食べて、遅刻しないように気を付けてください。それでは学園で』=『Make sure to eat your breakfast, and be careful to not be late. See you at school.』
-『あなたへの愛をこめて……。[H]より』=『With all my love, for you... - [H]』
+//「んーっ、よく寝た。……あれ？　メモがある。なになに――」=
+//『[P]君へ。今日は日直だから、先に学園に行ってきます』=
+//『朝食はしっかり食べて、遅刻しないように気を付けてください。それでは学園で』=
+//『あなたへの愛をこめて……。[H]より』=

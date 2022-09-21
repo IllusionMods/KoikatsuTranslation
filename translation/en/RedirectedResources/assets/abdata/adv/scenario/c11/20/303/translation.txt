@@ -1,18 +1,18 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「あらあら、もうすぐ時間ね。そろそろおいとましなきゃ」=“Dearie me, our time's almost up. We gotta go home soon.”
-CHOICE:『もう少し歌いたいな』=I wanna sing some more.
-CHOICE:『そうだね、帰る準備をしよう』=Right. Let's get ready to leave.
-「俺、もう少し歌いたいんだけど……ダメ？」=“I want to keep singing with you a bit more... could we?”
-「延長したいの？　いいわ、それじゃあフロントに電話をしないとね」=“You want to extend our slot? Sure, we'll have to put in the call for it soon though.”
-「ありがと！」=“Thanks!”
-「だね。帰る準備しないと」=“Right. We gotta get ready to head out.”
-「じゃ、ちょっとお片付けをしましょう。『立つ鳥跡を濁さず』の精神よ」=“Then, let's clean up a bit. It's just manners to clean up after yourself.”
-「だね。それじゃあ帰る仕度を……あっ、でももう少しだけ時間あるよ」=“Yep. Well then, let's get our stuff ready... ah--, we still have some time left.”
-「せっかくだし、最後に[H名]が歌ったら？」=“We're here anyway, so why not sing one last song? You can have it.”
-「あら？　私でいいのかしら？」=“Oh? You sure?”
-「うん、[H名]の歌声が聞きたいんだ」=“Yeah, I want to hear that sweet voice again, [H].”
-「ふふ、そういうことなら一生懸命歌うわね。えっと……うん、この曲にするわ」=“Fufu, I'll have to pull out all the stops then. Erhm... yeah, this song will do.”
-『もしも今 背中に羽が生えて 大空自由に 飛び回れたら～♪』=『If only I could, sprout wings from my back, and fly freely, in this wide open sky~♪』
-（うん……何度聞いてもいい声だ）=(Yeah... that voice never gets old.)
+//「あらあら、もうすぐ時間ね。そろそろおいとましなきゃ」=
+//CHOICE:『もう少し歌いたいな』=
+//CHOICE:『そうだね、帰る準備をしよう』=
+//「俺、もう少し歌いたいんだけど……ダメ？」=
+//「延長したいの？　いいわ、それじゃあフロントに電話をしないとね」=
+//「ありがと！」=
+//「だね。帰る準備しないと」=
+//「じゃ、ちょっとお片付けをしましょう。『立つ鳥跡を濁さず』の精神よ」=
+//「だね。それじゃあ帰る仕度を……あっ、でももう少しだけ時間あるよ」=
+//「せっかくだし、最後に[H名]が歌ったら？」=
+//「あら？　私でいいのかしら？」=
+//「うん、[H名]の歌声が聞きたいんだ」=
+//「ふふ、そういうことなら一生懸命歌うわね。えっと……うん、この曲にするわ」=
+//『もしも今 背中に羽が生えて 大空自由に 飛び回れたら～♪』=
+//（うん……何度聞いてもいい声だ）=

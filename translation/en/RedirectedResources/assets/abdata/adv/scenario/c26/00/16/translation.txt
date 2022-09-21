@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-（ん？　昨日はあの後すぐ寝ちゃったのか、……っていうか、何だか下半身がムズムズして……）=(Hm? Did I fall asleep right after that... forget that, my crotch feels kinda weird...)
-「って、うおっ！？」=“Wuh, Uwoh--!?”
-「……あっ、起きた」=“...Ah--, you're up.”
-「[H]！？　あ、朝から何して……！」=“[H]!? W-What're you doing, first thing...!”
-「……？　[P]のむすこが辛そうだったから、慰めてあげようと思って……」=“...? Your little son seemed to be having a rough time, so I thought I'd soothe him...”
+//（ん？　昨日はあの後すぐ寝ちゃったのか、……っていうか、何だか下半身がムズムズして……）=
+//「って、うおっ！？」=
+//「……あっ、起きた」=
+//「[H]！？　あ、朝から何して……！」=
+//「……？　[P]のむすこが辛そうだったから、慰めてあげようと思って……」=

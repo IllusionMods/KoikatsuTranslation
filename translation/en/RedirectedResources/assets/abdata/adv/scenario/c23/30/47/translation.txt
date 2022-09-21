@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「なんか……気持ち良かったよ。体が浮かんでるみたいだなぁ」=“That kinda... felt amazing. It feels like my body's floating~”
+//「なんか……気持ち良かったよ。体が浮かんでるみたいだなぁ」=

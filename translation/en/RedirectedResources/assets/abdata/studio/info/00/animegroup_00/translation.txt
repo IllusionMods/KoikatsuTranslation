@@ -1,11 +1,11 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-キャラ=Character
-スタジオ=Studio
-H愛撫=H-Caressing
-女H奉仕=Girl Service
-男H奉仕=Male Service
-女H挿入=Girl Insertion
-男H挿入=Male Insertion
-H特殊=Special H
+//キャラ=
+//スタジオ=
+//H愛撫=
+//女H奉仕=
+//男H奉仕=
+//女H挿入=
+//男H挿入=
+//H特殊=

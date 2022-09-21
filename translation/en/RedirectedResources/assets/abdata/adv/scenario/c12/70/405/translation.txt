@@ -1,22 +1,22 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「普通の喫茶店だから、オムライスにケチャップアートとかはないんだね」=“It's just a regular cafe so, I guess they don't really draw any ketchup art on the omurice.”
-「ケチャップアートって、あの文字書いたりするやつだろ？　ＬＯＶＥとかさ」=“You mean that stuff where they write on it with ketchup, right? "LOVE" and whatnot.”
-「いいよね、ああいうの。[H名]にやってもらったりしたら、かなり感動する思う」=“It's nice, isn't it? If you did that for me, I'd be pretty moved, you know?”
-「そんなにもの欲しそうな目をしなくても、いつか機会があったらやってるよ」=“I'll do it for you if I ever get the chance, so stop staring at me with so much desire.”
-「ほんとに！　やった、約束したからね？」=“Really?! Yay, it's a promise, okay?”
-「はいはい、約束な。今はもうケチャップかかっちゃってるから、また今度」=“Yes yes, I promise. There's already ketchup on yours so, next time, okay?”
-「うーん、残念。じゃあさ『あーん』してくれない？」=“Nnnn, shame. How about feeding it to me instead then?”
-「んなっ、どうしてそうなるんだよ。まったく仕方ない奴だなぁ……」=“Wha--, why does it always come to this? There really is no helping you~...”
-「おっ、やってくれるの？　[H名]大好き！」=“Oh--, you'll do it? I love you~!”
-「こらっ、その台詞はまだ早いだろ。食べさせてやってから言えよ」=“Hey--, I haven't fed you yet, you know? Save it for after I do.”
-「大丈夫、もう一回言うから。むしろ[H名]が言って欲しいなら、何回でも言うよ」=“It's alright, I'll say it again then. If you want me to say it, I'll say it as many times as you want.”
-「そんなに何回も言ったら、価値が薄くなるだろ。そういうのは、ここぞという時に言うんだよ」=“If you overuse it like that, it'll lose its meaning. You should save stuff like that only for important moments.”
-「そっか、それもそうだね。じゃあ、今日はあと一回にしておく」=“I see, that's true too. Then, I'll only say it once more today.”
-「そうしておけ。ほら、あーんして欲しいんだろ？　早く口を開け」=“Good. C'mon, you want me to feed you, no? Open your mouth.”
-「やった！　あ～～ん」=“Yay! Aaaahn~”
-「まだちょっと熱いから、気を付けて食べろよ？　口の中、火傷したりしないようにな」=“It's still a bit hot so, be careful, okay? Don't burn yourself.”
-「はむっ……」=“*Bite*...”
-「うんっ、大丈夫……んくっ、すっごい美味い！　[H名]大好き！」=“Yeah--, it's fine... nnkuh--, it's super good! I love you, [H]~!”
-「取って付けたように言うなって……まぁ、嬉しいけどさ。へへっ、あたしも大好きだよ」=“Don't say it so frivolously... well, not that it doesn't make me happy. Heheh--, I love you too.”
+//「普通の喫茶店だから、オムライスにケチャップアートとかはないんだね」=
+//「ケチャップアートって、あの文字書いたりするやつだろ？　ＬＯＶＥとかさ」=
+//「いいよね、ああいうの。[H名]にやってもらったりしたら、かなり感動する思う」=
+//「そんなにもの欲しそうな目をしなくても、いつか機会があったらやってるよ」=
+//「ほんとに！　やった、約束したからね？」=
+//「はいはい、約束な。今はもうケチャップかかっちゃってるから、また今度」=
+//「うーん、残念。じゃあさ『あーん』してくれない？」=
+//「んなっ、どうしてそうなるんだよ。まったく仕方ない奴だなぁ……」=
+//「おっ、やってくれるの？　[H名]大好き！」=
+//「こらっ、その台詞はまだ早いだろ。食べさせてやってから言えよ」=
+//「大丈夫、もう一回言うから。むしろ[H名]が言って欲しいなら、何回でも言うよ」=
+//「そんなに何回も言ったら、価値が薄くなるだろ。そういうのは、ここぞという時に言うんだよ」=
+//「そっか、それもそうだね。じゃあ、今日はあと一回にしておく」=
+//「そうしておけ。ほら、あーんして欲しいんだろ？　早く口を開け」=
+//「やった！　あ～～ん」=
+//「まだちょっと熱いから、気を付けて食べろよ？　口の中、火傷したりしないようにな」=
+//「はむっ……」=
+//「うんっ、大丈夫……んくっ、すっごい美味い！　[H名]大好き！」=
+//「取って付けたように言うなって……まぁ、嬉しいけどさ。へへっ、あたしも大好きだよ」=

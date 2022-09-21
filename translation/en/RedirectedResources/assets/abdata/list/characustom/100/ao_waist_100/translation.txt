@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-浮き輪=Swimming Ring
-浮き輪(ドーナツ)=Swimming Ring (Donut)
-浮き輪(猫)=Swimming Ring (Cat)
-サイドドレープ=Side Drapes
+//浮き輪=
+//浮き輪(ドーナツ)=
+//浮き輪(猫)=
+//サイドドレープ=

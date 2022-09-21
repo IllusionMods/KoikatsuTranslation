@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「君がやっている部活なのよね？　もちろん、入らせてもらうわ」=This is your club, isn't it? I'll have you put me on the register.
-「ホント？　ありがとう！」=For real? Thanks!
-「それで、どこまでできるの？」=Well then, how far can we go?
-「えっ……どこまで、って？」=Eh--... "how far"?
-「Ａ？　それともＢ？　カップル成立はあり得る？」=First base? Or Second base? Can we become a couple by the end?
-「う、うーん……そこまで詳しくはまだ考えてないかな……」=M-Mmm... I haven't really thought that far ahead just yet.
-「そうなの。それじゃ、私と一緒にどんどん開拓していきましょ♪」=I see. Well then, let's pioneer a new path together♪
+//「君がやっている部活なのよね？　もちろん、入らせてもらうわ」=
+//「ホント？　ありがとう！」=
+//「それで、どこまでできるの？」=
+//「えっ……どこまで、って？」=
+//「Ａ？　それともＢ？　カップル成立はあり得る？」=
+//「う、うーん……そこまで詳しくはまだ考えてないかな……」=
+//「そうなの。それじゃ、私と一緒にどんどん開拓していきましょ♪」=

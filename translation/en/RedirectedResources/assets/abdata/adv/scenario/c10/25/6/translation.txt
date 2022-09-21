@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「汝、どこへいくつもりだ？」=“Where art we going?”
-「いいからいいから」=“Just come with me.”
-「うぅ……変なところじゃないよね……？」=“Uuu... it's nowhere weird, right...?”
+//「汝、どこへいくつもりだ？」=
+//「いいからいいから」=
+//「うぅ……変なところじゃないよね……？」=

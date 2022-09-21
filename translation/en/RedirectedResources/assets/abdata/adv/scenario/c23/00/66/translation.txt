@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「噴水があるね」=“There's a fountain, huh?”
-「えぇ、見てるとおちつくなぁ。それに重要なモニュメントでもあるし」=“Yes, looking at them really calms me down. Not to mention, they're very important landmarks.”
-「えっ、重要って？」=“Eh--, important?”
-「えぇ、よくやるオンラインゲーで、ワープのポイントとして使われているんだ」=“Yes, they're used as warp points in the MMO I play.”
-「うーん、いろんな見かたがあるんだね」=“Nnnn, all sorts of ways to look at them, huh?”
+//「噴水があるね」=
+//「えぇ、見てるとおちつくなぁ。それに重要なモニュメントでもあるし」=
+//「えっ、重要って？」=
+//「えぇ、よくやるオンラインゲーで、ワープのポイントとして使われているんだ」=
+//「うーん、いろんな見かたがあるんだね」=

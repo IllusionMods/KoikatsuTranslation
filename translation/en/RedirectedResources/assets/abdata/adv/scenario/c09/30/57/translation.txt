@@ -1,12 +1,12 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「こういうふうに一緒に歩くの、なんか新鮮よね。で、どこに連れてってくれるの？」=“Walking together like this, it feels kinda fresh, doesn't it? So, where are you gonna take me?”
-「どこか行きたいところはある？」=“Got any place you wanna check out?”
-「どこだっていいわよ。あんたの行きたいところで」=“Any place is fine. Wherever you wanna go.”
-「わかった。じゃあ、あっちへ行ってみようか」=“Got it. Then, let's try heading there.”
-「ふう……！　疲れたぁ～」=“Fuu...! I'm beat~”
-「ほんとにね。ごめんね、ずいぶんと歩かせちゃって」=“For real. Sorry, didn't mean to make you walk so much.”
-「んーん、大丈夫。むしろなんだか、時間がはやく感じちゃった」=“Nnn, it's alright. If anything, time felt like it flew by fast.”
-（よかった。満足してくれたみたいだ……よし、この調子でどんどん行くぞ！）=(Great. Seems that she's satisfied... alright, let's keep this show going!)
-「今日は、ありがとう。とてもいい思い出になったわ。じゃあね！」=“Thanks, for today. I made some really good memories. See ya!”
+//「こういうふうに一緒に歩くの、なんか新鮮よね。で、どこに連れてってくれるの？」=
+//「どこか行きたいところはある？」=
+//「どこだっていいわよ。あんたの行きたいところで」=
+//「わかった。じゃあ、あっちへ行ってみようか」=
+//「ふう……！　疲れたぁ～」=
+//「ほんとにね。ごめんね、ずいぶんと歩かせちゃって」=
+//「んーん、大丈夫。むしろなんだか、時間がはやく感じちゃった」=
+//（よかった。満足してくれたみたいだ……よし、この調子でどんどん行くぞ！）=
+//「今日は、ありがとう。とてもいい思い出になったわ。じゃあね！」=

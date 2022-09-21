@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「[H名]、おはよう！」=“Morning, [H]!”
-「おはようございます。本日が来るのをずっと心待ちにしてました」=“Good morning. I've been waiting for this day for so long.”
-「俺もだよ！　じゃあ、さっそく行こうか」=“Me too! Well then, let's go right away.”
-（時間は有限だし、[H名]との今日を思い切り楽しもう！）=(We don't have unlimited time, let's enjoy this day as much as we can!)
+//「[H名]、おはよう！」=
+//「おはようございます。本日が来るのをずっと心待ちにしてました」=
+//「俺もだよ！　じゃあ、さっそく行こうか」=
+//（時間は有限だし、[H名]との今日を思い切り楽しもう！）=

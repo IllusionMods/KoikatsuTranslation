@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「うー……まだ頑張れないのか？　あたし、満足できてないぞ」=Uuu... can't hold on? I'm still not satisfied, you know?
+//「うー……まだ頑張れないのか？　あたし、満足できてないぞ」=

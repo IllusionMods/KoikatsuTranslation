@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「……ラブホテルって、こんな感じになってるんだなー」=“...So this is what a love hotel's like, huh?”
-「ねぇ、[H名]。そろそろ……いいかな？」=“Hey, [H名]. Could we... start?”
-「えっ、そ、そんなに焦らなくてもいいだろー」=“Eh--, w-we don't need to rush so much, do we?”
-「ごめん。……でも、もう我慢できないんだ。いいかな？」=“Sorry. ...But, I can't hold it in any longer. Could we?”
-「……もう、しょうがないなー。ん、いいぞ……」=“...Jeez, there's no helping you. Nn, go ahead...”
+//「……ラブホテルって、こんな感じになってるんだなー」=
+//「ねぇ、[H名]。そろそろ……いいかな？」=
+//「えっ、そ、そんなに焦らなくてもいいだろー」=
+//「ごめん。……でも、もう我慢できないんだ。いいかな？」=
+//「……もう、しょうがないなー。ん、いいぞ……」=

@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「はふ……いつもと違うのも、たまにはいいかも……♪」=“*pant*... something different like this, might be nice every so often too...♪”
+//「はふ……いつもと違うのも、たまにはいいかも……♪」=

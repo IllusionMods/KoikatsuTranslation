@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-………………=.........
-…………=......
-……=...
-「今日は思った以上に進められたですよ。ありがとうなのです！」=“I made a lot more progress today than I thought I would. Thank you very much!”
+//………………=
+//…………=
+//……=
+//「今日は思った以上に進められたですよ。ありがとうなのです！」=

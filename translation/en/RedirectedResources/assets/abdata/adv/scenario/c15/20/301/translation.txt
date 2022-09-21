@@ -1,21 +1,21 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「ここのカラオケボックスがいいって話を聞いたんだ」=“I've heard that this Karaoke place is really nice.”
-「おぉ、中々良さそうなお店だー」=“Ooh, looks like a pretty nice shop.”
-「なんか物珍しそうにしてるね」=“You seem pretty curious about the place.”
-「カラオケはあんまり来たことないからなー」=“I've never really come out to karaoke before, you see.”
-「ああ、そうなんだね。それじゃあ、もしかしてだけど、歌うの苦手だったりとか？」=“Aah, I see. Don't suppose you're bad at singing or something?”
-「うーん、上手いかどうかはわかんないけど、歌うのは好きだぞ」=“Mmm, I don't know if I'm any good at it or not, but I do love singing.”
-「そっか。それならよかった」=“I see. Glad to hear that.”
-「よし、じゃあ早速歌うぞー！」=“Alright, let's get to singing then!”
-「あっ、[H名]。マイクを持つ前に、まずは曲を選ばないと」=“Ah--, [H名]. Before you grab the mic, you gotta put in some songs first.”
-「そう言えば、そうだったなー。たしかこの機械で……」=“Oh, right. It should be this machine, right?...”
-「そうそう。曲名が決まってるなら、そこから検索すればいいよ」=“Exactly. If you've got a song in mind, then you can just search it up on that.”
-「あたしから選んでいいのか？」=“You sure I should go first?”
-「うん、俺も[H名]の歌が聞きたいし」=“Yeah, I want to hear you sing too.”
-「そうかー？　でも、一応言っておくけど、多分そんなに上手くはないと思うぞー」=“That so? But, I'll just put it out there for the record, I really don't think it's gonna be all that good.”
-「いいからいいから。上手くても下手でも、きっと楽しいよ」=“It's fine, it's fine. It doesn't matter if it's good or bad, it'll be fun and that's what matters.”
-「そっかー。じゃあ……これにするぞ！」=“I see. Then... I'll go with this!”
-『もしも今 背中に羽が生えて 大空自由に 飛び回れたら～♪』=『If only I could, sprout wings from my back, and fly freely, in this wide open sky~♪』
-(すごく楽しそうに歌うなぁ)=(Man, she sure knows how to enjoy herself.)
+//「ここのカラオケボックスがいいって話を聞いたんだ」=
+//「おぉ、中々良さそうなお店だー」=
+//「なんか物珍しそうにしてるね」=
+//「カラオケはあんまり来たことないからなー」=
+//「ああ、そうなんだね。それじゃあ、もしかしてだけど、歌うの苦手だったりとか？」=
+//「うーん、上手いかどうかはわかんないけど、歌うのは好きだぞ」=
+//「そっか。それならよかった」=
+//「よし、じゃあ早速歌うぞー！」=
+//「あっ、[H名]。マイクを持つ前に、まずは曲を選ばないと」=
+//「そう言えば、そうだったなー。たしかこの機械で……」=
+//「そうそう。曲名が決まってるなら、そこから検索すればいいよ」=
+//「あたしから選んでいいのか？」=
+//「うん、俺も[H名]の歌が聞きたいし」=
+//「そうかー？　でも、一応言っておくけど、多分そんなに上手くはないと思うぞー」=
+//「いいからいいから。上手くても下手でも、きっと楽しいよ」=
+//「そっかー。じゃあ……これにするぞ！」=
+//『もしも今 背中に羽が生えて 大空自由に 飛び回れたら～♪』=
+//(すごく楽しそうに歌うなぁ)=

@@ -1,16 +1,16 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「はぁぁ……もうこんな時間……こげん遊んだのって久しぶりやけん、小さい頃に戻ったみたいでめっちゃ楽しかったん」=Haa... It's already this late... It's been a while since I've played around this much, it was super fun, felt like I was back in my childhood.
-「俺もだよ。やっぱり遊園地って楽しいよね」=Same here. You really can't go wrong with Amusement parks.
-CHOICE:『帰る前に観覧車に乗らない？』=『Wanna ride the ferris wheel before we leave?』
-CHOICE:『今日はそろそろ帰ろうか』=『Shall we head home for today?』
-「そうだ。せっかくだし……帰る前に観覧車に乗っていかない？　ここのって大きいから、結構有名なんだ」=Oh, right. Since we're here... wanna ride the ferris wheel before we leave? The one here is pretty big, it's pretty famous.
-「あ、私も乗りたいって思っとったん。あんなに大きいし、目立つっちゃもん。眺めも良さそう」=Ah, I wanted to ride it too. It's so big, it's like the star of the show. The view oughta be pretty good too.
-「うん、もう暗くなりそうだし、そうしたら綺麗な夜景も見られると思うよ。みんなが並ぶ前に並んじゃおう」=Yeah, it's almost turned completely dark too, I bet the nightscape's gonna be quite something. Let's line up before everyone else does.
-「うんっ！　あんな高いところから二人きりで夜景なんて……並ぶ前から楽しみなん！」=Yeah--! Looking at the night sky by ourselves, from so up high... I'm already so excited, and we haven't even lined up!
-「でも、あんまり遅くなると大変だし……今日はそろそろ帰ろっか」=But, it'd be bad to stay out too late so... Shall we go home for the day?
-「そうやね。一気に遊び尽くすよりも、また来た方が楽しいし……乗れんかった乗り物は次回のお楽しみにしとこうかいな」=Good idea. Rather than burning ourselves out in a single day, would be better to come here again sometime soon... I'm looking forward to all the rides we weren't able to ride this time.
-「うん、俺も楽しみにしてる。遊園地、また来ようね」=Yeah, same here. Let's come here again sometime, okay?
-「うんっ！　約束なん！　君とやったら何回でも何十回でも来たいと。これからもたくさん連れてきてね」=Yeah--! It's a promise! With you, I want to come as many times as we can. Bring me out here lots in the future too, okay?
-「もちろん。次も思いっきり楽しもうね」=Of course. Let's have a blast next time too.
+//「はぁぁ……もうこんな時間……こげん遊んだのって久しぶりやけん、小さい頃に戻ったみたいでめっちゃ楽しかったん」=
+//「俺もだよ。やっぱり遊園地って楽しいよね」=
+//CHOICE:『帰る前に観覧車に乗らない？』=
+//CHOICE:『今日はそろそろ帰ろうか』=
+//「そうだ。せっかくだし……帰る前に観覧車に乗っていかない？　ここのって大きいから、結構有名なんだ」=
+//「あ、私も乗りたいって思っとったん。あんなに大きいし、目立つっちゃもん。眺めも良さそう」=
+//「うん、もう暗くなりそうだし、そうしたら綺麗な夜景も見られると思うよ。みんなが並ぶ前に並んじゃおう」=
+//「うんっ！　あんな高いところから二人きりで夜景なんて……並ぶ前から楽しみなん！」=
+//「でも、あんまり遅くなると大変だし……今日はそろそろ帰ろっか」=
+//「そうやね。一気に遊び尽くすよりも、また来た方が楽しいし……乗れんかった乗り物は次回のお楽しみにしとこうかいな」=
+//「うん、俺も楽しみにしてる。遊園地、また来ようね」=
+//「うんっ！　約束なん！　君とやったら何回でも何十回でも来たいと。これからもたくさん連れてきてね」=
+//「もちろん。次も思いっきり楽しもうね」=

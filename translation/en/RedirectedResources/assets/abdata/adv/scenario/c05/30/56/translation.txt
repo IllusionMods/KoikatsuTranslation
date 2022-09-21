@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「え……いやだ。別れるのなんていやだよ！」=“Eh... No. I don't want to break up!”
-「ごめん。これ以上は……」=“Sorry. I really can't take this...”
-「だって……まだ、しなきゃいけないこともいっぱいあるのに」=“I mean... there's so much stuff, we haven't done yet.”
-「本当にごめん……」=“I really am sorry.”
-「[P]くんのことも助けたかった。……悲しいけど、ひとりで待つしかないの……？」=“I wanted to save you too, [P]-kun. ...Do I really have no option, other than to wait for them by myself...?”
+//「え……いやだ。別れるのなんていやだよ！」=
+//「ごめん。これ以上は……」=
+//「だって……まだ、しなきゃいけないこともいっぱいあるのに」=
+//「本当にごめん……」=
+//「[P]くんのことも助けたかった。……悲しいけど、ひとりで待つしかないの……？」=

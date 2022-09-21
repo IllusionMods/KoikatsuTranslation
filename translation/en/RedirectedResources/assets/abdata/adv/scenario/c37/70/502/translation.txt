@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「っとごめんっ、遅れちゃったかな……」=--!, I'm sorry, I'm a bit late I think...
-「問題ありません。私が少々早く着き過ぎただけですから」=It's no problem at all. I'm the one who arrived just a little bit earlier, that's all.
-「そう？　ならいいんだけど……」=Is that so? In that case it's fine but...
-（[H名]、いつから待ってたんだろう）=(I wonder how long she's been standing here, waiting for me.)
+//「っとごめんっ、遅れちゃったかな……」=
+//「問題ありません。私が少々早く着き過ぎただけですから」=
+//「そう？　ならいいんだけど……」=
+//（[H名]、いつから待ってたんだろう）=

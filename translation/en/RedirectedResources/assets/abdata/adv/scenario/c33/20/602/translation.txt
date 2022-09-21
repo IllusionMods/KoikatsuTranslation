@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「[H名]さん……」=[H名]-san...
-「あら、シャワーも浴びないの？」=Oh, not even a shower first?
-「ダメ？」=Do we have to?
-「くすっ♡　全然？」=*Giggle*♡ Not at all.
-「じゃあ、いきなりだけど……」=Then, I know it's sudden but...
-「シャワーを浴びる為に来たんじゃないもの。いきなりでいいのよ♡」=We didn't come here to take a shower anyway. It's fine, let's do it right away♡
+//「[H名]さん……」=
+//「あら、シャワーも浴びないの？」=
+//「ダメ？」=
+//「くすっ♡　全然？」=
+//「じゃあ、いきなりだけど……」=
+//「シャワーを浴びる為に来たんじゃないもの。いきなりでいいのよ♡」=

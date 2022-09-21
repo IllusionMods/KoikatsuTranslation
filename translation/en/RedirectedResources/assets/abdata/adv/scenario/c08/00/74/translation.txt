@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「やっぱり、駆けっこで勝負だよ！」=No doubt about it, we gotta race!
-「俺が勝っちゃうよ……ハンデ付けようか？」=I'll just end up winning... How about a handicap?
-「ハンデは無用だよ。さぁ、位置について、よ～い」=We don't need something like that. Now then, get to position, ready, set--
-「えっ、本当にやるの！？」=Eh--, are we really doing this!?
-「ドン！」=Go!
+//「やっぱり、駆けっこで勝負だよ！」=
+//「俺が勝っちゃうよ……ハンデ付けようか？」=
+//「ハンデは無用だよ。さぁ、位置について、よ～い」=
+//「えっ、本当にやるの！？」=
+//「ドン！」=

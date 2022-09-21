@@ -1,21 +1,21 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「なーなー、あの箱の中にある人形、すっごくかわいくないかー？」=“Hey, don't you think that doll's super cute? The one in that box.”
-「箱？　……ああ、クレーンゲームね。人形は遊園地のマスコットキャラじゃないかな」=“Box? ...Aah, the crane game, huh. Doesn't that doll seem to be the park's mascot?”
-「あたし、あんまり景品を取れた記憶がないなー」=“I can't really remember ever getting anything out of these games.”
-「試しにやってみれば？　もしかしたら、簡単に取れるかもしれないし」=“Wanna try it out then? You might be able to grab it real easily.”
-「キミがそう言うなら、やってみるかー。あの人形も欲しいしなー」=“If you say so, guess I'll try it. I do want that doll.”
-「確かこれでアームを動かして……おっ、上手くいったんじゃないかー？」=“If I'm remembering right, you use this to move the arm... oh--, that's working pretty well, all things considered.”
-「……って、あれっ、ダメかー。人形の下に入ったと思ったんだけどなー」=“...Ah--, no good, huh? Thought I was locked on the doll's hand there for sure.”
-「なかなかアームは思うように動かないからね。掴むというよりは、引っ掛ける感じの方がいいかな」=“The arm really doesn't move the way you want it to, does it? Rather than trying to grab it, maybe you should try hooking it, in a way.”
-「そうは言っても……あぁっ！　ダメだなー、あたしはこういう細かいのは苦手だぞ」=“Even if you say that... aah--! Yeah, no, I'm really not good at this sort of precise garbage.”
-「あはは。それじゃあ、俺も試しにやってみようかな」=“Ahaha. Well then, I guess I'll try my hand at it too.”
-「キミはクレーンゲーム上手いのかー？」=“Are you good at it?”
-「うーん、そうでもないかな。あっ……今も失敗しちゃったし」=“Mmm, wouldn't say so. Ah--... see, I messed it up there.”
-「でも、やってる内に何となくコツが――っと、取れた！」=“But, I think I figured out the hang of-- there, I got it!”
-「おー、すごいなー！　あたしももう少し器用だったらな」=“Oh, amazing! If only I was as good with my hands as you.”
-「えへへ……はい、[H名]。プレゼント、ってほどじゃないけど」=“Ehehe... here, [H名]. A present, a pretty poor one though it may be.”
-「えっ、いいのかー？　キミが取ったのに？」=“Eh--, you sure? You won it though?”
-「もちろん。俺が持ってるより、[H名]に喜んでもらった方が嬉しいからね」=“Of course. It'd make me way more happier to see you be happy, than holding onto it myself.”
-「ありがとう、大切にするぞ！」=“Thanks, I'll treasure it!”
+//「なーなー、あの箱の中にある人形、すっごくかわいくないかー？」=
+//「箱？　……ああ、クレーンゲームね。人形は遊園地のマスコットキャラじゃないかな」=
+//「あたし、あんまり景品を取れた記憶がないなー」=
+//「試しにやってみれば？　もしかしたら、簡単に取れるかもしれないし」=
+//「キミがそう言うなら、やってみるかー。あの人形も欲しいしなー」=
+//「確かこれでアームを動かして……おっ、上手くいったんじゃないかー？」=
+//「……って、あれっ、ダメかー。人形の下に入ったと思ったんだけどなー」=
+//「なかなかアームは思うように動かないからね。掴むというよりは、引っ掛ける感じの方がいいかな」=
+//「そうは言っても……あぁっ！　ダメだなー、あたしはこういう細かいのは苦手だぞ」=
+//「あはは。それじゃあ、俺も試しにやってみようかな」=
+//「キミはクレーンゲーム上手いのかー？」=
+//「うーん、そうでもないかな。あっ……今も失敗しちゃったし」=
+//「でも、やってる内に何となくコツが――っと、取れた！」=
+//「おー、すごいなー！　あたしももう少し器用だったらな」=
+//「えへへ……はい、[H名]。プレゼント、ってほどじゃないけど」=
+//「えっ、いいのかー？　キミが取ったのに？」=
+//「もちろん。俺が持ってるより、[H名]に喜んでもらった方が嬉しいからね」=
+//「ありがとう、大切にするぞ！」=

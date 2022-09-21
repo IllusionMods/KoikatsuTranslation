@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「えへっ、今日のデート楽しみにしてたんだぁ」=Ehe--, I was really looking forward to our date today.
-「俺も楽しみにしてたよ。じゃあ行こうか」=Me too. Well then, let's go.
-「おっ、この動物のキーホルダー[H]さんに似てるなー」=Oh--, this cute animal keychain sure does look like you, [H].
-「ほんと！　あなたから見て私はこういうイメージなんだね。えへっ、嬉しいなぁ～」=You're right! So this is what I look like from your eyes, huh? Ehe--, I'm so happy~
+//「えへっ、今日のデート楽しみにしてたんだぁ」=
+//「俺も楽しみにしてたよ。じゃあ行こうか」=
+//「おっ、この動物のキーホルダー[H]さんに似てるなー」=
+//「ほんと！　あなたから見て私はこういうイメージなんだね。えへっ、嬉しいなぁ～」=

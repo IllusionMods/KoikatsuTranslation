@@ -1,18 +1,18 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「結構歌ったね。……おっ、そろそろ時間ですぞ」=“We sang a whole lot, didn't we? ...Ah--, our time's almost up.”
-CHOICE:『延長しようよ』=Let's extend it.
-CHOICE:『そろそろ帰ろう』=Let's go home.
-「延長しない？　ちょっと歌い足りなくて」=“Wanna extend it? I still haven't sang enough.”
-「賛成ですぞ！　まだまだアニソンを歌い足りませぬ」=“Me neither! I still haven't had my fill of singing anisongs!”
-「そうこなくっちゃ。じゃあ、延長の連絡するよ」=“That's the spirit. I'll put in the call for the extension.”
-「そろそろ帰ろうか」=“Let's go home, shall we?”
-「ええ。こんなに好きな歌を思いっきり歌えたのは、久しぶりでした……また来たいものだね」=“Yes. It's been a while, since I've sung my heart out like this... I'd love to come again.”
-「だね。また二人で歌いに来よう」=“Me too. Let's do it sometime.”
-「もうそんなに過ぎてたのか。それじゃあ、最後に一曲歌ったら今日は帰ろうか」=“It's already been so long, huh? Well then, let's go home after singing one last song.”
-「はい、[H名]が入れなよ」=“Here, you put it in, [H].”
-「いいのかい？　それじゃあ、お言葉に甘えて……じゃあ、この曲で締めだぁ」=“You sure? I'll take you up on that then... alright, let's close it off with this one~”
-「いえー！」=“Yay~!”
-『小さな手の平 掴める物は きっと限られているけど～♪』=『This small hand, the things it can grasp, they are surely limited, but~♪』
-「Ｆｕ、Ｆｕ～♪」=“Fuh, fuh~♪”
+//「結構歌ったね。……おっ、そろそろ時間ですぞ」=
+//CHOICE:『延長しようよ』=
+//CHOICE:『そろそろ帰ろう』=
+//「延長しない？　ちょっと歌い足りなくて」=
+//「賛成ですぞ！　まだまだアニソンを歌い足りませぬ」=
+//「そうこなくっちゃ。じゃあ、延長の連絡するよ」=
+//「そろそろ帰ろうか」=
+//「ええ。こんなに好きな歌を思いっきり歌えたのは、久しぶりでした……また来たいものだね」=
+//「だね。また二人で歌いに来よう」=
+//「もうそんなに過ぎてたのか。それじゃあ、最後に一曲歌ったら今日は帰ろうか」=
+//「はい、[H名]が入れなよ」=
+//「いいのかい？　それじゃあ、お言葉に甘えて……じゃあ、この曲で締めだぁ」=
+//「いえー！」=
+//『小さな手の平 掴める物は きっと限られているけど～♪』=
+//「Ｆｕ、Ｆｕ～♪」=

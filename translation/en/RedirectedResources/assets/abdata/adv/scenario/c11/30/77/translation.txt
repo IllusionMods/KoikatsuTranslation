@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-………………=.........
-…………=......
-……=...
-「すっかり子供に戻っちゃったわね～。うふふ、また遊びましょうね」=“We really went back to being kids there, didn't we~. Ufufu, let's play again, okay?”
+//………………=
+//…………=
+//……=
+//「すっかり子供に戻っちゃったわね～。うふふ、また遊びましょうね」=

@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「そう気を遣って下さらなくてもいいですのに」=There's no need for you to pay so much attention to me though.
+//「そう気を遣って下さらなくてもいいですのに」=

@@ -1,5 +1,5 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「あ、起きた。おはよう！　シャワー借りてたからね」=“Ah, you're up. Good morning! I borrowed your shower.”
-「何じろじろ見てんのよ。ぶっ飛ばすわよ！」=“What're you staring at me for? I'll clobber you!”
+//「あ、起きた。おはよう！　シャワー借りてたからね」=
+//「何じろじろ見てんのよ。ぶっ飛ばすわよ！」=

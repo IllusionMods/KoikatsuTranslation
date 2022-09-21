@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「ふふっ、なんだかプチデートって感じね」=Fufu--, feels like a mini-date, doesn't it?
-「そうだね……あ、デートついでにどこか寄ろうか？　好きなところでいいよ」=Yeah... ah, wanna take this chance to take a detour? Any place you like would be fine.
-「ううん、毎日それじゃ財布が大変よ、だから今日はただこうして……腕を組んで歩きましょう？」=No, if we do that daily, it's going to start hurting our wallets, so let's just... walk arm in arm like this?
-「そうだね……じゃあ、ゆっくり帰ろうか」=You're not wrong... let's walk home slowly then.
+//「ふふっ、なんだかプチデートって感じね」=
+//「そうだね……あ、デートついでにどこか寄ろうか？　好きなところでいいよ」=
+//「ううん、毎日それじゃ財布が大変よ、だから今日はただこうして……腕を組んで歩きましょう？」=
+//「そうだね……じゃあ、ゆっくり帰ろうか」=

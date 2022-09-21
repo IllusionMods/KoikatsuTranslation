@@ -1,16 +1,16 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「……ふぅ」=...Fuu
-「大分歌ったね、ちょっと一息入れようか？」=We've sang a lot. Shall we take a breather?
-「はい、丁度飲み物も切れてしまいました」=Yes, we've just run out of drinks too.
-「それじゃ注文しとくよ、何が飲みたい？」=I'll place the order then, what do you wanna drink?
-「そうですね……ここはあなたに決めてもらいます」=Let's see... I'll let you pick.
-「え？　飲みたいものを言ってくれればいいだけなんだけど……」=Eh? Can't you just tell me what you'd like to drink...
-「互いに想い合ってる仲です。相手が何を望んでいるのか……察せるはずです」=We both have feelings for each other. What your partner wishes for... you should be able to guess it.
-「責任重大だな……うーん……えっと、コレでいい……かな？」=That's a big responsibility... Well... Erhm, this should be fine... I think?
-「ありがとうございます」=Thank you very much.
-「まぁ、あなたが私を想った行為であれば、どんな事でも受け入れてしまうでしょうけど」=Well, no matter what kind of thing it is, as long as you were to do it while thinking of me, I'm sure I'd accept anything and everything.
-「えっと……それって結局何でもよかったって事？」=Erhm... Does that mean you would have been fine with absolutely anything?
-「あなたの困った顔が見れました。意地悪、というのも悪くありませんね」=I wanted to see your troubled face, and I did get to see it. I don't mind if you want to think of that as "mean", you know.
-「お、おのれー……」=Y-You...
+//「……ふぅ」=
+//「大分歌ったね、ちょっと一息入れようか？」=
+//「はい、丁度飲み物も切れてしまいました」=
+//「それじゃ注文しとくよ、何が飲みたい？」=
+//「そうですね……ここはあなたに決めてもらいます」=
+//「え？　飲みたいものを言ってくれればいいだけなんだけど……」=
+//「互いに想い合ってる仲です。相手が何を望んでいるのか……察せるはずです」=
+//「責任重大だな……うーん……えっと、コレでいい……かな？」=
+//「ありがとうございます」=
+//「まぁ、あなたが私を想った行為であれば、どんな事でも受け入れてしまうでしょうけど」=
+//「えっと……それって結局何でもよかったって事？」=
+//「あなたの困った顔が見れました。意地悪、というのも悪くありませんね」=
+//「お、おのれー……」=

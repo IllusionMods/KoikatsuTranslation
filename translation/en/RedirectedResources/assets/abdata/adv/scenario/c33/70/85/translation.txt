@@ -1,12 +1,12 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「今日はどんな活動をしようかな。したいこととかある？」=Wonder what kind of activity we should do today. Is there anything you'd like to do?
-「それじゃ、あなたを誘惑する練習をしてもいい？」=Then, is it okay if I practice seduction on you?
-「ゆ、誘惑？　告白、とかじゃなくて？」=S-Seduction? Not something like a confession?
-「告白は頑張れば頑張っただけ気持ちが伝わるけど、誘惑は頑張りすぎると空回りするでしょ？」=When you confess, if you try your best, the other party can tell that you're just trying your best, but with seduction, if you overdo it then it actually falls flat, no?
-「そ、そうなの？」=I-Is that so?
-「女の子がエッチしたいからって、エッチアピールが強すぎると男の子は引くでしょ？」=Take a girl that wants to have sex, if she overdoes the sex-appeal bit, then it'll only serve to make the boy back off, no?
-「たしかに」=Certainly, you're right.
-「だからね？　私はあなたがしたいことをしてほしいの。他の子には遠慮して出来ないようなこと、あるでしょ？」=That's why, I want you to do whatever you want to do. You surely must have things that you hesitate over and can't do with other girls, right?
-（こ、これは……練習だってことを忘れないと大変なことになりそうだ）=T-This is... I'd have been in big trouble if I didn't remember that this was practice)
+//「今日はどんな活動をしようかな。したいこととかある？」=
+//「それじゃ、あなたを誘惑する練習をしてもいい？」=
+//「ゆ、誘惑？　告白、とかじゃなくて？」=
+//「告白は頑張れば頑張っただけ気持ちが伝わるけど、誘惑は頑張りすぎると空回りするでしょ？」=
+//「そ、そうなの？」=
+//「女の子がエッチしたいからって、エッチアピールが強すぎると男の子は引くでしょ？」=
+//「たしかに」=
+//「だからね？　私はあなたがしたいことをしてほしいの。他の子には遠慮して出来ないようなこと、あるでしょ？」=
+//（こ、これは……練習だってことを忘れないと大変なことになりそうだ）=

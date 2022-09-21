@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「緊張する……」=I'm getting nervous...
-「[H]、本当にいいの？」=You sure you okay with this, [H]?
-「うん、少し怖いけど、大丈夫だよ」=Yeah, I'm a bit scared but, it's alright.
-「私の初めては、もう全部[P]君にあげるって決めたのだから」=I've already decided, afterall, that I'll give you all my firsts, [P]-kun.
+//「緊張する……」=
+//「[H]、本当にいいの？」=
+//「うん、少し怖いけど、大丈夫だよ」=
+//「私の初めては、もう全部[P]君にあげるって決めたのだから」=

@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「不思議……いつも通っている道が、ちょっとだけ違う顔を見せているの」=How strange... the road I always walk on, looks a bit different today.
-「言われてみれば、確かにそんな気がするね」=Now that you say it, it does feel like that, for sure.
-「うん……小説で読むのと実体験をするのって、こんなにも違うんだね……」=Yeah... there's this much difference, between reading it in a book, and experiencing it for myself, huh...
+//「不思議……いつも通っている道が、ちょっとだけ違う顔を見せているの」=
+//「言われてみれば、確かにそんな気がするね」=
+//「うん……小説で読むのと実体験をするのって、こんなにも違うんだね……」=

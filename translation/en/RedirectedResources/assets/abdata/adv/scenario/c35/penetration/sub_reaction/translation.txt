@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「はぅっ……もしかして……今やっとったこと、ずっと見とったと？」=Hauu--... did you... see everything we've been doing till now?
+//「はぅっ……もしかして……今やっとったこと、ずっと見とったと？」=

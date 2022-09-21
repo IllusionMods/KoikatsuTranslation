@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「お、おい……えっと、な、汝たちが望むのであれば……我も、ま、交ざってやっても、良いのだぞ？」=“O-Oi... erhm, i-if it is thy desire... I would not, m-mind, joining in, you know?”
+//「お、おい……えっと、な、汝たちが望むのであれば……我も、ま、交ざってやっても、良いのだぞ？」=

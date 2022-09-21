@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「……いつも通ってる道なのに、今日はちょっとだけ、違う道に見えます」=...Even though it's the same street I always walk on, today, it looks a bit different.
-「えっ、どうして？」=Eh--, why?
-「な、なんででしょう……初めて、男の人と一緒に帰るからですかね？」=I-I wonder... maybe because it's my first time, walking home with a boy?
+//「……いつも通ってる道なのに、今日はちょっとだけ、違う道に見えます」=
+//「えっ、どうして？」=
+//「な、なんででしょう……初めて、男の人と一緒に帰るからですかね？」=

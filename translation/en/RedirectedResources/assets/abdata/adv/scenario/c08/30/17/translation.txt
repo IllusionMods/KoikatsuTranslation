@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「んーっ、よく寝た。……あれ？　メモがある。なになに――」=Nnnnn, I slept well. ...Huh? There's a note. Let's see--
-『[P]君、おはよぉ♪　あんまり気持ちよく寝ていたから、起こせなかったよ』=『[P]-kun, morning♪ You were sleeping just way too tight, so I couldn't wake you up.』
-『[P]君のために一生懸命朝ごはん作ったの、ちゃんと食べてくれたら嬉しいなぁ』=『I pulled out the big guns while making breakfast for you today, I'd love it if you would eat all of it.』
-『P.S.学園で待ってるね♪』=『P.S. I'm waiting for you at school♪』
+//「んーっ、よく寝た。……あれ？　メモがある。なになに――」=
+//『[P]君、おはよぉ♪　あんまり気持ちよく寝ていたから、起こせなかったよ』=
+//『[P]君のために一生懸命朝ごはん作ったの、ちゃんと食べてくれたら嬉しいなぁ』=
+//『P.S.学園で待ってるね♪』=

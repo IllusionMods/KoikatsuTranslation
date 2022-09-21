@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「……うん、いいよ」="...Yeah, okay."
-「[H]……本当に、俺でいいの？」="[H]... are you sure about this?"
-「……うん。[P]が好きだからいい……」="...Yeah. I'm really in love with you, [P]..."
-「[P]……初めてはいい思い出にさせてね……」="[P]... Don't ever forget this moment..."
+//「……うん、いいよ」=
+//「[H]……本当に、俺でいいの？」=
+//「……うん。[P]が好きだからいい……」=
+//「[P]……初めてはいい思い出にさせてね……」=

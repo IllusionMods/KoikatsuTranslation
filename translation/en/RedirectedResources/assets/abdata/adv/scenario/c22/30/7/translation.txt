@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「うそ……ほ、本当に？　私に言ってくれてるの？」=No way... r-really? Are you saying that to me?
-「きみ以外に誰がいるの？　俺、本当にきみのことが好きなんだ」=Is there anyone else besides us here? I really do love you.
-「わ、私のことを……君が……はう……うぅ……」=Y-You love... me... hauu... uuu...
-「あ、あぁっ、ごめんっ！　そ、そんなに嫌だった！？　だったら聞かなかったことにっ……」=A-Aah--, I'm sorry--! D-Does it sound that unpleasant!? We can just pretend this never happen--...
-「ま、真逆だよーっ！　嬉しすぎて涙が出ちゃったのっ！　私も……君のことが大好きっ！」=I-It's the complete opposite--! I'm so happy, I couldn't help but cry--! I... love you too--!
-「今、私……心臓が止まっちゃいそうなくらい……幸せです♪」=Right now, my heart's racing so much... it could burst... I'm so happy♪
+//「うそ……ほ、本当に？　私に言ってくれてるの？」=
+//「きみ以外に誰がいるの？　俺、本当にきみのことが好きなんだ」=
+//「わ、私のことを……君が……はう……うぅ……」=
+//「あ、あぁっ、ごめんっ！　そ、そんなに嫌だった！？　だったら聞かなかったことにっ……」=
+//「ま、真逆だよーっ！　嬉しすぎて涙が出ちゃったのっ！　私も……君のことが大好きっ！」=
+//「今、私……心臓が止まっちゃいそうなくらい……幸せです♪」=

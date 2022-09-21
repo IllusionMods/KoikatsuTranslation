@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-波動・円=Energy Wave (Circle)
-波動・柱=Energy Wave (Pillar)
-波動・斬=Energy Wave (Arc)
-液溜まり=Semen Puddle
-液体A=Semen Drip
-液体B=Semen Spurt
+//波動・円=
+//波動・柱=
+//波動・斬=
+//液溜まり=
+//液体A=
+//液体B=

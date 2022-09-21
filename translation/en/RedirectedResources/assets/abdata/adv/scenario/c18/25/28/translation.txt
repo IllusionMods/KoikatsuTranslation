@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「あ、これ好きなんです。ありがとうございます」=Ah, I love this. Thank you very much.
+//「あ、これ好きなんです。ありがとうございます」=

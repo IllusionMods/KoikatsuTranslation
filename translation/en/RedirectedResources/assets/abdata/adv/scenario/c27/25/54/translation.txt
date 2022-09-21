@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「もう……すっごく恥ずかしかったんだからね！　誰にも見られなくて良かったけど……」=“Jeez... that was super embarrassing, you know! I'm glad nobody saw us, though...”
+//「もう……すっごく恥ずかしかったんだからね！　誰にも見られなくて良かったけど……」=

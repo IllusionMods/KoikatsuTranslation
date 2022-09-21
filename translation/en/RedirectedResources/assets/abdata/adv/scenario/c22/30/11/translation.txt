@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「ごめんね、私、もう君のことが分からなくなっちゃった……寂しいけど……お付き合いを続けるのは難しいよ……」=I'm sorry, I don't really understand you anymore... I'm really sad but... I don't think I could keep going out with you...
-「え……そんないきなり……」=Eh... that's too sudden...
-「君の中ではいきなりだったのかな？　私は……ずっと考えてたよ……ごめんね」=Is it sudden to you? I've been... thinking about it a lot myself... I'm sorry.
-「あ……[H]、せめて話だけでも……」=Ah... [H], atleast talk to me...
-「ううん、私はもう話すこともないの。だから……ごめんなさい。さよなら」=No, there's nothing left for me to talk about. I'm... sorry. Goodbye.
+//「ごめんね、私、もう君のことが分からなくなっちゃった……寂しいけど……お付き合いを続けるのは難しいよ……」=
+//「え……そんないきなり……」=
+//「君の中ではいきなりだったのかな？　私は……ずっと考えてたよ……ごめんね」=
+//「あ……[H]、せめて話だけでも……」=
+//「ううん、私はもう話すこともないの。だから……ごめんなさい。さよなら」=

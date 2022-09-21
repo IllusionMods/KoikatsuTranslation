@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「さて、と……１０分前到着、と……」=Now then, let's see... Got here 10 minutes early...
-「ちょうど１０分前ですね。どうやら私達、同時に到着したようです」=It's exactly 10 minutes early, isn't it? Seems that we both got here at the same time.
-「ほんとに？　３０分前に着いたりしてない？」=Really? Are you sure you didn't get here 20 minutes ago?
-「ええ、心配しないで下さい。ちゃんと今来たところですから」=Yes, please don't worry. I arrived just a moment ago.
-「おっけ。お互い待たずにすんで良かった……それじゃ行こうか──」=Okay then. I'm glad neither of us had to wait... Well then, shall we?---
+//「さて、と……１０分前到着、と……」=
+//「ちょうど１０分前ですね。どうやら私達、同時に到着したようです」=
+//「ほんとに？　３０分前に着いたりしてない？」=
+//「ええ、心配しないで下さい。ちゃんと今来たところですから」=
+//「おっけ。お互い待たずにすんで良かった……それじゃ行こうか──」=

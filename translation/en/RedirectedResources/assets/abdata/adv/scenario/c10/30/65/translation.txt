@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「お、男の子と、い、一緒に帰るのは慣れていない……」=“Going home w-with a b-boy is not something I'm used to...”
-「いきなり誘ってごめん。緊張させたね」=“Sorry for asking you suddenly. You must be nervous.”
-「そ、そんなことない。き、緊張はするけど、うれしいぞ」=“T-that's not true! I'm n-nervous, but I'm glad...”
+//「お、男の子と、い、一緒に帰るのは慣れていない……」=
+//「いきなり誘ってごめん。緊張させたね」=
+//「そ、そんなことない。き、緊張はするけど、うれしいぞ」=

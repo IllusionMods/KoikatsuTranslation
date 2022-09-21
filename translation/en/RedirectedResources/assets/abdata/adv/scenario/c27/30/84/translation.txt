@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「まずは恋人同士がどういったことをするのか、知っておかないとダメだと思うの」=“Well, I think the first order of business ought to be to actually figure out just what couples actually get up to.”
-「……それで、この少女漫画の山ですか……」=“...and so, you got this absolute mountain of shoujo manga out, huh...”
-「いい、いまからしっかり知識を叩きこむのよ」=“We're gonna beat some knowledge into our heads, double time. Got it?”
-「うっうっ……なんていい話なんだ……」=“Uuuu--... what a good story...”
-「ホントよね……この再会のシーンなんて、もう超感動よ……」=“Right?... this reunion, it's so moving...”
-「よしっ、さそっそく二人で再現してみよう！」=“Alright--, let's reproduce it ourselves!”
-「えっ！？　これを私たちでやるの！？　こ、心の準備が……」=“Eh--?! You want us to do this!? M-My heart isn't ready...”
+//「まずは恋人同士がどういったことをするのか、知っておかないとダメだと思うの」=
+//「……それで、この少女漫画の山ですか……」=
+//「いい、いまからしっかり知識を叩きこむのよ」=
+//「うっうっ……なんていい話なんだ……」=
+//「ホントよね……この再会のシーンなんて、もう超感動よ……」=
+//「よしっ、さそっそく二人で再現してみよう！」=
+//「えっ！？　これを私たちでやるの！？　こ、心の準備が……」=

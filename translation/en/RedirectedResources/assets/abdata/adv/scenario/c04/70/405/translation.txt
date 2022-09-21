@@ -1,20 +1,20 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「そのオムライス、美味しそうだね」=That omurice sure looks delicious.
-「ええ。評判のランチメニューみたいだから、期待が持てるわ」=Yes. Seems like this place is pretty famous for it too, so I'm excited.
-「ハンバーグとかも人気があるみたいだけど、そっちはいいの？」=Their hamburg steak seems pretty popular too, you sure you're fine with the omurice?
-「そっちも気になったんだけど、この卵のふわふわな感じに惹かれたの」=I was curious about the steak too but, in the end the promise of the extra fluffy eggs won me over.
-「本当だ。スプーンでつついただけでも分かるね」=For real. Just poking them with a spoon is enough to show just how fluffy they are.
-「早速いただきましょう。はむっ……」=Let's dig in already. *chew*...
-「どう？　感想は？」=How is it? You like it?
-「ふわぁ～……思っていた以上に美味しいわ！」=So fluffy~... it's even more delicious than I expected!
-「幸せそうに食べるなぁ……俺も食べたくなってきたよ」=You're sure eating that really happily... now I want some too.
-「そうね、これほどの幸福は共有しないともったいないわ」=Yeah, it would be a waste to not share some of this happiness with you.
-「本当に？　言ってみるもんだね」=You sure? Glad I asked.
-「おすそわけしてあげるわ。はい、あーん……」=I don't mind sharing at all. Here, open up~...
-「えっ？　あーん……」=Eh--? Aaaahn...
-「もぐもぐ……」=*chew chew*...
-「どう？　美味しいでしょ？」=So? It's delicious, no?
-「……うん、美味しい。卵が口の中で溶けていくみたいだ……」=...Yeah, it is. It feels like the egg's just melting in my mouth...
-「ふふ……あなたも虜になったわね」=Fufu... it's gotten you falling for it too.
+//「そのオムライス、美味しそうだね」=
+//「ええ。評判のランチメニューみたいだから、期待が持てるわ」=
+//「ハンバーグとかも人気があるみたいだけど、そっちはいいの？」=
+//「そっちも気になったんだけど、この卵のふわふわな感じに惹かれたの」=
+//「本当だ。スプーンでつついただけでも分かるね」=
+//「早速いただきましょう。はむっ……」=
+//「どう？　感想は？」=
+//「ふわぁ～……思っていた以上に美味しいわ！」=
+//「幸せそうに食べるなぁ……俺も食べたくなってきたよ」=
+//「そうね、これほどの幸福は共有しないともったいないわ」=
+//「本当に？　言ってみるもんだね」=
+//「おすそわけしてあげるわ。はい、あーん……」=
+//「えっ？　あーん……」=
+//「もぐもぐ……」=
+//「どう？　美味しいでしょ？」=
+//「……うん、美味しい。卵が口の中で溶けていくみたいだ……」=
+//「ふふ……あなたも虜になったわね」=

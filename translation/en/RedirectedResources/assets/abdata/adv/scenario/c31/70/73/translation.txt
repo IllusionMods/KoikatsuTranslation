@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-………………=.........
-…………=......
-……=...
-「ふぅ、頭が疲れた……甘いものが欲しい、甘くて濃いものがいいな。なぁ、私は甘いものが欲しいと、言っているぞ？」=Fuu, my head's tired... I want something sweet, something sweet and dense would be nice. Hey, I'm saying that I want something sweet, you know?
+//………………=
+//…………=
+//……=
+//「ふぅ、頭が疲れた……甘いものが欲しい、甘くて濃いものがいいな。なぁ、私は甘いものが欲しいと、言っているぞ？」=

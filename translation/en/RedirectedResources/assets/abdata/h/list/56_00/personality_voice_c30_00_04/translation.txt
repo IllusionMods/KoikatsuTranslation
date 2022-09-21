@@ -1,17 +1,17 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-ちょっと、何なのよ、一体何のつもり？！=Wait, what are you- what do you think you're doing?!
-や、やめて！　放して、何考えてるのよっ…！=S-stop! Let me go! What are you thinking...?!
-いやよ、こんな事、もう続けたくないわ=No, I don't want to go through with this anymore.
-やめてってば、もう終わりでいいでしょ=Cut it out, we should stop here.
-何がもう一回よ、いやに決まってるでしょ！=What do you mean you're doing it one more time, I'm telling you no!
-いやよ…どうして、こんな事されなきゃいけないのよ！=I'm saying no... Why do I have to go through this!?
-やめて！　こんなのもう嫌よ=Stop it! I've had enough of this!
-いやっ！　離して！　痛いってば…！=No-! Let me go! It hurts...!
-嫌だっていてるでしょ！　もういい加減にして！=I'm telling you I don't like this! Cut it out already!
-だめよ！　今日は危ない日なんだから、絶対だめ！=Don't! Today's not a safe day, so we definitely can't do it!
-ちょっと…やめて、いい加減に放して…！=Wait... Stop it, just let me go already...!
-もうやめてってば…こんなのいやよ、私=I'm telling you to stop already... I don't want to do this.
-だめ、こんな事、もうやめてっ！=Don't, stop this already!
-こんな事していいと思ってるの？！　もうやめて…！=Do you really think this is okay to do!? Stop it already...!
+//ちょっと、何なのよ、一体何のつもり？！=
+//や、やめて！　放して、何考えてるのよっ…！=
+//いやよ、こんな事、もう続けたくないわ=
+//やめてってば、もう終わりでいいでしょ=
+//何がもう一回よ、いやに決まってるでしょ！=
+//いやよ…どうして、こんな事されなきゃいけないのよ！=
+//やめて！　こんなのもう嫌よ=
+//いやっ！　離して！　痛いってば…！=
+//嫌だっていてるでしょ！　もういい加減にして！=
+//だめよ！　今日は危ない日なんだから、絶対だめ！=
+//ちょっと…やめて、いい加減に放して…！=
+//もうやめてってば…こんなのいやよ、私=
+//だめ、こんな事、もうやめてっ！=
+//こんな事していいと思ってるの？！　もうやめて…！=

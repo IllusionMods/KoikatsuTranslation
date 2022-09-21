@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「ん～なんでキミはさ～、わざわざ私と帰ろうと思ったのかな～？」=Nn~, tell me, just why did you think about going out of your way to walk home with me~?
-「えっ？　今以上に仲良くなりたいからだよ」=Eh--? Because I want to be even closer to you.
-「……そっか～」=...I see~.
+//「ん～なんでキミはさ～、わざわざ私と帰ろうと思ったのかな～？」=
+//「えっ？　今以上に仲良くなりたいからだよ」=
+//「……そっか～」=

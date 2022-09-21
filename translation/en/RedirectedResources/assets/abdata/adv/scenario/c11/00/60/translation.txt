@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「今日は楽しかったわ。お家に帰るまでがデートですからね、気を付けて帰るのよ。それじゃあね」=“I had a lot of fun today. The date isn't over until you get home, so you must be careful on the way back. See you, okay?”
+//「今日は楽しかったわ。お家に帰るまでがデートですからね、気を付けて帰るのよ。それじゃあね」=

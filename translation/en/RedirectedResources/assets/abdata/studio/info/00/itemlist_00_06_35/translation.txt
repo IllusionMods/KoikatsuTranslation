@@ -1,11 +1,11 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-腕ベルト=Arm Belt
-メタルバングル=Metal Bangle
-ナイロンボストン=Nylon Boston Bag
-シュシュ=Scrunchie
-カフス=Cuffs
-くノ一肩当て=Kunoichi Shoulderpad
-巫女袖=Shrine Maiden Sleeve
-鬼神の肩当て=Demon God's Shoulderpad
+//腕ベルト=
+//メタルバングル=
+//ナイロンボストン=
+//シュシュ=
+//カフス=
+//くノ一肩当て=
+//巫女袖=
+//鬼神の肩当て=

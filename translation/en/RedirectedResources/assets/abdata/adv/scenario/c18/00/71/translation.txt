@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「さあ、頑張りましょう。教科書の隅から隅まで！」=Now then, let's do our best. Gonna go through the book cover to cover!
-「え、全部やるの？」=Eh, the whole thing?
-「もちろんです。そうすれば怖いものなしですよ！」=Of course. If we do that, there'll be nothing to fear!
+//「さあ、頑張りましょう。教科書の隅から隅まで！」=
+//「え、全部やるの？」=
+//「もちろんです。そうすれば怖いものなしですよ！」=

@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「きゃーっ、ノゾキよ！　って、あんた！？　最低っ！　謝っても許してやんないから！」=“Kyah--, it's a peeper! Wait, you!? You're the worst--! I won't forgive you even if you apologize!”
+//「きゃーっ、ノゾキよ！　って、あんた！？　最低っ！　謝っても許してやんないから！」=

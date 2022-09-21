@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「えっと……いま大丈夫かな？　よければ君とお話ししたいんだけど」=“Erhm... is now a good time? If possible, I'd like to chat with you.”
-「……あなた確か……転校してきた人……？」=“...You were... the person that transferred in...?”
-「そうそう、覚えててくれたんだ？」=“Yeah, that guy, you remembered?”
-「……顔だけは……。いつもならすぐに忘れるけど……」=“...Just your face... Normally I'd forget right away...”
-「そ、そんなに特徴的な顔してるかな？」=“D-Do I have that distinctive a face?”
-「よくわからない……。本当に、なんとなく……それで話って？」=“I dunno... I seriously, just ended up remembering it... so, you mentioned a chat?”
-（感情が読み取りにくい子だな……どんな話なら興味を引くんだろう？）=(Kinda hard to read her expression... what sort of a topic would catch her interest?)
+//「えっと……いま大丈夫かな？　よければ君とお話ししたいんだけど」=
+//「……あなた確か……転校してきた人……？」=
+//「そうそう、覚えててくれたんだ？」=
+//「……顔だけは……。いつもならすぐに忘れるけど……」=
+//「そ、そんなに特徴的な顔してるかな？」=
+//「よくわからない……。本当に、なんとなく……それで話って？」=
+//（感情が読み取りにくい子だな……どんな話なら興味を引くんだろう？）=

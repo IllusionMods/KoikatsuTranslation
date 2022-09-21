@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「ここのところ、なんだかあなたとお話するのがどんどん楽しくなってきてるです！」=“Lately, I've been having tons of fun chatting with you!”
-「本当に？　だったら良かった。俺も楽しいよ。知り合えて良かった！」=“Really? I'm glad to hear that. I enjoy our chats too. I'm glad we got to know each other!”
-「えへへ、そう思ってもらえると私も嬉しいです！　男子とお話するのって本当に新鮮なのです！」=“Ehehe, hearing you say that makes me happy too! Chatting with a boy really is a fresh experience!”
-「私、これからももっともっとあなたのこと知りたいですよ」=“I wanna know lots and lots more about you~”
-「うん、いいよ。俺にもまたたくさん話してくれる？」=“Yeah, why not? Will you tell me lots about yourself too?”
-「もちろんなのです！　これからもよろしくお願いするです！」=“Of course! Let's get to know each other super well!”
-「……ということで、私はそろそろ行かなくてはならないです！　ではでは、またー！」=“...On that note, I need to dash, like right now! Well then, see you!”
+//「ここのところ、なんだかあなたとお話するのがどんどん楽しくなってきてるです！」=
+//「本当に？　だったら良かった。俺も楽しいよ。知り合えて良かった！」=
+//「えへへ、そう思ってもらえると私も嬉しいです！　男子とお話するのって本当に新鮮なのです！」=
+//「私、これからももっともっとあなたのこと知りたいですよ」=
+//「うん、いいよ。俺にもまたたくさん話してくれる？」=
+//「もちろんなのです！　これからもよろしくお願いするです！」=
+//「……ということで、私はそろそろ行かなくてはならないです！　ではでは、またー！」=

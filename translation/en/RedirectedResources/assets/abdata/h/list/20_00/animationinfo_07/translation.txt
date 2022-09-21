@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-騎乗位クンニ=3P Cowgirl
-騎乗位クンニ入れ替え=3P Cowgirl Switch
-後背位手マン=3P Doggy
-後背位手マン入れ替え=3P Doggy Switch
+//騎乗位クンニ=
+//騎乗位クンニ入れ替え=
+//後背位手マン=
+//後背位手マン入れ替え=

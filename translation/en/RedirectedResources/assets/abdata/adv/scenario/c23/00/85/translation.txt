@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「恋人が憧れるシチュエーションかぁ。ワタシならゲームしてる時が良いかなぁ」=“A lovey-dovey situation, huh? Something you could do while playing a game would be nice.”
-「そうだなぁ……それなら」=“Playing a game, huh... in that case.”
-「一緒にゲームしてる彼氏の肩に彼女がいつの間にか寄りかかるっていうのは？」=“How about this. You're playing a multiplayer game with your boyfriend, and before you realize it, you end up resting your head on his shoulder.”
-「それ、いいかも！　早速やってみませう」=“That might be nice! Let's try it right now.”
-「……う、うん、悪くない。というか、とても良いなぁ。なんか安心する」=“...Y-Yeah, it's not bad. Heck, it's really nice. It kinda makes me feel safe.”
-「寄りかかられる方も、頼られてる気がして良いかもしれないね」=“As the one being leaned on, the feeling of being depended upon is nice too.”
+//「恋人が憧れるシチュエーションかぁ。ワタシならゲームしてる時が良いかなぁ」=
+//「そうだなぁ……それなら」=
+//「一緒にゲームしてる彼氏の肩に彼女がいつの間にか寄りかかるっていうのは？」=
+//「それ、いいかも！　早速やってみませう」=
+//「……う、うん、悪くない。というか、とても良いなぁ。なんか安心する」=
+//「寄りかかられる方も、頼られてる気がして良いかもしれないね」=

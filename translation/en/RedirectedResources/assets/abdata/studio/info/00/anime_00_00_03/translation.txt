@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-歩く1=Walking 1
-歩く2=Walking 2
-走る1=Running 1
-走る2=Running 2
-走る3=Running 3
-走る4=Running 4
+//歩く1=
+//歩く2=
+//走る1=
+//走る2=
+//走る3=
+//走る4=

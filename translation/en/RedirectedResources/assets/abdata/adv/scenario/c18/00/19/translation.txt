@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「おはようございます。今日はいつもより転ぶ回数が少なかったので、あまり不幸が起こらない気がするんです！」=Good morning. I didn't trip over stuff today as much as I usually do, so I think it's gonna be a pretty good day!
+//「おはようございます。今日はいつもより転ぶ回数が少なかったので、あまり不幸が起こらない気がするんです！」=

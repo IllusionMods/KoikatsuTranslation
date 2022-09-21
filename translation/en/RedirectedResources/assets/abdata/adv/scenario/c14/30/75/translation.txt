@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「行くぞっ！」=Here I come--!
-「来いよ！」=Come!
-「そりゃ！　シュート……！　しまった！」=Here! Take this...! Shoot!
-「はんっ！　まだまだだな！」=Hah--! You've still got a ways to go!
+//「行くぞっ！」=
+//「来いよ！」=
+//「そりゃ！　シュート……！　しまった！」=
+//「はんっ！　まだまだだな！」=

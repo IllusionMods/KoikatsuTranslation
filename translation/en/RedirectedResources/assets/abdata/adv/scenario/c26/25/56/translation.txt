@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「……えっ？　なん、で……？」=“...Eh--? Wh, y...?”
-「……ごめん」=“...Sorry.”
-「なんで……私、[P]に嫌われるようなことした？」=“Why... did I, do something to make you hate me?”
-「……ひどいよ、そんなの……捨てないで……」=“...This is, too cruel... don't throw me, away...”
+//「……えっ？　なん、で……？」=
+//「……ごめん」=
+//「なんで……私、[P]に嫌われるようなことした？」=
+//「……ひどいよ、そんなの……捨てないで……」=

@@ -1,17 +1,17 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「あのさ。もし良かったらなんだけど、愛称で呼び合ってみない？」=“Hey, listen. If it's alright with you, mind if we try calling each other by nicknames?”
-「愛称……ですか。構いませんよ。なんだか新鮮な感じになりそうですね」=“Nicknames... you say? I don't mind. It does feel like it might be quite refreshing.”
-「ありがとう。それじゃあまず、俺のことは[Pあだ名]って呼んでくれるかな」=“Thank you. Well then, to start things off, could you call me [Pあだ名]?”
-「えっ？　そ、それは愛称なのでしょうか。なにか違うような……」=“Eh--? I-Is that really a nickname? I don't feel like it is...”
-「普通とはちょっと違うかもしれないけど、そう呼んでほしいんだ。ダメ？」=“It might not be a normal nickname, but I want you to call me that nonetheless. Please?”
-「ええと…………わ、わかりました。他ならぬあなたのお願いですから……良いですよ」=“Eerhm... I-I understand. It's you who's asking, rather than anybody else so... alright.”
-「ありがとう！　それじゃあ、俺から呼ぶね」=“Thank you! Well then, I'll start, okay?”
-「は、はい……分かりました」=“Y-Yes... I understand.”
-「[Hあだ名]……」=“[Hあだ名]...”
-「……[Pあだ名]」=“...[Pあだ名].”
-「……ううぅ、は、恥ずかしいです……」=“...Uuuu, s-so embarrassing...”
-「嫌だった？」=“Didn't like it?”
-「い、いえ、そんなことは……たまに呼び合う分には……その、問題ないと思います」=“N-No, that's not... I think it'd be fine... to, uhm, call each other that, every so often.”
-「そっか。なら、時々こうやって呼んでみるね」=“I see. Then, I'll try calling you that every so often, alright?”
+//「あのさ。もし良かったらなんだけど、愛称で呼び合ってみない？」=
+//「愛称……ですか。構いませんよ。なんだか新鮮な感じになりそうですね」=
+//「ありがとう。それじゃあまず、俺のことは[Pあだ名]って呼んでくれるかな」=
+//「えっ？　そ、それは愛称なのでしょうか。なにか違うような……」=
+//「普通とはちょっと違うかもしれないけど、そう呼んでほしいんだ。ダメ？」=
+//「ええと…………わ、わかりました。他ならぬあなたのお願いですから……良いですよ」=
+//「ありがとう！　それじゃあ、俺から呼ぶね」=
+//「は、はい……分かりました」=
+//「[Hあだ名]……」=
+//「……[Pあだ名]」=
+//「……ううぅ、は、恥ずかしいです……」=
+//「嫌だった？」=
+//「い、いえ、そんなことは……たまに呼び合う分には……その、問題ないと思います」=
+//「そっか。なら、時々こうやって呼んでみるね」=

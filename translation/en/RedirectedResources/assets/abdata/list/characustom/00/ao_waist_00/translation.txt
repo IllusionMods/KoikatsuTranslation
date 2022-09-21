@@ -1,14 +1,14 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-腰巻カーディガン=Wrapped Cardigan
-エレガントリボン=Elegant Ribbon
-テールリボン=Tail Ribbon
-ウォレットチェーン=Wallet Chain
-刀の鞘=Sword Scabbard
-小悪魔尻尾=Devil Tail
-悪魔尻尾=Demon Tail
-ウサギ尻尾=Rabbit Tail
-キツネ尻尾=Fox Tail
-エレキギター=Electric Guitar
-ベルト=Belt
+//腰巻カーディガン=
+//エレガントリボン=
+//テールリボン=
+//ウォレットチェーン=
+//刀の鞘=
+//小悪魔尻尾=
+//悪魔尻尾=
+//ウサギ尻尾=
+//キツネ尻尾=
+//エレキギター=
+//ベルト=

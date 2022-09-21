@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「私、きちんとご奉仕できてましたか……？　不慣れだから、わからなくて……」=Did I serve you well...? I'm not used to this, so I don't really know...
-「すごく良かったよ」=It was great.
-「それなら、よかったです。また、しましょうね」=I'm glad then. Let's do this again, okay?
+//「私、きちんとご奉仕できてましたか……？　不慣れだから、わからなくて……」=
+//「すごく良かったよ」=
+//「それなら、よかったです。また、しましょうね」=

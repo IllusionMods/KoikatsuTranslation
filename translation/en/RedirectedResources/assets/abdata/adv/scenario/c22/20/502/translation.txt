@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「[H名]、こっちこっちー」=[H名], over here~
-「遅れちゃってごめんね！　結構待っちゃったよね？」=Sorry for getting here late! I made you wait a lot, didn't I?
-「ううん、ほんの数分だから平気だよ。でも[H名]が遅刻なんて珍しいよね。何かあったの？」=No, it's just a few minutes, no big deal. But, you of all people being late, that's rare. Did something happen?
-「うぅ……髪型とかお洋服とかが決まらなかったのです……なんだか色々悩んじゃって……結局、お気に入りの格好で来ちゃった」=Uuu... I couldn't decide on how to do my hair and what to wear... I spent so much time on it... only to just put on whatever I liked.
-「あはは、いつものままで十分可愛いのに。でも……真剣に悩んでくれたのは嬉しいかも。今日は目一杯楽しんでもらえるように努力するからね！」=Ahaha, you're more than adorable just as you are though. But... hearing you say that you spent time on that for me makes me happy. I'll do my best so that you have a great time today, just you wait!
-（さてと……どこに行ったら楽しんでもらえるかな）=(Now then... what'd be the most fun for her?)
+//「[H名]、こっちこっちー」=
+//「遅れちゃってごめんね！　結構待っちゃったよね？」=
+//「ううん、ほんの数分だから平気だよ。でも[H名]が遅刻なんて珍しいよね。何かあったの？」=
+//「うぅ……髪型とかお洋服とかが決まらなかったのです……なんだか色々悩んじゃって……結局、お気に入りの格好で来ちゃった」=
+//「あはは、いつものままで十分可愛いのに。でも……真剣に悩んでくれたのは嬉しいかも。今日は目一杯楽しんでもらえるように努力するからね！」=
+//（さてと……どこに行ったら楽しんでもらえるかな）=

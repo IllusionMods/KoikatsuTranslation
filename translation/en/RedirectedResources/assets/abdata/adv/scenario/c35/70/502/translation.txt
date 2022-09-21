@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「あ、来てた来てた！　[H名]ー！　待たせてごめん！」=Ah, you were here already! [H名]! Sorry for making you wait!
-「ううん、全然待っとらんよ。やけん、そげん急がんでも良かったんに」=No, I didn't wait much at all. You didn't have to rush that much, you know?
-「はぁ、はぁ……だってさ、目の前で[H名]が待ってたら、つい走っちゃうよ」=Haa, haa... I just can't help but rush, when I see you waiting for me like that.
-「わわっ、い、いきなりそげんこと……デート始まる前から照れるやん……」=Wawah--, s-saying that out of nowhere... we've not even started the date and I'm already blushing...
-「あはは、俺なんてもう昨日の夜から照れてるよ。さてと……それじゃ今日はどうしようかな」=Ahaha, I've been blushing since last night myself. Now then... what shall we do today?
+//「あ、来てた来てた！　[H名]ー！　待たせてごめん！」=
+//「ううん、全然待っとらんよ。やけん、そげん急がんでも良かったんに」=
+//「はぁ、はぁ……だってさ、目の前で[H名]が待ってたら、つい走っちゃうよ」=
+//「わわっ、い、いきなりそげんこと……デート始まる前から照れるやん……」=
+//「あはは、俺なんてもう昨日の夜から照れてるよ。さてと……それじゃ今日はどうしようかな」=

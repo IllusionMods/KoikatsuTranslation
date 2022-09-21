@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-半ピラミッド(キャラ)=Half Pyramid (Character)
-角なし半四角錐(キャラ)=Beveled Half-Squared Pyramid (Character)
-半コーン(キャラ)=Half Cone (Character)
-階段型(キャラ)=Stairs (Character)
-半カプセル(キャラ)=Half Capsule (Character)
+//半ピラミッド(キャラ)=
+//角なし半四角錐(キャラ)=
+//半コーン(キャラ)=
+//階段型(キャラ)=
+//半カプセル(キャラ)=

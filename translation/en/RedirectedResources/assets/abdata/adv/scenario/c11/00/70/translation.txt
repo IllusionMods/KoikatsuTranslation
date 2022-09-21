@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「あなたが答えを間違えちゃう理由がわかったわ！」=“I've figured out why you get your answers wrong!”
-「あ、思考のクセってやつかな。自分では気付けないやつだ」=“Ah, one of those things, huh? Something I can't realize on my own.”
-「お腹が空いてるからよ。ほらまた、ぐ～って小さく鳴ったわ」=“It's because your belly's empty. Look, it just growled a little bit again.”
-（それ、君のお腹の音なんだけどな……）=(That's not my belly though...)
+//「あなたが答えを間違えちゃう理由がわかったわ！」=
+//「あ、思考のクセってやつかな。自分では気付けないやつだ」=
+//「お腹が空いてるからよ。ほらまた、ぐ～って小さく鳴ったわ」=
+//（それ、君のお腹の音なんだけどな……）=

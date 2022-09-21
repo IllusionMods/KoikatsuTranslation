@@ -1,22 +1,22 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「ちょっと小腹が空いてきたね」=“I'm starting to feel a little peckish.”
-「[H名]も、あんまり長時間歌いつづけていたら疲れない？」=“You too, [H], aren't you tired after singing for so long?”
-「うん……この交信方法はいつもと違って声を出すから、力を補充しないと」=“Yeah... unlike normally, this communication method requires for me to actually use my voice so, energy replenishment is a must.”
-「はは、そうだね。せっかくだし、何か注文しようよ」=“Haha, right. Well then, how about we order something?”
-「俺はとりあえずドリンクとナゲットを頼もうと思うけど、[H名]はどれにする？」=“I'm personally feeling like some chicken nuggets and a drink, but what about you, [H]?”
-「えっと、それじゃあ……このパスタと、ピザと……あとパフェを……」=“Erhm, well then... this pasta, the pizza and... a parfait...”
-「そ、そんなに頼んで大丈夫？」=“Y-You sure you can eat that much?”
-「いつもより体力を使うからかな？　メニューを見てたら、急にお腹がペコペコになってきちゃって」=“Wonder if it's because I've used up a lot more energy than usual? Looking at the menu made me belly go all empty all of a sudden.”
-「そっか。でも、あんまり一気に食べ過ぎるとお腹に悪いよ？」=“I see. But, if you eat so much all in one go, your belly's going to have a hard time processing it, you know?”
-「うん。わかってはいるけど……」=“Yeah. I understand that, but...”
-「なら、一緒に食べようか？　もし足りなかったら、また追加すればいいよ」=“Then, want to eat it together? If it's not enough, we can just order more.”
-「やった♪　これでいろいろ食べられるね。じゃあ早速、注文しよ？」=“Yay♪ This way, we can try out all sorts of dishes. Then, let's place the other?”
-「どうしようかな……脂っこいものとか、量が多いものは避けたいし……」=“What should I go with... I'd rather not get anything oily, or heavy...”
-「ああ……[H名]、小食だからね」=“Aah... right, you don't eat that much, do you?”
-「でも、なにもお腹に入れないまま歌い続けるのはやめたほうがいいよ？　俺も心配になるし」=“But, you shouldn't keep on singing with nothing in your belly like that, you know? I'm gonna get worried too.”
-「そうだよね……うーん……」=“Right... mmm...”
-「サラダとか、軽いものを少しずつ注文しようか。もし食べられなかったら、残りは俺が食べるからさ」=“Let's just order something light, like a salad or whatever, one dish at a time. If you can't finish it, then I'll just eat the leftovers.”
-「本当にっ？　ありがとう、これで交信を続けられるよ。料理の待ち時間でもう一曲……」=“Really--? Thank you, I can keep communicating like this. I'll do one more song while our order's cooking...”
-「はは。あんまり飛ばしすぎないようにね？」=“Haha. Try not to get too crazy, okay?”
+//「ちょっと小腹が空いてきたね」=
+//「[H名]も、あんまり長時間歌いつづけていたら疲れない？」=
+//「うん……この交信方法はいつもと違って声を出すから、力を補充しないと」=
+//「はは、そうだね。せっかくだし、何か注文しようよ」=
+//「俺はとりあえずドリンクとナゲットを頼もうと思うけど、[H名]はどれにする？」=
+//「えっと、それじゃあ……このパスタと、ピザと……あとパフェを……」=
+//「そ、そんなに頼んで大丈夫？」=
+//「いつもより体力を使うからかな？　メニューを見てたら、急にお腹がペコペコになってきちゃって」=
+//「そっか。でも、あんまり一気に食べ過ぎるとお腹に悪いよ？」=
+//「うん。わかってはいるけど……」=
+//「なら、一緒に食べようか？　もし足りなかったら、また追加すればいいよ」=
+//「やった♪　これでいろいろ食べられるね。じゃあ早速、注文しよ？」=
+//「どうしようかな……脂っこいものとか、量が多いものは避けたいし……」=
+//「ああ……[H名]、小食だからね」=
+//「でも、なにもお腹に入れないまま歌い続けるのはやめたほうがいいよ？　俺も心配になるし」=
+//「そうだよね……うーん……」=
+//「サラダとか、軽いものを少しずつ注文しようか。もし食べられなかったら、残りは俺が食べるからさ」=
+//「本当にっ？　ありがとう、これで交信を続けられるよ。料理の待ち時間でもう一曲……」=
+//「はは。あんまり飛ばしすぎないようにね？」=

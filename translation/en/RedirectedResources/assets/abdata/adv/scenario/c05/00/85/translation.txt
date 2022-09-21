@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「この前、雑誌でこういうの見つけたんだ。今日はそれをやってみよう」=“I read about this in a magazine the other day. So let's go with it for today.”
-「いいよ……ふーん、こういうのにみんな憧れるんだね」=“Sure... hmmm, everyone's into this sort of stuff, huh?”
-「それじゃ、いくよ……」=“Well then, here I go...”
-「……どう？　って、あれ？　……寝ちゃってる」=“...How is it? Wait, huh? ...She's already asleep.”
-「んん～、むにゃむにゃ……みんなぁ……わたしも早くそこに、寂しい……」=“Nnn~, *mumble*... everyone... I'll be there soon, so lonely...”
-「……あれ？　寝ちゃってた……ごめん」=“...Huh? I fell asleep... Sorry.”
-「ううん、いいよ。おかげで珍しい姿が見れたしね」=“No, it's fine. I got to see a side of you I've not seen before, thanks to it.”
+//「この前、雑誌でこういうの見つけたんだ。今日はそれをやってみよう」=
+//「いいよ……ふーん、こういうのにみんな憧れるんだね」=
+//「それじゃ、いくよ……」=
+//「……どう？　って、あれ？　……寝ちゃってる」=
+//「んん～、むにゃむにゃ……みんなぁ……わたしも早くそこに、寂しい……」=
+//「……あれ？　寝ちゃってた……ごめん」=
+//「ううん、いいよ。おかげで珍しい姿が見れたしね」=

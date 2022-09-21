@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「おはよう、[Pあだ名]」=“Good morning, [Pあだ名].”
-「あ、おはよう。[Hあだ名]」=“Ah, good morning. [Hあだ名].”
-「朝からコードネームで呼び合うのって、すごく特別な間柄みたい」=“Calling each other with these codenames, makes us feel so close.”
+//「おはよう、[Pあだ名]」=
+//「あ、おはよう。[Hあだ名]」=
+//「朝からコードネームで呼び合うのって、すごく特別な間柄みたい」=

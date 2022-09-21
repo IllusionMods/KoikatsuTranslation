@@ -1,20 +1,20 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「ん～！　この公園、とっても綺麗だよね～」=Nn~! This part, it's really pretty, don't you think~
-「ん？　あぁ、そうだね！」=Nn? Ah, yeah, it is!
-（それにしても、今日も[H名]は可愛いな～）=(At any rate, she's adorable as usual today too~)
-「んー、何をジロジロ見てるの～？」=Nn, what are you starting at me so hard for~?
-「えっと、俺の彼女は今日も素敵だなって、改めて思ってたんだ」=Erhm, I was just having the realization that my girlfriend is lovely as usual today too.
-「ど、どしたの急に？　ずっごい照れくさいじゃん」=W-What's up, all of a sudden? That's super embarrassing.
-「ははは……デートだから浮かれちゃってるのかも」=Hahaha... I might be getting a bit too into it, since we're on a date and stuff.
-「そっかぁ。じゃあ……もっと浮かれちゃうこと、してみる？」=I see. Well then... wanna try doing something that'll make you get even more into it?
-「ゴクリ……そ、それは、どんなこと？」=*Gulp*... W-What "something" would that be?
-「あっ、エッチな顔してる～♪　そーゆーのじゃなくて、今はこっち」=Ah--, you're making a lewd face~♪ Not that sort of thing, I mean this.
-「ほら、手を繋ごっ？」=Come on, let's hold hands?
-「あぁ、そっちか。えーとじゃ、失礼して……恋人繋ぎを！」=Aah, that, huh? Erhm, then, here we go... a lover's grip!
-「あは、[P名]くんってば、だいたーん♪」=Aha, you're always so bold, [P名]-kun♪
-「どうせなら、もっと[H名]と深く繋がりたいしね」=Well if we were gonna do it, I wanted to grab an even closer hold of you.
-「……[P名]くんは、アタシを幸せな気持ちにすることばかり言ってくれるね」=...You always know exactly what to say to make me happy, [P名]-kun.
-「[H名]の彼氏ですから！　全力で[H名]が喜んでくれることをするよ」=I'm your boyfriend, afterall! I do my best to make you happy with everything I do.
-「も、もー……[P名]くんってば、マジで浮かれすぎだって～……」=J-Jeez... You really are getting way too much into this, [P名]-kun~...
+//「ん～！　この公園、とっても綺麗だよね～」=
+//「ん？　あぁ、そうだね！」=
+//（それにしても、今日も[H名]は可愛いな～）=
+//「んー、何をジロジロ見てるの～？」=
+//「えっと、俺の彼女は今日も素敵だなって、改めて思ってたんだ」=
+//「ど、どしたの急に？　ずっごい照れくさいじゃん」=
+//「ははは……デートだから浮かれちゃってるのかも」=
+//「そっかぁ。じゃあ……もっと浮かれちゃうこと、してみる？」=
+//「ゴクリ……そ、それは、どんなこと？」=
+//「あっ、エッチな顔してる～♪　そーゆーのじゃなくて、今はこっち」=
+//「ほら、手を繋ごっ？」=
+//「あぁ、そっちか。えーとじゃ、失礼して……恋人繋ぎを！」=
+//「あは、[P名]くんってば、だいたーん♪」=
+//「どうせなら、もっと[H名]と深く繋がりたいしね」=
+//「……[P名]くんは、アタシを幸せな気持ちにすることばかり言ってくれるね」=
+//「[H名]の彼氏ですから！　全力で[H名]が喜んでくれることをするよ」=
+//「も、もー……[P名]くんってば、マジで浮かれすぎだって～……」=

@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「おはようございます。朝からあなたに会えるなんて、今日はいい日になりそうです」=Good morning. Being able to see you so early in the morning, looks like today will be a good day.
+//「おはようございます。朝からあなたに会えるなんて、今日はいい日になりそうです」=

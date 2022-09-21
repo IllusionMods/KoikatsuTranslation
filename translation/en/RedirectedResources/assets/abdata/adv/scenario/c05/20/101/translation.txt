@@ -1,20 +1,20 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「へえ……このあたりは案外、穴場だね。歩道から離れているから人も少ないし、景色もいい」=“Hoh... this area's quite the nice spot, isn't it? It's a ways away from the main path, so there's not many people, and the view's great too.”
-「そうなの。公園の中だと、ここは最高の交信スポットなんだよ？」=“That's right. This is the best spot in this park for communication, you know?”
-「邪魔するものがないから、電波がよく届くの」=“There's nothing that gets in the way so, the reception's quite good.”
-「ああ、なるほど……そういう見方はなかったなぁ」=“Aah, I see... Never really thought about it that way.”
-「夜に来て交信するのを日課にしようかどうか、迷うレベル」=“It's so good, I really tempted to come here daily at night to do some communication.”
-「それはやめようか……[H名]が不審者に思われるのは嫌だし、夜に女の子がひとりで歩くのは危ないよ」=“Let's not do that... I'd really rather you weren't thought of as some sort of weirdo by others, and it's not safe for a girl to be walking around by herself at night.”
-「あ、そっか……気遣ってくれてありがとう」=“Ah, I see... thanks for looking out for me.”
-「そうだっ。ひとりが危ないなら、あなたと一緒に毎晩来るとか？」=“Right--. If it's too unsafe by myself then, how about we come here together every evening?”
-「そんなに通いたいのか……よっぽど電波環境いいんだね、ここ」=“You want to come here that badly, huh... This place must have seriously good reception, then.”
-「なんなら、今からふたりで“かれら”と交信したいくらい」=“Heck, I want to communicate with "them" together, right here right now.”
-「ほら、こうやって手をつないで……」=“C'mon, we hold our hands like this...”
-「ん？　手をつないで交信するときは、空に掲げるんじゃなかったっけ？」=“Nn? When we communicate while holding hands, shouldn't we be raising them towards the sky?”
-「あれはあなたが恥ずかしがるでしょ？」=“That'd just make you embarrassed, no?”
-「うん、まあ……否定はしないけど」=“Yeah, well... I won't deny that.”
-「それに……あなたと手をつなぐ理由がほしかったから……」=“Also... I really just wanted, a reason to hold your hand so...”
-「[H名]……そっか。たしかに、デートだもんね。むしろ、俺からつなぐべきだったな」=“[H]... I see. For sure, we're on a date afterall. If anything, I should have been the one to grab your hand from the get go.”
-「よしっ。それじゃ、このまま交信を続けながら、公園を散歩でもしようか」=“Alright--. Let's take a walk through this park, while communicating with them.”
+//「へえ……このあたりは案外、穴場だね。歩道から離れているから人も少ないし、景色もいい」=
+//「そうなの。公園の中だと、ここは最高の交信スポットなんだよ？」=
+//「邪魔するものがないから、電波がよく届くの」=
+//「ああ、なるほど……そういう見方はなかったなぁ」=
+//「夜に来て交信するのを日課にしようかどうか、迷うレベル」=
+//「それはやめようか……[H名]が不審者に思われるのは嫌だし、夜に女の子がひとりで歩くのは危ないよ」=
+//「あ、そっか……気遣ってくれてありがとう」=
+//「そうだっ。ひとりが危ないなら、あなたと一緒に毎晩来るとか？」=
+//「そんなに通いたいのか……よっぽど電波環境いいんだね、ここ」=
+//「なんなら、今からふたりで“かれら”と交信したいくらい」=
+//「ほら、こうやって手をつないで……」=
+//「ん？　手をつないで交信するときは、空に掲げるんじゃなかったっけ？」=
+//「あれはあなたが恥ずかしがるでしょ？」=
+//「うん、まあ……否定はしないけど」=
+//「それに……あなたと手をつなぐ理由がほしかったから……」=
+//「[H名]……そっか。たしかに、デートだもんね。むしろ、俺からつなぐべきだったな」=
+//「よしっ。それじゃ、このまま交信を続けながら、公園を散歩でもしようか」=

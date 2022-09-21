@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「なになに？　私、どこに連れて行かれちゃうのかな？」=What, what~? Where am I being taken to, I wonder?
-「どこだと思う？」=Where do you think?
-「わぁ、意味深な言い方ー！　ちょっと怖いけど……ちょっと期待しちゃう……」=Wah, what a suggestive way of saying it! Now you're scaring me a bit... but I'm excited too...
+//「なになに？　私、どこに連れて行かれちゃうのかな？」=
+//「どこだと思う？」=
+//「わぁ、意味深な言い方ー！　ちょっと怖いけど……ちょっと期待しちゃう……」=

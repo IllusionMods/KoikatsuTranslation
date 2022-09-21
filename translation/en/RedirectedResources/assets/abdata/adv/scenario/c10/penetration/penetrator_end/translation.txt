@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「あの、えっと、ありがとう……よ、良かったら、また交ぜてほしい、です……」=“Uhm, erhm, thanks... i-if it's fine, I'd love to, join again...”
+//「あの、えっと、ありがとう……よ、良かったら、また交ぜてほしい、です……」=

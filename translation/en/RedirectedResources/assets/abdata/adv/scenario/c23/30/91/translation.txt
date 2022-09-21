@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「[Pあだ名]、おはようですぞ」=“Good morning, [Pあだ名].”
-「おはよう、[Hあだ名]」=“Morning, [Hあだ名].”
-「ふふ、照れくさいけど、朝から仲睦まじい二人なんだなぁ」=“Fufu, it's embarrassing as heck but, a pair of lovebirds are we~”
+//「[Pあだ名]、おはようですぞ」=
+//「おはよう、[Hあだ名]」=
+//「ふふ、照れくさいけど、朝から仲睦まじい二人なんだなぁ」=

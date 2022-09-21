@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「はーすごかったなー、お陰でくたくただぞー……」=“Haa, that was amazng, I'm beat...”
+//「はーすごかったなー、お陰でくたくただぞー……」=

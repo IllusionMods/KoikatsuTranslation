@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「デート？　お姉さんと？　へぇ、キミ、物好きなんだね」=A date? With onee-san? Huh, you sure do love your strange ideas.
-「え……嘘、もしかして[H名]って、デートに求めるハードル高いの？」=Eh... No way, could it be, that I need to prove myself more before I can take you out, [H名]?
-「ふふっ、さてさてどうかなぁ？　なーんて……冗談よ。楽しいデートだったら何でもＯＫ。よろしくね♪」=Fufu, well, who really knows? Just kidding... I'm just teasing you. I don't mind any kind of a date, as long as its fun. Please take care of me ♪
+//「デート？　お姉さんと？　へぇ、キミ、物好きなんだね」=
+//「え……嘘、もしかして[H名]って、デートに求めるハードル高いの？」=
+//「ふふっ、さてさてどうかなぁ？　なーんて……冗談よ。楽しいデートだったら何でもＯＫ。よろしくね♪」=

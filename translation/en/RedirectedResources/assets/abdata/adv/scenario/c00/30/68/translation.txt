@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-………………=.........
-…………=......
-……=...
-「あ、俺の家こっちの方なんだ」=Ah, my place is this way.
-「あら、それじゃここでお別れなのね……寂しいけど、またね」=Oh dear, that means this is where we part... it feels sad but, till next time.
+//………………=
+//…………=
+//……=
+//「あ、俺の家こっちの方なんだ」=
+//「あら、それじゃここでお別れなのね……寂しいけど、またね」=

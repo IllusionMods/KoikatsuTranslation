@@ -1,20 +1,20 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「ワタシ、あまり普通の喫茶店に来たことがないんだ」=“I don't really come to these normal sort of cafes all that much.”
-「普通じゃない喫茶店というと漫画喫茶のことかな？」=“I assume you mean that you frequent mostly manga cafes and such?”
-「うん！　そう！　漫画喫茶、ネット喫茶を考えた人はまさに神！！」=“Yeah! Exactly! Whoever thought up of manga cafes or internet cafes and whatnot was a genius, nay, a god!!”
-「はは、そこまでいいますか……もしかして毎日行ってるの？」=“Haha, that much, huh?... Do you go to one daily?”
-「さすがに毎日は行きませぬ」=“Not that much, even I'm not that far gone.”
-「それを聞いて安心したよ。でも、それならどういうときに行ってるの？」=“That's a relief. But, when do you go then?”
-「うーん、興味のある漫画が溜まったり、ネトゲの限定イベントがあったりする時に使ってるね」=“Nnn, when there's a bunch of released manga piled up that I wanna read, or whenever there's a limited time event going on in the MMO I play.”
-「ネトゲイベントでは一晩明かすことあったなぁ……」=“This one time, I ended up staying up all night for one of those...”
-「はは、ひたすらブラックコーヒー飲んでそうだ」=“Haha, I can almost imagine you just chugging down cup after cup of black coffee.”
-「あなたの言う通り飲んでますぞ。徹夜にカフェインは必需品ゆえ」=“It's as you say, I'm a black coffee drinker. Can't stay up all night without caffeine.”
-「さらにエナジードリンクがあると完璧な布陣が……！」=“Add in an energy drink, and truly, you're prepared for anything, come hell or high water...!”
-「頼むから……身体を壊さないようにしてくれよ」=“I'm begging you... just don't ruin your body, okay?”
-「えへ、へ……気をつけまーす……」=“Eheh, heh... I'll try...”
-「ブラックコーヒー？　あれは泥水ですぞ！」=“Black coffee? That's worse than literal dirt!”
-「そ、そう……？」=“T-That so...?”
-「オタクとしてブラックコーヒーに憧れはあるけど、食事の好みは別物ですなぁ」=“As an otaku, black coffee is truly an ideal substance, but your taste in entertainment and your taste in actual human food are completely different things.”
-「あはは……憧れだけじゃ、やっぱりあの苦さはこえられないかー」=“Ahaha... an ideal substance, huh? For sure, something like that's probably not enough to get past that bitterness.”
+//「ワタシ、あまり普通の喫茶店に来たことがないんだ」=
+//「普通じゃない喫茶店というと漫画喫茶のことかな？」=
+//「うん！　そう！　漫画喫茶、ネット喫茶を考えた人はまさに神！！」=
+//「はは、そこまでいいますか……もしかして毎日行ってるの？」=
+//「さすがに毎日は行きませぬ」=
+//「それを聞いて安心したよ。でも、それならどういうときに行ってるの？」=
+//「うーん、興味のある漫画が溜まったり、ネトゲの限定イベントがあったりする時に使ってるね」=
+//「ネトゲイベントでは一晩明かすことあったなぁ……」=
+//「はは、ひたすらブラックコーヒー飲んでそうだ」=
+//「あなたの言う通り飲んでますぞ。徹夜にカフェインは必需品ゆえ」=
+//「さらにエナジードリンクがあると完璧な布陣が……！」=
+//「頼むから……身体を壊さないようにしてくれよ」=
+//「えへ、へ……気をつけまーす……」=
+//「ブラックコーヒー？　あれは泥水ですぞ！」=
+//「そ、そう……？」=
+//「オタクとしてブラックコーヒーに憧れはあるけど、食事の好みは別物ですなぁ」=
+//「あはは……憧れだけじゃ、やっぱりあの苦さはこえられないかー」=

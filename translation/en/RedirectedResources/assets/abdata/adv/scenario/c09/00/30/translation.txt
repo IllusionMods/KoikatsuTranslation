@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「嬉しい～！　さすがあたしの[P]！　よくわかってるぅ！」=“I'm so happy~! That's my [P] for you! You know me so well!”
+//「嬉しい～！　さすがあたしの[P]！　よくわかってるぅ！」=

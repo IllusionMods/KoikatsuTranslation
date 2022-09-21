@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「ちょっとコンビニ行ってもいい？」=Mind if we stop by the convenience store?
-「別にいいけどなんか用事あんのか？」=Sure but, you got something you need?
-「いや、アイス食べたいなぁって思って」=No, I was just thinking that maybe I'll grab an ice cream and stuff.
-「まさか自分の分だけ買うつもりじゃねぇよな？」=You aren't planning on buying one just for yourself, are you?
-「も……もちろんきみの分も買うよ！」=I... I'll buy one for you too, of course!
+//「ちょっとコンビニ行ってもいい？」=
+//「別にいいけどなんか用事あんのか？」=
+//「いや、アイス食べたいなぁって思って」=
+//「まさか自分の分だけ買うつもりじゃねぇよな？」=
+//「も……もちろんきみの分も買うよ！」=

@@ -1,13 +1,13 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-………………=.........
-…………=......
-……=...
-「……あっ、そろそろお別れ……」=“...Ah--, it's almost time to say goodbye...”
-CHOICE:「よかったら……このまま家に来ない？」=If you're up for it... wanna come to my place?
-CHOICE:「そっか、じゃあまたね」=Right, see you later then.
-「よかったら……このまま家に来ない？」=“If you're up for it... wanna come to my place?”
-「……うん、いいよ」=“...Yeah, okay.”
-「そっか、じゃあまたね」=“Right, see you later then.”
-「うん、またね……」=“Yeah, later...”
+//………………=
+//…………=
+//……=
+//「……あっ、そろそろお別れ……」=
+//CHOICE:「よかったら……このまま家に来ない？」=
+//CHOICE:「そっか、じゃあまたね」=
+//「よかったら……このまま家に来ない？」=
+//「……うん、いいよ」=
+//「そっか、じゃあまたね」=
+//「うん、またね……」=

@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「二人きりでするのとは全然違う感じで……これはこれでまたやりたいのです♪」=“It felt completely different than doing it by ourselves... I wouldn't mind doing that again♪”
+//「二人きりでするのとは全然違う感じで……これはこれでまたやりたいのです♪」=

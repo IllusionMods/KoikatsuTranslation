@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-………………=.........
-…………=......
-……=...
-「お疲れ様でした。恋愛ってとても興味深いですね」=“Great work today. Romance is quite the interesting topic, isn't it?”
+//………………=
+//…………=
+//……=
+//「お疲れ様でした。恋愛ってとても興味深いですね」=

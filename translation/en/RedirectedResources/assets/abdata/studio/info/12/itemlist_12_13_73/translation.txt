@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-闇=Darkness
-火炎=Flames
-土煙=Dust Clouds
+//闇=
+//火炎=
+//土煙=

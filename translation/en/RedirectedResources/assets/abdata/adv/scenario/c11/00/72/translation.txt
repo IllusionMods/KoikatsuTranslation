@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-………………=.........
-…………=......
-……=...
-「今日はよく頑張りました。花マルあげちゃう！　うふふ」=“You worked real hard today. Let's give you a gold star! Ufufu.”
+//………………=
+//…………=
+//……=
+//「今日はよく頑張りました。花マルあげちゃう！　うふふ」=

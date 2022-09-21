@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「わぁぁん、ここに入っちゃダメじゃないかぁ！　まったく、もぅ、どうしよぉ」=“Waaahn, you can't be in here! Jeez, what do I even do with you~?”
+//「わぁぁん、ここに入っちゃダメじゃないかぁ！　まったく、もぅ、どうしよぉ」=

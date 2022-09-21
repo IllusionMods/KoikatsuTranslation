@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「……あ、この漢字の部首、『さんずい』じゃなくて『にすい』だよ」=...Ah, this kanji's radical isn't 水 but rather the one from 冰.
-「Ｎｏ～！　次こそハｐｅｒｆｅｃｔいける思ったノニ～！」=No~! I thought I'd get it perfectly for sure this time too~!
-「でも、この間違い以外は全問正解だから、すごいよ。[H]って勉強できるんだね」=But, aside from this little mistake, all of the other answers are correct, amazing. You really can study, [H名]
-「アナタの教え方がｇｒａｔｅダカラ思いマス♡　尊敬デース♡」=It's because your way of teaching is awesome♡ I've lots of respect for you♡
-「うーん、やっぱりコイカツ部のお陰かな。色々な子と勉強したし」=Well, I'm sure it's because I'm the president of the Koikatsu club. I've picked up a lot from studying with other girls.
-「ム～……チョットＪｅａｌｏｕｓｙ感じるヨー……」=Muu~... I feel a bit jealous...
-「ご、ごめんごめん。でも役に立ってるから……」=S-Sorry, sorry. But, it's useful so...
+//「……あ、この漢字の部首、『さんずい』じゃなくて『にすい』だよ」=
+//「Ｎｏ～！　次こそハｐｅｒｆｅｃｔいける思ったノニ～！」=
+//「でも、この間違い以外は全問正解だから、すごいよ。[H]って勉強できるんだね」=
+//「アナタの教え方がｇｒａｔｅダカラ思いマス♡　尊敬デース♡」=
+//「うーん、やっぱりコイカツ部のお陰かな。色々な子と勉強したし」=
+//「ム～……チョットＪｅａｌｏｕｓｙ感じるヨー……」=
+//「ご、ごめんごめん。でも役に立ってるから……」=

@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「あっ、おはようございます。朝から会えて、嬉しいです」=Ah--, good morning. Being able to see you first thing, makes me so happy.
+//「あっ、おはようございます。朝から会えて、嬉しいです」=

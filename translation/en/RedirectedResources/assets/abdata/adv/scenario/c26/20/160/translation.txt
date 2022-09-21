@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「ありがとう。大丈夫だった？」=“Thank you. You okay?”
-「うん。……大丈夫」=“Yeah. ...I'm okay.”
-「そっか、よかった。なら、最後に」=“I see, I'm glad. Then, lastly.”
-「ん……。何で、キスを……？」=“Nn... Why, a kiss...?”
-「俺の知ってる映画の主人公がさ、愛し合った後に頬にキスをしてたんだ。それを何となく思い出してさ」=“The protagonists I know, always kissed their girls on the cheek after they did it. I just happened to remember that.”
-「さて、いい時間だし、そろそろ帰ろうか」=“Now then, it's about time, let's go home.”
+//「ありがとう。大丈夫だった？」=
+//「うん。……大丈夫」=
+//「そっか、よかった。なら、最後に」=
+//「ん……。何で、キスを……？」=
+//「俺の知ってる映画の主人公がさ、愛し合った後に頬にキスをしてたんだ。それを何となく思い出してさ」=
+//「さて、いい時間だし、そろそろ帰ろうか」=

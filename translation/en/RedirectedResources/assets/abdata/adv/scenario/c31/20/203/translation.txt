@@ -1,17 +1,17 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「人の数も大分減ってきたな。私達はどうする？」=Most of the people left, huh? What should we do?
-CHOICE:『じゃあ、最後に観覧車に乗ろうよ』=『Then, let's get on the ferris wheel as the last event of the day』
-CHOICE:『俺達もそろそろ帰ろうか』=『We should go home soon too』
-「じゃあ、最後に観覧車に乗ろうよ」=Then, let's get on the ferris wheel as the last event of the day.
-「観覧車か。最後にしては、また退屈そうなものを選んだな」=The ferris wheel, huh? For the last event, you sure picked something boring.
-「うっ、確かに激しい動きとかはないけど。デートの最後だし、ゆっくり夜景観賞がいいかなって」=Uuu, certainly, it doesn't move all that erratically. But, it's almost the end of our date, I thought we could slowly enjoy the nightscape together.
-「ぁっ……そうだな。すまん、おまえが色々考えてくれているのに、退屈そうなんて言って」=Ah--... You're right. Sorry, you went out of your way to plan the whole thing, and here I went calling it boring.
-「いやいや、気にしないで。俺は[H名]と一緒に観覧車に乗れれば、それで満足だからさ」=No, don't worry about it. I'm just satisfied being able to ride the ferris wheel with you, [H名].
-「それじゃ、行こうか。人も少なくなって来てるし、並ばなないで乗れるんじゃないかな」=Well then, shall we? There's not all that many people left in the park, I don't think we'd have to line up to get on it.
-「でも、このまますぐ帰っちゃうのも勿体ないし、お土産を見てからにしようか？」=But, just going home like this feels like a waste. Shall we take a look at the souvenirs first?
-「おっ、いいアイディアだな。お互いに一つずつプレゼントを選ぶなんてどうだ？」=Oh--, what a nice idea. How about we pick a present for each other?
-「おおぉ！　それいいね！　[H名]こそナイスアイディアだよ！」=Oooh! That sounds great! You came up with a nice idea too, [H名]!
-「ただ眺めていても冷やかしにしかならないからな。フフッ、おまえがどんなものを選ぶか、楽しみにさせてもらうぞ」=If we just went to take a look, it'd be nothing but window-shopping, afterall. Fufu--, I'm really looking forward to just what sort of thing you'll pick for me.
-「うぐっ、一気にハードルが上がった気がするけど……わかった、任せてよ！」=Uguh--, I feel like the bar got raised impossibly high in one fell swoop but... Got it, leave it to me!
+//「人の数も大分減ってきたな。私達はどうする？」=
+//CHOICE:『じゃあ、最後に観覧車に乗ろうよ』=
+//CHOICE:『俺達もそろそろ帰ろうか』=
+//「じゃあ、最後に観覧車に乗ろうよ」=
+//「観覧車か。最後にしては、また退屈そうなものを選んだな」=
+//「うっ、確かに激しい動きとかはないけど。デートの最後だし、ゆっくり夜景観賞がいいかなって」=
+//「ぁっ……そうだな。すまん、おまえが色々考えてくれているのに、退屈そうなんて言って」=
+//「いやいや、気にしないで。俺は[H名]と一緒に観覧車に乗れれば、それで満足だからさ」=
+//「それじゃ、行こうか。人も少なくなって来てるし、並ばなないで乗れるんじゃないかな」=
+//「でも、このまますぐ帰っちゃうのも勿体ないし、お土産を見てからにしようか？」=
+//「おっ、いいアイディアだな。お互いに一つずつプレゼントを選ぶなんてどうだ？」=
+//「おおぉ！　それいいね！　[H名]こそナイスアイディアだよ！」=
+//「ただ眺めていても冷やかしにしかならないからな。フフッ、おまえがどんなものを選ぶか、楽しみにさせてもらうぞ」=
+//「うぐっ、一気にハードルが上がった気がするけど……わかった、任せてよ！」=

@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-………………=.........
-…………=......
-……=...
-「ただお昼を一緒に食べただけなのに……キミと一緒だとずっと離れたくなくなっちゃう……もう、私ったらダメね♪」=Even though I just planned on eating lunch together with you... When I'm together with you, I don't feel like parting... I'm such a hopeless girl ♪
+//………………=
+//…………=
+//……=
+//「ただお昼を一緒に食べただけなのに……キミと一緒だとずっと離れたくなくなっちゃう……もう、私ったらダメね♪」=

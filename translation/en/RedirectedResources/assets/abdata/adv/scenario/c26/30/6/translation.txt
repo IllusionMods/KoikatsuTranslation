@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「……行くって、どこに？」="Where are you going?"
-「ついてからのお楽しみ」="It's a good way to have fun."
-「……？」="...Huh?"
+//「……行くって、どこに？」=
+//「ついてからのお楽しみ」=
+//「……？」=

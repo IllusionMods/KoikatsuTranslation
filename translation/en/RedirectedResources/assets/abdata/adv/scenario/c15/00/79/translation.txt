@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「誰かと食べるご飯はおいしーなー」=“Lunch always tastes better with company.”
-「そうだね。一人だと寂しいしね」=“Yeah. Feels lonely to eat by yourself, doesn't it?”
-「うんうん。あたしも一人で食べるのはちょっとヤだなー」=“Yeah, exactly. I kinda hate eating by myself too.”
+//「誰かと食べるご飯はおいしーなー」=
+//「そうだね。一人だと寂しいしね」=
+//「うんうん。あたしも一人で食べるのはちょっとヤだなー」=

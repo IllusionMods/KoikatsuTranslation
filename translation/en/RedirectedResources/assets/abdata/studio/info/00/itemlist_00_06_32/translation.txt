@@ -1,21 +1,21 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-マフラー=Muffler
-小悪魔チョーカー=Devil Choker
-蝶ネクタイ=Bow Tie
-首枷=Metal Collar
-ハートのペンダント=Heart Pendant
-首掛けメガホン=Hanging Megaphone
-一粒ペンダント=Starpoint Pendant
-リボンペンダント=Ribbon Pendant
-ロングネクタイ=Long Necktie
-リボンチョーカー=Ribbon Choker
-星のペンダント=Star Pendant
-土星のペンダント=Saturn Pendant
-聴診器=Stethoscope
-ホイッスル=Whistle
-鈴=Bell
-シデ=Shinto Paper Streamer
-鬼神のリボン=Demon God's Ribbon
-勾玉の首飾り=Magatama Amulet
+//マフラー=
+//小悪魔チョーカー=
+//蝶ネクタイ=
+//首枷=
+//ハートのペンダント=
+//首掛けメガホン=
+//一粒ペンダント=
+//リボンペンダント=
+//ロングネクタイ=
+//リボンチョーカー=
+//星のペンダント=
+//土星のペンダント=
+//聴診器=
+//ホイッスル=
+//鈴=
+//シデ=
+//鬼神のリボン=
+//勾玉の首飾り=

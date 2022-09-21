@@ -1,13 +1,13 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-………………=.........
-…………=......
-……=...
-「ああ、あたし家が向こうだから、もうそろそろ……」=“Aaah, my house is over that way so, we're gonna have to...”
-CHOICE:「……よかったら、ウチに寄ってく？」=...Wanna head to my place then?
-CHOICE:「それじゃあ、ばいばい」=Well then, byebye.
-「……よかったら、ウチに寄ってく？」=“...Wanna head to my place then?”
-「あんたの家に？　もちろんいいわよ。あたしも、ちょうどそう思ってたところだったし」=“Your home? Sure, I'd never say no. I was thinking of asking you the same thing myself.”
-「そっか。それじゃあ、ばいばい」=“I see. Well then, byebye.”
-「うん。また学園で会おうね！　バイバイ！」=“Yeah. Let's see each other again at school! Byebye!”
+//………………=
+//…………=
+//……=
+//「ああ、あたし家が向こうだから、もうそろそろ……」=
+//CHOICE:「……よかったら、ウチに寄ってく？」=
+//CHOICE:「それじゃあ、ばいばい」=
+//「……よかったら、ウチに寄ってく？」=
+//「あんたの家に？　もちろんいいわよ。あたしも、ちょうどそう思ってたところだったし」=
+//「そっか。それじゃあ、ばいばい」=
+//「うん。また学園で会おうね！　バイバイ！」=

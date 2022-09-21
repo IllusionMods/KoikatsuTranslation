@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「はいですっ！　今日はいっぱい頑張るですよ！」=“Yes--! I'm going to go all out today!”
-「おお、ヤル気満々！　声かけて良かった！」=“Ooh, someone's raring to go! I'm glad I asked!”
-「ふふふ、今日の私は燃えてるですよー！　宿題も復習も予習も全部終わらせるのですー！」=“Fufufu, I'm really on fire today! I'mma take care of everything, all our assignments, all our reviews and all the studies for the exams!”
+//「はいですっ！　今日はいっぱい頑張るですよ！」=
+//「おお、ヤル気満々！　声かけて良かった！」=
+//「ふふふ、今日の私は燃えてるですよー！　宿題も復習も予習も全部終わらせるのですー！」=

@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「[H名]って、大胆なことするんだね……」=You sure do some bold things, [H名]...
-「お前が押し付けてくるからだろ？　仕方なくだよ」=It's your fault for pushing it into me, you know? There was no helping it.
-（仕方なく、ねぇ……役得だからいいけど）=(No helping it, huh... Well, I got to enjoy myself, so who cares.)
+//「[H名]って、大胆なことするんだね……」=
+//「お前が押し付けてくるからだろ？　仕方なくだよ」=
+//（仕方なく、ねぇ……役得だからいいけど）=

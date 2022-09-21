@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「先生の男性経験が知りたい？　あら、男性経験だけでいいの？　女性経験もあるかもしれないわよ？」=You want to know about Sensei's experience with men? Oh, are you sure I've only had men? Maybe I've been with women, too, right?
+//「先生の男性経験が知りたい？　あら、男性経験だけでいいの？　女性経験もあるかもしれないわよ？」=

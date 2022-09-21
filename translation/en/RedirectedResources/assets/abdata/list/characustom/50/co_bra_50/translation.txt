@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-アンダーシャツ（女）=Undershirt (Girls)
-アンダーシャツ（男）=Undershirt (Boys)
-キュートブラ=Cute Bra
-ハートリボンブラ=Heart Ribbon Bra
-フラワーレースブラ=Flower Lace Bra
+//アンダーシャツ（女）=
+//アンダーシャツ（男）=
+//キュートブラ=
+//ハートリボンブラ=
+//フラワーレースブラ=

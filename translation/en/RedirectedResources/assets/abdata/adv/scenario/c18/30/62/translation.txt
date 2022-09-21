@@ -1,13 +1,13 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-………………=.........
-…………=......
-……=...
-「寂しいですけど、ここで今日はさようならですね……」=We have to say goodbye here for today, don't we? If only we didn't have to...
-CHOICE:「よかったら、この後家に来ない？」=If it's alright, won't you come over to my place?
-CHOICE:「そうだね……。また今度話そうよ」=Yeah... Let's chat again lots next time.
-「よかったら、この後家に来ない？」=If it's alright, won't you come over to my place?
-「お邪魔してもいいんですか？　ありがとうございます、そうしたいです」=Is it really alright? Thank you very much, I'd love that.
-「そうだね……。また今度話そうよ」=Yeah... Let's chat again lots next time.
-「はい。それじゃあ、さようならです」=Yes. Well then, goodbye.
+//………………=
+//…………=
+//……=
+//「寂しいですけど、ここで今日はさようならですね……」=
+//CHOICE:「よかったら、この後家に来ない？」=
+//CHOICE:「そうだね……。また今度話そうよ」=
+//「よかったら、この後家に来ない？」=
+//「お邪魔してもいいんですか？　ありがとうございます、そうしたいです」=
+//「そうだね……。また今度話そうよ」=
+//「はい。それじゃあ、さようならです」=

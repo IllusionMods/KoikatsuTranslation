@@ -1,18 +1,18 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-モブ=Mob
-「お疲れ様でした。ふふっ、素敵な式でしたよ」=Good work today. Fufu~ It was a lovely ceremony.
-「本番の結婚式も、是非、私どもの式場で挙げてくださいね！」=For your actual wedding as well, please, do call upon us!
-「えっと、前向きに考えさせてもらいます」=Uhm, sure, if we get to that point.
-「お願いします！　今日はお引き受けいただいて、ありがとうございました」=Thank you! And for helping us out so much today as well, thank you very much!
-「はぁ……結構緊張したね……」=Haah... got really nervous there, huh?...
-「うん、まさかあんなにドキドキするなんて……」=Yeah, to think my heart would race so much...
-「でも……こうやって終わってみると……やっぱり模擬だったんだなぁって感じちゃう……」=But... looking back at it after the fact... really does make it clear, that it was just a mock one...
-「あはは、そうだね。でも将来に向けて、貴重な経験が出来たよね」=Ahaha, yeah. But it was a valuable experience for the future, no?
-「しょっ、将来っ……え、えっと……それってやっぱり……そういうことだと思っていいの……かな？」=T-The future--... e-erhm... so is it really okay... for me to think of it... that way?
-「…………」=“......”
-「ふぇぇっ、どうして黙っちゃうの！？」=Fueeh--, why'd you go quiet all of a sudden?!
-「あはは、ごめん。えっと……こういうのはその……きちんとした形で伝えたいから……だから……でも……うーん……待ってて？」=Ahaha, sorry. Erhm... this sort of stuff is... I want to express it properly to you so... you know... but... mmm... wait for me?
-「むぅ……ふふっ、そうだね。待ってる！　あ、でも……これだけは覚えておいてね。私はいつでも準備ＯＫだよっ！」=Muu... fufu--, right. I'll wait! Ah, but... just one thing. I'm always ready for it! Remember that, okay--?
-「あはは、嬉しい。俺だって……気持ちはもう固まってるよ。今日のことを忘れずに、これからも仲良くしていこうね」=Ahaha, glad to hear it. My heart's... already settled on it too. Let's keep this day forever in our memories, and keep walking forwards, okay?
+//モブ=
+//「お疲れ様でした。ふふっ、素敵な式でしたよ」=
+//「本番の結婚式も、是非、私どもの式場で挙げてくださいね！」=
+//「えっと、前向きに考えさせてもらいます」=
+//「お願いします！　今日はお引き受けいただいて、ありがとうございました」=
+//「はぁ……結構緊張したね……」=
+//「うん、まさかあんなにドキドキするなんて……」=
+//「でも……こうやって終わってみると……やっぱり模擬だったんだなぁって感じちゃう……」=
+//「あはは、そうだね。でも将来に向けて、貴重な経験が出来たよね」=
+//「しょっ、将来っ……え、えっと……それってやっぱり……そういうことだと思っていいの……かな？」=
+//「…………」=
+//「ふぇぇっ、どうして黙っちゃうの！？」=
+//「あはは、ごめん。えっと……こういうのはその……きちんとした形で伝えたいから……だから……でも……うーん……待ってて？」=
+//「むぅ……ふふっ、そうだね。待ってる！　あ、でも……これだけは覚えておいてね。私はいつでも準備ＯＫだよっ！」=
+//「あはは、嬉しい。俺だって……気持ちはもう固まってるよ。今日のことを忘れずに、これからも仲良くしていこうね」=

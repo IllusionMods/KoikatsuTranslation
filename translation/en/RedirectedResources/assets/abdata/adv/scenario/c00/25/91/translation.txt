@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「あ、おはよう、[Pあだ名]♪」=Ah, morning, [Pあだ名]♪
-「あ……お、おはよう、[Hあだ名]」=Ah... m-morning, [Hあだ名].
-「慣れない感じがまたイイわね～♪　これからいっぱい練習しましょ」=The way it still feels a bit awkward is so nice~♪ Let's practice lots more in the future.
+//「あ、おはよう、[Pあだ名]♪」=
+//「あ……お、おはよう、[Hあだ名]」=
+//「慣れない感じがまたイイわね～♪　これからいっぱい練習しましょ」=

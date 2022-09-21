@@ -1,24 +1,24 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「この公園ってたまに散歩に来ることはあるけど……全部は周ったことはないの」=I do come to this park to take walks sometimes but... I've never really covered the whole place.
-「結構広いもんね。一周するのに結構時間かかるみたいだし」=It is pretty big, isn't it? Seems like it'd take quite a bit of time to cover the whole place at once.
-「そういえばこの公園って、外周をぐるっとまわるジョギングコースもあるんだっけ」=Reminds me, didn't this park have a jogging course going along the whole outer perimeter?
-「そうなの？　……あ、本当だ。走ってくる人がいるね」=Really? ...Ah, you're right. There's people running over there.
-「カップルがおそろいのウェアで走ってる姿って、ちょっと格好いいよね」=Couples look pretty cool, don't they? When they run in matching exercise wear like that.
-「[H名]もああいうの、憧れたりする？　ていうか、ジョギングって得意？」=You like that sort of thing, [H]? Or rather, you good at jogging?
-「そんなに早くは走れないけど、ゆっくりペースでなら少しくらいは大丈夫」=I can't run all that fast but, I can jog for a bit, at a slow relaxed pace.
-「そうなんだ！　ちょっと意外だ」=I see! Didn't expect that, honestly.
-「ふふっ。読書ばかりで引きこもってるって思ってた？」=Fufu--. Did you think I was a shut-in that spent all her time just reading books?
-「うん、まぁ……なんというか……。おみそれいたしました……」=Yeah, well... how do I say this... I'm sorry, I did...
-「小説に出てくる主人公がジョギング中に考え事をしたりするシーンとか、わりと出てくるの」=It's actually pretty common in novels, the protagonist doing some thinking while jogging around and stuff.
-「そういうのを読んじゃうと、私も真似したくなっちゃって」=Whenever I read that sort of stuff, I can't help but want to copy it too.
-「今度、[P名]君も一緒に走ってみる？」=Wanna try jogging with me next time, [P]-kun?
-「いいね、そのときはお揃いのウェアでも用意したいね」=Sounds fun, I'd love to wear matching jogging wear at that time.
-「私が本ばっかり読んで運動は全然できないと思ってるんでしょ？」=Bet you're thinking that I'm just a regular old bookworm who can't do any exercise at all, right?
-「あ、ごめん、実は結構運動神経が良かったりするんだ？」=Ah, sorry, do you actually have an active lifestyle?
-「ううん、ちょっとくやしいけど[P名]君の見立通りだよ……。特に走るのなんて苦手中の苦手だし……」=No, it's a bit frustrating but, it's just as you think, [P]-kun... Especially running, I'm worse at that than everything else combined...
-「体育の授業で持久走とかがある前の日なんか……部屋中にさかさてるてる坊主を吊るしたいくらい」=To the point that whenever we have marathon training during PE... I hang a bunch of rain charms in my room the day before.
-「ああ……でもその気持ちはわかるよ。いい景色の中を走るんならともかく、校庭をグルグル回るだけだもんね」=Aah... but I do understand how you feel. It'd be one thing to run around in a nice place, with good scenery as your backdrop, but that's just pointless running on an empty school ground.
-「やっぱり少しは走れないとだめかな……。でも、しんどいのはやっぱり苦手だなぁ……」=I really do need to work on my stamina, atleast a bit... but, I really don't like being frazzled...
-「それなら今度、ウェアでも買ってみようか。形から入ると案外、続くこともあったりするしね」=In that case, how about we go buy some jogging wear together sometime? Who knows, looking dashing might just be the perfect motivator for you. Not to mention, once you get started, it's easier to just keep doing it.
+//「この公園ってたまに散歩に来ることはあるけど……全部は周ったことはないの」=
+//「結構広いもんね。一周するのに結構時間かかるみたいだし」=
+//「そういえばこの公園って、外周をぐるっとまわるジョギングコースもあるんだっけ」=
+//「そうなの？　……あ、本当だ。走ってくる人がいるね」=
+//「カップルがおそろいのウェアで走ってる姿って、ちょっと格好いいよね」=
+//「[H名]もああいうの、憧れたりする？　ていうか、ジョギングって得意？」=
+//「そんなに早くは走れないけど、ゆっくりペースでなら少しくらいは大丈夫」=
+//「そうなんだ！　ちょっと意外だ」=
+//「ふふっ。読書ばかりで引きこもってるって思ってた？」=
+//「うん、まぁ……なんというか……。おみそれいたしました……」=
+//「小説に出てくる主人公がジョギング中に考え事をしたりするシーンとか、わりと出てくるの」=
+//「そういうのを読んじゃうと、私も真似したくなっちゃって」=
+//「今度、[P名]君も一緒に走ってみる？」=
+//「いいね、そのときはお揃いのウェアでも用意したいね」=
+//「私が本ばっかり読んで運動は全然できないと思ってるんでしょ？」=
+//「あ、ごめん、実は結構運動神経が良かったりするんだ？」=
+//「ううん、ちょっとくやしいけど[P名]君の見立通りだよ……。特に走るのなんて苦手中の苦手だし……」=
+//「体育の授業で持久走とかがある前の日なんか……部屋中にさかさてるてる坊主を吊るしたいくらい」=
+//「ああ……でもその気持ちはわかるよ。いい景色の中を走るんならともかく、校庭をグルグル回るだけだもんね」=
+//「やっぱり少しは走れないとだめかな……。でも、しんどいのはやっぱり苦手だなぁ……」=
+//「それなら今度、ウェアでも買ってみようか。形から入ると案外、続くこともあったりするしね」=

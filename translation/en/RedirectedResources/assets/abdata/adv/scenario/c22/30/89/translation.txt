@@ -1,17 +1,17 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「俺と[H]の愛称を考えてみたんだ。だから、呼び合ってみたいんだけど、どうかな？」=I've thought up nicknames for each of us. So I wanted to try using them. How about it?
-「愛称？　ちょっと恥ずかしいけど……うん、いいよ。恋人だもん。私も特別な名前で呼びたいな」=Nicknames? Sounds kinda embarrassing but... okay, sure. We're a couple afterall, I wanna call you by a special name too.
-「ありがとう！　それじゃさっそく俺のこと、[Pあだ名]って呼んでくれる？」=Thanks! Then, will you call me [Pあだ名]?
-「ふぇぇっ！？　想像してたのと違うよーっ！　もっとこう……名前をもじるんだと思ってたよ……」=Fueeeh--?! That's completely different from what I was expecting--! I thought it was gonna be more like... a mutation of your name, or something...
-「あはは、普通はそうかもしれないけど……でも、[H]にはそう呼んで欲しいんだ。ダメ？」=Ahaha, normally that'd be so... but, I want to hear you call me that instead. No good?
-「ううんううん、全然ダメじゃないよ！　君がそうして欲しいなら……私もそうしたいもん」=No, no, not at all! If it's what you want then... I want it too.
-「やった！　えーっと……それじゃまずは俺から呼ぶね」=Yay! Erhm... I'll start then, okay?
-「う、うん……お願いします……」=O-Okay... please...
-「[Hあだ名]」=[Hあだ名].
-「はぅっ！？　あ、あのっ……それじゃ……[Pあだ名]」=Hauu--!? U-Uhm--... well then... [Pあだ名].
-「わぁ、ありがとう！　すごく嬉しいよ、[Hあだ名]!」=Waah, thanks! I'm really happy, [Hあだ名].
-「うぅぅ……わ、私は恥ずかしいよぅ……でもでも、そうやって呼び合うと、特別な感じがして……幸せかも」=Uuuu... I-I'm embarrassing though... but but, calling each other that, feels so special... I really like it.
-「うん、俺も。これからもそうやって呼び合っていい？」=Yeah, me too. Mind if we call each other that from now on?
-「うん、いいよ。でも……いつもは恥ずかしいから……たまにだけ、だよ？」=Sure, no problem. But... it'd be embarrassing every single time so... only every so often, okay?
+//「俺と[H]の愛称を考えてみたんだ。だから、呼び合ってみたいんだけど、どうかな？」=
+//「愛称？　ちょっと恥ずかしいけど……うん、いいよ。恋人だもん。私も特別な名前で呼びたいな」=
+//「ありがとう！　それじゃさっそく俺のこと、[Pあだ名]って呼んでくれる？」=
+//「ふぇぇっ！？　想像してたのと違うよーっ！　もっとこう……名前をもじるんだと思ってたよ……」=
+//「あはは、普通はそうかもしれないけど……でも、[H]にはそう呼んで欲しいんだ。ダメ？」=
+//「ううんううん、全然ダメじゃないよ！　君がそうして欲しいなら……私もそうしたいもん」=
+//「やった！　えーっと……それじゃまずは俺から呼ぶね」=
+//「う、うん……お願いします……」=
+//「[Hあだ名]」=
+//「はぅっ！？　あ、あのっ……それじゃ……[Pあだ名]」=
+//「わぁ、ありがとう！　すごく嬉しいよ、[Hあだ名]!」=
+//「うぅぅ……わ、私は恥ずかしいよぅ……でもでも、そうやって呼び合うと、特別な感じがして……幸せかも」=
+//「うん、俺も。これからもそうやって呼び合っていい？」=
+//「うん、いいよ。でも……いつもは恥ずかしいから……たまにだけ、だよ？」=

@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「あぁ……流されちゃった……ホントはキミを止めなきゃいけなかったのに……」=Ahhh... It's overflowing out... I really should have stopped you before it was too late but...
-「えっと……俺はその……嬉しいかったよ？」=Um... I was, well... I really enjoyed it?
-「そういう話じゃ……まあ、喜んでもらえたのは嬉しいけど」=In that case... well, if you're happy about it then I'm happy as well.
+//「あぁ……流されちゃった……ホントはキミを止めなきゃいけなかったのに……」=
+//「えっと……俺はその……嬉しいかったよ？」=
+//「そういう話じゃ……まあ、喜んでもらえたのは嬉しいけど」=

@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「そうですね、丁度人手が欲しいと思っていた所です、是非お願いします」=Indeed, I was just thinking that an extra pair of hands would be nice, please do.
+//「そうですね、丁度人手が欲しいと思っていた所です、是非お願いします」=

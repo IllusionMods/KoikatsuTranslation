@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「一緒に帰ってくれるん？　嬉しいけど……私、そういうの初めてやけん、照れて上手に話せんかもしれんよ？」=You'll walk home together with me? That makes me real happy but... it's my first time doing this sort of thing so, I might stiffen up from shyness and not make any conversation, you know?
-「いいよ。それに、たぶん俺も照れると思うから」=That's fine. I'm probably going to stiffen up a bunch myself.
-「ふふっ、二人して何も話せなくなったりして。それじゃ、仕度するけん待ってて」=Fufu--, the two of us going stiffening up together. Well then, I'll get my things so wait a bit.
+//「一緒に帰ってくれるん？　嬉しいけど……私、そういうの初めてやけん、照れて上手に話せんかもしれんよ？」=
+//「いいよ。それに、たぶん俺も照れると思うから」=
+//「ふふっ、二人して何も話せなくなったりして。それじゃ、仕度するけん待ってて」=

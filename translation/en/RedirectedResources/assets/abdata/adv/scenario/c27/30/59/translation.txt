@@ -1,5 +1,5 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「なんか……食べ歩きみたいになっちゃってごめんね……」=“Uhm, I'm kinda... sorry for treating this like a tasting trip...”
-「次こそは……って、次もあるのかな……。私は……あればいいなって思ってるけど……」=“Next time for sure, I'll... uhm, are we even gonna go for another one... I'd... sure love it if we do...”
+//「なんか……食べ歩きみたいになっちゃってごめんね……」=
+//「次こそは……って、次もあるのかな……。私は……あればいいなって思ってるけど……」=

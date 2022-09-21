@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「この供物にはグッと来たぞ！　褒美に、我の魂と添い遂げる権利をやろう」=“This offering has touched me, it has touched me! As a reward, I shall bestow upon thee the right to tie thine soul to my own for eternity.”
+//「この供物にはグッと来たぞ！　褒美に、我の魂と添い遂げる権利をやろう」=

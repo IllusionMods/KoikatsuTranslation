@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「んーっ、よく寝た。……あれ？　メモがある。なになに――」=“Mmm, I slept well. ...Oh? There's a letter. What's it say...?”
-『おはよう。[P]、起きなかったから先に行ってるよ』="Good morning, [P]. I went ahead because you didn't wake up."
-『念のため、遅刻には気をつけて』="Just be careful that you aren't late."
-『P.S.また学園で、お話聞かせてね』="P.S. Talk with me at the school."
+//「んーっ、よく寝た。……あれ？　メモがある。なになに――」=
+//『おはよう。[P]、起きなかったから先に行ってるよ』=
+//『念のため、遅刻には気をつけて』=
+//『P.S.また学園で、お話聞かせてね』=

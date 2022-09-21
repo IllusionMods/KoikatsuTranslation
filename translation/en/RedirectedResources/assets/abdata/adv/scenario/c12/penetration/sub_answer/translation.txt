@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「流されてるわけじゃないけど、あたしも異論はないかな……ふふっ、みんなで気持ちよくなれるといいな♪」=“I've got no complaints here either... fufuh--, I hope we can all feel good together♪”
+//「流されてるわけじゃないけど、あたしも異論はないかな……ふふっ、みんなで気持ちよくなれるといいな♪」=

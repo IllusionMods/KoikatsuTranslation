@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「じー……」=*Stare*
-「……どうされました？　何かわからないところでも？」=......What's the matter? Is there something you don't understand?
-「そうじゃなくて。集中する君ってかっこいいなーと思って見惚れてた」=That's not it. You just look so cool when concentrating on something, I was just admiring you.
-「……！　集中力が乱れますので、今はおやめください。そういうことは後でたっぷりと聞かせて頂きますので……」=...! That sort of thing makes my concentration get all jumbled up, so please stop it for now. We can talk more about it later so...
-（これ以上邪魔しちゃ悪いかな。でも恥ずかしがる[H]もすごく可愛い……）=(Maybe I shouldn't disturb her anymore. But, [H名] being shy and bashful is extremely cute too...)
+//「じー……」=
+//「……どうされました？　何かわからないところでも？」=
+//「そうじゃなくて。集中する君ってかっこいいなーと思って見惚れてた」=
+//「……！　集中力が乱れますので、今はおやめください。そういうことは後でたっぷりと聞かせて頂きますので……」=
+//（これ以上邪魔しちゃ悪いかな。でも恥ずかしがる[H]もすごく可愛い……）=

@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「何が、ってわけじゃなく、こー……なんか全部が気持ちよかったな……あはは……」=“It wasn't, like, just one thing, but like... everything felt good... ahahah...”
+//「何が、ってわけじゃなく、こー……なんか全部が気持ちよかったな……あはは……」=

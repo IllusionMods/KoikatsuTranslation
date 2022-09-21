@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「今日という日に我の第三の瞳が、ドクドクと脈打っておるのだ」=“On this day, my third eye is making itself known, it is throbbing.”
-「楽しみにしてくれていたんだね。それじゃあ行こう」=“You were just that excited, huh? Let's go then.”
-「どこかオススメのお店とかない？」=“Got any shops you wanna check out?”
-「そ、それなら魔界の住人が隠れて営む店に案内しようではないか！」=“L-Let us go to this store then, it is run by some fellow demons, seeking to hide out in the human realm!”
+//「今日という日に我の第三の瞳が、ドクドクと脈打っておるのだ」=
+//「楽しみにしてくれていたんだね。それじゃあ行こう」=
+//「どこかオススメのお店とかない？」=
+//「そ、それなら魔界の住人が隠れて営む店に案内しようではないか！」=

@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-喘ぎ1=Panting 1
-喘ぎ2=Panting 2
-フェラ1=Blowjob 1
-フェラ2=Blowjob 2
+//喘ぎ1=
+//喘ぎ2=
+//フェラ1=
+//フェラ2=

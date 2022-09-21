@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-街灯=Street Light
-焚火=Bonfire
-焚火(大)=Bonfire (Large)
-切り株=Tree Stump
+//街灯=
+//焚火=
+//焚火(大)=
+//切り株=

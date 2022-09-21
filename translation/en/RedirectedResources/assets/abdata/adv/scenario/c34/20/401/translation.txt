@@ -1,22 +1,22 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「何頼むか考えてる時、メニューの成分表をじーっと見てたけど、何かアレルギーとかあったっけ？」=When you were thinking of what to order, you were staring real hard at the ingredients list for each item on the menu, do you have an allergy to something?
-「Ａｌｌｅｒｇｙは大丈夫ダケド、ニッポンと海外でｃａｌｏｒｉｅトカ、ｃｈｏｌｅｓｔｅｒｏｌトカ、スゴク違うカラ、ｃｈｅｃｋしてたノ……♡」=Not allergies but, there's a big difference in Japanese food and western food, in terms of calories and cholesterol and stuff, so I was just checking that...♡
-「えっ。もしかして、日頃からカロリー計算とか、栄養バランスを考えて食べてるの？」=Eh--. Do you like, count calories and try to balance your nutrition when eating?
-「Ｙｅｓ♡　ダッテ、アナタはワタシのｓｌｅｎｄｅｒなカラダが好きデショ？　Ｂａｌａｎｃｅがダメだと、アナタがｕｎｈａｐｐｙなるカラ」=Yes♡ After all, you like my slender body, no? If there's an imbalance, it'll make you unhappy, that's why.
-「俺の好みのためにそんなこと考えてくれてたなんて……俺も[H名]みたいに痩せた方がいいかな」=To think you were going out of your way for my sake... Maybe I should slim up a bit too, like you.
-「Ｎｏ　ｐｒｏｂｌｅｍ♡　ワタシ、アナタがｓｌｅｎｄｅｒデモｆａｔデモ、ｐｈｅｒｏｍｏｎｅ感じる思うヨ♡」=It's not a problem♡ No matter whether you're slender or fat or in between, what I feel is your pheromones, your sex appeal♡
-「ふぇ、フェロモン？」=P-Pheromones?
-「Ｓｏ♡　ｐｈｅｒｏｍｏｎｅ♡　優しいナ～、カッコイイナ～、オトコノコダナ～、って思う時、ｐｈｅｒｏｍｏｎｅ感じるヨ♡　ダカラ、体型はアマリ関係ないカモ」=That's right♡ Pheromones♡ Everytime I think stuff like "You're so sweet~" or "So cool~" or "So manly~", I feel your pheromones♡ That's why, I don't think your figure matters.
-「あ、ありがと。そんな大した男ではないと思うけど……」=T-Thanks. I don't think I'm all that special a man though...
-「イエイエ♡　ワタシがｓｌｅｎｄｅｒナラ、アナタはｓｍａｒｔダヨ♡　自信を持ったオトコノコ、トテモ、カッコイイカラ、ワタシの言葉を信じてネ♡」=Not at all♡ If I'm slender, then you're smart and cool♡ Guys with self-confidence are super cool so, believe my words, okay?♡
-「オッケー。言葉の壁のことをいつも考えてる[H名]に言われるなら、説得力あるし、信じるよ」=Gotcha. Since it's coming from you, someone who always thinks about the language barrier, it does have quite some persuasiveness to it, so I'll believe you.
-「Ｏｆ　ｃｏｕｒｓｅ♡　今ヨリ太ったラ、アナタに嫌われちゃうカラ♡」=Of course♡ If I got any fatter, you'll fall out of love with me♡
-「いや、そんな……たしかに今の[H名]の体型は好きだけど、そんなストイックにならなくても大丈夫だよ？」=No, that's... It's true that I like your figure as it is right now, [H名], but you don't need to force yourself like that, you know?
-「アリガト♡　デモ、大好きなオトコノコのｆａｖｏｒｉｔｅに尽くすノ、『オトメゴコロ』ダカラ、Ｓｔｏｉｃと違うヨ♡　エット……ソウ、『自然体』ネ♡」=Thanks♡ But, working hard to become the image of their beloved's ideal is part of what every girl wants, so I'm not forcing myself♡ Rather, it's erhm... right, it's just natural♡
-「そ、そっか、ならいいんだ。でも、[H名]みたいな魅力的な女の子に尽くされるほど、すごい男ではないと思うけど」=I-I see, in that case it's fine. But, I don't think I'm all that amazing a guy, to have a girl as charming as you work hard for my sake.
-「フフ♡　ワタシにとってアナタはスゴイ男ダヨ？　ニッポンに帰って、ミギヒダリ不明なワタシに話しかけシテクレテ……」=Fufu♡ You are amazing to me, you know? You talked to me, someone who didn't know their left from right after coming back to Japan...
-「ワタシは言葉も下手、考え方もニッポンのヒトと違うケド、アナタは受け入れてくれたヨネ♡　アナタの器、トテモｂｉｇでｄｅｅｐ♡　大好き♡」=I'm awkward with words, and my way of thinking isn't very Japanese, but you still accepted all of it♡ Your heart and ability, both are big and deep♡ I love you♡
-「あ、あはは、照れさせてくれるなぁ……」=A-Ahaha, man, you're making me blush...
-（何度も言ってくれるってことは、それだけ[H名]も気にかけてることなんだろうな。これからも[H名]が思ってくれてるような男でありたいな）=(The fact that she's said it that many times just goes to show how much [H名] thinks of me. From now on, I want to be even more of the sort of man she sees me as.)
+//「何頼むか考えてる時、メニューの成分表をじーっと見てたけど、何かアレルギーとかあったっけ？」=
+//「Ａｌｌｅｒｇｙは大丈夫ダケド、ニッポンと海外でｃａｌｏｒｉｅトカ、ｃｈｏｌｅｓｔｅｒｏｌトカ、スゴク違うカラ、ｃｈｅｃｋしてたノ……♡」=
+//「えっ。もしかして、日頃からカロリー計算とか、栄養バランスを考えて食べてるの？」=
+//「Ｙｅｓ♡　ダッテ、アナタはワタシのｓｌｅｎｄｅｒなカラダが好きデショ？　Ｂａｌａｎｃｅがダメだと、アナタがｕｎｈａｐｐｙなるカラ」=
+//「俺の好みのためにそんなこと考えてくれてたなんて……俺も[H名]みたいに痩せた方がいいかな」=
+//「Ｎｏ　ｐｒｏｂｌｅｍ♡　ワタシ、アナタがｓｌｅｎｄｅｒデモｆａｔデモ、ｐｈｅｒｏｍｏｎｅ感じる思うヨ♡」=
+//「ふぇ、フェロモン？」=
+//「Ｓｏ♡　ｐｈｅｒｏｍｏｎｅ♡　優しいナ～、カッコイイナ～、オトコノコダナ～、って思う時、ｐｈｅｒｏｍｏｎｅ感じるヨ♡　ダカラ、体型はアマリ関係ないカモ」=
+//「あ、ありがと。そんな大した男ではないと思うけど……」=
+//「イエイエ♡　ワタシがｓｌｅｎｄｅｒナラ、アナタはｓｍａｒｔダヨ♡　自信を持ったオトコノコ、トテモ、カッコイイカラ、ワタシの言葉を信じてネ♡」=
+//「オッケー。言葉の壁のことをいつも考えてる[H名]に言われるなら、説得力あるし、信じるよ」=
+//「Ｏｆ　ｃｏｕｒｓｅ♡　今ヨリ太ったラ、アナタに嫌われちゃうカラ♡」=
+//「いや、そんな……たしかに今の[H名]の体型は好きだけど、そんなストイックにならなくても大丈夫だよ？」=
+//「アリガト♡　デモ、大好きなオトコノコのｆａｖｏｒｉｔｅに尽くすノ、『オトメゴコロ』ダカラ、Ｓｔｏｉｃと違うヨ♡　エット……ソウ、『自然体』ネ♡」=
+//「そ、そっか、ならいいんだ。でも、[H名]みたいな魅力的な女の子に尽くされるほど、すごい男ではないと思うけど」=
+//「フフ♡　ワタシにとってアナタはスゴイ男ダヨ？　ニッポンに帰って、ミギヒダリ不明なワタシに話しかけシテクレテ……」=
+//「ワタシは言葉も下手、考え方もニッポンのヒトと違うケド、アナタは受け入れてくれたヨネ♡　アナタの器、トテモｂｉｇでｄｅｅｐ♡　大好き♡」=
+//「あ、あはは、照れさせてくれるなぁ……」=
+//（何度も言ってくれるってことは、それだけ[H名]も気にかけてることなんだろうな。これからも[H名]が思ってくれてるような男でありたいな）=

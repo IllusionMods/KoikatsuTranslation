@@ -1,23 +1,23 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「[H名]って、友達とも結構外食する方？」=Do you tend to eat out a lot with friends, [H名]?
-「それなりにはな。女同士の付き合いというのは、あれはあれで厄介なんだ」=About as much as the next person, yeah. The company of girls is annoying in its own way.
-「あー、そういうの苦手そうなイメージ。女子同士の軋轢っていうか、しがらみ？」=Aah, yeah, that sort of hard-to-deal-with image. The ego-clash or rather, the fetters?
-「まぁ、そう悪い事ばかりでもないが。気疲れが多いのも確かだな」=Well, it's not all bad but, it certainly gets a bit tiring, yeah.
-「誰かの家にお泊り会とかは無いの？　パジャマパーティ―とかさ？」=Do you ever have a sleepover at someone's house? Like a Pajama Party or whatever?
-「こら、だらしない顔になっているぞ？　頬を抓ってやろうか？」=Hey, your expression is getting loose, you know? Want me to pinch your cheeks?
-「え、遠慮しときます……それで、純粋な興味として、お泊り会はするの？」=I-I'll pass... So then, this is out of pure curiosity, do you have sleepovers?
-「妙にこだわるな……まぁ、お泊り会もあるにはある。外食よりかなり頻度は落ちるがな」=Don't get weirdly fixated on that... Well, I do have sleepovers, yes. Much less than eating out together though.
-「そうなんだ。そういう時って、[H名]が料理を作ったりするの？」=I see. At those times, do you cook, [H名]?
-「あぁ、作るぞ。夕飯は基本的に私の担当だな。それが楽しみで参加する奴もいるくらいだ」=Yeah, I do. Generally, I take care of the evening meals. There's quite a few girls who join the sleepover just for that.
-「へぇ、[H名]の手料理を食べて、そのままお泊りなんて……最高だろうなぁ……」=Heh~, going for a sleepover, and getting to eat your cooking... That sounds like the life, [H名]...
-「ほぉ、そんなに羨ましそうな顔をするなら、今度はおまえの家でやるか？　その……お泊り会」=Hoh, if you're that envious, how about we do it at your place next time? That is... a sleepover.
-「えっ！　いいの？　やるやる！　絶対やりたい！　い、いつがいいかな？」=Eh--!? You sure? Let's do it! I really want to do it! W-When would be okay with you?
-「おいおい、食い付き過ぎだぞ？　泊るとなると、色々準備があるからな……すぐは無理だが、予定は立ててみるか」=Oi oi, you're getting too carried away, you know? I'll need to get a few things ready on my side if I'm gonna stay over... I can't do it right away but, we can try planning it out.
-「いや、他の奴に任せっきりだな。私は食べる方の担当だ」=No, I leave that to the others. I'm in charge of doing the eating instead.
-「そういう時、料理が出来る子ってヒーローだよね。あっ、女子だからヒロインか」=Girls that can cook really shine as heroes at times like that, don't they? Ah--, since they're girls, they'd be heroines instead, huh?
-「あぁ、そうだな……その、おまえも料理が出来る女子の方が好きなのか？」=Yeah, indeed... Uhm, do you prefer girls who can cook?
-「うーん、古臭い考えかもしれないけど、やっぱり家庭的なのはポイント高いと思う」=Mmm, this might be old fashioned of me but, homely girls rank highly in my book.
-「んんぅ……わかった。今度料理を教わっておく。少し時間をくれ、すぐには無理だ」=Nnn... Got it. I'll learn how to cook. Give me some time, I can't do it immediately.
-「えっ、あっ、いや、催促したわけじゃないんだけど……うん、[H名]の料理、楽しみにしてる」=Eh--, Ah--, No, it's not like you absolutely must but... yeah, I'm looking forward to your cooking, [H名].
+//「[H名]って、友達とも結構外食する方？」=
+//「それなりにはな。女同士の付き合いというのは、あれはあれで厄介なんだ」=
+//「あー、そういうの苦手そうなイメージ。女子同士の軋轢っていうか、しがらみ？」=
+//「まぁ、そう悪い事ばかりでもないが。気疲れが多いのも確かだな」=
+//「誰かの家にお泊り会とかは無いの？　パジャマパーティ―とかさ？」=
+//「こら、だらしない顔になっているぞ？　頬を抓ってやろうか？」=
+//「え、遠慮しときます……それで、純粋な興味として、お泊り会はするの？」=
+//「妙にこだわるな……まぁ、お泊り会もあるにはある。外食よりかなり頻度は落ちるがな」=
+//「そうなんだ。そういう時って、[H名]が料理を作ったりするの？」=
+//「あぁ、作るぞ。夕飯は基本的に私の担当だな。それが楽しみで参加する奴もいるくらいだ」=
+//「へぇ、[H名]の手料理を食べて、そのままお泊りなんて……最高だろうなぁ……」=
+//「ほぉ、そんなに羨ましそうな顔をするなら、今度はおまえの家でやるか？　その……お泊り会」=
+//「えっ！　いいの？　やるやる！　絶対やりたい！　い、いつがいいかな？」=
+//「おいおい、食い付き過ぎだぞ？　泊るとなると、色々準備があるからな……すぐは無理だが、予定は立ててみるか」=
+//「いや、他の奴に任せっきりだな。私は食べる方の担当だ」=
+//「そういう時、料理が出来る子ってヒーローだよね。あっ、女子だからヒロインか」=
+//「あぁ、そうだな……その、おまえも料理が出来る女子の方が好きなのか？」=
+//「うーん、古臭い考えかもしれないけど、やっぱり家庭的なのはポイント高いと思う」=
+//「んんぅ……わかった。今度料理を教わっておく。少し時間をくれ、すぐには無理だ」=
+//「えっ、あっ、いや、催促したわけじゃないんだけど……うん、[H名]の料理、楽しみにしてる」=

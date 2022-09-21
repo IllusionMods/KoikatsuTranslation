@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「本当に２人とも相手するとは……汝の力は、底が知れんな……」=“To think thou wouldst actually manage it... thy power truly is bottomless...”
+//「本当に２人とも相手するとは……汝の力は、底が知れんな……」=

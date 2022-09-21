@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「はぁっ、思ってたより早く一周しちゃったね」=Haah--, we looped around the whole way faster than expected, huh?
-「そうだな。観覧車って、見た目よりずっと速く回ってるんだな」=Yeah. Ferris wheels are much faster than they look from the outside, aren't they?
-「……やっぱり、まだ遊び足りない？」=...Still haven't had enough afterall?
-「本音はそうだけど……また、お前とここに来ればいいことだろ？　その時を、楽しみに待ってるぜ」=Honestly, yeah but... we can just come here again sometime, no? I'm looking forward, to that day.
-「俺もだよ。それじゃあ、遊園地を出ようか」=Me too. Well then, let's head out.
+//「はぁっ、思ってたより早く一周しちゃったね」=
+//「そうだな。観覧車って、見た目よりずっと速く回ってるんだな」=
+//「……やっぱり、まだ遊び足りない？」=
+//「本音はそうだけど……また、お前とここに来ればいいことだろ？　その時を、楽しみに待ってるぜ」=
+//「俺もだよ。それじゃあ、遊園地を出ようか」=

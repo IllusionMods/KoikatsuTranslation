@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「行きたい！　あのねあのね、私、あんたと行ってみたいところがいっぱいあるの！」=“I wanna go! Ya know, there's lots of places I wanna go together with you, ya know!”
-「あっ……別に、絶対あんたとじゃなきゃダメってわけでもないんだけどねっ……」=“Ah--... it's not like it absolutely has to be you or anything, you know--...”
-「俺も行きたかったところ多いし、一緒に行こうよ。まずはどこから行こうかな……」=“I've got lots of such places too, so let's go together. Where should we start with...”
-「……うんっ！　それじゃあ、最初はここなんてどうかな……」=“...Yeah--! Well then, how about we go here first...”
+//「行きたい！　あのねあのね、私、あんたと行ってみたいところがいっぱいあるの！」=
+//「あっ……別に、絶対あんたとじゃなきゃダメってわけでもないんだけどねっ……」=
+//「俺も行きたかったところ多いし、一緒に行こうよ。まずはどこから行こうかな……」=
+//「……うんっ！　それじゃあ、最初はここなんてどうかな……」=

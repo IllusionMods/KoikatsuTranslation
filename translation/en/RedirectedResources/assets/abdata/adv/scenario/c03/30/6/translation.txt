@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「はいー、一緒に行くですーっ！　ドッキドキの逃避行なのです！」=“Yes, I would love to! A heart pounding elopement!”
-「あはは……別に逃げてるわけじゃないけどね」=“Ahaha... not that we're running away from anything.”
-「じゃ、追いかける側ですか？　何者かを追跡……」=“Then, are we the pursuers then? Who are we tailing...”
-「違うよ！？」=“That's really not it, you know?!”
+//「はいー、一緒に行くですーっ！　ドッキドキの逃避行なのです！」=
+//「あはは……別に逃げてるわけじゃないけどね」=
+//「じゃ、追いかける側ですか？　何者かを追跡……」=
+//「違うよ！？」=

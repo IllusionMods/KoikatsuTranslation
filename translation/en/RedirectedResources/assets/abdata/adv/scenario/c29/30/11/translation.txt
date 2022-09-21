@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「……このあたりが潮時ですね。私たち、別れましょう」=...This is about the right time for us. We ought to split up.
-「えっ……？」=Eh--...?
-「私を責めても構いません。こちらにも非があったのは確かですから」=Even if you blame me, I do not mind. Part of the blame lies with me too, afterall.
-「ちょっ、ちょっと待って、いきなりそんな……」=H-Hey, just wait, this is too sudden...
-「すみません、これ以上はもう――。失礼します」=I'm sorry, any longer and I--. Excuse me.
+//「……このあたりが潮時ですね。私たち、別れましょう」=
+//「えっ……？」=
+//「私を責めても構いません。こちらにも非があったのは確かですから」=
+//「ちょっ、ちょっと待って、いきなりそんな……」=
+//「すみません、これ以上はもう――。失礼します」=

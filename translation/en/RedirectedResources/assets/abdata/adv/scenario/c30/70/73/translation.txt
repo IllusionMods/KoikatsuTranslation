@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-………………=.........
-…………=......
-……=...
-「ふふっ、勉強お疲れ様。また一緒にしましょうね？　約束よ」=Fufu, good work on the studying. Let's do them together next time as well, alright? It's a promise.
+//………………=
+//…………=
+//……=
+//「ふふっ、勉強お疲れ様。また一緒にしましょうね？　約束よ」=

@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-………………=.........
-…………=......
-……=...
-「お疲れ様……自分でもびっくりするくらい大胆になっている気がする」=Good work today... Sometimes I even surprise myself with how bold I'm getting these days.
+//………………=
+//…………=
+//……=
+//「お疲れ様……自分でもびっくりするくらい大胆になっている気がする」=

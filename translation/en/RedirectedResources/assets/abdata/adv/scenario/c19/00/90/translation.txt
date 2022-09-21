@@ -1,17 +1,17 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「あのね、ちょっとお願いしたいんだけど……」=Hey, listen, I've got a request...
-「どうしたの？」=What's up?
-「えっと、あなたの愛称を考えてきたから、聞いて欲しいな……って」=Erhm, I thought of a nickname for you so, I wanted you to listen to it... and stuff.
-「え、そうなの？　実は俺もそろそろ愛称呼びしたいなーと思って、考えたりしてたんだ」=Eh, really? I was just thinking that maybe we should try calling each other by nicknames, so I've been thinking of one for you.
-「お揃いで嬉しいな。聞かせてくれる？　俺も呼ぶからさ」=I'm happy we were of the same minds. Will you let me hear it? I'll call you the one I picked too.
-「うん。えっと……じゃあ、言うね」=Okay. Erhm... then, I'll say it, okay?
-「……[Pあだ名]」=...[Pあだ名].
-「[Hあだ名]」=[Hあだ名].
-「うふふ……そんないい愛称がもらえるなんて、嬉しい」=Ufufu... to think I'd get such a nice nickname, I'm so happy.
-「あはは……おおげさだよ」=Ahaha... you're exaggerating.
-「ううん、大げさなんかじゃないよ……やっぱり私、あなたの恋人でよかった」=No, I'm not exaggerating at all... I really am glad, that you're my boyfriend.
-「ねえ、よかったら、また愛称で呼んでもいいかな？」=Hey, would you mind if we called each other that again?
-「もちろん、いいよ」=Not at all.
-「ふふっ、嬉しい」=Fufu--, I'm glad.
+//「あのね、ちょっとお願いしたいんだけど……」=
+//「どうしたの？」=
+//「えっと、あなたの愛称を考えてきたから、聞いて欲しいな……って」=
+//「え、そうなの？　実は俺もそろそろ愛称呼びしたいなーと思って、考えたりしてたんだ」=
+//「お揃いで嬉しいな。聞かせてくれる？　俺も呼ぶからさ」=
+//「うん。えっと……じゃあ、言うね」=
+//「……[Pあだ名]」=
+//「[Hあだ名]」=
+//「うふふ……そんないい愛称がもらえるなんて、嬉しい」=
+//「あはは……おおげさだよ」=
+//「ううん、大げさなんかじゃないよ……やっぱり私、あなたの恋人でよかった」=
+//「ねえ、よかったら、また愛称で呼んでもいいかな？」=
+//「もちろん、いいよ」=
+//「ふふっ、嬉しい」=

@@ -1,19 +1,19 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「ねえ、ちょっと提案があるんだけどさ」=“Hey, I've got a bit of an idea here.”
-「なんだ？　新しい魔の契約か？　汝も順調に覇道を進んでいるからな」=“What is it? Another contract, perhaps? Thine conquest is making quite the progress, afterall.”
-「まぁ、ある意味契約かも。……ちょっと、愛称で呼んでほしいんだ」=“Well, I guess you could call it that. ...I wanna hear you call me by a nickname.”
-「ほう……汝もついに人の名を捨てる時が来たか！　良いぞ！　新たなる名を我が与えてやろう！」=“Hoh... the day where thou wilst dispose of thine human name is finally upon us, huh! Very well! I shall bestow a new name upon thee!”
-「えーと、実はもう考えてて……[Pあだ名]って言うんだけど」=“Erhm, I've actually already thought of it... It's [Pあだ名].”
-「えっ！？　な、なんかちが……こほん、それは正統な名ではないぞ！」=“Eh--!? T-That's kinda not wha... *cough*, not the orthodox sort of name I was expecting!”
-「それはわかってる。だけど、どうしても呼んでほしくてさ」=“I get that. But, I just really want to hear you call me that.”
-「くっ……よ、よかろう、だが代償として、我にも名を与えよ！　良いな！？」=“Kuh--... v-very well, however, thou must give me one such name as well, it is only right! Do we have an understanding!?”
-「いいよ、じゃあ契約成立だ。俺が呼びかけるから、返事してほしいな」=“Sure, that's that contract signed then. I'll call you first so, return the favour, please.”
-「……[Hあだ名]」=“...[Hあだ名].”
-「な、なんだ……[Pあだ名]」=“W-What is it... [Pあだ名].”
-「……う、うぅ……恥ずかしすぎるよぉ……」=“...U-Uuu... this is ridiculously embarrassing...”
-「呼んでくれてありがとう。……よかったら、また呼んでくれると嬉しいなー、なんて」=“Thanks for calling me that. ...I'd love it if you could call me that again, heheh, or is that too much?”
-「まだ我に恥辱を与える気でいるのか！？」=“Havest thou not shamed me enough already!?”
-「[Hあだ名]に呼んでもらえたのが嬉しくて……ダメかな？」=“It just made me really happy, [Hあだ名]... but I guess if it's too much...”
-「あ、ぅ……嬉しい、のか……なら、考えないことも、ない……」=“Ah, uu... happy, huh... in that case, I might not be, all that against...”
+//「ねえ、ちょっと提案があるんだけどさ」=
+//「なんだ？　新しい魔の契約か？　汝も順調に覇道を進んでいるからな」=
+//「まぁ、ある意味契約かも。……ちょっと、愛称で呼んでほしいんだ」=
+//「ほう……汝もついに人の名を捨てる時が来たか！　良いぞ！　新たなる名を我が与えてやろう！」=
+//「えーと、実はもう考えてて……[Pあだ名]って言うんだけど」=
+//「えっ！？　な、なんかちが……こほん、それは正統な名ではないぞ！」=
+//「それはわかってる。だけど、どうしても呼んでほしくてさ」=
+//「くっ……よ、よかろう、だが代償として、我にも名を与えよ！　良いな！？」=
+//「いいよ、じゃあ契約成立だ。俺が呼びかけるから、返事してほしいな」=
+//「……[Hあだ名]」=
+//「な、なんだ……[Pあだ名]」=
+//「……う、うぅ……恥ずかしすぎるよぉ……」=
+//「呼んでくれてありがとう。……よかったら、また呼んでくれると嬉しいなー、なんて」=
+//「まだ我に恥辱を与える気でいるのか！？」=
+//「[Hあだ名]に呼んでもらえたのが嬉しくて……ダメかな？」=
+//「あ、ぅ……嬉しい、のか……なら、考えないことも、ない……」=

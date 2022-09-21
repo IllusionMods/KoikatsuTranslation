@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「ねえねえ。このパンケーキ……一緒に食べ合わない？」=“Hey, hey. How about we... eat this pancake together?”
-「えっ、同時に！？　うれしいけど、すこし照れるな」=“Eh--, from the same plate?! I'd love to but, it's a bit embarrassing.”
-「二人しかいないし、そ、そんなこと気にしちゃダメなんだなぁ」=“There's only us two here, y-you lose if you mind it~”
-「うん。わかった……もぐっ」=“Okay. Got it... *chew*”
-「それっ……もぐっ……えへ、へ。おいしいなぁ♪」=“Here we go--... *chew*... Eheh, heh. It's delicious, isn't it♪”
+//「ねえねえ。このパンケーキ……一緒に食べ合わない？」=
+//「えっ、同時に！？　うれしいけど、すこし照れるな」=
+//「二人しかいないし、そ、そんなこと気にしちゃダメなんだなぁ」=
+//「うん。わかった……もぐっ」=
+//「それっ……もぐっ……えへ、へ。おいしいなぁ♪」=

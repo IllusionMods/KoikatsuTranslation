@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「あなたとこうして一緒に帰る日が来るとは、思ってもみませんでした」=I never even thought, that the day where we'd get to walk home together would ever come.
-「びっくりしてる？」=Surprised?
-「それはまあ……ですが、嫌な感じではありませんよ」=Well, of course... though, not in a bad way.
+//「あなたとこうして一緒に帰る日が来るとは、思ってもみませんでした」=
+//「びっくりしてる？」=
+//「それはまあ……ですが、嫌な感じではありませんよ」=

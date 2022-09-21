@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「んーっ、よく寝た。……あれ？　メモがある。なになに――」=“Mmm, I slept well. ...Oh? There's a letter. What's it say...?”
-『実家に帰らせていただきます。探さないでください』=『I'm going back to my parents. Please do not look for me.』
-『なぜなら今日学園で使うものがあるから！』=『Why? Because I have something to take care of at school today!』
-『今からどこを探しても学園にしかいないぞ！』=『No matter where you look for me, you will never find me anywhere, except at school!』
+//「んーっ、よく寝た。……あれ？　メモがある。なになに――」=
+//『実家に帰らせていただきます。探さないでください』=
+//『なぜなら今日学園で使うものがあるから！』=
+//『今からどこを探しても学園にしかいないぞ！』=

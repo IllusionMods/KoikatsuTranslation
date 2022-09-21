@@ -1,21 +1,21 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「ねぇ……お姉さん、わかってるわよ……」=Hey... Just so you know, onee-san already knows...
-「えっ！？　な、なにを？　わかってるって……次の曲とかかな？」=Eh!? W-what are you talking about? Like that you know... what the next song will be?
-「とぼけなくていいわ、その閉じた足を開いたら……真ん中で、大きくなっちゃってるんでしょう？」=You don't need to play dumb, Between those closed legs of yours... you're getting bigger down there, aren't you?
-「いっ、そんなこと！　ちょ、そんなジロジロ見ないでよ……」=Eh, that's not-! Wait, don't stare at it like that...
-「ふふっ、可愛い……そういう仕草、お姉さんをその気にさせるだけだって……わかってないの？」=Fufu, how cute... If you act like that, onee-san will just get even hornier... you know that, right?
-CHOICE:『お察しの通りです……はい』=It's as you said... yes.
-CHOICE:『大きくなんかなってないって』=It's not hard at all.
-「うぅ……はい。大きくなってます……期待、しちゃってます……」=Uuuu... Yes, it's already hard... and waiting...
-「あら、なんで敬語なの？　お姉さんに見透かされちゃって、恥ずかしい？」=Oh, why so formal all of a sudden? Is it really that embarrassing that onee-san saw through you?
-「そりゃ、自分の欲望が筒抜けだったからね……」=Well yeah, my lust is kinda being laid bare and all so...
-「……でも、すると決めたからには俺も遠慮せず攻めるから！」=But, since I've already decided on doing it, I won't hold back anymore!
-「ふふ、完全に火がついちゃったみたいね……いいわ、お姉さんも遠慮しないわよ……」=Fufu, looks like the fire inside you has been completely lit... Alright, then this onee-san won't restrain herself anymore either...
-「ちょっと待って！　大きくなんてなってないし……[H名]、なんか変だよ？」=Just wait a moment! It's not hard at all... [H名], what's got into you all of a sudden?
-「うっ……ごめんね。お姉さん……ちょっと悪ノリしちゃったかも……許して？」=Uh... Sorry. Onee-san... got a bit carried away... Will you forgive me?
-「そりゃ許すけど……心臓に悪いよ……いきなりどうしたの？」=Of course I'll forgive you but... that's bad for my heart... Why did you say that all of a sudden?
-「んぅ……女の子だって、ムラムラってする時はあるのよ？　今がそうだったって……それだけよ……」=Nnn... Even girls get horny at times, you know? That was all it was... that's all...
-「む、ムラムラね……はは……うん、気持ちはわかるけど……」=H-horny, huh... Haha... Yeah, it's not like I don't understand but...
-（……俺もムラムラしてしまった……で、でも今更誘うのもなぁ……うぅ、時間いっぱいは歌うとしよう）=(...I also got pretty horny but... T-to say that now is a bit... Uuu... I'll just have to get rid of this energy by singing my heart out...)
+//「ねぇ……お姉さん、わかってるわよ……」=
+//「えっ！？　な、なにを？　わかってるって……次の曲とかかな？」=
+//「とぼけなくていいわ、その閉じた足を開いたら……真ん中で、大きくなっちゃってるんでしょう？」=
+//「いっ、そんなこと！　ちょ、そんなジロジロ見ないでよ……」=
+//「ふふっ、可愛い……そういう仕草、お姉さんをその気にさせるだけだって……わかってないの？」=
+//CHOICE:『お察しの通りです……はい』=
+//CHOICE:『大きくなんかなってないって』=
+//「うぅ……はい。大きくなってます……期待、しちゃってます……」=
+//「あら、なんで敬語なの？　お姉さんに見透かされちゃって、恥ずかしい？」=
+//「そりゃ、自分の欲望が筒抜けだったからね……」=
+//「……でも、すると決めたからには俺も遠慮せず攻めるから！」=
+//「ふふ、完全に火がついちゃったみたいね……いいわ、お姉さんも遠慮しないわよ……」=
+//「ちょっと待って！　大きくなんてなってないし……[H名]、なんか変だよ？」=
+//「うっ……ごめんね。お姉さん……ちょっと悪ノリしちゃったかも……許して？」=
+//「そりゃ許すけど……心臓に悪いよ……いきなりどうしたの？」=
+//「んぅ……女の子だって、ムラムラってする時はあるのよ？　今がそうだったって……それだけよ……」=
+//「む、ムラムラね……はは……うん、気持ちはわかるけど……」=
+//（……俺もムラムラしてしまった……で、でも今更誘うのもなぁ……うぅ、時間いっぱいは歌うとしよう）=

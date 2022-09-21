@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「あっ……おはようございます。[Pあだ名]」=“Ah--... good morning, [Pあだ名].”
-「うん。おはよう、[Hあだ名]」=“Yeah. Morning, [Hあだ名]”
-「ふふっ。少し、ドキドキしてしまいますね」=“Fufu--, Makes your heart pound a bit, doesn't it?”
+//「あっ……おはようございます。[Pあだ名]」=
+//「うん。おはよう、[Hあだ名]」=
+//「ふふっ。少し、ドキドキしてしまいますね」=

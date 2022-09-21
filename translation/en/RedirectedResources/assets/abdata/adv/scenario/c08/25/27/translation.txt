@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「プレゼントがあるの？　ええっ！　ええっ～！　すごく……嬉しいなぁ♪」=A present? Eeh--! Eeh~! I'm super... happy♪
+//「プレゼントがあるの？　ええっ！　ええっ～！　すごく……嬉しいなぁ♪」=

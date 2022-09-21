@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「これ、ちょっとセンスが……いえ、あ、ありがとう、大切にするわ」=“This, your taste is a litle...No, t-thank you, I'll be sure to cherish it.”
+//「これ、ちょっとセンスが……いえ、あ、ありがとう、大切にするわ」=

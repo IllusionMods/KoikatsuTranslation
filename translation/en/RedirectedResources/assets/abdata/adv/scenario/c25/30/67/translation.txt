@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「どっか寄って行く～？」=Wanna stop by somewhere~?
-「ん？　寄り道は嫌いなんじゃなかったっけ？」=Nn? Didn't you hate stopping by at random places on the way?
-「……[P]はもっと私と一緒に居たくないの～？」=...You don't want to take the chance to spend more time with me, [P]~?
-「そ、そんなことないよ！　じゃあ、どこか行こうか」=I-I do! Well then, let's go somewhere.
+//「どっか寄って行く～？」=
+//「ん？　寄り道は嫌いなんじゃなかったっけ？」=
+//「……[P]はもっと私と一緒に居たくないの～？」=
+//「そ、そんなことないよ！　じゃあ、どこか行こうか」=

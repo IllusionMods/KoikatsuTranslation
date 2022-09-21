@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「先程の授業で焼いたクッキーをどうぞ」=Please have these cookies I made in the last class.
-「こちらがプレーンタイプで、こっちはココア味です」=These ones are plain, and these ones are chocolate ones.
-「……あ、愛情もたっぷり込めてあります」=...I-I also poured in lots of my love.
+//「先程の授業で焼いたクッキーをどうぞ」=
+//「こちらがプレーンタイプで、こっちはココア味です」=
+//「……あ、愛情もたっぷり込めてあります」=

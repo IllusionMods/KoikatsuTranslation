@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「えっ……。あんたが私のために選んでくれたんだよね……だったら、その、ありがとう」=“Eh--... you picked this for me, didn't you?... In that case, uhm, thanks.”
+//「えっ……。あんたが私のために選んでくれたんだよね……だったら、その、ありがとう」=

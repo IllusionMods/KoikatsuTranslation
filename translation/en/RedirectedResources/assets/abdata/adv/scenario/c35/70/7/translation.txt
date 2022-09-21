@@ -1,12 +1,12 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「え……それって……告白ってこと……なん？　え、えっと……冗談とか……罰ゲームやなくて？」=Eh... is that... a confession...? E-Erhm... this isn't a joke... or a dare or anything, right?
-「そんなわけない。本気で言ってるんだ。俺、[H名]のことが好きだ」=Not at all. I'm being serious. I love you, [H名].
-「ふぇぇっ……あ、あのっ……あっ、わ、私っ……男の子にそういうこと言われたん初めてでっ……やけんっ……えっとっ、ご、ごめんっ！」=Fueeeh--... u-uhm--... ah--, I-I--... this is my first time being confessed to by a boy--... so--... erhm--, s-sorry--!
-「あっ……そ、そっか。急に変なこと言って……こっちこそごめんね。それじゃまた……」=Ah--... I-I see. I'm the one who should be apologizing... for springing it on you like this. Well then, bye...
-「わあああっ！　待って待って待って！　い、今のごめんはそういう意味で言ったんやないとっ！　上手に話せなくてごめんって意味でっ！」=Waaaaaaa--! wait, wait, wait! T-That sorry just now, I didn't mean it that way--! I was trying to say sorry for fumbling over my words--!
-「え？　それじゃ……返事は……？」=Eh? Then... your answer...?
-「う、うん……あのっ、わ、私もね……君のこと……だ、大好きやけん。その……嬉しいです。私と付き合って……くれるん？」=Y-Yeah... u-uhm--, y-you know... I... l-love you too. Uhm... I'm really happy. Will you... go out with me?
-「もちろん。[H名]さえ良ければ……」=Of course. If it's alright with you, [H名]...
-「いいに決まっとるん！　えっと……私、こんな変な娘やけど……君のこと好きな気持ちは誰にも負けんけん！　やけん……えへへ、よろしくね！」=Of course it's alright with me! Erhm... As you know, I'm like this, a weird girl, but... my love for you will not lose to anybody else's! That's why... ehehe, take care of me!
+//「え……それって……告白ってこと……なん？　え、えっと……冗談とか……罰ゲームやなくて？」=
+//「そんなわけない。本気で言ってるんだ。俺、[H名]のことが好きだ」=
+//「ふぇぇっ……あ、あのっ……あっ、わ、私っ……男の子にそういうこと言われたん初めてでっ……やけんっ……えっとっ、ご、ごめんっ！」=
+//「あっ……そ、そっか。急に変なこと言って……こっちこそごめんね。それじゃまた……」=
+//「わあああっ！　待って待って待って！　い、今のごめんはそういう意味で言ったんやないとっ！　上手に話せなくてごめんって意味でっ！」=
+//「え？　それじゃ……返事は……？」=
+//「う、うん……あのっ、わ、私もね……君のこと……だ、大好きやけん。その……嬉しいです。私と付き合って……くれるん？」=
+//「もちろん。[H名]さえ良ければ……」=
+//「いいに決まっとるん！　えっと……私、こんな変な娘やけど……君のこと好きな気持ちは誰にも負けんけん！　やけん……えへへ、よろしくね！」=

@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「やっほ～。今日楽しみにしてたんだから、ちゃんとエスコートしてよ？」=Heya~. I was really looking to today, so show me a good time, okay?
-「任せて」=Leave it to me.
-「そのケーキ美味しそうだね。よかったら一口くれない？」=That cake looks delicious. Mind if I have a bite?
-「え～、しょうがないなぁ。じゃあはい、あ～ん。どう美味しい？」=Eh~, guess it can't be helped~. Here you go, aaahn. How is it, is it good?
+//「やっほ～。今日楽しみにしてたんだから、ちゃんとエスコートしてよ？」=
+//「任せて」=
+//「そのケーキ美味しそうだね。よかったら一口くれない？」=
+//「え～、しょうがないなぁ。じゃあはい、あ～ん。どう美味しい？」=

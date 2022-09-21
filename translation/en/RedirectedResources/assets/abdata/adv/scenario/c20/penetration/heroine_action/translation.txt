@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「えっと……混ざりたいの？　……どうする？」=Erhm... you want to join us? ...What do you say?
-「え、さ、三人で、ですか？　……その、興味がない……わけではないですが……」=Eh, a-all three of us? ...It's not, uhm, that I'm not... interested in it...
-「あ、あはは……私、恥ずかしすぎて今なら何でも出来ちゃいそうです……」=A-Ahaha... I feel so embarrassed right now, I feel like I could do just about anything...
+//「えっと……混ざりたいの？　……どうする？」=
+//「え、さ、三人で、ですか？　……その、興味がない……わけではないですが……」=
+//「あ、あはは……私、恥ずかしすぎて今なら何でも出来ちゃいそうです……」=

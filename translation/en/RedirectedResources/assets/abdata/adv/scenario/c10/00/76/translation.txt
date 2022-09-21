@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「汗で服が……透けてるよ」=“The sweat is... making your clothes see through.”
-「ふぁぁっ！　わわわ、恥ずかしい……」=“Fuaaaah--! Wawawah, so embarrassing...”
-「ほら！　バスタオル。これ羽織るといいよ」=“Here! Take this bath towel and cover yourself.”
-「す、すまぬ。後で汝には褒美を授けるぞ」=“A-Apologies. I shall reward thee later.”
+//「汗で服が……透けてるよ」=
+//「ふぁぁっ！　わわわ、恥ずかしい……」=
+//「ほら！　バスタオル。これ羽織るといいよ」=
+//「す、すまぬ。後で汝には褒美を授けるぞ」=

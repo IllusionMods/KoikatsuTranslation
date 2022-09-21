@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「楽しかったけど……なんだか一瞬で過ぎ去っちゃったなぁ」=“That was fun, but... that kinda passed by in a flash, didn't it~?”
-「ふふふ、今日は子供みたいにはしゃぎまわっていたものね……一緒に居て、私もすごく楽しかったわ」=“Fufufu, not very surprising either, considering we ran around like kids... I had a lot of fun too, being with you.”
-「ははは、それならよかったよ。じゃ、そろそろ帰ろうっか」=“Hahaha, glad to hear that. Well then, let's go home.”
+//「楽しかったけど……なんだか一瞬で過ぎ去っちゃったなぁ」=
+//「ふふふ、今日は子供みたいにはしゃぎまわっていたものね……一緒に居て、私もすごく楽しかったわ」=
+//「ははは、それならよかったよ。じゃ、そろそろ帰ろうっか」=

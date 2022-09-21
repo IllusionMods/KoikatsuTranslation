@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「おはようございます。ふふっ。寝癖がついてますよ。ほら、このあたり」=“Good morning. Fufu--, you've got bed hair. Look, over here.”
+//「おはようございます。ふふっ。寝癖がついてますよ。ほら、このあたり」=

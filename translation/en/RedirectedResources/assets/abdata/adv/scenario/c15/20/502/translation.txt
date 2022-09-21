@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-（さて、待ち合わせ場所は……あ、[H名]がもう来てるな）=(Now then, the spot we were supposed to meet up at... ah, she's already there.)
-「来るの早いね。もしかして待たせちゃった？」=“You sure came early. Did I make you wait, by any chance?”
-「ううん、そんなことないぞ。それより、今日はどこにいくんだ？」=“No, not at all. Rather than that, where are we gonna go today?”
-「どうどう、落ち着いて。慌てなくてもデートは逃げないよ」=“Alright, settle down there. The date's not gonna run away from you, you don't need to rush.”
-（でも、それだけ楽しみにしてくれてるってことだよな……よし、今日もいいデートにするぞ！）=(But, that just means she's been looking forward to it that much, doesn't it... alright, let's make today's date a good one too!)
+//（さて、待ち合わせ場所は……あ、[H名]がもう来てるな）=
+//「来るの早いね。もしかして待たせちゃった？」=
+//「ううん、そんなことないぞ。それより、今日はどこにいくんだ？」=
+//「どうどう、落ち着いて。慌てなくてもデートは逃げないよ」=
+//（でも、それだけ楽しみにしてくれてるってことだよな……よし、今日もいいデートにするぞ！）=

@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「へえ、色々あるんだね」=Hoh, there's quite the variety.
-「私、あのお店が気になるわ。行ってみてもいい？」=I really wanna see what's in that store. Can we go take a look?
-「うん、いいよ」=Yeah, alright.
-「楽しかったわ。付き合ってくれてありがとう」=It was fun. Thanks for taking me out today.
-（よかった、喜んでもらえたみたいだ）=(I'm glad, looks like she enjoyed it.)
+//「へえ、色々あるんだね」=
+//「私、あのお店が気になるわ。行ってみてもいい？」=
+//「うん、いいよ」=
+//「楽しかったわ。付き合ってくれてありがとう」=
+//（よかった、喜んでもらえたみたいだ）=

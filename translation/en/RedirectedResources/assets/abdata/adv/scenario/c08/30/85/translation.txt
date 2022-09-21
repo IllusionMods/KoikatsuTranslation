@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「今日はどんなコイカツをするのかなぁ」=What sort of love activities are we gonna do today?
-「そうだな。耳かきなんてどうだ？」=Good question. How about some ear-cleaning?
-「今から横になるから、膝枕を頼む。そして、膝枕からの耳かきだ！」=I'll go ahead and lie down so, please give me a lap pillow. And from there, clean my ears!
-「耳かき……で、出来るかなぁ。じゃあ、はい。どうぞぉ」=Ear-cleaning... W-Will I really be able to do it? Then, here. Go ahead.
-「ごめんねぇ……痛かったよね。もっと練習するね」=I'm sorry... it hurt, didn't it? I'll practice more, okay?
-「だ、大丈夫。鼓膜は無事だったよ！」=I-It's alright. My eardrum's fine!
+//「今日はどんなコイカツをするのかなぁ」=
+//「そうだな。耳かきなんてどうだ？」=
+//「今から横になるから、膝枕を頼む。そして、膝枕からの耳かきだ！」=
+//「耳かき……で、出来るかなぁ。じゃあ、はい。どうぞぉ」=
+//「ごめんねぇ……痛かったよね。もっと練習するね」=
+//「だ、大丈夫。鼓膜は無事だったよ！」=

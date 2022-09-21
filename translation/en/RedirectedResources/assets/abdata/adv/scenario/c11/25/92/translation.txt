@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「うふふ、我ままを聞いてくれてありがとうね♪」=“Ufufu, thanks for listening to such a selfish request♪”
+//「うふふ、我ままを聞いてくれてありがとうね♪」=

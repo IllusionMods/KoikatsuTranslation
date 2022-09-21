@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-玉飾り=New Year Ornament
-メカハンド握り右用=Mecha Right Fist
-メカハンド握り左用=Mecha Left Fist
-メカハンド開き右用=Mecha Right Open Hand
-メカハンド開き左用=Mecha Left Open Hand
-メカフット=Mecha Foot
+//玉飾り=
+//メカハンド握り右用=
+//メカハンド握り左用=
+//メカハンド開き右用=
+//メカハンド開き左用=
+//メカフット=

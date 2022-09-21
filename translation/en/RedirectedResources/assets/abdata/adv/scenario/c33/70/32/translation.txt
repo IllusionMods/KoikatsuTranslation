@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「ふふ、あなたのセンスって一周回っちゃってるわね」=Fufu, your taste really goes around in circles, huh?
+//「ふふ、あなたのセンスって一周回っちゃってるわね」=

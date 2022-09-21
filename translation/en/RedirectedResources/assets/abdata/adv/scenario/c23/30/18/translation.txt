@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「あ、おはよう。朝に男の子と挨拶するなんて、まるでリア充みたいだぁ」=“Ah, morning. Saying hi to a boy so early in the morning, I almost feel like a normie~”
+//「あ、おはよう。朝に男の子と挨拶するなんて、まるでリア充みたいだぁ」=

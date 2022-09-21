@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「そうね……残念ながら私の好みとは正反対だけれど、一応貰っておくわ」=“Well...It's the total opposite of my preferences, but I'll accept it anyway.”
+//「そうね……残念ながら私の好みとは正反対だけれど、一応貰っておくわ」=

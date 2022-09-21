@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「いいだろ？　もう我慢できそうにない」=“We can, right? I don't think I can hold on anymore.”
-「いい、けど……心の準備が……」=“Sure, but... my heart isn't...”
-「んっ……ん……」=“Nn--... Nn...”
-「キスするとさ、お互いの気持ちがわかり合える気がするんだ。好きだ。伝わっただろ？」=“When we kiss, I feel like I can understand your heart, and you mine. I love you. You felt that, right?”
-「もう……。それだと、したいって気持ちしか、伝わってこない。でも、そんな[P姓]のこと好き、だよ」=“Jeez... if you're gonna use that logic, all I felt was your horniness. But, I love that, side of you too.”
+//「いいだろ？　もう我慢できそうにない」=
+//「いい、けど……心の準備が……」=
+//「んっ……ん……」=
+//「キスするとさ、お互いの気持ちがわかり合える気がするんだ。好きだ。伝わっただろ？」=
+//「もう……。それだと、したいって気持ちしか、伝わってこない。でも、そんな[P姓]のこと好き、だよ」=

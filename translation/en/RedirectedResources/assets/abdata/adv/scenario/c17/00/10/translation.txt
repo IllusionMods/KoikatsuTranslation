@@ -1,11 +1,11 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「あなたが部長をしてるのよね？　少しだけ、考えさせてくれないかしら……」=“You're the president aren't you? Let me think for a bit...”
-「うん、全然待つよ」=“Sure, I'll wait.”
-………………=.........
-「……そうね。時間は余ってるし、入ってみてもいいわよ」=“Well. I have time, so I'll try joining.”
-「よしっ、ありがとう！」=“Yes! Thank you!”
-「ところでどんなことをする部活なのかしら？」=“By the way, what kind of club activities do you have?”
-「えっと、お話したり、スキンシップを取ったりとか」=“Umm, we talk and do skinship stuff.”
-「スキンシップというのが少し気になるけど、とりあえずこれからよろしくね」=“I'm a bit worried about this “skinship.” Anyway, please take care of me.”
+//「あなたが部長をしてるのよね？　少しだけ、考えさせてくれないかしら……」=
+//「うん、全然待つよ」=
+//………………=
+//「……そうね。時間は余ってるし、入ってみてもいいわよ」=
+//「よしっ、ありがとう！」=
+//「ところでどんなことをする部活なのかしら？」=
+//「えっと、お話したり、スキンシップを取ったりとか」=
+//「スキンシップというのが少し気になるけど、とりあえずこれからよろしくね」=

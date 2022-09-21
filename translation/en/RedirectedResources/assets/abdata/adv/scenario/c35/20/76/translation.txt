@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「ふぅ……疲れたー。結構頑張っちゃったよね」=Fuu... I'm beat. We worked quite hard, didn't we?
-「うん、それじゃ一旦休憩する？　もしかして無理しとったん？」=Yeah, then shall we take a break for now? Were you forcing yourself to keep up with me?
-「無理したってほどじゃないけど……実は、汗をかいてる[H名]が可愛くてさ、ついつい張り切っちゃって」=Not to the point of forcing myself but... honestly, you were just so cute, working out and sweating like that, I just got swept away in the mood.
-「わわっ、い、いきなりそんなこと言われたら照れるやんっ！　し、しかもっ……汗だくの姿とかっ……見られたら恥ずいよ……」=Wawah--, d-don't say that all of a sudden, I'll blush--! N-Not to mention--... seeing me sweat and whatnot--... it's embarrassing...
-「そんなことない。今の[H名]、キラキラしてて可愛いよ。溌剌としてるって言うか……ほら、ほっぺたとかも赤くなってて……」=Not at all. Right now, you're like a star, so bright, and so cute. Like, so animated, or rather... look, even your cheeks are flushed red...
-「わあぁ、い、言わんでいいけんっ！　もー、君、絶対に分かって言いよるっちゃろ？　そうやって私のこと、からかっとっちゃん」=Waaaa, y-you don't need to say it out loud--! Jeez, you're definitely saying this on purpose, aren't you? Poking fun at me.
-「でも……あははっ、実は私も……汗をかいてる君のこと、格好いいって思っとーとよ♪」=But... ahaha--, honestly, me too... working out, sweating like that, I thought you looked really cool♪
+//「ふぅ……疲れたー。結構頑張っちゃったよね」=
+//「うん、それじゃ一旦休憩する？　もしかして無理しとったん？」=
+//「無理したってほどじゃないけど……実は、汗をかいてる[H名]が可愛くてさ、ついつい張り切っちゃって」=
+//「わわっ、い、いきなりそんなこと言われたら照れるやんっ！　し、しかもっ……汗だくの姿とかっ……見られたら恥ずいよ……」=
+//「そんなことない。今の[H名]、キラキラしてて可愛いよ。溌剌としてるって言うか……ほら、ほっぺたとかも赤くなってて……」=
+//「わあぁ、い、言わんでいいけんっ！　もー、君、絶対に分かって言いよるっちゃろ？　そうやって私のこと、からかっとっちゃん」=
+//「でも……あははっ、実は私も……汗をかいてる君のこと、格好いいって思っとーとよ♪」=

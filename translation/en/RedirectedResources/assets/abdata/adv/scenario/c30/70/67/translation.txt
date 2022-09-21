@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「恋人同士で歩いてると……下校中なのに、なんだかデートしてるみたいな気になるわね」=When walking with your lover... even a walk back home from school feels like a date, doesn't it?
-「あ、分かるかも。ちょっと……意識するよね」=Ah, I think I get it. It sort of... makes you aware of the other party.
-「そうそう。普通の友達と違うなーって。きっと周りの人達には恋人同士だってバレてるんだろうなーって」=Exactly. It's like we're not just ordinary friends, or how the people around us can definitely tell that we're lovers.
-「あはは、だったら俺、すれ違う男の人に妬まれちゃいそうだな」=Ahaha, in that case, I might have to be on guard against any men that pass by, huh?
-「ふふっ、私の方が……女の子みんなに妬まれちゃいそうよ」=Fufu, if anything... I'm the one who's always jealous of other girls.
-「[H名]……」=[H名]...
-「や、やだもう、そんなお顔したら離れがたくなっちゃうでしょ。この時間が少しでも長く続くように……ゆっくり歩きましょ？」=D-Don't do that, you know it'll be hard for us to separate if you look at me like that. Let's walk at a slower pace... I wanna treasure as much of this time as I can, okay?
+//「恋人同士で歩いてると……下校中なのに、なんだかデートしてるみたいな気になるわね」=
+//「あ、分かるかも。ちょっと……意識するよね」=
+//「そうそう。普通の友達と違うなーって。きっと周りの人達には恋人同士だってバレてるんだろうなーって」=
+//「あはは、だったら俺、すれ違う男の人に妬まれちゃいそうだな」=
+//「ふふっ、私の方が……女の子みんなに妬まれちゃいそうよ」=
+//「[H名]……」=
+//「や、やだもう、そんなお顔したら離れがたくなっちゃうでしょ。この時間が少しでも長く続くように……ゆっくり歩きましょ？」=

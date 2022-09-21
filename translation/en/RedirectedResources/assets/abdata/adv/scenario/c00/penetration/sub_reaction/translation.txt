@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「あらぁ、私のこと、忘れられなくて探してたんでしょ？」=Oh my, you were out searching for me, because you couldn't forget about me, weren't you?
+//「あらぁ、私のこと、忘れられなくて探してたんでしょ？」=

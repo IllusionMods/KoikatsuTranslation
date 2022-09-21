@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「ねえ、少し遊具で遊んで行かない？」="Hey, why don't we do something?"
-「……うん、いいよ」="Yeah, sure."
-「じゃあブランコ乗ろうよ、ちょうど空いてるし」="Alright, let's get on the swing."
-「……壊さないでね？」="...Try not to break it, okay?"
-「壊さないよ！？」="I'm not going to!"
+//「ねえ、少し遊具で遊んで行かない？」=
+//「……うん、いいよ」=
+//「じゃあブランコ乗ろうよ、ちょうど空いてるし」=
+//「……壊さないでね？」=
+//「壊さないよ！？」=

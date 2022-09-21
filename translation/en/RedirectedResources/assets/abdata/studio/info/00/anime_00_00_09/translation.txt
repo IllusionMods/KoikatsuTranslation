@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-食事Ａ1=Eating A1
-食事Ａ2=Eating A2
-食事Ａ3=Eating A3
-食事B1=Eating B1
-食事B2=Eating B2
-食事C1=Eating C1
-食事C2=Eating C2
+//食事Ａ1=
+//食事Ａ2=
+//食事Ａ3=
+//食事B1=
+//食事B2=
+//食事C1=
+//食事C2=

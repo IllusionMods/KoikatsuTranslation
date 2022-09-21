@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「なんだこれ？　お前センスねぇな」=The heck's this? You have absolutely zero sense for this.
+//「なんだこれ？　お前センスねぇな」=

@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-………………=.........
-…………=......
-……=...
-「沢山教え合いっこしちゃったわね……悪くなかったわ。ありがと！」=“We sure helped each other a whole lot... it wasn't bad at all. Thanks!”
+//………………=
+//…………=
+//……=
+//「沢山教え合いっこしちゃったわね……悪くなかったわ。ありがと！」=

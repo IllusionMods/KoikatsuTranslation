@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「お、お待たせしました！　その……待ちましたか？」=S-Sorry for the wait! Uhm... did you wait long?
-「いや、大丈夫。俺も今来たところだよ」=No, you're good. I just got here myself.
-「よかった……ふふっ、なんだか……このやり取り、デートって感じですね」=Thank goodness... fufu--, this... this back-and-forth, it really feels like a date, doesn't it?
-「確かに、デートの定番のやりとりだね 」=For sure, it's pretty standard date stuff.
-「それじゃあ定番のやり取りもしたし、そろそろ行こうか」=Well then, we did the standard back-and-forth too, so let's go.
+//「お、お待たせしました！　その……待ちましたか？」=
+//「いや、大丈夫。俺も今来たところだよ」=
+//「よかった……ふふっ、なんだか……このやり取り、デートって感じですね」=
+//「確かに、デートの定番のやりとりだね 」=
+//「それじゃあ定番のやり取りもしたし、そろそろ行こうか」=

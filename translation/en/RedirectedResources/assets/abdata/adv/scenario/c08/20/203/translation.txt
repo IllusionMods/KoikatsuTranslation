@@ -1,13 +1,13 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「もうこんな時間……つい夢中になっちゃったね……」=It's already this late... we got really into it, huh...
-CHOICE:『最後に何に乗る？』=『What'cha wanna ride to close the day off?』
-CHOICE:『暗くなる前に帰ろうか』=『Let's go home before it gets dark』
-「時間的にも、次に乗るので最後かな……何がいい？」=The next attraction will have to be our last... what'cha wanna go with?
-「せっかく来たんだから観覧車には乗ろうよ！」=Well, we came out on an amusement park date, so let's get on the ferris wheel!
-「いいね、そうしよう」=Sounds fun, let's do that.
-「暗くなってきたからそろそろ帰ろっか」=It's starting to get dark, so let's head home.
-「うん。名残惜しいけど……今日はここまでにする」=Yeah. It feels sad to end it but... let's wrap it up here for today.
-「今度来たときは、今日乗れなかったアトラクションに乗ろうね♪」=Let's ride all the attractions we couldn't manage today the next time we come, okay?♪
-「ああ。次こそコンプリートしよう！」=Yeah. Let's 100% this amusement park next time!
+//「もうこんな時間……つい夢中になっちゃったね……」=
+//CHOICE:『最後に何に乗る？』=
+//CHOICE:『暗くなる前に帰ろうか』=
+//「時間的にも、次に乗るので最後かな……何がいい？」=
+//「せっかく来たんだから観覧車には乗ろうよ！」=
+//「いいね、そうしよう」=
+//「暗くなってきたからそろそろ帰ろっか」=
+//「うん。名残惜しいけど……今日はここまでにする」=
+//「今度来たときは、今日乗れなかったアトラクションに乗ろうね♪」=
+//「ああ。次こそコンプリートしよう！」=

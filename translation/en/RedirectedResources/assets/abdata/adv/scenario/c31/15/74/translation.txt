@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「さて、何をしようか？　もう決めているのか？」=Now then, what shall we do? Have you already decided on something?
-「何をするにしてもまずは準備運動かな。二人でストレッチしようよ」=No matter what we end up doing, we'll need to warm up first. Let's do some stretches together.
-「言っている事はもっともだが……鼻の下が伸びているぞ？　まったく、スケベな奴め……」=While I do agree with that suggestion... Your nostrils are flaring up, you know? Good grief, what a perverted chap...
-「ち、違うよ！　け、健全な心で、準備運動したいだけだよ！」=N-No, you're wrong! I-I was being wholesome, I just want to do some stretches!
+//「さて、何をしようか？　もう決めているのか？」=
+//「何をするにしてもまずは準備運動かな。二人でストレッチしようよ」=
+//「言っている事はもっともだが……鼻の下が伸びているぞ？　まったく、スケベな奴め……」=
+//「ち、違うよ！　け、健全な心で、準備運動したいだけだよ！」=

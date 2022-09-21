@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「わかった、みんなで気持ちよくなろ……？」=“Got it, let's all feel good together...?”
+//「わかった、みんなで気持ちよくなろ……？」=

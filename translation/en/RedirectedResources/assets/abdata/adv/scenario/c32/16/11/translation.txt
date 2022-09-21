@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「私たちの関係もそろそろ潮時ですね」=It's about that time for our relationship as well.
-「えっ！？　それって、別れるってこと？　一体どうして……」=Eh--?! By that, do you mean you want to break up? Just why on earth...
-「私たちは恋に恋していたのだと思います。ごっこ遊びを続けても、それは本物じゃありませんから……」=I think we were just in love with the idea of being in love. Even if we continue playing house, it's not the real thing, so...
-「そんな……」=Don't say that...
-「友人としてのお付き合いは続けて行きたいと思っていますので。辛いかもしれませんが、どうかご理解下さい」=I would still like for us to continue being friends. It may be rough, but please do understand.
+//「私たちの関係もそろそろ潮時ですね」=
+//「えっ！？　それって、別れるってこと？　一体どうして……」=
+//「私たちは恋に恋していたのだと思います。ごっこ遊びを続けても、それは本物じゃありませんから……」=
+//「そんな……」=
+//「友人としてのお付き合いは続けて行きたいと思っていますので。辛いかもしれませんが、どうかご理解下さい」=

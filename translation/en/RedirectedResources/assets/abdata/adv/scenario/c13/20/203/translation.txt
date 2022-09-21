@@ -1,15 +1,15 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「もう、けっこう遊んだカンジ？　空がオレンジ色になっちゃった」=Didn't we play a ton? The sky's already orange.
-CHOICE:『最後に観覧車に乗っていかない？』=『Won't you ride the ferris wheel with me to close out the day?』
-CHOICE:『そろそろ帰ろうか？』=『Shall we go home?』
-「そうだね……ねぇ、[H名]。最後に観覧車に乗っていかない？」=Yeah... Hey, [H名]. Won't you ride the Ferris Wheel with me to close up the day?
-「あっ、いいね！　いこいこ！」=Ah--, sounds good! Let's go, let's go!
-「……観覧車の中で、綺麗な夜景が見れるといいね」=...Would be nice to see the beautiful night sky from the ferris wheel.
-「そうだね。ふふ、[P名]くんと見る夜景楽しみだな～♪」=Yeah. Fufu, I'm looking forward to seeing it with you~♪
-「そうだね……さてと、そろそろ帰ろうか？」=Yeah... well then, shall we go home?
-「ん～、まだまだ遊んでたいけど……」=Nn~, I wanna play lots more still but...
-「……また、一緒に遊園地に来てくる？」=...Will you come with me here again sometime?
-「もちろん！」=Of course!
-「それなら、次のときに、いっぱい遊んじゃおっかな♪」=Well then, guess I'll play around a ton next time♪
+//「もう、けっこう遊んだカンジ？　空がオレンジ色になっちゃった」=
+//CHOICE:『最後に観覧車に乗っていかない？』=
+//CHOICE:『そろそろ帰ろうか？』=
+//「そうだね……ねぇ、[H名]。最後に観覧車に乗っていかない？」=
+//「あっ、いいね！　いこいこ！」=
+//「……観覧車の中で、綺麗な夜景が見れるといいね」=
+//「そうだね。ふふ、[P名]くんと見る夜景楽しみだな～♪」=
+//「そうだね……さてと、そろそろ帰ろうか？」=
+//「ん～、まだまだ遊んでたいけど……」=
+//「……また、一緒に遊園地に来てくる？」=
+//「もちろん！」=
+//「それなら、次のときに、いっぱい遊んじゃおっかな♪」=

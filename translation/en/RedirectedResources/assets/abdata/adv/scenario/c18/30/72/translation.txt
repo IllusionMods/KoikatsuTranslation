@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-………………=.........
-…………=......
-……=...
-「なかなか捗りました。これなら、どこかは掠りそうです」=We made quite a good showing. We should be able to atleast pass with that.
+//………………=
+//…………=
+//……=
+//「なかなか捗りました。これなら、どこかは掠りそうです」=

@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「やぁっ！　ダメ！　み、見るなぁっ！」=“Yaah--! No! D-Don't look--!”
+//「やぁっ！　ダメ！　み、見るなぁっ！」=

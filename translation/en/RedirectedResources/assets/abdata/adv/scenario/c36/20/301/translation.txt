@@ -1,23 +1,23 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「ふぅん、カラオケなんて、いつ以来かしら」="Hmm, when was it the last time I've been to karaoke I wonder."
-「友達とかと来ないの？　[H名]さんって女の子の取り巻き、結構いるよね？」="Don't you come here with friends? You surely have a group of female friends to hang out with right?"
-「一度誘ったら、恐れ多いって断られたわ。無理矢理連れてきたら倒れた子もいたし」="I was once invited, but I politely declined. After all there were some cases when people were forcibly taken and then fainted."
-「うわ……俺の知ってるカラオケと違う……」="Uwa... That's different from the karaoke I know..."
-「私だって、もっと気軽なものだと思っているわよ。歌うのは嫌いではないしね」="I also thought it was a more lighthearted activity. I don't hate singing you know."
-「おっ、意外。歌なんてくだらないって言うかと思ってた」="Oh, that's surprising. I thought you'd say singing is stupid."
-「貴方、私を何だと思っているの？　そこまで否定的ではないわよ」="What kind of monster do you think I am? I'm not that disapproving you know?"
-「はは、じゃあ、早速歌ってみる？　[H名]さんの歌、楽しみだな」="Haha, then shall we start? I can't wait to hear Miss [H名] sing!"
-「は？　何で私が先なのよ。こういうのは貴方から歌うものでしょう？」="Huh? Why am I first? We will start with you."
-「いや、俺も歌は好きだけど。[H名]さんの前で歌うのは、ちょっと緊張するっていうか……」="Nah, I also like singing, but I could try a bit harder if I heard Miss [H名] sing first..."
-「はぁ、またこれよ。貴方、さっき言ってた私の取り巻きと、まったく同じ事を言ってるわよ」="*Sigh* not this again. My friends literally said exactly the same thing."
-「えっ、ごめん……あー、やっぱり俺が先に歌うよ！　下手でも笑わないでね？」="Uh, sorry... Alright, I'll sing first! Don't laugh even if I'm bad, okay?"
-「フフッ、それは無理ね。いいからとりあえず歌ってみなさい」="Fufu, that's impossible. Alright, show me what you've got."
-「よーし！　じゃあ一番得意な曲いくよ！」="Yeah! Then I'll go with my best one!"
-「あっ、待ちなさい。それ私も歌おうとしていた曲よ」="Ah, wait. I wanted to sing that song."
-「えっ、マジで？　じゃあこの際、一緒に歌っちゃおうよ！」="Eh, seriously? Then let's sing it together!"
-「んっ、仕方ないわね。キーは私に合わせるわよ」="I guess it's inevitable. Try to keep up with me."
-『小さな手の平 掴める物は～♪　きっと限られているけど♪』="A palm so small, The things it can grasp~♪  It can't hold too much♪"
-「胸の中っ♪　溢れだすっ♪　言葉にも～♪」="The inside of its chest♪ It's pouring out♪ You can hear the words~♪"
-（いきなりデュエットとか断られると思ったけど。[H名]さん、こういう時はノリがいいんだな）=(I thought that she'd refuse a sudden invitation to a duet, but Miss [H名] actually played along.)
+//「ふぅん、カラオケなんて、いつ以来かしら」=
+//「友達とかと来ないの？　[H名]さんって女の子の取り巻き、結構いるよね？」=
+//「一度誘ったら、恐れ多いって断られたわ。無理矢理連れてきたら倒れた子もいたし」=
+//「うわ……俺の知ってるカラオケと違う……」=
+//「私だって、もっと気軽なものだと思っているわよ。歌うのは嫌いではないしね」=
+//「おっ、意外。歌なんてくだらないって言うかと思ってた」=
+//「貴方、私を何だと思っているの？　そこまで否定的ではないわよ」=
+//「はは、じゃあ、早速歌ってみる？　[H名]さんの歌、楽しみだな」=
+//「は？　何で私が先なのよ。こういうのは貴方から歌うものでしょう？」=
+//「いや、俺も歌は好きだけど。[H名]さんの前で歌うのは、ちょっと緊張するっていうか……」=
+//「はぁ、またこれよ。貴方、さっき言ってた私の取り巻きと、まったく同じ事を言ってるわよ」=
+//「えっ、ごめん……あー、やっぱり俺が先に歌うよ！　下手でも笑わないでね？」=
+//「フフッ、それは無理ね。いいからとりあえず歌ってみなさい」=
+//「よーし！　じゃあ一番得意な曲いくよ！」=
+//「あっ、待ちなさい。それ私も歌おうとしていた曲よ」=
+//「えっ、マジで？　じゃあこの際、一緒に歌っちゃおうよ！」=
+//「んっ、仕方ないわね。キーは私に合わせるわよ」=
+//『小さな手の平 掴める物は～♪　きっと限られているけど♪』=
+//「胸の中っ♪　溢れだすっ♪　言葉にも～♪」=
+//（いきなりデュエットとか断られると思ったけど。[H名]さん、こういう時はノリがいいんだな）=

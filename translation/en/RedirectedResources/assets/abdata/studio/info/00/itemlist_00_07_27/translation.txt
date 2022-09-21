@@ -1,11 +1,11 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-アナルバイブ=Anal Vibrator
-アナルバイブ(長)=Anal Vibrator (Long)
-バイブ=Vibrating Dildo
-ディルド=Dildo
-オナホ=Onahole
-ローター=Rotor
-ギャグボール=Ballgag
-棘ボール=Prickle Ball
+//アナルバイブ=
+//アナルバイブ(長)=
+//バイブ=
+//ディルド=
+//オナホ=
+//ローター=
+//ギャグボール=
+//棘ボール=

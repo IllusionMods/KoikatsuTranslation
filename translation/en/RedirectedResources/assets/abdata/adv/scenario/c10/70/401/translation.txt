@@ -1,19 +1,19 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「[H名]の、魔界とかっていうの、結構細かい設定があるんだよね。そういうの考えるのに知識がいると思うんだけど、どこで覚えてくるの？」=“[H], that setting of yours, you know, the 'demon realm' or whatever, it's pretty detailed, isn't it? I feel like you'd need a lot of knowledge even to come up with that stuff, where do you learn that stuff?”
-「むっ、設定と言うな！　……ふん、まぁ細かいことはよいか」=“Muh--, don't call it a setting! ...Fuhn, well, I won't harp on it.”
-「我は全知全能である魔界の支配者である。すなわち、我の知識の源泉とは我の魂であり、つまりは混沌から湧き上がる……」=“I am an all knowing all powerful sovereign of the demon realm. Therefore, my source of knowledge is my very own soul, in essence, it arises out of the pure chaos...”
-「ん～……？　つまり、全部オリジナル？」=“Nn~...? Basically, it's all your original stuff?”
-「ん……いやまぁ、少なからず影響を受けた事柄もあるな。例えば、そう、伝説の魔導書の記述された古き神の逸話などが……」=“Nn... no, well, it has been influenced by many things indeed. For example, things such as the anecdotal accounts of primordial gods, described within ancient grimoires...”
-「魔導書？　すごいな、実物があるんだ～。図書館とかにあったりするの？」=“Grimoires? That's amazing, so you mean a real physical thing~. You find those in libraries or what?”
-「あ、いやそうではなく……世界の裏側でのみ語り継がれる、選ばれし者のみが触れられる秘密があってだな……」=“Ah, no, not necessarily... there are secrets, handed out only on the flip side of the realm, only to select chosen ones...”
-「世界の裏側？　えっと、海外の通販サイトみたいなもの？　会員制なの？」=“Flip side of the realm? Erhm, you mean like a western online shopping site? Is it member only?”
-「だからそうじゃなくてっ！　……深淵なる知識とは賢者から語られるものであり、深き知を持つ者から我は学んでいて……」=“Like I said, it's not that--! ...Profound knowledge such as what thou art seeking is only spoken off by the sages, and I have learned from such sages indeed...”
-「賢者……あ、そっか！　おじいちゃんから教えてもらってるのか！」=“Sage... ah, I see! You mean your grandpa teaches you!”
-「うぅ～……こほんっ…………ま、マンガとかラノベを読んで、参考にしてるの」=“Uuu~... *cough*... I-I read manga and novels and stuff, to come up with this stuff.”
-「あぁ～、なるほど……たしかにそういうの多いよね。俺も好きなんだ。けっこう読むよ」=“Aah~, I see... there certainly are a lot of those sorts of things, aren't there? I love those too. I read novels quite a bit.”
-「えっ、ホントっ！？　ど、どういうの？　なんてタイトルの本をよく読むの！？」=“Eh--, really--!? W-Which ones? Could I have names?!”
-「あ～、俺はまぁ、いろいろ読むかな。むしろ、何かオススメがあれば教えてほしいよ」=“Ah~, well, I read a little bit of everything. If anything, if you have any recs, I'd love to try them out.”
-「うんっ、うんっ！　まかせて、オススメはいっぱいあるから！」=“Yeah--, yeah--! Leave it to me, I've got lots of recommendations!”
-「クックック……やはり我と汝は同じ魂を持って産まれた同士であったな……えへへ……」=“Kuh kuh kuh... we truly were born sharing one heart and one soul... eheheh...”
+//「[H名]の、魔界とかっていうの、結構細かい設定があるんだよね。そういうの考えるのに知識がいると思うんだけど、どこで覚えてくるの？」=
+//「むっ、設定と言うな！　……ふん、まぁ細かいことはよいか」=
+//「我は全知全能である魔界の支配者である。すなわち、我の知識の源泉とは我の魂であり、つまりは混沌から湧き上がる……」=
+//「ん～……？　つまり、全部オリジナル？」=
+//「ん……いやまぁ、少なからず影響を受けた事柄もあるな。例えば、そう、伝説の魔導書の記述された古き神の逸話などが……」=
+//「魔導書？　すごいな、実物があるんだ～。図書館とかにあったりするの？」=
+//「あ、いやそうではなく……世界の裏側でのみ語り継がれる、選ばれし者のみが触れられる秘密があってだな……」=
+//「世界の裏側？　えっと、海外の通販サイトみたいなもの？　会員制なの？」=
+//「だからそうじゃなくてっ！　……深淵なる知識とは賢者から語られるものであり、深き知を持つ者から我は学んでいて……」=
+//「賢者……あ、そっか！　おじいちゃんから教えてもらってるのか！」=
+//「うぅ～……こほんっ…………ま、マンガとかラノベを読んで、参考にしてるの」=
+//「あぁ～、なるほど……たしかにそういうの多いよね。俺も好きなんだ。けっこう読むよ」=
+//「えっ、ホントっ！？　ど、どういうの？　なんてタイトルの本をよく読むの！？」=
+//「あ～、俺はまぁ、いろいろ読むかな。むしろ、何かオススメがあれば教えてほしいよ」=
+//「うんっ、うんっ！　まかせて、オススメはいっぱいあるから！」=
+//「クックック……やはり我と汝は同じ魂を持って産まれた同士であったな……えへへ……」=

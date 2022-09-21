@@ -1,21 +1,21 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「素敵な喫茶店ね～。すごく落ち着くわ」=“What a lovely cafe~. Such a calm atmosphere.”
-「うん、[H名]の大人びた雰囲気によく似合ってるよ」=“Yeah, it fits your mature air well, [H].”
-「あらあら、ふふふ……そんなこと言われたら照れちゃうわね。お世辞じゃないといいけど……」=“My, fufufu... you're gonna make me blush, you know. Hopefully, that wasn't just some flattery...”
-「お世辞なんかじゃないよ。似合ってるって思うよ。けどさ、どうして[H名]ってそんなに大人っぽいの？」=“Not at all. I really do think it fits you. But, just why are you that mature anyway, [H]?”
-「んー……どうしてかしら？　最初から大人っぽかったわけじゃないと思うの」=“Hm... I wonder? I don't think I've always been this way, from the start.”
-「きっと大人っぽい人って思われたかったんじゃないかしら」=“I suppose because I must have wanted to seem more mature?”
-「どうして。そう思われたかったの？」=“And why's that? Why'd you want to seem more mature?”
-「あらあら、随分質問攻めね。甘えん坊さんなんだから……ふふふ」=“My my, quite the barrage of questions, isn't it? You're such a pampered boy... fufufu~”
-「ははは、つい甘えてみたくなっちゃうんだよね。やっぱそれって、キミの雰囲気のおかげだと思うよ」=“Hahaha, can't help myself but act spoiled sometimes. I really think it's your aura doing that magic there.”
-「そうね。この雰囲気のおかげで、みんなが私を年上扱いしたり、大人扱いするものだから、そういう風に振る舞っちゃうのがクセになってるの」=“Yeah. Thanks to my aura, people always treat me as their older, as a mature person so, it's becoming a habit, to always carry myself that way.”
-「年相応の、普通の反応をしているつもりなんだけど、どうしてもみんなの期待に応えてしまいたくなっちゃっうのよね……ふふふ」=“I want to react to others in a normal, age-appropriate way, but I just can't help myself from living up to people's expectations of me, you know... fufufu~”
-「うんうん、わかるよ。でもそれが嫌ってわけじゃないんだよね？」=“Yeah, I feel you. But, you don't hate that, do you?”
-「ええ、全然嫌じゃないわ。誰かの面倒を見たり甘えられてリするのって、大好きなの」=“Yes, not at all. I love it all, looking after others, spoiling them, all of it.”
-「そうなんだね。きっと[H名]は『大人っぽい』じゃなく『大人の女性』なんじゃないかな」=“I see. You're not just "mature", [H名], you're a proper woman, I'd say.”
-「あらあら、うふふ……そうね、そう言われると嬉しいわ」=“My, ufufu... hearing you say that makes me happy.”
-「でも、いずれ、こんな私を甘えさせてくれる人が現れるんじゃないかって思ってるの」=“But, I wonder if there will be someone someday, who'll spoil me just like I spoil others?”
-「うん、なる……きっとそうなるよ」=“Yeah, there will be... I'm sure there will be.”
-（俺がそうなれればいいなぁ……）=(I hope I can be that person to you...)
+//「素敵な喫茶店ね～。すごく落ち着くわ」=
+//「うん、[H名]の大人びた雰囲気によく似合ってるよ」=
+//「あらあら、ふふふ……そんなこと言われたら照れちゃうわね。お世辞じゃないといいけど……」=
+//「お世辞なんかじゃないよ。似合ってるって思うよ。けどさ、どうして[H名]ってそんなに大人っぽいの？」=
+//「んー……どうしてかしら？　最初から大人っぽかったわけじゃないと思うの」=
+//「きっと大人っぽい人って思われたかったんじゃないかしら」=
+//「どうして。そう思われたかったの？」=
+//「あらあら、随分質問攻めね。甘えん坊さんなんだから……ふふふ」=
+//「ははは、つい甘えてみたくなっちゃうんだよね。やっぱそれって、キミの雰囲気のおかげだと思うよ」=
+//「そうね。この雰囲気のおかげで、みんなが私を年上扱いしたり、大人扱いするものだから、そういう風に振る舞っちゃうのがクセになってるの」=
+//「年相応の、普通の反応をしているつもりなんだけど、どうしてもみんなの期待に応えてしまいたくなっちゃっうのよね……ふふふ」=
+//「うんうん、わかるよ。でもそれが嫌ってわけじゃないんだよね？」=
+//「ええ、全然嫌じゃないわ。誰かの面倒を見たり甘えられてリするのって、大好きなの」=
+//「そうなんだね。きっと[H名]は『大人っぽい』じゃなく『大人の女性』なんじゃないかな」=
+//「あらあら、うふふ……そうね、そう言われると嬉しいわ」=
+//「でも、いずれ、こんな私を甘えさせてくれる人が現れるんじゃないかって思ってるの」=
+//「うん、なる……きっとそうなるよ」=
+//（俺がそうなれればいいなぁ……）=

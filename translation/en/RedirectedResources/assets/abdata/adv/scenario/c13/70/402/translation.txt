@@ -1,22 +1,22 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「お店の中、いい匂い～、お腹空いてくる～」=It smells so nice in here~, my belly's emptying up on its own~
-「喫茶店で出てくるスイーツって、マジおいしそーだよね！」=The sweets they sell in cafes like these, they look super good, don't they!
-「そうだね、まさにプロの技、って感じだよね」=Yeah, they do, like they're truly the work of a pro, that sort of feeling.
-「うんうん！　お店に出せるレベルって、マジで凄いと思う！」=Yeah, exactly! Being at the level that you can display your stuff proudly in a shop, I think it's super amazing!
-「そうだね～。……でも、[H名]も料理の腕は負けてないんじゃない？」=Yeah~. ...But aren't you super good at baking too? I don't think you'd lose out.
-「乙女の嗜みとして一通りのスイーツは作れるけど、さすがにお店には負けるよ～」=I can make stuff about as well as any girl out there but, even I can't compete against an actual proper store like this~
-「でも俺にとっては、お店より[H名]が作ってくれたものの方が美味しく感じるだろうな」=But, in my eyes, the stuff you make would probably taste way better than anything I could get from a shop.
-「今度俺に何か作ってくれない？」=Won't you make something for me one of these days?
-「[P名]くんにならいつでも作ってあげるし！」=For you, [P名]-kun, anything, whenever you want!
-「やった！　名パティシエール・[H名]の料理が楽しみだよ！」=Yay! I'm really looking forward to tasting the handmade baking of such a renowned pastry chef as you!
-「あはっ、そんな大げさだって～」=Aha--, you're exaggerating way too much~
-「その……実はケーキを焼いてみたことあるんだけどさ～」=That's... I've actually tried to bake a cake before~
-「うん。それで、どうだったの？」=Yeah. And then, how was it?
-「いやぁ、もう真っ黒け！　あはは！」=Well~, it was completely charred! Ahaha!
-「あ～、な、なるほど……」=Ah~, I-I see...
-「あの時はけっこー悲しかったな～……」=I was pretty sad back then~...
-「あっ、でも！　[P名]くんのためにも、一生懸命練習しておかなくちゃね～！」=Ah--, but! I have to practice the hardest I can~! For you too, [P名]-kun!
-「う、うん！　楽しみにしてるよ！」=Y-Yeah! I'm looking forward to it!
-（未来の俺の為にも、全力で応援するよ……）=(I'll support her with all my power, for the sake of my future self too...)
+//「お店の中、いい匂い～、お腹空いてくる～」=
+//「喫茶店で出てくるスイーツって、マジおいしそーだよね！」=
+//「そうだね、まさにプロの技、って感じだよね」=
+//「うんうん！　お店に出せるレベルって、マジで凄いと思う！」=
+//「そうだね～。……でも、[H名]も料理の腕は負けてないんじゃない？」=
+//「乙女の嗜みとして一通りのスイーツは作れるけど、さすがにお店には負けるよ～」=
+//「でも俺にとっては、お店より[H名]が作ってくれたものの方が美味しく感じるだろうな」=
+//「今度俺に何か作ってくれない？」=
+//「[P名]くんにならいつでも作ってあげるし！」=
+//「やった！　名パティシエール・[H名]の料理が楽しみだよ！」=
+//「あはっ、そんな大げさだって～」=
+//「その……実はケーキを焼いてみたことあるんだけどさ～」=
+//「うん。それで、どうだったの？」=
+//「いやぁ、もう真っ黒け！　あはは！」=
+//「あ～、な、なるほど……」=
+//「あの時はけっこー悲しかったな～……」=
+//「あっ、でも！　[P名]くんのためにも、一生懸命練習しておかなくちゃね～！」=
+//「う、うん！　楽しみにしてるよ！」=
+//（未来の俺の為にも、全力で応援するよ……）=

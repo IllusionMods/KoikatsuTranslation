@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「いつも思うけど、きみの食べ方って上品だよね」=I always end up thinking this but, your way of eating's really elegant.
-「そ、そうかしら？　意識したことはないんだけど……」=I-Is it? I've never really thought about it...
-「うん、なんていうか……キレイだ」=Yeah, like, how do I say this... it's lovely.
-「き、キレイって……もう、女の子にそんな言葉を軽々と使っちゃダメよ……？」=L-Lovely... jeez, you really shouldn't use words like that around a girl so lightly, you know...?
+//「いつも思うけど、きみの食べ方って上品だよね」=
+//「そ、そうかしら？　意識したことはないんだけど……」=
+//「うん、なんていうか……キレイだ」=
+//「き、キレイって……もう、女の子にそんな言葉を軽々と使っちゃダメよ……？」=

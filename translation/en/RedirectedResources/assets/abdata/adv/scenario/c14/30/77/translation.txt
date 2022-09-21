@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-………………=.........
-…………=......
-……=...
-「たまには運動もいいもんだな。またしようぜ」=Exercise is nice too, every once in a while. Let's do it again.
+//………………=
+//…………=
+//……=
+//「たまには運動もいいもんだな。またしようぜ」=

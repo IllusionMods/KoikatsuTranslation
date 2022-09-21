@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「今まで、こうしてあなたと一緒に帰るなんて思ったことなかった」=“I'd never thought that we'd walk home together like this, someday.”
-「俺は一緒に帰れてうれしいよ。……そっちはどうかな？」=“Personally, I'm glad you said yes. ...What about you?”
-「わたしは、体の中があったかい……これは、あなたのパワー？」=“My chest, feels warm... is this, your power?”
+//「今まで、こうしてあなたと一緒に帰るなんて思ったことなかった」=
+//「俺は一緒に帰れてうれしいよ。……そっちはどうかな？」=
+//「わたしは、体の中があったかい……これは、あなたのパワー？」=

@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「わっ、これ……欲しかったんです。あ、ありがとうございます！　大事にしますね」=Wah--, I... really wanted this. T-Thank you very much! I'll treasure it.
+//「わっ、これ……欲しかったんです。あ、ありがとうございます！　大事にしますね」=

@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-………………=.........
-…………=......
-……=...
-「Ｏｈ……ココでお別れデース。マタ一緒、帰ってくれマスカ？」=Oh... Here's where we go our own ways. Will you walk home with me again sometime?
-「もちろん。[H]といると、俺も改めて日本語の勉強になるから、これからも一緒に帰ろうよ」=For sure. When I'm with you, I get to brush up on my Japanese too so, let's walk home together next time too.
-「そう言ってくれると嬉しいデース。ソレデハ、Ｂｙｅｂｙｅ♡」=I'm really happy to hear you say that. Well then, Byebye♡
+//………………=
+//…………=
+//……=
+//「Ｏｈ……ココでお別れデース。マタ一緒、帰ってくれマスカ？」=
+//「もちろん。[H]といると、俺も改めて日本語の勉強になるから、これからも一緒に帰ろうよ」=
+//「そう言ってくれると嬉しいデース。ソレデハ、Ｂｙｅｂｙｅ♡」=

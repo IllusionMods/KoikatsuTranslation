@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「デート？　もちろんいいわよ！　……って、えぇ！　デート！？」=“A date? Of course! ...Wait, whut! A date?!”
-「うん。ダメ、かな？」=“Yeah. Guessing that it's a, uh, it's a no then?”
-「ダメなわけない！　いきなりだからビックリしただけで……もちろんＯＫよ！」=“Not at all! I just got shocked because you brought it up out of nowhere like that... of course, I'm all for it!”
-「そっか、よかった。それじゃあ色々デートプラン考えておくから」=“I see. Great. Well then, I'm gonna think of all sorts of stuff for us to do.”
-「よ、よろしく頼むわよ！　あたしも色々準備しとかなきゃ……」=“P-Please do! I gotta get all sorts of stuff ready too...”
+//「デート？　もちろんいいわよ！　……って、えぇ！　デート！？」=
+//「うん。ダメ、かな？」=
+//「ダメなわけない！　いきなりだからビックリしただけで……もちろんＯＫよ！」=
+//「そっか、よかった。それじゃあ色々デートプラン考えておくから」=
+//「よ、よろしく頼むわよ！　あたしも色々準備しとかなきゃ……」=

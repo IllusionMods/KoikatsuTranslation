@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「ふふ……私ったら、とんでもないことしちゃったわね」=“Fufu... I did something really bold, didn't I?”
-「うん……こんなに大胆なことされるだなんて、思ってもみなかったよ」=“Yeah... I never even thought that you'd ever do something like that.”
-「おねーさんもビックリよ。でも、ちょっとだけ……楽しかったわ」=“Your onee-san here's very surprised too. But, that was fun... just a bit.”
-「うん……楽しかった……それに、周りにバレてないようで良かったよ……」=“Yeah... it was fun... not to mention, I'm glad nobody noticed...”
+//「ふふ……私ったら、とんでもないことしちゃったわね」=
+//「うん……こんなに大胆なことされるだなんて、思ってもみなかったよ」=
+//「おねーさんもビックリよ。でも、ちょっとだけ……楽しかったわ」=
+//「うん……楽しかった……それに、周りにバレてないようで良かったよ……」=

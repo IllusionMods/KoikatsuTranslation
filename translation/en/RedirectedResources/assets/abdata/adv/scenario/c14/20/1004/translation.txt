@@ -1,16 +1,16 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-モブ=Mob
-「お疲れ様でした。ふふっ、素敵な式でしたよ」=Good work today. Fufu~ It was a lovely ceremony.
-「本番の結婚式も、是非、私どもの式場で挙げてくださいね！」=For your actual wedding as well, please, do call upon us!
-「えっと、前向きに考えさせてもらいます」=Uhm, sure, if we get to that point.
-「お願いします！　今日はお引き受けいただいて、ありがとうございました」=Thank you! And for helping us out so much today as well, thank you very much!
-「ふぅ、今日はいい一日だったね。ね、[H名]！」=Fuu, today was a good day, wasn't it? [H名]!
-「あ、ああ……誓いのキス……ホントに交わしたんだよな……」=Y-Yeah... we really did... exchange a kiss of vows, right...?
-「うん、そうだよ。……まあモデルとは言っても、かなり本格的な結婚式だったよね」=Yeah, we did. ...Well, even if it was modelling, it was a pretty realistic ceremony, wasn't it?
-「……あそこまでやっちまったんだ。なんかもう、いろいろ吹っ切れてきたぜ」=...We went the whole day. It kinda, untied a lot of things in my mind.
-「[H名]？」=[H名]?
-「[P名]、私決めたぜ。次に式をやるときは、みんなの前で、お前への愛を存分に語ってやるよ！」=I've made up my mind, [P名]. When the time comes, for us to do this for real, I'll profess my love for you, in front of everyone, until I have my fill.
-「だから、その時まで一緒にいてくれよな」=So, stay with me till then, okay?
-「うん……！　わかったよ、[H名]！」=Okay...! I got it, [H名]!
+//モブ=
+//「お疲れ様でした。ふふっ、素敵な式でしたよ」=
+//「本番の結婚式も、是非、私どもの式場で挙げてくださいね！」=
+//「えっと、前向きに考えさせてもらいます」=
+//「お願いします！　今日はお引き受けいただいて、ありがとうございました」=
+//「ふぅ、今日はいい一日だったね。ね、[H名]！」=
+//「あ、ああ……誓いのキス……ホントに交わしたんだよな……」=
+//「うん、そうだよ。……まあモデルとは言っても、かなり本格的な結婚式だったよね」=
+//「……あそこまでやっちまったんだ。なんかもう、いろいろ吹っ切れてきたぜ」=
+//「[H名]？」=
+//「[P名]、私決めたぜ。次に式をやるときは、みんなの前で、お前への愛を存分に語ってやるよ！」=
+//「だから、その時まで一緒にいてくれよな」=
+//「うん……！　わかったよ、[H名]！」=

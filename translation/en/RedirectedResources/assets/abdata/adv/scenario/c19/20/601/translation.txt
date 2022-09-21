@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「ここが……その……。小説でしか知らなかったけど……こんなに風になってるんだ」=This place is... uhm... I've only ever read of places like these in novels... so this is what they're like.
-「想像と違った？」=Not what you expect?
-「うん……。ここでいまから私、小説の中のヒロインと同じこと……するんだね……」=Yeah... I'm going to do the same stuff as a heroine from a novel, in this place... aren't I...
-「緊張しなくても大丈夫だよ。小説の内容よりもっと良くしてあげるから」=You don't need to be so nervous. I'll make you feel more pleasure than books could ever describe.
-「……そんな事されたら私、壊れちゃうかも」=...I might break if you do that.
-（壊れるって……普段どんなのよんでるんだろう？）=("Break"... just what sort of stuff does she even read normally?)
-「ま、まぁ……始めようか」=W-Well... let's start.
+//「ここが……その……。小説でしか知らなかったけど……こんなに風になってるんだ」=
+//「想像と違った？」=
+//「うん……。ここでいまから私、小説の中のヒロインと同じこと……するんだね……」=
+//「緊張しなくても大丈夫だよ。小説の内容よりもっと良くしてあげるから」=
+//「……そんな事されたら私、壊れちゃうかも」=
+//（壊れるって……普段どんなのよんでるんだろう？）=
+//「ま、まぁ……始めようか」=

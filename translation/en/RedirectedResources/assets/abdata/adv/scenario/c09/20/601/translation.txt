@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「へぇー……けっこう綺麗なんだ」=“Hoh... it's pretty beautiful.”
-「……[H名]。ひょっとして、初めてで緊張してる？」=“...[H]. By any chance, are you nervous, since it's your first time here?”
-「そ、そんなことないわ……！　最近は、こういうところで女子会とかやってるし……！　は……ははは！」=“N-Not at all...! I've been having tea parties with the girls at places like these recently...! Hah... hahaha!”
-（分かりやすいなぁ……どうみても、初めてだもんな……）=(She's easier to read than a book... no matter how you look at it, it's her first time here...)
-「でも男の子と、その……本来の用途で来るのは……初めて……」=“But, coming here with a boy to, uhm... use this place for its intended purpose is... a first for me...”
-「それは、俺だって……こういう所、慣れてないから」=“When you say it like that, I... it's not like I'm all that used to this place either.”
+//「へぇー……けっこう綺麗なんだ」=
+//「……[H名]。ひょっとして、初めてで緊張してる？」=
+//「そ、そんなことないわ……！　最近は、こういうところで女子会とかやってるし……！　は……ははは！」=
+//（分かりやすいなぁ……どうみても、初めてだもんな……）=
+//「でも男の子と、その……本来の用途で来るのは……初めて……」=
+//「それは、俺だって……こういう所、慣れてないから」=

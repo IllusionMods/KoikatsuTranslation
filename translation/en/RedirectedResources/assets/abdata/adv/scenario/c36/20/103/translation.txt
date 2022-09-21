@@ -1,18 +1,18 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「さて、そろそろ時間かしら。今日もそれなりに楽しめたわ」="Well then, it's about time. I had fun today as well."
+//「さて、そろそろ時間かしら。今日もそれなりに楽しめたわ」=
 //CHOICE:『まだ時間ある？』=
 //CHOICE:『俺も楽しかった』=
-「ここの夜景、綺麗だからさ。よければ一緒に見ていきたいんだけど……」="It's because the night view here is beautiful. If ossible, I'd like keep watching it together."
-「ふぅん、汚い下僕と綺麗な夜景を見るというのも、ギャップがあって面白そうね」="Hmm, watching a beautiful night view with a dirty manservant? It's interesting with that gap."
-「やった、一緒に来てくれるって事でいいんだよね？　じゃあ、一番いい場所に案内するよ！」="Yay, it's great that we came here together right?"
-「こら、はしゃぎ過ぎよ。暗くなってきたのだから、転んでも知らないわよ」="Hey, You're frolicking too much. It's become dark so I won't care much if you fall down."
-「はは、ごめん。一緒にゆっくり、歩いて行こうか……」="Haha, sorry. Shall we take a slow walk together?"
-「俺はめちゃくちゃ楽しかったよ。じゃあ、駅前まででも、送らせて欲しいな」="I enjoyed it a ton! I'll walk you up to the station."
-「当然よ、最後まできちんと見送りなさい。それが貴方の役目でしょ？」="Of course. See me off till the very last second. It's your duty."
-「うん、そうだね。では、エスコートさせて頂きます」="Yeah, that's right. I will take the honor of escorting you."
-「プッ、エスコートって。何をカッコつけているの？　笑わせないで」="Pfft, escorting huh. What are you acting cool for?"
-「あはは……やっぱりカッコ付け過ぎだったかな？」="Ahaha, was that too presumptuous of me?"
-「そうね、１０年早いと思うわ。いえ、貴方をきちんと躾けるには、１０年でも足りないかしら」="Let me see, 10 years too early for you to speak like that. No, to tran you properly, 10 years is definitely too short."
-「期待に応えられるように、一歩ずつ頑張るよ」="I'll do my best and do one step at a time to live up to your expectations."
+//「ここの夜景、綺麗だからさ。よければ一緒に見ていきたいんだけど……」=
+//「ふぅん、汚い下僕と綺麗な夜景を見るというのも、ギャップがあって面白そうね」=
+//「やった、一緒に来てくれるって事でいいんだよね？　じゃあ、一番いい場所に案内するよ！」=
+//「こら、はしゃぎ過ぎよ。暗くなってきたのだから、転んでも知らないわよ」=
+//「はは、ごめん。一緒にゆっくり、歩いて行こうか……」=
+//「俺はめちゃくちゃ楽しかったよ。じゃあ、駅前まででも、送らせて欲しいな」=
+//「当然よ、最後まできちんと見送りなさい。それが貴方の役目でしょ？」=
+//「うん、そうだね。では、エスコートさせて頂きます」=
+//「プッ、エスコートって。何をカッコつけているの？　笑わせないで」=
+//「あはは……やっぱりカッコ付け過ぎだったかな？」=
+//「そうね、１０年早いと思うわ。いえ、貴方をきちんと躾けるには、１０年でも足りないかしら」=
+//「期待に応えられるように、一歩ずつ頑張るよ」=

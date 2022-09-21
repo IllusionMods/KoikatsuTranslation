@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「好きなもの言ってないのにわかるなんて、さすがあたしの彼氏だな！」=“To think you'd know what I like even without me telling you. That's my boyfriend for you, always so amazing!”
+//「好きなもの言ってないのにわかるなんて、さすがあたしの彼氏だな！」=

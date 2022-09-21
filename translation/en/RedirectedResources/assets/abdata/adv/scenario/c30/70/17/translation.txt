@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「んーっ、よく寝た。……あれ？　メモがある。なになに――」=Mmm, I slept well... Oh? There's a note. Let's see--
-『きちんと起きられたかしら？　お姉さんはお寝坊なキミが心配です』="Did you wake up properly? This onee-san is worried about you, sleepyhead-san."
-『本当は朝から色んなことをして、もっともっとラブラブな感じでいたかったけど……残念ながら今日は早く行かなきゃいけないの』="I really wanted to be there with you and do more lovey-dovey stuff right till noon, but I unfortunately have to leave really early, sorry."
-『また後で……いっぱいラブラブしましょうね。ほんのちょっとでも離れたくないくらい……大好きよ♪　[H名]』="I'll see you later... Let's do a lot of lovey-dovey stuff together, okay? I don't wanna be separated from you, even for a little bit... I love you ♪ -[H名]"
+//「んーっ、よく寝た。……あれ？　メモがある。なになに――」=
+//『きちんと起きられたかしら？　お姉さんはお寝坊なキミが心配です』=
+//『本当は朝から色んなことをして、もっともっとラブラブな感じでいたかったけど……残念ながら今日は早く行かなきゃいけないの』=
+//『また後で……いっぱいラブラブしましょうね。ほんのちょっとでも離れたくないくらい……大好きよ♪　[H名]』=

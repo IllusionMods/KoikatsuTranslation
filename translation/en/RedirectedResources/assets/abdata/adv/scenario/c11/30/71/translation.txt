@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「まずは……どこまでできてるのかしら？」=“First... how much have you done?”
-「えっと……ここまでしか……」=“Erhm... only till about here...”
-「あらあら！　まだこんなに残ってるじゃない……これは長丁場になりそうね」=“My oh my! You've still got lots to go through... Seems that we'll be here a while.”
-「スイマセン……」=“I am sorry...”
-「うふふ、こういうこともあろうかと思って、用意してきたの～♪」=“Ufufu, I thought this might happen, so I brought this~♪”
-「じゃーん！　ジュースにお菓子♪　あなた、コーラが好きだったわよね？　ポテチも食べる？　チョコもあるわよ～」=“Tada~! Juice and snacks♪ You love cola, don't you? Want some potato chips? I've got chocolates too~”
-（なんだか楽しそうだな……）=(She seems to be having fun...)
+//「まずは……どこまでできてるのかしら？」=
+//「えっと……ここまでしか……」=
+//「あらあら！　まだこんなに残ってるじゃない……これは長丁場になりそうね」=
+//「スイマセン……」=
+//「うふふ、こういうこともあろうかと思って、用意してきたの～♪」=
+//「じゃーん！　ジュースにお菓子♪　あなた、コーラが好きだったわよね？　ポテチも食べる？　チョコもあるわよ～」=
+//（なんだか楽しそうだな……）=

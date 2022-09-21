@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「で、でで、でぇとって……うぁ……ちょっとタイム。顔が熱くて……あっち向いててくれ」=“A d-d-date... uwah... time out. My face is burning up... could you face the other way?”
-「それはいいけど。デート自体はダメかな？」=“Sure, I don't mind but, is that a no then?”
-「だ、ダメじゃない！　でも心の準備ってものが……ふぅ、もうこっち向いていいぞ」=“I-It's not a no! But I need to prepare my heart... fuuh, you can turn back around.”
+//「で、でで、でぇとって……うぁ……ちょっとタイム。顔が熱くて……あっち向いててくれ」=
+//「それはいいけど。デート自体はダメかな？」=
+//「だ、ダメじゃない！　でも心の準備ってものが……ふぅ、もうこっち向いていいぞ」=

@@ -1,12 +1,12 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「いつの間にか景色がオレンジに染まってる……もう、物語みたいなデートにも終わりが近づいてるのね」=The scenery's started turning orange in no time at all... even our fantastical date, will have an end to it, won't it?
-CHOICE:『最後に観覧車に乗ってかない？』=Wanna ride the ferris wheel to close the day off?
-CHOICE:『暗くなる前に帰ろうか』=Let's go home before it gets dark.
-「それじゃあ締めくくりに、観覧車に乗ろうか」=Let's ride the ferris wheel to give it a proper ending then.
-「デートの最後に観覧車……なんだかロマンチックな感じだわ」=Riding the ferris wheel at the end of a date... it does sound rather romantic.
-「そうだね……日が落ちきる前に、今日は帰ろうか」=Yeah... let's go home, before the day completely ends.
-「ええ。[P名]君は遊び疲れちゃった？」=Yes. Are you tired, [P]-kun?
-「うーん、さすがにちょっと疲れたかな。でも[H名]はまだ元気そうだね？」=Mmm, a little bit for sure. You still seem full of energy though, [H].
-「そんなことないよ。ただ、ずっと[P名]君といてドキドキしてたから、それで元気な風に見えてるだけなのかも」=Not at all. It's just that spending the whole day like this with you really sent my heart racing so, it might have just been that making me seem energetic.
+//「いつの間にか景色がオレンジに染まってる……もう、物語みたいなデートにも終わりが近づいてるのね」=
+//CHOICE:『最後に観覧車に乗ってかない？』=
+//CHOICE:『暗くなる前に帰ろうか』=
+//「それじゃあ締めくくりに、観覧車に乗ろうか」=
+//「デートの最後に観覧車……なんだかロマンチックな感じだわ」=
+//「そうだね……日が落ちきる前に、今日は帰ろうか」=
+//「ええ。[P名]君は遊び疲れちゃった？」=
+//「うーん、さすがにちょっと疲れたかな。でも[H名]はまだ元気そうだね？」=
+//「そんなことないよ。ただ、ずっと[P名]君といてドキドキしてたから、それで元気な風に見えてるだけなのかも」=

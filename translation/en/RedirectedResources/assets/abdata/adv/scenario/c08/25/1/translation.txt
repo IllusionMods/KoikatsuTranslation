@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「ねぇ、今、時間大丈夫？」=Hey, got some time right now?
-「え？　うん、大丈夫だよ。どうしたのかな？」=Eh? Yeah, I do. What's the matter?
-「ちょっと、君と話してみたくてさ」=I just wanted to chat with you for a bit.
-「いいよ。私もね、ちょっと聞きたいことあるんだぁ」=Sure. I've been wanting to ask you a few things myself.
-「ちょうどよかったね！　それじゃあ……」=Well that works out perfectly then! So then...
+//「ねぇ、今、時間大丈夫？」=
+//「え？　うん、大丈夫だよ。どうしたのかな？」=
+//「ちょっと、君と話してみたくてさ」=
+//「いいよ。私もね、ちょっと聞きたいことあるんだぁ」=
+//「ちょうどよかったね！　それじゃあ……」=

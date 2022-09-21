@@ -1,20 +1,20 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「はぁ……はぁ……よーし、今度はお前の番！　まだへばってねえよな？」=Haah... haah... alright, it's your turn next! You're not out of batts or anything, are you?
-「はは……ちょっときついけど、まだいけそうだよ……。次は、何を歌おうかな？」=Haha... I'm running on low power, but not completely out of juice yet... What should I go with next?
-「……そうだ！　一曲デュエットしてみない？」=...Right! Wanna try doing a duet?
-「デュエットかぁ……面白そうだな、やろうぜ！　せっかくなら肩組んで歌うか？　なーんてな」=A duet, huh... sounds fun, let's do it! Since we're doing a duet, wanna put arms around each other's shoulders too? Kidding~
-「それいいね！　それじゃ、[H名]の隣に……」=That sounds great! Well then, I'mma come stand right next to...
-「ちょ、本気にすんなよ……近づきすぎだっての……」=Hey, don't actually do it... you're way too close...
-（[H名]の体……汗で濡れてて……とっても熱がこもってる……）=(Her body... it's wet with sweat... just packed full of heat...)
-「お、おい……早く離れろって……」=O-Oi... let go...
-「ごめん……なんだか体に、火が付いちゃったみたいだ……いいかな？」=Sorry... seems like, a fire just lit up inside me... do you mind?
-「え！？　でも、ここだと……誰かに聞かれたら……」=Eh?! But, here... if someone hears us...
-「大丈夫。曲を流せば、外には聞こえないと思うんだ」=It's alright. If we just put on a song, I'm sure nobody will hear us.
-「それに……音楽聞きながらの方が、盛り上がれるんじゃないかな？」=Not to mention... don't you think it'd be way more fun, with some nice moody music playing in the background?
-「こ、ここでするのか？　私……初めて、なんだぞ……？」=H-Here? I'm... a virgin, you know...?
-「心配しないで……[H名]が嫌がることはしないから」=Don't worry... I'll make sure you enjoy yourself.
-「……誰も来ないだろうな？　エッチしてるのを見られるの、イヤだからよ……」=...Nobody's going to walk in on us, right? I don't want anybody, to see us doing it...
-「大丈夫だって。注文もしてないし、外にもあまり聞こえないから」=It's fine, don't worry. We've not ordered anything, and these walls are pretty soundproofed.
-「ん……分かったよ……でも、あんまり激しくはするなよ？　音が漏れたら大変だからな」=Nn... I got it... but, don't be too rough, okay? It'd be real bad if the sound really leaked out.
+//「はぁ……はぁ……よーし、今度はお前の番！　まだへばってねえよな？」=
+//「はは……ちょっときついけど、まだいけそうだよ……。次は、何を歌おうかな？」=
+//「……そうだ！　一曲デュエットしてみない？」=
+//「デュエットかぁ……面白そうだな、やろうぜ！　せっかくなら肩組んで歌うか？　なーんてな」=
+//「それいいね！　それじゃ、[H名]の隣に……」=
+//「ちょ、本気にすんなよ……近づきすぎだっての……」=
+//（[H名]の体……汗で濡れてて……とっても熱がこもってる……）=
+//「お、おい……早く離れろって……」=
+//「ごめん……なんだか体に、火が付いちゃったみたいだ……いいかな？」=
+//「え！？　でも、ここだと……誰かに聞かれたら……」=
+//「大丈夫。曲を流せば、外には聞こえないと思うんだ」=
+//「それに……音楽聞きながらの方が、盛り上がれるんじゃないかな？」=
+//「こ、ここでするのか？　私……初めて、なんだぞ……？」=
+//「心配しないで……[H名]が嫌がることはしないから」=
+//「……誰も来ないだろうな？　エッチしてるのを見られるの、イヤだからよ……」=
+//「大丈夫だって。注文もしてないし、外にもあまり聞こえないから」=
+//「ん……分かったよ……でも、あんまり激しくはするなよ？　音が漏れたら大変だからな」=

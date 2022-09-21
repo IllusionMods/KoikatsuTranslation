@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「んーっ、よく寝た。……あれ？　メモがある。なになに――」=“Nnnn--, I slept well. ...Huh? There's a note. Let's see--”
-『おはよう。気持ちよさそうに寝てるから、起こさずに先行きます』=『Morning. You're sleeping real tight, so I'mma head out without waking you up.』
-『目覚ましを３つかけたのは私です。もし遅刻してきたら、４つに増やすからそのつもりで　[H]』=『I was the one who set the three separate alarms. If you still end up being late, I'll make it 4 from next time instead, so do be mindful of that. --[H]』
-『追伸　私がお泊りしたこと、学園では秘密にしてて。みんなが嫉妬しちゃうから……』=『Postscript. Keep it a secret that I stayed over last night. Everyone's gonna start getting jealous and stuff so...』
+//「んーっ、よく寝た。……あれ？　メモがある。なになに――」=
+//『おはよう。気持ちよさそうに寝てるから、起こさずに先行きます』=
+//『目覚ましを３つかけたのは私です。もし遅刻してきたら、４つに増やすからそのつもりで　[H]』=
+//『追伸　私がお泊りしたこと、学園では秘密にしてて。みんなが嫉妬しちゃうから……』=

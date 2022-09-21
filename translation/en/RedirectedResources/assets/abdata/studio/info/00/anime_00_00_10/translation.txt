@@ -1,23 +1,23 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-くしゃみ=Sneezing
-あくび=Yawning
-暑がる=Hot
-手を振る=Waving
-リップクリームを塗る待機=About To Use Lip Balm
-リップクリームを塗る=Using Lip Balm
-ポスターを貼る=Putting Up Poster
-チアダンス待機=About To Cheer
-チアダンス練習1=Cheerleader Practice 1
-チアダンス練習2=Cheerleader Practice 2
-ダンス練習待機=About To Practice Dancing
-ダンス練習=Practicing Dancing
-ストレッチ1=Stretching 1
-ストレッチ2=Stretching 2
-ストレッチ3=Stretching 3
-ストレッチ4=Stretching 4
-クロールで泳ぐ=Swimming Front Crawl
-プール座り1=Sitting Poolside 1
-プール座り2=Sitting Poolside 2
-プール座り3=Sitting Poolside 3
+//くしゃみ=
+//あくび=
+//暑がる=
+//手を振る=
+//リップクリームを塗る待機=
+//リップクリームを塗る=
+//ポスターを貼る=
+//チアダンス待機=
+//チアダンス練習1=
+//チアダンス練習2=
+//ダンス練習待機=
+//ダンス練習=
+//ストレッチ1=
+//ストレッチ2=
+//ストレッチ3=
+//ストレッチ4=
+//クロールで泳ぐ=
+//プール座り1=
+//プール座り2=
+//プール座り3=

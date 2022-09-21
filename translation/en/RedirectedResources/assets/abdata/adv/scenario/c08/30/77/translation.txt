@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-………………=.........
-…………=......
-……=...
-「……結局勝てなかったなぁ。でも次は負けないんだよ」=...I couldn't win in the end. But, I won't lose next time.
+//………………=
+//…………=
+//……=
+//「……結局勝てなかったなぁ。でも次は負けないんだよ」=

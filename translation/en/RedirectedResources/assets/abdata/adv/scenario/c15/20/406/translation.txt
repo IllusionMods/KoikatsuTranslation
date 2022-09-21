@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「あれ……もうこんな時間か。よし、そろそろ出よ？」=“Huh... it's already this late, huh? Alright, shall we head out?”
-「うん、そうだなー。いつの間にか、外も暗くなってきてるしなー」=“Yeah, sure. It got dark out before we realized it.”
-「えーっと、財布はたしかここに……」=“Erhm, let's see, my purse was...”
-「ああ、ここは俺が払うよ」=“Aah, it's fine, I'll pay for it.”
-「えっ、いいのかー？　じゃあ……すまないなー」=“Eh--, you sure? Then... sorry, and thanks.”
-「ううん、気にしないでいいよ」=“It's fine, don't worry about it.”
+//「あれ……もうこんな時間か。よし、そろそろ出よ？」=
+//「うん、そうだなー。いつの間にか、外も暗くなってきてるしなー」=
+//「えーっと、財布はたしかここに……」=
+//「ああ、ここは俺が払うよ」=
+//「えっ、いいのかー？　じゃあ……すまないなー」=
+//「ううん、気にしないでいいよ」=

@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「……私たち別れようか～」=...Wanna break up~?
-「えぇ！？　急になんでそんなこというの！？」=Eeh!? What's with that, all of a sudden!?
-「改めて考えると私とキミが一緒にいる意味ないな～と思って」=When I thought over it a bit more, I just thought that there was no meaning in us being together any longer~
-「え……い、いっぱい楽しいことしたよね？」=Eh... W-We had a ton of fun, didn't we?
-「それが私にとっては面倒だったってこと～。じゃあ、そういうことで～」=That "fun" was the problem, it was all such a pain~. Well then, that's all I had to say~
+//「……私たち別れようか～」=
+//「えぇ！？　急になんでそんなこというの！？」=
+//「改めて考えると私とキミが一緒にいる意味ないな～と思って」=
+//「え……い、いっぱい楽しいことしたよね？」=
+//「それが私にとっては面倒だったってこと～。じゃあ、そういうことで～」=

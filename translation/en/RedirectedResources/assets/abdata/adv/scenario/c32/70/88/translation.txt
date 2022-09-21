@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-………………=.........
-…………=......
-……=...
-「さて、活動記録をまとめませんと。私たちの大切な足跡ですからね」=Well then, I have to sort out the love-activity records. Afterall, these are our precious mementos.
+//………………=
+//…………=
+//……=
+//「さて、活動記録をまとめませんと。私たちの大切な足跡ですからね」=

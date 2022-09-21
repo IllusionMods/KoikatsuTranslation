@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「ちょっと、待ちなさい。勝手にやめようとしないで。貴方、どこまで無能なの」="Wait a minute. Don't just stop as you please. Just how incompetent are you?"
+//「ちょっと、待ちなさい。勝手にやめようとしないで。貴方、どこまで無能なの」=

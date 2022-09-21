@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「これよ……授業で作ったんだけどおまえ食うか？」=Here... I made these during class, wanna eat them?
-「い……嫌ならいいんだ別に」=If... if you don't want to, that's okay too.
-「でも、食べるなら……あとで味の感想聞かせろよ」=But, if you do eat them... let me know what you think later, okay?
+//「これよ……授業で作ったんだけどおまえ食うか？」=
+//「い……嫌ならいいんだ別に」=
+//「でも、食べるなら……あとで味の感想聞かせろよ」=

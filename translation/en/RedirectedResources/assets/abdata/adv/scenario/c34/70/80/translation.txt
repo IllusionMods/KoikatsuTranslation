@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「Ｗｏｗ！　今日はイイ天気ネー！　ゴハンがススムヨー！」=Wow! It sure is a great day today! Lunch's gonna go super well!
-「はは、変わった言葉を覚えてるね」=Haha, you sure are using quite the words.
-「コレ、変わった言葉デスカ？」=Was what I said weird?
-「うーん、日本語に慣れてない人はあんまり使わない気がするかな」=Hmmm, I feel like people not used to Japanese wouldn't phrase it like that.
-「Ｏｈ！　ワタシ、ニッポン語慣れてキタデスカ！？　今日はｇｏｏｄ　ｄａｙネ♪」=Oh! Does that mean I've gotten used to Japanese?! Today sure is a good day♪
+//「Ｗｏｗ！　今日はイイ天気ネー！　ゴハンがススムヨー！」=
+//「はは、変わった言葉を覚えてるね」=
+//「コレ、変わった言葉デスカ？」=
+//「うーん、日本語に慣れてない人はあんまり使わない気がするかな」=
+//「Ｏｈ！　ワタシ、ニッポン語慣れてキタデスカ！？　今日はｇｏｏｄ　ｄａｙネ♪」=

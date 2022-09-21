@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「部長ー、あたしコイカツって初めてだけど、なにすればいいんだー？」=“It's my first time doing this, prez, what do we do here?”
-「恋人がどんなことをするか、っていう研究かな？」=“Researching what sort of stuff lovers get up to, I guess?”
-「じゃー、最初は手のつなぎ方とかやってみたいなー」=“Then, I wanna try holding hands and stuff.”
-「えーっと、こう、指を絡ませて……と」=“Erhm, twist our fingers together, like... this.”
-「お、おぉ……なんか、身体が熱くなってきたぞ……」=“O-Ooh... My body's started getting kinda hot...”
+//「部長ー、あたしコイカツって初めてだけど、なにすればいいんだー？」=
+//「恋人がどんなことをするか、っていう研究かな？」=
+//「じゃー、最初は手のつなぎ方とかやってみたいなー」=
+//「えーっと、こう、指を絡ませて……と」=
+//「お、おぉ……なんか、身体が熱くなってきたぞ……」=

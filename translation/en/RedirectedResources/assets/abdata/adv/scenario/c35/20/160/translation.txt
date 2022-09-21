@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「[H名]、大丈夫？　もう少し休んでいく？」=[H名], you alright? Wanna rest for a bit more?
-「あ、う、ううん、もう平気。あはは、まだ少しだけドキドキしとるけど……うん、ちょっとずつ落ち着いてきたん」=Ah, N-No, I'm aight. Ahaha, my heart's still throbbing a bit but... yeah, I'm starting to calm down.
-（本当に平気かな？　結構疲れてそうにも見えるけど……）=(Is she really alright? She seems pretty tired out to me...)
-「そうだ。せっかくのデートなんだし、駅まで俺が支えてあげるよ。腕……組んで歩かない？」=Oh right, since we're out on a date and all, I'll support you till we get to the station. Won't you... link arms with me?
-「はわっ……う……ぅ……ちょ、ちょっとだけ恥ずかしいけど……うん、お願いします。ぎゅってくっついてもいいん？」=Hawah--... Uu... uu... I-It's a bit embarrassing but... yeah, please. Can I hold onto you tight?
-「もちろん。俺もそっちの方が嬉しいよ」=Of course. I'd love that too.
-「えへへ、それじゃくっつくんっ！　君のこと、大好きっ！　ぎゅーっ！」=Ehehe, then I'll grip on tight--! I love you--! *hug*--!
+//「[H名]、大丈夫？　もう少し休んでいく？」=
+//「あ、う、ううん、もう平気。あはは、まだ少しだけドキドキしとるけど……うん、ちょっとずつ落ち着いてきたん」=
+//（本当に平気かな？　結構疲れてそうにも見えるけど……）=
+//「そうだ。せっかくのデートなんだし、駅まで俺が支えてあげるよ。腕……組んで歩かない？」=
+//「はわっ……う……ぅ……ちょ、ちょっとだけ恥ずかしいけど……うん、お願いします。ぎゅってくっついてもいいん？」=
+//「もちろん。俺もそっちの方が嬉しいよ」=
+//「えへへ、それじゃくっつくんっ！　君のこと、大好きっ！　ぎゅーっ！」=

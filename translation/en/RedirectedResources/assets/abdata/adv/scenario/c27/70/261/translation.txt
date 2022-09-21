@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「……[H名]ってば、大胆なことするね」=“...You really do some bold things sometimes, [H名].”
-「確信をもって言うけど、私が触らなかったら、あんたは股間を押し付けておっぱじめてたわよ」=“I know for sure, 100%, that if I didn't, you would have pushed yourself onto me instead.”
-「悔しいけど、その可能性は否定できない……」=“It's frustrating, but I can't deny the possibility of that...”
+//「……[H名]ってば、大胆なことするね」=
+//「確信をもって言うけど、私が触らなかったら、あんたは股間を押し付けておっぱじめてたわよ」=
+//「悔しいけど、その可能性は否定できない……」=

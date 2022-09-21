@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「コイカツ……？　それって、読書とかもしたりするの？」=Koikatsu...? Can you read books and stuff in that club too?
-「うん、コミュニケーションの一環として、読んだ本の感想を語ることもできるし」=Yeah, since it's all about the spirit of communication, nothing stops you from talking about the books you've read and whatnot.
-「意外と、普段の生活と変わらない部活だったりする？」=So the club has rather mundane, varied activities, does it?
-「そうだね。あ、でも、お互い望むなら、恋愛小説みたいなこともできるよ」=Yeah, I guess so. Ah, but, if you want to, we can do the sort of stuff that happens in romance novels too, you know?
-「もっと小説らしい……それって、え、エッチな事とかも含んだり……するのかな？」=Stuff from novels... does that, i-include... lewd stuff too?
-「ああ、それは……まあ、君が良いっていうならね？」=Aah, that's... well, only if you're okay with it, okay?
-「そ、そうなんだ、じゃあ……えっと、その……私でよければ……入ろうかな……」=I-I see, then... erm, uhm... if you'll have me... then maybe I'll join...
+//「コイカツ……？　それって、読書とかもしたりするの？」=
+//「うん、コミュニケーションの一環として、読んだ本の感想を語ることもできるし」=
+//「意外と、普段の生活と変わらない部活だったりする？」=
+//「そうだね。あ、でも、お互い望むなら、恋愛小説みたいなこともできるよ」=
+//「もっと小説らしい……それって、え、エッチな事とかも含んだり……するのかな？」=
+//「ああ、それは……まあ、君が良いっていうならね？」=
+//「そ、そうなんだ、じゃあ……えっと、その……私でよければ……入ろうかな……」=

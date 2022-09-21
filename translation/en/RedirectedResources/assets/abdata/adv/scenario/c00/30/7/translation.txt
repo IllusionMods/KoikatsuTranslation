@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「あの……それ……冗談、じゃないわよね？」=Uhm... that's... not a joke, right?
-「もちろん、本気の言葉だよ。これが俺の気持ち」=Of course, I mean what I said. This is how I feel.
-「いつからそう思ってたの？　……ううん、今はそんなことどうだってよくて」=For just how long have you felt that way? ...No, that doesn't matter right now.
-「俺の彼女になってください！」=Please be my girlfriend!
-「あぁ……夢みたい……。……私でよければ、ぜひ！」=Aah... It's like a dream...... If you'll be fine with me, then by all means!
+//「あの……それ……冗談、じゃないわよね？」=
+//「もちろん、本気の言葉だよ。これが俺の気持ち」=
+//「いつからそう思ってたの？　……ううん、今はそんなことどうだってよくて」=
+//「俺の彼女になってください！」=
+//「あぁ……夢みたい……。……私でよければ、ぜひ！」=

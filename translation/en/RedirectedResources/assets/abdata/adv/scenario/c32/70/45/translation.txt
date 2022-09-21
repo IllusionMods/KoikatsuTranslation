@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「初めてをあなたに捧げられて、幸せです」=I feel so happy, being able to give my first time to you.
+//「初めてをあなたに捧げられて、幸せです」=

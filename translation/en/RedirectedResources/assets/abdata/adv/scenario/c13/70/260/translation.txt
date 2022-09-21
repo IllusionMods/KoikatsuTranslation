@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「うう……誰にも、バレてないよね……？」=Uuu... nobody noticed, right...?
-「ごめんね、[H名]。でも、たぶん大丈夫だと思うよ。周りは気づいてないみたいだから」=Sorry, [H名]. But, I think we're fine. Nobody seems to have noticed.
-「そう……それならいいかな、えへへ」=I see... In that case, it's fine I guess, ehehe.
+//「うう……誰にも、バレてないよね……？」=
+//「ごめんね、[H名]。でも、たぶん大丈夫だと思うよ。周りは気づいてないみたいだから」=
+//「そう……それならいいかな、えへへ」=

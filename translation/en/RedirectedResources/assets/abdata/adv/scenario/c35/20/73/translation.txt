@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-………………=.........
-…………=......
-……=...
-「えっと……ありがとうね。また一緒に勉強しよ？　約束やけんね」=Erhm... thanks. Let's study together again sometime, okay? It's a promise.
+//………………=
+//…………=
+//……=
+//「えっと……ありがとうね。また一緒に勉強しよ？　約束やけんね」=

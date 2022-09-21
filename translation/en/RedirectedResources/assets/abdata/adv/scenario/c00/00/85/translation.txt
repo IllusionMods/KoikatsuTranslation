@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「今、誰もいないわね……よし！　はい、どうぞ」=There's no one here right now, huh... Alright! Okay, come here.
-「？　ソファなんかに座って、どうしたの？」=? What's up? Why did you just jump onto the sofa?
-「どうしたの？　じゃないわよ。ほら、早くこっち来て。膝枕してあげる」=Don't "what's up" me. Come on, come here already. I'll give you a lap pillow.
-「膝枕！　それはすごく恋人っぽい……。……それじゃ、ちょっとだけ」=A lap pillow! That sounds super lovey-dovey... ...Well then, just for a bit.
-「ん……ちょっとくすぐったいわね。一緒に頭もナデナデしてあげる。……君の髪、サラサラで気持ちいいわ」=Nn... It tickles a bit. I'll stroke your head as well. ...Your hair, it's so nice and smooth.
-（太ももは柔らかいし、すごくいい気持ちだ……ふわぁ、なんだか眠くなってくるな……）=(Her thighs are so soft too, this feels amazing... *yawn*, I'm getting kinda sleepy...)
+//「今、誰もいないわね……よし！　はい、どうぞ」=
+//「？　ソファなんかに座って、どうしたの？」=
+//「どうしたの？　じゃないわよ。ほら、早くこっち来て。膝枕してあげる」=
+//「膝枕！　それはすごく恋人っぽい……。……それじゃ、ちょっとだけ」=
+//「ん……ちょっとくすぐったいわね。一緒に頭もナデナデしてあげる。……君の髪、サラサラで気持ちいいわ」=
+//（太ももは柔らかいし、すごくいい気持ちだ……ふわぁ、なんだか眠くなってくるな……）=

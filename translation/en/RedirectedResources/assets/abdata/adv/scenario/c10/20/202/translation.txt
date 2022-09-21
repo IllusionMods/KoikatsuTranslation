@@ -1,20 +1,20 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「おぉ～！　どのアトラクションも楽しそうだな！」=“Ooh~! They all look so fun!”
-「そうだね。何か乗りたいものはある？」=“They sure do. Are there any you want to ride in particular?”
-「ふむ、やはりまずは王道の空翔る鉄竜から……む、あれは――」=“Fumuh, we must start with the absolute staple, the iron dragon on whe--... muh, that thing--”
-「ん？　あのマスコットキャラが気になるの？」=“Hm? Curious about the park mascot?”
-「……我はずっと思っていたのだが」=“...It has always been on my mind.”
-「うん？」=“Yeah?”
-「何故、動物が二足歩行で立っていることについて、誰も疑問に思わぬのだ？」=“Why does nobody question the fact that an animal such as that is walking on two legs?”
-「それは――着ぐるみだから」=“That's--- because it's just a person in a costume.”
-「そういうことではないっ！」=“That is not what I mean--!”
-「四速歩行の動物がデフォルメされた結果二足歩行で立っていることについて何故誰も疑問を抱かぬかということだっ！」=“I am asking why does nobody question the fact that an animal such as that, one that would normally walk on four feet, has been deformed into a bipedal existence such as that!”
-「はぁ、はぁ……何を熱くなっているのだ、我は……」=“Haah, haah... why am I getting so heated over this...”
-「ま、まぁ……言いたいことは分かったよ」=“W-Well... I get what you're trying to say.”
-「正直、そういうものだって受け入れてたから、そんなこと考えたことなかったな」=“Honestly, I'd just accepted it for what it was so I never really found myself ever questioning it.”
-「であるか……我は昔から不気味でしょうがなかったぞ。妙に迫力あるし……」=“Is that so... I have always found myself beset with a strange sense of uncanniness about them. They are strangely impactful as well...”
-「うーん、ごめん。俺にはその感覚は分からないや」=“Nnn, sorry. I don't really get that feeling.”
-「むぅ、我だけなのか……」=“Muh. It's just me, is it...”
-（[H名]って、独特の価値観があるから、話して面白いなぁ）=(It's pretty fun talking to her, she always has her own unique outlook on things.)
+//「おぉ～！　どのアトラクションも楽しそうだな！」=
+//「そうだね。何か乗りたいものはある？」=
+//「ふむ、やはりまずは王道の空翔る鉄竜から……む、あれは――」=
+//「ん？　あのマスコットキャラが気になるの？」=
+//「……我はずっと思っていたのだが」=
+//「うん？」=
+//「何故、動物が二足歩行で立っていることについて、誰も疑問に思わぬのだ？」=
+//「それは――着ぐるみだから」=
+//「そういうことではないっ！」=
+//「四速歩行の動物がデフォルメされた結果二足歩行で立っていることについて何故誰も疑問を抱かぬかということだっ！」=
+//「はぁ、はぁ……何を熱くなっているのだ、我は……」=
+//「ま、まぁ……言いたいことは分かったよ」=
+//「正直、そういうものだって受け入れてたから、そんなこと考えたことなかったな」=
+//「であるか……我は昔から不気味でしょうがなかったぞ。妙に迫力あるし……」=
+//「うーん、ごめん。俺にはその感覚は分からないや」=
+//「むぅ、我だけなのか……」=
+//（[H名]って、独特の価値観があるから、話して面白いなぁ）=

@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-チアガーターリボン（左）=Cheerleader Garter Ribbon (Left)
-チアガーターリボン（右）=Cheerleader Garter Ribbon (Right)
-フリルガーターリング（左）=Frilly Garter Ribbon (Left)
-フリルガーターリング（右）=Frilly Garter Ribbon (Right)
+//チアガーターリボン（左）=
+//チアガーターリボン（右）=
+//フリルガーターリング（左）=
+//フリルガーターリング（右）=

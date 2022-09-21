@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-………………=.........
-…………=......
-……=...
-「お疲れだぞー。試したこと、役に立てばいーなー」=“Good work. Hopefully this stuff comes in handy someday.”
+//………………=
+//…………=
+//……=
+//「お疲れだぞー。試したこと、役に立てばいーなー」=

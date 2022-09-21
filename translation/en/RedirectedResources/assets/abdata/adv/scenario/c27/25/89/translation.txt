@@ -1,19 +1,19 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「……突然なんだけどさ、俺たち、愛称で呼び合ってみない？」=“...I know it's a bit out of the blue but, wanna try calling each other by nicknames?”
-「愛称？　それって、仲のいい友達同士とか、こ、恋人同士で呼び合うやつ……よね？」=“Nicknames? You mean, the names that close friends or, c-couples use for each other... right?”
-「そうそう。それで、俺のことは[Pあだ名]って呼んでほしいんだけど……」=“Yeah, those. I'd love it if you would call me [Pあだ名]...”
-「はぁ！？　何それ、バッカじゃないの？」=“Haa!? What's that, are you an idiot?”
-「ダメかな？　俺も[Hあだ名]って呼ぶからさ」=“No good? I'll call you [Hあだ名] too.”
-「……！　な、何言ってんのよ、バカ！　あんぽんたん！　おたんこなす！」=“...! W-What are you saying, dummy! Blockhead! Idiot!”
-「ちょ、それじゃあ悪口だって」=“Hey, that's not very nice of you, you know.”
-「マニアック星人！　おしりプリプリ左衛門！」=“You weirdo! You darn piggy!”
-「えっと、あと、あと…………[Pあだ名]」=“Erhm, also, also... [Pあだ名].”
-「……は、ははっ。素直じゃないなぁ、[Hあだ名]は」=“...Ha, haha--. You need to learn to be more honest with your feelings, [Hあだ名].”
-「う……うるさいうるさ～いっ！　もう二度と呼ばないんだから、バカっ！」=“S... Shaddup, shaddup~! I'm never calling you that again, dummy--!”
-「けっこう気に入ったんだけど……そんなに嫌がるなら、もう無理にお願いしないよ」=“I liked it a whole lot though... but if you hate it that much, I won't ask you to force yourself anymore.”
-「えっ……！　あ……いや、恥ずかしいけど、そこまで嫌ってわけじゃ、なくて……その……」=“Eh--...! Ah... no, it's embarrassing but, it's not like I, hate it... uhm...”
-「じゃあ、また呼んでくれるの！」=“Then, you'll call me that again, right?”
-「あうぅ…………気が向いたら……いい、けど」=“Auuu... if I feel like it... then, sure.”
-（……かわいい）=(...Cute.)
+//「……突然なんだけどさ、俺たち、愛称で呼び合ってみない？」=
+//「愛称？　それって、仲のいい友達同士とか、こ、恋人同士で呼び合うやつ……よね？」=
+//「そうそう。それで、俺のことは[Pあだ名]って呼んでほしいんだけど……」=
+//「はぁ！？　何それ、バッカじゃないの？」=
+//「ダメかな？　俺も[Hあだ名]って呼ぶからさ」=
+//「……！　な、何言ってんのよ、バカ！　あんぽんたん！　おたんこなす！」=
+//「ちょ、それじゃあ悪口だって」=
+//「マニアック星人！　おしりプリプリ左衛門！」=
+//「えっと、あと、あと…………[Pあだ名]」=
+//「……は、ははっ。素直じゃないなぁ、[Hあだ名]は」=
+//「う……うるさいうるさ～いっ！　もう二度と呼ばないんだから、バカっ！」=
+//「けっこう気に入ったんだけど……そんなに嫌がるなら、もう無理にお願いしないよ」=
+//「えっ……！　あ……いや、恥ずかしいけど、そこまで嫌ってわけじゃ、なくて……その……」=
+//「じゃあ、また呼んでくれるの！」=
+//「あうぅ…………気が向いたら……いい、けど」=
+//（……かわいい）=

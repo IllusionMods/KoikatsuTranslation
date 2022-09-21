@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「はぁ……この終わったあとの感じ好きなんだ。幸せって感じ」=“Haah... I love these moments, after we're done. They're just pure bliss.”
+//「はぁ……この終わったあとの感じ好きなんだ。幸せって感じ」=

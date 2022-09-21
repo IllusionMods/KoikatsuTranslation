@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「えへへ、付き合ってくれてありがとうなのですっ！」=“Eheheh, thank you for going along with that--!”
+//「えへへ、付き合ってくれてありがとうなのですっ！」=

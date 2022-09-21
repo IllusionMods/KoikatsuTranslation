@@ -1,14 +1,14 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「今日は思ったよりも、空いてて良かったね」=Good thing it was a whole lot less packed than usual today, huh?
-「だね～、あんまり並ばずに済んでよかったす」=Yeah~, we didn't have to line up all that much, it was great.
-「それで……もう夕方っすけど、この後はどうするんすか～？」=Now then... it's already dusk, what's the plan for after this~?
-CHOICE:『最後に観覧車に乗っていかない？』=『Wanna ride the ferris wheel to close off the day?』
-CHOICE:『遊びつかれたので帰る』=『I'm beat from all the playing, so let's go home.』
-「最後の締めで、観覧車に乗っててかない？」=Wanna ride the ferris wheel, to close off the day?
-「あ～、乗る乗る～！　歩き回って少し足がダルくなってたんだよね～」=Ah~, I wanna, I wanna~! All this walking's made my legs feel like lead~
-「はは、そっか。じゃあゆっくり歩きながら行こうか」=Haha, I see. Well then, let's slowly make our way there.
-「だいぶ遊んだし、そろそろ帰ろうか」=We played around a ton too, maybe we should head home for today.
-「そうしますか～。ふぃ～、今日は数か月分くらいはしゃいだ気がするな～」=Let's do that then~. Phui~, feel like I spent months worth of energy today~
-「普段どれだけ静かにしてるのさ……」=Just how still are you usually...
+//「今日は思ったよりも、空いてて良かったね」=
+//「だね～、あんまり並ばずに済んでよかったす」=
+//「それで……もう夕方っすけど、この後はどうするんすか～？」=
+//CHOICE:『最後に観覧車に乗っていかない？』=
+//CHOICE:『遊びつかれたので帰る』=
+//「最後の締めで、観覧車に乗っててかない？」=
+//「あ～、乗る乗る～！　歩き回って少し足がダルくなってたんだよね～」=
+//「はは、そっか。じゃあゆっくり歩きながら行こうか」=
+//「だいぶ遊んだし、そろそろ帰ろうか」=
+//「そうしますか～。ふぃ～、今日は数か月分くらいはしゃいだ気がするな～」=
+//「普段どれだけ静かにしてるのさ……」=

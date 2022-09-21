@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「寄り道……付き合ってくれてありがと。……あのさ！　えっと……」=“Thanks for... tagging along with me to that place. ...Hey, listen! Erhm...”
-「ん？　俺に何か話したいことでもあるの？」=“Hm? Is there something you wanna talk to me about?”
-「それは、あるような……ないような……。こ、困るよね、こんなんじゃ」=“That's, I do... but not really... t-this is just annoying, isn't it?”
-「ただ、あんたともっと話がしてみたいって思ってるだけなの……」=“I just, I just want to spend some more time chatting with you, that's all...”
-「そんなにかしこまらなくてもいいよ。俺、誰かと話すの好きだから」=“You don't need to get so worried over it, you know? I love chatting with people.”
-「うん……そうだよね！　ありがと……」=“Yeah... you're right! Thanks...”
+//「寄り道……付き合ってくれてありがと。……あのさ！　えっと……」=
+//「ん？　俺に何か話したいことでもあるの？」=
+//「それは、あるような……ないような……。こ、困るよね、こんなんじゃ」=
+//「ただ、あんたともっと話がしてみたいって思ってるだけなの……」=
+//「そんなにかしこまらなくてもいいよ。俺、誰かと話すの好きだから」=
+//「うん……そうだよね！　ありがと……」=

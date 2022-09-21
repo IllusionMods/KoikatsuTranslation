@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「あ！　大切なことを忘れたっ！」=Ah! I forgot something--!
-「ど、どうしたの？　何を忘れてたの？」=W-What's up? What did you forget?
-「お土産！　お願いされてたのに……ど、どうしよう？　車内販売してたりしないかな！？」=Presents! I had to buy some for... w-what do I do? Do you think they'll have some for sale on the train!?
-「う～ん、そもそも車内販売自体ないと思うけど」=Mmm~, I don't think anybody sells anything on the train to begin with.
-「やっぱりそうだよね……うぅ、君とのデート、夢中になりすぎちゃってたよぉ……」=You're right... uuu, I got way too lost in our date...
+//「あ！　大切なことを忘れたっ！」=
+//「ど、どうしたの？　何を忘れてたの？」=
+//「お土産！　お願いされてたのに……ど、どうしよう？　車内販売してたりしないかな！？」=
+//「う～ん、そもそも車内販売自体ないと思うけど」=
+//「やっぱりそうだよね……うぅ、君とのデート、夢中になりすぎちゃってたよぉ……」=

@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「あらあら、お股を押さえてどうしたのかしらぁ？」=“My oh my, what are you pressing down on your crotch for~?”
+//「あらあら、お股を押さえてどうしたのかしらぁ？」=

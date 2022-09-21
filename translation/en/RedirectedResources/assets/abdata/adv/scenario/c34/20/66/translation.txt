@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「Ｏｈ，見てクダサイ♡　Ｃｏｕｐｌｅがｂｅｎｃｈで愛を語らうシテマース♡」=Oh, look♡ A couple's confessing their love to each other on that bench♡
-「本当だ。別の学園の人たちだね」=You're right. They're from another school, aren't they?
-「ワタシたちもお互いをモットモット知る為、語らうスルデース」=We should talk a lot more too, to get to know each other better.
-「いいよ。でも、たとえばどんなこと？」=Sounds good. But, exactly what sort of stuff will we talk about?
-「アウッ……エト……こ、コレカラの、二人にツイテ……トカ？　う～、イジワルデース♡」=Aauu--... Erhm... s-stuff like, where we see ourselves, in the future... and stuff? Uuu~, you're such a bully♡
+//「Ｏｈ，見てクダサイ♡　Ｃｏｕｐｌｅがｂｅｎｃｈで愛を語らうシテマース♡」=
+//「本当だ。別の学園の人たちだね」=
+//「ワタシたちもお互いをモットモット知る為、語らうスルデース」=
+//「いいよ。でも、たとえばどんなこと？」=
+//「アウッ……エト……こ、コレカラの、二人にツイテ……トカ？　う～、イジワルデース♡」=

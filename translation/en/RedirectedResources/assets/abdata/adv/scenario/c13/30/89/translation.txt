@@ -1,17 +1,17 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「俺たち、そろそろ次の段階に行くべきだと思うんだ」=I think it's about time we moved onto the next step in our relationship.
-「どしたの急に。次の段階って結婚とか？」=What's the matter, all of a sudden? By "the next step", do ya mean marriage or something?
-「そ、それは一番最後だと思う……。えっとさ、お互いに愛称で呼び合わない？」=I-I think that comes at the very end... Erhm, say, wanna call each other by nicknames?
-「んー、そういえばアタシらそういうのなかったね。いいよ、いいよー」=Nnn, come to think of it, we didn't have any of those, did we? Alright, sure.
-「やった！　じゃあ俺のことは[Pあだ名]って呼んでくれないかな？」=Yay! Then, won't you try calling me [Pあだ名]?
-「ま、マジで言ってる？　ちょっと引いちゃうんですけど……」=A-Are you being serious? That's seems a bit creepy...
-「お願い！　男の夢を叶えると思って……」=Please! Just think of it as making a dream of mine come true...
-「……まぁ、かわいいキミの頼みだし、いっか。その代わり、可愛い愛称、付けてよね？」=...Well, it's a request from my adorable boyfriend, so I guess it's fine. In return, give me a cute one too, okay?
-「任せてよ！　えっと……[Hあだ名]」=Leave it to me! Erhm... [Hあだ名].
-「んー、まあまあかな。それじゃあアタシも……[Pあだ名]」=Nnn, passable. Well then, me too... [Pあだ名].
-「……うん、提案しといてアレだけど、わりと照れくさい……」=...Yeah, I'm not in a position to be saying this since I did kinda bring this but, but that's pretty embarrassing...
-「アタシも……ドキドキした。次の段階に行くのはちょっと早かったかもねー」=Me too... my heart was racing. Maybe it was a bit too fast for us to move to the next step.
-「そ、そうかな？　俺としてはまた呼んでほしいんだけど……」=Y-You think so? I'd love to hear you call me that again sometime though...
-「しょうがないなあ。呼ばれるの嬉しいみたいだし、たまにならいいよ♪」=Can't be helped then. Looks like it makes you happy when I call you that, so I guess it's fine every once in a while♪
+//「俺たち、そろそろ次の段階に行くべきだと思うんだ」=
+//「どしたの急に。次の段階って結婚とか？」=
+//「そ、それは一番最後だと思う……。えっとさ、お互いに愛称で呼び合わない？」=
+//「んー、そういえばアタシらそういうのなかったね。いいよ、いいよー」=
+//「やった！　じゃあ俺のことは[Pあだ名]って呼んでくれないかな？」=
+//「ま、マジで言ってる？　ちょっと引いちゃうんですけど……」=
+//「お願い！　男の夢を叶えると思って……」=
+//「……まぁ、かわいいキミの頼みだし、いっか。その代わり、可愛い愛称、付けてよね？」=
+//「任せてよ！　えっと……[Hあだ名]」=
+//「んー、まあまあかな。それじゃあアタシも……[Pあだ名]」=
+//「……うん、提案しといてアレだけど、わりと照れくさい……」=
+//「アタシも……ドキドキした。次の段階に行くのはちょっと早かったかもねー」=
+//「そ、そうかな？　俺としてはまた呼んでほしいんだけど……」=
+//「しょうがないなあ。呼ばれるの嬉しいみたいだし、たまにならいいよ♪」=

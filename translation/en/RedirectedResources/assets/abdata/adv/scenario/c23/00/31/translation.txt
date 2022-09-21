@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「なるほど……いや中々良いかもだよね……ありがとう」=“I see... no, it's not bad... thanks.”
+//「なるほど……いや中々良いかもだよね……ありがとう」=

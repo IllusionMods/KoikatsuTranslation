@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「あの、今いいかな？」=Uhm, is now a good time?
-「うん？　どうしたの？」=Yeah? What's the matter?
-「いや、特に用があるわけじゃないけど、話したくて……」=No, it's nothing important, I just wanted to chat...
-「そういうことなら、お話しましょう。あなたのことを知りたいわ」=In that case, let's do that. I want to know about you.
-「よかった、それじゃ……」=Great, well then...
+//「あの、今いいかな？」=
+//「うん？　どうしたの？」=
+//「いや、特に用があるわけじゃないけど、話したくて……」=
+//「そういうことなら、お話しましょう。あなたのことを知りたいわ」=
+//「よかった、それじゃ……」=

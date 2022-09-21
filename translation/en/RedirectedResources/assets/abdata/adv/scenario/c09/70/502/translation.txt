@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「もうすぐ待ち合わせ場所だけど……[H名]は居るかな……」=“I'm almost at the place we decided on... is [H] there...”
-「おっはよー！　はい、先に来てたあたしの勝ちねー！」=“Mornin'! Alright, since I got here first, I win!”
-（相変わらず元気だなぁ）=(Energetic as usual~)
-「ははは……今日も、かわいいね」=“Hahaha... you're adorable as heck today too.”
-「き、急に言い出してんのよ、あんた！」=“W-What're you saying so suddenly, dummy!”
-（……あ、真っ赤になった……）=(...Ah, she's as red as a tomato...)
+//「もうすぐ待ち合わせ場所だけど……[H名]は居るかな……」=
+//「おっはよー！　はい、先に来てたあたしの勝ちねー！」=
+//（相変わらず元気だなぁ）=
+//「ははは……今日も、かわいいね」=
+//「き、急に言い出してんのよ、あんた！」=
+//（……あ、真っ赤になった……）=

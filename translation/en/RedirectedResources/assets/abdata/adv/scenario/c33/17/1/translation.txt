@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「[H名]さん、今いいかな」=[H名]-san, is now a good time?
-「あら、いきなり名前で呼んでくれるの？　あなたには前から興味があったから嬉しいわ」=Oh, gonna call me from my name right away? I've been interested in you for the past little while, so that makes me happy.
-「前から興味があったの？　じゃ、今からちょっと話さない？」=For the past little while? Then, can we talk for a bit?
-「ええ、いいわよ」=Yes, sure.
-「よかった、それじゃ……」=Great, then...
+//「[H名]さん、今いいかな」=
+//「あら、いきなり名前で呼んでくれるの？　あなたには前から興味があったから嬉しいわ」=
+//「前から興味があったの？　じゃ、今からちょっと話さない？」=
+//「ええ、いいわよ」=
+//「よかった、それじゃ……」=

@@ -1,15 +1,15 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「ねぇ、[Pあだ名]」="Hey, [Pあだ名]"
-「へっ！？　い、いきなりどうしたの……何かのご褒美？」="Wha-!? What's that all of a sudden... A reward for something?"
-「フフッ、その間抜け面が見てみたくなってね。ちょっとした気まぐれよ」="Fufu, I wanted to see a stupid look on your face. It was slightly stupid."
-「えっと、じゃあ俺は……[Hあだ名]……って呼んでも？」="Umm, then... what if I call you [Hあだ名]?
-「は？　調子に乗らないで。声帯を握り潰すわよ？」="Huh? Don't get carried away or I'll crush your vocal cords."
-「ごめんなさい！　それだけは勘弁を！」="I'm sorry! Please, anything but that!"
-「そう、なら何処を潰して欲しいの？　言ってみなさい、誰に、何をして欲しいのか」="Then what do you want to have crushed? Tell me, by whom and what do you want to?"
+//「ねぇ、[Pあだ名]」=
+//「へっ！？　い、いきなりどうしたの……何かのご褒美？」=
+//「フフッ、その間抜け面が見てみたくなってね。ちょっとした気まぐれよ」=
+//「えっと、じゃあ俺は……[Hあだ名]……って呼んでも？」=
+//「は？　調子に乗らないで。声帯を握り潰すわよ？」=
+//「ごめんなさい！　それだけは勘弁を！」=
+//「そう、なら何処を潰して欲しいの？　言ってみなさい、誰に、何をして欲しいのか」=
 //「それはその……俺は、[Hあだ名]に、もう一度愛称で呼ばれながら、優しく撫でて欲しいな、なんて？」=
-「へぇ、そう。貴方は私に愛称で呼ばれながら、頭を潰されたいのね。じゃあ、お望み通りに」="Oh really? You want to be called by a nickname and have your head crushed at the same time? Well then, as you wish."
-「あがっ、いだっ！　潰れるっ！　ホントに頭潰れるっ！」="Guh, oww! It's getting crushed! My head's seriously deforming!"
-「フフフッ、ほら、もっといい悲鳴を聞かせなさい。そうしたら、また呼んであげるわ」="Fufufu, let me hear a better scream. Then I'll call you by your nickname again."
-「いぎっ！　ごめんなざいっ！　もう許じでぐだざいっ、[Hあだ名]……ぐぉおおぉっ！」="Oww! I'm sorry! Vorgibve mee bleazee, [Hあだ名]... Guaaaaah!"
+//「へぇ、そう。貴方は私に愛称で呼ばれながら、頭を潰されたいのね。じゃあ、お望み通りに」=
+//「あがっ、いだっ！　潰れるっ！　ホントに頭潰れるっ！」=
+//「フフフッ、ほら、もっといい悲鳴を聞かせなさい。そうしたら、また呼んであげるわ」=
+//「いぎっ！　ごめんなざいっ！　もう許じでぐだざいっ、[Hあだ名]……ぐぉおおぉっ！」=

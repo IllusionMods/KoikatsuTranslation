@@ -1,14 +1,14 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-立ち愛撫=Caress (stand)
-仰向け愛撫=Caress (floor)
-四つん這い愛撫=Caress (all fours)
-椅子座り愛撫=Caress (sitting)
-椅子バック愛撫=Caress (chair)
-机バック愛撫=Caress (desk)
-壁バック愛撫=Caress (wall)
-机座り愛撫=Desk Sitting
-机しゃがみ愛撫=Desk Squatting
-本棚愛撫=Bookshelf Caress
-いたずら愛撫=Mischievous Caress
+//立ち愛撫=
+//仰向け愛撫=
+//四つん這い愛撫=
+//椅子座り愛撫=
+//椅子バック愛撫=
+//机バック愛撫=
+//壁バック愛撫=
+//机座り愛撫=
+//机しゃがみ愛撫=
+//本棚愛撫=
+//いたずら愛撫=

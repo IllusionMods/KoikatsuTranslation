@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-（もう朝……？　何だか下半身がムズムズする……）=(It's already morning...? My lower half feels really tickly for some reason...)
-「って、何してるの！？」=--Wuh, What are you doing?!
-「おはよう。あまりにも元気だから、抜いてあげようと思って……ね♪」=Mornin'. It was just so lively, I thought I'd wring it out... ya know?♪
+//（もう朝……？　何だか下半身がムズムズする……）=
+//「って、何してるの！？」=
+//「おはよう。あまりにも元気だから、抜いてあげようと思って……ね♪」=

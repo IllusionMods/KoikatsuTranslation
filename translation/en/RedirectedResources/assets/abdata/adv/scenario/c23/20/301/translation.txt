@@ -1,23 +1,23 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「さて、せっかくカラオケに来たんだし、さっそく歌おうか」=“Now then, we came all the way to karaoke, so let's actually sing something, shall we?”
-「今更だけど……ワタシで良かったのかい？」=“It's a bit late at this point but... you sure you're happy with me?”
-「ん？　何が？」=“Hm? Happy about what?”
-「何がって……カラオケに来たことですぞ」=“What... you know, about coming to karaoke with me.”
-「ワタシ、アニソンやゲーソンしか歌えないよ？」=“I can't really sing much aside from anime or game songs, you know?”
-「あー、やっぱりそういう歌が好きなんだ？」=“Aah, so that really is your preferred genre then?”
-「というか、流行りの歌や人気の歌をあまり知らなくて……」=“Like, I don't really know any popular songs or anything...”
-「なるほどね。でも、気にしないで好きな歌、歌っていいよ」=“I see. But, you don't need to mind any of that, just sing the songs you like.”
-「え……いいのかい？」=“Eh... you sure?”
-「もちろん。そもそも[H名]がオタクだって知ってて、誘っているんだしね」=“Of course. To begin with, I asked you on a date here knowing full well that you're an otaku.”
-「この機会に[H名]の好きな歌教えてよ」=“Show me what sort of songs you like.”
-「わ、わかった！　下手くそでも笑わないでくれる？」=“G-Got it! If I suck, please don't laugh?”
-「笑わないよ。俺も上手くなんてないしね」=“I won't. Not like I'm any good at it myself.”
-「それにそういうこと気にしてたら、気持ちよく歌えないよ」=“Not to mention, if you start minding your voice and stuff, you won't be able to sing your heart out.”
-「それもそうですな……では、本気で歌うなり！」=“That's true as well... well then, I shall get serious!”
-「うんっ。あ、お先にどうぞ」=“Okay--. Ah, feel free to go first.”
-「よぉし、いくぞぉ……」=“Alright, here I go...”
-「いえーい！」=“Yay-!”
-『小さな手の平 掴める物は きっと限られているけど～♪』=『This small hand, the things it can grasp, they are surely limited, but~♪』
-（……感情が込められてて……凄く綺麗だ）=(...What a lovely voice... so packed with emotion)
+//「さて、せっかくカラオケに来たんだし、さっそく歌おうか」=
+//「今更だけど……ワタシで良かったのかい？」=
+//「ん？　何が？」=
+//「何がって……カラオケに来たことですぞ」=
+//「ワタシ、アニソンやゲーソンしか歌えないよ？」=
+//「あー、やっぱりそういう歌が好きなんだ？」=
+//「というか、流行りの歌や人気の歌をあまり知らなくて……」=
+//「なるほどね。でも、気にしないで好きな歌、歌っていいよ」=
+//「え……いいのかい？」=
+//「もちろん。そもそも[H名]がオタクだって知ってて、誘っているんだしね」=
+//「この機会に[H名]の好きな歌教えてよ」=
+//「わ、わかった！　下手くそでも笑わないでくれる？」=
+//「笑わないよ。俺も上手くなんてないしね」=
+//「それにそういうこと気にしてたら、気持ちよく歌えないよ」=
+//「それもそうですな……では、本気で歌うなり！」=
+//「うんっ。あ、お先にどうぞ」=
+//「よぉし、いくぞぉ……」=
+//「いえーい！」=
+//『小さな手の平 掴める物は きっと限られているけど～♪』=
+//（……感情が込められてて……凄く綺麗だ）=

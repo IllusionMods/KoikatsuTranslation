@@ -1,22 +1,22 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「美味しそうなオムライスですね。いただきます」=“Truly delicious looking omurice, isn't it? I'm digging in.”
-「いただきまーす……もぐっ、もぐ……あぁ、オムライスってどうしてこんなに美味しいんだろうね」=“Digging in~... *chew, chew*... aaah, just why is omurice so delicious?”
-「ふふ、美味しいのは良いですが、口元にご飯粒がついていますよ。取ってあげますね」=“Fufu, I'm glad you are enjoying it but, you just got some rice on your face, you know? I'll take it off for you.”
-「あ……ごめん、ありがとう」=“Ah... sorry, thanks.”
-「いいえ……ぱくっ」=“Not at all... *bite*”
-「わっ、食べちゃうの？」=“Wah--, you ate it?”
-「あっ……すみません、デートなのに、つい……」=“Ah--... I'm sorry, we're on a date, so I just...”
-「いや、ドキドキしただけだから、大丈夫だよ。ついでに、あーんとか、してくれると嬉しいなーって」=“No, it just made my heart jump, don't mind it. On that note though, I'd love it if you could feed it to me too.”
-「ふふ、恥ずかしいついでというものでしょうか。わかりました。同じオムライスですけれど……」=“Fufu, what an embarrassing 'note' indeed. I understand. It's the same omurice but...”
-「あーん」=“Aaahn.”
-「あーん……」=“Aaahn...”
-「あむっ……なんだか、[H名]に食べさせてもらった方が美味しい気がするよ……俺のも食べる？」=“*Bite*... I feel like this tastes much better, since you fed it to me... want to try some of mine too?”
-「はい。あーんしてもらえますか？」=“Yes. Will you feed it to me?”
-「はい、あーん」=“Here, aaahn.”
-「あーん……ぱくっ、もぐもぐ……ふふ、本当に、食べさせてもらった方が美味しいですね」=“Aaahn... *bite*, *chew chew*... fufu, it really does, taste better, doesn't it?”
-「だよね」=“Yep.”
-「でも、周りの方々の目もあるので、少し恥ずかしいですね……これも、カップルの醍醐味だとは思うのですが」=“But, it's quite embarrassing as well, isn't it, with this many people around... though, I do think that's part of the fun of being a couple.”
-「え、もう一度ですか？　恥ずかしいのですが……あ、あーん……ぱくっ……もぐもぐ……美味しいです……」=“Eh, one more time? It's really embarrassing, but... a-aaahn... *bite*... *chewchew*... it's delicious...”
-（恥ずかしがりながらあーんされる[H名]……やっぱり可愛いな……もっとしたいけど、今日はこのぐらいにしておこう）=(The way she opens her mouth while blushing throughout... so adorable... I wanna do it more but, let's leave it there for today.)
+//「美味しそうなオムライスですね。いただきます」=
+//「いただきまーす……もぐっ、もぐ……あぁ、オムライスってどうしてこんなに美味しいんだろうね」=
+//「ふふ、美味しいのは良いですが、口元にご飯粒がついていますよ。取ってあげますね」=
+//「あ……ごめん、ありがとう」=
+//「いいえ……ぱくっ」=
+//「わっ、食べちゃうの？」=
+//「あっ……すみません、デートなのに、つい……」=
+//「いや、ドキドキしただけだから、大丈夫だよ。ついでに、あーんとか、してくれると嬉しいなーって」=
+//「ふふ、恥ずかしいついでというものでしょうか。わかりました。同じオムライスですけれど……」=
+//「あーん」=
+//「あーん……」=
+//「あむっ……なんだか、[H名]に食べさせてもらった方が美味しい気がするよ……俺のも食べる？」=
+//「はい。あーんしてもらえますか？」=
+//「はい、あーん」=
+//「あーん……ぱくっ、もぐもぐ……ふふ、本当に、食べさせてもらった方が美味しいですね」=
+//「だよね」=
+//「でも、周りの方々の目もあるので、少し恥ずかしいですね……これも、カップルの醍醐味だとは思うのですが」=
+//「え、もう一度ですか？　恥ずかしいのですが……あ、あーん……ぱくっ……もぐもぐ……美味しいです……」=
+//（恥ずかしがりながらあーんされる[H名]……やっぱり可愛いな……もっとしたいけど、今日はこのぐらいにしておこう）=

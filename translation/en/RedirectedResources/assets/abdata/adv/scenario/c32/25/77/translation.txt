@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-………………=.........
-…………=......
-……=...
-「久々に熱が入ってしまいました。やはり運動はいいですね」=It's been a while since I've been this fired up. Exercise really is nice.
+//………………=
+//…………=
+//……=
+//「久々に熱が入ってしまいました。やはり運動はいいですね」=

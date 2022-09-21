@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「今日ね、家庭科の授業でお菓子作ったっちゃけど……男の子の意見も聞かせてもらいたいけん、もし良かったら味見してくれんかな？」=Today, I made some sweets during home-ec and... I'd like to hear a boy's opinion of them, so if it's alright with you, wanna try a bite?
-「おお、ありがとう！　ぜひぜひ！」=Ooh, thanks! I'd be honoured!
-「うんっ、こちらこそありがとう。男の子の意見を聞ける機会とか少ないけん、すごく助かる！　遠慮なくビシバシ言ってくれていいけんね♪」=Yeah--, I should be the one thanking you. It's not easy to get a boy's opinion on things around here so, this is really helping me out! Be honest, be merciless if you have to, tell me your real thoughts♪
+//「今日ね、家庭科の授業でお菓子作ったっちゃけど……男の子の意見も聞かせてもらいたいけん、もし良かったら味見してくれんかな？」=
+//「おお、ありがとう！　ぜひぜひ！」=
+//「うんっ、こちらこそありがとう。男の子の意見を聞ける機会とか少ないけん、すごく助かる！　遠慮なくビシバシ言ってくれていいけんね♪」=

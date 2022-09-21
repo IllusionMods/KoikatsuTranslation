@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-………………=.........
-…………=......
-……=...
-「はぁ、とてもはかどりました。ライバルの存在は大切ですね。……あなたのことですよ？」=Haa, I made a lot of progress today. Having a rival truly does make a difference. ... I'm talking about you, you know?
+//………………=
+//…………=
+//……=
+//「はぁ、とてもはかどりました。ライバルの存在は大切ですね。……あなたのことですよ？」=

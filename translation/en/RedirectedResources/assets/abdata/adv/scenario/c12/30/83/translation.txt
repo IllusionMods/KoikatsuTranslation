@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-………………=.........
-…………=......
-……=...
-「ごちそうさまっと。さて……デザートはどうする～？　んふふ～♪」=“That was great. Now then... how about that dessert~? Nnfufuh~♪”
+//………………=
+//…………=
+//……=
+//「ごちそうさまっと。さて……デザートはどうする～？　んふふ～♪」=

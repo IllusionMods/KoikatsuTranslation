@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「ねえ、今時間あるかな？」=Hey, do you have a moment right now?
-「大丈夫ですよ。少し、時間を持て余していたところですから」=More than just a moment. I've found myself with a bit too much time on my hands right now.
-「良かった。[H姓]さんと、もっといろんな話をしてみたくて」=Great. I wanted to try chatting about some more things with you, [H性]-san.
-「……そう。あなたも物好きですね」=...I see. You're sure quite the eccentric person.
-「えっ？」=Eh--?
-「なんでもありません。……どんな話をしますか？」=It's nothing. ...What would you like to chat about?
+//「ねえ、今時間あるかな？」=
+//「大丈夫ですよ。少し、時間を持て余していたところですから」=
+//「良かった。[H姓]さんと、もっといろんな話をしてみたくて」=
+//「……そう。あなたも物好きですね」=
+//「えっ？」=
+//「なんでもありません。……どんな話をしますか？」=

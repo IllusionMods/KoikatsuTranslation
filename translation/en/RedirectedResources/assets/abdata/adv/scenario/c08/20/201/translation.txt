@@ -1,22 +1,22 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「嬉しいな♪　[P名]君と遊園地に来れるなんて」=I'm so happy♪ I can't believe I get to spend a day at the amusement park with you, [P]-kun.
-「[H名]が喜んでくれて俺も嬉しいよ」=I'm really glad that you like it so much.
-「うん！　今日は楽しみにしてる！」=Yeah! I'm really excited for today!
-「それじゃ、手始めに何に乗ろうか？」=Well then, what should we ride first?
-「う～ん、色々あるから迷っちゃうな……」=Mmm~, there's so many, I dunno what to pick...
-「そうだ、[H名]。目を閉じて」=Right. [H名]. Close your eyes for a moment.
-「えっ……うん、こう？　へ、変なことしないよね？」=Eh--... okay, like this? Y-You're not doing something weird, are you?
-「変なことなんてしないよ……じゃあ、次は適当に指さしてみて」=I would never... okay then, just hold out a finger, point with it.
-「う、うん。分かった」=O-Okay. Got it.
-「うん、じゃあ、目を開けてみて」=Okay, now then, open your eyes.
-「あっ、パンフレットだ」=Ah--, it's a pamphlet.
-「[H名]はどこ指してる？」=What'cha pointing at, [H名]?
-「えへへ、そういうことか♪」=Ehehe, I see, so this is what it was all about, huh?♪
-「えーっと、メリーゴーラウンドだ！」=Erhm, it's the merry go round!
-「じゃあ、まずはメリーゴーラウンドにのろうか。[H名]もいいよね？」=Well then, guess we should start with the merry go round. You're fine with that, right?
-「うん、大好き♪　あっ、もし良かったなんだけど……」=Yeah, I love it♪ Ah--, if it's alright with you, only if it's alright...
-「ん？　どうしたの言ってみて？」=Nn? Try telling me, I'll hear you out.
-「一緒に乗れるやつに、乗りたいな……なんて。ダメかな？」=I wanna ride, one of the couple ones... Heh. No good?
-「ふふ、もちろんいいよ」=Fufu, of course we can ride one of those.
+//「嬉しいな♪　[P名]君と遊園地に来れるなんて」=
+//「[H名]が喜んでくれて俺も嬉しいよ」=
+//「うん！　今日は楽しみにしてる！」=
+//「それじゃ、手始めに何に乗ろうか？」=
+//「う～ん、色々あるから迷っちゃうな……」=
+//「そうだ、[H名]。目を閉じて」=
+//「えっ……うん、こう？　へ、変なことしないよね？」=
+//「変なことなんてしないよ……じゃあ、次は適当に指さしてみて」=
+//「う、うん。分かった」=
+//「うん、じゃあ、目を開けてみて」=
+//「あっ、パンフレットだ」=
+//「[H名]はどこ指してる？」=
+//「えへへ、そういうことか♪」=
+//「えーっと、メリーゴーラウンドだ！」=
+//「じゃあ、まずはメリーゴーラウンドにのろうか。[H名]もいいよね？」=
+//「うん、大好き♪　あっ、もし良かったなんだけど……」=
+//「ん？　どうしたの言ってみて？」=
+//「一緒に乗れるやつに、乗りたいな……なんて。ダメかな？」=
+//「ふふ、もちろんいいよ」=

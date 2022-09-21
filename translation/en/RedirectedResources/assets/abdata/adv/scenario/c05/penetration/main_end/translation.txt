@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「あぁ、気持ちよかった……これ、気に入っちゃったかも……」=“Aah, that felt great... I think I'm hooked on this...”
+//「あぁ、気持ちよかった……これ、気に入っちゃったかも……」=

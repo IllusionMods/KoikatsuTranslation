@@ -1,16 +1,16 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「電車の中、混み合ってきましたね」=It's starting to become quite crowded, isn't it?
-「う、うん。結構余裕が……うわっ」=Y-Yeah. There's no room to... Uwah--
-「ごめん、ぶつかっちゃって……」=Sorry, I didn't mean to...
-「いえ、それはいいのですけれど……あ、あなたのが当たっていて……」=No, it's completely fine, although... y-your thing is poking into me...
-CHOICE:『興奮していることを伝える』=『Tell her that you feel horny.』
-CHOICE:『とにかくあやまる』=『Just apologize.』
-「……やっぱり気づいちゃうよね。その[H名]がこんな近くにいるから、つい興奮しちゃって」=...Should have expected that you'd notice it. You're just so close to me, [H名], I just couldn't help but get horny.
-「し、仕方のない人ですね。このままというわけにもいかないでしょうから……」=T-There's no helping you, is there? It's not like we can just leave it be so...
-「も、もしかしてしてくれるの？」=A-Are you saying that you'll do it?
-「特別、ですからね……」=Just for you, okay?...
-「ごめん、本当にごめん！　なんとかするから少しだけ我慢してて！」=Sorry, seriously, I'm sorry! I'll do something about it, so please bear with it for a sec!
-（く……せっかくのデートだったのに、こんなことになってしまうとは……）=(Kuh... we had such a good date, and it ended up like this...)
-（……ひとまず、コレをどうにかさせないとな……違うこと考えておこう）=(...For now, gotta do something about this... Let's think about something else)
+//「電車の中、混み合ってきましたね」=
+//「う、うん。結構余裕が……うわっ」=
+//「ごめん、ぶつかっちゃって……」=
+//「いえ、それはいいのですけれど……あ、あなたのが当たっていて……」=
+//CHOICE:『興奮していることを伝える』=
+//CHOICE:『とにかくあやまる』=
+//「……やっぱり気づいちゃうよね。その[H名]がこんな近くにいるから、つい興奮しちゃって」=
+//「し、仕方のない人ですね。このままというわけにもいかないでしょうから……」=
+//「も、もしかしてしてくれるの？」=
+//「特別、ですからね……」=
+//「ごめん、本当にごめん！　なんとかするから少しだけ我慢してて！」=
+//（く……せっかくのデートだったのに、こんなことになってしまうとは……）=
+//（……ひとまず、コレをどうにかさせないとな……違うこと考えておこう）=

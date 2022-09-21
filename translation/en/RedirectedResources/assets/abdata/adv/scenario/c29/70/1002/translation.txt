@@ -1,18 +1,18 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「やっぱり緊張するな……慣れないタキシードなんて着てるからだろうけど」=Really can't help my nerves... probably because I'm wearing this tuxedo.
-（[H名]はどうだろう。俺と同じくらい緊張してるのかな）=(I wonder how [H名]'s holding up? Is she as nervous as me, right now?)
-（っと。いよいよか）=(Oh. Showtime, huh?)
-（精一杯新郎役を務めよう）=(Let's do the best I can, as the 'groom')
-（なんてったって、相手は[H名]なんだしな）=(Afterall, the co-star here is [H名].)
-（……ふぅ、モデルとしてしっかり出来てはいたかな）=(...Fuu, did I manage to be a good model?)
-モブ=Mob
-「これより新婦が入場致します。後方の扉口をご覧ください」=And now, the bride will make her entrance. Please pay attention to the main door.
-（あっ……）=(Ah--...)
-美しい花嫁姿の[H名]を見て、思わず息を呑んだ。=The moment I looked at [H名], dolled up as a beautiful bride, I had my breath stolen away.
-いつもの凛とした雰囲気のまま、ウェディングドレスを着こなす[H名]は本当に美しかった。=The way she pulled off that wedding dress, in her usual dignified demeanor, she looked truly beautiful.
-淑やかに佇む[H名]に、俺はただただ見惚れてしまう。=I couldn't help but be charmed, looking at her standing there so gracefully.
-「すごく綺麗だ……」=So beautiful...
-「[H名]、よく似合ってるよ。普段以上に綺麗だ」=[H名], you look really good. Even more beautiful than usual.
-「あ、ありがとう……ございます」=T-Thank you... very much.
+//「やっぱり緊張するな……慣れないタキシードなんて着てるからだろうけど」=
+//（[H名]はどうだろう。俺と同じくらい緊張してるのかな）=
+//（っと。いよいよか）=
+//（精一杯新郎役を務めよう）=
+//（なんてったって、相手は[H名]なんだしな）=
+//（……ふぅ、モデルとしてしっかり出来てはいたかな）=
+//モブ=
+//「これより新婦が入場致します。後方の扉口をご覧ください」=
+//（あっ……）=
+//美しい花嫁姿の[H名]を見て、思わず息を呑んだ。=
+//いつもの凛とした雰囲気のまま、ウェディングドレスを着こなす[H名]は本当に美しかった。=
+//淑やかに佇む[H名]に、俺はただただ見惚れてしまう。=
+//「すごく綺麗だ……」=
+//「[H名]、よく似合ってるよ。普段以上に綺麗だ」=
+//「あ、ありがとう……ございます」=

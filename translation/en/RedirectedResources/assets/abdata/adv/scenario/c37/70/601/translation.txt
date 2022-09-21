@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「近くにあってよかったですね。それで、ココへは本当に休憩だけをしに来たわけではない……ですよね？」=Good thing it was nearby. So then, we didn't come here just to take a break... did we?
-「あぁ……もっと[H名]とくっつきたい、一緒になりたいんだ」=Aaah... I want to be even closer with you, [H名], I want us to be together.
-「私も……どうやら、あなたと一つになりたくてたまらないようです」=Me too... I want to become one with you so badly, I almost can't stand it.
-「[H名]……」=[H名]...
-「はい、深く、溶け合いましょう……」=Yes, let's melt together, intensely...
+//「近くにあってよかったですね。それで、ココへは本当に休憩だけをしに来たわけではない……ですよね？」=
+//「あぁ……もっと[H名]とくっつきたい、一緒になりたいんだ」=
+//「私も……どうやら、あなたと一つになりたくてたまらないようです」=
+//「[H名]……」=
+//「はい、深く、溶け合いましょう……」=

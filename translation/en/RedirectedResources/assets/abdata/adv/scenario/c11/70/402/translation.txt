@@ -1,21 +1,21 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「いい匂いがする。このお店、自家製で豆を挽いてるみたいだね」=“Smells really nice. Seems like they grind their own beans around here.”
-「ええ、さっきも煎った豆を引く、ゴリゴリした音が聞こえてきたわね」=“Yes, there was that noise too, the sound of roasted beans being ground, just earlier.”
-「ああいう作業って楽しそうだね。手間暇が食べ物を美味しくしてさ、満足感が大きくなるんだ」=“That sort of work seems pretty fun, doesn't it? Spending the time and effort to make food more delicious, and more satisfying.”
-「ええ、料理に大切な手順ね。うふふ、それに……手作業にこだわる職人さんみたいな人に、魅力を感じちゃうの」=“Yes, it's quite an important part of cooking. Ufufu, not to mention... craftsmen who fuss over the manual labour to the point of obsessiveness, have a charm to them, don't you think?”
-「ああ、わかるよ。いかにもって感じのマスターにコーヒーを淹れられると、飲む前から『絶対美味しい』ってなっちゃうよね」=“Aah, I feel you. When a master personally brews your coffee, you can just tell that it's going to be delicious, before even drinking it, can't you?”
-「ええ、ここのマスターも素敵な人だったわ。きっと美味しいコーヒーを飲ませてくれるんでしょうね。楽しみだわ」=“Yes, the master here's a wonderful person too. I'm sure he'll serve us some wonderful coffee too. I'm excited.”
-「そういえば、ブレンドコーヒーを頼んでたよね」=“Reminds me, you ordered some blended coffee, didn't you?”
-「ええ、やっぱりブレンドを飲まなきゃ。じゃないとどういうお店なのかわからないもの」=“Yes, it's gotta be blended. You can't tell what sort of a cafe it is, otherwise.”
-「コーヒーに拘っているのか、それとも紅茶の方が美味しいのか……まあ、私はどっちも好きだから両方美味しい方が嬉しいんだけどね」=“Whether they're masters of their coffee, or whether their black tea is superior... well, I love both so, I like it when both are great.”
-「ふうん……じゃあ、今日のコーヒーは、どうやって飲むの？」=“Hmm... then, how're you going to take your coffee today?”
-「そうね。今日はブラックな気分かしら」=“Good question. I'm feeling like black today, I'd say.”
-「そうなんだ。じゃあ、ブラックじゃない気分のときもあるんだ」=“I see. Then, I'd imagine you have days when you don't feel like black.”
-「ええ。甘くてミルクたっぷりのカフェオレを飲みたい日もあるもの。でも基本的にはブラックのスッキリした苦味が大好きよ」=“Yes. I have days when I want to drink some sweet milk-topped café au lait too. But really, I love the refined bitterness of black coffee.”
-「ここはどんなコーヒーを出すのかしら……待ち遠しいわ」=“I wonder what sort of coffee they'll serve us... I can't wait.”
-「そうねー。ブラックは苦手だから、砂糖もミルクもたっぷり入れちゃうわね」=“Good question. I can't handle black so, I'll add sugar and lots of milk to mine.”
-「ああ、わかるよ、苦すぎると飲めないもんね」=“Aah, I feel you. Can't drink it if it's too bitter, can ya?”
-「それでも苦いまま飲む人も結構いるのよね。そこまで私コーヒー通ってわけじゃないから、そういう人が羨ましいわ」=“Still, there's lots of people out there that drink it straight black, aren't there? I'm not that good at drinking coffee so, I'm a bit jealous of them.”
-「うん……だよね。ああ、話してたら、早く飲みたくなって来た……」=“Yeah... right. Aah, chatting about coffee's made me all thirsty for mine...”
+//「いい匂いがする。このお店、自家製で豆を挽いてるみたいだね」=
+//「ええ、さっきも煎った豆を引く、ゴリゴリした音が聞こえてきたわね」=
+//「ああいう作業って楽しそうだね。手間暇が食べ物を美味しくしてさ、満足感が大きくなるんだ」=
+//「ええ、料理に大切な手順ね。うふふ、それに……手作業にこだわる職人さんみたいな人に、魅力を感じちゃうの」=
+//「ああ、わかるよ。いかにもって感じのマスターにコーヒーを淹れられると、飲む前から『絶対美味しい』ってなっちゃうよね」=
+//「ええ、ここのマスターも素敵な人だったわ。きっと美味しいコーヒーを飲ませてくれるんでしょうね。楽しみだわ」=
+//「そういえば、ブレンドコーヒーを頼んでたよね」=
+//「ええ、やっぱりブレンドを飲まなきゃ。じゃないとどういうお店なのかわからないもの」=
+//「コーヒーに拘っているのか、それとも紅茶の方が美味しいのか……まあ、私はどっちも好きだから両方美味しい方が嬉しいんだけどね」=
+//「ふうん……じゃあ、今日のコーヒーは、どうやって飲むの？」=
+//「そうね。今日はブラックな気分かしら」=
+//「そうなんだ。じゃあ、ブラックじゃない気分のときもあるんだ」=
+//「ええ。甘くてミルクたっぷりのカフェオレを飲みたい日もあるもの。でも基本的にはブラックのスッキリした苦味が大好きよ」=
+//「ここはどんなコーヒーを出すのかしら……待ち遠しいわ」=
+//「そうねー。ブラックは苦手だから、砂糖もミルクもたっぷり入れちゃうわね」=
+//「ああ、わかるよ、苦すぎると飲めないもんね」=
+//「それでも苦いまま飲む人も結構いるのよね。そこまで私コーヒー通ってわけじゃないから、そういう人が羨ましいわ」=
+//「うん……だよね。ああ、話してたら、早く飲みたくなって来た……」=

@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「えへへ、この公園、小さな頃からいつも来てた場所なの」=Ehehe, I always used to come to this park a lot, as a kid.
-「遊び場だったんだ？」=You played here with your friends?
-「うん。でもまさか……こうやって男の子と一緒に通ることになるなんて、考えたこともなかったな」=Yeah. But... I'd never considered, that I'd walk around the place with a boy like this someday.
-「なんだか……ちょっぴり大人になれたみたいで嬉しい。ありがと」=I feel like... I've gotten just an ounce more mature today. It makes me really happy. Thank you.
-「あはは、どういたしまして」=Ahaha, you're very welcome.
+//「えへへ、この公園、小さな頃からいつも来てた場所なの」=
+//「遊び場だったんだ？」=
+//「うん。でもまさか……こうやって男の子と一緒に通ることになるなんて、考えたこともなかったな」=
+//「なんだか……ちょっぴり大人になれたみたいで嬉しい。ありがと」=
+//「あはは、どういたしまして」=

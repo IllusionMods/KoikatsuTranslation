@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「こうやって一緒に勉強してると、普通のカップルみたい」=“When we study like this, we seem just like a normal couple.”
-「急にどうしたの？　付き合ってるんだから、カップルだよ」=“What's up, all of a sudden? We're going out together, so we're obviously a normal couple.”
-「この星でひとりだったから、こうしてあなたと過ごす時間が嬉しいの……えへへ」=“I'd always been alone on this planet so, spending time with you like this makes me incredibly happy... Ehehe.”
+//「こうやって一緒に勉強してると、普通のカップルみたい」=
+//「急にどうしたの？　付き合ってるんだから、カップルだよ」=
+//「この星でひとりだったから、こうしてあなたと過ごす時間が嬉しいの……えへへ」=

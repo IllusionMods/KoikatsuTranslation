@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-ラブホテル=Love Hotel
-カラオケ=Karaoke Room
-教会=Church
-満員電車=Crowded Train
-電車=Train
-公園=Park
-教会イベント=Church Event
+//ラブホテル=
+//カラオケ=
+//教会=
+//満員電車=
+//電車=
+//公園=
+//教会イベント=

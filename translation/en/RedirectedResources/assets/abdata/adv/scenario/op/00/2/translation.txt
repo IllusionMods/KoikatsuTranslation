@@ -1,13 +1,13 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-家から歩くこと数十分。特に迷うことなく学園に着くことができた。=After a 10 minute walk, I got to school with relatively no problems.
-「ここが今日から通う女学園か」=“So this is the all-girls school I'm going to attend starting from today huh.”
-しげしげと目の前の校舎を眺める。=I stared at the building in front of me for a while.
-早い時間だからか周りに生徒の姿はなかった。=It's still early so there's nobody but me around.
-（……そういえば、男が転入することは生徒に伝わってるんだろうか？）=(...Now that I think about it, did Auntie tell everyone that a boy is transferring here today?)
-そこはしっかり伝えていると思いたい。=I would certainly hope for that to be the case.
-「でも、俺に伝え忘れてたくらいだしな……」=“But when you remember that she forgot to tell the actual person himself...”
-昨日のやり取りを思い出して少し不安になってくる。=It doesn't seem too promising huh...
-「……とりあえず、二階の職員室に向かおう」=“...Guess I should head to the staff room on the 2nd floor for now.”
-「確か階段を上がって左側だったかな」=If memory serves me correctly it's to the left once I'm up the stairs.”
+//家から歩くこと数十分。特に迷うことなく学園に着くことができた。=
+//「ここが今日から通う女学園か」=
+//しげしげと目の前の校舎を眺める。=
+//早い時間だからか周りに生徒の姿はなかった。=
+//（……そういえば、男が転入することは生徒に伝わってるんだろうか？）=
+//そこはしっかり伝えていると思いたい。=
+//「でも、俺に伝え忘れてたくらいだしな……」=
+//昨日のやり取りを思い出して少し不安になってくる。=
+//「……とりあえず、二階の職員室に向かおう」=
+//「確か階段を上がって左側だったかな」=

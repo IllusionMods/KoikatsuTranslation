@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「おっと、すっかり話し込んじゃったね。結構いい時間になってるよ」=“Woah, we really got lost in our chat, huh? It's gotten pretty late.”
-「あちゃぁ、おまえと話してると時間が経つのが早くて困るよ」=“Darn, chatting with you makes time fly so fast it's almost worrying.”
-「どうしよっか？　もう少し話していく？」=“What should we go? Wanna chat a bit more?”
-「いや、この辺りで出ておこう。このままだと、閉店まで居座りそうな勢いだし」=“No, let's head out. If we continue like this, they're gonna be forced to kick us out at closing time.”
-「俺はそれでもかまわないけどね。店員さんからは睨まれそう」=“I wouldn't mind that. The owner might, though.”
-「はは、もうすでに睨まれてるかもしれないぞ？　おまえなんて、顔を覚えられてるかも」=“Hahah, I'm pretty sure they already mind how long we've hogged that table, you know? Bet they've got the staff memorizing your face.”
-「えぇっ、何で俺だけ？　は、早く出ようか？　なんか周りの視線が気になってきた……」=“Eeh--, why me alone? S-Shall we leave? All the gazes are starting to feel a bit prickly...”
+//「おっと、すっかり話し込んじゃったね。結構いい時間になってるよ」=
+//「あちゃぁ、おまえと話してると時間が経つのが早くて困るよ」=
+//「どうしよっか？　もう少し話していく？」=
+//「いや、この辺りで出ておこう。このままだと、閉店まで居座りそうな勢いだし」=
+//「俺はそれでもかまわないけどね。店員さんからは睨まれそう」=
+//「はは、もうすでに睨まれてるかもしれないぞ？　おまえなんて、顔を覚えられてるかも」=
+//「えぇっ、何で俺だけ？　は、早く出ようか？　なんか周りの視線が気になってきた……」=

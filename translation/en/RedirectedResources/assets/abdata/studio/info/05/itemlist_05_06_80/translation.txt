@@ -1,14 +1,14 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-ナイトバイザー=Knight Visor
-鎧兜=Armored Helmet
-鎧肩当て=Armored Shoulderpad
-騎士の肩当て=Knight's Shoulderpad
-騎士の腰当=Knight's Hip Armor
-アーマープレート=Armor Plate
-タングルショルダー=Tangle Shoulderpad
-羽の髪飾り左用=Left Hair Feather
-羽の髪飾り右用=Right Hair Feather
-ロイヤルクラウン=Royal Crown
-ロイヤルリボン=Royal Ribbon
+//ナイトバイザー=
+//鎧兜=
+//鎧肩当て=
+//騎士の肩当て=
+//騎士の腰当=
+//アーマープレート=
+//タングルショルダー=
+//羽の髪飾り左用=
+//羽の髪飾り右用=
+//ロイヤルクラウン=
+//ロイヤルリボン=

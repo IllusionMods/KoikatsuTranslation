@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「もういいの？　あんまり楽しんでなかったようだったけど（哀）」=“Are you sure? I feel like you didn't enjoy yourself that much though.”
+//「もういいの？　あんまり楽しんでなかったようだったけど（哀）」=

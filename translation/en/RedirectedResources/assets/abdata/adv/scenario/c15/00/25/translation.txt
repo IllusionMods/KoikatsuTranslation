@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「えっ、あたしにプレゼント?　何だろーなー」=“Eh--, a present for me? I wonder what it is.”
+//「えっ、あたしにプレゼント?　何だろーなー」=

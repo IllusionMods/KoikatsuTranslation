@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「うんっ！　ぜひぜひっ！　私もしなきゃいけないって思ってたの！」=Okay--! Let's do it--! I need to get it done myself too!
-「良かった。いいタイミングだった？」=Great. Good timing, I take it?
-「もうバッチリ！　でも男の子とお勉強だなんて……集中出来るかなぁ……えへへ」=Just perfect, really! But, studying together with a boy... will I be able to keep my focus~?... Ehehe~
+//「うんっ！　ぜひぜひっ！　私もしなきゃいけないって思ってたの！」=
+//「良かった。いいタイミングだった？」=
+//「もうバッチリ！　でも男の子とお勉強だなんて……集中出来るかなぁ……えへへ」=

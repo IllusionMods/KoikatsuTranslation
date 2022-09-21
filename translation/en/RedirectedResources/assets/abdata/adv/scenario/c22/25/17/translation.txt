@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「んーっ、よく寝た。……あれ？　メモがある。なになに――」=Nnn, I slept well. ...Huh? There's a note. Let's see----
-『おはよう、[P]くん。きちんと起きられましたか？』=「Good morning, [P]-kun. Did you get up on time?」
-『もう少しゆっくりしたかったけど、今日は用事があるから、ちょっと先に出るね』=「I wanted to relax with you in bed for a little bit longer but, I've things to take care of today so, I'll head out first, okay?」
-『学園で会えること、楽しみにしてるから……遅刻しないで来てね♪　[H]』=「I'm waiting for you at school so... don't be late and come see me, okay?♪ [H].」
+//「んーっ、よく寝た。……あれ？　メモがある。なになに――」=
+//『おはよう、[P]くん。きちんと起きられましたか？』=
+//『もう少しゆっくりしたかったけど、今日は用事があるから、ちょっと先に出るね』=
+//『学園で会えること、楽しみにしてるから……遅刻しないで来てね♪　[H]』=

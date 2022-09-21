@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「お～……素晴らしい、実に素晴らしい雰囲気だ。第二の我が城にピッタリではないか」=“Oh~... wonderful, truly, what a wonderful atmosphere. Perhaps I shall make this my second castle.”
-（ん、ん～？　なんだか喜んでるみたいだけど、無邪気すぎないか？　今から何をするかわかってるのかな……）=(N-Nnn~? I mean, I'm happy she's enjoying this but, isn't she being too innocent? Does she know what I'm gonna be doing to her...?)
-「あー、あのさ[H名]？　ここがどういう場所か、わかってる？」=“Aah, listen, [H]. Do you know what sort of place this is?”
-「あっ……え、えっと、そっか……そうだよね……」=“Ah--... e-erhm, right... of course...”
-（……これは素で忘れてたな）=(...She really did forget.)
-「こほんっ！　も、もちろん理解はできておるっ！　我の準備はいつでも万全だ、さぁ、来るがいいっ！」=“*cough*! O-Of course, I understand it very well--! I am always perfectly ready to go, now, come--!”
-「あはは……」=“Ahahah...”
+//「お～……素晴らしい、実に素晴らしい雰囲気だ。第二の我が城にピッタリではないか」=
+//（ん、ん～？　なんだか喜んでるみたいだけど、無邪気すぎないか？　今から何をするかわかってるのかな……）=
+//「あー、あのさ[H名]？　ここがどういう場所か、わかってる？」=
+//「あっ……え、えっと、そっか……そうだよね……」=
+//（……これは素で忘れてたな）=
+//「こほんっ！　も、もちろん理解はできておるっ！　我の準備はいつでも万全だ、さぁ、来るがいいっ！」=
+//「あはは……」=

@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「あら、どうしたの？　もうギブアップ？」=Oh my, what's up? Giving up already?
-「ほ、本当に鬼ごっこをやるなんて……しかも全然捕まらないし……」=T-To think we'd really play a game of tag... I couldn't get you even once...
-「ふふっ、逃げるのは大得意なの……さあ、捕まえてごらんなさ～い」=Fufu--, running away is my forte... now then, come get me~
-「くっ……こうなったらとことん追いかけてやる～！」=Kuh--... now that it's come to this, I'm going to chase you to the ends of the earth~!
-「やぁん、鬼さんったら怖いわ～……ふふっ」=Yaahn, I'm scared~... fufu--
+//「あら、どうしたの？　もうギブアップ？」=
+//「ほ、本当に鬼ごっこをやるなんて……しかも全然捕まらないし……」=
+//「ふふっ、逃げるのは大得意なの……さあ、捕まえてごらんなさ～い」=
+//「くっ……こうなったらとことん追いかけてやる～！」=
+//「やぁん、鬼さんったら怖いわ～……ふふっ」=

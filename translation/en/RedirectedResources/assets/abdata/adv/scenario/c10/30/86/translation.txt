@@ -1,11 +1,11 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「わ、我は今日、やってもらいたいことがあるのだ……」=“T-today, there's something I want to do...”
-「ん？　やってもらいたいこと？」=“Hm? Something you want to do?”
-「後ろから……ぎゅっってして欲しいのだ……」=“I want you... to hug me from behind...”
-「後ろから……いいよ」=“From behind... alright.”
-「こ、こら！　どさくさ紛れに胸を触っちゃダメだ！」=“H-hey! Don't take advantage of this to touch my chest!”
-「ちょ、ちょっとだけ。じっとしてて……」=“J-just a little bit. Be still...”
-「もう……なんか……我のお尻に硬い物が当たってるぞ……」=“Jeez... for some reason, my butt is touching something hard...”
-「ご、ごめん……つい、男の生理現象が……」=“S-sorry, it's just... a male physiological phenomenon...”
+//「わ、我は今日、やってもらいたいことがあるのだ……」=
+//「ん？　やってもらいたいこと？」=
+//「後ろから……ぎゅっってして欲しいのだ……」=
+//「後ろから……いいよ」=
+//「こ、こら！　どさくさ紛れに胸を触っちゃダメだ！」=
+//「ちょ、ちょっとだけ。じっとしてて……」=
+//「もう……なんか……我のお尻に硬い物が当たってるぞ……」=
+//「ご、ごめん……つい、男の生理現象が……」=

@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「わわ、やっぱり男の子ってたくさん食べるんだね。それ、ほとんど二人前だよー」=Wawah, boys really do eat a lot, huh! That's almost enough for two people~
-「あはは、ここ女子校だからさ、もともと量が少ないんだ。だからどうしてもこんな感じになっちゃうんだよね」=Ahaha, well, this is an all-girls school so, the amount they give you is basically nothing. So it's no surprise that you think that.
-「あ、そっかぁ……男の子一人だと、そういう点でも苦労しちゃうよね」=Ah, I see... even that sort of stuff affects you, if you're the only boy around, huh?
+//「わわ、やっぱり男の子ってたくさん食べるんだね。それ、ほとんど二人前だよー」=
+//「あはは、ここ女子校だからさ、もともと量が少ないんだ。だからどうしてもこんな感じになっちゃうんだよね」=
+//「あ、そっかぁ……男の子一人だと、そういう点でも苦労しちゃうよね」=

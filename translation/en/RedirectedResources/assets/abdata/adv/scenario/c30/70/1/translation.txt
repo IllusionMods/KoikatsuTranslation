@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「あ、今ちょっといいかな？　少しだけでも話したいんだけど」=Ah, do you have a moment? I want to talk to you, even if just for a little bit.
-「ええ、別に構わないわよ。えっと……キミが転入生の男の子？」=Yes, I don't mind. Um... You're the new male transfer student?
-「うん、そう。[P名前]って言うんだ。よろしくね」=Yeah, that's right. My name is [P名前]. Nice to meet you.
-「ふふっ、こちらこそよろしく。じゃ、最初は何から話そうかしら？」=Fufu, nice to meet you too. So, what did you wanna talk about?
-「そうだな。えーっと……」=(That's right. Er...)
+//「あ、今ちょっといいかな？　少しだけでも話したいんだけど」=
+//「ええ、別に構わないわよ。えっと……キミが転入生の男の子？」=
+//「うん、そう。[P名前]って言うんだ。よろしくね」=
+//「ふふっ、こちらこそよろしく。じゃ、最初は何から話そうかしら？」=
+//「そうだな。えーっと……」=

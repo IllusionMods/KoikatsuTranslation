@@ -1,19 +1,19 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「うわ、混んできたな。大丈夫か？　まだこっち寄れるぞ」=“Uwah, it's started getting pretty packed. You alright? You can scooch a bit closer still.”
-「ありがとう。少しだけ寄らせてもらうね……って、うわっ！？」=“Thanks. Then, just a little bit... wuh, uwah--!?”
-「あっはは……押されちゃったか？　仕方ないな、少しの間はこのままでいよう」=“Ahhahah... did you get pushed? It can't be helped, let's just stay like this for a bit.”
-「ぅ、うん、そうしてくれると助かる……」=“A-Alright, thanks...”
-（うぉっ、[H名]のお尻に俺のモノが当たって……はぁ、柔らかっ……）=(Uwoh--, my thing is touching her butt... haaah, it's so soft--...)
-CHOICE:『欲望に身を任せる』=Give in to your desires
-CHOICE:『鉄の自制心で堪える』=Bear with your iron will.
-（このまま、感触を楽しんで……）=(Let's just enjoy this sensation for a bit...)
-「なぁ、ソレ擦り付けるのやめろよ。周りに人がいるだろ……変な気分になっちゃダメだぞ？」=“Hey, stop rubbing that against me. There's people around us, you know... no getting horny here, alright?”
-「あっ、ごめん……でも、知って通り、もう大きくなっちゃってて……」=“Ah--, sorry... but, as you can already tell, it's already all big...”
-「[H名]のお尻がいけないんだよ？　こんなに柔らかくて、気持ちいいから……」=“It's your butt's fault for being so soft, you know? So soft and nice...”
-「ま、待てっ、本気じゃないよな？　おまえだって、流石にそれくらいの分別は……んぅっ、やめっ」=“W-Wait--, you're not serious, are you? Even you shouldn't be that... nnn--, stop it--”
-「[H名]だってもう可愛い声出てるよ？　これはもう、誘われてると思っていいよね？」=“You're also moaning pretty cutely, you know? At this point, if it's not seduction then what is it?”
-（……はっ、いかん！　欲望に流されるところだった！）=(...Hah--, no! I almost got swept away by my own horniness!)
-（キモチイ感触はるけど、我慢我慢……こんな所で勃起したら、[H名]に幻滅されちゃうからな……）=(It does feel good but, gotta endure, gotta endure... if I pop a chub here, she's gonna lose all faith in me...)
-（……しかし、いつまで我慢すれば……？　うぅ……最後まで堪えられるか不安だ）=(...But, just how long do I...? Uuu... I don't know if I'll be able to hold on the whole way)
+//「うわ、混んできたな。大丈夫か？　まだこっち寄れるぞ」=
+//「ありがとう。少しだけ寄らせてもらうね……って、うわっ！？」=
+//「あっはは……押されちゃったか？　仕方ないな、少しの間はこのままでいよう」=
+//「ぅ、うん、そうしてくれると助かる……」=
+//（うぉっ、[H名]のお尻に俺のモノが当たって……はぁ、柔らかっ……）=
+//CHOICE:『欲望に身を任せる』=
+//CHOICE:『鉄の自制心で堪える』=
+//（このまま、感触を楽しんで……）=
+//「なぁ、ソレ擦り付けるのやめろよ。周りに人がいるだろ……変な気分になっちゃダメだぞ？」=
+//「あっ、ごめん……でも、知って通り、もう大きくなっちゃってて……」=
+//「[H名]のお尻がいけないんだよ？　こんなに柔らかくて、気持ちいいから……」=
+//「ま、待てっ、本気じゃないよな？　おまえだって、流石にそれくらいの分別は……んぅっ、やめっ」=
+//「[H名]だってもう可愛い声出てるよ？　これはもう、誘われてると思っていいよね？」=
+//（……はっ、いかん！　欲望に流されるところだった！）=
+//（キモチイ感触はるけど、我慢我慢……こんな所で勃起したら、[H名]に幻滅されちゃうからな……）=
+//（……しかし、いつまで我慢すれば……？　うぅ……最後まで堪えられるか不安だ）=

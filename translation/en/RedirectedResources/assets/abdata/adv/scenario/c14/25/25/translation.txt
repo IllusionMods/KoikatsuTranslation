@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「はぁ？　いきなりなんだよ、気持ち悪いな！」=Haa? What's with all this, you're grossing me out!
+//「はぁ？　いきなりなんだよ、気持ち悪いな！」=

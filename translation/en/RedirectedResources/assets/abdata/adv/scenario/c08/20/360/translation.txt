@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「お部屋ちょっと汚しちゃったから、綺麗にしておかないと」=We made a bit of a mess, so we gotta clean up.
-「そうだね。急いで片付けよう。時間迫ってるしな」=Right. Let's get this cleaned up pronto. We're almost out of time.
-「うん！　ねえ、またすぐ連れて来てくれるよね？」=Yeah! Hey, you'll bring me out here on a date again soon, right?
-「もちろんだよ」=Of course.
+//「お部屋ちょっと汚しちゃったから、綺麗にしておかないと」=
+//「そうだね。急いで片付けよう。時間迫ってるしな」=
+//「うん！　ねえ、またすぐ連れて来てくれるよね？」=
+//「もちろんだよ」=

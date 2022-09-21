@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-………………=.........
-…………=......
-……=...
-「ニッポンの『ＬＯＶＥ』いっぱい分かったヨ♡」=I've figured out lots about the Japanese sort of 「love」♡
+//………………=
+//…………=
+//……=
+//「ニッポンの『ＬＯＶＥ』いっぱい分かったヨ♡」=

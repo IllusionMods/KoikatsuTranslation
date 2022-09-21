@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「こんなの貰っても、あたしあまり嬉しくないぞ」=“It doesn't really make me all that happy to get something like this, you know?”
+//「こんなの貰っても、あたしあまり嬉しくないぞ」=

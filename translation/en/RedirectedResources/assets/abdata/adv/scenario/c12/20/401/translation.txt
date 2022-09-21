@@ -1,23 +1,23 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「[H名]って店員さんに注文する時も堂々としてて、なんかカッコイイね」=“You even place your orders confidently, it's kinda cool.”
-「そうか？　別にいつも通りにしただけだぞ？　おまえが弱気になり過ぎなんじゃないのか？」=“Think so? I just acted like I usually do, you know? You sure it's not that you're too timid?”
-「言えてるね。ちょっと人見知りなところあるから」=“Won't deny. I'm a bit shy, you see.”
-「ふぅん、おまえが人見知りねぇ……女だらけの学園で、コイカツなんてしてる奴が言う事かね？」=“Fuhn~, you of all people, huh... you sure about that, Mr. Prez of the Koikatsu club?”
-「あ、あれはほら……半分仕事みたいなものだし……」=“T-That's, you know... it's less a hobby, and more a job, you know...”
-「なんだそれ……じゃあ、あたしに話かけたのも仕事みたいなものだったのか？」=“Oh really?... then, when you came and chatted me up, was that part of your job duties too?”
-「うぅ、話がこじれてきたね……もしかして[H名]、学園の他の子達に嫉妬してる？」=“Uuu, you're really digging in... are you jealous of the other girls at school, by any chance?”
-「なっ、違うぞっ！　どこからそんな発想になるんだよっ！　嫉妬なんて、みっともない事するわけないだろ……」=“Wha--, not one bit--! Where'd you even get that from--! Like hell I'd be jealous of anyone...”
-「そう？　俺は[H名]に嫉妬されたら嬉しいけどな。それだけ思ってくれてるんだってわかって」=“That so? I mean, it'd make me pretty happy if you were. Since I'd know that you actually treasure me that much.”
-「はぁ……あたしは何でこんな女たらしを好きになっちゃったんだろうな……しかも天然気味なのが手に負えない……」=“Haah... why'd I go and fall for such a womanizing brat... such an airhead to boot too, how's a girl supposed to deal with it...”
-「えぇっ、その言い方は酷くない？」=“Eeeh--, isn't that a bit too harsh~?”
-「おまえがくだらない事ばっかり言うからだっ。この話はもう終わりっ、なんか胸がモヤモヤする……」=“It's because you keep saying nonsense--. No more of this--. I don't wanna talk about it anymore...”
-「そんな一方的な……ごめん、ちょっと調子に乗り過ぎた……」=“That's so one-sided th... sorry, I got a bit too carried away...”
-「……んぅ、反省してるか？」=“...Nnn, are you really reflecting?”
-「うんっ、めちゃくちゃ反省してる！　[H名]を傷つけちゃったって……凄く後悔してるよ」=“Yeah--, super hard--! I really regret hurting you... a lot.”
-「んっ、ならもういいよ。あたしも変に意地を張って悪かったな」=“Nn--, it's fine then. Sorry, for getting so stubborn too.”
-「はぁっ……よかったぁ……このまま喧嘩別れになったらとか、色々想像しちゃって不安だったよ」=“Haah--... I really was worried there. For a second I thought we were going to fight and break up on the spot.”
-「ばか、あたしがそんな小さい女に見えるか？　お互いの距離が近付けば、噛み合わない事だって出てくるさ……」=“Dummy, do you think I'm that immature? When you get close to someone, there are bound to be one or two things you disagree on...”
-「でも、それを少しずつ噛み合わせていくのが恋人ってもんだろ？　あたし達も、そういう風になれたらいいなって思う」=“But, being a couple is all about coming to compromises over those very things, no? We should be like that too.”
-「[H名]……ありがとう。やっぱり[H名]には頭が上がらないね」=“[H]... thanks. I really am no match for you.”
+//「[H名]って店員さんに注文する時も堂々としてて、なんかカッコイイね」=
+//「そうか？　別にいつも通りにしただけだぞ？　おまえが弱気になり過ぎなんじゃないのか？」=
+//「言えてるね。ちょっと人見知りなところあるから」=
+//「ふぅん、おまえが人見知りねぇ……女だらけの学園で、コイカツなんてしてる奴が言う事かね？」=
+//「あ、あれはほら……半分仕事みたいなものだし……」=
+//「なんだそれ……じゃあ、あたしに話かけたのも仕事みたいなものだったのか？」=
+//「うぅ、話がこじれてきたね……もしかして[H名]、学園の他の子達に嫉妬してる？」=
+//「なっ、違うぞっ！　どこからそんな発想になるんだよっ！　嫉妬なんて、みっともない事するわけないだろ……」=
+//「そう？　俺は[H名]に嫉妬されたら嬉しいけどな。それだけ思ってくれてるんだってわかって」=
+//「はぁ……あたしは何でこんな女たらしを好きになっちゃったんだろうな……しかも天然気味なのが手に負えない……」=
+//「えぇっ、その言い方は酷くない？」=
+//「おまえがくだらない事ばっかり言うからだっ。この話はもう終わりっ、なんか胸がモヤモヤする……」=
+//「そんな一方的な……ごめん、ちょっと調子に乗り過ぎた……」=
+//「……んぅ、反省してるか？」=
+//「うんっ、めちゃくちゃ反省してる！　[H名]を傷つけちゃったって……凄く後悔してるよ」=
+//「んっ、ならもういいよ。あたしも変に意地を張って悪かったな」=
+//「はぁっ……よかったぁ……このまま喧嘩別れになったらとか、色々想像しちゃって不安だったよ」=
+//「ばか、あたしがそんな小さい女に見えるか？　お互いの距離が近付けば、噛み合わない事だって出てくるさ……」=
+//「でも、それを少しずつ噛み合わせていくのが恋人ってもんだろ？　あたし達も、そういう風になれたらいいなって思う」=
+//「[H名]……ありがとう。やっぱり[H名]には頭が上がらないね」=

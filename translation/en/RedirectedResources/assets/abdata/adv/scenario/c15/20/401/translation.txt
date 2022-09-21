@@ -1,23 +1,23 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「くんくん……喫茶店っていい匂いがするよなー」=“*sniff sniff*... cafes smell real nice, don't you think?”
-「コーヒーとか、スイーツとか、色々な香りがしてるもんね」=“Yeah, they're filled with all sorts of aromas, from coffee to sweets and whatnot.”
-「んん……？　なんか刺激臭がしたぞ……」=“Nnn...? Something smells real strong, almost too strong...”
-「刺激臭？　あっ、あれじゃない？　『新メニュー：スパイシーサンドイッチ』」=“Strong? Ah--, isn't it that? 「New Menu Item: Spicy Sandwich」”
-「けっこう美味しそうだよ。せっかくなら追加で注文してみたら？」=“It looks pretty good. Wanna add it to our order, since we're already here?”
-「ピリ辛のマヨネーズとチキンのサンド……美味しそうではあるけど」=“A chicken sandwich with spicy mayonnaise in it... it does look pretty good though.”
-「あれ？　[H名]って辛いもの好きじゃなかったっけ？」=“Huh? Didn't you like spicy food, [H名]?”
-「好きだぞ。でも、もうメニューは頼んじゃってるからな」=“I do. But, I've already ordered it once before.”
-「ちゃんと食べきれるか分からないものは、頼まないようにしてるんだ」=“I try not to order stuff that I'm not sure I can finish off completely.”
-「食べ残しが出ないようにってことか。[H名]って、そういうとこしっかりしてるよね」=“Not the sort to waste food, eh? You take that sort of stuff pretty seriously, [H名].”
-「んー？　これが普通だろー？」=“Nnn? It's just normal, no?”
-「ははは、[H名]は偉いね」=“Hahaha, you're a good girl, [H名].”
-「……あたしが辛いの苦手なこと知ってて、言ってるだろー？」=“...You're saying that, knowing full well that I can't handle spicy stuff, no?”
-「バレてしまったか……」=“Damn, you noticed...”
-「そもそも匂いが苦手なんだ……鼻の奥がツーンと刺激されて……うぅ、この距離からでも匂ってくるぞ……」=“In the first place, I can't handle even the smell... it really hits the back of my nose... uuu, I can smell it all the way from here...”
-「そもそも、なんで喫茶店で激辛メニューなんだ？　置いてあるメニューと食べあわせが悪くないか？」=“To begin with, why does a cafe even serve a spicy sandwich like that? It doesn't even fit with the rest of the menu, does it?”
-「まあ、軽食用じゃないかな。お客さんから要望があったんだと思う」=“Well, it's a light snack, no? Must have been requested by a customer.”
-「あと、コーヒーって辛さを和らげるって聞いたことがあるし、食べ合わせはそこまで悪くないと思うよ」=“Also, I've heard that coffee mellows out spicyness quite a bit, so I don't think it's that bad of a combination.”
-「キミは無駄に博識だなー」=“You're way too knowledgeable about the most pointless things.”
-（無駄……俺の知識は無駄か……）=(Pointless... my knowledge is pointless, huh...)
+//「くんくん……喫茶店っていい匂いがするよなー」=
+//「コーヒーとか、スイーツとか、色々な香りがしてるもんね」=
+//「んん……？　なんか刺激臭がしたぞ……」=
+//「刺激臭？　あっ、あれじゃない？　『新メニュー：スパイシーサンドイッチ』」=
+//「けっこう美味しそうだよ。せっかくなら追加で注文してみたら？」=
+//「ピリ辛のマヨネーズとチキンのサンド……美味しそうではあるけど」=
+//「あれ？　[H名]って辛いもの好きじゃなかったっけ？」=
+//「好きだぞ。でも、もうメニューは頼んじゃってるからな」=
+//「ちゃんと食べきれるか分からないものは、頼まないようにしてるんだ」=
+//「食べ残しが出ないようにってことか。[H名]って、そういうとこしっかりしてるよね」=
+//「んー？　これが普通だろー？」=
+//「ははは、[H名]は偉いね」=
+//「……あたしが辛いの苦手なこと知ってて、言ってるだろー？」=
+//「バレてしまったか……」=
+//「そもそも匂いが苦手なんだ……鼻の奥がツーンと刺激されて……うぅ、この距離からでも匂ってくるぞ……」=
+//「そもそも、なんで喫茶店で激辛メニューなんだ？　置いてあるメニューと食べあわせが悪くないか？」=
+//「まあ、軽食用じゃないかな。お客さんから要望があったんだと思う」=
+//「あと、コーヒーって辛さを和らげるって聞いたことがあるし、食べ合わせはそこまで悪くないと思うよ」=
+//「キミは無駄に博識だなー」=
+//（無駄……俺の知識は無駄か……）=

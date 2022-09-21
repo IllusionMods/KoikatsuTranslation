@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「大盛りでお願いします。あと単品でこの唐揚げも……」=A large serving of rice, please. Also, one set of this karaage as well...
-「ふふっ、見てるだけでお腹いっぱいになっちゃいそう。ほらほら、トレーに入りきれないじゃない。私の方にも乗せてあげるわ」=Fufu~, just looking at you makes me full. Look, all of it won't fit on your tray. How about this, Ill let you put it on my tray instead.
-「ありがとう。でも……あはは、なんだか大食いみたいで恥ずかしいな」=Thanks. But, Ahahaha. I look like such a glutton, don't I?
-「そんなことないわ。きっと作ってくれる方々も喜んでくれてると思うわよ」=That's not true. I'm sure the people who made the food are happy to see you eat this much.
-「作った料理を美味しく、たくさん食べてもらえるのって幸せだもの」=To them, watching someone eat their handmade food so deliciously probably makes their day.
+//「大盛りでお願いします。あと単品でこの唐揚げも……」=
+//「ふふっ、見てるだけでお腹いっぱいになっちゃいそう。ほらほら、トレーに入りきれないじゃない。私の方にも乗せてあげるわ」=
+//「ありがとう。でも……あはは、なんだか大食いみたいで恥ずかしいな」=
+//「そんなことないわ。きっと作ってくれる方々も喜んでくれてると思うわよ」=
+//「作った料理を美味しく、たくさん食べてもらえるのって幸せだもの」=

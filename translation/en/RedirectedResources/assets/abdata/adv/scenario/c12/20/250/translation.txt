@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「あぁ、さらば遊園地……また会おう……」=“Aah, goodbye, amusement park... let us meet again...”
-「おいおい、感傷に浸り過ぎだろ……そんなに楽しかったのか？　遊園地」=“Oi oi, aren't you overdoing it a bit... did you enjoy it that much?”
-「もちろん、普通に遊ぶだけで楽しいのに、[H名]と一緒だったんだよ。もう楽園はここにありって感じだったね」=“Of course, it's fun enough by itself, but you were with me too. It was basically paradise on earth.”
-「そこまでは大袈裟過ぎるけど、あたしも楽しかったよ、おまえと一緒に遊園地で遊べてさ」=“I'm not gonna exaggerate that much, but I had fun too. I had fun being here with you.”
-「また来ようね。二人で一緒に」=“Let's come again, okay? Together.”
+//「あぁ、さらば遊園地……また会おう……」=
+//「おいおい、感傷に浸り過ぎだろ……そんなに楽しかったのか？　遊園地」=
+//「もちろん、普通に遊ぶだけで楽しいのに、[H名]と一緒だったんだよ。もう楽園はここにありって感じだったね」=
+//「そこまでは大袈裟過ぎるけど、あたしも楽しかったよ、おまえと一緒に遊園地で遊べてさ」=
+//「また来ようね。二人で一緒に」=

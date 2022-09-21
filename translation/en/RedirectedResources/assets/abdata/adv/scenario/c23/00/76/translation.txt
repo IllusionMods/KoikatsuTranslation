@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「じーっ……」=“*stare*...”
-「ふぅ、泳いできたんだなぁ。って、ど、どこを見てるんだい！？」=“Fuuh, that was a good swim. Wuh, w-where are you looking?!”
-「い、いや、別に見てないけど」=“N-Nothing, I wasn't looking anywhere.”
+//「じーっ……」=
+//「ふぅ、泳いできたんだなぁ。って、ど、どこを見てるんだい！？」=
+//「い、いや、別に見てないけど」=
 //「ほ、本当なのかなぁ！？　も、もぅ、[P]さんは///」=

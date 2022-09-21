@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「まさか[H名]の方からしてくれるなんて思わなかったよ」=I never thought I'd get you see you taking the initiative like this, [H名].
-「あれ以上大変なことにならないよう、対処しただけです」=I just dealt with it, so that it wouldn't turn into an even bigger problem.
-「面目ないです、はい……」=I have no excuse, sorry...
+//「まさか[H名]の方からしてくれるなんて思わなかったよ」=
+//「あれ以上大変なことにならないよう、対処しただけです」=
+//「面目ないです、はい……」=

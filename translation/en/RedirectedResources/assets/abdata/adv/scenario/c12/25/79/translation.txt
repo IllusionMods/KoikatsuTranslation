@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「えへへ、ここお気に入りなんだ。よく晴れた日は大体ここで食ってる」=“Eheheh, I really like this place. I usually end up eating here on clear days.”
-「いい感じのとこだね。あ、ヤキソバパン余分に買ってきたんだけど、食べる？」=“It's a really refreshing spot, isn't it? Ah, I bought some extra yakisoba sandwhiches, you want one?”
-「おぉ！　ナイスぅ！　これすぐ売り切れちゃうんだよなぁ」=“Ooh! Gimme! They always run out of these so fast~”
+//「えへへ、ここお気に入りなんだ。よく晴れた日は大体ここで食ってる」=
+//「いい感じのとこだね。あ、ヤキソバパン余分に買ってきたんだけど、食べる？」=
+//「おぉ！　ナイスぅ！　これすぐ売り切れちゃうんだよなぁ」=

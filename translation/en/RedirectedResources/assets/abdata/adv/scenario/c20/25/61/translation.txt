@@ -1,17 +1,17 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「今日は、すっごく……楽しみにしていました……！」=I was really, looking forward to... today...!
-「それは嬉しいよ。じゃあ、さっそく行こうか！」=I'm glad to hear that. Well then, let's go!
-「あの……手を繋いでくれますか？」=Uhm... will you hold my hand?
-「あぁ、もちろんだよ……なんだか照れるね」=Aah, of course... man, I'm blushing, this is pretty embarrassing.
-「うふふ……私も照れますが、それよりも……幸せです」=Ufufu~... I'm embarrassed too but, more than that... I'm happy.
-「俺もだよ、[H]……あ、あそこに公園があるね。行ってみない？」=Me too, [H]... ah, there's a park over there. Wanna go check it out?
-「はい！　……あなたとなら、どこに行っても楽しいです」=Yes! ...With you, no matter where we go, it's fun.
-「本当に、本当に楽しかったです……！　今日は、記念日にします！」=That was really, really, really fun...! I'll always cherish this day!
-CHOICE:「もう少し一緒にいたいな」=I want to be together a bit longer.
-CHOICE:「俺も楽しかったよ！　それじゃあ、またね！」=I had a lot of fun too! Well then, see ya!
-「もう少し一緒にいたいな」=I want to be together a bit longer.
-「えっ！？　……実は私も同じことを考えていました……うふふっ」=Eh--?! ...I was actually thinking the same thing... ufufu~
-「俺も楽しかったよ！　それじゃあ、またね！」=I had a lot of fun too! Well then, see ya!
-「はい！　また……絶対に、デートしましょうね！」=Yes! Let's... definitely go on a date again, okay?~!
+//「今日は、すっごく……楽しみにしていました……！」=
+//「それは嬉しいよ。じゃあ、さっそく行こうか！」=
+//「あの……手を繋いでくれますか？」=
+//「あぁ、もちろんだよ……なんだか照れるね」=
+//「うふふ……私も照れますが、それよりも……幸せです」=
+//「俺もだよ、[H]……あ、あそこに公園があるね。行ってみない？」=
+//「はい！　……あなたとなら、どこに行っても楽しいです」=
+//「本当に、本当に楽しかったです……！　今日は、記念日にします！」=
+//CHOICE:「もう少し一緒にいたいな」=
+//CHOICE:「俺も楽しかったよ！　それじゃあ、またね！」=
+//「もう少し一緒にいたいな」=
+//「えっ！？　……実は私も同じことを考えていました……うふふっ」=
+//「俺も楽しかったよ！　それじゃあ、またね！」=
+//「はい！　また……絶対に、デートしましょうね！」=

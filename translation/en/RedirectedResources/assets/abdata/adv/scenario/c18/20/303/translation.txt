@@ -1,20 +1,20 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「もうすぐ時間かあ、結構歌ったなあ」=Almost time, huh, we sure sang a lot.
-「そうですね。延長、どうしましょう？」=Indeed. What shall we do? Do you want to extend it?
-CHOICE:『もうちょっと歌おうよ』=『Let's sing a bit more』
-CHOICE:『帰る仕度をしよっか』=『Let's get ready to head out』
-「折角だししようか。歌い足りないや」=We might as well. I still ain't sang enough.
-「私もまだ物足りないので、いいですよ」=I haven't had enough either, so I'm up for it.
-「じゃあ電話入れるね。ちょっとまってて」=Then I'll put in the call. Wait a bit.
-「いや、キリもいいし帰ろっか」=Nah, this is a good place to stop, let's head out.
-「そうですね、わかりました」=Indeed, sounds good.
-「また[H名]の歌声が聞きたくなったら行こっかな」=Let's come back here when I feel like hearing you sing again.
-「は、恥ずかしいので、その時は[P名]さんも一緒に歌ってくださいね」=I-It's embarrassing to sing by myself, so when the time comes, sing together with me, okay?
-「うーん、延長はいいかな。この時間いっぱいまで歌ったら帰ろうか」=Mmm, I think it's been long enough. Let's just sing until our slot's over then head home.
-「わかりました。あと一曲くらいは歌えそうですね」=Got it. Seems like we could fit in one more song.
-「[H名]が入れていいよ。[H名]の素敵な歌声聞いてたいし」=You can have the last one, [H名]. I wanna hear your sweet voice again too.
-「そ、そう言われると恥ずかしいですけど……じゃあ、この曲を」=D-Don't say that, it's embarrassing... in that case though, this one then.
-『もしも今 背中に羽が生えて 大空自由に 飛び回れたら～♪』=『If only I could, sprout wings from my back, and fly freely, in this wide open sky~♪』
-（ん～、元気がもらえるいい歌声だなぁ）=(Nn~, just hearing her sing makes me feel so energetic)
+//「もうすぐ時間かあ、結構歌ったなあ」=
+//「そうですね。延長、どうしましょう？」=
+//CHOICE:『もうちょっと歌おうよ』=
+//CHOICE:『帰る仕度をしよっか』=
+//「折角だししようか。歌い足りないや」=
+//「私もまだ物足りないので、いいですよ」=
+//「じゃあ電話入れるね。ちょっとまってて」=
+//「いや、キリもいいし帰ろっか」=
+//「そうですね、わかりました」=
+//「また[H名]の歌声が聞きたくなったら行こっかな」=
+//「は、恥ずかしいので、その時は[P名]さんも一緒に歌ってくださいね」=
+//「うーん、延長はいいかな。この時間いっぱいまで歌ったら帰ろうか」=
+//「わかりました。あと一曲くらいは歌えそうですね」=
+//「[H名]が入れていいよ。[H名]の素敵な歌声聞いてたいし」=
+//「そ、そう言われると恥ずかしいですけど……じゃあ、この曲を」=
+//『もしも今 背中に羽が生えて 大空自由に 飛び回れたら～♪』=
+//（ん～、元気がもらえるいい歌声だなぁ）=

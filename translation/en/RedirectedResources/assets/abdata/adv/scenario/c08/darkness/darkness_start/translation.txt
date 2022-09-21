@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「へぇ～、この部屋って、こんな風になってたんだぁ」=Heh~, so this is what this room looks like, huh?
-「えへへ、普段入れない場所だから、ドキドキするね。何か面白いものはないかなぁ、探検探検♪」=Ehehe, it's not a place we can normally enter, so it's pretty exciting, isn't it? Let's look for something interesting, c'mon♪
-「あなたもこっちに……どうしたの？　ね、ねぇ……ちょっと、怖いよ？」=You should come he... what's the matter? H-Hey... I'm getting scared, you know?
-「キャッ……！　だ、誰かいるの！？　へっ、やぁ――」=Kyah--...! I-Is there someone here!? Eh--, no----
+//「へぇ～、この部屋って、こんな風になってたんだぁ」=
+//「えへへ、普段入れない場所だから、ドキドキするね。何か面白いものはないかなぁ、探検探検♪」=
+//「あなたもこっちに……どうしたの？　ね、ねぇ……ちょっと、怖いよ？」=
+//「キャッ……！　だ、誰かいるの！？　へっ、やぁ――」=

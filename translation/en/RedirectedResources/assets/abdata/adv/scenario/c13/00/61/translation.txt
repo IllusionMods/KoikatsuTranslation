@@ -1,17 +1,17 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「あは、誘ってくれてありがとね。食べたかったんだあそこのジェラート」=Aha, thanks for inviting me. I've been wanting to try out the gelato from that place for quite a while now.
-「うん、それじゃ早速行こうか！」=Yeah, well then, let's go!
-「キミとふたりでここにこれるなんてマジで幸せ」=Being able to come here together with you is seriously pure happiness.
-「俺も幸せだ。まぁ、俺は[H]と一緒にいるだけでいつも幸せだけど」=I'm happy too. Well, I'm always happy just being able to spend time with you, [H].
-「そ、そんなこと面と向かって言われたら照れるじゃん……」=I-If you say that to me so directly, I'll blush...
-「お、俺も急に何言ってんだろ……」=W-Why did I even say that all of a sudden...
-「さっ、さっ、お互い顔が熱くなったところで、ジェラートでクールダウンしよ！」=W-Well--, now that we've both our faces burning up, let's cooldown with some of this gelato!
-「はぁ～。今日マジで楽しかった。それにアタシ……[P]くんのこと、もっと好きになった」=Haa~. Today was a ton of fun. I also... fell even more for you, [P名]-kun.
-CHOICE:「俺もだよ……もう少し一緒にいたいな」=Me too. Listen... I want to be with you for a bit longer.
-CHOICE:「俺も同じ気持ちだよ……それじゃあ、また」=I feel the same way... Well then, see ya later.
-「俺もだよ。その……もう少し[H]と一緒にいたい」=Me too. Listen... I want to be with you for a bit longer.
-「あ、その、アタシもまだ[P]くんと離れたくない……」=Ah, uhm, I don't want to let go of you just yet either...
-「俺も同じ気持ちだよ……それじゃあ、また」=I feel the same way... Well then, see ya later.
-「うん。また２人でデートしようね。ばいばーい」=Yeah. Let's go out again sometime, just the two of us. Byebye.
+//「あは、誘ってくれてありがとね。食べたかったんだあそこのジェラート」=
+//「うん、それじゃ早速行こうか！」=
+//「キミとふたりでここにこれるなんてマジで幸せ」=
+//「俺も幸せだ。まぁ、俺は[H]と一緒にいるだけでいつも幸せだけど」=
+//「そ、そんなこと面と向かって言われたら照れるじゃん……」=
+//「お、俺も急に何言ってんだろ……」=
+//「さっ、さっ、お互い顔が熱くなったところで、ジェラートでクールダウンしよ！」=
+//「はぁ～。今日マジで楽しかった。それにアタシ……[P]くんのこと、もっと好きになった」=
+//CHOICE:「俺もだよ……もう少し一緒にいたいな」=
+//CHOICE:「俺も同じ気持ちだよ……それじゃあ、また」=
+//「俺もだよ。その……もう少し[H]と一緒にいたい」=
+//「あ、その、アタシもまだ[P]くんと離れたくない……」=
+//「俺も同じ気持ちだよ……それじゃあ、また」=
+//「うん。また２人でデートしようね。ばいばーい」=

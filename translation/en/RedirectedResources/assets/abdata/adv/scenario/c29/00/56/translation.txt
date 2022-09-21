@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「…………今、なんと？」=...Come again?
-「別れようって言ったんだ。ごめん、[H]の気持ちを十分理解できなくて……」=I said that we should break up. I'm sorry, I just don't understand you half the time, [H]...
-「い、いえ……そういうことでしたら、むしろ私が……」=N-No... if that's the problem, then really, I'm the one at...
-「あなたと釣り合う人間になれず、すみません」=I'm sorry, for not being able to match up to you.
-「では……お別れです。さようなら……」=Well then... I suppose this is it. Goodbye...
+//「…………今、なんと？」=
+//「別れようって言ったんだ。ごめん、[H]の気持ちを十分理解できなくて……」=
+//「い、いえ……そういうことでしたら、むしろ私が……」=
+//「あなたと釣り合う人間になれず、すみません」=
+//「では……お別れです。さようなら……」=

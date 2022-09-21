@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-（これは美味い！　夢中で食べちゃうな）=(This is delicious! I could lose myself in this.)
-「うふふ、いい食べっぷりね～。作ってきた甲斐があるわ」=“Ufufu, what a good eater~. It was worth the effort to make it.”
-「あら、もう……うふふ。口の周り汚しちゃって。ほら、拭き拭きしましょうね～」=“Oh dearie... Ufufu. You got your cheeks all messy. C'mon, I'll wipe them for you~”
+//（これは美味い！　夢中で食べちゃうな）=
+//「うふふ、いい食べっぷりね～。作ってきた甲斐があるわ」=
+//「あら、もう……うふふ。口の周り汚しちゃって。ほら、拭き拭きしましょうね～」=

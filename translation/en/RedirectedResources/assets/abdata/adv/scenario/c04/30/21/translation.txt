@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「おはよう。ふふっ」=Good morning. Fufu--
-「どうしたの、何か良いことあった？」=What's up, did something good happen?
-「ええ……こうしてあなたの隣を歩けるのが、幸せだなって」=Yes... just being able to walk like this, right next to you, makes me really happy.
+//「おはよう。ふふっ」=
+//「どうしたの、何か良いことあった？」=
+//「ええ……こうしてあなたの隣を歩けるのが、幸せだなって」=

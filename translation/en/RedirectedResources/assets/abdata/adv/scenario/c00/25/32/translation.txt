@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「あ、ありがとう……君の気持ちとして、受け取っておくわ」=Ah, thanks... I'll think of the heart you put into it, and accept it.
+//「あ、ありがとう……君の気持ちとして、受け取っておくわ」=

@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「あの、ちょっといいですか？」=Hey, do you have a moment?
-「あなたは確か、学園初になる男子の……。初めまして、[P姓]さん」=If I'm not mistaken, you're that boy, the first boy in this school's history... It's good to meet you, [P姓]-san.
-「えっ、俺のこと知ってるの？」=Eh--, you know about me?
-「先生から事前にお伺いしておりましたので」=The teacher informed me beforehand.
-「君ってしっかりしてるんだね」=You sure seem dependable.
-「よく言われます。普通にしているつもりなのですが……」=I get that often. I think I act fairly normal though...
-（頼りになりそうな子だな。これから色々と話し掛けてみよう）=(She sure seems reliable. Let's try talking more with her about things from now on)
+//「あの、ちょっといいですか？」=
+//「あなたは確か、学園初になる男子の……。初めまして、[P姓]さん」=
+//「えっ、俺のこと知ってるの？」=
+//「先生から事前にお伺いしておりましたので」=
+//「君ってしっかりしてるんだね」=
+//「よく言われます。普通にしているつもりなのですが……」=
+//（頼りになりそうな子だな。これから色々と話し掛けてみよう）=

@@ -1,20 +1,20 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「今日は頼まなかったけど、辛いもの食べてるときの[H名]さんって普段のギャップも相まって、めちゃくちゃ可愛いよね」=You didn't order it today but, when you're eating spicy food, coupled with your normal gap moe, you look extremely cute, [H名]-san.
-「もう、いきなりなあに？」=Jeez, what are you on about, all of a sudden?
-「ほら、頑張ってフーフーしたり、食べてるときに、アツッ、アッツって言うのが可愛くて」=Like, you know, when you blow on your food with that serious expresion, or when you go "Hot! So hot" when you eat it, it's super cute.
-「くすっ♡　それぐらい普通だし、あなた、私をアラサーのお姉さんとでも思ってるでしょ。ちゃんと同じ学園の生徒よ？」=*giggle*♡ That much is normal. You think of me as some sort of thirty year old onee-san, don't you? Im a student in the same school as you, you know?
-「それはわかってるけど、男はギャップに弱いから」=I get that, but men are simply weak to such gap moe.
-「ギャップねぇ……なら、あなたのことを楽しませるために、私の素顔にかぶせてる仮面を取るのは、もう少し先延ばしにしてあげる」=Gap moe, huh... If so, I'll put off taking off this mask that I have on my true face for a bit, so that you can enjoy yourself for a bit more.
-「え、仮面？　今が[H名]さんの素顔じゃないの？　とってもいいのに」=Eh, Mask? Is this not your real face, [H名]-san? Even though it's so nice.
-「さあ、どうしようかしら」=Let's see, what should I do?
-「き、気になる……！」=I-I'm curious......!
-「うふふ、辛いものが好きな女の、ただの照れ隠しよ。気にしないの」=Ufufu, all of that was just a girl trying to hide her embarrassment at her love for spicy food. I don't mind it.
-「ふふ、それなら残念ね。私、辛いもの嫌いだし、なかなか見られないわね」=Fufu, in that case, too bad. I hate spicy food, so you won't get to see it often.
-「あれ？　でも、前に食べてなかった？」=Huh? But, didn't you eat some the other day?
-「辛いものって美容にいいのよ」=Spicy food is good for one's figure.
-「汗をかくからってこと？　それは、運動でかく汗じゃだめなの？」=Is it because it makes you sweat? Can't you just exercise instead?
-「運動でかく汗と辛いものを食べたときの汗は、まったく別ものよ。辛いもの……とくにカプサイシンを採ってかく汗は水分だけじゃなくて油分も入ってるの」=The sweat you let off during exercise is completely different from the sweat you let off while eating spicy food. When eating spicy food... especially food rich in capsaicin, the sweat you let off doesn't just contain water, it contains oil too.
-「ピチピチのもちもち肌を作りたいなら、保湿だけじゃなくて保油にも気を付けないといけないの。これはあなたにずっとキレイって言ってもらえる秘訣ね♡」=If I want to have youthful and soft skin, I have to take care of not only moisturizing but also managing skin oil content. This is the trick I plan to use, to have you keep calling me beautiful, for a long time♡
-（美容に気合いを入れてる[H名]さんらしいなぁ……しかも、それが俺のためって言ってくれるところがまたにくいなぁ）=(It's just like [H名]-san to be so fired up about maintaining her figure... Not to mention, saying that she's doing yet another thing for me is so unfair of her. She's so cute.)
+//「今日は頼まなかったけど、辛いもの食べてるときの[H名]さんって普段のギャップも相まって、めちゃくちゃ可愛いよね」=
+//「もう、いきなりなあに？」=
+//「ほら、頑張ってフーフーしたり、食べてるときに、アツッ、アッツって言うのが可愛くて」=
+//「くすっ♡　それぐらい普通だし、あなた、私をアラサーのお姉さんとでも思ってるでしょ。ちゃんと同じ学園の生徒よ？」=
+//「それはわかってるけど、男はギャップに弱いから」=
+//「ギャップねぇ……なら、あなたのことを楽しませるために、私の素顔にかぶせてる仮面を取るのは、もう少し先延ばしにしてあげる」=
+//「え、仮面？　今が[H名]さんの素顔じゃないの？　とってもいいのに」=
+//「さあ、どうしようかしら」=
+//「き、気になる……！」=
+//「うふふ、辛いものが好きな女の、ただの照れ隠しよ。気にしないの」=
+//「ふふ、それなら残念ね。私、辛いもの嫌いだし、なかなか見られないわね」=
+//「あれ？　でも、前に食べてなかった？」=
+//「辛いものって美容にいいのよ」=
+//「汗をかくからってこと？　それは、運動でかく汗じゃだめなの？」=
+//「運動でかく汗と辛いものを食べたときの汗は、まったく別ものよ。辛いもの……とくにカプサイシンを採ってかく汗は水分だけじゃなくて油分も入ってるの」=
+//「ピチピチのもちもち肌を作りたいなら、保湿だけじゃなくて保油にも気を付けないといけないの。これはあなたにずっとキレイって言ってもらえる秘訣ね♡」=
+//（美容に気合いを入れてる[H名]さんらしいなぁ……しかも、それが俺のためって言ってくれるところがまたにくいなぁ）=

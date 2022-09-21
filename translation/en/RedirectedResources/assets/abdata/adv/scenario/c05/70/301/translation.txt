@@ -1,21 +1,21 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「[H名]はカラオケとか、よく来たりするの？」=“Do you come to Karaoke often, [H名]?”
-「ううん。来るのは久しぶり」=“Nope. It's been a while since I did.”
-「正直、歌は苦手かも……。ちゃんと歌える自信がないよ」=“Honestly, I think I'm bad at singing... I don't think I'll be able to sing properly.”
-「はは、気にしなくていいよ。上手く歌う必要なんてないんだから」=“Haha, you don't need to worry about it. You don't need to put that much effort into it.”
-「真剣に歌えば、いつもとは違う形で“かれら”に言葉を伝えられるんじゃない？」=“If I sing seriously, won't I be able to communicate with "them" in a different way from usual?”
-「あ……そっか……そうだよねっ。ちょっと、頑張ってみようかな」=“Ah... right... of course--. Let's actually put in some effort then.”
-「うんうん、その調子。気軽に歌っていこうよ。なにか知ってる曲とかある？」=“Exactly, that's the spirit. Let's just sing our hearts out. Got any songs you like?”
-「うーん……流行の曲とかはわからないし……」=“Mmm... I don't know any popular songs...”
-「このあたりのページも、知らない曲ばっかり……」=“These pages, are all full of songs I've never heard of, too...”
-「あ！　この曲なら知ってるかも」=“Ah! I think I know this one.”
-「お、了解。それじゃ、早速入れるね」=“Oh, rogether. Well then, I'll put it in, okay?”
-「え、もうっ？　こ、心の準備が……」=“Eh, already--? M-My heart isn't...”
-「準備するより、歌って慣らしていくほうがリラックスできるよ」=“Rather than trying to ready your heart, it's easier to relax by just singing and getting used to it.”
-「安心して。俺も、“かれら”もついてるから」=“Calm down. I'm right here, with you. "They" are, too.”
-「う、うん……ありがとう。とっても心強いよ」=“O-Okay... thank you. That's really reassuring.”
-「よし。じゃあいくよ？」=“Alright. I'mma start, okay?”
-『もしも今 背中に羽が生えて 大空自由に 飛び回れたら～♪』=『If only I could, sprout wings from my back, and fly freely, in this wide open sky~♪』
-（健気に歌ってるなぁ……こっちも思わず笑顔になってくるよ）=(What a lovable performance... Can't help but smile myself.)
+//「[H名]はカラオケとか、よく来たりするの？」=
+//「ううん。来るのは久しぶり」=
+//「正直、歌は苦手かも……。ちゃんと歌える自信がないよ」=
+//「はは、気にしなくていいよ。上手く歌う必要なんてないんだから」=
+//「真剣に歌えば、いつもとは違う形で“かれら”に言葉を伝えられるんじゃない？」=
+//「あ……そっか……そうだよねっ。ちょっと、頑張ってみようかな」=
+//「うんうん、その調子。気軽に歌っていこうよ。なにか知ってる曲とかある？」=
+//「うーん……流行の曲とかはわからないし……」=
+//「このあたりのページも、知らない曲ばっかり……」=
+//「あ！　この曲なら知ってるかも」=
+//「お、了解。それじゃ、早速入れるね」=
+//「え、もうっ？　こ、心の準備が……」=
+//「準備するより、歌って慣らしていくほうがリラックスできるよ」=
+//「安心して。俺も、“かれら”もついてるから」=
+//「う、うん……ありがとう。とっても心強いよ」=
+//「よし。じゃあいくよ？」=
+//『もしも今 背中に羽が生えて 大空自由に 飛び回れたら～♪』=
+//（健気に歌ってるなぁ……こっちも思わず笑顔になってくるよ）=

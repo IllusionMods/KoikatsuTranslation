@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「……なんだか、大胆。でも、いつもより興奮して……すごく気持ちよかった」=“...Somehow, you were really bold. But, I was more excited than usual... It felt really good.”
+//「……なんだか、大胆。でも、いつもより興奮して……すごく気持ちよかった」=

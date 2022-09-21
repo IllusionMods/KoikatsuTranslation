@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「まったく、いつからワタシたちを見てたんだい？」=“Jeez, just how long have you been watching us for?”
+//「まったく、いつからワタシたちを見てたんだい？」=

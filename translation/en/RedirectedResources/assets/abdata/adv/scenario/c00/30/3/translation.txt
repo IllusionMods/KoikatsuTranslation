@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「そういえば一緒に帰るのは初めてよね。もちろん、いいわよ」=Come to think of it, it'll be our first time walking together home, huh? Of course, I'm all for it.
-「なんかちょっと緊張するね……」=Man, I'm feeling kinda nervous...
-「うふふっ、その反応、カワイイ♪　肩の力抜いて。さ、帰りましょ」=Ufufu--, that reaction, it's so cute♪ Let your hair down, loosen up. Now then, let's go home.
+//「そういえば一緒に帰るのは初めてよね。もちろん、いいわよ」=
+//「なんかちょっと緊張するね……」=
+//「うふふっ、その反応、カワイイ♪　肩の力抜いて。さ、帰りましょ」=

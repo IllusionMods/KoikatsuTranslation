@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-………………=.........
-…………=......
-……=...
-「ほら、貴方の分の飴よ。愚図な貴方はすぐに糖分補給をしなきゃ、脳が焼ききれてしまうでしょう？　フフッ」="Look, I've got you a candy. Someone as stupid as you naturally needs a lot of sugar, so your brain doesn't burn off, right? Fufu."
+//………………=
+//…………=
+//……=
+//「ほら、貴方の分の飴よ。愚図な貴方はすぐに糖分補給をしなきゃ、脳が焼ききれてしまうでしょう？　フフッ」=

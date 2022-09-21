@@ -1,21 +1,21 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「うーん、混雑してきたね」=“Nnnn, it's starting to get pretty crowded here, huh?”
-「うぅ……人がまるでゴミのようだ……」=“Uuu... men are piled together like trash...”
-「ここからしばらくかかるから、ちょっと我慢してて……うおっ」=“It's gonna stay congested for a bit, I'm pretty sure, so endure it for a bi... uwoh--”
-「な、汝よ、苦しい……もう少し離れられぬか……？」=“T-This is, a bit much... can't thee not give an inch of way, perhaps...?”
-「こっちもあんまり隙間がなくて……今すぐは無理かも」=“I don't have any room here either... I don't think I can, sorry.”
-（とは言ったものの、このままだと股間がまずいことになるぞ……）=(But, if we stay stuck together like this, my crotch is gonna react...)
-CHOICE:『欲望に少し抵抗する』=Resist your desires a little bit.
-CHOICE:『鉄の自制心を持って抵抗する』=Brandish your iron will and resist them fully.
-（とりあえず……なにか、別のことを考えて気を紛らわせよう。えっと、明日の朝ご飯は何にしようか……）=(For now... gotta try distracting myself by thinking of something else. Erhm, what should I have for breakfast tomorrow...)
-（朝ご飯――女体盛り！　って、全然ダメだ！　エロイことしか考えらないっ！）=(Sashimi -- off her body, of course! Wuh, it's no use! I can't think of anything but lewd stuff--!)
-「む、むぅ？　この感触……まさか、興奮しておるのか？」=“M-Muh? This sensation... art thou getting aroused, perchance?”
-「あ、あはは……ごめん、つい……」=“A-Ahahah... sorry, I just...”
-「クックック……こんな状況でここを硬くするなど、汝は随分と倒錯した嗜好を持っているのだなぁ。んー？」=“Kuh kuh kuh... making this hard in a place like this, thou doth possess some quite perverse tastes, hm~?”
-「わ、わ、待って待って、そんな撫でないで。周りに気づかれるって」=“W-Wah, stop, stop, don't stroke it. People are gonna notice.”
-「ふふ、こんな状態で電車から降りたら、恥ずかしいのはどっちだ？　案ずるな、すぐに済むであろう……」=“Fufuh, if we were to exit the train like this, which one of us would have to bear the shame? Do not worry, I shall make it quick...”
-（ここで勃起したら、せっかくのデートが台無しになってしまう！　堪えるんだ、俺っ）=(If I pop a chub here, our date is gonna end up getting ruined entirely! I'mma endure this, I gotta--)
-（いい匂いもしないし、やわらかい感触なんて当たってない……今、俺の身体にあたってるのはただの石壁だ）=(She doesn't smell nice at all, and her body isn't so soft at all... the only thing I feel is stone.)
-（決して女体なんて、あたってないんだからっ……！）=(Stone is all I feel, definitely not the soft body of a girl...--!)
+//「うーん、混雑してきたね」=
+//「うぅ……人がまるでゴミのようだ……」=
+//「ここからしばらくかかるから、ちょっと我慢してて……うおっ」=
+//「な、汝よ、苦しい……もう少し離れられぬか……？」=
+//「こっちもあんまり隙間がなくて……今すぐは無理かも」=
+//（とは言ったものの、このままだと股間がまずいことになるぞ……）=
+//CHOICE:『欲望に少し抵抗する』=
+//CHOICE:『鉄の自制心を持って抵抗する』=
+//（とりあえず……なにか、別のことを考えて気を紛らわせよう。えっと、明日の朝ご飯は何にしようか……）=
+//（朝ご飯――女体盛り！　って、全然ダメだ！　エロイことしか考えらないっ！）=
+//「む、むぅ？　この感触……まさか、興奮しておるのか？」=
+//「あ、あはは……ごめん、つい……」=
+//「クックック……こんな状況でここを硬くするなど、汝は随分と倒錯した嗜好を持っているのだなぁ。んー？」=
+//「わ、わ、待って待って、そんな撫でないで。周りに気づかれるって」=
+//「ふふ、こんな状態で電車から降りたら、恥ずかしいのはどっちだ？　案ずるな、すぐに済むであろう……」=
+//（ここで勃起したら、せっかくのデートが台無しになってしまう！　堪えるんだ、俺っ）=
+//（いい匂いもしないし、やわらかい感触なんて当たってない……今、俺の身体にあたってるのはただの石壁だ）=
+//（決して女体なんて、あたってないんだからっ……！）=

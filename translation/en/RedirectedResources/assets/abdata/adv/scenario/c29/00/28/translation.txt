@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「これは……丁度ほしいと思っていたんです。ありがとうございます」=This is... I've been really wanting this. Thank you very much.
+//「これは……丁度ほしいと思っていたんです。ありがとうございます」=

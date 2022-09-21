@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「んぅ……我の疼きを静めてくれたこと、感謝する」=“Nnn... I am grateful for thy assistance, in settling down my body's aching.”
+//「んぅ……我の疼きを静めてくれたこと、感謝する」=

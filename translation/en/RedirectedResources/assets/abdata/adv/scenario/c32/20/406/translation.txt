@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「あ……気がつけば、こんな時間ですね」=Ah... It's already this late, huh? Time really did fly by.
-「時が経つのを忘れちゃったね……えーっとどうしよう？　もうちょっとここでダベる？」=We forgot about the passing of time, huh... Erm, what do you wanna do? Wanna stay for a bit longer?
-「いいえ、もう十分喫茶店を堪能しました。長居し過ぎるのも悪いですし、そろそろ出ましょう」=No, I've enjoyed today plenty enough. It'd be bad to overstay our welcome, so let's leave.
-「おっけー、会計してくるよ」=Okay, I'll go settle the bill.
-「……割り勘で構いませんからね？」=...For what it's worth, I don't mind splitting it in the middle, alright?
-「うん、ありがとう。じゃお言葉に甘えようかな」=Yeah, thanks. I'll take you up on that offer then.
+//「あ……気がつけば、こんな時間ですね」=
+//「時が経つのを忘れちゃったね……えーっとどうしよう？　もうちょっとここでダベる？」=
+//「いいえ、もう十分喫茶店を堪能しました。長居し過ぎるのも悪いですし、そろそろ出ましょう」=
+//「おっけー、会計してくるよ」=
+//「……割り勘で構いませんからね？」=
+//「うん、ありがとう。じゃお言葉に甘えようかな」=

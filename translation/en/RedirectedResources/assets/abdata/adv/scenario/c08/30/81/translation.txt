@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「はい、お弁当だよ♪」=Here, I made lunch for us♪
-「お～ありがとう！　でもなんで三つもあるの？」=Oh~, thanks! But, why've you got 3 lunchboxes?
-「三つの内の二つは[P]君のお弁当なんだよ」=Two of them are for you, [P]-kun.
-「えっ、二つも食べていいのか？」=Eh--, can I really have 2?
-「うん。だって育ち盛りなんでしょ♪」=Yeah. You're a growing boy, afterall♪
+//「はい、お弁当だよ♪」=
+//「お～ありがとう！　でもなんで三つもあるの？」=
+//「三つの内の二つは[P]君のお弁当なんだよ」=
+//「えっ、二つも食べていいのか？」=
+//「うん。だって育ち盛りなんでしょ♪」=

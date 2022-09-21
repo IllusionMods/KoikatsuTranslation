@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「えっと……それじゃ、私に壁ドンしてみて」=“Erhm... well then, try holding me against the wall.”
-「わかった……いくよ」=“Got it... Here I come.”
-「ひゃ～っ！　近い近い近い！　ダメ！　離れて！　キスしちゃうぅっ」=“Hyah~! Too close, too darn close! Don't! Get back! We'll end up kissing--”
-「でも壁に手をついたらこの距離になるって……」=“But if I'm to hold you against the wall then we're gonna have to get this close...”
-「こ、これは難易度が高すぎるわ……違うのにしましょ！　うん、それがいいわ」=“T-The difficulty level is way too high... let's do something different! Yeah, sounds good to me.”
+//「えっと……それじゃ、私に壁ドンしてみて」=
+//「わかった……いくよ」=
+//「ひゃ～っ！　近い近い近い！　ダメ！　離れて！　キスしちゃうぅっ」=
+//「でも壁に手をついたらこの距離になるって……」=
+//「こ、これは難易度が高すぎるわ……違うのにしましょ！　うん、それがいいわ」=

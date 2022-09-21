@@ -1,18 +1,18 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-ブー、ブー、ブー……=*Boop*, *boop*, *boop*...
-「あっ、もう時間ギリギリなのですっ！　スマホのアラームが鳴ってしまったですよー」=“Ah--, our time's almost up--! The alarm on my phone's going off--”
-「きちんとセットしてくれてたんだ。ありがとう。えーっとそれじゃ……」=“You set an alarm up? Thanks. Erm, well then...”
-CHOICE:『もう少し延長しない？』=Wanna extend it a bit?
-CHOICE:『帰り支度しよう』=Let's get ready to leave.
-「せっかくだし、もう少し延長しない？　もっと[H名]の歌、聞きたいな」=“Well, we came here and all, why not stay a bit longer? I wanna hear you sing some more, [H].”
-「はいですーっ！　私ももっともっとあなたのお歌聞きたいですよ！」=“Yes--! I want to hear you sing lots more as well!”
-「うん、まだまだ盛り上がっていこう！」=“Yeah, let's keep going just like this!”
-「そろそろ帰り支度を始めよっか。遅れないようにしなきゃ」=“Let's get ready to set off. Gotta make sure we don't overshoot the slot.”
-「はいです。いっぱい歌えて、すごく気持ち良かったですよー！」=“Yes. I got to sing so much, it felt so nice~!”
-「あと一曲だけ歌って帰ろうか。最後だし、[H名]が入れていいよ」=“Let's sing one more song then go home. It's the last one, so you can have it.”
-「わーい！　それじゃあですね……最後はこの曲にするですよー！」=“Yay~! Well then, let's see... I'm going to go with this one~!”
-「よし、俺は[H名]を盛り上げるよ！」=“Alright, I'll be your hype-man!”
-『小さな手の平掴める物は～♪　きっと限られているけど～♪』=『The things this small hand can grasp~♪ Are surely limited, but~♪』
-「いえーい！」=“Yay~!”
+//ブー、ブー、ブー……=
+//「あっ、もう時間ギリギリなのですっ！　スマホのアラームが鳴ってしまったですよー」=
+//「きちんとセットしてくれてたんだ。ありがとう。えーっとそれじゃ……」=
+//CHOICE:『もう少し延長しない？』=
+//CHOICE:『帰り支度しよう』=
+//「せっかくだし、もう少し延長しない？　もっと[H名]の歌、聞きたいな」=
+//「はいですーっ！　私ももっともっとあなたのお歌聞きたいですよ！」=
+//「うん、まだまだ盛り上がっていこう！」=
+//「そろそろ帰り支度を始めよっか。遅れないようにしなきゃ」=
+//「はいです。いっぱい歌えて、すごく気持ち良かったですよー！」=
+//「あと一曲だけ歌って帰ろうか。最後だし、[H名]が入れていいよ」=
+//「わーい！　それじゃあですね……最後はこの曲にするですよー！」=
+//「よし、俺は[H名]を盛り上げるよ！」=
+//『小さな手の平掴める物は～♪　きっと限られているけど～♪』=
+//「いえーい！」=

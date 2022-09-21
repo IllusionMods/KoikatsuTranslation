@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「[H]、くっつくのはいいけど、後にしない？　みんな見てるし……」=“[H], not that I mind it when you cling to me, but could we do it later? Everyone's staring...”
-「いいの。この星から出ていけば、関係のない人たちなんだから」=“It's fine. They're people unrelated to us, since we'll be ditching this planet soon.”
-「そう言われればたしかに、そうだけど……」=“Looking at it that way, certainly, you're not wrong but...”
-「だよね？　あっ、そうだ！　なんだったら、ここで……」=“Right? Ah--, right! How about we do it right here...”
-「わ、分かった！　そのままでいいから、おとなしく帰ろう」=“I-I got it! I don't mind if you cling to me, so let's just quietly go home.”
+//「[H]、くっつくのはいいけど、後にしない？　みんな見てるし……」=
+//「いいの。この星から出ていけば、関係のない人たちなんだから」=
+//「そう言われればたしかに、そうだけど……」=
+//「だよね？　あっ、そうだ！　なんだったら、ここで……」=
+//「わ、分かった！　そのままでいいから、おとなしく帰ろう」=

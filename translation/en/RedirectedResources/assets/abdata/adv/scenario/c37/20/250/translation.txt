@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「なんかあっという間の一日だったなぁ……」=The day kinda passed by in a blink, didn't it...
-「はい、デートというのはあっという間です」=Yes, dates really do fly by fast.
-「きっと、あなたと一緒だから、そう感じるのだと思います」=I'm sure it's because I'm with you, atleast I think that's how I feel.
-「俺も……[H名]とだからだよ」=Me too... It's because I'm with you, [H名].
+//「なんかあっという間の一日だったなぁ……」=
+//「はい、デートというのはあっという間です」=
+//「きっと、あなたと一緒だから、そう感じるのだと思います」=
+//「俺も……[H名]とだからだよ」=

@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「……最低。早く出てって」="...That's disgusting. Get out of here."
+//「……最低。早く出てって」=

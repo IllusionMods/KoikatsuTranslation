@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「んなっ！？　ばっ……お前、ふざけてんのか！？」=W-Wha--!? Idi... are you fucking with me?!
-「ふざけてこんなこと言うわけないだろ。本当に好きなんだよ」=Even I wouldn't say such a thing just to fuck with you. I really do love you.
-「そ、そうか……それで私のどこが好きになったんだよ」=I-I see... So which part of me did you fall for anyway?
-「全部だよ。そういうツッパったところも全部含めて好きなんだ」=All of it. Even that unruly side of you, I love all of you.
-「全部ってそんなわけないだろ……でも、嬉しいよ」=Yeah, you oversold it a bit there... but, I'm happy.
-「で、告白の返事は……」=So, will you...
-「付き合ってやんよ。そ、その……私も前から気になってたし」=Yeah, I'll go out with you. It's, u-uhm... I've been into you for a while too.
+//「んなっ！？　ばっ……お前、ふざけてんのか！？」=
+//「ふざけてこんなこと言うわけないだろ。本当に好きなんだよ」=
+//「そ、そうか……それで私のどこが好きになったんだよ」=
+//「全部だよ。そういうツッパったところも全部含めて好きなんだ」=
+//「全部ってそんなわけないだろ……でも、嬉しいよ」=
+//「で、告白の返事は……」=
+//「付き合ってやんよ。そ、その……私も前から気になってたし」=

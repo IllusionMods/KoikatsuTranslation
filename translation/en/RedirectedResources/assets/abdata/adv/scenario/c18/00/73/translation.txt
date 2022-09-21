@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-………………=.........
-…………=......
-……=...
-「おつかれさまでした。意外と何とかなるものですね！」=Good work. It actually seems like it'll work out somehow, doesn't it?!
+//………………=
+//…………=
+//……=
+//「おつかれさまでした。意外と何とかなるものですね！」=

@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「……エッチな声をシャウトしちゃったんだなぁ」=“...We were really letting the world hear our moans there, weren't we?”
-「歌声だけじゃなくて、そっちも好きだよ、俺。[H名]いい声してるから」=“I love your moans just as much as your singing voice too. You just have a really nice voice, [H].”
-「ほ、褒めらましたが、喜んでいいか悩みどころですな……」=“I-I don't know whether to be happy or not, about that compliment...”
+//「……エッチな声をシャウトしちゃったんだなぁ」=
+//「歌声だけじゃなくて、そっちも好きだよ、俺。[H名]いい声してるから」=
+//「ほ、褒めらましたが、喜んでいいか悩みどころですな……」=

@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「あぁ、いいんじゃないか。で、教えてくれるのか？　それとも教わりたいのか？」=Aah, sure, why not? Then, do you want to be taught, or will you be doing the teaching?
-「うーん、どっちも……じゃダメかな？」=Well, both of them... is that too much?
-「フッ、欲張りな奴め。だがまぁ、悪くない答えだ。一緒にするとは、そういう事だからな」=Hah, ain't ya a greedy chap. But, well, that's not a bad answer. Doing it together has that sort of a meaning, afterall.
+//「あぁ、いいんじゃないか。で、教えてくれるのか？　それとも教わりたいのか？」=
+//「うーん、どっちも……じゃダメかな？」=
+//「フッ、欲張りな奴め。だがまぁ、悪くない答えだ。一緒にするとは、そういう事だからな」=

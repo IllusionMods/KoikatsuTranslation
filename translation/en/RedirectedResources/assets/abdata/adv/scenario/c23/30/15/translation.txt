@@ -1,5 +1,5 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「あ、え、えっと、こんなとこ見ちゃダメじゃあないかぁぁ（赤面）」=“Ah, e-erhm, don't look at me, I'm not decent~ >\\\\<”
-「もう！　は、恥ずかしいぃ……」=“Jeez! S-So embarrassing...”
+//「あ、え、えっと、こんなとこ見ちゃダメじゃあないかぁぁ（赤面）」=
+//「もう！　は、恥ずかしいぃ……」=

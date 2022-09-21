@@ -1,9 +1,0 @@
-//
-// Dumped for Koikatsu v5.1 by Mod Text Dump v0.6.0
-//
-
-// chara/deathweasel/no_head.unity3d
-なし=None
-
-// chara/nakay/bo_head_gizaba01.unity3d
-ギザ歯=Gizzard Teeth

@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「……すっかり暗くなっちゃったね。帰ろうか」=...It's gotten pitch dark. Let's go home, shall we?
-「時間、すぐ過ぎちゃったネ♡　今日は楽しかったヨ♡」=The time sure flew by♡ Today was a ton of fun♡
-「だね。また一緒に来ようね、遊園地」=Yah. Let's come again sometime, to this amusement park.
-「アナタと一緒ナラ、もうｈｏｍｅｓｉｃｋしないカラ、ジェットコースターも観覧車も、楽しもうネ♡」=I don't feel homesick anymore when I'm with you, so let's have tons of fun on both the roller coaster and the ferris wheel next time♡
-「うん！　きっと今日みたいに楽しいデートになるよ」=Yeah! I'm sure it'll be just as fun a date as today.
-「Ｙｅｓ♡　イツカ、ココがワタシの家だって言えるくらい、イッパイ来たいナ♡」=Yes♡ I want to come here lots, so that one day I can easily say that this country is my home♡
+//「……すっかり暗くなっちゃったね。帰ろうか」=
+//「時間、すぐ過ぎちゃったネ♡　今日は楽しかったヨ♡」=
+//「だね。また一緒に来ようね、遊園地」=
+//「アナタと一緒ナラ、もうｈｏｍｅｓｉｃｋしないカラ、ジェットコースターも観覧車も、楽しもうネ♡」=
+//「うん！　きっと今日みたいに楽しいデートになるよ」=
+//「Ｙｅｓ♡　イツカ、ココがワタシの家だって言えるくらい、イッパイ来たいナ♡」=

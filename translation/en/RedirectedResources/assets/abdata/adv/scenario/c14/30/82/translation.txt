@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-………………=.........
-…………=......
-……=...
-「うまかったな！　腹パンパンだ！」=That was great! My belly's all stuffed!
+//………………=
+//…………=
+//……=
+//「うまかったな！　腹パンパンだ！」=

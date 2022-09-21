@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「おはよう、[P]。我と会えぬ漆黒の時間は苦痛であったであろう」=“Good morning, [P]. I imagine that time spent without my presence next to thee must have been painful.”
-「まぁ、そうだね」=“Well, in a way.”
-「そうであろうと思った。汝と我は今や魂で繋がっているのだ。手に取るようにわかったぞ」=“I thought as much. At this point, our souls are but connected. I could tell from just holding thine hand.”
+//「おはよう、[P]。我と会えぬ漆黒の時間は苦痛であったであろう」=
+//「まぁ、そうだね」=
+//「そうであろうと思った。汝と我は今や魂で繋がっているのだ。手に取るようにわかったぞ」=

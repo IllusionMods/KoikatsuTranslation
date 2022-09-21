@@ -1,21 +1,21 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「わぁ……ここから見上げると、お空がすっごく広い！　やっぱりこういうところは気持ちいいね！」=Waah... looking at it from here, the sky looks so wide! Places like these really do feel great, don't they!
-「あはは、[H名]って、こういう自然な場所好きなんだ？」=Ahaha, you like natural stuff like this, [H]?
-「うん、好きかも……特にね、お空を見上げるのが好きなんだ。視界に建物が入らなくて、真っ青な色だけになるの……気持ちいいでしょ？」=Yeah, I do... especially looking at the sky like this. Just a pure expanse of blue, without any buildings at all... feels great, no?
-「ああ、分かるかも。解放感っていうか……嫌なこととか全部忘れられるよね」=Aah, I feel you. It feels so liberating, or rather... you can almost forget everything bad in your life for a second.
-「そうそう。嫌なことは忘れられるし、楽しいことは倍増するの。今、こうやって君と一緒に見上げてて……私、すごく幸せで……楽しいもん」=Exactly. It helps you forget all the bad things in life, and makes fun things twice as fun. Looking at the sky together with you... is so much fun... I'm happy right now.
-「[H名]……」=[H名]...
-「……って、えへへ、私、すっごく恥ずかしいこと言っちゃってるかも……ごめんね。デートだから舞い上がってるみたい」=...Wuh, ehehe, I might be saying super embarrassing stuff here... I'm sorry. Seems like being on a date's brought out my excitement.
-「ううん、俺も舞い上がってるから分かるよ。[H名]と一緒に見上げる空、確かに楽しいかも」=No, I feel the same way, so don't worry. Looking at the sky with you like this is fun for sure.
-「でしょでしょ？　例えばー、ほら、見て見て、あの雲。何だかクロワッサンに似てない？」=Right, right? For example~, look, over there. That cloud. Doesn't it kinda look like a croissant?
-「似てるかも！　お、あの雲はフランクフルトっぽいよね」=It kinda does! Oh, that one looks like a frankfurter, no?
-「わぁ、本当だ！　それじゃ……えーっと……えーっと……あ、あの雲！　ソフトクリーム！」=Waah, you're right! Let's see then... erhm... erm... ah, that one! An ice cream cone!
-「見える見える！　それじゃあっちは……ワッフルかなぁ……」=I see it, I see it! Well then, that one is... a waffle?...
-「あはは、あれはただの四角い雲だよー。でも……うん、言われてみればワッフルに見えるかも……美味しそう……」=Ahaha, that's just a square~. But... yeah, now that you say it, I think I can see a waffle... looks so tasty...
-「っていうかさ、全部、食べ物に見えてるよね……[H名]、お腹減ってる？」=Actually, haven't they all been food items so far... [H名], you hungry?
-「あ、あはは……実は……ちょっとだけ減っちゃってます……」=A-Ahaha... the truth is... a little bit...
-「良かった！　俺もなんだ。それじゃ……何かその辺りで買って食べよっか」=Great! Me too. Well then... let's go buy something from over there.
-「うんっ！　えへへ、やっぱりお空のおかげで、楽しいことが倍増したよー！」=Okay--! Ehehe, see, thanks to the sky, the fun stuff became twice as fun~!
-（買い食い一つでこんなに喜んでくれるなんて……[H名]、本当に可愛いよな）=(To think she'd get so happy over some street food... she really is just so adorable)
+//「わぁ……ここから見上げると、お空がすっごく広い！　やっぱりこういうところは気持ちいいね！」=
+//「あはは、[H名]って、こういう自然な場所好きなんだ？」=
+//「うん、好きかも……特にね、お空を見上げるのが好きなんだ。視界に建物が入らなくて、真っ青な色だけになるの……気持ちいいでしょ？」=
+//「ああ、分かるかも。解放感っていうか……嫌なこととか全部忘れられるよね」=
+//「そうそう。嫌なことは忘れられるし、楽しいことは倍増するの。今、こうやって君と一緒に見上げてて……私、すごく幸せで……楽しいもん」=
+//「[H名]……」=
+//「……って、えへへ、私、すっごく恥ずかしいこと言っちゃってるかも……ごめんね。デートだから舞い上がってるみたい」=
+//「ううん、俺も舞い上がってるから分かるよ。[H名]と一緒に見上げる空、確かに楽しいかも」=
+//「でしょでしょ？　例えばー、ほら、見て見て、あの雲。何だかクロワッサンに似てない？」=
+//「似てるかも！　お、あの雲はフランクフルトっぽいよね」=
+//「わぁ、本当だ！　それじゃ……えーっと……えーっと……あ、あの雲！　ソフトクリーム！」=
+//「見える見える！　それじゃあっちは……ワッフルかなぁ……」=
+//「あはは、あれはただの四角い雲だよー。でも……うん、言われてみればワッフルに見えるかも……美味しそう……」=
+//「っていうかさ、全部、食べ物に見えてるよね……[H名]、お腹減ってる？」=
+//「あ、あはは……実は……ちょっとだけ減っちゃってます……」=
+//「良かった！　俺もなんだ。それじゃ……何かその辺りで買って食べよっか」=
+//「うんっ！　えへへ、やっぱりお空のおかげで、楽しいことが倍増したよー！」=
+//（買い食い一つでこんなに喜んでくれるなんて……[H名]、本当に可愛いよな）=

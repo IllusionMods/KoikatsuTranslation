@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「……んぅ。おい、おまえから誘ったのだ。何か喋ったらどうなんだ？」=......Nnn. Hey, you were the one who invited me. How about we chat about something?
-「あっ、ご、ごめん。この状況に少し緊張してたみたい。あー、えっと、えーと……」=Ah--, s-sorry. I got a bit nervous in this situation, it seems. Ah--, Erm, Errhmm...
-「プッ、慌てずゆっくり考えろ。おまえなら私が抱腹絶倒するような話を思いつくはずだ」=Pfft, take your time and think upon it carefully. I'm sure you can come up with something that'll make me absolutely hysterical.
-「ちょ、ハードル上げないでよ！」=Wai--, don't raise the bar even higher!
+//「……んぅ。おい、おまえから誘ったのだ。何か喋ったらどうなんだ？」=
+//「あっ、ご、ごめん。この状況に少し緊張してたみたい。あー、えっと、えーと……」=
+//「プッ、慌てずゆっくり考えろ。おまえなら私が抱腹絶倒するような話を思いつくはずだ」=
+//「ちょ、ハードル上げないでよ！」=

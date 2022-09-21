@@ -1,11 +1,11 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-ワイシャツ=Dress Shirt
-ワイシャツ襟開け=Dress Shirt (Opened Collar)
-ワイシャツベスト=Vest And Dress Shirt
-ワイシャツパーカー=Parka And Dress Shirt
-肩吊りワイシャツ=Shoulder-Hung Dress Shirt
-体操着=Gym Uniform
-キャミソール=Camisole
-ノースリーブシャツ=Sleeveless Dress Shirt
+//ワイシャツ=
+//ワイシャツ襟開け=
+//ワイシャツベスト=
+//ワイシャツパーカー=
+//肩吊りワイシャツ=
+//体操着=
+//キャミソール=
+//ノースリーブシャツ=

@@ -1,16 +1,16 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「ワタシたち、そろそろもう一歩上の段階に行けると思うんだ」=“I think we should take the next step in our relationship.”
-「もう一歩上の段階って？」=“And that would be?”
-「互いに愛称で呼び合うのですぞ。ゲームの幼馴染同士じゃよくあるあれです」=“Calling each other by nicknames. You know, the thing that childhood friends in games often do.”
-「なるほどね……。面白そうだし、やってみようか」=“I see... Sounds fun, let's try it.”
-「ふふ、実はもうあなたのは考えてあるんだなぁ。お披露目しますぞ」=“Fufuh, I've actually already thought of one for you. Brace yourself.”
-「ごほん……[Pあだ名]。どうかな？　けっこう自信作ですぞー」=“*cough*... [Pあだ名]. How is it? I put a lot of thought into it~”
-「おっ、しっくり来るかも……じゃあ今度はこっちだ。……[Hあだ名]」=“Oh--, I could get used to that. ...Guess it's my turn then. ...[Hあだ名].”
-「ほう……やりますねぇ」=“Hoh... that'll do it~”
-「そっちこそやるじゃないか」=“Yours wasn't half bad either.”
-「ふ、ふふ……けっこう恥ずかしいから、今日はもうやめておきますか」=“Fuh, fufuh... it's pretty darn embarrassing though, so let's stop here for today.”
-「そうだね……顔が熱いや」=“Yeah... my face's burning up.”
-「ふふ、勝負は引き分けってことで……またやろうね」=“Fufuh, this match's a draw then... let's do it again, okay?”
-（勝負だったのか……！？）=(It was a match...?!)
+//「ワタシたち、そろそろもう一歩上の段階に行けると思うんだ」=
+//「もう一歩上の段階って？」=
+//「互いに愛称で呼び合うのですぞ。ゲームの幼馴染同士じゃよくあるあれです」=
+//「なるほどね……。面白そうだし、やってみようか」=
+//「ふふ、実はもうあなたのは考えてあるんだなぁ。お披露目しますぞ」=
+//「ごほん……[Pあだ名]。どうかな？　けっこう自信作ですぞー」=
+//「おっ、しっくり来るかも……じゃあ今度はこっちだ。……[Hあだ名]」=
+//「ほう……やりますねぇ」=
+//「そっちこそやるじゃないか」=
+//「ふ、ふふ……けっこう恥ずかしいから、今日はもうやめておきますか」=
+//「そうだね……顔が熱いや」=
+//「ふふ、勝負は引き分けってことで……またやろうね」=
+//（勝負だったのか……！？）=

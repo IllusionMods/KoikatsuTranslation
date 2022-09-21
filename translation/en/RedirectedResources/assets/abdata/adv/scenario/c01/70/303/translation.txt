@@ -1,17 +1,17 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「そろそろ刻限が近づいてきましたね」=“The time for us to leave is almost at hand.”
-CHOICE:『延長する』=Extend
-CHOICE:『延長しない』=Don't extend
-「[H名]、時間ある？　出来れば、延長したいんだけど……」=“[H], do you have time? I'd love to extend it, if we can...”
-「はい。私も喉の調子が整ってきたところでしたから、よろしくお願いします」=“Yes. My throat has just finished warming up as well, so please.”
-「ありがとう！　じゃあ、延長の電話しちゃうね」=“Thanks! I'll put in the call then.”
-「そうだね、そろそろ帰る準備しようか」=“Right, let's pack up and get ready to head out.”
-「はい。とても楽しいお時間でした……あなたさえよろしければ、また連れてきてくださいますか？」=“Yes. I had a splendid time... if it's alright with you, will you please bring me here again?”
-「もちろん。また[H名]の綺麗な歌声を聞かせてほしいな……っと、会計済ましちゃおうか」=“Of course. I'd love to hear that beautiful voice of yours again... alright, guess I'll go settle the bill then.”
-「最後に一曲歌ったら帰ろうか。[H名]が入れていいよ」=“Let's sing one last song and go home. You can have it, [H].”
-「よろしいんですか？　ではお言葉に甘えてあの曲を……」=“Are you sure? I shall take you up on that then, please put in that song...”
-（お、『青空アドベンチャー』だ。初めの方に覚えた曲みたいだし、お気に入りなんだろうな）=(Ooh, it's「Blue Sky Adventure」again. Seems like it's the first song she learned, she probably likes it a lot.)
-『小さな手の平 掴める物は きっと限られているけど～♪』=『This small hand, the things it can grasp, they are surely limited, but~』
-「いぇいぇい！」=“Yeah yeah!”
+//「そろそろ刻限が近づいてきましたね」=
+//CHOICE:『延長する』=
+//CHOICE:『延長しない』=
+//「[H名]、時間ある？　出来れば、延長したいんだけど……」=
+//「はい。私も喉の調子が整ってきたところでしたから、よろしくお願いします」=
+//「ありがとう！　じゃあ、延長の電話しちゃうね」=
+//「そうだね、そろそろ帰る準備しようか」=
+//「はい。とても楽しいお時間でした……あなたさえよろしければ、また連れてきてくださいますか？」=
+//「もちろん。また[H名]の綺麗な歌声を聞かせてほしいな……っと、会計済ましちゃおうか」=
+//「最後に一曲歌ったら帰ろうか。[H名]が入れていいよ」=
+//「よろしいんですか？　ではお言葉に甘えてあの曲を……」=
+//（お、『青空アドベンチャー』だ。初めの方に覚えた曲みたいだし、お気に入りなんだろうな）=
+//『小さな手の平 掴める物は きっと限られているけど～♪』=
+//「いぇいぇい！」=

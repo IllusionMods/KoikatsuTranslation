@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「さすが、男の子はいい食べっぷりね～。惚れ惚れしちゃう」=Man, boys sure eat well~. It's so enchanting.
-「ねぇ……私も、どう？　いい感じに熟れて、食べ頃よ♪」=Hey... how about me? I'd go down pretty good you know, perfect for snacking on♪
-「ぶふっ！？　ちょ、食べてる時に変な事言わないで……」=Buffuu--!? C-Come on, don't say weird stuff while we're eating...
+//「さすが、男の子はいい食べっぷりね～。惚れ惚れしちゃう」=
+//「ねぇ……私も、どう？　いい感じに熟れて、食べ頃よ♪」=
+//「ぶふっ！？　ちょ、食べてる時に変な事言わないで……」=

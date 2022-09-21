@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「わ、我に貢ぎ物！？　よ、良き心がけである」=“A-A tribute for me!? W-What a good attitude.”
+//「わ、我に貢ぎ物！？　よ、良き心がけである」=

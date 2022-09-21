@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「……あなたと話す時間は、楽しいから好き」=“...Spending time chatting with you is fun, so I love it.”
-「はは、そういってもらえると嬉しいよ」=“Haha, that's quite nice of you to say.”
-「……あなたのする話は、面白いから全部覚えてる」=“...The things you tell me are, really fun so, I remember them all.”
-「だから……また話を聞かせて」=“So... talk to me again.”
-「任せて、今度も面白い話をきかせるからさ」=“Leave it to me, I'll tell you lots more fun stuff next time.”
-「……うん」=“...Okay.”
-「じゃあ……またね」=“Then... see you.”
+//「……あなたと話す時間は、楽しいから好き」=
+//「はは、そういってもらえると嬉しいよ」=
+//「……あなたのする話は、面白いから全部覚えてる」=
+//「だから……また話を聞かせて」=
+//「任せて、今度も面白い話をきかせるからさ」=
+//「……うん」=
+//「じゃあ……またね」=

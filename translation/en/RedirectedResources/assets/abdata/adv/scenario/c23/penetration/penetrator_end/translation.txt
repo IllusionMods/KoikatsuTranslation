@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「突然の凸に付き合ってくれて、その……あ、ありがとう……」=“I know it was really out of the blue, so uhm... t-thanks for playing along...”
+//「突然の凸に付き合ってくれて、その……あ、ありがとう……」=

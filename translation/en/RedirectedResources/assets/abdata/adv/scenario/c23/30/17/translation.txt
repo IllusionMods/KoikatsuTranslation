@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「んーっ、よく寝た。……あれ？　メモがある。なになに――」=“Mmm, I slept well. ...Oh? There's a letter. What's it say...?”
-『おはよう (^m^ )先に学園行ってるね』=「Morning~ (^m^ ), I'm heading out first, okay?」
-『アニメグッズを置いていったよ。聖地（アニメの）で手に入れた物だよ』=「I left you a plushie. I got it at the Holy Land (TLN: IRL location from anime).」
-『寂しくなったら、それを見て元気をだすのだぁ　[H]』=「Look at it and stroke it and stuff if you ever feel lonely~. [H].」
+//「んーっ、よく寝た。……あれ？　メモがある。なになに――」=
+//『おはよう (^m^ )先に学園行ってるね』=
+//『アニメグッズを置いていったよ。聖地（アニメの）で手に入れた物だよ』=
+//『寂しくなったら、それを見て元気をだすのだぁ　[H]』=

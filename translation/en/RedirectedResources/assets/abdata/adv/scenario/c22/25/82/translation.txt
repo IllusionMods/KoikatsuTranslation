@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-………………=.........
-…………=......
-……=...
-「私、もうお腹いっぱい！　午後の授業、眠くなっちゃうかも」=My belly's all full! I might end up napping during the afternoon classes.
-「んーっ、満足満足♪」=Nnn~, I'm stuffed♪
+//………………=
+//…………=
+//……=
+//「私、もうお腹いっぱい！　午後の授業、眠くなっちゃうかも」=
+//「んーっ、満足満足♪」=

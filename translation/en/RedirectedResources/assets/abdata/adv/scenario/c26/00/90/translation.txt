@@ -1,16 +1,16 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「ねえ……愛称で呼び合ってみたい」=“Hey... I want us to try using nicknames.”
-「いいね。じゃあお互いの愛称を考えてみよっか」=“Sounds fun. Then, let's think of nicknames for each other.”
-「……どんなのがいいんだろう？」=“...What sort would be nice?”
-「そう難しく考える事ないんじゃないかな。直観というか、感覚でさ」=“I don't think you need to think so deeply about it. Just go with your gut.”
-「なるほど……わかった。じゃあ……」=“I see... got it. Then...”
-「……[Pあだ名]」=“...[Pあだ名].”
-「おー、いいんじゃないかな。俺は好きだよ」=“Oh, that's pretty good. I love it.”
-「……あなたは、思いついた？」=“...Have you, thought of one?”
-「うーん……[Hあだ名]、なんてどう？」=“Nnn... How's, [Hあだ名]?”
-「……悪くない、響き」=“...Doesn't sound, bad.”
-「……また、愛称で呼んでみても、いい？」=“...Could we, call each other that, again?”
-「もちろん。気に入ったの？」=“Of course. Guess you're a fan?”
-「……わりと」=“...Pretty much.”
+//「ねえ……愛称で呼び合ってみたい」=
+//「いいね。じゃあお互いの愛称を考えてみよっか」=
+//「……どんなのがいいんだろう？」=
+//「そう難しく考える事ないんじゃないかな。直観というか、感覚でさ」=
+//「なるほど……わかった。じゃあ……」=
+//「……[Pあだ名]」=
+//「おー、いいんじゃないかな。俺は好きだよ」=
+//「……あなたは、思いついた？」=
+//「うーん……[Hあだ名]、なんてどう？」=
+//「……悪くない、響き」=
+//「……また、愛称で呼んでみても、いい？」=
+//「もちろん。気に入ったの？」=
+//「……わりと」=

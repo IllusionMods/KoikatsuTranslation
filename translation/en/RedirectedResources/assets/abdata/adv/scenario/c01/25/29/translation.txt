@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「私が欲しかった物をプレゼントしてくれるなんて……もしかしてエスパーですか？」=“I can't believe you'd give me exactly what I wanted... are you a telepath, by any chance?”
+//「私が欲しかった物をプレゼントしてくれるなんて……もしかしてエスパーですか？」=

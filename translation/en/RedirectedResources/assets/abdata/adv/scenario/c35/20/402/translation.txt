@@ -1,23 +1,23 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「あ……この香り……焼きたてのパンの香りなん……温かくて香ばしくて……何か幸せな気分になるん……えへへ……」=Ah... this aroma... the aroma of freshly baked bread... So warm and appetizing... It makes me so happy, for some reason... ehehe...
-「……って、わぁっ、ごめんねっ！　別のテーブルに運ばれたお料理の匂いに反応するとかっ……ちょっと恥ずかしかったん！」=...--wuh, waah--, sorry--! I unconciously started reacting to the smell of food from someone else's table... that must have been embarrassing!
-「あはは、そんなことないよ。確かに良い匂いだし……つい反応しちゃうあたり、[H名]っぽいなぁって思うよ」=Ahaha, not really. It really is a nice aroma... It was just like you, to react to it unconsciously, in my opinion.
-「うぅぅ……私、君からどげん感じに見られとーとかいな……ちょっと気になってきたん……」=Uuuu... I'm getting curious now... just what sort of image do have of me in your head...
-「えーっと……素直で純粋で可愛いって思ってるけど……変？」=Erhm... I just think you're frank and genuine and cute but... is it weird?
-「わぁぁぁっ！　へ、変じゃないけどっ……ストレートにそげんこと言われたら……ますます恥ずかしくなるんっ……」=waaah--! I-It's not weird but--... saying it so directly like that... I'll get even more embarrassed--...
-「そういうところも可愛いと思うんだけどなぁ」=That side of you is really cute too though.
-「はぅぅっ……も、もーっ！　私で遊んどるやろ、絶対」=Hauuu--... J-Jeez--! You're just playing with me, aren't you? I'm sure.
-「あはは、そんなことないってば」=Ahaha, I'm not, I'm not.
-（こういう反応が可愛いと思うんだけど、そういうこと言うとますます照れちゃいそうだよな）=(Even that reaction is really cute but, if I say it out loud, she's just going to get even more shy.)
-「でもさ、実際、こういうところで嗅ぐ料理の香りって、特に美味しそうだよね。家とは全く違うし……」=But you know, the aroma of food is really potent in places like these, isn't it? It's completely different from home...
-「あ……うん、そうやね。自分でお料理しとったら、最初からずっと香りの中におるけん……出来立てがふわっと香る感覚ってあんまりないん」=Ah... yeah, you're right. When you cook at home, you get to smell the aroma of food right from the start... You don't really get a hit of the smell of freshly cooked food.
-「そっか。[H名]って料理するんだもんね。あ、それじゃあさ、今度、ぜひ俺にも作ってくれない？」=I see. You cook your own food, huh? Ah, then, will you make something handmade for me one of these days?
-「[H名]が作ってくれた手料理の出来たての香り、絶対美味しそうな匂いだと思うし……どんな香りだか、俺が感想を伝えてあげるよ」=I'm sure whatever you make will smell absolutely delicious... I can tell you my impressions of it, just what exactly it smells like.
-「うわぁ、それって……何か味に期待されるよりも緊張するやん。えーっと、えーっと……うん、まずは香りが良いお料理のレシピから調べとくね！」=Uwah, that... that sounds even worse than just trying to get the taste right. Erhm, erhm... yeah, I guess I'll try looking for recipes for food that smells good in particular!
-「あ、あはは……私、家じゃ全くお料理せんけん、家族に作ってもらっとーっちゃけど……それはそれで、香りにも慣れとーもんね」=A-Ahaha... I don't really cook all that much at home, I just eat whatever my parents make... In that way, I guess I'm used to the aroma of food at home.
-「そっか、ご家族が作ってくれた料理の香りかぁ……一人暮らししてると、そういう香りって感じられないから、ちょっと羨ましいかも」=I see, the aroma of food your parents make, huh... I don't really get to smell that sort of thing all that often, since I live alone, so I'm a bit jealous.
-「あ……えーっと……やったら私、お料理練習しようかいな……君のこと、胃袋から捕まえんといかんもん。頑張る！」=Ah... erhm... in that case, maybe I'll learn how to cook... They do say that the way to a man's heart is through his stomach. I'll do my best!
-「あはは、それは嬉しいかも。機会があったら是非作って。好きな人の手料理なんて美味しいに決まってるし」=Ahaha, that makes me happy. If you get the chance, definitely make me something. Whatever you cook will be delicious enough in my eyes.
-「わぁ！　さり気なくハードル上げんどってよー！」=Waah! Don't just nonchalantly raise the bar like that!
+//「あ……この香り……焼きたてのパンの香りなん……温かくて香ばしくて……何か幸せな気分になるん……えへへ……」=
+//「……って、わぁっ、ごめんねっ！　別のテーブルに運ばれたお料理の匂いに反応するとかっ……ちょっと恥ずかしかったん！」=
+//「あはは、そんなことないよ。確かに良い匂いだし……つい反応しちゃうあたり、[H名]っぽいなぁって思うよ」=
+//「うぅぅ……私、君からどげん感じに見られとーとかいな……ちょっと気になってきたん……」=
+//「えーっと……素直で純粋で可愛いって思ってるけど……変？」=
+//「わぁぁぁっ！　へ、変じゃないけどっ……ストレートにそげんこと言われたら……ますます恥ずかしくなるんっ……」=
+//「そういうところも可愛いと思うんだけどなぁ」=
+//「はぅぅっ……も、もーっ！　私で遊んどるやろ、絶対」=
+//「あはは、そんなことないってば」=
+//（こういう反応が可愛いと思うんだけど、そういうこと言うとますます照れちゃいそうだよな）=
+//「でもさ、実際、こういうところで嗅ぐ料理の香りって、特に美味しそうだよね。家とは全く違うし……」=
+//「あ……うん、そうやね。自分でお料理しとったら、最初からずっと香りの中におるけん……出来立てがふわっと香る感覚ってあんまりないん」=
+//「そっか。[H名]って料理するんだもんね。あ、それじゃあさ、今度、ぜひ俺にも作ってくれない？」=
+//「[H名]が作ってくれた手料理の出来たての香り、絶対美味しそうな匂いだと思うし……どんな香りだか、俺が感想を伝えてあげるよ」=
+//「うわぁ、それって……何か味に期待されるよりも緊張するやん。えーっと、えーっと……うん、まずは香りが良いお料理のレシピから調べとくね！」=
+//「あ、あはは……私、家じゃ全くお料理せんけん、家族に作ってもらっとーっちゃけど……それはそれで、香りにも慣れとーもんね」=
+//「そっか、ご家族が作ってくれた料理の香りかぁ……一人暮らししてると、そういう香りって感じられないから、ちょっと羨ましいかも」=
+//「あ……えーっと……やったら私、お料理練習しようかいな……君のこと、胃袋から捕まえんといかんもん。頑張る！」=
+//「あはは、それは嬉しいかも。機会があったら是非作って。好きな人の手料理なんて美味しいに決まってるし」=
+//「わぁ！　さり気なくハードル上げんどってよー！」=

@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「運動？　やるやる！　楽しそうじゃん！　で、なにしよっか？」=Exercise? For sure! Sounds great! So, what're we gonna do?
-「２人でできる運動ね……」=An exercise for 2 people, hmm...
-「うーん。何があるかなぁ……」=Mmm. I wonder if there is something...
+//「運動？　やるやる！　楽しそうじゃん！　で、なにしよっか？」=
+//「２人でできる運動ね……」=
+//「うーん。何があるかなぁ……」=

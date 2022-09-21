@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「なぁ、テスト勉強っていつもどれくらいしてる？」=“Hey, just how much do you study for tests usually?”
-「うーん、教科によるかな。得意なのは一夜漬けでもなんとかなったりするし」=“Nnn, depends on the subject, I'd say? If it's a subject I'm good at, a night's cramming all I need.”
-「参考にならない解答どーも。はぁ、地道にやるしかないかぁ」=“Thanks for that, such helpful advice. Haah, I guess there's nothing but to do it.”
-「あはは、一緒に頑張ろうよ」=“Ahaha, let's do our best together.”
+//「なぁ、テスト勉強っていつもどれくらいしてる？」=
+//「うーん、教科によるかな。得意なのは一夜漬けでもなんとかなったりするし」=
+//「参考にならない解答どーも。はぁ、地道にやるしかないかぁ」=
+//「あはは、一緒に頑張ろうよ」=

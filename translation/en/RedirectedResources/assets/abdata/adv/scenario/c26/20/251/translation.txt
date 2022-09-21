@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-（ふぅ、もうすぐ駅だな。……今日のデートも[H名]を喜ばせられたよな……？）=(Fuu, almost at the station. ...I made her happy today too, right...?)
-（観覧車では、まあまあいい雰囲気になれてたし……）=(We got a pretty good mood going in that ferris wheel right too, so...)
-（……うん、これに満足せず、次はもっといいデートにできるよう頑張ろう！）=(...Yeah, I can't be satisfied with just this, gotta make our next date an even better one!)
+//（ふぅ、もうすぐ駅だな。……今日のデートも[H名]を喜ばせられたよな……？）=
+//（観覧車では、まあまあいい雰囲気になれてたし……）=
+//（……うん、これに満足せず、次はもっといいデートにできるよう頑張ろう！）=

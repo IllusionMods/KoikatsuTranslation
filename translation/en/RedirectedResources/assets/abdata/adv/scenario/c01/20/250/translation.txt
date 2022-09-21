@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「ふぅ……なんだか一気に現実に返ってきた気分だ」=“Fuu... feels like I just got dragged back into reality in one go.”
-「きっと遊園地でかけてもらった魔法が解けてしまったんでしょうね」=“The magic of the amusement park probably melted away, I imagine.”
-「そっかぁ……なら、また二人で魔法をかけてもらいに行かないとだね」=“I see... we'll just have to come here again, to get that magic spell put on us again then.”
+//「ふぅ……なんだか一気に現実に返ってきた気分だ」=
+//「きっと遊園地でかけてもらった魔法が解けてしまったんでしょうね」=
+//「そっかぁ……なら、また二人で魔法をかけてもらいに行かないとだね」=

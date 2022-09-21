@@ -1,12 +1,12 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「……すごく緊張してるね」=...You're sure nervous.
-「……私だって、初めてのデートは緊張するわよ？」=...Even I'm not so unfeeling, as to not get nervous on my first date, you know?
-「そ、そっか……それはそうだよね、ごめん」=R-Right... you're right, sorry.
-「そうよ……だから、エスコート、よろしくね」=Exactly... so, take care of me today, okay?
-「ふふっ……こうして誰かとふたりで歩くだけで楽しいなんて、不思議ね」=Fufu--... to think just walking along with someone like this could be so fun, how strange.
-「楽しんでもらえてるようで、何よりだよ」=I'm glad you're enjoying yourself.
-「あっ、今日はサンドイッチを作ってきたのよ、良かったら食べて」=Ah--, I made some sandwiches for us, eat them if you like.
-「おっ、ちょうどお腹が空いてたんだ……いただきまーす！」=Oh--, I was just feeling hungry... I'm digging in!
-「楽しい時間はあっという間だわ。でも、楽しかった……またしましょうね？」=Time flies when you're having fun. It really was a blast... let's do it again, okay?
+//「……すごく緊張してるね」=
+//「……私だって、初めてのデートは緊張するわよ？」=
+//「そ、そっか……それはそうだよね、ごめん」=
+//「そうよ……だから、エスコート、よろしくね」=
+//「ふふっ……こうして誰かとふたりで歩くだけで楽しいなんて、不思議ね」=
+//「楽しんでもらえてるようで、何よりだよ」=
+//「あっ、今日はサンドイッチを作ってきたのよ、良かったら食べて」=
+//「おっ、ちょうどお腹が空いてたんだ……いただきまーす！」=
+//「楽しい時間はあっという間だわ。でも、楽しかった……またしましょうね？」=

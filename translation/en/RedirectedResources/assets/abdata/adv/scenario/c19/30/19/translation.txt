@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「あ、おは……ふわぁぁ……あ、ご、ごめんなさい。本が面白くて徹夜しちゃったの」=Ah, morn--... fuwwaaah... ah, I-I'm sorry. The book I was reading was so interesting, I ended up staying up all night.
+//「あ、おは……ふわぁぁ……あ、ご、ごめんなさい。本が面白くて徹夜しちゃったの」=

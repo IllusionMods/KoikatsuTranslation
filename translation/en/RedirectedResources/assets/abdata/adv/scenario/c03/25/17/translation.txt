@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「んーっ、よく寝た。……あれ？　メモがある。なになに――」=“Nn--, I slept well. ...Huh? There's a note. Let's see----”
-『おはなのです。お寝坊さんせずにきちんと起きられたですか？』=「Good morning. Did you wake up on time without sleeping in too much?」
-『もっと[P]さんとぺったりしていたかったですけど、私、今日は早く行かなきゃいけないのです。悲しいです。残念です。悔しいです。ムキー！』=「I wanted to cling to you more, [P]-san, but I really have to leave early today. I feel super sad. Super disappointed. Super frustrated. Super mad!」
-『でも……学園で会えること、すっごく楽しみにしてるですよ。ほんのちょっとの間だけ離れるです。[P]さん、大好きなのです。[H]ちゃんより』=「But... I'm super looking forward to, seeing you at school too. We're gonna be apart for the tiniest little bit. I love you, [P]-san. From your [H]-chan」
+//「んーっ、よく寝た。……あれ？　メモがある。なになに――」=
+//『おはなのです。お寝坊さんせずにきちんと起きられたですか？』=
+//『もっと[P]さんとぺったりしていたかったですけど、私、今日は早く行かなきゃいけないのです。悲しいです。残念です。悔しいです。ムキー！』=
+//『でも……学園で会えること、すっごく楽しみにしてるですよ。ほんのちょっとの間だけ離れるです。[P]さん、大好きなのです。[H]ちゃんより』=

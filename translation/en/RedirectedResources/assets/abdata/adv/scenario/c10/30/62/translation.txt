@@ -1,13 +1,13 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-………………=.........
-…………=......
-……=...
-「……どうやら、別れの時がきてしまったようだ」=“...It seems like the time to part ways has come.”
-CHOICE:「せっかくだから俺の家にこない？」=“We've been this far already. Won't you come to my house?”
-CHOICE:「寂しいほど……次、会うのが楽しみになるよ」=“I'm so lonely... I'm looking forward to seeing you again.”
-「せっかくだから俺の家にこない？」=“We've been this far already. Won't you come to my house?”
-「わ、我を汝の居城に招待してくれるのか！　う、うれしい……」=“Y-you're inviting me to visit your domain! I'm so glad...”
-「寂しいほど……次、会うのが楽しみになるよ」=“I'm so lonely... I'm looking forward to seeing you again.”
-「ふむ……それはあるかもしれない。では、またな」=“Fumu... There may come another time. Well, see you later.”
+//………………=
+//…………=
+//……=
+//「……どうやら、別れの時がきてしまったようだ」=
+//CHOICE:「せっかくだから俺の家にこない？」=
+//CHOICE:「寂しいほど……次、会うのが楽しみになるよ」=
+//「せっかくだから俺の家にこない？」=
+//「わ、我を汝の居城に招待してくれるのか！　う、うれしい……」=
+//「寂しいほど……次、会うのが楽しみになるよ」=
+//「ふむ……それはあるかもしれない。では、またな」=

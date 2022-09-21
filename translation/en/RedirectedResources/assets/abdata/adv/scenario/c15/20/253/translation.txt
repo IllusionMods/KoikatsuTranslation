@@ -1,18 +1,18 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「うわぁ、結構人が乗ってきたな……ごめん、もう少しそっちに寄って！」=“Uwah, a whole lot of people started getting on... sorry, please move over a little bit more!”
-「こ、これ以上は行けないぞ……」=“T-There's no more space here...”
-「でも、こっちも押されて……わっ！」=“But, I'm getting pushed from behi... wah--!”
-(後ろから押されて、[H名]にくっついてしまった……)=(I got pushed straight into [H名]...)
-(あぁ、[H名]が近くに……柔らかくて、いい匂いがする……)=(Aah, she's so close to me... she's so soft, and smells really nice too...)
-CHOICE:『欲望に身を任せる』=Give in to your desires.
-CHOICE:『鉄の自制心で堪える』=Bear it with an iron will.
-（き、気持ちいけど、まずいぞ……このままだと、ムスコは完全に勃起しきってしまうっ）=(I-It feels good but, this is bad... at this rate, my son's gonna wake up--)
-（その前に、何とかしないと……なんとか……なん…………い、いや、せっかくだし、もう少しこのままでいても……）=(Gotta do something, before that... somehow... som... n-no, well, I might as well enjoy this sensation, for a little bit...)
-「……キミの、大きくなってるぞ。こんなところでも、そういう気分になっちゃうのかー？」=“...Your thing, it's getting bigger. Are you really gonna get into that mood, even though we're on a train?”
-「ごっ、ごめん！　さすがに[H名]とくっついてちゃ、どうしようもできなくて……」=“S--, Sorry! Being stuck to you like this, I just couldn't help myself...”
-「もう、仕方ないなー。だったら、あたしが小さくしてあげるぞ。このままにしておく訳にもいかないからな」=“Jeez, there's no helping you. In that case, I'll make it go all small again. We can't exactly walk out into the station with your tent pitching like that.”
-（い、いや、何を言ってるんだ俺！　柔らかい感触なんてしないし、いい匂いもしないだろう！？）=(N-No, what am I even saying! She doesn't feel soft at all, nor does she smell good, does she!?)
-（いい匂いしないぞ、柔らかくないぞっ。当たってるのは……えっと、ただの壁！　匂いの元は芳香剤だ！）=(She doesn't smell amazing, she's not soft at all--. I'm just... up against the wall, nothing else! The scent's just the air freshner!)
-（ぅ、自分を誤魔化そうにも、限度があるな……限界がきて勃ってしまう前にこの混雑が解消してくれるよう……もう、祈るしかないっ）=(Uu, even if I try to pretend otherwise, it's gonna hit its limit eventually... nothing to do be done about it... I can only pray that the congestion gets better by the time my self-control evaporates)
+//「うわぁ、結構人が乗ってきたな……ごめん、もう少しそっちに寄って！」=
+//「こ、これ以上は行けないぞ……」=
+//「でも、こっちも押されて……わっ！」=
+//(後ろから押されて、[H名]にくっついてしまった……)=
+//(あぁ、[H名]が近くに……柔らかくて、いい匂いがする……)=
+//CHOICE:『欲望に身を任せる』=
+//CHOICE:『鉄の自制心で堪える』=
+//（き、気持ちいけど、まずいぞ……このままだと、ムスコは完全に勃起しきってしまうっ）=
+//（その前に、何とかしないと……なんとか……なん…………い、いや、せっかくだし、もう少しこのままでいても……）=
+//「……キミの、大きくなってるぞ。こんなところでも、そういう気分になっちゃうのかー？」=
+//「ごっ、ごめん！　さすがに[H名]とくっついてちゃ、どうしようもできなくて……」=
+//「もう、仕方ないなー。だったら、あたしが小さくしてあげるぞ。このままにしておく訳にもいかないからな」=
+//（い、いや、何を言ってるんだ俺！　柔らかい感触なんてしないし、いい匂いもしないだろう！？）=
+//（いい匂いしないぞ、柔らかくないぞっ。当たってるのは……えっと、ただの壁！　匂いの元は芳香剤だ！）=
+//（ぅ、自分を誤魔化そうにも、限度があるな……限界がきて勃ってしまう前にこの混雑が解消してくれるよう……もう、祈るしかないっ）=

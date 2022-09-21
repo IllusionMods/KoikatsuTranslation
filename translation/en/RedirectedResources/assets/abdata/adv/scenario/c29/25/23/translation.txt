@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「あ、あの……こ、これを……」=U-Uhm... T-Take thi...
-「家庭科で作った、サンドイッチ……です」=I made this sandwich, during home-economics...
-「お口に合うかはわからないのですが……た、食べてみてほしいです」=I don't know if it'll be to your tastes or not but... I-I'd love it if you tried it.
+//「あ、あの……こ、これを……」=
+//「家庭科で作った、サンドイッチ……です」=
+//「お口に合うかはわからないのですが……た、食べてみてほしいです」=

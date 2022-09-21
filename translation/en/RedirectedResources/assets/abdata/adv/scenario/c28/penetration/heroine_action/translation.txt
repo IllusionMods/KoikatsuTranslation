@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「えっと……混ざりたいの？　……どうする？」=Erhm... You wanna join us? What do you wanna do?
+//「えっと……混ざりたいの？　……どうする？」=
 //「３人で？　……そうじゃのう、わしは別に構わぬぞ……？」=
 //「ほほう、わし達を相手にしたいとは、随分と殊勝な心がけじゃな。これで断るのも粋ではなかろうて♪」=

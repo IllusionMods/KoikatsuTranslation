@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「う～ん。アタシの好みじゃないけど、[P]くんがくれたし、大切にするね。とにかくありがと」=Mmm. It's not something I really like but, you're the one who gave it to me, so I'll treasure it. Anyways, thanks.
+//「う～ん。アタシの好みじゃないけど、[P]くんがくれたし、大切にするね。とにかくありがと」=

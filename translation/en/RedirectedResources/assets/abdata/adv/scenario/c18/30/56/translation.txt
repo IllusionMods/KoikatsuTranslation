@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「えっ……。冗談、じゃないんですか……」=Eh--... Are you, serious......
-「ごめん」=Sorry.
-「いえ……、私こそ至らない女でごめんなさい。それと、ありがとうございました」=No... I'm sorry, for being such incompetent woman. In addition, thank you very much.
-「今日まで、とても幸せでした。……っ、ごめんなさい、失礼しますね」=While we were together, I was extremely happy. ...--, I'm sorry, excuse me.
+//「えっ……。冗談、じゃないんですか……」=
+//「ごめん」=
+//「いえ……、私こそ至らない女でごめんなさい。それと、ありがとうございました」=
+//「今日まで、とても幸せでした。……っ、ごめんなさい、失礼しますね」=

@@ -1,23 +1,23 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「ふふふふっ……」=“Fufufufu--...”
-「ど、どうしたの？　不気味な笑みを浮かべて……」=“W-What's wrong? That's a really unnerving smile...”
-「いや、失礼。実はここ、ワタシの好きなアニメ美術監督が良く使う場所でして……」=“Oh, I'm sorry. The truth is, this is a place an anime art director whose work I really like often uses...”
-「えっ、そうなの？　どこが使われてるの？」=“Eh--, really? Which part?”
-「ふふ、あれは告白シーンに使われた噴水。あっちはプロポーズシーンに使われた木……」=“Fufu, that over there's the fountain he often uses for confession scenes. That's the tree he uses for proposals...”
-「そして最後のキスシーンに使われた高台……あそこはキャプチャーしたみたいにそのままなんですぞ」=“And, the hill he uses for kiss scenes... that whole spot, as-is.”
-「へー、そうなんだ。やっぱり[H名]は詳しいね」=“Hoh, I see. You really do know your stuff, [H].”
-「いや、大したことでは……」=“No, it's nothing that impressive...”
-「そうだ！　せっかくだから、その、アニメのシーンをふたりで再現してみない？」=“Right! We're here anyway so, uhm, how about we try to recreate those scenes from those anime?”
-「いいのかい！？」=“YOU SURE?!”
-「もちろんいいよ」=“Of course.”
-「じゃあ、早速お願いするんだなぁ！　えっと……噴水の前で告白するシーンをやってみたいですぞ！」=“Then, please! Erhm... I wanna try out the confession scene on front of the fountain!”
-「よりによって告白か……あー、ごほん……俺は、君が好きだ」=“The confession, of all things, huh... ah, *cough*... I love you.”
-「嬉しい……ワタシもあなたのことが大好きです」=“I'm so happy... I love you too.”
-「……真昼間にしかも人通りも多い時間帯にするのは、恥ずかしくない？」=“...Doesn't it feel embarrassing, doing this sort of thing in broad daylight, especially at a time when people are out and about?”
-「……ワ、ワタシもセリフを言ったあとでミスしたことに気づいたよ」=“...I-I realized that too, after I said it.”
-「ぷ。どうして最初に気付かなかったんだろうな」=“Pfft. Why didn't we notice it right away?”
-「ふふ、確かに。でも付き合ってくれてありがとう。嬉しかったですぞ♪」=“Fufu, for sure. But thanks for going along with me. It made me really happy♪”
-「どういたしまして。それじゃあ、公園を見てまわろうか？」=“You're very welcome. Well then, wanna check the park out?”
-「うん♪　デートを引き続き楽しみますぞー♪」=“Yeah♪ I'm looking forward to the rest of our date♪”
+//「ふふふふっ……」=
+//「ど、どうしたの？　不気味な笑みを浮かべて……」=
+//「いや、失礼。実はここ、ワタシの好きなアニメ美術監督が良く使う場所でして……」=
+//「えっ、そうなの？　どこが使われてるの？」=
+//「ふふ、あれは告白シーンに使われた噴水。あっちはプロポーズシーンに使われた木……」=
+//「そして最後のキスシーンに使われた高台……あそこはキャプチャーしたみたいにそのままなんですぞ」=
+//「へー、そうなんだ。やっぱり[H名]は詳しいね」=
+//「いや、大したことでは……」=
+//「そうだ！　せっかくだから、その、アニメのシーンをふたりで再現してみない？」=
+//「いいのかい！？」=
+//「もちろんいいよ」=
+//「じゃあ、早速お願いするんだなぁ！　えっと……噴水の前で告白するシーンをやってみたいですぞ！」=
+//「よりによって告白か……あー、ごほん……俺は、君が好きだ」=
+//「嬉しい……ワタシもあなたのことが大好きです」=
+//「……真昼間にしかも人通りも多い時間帯にするのは、恥ずかしくない？」=
+//「……ワ、ワタシもセリフを言ったあとでミスしたことに気づいたよ」=
+//「ぷ。どうして最初に気付かなかったんだろうな」=
+//「ふふ、確かに。でも付き合ってくれてありがとう。嬉しかったですぞ♪」=
+//「どういたしまして。それじゃあ、公園を見てまわろうか？」=
+//「うん♪　デートを引き続き楽しみますぞー♪」=

@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「ウチの授業はペースが速いですからね。復習ならお付き合いしますよ」=Well, the classes here are fast paced, indeed. If you need help with revision, I'll keep you company.
-「ありがとう！　この埋め合わせは後で必ずするから」=Thanks! I'll definitely make it up to you later.
-「対価を頂くほどのものでは。私の勉強にもなりますし、お気になさらず」=It's nothing, you don't need to go out of your way. I'll get some revision too anyway, don't worry about it.
+//「ウチの授業はペースが速いですからね。復習ならお付き合いしますよ」=
+//「ありがとう！　この埋め合わせは後で必ずするから」=
+//「対価を頂くほどのものでは。私の勉強にもなりますし、お気になさらず」=

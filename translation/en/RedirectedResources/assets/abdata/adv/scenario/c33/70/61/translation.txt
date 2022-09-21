@@ -1,17 +1,17 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「遅れてごめんなさい、準備に手間取っちゃって……」=I'm sorry for being late. I got held up dealing with stuff...
-「大丈夫だよ。頑張って準備してくれた[H名]さんと歩けた方が嬉しいからね」=It's alright. It makes me that much happier that you went out of your way to deal with stuff in order to walk with me.
-「……ねえ、今日はあそこに入ってみない？」=...Hey, how about we try going there today?
-「え、でも大丈夫かな、俺たち学生だし……」=Eh, Is it really fine though? We're students...
-「もしかしたら入口で止められるかもね。でも、入れた後のことを想像してみて？」=Maybe we'll get stopped at the door. But just try thinking of what it'll be like if we get in.
-「ゴクリ……よ、よし、行ってみよう」=*gulp*... A-Alright, Let's give it a try.
-「ふふ、別に犯罪じゃないんだから堂々としていれば大丈夫よ」=Fufu, it's not like it's a crime, so it'll be fine as long as we walk in confidently.
-「今日は一日中ドキドキだったわね。また行きましょうね」=Today, my heart was racing the whole time. Let's go there again someday.
-CHOICE:「もうちょっと一緒にすごさない？」=[Can't we stay together just a bit longer?]
-CHOICE:「俺もだよ。それじゃあまたね」=[Same here. Then, till next time]
-「もう少し一緒にいたいな」=I want to be together for just a bit longer.
-「……ええ、私も同じ気持ちよ」=......Yes, I feel the same way.
-「うん、また行こう。それじゃあね」=Yeah, let's. Then, later.
-「ええ、また学園でね」=Yes, let's meet at the school again.
+//「遅れてごめんなさい、準備に手間取っちゃって……」=
+//「大丈夫だよ。頑張って準備してくれた[H名]さんと歩けた方が嬉しいからね」=
+//「……ねえ、今日はあそこに入ってみない？」=
+//「え、でも大丈夫かな、俺たち学生だし……」=
+//「もしかしたら入口で止められるかもね。でも、入れた後のことを想像してみて？」=
+//「ゴクリ……よ、よし、行ってみよう」=
+//「ふふ、別に犯罪じゃないんだから堂々としていれば大丈夫よ」=
+//「今日は一日中ドキドキだったわね。また行きましょうね」=
+//CHOICE:「もうちょっと一緒にすごさない？」=
+//CHOICE:「俺もだよ。それじゃあまたね」=
+//「もう少し一緒にいたいな」=
+//「……ええ、私も同じ気持ちよ」=
+//「うん、また行こう。それじゃあね」=
+//「ええ、また学園でね」=

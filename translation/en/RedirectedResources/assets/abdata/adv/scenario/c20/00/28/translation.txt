@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「え……？　これ、もらっていいんですか？　あ、ありがとうございます！」=Eh...? Are you sure I can have this? T-Thank you very much!
+//「え……？　これ、もらっていいんですか？　あ、ありがとうございます！」=

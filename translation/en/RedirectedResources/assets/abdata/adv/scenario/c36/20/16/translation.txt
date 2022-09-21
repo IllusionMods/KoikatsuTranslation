@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-（ん？　そうか、昨日はあの後すぐ寝ちゃったのか……って、何だ？　下半身がムズムズする……）=(Hm? Ah right, yesterday I went to bed right after... Huh? What's that? The lower half of my body feels itchy...)
-「って、わぁっ！？　[H名]さん？」="W-whaaa!? Miss [H名]?"
-「煩いわね、朝から大声を出さないで。元気なのはこっちだけで十分よ、貴方は少し黙ってなさい」="You're loud. Don't shout first thing in the morning. It's enough if the only lively part is here. You be quiet."
+//（ん？　そうか、昨日はあの後すぐ寝ちゃったのか……って、何だ？　下半身がムズムズする……）=
+//「って、わぁっ！？　[H名]さん？」=
+//「煩いわね、朝から大声を出さないで。元気なのはこっちだけで十分よ、貴方は少し黙ってなさい」=

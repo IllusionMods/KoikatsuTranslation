@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「もういいの？　あなたのエネルギーが欲しかったんだけど……」=“Had enough already? I really wanted some of your energy too though...”
+//「もういいの？　あなたのエネルギーが欲しかったんだけど……」=

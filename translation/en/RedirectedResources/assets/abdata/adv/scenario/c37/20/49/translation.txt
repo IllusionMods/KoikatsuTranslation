@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「腰がおかしくなるかと思いました」=I thought my hips were going to go crazy.
+//「腰がおかしくなるかと思いました」=

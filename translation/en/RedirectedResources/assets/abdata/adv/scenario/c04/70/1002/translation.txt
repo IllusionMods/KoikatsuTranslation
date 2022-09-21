@@ -1,19 +1,19 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「……やっぱり正装だから、着てるだけで気が引き締まる感じがするなぁ」=(...It's a formal suit in the end, just wearing it is making me stiff.)
-（[H名]の方の準備はどうなってるんだろう……？　ウェディングドレスだから、時間がかかってそうだ）=(I wonder how things are going on her end...? It's a whole wedding dress, so it'll surely take some time.)
-（でも……その分、すごく綺麗になってるんだろうな……早く見てみたい）=(But... I bet she's going to look amazing after all that work... I wanna see her.)
-（いよいよ出番か……）=(Showtime, huh...)
-（き、緊張がマックスだ……）=(I-I couldn't be more nervous if I tried...)
-（……いや、だめだめ、[H名]の新郎役としてちゃんとしないと！）=(...No, pull yourself together, you gotta play the part of her husband properly!)
-（はぁ……緊張のしすぎで不恰好になってないといいけど……）=(Haah... I hope the nervousness didn't show too much...)
-モブ=Mob
-「これより新婦が入場致します。後方の扉口をご覧ください」=And now, the bride will make her entrance. Please pay attention to the main door.
-（[H名]……）=([H名]...)
-純白のドレスを身にまとった[H名]が、凛と佇んでいる。=She was standing there, wrapped in a snow white dress.
-美しく華やかなその姿を、俺はただただ見つめていた。=I couldn't help but stop dead in my tracks, and stare at that lovely, gorgeous sight.
-呼吸をすることも忘れて、ただひたすらに……それくらい、今の[H名]は美しかった。=Forgetting even to breathe, my eyes dead set on her... that was how beautiful she was, right now.
-（驚いたな……想像以上だ……）=(Man... she looks even more beautiful than I expected...)
-「よく似合ってるよ、本当に。」=You look good, really good.
-「ふふ、ありがと。……楽しみにしていたけど、いざ着てみると少し照れくさいものね」=Fufu, thank you. ...I was looking forward to it but, actually wearing it is quite embarrassing.
+//「……やっぱり正装だから、着てるだけで気が引き締まる感じがするなぁ」=
+//（[H名]の方の準備はどうなってるんだろう……？　ウェディングドレスだから、時間がかかってそうだ）=
+//（でも……その分、すごく綺麗になってるんだろうな……早く見てみたい）=
+//（いよいよ出番か……）=
+//（き、緊張がマックスだ……）=
+//（……いや、だめだめ、[H名]の新郎役としてちゃんとしないと！）=
+//（はぁ……緊張のしすぎで不恰好になってないといいけど……）=
+//モブ=
+//「これより新婦が入場致します。後方の扉口をご覧ください」=
+//（[H名]……）=
+//純白のドレスを身にまとった[H名]が、凛と佇んでいる。=
+//美しく華やかなその姿を、俺はただただ見つめていた。=
+//呼吸をすることも忘れて、ただひたすらに……それくらい、今の[H名]は美しかった。=
+//（驚いたな……想像以上だ……）=
+//「よく似合ってるよ、本当に。」=
+//「ふふ、ありがと。……楽しみにしていたけど、いざ着てみると少し照れくさいものね」=

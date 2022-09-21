@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「あ！　あたしが欲しかった物だ！　ありがとう～」=“Ah! It's that thing I really wanted! Thank you~”
+//「あ！　あたしが欲しかった物だ！　ありがとう～」=

@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「あ、おはよう[P]君。よかったら、授業が始まるまで、ふたりで本を読まない？」=Ah, good morning, [P]-kun. If you'd like, wanna read a book until class starts?
-「いいね、そうしようか」=Sounds good, let's do that.
-「よかった。じゃあさっそく教室に行こうか」=Great. Let's quickly make our way to class then.
+//「あ、おはよう[P]君。よかったら、授業が始まるまで、ふたりで本を読まない？」=
+//「いいね、そうしようか」=
+//「よかった。じゃあさっそく教室に行こうか」=

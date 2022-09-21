@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「こ、こういうところって初めて来たけど……ベッド、こんなに大きいんだね……」=I-It's my first time in a place like this... the bed's, this big, huh...
-「まあ……二人で一緒に寝るホテルだし……」=Well... it's for two people to sleep together, so...
-「い、一緒にっ……そうだよね。そういうことする場所……だもんね！」=T-Together--... right. It's that sort of... place afterall!
-「う、うん……だからその……[H名]……いいかな？」=Y-Yeah... so, you know... [H]... could I?
-「あ……あはは、もちろんいいよ。私だって、そのつもりで来てるんだもん。いっぱい……してください……」=Ah... ahaha, of course. I came here with you, for just that. Please do me... lots...
+//「こ、こういうところって初めて来たけど……ベッド、こんなに大きいんだね……」=
+//「まあ……二人で一緒に寝るホテルだし……」=
+//「い、一緒にっ……そうだよね。そういうことする場所……だもんね！」=
+//「う、うん……だからその……[H名]……いいかな？」=
+//「あ……あはは、もちろんいいよ。私だって、そのつもりで来てるんだもん。いっぱい……してください……」=

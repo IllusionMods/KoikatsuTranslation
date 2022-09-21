@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「……うん、わかった」=“...Yeah, okay.”
-「よかった。俺、楽しくなるように頑張るよ」=“Great. I'll make sure you have a fun time.”
-「……期待してる」=“...I'm looking forward to it.”
+//「……うん、わかった」=
+//「よかった。俺、楽しくなるように頑張るよ」=
+//「……期待してる」=

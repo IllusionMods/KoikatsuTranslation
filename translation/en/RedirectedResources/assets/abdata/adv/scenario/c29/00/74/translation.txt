@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「――準備体操もしたし、まずは軽くランニングしてみようか」=----We've warmed up and everything, so how about we start with some light running?
-「体力づくりの定番ですね。あなたも一緒に走るんですか？」=The staple of basic fitness training, indeed. Are you going to run together with me?
-「うん。もちろんきみのスピードに合わせるから安心してね」=Yeah. Of course, I'll match your speed so don't worry.
-「……別に私は、本気でやってもらって構いませんけれど」=...It's not like I'd mind if you went serious, you know?
+//「――準備体操もしたし、まずは軽くランニングしてみようか」=
+//「体力づくりの定番ですね。あなたも一緒に走るんですか？」=
+//「うん。もちろんきみのスピードに合わせるから安心してね」=
+//「……別に私は、本気でやってもらって構いませんけれど」=

@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「スリルを楽しむどころの話じゃなかったわね……誰にも見つからなくて良かったわ」=That was more than just a cheap thrill... I'm glad that nobody found us.
+//「スリルを楽しむどころの話じゃなかったわね……誰にも見つからなくて良かったわ」=

@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「あら、あらあら、随分楽しそうね～……私にも出来ることはないかしら？」=“My, my oh my, that seems quite fun~... is there any way I could lend a hand?”
+//「あら、あらあら、随分楽しそうね～……私にも出来ることはないかしら？」=

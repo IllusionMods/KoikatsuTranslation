@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「さあ、部屋についたよ！　[H名]、それじゃ早速──」=Alright, we're here! Then, let's not dilly-dally and--
-「まず、最初に歯を磨きましょう。使い捨ての歯ブラシと、口内洗浄薬が用意されていますから」=First, let's brush our teeth. A mouthwash and disposable brushes are provided, afterall.
-「え？　あ、うん……」=Eh? Ah, yeah...
-「それから、喉は乾いていませんか？　冷蔵庫にサービスドリンクがあるようですし、お湯を沸かしてお茶やコーヒーもいただけるようです」=Aside from that, are you thirsty? Seems like they've provided complimentary drinks in the refrigerator, we can also apparently boil water if we want to make coffee or tea.
-「あ、お風呂のお湯は溜めますか？　私はどちらでも構いませんが、どうせならゆっくりと楽しむのもいいかと思いますが」=Ah, shall I fill the bathtub up? I don't particularly mind either way but, if we're going to do it anyway, I think we should take our time and enjoy ourselves.
-「そういうことより先に、するべきことを楽しもうじゃないか──」」=Before we do any of that, I think we should enjoy what we came here to do in the first place--
+//「さあ、部屋についたよ！　[H名]、それじゃ早速──」=
+//「まず、最初に歯を磨きましょう。使い捨ての歯ブラシと、口内洗浄薬が用意されていますから」=
+//「え？　あ、うん……」=
+//「それから、喉は乾いていませんか？　冷蔵庫にサービスドリンクがあるようですし、お湯を沸かしてお茶やコーヒーもいただけるようです」=
+//「あ、お風呂のお湯は溜めますか？　私はどちらでも構いませんが、どうせならゆっくりと楽しむのもいいかと思いますが」=
+//「そういうことより先に、するべきことを楽しもうじゃないか──」」=

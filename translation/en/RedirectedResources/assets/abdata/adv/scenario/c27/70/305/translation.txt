@@ -1,25 +1,25 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「あっ、おかえり。ドリンクバー混んでたの……って、顔赤いけど大丈夫？」=“Ah--, welcome back. The drink bar was pretty crowded, huh... wait, your face is all red, you okay?”
-「ととと、隣の部屋で……っち……してた……」=“I-I-I-In the next room over... avin... ex...”
-「あー……なるほど」=“Ah... I see.”
-（間違えて入っちゃった部屋で、いたしてたわけか……）=(Got the wrong door, and walked in on a couple doing it, huh...)
-「あ、ああいうのって……普通の、ことなの？」=“T-That sort of thing... is it, normal?”
-「んー、普通かは分からないけど、ラブホ代わりに使うカップルがいるのは確かだよ」=“Nn, I don't know whether it's normal or not, but it's true that there's lots of couples that use karaoke boxes as makeshift love hotels.”
-「ラブっ……うぅ、何かすごく衝撃的だわ……」=“Love--... uuu, that's really quite shocking...”
-「まぁ、気にせず歌おうよ」=“Well, don't worry about it, let's sing.”
-「むりむり！　隣で……シテるのに……」=“I can't, no way! They're doing it... beyond this wall...”
-「……じゃあ、俺たちもする？」=“...Then, wanna do it too?”
-「へっ……嘘でしょ？」=“Heh--... you're kidding, right?”
-「本気だよ」=“I'm dead serious.”
-「うぅ～、何ですごく真剣な目をするのよ……冗談じゃないって、分かっちゃう……」=“Uuu~, what's with those serious eyes... I won't be able to, pass it off as a joke...”
-「そりゃ、本気と書いてマジと読むくらい真剣だからね」=“Well of course, I'm as serious as a dead man walking.”
-「で、でも……人が来るかもしれないのに……」=“B-But... someone might walk in on us...”
-「料理とか注文してないし、誰かが部屋を間違えない限り平気だよ」=“We've not ordered anything from the menu or anything, so as long as nobody gets the wrong door, we should be fine.”
-「……ついさっき、部屋を間違えたんだけど」=“...I literally just got the wrong door though.”
-「……ごめん、絶対に大丈夫とは言い切れない」=“...Sorry, I can't guarantee that it'll be 100% okay.”
-「俺は……シタいけど、[H名]が嫌なら無理強いはしないから」=“I wanna... do it, but, if you don't want to, then I won't force you.”
-「うぅ……仕方……ないわね。少し……ほんの少しの間だけ、だからね？」=“Uuu... it can't... be helped, then. A bit... just for a tiny little bit, okay?”
-「あと……優しくしてよ？」=“Also... be gentle, okay?”
-「……うん」=“...Yeah.”
+//「あっ、おかえり。ドリンクバー混んでたの……って、顔赤いけど大丈夫？」=
+//「ととと、隣の部屋で……っち……してた……」=
+//「あー……なるほど」=
+//（間違えて入っちゃった部屋で、いたしてたわけか……）=
+//「あ、ああいうのって……普通の、ことなの？」=
+//「んー、普通かは分からないけど、ラブホ代わりに使うカップルがいるのは確かだよ」=
+//「ラブっ……うぅ、何かすごく衝撃的だわ……」=
+//「まぁ、気にせず歌おうよ」=
+//「むりむり！　隣で……シテるのに……」=
+//「……じゃあ、俺たちもする？」=
+//「へっ……嘘でしょ？」=
+//「本気だよ」=
+//「うぅ～、何ですごく真剣な目をするのよ……冗談じゃないって、分かっちゃう……」=
+//「そりゃ、本気と書いてマジと読むくらい真剣だからね」=
+//「で、でも……人が来るかもしれないのに……」=
+//「料理とか注文してないし、誰かが部屋を間違えない限り平気だよ」=
+//「……ついさっき、部屋を間違えたんだけど」=
+//「……ごめん、絶対に大丈夫とは言い切れない」=
+//「俺は……シタいけど、[H名]が嫌なら無理強いはしないから」=
+//「うぅ……仕方……ないわね。少し……ほんの少しの間だけ、だからね？」=
+//「あと……優しくしてよ？」=
+//「……うん」=

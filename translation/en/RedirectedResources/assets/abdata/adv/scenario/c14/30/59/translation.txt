@@ -1,5 +1,5 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「今日はとても楽しかったぞ！　またいつでも付き合ってやるからな」=I had a lot of fun today! I'll keep you company again anytime you want.
-「誘えよ？　お前から誘うんだぞ？　絶対だぞ！」=Ask me again, alright? You're the one who was to do it. You got it? You absolutely must!
+//「今日はとても楽しかったぞ！　またいつでも付き合ってやるからな」=
+//「誘えよ？　お前から誘うんだぞ？　絶対だぞ！」=

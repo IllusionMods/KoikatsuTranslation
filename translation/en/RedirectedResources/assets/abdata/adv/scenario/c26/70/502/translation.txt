@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「お待たせ。[H名]って、いつも早いよね。なんだか申し訳なくなるよ」=“Sorry for the wait. You're always quick, aren't you, [H]? I feel kinda bad.”
-「……そんな風に思わなくていい。遅れたとき、何を話していいか、わからないだけだから」=“...You don't have to. It's just that, I wouldn't know what to say to you, if I end up being late.”
-「そんな暗いこと言わなでよ。せっかくのデートなんだし。もっと笑顔笑顔」=“Don't think so seriously about it. We're on a date. Smile more, c'mon.”
-（楽しいデートにして、[H名]を笑顔にするぞ）=(I'm gonna make this date super fun, and make her smile.)
+//「お待たせ。[H名]って、いつも早いよね。なんだか申し訳なくなるよ」=
+//「……そんな風に思わなくていい。遅れたとき、何を話していいか、わからないだけだから」=
+//「そんな暗いこと言わなでよ。せっかくのデートなんだし。もっと笑顔笑顔」=
+//（楽しいデートにして、[H名]を笑顔にするぞ）=

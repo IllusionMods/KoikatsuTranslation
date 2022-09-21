@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-………………=.........
-…………=......
-……=...
-「じゃ、俺はこっちだから。またね」=Then, I'm this way, so see ya.
-「おう、気を付けてな……！」=Yeah, be careful on your way back...!
+//………………=
+//…………=
+//……=
+//「じゃ、俺はこっちだから。またね」=
+//「おう、気を付けてな……！」=

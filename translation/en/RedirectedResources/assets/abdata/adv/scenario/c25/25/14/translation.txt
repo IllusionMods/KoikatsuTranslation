@@ -1,5 +1,5 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「うぅ……、むむ……おはよ～」=Uuu... *mumble*... mornin'~
-「ではお休み……、そうだ、一緒に二度寝しよ～？　え～、起きるの～？」=Well then, good night... Oh, wanna sleep in together for today~? Eh~, are you really gonna get up~?
+//「うぅ……、むむ……おはよ～」=
+//「ではお休み……、そうだ、一緒に二度寝しよ～？　え～、起きるの～？」=

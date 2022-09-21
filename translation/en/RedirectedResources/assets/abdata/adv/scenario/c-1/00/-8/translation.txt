@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「たまには保健室に女の子を連れ込んでもいいのよ？」=It's okay to bring a girl into the infirmary once in a while, okay?
+//「たまには保健室に女の子を連れ込んでもいいのよ？」=

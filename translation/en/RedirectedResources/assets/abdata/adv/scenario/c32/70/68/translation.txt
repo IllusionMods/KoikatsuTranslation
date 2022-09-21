@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-………………=.........
-…………=......
-……=...
-「あ……ここまでですか。では、お気をつけて」=Ah... I suppose this is it. Well then, take care.
-「うん。君もね」=Yeah. You too, ok?
-「はい。また学園で」=Yes. Let's see each other at school tomorrow.
+//………………=
+//…………=
+//……=
+//「あ……ここまでですか。では、お気をつけて」=
+//「うん。君もね」=
+//「はい。また学園で」=

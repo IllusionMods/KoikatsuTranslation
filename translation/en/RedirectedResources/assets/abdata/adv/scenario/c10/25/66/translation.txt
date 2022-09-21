@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「折角だから、ちょっと色々見ていかない？」=“Well, we're here so, why don't we take a look at some things?”
-「ふむ、いいぞ！　どこか寄りたい店があるのか？」=“Fumuh, very well! Is there a shop thou wouldst like to visit?”
-「服とか本屋とかかなー。ちょっとブラブラしよう！」=“Let's go hit up a clothes shop or a bookstore or something. I wanna be loveydovey!”
-「な、何か……デートみたいだ……ぞ」=“T-This kinda... feels like a date...”
-「そ、そうだね……まぁ行こう！」=“S-Sure does... anyways, let's go!”
+//「折角だから、ちょっと色々見ていかない？」=
+//「ふむ、いいぞ！　どこか寄りたい店があるのか？」=
+//「服とか本屋とかかなー。ちょっとブラブラしよう！」=
+//「な、何か……デートみたいだ……ぞ」=
+//「そ、そうだね……まぁ行こう！」=

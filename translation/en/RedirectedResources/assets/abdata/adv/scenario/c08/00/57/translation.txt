@@ -1,12 +1,12 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「今、とてもワクワクしてるんだぁ」=I'm really excited right now.
-「俺もだ。一緒だね」=Me too. Looks like we're of the same mind.
-「うん♪ いろんなところ行きたいね！」=Yeah♪ I wanna see lots of places!
-「じゃあまずは、あそこに行ってみようか」=Well then, how about we check that place out for now?
-「えへっ、幸せ♪　なんでこんなに幸せかわかる？」=Ehe--, I'm so happy♪ Do you know why I'm so happy?
-「えっと……今日いろいろと回って楽しめたから？」=Erhm... because you had fun checking out all sorts of things today?
-「惜しい、あなたと一緒に回れたからだよ♪」=Almost, it's because I got to check all sorts of things out with you♪
-（良かった……これなら今日のデートは大成功かな）=(I'm glad... looks like today's date was a huge success then.)
-「デートって……終わりが来ると寂しくなる。でも、また行こうね」=Dates... when they're over, they leave you feeling all sad and lonely. Let's have another one again soon though, okay?
+//「今、とてもワクワクしてるんだぁ」=
+//「俺もだ。一緒だね」=
+//「うん♪ いろんなところ行きたいね！」=
+//「じゃあまずは、あそこに行ってみようか」=
+//「えへっ、幸せ♪　なんでこんなに幸せかわかる？」=
+//「えっと……今日いろいろと回って楽しめたから？」=
+//「惜しい、あなたと一緒に回れたからだよ♪」=
+//（良かった……これなら今日のデートは大成功かな）=
+//「デートって……終わりが来ると寂しくなる。でも、また行こうね」=

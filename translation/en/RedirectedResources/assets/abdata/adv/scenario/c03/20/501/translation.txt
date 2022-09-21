@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-（結構早めに着いたな。さすがにまだ[H名]も来てないよな……って、いた！）=(I got here pretty quick. I guess even she wouldn't get here this ear... wuh, she's right there!)
-「あっ、こちらですー！　ずいぶんお早いお着きなのです！」=“Ah--, over here! You got here very early!”
-「ごめん、まさかもう来てるとは思わなくて……待たせちゃったかな？　次からはもっと早く来るよ」=“Sorry, I didn't think you'd already be here... did I make you wait? I'll come even earlier next time.”
-「えへへ、待ち合わせ時間はまだ先だから大丈夫なのです。私に合わせてたら大変なのですよ」=“Eheheh, it's okay, there's still lots of time until we said we'd meet up. You're going to run yourself ragged if you try to match me.”
-「あはは、そんなに早くから来てたんだ……」=“Ahahah, you got here that early, huh...”
-（それだけ楽しみにしてくれてたってことだよな。今日はどこで楽しませてあげようかな）=(Guess that's just how excited she was. Where should I take her today?)
+//（結構早めに着いたな。さすがにまだ[H名]も来てないよな……って、いた！）=
+//「あっ、こちらですー！　ずいぶんお早いお着きなのです！」=
+//「ごめん、まさかもう来てるとは思わなくて……待たせちゃったかな？　次からはもっと早く来るよ」=
+//「えへへ、待ち合わせ時間はまだ先だから大丈夫なのです。私に合わせてたら大変なのですよ」=
+//「あはは、そんなに早くから来てたんだ……」=
+//（それだけ楽しみにしてくれてたってことだよな。今日はどこで楽しませてあげようかな）=

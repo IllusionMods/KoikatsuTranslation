@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-ビーチチェア=Beach Chair
-ビーチパラソル=Beach Parasol
-木の椅子=Wooden Chair
-木の長椅子=Wooden Bench
-木の机=Wooden Desk
-木の箱=Wooden Box
+//ビーチチェア=
+//ビーチパラソル=
+//木の椅子=
+//木の長椅子=
+//木の机=
+//木の箱=

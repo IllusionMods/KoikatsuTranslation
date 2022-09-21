@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「ふぅ、案外疲れちゃうのね……でも、楽しかったわ」=Fuu, that was pretty tiring, all things considered... but, it was fun.
+//「ふぅ、案外疲れちゃうのね……でも、楽しかったわ」=

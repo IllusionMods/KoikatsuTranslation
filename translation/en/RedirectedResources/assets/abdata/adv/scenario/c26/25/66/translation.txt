@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「ねえ、少し遊具で遊んで行かない？」=“Hey, wanna have some fun at the playground?”
-「……うん、いいよ」=“...Yeah, okay.”
-「じゃあブランコ乗ろうよ、ちょうど空いてるし」=“Let's ride the swing then, it's free right now anyway.”
-「……壊さないでね？」=“...Don't break it, okay?”
-「壊さないよ！？」=“Do you really think I would?!”
+//「ねえ、少し遊具で遊んで行かない？」=
+//「……うん、いいよ」=
+//「じゃあブランコ乗ろうよ、ちょうど空いてるし」=
+//「……壊さないでね？」=
+//「壊さないよ！？」=

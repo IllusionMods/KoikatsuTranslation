@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-ベースボールストッキング=Baseball Stockings
-膝サポーター=Kneepads
-ロングスパッツ=Long Spats
-ガードル=Girdle
-キュートガーター=Cute Garters
-シンプルガーター=Simple Garters
+//ベースボールストッキング=
+//膝サポーター=
+//ロングスパッツ=
+//ガードル=
+//キュートガーター=
+//シンプルガーター=

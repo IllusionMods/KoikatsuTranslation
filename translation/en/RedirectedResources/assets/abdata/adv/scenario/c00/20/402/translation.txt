@@ -1,23 +1,23 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「はぁ、お腹空いたな～。喫茶店の中の匂いって、めちゃくちゃ食欲沸かない？」=Haa, I'm so hungry~. Doesn't the smell of a cafe just whet your appetite like nothing else?
-「わかるわ。コーヒーの匂いと、微かなカレーの匂い……うふふ、お腹が空いちゃうわよね」=I feel you. The smell of fresh coffee, and the faint aroma of curry... Ufufu, it just makes you hungry, doesn't it?
-「独特の匂いがあるよねー……くんくん……はぁ……いい匂い……」=It's a very unique smell... *sniff sniff*... haaa... so nice...
-「ふふ、あなた、動物みたい。野生を感じちゃう♪」=Fufu, you're like an animal. You'll make me feel all wild♪
-「マジで？　セクシーだった？」=For real? Was it sexy?
-「ううん。お腹を好かせた、赤ちゃんタヌキって感じ？　すっごく可愛いわよ♪」=No, you kinda felt like a hungry baby tanuki, I guess? It was super adorable♪
-「もっとワイルドな動物がいいなぁ……狼とかペガサスとか」=A more wild animal would be nice... like a wolf, or a pegasus or whatever.
-「ペガサスは、むしろファンシーじゃない？　ワイルドじゃなくて」=If anything, isn't a pegasus more fancy than wild?
-「うーん、確かにそうかも……。ってかさ、[H名]て動物好きだったりする？」=Mmm, you have a point... On that topic though, you like animals, [H名]?
-「もちろんよ！　子犬のつぶらな瞳……子猫のちっちゃな肉球……小鳥の可愛い鳴き声、小魚の丸揚げ……みんな大好きよ！」=Of course! A puppy's round eyes... a kitten's paw... the cute chirps of a baby bird, deep fried baby fishes... I love them all!
-「なんか違う感じがあったけど、うん、動物の赤ちゃんって可愛いよね」=One of those was not like the others but, yeah, baby animals are pretty cute, aren't they?
-「もちろん大人の動物も大好きよ。抱きしめた時、筋肉の脈動を感じられるような……そんな逞しい身体がいいの」=I love adult animals too. The way you can feel their pulsating muscles, when you hug them... I really like those of manly bodies.
-「はは……その言い方、なんか……その……ゾクッとくるね」=Haha... the way you phrased that, it kinda... ya know... sent jolts through me.
-「うふふ、あなたは抱きしめたら、どんな感触がするのかな？　後々の楽しみにしておくわね」=Ufufu, I wonder what it'd feel like to hug you tight? I'll have to check that myself one of these days.
-「ヤバい……俺もその時が楽しみ過ぎるよ」=Damn... I'm super looking forward to that now too.
-「嫌いというか、少し苦手ね。だって……身体が、傷ついちゃうかもしれないでしょ？」=I kinda hate them, or rather, I'm pretty bad with them. I can't help it... you might end up getting hurt, you know?
-「ああ、まあ危険な動物はいっぱいいるもんね」=Aah, yeah, there's lots of dangerous animals out there, aren't there?
-「子犬のちっちゃくてヤンチャな牙……子猫のカミソリのような爪……小鳥の可愛らしい蕾のようなくちばし……」=The small and naughty fangs of a puppy... the razor sharp claws of a kitten... the cute beak of a baby bird...
-「触って、抱えて、抱きしめようとすると、みんな私を嫌って、痛いことしようとするんだもの……」=Whenever I try to touch them, hold them, or hug them, they all hate me, and just lash out and hurt me...
-「それ……動物が大好きなんじゃ…………いや、まあいいや」=That's... to me, sounds more like you love the--... no, nevermind.
+//「はぁ、お腹空いたな～。喫茶店の中の匂いって、めちゃくちゃ食欲沸かない？」=
+//「わかるわ。コーヒーの匂いと、微かなカレーの匂い……うふふ、お腹が空いちゃうわよね」=
+//「独特の匂いがあるよねー……くんくん……はぁ……いい匂い……」=
+//「ふふ、あなた、動物みたい。野生を感じちゃう♪」=
+//「マジで？　セクシーだった？」=
+//「ううん。お腹を好かせた、赤ちゃんタヌキって感じ？　すっごく可愛いわよ♪」=
+//「もっとワイルドな動物がいいなぁ……狼とかペガサスとか」=
+//「ペガサスは、むしろファンシーじゃない？　ワイルドじゃなくて」=
+//「うーん、確かにそうかも……。ってかさ、[H名]て動物好きだったりする？」=
+//「もちろんよ！　子犬のつぶらな瞳……子猫のちっちゃな肉球……小鳥の可愛い鳴き声、小魚の丸揚げ……みんな大好きよ！」=
+//「なんか違う感じがあったけど、うん、動物の赤ちゃんって可愛いよね」=
+//「もちろん大人の動物も大好きよ。抱きしめた時、筋肉の脈動を感じられるような……そんな逞しい身体がいいの」=
+//「はは……その言い方、なんか……その……ゾクッとくるね」=
+//「うふふ、あなたは抱きしめたら、どんな感触がするのかな？　後々の楽しみにしておくわね」=
+//「ヤバい……俺もその時が楽しみ過ぎるよ」=
+//「嫌いというか、少し苦手ね。だって……身体が、傷ついちゃうかもしれないでしょ？」=
+//「ああ、まあ危険な動物はいっぱいいるもんね」=
+//「子犬のちっちゃくてヤンチャな牙……子猫のカミソリのような爪……小鳥の可愛らしい蕾のようなくちばし……」=
+//「触って、抱えて、抱きしめようとすると、みんな私を嫌って、痛いことしようとするんだもの……」=
+//「それ……動物が大好きなんじゃ…………いや、まあいいや」=

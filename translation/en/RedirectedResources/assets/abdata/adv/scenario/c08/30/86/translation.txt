@@ -1,13 +1,13 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「ねぇねぇ部長さん……私、したいことがあるのだけれど」=Hey, Mr. President... there's something I wanna try out.
-「[H]から提案なんて珍しいな！　何をしたいんだい？」=An idea from you for once! What do you wanna try out?
-「……み、耳かき」=...E-Ear cleaning.
-「えっ……！　み、耳かきはまた今度の……」=Eh--...! H-How about we do that some other...
-「……ぐっ、そんな捨てられた子犬みたいな目で見つめられたら……断れないじゃないか！」=...Guh--, if you look at me with such abandoned-puppy-dog-eyes... how am I supposed to turn you down!
-「えへへ。ど、どうだったかなぁ？」=Ehehe. H-How was it?
-「き、気持ちよかったぞ！？」=T-That felt amazing, you know!?
-「えっとね……お母さんに頼んで、いっぱい練習したんだよ」=Erhm, you see... I asked my mom for help, and practiced a lot.
-「……[H]。俺の為に、そんな影の努力をしていたのか……けな気だなぁ」=...[H]. You put in so much effort into it in the shadows, for my sake... I'm moved.
-（しかし、お母さんの耳……大丈夫だったのか？）=(But, her mother's ear... did it make it out fine?)
+//「ねぇねぇ部長さん……私、したいことがあるのだけれど」=
+//「[H]から提案なんて珍しいな！　何をしたいんだい？」=
+//「……み、耳かき」=
+//「えっ……！　み、耳かきはまた今度の……」=
+//「……ぐっ、そんな捨てられた子犬みたいな目で見つめられたら……断れないじゃないか！」=
+//「えへへ。ど、どうだったかなぁ？」=
+//「き、気持ちよかったぞ！？」=
+//「えっとね……お母さんに頼んで、いっぱい練習したんだよ」=
+//「……[H]。俺の為に、そんな影の努力をしていたのか……けな気だなぁ」=
+//（しかし、お母さんの耳……大丈夫だったのか？）=

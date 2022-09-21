@@ -1,25 +1,25 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「ふぅ……色々と一気に乗っちゃったね」=“Fuu... we kinda rode a bunch all at once, h uh?”
-「はいです！　溢れる気持ちが抑えられず……今日はこのまま全部制覇したいですよ！」=“Yes! I want to conquer all the rides here... while leaving no regrets behind!”
-「あはは、全部乗るのは時間的に無理だと思うけど……今までで何が一番楽しかった？」=“Ahahah, I think riding every single one's gonna be a bit impossible... which one did you enjoy the most out of those?”
-「うーん、そうですねぇ……どれも楽しかったですけど……スプラッシュ系が！　ちょっと濡れたですけど、爽快だったですよ！」=“Nnn, let's see... which one... the water splash ones! We did get a bit wet but, it was really refreshing!”
-「あ、うん、気持ち良かったかも。ちょうど天気もいいし……」=“Ah, yeah. Those were pretty nice. The weather's perfect for those sorts of rides too...”
-「それじゃ次は何に乗ろっか？」=“Well then, what should we ride next?”
-「あ……では……乗り物は一旦休憩して……この遊園地のキャラクターグッズが売っているお店に行きませんか？　私、何か思い出に残る物が欲しいですよ」=“Ah... then... how about we take a break from the rides and... make our way to the souvenir shop? I want to buy something, to remember this way by.”
-「キャラクターグッズかぁ……いいね。行ってみよう」=“The souvenir shop, huh... sure. Let's go.”
-………………=.........
-「ねぇ、[H名]……この遊園地のキャラクターってこれ……？」=“Hey, [H]... is this the park's mascot...?”
-「そ、そうみたいですね……しっかり『公式キャラクター』って書かれてるですし……」=“I-It seems to be... It has「The Park's Official Mascot」written on it too...”
-「…………」=“......”
-（どうしよう！　絶望的に可愛くない！　というか、なんだこのキャラ。見てると微妙にイライラしてくる顔してるぞ！）=(What do I do! It's not cute at all! It's downright hideous! Heck, what is up with this thing? The more I look at it the more ticked off I get!)
-「うぅん……どうするですかねぇ……ストラップもマグカップも全部……その……」=“Nnnnn... what do we do... the phone strap, or the mug, all of them... are, uhm...”
-「可愛くないよね……」=“Not even remotely adorable...”
-「ですぅ……」=“Yes...”
-（そして決して日頃使いにしたくもない……）=(I'd never want her to use such a thing on a daily basis either...)
-「そうだ！　こういう時はさ、もう形に残る物は諦めよう！　ほら、ここにこのキャラの棒付きキャンディがあるよ！　これでどうかな！？」=“Right! Let's just give up on preserving the memory through a physical thing! Look, they have lollipops branded with that character! How about that?”
-「うぅ……でも……食べたらなくなるですよ？」=“Uuu... but... once I eat it, it'll be gone, you know?”
-「大丈夫！　食べたって思い出は残る！」=“That's fine! You'll remember that you ate it once!”
-「あ……そうですね。それじゃ、それにするですー！　舐めて溶かしちゃうですよー！」=“Ah... yep. Well then, let's go with that! I'm going to lick it completely off!”
-（うーん、このキャラを舐めるのもまたイライラしそうだけど……[H名]が楽しそうだからいっか）=(Nnn, I feel like just licking it would tick me off too but... she seems to be enjoying herself so I guess it's fine.)
+//「ふぅ……色々と一気に乗っちゃったね」=
+//「はいです！　溢れる気持ちが抑えられず……今日はこのまま全部制覇したいですよ！」=
+//「あはは、全部乗るのは時間的に無理だと思うけど……今までで何が一番楽しかった？」=
+//「うーん、そうですねぇ……どれも楽しかったですけど……スプラッシュ系が！　ちょっと濡れたですけど、爽快だったですよ！」=
+//「あ、うん、気持ち良かったかも。ちょうど天気もいいし……」=
+//「それじゃ次は何に乗ろっか？」=
+//「あ……では……乗り物は一旦休憩して……この遊園地のキャラクターグッズが売っているお店に行きませんか？　私、何か思い出に残る物が欲しいですよ」=
+//「キャラクターグッズかぁ……いいね。行ってみよう」=
+//………………=
+//「ねぇ、[H名]……この遊園地のキャラクターってこれ……？」=
+//「そ、そうみたいですね……しっかり『公式キャラクター』って書かれてるですし……」=
+//「…………」=
+//（どうしよう！　絶望的に可愛くない！　というか、なんだこのキャラ。見てると微妙にイライラしてくる顔してるぞ！）=
+//「うぅん……どうするですかねぇ……ストラップもマグカップも全部……その……」=
+//「可愛くないよね……」=
+//「ですぅ……」=
+//（そして決して日頃使いにしたくもない……）=
+//「そうだ！　こういう時はさ、もう形に残る物は諦めよう！　ほら、ここにこのキャラの棒付きキャンディがあるよ！　これでどうかな！？」=
+//「うぅ……でも……食べたらなくなるですよ？」=
+//「大丈夫！　食べたって思い出は残る！」=
+//「あ……そうですね。それじゃ、それにするですー！　舐めて溶かしちゃうですよー！」=
+//（うーん、このキャラを舐めるのもまたイライラしそうだけど……[H名]が楽しそうだからいっか）=

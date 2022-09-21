@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「ありがとう。　少しでも近づけるよう、頑張るね？」=“Thank you. I'll do my best, to get even a bit closer, okay?”
+//「ありがとう。　少しでも近づけるよう、頑張るね？」=

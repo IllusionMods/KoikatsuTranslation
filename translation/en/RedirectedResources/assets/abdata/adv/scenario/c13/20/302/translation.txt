@@ -1,24 +1,24 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「あ～マジきもちいいー！　全力で歌えるってイイよね～」=Ah~, this feels amazing! Singing your heart out feels great, doesn't it~
-「聞いてるこっちもノリノリになれるよ！　流石だよね」=I'm having a great time listening too! You're sure amazing, [H名].
-「えへへっ、ありがと！　次はどうしようかなぁ～」=Ehehe--, thanks! What should I go with next~
-「……ねぇ、折角二人きりなんだし、ゆっくり何か話したいな」=...Hey, we finally have some alone time together, so I'd love to chat with you about something.
-「あっ、ごめんごめん！　つい癖でガンガン入れようとしちゃうんだよね～」=Ah--, sorry sorry! I just couldn't help myself from loading up more songs~
-「さぁ、何でも聞いてあげるよ！」=Now then, I'll listen to anything you want to say!
-「う、うん……えと……」=Y-Yeah... erhm...
-「…………んん？　何か話したいことがあったんじゃないの～？」=.........Nnn? Didn't you have something you wanted to chat about~?
-「あ、はは、えと……なんか頭の先から抜けちゃったというか……」=Ah, haha, erhm... It kinda slipped out of my mind...
-「じゃぁさ、先にアタシの好きな曲の話を聞いてよ！」=Well then, I'll tell you about all my favourite songs instead~!
-「あ、うん！　聞きたいな」=Ah, yeah! I'd love to hear about that.
-……………=.........
-「へ～、色々レパートリーがあるんだね」=Heh~, you know quite a lot of songs.
-「じゃあさ、今話してくれた曲の中からリクエストしてみてもいい……？」=Well then, is it alright if I request a song from one of those that you mentioned just now...?
-「なになに！？　[P名]くんのリクエストなら、なんだって聞くよ！」=What?! A request from you, [P名]-kun, of course I'll hear you out!
-「ほんとに？　なら、この曲をお願いします！」=Really? Then, please sing this song!
-「アタシの十八番の恋愛ソングじゃん！」=Oh, this is the love song that I'm awesome at!
-「おお、これは期待しちゃうな」=Ooh, now I'm looking forward to this.
-「それでは……この曲、[P名]くんを思って歌います」=Well then... I'll sing this song, while thinking of you, [P名]-kun.
-「えっ……？」=Eh--...?
-「ふふっ……ちゃんとワタシの想い受け取ってね♪」=Fufu--... Take all of my overflowing feelings, okay?♪
+//「あ～マジきもちいいー！　全力で歌えるってイイよね～」=
+//「聞いてるこっちもノリノリになれるよ！　流石だよね」=
+//「えへへっ、ありがと！　次はどうしようかなぁ～」=
+//「……ねぇ、折角二人きりなんだし、ゆっくり何か話したいな」=
+//「あっ、ごめんごめん！　つい癖でガンガン入れようとしちゃうんだよね～」=
+//「さぁ、何でも聞いてあげるよ！」=
+//「う、うん……えと……」=
+//「…………んん？　何か話したいことがあったんじゃないの～？」=
+//「あ、はは、えと……なんか頭の先から抜けちゃったというか……」=
+//「じゃぁさ、先にアタシの好きな曲の話を聞いてよ！」=
+//「あ、うん！　聞きたいな」=
+//……………=
+//「へ～、色々レパートリーがあるんだね」=
+//「じゃあさ、今話してくれた曲の中からリクエストしてみてもいい……？」=
+//「なになに！？　[P名]くんのリクエストなら、なんだって聞くよ！」=
+//「ほんとに？　なら、この曲をお願いします！」=
+//「アタシの十八番の恋愛ソングじゃん！」=
+//「おお、これは期待しちゃうな」=
+//「それでは……この曲、[P名]くんを思って歌います」=
+//「えっ……？」=
+//「ふふっ……ちゃんとワタシの想い受け取ってね♪」=

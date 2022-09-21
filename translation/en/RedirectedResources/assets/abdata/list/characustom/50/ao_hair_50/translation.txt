@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-テントウムシ=Ladybug
-リボン=Ribbon
-桔梗の髪飾り=Chinese Bellflower Ornaments
-ワッペン=Badge
+//テントウムシ=
+//リボン=
+//桔梗の髪飾り=
+//ワッペン=

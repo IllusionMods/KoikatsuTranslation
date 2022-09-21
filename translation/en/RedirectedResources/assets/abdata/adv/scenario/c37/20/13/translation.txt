@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「恋人同士のデートとなると、ホテルの予約などは済まされているのでしょうか？」=In the case of a lover's date, are you going to get reservations at a hotel and whatnot?
-「そ、そこまではちょっと……」=T-That's a bit...
-「そうですか。ですが、彼氏の家で、というのもアリですね」=I see. However, I suppose we could also do it at your place.
-「あの、話が飛びすぎてる気が……」=Uhm, I feel like the conversation is getting out of hand...
-「すみません、つい浮かれてしまいました。当日が楽しみです……ふふっ」=I'm sorry, I got a bit carried away. I'm just really looking forward to it... fufu--
+//「恋人同士のデートとなると、ホテルの予約などは済まされているのでしょうか？」=
+//「そ、そこまではちょっと……」=
+//「そうですか。ですが、彼氏の家で、というのもアリですね」=
+//「あの、話が飛びすぎてる気が……」=
+//「すみません、つい浮かれてしまいました。当日が楽しみです……ふふっ」=

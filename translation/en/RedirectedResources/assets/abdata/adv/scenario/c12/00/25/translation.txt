@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「おっ、プレゼント作戦かー。気が利くなぁ」=“Oh--, a present, huh? I see what you're aiming at. Good job~”
+//「おっ、プレゼント作戦かー。気が利くなぁ」=

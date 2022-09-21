@@ -1,5 +1,5 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「ではでは、[P]さんの部屋へおじゃましまーす」=“Alright then, I am coming in~”
+//「ではでは、[P]さんの部屋へおじゃましまーす」=
 //「あぁ、気が早い人だなぁ、もうベッドに///　そ、そんなにしたいん、だね」=

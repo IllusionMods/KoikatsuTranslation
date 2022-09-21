@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-………………=.........
-…………=......
-……=...
-「ふう、おいしかったぁ～！　また一緒に食べようね！　じゃ！」=“Fuu, that was delicious~! Let's each lunch together again, okay? See ya!”
+//………………=
+//…………=
+//……=
+//「ふう、おいしかったぁ～！　また一緒に食べようね！　じゃ！」=

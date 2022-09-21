@@ -1,13 +1,13 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-………………=.........
-…………=......
-……=...
-「あ……もう、お別れ？　もっと一緒にいたい」=“Ah... are we, saying goodbye here? I wanna be with you more.”
-CHOICE:「それじゃあ、家に来る？」=Wanna come to my place then?
-CHOICE:「ちょっと今日はやることがあって……」=I've got things to take care of today...
-「[H]……それじゃあ、俺の家に来る？」=“[H]... wanna come to my place then?”
-「うん！　実は、そうしたほうがいいって、メッセージを受け取ってたんだ♪」=“Yeah! I actually got a message, saying that it'd be best if we did that♪”
-「ごめん、今日はやることがあって……本当は一緒に居てあげたいけど……」=“Sorry, I've things to take care of today... I really want to spend more time with you too but...”
-「……そっか、あなたには、あなたの役目があるもんね。……じゃあ、またね」=“...I see, you've your own role to play. Of course you do. ...See you later then.”
+//………………=
+//…………=
+//……=
+//「あ……もう、お別れ？　もっと一緒にいたい」=
+//CHOICE:「それじゃあ、家に来る？」=
+//CHOICE:「ちょっと今日はやることがあって……」=
+//「[H]……それじゃあ、俺の家に来る？」=
+//「うん！　実は、そうしたほうがいいって、メッセージを受け取ってたんだ♪」=
+//「ごめん、今日はやることがあって……本当は一緒に居てあげたいけど……」=
+//「……そっか、あなたには、あなたの役目があるもんね。……じゃあ、またね」=

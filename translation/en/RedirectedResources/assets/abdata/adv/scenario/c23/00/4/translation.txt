@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「いいけど。あなたがＯＫなら」=“Sure, I guess. If you're okay with it.”
-「もちろん。じゃあ、さっそく始めようか」=“Of course. Let's start right away then.”
-「ふふ、ふ……少しパズルゲームを遊ぶ気分になってきたぞ」=“Fufu, fuh... Now I feel like playing a puzzle game.”
+//「いいけど。あなたがＯＫなら」=
+//「もちろん。じゃあ、さっそく始めようか」=
+//「ふふ、ふ……少しパズルゲームを遊ぶ気分になってきたぞ」=

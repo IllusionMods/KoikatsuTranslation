@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-野乃花=Nonoka
+//野乃花=
 //「あら、きみ……そんな顔してどうしたの？」=
 //CHOICE:実は部活で行き詰まって……また確認してもらえますか？=
 //CHOICE:ちょっと……先生と話がしたくて……=

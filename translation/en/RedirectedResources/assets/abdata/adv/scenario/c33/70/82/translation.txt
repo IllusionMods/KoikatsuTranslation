@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-………………=.........
-…………=......
-……=...
-「ふぅ、ごちそうさま。……ん？　ふふっ、私の唇に何かついてる？」=Fuu, that was a good meal.Nn? Fufu--, Is there something on my lips?
+//………………=
+//…………=
+//……=
+//「ふぅ、ごちそうさま。……ん？　ふふっ、私の唇に何かついてる？」=

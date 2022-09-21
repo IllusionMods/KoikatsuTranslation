@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「あっ……おはよ。朝から嬉しそうな顔しちゃって……。わ、私は違うわよ！」=“Ah--... morning. Such a bright smile first thing in the morning... M-Me too? No, I don't!”
+//「あっ……おはよ。朝から嬉しそうな顔しちゃって……。わ、私は違うわよ！」=

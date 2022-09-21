@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「おはようございます、[Pあだ名]」=Good morning, [Pあだ名]
-「おはよう、[Hあだ名]」=Mornin', [Hあだ名]
-「今、自然と呼び合えた気がします。また一つ、私たちの仲が深まったのでしょうか」=Just now, I feel like we naturally called out to each other like that. I wonder if our relationship has gotten a step closer again.
+//「おはようございます、[Pあだ名]」=
+//「おはよう、[Hあだ名]」=
+//「今、自然と呼び合えた気がします。また一つ、私たちの仲が深まったのでしょうか」=

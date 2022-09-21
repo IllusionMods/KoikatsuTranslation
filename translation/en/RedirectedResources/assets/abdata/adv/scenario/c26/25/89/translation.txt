@@ -1,17 +1,17 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「ちょっとお願いがあるんだけど、一回でいいからお互いに愛称で呼び合ってみない？」=“I've got a request, just once would be fine so, wanna call each other by nicknames?”
-「……愛称？　……別にいいけど、どうして急に？」=“...Nicknames? ...Sure but, why so suddenly?”
-「恋愛漫画を読んで、羨ましいと思ってさ」=“I was reading this romance manga, and got a bit envious.”
-「けっこう、単純。……いいよ、やってみよ」=“You, dork. ...Sure, let's try it.”
-「やった！　それじゃあ、俺のことは[Pあだ名]って呼んでくれないかな」=“Yay! Well then, won't you call me [Pあだ名]?”
-「……あなたの名前と一致しないけど」=“...I don't get how that matches your name at all.”
-「それでもいいんだ……お願いします！」=“It's fine, I like it anyway... please!”
-「……よくわからないけど、わかった」=“...I don't get it but, sure.”
-「ありがとう。……じゃあ早速、俺から呼びかけるね」=“Thanks. ...Then, I'mma start off first, okay?”
-「[Hあだ名]……」=“[Hあだ名]...”
-「……[Pあだ名]」=“...[Pあだ名].”
-「おお……じゃっかん気恥ずかしい気もするけど、いい……」=“Ooh... it's a little bit embarrassing but, feels great...”
-「……何だか、すごく嬉しそう。……また、呼んであげようか？」=“...You look, really happy. ...Want me to, call you that again?”
-「本当？　それじゃあ、是非呼んでほしいな！」=“You will? Please do, I'd love it!”
+//「ちょっとお願いがあるんだけど、一回でいいからお互いに愛称で呼び合ってみない？」=
+//「……愛称？　……別にいいけど、どうして急に？」=
+//「恋愛漫画を読んで、羨ましいと思ってさ」=
+//「けっこう、単純。……いいよ、やってみよ」=
+//「やった！　それじゃあ、俺のことは[Pあだ名]って呼んでくれないかな」=
+//「……あなたの名前と一致しないけど」=
+//「それでもいいんだ……お願いします！」=
+//「……よくわからないけど、わかった」=
+//「ありがとう。……じゃあ早速、俺から呼びかけるね」=
+//「[Hあだ名]……」=
+//「……[Pあだ名]」=
+//「おお……じゃっかん気恥ずかしい気もするけど、いい……」=
+//「……何だか、すごく嬉しそう。……また、呼んであげようか？」=
+//「本当？　それじゃあ、是非呼んでほしいな！」=

@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「これ……授業で作ったんだけどおまえ食うか？」=I made... this during class, wanna eat?
-「これは……ケーキ？　おいしそう！」=Let's see... cookies? They look so good!
-「そうか、おいしそうに見えるか……それならよかった。じゃあ、これ味わって食べてくれよな」=I see, they look good, huh... I'm glad to hear that. Then, savour them and munch them all down, okay?
+//「これ……授業で作ったんだけどおまえ食うか？」=
+//「これは……ケーキ？　おいしそう！」=
+//「そうか、おいしそうに見えるか……それならよかった。じゃあ、これ味わって食べてくれよな」=

@@ -1,5 +1,5 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「汝の魔物から熱を帯びた魔力が伝わるぞ」=“I can feel the heat of passion wafting off from thy little demon.”
-「も、もっとくっついていたいなって……」=“L-Let's cuddle some more...”
+//「汝の魔物から熱を帯びた魔力が伝わるぞ」=
+//「も、もっとくっついていたいなって……」=

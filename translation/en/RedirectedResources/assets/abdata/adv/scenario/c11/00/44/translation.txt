@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「へえ、色々あるんだね」=“Hoh, they've got all sorts, huh?”
-「ひとつずつ見て回ってもいいかしら？」=“Do you mind if we check out everything one by one?”
-「うん、いいよ」=“Sure, no problem.”
-「は～、満足したわ♪　ありがとう」=“Hah~, that was great♪ Thanks.”
-（よかった、喜んでもらえたみたいだ）=(Great, looks like she enjoyed herself)
+//「へえ、色々あるんだね」=
+//「ひとつずつ見て回ってもいいかしら？」=
+//「うん、いいよ」=
+//「は～、満足したわ♪　ありがとう」=
+//（よかった、喜んでもらえたみたいだ）=

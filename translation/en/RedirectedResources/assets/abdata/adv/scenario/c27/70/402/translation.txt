@@ -1,23 +1,23 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「アイスティーを注文してたけど、あんたはコーヒーより紅茶派なの？」=“I see you went for iced tea there, you part of the tea camp rather than the coffee one?”
-「両方好きだから、あんまり派閥とか気にしたことないな」=“I love both so, I've never really paid much mind to all that "camp" stuff really.”
-「私も一緒。だから、どっちが好きかって話で盛り上がってると、疎外感があるのよね……」=“I'm the same way. It really makes you feel kinda isolated, when people start getting fired up over which one they prefer and stuff, doesn't it...”
-「真面目に議論してるわけじゃないんだから、適当に混ざってればいいんだよ」=“It's not like they're having a serious argument, I think just joining in and commenting here and there should be fine.”
-「『紅茶？　コーヒー？　私は第３勢力、牛乳派よ！』とか、言ってさ」=“They go all「Tea? Coffee? I'm part of the hidden power, the milk drinkers' faction!」and stuff.”
-「どっちの派閥にも飲み込まれてそうな勢力ね、それ……」=“A power that you can find in either of the camps, isn't it...”
-「はは、対立してるんじゃなくて二つに取り入ってるのかも。ミルクティーとカフェオレ……いや、この場合はコーヒー牛乳か？」=“Haha, might be an attempt to curry favour with both more than anything else. Milk tea and Café au lait... no, wouldn't it be more Coffee Milk in that case?”
-「そもそも、厳密な違いってあるの？」=“Is there much of a difference between the two to begin with?”
-「コーヒーが主役か、牛乳が主役かで変わるって聞いたことある気がするよ」=“I feel like people do differentiate between them, citing whether the milk or whether the coffee is in the lead role.”
-「そういえば、[H名]はコーヒーはブラックで飲むんだっけ？　それともミルクとか入れる？」=“Reminds me, were you the type to put milk in your coffee, [H名]? Or do you drink yours black?”
-「そのままよ。私は大人だから」=“Black. I'm an adult, afterall.”
-「最初は背伸びして飲んでたんじゃないの？」=“Sure you didn't have to force it down your throat at the start?”
-「うぐっ……別にそんなことないわよ」=“Uguh--... not at all.”
-（涙目になりながら飲んでた姿が、ありありと浮かぶなぁ）=(I can just about imagine it, [H名] chugging it down with tears in her eyes)
-「ちょ、何その信じてない目！　無理して飲んだことなんてないってば！」=“Wha--, what's with those unbelieving eyes! I've never forced myself to drink it, dummy!”
-「砂糖とミルクを入れるわ。……子どもっぽいかもしれないけど、好きなんだもん」=“I put in both milk and sugar. ...It might seem childish but, I like it that way.”
-「別にそうは思わないよ。カッコつけてブラックを飲んで涙目になってる方が、よっぽど子どもっぽいって思うし」=“I wasn't gonna think of it that way. Trying to look tough while gulping down black coffee with tears in your eyes would be way more childish, in my opinion.”
-「っ……そ、そうよね。無理する方がカッコ悪いわよね！」=“--...R-Right? Forcing yourself's super uncool, isn't it!?”
-「あー……まあ、俺もカッコつけて背伸びしたことあるし、気にしないで？」=“Aah... well, I've done the same thing before so, don't beat yourself up too much, okay?”
-「私は違うわよ！」=“You've got it wrong!”
+//「アイスティーを注文してたけど、あんたはコーヒーより紅茶派なの？」=
+//「両方好きだから、あんまり派閥とか気にしたことないな」=
+//「私も一緒。だから、どっちが好きかって話で盛り上がってると、疎外感があるのよね……」=
+//「真面目に議論してるわけじゃないんだから、適当に混ざってればいいんだよ」=
+//「『紅茶？　コーヒー？　私は第３勢力、牛乳派よ！』とか、言ってさ」=
+//「どっちの派閥にも飲み込まれてそうな勢力ね、それ……」=
+//「はは、対立してるんじゃなくて二つに取り入ってるのかも。ミルクティーとカフェオレ……いや、この場合はコーヒー牛乳か？」=
+//「そもそも、厳密な違いってあるの？」=
+//「コーヒーが主役か、牛乳が主役かで変わるって聞いたことある気がするよ」=
+//「そういえば、[H名]はコーヒーはブラックで飲むんだっけ？　それともミルクとか入れる？」=
+//「そのままよ。私は大人だから」=
+//「最初は背伸びして飲んでたんじゃないの？」=
+//「うぐっ……別にそんなことないわよ」=
+//（涙目になりながら飲んでた姿が、ありありと浮かぶなぁ）=
+//「ちょ、何その信じてない目！　無理して飲んだことなんてないってば！」=
+//「砂糖とミルクを入れるわ。……子どもっぽいかもしれないけど、好きなんだもん」=
+//「別にそうは思わないよ。カッコつけてブラックを飲んで涙目になってる方が、よっぽど子どもっぽいって思うし」=
+//「っ……そ、そうよね。無理する方がカッコ悪いわよね！」=
+//「あー……まあ、俺もカッコつけて背伸びしたことあるし、気にしないで？」=
+//「私は違うわよ！」=

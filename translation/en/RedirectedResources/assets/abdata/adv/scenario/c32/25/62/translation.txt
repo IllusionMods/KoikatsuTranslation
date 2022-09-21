@@ -1,13 +1,13 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-………………=.........
-…………=......
-……=...
-「あっ……ここまでのようですね……」=Ah--... Looks like this is it, huh...
-CHOICE:「……この後、家に来れないかな？」=...Won't you come to my place after this?
-CHOICE:「そうだね、ばいばい」=Seems so, byebye.
-「……この後、家に来れないかな？　まだ君と一緒にいたいんだ」=......Won't you come to my place, after this? I want to be with you for a while longer still.
-「もう、いつお誘いがあるかとドキドキしていたんですよ。もちろん、お邪魔させて頂きます」=Jeez, do you know how long I've been waiting for you to invite me? Of course, the answer is yes.
-「そうだね、また今度……それじゃ、ばいばい」=Seems so, next time then... Well then, bye bye.
-「……意気地なし。……いえ、何も？　では、失礼します」=...No balls.No, I didn't say anything, just your imagination. Well then, excuse me.
+//………………=
+//…………=
+//……=
+//「あっ……ここまでのようですね……」=
+//CHOICE:「……この後、家に来れないかな？」=
+//CHOICE:「そうだね、ばいばい」=
+//「……この後、家に来れないかな？　まだ君と一緒にいたいんだ」=
+//「もう、いつお誘いがあるかとドキドキしていたんですよ。もちろん、お邪魔させて頂きます」=
+//「そうだね、また今度……それじゃ、ばいばい」=
+//「……意気地なし。……いえ、何も？　では、失礼します」=

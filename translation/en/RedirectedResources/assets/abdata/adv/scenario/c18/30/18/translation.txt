@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「あ、おはようございます。何故か目覚ましが壊れていて……遅刻するかと焦りました……」=Ah, good morning. My alarm clock broke down, for some reason... I was almost late for school...
+//「あ、おはようございます。何故か目覚ましが壊れていて……遅刻するかと焦りました……」=

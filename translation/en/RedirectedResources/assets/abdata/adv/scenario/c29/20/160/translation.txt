@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「夜は少し冷えてくるね。[H名]、大丈夫？」=It's sure getting pretty cold out now. You alright, [H名]?
-「……寒いと言ったら、もう一度温めあおうと言い出すのですか？」=...If I were to say that I feel cold, would you suggest that we warm ourselves up again?
-「いや、さすがにそんなことは言わないって」=No, even I won't overdo it that much.
-「ふふっ、冗談です。心配せずとも私は大丈夫ですよ」=Fufu--. I'm joking. You needn't worry, I'm fine.
-「そ、そっか……まあ今が大丈夫でも冷えるといけないし、そろそろ帰ろうか」=I-I see... well, you might be fine now but it wouldn't do to linger around to catch a cold, so let's go home.
+//「夜は少し冷えてくるね。[H名]、大丈夫？」=
+//「……寒いと言ったら、もう一度温めあおうと言い出すのですか？」=
+//「いや、さすがにそんなことは言わないって」=
+//「ふふっ、冗談です。心配せずとも私は大丈夫ですよ」=
+//「そ、そっか……まあ今が大丈夫でも冷えるといけないし、そろそろ帰ろうか」=

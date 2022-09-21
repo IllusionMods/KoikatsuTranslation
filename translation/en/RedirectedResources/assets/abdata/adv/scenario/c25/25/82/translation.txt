@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-………………=.........
-…………=......
-……=...
-「ふは……あ～あ、もう授業が始まってしまう～つらい～」=*fuhaa*... aaaah~, class is gonna start at any moment~, so rough~
-「ふわぁ……もうダメ～……眠い～」=*fuwah*... I can't anymore~... sleepy~.
+//………………=
+//…………=
+//……=
+//「ふは……あ～あ、もう授業が始まってしまう～つらい～」=
+//「ふわぁ……もうダメ～……眠い～」=

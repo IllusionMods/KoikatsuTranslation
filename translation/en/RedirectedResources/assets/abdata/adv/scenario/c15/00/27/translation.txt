@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「プレゼント？　へへー、楽しみだなー」=“A present? Hehe, now I'm excited.”
+//「プレゼント？　へへー、楽しみだなー」=

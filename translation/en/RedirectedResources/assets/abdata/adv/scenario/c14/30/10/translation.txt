@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「はぁ？　私がそんなめんどくせぇのに入るわけねぇだろ」=Haa? Like hell I'm gonna take part in something that annoying.
-「そこをなんとか……！　お願い！」=Just this once...! Please!
-「はぁ……で、何するところなんだよ」=Haa... and, just what do you even do there?
-「まぁ、今まで通り俺と喋ったり、スキンシップしたりとか……」=Well, just some regular old chatting, like what we've done till now, maybe a little bit of skinship, and...
-「スキンシップだぁ？」=Skinship?
-「あー……あんまり乗り気じゃないなら、いいんだけど」=Yeah... well, if you don't feel like it, it's fine.
-「まぁ、別にスキンシップくらいならいいか……よし、行くか分からねえけど入部してやるよ」=Well, I don't really mind some skinship... alright, I don't know if I'll stay but I'll join your club for now.
+//「はぁ？　私がそんなめんどくせぇのに入るわけねぇだろ」=
+//「そこをなんとか……！　お願い！」=
+//「はぁ……で、何するところなんだよ」=
+//「まぁ、今まで通り俺と喋ったり、スキンシップしたりとか……」=
+//「スキンシップだぁ？」=
+//「あー……あんまり乗り気じゃないなら、いいんだけど」=
+//「まぁ、別にスキンシップくらいならいいか……よし、行くか分からねえけど入部してやるよ」=

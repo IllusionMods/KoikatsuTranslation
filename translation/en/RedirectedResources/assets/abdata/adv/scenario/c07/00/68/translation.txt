@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-………………=.........
-…………=......
-……=...
-「それじゃ、また学園で」=Well then, see you at school.
-「おー！　よろしくな～」=Yah! Take care~
+//………………=
+//…………=
+//……=
+//「それじゃ、また学園で」=
+//「おー！　よろしくな～」=

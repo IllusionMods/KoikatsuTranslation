@@ -1,20 +1,20 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「ここの喫茶店のメニューって、どれも美味しそうな物ばかりだよねー。私、すっごく悩んじゃったよ」=Every single item on the menu here looks delicious, doesn't it~. I had a really hard time picking.
-「分かる！　味も美味しそうだけど、何より見た目が良いよね。メニューの写真だけでも味が想像出来るし……」=I feel you! They look delicious too but, just the presentation alone is amazing. Just the image on the menu sprang the taste into my mind...
-「そうそう。あんな風に上手に盛り付けるの大変だろうなぁ……でもお料理って見た目も大切だもんね」=Exactly. I bed arranging them all like that was a right pain... but you can't skip out on making it look good, afterall.
-「うん、目で食べるっていうくらいだもんね。俺なんか、そういうセンスは全くないから……単純に美味しそうって感じちゃうだけだけど」=Yeah, it needs to be a treat for the eyes too, afterall. I don't really have a mind for that sort of thing so... if it looks tasty, that's good enough for me.
-「ふふっ、私も最初はそうだったよー。でもね、お料理していくうちに、少しずつ見方が変わっていったの」=Fufu--, I used to be like that too, at first. But, you know, after I started learning how to cook myself, my view of it changed.
-「そうなんだ？　どんな風に変わるの？」=That so? In what way?
-「うん、例えばね。なんでここにブロッコリーがあるんだろう……とか、この桃の角度はどうしてこうなんだろう……とか」=For example, now I question stuff like "Why'd they put that broccoli there?"... or "Why'd they place the peach at that angle?"... and stuff.
-「じっくり考えると、全部の配置に結構意味があるんだよ。ちょっとした変化ですごく美味しそうに見えたりするの」=If you give it some thought, you'll find that every single thing has a reason why it's that way. Just a little change can make something pop out all that much more.
-「そうなんだ。すごい……料理作る時ってそんなことまで考えるんだね」=I see. Amazing... they even think of stuff like that when cooking, huh?
-「あははっ、自分で食べる分はそんなこと気にしないけど……もしも君に作ってあげるとしたら、いっぱいいっぱい気にしちゃうかもー」=Ahaha--, I don't really bother over that stuff when I'm just eating by myself but... if I cook something for you, I might just end up pulling out all the stops~
-「私も全然ダメ……お料理って難しすぎて……味付けも難しいし、盛り付けも難しいし……苦手だよぅ……」=I'm a complete dunce at it myself... cooking's so difficult... it's so hard to flavour things, and so hard to arrange it properly... I can't do it...
-「あはは、お店じゃないんだから、自分で作る場合、盛り付けは気にしなくてもいいんじゃないかな？」=Ahaha, you're not making things to sell so, when you're just cooking by yourself, I don't think you need to worry so much over the arrangement and stuff.
-「そ、そうかな？　君は気にしない？」=Y-You think so? Do you not?
-「うん、気にしないかも。味も見た目も、良いに越したことはないけど……好きな娘が作ってくれるなら何だって……」=Yeah, not really. I mean, if it looked great and tasted great, there could be nothing better but... if the girl I love made it for me, I'd scarf down just about any...
-「はぅっ……も、もしかして……期待されてたりするのかな……？」=Hauu--... a-are you... hoping that I would...?
-「[H名]さえ良ければぜひ！」=If it's alright with you, then yes please!
-「わ、私……墓穴掘っちゃったかも……うぅぅ……出来る範囲で頑張ってみます……」=I-I might have... shot myself in the foot there... uuu... I'll try the best I can...
+//「ここの喫茶店のメニューって、どれも美味しそうな物ばかりだよねー。私、すっごく悩んじゃったよ」=
+//「分かる！　味も美味しそうだけど、何より見た目が良いよね。メニューの写真だけでも味が想像出来るし……」=
+//「そうそう。あんな風に上手に盛り付けるの大変だろうなぁ……でもお料理って見た目も大切だもんね」=
+//「うん、目で食べるっていうくらいだもんね。俺なんか、そういうセンスは全くないから……単純に美味しそうって感じちゃうだけだけど」=
+//「ふふっ、私も最初はそうだったよー。でもね、お料理していくうちに、少しずつ見方が変わっていったの」=
+//「そうなんだ？　どんな風に変わるの？」=
+//「うん、例えばね。なんでここにブロッコリーがあるんだろう……とか、この桃の角度はどうしてこうなんだろう……とか」=
+//「じっくり考えると、全部の配置に結構意味があるんだよ。ちょっとした変化ですごく美味しそうに見えたりするの」=
+//「そうなんだ。すごい……料理作る時ってそんなことまで考えるんだね」=
+//「あははっ、自分で食べる分はそんなこと気にしないけど……もしも君に作ってあげるとしたら、いっぱいいっぱい気にしちゃうかもー」=
+//「私も全然ダメ……お料理って難しすぎて……味付けも難しいし、盛り付けも難しいし……苦手だよぅ……」=
+//「あはは、お店じゃないんだから、自分で作る場合、盛り付けは気にしなくてもいいんじゃないかな？」=
+//「そ、そうかな？　君は気にしない？」=
+//「うん、気にしないかも。味も見た目も、良いに越したことはないけど……好きな娘が作ってくれるなら何だって……」=
+//「はぅっ……も、もしかして……期待されてたりするのかな……？」=
+//「[H名]さえ良ければぜひ！」=
+//「わ、私……墓穴掘っちゃったかも……うぅぅ……出来る範囲で頑張ってみます……」=

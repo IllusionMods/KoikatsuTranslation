@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「う、運動ですか？　私と？」=E-Exercise? With me?
-「うん。駄目かな？」=Yeah. No good?
-「いえ……。でも、物も人も少ないところでお願いします」=No... But, let's do it in a place devoid of people and things in general.
+//「う、運動ですか？　私と？」=
+//「うん。駄目かな？」=
+//「いえ……。でも、物も人も少ないところでお願いします」=

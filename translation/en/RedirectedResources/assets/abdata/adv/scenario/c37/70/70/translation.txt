@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「ここはこんな感じ……でどうかな」=Do this part like this and... how is it?
-「……そうですね、問題ないと思います」=...Indeed, I think there's no issues.
-「よかった、[H名]の教えに感謝しないとな」=Great, I gotta thank you for all this help, [H名].
-「……では、次はこちらを見ましょうか」=...Well then, let's take a look at this next, shall we?
-「……照れてる？」=...Are you being shy?
-「そんな事はありますので、さぁ、次、見せて下さい」=Not at all, now then, show me the next one.
+//「ここはこんな感じ……でどうかな」=
+//「……そうですね、問題ないと思います」=
+//「よかった、[H名]の教えに感謝しないとな」=
+//「……では、次はこちらを見ましょうか」=
+//「……照れてる？」=
+//「そんな事はありますので、さぁ、次、見せて下さい」=

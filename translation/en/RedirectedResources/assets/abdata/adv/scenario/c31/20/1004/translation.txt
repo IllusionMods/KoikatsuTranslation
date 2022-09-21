@@ -1,17 +1,17 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-モブ=Mob
-「お疲れ様でした。ふふっ、素敵な式でしたよ」=Good work today. Fufu~ It was a lovely ceremony.
-「本番の結婚式も、是非、私どもの式場で挙げてくださいね！」=For your actual wedding as well, please, do call upon us!
-「えっと、前向きに考えさせてもらいます」=Erhm, sure, if we get to that point.
-「お願いします！　今日はお引き受けいただいて、ありがとうございました」=Thank you! And for helping us out so much today as well, thank you very much!
-「ふぅ～っ、どっと力が抜けたぁ～っ」=Fuu~--, I feel like all my energy just drained out of me~--
-「はは、私もだ……なんと言うか、独特の疲労感だな……満ち足り過ぎて、逆に動きたくない」=Haha, same here... How do I say it, it's a unique kind of fatigue... I feel so happy and fulfilled, I don't feel like moving.
-「わかる、賢者タイムって感じだよね」=I know what you mean, feels like post-nut clarity, doesn't it?
-「ばかっ、そんなものと一緒にするなっ……少しは雰囲気を考えろ」=Dummy--, don't lump this and that together--... Think about the mood for once.
-「うぅ、だって、もうなんか色々あり過ぎて、もうなんかなんだよ、わかるでしょ？」=Uuu, I can't help it, I mean, it all feels like a bit of an overload, like, I don't even know, you know?
-「言いたい事はわかるが、今からそれでは本番が不安になるな」=I do understand what you're trying to say but, it just makes me worried about the real thing.
-「ほっ、本番！？　そ、そうだね、本番が……あるんだよね？」=T-The real thing!? T-That's right, we'll eventually... do it for real, huh?
-「さぁな、それはおまえ次第だ。今みたいな発言を繰り返していると、呆れて逃げられても知らんぞ？」=Who knows, that depends on you. If you keep saying stuff like what you said just now, don't blame me for getting fed up and walking away, okay?
-「ちょ、待って！　さっきのは忘れて！　お願いします！」=Wa--, Wait a bit! Forget about that one! Please!
+//モブ=
+//「お疲れ様でした。ふふっ、素敵な式でしたよ」=
+//「本番の結婚式も、是非、私どもの式場で挙げてくださいね！」=
+//「えっと、前向きに考えさせてもらいます」=
+//「お願いします！　今日はお引き受けいただいて、ありがとうございました」=
+//「ふぅ～っ、どっと力が抜けたぁ～っ」=
+//「はは、私もだ……なんと言うか、独特の疲労感だな……満ち足り過ぎて、逆に動きたくない」=
+//「わかる、賢者タイムって感じだよね」=
+//「ばかっ、そんなものと一緒にするなっ……少しは雰囲気を考えろ」=
+//「うぅ、だって、もうなんか色々あり過ぎて、もうなんかなんだよ、わかるでしょ？」=
+//「言いたい事はわかるが、今からそれでは本番が不安になるな」=
+//「ほっ、本番！？　そ、そうだね、本番が……あるんだよね？」=
+//「さぁな、それはおまえ次第だ。今みたいな発言を繰り返していると、呆れて逃げられても知らんぞ？」=
+//「ちょ、待って！　さっきのは忘れて！　お願いします！」=

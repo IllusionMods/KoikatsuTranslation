@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-………………=.........
-…………=......
-……=...
-「な、何とか勝てた……すっごく汗かいたけど、とっても楽しかったわ！」=“I-I won somehow... I sweated up a storm but, it was a ton of fun!”
+//………………=
+//…………=
+//……=
+//「な、何とか勝てた……すっごく汗かいたけど、とっても楽しかったわ！」=

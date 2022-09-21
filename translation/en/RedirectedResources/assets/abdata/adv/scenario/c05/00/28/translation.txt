@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「わたしにこんないいものをくれるなんて、あなたって不思議な人……ありがとう」=“You're a weird guy, giving me something so nice... thank you.”
+//「わたしにこんないいものをくれるなんて、あなたって不思議な人……ありがとう」=

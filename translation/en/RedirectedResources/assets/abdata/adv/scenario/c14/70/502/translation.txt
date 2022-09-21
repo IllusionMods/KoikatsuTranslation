@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-（今日はかなり早めに待ち合わせ場所に来たけど……[H名]、もう来てるみたいだ）=(Well, I tried to get here much earlier than usual... seems like she's already here.)
-「相変わらず来るのがおせぇな～！　しょうがねぇやつだ！」=Late as usual~! There's no helping you!
-「ごめんごめん。それじゃあ、行こうか」=Sorry, sorry. Well then, let's go.
+//（今日はかなり早めに待ち合わせ場所に来たけど……[H名]、もう来てるみたいだ）=
+//「相変わらず来るのがおせぇな～！　しょうがねぇやつだ！」=
+//「ごめんごめん。それじゃあ、行こうか」=

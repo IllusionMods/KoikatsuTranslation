@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「うぉっ！　……ついにこの時が来てしまったのか～」=Uwoh--! ...Finally, the time has come, huh~
-「どうかな？　俺はもっと深い関係になりたい」=How about it? I wanna be even closer to you.
-「ふふふ……そういうことならしょ～がないな～」=Fufufu... I guess it can't be helped~ in that case~
-「私を[P]のオンナにしてもらいましょ～」=Guess I'll have you make me your woman~
+//「うぉっ！　……ついにこの時が来てしまったのか～」=
+//「どうかな？　俺はもっと深い関係になりたい」=
+//「ふふふ……そういうことならしょ～がないな～」=
+//「私を[P]のオンナにしてもらいましょ～」=

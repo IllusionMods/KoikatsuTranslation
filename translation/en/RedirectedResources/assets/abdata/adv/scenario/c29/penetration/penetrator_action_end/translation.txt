@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「ありがとうございます。私、精一杯頑張らせて頂きますから……」=Thank you very much. I'll do my absolute very best so...
+//「ありがとうございます。私、精一杯頑張らせて頂きますから……」=

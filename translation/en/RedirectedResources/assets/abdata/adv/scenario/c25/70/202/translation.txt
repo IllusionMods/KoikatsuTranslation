@@ -1,25 +1,25 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「まずは、どの乗り物で遊ぼうか？」=Which ride should we go with first?
-「ごめ～ん、その前にお腹空いちゃった～……」=Sorry~, before that, I'm really hungry~...
-「あれ？　朝食は食べて来なかったの？」=Huh? Did you not get breakfast?
-「うん。お化粧とか、着ていく洋服選びに時間を取られて～……」=Yeah. I kinda ended up spending a lot of time putting on makeup and picking my clothes so~...
-「私も一応女の子だからね。そこら辺は気を遣うんすよ」=I'm a girl too, in the end. Even I pay attention to atleast that stuff.
-「そっか……面倒くさがりの[H名]が俺のために、いろいろ準備してくれてたんだ……。ありがとう」=I see... You, someone who hates effort, dolled yourself up, just for me... Thank you.
-「じゃあ、あそこのスペースで腹ごしらえをしようか。奢っちゃうよ」=Well then, let's fill ourselves up at that booth. I'll treat you.
-………………=.........
-「ん～、どれも美味しい～！　外で景色を見ながら食べるのって最高だね～」=Nn~, everything looks good~! Eating food outside while savouring the view's the best, isn't it~
-「そうだね。やっぱり外で食べると気分が違うよね」=Yeah, it is. It just feels different from when eating indoors, doesn't it?
-「まるで子供の頃の遠足みたいだよ」=It feels like a trip, from back when I was a kid.
-「遠足か～、懐かしいっすね～。どこに行ったりしてたっすか？」=A trip, huh~, so nostalgic~. What sorts of places did you tend to go to?
-「公園とか、大きい神社とかで……遊園地とか動物園の様な所には連れて行って貰えなかったな」=Parks, or the big name shrines and stuff... Never got to go to the zoo or the amusement park and the like.
-「へ～、そうなんだ～」=Heh~, I see~
-「でも、行くまでの道中が楽しかったりするから、どこでもいいと言えばどこでもいいよね～」=But, a huge part of the fun's the journey itself, so where you went didn't really matter, did it~
-「へ～、意外だな。[H名]のイメージ的に歩くの面倒くさいとか言ってそうだと思ったんだけど……」=Hoh~, that's unexpected. I thought you'd say something like "Walking's such a pain", knowing how lazy you are...
-「失礼っすよ～。楽しいことは別腹なんです～」=That's rude~. I have a separate battery for fun stuff~
-「そうなんだね。ごめん」=You do, huh? Sorry.
-「んふふ～、じゃあ、別腹ついでにデザートも欲しいな～」=Nnfufu~, well then, on that note, I'd love some dessert as well, to recharge that battery.
-「ん、いいよ。何がいい？」=Mm, alright. What'd you like?
-「うーん、考えるの面倒だから、任せるっす」=Mmmm, it's a pain to think of something, so I'll leave that to you.
-「いや、そこは面倒くさがるのかよっ！！」=Is that where you're gonna trip up--?!
+//「まずは、どの乗り物で遊ぼうか？」=
+//「ごめ～ん、その前にお腹空いちゃった～……」=
+//「あれ？　朝食は食べて来なかったの？」=
+//「うん。お化粧とか、着ていく洋服選びに時間を取られて～……」=
+//「私も一応女の子だからね。そこら辺は気を遣うんすよ」=
+//「そっか……面倒くさがりの[H名]が俺のために、いろいろ準備してくれてたんだ……。ありがとう」=
+//「じゃあ、あそこのスペースで腹ごしらえをしようか。奢っちゃうよ」=
+//………………=
+//「ん～、どれも美味しい～！　外で景色を見ながら食べるのって最高だね～」=
+//「そうだね。やっぱり外で食べると気分が違うよね」=
+//「まるで子供の頃の遠足みたいだよ」=
+//「遠足か～、懐かしいっすね～。どこに行ったりしてたっすか？」=
+//「公園とか、大きい神社とかで……遊園地とか動物園の様な所には連れて行って貰えなかったな」=
+//「へ～、そうなんだ～」=
+//「でも、行くまでの道中が楽しかったりするから、どこでもいいと言えばどこでもいいよね～」=
+//「へ～、意外だな。[H名]のイメージ的に歩くの面倒くさいとか言ってそうだと思ったんだけど……」=
+//「失礼っすよ～。楽しいことは別腹なんです～」=
+//「そうなんだね。ごめん」=
+//「んふふ～、じゃあ、別腹ついでにデザートも欲しいな～」=
+//「ん、いいよ。何がいい？」=
+//「うーん、考えるの面倒だから、任せるっす」=
+//「いや、そこは面倒くさがるのかよっ！！」=

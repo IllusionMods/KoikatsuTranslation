@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-光の軌跡=Point of Light
-光の閃光=Flashes of Light
-光の粉=Sparkles of Light
+//光の軌跡=
+//光の閃光=
+//光の粉=

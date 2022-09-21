@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「やった、今日の日替わりは唐揚げだ」=Yay, today's special is deep fried chicken.
-「えー、唐揚げの日って……女子だと逆に人気がない方なんだけどな」=Eh~, deep fried chicken... it's actually hard to get excited about that as a girl, honestly.
-「そうなの？　美味しいのに？」=That so? Even though it's so good?
-「味じゃなくてカロリーの問題だよー。美味しいのは……分かってるんだよ……うぅ……」=It's not about the taste, it's about the calories. It's not like I... don't know that it's great... uu...
-「もう、そんな辛そうに我慢しなくても……一つあげよっか？」=Jeez, you don't need to bear it that badly... want a bite of mine?
-「はぅっ！？　う……ぅ……はぅ……く……ぅ……お……お願いします……」=Hauu--!? Uu... uu... hauu... kuh... uu... p... please...
-「あ、ははは……すごい葛藤だったね」=Ah, hahaha... took you a while to beat that inner opposition down.
+//「やった、今日の日替わりは唐揚げだ」=
+//「えー、唐揚げの日って……女子だと逆に人気がない方なんだけどな」=
+//「そうなの？　美味しいのに？」=
+//「味じゃなくてカロリーの問題だよー。美味しいのは……分かってるんだよ……うぅ……」=
+//「もう、そんな辛そうに我慢しなくても……一つあげよっか？」=
+//「はぅっ！？　う……ぅ……はぅ……く……ぅ……お……お願いします……」=
+//「あ、ははは……すごい葛藤だったね」=

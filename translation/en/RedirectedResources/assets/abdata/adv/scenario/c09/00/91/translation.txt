@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「お、おはよう……[Pあだ名]」=“G-Good morning... [Pあだ名].”
-「おはよう、[Hあだ名]」=“Morning, [Hあだ名].”
-「なんで平気そうなの？　照れてるのがおかしいみたいじゃない～！」=“Why're you so comfortable with it? Now I feel silly for being so embarrassed~!”
+//「お、おはよう……[Pあだ名]」=
+//「おはよう、[Hあだ名]」=
+//「なんで平気そうなの？　照れてるのがおかしいみたいじゃない～！」=

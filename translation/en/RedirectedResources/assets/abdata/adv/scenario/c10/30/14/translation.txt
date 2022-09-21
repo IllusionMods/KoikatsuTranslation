@@ -1,5 +1,5 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「あ、起きた……。昨日は、よくも我にあんなことを……」=“Ah, thou art up... Thou sure did some things to me...”
-「お、思い出しただけで、恥ずかしくなるよ……」=“J-Just thinking back to it, is making me embarrassed...”
+//「あ、起きた……。昨日は、よくも我にあんなことを……」=
+//「お、思い出しただけで、恥ずかしくなるよ……」=

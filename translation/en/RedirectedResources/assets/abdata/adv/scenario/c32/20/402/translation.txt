@@ -1,19 +1,19 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「ふぅ……こうして、喫茶店の空気の中にいると、いろいろな不安やストレスが消えていくのがわかります」=Fuu... Enjoying the atmosphere of a coffee shop like this, I can feel all sorts of piled up stress and worries just dissipating away.
-「うんうん、わかるよ。宿題や、前回のテストの成績のこととか、綺麗さっぱり忘れてしまいそうだ……」=Yeah, I know, right? I can feel all my worries about homework, or the test results from last time, all of that being completely wiped away...
-「それはいけません。だって、学生の本分は勉強なんですから」=That's no good. After all, studying is a student's duty.
-「そうだけど……俺、コイカツが忙してくて、なかなか勉強に時間取れないんだよね」=That's true but... I'm so busy with the Koikatsu club as it is, I just can't find the time to set aside for studying.
-「部活生活を謳歌するのは、学生の特権ではありますね。ですが、勉強をおろそかにすることは感心できません」=I agree, enjoying one's club life is the exclusive privilege of students. However, I can't respect neglecting one's studies.
-「いや～～、ちゃんとやってはいるんだよ？　でも、評価が芳しくないんだよね」=No, well~~, it's not like I don't study, you know? But, my grades aren't any good.
-「学業の結果がテストの点に反映しない、ということはちゃんとやっていない証拠といえます」=The fact that your academic efforts don't reflect in the test scores, is proof that you're not doing it properly.
-「う～～、厳しいいこと言わないでよぉ。[H名]の方はどうなの？　普段から勉強してる？」=Uuu~~, don't be so harsh on me. What about you, [H名]? Do you study regularly?
-「もちろんです。コツコツやれば、必ず成績アップに繋がります」=Of course. If you keep at it untiringly, it'll definitely lead to an increase in scores.
-「そういうところ見習いたいなぁ……俺も、もっと勉強しなきゃ」=Man, wish I could learn something from you... I gotta study harder too.
-「だったら、一緒に勉強しましょう。私、いつでも教えますから、遠慮なく聞いてきて下さい」=In that case, let's study together. I can teach you whenever, so feel free to ask at any time.
-（うう……社交辞令のつもりだったんだけどなぁ……）=(Uuuu... I was just giving lip service though...)
-「……最近はあまり。誰かさんの影響ですかね……少し成績が落ちてしまっています」=...Recently, I wonder if it's because of a certain somebody's influence, but... my grades have been falling a bit.
-「やれやれ、まったく……その誰かさんってのは、本当に悪いヤツだぜ～～」=Good grief, really... that certain somebody, he sure sounds like a bad person~~
-「少し困った人です。でも、仲良しで、とても楽しい人なので……あまり悪くいいたくありませんね」=He's a real pain in the butt. But, he's a great friend, and a really fun guy to be around so... I don't really want to talk bad about him.
-「へへへ、気遣いありがとう。嬉しいよ」=Hehehe, thanks for your consideration. It makes me happy.
+//「ふぅ……こうして、喫茶店の空気の中にいると、いろいろな不安やストレスが消えていくのがわかります」=
+//「うんうん、わかるよ。宿題や、前回のテストの成績のこととか、綺麗さっぱり忘れてしまいそうだ……」=
+//「それはいけません。だって、学生の本分は勉強なんですから」=
+//「そうだけど……俺、コイカツが忙してくて、なかなか勉強に時間取れないんだよね」=
+//「部活生活を謳歌するのは、学生の特権ではありますね。ですが、勉強をおろそかにすることは感心できません」=
+//「いや～～、ちゃんとやってはいるんだよ？　でも、評価が芳しくないんだよね」=
+//「学業の結果がテストの点に反映しない、ということはちゃんとやっていない証拠といえます」=
+//「う～～、厳しいいこと言わないでよぉ。[H名]の方はどうなの？　普段から勉強してる？」=
+//「もちろんです。コツコツやれば、必ず成績アップに繋がります」=
+//「そういうところ見習いたいなぁ……俺も、もっと勉強しなきゃ」=
+//「だったら、一緒に勉強しましょう。私、いつでも教えますから、遠慮なく聞いてきて下さい」=
+//（うう……社交辞令のつもりだったんだけどなぁ……）=
+//「……最近はあまり。誰かさんの影響ですかね……少し成績が落ちてしまっています」=
+//「やれやれ、まったく……その誰かさんってのは、本当に悪いヤツだぜ～～」=
+//「少し困った人です。でも、仲良しで、とても楽しい人なので……あまり悪くいいたくありませんね」=
+//「へへへ、気遣いありがとう。嬉しいよ」=

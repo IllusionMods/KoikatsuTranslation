@@ -1,21 +1,21 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「えへへ、今日も歌っちゃうよぉ」=Ehehe, I'mma sing a ton today too.
-「[H名]はいつも元気だよな。見てる方も元気になるよ」=You're always so lively, [H]. Just watching you makes me feel energetic too.
-「そう言われると何だか照れちゃうなぁ」=You'll make me blush.
-「あっ！　この曲採点できるんだ！　[P名]君、採点機能付けてもいいかな？」=Ah--! This one can grade the songs! [P]-kun, do you mind if we turn on the ranking mode?
-「えっ……！　そ、それはやめた方がいいんじゃない！？」=Eh--...! S-Shouldn't we just like not!?
-「ん～？　どうして？」=Nn~? Why?
-「あっ、それは……ほら！　そもそも芸術に点数なんか付けて評価するのはどうかと思うし……」=Ah--, that's... you know! To begin with, I do think it's a bit dubious to assign a random score to fine arts and rank people against each other on such shaky grounds...
-「どうしたの？　難しいこと言っちゃって」=What's the matter? You're using a lot of big words.
-「ほら行くよ！　はいっ！　機能ＯＮ！」=Come on! There--! Ranking ON!
-………………=.........
-「ろ、６３点……」=S-Sixty Three points...
-「あ！　でも、ほら！　全国８位だってよ！」=Ah! But, look! It says you're ranked 8th in the country!
-「ほんとだぁ！　え～と……何人中何人だったんだろ？」=You're right! Erhm... ranked 8th out of how many people though, exactly?
-（げっ！　やばい……！）=(Geh--! This is bad...!)
-「あれっ……画面変わっちゃった……？」=Huh--... the screen changed...?
-「あ～、ごめんごめん……間違ってボタン押しちゃったみたい……」=Ah~, sorry sorry... I accidentally pressed the wrong button, it seems...
-「ま、まあ、いいじゃない！　次！　次！」=W-Well, isn't it fine!? Next! Let's do the next one!
-「え～っ？　気になるなぁ」=Eeh~? I'm real curious to know though~
+//「えへへ、今日も歌っちゃうよぉ」=
+//「[H名]はいつも元気だよな。見てる方も元気になるよ」=
+//「そう言われると何だか照れちゃうなぁ」=
+//「あっ！　この曲採点できるんだ！　[P名]君、採点機能付けてもいいかな？」=
+//「えっ……！　そ、それはやめた方がいいんじゃない！？」=
+//「ん～？　どうして？」=
+//「あっ、それは……ほら！　そもそも芸術に点数なんか付けて評価するのはどうかと思うし……」=
+//「どうしたの？　難しいこと言っちゃって」=
+//「ほら行くよ！　はいっ！　機能ＯＮ！」=
+//………………=
+//「ろ、６３点……」=
+//「あ！　でも、ほら！　全国８位だってよ！」=
+//「ほんとだぁ！　え～と……何人中何人だったんだろ？」=
+//（げっ！　やばい……！）=
+//「あれっ……画面変わっちゃった……？」=
+//「あ～、ごめんごめん……間違ってボタン押しちゃったみたい……」=
+//「ま、まあ、いいじゃない！　次！　次！」=
+//「え～っ？　気になるなぁ」=

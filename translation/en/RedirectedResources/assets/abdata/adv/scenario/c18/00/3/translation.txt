@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「え？　わ、私と一緒に帰りたいんですか？」=Eh? Y-You want to walk home with me?
-「うん。えっと、都合が悪かったかな？」=Yeah. Erhm, bad timing?
-「いや、そういうわけでは……ただ、その……私といると、不幸な目に合うかもしれないですよ？　それでもいいんですか？」=No, it's nothing like that... it's just, you know... my bad luck might affect you too, you know? Do you still want to go through with this?
-「はは、それくらい気にしないよ」=Haha, I don't mind that sort of thing.
+//「え？　わ、私と一緒に帰りたいんですか？」=
+//「うん。えっと、都合が悪かったかな？」=
+//「いや、そういうわけでは……ただ、その……私といると、不幸な目に合うかもしれないですよ？　それでもいいんですか？」=
+//「はは、それくらい気にしないよ」=

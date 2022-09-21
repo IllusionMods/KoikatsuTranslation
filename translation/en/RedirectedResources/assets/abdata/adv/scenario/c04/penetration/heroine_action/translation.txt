@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「えっと……混ざりたいの？　……どうする？」=Erm... you wanna join us? ...What do you say?
-「私は……そうね、別に構わないわよ？」=I... yes, I don't really mind, you know?
-「えっと……混ざりたいの？　俺はＯＫだけど……」=Erhm... you wanna join us? I'm fine with it but...
-「ええ、シましょ。　三者三様の羞恥をさらけ出すのよ」=Yes, let's do it. We'll all show each other our own unique shameful sights.
+//「えっと……混ざりたいの？　……どうする？」=
+//「私は……そうね、別に構わないわよ？」=
+//「えっと……混ざりたいの？　俺はＯＫだけど……」=
+//「ええ、シましょ。　三者三様の羞恥をさらけ出すのよ」=

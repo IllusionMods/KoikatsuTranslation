@@ -1,20 +1,20 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-待機=Idle
-本を読む1=Reading Book 1
-本を読む2=Reading Book 2
-スマホを眺める=Looking At Smartphone
-フリック操作=Swiping Smartphone Screen
-ゲームをする=Playing Game
-音楽を聴く=Listening To Music
-飲む待機=About To Drink
-飲む=Drinking
-伸び=Stretching
-髪を直す=Fixing Hair
-片足上げ抱え=Leg Tucked In Arm
-足を組み待機1=Crosslegged 1
-足を組み換える1=Switching Legs 1
-足を組み待機2=Crosslegged 2
-足を組み換える2=Switching Legs 2
-ソファーでまったり=Relaxing On Sofa
+//待機=
+//本を読む1=
+//本を読む2=
+//スマホを眺める=
+//フリック操作=
+//ゲームをする=
+//音楽を聴く=
+//飲む待機=
+//飲む=
+//伸び=
+//髪を直す=
+//片足上げ抱え=
+//足を組み待機1=
+//足を組み換える1=
+//足を組み待機2=
+//足を組み換える2=
+//ソファーでまったり=

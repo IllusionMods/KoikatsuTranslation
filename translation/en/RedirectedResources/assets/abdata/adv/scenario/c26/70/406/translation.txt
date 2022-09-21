@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「今日は……いっぱい、おしゃべりできて良かった」=“I'm glad we... got to chat lots, today.”
-（確かにいつもよりも、話せたかも。それだけ楽しかったんだろうな）=(For sure, we chatted a lot more than usual today, I think. Must have been just that enjoyable, to be in each other's company.)
-「俺もだよ。[H名]の意外な一面が見れた気がするし、まだまだ俺の知らない[H名]がいるんだな」=“Me too. I feel like I got to see a whole new side of you, looks like you still have lots of sides that I don't know about, huh?”
-「……そ、そんなこと……ない」=“...T-That's not... true.”
-「はは、照れてる照れてる。それじゃあ、そろそろお店を出ようか」=“Haha, you're blushing, you're blushing. Well then, let's head out.”
+//「今日は……いっぱい、おしゃべりできて良かった」=
+//（確かにいつもよりも、話せたかも。それだけ楽しかったんだろうな）=
+//「俺もだよ。[H名]の意外な一面が見れた気がするし、まだまだ俺の知らない[H名]がいるんだな」=
+//「……そ、そんなこと……ない」=
+//「はは、照れてる照れてる。それじゃあ、そろそろお店を出ようか」=

@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「ふぅ～、さすがにちょっと疲れたなぁ……」=Fuu~, that really was quite tiring...
-「へぇ～。すごい、全部あってるじゃん」=Heh~. Amazing, they're all correct.
-「いや、今日はたまたま、なんか調子よくて」=No, that was just luck, I feel pretty good today.
-「これなら将来も安泰じゃん。そしたらアタシも面倒見てもらおっかな～……なんてね」=If it's like this, your future looks pretty solid too. Maybe I'll hitch a ride next to you myself~... kidding.
-「び、びっくりした～冗談だよね、ははは」=T-That really caught me off guard~, nice joke, hahaha.
+//「ふぅ～、さすがにちょっと疲れたなぁ……」=
+//「へぇ～。すごい、全部あってるじゃん」=
+//「いや、今日はたまたま、なんか調子よくて」=
+//「これなら将来も安泰じゃん。そしたらアタシも面倒見てもらおっかな～……なんてね」=
+//「び、びっくりした～冗談だよね、ははは」=

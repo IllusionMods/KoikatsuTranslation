@@ -1,19 +1,19 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-待機=Idle
-歩く=Walking
-走り=Running
-しゃがみ=Taking A Knee
-しゃがみ歩き=Crouch-Walking
-話す=Talking
-呼び出し=Calling Someone
-本を読む1=Reading Book 1
-本を読む2=Reading Book 2
-パタパタ=Flapping
-スクワット=Squatting
-しんきゃく=Stretching
-シャドーボクシング=Shadowboxing
-腰振り=Shaking Hips
-勉強をする=Studying
-座り=Sitting
+//待機=
+//歩く=
+//走り=
+//しゃがみ=
+//しゃがみ歩き=
+//話す=
+//呼び出し=
+//本を読む1=
+//本を読む2=
+//パタパタ=
+//スクワット=
+//しんきゃく=
+//シャドーボクシング=
+//腰振り=
+//勉強をする=
+//座り=

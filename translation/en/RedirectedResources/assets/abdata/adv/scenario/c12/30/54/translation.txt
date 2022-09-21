@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「はぁ、もぅ、ずっとビクビクしてたんだからなっ……ちーがーうっ！　恥ずかしかったって事だ！」=“Haah, jeez, you had me twitching for so long... that's -- not -- it! It was all the embarrassment!”
+//「はぁ、もぅ、ずっとビクビクしてたんだからなっ……ちーがーうっ！　恥ずかしかったって事だ！」=

@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-………………=.........
-…………=......
-……=...
-「これからもコイカツ頑張りましょうね、ふふふ」=Let's continue to do our best at this love activities, Fufufu~
+//………………=
+//…………=
+//……=
+//「これからもコイカツ頑張りましょうね、ふふふ」=

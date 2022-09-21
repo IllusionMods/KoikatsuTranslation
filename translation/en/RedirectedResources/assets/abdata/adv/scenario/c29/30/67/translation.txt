@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「あの……もう少し距離を詰めてみていいですか？」=Uhm... is it alright if we get a bit closer together?
-「いいけど……今でも十分近いと思うよ？」=Yeah, it is but... I think we're already pretty close enough, no?
-「今は手を繋いでいる状態ですよね。だから――」=We're currently holding hands. So---
-「えいっ。腕を組んでみました」=There--. Now our arms are linked instead.
-「おおぉ。なんか密着感が強くなったね」=Oooh. This really does feel closer.
+//「あの……もう少し距離を詰めてみていいですか？」=
+//「いいけど……今でも十分近いと思うよ？」=
+//「今は手を繋いでいる状態ですよね。だから――」=
+//「えいっ。腕を組んでみました」=
+//「おおぉ。なんか密着感が強くなったね」=

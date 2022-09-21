@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「あ、おはよう！　今日も元気そうね！」=“Ah, good morning! You sure seem lively today!”
+//「あ、おはよう！　今日も元気そうね！」=

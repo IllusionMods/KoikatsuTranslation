@@ -1,17 +1,17 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「んーっ、歌った歌った～。……あっ、そろそろ時間ね」=“Nnn--, we sure sang a lot~. ...Ah--, our time's almost up.”
-CHOICE:『延長して、もうちょっと歌おうよ』=Let's extend it, and sing a bit more.
-CHOICE:『帰る仕度をしよっか』=Let's get our things in order and go home.
-「延長しない？　俺、まだ歌いたりなくてさ」=“Wanna extend it? I've still not had enough yet.”
-「いいわよ。それじゃ、今日はとことん歌いましょうか」=“Sure. Well then, let's just get our complete fill of singing today.”
-「よしっ、さっそく延長の電話を入れるよ」=“Alright--, I'll put in the call for an extention then.”
-「それじゃあ、帰る仕度をしよっか」=“Well then, let's grab our stuff and go home.”
-「うんっ。ふふっ、いいストレス解消になったわ」=“Yeah--. Fufu--, that was pretty good stress relief.”
-「はは、それならよかったよ」=“Haha, I'm glad to hear that.”
-「そうだね。最後に一曲歌ったら帰ろっか。[H名]が入れていいよ」=“Right. Let's sing one more song and then head back. You can take it, [H名].”
-「私？　ん～……それじゃあ、あの曲を入れよっと」=“Me? Nn~... well then, let's put in that song.”
-「合いの手は任せて！」=“Leave the hyping to me!”
-『もしも今 背中に羽が生えて 大空自由に 飛び回れたら～♪』=『If only I could, sprout wings from my back, and fly freely, in this wide open sky~♪』
-「Ｆｕ、Ｆｕ～♪」=“Fu, fu~♪”
+//「んーっ、歌った歌った～。……あっ、そろそろ時間ね」=
+//CHOICE:『延長して、もうちょっと歌おうよ』=
+//CHOICE:『帰る仕度をしよっか』=
+//「延長しない？　俺、まだ歌いたりなくてさ」=
+//「いいわよ。それじゃ、今日はとことん歌いましょうか」=
+//「よしっ、さっそく延長の電話を入れるよ」=
+//「それじゃあ、帰る仕度をしよっか」=
+//「うんっ。ふふっ、いいストレス解消になったわ」=
+//「はは、それならよかったよ」=
+//「そうだね。最後に一曲歌ったら帰ろっか。[H名]が入れていいよ」=
+//「私？　ん～……それじゃあ、あの曲を入れよっと」=
+//「合いの手は任せて！」=
+//『もしも今 背中に羽が生えて 大空自由に 飛び回れたら～♪』=
+//「Ｆｕ、Ｆｕ～♪」=

@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「ふぇぇ、きょ、今日ってなんか特別な日やったっけ？　あっ、だ、だってこんなサプライズ……嬉しすぎるやんっ！」=Fueee, w-was today a special day or something? Ah--, I-I mean, a surprise like this... I'm way too happy--!
+//「ふぇぇ、きょ、今日ってなんか特別な日やったっけ？　あっ、だ、だってこんなサプライズ……嬉しすぎるやんっ！」=

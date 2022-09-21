@@ -1,13 +1,13 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-シトリーバック=Sitri Back
-エアリーボブ=Airy Bob
-つんショート後ろ=Short, Spiky
-リーゼント=Ducktail
-横分けショート前=Horizontal Divided, Short
-坊主=Buddhist Priest Cut
-カーリーショート後ろ=Curly, Short Back
-ふわセミロング=Fluffy, Shoulder Length
-つんはねショート=Short, Upswept Spikes
-ローツインテール=Narrow Twintails
+//シトリーバック=
+//エアリーボブ=
+//つんショート後ろ=
+//リーゼント=
+//横分けショート前=
+//坊主=
+//カーリーショート後ろ=
+//ふわセミロング=
+//つんはねショート=
+//ローツインテール=

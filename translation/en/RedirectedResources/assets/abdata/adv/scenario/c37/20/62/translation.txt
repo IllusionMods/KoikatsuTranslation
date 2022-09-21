@@ -1,13 +1,13 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-………………=.........
-…………=......
-……=...
-「本日はここまででしょうか？」=Is this it for today?
-CHOICE:「勿論終わりじゃないよ？」=Of course not, it's still not over yet.
-CHOICE:「そうだね、今日も楽しかったよ」=Yeah, today was fun too.
-「勿論終わりじゃないよ？」=Of course not, it's still not over yet.
-「……はい、私もまだ物足りていませんので」=...Yes, I haven't had enough yet either.
-「うん。またね」=Yeah. See ya later.
-「はい。また」=Yes, next time.
+//………………=
+//…………=
+//……=
+//「本日はここまででしょうか？」=
+//CHOICE:「勿論終わりじゃないよ？」=
+//CHOICE:「そうだね、今日も楽しかったよ」=
+//「勿論終わりじゃないよ？」=
+//「……はい、私もまだ物足りていませんので」=
+//「うん。またね」=
+//「はい。また」=

@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「……？ どうしたの、アタシの顔じ～っと見つめちゃって」=...? What's up, you've been staring at my face real~ hard for quite a while now.
-「え、いや……なんか勉強してる時の真剣な表情とか、すごい可愛いなぁって」=Eh, no... I was just thinking that you look seriously adorable, when you're seriously concentrating on your studies and stuff.
-「ちょ！ いきなり何言ってんの！ そ、そんなこと言われたら……もっと好きになっちゃうじゃん」=Hey! What're you saying all of a sudden! I-If you say something like that... I'll fall even more for you.
-「ははは、でも、それはいいことだね」=Hahaha, well, that's a good thing.
+//「……？ どうしたの、アタシの顔じ～っと見つめちゃって」=
+//「え、いや……なんか勉強してる時の真剣な表情とか、すごい可愛いなぁって」=
+//「ちょ！ いきなり何言ってんの！ そ、そんなこと言われたら……もっと好きになっちゃうじゃん」=
+//「ははは、でも、それはいいことだね」=

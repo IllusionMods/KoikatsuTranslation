@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「ひっ！　なんてところに入ってきてるの、早く出て行って！」=“What did you even come in here for, hurry up and get out!”
+//「ひっ！　なんてところに入ってきてるの、早く出て行って！」=

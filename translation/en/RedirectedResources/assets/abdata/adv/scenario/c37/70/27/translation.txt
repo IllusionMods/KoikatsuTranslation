@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「プレゼント？　楽しみです」=A present? I'm so happy.
+//「プレゼント？　楽しみです」=

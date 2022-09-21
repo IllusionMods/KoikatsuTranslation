@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-………………=.........
-…………=......
-……=...
-「今日はいつもよりも美味しくご飯を頂くことができました。あなたのお陰ですね」=Today, the food tasted much better than it usually does. Thanks to you.
+//………………=
+//…………=
+//……=
+//「今日はいつもよりも美味しくご飯を頂くことができました。あなたのお陰ですね」=

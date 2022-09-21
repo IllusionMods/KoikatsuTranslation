@@ -1,19 +1,19 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-（[H名]さんはどんな奥さんなんだろうな……）=(I wonder what kind of a wife [H名]-san would be...)
-（大人っぽいけど、たまにすごく子供っぽくて、物腰穏やかで誰にでも優しい。たまにチクリと刺してくることもあるけど、そのあと、すぐ笑ってくれるんだよな）=(She's super mature, but also really childish at times, with a gentle bearing to hear, she's kinder than anyone. She does prick and sting from time to time, yet always breaks out in laughter right after.
-（そんな猫みたいな……色っぽい……いや、艶っぽい奥さん？　[H名]さんと結婚したら、そんな人との生活が待ってるのか……いいな）=(Would she be such a cat-like... sexy... No, romantic wife? If I marry [H名]-san, that kind of life is what awaits me, huh... Sounds really nice.
-（いよいよ出番か……）=(Showtime, huh?...)
-（ふぅ……よしっ）=(Fuu... Alright--)
-（[H名]さんのウェディングドレス姿にドキドキしすぎて手順を間違えないようにしないと）=(I'm getting way too excited over the idea of seeing [H名]-san in a wedding dress, gotta make sure I don't fuck this up)
-（……緊張したぁ。ちょっと歩いただけなのに汗がびっしょりだ）=(......So nervous. I'm already so drenched in sweat even though all I've done is walk a bit)
-モブ=Mob
-「これより新婦が入場致します。後方の扉口をご覧ください」=And now, the bride will make her entrance. Please pay attention to the main door.
-（[H名]さん……）=([H名]-san...)
-[H名]さんのウェディングドレス姿は『清楚さ』と『妖艶さ』が絶妙に混ざりあって、淫蕩な新婚生活を彷彿とさせた。=[H名]-san's appearance in the wedding dress is such a magnificent blend of neatness and bewitching charm, it brings to mind a lewd newlywed life.
-例えるなら女ヴァンパイアか、サキュバスか――そんな退廃美と対照的に、ドレスはどこまでも汚れない純白で、いけない気持ちにさせる。=For example, a female vampire, or a succubus--, such a decadant beauty, with an uncorruptible, pure white dress to contrast it. It makes me have unspeakable thoughts.
-そんな艶やかさを強調させた[H名]さんは、口元に妖しい笑みを浮かべて静かに佇んでいる。=[H名]-san, who accentuated that sort of charm, is quietly standing there, with a bewitching smile on her face.
-（ゾッとするぐらいきれいだな……）=(She's so beautiful, it's sending a jolt up my spine...)
-「[H名]さん、本気だしてる？」=[H名]-san, are you being serious?
-「本気？　ふふっ、そうね。あなたの花嫁になる覚悟をして歩いて来たわ。模擬とはいえ、バージンロードだもの」=Serious? Fufu--, Indeed. I walked over after resolving myself to become your bride. Mock wedding though it may be, but the aisle is still an aisle.
+//（[H名]さんはどんな奥さんなんだろうな……）=
+//（大人っぽいけど、たまにすごく子供っぽくて、物腰穏やかで誰にでも優しい。たまにチクリと刺してくることもあるけど、そのあと、すぐ笑ってくれるんだよな）=
+//（そんな猫みたいな……色っぽい……いや、艶っぽい奥さん？　[H名]さんと結婚したら、そんな人との生活が待ってるのか……いいな）=
+//（いよいよ出番か……）=
+//（ふぅ……よしっ）=
+//（[H名]さんのウェディングドレス姿にドキドキしすぎて手順を間違えないようにしないと）=
+//（……緊張したぁ。ちょっと歩いただけなのに汗がびっしょりだ）=
+//モブ=
+//「これより新婦が入場致します。後方の扉口をご覧ください」=
+//（[H名]さん……）=
+//[H名]さんのウェディングドレス姿は『清楚さ』と『妖艶さ』が絶妙に混ざりあって、淫蕩な新婚生活を彷彿とさせた。=
+//例えるなら女ヴァンパイアか、サキュバスか――そんな退廃美と対照的に、ドレスはどこまでも汚れない純白で、いけない気持ちにさせる。=
+//そんな艶やかさを強調させた[H名]さんは、口元に妖しい笑みを浮かべて静かに佇んでいる。=
+//（ゾッとするぐらいきれいだな……）=
+//「[H名]さん、本気だしてる？」=
+//「本気？　ふふっ、そうね。あなたの花嫁になる覚悟をして歩いて来たわ。模擬とはいえ、バージンロードだもの」=

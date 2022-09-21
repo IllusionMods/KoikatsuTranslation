@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「あっ、おはようございます。こうして、偶然顔を合わせられるのは嬉しいです」=Ah--, good morning. Being able to see you like this first thing in the morning makes me quite happy.
-「俺もだよ。朝から幸せな気持ちになるね」=Me too. Makes me feel good about today right from the get-go.
-「ええ。その……て、手を繋いだり……してみますか？」=Indeed. Uhm... would you like to try... h-holding hands?
+//「あっ、おはようございます。こうして、偶然顔を合わせられるのは嬉しいです」=
+//「俺もだよ。朝から幸せな気持ちになるね」=
+//「ええ。その……て、手を繋いだり……してみますか？」=

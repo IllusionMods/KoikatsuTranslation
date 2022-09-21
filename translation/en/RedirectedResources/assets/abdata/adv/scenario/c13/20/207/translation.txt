@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「もう、すっかり暗くなっちゃった……足元に気を付けてね」=It's gotten pitch dark... be careful not to trip, okay?
-「うん……あぁ～、一日がマジ早いよ～……」=Yeah... aah~, man, a whole day flies by so fast~...
-「そうだね……」=Yeah, it does...
-「はっ……！　ダメダメ！　せっかくのデートなんだし、最後まで笑ってなくっちゃね！」=Hah--...! We can't be like this! We're on one of our rare dates, we have to enjoy it to the fullest, laughing all the way till the end!
-「うんうん！　最後まで楽しなくちゃ！ ってことで、手を繋いで駅までいこう！」=Yeah, yeah! We gotta enjoy it till the end! So, with that, let's hold hands till the station!
-「おー！」=Yeah!
+//「もう、すっかり暗くなっちゃった……足元に気を付けてね」=
+//「うん……あぁ～、一日がマジ早いよ～……」=
+//「そうだね……」=
+//「はっ……！　ダメダメ！　せっかくのデートなんだし、最後まで笑ってなくっちゃね！」=
+//「うんうん！　最後まで楽しなくちゃ！ ってことで、手を繋いで駅までいこう！」=
+//「おー！」=

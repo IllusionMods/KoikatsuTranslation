@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「そっちの定食、美味しそうだなー」=“Your set sure looks great.”
-「あんたも同じ定食頼めば良かったのに。……でも、ひとくちぐらいならあげてもいいわよ」=“You should have ordered the same one. ...Though, I don't mind sharing a bite or two with you.”
-「それじゃ、お互いのおかずをちょっとだけ交換しようか」=“Well then, let's share some of our sides with each other.”
-「あんた、いいこと考えるじゃない！　じゃ、そのお肉もーらいっ♪」=“You sure come up with good stuff! Then, I'mma have that meat♪”
-（一番大きいやつ持ってかれたァァ！）=(She nabbed the biggest piece!)
+//「そっちの定食、美味しそうだなー」=
+//「あんたも同じ定食頼めば良かったのに。……でも、ひとくちぐらいならあげてもいいわよ」=
+//「それじゃ、お互いのおかずをちょっとだけ交換しようか」=
+//「あんた、いいこと考えるじゃない！　じゃ、そのお肉もーらいっ♪」=
+//（一番大きいやつ持ってかれたァァ！）=

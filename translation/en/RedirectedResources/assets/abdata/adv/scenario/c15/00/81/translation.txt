@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「おぉ、このポテトうまー！」=“Ooh, these fries are awesome!”
-「本当？　一本、くれない？」=“Really? Could I have one?”
-「いいぞー。口にくわえるから、そっちから食べてなー」=“Go ahead. I'll hold it in my mouth, so just go for it.”
-「もぐもぐ……」=“*chew chew*...”
-「……チュッ。ふふー、もう一回やろーよー」=“...*kiss*. Fufu, let's do it again.”
+//「おぉ、このポテトうまー！」=
+//「本当？　一本、くれない？」=
+//「いいぞー。口にくわえるから、そっちから食べてなー」=
+//「もぐもぐ……」=
+//「……チュッ。ふふー、もう一回やろーよー」=

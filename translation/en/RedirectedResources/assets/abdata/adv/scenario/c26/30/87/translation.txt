@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-………………=.........
-…………=......
-……=...
-「……お疲れ。また恋愛研究、しようね」="...Thank you. We should do Love Hunter research again."
+//………………=
+//…………=
+//……=
+//「……お疲れ。また恋愛研究、しようね」=

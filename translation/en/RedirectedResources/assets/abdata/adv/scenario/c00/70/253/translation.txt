@@ -1,19 +1,19 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「あれ？　なんだか急に混んできたね……少し詰めてもらっていいかな？」=Huh? It's gotten so packed all of a sudden... Could you stick a bit closer to me?
-「あぁん……身体、くっつけすぎぃ……こんなの、困っちゃうわ……」=Aaahn... we're stuck too close together... this is quite problematic...
-「ごめんね。これ、マジで混んでるからで、変なつもりは……うおっ」=I'm sorry. It really is super packed, I'm not trying to... uwoh--.
-（[H名]と密着して……すー……はー…………ああ、[H名]、いい匂い……）=(We're glued together... *inhale*... *exhale*... aaah, she smells so nice...)
-CHOICE:『欲望に少し抵抗する』=『Make a token effort to resist.』
-CHOICE:『鉄の自制心を持って抵抗する』=『Resist with your Iron will.』
-（あ、やべ……[H名]に密着してるせいで……どんどん股間が硬くなっていく……）=(Ah, damn... we're glued together so closely... my crotch's starting to react...)
-（が、我慢しなきゃ……ああ、でも……これもう、手遅れだ……）=(I-I have to endure... aah, but... I can't, it's way too late...)
-「ふふふ、当たってるわよ？　それとも当ててるのかしら……？」=Fufufu, it's poking into me, you know? Are you making it do that...?
-「や、その、これは……不可抗力ってやつで……」=No, that's, this is... it's a physiological phenomenon so...
-「ふふふ、じゃあどうなったとしても、誰のせいでもないってことね？」=Fufufu, so, no matter what happens in the end, it won't be anyone's fault, right?
-「そ、それは、どうかな？　わかんないけど……でも、不可抗力だし……」=I-I wonder about that? I don't really know but... I can't exactly control it...
-「そうそう、不可抗力よ……これから、この硬くなったモノがどうなったとしても……ね……うふふふ……」=Exactly, an uncontrollable reaction... No matter what happens, to this rock hard thing of yours... ya know... ufufufu...
-（……って、なにやってんだ俺！　匂いなんて嗅いでたら勃起しちゃうぞ！）=(...--the heck am I doing! If I start sniffing her, I'll pop a chub in no time!)
-（そうなったら[H名]が…………あれ、ノリノリでしてくれそうな、気が……？）=(That'll make [H名] really... huh, I feel like she'd be pretty into it though...)
-（あ、いや！　流されちゃだめだ！　盛りのついた動物じゃないんだから！　我慢、我慢……）=(Ah, no! I can't just go with the fucking flow! I'm not some fucking animal in heat! Endure it, endure it...)
+//「あれ？　なんだか急に混んできたね……少し詰めてもらっていいかな？」=
+//「あぁん……身体、くっつけすぎぃ……こんなの、困っちゃうわ……」=
+//「ごめんね。これ、マジで混んでるからで、変なつもりは……うおっ」=
+//（[H名]と密着して……すー……はー…………ああ、[H名]、いい匂い……）=
+//CHOICE:『欲望に少し抵抗する』=
+//CHOICE:『鉄の自制心を持って抵抗する』=
+//（あ、やべ……[H名]に密着してるせいで……どんどん股間が硬くなっていく……）=
+//（が、我慢しなきゃ……ああ、でも……これもう、手遅れだ……）=
+//「ふふふ、当たってるわよ？　それとも当ててるのかしら……？」=
+//「や、その、これは……不可抗力ってやつで……」=
+//「ふふふ、じゃあどうなったとしても、誰のせいでもないってことね？」=
+//「そ、それは、どうかな？　わかんないけど……でも、不可抗力だし……」=
+//「そうそう、不可抗力よ……これから、この硬くなったモノがどうなったとしても……ね……うふふふ……」=
+//（……って、なにやってんだ俺！　匂いなんて嗅いでたら勃起しちゃうぞ！）=
+//（そうなったら[H名]が…………あれ、ノリノリでしてくれそうな、気が……？）=
+//（あ、いや！　流されちゃだめだ！　盛りのついた動物じゃないんだから！　我慢、我慢……）=

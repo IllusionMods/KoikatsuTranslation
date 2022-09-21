@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「え……？　これで終わり？　もっとしてよ！」=“Eh...? We're stopping here? Do me more!”
+//「え……？　これで終わり？　もっとしてよ！」=

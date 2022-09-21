@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「え、えええエッチなこと……ですか？　で、でも私たちは、お付き合いしているわけでは……」=“S--, S-S-S-Sex... you say? B-But we are, not dating...”
-「うん、よくわかってる。それでも俺は、きみとエッチしたいんだ」=“Yeah, I know that very well. Even so, I want to have sex with you.”
-「あうぅ、そんなにキッパリと……ど、どうしましょう……」=“Auu, so straight... w-what do I do...”
-「……わ、わかりました。あなたのことは決して嫌いではありませんし、そこまで仰るのでしたら」=“...I-I understand. It's not as if I hate you, not at all, so if you insist so much...”
-「いいの？」=“You sure?”
-「はい。心の準備はできました……！」=“Yes. I've readied my heart...!”
+//「え、えええエッチなこと……ですか？　で、でも私たちは、お付き合いしているわけでは……」=
+//「うん、よくわかってる。それでも俺は、きみとエッチしたいんだ」=
+//「あうぅ、そんなにキッパリと……ど、どうしましょう……」=
+//「……わ、わかりました。あなたのことは決して嫌いではありませんし、そこまで仰るのでしたら」=
+//「いいの？」=
+//「はい。心の準備はできました……！」=

@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「Ｂｙ　ｔｈｅ　ｗａｙ，アナタは、何人のオンナノコとＫＯＩ－ＫＡＴＳＵしてきたのカナ？」=By the way, how many girls have you done these love-activities with so far?
-「え？　えっと……その……」=Eh? Erhm... That's...
-「アッ、怒ってる訳じゃないカラネ。恋愛って、経験が大事思うカラ、アナタにはモット、他のオンナノコとＫＯＩ－ＫＡＴＳＵして欲しいノ」=Ah--, not to say that I'm mad at you. I think experience is important when it comes to love so, I'd actually prefer if you did love activities with even more women.
-「ええっ！？　でも……自分を棚に上げるようだけど、俺は[H]が他の男の人と恋するのは嫌だなぁ」=Eeeh--!? But... I realize I don't have any grounds to say this but, I'd hate to see you go out with any other man, [H名].
-「フフフ♡　モチロン、ワタシはアナタ一筋ダケド、アナタはＫＯＩ－ＫＡＴＳＵ部で色々なオンナノコのコト知って、恋シテ、男を磨いたらいい思うヨ」=Fufufu♡ Of course, my heart is set on you but, I think it's a good thing for you to get to know lots of girls through these love activities, grow to love them and sharpen your own manliness.
-「その方がｄａｎｄｙなｇｅｎｔｌｅｍａｎなれると思うシ、そんなアナタをＦａｌｌ　ｉｎ　ｌｏｖｅさせタラ、ワタシも立派なｌａｄｙデショ？　フフフ♡」=I think you'd grow into quite the dandy gentleman that way, and if I can make that sort of you fall head over heels for me, then I'd be quite the lady too, no? Fufufu♡
-（ずっと海外で生活してきたからかな、[H]は他の女の子と少し違う可愛さと色気があるよなぁ）=(I wonder if it's because she grew up abroad, [H名] has a different sort of charm and appeal to her compared to other girls)
+//「Ｂｙ　ｔｈｅ　ｗａｙ，アナタは、何人のオンナノコとＫＯＩ－ＫＡＴＳＵしてきたのカナ？」=
+//「え？　えっと……その……」=
+//「アッ、怒ってる訳じゃないカラネ。恋愛って、経験が大事思うカラ、アナタにはモット、他のオンナノコとＫＯＩ－ＫＡＴＳＵして欲しいノ」=
+//「ええっ！？　でも……自分を棚に上げるようだけど、俺は[H]が他の男の人と恋するのは嫌だなぁ」=
+//「フフフ♡　モチロン、ワタシはアナタ一筋ダケド、アナタはＫＯＩ－ＫＡＴＳＵ部で色々なオンナノコのコト知って、恋シテ、男を磨いたらいい思うヨ」=
+//「その方がｄａｎｄｙなｇｅｎｔｌｅｍａｎなれると思うシ、そんなアナタをＦａｌｌ　ｉｎ　ｌｏｖｅさせタラ、ワタシも立派なｌａｄｙデショ？　フフフ♡」=
+//（ずっと海外で生活してきたからかな、[H]は他の女の子と少し違う可愛さと色気があるよなぁ）=

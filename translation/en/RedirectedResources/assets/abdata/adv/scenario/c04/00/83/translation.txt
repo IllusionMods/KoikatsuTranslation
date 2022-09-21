@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-………………=.........
-…………=......
-……=...
-「ごちそうさま、一緒に食べるごはんってやっぱりおいしいわね。じゃあ、また後でね？」=That was great. Food really does taste amazing when we eat together, doesn't it? Well then, see you later, okay?
+//………………=
+//…………=
+//……=
+//「ごちそうさま、一緒に食べるごはんってやっぱりおいしいわね。じゃあ、また後でね？」=

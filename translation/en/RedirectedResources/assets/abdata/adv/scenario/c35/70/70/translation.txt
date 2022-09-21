@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「ふふっ、ねぇねぇ、図書室でお勉強ってなんかわくわくせん？」=Fufu--, hey, doesn't it feel kinda exciting to study in the library?
-「……？　どういう風に？」=...? In what way?
-「ほら、こんなに静かなとこやん？　そこで二人で……なんて……青春っぽいやん」=I mean, look, it's such a quiet place, no? The two of us, together here... heh... feels like the springtime of life.
-「あはは、[H名]って本当に青春好きだよね。でも……まぁ、分かるかも。大人になったら、こんな風に勉強することもなくなりそうだし……」=Ahahah, you really love that term, don't you? But... well, I think I get it. Once we grow up, we won't really study like this anymore...
-「うん。特に図書室で二人……なんてことはないっちゃないかなぁ。そう思うとね、今の時間ってすごく貴重やなぁって思うんよ」=Yeah. Especially together like this, at a library... something like that would be impossible. When I think about that, I feel the time we have right now is really precious.
-「なるほど、そっか……そうだよね。俺、毎日何気なく過ごしちゃってたかも。そう考えると、こういう勉強の時間も大切だよね」=I see, huh... you're right. I've just been spending my time without thinking over it much. When I think about it like that, even these sorts of study sessions are precious, aren't they?
-「うんうん、めっちゃ貴重なんよ。やから……まだまだ一緒に頑張ろ？　楽しい思い出、いっぱい作りたいっちゃもん」=Yeah, super precious. That's why... let's keep working hard like this, okay? I wanna create lots more fun memories with you.
+//「ふふっ、ねぇねぇ、図書室でお勉強ってなんかわくわくせん？」=
+//「……？　どういう風に？」=
+//「ほら、こんなに静かなとこやん？　そこで二人で……なんて……青春っぽいやん」=
+//「あはは、[H名]って本当に青春好きだよね。でも……まぁ、分かるかも。大人になったら、こんな風に勉強することもなくなりそうだし……」=
+//「うん。特に図書室で二人……なんてことはないっちゃないかなぁ。そう思うとね、今の時間ってすごく貴重やなぁって思うんよ」=
+//「なるほど、そっか……そうだよね。俺、毎日何気なく過ごしちゃってたかも。そう考えると、こういう勉強の時間も大切だよね」=
+//「うんうん、めっちゃ貴重なんよ。やから……まだまだ一緒に頑張ろ？　楽しい思い出、いっぱい作りたいっちゃもん」=

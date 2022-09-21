@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「デートねぇ……私はあんまり出かけるの好きじゃないな～」=A date, huh... I'm not exactly a fan out going out~
-「うーん、じゃあ室内でもできること……」=Mmm, well then, stuff that we can do indoors...
-「テレビはないから……同じ本を一緒に読んでみる？」=Since there's no TV here... wanna try reading the same book together?
-「ん～？　読み難そうなんだけど……」=Nn~? Feels like it'd be really hard to actually...
-「あ～も～いちいち感想言ってたら全然進まないじゃ～ん。あとなんか近いし！」=Ah~, jeez~, if you keep blabbering about this or that, how are we supposed to get anywhere?~ Also, you're kinda too close!
-「ははは……でもこういうのも恋人っぽいと思うんだけどなぁ」=Hahaha... but, this sort of thing is pretty lovey-dovey too, I think.
+//「デートねぇ……私はあんまり出かけるの好きじゃないな～」=
+//「うーん、じゃあ室内でもできること……」=
+//「テレビはないから……同じ本を一緒に読んでみる？」=
+//「ん～？　読み難そうなんだけど……」=
+//「あ～も～いちいち感想言ってたら全然進まないじゃ～ん。あとなんか近いし！」=
+//「ははは……でもこういうのも恋人っぽいと思うんだけどなぁ」=

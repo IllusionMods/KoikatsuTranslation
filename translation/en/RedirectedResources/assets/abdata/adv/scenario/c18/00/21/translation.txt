@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「おはようございます、[P]さん。教室までご一緒しましょう？」=Good morning, [P]-san. Let's walk to the classroom together?
-「ちょ、そんなにくっついて歩いたらこけるよ！」=Hey--, if you stick that close to me while walking, you're gonna trip!
-「あはは、きっと大丈夫ですよ。転びそうになっても[P]さんがいますから」=Ahaha, I'm sure it'll be fine. You'll be there to catch me, afterall.
+//「おはようございます、[P]さん。教室までご一緒しましょう？」=
+//「ちょ、そんなにくっついて歩いたらこけるよ！」=
+//「あはは、きっと大丈夫ですよ。転びそうになっても[P]さんがいますから」=

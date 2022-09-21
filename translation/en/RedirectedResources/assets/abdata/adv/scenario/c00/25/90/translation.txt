@@ -1,15 +1,15 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「ねぇ、[Pあだ名]♪」=Hey, [Pあだ名]♪
-「！？　急にどうしたの……？」=!? What's gotten into you, all of a sudden...?
-「うふふ、驚いてる♪　もうそろそろ君のこと、愛称で呼んでもいいかなって思ったの」=Ufufu, I got you♪ I was just thinking that maybe I'd start calling you with a nickname and stuff.
-「そ、そうなんだ……ちょっとびっくりしたけど、悪くないね」=I-I see... It was a bit surprising but, it didn't feel bad, not bad at all.
-「ほーら、私のことは？」=Come on, what about me?
-「あ……えっと、[Hあだ名]……」=Ah... erhm, [Hあだ名]...
-「あーん、いいわいいわ～♪　すっごくキュンキュンしちゃう。ね、もっと呼んで？」=Aaahn, nice nice~♪ Makes my heart throb real fast. Hey, call me that more?
-「……[Hあだ名]？」=......[Hあだ名]?
-「ふぅ……すっごくイイ……君の特別になれたって感じ……」=Fuu... feels amazing... feels like I became special to you...
-「そんなにいいなら……また呼んであげるよ」=If it feels that good... then I'll call you that again sometime.
-「ありがと♪　私もまた呼んであげるわね……[Pあだ名]って」=Thanks♪ I'll call you that too... [Pあだ名].
-「うん……！」=Yeah...!
+//「ねぇ、[Pあだ名]♪」=
+//「！？　急にどうしたの……？」=
+//「うふふ、驚いてる♪　もうそろそろ君のこと、愛称で呼んでもいいかなって思ったの」=
+//「そ、そうなんだ……ちょっとびっくりしたけど、悪くないね」=
+//「ほーら、私のことは？」=
+//「あ……えっと、[Hあだ名]……」=
+//「あーん、いいわいいわ～♪　すっごくキュンキュンしちゃう。ね、もっと呼んで？」=
+//「……[Hあだ名]？」=
+//「ふぅ……すっごくイイ……君の特別になれたって感じ……」=
+//「そんなにいいなら……また呼んであげるよ」=
+//「ありがと♪　私もまた呼んであげるわね……[Pあだ名]って」=
+//「うん……！」=

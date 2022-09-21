@@ -1,12 +1,12 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「あっ。そろそろ、交信の準備しないと……」=“Ah--. I gotta set up the transmission channel...”
-「それじゃ、ここでいったん話は終わりかな。また話そうね」=“Well then, guess we'll end our chat here then. Let's chat again, okay?”
-「うん。……ねぇ、どうしてわたしに話かけてくるの？」=“Yeah. ...Hey, why do you talk to me?”
-「嫌だった？　それじゃ、もうやめておくけど……」=“Is it a bother? Suppose I can stop...”
-「そういうわけじゃない。純粋に、知りたかっただけなの」=“That's not it. I'm just curious as to why.”
-「俺は、君との会話が好きだからだよ」=“I like chatting with you, that's why.”
-「ふーん、そうなの。もしかしたら……」=“Hmm, I see. By any chance, are you...”
-「……なにか言おうとした？」=“...Were you saying something?”
-「え？　あ……なんでもないの！　それじゃ、またね」=“Eh? Ah... nope, nothing! Well then, see ya.”
+//「あっ。そろそろ、交信の準備しないと……」=
+//「それじゃ、ここでいったん話は終わりかな。また話そうね」=
+//「うん。……ねぇ、どうしてわたしに話かけてくるの？」=
+//「嫌だった？　それじゃ、もうやめておくけど……」=
+//「そういうわけじゃない。純粋に、知りたかっただけなの」=
+//「俺は、君との会話が好きだからだよ」=
+//「ふーん、そうなの。もしかしたら……」=
+//「……なにか言おうとした？」=
+//「え？　あ……なんでもないの！　それじゃ、またね」=

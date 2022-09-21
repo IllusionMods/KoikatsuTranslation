@@ -1,20 +1,20 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-昼=Midday
-夕=Evening
-夜=Night
-ライブステージ=Live Concert Stage
-ビビッド=Vivid
-ノスタルジー=Nostalgia
-レトロ=Retro
-フラットカラー=Flat Color
-フォースカラー=False Color
-コミック=Comics
-モノクロ=Monochrome
-セピア=Sepia
-リバースモノクロ=Reverse Monochrome
-リバースカラー=Reverse Color
-レッドアクセント=Red Accents
-ブルーアクセント=Blue Accents
-グリーンアクセント=Green Accents
+//昼=
+//夕=
+//夜=
+//ライブステージ=
+//ビビッド=
+//ノスタルジー=
+//レトロ=
+//フラットカラー=
+//フォースカラー=
+//コミック=
+//モノクロ=
+//セピア=
+//リバースモノクロ=
+//リバースカラー=
+//レッドアクセント=
+//ブルーアクセント=
+//グリーンアクセント=

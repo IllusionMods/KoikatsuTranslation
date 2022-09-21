@@ -1,16 +1,16 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「子供の名前を呼ぶのは簡単なのに、どうしてなのかしら……」=“Even though it's so easy to call a child nicknames, why is it that...”
-「ん、どうしたの？」=“Nn, what's the matter?”
-「あのね、実はそろそろあなたを愛称で呼びたいのだけれど、なんだか緊張しちゃって。ダメねぇ」=“Listen, I actually wanna start calling you by a nickname now, but it just makes me so tense. It's no good, is it~?”
-「あ～なんかわかるな、その気持ち。それじゃ、同時に呼んでみる？」=“Aah~, I feel that. Well then, wanna try doing it at the same time?”
-「まぁ、それはいいアイディアね。あなたと一緒なら心強いわ。それじゃ、いくわよ～」=“My, that's a nice idea. I'd be much more at ease together with you. Well then, here I go~”
-「[Pあだ名]」=“[Pあだ名].”
-「あっ……[Hあだ名]！　……ごめん、タイミングずれちゃった」=“Ah--... [Hあだ名]! ...Sorry, I messed up the timing.”
-「うふふ。でも、お陰でハッキリと聞くことができたわ」=“Ufufu. Thanks to that, I was able to ready my heart for it.”
-「やっぱりちょっと恥ずかしいね」=“It really is a bit embarrassing, isn't it?”
-「そうね～。でも初めだけよ、きっとすぐ慣れるわ」=“Yes~. But, only for now, I'm sure we'll get used to it soon.”
-「それじゃ、練習しなきゃね」=“We gotta practice it more then.”
-「ええ。でも慣れるまでは、恥ずかしいから……ちょっとずつにしましょうね」=“Yes. But, it'll be embarrassing, until we get used to it so... let's do it slowly, okay?”
-「うん、そうだね」=“Yeah, seems fair.”
+//「子供の名前を呼ぶのは簡単なのに、どうしてなのかしら……」=
+//「ん、どうしたの？」=
+//「あのね、実はそろそろあなたを愛称で呼びたいのだけれど、なんだか緊張しちゃって。ダメねぇ」=
+//「あ～なんかわかるな、その気持ち。それじゃ、同時に呼んでみる？」=
+//「まぁ、それはいいアイディアね。あなたと一緒なら心強いわ。それじゃ、いくわよ～」=
+//「[Pあだ名]」=
+//「あっ……[Hあだ名]！　……ごめん、タイミングずれちゃった」=
+//「うふふ。でも、お陰でハッキリと聞くことができたわ」=
+//「やっぱりちょっと恥ずかしいね」=
+//「そうね～。でも初めだけよ、きっとすぐ慣れるわ」=
+//「それじゃ、練習しなきゃね」=
+//「ええ。でも慣れるまでは、恥ずかしいから……ちょっとずつにしましょうね」=
+//「うん、そうだね」=

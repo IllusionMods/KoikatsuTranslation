@@ -1,16 +1,16 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「どんどん混んできたね……ごめん、少し詰めてくれる？」=It's started getting packed, hasn't it... sorry, could I move a bit closer?
-「うん……でも、さすがに窮屈だね……」=Yeah... but, this really is cramped...
-「残念だけど、しばらくはこのままだと思……おわっ！」=Sorry, but I think we'll just have to tough it out here for a... owah--!
-（っ……ま、まずっ、どんどん押されて、股間が[H名]に……このままだと、反応してしまう……）=(--...D-Damn, I keep getting pushed, my crotch is poking into [H名]... at this rate, it'll react...)
-CHOICE:『欲望に少し抵抗する』=Resist your desires a little bit.
-CHOICE:『必死に我慢する』=Endure it desperately.
-（さ、流石にここで勃たせるのは……でも、[H名]の身体、柔らかくて気持ちいい……）=(P-Popping a chub here really would be... but, [H名]'s body is just so soft, it feels so good...)
-「……[P名]君のここ、すごく苦しそう」=...You must be in so much pain, down here.
-「ちょ、ちょっと待って[H名]っ。今したら、まずいことになるから……っ」=S-Stop there, [H名]--. If you do that now, it'll be really bad...--
-「大丈夫……私が処理してあげるね……？」=It's alright... I'll take care of it for you, okay...?
-（気持ちいいけど、ダメだ！　ここは絶対我慢しないと……！）=(It feels good but, I can't! I really gotta hold it in here...!)
-（と、とりあえず……少しでも距離をとって……とって…………）=(F-For now... try to make some distance... just a little bit...)
-（……完全に避けれるほどのスペースがないっ。俺、混雑が解消されるまで、我慢できるだろうか……？）=(...There isn't any space to move even an inch--. Will I be able to hold on, until the train empties out...?)
+//「どんどん混んできたね……ごめん、少し詰めてくれる？」=
+//「うん……でも、さすがに窮屈だね……」=
+//「残念だけど、しばらくはこのままだと思……おわっ！」=
+//（っ……ま、まずっ、どんどん押されて、股間が[H名]に……このままだと、反応してしまう……）=
+//CHOICE:『欲望に少し抵抗する』=
+//CHOICE:『必死に我慢する』=
+//（さ、流石にここで勃たせるのは……でも、[H名]の身体、柔らかくて気持ちいい……）=
+//「……[P名]君のここ、すごく苦しそう」=
+//「ちょ、ちょっと待って[H名]っ。今したら、まずいことになるから……っ」=
+//「大丈夫……私が処理してあげるね……？」=
+//（気持ちいいけど、ダメだ！　ここは絶対我慢しないと……！）=
+//（と、とりあえず……少しでも距離をとって……とって…………）=
+//（……完全に避けれるほどのスペースがないっ。俺、混雑が解消されるまで、我慢できるだろうか……？）=

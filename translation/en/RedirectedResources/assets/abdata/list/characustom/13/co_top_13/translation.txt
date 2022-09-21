@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-ショートパレオ=Short Pareo
-ショートパレオ（単色）=Short Pareo (Single Color)
-シースルーパレオ=See-Through Pareo
-セクシーパレオ=Sexy Pareo
+//ショートパレオ=
+//ショートパレオ（単色）=
+//シースルーパレオ=
+//セクシーパレオ=

@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-（ちょっと早く来すぎたかな。でもこっちが待つくらいが丁度いいよね）=(Wonder if I got here a bit too early. But better that I wait for her, than her for me.)
-（ってあれ？　[H名]、もう来てる？）=(Wait, what? She's already here?)
-「おはようございます」=Good morning.
-「ご、ごめん。待たせちゃったかな」=S-Sorry. Did I make you wait?
-「いえ。私も今来たところです。それに集合時間はまだですから、気にしないでください」=No. I just got here myself. Not to mention, the time we agreed upon hasn't come yet anyway, so please don't worry about it.
-「そっか。ありがとう」=I see. Thanks.
-（なんか立場が逆になった気がするけど、デートスタートだ）=(I feel like our positions got reversed in an instant but well, time to start the date.)
+//（ちょっと早く来すぎたかな。でもこっちが待つくらいが丁度いいよね）=
+//（ってあれ？　[H名]、もう来てる？）=
+//「おはようございます」=
+//「ご、ごめん。待たせちゃったかな」=
+//「いえ。私も今来たところです。それに集合時間はまだですから、気にしないでください」=
+//「そっか。ありがとう」=
+//（なんか立場が逆になった気がするけど、デートスタートだ）=

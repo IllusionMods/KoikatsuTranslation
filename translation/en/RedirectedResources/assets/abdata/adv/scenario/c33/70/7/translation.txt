@@ -1,14 +1,14 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「あら……あなたさえ良ければ、隣りにいさせてほしいけど、いいの？」=Oh... If it's alright with you, I'd like to be by your side, is it okay?
-「い、いいよ、もちろん！　あ～、よかったぁ……」=O-Of course, it's alright! Aah~, I'm so glad...
-「ふふ、そんなヘナヘナになっちゃうぐらい緊張してたの？」=Fufu, were you that nervous? Enough to have your legs turn to jelly?
-「だって、[H名]さんってすごく大人っぽいから、男として見られてないかもって心配で……」=I mean, you're so mature and adult-like, [H名]-san, I was worried you didn't see me as a man...
-「くすくすっ、私ってそんなに大人っぽい？」=*Chuckle*, do I seem that mature to you?
-「たぶん俺だけじゃなくて、みんなそう思ってるんじゃないかな」=I don't think it's just me, it's likely that everyone feels the same way.
-「ふぅん。なら、これからはあなただけが私の子どもっぽいところを知っていくのね」=Hmmm. Then, from now on, you're the only one who'll know my childish side, huh?
-「子どもっぽいところ？」=Your childish side?
-「ええ。別に隠してるつもりはないけど、私の年相応の女の子の部分……受け入れてくれる？」=Yes. I don't really plan on hiding it but, the girly part of me, the part of me appropriate for my age... will you accept it?
-「うん、もっと[H名]さんのこと知りたいし、そういうところも沢山知りたいな」=Yeah, I want to know even more about you anyway, [H名]-san, so I want to know lots about that side of yours too.
-「うふふ、ありがと。私ももっとあなたのことを知りたいわ。恋人として、これからもよろしくお願いするわね」=Ufufu, thanks. I want to know lots more about you too. As lovers, please take care of me from now on as well.
+//「あら……あなたさえ良ければ、隣りにいさせてほしいけど、いいの？」=
+//「い、いいよ、もちろん！　あ～、よかったぁ……」=
+//「ふふ、そんなヘナヘナになっちゃうぐらい緊張してたの？」=
+//「だって、[H名]さんってすごく大人っぽいから、男として見られてないかもって心配で……」=
+//「くすくすっ、私ってそんなに大人っぽい？」=
+//「たぶん俺だけじゃなくて、みんなそう思ってるんじゃないかな」=
+//「ふぅん。なら、これからはあなただけが私の子どもっぽいところを知っていくのね」=
+//「子どもっぽいところ？」=
+//「ええ。別に隠してるつもりはないけど、私の年相応の女の子の部分……受け入れてくれる？」=
+//「うん、もっと[H名]さんのこと知りたいし、そういうところも沢山知りたいな」=
+//「うふふ、ありがと。私ももっとあなたのことを知りたいわ。恋人として、これからもよろしくお願いするわね」=

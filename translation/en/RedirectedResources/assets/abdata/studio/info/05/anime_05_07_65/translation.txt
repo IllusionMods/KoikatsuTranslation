@@ -1,25 +1,25 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-立ち1=Basic 1
-立ち2=Basic 2
-立ち3=Basic 3
-立ち4=Basic 4
-立ち5=Basic 5
-立ち6=Basic 6
-立ち7=Basic 7
-立ち8=Basic 8
-立ち9=Basic 9
-立ち10=Basic 10
-立ち11=Basic 11
-立ち12=Basic 12
-立ち13=Basic 13
-座り1=Sitting 1
-座り2=Sitting 2
-座り3=Sitting 3
-座り4=Sitting 4
-座り5=Sitting 5
-座り6=Sitting 6
-座り7=Sitting 7
-スイング=Swinging Bat
-orz=orz
+//立ち1=
+//立ち2=
+//立ち3=
+//立ち4=
+//立ち5=
+//立ち6=
+//立ち7=
+//立ち8=
+//立ち9=
+//立ち10=
+//立ち11=
+//立ち12=
+//立ち13=
+//座り1=
+//座り2=
+//座り3=
+//座り4=
+//座り5=
+//座り6=
+//座り7=
+//スイング=
+//orz=

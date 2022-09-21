@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「難しいな……この問題……」=This problem... sure is difficult...
-「どれどれ、私に任せろ、ふむふむ、ほうなるほど」=Which one, leave it to me, fumufumu, oh, I see.
-「どう？　わかりそう？」=So? Do you get it?
-「いや……全然」=Nope... Not a bit.
-「え！　さっきの自信は一体……！」=Eh! What was with all that confidence then...!
+//「難しいな……この問題……」=
+//「どれどれ、私に任せろ、ふむふむ、ほうなるほど」=
+//「どう？　わかりそう？」=
+//「いや……全然」=
+//「え！　さっきの自信は一体……！」=

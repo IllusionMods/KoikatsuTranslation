@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「ふわあぁ、ありがとうっ！　めっちゃ嬉しいっ！　これ、欲しかったやつやんっ！　いつの間にリサーチしたと！？　君ってば素敵すぎるよー」=Fuwaaah, thank you--! I'm super happy--! This is exactly what I wanted--! Just when did you sniff this out? You're way too good to me!
+//「ふわあぁ、ありがとうっ！　めっちゃ嬉しいっ！　これ、欲しかったやつやんっ！　いつの間にリサーチしたと！？　君ってば素敵すぎるよー」=

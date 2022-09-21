@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「私を連れて一体どちらへ？」=And just where to, exactly?
-「まあついて来ればわかるよ」=Well, you'll know if you come with me.
-「……わかりました。あなたがそうお望みなら」=...Understood. If that's what you want.
+//「私を連れて一体どちらへ？」=
+//「まあついて来ればわかるよ」=
+//「……わかりました。あなたがそうお望みなら」=

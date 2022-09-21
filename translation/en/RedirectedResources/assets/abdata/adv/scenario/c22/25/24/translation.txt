@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「えへへ、これ、私特製のクッキー！　授業で作ったんだけど……食べてくれるかな？」=Ehehe, these cookies are made from my special recipe! I made them during class... will you eat them?
-「もちろん、[H]が作ってくれたなら何でも食べるよ」=Of course, I'd eat anything you make, [H].
-「ふふっ、ありがとう！　君の好みに合わせて味付けしたから、きっと大丈夫だと思うけど……後で感想聞かせてね♪」=Fufu--, thank you! I tried to make them the way you like them, so I'm sure they'll be fine but... lemme know what you think later, okay?♪
+//「えへへ、これ、私特製のクッキー！　授業で作ったんだけど……食べてくれるかな？」=
+//「もちろん、[H]が作ってくれたなら何でも食べるよ」=
+//「ふふっ、ありがとう！　君の好みに合わせて味付けしたから、きっと大丈夫だと思うけど……後で感想聞かせてね♪」=

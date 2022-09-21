@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-攻撃１=Attack 1
-攻撃２=Attack 2
-攻撃３=Attack 3
-防御=Blocking
-倒れる=Knocked Down
+//攻撃１=
+//攻撃２=
+//攻撃３=
+//防御=
+//倒れる=

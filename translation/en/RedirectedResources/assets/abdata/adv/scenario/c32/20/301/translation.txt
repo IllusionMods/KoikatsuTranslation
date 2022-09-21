@@ -1,24 +1,24 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「カラオケ……なんだか随分久しぶりです」=Karaoke... Feels like it's been quite a while since I came here last.
-「そうなんだ。あんまりカラオケって行かないの？」=Huh. You don't go out to karaoke all that often?
-「昔、家族と来たことがある程度……ですね。しかも何年も前の話です」=I used to come with family, back in the day... I suppose. Been a few years, too.
-「じゃ、友達とは初めてってこと？　ふふ、これって初体験だね！」=Then, is this your first time with a friend? Fufu, this is going to be your first time doing it then, huh!
-「まったく、何を言ってるんですか。あ、でも……言葉の用法としては間違ってませんね」=Jeez, do you even know what that sounds like? Ah, but... certainly, that's not a wrong way to put it, no.
-「そうそう、細かいことは気にしないの。それよりさ、まず飲み物を頼もうよ」=Yeah, exactly, don't sweat the details. Rather than that, let's order some drinks first.
-「ついでに何か食べたいものがあれば、頼んでおこうか。電話注文もできるし、端末からでもＯＫだからね、ここ」=While we're at it, if there's something you wanna eat, let's order that as well. We can order by phone here, or even through the terminal if we so please.
-「この端末はそんなことが出来るんですね。えっと、マニュアルはありますか？」=Huh, this terminal sure is multi-purpose. Erhm, is there a manual?
-「マニュアル？　端末の？」=A manual? For the terminal?
-「そうです。操作を間違ってしまったりしては大変なことになってしまいますから」=Yes. It'll cause quite a bit of trouble if I mess up while using it, afterall.
-「いやいや、別に大変なことにはならないと思うけど」=No, I don't think it's that big a deal.
-「いいえ、歌ってる途中に、間違って曲のキーを変えてしまったり……」=I disagree, what if I accidentally change the key of the song while in the middle of singing or...
-「それに、私が変顔して歌ってる時に、店員さんが注文の品を持ってきたりしたらどうするんですか？」=Furthermore, what will we do if the staff brings in our ordered food while I'm singing while making a strange face?
-（変顔で歌うのか……？）=(You're gonna make a strange face...?)
-「いや、それって、ただのあるあるネタじゃん。マニュアルでどうにかなる話じゃないじゃない？」=No, but, isn't that just an common joke? How is a manual going to help with that anyway?
-「ともかく、細かな操作説明が欲しいんですが…………あ、あった。ふむふむなるほどなるほど……」=Regardless, I'd like detailed instructions... Ah, found it. Hmm, Hmm, I see, I see...
-（端末を専有されてる……とりあえず、飲み物と食べ物、電話で注文しとくかな……）=(She's hogging the terminal... Well, for the time being, I guess I'll order food and drinks by phone...)
-「よし、なんとなく、わかりました。と、とりあえず、一曲入れてみますね──」=Alright, I think I've figured it out. F-for now, I'll try putting on a song--
-「あ、これ……いい曲だ」=Ah, this... it's a good song.
-「もしも今 背中に羽が生えて 大空自由に飛び回れたら～」=『If only I could sprout wings from my back and fly freely in the wide open sky right now~』
-（ちょっと緊張してる？　……可愛いな。顔がこわばってるのは変顔しないように意識してるのかな？）=(Is she nervous?So cute. Her face is so stiff though, is she trying to consciously make sure she doesn't make a strange expression?
+//「カラオケ……なんだか随分久しぶりです」=
+//「そうなんだ。あんまりカラオケって行かないの？」=
+//「昔、家族と来たことがある程度……ですね。しかも何年も前の話です」=
+//「じゃ、友達とは初めてってこと？　ふふ、これって初体験だね！」=
+//「まったく、何を言ってるんですか。あ、でも……言葉の用法としては間違ってませんね」=
+//「そうそう、細かいことは気にしないの。それよりさ、まず飲み物を頼もうよ」=
+//「ついでに何か食べたいものがあれば、頼んでおこうか。電話注文もできるし、端末からでもＯＫだからね、ここ」=
+//「この端末はそんなことが出来るんですね。えっと、マニュアルはありますか？」=
+//「マニュアル？　端末の？」=
+//「そうです。操作を間違ってしまったりしては大変なことになってしまいますから」=
+//「いやいや、別に大変なことにはならないと思うけど」=
+//「いいえ、歌ってる途中に、間違って曲のキーを変えてしまったり……」=
+//「それに、私が変顔して歌ってる時に、店員さんが注文の品を持ってきたりしたらどうするんですか？」=
+//（変顔で歌うのか……？）=
+//「いや、それって、ただのあるあるネタじゃん。マニュアルでどうにかなる話じゃないじゃない？」=
+//「ともかく、細かな操作説明が欲しいんですが…………あ、あった。ふむふむなるほどなるほど……」=
+//（端末を専有されてる……とりあえず、飲み物と食べ物、電話で注文しとくかな……）=
+//「よし、なんとなく、わかりました。と、とりあえず、一曲入れてみますね──」=
+//「あ、これ……いい曲だ」=
+//「もしも今 背中に羽が生えて 大空自由に飛び回れたら～」=
+//（ちょっと緊張してる？　……可愛いな。顔がこわばってるのは変顔しないように意識してるのかな？）=

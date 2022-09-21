@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-………………=.........
-…………=......
-……=...
-「さてと……勉強も終わったことだし、イチャイチャしようぜ」=Now then... we've finished our work so let's make out.
+//………………=
+//…………=
+//……=
+//「さてと……勉強も終わったことだし、イチャイチャしようぜ」=

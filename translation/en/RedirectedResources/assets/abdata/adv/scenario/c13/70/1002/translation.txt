@@ -1,20 +1,20 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-（うーん……慣れない恰好のせいか、どうも落ち着かないなぁ）=(Mmm... I wonder if it's because of these clothes, I can't seem to calm down at all)
-（[H名]の方も、さぞ緊張してるだろうな……）=(I'm sure [H名]'s losing her mind too...)
-「でも……折角だし、気合入れないと！」=But... since we're doing this, we gotta get into it!
-（……いよいよ出番か）=(...Finally, showtime, huh?)
-（いい式場だな……）=(What a nice hall...)
-（ふぅ……よしっ、[H名]の彼氏として『マジ、イケてる』ようにならなくちゃ！）=(Fuu... alright--, as her boyfriend, I gotta make it so she can't help but go『Damn, you're handsome』!)
-（緊張したけど……『イケてる』感じにはできてたかな？）=(I got real nervous there but... Did I manage to pull off a『handsome』walk?)
-モブ=Mob
-「これより新婦が入場致します。後方の扉口をご覧ください」=And now, the bride will make her entrance. Please pay attention to the main door.
-（[H名]……）=([H名]...)
-目を向けた先に、純白のドレスに身を包んだ女性が立っていた。=The moment I turned my eyes, right there ahead of me was a girl standing clad in a pure white dress.
-その女性が自分の彼女――[H名]だと気づくのに一瞬だけ時間がかかった。=It took me a moment, a short moment, to realize that that girl was my girlfriend, [H名].
-静かに佇むその姿が、いつもの明るい彼女とかけ離れていたから……=The sight of her standing there, quietly, was just lightyears apart from her everyday spiritidness, afterall...
-（本当に……綺麗だ）=(She really is... beautiful.)
-（よし、ハッキリ言うぞ……）=(Alright, gotta say it clearly...)
-「[H名]、とても似合ってるよ」=[H名], you look amazing.
-「そ、そーかな……？　えへへ……[P名]くんも、その……マジ、イケてるね……」=Y-You think so...? Ehehe... you too, [P名]-kun, you know... damn, you look handsome...
+//（うーん……慣れない恰好のせいか、どうも落ち着かないなぁ）=
+//（[H名]の方も、さぞ緊張してるだろうな……）=
+//「でも……折角だし、気合入れないと！」=
+//（……いよいよ出番か）=
+//（いい式場だな……）=
+//（ふぅ……よしっ、[H名]の彼氏として『マジ、イケてる』ようにならなくちゃ！）=
+//（緊張したけど……『イケてる』感じにはできてたかな？）=
+//モブ=
+//「これより新婦が入場致します。後方の扉口をご覧ください」=
+//（[H名]……）=
+//目を向けた先に、純白のドレスに身を包んだ女性が立っていた。=
+//その女性が自分の彼女――[H名]だと気づくのに一瞬だけ時間がかかった。=
+//静かに佇むその姿が、いつもの明るい彼女とかけ離れていたから……=
+//（本当に……綺麗だ）=
+//（よし、ハッキリ言うぞ……）=
+//「[H名]、とても似合ってるよ」=
+//「そ、そーかな……？　えへへ……[P名]くんも、その……マジ、イケてるね……」=

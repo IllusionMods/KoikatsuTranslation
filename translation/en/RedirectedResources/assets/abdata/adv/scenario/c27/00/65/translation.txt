@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「ねぇ……寄り道って、どういうところに行ったりするの？」=“Hey... when you said detours, what did you mean? Where are we gonna go?”
-「そうだな……公園とか、喫茶店とか、買い物とか……あと家に行ったりとか」=“Good question... the park, or a cafe, or a mall... going home and stuff too.”
-「それって、あんたの家ってこと……！？　と、とにかく、歩きながら頭を整理するわ」=“By that, do you mean your own place...!? I-In any case, I'll get my mind in order while we walk.”
+//「ねぇ……寄り道って、どういうところに行ったりするの？」=
+//「そうだな……公園とか、喫茶店とか、買い物とか……あと家に行ったりとか」=
+//「それって、あんたの家ってこと……！？　と、とにかく、歩きながら頭を整理するわ」=

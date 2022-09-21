@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-………………=.........
-…………=......
-……=...
-「ごちそうさまでした。これで、午後も頑張れそうです」=That was a great meal. With this, I feel like I can make it through the 2nd half too.
+//………………=
+//…………=
+//……=
+//「ごちそうさまでした。これで、午後も頑張れそうです」=

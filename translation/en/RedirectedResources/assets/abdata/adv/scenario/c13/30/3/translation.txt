@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「いいよ～。男の子と一緒に帰るなんてちょっと緊張する～」=Alright~. Walking home with a boy is pretty thrilling~
-「あはは、俺もドキドキするよ」=Ahaha, my heart's racing too.
-「あ、そうだ！　せっかくだし、どっか連れてってよ」=Ah, that's right! Since we're doing this anyway, take me somewhere fun.
+//「いいよ～。男の子と一緒に帰るなんてちょっと緊張する～」=
+//「あはは、俺もドキドキするよ」=
+//「あ、そうだ！　せっかくだし、どっか連れてってよ」=

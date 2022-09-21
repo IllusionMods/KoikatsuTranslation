@@ -1,5 +1,5 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「はーい、彼女さんがいらっしゃいました～」=And there, the girlfriend has entered the stage~
-「ふふふ……そわそわしちゃって～、期待してるのかなぁ～」=Fufufu... so restless~, someone's looking forward to it, I see~
+//「はーい、彼女さんがいらっしゃいました～」=
+//「ふふふ……そわそわしちゃって～、期待してるのかなぁ～」=

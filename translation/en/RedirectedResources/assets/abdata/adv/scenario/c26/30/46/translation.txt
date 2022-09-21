@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「……どう？　気持ちよかった？」="...What do you think? How is it?"
-「うん、最高だったよ……」="Yeah, it's great..."
-「……なら、良かった」="...That's nice to hear."
+//「……どう？　気持ちよかった？」=
+//「うん、最高だったよ……」=
+//「……なら、良かった」=

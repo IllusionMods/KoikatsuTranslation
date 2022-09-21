@@ -1,11 +1,11 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-地面=Ground
-ドア=Doors
-壁=Walls
-階段=Stairs
-設置物=Installed Objects
-建造物=Structures
-空=Skies
-画像板=Image Board
+//地面=
+//ドア=
+//壁=
+//階段=
+//設置物=
+//建造物=
+//空=
+//画像板=

@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「あの、どうでしたか？　こういうの慣れてないもので……ちゃんと出来てました？」=Uhm, how was it? I'm really not used to this so... did I do well?
-「うん。すごく良かった」=Yeah. It was great.
-「う、うぅ……なんだか恥ずかしいですが、その、安心しました」=U-Uu... It feels pretty embarrassing but, uhm, that does make me feel better.
+//「あの、どうでしたか？　こういうの慣れてないもので……ちゃんと出来てました？」=
+//「うん。すごく良かった」=
+//「う、うぅ……なんだか恥ずかしいですが、その、安心しました」=

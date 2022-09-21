@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「デート……いいのですか？　私とで」=A date... are you sure? With me?
-「いいもなにも、俺たちは付き合ってるんだから。[H]と一緒にいろんなとこへ行きたいんだ」=Am I sure, we're a couple, you know? I wanna visit all sorts of places with you, [H].
-「わ、わかりました……よろしくお願いいたします……！」=U-Understood... please take care of me...!
-「あ、あはは……そんなに勢い良く頭を下げられたら、こっちが緊張しちゃうよ」=A-Ahaha... bowing to me so straight, I'm the one who's gonna get nervous, you know?
-「当日はよろしくね」=Well then, I'll let you know the date.
-「はい。楽しみましょう」=Yes. Let's have some fun.
+//「デート……いいのですか？　私とで」=
+//「いいもなにも、俺たちは付き合ってるんだから。[H]と一緒にいろんなとこへ行きたいんだ」=
+//「わ、わかりました……よろしくお願いいたします……！」=
+//「あ、あはは……そんなに勢い良く頭を下げられたら、こっちが緊張しちゃうよ」=
+//「当日はよろしくね」=
+//「はい。楽しみましょう」=
