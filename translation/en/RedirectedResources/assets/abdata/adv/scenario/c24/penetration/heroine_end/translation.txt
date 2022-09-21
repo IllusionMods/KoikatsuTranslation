@@ -1,1 +1,4 @@
-﻿「あなたの新しい一面を知ることができて、幸せです♡」=I'm so happy, I got to see another side of you♡
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「あなたの新しい一面を知ることができて、幸せです♡」=I'm so happy, I got to see another side of you♡

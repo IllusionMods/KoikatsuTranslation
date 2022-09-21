@@ -1,0 +1,9 @@
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「席が空いてなくて残念ね～。足は大丈夫？　歩き疲れて辛いでしょうけど我慢してね」=“Shame there's no seats~. Are your feet okay? I'm sure it's hard with how much we've walked today, but bear with it, okay?”
+「俺は大丈夫だよ。[H名]の方こそ大丈夫？　もし席が空いたらすぐに座っていいから」=“I'm fine. What about you though, [H]? You can go ahead and take any seat that opens up.”
+「気持ちは嬉しいけど、そういうわけにはいかないわ。私だけが楽をするなんてできないもの」=“I appreciate the thought but, I can't do that. I can't just go and rest my legs by myself while you stay standing.”
+「それは俺だって同じだよ」=“I feel the same way though.”
+「う～ん、困ったわね～……あ、いい案を思いついたわ！　まず私が座って、あなたは私の膝の上に座るの。これなら二人とも座れるわ♪」=“Mm~, now this is an impasse~... ah, I just got an idea! I'll sit first, then you can sit on my lap. This way, we'll both get to sit down♪”
+「いや、電車の中でそれは恥ずかしいよ……」=“No, doing that on a train would really be a bit...”

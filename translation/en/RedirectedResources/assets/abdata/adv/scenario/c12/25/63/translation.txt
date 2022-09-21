@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「お、おじゃまします……へぇ……こういう部屋なんだな」=“E-Excuse me... heh... so your place is like this, huh?”
 「あ、あはっ……男の部屋とか入るの初めてだから……うぅ、ちょっと緊張するな」=“A-Aha-... it's my first time walking into a boy's room... uuu, I'm a bit nervous.”
 「なんか……おまえの匂いが濃いっていうか……えと……あー、やっぱりその……するんだよな？」=“The place... it kinda, has your scent... erhm... aah, so we're really... gonna do that, right?”

@@ -1,3 +1,6 @@
-﻿「君のお家ってどっちの方にあるの？」=Which side is your house on?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「君のお家ってどっちの方にあるの？」=Which side is your house on?
 「あっちだよ。君は？」=That way. You?
 「私もあっちなの。ふふっ、このままどちらかの部屋に……なんて流れも期待できそうね♪」=Me too. Fufu--, at this rate, who knows who'll house we'll end up going to... I'm looking forward to it♪

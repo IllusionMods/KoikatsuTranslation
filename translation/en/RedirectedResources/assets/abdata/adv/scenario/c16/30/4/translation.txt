@@ -1,4 +1,6 @@
-
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
 //「良い提案ね。二人の方が効率も上がるかしら？」=
 //「うん、バリバリ上げてみせるよ！」=
 //「言ったわね？　頼りにさせてもらうから」=

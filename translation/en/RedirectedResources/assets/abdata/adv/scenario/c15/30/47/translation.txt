@@ -1,1 +1,4 @@
-﻿「意外と男らしいんだな、キミは。すごく気持ちよかったぞ♪」=You're surprisingly manly. That was amazing♪
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「意外と男らしいんだな、キミは。すごく気持ちよかったぞ♪」=You're surprisingly manly. That was amazing♪

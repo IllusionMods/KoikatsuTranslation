@@ -1,4 +1,7 @@
-﻿「うーん、おかしいなぁ……なんなん……なんなんこれ……なんなんなん？　もー……なんなんー……」=Mmmm, this is weird... what... just what is this... what? jeez... what...
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「うーん、おかしいなぁ……なんなん……なんなんこれ……なんなんなん？　もー……なんなんー……」=Mmmm, this is weird... what... just what is this... what? jeez... what...
 「[H名]？　どうしたの？　何か難しい問題でもあった？」=[H名]? What's the matter? Come across a difficult problem?
 「あ、う、うん……公式通りにやっても解けん問題があって……ごめんね、独り言、うるさかったかいな？」=Ah, y-yeah... There's a problem I can't seem to solve, even with the formula... sorry, was I being too loud?
 「あはは、大丈夫。唸ってる[H名]、可愛かったよ」=Ahaha, it's alright. The way you were grumbling, it was really cute.

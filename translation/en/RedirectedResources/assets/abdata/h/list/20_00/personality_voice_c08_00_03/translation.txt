@@ -1,4 +1,7 @@
-﻿もう一度してほしいの？　うん、いいよ。=You want us to do it again? Sure, alright.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+もう一度してほしいの？　うん、いいよ。=You want us to do it again? Sure, alright.
 もっとしてほしいんだね……いいよ♪=You want us to do more, huh... alright♪
 しょうがないなぁ。それじゃもう一回するよ=Guess it can't be helped~. Well then, we'll do it again.
 じゃあもっと気持ちよくしてあげる=Then, we'll make you feel even better.

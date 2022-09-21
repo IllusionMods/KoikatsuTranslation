@@ -1,4 +1,7 @@
-﻿「こういう静かな場所にいると、ついついのんびりしちゃうなぁ」=Being in such a quiet place just makes you want to relax, doesn't it?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「こういう静かな場所にいると、ついついのんびりしちゃうなぁ」=Being in such a quiet place just makes you want to relax, doesn't it?
 「わかります。時間の流れもゆっくりになっているように思えますね」=I feel you. It also makes the flow of time feel slower.
 「あっという間の一日もいいけど、まったりすごしたくなる時もあるよね」=Just spending the day all in one go is great fun too but, sometimes you just get the itch to take it easy. Know what I mean?
 「おっ。犬を散歩させてる人がいる」=Oh--. There's a person walking their dog over there.

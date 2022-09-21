@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「ん……」=Nn...
 「眠いのですか？」=Are you feeling sleepy?
 「ちょっと昨日は夜更かししちゃっててね……ふぁ……」=I stayed up for a bit too late last night, you see... Fua...

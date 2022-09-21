@@ -1,4 +1,7 @@
-﻿「へえ、色々あるんだね」=Hoh, they've got all kinds of variety here.
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「へえ、色々あるんだね」=Hoh, they've got all kinds of variety here.
 「あ、あれ最近流行ってるポップコーンのお店じゃん！　ねぇあのお店行ってもいい？」=Ah, that's the popcorn place that's been getting real popular recently! Hey, can we go take a look?
 「うん、いいよ」=Yeah, alright.
 「ん～。美味しかった。[P]くんと食べさせあいっこもできたし」=Nn~. That was delicious. We got to feed each other and everything too.

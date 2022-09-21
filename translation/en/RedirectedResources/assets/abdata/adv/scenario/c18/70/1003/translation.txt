@@ -1,0 +1,37 @@
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+モブ=Mob
+「それではこれより、式を執り行います」=Then without further ado, let's start the ceremony.
+「新たなご出発の証として、お二人には誓いの言葉を立てていただきます」=As the proof of a fresh departure, you both have to make certain vows.
+（ふぅ……いよいよメイン部分だ。より気を引き締めないと）=(Fuu... finally the main part. Gotta focus.)
+牧師=Pastor
+「[P名]さん、あなたはこの女性とお付き合いし、より親密な関係になろうとしております」=Mr. [P名], You have been going out with this woman for a while now. And now you are proceeding towards an even closer relationship.
+「あなたは健康なときも、そうでないときも、お互いの気持ちが続く限り――」=Will you, in sickness or in health, as long as your feelings stand--
+「この人を守り、笑顔を絶やすことなく幸せにすることを誓いますか？」=protect this woman, and vow to become her happiness?
+「はい、誓います」=Yes, I vow.
+「[H名]さん、あなたはこの男性とお付き合いし、より親密な関係になろうとしております」=Miss [H名], You have been going out with this man for a while now. And now you are proceeding towards an even closer relationship.
+「……はい、誓います」=...Yes, I vow.
+「それでは、二人の愛の証として、誓いのキスをお願いします」=Then, without further ado, as the proof of your love, seal these vows with a kiss.
+「……設定とはいえ、お嫁さんになれるなんて思ってなかったです」=...It might be just a setting for a photoshoot but, I didn't think that I'd ever get to become a bride.
+「俺もまさかこんなことになるなんて、思いもしなかったよ」=I never thought that things would ever turn out this way either.
+「でも、こうやって[H名]のきれいな姿が見れて、すごく嬉しいよ」=But, I'm really happy right now, being able to see you looking so beautiful like this.
+「ありがとうございます。[P名]さんもかっこいいですよ。とっても似合ってます」=Thank you very much. You look really dashing too, [P名]-san. It looks really good on you.
+「本当に？　服に着られてない？」=Really? Sure it's not too much for someone like me?
+「そんなことないです……どこもおかしくないですから、そんなに慌てなくてもいいですよ」=That's not true at all... you don't look weird at all, you don't need to be so worried.
+「あはは、いざとなるとどうも落ち着かなくて。ごめんね、俺がひっぱらなきゃいけないのに……」=Ahaha, now that we're doing this for real, I can't seem to calm down at all. I'm sorry, even though I should be the one taking the lead here...
+「いえ、私もあなたの姿を見るまでは落ち着きませんでしたから……」=No, it's fine, I couldn't calm down at all myself either, until I saw you...
+「私は……いつも運が無いから、こんなところに立つイメージを全く持てなくって……」=I'm... always unlucky so, I never even thought about what I'd look like, standing in a place like this...
+「でも、急にこんなことになって……夢なんじゃないかな、って今でも思ってます」=But, things took such a sudden turn... even now, I'm wondering if this is just a dream.
+「俺だってそうだよ」=I feel the same way, you know?
+「……あの、[P名]さん」=...Hey, [P名]-san.
+「ん、なに？」=Nn, what is it?
+「私みたいな不幸な女と付き合ってて……本当に[P名]さんはいいんですか？」=Going out with an unlucky girl like me... are you really fine with it, [P名]-san?
+「うん。[H名]がいい、じゃなくって、俺は[H名]じゃないとダメなんだ」=Yeah. I am, rather, it has to be you, [H名]. I'm nothing without you.
+「[P名]さん……これからも、こんな私ですけど、よろしくおねがいしますっ」=[P名]-san... I know I'm like this but, please take care of me in the future too--
+「もちろんっ。こちらこそ、よろしくおねがいします」=Of course--. Same here, take care of me.
+「んんっ……」=Nnnnn--...
+………………=.........
+…………=......
+……=...
+「っ……大好きです」=--...I love you.

@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「おっ、あそこに屋台があるじゃないか。ああいうとこって、結構美味いものあったりするんだよな」=“Oh--, isn't that a food stand? They always tend to have some pretty tasty stuff, don't they?”
 「わかる。なんか特別感あるよね。今ならすぐ買えそうだし、何か食べる？」=“I feel you. Feels kinda special, doesn't it? Seems like they'd serve up our order right away too, you wanna eat anything?”
 「あぁ、そうだな。丁度昼時だし、ランチタイムにするか」=“Aah, right. It's just about noon too, so let's have lunch.”

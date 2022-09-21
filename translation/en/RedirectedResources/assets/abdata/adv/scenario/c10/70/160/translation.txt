@@ -1,0 +1,11 @@
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「ふぅ。夜風が気持ちいいけど、身体が冷えちゃいそうだね。[H名]は大丈夫？」=“Fuuh. The breeze feels great but, we might end up catching a cold. You okay, [H]?”
+「ふん……闇の住人である我だぞ？　この程度、何も問題な……っくしゅ」=“Fuhn... you forget that I am a denizen of the dark. This much is noth... *sneeze*”
+「強がろうとしなくていいって。これ以上冷えちゃいけないし、俺が温めてあげるよ」=“You don't need to put on a tough act. We can't have to catching a cold, so I'll warm you up.”
+「汝は我を抱き足りぬというのか……？」=“Have thou not had enough of holding me yet...?”
+「い、今のは俺の言い方が悪かった……その、少し体を寄せ合いながら帰ろうってことを言いたかったんだ」=“T-That was bad wording... uhm, I wanted to say that we should walk home while clinging to each other a bit more.”
+「そ、そういうことか……だが、悪くない提案だな。魂の抱擁を交わそうぞ！」=“A-Ah, I see... however, it is not a bad prospect. Let us exchange a soul embrace!”
+「あぁ、うん」=“Aah, yeah.”
+（魂の抱擁ってなんだろう……？）=(Heck's a soul embrace...?)

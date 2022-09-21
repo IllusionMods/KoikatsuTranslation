@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「んーっ、こういう日の公園って気持ちいいよね！」=“Nnnn--, feels really nice to be here on days like this, doesn't it!”
 「はいですっ！　さすがナイスチョイスなのですよ！　ありがとうなのです！」=“Yes--! Truly a nice choice! Thank you!”
 「あはは、気に入ってもらえて良かった。のんびり散歩してみよっか」=“Ahahah, well for one, I'm glad you're enjoying this. Let's take a chill walk.”

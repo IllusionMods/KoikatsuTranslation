@@ -1,4 +1,7 @@
-﻿「こないだ友達と話してたんだけどさ、いつもしてることでもちょっと工夫すると全然違うよね～って」=The other day I was talking to my friends, about how even everyday things can feel so different if you change them up just a little bit, and stuff.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「こないだ友達と話してたんだけどさ、いつもしてることでもちょっと工夫すると全然違うよね～って」=The other day I was talking to my friends, about how even everyday things can feel so different if you change them up just a little bit, and stuff.
 「うんうん、それで？」=Yeah, and? What did you come up with?
 「今日はさ、これやろ。棒状のこのお菓子を両端から食べていって、先に離れた方が負け～ってやつ」=Let's do this today. We'll eat this chocolate bar from both ends, and the one who lets go first loses.
 「よ、よし。望むところだ。」=A-Alright. Bring it on.

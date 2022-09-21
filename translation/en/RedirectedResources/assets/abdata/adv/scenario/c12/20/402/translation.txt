@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「喫茶店って、みんな色んな事やってるよね。自由空間って感じ」=“Everyone does all sorts of things at cafes, don't they? Feels like 'free space', where you can do anything.”
 「真面目に仕事してる人とか見ると、なんか邪魔しちゃいけない気分になるよな。思わず小声になると言うか」=“Looking at all the people seriously doing their work kinda makes you not wanna be a bother, doesn't it? Like, you automatically lower your volume and stuff.”
 「へぇ、[H名]もそういうところは気を使うんだ」=“Hoh, so even you try to be considerate about things like that, huh?”

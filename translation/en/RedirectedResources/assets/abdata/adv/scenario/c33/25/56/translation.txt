@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「……そう、あなたが決めたことなら仕方がないわね」=...I see, If you've decided on that, then it can't be helped.
 「ごめん……」=Sorry...
 「謝らないで。自慢じゃないけど諦めることだけは得意なの。あなたのことは綺麗さっぱり忘れるわ」=Don't apologize. I don't mean to boast, but giving up easily is my one speciality. I'll completely forget about you in no time.

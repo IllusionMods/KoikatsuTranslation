@@ -1,8 +1,13 @@
-﻿「ちょっと……混んできたね……」=It's starting to get... pretty packed, huh...
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「ちょっと……混んできたね……」=It's starting to get... pretty packed, huh...
 「うん……少し、苦しい……」=Yeah... it's a bit, rough...
 「避けれるスペースがあればいいんだけど……うおっ！」=Hopefully it doesn't get so packed as to... woah--!
 「ごめん、押されて……」=Sorry, I got pushed...
 （やば、[H名]が近い……つーか、身体柔らかい……こ、このままだと股間が反応してしまう……）=(Damn, she's so close... damn, her body's so soft... a-at this rate, my crotch is gonna react...
+CHOICE:『ちょっと我慢する』=『Bear with it a little』
+CHOICE:『必死に我慢する』=『Desperately endure it』
 （さすがにそれはマズイけど……）=(That really would be bad but...)
 （あぁ、なんて情けないんだ。気持ちよさに、抗えない……）=(Aah, just how pathetic am I? I can't even, resist against the pleasure...)
 「ねえ……おちんちん、パンパンになってるよ？」=Hey... your dick, it's gotten all puffy, you know?
@@ -13,6 +18,3 @@
 （い、いや！　こんな所で勃起するのはマズイ、絶対堪えなければ！）=(N-No! I really can't pop a chub here, I gotta endure it somehow!)
 （我慢我慢……我慢するんだ俺……）=(Endure it, endure it... I'm gonna endure it...)
 （……けど、この状況で、いつまで平静を保っていられるだろうか……？）=(...But, will I be able to hold on, for the whole ride...?)
-
-CHOICE:『ちょっと我慢する』=『Bear with it a little』
-CHOICE:『必死に我慢する』=『Desperately endure it』

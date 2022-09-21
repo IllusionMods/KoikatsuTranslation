@@ -1,1 +1,4 @@
-﻿「えっ！？　あ、あなた、見てたの？」=Eh--!? W-Were you, watching?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「えっ！？　あ、あなた、見てたの？」=Eh--!? W-Were you, watching?

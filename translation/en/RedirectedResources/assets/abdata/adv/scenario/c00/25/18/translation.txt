@@ -1,1 +1,4 @@
-﻿「あら、君ね。おはよう」=Oh my, it's you. Morning.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「あら、君ね。おはよう」=Oh my, it's you. Morning.

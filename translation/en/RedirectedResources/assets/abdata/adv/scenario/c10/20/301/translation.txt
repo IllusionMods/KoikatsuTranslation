@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「フンフンフンフフーンフンフフーン♪」=“Fuhn, fuhn, fuhn, fufuhn, fuhn, fufuhn~♪”
 （気のせいか、今日の[H名]はいつもよりテンションが高い気がするな）=(Is it just my imagination, or is she more excited than usual today?)
 「[H名]ってカラオケ好きなの？」=“Do you like Karaoke, [H]?”

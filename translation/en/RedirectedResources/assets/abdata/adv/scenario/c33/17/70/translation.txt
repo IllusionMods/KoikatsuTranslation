@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「えっと、ここは過去分詞形だから……」=Erhm, this is the past-participle form so...
 「辞書、ありがと。いたずらして返しておいたわ」=Thanks for the dictionary. I played a prank on it a bit before returning it.
 「え……いたずら？　……なんか、見たことない付箋がついてる」=Eh... A prank? ... There's a note on it that I've never seen before.

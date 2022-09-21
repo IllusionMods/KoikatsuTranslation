@@ -1,4 +1,7 @@
-﻿「Ｙｅｓ♪　ＫＯＩ－ＫＡＴＳＵ、ズットしてみたかったヨー♡」=Yes♪ I've been curious about these love-activities for a while now~♡
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「Ｙｅｓ♪　ＫＯＩ－ＫＡＴＳＵ、ズットしてみたかったヨー♡」=Yes♪ I've been curious about these love-activities for a while now~♡
 「本当？　嬉しいなぁ」=Really? I'm glad.
 「フフフ、Ｃｌａｓｓｍａｔｅに聞いたヨ。“ソーユーコト”も、スルネ？」=Fufufu, I heard it from a classmate. You do "that" sort of stuff too, don't you?
 「こ、コイカツ部の活動自体は健全だよ！？」=I-It's a family-friendly club!

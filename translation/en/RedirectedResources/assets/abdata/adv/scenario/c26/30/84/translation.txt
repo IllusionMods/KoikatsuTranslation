@@ -1,4 +1,6 @@
-
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
 「……コイカツって、何をやるの？」="...The Love Hunter's Club?"
 「えっと、ざっくり言えば恋愛の研究……ってところかな」="The study of romance, huh... I'm interested."
 「……私、鯉に勝つ部活だと思ってた」="...I thought it was just some kind of joke at first."

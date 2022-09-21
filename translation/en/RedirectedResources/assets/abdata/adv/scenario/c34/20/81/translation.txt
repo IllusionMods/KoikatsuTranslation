@@ -1,4 +1,7 @@
-﻿「ジャジャーン♪　ワタシ特製、ｌｕｎｃｈｂｏｘダヨ♡　オニギリ、カラアゲ、ｐｏｔａｔｏ♡　イッパイ食べてネ♡」=Tada~♪ This is a lunchbox I specially made for you♡ Rice balls, fried chicken, and potato salad♡ Eat lots, okay?♡
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「ジャジャーン♪　ワタシ特製、ｌｕｎｃｈｂｏｘダヨ♡　オニギリ、カラアゲ、ｐｏｔａｔｏ♡　イッパイ食べてネ♡」=Tada~♪ This is a lunchbox I specially made for you♡ Rice balls, fried chicken, and potato salad♡ Eat lots, okay?♡
 「おわ、美味しそう！　いただきまーす！　もぐもぐ……う～ん、味濃し、量多し……海外風のお弁当もいいねぇ」=Owah, looks delicious! I'll be digging in! *munch munch*... Mmm~, the flavour's deep, and the quantity is large too... This western sort of bento is great too~
 「フフ♡　ワタシが育った国、イツカ、アナタと旅行したいナ。案内してあげるヨ♡」=Fufu♡ I want to go on a trip with you someday, to the country I was rasied. I'll show you around♡
 「あ、いいね。日本に帰ってくる前の[H]のこと、本当に何も知らないし、住んでた家とか通ってた学園見てみたいなぁ」=Ah, sounds good. I really don't know anything about how you were like, before you came to Japan, I wanna see where you lived and what sort of school you went to.

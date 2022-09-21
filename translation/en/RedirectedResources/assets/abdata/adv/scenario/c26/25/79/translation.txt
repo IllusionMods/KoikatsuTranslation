@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「……涼しい」=“...So cool.”
 「屋上でお昼っていうのも良いよね」=“Eating lunch at the roof's pretty nice too, isn't it?”
 「……うん」=“...Yeah.”

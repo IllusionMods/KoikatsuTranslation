@@ -1,4 +1,6 @@
-
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
 「[H]、くっつくのはいいけど、後にしない？　みんな見てるし……」=“[H], not that I mind it when you cling to me, but could we do it later? Everyone's staring...”
 「いいの。この星から出ていけば、関係のない人たちなんだから」=“It's fine. They're people unrelated to us, since we'll be ditching this planet soon.”
 「そう言われればたしかに、そうだけど……」=“Looking at it that way, certainly, you're not wrong but...”

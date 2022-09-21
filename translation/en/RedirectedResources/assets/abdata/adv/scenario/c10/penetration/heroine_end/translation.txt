@@ -1,1 +1,4 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「うむ、なかなか楽しめたぞ。３人での儀式も良いものだな。クックック……♪」=“Umu, it was quite fun. Performing the rite with 3 people is quite nice as well. Kuh kuh kuh...♪”

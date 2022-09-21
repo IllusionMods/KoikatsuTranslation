@@ -1,0 +1,7 @@
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「わかりました。どこまでお供すればよろしいですか？」=Understood. How far would you like me to accompany you?
+「あはは……お供って言い方されると緊張しちゃうよ。楽しく話しながら帰ろう」=Ahaha... If you say it like that, it'll make me nervous. Let's go home together while chatting about something fun.
+「すみません、こういったことに慣れていなくて……。楽しい話……何か面白い話題を……」=I'm sorry, I'm not used to this sort of thing... Something fun... I have to think of something interesting...
+「無理せず、いつも通りでいんだよ！」=Take it easy, just be your normal self!

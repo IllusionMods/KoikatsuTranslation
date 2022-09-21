@@ -1,2 +1,5 @@
-﻿「あっ、キミ～。今日の家庭科の成果だけど～？」=Ah--, hey~. I made this at home ec today~
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「あっ、キミ～。今日の家庭科の成果だけど～？」=Ah--, hey~. I made this at home ec today~
 「まあそれなりのできだったよ～。しかたないな～。おすそ分けしてあげよ～」=All things considered, it came out pretty well~. Guess it can't be helped~. I'll share some with you~

@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「結構歌ったね。履歴が俺たちの曲ばっかり」=“We sang a whole lot, huh? The log's full of our queues and nothing else.”
 「本当……延長もしたから、当然かも、ね」=“Really... we extended it too, so maybe that's just normal.”
 「今日は……いつもよりも……歌った気がする」=“I feel like... I sang a lot more... than usual today.”
@@ -6,6 +9,8 @@
 「俺も大丈夫かな。それよりも、[H名]、次歌っていいよ」=“I'm okay too, I think? Forget that, feel free to put in the next song, [H].”
 「……もう、いい、かな。歌いたい曲は、ほとんど、歌った」=“...I've, had, enough. I've sung, most of the ones, I wanted to sing.”
 「そっか……でも、時間はまだあるし……」=“I see... but, we still have time so...”
+CHOICE:『歌わずに休む』=Stop singing and rest.
+CHOICE:『今日はもう帰ろうか』=Go home.
 「ちょっと喉休ませようかな」=“Guess we'll take a break. I wanna rest my throat too.”
 「大丈夫？　……やっぱり痛い？」=“You okay? ...Does it hurt afterall?”
 「そういう意味じゃないんだ。大丈夫だよ」=“Don't worry, that's not why. I'm fine.”
@@ -21,6 +26,3 @@
 「今日はこれぐらいにして……帰ろうか？」=“Let's leave it for here today... and go home?”
 「……うん、支度するね」=“...Okay, I'll get my things.”
 「うん、それじゃ忘れ物ないか確認してから出よう」=“Yeah, well then, let's leave after we make sure we're not missing anything.”
-
-CHOICE:『歌わずに休む』=Stop singing and rest.
-CHOICE:『今日はもう帰ろうか』=Go home.

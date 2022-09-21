@@ -1,4 +1,7 @@
-﻿「みなさんが憧れるシチュエーションってどんなのがあるんですかね？」=Just what sort of romantic situations do people dream about the most, do you think?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「みなさんが憧れるシチュエーションってどんなのがあるんですかね？」=Just what sort of romantic situations do people dream about the most, do you think?
 「うーん、そうだなぁ……」=Nnn, good question...
 「身体を寄せ合って１つのイヤホンで一緒に音楽を聴く、とか？　すごい青春って感じがしない？」=Stuff like snuggling up close, and listening to music through the same set of earphones? Doesn't that give you the feeling of "youthful romance"?
 「あ、いいかもしれないですね。で、では、やってみますか？」=Ah, that might be nice. T-Then, shall we try it?

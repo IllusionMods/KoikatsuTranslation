@@ -1,10 +1,14 @@
-﻿「……この格好だと、自然と身が引き締まるなあ」=...Can't help but be stiff, in this outfit.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「……この格好だと、自然と身が引き締まるなあ」=...Can't help but be stiff, in this outfit.
 （緊張してた[H名]の気持ち、今になって分かってきたよ……）=(Only now do I understand, [H名]'s nervousness...)
 （……[H名]の方は、どんな感じになってるんだろう。似合ってるだろうけど、いまいち想像つかないや）=(...I wonder how she's holding up. It probably must look real good on her, but it's hard to actually imagine it.)
 （いよいよ出番か……）=(Showtime, huh...)
 （これがチャペル……うっ、緊張してくる）=(So this is a chapel... uu--, I'm getting nervous.)
 （でも、[H名]の新郎役として恥ずかしくないよう、堂々としなきゃな）=(But, I gotta put on a good show, can't embarrass [H名] as her 'groom', now can I?)
 （……ふぅ。ただ歩いただけなのに、汗をびっしょりかいてしまった……情けない、もっとしっかり気合を入れないと！）=(...Fuu. Even though it was just walking a few steps, I'm fucking drenched from sweat... this is pathetic, I gotta get my shit together!)
+モブ=Mob
 「これより新婦が入場致します。後方の扉口をご覧ください」=And now, the bride will make her entrance. Please pay attention to the main door.
 （[H名]のウェディング姿が……）=([H名], in a wedding dress...)
 視線を扉へと向けると、純白のドレスをまとった[H名]が佇んでいた。=Turning my gaze to the door, I saw [H名] standing there, clad in a pure white dress.
@@ -15,4 +19,3 @@
 「うん！　すごい良く似合ってるよ。つい見とれちゃった」=Yeah! It looks amazing on you. I couldn't help but be charmed.
 「あっ……いや、あんま私のこと気にすんなよ！　式に集中しようぜ」=Ah--... well, don't worry too much about me! Let's focus on the ceremony.
 「ふふ、そうだね！」=Fufu, yeah!
-モブ=Mob

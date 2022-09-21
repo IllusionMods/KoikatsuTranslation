@@ -1,1 +1,4 @@
-﻿「ふふ、お陰でいい経験が出来たわ……ありがとう」=Fufu, that was a really good experience... thank you.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「ふふ、お陰でいい経験が出来たわ……ありがとう」=Fufu, that was a really good experience... thank you.

@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「やっぱり、ここから見る夜景はすっごく綺麗だなー」=“The scenery from here really is just amazing, isn't it?”
 「そうだね。他にも綺麗な場所を探したりもしてるけど、ここよりいい場所はなかなか見つからないんだよ」=“Yeah. I've been trying to look for some other nice places like this, but it's been proving pretty difficult to find one better than this.”
 「他の夜景も探してる？　それって、もしかして他の女の子のためにかー？」=“Looking for other nice places? Is that for some other girl~?”
@@ -12,6 +15,8 @@
 「……それは、そうかもしれないなー」=“...That, might be so~.”
 「ここでも、他の場所でも。何度でも、[H名]と夜景を見たいな」=“Whether it's this place, or any other place. I wanna look at the night sky, together with you, as many times as we can.”
 「あたしだって、何度でもキミと一緒にいろんな夜景を見たいぞー」=“I want the same thing too, you know? I wanna see all sorts of nightscapes together with you.”
+CHOICE:『Ｈしようと誘ってみる』=Try asking her for sex.
+CHOICE:『そろそろ切り上げて帰る』=Wrap it up and head home.
 「そうだね！　でも、やっぱり俺にとってはここが一番だろうな」=“Yeah! But, to me, there's no beating this place.”
 「え？　そりゃ、たしかに綺麗だけど……それにしても、随分ここを気に入ってるんだなー」=“Eh? I mean, it is beautiful, I'll give it that but... you've really taken a liking to this place.”
 「うん。だって、ここに来ると[H名]とエッチしたことを思い出すからね」=“I have. Afterall, when we come here, it brings back the memories of us doing it here.”
@@ -33,5 +38,3 @@
 「何度でも……うん、たしかにそうだなー！」=“As many times... yeah, you're right!”
 「よし、それじゃあ帰るとするかー」=“Alright, well then, let's go home then.”
 「ほら、キミ！　そうと決まったら、駅まで手を繋いで行くぞ！」=“C'mon! Now that we've decided on that, we're holding hands till the station!”
-CHOICE:『Ｈしようと誘ってみる』=Try asking her for sex.
-CHOICE:『そろそろ切り上げて帰る』=Wrap it up and head home.

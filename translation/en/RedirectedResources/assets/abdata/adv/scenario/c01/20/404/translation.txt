@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「うわあ、美味しそうだね！」=“Uwaah, it sure looks delicious!”
 「そうですね。では、いただきましょうか」=“Indeed. Well then, shall we dig in?”
 「うん。いただきまーす」=“Yeah. Let's~!”

@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「おぉ、だんだん高くなってきたね。この瞬間がわくわくするんだよな～」=Oooh, it's going and higher. This moment really makes your heart beat, doesn't it~
 「……観覧車、好きなのね」=...You like ferris wheels, huh?
 「え？　うーん、好きか嫌いかで言ったら、好きかな。[H名]さんは？」=Eh? Well, if I had to pick between like or dislike, I'd say I like them. What about you, [H名]-san?

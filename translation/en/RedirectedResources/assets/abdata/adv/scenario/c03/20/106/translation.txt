@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「ふふっ、今日もここは綺麗なのです」=“Fufu--, this place is beautiful today as well.”
 「うん、天気も良くて良かった」=“Yeah, good thing the weather's great too.”
 「はいです。でも……もしも雨だとしても、それはそれで綺麗な気がするですよ」=“Yes. But... even if it rains, I think that'd be quite beautiful in its own way.”
@@ -11,6 +14,8 @@
 「ほら、そういうところが可愛い」=“That side of you is exactly what's adorable.”
 「ひやぅっ……も、もーっ……恥ずかしがらせないでくださいー！」=“Hyau--... j-jeez--... please don't make me blush~!”
 （こうやって照れる[H名]……本当に可愛いよな）=(The way she blushes everytime... she really is adorable.)
+CHOICE:『抱き寄せる』=Embrace her.
+CHOICE:『手を繋ぐ』=Hold her hand.
 「[H名]……おいで」=“[H]... come here.”
 「ふぁっ……あ……ど、どうしたですか、急に……」=“Fuah--... ah... w-what's wrong, all of a sudden...”
 「ううん、可愛いなぁって思ったら我慢出来なくなった」=“Nothing, my self control just evaporated since you were being so adorable.”
@@ -27,6 +32,3 @@
 「はは、こうやってると落ち着くんだ」=“Haha, doing this calms me down.”
 「私もですよ。繋がってるって感じがして……幸せなのです……」=“Me too. It feels like we're connected... it's bliss...”
 「それじゃ……この幸せのまま、駅まで戻ろっか」=“Well then... let's blissfully go back to the station, shall we?”
-
-CHOICE:『抱き寄せる』=Embrace her.
-CHOICE:『手を繋ぐ』=Hold her hand.

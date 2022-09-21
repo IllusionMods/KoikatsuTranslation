@@ -1,4 +1,7 @@
-﻿「そういえば昨日渡した小説だけど……どうだった？」=Reminds me, I lent you that book yesterday... how was it?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「そういえば昨日渡した小説だけど……どうだった？」=Reminds me, I lent you that book yesterday... how was it?
 「ああ、面白かったよ。特に最後の主人公がお姫様をエスコートする所がさ……」=Ah, yeah, it was interesting. Especially that ending where the protagonist was escorting the princess...
 「うんうん。その……コイカツ部の、参考になったかな……？」=Yeah, yeah. Uhm... was that at all, helpful, for club activities...?
 「もちろんさ。そうだ、折角だしそれ再現してみようよ！」=Of course. Right, we're here to do just that, so let's recreate it!

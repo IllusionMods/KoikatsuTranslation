@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「………………」=“.........”
 「あの、大丈夫……？」=Uhm, are you alright...?
 「あ……いえ、余韻に浸っていました、大丈夫です」=Ah... No, I was basking in the afterglow, I'm alright.

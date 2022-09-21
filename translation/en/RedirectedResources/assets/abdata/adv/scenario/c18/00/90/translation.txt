@@ -1,4 +1,7 @@
-﻿「あの！　お願いしたいんですけど！」=Uhm! I have a request!
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「あの！　お願いしたいんですけど！」=Uhm! I have a request!
 「どうしたの？　改まって……」=Why so formal all of a sudden...
 「あなたの愛称を考えてきたんです！　なので、ちょっと呼んでみたくて……」=I've thought of a nickname for you! So, I wanted to call you by it...
 「え、本当？　すごい偶然……俺も最近[H]の愛称を考えてたんだ」=Eh, really? What a coincidence... I've been thinking of one for you for a while now too, [H].

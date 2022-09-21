@@ -1,0 +1,27 @@
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「いい天気！　ここまで晴れてると、気持ちいいわね」=“Such good weather! When it's this clear out, it just so feels good, doesn't it?”
+「本当だね、でもさすがに天気良すぎて……ねえ、ちょっと木陰で休まない？」=“Yeah, but it's a bit too good... hey, can we rest under the tree's shade a bit?”
+「確かに日差しが強烈ね……ちょっとそこのベンチに避難しましょうか」=“The sunlight is pretty harsh, yeah... let's take shelter at that bench.”
+………………=.........
+（ハトがいっぱい寄ってきた……ここって、いつもハトがエサもらってる場所なのかな？）=(So many pigeons... do they always get food from people sitting here?)
+「……ハトは、こんなに暑いのに、倒れたりしないのかなぁ」=“...It's so hot out today, do you think pigeons get heatstroke too?~”
+「あんた、変なこと気にするわね。そんなこといいから、何かこの子達にあげられるものない？」=“You sure think about some weird things. Forget about that, do you have anything we could feed them?”
+「エサあげるの？」=“You're gonna feed them?”
+「うん。そのつもりなんだけど……何か持ってない？」=“Yeah. That's the plan... do you have anything?”
+「えーっと、確かポケットに……あったあった、ほら、クッキー」=“Eerhm, I remember putting a... ah, here it is, a cookie.”
+「固くてそのままじゃ食べられないよね。細かく砕いてあげる……はい、どうぞ」=“They probably won't be able to eat it as is, would they? It's gotten so hard afterall. I'll break it up into tiny pieces for them... here you go.”
+「へぇ、近づいても全然逃げないや……やっぱり、いつもエサもらってるのか」=“Hoh, they're not flying away even though you're so up close to them... guess they really must be getting fed, by people here.”
+（それにしても[H名]のやつ……エサやりに夢中だな……ベンチで休むんじゃなかったのか？）=(That aside, that dolt... she's so engrossed in feeding them... didn't she wanna rest in the shade?)
+「……何してんの。あんたも来なさいよ」=“...What're you doing? C'mon, come here.”
+「え？　今、腰を落ち着けたとこなのに……」=“Eh? I finally managed to relax some too, though...”
+「もう！　年寄りじゃないんだから、休憩終わりよ」=“Jeez! You're not an old man, so move that ass.”
+「……はーい」=“...Fine, fine.”
+「いくわよ！　召し上がれ！」=“Here you go! Dig in!”
+「うわっ！　まるごと！」=“Uwah--! You threw the whole thing!”
+「あ～あ、逃げてっちゃった……」=“Aah~, they flew away...”
+「え～っ！　なんで！？　せっかくエサあげたのに……」=“Eeh~! Why?! I even gave them food and everything...”
+「そりゃあ、塊のまま投げたらハトもおびえるよ。逃げられて当たり前だって」=“Even pigeons are gonna get scared if throw a whole cookie at them. I don't know what you were expecting.”
+「そうなんだ……ごめんね」=“I see... Sorry, birdies.”
+「そんな気にするなよ。どうせまたすぐ寄ってくるからさ」=“Don't mind it so much. They're gonna come right back in no time anyway.”

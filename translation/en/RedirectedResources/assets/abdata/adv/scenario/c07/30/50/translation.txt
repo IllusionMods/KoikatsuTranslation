@@ -1,2 +1,5 @@
-﻿「[P]とより深く繋がった気がするんだ」=I feel like we've gotten even closer together, [P].
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「[P]とより深く繋がった気がするんだ」=I feel like we've gotten even closer together, [P].
 「もっともっと、二人でその……あ、愛し合いたいな！」=I wanna, uhm, you know... m-make lots more love with you!

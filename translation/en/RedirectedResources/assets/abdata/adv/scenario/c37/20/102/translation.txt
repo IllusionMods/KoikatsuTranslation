@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「今日は本当に天気がいいね」=The weather truly is nice today, don't you think?
 「はい。風も穏やかですごしやすいです」=Yes. The wind is gentle and nice too. Feels like it'll be a good time.
 「向こうでは、身体を動かしている人もいますね」=There are people who are doing some exercise over there too.

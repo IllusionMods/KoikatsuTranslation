@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「……うそでしょ？　夢じゃないよね？」=“...No way? This isn't a dream, right?”
 「夢なんかじゃないよ。俺は、本気で言ってるんだ」=“It's not a dream. I am being serious.”
 「うそ。うそうそ！　こんなの夢に決まってる！」=“No way. No way no way! This has to be a dream, this can't be real!”

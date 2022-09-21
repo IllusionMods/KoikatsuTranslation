@@ -1,4 +1,7 @@
-﻿「んーっ、結構頑張ったね！」=Nn--, we really put our all in that, huh!
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「んーっ、結構頑張ったね！」=Nn--, we really put our all in that, huh!
 「そうだね。こんなに勉強が捗ったのは久しぶりだよ」=Yeah. It's been a while since I've gotten so much done in one go.
 「私も！　やっぱり誰かと一緒にすると違うなぁ」=Me too! It really is different, doing it together with someone.
 「特に相手が男の子だと……頑張らなきゃって気になっちゃう。えへへ」=Especially when the study partner's a boy... I just feel like I have to do my best, you know? Ehehe~

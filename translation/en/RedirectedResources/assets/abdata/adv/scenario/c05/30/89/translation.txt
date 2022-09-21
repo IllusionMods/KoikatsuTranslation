@@ -1,4 +1,6 @@
-
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
 「ちょっとお願いしたいことがあるんだけど、いいかな？」=“I've got a bit of a request, do you mind?”
 「どうしたの？　宇宙からの交信があった？」=“What's the matter? Got a message from space?”
 「それはまだかな……えっと、愛称で呼んでほしいなと思ってさ」=“That'd be a no... erhm, I wanted you to call me by a nickname, you see.”

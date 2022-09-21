@@ -1,0 +1,26 @@
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「えへへ、今日はかなり歌ったですね。思いっきり楽しんじゃったです！」=“Eheheh, we sang a whole lot today, didn't we? I had a blast!”
+「そうだね。もう満足した？」=“Same. Satisfied already?”
+「はいです。一週間分くらいは歌ったですよ！」=“Yes. I sang enough for the whole week!”
+「あはは、こんなに歌って一週間分なんだ。[H名]は元気だなぁ」=“Ahaha, so this is only a week's worth, huh. You're sure lively, [H].”
+「えへへ、お歌は一週間分ですけど、あなたと一緒の時間って意味だったら全然足りないです。まだまだ一緒に過ごしたいですよ」=“Eheheh, it was only a week's worth of singing, but if we talk about time spent with you, it's not even remotely enough. I wanna spend more, lots more time together.”
+「[H名]……」=“[H]...”
+CHOICE:『大丈夫、まだ時間はあるよ』=It's alright, we still have time.
+CHOICE:『駅までしっかり一緒に過ごそう』=Let's slowly enjoy the rest of our date as we walk to the station.
+「大丈夫、まだまだ時間は残ってるよ。残りの時間はのんびり話でもする？」=“It's alright. We still have time. Wanna just relax and chat for the rest of the clock?”
+「はいです。ここから先は歌う時間じゃなくて、二人きりで過ごす時間ですね」=“Yes. From here on out, it's no longer karaoke time, but rather alone time between us, isn't it?”
+「うん、[H名]……」=“Yeah, [H]...”
+「ん……」=“Nn...”
+「んんっ……ちゅっ……」=“Nnn--... *kiss*...”
+「はぅぅ……キスしてもらうと……二人きりだってこと……意識しちゃうですよ……」=“Hauu... if you kiss me... I really won't be able to ignore... how we really are alone together...”
+「どんな風に意識するの？」=“And what do you mean by that?”
+「それは……その……恋人同士ですのでっ……やっぱり……」=“That's... uhm... we're a couple so... of course...”
+「えっちしたくなる？」=“You'll want to have sex?”
+「ひあぁっ！　ストレートに言ったら恥ずかしいですよーっ！」=“Hyaaaah--! It's embarrassing when you say it directly like that--!”
+「でも……はいぃ……その通りなのです……ここから先は……二人きりで過ごす時間……ですから。そういうこと……考えちゃうですよ……」=“But... yes... that's exactly it... it's alone time... just between us, so... I won't be able to... help myself...”
+「俺も同じだよ。[H名]……おいで」=“I'm the same way, [H]... Come here.”
+「それじゃデートの残りの時間、駅までの帰り道もしっかり一緒に過ごそっか」=“Well then, let's slowly enjoy the rest of our date together making our way back to the station.”
+「はいですっ！　ずーっと仲良しのまま行くですよ！」=“Yes--! We're gonna chat the whole way back!”
+（ほんと……こんな風に喜んでくれるのって、嬉しいな）=(Really... seeing her be so happy about it, makes me so happy too.)

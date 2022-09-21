@@ -1,4 +1,6 @@
-
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
 //「おーほっほっほ、あなたは見込みありますわ」=
 //「そうなの？」=
 //「ええ、わたくしを退屈させないよう、頑張っていますから」=

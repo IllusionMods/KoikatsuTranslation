@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「なんか辛そうだけど大丈夫？」=“You look like you're having a rough time, you okay?”
 「……オタクに直射日光を当てないで下さい。死んでしまいます」=“...You shouldn't take otakus out into direct sunlight. They're liable to die.”
 「あはは。あ！　移動販売車がある。ちょっと休憩にしようか？」=“Ahaha. Ah! There's a food truck over there. Wanna take a break there?”

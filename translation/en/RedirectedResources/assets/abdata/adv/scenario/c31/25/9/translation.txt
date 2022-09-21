@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「ほぅ、ようやくその気になったか。待ちくたびれたぞ」=Hoh, finally got into that mood, huh? I almost gave up waiting, you know?
 「という事は……ＯＫで、いいのかな？」=So that means... You're OK with it?
 「フッ、そういう事だ。当日まで準備を怠るなよ？　初デート、楽しみにしているぞ」=Pfft, that's what it means, yes. Don't put off preparations until the very day, alright? I'm looking forward to our first date.

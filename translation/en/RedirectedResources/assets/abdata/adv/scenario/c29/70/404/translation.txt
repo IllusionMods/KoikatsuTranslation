@@ -1,0 +1,37 @@
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「[H名]が頼んだの、美味しそうだね」=The stuff you ordered looks pretty delicious, [H名].
+「メニューを見てすぐに決めました。これしかないと思ったんです」=The moment I looked at the menu, I knew that I just had to get this. So I did.
+「では、いただきます……あむっ」=Well then, I'm digging in... *bite*--
+「……んっ……ふふふふっ」=...Nn--... fufufufu--
+「すごく幸せそうな顔してるね」=You sure do look happy eating that.
+「それはもちろんです、とても美味しいですから」=Of course, it's amazingly delicious afterall.
+「ふわふわのパンケーキの上に、たっぷりのクリーム――最高の組み合わせです」=A heaping of cream, on top of such fluffy pancakes-- a match made in heaven.
+「激甘になりそうだけど……」=I feel like that'd be just way too sweet...
+「確かに甘いですけれど、そこまでくどくはないですよ」=It certainly is sweet but, it's not that harsh, you know?
+「そう？　どんな感じなのか気になるなぁ」=That so? Now I'm curious about just what it tastes like.
+「では、一口どうですか？」=Would you like a bite then?
+「いいの？　それじゃあ……」=You sure? Well then...
+「なぜ口を開けて待っているのですか。もしかして……」=Why are you waiting with your mouth open? By any chance...
+「うん。[H名]が食べさせてくれると嬉しいなーって」=Yeah. I'd love it if you fed it to me, [H名].
+「し、仕方ないですね……」=Y-You're so hopeless...
+「……あーん」=...Open wide. aahn.
+「あーーん……」=Aaahn...
+「あむっ……もぐもぐもぐ…………うん、[H名]が言うように、くどくない甘さだね」=*bite*--... *chew chew chew*... yeah, just as you said, [H名], it's quite the mellow sweetness.
+「甘いけど、不思議ともうひとくち食べたくなるっていうか」=It's sweet but, I can't help but want to go for another bite.
+「次は自分で食べてくださいね……」=Please eat it by yourself next...
+「でも、[H名]って甘いの苦手だったよね？　大丈夫なの？」=But, you didn't have much of a sweet tooth, right? You alright with that?
+「ええ。このブラウニーはそんなに甘くありませんから」=Yes. This pudding isn't all that sweet, afterall.
+「苦味もあってビターなスイーツなんです」=It's the sort of confection with bitterness to it.
+「へぇ。甘すぎないお菓子ってわけなんだ。どんな味なんだろう」=Huh. A not-too-sweet sweet. I wonder what it tastes like.
+「味見してみますか？」=Would you like to try some?
+「いいの？ありがとう。じゃあ――」=You sure? Thanks. Then---
+「あーん」=Aaahn.
+「……普通に食べるのではダメなのですか？」=...Can you not eat it normally?
+「できれば[H名]に食べさせてほしいなー」=I'd love it if you fed it to me, [H名].
+「そ、そうですか…………わかりました」=I-I see... Understood.
+「あむっ……」=*bite*--...
+「もぐもぐ……うん、美味しい！　甘味と苦味がベストマッチって感じだね」=*chew chew*... yeah, it's delicious! Sweetness and bitterness are truly a match made in heaven, aren't they?
+「それは良かったです。これで気に入ってもらえなかったら、あーん損になってしまいますから」=I'm glad to hear that. If you didn't end up liking it after the way I fed you, it truly would have been a loss.
+（あーん損って……可愛い言い方だな）=("A loss"... what an adorable way of putting it.)

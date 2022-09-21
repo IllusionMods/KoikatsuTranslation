@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 山型多角形1(通常)=Mountain Polygon 1 (General)
 山型多角形2(通常)=Mountain Polygon 2 (General)
 長六角形(通常)=Long Hexagon (General)

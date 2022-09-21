@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「うわぁ、夜の遊園地って、こんなに綺麗なのね……」=Uwah, the night scenery of the park is so pretty...
 「ライトアップされて、どこもキラキラしてるね。正に夢の国って感じ」=Everything's all lit up, everywhere you look, it's sparkling. Something right out of a dreamworld.
 「ほんとね、目を閉じて開いたら、ベッドの上で寝てたなんて……普通にありそうよ」=You're right, when I close my eyes and open them... it feels just like dreaming while in bed.

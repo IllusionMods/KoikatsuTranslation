@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「ふぅん、正式に私の下僕になりたいと、そういう事でいいのかしら？」="Hmm, so you want to officially become my manservant?"
 「いや、下僕っていうか……その、できれば恋人に……」="A manservant, ehh... Um, if possible, to become a lover..."
 「恋人？　まさか、私と対等な関係になりたいと言うの？　それは一生無理ね、諦めなさい」="A lover? No way, you're saying that you want to be on equal terms with me? That'll never be possible. Give up."

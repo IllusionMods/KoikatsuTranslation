@@ -1,4 +1,7 @@
-﻿「はぁ？　私がそんなめんどくせぇのに入るわけねぇだろ」=Haa? Like hell I'm gonna take part in something that annoying.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「はぁ？　私がそんなめんどくせぇのに入るわけねぇだろ」=Haa? Like hell I'm gonna take part in something that annoying.
 「そこをなんとか……！　お願い！」=Just this once...! Please!
 「はぁ……で、何するところなんだよ」=Haa... and, just what do you even do there?
 「まぁ、今まで通り俺と喋ったり、スキンシップしたりとか……」=Well, just some regular old chatting, like what we've done till now, maybe a little bit of skinship, and...

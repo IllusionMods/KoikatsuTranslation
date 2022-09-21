@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「あ、もうこんな時間か。だいぶ話しこんじゃったね」=“Ah, it's already this late, huh? We really got into our chat, didn't we?”
 「あなたの話が面白いから、時間を忘れてたよ」=“Chatting with you is always really fun so, I forgot the time too.”
 「はは、そう言ってくれて嬉しいよ」=“Haha, makes me happy to hear you say that.”

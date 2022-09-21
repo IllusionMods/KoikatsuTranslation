@@ -1,4 +1,7 @@
-﻿「カラオケなんて久しぶりだなー、なんか緊張するよ」=Man, it's been a while since I've been out to karaoke. I'm feeling kinda tense.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「カラオケなんて久しぶりだなー、なんか緊張するよ」=Man, it's been a while since I've been out to karaoke. I'm feeling kinda tense.
 「ははっ、そんな緊張する場所でもねーだろ」=Haha--, it's just a karaoke box, I don't think there's a need to be tense.
 「まあ、そうだね」=Well, you're right.
 「さ～ってと、リモコンは……あったあった。な～に歌おっかな～」=Now then~, where's the remote... ah, there it is. What shall we sing~

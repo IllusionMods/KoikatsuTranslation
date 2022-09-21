@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「これ、家庭科の調理実習で作ったお菓子ですけど……もし良かったらあなたに食べて欲しーです」=“I made some sweets during cooking class, and uhm... if it's okay, I want you to eat them.”
 「おお、すごく本格的！　ラッピングも良い感じだ」=“Ooh, they look super professional! You even wrapped them so nicely and everything.”
 「あはは、ありがとうです！　ささ、お味の方もぜひぜひです！」=“Ahaha, thank you! Go on, please do try them!”

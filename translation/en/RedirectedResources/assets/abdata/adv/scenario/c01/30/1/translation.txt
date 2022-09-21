@@ -1,4 +1,6 @@
-
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
 「[H姓]さん、今時間大丈夫かな」=“[H姓]-san, is this a good time?”
 「大丈夫ですよ。もしかして、私とお話をしに？」=“Yes. Have you come to chat with me, perchance?”
 「うん。[H姓]さんのこと、もっといろいろ知りたいなって」=“Yeah. I wanted to get to know you better.”

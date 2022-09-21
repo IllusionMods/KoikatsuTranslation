@@ -1,4 +1,6 @@
-
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
 「……そう言うと、思ってた」=“...I thought, you'd say that.”
 「え？　それって、どういうこと？」=“Eh? What do you mean by that?”
 「鈍いわねえ！　これ以上言わせないでよ！」=“Darn blockhead! Don't make me say any more!”

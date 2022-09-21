@@ -1,4 +1,7 @@
-﻿「えぇ～面倒くさい気がする～」=Eeh~, sounds like a pain, that~
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「えぇ～面倒くさい気がする～」=Eeh~, sounds like a pain, that~
 「お願い！　きみと一緒に部活したいんだ」=Please! I want to do club activities with you.
 「それに、コイカツ部ってぶっちゃけ何するかよく分かってないし～」=Not to mention, I don't really get what your "koikatsu" club is about and stuff~
 「お喋りしたりして、親睦を深めるための部活だよ」=It's a club where we'll chat together and deeper our ties and stuff.

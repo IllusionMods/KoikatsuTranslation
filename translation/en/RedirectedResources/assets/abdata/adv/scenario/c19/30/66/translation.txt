@@ -1,4 +1,7 @@
-﻿「実は今日、ちょっと本屋に寄り道したかったんだ」=Honestly, I actually wanted to stop by the bookstore for a bit today.
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「実は今日、ちょっと本屋に寄り道したかったんだ」=Honestly, I actually wanted to stop by the bookstore for a bit today.
 「あっ、それで私を誘ったのね。ふふっ、どんな本をお求めで？」=Ah--, that's why you invited me, huh? Fufu--, what sort of book are you going for?
 「恋愛関係のハウツー本かな。コイカツ部で活用できないかなって思って」=A beginner's guide to romance, I guess. Thought it might be useful as reference material for the club.
 「恋愛……あっ、考えてみればこれって、一種の……」=Romance... ah--, now that I think about it, isn't this...

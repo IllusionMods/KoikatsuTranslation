@@ -1,6 +1,8 @@
-
-//「あ、今ちょっと時間あるかな？　少し話しがしたいんだけど」=
-//「はいです。どんなお話ですか？」=
-//「あー、特に話題があるわけじゃなくて……何となく話してみたかったっていうか……」=
-//「あ、了解です！　ちょうど私も男子の方とお話ししてみたかったのです！」=
-//「あはは、だったら良かった」=
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「あ、今ちょっと時間あるかな？　少し話しがしたいんだけど」=“Ah, do you have some time right now? I wanna chat with you a bit.”
+「はいです。どんなお話ですか？」=“Yes. What about?”
+「あー、特に話題があるわけじゃなくて……何となく話してみたかったっていうか……」=“Ah, I didn't exactly have a topic in mind... really, I just wanted to have a chat, any chat...”
+「あ、了解です！　ちょうど私も男子の方とお話ししてみたかったのです！」=“Ah, roger! I wanted to try talking with a boy myself too!”
+「あはは、だったら良かった」=“Ahaha, good to know.”

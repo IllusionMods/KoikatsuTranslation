@@ -1,4 +1,7 @@
-﻿気持ちいい？=Does it feel good?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+気持ちいい？=Does it feel good?
 もっと欲しければ言ってね=Lemme know if you want more.
 大丈夫よ、もっと楽にして=It's alright, relax.
 ふふっ、気持ち良さそうね=Fufu--, seems like you're enjoying it.

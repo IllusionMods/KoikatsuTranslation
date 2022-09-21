@@ -1,4 +1,6 @@
-
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
 「この前言われたんだけど……仲良くなるには、肌と肌の触れ合いが大事なんだって」=“They told me something before... that to get close with you, I should really touch you and feel you some more.”
 「わたし、もっと仲良くなりたいから、触るね？」=“I want to, get close to you so, I'll touch you, okay?”
 「う、うん」=“G-Go ahead.”

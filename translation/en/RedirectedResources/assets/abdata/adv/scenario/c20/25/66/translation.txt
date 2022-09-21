@@ -1,4 +1,7 @@
-﻿「あっ、ちょっと寄り道してもいいかな？」=Ah--, mind if we take a detour?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「あっ、ちょっと寄り道してもいいかな？」=Ah--, mind if we take a detour?
 「はい、いいですよ。どこに行くんですか？」=Yes, sure. Where do you want to go?
 「本屋。ちょっと買いたいものがあるんだ」=The bookstore. There's something I wanna get from there.
 「も、もしかして、エッチな本ですか？」=I-It wouldn't happen to be a dirty magazine, right?

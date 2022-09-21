@@ -1,4 +1,7 @@
-﻿「あら、どうしたの？　もうギブアップ？」=Oh my, what's up? Giving up already?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「あら、どうしたの？　もうギブアップ？」=Oh my, what's up? Giving up already?
 「ほ、本当に鬼ごっこをやるなんて……しかも全然捕まらないし……」=T-To think we'd really play a game of tag... I couldn't get you even once...
 「ふふっ、逃げるのは大得意なの……さあ、捕まえてごらんなさ～い」=Fufu--, running away is my forte... now then, come get me~
 「くっ……こうなったらとことん追いかけてやる～！」=Kuh--... now that it's come to this, I'm going to chase you to the ends of the earth~!

@@ -1,0 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「勉強？　貴方と？　この私が、貴方から何か学ぶものがあるというの？　プッ、笑わせないで」="Study? With you? Are you saying that I have something to learn from you? Pfft, don't make me laugh."
+「いや、この日のために予習してきたんだ！　絶対損はさせないから！」="No, I've prepared myself for this day! I definitely won't disappoint you!"
+「ふぅん、大層な自信ね。いいわ、それじゃあどれだけのものか、試させてもらいましょうか」="Huh, you're so confident. Alright then, let's see what you've got."

@@ -1,4 +1,7 @@
-﻿「わぁ～、すご～い！　人があんなに小さく見えるよ～！」=Waah~, amazing! The people down there look so small from here~!
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「わぁ～、すご～い！　人があんなに小さく見えるよ～！」=Waah~, amazing! The people down there look so small from here~!
 「それに街の灯りも綺麗だね～」=The city lights look lovely too, don't they~
 「うん。キラキラしてて、とても幻想的だね」=Yeah. They're all sparkling so brightly, it looks fantastical.
 「観覧車に乗ったのは子供の頃以来だから、こういう景色、すっかり忘れちゃってたな～」=I haven't ridden on a ferris wheel since I was a child so, I completely forgot that it looked like this from here~

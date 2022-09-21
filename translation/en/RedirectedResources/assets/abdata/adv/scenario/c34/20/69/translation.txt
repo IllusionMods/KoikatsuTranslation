@@ -1,4 +1,7 @@
-﻿「じゃあ、まずは英語から教えてもらってもいい？」=Then, can we start with English first?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「じゃあ、まずは英語から教えてもらってもいい？」=Then, can we start with English first?
 「ＯＫ♪　ニッポンのＥｎｇｌｉｓｈはｗｒｉｔｉｎｇダケダカラ、簡単ネー」=OK♪ English in Japanese schools is just about writing so, it's easy.
 「わっ、筆記体書けるの？　すごいね！」=Wah--, you write in cursive? Amazing!
 「エ？　ソレ、当たり前デショ～……エヘヘ……ナニカ、書いてほしい字、書くヨ？」=Eh? That's obvious, no?~ ...Ehehe... I'll write anything you want me to.

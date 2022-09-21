@@ -1,3 +1,6 @@
-﻿「お邪魔するぞー。へー、ここがキミの部屋なんだー」=I'm comin' in. Hoh, so this is your place, huh?
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「お邪魔するぞー。へー、ここがキミの部屋なんだー」=I'm comin' in. Hoh, so this is your place, huh?
 「男子の部屋に入るの、初めてだぞ……何か、そわそわしちゃうなー」=It's my first time, entering a boy's room, you know... I'm feeling, a bit fidgety.
 「それで、もちろん……ヤるんだよな？　へへ、興奮してきたぞ」=So then, we're gonna... do it, right? Hehe, I'm getting excited.

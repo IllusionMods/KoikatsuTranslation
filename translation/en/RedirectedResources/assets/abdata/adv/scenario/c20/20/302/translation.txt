@@ -1,4 +1,7 @@
-﻿「ちょっと飲み物飲みすぎたかな、トイレ行ってくるね」=I think I drank a bit too much juice, I'mma head to the toilet real quick, okay?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「ちょっと飲み物飲みすぎたかな、トイレ行ってくるね」=I think I drank a bit too much juice, I'mma head to the toilet real quick, okay?
 「あ、はい……ごゆっくり」=Ah, yes... take your time.
 「一人で待っているのも……少しだけあの曲、歌おうかな」=Just waiting by myself would be... maybe I'll sing that song.
 ………………=.........

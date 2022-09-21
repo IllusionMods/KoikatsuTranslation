@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「頼んだメニュー、なかなか来ないね？　忘れられてるのかな？」="The things we've ordered aren't coming huh... Maybe they've forgotten about us?"
 「きっと、貴方が注文の時にオドオドし過ぎたせいね。見ていて情けなくなったわ」="That's probably because you were so nervous while ordering. The waitress saw how pathetic you are."
 「いや、あれはオドオドじゃなくて、注文する直前で何にしようか迷っちゃって……」="Nah, I wasn't nervous, I just couldn't decide what I wanted."

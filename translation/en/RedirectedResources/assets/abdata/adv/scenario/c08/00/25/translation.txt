@@ -1,1 +1,4 @@
-﻿「男の人からプレゼント貰うの、変な感じだなぁ」=Getting a present from a boy feels kinda weird~
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「男の人からプレゼント貰うの、変な感じだなぁ」=Getting a present from a boy feels kinda weird~

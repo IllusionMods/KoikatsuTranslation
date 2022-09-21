@@ -1,4 +1,7 @@
-﻿「うまいっ！　やっぱ肉だよな～。肉食っとけばなんとかなる、って感じだ」=So good--! Man, meat is life~. It really does feel like everything will work out, as long as you eat meat.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「うまいっ！　やっぱ肉だよな～。肉食っとけばなんとかなる、って感じだ」=So good--! Man, meat is life~. It really does feel like everything will work out, as long as you eat meat.
 「肉汁がすごいね、そのハンバーグ。見てたら食べたくなっちゃったよ。俺もハンバーグ頼めばよかったかな」=Man, that hamburg steak sure is juicy. Just looking at it is making me wanna eat it. Maybe I should have ordered that too.
 「なんだよ水臭いな、食いたいならちょっと分けてやるよ」=What's with that standoffish attitude, if you want some, I'll share with you.
 「え、いやそんな、悪いよ」=Eh, no, don't, I'll feel bad.

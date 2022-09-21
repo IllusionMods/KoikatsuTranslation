@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「私達は仲良くなりましたか？」=Have we started getting along well?
 「どうだろう……でも、最初の頃よりかは君の事がわかってきたかな？」=I wonder... But, I feel like I understand you better now than I did when we first met?
 「これで恋人ですか？」=Are we lovers now then?

@@ -1,4 +1,7 @@
-﻿「……誰もいない教室って、なんだかドキドキしない？」=...Doesn't it make you excited, being in this empty classroom?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「……誰もいない教室って、なんだかドキドキしない？」=...Doesn't it make you excited, being in this empty classroom?
 「えっ……そうかな。集中できていいと思うけど」=Eh--... I wonder. I think it's a nice enough place to concentrate.
 「私はドキドキするわ……だって君とふたりっきりなんだもの」=Well, my heart is racing... Afterall, it's just the two of us here.
 （こ、これは勉強どころじゃないかも……！）=(D-Don't think we'll get any studying done today...!)

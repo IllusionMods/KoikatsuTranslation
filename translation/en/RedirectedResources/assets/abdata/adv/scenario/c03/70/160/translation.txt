@@ -1,0 +1,10 @@
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「[H名]、大丈夫？　落ち着いた？」=“[H], you okay? Feeling calmer now?”
+「は、はいです……あ、でも……もう少しだけ……休んでもいいですか？」=“Y-Yes... ah, but... do you mind if we... rest a bit?”
+「うん、もちろん。ごめんね、やっぱり疲れさせちゃったかな？」=“Yeah, of course. Sorry, I pushed you too far, didn't I?”
+「あっ……違うですっ……その……ドキドキし過ぎて……まだちょっと足が震えてるですよ……あはは……」=“Ah--... no, that's not--... uhm... my heart just pounded so hard... my feet are still shaking a little bit... ahahah...”
+「あ……それじゃ、落ち着くまで、俺が撫でてあげる」=“Ah... well then, I'll stroke your head until you feel calm.”
+「ふわぁっ、だ、ダメですよぅっ……余計に止まらなくなっちゃうですーっ！　このまま、ちょっとだけそーっとしておくです」=“Fuwah--, d-don't... it'll just pound even harder--! Just leave me be for a tiny little bit.”
+「あはは、了解。落ち着くまでゆっくり休んでいこう」=“Ahahah, roger. Let's take it easy until you feel calm.”

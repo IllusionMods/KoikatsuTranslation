@@ -1,4 +1,7 @@
-﻿「な、なんでこげんところにおると！？　ここ女子トイレよ！？」=W-Why are you in a place like this!? This is the girls' toilet, you know?!
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「な、なんでこげんところにおると！？　ここ女子トイレよ！？」=W-Why are you in a place like this!? This is the girls' toilet, you know?!
 「な、なんしよーと！？　男子は入っちゃいかんってば！」=W-What are you doing!? Boys shouldn't be going in here!
 「なん？　今忙しいっちゃけど？」=What? I'm busy right now.
 「……なんなん？」=...What?

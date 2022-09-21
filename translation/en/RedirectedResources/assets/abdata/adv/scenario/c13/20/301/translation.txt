@@ -1,4 +1,7 @@
-﻿「うぅ、なんか、ちょっと緊張するな～」=Uuu, I feel kinda nervous~
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「うぅ、なんか、ちょっと緊張するな～」=Uuu, I feel kinda nervous~
 「なんで？　[H名]って、よくカラオケに来てそうなイメージあるけど」=Why? I got the image that you were the type to often go out for things like Karaoke, [H名].
 「うん……友達とはよく行くけど……」=Yeah... with my friends, I do but...
 「男の子と二人っきりは、その……初めて、だから……」=It's my first time being, you know... alone with a boy, so...
@@ -14,7 +17,6 @@
 「じゃあ、この曲知ってる？」=Well then, you know this song?
 「知ってる、知ってる！　よーし、さっそく入れちゃおう！」=I do, I do! Alright, let's put it in!
 「おー！」=Yeah!
+[P名]＆[H名]=[P名] & [H名]
 『もしも今 背中に羽が生えて 大空自由に 飛び回れたら～♪』=『If only I could, sprout wings from my back, and fly freely, in this wide open sky~♪』
 （[H名]、楽しそうに歌うな～。俺も負けてられないぞっ！）=([H名] sure loves singing~. I can't lose either--!)
-
-[P名]＆[H名]=[P名] & [H名]

@@ -1,4 +1,7 @@
-﻿「あれ、それだけしか食べないの？」=Huh, are you only gonna eat that much?
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「あれ、それだけしか食べないの？」=Huh, are you only gonna eat that much?
 「だって、食べすぎると、ついてほしくないところにお肉がついちゃうんだもの」=I mean, if I eat too much, I'll get fat in places I don't want to get fat.
 「そんな気にすることないと思うんだけどなぁ」=I don't think you need to worry all that much about it.
 「気にするわよぉ。ほらここ、ちょっと触ってみて。プニプニでしょ～」=I do. Come on, try touching me here. I'm all plump and squishy, no~?

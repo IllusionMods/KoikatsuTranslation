@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「では……まずは何をすればいいのでしょうか？」=Well then... What should we start with?
 「そうだね、まずは……普通におしゃべりするところからかな」=Let's see, first... I suppose we should start with a normal chat?
 「それは普段からしていると思いますが」=I think we do that a lot on a regular basis anyway though.

@@ -1,1 +1,4 @@
-﻿「付き合ってくれてありがと、えへへ♪」=That's for keeping me company, ehehe♪
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「付き合ってくれてありがと、えへへ♪」=That's for keeping me company, ehehe♪

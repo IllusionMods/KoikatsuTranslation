@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「あ、あのさぁ。ちょっと提案なんだけど」=“H-Hey, listen. I've a bit of an idea.”
 「ん？　どうしたの？　急に改まって」=“Hm? What's up? You're being unusually formal.”
 「いやその……おまえの事……愛称で呼んでみたいかなーとか、思ったりしてー。はは、ははは……」=“No, it's uhm... I just wanted to, you know... call you by a nickname, and stuff. Funny joke, isn't it, hahahah...”

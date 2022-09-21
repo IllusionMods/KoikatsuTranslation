@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「は？　……あの、私の聞き間違いでしたら申し訳ないのですが……今、私に『好き』とおっしゃいましたか」=Hah?... Uhm, I apologize if I misheard but... Did you just say that you "love" me?
 「うん。君のことが好きって告白した」=Yeah. I just confessed my love for you.
 「あっ……あの、その……こういう時、どうお答えすればいいか……経験がなく……」=Ah--... Uhm, That is... I don't know how... I'm supposed to reply to this sort of thing...

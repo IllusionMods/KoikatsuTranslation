@@ -1,12 +1,18 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+乙梨さん=Otonashi-san
 「はい。お二人とも、本当にありがとうございました」=Yes. Thank you so much, both of you.
 乙梨さんのトラウマを解消したことは、すぐ学園中に知れ渡った。=The fact that Otonashi-san's trauma had been resolved soon became known throughout the school.
 それによって、一時的なブームが巻き起こり、乙梨さんのような男を苦手とする女子生徒が部室に押しかけてくるという事件が勃発した。=This caused a temporary boom, and it would often happen that female students who were like Otonashi-san would come to the club room.
 幸いだったのは、押しかけてきた生徒に乙梨さんほど重症な子がいなかったこと。=Fortunately, none of the other students were as badly affected as Otonashi-san.
 水瀬さんが外で整列をしてくれている中、俺は部室でカウンセラーのようなことをしていた。=While Minase-san was lining people up outside, I was in the club room doing some kind of counselling.
+女子生徒１=Schoolgirl 1
 「ありがとうございました。勇気を出してよかったです」=Thank you very much. I'm glad I mustered up the courage to come here.
 「こっちこそ協力できてよかったよ」=I'm glad we could help.
 最後のひとりが部室を出て行き、うーんと背筋を伸ばす。=As the last person left the club room, I stretched my back.
 気付けば閉校時間が近くなっていた。=I noticed that it was getting close to closing time for the school.
+亜依=Ai
 「お疲れ様！　お茶買ってきたよ！」=Good work! I brought you some tea!
 部室に入ってきた水瀬さんは冷たいペットボトルを手渡してくれた。=Minase-san came into the club room and handed me a cold plastic bottle.
 「ありがと。あと、ごめんね。水泳部に出たかったんじゃない？」=Thank you. And, I'm sorry. I thought you were supposed to be training with the swimming club?
@@ -15,6 +21,7 @@
 「学園のプールが水の入れ替えで使えないときにたまに使うの。広くて泳ぎやすいんだよ」=I go there sometimes when the school's pool is having the water changed. It's big and easy to swim in.
 「俺も行ってみようかなぁ」=Maybe I should go with you.
 プールの話題に食いつきつつ、頭の中では『部長がむしろ手伝った方がいいと言っていた』ことの方を気にしていた。=While I was asking about the pool, in my mind that the president said "she wants her to help me out" was more concerning.
+水泳部部長=Swimming Club President
 「そこで、私はキミにお願いしたいの。あの子に恋心を教えてあげて」=So, I want to ask you a favour. Teach that girl how to love.
 （そういえば、乙梨さんや他の子にかまけて、部長さんのお願いを忘れてた）=(Come to think of it, I was so busy with Otonashi-san and the other girls that I forgot the president had asked for my help)
 いや、忘れていたわけじゃない。=No, I hadn't forgotten.
@@ -43,6 +50,7 @@
 「俺とコイカツをしよう、マネージャーとかじゃなくて」=Come and do Koikatsu with me, not just as a manager or something.
 「自分が異性にどう魅力的に思われてるか自覚することも、コイカツ部で学べると思うし、教えたいな」=I feel like you could learn to be aware of just how appealing you are to the opposite sex in the Koikatsu club, and I'd be happy to help teach you that.
 「でも……私は……」=But... I'm...
+？？？=???
 「もういいわ。コイカツ部長くん」=That will do, Mr Koikatsu club captain.
 「え？」=Eh?
 「亜依、据え膳食わぬは女の恥よ」=Ai, it's a shame for a woman not to grab such an opportunity.
@@ -63,6 +71,7 @@
 「チュッ……ちゅうっ、ちゅっ……」=*Chu*... *chuuu, chuu*...
 「！？！？！？」=!?!?!?
 「ぷは……私はこの子を彼氏にするわ」=Puha... I'll take this boy as my boyfriend.
+亜依＆[P名]=Ai & [P名]
 「な、なんでですか！？」=W-what was that!?
 「だって、こんなに優しい男の子初めて見たんだもの。こんな子にコイカツしようなんて言われて断るなんて、考えられないわ」=Because, I've never seen such a kind boy before. I couldn't imagine ever turning down his invitation to Koikatsu.
 「……」=“...”
@@ -102,10 +111,3 @@
 「でも、恋人は文字通り、できれば人間がいいわ。等身大だもの……だから、亜依のことはよろしくね、人間の男の子」=I don't mean that literally, since it would be nice to have a human boyfriend. They're more real... so, take care of Ai, human boy.
 「は、はい」=Y-yes.
 この人はなんというか、宇宙だな……存在が。=This girl is in a whole different world... all of her own.
-
-乙梨さん=Otonashi-san
-女子生徒１=Schoolgirl 1
-亜依=Ai
-水泳部部長=Swimming Club President
-？？？=???
-亜依＆[P名]=Ai & [P名]

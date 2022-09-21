@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 どうすればいいですか？=How should I do it?
 頑張って気持ち良くします=I'll do my best to make you feel good.
 たくさんしてあげますね=I'll do lots for you.

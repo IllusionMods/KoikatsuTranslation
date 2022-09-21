@@ -1,4 +1,6 @@
-
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
 「率直に言うわ……私たち、別れましょ」=“I'll be straight... let's break up.”
 「えっ、何で突然……俺のこと嫌いになった？」=“Eh--, why so suddenly... Have you come to hate me?”
 「ううん……私があんたに理想を見すぎてたんだと思う。やっぱり漫画みたいに幸せにはいかないのね……」=“No... I think I just placed a relationship with you on too much of a pedestal. Real life really is nothing like manga fantasies, is it...”

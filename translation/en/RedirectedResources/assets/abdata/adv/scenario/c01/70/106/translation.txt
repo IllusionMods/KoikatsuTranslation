@@ -1,0 +1,38 @@
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「思い出の夜景……ですね」=“The precious nightscape, of our memories... isn't it?”
+「そうだね」=“Yeah.”
+「あの日から家族仲は良好ですよ」=“Things have been good in my family since that day.”
+「あはは、それはよかった」=“Ahaha, glad to hear that.”
+「その代わり、父はあなたに挨拶させろと言うようになってしまいましたが……まだ、早いですよね？」=“But instead, my father has been asking me to let him meet you ever since... it's still too early, isn't it?”
+「そ、そうだね、もう少し経ってからにしようね」=“Y-Yeah, let's wait a little bit longer.”
+「あ、申し訳ありません。父の話なんてしたら、緊張してしまいますよね……」=“Ah, I'm sorry. Me talking about my father, just makes you nervous, doesn't it...”
+「あはは……ちょっとね」=“Ahaha... a little bit.”
+「今は私とあなただけの時間ですから……二人でしか出来ないことをいたしましょう」=“Right now, it's our private time so... let's do something only we can do together.”
+「二人でしか出来ないことって……？」=“Only we can do together...?”
+「ご想像にお任せいたします」=“I shall leave it up to your imagination.”
+CHOICE:『[H名]とエッチしたいな』=I'd love to have sex with you.
+CHOICE:『夜景を見ながらキスしたい』=I wanna kiss while watching the nightscape.
+「……[H名]とエッチ、したいな……いい？」=“...I wanna, have sex with you... could we?”
+「はい、もちろんです」=“Yes, of course.”
+「今、すごく興奮してるから、ちょっと乱暴になっちゃうかもだけど……」=“I am really horny right now though, so I might get a little bit rough...”
+「構いません。私を気にして我慢してるあなたを受け入れても、何の意味もありませんから」=“I don't mind. There would be no point in it, if I took you in while you were holding back for my sake.”
+「でも……できれば、キスからしてもらってもいいですか？」=“But... if you could, could you kiss me first?”
+「うん、もちろん……」=“Yeah, of course...”
+「んっ……んん……ちゅっ……」=“Nn--... nn... *kiss*...”
+（舌、入れても大丈夫かな）=(Would she mind, if I put my tongue in?)
+「ん……んっ？　ん、ちゅ、ちゅるっ……ちゅぷっ、んん……」=“Nn... nnn--? Nn, *kiss*, *shlurp*... *suck*, nnn...”
+「んん……ちゅうっ……」=“Nn... *kiss*...”
+「んっ……ちゅぷっ、ぴちゃっ、れちゅ……ぴちゅ……ん……」=“Nn--... *shlup*, *suck*, kiss*... *suck*... nn...”
+「はぁぁ……こんなキスをされてしまったら、腰が砕けてしまいます……」=“Haah... if you kiss me like this, my knees will give in...”
+（うう、可愛いな。もう我慢できない……！）=(Uuu, she's too cute. Can't hold it in anymore...!)
+「[H名]……こっちに来て」=“[H]... come here.”
+「キスして、夜景を見てたいな……」=“I want to kiss you, and enjoy this view...”
+「あなたの理想を叶える準備はできてます……でも、できれば、あなたからしていただけると、嬉しいです」=“I'm ready to make whatever dreams you have come true... but, if possible, I'd appreciate it, if you could be the one to do it.”
+「うん……ん……」=“Sure... nnn...”
+「ん……んん……」=“Nn... Nnn...”
+「…………」=“......”
+「……はぁ。素敵な時間ですね」=“...Haah. What a lovely evening.”
+「うん。幸せだよ」=“Yeah, I'm really happy right now.”
+「……もうしばらく、このまま夜景を見ていようね」=“...Let's stay here and enjoy the view a bit longer, okay?”

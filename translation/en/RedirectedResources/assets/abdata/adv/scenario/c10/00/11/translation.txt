@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「私たち……別れようか」=“Let's... split up.”
 「えぇ！？　どういうこと！？」=“Eeeh!? Why though!?”
 「……一緒にいると疲れるの」=“...Being with you tires me out.”

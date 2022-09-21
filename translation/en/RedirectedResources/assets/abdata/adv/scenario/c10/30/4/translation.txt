@@ -1,4 +1,6 @@
-
-//「い、一緒に勉強、だと？　……いいぞ、共に呪文を覚えようぞ！」=
-//「呪文！？　そ、そういうのじゃなくて、授業で出た課題とかをやろうよ」=
-//「うぅ……仕方あるまい、今日のところは汝に合わせてやろう」=
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「い、一緒に勉強、だと？　……いいぞ、共に呪文を覚えようぞ！」=“S-Study, together? ...Sure, let us study incantations together!”
+「呪文！？　そ、そういうのじゃなくて、授業で出た課題とかをやろうよ」=“Incantations!? F-Forget that stuff for a second, let's do the assignments they gave us, okay?”
+「うぅ……仕方あるまい、今日のところは汝に合わせてやろう」=“Uuu... it cannot be helped, I shall go along with thee for today.”

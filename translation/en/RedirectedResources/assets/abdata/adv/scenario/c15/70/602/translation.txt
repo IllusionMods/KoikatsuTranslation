@@ -1,0 +1,9 @@
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「じゃあ、そろそろ……するぞ」=“Well then, let's... do it.”
+「あはは、やっぱり、[H名]もしたかったんだね」=“Ahaha, you wanted to do it too, huh?”
+「むぅ……キミは、あたしとしたくないのかー？」=“Muu... do you not wanna do it with me?”
+「えっ、いやいや、もちろん俺もしたいよ！　からかっちゃってごめんね」=“Eh--, no, of course, I wanna do it too! Sorry for poking fun at you there.”
+「ううん、あたしはただ、キミの気持ちを確かめたかっただけだぞっ。さあ、やるぞ！」=“No, I was just, I just wanted to confirm that you felt the same way--. Now then, let's do it!”
+「うんっ……！」=“Yeah--...!”

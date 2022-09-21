@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「あら、ありがとう。私も好きよ」=“My, thank you. I love you very much too.”
 「えっと、その好きじゃなくて……俺が言ってるのは、ＬＯＶＥの方の好きなんだけど……」=“Erhm, I don't mean that sort of "love"... I mean the romantic sort, the "I love you" sort of "I love you"...”
 「えっ……！　……あら……やだ、まぁ……そんな……急に……ど、どうしましょう……」=“Eh--...! ...My... gosh, I... that's so... sudden... w-what to do...”

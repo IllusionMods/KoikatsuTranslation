@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「うーん、食べた食べた。次は何に乗る？」=“Mmm, I'm stuffed. What're we gonna ride next?”
 「食後だし、ゆったり出来るものがいいわ」=“We just ate so, something nice and relaxing would be nice.”
 「コーヒーカップとか？」=“How about the coffee cup?”

@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「ふぅ……エッチな発声練習、しちゃったわね～」=“Fuu... that was some lewd vocal training~”
 「歌声はもちろんだけど、あっちの声も素敵だったよ」=“Your singing voice is of course lovely, but your moaning voice is also wonderful.”
 「ん～……、あの声を褒められて、喜んでいいのかしら？」=“Nnn~... Should I really be happy, about that sort of a compliment~?”

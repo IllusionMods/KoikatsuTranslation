@@ -1,4 +1,6 @@
-
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
 「すぅ……すぅ…………ん、んん……」="Yeah... yeah... Nnnn...."
 （んぅ……すごく気持ちいいような……いったい、何が……？）="(Nnn... It feels so good... what's going on?)"
 「…………」=“......”

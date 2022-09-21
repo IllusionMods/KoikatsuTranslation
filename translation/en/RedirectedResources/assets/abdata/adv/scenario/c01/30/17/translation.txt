@@ -1,4 +1,6 @@
-
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
 「んーっ、よく寝た。……あれ？　メモがある。なになに――」=“Nnn--, I slept well. ...Huh? There's a note. Let's see---”
 『おはようございます。すみません、一度家に寄らなければいけないので、先に出ますね』=「Good morning. I'm sorry, I need to go back to my home for a bit, so I shall leave first.」
 『本当は朝食を作っておきたかったのですが、時間がなくて……』=「I actually really wanted to make you some breakfast, but I didn't have the time...」

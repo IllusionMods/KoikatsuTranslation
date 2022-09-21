@@ -1,11 +1,13 @@
-﻿………………=.........
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+………………=.........
 …………=......
 ……=...
 「あ、アタシの家こっちだ。[P]くんとは反対だから、ここでお別れだね」=Ah, my house is this way. It's the opposite side from yours, so guess we're parting here.
+CHOICE:「ねぇ、このあともしよかったら……家に来ない？」=Hey, if you'd like... wanna come to my place?
+CHOICE:「そうだね、今日はありがとう。それじゃあまた！」=Seems like it. Thanks for today. Well then, see ya!
 「ねぇ、このあともしよかったら……家に来ない？」=Hey, if you'd like... wanna come to my place?
 「これから？　いいよ。アタシもちょーど、一緒にいたいと思ってたんだ」=Now? Alright. I was just thinking that I wanted to spend a bit more time with you myself.
 「そうだね、今日はありがとう。それじゃあまた！」=Seems like it. Thanks for today. Well then, see ya!
 「うん、それじゃあまたね」=Yeah, see ya later.
-
-CHOICE:「ねぇ、このあともしよかったら……家に来ない？」=Hey, if you'd like... wanna come to my place?
-CHOICE:「そうだね、今日はありがとう。それじゃあまた！」=Seems like it. Thanks for today. Well then, see ya!

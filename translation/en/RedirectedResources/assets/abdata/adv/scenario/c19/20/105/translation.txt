@@ -1,4 +1,7 @@
-﻿「わぁ……こんな夜景……。初めてみた……」=Waah... it's my first time... seeing such a sight...
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「わぁ……こんな夜景……。初めてみた……」=Waah... it's my first time... seeing such a sight...
 「どうかな、気に入ってくれた？」=How is it, you like it?
 「うん、こんな景色を見られる場所がこんなところにあったなんて……知らなかった」=Yes, I never knew... that there was such a place here, where you could see such a sight from.
 「もし小説に夜景の描写が出てきたら、絶対にこの景色を思い出す」=If I ever read about a nightscape depicted in a novel again, I'll definitely think of this view.

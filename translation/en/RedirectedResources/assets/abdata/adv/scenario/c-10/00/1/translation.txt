@@ -1,4 +1,8 @@
-﻿（さて、今日はどうしようかな）=(Well, what should I do today?)
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+（さて、今日はどうしようかな）=(Well, what should I do today?)
+亜依=Ai
 「それじゃ、またね～」=See you later.
 「うん、またね！　……あ、ちょっと待って！」=Yeah, see you later! ...Oh, wait a minute!
 「ん？　どうしたの？」=Hm? What's up?
@@ -31,6 +35,7 @@
 「そんなことないよ。私なんてタイムがいいわけじゃないし、リーダーシップもないし、もうないないづくし」=That's not true. I don't enjoy myself, I don't have any leadership skills, I don't have anything.
 水瀬さんは冗談めかすように舌をべ～っと出す。=Minase-san sticks her tongue out in a joking manner.
 「というわけで、私もぼちぼち水泳部行くね。そろそろ着替えないと始まっちゃうから」=Even so, I better get going to the club meet soon. I have to get changed or they'll start without me.
+水泳部部長=Swimming Club President
 「まだ始まらないわよ。私がここにいるんだから」=They haven't started yet. They're waiting for me.
 急に声が聞こえてきたかと思ったら、そこには知らない上級生が立っていた。=Suddenly I heard a voice, and a senior student I didn't know was standing there.
 「へ？　あっ、部長！」=What? Oh, President!
@@ -153,6 +158,3 @@
 「次期部長たる者、部活をサボるべからず！」=As the next president, you must never skip a club activity!
 「もう！　人のこと言えないじゃないですか、あと次期部長じゃないです……きゃあっ！」=Ohh! You're one to talk, and I'm not the next president... Yikes!
 容赦なく水鉄砲に撃たれてちょっと楽しそうな水瀬さんを見ながら、俺はどうすれば水瀬さんに自信を持ってもらえるかを考えていた。=As I watched her being mercilessly shot by the water pistol, I was thinking about how I could make her feel more confident.
-
-亜依=Ai
-水泳部部長=Swimming Club President

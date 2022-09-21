@@ -1,1 +1,4 @@
-﻿「[P]、おはよーう。今日も楽しくいこう！　肩組んじゃうぜ！」=[P], morning. Let's have fun today too! Put your arm my shoulder!
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「[P]、おはよーう。今日も楽しくいこう！　肩組んじゃうぜ！」=[P], morning. Let's have fun today too! Put your arm my shoulder!

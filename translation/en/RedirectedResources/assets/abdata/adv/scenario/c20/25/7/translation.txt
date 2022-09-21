@@ -1,4 +1,7 @@
-﻿「…………え、え！？　あの、それは、ほ、本気で言っているんですか……！？」=...E-Eh!? Uhm, are you, b-being serious...!?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「…………え、え！？　あの、それは、ほ、本気で言っているんですか……！？」=...E-Eh!? Uhm, are you, b-being serious...!?
 「うん。本気だよ」=Yes. Very.
 「……う、嬉しいです。私、あなたのことが好きなので」=...I-I'm so happy. I really love you, afterall.
 「それじゃあ……俺と付き合ってくれる？」=Well then... will you go out with me?

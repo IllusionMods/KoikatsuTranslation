@@ -1,5 +1,7 @@
-
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
 ………………=.........
 …………=......
 ……=...
-//「おつかれさんっ。次なにするか考えとけよー？　楽しみにしてるからなっ！」=
+「おつかれさんっ。次なにするか考えとけよー？　楽しみにしてるからなっ！」=“Good job, today--. Plan something for us to do next time, okay?~ I'll be waiting--!”

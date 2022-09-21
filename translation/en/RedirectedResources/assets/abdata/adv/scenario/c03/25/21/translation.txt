@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「おはですー。ね、昨日の宿題ってやってきたですか？」=“Morning~. Hey, have you done the assignment from yesterday?”
 「宿題……そんなものあったっけ？」=“Assignment... we had one?”
 「わぁぁ、まさかのど忘れですかっ！？」=“Waah, did you really forget!?”

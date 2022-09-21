@@ -1,1 +1,4 @@
-﻿「ふふん……どうした？　もっと見たいのか……？」=Fufun~... What's up? You wanna get a better look...?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「ふふん……どうした？　もっと見たいのか……？」=Fufun~... What's up? You wanna get a better look...?

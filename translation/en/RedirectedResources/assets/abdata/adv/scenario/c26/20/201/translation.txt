@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「遊園地は夢の場所ってよく言われるけど、今日は人がいすぎて現実を忘れられないな」=“People often say that the amusement park is the land of dreams but, there's so many people here today, we're gonna have to keep ourselves grounded in reality, huh?”
 「……そう思う。どこ見ても、行列ばかり」=“...Yeah. Lines, no matter where you look.”
 「しょうがないって割り切るしかないか。人気アトラクションはみんな乗りたいからさ」=“Nothing but to accept it, I guess. Everyone wants to ride the popular attractions, afterall.”

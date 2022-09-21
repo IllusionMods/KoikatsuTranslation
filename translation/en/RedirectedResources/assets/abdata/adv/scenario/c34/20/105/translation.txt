@@ -1,4 +1,7 @@
-﻿「Ｗｏｗ……Ｉ……Ｉ’ｍ　ｓｐｅｅｃｈｌｅｓｓ……」=Wow... I... I'm speechless...
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「Ｗｏｗ……Ｉ……Ｉ’ｍ　ｓｐｅｅｃｈｌｅｓｓ……」=Wow... I... I'm speechless...
 「スピーチ、レス？」=Speech, less?
 「ア……エット……キレイすぎて……なんて表現したらイイカ、ワカラナイカラ……♡」=Ah... Erm... It's just too pretty... I don't know what sort of expression would fit here...♡
 「ああ、だからスピーチレスなんだ。英語にもそういう表現があるんだね」=Aah, that's why you were "speechless". English has those sorts of expressions too, huh?

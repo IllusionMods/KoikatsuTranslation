@@ -1,1 +1,4 @@
-﻿「期待以上だわ……感動しちゃった。ありがとう！　お返しを楽しみにしててね」=This is way better than I expected... I'm actually moved. Thanks! Look forward to the return gift, okay?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「期待以上だわ……感動しちゃった。ありがとう！　お返しを楽しみにしててね」=This is way better than I expected... I'm actually moved. Thanks! Look forward to the return gift, okay?

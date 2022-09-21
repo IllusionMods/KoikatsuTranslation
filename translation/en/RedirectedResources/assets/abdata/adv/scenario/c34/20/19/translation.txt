@@ -1,1 +1,4 @@
-﻿「Ｈｉ　ｆｒｉｅｎｄ♪　朝から会えて、トテモｈａｐｐｙデース♡」=Hi, friend♪ I'm really happy that I got to see you so early in the day♡
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「Ｈｉ　ｆｒｉｅｎｄ♪　朝から会えて、トテモｈａｐｐｙデース♡」=Hi, friend♪ I'm really happy that I got to see you so early in the day♡

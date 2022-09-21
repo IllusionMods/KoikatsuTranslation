@@ -1,4 +1,7 @@
-﻿「……うん、いいよ」=...Yeah, okay.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「……うん、いいよ」=...Yeah, okay.
 「……本当に、大丈夫？」=...You're really, okay with it?
 「心配してくれるの？　ふふっ、ありがとう」=Are you worried about me? Fufu--, thank you.
 「でもあなたになら、本当の私を全部見せられる気がするの。だから……抱いて」=But I feel like you're the one person, I can show my true self to. So please... embrace me.

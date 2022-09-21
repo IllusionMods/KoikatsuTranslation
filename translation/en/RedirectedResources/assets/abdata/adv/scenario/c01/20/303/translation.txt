@@ -1,4 +1,9 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「そろそろ刻限が近づいてきましたね」=“The time for us to leave is almost at hand.”
+CHOICE:『延長する』=Extend
+CHOICE:『延長しない』=Don't extend
 「[H名]、時間ある？　出来れば、延長したいんだけど……」=“[H], do you have time? I'd love to extend it, if we can...”
 「はい。私も喉の調子が整ってきたところでしたから、よろしくお願いします」=“Yes. My throat has just finished warming up as well, so please.”
 「ありがとう！　じゃあ、延長の電話しちゃうね」=“Thanks! I'll put in the call then.”
@@ -10,6 +15,3 @@
 （お、『青空アドベンチャー』だ。初めの方に覚えた曲みたいだし、お気に入りなんだろうな）=(Ooh, it's「Blue Sky Adventure」again. Seems like it's the first song she learned, she probably likes it a lot.)
 『小さな手の平 掴める物は きっと限られているけど～♪』=『This small hand, the things it can grasp, they are surely limited, but~』
 「いぇいぇい！」=“Yeah yeah!”
-
-CHOICE:『延長する』=Extend
-CHOICE:『延長しない』=Don't extend

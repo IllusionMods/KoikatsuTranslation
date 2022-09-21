@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「ふぁ～、凄い綺麗だぞ！　おまえもちゃんと見えてるか？」=“Fuah~, it's super pretty! Are you seeing this?”
 「うん、見えてるよ。[H名]の隣で、バッチリね」=“Yeah, don't worry. I'm getting a real good look, right next to you.”
 「あぁそうだった。隣にいるんだから、見えない筈ないよな。はは、ちょっとはしゃぎ過ぎた」=“Aah, right. You're right next to me, so of course you can see it. Hahah, I'm getting too excited.”

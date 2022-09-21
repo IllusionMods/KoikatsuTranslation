@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 ………………=.........
 …………=......
 ……=...
@@ -6,6 +9,9 @@
 「ははは、大丈夫だよ。俺は立派な男だからね、何も心配ないさ」=“Hahaha, don't worry. I'm a big boy, I can take care of myself.”
 「そうね……でも最近は男の子でも安心できない世の中よ。何があるかわからないもの」=“You're right... but even boys need to be careful these days. You never know what's going to happen.”
 「もう心配性だね……」=“You're such a worrywart...”
+CHOICE:『自宅に誘う』=Take to your place
+CHOICE:『ラブホに誘う』=Take to love hotel
+CHOICE:『心配いらないと念押しする』=Remind her that she doesn't need to worry.
 「そんなに心配なら、家まで送ってよ」=“If you're that worried, walk me home.”
 「あら、私が？　あなたを？」=“Oh my, me? Walk you home?”
 「うん、だったら心配ないでしょ？　どうかな？」=“Yeah, then you won't be worried, no? How about it?”
@@ -24,7 +30,3 @@
 「ははは、じゃあ、またね！」=“Hahaha, well then, see ya!”
 「ええ、また学園でね！　ちゃんと宿題するのよ！　お風呂は肩までつかるのよ！　お布団かぶってネンネするのよー！」=“Yes, see you at school! You have to do your homework! Also, remember to get all the way into the bathtub! Don't forget your quilt when going to bed!”
 （流石にここまで言われるのは、ちょっと恥ずかしい……）=(Being coddled this much really is a bit embarrassing...)
-
-CHOICE:『自宅に誘う』=Take to your place
-CHOICE:『ラブホに誘う』=Take to love hotel
-CHOICE:『心配いらないと念押しする』=Remind her that she doesn't need to worry.

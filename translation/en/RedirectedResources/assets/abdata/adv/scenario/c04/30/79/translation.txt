@@ -1,3 +1,6 @@
-﻿「……ふふっ」=...Fufu--
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「……ふふっ」=...Fufu--
 「ど、どうしたの。ジッと人の食べるところを見て……」=W-What's up? You're kinda staring...
 「ああ、ごめんね。男の子の食べるところって、やっぱ可愛いなって……ふふっ、変よね」=Aah, I'm sorry. I was just thinking about how boys just look so cute when they're eating... fufu--, I sound like a weirdo, don't I?

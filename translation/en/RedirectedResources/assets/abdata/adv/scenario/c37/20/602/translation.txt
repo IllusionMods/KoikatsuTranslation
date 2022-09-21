@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「では、早速シましょうか」=Well then, let's get on with it quickly.
 「えっと、その前にシャワーは……」=Erhm, before that, let me take a shower...
 「要りません。あなたの匂いを嗅がせて下さい。そして、私の匂いを嗅いで下さい」=Not needed. Please let me smell your scent. And please smell my scent as well.

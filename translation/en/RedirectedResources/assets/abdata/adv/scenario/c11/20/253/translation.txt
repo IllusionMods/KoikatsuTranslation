@@ -1,7 +1,12 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「おっと……なんだか混んできたね」=“Woah... it's getting pretty packed, huh?”
 「あらあら、まぁ……ほら、もっとこっちに寄っていいのよ。ちょっとぐらいくっついても気にしないわ」=“Dearie me... c'mon, you can come closer to me. I don't mind if you snuggle up to me a bit either.”
 「うん、ありがとう……じゃあ、お言葉に甘えて……」=“Okay, thanks... I'll take you up on that then...”
 （っ……さ、さすがに寄りすぎた！　身体が完全に[H名]と密着してる……）=(--... T-That really is way too close! I'm completely glued to her...)
+CHOICE:『そのままでいる』=Stay like that.
+CHOICE:『少しスペースを空ける』=Make some space.
 （で、でも……くっついていいって言ってくれたから……このままでいても……）=(B-But... She did say that she doesn't mind if I snuggle up to her a bit so... she shouldn't mind, even if I stay like this...)
 「……あら？　うふふ、おちんぽちゃんが元気になってるわよ？」=“...Oh? Ufufu, your dick's getting all lively, you know?”
 「ごめん……[H名]と密着してたら、身体が勝手に……」=“Sorry... my body's reacting on its own, from being glued to you like this...”
@@ -10,6 +15,3 @@
 （少しスペースをあけよう……このままじゃ勃ちそうだし……）=(...Let's make some space, wouldn't want to pop a chub...)
 （って、もう余裕がない！　どんだけギュウギュウなんだこの車内……！）=(Wuh, people already pushed in behind me! Just how stuffed is this train car...!)
 （うぅ、[H名]と密着したまま勃たせずにいるなんて芸当、俺に出来るだろうか……？）=(Uuu, can I really manage to hold on, without popping a chub, while being glued to her like this...?)
-
-CHOICE:『そのままでいる』=Stay like that.
-CHOICE:『少しスペースを空ける』=Make some space.

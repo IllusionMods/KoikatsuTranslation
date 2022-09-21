@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「あ、初めまして！　よろしく」=“Ah, hello! Nice to meet you.”
 「きゃっ……お、男の子……えっと……よ、よろしく」=“Kyah--... A-A boy... erhm... nice to meet you too.”
 「ごめん、驚かせて。ちょっと話がしたくて声をかけたんだけど……あっ、俺は[P名前]って言うんだ」=“Sorry, I surprised you there, didn't I? I wanted to chat with you a bit, that's why I called out... ah--, I go by [P名前].”

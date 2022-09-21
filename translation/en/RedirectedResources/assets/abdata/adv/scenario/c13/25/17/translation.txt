@@ -1,4 +1,7 @@
-﻿「んーっ、よく寝た。……あれ？　メモがある。なになに――」=Nnnnn, I slept well. ...Huh? There's a note. Let's see--
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「んーっ、よく寝た。……あれ？　メモがある。なになに――」=Nnnnn, I slept well. ...Huh? There's a note. Let's see--
 『[P]くん、おはよ～。今日、日直だから先に学園行くね～』=『Mornin', [P]-kun~. I've got day duty today so I'll be leaving first, okay?~』
 『朝ご飯食べたらちゃんときてよ？　遅刻とかマジありえないから！』=『Have breakfast and hurry along to school, okay? I can't have you being late!』
 『早くアタシに会いに来てくれないと嫌いになっちゃうからね？』=『If you don't come see me as soon as you can, then I'll be super upset, okay?』

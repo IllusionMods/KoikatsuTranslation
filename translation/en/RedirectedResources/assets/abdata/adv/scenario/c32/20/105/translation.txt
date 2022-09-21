@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「これは……素晴らしい景色ですね……。連れてきてもらえて嬉しく思います」=This is... a wonderful sight... I'm so happy you brought me here with you.
 「でしょ？　これを見てほしかったんだ」=I know, right? I wanted to show you this.
 「いつも住んでる街が、こんなに綺麗だなんて、思ってもみませんでした。ずーっと見ていたい気持ちです」=I never thought that the city we live in, could be so pretty. I feel like looking at this forever.

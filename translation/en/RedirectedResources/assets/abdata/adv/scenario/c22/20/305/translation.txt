@@ -1,4 +1,7 @@
-﻿「はぁぁ、楽しいー！　まだまだ歌えるなんて夢みたいだよー！」=Haah, so fun~! Being able to sing so much, it's like a dream~!
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「はぁぁ、楽しいー！　まだまだ歌えるなんて夢みたいだよー！」=Haah, so fun~! Being able to sing so much, it's like a dream~!
 「俺もすっごく楽しい！　時間が許す限り、延長したい気分」=I'm having a blast too! Almost to the point that I wanna extend our slot all the way till the evening.
 「私も！　歌うのも楽しいけど……君と二人きりっていうのが何よりも楽しいの。二人きりで大きな声が出せるなんて……えへへ、幸せ」=Me too! Singing is fun too but... getting to be alone together with you like this, is the most fun of all. Being able to sing loudly like this, just with you... ehehe, it's bliss.
 「あはは、俺も同じこと考えてた。普通だったら話せないようなことも、この中じゃ話せそうだよね」=Ahaha, I was thinking the same thing. In a place like this, you could discuss anything, even stuff you couldn't normally.

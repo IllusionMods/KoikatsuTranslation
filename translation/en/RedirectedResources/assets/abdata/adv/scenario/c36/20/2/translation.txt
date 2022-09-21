@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「喜びなさい、貴方の名前、憶えてあげたわ」="Rejoice, I memorised your name."
 「えっ、それって……呼んでくれるって事？」="Umm, does that mean... You'll call me..."
 「いいえ、ただの家畜から、名前のある豚になっただけよ。それだけでも十分なご褒美でしょう？」="Nope. You're a livestock, so you just became a pig with a name. That alone is enough of a reward for you, isn't it?"

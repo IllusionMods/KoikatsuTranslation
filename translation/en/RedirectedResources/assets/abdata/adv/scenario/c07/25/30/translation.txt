@@ -1,1 +1,4 @@
-﻿「こんないいもんをくれるのか？　ありがとう！」=You really gonna give me something this nice? Thanks!
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「こんないいもんをくれるのか？　ありがとう！」=You really gonna give me something this nice? Thanks!

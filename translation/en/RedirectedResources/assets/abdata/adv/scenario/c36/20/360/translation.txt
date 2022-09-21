@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「ほら、もうすぐ退室時間よ。手早く掃除しなさい」="Hey, it's almost time to exit the room. Make a quick cleanup."
 「わぁ、ホントだ！　あと３分も無いよ！　[H名]さんも手伝って！」="Waah, it's true! We have 3 minutes left! Miss [H名], help me too!"
 「は？　嫌よ。無駄に口を開く暇があるなら、匂いとかにも気を付けなさい。結構わかるものよ？」="Huh? No. If you have time to open your mouth, take care of the smell too, got it?"

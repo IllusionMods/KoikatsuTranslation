@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「まずは何からしようか？」=What should we start with first?
 「んー、とりあえず周って、面白そうなのがあったら乗ろうよ」=Nnn, well for now, let's ride on anything we come across that looks fun.
 「了解！　よし、さっそく出発だ」=Got it! Well then, let's set off.

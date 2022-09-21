@@ -1,3 +1,4 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 //「コイカツ部の活動というのは、教師も対象に……いいえ、なんでもないわ」=
-
-麗奈=Reina

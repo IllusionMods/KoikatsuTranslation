@@ -1,7 +1,12 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「ふぅ……デュエットだと休む時間がないから、さすがに疲れてきたな」=“Fuu... there's not really any time to relax between duets, so even I'm starting to get knackered here.”
 「そうかー？　それほどでもないけどなー」=“That so? It wasn't that bad.”
 「あはは、元気だね。だけど、俺はそろそろ休憩したいかな……」=“Ahaha, you're just a bottle of energy. But, I'd love a break right about now...”
 「うーん……キミが歌わないなら、あたしはもういいかな」=“Mmm... if you're not gonna sing then, I think I'm good too.”
+CHOICE:『休憩中は一人で歌ってていいよ』=You can take the time to sing by yourself, you know?
+CHOICE:『出ようか』=Let's head out.
 「俺が休憩してる間は、[H名]が一人で歌っててもいいんだよ？」=“You can take the time to sing by yourself, you know? You don't need to worry about me.”
 「んー、でも二人でじゃなきゃつまらないぞ」=“Nnn, but it's boring if you're not singing with me.”
 「そっか……でもまだ時間あるしな。他に何か二人でできること……カラオケで…………あっ」=“I see... but, we do have lots of time still. Let's see, something we could do together... at karaoke... ah--.”
@@ -16,5 +21,3 @@
 「あちゃー……はやくケアしないと酷いことになりそうだ」=“Darn... gotta take care of it asap, else I'm gonna go through hell tomorrow.”
 「のど飴なら持ってるぞ。はい」=“I've got some strepsils if you want. Here.”
 「ありがとう。それじゃあ会計してくるよ」=“Thanks. Well then, I'll go settle the bill.”
-CHOICE:『休憩中は一人で歌ってていいよ』=You can take the time to sing by yourself, you know?
-CHOICE:『出ようか』=Let's head out.

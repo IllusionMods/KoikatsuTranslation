@@ -1,4 +1,7 @@
-﻿「いやー、いつ来てもいい景色だなー！」=Man, no matter how many times we come here, this view always looks just as good!
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「いやー、いつ来てもいい景色だなー！」=Man, no matter how many times we come here, this view always looks just as good!
 「ホント、何度見ても飽きる気がしない」=For real, it never gets old.
 「こうして並んで夜景を見てると、いかにも恋人って感じがして、いいよな」=Man, just looking at this sky together, side by side, really sets in that we're a couple. It's really nice, don't you think?
 「そうだね。なんなら、もっと恋人らしくしようか？」=Yeah, it's nice. If you're up for it, wanna get even more lovey-dovey?
@@ -14,6 +17,8 @@
 「ほら、[H名]も」=Come on, you too.
 「えっ……私も？　じゃあ……愛してるよ」=Eh--... me too? Then... I love you.
 「ふふ、ありがとう」=Fufu, thanks.
+CHOICE:『エッチしたくなってきたんだけど……』=『I've suddenly started feeling horny...』
+CHOICE:『またここに来ようね、二人で』=『Let's come here together again, sometime.』
 「ところでさ、エッチしたくなってきちゃったんだけど……」=By the way, I've suddenly started feeling horny so...
 「うおい！　直接的すぎるぞ！　完璧なムードが台無しじゃねーか！」=Woah! That's way too direct! You've went and ruined that perfect mood you had going there!
 「こう、盛り上がってきちゃって」=Well, I can't help it, I'm getting into it.
@@ -34,6 +39,3 @@
 「そんなカツアゲみたいな言い方……」=Man, you sound like you're shaking me down for lunch money...
 「うるさい！　がっちりしっかり腕組むぞ。恋人だもんな！」=Shaddup! I'm gonna grab your arm real tight. We're a couple, afterall!
 「へへっ、離してやんねーからな！」=Hehe--, I ain't letting you go!
-
-CHOICE:『エッチしたくなってきたんだけど……』=『I've suddenly started feeling horny...』
-CHOICE:『またここに来ようね、二人で』=『Let's come here together again, sometime.』

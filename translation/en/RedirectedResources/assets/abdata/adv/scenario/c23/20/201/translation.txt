@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「デートといえば遊園地！」=“Can't beat an amusement park as far as dates go!”
 「ラブコメの王道だね」=“It's a staple of romantic comedies.”
 「さて、何から乗ろうか」=“Now then, what should we start with?”

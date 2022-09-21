@@ -1,4 +1,7 @@
-﻿「ワタシたち……もうｃｏｕｐｌｅじゃない方が、イイ思うヨ」=I think it would be better... if we weren't a couple anymore.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「ワタシたち……もうｃｏｕｐｌｅじゃない方が、イイ思うヨ」=I think it would be better... if we weren't a couple anymore.
 「え……どうしたの？」=Eh... what's the matter?
 「ドウシタノ？　ワタシたち、うまく行ってないヨネ。Ｈａｒｄ　ｔｏ　ｕｎｄｅｒｓｔａｎｄ……アナタのコト、分からないカラ」="What's the matter"? It's that it's not working out between us. It's hard for me to... understand you.
 「それって……ちょっと待って」=That... please, just wait.

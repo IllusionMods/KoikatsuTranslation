@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「芝生広いね～。シート持ってきてるし、ここで少し休憩しよっか」=So much grass~. We did bring a sheet so, want to take a short break here?
 「いいですね。少し歩き疲れました。ふぅ……」=Sounds great. I was just a bit tired out from walking. Fuu...
 「今日は気持ちのいい天気だね」=Great weather out today, isn't it?

@@ -1,4 +1,6 @@
-
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
 「んーっ、よく寝た。……あれ？　メモがある。なになに――」=“Mmm, I slept well. ...Oh? There's a letter. What's it say...?”
 //『おはよ♪　今日は日直だから先に行くね』=
 //『朝ご飯はちゃんと食べて、遅刻は絶対ダメだよ！　それじゃまた学園で』=

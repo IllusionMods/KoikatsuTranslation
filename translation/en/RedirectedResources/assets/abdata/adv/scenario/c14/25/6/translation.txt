@@ -1,3 +1,6 @@
-﻿「どこ連れて行く気だよ」=And just where are you planning on dragging me anyway?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「どこ連れて行く気だよ」=And just where are you planning on dragging me anyway?
 「ごめん、それはまだ秘密」=Sorry, that's still a secret.
 「秘密って……まぁ、いいか。ただ一つだけ言っとくけど、変なことしようとしたら絞めるからな」=A secret... well, fine, I guess. But, just a word of warning. Do anything weird and I'll strangle you.

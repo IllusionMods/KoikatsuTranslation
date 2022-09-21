@@ -1,4 +1,7 @@
-﻿（今出ていった女の子の服、さっきも思ったけど可愛いな）=(Man, that girl that just left was wearing really cute clothes.)
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+（今出ていった女の子の服、さっきも思ったけど可愛いな）=(Man, that girl that just left was wearing really cute clothes.)
 （――ハッ！　しまった、[H名]の前なのに、他の女の子に余所見するような真似を！）=(-----Shit, no--! Even though I'm with [H名], I started looking at another girl!)
 「あ、いや、ごめん。女の子というか、服が可愛かったからつい見ちゃったというか……いや、結局言い訳だよね、ごめん！　許して！」=Ah, no, I'm sorry. I wasn't looking at her specifically, her clothes were just cute so my eyes kinda... no, that's just an excuse, isn't it? I'm really sorry! Forgive me!
 「あの、そんなに焦って謝らなくても♡」=Uhm, you don't need to be that flustered about it♡

@@ -1,4 +1,7 @@
-﻿「……すごく緊張してるね」=...You're sure nervous.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「……すごく緊張してるね」=...You're sure nervous.
 「……私だって、初めてのデートは緊張するわよ？」=...Even I'm not so unfeeling, as to not get nervous on my first date, you know?
 「そ、そっか……それはそうだよね、ごめん」=R-Right... you're right, sorry.
 「そうよ……だから、エスコート、よろしくね」=Exactly... so, take care of me today, okay?

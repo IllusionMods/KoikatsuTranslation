@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「いつもお昼はどこで食べてるの？」=“Where do you usually eat lunch?”
 「もうお昼は終わった？　先生はこれからなの」=“Are you done having lunch? I'll be starting mine soon.”
 「男の子なんだから、きっとたくさん食べるのよね？　先生はダイエット中で……サラダだけです……」=“Boys eat a lot, don't they? I'm in the middle of a diet... I can only eat salad...”
@@ -7,5 +10,3 @@
 //「もうこんな時間よ？　あんまり遅くまで残っちゃわないようにね」=
 //「こんな時間まで頑張ってるのね。きみ、やっぱり努力家ね」=
 //「遅くまで根を詰めて身体を壊しちゃダメよ？　明日出来ることは明日でいいですからね」=
-
-野乃花=Nonoka

@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「あー、何回もトイレ行ったのに……またしたくなってきた気がする……」=Ah, even though I went to the bathroom so many times... I still feel another one coming...
 （[H名]、さっき俺のことを本気でって言ってたけど……それってつまり……本気で結婚を……）=([H名], she asked me earlier if I was being serious or not... that means... she really does want to get married...)
 （だとしたら嬉しいけど、先に言われちゃった感じかな……これが終わったら、ちゃんと俺から言い直さないと）=(While I'm happy she feels that way, I wonder if it's because she brought it up just before this... I'll have to have a serious talk with her again after this...)
@@ -5,6 +8,7 @@
 （うわっ、本物の迫力って凄いな……）=(Uwaah, the intensity of the real thing is amazing... )
 （っ、ちょっと飲み込まれそう……）=(It feels like I'm being swallowed by this atmosphere...)
 （……ふぅ、緊張したぁ。ただ歩いてただけなのに、汗がびっしょりだ）=(...Fuu, I'm getting nervous. All I have to do is walk straight ahead, but I'm drenched in sweat.)
+モブ=Mob
 「これより新婦が入場致します。後方の扉口をご覧ください」=And now, the bride will make her entrance. Please pay attention to the main door.
 （ぇ……[H名]？）=(Eh... [H名]?)
 誰に対しても気さくな彼女は、当然のように人気もので。俺なんかがそれを独占していいのかって思ってた。=A girl that gets along with everyone, and is naturally popular. I wondered if it was really alright for someone like me to monopolize her for myself.
@@ -14,5 +18,3 @@
 「[H名]、最高に綺麗だ……これ以上ない、本当に最高に綺麗だよ……」=[H名], you look so beautiful... You look more beautiful than anything I've ever seen in my life...
 「[H名]、凄く綺麗だよ……なんていうか、うまく言えないのがもどかしんだけど……」=[H名], you're so beautiful that... I'm frustrated that I'm at such a loss how to express myself...
 「ありがとう。ふふっ、やっぱり涙目になっちゃってるわね……泣かないでって言ったのに……」=Thank you. Fufu, I end up crying after all... even though I told myself not to...
-
-モブ=Mob

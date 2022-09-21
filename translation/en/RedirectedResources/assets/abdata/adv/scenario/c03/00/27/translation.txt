@@ -1,1 +1,4 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「わぁ、ありがとうですー！　私、期待しちゃうですよ？」=“Waah, thank you! I'mma expect something nice, okay?”

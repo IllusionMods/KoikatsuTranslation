@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「っぁ、ふわぁぁぁぁ……」=Uh, uwaaaaa...
 「大きい欠伸して、そんなに疲れてたのね」=Such a big yawn, you're that tired, huh.
 「はは……自分で思ってた以上に、はしゃぎすぎてみたい」=Haha... I think I overdid it a bit at the park.

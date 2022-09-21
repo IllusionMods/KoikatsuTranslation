@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
 「今ちょっといいかな？　コイカツ部の活動をしてるんだけど」=You got a moment? I'm from the Koikatsu club.
 「？　っ！　っっ！？　えっ、あの……えっと……」=? --! ---!? Eh--, uhm... erhm...
 「あ、驚かせたならごめんね。俺、[P名前]って言って……」=Ah, sorry if I caught you off guard. I go by [P名前]...

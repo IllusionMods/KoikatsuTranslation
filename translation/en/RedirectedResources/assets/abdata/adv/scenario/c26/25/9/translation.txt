@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「……デート？　私と？」=“...A date? With me?”
 「ど、どうかな」=“H-How about it?”
 「……うん、いいよ。行ってみたい」=“...Yeah, sure. I wanna go.”

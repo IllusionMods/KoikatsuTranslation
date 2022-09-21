@@ -1,10 +1,14 @@
-﻿「ふう、タキシードって結構肩が凝るなぁ……」=Fuu, this tuxedo is pretty heavy...
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「ふう、タキシードって結構肩が凝るなぁ……」=Fuu, this tuxedo is pretty heavy...
 「けど、ウェデングドレスは、きっともっと大変なんだろうな～……」=But, I'm sure a wedding dress would be even more of a pain to wear~...
 「……ってか、へへへ、楽しみだな。[H名]のことだから、似合ってるんだろうなー……」=...--Hehehe, I'm looking forward to it. Since it's [H名] we're talking about here, she'd probably look amazing in it...
 （いよいよ出番か……よし、頑張ろう）=(Finally, showtime... Alright, gotta do my best.)
 （いい式場だな……こんな場所で、ほんとに結婚式を挙げられたら最高だろうな……そして相手が[H名]なら言うことなしだ）=(What a hall though... It would be just the best, to have a real wedding here... and if [H名] were to be my bride, then that would be just perfect.)
 （よし気合を入れて頑張ろう！）=(Alright, time to bring out my A-game!)
 （ふぅ……不恰好になってなかったよな？　ちょっと心配だ……）=(Fuu... I didn't make for too clumsy a sight, did I? I'm a bit worried...)
+モブ=Mob
 「これより新婦が入場致します。後方の扉口をご覧ください」=And now, the bride will make her entrance. Please pay attention to the main door.
 （うう、ヤバい……滅茶苦茶緊張してきた……）=(Uuu, damn... I'm getting super nervous...)
 両開きの大きな扉が開くと、純白のドレスをまとった花嫁が佇んでいた。=When the wide double doors opened, there was a bride standing there, clad in a pure white dress.
@@ -13,6 +17,3 @@
 「……すごいな。想像してたより、ずっと……ずっと綺麗だ……」=...Amazing. You're beautiful, more, much more beautiful... than I could have ever imagined...
 「……素敵な花嫁さんになってるよ」=...You've become a lovely bride.
 「ふふ、ありがと♪　君も、最高の花婿さんよ」=Fufu, thanks♪ You're just the perfect groom too.
-
-モブ=Mob
-

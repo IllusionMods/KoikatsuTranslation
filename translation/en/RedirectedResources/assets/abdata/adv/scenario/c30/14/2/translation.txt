@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「ふふっ、最近ちょっとずつキミを理解出来るようになったみたい」=Fufu, looks like I've started understanding more and more about you recently.
 「本当に？　嬉しいな。俺もちょっと距離が近くなった気がするよ」=Really? That makes me happy. I too feel like we're getting closer.
 「誰かと親しくなれるのって嬉しいわよね」=Knowing that you're getting close to someone would make anyone happy, right?

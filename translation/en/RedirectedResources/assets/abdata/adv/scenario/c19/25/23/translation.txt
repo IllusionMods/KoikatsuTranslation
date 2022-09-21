@@ -1,3 +1,6 @@
-﻿「あ、あの……えっと、これ、授業で作ってきたアップルパイなんだけど……」=U-Uhm... erhm, here's some apple pie, that I made during class...
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「あ、あの……えっと、これ、授業で作ってきたアップルパイなんだけど……」=U-Uhm... erhm, here's some apple pie, that I made during class...
 「あなたの分もと思って……良かったらどうぞ」=I thought I'd make some for you too... if you like, please have it.
 「えっと……あ、私図書委員の仕事があるから、そ、それじゃあねっ！」=Erhm... ah, I've got library committee stuff to deal with, s-so see ya--!

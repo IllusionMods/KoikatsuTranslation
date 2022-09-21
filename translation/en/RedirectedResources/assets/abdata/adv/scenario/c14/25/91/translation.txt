@@ -1,3 +1,6 @@
-﻿「おはよう……[Pあだ名]」=Morning... [Pあだ名].
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「おはよう……[Pあだ名]」=Morning... [Pあだ名].
 「おはよう、[Hあだ名]」=Morning, [Hあだ名].
 「……ああ、くっそ！　恥ずい……気まぐれに呼ぶんじゃなかった」=...Aah, shit! So embarrassing... Guess that's what I get for firing the first shot.

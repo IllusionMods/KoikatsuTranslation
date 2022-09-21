@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「えっ？　ここ女子トイレよ？　はい、すぐに出ていこうね」=Eh? You know this is the women's toilet, yea? Yes, let's leave quickly.
 「……こんな場所にキミがいちゃダメでしょ！？　もしかしてどこかと間違えた？」=...You know you shouldn't be in this place, right!? Did you confuse this place with somewhere else?
 「あ、今ちょっと忙しいの。ごめんね」=Ah, I'm a bit busy right now. Sorry.
@@ -373,10 +376,9 @@
 「キミが見てくれるなら、はりきって活躍しなきゃね」=With you watching me like that, I can't help but also enthusiastically do club activities.
 「あら、見学に来てくれたの？　もしかして私に会いに来てくれた……とか？」=Oh dear, came to take a look at the club? Or maybe... Did you come to meet me, perhaps?
 「今コイカツ中なの？　ふふっ、部長さんは大忙しね。応援してるわ」=Busy with club activities? Fufu, Mr Club President is always so busy. I'll cheer you on.
-「ふぅ、ようやく長い休み時間……ここでしっかりリフレッシュしなきゃね」=Fuu, Finally a long break... Should properly relax and refresh while we can.
-「最近思うんだけど……学生にとってのメインイベントって、やっぱり放課後じゃないかしら？」=I've been thinking this for a while now but... the main event of the day for any student has to be the after-school free time, no?
 「ふふっ、今日はどんなお話出来るのかしら？　キミとだったら毎回新鮮よ」=Fufu, What shall we talk about today? If it's with you, no matter what we talk about, it always seems fresh
 「ひゃぁんっ！？　あ、キミ……も、もう……ちょっとエッチな声聞かれちゃった♪」=Hyan!? Ah... It's you... J-Jeez... You made me let out such a lewd voice ♪
+「家に帰ったらすぐ部屋着になるタイプ？」=Are you the type to change into loungewear as soon as you get home?
 「うーん、そうね。こう見えてわりとゴロゴロしちゃうの。だから部屋着……かな」=Well, Yeah. Even if I seem like this, I actually lounge about a lot at home. That's why, I suppose it is loungewear, yea.
 「ううん、まずは私服に着替えるわ。だってまたコンビニとかに出かけるかもしれないし……ね？」=No, I generally tend to dress into plain clothes instead. After all, you never know if you might have to go to a convenience store or whatever... you know?
 「わりと夜更かしとかする？」=Do you stay up late often?

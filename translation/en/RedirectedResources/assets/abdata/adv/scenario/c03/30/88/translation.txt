@@ -1,5 +1,7 @@
-
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
 ………………=.........
 …………=......
 ……=...
-//「えへへ、お疲れ様なのです。また部活の時間、いっぱいキスしちゃったです。もっともっと部活が長引いて欲しかったですよ♪」=
+「えへへ、お疲れ様なのです。また部活の時間、いっぱいキスしちゃったです。もっともっと部活が長引いて欲しかったですよ♪」=“Eheheh, good work. We kissed a whole lot again, during club. Personally I wouldn't have minded if we did that for another hour or two♪”

@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「[H名]からしてくるとは……」=“I never expected that you'd come onto me yourself...”
 「あはは……あたしも、ちょっとやり過ぎた気がするぞ」=“Ahaha... I feel like I went a bit too far myself.”
 「……でも、元はと言えば、キミが大きくしてたからだろー？」=“...But, it's your fault for getting all erect, you know?”

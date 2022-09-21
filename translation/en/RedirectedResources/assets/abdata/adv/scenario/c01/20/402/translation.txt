@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「そういえば、言い忘れてたわけじゃないんだけど、今日の[H名]の恰好、可愛いよね」=“Reminds me, not that I just remembered to say it but, you look adorable today, [H].”
 「そうですか？　ありがとうございます、早起きしてひとりファッションショーをして決めたんです」=“Do I? Thank you very much, I got up early and held a mini-fashion show for myself to pick it out.”
 「ひとりファッションショー？」=“A mini-fashion show?”

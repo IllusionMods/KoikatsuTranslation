@@ -1,4 +1,7 @@
-﻿「今日は最後まで君のために時間を空けてあるの……♪」=I opened up my entire schedule today, just for you...♪
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「今日は最後まで君のために時間を空けてあるの……♪」=I opened up my entire schedule today, just for you...♪
 「それじゃ、時間が許す限り一緒にいよう」=Well then, let's spend the day together till we can't anymore.
 「ええ♪」=Yes♪
 「ケーキが来たわ。はい、あーん♪」=The cake's here. Here, open up, aaaahn~♪
@@ -7,10 +10,9 @@
 「うぅ……それじゃ、あ、あーん……」=Uuu... Well then, a-aahn...
 「ふふっ、口元にクリームが残ってるわよ。拭ってあげるから、こっち来て……ちゅっ♪　……ふふ、美味しい」=Fufu--, you've got some cream on your lips. I'll wipe it off for you, some come here... *kiss*♪ ... Fufu, delicious.
 「今日も楽しかったわ。デートっていいものね。毎日したいかも……なんてね」=I had a blast today too. Dates are nice, aren't they? I almost want to do them daily... heh, kidding.
+CHOICE:「まだもう少し一緒にいない？」=Wanna be together for a little longer?
+CHOICE:「俺も楽しかったよ、それじゃあね」=I had a ton of fun too, well then, see ya.
 「まだもう少し一緒にいない？」=Wanna be together for a little longer?
 「ええ、帰るにはまだ早いものね」=Yes, it's still too early to go home, afterall.
 「俺も楽しかったよ、それじゃあね」=I had a ton of fun too, well then, see ya.
 「ええ、気を付けて帰ってね。また連絡するわ」=Yes, be careful on your way home, okay? I'll call you later.
-
-CHOICE:「まだもう少し一緒にいない？」=Wanna be together for a little longer?
-CHOICE:「俺も楽しかったよ、それじゃあね」=I had a ton of fun too, well then, see ya.

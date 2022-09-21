@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 タイプ７８=Type 78
 タイプ７９=Type 79
 タイプ８０=Type 80

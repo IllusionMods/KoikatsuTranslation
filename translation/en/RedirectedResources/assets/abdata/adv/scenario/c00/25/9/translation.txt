@@ -1,3 +1,6 @@
-﻿「ようやく誘ってくれたわね♪」=You finally asked me out♪
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「ようやく誘ってくれたわね♪」=You finally asked me out♪
 「あ……もしかして、待ってた？」=Ah... by any chance, were you waiting for me?
 「初めて誘う時は、心の準備とか、色々あるものね。それで、どこへお出掛けする？」=You need to prepare your heart and stuff to ask someone out, afterall. Well then, where will we be going?

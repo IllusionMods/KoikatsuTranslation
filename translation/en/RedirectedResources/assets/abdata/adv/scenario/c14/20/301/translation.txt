@@ -1,4 +1,7 @@
-﻿「よーし、来たからには盛大に歌ってやるぜ！」=Alright, since we came out here and everything, I'm gonna sing my heart out!
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「よーし、来たからには盛大に歌ってやるぜ！」=Alright, since we came out here and everything, I'm gonna sing my heart out!
 「自信ありそうな感じだけど、歌うの得意なの？」=You sure seem confident, you good at singing?
 「得意とか下手とか、そうなのどうでもいいだろ？　大事なのは、盛り上がれるかどうかだぜ！」=Does that stuff matter? What's really important is if you can get your blood going!
 「それもそうだね。俺は音痴でも全然気にしないよ！」=You're not wrong. Just know, I don't mind it at all, even if you're completely tone deaf!

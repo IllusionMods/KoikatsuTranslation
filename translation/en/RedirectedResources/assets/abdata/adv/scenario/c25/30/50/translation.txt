@@ -1,2 +1,5 @@
-﻿「は～、よかったよ～」=Hah~, that was great~
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「は～、よかったよ～」=Hah~, that was great~
 「ふふふ……も～[P]が私のこと大好きなのが伝わって来ちゃうな～♪」=Fufufu... jeez, I can help but feel your love for me, [P]~♪

@@ -1,0 +1,18 @@
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「えへへ、何回デートの約束しても、やっぱり前の日は眠れんくなる……ちょっと恥ずいけど、お布団の中でにやけてしまうんよ」=Ehehe, no matter how many times we make plans for a date, I can never catch any z's on the day before... It's a bit embarrassing but, I can never help but grin like an idiot in bed.
+「あはは、彼女にそう思ってもらえるなんて嬉しいな。俺も[H名]のことを考えたら、夜、一人でにやけちゃったりするよ？」=Ahaha, hearing that from my girlfriend makes me really happy. I'm the same way, you know? I spend the whole night grinning whenever I think about you, [H名].
+「うそっ！？　君のそんなお顔見てみたい！　ふふっ、デート中にもそういうお顔してくれんかなぁ？」=No way--?! I wanna see that grin! Fufu--, will you make that sort of grin in the middle of our date too?
+「うーん、なかなかにやけてくれんねぇ。もっともっとイチャイチャせんといかんかいな？」=Mmmm, you really won't break into a grin, will you? Do I need to flirt with you even more?
+「あはは、俺、さっきからずっとにやけっぱなしだよ？」=Ahaha, I've been grinning this whole time though?
+「そうなん？　あんまり変わらんような気がするっちゃけど……あ、でも……言われてみれば、ちょっと頬が赤いかも♪」=Really? I feel like you're the same as usual though... Ah, but... now that you mention it, your cheeks are a bit red♪
+「う……指摘されると恥ずかしい……[H名]もさっきからずーっと頬が緩んでるよ？」=Uu... it's embarrassing when you point it out... you've been grinning this whole time too, you know?
+「はぅっ、そ、それはっ……自分でも気付いとうけん……言わんでいいと。君とおって笑顔以外のお顔とか……出来るわけないっちゃもん♪」=Hauu--, t-that's--... I can tell that myself so... you don't need to mention it. It's not like I can do anything but smile... when I'm with you♪
+「今日は一日、いっぱいにこにこ出来て嬉しかったん！　君のお顔もじーっくり見られたし、本当に最高やったよ♪」=Today was great, I got to smile a lot! I got to stare lots at your face too, so it really was the best♪
+CHOICE:「そうだ、この後なんだけど……」=Oh right, if you've still got some time...
+CHOICE:「こちらこそありがとう」=I had a fun time too.
+「そうだ、この後なんだけど……もしも時間あったらさ、うちに来ない？」=Oh right, if you've still got some time... wanna hit up my place later?
+「ええっ、いいん！？　ばり嬉しいっ！　やったらまだまだたくさん君のお顔見られるんやね！」=Eeh--, you sure?! I'd love to--! I'd get to see your face even more--!
+「こちらこそありがとう。可愛い笑顔がたくさん見られて嬉しかったよ」=I had a fun time too. I got to see your cute smile, it was great.
+「わわっ、は、恥ずいよぉ……でも、うん、次回もまた……いっっぱい笑顔見せられるようにするけん！　これからもデート、たくさんしようね！」=Wawah--, t-that's embarrassing... but, yeah, next time too... I'll make sure to show you lots more smiles! So let's go on lots more dates!

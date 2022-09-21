@@ -1,1 +1,4 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「うぅだめだ、顔がにやけるぅ～。ふふっ、お返しは何がいいのかな？　うぅーん？」=“Uuu, I can't, my face keeps smiling on its own~. Fufuh--, what do you want me to do in return? Nnnn~?”

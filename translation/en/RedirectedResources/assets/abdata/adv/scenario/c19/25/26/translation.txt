@@ -1,1 +1,4 @@
-﻿「えっ、私にプレゼント？　わあ、何だろう！　期待してもいい……かな？」=Eh--, a present for me? Wah, I wonder what it is! I can... hope for something nice, right?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「えっ、私にプレゼント？　わあ、何だろう！　期待してもいい……かな？」=Eh--, a present for me? Wah, I wonder what it is! I can... hope for something nice, right?

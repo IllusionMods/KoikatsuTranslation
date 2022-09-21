@@ -1,4 +1,7 @@
-﻿「綺麗です……このような場所があったとは知りませんでした」=It's beautiful... I didn't know there was a place like this here.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「綺麗です……このような場所があったとは知りませんでした」=It's beautiful... I didn't know there was a place like this here.
 「隠れた夜景スポットらしいんだ。一度[H名]と来たいなって思ってて」=It's supposedly a hidden spot to look at the night sky from. I've always wanted to bring you here atleast once, [H名].
 「あなたに誘っていただかなければ、見られなかった景色なのですね」=If it wasn't for you inviting me, I could never have seen such a view.
 「ふふふっ。ありがとうございます」=Fufufu--. Thank you very much.

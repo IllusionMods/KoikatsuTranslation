@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「……あなた、これ……食べる？」=“...Will you, eat... this?”
 「[P]が喜ぶと思って、クッキー……焼いてきた」=“I baked, a cake since I thought... it'd make you happy.”
 「……感想は、後で聞かせてほしい」=“...Let me know, how it is, later.”

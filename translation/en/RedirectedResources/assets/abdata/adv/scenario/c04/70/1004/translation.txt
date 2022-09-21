@@ -1,0 +1,15 @@
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+モブ=Mob
+「お疲れ様でした。ふふっ、素敵な式でしたよ」=Good work today. Fufu~ It was a lovely ceremony.
+「本番の結婚式も、是非、私どもの式場で挙げてくださいね！」=For your actual wedding as well, please, do call upon us!
+「えっと、前向きに考えさせてもらいます」=Uhm, sure, if we get to that point.
+「お願いします！　今日はお引き受けいただいて、ありがとうございました」=Thank you! And for helping us out so much today as well, thank you very much!
+「……ふぅ、[H名]、お疲れ様。緊張したけど、いい経験になったね」=...Fuu, [H名]. Good work today. Nervousness aside, that was a really good experience, wasn't it?
+「ええ、何事も体験だわ」=Yes, a full on practicel experience.
+「やってみなきゃ分からないことがあるって、思い知ったよ」=I finally realized what people mean, when they say that you won't know something until you actually do it.
+「本番も期待してるわね？」=I'm counting on you for our real wedding too, okay?
+「……ああ、任せてよ！」=...Yeah, leave it to me!
+「ふふ、楽しみだわ」=Fufu, I'm looking forward to it.
+「それじゃあ……駅まで戻ろうか」=Well then... let's go back to the station.

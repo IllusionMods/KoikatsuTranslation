@@ -1,4 +1,7 @@
-﻿「デートってこんな感じで始めるんだね。初めてのことばかりで……いきなり新鮮な感じだよー！」=Dates start like this, huh. It's my first ever date so... it feels super fresh and novel~!
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「デートってこんな感じで始めるんだね。初めてのことばかりで……いきなり新鮮な感じだよー！」=Dates start like this, huh. It's my first ever date so... it feels super fresh and novel~!
 「あはは、俺も新鮮だよ。今日は思いっきり楽しもうね」=Ahaha, it's a fresh experience for me too. Let's enjoy ourselves a whole lot, okay?
 「うんっ！　君に全部お任せします！」=Yeah--! I'll leave it all to you!
 「期待に応えられるよう、頑張るね」=I'll do my best, so that I can meet your expectations.

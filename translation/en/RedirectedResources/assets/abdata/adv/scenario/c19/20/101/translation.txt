@@ -1,4 +1,7 @@
-﻿「ちょっと日差しが強くなってきたから、そこの芝生の木陰で休もうか」=The sun's gotten a bit harsher, so how about we go take a rest under that tree?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「ちょっと日差しが強くなってきたから、そこの芝生の木陰で休もうか」=The sun's gotten a bit harsher, so how about we go take a rest under that tree?
 「うん、そうしましょう」=Yeah, let's do that.
 「……あれ、あっちの木陰で親子連れがお弁当広げてるね」=...Huh, there's a family having a picnic under that tree.
 「本当だ……私達もお弁当でも持ってくればよかったわね」=You're right... we should have brought some lunch boxes ourselves.

@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「あ、おはよう。勝手にシャワー使っちゃったけど大丈夫だったかしら？」=Ah, Good morning. I used the shower without asking, that's not a problem right?
 「うん、構わないよ。でも寝起きでシャワー上がりの[H名]に会うなんて……まるで一緒に暮らしてるみたいだね」=Yea, Its fine, I don't mind. But, to see you taking a shower right after waking up... It feels like we're living together, doesn't it?
 「わわっ……そ、そうね。同棲してるみたい……って、も、もー、そんなこと言われたら意識しちゃうじゃない。だけど……本当にそんな生活が出来たら嬉しいわね」=H-Huh? S-So it seems. Like we're a couple living together... Jeez... If you say something like that, I can't help but become aware of it, you know! But... I don't hate the idea of that... That kind of life would make me really happy...

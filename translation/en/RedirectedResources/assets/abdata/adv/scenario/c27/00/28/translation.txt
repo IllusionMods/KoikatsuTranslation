@@ -1,1 +1,4 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「あっ、コレ……！　……ありがと、大切にするわ」=“Ah--, this...! ...Thanks, I'll treasure it.”

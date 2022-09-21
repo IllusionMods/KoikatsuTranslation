@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 恥ずかしがる1=Embarrassed 1
 恥ずかしがる2=Embarrassed 2
 恥ずかしがる3=Embarrassed 3

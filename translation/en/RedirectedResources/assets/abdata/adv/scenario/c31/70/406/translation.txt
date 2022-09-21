@@ -1,0 +1,10 @@
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「さて、かなり居座っちゃったね。そろそろ出ないと、店員さんから睨まれるかも……」=Now then, we've been here for quite a while. If we don't shuffle out quickly, the owner might start glaring at us...
+「流石にそこまではされないだろうが、迷惑になるのは嫌だからな。そろそろ出るか」=I don't think they'd go that far but yeah, I'd hate to be a bother to them. Let's leave.
+「じゃあ、先に会計してきちゃうね。[H名]は待ってて」=Then, I'll go settle the bill real quick. You wait here, [H名].
+「待てっ……ほら、私の分だ。持っていけ」=Wait--... Here, my half. Take it.
+「いいって、いつも男らしいところを見せろって言われてるでしょ？　だからこういう時くらい、ね？」=It's fine, you're always telling me to show you my manly side, no? Atleast let me take care of this sort of stuff, please?
+「そ、そうか……なら、素直にご馳走になろう。ありがとう……男らしいぞっ」=I-I see... Then, I'll be obedient and let you treat me. Thanks... you're really manly--.
+「はは、本当はもっと他の事で認められなきゃなんだけどね。まずは簡単なところからということで」=Haha, truth be told, I'd prefer to be called manly for other things. But I guess I'll start with the easy stuff first.

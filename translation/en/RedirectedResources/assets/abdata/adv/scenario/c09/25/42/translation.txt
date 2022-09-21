@@ -1,1 +1,4 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「きゃあ！　何ニヤニヤしてんのよ！　早く出ていって！」=“Kyah! What's with that stupid grin! Get out already!”

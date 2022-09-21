@@ -1,4 +1,7 @@
-﻿「やあやあ、お待たせ～」=Hayohayo, sorry for making you wait~
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「やあやあ、お待たせ～」=Hayohayo, sorry for making you wait~
 「今来たところだよ。」=I just got her myself.
 「いつもの喫茶店だけど落ち着くね」=It's the same coffee shop we usually hang out at, but it's really calming, isn't it?
 「そだね～。出歩くのも疲れるし、こういうとこがいいんだよ～」=Yeah~. It's a pain to walk around outside too, this sort of place is nice~

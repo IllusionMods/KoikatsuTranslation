@@ -1,4 +1,7 @@
-﻿「内装も凝った感じでオシャレだなぁ、この店」=Man, this store's interior's so refined and fashionable.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「内装も凝った感じでオシャレだなぁ、この店」=Man, this store's interior's so refined and fashionable.
 「まあでも、それに負けないくらい[H名]もオシャレだよね」=But, you're much more fashionable than this store could ever be, [H名].
 「そ、そうか？　まあ、似合わないだろうけどさ、好きなんだ、ファッションとか」=T-That so? Well, I'm sure these clothes don't look all that good on me, but I like dressing according to fashion and stuff.
 「いやすごく似合ってると思うよ。かっこいい感じでさ」=No, you really do look good in them. Super cool.

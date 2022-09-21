@@ -1,1 +1,4 @@
-﻿「おはよう、ふふっ……朝からあなたの顔が見れて、うれしいわ」=Good morning, fufu--... I'm really happy, that I got to see your face first thing in the morning.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「おはよう、ふふっ……朝からあなたの顔が見れて、うれしいわ」=Good morning, fufu--... I'm really happy, that I got to see your face first thing in the morning.

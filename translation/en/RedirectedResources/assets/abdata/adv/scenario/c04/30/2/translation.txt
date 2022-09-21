@@ -1,4 +1,7 @@
-﻿「あなたって面白い人よね」=You're a really interesting person.
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「あなたって面白い人よね」=You're a really interesting person.
 「それって褒めてるの……？」=Is that a compliment...?
 「うんうん、すごく褒めてるわ。あなたといると、楽しいもの」=Yes, a really big one. It's fun, to be with you.
 「だから、ほんの少し……怖かったりするのだけれど」=That's why, I get... afraid, just a little bit.

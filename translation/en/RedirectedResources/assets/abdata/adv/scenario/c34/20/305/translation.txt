@@ -1,4 +1,7 @@
-﻿（……あれ？　[H名]の番なのに、曲が入ってないぞ？）=(...Huh? It's [H名]'s turn and yet, she's not putting in a song?)
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+（……あれ？　[H名]の番なのに、曲が入ってないぞ？）=(...Huh? It's [H名]'s turn and yet, she's not putting in a song?)
 「アノー……チョット、ニッポン文化について、質問してもいいカナ？」=Uhm... Do you mind if I ask a question, regarding Japanese culture?
 「ん？　どうしたの、改まって」=Hm? What's the matter, why so formal?
 「エット……トモダチが言ってたケド……カラオケｂｏｘでＨするｃｏｕｐｌｅがいるって、本当ナノ？」=Erhm... I heard this from my friends but... Is it true, that there are couples who have sex in the karaoke box?

@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「へくしっ、ぅぅ……シてる時は興奮してわからなかったけど、少し冷えてきたね」="*Achoo!* I didn't notice while doing it because of excitement, but it's gotten colder."
 「調子に乗って外でなんかするからよ。まったく、私が風邪を引いたら、ふぇ……くちゅっ」="It's because you got carried away doing it outside. Seriously, if I catch a cold... *A-Achoo*!'
 「わっ、[H名]さんのくしゃみ可愛い！」="Wah, Miss [H名]'s sneeze was so cute!"

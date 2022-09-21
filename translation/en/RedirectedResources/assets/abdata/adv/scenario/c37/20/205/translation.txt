@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「綺麗ですね」=Quite lovely, isn't it?
 「うん。高いところから見る夜景っていいよね」=Yeah. The night sky seen from this height is pretty nice.
 「これは情緒的と言えば良いのでしょうか」=I wonder if it would be correct to call it "emotional"?

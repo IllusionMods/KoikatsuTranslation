@@ -1,1 +1,4 @@
-﻿「わぁっ、君っ……なんでこんなところにおるんっ！？」=Wah--, you--... why are you in a place like this--?!
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「わぁっ、君っ……なんでこんなところにおるんっ！？」=Wah--, you--... why are you in a place like this--?!

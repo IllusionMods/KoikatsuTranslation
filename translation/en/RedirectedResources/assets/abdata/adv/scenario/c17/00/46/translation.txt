@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「私、その、まだあまり慣れてなくて……どうだったかしら？」=“I, um, I'm not quite used to it yet...How was it?”
 「すごく気持ちよかったよ」=“It felt really good.”
 「そ、そう……ふふっ、よかったわ」=“I, I see...Fufu, I'm glad.”

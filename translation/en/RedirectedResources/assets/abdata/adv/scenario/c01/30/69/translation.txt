@@ -1,4 +1,6 @@
-
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
 「……あっ、シャーペンの芯が切れちゃった。替芯は……あれ？」=“...Ah--, I'm out of lead. Let's see, gotta repla... huh?”
 「よろしければ、私のを何本かどうぞ。太さはこれで合っていますか？」=“If you'd like, you can have some of mine. Is this about the right thickness?”
 「えっと……うん、大丈夫だけど……いいの？」=“Erhm... yeah, this'll work but... you sure?”

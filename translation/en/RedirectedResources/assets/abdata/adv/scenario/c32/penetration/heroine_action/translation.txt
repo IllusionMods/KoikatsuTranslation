@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「えっと……混ざりたいの？　俺はしたいけど……」=Erhm... You wanna join us? I'm all for it but...
 「……まあ、あなたの願いですからね。仕方ありません」=...Well, it can't be helped. You're the one asking, afterall.
 「えっと……混ざりたいの？　……どうする？」=Erhm... You wanna join us?What do you wanna do?

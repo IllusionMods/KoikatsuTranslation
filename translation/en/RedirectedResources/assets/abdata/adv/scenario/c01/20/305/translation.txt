@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「……ふぅ。ご清聴、ありがとうございます」=“...Fuu. Thanks for listening.”
 「いやー、[H名]の歌声が綺麗で、つい聞きこんじゃうんだよね……」=“Man, your voice is so lovely, I just can't help but lose myself in it...”
 （そして、何故かムラムラしている自分が……これはあれか、綺麗なものほど汚したくなるという、男の性なのか……？）=(And my dick, which is somehow losing sight of itself... is this that, you know, the more lovely something is, the more you want to ravish it, a man's nature at play and whatnot...?)

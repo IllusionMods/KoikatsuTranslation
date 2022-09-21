@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「わぁぁ……すっごく綺麗なのです。こんな綺麗な場所があっただなんて……」=“Waah... it's super pretty. To think there was such a beautiful place here...”
 「気に入ってもらえた？」=“Like it?”
 「はいです。吸い込まれそうなくらい、キラキラしてるです……ずっと見ていたくなるですよ……」=“Yes. It's glittering so bright, I feel like I'm going to get sucked in... I can't help but want to look at it forever...”

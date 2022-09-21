@@ -1,0 +1,17 @@
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「もうこんな時間か……」=Already this late, huh...
+「あっ、本当だ！　どうする？ この後」=Ah--, you're right! What do you wanna do?
+CHOICE:『延長しよう』=『Let's extend』
+CHOICE:『終わりにしよっか』=『Shall we wrap it up?』
+「延長しよう。[H名]の歌声を聴いてたいからさ」=Let's extend. I wanna keep listening to you sing, [H].
+「えへへ、それじゃ、まだまだ歌っちゃうよぉ」=Ehehe, well then, I'll sing a ton more.
+「今日はこれぐらいにしとこうか」=Let's wrap things up here for today.
+「うん。また来ようね♪」=Yeah. Let's come here again sometime♪
+「最後に一曲歌ったら、今日は帰ろうか」=Let's sing one final song, and then head home.
+「はい、[H名]が入れていいよ」=Here, you can have the last one, [H].
+「う～ん……それじゃあ、この曲を歌うね」=Mmm~... well then, I'll sing this one.
+「よし、合いの手は任せて！」=Alright, leave the cheering to me!
+『何度も何度も何度も何度も迷って つまづいても♪』=『No matter how many, how many, how many, how many times I lose my way♪』
+「Ｙｅａｈ、Ｙｅａｈ！」=Yeah, Yeah!

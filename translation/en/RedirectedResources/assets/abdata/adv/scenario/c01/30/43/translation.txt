@@ -1,2 +1,4 @@
-
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
 「だ、誰っ？……って、あなたですか。もう、本当に仕方がない人ですね」=“W-Who--? ...Wuh, it's just you. Jeez, there really is no helping you, is there?”

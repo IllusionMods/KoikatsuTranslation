@@ -1,4 +1,7 @@
-﻿「[H名]……」=[H名]...
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「[H名]……」=[H名]...
 「……うぅうん……ダ、ダメだって、今日は汗かいたから」=...Mmmmm... D-Don't, I got really sweaty today.
 「な、シャワー浴びてからにしようぜ……？」=Hey, how about we take a shower first...?
 「もう我慢できないんだ……！」=I can't hold back anymore...!

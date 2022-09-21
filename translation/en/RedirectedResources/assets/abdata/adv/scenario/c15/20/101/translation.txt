@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「やっぱり、天気がいい日の公園は気持ちいいなー」=“Going to the park really does feel great, on days like this, doesn't it?”
 「そうだね。今日は晴れててよかったよ」=“Yeah. Good thing it's completely clear out today.”
 「よーし、せっかく公園に来たし、さっそく運動するぞー！」=“Alright, we came to the park and everything, so let's do some exercise!”

@@ -1,0 +1,16 @@
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「すっかり夕方だね……ちょっと交信に時間を使いすぎたかな……？」=“The sun's completely gone down... did we communicate for a bit too long...?”
+CHOICE:『まだ時間ある？』=Still got some time?
+CHOICE:『そうかも』=May be.
+「ねえ、[H名]……まだ時間は大丈夫？」=“Hey, [Hな]... do you still have time?”
+「地球時間のことを指して言っているのなら……まだ大丈夫だよ」=“If you're talking about local Earth Time... then I'm still good.”
+「よかった。それなら、ちょっと付き合ってもらってもいい？　[H名]と一緒に見たいものがあるんだ」=“Great. Well then, don't suppose I could get you to come with me? There's something I want to see with you.”
+「まあたしかに、今度は交信以外のことをしてもいいかもね」=“For sure, maybe we should do something other than just communicate, next time.”
+「[P名]くんも、“かれら”の声がはっきり聞こえたらいいんだけどな……」=“If only you could hear "their" voice clearly too, [P]-kun...”
+「はは、そうだね。“かれら”との交信はなかなか上手くいかないけど……でも、こうやって手をつなげば」=“Haha, yeah. My communication with "them" isn't going super well... but, if we hold hands like this.”
+「あ……[P名]くんの手、温かいね……」=“Ah... your hand is really warm, [P]-kun...”
+「[H名]とだったら、こうすれば交信できる気がするんだ」=“I feel like I can just about communicate with them, through you.”
+「えへへ……そうだね」=“Ehehe... right.”
+「それじゃあ、帰ろうか。交信は続けながら……ね」=“Well then, let's go home. While communicating the whole while... okay?”

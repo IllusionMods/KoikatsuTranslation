@@ -1,1 +1,4 @@
-﻿「すごく良かったよ～。ふふふ、私達、相性いいんじゃないの～♪」=That was amazing~. Fufufu, aren't we pretty compatible~?♪
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「すごく良かったよ～。ふふふ、私達、相性いいんじゃないの～♪」=That was amazing~. Fufufu, aren't we pretty compatible~?♪

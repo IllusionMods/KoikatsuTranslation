@@ -1,4 +1,7 @@
-﻿「こ、これが東京のカラオケボックスなん？　私が知っとるんとちょっと違う……」=I-Is this what a Karaoke Box in Tokyo looks like? It's a bit different from what I'm used to...
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「こ、これが東京のカラオケボックスなん？　私が知っとるんとちょっと違う……」=I-Is this what a Karaoke Box in Tokyo looks like? It's a bit different from what I'm used to...
 「……？　そうなの？　カラオケって言ったら全部こんな感じじゃない？」=...? That so? Aren't all Karaoke Boxes like this?
 「違う違う。私が知っとるんは、こう……広い敷地の入り口に受付があって……小っちゃい小屋がいくつも並んどって……真ん中にトイレがあると」=Not at all. The ones I know of, they're like... they have these big entrances, with the reception there and... lots of small rooms lined up side by side... with a toilet right in the middle of them all.
 「へぇ、そういうところもあるんだ？」=Hoh, places like that exist too?

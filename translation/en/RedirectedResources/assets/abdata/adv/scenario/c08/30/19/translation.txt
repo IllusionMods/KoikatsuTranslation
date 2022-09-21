@@ -1,1 +1,4 @@
-﻿「[P]君。おはよぉ。今日も良い天気だね」=[P]-kun. Mornin'. The weather's great today too.
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「[P]君。おはよぉ。今日も良い天気だね」=[P]-kun. Mornin'. The weather's great today too.

@@ -1,4 +1,7 @@
-﻿「よっと」=There.
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「よっと」=There.
 「す、すごい……そんな遠くから入れられるんですね」=A-Amazing... you can get it in from that far away, huh?
 「はは、まあね」=Haha, yeah.
 （もう一回やってって言われたら決められる自信ないけど）=(If she asks me to make that shot a second time, though...)

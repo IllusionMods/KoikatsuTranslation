@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「えっ？　ここ女子トイレよ？　はい、すぐに出ていこうね」=Eh? You know this is the women's toilet, yea? Yes, let's leave quickly.
 「……こんな場所にキミがいちゃダメでしょ！？　もしかしてどこかと間違えた？」=...You know you shouldn't be in this place, right!? Did you confuse this place with somewhere else?
 「あ、今ちょっと忙しいの。ごめんね」=Ah, I'm a bit busy right now. Sorry.

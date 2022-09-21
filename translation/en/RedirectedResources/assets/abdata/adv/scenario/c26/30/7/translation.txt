@@ -1,4 +1,6 @@
-
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
 「……えっ、私を……？　本気で言ってる……？」="...Oh, me? Are you being serious...?"
 「冗談でこんなことは言わないよ！　俺は本当にきみのことが好きだ！」="I'm not joking around! I really, really like you!"
 「……そ、そんなふうに気持ちを伝えられるの……初めて……」="...This is the first time I can... convey my feelings like that..."

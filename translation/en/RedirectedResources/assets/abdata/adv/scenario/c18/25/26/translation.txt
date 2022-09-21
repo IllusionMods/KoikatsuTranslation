@@ -1,1 +1,4 @@
-﻿「あら、いいんですか？　とても楽しみです」=Oh my, are you sure? I'm really excited.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「あら、いいんですか？　とても楽しみです」=Oh my, are you sure? I'm really excited.

@@ -1,0 +1,29 @@
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「ねぇ、[H名]が持ってるのって……もしかして……」=Hey, [H名], that thing you're holding... is it...
+「あ、見つかっちゃった？　私ね、お弁当作ってきたの。一緒に食べたいなって思って」=Ah, you already noticed? I actually made a bento. I thought that we could eat it together.
+「おおぉ！　やった！　あそこのベンチで食べない？」=Oooh! Yeah! Why don't we go eat on that bench over there?
+「そうね……でも、朝の準備が色々忙してくて……凝ったもの、作れなかったの……ごめんなさい」=Alright... But you know, I was fairly busy this morning so... I couldn't make anything special... I'm sorry.
+「そんなの気にしなくていいって。俺は[H名]の手作り弁当が食べられるだけで、幸せだよ」=You don't need to worry about that. I'm already happy enough just being able to eat your homemade cooking, [H名].
+「ふふ、ありがと。キミのそういう優しいところ大好きっ」=Fufu, thank you. I really love that kind side of you.
+「えっ、う、うん……いきなり好きって言われちゃうと……照れちゃうね……はは」=Uh, y-yeah... If you say you like me all of a sudden like that... I'll get embarrassed... haha.
+「えっと……凝ってないとは言ってたけど……まさかこの、白いご飯だけ？」=Um... You did say it wasn't anything special but... Isn't this just plain white rice?
+「ふふっ、そんなわけないでしょっ。こっちの水筒に、秘密があるの」=Fufu, that's not the only thing. This thermos right here has a secret hidden inside.
+「白いご飯に……水筒？」=White rice... and a thermos?
+（一体なんだ？　流石にご飯だけだと……コメントに困るなぁ……）=(What is it? It's hard to say anything... If it ends up being just rice...)
+「じゃーん！　よーく見ててね？　ほら、水筒の中身は……カレーでしたっ！」=Ta-da! Look at it carefully. Inside this thermos is actually... curry!
+「おおお！　だからご飯だけだったんだね！　へぇ、お弁当でカレーライスが食べられるなんて、凄いね！」=Ooooo! So that's why there's just plain rice in the box! Hoh, being able to eat curry rice from a bento is pretty amazing!
+「最近ね、カレーに凝ってるの。結構辛めの味付けなんだけど、スパイスとハーブで食べやすく作ったつもりよ」=Lately, I've been interested in all kinds of curry. It's quite spicy, but I've added some other spices and herbs that should make it easier to eat.
+「うん、匂いからして美味しそう！　じゃあ早速、いただきます！」=Yeah, the smell alone is enough to make me hungry! Then, I'll dig in!
+「あむっ、んぐっ……うんっ、美味しい！　たしかに辛いけど……後を引かない辛さで、いくらでも食べられそう！」=Munch, nngh... Yep, it's great! It is really spicy... but not to the point that it overwhelms you, I could eat tons of this stuff!
+「はぁ、よかったわ……私って辛党だから、辛過ぎて食べれないって言われたらどうしようかと思ってたの」=Hah, I'm glad... I actually really like hot and spicy food, so I was worried what I'd do if you said that it was too spicy to eat.
+「そんな心配はいらないって、全然イケるよ！　ほら、見てないで[H名]も一緒に食べようよ」=You didn't need to worry so much, it's really good! Come on, don't just watch, you should eat too, [H名].
+「おおっ！　唐揚げに卵焼きにコロッケ……これは凝ってないなんて謙遜だよ」=Ooh! Fried chicken, rolled omelettes, and even croquettes... saying this isn't special, weren't you just being humble earlier?
+「ふふ、そうかな？　私としては、もうちょっと頑張りたかったから……」=Fufu, you think so? Personally, I would have liked to make it even better...
+「いやいや、これでも十分過ぎるくらいだって。で、その水筒が飲みものかな？」=No, no, this is more than enough. So, does that other thermos have something to drink then?
+「あ、これはね、飲み物じゃなくて……ほら、お味噌汁を入れてきたの」=Ah, this, rather than something to drink... Look, I brought miso soup.
+「へぇ、凄い！　公園でお味噌汁まで飲めるなんて、びっくりしたよ」=Hoh, amazing! Being able to drink miso soup at the park, this is pretty surprising.
+「んっ、ごくっ……うんっ、温かいし……それに、お味噌汁なのにちょっと甘いっていうか、優しい味がする」=Nng, gulp... Oh, it's warm still... And, even though it's miso soup, there's a hint of sweetness, it tastes tender...
+「うん、私が塩辛いの苦手だから……お味噌汁も、ちょっと甘めの味付けなの……美味しくなかったかな？」=Yeah, I actually don't like salty food that much... so I made the miso soup slightly sweet instead... Should I not have?
+「そんな事ないよ！　全然美味しい！　そっか、これが[H名]の家の、お味噌汁の味かぁ……」=No, It works really well! Hmm, so this is what [H名]'s homemade miso soup tastes like...

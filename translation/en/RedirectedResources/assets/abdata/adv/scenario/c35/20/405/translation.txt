@@ -1,4 +1,7 @@
-﻿「えへへ、ハンバーグ美味しい♪　中身がぎゅっとしとって……繋ぎが少ないのが分かるん！」=Ehehe, this hamburg steak is really good♪ The insides are so firm... I can tell just how well it's tied together!
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「えへへ、ハンバーグ美味しい♪　中身がぎゅっとしとって……繋ぎが少ないのが分かるん！」=Ehehe, this hamburg steak is really good♪ The insides are so firm... I can tell just how well it's tied together!
 「へぇ、[H名]ってハンバーグ好きなんだね」=Heh, you really like Hamburg steaks, huh?
 「うんっ！　なんか小さい子みたいで恥ずかしいっちゃけど、昔からすごい好きなんよ。今まで色んなハンバーグ食べてきたけど……このお店のは絶品なん」=Yeah--! It's a bit childish and embarrassing but, I've always loved them, ever since I was little. I've tried lots of hamburg steaks till now but... this place makes them the best.
 「おお、そこまで言われるハンバーグ……ちょっと気になるな」=Ooh, such a high evaluation... I'm a bit curious now.

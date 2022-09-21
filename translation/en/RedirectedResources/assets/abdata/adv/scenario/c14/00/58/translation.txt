@@ -1,4 +1,7 @@
-﻿「今日はどこに連れてってくれるんだ？」=Where are ya gonna take me today?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「今日はどこに連れてってくれるんだ？」=Where are ya gonna take me today?
 「それは、行ってのお楽しみということで！」=That's a surprise for when we get there!
 「いや～、いい試合だったな」=Man~, that was a good match.
 「楽しんでくれたみたいでよかったよ」=I'm glad you enjoyed it.

@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「何を言っているの？　私との関係を破棄する権利なんて、貴方には無い筈だけど？」="What are you saying? Who gave you the right to break up with me?"
 「ごめん……そういうの、もう辛いんだ」="Sorry... It's already painful."
 「そういうのって何？　仕方ないわね……一晩あげるわ、少し頭を冷やしてきなさい」="What do you mean? Nevermind... I'll give you a night, cool down your head."

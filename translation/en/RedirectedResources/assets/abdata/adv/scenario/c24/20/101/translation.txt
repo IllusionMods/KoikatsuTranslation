@@ -1,4 +1,7 @@
-﻿「……は～、たまに公園で思いっきり遊ぶと楽しいよね」=...Hah~, just letting loose in the park every so often is great fun too, innit?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「……は～、たまに公園で思いっきり遊ぶと楽しいよね」=...Hah~, just letting loose in the park every so often is great fun too, innit?
 「はい♡　子供みたいにはしゃぐあなたを見て、私もはしゃいじゃいました♡」=Yes♡ Looking at you frolic around like a child, I got into the mood too♡
 「じゃあ、もっと遊ぼうよ」=Then, let's play lots more.
 「その前にお昼にしませんか？　そろそろ、鳴る頃だと思うので……♡」=Before that, why don't we have lunch? I think it's just about time for it to rumble as well...♡

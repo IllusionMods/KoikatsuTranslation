@@ -1,4 +1,7 @@
-﻿「コイカツ部って……実際はどんなことするのかな？」=The Koikatsu club... just what sort of stuff do you actually do here?
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「コイカツ部って……実際はどんなことするのかな？」=The Koikatsu club... just what sort of stuff do you actually do here?
 「ざっくり言うと、恋人同士っぽいことをする部……かな？」=In broad strokes, couple-like stuff... I guess?
 「あ、それじゃ例えば……こうやって見つめ合ったり？」=Ah, then, for example... staring at each other like this?
 「そう、見つめ合ったり……」=Exactly, staring at each other...

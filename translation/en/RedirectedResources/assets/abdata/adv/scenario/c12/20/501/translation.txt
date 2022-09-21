@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 （待ち合わせ１０分前。うん、丁度いい感じで到着っと。[H名]はもういるかな？）=(Got here 10 minutes early. Yep, perfect. Wonder if she's already here?)
 「おーい！　こっちだこっちー！　愛しの彼女がお待ちかねだぞ～！」=“Oooi! Over here! Your beloved girlfriend's dying from all this waiting~!”
 「うわっ、[H名]！？　わかったから！　騒ぎ過ぎだって、周りからめちゃくちゃ見られてるよ？」=“Uwah--, [H]?! I got it, I got it so calm down! Everyone's staring, you know?”

@@ -1,4 +1,7 @@
-﻿「私、あなたのことを変に美化し過ぎていたのかもしれません」=You know, I might have been putting you on too much of a pedestal.
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「私、あなたのことを変に美化し過ぎていたのかもしれません」=You know, I might have been putting you on too much of a pedestal.
 「う、うん。だと思ったよ。幻滅させちゃったかな？」=Y-Yeah. I thought as much. Did I let you down?
 「いいえ……その逆で、もっと好きになってしまいました♡」=Not at all... If anything, I've fallen even more in love with you♡
 「え？」=Eh?

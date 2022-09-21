@@ -1,4 +1,7 @@
-﻿「今日は遊園地にしてみたけど、どうかな？　なんだか目一杯遊びたい気分なんだ」=I picked the amusement park today, how about it? I'm kinda in the mood to play around all day.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「今日は遊園地にしてみたけど、どうかな？　なんだか目一杯遊びたい気分なんだ」=I picked the amusement park today, how about it? I'm kinda in the mood to play around all day.
 「うんっ、遊園地最高やん！　私も色んな乗り物に乗りたいん。まずは何から乗るん？」=Yeah--, amusement parks are the best! I wanna ride a bunch of rides too. What are we riding first?
 「そうだなぁ。あんまり並んでないところから乗ってみる？　例えば……お、あの海賊船なんかはどう？」=Good question. Wanna try starting from places that have no line? For example... how about that pirate ship?
 「わぁぁ、いいねぇ！　一回転するヤツやんっ！　私、ああいうの大好きっ！　めっちゃテンション上がるん！」=Waah, sounds fun! We gotta do it atleast once--! I love that sort of thing--! I get super fired up!

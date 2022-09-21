@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「この公園、色んな花が咲いてるね」="There are different flowers blooming here in this park huh."
 「そうね。種類が多い事もだけど、きちんと手入れも行き届いている。いい公園だと思うわ」="Yeah, there are a lot of types too. You can tell they're being taken good care of. I think it's a great park."
 「へぇ、[H名]さんって花とか好きなんだ？　意外な一面を発見だね」="Really? You like flowers, Miss [H名]? That's quite an unexpected discovery."

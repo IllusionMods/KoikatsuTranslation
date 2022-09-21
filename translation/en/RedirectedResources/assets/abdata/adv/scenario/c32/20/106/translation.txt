@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「ああ、またこの夜景を見ることが出来ました。やはり素敵ですね」=Aaah, I get to see this nightscape again. It's still just as wonderful as before.
 「気に入ってもらえてるみたいで、嬉しいよ」=I'm glad you like it.
 「……ふぅ、堪能しました。本当にいい景色でした。眼福眼福」=...Fuu, yeah, I've had my fill. It was truly a wonderful sight. Truly a feast for the eyes.
@@ -6,6 +9,8 @@
 「どうって……それって、この後エッチなことするかどうかってこと？」="What", you ask... Are you asking if we're going to have sex after this?
 「そうです。あ、いや、私は積極的にもとめているわけではありませんよ？　ただ、あなたはどうなのかなーって思った次第でして……」=That's right. Ah, that's not to say I'm actively asking you to do it, alright? I was just wondering if you wanted to do it and all...
 「ああ、もうっ……私ったら、いったい何を言ってるんでしょうか……」=Aaah, jeez--... Just what am I saying...
+CHOICE:『エッチしたいな』=『I want to have sex』
+CHOICE:『今日は止めとこう』=『Let's skip it for today』
 「俺は、エッチしたい。もちろん、[H名]が良ければ、だけど」=I want to do it. Of course, only if you want to as well, [H名].
 「全然ＯＫです。何も問題ありません」=I'm completely OK with it. No problem at all.
 「あ、でも、その……最初からこうなることを望んでたわけではなく、あくまであなたが望むから私もその気になったわけで──」=Ah, but, uhm... not to say that I wanted to do this from the get-go but, it's only because you want to do it that I've also gotten in the mood and--
@@ -22,6 +27,3 @@
 「はぁ……素敵なキスでした……。心も身体も、満たされた気分です」=Haaa... It was a lovely kiss... Both my heart and body feel immensely satisfied.
 「ふふ、よかった。さて、と……そろそろ駅まで送るよ」=Fufu, I'm glad. Now then... I'd better drop you off at the station soon.
 「そうですね、お願いします…………じゃあ、夜景さん、また会いましょう──」=Yes, please...... Then, let's meet again, Mr. Night Sky---
-
-CHOICE:『エッチしたいな』=『I want to have sex』
-CHOICE:『今日は止めとこう』=『Let's skip it for today』

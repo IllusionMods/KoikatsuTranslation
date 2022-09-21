@@ -1,4 +1,6 @@
-
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
 「ふう、疲れた～」=“Fuu, I'm beat~”
 「ほんとにね。勉強の調子はどう？」=“Same. How's the progress?”
 「悪くはないけど、少し声が大きいわよ」=“Not bad but, you're being a bit loud.”

@@ -1,1 +1,4 @@
-﻿「Ｇｏｏｄ　ｍｏｒｎｉｎｇ♡　　朝のゴアイサツ、ｈｕｇシマショー♪」=Good morning♡ For our morning greeting, let's hug♪
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「Ｇｏｏｄ　ｍｏｒｎｉｎｇ♡　　朝のゴアイサツ、ｈｕｇシマショー♪」=Good morning♡ For our morning greeting, let's hug♪

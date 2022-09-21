@@ -1,0 +1,28 @@
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「うーん、食べた食べた。次は何に乗る？」=“Mmm, I'm stuffed. What're we gonna ride next?”
+「食後だし、ゆったり出来るものがいいわ」=“We just ate so, something nice and relaxing would be nice.”
+「コーヒーカップとか？」=“How about the coffee cup?”
+「……二人して吐く地獄絵図が見たいわけ？」=“...You wanna see the photo of us both throwing up together that badly?”
+「はは、冗談だよ。おっ……」=“Haha, just a joke. Oh--...”
+「いいアトラクションでもあった？」=“Found something nice?”
+「アトラクションじゃないけど、いいものがあったよ」=“It's not exactly an attraction, but it is something pretty nice.”
+「なに？　って、なんだ。ゲームセンターじゃない」=“What? Oh, huh? Isn't it just an arcade?”
+「こういう所にあるゲーセンって、少し古臭いんだよね。まあ、そこがノスタルジックでいいんだけど」=“The arcades in places like these are pretty darn outdated, aren't they? Well, does make for quite the nostalgia trip though.”
+「確かにどのゲームも年季が入ってるわね」=“For sure, all of these games seem to have seen their day.”
+「せっかくだし遊んでいかない？」=“We're here anyway, so how about giving them a try?”
+「いいけど、ちゃんと動くか心配だわ」=“I don't mind but, I'm worried whether they even work.”
+「故障中なら張り紙があるはずだし、大丈夫だよ」=“The out-of-order ones should have notes on them saying so, so I think it'll be fine.”
+「それもそうね。じゃあ、クレーンゲームで勝負しましょ。先にあのぬいぐるみを取った方が勝ちよ！」=“You're not wrong. Then, let's have a match with the crane game. The one who gets that stuffed toy first wins!”
+「あれが欲しいの？」=“You want that?”
+「うぐっ……そうだけど」=“Uguh--... I do.”
+「それなら、俺が一発で取ってみせるよ！」=“I'll get it in a single try then!”
+（……つい、カッコつけてしまった。ま、何とかなるか）=(...Damn, I didn't mean to show off that much. Well, I'll make it work somehow.)
+（まずは位置をしっかりと確認……それからアームを慎重に動かして……よし、今だっ！）=(First, make sure it's in the perfect spot... carefully move the arm... alright, now's the chance--!)
+「すごい！　本当に１回だけで取っちゃった！」=“Amazing! You really got it in one try!”
+「まあね。はい、これ」=“It's nothing much. Here, take it.”
+「ありがとう。ふふっ、大切にするわ」=“Thanks. Fufu--, I'll treasure it.”
+（……ふぅ、[H名]にいいところを見せられてよかった）=(...Fuu, I'm glad I could show her something cool.)
+「ねぇ、次はあれ取ってよ！　あんたならまた１回だけで取れるでしょ？」=“Hey, grab me that next! You should be able to grab it in a single try too, no?”
+「……も、もちろん。任せてよ」=“...O-Of course. Leave it to me.”

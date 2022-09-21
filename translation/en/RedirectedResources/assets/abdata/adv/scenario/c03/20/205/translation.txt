@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「ふおお！　本当に高いですね！　下から見たときよりも高く感じるですよ！」=“Fuoooh! It really go high! It feels even higher up than it looked from the ground!”
 「そうだね。この景色は絶景だな」=“Yeah. Quite the view too.”
 「はいですっ！　うーん……うちの学園見えないですかね……」=“Yes--! Nnn... do you think we can see our school from here...”

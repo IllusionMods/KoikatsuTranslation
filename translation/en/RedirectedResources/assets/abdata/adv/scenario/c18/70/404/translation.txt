@@ -1,0 +1,33 @@
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「わあ、写真よりも豪勢かもしれないですね……」=Waah, it looks even more lavish than the picture makes it out to be...
+「ラッキーだね」=Pretty lucky, huh?
+「はい。今日は残念なことがなくて良かったです……」=Yes. I'm so glad nothing went wrong today...
+「残念って、何のこと？」=What do you mean by "going wrong" anyway?
+「私が甘いものを食べようとすると、頼んだパンケーキにクリームがのってなかったり」=Whenever I try to get something sweet to eat, stuff goes wrong. Things like the staff forgetting to put cream on my pancakes, or--
+「パフェに虫が止まったりとか……よくないことが起こるんです。甘いもの好きだからそうなると悲しくて」=There being flies and bugs on my parfait and such... I really love sweet stuff, so it makes me really sad when things like that happen.
+「それは大変だね……でも今回のはすごく美味しそうだよ？」=That sounds like a real pain... but, this one looks super delicious, you know?
+「ですねっ、それではいただきます」=It does--, well then, I'm going to dig in.
+「……どう？　おいしい？」=...How is it? Is it tasty?
+「はいっ、とても美味しいです……[P名]さんも食べてみます？」=Yes--, it's really tasty... Would you like to try some too, [P名]-san?
+「いいの？　欲しい欲しい」=You sure? I do, I'd love to.
+「じゃあお口を開けてください。はい、あーん」=Then open your mouth for me, please. Here, aaahn.
+「ありがと！　あーん」=Thanks! Aaahn~
+「モグモグ……」=*chew chew*...
+「もう、そんなに慌てなくても大丈夫ですよっ」=You don't need to rush so much, you know--
+「だって、早く[H名]と間接キスをしたくって……」=I couldn't help it, I wanted that indirect kiss with you so bad, [H名]...
+「なっ、なんですかそれ！」=C-Come off it!
+「はい。それじゃあ、さっそく一口……」=Yes. Well then, I'll dig in right away...
+「そういえば、抹茶プリンって甘くないの？」=Reminds me, is matcha pudding not sweet?
+「ここの抹茶プリンは甘さ控えめだと聞いてますので、大丈夫なはずです……」=I've heard that the matcha pudding they serve here has the sweetness subdued a fair bit, so it ought to be fine...
+「じゃあ試しに食べてあげようか？」=Maybe I'll have to feed me a bite then, just as a test.
+「それ、[P名]さんが食べたいだけじゃないんですか？」=Isn't that just you wanting to eat some of it, [P名]?
+「はは、バレたか」=Haha, can't hide anything from you, huh?
+「もうっ。じゃあ欲張りしたバツとして、毒味をお願いします。口を開けてください」=Jeez--. As a punishment for your greed, I'll have you be my poison taster. Please open your mouth.
+「はい、あーん」=Here, aaahn.
+「あーん……」=Aaahn~...
+「……うん、程よい甘さで、おいしいよ」=...Yeah, the sweetness is very unassuming, it's really good.
+「よかったです。では、私も……おいしいですね。甘すぎなくて、ちょうどいいです」=I'm glad. Well then, I'll have some too... it's delicious. Not too sweet, it's just perfect.
+「うん、よかった。そういえば同じスプーンで食べたから、これで間接キスだね」=Yeah, that's great. On that note though, we ate from the same spoon so, that was an indirect kiss just then, wasn't it?
+「もおっ、子どもじゃないんですから、変なからかい方しないでください」=Jeez--, we're not kids, stop pulling my leg like that.

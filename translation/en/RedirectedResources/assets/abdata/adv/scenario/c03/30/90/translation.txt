@@ -1,4 +1,6 @@
-
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
 「あの……実はお願いがあるのですが、良いですか？」=Um... you know, would it be okay if I asked you a favor?
 「お願い？　うん、いいよ、なに？」=Favor? Yeah, that's okay, what is it?
 「はいー、私、あなたのことを愛称で呼んでみたいのですよ。それだけで新鮮な気分になれる気がするです」=Yes- I would like to call you by a nickname. I think that's all it would take to make things feel fresh again.

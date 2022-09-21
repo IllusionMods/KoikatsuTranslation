@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「[H名]って、友達とも結構外食する方？」=Do you tend to eat out a lot with friends, [H名]?
 「それなりにはな。女同士の付き合いというのは、あれはあれで厄介なんだ」=About as much as the next person, yeah. The company of girls is annoying in its own way.
 「あー、そういうの苦手そうなイメージ。女子同士の軋轢っていうか、しがらみ？」=Aah, yeah, that sort of hard-to-deal-with image. The ego-clash or rather, the fetters?

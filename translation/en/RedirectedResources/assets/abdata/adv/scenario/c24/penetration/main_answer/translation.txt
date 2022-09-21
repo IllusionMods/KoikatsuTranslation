@@ -1,2 +1,5 @@
-﻿「あ、あなたが……いいなら……♡」=I-If you're... alright with it...♡
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「あ、あなたが……いいなら……♡」=I-If you're... alright with it...♡
 「あなたの身体を半分こにするってことですよね……？　それなら、いいですよ……♡」=We'll be going halfsies with your body, right...? In that case, I'm alright with it...♡

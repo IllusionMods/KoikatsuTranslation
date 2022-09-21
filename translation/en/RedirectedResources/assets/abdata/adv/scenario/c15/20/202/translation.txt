@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「やっぱり遊園地と言えば、ジェットコースターだよね」=“If you visit the amusement park, you just gotta hit up the roller coaster, don't you?”
 「そうだな！　定番中の定番だぞ！　さっそく並ぼう！」=“Yeah! It's mainest of the main attractions! Let's line up right away!”
 「[H名]、そっちじゃないよ！　ジェットコースターの最後尾はこっちだから！」=“Not there, [H名]! The end of the line's over here!”

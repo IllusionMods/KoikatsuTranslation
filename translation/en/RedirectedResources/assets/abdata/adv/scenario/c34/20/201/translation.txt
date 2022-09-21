@@ -1,4 +1,7 @@
-﻿「いや～、動物ふれあい広場、楽しかったね！」=Aah~, the animal play area was tons of fun, wasn't it!
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「いや～、動物ふれあい広場、楽しかったね！」=Aah~, the animal play area was tons of fun, wasn't it!
 「Ｙｅａｈ♡　ｆｅｒｒｅｔ♡　ｃａｐｙｂａｒａ♡　ａｌｐａｃａ♡　Ｍｅｅｒｋａｔ♡　ミンナ、可愛かったネ♡　モフモフ～♡」=Yeah♡ Ferrets♡ Capybaras♡ Alpacas♡ Meerkats♡ Everyone was so cute, don't you think?♡ So fluffy too~♡
 「グッズもいっぱい買ったね。本当に動物が好きなんだ」=We bought a lot of merch too. You really love animals.
 「ウン♡　デモ、ｓｎａｋｅがいないノ、寂しかったカナ」=Yeah♡ But, sad that there were no snakes there.

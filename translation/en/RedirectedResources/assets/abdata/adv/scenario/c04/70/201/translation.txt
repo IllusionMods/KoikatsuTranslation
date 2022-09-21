@@ -1,0 +1,32 @@
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「やっぱり遊園地は人がたくさんいるなぁ」=As expected, the entire place sure is full of people~.
+「カップルだけじゃなくて、家族連れも多いもの」=It's not just couples either, there's a lot of families too.
+「どこかゆっくり出来そうなところは……おっと」=Let's see, a place where we can take it easy together... woah.
+こどもＡ=Child A
+「わ～い、カップルだ～！」=Waah, look, a couple~!
+こどもＢ=Child B
+「や～い、デートデート～！」=Yaay, a date, a date~!
+「ははは……随分とませてるな」=Hahaha... quite precocious, those kids.
+「今の子供たち、風船を持っていたわね」=They had some balloons with them, didn't they?
+「遊園地のキャラクターがサービスで配布しているやつだね」=Yeah, those free ones that the park mascot gives away.
+「ふふっ、貰えて嬉しかったのかしら？　あんなにはしゃいじゃってかわいいわね」=Fufu--, wonder if they were that happy because they got some? They were running around so much, it was adorable.
+「[H名]って、子供が好きなんだったっけ？」=You like kids, [H名]?
+「ええ、あのくらいの子が一番かわいいわ」=Yes, kids that age are the cutest.
+「一緒に遊んで来たら？　もしかしたら風船をもらえるかも知れないよ？」=Why not go play with them? You might even get a balloon out of it.
+「さすがにそれはないでしょ」=Even I wouldn't do that much.
+「はははっ、そうだね……あれ？」=Hahaha--, for sure... huh?
+「ほら、キャストさんが来たよ！　風船くれるって！」=Look, the mascot came to us! Says he'll give a balloon!
+「へっ？　私にくれるの？」=Heh? For me?
+「ほらほら、もらっちゃいなよ」=Go on, take it.
+「あ、ありがとう……ねぇ、なんでもらえたのかしら？」=T-Thank you... hey, why did he give me one though?
+「さぁ……子供に見えたんじゃないかな？」=Who knows... maybe because you looked like a kid to them?
+「もう、そんなわけないでしょ」=Jeez, that couldn't possibly be true.
+「あははははは……って、え？　俺にもくれるんですか？」=Ahahahahaha... huh? You're going to give me one too?
+「…………」=“......”
+「……ふっ！　あはははっ！　あなたももらったのね」=...Pfft--! Ahahaha--! You got one too, huh?
+「……俺も子供に見えたってこと……？」=...Do I look like a kid too...?
+「きっとカップルにも渡しているのよ」=I'm sure they're handing them out to couples too.
+「そっか……そりゃそうだよな」=I see... guess that makes sense.
+（……周りからみて、ちゃんとカップルと思われてるんだな。ちょっと安心だ）=(...So people really do see us as a couple, huh? That's kinda comforting.)

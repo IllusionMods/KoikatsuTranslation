@@ -1,3 +1,6 @@
-﻿「二人で食べるといつもの倍くらい美味しい気がするよね～」=When we eat together, food tastes twice as good as usual, doesn't it~
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「二人で食べるといつもの倍くらい美味しい気がするよね～」=When we eat together, food tastes twice as good as usual, doesn't it~
 「確かに。きみと一緒だとすごく美味しい」=For sure. When I eat with you, food tastes great.
 「あは、嬉しいこと言ってくれるじゃん」=Aha, you know just how to make a girl happy.

@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「あっ、日が落ちてきちゃったね。いつの間にか話し込んでたみたい」="Ah, the sun's already setting. We were so absorbed in talkling that a whole day has passed before we knew it."
 「貴方の話が長すぎるのよ。もう少し要点を絞ってから話しなさい」="That's because you talk too long. Focus a bit more while speaking."
 「ぁはは……それはあるかも。じゃあ、そろそろ出ようか？」="Ahaha... That might be it. Shall we go now?"

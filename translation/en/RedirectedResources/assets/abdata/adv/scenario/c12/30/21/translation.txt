@@ -1,4 +1,6 @@
-
-//「ふぁ……おはよ……。んぅ～～っ」=
-//「おはよ。眠そうだね」=
-//「誰のせいだと思う？　授業中に寝ちゃったら、責任とってもらうからな」=
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「ふぁ……おはよ……。んぅ～～っ」=“Fuah... morning... Nnnn~”
+「おはよ。眠そうだね」=“Morning. You look sleepy.”
+「誰のせいだと思う？　授業中に寝ちゃったら、責任とってもらうからな」=“And who's fault do you think that is? If I fall asleep in class, I'm gonna have you take responsibility for that.”

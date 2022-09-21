@@ -1,4 +1,7 @@
-﻿「そう！　これが食べたかったの！」=This is it! This is what I wanted to try!
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「そう！　これが食べたかったの！」=This is it! This is what I wanted to try!
 「はは……すごいテンション高いな。よっぽど楽しみだったのか」=Haha... you sure are getting into it. You were looking forward to it that much, huh?
 「うんっ！　それじゃあ、さっそくいただきますっ」=Yeah--! Well then, I'll waste no time, and dig in--
 「もぐもぐ……」=*chew chew*...

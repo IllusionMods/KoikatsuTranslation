@@ -1,4 +1,7 @@
-﻿「遊園地到着！　今日はいっぱい楽しもう！」=Amusement Park reached! Let's have tons of fun today!
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「遊園地到着！　今日はいっぱい楽しもう！」=Amusement Park reached! Let's have tons of fun today!
 「オー♪　ドノａｔｔｒａｃｔｉｏｎにｒｉｄｅスル？　ワクワクが止まらないヨ～♡」=Yeah♪ Which attraction should we ride? My heart won't stop racing~♡
 「[H名]が行きたいところに行こう！　ほら、ちょうど案内板があるよ」=Let's go to whichever one you want to, [H名]! Look, there's an information board there.
 「Ｗｏｗ，ｌａｄｙ　ｆｉｒｓｔ♡　ｇｅｎｔｌｅｍａｎダネ♡　ジャア～……ムームムム……アッ♪　ワタシ、Ｍｅｒｒｙ－ｇｏ－ｒｏｕｎｄ乗りたいナ♡」=Wow, letting the lady go first♡ What a gentleman♡ Then~... Muumumumu... Ah--♪ I want to ride the Merry-go-round♡

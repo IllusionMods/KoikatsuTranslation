@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「ふぇぇっ！？　じょ、冗談っ……ですよね！？」=“Fueeeh--!? T-That's a... joke, right?!”
 「ごめんっ！　いきなりだけど……本気なんだ。ダメかな？」=“Sorry--! It's really sudden but... I'm serious. No dice?”
 「だ、ダメかどうかって聞かれるとっ……ひ、非常に答えづらいです……」=“I-It's hard to... g-give you a clear answer...”

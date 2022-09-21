@@ -1,4 +1,7 @@
-﻿「あ、あの！　ちょっと、お願いしたいことがあるんです」=U-Uhm! There's something, I'd like to request.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「あ、あの！　ちょっと、お願いしたいことがあるんです」=U-Uhm! There's something, I'd like to request.
 「どうしたの？」=What's the matter?
 「その……あなたの愛称を考えてきたんです。よかったら呼んでみてもいいですか？」=It's... I've thought of a nickname for you. Would you mind if I call you by it once?
 「本当？　うん、どんな愛称なのか聞いてみたいな」=Really? Fire away, I wanna hear what you came up for me.

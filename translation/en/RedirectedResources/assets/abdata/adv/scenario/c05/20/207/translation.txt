@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「暗くなってきたね……そろそろ帰ろうか」=“Started getting dark, hasn't it... let's go home, shall we?”
 「もう、この遊園地ともお別れなんだね……」=“It's already goodbye to this amusement park, huh...”
 「楽しめば楽しむほど、離れるのが名残惜しくなるよね」=“The more fun it is, the sadder it feels to leave, doesn't it?”

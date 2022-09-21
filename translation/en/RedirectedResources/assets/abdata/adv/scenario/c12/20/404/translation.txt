@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「おっ、来た来た、待ってました～！」=“Oh--, it's finally here, what a long wait it was~!”
 「結構待ったけど、その分美味しそうに見えるね。早速食べようか」=“For all that they made us wait, it sure looks delicious. Let's dig in right away.”
 「んぅ～、いちごがジューシィーで、クリームがスゥィーティー！」=“Nn~, the strawberries are so juicy, and the cream so sweet--!”

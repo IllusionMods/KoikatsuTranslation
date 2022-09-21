@@ -1,4 +1,7 @@
-﻿「え？　なんでこんなところにいんの！？　 男子は出てけ―！」=Eh? Why are you in this sort of place!? Boys need to get the fuck out!
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「え？　なんでこんなところにいんの！？　 男子は出てけ―！」=Eh? Why are you in this sort of place!? Boys need to get the fuck out!
 「ちょ、ちょっと！　マジありえないんだけど！　見るな～！」=H-Hey! This is super unbelievable! Don't look~!
 「ごめん、今急いでるから」=Sorry, I'm busy right now.
 「なに？　アタシに何か用？」=What is it? Need something from me?

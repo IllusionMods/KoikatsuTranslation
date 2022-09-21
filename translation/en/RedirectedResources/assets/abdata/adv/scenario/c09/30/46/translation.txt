@@ -1,4 +1,6 @@
-
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
 「き、気持ちよかった……あたしの動き、こんなんでよかったかな？」=“I-It felt good... did I move right, the way you wanted me to?”
 「ああ、とてもやりやすいよ」=“Yeah, real easy to do it with you.”
 「そう、それならよかった……」=“I see, glad to hear that...”

@@ -1,4 +1,7 @@
-﻿「遊園地の乗り物って、身長制限が設定されてるのがあるよね」=Amusement park rides have those height restrictions on them, don't they?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「遊園地の乗り物って、身長制限が設定されてるのがあるよね」=Amusement park rides have those height restrictions on them, don't they?
 「ジェットコースターなどがそうですね」=Seems so, on rides such as the roller coaster and such.
 「そうそう。設定身長にギリギリ足りなくて、泣きわめいてる子どもがいたりとかね」=Yeah, exactly, those. You often see kids around those, crying their eyes out because they just barely don't make the cut.
 「安全のためだから仕方ないんだけど、本人はものすごく悔しいし悲しいと思うんだ」=It can't be helped since it'd be unsafe but, I think it's a really sad thing, especially when you're the person in question.

@@ -1,0 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「おはようございます。確か今日はあなたが授業で当てられる日ですよね」=Good morning. If I recall correctly, today's the day where you're going to get called up in class, isn't it?
+「ゲ、そうだった！　どうしよう、今日に限って予習してないよ～」=Geh--, that's right! What do I do, I haven't studied any of the material~
+「でしたら、私がお教えしますよ。さあ、教室へ行きましょう」=In that case, I'll teach you. Come, let's go to the classroom.

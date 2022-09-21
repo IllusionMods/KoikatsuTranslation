@@ -1,5 +1,9 @@
-﻿
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+OPTION[0]:はい=Yes.
 はい=Yes.
+OPTION[0]:いいえ=No.
 いいえ=No.
 OPTION[1]:ソンナコトナイデス=*falsetto* Not at all.
 ソンナコトナイデス=*falsetto* Not at all.
@@ -19,6 +23,7 @@ OPTION[5]:得意=Not just good, I'm great at them.
 得意=Not just good, I'm great at them.
 OPTION[5]:苦手=Pretty incompetent at them.
 苦手=Pretty incompetent at them.
+OPTION[6]:する=I do.
 する=I do.
 OPTION[6]:しない=Nah.
 しない=Nah.
@@ -86,6 +91,12 @@ OPTION[107]:いいよ=Alright.
 OPTION[107]:ごめん=Sorry.
 OPTION[108]:いいよ=Alright.
 OPTION[108]:ごめん=Sorry.
+OPTION[109]:はい=Yes.
+OPTION[109]:いいえ=No.
+OPTION[200]:はい=Yes.
+OPTION[200]:いいえ=No.
+OPTION[201]:はい=Yes.
+OPTION[201]:いいえ=No.
 OPTION[202]:いいよ=Alright.
 OPTION[202]:ごめん=Sorry.
 OPTION[203]:いいよ=Alright.

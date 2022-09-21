@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「ねえ、ちょっとお願いがあるんだけど……」=“Hey, I've got a bit of a request...”
 「なによ改まって。え、エッチなお願いでもするつもり……！？」=“What're you being so formal for? W-Wait, is it a sexual request...!?”
 「いや、違うけど。その、愛称で呼び合ってみたいなと思ったんだ」=“No, not at all. It's, uhm, I was thinking that maybe we could use nicknames for each other.”

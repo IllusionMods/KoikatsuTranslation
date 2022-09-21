@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「……っ、やったぁ！　一位だ！」=“...--, Yay! I'm first!”
 「……むぅ」=“...Muh.”
 「じゃあ約束のジュース、お願いね」=“I'd like that can of juice I was promised, thanks.”

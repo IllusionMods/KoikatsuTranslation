@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「ふぅ、今日もいっぱい遊んだね。すっかり足が棒になっちゃったよ」=“Fuu, we sure had a ton of fun today too. My legs feel like lead.”
 「[H名]は疲れてない？」=“What about you, [H名], you tired?”
 「ん……大丈夫、平気よ……」=“Nn... it's fine, I'm alright...”

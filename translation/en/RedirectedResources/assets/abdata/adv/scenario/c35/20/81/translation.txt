@@ -1,4 +1,7 @@
-﻿「えへへ、こうやってお外で開放的にお昼を食べるんもいいねぇ。風が気持ち良くて、いつもよりご飯が進みそうなん」=Ehehe, eating lunch like this in a wide open area is nice too, no? The wind feels so nice, feel like I can pack in a lot more than usual.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「えへへ、こうやってお外で開放的にお昼を食べるんもいいねぇ。風が気持ち良くて、いつもよりご飯が進みそうなん」=Ehehe, eating lunch like this in a wide open area is nice too, no? The wind feels so nice, feel like I can pack in a lot more than usual.
 「うーん、確かに。でも、食べ過ぎたら食べ過ぎたで、お腹がきつくなるんだよね」=Mmm, certainly. But, if you overeat, you're gonna have a rough time later.
 「分かる～。やっぱり腹八分目にするのが一番やね」=I feel you~. Best to stop short just a bit before having a full belly.
 「そんなこと言って、デザートは別腹なんでしょう？」=You say that, but you're still gonna make room from some desert, aren't you?

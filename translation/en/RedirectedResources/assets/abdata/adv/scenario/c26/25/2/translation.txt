@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「……あなたと話す時間は、楽しいから好き」=“...Spending time chatting with you is fun, so I love it.”
 「はは、そういってもらえると嬉しいよ」=“Haha, that's quite nice of you to say.”
 「……あなたのする話は、面白いから全部覚えてる」=“...The things you tell me are, really fun so, I remember them all.”

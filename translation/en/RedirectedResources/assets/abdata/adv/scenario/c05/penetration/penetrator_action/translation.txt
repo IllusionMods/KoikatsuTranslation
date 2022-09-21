@@ -1,1 +1,4 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「気持ちいい事してるって聞いたから……私も連れてってほしいな」=“I heard that you guys were up to some fun stuff so... I'd love it if you let me join too.”

@@ -1,14 +1,16 @@
-
-//「なるほどなるほど、これがデートというものなのですね。ドッキドキのわっくわくなのです！」=
-//「あはは、楽しめそう？」=
-//「はいですっ！　あなたと一緒ならどんなことでも楽しいですよ！」=
-//「ありがとう。それじゃ、行こっか」=
-//「えへへ、デートっ、デートっ」=
-//「うん、デートだね」=
-//「デートなのです！　私もついに男子とデートする日が来たかと思うとっ……んんっ、感無量なのですっ！」=
-//「大げさだよ。でも……きみとデートしてると思うと、ちょっと感動かも」=
-//「はわっ……そ、そういう言葉がデートっぽいです……で、デートって……心臓がいっぱいドキドキするですね」=
-//「このまま一日過ごすなんて……うぅ、身体が保つか心配なのです」=
-//「そんなにっ！？」=
-//「今日は素敵な思い出をありがとうなのですっ！　初めてのデート、一生記憶に残る日になったですよ！」=
-//「心臓はまだドキドキしてるですけど……最後まで身体が保ってくれて良かったですー！　えへへっ！」=
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「なるほどなるほど、これがデートというものなのですね。ドッキドキのわっくわくなのです！」=“I see, I see, so this is a date, is it? My heart's throbbing and pounding!”
+「あはは、楽しめそう？」=“Ahaha, think you're gonna enjoy it?”
+「はいですっ！　あなたと一緒ならどんなことでも楽しいですよ！」=“Yes--! With you, just about everything is fun and enjoyable!”
+「ありがとう。それじゃ、行こっか」=“Thanks. Well then, let's go.”
+「えへへ、デートっ、デートっ」=“Ehehe, a date--, a date--”
+「うん、デートだね」=“Yep, it's a date.”
+「デートなのです！　私もついに男子とデートする日が来たかと思うとっ……んんっ、感無量なのですっ！」=“It's a date! When I think about how I'm finally going on a date with a boy too, I--... nnn--, I feel so overwhelmingly moved--!”
+「大げさだよ。でも……きみとデートしてると思うと、ちょっと感動かも」=“You're being dramatic. But... when I think about how I'm on a date with you, I feel kinda emotional too.”
+「はわっ……そ、そういう言葉がデートっぽいです……で、デートって……心臓がいっぱいドキドキするですね」=“Hawah--... t-that's such a romantic mushy line... d-dates really... make your heart pound, don't they?”
+「このまま一日過ごすなんて……うぅ、身体が保つか心配なのです」=“To think we're gonna spend a whole day together... uu, I'm worried whether my body's gonna hold up.”
+「そんなにっ！？」=“That bad--?!”
+「今日は素敵な思い出をありがとうなのですっ！　初めてのデート、一生記憶に残る日になったですよ！」=“Thank you, for showing me such a lovely time--! What a first date it was, I'll never forget it!”
+「心臓はまだドキドキしてるですけど……最後まで身体が保ってくれて良かったですー！　えへへっ！」=“My heart's still pounding but... I'm glad my body held up till the end~! Ehehe--!”

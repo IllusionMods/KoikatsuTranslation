@@ -1,3 +1,6 @@
-﻿「あ、[H名]！」=Ah, [H名]!
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「あ、[H名]！」=Ah, [H名]!
 「Ｈｉｙａ！　今日のｄａｔｅ、トッテモ楽しみにシテタヨ～♡」=Hiya! I was super looking forward to today's date, you know~♡
 「俺も楽しみだったよ！　[H名]が喜んでくれそうなところに連れていくからね！」=Me too! I'll take you somewhere that you'll definitely find fun!

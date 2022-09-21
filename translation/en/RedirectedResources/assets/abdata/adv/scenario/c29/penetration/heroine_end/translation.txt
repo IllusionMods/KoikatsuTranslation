@@ -1,1 +1,4 @@
-﻿「あなたのおかげで、より気持ちよくなれた気がします」=Thanks to you, I feel that it felt even better than usual.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「あなたのおかげで、より気持ちよくなれた気がします」=Thanks to you, I feel that it felt even better than usual.

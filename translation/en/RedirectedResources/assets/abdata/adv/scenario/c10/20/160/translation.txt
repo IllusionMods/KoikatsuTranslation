@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「ふぅ。夜風が気持ちいいけど、身体が冷えちゃいそうだね。[H名]は大丈夫？」=“Fuuh. The breeze feels great but, we might end up catching a cold. You okay, [H]?”
 「ふん……闇の住人である我だぞ？　この程度、何も問題な……っくしゅ」=“Fuhn... you forget that I am a denizen of the dark. This much is noth... *sneeze*”
 「強がろうとしなくていいって。これ以上冷えちゃいけないし、俺が温めてあげるよ」=“You don't need to put on a tough act. We can't have to catching a cold, so I'll warm you up.”

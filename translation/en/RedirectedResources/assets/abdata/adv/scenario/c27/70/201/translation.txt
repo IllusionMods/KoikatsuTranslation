@@ -1,0 +1,30 @@
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「やっぱり、デートといったら遊園地でしょ！」=“For a date, gotta be the amusement park!”
+「定番中の定番よね」=“It's the most standard amongst them all, isn't it?”
+「まぁ、ド定番過ぎて混んでるのはご愛嬌ということで」=“Well, it's so standard that it's really crowded, but let's just treat it as part of the charm.”
+「別に気にしないわ。それより……はぐれないように、手……繋いで」=“I don't really mind that. Rather... hold my... hand, just so we don't get split apart.”
+「うん、しっかり握るからね」=“Yeah, I'll grab on real tight.”
+「そ、そこまで強く握らなくてもいいけど……」=“Y-You don't need to do it that hard...”
+「さてと、何から乗ろっか？　高いところとか、怖いものは平気？」=“Now then, what shall we ride first? You fine with heights and scary stuff and whatnot?”
+「大丈夫よ。ここのアトラクションなら乗れないものはないわ。……たぶん」=“Yeah, I'm fine. Don't think there's a single attraction here I can't ride. ...Probably.”
+「はは、無理ならちゃんと言ってね。二人で楽しまなきゃ意味がないからさ」=“Haha, you don't have to force yourself to get on anything, okay? There'd be no meaning to this if we both don't have fun.”
+「別に心配しなくても、無茶とか強がり言ったりしないわよ」=“You don't need to worry so much, I won't try to pointlessly put on a bravado or anything.”
+「そっか。じゃあ、そこのジェットコースタから乗ってみる？　今ならあんまり混んでなさそうだよ」=“I see. Then, wanna try starting from that attraction over there? Doesn't seem like it's all that packed right now.”
+「いいわよ。さっそく並びましょう」=“Sure. Let's quickly line up.”
+ガタンゴトン ガタンゴトン=*Clack clack clock clock*
+「……た、高いわね」=“...S-Sure is tall.”
+「[H名]、声が震えてない？」=“[H名], isn't your voice shaking?”
+「こ、コースターの振動のせいよ！」=“I-It's because of the coaster's vibration!”
+（……そう言い張るなら、何も言うまい）=(...If you insist.)
+ガタッ=*Clack*
+「あっ、てっぺん」=“Ah--, we're at the top.”
+「へっ……」=“Hoh--...”
+ガガガガガガガガガ……！=CLACLACLACLACLACLACLACLACLA...!
+「ひゃぁぁぁぁぁぁぁぁ！！」=“HYAAAAAAAAAAAAAAAA!!”
+「ふぅ～～～～！」=“Fuu~~~~!”
+………………=.........
+「[H名]……大丈夫？」=“[H名]... you alright?”
+「ほ、ほんのちょっと怖かったけど……でも、面白かったわ！　ねえ、次は何に乗る？　早く行きましょう！」=“I-I was just a teeny tiny bit scared but... it was fun! Hey, what're we gonna ride next? Let's go, quickly!”
+「ちょ、待って！　まだ時間はあるから落ち着いて……」=“Hey--, wait! We still have the whole day, so calm down...”

@@ -1,4 +1,7 @@
-﻿「わ？！　っておい……ここは女子トイレだ！」=Wah?! Oi--!... This is the girls' toilet!
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「わ？！　っておい……ここは女子トイレだ！」=Wah?! Oi--!... This is the girls' toilet!
 「ひゃ！　悪趣味だぞ！　おいっ！」=Hyah! Cut it out, that's in bad taste, you know! Oi--!
 「あーもう、ちょっとどいてくれ！」=Aah jeez, move aside!
 「んだよ……！」=Fuck you want...!

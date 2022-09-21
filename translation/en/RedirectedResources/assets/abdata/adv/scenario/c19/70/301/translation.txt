@@ -1,0 +1,22 @@
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「さてと、何を歌おうかな。[H名]は何から歌う？」=Alright then, what shall we sing? What are you gonna start with, [H名]?
+「わ、私？　私はカラオケになんてほとんど来たことがないから……」=M-Me? I've never really come out karaoking before so...
+「そうなんだ？　誰とも？」=That so? Never?
+「うん。だから私は歌わなくてもいいから、[P名]君の歌を聴かせて」=Basically. So I don't really mind not singing, let me hear you sing, [P名]-kun.
+「えー、せっかく来たんだし、[H名]の歌声を聞いてみたいなぁ」=Eeh, we've come all the way out here, I'd love to hear you sing too, [H名].
+「そう言われても、歌は殆ど知らないから……」=Even if you say that, I don't really know all that many songs...
+「じゃあ、えーっと……。ほら、これは知ってる？」=Then, erhm... Look, do you know this one?
+「青空アドベンチャー……？　あ、うん……。これは私も好きな歌だから知ってるけど……」=Blue sky adventure...? Ah, yeah... I like this song too, so I know it but...
+「よーし！　じゃあ、これを歌ってよ[H名]」=Alright! Then, sing it, [H名].
+「え、ええっ！？　し、知ってるのと歌えるのとはまた別で……」=E-Eeh--!? K-Knowing it and singing it are very different...
+「まぁまぁ大丈夫だって。大勢の前で歌ったり、点数を競うわけでもないんだし」=It'll be fine~. It's not like we're singing in front of a crowd, or competing for points here.
+「そうだけど……。でもやっぱり歌は[P名]君に歌って……」=You're not wrong... But, you should sing by yourself, [P名]-kun...
+「はい、入力したよ。早くしないと曲が始まるよ」=There, I put it in. If you don't get ready soon, it'll start without you.
+「え、ええっ。ど、どうしようっ。私、どうしたらいいの！？」=E-Eeh--. W-What do I do--, What should I do!?
+「ほらほら、これ、早くマイクを握って」=Come on, here, take the mic.
+「えっ、こ、これ！？　えっと、これ、スイッチ？　マイクちゃんと入って……あ～、始まっちゃうー！」=Eh--, t-this!? Erhm, is this, the switch? Is the mic on... aah~, it's gonna start!
+「はうう……っ。も、もう、どうなっても知らないからね！　え、ええっと……」=Hauuu...--. J-Jeez, don't blame me later, okay?! E-Erhm...
+『小さな手の平 掴める物は きっと限られているけど～』=『This small hand, the things it can grasp, they are surely limited, but~』
+（一生懸命歌ってる[H名]……可愛いなぁ）=(She's doing her very best... so adorable)

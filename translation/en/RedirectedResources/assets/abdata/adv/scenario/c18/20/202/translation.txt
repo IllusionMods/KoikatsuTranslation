@@ -1,4 +1,7 @@
-﻿「遊園地をプラプラするのも面白いな」=Wandering around the amusement park is pretty fun too, isn't it?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「遊園地をプラプラするのも面白いな」=Wandering around the amusement park is pretty fun too, isn't it?
 「そうですね、普段とは全く違う世界に来てる感じがします」=Indeed. It feels like a whole different world entirely.
 「ね。アトラクションに乗らなくったって、みんな楽しそうにしてるからこっちも楽しい気分になる」=Right? Even if we can't ride any attractions, everyone's having so much fun, it's fun to just enjoy the mood.
 「うん？　あれは……屋台でしょうか？」=Huh? Is that a... food stand?

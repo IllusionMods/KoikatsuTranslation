@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「どこも長蛇の列だね。[H名]は行列とか並んでも大丈夫？」=“Every single line has such a long line. You don't mind lining up, do you?”
 「好き好んで並びはしないけど、こういうとこに来たら多少は仕方ないって」=“I mean, not that I enjoy lining up, obviously, but even I know it can't be helped in a place like this.”
 「よかった、混んでるから帰るとか言われたらどうしようかと思ったよ」=“Great, I wouldn't have known what to do if you got bored and just wanted to head home instead.”

@@ -1,4 +1,7 @@
-﻿「ねぇ、学園では他の女子とどんな感じなの？」=Hey, how're things between you and the other girls?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「ねぇ、学園では他の女子とどんな感じなの？」=Hey, how're things between you and the other girls?
 「どんな感じって？」=What do you mean, "things"?
 「いろいろあるでしょ？　私以外の可愛い女子といい雰囲気になって……とか」=I mean, you know? Girls cuter than me, that you've got a thing going on with... and stuff.
 「別にそんな女子いないよ」=There's no girls like that.

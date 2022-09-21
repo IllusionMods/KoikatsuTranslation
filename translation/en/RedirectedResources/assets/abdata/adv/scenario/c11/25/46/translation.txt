@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「まだまだあなたに頼りっきりでごめんね……」=“I'm sorry for always leaving it all to you...”
 「心はもうすっかり気持ちいいもの、体もすぐに追いついてくれるはずよ」=“My heart already loves it, I'm sure my body will follow in no time.”
 「慣れてきたら、あなたをうんと気持ちよくして甘えさせてあげるわね」=“Once I get used to it, I'll baby you and show you lots of love myself, okay?”

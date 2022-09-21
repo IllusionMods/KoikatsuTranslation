@@ -1,2 +1,5 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「頑張っているあなたに何かプレゼントをと思いまして、作ってみたのですが。受け取って頂けますか？」=I've been thinking of giving some sort of present to you, for all the hard work you put in, so I tried making this. Will you accept it?
 「家庭科の授業の一環でもありますので、そう恐縮なさらず。食べてもらえると嬉しいです」=It's part of home-ec practice anyway, so you need not feel reserved. It'd make me really happy if you eat some.

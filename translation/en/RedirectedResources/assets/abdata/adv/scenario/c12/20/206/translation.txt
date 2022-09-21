@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「なぁ、デートマニュアルって、まだ読んでるのか？」=“Hey, do you still read those date manuals?”
 「いや、もうほとんど読んでないよ。そんなのに頼らなくても、[H名]の事は分かってきたつもりだし」=“No, not anymore. I'd like to think I know you pretty well by now, and don't need to rely on those anymore.”
 「おぉっ、本当かぁ？　それじゃあ、あたしは今……何を考えていると思う？」=“Ooh--, really now~? Well then, let's see... what am I thinking right now?”
@@ -28,5 +31,3 @@
 「だってキスはダメって言われちゃったし、それ以上なんてもちろんダメだろうし。[H名]はくっついてるだけで満足でしょ？」=“I mean, you told me I can't kiss you, so anything beyond that is also off limits. Besides, you're satisfied with just snuggling together like this, no?”
 「んうぅぅ、意地悪するなよぉ……きすぅ、キスしていいからっ、もう下に着いちゃうだろ、早くぅっ……」=“Nnnnnn, don't be a meanie~... you can, you can kiss me--, we're almost back down again, quickly~...”
 「うん、その言葉を待ってました。後で怒らないでね？　[H名]からキスしてって言ったんだから」=“Yep, those were the words I was waiting for. Don't get mad at me later, okay? Since you're the one who told me to do it.”
-
-「おぉっ、本当かぁ？　それじゃあ、あたしは今……何を考えていると思う？」=“Ooh--, really now~? Well then, let's see... what am I thinking right now?”

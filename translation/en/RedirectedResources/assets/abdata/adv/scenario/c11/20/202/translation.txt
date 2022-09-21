@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「色々見て回ってたら、すっかり日が高くなってきたね……そろそろお腹空いて来ちゃった。売店でもいかない？」=“It's already noon, huh? We already spent so much time running around... I'm starting to get hungry. How about we go to a food stall?”
 「ちょっと待って。実は……お弁当を用意してきたの。よかったら一緒に食べない？」=“Wait a second. I actually... prepared a lunch for us. Wanna eat it together?”
 「わっ、嬉しい！　もちろんいただくよ！」=“Wah--, I'm so happy! I'd love to!”

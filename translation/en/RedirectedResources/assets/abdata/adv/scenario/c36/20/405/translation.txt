@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「[H名]さんのハンバーグ、美味しそうだね」="Miss [H名], your Hamburg steak looks delicious."
 「すぐそうやって、人のものを食べたがるのやめなさい。意地汚いわよ」="Stop talking like you want to eat other people's food, you glutton."
 「えぇ、まだ何も言ってないのに……」="Eeh, but I didn't say anything yet..."

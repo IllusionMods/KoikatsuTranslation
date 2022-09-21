@@ -1,4 +1,7 @@
-﻿「ココは……フフ♡　思い出の場所ダネ……♡」=This place is... Fufu♡, a place where we made lots of memories... ♡
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「ココは……フフ♡　思い出の場所ダネ……♡」=This place is... Fufu♡, a place where we made lots of memories... ♡
 「あ、あはは、そうだね……って、俺が照れるのも変だけど」=A-Ahaha, yeah... It's weird that I'm getting embarrassed though.
 「変じゃないヨ♡　意識してクレテ、ワタシはトテモ嬉しいナ♡」=It's not weird♡ I'm really happy that you notice it♡
 「そう言ってくれると俺も嬉しいけど……」=Hearing you say that makes me happy too...
@@ -9,6 +12,8 @@
 「モチロン、Ｈじゃないコトデモイイヨ♡」=Of course, non-lewd stuff is fine too ♡
 「アナタは、ニッポン語が上達したワタシに、ドンナコト言わせたいのカナ？　フフ♡」=Now that my Japanese has improved, I wonder what you'd like me to say? Fufu♡
 「え、えっと……」=E-Erhm...
+CHOICE:『エッチしたいって言ってほしい』=『I want you to say "I want to have sex"』
+CHOICE:『好きって言ってほしい』=『I want you to say "I love you"』
 「エッチしたいって言ってほしい」=I want you to say "I want to have sex".
 「相変わらず直球なんダカラ～……♡　ツマリ、アナタがＨシタイノ？　今、すぐシタイノ？」=Straight to the point as always~... ♡ So, basically, you want to have sex? You want to have sex right now?
 「エッチしたいって言ってほしいっ」=I want you to say "I want to have sex"--
@@ -28,6 +33,3 @@
 「アナタのコト…………好き好き好き好き♡　好き♡　好き♡　だーい好き♡　好き好き大好き♡　大好き超好きメッチャ好き♡　好きダヨ♡　本当に好き♡」=My feelings for you... are full of lovelovelovelove♡ I love you♡ I love you♡ I'm head over heals for you♡ loveloveyousomuch♡ I love you so so so much ♡ I really do love you ♡
 「う、うおお……」=U-Uwohh...
 （この後、俺は時間が許す限り、[H名]に告白してもらっていた……頭がクラクラするほどに……）=(After this, she kept confessing to me the whole time we were together... My head was spinning by the end...)
-
-CHOICE:『エッチしたいって言ってほしい』=『I want you to say "I want to have sex"』
-CHOICE:『好きって言ってほしい』=『I want you to say "I love you"』

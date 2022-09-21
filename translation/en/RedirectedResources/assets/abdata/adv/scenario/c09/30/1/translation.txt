@@ -1,4 +1,6 @@
-
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
 「ねえ、ちょっといいかな？」=“Hey, got a moment?”
 「え！？　べ、別に構わないけど……何か用？」=“Eh!? S-Sure but... need something?”
 「いや、話し相手がなかなか見つからなくて困ってて……」=“No, I've just been having trouble finding someone to talk to here, and...”

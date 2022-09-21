@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 ………………=.........
 …………=......
 ……=...
@@ -5,6 +8,9 @@
 「あたしも……今日は楽しかった」=“I had... fun today too.”
 「でも……もう、さよならしちゃうの？」=“But... are we gonna say goodbye already?”
 「[H名]……」=“[H]...”
+CHOICE:『自宅に誘う』=Take to your place.
+CHOICE:『ラブホに誘う』=Take to a love hotel.
+CHOICE:『さよならする』=Say goodbye.
 「えーっと……じゃあ、このまま家に来ないか？」=“Eerhm... then, how about I take you to my home then?”
 「えっ！？　そ、それって……プ、プロポーズとかいう……」=“Eh--!? I-Is that... a-a proposal...”
 「え？　違うよ。ただ、もうちょっと一緒にいたいかなぁと思って……」=“Eh? Not at all. I just wanted to be with you a bit more, you know...”
@@ -26,7 +32,3 @@
 「……充電完了」=“...Battery fully charged.”
 「え？　……なにそれ」=“Eh? ...What's with that~”
 「ふふ……いいのいいの！　それじゃあ、また……学園でね」=“Fufu... don't worry about it! Well then, see you... at school, okay?”
-
-CHOICE:『自宅に誘う』=Take to your place.
-CHOICE:『ラブホに誘う』=Take to a love hotel.
-CHOICE:『さよならする』=Say goodbye.

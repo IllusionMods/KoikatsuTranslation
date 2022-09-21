@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「あら、素敵な部屋じゃない」=Oh my, what a wonderful room.
 「あはは、[H名]さんに褒めてもらえる自信はないよ」=Ahaha, I don't feel like I deserve your praise, [H名]-san
 「自信がない？　男の子の一人暮らしなのにエッチな漫画とかAVがないってこと？」=Hmm? You don't deserve it? Even though you're a boy living alone, are you saying that you don't have any lewd manga or AVs or whatnot?

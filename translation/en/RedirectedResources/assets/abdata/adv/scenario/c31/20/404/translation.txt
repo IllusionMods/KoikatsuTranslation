@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「ようやく頼んだものが来たな。少し待ちくたびれたぞ」=Finally our order showed up. I almost got tired of waiting.
 「そこはほら、待った分だけ美味しく感じる筈だから、得したと思えばいいんだよ」=Well, I mean, the longer you have to wait for it, the better it tastes so, just take it as a good thing.
 「ほぉ、おまえのそういうポジティブなところは、たまに見習いたくなるな」=Hoh, sometimes I wish I could learn to be more positive like you.

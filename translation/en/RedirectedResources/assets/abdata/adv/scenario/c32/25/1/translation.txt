@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「今、話し掛けても大丈夫？」=Do you mind if we chat for a bit, right now?
 「あなたは男子の……ええ、問題ありません。精一杯盛り上げさせて頂きます」=You're that boy... Yes, no problem. I'll do my best to make it a lively conversation.
 「ありがとう。でも、普段通りの感じで大丈夫だよ」=Thanks. But, no need to go that far, just a normal chat is fine.

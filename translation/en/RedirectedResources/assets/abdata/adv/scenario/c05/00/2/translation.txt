@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「あっ。そろそろ、交信の準備しないと……」=“Ah--. I gotta set up the transmission channel...”
 「それじゃ、ここでいったん話は終わりかな。また話そうね」=“Well then, guess we'll end our chat here then. Let's chat again, okay?”
 「うん。……ねぇ、どうしてわたしに話かけてくるの？」=“Yeah. ...Hey, why do you talk to me?”

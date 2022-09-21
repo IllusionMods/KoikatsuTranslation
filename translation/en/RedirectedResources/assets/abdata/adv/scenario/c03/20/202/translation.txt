@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「ふぅ……色々と一気に乗っちゃったね」=“Fuu... we kinda rode a bunch all at once, h uh?”
 「はいです！　溢れる気持ちが抑えられず……今日はこのまま全部制覇したいですよ！」=“Yes! I want to conquer all the rides here... while leaving no regrets behind!”
 「あはは、全部乗るのは時間的に無理だと思うけど……今までで何が一番楽しかった？」=“Ahahah, I think riding every single one's gonna be a bit impossible... which one did you enjoy the most out of those?”

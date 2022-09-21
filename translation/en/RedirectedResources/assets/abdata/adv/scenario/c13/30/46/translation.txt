@@ -1,3 +1,6 @@
-﻿「アタシ、ちゃんとできてた？　その実はあんまり慣れてないから……」=Did I do it well? I'm not really used to this sort of thing so...
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「アタシ、ちゃんとできてた？　その実はあんまり慣れてないから……」=Did I do it well? I'm not really used to this sort of thing so...
 「いや、すごく良かったし、可愛かった」=No, it was great, you were adorable.
 「そ、そんなこと言われたら、もっとシたくなっちゃうじゃん」=D-Don't say that sort of thing, I'll get in the mood again.

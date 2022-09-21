@@ -1,4 +1,7 @@
-﻿あまり大声は出さないでください=Please don't make loud noises.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+あまり大声は出さないでください=Please don't make loud noises.
 できるだけゆっくりとして差し上げますね=I'll do it as slowly as I can, for you.
 切なそうな顔ですね=What a melty expression.
 気持ち良いですか？=Does it feel good?

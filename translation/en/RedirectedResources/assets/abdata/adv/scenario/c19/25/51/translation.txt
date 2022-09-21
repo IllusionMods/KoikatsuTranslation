@@ -1,1 +1,4 @@
-﻿「えっ、もう終わり……？　その、もっと私のこと、求めてくれてもいいんだよ……？」=Eh--, it's already over...? Uhm, it's fine if you long for me even harder, you know...?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「えっ、もう終わり……？　その、もっと私のこと、求めてくれてもいいんだよ……？」=Eh--, it's already over...? Uhm, it's fine if you long for me even harder, you know...?

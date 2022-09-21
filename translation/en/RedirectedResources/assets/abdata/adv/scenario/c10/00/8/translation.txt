@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「ふぇぇ！　エ……エッチ！？　そんないきなり！？」=“Fueeeh! S... Sex?! So suddenly?!”
 「それだけきみが魅力的なんだ」=“That's just how attractive you are.”
 「うぅ、どうしよう……興味はあるけど……かと言って、こういうのは簡単にしていいことじゃないし……」=“Uuu, what do I do... I wanna... but, should I really be doing it so easily...”

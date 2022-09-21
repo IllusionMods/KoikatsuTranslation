@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「……はぁ、なんとか歌い切れた。どうだった？　俺の歌……」=...Hah, I managed to sing somehow. How was it, my singing?
 「うん、ちゃんと歌えてたわよ。私、今の歌気に入ったかも」=Yep, it was nice and clear. I think I really like that song.
 「ほんとに？　じゃあ、今度ＣＤ貸すね。次に来た時は、一緒に歌おうよ」=Really? Then, I'll lend you the CD next time. When we come for karaoke again, let's sing it together.

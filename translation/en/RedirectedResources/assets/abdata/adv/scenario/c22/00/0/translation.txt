@@ -1,4 +1,7 @@
-﻿「今、ちょっといいかな？　君と話したいんだけど」=Hey, do you have a moment? I'd like to chat with you.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「今、ちょっといいかな？　君と話したいんだけど」=Hey, do you have a moment? I'd like to chat with you.
 「わわっ、話しかけられちゃった！」=Wawah--, you're really talking to me!
 「あっ、ごめん！　嫌だった？」=Ah--, sorry! Would you rather not?
 「ううんううん、違うの！」=No, no, I want to!

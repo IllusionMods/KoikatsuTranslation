@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「今日はどんな活動をしようかな。したいこととかある？」=Wonder what kind of activity we should do today. Is there anything you'd like to do?
 「それじゃ、あなたを誘惑する練習をしてもいい？」=Then, is it okay if I practice seduction on you?
 「ゆ、誘惑？　告白、とかじゃなくて？」=S-Seduction? Not something like a confession?

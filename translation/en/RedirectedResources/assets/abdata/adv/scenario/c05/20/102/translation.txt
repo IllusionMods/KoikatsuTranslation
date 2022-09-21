@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「いい天気だね。からっとしていて、お散歩日和だ」=“Great weather, isn't it? It's so bright and clear, perfect for a walk.”
 「うん。晴天はとても助かる。雨だったり、霧が出ていたりすると、“かれら”との交信に支障が出るから」=“Yeah. Thank goodness it's clear. Things like fog or rain introduce a lot of interference between my contact with "them".”
 「それに天気だと、動物が外を動き回っているから、いつもより話し相手が多くなるの」=“Not to mention, when it's clear out, all sorts of animals start coming out of the woodwork too, so I get a lot more conversation partners.”

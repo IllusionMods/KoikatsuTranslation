@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「最初は怪しいヤツだと思ったけど、キミは悪いヤツじゃないな」=“I used to think you were a real fishy guy but, you're alright.”
 「え、どうして悪いヤツじゃないってわかったの？」=“Eh, what changed your mind?”
 「ニオイで大体わかるぞ」=“Your smell, I can tell that sort of thing.”

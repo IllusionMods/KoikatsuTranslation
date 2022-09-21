@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「えっ……好きって……あれか？　ライクじゃなくて……ラブ的な……」=“Eh--... do you mean... that sort? Like, not just platonic... romantic...?”
 「そう、ラブの方。愛してる」=“That's right, romantic love. I love you.”
 「あっ、えっ、やっ……だ、大胆だな……自信持てとは……言ってたけどぉ……」=“Ah--, eh--, no--... y-you're very bold... I mean, I did... tell you to be more confident, but~...”

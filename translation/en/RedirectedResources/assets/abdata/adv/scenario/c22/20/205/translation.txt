@@ -1,4 +1,7 @@
-﻿「わぁぁ……観覧車からの眺めってこんなに綺麗だったんだ……すっかり忘れてたかも……」=Waah... the view from here was this good, huh... I'd forgotten all about it...
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「わぁぁ……観覧車からの眺めってこんなに綺麗だったんだ……すっかり忘れてたかも……」=Waah... the view from here was this good, huh... I'd forgotten all about it...
 「そんなに乗ってないの？」=Don't ride it that much?
 「うん……小さな頃はよく乗ってた気がするんだけど……もう何年も乗ってないよ。それに、記憶だと外の景色のことはあまり覚えてなくて……」=Yeah... I feel like I used to get on it a lot as a kid but... it's been years since I last did. Not to mention, the view isn't really something that stuck around in my memories.
 「そっか。確かに籠の中のことばかり覚えてるかも……改めて景色を見ると新鮮だよね」=I see. For sure, it's hard to remember much else than the inside of the cab... it always feels fresh to look at the view again, doesn't it?

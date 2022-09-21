@@ -1,6 +1,11 @@
-﻿「ん～……歌いたい曲は、大体歌っちゃったな」=Nn~... I've more or less gone through all the songs I wanted to sing.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「ん～……歌いたい曲は、大体歌っちゃったな」=Nn~... I've more or less gone through all the songs I wanted to sing.
 「たくさん歌ってましたからね。お疲れ様ですっ」=You did sing a whole lot, afterall. Great work--
 「これから、どうしましょう？　延長の時間はまだありますけど……」=What do you want to do next? We still have some of the extended slot left...
+CHOICE:『もうちょっと居ようか』=Let's stay for a bit longer.
+CHOICE:『帰ろうか』=Let's go home.
 「せっかくだしもうちょっと居ようか」=Let's just stay a bit longer, we did come all the way out here.
 「えっと……それでしたら、お話でもしませんか？　今日は歌がメインであまりお話できてないので……」=Erhm... in that case, how about we chat? We haven't chatted all that much today, since we've been singing the whole time...
 「話すのも、もちろんいいんだけど……もっとしたいことがある、みたいな」=Of course, I wouldn't mind chatting but... there's something, I'd much rather do instead.
@@ -19,5 +24,3 @@
 「楽しませてくれたお礼だと思ってよ。それでも不満なら……」=Just think of it as thanks for the fun time. If that's still not good enough...
 「またカラオケに付き合ってよ。それでチャラってことで」=Then just come out karaokeing with me again. We'll call it even with that.
 「……わ、わかりました。それではまた、一緒に来ましょうね」=...O-Okay. Let's come here again then, soon.
-CHOICE:『もうちょっと居ようか』=Let's stay for a bit longer.
-CHOICE:『帰ろうか』=Let's go home.

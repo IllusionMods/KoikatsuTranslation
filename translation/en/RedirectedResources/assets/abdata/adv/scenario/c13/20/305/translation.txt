@@ -1,4 +1,7 @@
-﻿「ねぇ、こーゆー部屋ってさ、間違えて誰かが入って来たりするかな？」=Hey, do you think someone might get the wrong door and walk into the wrong room in this sort of place?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「ねぇ、こーゆー部屋ってさ、間違えて誰かが入って来たりするかな？」=Hey, do you think someone might get the wrong door and walk into the wrong room in this sort of place?
 「うーん、そういうことはないと思うけど……どうかした？」=Mmm, I don't think so... why, something the matter?
 「あのね、ちょっとの間……くっついていい？」=Listen, just for a bit... can I cling to you?
 「っ……うん、もちろん」=--... Yeah, of course.

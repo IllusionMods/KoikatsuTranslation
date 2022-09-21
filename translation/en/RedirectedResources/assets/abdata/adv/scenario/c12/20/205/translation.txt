@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「うわぁ、凄い綺麗だ……観覧車はカップルにオススメって、デートマニュアルに書いてあるのも納得だな」=“Uwah~, it's so beautiful... I can see why these get such glowing recommendations, in dating manuals.”
 「えっ、[H名]もデートマニュアルとか読むんだ？」=“Eh--, you read those date manuals and stuff too?”
 「うぇっ、えっと……い、今のは無しで……その、忘れてくれ」=“Uweh--, erhm... p-pretend I didn't say that... uhm, forget it, please.”

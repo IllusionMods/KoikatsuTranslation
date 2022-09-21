@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 仕切りカーテン=Privacy Curtain
 カーテンレール1=Curtain Rails 1
 カーテンレール2=Curtain Rails 2

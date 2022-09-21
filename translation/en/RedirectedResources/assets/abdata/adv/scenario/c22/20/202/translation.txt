@@ -1,4 +1,7 @@
-﻿「今日のデートは遊園地！　ここで一日遊んじゃおう！」=Today we'll do the amusement park! Let's have fun here for today!
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「今日のデートは遊園地！　ここで一日遊んじゃおう！」=Today we'll do the amusement park! Let's have fun here for today!
 「さんせーい！　すっごく楽しそう！　さっそく色々見てまわろう！」=Let's~! It seems super fun! Let's start looking around!
 「うん、そうしよう！　えーっとまずはどこから……」=Yeah, let's do that! Erhm, where should we...
 「あっ、見て見て！　あそこでピエロの格好した人がバルーンアートやってる！　ちょっと行ってみない？」=Ah, look look! That guy in a clown suit is doing balloon art! Wanna go take a look?

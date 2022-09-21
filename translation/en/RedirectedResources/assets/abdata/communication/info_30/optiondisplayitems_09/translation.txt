@@ -1,5 +1,9 @@
-
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+OPTION[0]:はい=Yes.
 はい=Yes.
+OPTION[0]:いいえ=No.
 いいえ=No.
 OPTION[1]:子供っぽいっていうか…=Not exactly "a kid" but...
 子供っぽいっていうか…=Not exactly "a kid" but...
@@ -90,6 +94,12 @@ OPTION[107]:いいよ=Sure.
 OPTION[107]:ごめん=Sorry.
 OPTION[108]:いいよ=Sure.
 OPTION[108]:ごめん=Sorry.
+OPTION[109]:はい=Yes.
+OPTION[109]:いいえ=No.
+OPTION[200]:はい=Yes.
+OPTION[200]:いいえ=No.
+OPTION[201]:はい=Yes.
+OPTION[201]:いいえ=No.
 OPTION[202]:いいよ=Sure.
 OPTION[202]:ごめん=Sorry.
 OPTION[203]:いいよ=Sure.

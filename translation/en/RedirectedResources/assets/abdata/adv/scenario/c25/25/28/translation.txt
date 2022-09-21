@@ -1,1 +1,4 @@
-﻿「おっ！　これ好きなやつ。ありがとね～」=Oh--! I love this. Thanks~
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「おっ！　これ好きなやつ。ありがとね～」=Oh--! I love this. Thanks~

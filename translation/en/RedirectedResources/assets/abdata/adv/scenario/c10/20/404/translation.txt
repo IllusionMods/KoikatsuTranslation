@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「わ～……すごい、このスイーツ、まるで宝石のようだな……」=“Wah~... amazing, these sweets, they are like gems...”
 「うん、本当に綺麗だね。気のせいか、キラキラ輝いて見えるよ」=“Yeah, they really do look pretty. I feel like they're almost glittering.”
 「うむ、まさしく……ふふっ、食べるのがもったいないな」=“Umu, truly... fufuh--, it feels like a waste to eat them.”

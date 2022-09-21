@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「うーん、まさに快晴って感じだね」=“Mmmm, truly is clear out today, isn't it?”
 「そうね……暑すぎてこのまま溶けちゃいそうよ」=“Yeah... it's so hot I feel like Imma melt.”
 「ははは、確かに。ちょっと木陰で休もっか」=“Hahaha, for sure. Let's rest for a bit under a tree.”

@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「わわ、俺の方が遅かったね……」=“Wawah, I still got here after you...”
 「ふふーっ、私の待ち合わせには勝てないですよ。もう昨日の夜から来る勢いじゃないと！」=“Fufuh--, you cannot hope to win against me. You don't have the willpower to get here the night before!”
 「そんな早くからっ！？」=“THAT EARLY?!”

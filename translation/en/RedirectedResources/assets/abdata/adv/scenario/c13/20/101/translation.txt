@@ -1,4 +1,7 @@
-﻿「ん～！　この公園、とっても綺麗だよね～」=Nn~! This part, it's really pretty, don't you think~
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「ん～！　この公園、とっても綺麗だよね～」=Nn~! This part, it's really pretty, don't you think~
 「ん？　あぁ、そうだね！」=Nn? Ah, yeah, it is!
 （それにしても、今日も[H名]は可愛いな～）=(At any rate, she's adorable as usual today too~)
 「んー、何をジロジロ見てるの～？」=Nn, what are you starting at me so hard for~?

@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「じゃーん！　[H名]さんに食べてもらいたくて、お弁当を作ってきました！」="Tadaa! I was so pumped by thinking of eating with Miss [H名] that I made bento!"
 「ふぅん、ちゃんと人の食べられるものなんでしょうね？　まずは貴方が食べてみなさい、毒味よ」="Huh, I wonder if it's edible by humans. First, you try some, Food taster."
 「そんな警戒しなくても……んっ、もぐ。ほら、食べられるよ？　食べてくれる？」="No reason to get so cautio... Nn.. *munch*. See? It's edible. Want to try?"

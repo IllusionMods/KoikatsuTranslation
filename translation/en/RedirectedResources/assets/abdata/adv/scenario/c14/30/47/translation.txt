@@ -1,1 +1,4 @@
-﻿「その……リードしてくれてありがとな、気持ちよかったぞ」=Uhm... thanks for taking the lead, okay? That felt really good.
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「その……リードしてくれてありがとな、気持ちよかったぞ」=Uhm... thanks for taking the lead, okay? That felt really good.

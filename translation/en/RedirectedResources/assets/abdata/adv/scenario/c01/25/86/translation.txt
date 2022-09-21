@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「今日は、私から一つ提案があるのですが」=“I have a proposal, for today.”
 「おっ、なになに？　言ってみて」=“Oh--, what is it? Tell me.”
 「こう、横に座って、机の下で手を繋ぐというのをやってみたいんです」=“I want to try, sitting across each other like this, and holding hands on top of the desk.”

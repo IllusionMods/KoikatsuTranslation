@@ -1,4 +1,7 @@
-﻿「……最初は怖かったんですけど、あなたに少し慣れたかもしれません」=...I was afraid at first but, I think I've gotten a bit used to you now.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「……最初は怖かったんですけど、あなたに少し慣れたかもしれません」=...I was afraid at first but, I think I've gotten a bit used to you now.
 「え、本当？　それはよかったよ」=Eh, really? I'm glad to hear that.
 「あの……これを機に、男の人が苦手な自分を変えたいです」=Uhm... I want to use this as a chance, and fix my fear of men.
 「こ、これからも、慣れていくために……私と話をしてほしいです」=P-Please help me, get used to men... please keep chatting with me.

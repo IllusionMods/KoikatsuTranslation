@@ -1,4 +1,7 @@
-﻿「二人きりだと、人目を気にしなくていいから楽だね」=When we're alone together, it's way easier to relax since there are nobody's eyes on us, isn't it?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「二人きりだと、人目を気にしなくていいから楽だね」=When we're alone together, it's way easier to relax since there are nobody's eyes on us, isn't it?
 「うん、なんか家にいるみたい。完全にリラックス状態だよ～」=Yeah, feels like we're right at home. A state of complete relaxation~
 （……ちょっと、良いムードになってきたな）=(...The mood's getting pretty nice)
 （試しに、近づいてみよう……）=(Let's try getting closer, as a test...)
@@ -18,5 +21,3 @@
 「はぁ……私にも、ついにこの時が来てしまったのか～……」=Haa... Spring has come, even for me, huh~...
 「……やるからには、気持ちよくさせてね～？」=...If you're gonna do it, make me feel good, okay~?
 「うん、それはもちろんだよ」=Yeah, of course I will.
-
-「あのさ……ここでエッチしてみない？」=Hey, listen... wanna try having sex here?

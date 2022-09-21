@@ -1,1 +1,4 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「もぅ、こんなところでするなんて、見つかったら赤面ものだよ」=“Jeez, doing it in a place like this, if someone saw us, I'd have gone beet red.”

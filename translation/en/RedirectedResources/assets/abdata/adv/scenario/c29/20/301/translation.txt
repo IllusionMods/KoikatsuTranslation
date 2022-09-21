@@ -1,4 +1,7 @@
-﻿「男の人と一緒にカラオケなんて、少し緊張します」=Coming here with a boy, it's making me a bit nervous.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「男の人と一緒にカラオケなんて、少し緊張します」=Coming here with a boy, it's making me a bit nervous.
 「普段は来たりする？」=Do you normally come to karaoke?
 「たまに友人と来るくらいですね」=Sometimes, with friends.
 「そもそも、歌はあまり……」=To begin with, I don't really know all that many songs...

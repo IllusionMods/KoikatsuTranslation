@@ -1,4 +1,7 @@
-﻿「きゃっ！？　もしかして、女子トイレに入ってまで、私に会いに……？」=Kyah--?! Did you come all the way in here, to see me...?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「きゃっ！？　もしかして、女子トイレに入ってまで、私に会いに……？」=Kyah--?! Did you come all the way in here, to see me...?
 「きゃあっ！　いくら私の着替えが見たいからってそんな、強引すぎます♡」=Kyaah--! No matter how much you wanna see me changing, that's way too aggressive♡
 「ごめんなさい、小説を書かないといけないので……」=I'm sorry, I have to work on my novel...
 「少し混乱しているので、お話は避けていたんですけれど……」=My mind's in a bit of jumble, so I've been avoiding talking to you but...

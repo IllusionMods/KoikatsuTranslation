@@ -1,0 +1,41 @@
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+モブ=Mob
+「それではこれより、式を執り行います」=Then without further ado, let's start the ceremony.
+「新たなご出発の証として、お二人には誓いの言葉を立てていただきます」=As the proof of a fresh departure, you both have to make certain vows.
+（……身が引き締まるな）=...My body's getting stiff.
+牧師=Pastor
+「[P名]さん、あなたはこの女性とお付き合いし、より親密な関係になろうとしております」=Mr. [P名], You have been going out with this woman for a while now. And now you are proceeding towards an even closer relationship.
+「あなたは健康なときも、そうでないときも、お互いの気持ちが続く限り――」=Will you, in sickness or in health, as long as your feelings stand--
+「この人を守り、笑顔を絶やすことなく幸せにすることを誓いますか？」=protect this woman, and vow to become her happiness?
+「はい、誓います」=Yes, I vow.
+「[H名]さん、あなたはこの男性とお付き合いし、より親密な関係になろうとしております」=Miss [H名], You have been going out with this man for a while now. And now you are proceeding towards an even closer relationship.
+「……は、はい、誓います！」=...Y-Yes, I vow!
+「それでは、二人の愛の証として、誓いのキスをお願いします」=Then, without further ado, as the proof of your love, seal these vows with a kiss.
+「よ、よ、よし！　次はキスすればいいんだな！」=A-A-Alright! We just need to kiss now, right!?
+「……ってキスすんのか！？　ど、どうしよう、まだ心の準備ってヤツが……」=...Wait, we're gonna kiss!? W-What do I do, my heart's still not...
+「大丈夫だよ。落ち着いて、[H名]」=It's alright. Relax, [H名].
+「な、なんだよ……こういう時に限って、私を女の子みたいに扱いやがって……」=W-What's with you... why is only at times like these, that you start treating me like a girl...
+「はは、俺だって、たまには[H名]をリードしてあげないとね」=Haha, even I gotta take the lead sometimes, [H名].
+「う、うるせえよ……てめえに心配されなくたってやれるっての」=S-Shaddup... I can do this, I don't need you worrying about me.
+「つーか、お前、あんまりこういうの緊張しないんだな」=Heck, this sort of thing doesn't really phase you, does it?
+「緊張してないわけじゃないけど、[H名]に格好悪い姿は見せられないからね」=It's not like I'm not nervous either, but I can't exactly put on a pathetic showing in front of you, now can I?
+「なーんだ、ただのカッコつけかよ」=What, so it's just you putting on a tough act, huh?
+「……ま、お前のそのガッツは、認めてやってもいいぜ」=...Well, I don't mind acknowledging that you've got a pair.
+「えっ、それ、褒めてくれてるの？」=Eh--, are you complimenting me there?
+「ほ、褒めてねーよ！　勘違いしてんじゃねーよ！」=H-Hell no! Don't go misunderstanding now!
+「ご、ごめん……！」=S-Sorry...!
+「……まあでも、お前が気張ってんのを見てたらよ」=...Well, but, when I look at you, going all out here.
+「たまにはこいつに頼ってみるのも悪くねえ、って思えてくるんだ」=I can't help but think, that maybe relying on you every so often, might not be such a bad idea.
+「一緒にいると安心できるっていうかな……お前のこと、信頼してるぜ」=When we're together, it really calms me down... I have faith, in you.
+「[H名]……ありがとう。愛してるよ！」=[H名]... thank you. I love you!
+「い、いや、そんなこと……面と向かって言うなよ……調子、くるっちまう……」=N-No, don't... don't say that straight to my face... you're gonna, mess up my head...
+「あー、ほら、さっさと誓いのキスをしちまうぞ？」=Aah, c'mon, we gotta do that kiss, you know?
+「うん、そうだね」=Yeah, we do.
+「んんっ……ん……」=Nn--... nn...
+………………=.........
+…………=......
+……=...
+「……私も、お前を愛してるぜ」=...I love you too.
+「うん！　これからも、よろしくねっ！」=Yeah! Do take care of me, in the future--!

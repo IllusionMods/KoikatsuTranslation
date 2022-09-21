@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「ねぇ、今って時間あるかな？　話があるんだ」=“Hey, do you have time right now? I wanna chat with you.”
 「え？　……少しの間なら」=“Eh? ...I guess a little bit, sure.”
 「ありがとう。この後は、なにか予定があるの？」=“Thanks. Are you doing something after this?”

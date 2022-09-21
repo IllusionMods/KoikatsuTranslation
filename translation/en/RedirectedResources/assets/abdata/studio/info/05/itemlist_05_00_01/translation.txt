@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 角リング(キャラ)=Angled Ring (Character)
 立体半円(キャラ)=Solid Hemisphere (Character)
 立体四半円(キャラ)=Solid Quadrasphere (Character)

@@ -1,4 +1,9 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「あ、もうこんな時間……ただ二人でいるだけで、あっと言う間に時間が過ぎちゃったですよ……」=“Ah, it's already so late... time flew by so fast, all because we were together...”
+CHOICE:『まだ時間ある？』=Still got some time?
+CHOICE:『そろそろ戻ろっか』=Let's go home now.
 「そうだね。さっきまで青空だったのに、もう夕方だ……あのさ、[H名]さえ良かったら、もう少しだけ一緒にいない？」=“Yeah. The sky was blue just a few minutes ago, and yet... hey, if it's alright with you, wanna spend a bit more time together?”
 「ふぇ？　はいです！　私なら全然大丈夫ですよ！　遅くなるって伝えてきてるです！」=“Fueh? I'd love to! It's not a problem at all! I've told my parents that I'd stay out till late!”
 「だったら良かった。[H名]と一緒に見たいものがあるんだ」=“Good then. There's something I wanna see with you.”
@@ -8,6 +13,3 @@
 「あ……はいですっ！　そうですよね！　私、今日のことばかり考えちゃってたです！」=“Ah... yes--! Right! I ended up just focusing on today!”
 「これからもたくさん、あなたとの時間を楽しんでいきたいですよ」=“I want to spend and enjoy lots more time together with you.”
 「うん、俺もだよ」=“Me too, [H].”
-
-CHOICE:『まだ時間ある？』=Still got some time?
-CHOICE:『そろそろ戻ろっか』=Let's go home now.

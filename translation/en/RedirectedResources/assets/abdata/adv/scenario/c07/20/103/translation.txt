@@ -1,4 +1,9 @@
-﻿「気づいたら、もう日が暮れそうだな」=Aaaand the sun's already going down.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「気づいたら、もう日が暮れそうだな」=Aaaand the sun's already going down.
+CHOICE:『まだ時間ある？』=『You still got time?』
+CHOICE:『そろそろ帰ろうか』=『Maybe we should start heading back』
 「まだ、時間あるかな？」=You still got time?
 「あるけど……まだ遊ぶのか？　暗くなっちまうぞ」=I do but... you still wanna hang around? It'll get real dark, you know?
 「実はさ、[H名]に見せたいものがあるんだ」=Actually, there's something I wanna show you, [H名].
@@ -11,6 +16,3 @@
 「そんなこと言われたら、本当に照れちまうだろ……」=If you say something like that, I really will start blushing, you know...
 「つーか、待て待て！　そういう[P名]も顔真っ赤じゃないか！」=Or rather, wait a minute! Your face is completely red too!
 「ははっ、二人して頬染めて、照れてるみたいだ」=Haha--, the way we're both flushed, it's like we're blushing.
-
-CHOICE:『まだ時間ある？』=『You still got time?』
-CHOICE:『そろそろ帰ろうか』=『Maybe we should start heading back』

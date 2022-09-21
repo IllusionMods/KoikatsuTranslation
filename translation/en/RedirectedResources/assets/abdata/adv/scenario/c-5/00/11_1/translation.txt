@@ -1,5 +1,9 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+舞=Mai
 「あのね、お返事をする前に……一つだけ、[P名]君に確認したいことがあるの。いいかな？」=Actually, before I reply... there's something I need to check with you first, [P名]. Are you ready?
-「俺に？　うん、なに？」=With me?　Sure, what is it?
+「俺に？　うん、なに？」=With me? Sure, what is it?
 「……実は[P名]君、もう彼女さんがいらっしゃいますよね？」=... Actually, [P名], you already have a girlfriend, don't you?
 「っ……」=Uh...
 「あーっ、その反応っ！　やっぱりそうなんだっ！」=Aww, that reaction! I knew it!
@@ -19,5 +23,3 @@
 （確かに俺……不誠実……だよな）=(Surely I'm... Cheating... Right?)
 完全に自業自得ながら、がっくりと落ち込んでしまう。=It's my own fault, but I totally deserved it...
 もしもまた機会があれば……その時はきちんと誤解を解けるように頑張ろう。=The next chance I get... I'll make sure to clear up any misunderstandings.
-
-舞=Mai

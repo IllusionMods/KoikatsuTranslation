@@ -1,7 +1,12 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「混んできましたね」=“It's started getting rather packed, hasn't it?”
 「大丈夫？　もっとこっちに来ていいよ」=“You alright? You can scooch closer to me.”
 「おわっ……」=“Uwah--...”
 （わ……こんな体勢になったら……性欲が抑えられなくなる……！？）=(Wah... a posture like this... I won't be able to hold in my horniness...!)
+CHOICE:『欲望に流される』=Get swept away by your desires.
+CHOICE:『必死に我慢する』=Desperately endure.
 （っ……股間が……どんどん膨らんで……！）=(...My crotch is... getting bigger and bigger...!)
 「大丈夫ですか？　……！？　あの……これは……」=“Are you okay? ...?! Uhm... this is...”
 「ごめん、その、意識しちゃって……」=“Sorry, it's uhm, I can't help it...”
@@ -12,6 +17,3 @@
 （っ……！　さ、流石にここで勃たせるのは……！）=(--...! P-Popping a chub here really wouldn't be the most gentlemanly thing...!)
 （[H名]の信頼を裏切らないためにも、ここは絶対我慢しないと！）=(I can't betray all the trust she's put in me, I gotta hold it in!)
 （と、とりあえず別のこと考えて気を紛らわせておこう……）=(F-For now, let's try to distract myself with something else...)
-
-CHOICE:『欲望に流される』=Get swept away by your desires.
-CHOICE:『必死に我慢する』=Desperately endure.

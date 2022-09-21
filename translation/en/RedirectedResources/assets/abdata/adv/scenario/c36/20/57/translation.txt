@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「他人の視線なんて、気にした事がなかったけれど。今日は少しだけ気になるわね」="I never cared about other people's glances, but today... I do just a little bit."
 「あ、えっと、凄く綺麗だよ！　[H名]さんの私服が見れて幸せ」="Ah, um... You look stunning! I'm so happy to see Miss [H名] in casual clothes!"
 「は？　私が気にしているのは周りの事よ。貴方のような人を連れていて、どう思われるかってね」="Huh? I meant people that are around. What will they think when they see me with you."

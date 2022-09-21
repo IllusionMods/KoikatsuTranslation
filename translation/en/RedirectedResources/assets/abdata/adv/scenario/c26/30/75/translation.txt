@@ -1,4 +1,6 @@
-
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
 「……っ、やったぁ！　一位だ！」="...I won! First place!"
 「……むぅ」="...Yay."
 「じゃあ約束のジュース、お願いね」="Okay, where's the thing you promised?"

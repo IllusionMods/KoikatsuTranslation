@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 ………………=.........
 …………=......
 ……=...
@@ -8,6 +11,9 @@
 「本当はもっとああしようとか、こうしようとか色々プランを考えてたんだけどさ。残念」=“I actually had planned out a lot more stuff, you know? This and that, and whatnot. What a shame.”
 「……そのプランは……次のデートの時でも……いいけど？」=“...We could... do that stuff... on our next date too, though?”
 （どうしよう。次がいつになるかわからないし、だったら今からでも……）=(What do I do? God knows when our next date will be, I might as well...)
+CHOICE:『自宅に誘う』=Take her to your place.
+CHOICE:『ラブホに誘う』=Invite to love hotel.
+CHOICE:『さよならする』=Say goodbye.
 「……俺、もっと[H名]と一緒にいたい」=“...I wanna be with you more, [H].”
 「実は、俺の部屋で一緒に過ごしたいって考えてたんだ。だから……いい？」=“I was actually thinking of spending some nice time together with you at me place. So... could we?”
 「……ん」=“...Nn.”
@@ -32,7 +38,3 @@
 「ふふっ、可愛いな……ありがとう。デートの思い出に[H名]の写真を撮りたかったんだ」=“Fufu, so cute... thank you. I wanted to take a picture of you, as something to remember this date by.”
 「それじゃあ、また学園でね。ばいばい」=“Well then, see you at school. Byebye.”
 「んぅ……ばいばい」=“Nn... byebye.”
-
-CHOICE:『自宅に誘う』=Take her to your place.
-CHOICE:『ラブホに誘う』=Invite to love hotel.
-CHOICE:『さよならする』=Say goodbye.

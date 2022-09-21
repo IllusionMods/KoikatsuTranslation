@@ -1,4 +1,7 @@
-﻿「ねぇねぇ部長さん……私、したいことがあるのだけれど」=Hey, Mr. President... there's something I wanna try out.
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「ねぇねぇ部長さん……私、したいことがあるのだけれど」=Hey, Mr. President... there's something I wanna try out.
 「[H]から提案なんて珍しいな！　何をしたいんだい？」=An idea from you for once! What do you wanna try out?
 「……み、耳かき」=...E-Ear cleaning.
 「えっ……！　み、耳かきはまた今度の……」=Eh--...! H-How about we do that some other...

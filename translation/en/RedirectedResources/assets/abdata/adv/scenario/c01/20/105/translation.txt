@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「これは……」=“This is...”
 「[H名]と一緒に見たかったんだ」=“I wanted to see this with you.”
 「なんて、綺麗なんでしょう……！　こんなところがあったんですね」=“It's so, beautiful...! A place like this existed, huh?”

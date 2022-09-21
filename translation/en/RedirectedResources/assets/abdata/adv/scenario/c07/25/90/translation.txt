@@ -1,4 +1,7 @@
-﻿「なあ、愛称ほしい」=Hey, I want a nickname.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「なあ、愛称ほしい」=Hey, I want a nickname.
 「……急だね」=...That's a bit sudden.
 「だって普通恋人同士は愛称で呼ぶもんだろ！？　私の知ってるドラマや漫画は全部そうだ！」=I mean, couples normally call each other by nicknames, don't they!? All the ones in the manga I read or the TV dramas I watch do that!
 「まあ、確かにそうかもね。じゃあちょっとお互いの愛称を考えてみよっか」=Well, that might be true, yeah. Then, wanna think about nicknames for each other for a bit?

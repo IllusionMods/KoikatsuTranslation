@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「こうやって電車が進むたび、遊園地遠ざかっていってるんだよね……切なくなるなぁ……」=Everytime the train goes further along, the amusement park gets further away... I feel sad...
 「同意はするが、情けなく肩を落とすのはやめろ。目立っているぞ？」=While I agree with you, stop drooping your shoulders pathetically like that. You're standing out a lot, you know?
 「うぅ、だって……遊園地が恋しくて……」=Uuu, but... I love the amusement park...

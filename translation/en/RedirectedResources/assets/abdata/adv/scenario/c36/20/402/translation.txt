@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「はぁ、喫茶店まで来て、何故コーヒーではなくウーロン茶を頼むの？　やっぱり貴方センスないわね」="*Sigh* we've come to a coffee shop, so why are you ordering Oolong tea? As expected, you have no sense."
 「い、いいでしょ。ウーロン茶だって美味しいよ？」="W-whatever. Oolong tea is great, you know?"
 「ウーロン茶に罪はないわ。美味しいのも認める。私が言っているのは貴方のセンスの話よ」="Picking an Oolong tea isn't a sin. I agree with that it's good. But what I'm saying is, you lack sense."

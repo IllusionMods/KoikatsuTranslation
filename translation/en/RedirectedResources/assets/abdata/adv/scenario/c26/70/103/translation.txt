@@ -1,0 +1,15 @@
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「あっ……もう、こんな時間。周りが、オレンジに……」=“Ah--... it's already, so late. Everything is, orange...”
+CHOICE:『見せたいところがあるんだ』=There's a place I wanna check out with you.
+CHOICE:『暗くなる前に帰ろうか』=Let's go home before it gets dark.
+「実は一緒に見たいところがあるんだ。時間は、まだ大丈夫？」=“There's actually a place I wanna check out with you. Are you, good on time still?”
+「大丈夫……。一緒に見たいものって何？」=“Yeah... What place is it?”
+「それは着いてからのお楽しみってことで」=“That's a surprise till we get there.”
+「暗くなる前に、今日は帰ろうか」=“Let's go home, before it gets dark.”
+「結構歩いたよね。足、大丈夫？　疲れてない？」=“We walked a lot, didn't we? Are your feet okay? Tired?”
+「大丈夫……これくらいなら、平気」=“They're okay... I can, handle this much.”
+「本当に？　無理な時はちゃんと言ってね。[H名]はあんまりしゃべらないからさ」=“Really? If it's too much, make sure to let me know, okay? You don't say much, so I get worried.”
+「うん……わかった」=“Yeah... okay.”
+「約束だからね。よし、駅まで手を繋いで帰ろっか」=“It's a promise, okay? Alright, let's go to the station while holding hands.”

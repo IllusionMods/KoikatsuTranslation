@@ -1,4 +1,7 @@
-﻿「初めて乗ったときはすごく怖がってたけど……観覧車はもう怖くはない？」=You were really scared the first time we got on this ferris wheel... are you okay now?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「初めて乗ったときはすごく怖がってたけど……観覧車はもう怖くはない？」=You were really scared the first time we got on this ferris wheel... are you okay now?
 「怖さがないわけではないですけれど、[P名]さんと一緒なら大丈夫です」=It's not like I'm not scared at all but, I can handle it if I'm with you, [P名]-san.
 「それは……良かった」=That's... great to hear.
 「はいっ」=Yes--

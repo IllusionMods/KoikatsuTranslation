@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「いいけど、どこに連れ去られるのかしら？」=That's fine, but are you going to kidnap me?
 「いやいや、別に連れ去ろうとしてるわけじゃないよ」=No no, nothing of the sort! It's just a date.
 「ふふ、冗談よ。でも、ちょっとくらい強引な方がカッコいいかも……なんて」=Fufu~, It's just a joke. But, you know, I think people that are slightly pushy are very cool...

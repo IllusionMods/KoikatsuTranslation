@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 回転音=Rotation
 雨音=Rain
 バイブ音=Vibrator

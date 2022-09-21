@@ -1,4 +1,7 @@
-﻿「……また……あなたとここに来れましたね」=...We came... here again, huh?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「……また……あなたとここに来れましたね」=...We came... here again, huh?
 「そうだね。また一緒にって、初めて来たときに言ってたの、今でも覚えてるよ」=Sure did. I still remember, how the first time we came here, we said we'd do it again.
 「私も、忘れてないです。ふふっ、恋人だから何度でも来れるって……」=I've not, forgotten it either. Fufu--, how since we're a couple, we could come as many times as we wanted to...
 「私達、今も……こ、恋人なんですよね」=We're still, to this day... a c-couple, aren't we?
@@ -16,6 +19,8 @@
 「あ、[P名]さん！　あの、えっと……あそこの光、な、なんでしょうね！？　お、お店とかでしょうか！？」=Ah, [P]-san! Uhm, erhm... that light, w-what do you think it is!? I-I wonder if it's a shop!?
 「ははっ、そんなに慌てなくてもいいのに」=Haha--, you don't need to get so flustered over it.
 「そ、それはいきなり……は、恥ずかしい話をされたので……」=T-That's because you... b-brought up something so embarrassing so suddenly...
+CHOICE:『また、エッチしない？』=How about we have sex again?
+CHOICE:『ゴメン、困らせちゃったね』=Sorry, I always trouble you.
 「恥ずかしい、か……そっか、またエッチしたいなと思ってたけど……ダメかな」=Embarrassing, huh... I see, I was in the mood for some more sex but... guess that one's a no go.
 「え？　あ、あの……恥ずかしい、ですけど、ダメとは……」=Eh? U-Uhm... it is, embarrassing but, I didn't say that we cou...
 「それじゃあゆっくり夜景を眺めて……」=Well then, let's just enjoy the view here...
@@ -35,5 +40,3 @@
 「手、とか、繋いでみませんか？　」=Won't you, hold my hand?
 「それくらい、お安い御用だよ」=No problem.
 「ありがとうございます！　なんだか……安心、します」=Thank you very much! It makes me feel... relaxed, safe.
-CHOICE:『また、エッチしない？』=How about we have sex again?
-CHOICE:『ゴメン、困らせちゃったね』=Sorry, I always trouble you.

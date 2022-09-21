@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「こ、ここで何してるですか！？」=“W-What are you doing here!?”
 「ふぇっ！？　どうしてこんなところにあなたが！？」=“Fueh--?! Why are you in here?!”
 「今、急いでるですので」=“I'm in a rush right now, so.”
@@ -560,5 +563,3 @@
 「ひあっ！　ここは入っちゃダメです！　早く出て行くですよっ」=“Hyah--! You can't come in here! Please leave right now--”
 「どーして入ってきてるですかっ？　も、もしかして会いに来てくれたですか？」=“Just why're you coming in here--? W-Wait, did you come to see me?”
 「入ってきちゃダメなのです！　ほら、出て行くですよ」=“You can't come in here! C'mon, you need to leave~”
-
-//"「はぅっ！　わ、わかりました。えっと……[Pあだ名]。\n不意に呼ばれたからドキッとしたですよー……」"=

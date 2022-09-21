@@ -1,0 +1,38 @@
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+モブ=Mob
+「それではこれより、式を執り行います」=“Then without further ado, let's start the ceremony.”
+「新たなご出発の証として、お二人には誓いの言葉を立てていただきます」=“As the proof of a fresh departure, you both have to make certain vows.”
+（……身が引き締まるな）=(...My body's getting stiff.)
+牧師=Pastor
+「[P名]さん、あなたはこの女性とお付き合いし、より親密な関係になろうとしております」=“Mr. [P名], You have been going out with this woman for a while now. And now you are proceeding towards an even closer relationship.”
+「あなたは健康なときも、そうでないときも、お互いの気持ちが続く限り――」=“Will you, in sickness or in health, as long as your feelings stand--”
+「この人を守り、笑顔を絶やすことなく幸せにすることを誓いますか？」=“protect this woman, and vow to become her happiness?”
+「はい、誓います」=“Yes, I vow.”
+「[H名]さん、あなたはこの男性とお付き合いし、より親密な関係になろうとしております」=“Miss [H名], You have been going out with this man for a while now. And now you are proceeding towards an even closer relationship.”
+「……はい、誓います」=“...Yes, I vow.”
+「それでは、二人の愛の証として、誓いのキスをお願いします」=“Then, without further ado, as the proof of your love, seal these vows with a kiss.”
+「なんだかんだで、今日は[H名]と、こうしてウェディング体験ができてよかったよ」=“This was an entire ride but, I'm glad I got to take part in this with you today, [H名].”
+「あっ！　あたしもちょうど、そう思ってたところだぞ」=“Ah--! I was just thinking that too.”
+「最初は、なんとなく興味本位で、やってみたいって言っただけなんだけどなー」=“Even though at first I only really said yes out of curiosity more than anything else.”
+「あはは、そうだったんだ」=“Ahaha, that so, huh?”
+「うん。でも、式を進めてく内に、なんだかキミがどんどんかっこよく見えて……」=“Yeah. But, the further we went into the ceremony, the cooler you started looking to me...”
+「いつの間にか、これが本当の結婚式だったら……って思うようになってたぞ」=“Before I knew it, I started thinking that maybe it wouldn't be so bad... if this was a real wedding ceremony.”
+「[H名]……」=“[H名]...”
+「俺も、意外に[H名]にウェディングドレスが似合ってて、見惚れちゃったよ」=“You also looked surprisingly good in that wedding dress, it really charmed me.”
+「そうかー……ん？　意外に？　さっきと言ってること違くないか？」=“I see... Hm? "surprisingly"? Did I hear you right there?”
+「あっ、いや！　思ってたよりも更に、ずっと綺麗だったってこと」=“Ah--, no! I meant that you looked way more beautiful, than you did even in my imagination.”
+「[H名]ほど綺麗な女の子なんて、他にはいないんだから」=“There's no other girl as beautiful as you out there, afterall.”
+「……ありがとう。キミにそう言われるのが、一番嬉しいなー」=“...Thank you. Hearing you say that, is what makes me happy most of all.”
+「キミも、タキシードが意外に似合ってたぞ」=“You look surprisingly dashing too, in that tuxedo.”
+「はははっ、ありがとう」=“Hahaha--, thanks.”
+「それに、見た目だけじゃなくて……中身も」=“And I wasn't just talking about your appearance... I was talking about you too.”
+「いつもあたしのことを考えてくれて、楽しませてくれて……」=“You're always thinking of me, trying to make sure I have a good time...”
+「あたしにとって、キミは最高の彼氏だぞ！　これまでも、それに、これからも……」=“You're the best boyfriend I could have! The best boyfriend till now, and from now on, in the future too...”
+「[H名]……うん、これからもずっと、一緒にいよう！」=“[H名]... yeah, let's stay together forever!”
+「んんっ……」=“Nnn--...”
+………………=.........
+…………=......
+……=...
+「今度は、本当の結婚式をしようなー」=“Let's have a real wedding one of these days, okay?”

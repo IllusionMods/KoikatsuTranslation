@@ -1,4 +1,7 @@
-﻿「今日はいったい、どのようなデートになるのか――楽しみです」=I'm really looking forward to seeing just how our date today will turn out.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「今日はいったい、どのようなデートになるのか――楽しみです」=I'm really looking forward to seeing just how our date today will turn out.
 「うん、俺も。じゃあ早速行こうか」=Yeah, me too. Let's set off then.
 「どうしたの？　こっちをじっと見て」=What's up? You've been staring for a while, is something wrong?
 「い、いえ……並んで歩く横顔が素敵だと……」=N-No... your side profile just looks so lovely...

@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「何か憧れのシチュエーションってないかな？」=“Don't you have lovey dovey situations you'd love to act out?”
 「えっ！　あたしか？　う、うーん……後ろからハグ……とか？」=“Eh--! Me? N-Nnn... a hug from behind... something like that?”
 「おぉ！　それいいね！　なんかすっごく乙女っぽいていうか」=“Ooh! That sounds nice! Sounds so girly and stuff.”

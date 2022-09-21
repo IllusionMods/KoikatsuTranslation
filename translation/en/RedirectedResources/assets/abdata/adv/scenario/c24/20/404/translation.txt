@@ -1,4 +1,7 @@
-﻿「じゃあ、食べようか」=Well then, shall we eat?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「じゃあ、食べようか」=Well then, shall we eat?
 「はい♡　……あ♡　あの、もしあなたが嫌じゃなかったら、やってみたいことがあるんですけど……♡」=Yes♡ ...Ah♡ Uhm, there's something I'd really like to try, if you wouldn't mind...♡
 「？」=?
 「一緒に『いただきます』してもいいですか？　男の人と付き合ったら、やりたいことだったんです♡　同じテーブルで向き合って、ニコニコ笑い合いながら♡」=Could we say "I'm digging in", together? It's something I've always wanted to try, with a boy♡ On the same table, facing each other, while laughing♡

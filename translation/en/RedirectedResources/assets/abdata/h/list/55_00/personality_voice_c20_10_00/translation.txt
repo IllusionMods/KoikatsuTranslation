@@ -1,4 +1,7 @@
-﻿や、やめて、下さい、放してください=P-Please, stop this, please let me go.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+や、やめて、下さい、放してください=P-Please, stop this, please let me go.
 い、いやです……もう、許して、下さい=N-No... please, let me, go.
 だ、だめです…乱暴な事、しないで、下さい…=D-Don't... please do not, be, violent...
 ま、待って、下さい…そんなの、だめです=P-Please, wait... you really mustn't, do that.

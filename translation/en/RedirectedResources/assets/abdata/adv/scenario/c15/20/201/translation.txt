@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「なーなー、あの箱の中にある人形、すっごくかわいくないかー？」=“Hey, don't you think that doll's super cute? The one in that box.”
 「箱？　……ああ、クレーンゲームね。人形は遊園地のマスコットキャラじゃないかな」=“Box? ...Aah, the crane game, huh. Doesn't that doll seem to be the park's mascot?”
 「あたし、あんまり景品を取れた記憶がないなー」=“I can't really remember ever getting anything out of these games.”

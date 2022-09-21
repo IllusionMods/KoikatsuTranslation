@@ -1,4 +1,7 @@
-﻿「えぇっ！？　どうして君がここにいるのー！？」=Eeh--!? Why are you in here?!
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「えぇっ！？　どうして君がここにいるのー！？」=Eeh--!? Why are you in here?!
 「ちょ、ちょっとっ！　こんなとこに来ちゃダメだってば！」=H-Hey--! You can't come in here!
 「これからちょっと用事があるんだ」=I've got some things to take care of.
 「何か用ですか？」=Do you need something?
@@ -89,6 +92,7 @@
 「私、みんなから流行に流されやすいって言われるんだけど、そうなのかな？」=People always say to me, that I get swept up in all the new fashion trends way too easily, do you think so too?
 「うーん、やっぱりそうなのかな。自分じゃよく分かんないね」=Mmm, it must be true then. It's hard to tell myself, you know?
 「だよねだよね。きちんと自分で選べてるよねー」=Right, right? I only follow the ones I like~
+「えー、そっかー。ちょっとショックだなー」=Eh, I see~. That's a bit of a shock.
 「もしかして君って動物好きだったりする？　あ、違ったらごめんね」=Do you like animals, by any chance? Ah, if I have it wrong, I'm sorry.
 「やっぱり！　私も好きだから、動物好きな人って分かっちゃうんだー」=I knew it! I love them too, so I had a feeling.
 「ふふ、良かった……実はね、私も苦手なの。小さい頃にトラウマがあって……」=Fufu, great... I can't handle them either, actually. When I was a kid...

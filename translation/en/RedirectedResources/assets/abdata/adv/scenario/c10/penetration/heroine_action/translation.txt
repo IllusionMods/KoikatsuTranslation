@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「えっと……混ざりたいの？　[H名]はどうしたい？」=“Erhm... you wanna join us? What do you wanna do, [H]?”
 「え？　そ、それは、３人で交わるということか……？　ま、まぁ、我は構わぬが……」=“Eh? T-That's, is this going to be a threesome then...? W-Well, I do not mind...”
 「えっと……混ざりたいの？　……どうする？」=“Erhm... you wanna join us? ...What do you say?”

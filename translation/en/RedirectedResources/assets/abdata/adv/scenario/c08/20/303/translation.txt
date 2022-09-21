@@ -1,5 +1,10 @@
-﻿「もうこんな時間か……」=Already this late, huh...
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「もうこんな時間か……」=Already this late, huh...
 「あっ、本当だ！　どうする？ この後」=Ah--, you're right! What do you wanna do?
+CHOICE:『延長しよう』=『Let's extend』
+CHOICE:『終わりにしよっか』=『Shall we wrap it up?』
 「延長しよう。[H名]の歌声を聴いてたいからさ」=Let's extend. I wanna keep listening to you sing, [H].
 「えへへ、それじゃ、まだまだ歌っちゃうよぉ」=Ehehe, well then, I'll sing a ton more.
 「今日はこれぐらいにしとこうか」=Let's wrap things up here for today.
@@ -10,6 +15,3 @@
 「よし、合いの手は任せて！」=Alright, leave the cheering to me!
 『何度も何度も何度も何度も迷って つまづいても♪』=『No matter how many, how many, how many, how many times I lose my way♪』
 「Ｙｅａｈ、Ｙｅａｈ！」=Yeah, Yeah!
-
-CHOICE:『延長しよう』=『Let's extend』
-CHOICE:『終わりにしよっか』=『Shall we wrap it up?』

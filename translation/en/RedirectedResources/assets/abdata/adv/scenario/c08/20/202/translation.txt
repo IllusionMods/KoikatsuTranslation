@@ -1,4 +1,7 @@
-﻿「えへへ、これからどうしよっか？」=Ehehe, where should we go from here?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「えへへ、これからどうしよっか？」=Ehehe, where should we go from here?
 「そうだな……小腹も空いたし売店で何か買って食べるか」=Good question... I'm starting to get a bit hungry myself, so maybe we should grab a bite to eat from a stand.
 「[H名]は何が欲しい？」=What would you like, [H名]?
 「何でもいいよぉ。[P名]君に任せる」=I'm fine with anything. I'll leave it to you, [P]-kun.

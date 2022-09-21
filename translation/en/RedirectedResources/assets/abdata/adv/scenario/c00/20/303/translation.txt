@@ -1,4 +1,9 @@
-﻿「あぁん、もうすぐ終わりの時間ね」=Aahn, our time's almost up, huh?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「あぁん、もうすぐ終わりの時間ね」=Aahn, our time's almost up, huh?
+CHOICE:『歌い足りなさそうだね』=『Don't feel like I've had enough.』
+CHOICE:『帰る仕度をしよっか』=『Shall we start getting ready to go home?』
 「歌い足りない感じだね」=Don't feel like I've had enough.
 「うふふ、そうなの。もっと歌いたい気分なのよね」=Ufufu, me too. Just can't help but want to sing more, can you?
 「じゃ、もうちょっと歌おうよ。延長の電話、入れておくね」=Well then, let's sing for a bit longer. I'll put in the call for an extension, okay?
@@ -10,6 +15,3 @@
 「いいの？　じゃあ、遠慮なく♪」=You sure? Then, I won't hold back♪
 『小さな手の平 掴める物はきっと限られているけど♪』=『This small hand, the things it can grasp, they are surely limited, but~♪』
 「Ｙｅａｈ　Ｙｅａｈ！」=Yeah yeah!
-
-CHOICE:『歌い足りなさそうだね』=『Don't feel like I've had enough.』
-CHOICE:『帰る仕度をしよっか』=『Shall we start getting ready to go home?』

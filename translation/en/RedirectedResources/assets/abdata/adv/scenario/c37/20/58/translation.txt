@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「本日もよろしくお願いします」=Please take care of me today as well.
 「うん、それじゃ行こっか」=Yeah, well then, let's go.
 「公園でゆっくりするのも良いね」=Taking it easy at the park is nice too.

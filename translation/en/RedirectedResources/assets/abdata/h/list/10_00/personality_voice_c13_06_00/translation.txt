@@ -1,4 +1,7 @@
-﻿これくらいで……うん、良さそうだね？=This much... yeah, you like this, right?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+これくらいで……うん、良さそうだね？=This much... yeah, you like this, right?
 早い方が好きなの？=Do you like it faster?
 んしょ……気持ちいいかな？★=*Whew*... does it feel good?
 どう？　んふふ～　気持ちいい？=How is it? Nnfufu~, does it feel good?

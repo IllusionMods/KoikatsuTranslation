@@ -1,4 +1,7 @@
-﻿「わぁ～、美味しそう。見てるだけで満足しちゃうよ～」=Wah~, looks delicious. I feel satisfied already just looking at it~
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「わぁ～、美味しそう。見てるだけで満足しちゃうよ～」=Wah~, looks delicious. I feel satisfied already just looking at it~
 「じゃあ口に入れたら、どうなるか楽しみだね。ほら、早く食べてみて」=Now I'm looking forward to seeing your impressions after actually putting it in your mouth. Come on, try eating it.
 「は～い、いただきま～す」=Yes~, I'm digging in~
 「あむっ、ん～～っ、美味し～！　ほっぺが落ちちゃいそう～」=*ahmuh*, nnnn~~, delicious~! Absolutely delish~

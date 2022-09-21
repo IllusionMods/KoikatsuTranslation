@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「わぁぁ！　すっごく美味しそう！　見た目も華やかですーっ！」=“Waaah! It looks super delicious! Looks so fancy!”
 「本当だ。メニューの写真以上に美味しそう」=“Huh, it does. Looks even more delicious than the picture.”
 「ですです！　早速食べるですよ！　はむっ……ふふーっ、味も美味しいー！」=“It does, it does! I'mma dig in right away! *bite*... fufu~, it tastes delicious too!”

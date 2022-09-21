@@ -1,4 +1,7 @@
-﻿「……間違えて入ったわけじゃないよね？　」=...You didn't walk in here by accident, did you?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「……間違えて入ったわけじゃないよね？　」=...You didn't walk in here by accident, did you?
 「……あまりいい趣味とは言えないわね、今なら怒らないから、出なさい」=...Can't say I approve of this hobby of yours. Take this chance to leave, and I won't get mad at you.
 「ごめんなさい、私急いでるの」=I'm sorry, I'm in a rush right now.
 「……どうしたの？」=...What is it?

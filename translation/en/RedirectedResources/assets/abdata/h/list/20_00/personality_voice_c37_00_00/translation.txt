@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 始めましょうか=Let's get started, shall we?
 どうぞ、してください=Go ahead, do it.
 今日はなにをしますか？=What are you going to do today?

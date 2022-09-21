@@ -1,4 +1,7 @@
-﻿「ここ、女子トイレですよ！？」=This is the girls' toilet, you know!?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「ここ、女子トイレですよ！？」=This is the girls' toilet, you know!?
 「ここは男子禁制です！」=Boys are not allowed here!
 「ごめんなさい、急いでますので……」=I'm sorry, I'm in a rush...
 「……なにか、ご用ですか？」=...Is there something you need?

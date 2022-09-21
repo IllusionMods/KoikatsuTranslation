@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「ほら、何してるのよ。時間がもったいないわ、はやく行くわよ」=“Hey, what are you doing? We're wasting time, let's hurry and go.”
 「あっ、そんな急がなくても大丈夫だよ」=“Oh, you don't need to feel so rushed it'll be fine.”
 「ここの喫茶店、落ち着いた雰囲気でいいわね」=“This cafe's atmosphere is really relaxing.”

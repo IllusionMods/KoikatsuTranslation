@@ -1,4 +1,6 @@
-
-//「あ、も、もちろん。楽しみだなぁ」=
-//「行くところとか、色々と考えておくね」=
-//「録りためたアニメ見るくらい楽しみだなぁ」=
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「あ、も、もちろん。楽しみだなぁ」=“Ah, o-of course. I'm so excited~”
+「行くところとか、色々と考えておくね」=“I'll think of places we can visit, okay?”
+「録りためたアニメ見るくらい楽しみだなぁ」=“I'm almost as excited as when I sit down to binge anime~”

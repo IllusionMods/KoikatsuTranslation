@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「いただきます！」=“I'm digging in!”
 （……[H名]は無言で食べ始めたけど、いまいちなんだろうか？）=(...She started eating without saying anything, does she not like it?)
 「それ、おいしくないの？」=“Is that, not good?”

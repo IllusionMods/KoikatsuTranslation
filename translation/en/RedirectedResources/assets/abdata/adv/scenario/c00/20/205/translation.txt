@@ -1,4 +1,7 @@
-﻿「結構揺れるのね。ふふ、わざと揺らしちゃ駄目よ？」=It's shaking quite a bit. Fufu, don't go trying to shake it up on purpose, okay?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「結構揺れるのね。ふふ、わざと揺らしちゃ駄目よ？」=It's shaking quite a bit. Fufu, don't go trying to shake it up on purpose, okay?
 「そこまで子供じゃないよ。正直、揺れると怖いしね……はは」=I'm not that much of a brat. Honestly, the shaking kinda scares me... haha.
 「でも上がっていく時がドキドキするわよね。ジェットコースターもそうだし、エレベーターでもそうだし」=But it feels really exciting when it goes up, doesn't it? Roller coasters are the same way, elevators too.
 「え、エレベーターでドキドキしちゃうの……？」=Y-You get excited even on elevators...?

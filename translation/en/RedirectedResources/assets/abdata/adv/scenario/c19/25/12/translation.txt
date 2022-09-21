@@ -1,3 +1,6 @@
-﻿「私と……うん、いいよ」=With me... yeah, okay.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「私と……うん、いいよ」=With me... yeah, okay.
 「本当に、いいの？」=Are you, really sure?
 「『私はあなたのもの』。あなたが望むなら、私の初めて、あなたに捧げるわ」=『I belong to you』. If you want it, you can have my virginity too.

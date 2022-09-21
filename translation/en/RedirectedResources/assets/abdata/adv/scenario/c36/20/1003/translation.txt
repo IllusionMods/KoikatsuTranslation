@@ -1,11 +1,17 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+モブ=Mob
 「それではこれより、式を執り行います」="We'll now hold the ceremony."
 「新たなご出発の証として、お二人には誓いの言葉を立てていただきます」="This oath between the two shall be a proof of their new journey."
 （おぉ、本格的……って、当たり前か。しっかりしなきゃ）=(Ohh, it's professional... Or is it a given? I must take this seriously.)
+牧師=Pastor
 「[P名]さん、あなたはこの女性とお付き合いし、より親密な関係になろうとしております」="Mr. [P名], you wish to get ever more intimate with this woman, who you're associated with."
 「あなたは健康なときも、そうでないときも、お互いの気持ちが続く限り――」="Do you promise to be with her in sickness and health, continue being together till the end--"
 「この人を守り、笑顔を絶やすことなく幸せにすることを誓いますか？」="To protect this woman and make her happy, lest letting her smile disappear?"
 「はい、誓います」="Yes, I promise."
 「[H名]さん、あなたはこの男性とお付き合いし、より親密な関係になろうとしております」="Miss [H名], you wish to get ever more intimate with this man, who you're associated with..."
+//「……はい、誓います」=
 「それでは、二人の愛の証として、誓いのキスをお願いします」="Thereupon, as a proof of your love, you may kiss the bride."
 「[H名]さん、あくまでモデルだけど……俺、感動してる」="Miss [H名], we're models, but... I'm deeply moved."
 「誓いの言葉って不思議だね。たった一言なのに、[H名]さんを絶対幸せにしなきゃって、心が熱くなってる」="The vow was wonderful. It's just a few words, but I felt this warmth in my heart, like I absolutely must make you happy."
@@ -28,8 +34,3 @@
 ……=...
 「……こら、下僕なんて大声で言わないの、皆驚いてるわよ」="...Hey manservant, don't raise your voice, you've startled everyone."
 「……でも、頑張りなさい。それなりに期待しておいてあげるわ」="...But do your best. I'm expecting you'll do, in your own way."
-
-//「……はい、誓います」=
-
-モブ=Mob
-牧師=Pastor

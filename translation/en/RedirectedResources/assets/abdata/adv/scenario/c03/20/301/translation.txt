@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「ふおお！　カラオケですね！　とうとう私も！　好きな人とカラオケに来てしまったのです！」=“Fuoooh! Karaoke, huh! Finally, even I get to be on a karaoke date with my boyfriend!”
 「あはは、大げさだよ。友達とはよく来るんでしょ？」=“Ahahah, you're making a big deal out of it. Surely you come here often with friends?”
 「はいー！　女の子同士だと結構来るですけど……男の人とは初めてなのです。だからテンション上がっちゃって……えへへ」=“Yes~! I come here a lot with my girl friends but... it's the first time I've come here with a boy. So I got a bit hyped... eheheh.”

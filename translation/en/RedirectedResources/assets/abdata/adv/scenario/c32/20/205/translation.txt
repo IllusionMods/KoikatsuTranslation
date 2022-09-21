@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「何だかワクワクするなぁ」=My heart's really racing for some reason.
 「そんなに楽しい乗り物でしょうか？　まあ、私も嫌いではありませんけど……」=Is it really that fun a ride? Well, I don't hate it either but...
 「夜景が好きなんだよ。テンションを上げすぎて、ゴンドラを揺らさないように気をつけなきゃ……」=I love the night view from it. Gotta be careful, to not get too excited and make the cabin swerve...

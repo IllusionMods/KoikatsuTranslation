@@ -1,1 +1,4 @@
-﻿「も～、いつから見てたの？　言ってくれればいーのに！」=Jeez~, since when have you been watching? You should have just said something!
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「も～、いつから見てたの？　言ってくれればいーのに！」=Jeez~, since when have you been watching? You should have just said something!

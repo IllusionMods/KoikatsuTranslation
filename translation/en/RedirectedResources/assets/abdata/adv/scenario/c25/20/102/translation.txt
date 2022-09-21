@@ -1,4 +1,7 @@
-﻿「いい天気だね。ほら、見て。空が真っ青だよ」=Good weather today, isn't it? Look, not a single cloud in the sky.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「いい天気だね。ほら、見て。空が真っ青だよ」=Good weather today, isn't it? Look, not a single cloud in the sky.
 「本当だ～。まさにお昼寝日和って感じだね～」=You're right~. Makes you wanna take a nap, doesn't it?~
 「お、お昼寝か……まぁ、とりあえずのんびりと散歩でもしようか？」=A, A nap, huh... well, wanna take a chill walk for now?
 「ん～、なんかそれって普通じゃない～？」=Nn~, isn't it pretty normal though~?

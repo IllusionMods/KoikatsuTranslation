@@ -1,4 +1,7 @@
-﻿「ふぅ。そこまで熱心に誘われたら、首を横には振れません」=Fuu. I can't exactly give you a shake of the head, not when you asked me so ardently.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「ふぅ。そこまで熱心に誘われたら、首を横には振れません」=Fuu. I can't exactly give you a shake of the head, not when you asked me so ardently.
 「じゃあ、入ってくれるってこと？」=Then, you'll join the club?
 「そういうことです。どうやら、怪しい部活ではないようですし」=Indeed. It doesn't seem to be as suspicious as it sounds from the name either.
 「あはは……やっぱり警戒されてたんだね」=Ahaha... triggered your guard, huh?

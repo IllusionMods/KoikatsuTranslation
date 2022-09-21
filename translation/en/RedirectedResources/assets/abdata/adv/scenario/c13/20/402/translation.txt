@@ -1,4 +1,7 @@
-﻿「お店の中、いい匂い～、お腹空いてくる～」=It smells so nice in here~, my belly's emptying up on its own~
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「お店の中、いい匂い～、お腹空いてくる～」=It smells so nice in here~, my belly's emptying up on its own~
 「喫茶店で出てくるスイーツって、マジおいしそーだよね！」=The sweets they sell in cafes like these, they look super good, don't they!
 「そうだね、まさにプロの技、って感じだよね」=Yeah, they do, like they're truly the work of a pro, that sort of feeling.
 「うんうん！　お店に出せるレベルって、マジで凄いと思う！」=Yeah, exactly! Being at the level that you can display your stuff proudly in a shop, I think it's super amazing!

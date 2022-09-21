@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 タイプ０１=Type 01
 タイプ０２=Type 02
 タイプ０３=Type 03

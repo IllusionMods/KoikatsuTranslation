@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「はい、良いですよ。少し……ドキドキしますね」=“Yes, alright. It's a bit... heart racing, isn't it?”
 「うん、俺も。ちなみに、寄り道とかは平気？」=“Yeah, mine's pounding too. By the way, are you fine with detours?”
 「あまり遅くならなければ問題ありません」=“As long as it doesn't make us late, it's no problem.”

@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「……突然なんだけどさ、俺たち、愛称で呼び合ってみない？」=“...I know it's a bit out of the blue but, wanna try calling each other by nicknames?”
 「愛称？　それって、仲のいい友達同士とか、こ、恋人同士で呼び合うやつ……よね？」=“Nicknames? You mean, the names that close friends or, c-couples use for each other... right?”
 「そうそう。それで、俺のことは[Pあだ名]って呼んでほしいんだけど……」=“Yeah, those. I'd love it if you would call me [Pあだ名]...”

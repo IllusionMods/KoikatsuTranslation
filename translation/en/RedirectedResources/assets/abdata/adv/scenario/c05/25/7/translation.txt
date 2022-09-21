@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「こ、これって告白……？　あ、あの……えっと……！」=“I-Is this a confession...? U-Uhm... erhm...!”
 「うん。付き合って欲しいんだ……だめかな？」=“Yeah. I want you to go out with me... no dice?”
 「そんなことない！　つ、付き合う！　いいんだよね？　……ありがとう」=“Not at all! I-I will! You don't mind, right? ...Thank you.”

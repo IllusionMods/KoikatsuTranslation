@@ -1,6 +1,11 @@
-﻿「あ、もうこんな時間なんだね」=Ah, it's already this late, huh.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「あ、もうこんな時間なんだね」=Ah, it's already this late, huh.
 「あぁん、もう、時間のことは言わないでよぉ……。せっかく気づかないふりしてたのにぃ……」=Aahn, jeez, don't mention the time... I was pretending not to have noticed and everything...
 「ははは、そんなこと言われたら、参っちゃうなぁ……」=Hahaha, you've got me there...
+CHOICE:『まだ時間ある？』=『You still got some time?』
+CHOICE:『俺も楽しかった』=『I had fun too.』
 「うーん、やっぱりこのままお別れは寂しいな……ねえ、ちょっとだけ時間があったりする？」=Mmm, it really does feel lonely to just part like this... hey, can you make just a bit more time?
 「何？　なになに？　うふふ、もっちろん、大丈夫よ～」=What? What is it? Ufufu, of course, I'm good on time~
 「そう、それはよかった！　実は一緒に行きたいところがあるんだ。ついて来てくれる？」=I see, that's great! There's actually a place I wanted to show you. Will you come with me?
@@ -11,6 +16,3 @@
 「うーん、悩むところだなぁ……」=Mmmm, that's a hard decision...
 「うふふ♪　そういう時は、『どっちも！』って答えればいいのよ」=Ufufu♪ At times like these, all you need to do is shout "Both!".
 「なるほど、そうだったかぁ……まあいいや、それじゃあ駅に向かおうか」=I see, so that was it... well, whatever, let's go to the station.
-
-CHOICE:『まだ時間ある？』=『You still got some time?』
-CHOICE:『俺も楽しかった』=『I had fun too.』

@@ -1,2 +1,5 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「はい、これ、あげる。授業で作ったんだけど、余ったの」=“Here, take this. I made too much in class.”
 「か“かれら”がね、あなたにあげろって言ったの……だから、食べて？」=“T-They said to give it to you... so, eat it?”

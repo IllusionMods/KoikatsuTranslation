@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 畳1=Tatami Mat 1
 畳2=Tatami Mat 2
 畳3=Tatami Mat 3

@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「あんた、紅茶を注文してたけど、コーヒーは飲まないの？」=“I see you ordered black tea, do you not drink coffee?”
 「いや、今日は紅茶の気分だったってだけで、どっちでも飲むよ」=“No, today I just felt like black tea but, I drink both.”
 「どっちもなんて優柔不断ね。適当にどっちが好きってきっぱり言えばいいのに」=“That's so wishy washy. You should just say which one you like better.”

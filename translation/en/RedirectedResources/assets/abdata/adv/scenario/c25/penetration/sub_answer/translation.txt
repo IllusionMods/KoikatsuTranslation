@@ -1,1 +1,4 @@
-﻿「あ～丁度人手が欲しかったんだ～。これで楽出来るかも～……♪」=Ah~, I was just thinking that I could use another hand~. With this, I might be able to relieve myself~...♪
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「あ～丁度人手が欲しかったんだ～。これで楽出来るかも～……♪」=Ah~, I was just thinking that I could use another hand~. With this, I might be able to relieve myself~...♪

@@ -1,4 +1,6 @@
-
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
 「君の好きなお店から回ろうか。まずはどこへ行きたい？」=“Let's start with the shops you like. Where do you wanna go first?”
 「あう……あう……えっと……」=“Auu... auuu... erhm...”
 「どうしたの？」=“What's the matter?”

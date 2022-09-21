@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「なるほどなるほど、これがデートというものなのですね。ドッキドキのわっくわくなのです！」=“I see, I see, so this is a date, is it? My heart's throbbing and pounding!”
 「あはは、楽しめそう？」=“Ahaha, think you're gonna enjoy it?”
 「はいですっ！　あなたと一緒ならどんなことでも楽しいですよ！」=“Yes--! With you, just about everything is fun and enjoyable!”

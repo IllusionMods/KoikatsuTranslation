@@ -1,1 +1,4 @@
-﻿「ありがとな、私の相手までしてもらって……気持ちよかったよ」=Thanks, for letting me join in and everything... it felt great.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「ありがとな、私の相手までしてもらって……気持ちよかったよ」=Thanks, for letting me join in and everything... it felt great.

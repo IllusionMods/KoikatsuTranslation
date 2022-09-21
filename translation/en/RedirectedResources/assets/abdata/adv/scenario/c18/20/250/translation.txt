@@ -1,4 +1,7 @@
-﻿「電車に乗ると、現実にぐっと引き戻された気がするな」=Getting on the train really has a way of pulling you straight back to reality, doesn't it?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「電車に乗ると、現実にぐっと引き戻された気がするな」=Getting on the train really has a way of pulling you straight back to reality, doesn't it?
 「ですね……また不幸に見舞われる日々に戻ってしまう……」=It does... I'll have to return back to my everyday life, a life surrounded by misfortune...
 「日常に戻っても、一緒に不幸を忘れるくらい楽しく過ごせば大丈夫さ」=Even if you do, as long as we have enough fun together to offset that misfortune, it'll be just fine.
 「はいっ」=Yes--

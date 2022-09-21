@@ -1,4 +1,9 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「あっ、もうこんな時間か。そろそろ終了時間だぞ、どうする？」=“Ah--, it's already so late, huh? Our time's almost up, what do you wanna do?”
+CHOICE:『延長しようよ。[H名]の歌、もっと聞きたいし』=Let's extend. I wanna hear you sing more.
+CHOICE:『今日は帰ろうか』=Let's go home for today.
 「俺は延長したいな。もっと[H名]の歌が聞きたい」=“I wanna extend. I wanna hear you sing more.”
 「待て待て、あたしだけじゃなくて、おまえも歌うんだぞ？　じゃなきゃ延長しないからな？」=“Alright, just hang on. You're gonna be singing too, alright? Else we ain't extending.”
 「よーし、じゃあまだまだ二人で歌いまくろうか！　延長の電話を入れておくね」=“Alright, let's keep this party going then.”
@@ -11,6 +16,3 @@
 「さんきゅ。じゃあこの曲を……っと」=“Thanks. I'll go with... this one then.”
 『小さな手の平 掴める物は～♪　きっと限られているけど♪』=『The things this small hand can grasp~♪ Are surely limited, but~♪』
 「Ｆｕ、Ｆｕ～♪」=“Fuh, fuh~♪”
-
-CHOICE:『延長しようよ。[H名]の歌、もっと聞きたいし』=Let's extend. I wanna hear you sing more.
-CHOICE:『今日は帰ろうか』=Let's go home for today.

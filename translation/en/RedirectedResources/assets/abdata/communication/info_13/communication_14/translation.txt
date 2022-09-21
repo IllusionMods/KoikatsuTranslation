@@ -1,4 +1,7 @@
-﻿「ちょっ！　てめぇ！　どこ入ってきてんだ！　殺すぞ！」=Hey--! You retard! Where do you think you're going! I'll kill you!
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「ちょっ！　てめぇ！　どこ入ってきてんだ！　殺すぞ！」=Hey--! You retard! Where do you think you're going! I'll kill you!
 「てめぇ！　何見てんだよ！　出てけ！」=Bastard! What'cha lookin' at! Get the fuck out!
 「邪魔だ、失せろ」=Fuck off, you're in my way.
 「どけよ、邪魔なんだよ」=Move, you're in the way.

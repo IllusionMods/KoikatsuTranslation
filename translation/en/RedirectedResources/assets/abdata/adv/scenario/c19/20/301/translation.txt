@@ -1,4 +1,7 @@
-﻿「さてと、何を歌おうかな。[H名]は何から歌う？」=Alright then, what shall we sing? What are you gonna start with, [H名]?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「さてと、何を歌おうかな。[H名]は何から歌う？」=Alright then, what shall we sing? What are you gonna start with, [H名]?
 「わ、私？　私はカラオケになんてほとんど来たことがないから……」=M-Me? I've never really come out karaoking before so...
 「そうなんだ？　誰とも？」=That so? Never?
 「うん。だから私は歌わなくてもいいから、[P名]君の歌を聴かせて」=Basically. So I don't really mind not singing, let me hear you sing, [P名]-kun.

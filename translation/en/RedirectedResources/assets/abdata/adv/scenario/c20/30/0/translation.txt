@@ -1,4 +1,7 @@
-﻿「あの、話がしたいんだけどちょっといいかな」=Uhm, do you have a moment? I'd like to chat.
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「あの、話がしたいんだけどちょっといいかな」=Uhm, do you have a moment? I'd like to chat.
 「……えっ？　……あ。は、はじめまして。えぇっと……なんでしょうか……？」=...Eh--? ...Ah. H-Hello. Eerhm... what is it...?
 「はじめまして。俺は[P名前]って言うんだ」=Nice to meet you. I go by [P名前].
 「あ……うぅ……ごめんなさい。あの、その……」=Ah... uu... I'm sorry. Uhm, it's...

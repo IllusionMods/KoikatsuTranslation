@@ -1,3 +1,6 @@
-﻿「もう、遅い！　誘ってくれないんじゃないかとハラハラしてたんだぞ」=Jeez, you're late! You really had me wondering whether you were gonna ask or not.
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「もう、遅い！　誘ってくれないんじゃないかとハラハラしてたんだぞ」=Jeez, you're late! You really had me wondering whether you were gonna ask or not.
 「ごめん、その代わりいろいろ準備して絶対楽しめるようにするから」=Sorry, in return, I'll make sure you have an absolute blast.
 「うん、それなら許すぞ！　あぁ、今度はデートが楽しみでワクワクしてきたな♪」=Okay, I can forgive you in that case! Aah, I'm already getting excited just thinking about it♪

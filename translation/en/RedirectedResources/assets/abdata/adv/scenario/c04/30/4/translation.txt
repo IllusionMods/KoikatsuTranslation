@@ -1,3 +1,6 @@
-﻿「いいわね、私もちょうど、復習したいと思ってたところだったの」=Sounds good, I was just feeling like doing some revisions myself.
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「いいわね、私もちょうど、復習したいと思ってたところだったの」=Sounds good, I was just feeling like doing some revisions myself.
 「ならよかった。それじゃあ、始めようか」=Great. Well then, let's start.
 「はい、よろしくお願いしますね。センセイ？」=Yes, please take care of me. Sensei~

@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「ふあぁ～……！」=“Fuaah~...!”
 「何か珍しいものでもあった？」=“Find something interesting?”
 「あぁ、いや……単純に興奮しただけだ……」=“Aah, no... I just got a bit excited, is all...”

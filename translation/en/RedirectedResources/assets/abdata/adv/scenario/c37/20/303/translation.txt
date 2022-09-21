@@ -1,4 +1,9 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「そろそろ時間ですね」=Our time's almost up, isn't it?
+CHOICE:『延長して、もうちょっと歌おうよ』=『Let's extend it and sing a bit more』
+CHOICE:『帰る仕度をしよっか』=『Let's get ready to go home』
 「延長しない？　もうちょっと歌いたいんだ」=Wanna extend it? I want to sing for a bit longer.
 「えぇ、構いませんよ」=Sure, I don't mind.
 「それじゃ、電話しておくね」=Well then, I'll make the call.
@@ -10,6 +15,3 @@
 「いや、そんな気合入れなくても……普段通りでいいから」=No, you don't need to get that fired up... Just do it normally.
 『……小さな手の平　掴める物はきっと限られているけど』=[... This small hand, the things it can grasp are surely limited but--]
 （……普段通り歌ってくれてる、のか。それとも気合を入れてくれてるのか？　うーん、分からない）=(...Is she singing, like she usually does? Or is she fired up? Hmmm, I can't tell)
-
-CHOICE:『延長して、もうちょっと歌おうよ』=『Let's extend it and sing a bit more』
-CHOICE:『帰る仕度をしよっか』=『Let's get ready to go home』

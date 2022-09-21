@@ -1,4 +1,6 @@
-
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
 //「貴方の特徴についてお話がございます」=
 //「特徴？　どんなところ？」=
 //「破廉恥なところです」=

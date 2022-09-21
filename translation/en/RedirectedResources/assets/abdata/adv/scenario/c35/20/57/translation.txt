@@ -1,4 +1,7 @@
-﻿「えへへ、デートってこんなにわくわくするんやねぇ！　私、最初からテンションばり高いん！」=Ehehe, dates can be this exciting, huh! I'm already fired up right from the start!
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「えへへ、デートってこんなにわくわくするんやねぇ！　私、最初からテンションばり高いん！」=Ehehe, dates can be this exciting, huh! I'm already fired up right from the start!
 「あはは、同じく。一日何するか想像するだけでも楽しいよね」=Ahaha, same here. Just thinking about how we're going to spend our day together is fun, isn't it?
 「うんっ！　私、昨日の夜は眠れんかったん。今日はよろしくね」=Yeah--! I wasn't able to sleep at all last night. Show me a good time today, okay?~
 「了解。一緒に楽しもう！」=Roger. Let's have a blast together!

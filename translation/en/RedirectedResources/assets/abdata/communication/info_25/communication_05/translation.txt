@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「どうしたの？　早く出ていったら？」=“What's the matter? Considered leaving this place?”
 「きゃっ！　びっくりしたぁ。どうなっても知らないよ？」=“Kyah--! That surprised me~. Don't blame me later, alright?”
 「見て分かるよね？　忙しいの」=“You can tell just by looking, no? I'm busy.”

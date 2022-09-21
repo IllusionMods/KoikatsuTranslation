@@ -1,4 +1,7 @@
-﻿OPTION[0]:はい=Yes.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+OPTION[0]:はい=Yes.
 はい=Yes.
 OPTION[0]:いいえ=No.
 いいえ=No.
@@ -62,7 +65,7 @@ OPTION[15]:たまには違う自分もいいかも？=How about showing a differ
 OPTION[15]:そのままでいい=You're perfect as you are.
 そのままでいい=You're perfect as you are.
 OPTION[16]:そうだね=Mmm, yeah
-そうだね=
+そうだね=Mmm, yeah
 OPTION[16]:大げさだなぁ=Nah, that's too much.
 大げさだなぁ=Nah, that's too much.
 OPTION[17]:明るくなったね=You have.

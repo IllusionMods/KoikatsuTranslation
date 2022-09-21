@@ -1,4 +1,6 @@
-
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
 「コイカツ部……うん、いいよ。わたしも入る」=“Koikatsu club... okay, sure. I'll join it too.”
 「ありがとう。これからは部活の一員としてもよろしくね」=“Thank you. Let's take good care of each other, as fellow club members.”
 「これって、あなたと仲良くする部、ってことでいいの？」=“Is it okay for me to think of it as a club just for getting close to you?”

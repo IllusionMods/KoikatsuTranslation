@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「ふぅ～……見つからなくてよかった……」=“Fuuh~... thank god we weren't found...”
 「[H名]って、シてる時の声も綺麗だよね」=“Your moans are adorable too, you know?”
 「なっ！？　こ、こら！　恥ずかしいことを言うな！」=“Wha--!? H-Hey! Do not say such embarrassing things!”

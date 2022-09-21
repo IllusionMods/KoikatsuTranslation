@@ -1,4 +1,7 @@
-﻿「うっぎゃああ！？　ここ女子トイレだぞ！　男は出てけぇー！」=Uggyaaah!? This is the girls' toilet, you know?! Boys need to get the hell out!
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「うっぎゃああ！？　ここ女子トイレだぞ！　男は出てけぇー！」=Uggyaaah!? This is the girls' toilet, you know?! Boys need to get the hell out!
 「ぎゃぁー！　覗くな変態！　出てけぇー！」=Gyaah! Don't peep, you pervert! Get out!
 「いま、キミと話してるヒマないんだ。んじゃ」=I don't have time to talk with you right now. See ya.
 「……なんか用か？」=...Need something?
@@ -89,6 +92,7 @@
 「あたし、みんなから『たまに変な行動するよね』って言われるぞ。そうなのか？」=Everyone says to me that I do weird stuff sometimes. Is that true?
 「えぇ！？　そうだったのか……。うー、今度から気をつけるぞ」=Eeh!? Really... Uuu, I'll be more careful from now on.
 「そうだよな！　あー、よかったー。ちょっと不安だったんだぞー」=Right!? Aah, thank god. I was a bit worried.
+「うん？　なんで黙ってるんだ？　なにか言ってほしいぞ！」=“Hm? Why're you so quiet? I want an answer, you know!”
 「なーなー、キミは動物好きかー？　イヌとかネコとか」=Hey, listen, you like animals? Like cats or dogs.
 「おぉー！　あたしも好きだぞ！　気が合うなー」=Ooh! I like them too! Same types, you and I.
 「あー、そうなんだー。あたしも苦手だぞ。ちょっとヤなことあってな」=Aah, I see. I can't handle them either. Shit's happened.

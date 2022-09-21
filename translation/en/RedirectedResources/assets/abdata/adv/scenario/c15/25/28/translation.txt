@@ -1,1 +1,4 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「ありがと♪　まさか、キミからこんなものが貰えるとは思わなかったぞ！」=“Thanks♪ I never thought I'd get something like this from you!”

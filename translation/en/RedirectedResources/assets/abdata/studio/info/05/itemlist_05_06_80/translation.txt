@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 ナイトバイザー=Knight Visor
 鎧兜=Armored Helmet
 鎧肩当て=Armored Shoulderpad

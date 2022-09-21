@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「なー、キミといても楽しくないから別れるぞ」=“Hey, it's not fun to be with you so I'm calling it quits here.”
 「えぇ、急にどうして？」=“Eeh, why so suddenly?”
 「うーん。最近近くにいるとムカムカしてくるんだよね」=“Mmm. When I'm near you, I just kinda start feeling annoyed.”

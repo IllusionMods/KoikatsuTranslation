@@ -1,4 +1,6 @@
-
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 寝=Laying
 立ち=Standing
 椅子=Seated

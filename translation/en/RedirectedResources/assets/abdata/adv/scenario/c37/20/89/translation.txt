@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「ねえ、[H名]。ちょっと試したい事があるんだけど」=Hey, [H名]. There's something I'd like to test out.
 「何でしょう？」=What is it?
 「お互いを愛称で呼んでみない？」=Wanna try calling each other by nicknames?

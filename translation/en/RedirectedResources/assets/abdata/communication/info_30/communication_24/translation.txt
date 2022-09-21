@@ -1,4 +1,6 @@
-﻿
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
 「きゃっ！？　もしかして、女子トイレに入ってまで、私に会いに……？」=Kyah--?! Did you come all the way in here, to see me...?
 「きゃあっ！　いくら私の着替えが見たいからってそんな、強引すぎます♡」=Kyaah--! No matter how much you wanna see me changing, that's way too aggressive♡
 「ごめんなさい、小説を書かないといけないので……」=I'm sorry, I have to work on my novel...
@@ -90,6 +92,7 @@
 「よく友達に怖いって言われるんです。そんなこと、ないですよね？」=My friends often tell me that I'm pretty scary. That's not true, right?
 「あなたは私のことを全て受け入れてくれるんですね♡　嬉しいです♡」=You always accept me, just the way I am♡ It makes me really happy♡
 「うふふ♡　怖くなんてありません。ただ、あなたが好きすぎるだけで……」=Ufufu♡ I'm not scary at all. I just love you so much...
+「私のこと、嫌いなんですか……？」=Do you hate me...?
 「この前、書店でペット雑誌を見てましたけど、動物が好きなんですか？」=The other day, I saw you looking at a pet-owner's guide at a book store, do you like animals?
 「うふふ、やっぱり♡　私も大好きなんです♡」=Ufufu, just as I thought♡ I love them too♡
 「よかった、情報の修正が必要かと……私も少し苦手なんです、一緒ですね♡」=I'm glad, I thought I got my information wrong for a moment there... I'm pretty bad with them as well, so we're the same♡

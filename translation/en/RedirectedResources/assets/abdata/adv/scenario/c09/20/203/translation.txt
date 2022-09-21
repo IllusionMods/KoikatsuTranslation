@@ -1,4 +1,9 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「ねぇ、次は何に……って、もう夕方！？　全然気づかなかったわ……」=“Hey, what are we ridi... wuh, it's already evening?! I didn't notice at all...”
+CHOICE:『最後に観覧車に乗ってかない？』=Wanna ride the ferris wheel to close it off?
+CHOICE:『暗くなる前に帰ろうか』=Let's go home before it gets dark.
 「あのさ、まだ時間が大丈夫なら、最後に観覧車に乗ってかない？」=“Listen, if you still have time, wanna ride the ferris wheel to close it off?”
 「そうね、やっぱりシメは大事よね。早く行きましょうよ。そこまで勝負する？」=“Yeah, it's important to close things off properly. Let's go right now. Wanna have a race till there?”
 「いや、急がないほうが……」=“No, I don't think we should...”
@@ -10,6 +15,3 @@
 「また今度、一緒に来たらいいんだし。乗れなかったのも、次のお楽しみってことで」=“We can just come here again together next time. The rides we couldn't ride today, well, we can just look forward to them for next time.”
 「そうね、次にとっておかないと……また、連れてきてよね？」=“You're right, we have to leave something for next time... bring me here again, okay?”
 「ああ」=“Sure.”
-
-CHOICE:『最後に観覧車に乗ってかない？』=Wanna ride the ferris wheel to close it off?
-CHOICE:『暗くなる前に帰ろうか』=Let's go home before it gets dark.

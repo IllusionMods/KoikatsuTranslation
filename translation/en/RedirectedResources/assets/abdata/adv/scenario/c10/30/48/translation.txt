@@ -1,2 +1,4 @@
-
-//「はぁはぁ、な、なにこれ……身体が痺れて……」=
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「はぁはぁ、な、なにこれ……身体が痺れて……」=“Haah, haah, w-what is this... my body's gone numb...”

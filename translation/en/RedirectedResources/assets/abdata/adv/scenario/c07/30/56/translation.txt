@@ -1,4 +1,7 @@
-﻿「え？！　私なんかしちゃった？！　嫌われることした？！」=Eh!? Did I do something wrong!? Did I do something you hate?!
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「え？！　私なんかしちゃった？！　嫌われることした？！」=Eh!? Did I do something wrong!? Did I do something you hate?!
 「いや……そうじゃないんだ。しばらく距離を置こうというか……」=No... That's not it. I just think we should maintain our distance for a bit...
 「な、なんで。もっといっぱい恋したいのに……いやだよ」=W-Why? I want to love you so much more... I don't want this.
 「ごめん、[H]」=Sorry, [H].

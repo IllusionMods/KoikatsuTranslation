@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「これ、もらってくれませんか？」=Won't you have some of this?
 「ビスケットケーキ、家庭科で作ったんです」=I baked a biscuit cake during Home-Ec.
 「食べてもらえると嬉しいです」=It'd make me really happy if you try some.

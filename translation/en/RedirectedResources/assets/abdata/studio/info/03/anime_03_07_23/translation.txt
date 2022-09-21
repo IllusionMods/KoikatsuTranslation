@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 ポーズ1=Pose 1
 ポーズ2=Pose 2
 ポーズ3=Pose 3

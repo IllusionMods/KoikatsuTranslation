@@ -1,0 +1,9 @@
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「あ、あのな、汝……」=“L-Listen, sir...”
+「どうしたの？　[H名]」=“What's up, [H]?”
+「実を言うとな……我も、その、汝と再びここに来ることを、望んでいたのだ……」=“Truth being told... I have been, wishing to come here with thee, again as well...”
+「本当に？　[H名]がそう思ってくれてたなんて嬉しいよ」=“Really? Man, that makes me so happy.”
+「よいか！　我がこんな、こんな風に胸を焦がすのは、汝が相手だからなんだからなっ！　わかっておるな！」=“It is good that it does! The only one my hearts yearns for, is thee--! Thou do understand, right?!”
+「うん、もちろんわかっているよ」=“Yeah, of course, how could I not?”

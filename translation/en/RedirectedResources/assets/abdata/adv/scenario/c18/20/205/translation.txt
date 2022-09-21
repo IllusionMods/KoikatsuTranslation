@@ -1,4 +1,7 @@
-﻿「わぁ、綺麗な夜景だなー」=Waah, what a beautiful sight.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「わぁ、綺麗な夜景だなー」=Waah, what a beautiful sight.
 「……そ、そうですね」=...I-It sure is.
 「どうしたの？　もしかして高いのダメだった？」=What's up? Are you by any chance not good with heights?
 「えっと、高いのは割と平気なんですが……その、いつものです」=Erhm, I'm more or less alright with heights but... uhm, well, you know, it's the usual.

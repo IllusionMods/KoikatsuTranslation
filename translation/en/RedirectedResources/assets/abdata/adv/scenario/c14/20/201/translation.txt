@@ -1,4 +1,7 @@
-﻿「なあ。アトラクション巡りも悪くねえけど、やっぱ歩き回ってると喉乾いてくるよな～」=Hey. Going from one attraction to another isn't bad either but, man, does all this walking around make your throat dry out or what~?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「なあ。アトラクション巡りも悪くねえけど、やっぱ歩き回ってると喉乾いてくるよな～」=Hey. Going from one attraction to another isn't bad either but, man, does all this walking around make your throat dry out or what~?
 「てなわけで。お前、飲み物買って来いよ！」=So, go buy me something to drink!
 「うん、分かったよ。ちょっと待ってて」=Sure, got it. Wait here a sec.
 「いやいや、そこは『パシりに使うな』とか言ってくれよ～。一応、冗談のつもりだったんだぜ？」=No, dude, you're supposed to say "Don't use me as your gofer!" there~. I meant it as a joke, you know?

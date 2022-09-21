@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「ここって、ゲームセンターみたいな筐体も置いてあるんだね……お、クレーンゲームだ」=“This place has, an arcade of all things too, huh... oh, it's a claw machine.”
 「ぶっちゃけた話、クレーンゲームとかを見たときも、“かれら”を思い起こしたりするの？」=“Alright, I'll bite. When you see something like a claw machine of all things, does even that bring "them" to mind too?”
 「そんなことはないよ。あれはただの遊び。“かれら”はもっとスマートだもん。“かれら”に失礼だよ？」=“Not at all. It's just a pass time. "They" have a lot more style than this. That's almost an insult to "them", you know?”

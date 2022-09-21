@@ -1,5 +1,9 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 （ん？　空いてる席が二つあるけど……どっちに座ればいいんだ？）=(Hmmm? There's two empty seats... Which one is mine then?)
 俺は先生に指定されたと思っていた席につこうとして、その隣りも空席だったことに気が付く。=As I got near the seat Sensei pointed out, I noticed the seat next to it was also empty.
+野乃花=Nonoka
 「何か分からないことがあったらお隣りの水瀬さんに聞いてね……って、あら？　水瀬さん、今日はお休みかしら」=“If you have any questions, just ask Minase-san sitting next to you... eh wait? Is Minase-san taking the day off today?”
 「とりあえず、キミの席はそこだから座って大丈夫よ」=“Well for the moment, that there's your seat so don't worry.”
 「あ、はい」=“Ah, OK.”
@@ -12,12 +16,12 @@
 そう思って目線だけ隣りの席を移してみる。落書きがしてあるわけでもなく、机の中にも何も入っていない。=With that thought in mind, I moved my eyes to the desk next to me. It didn't have ill-intended drawings on it nor any things of sort inside.
 （水瀬さん、とか言ってたっけ。どんな子なんだろう、仲良くできたらいいけど……）=(Minase-san, huh. I wonder what she's like? Would be nice if I could get along with her but...)
 そんなことを考えているうちに、櫻井先生は見ながら話していたノートを閉じた。=I returned back to reality after some contemplating. Sensei also seemed to have finished her address as she closed the book that she had been focusing on.
-「――今日の連絡事項はそんな感じね。うふふ、みんなちゃんと聞いてた？　なんだか浮足立ってるわよ～」=“-That's about it for today. Ufufu, did anybody manage remember any of that? You all seem a bit out of it today～.”
+「――今日の連絡事項はそんな感じね。うふふ、みんなちゃんと聞いてた？　なんだか浮足立ってるわよ～」=“-That's about it for today. Ufufu, did anybody manage remember any of that? You all seem a bit out of it today~.”
 まさに今の俺を現すような言葉だが、櫻井先生の言葉は俺というより、女の子たちに向けられたものだった。=Sensei words perfectly describe how I feel at the moment, but they were more towards the girls in class and not myself personally.
 「今までは好き放題してたかもしれないけど、男の子が来たからにはちゃんと女の子らしくしないとダメよ？」=“You may have been doing whatever you want up till now, but you have to behave lady-like now that a boy has come to school.”
 「間違ってもナプキンを投げて渡したり、下着姿で歩くことのないようにね」=“So don't go walking around in your undies or trade sanitary items in the middle of class or any of that sort from now on, deal?”
 なんという冗談を……と思ったが、女の子たちは苦笑いをして“気を付けます……”という空気を出している。=What kind of sick joke is this... was what crossed my mind for a second, but then a sense of uneasiness filled the room as the girls gave out dry laughters as if saying ‘We'll be careful from now on’.
-（そっか。普段は男の目線がないから、そこらへんの恥じらいがない……というか、必要ないのか……）=(Ah. Usually there wouldn't be any boys around so they don't really feel embarrassed about that kind of stuff... Or rather, there's no need to feel embarrassed...) 
+（そっか。普段は男の目線がないから、そこらへんの恥じらいがない……というか、必要ないのか……）=(Ah. Usually there wouldn't be any boys around so they don't really feel embarrassed about that kind of stuff... Or rather, there's no need to feel embarrassed...)
 （でも、そうだよな……もし俺が男子校の生徒だったら。そして、女子の視線を気にしないでいいんだったら――）=(But, yeah...If I was in an all-boys school. And, if I don't have to worry about any girls seeing me...)
 そこには、異性がいると解放できない『自分』を観音開きにしている俺がいた……。=I could vividly picture a part of myself, one that I couldn't show off when in sight of the opposite sex, being released fully and wildy.
 「異性がいるといないのとで、生活がどう変わるのか……それこそ学園長が皆さんに学んでほしいことの第一歩目なの」=“How would your everyday life change with and without the opposite sex beside you... That itself is the first step to what the Principal really wants you to learn.”
@@ -25,6 +29,7 @@
 「それじゃ、そろそろＨＲを終わりに……あら？」=“Well, that's it for today's homeroom... Oh?”
 櫻井先生の視線が廊下に向かったかと思うと、遠くの方から慌ただしい足音が近づいてくる。=As Nonoka-sensei diverted her attentions towards the hall outside, I could hear the sounds of hurried footsteps from far off coming ever closer.
 そして――。=And...
+女の子=Girl
 「もがもがんっ、もがもがもが～～っ！」=“Mnnnng, mnnnnng --!”
 「あらあら。水瀬さん、ギリギリセーフね」=“Oh my. Minase-san, you made it just in time.”
 （ＨＲが始まっちゃってるから、アウトなんじゃ……？）=(Homeroom is already done and over with, so isn't she technically late...?)
@@ -35,6 +40,7 @@
 「えっと、転校生さん、こんにちは……じゃなくて、おはよう！」=“Eh, hello... No wait, good morning, Mr. Transfer Student!”
 「お、おはよう……？」=“G-good morning...?”
 いきなりの挨拶に、俺も思わず朝の挨拶を返してしまった。=After the sudden greeting, I too impulsively greeted her back.
+亜依=Ai
 「それから、はじめまして！　私、水瀬亜依って言って、水泳部に所属してるよ」=“And also, nice to meet you! I'm Minase Ai and currently a member of the Swimming Club!”
 「うふふ……水瀬さん、ＨＲの真っ最中なのに教壇の前で自己紹介したら、どっちが転校生なのか、わからなくなっちゃうわよ」=“Ufufu... Minase-san, if you keep introducing yourself in front of class like this, then who knows who the real transfer student is here?”
 「あっ、すみません！　ダメだ、私完全に寝ぼけちゃってるっ」=“Ah, I'm sorry! Ah, I'm still in dreamland!”
@@ -58,6 +64,7 @@
 それが女子校ならなおさらだろう。=And it's more so the case when it's an all-girls-school.
 （あっちも男の俺に警戒してるだろうし、無理して話しかけない方がいいかもしれないな）=(They probably are also wary of me, so maybe it's for the best that I don't force myself into a conversation at this moment.)
 何かのきっかけでみんなの輪に入れるタイミングがあるかもしれない。とにかく今は、ちょっと気まずくても気長に待とう。=There may well be a chance for me to get into their circle soon. I'll wait patiently for now, even though things might be a bit awkward.
+？？？=???
 「やっほー」=“Yahoo-”
 「わあっ！？」=“Waa!?”
 「ふえあっ！？　ご、ごめんね？　驚かせちゃったかな……？」=“Fueh!? S-sorry? Did I surprise you?”
@@ -108,10 +115,3 @@
 （初日にそれがわかっただけでも大収穫だ）=(Knowing that, I've already made big progress considering it's still just my first day.)
 俺はいつの間にか肩が軽く、視線が上向きになっていることに気が付いた。=Sooner than I had realized, my shoulders felt lighter and my eyes weren't staring down anymore.
 （よし……勉強に運動に、そしてコイカツに……青春を謳歌するぞ！）=(Alright... Study, work, exercise, and Koikatsu... Let's enjoy youth to its fullest!)
-
-//Scene specific names
-女の子=Girl
-？？？=???
-
-野乃花=Nonoka
-亜依=Ai

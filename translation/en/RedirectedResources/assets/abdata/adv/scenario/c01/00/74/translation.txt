@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「ええと、まずは柔軟体操からやってみようか」=“Eerhm, shall we start with warm up exercises then?”
 「いわゆるストレッチですね。こう、腕を大きく挙げて～～という」=“The so called stretches, yes? Extending and stretching your arms, like this~~”
 「うん、それはラジオ体操だね」=“Yeah, those are radio calisthenics.”

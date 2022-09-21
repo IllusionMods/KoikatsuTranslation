@@ -1,0 +1,47 @@
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「やっぱり綺麗ね……」=“It really is beautiful...”
+「そうだね……それに、[H名]も綺麗だよ」=“Yeah... you're beautiful too, [H].”
+「な、なに言ってんの。急に……恥ずかしいじゃない」=“W-What're you saying, all of a sudden. That's... super embarrassing.”
+「思っていることを、そのまま口にしているだけなんだけどな」=“I just said what came to my mind, without any filter.”
+「あんたって……そんなキザなこと言う人だっけ？」=“You... were you that sort of a corny guy this whole time?”
+「まあ、たまにはね……それより、さっきから顔が真っ赤だけど、ひょっとして照れてる？」=“Well, I won't deny that... rather than that, your face's been beet red for a while now, by any chance, are you blushing?”
+「う……あんたって、時々イジワルだわ」=“Uu... you're a meanie sometimes, you know that?”
+「綺麗だってほめることのどこがイジワルなんだ？」=“Just what part of complimenting you, telling you that you're beautiful is mean, now?”
+「そうやって、わざわざ聞いてくる所がよ！」=“The way you always try to make me say that stuff, is mean!”
+「でもさ、[H名]も、ほめられて否定しないってことは、自分でもちょっとはそう思ってるってことだろ？」=“But, since you didn't deny that it was a compliment, means that you feel that way yourself, atleast a bit, no?”
+「ち、違うからね！　あたし、自分が綺麗なんて言ってないから！」=“T-That's not it, okay!? I didn't say that I'm beautiful or anything, I didn't!”
+「もう！　あんたやっぱりイジワルだわ。あたしをからかって、こんな恥ずかしいこと言わせて」=“Jeez! You really are a meanie. Teasing me, making me say such embarrassing things.”
+「ふふ、俺はからかってるつもりなんかないよ」=“Fufu, I'm not trying to tease you though.”
+「……あんたが、いつもは言わないようなこと言うからでしょ」=“...It's because you said something, you wouldn't normally say.”
+「んー、これは夜景の魔力のせいかも」=“Nnn, the magic of this view might be at fault for that one.”
+「魔力って……」=“Magic", you say...”
+CHOICE:『この前はエッチまでしちゃったしね』=We even went so far as to have sex here last time, afterall.
+CHOICE:『また、この景色を二人で見に来ようね』=Let's come here again together, okay?
+「この前は、ここでエッチまでしちゃったしね」=“We even went so far as to have sex here last time, afterall.”
+「ちょっと！　……そんなことサラッと言わないでよ。誰かに聞かれたらどうするの」=“Hey! ...Don't say that so easily. What if someone heard you?”
+「大丈夫だよ。ちゃんと周りはチェック済み。誰もいないから」=“It's fine. I already checked. There's nobody around us.”
+「え？　そんなの、いつの間に」=“Eh? When did you...”
+「さっき、[H名]がバタバタしてるうちにね」=“While you were losing yourself in your excitement there.”
+「う……」=“Uu...”
+「それに、もし誰かいたとしてもみんな自分たちのことでいっぱいだから、誰も聞いてないよ……俺たちもそうだろう？」=“Not to mention, even if there was someone around, they'd be too busy with themselves, so nobody would have heard us... we're the same way, no?”
+「そうかもしれないけど……でも、今言わなくてもいいじゃない」=“May be so... but, did you really have to say it now?”
+「だって、この場所って……夜景の魔力で自分に素直になってしまうんだ」=“I can't help it, this place... the magic of this view, it makes me honest with myself.”
+「……それでね。また、エッチしたくなってきたんだけど」=“...And so. I feel like having sex again.”
+「まさか、それも魔力のせいって言うの？」=“You're not going to pin that on that 'magic' too, are you?”
+「あたり。今すぐ、君を抱きしめたい」=“Bullseye. I want to take you, right now.”
+「また慣れないキザなセリフを……本当に、夜景の魔力ってあるのかも」=“Again with the corny stuff... there really might be, some magic to this view.”
+「……ダメ、かな？」=“...No dice?”
+「……あたしも、魔力にやられちゃったかな」=“...I think the magic did me in too.”
+「ううん……ダメ……じゃない……」=“No... not... at all...”
+「それくらい素敵ってことだよ。ねえ……また、この景色を二人で見に来ようね」=“That's just how wonderful it is. Hey... let's come here again together, okay?”
+「んー……うん……」=“Nn... yeah...”
+（あれ？　夜景をずっと見つめて……）=(Huh? She's been staring at the view for a while now...)
+「どうしたの？」=“What's the matter?”
+「……目に焼き付けとこうかと思って。この夜景は今日だけだもの」=“...I was trying to burn the sight into my eyes. This view will only exist for today, afterall.”
+「……[H名]、そんなこと言って恥ずかしくない？」=“...Aren't you embarrassed, saying stuff like that?”
+（あ、真っ赤になった……今、気づいたんだ）=(Ah, her face got all red... she just realized, huh.)
+「……あ、あんたが言ってるから、あたしもつられちゃったんじゃない」=“...N-Now look what you've done, because you keep saying stuff like that, even I got dragged along.”
+「ごめんごめん。駅まで手をつなぐから許してよ……じゃあ、行きますか」=“Sorry, sorry. I'll hold your hand till the station, so forgive me... then, shall we?”
+「……うんっ」=“...Yeah--”

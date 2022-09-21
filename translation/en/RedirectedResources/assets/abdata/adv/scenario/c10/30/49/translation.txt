@@ -1,2 +1,4 @@
-
-//「はぁ、はぁ、こ、壊れそう……。わ、私の身体はもう限界かも……」=
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「はぁ、はぁ、こ、壊れそう……。わ、私の身体はもう限界かも……」=“Haah, haah, I-I'm gonna break... I-I think my body's at its limit...”

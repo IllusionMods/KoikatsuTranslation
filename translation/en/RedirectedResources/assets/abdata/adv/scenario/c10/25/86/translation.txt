@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「わ、我は今日、やってもらいたいことがあるのだ……」=“T-There is something, I would like thee to do...”
 「ん？　やってもらいたいこと？」=“Nn? Something you want me to do?”
 「後ろから……ぎゅっってして欲しいのだ……」=“I want to be hugged... from behind...”

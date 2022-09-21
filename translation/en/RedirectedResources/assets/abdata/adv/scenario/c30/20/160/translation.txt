@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「……ふふ、素敵な時間だったわ。ありがとう」=...Fufu, I had a wonderful time. Thank you.
 「ほんと？　その……外だったけど？」=Really? Even though... it was outside?
 「本当よ。……きっと、キミと二人なら、どこでも素敵な時間を過ごせてしまうのね」=Really... If it's with you, I would have a wonderful time just about anywhere.

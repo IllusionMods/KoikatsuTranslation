@@ -1,3 +1,6 @@
-﻿「いいぜ、で、何するんだ？」=Sure, so, what're we doing?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「いいぜ、で、何するんだ？」=Sure, so, what're we doing?
 「えっ……決めてなかった。何しようか？」=Eh--... I didn't actually get that far. What shall we do?
 「おまえなぁ……決めてから誘えよ」=You... think of something before you invite me.

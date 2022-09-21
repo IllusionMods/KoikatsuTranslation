@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「わぁ、おいしそう！　ねぇねぇ、食べてもいい？」=“Wah, it looks delicious! Hey, hey, can I eat yet?”
 「……ふふ、お先にどうぞ。目が輝いてるね」=“...Fufu, feel free to dig in. Your eyes are sure sparkling.”
 「だって、見た目もすごく豪華じゃない。それに、イチゴはスイーツの定番だし」=“I mean, it just looks so fancy. Not to mention, strawberry is the king of all sweets.”

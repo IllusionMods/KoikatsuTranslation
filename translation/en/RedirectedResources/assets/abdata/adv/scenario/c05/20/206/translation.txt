@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「わ……まだ上がっていく……」=“Wah... it's still going up...”
 「また、胸がいっぱいになってる？」=“Is your chest filling up again?”
 「うん……前に乗ったときよりも、もっと懐かしい気持ち」=“Yeah... It feels even more nostalgic, than last time.”

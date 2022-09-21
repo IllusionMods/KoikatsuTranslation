@@ -1,1 +1,4 @@
-﻿「ふふっ……あんなに激しくして、興奮したの？　……私も、すごくドキドキしたわ」=Fufu--... you were going so hard there, did you get excited? ...My heart, raced a lot too.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「ふふっ……あんなに激しくして、興奮したの？　……私も、すごくドキドキしたわ」=Fufu--... you were going so hard there, did you get excited? ...My heart, raced a lot too.

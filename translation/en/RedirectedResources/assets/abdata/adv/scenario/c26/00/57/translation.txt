@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「少し……緊張してきた……」=“I'm starting to... get nervous...”
 「大丈夫？　もうちょっと肩の力を抜いていいんだよ」=“You okay? Don't take things too seriously, relax.”
 「手、つないでくれたら……リラックスできるかも……」=“I might be able to... if you hold my hand...”

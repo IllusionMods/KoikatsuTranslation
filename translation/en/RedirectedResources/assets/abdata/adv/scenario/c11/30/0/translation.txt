@@ -1,4 +1,6 @@
-
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
 「あの～、今、話しかけても大丈夫かな？」=“Uhm~, do you mind chatting with me for a moment?”
 「まぁ、男の子！　珍しいわね～。……あ！　あなたが例の転校生ね？　初めまして～」=“Oh my, a boy! Such a cutie too~. ...Ah! Are you that transfer student? Nice to meet you~”
 「は、初めまして……」=“N-Nice to meet you...”

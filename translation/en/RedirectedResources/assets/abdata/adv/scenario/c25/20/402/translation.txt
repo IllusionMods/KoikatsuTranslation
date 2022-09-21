@@ -1,4 +1,7 @@
-﻿「はぁ～、やっと座れた～」=Haa~, we finally got to sit down~
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「はぁ～、やっと座れた～」=Haa~, we finally got to sit down~
 「なんかすごい混んでるよね」=It's pretty packed here, isn't it?
 「ね～、一人だったら絶対来なかったすよ～」=Hey~, I would have never come here by myself, you know~?
 「うん、俺も待つの嫌いな方だから、一人だと別のところいくかな」=Yeah, I hate waiting too so, if I was by myself, I think I'd have gone somewhere else.

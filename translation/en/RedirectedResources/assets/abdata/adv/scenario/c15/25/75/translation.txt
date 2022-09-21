@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「はぁはぁ、か、勝った」=“Haa, haa, I-I won.”
 「おぉー、足速いなー、キミ」=“Ooh, you're pretty fast.”
 （なんとか面目は保てたかな？）=(Did I manage to save some face?)

@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「……すっかり楽しんじゃった……ごめんね？」=“...I ended up just taking advantage of it and enjoying myself... I'm sorry.”
 「別にいいのよ……。楽しんでもらえてよかったわ。でも流石にドキドキしたわね」=“It's fine... I'm glad you enjoyed it. But that really did make my heart race.”
 「うん……俺もドキドキだった」=“Yeah... mine too.”

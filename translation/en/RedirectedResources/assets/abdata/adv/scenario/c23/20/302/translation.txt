@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「ふぅ……アニソンを思っきり歌えるってやっぱりいいですなぁ」=“Fuu... being able to sing anime songs to your heart's content really is nice~”
 「楽しんでくれてるなら何よりだよ」=“I'm glad to hear you're enjoying yourself.”
 「そういえば、店員さんが来たときにアニソンを歌ってたら、やっぱり恥ずかしいものなの？」=“I'm curious, would it make you embarrassed, if any of the staff walked in while you were singing anisongs?”

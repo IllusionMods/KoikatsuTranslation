@@ -1,4 +1,7 @@
-﻿「わぁ、すっごい綺麗な場所～」=Wah, what a beautiful place~
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「わぁ、すっごい綺麗な場所～」=Wah, what a beautiful place~
 「公園に来たのはこれを見せたかったからっていうのもあるんだ」=Part of the reason why I picked the park for our date today was also because I wanted to show you this.
 「ありがとっ、こんな素敵な場所に連れてきてくれて」=Thanks--, for showing me something so lovely.
 「喜んでくれて、良かった」=I'm glad you like it.

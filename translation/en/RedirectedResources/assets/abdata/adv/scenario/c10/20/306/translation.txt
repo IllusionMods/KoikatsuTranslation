@@ -1,9 +1,14 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「せんきゅー！」=“Thanks!”
 「ヒューヒュー！」=“Hyuh hyuh!”
 「さ～て次は何を歌おうか！　何かリクエストはあるか？　それともデュエットにするか？　ん？」=“Now then, what should I sing next~! Have any requests? Or would thou rather we sangst a duet? Hm?”
 （おぉ？　いつもよりかなりテンション高いな。歌って興奮してるのかな？）=(Ooh? She's a lot more hyped than usual. Is she getting excited from all the singing?)
 「あっ、この曲なら一緒に歌えるんじゃないか♪」=“Ah--, we ought to be able to sing this one together♪”
 （うわぁ！？　近い、近すぎる！　[H名]の温もりが、直に感じちゃう……！）=(Uwah--?! Close, way too close! I can feel her warmth, almost...!)
+CHOICE:『そんなに近づかれるとドキドキする……』=You're going to make my heart pound like that...
+CHOICE:『今日のところはこのくらいで』=Let's stop things here.
 「[H名]……えっと、そんなに近づかれると、ドキドキするんだけど……」=“[H]... erhm, if you get that close, my heart's gonna pound...”
 「あ、そ、その……楽しくて、はしゃいじゃって……」=“Ah, u-uhm... it was so fun, I just...”
 「やはり、思いっきり声を出して歌うのは、楽しいものだな……えへへ」=“Letting out your voice, truly is a fun thing, isn't it... eheheh.”
@@ -15,6 +20,3 @@
 「あんまり歌いすぎると喉を壊しちゃうしさ。せっかくの綺麗な声がもったいないよ」=“You're gonna ruin your throat like that. I wouldn't want you to lose your beautiful voice like that.”
 「綺麗……！　そ、そうか！　わ、我の声は、綺麗、か！」=“Beautiful...! I-Is that so! M-My voice is, beautiful, huh!”
 「うむ！　汝がそう言うならば聞き入れよう！　なに、汝が望めばいつでも我の美声を聞かせてやるからな！」=“Umu! I shall acceed, if thou thinkst so! Really, all thou needst to do is request it, and I shall bare this voice for thine pleasure any time!”
-
-CHOICE:『そんなに近づかれるとドキドキする……』=You're going to make my heart pound like that...
-CHOICE:『今日のところはこのくらいで』=Let's stop things here.

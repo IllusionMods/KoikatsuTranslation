@@ -1,0 +1,18 @@
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「さて、次はこの曲を……って、もうすぐ時間じゃない！」=“Now then, let's put in the nex... wuh, we're almost out of time!”
+CHOICE:『延長して、もうちょっと歌おうよ』=Let's extend it and sing some more.
+CHOICE:『帰る仕度をしよっか』=Let's get ready to go home.
+「せっかくノってきたところだし、延長してもうちょっと歌おうよ」=“We're finally starting to get into it too, let's extend it and sing some more.”
+「そうこなくちゃ！　がんがんいくわよ」=“That's the spirit! Let's keep going all day.”
+「よしっ！　延長の電話入れとくよ」=“Alright--! I'mma put in the call for the extension.”
+「それじゃあ、そろそろ帰る仕度をしよっか」=“Well then, let's get ready to go home, shall we?”
+「もう一曲歌いたかったけど……ふぅ、今日のあたしのライブはここまでね」=“I wanted to sing one last song but... fuuh, guess I'll end my concert here today.”
+「……うん、また来ようね」=“...Yeah, let's come here again.”
+「今入れようとしてた曲で最後にしてお店を出よっか」=“Let's make that song you were trying to put in the last one and head out.”
+「歌う時間あるかしら？」=“Do you think we have the time?”
+「一曲なら大丈夫だと思うよ。ほら、せっかくだし入れなよ」=“I think we can fit in one more song, yeah. C'mon, go ahead and put it in.”
+「それじゃあ……最後はこの曲にするわ！」=“Well then... I'll make this song the last one!”
+『もしも今 背中に羽が生えて 大空自由に 飛び回れたら～♪』=『If only I could, sprout wings from my back, and fly freely, in this wide open sky~♪』
+「Ｆｕ、Ｆｕ～♪」=“Fuh, fuh~♪”

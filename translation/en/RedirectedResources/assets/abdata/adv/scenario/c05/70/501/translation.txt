@@ -1,0 +1,12 @@
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「……来ないなぁ」=“...She's sure taking her time.”
+（[H名]、どうしたんだろう？　もう、待ち合わせ時間は過ぎているはずなんだけど……）=(I wonder what happened? I'm pretty sure the time we set passed a while ago...)
+（人ごみの中に紛れちゃってるだけなのかな？　でも……ん？　後ろに誰か――）=(Is she just in the crowd somewhere? But... hm? Someone's behind--)
+「うおっ、[H名]！？」=“Uwoh--, [H]?!”
+「びっくりした……俺の真後ろでなにしてたの？」=“You scared me... what were you doing right behind me?”
+「もちろん、あなたの背中を観測していたんだよ」=“I was observing your back, of course.”
+「もちろん……？　観測……？　俺の背中を……？　ご、ごめん、それはどういう……」=“Observing...? My back...? Of course...? S-Sorry, just why were you...”
+「さ、行こ？」=“Let's go?”
+「う、うん。そうだね」=“O-Okay. You're right.”

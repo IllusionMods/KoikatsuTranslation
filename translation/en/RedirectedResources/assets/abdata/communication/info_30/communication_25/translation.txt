@@ -1,4 +1,6 @@
-﻿
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
 「うぉっ！？　へ、変態だ～！」=Uwoh--?! I-It's a pervert~!
 「うぉ！？　な、なに入って来てるの～！」=Uwoh!? W-Why are you coming in here~!
 「……ダルいんで無理っす」=...It's a pain so I can't.
@@ -89,6 +91,7 @@
 「やる気なさそ～なのってダメなの～？」=Is being lazy really all that bad~?
 「だよね～、他の人には関係ないよね～」=Right~, it's not anyone else's business afterall~
 「ん～？　みんなのやる気が下がる～？　やる気は個人の問題だと思うんだけどな～」=Nn~? It makes everyone demotivated too~? I feel like motivation is everyone's own personal problem though~
+「返事がびみょ～だね～、別にいいけどさ～」=What a wishy-washy answer~, well, not that I mind I guess~
 「どうでもいい質問だけど、動物ってどう～？」=This really doesn't matter but like, opinion on animals~?
 「いいよね動物～……ダラけても文句言わないし～」=Being an animal must be nice~... Nobody bitches at them for being lazy~
 「だよね～……相手するの大変そうだし～」=Right~... Seems like a pain to get along with them~

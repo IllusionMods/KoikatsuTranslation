@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「いや～～、遊園地の締めくくりは、やっぱ観覧車だよね」=“Man~, the ferris wheel really is the only way to end an amusement park date.”
 「ふふふ、よっぽど嬉しいのね。目が輝いているわ」=“Fufufu, you're really happy, huh? Your eyes are glimering.”
 「観覧車って、なんかいいと思わない？　別に乗り物として楽しいわけじゃないけどさ」=“Don't you think ferris wheels are nice? Even though it's not all that much fun as a ride in itself.”

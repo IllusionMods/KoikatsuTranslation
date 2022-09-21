@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 どうだ？　気持ちいいか？=How is it? Does it feel good?
 いいぞ、もっと気持ちよくなっちゃえ=Sure, enjoy this even more~
 それそれ、いっぱい気持ちよくなっちゃえ=Take that, feel lots of pleasure~

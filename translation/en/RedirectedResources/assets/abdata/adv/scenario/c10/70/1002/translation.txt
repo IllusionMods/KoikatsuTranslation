@@ -1,0 +1,19 @@
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「うーん、着慣れてないから落ち着かないな……」=“Mmm, really can't calm down in this tux...”
+（……[H名]は大丈夫かな？　緊張してないといいけど……）=(...Is [H名] alright? I hope she's not too nervous...)
+（ガチガチになって泣いてないだろうか……ふふ、それはそれで見てみたいかも）=(I hope she's not scared stiff or sobbing herself dry... fufuh, then again, she'd still look cute like that.)
+（いよいよ出番か……）=(Showtime, huh...)
+（おぉ、立派な式場だ……）=(Ooo, what a splendid chapel...)
+（っと、ぼけっと見とれてる場合じゃない。[H名]の新郎役として恥ずかしくないよう、俺も堂々としないとな！）=(Woah, not the time to stand and appreciate modern architecture. I have to pull my weight too, can't embarrass her as her 'groom'!)
+（ふぅ、思ったより緊張したぁ……でも、不恰好ではなかった、はず。大丈夫だよな？）=(Fuu, that was more nerveracking than I expected... but, I wasn't uncool. Probably. Should have been fine, right?)
+モブ=Mob
+「これより新婦が入場致します。後方の扉口をご覧ください」=“And now, the bride will make her entrance. Please pay attention to the main door.”
+（[H名]……）=([H]...)
+闇の住人だと自称する[H名]が、純白のウェディングドレスに身を包んでいる。=[H], the self-proclaimed denizen of the dark, was standing there clad in a snow white wedding dress.
+普段の言動とのギャップが少しだけおかしくて、でも、ドレス姿は驚くくらいに似合っていて――。=The difference from her usual self almost enough to elicit a chuckle, yet, the dress suited her so well--
+どこか幻想的で美しい彼女に、俺は目を離せないでいた。=It was a fantastical, beautiful sight, and I could not take my eyes over her.
+「なんていうか……うん、綺麗だ」=“How do I say this... yeah, she's just beautiful.”
+「その、えっと……似合ってるよ、[H名]」=“Uhm, erhm... you look lovely, [H].”
+「う、うん……あ、ありがと……」=“I-I see... t-thanks...”

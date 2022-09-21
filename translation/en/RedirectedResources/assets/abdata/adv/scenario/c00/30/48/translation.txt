@@ -1,1 +1,4 @@
-﻿「まだ余韻が続いてるわ……。ねぇ、また……してくれるわよね？」=The afterglow's still lingering... Hey, you'll... do me again, right?
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「まだ余韻が続いてるわ……。ねぇ、また……してくれるわよね？」=The afterglow's still lingering... Hey, you'll... do me again, right?

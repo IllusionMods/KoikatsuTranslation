@@ -1,4 +1,7 @@
-﻿「……あぁ、いやだよぉ」=...Aah, I don't want to!
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「……あぁ、いやだよぉ」=...Aah, I don't want to!
 「……ごめん」=...Sorry.
 「いや、いやだぁ。なんでもするからそんなこと言わないで」=No, I don't want to! I'll do anything for you, so please don't say that.
 「……もう、決めたんだ」=...I've already made up my mind.

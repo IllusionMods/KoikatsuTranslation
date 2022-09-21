@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「へえ、色々あるんだね」=Heh, there's quite the variety.
 「気になってるミニシアターがあるんだけど、覗いてもいい？」=There's a mini-theatre that I've been curious about, can I take a peek?
 「うん、いいよ」=Sure, go ahead.

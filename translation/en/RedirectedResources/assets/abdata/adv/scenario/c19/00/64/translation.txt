@@ -1,2 +1,5 @@
-﻿「おじゃまします。ふふっ、なんだか私……通い妻になったみたいだね」=I'm coming in. Fufu--, I've kinda... become a regular visitor here, haven't I?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「おじゃまします。ふふっ、なんだか私……通い妻になったみたいだね」=I'm coming in. Fufu--, I've kinda... become a regular visitor here, haven't I?
 「……って、も、もうやる気満々だね……。そんなに私のこと……ほしいのかな？」=...Wuh, y-you're just raring to go, aren't you... Do you want me... that badly?

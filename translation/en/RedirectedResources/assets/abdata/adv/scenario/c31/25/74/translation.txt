@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「さて、何をしようか？　もう決めているのか？」=Now then, what shall we do? Have you already decided on something?
 「何をするにしてもまずは準備運動かな。二人でストレッチしようよ」=No matter what we end up doing, we'll need to warm up first. Let's do some stretches together.
 「言っている事はもっともだが……鼻の下が伸びているぞ？　まったく、スケベな奴め……」=While I do agree with that suggestion... Your nostrils are flaring up, you know? Good grief, what a perverted chap...

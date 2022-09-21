@@ -1,1 +1,4 @@
-﻿「うわっ！　だめじゃないか、こんなところに入ってきちゃ！　早くでてけよ！」=Uwah--! You shouldn't be in here! Beat it!
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「うわっ！　だめじゃないか、こんなところに入ってきちゃ！　早くでてけよ！」=Uwah--! You shouldn't be in here! Beat it!

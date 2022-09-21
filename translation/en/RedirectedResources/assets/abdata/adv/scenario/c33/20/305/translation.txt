@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「ただいまー、あれ？　歌ってないの？」=I'm back. Huh? You're not singing?
 「ええ、休憩中」=Yes, I'm taking a breather.
 「そっかー」=I see.

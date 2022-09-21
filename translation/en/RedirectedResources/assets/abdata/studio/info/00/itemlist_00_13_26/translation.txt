@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 波動・円=Energy Wave (Circle)
 波動・柱=Energy Wave (Pillar)
 波動・斬=Energy Wave (Arc)

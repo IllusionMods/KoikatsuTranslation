@@ -1,0 +1,34 @@
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+………………=.........
+…………=......
+……=...
+「えっと……今日は一日付き合ってくれてありがとう。すごく楽しかったよ」=“Erhm... thanks, for keeping me company the whole today. I had a blast.”
+「私も思い出に残る一日だったのです。今日のこと、一生忘れないですよ！」=“It was a very memorable day for me as well. I will never ever forget about today!”
+「あはは、さすがにそれは大げさだよ」=“Ahahah, you sure you're not exaggerating there?”
+「大げさじゃないですよ。あなたと過ごす一日は、全部、一生忘れられない日なのです」=“I'm not. Every single day we spend together, they are unforgettable days to me.”
+「[H名]……ありがとう。そう言ってもらえると嬉しい。俺も[H名]と過ごす日は一生忘れないようにするよ」=“[H]... thanks. You don't know how happy that makes me. I'll try to not forget even a single day between us either.”
+「じー……本当ですか？」=“*Stare*... will you really?”
+「あはは、本当だって。でも……そんな可愛い顔をされたらちょっと離れがたくなる」=“Ahahah, I will, I will. But... if you show me such an adorable face, how am I supposed to let you go?”
+「か、かわっ……はぅぅ……そんなこと言われると……私も離れがたくなるですよ……」=“A-Adora... hauu... don't call me adorable... I won't want to go back home either...”
+「[H名]……」=“[H]...”
+CHOICE:『自宅に誘う』=Take to your place.
+CHOICE:『ラブホに誘う』=Take to love hotel.
+CHOICE:『さよならする』=Say goodbye.
+「あー、だったらさ、もし良かったらでいいんだけど……この後、うちに寄っていかない？」=“Ah, in that case, if you're up for it, that is... wanna hit up my place?”
+「ふぇっ……いいですか！？　えへへ、私も……出来ればそうしたいって思ってたですよ」=“Fueh--... could I!? Eheheh, I wanted to... do that too, I just couldn't say it.”
+（ダメだ……可愛すぎて、今すぐ抱き締めたくなってきた……）=(It's no good... she's too adorable, I wanna hold her tight right here on the spot so bad...)
+「あ、あのさ、[H名]。まだ時間大丈夫だったら……この後、二人きりで過ごせるとこに寄っていかない？」=“L-Listen, [H]. If you still have some time... how about we go somewhere more private?”
+「はぅっ……それって……そーいう場所……ですか？」=“Hauu... do you... mean that sort of a... place?”
+「うん……そういう場所……ダメかな？」=“Yeah... that sort of place... if you don't want to, that's alright too.”
+「えへへ……ダメじゃないですよ。あなたがそうしたいなら……私は喜んでついて行くです！」=“Eheheh... why would I not want to? If you want to go there... I'll gladly tag along!”
+「私だって……もう少しあなたの近くでくっついていたいですよ……」=“I want to... cling to you lots more too, you know...”
+「[H名]……ありがとう。手、繋いで行こう」=“[H]... thank you. Let's hold hands.”
+「どんなに離れがたくても節度を持って付き合わなきゃダメだよね。途中まで送ってくよ」=“No matter how hard it is to say goodbye, we can't overdo things. I'll walk you back to the station.”
+「はぅ……そうですね……ありがとうございます……」=“Hauu... of course... thank you very much...”
+「寂しい思いさせてごめんね。俺も……寂しいけど……」=“Sorry, for making you sad. I'm... pretty sad too...”
+「えへへ、そんなお顔しないでください。寂しいのは本当ですけど……その分、嬉しくもあるですよ」=“Eheheh, please don't make that face. It's true that I'm sad but... I'm just that much more happy too.”
+「嬉しい？」=“Happy?”
+「はいです！　すごく大切にされてる気がして……えへへ。私……あなたのこと、大好き……また学園で会えるのを楽しみにしてるです」=“Yes! You treasure me so much... eheheh. I... love you... I'll be waiting to see you at school.”
+「[H名]……うん、俺も楽しみにしてるよ」=“[H]... yeah. So will I.”

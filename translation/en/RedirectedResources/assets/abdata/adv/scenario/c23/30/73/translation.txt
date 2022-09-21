@@ -1,5 +1,7 @@
-
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
 ………………=.........
 …………=......
 ……=...
-//「おわったぁ。二人でやると楽しいんだなぁ。えへ、へ」=
+「おわったぁ。二人でやると楽しいんだなぁ。えへ、へ」=“It's over~. Doing it together makes it fun, doesn't it~? Eheh, heh.”

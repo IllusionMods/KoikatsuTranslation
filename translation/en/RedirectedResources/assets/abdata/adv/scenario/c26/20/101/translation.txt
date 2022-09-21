@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 （うーん、どうしたのかな。あまりしゃべらないのは、いつものことだけど）=(Nnn, I wonder what's wrong? I mean, not that she talks all that much normally to begin with.)
 「もしかして、公園デートつまらない？」=“By any chance, are you bored?”
 「そんなこと、ないけど。……なんで？」=“Not, at all. ...Why?”

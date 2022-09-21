@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「ふぅ、これで本当に遊園地とはさよならかしら」=Fuu, I suppose this really is farewell to the amusement park.
 「そうだね……なんか一気に寂しくなっちゃったな……」=You're right... Somehow, it feels really lonely all of a sudden.
 「なら、また来ればいいじゃない。私なら、何回だって付き合ってあげるわよ」=In that case, we should come again sometime. I'll tag along with you as many times as you want.

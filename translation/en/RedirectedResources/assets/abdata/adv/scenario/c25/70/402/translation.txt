@@ -1,0 +1,28 @@
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「はぁ～、やっと座れた～」=Haa~, we finally got to sit down~
+「なんかすごい混んでるよね」=It's pretty packed here, isn't it?
+「ね～、一人だったら絶対来なかったすよ～」=Hey~, I would have never come here by myself, you know~?
+「うん、俺も待つの嫌いな方だから、一人だと別のところいくかな」=Yeah, I hate waiting too so, if I was by myself, I think I'd have gone somewhere else.
+「並ぶの面倒くさいもんね～、あと時間ももったいないしさ～」=It's a pain to line up, afterall~, and it's a waste of time too~
+「そうだね」=Yeah.
+「じゃあ、注文をしようか……店員さんはっと、あちゃー、遠くに行っちゃった」=Then, let's order, I guess... the waiter is, darn, they already ran off.
+「あっ、あの制服オシャレっすね～」=Ah--, that uniform's pretty stylish, don't you think~
+「そうだね。そういえば[H名]は……」=Yeah. Reminds me, [H名]...
+「おしゃれとか興味あるの？　女子って男子と違って、化粧とか色々面倒だけど……」=You have an interest in things like fashion and stuff? Unlike boys, girls' make-up seems like a massive pain...
+「まぁ、確かに面倒だけど～、ちゃんと気を使ってるよ～」=Well, it is a pain for sure but~, I do pay attention to that stuff~
+「一応、年頃の女の子だしね～。特にファッションは大事だと思うな～」=For what it's worth, I am a girl of that age too~. I think fashion in particular is pretty important~
+「やっぱり、そうなんだ。今日も可愛らしいもんね」=I thought as much. You look lovely today too, afterall.
+「ふふふ、ありがとう。キミのためにバッチリ決めてきたからね～」=Fufufu, thanks. I picked all of this out just for you, afterall~
+「そっか……。俺のために嬉しいよ、本当に」=I see... For me, huh? That makes me really happy, for real.
+「……い、いえ……うぅ、見つめられて言われると、照れくさいっす」=...I-It's nothing... Uuu, when you say that stuff while looking me right in the eyes, it's really embarrassing.
+「キミの言う通り面倒だから、あんまり興味ないかな～」=Just like you say, it's a pain so, not really all that interested in it~
+「髪型をセットするだけでも結構、時間かかるもんね」=Even just stuff like putting your hair in order takes a ton of time, afterall.
+「うん。特に気合い入れてる子は、男子より何時間も早く起きてるらしいよ～」=Yeah. Especially girls who go the extra mile, they get up way earlier than boys do, you know~
+「えー、それは大変だな。俺が寝てる間に陰で苦労してるんだね……」=Eeh, that sounds like a pain. Girls work hard in the shadows while I'm sound asleep, huh...
+「でも、私は内面を重視するほうだからさ～。ほら人間、見た目よりも中身って言うでしょ～？」=But, I'm the type to put personality first over looks myself, ya know?~ Like you know how people say to not judge books by their covers and all that~?
+「俺も内面派かな。やっぱり性格が一番、大切だよね」=I'm the same way myself. Personality really is the most important thing, isn't it?
+「[H名]みたいな、優しい子のほうが魅力的だと思うよ」=I think a kind, sweet girl like you, [H名], is way more attractive than others.
+「えっ、ちょっと～。無理矢理、褒めたって何もあげないすよ～……」=Eh--, come on~. Even if you butter me up, you're not gonna get anything out of me~...
+（[H名]の照れてる姿、可愛いな……）=(She looks so cute when she's blushing...)

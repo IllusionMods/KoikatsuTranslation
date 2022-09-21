@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「ちょっとお願いがあるんだけど、一回でいいからお互いに愛称で呼び合ってみない？」=“I've got a request, just once would be fine so, wanna call each other by nicknames?”
 「……愛称？　……別にいいけど、どうして急に？」=“...Nicknames? ...Sure but, why so suddenly?”
 「恋愛漫画を読んで、羨ましいと思ってさ」=“I was reading this romance manga, and got a bit envious.”

@@ -1,4 +1,7 @@
-﻿（よし、待ち合わせ時間には十分余裕があるな。さすがに[H名]はまだ……って、もう来てた！）=(Alright, I got here plenty early. Even [H名] shouldn't have...--wuh, she's already here!)
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+（よし、待ち合わせ時間には十分余裕があるな。さすがに[H名]はまだ……って、もう来てた！）=(Alright, I got here plenty early. Even [H名] shouldn't have...--wuh, she's already here!)
 「ごめん！　待たせちゃった！？」=Sorry! Did I keep you waiting!?
 「あ、ううん、私も今来たとこよ。というか、君、早くない？」=Ah, no, I just got here myself. Rather, aren't you here way too early?
 「[H名]こそ。待ち合わせにはまだまだ時間あるよ？」=I should be saying that. There's still lots of time before we had to meet up, you know?

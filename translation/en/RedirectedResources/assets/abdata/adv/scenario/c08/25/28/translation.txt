@@ -1,1 +1,4 @@
-﻿「うわ～！　嬉しいなぁ、嬉しいなぁ、ありがとぉ♪」=Uwah~! I'm so happy, I'm so happy, thanks♪
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「うわ～！　嬉しいなぁ、嬉しいなぁ、ありがとぉ♪」=Uwah~! I'm so happy, I'm so happy, thanks♪

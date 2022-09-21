@@ -1,4 +1,7 @@
-﻿「Ｗｏｗ！　今日はイイ天気ネー！　ゴハンがススムヨー！」=Wow! It sure is a great day today! Lunch's gonna go super well!
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「Ｗｏｗ！　今日はイイ天気ネー！　ゴハンがススムヨー！」=Wow! It sure is a great day today! Lunch's gonna go super well!
 「はは、変わった言葉を覚えてるね」=Haha, you sure are using quite the words.
 「コレ、変わった言葉デスカ？」=Was what I said weird?
 「うーん、日本語に慣れてない人はあんまり使わない気がするかな」=Hmmm, I feel like people not used to Japanese wouldn't phrase it like that.

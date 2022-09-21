@@ -1,4 +1,7 @@
-﻿あ、あの……ほんとに、ここで？=U-Uhm... really, here?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+あ、あの……ほんとに、ここで？=U-Uhm... really, here?
 は、早くやりましょう。待ってるのも、恥ずかしいので……=L-Let's do it quickly. It's embarrassing, to wait for it too...
 は、はい……あの、目立たないように、お願いします=Y-Yes... Uhm, please make sure, that we don't stand out.
 あ、あまり激しくは……ダメですよ？=D-Don't be... too rough, okay?

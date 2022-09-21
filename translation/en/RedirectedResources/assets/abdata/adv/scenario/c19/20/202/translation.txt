@@ -1,4 +1,7 @@
-﻿「ねえ、[H名]。あそこにゲームコーナーがあるみたいなんだけど、寄っていかない？」=Hey, [H名]. Seems like there's an arcade over there, wanna try hitting it up?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「ねえ、[H名]。あそこにゲームコーナーがあるみたいなんだけど、寄っていかない？」=Hey, [H名]. Seems like there's an arcade over there, wanna try hitting it up?
 「ゲームコーナー？　……あっ、クレーンゲームが並んでる」=An arcade?... Ah--, there's all sorts of crane games and everything.
 「あれから見ようよ」=Let's check that one out first.
 「うんっ。……へえ、色んな景品があるんだ。ねえ、見て。この遊園地のマスコットの帽子とかＴシャツとかもある」=Okay--. ...Hoh, there's all sorts of prizes. Hey, look. They've even got stuff like a cap with the park's mascot on it, or a t-shirt and whatnot.

@@ -1,4 +1,7 @@
-﻿「綺麗……」=It's beautiful...
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「綺麗……」=It's beautiful...
 「ここから見える夜景が綺麗って評判だったから、[H名]と一緒に見たかったんだ」=I'd heard that the view of the night sky from here was really beautiful so, I wanted to see it with you, [H名].
 「そうだったのね……こんな場所があったなんて」=So that was it, huh... to think a place like this existed all this time.
 「どう、かな？　感想は？」=How, is it? Thoughts?

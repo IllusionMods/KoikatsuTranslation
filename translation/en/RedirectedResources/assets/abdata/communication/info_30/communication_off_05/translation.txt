@@ -1,4 +1,6 @@
-
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
 「どうしたの？　早く出ていったら？」=“What's the matter? Considered leaving this place?”
 「きゃっ！　びっくりしたぁ。どうなっても知らないよ？」=“Kyah--! That surprised me~. Don't blame me later, alright?”
 「見て分かるよね？　忙しいの」=“You can tell just by looking, no? I'm busy.”
@@ -90,6 +92,7 @@
 「どうして自分はこんなところにいるんだろうって思ったこと、ある？」=“Ever thought about why we're here?”
 「本当？　じゃあ、もしかしてあなたも……？」=“Really? Then, are you one of...?”
 「そうだよね。今までそんな人に会ったことないし……」=“Right. I've never met a guy who did.”
+「あなたにこんなこと聞いても、無駄だったかな」=“Guess there was no point in asking you that.”
 「あなたって動物、好き？」=“Do you like animals?”
 「わたしも動物は好き。今はなにも飼ってないけど」=“Me too. Got none right now though.”
 「わたしも好きじゃない。考えてること分からないし」=“I don't either. Can't tell what they're thinking.”

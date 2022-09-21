@@ -1,4 +1,7 @@
-﻿「それじゃ、準備運動は念入りにね」=Well then, let's do warmups, just in case.
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「それじゃ、準備運動は念入りにね」=Well then, let's do warmups, just in case.
 「……んー？　キミの手、変なとこに当たってないかー？」=...Nnn? You sure your hand isn't going some place weird?
 「ご、誤解だよ！　いまのは偶然だから！」=Y-You're misunderstanding it! That was just a coincidence!
 「へへー、他の運動で勝負しちゃうかー？」=Hehe, wanna have a round of something more different?

@@ -1,4 +1,6 @@
-
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 立ち亀頭いじり=Stand Glans Rub
 立ち片手コキ=Stand 1H HJ
 立ち玉舐め手コキ=Stand HJ/Ball Lick

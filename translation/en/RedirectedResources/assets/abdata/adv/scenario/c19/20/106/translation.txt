@@ -1,4 +1,7 @@
-﻿「やっぱりここの景色はいつ見ても綺麗……」=No matter when we come here, the view's always so lovely...
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「やっぱりここの景色はいつ見ても綺麗……」=No matter when we come here, the view's always so lovely...
 「実はあれから何度も、一人で来てみようかなって思ったの」=I've actually thought about coming to this place a lot of times, by myself, since that day.
 「あ、そうなんだ。でも、『思ってた』って言うことはまだ来たことないんだよね？」=Ah, I see. But, since you said "thought about", I take it you didn't actually go through with it?
 「うん……あなたと見るのと違う景色がそこにあるのかなと思って、興味があったんだけど……」=Yeah... I was a bit interested in seeing, whether the view would look any different, just by myself, but...
@@ -11,6 +14,8 @@
 「景色だけじゃなくって吹き抜けていく風も、まるで目の前にあるかのように思い出して……」=It's not just the view either, the breeze too, I could remember it, as if I was right here all over again...
 「それだけ、ここは私にとってもとても大切な場所になったんだなって思ったの」=It made me realize, just how precious this place had become to me.
 「[H名]……」=[H]...
+CHOICE:『エッチしたことも思い出した？』=Remembered how we had sex here too?
+CHOICE:『……そろそろ帰ろうか』=...Let's go home.
 「それで、エッチしちゃったことも一緒に思い出しちゃった？」=So, did you remember how we had sex here too, along with the rest?
 「え……！？　それは、えっと……」=Eh...!? That's, erhm...
 「……あの夜はすごくドキドキしちゃったから……忘れられるわけないよ」=...You made my heart race so much that night... there's no way I could forget.
@@ -27,5 +32,3 @@
 「……ううん、ありがとう、今日はこのくらいで大丈夫」=...No, thank you. I'm happy with this much for today.
 「ねえ、またここに連れてきてね、[P名]君」=Hey, bring me out here again sometime, okay? [P]-kun.
 「もちろんだよ、約束する」=Of course, I promise you that.
-CHOICE:『エッチしたことも思い出した？』=Remembered how we had sex here too?
-CHOICE:『……そろそろ帰ろうか』=...Let's go home.

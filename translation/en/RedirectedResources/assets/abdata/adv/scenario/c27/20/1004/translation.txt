@@ -1,3 +1,7 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+モブ=Mob
 「お疲れ様でした。ふふっ、素敵な式でしたよ」=“Good work today. Fufu~ It was a lovely ceremony.”
 「本番の結婚式も、是非、私どもの式場で挙げてくださいね！」=“For your actual wedding as well, please, do call upon us!”
 「えっと、前向きに考えさせてもらいます」=“Uhm, sure, if we get to that point.”
@@ -11,5 +15,3 @@
 「素敵な思い出が出来たし、今日はそろそろ帰ろうか」=“We got to make some really wonderful memories, so let's back home.”
 「……そういえば、デート中だったわね」=“...Right, we were on a date, weren't we?”
 「はは、今日は忘れられないデートになったね」=“Haha, it really became an unforgettable one, didn't it?”
-
-モブ=Mob

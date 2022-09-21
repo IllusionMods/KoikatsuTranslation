@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「了解なのです！　何でもするですよ！　何がいいですか？」=“Roger! I'm up for anything! What should we do?”
 「そうだなぁ……バドミントンとかどう？」=“Let's see~... how about badminton?”
 「おおっ、なかなか良いですね！　では早速準備するですよー！」=“Ooh--, sounds fun! Well then, I'mma go get ready~!”

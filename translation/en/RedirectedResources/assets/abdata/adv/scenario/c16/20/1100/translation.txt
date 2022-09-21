@@ -1,27 +1,32 @@
-//「これより新婦が入場致します。後方の扉口をご覧ください」=
-//（[H名]……）=
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+モブ=Mob
+「これより新婦が入場致します。後方の扉口をご覧ください」=“And now, the bride will make her entrance. Please pay attention to the main door.”
+（[H名]……）=([H名]...)
 //――もう一度、[H名]と式を挙げることが叶った。=
 //それも初めてのような模擬ではなく、本当の結婚式として。=
 //あの時、“[H名]を幸せにしたい”と思った気持ちは、今も変わってない。=
 //（本当に……夢のようだ……）=
-//「それではこれより、式を執り行います」=
-//「新たなご出発の証として、お二人には誓いの言葉を立てていただきます」=
-//「[P名]さん、あなたは今、この女性を妻とし夫婦になろうとしています」=
-//「汝、健やかなるときも、病めるときも、喜びのときも、悲しみのときも、富めるときも、貧しいときも」=
-//「これを愛し、これを敬い、これを慰め、これを助け、その命ある限り、真心を尽くすことを誓いますか？」=
-//「はい、誓います」=
-//「[H名]さん、あなたは今、この男性を夫とし夫婦になろうとしています」=
-//「では、二人の誓いの印として、指輪の交換を致します」=
-//「初めに新郎から新婦へ」=
+「それではこれより、式を執り行います」=“Then without further ado, let's start the ceremony.”
+「新たなご出発の証として、お二人には誓いの言葉を立てていただきます」=“As the proof of a fresh departure, you both have to make certain vows.”
+牧師=Pastor
+「[P名]さん、あなたは今、この女性を妻とし夫婦になろうとしています」=“Mr. [P名], you are now about to take this woman to be your wife.”
+「汝、健やかなるときも、病めるときも、喜びのときも、悲しみのときも、富めるときも、貧しいときも」=“Do you promise, in times of sickness or in health, in times of happiness or sadness, whether you are rich or poor,”
+「これを愛し、これを敬い、これを慰め、これを助け、その命ある限り、真心を尽くすことを誓いますか？」=“to love her, to respect her, to comfort her, to support her, till the end of days, to the full extent of your abilities?”
+「はい、誓います」=“Yes, I vow.”
+「[H名]さん、あなたは今、この男性を夫とし夫婦になろうとしています」=“Miss [H名], you are now about to take this man as your husband.”
+「では、二人の誓いの印として、指輪の交換を致します」=“Then, as the proof of your vows, you may now exchange the rings.”
+「初めに新郎から新婦へ」=“First from the groom to the bride.”
 //「見て、今日は全然震えてないの。模擬の時みたいに、情けない姿は見せないわ」=
 //「うん、見違えたよ。いつもの自信たっぷりな[H名]に戻ってよかった……でも、俺が逆に緊張してる……」=
 //「あらら、大丈夫よ。今日は私が、アナタを支えるわ」=
 //「ありがとう。支え合えるっていいね。俺、[H名]と結婚できて、本当によかった」=
-//「新婦から新郎へ」=
+「新婦から新郎へ」=“Now from the bride to the groom.”
 //「うぅ、まずい……模擬の時と本当に逆だ、俺の震えが止まらない」=
 //「落ち着いて、私が傍にいるわ。比喩でもなんでもない、本当に一生傍にいるから」=
 //「うん、そうだよね。俺達、本当に一生一緒にいられるんだよね」=
-//「最後に、愛の証としてキスをしていただきます」=
+「最後に、愛の証としてキスをしていただきます」=“Lastly, as the proof of your love, you may now kiss each other.”
 //「[H名]、愛してるよ。ちょっと早いけど、今日は何回言ってもいいよね？」=
 //「ええ、何回でも聞くわ。それに、私も何回でも言う、愛してるわアナタ……」=
 //「結構待たせちゃったかな……いっぱい不安にさせたと思う、でも今日からは……」=
@@ -38,12 +43,9 @@
 …………=......
 ……=...
 //「……っちゅ、愛しています。一生、アナタを……」=
-//「ここに二人の愛は結ばれました」=
-//「それでは、皆様に誓いの印である指輪をご披露ください」=
+「ここに二人の愛は結ばれました」=“Here, these two have been bound in a union of love.”
+「それでは、皆様に誓いの印である指輪をご披露ください」=“Now then, please present the proof of vows, the rings, to everyone present.”
 //「はぁ～、やっと震えが止まったかも……良かったぁ、花嫁に支えられる新郎なんて、情けなさすぎるし」=
 //「そういうのもいいんじゃない？　私達らしくて、不格好でも、いつでも全力でやってきたわ」=
 //「そうだね。[H名]はいつも何事にも全量で、俺はそれにいつも勇気をもらってた」=
 //「これからは一緒に全力よ？　私の面倒さを後悔しても、もう絶対離さないんだから」=
-
-モブ=Mob
-牧師=Pastor

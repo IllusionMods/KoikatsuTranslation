@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「綺麗な並木道だね。だーって走り回りたくなっちゃう！」=“What a lovely boulevard. I just can't help but want to run around!”
 「うふふ……あんまりはしゃぐと転んじゃうわよ」=“Ufufu... do that overmuch and you're gonna trip on something.”
 「ははは、大丈夫だよ。心配な……おっとぉ！？」=“Hahaha, I'll be fine. You don't need to... woah!?”

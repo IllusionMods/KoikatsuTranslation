@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「アイスティーを注文してたけど、あんたはコーヒーより紅茶派なの？」=“I see you went for iced tea there, you part of the tea camp rather than the coffee one?”
 「両方好きだから、あんまり派閥とか気にしたことないな」=“I love both so, I've never really paid much mind to all that "camp" stuff really.”
 「私も一緒。だから、どっちが好きかって話で盛り上がってると、疎外感があるのよね……」=“I'm the same way. It really makes you feel kinda isolated, when people start getting fired up over which one they prefer and stuff, doesn't it...”

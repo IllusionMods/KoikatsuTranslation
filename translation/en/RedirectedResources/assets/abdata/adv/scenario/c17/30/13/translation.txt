@@ -1,4 +1,6 @@
-
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
 「デート？　そうね、恋人だものね……い、いいわよ、付き合ってあげる」=“A date? Well, we are lovers...Sure, lets go together.”
 「よかった！　行先はまだ決まってないから、これから考えておくよ」=“Great! I haven't thought about where to go yet, but I'll come up with something soon.”
 「ええ、わかったわ。……今から楽しみにしておくわね」=“Ok, I understand. ...I'll be looking foward to the date.”

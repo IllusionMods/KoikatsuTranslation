@@ -1,4 +1,7 @@
-﻿「お、来た来た。そんじゃ、いっただきま～す！ んむんむ……う～ん、うまいっ！」=Oh, it's here, it's here. Well then, I'mma dig in~! Nmnm... Mmm~, so good--!
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「お、来た来た。そんじゃ、いっただきま～す！ んむんむ……う～ん、うまいっ！」=Oh, it's here, it's here. Well then, I'mma dig in~! Nmnm... Mmm~, so good--!
 「本当においしそうに食べるね」=You sure are eating like it's the best thing you've ever eaten.
 「だって、見ろよこの山盛りのクリーム！　パンケーキもふわふわだ！」=I can't help it, look at this absolute mountain of cream! The pancake's so fluffy too!
 「[H名]ってすごく幸せそうに食べるなぁ……見てるこっちまで嬉しくなっちゃうよ」=You're eating that so happily... Just watching you do it is making me happy too.

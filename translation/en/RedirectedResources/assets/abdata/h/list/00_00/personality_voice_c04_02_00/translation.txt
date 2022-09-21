@@ -1,4 +1,7 @@
-﻿下手だったら、ごめんなさい=If I'm bad at it, then I'm sorry.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+下手だったら、ごめんなさい=If I'm bad at it, then I'm sorry.
 大丈夫。できる……はず=It's alright. I should... be able to.
 いっぱい気持ちよくなってね=Feel lots of pleasure, okay?
 ふふふ、気持ちよくしてあげる=Fufufu, I'll make you feel good.

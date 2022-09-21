@@ -1,3 +1,6 @@
-﻿「おまたせ！　もう来てたんだ、早いね」=Sorry for the wait! Already got here, huh? You're fast.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「おまたせ！　もう来てたんだ、早いね」=Sorry for the wait! Already got here, huh? You're fast.
 「こ、こんにちは！　……わ、私も今日を楽しみにしていたので、ちょっと早く来ちゃいました」=H-Hello! ...I-I was really looking forward to today too so, I came a bit earlier.
 「俺も同じ気持ちだよ。よし、それじゃあさっそく行こうか」=I feel the same way. Alright, let's go then.

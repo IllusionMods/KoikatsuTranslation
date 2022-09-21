@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 野球バット=Baseball Bat
 ヘルメット=Baseball Helmet
 つば広帽子=Wide-Brimmed Cap

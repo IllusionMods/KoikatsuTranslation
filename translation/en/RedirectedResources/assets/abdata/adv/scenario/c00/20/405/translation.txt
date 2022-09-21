@@ -1,4 +1,7 @@
-﻿「……んー、いい匂いだ。ハンバーグ、美味しそうだね」=...Nnn, smells nice. That hamburg steak looks delicious.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「……んー、いい匂いだ。ハンバーグ、美味しそうだね」=...Nnn, smells nice. That hamburg steak looks delicious.
 「ふふふ♪　お肉料理って、なんだか見てるだけで、ムラムラしてこない？」=Fufufu♪ Doesn't just looking at a meat dish kinda make you kinda turned on?
 「焼き色って、ステキ……。それにチリチリて鉄板に焼ける音が耳の中をくすぐっちゃう……」=That sear, so good... On top of that, the way the sound of the still-boiling oil tickles the insides of your ears...
 「うん、すごくいいね」=Yeah, it's amazing.

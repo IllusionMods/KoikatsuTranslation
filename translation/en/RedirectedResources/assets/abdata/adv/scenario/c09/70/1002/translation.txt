@@ -1,0 +1,17 @@
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+（うー、緊張するな。[H名]も気になるけど、どんな感じなのかな？）=(Uuu, I'm nervous. I'm curious about her too, just how're things on her end?)
+（いよいよ出番か……）=(Showtime, huh...)
+（うっ、なんか雰囲気に圧倒されちゃう……）=(Uu--, the atmosphere really has a punch to it...)
+（でも、ここまできたら、やるしかない！）=(But, now that I've come this far, no choice but to go to the end!)
+（ふぅ……ただ歩くだけで、こんなに緊張するなんて……うぅ、もっと気を引き締めないと！）=(Fuu... I can't believe I'm this nervous, from just walking a little bit... Uuu, I gotta get a grip!)
+モブ=Mob
+「これより新婦が入場致します。後方の扉口をご覧ください」=“And now, the bride will make her entrance. Please pay attention to the main door.”
+（[H名]……）=([H]...)
+いつも笑顔で明るい[H名]は、純白のウェディングドレスをまとい、更に輝きを増していた。=[H], who was always smiles, looked even brighter, clad in that wedding dress.
+ドレス以外はさっきまで喋っていた彼女そのままのはずなのに、なんだか胸が高鳴っていく。=Even though aside from that dress, she was the same girl who I was casually chatting with up until a bit ago, for some reason, my chest started throbbing.
+初めて[H名]のことを意識したときのことを思い出しながら、俺は[H名]の入場を見守る。=I watched over her entrance, while thinking back to the time I first thought of her as a girl, the first time I became aware of her.
+「……きれいだ」=“...You're beautiful.”
+「すごく、きれいだよ。思わず見とれてミスしそうだった」=“You're truly, beautiful. Almost to the point that I tripped over myself, staring at you.”
+「あ、ありがと……」=“T-Thanks...”

@@ -1,3 +1,6 @@
-﻿「身の危険を感じたら、いつでも逃げてくださいね」=If you ever feel like your person is at risk, feel free to run away at any time, okay?
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「身の危険を感じたら、いつでも逃げてくださいね」=If you ever feel like your person is at risk, feel free to run away at any time, okay?
 「大丈夫だって。心配性だなあ」=I'm telling you, it's fine. Such a worrywart.
 「……ああ、不安です。無事に帰れますように」=...Aah, I'm so worried. Please god, let us get home safely.

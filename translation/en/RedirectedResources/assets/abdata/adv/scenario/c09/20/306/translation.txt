@@ -1,8 +1,13 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「……ちょっと、疲れてきたかな」=“...I'm starting to get a bit tired.”
 「はは、俺もちょっと喉痛いかも。でもまだ時間あるんだよね」=“Haha, my throat kinda hurts too. But we still have some time on the clock, don't we?”
 「そうだけど……歌う曲も、もう無くなってきたわ」=“Yeah but... I'm out of songs to sing too.”
 「俺のレパートリーもそろそろ限界かな……」=“My repertory is starting to run pretty empty too...”
 「どうする？　あんたに任せるけど」=“What do you wanna do? I'll leave it to you.”
+CHOICE:『それじゃ、最後までいようか』=Let's stay till the end then.
+CHOICE:『今日はもう帰ろうか』=Let's go home for today.
 「せっかくだし、もうちょっと長く居たくない？　歌は歌わないにしてもさ」=“Well, we're on a date so, how about we stick around a bit longer? We don't necessarily have to sing.”
 「ええ、いいわよ。ふふ、あんたもおんなじこと思ってたのね。なんか、うれしい……」=“Yes, okay. Fufu, you were thinking the same thing too, huh? Makes me, kinda happy...”
 「へ～、同じこと思ってるんだ～、じゃあ、これもしていいよね」=“Hoh~, same as me, huh~, then, this should be fine too, right?”
@@ -20,6 +25,3 @@
 「え？　ご、ごめん、最後の方聞き取れなかった。なんて言ったの？」=“Eh? S-Sorry, I couldn't catch what you said near the end. What'd you say?”
 「もう、べーだっ！　一度しか言ってあげない！」=“Jeez, bleh--! I'm not saying it again!”
 「えぇ、なんでだよ。もう一度言ってくれよ」=“Eeh, why though? Just tell me.”
-
-CHOICE:『それじゃ、最後までいようか』=Let's stay till the end then.
-CHOICE:『今日はもう帰ろうか』=Let's go home for today.

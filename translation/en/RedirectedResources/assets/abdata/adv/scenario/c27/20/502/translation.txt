@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「あ、おーい！　[H名]、こっちだよ」=“Ah, hey! [H名], over here.”
 「む……あんたの方が早く来てる。なんか悔しい」=“Muh... you always get here first. It's kinda frustrating.”
 「ふふ、男として女の子を待たせる訳には行かないからね」=“Fufu, I can't exactly make a girl wait, now can I?”

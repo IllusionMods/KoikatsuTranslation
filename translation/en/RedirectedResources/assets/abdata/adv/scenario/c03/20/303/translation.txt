@@ -1,6 +1,11 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 ブー、ブー、ブー……=*Boop*, *boop*, *boop*...
 「あっ、もう時間ギリギリなのですっ！　スマホのアラームが鳴ってしまったですよー」=“Ah--, our time's almost up--! The alarm on my phone's going off--”
 「きちんとセットしてくれてたんだ。ありがとう。えーっとそれじゃ……」=“You set an alarm up? Thanks. Erm, well then...”
+CHOICE:『もう少し延長しない？』=Wanna extend it a bit?
+CHOICE:『帰り支度しよう』=Let's get ready to leave.
 「せっかくだし、もう少し延長しない？　もっと[H名]の歌、聞きたいな」=“Well, we came here and all, why not stay a bit longer? I wanna hear you sing some more, [H].”
 「はいですーっ！　私ももっともっとあなたのお歌聞きたいですよ！」=“Yes--! I want to hear you sing lots more as well!”
 「うん、まだまだ盛り上がっていこう！」=“Yeah, let's keep going just like this!”
@@ -11,6 +16,3 @@
 「よし、俺は[H名]を盛り上げるよ！」=“Alright, I'll be your hype-man!”
 『小さな手の平掴める物は～♪　きっと限られているけど～♪』=『The things this small hand can grasp~♪ Are surely limited, but~♪』
 「いえーい！」=“Yay~!”
-
-CHOICE:『もう少し延長しない？』=Wanna extend it a bit?
-CHOICE:『帰り支度しよう』=Let's get ready to leave.

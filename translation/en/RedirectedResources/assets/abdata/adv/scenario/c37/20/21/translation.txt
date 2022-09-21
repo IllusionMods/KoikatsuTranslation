@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「……おはようございます」=...Good morning.
 「おはよ、どうしたの？」=Morning, what's up?
 「いえ、見惚れていただけです。さ、教室へ向かいましょう」=Nothing, I was just lost in your face. Come on, let's head to the classroom.

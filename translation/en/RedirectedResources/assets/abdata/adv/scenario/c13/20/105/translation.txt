@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「わぁ～っ！　マジ綺麗じゃん！」=Waah~! It's super pretty!
 「どうかな、気に入ってもらえた？」=How is it, do you like it?
 「うんうん！　マジでさいっこー！」=Yeah, I do! It's the best!

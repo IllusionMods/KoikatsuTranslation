@@ -1,4 +1,9 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「辺りはすっかりオレンジ色ね……」=The surroundings are dyed completely orange...
+CHOICE:『夜景を見せにいく』=『Take her to see the Night View』
+CHOICE:『切り上げて駅に向かう』=『Wrap it up and head to the station』
 「[H名]さん、まだ時間ある？」=[H名]-san, Do you still have some time?
 「ええ。たっぷりね」=Yes. Lots.
 「じゃあ、一緒に見たいものがあるんだけど、ついてきてもらっていい？」=Then, there's something I wanna show you, will you come with me?
@@ -11,6 +16,3 @@
 「シャワー」=A shower--
 「エッチなこと考えてくれた？」=Having lewd thoughts?
 「ま、また誘導したの？」=T-trying to lead me on again?
-
-CHOICE:『夜景を見せにいく』=『Take her to see the Night View』
-CHOICE:『切り上げて駅に向かう』=『Wrap it up and head to the station』

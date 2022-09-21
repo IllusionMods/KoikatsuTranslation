@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「うっぎゃああ！？　ここ女子トイレだぞ！　男は出てけぇー！」=“Uggyaaah!? This is the girls' toilet, you know?! Boys need to get the hell out!”
 「ぎゃぁー！　覗くな変態！　出てけぇー！」=“Gyaah! Don't peep, you pervert! Get out!”
 「いま、キミと話してるヒマないんだ。んじゃ」=“I don't have time to talk with you right now. See ya.”

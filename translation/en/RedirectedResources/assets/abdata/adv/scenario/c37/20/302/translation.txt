@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「……ふぅ」=...Fuu
 「大分歌ったね、ちょっと一息入れようか？」=We've sang a lot. Shall we take a breather?
 「はい、丁度飲み物も切れてしまいました」=Yes, we've just run out of drinks too.

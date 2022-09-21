@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「すっごく美味しそう～……ふふ、お腹がなっちゃいそうだわ」=“That looks delicious~... Fufu, feels like my belly's gonna growl.”
 「ん～、いい匂いだねー」=“Nn~, smells really nice, doesn't it?”
 「あらあら、よだれが出てるわよ……ほら、そこ……口の横」=“My, you're drooling... over there... side of your mouth.”

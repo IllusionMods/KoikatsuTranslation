@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「今日はすっごく楽しかったですっ！　ありがとうなのですっ！」=“Today was a blast--! Thank you--!”
 「次回は……もっともっと近しい関係でデート出来ると……もっとドキドキしちゃうかなーなんて……思ってるです……」=“If our next one... ends up being a bit more intimate than this one... it'll probably be even more exciting, and stuff... that's how I feel, anyway...”
 「あ、で、でもでもっ……私が勝手に思ってるですからっ、き、気にしないでくださいですーっ！」=“Ah, b-but but--... it's just a selfish thought of mine so--, p-please don't take it too seriously!”

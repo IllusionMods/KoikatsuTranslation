@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「えっと……混ざりたいの？　……どうする？」=Erhm... You wanna join us? What do you wanna do?
 //「……少し恥ずかしいですが……３人でするというのは中々ない機会だと思いますので、やらせていただきます」=
 「えっと……混ざりたいの？　俺はいいけど……」=Erhm... you wanna join us? I'm fine with it but...

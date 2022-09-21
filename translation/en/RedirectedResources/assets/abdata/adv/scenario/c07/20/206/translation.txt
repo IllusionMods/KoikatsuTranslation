@@ -1,4 +1,7 @@
-﻿「ふぅー、ずいぶん歩き回ったから、ちょっと疲れちゃったなぁ」=Fuu, I'm a bit tired from all that walking we did.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「ふぅー、ずいぶん歩き回ったから、ちょっと疲れちゃったなぁ」=Fuu, I'm a bit tired from all that walking we did.
 「今日はすごく混んでたもんな。人混み抜けるのも一苦労って感じでさ」=It was really crowded today, wasn't it? A pain just to make your way through the massive tide of people.
 「そうそう、今日ずっと一緒にいたはずなのに、やっと二人っきりになれたって感じがするね」=Yeah, exactly. Even though today ought to have been a day together for us, I feel like we finally have some alone time now.
 「はは、確かに。そう思うと、こうしてゆっくり楽しむ乗り物ってのもいいよな」=Haha, for sure. Thinking about it like that, this sort of slow, easy going ride is nice too, isn't it?

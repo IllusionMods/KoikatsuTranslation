@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「[Pあだ名]、か……そう呼ばれたらどんな気分なんだろうな」=“[Pあだ名], huh... wonder how it'd feel, to be called that?”
 「あらあら、悩み事かしら？　アンニュイなあなたも素敵だけれど、心配だわぁ」=“My my, something on your mind? You're lovely when listless like that too but, I'm worried~”
 「え！　いや、別に……何でもないよ」=“Eh! No, it's not... don't worry about it.”

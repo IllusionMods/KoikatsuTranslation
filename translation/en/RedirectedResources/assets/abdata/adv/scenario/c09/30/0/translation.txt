@@ -1,4 +1,6 @@
-
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
 「ねえ、ちょっといいかな」=“Hey, got a moment?”
 「あんた、例の転校生ね！　な、何？　あたしに用でもあるの？」=“You're that transfer student, aren't you! W-What is it? Do you need something from me?”
 「出来れば君と話したいんだけど……」=“I'd like to chat with you, if possible...”

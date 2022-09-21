@@ -1,0 +1,8 @@
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「もうすっかり、ここの空気にも慣れてきたよな！」=We've already completely gotten used to the air here, haven't we!
+「その割には、顔が赤くなってるけど……」=You say that, but you're blushing from ear to ear...
+「いやいや、そんなことねぇから！」=No way, you're just imagining things!
+「でも……まあ、優しくてしてくれるなら？　それに越したことはないけどな！」=But... well, if you do me gently today, it won't stay as your imagination!
+「ふふ、分かったよ。[H名]」=Fufu, I got it, [H名].

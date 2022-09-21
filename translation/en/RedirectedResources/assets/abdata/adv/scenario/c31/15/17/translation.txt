@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「んーっ、よく寝た。……あれ？　メモがある。なになに――」=Nnnn, I slept well.Oh? There's a letter. Let's see----
 『おはよう、[P名]。これを読んでいるのが、まだ朝であるといいのだが……』=『Morning, [P名]. It'd be great if it was still morning by the time you read this...』
 『ぐっすり寝ているから悪戯してやろうかと思ったが、少し用があるので先に出る』=『I thought I'd play a prank on you since you were sleeping so soundly but, I have some things to do, so I'm taking off first.』

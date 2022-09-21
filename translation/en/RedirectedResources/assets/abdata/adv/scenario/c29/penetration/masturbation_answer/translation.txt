@@ -1,2 +1,5 @@
-﻿「そ、そうなんですか……はい、私でよければ」=I-I see... okay, if you'll do with me.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「そ、そうなんですか……はい、私でよければ」=I-I see... okay, if you'll do with me.
 「あ、口止めとかではなくて、その……私もまだ物足りなくて……」=Ah, don't worry, it's not that you're coercing me, uhm... I still haven't had enough yet either so...

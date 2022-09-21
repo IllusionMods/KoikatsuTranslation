@@ -1,6 +1,8 @@
-
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
 「…………」=“......”
-//「……んぅ～、飽きたぁ～」=
-//「早いよ、まだ始めたばっかりじゃん」=
-//「そんな事言ったって、おまえが隣にいたんじゃ集中できないんだもん……」=
-//（さらっと照れくさいことを言われた……）=
+「……んぅ～、飽きたぁ～」=“...Nn~, I'm bored~”
+「早いよ、まだ始めたばっかりじゃん」=“We just started.”
+「そんな事言ったって、おまえが隣にいたんじゃ集中できないんだもん……」=“Even if you say that, I can't focus when you're right next to me...”
+（さらっと照れくさいことを言われた……）=(Without missing a single beat...)

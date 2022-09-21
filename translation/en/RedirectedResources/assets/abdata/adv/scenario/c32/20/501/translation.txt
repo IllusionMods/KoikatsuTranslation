@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 （きっちりしてる[H名]のことだから、１０分前行動とかしてるに違いない。遅れないようにしなきゃな）=(Since this is [H名] we're talking about, I bet she'll try to get there 10 minutes early. I gotta do my best to not be late)
 「よし！　１０分前に到着──って、もういる！」=Alright! I got here 10 minutes before--wait, you're already here!
 「案外早いんですね。あなたのことですから、遅刻か、ギリギリに到着するかと思っていました」=You're unexpectedly early. Considering it's you, I expected you to be late, or atleast just barely make it on time.

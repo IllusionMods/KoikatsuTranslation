@@ -1,0 +1,20 @@
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「男子とカラオケなんて……初めてだわ」=“Going out to Karaoke with a boy... it's the first time I've done this.”
+「友達とはよく来るの？」=“Do you come often with friends?”
+「誘われたら付き合うけど、自分からはあんまり」=“I tag along if I get invited but, not on my own initiative no.”
+「……私、音痴だし」=“...I'm tone deaf, afterall.”
+「お、それって本当は上手いパターンだ」=“Oh, and I bet you're gonna actually turn out to be a real good singer.”
+「フリじゃないわよ！」=“I'm not lying!”
+「ごめんごめん。ま、俺もあんまり上手くないし、そういうのは気にせず楽しく歌おう」=“Sorry, sorry. Well, I'm not all that good at singing either so, let's not worry about that stuff and just have fun.”
+「あと、本気で嫌なら言ってね。[H名]と一緒に楽しまなきゃ意味ないからさ」=“Also, if you really don't feel like singing, just say the word, okay? There would be no meaning to this if you don't enjoy yourself too, [H名].”
+「ん……歌うこと自体は好きだから、大丈夫」=“Nnn... I may be bad at it but, I do actually like singing, so it's alright.”
+「でも、流行りの歌とか、あんまりよく知らないわよ？」=“But, I don't really know all that many popular songs, you know?”
+「いいよ。[H名]の歌いたい曲をどんどん入れちゃおう！　はい、リモコン」=“It's alright. Let's put in all the songs you wanna sing, [H名]! Here, take the remote.”
+「私からなの！？」=“We're gonna start from me!?”
+「うん！　早く[H名]の歌声聴きたいな」=“Yeah! I wanna hear your singing voice real badly, [H名].”
+「……じゃあ、覚悟を決めるわ！」=“...Then, I'll prepare my heart!”
+「いえーい！」=“That's what I'm talking about!”
+『もしも今 背中に羽が生えて 大空自由に 飛び回れたら～♪』=『If only I could, sprout wings from my back, and fly freely, in this wide open sky~♪』
+（……歌ってる[H名]、可愛いなぁ）=(...She sure does look adorable, when singing)

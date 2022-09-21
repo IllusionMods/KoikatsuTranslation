@@ -1,4 +1,7 @@
-﻿「えへへ、混まずに乗れたね」=Ehehe, we managed to get on without having to wait.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「えへへ、混まずに乗れたね」=Ehehe, we managed to get on without having to wait.
 「運がよかったよ」=We got really lucky.
 「日頃の行いが良い結果だね♪」=It's because we're always nice to others♪
 「あはは……その理論なら、ずっと運がいいはずなんだけどな」=Ahaha... by that logic, our luck ought to always be good, when it isn't.

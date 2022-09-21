@@ -1,4 +1,7 @@
-﻿「えっ……ええと、一緒にお出掛けするということでしょうか……？」=Eh--... eerhm, do you mean going out together and hanging out and that sort of thing...?
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「えっ……ええと、一緒にお出掛けするということでしょうか……？」=Eh--... eerhm, do you mean going out together and hanging out and that sort of thing...?
 「うん、そういう事になるね……ダメかな？」=Yeah, basically yeah... no good?
 「だ、ダメではないですけど……私と一緒で、大丈夫ですか？　ヘルメットとか用意した方が……」=I-It's not that... will you be fine, with someone like me? Maybe I should prepare a helmet...
 「あはは……おおげさだなぁ……大丈夫だって。俺を信じて」=Ahaha... you sure do love exaggerating... It'll be alright. Have some faith in me.

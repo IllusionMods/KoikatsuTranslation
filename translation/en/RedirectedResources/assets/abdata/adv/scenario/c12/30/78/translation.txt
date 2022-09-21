@@ -1,5 +1,7 @@
-
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
 ………………=.........
 …………=......
 ……=...
-//「健全な心は健全な体に宿るんだぞ、おまえは不健全な事ばっか考えてるからすぐバテちゃうのっ」=
+「健全な心は健全な体に宿るんだぞ、おまえは不健全な事ばっか考えてるからすぐバテちゃうのっ」=“A healthy mind resides in a healthy body. Your mind's always in the gutter, that's why you always run out of stamina so easily--”

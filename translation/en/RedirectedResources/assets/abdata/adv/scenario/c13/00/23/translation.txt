@@ -1,3 +1,6 @@
-﻿「あ、[P]くん！　ちょっといいかな」=Ah, [P]-kun! Got a moment?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「あ、[P]くん！　ちょっといいかな」=Ah, [P]-kun! Got a moment?
 「これ、授業で作ったんだけど、その……よかったら食べて」=I made this in class and uhm... eat it if you'd like.
 「と、とにかく渡したから！　それじゃ！」=A-Anyways, I gave it to you, so my part's done! See ya!

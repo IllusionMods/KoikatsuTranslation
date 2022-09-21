@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 ………………=.........
 …………=......
 ……=...
@@ -7,6 +10,9 @@
 「もう少し、ふたりで過ごせる時間が多かったらいいんだけどね」=“If only we had some more time, to spend with each other.”
 「わたしもそう思ってるよ。どうにかして、宇宙の法則をゆがめられたらいいのに……」=“I feel the same way. If only we could somehow bend the laws of this universe...”
 「[H名]……嬉しいな。そこまで思ってくれているなんて……」=“[H]... It makes me really happy, that you think so highly of me...”
+CHOICE:『自宅に誘う』=Take to your place.
+CHOICE:『ラブホに誘う』=Take to love hotel.
+CHOICE:『さよならする』=Say goodye.
 「その、さ……今日は、俺のうちに来ない？　そしたら、もう少し一緒にいられるよ」=“Hey, listen... won't you, come over to my place for today? We could spend some more time together that way.”
 「いいの？　えへへ……わたしも、あなたの家に行きたかったんだ。運命が塗り替わったね」=“You sure? Ehehe... I wanted to, go to your place too. Looks like we managed to rewrite fate, huh?”
 「……俺、なんだかすごく嬉しくなってきちゃって……今すぐ、[H名]がほしい」=“...I've become, ridiculously happy right now, for some reason... I want you. Right now.”
@@ -21,7 +27,3 @@
 「ああ、ごめん。でも、ここでお別れだと思ったら、最後に抱きしめたくなっちゃってさ」=“Aah, sorry. But, when I thought about how this was goodbye for now, I just couldn't help but want to hold you.”
 「うん……わかるよ。あなたの思いが流れ込んでくるもの……さびしいんだよね……」=“Yeah... I understand. Your feelings flowed into me... you feel lonely, don't you...”
 「でも、安心して。またすぐに会えるから……」=“But, don't worry. We'll get to see each other again right away so...”
-
-CHOICE:『自宅に誘う』=Take to your place.
-CHOICE:『ラブホに誘う』=Take to love hotel.
-CHOICE:『さよならする』=Say goodye.

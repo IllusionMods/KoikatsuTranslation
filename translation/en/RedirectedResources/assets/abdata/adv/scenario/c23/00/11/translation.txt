@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「あのぉ、相談があるんだけど、ワタシたちのＰＴ（パーティ）もう終わりにしよう」=“Uhm, I want to discuss something, let's disband our party.”
 「え、それってどういう？」=“Eh, what do you--?”
 「なんというか、あなたよりゲームやアニメといたいというか……」=“I kinda, wanna spend more time playing games and watching anime than being with you...”

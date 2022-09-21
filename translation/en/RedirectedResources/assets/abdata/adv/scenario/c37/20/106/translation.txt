@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「やっぱり綺麗ですね」=It really is beautiful, isn't it?
 「うん。いつ来てもいい場所だよね」=Yeah. It's a good place, no matter the time.
 「こんなに綺麗な夜景を[H名]と一緒に見られるなんて、ホント幸せだよ」=Being able to see such a pretty nightscape with you, [H名], I really feel blessed.
@@ -11,6 +14,8 @@
 「やっぱりあなたは普通じゃありません」=You really aren't an normal person.
 「言葉だけ聞くと辛辣だなぁ。悪気がないのは分かってるけどね」=Taking your words at face value really does sting quite a bit. Though, I know you don't mean anything bad by them.
 「まあ、とにかく俺は[H名]が好きってことだよ」=Well, in any case, it's true that I love you, [H名].
+CHOICE:『ここでエッチしちゃうくらいにね』=『So much so that we could have sex in here』
+CHOICE:『また一緒に夜景を見に来ようね』=『Let's come again to look at the night sky』
 「ここでエッチしちゃったくらいにね」=So much so that we've had sex in this place.
 「そうですね、私も盛り上がってしまいました」=Indeed, I've gotten quite fired up too.
 「それで……さ。今日もシちゃわない？」=And... So. Wanna do it today too?
@@ -29,6 +34,3 @@
 「ううん。むしろ喜んで」=No, If anything, I'm really happy.
 「――っと。これでＯＫだね。行こうか」=----and, there, we're good to go. Shall we?
 「はい」=Yes.
-
-CHOICE:『ここでエッチしちゃうくらいにね』=『So much so that we could have sex in here』
-CHOICE:『また一緒に夜景を見に来ようね』=『Let's come again to look at the night sky』

@@ -1,2 +1,4 @@
-
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
 「きゃっ！　びっくりしたぁ。そういうことしない方がいいよ？」=“Kyah--! You made me jump. You shouldn't do that, okay? You really shouldn't.”

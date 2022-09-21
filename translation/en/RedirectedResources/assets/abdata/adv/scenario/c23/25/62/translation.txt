@@ -1,11 +1,13 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 ………………=.........
 …………=......
 ……=...
-「もっと話したいけど、そろそろお別れかなぁ（哀）」=“I wanna chat a bit more but, I guess we'll have to say goodbye soon? 🥺”
+「もっと話したいけど、そろそろお別れかなぁ（哀）」=“I wanna chat a bit more but, I guess we'll have to say goodbye soon?”
+CHOICE:「……この後、家にこれないかな？」=...Won't you come over to my place?
+CHOICE:「そうだね、ばいばい」=Yeah. Byebye.
 「……この後、家にこれないかな？　まだ[H]といたいんだ」=“...Won't you come over to my place? I wanna be with you still, [H].”
 「そっかぁ、ワタシもまだ一緒にいたかったんだ。ヤッタヤッタ」=“I see~, I really wanted to be with you more too. Yay, yay.”
 「そうだね、また今度話すことにしようか。それじゃ、ばいばい」=“Yeah, let's save it for next time. Well then, byebye.”
 「えぇ、それでは、また」=“Yes, see you then.”
-
-CHOICE:「……この後、家にこれないかな？」=...Won't you come over to my place?
-CHOICE:「そうだね、ばいばい」=Yeah. Byebye.

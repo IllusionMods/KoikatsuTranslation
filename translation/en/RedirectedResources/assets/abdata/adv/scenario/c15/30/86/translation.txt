@@ -1,4 +1,7 @@
-﻿「ふふー、今日はどれくらい相手を想ってるか、研究したいなー」=Fufu, for today, I wanna try researching just how much partners think about each other.
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「ふふー、今日はどれくらい相手を想ってるか、研究したいなー」=Fufu, for today, I wanna try researching just how much partners think about each other.
 「具体的にはどうするの？」=And what are you suggesting we try?
 「決まってるだろー、チューだよ！　スキンシップのいちばん大事なとこだろー」=That's obvious, we gotta kiss! Kissing's the most important part of any healthy relationship, no?
 「じゃあ、色んなキスを試してみようか」=Then, guess we'll try kissing in all sorts of ways.

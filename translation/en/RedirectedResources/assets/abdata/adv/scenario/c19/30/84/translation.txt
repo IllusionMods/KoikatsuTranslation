@@ -1,4 +1,7 @@
-﻿「コイカツ部……確か、恋人同士を疑似体験するのが目的なんだよね？」=The Koikatsu club... the whole purpose of it is to simulate the things a couple would do, right?
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「コイカツ部……確か、恋人同士を疑似体験するのが目的なんだよね？」=The Koikatsu club... the whole purpose of it is to simulate the things a couple would do, right?
 「そんなとこだね。例えば恋愛小説とかでやってる事を試してみるとか……」=Yeah, just about. For example, we could try the sort of stuff out you see in romance novels and whatnot...
 「そ、それだったら……こ、交換日記とか？」=I-In that case... a-a couple's diary too?
 「なるほど、きみらしいね。早速やってみよっか」=I see, that really is just like you. Let's try that.

@@ -1,4 +1,7 @@
-﻿いい、ですよ……してください=It's, alright... do it, please.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+いい、ですよ……してください=It's, alright... do it, please.
 やっぱり、恥ずかしさは消えませんね……=The embarrassment really doesn't seem to be disappearing...
 いつの間にか、エッチが好きになってしまいました=Before I knew it, I fell in love with sex.
 もう待ちきれません。早くしましょう=I can't wait anymore. Let's do it already.

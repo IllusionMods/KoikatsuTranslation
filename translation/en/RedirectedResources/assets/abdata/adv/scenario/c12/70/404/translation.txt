@@ -1,0 +1,32 @@
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「おっ、来た来た、待ってました～！」=“Oh--, it's finally here, what a long wait it was~!”
+「結構待ったけど、その分美味しそうに見えるね。早速食べようか」=“For all that they made us wait, it sure looks delicious. Let's dig in right away.”
+「んぅ～、いちごがジューシィーで、クリームがスゥィーティー！」=“Nn~, the strawberries are so juicy, and the cream so sweet--!”
+「本当に嬉しそうだね。そんなにいちごパフェ美味しい？」=“You look like you're in heaven. Is it that delicious?”
+「美味い美味い！　パフェの嫌いな女子なんていないぞ！」=“It is, it is! You won't find a single girl out there that hates parfaits!”
+「はは、そうなんだ、そこまで美味しそうに食べられると、俺もいちごパフェ頼めばよかったかなって思うよ」=“Haha, I see, seeing you eat it so deliciously, I feel like I should have gone with that too.”
+「ん？　なら、少しやろうか？　ほら、口を開けて『あーん』だっ」=“Hm? Wanna try some then? C'mon, open your mouth, you know, "Aaahn".”
+「えっ、別にもらおうと思って言ったわけじゃ……」=“Eh--, I didn't say that to ask you to share some with me...”
+「なに恥ずかしがってるんだよ。いいから口開けろって。ほれほれっ」=“What're you being so shy for? C'mon, it's fine, just open your mouth. C'mon--”
+「わ、わかった、それじゃ……あーん」=“G-Got it, then... aaaahn.”
+「ほーら、いちごパフェは美味いぞー。よーく味わって食べろよ？」=“Here, it's really delicious, so savour it thoroughly, okay?”
+「ぁむっ……」=“*Bite*...”
+「んくっ、んぐっ……うん！　これは美味しいね！」=“Nnkuh--, nnkguh--... yeah--! This really is delicious!”
+「だろぉ？　でも、やるのは後一口くらいだからな？　あたし、楽しみにしてたんだから……」=“Right? But, you'll only get one more bite, okay? I was really looking forward to this, you know...”
+「今の一口で十分だよ。あとは[H名]が全部食べちゃって」=“That one bite was enough for me. Go ahead and just eat it all up.”
+「それ、チョコケーキかと思ったら、コーヒーの匂いがするね」=“I thought that was a slice of chocolate cake but, I can smell coffee.”
+「チョコモカブラウニーってやつだな。甘いものはそこまで好きじゃないから、コレが丁度いいんだ」=“It's a choco mocha brownie. I don't really like sweet stuff that much so, this is just perfect for me.”
+「ビタースイーツかぁ。大人な感じがする」=“A bitter sweet, huh? Feels quite mature.”
+「んふふ～、欲しいならちゃんと言わないとあげないぞ～」=“Nnfufuh~, if you want some, you'll have to use the right words, you know~”
+「えっ、別にそういうわけじゃ……うっ、やっぱり欲しい……です」=“Eh--, that's not what I was go... uu--, nevermind, I do wanna try it... please.”
+「うんうん、素直が一番だな。ほら、あーんしてみろ」=“Good boy, honesty is the best policy. C'mon, open your mouth.”
+「えっ、そこまでしてくれなくても……もうちょっと普通に食べたいというか……」=“Eh--, you don't need to go that far... I'd rather just eat it normally...”
+「ダーメ。あーんじゃなきゃあげないからな。観念して早く口を開けちゃえよ」=“Bad. I'm not giving you any if you won't let me feed you. Just resign yourself to your fate and open your mouth for me.”
+「うぅ、わかった。あ、あ～～ん」=“Uuu, I got it. A-Aaahn~”
+「あはは、デザートだからよく噛まなくてもいいけど、味わって食べろよ～」=“Ahaha, it's just dessert so you don't need to chew it all that much but, savour it thoroughly~”
+「はむっ……」=“*Bite*...”
+「……うん、たしかに苦いけど、美味しいね」=“...Yeah, it's bitter for sure but, it's delicious.”
+「そうそう、その苦味がいいんだよ。おまえもビタースイーツにハマったか？」=“Exactly, it's that bitterness that works for me. Managed to get you on this side of the bitter-sweet war?”
+「食べ方が衝撃的だったからね……しばらくこの味は口に残ると思う」=“Well, the way I got to eat it was certainly stimulating... I think this flavour's gonna remain in my mouth for a bit.”

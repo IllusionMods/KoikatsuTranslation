@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 なし=None
 ブレザーA=Blazer A
 ブレザーA前開き=Blazer A (Opened)

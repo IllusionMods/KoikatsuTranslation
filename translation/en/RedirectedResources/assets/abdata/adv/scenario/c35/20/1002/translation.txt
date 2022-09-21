@@ -1,10 +1,14 @@
-﻿「うぅ……自分の外見が想像出来ない……もう少ししっかり鏡で確認すれば良かったかな」=Uuu... I can't even imagine how I look right now... Should have checked myself out in the mirror more thoroughly.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「うぅ……自分の外見が想像出来ない……もう少ししっかり鏡で確認すれば良かったかな」=Uuu... I can't even imagine how I look right now... Should have checked myself out in the mirror more thoroughly.
 （……[H名]はきっと可愛いんだろうなぁ。ウエディングドレス姿、楽しみだな）=(...I bet [H名] looks super cute though. I can't wait to see her in that wedding dress.)
 （大切な人のウェディングドレス姿なんて……普通は結婚する時しか見られないものだけど……この年齢でそれが見られるっていうのは思い出になるかもな）=(Seeing your S.O. in a wedding dress... Normally, that'd never happen aside from when getting married but... Being able to see it at our ages, it might become a lasting memory for us.)
 （いよいよ出番か……よし、頑張ろう）=(Finally, showtime, huh... Alright, gotta put on my A-game.)
 （模擬挙式のモデルとはいえ、新郎役だ）=(It may just be modeling for a mock ceremony but, I'm still playing the part of the groom.)
 （[H名]をガッカリさせないためにも、しっかりやろう！）=(I'll have to do it properly, so that [H名] doesn't feel letdown!)
 （緊張はしたけ……うまく出来たはずだ、うん！）=(I got nervous there but... I'm sure I did it well, yeah!)
+モブ=Mob
 「これより新婦が入場致します。後方の扉口をご覧ください」=And now, the bride will make her entrance. Please pay attention to the main door.
 （あ……）=(Ah...)
 [H名]の花嫁姿は、まるで大人になった彼女がタイムスリップしてきたのかと思う程、綺麗だった。=[H名] looked so beautiful in that wedding dress, I almost thought her adult version had somehow time warped to the present instead.
@@ -13,5 +17,3 @@
 「……綺麗だ……」=...So beautiful...
 「[H名]、似合ってるよ。大人っぽくて……いつもの[H名]も可愛いけど、今の姿もめちゃくちゃ綺麗だ」=[H名], you look amazing. So mature... you always look cute as you are but, right now, you look amazingly pretty.
 「はぅ……あ、ありがとう……君もすごく格好いいん……私、こげんドキドキしとるん、生まれて初めてかも……」=Hauu... t-thanks... You look super cool too... This might be the first time in my life, that my heart has raced so much...
-
-モブ=Mob

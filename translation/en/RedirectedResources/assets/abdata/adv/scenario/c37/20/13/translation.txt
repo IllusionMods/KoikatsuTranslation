@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「恋人同士のデートとなると、ホテルの予約などは済まされているのでしょうか？」=In the case of a lover's date, are you going to get reservations at a hotel and whatnot?
 「そ、そこまではちょっと……」=T-That's a bit...
 「そうですか。ですが、彼氏の家で、というのもアリですね」=I see. However, I suppose we could also do it at your place.

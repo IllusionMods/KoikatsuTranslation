@@ -1,4 +1,7 @@
-﻿「メニューを見てて思ったんだけどさ、結構凝った料理が多いよね」=Looking at the menu, they've got a quite a few elaborate dishes, don't they?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「メニューを見てて思ったんだけどさ、結構凝った料理が多いよね」=Looking at the menu, they've got a quite a few elaborate dishes, don't they?
 「私も同じことを思いました！　彩りとか……とてもこだわってるんだなぁって。見た目だけで美味しそうな料理ばかりです……」=I was thinking the same thing! All those colors... they must really care about their craft. Just looking at the photos made them seem delicious...
 「こういう料理が作れる人、憧れるなぁ。テキトーに作った料理とはきっと満足感が違うと思うんだよね」=I really respect people that can make food like this. I'm sure making something like that hits different than just cooking regular food to eat.
 「ですねぇ……。でも、メニューを見た感じですと、調理自体はそこまで複雑ではない、と思います」=Probably... But, looking at the menu, the actual food's probably not going to be all that complex, I think.

@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「あらあら、まぁ……もうこんな時間になってたのね」=“Oh dearie me... it's already gotten so late, huh?”
 「あ、ホントだ。時間って経つの早いなぁ」=“Ah, you're right. Time sure flies.”
 「どうする？　もう少しここでゆっくりしちゃう？」=“What do you want to do? Want to spend some more time relaxing here?”

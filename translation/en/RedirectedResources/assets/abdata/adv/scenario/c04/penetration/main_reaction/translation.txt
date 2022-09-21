@@ -1,1 +1,4 @@
-﻿「あ、あなた、いつの間にそこに？」=S-Since when have you?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「あ、あなた、いつの間にそこに？」=S-Since when have you?

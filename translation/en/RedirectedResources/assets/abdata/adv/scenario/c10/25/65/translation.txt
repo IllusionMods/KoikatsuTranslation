@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「お、男の子と、い、一緒に帰るのは慣れていない……」=“I-I am not used, t-to walking home with a boy...”
 「いきなり誘ってごめん。緊張させたね」=“Sorry for asking so suddenly. Of course you'd be tense, I should have thought of that.”
 「そ、そんなことない。き、緊張はするけど、うれしいぞ」=“N-Not at all. I-I am nervous, yes, but also happy.”

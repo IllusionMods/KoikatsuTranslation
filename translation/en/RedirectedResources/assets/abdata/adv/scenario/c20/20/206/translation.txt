@@ -1,4 +1,7 @@
-﻿「今日はいっぱい歩いて、騒いだし……さすがにちょっと疲れたね」=We walked around a whole lot and had a ton of fun today... the tiredness is hitting me now.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「今日はいっぱい歩いて、騒いだし……さすがにちょっと疲れたね」=We walked around a whole lot and had a ton of fun today... the tiredness is hitting me now.
 「私も久しぶりに、はしゃいでしまいました」=It's been a while for me as well, since I've gotten that excited over anything.
 「だから、最後に落ち着いた観覧車で締めるっていうのはいいよね」=Closing the day off with a nice calm ferris wheel ride is pretty nice, no?
 「そうですね……落ち着いて、ゆっくり景色が動いて……なんだか、眠くなってきます」=Indeed... the scenery's moving so slowly, so calmly... I'm getting pretty sleepy.

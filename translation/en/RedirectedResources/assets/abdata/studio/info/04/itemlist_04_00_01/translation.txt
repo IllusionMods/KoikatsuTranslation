@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 山型多角形1(キャラ)=Mountain Polygon 1 (Character)
 山型多角形2(キャラ)=Mountain Polygon 2 (Character)
 長六角形(キャラ)=Long Hexagon (General)

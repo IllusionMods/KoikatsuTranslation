@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「んーっ、よく寝た。……あれ？　メモがある。なになに――」=“Nnn, I slept well. ...Huh? There's a note. Let's see---”
 『眠ってたから、起こさないで先に学園いってくる！』=『Thou wert sleeping, so I shall be leaving for school ahead of thee!』
 『なぜ悪魔の落とし子である我が、日直なんかしなくちゃならないのか……』=『Why do I, the very spawn of Satan himself, have to bear with the banal task of day duty...』

@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「はは、やっぱり[H名]は肉食なんだね」=Haha, as I thought, you like meat, huh?
 「やっぱりとはなんだ。私を肉食獣か何かだと思っているのか？」=What's with the "As I thought"? Do you think I'm a carnivore or something?
 「うーん、当たらずとも遠からずって感じかなぁ。少なくとも草食系には見えないよね」=Well, yeah, I suppose so. Atleast, I don't think I could see you as a herbivore.

@@ -1,4 +1,7 @@
-﻿「[H名]、遊園地だよ！　今日は一日、楽しもうね」=We're at the amusement park, [H名]! Let's have a blast today.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「[H名]、遊園地だよ！　今日は一日、楽しもうね」=We're at the amusement park, [H名]! Let's have a blast today.
 「はい……♡　あなたとの遊園地……♡　私を、引きずりまわしてください♡　あなたの行きたいアトラクションが私の好きなアトラクションです♡」=Yes...♡ A day at the amusement park with you...♡ Please drag me around from place to place♡ Any attraction you want to go on is an attraction I like♡
 「いいの？　じゃあ、俺の好きなコースで回っちゃおう！」=You sure? Then, I'll take you on the same path I usually follow!
 （……そう、この時はまだ、あんなことになるとは思ってなかったんだ……）=(...At this moment, I still didn't know, that it would end up like that...)

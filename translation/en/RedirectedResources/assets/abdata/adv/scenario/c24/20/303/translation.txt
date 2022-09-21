@@ -1,6 +1,11 @@
-﻿プルルル……=*ring ring*
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+プルルル……=*ring ring*
 「あ、私がとります……はい、もしもし……あ、延長……えっと、ちょっと待ってください……１０分前、みたいです♡　延長しますか？　あなたに任せます♡」=Ah, I'll take that... Yes, hello... Ah, extension... erhm, please wait a moment... Seems like we have 10 minutes left♡ Do you want to extend it? I'll leave it to you♡
 「どうしようかな……」=I wonder...
+CHOICE:『延長しようか』=『Let's extend it』
+CHOICE:『延長はいいかな』=『I think we're good.』
 「延長しようよ。俺、まだ[H名]の歌が聞きたい」=Let's extend it. I wanna hear you sing lots more.
 「う、うふふ♡　わかりました♡　あ、もしもし、延長、お願いします」=U-Ufufu♡ Got it♡ Ah, hello, please extend it, yes.
 （嬉しそうな[H名]を見ると、俺も嬉しくなってくるよ）=(When I look at her smiling so happily, I can't help my smile either)
@@ -16,6 +21,3 @@
 「お願いするよ」=Please do.
 『もしも今 背中に羽が生えて 大空自由に 飛び回れたら～♪』=『If only I could, sprout wings from my back, and fly freely, in this wide open sky~♪』
 （[H名]の歌って、なんか不思議の魅力があるんだよな～。俺のためだけに歌ってくれてるからかな？）=(Man, her singing is just so alluring~. I wonder if it's because I know that she'll only ever sing for me?)
-
-CHOICE:『延長しようか』=『Let's extend it』
-CHOICE:『延長はいいかな』=『I think we're good.』

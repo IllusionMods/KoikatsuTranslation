@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 //「とりあえず手を繋いで散歩しようか？」=
 //「人に見られたら少し恥ずかしいのじゃが……」=
 //「ほら、手を貸して」=

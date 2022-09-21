@@ -1,1 +1,4 @@
-﻿「ええっ、ありがとぉ、これは……なんだろう？」=Eeh--, thanks, I wonder... what is this?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「ええっ、ありがとぉ、これは……なんだろう？」=Eeh--, thanks, I wonder... what is this?

@@ -1,6 +1,11 @@
-﻿「それではこれより、式を執り行います」=Then without further ado, let's start the ceremony.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+モブ=Mob
+「それではこれより、式を執り行います」=Then without further ado, let's start the ceremony.
 「新たなご出発の証として、お二人には誓いの言葉を立てていただきます」=As the proof of a fresh departure, you both have to make certain vows.
 （……[H名]、どうしたんだろう？）=(...[H名], what happened?)
+牧師=Pastor
 「[P名]さん、あなたはこの女性とお付き合いし、より親密な関係になろうとしております」=Mr. [P名], You have been going out with your bride for a while now. And now you are proceeding towards an even closer relationship.
 「あなたは健康なときも、そうでないときも、お互いの気持ちが続く限り――」=Will you, in sickness or in health, as long as your feelings stand--
 「この人を守り、笑顔を絶やすことなく幸せにすることを誓いますか？」=protect this woman, and vow to become her happiness?
@@ -32,6 +37,3 @@
 …………=......
 ……=...
 「っ……面倒くさい女でごめんなさい♡　好きです♡　……あなたのことが大好きです♡　一生、尽くします♡」=--...I'm sorry for being such a pain in the ass♡ I love you♡ ...I love you so much♡ I'll devote myself to you for the rest of my life♡
-
-モブ=Mob
-牧師=Pastor

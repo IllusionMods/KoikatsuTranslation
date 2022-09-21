@@ -1,4 +1,6 @@
-
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
 「へえ、色々あるんだね」=“Hoh, there's sure all kinds here.”
 「あれ、何かな……ちょっと行ってみない？」=“What do you think that is... wanna try taking a look?”
 「うん、いいよ」=“Yeah, alright.”

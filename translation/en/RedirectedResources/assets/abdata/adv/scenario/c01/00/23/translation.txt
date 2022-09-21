@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「ええと……これ、ど、どうぞ……」=“Eerhm... h-have this, please...”
 「家庭科の授業で、プリンを作って……お、美味しくできたと思うんです」=“I made some pudding, during home economics... I-I think it came out well.”
 「だから、その……食べてみてください……！」=“So, uhm... please eat it...!”

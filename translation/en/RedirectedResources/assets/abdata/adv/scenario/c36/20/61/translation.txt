@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「たまにはこういう所でゆっくりするのもいいわね。貴方にしては、良い店を選んだじゃない」="Sometimes it's good to chill in a place like this huh. You've chosen quite a nice shop, even for you."
 「気に入ってくれて良かった。色々調べて、予約しておいたんだ」="I'm happy it's to your liking. I've searched quite a bit, and made a reservation here."
 「そういう事はいちいち言わないものよ。下僕なりに努力した事くらい、察せない主ではないわ」="Don't say every little thing. As your master I know that my manservant does what he can to please me in his own way."
@@ -7,10 +10,9 @@
 「えっと、それは……あー、とりあえずカラオケとかに行こうか！　二人きりで楽しめそうだし！」="Err, that's... Ah, for now let's go to karaoke! We'll surely enjoy it, just the two of us!"
 「いいんじゃない。そうね、とても楽しめそう。二人きりなら、遠慮はいらないもの。フフフッ」="Sure, why not. Sounds like fun. If it's just the two of us, there's no need to hold back. Fufufu."
 「ふぅ、それなりに楽しめたわ。それじゃあ、ここでお別れでいいかしら？」="I must say, I kinda enjoyed it. Well then, I guess it's time to part ways."
+CHOICE:「あ、待って！　もう少しだけ、一緒にいられないかな？」="Ah, wait! Can we stay together for a bit longer?"
+CHOICE:「うん、今日はありがとう。本当に楽しかった。またね」="Thanks for today. I really enjoyed it. Good bye."
 「あ、待って！　もう少しだけ、一緒にいられないかな？」="Ah, wait! Can we stay together for a bit longer?"
 「あら、未練がましいわね。でもいいわ、貴方の家に行きましょ。もう少しだけ、遊んであげる」="Hehe, you don't know when to let go. But that's okay. Let's go to your home. I'll spend some more time for you."
 「うん、今日はありがとう。本当に楽しかった。またね」="Thanks for today. I really enjoyed it. Good bye."
 「気が乗ったら、また遊んであげてもいいわ。フフッ、じゃあね」="Let's meet again next time. Fufu, see you then"
-
-CHOICE:「あ、待って！　もう少しだけ、一緒にいられないかな？」="Ah, wait! Can we stay together for a bit longer?"
-CHOICE:「うん、今日はありがとう。本当に楽しかった。またね」="Thanks for today. I really enjoyed it. Good bye."

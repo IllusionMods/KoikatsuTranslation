@@ -1,1 +1,4 @@
-﻿「おはようございます。ふふっ、今日も会えたね」=Good morning. Fufu--, we met again.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「おはようございます。ふふっ、今日も会えたね」=Good morning. Fufu--, we met again.

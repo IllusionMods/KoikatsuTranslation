@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「うわっ！　ちょっとあんた、何やってんのよ！　早く出て行って！」=“Uwah--! Hey, what are you doing! Get out of here already!”
 「何で入ってきてるワケ！？　ここ男子禁制なんだけど！」=“What's the grand idea, coming in here!? Boys ain't allowed in here!”
 「もういい？　私、あんたに構ってるほど暇じゃないんだけど」=“Is that all? I don't have time to waste on the likes of you.”

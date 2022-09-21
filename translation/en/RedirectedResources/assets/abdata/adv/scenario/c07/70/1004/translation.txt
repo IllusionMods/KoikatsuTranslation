@@ -1,0 +1,16 @@
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+モブ=Mob
+「お疲れ様でした。ふふっ、素敵な式でしたよ」=Good work today. Fufu~ It was a lovely ceremony.
+「本番の結婚式も、是非、私どもの式場で挙げてくださいね！」=For your actual wedding as well, please, do call upon us!
+「えっと、前向きに考えさせてもらいます」=Uhm, sure, if we get to that point.
+「お願いします！　今日はお引き受けいただいて、ありがとうございました」=Thank you! And for helping us out so much today as well, thank you very much!
+「ふぅ、結構疲れたね」=Fuu, that was pretty tiring.
+「……ああ、ずっと気を張ってたからなぁ」=...Yeah, we had to stay on our toes the whole time, afterall.
+「でも、いい思い出になったね」=But, we made some good memories, didn't we?
+「そうだな。最初はガラじゃないなんて思ったけど、やってみて本当によかったよ」=Yeah, we did. I thought I would look really out of place in a dress like that but, I'm really glad we did it.
+「なんだかんだいっても、やっぱり私もウェディングに憧れてたんだなー」=Even if I say stuff like that, in the end, I wanted to get married someday too.
+「[H名]……ほんとにかわいいお嫁さんだったよ」=[H名]... You really were the cutest bride, you know?
+「う……あ、ありがと」=Don--... T-Thanks.
+（いつかまた……二人でここに来れますように……）=(I hope we can... come here together again, someday...)

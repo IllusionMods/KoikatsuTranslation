@@ -1,4 +1,6 @@
-
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
 「えぇっ！　わ、私……いや、我を罠にはめようとしておるのか？」=“Eeh! Is this a trap?”
 「罠なんかじゃないよ！　 きみのことが気になって仕方がないんだ……」=“It's not a trap! It's a way of getting to know you better...”
 「つまり……我は愛を告げられているのか！？」=“In other words... you're confessing to me!?”

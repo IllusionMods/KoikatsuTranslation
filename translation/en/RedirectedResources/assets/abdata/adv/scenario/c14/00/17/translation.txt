@@ -1,4 +1,7 @@
-﻿「んーっ、よく寝た。……あれ？　メモがある。なになに――」=Nn--, I slept well. ...Huh? There's a note. Let's see----
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「んーっ、よく寝た。……あれ？　メモがある。なになに――」=Nn--, I slept well. ...Huh? There's a note. Let's see----
 『[P]、起きたか？　あんまりぐっすり眠ってたから先出たぞ』=『You up, [P]? You were sleeping way too tight so I left first.』
 『朝飯作っといたから適当に食え』=『I made you breakfast so eat it up.』
 『残したら殺すかんな、[H]』=『Leave any behind and you'll be next on the menu. [H].』

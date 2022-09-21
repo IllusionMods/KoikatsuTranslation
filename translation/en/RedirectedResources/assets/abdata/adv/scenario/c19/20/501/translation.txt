@@ -1,4 +1,7 @@
-﻿「[H名]、お待たせ！　ごめん、待たせちゃった？」=[H名], sorry for the wait! Did I make you wait long?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「[H名]、お待たせ！　ごめん、待たせちゃった？」=[H名], sorry for the wait! Did I make you wait long?
 「大丈夫、暇つぶしにと思って小説を持ってきてたから平気」=It's alright, I bought a book along to kill time anyway, so it's fine.
 「結構読み進めちゃった？」=Make any progress on it?
 「ううん。あなたが時間どおりに来てくれたから、全然進んでないの。本の続きはまたのお楽しみにしておくね」=Not really. You got here right on time, so I didn't get through even the first few pages. I'll just have to save reading this book for later.

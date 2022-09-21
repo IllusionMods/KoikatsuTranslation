@@ -1,4 +1,7 @@
-﻿「ここからの景色って……何回観ても飽きないよね……すごく綺麗でうっとりしちゃう……」=The view from here... it never gets old, does it... it's so pretty, I can't help but be entranced...
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「ここからの景色って……何回観ても飽きないよね……すごく綺麗でうっとりしちゃう……」=The view from here... it never gets old, does it... it's so pretty, I can't help but be entranced...
 「気に入ってもらえたなら良かった。ちょっと曇り気味だったから、雨が降ったらどうしようって思ってたけど……」=I'm glad you like it so much. It was cloudy for a bit there, so I was worried that it was gonna start raining for a second there but...
 「うん。晴れてラッキーだったね。でもちょっとくらい雲がある方が、こういう夜空は綺麗になるんだよ」=Yeah. We were lucky it didn't. But, a little bit of cloud cover is just what you need to make a sky like this even prettier.
 「そうなの？」=That so?
@@ -10,6 +13,8 @@
 「もちろん。風邪引かないように、くっついていよう」=Of course. Let's cling to each other, so that you don't catch a cold.
 「うん……ありがとう……えへへ、君の身体、すごく温かい……」=Okay... thanks... ehehe, your body, it's so warm...
 （ヤバい……こんな風にくっつかれたら……[H名]の柔らかさと匂いで……ちょっとムラムラしてくる……）=(Damn... when she clings to me like this... her softness, and her scent... I'm getting horny...)
+CHOICE:『もっと温まることする？』=Wanna do something even hotter?
+CHOICE:『今度は寒さ対策して来ようか』=Let's come next time with some weather appropriate gear.
 「あ、あのさ[H名]……風邪ひかないように……もっと温まることしない？」=H-Hey, [H]... how about we something even hotter... so that there's no chance you catch a cold at all?
 「……えっち」=...Lewdie.
 「あああ、ごめん！　つい性欲が突っ走って！」=Aaah, sorry! My sex drive ran out of control there for a sec!
@@ -28,5 +33,3 @@
 「うん。あ……でも……駅までこのまま……くっついててもいい？」=Yeah. Ah... but... do you mind if we... keep clinging like this all the way to the station?
 「もちろん。寒いのは嫌だもんね」=Not at all. I wouldn't want you to feel cold, afterall.
 「うんっ！　腕組んでぺったりするよ！」=Yeah--! Let's link arms and cling to each other real tight.
-CHOICE:『もっと温まることする？』=Wanna do something even hotter?
-CHOICE:『今度は寒さ対策して来ようか』=Let's come next time with some weather appropriate gear.

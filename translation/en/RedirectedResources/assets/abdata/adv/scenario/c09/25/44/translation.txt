@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「へえ、色々あるんだね」=“Hoh, they've got all sorts, huh?”
 「あ、ゲームセンターだ！　ねえ、ちょっと入ってみてもいい？」=“Ah, it's an arcade! Hey, mind if we check it out?”
 「うん、いいよ」=“Sure, let's go.”

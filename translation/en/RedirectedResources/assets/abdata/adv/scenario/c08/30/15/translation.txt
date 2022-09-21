@@ -1,2 +1,5 @@
-﻿「あ、勝手にシャワー借りちゃったよ。[P]君も気持ちいいから浴びてきたら？」=Ah, I borrowed your shower without asking. It feels great, so why not grab one yourself too?
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「あ、勝手にシャワー借りちゃったよ。[P]君も気持ちいいから浴びてきたら？」=Ah, I borrowed your shower without asking. It feels great, so why not grab one yourself too?
 「ん？　どうしたのじっくり私の体を見て？　あっ、またエッチなこと考えてるんだ！　ダメ、それは今度♪」=Nn? What's got you staring at my body so hard for? Ah--, you're thinking of lewd stuff again! Bad, leave that for next time♪

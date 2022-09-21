@@ -1,4 +1,7 @@
-﻿「あの……もう少し距離を詰めてみていいですか？」=Uhm... is it alright if we get a bit closer together?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「あの……もう少し距離を詰めてみていいですか？」=Uhm... is it alright if we get a bit closer together?
 「いいけど……今でも十分近いと思うよ？」=Yeah, it is but... I think we're already pretty close enough, no?
 「今は手を繋いでいる状態ですよね。だから――」=We're currently holding hands. So---
 「えいっ。腕を組んでみました」=There--. Now our arms are linked instead.

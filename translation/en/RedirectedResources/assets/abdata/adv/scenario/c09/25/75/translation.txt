@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「いくぞ！　えいっ！」=“Here I go! There--!”
 「わぁ！　ゴールされちゃった！　あんた、バスケうまいわね」=“Waah! You got a goal on me! You're pretty good at basketball, huh?”
 「いやいや、それほどでもないよ。キミもなかなかじゃないか」=“Not at all. You're pretty good yourself too.”

@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「わあぁぁ、ここは女子トイレ、間違えてるよ！」=“Waah, this is the girls' toilet, you've got the wrong one!”
 「ど、どこに入ってるんだい！？　出てってくれよぉ」=“W-What're you doing in here?! Leave already!”
 「……いま時間がないので……また今度」=“...I don't have time right now so... another time.”

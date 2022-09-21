@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「あ、おかえり。随分時間かかったみたいだけど、女子トイレは混んでた？」=“Ah, welcome back. You sure took your time, was the girls' bathroom full or something?”
 「ただいま。うん、まぁ、混んでたというか……ちょっとトラブルかな……」=“Back~. Yeah, well, I wouldn't say full... but like...”
 「トラブル？　何かあったの？」=“But like? Did something happen?”

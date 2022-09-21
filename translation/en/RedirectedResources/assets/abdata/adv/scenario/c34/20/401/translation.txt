@@ -1,4 +1,7 @@
-﻿「何頼むか考えてる時、メニューの成分表をじーっと見てたけど、何かアレルギーとかあったっけ？」=When you were thinking of what to order, you were staring real hard at the ingredients list for each item on the menu, do you have an allergy to something?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「何頼むか考えてる時、メニューの成分表をじーっと見てたけど、何かアレルギーとかあったっけ？」=When you were thinking of what to order, you were staring real hard at the ingredients list for each item on the menu, do you have an allergy to something?
 「Ａｌｌｅｒｇｙは大丈夫ダケド、ニッポンと海外でｃａｌｏｒｉｅトカ、ｃｈｏｌｅｓｔｅｒｏｌトカ、スゴク違うカラ、ｃｈｅｃｋしてたノ……♡」=Not allergies but, there's a big difference in Japanese food and western food, in terms of calories and cholesterol and stuff, so I was just checking that...♡
 「えっ。もしかして、日頃からカロリー計算とか、栄養バランスを考えて食べてるの？」=Eh--. Do you like, count calories and try to balance your nutrition when eating?
 「Ｙｅｓ♡　ダッテ、アナタはワタシのｓｌｅｎｄｅｒなカラダが好きデショ？　Ｂａｌａｎｃｅがダメだと、アナタがｕｎｈａｐｐｙなるカラ」=Yes♡ After all, you like my slender body, no? If there's an imbalance, it'll make you unhappy, that's why.

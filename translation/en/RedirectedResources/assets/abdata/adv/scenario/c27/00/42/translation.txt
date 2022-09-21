@@ -1,1 +1,4 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「きゃああ、変態！　何ノゾいてんのよ、馬鹿ぁ！　先生に言いつけてやる！」=“Kyaaah, pervert! What are you even peeping at, dummy! I'll tell the teacher!”

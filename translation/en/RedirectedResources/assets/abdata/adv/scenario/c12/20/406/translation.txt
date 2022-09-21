@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「おっと、すっかり話し込んじゃったね。結構いい時間になってるよ」=“Woah, we really got lost in our chat, huh? It's gotten pretty late.”
 「あちゃぁ、おまえと話してると時間が経つのが早くて困るよ」=“Darn, chatting with you makes time fly so fast it's almost worrying.”
 「どうしよっか？　もう少し話していく？」=“What should we go? Wanna chat a bit more?”

@@ -1,4 +1,8 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「それじゃ今日から、コイカツ部の活動をやってみよっか。よろしくね」=“Alrighty then, starting from today, you're officially a member of the Koikatsu Club. Let's get along, OK?”
+このみ=Konomi
 「は、はい……」=“Y-Yes...”
 先日話した通り、いよいよこのみちゃんもコイカツ部へ入ってくれた。=Konomi-chan has finally joined our club just like she promised the day before.
 コスプレ姿の彼女ならこんな活動する必要もないだろうけど、今のこのみちゃんは素の状態だ。=If she was in her usual cosplay then she wouldn't need to join our club but right now, she's her usual self.
@@ -197,5 +201,3 @@
 「はい、頑張ります」=“Yes, I'll do my best.”
 そうして小悪魔っ娘めるるんの魅力を書きつつ、気持ちはこのみちゃんへ。=And so I resumed writing about Devilin Girl Merulun, but my thoughts were towards Konomi-chan.
 次回からどんな関係になるのか想像も付かないけど、このみちゃんとの新しい関係に心を弾ませる俺だった。=While I have no idea how our relationship is going to change the next time we meet, I can't help but dance around inside knowing that our relationship has turned a new page.
-
-このみ=Konomi

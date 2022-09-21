@@ -1,4 +1,7 @@
-﻿「あなたはいつも紅茶を注文するの？」=Do you always order black tea?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「あなたはいつも紅茶を注文するの？」=Do you always order black tea?
 「半分ずつくらいの割合かな。その時の気分次第って感じ」=About half the time, I'd say. Depends on my mood, really.
 「そうなのね。アイスティーを注文していたからてっきり紅茶派かと思ったわ」=I see. You ordered Iced Tea just then so I thought you were the type to always go for that.
 「[H名]はコーヒーを頼んでいたけど、いつもそうなの？」=You yourself ordered coffee though, do you always go for coffee?

@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「あの……こんなことを言うと笑われるかもしれませんが……」=Uhm... You might laugh at me for saying this but...
 「あなたとはもうお友達と言っても差し支えない仲になれているのではないかと思うのですが、いかがでしょうか」=I feel like we have a good enough relationship now that I could call you my friend but, what do you think?
 「うん、俺もそうだなって思ってたんだ」=Yeah, I was thinking the same thing.

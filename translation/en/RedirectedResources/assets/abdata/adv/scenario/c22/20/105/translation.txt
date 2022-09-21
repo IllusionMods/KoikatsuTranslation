@@ -1,4 +1,7 @@
-﻿「わぁぁ、綺麗……こんな場所がこんな近くにあったんだね。私、初めて知ったよー」=Waah, it's beautiful... A place like this was always this close to us, huh? I didn't know at all~
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「わぁぁ、綺麗……こんな場所がこんな近くにあったんだね。私、初めて知ったよー」=Waah, it's beautiful... A place like this was always this close to us, huh? I didn't know at all~
 「あ、そうだったんだ。[H名]って情報通だから、もしかしたらここも知ってると思ってたよ」=Ah, I see. You're pretty well informed so, I thought that you might have known about this place.
 「ううん、私、流行ってるものは好きだけど……全部女子限定のものだけなの」=Nope, I love popular stuff but... it's all just girl stuff.
 「だから、こうやってカップルで来るようなところは……結構疎くて……だってほら、君と出会うまでは、そういうこと考える必要も無かったし……」=So, you know, couple spots like these are... pretty outside my range... I mean, you know, until I met you, I didn't need to think about this stuff at all...

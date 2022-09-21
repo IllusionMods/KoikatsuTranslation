@@ -1,4 +1,7 @@
-﻿「ねぇ、[Pあだ名]♪」=Hey, [Pあだ名]♪
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「ねぇ、[Pあだ名]♪」=Hey, [Pあだ名]♪
 「！？　急にどうしたの……？」=!? What's gotten into you, all of a sudden...?
 「うふふ、驚いてる♪　もうそろそろ君のこと、愛称で呼んでもいいかなって思ったの」=Ufufu, I got you♪ I was just thinking that maybe I'd start calling you with a nickname and stuff.
 「そ、そうなんだ……ちょっとびっくりしたけど、悪くないね」=I-I see... It was a bit surprising but, it didn't feel bad, not bad at all.

@@ -1,4 +1,7 @@
-﻿「ん～～～、遊園地だ！　うっわー！　楽しみだな！」=Nn~~~, we're here! At the amusement park! Uwwah! I'm super excited!
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「ん～～～、遊園地だ！　うっわー！　楽しみだな！」=Nn~~~, we're here! At the amusement park! Uwwah! I'm super excited!
 「ふふふ、結構混んでるのね～。実は、私、人混みって苦手なの」=Fufufu, it's pretty crowded, it seems~. I'm actually pretty bad with crowds.
 「ああ、うん。俺も好きじゃないな。ちょっと息苦しくなっちゃうよね」=Aah, yeah. I don't like 'em either. It starts getting a bit suffocating, doesn't it?
 「ううん、違うの。痴漢に遭うんじゃないかなーって、不安になっちゃうの」=No, that's not it. I just get worried that maybe some molester is gonna set his eyes on me or whatever.

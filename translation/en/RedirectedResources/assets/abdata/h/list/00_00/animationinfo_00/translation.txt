@@ -1,4 +1,6 @@
-
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 立ち愛撫=Caress (stand)
 仰向け愛撫=Caress (floor)
 四つん這い愛撫=Caress (all fours)

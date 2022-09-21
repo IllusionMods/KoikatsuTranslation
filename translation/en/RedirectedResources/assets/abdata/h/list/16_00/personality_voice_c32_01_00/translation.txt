@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 な、何もしないんですか……？=A-Are you not going to do anything...?
 見つめられるとやはり照れますね……=When you stare at me like that, it really does make me feel shy...
 その……可愛がって下さいね……？=Uhm, well... please treat me with love, okay...?
@@ -510,7 +513,7 @@
 もう我慢が……もたない……=My self-control is... dissipating...
 あぁ……イキそうになって……=Aah... I'm about to cum...
 ※本棚対面愛撫（こそこそ）の絶頂と同じ新規の台詞は必要ございません=※There is no need for additional fresh dialogue for the same scene as the (secret) library bookshelf-facing fondling.
-あの……こういうことは、控えて頂けると助かります……。本気で嫌がっているわけではありません=Uhm... If you could refrain from doing this sort of thing, that'd be really nice...... Not to say I hate it.
+あの……こういうことは、控えて頂けると助かります……。//本気で嫌がっているわけではありません=Uhm... If you could refrain from doing this sort of thing, that'd be really nice...... Not to say I hate it.
 満足頂けましたか？　本当にいたずらな人なんですから……=Are you satisfied? Really, you're such a naughty boy...
 確かに気持ち良かったですが……も、もうっ。=Certainly, it did feel great but... J-Jeez--.
 せっかく勉強してましたのに……まぁ、あなたにならいいですが。=Even though I went out of my way to study hard for this... Well, since it's you, I don't mind I suppose.

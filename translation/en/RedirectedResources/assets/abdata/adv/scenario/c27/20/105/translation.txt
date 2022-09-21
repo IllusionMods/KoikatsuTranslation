@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「わぁ、綺麗……」=“Wah, pretty...”
 「ここから見える夜景が綺麗って評判だったから、[H名]と一緒に見たかったんだ」=“The nightscape from here is pretty famous so I really wanted to see it with you, [H名].”
 「へぇ、全然知らなかった。私よりあんたの方がこの街に詳しいんじゃない？」=“Heh, I didn't know about it at all. Aren't you even more at home in this town than me?”

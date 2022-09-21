@@ -1,3 +1,6 @@
-﻿「デート……なんだか恋愛小説みたいね」=A date... like something right out of a romance novel, isn't it?
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「デート……なんだか恋愛小説みたいね」=A date... like something right out of a romance novel, isn't it?
 「そうだね。そんな事を君と一緒にやりたいんだ……どうかな？」=Yeah. I want to have one with you... how about it?
 「うん、私もあなたとデートしたい。楽しみにしてるからね」=Yeah, I'd love to go on one with you too. I'm looking forward to it, okay?

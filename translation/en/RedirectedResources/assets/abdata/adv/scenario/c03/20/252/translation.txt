@@ -1,8 +1,13 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「わわっ、電車の中、結構混んできたですっ！」=“Wawah--, it's starting to get pretty packed--!”
 「止まる度に人が増えてるっ……[H名]、大丈夫？」=“More people pack in at every station... [H], you okay?”
 「あなたが盾になってくれてるから平気ですけどっ……あなたは大丈夫ですか？」=“I'm fine since you're shielding me but... are you okay?”
 「うん、大丈夫。潰されないように空間作っててあげるからね」=“Yeah, I'm fine. Don't worry, I'll make enough space so that you don't have to bear this pressure.”
 （……と言ったものの……[H名]の感触と香りで……こ、股間の方が大丈夫じゃないことに……）=(...Or so I said but... her scent, and her softness... m-my crotch is going into a definitely not-fine state...)
+CHOICE:『我慢できない』=Can't endure.
+CHOICE:『必死に我慢する』=Endure desperately.
 （っく……とてもじゃないけど、我慢できない……）=(Kuh... it's not all bad yet but, I can't endure...)
 「ひあっ……ぁ……あ、あのっ……えっと……そのっ……こ、この……当たってるのは……」=“Hyah--... ah... u-uhm... erhm... uhm-... t-this thing... poking into me...”
 「ご、ごめん……[H名]と密着してるから……こっちの方は大丈夫じゃなかったみたい……」=“S-Sorry... we're really squeezed together right now so... seems like I wasn't all that fine down here afterall...”
@@ -13,6 +18,3 @@
 「は、はいぃ……バレないように……そーっとお願いしますですぅ……」=“Y-Yes... do it gently... so we don't get caught...”
 （っ……さすがにここで勃起させるのは、マズイ……！）=(--... popping a chub here really would be, bad...!)
 （今日のデートと、[H名]のために……絶対我慢しなきゃ）=(For our date today, for [H]'s sake... I gotta endure.)
-
-CHOICE:『我慢できない』=Can't endure.
-CHOICE:『必死に我慢する』=Endure desperately.

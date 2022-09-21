@@ -1,4 +1,7 @@
-﻿（ん？　昨日はあの後すぐ寝ちゃったのか、……っていうか、何だか下半身がムズムズして……）=(Nn? Must have fallen asleep right after, huh... my crotch feels all weird for some reason...)
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+（ん？　昨日はあの後すぐ寝ちゃったのか、……っていうか、何だか下半身がムズムズして……）=(Nn? Must have fallen asleep right after, huh... my crotch feels all weird for some reason...)
 「って、うおっ！？」=Uwoh--!?
 「あ、おはよう[P]君。先に起きたらここ、大きくしてたから……」=Ah, good morning, [P]-kun. You were wide awake and ready for a new day down here so...
 「えっと、これはその、男の生理現象というか……」=Erhm, this is uhm, a physiological response so...

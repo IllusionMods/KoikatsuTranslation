@@ -1,0 +1,40 @@
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「いただきます！」=“I'm digging in!”
+（……[H名]は無言で食べ始めたけど、いまいちなんだろうか？）=(...She started eating without saying anything, does she not like it?)
+「それ、おいしくないの？」=“Is that, not good?”
+「……おいしいよ。どうして？」=“...It's tasty. Why?”
+「なんかウキウキ感が見えないから」=“You don't really seem all that happy about it.”
+「……味、食感、ちゃんと、噛みしめてる」=“...Don't worry, I'm savouring, the taste, and the texture.”
+「それならいいんだ」=“Well as long as you like it.”
+（パンケーキ、小さく切ってる。[H名]の一口小さいもんな）=(She's cutting the pancake in such tiny pieces. Well, she does take very small bites, afterall.)
+「……うん。おいしい。クリームが……しっとりしてる」=“...Yeah, it's delicious. The cream is... so mellow.”
+「そうなんだ。俺も一口食べてたいな」=“I see. I wanna try a bite too.”
+「……ダメ。これは……私の」=“...You can't. This is... mine.”
+「ダメって悲しいなぁ。……あっ、口にクリームついてるよ」=“You're gonna make your boyfriend cry~. ...Ah--, there's some cream on your mouth.”
+「ひゃっ……！　……いきなり、そういうのは……」=“Hyah--...! ...Don't do that, out of nowh...”
+「うん、甘い。いきなりじゃないと許してくれないだろ。やっぱり一口、俺もほしいな。食べさせてくれない？」=“Yeah, it's sweet. If I didn't do that out of nowhere, you wouldn't have let me, no? I'd love a bite too, afterall. Won't you feed it to me?”
+「……それって……あ～ん、してほしいってこと？」=“...Do you mean... with my hand?”
+「うん。[H名]にあ～んしてもらえたら、何倍にもおいしく感じるはず。だから、お願い」=“Yeah. It should tastes much, much better, if you feed it to me with your hand. So, please.”
+「……わかった。一口だけ、だからね」=“...Got it. Just the one bite, okay?”
+「……はい、あ～ん」=“...Here, aaahn~.”
+「あ～ん」=“Aaahn~”
+「……おお！　おいしい！　とっても甘くてなめらかで、生地もふんわり！」=“...Ooh! It's great! It's so sweet and velvety, and the pancake is so fluffy too!”
+「……口に……クリームが……ついてる」=“...There's... cream on your... mouth.”
+「うわっ！　突然でびっくりしたよ」=“Uwah--! That was so sudden.”
+「いきなり……じゃないと……許してくれない、でしょ？」=“If I didn't... do that out of nowhere... you wouldn't have, let me, no?”
+「……やられたな。もう一回クリームつけようかな」=“...You got me. Maybe I'll put some cream on my mouth again.”
+「……食べれば……食べるほど、病みつきになる味……。甘みと苦味が……絶妙」=“...The more you eat it... the more addicted you get to the taste... the sweetness and bitterness... exquisite.”
+「あなたも……食べる？」=“You wanna... try too?”
+「いいの？　食べたい。病みつきになるってどんな感じなんだろう」=“You sure? I'd love to. I wonder just what it tastes like, for you to say it's addictive.”
+「あれ、小皿に分けてくれたのか。なんだ、あ～んって食べさせてくれるのかと期待したのに」=“What, you served some on a tiny plate for me. And here I was hoping you were going to feed it to me by hand.”
+「……それは……恥ずかしい。他にも……人が見てる」=“...That's... embarrassing. People are... also looking.”
+「せっかくのデートなのにもったいないよ。こういう機会により仲を深めないと」=“What a waste, we're on a date too. We have to take chances like these, to grow our relationship.”
+「……そういう、ことなら。やってもいい」=“...If that's, how it is then, I don't mind it.”
+「うんうん。じゃあお願いします！」=“Yeah, exactly. Please!”
+「あ～ん……」=“Aahn~...”
+「んん、すっごくおいしいよ、これ。きっと[H名]が食べさせてくれたからだね。ありがとう」=“Nnn, it's delicious. It's all because you fed it to me, isn't it? Thank you, [H].”
+「ん？　このお皿どうしたの？」=“Nn? What about the plate?”
+「あなたが食べる姿を、見たら……なんだか、胸がいっぱいになった。だから、これも、食べて」=“When I watched you, eat... it kinda, made my chest, all full. So, eat this, too.”
+「ありがとう。たくさん食べるから、見ててね」=“Thanks. I'll eat lots so, watch me.”

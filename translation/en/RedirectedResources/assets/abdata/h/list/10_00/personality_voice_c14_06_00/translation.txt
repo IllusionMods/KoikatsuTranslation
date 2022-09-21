@@ -1,4 +1,7 @@
-﻿どうだ？　感じてくれてるか？=How is it? Are you feeling good?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+どうだ？　感じてくれてるか？=How is it? Are you feeling good?
 焦らしちゃえっ……=Lose your mind--...
 どう？　気持ちいいだろ？=How is it? Feels good, no?
 ふふっ……きもちいいだろ？=Fufu--... it feels good, no?

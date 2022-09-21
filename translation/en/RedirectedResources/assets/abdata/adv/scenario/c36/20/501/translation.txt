@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 （あれ？　待ち合わせ１分前なのに、[H名]さんまだ来ない……って、人波が割れて、まさか……）=(Huh? It's one minute left to our meeting, but Miss [H名] hasn't come yet... Don't tell me she was smashed by a surging crowd...)
 「ふぅ、なんとか間に合ったようね。まったく、人混みで歩きにくいったらないわ」="*Pant* looks like I've made it in time. Good grief, I'm not that bad when it comes to avoiding crowds."
 「はは……凄いね[H名]さん、人が避けてたよ」="Haha... You're amazing Miss [H名], you've avoided physical contact with them"

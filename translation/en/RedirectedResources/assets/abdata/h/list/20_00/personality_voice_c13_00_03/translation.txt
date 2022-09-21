@@ -1,4 +1,7 @@
-﻿うん！　アタシたちにおまかせってカンジ！=Yeah! Leave it to us!
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+うん！　アタシたちにおまかせってカンジ！=Yeah! Leave it to us!
 しょうがないなぁ～……なんてね！=Guess it can't be helped~... kidding!
 あはっ、気に入ってくれたの？=Aha--, did you get into it?
 アタシたちも、まだシ足りないしね！=We still haven't had enough either!

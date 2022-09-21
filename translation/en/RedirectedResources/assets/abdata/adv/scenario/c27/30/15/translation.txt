@@ -1,3 +1,5 @@
-
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
 「勝手にシャワー使わせてもらったから。あ、牛乳ももらっていい？」=“I helped myself to your shower. Ah, mind if I have some milk too?”
 「って、何ガン見してんのよ！　昨日あれだけ私の裸見たくせに……」=“Whatcha staring at! Even though you looked through every nook and cranny yesterday...”

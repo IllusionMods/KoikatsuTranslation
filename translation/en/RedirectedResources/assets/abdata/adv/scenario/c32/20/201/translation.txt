@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「ジェットコースターに乗ろうよ！　ここの評判なんだって！」=Let's go on the roller coaster! Apparently, the one here has quite the reputation!
 「わかりました。ジェットコースターは遊園地の花形ですものね」=Understood. A roller coaster is an amusement park's star attraction, afterall.
 「で……どのような評判なんですか？　ここのジェットコースターは」=So... Just what kind of reputation does it have? The roller coaster here.

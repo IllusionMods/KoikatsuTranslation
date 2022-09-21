@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 //「今日も楽しかったね」=
 //「はい。身体も心もまだ遊び足りないと申しております」=
 //「あはは、まだまだ元気な感じだ」=

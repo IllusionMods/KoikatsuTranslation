@@ -1,0 +1,47 @@
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「いや～～、遊園地の締めくくりは、やっぱ観覧車だよね」=“Man~, the ferris wheel really is the only way to end an amusement park date.”
+「ふふふ、よっぽど嬉しいのね。目が輝いているわ」=“Fufufu, you're really happy, huh? Your eyes are glimering.”
+「観覧車って、なんかいいと思わない？　別に乗り物として楽しいわけじゃないけどさ」=“Don't you think ferris wheels are nice? Even though it's not all that much fun as a ride in itself.”
+「ああ、わかるわ。一日の締めくくりを、誰かと思い出として共有することが出来るからでしょ？」=“Aah, I understand. It's because you can share the end of the day and the memories with someone else, right?”
+「そう、それ、そういうこと！　観覧車ってほんといいよね～」=“Exactly, that's it! Ferris wheels really are nice, aren't they~”
+「ふふふ、子供みたいにはしゃいじゃって……可愛いんだから」=“Fufufu, getting excited like a kid... so adorable.”
+「へへへ、でしょう？」=“Hehehe, right?”
+「でも、私達は大人なんだから、中でほんとにはしゃいだりしては駄目よ。係員さんにも動いちゃ駄目って言われちゃったし」=“But, we're adults so, we can't get too rowdy in here. The staff told us not to move around too much in here too.”
+「うん……ゴンドラ揺らしたりしないよう、気をつけなきゃね」=“Yeah... we gotta be careful, not to jostle the cab too much.”
+「うふふ、いい子は大好きよ。一緒に大人しく座っておきましょうね」=“Ufufu, I love good kids. Let's just sit here and enjoy this quietly, okay?”
+「ふふふ……そうやって、大好きって言われると、なんだか照れるね。でも本気で言われてる気がしないのが、ちょっと寂しいな」=“Fufufu... hearing you say you love me like that, makes me kinda blush. But, it also feels a bit sad, since you're not actually saying you love me.”
+「あら、本気で大好きよ。心配しなくたって、私、あなたのことをいつだって気にかけてるんだから」=“My, I really do love you. You don't need to worry, I'm always thinking of you.”
+「うう、なんだか期待している『好き』じゃないような……」=“Uuu, it really doesn't sound like the sort of "love" I want to hear...”
+「あらあら、もう、言葉の表現に拘らないの。どんな『好き』でもおんなじ『好き』よ」=“My oh my, don't nitpick over the exact words. No matter what way I say it, it's always "love".”
+「うん、そう言ってくれるなら、嬉しいよ。あ、ほら、見て……夜景が綺麗だ」=“When you put it that way, it makes me happy. Ah, look... the view's so beautiful.”
+「あらあら、まぁ～～……夜の世界が広がってる感じで、いい眺めだわ」=“Oh dearie me~... such a nice view, like the night world is spreading out.”
+「ここからもっと綺麗になるよ」=“It's only gonna get prettier.”
+「うふふ、もうここで十分綺麗なのに……なんだか二人じめするのが勿体無いわね」=“Ufufu, even though it's already so pretty... feels kind of wasteful to just have this all to ourselves.”
+「……うん、綺麗だよ、[H名]」=“...Yeah, really pretty, [H名].”
+「……もう、そんな言い方して……ビックリするじゃない。景色のことでしょ？」=“...Jeez, saying it like that... that's really surprising, you know? You just mean the view, no?”
+「違うよ。[H名]のことだよ」=“Not at all. I meant you.”
+「ふふふ……悪い子。こんな状況でそんなこと言われたら、キスしたくなっちゃうわ……」=“Fufufu... bad boy. If you say that stuff to me now, I'll want to kiss you...”
+「それじゃあ、しようよ……俺はいつでもいいよ」=“Well then, let's do it... I'm always up for it.”
+「ふふ、だーめ、こんな高い所でキスしたら、目立っちゃうもの。もう少し後にしましょ？」=“Fufu, we can't~, If we kiss somewhere so high up, we'll stand out. Let's do it later?”
+「誰からも見えないって」=“Nobody's gonna see us.”
+「だーめ。私の言うこと聞いてちょうだい。それに……ほら、こんなに綺麗な景色なのよ」=“Bad~. Listen to what I'm saying, please. Not to mention... look, it's so pretty out.”
+「見なきゃ勿体無いわ。せっかくだし、もうちょっとこの夜景を楽しませて」=“It'd be a waste not to savour the view. This sort of thing is rare, let me enjoy this view some more.”
+「照れ屋さんなんだね。わかったよ」=“Very shy, aren't you? I got it.”
+「ありがとう……いい子ね。大好きよ」=“Thank you... such a good boy. I love you.”
+「ふふ、大好きって言われるの、大好きだよ」=“Fufu, I love it when you say that you love me.”
+「……でも、あんまり下まで降りちゃうと、逆に下から見えちゃうんじゃない？」=“...But, if we start going down, won't it actually become easier to see us from down there?”
+「そうね……それじゃ、ここでキス……しましょうか。ごめんなさいね、ころころ変えちゃって」=“You're right... well then, let's kiss... here. I'm sorry, I keep flipflopping on you.”
+「ううん、気にしてないよ。[H名]とキスできるだけで、嬉しいからさ」=“It's fine, I don't mind it. Just being able to kiss you, makes me happy afterall.”
+「[H名]……んんっ……」=“[H名]... nnn--...”
+「ん、ぁ……ん……」=“Nn, ah... nn...”
+「……素敵なキスだったね」=“...That was a wonderful kiss, wasn't it?”
+「ええ、今日一日のデートが素敵な思い出になるように、魔法を掛けたみたいだったわ」=“Yes, almost like a spell, to ensure that day we spent together becomes lovely memories between us.”
+「うん、きっとなるよ。素敵な思い出にね」=“Yeah, I'm sure it will. Lovely memories.”
+「永遠の思い出になってくれると言うことないんだけどね」=“Can't say they'll last forever though.”
+「だね。……もう、楽しかった一日も終わっちゃうな」=“Right. ...The fun day's going to end soon, isn't it?”
+「あら、まだよ。帰るまで一日は終わらないわ……最後の最後まで、一緒の時間を楽しみましょう」=“My, not just yet. The day won't end until we're home... let's enjoy our time together, until we can't anymore.”
+「うん、そうだね」=“Yeah, seems fair.”
+「あ、でも降りる時、忘れ物とかしないようにね。それからゴンドラを揺らしたり、頭をぶつけたりしないようにね」=“Ah, but before we get off, make sure you don't forget anything. Also make sure you don't jostle the cab too much, or hit your head on anything.”
+「……急に現実に返っちゃうんだね」=“...Gonna drag us right back into reality, huh?”

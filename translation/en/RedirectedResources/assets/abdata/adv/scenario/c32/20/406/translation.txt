@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「あ……気がつけば、こんな時間ですね」=Ah... It's already this late, huh? Time really did fly by.
 「時が経つのを忘れちゃったね……えーっとどうしよう？　もうちょっとここでダベる？」=We forgot about the passing of time, huh... Erm, what do you wanna do? Wanna stay for a bit longer?
 「いいえ、もう十分喫茶店を堪能しました。長居し過ぎるのも悪いですし、そろそろ出ましょう」=No, I've enjoyed today plenty enough. It'd be bad to overstay our welcome, so let's leave.

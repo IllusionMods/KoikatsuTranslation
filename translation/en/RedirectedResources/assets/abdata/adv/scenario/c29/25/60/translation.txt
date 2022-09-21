@@ -1,2 +1,5 @@
-﻿「今日は誘っていただきありがとうございました。おかげで、素敵な一日をすごせたと思います」=Thank you very much for taking me out today. Thanks to you, I had a splendid day today.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「今日は誘っていただきありがとうございました。おかげで、素敵な一日をすごせたと思います」=Thank you very much for taking me out today. Thanks to you, I had a splendid day today.
 「また、学園でお会いしましょう」=Let's see each other at school, okay?

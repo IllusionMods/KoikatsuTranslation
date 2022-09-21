@@ -1,4 +1,7 @@
-﻿「あの、ごめん、今ってお話しできるかな？」=Uhm, sorry, could you spare some time for a quick chat?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「あの、ごめん、今ってお話しできるかな？」=Uhm, sorry, could you spare some time for a quick chat?
 （……あれ、返事がない。聞こえてなかったのかな？）=(...Huh, no response. Did she not hear me?)
 「おーい、聞こえてるー？」=Hey~, am I getting through to you?
 「……わっ？　……あ、あなたって……この間転校してきた……」=...Wah--? ...Y-You're... that transfer...

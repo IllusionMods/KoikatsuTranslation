@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「今日は、向かい合わせじゃなく隣に座るのだ」=“I shall sit next to thee today, instead of in front.”
 「……良い事思いついた」=“...I just thought of something nice.”
 「んっ？　なんだ？」=“Nn--? What?”

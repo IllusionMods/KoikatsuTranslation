@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「ふぅ、いい汗かいたです！　たまには運動も必要なのです」=“Fuu, I worked up a good sweat! Exercise is important too, every so often.”
 「うん、気持ちいいね。大丈夫、疲れてない？」=“Yeah, it feels great, doesn't it? You okay? Not tired out?”
 「このくらいならへっちゃらなのです！　あなたは物足りなくなかったですか？」=“This much is nothing for little old me! What about you though, was that trying enough for you?”

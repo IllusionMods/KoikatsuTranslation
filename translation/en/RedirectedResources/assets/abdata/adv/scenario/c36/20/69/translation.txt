@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「じゃあ、とりあえず始めていこうか」="So, let's start at once!"
 「とりあえずって何？　貴方、いつもそんな適当な勉強の仕方をしているの？」="Get started? Don't tell me you always study in like that?"
 「えっ、まぁ、気が乗ったところから手を付けてく感じかなぁ……」="Eh? Well, I got excited and so I just wanted to start right away..."

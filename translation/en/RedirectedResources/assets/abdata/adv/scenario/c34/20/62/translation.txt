@@ -1,11 +1,13 @@
-﻿………………=.........
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+………………=.........
 …………=......
 ……=...
 「Оｈ……ココでＢｙｅｂｙｅダネ」=Oh... This is bye bye, huh?
+CHOICE:「……この後、家にこれないかな？」=...Wanna come to my place?
+CHOICE:「そうだね、ばいばい」=Seems like it, byebye.
 「……この後、家にこれないかな？　まだ[H]といたいんだ」=...Wanna come to my place? I want to be with you for a bit longer.
 「！……ウン、ワタシも♡　アノネ、本当は、トモダチの家、ｓｔａｙする言って来たカラ……ダカラ……イロイロ、大丈夫♡」=!... Yeah, me too♡ You know, the truth is, I told my parents, that I'd be staying the night at a friend's place so... you know... it's fine♡
 「そうだね、話の続きはまた今度だね。ばいばい」=Seems like it, let's continue our chat next time. Bye-bye.
 「ＯＫ♡　風邪、気を付けてネ、マタ会うの、楽しみダカラ♡」=OK♡ Be careful not to catch a cold, okay? I'm really looking forward to next time, afterall♡
-
-CHOICE:「……この後、家にこれないかな？」=...Wanna come to my place?
-CHOICE:「そうだね、ばいばい」=Seems like it, byebye.

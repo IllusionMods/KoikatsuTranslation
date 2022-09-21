@@ -1,4 +1,7 @@
-﻿「わぁ、色んな人から見られとる……やっぱりカップルって分かるとかいな？」=Waah, so many people are looking at us... Can they tell we're a couple?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「わぁ、色んな人から見られとる……やっぱりカップルって分かるとかいな？」=Waah, so many people are looking at us... Can they tell we're a couple?
 「あはは、多分ね。二人きりで帰ってるし……」=Ahaha, probably. We're walking home together alone like this and all...
 「そうよね。えへへ、君と付き合うまでは、そういうのって恥ずかしいかなって思っとったけど……今は逆に嬉しいん。もっともっと見て欲しいって思うっちゃん」=That's true. Ehehe, before we started going out, that sort of thing would have sounded really embarrassing to me but... Now, it actually makes me really happy. Like, I want them to look at us even more.
 「仲が良さそうなところ？」=Look at us being close?

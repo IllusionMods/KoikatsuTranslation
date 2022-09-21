@@ -1,1 +1,4 @@
-﻿「おーす！　今日は良い天気だな！」=Yo! Great weather today, ain't it!
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「おーす！　今日は良い天気だな！」=Yo! Great weather today, ain't it!

@@ -1,0 +1,18 @@
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「んーっ、一日中遊んだわね。今日も、その……楽しかったわ」=“Nnn--, we spent the whole day playing around, didn't we? I had, uhm... I had a blast today too.”
+CHOICE:『まだ時間ある？』=『Do you still have time?』
+CHOICE:『俺も楽しかった』=『I had a lot of fun too.』
+「えっと、まだ時間あるかな？　もう少しここで、ゆっくりしてたいんだけど」=“Erhm, do you still have some time? I wanna take it easy with you for a bit longer here.”
+「だ、大丈夫よ。今日は遅くなるかもって伝えてあるし……」=“I-I'm good on time. I did tell my parents that I might be home a bit late today so...”
+「そっか。それはちょうどよかった。最後に[H名]と見たいものがあるんだ」=“I see. That's perfect then. There's a place I wanna check out with you, [H名].”
+「私と見たいもの？」=“A place you wanna check out with me?”
+「うん。ちょっと付いて来て」=“Yeah. Come with me for a bit.”
+「俺も楽しかった。でも、デートはまだ終わりじゃないよ？」=“I had a ton of fun too. But, our date's not over just yet, you know?”
+「ほら、手。二人が別れるまでが、デートだからね」=“Come on, give me your hand. It's still a date, right up until we say goodbye.”
+「ぷっ、何それ？　子どもの遠足じゃないんだから」=“*Puh*, what's with that? We're not kids out on a trip, you know?”
+「うっ、確かに今の言い方はヒドかったな……もっとスマートに決めたかったんだけど」=“Uu--, for sure, that really didn't come out the best... I wanted to make it sound a bit cooler.”
+「変に意識するからそうなるのよ。それより、別れるまでがデートなんでしょ？」=“It's because you get all conscious about it when you do it. Rather than that, we're still on a date until we say goodbye, no?”
+「……ちゃんと、エスコートしてよね」=“...Show me a good time till then, okay?”
+「うん、任せて」=“Yeah, leave it to me.”

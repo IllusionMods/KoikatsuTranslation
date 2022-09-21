@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「うっわぁ……凄い混んでるね。皆考える事は同じかぁ……」="Uwaah... What a crowd. Everyone thought the same huh..."
 「わかりきっていた事でしょう？　貴方、どれだけ楽観的なのかしら」="It was obvious, wasn't it? How how optimistic are you?"
 「ごもっとも……でも、[H名]さん……人混みとか苦手だよね？」="You're right... But Miss [H名]... You're bad with crowds, right?"

@@ -1,9 +1,13 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「さて、今日はもう帰るかな」=“Alright, I guess I'll call it a day and go home then.”
 部活も終わったことだし、後は大人しく家に帰って宿題でも……。=Club activities are over anyways, so maybe it's best that I just head straight home and do some homework...
 「……ん？　あれはこのみちゃん？」=“Hmm…? Is that Konomi-chan?”
 俺のクラス前の廊下でこのみちゃんがウロウロしている。=Konomi-chan was wandering around in front of my class.
 もしかして二年生の勧誘にでも来たんだろうか？=Perhaps she's here to recruit the second-years?
 「よ、このみちゃん」=“Yo Konomi-chan.”
+このみ=Konomi
 「あっ、先輩！　良かったー！　もう帰っちゃったかと思ったです！」=“Ah, Senpai! Thank goodness! I thought you had gone home already!”
 俺の顔を見るなり、ホッとした表情でそんなことを言う。=As soon as she saw my face, Konomi-chan let out a sigh of relief.
 どうやら二年生の勧誘のためにいたわけじゃないらしい。=Seems like she was looking for me rather than recruiting second-years.
@@ -69,5 +73,3 @@
 それが全面に印刷されていて……全体的に肌色が多めだ。=And as it was printed on all sides... The bag overall has a lot of skin to it.
 「罰ゲーム……」=“This feels like punishment...”
 そんなことを考えつつも、このみちゃんの笑顔のため、意を決して持って帰る俺だった。=While that thought did come to mind, for Konomi-chan's sake and for mine too, I steeled my resolve and started heading home.
-
-このみ=Konomi

@@ -1,4 +1,7 @@
-﻿これ、気持ちいい？=Does this feel good?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+これ、気持ちいい？=Does this feel good?
 どう？　興奮する？=How is it? Getting horny?
 もっと気持ちよくなってね=Feel lots more pleasure, okay?
 まだ、まだ気持ちよくしてあげるよ=I'll make you feel better, lots better.

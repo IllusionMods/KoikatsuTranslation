@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「じゃあ、今日も始めよっか」=Then, let's start today's session too.
 「今回の活動内容はどういったものなのでしょうか」=What sort of activity are we doing this time?
 「んー、今回は―ーー」=Hmmmm, this time---

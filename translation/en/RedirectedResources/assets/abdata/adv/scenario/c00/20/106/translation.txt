@@ -1,4 +1,7 @@
-﻿「あー……いい風ね。嫌なこと、全部忘れちゃいそう。それにこの景色も相変わらず素晴らしいわぁ」=Aah... what a nice breeze. Feel like I could forget everything bad happening in my life. Not to mention, this scenery's beautiful as always.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「あー……いい風ね。嫌なこと、全部忘れちゃいそう。それにこの景色も相変わらず素晴らしいわぁ」=Aah... what a nice breeze. Feel like I could forget everything bad happening in my life. Not to mention, this scenery's beautiful as always.
 「気に入ってくれてよかったよ」=I'm glad you like it so much.
 「この景色の全ては、二人だけのものになればいいのに」=If only we could have this entire scenery just to ourselves.
 「はは、そうだね。そうできればいいね、でも、思い出は俺たち二人だけのものだよ」=Haha, yeah. If only. But, our memories are ours alone.
@@ -17,6 +20,8 @@
 「いや、[H名]は素敵だから、俺も立派な俳優になろうと頑張ってるんだと思うよ」=Nah, I feel like it's because you're so lovely, that I'm trying my best to seem like a splendid actor too.
 「俳優は俳優でも、エッチな男優さんになりたいんじゃない？」=An actor may be an actor, but don't you want to specialize as a more... lewd one?
 「はは、こりゃ、一本取られちゃったなぁ」=Haha, you've got me there.
+CHOICE:『この気分のままエッチしたいな』=『I wanna have sex just like this.』
+CHOICE:『またこの景色を楽しもう』=『Let's enjoy this scenery.』
 「ここで、映画のワンシーンみたいなエッチ、してみたいな」=I wanna try having sex here, like an R-rated scene in a movie.
 「じゃあ、私、もっといっぱいセクシーに振る舞わなきゃ♪」=Well then, I gotta put on an even more sexy persona then♪
 「ええ？　今でも十分セクシーじゃん。まだこれ以上セクシーになれるっての？」=Eh? You're sexy enough as you are. Is this not your final form?
@@ -40,6 +45,3 @@
 「いい子ね……ふふ、ほら、いい風が吹いてる……はぁぁん……火照った身体に気持ちいい……んんぅん……」=Good boy... Fufu, look, such a nice breeze... haaan~... feels so good against my burning body... Nnnn~...
 （……我慢ガマン。股間がやばい……夜景を見て、心を鎮めよう……）=(...Patient, gotta be patient. My crotch's not doing too good... gotta look at the sky, and calm down...)
 「ふぅ、じゃあ、そろそろ帰ろうか」=Fuu, well then, let's go home, shall we?
-
-CHOICE:『この気分のままエッチしたいな』=『I wanna have sex just like this.』
-CHOICE:『またこの景色を楽しもう』=『Let's enjoy this scenery.』

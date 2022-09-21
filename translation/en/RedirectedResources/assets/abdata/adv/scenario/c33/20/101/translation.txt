@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「[H名]さん、俺、いつもとは違う[H名]さんが見たいんだ！」=[H名]-san, I want to see a different side of you!
 「情熱的ね。見せるのはやぶさかじゃないけど……だから公園に来たの？」=Passionate, aren't we? I don't particularly mind but... is that why we came to the park?
 「うん、ちょっと待ってね。いいものを持って来たんだ」=Yeah, wait a second, I brought something nice.

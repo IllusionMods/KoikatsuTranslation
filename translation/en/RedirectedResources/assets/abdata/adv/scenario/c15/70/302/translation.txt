@@ -1,0 +1,24 @@
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「ふぅ、やっぱり歌うのは気持ちいいね」=“Fuu, singing really does feel amazing.”
+「キミはやっぱり歌が上手いなー」=“You really are amazing at singing.”
+「そうかな？　普通くらいだと思うけど。俺的には[H名]の歌が好きだよ」=“You think? I don't think I'm anything special. I like the way you sing much more.”
+「あたしのはただ思いっきり歌ってるだけで、歌が上手いわけじゃないだろー」=“It's not like I'm any good at it, I just sing with all my heart, that's all.”
+「それがいいのに。[H名]らしくて、聞いてて元気になるよ」=“That's the good part. It's just so like you, hearing you sing makes me energetic too.”
+「うーん……そう言ってくれるのは嬉しいけどなー」=“Mmm... hearing you say that does make me happy, though.”
+「[H名]は自分の歌に自信がないの？」=“Do you not have any confidence in your own singing?”
+「自信がない、かー……言われてみれば、そうなのかもなー」=“No confidence, huh... now that you say it, might be.”
+「あたしはあんまり人前で歌ったこともないし、歌の練習をしたこともないからなー」=“I've never really gone out of my way to sing in front of others, nor have I ever practiced it properly.”
+「それだったら俺だって、練習ってほどのことをしたことはないよ」=“If that's your yardstick, it's not like I've ever taken formal lessons in singing either, you know?”
+「そうだったのかー？」=“That so?”
+「うん。みんな、最初は人前で歌うのは慣れてないけど、歌ってるうちに少しずつ上手くなっていくものなんじゃないかな」=“Yeah. Isn't everyone like that? Not really used to singing in front of others at first, but slowly becoming good at it and whatnot.”
+「そういうものなのかー？　……でも、やっぱりよくわからないぞ」=“You think so?... But, well, I don't really know.”
+「あはは。まぁ、たしかにそうかもね」=“Ahaha. Well, yeah, who does?”
+「それなら、俺と一緒に歌ってみない？」=“In that case, how about you try singing with me?”
+「一緒に？　デュエットってことかー？」=“With you? You mean a duet?”
+「そうそう、俺の歌が上手いかどうかはともかく、一緒に歌えば感覚がわかるかと思って」=“Exactly, putting my own skill level and stuff aside, you'd be able to get a feel for it if we sing together.”
+「でも、あたしと一緒じゃ上手く歌えないかもしれないぞ」=“But, you might not be able to put out your best if you sing with me.”
+「そんなことないよ。それに、俺は上手く歌えるかどうかより、[H名]と一緒に歌うのが楽しみだし」=“That's not true at all. Not to mention, whether I sing well or not doesn't matter, I'm just excited to sing together with you.”
+「……うん、そうだなー！　たしかに、キミと一緒に歌うのは楽しそうだぞ！」=“...Yeah, you're right! Certainly, singing together with you does sound fun!”
+「それじゃ、さっそく入れるよ」=“Well then, I'mma put a song in.”

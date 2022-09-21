@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「[H名]？　大丈夫？　その……怒ってる？」=[H名]? You alright? Uhm... Are you mad?
 「怒ってはいないが、大丈夫でもない……絶対に気付かれてるぞ？　どうしてくれるんだ……」=I'm not mad, but I'm not alright either... We definitely got noticed, you know? What are you going to do...
 「大丈夫。誰も何も言ってこないし、きっと気付いてないよ」=It's alright. Nobody's said anything to us, I'm sure nobody noticed.

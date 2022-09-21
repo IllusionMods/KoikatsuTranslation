@@ -1,0 +1,5 @@
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「こちら、家庭科の授業で作ったものなのですが、あなたに試食をお願いしたく」=I made these during home-ec, I'd like it if you could try some.
+「率直なご感想をお願いします。今後の参考にさせて頂きますので」=I'd like to hear your honest opinion. I'll be using it as reference for the future.

@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「本当に、ホテルに来ちゃった……すごいね、この迫ってくるような空間……」=“We really did, come to a hotel... amazing, this sultry atmosphere...”
 「はは、そんなに緊張しなくてもいいんだよ」=“Haha, you don't need to be that tense, you know?”
 「そう言われても……むしろ、なんであなたはそんなにリラックスしてるの？」=“Even if you say that... if anything, why are you so relaxed?”

@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「[H名]さん、何か乗りたいものある？」=[H名]-san, Is there anything you want to ride?
 「私、ジェットコースター苦手なの」=I'm bad with rollercoasters.
 「そうなんだ！　じゃあ、ジェットコースターはやめておこうか」=I see! Then, maybe we should skip out on that.

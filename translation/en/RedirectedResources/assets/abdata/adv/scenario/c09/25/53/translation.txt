@@ -1,1 +1,4 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「え？　もうこれで終わり？　あんた、調子が悪いんじゃない？」=“Eh? Are we really stopping here? Doesn't this make you feel awful though?”

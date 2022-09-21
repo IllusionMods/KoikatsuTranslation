@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「そういえば喫茶店の漫画とかもあったよね？」=“Reminds me, there was that manga about cafes and whatnot, right?”
 「知ってるのかい！？」=“You know of it!?”
 「うん、俺が知ってるのはアニメ化したやつだけだけど」=“Yeah, well, I know of the anime adaption.”

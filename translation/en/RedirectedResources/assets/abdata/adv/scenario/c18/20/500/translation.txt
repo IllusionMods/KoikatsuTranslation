@@ -1,10 +1,16 @@
-﻿………………=.........
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+………………=.........
 …………=......
 ……=...
 「もう、ここまで戻ってきちゃった……楽しかったよ、今日はありがとう、[H名]」=We've already come back this far... thanks for today, I had a blast, [H名].
 「私もです。ありがとうございました」=Me too. Thank you very much.
 「……別れる前になると、一層名残惜しくなっちゃうな」=...The closer you get to having to say goodbye, the more depressing it becomes, doesn't it?
 「学園でも会えるんですけどねっ」=We'll get to see each other at school too, but yes--
+CHOICE:『自宅に誘う』=『Take to your place』
+CHOICE:『ラブホに誘う』=『Take to love hotel』
+CHOICE:『さよならする』=『Say goodbye』
 「あのさ……今からウチ、来れないかな？」=Hey, listen... won't you come to my place?
 「えっ……行ってもいいんですか？」=Eh--... is it really alright?
 「もちろんだよ。もっともっと一緒にいたいんだ」=Of course. I want to be with you more, much more.
@@ -22,7 +28,3 @@
 「えへへ、嬉しいです」=Ehehe, I'm so happy.
 「俺も……それじゃあ、またね」=Me too... well then, see ya later.
 「はい、学園で」=Yes, at school.
-
-CHOICE:『自宅に誘う』=『Take to your place』
-CHOICE:『ラブホに誘う』=『Take to love hotel』
-CHOICE:『さよならする』=『Say goodbye』

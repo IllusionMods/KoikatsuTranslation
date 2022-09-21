@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「この学園にはもう慣れた？」=“Have you gotten used to this school yet?”
 「うん、お陰様でね。友達も出来たし、毎日が楽しいよ」=“Yeah, thanks to your help. I've made lots of friends now, so everyday's a blast.”
 「それは良かったわ！　……でも、楽しいことばかりじゃないでしょう？」=“I'm glad to hear that! ...But, it's not all fun things, is it?”

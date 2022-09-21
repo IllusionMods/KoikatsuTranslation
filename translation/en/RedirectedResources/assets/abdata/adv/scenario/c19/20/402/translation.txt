@@ -1,4 +1,7 @@
-﻿「うふふ……料理来るの楽しみだね？」=Ufufu... can't wait till the food gets here, right?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「うふふ……料理来るの楽しみだね？」=Ufufu... can't wait till the food gets here, right?
 「そうだね。でも……さっき、注文したばかりだから、もうちょっとかかると思うよ」=Yeah. But... we only just ordered so, I think it'll take some more time.
 「それは分かってるけど、今から楽しみで……」=I know that, I'm just excited...
 「はは、ウキウキしてるね。そういえば……[H名]は料理とかするの？」=Haha, you're sure in high spirits. On that note tho... you cook, [H名]?

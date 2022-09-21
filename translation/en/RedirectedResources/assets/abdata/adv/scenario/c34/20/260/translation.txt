@@ -1,4 +1,7 @@
-﻿「アノ……本当に誰にも見つからなかったのカナ……？　大丈夫カナ？」=Uhm... Did we really not get caught there...? Is it really alright?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「アノ……本当に誰にも見つからなかったのカナ……？　大丈夫カナ？」=Uhm... Did we really not get caught there...? Is it really alright?
 「た、たぶん。いちおう、俺がそのまま壁になってたはずだから」=P-Probably. I was careful not to move and was blocking the entire view, just in case.
 「声、我慢したし、見つかったらって怖かったケド……チョット、アナタらしくて、面白かったヨ♡」=We held down our voices too, I was scared that we'd get caught but... It was a bit interesting, just like you to do that too♡
 「あはは……面目ないです」=Ahaha... I'm ashamed.

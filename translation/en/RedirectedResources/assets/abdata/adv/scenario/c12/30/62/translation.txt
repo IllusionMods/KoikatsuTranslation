@@ -1,11 +1,13 @@
-
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
 ………………=.........
 …………=......
 ……=...
-//「おっと、もうこんなところか。あはは、話に夢中になってると早いな」=
-//CHOICE:「よければ家でもう少し話さない？」=
-//CHOICE:「それじゃまた」=
-//「そうだね。その……よければ家でもう少し話さない？」=
-//「ん？　あぁ、いいよ。あたしも、もう少し一緒にいたいって思ってたし」=
-//「うん。それじゃまた。気を付けて帰ってね」=
-//「はいはい。じゃ、そっちこそ気を付けて帰れよー」=
+「おっと、もうこんなところか。あはは、話に夢中になってると早いな」=“Oh, we're already here, huh? Ahaha, the walk home goes by in no time with some good company, huh?”
+CHOICE:「よければ家でもう少し話さない？」=Wanna come to my place to chat a bit more?
+CHOICE:「それじゃまた」=See ya then.
+「そうだね。その……よければ家でもう少し話さない？」=“Yeah. Uhm... wanna come to my place to chat a bit more?”
+「ん？　あぁ、いいよ。あたしも、もう少し一緒にいたいって思ってたし」=“Nn? Aah, sure. I want to be with you a bit more too.”
+「うん。それじゃまた。気を付けて帰ってね」=“Yeah. See ya then. Go home safely, okay?”
+「はいはい。じゃ、そっちこそ気を付けて帰れよー」=“Yes, yes. You too, okay~?”

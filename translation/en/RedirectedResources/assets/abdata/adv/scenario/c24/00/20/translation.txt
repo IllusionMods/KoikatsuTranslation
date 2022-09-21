@@ -1,1 +1,4 @@
-﻿「おはようございます♡　今日もあなたの元気そうなお顔が見られて幸せです♡」=Good morning♡ I'm really happy to see that you're feeling great today too♡
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「おはようございます♡　今日もあなたの元気そうなお顔が見られて幸せです♡」=Good morning♡ I'm really happy to see that you're feeling great today too♡

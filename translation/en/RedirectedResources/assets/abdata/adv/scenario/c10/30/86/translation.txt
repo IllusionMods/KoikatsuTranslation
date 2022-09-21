@@ -1,4 +1,6 @@
-
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
 「わ、我は今日、やってもらいたいことがあるのだ……」=“T-today, there's something I want to do...”
 「ん？　やってもらいたいこと？」=“Hm? Something you want to do?”
 「後ろから……ぎゅっってして欲しいのだ……」=“I want you... to hug me from behind...”

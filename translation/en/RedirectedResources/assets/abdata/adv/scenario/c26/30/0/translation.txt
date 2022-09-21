@@ -1,4 +1,6 @@
-
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
 「えっと……いま大丈夫かな？　よければ君とお話ししたいんだけど」="Um, are you busy? I'd like to speak with you for a sec."
 「……あなた確か……転校してきた人……？」="...Are you... the transfer student...?"
 「そうそう、覚えててくれたんだ？」="Yeah, that's me. ...Did you forget?"

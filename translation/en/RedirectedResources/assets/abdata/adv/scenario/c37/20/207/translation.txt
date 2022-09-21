@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「もう大分暗くなってきちゃったね。そろそろ帰ろうか」=It's gotten pretty damn dark, hasn't it? Let's head back home soon.
 「そうしましょう」=Let's do that.
 「観覧車からの夜景、素敵でした」=The night sky from the Ferris Wheel, it was lovely.

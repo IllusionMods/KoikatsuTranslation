@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「[H名]って、普段から喫茶店とか良く来るの？」=Hey, [H名], do you come to coffee shops like these often?
 「ん？　どうして？　友達同士で利用する事はあるけど、一人で来ることはあんまりないわよ？」=Hm? Why do you ask? I come sometimes with friends, but not that often when I'm alone.
 「そっか、何か注文とか頼み慣れてる感じがしたから」=I see, I just thought that you looked like you were used to ordering things and that you knew the menu pretty well.

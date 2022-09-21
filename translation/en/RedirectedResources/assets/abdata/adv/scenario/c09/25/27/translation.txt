@@ -1,1 +1,4 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「え？　プレゼントを用意してくれてるの！？　嬉しい！　中身は何なの？」=“Eh? You got a present for me?! I'm so happy! What's inside?”

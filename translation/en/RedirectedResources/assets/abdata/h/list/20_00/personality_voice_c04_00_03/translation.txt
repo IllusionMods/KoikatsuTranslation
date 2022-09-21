@@ -1,4 +1,7 @@
-﻿分かったわ。私たちに任せて=Got it. Leave it to us.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+分かったわ。私たちに任せて=Got it. Leave it to us.
 そう言うと思って、体力残してあるわ=I thought you'd say that, so I preserved some stamina.
 しょうがないんだから……分かったわ=There's really no helping you~... Got it.
 あたりまえでしょ。まだまだ終わらないわ=That's obvious, no? This show's not over yet.

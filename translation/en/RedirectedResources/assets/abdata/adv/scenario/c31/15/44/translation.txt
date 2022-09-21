@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「へえ、色々あるんだね」=Hoh, there's quite the variety, huh?
 「ほぅ、本当に色々あるな……おっ、あそこなんてどうだ？」=Hoh, there really is... Oh--, how about we go there?
 「うん、いいよ」=Yeah, alright.

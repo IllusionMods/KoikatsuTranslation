@@ -1,4 +1,7 @@
-﻿「あの……それ……冗談、じゃないわよね？」=Uhm... that's... not a joke, right?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「あの……それ……冗談、じゃないわよね？」=Uhm... that's... not a joke, right?
 「もちろん、本気の言葉だよ。これが俺の気持ち」=Of course, I mean what I said. This is how I feel.
 「いつからそう思ってたの？　……ううん、今はそんなことどうだってよくて」=For just how long have you felt that way? ...No, that doesn't matter right now.
 「俺の彼女になってください！」=Please be my girlfriend!

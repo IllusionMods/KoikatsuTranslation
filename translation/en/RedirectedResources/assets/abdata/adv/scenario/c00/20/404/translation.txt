@@ -1,4 +1,7 @@
-﻿「おー、写真より実物の方がいいね～。すごい美味しそうだ」=Ooh, the real thing looks way better than the photo~. It looks delicious.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「おー、写真より実物の方がいいね～。すごい美味しそうだ」=Ooh, the real thing looks way better than the photo~. It looks delicious.
 「ええ、ほーんと、美味しそう♪　舌の先によだれが絡みついてくるのがわかるわ……」=Yes, for real, super delish♪ I almost can't hold back my drool...
 「今、口の中がトロトロになってる……ああん、舌が、胃が、美味しいのを、欲しがってるぅ……♪」=My mouth's becoming super melty... aahn, my tongue, my belly, the want the tasty stuff so bad...♪
 「あ、あの、食欲じゃない欲求が芽生えそうなので、そろそろ食べよう……」=U-Uhm, I'll start getting hungry for something other than food at this rate, so let's eat...

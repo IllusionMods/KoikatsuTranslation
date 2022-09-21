@@ -1,1 +1,4 @@
-﻿「誰か助けてーっ！　男子が入ってきてるよーっ！」=Someone help--! There's a boy in here--!
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「誰か助けてーっ！　男子が入ってきてるよーっ！」=Someone help--! There's a boy in here--!

@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「ふふふふっ……」=“Fufufufu--...”
 「ど、どうしたの？　不気味な笑みを浮かべて……」=“W-What's wrong? That's a really unnerving smile...”
 「いや、失礼。実はここ、ワタシの好きなアニメ美術監督が良く使う場所でして……」=“Oh, I'm sorry. The truth is, this is a place an anime art director whose work I really like often uses...”

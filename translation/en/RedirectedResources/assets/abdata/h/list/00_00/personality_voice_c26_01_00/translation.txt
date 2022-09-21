@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 ……何かついてる？=...Is there something on me?
 ……そんなに、気になる？=...Are you, that curious?
 ……まだ、なの？=...How much, longer~?

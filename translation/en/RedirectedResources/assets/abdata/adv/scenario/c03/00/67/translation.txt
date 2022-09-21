@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「はぅ……ここから先はもう……別々の道なのですね……さみしーです……」=“Hauu... we'll have to go our separate ways now, won't we... it feels so lonely...”
 「そうだね。あっと言う間にここまで来ちゃった」=“Yeah. We got back here in no time.”
 「え、えっと……そうだ、もし良かったら、ちょっと遊んでいかないですか！？　ほら、懐かしい遊具とかもあるですし！」=“E-Erhm... right, if you'd like, how about we go play around a bit at this park?! I mean, there's all sorts of nostalgic rides here too!”

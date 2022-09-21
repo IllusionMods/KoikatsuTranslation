@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「実はさ……最近、たまにオカルト雑誌に目を通したりするんだ」=“The truth is... recently, I've been looking at some occult magazines recently.”
 「え！　本当にっ！？」=“Eh! Really--?!”
 「お、おお……すごい食いつき……。[H名]はいつも“かれら”と交信しているけど、ああいう雑誌はよく読むの？」=“O-Ooh... that's a bite if I've ever seen one... You're always communicating with "them" but, do you read magazines like that too, [H]?”

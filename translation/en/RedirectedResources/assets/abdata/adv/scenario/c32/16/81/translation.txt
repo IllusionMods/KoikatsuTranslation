@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「風が気持ちいいですね。サンドイッチもより一層美味しく感じられます」=The wind feels really nice, doesn't it? It makes the sandwich taste better than usual.
 「何だかピクニック気分になるね」=Feels kinda like a picnic, doesn't it?
 「気分も開放的になるというものです」=Feels quite liberating as well.

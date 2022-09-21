@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「ねえ、あなたは……今でも私のことを大人っぽいって思ってる？」=Hey, you... Do you still think I'm mature?
 「え？　うん、そりゃ……」=Eh? Well, Yeah...
 「そう……なら、謝らなくちゃね。あなたの理想にはなれそうもないし」=I see... Then, I have to apologize. I don't think I can fit your ideals.

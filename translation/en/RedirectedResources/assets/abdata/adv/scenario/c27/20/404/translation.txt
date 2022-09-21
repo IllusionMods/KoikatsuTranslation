@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「写真より実物の方が華やかだね」=“The real thing looks way better than the pictures, doesn't it?”
 「やっぱり料理は見た目も大切よね～。それじゃあ、いただきます」=“The presentation really is important too, when it comes to cooking, isn't it~. Well then, I'm digging in.”
 「はむっ……ん～～っ！　幸せ～♪」=“*bite*... nnnn~~~! Bliss~♪”

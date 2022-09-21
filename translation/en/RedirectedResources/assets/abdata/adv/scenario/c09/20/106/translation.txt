@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「やっぱり綺麗ね……」=“It really is beautiful...”
 「そうだね……それに、[H名]も綺麗だよ」=“Yeah... you're beautiful too, [H].”
 「な、なに言ってんの。急に……恥ずかしいじゃない」=“W-What're you saying, all of a sudden. That's... super embarrassing.”
@@ -14,6 +17,8 @@
 「……あんたが、いつもは言わないようなこと言うからでしょ」=“...It's because you said something, you wouldn't normally say.”
 「んー、これは夜景の魔力のせいかも」=“Nnn, the magic of this view might be at fault for that one.”
 「魔力って……」=“Magic", you say...”
+CHOICE:『この前はエッチまでしちゃったしね』=We even went so far as to have sex here last time, afterall.
+CHOICE:『また、この景色を二人で見に来ようね』=Let's come here again together, okay?
 「この前は、ここでエッチまでしちゃったしね」=“We even went so far as to have sex here last time, afterall.”
 「ちょっと！　……そんなことサラッと言わないでよ。誰かに聞かれたらどうするの」=“Hey! ...Don't say that so easily. What if someone heard you?”
 「大丈夫だよ。ちゃんと周りはチェック済み。誰もいないから」=“It's fine. I already checked. There's nobody around us.”
@@ -40,6 +45,3 @@
 「……あ、あんたが言ってるから、あたしもつられちゃったんじゃない」=“...N-Now look what you've done, because you keep saying stuff like that, even I got dragged along.”
 「ごめんごめん。駅まで手をつなぐから許してよ……じゃあ、行きますか」=“Sorry, sorry. I'll hold your hand till the station, so forgive me... then, shall we?”
 「……うんっ」=“...Yeah--”
-
-CHOICE:『この前はエッチまでしちゃったしね』=We even went so far as to have sex here last time, afterall.
-CHOICE:『また、この景色を二人で見に来ようね』=Let's come here again together, okay?

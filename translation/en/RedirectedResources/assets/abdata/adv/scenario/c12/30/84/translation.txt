@@ -1,6 +1,8 @@
-
-//「コイカツ……だっけ？　結局何をする部活なんだよ」=
-//「うーん、憧れのシチュエーションを実践してみよう的な？」=
-//「だから、それがいまいちイメージ湧かないっていうかー」=
-//「んー、じゃあ試しに顎クイとかやってみよう！」=
-//「顎？……え、待て、待って！　やっ、それっ、んぅぅぅぅっ……」=
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「コイカツ……だっけ？　結局何をする部活なんだよ」=“Koikatsu... you said? So just what do we do here, anyway?”
+「うーん、憧れのシチュエーションを実践してみよう的な？」=“Nnnn, bringing all the situations you can only imagine right into reality, I guess?”
+「だから、それがいまいちイメージ湧かないっていうかー」=“And I told you, it's not exactly easy to come up with something like that on the spot--”
+「んー、じゃあ試しに顎クイとかやってみよう！」=“Nnn, for starters then, how about I hold your face up by the chin and stare right into your eyes?”
+「顎？……え、待て、待って！　やっ、それっ、んぅぅぅぅっ……」=“My chin? ...Eh, wait, wait! No--, that's--, nnnn--...”

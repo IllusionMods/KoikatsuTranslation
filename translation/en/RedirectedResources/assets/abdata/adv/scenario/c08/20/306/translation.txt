@@ -1,8 +1,13 @@
-﻿………………=.........
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+………………=.........
 …………=......
 ……=...
 「もう歌いたい曲も底をついてきたかな？」=Run out of songs to sing too?
 「そうだね～……これからどうしよっか？」=Yeah~... what should we do for the rest of the time?
+CHOICE:『このまま、まったりしてよう』=『Let's relax and take it easy, just like this』
+CHOICE:『もう出ようか』=『Let's head out』
 「このまま何もせずまったりしようよ」=Let's relax and take it easy like this without doing anything.
 「うん、そうだね。それもいいかも」=Yeah, good shout. That might be nice.
 「あっそうだ！　[P名]君、食べたいものない？　何か頼もうよ！」=Ah, that's right! [P]-kun, is there anything you wanna eat? Let's order something!
@@ -17,6 +22,3 @@
 「うんっ。あ～……ちょっと声がかれてるかもぉ」=Yeah--. Ah~... I think my voice is getting a bit hoarse.
 「それはいけない。[H名]の可愛い声のためにも……はい、のど飴」=That's no good. Your adorable voice must be preserved... here, a cough drop.
 「わ～、ありがと♪」=Wah~, thanks♪
-
-CHOICE:『このまま、まったりしてよう』=『Let's relax and take it easy, just like this』
-CHOICE:『もう出ようか』=『Let's head out』

@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「はっ！？　えっ！？　なに？　どうして……？」=Hah--!? Eh--!? What? Why...?
 「ごめん……」=Sorry...
 「どうして……理由はなに？」=Why... any specific reason?

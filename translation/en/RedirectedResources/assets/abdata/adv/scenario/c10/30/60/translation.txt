@@ -1,2 +1,4 @@
-
-//「我は満足したぞ♪　また、二人で散策しよう！」=
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「我は満足したぞ♪　また、二人で散策しよう！」=“I am satisfied♪ Let us go on another stroll again sometime.”

@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「はふ……ね、少し休憩しましょうか？」=Hah... Hey, wanna take a small break?
 「うん、いいよ。俺も汗拭きたいなって思ってたとこ」=Yeah, alright. I was also thinking of taking a small one to wipe down this sweat.
 「結構いい勝負だったけど……キミ、手加減してくれたでしょう？　ふふっ、お姉さんには分かっちゃうんだから。ねぇ、物足りなくない？　大丈夫？」=That was a pretty good match but... You were going easy on me, weren't you? I can tell, you know? But is it alright? Are you really satisfied with this?

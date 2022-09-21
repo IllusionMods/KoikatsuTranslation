@@ -1,4 +1,7 @@
-﻿「あ、今って時間大丈夫かな。できれば少し話したいんだけど」=Ah, is now a good time? I'd like to have a chat with you.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「あ、今って時間大丈夫かな。できれば少し話したいんだけど」=Ah, is now a good time? I'd like to have a chat with you.
 「あ、噂の男の子じゃん。アタシと話したいの？ いいよー」=Ah, ain't ya that boy, from the rumours? You wanna talk to me? Alright.
 「俺は[P名前]って言うんだ。噂って……俺、なんかしたのかな」=I go by [P名前]. "Rumours"... did I do something?
 「多分みんな君のこと興味あるんだよ。アタシも……知りたいし」=It's probably just that everyone's interested in you. I wanna... know too.

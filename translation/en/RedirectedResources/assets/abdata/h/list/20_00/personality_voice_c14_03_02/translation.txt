@@ -1,4 +1,7 @@
-﻿こんな場所でやるなんてな……誰も見てないよな？=Doing it in a place like this... nobody's got their eye on us, right?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+こんな場所でやるなんてな……誰も見てないよな？=Doing it in a place like this... nobody's got their eye on us, right?
 さっさとしろよ……怪しまれるぜ=Do it and get it over with... they'll start suspecting us.
 そっとだぞ……声、漏れちゃうから……=Gently, got it?... I'll moan, otherwise...
 あんまり激しくやるなよ？=Don't do it too hard, kay?

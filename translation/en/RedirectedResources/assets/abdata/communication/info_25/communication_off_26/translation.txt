@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「……ここ、男子トイレじゃないけど？」=“...This isn't the boys' toilet though?”
 「っ！？　で、出て行ってっ……！」=“--!? G-Get out...!”
 「……後にして」=“...Not now.”

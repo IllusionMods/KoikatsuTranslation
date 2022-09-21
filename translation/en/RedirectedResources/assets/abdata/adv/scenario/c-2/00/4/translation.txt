@@ -1,12 +1,10 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+麗奈=Reina
 「あら。どうしたの？」=Hm? Is something the matter?
+CHOICE:部活の成果を確認してもらえますか？=Can you check the progress of my club activities?
+CHOICE:先生と話がしたくて……ダメですか？=I just wanted to talk to the teacher. Is that okay?
 「構わないわよ。この前からどのくらい上手になったのか、見てあげる」=By all means. Let's see how much you've improved since your last review, shall we?
 「私と話をしていて楽しい？」=Do you enjoy our little discussions?
 「……そう。なら良いのだけど」=... Is that so? I'm glad to hear that.
-
-CHOICE:部活の成果を確認してもらえますか？=Can you check the progress of my club activities?
-CHOICE:先生と話がしたくて……ダメですか？=I just wanted to talk to the teacher. Is that okay?
-
-麗奈=Reina
-
-//CHOICE:また部活の成果を見てくれますか？=
-//CHOICE:先生ともっと話がしたくて=

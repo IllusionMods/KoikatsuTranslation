@@ -1,1 +1,4 @@
-﻿「よっ！　ちょっと肩こってないか？　どれ……そうでもないか！　はは！」=Yo--! Got stiff shoulders? Lemme have a look... Guess not! Haha!
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「よっ！　ちょっと肩こってないか？　どれ……そうでもないか！　はは！」=Yo--! Got stiff shoulders? Lemme have a look... Guess not! Haha!

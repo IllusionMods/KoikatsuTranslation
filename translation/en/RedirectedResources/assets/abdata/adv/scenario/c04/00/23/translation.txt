@@ -1,3 +1,6 @@
-﻿「あっ、ねえ、ちょっと……」=Ah--, hey, listen...
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「あっ、ねえ、ちょっと……」=Ah--, hey, listen...
 「これ、ブラウニー……家庭科の授業で作ったの、良ければ、食べてくれる？」=here's, some brownies... I made them during home economics. Would you care to try them?
 「不味かったら捨てちゃっていいから……そ、それじゃあ、また」=You can throw them away if they don't taste good... w-well then, see you.

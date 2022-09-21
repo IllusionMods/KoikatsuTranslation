@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「あなたの力になれるのでしたら、是非入部させて頂きたいと思います」=If I can be at all helpful to you, then I would definitely like to join the club.
 「良かった！　助かるよ。……あ、でもまだ具体的に何をやるか決めてないんだ」=Great! Thanks, you really will be a big help.Ah, but I still haven't decided just what exactly we'll be doing.
 「では私の方でいくつかプランをまとめて、提出させて頂きますね」=Well then, I'll make a few plans and present them to you.

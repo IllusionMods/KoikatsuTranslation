@@ -1,4 +1,7 @@
-﻿「この国のコト、スコシ分かてキマシタ。ケド、アナタのコト、トテモよく分かりマシタ」=I feel like I understand a bit what Japan is about now. But, I understand you a whole lot more.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「この国のコト、スコシ分かてキマシタ。ケド、アナタのコト、トテモよく分かりマシタ」=I feel like I understand a bit what Japan is about now. But, I understand you a whole lot more.
 「え？」=Eh?
 「ワタシ、アナタのコト、好きデス♡　オトコノコ、トシテ、愛、感じマス♡」=I love you♡ I feel love for you, as a woman♡
 「えええっ！？　な、なんで！？」=EEEEEEH!? W-Why!?

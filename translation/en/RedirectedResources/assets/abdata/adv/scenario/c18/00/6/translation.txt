@@ -1,3 +1,6 @@
-﻿「構いませんけど、どちらまで？」=I don't mind but, how far?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「構いませんけど、どちらまで？」=I don't mind but, how far?
 「まだナイショかな」=Still a secret, I'd say.
 「……何が起きてもいいように、心の準備をしておきますね」=...I'll prepare my heart, so that I'm ready for anything.

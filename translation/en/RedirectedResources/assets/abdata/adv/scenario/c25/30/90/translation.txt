@@ -1,4 +1,7 @@
-﻿「この前暇だった時に、キミの愛称を考えてみたんだ～」=I was thinking up a nickname for you, when I had some free time the other day~
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「この前暇だった時に、キミの愛称を考えてみたんだ～」=I was thinking up a nickname for you, when I had some free time the other day~
 「へえ、どんな感じ？」=Hoh, what sort of nickname?
 「興味ある～？　それじゃあ、呼んでみるね～」=Interested~? Well then, I'll use it, okay?~
 「[Pあだ名]」=[Pあだ名].

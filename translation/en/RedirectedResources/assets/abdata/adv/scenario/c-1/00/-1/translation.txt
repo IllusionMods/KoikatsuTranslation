@@ -1,3 +1,4 @@
-﻿「きみはなかなか怪我しないわね。やっぱり身体が頑丈なのかしら？」=You don't get hurt very often. I wonder if it's because your body is sturdy?
-
-リナ=Lina
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「きみはなかなか怪我しないわね。やっぱり身体が頑丈なのかしら？」=You don't get hurt very often. I wonder if it's because your body is sturdy?

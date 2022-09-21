@@ -1,3 +1,6 @@
-﻿「……どうしてかしらね、ただ並んで歩くだけなのに、特別な風に感じられるのは」=...I wonder why it is, even though we're just walking side by side, I feel this special breeze hitting me.
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「……どうしてかしらね、ただ並んで歩くだけなのに、特別な風に感じられるのは」=...I wonder why it is, even though we're just walking side by side, I feel this special breeze hitting me.
 「どうしてだろうね？」=Why indeed?
 「ふふっ……あなたって本当に面白い人ね」=Fufu--... you're such an interesting guy.

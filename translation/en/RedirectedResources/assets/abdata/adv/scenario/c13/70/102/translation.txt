@@ -1,0 +1,27 @@
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「あれっ、なんかいい匂いがする～！」=Huh--, something smells really nice~!
+「そこのお店からじゃない？」=Probably from that store over there, no?
+「あ、ほんとだ！　ねえねえ、せっかくだから、ここでお昼にしない？」=Ah, you're right! Hey, hey, since we're here anyway, wanna grab lunch here?
+「お腹も空いてきてたし、そうしよっか」=I'm getting pretty hungry too, so might as well.
+「えーっと、オススメのメニューは……激辛チリドッグだってさ」=Erhm, the chef's recommendation is... the fiery hot chilly dog.
+「激辛かぁ。アタシはそれにしよっと」=Fiery hot, huh? Guess I'll go with that.
+「了解。すみませーん、激辛チリドッグとホットドッグを１つずつお願いします」=Got it. Excuse me, we'd like one each of the fiery hot chilly dog and a regular hot dog, please.
+「なんでオススメメニューにしなかったの？」=Why didn't you go for the recommendation?
+「からいのを食べたいって気分じゃなくて……お、もう出来たみたいだよ」=I wasn't really feeling like eating spicy stuff... Oh, it's already ready.
+「じゃあ、いただきまーす！　もぐもぐ……んんー、からーい♪」=Well then, I'm digging in! *chew chew*... Nnn, spicy~♪
+「ほんとに美味しそうに食べるね～」=You're sure eating it like it's delicious.
+「そりゃ、美味しいものは美味しく食べないと！　ほら、[P名]くんに一口あげる♪」=Well, it's delicious, so of course! Come on, I'll let you have a bite, [P名]-kun♪
+「うーん……ま、せっかくだし一口もらうよ。もぐもぐ……って、からっ！？　ひ、ひたがっ、おえのひたがっ……！」=Mmmm... well, might as well. *chew chew*... damn, spicy--!! M-My thongue--, my thongue is--...!
+「あははは、そのリアクションは大げさすぎだって」=Ahahaha, you're exaggerating way too much~.
+（大げさじゃないって！　あぁ、叫びたいけど、うまく喋れない……）=(It's not an exaggeration! Aah, I wanna scream but, I can't...)
+「げ、激辛……アタシは普通のホットドッグにしようかな」=F-Fiery hot... I'll go with a normal one, I guess.
+「了解。すみませーん、ホットドッグを２つお願いします」=Got it. Excuse me, two normal hot dogs please.
+「いやぁ、激辛ってついてると尻込みしちゃって……お、もう出来たみたいだよ」=Man, just seeing that "Fiery hot" one on there kinda... oh, it's already ready it seems.
+「やっぱり普通が一番だよね～。それじゃ、いただきまーす！　もぐもぐ……ん～、美味しい～♪」=There's nothing better than the normal stuff, is there~? Well then, I'm digging in! *Chew chew*... Nn~, so tasty~♪
+「俺も食べよっと。いただきまーす……もぐもぐ……んんっ！　か、からっ！？」=Guess I'll go for mine too. I'm digging in... *chew chew*...Nnnn--! S-So spicy--?!
+「ちょ！　[P名]くん、大丈夫！？」=Hey! [P名]-kun, are you alright!?
+（こ、これ激辛チリドッグの方だっ！　注文を聞き間違えられたのか……？）=(T-This is the fiery hot chilly dog--! Did they get our order wrong...?)
+「ねぇ、ねぇってば？　しっかりして、死なないでー！」=Hey, hey, are you there? Get a grip, don't die on me!
+（ちょ、喋れないだけで大丈夫だから、大事にしないで！　周りに人が集まってきちゃうからっ）=(Hey, I'm alright, I just can't talk, so don't make a scene! Everyone's gonna start gathering around us--)

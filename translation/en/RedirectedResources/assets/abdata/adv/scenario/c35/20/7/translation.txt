@@ -1,4 +1,7 @@
-﻿「え……それって……告白ってこと……なん？　え、えっと……冗談とか……罰ゲームやなくて？」=Eh... is that... a confession...? E-Erhm... this isn't a joke... or a dare or anything, right?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「え……それって……告白ってこと……なん？　え、えっと……冗談とか……罰ゲームやなくて？」=Eh... is that... a confession...? E-Erhm... this isn't a joke... or a dare or anything, right?
 「そんなわけない。本気で言ってるんだ。俺、[H名]のことが好きだ」=Not at all. I'm being serious. I love you, [H名].
 「ふぇぇっ……あ、あのっ……あっ、わ、私っ……男の子にそういうこと言われたん初めてでっ……やけんっ……えっとっ、ご、ごめんっ！」=Fueeeh--... u-uhm--... ah--, I-I--... this is my first time being confessed to by a boy--... so--... erhm--, s-sorry--!
 「あっ……そ、そっか。急に変なこと言って……こっちこそごめんね。それじゃまた……」=Ah--... I-I see. I'm the one who should be apologizing... for springing it on you like this. Well then, bye...

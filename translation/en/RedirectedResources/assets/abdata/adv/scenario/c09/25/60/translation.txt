@@ -1,1 +1,4 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「いやあ、今日は楽しかったぁ。また誘ってちょうだいね。それじゃ！」=“Man, today was fun~. Take me out again, okay? See ya!”

@@ -1,0 +1,19 @@
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「緊張するな……模擬って言ってもやっぱり結婚式だし……」=I'm getting nervous... Even if it's a mock one, a wedding ceremony is a wedding ceremony...
+（[H名]はどうだろう。いつもどおり……かな）=(I wonder how [H名]'s faring? The same as usual... probably?)
+（っと。もう出番なんだ）=(Oh. Already showtime, huh?)
+（おぉ、中を見るとやっぱ圧倒されちゃうな）=(Woah, even just a glance at the hall is overwhelming enough)
+（……ちゃんと新郎を演じられるように頑張ろう）=(... Gotta properly do my bit as the groom)
+（ふぅ……緊張したけど、何とかこなせたかな）=(Fuuu... I was super nervous but, I think I managed it fine.)
+モブ=Mob
+「これより新婦が入場致します。後方の扉口をご覧ください」=And now, the bride will make her entrance. Please pay attention to the main door.
+（えっと、[H名]は……）=(Erhm, [H名]'s...)
+視線を向けて、そのまま目を奪われてしまった。=The moment my eyes landed on her, I couldn't see anything else.
+ウェディングドレスに身を包んだ彼女が、あまりにも綺麗だったから。=She, wrapped in that wedding dress, was way too beautiful, afterall.
+緊張気味な俺とは対照的に、[H名]は全く動じておらず、いつもの調子で佇んでいる。=Compared to me, sweating bullets as I was, she was standing there, in her usual form, not perturbed in the slightest.
+そんな所も、俺の目には美しく映ってしまう。=Even that side of hers, was beautiful in my eyes.
+「[H名]……」=[H名]...
+「すごく綺麗だよ。ドレスも似合ってるし」=You look really lovely. The dress suits you too.
+「……ありがとうございます」=...Thank you very much.

@@ -1,4 +1,7 @@
-﻿「わぁ……綺麗……私、観覧車に乗るのなんて久しぶりだわ」=Waah... it's beautiful... it's been a while, since I've ridden on one of these.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「わぁ……綺麗……私、観覧車に乗るのなんて久しぶりだわ」=Waah... it's beautiful... it's been a while, since I've ridden on one of these.
 「そうなんだ」=I see.
 「子供の時に両親につれて来てもらって以来ね」=The last time was when my parents brought me on one, as a child.
 「そんなに昔のことじゃあ、感動もひとしおだね」=If it's been that long, then it should feel even more amazing, huh?

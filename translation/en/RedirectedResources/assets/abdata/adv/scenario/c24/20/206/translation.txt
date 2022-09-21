@@ -1,4 +1,7 @@
-﻿「いい眺めだね」=The view's great, isn't it?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「いい眺めだね」=The view's great, isn't it?
 「はい♡　あなたと一緒にこんな景色が見られるなんて、ここは世界一幸せな特等席です♡」=Yes♡ To think I can look at such a sight with you next to me, these are the best seats in the world♡
 （[H名]は絶えず俺のことを想ってくれてるんだなぁ。何か、恩返しはできないだろうか……そうだ）=(She's always thinking about me, is there nothing I can do to return the favour... Oh, there is one thing.)
 「[H名]、目を閉じて」=[H名], close your eyes.

@@ -1,1 +1,4 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「良かった……私の初めてが、あなたで」=“I'm glad... that you were, my first.”

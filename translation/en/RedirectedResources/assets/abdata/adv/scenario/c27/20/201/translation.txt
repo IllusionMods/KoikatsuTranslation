@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「やっぱり、デートといったら遊園地でしょ！」=“For a date, gotta be the amusement park!”
 「定番中の定番よね」=“It's the most standard amongst them all, isn't it?”
 「まぁ、ド定番過ぎて混んでるのはご愛嬌ということで」=“Well, it's so standard that it's really crowded, but let's just treat it as part of the charm.”

@@ -1,0 +1,17 @@
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「ん？　もうすぐ時間か～。なんだかんだで盛り上がったね～」=Nn? Time's almost up, huh~. We ended up getting really into it, didn't we~
+CHOICE:『このまま延長して歌おうよ！』=『Let's extend it and sing a lot more!』
+CHOICE:『帰る仕度をしようか』=『Let's get ready to go home.』
+「せっかくだし延長しない？　俺、また[H名]と歌ってたいな」=Since we don't come here often, wanna extend it? I wanna sing with you a lot more, [H名].
+「別にいいっすよ。私も、キミともうちょっと一緒にいたかったし～」=I don't really mind. I wanted to be with you for a bit longer myself~
+「ふふっ、ありがとう。じゃあ、延長するね」=Fufu--, thanks. Well then, I'll put in the call.
+「だね。それじゃあ、帰る仕度をしよっか」=Yeah. Well then, let's get our stuff in order to head out.
+「うい～。カラオケもいいものっすね～」=Uui~. Karaoke's really fun too, isn't it~
+「満足したならよかったよ」=If you've had your fill, then I'm glad.
+「だね。最後に一曲歌ったら帰る仕度をしよっか」=Yeah. Let's sing the last song then get ready to leave.
+「せっかくだし[H名]が入れていいよ、はい」=You can take the last spot, [H名], here.
+「入れていいと言われてもねぇ……考えるのも面倒だし、この曲でいっか～」=Even if you say that~... thinking of a song is a pain, so I guess this one will do~
+（履歴から適当にいれたな……）=(Sure picked one out of the history fast...)
+『もしも今背中に羽が生えて大空自由に飛び回れたら～♪』=『If only I could, sprout wings from my back, and fly freely, in this wide open sky~♪』

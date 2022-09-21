@@ -1,1 +1,4 @@
-﻿「なっ！？　て、てめっ、一体いつから……！？」=Wha--!? Y-You, since when have you...!?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「なっ！？　て、てめっ、一体いつから……！？」=Wha--!? Y-You, since when have you...!?

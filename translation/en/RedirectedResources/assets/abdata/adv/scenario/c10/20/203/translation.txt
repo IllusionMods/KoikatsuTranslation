@@ -1,4 +1,9 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「はぁ～、思わず力を使いすぎてしまった……遊園地、恐るべし……」=“Haah~, I used too much power without realising... truly frightning places, amusement parks...”
+CHOICE:『最後に観覧車に乗ろう』=Let's ride the ferris wheel to close things off.
+CHOICE:『そろそろ帰ろうか』=Let's go home, shall we?
 「ねぇ、最後に観覧車に乗らない？」=“Hey, wanna ride the ferris wheel to close things off?”
 「観覧車なら座って休めるし、二人きりになれるからゆっくりできると思うよ」=“It's not really a thriller sort of ride, so we'll be able to sit down and relax, and since it'll be a private cab we'll be able to take it easy together.”
 「なるほどな。では、フィナーレを飾りいくとしよう！」=“Indeed, makes sense. Well then, let's march straight onto the finale!”
@@ -6,6 +11,3 @@
 「むぅ、我をここまで消耗させてなお、すべてを攻略できぬとはな……」=“Muh, I have used up all my energy stores, yet we have not finished conquering this place, this is...”
 「まぁ、こういう場所は何度も来て楽しむものだから。また一緒に来よう」=“Well, a place like this stays fun no matter how many times you come, so let's just come again.”
 「うむ！　次はもっと巡ってみせる！」=“Umu! We shall make a complete round next time!”
-
-CHOICE:『最後に観覧車に乗ろう』=Let's ride the ferris wheel to close things off.
-CHOICE:『そろそろ帰ろうか』=Let's go home, shall we?

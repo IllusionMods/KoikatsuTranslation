@@ -1,3 +1,6 @@
-﻿「もちろんいいわよ、デート代はあなたのおごりよね？」=Of course, it's a yes. You're paying, right?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「もちろんいいわよ、デート代はあなたのおごりよね？」=Of course, it's a yes. You're paying, right?
 「えっと、それはちょっと厳しいかなー……」=Erhm, for the whole date? That'd be...
 「ふふっ、冗談よ。それじゃあエスコート、お願いね」=Fufu--, I'm joking. Well then, please do take care of me.

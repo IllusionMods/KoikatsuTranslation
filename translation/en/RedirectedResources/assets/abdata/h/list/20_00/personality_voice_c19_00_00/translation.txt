@@ -1,4 +1,7 @@
-﻿あなたになら……いいよ=I don't mind... if it's you.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+あなたになら……いいよ=I don't mind... if it's you.
 やっぱり……まだ恥ずかしいね=This really... is still pretty embarrassing, isn't it?
 大好き……たくさんしようね=I love you... let's do it lots, okay?
 たくさん気持ちよくしてね=Make me feel really good, okay?

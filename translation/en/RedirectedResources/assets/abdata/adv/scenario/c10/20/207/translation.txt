@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「んーっ！　遊園地、満喫したぞ！」=“Nnn--! I am full, I truly am!”
 「楽しんでくれたならよかったよ。また一緒に来ようね」=“I'm glad you enjoyed yourself. Let's come again, okay?”
 「うむ！　次に来るときが今から待ち遠しいぞ！」=“Umu! I am already looking forward to our next trip here!”

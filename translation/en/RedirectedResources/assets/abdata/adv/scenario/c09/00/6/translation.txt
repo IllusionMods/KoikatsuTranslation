@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「え！？　べ、別にいいけど。どこへ行くの？」=“Eh!? I-I don't really mind though. Where?”
 「行ってみてからのお楽しみだよ」=“That's for me to know, and for you to find out.”
 「もう、じれったいわねえ！」=“Jeez, what a tease~!”

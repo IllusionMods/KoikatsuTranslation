@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「遊園地到着！　[H名]さん、どこから回ろう……あっ、見て、あそこに貸衣装屋があるよ！　ドレスで一時間だけプリンセスになれるんだって！」=We're here! [H名]-san, what should we start with... Ah--, Look, there's a costume lending store there! "Make you into a princess for an hour", it says!
 「あなたがなるの？」=Who's going to be the princess, You?
 「ち、違うよ、今の会話の流れは１００％[H名]さんだよ！」=N-No, this conversation is 100% about you, [H名]-san!

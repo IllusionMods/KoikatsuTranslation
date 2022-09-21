@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「写真より美味しそうな料理、っていうのも珍しいね」=“Pretty rare to find food that looks better than the picture, huh?”
 「うん……そうだね」=“Yeah... it is.”
 「あはは。心ここにあらず、っていう感じだね」=“Ahaha. I see someone's a bit distracted.”

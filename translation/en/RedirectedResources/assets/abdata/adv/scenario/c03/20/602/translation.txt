@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「ホテル……やっぱり豪華なのです……すごく綺麗で、なんだか日常とは違う感じがするですよ」=“A hotel... it really is so opulent... it looks so pretty, it feels entirely separate from our regular life.”
 「こういうところでするエッチは嫌？」=“Do you not like it when we have sex here?”
 「そんなことないですっ！　これはこれで……その……」=“Not at all--! This is, in its own way... uhm...”

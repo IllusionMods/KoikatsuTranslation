@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「ま、まさか汝からで、デートに誘ってくれるとはな！」=“T-To think thou wouldst go out of thine way to ask me out on a date!”
 「どこか行きたいところはある？」=“Got any place you wanna go to?”
 「わ、我はどこでも付いていくぞ！」=“I-I do not mind just following thy lead!”

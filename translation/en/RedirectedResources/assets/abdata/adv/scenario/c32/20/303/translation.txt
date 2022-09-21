@@ -1,5 +1,10 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「っと、もうこんな時間だ。盛り上がりすぎて、気が付かなかったよ」=--Oh, it's already almost time, huh? I got so hyped up there, I didn't even notice.
 「そうですね。これからどうしましょう？」=Indeed. What shall we do next?
+CHOICE:『延長していい？』=『Can we extend it?』
+CHOICE:『そろそろ出ようか』=『We should head out』
 「延長していいかな？　俺、まだ歌い足りなくてさ」=Do you mind if we extend it? I've still not had my fill yet.
 「私なら構いませんよ。まだ『今日歌うべき曲リスト』、全部消化してしませんし」=I don't mind at all. I've not finished going through my [Songs I ought to sing today] list either.
 「そ、そんなもの、作ってたんだね……じゃあ、今から延長するって連絡入れるよ」=Y-You even went so far as to make one of those, huh... Then, I'll put in the call for an extension.
@@ -13,6 +18,3 @@
 「いや、そんな身構えなくても……」=No, you don't really need to go that far...
 「もしも今 背中に羽が生えて 大空自由に飛び回れたら～」=『If only I could sprout wings from my back and fly freely in the wide open sky right now~』
 （……まあ、カワイイからいっか）=(... Well, it's cute so who cares)
-
-CHOICE:『延長していい？』=『Can we extend it?』
-CHOICE:『そろそろ出ようか』=『We should head out』

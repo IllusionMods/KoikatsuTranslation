@@ -1,4 +1,7 @@
-﻿「前から思ってたんだけど、静かな場所が好きだよね？」=I've been thinking this for a while but, you really like quiet places, don't you?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「前から思ってたんだけど、静かな場所が好きだよね？」=I've been thinking this for a while but, you really like quiet places, don't you?
 「白状しちゃうと、人が多かったり、うるさい場所はあまり好きじゃないの……息苦しいというか、ね」=To tell you the truth, I don't like places with lots of people or noises, no... I find it hard to breathe.
 「でも学園ではみんなといるし、結構喋ってるよね？　……大丈夫なの？」=School is full of people though, but I see you talking to everyone. ...You handle it okay?
 「ふふっ、それとこれとは別よ。みんなと話すのは好きだし……息苦しいとも思わないからね」=Fufu--, this and that are different. I love talking to everyone... it doesn't feel suffocating at all.

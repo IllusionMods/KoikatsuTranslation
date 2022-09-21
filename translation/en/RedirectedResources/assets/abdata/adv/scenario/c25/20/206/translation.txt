@@ -1,4 +1,7 @@
-﻿「やっぱこの夜景はいつ見ても綺麗だね～。乗って正解だった～」=No matter when we come to look at this, it's always beautiful, isn't it~. It was the right choice to ride this~
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「やっぱこの夜景はいつ見ても綺麗だね～。乗って正解だった～」=No matter when we come to look at this, it's always beautiful, isn't it~. It was the right choice to ride this~
 「でも、こっちの窓から見える夜景のほうが綺麗だよ？」=But, the view from this window is way more beautiful, you know?
 「え～、本当？　ん～、どれどれ～？」=Eh~, for real? Nn~, lemme see~?
 「ちょっと身体当たっちゃうけど、ごめんね～」=It's gonna be a bit tight, with both of us squeezing in like this, sorry about that~

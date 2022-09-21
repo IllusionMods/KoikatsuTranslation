@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「はいっ、暑いからアイス買ってきたよ！　ソーダバーとオレンジバー、どっちがいい？」="Here, it's hot so I bought some ice! Do you prefer soda or orange flavor?"
 「うーん、オレンジバーね。フフッ、貴方にしては気が利くじゃない」="Thanks, I'll have an orange one. Fufu, how thoughtful of you."
 「遊園地って知らぬ間に結構歩いてるからね、適度に休憩を挟んだ方がいいかなって」="We've walked around quite a lot, so it's important to take a break from time to time."

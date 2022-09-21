@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「あなたはこういうところに来たら何を歌うの？」=What do you sing when you usually come to a place like this?
 「えっと……大抵は流行りの歌とか、懐メロとか……あとはアニソンかな。[H名]さんは？」=Erhm... Generally, popular songs, or the old classics... other than that, anime songs I suppose? What about you, [H名]-san?
 「…………そうねぇ」=...Indeed. Let's see.

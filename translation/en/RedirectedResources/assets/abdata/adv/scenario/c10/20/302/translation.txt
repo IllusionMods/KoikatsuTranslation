@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「いえーい！」=“Yay~!”
 「いいぞー、[H名]ー！　最高ー！　声きれいー！」=“You're great, [H]! The best! Love your voice!”
 「そ、そう？　えへへ……」=“R-Really? Eheheh...”

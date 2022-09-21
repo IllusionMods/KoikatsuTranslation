@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 //「あー、お腹一杯だね」=
 //「そうじゃのう。たくさん食べたのじゃ」=
 //「随分長居しちゃったし、そろそろ出ようか？」=

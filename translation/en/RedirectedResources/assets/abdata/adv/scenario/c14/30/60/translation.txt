@@ -1,1 +1,4 @@
-﻿「ま、今日もいい暇つぶしになったわ。それじゃあな」=Well, that was pretty fun as far as killing time goes. See ya.
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「ま、今日もいい暇つぶしになったわ。それじゃあな」=Well, that was pretty fun as far as killing time goes. See ya.

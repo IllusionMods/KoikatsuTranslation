@@ -1,4 +1,7 @@
-﻿「Ｗｈａｔ！？　ニッポンのｔｏｉｌｅｔは、オトコとオンナ、ｍｉｘデスカ！？」=What?! Are Japanese toilets unisex!?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「Ｗｈａｔ！？　ニッポンのｔｏｉｌｅｔは、オトコとオンナ、ｍｉｘデスカ！？」=What?! Are Japanese toilets unisex!?
 「Ｏｈ！　Ｎｉｎｊａさん、ココはお忍び禁止デスヨ！？」=Oh! Ninja-san, you're not allowed to sneak around in this place, you know!?
 「ムムム～～ワタシ、ＰＵＮＰＵＮデス！　サヨナラシマース」=Mumumumuu~~ I'm mad! Goodbye for now.
 「Ｅｗｗ……ナニカ、ご用デスカ？」=Ewww... Do you need something?

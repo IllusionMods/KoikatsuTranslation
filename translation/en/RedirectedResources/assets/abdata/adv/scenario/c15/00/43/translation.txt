@@ -1,1 +1,4 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「うぎゃ！？　ってキミかー。……へへー、もっとよく見たくないか？」=“Ugyah!? Oh, it's you. ...Hehe, don't you wanna get a closer look?”

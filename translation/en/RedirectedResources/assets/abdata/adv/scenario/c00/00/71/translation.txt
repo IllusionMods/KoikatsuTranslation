@@ -1,4 +1,7 @@
-﻿「ようやくふたりきりになれたわね……何の勉強から始めましょうか？」=We're finally alone together... What shall we start with?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「ようやくふたりきりになれたわね……何の勉強から始めましょうか？」=We're finally alone together... What shall we start with?
 「数学……じゃなくて、保健体育……とか？」=Math... or not, how about... sex ed?
 「ふふっ、ノリがわかってきたじゃない♪　それじゃ、私が手取り足取り教えてあげるわね……」=Fufu--, looks like you're finally starting to get the hang of things♪ Well then, I'll give you some hands-on training...
 （そう言って数学の教科書を開くのかぁ……ガックリ）=(You're really gonna open the math textbook after saying all that?... Damn.)

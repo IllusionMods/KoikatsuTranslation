@@ -1,1 +1,4 @@
-﻿「え～、これ～？　まあ、せっかくだからもらっとくけど～」=Eh~, this~? Well, I'll accept it though~
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「え～、これ～？　まあ、せっかくだからもらっとくけど～」=Eh~, this~? Well, I'll accept it though~

@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 女 カットイン=Female: Cut-In
 女 格闘A=Female: Fighting A
 女 格闘B=Female: Fighting B

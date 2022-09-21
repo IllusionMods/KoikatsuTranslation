@@ -1,1 +1,4 @@
-﻿「まさかあなたからプレゼントをもらえるなんて……すごく嬉しいです♡」=To think I'd receive a present from you... I'm super happy♡
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「まさかあなたからプレゼントをもらえるなんて……すごく嬉しいです♡」=To think I'd receive a present from you... I'm super happy♡

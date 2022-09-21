@@ -1,4 +1,7 @@
-﻿「ひえ～、ここからだと、遊園地を丸ごと見下ろせるぜ？」=Hyeh~, we can look down at the entire amusement park from here.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「ひえ～、ここからだと、遊園地を丸ごと見下ろせるぜ？」=Hyeh~, we can look down at the entire amusement park from here.
 「私たちが乗ったのは……あれと、あれと……あれもだな！」=The ones we rode were... that, that and... that too, didn't we!
 「あっ、あの絶叫アトラクション、分かるか！？　お前、ひでぇ顔してビビってたよな！」=Ah--, that scary looking attraction over there, you see it!? You were quaking in your boots there!
 「そ、それを言うなら[H名]だって……」=I-If you're gonna bring that up, then you also...

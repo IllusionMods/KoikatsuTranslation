@@ -1,1 +1,4 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「ふぇぇぇっ！？　……な、汝よ！　いいいい、いつから見ておったのだっ！？」=“Fueeeeh--?! ...H-How long! H-H-H-H-How long have thou been watching for!?”

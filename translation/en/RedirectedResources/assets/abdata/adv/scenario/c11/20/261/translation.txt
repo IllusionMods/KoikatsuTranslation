@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「ふふ……私ったら、とんでもないことしちゃったわね」=“Fufu... I did something really bold, didn't I?”
 「うん……こんなに大胆なことされるだなんて、思ってもみなかったよ」=“Yeah... I never even thought that you'd ever do something like that.”
 「おねーさんもビックリよ。でも、ちょっとだけ……楽しかったわ」=“Your onee-san here's very surprised too. But, that was fun... just a bit.”

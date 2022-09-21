@@ -1,4 +1,6 @@
-
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
 「……あなた、それ本当の気持ちなの？」=“You...Are those your true feelings?”
 「うん、俺はきみのことが本当に好きなんだ」=“Yes, I really do like you.”
 「そ、そう……私もあなたのことは、その……好きよ」=“I-I see...I also...well...like you.”

@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「うーん、さすがに遊園地は人が多いね」=“Mmm, there sure are a lot of people here.”
 「たしかに……人がうじゃうじゃ……でも、全然気にならないよ？」=“For sure... it's swarming with people... but, it doesn't bother me at all, you know?”
 「ほんと？　混雑とか苦手なんじゃない？」=“Really? I thought you were bad with crowds though?”

@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「ああ、今こうしているうちにも、遊園地が遠ざかっていってるのね……」=“Aaah, even now, the amusement park is getting further and further away from us, isn't it...”
 「ははは……[H名]の寂しい感情がすごく伝わってくるよ。まるで演劇を見てるみたいだ」=“Hahaha... I can almost feel your sadness from here. It's like I'm watching a tragic play or something.”
 「ああ、遊園地！　あなたはどうして遊園地なの？」=“Aah, the amusement park! Why're you an amusement park?”

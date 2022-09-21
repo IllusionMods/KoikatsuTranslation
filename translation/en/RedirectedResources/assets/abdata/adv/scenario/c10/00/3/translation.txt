@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「い、一緒に帰る？　我らが……」=“W-Walk home together? Us?...”
 「だめかな？」=“You don't wanna?”
 「いや、こ、こちらこそお願いします……じゃなかった！　同行を許可する！」=“No, I-I want to, I really want to... I mean! I'll allow it!”

@@ -1,2 +1,5 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「ねぇ……家庭科でお菓子焼いたけど、食べる……？」=“Hey... I baked some sweets during home-ec, will you try it...?”
 「知り合い、あなたくらいしかいないし……あげる」=“I don't know, anybody apart from you anyway so... you can have them.”

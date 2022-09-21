@@ -1,7 +1,12 @@
-﻿「ふふっ、今のデュエット、カンペキだったね！　君、格好良かったよー！」=Fufu--, that duet was perfect, wasn't it! You were really cool!
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「ふふっ、今のデュエット、カンペキだったね！　君、格好良かったよー！」=Fufu--, that duet was perfect, wasn't it! You were really cool!
 「[H名]もすごく可愛かった。告白する台詞のところ、すごくドキドキしたよ！」=You were adorable as all hell too. The confession part made my heart throb like nothing else!
 「あははっ、それは目の前に好きな人がいるんだもん。しっかり心を込めて言葉にしたんだよー」=Ahaha--, of course, I mean, I love you. I put my heart into those words, you know~
 （こんな風に無邪気にはしゃぐ姿を見てると……なんだか我慢出来なくなりそうだ……）=(When I see her laughing so innocently like this... I feel my self control vaporising...)
+CHOICE:『思い切ってキスをする』=Just kiss her.
+CHOICE:『我慢して最後まではしゃぐ』=Endure it and have fun till the end.
 「あ、あのさ[H名]……」=H-Hey, listen, [H名]...
 「ん？　なにかな？」=Hm? What is it?~
 「んっ……」=Nn--...
@@ -19,5 +24,3 @@
 「ハードロックのバラードを一曲！　上手には歌えないと思うけど！」=A hard rock ballad! Don't think I'll pull it off super well though!
 「そんなこと気にしないよ。私のために歌ってくれるって思うだけで嬉しくなるもんっ！　君からの歌のプレゼント、ください」=Don't mind that stuff. Just knowing that you're singing for me is enough to make me happy--! Please gift me a song, from you.
 「うん、頑張るよ！　よーし、今日は時間ギリギリまで、歌い合っちゃおう！」=Yeah, I'll do my best! Alright, let's keep singing till the very end today!
-CHOICE:『思い切ってキスをする』=Just kiss her.
-CHOICE:『我慢して最後まではしゃぐ』=Endure it and have fun till the end.

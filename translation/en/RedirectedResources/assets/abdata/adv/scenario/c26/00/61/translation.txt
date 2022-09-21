@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「……私、すごく幸せ。これから、[P]と……デート、できるから」=“...I am, really happy. Because, we're out on... a date, together.”
 「ははは、まだこれからじゃないか。ふたりでもっと幸せになっていこうよ」=“Hahaha, we're just starting, you know? Let's become even more happy together.”
 「[P]……映画、面白かったね……」=“[P]... that movie, was pretty fun, wasn't it...”
@@ -6,10 +9,9 @@
 「公園なんかでいいの？　もっと[H]の行きたいところがあれば、そこで……」=“You sure you're fine with that? We could go somewhere else, if you want to...”
 「私は……あなたの隣にいられるなら、それだけでも……幸せ……」=“For me... just being next to you, makes me... happy enough...”
 「……ありがとう、[P]。すごく楽しかった」=“...Thank you, [P]. That was really fun.”
+CHOICE:「もう少し、一緒にいない？」=Won't you stay with me longer?
+CHOICE:「俺もすごく楽しかった、また遊ぼうね」=I had a blast too. Let's hang out again, okay?
 「もう少し、一緒にいない？」=“Won't you stay with me longer?”
 「うん、私もそう思った。じゃあ、もう少し……」=“Yeah, I thought the same. I'll take you, up on that then...”
 「俺もすごく楽しかった、また遊ぼうね」=“I had a blast too. Let's hang out again, okay?”
 「……うん、またね。今日は……ありがとう」=“...Yeah, let's. Thanks for... today.”
-
-CHOICE:「もう少し、一緒にいない？」=Won't you stay with me longer?
-CHOICE:「俺もすごく楽しかった、また遊ぼうね」=I had a blast too. Let's hang out again, okay?

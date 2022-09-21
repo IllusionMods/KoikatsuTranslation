@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 ………………=.........
 …………=......
 ……=...
@@ -6,6 +9,9 @@
 「でも、なんだか今日は、いつもより短かった気がするなー」=“But, I feel like today was a lot shorter than usual, for some reason.”
 「うん、楽しい時間は早く過ぎるっていうけど、本当なんだね」=“Yeah, they do say that time flies when you're having fun, guess it must be true.”
 「できれば、まだ君と一緒にいたいんだけどなー」=“If possible, I'd love to spend some more time with you.”
+CHOICE:『自宅に誘う』=Take to your place.
+CHOICE:『ラブホに誘う』=Take to love hotel.
+CHOICE:『さよならする』=Say goodbye.
 「それなら、これから俺の家にでも来ない？」=“In that case, wanna come over to my place?”
 「いいのかー？　それなら、行くぞー」=“You sure? I'd love to.”
 「えっ、本当に来てくれるね？」=“Eh--, you're really gonna come?”
@@ -25,6 +31,3 @@
 「えへへ……キミの匂いを嗅ぎ溜めするんだ♪　クンクン、クンクン」=“Ehehe... I'm storing up some of your scent♪ *sniff sniff*, *sniff sniff*”
 「よし、これでキミと離れてる間も寂しくないぞー」=“Alright, now I won't feel lonely even when you're not next to me.”
 「はは、それならよかった。それじゃあ、ばいばい」=“Haha, glad to hear that. Well then, byebye.”
-CHOICE:『自宅に誘う』=Take to your place.
-CHOICE:『ラブホに誘う』=Take to love hotel.
-CHOICE:『さよならする』=Say goodbye.

@@ -1,1 +1,4 @@
-﻿「おまっ！　何入ってきてんだよ！　出てけ！」=You--! What'cha waltzing in here like a king for?! Get out!
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「おまっ！　何入ってきてんだよ！　出てけ！」=You--! What'cha waltzing in here like a king for?! Get out!

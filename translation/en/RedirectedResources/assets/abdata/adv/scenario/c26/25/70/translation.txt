@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「……ねえ、この問題、覚えてる？」=“...Hey, do you remember this problem?”
 「ん？　あ～えっと、ここは……こうするんだよ」=“Nn? Aah~, erhm, you do... this, here.”
 「……そう、ありがとう……って、何で笑ってるの？」=“...I see, thanks... why're you laughing?”

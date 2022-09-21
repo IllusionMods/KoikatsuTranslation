@@ -1,4 +1,6 @@
-
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
 「ちょっとお願いがあるんだけど、一回でいいからお互いに愛称で呼び合ってみない？」="I just had an idea. How about we give each other nicknames?
 「……愛称？　……別にいいけど、どうして急に？」="...Nicknames? ...Okay, but why...?"
 「恋愛漫画を読んで、羨ましいと思ってさ」="I was reading some manga earlier and there was a couple who had cute pet-names for each other in it. I was kind of jealous..."

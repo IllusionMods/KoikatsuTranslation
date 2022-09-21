@@ -1,4 +1,7 @@
-﻿「それ、本気で言ってるの？　……理由を聞かせてもらってもいいかな」=Are you being serious? ...Could you atleast tell me why?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「それ、本気で言ってるの？　……理由を聞かせてもらってもいいかな」=Are you being serious? ...Could you atleast tell me why?
 「…………ごめん」=...Sorry.
 「……そう。君は優しいのね」=...I see. At the end of the day, you can't bear to break my heart.
 「今までありがとう」=Thanks for everything till now.

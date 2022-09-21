@@ -1,4 +1,7 @@
-﻿「いつ聴いても[H名]は歌うまいよね。歌の勉強もしてるの？」=You're always so good at singing, [H名]. Do you take singing lessons too?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「いつ聴いても[H名]は歌うまいよね。歌の勉強もしてるの？」=You're always so good at singing, [H名]. Do you take singing lessons too?
 「ウン♪　通ってる語学ｓｃｈｏｏｌで、ｖｏｃａｌ　ｌｅｓｓｏｎ　ｃｌａｓｓ取ってるヨ♪」=Yeah♪ At the language school I go to, I take vocal lessons as well♪
 「ボーカルレッスンクラスかぁ。なんだかアイドルみたいだね……あれ、アイドルって、海外では偶像って意味なんだっけ？」=Vocal lesson classes, huh? Sounds pretty idol-like... Ah, "idols" in the west refer more to statues of gods and stuff, right?
 「Ｙｅａｈ，ｔｈａｔ’ｓ　ｒｉｇｈｔ♪　アナタが言いたいの、ｐｏｐ　ｓｔａｒダネ♪　デモ、ソンナ本格的なのと違うカラ～」=Yeah, that's right♪ What you're trying to refer to are pop stars♪ But, it's nothing that serious~

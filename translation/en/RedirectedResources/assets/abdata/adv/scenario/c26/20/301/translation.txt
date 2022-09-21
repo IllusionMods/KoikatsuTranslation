@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「二人だけ使うには、この部屋は広く感じるね」=“This room feels pretty big, to use just by ourselves, doesn't it?”
 「そう……だね。少し、緊張する」=“Yeah... it does. I'm getting, a bit nervous.”
 「歌うのは好きじゃなったりする？」=“Do you not like singing?”

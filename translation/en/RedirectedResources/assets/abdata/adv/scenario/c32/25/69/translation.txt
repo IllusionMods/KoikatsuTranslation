@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「まずはあなたの学力を把握させて下さい」=For the time being, let me confirm your academic capabilities.
 「もしかして、小テストの結果とか見る感じ……？」=By that, do you mean you want to see my test results or something...?
 「ここで改めてテストを受けて頂いてもよろしいですが……」=Well, I suppose I wouldn't mind having you take a new test right here, on the spot...

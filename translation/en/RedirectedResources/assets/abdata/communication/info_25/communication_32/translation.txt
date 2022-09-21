@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「ここは女子用です。即刻出てください」=This place is for women only. Please leave immediately.
 「どうしました？　場所をお間違えでは」=What's the matter? Have you not entered the wrong place?
 「あなたに割く時間はありませんので」=I don't have time to spare on you.

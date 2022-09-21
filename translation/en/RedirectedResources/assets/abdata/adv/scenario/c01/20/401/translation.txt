@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「[H名]と喫茶店でゆったり話したかったんだよね」=“Man, I really wanted to have a nice, relaxing chat like this with you, you know?”
 「あなたにそう思ってもらえるなんて、私は幸せ者ですね」=“Knowing you feel that way, I feel like such a lucky girl.”
 「そう言ってもらえる俺もね……あ、そういえば、さっきの注文だけど、あれだけでよかったの？」=“And me, knowing that... Ah, reminds me, you sure you're fine with only getting just that much?”

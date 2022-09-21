@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 FK触手1=FK Tentacle 1
 FK触手2=FK Tentacle 2
 FKアナルビーズ1=FK Anal Beads 1

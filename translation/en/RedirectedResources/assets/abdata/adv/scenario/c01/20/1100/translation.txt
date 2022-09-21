@@ -1,3 +1,7 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+モブ=Mob
 「これより新婦が入場致します。後方の扉口をご覧ください」=“And now, the bride will make her entrance. Please pay attention to the main door.”
 （[H名]……）=([H名]...)
 扉口から入場した[H名]を見ていると、[H名]と付き合ってから過ぎた時間が、走馬灯のように流れてきた。=Turning to look at her making her entrance, the time we spent together as a couple, passed before my eyes like a kaleidoscope.
@@ -6,15 +10,16 @@
 （あぁ、色んな感情がどんどん込み上げてくる……なんかもう泣きそうだ）=(Aah, one emotion after another is hitting me... I feel like I'm already gonna start crying.)
 「それではこれより、式を執り行います」=“Then without further ado, let's start the ceremony.”
 「新たなご出発の証として、お二人には誓いの言葉を立てていただきます」=“As the proof of a fresh departure, you both have to make certain vows.”
-「[P名]さん、あなたは今、この女性を妻とし夫婦になろうとしています」=“Mr. [P名], Right now, you are about to become a married couple, with this woman as your wife.”
+牧師=Pastor
+「[P名]さん、あなたは今、この女性を妻とし夫婦になろうとしています」=“Mr. [P名], you are now about to take this woman to be your wife.”
 「汝、健やかなるときも、病めるときも、喜びのときも、悲しみのときも、富めるときも、貧しいときも」=“Do you promise, in times of sickness or in health, in times of happiness or sadness, whether you are rich or poor,”
 「これを愛し、これを敬い、これを慰め、これを助け、その命ある限り、真心を尽くすことを誓いますか？」=“to love her, to respect her, to comfort her, to support her, till the end of days, to the full extent of your abilities?”
-「はい、誓います」=“Yes, I do.”
-「[H名]さん、あなたは今、この男性を夫とし夫婦になろうとしています」=“Miss [H名], Right now, you are about to become a married couple, with this man as your husband.”
+「はい、誓います」=“Yes, I vow.”
+「[H名]さん、あなたは今、この男性を夫とし夫婦になろうとしています」=“Miss [H名], you are now about to take this man as your husband.”
 「では、二人の誓いの印として、指輪の交換を致します」=“Then, as the proof of your vows, you may now exchange the rings.”
 「初めに新郎から新婦へ」=“First from the groom to the bride.”
 「素敵です……」=“You look wonderful...”
-「[H名]もね。ようやくこの日を迎えられたよ」=“You too, [H]. We're finally here, this day finally came.”
+「[H名]もね。ようやくこの日を迎えられたよ」=“You too, [H名]. We're finally here, this day finally came.”
 「はい……私の短い人生の中でも、父を感服させた男性はあなただけです」=“Yes... Even within this short life of mine, you're the only man who's ever managed to impress my father.”
 「あはは、それは嬉しいな。[H名]と釣り合うためにガムシャラやったよ。そうしたら、今、[H名]の薬指に指輪をはめようとしてる」=“Ahaha, glad to hear that. I really went at it dogged hard, just to be a good match for you, you know? Thanks to all that effort, I'm getting to put this ring on your finger right now.”
 「新婦から新郎へ」=“Now from the bride to the groom.”
@@ -42,6 +47,3 @@
 「この先も大変なことが色々待ってると思うけど、それ以上に幸せなこと、嬉しいこと、たくさん待ってるからね」=“I'm sure that a lot more hardship's waiting for us in the future but, just know that there's going to much more happiness than all that, to balance it all out.”
 「はい……健やかなるときも、病めるときも、ぐすっ、喜びのときも、悲しみのときも、富めるときも、貧しいときも……あなたと共にいます」=“Yes... in sickness, and in health, *sob*, in times of happiness, and sadness, whether we're rich, or we're poor... I'll be with you, right here.”
 「うん。俺も誓うよ。ずっと[H名]と一緒だ」=“Yeah. I vow to you as well. I'll be with you forever.”
-
-モブ=Mob
-牧師=Pastor

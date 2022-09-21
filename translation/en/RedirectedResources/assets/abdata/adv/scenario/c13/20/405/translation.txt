@@ -1,4 +1,7 @@
-﻿「わぁ～、やった！　来たよ来たよ～！」=Wah~, yay! It's finally here~!
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「わぁ～、やった！　来たよ来たよ～！」=Wah~, yay! It's finally here~!
 「喫茶店のハンバーグって、意外とクオリティ高いよね」=The quality of the hamburg steak they serve here, it's surprisingly pretty high, isn't it?
 「マジおいしーよ！　何回食べても飽きないっていうか～」=It's super delish! No matter how many times I eat it, I don't get bored of it~
 「一口もらっていいかな。お願い！」=Could I have a bite too? Please!

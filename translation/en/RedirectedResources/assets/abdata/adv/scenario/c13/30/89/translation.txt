@@ -1,4 +1,7 @@
-﻿「俺たち、そろそろ次の段階に行くべきだと思うんだ」=I think it's about time we moved onto the next step in our relationship.
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「俺たち、そろそろ次の段階に行くべきだと思うんだ」=I think it's about time we moved onto the next step in our relationship.
 「どしたの急に。次の段階って結婚とか？」=What's the matter, all of a sudden? By "the next step", do ya mean marriage or something?
 「そ、それは一番最後だと思う……。えっとさ、お互いに愛称で呼び合わない？」=I-I think that comes at the very end... Erhm, say, wanna call each other by nicknames?
 「んー、そういえばアタシらそういうのなかったね。いいよ、いいよー」=Nnn, come to think of it, we didn't have any of those, did we? Alright, sure.

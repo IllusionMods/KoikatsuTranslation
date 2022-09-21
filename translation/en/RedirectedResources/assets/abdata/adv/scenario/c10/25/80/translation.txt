@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「んっ？　このおかずが欲しいのか？」=“Nn--? Thou wantst this side?”
 「えっ？　いいの！　ラッキー」」=Eh--? You sure? Damn, I'm lucky.
 「ふむ、アーンするのだ」=“Fumuh, open wide.”

@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 //「おぉ、色々な乗り物があるのう」=
 //「あっ、あそこにあるお化け屋敷に入ってみない？」=
 //「お化け屋敷？」=

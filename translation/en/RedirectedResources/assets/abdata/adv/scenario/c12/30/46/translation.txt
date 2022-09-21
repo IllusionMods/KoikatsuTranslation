@@ -1,4 +1,6 @@
-
-//「はぁっ……ふぅ……まだ、なんか体の奥がヘンな感じで……んぅ、おまえは気持ちよくなれたか？」=
-//「うん。すごく気持ち良かった」=
-//「ぇあ、ぁぁ……そっか。なら良かった。うぅ、なんかこういうの恥ずかしいな……」=
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「はぁっ……ふぅ……まだ、なんか体の奥がヘンな感じで……んぅ、おまえは気持ちよくなれたか？」=“Haah--... fuuuh... my body, still feels all weird inside... nnnn, did it feel good for you?”
+「うん。すごく気持ち良かった」=“Yeah. It felt amazing.”
+「ぇあ、ぁぁ……そっか。なら良かった。うぅ、なんかこういうの恥ずかしいな……」=“Eyah, aah... I see. Glad to hear that. Uuu, this sort of thing is really embarrassing...”

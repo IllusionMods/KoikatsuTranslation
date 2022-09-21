@@ -1,4 +1,6 @@
-
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
 「うわ、これすごく美味いよ！」=“Uwah, this is amazing!”
 「ふふっ……良かった♪」=“Fufu--... I'm glad♪”
 「私……あんたがご飯食べてる時の顔、好きよ。すっごく幸せそうなんだもん」=“I... love watching you eat food. You just look so happy.”

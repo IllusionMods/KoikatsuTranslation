@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 （料理が来るまで、何話そうかな。最近の話題はほとんど話しちゃったし……）=(What should we talk about, until our food comes? I feel like we've talked about just about everything by now...)
 「お冷、おいしいね」=“The water's pretty tasty, isn't it?”
 「そう、なの？　じゃあ飲んでみる」=“Is, it? I'll try drinking some.”

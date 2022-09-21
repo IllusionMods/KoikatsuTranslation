@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「ねぇ、トレーニングの前に潜水勝負をしましょうよ。貴方とやってみたかったの」="Hey, let's play a diving game before training. I wanted to try it with you."
 「それ……俺の頭、絶対押さえつけるつもりだよね？」="You're definitely going to hold my head underwater!"
 「大丈夫よ。下僕の息がどれくらい続くかは知ってるわ。主として、当然の知識ね」="It's okay, I know exactly how long my manservant can hold your breath. For your master it's a basic knowledge."

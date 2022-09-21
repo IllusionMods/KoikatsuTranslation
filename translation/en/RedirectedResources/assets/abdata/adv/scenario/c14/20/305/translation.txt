@@ -1,4 +1,7 @@
-﻿「はぁ……はぁ……よーし、今度はお前の番！　まだへばってねえよな？」=Haah... haah... alright, it's your turn next! You're not out of batts or anything, are you?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「はぁ……はぁ……よーし、今度はお前の番！　まだへばってねえよな？」=Haah... haah... alright, it's your turn next! You're not out of batts or anything, are you?
 「はは……ちょっときついけど、まだいけそうだよ……。次は、何を歌おうかな？」=Haha... I'm running on low power, but not completely out of juice yet... What should I go with next?
 「……そうだ！　一曲デュエットしてみない？」=...Right! Wanna try doing a duet?
 「デュエットかぁ……面白そうだな、やろうぜ！　せっかくなら肩組んで歌うか？　なーんてな」=A duet, huh... sounds fun, let's do it! Since we're doing a duet, wanna put arms around each other's shoulders too? Kidding~

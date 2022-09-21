@@ -1,4 +1,7 @@
-﻿「やっぱり遊園地は混んでるなぁ」=Man, amusement parks sure are always packed.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「やっぱり遊園地は混んでるなぁ」=Man, amusement parks sure are always packed.
 「デートの……定番、だからでしょうか」=Wonder if it's because... a standard date spot?
 「だね。これははぐれたら面倒なことに……」=Probably. If we get split up, it'll be real annoying...
 「そ、そうですね……探すのも大変ですし、迷子センターに行くのも……恥ずかしいですし……」=I-Indeed... it'd be really hard to find each other, and going to the lost child counter would be... too embarrassing...

@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「そのオムライス、すごく美味しそうだね」=“That omurice sure does look delicious.”
 「実際美味しいわよ」=“It tastes delicious too.”
 「人気のランチメニューなんだってね」=“Hear it's a popular lunch item here.”

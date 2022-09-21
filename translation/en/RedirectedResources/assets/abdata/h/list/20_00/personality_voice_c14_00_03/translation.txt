@@ -1,4 +1,7 @@
-﻿私達に任せとけよ！=Leave it to us!
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+私達に任せとけよ！=Leave it to us!
 私達がもっと気持ちよくしてやるよ=We'll make you feel even better.
 おまえがそう言うなら、何度でもしてやるぜ？=If that's how you feel, I'm game as many times as you want, you know?
 私の口が気に入ったから……だよな？=It's cuz you... like how my mouth feels, right?

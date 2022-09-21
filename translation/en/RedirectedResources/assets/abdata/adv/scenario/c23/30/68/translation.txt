@@ -1,6 +1,8 @@
-
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
 ………………=.........
 …………=......
 ……=...
-//「それじゃ、俺はこっちだから。またね」=
-//「えぇ、では、また」=
+「それじゃ、俺はこっちだから。またね」=“Well then, I'm this way, so see ya.”
+「えぇ、では、また」=“Yes, see you later.”

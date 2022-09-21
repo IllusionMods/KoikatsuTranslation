@@ -1,1 +1,4 @@
-﻿「きゃああぁぁっ！！　ひ、人を呼びますよ！！」=Kyaaaaaah--!! I-I'm going to report you, you know!!
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「きゃああぁぁっ！！　ひ、人を呼びますよ！！」=Kyaaaaaah--!! I-I'm going to report you, you know!!

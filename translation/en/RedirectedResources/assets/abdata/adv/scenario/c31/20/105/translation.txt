@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「これは、凄いな……予想以上に綺麗だ……」=This is, amazing... It's way more beautiful than I expected...
 「でしょでしょ？　ここを見つけた時、絶対[H名]と一緒に来たいって思ったんだ」=Right, right? When I found this place, the only thing I could think of was bringing you along with me to take a look, [H名].
 「そうか、それは光栄だな。おまえにいつも思ってもらえるなんて、私は幸せものだ」=I see, I'm really grateful. You always think of me, I feel so blessed.

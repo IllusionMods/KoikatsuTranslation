@@ -1,4 +1,7 @@
-﻿「それじゃあ、勉強を始めようか」=Well then, let's get started.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「それじゃあ、勉強を始めようか」=Well then, let's get started.
 「ええ。それにしても――」=Yes. All things considered, though--
 「ん？　どうかした？」=Nn? What's up?
 「改めてこうして向かい合うと、照れますね」=Facing each other like this, it's quite embarrassing, isn't it?

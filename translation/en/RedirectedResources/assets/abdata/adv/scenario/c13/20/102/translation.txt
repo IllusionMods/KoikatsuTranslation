@@ -1,4 +1,7 @@
-﻿「あれっ、なんかいい匂いがする～！」=Huh--, something smells really nice~!
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「あれっ、なんかいい匂いがする～！」=Huh--, something smells really nice~!
 「そこのお店からじゃない？」=Probably from that store over there, no?
 「あ、ほんとだ！　ねえねえ、せっかくだから、ここでお昼にしない？」=Ah, you're right! Hey, hey, since we're here anyway, wanna grab lunch here?
 「お腹も空いてきてたし、そうしよっか」=I'm getting pretty hungry too, so might as well.

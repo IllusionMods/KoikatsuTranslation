@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「さぁて、電車を降りるのが楽しみね？　普段はできない事、たくさんしましょう？」="Well now, you can't wait to leave the train right? Let's do a lot of things that we normally can't."
 「あ～、俺、実は用事があって。一緒の駅では下りられないかも……なんてー」="Ah, I actually have some things to do... We might not be able to get off at the same station."
 「ふぅん、じゃあいいわよ。私が特別に合わせてあげる……逃げられると思わない事ねっ」="Huh, okay then. I'll make an exception and stay with you... Don't think you can run away~."

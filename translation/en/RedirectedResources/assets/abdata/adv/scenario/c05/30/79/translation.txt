@@ -1,4 +1,6 @@
-
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
 「もぐもぐ……こういうところで食べるご飯はおいしいね」=“*Chew chew*... eating in a place like this makes it extra delicious, doesn't it?”
 「そうだね……ぷっ、あはは！　あごにごはん粒ついてるよ」=“Yeah... pfft, ahaha! There's some rice on your chin.”
 「そんなに笑わなくても……あっ、本当だ。しかもこんなに」=“I don't think it's something to laugh that much ove... Ah--, you're right. So much of it too. How the fuck?”

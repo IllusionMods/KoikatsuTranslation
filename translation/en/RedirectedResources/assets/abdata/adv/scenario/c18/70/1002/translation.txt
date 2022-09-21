@@ -1,0 +1,19 @@
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「緊張するな……」=Man, I'm getting nervous...
+（[H名]、凄い混乱ぶりだったけど大丈夫だったかな……？）=([H名] was super ruffled, was it really alright to leave her like that...?)
+（いよいよ出番か……）=(Finally, showtime, huh...)
+（内装も立派だ……）=(The interior's damn splendid too...)
+（っと、圧倒されてる場合じゃない。[H名]を不安にさせないためにも、気合を入れてかないとっ）=(--Calm down, this is not the place to get overwhelmed. Gotta fire myself up, have to make sure I don't make [H名] anxious--)
+（ふぅ……ちゃんとモデルらしく、出きてるといいけど……）=(Fuu... I hope I'm doing it properly, like a real model...)
+モブ=Mob
+「これより新婦が入場致します。後方の扉口をご覧ください」=And now, the bride will make her entrance. Please pay attention to the main door.
+（[H名]……）=([H名]...)
+視線の先に、純白のドレスに身を包んだ[H名]が佇んでいた。=In front of my eyes, [H名] was standing there, clad in a pure white dress.
+その美しさに思わず心を奪われ、ただただ見つめてしまう。=I couldn't help but stare at her, having my heart stolen away from the sheer beauty.
+（幸運の女神に見えた、なんて言ったら[H名]はどんな顔をするかな……）=(If I told her that she looks like Lady Luck herself, I wonder what sort of face she'd make...)
+「……本当に、きれいだ」=...You really do look beautiful.
+「似合ってますか……？　変じゃないでしょうか？」=Does it look good on me...? It's not weird, is it?
+「すごく、似合ってるよ。見惚れちゃってた」=It looks really good on you, amazingly good. I was mesmerized.
+「本当ですか？　あ、ありがとうございます」=Really? T-Thank you very much.

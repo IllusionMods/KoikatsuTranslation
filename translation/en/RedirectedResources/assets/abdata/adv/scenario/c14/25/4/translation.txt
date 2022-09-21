@@ -1,3 +1,6 @@
-﻿「なんで私がお前と勉強しなきゃなんねぇんだよ」=And just why do I have to study with you?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「なんで私がお前と勉強しなきゃなんねぇんだよ」=And just why do I have to study with you?
 「二人でやったほうが捗るじゃん」=We'd get through our work faster if we do it together.
 「わーったよ。で、どこでやるんだよ」=Sheesh, I got it. So, where are we gonna do it?

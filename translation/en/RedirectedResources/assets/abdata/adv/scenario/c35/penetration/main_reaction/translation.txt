@@ -1,1 +1,4 @@
-﻿「ええぇっ、い、いつからおったん！？」=Eeeeeeeh--, s-since when have you been there--!?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「ええぇっ、い、いつからおったん！？」=Eeeeeeeh--, s-since when have you been there--!?

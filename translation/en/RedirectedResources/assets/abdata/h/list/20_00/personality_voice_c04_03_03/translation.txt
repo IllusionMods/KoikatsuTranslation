@@ -1,4 +1,7 @@
-﻿どちらからにするの？　早く決めなさい=Which one of us will you go with first? Quickly make up your mind.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+どちらからにするの？　早く決めなさい=Which one of us will you go with first? Quickly make up your mind.
 どちらにするか早く決めて。当然私よね？=Quickly pick the one you want to do first. Of course, it's me, right?
 あん、焦らしてないで早く……=Ahn, don't be such a tease, quickly...
 焦らしプレイはいいからはやくきて=Leave the teasing for later, come at me already.

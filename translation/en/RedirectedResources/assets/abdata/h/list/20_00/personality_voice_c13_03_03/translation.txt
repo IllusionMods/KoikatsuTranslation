@@ -1,4 +1,7 @@
-﻿アタシたちを楽しませてね～？=Show us a good time, alright~?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+アタシたちを楽しませてね～？=Show us a good time, alright~?
 アタシたちが気持ちよくさせてあげるね！=We'll have you make us feel good!
 あはっ、アタシたちを満足させられる？=Aha--, will you be able to satisfy us?
 キミのチンチン、二人で相手しちゃうから！=We'll both tag-team on you together!

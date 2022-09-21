@@ -1,1 +1,4 @@
-﻿「も、もういいの？　その……ごめんなさい、あんまりよくなかった……かな……？」=H-Had enough already? Uhm... I'm sorry, I wasn't very good... was I...?
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「も、もういいの？　その……ごめんなさい、あんまりよくなかった……かな……？」=H-Had enough already? Uhm... I'm sorry, I wasn't very good... was I...?

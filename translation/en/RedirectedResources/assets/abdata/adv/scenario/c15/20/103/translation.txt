@@ -1,4 +1,9 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「ん……気付いたらもう暗くなってきてたんだなー……」=“Nn... the sun went down before we realized it...”
+CHOICE:『まだ時間ある？』=Still got some time?
+CHOICE:『そろそろ帰ろうか』=Let's head home.
 「[H名]、まだもう少し時間あるかな？」=“[H名], do you still have some more time?”
 「うん、あたしならまだ大丈夫だぞー」=“Yeah, I'm still good to go.”
 「よかった。実は、[H名]に見せたいものがあって」=“Great. I actually have something that I wanted to show you.”
@@ -8,5 +13,3 @@
 「いや、[H名]。まだデートは終わりじゃないよ」=“No, [H名]. Our date's not over yet.”
 「駅まで手を繋いでいこ！　俺達が二人でいる限り、デートは続いてるんだから」=“Let's hold hands till we get to the station! As long as we're together, the show stays on the road.”
 「おお、それもそうだなっ。よーし、まだまだデートを楽しむぞ！」=“Ooh, you're not wrong--. Alright, let's enjoy our date a whole lot more!”
-CHOICE:『まだ時間ある？』=Still got some time?
-CHOICE:『そろそろ帰ろうか』=Let's head home.

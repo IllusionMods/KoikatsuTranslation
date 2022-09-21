@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 椅子1=Chair 1
 椅子2=Chair 2
 食堂椅子1=Dining Chair 1

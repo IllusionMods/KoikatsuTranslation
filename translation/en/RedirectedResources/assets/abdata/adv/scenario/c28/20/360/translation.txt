@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 //「うぅっん……」=
 //「大丈夫？」=
 //「歌った後にしたからか、少し疲れてしまったかのう」=

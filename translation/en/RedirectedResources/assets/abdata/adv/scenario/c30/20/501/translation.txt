@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「おはよう、[H名]。１０分前ならと思ったんだけど、待たせちゃったね」=Good morning, [H名]. I thought I'd get here about 10 minutes early, but I guess I made you wait again.
 「いいの、気にしないで。お姉さん、待つの嫌いじゃないし、むしろちょっと楽しかったわ」=It's fine, don't worry about it. Onee-san here doesn't hate waiting, in fact, I had fun.
 「待つのが楽しい？　何かしてたの？」=You had fun waiting? Did something happen?

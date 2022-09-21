@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「[H名]、よかったよ……」=“[H], that was amazing...”
 「私もです……身体だけでなく、心も通い合った気がします……胸が、温かいんです……」=“For me too... it felt like even our hearts were one, not just our bodies... my chest, feels so warm...”
 「うん……俺も、[H名]のことが好きだって気持ちが大きくなった気がするよ……」=“Yeah... I feel like, my love for you just grew too...”

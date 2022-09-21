@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「あ～マジきもちいいー！　全力で歌えるってイイよね～」=Ah~, this feels amazing! Singing your heart out feels great, doesn't it~
 「聞いてるこっちもノリノリになれるよ！　流石だよね」=I'm having a great time listening too! You're sure amazing, [H名].
 「えへへっ、ありがと！　次はどうしようかなぁ～」=Ehehe--, thanks! What should I go with next~

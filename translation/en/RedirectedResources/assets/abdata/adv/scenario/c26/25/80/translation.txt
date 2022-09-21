@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「……今日は、それだけ？」=“...Is that, all?”
 「う、うん！　あんまりお腹が空いてなくて……」=“Y-Yeah! I'm not that hungry today...”
 「……本音は？」=“...And the truth?”

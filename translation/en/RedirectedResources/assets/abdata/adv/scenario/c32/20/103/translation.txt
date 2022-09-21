@@ -1,4 +1,9 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「ふぅ、今日はいっぱい遊びましたね。もう夕方になってしまいました」=Fuu, we sure played around a lot today. The sun's already gone down.
+CHOICE:『まだ時間ある？』=『Still got time?』
+CHOICE:『帰ろうか』=『Shall we go home?』
 「ねえ、まだ時間あるかな。もう少しここでゆっくりしない？」=Hey, do you still have some time? Wanna take it easy here for a bit longer?
 「そんなに公園が気に入ったのですか？　わかります」=Did you like the park that much? I can understand.
 「ん、公園じゃなく、一緒にいる人のおかげかなーって」=Mm, it's not the park, but rather the company, if you catch my drift.
@@ -8,6 +13,3 @@
 「締めくくり？　何をするんですか？」=A final thing? What are we doing?
 「手をつないで、一緒に駅まで戻ることだよ。さあ、行こう！」=We join our hands, and return to the station together. Come on, let's go!
 「……照れますね。でも、いいデートだったって、心から思います」=...I'll blush. But, it really was a good date, I feel that from my heart.
-
-CHOICE:『まだ時間ある？』=『Still got time?』
-CHOICE:『帰ろうか』=『Shall we go home?』

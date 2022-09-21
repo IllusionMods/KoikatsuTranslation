@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「[H名]の、魔界とかっていうの、結構細かい設定があるんだよね。そういうの考えるのに知識がいると思うんだけど、どこで覚えてくるの？」=“[H], that setting of yours, you know, the 'demon realm' or whatever, it's pretty detailed, isn't it? I feel like you'd need a lot of knowledge even to come up with that stuff, where do you learn that stuff?”
 「むっ、設定と言うな！　……ふん、まぁ細かいことはよいか」=“Muh--, don't call it a setting! ...Fuhn, well, I won't harp on it.”
 「我は全知全能である魔界の支配者である。すなわち、我の知識の源泉とは我の魂であり、つまりは混沌から湧き上がる……」=“I am an all knowing all powerful sovereign of the demon realm. Therefore, my source of knowledge is my very own soul, in essence, it arises out of the pure chaos...”

@@ -1,1 +1,4 @@
-﻿「無理に最後までする必要はないと思うけど……ここでやめちゃってもいいの？」=I won't tell you to force yourself till the end but... are you sure you want to stop here?
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「無理に最後までする必要はないと思うけど……ここでやめちゃってもいいの？」=I won't tell you to force yourself till the end but... are you sure you want to stop here?

@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「コイカツ部、具体的にはどういった活動をしているのでしょうか？」=Koikatsu club, just what kind of things do you do in that club, exactly?
 「興味出てくれたかな？」=Are you interested?
 「はい、あなたの部活ですから」=Yes, it's your club, afterall.

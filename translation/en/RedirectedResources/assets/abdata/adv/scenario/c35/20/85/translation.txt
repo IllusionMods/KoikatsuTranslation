@@ -1,4 +1,7 @@
-﻿「よーし、今日もコイカツ頑張るん！　実は私、コイカツ向きの雑誌買ってきたとよ！」=Alright, I'll work hard today too! You know, I actually went and bought some magazines for us to use as reference material!
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「よーし、今日もコイカツ頑張るん！　実は私、コイカツ向きの雑誌買ってきたとよ！」=Alright, I'll work hard today too! You know, I actually went and bought some magazines for us to use as reference material!
 「えっ、本当に？　ありがとう！　どんな雑誌？」=Eh--, really? Thanks! What sort of magazines?
 「うん、これ！　出産前に読むのがこっちで……出産後に読むのがこっち……」=Yeah, these! This one, to be read before delivery and... this one for after the child's born...
 「ちょ、ちょっと待って！」=W-Wait just a moment!

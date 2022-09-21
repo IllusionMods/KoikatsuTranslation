@@ -1,4 +1,7 @@
-﻿あの子はチアリーディング部=She's on the Cheerleading Squad
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+あの子はチアリーディング部=She's on the Cheerleading Squad
 再びチア部へ=To the Cheerleading Club Again
 桜の憧れ=Longing for Cherry Blossoms
 体育祭へ向けて=Towards the Athletics Festival

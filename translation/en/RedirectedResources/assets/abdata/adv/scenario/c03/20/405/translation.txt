@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「えへへぇ、ハンバーグ来たですー！　ふっくらしてて……見るからに美味しそう！」=“Eheheh, my steak's here! It's so plump... it just looks delicious, I don't even have to eat it to tell!”
 「おお、ソースもたっぷりで……よだれが垂れてきちゃいそうだ」=“Ooh, it's loaded with sauce too... I can feel myself drooling.”
 「はいです！　早速食べてみるですね。んっ……っと……あむっ……」=“Yes! I'mma dig in right away. Nn--... there we go and... *bite*...”

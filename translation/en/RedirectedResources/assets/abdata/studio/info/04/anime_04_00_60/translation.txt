@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 立ちポーズ1=Standing Pose 1
 立ちポーズ2=Standing Pose 2
 立ちポーズ3=Standing Pose 3

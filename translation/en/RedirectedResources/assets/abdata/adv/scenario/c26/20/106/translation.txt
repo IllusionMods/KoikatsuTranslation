@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「何度見ても、ここからの夜景は綺麗だね」=“No matter how many times we look at this, it's always beautiful, isn't it?”
 「……うん。ここ、好き」=“...Yeah. I love it, here.”
 （[H名]と初めて来た時もこんな感じだったな……）=(She was like this the first time we came here too...)
@@ -15,6 +18,8 @@
 「全部、覚えてる……あなたとの思い出を忘れるわけない」=“I remember, it all... I could never forget memories with you in them.”
 「……ありがとう」=“...Thank you.”
 「それじゃあ……」=“Well then...”
+CHOICE:『また、エッチしない？』=Wanna have sex, again?
+CHOICE:『そろそろ、帰ろうか』=Let's head home, shall we?
 「またエッチしない？」=“Wanna have sex again?”
 「……もしかして、あなた、そういうフェチなの？」=“...Do you have, that sort of a fetish, or something?”
 「……それはノーコメントで」=“...No comment.”
@@ -32,6 +37,3 @@
 「……うん。そっか、そうだね。次が、ある」=“...Yeah. you're right. There will be, a next time.”
 「次も……楽しませてね」=“Show me a good time... next time too, okay?”
 「もちろん。さあ、帰ろうか」=“Of course. Now then, let's go home.”
-
-CHOICE:『また、エッチしない？』=Wanna have sex, again?
-CHOICE:『そろそろ、帰ろうか』=Let's head home, shall we?

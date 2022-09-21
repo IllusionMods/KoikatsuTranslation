@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「グラウンドに来たという事は、走り込み？　基本だけど、また地味なものを選んだわね」="We've come to the sports ground to run around? It's a basic sport, but you've chosen something plain again."
 「運動しながらも話せたらいいなって思って、並んでジョギングなんてどう？」="I thought we could chat while jogging side-by-side. How's that sound?"
 「いいわよ、私のペースに付いてこれるならね。遅れたら容赦なく置いていくから、そのつもりで」="Alright, if you can keep up with me that is. If you are too slow, I'll mercilessly leave you behind. I mean it."

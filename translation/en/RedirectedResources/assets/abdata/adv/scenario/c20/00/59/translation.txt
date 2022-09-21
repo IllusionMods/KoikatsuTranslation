@@ -1,2 +1,5 @@
-﻿「今日は、楽しかったです」=Today was, a lot of fun.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「今日は、楽しかったです」=Today was, a lot of fun.
 「それで、その……良ければまた、また……私とデートしてください……じ、じゃあ、また！」=If it's, uhm... if it's alright, please go... go out on a date with me again... t-then, see you!

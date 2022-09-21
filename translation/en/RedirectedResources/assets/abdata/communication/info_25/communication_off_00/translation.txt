@@ -1,4 +1,7 @@
-﻿「何やってるの？　ここは女の子のヒミツの花園よ♡」=What are you doing? This is a secret garden only for girls♡
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「何やってるの？　ここは女の子のヒミツの花園よ♡」=What are you doing? This is a secret garden only for girls♡
 「ふふっ、間違えちゃったの？　今度から気をつけてね」=Fufu--, got the wrong door? Be careful next time, okay?
 「ごめんね、今ちょっと忙しいの。またね」=I'm sorry, I'm a bit busy right now, next time, okay?
 「えっと……何かご用？」=Erhm... you need something?

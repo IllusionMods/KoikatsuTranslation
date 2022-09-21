@@ -1,4 +1,7 @@
-﻿「よく、喫茶店で本を読んでいる人いるよね」=You often see people reading books in coffee shops, huh?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「よく、喫茶店で本を読んでいる人いるよね」=You often see people reading books in coffee shops, huh?
 「落ち着いた雰囲気のお店だと、見かけたりしますね」=Yes, especially if it's a cafe with a mellow atmosphere.
 「ああいうの、ちょっと憧れてるんだ。大人のかっこよさ、みたいで」=I kinda really dig that sort of feeling. Like, it looks so cool and mature.
 「わからなくはないですけれど……あなた、形から入るタイプですね？」=Not that I don't understand that feeling but... you're the type to put looks above all else, huh?

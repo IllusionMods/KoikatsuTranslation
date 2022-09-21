@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「へへー、今日になるの、ずっと待ってたんだぞ」=“Hehe, I was waiting for today to come for the longest time.”
 「俺もだよ。じゃあ、行こうか」=“Me too. Well then, let's go.”
 「こうやって、芝生の上に座るのっていいよね」=“Sitting on the grass like this is really nice, isn't it?”

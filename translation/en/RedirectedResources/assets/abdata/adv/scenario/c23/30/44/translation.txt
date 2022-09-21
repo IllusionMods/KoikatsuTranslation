@@ -1,6 +1,8 @@
-
-//「へえ、色々あるんだね」=
-//「おお。あそこにアニメグッズの店が。入ってもいいかなぁ？」=
-//「うん、いいよ」=
-//「ふふ、ふ。吾輩は大満足である」=
-//（よかった、喜んでもらえたみたいだ）=
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「へえ、色々あるんだね」=“Hoh, there's all sorts, huh?”
+「おお。あそこにアニメグッズの店が。入ってもいいかなぁ？」=“Ooh. Look, an anime goods store. Mind if we check it out?”
+「うん、いいよ」=“Sure, let's go.”
+「ふふ、ふ。吾輩は大満足である」=“Fufu, fuh. My satisfaction stat is beyond max right now.”
+（よかった、喜んでもらえたみたいだ）=(Great, looks like she enjoyed it.)

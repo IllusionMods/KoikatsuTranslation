@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「はわっ……え、えっと……はい……です……」=“Hawah--... e-erhm... yes... okay...”
 「[H]……」=“[H]...”
 「わわっ、そんな風に見つめないでくださいですっ！　は、恥ずかしくって……お顔、見られないですよ……」=“Wawah--, please don't stare at me like that--! I-It's so embarrassing... I can't, look at your face...”

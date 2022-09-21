@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「えっと……混ざりたいの？　俺はＯＫだけど……」=“Erhm... you wanna join us? I'm fine with it, but...”
 「三人で……？　んー……いいよ……？」=“All three of us...? Nnn... I don't mind, you know...?”
 「いいよ……三人のほうが、すぐ宇宙を見れそうだし……」=“Sure... I feel like, I'll get to see space way earlier, if it's all 3 of us together...”

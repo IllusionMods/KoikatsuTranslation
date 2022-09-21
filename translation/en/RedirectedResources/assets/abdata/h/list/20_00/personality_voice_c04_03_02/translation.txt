@@ -1,4 +1,7 @@
-﻿え？　本当にこんなところでするつもり？=Eh? Are you really planning on doing it here?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+え？　本当にこんなところでするつもり？=Eh? Are you really planning on doing it here?
 な、なにしてるの……するならはやくしないと気づかれるわよ？=W-What are you doing... if you're going to do it, do it quickly, people are going to notice, you know?
 声……出ちゃうからゆっくりね……いきなりはダメよ？=I'll... moan so do it slowly... don't do it suddenly, okay?
 ええ……気づかれないようにね？=Yes... make sure nobody notices, okay?

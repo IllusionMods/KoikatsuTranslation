@@ -1,4 +1,7 @@
-﻿「ちょっ！　てめぇ！　どこ入ってきてんだ！　殺すぞ！」=Hey--! You retard! Where do you think you're going! I'll kill you!
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「ちょっ！　てめぇ！　どこ入ってきてんだ！　殺すぞ！」=Hey--! You retard! Where do you think you're going! I'll kill you!
 「てめぇ！　何見てんだよ！　出てけ！」=Bastard! What'cha lookin' at! Get the fuck out!
 「邪魔だ、失せろ」=Fuck off, you're in my way.
 「どけよ、邪魔なんだよ」=Move, you're in the way.
@@ -89,6 +92,7 @@
 「私ってもしかしてケンカ弱そう……？　そんなことねぇよな？」=By any chance, do I look like I couldn't stand my own in a fight...? I don't, right?
 「だ……だよな！　そうに決まってるよな！」=D... Damn right! Of course I can!
 「まじか……へこむわ……」=For real?... What a downer...
+「おい、ちゃんと私の目を見ろよ！　どうなんだよ！」=Hey, look me in the eye! Just which is it!
 「そういやお前って動物とか好きか？」=Reminds me, do you like animals and stuff?
 「私もだ。あいつらは嘘つかねぇからな」=Me too. Animals never lie to you, afterall.
 「わかるわ。あいつらなれなれしいんだよな。動物のくせによ」=I feel you. They just get way too damn cuddly. Even though they're just fucking animals.

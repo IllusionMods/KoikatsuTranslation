@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 立ち１=Standing 1
 立ち２=Standing 2
 立ち３=Standing 3

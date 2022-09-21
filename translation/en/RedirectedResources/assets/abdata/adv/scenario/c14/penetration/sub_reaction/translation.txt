@@ -1,1 +1,4 @@
-﻿「ちっ……んだよ、ずっと見てたのかよ」=Tsk... the heck, were you there the whole time?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「ちっ……んだよ、ずっと見てたのかよ」=Tsk... the heck, were you there the whole time?

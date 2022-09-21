@@ -1,1 +1,4 @@
-﻿「きゃあぁっ！　ここは男子が入っちゃいけない場所なのーっ！！」=Kyaaah--! Boys can't come in here--!!
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「きゃあぁっ！　ここは男子が入っちゃいけない場所なのーっ！！」=Kyaaah--! Boys can't come in here--!!

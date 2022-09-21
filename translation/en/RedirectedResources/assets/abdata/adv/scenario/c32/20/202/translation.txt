@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「なんじゃこれ……さっき、きぐるみのキャラクターが配ってたんだけど……」=The heck is this... The mascot character was giving these out just now...
 「これは……スタンプラリーのカードみたいですね。アトラクションに乗れば、スタンプがもらえるようです」=This is... looks like it's a stamp card. If we ride the attractions, we'll get stamps it seems.
 「なるほど～。指定のスタンプが全部揃うと、景品がもらえるってわけか……よーし、頑張るぞ！」=I see~. So if we were to get all the listed stamps, we can exchange it for a prize, huh... Alright, let's do our best!

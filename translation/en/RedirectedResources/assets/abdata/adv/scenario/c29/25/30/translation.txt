@@ -1,1 +1,4 @@
-﻿「私の好み、知っていてくれたのですね。こういった一つ一つが、とても幸せです」=You knew just what I wanted, huh? Every single one of these, makes me really happy.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「私の好み、知っていてくれたのですね。こういった一つ一つが、とても幸せです」=You knew just what I wanted, huh? Every single one of these, makes me really happy.

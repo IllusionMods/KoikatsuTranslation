@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「[H名]のオムライス、美味しそうだね～」=“Your omurice sure looks delicious, [H]~”
 「オムライスだもの。美味しくないわけないじゃない♪　ふふふ、あー、お腹がなっちゃいそう」=“It's omurice, afterall. There's no way for it not to be delicious♪ Fufufu, ah~, feels like my belly's gonna start rumbling.”
 「そういえば、俺、あんまりオムライスってお店で頼まないなぁ」=“Now that I think about it, I never really order omurice at restaurants.”

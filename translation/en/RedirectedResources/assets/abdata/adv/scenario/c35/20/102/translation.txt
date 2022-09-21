@@ -1,4 +1,7 @@
-﻿「あ、[H名]、あそこにワゴンカフェがあるよ。何か買って、飲みながら歩こうか」=Ah, [H名], there's a food truck there. Shall we buy something to drink while we're walking?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「あ、[H名]、あそこにワゴンカフェがあるよ。何か買って、飲みながら歩こうか」=Ah, [H名], there's a food truck there. Shall we buy something to drink while we're walking?
 「うん、いいね！　私、ちょうど喉が渇いとったん」=Yeah, sounds good! I was just feeling thirsty anyway.
 「コーヒー屋さんみたいだけど、結構人気だね。ちょっとした列が出来てる」=Looks like a coffee stand but, it seems to be pretty popular. There's even a line.
 「あ、ここにメニューがあるよ。何にしよっか？」=Ah, there's a menu here. What shall we get?

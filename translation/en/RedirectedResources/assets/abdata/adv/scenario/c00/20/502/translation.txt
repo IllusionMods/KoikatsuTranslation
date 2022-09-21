@@ -1,4 +1,7 @@
-﻿「んーっと、時間どおりだな。[H名]は、どこかなー……」=Well then, I'm here, right on time too. Now where's [H名]...
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「んーっと、時間どおりだな。[H名]は、どこかなー……」=Well then, I'm here, right on time too. Now where's [H名]...
 「うふふ、おまちどう様♪」=Ufufu, kept you waiting, huh?♪
 「うわっ、いつのまに！？」=Uwah--, when did you--!?
 「隙だらけだったわよ。お尻触っちゃえばよかったかも♪」=Your defenses were wide open. Maybe I should have groped your butt♪

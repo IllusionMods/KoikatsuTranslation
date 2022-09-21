@@ -1,4 +1,7 @@
-﻿初めてだから緊張するよ=It's my first time so I'm getting nervous.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+初めてだから緊張するよ=It's my first time so I'm getting nervous.
 あは、なんかまだ緊張するよ=Aha, I still feel kinda nervous.
 もう、焦らさないでよお=Jeez, don't tease me.
 ああん、もう我慢できないの、お願い、触って？=Aaahn, I can't endure it anymore, please, touch me?

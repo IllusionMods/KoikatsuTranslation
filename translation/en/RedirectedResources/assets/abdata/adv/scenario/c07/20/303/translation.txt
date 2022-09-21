@@ -1,4 +1,9 @@
-﻿「あれ、もうこんな時間か。歌うのに夢中で気づかなかった……」=When did it get this late? I was so focused on singing, I didn't notice at all...
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「あれ、もうこんな時間か。歌うのに夢中で気づかなかった……」=When did it get this late? I was so focused on singing, I didn't notice at all...
+CHOICE:『延長して、もっと歌う？』=『Wanna extend it and sing even more?』
+CHOICE:『そろそろ帰ろうか』=『We should head out soon.』
 「延長しない？　俺、もっと歌いたくてさ」=Wanna extend it? I wanna sing even more.
 「お、そうこなくっちゃな。私もまだまだイケルぜ！」=Oh, that's the spirit. I can still keep going too!
 「よしっ、じゃあ延長の電話を入れとくよ」=Alright--, I'll put the call in then.
@@ -11,6 +16,3 @@
 「そうか？　なら入れるとするぜ！」=That so? Then, I'll put it in!
 『果てしない空の下 どこかにきっとあるんだ～♪』=『It's gotta be somewhere Under this sky stretching so far~♪』
 「いいぞ、[H名]～！」=That sounds great, [H名]~!
-
-CHOICE:『延長して、もっと歌う？』=『Wanna extend it and sing even more?』
-CHOICE:『そろそろ帰ろうか』=『We should head out soon.』

@@ -1,4 +1,7 @@
-﻿「ックション！……してるうちは気づかなかったけれど、少し寒いな」=*sneeze*! ...It wasn't all that apparent when we were doing it but, it's pretty cold here.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「ックション！……してるうちは気づかなかったけれど、少し寒いな」=*sneeze*! ...It wasn't all that apparent when we were doing it but, it's pretty cold here.
 「風邪引かないようにして……くしゅん……うぅ……」=Please don't catch a cold, oka...*sneeze*... uu...
 「あちゃー、[H名]も冷えちゃってたか。ごめんね。急いで帰ろっか」=Damn, I made you suffer too, huh? Sorry, let's rush home.
 「はいっ、そうしましょう」=Yes--, let's do that.

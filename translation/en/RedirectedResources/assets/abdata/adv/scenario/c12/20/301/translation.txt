@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「うーん、初めて[H名]とカラオケに来たから、何を歌っていいか悩むね」=“Nnnn, it's my first time here with you, [H], so I'm not sure what I should even go with.”
 「ん？　あたしに気を使う必要はないぞ。おまえが好きな歌を歌えばいいんだよ」=“Nn? You don't need to mind me. Just sing whatever songs you like.”
 「そう？　でも、できるなら二人で盛り上がれた曲の方がいいし、だったらやっぱり二人が知ってる曲がいいかなって」=“You sure? But, I'd rather sing something we both like if I can, so I was wondering if I should try to go with something that we both might know.”

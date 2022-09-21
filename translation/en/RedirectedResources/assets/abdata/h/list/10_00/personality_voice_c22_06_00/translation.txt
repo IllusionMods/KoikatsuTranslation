@@ -1,4 +1,7 @@
-﻿感じてくれてるかな？=Are you feeling good?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+感じてくれてるかな？=Are you feeling good?
 あ……びくびくしてる……=Ah... it's twitching...
 これからどんどん気持ち良くしてあげるからね=I'll make you feel lots and lots of pleasure, okay?
 あん……ここも可愛い=Ahn... this part's cute too.

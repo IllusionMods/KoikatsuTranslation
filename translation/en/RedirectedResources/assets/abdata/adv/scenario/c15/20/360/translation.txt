@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「ふぅ、バレないもんだなー……」=“Fuu, nobody caught us at all...”
 「意外とそういうものだよ。周りの人って思っている以上に、こっちのこと気にしてないし」=“That's just how it works. Really, nobody pays attention to what goes on outside their own box.”
 「あたしだったら、匂いですぐ気づくけど」=“If it was me, I'd realize it right away, just from the smell.”

@@ -1,1 +1,4 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「きゃっ！　ジロジロ見てないで早く出て行ってください！」=“Kyah--! Don't stare, please just leave already!”

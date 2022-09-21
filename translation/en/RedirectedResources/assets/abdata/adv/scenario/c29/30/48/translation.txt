@@ -1,1 +1,4 @@
-﻿「今回もとても気持ち良くなれました。またしましょう」=This time was amazing too. Let's do it again sometime.
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「今回もとても気持ち良くなれました。またしましょう」=This time was amazing too. Let's do it again sometime.

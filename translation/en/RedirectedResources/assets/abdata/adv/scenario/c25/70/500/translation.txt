@@ -1,0 +1,31 @@
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+………………=.........
+…………=......
+……=...
+「今日はいろいろと楽しかったっすね～」=Today was a lot of fun, wasn't it~
+「うん。とても充実した一日だったよ」=Yeah. It was a really productive day.
+「……これで解散、だよね～？」=...We're gonna, split off here, aren't we~?
+CHOICE:『自宅に誘う』=『Invite to your place』
+CHOICE:『ラブホに誘う』=『Invite to love hotel』
+CHOICE:『さよならする』=『Say goodbye』
+「……えっと、よかったら俺の家に来てくれないかな？」=...Erhm, if you'd like, won't you come to my place?
+「ん～、キミの家でデートの続きをするのも、悪くないね～」=Nn~, continuing our date at your place, that doesn't sound so bad~
+「ってことは……」=So that means...
+「ここでお暇するね～」=I'mma say goodbye for now~
+「あれ？　来てくれるんじゃないの！？」=Huh? You're not gonna come!?
+「ふふ～、冗談っすよ～」=Fufu~, it was a joke~
+「……[H名]さえよければ、ホテルへ行ってみない？」=...If it's alright with you, wanna try going to a hotel?
+「そのホテルって……エッチなやつだよね～？」=By "hotel"... you mean one of the lewd ones, don't you~?
+「まあ……キミとならいいけどさ～」=Well... I don't really mind, not with you~
+「ありがとう！　じゃあ、付いて来て……」=Thanks! Well then, follow me...
+「そうだね。それじゃあ、また学園で」=Yeah. Well then, see ya at school.
+「ん、では～…………っと思ったけど、一旦ストップっす」=Nn, see ya~... was what I was gonna say, but stop for a moment.
+「どうかしたの？」=Something the matter?
+「忘れ物があったので～、ちょっと目を閉じてもらっていいですか～？」=You forgot this~, close your eyes for a moment, will you~?
+「え？　ああ、うん……」=Eh? Aah, yeah...
+「そのまま閉じて、開けちゃダメっすよ……」=Keep them closed, don't open them...
+「んっ……」=Nn--...
+「わっ……！　[H名]……？」=Wah--...! [H名]...?
+「んふふ～、お別れのキスを忘れてたんだ～。じゃあ、またね～」=Nnfufu~, you were missing our parting kiss~. Well then, see ya~

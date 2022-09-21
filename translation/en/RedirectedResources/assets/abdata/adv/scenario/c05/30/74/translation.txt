@@ -1,4 +1,6 @@
-
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
 「あっ、ちゃんとマットひかないとと危ないよ」=“Ah--, we should put down a mat, it's dangerous without one.”
 「平気だよ。よっ、と……ほらね……ととっ、わっ！　……いてて」=“It's fine. Here--, we go... see?... woah--, wah--! ...Oww.”
 「大丈夫？　どこかケガしたの？」=“You okay? Did you hurt yourself?”

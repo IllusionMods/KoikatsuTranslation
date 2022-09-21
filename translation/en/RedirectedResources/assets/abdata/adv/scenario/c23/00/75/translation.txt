@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「キャッチボールをやってみよう」=“Let's try some catch.”
 「えぇ、ワタシが投げるからね。それっ」=“Alright, I'll throw it, okay? There--”
 「よし、取った。投げるよ、それっ、あっ」=“Alright, got it. Alright, here goes--, ah--”

@@ -1,4 +1,7 @@
-﻿（よしっ、今日はかなり早めにこれたぞ）=(Alright--, I got here pretty early today.)
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+（よしっ、今日はかなり早めにこれたぞ）=(Alright--, I got here pretty early today.)
 （[H名]は……まだ着いてないみたいだな）=(As for [H名]... seems like she hasn't gotten here yet.)
 ………………=.........
 「ご、ごめんなさいっ。家にある目覚まし時計が全部壊れて寝坊して……」=I-I'm sorry! All the alarm clocks I have at home broke down at the same time, so I overslept...

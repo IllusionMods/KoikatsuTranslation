@@ -1,4 +1,7 @@
-﻿「よく晴れた散歩日和になったね」=Perfect weather for a walk, isn't it?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「よく晴れた散歩日和になったね」=Perfect weather for a walk, isn't it?
 「はい。こういうときに雨じゃないのって、珍しい気がします」=Yes. I feel quite astonished, that it hasn't started pouring already.
 「[H名]が散歩するときは結構雨になっちゃうんだ？」=The weather turns that often when you go out for walks?
 「楽しみな時だけ雨女なんですけど……今日晴れたのは[P名]さんが一緒だからでしょうか？」=Yes, especially when I just barely start to enjoy myself... I wonder if it's clear out today because you're here with me, [P名]?

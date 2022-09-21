@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「[H名]とカラオケ来るのは初めてだね。なんか、少し緊張する……」=This is the first time we've done karaoke together, [H名]. Somehow, I'm a bit nervous...
 「緊張？　うーん、私も少しはしてるけど……もしかして、キミってとても歌が上手かったりする？」=Nervous? Well, I kind of know what you're talking about but... Could it be, that you're really good at singing?
 「いや、普通だと思うけど……どうして？」=Nah, I think I'm pretty average... Why do you ask?
@@ -16,6 +19,6 @@
 「そんなことないって。それとも、あれだけ緊張する必要はないって言ってたのに……[H名]もバリバリ緊張してるんじゃ？」=That's not it. Also, you told me there was no need to be that nervous but... [H名], aren't you the same way?
 「し、してないわよ？　もう、わかったわ。お姉さんが歌えばいいんでしょ……ンッ、笑ったりしないでね？」=I-I'm not though? Geez, fine, I got it. It'll be fine if I just sing, right...? Nnn, don't laugh, okay?
 「おぉー、この曲知ってる！　俺も好きだよ！　[H名]の声で聞けるの、嬉しいな！」=Oooh, I know this song! I love it too! Being able to hear [H名] sing it, makes me so happy!
-「あ、あんまり期待しないでね？　私、そんなに歌に自信があるわけじゃないから……」=D-don't expect too much, okay? I'm not all that confident in my singing... 
+「あ、あんまり期待しないでね？　私、そんなに歌に自信があるわけじゃないから……」=D-don't expect too much, okay? I'm not all that confident in my singing...
 『小さな手の平 掴める物は～♪　きっと限られているけど♪』="The things these small hands can hold~ ♪ They are surely limited but-- ♪"
 「おお！　十分上手いって！　あぁ、いいなぁ……録音しておきたいくらいだよ！」=Ooh! You're plenty good at it! Aaah, this is nice... It's so good that I want to record it!

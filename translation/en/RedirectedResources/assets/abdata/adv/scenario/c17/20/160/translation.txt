@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 //「誰にも見られてないわよね？」=
 //「大丈夫大丈夫、心配ないよ」=
 //「もう、適当なんだから」=

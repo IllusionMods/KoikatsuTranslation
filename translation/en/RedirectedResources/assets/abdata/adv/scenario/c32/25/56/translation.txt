@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「……あなたがそれをお望みなのでしたら、仕方ありませんね」=...If that's what you desire, then I suppose it cannot be helped.
 「引き留めたりしないの……？」=Are you not going to try and stop me...?
 「そりゃあ引き留めたいです！　でも、そうすると困るのはあなたでしょう」=Well, yes, of course I want to! But, if I do that, you'll be troubled, no?

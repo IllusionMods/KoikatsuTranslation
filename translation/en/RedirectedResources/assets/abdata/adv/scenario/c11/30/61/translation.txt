@@ -1,4 +1,6 @@
-
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
 「今日はどんなデートがいいかしら？」=“What sort of date should we have today?”
 「映画なんてどうかな？　オススメの映画が今ちょうど上映中なんだ。ホラーなんだけどね」=“How about a movie? They're actually screening a movie that I'd really recommend, right now. It's horror though.”
 「え……ホラー……？　……だっ、大丈夫よ！　怖くなったら私が手を繋いであげるわね」=“Eh... horror...? ...I-It'll be alright! If you get scared, I'll hold your hand, okay?”

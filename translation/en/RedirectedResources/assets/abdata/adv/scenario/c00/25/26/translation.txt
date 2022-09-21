@@ -1,1 +1,4 @@
-﻿「えっ、私に？　気持ちだけでも充分なのに」=Eh--, for me? I'd have been happy enough with just your feelings too.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「えっ、私に？　気持ちだけでも充分なのに」=Eh--, for me? I'd have been happy enough with just your feelings too.

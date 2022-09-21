@@ -1,4 +1,7 @@
-﻿「……はい」=...Okay.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「……はい」=...Okay.
 「本当にいいんだね？」=You're really okay with this, right?
 「私に幸せをくれた人。私の大好きな人」=The person that brought me happiness. The person I love.
 「あなたにだから、私の全部をあげたいんです」=To you, I want to dedicate my everything.

@@ -1,1 +1,4 @@
-﻿「も……もう終わりかよ。足りねぇ、こんなんじゃ全然満たされねぇよ！」=A... Already? Not enough, this much isn't satisfying at all!
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「も……もう終わりかよ。足りねぇ、こんなんじゃ全然満たされねぇよ！」=A... Already? Not enough, this much isn't satisfying at all!

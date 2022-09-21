@@ -1,4 +1,7 @@
-﻿「ねぇ、私たちももうずいぶん仲良しになったっちゃけん、そろそろ呼び方を変えてみるっていうのはどうかいな？　例えば愛称みたいな……」=Hey, we've gotten pretty close and everything so, how about we try changing the way we refer to each other? Something like a nickname, for example...
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「ねぇ、私たちももうずいぶん仲良しになったっちゃけん、そろそろ呼び方を変えてみるっていうのはどうかいな？　例えば愛称みたいな……」=Hey, we've gotten pretty close and everything so, how about we try changing the way we refer to each other? Something like a nickname, for example...
 「なるほど、愛称か……どんな感じがいいかな？」=I see, a nickname, huh... what sort of thing do you have in mind?
 「私が考えたのやったら……[Pあだ名]♪　っていうのは……どう？」=The one I came up with was... [Pあだ名]♪... how's that?
 「おお、何だか今までと全然違う気分がするね。いいかも」=Ooo, it has a way different feel to it compared to usual. It's pretty nice.

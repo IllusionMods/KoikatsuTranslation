@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「何度見ても、素敵な景色なんだなぁ……」=“No matter how many times I see it, it's always so lovely...”
 「だねぇ……俺もしみじみ思うよ」=“Yeah... I feel the same way.”
 「……ここに来ると、アニメの再現をしたことを思い出しますぞ」=“...I can't help but remember that time we re-enacted that anime.”
@@ -18,6 +21,8 @@
 「……情熱的なキスだったね」=“...Such a passionate kiss.”
 「自分で思っていた以上に、気持ちが昂ぶってたみたいで……えへ、へ……」=“Seems like I'm way more into it right now, than I thought... eheh, heh...”
 「…………」=“......”
+CHOICE:『じゃあ、エッチしない？』=Then, wanna have sex?
+CHOICE:『そろそろ帰ろうか』=Let's go home.
 「じゃあ、エッチしない？　前にした、あの場所でさ」=“Then, how about we have sex? You know, where we did it last time?”
 「あなたはすぐ１８禁展開に持っていきますね……」=“You always just love running towards that R-18 certification, don't you...”
 「いや？」=“Don't want to?”
@@ -32,6 +37,3 @@
 「さ、さすがにデートの日にリアタイ視聴をしようとは思わないよ」=“E-Even I'm not so far gone as to insisit on watching it in realtime, on the days where we go on a date.”
 「俺のために予定を空けてくれてるんだ。嬉しいな」=“You opened up your day just for me. I'm really happy.”
 「ストレートに言われると、照れますぞ…」=“It's embarrassing when you, say it so directly...”
-
-CHOICE:『じゃあ、エッチしない？』=Then, wanna have sex?
-CHOICE:『そろそろ帰ろうか』=Let's go home.

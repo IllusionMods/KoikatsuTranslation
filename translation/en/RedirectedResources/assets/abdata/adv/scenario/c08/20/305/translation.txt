@@ -1,4 +1,7 @@
-﻿「歌ってたら汗かいてきちゃった……ほら、見て見て～、腕までびっしょり」=Singing's made me all sweaty... here, look~, even my arms are all sweaty.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「歌ってたら汗かいてきちゃった……ほら、見て見て～、腕までびっしょり」=Singing's made me all sweaty... here, look~, even my arms are all sweaty.
 「ほんとだ、汗だくじゃないか」=You're right, you're positively drenched.
 「じ～っ……」=*stare*...
 「も、もう……見すぎだよぉ」=J-Jeez... you're staring too much.

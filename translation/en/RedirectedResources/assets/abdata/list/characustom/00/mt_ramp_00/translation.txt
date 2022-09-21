@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 浅いなめらか影=Slight, Smooth Shadows
 浅いくっきり影=Slight, Sharp Shadows
 深いなめらか影=Deep, Smooth Shadows

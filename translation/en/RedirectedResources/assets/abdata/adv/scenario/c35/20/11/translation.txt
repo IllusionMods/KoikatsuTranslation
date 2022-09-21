@@ -1,4 +1,7 @@
-﻿「ねぇ……私、どうしても君に言わないかんことがあるっちゃけど……いいかいな？」=Hey... there's something I absolutely have to say to you... Can I?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「ねぇ……私、どうしても君に言わないかんことがあるっちゃけど……いいかいな？」=Hey... there's something I absolutely have to say to you... Can I?
 「え……改まってどうしたの？　ちょっと怖いな」=Eh... why so formal? It's a bit scary.
 「うん……あのね……私たち、もう付き合っていくの無理やと思うんよ。色々考えたんやけど……こういう結論しか出せんくて……」=Yeah... listen... I think it's impossible for us to be together any longer. I thought over it a bunch and... I couldn't come up with any other answer...
 「えっ！？　ま、待って……何で急に……？」=Eh--!? W-Wait... Why so suddenly...?

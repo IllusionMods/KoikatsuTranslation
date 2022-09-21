@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「この前、雑誌でこういうの見つけたんだ。今日はそれをやってみよう」=“I read about this in a magazine the other day. So let's go with it for today.”
 「いいよ……ふーん、こういうのにみんな憧れるんだね」=“Sure... hmmm, everyone's into this sort of stuff, huh?”
 「それじゃ、いくよ……」=“Well then, here I go...”

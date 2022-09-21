@@ -1,0 +1,7 @@
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「ふぅ……少し冷えてきたね。寒くない？」=“Fuu... it's starting to get a bit chilly. Do you feel cold?”
+「大丈夫ですが……正直、これが原因で風邪を引くのはワロエナイ」=“I'm alright but... honestly, if I catch a cold from this, that would be real comedy.”
+「はは、間抜けっぽいもんね。風邪引かないうちに帰ろうか」=“Haha, does sound pretty idiotic on the face of it, doesn't it? Let's head home before you catch a cold.”
+「任務了解、なんだなぁ」=“Roger, desu.”

@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「クックック、下等生物どもめ……」=“Kuh kuh kuh, insects, the lot of them...”
 「[H名]……また変なこと考えてるの？」=“[H]... thinking weird stuff again?”
 「ふっ、我が世界征服を果たせば、ここから見える景色全てが我のものになる……そう思うと気が昂ぶってしまったのだ」=“Fuh--, once I conquer the world, this whole scenery will come under my domain... thinking of that made me incredibly excited.”
@@ -5,6 +8,8 @@
 「っぷ！　ふふふ、そっか。そうだよな……」=“Puh! Fufufuh, I see. Of course...”
 「む～、何を笑っているのだ」=“Muh~, what art thou laughing for?”
 「いや、確かに[H名]の言う通りだと思うよ！　思い出は大事にしないとね」=“Nothing, I think it's exactly as you say, [H]! We gotta treasure our memories.”
+CHOICE:『特にここは、エッチした場所だから大事にしないと』=Especially this place, since we had sex here.
+CHOICE:『これからもこういう場所を増やそう』=Let's keep finding more places to cherish together.
 「特にここは、エッチした場所だから他のとこより大事にしないと」=“Especially this place, we gotta cherish it a lot more, since we had sex here.”
 「ちょっ、突然何を言いだすのだっ！」=“Wha--, what art thou saying, all of a sudden--!”
 「エッチをしたことだって、思い出の１つでしょ？」=“The sex we had should be one of those memories too, no?”
@@ -25,6 +30,3 @@
 「……その為には、汝も一緒でなければならないな……これからも、付き合ってくれるか？」=“...But I cannot achieve that, without thee by my side... will you stay by my side?”
 「ああ、もちろんだよ。俺たちは魂の同士だからな」=“Yeah, of course. Our souls are bound, afterall.”
 「う、うん！　……えへへ」=“Y-Yeah!... Eheheh.”
-
-CHOICE:『特にここは、エッチした場所だから大事にしないと』=Especially this place, since we had sex here.
-CHOICE:『これからもこういう場所を増やそう』=Let's keep finding more places to cherish together.

@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 小太刀=Short Sword
 白木拵え刀=Wooden Sword
 鬼神の金棒=Demon God's Iron Club

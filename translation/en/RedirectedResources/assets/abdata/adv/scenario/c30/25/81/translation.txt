@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「ふふっ、今日もお天気。ね、こうやって二人でご飯食べてると……なんだかピクニックしてるみたいな気分にならない？」=Fufu~, the weather is great today as well. Hey, eating our food together like this... Doesn't it feel like we're on a picnic?
 「分かる分かる。このまま昼寝したくなっちゃうよね」=I know right? It's making me wanna take a nap right here.
 「ダメよ、午後もちゃんと授業に出ないと」=That's no good, you have to attend the noon classes as well.

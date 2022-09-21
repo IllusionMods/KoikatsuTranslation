@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「不思議です。一緒に歩いているだけなのに、胸が温かくなります」=“It's strange. Even though all we are doing is walking together, my chest feels warm.”
 「実は俺も。それに、なんて言えばいいんだろう……ほっとするような気がするよ」=“Mine too, actually. Not to mention, how do I say this... it feels really relieving.”
 「ふふっ。このまま、温かい気持ちのまま帰りましょうか」=“Fufu--. Let's walk home while basking in this warm feeling, shall we?”

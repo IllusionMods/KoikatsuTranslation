@@ -1,4 +1,7 @@
-﻿「んなっ！？　ばっ……お前、ふざけてんのか！？」=W-Wha--!? Idi... are you fucking with me?!
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「んなっ！？　ばっ……お前、ふざけてんのか！？」=W-Wha--!? Idi... are you fucking with me?!
 「ふざけてこんなこと言うわけないだろ。本当に好きなんだよ」=Even I wouldn't say such a thing just to fuck with you. I really do love you.
 「そ、そうか……それで私のどこが好きになったんだよ」=I-I see... So which part of me did you fall for anyway?
 「全部だよ。そういうツッパったところも全部含めて好きなんだ」=All of it. Even that unruly side of you, I love all of you.

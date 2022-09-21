@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「ようやく緊張が解れてきたんじゃないか？」=“Looks like someone's finally worked through all that stress.”
 「おかげさまでって感じかな。いつも付き合ってもらってるし」=“Thanks to you. Thanks, you're always going out of your way for me.”
 「つ、付き合ってって……ま、まだそういう関係じゃ……」=“G-Going out... w-we're not in a relationship like that ye...”

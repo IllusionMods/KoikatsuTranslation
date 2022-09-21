@@ -1,0 +1,13 @@
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「あ～、もう夕方だぁ。まだまだ遊んでたいのに～……」=Ah~, it's already evening. I want to hang out for even longer though~...
+CHOICE:『俺もまだ遊んでたい』=『I want to hang out more too』
+CHOICE:『暗くなる前に帰ろうか』=『Let's go home before it gets dark.』
+「俺もまだ遊びたいんだ。時間、大丈夫？」=I want to hang out more too. You good on time?
+「うんっ、全然平気だよ」=Yeah--, completely.
+「よかった。実は[H名]と一緒に行きたい場所があるんだ」=Great. There's actually a place I'd like to check out together with you, [H名].
+「どこどこ？　楽しみ～！」=Where're we going? Sounds exciting~!
+「そろそろ遅いし、駅まで送るよ」=It's getting pretty late, I'll walk you to the station.
+「ん……そうだね。それじゃ、駅まで手つないで行こ♪」=Nn... Yeah. Well then, let's hold hands till we get there♪
+「いいね、それ」=Now that's a nice idea.

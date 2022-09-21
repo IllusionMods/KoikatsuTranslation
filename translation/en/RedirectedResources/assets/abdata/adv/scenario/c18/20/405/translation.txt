@@ -1,4 +1,7 @@
-﻿「美味しそうなハンバーグだね」=That hamburg steak sure looks delicious.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「美味しそうなハンバーグだね」=That hamburg steak sure looks delicious.
 「そうですね……お肉の焼ける香りが食欲をそそります……あっ」=It really does... the aroma of the grilled meat's just perfect to whet the... ah--
 ぐぅ～……=*growl*~...
 「……構わず、お先にどうぞ？」=...Don't mind it, just dig in.

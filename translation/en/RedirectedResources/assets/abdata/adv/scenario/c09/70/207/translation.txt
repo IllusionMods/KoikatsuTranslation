@@ -1,0 +1,8 @@
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「ふぅ……まだまだ遊んでたい気持ちはあるけど、流石に帰らないとだね」=“Fuu... I still wanna play around some more but, we really do need to get going, don't we?”
+「うーん、すっごい名残惜しいわ……」=“Nnn, feels super sad...”
+「遊園地って楽しいけど、出ると急に現実に戻る気がするんだよ。まるで、夢から覚めるみたい……」=“The amusement park is fun but, when you leave, reality hits you instantly. Almost feels like waking up from a dream...”
+「そんな言い方しないでよ。なんかデートまで夢みたいじゃない」=“Don't say it like that. You're making even our date seem like a dream.”
+「あ、ごめんね」=“Ah, sorry.”

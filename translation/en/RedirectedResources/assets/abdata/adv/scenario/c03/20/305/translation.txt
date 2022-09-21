@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「ぱちぱちぱちぱちーっ！　今のお歌、すごく良かったですー！」=“*Clap clap clap*! That performance was amazing!”
 「あはは、ありがとう。えーっと……時間、結構延長しちゃったけど大丈夫？　疲れてない？」=“Ahahah, thanks. Erhm... we've extended the clock out a fair bit, are you okay? Tired at all?”
 「えへへ、ちょっとだけ……少し休憩してもいいですか？」=“Eheheh, just a bit... do you mind if we take a small break?”

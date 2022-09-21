@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 タイプ５４=Type 54
 タイプ５５=Type 55
 タイプ５６=Type 56

@@ -1,5 +1,9 @@
-
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+OPTION[0]:はい=Yes
 はい=Yes
+OPTION[0]:いいえ=No
 いいえ=No
 OPTION[1]:平気だね=Nah, you're fine.
 平気だね=Nah, you're fine.
@@ -24,6 +28,7 @@ OPTION[6]:してる=I do.
 してる=I do.
 OPTION[6]:してない=Not really.
 してない=Not really.
+OPTION[7]:する=Yeah.
 する=Yeah.
 OPTION[7]:しない=Nah.
 しない=Nah.
@@ -88,9 +93,16 @@ OPTION[105]:ごめん=Sorry.
 OPTION[106]:暇だよ=Yep, free as they come.
 暇だよ=Yep, free as they come.
 OPTION[106]:ごめん=Sorry.
+OPTION[107]:する=Yeah.
 OPTION[107]:ごめん=Sorry.
 OPTION[108]:いいよ=Alright.
 OPTION[108]:ごめん=Sorry.
+OPTION[109]:はい=Yes
+OPTION[109]:いいえ=No
+OPTION[200]:はい=Yes
+OPTION[200]:いいえ=No
+OPTION[201]:はい=Yes
+OPTION[201]:いいえ=No
 OPTION[202]:いいよ=Alright.
 OPTION[202]:ごめん=Sorry.
 OPTION[203]:いいよ=Alright.

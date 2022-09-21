@@ -1,4 +1,7 @@
-﻿は……恥ずかしい、です=It... It's, embarrassing.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+は……恥ずかしい、です=It... It's, embarrassing.
 ドキドキします……=My heart's racing...
 触らない、んですか？=Are you, not going to touch me?
 ねぇ……早く触って……=Hey... touch me already...
@@ -510,7 +513,7 @@
 んぁ……奥から、きちゃい……そうに……=Nnah... something's coming... from deep inside...
 ん……どんどん、よくなっちゃって……=Nn... it's feeling, better and be...
 ※本棚対面愛撫（こそこそ）の絶頂と同じ=※Same as the (secret) library bookshelf face-to-face fondling climax.
-こんなことするなんて……うぅ、ひどいです～……本気で嫌がっているわけではありません=Doing this sort of thing... uu, you're horrible~... I didn't mean that.
+こんなことするなんて……うぅ、ひどいです～……//本気で嫌がっているわけではありません=Doing this sort of thing... uu, you're horrible~... I didn't mean that.
 はぁ……ほ、本当は……ダメなんですからね？=Haah... j-just for the record... this stuff isn't okay, got it?
 え、エッチしたくなったからって……よくないですよ、もう……=J-Just because you felt horny... it's not a good thing, you know, jeez...
 ん……おまたがヌルヌルに……あなたがこうしたんですからね？=Nn... my crotch is so wet... you're the one who made it like this, okay?

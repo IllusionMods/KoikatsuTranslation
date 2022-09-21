@@ -1,1 +1,4 @@
-﻿「自分じゃあんまり買わないかな～、でもまぁ、ありがとね」=I wouldn't really go out of my way to buy this~, but well, thanks.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「自分じゃあんまり買わないかな～、でもまぁ、ありがとね」=I wouldn't really go out of my way to buy this~, but well, thanks.

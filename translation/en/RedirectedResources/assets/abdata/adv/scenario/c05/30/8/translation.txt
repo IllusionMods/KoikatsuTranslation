@@ -1,4 +1,6 @@
-
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
 「え、えっち……。それってあの、えっち？」=“S-sex... do you mean, that stuff?”
 「うん。それであってると思う。だめ？」=“Yeah. What you're thinking, probably. No dice?”
 「だめ……じゃない。えっち……してみたい」=“I didn't... say that. I want to... try it.”

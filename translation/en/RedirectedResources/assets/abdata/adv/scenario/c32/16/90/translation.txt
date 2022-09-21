@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「あなたに相談があります。実は……一度あなたを愛称で呼んでみたいのですが」=There's something I'd like to ask your opinion on. Essentially... I want to try calling you by a nickname, just once, if possible.
 「そんなことなら、いつでもどうぞ」=Something like that, you don't need to ask permission for, you know? Go ahead at any time.
 「では、呼ばせて頂きますね。……[Pあだ名]」=Well then, I'll do so.[Pあだ名]

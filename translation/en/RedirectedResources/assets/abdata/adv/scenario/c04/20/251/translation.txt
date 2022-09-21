@@ -1,3 +1,6 @@
-﻿（ふぅ……もうすぐ駅か。今日のデートも良い思い出が作れたな）=(Fuu... almost at the station, huh? Today's date made for some great memories too.)
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+（ふぅ……もうすぐ駅か。今日のデートも良い思い出が作れたな）=(Fuu... almost at the station, huh? Today's date made for some great memories too.)
 （観覧車ではキスを交わして、いい雰囲気になれたし……）=(We got such a nice mood going at the end there, and we even kissed...)
 （……うん、この次も絶対[H名]を楽しませるデートにしよう！）=(...yeah, let's make the next one yet another one that [H名] will enjoy!)

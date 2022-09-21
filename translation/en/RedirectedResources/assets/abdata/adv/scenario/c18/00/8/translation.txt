@@ -1,4 +1,7 @@
-﻿「そ、そういう事はもっと親密な関係にある人がするものじゃ……」=S-Shouldn't only people with a deeper relationship than others do that sort of...
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「そ、そういう事はもっと親密な関係にある人がするものじゃ……」=S-Shouldn't only people with a deeper relationship than others do that sort of...
 「わかってる。でも、きみとしたいんだ」=I know. But, I wanna do it with you.
 「そ、そんな事を言われましても……そもそも、私なんかでいいんですか？」=E-Even if you say that... to begin with, are you fine with someone like me?
 「もっと、可愛い女の子が……いると思うんですけど」=I feel like there are more... cuter girls out there.

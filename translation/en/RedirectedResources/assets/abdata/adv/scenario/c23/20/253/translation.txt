@@ -1,13 +1,15 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「どんどん人が……悪いんだけど、詰めてもらってもいいかな？」=“People keep coming on and on... sorry but, mind if I squeeze in a bit more?”
 「ええ。しかし、息苦しいですな……ぎゅぅ」=“Not at all. But, this is getting a bit crowded for me... *squeeze*”
 「もう少し余裕ができるといいけど……うおっ」=“Just bear with it for a... uwoh--”
 （あっ……[H名]の身体、やわらかい……って、まずいっ、股間が反応してしまう）=(Ah--... her body, is so soft... wuh, damn, my crotch is gonna react)
+CHOICE:『少し我慢する』=Endure it a bit.
+CHOICE:『必死に堪える』=Endure it desperately.
 （さ、さすがに、勃たせるわけには……あぁ、でも……[H名]、いい匂いがして、クラクラする……）=(P-Popping a chub here, would be really... aah, but... she smells so nice, I'm going dizzy...)
 「……おや？　ふふ、こんな所にこんなものが」=“...Oh? Fufuh, such a thing, in such a place.”
 「ちょ、[H名]何をして……！？」=“Wai--, what are you...!?”
 「心配しなくても大丈夫ですぞ。全てワタシにお任せあれ、なんだなぁ……」=“You don't need to worry. Leave it all to me...”
 （き、気持ちいいけど……ここは絶対に我慢しないと！）=(I-It feels good but... right now is really not the best time!)
 （平常心だ……今の俺は何も感じないぞ……）=(I am in control... I feel nothing...)
-
-CHOICE:『少し我慢する』=Endure it a bit.
-CHOICE:『必死に堪える』=Endure it desperately.

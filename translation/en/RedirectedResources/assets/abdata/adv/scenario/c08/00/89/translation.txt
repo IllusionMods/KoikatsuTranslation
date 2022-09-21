@@ -1,4 +1,7 @@
-﻿「ちょっとお願いがあるんだけど……いいかな？」=I've got a bit of a request... mind hearing me out?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「ちょっとお願いがあるんだけど……いいかな？」=I've got a bit of a request... mind hearing me out?
 「うん、どうしたの？」=Sure, what's up?
 「突然だけど、俺のことを愛称で呼んでほしいんだ！」=I know it's sudden but, I want you to call me by a nickname!
 「なぁんだ、そんなことか！　いいよー！　そうだ、せっかくだし、愛称、付け合いっこしようよー！」=What, just that sort of thing? Sure! Right, since we're doing this, let's give each of us a nickname!

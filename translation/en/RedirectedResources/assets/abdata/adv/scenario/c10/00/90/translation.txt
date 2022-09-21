@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「汝よ、喜ぶがいい！　汝に新しい名を与えてやる！」=“Rejoice, sir! I shall give thee a new name!”
 「新しい名？　えっと……愛称、ってこと？」=“A new name? Erhm... you mean a nickname, or something?”
 「うむ。……とはいえ代償なしで名を与える訳にはいかん、我の名も考えるがよい」=“Umu. ...However, it would not do for us to have a one-sided contract, so thou must think of one for me as well. A bit of quid pro quo.”

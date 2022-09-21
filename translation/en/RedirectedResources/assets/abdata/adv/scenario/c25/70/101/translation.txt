@@ -1,0 +1,23 @@
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「ん～、新緑の良い香りがする～」=Nn~, the scent of newly grown plants is so nice~
+「たまにはお散歩するのも楽しいね～」=Talking a walk every so often is pretty fun too, isn't it~
+「そうだね。歩いてるだけで、俺も心が安らぐよ。自然に癒されてるって感じがする」=Yeah. Just walking around here, makes my heart feel at ease. Feels like I'm being healed by nature.
+「……でも、俺一人じゃここに来ようと思わなかったから、今日はデートしてくれて本当に感謝してるよ」=...But, I'd have never thought to come here by myself so, I'm really thankful that you came out with me on a date today.
+「お礼なんていいっすよ～、私がデートしたいと思ったから来たんだし～」=You don't need to be thankful and stuff~, I came because I wanted to go out on a date myself~
+「いやぁ、そう言って貰えるなんて嬉しいな」=Man, hearing that makes me really happy.
+「まあ、私もいつも部屋でゴロゴロしてるからね～」=Well, I'm always lazing about at home too, afterall~
+「キミが誘ってくれなかったら、豊かな自然に触れ合う事もなかったよ～」=If you didn't go out of your way to ask me out, I wouldn't have been able to experience this either~
+「それなら良かった。デート先を公園にして正解だったよ」=I'm glad, then. Looks like I made the right decision by picking this place for our date.
+「ふぅ……もうダメだぁ～」=Fuu... I can't anymore~
+「あれ……？　どうしたの…？」=Huh...? What's the matter...?
+「充電切れっす～、もう動けな～い～」=I'm out of battery~, can't move no mo~
+「えぇ！？　さっきまで元気だったじゃん！　ちょ、倒れこもうとしないで！」=Eeh?! You were so full of energy just a few moments ago! Hey--, don't collapse on me!
+「えー、どこかにー……あっ、そこにベンチがあるから、あっちで休憩しよ」=Eh, a place to... ah--, there's a bench over there, let's take a break there.
+「わかった～♪」=Got it~♪
+「じゃあ、行こうか……って、なんで動こうとしないの？」=Then, let's go... uh, why aren't you coming?
+「え～、引きずってくれないんすか～？」=Eh~, not gonna drag me with you~?
+「[H名]が恥とか汚れとか気にしないならいいけど」=Well, if you don't mind everyone seeing us like that or you getting dirty then I don't really mind either, I guess.
+「それは嫌っすね。じゃあ～、お姫様抱っこで～♪」=That does sound pretty unappealing. Well then~ carry me in your arms~♪
+「はぁ……ベンチまで俺の体力が保つかな……」=Haa... I wonder if I'll be able to hold on till we get to the bench...

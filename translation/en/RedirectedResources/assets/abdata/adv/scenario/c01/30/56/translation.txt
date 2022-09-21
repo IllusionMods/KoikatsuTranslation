@@ -1,4 +1,6 @@
-
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
 「……えっ。すみません、私の聞き間違えでしょうか、今『別れたい』と……」=“...Eh--. I'm sorry, did I mishear? I think you just said that you want to...”
 「聞き間違えじゃないよ。ごめん……」=“You didn't mishear. I'm sorry...”
 「あっ、そ、その……どうか顔を上げてください。私に至らないところがあったのですよね……？」=“Ah--, u-uhm... please raise your head. I must have failed you in some way, right...?”

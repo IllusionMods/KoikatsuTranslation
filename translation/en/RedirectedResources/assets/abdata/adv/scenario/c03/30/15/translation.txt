@@ -1,4 +1,6 @@
-
-//「あ……おはなのです。勝手にシャワー借りちゃったですよ。ごめんなさいです」=
-//「全然！　気にしなくていいよ。目、覚めた？」=
-//「はいです！　シャワーよりも……お風呂上がりのこの姿をあなたに見られてることで……目が覚めちゃったですよ……はぅ……」=
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「あ……おはなのです。勝手にシャワー借りちゃったですよ。ごめんなさいです」=“Ah... good morning. I borrowed your shower without asking. I'm sorry.”
+「全然！　気にしなくていいよ。目、覚めた？」=“Don't even mention it! Seriously. So, feeling awake then?”
+「はいです！　シャワーよりも……お風呂上がりのこの姿をあなたに見られてることで……目が覚めちゃったですよ……はぅ……」=“Yes! Really, more than the shower... showing you this sight... woke me up the best... hauu...”

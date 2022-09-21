@@ -1,9 +1,15 @@
-﻿………………=.........
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+………………=.........
 …………=......
 ……=...
 「今日はいろいろと楽しかったっすね～」=Today was a lot of fun, wasn't it~
 「うん。とても充実した一日だったよ」=Yeah. It was a really productive day.
 「……これで解散、だよね～？」=...We're gonna, split off here, aren't we~?
+CHOICE:『自宅に誘う』=『Invite to your place』
+CHOICE:『ラブホに誘う』=『Invite to love hotel』
+CHOICE:『さよならする』=『Say goodbye』
 「……えっと、よかったら俺の家に来てくれないかな？」=...Erhm, if you'd like, won't you come to my place?
 「ん～、キミの家でデートの続きをするのも、悪くないね～」=Nn~, continuing our date at your place, that doesn't sound so bad~
 「ってことは……」=So that means...
@@ -23,7 +29,3 @@
 「んっ……」=Nn--...
 「わっ……！　[H名]……？」=Wah--...! [H名]...?
 「んふふ～、お別れのキスを忘れてたんだ～。じゃあ、またね～」=Nnfufu~, you were missing our parting kiss~. Well then, see ya~
-
-CHOICE:『自宅に誘う』=『Invite to your place』
-CHOICE:『ラブホに誘う』=『Invite to love hotel』
-CHOICE:『さよならする』=『Say goodbye』

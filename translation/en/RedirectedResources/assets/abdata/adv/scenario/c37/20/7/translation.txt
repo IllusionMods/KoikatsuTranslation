@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「………………」=“.........”
 「あ、あの……？」=U-Uhm...?
 「……っはい、晴れて恋仲という事ですね、わかりました」=......--Yes, so we're going to have a formal love relationship, is that right? I understand.

@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「ねぇ、これ……家庭科の授業で作ったの。食べて……くれる？」=“Hey, this... I made it during home ec. Will you... eat it?”
 「あなたにあげる特別な理由はないけど……。後で感想、聞かせてね」=“I don't have any special reason for giving it to you but... Let me know how you like it later, okay?”
 「……やっぱり感想はいい！　おいしくないって言われたら、落ち込んじゃう」=“...Actually, nevermind, forget that last bit! I'll just get depressed, if you don't like it so, I don't want to hear it.”

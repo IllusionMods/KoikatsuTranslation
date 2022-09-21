@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「素敵なお部屋ね～。二人で楽しい時間が過ごせそう」=“What a lovely little room~. We could have such a nice fun time in here.”
 「はは、カラオケ、あまりこないの？」=“Haha, don't come to Karaoke often?”
 「ううん、歌うのは大好きよ。みんなで元気を分けあう感じがいいのよね」=“I do, I love singing. Sharing the excitement with everyone feels great, doesn't it?”

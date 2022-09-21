@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「俺たちって愛称呼びとかしないよね」=“We don't really have any nicknames or anything for each other, do we?”
 「そうだねぇ、不思議と考えなかったというか……」=“Now that you say it. For some reason, it never crossed my head...”
 「そこで、ちょっと愛称呼びを試してみようとおもうんだけど、どう？」=“Me neither, so I was thinking that maybe we could give it a shot and see how we like it. How about it?”

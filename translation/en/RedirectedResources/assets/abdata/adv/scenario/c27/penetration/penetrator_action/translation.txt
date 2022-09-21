@@ -1,1 +1,4 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「ふ、二人がしてるの見てたら、我慢できなくなって……その、私も入れてくれない？」=“Fuh, I couldn't hold it in anymore, watching you guys do it... uhm, could you let me join in?”

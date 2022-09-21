@@ -1,4 +1,7 @@
-﻿い、今から君と……繋がっちゃうんだね=W-We're going to be... connected, huh?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+い、今から君と……繋がっちゃうんだね=W-We're going to be... connected, huh?
 今日も君とくっつけるんだね=I'll get to cling to you today too, huh?
 わぁ、君、もう元気いっぱいだ=Wah, you're already raring to go.
 ふふっ、早く君と一つになりたいなー=Fufu--, I want to become one with you already~

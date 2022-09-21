@@ -1,4 +1,7 @@
-﻿「さて、と。次はどこに行こうか」=Now then. Where do you wanna go next?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「さて、と。次はどこに行こうか」=Now then. Where do you wanna go next?
 「そうだな～……ん？　なんだかい～い匂いが……？」=Good question~... Hm? I feel like I can smell something real~ nice...?
 「あっ、こんなところに屋台があったのか。……おお、ホットドッグだ！」=Ah--, I didn't know they had food stalls here. ...Ooh, they've got hot dogs!
 「……な、なあ、今、聞こえたか？」=......H-Hey, did you hear that just now?
@@ -8,7 +11,7 @@
 ………………=.........
 「うーん、ホットドッグっていっても、結構種類があるんだなー」=Hmmm, even amongst hot dogs, there's all sorts, huh?
 「私、これ食べてみたい」=I wanna try this.
-「ん？　『辛すぎてごめんねっ！！　激辛チリソースホットドッグ』だって？」=Hm? 『Sorry if it's too spicy--!!　Super Spicy Chilly Sauce Hot Dog』
+「ん？　『辛すぎてごめんねっ！！　激辛チリソースホットドッグ』だって？」=Hm? 『Sorry if it's too spicy--!! Super Spicy Chilly Sauce Hot Dog』
 「『ごめんねっ』て……なんかすでに謝ってるぞ」=『Sorry』... They're already apologizing for it and we haven't even bought it.
 「いいだろ、宣伝文句にひっかかるなよ。私これにするけど、[P名]は何にするんだ？」=Sounds like a challenge. I'll go with this one, what about you, [P名]?
 「じゃあ、俺も同じのでいくよ。実は俺も辛いのは結構好きでね」=Then, I'll go with the same one. I like spicy food myself.

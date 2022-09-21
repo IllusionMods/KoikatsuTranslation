@@ -1,4 +1,9 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「気付けば結構な時間ね……この後は、どうしましょうか？」=It sure became late pretty fast... Now then, what should we do now?
+CHOICE:『よければ、まだ一緒にいたいな』=If it's alright, I wanna be together for longer.
+CHOICE:『真っ暗になる前に帰った方がいいかな……』=It'll be good to go home before it gets pitch black.
 「[H名]さえよければ、まだ一緒にいたいな。……時間って大丈夫？」=If it's alright with [H名], I wanna be together for little longer... Are you okay for time?
 「ええ、もちろん大丈夫よ。今日はキミのためだけに時間をとってあるもの」=Yes, of course that's fine. I set aside the whole day to spend time with you.
 「本当？　嬉しいなぁ」=Really? That makes me happy.
@@ -13,6 +18,3 @@
 「え？　何か言った？」=Eh? Did you say something?
 「ううん、何でもないわ。それより、手を繋いで送ってくれるんでしょ？」=No, nothing. That aside, didn't you say you were going to walk me home while holding hands?
 「あ、うん……きちんと送り届けるよ」=Ah, yeah... I'll properly drop you off.
-
-CHOICE:『よければ、まだ一緒にいたいな』=If it's alright, I wanna be together for longer.
-CHOICE:『真っ暗になる前に帰った方がいいかな……』=It'll be good to go home before it gets pitch black.

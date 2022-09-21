@@ -1,1 +1,4 @@
-﻿「うぎゃ！？　ってキミかー。……へへー、もっとよく見たくないか？」=Ugyah!? Oh, it's you. ...Hehe, don't you wanna get a closer look?
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「うぎゃ！？　ってキミかー。……へへー、もっとよく見たくないか？」=Ugyah!? Oh, it's you. ...Hehe, don't you wanna get a closer look?

@@ -1,4 +1,7 @@
-﻿「あのよ……そろそろ私ら、愛称で呼び合わないか？」=Listen, uhm... isn't it about time for us to start calling each other by nicknames?
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「あのよ……そろそろ私ら、愛称で呼び合わないか？」=Listen, uhm... isn't it about time for us to start calling each other by nicknames?
 「いいけど……どうしたの？　急に」=Sure but... why so suddenly? Something the matter?
 「いや、特に理由はねぇけどよ……新しい刺激が欲しいっていうか？」=No, there's no reason in particular, it's just... I just want some novel stimulation, I guess?
 「なるほどね……じゃあ、ちょっとお互いの愛称を考えてみよっか」=I see... let's think of some good nicknames for each other then.

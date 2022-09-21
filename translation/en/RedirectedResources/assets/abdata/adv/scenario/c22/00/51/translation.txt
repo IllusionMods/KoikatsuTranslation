@@ -1,1 +1,4 @@
-﻿「え？　今日はここまでなの……？　あっ、ううん、えへへ、気持ち良かったよ」=Eh? Are we only going this far today...? Ah--, no, ehehe, it felt great.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「え？　今日はここまでなの……？　あっ、ううん、えへへ、気持ち良かったよ」=Eh? Are we only going this far today...? Ah--, no, ehehe, it felt great.

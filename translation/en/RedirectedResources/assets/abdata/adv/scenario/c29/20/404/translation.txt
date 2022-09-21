@@ -1,4 +1,7 @@
-﻿「[H名]が頼んだの、美味しそうだね」=The stuff you ordered looks pretty delicious, [H名].
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「[H名]が頼んだの、美味しそうだね」=The stuff you ordered looks pretty delicious, [H名].
 「メニューを見てすぐに決めました。これしかないと思ったんです」=The moment I looked at the menu, I knew that I just had to get this. So I did.
 「では、いただきます……あむっ」=Well then, I'm digging in... *bite*--
 「……んっ……ふふふふっ」=...Nn--... fufufufu--

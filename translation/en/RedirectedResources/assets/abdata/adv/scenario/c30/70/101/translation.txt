@@ -1,0 +1,25 @@
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「さて、公園に着いたけど、何をしようか？」=Well, here we are, at the park. What should we do?
+「ん？　別に何かをしようと思う事はないんじゃない？　私はキミと一緒にいられたら幸せだし」=Hm? It's not like we have to do anything in particular though? Just being with you makes me happy.
+「それは俺もだけど……流石に二人でボーっとしてるのも……ね？」=While I feel the same way... Isn't just standing here doing nothing a bit... eh?
+「確かにちょっと間抜けかも。でも、恋人同士なら、そういうのもアリだって思わない？」=We probably look like idiots. But, since we're lovers anyway, is there a problem with that?
+「恋人同士だからこそ色々したくなるんじゃないかな……公園なんて、友達同士じゃあんまりこないし」=It's because we're lovers that I was thinking of doing something... but then again, if we were just friends we wouldn't have come to the park in the first place.
+「そう、それよ。友達同士って、あくまでやる事が一緒だったりとか、何か一緒の目的がないと集まりにくいじゃない」=Yep, that's right. Don't friends hate coming together unless they have a common goal or absolutely need to do something together?
+「そうだね。共通の目的っていうか、何かするって決まってないと集まる事すらないかも」=You're right. Rather than have a common goal, they wouldn't just come together unless they have plans.
+「でしょう？　私、そういうのちょっと寂しいなって思ってたのよね。でも、恋人同士なら、そうじゃないでしょ？」=Right? Although I do think that's a bit of a lonely way to look at it. But since we're lovers, that's not the case, right?
+「うん、一緒に何をしたいとかじゃなくて、とにかく[H名]と一緒にいたいって気持ちの方が強いからね」=Yeah, rather than wanting to do something with you, I just feel like being there by your side, [H名].
+「よかった、同じ考えでいてくれて。違うって言われたら、お姉さん泣いちゃってたかも……」=I'm glad that you feel the same way. If you said something else, onee-san would have started crying on the spot...
+「えっ！？　そこまで？」=Eh!? That much?
+「ふふっ、ちょっと大袈裟かもしれないけど、嬉しかったのは本当よ。だから、今日は『何もしない』をしましょう？」=Fufu, that may have been a bit of an exaggeration, but its true that I'm very happy. That's why, instead of racking our brains, let's just "do nothing" today instead, okay?
+「わかった。でも話すくらいはいいよね？　それとも本当に二人でボーっと空でも眺めてる？」=I understand. But is just talking really okay? Or did you really wanna just stand here staring at the sky in a daze?
+「二人でボーっとするのも、やってみたら面白いかもしれないわよ？　でもそうね、私もお話はしたいわ」=Wouldn't just standing there in a daze be pretty interesting though? But yeah, I'd prefer talking.
+「じゃあ、あそこのベンチにでも座って、今日はゆっくりする感じにしようか」=Then, let's go sit on that bench over there, and just take it slow for today.
+「ええ、そうしましょ。あ、あっちに出店があるわね。何か買って、二人で食べましょうよ」=Alright, let's do that. Ah, there's a food stand over there. We should buy something and eat together.
+「はは、何もしないんじゃなかったの？　それとも、食欲には勝てなかったかな？」=Haha, what happened to doing nothing all day? Or is it that your appetite won in the end?
+「むぅ、意地悪言わないのっ……そんなにお姉さんを泣かせたいの？　んもぅ……」=Mmuu, don't bully your onee-san... Do you really wanna see me cry that much? Geez...
+「えぇっ、ごめんごめん！　変な事言ったお詫びに、出店で何か奢るからさ……それで機嫌直してくれる？」=Ehh, sorry, sorry! For saying something strange, as an apology, I'll treat you to something from the food stall... Will that make us even?
+「えっ、そこまでしてくれちゃうの？　あ、そうだ！　じゃあキミの分は私が奢っちゃう！　どう？　いいかな？」=Eh, you're willing to go that far? Oh, I know! Then I'll buy something for you too! How's that? Isn't that a good idea?
+「う、うん、いいけど……はは、なんだか面白い事になったね」=Y-yeah, that's fine but... Haha, somehow this become something really interesting.
+（ほんと……[H名]と一緒にいるだけで、何をしていても楽しいな……）=(Really... With [H名] at my side, everything turns into such a blast...)

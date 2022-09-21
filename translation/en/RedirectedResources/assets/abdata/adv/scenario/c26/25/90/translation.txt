@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「ねえ……愛称で呼び合ってみたい」=“Hey... I want us to try using nicknames.”
 「いいね。じゃあお互いの愛称を考えてみよっか」=“Sounds fun. Then, let's think of nicknames for each other.”
 「……どんなのがいいんだろう？」=“...What sort would be nice?”

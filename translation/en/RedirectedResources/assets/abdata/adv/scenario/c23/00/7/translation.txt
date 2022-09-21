@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「あわ、あわわゎ。これは恋愛アニメで言う、ここここくはくぅぅぅでは？」=“Awah, awawawah. Is this one of those, so called c-c-c-confessions? From all those romance anime?”
 「そうだよ。いま君にしてるところ」=“That's right. And you're the lucky girl.”
 「あなたが、ワタシにっ！？　ほ、本当に？　チラッチラッ」=“You, confessing to me!? R-Really? *sparkle sparkle*”

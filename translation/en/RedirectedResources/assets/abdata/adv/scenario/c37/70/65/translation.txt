@@ -1,0 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「男性と一緒に帰るのは初めてです」=This is my first time walking home with a boy.
+「そっか。どんな気分かな？」=I see. How does it feel?
+「悪くありません。隣りにいるのがあなただからでしょうか？」=It doesn't feel bad. Is it because you're the one by my side, I wonder?

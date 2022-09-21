@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 観葉植物1=Decorative Plant 1
 観葉植物2=Decorative Plant 2
 観葉植物3=Decorative Plant 3

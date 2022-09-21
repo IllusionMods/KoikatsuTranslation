@@ -1,4 +1,6 @@
-
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
 「今、ちょっと話しても大丈夫かな？」=“Hey, do you mind chatting with me for a bit?”
 「私に！？　……別にいいけど……何の用？」=“Me!? ...I mean, not really... what do you need?”
 「特に用があるってわけじゃないんだけど……君と話がしてみたくてさ」=“It's not like I have something I specifically need from you... I just felt like chatting with you.”

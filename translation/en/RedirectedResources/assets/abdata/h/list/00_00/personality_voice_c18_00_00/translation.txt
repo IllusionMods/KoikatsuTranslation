@@ -1,4 +1,7 @@
-﻿あなたを信じて……すべて、まかせます=I'll believe in you... and leave everything to you.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+あなたを信じて……すべて、まかせます=I'll believe in you... and leave everything to you.
 やっぱりまだ……照れますね=This still... makes me blush.
 ふたりで、たくさん愛し合いましょう=Let's make lots of love to each other.
 大好きなあなたになら……何されてもいいですよ=If it's by your hand, my love... I don't mind whatever you do.

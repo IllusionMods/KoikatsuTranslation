@@ -1,4 +1,7 @@
-﻿「はぁぁ……やっぱりここは綺麗なん……キラキラしてて吸い込まれそうになるん……」=Haa... this place really is beautiful... It's so sparkly, I feel like I'm going to get swallowed up...
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「はぁぁ……やっぱりここは綺麗なん……キラキラしてて吸い込まれそうになるん……」=Haa... this place really is beautiful... It's so sparkly, I feel like I'm going to get swallowed up...
 「この辺り一番の夜景スポットだもんね。俺も好きだなぁ……なんだか落ち着くよね」=It's the spot with the best view of the night sky in the area, afterall. I love it too... It's really calming, for some reason.
 「うんっ！　前に言った通り、君と一緒っていうのもあるんやけど……やっぱり素敵なん……」=Yeah--! Like I said before, part of it is that I'm with you too... but it really is beautiful...
 「私……こっちに引っ越してきた時、都会ってどんなところなんやろうって不安やったっちゃけど……やっぱり都会には都会のいいところがたくさんあるっちゃんね」=When I... When I first moved here, I was all anxious and stuff, over just what kind of place the big city was but... I guess a big city would have it's own spots worthy of a big city.
@@ -11,6 +14,8 @@
 「はぅっ……いきなりそげんこと……もう……ますますほっぺた熱くなるやん……恥ずかしくて……君のこと、見られんくなる……」=Hauu--... springing that out of nowhere... jeez... my cheeks are gonna get hotter and hotter... I'm so embarrassed... I can't look at you...
 「[H名]……」=[H名]...
 （どうしよう……こんな表情をされたら……）=(What do I even do... If she looks at me like that...)
+CHOICE:『今日もエッチに誘ってみる』=『Try inviting for sex today too』
+CHOICE:『我慢して駅へと戻る』=『Endure it and return to the station』
 （またここで、したくなる……）=(I'll want to, do it again here...)
 「あ、あのさ、[H名]……実は……」=L-Listen, [H名]... To be honest with you...
 「はぅっ！？」=Haauu--!?
@@ -32,6 +37,3 @@
 「もちろん！　夜景だけじゃなくて、一緒に色々な場所へ行こう。[H名]とだったら、どこにでも行きたいよ」=Of course! Not just this night view but, let's go to all sorts of places together. If it's with you, I want to visit all sorts if places.
 「あ……えへへ、そう言ってもらえると安心するん。私も……君と一緒に色々なところが見たい。これからもずっと楽しみにしとるけんね」=Ah... ehehe, hearing you say that gives me peace of mind. I too... want to see lots of places together with you. I'm looking forward to lots of fun times together in the future.
 「うん、約束するよ」=Yeah, I promise you.
-
-CHOICE:『今日もエッチに誘ってみる』=『Try inviting for sex today too』
-CHOICE:『我慢して駅へと戻る』=『Endure it and return to the station』

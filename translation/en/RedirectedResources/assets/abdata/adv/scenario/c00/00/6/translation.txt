@@ -1,3 +1,6 @@
-﻿「私でいいの？　わかったわ。でも、どこへ行くの？」=You sure you're fine with me? Okay. But, where are we going?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「私でいいの？　わかったわ。でも、どこへ行くの？」=You sure you're fine with me? Okay. But, where are we going?
 「それはね……まだ秘密」=That's... still a secret.
 「やだぁ、どこへ連れて行かれちゃうのかしら♪」=Gosh~, just where am I going to be taken~♪

@@ -1,4 +1,7 @@
-﻿「柔軟ですか。確かに一人では出来ませんね」=Flexibility, huh? Certainly, it would be hard to do this by yourself.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「柔軟ですか。確かに一人では出来ませんね」=Flexibility, huh? Certainly, it would be hard to do this by yourself.
 「いたっ、痛たたたたた！」=Ow--, Owowowowowow!
 「だ、大丈夫ですか？　私、何かしてしまったのでしょうか……」=A-Are you alright? Did I do something wrong...
 「いや……ただ、出来ればもう少し軽く押して欲しいかな」=No... it's just, a bit less force, if you could.

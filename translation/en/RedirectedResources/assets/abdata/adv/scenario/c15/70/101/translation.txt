@@ -1,0 +1,25 @@
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「やっぱり、天気がいい日の公園は気持ちいいなー」=“Going to the park really does feel great, on days like this, doesn't it?”
+「そうだね。今日は晴れててよかったよ」=“Yeah. Good thing it's completely clear out today.”
+「よーし、せっかく公園に来たし、さっそく運動するぞー！」=“Alright, we came to the park and everything, so let's do some exercise!”
+「おー！」=“Yeah!”
+「……でも、何する？　道具とかは持ってないけど」=“...But, what do we do? We didn't really bring anything.”
+「そうだなー。とりあえず走るとするかー」=“Yeah... Well, let's just run, for now.”
+「走る……って、[H名]！？　いきなりどこ行くの！？」=“Run... wuh, [H名]?! Where are you running off to!?”
+「とりあえず、あっちの噴水まで。あたしに追いつけたら、なにかご褒美をやるぞ！」=“For now, till that fountain. If you manage to overtake me, I'll give you something or other, as a reward!”
+「ご褒美？　よし、そういうことなら、俺も本気で行くよ！」=“A reward? Alright, I guess I'll get off my ass just this once too!”
+………………=.........
+「うぅ……結局、[H名]には追いつけなかった……」=“Uuu... I couldn't overtake you in the end...”
+「あたしも本気で走ったからなー。でも、キミも思ったよりずっとねばってたぞ」=“I was running with my all too, afterall. But, you hung in there for way longer than I thought.”
+「何度も挑戦してくるから、気付いたら大分遠くまで来てるしなー」=“We kept going from one spot after another so, we've actually come pretty far from where we started.”
+「そうだね、でもここに芝があってよかった。寝転がるのにもちょうどいいし」=“Yeah, good thing there's some grass here. Just perfect for lying down and rolling around on.”
+「うん！　走った後、そのまま外で横になるのも気持ちいいもんだなー」=“Yeah! Just lying down after running all over feels pretty nice too, doesn't it~?”
+「ああ、そうだね！　でも、[H名]のご褒美がもらえなかったのは残念だなぁ……」=“Yeah, it does! But, what a shame, I couldn't get that reward...”
+「そんなにしてほしいことがあるなら、言ってくれてもいいんだぞ」=“If you have something that you want me to do that badly, I don't mind hearing you out, you know.”
+「うーん……ありがたいけど、今は疲れてるから、それより休みたいかな」=“Mmm... I appreciate the offer but, I'm real burnt out right now, so I'd rather just rest for now.”
+「たしかに。あたしもさすがに疲れたなー」=“For sure. I'm real tired too.”
+「ふぁ～……それに、こうして芝に寝てたら、なんだか眠くなってきたぞ……」=“Fuwah~... besides, lying down on the grass like this, has kinda started making me sleepy...”
+「それなら、せっかくだから膝枕でもしようか――って、もう寝てる」=“In that case, since we're here anyway, how about I give you a lap pil-- and she's already asleep.”
+（[H名]の寝顔、かわいいな……っと、もう少し見てたいけど、ふぁ～、俺も眠気が――）=(She looks so adorable, asleep like that... man, I wanna keep watching but, fuwah~, I'm starting to feel slee...)

@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「おっ！　もうこんな時間か。そろそろ出ようか」=“Oh--! It's already so late, huh? Let's head out.”
 「そうですな。うーん……色々語れて楽しかったんだなぁ」=“Yeah. Nnn... it was so fun, we chatted about all sorts of stuff~”
 「あ、先に行ってていいよ」=“Ah, you can leave first and wait outside.”

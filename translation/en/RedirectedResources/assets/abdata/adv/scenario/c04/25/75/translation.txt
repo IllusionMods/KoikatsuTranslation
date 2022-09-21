@@ -1,4 +1,7 @@
-﻿「んっ……そこっ、きくぅ……！」=Nn--... there--, that's it...!
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「んっ……そこっ、きくぅ……！」=Nn--... there--, that's it...!
 「ちょ、変な声出さないでよ……」=Hey, don't make such weird sounds...
 （声がエロいから……とは言えない）=(They're really erotic... not that I can say that.)
 「ご、ごめんなさい……身体だけは固くって……」=I-I'm sorry... My body's just so stiff...

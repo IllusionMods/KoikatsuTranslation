@@ -1,4 +1,7 @@
-﻿「あなたといると驚くことばっかりだよ。私とは考え方が全然違うんだもの」=When I'm with you, life's full of nothing but surprises. Your way of thinking is completely different from mine.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「あなたといると驚くことばっかりだよ。私とは考え方が全然違うんだもの」=When I'm with you, life's full of nothing but surprises. Your way of thinking is completely different from mine.
 「まぁ、男と女だしね」=Well, we are different genders, afterall.
 「そうなんだねぇ。私、もっと男の人のこと知りたい」=Right. I want to get to know even more about boys.
 「あなたに、色々教えてもらいたいなぁ」=I'd love it if you would teach me all sorts of stuff.

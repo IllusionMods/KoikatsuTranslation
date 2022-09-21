@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「喫茶店ってさー、この待ってる時間がいいよね」=This sort of time spent waiting in a coffee shop, it's pretty nice, don't you think?
 「そうですね。状況によりけりですけど、今なら同意できます」=Indeed. Though I would say it depends on the circumstances, I agree that it feels pretty nice right now.
 「今なら？　んー……なぜ、今ならオッケーなの？」=Right now? Mmm... Why right now, specifically?

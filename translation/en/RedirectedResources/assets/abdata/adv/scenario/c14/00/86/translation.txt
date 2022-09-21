@@ -1,4 +1,7 @@
-﻿「なーんか最近刺激がねぇなぁ～」=Mmm, I haven't felt any fire lately, man~
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「なーんか最近刺激がねぇなぁ～」=Mmm, I haven't felt any fire lately, man~
 「刺激か……。どうされたいの？」=Fire, huh... What do you want me to do?
 「ん～、なんか無理矢理押し倒されたりとか……ってうわぁ！」=Nn~, I dunno, you could try pushing me down and stuff... --wuh, uwah!
 「こう言う感じに？」=Like this?

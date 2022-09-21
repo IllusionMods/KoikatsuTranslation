@@ -1,4 +1,7 @@
-﻿だ、大丈夫かな？=I-Is this okay?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+だ、大丈夫かな？=I-Is this okay?
 気持ちよくしてあげたいな=I want to make you feel good.
 あは、気持ちよくしてあげるね=Aha, I'll make you feel good, okay?
 もう、気持ちよくても自分だけいかないでね=Jeez, even if it feels good, don't let go by yourself, okay?
@@ -260,7 +263,7 @@
 くちゅ……じゅぷ……我慢しなくていいんだよ？=*suck*... *shlup*... You don't need to hold it in, you know?
 じゅる……じゅる……じゅぽ……じゅぽ……え？　このまま出したいの？　いいよ、いっぱい出してえ=*shlurp*... *shlurp*... *shlop*... *shlop*... eh? You wanna cum like this? Go ahead, cum lots.
 口の中、気持ちいいんでしょ？　いいよあなたの好きなようにしても=It feels good inside my mouth, no? You can use it however you want to, okay?
-う、うん、いいよ……=Y-Yeah, okay...
+う、うん、いいよ=Y-Yeah, okay.
 いいよ……出して……=Sure... shoot it out...
 あん、いいよ、出して、好きな所に出してえ=Ahn, go ahead, shoot it out, wherever you like.
 ああん、いいよ、出して、あなたのせいえきいっぱい出してえ=Aaahn, go ahead, blow your load, give me lots of your semen.
@@ -477,5 +480,3 @@
 うふ、口から精子が出るのを見てまたおちんちん立ってるよ？=Ufu, your dick's getting all hard again from the sight of your semen spilling out of my mouth, you know?
 ああん、こんなに濃くていっぱい出たよ、もう一回出せるよね？=Aaahn, you shot out such thick stuff again, and so much too, so you can go for another round, right?
 （開始時台詞）プールの中でも、エッチなことするんだねぇ=We're gonna do lewd stuff, even in the pool, huh?
-
-う、うん、いいよ=Y-Yeah, okay.

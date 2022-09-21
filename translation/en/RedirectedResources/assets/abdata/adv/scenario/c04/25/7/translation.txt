@@ -1,4 +1,7 @@
-﻿「う～ん……その冗談は、ちょっと面白くないかな」=Nnn~... that's not a very funny joke.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「う～ん……その冗談は、ちょっと面白くないかな」=Nnn~... that's not a very funny joke.
 「冗談なんかじゃないよ、俺はきみが好きなんだ」=It's not a joke, I love you.
 「……本当に？　私でいいの？」=...Really? You're fine with me?
 「本当だし、きみじゃなきゃ駄目なんだ……だから、付き合ってください」=I'm serious, and it's gotta be you, it must be... so please, go out with me.

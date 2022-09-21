@@ -1,2 +1,5 @@
-﻿「あぁ？　私達に混ざろってのかよ……ったく、しゃーねぇなぁ……」=Aah? You're gonna get in between us, huh... jeez, can't be helped I guess...
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「あぁ？　私達に混ざろってのかよ……ったく、しゃーねぇなぁ……」=Aah? You're gonna get in between us, huh... jeez, can't be helped I guess...
 「お、３Ｐでもしよってのか？　はン、面白ぇ、ヤってやろーじゃん？」=Oh, you mean a threesome or whatever? Hah, sounds fun, why not?

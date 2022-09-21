@@ -1,0 +1,29 @@
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+………………=.........
+…………=......
+……=...
+「……もう着いちゃったね」=...We're already here, huh.
+「ふふ、なあにその言い方。まだ別れたくないの？　私はもっと一緒にいたいけど」=Fufu, what's with that tone? Don't want to part just yet? I personally want to be together for longer.
+「えっ、あ、えっと……」=Eh--, Ah, Erhm...
+「選択肢は……そうね、あなたの家に連れてってもらうか……フフッ、それとも、二人でホテル街に消えちゃう？」=The options are... Let's see, either I have you take me to your place... Fufu--, or, shall we disappear for a bit near the love-hotel district?
+（……すごく積極的だ。それだけ今日のデートを楽しんでくれたってことだよな……どうしよう）=(...She's being real assertive. She must have enjoyed today's date a whole lot... What should I do?)
+CHOICE:『自宅に誘う』=『Invite to your place』
+CHOICE:『ラブホに誘う』=『Invite to love-hotel』
+CHOICE:『さよならする』=『Say goodbye』
+「じゃあ……俺の家に来てもらってもいいってこと？」=Then... does that mean you're fine with coming to my place?
+「ええ、もちろん。ここで断ったら、今日あなたとデートしたかった子たちから嫌われちゃうわ。楽しい夜にしましょ♡」=Yes, of course. If I said no here, I'll get hate mail from every girl who also wanted to go on a date with you today. Let's have some fun tonight, shall we?
+「じゃあ、ホテル街に消えちゃおうかな……」=Then, maybe we should spirit away in the love-hotel district...
+「あら、誘導成功しちゃった？　嬉しい誤算ね」=Oh my, did that actually work? A happy miscalculation.
+「ご、誤算なんだ」=A miscalculation, huh?
+「男の子って、女の子が先に言ったことに従うのを格好悪いって思うじゃない？　そこのところ、あなたは普通の男の子と違うってことね」=Don't boys generally think that it's uncool to go along with girls when they bring it up first? In that respect, you're pretty different from normal boys.
+「そうなのかな？」=Is that so?
+「そうなの。ほら、相思相愛の熱愛カップルはホテル街に消えちゃいましょ♡」=Yep. Come on, time for the two passionate lovebirds to vanish in the love-hotel district ♡
+「……今日は、ここでさよならしようかな」=...Maybe we should call it a day here.
+「あら、あえて？」=Oh, you sure you wanna do that?
+「ん……」=Nn...
+「っ……駅前でいきなりキスするのに、今日はおわかれなの？」=--...The way you kissed me out of the blue in front of the station, you sure you wanna part here for today?
+「[H名]さんをヤキモキさせたくて」=I wanted to make you anxious, [H名]-san.
+「あら、意外とイジワルなのね。いいわ、あなたのお望みどおり、とってもヤキモキして帰っちゃう。その代わり、次のデートは大変なことになっちゃうから」=Oh, you sure are quite the bully today. Alright then, just as you want, I'll go home while being super anxious. In turn though, I'll give you one hell of a hard time on our next date, alright?
+「うん、楽しみにしてる。またね、[H名]さん」=Yeah, I look forward to it. See ya later, [H名]-san.

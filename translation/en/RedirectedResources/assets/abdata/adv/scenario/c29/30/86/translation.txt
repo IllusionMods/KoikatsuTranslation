@@ -1,4 +1,7 @@
-﻿「今日は[H]のしたいことを……ってことだけど、なんで外に？」=Let's do something you want to do today... or so I said but, why are we outside?
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「今日は[H]のしたいことを……ってことだけど、なんで外に？」=Let's do something you want to do today... or so I said but, why are we outside?
 「写真です。一緒に写真を撮りましょう」=Photography. Let's take some photos together.
 「うわ、見るからに本格的なカメラ。スマホじゃなくてそれで撮るんだ」=Uwah, an actual honest-to-god camera. We're gonna use this, and not our smartphones, huh?
 「そう。[P]さんと私の思い出を、フィルムに焼き付ける――素敵ではありませんか？」=Precisely. We're going to preserve our memories together, and burn them into film. Does it not sound wonderful?

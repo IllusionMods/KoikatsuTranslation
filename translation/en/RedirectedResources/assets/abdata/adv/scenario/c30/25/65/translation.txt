@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「よく知ってる街でも……一緒に歩く人によって印象が全然違うのね」=Even tho it’s the same city... depending on who you walk with, the impression completely changes doesn't it.
 「どんな風に違うの？」=Different? In what way?
 「キミと一緒だと『男の子だったらああいうお店が好きかしら』とか『ここへ一緒に入るのは可哀想かな』とか考えちゃうの」=If I'm with you, things like "Would guys like that kind of store?" or "I'd feel bad for him if we went in there together" pop into my head.

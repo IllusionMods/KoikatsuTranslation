@@ -1,4 +1,7 @@
-﻿「少し、冷えてきましたね……」=It's started, getting a bit colder, hasn't it...
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「少し、冷えてきましたね……」=It's started, getting a bit colder, hasn't it...
 「だね、さっきまではあんなに熱かったのに」=Sure has, even though it was so hot and steamy just a few minutes ago.
 「はぅ、へ、変なこと言わないでください！　は、早く駅へ行きましょう！」=Hauu, p-please don't stay weird stuff! L-Let's go to the station already!
 「はは、ごめんごめん。それじゃあ、行こうか」=Haha, sorry, sorry. Well then, let's go.

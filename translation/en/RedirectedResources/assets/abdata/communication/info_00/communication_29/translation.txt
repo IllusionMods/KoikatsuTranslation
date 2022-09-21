@@ -1,4 +1,7 @@
-﻿「こ、ここは女子トイレですよ！」=T-This is the girls' toilet, you know!
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「こ、ここは女子トイレですよ！」=T-This is the girls' toilet, you know!
 「きゃっ！　見てはいけません！」=Kyah--! You mustn't look!
 「申し訳ありません。失礼します」=I'm sorry. Excuse me.
 「……なんでしょうか」=...What is it?

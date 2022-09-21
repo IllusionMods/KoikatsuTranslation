@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「……楽しい」=“...It's fun”
 「えっ、何が？」=“Eh--, what is?”
 「……わからない。けど多分、あなたがいるから……だと思う」=“...I don't know. But, it's probably that... you're here, I think.”

@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「ふ～～、少し疲れました。いっぱい歌いましたからね」=Fuu~~, I'm a bit tired. Since we sang so much.
 「そう？　じゃあ、マッサージでもしてあげようか？　なーんちゃって」=That so? Then, how about I give you a massage? Kidding.
 「…………今の発言、つまり……そういうことですか？　今のがサインだった、ということですか？」=...That remark, in other words... Is it that sort of a thing? Was it a signal? A sign?

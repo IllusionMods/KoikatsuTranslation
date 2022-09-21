@@ -1,0 +1,20 @@
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「っと、もうこんな時間だ。盛り上がりすぎて、気が付かなかったよ」=--Oh, it's already almost time, huh? I got so hyped up there, I didn't even notice.
+「そうですね。これからどうしましょう？」=Indeed. What shall we do next?
+CHOICE:『延長していい？』=『Can we extend it?』
+CHOICE:『そろそろ出ようか』=『We should head out』
+「延長していいかな？　俺、まだ歌い足りなくてさ」=Do you mind if we extend it? I've still not had my fill yet.
+「私なら構いませんよ。まだ『今日歌うべき曲リスト』、全部消化してしませんし」=I don't mind at all. I've not finished going through my [Songs I ought to sing today] list either.
+「そ、そんなもの、作ってたんだね……じゃあ、今から延長するって連絡入れるよ」=Y-You even went so far as to make one of those, huh... Then, I'll put in the call for an extension.
+「そろそろ出よっか」=We should head out soon.
+「わかりました。とても楽しい時間でしたね……また来たいです」=Understood. I had an absolute blast... I want to come again.
+「そう、それはよかった！」=I see, that's great!
+「延長はしなくていいかな。このまま時間まで歌って帰ろうか」=I wonder if we need to extend. Let's just sing until our time's up then go home, shall we?
+「ええ。時間までというと……あと一曲といったところでしょうか」=Yes. Though, with the amount of time we have... I suppose we can fit in one more song?
+「せっかくだし、[H名]が歌いなよ。ほら」=Well, you should take this chance, [H名]. Go on.
+「私がですか？　では――最後ですので、気合を入れて歌います」=Me? Well then---- Since this is the last one, I'll sing with my all.
+「いや、そんな身構えなくても……」=No, you don't really need to go that far...
+「もしも今 背中に羽が生えて 大空自由に飛び回れたら～」=『If only I could sprout wings from my back and fly freely in the wide open sky right now~』
+（……まあ、カワイイからいっか）=(... Well, it's cute so who cares)

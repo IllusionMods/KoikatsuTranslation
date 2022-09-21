@@ -1,4 +1,7 @@
-﻿「ねぇ、今いいかな？」=Hey, is it a good time right now?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「ねぇ、今いいかな？」=Hey, is it a good time right now?
 「ん～？　私に何か～？」=Nn~? Need something from me~?
 「暇そうにしてるなって思って。俺は[P名前]って言うんだ」=You just seemed like you were free. I go by [P名前].
 「そっか～って知ってるけどね。ひとりだけの男子、目立ってるもんね～」=I see~, already knew that though. You're the only boy here, you stand out a fair bit~

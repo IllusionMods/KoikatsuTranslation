@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「ねえ、あなたともっと近づこうと思うの」=Hey, I think we should be even closer.
 「えっ！　[H名]さん、そんな、いきなり……」=Eh--! [H名]-san, what's up, all of a sudden...
 「ふふふ、期待させちゃった？　私が言いたいのは、愛称で呼び合ったらお互いの距離が縮まると思ったってこと」=Fufufu, got your hopes up? What I'm trying to say is, I think the gap between us would decrease a lot if we called each other by pet names.

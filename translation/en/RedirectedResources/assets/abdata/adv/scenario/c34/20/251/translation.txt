@@ -1,3 +1,6 @@
-﻿（……ふぅ、もう少しで駅か。今日のデートも楽しかったな）=(...Fuu, almost at the station, huh. Today's date was a blast too)
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+（……ふぅ、もう少しで駅か。今日のデートも楽しかったな）=(...Fuu, almost at the station, huh. Today's date was a blast too)
 （……今日のキスで、もっと[H名]のことが分かった気がする）=(...I feel like I understood [H名] on a deeper level after that kiss)
 （……うん、この次も絶対[H名]とたくさん思い出を作れるようにしよう！）=(...Yeah, gotta do my best to make the next date a memorable one too, for [H名]!)

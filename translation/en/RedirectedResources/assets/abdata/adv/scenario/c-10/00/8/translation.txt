@@ -1,7 +1,11 @@
-﻿櫻井先生のＨＲが終わり、クラスは急にお疲れモードになる。=Sakurai-sensei's home room is over and the class is suddenly in tired mode.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+櫻井先生のＨＲが終わり、クラスは急にお疲れモードになる。=Sakurai-sensei's home room is over and the class is suddenly in tired mode.
 ただ、俺と水瀬さんは違う。むしろ、最近はこの瞬間が一番緊張する。=However, Minase-san and I are different. Rather, this is the moment that makes us the most nervous these days.
 あんなことがあったせいか、ろくに話もできてないし、挨拶してもぎこちない。=Maybe it was because of what happened, but I hadn't been able to talk to her properly, and even when I greeted her it felt awkward.
 （これ、もっと告白しにくくなってないか……？）=(Doesn't this make it even harder for her to open up...?)
+亜依=Ai
 「ねえ」=Hey.
 「わっ！？」=Wha!?
 「ごめん、驚かせちゃった？　って、なんか前もこんなことあったよね」=Sorry, did I scare you? I mean, it's not like this hasn't happened before.
@@ -21,6 +25,7 @@
 「えっ！　あ、うん、そ、そうだね、えへへっ」=Eh! Oh, yes, that's right, ehehee.
 水瀬さんは顔を赤く染めて、でも嬉しそうにうなずいた。=Minase-san's face flushed red, but she nodded happily.
 （……なんだろう。比較的普通に水瀬さんと喋れてる気がする。何かあったのかな）=(... What happened. I feel like I can talk to her relatively normally. I wonder if something happened to her)
+水泳部部長=Swimming Club President
 「あ、来たわね」=Oh, there you are.
 「ご、ご無沙汰してます」=H-haven't seen you for a while.
 「気を楽にしていいのよ。キミは私のお願いを聞いてくれた人なんだから」=You can relax. You're the one who did me a favour.
@@ -87,6 +92,3 @@
 「私と……付き合ってください。私も大好きなキミみたいに、本当に優しい人になりたいから……お願いします！」=I want... please go on a date with me. I want to become a kind person like you, who I love... please!
 ついに俺が返事をする時がやってきた。=It was time for me to respond.
 深呼吸を一つして、水瀬さんへの想いを言葉にする。=I took a deep breath and tried to put my feelings for Minase-san into words.
-
-亜依=Ai
-水泳部部長=Swimming Club President

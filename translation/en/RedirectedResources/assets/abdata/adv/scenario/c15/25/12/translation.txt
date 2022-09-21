@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「おー、やっとその気になったかー」=“Ooh, finally came around to it, huh?”
 「え、やっと、って？」=“Eh, "finally"?”
 「もー、こっちはガマンの限界だったんだぞ！」=“Jeez, I was nearly at the end of my rope here, you know!”

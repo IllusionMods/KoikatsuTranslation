@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「そう言えば……ここのクッキー、おいしいらしいよ」=“Reminds me... the cookies here, seem to be really good.”
 「え！　なんで、もっと早く言わないのよ！　もう注文しちゃったじゃない！」=“Eh! Why'd you not say that sooner! We've already sent out our orders now!”
 「ごめん。今、思い出したんだよ」=“Sorry. I just remembered it now.”

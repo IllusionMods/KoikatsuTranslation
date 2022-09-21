@@ -1,2 +1,5 @@
-﻿「あ……おはようございます。すみません、勝手にシャワーを借りてしまって」=Ah... good morning. I'm sorry, I borrowed your shower without asking.
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「あ……おはようございます。すみません、勝手にシャワーを借りてしまって」=Ah... good morning. I'm sorry, I borrowed your shower without asking.
 「うっ……あまりジロジロ見られると、その……恥ずかしいです」=Uu--... if you stare at me so much, it's uhm... it's embarrassing.

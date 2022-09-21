@@ -1,4 +1,7 @@
-﻿「ここ、どう解けばいいのかな」=How should I go about solving this one?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「ここ、どう解けばいいのかな」=How should I go about solving this one?
 「えっとですね、ここは……あれ？　なんでしたっけ……」=Erhm, you see, this is... huh? How did you solve this one...
 「はは、二人で図書室に行く？」=Haha, wanna hit up the library together?
 「はい。……うぅ、お恥ずかしい」=Yes. ...Uuu, so embarrassing.

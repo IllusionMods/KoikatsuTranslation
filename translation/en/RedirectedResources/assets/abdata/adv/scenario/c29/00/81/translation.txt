@@ -1,4 +1,7 @@
-﻿「あっ……見たことのないおにぎりが……」=Ah--... I've never seen such a rice ball before...
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「あっ……見たことのないおにぎりが……」=Ah--... I've never seen such a rice ball before...
 「コンビニで見つけたんだ。『新発売！』ってポップが出てて」=I got it from the convenience store. Had a signboard saying "New Product!" and everything.
 「…………じーっ」=...*Stare*.
 「一口食べる？」=Want a bite?

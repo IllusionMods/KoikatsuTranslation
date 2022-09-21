@@ -1,6 +1,10 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「ん……このみちゃん？」=“Hmm....? Konomi-chan?”
 放課後、中庭を通りかかると、見覚えのある姿が必死にチラシ配りをしていた。=As I was walking past the courtyards after school, I saw a familiar face trying her best to distribute flyers.
 その様子からすぐにこのみちゃんだと分かるけど、不思議なことに今日はコスプレをしていない。=I immediately could tell that it was Konomi-chan but strangely, she wasn't in her cosplay today.
+このみ=Konomi
 「あ……あの……漫研部……です……」=“He-hello... We're the... Manga Club...”
 先日会った時と同じように、おどおどした様子で、声もほとんど聞き取れない。=Like she was when I last met her the other day, she was quite bashful and her voice was barely audible.
 「お願い……します……」=“Please... have a look...”
@@ -27,7 +31,9 @@
 俺の言葉を聞いて、かぁっと頬を赤くしてくれる。=Hearing my words, Konomi-chan started blushing intensely.
 あまりにストレートな様子が可愛くて、俺は更に声を出した。=Her reaction was so plain and cute that it made me shouted once again.
 「漫研部のチラシでーす！　ただいま部員募集中！」=“Manga Club! We're looking for new members!”
+女子学生Ａ=Student A
 「へぇ、うちの学園、漫研あったんだ？」=“Heeh, we have a Manga Club at our school?”
+女子学生Ｂ=Student B
 「ちょっと面白そう。チラシくださーい」=“Seems interesting. Can I have one of flyers?”
 「はいはい、どうぞー！　よろしくお願いしまーす！」=“Yes yes, here you go! We look forward to seeing you there!”
 あっと言う間に何人かの学生がチラシを受け取ってくれた。=In a flash, the stack of flyers had significantly gone down.
@@ -95,7 +101,3 @@
 恥ずかしがりながら、一生懸命、一言一言伝えてくれるこのみちゃん。=Embarrassed, Konomi-chan still tried her best to tell me, word by word, her feelings.
 その仕草だけで、もっとこのみちゃんのことを知りたくなってしまう。=Her actions, and the way she did it, made me want to know Konomi-chan more.
 コイカツ部にしろ、漫研部の勧誘にしろ、これから先、このみちゃんと一緒に過ごす時間が増えることに、少しわくわくする俺だった。=Whether it be the Manga Club, or the Koikatsu Club, a part of me felt excited knowing that I'll be spending more time with Konomi-chan from now on.
-
-このみ=Konomi
-女子学生Ａ=Student A
-女子学生Ｂ=Student B

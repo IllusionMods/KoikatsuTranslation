@@ -1,4 +1,7 @@
-﻿「嬉しいな♪　[P名]君と遊園地に来れるなんて」=I'm so happy♪ I can't believe I get to spend a day at the amusement park with you, [P]-kun.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「嬉しいな♪　[P名]君と遊園地に来れるなんて」=I'm so happy♪ I can't believe I get to spend a day at the amusement park with you, [P]-kun.
 「[H名]が喜んでくれて俺も嬉しいよ」=I'm really glad that you like it so much.
 「うん！　今日は楽しみにしてる！」=Yeah! I'm really excited for today!
 「それじゃ、手始めに何に乗ろうか？」=Well then, what should we ride first?

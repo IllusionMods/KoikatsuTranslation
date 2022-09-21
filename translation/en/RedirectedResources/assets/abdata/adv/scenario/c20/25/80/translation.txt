@@ -1,4 +1,7 @@
-﻿「あなたは好きなおかずって最初に食べますか？　それとも最後までとっておきますか？」=Do you eat your favourite sides first? Or do you save them for the end?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「あなたは好きなおかずって最初に食べますか？　それとも最後までとっておきますか？」=Do you eat your favourite sides first? Or do you save them for the end?
 「うーん、気分によりけりかな。きみはどっち派なの？」=Nnn, depends on my mood. What do you do?
 「私は最後までとっておきます。なんか、楽しみって最後までとっておきたくなりませんか？」=I save mine for last. Don't you just feel like saving the best parts for last? That way they taste way better.
 「あー、わかるかも」=Aah, I feel you.

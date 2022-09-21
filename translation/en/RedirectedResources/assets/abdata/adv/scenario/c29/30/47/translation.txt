@@ -1,1 +1,4 @@
-﻿「あのような快感が存在するとは……驚きです」=To think pleasure such as that exists in this world... I'm surprised.
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「あのような快感が存在するとは……驚きです」=To think pleasure such as that exists in this world... I'm surprised.

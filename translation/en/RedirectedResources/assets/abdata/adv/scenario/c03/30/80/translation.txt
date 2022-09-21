@@ -1,8 +1,10 @@
-
-//「俺、今日はガッツリいっちゃうよ。豚カツ！」=
-//「おお……学食の中でもあまり人気のないメニューに手を出したですね」=
-//「え？　一番人気でしょ？」=
-//「女子には量が多すぎるのです。よっぽどお腹減ってる時しか食べないですよ？」=
-//「なるほどそっか……って、そっちも思いきり豚カツだよね！？」=
-//「あ、あははー、私は……お腹が減ってるですからっ……たくさん食べるのです！　これは必然なのです！」=
-//「うんうん、お腹減ってる時は我慢しないでたくさん食べた方がいいよね」=
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「俺、今日はガッツリいっちゃうよ。豚カツ！」=“I'm gonna go hard today. Time to try out the pork cutlets!”
+「おお……学食の中でもあまり人気のないメニューに手を出したですね」=“Ooh... gonna challenge the menu item even people eating from the cafeteria refuse to try, huh?”
+「え？　一番人気でしょ？」=“Eh? It's the most popular, no?”
+「女子には量が多すぎるのです。よっぽどお腹減ってる時しか食べないですよ？」=“It's just too much food for a girl to eat at once. We don't really order stuff like that unless we're practically starving, you know?”
+「なるほどそっか……って、そっちも思いきり豚カツだよね！？」=“I see, makes sense... wuh, you're going for pork cutlets too though!”
+「あ、あははー、私は……お腹が減ってるですからっ……たくさん食べるのです！　これは必然なのです！」=“A-Ahaha, I'm... well, practically starving so... I'mma eat lots! Yeah! I need this much to refuel!”
+「うんうん、お腹減ってる時は我慢しないでたくさん食べた方がいいよね」=“Yep, exactly, when you're hungry, minding your manners and holding back would just be stupid.”

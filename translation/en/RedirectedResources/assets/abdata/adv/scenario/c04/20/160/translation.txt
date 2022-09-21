@@ -1,4 +1,7 @@
-﻿「……少し冷えてしまったわね」=...Gotten a bit chilly, hasn't it?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「……少し冷えてしまったわね」=...Gotten a bit chilly, hasn't it?
 「だね、汗もかいたし。なにか羽織るものでも貸そうか？」=Yeah, we sweated a whole lot too. Need to borrow my coat?
 「ありがとう。でも、あなたに温めてもらうから、必用ないわ」=Thank you. But, I have you to warm me up, so I don't need it.
 「あたためるって……また、するの？」=warm you up... you want to, do it again?

@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「うぁ、解答欄が一個ズレてた……」="Oh no, my answers were all shifted by one!"
 「はぁ、貴方らしいミスね。注意力散漫、三歩どころか三秒で全て忘れてるんじゃない？」="*Sigh* that's just like you. You get easily distracted and forget everything after 3 seconds."
 「うぅ、テストの時は気を付けないと……うっかりじゃ済まないからね……」="Uu... I must be careful on the test. I can't be this careless!"

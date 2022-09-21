@@ -1,4 +1,7 @@
-﻿「うそ……ほ、本当に？　私に言ってくれてるの？」=No way... r-really? Are you saying that to me?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「うそ……ほ、本当に？　私に言ってくれてるの？」=No way... r-really? Are you saying that to me?
 「きみ以外に誰がいるの？　俺、本当にきみのことが好きなんだ」=Is there anyone else besides us here? I really do love you.
 「わ、私のことを……君が……はう……うぅ……」=Y-You love... me... hauu... uuu...
 「あ、あぁっ、ごめんっ！　そ、そんなに嫌だった！？　だったら聞かなかったことにっ……」=A-Aah--, I'm sorry--! D-Does it sound that unpleasant!? We can just pretend this never happen--...

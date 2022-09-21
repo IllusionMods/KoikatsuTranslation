@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「んーっ、よく寝た。……あれ？　メモがある。なになに――」=“Nnn, I slept well. ...Huh? There's a note. Let's see---”
 『[P]くん、おはよー。よく寝てたから先に出るぞ』=『[P]-kun, morning. You were sleeping real tight so I'm heading out first.』
 『ちゃんと顔洗って、ご飯食べてこいよー。また学園で会おう！』=『Don't rush out, wash your face and eat breakfast first, okay? Let's see each other at school!』

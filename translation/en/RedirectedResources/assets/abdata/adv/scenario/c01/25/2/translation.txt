@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「男性の方とお話をするのは、とても珍しい経験で……でも、今はなんだか楽しいです」=“Chatting with a boy is, quite the unusual experiece for me... but, I find myself really enjoying this.”
 「本当？　そう言ってくれると嬉しいな」=“Really? I'm happy to hear that.”
 「俺も[H姓]さんと話すの楽しいからさ」=“Since I have fun chatting with you too, you know? [H姓]-san.”

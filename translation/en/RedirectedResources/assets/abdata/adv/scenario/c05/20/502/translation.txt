@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「はぁ、はぁ……マズいな。遅刻だ」=“Haah, haah... damn. I'm late.”
 （ん？　向こうから歩いてくるのは……）=(Hm? That person, walking over here...)
 「[H名]、ここまで来てくれたんだね。遅れちゃってごめん」=“You walked all the way here, huh? Sorry I'm late, [H].”

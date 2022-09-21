@@ -1,4 +1,6 @@
-
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
 「ねぇ君、今ちょっといい？」=“Hey, got a moment?”
 「あっ、男子……！　えっと、誰か……ちょっと……誰かいないの」=“Ah--, a boy...! Erhm, is there... erhm... is there nobody else here?”
 「あの～……俺、君に話しかけてるんだけど」=“Uhm~... I'm talking to you, not anyone else, though.”

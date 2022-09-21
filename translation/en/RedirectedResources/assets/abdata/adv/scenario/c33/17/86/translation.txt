@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「ねえ、あなたの初恋の話を聞かせて」=Hey, tell me the story behind your first love.
 「は、初恋？　えっと、俺が言うのも何だけど、そういうのって聞くの嫌じゃないの？」=F-First love? Erhm, if you don't mind me saying, do you not hate that sort of talk?
 「嫌よ。でも、私はあなたが初恋の相手だけど、あなたは違うでしょ？　あなたから直接聞いて、この差を少しでも埋めたいの」=I do. However, you're the first lover I've had, but aren't you different? I want to hear it directly from you, and maybe bridge the gap between us a bit.

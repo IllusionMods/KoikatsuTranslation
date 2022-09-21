@@ -1,4 +1,7 @@
-﻿「やった、今日の日替わりは唐揚げだ」=Yay, today's special is deep fried chicken.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「やった、今日の日替わりは唐揚げだ」=Yay, today's special is deep fried chicken.
 「えー、唐揚げの日って……女子だと逆に人気がない方なんだけどな」=Eh~, deep fried chicken... it's actually hard to get excited about that as a girl, honestly.
 「そうなの？　美味しいのに？」=That so? Even though it's so good?
 「味じゃなくてカロリーの問題だよー。美味しいのは……分かってるんだよ……うぅ……」=It's not about the taste, it's about the calories. It's not like I... don't know that it's great... uu...

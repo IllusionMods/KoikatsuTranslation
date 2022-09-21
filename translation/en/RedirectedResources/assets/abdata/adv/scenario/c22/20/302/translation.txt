@@ -1,4 +1,7 @@
-﻿（到着して早々[H名]に曲を入れてもらったわけだけど……）=(I got her to put in some songs as soon as we got here, but...)
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+（到着して早々[H名]に曲を入れてもらったわけだけど……）=(I got her to put in some songs as soon as we got here, but...)
 「何度も何度も何度も何度も迷って つまづいても♪　走れ走れ走れ走れ 振り返りもせず♪」=『No matter how many, how many, how many, how many times you lose your way♪ Run, run, run, run, no turning back♪』
 ………………=.........
 …………=......

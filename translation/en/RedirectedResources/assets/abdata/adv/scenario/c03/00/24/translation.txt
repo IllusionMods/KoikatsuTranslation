@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「これ、調理実習であなたのことを考えながら作ったです！　あの、食べてみてくれるですか？　きっと気に入ってくれると思うですけど……」=“I made these while thinking about you, during cooking class! Uhm, will you try them? I'm pretty sure you'd really like them...”
 「もちろん、俺のために作ってくれたならよろこんで食べるよ！」=“Of course, if you made them while thinking of me, there's no way I can keep my hands off them!”
 「はむ……ん……おおお、美味しい！　すごいよ[H]！　ありがとう！」=“*bite*... nn... oooh, so good! They're amazing, [H]! Thanks!”

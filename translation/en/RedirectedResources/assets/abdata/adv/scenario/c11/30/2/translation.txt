@@ -1,4 +1,6 @@
-
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
 「お友達も増えてきたみたいで、良かったわね」=“Seems like you've made some new friends recently, how nice.”
 「君がきっかけを作ってくれたおかげだよ。ありがとう」=“It's all thanks to you helping me get a foot in through the door. Thanks.”
 「そんな、お礼なんていいのよ～。頑張ったのはあなたなんだし」=“You don't need to thank me~. You're the one who put in all the effort.”

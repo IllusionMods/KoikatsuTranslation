@@ -1,4 +1,9 @@
-﻿「あ……いつの間にかもう空が赤くなっとる……学園におると時間が長く感じるんに……デートやったらすぐ過ぎるんやね……」=Ah... the sky's already turning red... Even though time passes by so slowly at school... It just flies by when we're out on a date...
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「あ……いつの間にかもう空が赤くなっとる……学園におると時間が長く感じるんに……デートやったらすぐ過ぎるんやね……」=Ah... the sky's already turning red... Even though time passes by so slowly at school... It just flies by when we're out on a date...
+CHOICE:『まだ時間ある？』=『You still got time?』
+CHOICE:『あっと言う間だね』=『It really flew by.』
 「あのさ、まだ時間って大丈夫かな？　もし良かったら、もう少しここで[H名]と話したいんだけど……」=Listen, do you still have some time? If it's alright with you, I'd love to stay a bit longer and chat with you even more...
 「えへへ、私は大丈夫よ。最初から遅くなるつもりで来たっちゃもん。やけど……君は大丈夫なん？」=Ehehe, I'm good on time. I already planned to stay out late with you in advance. But... are you good on time yourself?
 「あはは、一人暮らしなんだから、俺こそ全然平気だよ。でも良かった……この公園ってさ、夜景が綺麗だから……[H名]と見たいと思って」=Ahaha, I live alone so, I'm perfectly good on time. But, I'm glad... this park has this really beautiful view of the night sky, you see... I wanted to see it with you.
@@ -10,6 +15,3 @@
 「え、あっ、そ、そうかな？　えっと……ごめん、格好付けすぎた？」=Eh, ah--, t-that so? Erhm... sorry, did that sound too forced?
 「ううん、そういう意味やなくて……なんかね、君が引っ張ってくれとる感じがして……えへへ、駅に着くまで、まだまだデートを堪能するんっ！」=No, that's not what I meant... I just felt like you were pulling me closer together... ehehe, let's keep enjoying our date, until we get to the station--!
 「あはは、うん、色んな話しながら歩こう」=Ahaha, yeah, let's chat about lots of stuff on the way.
-
-CHOICE:『まだ時間ある？』=『You still got time?』
-CHOICE:『あっと言う間だね』=『It really flew by.』

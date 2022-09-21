@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「おぉ～！　どのアトラクションも楽しそうだな！」=“Ooh~! They all look so fun!”
 「そうだね。何か乗りたいものはある？」=“They sure do. Are there any you want to ride in particular?”
 「ふむ、やはりまずは王道の空翔る鉄竜から……む、あれは――」=“Fumuh, we must start with the absolute staple, the iron dragon on whe--... muh, that thing--”

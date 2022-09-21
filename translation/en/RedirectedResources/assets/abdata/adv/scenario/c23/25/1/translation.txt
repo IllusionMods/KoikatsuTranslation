@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「君、今時間ある？　出来れば話したいなって」=“Do you have time right now? If it's alright, I'd like to chat, and stuff.”
 「大丈夫だよ。私と話したいということはあなたはもしやアニメやゲームを愛する同志なのかい？」=“Yep, I'm good on time. Since you want to talk to me, you must be a fellow lover games and all things anime?”
 「いや、そうじゃないけど、普通に話したかったんだ」=“No, not really, I just wanted to chat with you.”

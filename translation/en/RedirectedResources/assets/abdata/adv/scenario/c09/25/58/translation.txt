@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「ねえ、新しくゲームセンターができたんだけど……行かない？」=“Hey, a new arcade just popped up... how about it?”
 「本当にゲームセンターが好きだね。よし、今日はとことん付き合うよ」=“You really do love arcades, don't you? Alright, gonna make sure you have your fill today.”
 「イエ～イ！　あたしの１０連勝～！　あたしに勝とうなんて一兆年早いのよ！」=“Yay~! That makes the 10th win for me~! You're a trillion years too early, thinking you can beat me!”

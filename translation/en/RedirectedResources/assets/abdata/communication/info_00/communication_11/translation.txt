@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「あらあらあら、我慢できなくて入ってきちゃったの？　どうしましょ～」=“My my my, couldn't hold it in anymore? Whatever shall I do with you~”
 「あらあら、ひとりが寂しくてついてきちゃった？　困ったわねぇ……」=“Oh my, couldn't handle being by yourself so followed me in? What to do with you~”
 「ごめんね、ちょっと冷静になる時間をもらえるかしら」=“I'm sorry, could I have some time to cool down?”

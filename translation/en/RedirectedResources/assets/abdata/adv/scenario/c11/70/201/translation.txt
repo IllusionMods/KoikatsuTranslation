@@ -1,0 +1,25 @@
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「うお～～っ、遊園地だ！　今日は楽しむぞー！」=“Uwoh~~, it's the amusement park! We're gonna have some fun today!”
+「うふふ、デートの定番だものね。今日は全部回るつもりでがんばりましょう」=“Ufufu, it's a pretty staple date spot, isn't it? Let's try to go through every single attraction today, okay?”
+「もちろんだよ。さて、何から乗ろうかな～」=“Of course. Now then, what should we start with~”
+「楽しみだわ～。まだあまり混んでないから、人気のアトラクションをまず目指しましょう」=“I'm excited~. There's not many people here yet, so let's aim for the more popular attractions first.”
+「そうだね。そうしよう」=“Good idea. Let's do that.”
+「あら、少しずつ人が増えてきたわね。周りをよく見て、注意してね」=“My, more and more people are starting to gather, aren't they? Be careful and keep an eye at your surroundings, okay?”
+「ははは、大丈夫だよ。ぶつかったりしないよ」=“Hahaha, I'll be fine. I won't bump into anyone.”
+「それも大事だけど、一番大事なのは、はぐれないことよ。あなたが迷子になっちゃわないか心配で……」=“That's important too but, the most important thing is to not get lost. I'm worried you'll lose sight of me and...”
+「いや、それは流石に……」=“No, that really won't...”
+「ふふふ、冗談よ。でもはぐれないようにするに越したことはないわ。お互い気をつけましょ」=“Fufufu, I'm kidding. But, we should be on our guard anyway. It really wouldn't be nice to get split up.”
+「手、つないでた方がいいかな？」=“Should we hold hands then?”
+「もちろんよ……はい、おてて貸して？」=“Of course... here, hold out your hand?”
+「うん……」=“Okay...”
+「……少し恥ずかしいけど、でも、まあ、これもデートだし、これぐらい当然だよね」=“...It's a bit embarrassing, but, well, this is a date too so, this much is nothing, isn't it?”
+「ふふふ、手をつないで歩いてるカップルも沢山いるわよ。ほら、家族客も多いし」=“Fufufu, there's lots of couples around walking hand-in-hand too, you know? Look, lots of families too.”
+「そうだね、みんな楽しそうにしてる……」=“Yeah, everyone seems to be having fun...”
+「あら、あらあら、ねえ見て？　あの小さな男の子、泣いてる……」=“My, dearie me, look over there? That little boy, he's crying...”
+「あ、本当だ。迷子かな？」=“Ah, you're right. You think he's lost?”
+「迷子なら、迷子センターに連れていかなきゃ……！」=“If he is, we gotta take him to the lost-kids center...!”
+「……あ、違うみたい。すぐ側にお母さんがいたみたいだよ。ちょっと駄々こねてただけみたい」=“...Ah, seems like he's not. Seems like his mum was right next to him. Seems like he was just throwing a tantrum.”
+「よかった……。ふふ、泣いた男の子見てたら、あなたが迷子にならないか心配になって来ちゃった」=“Thank goodness... Fufu, seeing him cry like that's made me all worried now, about you getting lost.”
+「はいはい、わかったよ。じゃ、今日は手をつないで周ろうね」=“Yes yes, I got it. Let's go around the park while holding hands, okay?”

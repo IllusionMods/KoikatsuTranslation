@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「んーっ、よく寝た。……あれ？　メモがある。なになに――」=“Nnn--, I slept well. ...Huh? There's a note. Let's see---”
 『おはよ、[P]。気持ちよさそうに寝てたから起こすのも悪いと思ってな。先にいくぞ』=Good morning, [P]. You were sleeping really soundly, so I didn't want to wake you up. I'm heading out first.」
 『着替えと朝食は準備しておいた。デキる彼女に感謝するように』=I prepared your breakfast and your uniform too. You'd best be thankful for having such a hardworking girlfriend.

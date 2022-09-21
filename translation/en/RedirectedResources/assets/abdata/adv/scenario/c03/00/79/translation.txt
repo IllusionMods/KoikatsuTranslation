@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「お昼の時間は幸せなのです！　もうお腹ぺこぺこですよ！」=“Lunch time is happy time! My belly's all ready for refueling!”
 「ふふっ、こういう時、一生懸命だよね」=“Fufu--, you sure get fired up at times like these.”
 「はわっ……も、もしかしてバカにされたですかっ！？」=“Hawah--... d-did you just make fun of me--!? You did, didn't you!”

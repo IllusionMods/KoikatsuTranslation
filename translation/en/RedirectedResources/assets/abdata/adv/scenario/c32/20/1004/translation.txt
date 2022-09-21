@@ -1,3 +1,7 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+モブ=Mob
 「お疲れ様でした。ふふっ、素敵な式でしたよ」=Good work today. Fufu~ It was a lovely ceremony.
 「本番の結婚式も、是非、私どもの式場で挙げてくださいね！」=For your actual wedding as well, please, do call upon us!
 「えっと、前向きに考えさせてもらいます」=Erhm, sure, if we get to that point.
@@ -9,4 +13,3 @@
 「……ま、まあ、その……えっと、すみません。言い過ぎました。忘れてくれてかまいません……でも、忘れないで欲しいですけど……」=......W-Well, that's... Erhm, I'm sorry. I said too much. I don't mind, if you forget it... but, I don't want you to forget it though...
 「うん、忘れないよ。大丈夫、心配しないで」=Yeah, I won't forget. It's alright, don't worry, okay?
 （思わぬことになったけど、うん……いいデートになったな）=(It took a really unexpected turn there but, mmm... It ended up being a good date.)
-モブ=Mob

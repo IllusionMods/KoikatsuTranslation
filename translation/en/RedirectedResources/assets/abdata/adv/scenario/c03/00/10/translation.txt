@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「私も入っていいのですか！？　だったらぜひにーっ！」=“Can I really join!? I'd love it!”
 「やった！　ありがとう」=“Yay! Thanks.”
 「いえいえ、こちらこそありがとうなのです！　コイカツ部ってどんな部活なのですか？」=“No, no, the pleasure's mine, thank you! What sort of a club is it?”

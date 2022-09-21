@@ -1,4 +1,7 @@
-﻿「Ｍｙ　ｈｏｎｅｙ！」=My honey!
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「Ｍｙ　ｈｏｎｅｙ！」=My honey!
 「Ｗｈａｔ！？　急にナニ！？　嬉しいケド♡」=What!? What's up, all of a sudden!? I'm really happy though♡
 「愛称で呼ぶともっと仲良くなれるかなと思って……例えば俺は[Pあだ名]とか」=I thought that maybe we could get even closer, if we used nicknames... Like, for example, you could call me [Pあだ名].
 「ツマリ、Ｎｉｃｋｎａｍｅネ♡　ニッポンのｓｔａｎｄａｒｄはソレデスカ？」=Nicknames, huh♡ And is that how Japanese nicknames usually are?

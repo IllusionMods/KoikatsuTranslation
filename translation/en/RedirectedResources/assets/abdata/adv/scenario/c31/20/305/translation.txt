@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「うーん、次は何を歌おうかなぁ……」=Well, what should I sing next...
 「悩んでいるくらいなら、一度休憩したらどうだ？　ずっと歌っていると、話もできないからな」=If you're at a loss for what to pick, how about we take a break instead? If we sing the whole time, we can't really talk much, afterall.
 「確かにそうだね。[H名]がいいなら、少し休憩しようか」=Certainly, that's true. If you're fine with it, [H名], then let's take a break.

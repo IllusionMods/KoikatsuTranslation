@@ -1,4 +1,7 @@
-﻿「デートの定番といば遊園地だよね」=When it comes to dates, amusement parks are as standard as you can get, aren't they?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「デートの定番といば遊園地だよね」=When it comes to dates, amusement parks are as standard as you can get, aren't they?
 「うん。恋愛もののお話でも、よく登場してるわ」=Yeah. Even in romance novels, they commonly make an appearance.
 「……あんまりテンション高くない、よね？　もしかしてノリ気じゃなかった？」=...You don't seem all that excited. Are amusement parks not your jam?
 「そういうわけじゃないけど……その、激しい乗り物とかあまり得意じゃないから……」=That's not it, it's just... uhm, I'm not really all that good with the more intense rides so...

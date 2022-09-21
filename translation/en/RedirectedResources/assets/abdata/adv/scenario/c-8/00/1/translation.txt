@@ -1,4 +1,8 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「ん？　あれは……」=“Hmmm? Is that...”
+このみ=Konomi
 「よろしくお願いしますー！　漫研部なのですー！」=“We're the Manga Club! Come join us!”
 昼休み、何気なく中庭へ来てみると、このみちゃんが部員を勧誘している場面に遭遇した。=During lunch break, I had a sudden urge to go the Courtyard to have lunch. To my surprise, Konomi-chan was already there and recruiting members for her club.
 放課後だけじゃなくて昼休みまで勧誘だなんて、本気度が伝わってくる。=This just tells you how serious she is. She is even using her lunch break on top of her after school time to recruit.
@@ -156,5 +160,3 @@
 「あんな簡単にスカートを捲って……」=“How could you show someone your panties that easily...”
 女子校だから良いものの……本当に勢いが良い娘だな。=It may be fine when you're in an all-girls-school but still... she really is a girl that just goes all out for a spur of the moment sometimes.
 走り去るこのみちゃんの背中を見送りながら、俺もゆっくりとベンチから立ち上がった。=Watching Konomi-chan from behind, I slowly stood up and walked away.
-
-このみ=Konomi

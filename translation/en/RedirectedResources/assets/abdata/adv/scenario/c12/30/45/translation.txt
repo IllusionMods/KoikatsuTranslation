@@ -1,2 +1,4 @@
-
-//「あたしの初めて……どうだった？　あたしはその……嬉しさで胸いっぱいって感じかな」=
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「あたしの初めて……どうだった？　あたしはその……嬉しさで胸いっぱいって感じかな」=“How was it... taking my virgnity? For me... my chest felt stuffed with happiness.”

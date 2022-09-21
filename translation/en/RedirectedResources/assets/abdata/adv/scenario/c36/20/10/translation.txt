@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「は？　そんな得体の知れない部活に、私が入るわけないでしょ」="What? There's no way I'd join a mysterious club like this."
 「そこを何とか！　ほら、入ってみれば自ずとわかるし……」="Please reconsider! If you join, it won't be mysterious anymore!"
 「それでは手遅れでしょう。家畜小屋に自ら入るなんて、どうかしてるわ」="Then it'll be too late, right? You have to be crazy to think that I'd enter a livestock shed."

@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 『おはようございます、用事がありますので書き置きを残させて頂きました』=『Good morning, I had something to take care of, so I took it upon myself to leave this note behind.』
 『寝坊はしていませんか？　洗顔は済ませましたか？　朝食は冷蔵庫のーー―』=『You've made sure to not oversleep, yes? Did you wash your face? I've left breakfast in the---__』
 『追伸：また次もえっちな事をして下さい、よろしくお願いします。[H名]』=『PS: Please do some lewd stuff next time too. Take care. [H名]』

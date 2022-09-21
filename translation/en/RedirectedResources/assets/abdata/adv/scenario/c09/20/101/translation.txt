@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「そろそろお昼だけど、何か食べたいものある？」=“It's almost lunch time, is there anything you wanna try out?”
 「公園の中にお店ってたくさんあったっけ？」=“Are there any shops in the park, you think?”
 「たまに何か売りに来てたりはするけど、そんなにはなかったかな」=“Sometimes people set up stalls to sell stuff but, don't think it's all that common.”

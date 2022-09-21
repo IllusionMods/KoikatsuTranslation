@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「美味しそうだね、そっちのハンバーグ」=“That steak sure looks delicious.”
 「うん、絶妙……でも、熱い」=“Yeah, it's exquisite... but, hot.”
 「大丈夫？　やけどしてない？」=“You okay? Not burnt, are you?”

@@ -1,1 +1,4 @@
-﻿「てめぇ！　変態が！　こら！　ぶっ殺すぞ」=You! Goddamn Pervert! Come here! I'mma kill you.
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「てめぇ！　変態が！　こら！　ぶっ殺すぞ」=You! Goddamn Pervert! Come here! I'mma kill you.

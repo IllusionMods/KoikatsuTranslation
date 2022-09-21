@@ -1,4 +1,8 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「それじゃ今日もコイカツを進めつつ、漫研部の勧誘をやろっか」=“Alrighty, let today be another day of Koikatsu with some Manga Club scouting on the side then shall we?”
+このみ=Konomi
 「はい……お願いします」=“Yes... Let's.”
 前回に引き続き、今日も勧誘の手伝いをする。=Continuing on from before, I decided to help Konomi out too today.
 このみが掛け持ちでコイカツ部に入ってくれているのと同様、俺も漫研部を掛け持ちしているような状態だ。=And like how Konomi joined our club, you could say that I'm now part of the Manga Club too.
@@ -159,7 +163,9 @@
 「ふおお……」=“Fuoooh...”
 このみが喜んでどうするんだ！？=Why are you getting happy of all people, Konomi!?
 と、突っ込もうとしたところ、なぜか周囲の学生の何人かが声を上げた。=But, as I was about to raise my voice and point that out, a few of the students around had raised their voices.
+女子学生Ａ=Student A
 「もしかしてケーシーですか！？」=“You're Cathy right, right!?”
+女子学生Ｂ=Student B
 「うわー、すごいそっくり！　スタイル良いところも似てます！」=“Uwaaah! You look just like her! Even to her amazing style!”
 「そ、そう？　あ、チラシどうぞ」=“T-That so? Ah, here's your flyer.”
 「頂きます！　ありがとうございますー！」=“I'll glady take it then! Thank you so much!”
@@ -173,7 +179,9 @@
 「そうだね。頑張って勧誘しよう」=“Yeah. Let's try our best and scout them.”
 「はいですっ！　なにこれ……私なんかがっ……本当に小悪魔っ娘になれるですかっ！？」=“Yes! Waah, what's happening to me... Can a girl like me... really become a Devilin Girl!?”
 「ふははは、お前はもう十字架を背負ったんだよ。孤独と安寧を失い、永久の喧噪の中へ足を踏み入れたのだ」=“Fuhahaha. You've already begun to shoulder the Cross upon your back. Your solitude and serenity shall now forever begone and in their places, and eternity of ceaseless conflicts awaits you. There's no turning back now.”
+女子学生Ｃ=Student C
 「うわー、似てるーっ！　アニメ見てるみたい！」=“Waah, I can't believe it! It's like watching the anime all over again!”
+女子学生Ｄ=Student D
 「楽しそう！　漫研ってこんな感じの部活なんだ！」=“Looks fun! I didn't know that our Manga Club was like this!”
 「興味を持ったなら、チラシを読むといい。ただし、何が起きても私は責任を持たないが」=“If you're interested, you'd do well to read this here glorious flyer. But, I won't take any responsibilities should you fall down the path of damnation.”
 「あははっ、はい、読ませてもらいますっ！　私、今帰宅部なんで……思い切って入っちゃおっかな」=“Ahaha, I'll gladly read it then! Maybe I should ditch the Go-Home Club and transfer here instead.”
@@ -195,11 +203,3 @@
 恋人にここまで喜んでもらえたのなら、まぁ、女装のし甲斐もあったというもの。=Well if your girlfriend is this elated then, well, I guess I'm glad that I decided to be a trap for her.
 「さっそく入りたいって人もいましたし、これできっと我が部も存続出来るですよ！」=“There were people that said they'd join immediately, so I'm confident that the club'll continue to exist for years!”
 笑顔満開のこのみとハイタッチをして、今日の部活も無事終了した。=High-fiving with Konomi, we then ended the day there.
-
-//Scene specific character names
-女子学生Ａ=Student A
-女子学生Ｂ=Student B
-女子学生Ｃ=Student C
-女子学生Ｄ=Student D
-
-このみ=Konomi

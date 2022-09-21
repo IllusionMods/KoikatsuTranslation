@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「あなたは良い食べっぷりをするなぁ」=“You sure do eat well~”
 「そうかな。ここのご飯がおいしくてね」=“Do I? It's probably the food, the cafeteria food here is awesome.”
 「グルメ物のアニメを見たくなるよ。ちかごろ流行なんだ」=“Almost makes me wanna watch a food anime. They're pretty popular these days.”

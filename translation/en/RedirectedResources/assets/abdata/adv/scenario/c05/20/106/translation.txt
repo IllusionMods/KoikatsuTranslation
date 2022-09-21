@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「今日も宇宙が近いね……手が届きそうだよ」=“Space is pretty close today, isn't it... feel like I could reach out and touch it.”
 「早くみんなに会いたいな……」=“I want to see everyone...”
 「何度見ても、ここにいるときの[H名]は新鮮な表情をしているね」=“No matter how many times we come here, you always have a new expression on your face, [H].”
@@ -6,6 +9,8 @@
 「段々ね？　ここが、重要な場所になっていくのがわかるの」=“I can feel it, that gradually, you know, this place is becoming more and more important.”
 「わたしと、あなたと、それに“かれら”にとっての……大切な場所に」=“For me, for you, for "them" as well... a very precious place.”
 「うん……それは俺も、強く感じているよ」=“Yeah... I feel that too, really strongly.”
+CHOICE:『エッチまでしちゃったしね』=We even had sex.
+CHOICE:『また、この景色を二人で見に来ようね』=Let's come look at this sight again, okay?
 「いろんな思い出が詰まってるからね。エッチまでしちゃったし」=“We've made all sorts of memories here, afterall. We even had sex.”
 「エッチ……っ……もう……恥ずかしいの思い出しちゃった」=“Sex... --... jeez... making me remember such embarrassing stuff.”
 「……でも、あのときは、夜空がわたしたちだけの宇宙になったみたいで……とっても幸せだったな」=“...But, at that time, the sky felt like it was our very own little chunk of space... I was really happy back then.”
@@ -29,6 +34,3 @@
 「はい、報告完了だよ」=“There, report sent.”
 「なんだか、名残惜しい気もするね」=“Man, something feels missing inside, now that you've stopped.”
 「えへへ、そう言ってくれると嬉しいな。今度、またやってあげるね？」=“Ehehe, hearing you say that makes me so happy. I'll do it again next time, okay?”
-
-CHOICE:『エッチまでしちゃったしね』=We even had sex.
-CHOICE:『また、この景色を二人で見に来ようね』=Let's come look at this sight again, okay?

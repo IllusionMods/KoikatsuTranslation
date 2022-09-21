@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「今日は俺のやりたい事をやってみてもいい？」="Is it okay if today we'll try things that I want to do?"
 「嫌よ。今日は貴方を拘束してみようと思っていたのだから。ほら、大人しく縛られなさい」="No. For today I thought of restraining you. Be obedient and let me tie you up."
 「ちょ、待って！　えっ、これ手錠？　わぁっ、ちょ、縄食い込んで痛いって！」="W-wait! Um... Are these handcuffs? Oww, hey! The rope is biting into my skin, it hurts!"

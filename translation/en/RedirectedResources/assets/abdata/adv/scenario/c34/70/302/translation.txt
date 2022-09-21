@@ -1,0 +1,24 @@
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「いつ聴いても[H名]は歌うまいよね。歌の勉強もしてるの？」=You're always so good at singing, [H名]. Do you take singing lessons too?
+「ウン♪　通ってる語学ｓｃｈｏｏｌで、ｖｏｃａｌ　ｌｅｓｓｏｎ　ｃｌａｓｓ取ってるヨ♪」=Yeah♪ At the language school I go to, I take vocal lessons as well♪
+「ボーカルレッスンクラスかぁ。なんだかアイドルみたいだね……あれ、アイドルって、海外では偶像って意味なんだっけ？」=Vocal lesson classes, huh? Sounds pretty idol-like... Ah, "idols" in the west refer more to statues of gods and stuff, right?
+「Ｙｅａｈ，ｔｈａｔ’ｓ　ｒｉｇｈｔ♪　アナタが言いたいの、ｐｏｐ　ｓｔａｒダネ♪　デモ、ソンナ本格的なのと違うカラ～」=Yeah, that's right♪ What you're trying to refer to are pop stars♪ But, it's nothing that serious~
+「うーん、でも、歌がすごくうまい帰国子女アイドルって、人気でる気がするなぁ」=Mmm, but, I feel like a returnee idol would be really popular, especially one that could actually sing well.
+「フフ♡　褒めてくれるの嬉しいケド、ワタシはアナタだけのＩｄｏｌでいたいナ♡　ナンチャテ♡」=Fufu♡ I'm really happy to be praised but, I want to be your own personal idol♡ Heh, just kidding♡
+「！　あはは、少し照れちゃうけど、俺もそっちの方がいいな。人気が出て会えなくなったりしたら寂しいし」=--!, Ahaha, man, you've got me blushing, but I prefer it that way too. It'd feel really lonely if you got really popular and we didn't get to meet again.
+「デショ♡　アナタと楽しく歌うコトがｂｅｓｔダカラ、今のママがｂｅｓｔナノ♡　ホラ、次はアナタの番ダヨ♡」=Right?♡ To me, just singing with you and having fun is the best so, it's good as it is right now♡ Come on, it's your turn next♡
+「よーし、二人で盛り上がれる曲、歌っちゃうぞ！」=Alright, I'll sing a song that'll hype the both of us up!
+「Ｃｏｏｌ♡　二人、ノリノリして、ウキウキなっちゃうゾー♪　Ｙｅａｈ♪」=Cool♡ Let's get really excited♪ Yeah♪
+（[H名]とのカラオケは本当にノリノリになれるから、楽しいなぁ～♪）=(I can really get in the mood with [H名] at Karaoke, it's so fun~♪)
+「昔カラ、Ｍａｍａがニッポン語の歌よく聴いてるノ♪　ダカラ、歌ナラ、ｉｎｔｏｎａｔｉｏｎトカ、ａｃｃｅｎｔトカ、分かるんダヨ♪」=As far as I can remember, my mama's always been listening to Japanese songs♪ That's why, if it's for songs, I know the proper intonation and accent and stuff♪
+「へぇ、すごいな。それだけで歌えるようになるものなの？」=Heh, that's amazing. You can learn to sing well just from that?
+「ウーン……なるケド、ココロ込められたのは最近カナ？　言葉のｎｕａｎｃｅが分かって、コンナ歌だったんだ～ッテ♪」=Mmmm... Yeah, but, I've only put my heart into it recently, I guess? Now that I know the nuance behind the words, it makes me go "So it was this sort of a song, huh~"♪
+「わかるわかる。俺も洋楽聴いてて、いい曲だな～と思って歌詞の意味調べたら、とんでもないこと言ってて驚いたことあるよ」=I totally get you. There are times when I come across a western song I really like, only to check the lyrics and find them to be really quite something.
+「ワカルワカル♡　フフ♡　育った国が違うのに、アナタと同じこと思う嬉しいナ♡」=I totally get you♡ Fufu♡ Even though we were raised in different countries, it makes me so happy to feel the same way about these things as you♡
+「俺も！　よーし、じゃあ歌詞の意味調べて驚いた曲、歌ってみようかな」=Me too! Alright, then, guess I'll try singing a song that pulled the rug from under me when I looked up the lyrics.
+「Ｙａｈｏｏ♡　聴きたい聴きたい♡」=Yahoo♡ I wanna hear it, I wanna hear it!♡
+「下手だけど笑わないでね？」=I suck at it so, don't laugh, okay?
+「Ｎｏ　ｗａｙ♡　アナタもワタシのカタコトニッポン語、笑わないデショ？　それと同じダカラ、ｇｒｏｏｖｙに歌ってネ♡」=No way♡ You don't laugh at my broken Japanese either, do you? It's the same as that so, have a groovy and fun time singing♡
+「ＯＫ！」=OK!

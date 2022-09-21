@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「その、なんだ……親しい間柄になると、愛称で呼び合うものらしいぞ……[Pあだ名]……とか」=Hey, listen... when people get intimate, they call each other by nicknames, you know... like [Pあだ名]... or whatever.
 「えっ！　い、今なんて！　もう一回呼んで！」=Eh--! W-What did you--! Call me that one more time!
 「[Pあだ名]……これでいいか？　少し、気恥ずかしいものがあるな」=[Pあだ名]... Is it good? It's a bit embarrassing.

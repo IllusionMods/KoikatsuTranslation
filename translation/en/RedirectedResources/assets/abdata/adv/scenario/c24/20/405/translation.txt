@@ -1,4 +1,7 @@
-﻿「うふふ♡　それじゃあいきますね♡」=Ufufu♡ Well then, I'm coming♡
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「うふふ♡　それじゃあいきますね♡」=Ufufu♡ Well then, I'm coming♡
 「うん」=Yeah.
 「はい♡　あ～ん♡」=Here♡ Aaahn♡
 「あ～ん……」=Aahn...

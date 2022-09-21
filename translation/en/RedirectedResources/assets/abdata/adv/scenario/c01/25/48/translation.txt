@@ -1,1 +1,4 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「一緒に、たくさん気持ちよくなれましたね。またしましょうね？」=“We both, enjoyed ourselves lots, didn't we? Let's do it again, okay?”

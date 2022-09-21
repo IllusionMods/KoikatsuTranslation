@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「わぁ、綺麗だなー……」=“Wah, it's sure beautiful...”
 「観覧車からの景色みたいなものは、他のアトラクションじゃなかなか見れないよね=Other attractions really don't offer the same sort of view you can get from a ferris wheel, do they?
 「だなー。あたし、観覧車は何回か乗ったことあるけど、夜の観覧車は初めてだぞ」=“Yeah. I've ridden on ferris wheels a whole lot of times but, it's my first time looking at the night sky from one.”

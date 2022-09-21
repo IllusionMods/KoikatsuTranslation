@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「ほら、ここ……この場所に連れてきたかったんだ」=“C'mon, here... this is where I wanted to bring you.”
 「結構この時間でもひと気があるのね……もう、みんな夜更かしさんなんだから……明日とか大丈夫なのかしら」=“There's quite a few people here even at this time, huh... jeez, everyone's staying up late tonight... will you all be fine tomorrow?”
 「そこ、気にしてるの？」=“Is that on your mind?”

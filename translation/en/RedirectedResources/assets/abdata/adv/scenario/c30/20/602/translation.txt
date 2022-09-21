@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「[H名]っ、俺もうっ！」=[H名], I'm already--!
 「待って……ちょっと、がっつき過ぎよ？　そんなに、我慢してたの？」=Wait... Aren't you a bit too riled up? Were you really holding back that much?
 「うんっ、もうずっと……俺、我慢の限界だよ、今すぐでも[H名]を押し倒したい」=Yeah, for a long time... I'm at my limit, I want to push you down so bad right now, [H名].

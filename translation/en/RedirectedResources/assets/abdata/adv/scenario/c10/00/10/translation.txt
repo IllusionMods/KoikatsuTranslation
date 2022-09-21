@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「我の魔界の力を欲しているということだな？　いいであろう！　部に入るぞ！」=“Thou wantst to use my demonic powers for thy own means, right? Very well then! I shall join thy club.”
 「おお、すごく乗り気で良かったよ」=“Oooh, I'm glad to see you're so into it.”
 「ところで、何をする部活なのだ？」=“By the way, what sort of a club is it?”

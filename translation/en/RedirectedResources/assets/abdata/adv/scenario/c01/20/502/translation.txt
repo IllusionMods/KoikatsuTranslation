@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「[H名]、おはよう！」=“Morning, [H]!”
 「おはようございます。本日が来るのをずっと心待ちにしてました」=“Good morning. I've been waiting for this day for so long.”
 「俺もだよ！　じゃあ、さっそく行こうか」=“Me too! Well then, let's go right away.”

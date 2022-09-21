@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「思い出の夜景……ですね」=“The precious nightscape, of our memories... isn't it?”
 「そうだね」=“Yeah.”
 「あの日から家族仲は良好ですよ」=“Things have been good in my family since that day.”
@@ -9,6 +12,8 @@
 「今は私とあなただけの時間ですから……二人でしか出来ないことをいたしましょう」=“Right now, it's our private time so... let's do something only we can do together.”
 「二人でしか出来ないことって……？」=“Only we can do together...?”
 「ご想像にお任せいたします」=“I shall leave it up to your imagination.”
+CHOICE:『[H名]とエッチしたいな』=I'd love to have sex with you.
+CHOICE:『夜景を見ながらキスしたい』=I wanna kiss while watching the nightscape.
 「……[H名]とエッチ、したいな……いい？」=“...I wanna, have sex with you... could we?”
 「はい、もちろんです」=“Yes, of course.”
 「今、すごく興奮してるから、ちょっと乱暴になっちゃうかもだけど……」=“I am really horny right now though, so I might get a little bit rough...”
@@ -31,6 +36,3 @@
 「……はぁ。素敵な時間ですね」=“...Haah. What a lovely evening.”
 「うん。幸せだよ」=“Yeah, I'm really happy right now.”
 「……もうしばらく、このまま夜景を見ていようね」=“...Let's stay here and enjoy the view a bit longer, okay?”
-
-CHOICE:『[H名]とエッチしたいな』=I'd love to have sex with you.
-CHOICE:『夜景を見ながらキスしたい』=I wanna kiss while watching the nightscape.

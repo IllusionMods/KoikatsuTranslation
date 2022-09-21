@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 気持ちいいかな？=Does it feel good?
 気持ちいいでしょ。ふふっ、ビクビクしてるのがわかるよ=Feels good, no? Fufu--, I can feel it twitching.
 気持ちいい？　もっと強くしてあげようか？=Does it feel good? Want me to do it harder?

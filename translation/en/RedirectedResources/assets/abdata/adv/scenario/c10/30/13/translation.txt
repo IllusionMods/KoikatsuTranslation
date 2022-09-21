@@ -1,4 +1,6 @@
-
-//「汝と出かけるのは楽しみだ。久しぶりにあの衣装を身にまとうとしようかな、クククッ」=
-//「オシャレして来てくれるんだね！　ありがとう」=
-//「え、いや……オシャレとかじゃなくて……戦闘服というか。その……楽しみにしてる」=
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「汝と出かけるのは楽しみだ。久しぶりにあの衣装を身にまとうとしようかな、クククッ」=“I am looking forward to going out with thee. Perhaps I shall dust off some of my old regalia, kukukuh--”
+「オシャレして来てくれるんだね！　ありがとう」=“You're gonna doll yourself up for me! Thanks.”
+「え、いや……オシャレとかじゃなくて……戦闘服というか。その……楽しみにしてる」=“Eh, no... I'm not gonna be 'dolling' myself up... 'war regalia', it's 'war regalia'. Uhm... I'm looking forward to it.”

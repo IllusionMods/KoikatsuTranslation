@@ -1,4 +1,7 @@
-﻿「えへへ、今日も歌っちゃうよぉ」=Ehehe, I'mma sing a ton today too.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「えへへ、今日も歌っちゃうよぉ」=Ehehe, I'mma sing a ton today too.
 「[H名]はいつも元気だよな。見てる方も元気になるよ」=You're always so lively, [H]. Just watching you makes me feel energetic too.
 「そう言われると何だか照れちゃうなぁ」=You'll make me blush.
 「あっ！　この曲採点できるんだ！　[P名]君、採点機能付けてもいいかな？」=Ah--! This one can grade the songs! [P]-kun, do you mind if we turn on the ranking mode?

@@ -1,4 +1,6 @@
-
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
 「なんか、いいわよね。こういう昼食も」=“Having lunch like this is pretty nice too, isn't it?”
 「そうだね。二人きりで食べるっていうのも、新鮮味があるね」=“Yeah. Eating together, just by ourselves, feels quite fresh.”
 「ねえ、あんた最近なに考えてんのよ。まさか、エッチなことじゃないでしょうね」=“Hey, what have you been thinking recently? It's not just all lewd stuff, right?”

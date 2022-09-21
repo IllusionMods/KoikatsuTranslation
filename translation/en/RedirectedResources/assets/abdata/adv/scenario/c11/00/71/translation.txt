@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「まずは……どこまでできてるのかしら？」=“First... how much have you done?”
 「えっと……ここまでしか……」=“Erhm... only till about here...”
 「あらあら！　まだこんなに残ってるじゃない……これは長丁場になりそうね」=“My oh my! You've still got lots to go through... Seems that we'll be here a while.”

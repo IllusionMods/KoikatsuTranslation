@@ -1,0 +1,31 @@
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「お待たせ。遅くなってごめんね。はい、アイスクリーム買ってきたよ」=“I'm back. Sorry for taking so much time. Here, ice cream.”
+「……ありがとう」=“...Thanks.”
+（一口が小さくて、可愛いな。小動物的な感じってこんなことをいうだろうなー……ってつめた！）=(Her bites are so small, it's so cute. She's like a small cuddly anima... wuh, that's cold!)
+「うわっ！」=“Uwah--!”
+「どう……したの？」=“What's... wrong?”
+「あはは、考え事してて、急にアイスが垂れてきてビックリしただけだよ」=“Ahaha, I was so lost in thought, I just got surprised by the icecream melting on my hand, that's all.”
+「そうなんだ……で、何を考えてたの？」=“I see... so, what were you thinking?”
+（流石に君にみとれてた、とは言えない……）=(Can't exactly say that I was lost in you, can I...)
+「えっと、それは……オシャレなカップルが多いなー……って」=“Erhm, that's... just that there's lots of fashionable couples here... and all.”
+「[H名]はオシャレとかって興味ある？」=“Do you have any interest in fashion, [H]?”
+「……ある、つもり。今日、デートだから意識はしてきた」=“...Yeah, I try. We're on a date today so, I put effort in it.”
+「そうなんだ。確かにいつもより可愛いね」=“I see. You do look more adorable than usual today, for sure.”
+「……ファッション雑誌とか、よく読むから」=“...I read fashion mags a lot, and stuff.”
+「そうなんだ。今日の俺の服装どうかな？　一応それなりに頑張ったんだけど……」=“I see. How's my outfit? For what it's worth, I tried to dress well too...”
+（めっちゃ鋭い目つきで見てくる……）=(What a sharp gaze...)
+「……ど、どう？」=“...H-How is it?”
+「……まぁまぁ、かな」=“...It's so-so.”
+「服装で大事なのは……配色。色のバランスは、上下で意識したほうがいい」=“When picking an outfit, what's important is... the colorscheme. You should try to balance out the colors, between the top and bottom.”
+「あはは、やっぱりセンスって磨かないとダメなんだな……」=“Ahaha, guess I really gotta work on my fashion sense, huh...”
+「……でも、不思議と悪くない。多分……あなた、だから」=“...But, for some reason, it doesn't look bad. It's probably... because it's you.”
+「……ありがとう。嬉しいよ」=“...Thank you. That makes me happy.”
+「……興味ない」=“...Not really.”
+「そうなんだ。でも、今日はいつもより可愛いと思うけど」=“I see. But, I feel like you're a lot more adorable than usual today.”
+「まあでも、俺もそこまで服に詳しいわけじゃないんだ。ブランドのかっこいい服って高いからさ、なかなか買えないし」=“But well, I don't really know that much about fashion either. Cool branded clothes are real expensive so, it's kinda hard to justify buying them.”
+「……わかる。服、高いと思う。……趣味のものが幾つか買えるって計算すると、手が出なくなる」=“...I feel you. Clothes are, expensive. ...When I try to calculate the total I'd have to pay for the clothes I like, my hand just stops on its own.”
+「あはは、確かに。今の俺たちには無理に頑張らなくていい公園デートくらいが丁度良いのかもな」=“Ahaha, for sure. For us, a park date like this is probably the best, since we don't have to try so hard.”
+「……うん。でも、いつかは大人なデートもしてみたい……かも」=“...Yeah. But, someday, I wanna go on an adult date too... I think.”
+「うっ……。コイカツ部の部長としてもっとレベル上がったら、その時に……がんばります」=“Uu--... Once my skill level is higher, as the Koikatsu club president, I'll... I'll do my best.”

@@ -1,3 +1,6 @@
-﻿「うん、いいよ。授業でわからないところがあったから、誰かに聞こうと思ってたんだ」=Yeah, okay. I was just thinking of asking somebody for help, since there's a bunch of stuff I really can't wrap my head around going on in class.
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「うん、いいよ。授業でわからないところがあったから、誰かに聞こうと思ってたんだ」=Yeah, okay. I was just thinking of asking somebody for help, since there's a bunch of stuff I really can't wrap my head around going on in class.
 「そうなんだ。俺でよければ力になるよ」=I see. If I'll do, then I'll try my best to help.
 「本当にあなたは頼りになるなぁ」=You really are just so reliable.

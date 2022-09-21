@@ -1,4 +1,7 @@
-﻿「はぁはぁ……意外と負けず嫌いなんだな」=Haahaa... you sure do hate losing, I didn't expect that.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「はぁはぁ……意外と負けず嫌いなんだな」=Haahaa... you sure do hate losing, I didn't expect that.
 「ぜぇぜぇ……も、もう一度、勝負なんだよ」=*wheeze*... W-We're doing it, one more time.
 「だ、大丈夫なの？」=A-Are you sure?
 「駆けっこ……勝つまでやるんだからね」=We'll race... until I win.

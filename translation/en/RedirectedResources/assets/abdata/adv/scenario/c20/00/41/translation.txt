@@ -1,1 +1,4 @@
-﻿「きゃ、きゃぁぁ！　は、入ってこないでくださいよ！　で、出てってください！」=K-Kyaah! P-Please don't come in here! P-Please leave!
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「きゃ、きゃぁぁ！　は、入ってこないでくださいよ！　で、出てってください！」=K-Kyaah! P-Please don't come in here! P-Please leave!

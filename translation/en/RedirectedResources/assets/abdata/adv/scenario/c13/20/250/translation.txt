@@ -1,4 +1,7 @@
-﻿「すごく楽しかった分、独特の寂しさがあるよねー……」=For every ounce of fun we had, it feels more lonely now, doesn't it...
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「すごく楽しかった分、独特の寂しさがあるよねー……」=For every ounce of fun we had, it feels more lonely now, doesn't it...
 「魔法がとけちゃった感じだよね」=Feels like the spell wore off, doesn't it?
 「そうそう！　そんな感じ！」=Exactly! That exact feeling!
 「これは、また魔法をかけてもらいに行かなきゃいけないね」=We'll just have to go on it again sometime, to have the spell cast on us again.

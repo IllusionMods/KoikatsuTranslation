@@ -1,0 +1,13 @@
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+………………=.........
+…………=......
+……=...
+「んっ……ここまでか。気を付けて……帰れよ？」=Nn--... Till here, huh? Be careful... on your way home, okay?
+CHOICE:「家に寄ってかない？」=Won't you drop by my place?
+CHOICE:「[H名]も気を付けてね」=You be careful too, [H名]
+「えーっと、家に寄ってかない？　もう少し一緒にいたくて」=Erhm, won't you drop by my place? I want to be with you for a bit longer.
+「あ、あぁ……いいぞ。丁度私も……暇だったしな……うん」=Ah, yeah... Okay. I was just... free too... yeah.
+「うん、[H名]も気を付けてね」=Yeah, you be careful too, [H名].
+「そっけない奴だ……ンッ、何でもない。ではな」=What a cold guy... Nn--, It was nothing. See ya.

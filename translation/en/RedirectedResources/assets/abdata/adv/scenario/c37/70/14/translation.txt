@@ -1,0 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「おはようございます」=Good morning~
+「もういい時間ですよ、早く起きて下さい」=It's morning already, so wake up quickly~
+「でないと、あなたの無防備な顔を見続けてしまいます……さぁ、起きて下さい」=If you don't, I'll keep staring at your defenseless face~... Come now, wake up.

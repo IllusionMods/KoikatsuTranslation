@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「せっかくあなたと一緒にお勉強できるですから、私、今日はやってやってやりまくるですよ！」=“I finally get to study with you, so I'm going to study up a storm, a tempest, a whole whirlwind!”
 「お、気合い入ってるね！　科目は何をやるの？」=“Oh, someone's really into it! What subject are we doing today?”
 「全科目いけるとこまでいくです！」=“Every single one of them!”

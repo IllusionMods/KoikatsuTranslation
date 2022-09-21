@@ -1,0 +1,24 @@
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「ん～、やっぱり大きな声で歌うとスッキリするわね」=“Nn~, singing your heart out really does make you feel refreshed, doesn't it?”
+「はは、すっごく晴れやかな顔してる」=“Haha, that's such a bright expression you've got.”
+「あれ？　あんた、次の曲入れてないけど歌わないの？」=“Huh? You're not putting in a song, are you not gonna sing?”
+「うん、小腹が空いたから何か頼もうと思って」=“Yeah, I'm feeling a bit peckish so was thinking of ordering something.”
+「とりあえずフライドポテトを頼むけど、[H名]は他に食べたいのある？」=“I'll order some fries for myself but, what about you, [H名]? Anything you wanna eat?”
+「うーん……このミニピザがいいわ」=“Mmm... I'd be fine with this mini-pizza.”
+「了解。……よし、注文完了っと」=“Roger. ...Alright, order placed.”
+「こういうの頼んでると、自分が歌ってるときに限って、店員さんが運んで来ない？」=“When you order food in a place like this, don't you feel like the staff only bring in the food right when you're singing?”
+「ああ、あるある。来たことに気づかないで、熱唱してたときが一番恥ずかしかったなぁ」=“Ah, I feel you. That time when I didn't notice them and kept singing enthusiastically anyway was so embarrassing.”
+「うっ、自分のことじゃないのに顔が赤くなってきた……」=“Uu--, even though it didn't happen to me, I'm getting embarrassed too...”
+「ははは……それが嫌だったから、何も入れてなかったんだよ」=“Hahaha... that's why I didn't put in any songs.”
+「ふふ、策士ね」=“Fufu, what a tactician.”
+「あと、休憩を入れておかないと、中々話す時間もないからさ」=“Also, if we don't take breaks, we won't get to chat much either.”
+「カラオケは好きだけど、あんまり会話できないのが難点なんだよなぁ」=“I love Karaoke but, not being able to talk much at all is one of its biggest flaws.”
+「……それなら、普通の言葉の代わりに歌で会話するのはどうかしら？」=“...In that case, rather than using words, how about we talk with songs instead?”
+「どういうこと？」=“What do you mean?”
+「話す側が今の気持ちを綴った歌を歌って、受け取った方はアンサーソングになる歌を歌って……それを繰り返していくの」=“The one who wants to talk would sing a song that describes their feelings, and the listener could sing an answer song back... and we could just keep that going.”
+「イメージに合う曲は中々ないかもしれないけど、面白うそうじゃない？」=“It probably would be pretty hard to find the right songs for the right emotion but, doesn't it sound interesting?”
+「続けるのが難しそうだね……でも、確かに面白そう！」=“Would be pretty hard to keep it going, indeed... but, certainly, it does sound interesting!”
+「よし、さっそく[H名]にラブソングを――」=“Alright, [H名], I'mma dedicate a love song to--”
+「今入れたら途中で店員さんが来ちゃうわよ！」=“If you put it in now, the wait staff will come in midway!”

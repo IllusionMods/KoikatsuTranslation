@@ -1,4 +1,7 @@
-﻿「きゃっ！　あの、ここは女子トイレですよ？」=Kyah--! Uhm, this is the girls' toilet, you know?
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「きゃっ！　あの、ここは女子トイレですよ？」=Kyah--! Uhm, this is the girls' toilet, you know?
 「きゃああっ！　み、見ないでください！」=Kyaaah--! P-Please don't look!
 「その……急いでいるので失礼します」=Uhm... I'm in a rush, so please do excuse me.
 「……なんですか？」=...What is it?

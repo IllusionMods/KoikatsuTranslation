@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「あっ、おかえり。ドリンクバー混んでたの……って、顔赤いけど大丈夫？」=“Ah--, welcome back. The drink bar was pretty crowded, huh... wait, your face is all red, you okay?”
 「ととと、隣の部屋で……っち……してた……」=“I-I-I-In the next room over... avin... ex...”
 「あー……なるほど」=“Ah... I see.”

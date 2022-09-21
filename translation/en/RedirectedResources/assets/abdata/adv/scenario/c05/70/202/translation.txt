@@ -1,0 +1,27 @@
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「ここって、ゲームセンターみたいな筐体も置いてあるんだね……お、クレーンゲームだ」=“This place has, an arcade of all things too, huh... oh, it's a claw machine.”
+「ぶっちゃけた話、クレーンゲームとかを見たときも、“かれら”を思い起こしたりするの？」=“Alright, I'll bite. When you see something like a claw machine of all things, does even that bring "them" to mind too?”
+「そんなことはないよ。あれはただの遊び。“かれら”はもっとスマートだもん。“かれら”に失礼だよ？」=“Not at all. It's just a pass time. "They" have a lot more style than this. That's almost an insult to "them", you know?”
+「ごめんごめん、ちょっとデリカシーなかったね」=“Sorry, sorry. Shouldn't have been so harsh.”
+「でもそれはそれとして、クレーンゲームは好き」=“But all that aside, I do love claw machines.”
+「割り切ってるなぁ」=“Seems legit.”
+「なら、ちょっとやってみようよ」=“Then, let's try playing it.”
+「[H名]のお手並み拝見、ってところで」=“Show me what you've got, and all.”
+「……上手いとは言ってないからね？」=“...Just for the record, I didn't say I was any good at it, okay?”
+「おおっ……冗談抜きで上手いな」=“Oooh--... in all seriousness, you're amazing at this--”
+「やった、また取れたよっ」=“Yay, I got another one--”
+「え、またっ！？」=“Eh, again--!?”
+「ふぅ……ひと段落」=“Fuu... good enough for now.”
+「これは大漁だなぁ。俺の出番なんてなかったね」=“What a big haul. I didn't even get a chance to show off.”
+「ううん、そんなことないよ？」=“That's not true, you know?”
+「そう？　あ、もちろん荷物持ちくらいなら……って、[H名]？」=“That so? Ah, of course, I'll carry it all for you, yeah... what, [H]?”
+「いきなりどうしたの？　クレーンゲームのレバーを二人で持つとか、なかなか斬新なプレイスタイルだと思うんだけど……」=“What's the matter, all of a sudden? Holding the joystick together like this, if nothing else, is a pretty 'novel' technique, I must say...”
+「このゲームが得意なのは、わたしの潜在的な力をフルに活用しているからなの」=“The reason I'm so good at this game, is because I get to use all my latent power at it.”
+「つまり理論上は、あなたにも力を注いでもらったほうが成果が出る」=“So basically, the theory goes that, if I get you to pour your own power into it too, we'll get better results.”
+「だ、だから……一緒にやろ？」=“S-So... let's do it together?”
+「はは、そっか。わかったよ」=“Haha, I see. Got it.”
+（どんな論理なのかは、いまいち理解できないけれど……）=(Don't think I understand what that "theory" is about though...)
+「ほら、取れたっ！　ね、言ったでしょ？」=“Look, we got it--! See, I told you, didn't I?”
+（まあ、[H名]が楽しそうだから、それだけで十分か）=(Well, she seems to be enjoying herself, so I guess that's enough for me.)

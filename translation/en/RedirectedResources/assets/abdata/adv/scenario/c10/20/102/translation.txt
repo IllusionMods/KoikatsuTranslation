@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 （それにしても、ちょっと暑いな。なんだか喉が渇いてきた……）=(Even so, it's pretty damn hot. My throat feels so dry...)
 「ねぇ[H名]、そろそろここで水分補給を……って、ええ！？」=“Hey, [H]. I think we really should take a break here, and go for some refresh... wuh, eeeeh!?”
 「はぁ……はぁ……ふら、ふらぁ……」=“Haah... haah... so, dizzy...”

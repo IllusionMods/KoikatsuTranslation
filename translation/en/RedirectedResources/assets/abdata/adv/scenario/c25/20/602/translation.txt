@@ -1,4 +1,7 @@
-﻿「また、ここに来ちゃったな～。相変わらずアダルトな雰囲気っす」=We came here again~. The adult air of this place never changes.
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「また、ここに来ちゃったな～。相変わらずアダルトな雰囲気っす」=We came here again~. The adult air of this place never changes.
 「まあ……ラブホだしね」=Well... it is a love hotel, afterall.
 「……もう、したい？」=...Wanna do it already?
 「それは……うん、今すぐ抱きしめたい」=That's... yeah, I wanna hold you, right now.

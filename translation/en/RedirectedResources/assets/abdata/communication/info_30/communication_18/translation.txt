@@ -1,4 +1,6 @@
-﻿
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
 「ここ、女子トイレですよ！？」=This is the girls' toilet, you know!?
 「ここは男子禁制です！」=Boys are not allowed here!
 「ごめんなさい、急いでますので……」=I'm sorry, I'm in a rush...
@@ -90,6 +92,7 @@
 「私、不幸なんじゃなくてドジなだけだと思うんです」=I don't think I'm all that unlucky, I think I'm just pretty clumsy.
 「そうですよね！　注意すれば平気ですよね！」=Yep, must be! If I start being careful things will be fine, won't they!
 「あ、あはは……。やっぱり無理ありますか……？」=A-Ahaha... Too much to ask for...?
+「ご、ごめんなさい！　答えにくい事訊いちゃって」=I-I'm sorry! I didn't mean to ask something so awkward.
 「動物は好きですか？　主にペットとか」=Do you like animals? I mean pets and stuff.
 「見ているだけでも、癒やされますよね」=Even just looking at them heals the soul, doesn't it?
 「あら、あなたもですか？　実は私も、ちょっと……」=Oh my, you too? Actually me too, a bit...

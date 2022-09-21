@@ -1,4 +1,9 @@
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+OPTION[0]:はい=Yes.
 はい=Yes.
+OPTION[0]:いいえ=No.
 いいえ=No.
 OPTION[1]:っぽい=Yah.
 っぽい=Yah.
@@ -90,6 +95,12 @@ OPTION[107]:いいよ=It's fine.
 OPTION[107]:ごめん=...I'm sorry.
 OPTION[108]:いいよ=It's fine.
 OPTION[108]:ごめん=...I'm sorry.
+OPTION[109]:はい=Yes.
+OPTION[109]:いいえ=No.
+OPTION[200]:はい=Yes.
+OPTION[200]:いいえ=No.
+OPTION[201]:はい=Yes.
+OPTION[201]:いいえ=No.
 OPTION[202]:いいよ=It's fine.
 OPTION[202]:ごめん=...I'm sorry.
 OPTION[203]:いいよ=It's fine.

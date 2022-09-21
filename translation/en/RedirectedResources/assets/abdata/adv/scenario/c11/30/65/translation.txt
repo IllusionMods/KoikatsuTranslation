@@ -1,4 +1,6 @@
-
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
 「いつもこの通学路を使ってるの？」=“Do you always take this path back?”
 「普段はね。でも遅刻しそうな時は、抜け道を通ることもあるかな」=“Usually. But, when I'm running late, I sometimes take a shortcut of sorts.”
 「まぁ、抜け道なんて楽しそうね！　あなたが見つけたの？　私にも教えてくれるかしら」=“My, that sounds fun! Did you find it yourself? Will you show it to me too?”

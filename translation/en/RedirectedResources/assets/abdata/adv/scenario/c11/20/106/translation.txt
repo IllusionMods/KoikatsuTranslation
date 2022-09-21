@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「ふう、やっぱり壮観だね、この景色は……」=“Fuu, it really is magnificent, this scenery...”
 「またこの景色を、あなたと見られて嬉しい……。ふふ、今日は色々あって疲れたけど、元気になれそうよ」=“Being able to see this scenery with you again, makes me so happy... Fufu, I'm a bit tired from all of today's happenings bit, feels like I'll be right as rain in no time.”
 「そうなの？　疲れてたんだ……いろいろ引っ張り回し過ぎたかな？」=“That so? You're tired, huh... Did I drag you around too much?”
@@ -10,6 +13,8 @@
 「あなたの前で、あなたとのエッチなことを思い出すだなんて……恥ずかしすぎるわ」=“To think I'd remember the things we did, right in front of you... it's way too embarrassing.”
 「……じゃあ、思い出すんじゃなく、実際やってみるっていうのはどう？」=“...Then, how about we actually do the deed, instead of just remembering it?”
 「ふふ、そんな言い方されたら拒めないじゃない。でも、本気なの？」=“Fufu, I can't exactly say no to that, now can I? But are you serious?”
+CHOICE:『本気だよ』=I'm serious.
+CHOICE:『今日はこれぐらにしておこう』=No, let's take it easy for today.
 「もちろんだよ……俺、いつだって[H名]とエッチなことしたいって思ってるからね」=“Of course... I'm always in the mood for sex with you, afterall.”
 「ふふ、そんなこと真剣に言わないの。でも、そういうなら喜んで♪」=“Fufu, don't say that stuff so earnestly. But, if that's how you feel, then I'll gladly do it.”
 「よかった、嬉しいよ」=“Great, I'm so happy.”
@@ -27,6 +32,3 @@
 「わかったよ」=“I got it.”
 「じゃ、帰りましょう。あ、忘れ物はない？　暗いから足元気をつけるのよ？」=“Then, let's go home. Ah, you didn't forget anything, right? It's dark so watch your step, okay?”
 「ははは、心配しなくて大丈夫だよ。さあ、行こう──」=“Hahaha, you don't need to worry so much. Now then, let's go.”
-
-CHOICE:『本気だよ』=I'm serious.
-CHOICE:『今日はこれぐらにしておこう』=No, let's take it easy for today.

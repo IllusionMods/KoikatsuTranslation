@@ -1,4 +1,7 @@
-﻿「ねえ、[Pあだ名]」=Hey, [Pあだ名].
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
+「ねえ、[Pあだ名]」=Hey, [Pあだ名].
 「どうしたの？　すごく機嫌良さそうだけど」=What's up? You sure look like you're in a good mood.
 「むっ、今その機嫌も悪くなりそうだわ。私が愛称で呼んでるのに」=Muh--, and you're going to go and ruin it. I called you a nickname and everything too.
 「あ、愛称……？」=A-A nickname...?

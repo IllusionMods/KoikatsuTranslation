@@ -1,4 +1,7 @@
-﻿「デート、デート……、初めてっすよこんなこと……」=A date, a date... it's my first time, you know, doing something like this...
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「デート、デート……、初めてっすよこんなこと……」=A date, a date... it's my first time, you know, doing something like this...
 「俺だって緊張してるよ。今日は一緒に楽しもう」=I'm nervous myself too, you know. Let's have a blast together today.
 「インドア派なんで～、行先とか全部お任せなんだけど～」=I'm the indoorsy sort so~, I'mma leave all of the details to you~
 「はは、大丈夫だよ、任せて」=Haha, it's alright, I'll take care of it.

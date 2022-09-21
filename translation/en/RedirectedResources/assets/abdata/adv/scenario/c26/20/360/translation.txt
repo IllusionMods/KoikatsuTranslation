@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+//
 「……声、漏れて、ない？」=“...Our moans, didn't, leak out?”
 「まぁ、気になるよね。でも、大丈夫だよ。横切る影はなかったと思うし」=“Well, can't blame you for minding that. But, it's alright. I don't think they did.”
 「空調が聞いてるとはいえ、少し体が火照ったよ。[H名]も温かったし」=“Even with the air conditioning going, that got a bit steamy. You were so warm too, [H].”

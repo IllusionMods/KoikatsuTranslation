@@ -1,4 +1,6 @@
-
-//「む……いつもと味が違う？」=
-//「そうなの？　よく気づくね」=
-//「我の好みの味だからな」=
+//
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
+//
+「む……いつもと味が違う？」=“Muh... it tastes different than usual...?”
+「そうなの？　よく気づくね」=“Really? You've some sharp senses.”
+「我の好みの味だからな」=“I can tell, since I do love this flavour.”
