@@ -5,6 +5,6 @@
 「やったぁ。ありがとう」=“Yay~. Thanks.”
 「あなたと、いつもみたいにアニメとかゲームの話をする部活だよね？」=“It's a place where I can spend my day chatting with you about games and anime and stuff, like we usually do, right?”
 「うん。そんなところだよ。あとは、スキンシップとか」=“Yeah. Basically. Also, some skinship and stuff.”
-//「スキンシップ？　もしかして、それって、エロ同人みたいなこと///」=
+「スキンシップ？　もしかして、それって、エロ同人みたいなこと///」=“Skinship?　Could it be, that you mean the kind you see in hentai manga?”
 「まっ、まあ……それは、そのうちに説明するよ」=“W-Well... we'll cross that bridge when we get there.”
 「そっか。あなたとどんなことをするか楽しみだ。それでは、よろしく」=“I see. I'm excited to see just what we're gonna do. Well then, glad to join, prez.”

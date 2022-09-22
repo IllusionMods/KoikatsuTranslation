@@ -8,8 +8,8 @@
 「えぇぇ……じゃあ、もう出る？」="Eeeh... Then, shall we leave?"
 「フフッ、その曇った顔が見たかっただけよ。残った時間は、ずっと貴方を苛めてようかしら」="Fufu, I just wanted to see that lonely look on your face. Maybe I should tease you for our remaining time."
 「いやぁ……」="I wonder..."
-//CHOICE:『一緒にいられるなら、それでもいいかな』=
-//CHOICE:『心が折れそうだから、今日はもう帰ろう』=
+CHOICE:『一緒にいられるなら、それでもいいかな』=Would it be okay if we stayed together?
+CHOICE:『心が折れそうだから、今日はもう帰ろう』=My heart feels about to break, let's go home for today
 「苛められるのはいつもの事だし、[H名]さんと一緒にいられるなら構わないよ」="You can always tease me, and if I can be together with Miss [H名], then I don't mind."
 「あら、そういう反応されると、逆につまらないのよね」="Oh, if you react like that, it becomes uninteresting."
 「わかってる。でも、それが俺の本心だから」="I know, but those are my true feelings."

@@ -11,7 +11,7 @@
 「この人を守り、笑顔を絶やすことなく幸せにすることを誓いますか？」="To protect this woman and make her happy, lest letting her smile disappear?"
 「はい、誓います」="Yes, I promise."
 「[H名]さん、あなたはこの男性とお付き合いし、より親密な関係になろうとしております」="Miss [H名], you wish to get ever more intimate with this man, who you're associated with..."
-//「……はい、誓います」=
+「……はい、誓います」=“... Yes, I swear.”
 「それでは、二人の愛の証として、誓いのキスをお願いします」="Thereupon, as a proof of your love, you may kiss the bride."
 「[H名]さん、あくまでモデルだけど……俺、感動してる」="Miss [H名], we're models, but... I'm deeply moved."
 「誓いの言葉って不思議だね。たった一言なのに、[H名]さんを絶対幸せにしなきゃって、心が熱くなってる」="The vow was wonderful. It's just a few words, but I felt this warmth in my heart, like I absolutely must make you happy."
