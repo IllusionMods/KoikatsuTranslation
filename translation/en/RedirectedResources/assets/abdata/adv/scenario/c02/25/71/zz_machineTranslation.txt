@@ -1,0 +1,5 @@
+「………………静かだね」=“...It's so quiet.”
+「……ええ、静かですわね。こういう時は勉強以外のことも捗りそうですわ」=“... yeah, it's quiet. I'm sure you'll make progress on something other than your studies at times like this.”
+「勉強以外って？　恋人同士でするようなこと？」=“I'm not sure what you mean by that, but I think it's a good idea.　I'm sure you'll be able to find a way to get a good deal on it.”
+「おーっほっほっほ、そんなこと、ここでは言えませんわ」=“Oh-ho-ho, I can't say that here.”
+「シーッ……高笑いは控えて。ここ図書室だから……」=“Shhhh... refrain from laughing too hard. This is the library...”

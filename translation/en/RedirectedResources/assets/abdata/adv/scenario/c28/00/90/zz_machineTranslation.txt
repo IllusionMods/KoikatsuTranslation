@@ -1,0 +1,12 @@
+「のう、お主。わしらってどうして愛称で呼び合わんのじゃ？」=“Oh, boy. Why don't we call each other by our nicknames?”
+「うーん、どうしてだろう？　タイミングがなかったからかな」=“Hmm, I don't know why.　Maybe because the timing wasn't right.”
+「タイミングか。なら、なければ作るまでよ！　そういうわけで、お主のことを愛称で呼んでみようと思う。拒否権はない！」=“Timing. Well, if I don't have it, I'll make it!　I'm going to call you by your nickname. You can't veto that!”
+「まあ、変なのじゃなかったら拒否する理由もないし」=“Well, if it's not too weird, there's no reason to say no.”
+「なら問題ない、自信作じゃからの！　では、呼びかけるぞ」=“Then it's all right. I'm proud of it.　I'll call out to him.”
+「……うん、なんていうか……[Hあだ名]らしくて安心したよ」=“...Yeah, what can I say, it's like ...[Hあだ名], I'm relieved!”
+「そうじゃろそうじゃろ……って、お主、それはわしの愛称か？」=“Yes, yes... is that your nickname for me?”
+「今考えてみたんだけど、どう？」=“I've just been thinking about it. What do you think?”
+「……良いのじゃ！　ふふっ、感謝するぞ」=“... is fine!　Thank you.”
+「気に入ってくれたみたいで嬉しいよ」=“I'm glad you like it.”
+「うむ。意外とよいものだな。また呼んでみてもよいか？」=“Hmm. I don't mind, do you? Can I call you again?”
+「もちろん、いいよ」=“Not at all.”

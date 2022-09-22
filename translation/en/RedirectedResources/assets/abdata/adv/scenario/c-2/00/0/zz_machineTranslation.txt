@@ -1,0 +1,7 @@
+「あなたの事情は把握しているけれど、この学園に入ったのなら勉学を疎かにしないように」=“I'm aware of your situation, but if you've joined this academy, don't neglect your studies.”
+「は、はい……」=“O-Okay...”
+「それと、生活態度についても注意すること。良いかしら」=“And a note on your attitude towards life. I hope that's okay.”
+「わ、わかりました」=“Wow, okay.”
+「返事が頼りないわね」=“You're so unreliable with your replies.”
+「わかりました……！　気をつけます！」=“Okay...　I'll be careful!”
+「……よし。それじゃあ」=“...Okay. Okay, then.”

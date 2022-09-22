@@ -1,0 +1,5 @@
+「はぁ、楽しかった時間が過ぎ去っていく……さらば遊園地……」=“Huh, good times gone by... Farewell amusement park...”
+「もう、恥ずかしいからそういうのやめて？　皆に見られてるわよ？」=“Stop that embarrassing behavior.　Everyone's staring at you.”
+「うぅ、だって……夢のような時間から現実に帰るのが辛くて」=“Ugh, because ... it's hard to come back to reality after such a dreamy time.”
+「現実があるから夢が見れるのよ。まずはしっかり地に足をつけないとね」=“You can dream because there's reality. We need to get our feet firmly planted on the ground first.”
+「ごもっとも……[H名]はいつもいいこと言うね」=“You're right...[H名] always has such nice things to say.”

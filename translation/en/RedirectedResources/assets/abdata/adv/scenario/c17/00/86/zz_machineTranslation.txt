@@ -1,0 +1,8 @@
+「ねえ、部長さん、ここを見てほしいのだけれど」=“Hey, boss, I want you to look at this.”
+「[H]さんのスマホがどうしたの？　何々、『キスのいろは講座』……？」=“What's wrong with [H]'s phone?　What's that, "The Art of Kissing" ...?”
+「ええ、昨夜この記事を見つけて……勉強してみない？」=“Yeah, I found this article last night, and I thought you might want to study ...”
+「うん、もちろんいいよ。やってみよう」=“Yeah, sure, sure. Let's do it.”
+「んんっ……ちゅっ……」=“Nnn--... *kiss*...”
+「えっと、これがプレッシャーキスだって」=“Uh, well, it's called a pressure kiss.”
+「……これ、すごくいいわね。もう一回しない？」=“... This is so good. Can we do it again?”
+「りょうかい。じゃ、いくよ」=“Okay. Okay, here we go.”

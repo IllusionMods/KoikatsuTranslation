@@ -1,0 +1,3 @@
+「では、準備体操をいたしましょう」=“Let's do the warm-up exercises.”
+「きみは運動得意？」=“Are you athletic?”
+「運動系の習い事もしておりますので。では、向かいましょう」=“I have some athletic lessons, so... Okay, let's head over.”

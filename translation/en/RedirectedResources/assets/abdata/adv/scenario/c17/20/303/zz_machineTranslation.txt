@@ -1,0 +1,17 @@
+「あら、そろそろ終了の時間ね」=“Oh, it's time to end this.”
+「え？　うわ、本当だ」=“Huh?　Wow, it's true.”
+CHOICE:『延長して、もうちょっと歌おうよ』=『Let's extend it and sing a bit more』
+CHOICE:『そろそろ出ようか』=Maybe we should head back.
+「延長して、もう少し歌わない？　もっと[H名]さんの歌が聴きたいな」=“Can we sing a little longer?　I'd like to hear more of [H名]'s singing.”
+「……仕方ないわね。さぁ！　そうと決まれば、早速次の曲を入れるわよ」=“... I don't have a choice. Come on, now!　If you decide to do that, I'll get the next song in as soon as I can.”
+「ははは、ノリノリだね」=“Ha ha ha, you're in high spirits”
+「それじゃあ、そろそろ出る仕度をしよっか」=“I'm not sure how much I'm going to be able to do.”
+「いいわよ。忘れ物をしないようにね？」=“Okay. Just make sure you don't forget anything, okay?”
+「大丈夫。さぁ、行こうか」=“Don't worry. Okay, let's go.”
+「あっ、でもあと一曲くらいなら歌える時間あるよ」=“Oh, but there's time for one more song.”
+「せっかくだし、時間いっぱいまで歌ってから出ようか」=“I'm going to sing until the end of time and then we'll leave.”
+「そうね……最後は私がいれてもいいかしら？」=“I know... can I finish up?”
+「もちろん！　合いの手は任せてよ！」=“Of course!　You can count on me for a hand!”
+「別にいらないわ。よし、この曲を入れて……っと」=“I don't want it. Okay, I'll just put this song on ...”
+『小さな手の平 掴める物は きっと限られているけど～♪』=『This small hand, the things it can grasp, they are surely limited, but~♪』
+（うーん……思わず合いの手をいれたくなるくらい、ノリノリだな）=(I'm so flirty that I can't help but ... want to join in!)

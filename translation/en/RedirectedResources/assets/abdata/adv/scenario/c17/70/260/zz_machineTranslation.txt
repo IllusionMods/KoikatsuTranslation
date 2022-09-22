@@ -1,0 +1,4 @@
+「まったく、時と場所をわきまえなさい」=“You know when and where.”
+「ごめん。でも、これは不可抗力で……」=“Sorry. But this was a force majeure...”
+「わきまえなさい」=“You know what I mean.”
+「は、はい」=“O-Okay.”

@@ -1,0 +1,8 @@
+「――で？　その後、どうなったの？」=“So...　What happened then?”
+「うん、それで……って、だんだん混んできたね、今何時だろ……わっ！　もうこんな時間っ？」=“Yeah, and ... it's getting crowded, what time is it?　It's that late already?”
+「うわ、本当だ。まだ一時間ぐらいしか喋ってないと思ってたよ」=“I've only been talking for about an hour. I thought we'd only been talking for an hour or so.”
+「私もー……えへへ、時間を忘れるぐらい話し込んじゃうとか、私たち仲良しだね」=“Me too ... hehe, we're such good friends that we talk so much that we lose track of time!”
+「あはは、本当にね。話題も尽きないし、幼馴染みじゃないのが不思議なくらいだよ」=“Ha, ha, really. We have so much to talk about, it's a wonder we haven't been friends since childhood.”
+「もしかしたら前世で幼馴染みだったのかも、なーんて」=“I'm not sure if we were childhood friends in a previous life...”
+「もしそうでも俺は驚かないよ、フィーリングばっちりすぎだし……あ、今入ってきた人でちょうど満席だね。出ようか」=“I'm not surprised if it is, the feeling is perfect... Oh, it's just about full with people who just came in. I'm not sure what you're talking about.”
+（喫茶店でずっと話してただけだったけど、充実した時間だったなぁ……）=(We just talked all the time in the coffee shop, but it was a fulfilling time...)

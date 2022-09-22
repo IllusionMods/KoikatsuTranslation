@@ -1,0 +1,3 @@
+「あ、……ちょっと待つのじゃ」=“Oh... wait a minute.”
+「今日の家庭科の授業でな、これを作ったのじゃ。お主に食べてほしくてな……」=“I made this for home economics class today. I made this in home economics class today. I wanted you to try it...”
+「そ、それだけじゃ。……ではさらばじゃっ」=“That's it. Goodbye at ...”

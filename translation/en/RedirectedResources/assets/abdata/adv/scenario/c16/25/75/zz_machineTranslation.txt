@@ -1,0 +1,5 @@
+「ぐぁっ！　砂が目に入った！」=“Aaagh!　I've got sand in my eyes!”
+「えっ、大丈夫？　ほら、ちょっと見せて……」=“What, are you okay?　Here, let me see...”
+「あー、大丈夫だよ。涙と一緒に出ちゃうと思うし……」=“Oh, it's okay. I'm sure it'll come out with the tears...”
+「だめよ。失明したらどうするの？　少しじっとしてて」=“No, you can't. What if I go blind?　Just hold still for a second.”
+「（うわぁ……[H姓]さんの汗の匂いで……頭クラクラしてきた……）」=“(Wow... the smell of [H姓]'s sweat is making me ... dizzy...)”

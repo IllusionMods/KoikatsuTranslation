@@ -1,0 +1,12 @@
+「いくつになっても、遊園地は楽しめるものね」=“I'm sure you'll have fun at the amusement park no matter how old you are.”
+「うん、そうだね……っと、もうこんな時間か……」=“Yeah, that's right...”
+CHOICE:『最後に観覧車に乗ってかない？』=『Wanna go ride on the Ferris Wheel to end the day?』
+CHOICE:『暗くなる前に帰ろうか』=『Shall we go home before it turns dark?』
+「ねえ、最後に観覧車に乗ってかない？　夜景を見たいと思うんだけど」=“Hey, do you want to go on the Ferris wheel one last time?　I think I'd like to see the night view.”
+「ふふっ、まだ遊び足りないの？」=“Pfft, haven't you had enough fun yet?”
+「それもあるけど……[H名]さんと一緒に、空の上から綺麗な景色を見ておきたいんだ」=“That's one thing, but I'd like to see the beautiful scenery from up in the sky with ...[H名].”
+「そう……。あなたがどうしてもと言うなら……えぇ、私もやぶさかではないわ」=“Yes... If you insist... Yeah, I wouldn't blame you.”
+「そろそろ帰ろうか。辺りも暗くなってきたし」=“I think it's time to go home. It's getting dark.”
+「私はそれでもいいけど、あなたはまだ遊び足りないのかと思っていたわ」=“I'm okay with that, but I thought you weren't done playing around with it.”
+「まぁ、そうなんだけど。でも、また二人で来たときの楽しみにとっておくから今は良いよ」=“I'm not joking. I'm not going to say no, but I'm going to save it for another time when we're both here, so not now.”
+「そ、そうね。私もあなたとまた来るのが楽しみよ」=“Yeah, sure. I'm looking forward to coming back with you.”

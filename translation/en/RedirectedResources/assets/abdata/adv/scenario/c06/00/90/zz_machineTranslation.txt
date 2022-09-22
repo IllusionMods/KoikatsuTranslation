@@ -1,0 +1,12 @@
+「本日は、折り入ってお願いがございます」=“I have a favor to ask you today.”
+「お願い？　何かな？」=“Please?　Yes?”
+「あなたのことを、お名前でお呼びしてもよろしいでしょうか」=“May I call you by your name?”
+「名前？　いいけど、俺の許可はいらないんじゃ……恋人同士だし」=“Name?　Okay, but you don't need my permission... We're lovers.”
+「それでも確認を取っておきたかったのです。では、ご承諾いただいたので……」=“I still wanted to get your confirmation. Well then. Since you agreed...”
+「！？　す、すごくいいね……[H]が言うと、すごく色っぽいし」=“I'm sure it's very good.　That's very nice of ...[H] to say, it's very sexy.”
+「色気はわかりませんが……貴方も、いかがですか？　愛称か何かでも」=“I don't know about sexy, but how about you too ...?　A term of endearment or something.”
+「それじゃあ……[Hあだ名]……なんてどう？」=“How about ... [Hあだ名] ... then?”
+「……とてもいい響きかと存じます」=“... sounds very good, sir.”
+「なんだか呼び方を変えるって新鮮でいいね」=“I'm not sure what to call it, but it's kind of refreshing to change it up.”
+「はい……貴方さえ宜しければ、またお呼びしてもいいですか？」=“Yes... I can call on you again, if you're willing?”
+「もちろん！　いっぱい呼んでほしいな。すごく気に入ったからさ」=“Sure!　I hope you get a lot of calls. I want you to call me a lot. I like it a lot.”

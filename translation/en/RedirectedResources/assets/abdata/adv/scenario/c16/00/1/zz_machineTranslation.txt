@@ -1,0 +1,5 @@
+「[H姓]さん、今大丈夫？　その、出来れば話したいなって」=“[H姓], are you okay right now?　I mean, I'd like to talk to you if I could.”
+「ふぅん、噂通りね。そうして色々な女の子に声をかけて回っているわけ？」=“I'm not sure if it's a good idea. So that's how you've been going around talking to all these different girls?”
+「あー、まぁそうなんだけど。ごめん、気分悪くさせちゃってたかな？」=“Oh, well, yeah. Sorry, did I make you feel bad?”
+「何故謝るの？　私は事実を言っただけ。そこに特別な感情を込めたつもりはないわ」=“Why are you apologizing?　I'm just telling you the truth. I'm sure you'll be happy to know that I'm not the only one who's been there.”
+「そっか、ごめん。俺の勘違い。じゃあその、話を続けてもいいかな？」=“I see. I'm sorry. My mistake. Can we, um, continue this conversation?”

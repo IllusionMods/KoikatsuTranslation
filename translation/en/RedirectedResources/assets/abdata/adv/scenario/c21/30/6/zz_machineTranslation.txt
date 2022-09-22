@@ -1,0 +1,3 @@
+「うん？　いいけど、どこ行くの？」=“Yeah? - Yeah.　Yeah? Okay, but where are you going?”
+「まだナイショ」=“That's still a secret.”
+「えー、どこだろう。変なところはダメだよ？」=“Uh, I don't know where. No weird places, okay?”

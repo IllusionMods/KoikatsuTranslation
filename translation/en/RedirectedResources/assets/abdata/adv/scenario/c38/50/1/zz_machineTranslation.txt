@@ -1,0 +1,7 @@
+「[H名]さん。今大丈夫？　ちょっと話したいなって」=“[H名]. Are you okay now?　I just wanted to talk to you.”
+「あっ、はい、大丈夫ですよ。私でよければ、何でもお伺いします」=“Oh, yes, I'm fine. If it's okay with you, I'm happy to talk about anything.”
+「わぁ、[H名]さんて、すっごい丁寧な感じなんだね。大人っぽくて、尊敬しちゃうな」=“Wow, you're really polite, aren't you? You're very polite. I respect you for being so mature.”
+「そうですか？　堅苦しいと思われてしまうかと、心配だったのですが……」=“Is that so?　I was worried that you might think I'm too formal...”
+「うーん、そう言う人もいるかもしれないけど。俺は全然ＯＫだから、仲良くしてくれると嬉しいな」=“Hmm, some people might say that. Well, some people might say that, but I'm totally fine with it, and I hope you'll get along with me.”
+「そう言って頂けると、とても嬉しいです。こちらこそ、よろしくお願いいたします」=“I'm very happy to hear you say that. Thank you very much.”
+「うんうん、よろしく！　俺もキミみたいな子と知り合いになれて嬉しいよ！」=“Nice to meet you!　I'm glad to know a girl like you, too!”

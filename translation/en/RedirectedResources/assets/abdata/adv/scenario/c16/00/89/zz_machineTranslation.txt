@@ -1,0 +1,16 @@
+「ねぇ、お互い愛称で呼んでみない？　とりあえず提案って感じなんだけど」=“I'm not going to forget about it, am I?　I mean, it's just a suggestion.”
+「へぇ、いいんじゃない。面白そうね」=“Heh, it's good. Sounds interesting.”
+「やった！　じゃあ、俺のことはさ……[Pあだ名]って、呼んでくれる？」=“Yes!　Okay, you can call me ...[Pあだ名], okay?”
+「えっ！？　ちょっと待って。それ、本気で言ってる？　愛称っていうのはこう……名前を縮めたりとか」=“What?　Wait a minute. Are you serious?　A nickname is like... ... a contraction of your name...”
+「あー、やっぱ変かな？　どうしても[H]に呼んで欲しかったんだけど……」=“Oh, I knew it was weird?　I really wanted [H] to call me...”
+「うっ、別に……嫌とは言ってないわ。ちょっとびっくりしただけよ」=“I didn't say I didn't ... like it. I'm just a little surprised.”
+「じゃあじゃあ！　俺は[H]の事、[Hあだ名]って呼んでいい？」=“Okay, bye!　I'm [H], can I call you [Hあだ名]?”
+「い、いいんじゃない。好きになさい」=“It's okay. Do whatever you want.”
+「よしっ！　では早速。ねぇ……[Hあだ名]」=“Okay, okay, okay.　Okay, let's get to it. Hey ... [Hあだ名]”
+「うっ、な、なぁに…………[Pあだ名]」=“Ugh, what the hell...[Pあだ名]”
+「おおぉ！　いい！　最高だよ！　ありがとう！」=“Hey, hey, hey!　Oh, my God!　That's great!　Thank you!”
+「はぁ……たまに無茶振りしてくるのだから。付き合う身にもなりなさい」=“Hah... sometimes you're so reckless with me. I'm sure you'll be able to find a way to make it work for you.”
+「あはは……ほら、そこは実際に付き合ってる仲って事で」=“A-ha... see, that's where we're actually dating.”
+「調子に乗らないっ。今回だけよ」=“Don't get carried away. Just this once.”
+「えぇ～っ、そこをなんとか！　お願いします！」=“I'm not sure what you mean by that, but I'm sure you're right.　Please!”
+「もぅ、情けない声出さないの。変な所だけ熱心なんだから。わかったわよ、前向きに考えておきます」=“Stop sounding so pathetic. You're only enthusiastic in weird places. I understand. I'll keep it on the bright side.”

@@ -1,0 +1,3 @@
+「お休みのところ申し訳ございません。少々お時間をいただけますか？」=“I'm sorry to bother you while you're on break. I'm sorry to bother you on your day off, but could you give us a few minutes of your time?”
+「実は……その、家庭科の授業でくれえぷをこしらえたのですが、是非、貴方に召し上がっていただきたくて……」=“Actually... I made some klepto in home economics class, and I'd really like you to try it...”
+「お世辞にも見てくれが良いとは言えないのですが、貴方への気持ちはしっかりと込めたつもりです」=“It's not the most flattering thing to look at, but I put my heart and soul into it.”

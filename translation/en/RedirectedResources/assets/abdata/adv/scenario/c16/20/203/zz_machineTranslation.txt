@@ -1,0 +1,13 @@
+「そろそろ閉園時間も迫ってきたわね。皆帰り始めているようだけど、私達はどうしましょうか？」=“It's almost closing time. Everyone seems to be leaving, what should we do?”
+CHOICE:『最後に観覧車に乗りたいな』=CHOICE: "I want to ride the Ferris wheel one last time."
+CHOICE:『俺達も帰った方がよさそうかな』=CHOICE: "Maybe we should go home too"
+「最後に観覧車に乗ろうよ。今日のシメって感じでさ」=“How about we go on the Ferris wheel at the end? We could take a Ferris wheel ride and call it a day.”
+「そうね。ゆっくりできて丁度いいかも」=“Yeah, I know. It's good to take it slow.”
+「そうそう、最後にゆっくり、今日のデートを振り返る的な感じで」=“Oh, yeah, yeah, at the end, slowly, like a recap of today's date.”
+「それなら、上から見るのは効率的ね。園内全部を見渡せれば、次に来た時に行きたい場所も見つかるだろうし」=“Then it's more efficient to see it from above. If we can see the whole park, we can find where we want to go the next time we come back.”
+「うんうん、じゃあ早速行こうか！　人が少ないから、並ばないで乗れそうだよ」=“Okay, well, let's get going!　There's not many people here, so we won't have to wait in line.”
+「右へならえってわけじゃないけど、俺達も帰ろうか」=“I'm sorry for everything I've done to you, but I'm not going to go right back to you.”
+「群衆心理というやつね。まぁ、十分楽しんだし、もう帰るのには賛成よ」=“It's called mob mentality. Well, I've had enough fun. I'm ready to go home.”
+「うん、ギリギリで遊んで疲れちゃうよりは、余力を残して帰った方がいいよね」=“Yeah, it's better to go home with a little extra energy than to play last minute and get tired.”
+「ごもっとも。はしゃぎ過ぎて、明日動けなくなりましたでは、話にならないもの」=“You're right. I'm not going to be able to move tomorrow because I'm too excited.”
+「はは、確かにね。それじゃあ、最後にお土産くらいは見ていこうか」=“Haha, you're right. Well then, let's at least look at some souvenirs at the end of the day.”

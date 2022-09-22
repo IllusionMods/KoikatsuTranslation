@@ -1,0 +1,8 @@
+「……恋をすると女子は綺麗になると聞いたんじゃが……わしは、どうじゃ？」=“...I've heard that girls become more beautiful when they fall in love...What about me?”
+「前よりももっと、綺麗になってると思うよ」=“I think you're even more beautiful than before.”
+「本当か！？　……それも全部、おぬしのおかげじゃな……感謝の印に……キス、したいのじゃ……」=“Really?　I'd like to give you a kiss as a token of my gratitude... I'd like to kiss you...”
+「うん。しようか」=“Yeah. Let's do it.”
+「……んっ……んんっ……はぁ……もっと、してもよいか……？」=“... hmmm... ... hmmm... ... haha... ... can I do more, or... ...?”
+「もちろんいいよ。そんなに感謝してくれてるの？」=“Of course you are. Are you so grateful?”
+「……してもしても足りないくらいなのじゃ。お主のことが好きすぎて……」=“I can't ... get enough of it. I love you too much to ...”
+「俺も[H]のことが、好きだよ。だから、いっぱいキスしよう」=“I like [H] too. I like [H] too.”

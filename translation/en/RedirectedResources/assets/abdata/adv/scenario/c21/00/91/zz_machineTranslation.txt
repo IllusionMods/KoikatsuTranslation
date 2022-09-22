@@ -1,0 +1,3 @@
+「あ、おはよっ、[Pあだ名]」=“Good morning, [Pあだ名].”
+「あ……おはよう、[Hあだ名]」=“G... Good morning, [Hあだ名].”
+「えへへ……照れちゃうけど、恋人同士って感じがして、いいね♪」=“I'm embarrassed, but it feels like we're lovers.”

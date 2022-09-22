@@ -1,0 +1,10 @@
+「あ、やっほー…えと、今日の服、変じゃないかな？」=“I'm sure you'll be able to find a way to get a good deal on a new pair of shoes.”
+「え？　全然…むしろ、すごく似合ってるよ」=“Eh?　Not at all... if anything, you look great in it.”
+「えへへ、よかった♪　今日はぜんぶお任せでいいんだよね？」=“I'm glad... I can leave everything to you today, can't I?”
+「うん、任せて」=“Okay, leave it to me.”
+「お昼、おいしかったね～…あっ！　ねね、あのお店に入っていい？」=“I'm sure you'll be able to find a way to get a good meal.　I'm not sure if I want to go into that shop.”
+「いいよ。時間はたっぷりあるから、行きたいところ全部行こう！」=“Okay, I've got plenty of time. We've got plenty of time, so let's go to all the places we want to go.”
+「うん！　えへへ、最初は緊張したけど、デートってすごく楽しいね！」=“Yeah!　I was nervous at first, but dating is so much fun!”
+（よし、好感触だ。このまま目いっぱい楽しんでもらおう！）=(Okay, that's a good feeling. Let's let them have all the fun they can handle!)
+「すごい…時間があ～っという間に過ぎちゃった」=“Wow... time just flew by.”
+「まだ帰りたくないけど…また行けるよね？　それじゃ、バイバイ♪」=“I don't want to go home yet, but... we can go again, right?　Well, bye-bye...”

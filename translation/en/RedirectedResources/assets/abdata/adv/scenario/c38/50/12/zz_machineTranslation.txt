@@ -1,0 +1,5 @@
+「えっ、あっ、えっ、は、はい！　私と、ですか？　わ、わかりました……貴方がそれでよろしければ」=“Yes, yes, yes, yes, yes!　With me?　I understand... If you're okay with that.”
+「う、うん、俺は大丈夫だけど……[H名]は本当にいいの？」=“Uh, yeah, I'm fine, but are you sure ...[H名] is okay with this?”
+「い、いいです！　何も問題ありません！　恋人同士ですし、し、自然なことだと思います！」=“Yes, I'm sure!　There's nothing wrong with that!　We're lovers, and I think it's natural!”
+「そ、そうだよね？　じゃあ、なるべく優しくするから……」=“Yeah, right?　Then I'll be as gentle as possible...”
+「あ、はい……そうして頂けると助かります。その、先に言っておきますと……私、初めてですので……」=“I'll try to be as gentle as possible... Oh, yes... that would be great. Well, before you ask... I'm new to ...”

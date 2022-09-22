@@ -1,0 +1,6 @@
+「あら、きみ……そんな顔してどうしたの？」=“Oh, my God, what's wrong with your ... face?”
+CHOICE:実は部活で行き詰まって……また確認してもらえますか？=CHOICE:Actually, I'm stuck in club activities... Can you check again?
+CHOICE:ちょっと……先生と話がしたくて……=CHOICE: I just wanted to talk to ... teacher for a minute...
+「ふふっ、もちろんいいわよ」=“Huh? Of course I do.”
+「先生もまた確認したいなって思ってたところなの♪」=“I was just about to check on you again too...”
+「ええ、どんなお話でも聞くわよ。担任ですもの」=“Yeah, I'll listen to whatever you have to say. I'll listen to anything you have to say. I'm your homeroom teacher.”

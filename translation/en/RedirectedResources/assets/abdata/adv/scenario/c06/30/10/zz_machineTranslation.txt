@@ -1,0 +1,7 @@
+「貴方さえ良ければ、入部させていただきますけど……」=“If it's all right with you, I'd like to join the club...”
+「あ、ノリ気じゃなかった？」=“Oh, you weren't feeling flippant?”
+「いえ、決してそのようなことは。ただ、私は恋活部を盛り上げられるほどの器かと不安になりました」=“No, I don't think so. I'm not sure if I'm a good fit for the club or not.”
+「そんなこと気にしなくていいのに。コイカツ部は基本的にマンツーマンなんだから」=“You don't have to worry about that. I don't know if you've ever heard of it...”
+「俺はもっときみと話したいから入ってほしいって思ったんだ」=“I wanted you to come in because I want to talk to you more.”
+「……うふふ。わかりました。そこまで仰っていただけるなら、私に否やはございません」=“... ugh. I understand. If you say so, I have nothing to say against you.”
+「やった！　これからもよろしくね！」=“Yes!　Yay!”

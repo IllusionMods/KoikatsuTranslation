@@ -1,0 +1,3 @@
+「お早う御座います。宜しければ教室までご一緒にいかがですか？」=“Good morning. Good morning. If you don't mind, would you like to come with me to class?”
+「おはよう、[H]。もちろんいいよ。朝から[H]を見ると気持ちがシャキッとしていいね」=“Good morning, [H]. It's nice to see [H] in the morning.”
+「うふふ。私は貴方を見ると顔がほころんでしまって……危うく下品な笑みが漏れないようにするので精一杯です」=“I'm so excited to see you today. I'm so happy to see you that I'm trying my best not to ... break out into a vulgar smile.”

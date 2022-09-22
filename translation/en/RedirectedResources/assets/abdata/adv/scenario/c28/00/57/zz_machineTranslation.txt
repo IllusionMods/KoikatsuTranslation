@@ -1,0 +1,9 @@
+「……は、初めてのデート……なのじゃ。……なんだか緊張するのう」=“... is the first date ... I've ever been on. I'm ... kind of nervous!”
+「俺も緊張するよ。だけど、初めてだからちゃんといい思い出にしようよ」=“I'm nervous too. I'm nervous too, but it's our first time, so let's make it a good one.”
+「それは、お主の腕次第じゃ。さ、今日はわしをどこに連れていってくれるのじゃ？」=“That's up to you. I'm not sure how much I'm going to be able to do with it, but I'm sure I'll be able to do it.”
+「楽しいところだよ。期待してて」=“It's going to be fun. It's a fun place.”
+「なるほど。これがデートというものなんじゃな」=“I see. I see. I see. This is what dating is all about.”
+「楽しんでもらえてるかな？」=“I hope you're enjoying it.”
+「もちろんじゃ。こんなにも楽しいのは久しぶりなのじゃっ！」=“Of course. I haven't had this much fun in ages!”
+（こんなに喜んでくれるなんて。誘ってよかった）=(I'm so glad she's so happy. I'm not sure how much I'm going to be able to do with it.)
+「今日は誘ってくれてありがとうなのじゃ。それではまたな。さらばじゃ」=“Thank you for inviting me today. Thank you for inviting me today. Farewell.”

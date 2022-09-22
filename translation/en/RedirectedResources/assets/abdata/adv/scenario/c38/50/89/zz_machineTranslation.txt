@@ -1,0 +1,13 @@
+「[H名]がよければなんだけど……俺達、愛称で呼び合ってみない？」=“If you don't mind... why don't we call each other by our nicknames?”
+「愛称……ですか？　なんだか照れ臭いですが、面白いかもしれませんね」=“The nickname ...?　It's kind of embarrassing, but it could be fun.”
+「よしっ、じゃあ俺のこと……[Pあだ名]って呼んでみて？」=“Okay, well, why don't you call me ...?”
+「えっ、愛称ってそういうことですか？　もっと違うものを想像していました」=“Oh, you mean like a nickname?　I was expecting something different.”
+「うーん、やっぱりダメ？　一回だけでも呼んでくれない？」=“Hmm, still no?　Can you just call me that one time?”
+「嫌とは言っていませんよ。その、少し恥ずかしいですが、貴方のお願いですから……」=“I'm not saying no. I mean, it's a little embarrassing, but it's what you asked for...”
+「やった！　じゃあ……よろしくお願いします！」=“Yes!　... please!”
+「ふふ、そんなに改まれると、逆に言い辛いですが……[Pあだ名]。これで、よろしいですか？」=“It's a little embarrassing, but it's your request. Are you sure you want to do this?”
+「ッ……よろしい！　よろしいよ！　あー、なんかヤバい！　ありがとう、[Hあだ名]」=“... is fine!　That's right!　Thank you, [Hあだ名].　Thank you, [Hあだ名].”
+「んぇっ！？　わ、私は……これからそう呼ばれてしまうのですか？」=“Huh?　I'm ... going to be called that now?”
+「いや、愛称で呼んでくれたお礼って言うか……でも、たまにはこういう感じで呼び合うのもいいよね」=“No, it's more like a thank you for calling me by my nickname... But it's nice to call each other like this sometimes.”
+「そうですね。私は堅苦しくなりがちなので、呼び方を変えるだけで、大分新鮮でした」=“Yes, it is. I tend to be very formal, so just changing the way we call each other was a refreshing change.”
+「他の方もいる時は恥ずかしいですが、貴方が呼びたいときは、遠慮なく愛称で呼んでくださいね」=“It's embarrassing when other people are around, but if you want to call me by my nickname, feel free.”

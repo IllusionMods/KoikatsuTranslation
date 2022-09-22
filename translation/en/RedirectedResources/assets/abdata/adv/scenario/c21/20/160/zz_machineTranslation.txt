@@ -1,0 +1,5 @@
+「そろそろ落ち着いた？」=“Are you getting settled?”
+「……うん、ごめんね。もう大丈夫だよ。えへへ、待っててくれてありがと、大好き♪」=“... Yeah, sorry about that. It's okay now. Thanks for waiting for me. I love you.”
+「うん、俺も……好きだよ、[H名]」=“Yeah, I like ... too, [H名].”
+「私も好き……大好き♡」=“I love it too ... I love it♡”
+「あはは、照れるなぁ……もうしばらく夜景を見たら、駅に行こうか」=“Haha, I'm embarrassed... After seeing the night view for a while longer, let's go to the station.”

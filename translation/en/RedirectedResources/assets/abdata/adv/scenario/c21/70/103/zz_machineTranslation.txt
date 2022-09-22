@@ -1,0 +1,16 @@
+「あー、疲れた～。公園でこんなに遊ぶなんて、いつぶりかなぁ」=“Ah, I'm so tired! I haven't played this much in the park since...”
+「わかる♪　子供の頃に戻った感じで、時間を忘れちゃった……この感じ、なつかしいな～」=“I know! I feel like a kid again, I lost track of time... I miss this feeling so much!”
+（この夕日も、子供の頃によく見た色をしてる気がする……なんだか、寂しいな）=(I'm sure you'll have fun, Konomi. I think this sunset is the same color I used to see when I was a kid... I kind of miss it.)
+（もうちょっと[H名]と一緒にいたいけど……疲れたから帰るって選択肢も……）=(I want to stay with [H名] a little longer, but I'm tired and I have to leave ...)
+CHOICE:『まだ時間ある？』=『Still got time?』
+CHOICE:『いい思い出ができたね』=CHOICE: "We have good memories"
+「小さい頃ならここでバイバイだったけど……まだ時間ある？」=“When I was a little girl, I would have said bye-bye here... Do you still have time?”
+「え？　うん、今日は全然大丈夫な日だけど、どうしたの？」=“What?　Yeah, today is a totally fine day. What's wrong?”
+「もう一つ、[H名]と思い出を作りたいんだ。ちょっと付いて来て」=“I want to make one more memory with [H名]. Come with me for a minute.”
+（[H名]も疲れてるだろうし、今日は帰ろう）=([H名] is probably tired too, so let's go home today!)
+「そろそろ、帰ろうか。いい思い出ができたね」=“It's time for us to go home. We've made some good memories.”
+「うん……今日は、私のとっても大切な思い出になったよ。これからも、キミとこんな思い出を作っていけたら……う、嬉しいな♡」=“Yeah...Today was one of my most treasured memories. I hope I can continue to make memories like this with you in the future... ♡♡♡.”
+「作れるよ。俺、エッチなことばっかり考えてるけど、今日みたいに楽しいことも考えてるからさ……」=“You can make it. I think about sex all the time, but I also think about fun things, like today...”
+「くすっ、わかってるよ。キミは本当にエッチな男の子だけど、本当に優しいし、本当に女の子のこと大切にしようとしてるって分かってるから」=“Gross. I know. You're a really naughty boy, but you're really sweet, and I know you really care about girls.”
+「……だから、これからもよろしくね、彼氏くん」=“... so keep up the good work, boyfriend!”
+「うん、[H名]が分かってくれてるなら、きっとずっと大丈夫だよ。これからもよろしく」=“Yeah, if [H名] knows what she's doing, it's going to be okay. Keep up the good work.”

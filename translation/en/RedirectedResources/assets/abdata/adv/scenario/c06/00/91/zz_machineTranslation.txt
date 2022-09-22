@@ -1,0 +1,3 @@
+「お早う御座います、[Pあだ名]」=“Good morning, [Pあだ名].”
+「あ……おはよう、[Hあだ名]。何だか元気をもらえたかも」=“Good morning, [Hあだ名], I think you've just cheered me up!”
+「うふふ、喜んでいただけたなら、何よりです」=“I'm glad you're pleased.”

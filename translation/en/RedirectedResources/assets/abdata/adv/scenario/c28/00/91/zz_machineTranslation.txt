@@ -1,0 +1,3 @@
+「[Pあだ名]、おはようなのじゃ！」=“[Pあだ名], good morning!”
+「おはよう、[Hあだ名]」=“Mornin', [Hあだ名]”
+「普通の挨拶より、妙に照れくさいのぅ」=“That's strangely more embarrassing than a normal greeting.”

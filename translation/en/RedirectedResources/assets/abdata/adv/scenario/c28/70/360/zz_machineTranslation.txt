@@ -1,0 +1,6 @@
+「うぅっん……」=“Ugh...”
+「大丈夫？」=“You alright?”
+「歌った後にしたからか、少し疲れてしまったかのう」=“I'm a little tired after all that singing.”
+「時間だから出ないといけないけど、その前に水飲んでおいたほうがよさそうだね」=“It's time for me to leave, but I think I'd better have a drink of water first.”
+「そうじゃな」=“Yes, it is.”
+「焦らなくても大丈夫だよ。先に帰る準備だけしとくから」=“I'm not sure how much I'm going to be able to do. I'll just get ready to go home first.”

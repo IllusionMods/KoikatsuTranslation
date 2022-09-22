@@ -1,0 +1,5 @@
+「おっはよ～♪　もしかして待たせちゃった？」=“Good morning. - Morning. - Did I keep you waiting?”
+「おはよう！　ううん、俺も今来たところ。今日の恰好、すごく似合ってるよ」=“Good morning!　No, I just got here. No, I just got here. You look great today.”
+「本当！？　えへへ、ギリギリまで何着ていくか迷ってたんだ～。キミも今日は気合い入ってるね、カッコいいよ♡」=“Really?　Really? I wasn't sure what to wear until the last minute. You're looking really cool today, handsome.”
+「照れるなぁ。[H名]とのデートだから、俺もギリギリまで何着ていくか迷ってたんだ。それじゃ、行こうか」=“I'm embarrassed... it's a date with [H名], so I wasn't sure what to wear until the last minute. Let's go then.”
+（相変わらず、[H名]とは何の気負いもなく喋れて、楽だなぁ。今日は思い切り遊ぼう）=(I'm still so easy to talk to [H名] without any hesitation. I'm going to play hard to get today.)

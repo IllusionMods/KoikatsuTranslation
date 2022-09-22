@@ -1,0 +1,4 @@
+「今日は、保険体育の勉強をしようと思います」=“Today, I'm going to study for Physical Education.”
+「えっ、今……な、なんてっ！？」=“What, are you ... now?”
+「ふふ、冗談ですよ。貴方の慌てた顔、可愛いです」=“I'm kidding. Your panicked face is so cute.”
+「なっ、珍しいね……[H名]が冗談なんて……えぇと、冗談じゃなかったりは……しない？」=“Well, that's unusual for ...[H名] to be joking... Well, are you sure you're not joking?”

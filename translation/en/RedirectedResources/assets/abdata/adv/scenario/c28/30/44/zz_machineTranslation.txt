@@ -1,0 +1,5 @@
+「へえ、色々あるんだね」=“Hoh, so many different spots...”
+「今はこういう物が流行っておるのか。この店に入ってもよいか？」=“Is this sort of thing popular now? May I come in here?”
+「うん、いいよ」=“Yeah, it's fine.”
+「おごってくれてありがとうなのじゃ。感謝しておるぞ」=“Thank you for buying me a drink. I appreciate it.”
+（よかった、喜んでもらえたみたいだ）=(I'm glad, looks like she had a good time)

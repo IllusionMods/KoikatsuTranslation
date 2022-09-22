@@ -1,0 +1,8 @@
+「それでは、私はここで失礼いたします。本日も送っていただき有難う御座いました」=“I'll leave you to it. Thank you for sending me today.”
+（時間的にはまだ余裕があるし、[H]を家に誘ってもいいな……）=(The most important thing to remember is that you can still have a good time and invite [H] to your house ...)
+CHOICE:「家に誘う」=CHOICE: "I'll take you home"
+CHOICE:「誘わない」=CHOICE: "I won't ask you out"
+「もしよかったら、うちに寄っていかない？」=“If you want, why don't you come by my place?”
+「うふふ。実は、ほんの少しだけ期待していました。是非、お邪魔になります」=“Mmm-hmm. Actually, I was hoping for just a few. By all means, I'll be your guest.”
+「二人で話せて楽しかったよ。それじゃあ、またね」=“It was fun talking to you two. Okay, I'll see you later.”
+「私もとても大切な時間を過ごさせていただきました。それでは、さようなら」=“I had a very precious time with you too. Well then, goodbye.”

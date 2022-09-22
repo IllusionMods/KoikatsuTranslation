@@ -1,0 +1,15 @@
+「夕日が綺麗じゃのう。時間が経つのはあっというまじゃ」=“The sun is setting beautifully, isn't it? Time goes by so fast.”
+CHOICE:『もう少し一緒にここで過ごさない？』=CHOICE: "Can we stay here with you a little longer?"
+CHOICE:『そろそろ帰ろうか』=『Should head home』
+「まだ時間があるなら、もう少しだけここで一緒に過ごさない？」=“If you still have time, why don't you stay here with me for a little while longer?”
+「時間なら問題ない。わしもまだお主といたいと思っておったのじゃ……」=“I don't have a problem with time. I was hoping I could still be with you...”
+「よかった。それなら[H名]に見せたいものがあるんだ」=“Great. Then I have something to show [H名].”
+「見せたいもの？　なんじゃ？」=“You want me to show you something?　What is it?”
+「いいから、俺に付いて来て」=“Just follow me.”
+「だね……これ以上暗くなる前に今日は帰ろうか」=“I'm sure you'll be able to find something to buy for your aunt.”
+「そうじゃな……なんだか名残惜しい気もするがのう……」=“Yes... I'm kind of sad to see it go...”
+「俺もだよ……」=“Me too...”
+「今日は終わっちゃうけど、必ずまた一緒にこの公園に遊びに来よう」=“Today's lesson is over, but I'm sure we'll come back to this park together again.”
+「……絶対に約束じゃぞ」=“...I promise you, I promise you.”
+「うん。約束」=“Yeah. Yeah. Promise.”
+「それじゃあ、帰ろっか」=“I'm going to get my check.”

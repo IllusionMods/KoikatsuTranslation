@@ -1,0 +1,3 @@
+「あの……」=“Um...”
+「これ、カップケーキ……授業で作ったんだけど、よかったら食べてっ」=“I made these cupcakes for ... class. You can have them if you want.”
+「えっとぉ……そ、それじゃねっ」=“I made these cupcakes in ... class, if you want to try them.”

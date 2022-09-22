@@ -1,0 +1,1 @@
+CHOICE:「これから、俺の家にこれないかな？」=CHOICE: "Can you come over to my house now?"

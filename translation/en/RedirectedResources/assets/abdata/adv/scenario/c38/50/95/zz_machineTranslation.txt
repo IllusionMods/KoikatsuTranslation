@@ -1,0 +1,4 @@
+「うっ、[H名]！？　うそっ、入って……えぇっ！？」=“Ugh, [H名]?　Oh no, come in... what?”
+「ふふっ、驚かれましたか？　ドッキリ成功です♪　勇気を出してみた甲斐がありましたっ」=“Hmmm, are you surprised?　It was a surprise. It was worth the effort.”
+「い、いやっ、勇気というか……大事なトコロも、色々出ちゃってるけどっ……！」=“No, no, it's not courage, it's just that a lot of ... important parts are showing.”
+「あっ、あまり見ないでください……寝ているうちに終わらせようとしたのですが、んっ、まだまだ未熟ですね」=“Oh, please don't look at me too much... I tried to finish it while I was sleeping, but I'm still inexperienced.”
