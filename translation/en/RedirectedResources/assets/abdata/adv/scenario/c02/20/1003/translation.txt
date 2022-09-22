@@ -2,8 +2,8 @@
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
 モブ=Mob
-//「それではこれより、式を執り行います」=
-//「新たなご出発の証として、お二人には誓いの言葉を立てていただきます」=
+「それではこれより、式を執り行います」=“Then without further ado, let's start the ceremony.”
+「新たなご出発の証として、お二人には誓いの言葉を立てていただきます」=“As the proof of a fresh departure, you both have to make certain vows.”
 //（そ、想像よりずっと本格的だなぁ……）=
 牧師=Pastor
 //「[P名]さん、あなたはこの女性とお付き合いし、より親密な関係になろうとしております」=

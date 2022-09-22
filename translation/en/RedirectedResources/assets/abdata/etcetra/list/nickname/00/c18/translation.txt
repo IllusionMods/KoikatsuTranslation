@@ -131,7 +131,7 @@
 はるさん=Haru-san
 ひかさん=Hika-san
 ひとさん=Hito-san
-//ひびきさん=
+ひびきさん=Hibiki-san
 ひろきさん=Hiroki-san
 ひろしさん=Hiroshi-san
 ひささん=Hisa-san

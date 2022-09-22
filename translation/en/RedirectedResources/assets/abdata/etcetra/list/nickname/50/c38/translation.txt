@@ -25,7 +25,7 @@
 おささん=Osa-san
 おうさん=Ou-san
 かいとさん=Kaito-san
-//かおるさん=
+かおるさん=Kaoru-san
 かけるさん=Kakeru-san
 かずきさん=Kazuki-san
 かずやさん=Kazuya-san
@@ -104,7 +104,7 @@
 てつさん=Totsu-san
 とーまさん=Touma-san
 とーやさん=Touya-san
-//とおるさん=
+とおるさん=Toru-san
 としやさん=Toshiya-san
 ともやさん=Tomoya-san
 とーさん=Tou-san
@@ -129,9 +129,9 @@
 はるきさん=Haruki-san
 はやさん=Haya-san
 はるさん=Haru-san
-//ひかるさん=
-//ひとしさん=
-//ひびきさん=
+ひかるさん=Hikaru-san
+ひとしさん=Hitoshi-san
+ひびきさん=Hibiki-san
 ひろきさん=Hiroki-san
 ひろしさん=Hiroshi-san
 ひささん=Hisa-san
