@@ -8,7 +8,7 @@
 「は？　調子に乗らないで。声帯を握り潰すわよ？」="Huh? Don't get carried away or I'll crush your vocal cords."
 「ごめんなさい！　それだけは勘弁を！」="I'm sorry! Please, anything but that!"
 「そう、なら何処を潰して欲しいの？　言ってみなさい、誰に、何をして欲しいのか」="Then what do you want to have crushed? Tell me, by whom and what do you want to?"
-//「それはその……俺は、[Hあだ名]に、もう一度愛称で呼ばれながら、優しく撫でて欲しいな、なんて？」=
+「それはその……俺は、[Hあだ名]に、もう一度愛称で呼ばれながら、優しく撫でて欲しいな、なんて？」=“That's... I want [Hあだ名] to pet me gently while calling me by my nickname again, maybe?”
 「へぇ、そう。貴方は私に愛称で呼ばれながら、頭を潰されたいのね。じゃあ、お望み通りに」="Oh really? You want to be called by a nickname and have your head crushed at the same time? Well then, as you wish."
 「あがっ、いだっ！　潰れるっ！　ホントに頭潰れるっ！」="Guh, oww! It's getting crushed! My head's seriously deforming!"
 「フフフッ、ほら、もっといい悲鳴を聞かせなさい。そうしたら、また呼んであげるわ」="Fufufu, let me hear a better scream. Then I'll call you by your nickname again."

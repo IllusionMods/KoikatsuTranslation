@@ -13,8 +13,8 @@
 「うん、やめとく。俺には本当に似合わなそうだし」="Yeah, I'll stop. It doesn't seem to match me."
 「あら、今日は素直ね。フフッ、どうせまた何か企んでいるのでしょう？」="Oh, you're being honest today. Fufu, you're surely scheming something."
 「いやぁ……」="No way..."
-//CHOICE:『実は、またここでエッチしたいなって……』=
-//CHOICE:『この景色をまた二人で見たいなって思ってただけだよ』=
+CHOICE:『実は、またここでエッチしたいなって……』=Actually, I'd like to have sex...
+CHOICE:『この景色をまた二人で見たいなって思ってただけだよ』=I want to see this view together again
 「その……ここに来たら思い出しちゃって」="Um... This place brings back memories."
 「はぁ、何が『二人だけの思い出』よ。エッチな事しか覚えてないじゃないの」="Hah, what's that 'memories of just the two of us'. All you remember is naughty things, right?"
 「いやいや、そんな事ないよ。[H名]さんの体温とか、息遣いとか、全部覚えてるし」="No, that's not true. I remember Miss [H名]'s body temperature, your breathing, everything."

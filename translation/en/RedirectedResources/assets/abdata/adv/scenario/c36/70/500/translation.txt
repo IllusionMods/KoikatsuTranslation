@@ -10,9 +10,9 @@
 「えっ、でも結構な時間だし、これ以上は迷惑かなって……」="Erm, but I thought we've had our fill of fun and any more would be a bother...'
 「迷惑？　私の事を勝手に決めつけないで。貴方はどうしたいの？　言ってみなさい」="A bother? Don't decide for me. What do you want to do? Tell me."
 「えっと……」="Uhh..."
-//CHOICE:『自宅に誘う』=
-//CHOICE:『ラブホに誘う』=
-//CHOICE:『さよならする』=
+CHOICE:『自宅に誘う』=Invite to your home
+CHOICE:『ラブホに誘う』=Invite to a love hotel
+CHOICE:『さよならする』=Say goodbye
 「この後……うちに一緒に、来てくれないかな？」="After that... I'd like you come home with me..."
 「いいわよ。でも何でそんなに緊張しているのかしら？　自分の家にイクだけでしょう？　フフッ」="Let's go then. But why are you so nervous? You just want me to come, right? Fufu~"
 （俺がどうしたいか……そんなのシタいに決まってる！　[H名]さんとシタい！　今すぐシタい！）=(What do I want... It's obvious! I want to do it with Miss [H名]! Do it right now!)
