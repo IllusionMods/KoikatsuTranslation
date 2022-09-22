@@ -5,8 +5,8 @@
 「無理よ、寄るなと言ったでしょ。こらっ、いくらなんでも近付き過ぎよ」="I just told you 'don't come near me', didn't I? Say what you like, but you're getting too close."
 「そんな事言ったって、この混雑じゃ仕方ないよっ……あぁっ」="Even if you did tell me that, I can't stop people from flowing in... Ah."
 （[H名]さんの体、熱くなってる？　ヤバっ、意識したら股間が……）=(The body of Miss [H名], isn't it getting hot? This is bad, it's getting big down there..."
-//CHOICE:『欲望に少し抵抗する』=
-//CHOICE:『鉄の自制心を持って抵抗する』=
+CHOICE:『欲望に少し抵抗する』=Resist the desire a little
+CHOICE:『鉄の自制心を持って抵抗する』=Resist with iron self-control
 （が、我慢しなきゃ……でも、どんどん[H名]さんの身体が……）=(I-I have to control myself... But Miss [H名]'s body is...)
 （うっ、しまった……勃起して……あぁぁ、また怒られるっ）=(Damn it... The boner is... Aah, she'll get angry with me again.)
 「ふぅん、コレは何？　かなり恥ずかしい事になっているみたいだけど」="Huh, what is that? Looks like it's getting shameless."

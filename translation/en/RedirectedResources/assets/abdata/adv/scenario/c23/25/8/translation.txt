@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「え、エッチ///　けどワ、ワタシとあなたは友人では？」=
+「え、エッチ///　けどワ、ワタシとあなたは友人では？」=“What, sex? But aren't we friends?”
 「そうだけど、でも、きみとしたいんだ」=“We are, but I really wanna do it with you.”
 「ワ、ワタシだってぇ……その、嫌じゃないから……」=“I-It's not like... uhm, don't want to either, you know...”
 「あなたなら、優しくしてくれるなら……していいよ」=“If it's with you, if you promise to be gentle... I don't mind.”

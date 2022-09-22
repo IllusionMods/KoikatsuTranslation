@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「あの、こ、こういうこと、やってみたいと思ってるんだけど///」=
+「あの、こ、こういうこと、やってみたいと思ってるんだけど///」=“Um, I-I'd like to try something like that.”
 「なになに、眠れる姫をキスで起こす王子、名作アニメのシーンだね」=“What, lemme see, one of those scenes where the princess wakes up the sleeping princess with a kiss, huh?”
 「え、えぇとお姫様。憧れなの。……あ、あぁ、言わない方が良かったかなぁ」=“E-Eerhm, I've always dreamed, of being a princess. ...M-Maybe I shouldn't have brought this up.”
 「いや、いいじゃないか。やってみよう」=“No, isn't it fine? Let's try it.”

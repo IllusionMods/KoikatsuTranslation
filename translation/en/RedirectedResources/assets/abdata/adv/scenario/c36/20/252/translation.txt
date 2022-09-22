@@ -5,8 +5,8 @@
 「無理よ、寄るなと言ったでしょ。こらっ、いくらなんでも近付き過ぎよ」="I just told you 'don't come near me', didn't I? Say what you like, but you're getting too close."
 「そんな事言ったって、この混雑じゃ仕方ないよっ……あぁっ」="Even if you did tell me that, I can't stop people from flowing in... Ah."
 （はぁ、[H名]さんの匂いがこんな近くに……やば、反応してしまうっ）=(*Sigh* the smell of Miss [H名] is so close... It's dangerous, I'm reacting to it down there."
-//CHOICE:『欲望に身を任せる』=
-//CHOICE:『鉄の自制心で堪える』=
+CHOICE:『欲望に身を任せる』=Surrender to the desire
+CHOICE:『鉄の自制心で堪える』=Endure with iron self-control
 （イケナイことだけど……我慢できない）=(It's unacceptable, but... I can't control it.)
 「んぅ、今すぐその恥知らずなモノを、私から離しなさい。ほら、早く」="Take this thing from me immediately. C'mon, quickly."
 「む、無理だよ……動ける状態じゃないし、こうなったら中々元には戻らないよ……」="I can't help it... I can't move in this situation, and now it pretty much won't get flabby."
