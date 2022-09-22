@@ -1,0 +1,57 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_ModTextDump v0.7.0.1
+//
+
+#set exe CharaStudio
+
+
+// chara/ymd/si_handitem.unity3d
+うなぎ[FK]=Unagi [FK]
+ほうき[FK]=Broom [FK]
+アサルトライフル=Assault Rifle
+ウォーターガン=Water Gun
+ガンブレード １=Gun Blade １
+ガンブレード ２=Gun Blade ２
+クナイ=Kunai
+スタンガン=Stun Gun
+タオル[FK]=Towel [FK]
+チアバトン=Cibaton
+チェーンソー=Chainsaw
+ハリセン=Harisen
+ハリセン しなり=Harrison
+ハンカチ[FK]=Handkerchief [FK]
+ハンドガン=Hand Gun
+バトルライフル=Battle Rifle
+バラ一輪=One Rose
+ヒロインソード=Heroine Sword
+ピコピコハンマー=Pico Pico Hammer
+ブライダルブーケ=Bridal Bouquet
+モップ=Mop
+伸ばし棒=Stick
+刺突剣=Stabbing Sword
+剣=Sword
+大剣=Large Sword
+小太刀=Short Sword
+弾薬=Ammunition
+戦槌=Battle
+曲剣=Curved Sword
+本=Book
+杖 １=Cane １
+杖 ２=Cane ２
+槍 １=Spear 1
+槍 ２=Spear 2
+槍 ３=Spear 3
+煙管=Smoke Pipe
+盾 １=Shield １
+盾 ２=Shield ２
+盾 ３=Shield ３
+花束=Bouquet
+薬莢=Pharmaceutical Capsule
+警棒=Batons
+重火器=Heavy Weapons
+重火器 展開=Heavy Weapons Deployment
+鉤爪=Claw
+錆びた剣=Rusted Sword
+鎌１=Sickle 1
+鎌２=Sickle 2
+魔法の杖[FK]=Magic Wand [FK]

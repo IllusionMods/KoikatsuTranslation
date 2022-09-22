@@ -1,38 +1,183 @@
 //
-// Dumped for Koikatsu v5.1 by Mod Text Dump v0.6.0
+// Dumped for Koikatsu v5.1 (Koikatu) by KK_ModTextDump v0.7.0.1
 //
+
+// chara/07/co_shoes_07.unity3d
+ヴァルキリーグリーヴ=Valkyrie Greaves
+盗賊のブーツ=Thieves' Boots
+聖女のサンダル=Saint's Sandals
+
+// chara/08/co_shoes_08.unity3d
+サキュバスブーツ=Succubus Boots
+ネクロマンサーのブーツ=Necromancer Boots
+
+// chara/373.unity3d
+//美波七海 shoes=
 
 // chara/anse/anse_blucher.unity3d
 プレーントゥ外羽根=Plain toe outer feather
 
+// chara/anse/anse_half_boots.unity3d
+//あんせハーフブーツ=
+
+// chara/anse/anse_half_boots_long.unity3d
+//あんせハーフブーツ(long)=
+
+// chara/anse/anse_mary_jane_pumps.unity3d
+//あんせマリージェーン パンプス=
+
 // chara/anse/anse_rain_boots.unity3d
 あんせ長靴=Safety Boots
 
-// chara/deathweasel/ec_items.unity3d
-ヴァルキリーグリーヴ=Valkyrie Greaves
-聖女のサンダル=Saint's Sandals
-盗賊のブーツ=Thieves' Boots
-サキュバスブーツ=Succubus Boots
-ネクロマンサーのブーツ=Necromancer Boots
+// chara/anse/anse_sneakers.unity3d
+//あんせ スニーカー=
+
+// chara/c.unity3d
+//C酱 shoes=
+
+// chara/choco.unity3d
+//癒月ちょこ shoes=
 
 // chara/co_shoes.unity3d
-盔甲靴=Crampon boots
-HM男主黑皮鞋=HM men's black leather boots
 HM男主白皮鞋=HM boots
+HM男主黑皮鞋=HM men's black leather boots
 HS2贵族靴=HS2 crampon boots
+盔甲靴=Crampon boots
 
 // chara/co_shoes_22_22.unity3d
+EC皮靴(改)=EC leather shoes (Modified)
 运动板鞋=Crampons
-EC皮靴(改)=EC leather shoes(modified)
+
+// chara/co_shoes_xmas.unity3d
+サンタブーツ=Santa Boots
+
+// chara/kaguranana.unity3d
+//カグラナナ アーティストver. shoes=
+
+// chara/korone.unity3d
+//戌神ころね shoes=
+
+// chara/kurumi.unity3d
+//[蓬莱伝説]七瀬くるみ shoes=
+
+// chara/lamy.unity3d
+//雪花ラミィ shoes=
+
+// chara/mf_alice.unity3d
+ビキニアーマー[アリス]=Bikini Armor [Alice][SAO
+騎士のブーツ[アリス]=Knight's Boots [Alice].
+
+// chara/mf_alice_v2.unity3d
+ビキニアーマー[アリス][SAO]=Bikini Armor [Alice][SAO]
+整合騎士のブーツ[アリス][SAO]=Matching Knight's Boots [Alice][SAO]
+
+// chara/mf_asuna.unity3d
+創世神ステイシア[SAO]=God of Creation Stacia [SAO][SAO
+
+// chara/mf_leafa.unity3d
+地神テラリア[SAO]=Earth God Terraria [SAO].
+
+// chara/mf_sinon.unity3d
+太陽神ソルス[SAO]=Solus, God of the Sun[SAO].
+
+// chara/mf_sinon_CaitSith.unity3d
+シノン(ケットシー)[SAO]=Sinon(Ketsee)[SAO][SAO
+
+// chara/mf_vladilena_milize_shoes.unity3d
+レーナ[86-EIGHTY SIX-]=Raina [86-EIGHTY SIX-]
+
+// chara/mikop.unity3d
+//さくらみこ shoes=
+
+// chara/mio.unity3d
+//大神ミオ shoes=
+
+// chara/mod/mod_aurora_al.unity3d
+水上靴_オーロラAL=Water shoes_Aurora AL
+
+// chara/mod/mod_ranrin_acm.unity3d
+靴_嵐燐結騎=Shoes_Arashi Rin Yugi
+
+// chara/mod_zmr/co_shoes_zmr.unity3d
+ブーツ=Boots
 
 // chara/mt_pattern_SH.unity3d
 AI牛津皮鞋=AI leather shoes
 
 // chara/mt_pattern_ZZ.unity3d
-//HS2护腿靴=HS2 护腿シューズ
+HS2护腿靴=HS2 legging shoes
+
+// chara/qinxiezi.unity3d
+琴鞋子=Piano shoes
+
+// chara/rena.unity3d
+//夜見れな shoes=
 
 // chara/Sen3_hair.unity3d
 闪轨本校制服=Internal channels
+
+// chara/sunshine/co_shoes_00/p_cf_shoes_bootslaceup.unity3d
+レースアップシューズ=Lace-up Shoes
+
+// chara/sunshine/co_shoes_00/p_cf_shoes_heroine_sun00.unity3d
+ストラップサンダル=Strap Sandals
+
+// chara/sunshine/co_shoes_00/p_cf_shoes_ribbonshoes.unity3d
+グランリボンパンプス=Grand Ribbon Pumps
+
+// chara/sunshine/co_shoes_00/p_cf_shoes_slipper.unity3d
+スリッパ=Slippers
+
+// chara/sunshine/co_shoes_00/p_cf_shoes_steampunk00.unity3d
+パンクシューズ=Punk Shoes
+
+// chara/sunshine/co_shoes_00/p_cf_shoes_wingtipstrapshoes.unity3d
+ウィングチップサンダル=Wingtip Sandals
+
+// chara/sunshine/co_shoes_03/p_cf_shoes_otohime.unity3d
+乙姫の靴=Younger Princess Shoes
+
+// chara/sunshine/co_shoes_35/p_cf_shoes_animaja.unity3d
+着ぐるみ靴=Stuff Animal Shoes
+
+// chara/sunshine/co_shoes_35/p_cf_shoes_fancy00.unity3d
+ファンシーシューズ=Fancy Shoes
+
+// chara/sunshine/co_shoes_40/p_cf_shoes_syshoes.unity3d
+サイバーシューズ=Cyber Shoes
+
+// chara/sunshine/co_shoes_50/p_cf_shoes_moco.unity3d
+モコモコラビットフット=Fluffy Rabbit Foot
+
+// chara/suzukihina.unity3d
+//鈴木ヒナ shoes=
+
+// chara/umy.unity3d
+//呜米Umy shoes=
+
+// chara/umy2.unity3d
+//呜米Umy公式服 shoes=
+
+// chara/ura.unity3d
+//乌拉 shoes=
+
+// chara/ws54090/co_shoes_00.unity3d
+(Stiletto) アイドルパンプス=(Stiletto) Idle Pumps
+(Stiletto) サイドリボンパンプス =(Stiletto) Side Ribbon Pumps
+(Stiletto) サンダル=(Stiletto) Sandals
+(Stiletto) パンプス=(Stiletto) Pumps
+(Stiletto) リボンストラップサンダル=(Stiletto) Ribbon strap sandals
+(Stiletto) リボンパンプス=(Stiletto) Ribbon Pumps
+(Stiletto) ローファー=(Stiletto) Loafers
+(Stiletto) 便所サンダル=(Stiletto) Latrine sandals
+(Stiletto) 小悪魔パンプス=(Stiletto) Little Devil Pumps
+(Stiletto) 草履=(Stiletto) Sandals
+
+// chara/xz.unity3d
+卡莲南瓜鞋子=Karin Pumpkin Shoes
+
+// chara/ymd/mf_texchange.unity3d
+騎士のブーツ[マスク変更]=Knight's boots [Mask change] (Stiletto)
 
 // chara/_mods/chirai_05.unity3d
 チライブーツ=Chillai boots
@@ -49,6 +194,9 @@ AI牛津皮鞋=AI leather shoes
 // chara/_mods/makinon07.unity3d
 マキノパンプス=Makino Pumps
 
+// chara/_mods/mash10.unity3d
+マシュブーツ2=Marshmallow Boots 2
+
 // chara/_mods/mash2.unity3d
 マシュブーツ=mash boots
 
@@ -58,9 +206,6 @@ AI牛津皮鞋=AI leather shoes
 // chara/_mods/mash7.unity3d
 マシュブーツ2テカ=Marsh Boot 2 Teka
 
-// chara/_mods/mash10.unity3d
-マシュブーツ2=Marshmallow Boots 2
-
 // chara/_mods/Mine3.unity3d
 マイン鎧脚=Mine Armor Legs
 
@@ -69,44 +214,6 @@ AI牛津皮鞋=AI leather shoes
 
 // chara/_mods/rider3.unity3d
 ライダーパンプス=Rider Pumps
-
-// chara/co_shoes_01.unity3d
-キュートナースシューズ=Cute Nurse Shoes
-
-// chara/mf_alice.unity3d
-騎士のブーツ[アリス]=Knight's Boots [Alice].
-ビキニアーマー[アリス]=Bikini Armor [Alice][SAO
-
-// chara/mf_alice_v2.unity3d
-整合騎士のブーツ[アリス][SAO]=Matching Knight's Boots [Alice][SAO]
-ビキニアーマー[アリス][SAO]=Bikini Armor [Alice][SAO]
-
-// chara/mf_asuna.unity3d
-創世神ステイシア[SAO]=God of Creation Stacia [SAO][SAO
-
-// chara/mf_leafa.unity3d
-地神テラリア[SAO]=Earth God Terraria [SAO].
-
-// chara/mf_sinon_CaitSith.unity3d
-シノン(ケットシー)[SAO]=Sinon(Ketsee)[SAO][SAO
-
-// chara/mf_sinon.unity3d
-太陽神ソルス[SAO]=Solus, God of the Sun[SAO].
-
-// chara/mf_vladilena_milize_shoes.unity3d
-レーナ[86-EIGHTY SIX-]=Raina [86-EIGHTY SIX-]
-
-// chara/qinxiezi.unity3d
-//琴鞋子=Koto鞋子
-
-// chara/mod/mod_aurora_al.unity3d
-水上靴_オーロラAL=Water shoes_Aurora AL
-
-// chara/mod/mod_ranrin_acm.unity3d
-靴_嵐燐結騎=Shoes_Arashi Rin Yugi
-
-// chara/co_shoes_xmas.unity3d
-サンタブーツ=Santa Boots
 
 // list/characustom/00_vkat02.unity3d
 リングブーツ=Ring Boots
@@ -119,24 +226,3 @@ wen妖精=wen Fairy
 
 // wen/wenyeye.unity3d
 wen夜夜=WEN Night Night
-
-// chara/ws54090/co_shoes_00.unity3d
-(Stiletto) ローファー=(Stiletto) Loafers
-(Stiletto) 小悪魔パンプス=(Stiletto) Little Devil Pumps
-(Stiletto) アイドルパンプス=(Stiletto) Idle Pumps
-(Stiletto) リボンパンプス=(Stiletto) Ribbon Pumps
-(Stiletto) サンダル=(Stiletto) Sandals
-(Stiletto) サイドリボンパンプス =(Stiletto) Side Ribbon Pumps
-(Stiletto) パンプス=(Stiletto) Pumps
-(Stiletto) 便所サンダル=(Stiletto) Latrine sandals
-(Stiletto) リボンストラップサンダル=(Stiletto) Ribbon strap sandals
-(Stiletto) 草履=(Stiletto) Sandals
-
-// chara/ymd/mf_texchange.unity3d
-騎士のブーツ[マスク変更]=Knight's boots [Mask change] (Stiletto)
-
-// chara/mod_zmr/co_shoes_zmr.unity3d
-ブーツ=Boots
-
-// chara/xz.unity3d
-卡莲南瓜鞋子=Karin Pumpkin Shoes

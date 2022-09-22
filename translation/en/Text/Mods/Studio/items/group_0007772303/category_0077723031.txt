@@ -1,0 +1,11 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_ModTextDump v0.7.0.1
+//
+
+#set exe CharaStudio
+
+
+// studio/harvexstudiomaps.unity3d
+ラビットハウス=Rabbit House
+天満宮=Tenmangu
+清水風=Shimizu Style

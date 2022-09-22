@@ -1,0 +1,17 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_ModTextDump v0.7.0.1
+//
+
+#set exe CharaStudio
+
+
+// studio/Hateleite_MAP_ESTATE.unity3d
+其他道具=Other props
+内门=Inner door
+前门=Front door
+后门=Rear door
+天空框架=Skybox
+框架=Stile and rail
+植物=Plants
+橱柜暗门=Cabinet hidden door
+葡萄酒桌的椅子=Wine table chair

@@ -1,15 +1,21 @@
 //
-// Dumped for Koikatsu v5.1 by Mod Text Dump v0.6.0
+// Dumped for Koikatsu v5.1 (Koikatu) by KK_ModTextDump v0.7.0.1
 //
 
-// chara/_mods/eva.unity3d
-第3新東京市立第壱中学校制服=Daiichi Junior High School Uniform
+// chara/anse/anse_sailor_dress_scarf.unity3d
+//セーラーワンピスカーフ=
+
+// chara/anse/anse_sailor_dress_scarf_base.unity3d
+//セーラーワンピスカーフ(ベースのみ)=
+
+// chara/Matne/matne_sailor_bc_00.unity3d
+タイプ４改=Type 4 modified
 
 // chara/sage/sagesk2.unity3d
 島風=Shimakaze
 
-// chara/Matne/matne_sailor_bc_00.unity3d
-タイプ４改=Type 4 modified 
+// chara/Shino_TennisWear_Sailor.unity3d
+テニスウェア=Tennis Top
 
-// chara/11/cpo_jacket_ab_00_atago.unity3d
-ワイシャツ・カーディガン_atago=Shirts & Cardigans_atago
+// chara/_mods/eva.unity3d
+第3新東京市立第壱中学校制服=Daiichi Junior High School Uniform

@@ -1,49 +1,55 @@
 //
-// Dumped for Koikatsu v5.1 by Mod Text Dump v0.6.0
+// Dumped for Koikatsu v5.1 (Koikatu) by KK_ModTextDump v0.7.0.1
 //
 
-// chara/mt_body_paint_974.unity3d
-風車橘子=Windmill Tachibanako
-天翔龍之蹄=Dragon's Hoof
-
 // chara/974tatto.unity3d
-飛竜のひづめ=Flying Dragon's Hoof
+アルバレス帝国=Alvarez Empire
+エドラス=Edoras
+ゼントピア教会=Church of Zentopia
 九尾封印=Seal of the Nine Tails
 九尾封印+=Nine Tails Seal
-妖精の尻尾=Fairy Tail
-青い天馬=Blue Heavenly Horse
-蛇姫の鱗=Snake Princess Scales
-化貓の宿=Stoopid's lodge
-剣咬の虎=Tiger with sword bite
 人魚の踵=Mermaid's heel
-魔女の罪=Witch's sin
 六魔将軍=Six demon generals
-悪魔の心臓=Heart of the Devil
 冥府の門=Gate of the Underworld
-大鴉の尻尾=Tail of the Great Raven
-幽鬼の支配者=Ruler of the demons
-四つ首の番犬=The Four-Headed Watchdog
-黄昏の鬼=Demon of Twilight
-夢魔の眼=Eye of the Dreamer
-蛇鬼の鰭=Fin of the snake demon
-首無騎士の頭=Head of the Headless Knight
+剣咬の虎=Tiger with sword bite
+化貓の宿=Stoopid's lodge
 南の狼=Wolf of the South
+四つ首の番犬=The Four-Headed Watchdog
+夢魔の眼=Eye of the Dreamer
+大鴉の尻尾=Tail of the Great Raven
+妖精の尻尾=Fairy Tail
+幽鬼の支配者=Ruler of the demons
+悪魔の心臓=Heart of the Devil
+蛇姫の鱗=Snake Princess Scales
+蛇鬼の鰭=Fin of the snake demon
 赤い蜥蜴=Red Lizard
+青い天馬=Blue Heavenly Horse
 青い髑髏=blue skull
-エドラス=Edoras
 風精の迷宮=Labyrinth of the Wind Spirit
-ゼントピア教会=Church of Zentopia
+風車橘子=Windmill Tachibanako
+飛竜のひづめ=Flying Dragon's Hoof
+首無騎士の頭=Head of the Headless Knight
+魔女の罪=Witch's sin
+黄昏の鬼=Demon of Twilight
 黒魔術教団=Order of the Black Magic
-アルバレス帝国=Alvarez Empire
 
 // chara/etc.unity3d
 なし=None
 
 // chara/karasu/mt_body_paint_k00.unity3d
-右手1=Right Hand 1
-左手1=Left Hand 1
-右手2=Right hand 2
-左手2=Left hand 2
+右手1=Hand R 1
+右手2=Hand R 2
+左手1=Hand L 1
+左手2=Hand L 2
+
+// chara/mae_inmon.unity3d
+淫紋A=Lewd Crest A
+淫紋B=Lewd Crest B
+淫紋C=Lewd Crest C
+淫紋D=Lewd Crest D
+淫紋E=Lewd Crest E
+淫紋F=Lewd Crest F
+淫紋G=Lewd Crest G
 
 // chara/MCT.unity3d
 魔法陣01=Magic circle 01
@@ -59,60 +65,41 @@
 魔法陣11=Magic circle 11
 魔法陣12=Magic circle 12
 
+// chara/mt_body_paint_974.unity3d
+天翔龍之蹄=Dragon's Hoof
+
 // chara/mt_underhair_01.unity3d
-四角=Rectangular
-三角=Triangle
-小三角=Small Triangle
-丸=Circle
-薄い=Wispy
-小盾=Small Shield
-大盾=Large Shield
-太縦長=Long And Wide
-細縦長=Long And Narrow
-薄縦長=Long And Wispy
-大縦長=Wide And Wispy
-横長=Broad
 そり跡=Pubic Stubble
+三角=Triangle
+丸=Circle
+四角=Rectangular
+大盾=Large Shield
+大縦長=Wide And Wispy
+太縦長=Long And Wide
+小三角=Small Triangle
+小盾=Small Shield
+横長=Broad
+細縦長=Long And Narrow
+薄い=Wispy
+薄縦長=Long And Wispy
 
-// chara/_mods/Mine8.unity3d
-奴隷紋=Slave Crest
+// chara/regiKK/kizutat.unity3d
+ひび=Crack
+切り傷=Cuts
+手術跡=Surgical scar
+爪痕（右）=Claw marks (R)
+爪痕（左）=Claw marks (L)
 
-// chara/mae_inmon.unity3d
-淫紋A=Lewd crest A
-淫紋B=Lewd crest B
-淫紋C=whore's crest C
-淫紋D=whore's crest D
-淫紋E=whore's crest E
-淫紋F=lewd pattern F
-淫紋G=lewd pattern G
+// chara/ymd/mf_bpaint.unity3d
+ほくろ=Mole
+ほくろ双=Mole twin
+ほくろ染=Mole Dye
+トライバル１=Tribal 1
+ハートタトゥ１=Heart Tattoos 1
+ハートタトゥ２=Heart Tattoo 2
 
 // chara/_kero/CMS_NT_00.unity3d
 タイプＡ=Type A
-タイプＢ=Type B
-タイプＣ=Type C
-タイプＤ=Type D
-タイプＥ=Type E
-タイプＦ=Type F
-タイプＧ=Type G
-タイプＨ=Type H
-タイプＩ=Type I
-タイプＪ=Type J
-タイプＫ=Type K
-タイプＬ=Type L
-タイプＭ=Type M
-タイプＮ=Type N
-タイプＯ=Type O
-タイプＰ=Type P
-タイプＱ=Type Q
-タイプＲ=Type R
-タイプＳ=Type S
-タイプＴ=Type T
-タイプＵ=Type U
-タイプＶ=Type V
-タイプＷ=Type W
-タイプＸ=Type X
-タイプＹ=Type Y
-タイプＺ=Type Z
 タイプＡＡ=Type AA
 タイプＡＢ=Type AB
 タイプＡＣ=Type AC
@@ -139,6 +126,7 @@
 タイプＡＸ=Type AX
 タイプＡＹ=Type AY
 タイプＡＺ=Type AZ
+タイプＢ=Type B
 タイプＢＡ=Type BA
 タイプＢＢ=Type BB
 タイプＢＣ=Type BC
@@ -165,6 +153,7 @@
 タイプＢＸ=Type BX
 タイプＢＹ=Type BY
 タイプＢＺ=Type BZ
+タイプＣ=Type C
 タイプＣＡ=Type CA
 タイプＣＢ=Type CB
 タイプＣＣ=Type CC
@@ -191,6 +180,7 @@
 タイプＣＸ=Type CX
 タイプＣＹ=Type CY
 タイプＣＺ=Type CZ
+タイプＤ=Type D
 タイプＤＡ=Type DA
 タイプＤＢ=Type DB
 タイプＤＣ=Type DC
@@ -217,29 +207,39 @@
 タイプＤＸ=Type DX
 タイプＤＹ=Type DY
 タイプＤＺ=Type DZ
+タイプＥ=Type E
 タイプＥＡ=Type EA
 タイプＥＢ=Type EB
 タイプＥＣ=Type EC
 タイプＥＤ=Type ED
 タイプＥＥ=Type EE
 タイプＥＦ=Type EF
+タイプＦ=Type F
+タイプＧ=Type G
+タイプＨ=Type H
+タイプＩ=Type I
+タイプＪ=Type J
+タイプＫ=Type K
+タイプＬ=Type L
+タイプＭ=Type M
+タイプＮ=Type N
+タイプＯ=Type O
+タイプＰ=Type P
+タイプＱ=Type Q
+タイプＲ=Type R
+タイプＳ=Type S
+タイプＴ=Type T
+タイプＵ=Type U
+タイプＶ=Type V
+タイプＷ=Type W
+タイプＸ=Type X
+タイプＹ=Type Y
+タイプＺ=Type Z
 
-// chara/regiKK/kizutat.unity3d
-爪痕（左）=Claw marks (left)
-爪痕（右）=Claw marks (right)
-手術跡=Surgical scar
-切り傷=Cuts
-ひび=Crack
+// chara/_mods/Mine8.unity3d
+奴隷紋=Slave Crest
 
 // list/characustom/00_vkat02.unity3d
 一本キズ=Long Scar
-十字キズ=Cross Scar
 三本キズ=Triple Scars
-
-// chara/ymd/mf_bpaint.unity3d
-ほくろ=Mole
-ほくろ双=Mole twin
-ほくろ染=Mole Dye
-ハートタトゥ１=Heart Tattoos 1
-ハートタトゥ２=Heart Tattoo 2
-トライバル１=Tribal 1
+十字キズ=Cross Scar

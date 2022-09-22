@@ -1,120 +1,140 @@
 //
-// Dumped for Koikatsu v5.1 by Mod Text Dump v0.6.0
+// Dumped for Koikatsu v5.1 (Koikatu) by KK_ModTextDump v0.7.0.1
 //
 
-// chara/noa/noa_top.unity3d
-乃愛=Noa
+// chara/07/co_top_07.unity3d
+ヴァルキリーアーマー=Valkyrie Armor
+盗賊の上着(男)=Bandit's jacket (Male)
+聖女の衣=Saint's robe
 
-// chara/LUmod/cat_top_03.unity3d
-猫ランジェリー=Cat Lingerie
+// chara/08/co_top_08.unity3d
+サキュバススーツ=Succubus Suit
+ネクロマンサーローブ=Necromancer Robe
+
+// chara/373.unity3d
+//美波七海 top=
+
+// chara/anse/anse_chichinoren.unity3d
+//あんせ 乳のれん=
+
+// chara/anse/anse_chichinoren_s.unity3d
+//あんせ 乳のれん(キラキラver)=
+
+// chara/anse/anse_loose_tanktop.unity3d
+//あんせ ゆるゆるタンクトップ=
+
+// chara/anse/anse_loose_tanktop_short.unity3d
+//あんせ ゆるゆるタンクトップ(ショート)=
+
+// chara/anse/anse_sailor_cheer_tops.unity3d
+//あんせセーラーチア=
+
+// chara/anse/anse_square_dress.unity3d
+//あんせスクエアーネックワンピース=
+
+// chara/anse/anse_square_dress_short.unity3d
+//あんせスクエアーネックワンピースshort=
 
 // chara/anse/anse_sunshine_tshirt.unity3d
 あんせサンシャインTシャツ=Anse sunshine T-shirt
 
+// chara/anse/anse_susomusubi_clear_tshirt.unity3d
+あんせ裾結びTシャツ(透明)=Safety T-shirt (Transparent)
+
 // chara/anse/anse_susomusubi_tshirt.unity3d
 あんせ裾結びTシャツ=Anse hem knot t-shirt
 
-// chara/anse/anse_susomusubi_clear_tshirt.unity3d
-あんせ裾結びTシャツ(透明)=Safety T-shirt (transparent)
+// chara/anse/anse_swimsuits.unity3d
+//あんせ競泳水着=
 
-// chara/deathweasel/ec_items.unity3d
-ヴァルキリーアーマー=Valkyrie Armor
-聖女の衣=Saint's robe
-盗賊の上着(男)=Bandit's jacket (male)
-サキュバススーツ=Succubus Suit
-ネクロマンサーローブ=Necromancer Robe
+// chara/anse/anse_swimsuits_ob.unity3d
+//あんせ競泳水着OB=
 
-// chara/nam/co_shibari_00.unity3d
-亀甲縛り改1=Tortoise Shell Binding Kai 1
-亀甲縛り改2=Tortoise Shell Binding Kai 2
+// chara/anse/anse_swimsuits_ob_s.unity3d
+//あんせ競泳水着OB(S)=
 
-// chara/nam/co_taisoufuku_top_00.unity3d
-体操服In=Gym Uniform In
-体操服In透けA=Gym Uniform In Transparent A
-体操服In透けB=Gym Uniform In Transparent B
-体操服=Gym Uniform
-体操服改透けA=Transparent Gym Uniform A
-体操服改透けB=Transparent Gym Uniform B
-長体操服1=Long Gym Uniform 1
-長体操服1透けA=Long Gym Uniform 1 Transparent A
-長体操服1透けB=Long Gym Uniform 1 Transparent B
-
-// chara/mt_pattern_KL.unity3d
-工装=Engineering Equipment
-长袖衬衣(男)=Long-sleeved polo shirt (for men)
-
-// chara/mt_pattern_AI.unity3d
-休闲西装=Casual Western Apparel
-
-// chara/co_top_00_02change.unity3d
-AA1衬衣=AA1 Shirt
-
-// chara/co_shoes.unity3d
-HS2贵族风衣=HS2 Dress
-
-// chara/mt_pattern_KK.unity3d
-短袖衬衣(男)=Short-sleeved Shirt (Male)
-//男西装(领色固定)=Western-style clothes (领色固定)
-
-// chara/mt_pattern_SP.unity3d
-男西装(腰带)=Western-style dress (waistband)
-HS外穿衬衣=HS polo shirt
-
-// chara/mt_pattern_BB.unity3d
-//男T恤(鸡心领)=T-shirt (鸡心领)
-男棒球服(外)=Man's ball gown (outer)
-
-// chara/mt_pattern_AH.unity3d
-HS2男衬衣=HS2 polo shirt for men
-HS2男马甲=HS2 men's marsupial
+// chara/anse/anse_swimsuits_s.unity3d
+//あんせ競泳水着(S)=
 
 // chara/bot_makoto.unity3d
 衬衣牛仔裤=Shirt polo
 
-// chara/Sen3_hair.unity3d
-闪轨军装=Flashback Channel
+// chara/c.unity3d
+//C酱 dress=
 
-// chara/_mods/angela.unity3d
-三等官ひも=Third class police uniform
+// chara/choco.unity3d
+//癒月ちょこ out=
 
-// chara/_mods/chirai_01.unity3d
-チライトップス=Chillie Tops
+// chara/ciela_co_bot_01.unity3d
+//シエラ 蒼空  1st top accs=
 
-// chara/_mods/gantz_suit4.unity3d
-ガンツスーツアウター=Gantz Suit Outerwear
+// chara/co_creamset_nkt.unity3d
+クリーム=Cream
 
-// chara/_mods/gantz_suit8.unity3d
-ガンツスーツアウター2=Gantz Suit Outerwear 2
-ガンツスーツアウター3=Gantz suit outerwear 3
+// chara/co_shoes.unity3d
+HS2贵族风衣=HS2 Dress
 
-// chara/_mods/ishizawa.unity3d
-逗子総合=Zushi General
+// chara/co_tops_xmas.unity3d
+サンタ=Santa Claus
 
-// chara/_mods/eva2.unity3d
-ジャージ2(フィット)=Jersey 2 (Fitted)
-ジャージ2(スカート)=Jersey 2(Skirt)
+// chara/co_top_00.unity3d
+キャミソール(谷間改)=Camisole (Cleavage revision)
+スーツ (スカート対応)=Suits (Skirts allowed)
+//ネグリジェ(ブラ可)=
+ベビードール(ブラ可)=Baby doll (Bra allowed)
+ランニングウェア（ブラ可）=Running wear (Bra allowed)
+//悪魔(元)ワンピース=
+//着物(襟色)=
 
-// chara/_mods/makinon01.unity3d
-マキノジャケット=Makino Jacket
+// chara/co_top_00_02change.unity3d
+AA1衬衣=AA1 Shirt
 
-// chara/_mods/miro.unity3d
-ミロアウター=Milo Outerwear
+// chara/co_top_dl01.unity3d
+DALI临时MOD=DALI Temporary MOD
 
-// chara/_mods/natumi4.unity3d
-タンクトップ=Tank Top
-ムーTシャツ=Mu T-Shirt
+// chara/escargot_001_01C_co_top_00.unity3d
+乳テントTシャツ=Breast Tent Tee
 
-// chara/_mods/natumi.unity3d
-レースアップキャミソール=Lace-up Camisole
+// chara/escargot_001_01C_co_top_01.unity3d
+乳テントTシャツショート=Tummy Tee Short
 
-// chara/_mods/rider.unity3d
-ライダーワンピース=Rider Dress
+// chara/escargot_001_01C_co_top_02.unity3d
+乳テントTシャツミニ=Tshirt Mini
 
-// chara/_mods/sinon02.unity3d
-シノンジャケット=Sinon Jacket
+// chara/escargot_001_01C_co_top_10.unity3d
+乳袋Tシャツ=Breast pouch T-shirt
 
-// chara/_mods/takamura.unity3d
-衛士強化装備=Pilot Fortified Suit
+// chara/escargot_001_01C_co_top_11.unity3d
+乳袋Tシャツショート=Breast Bag Tee Short
+
+// chara/escargot_001_01C_co_top_12.unity3d
+乳袋Tシャツミニ=Mini Breast Bag Tee
+
+// chara/escargot_002_01C_co_top_01.unity3d
+ほのかTシャツ（モーモちゃん）=Honoka T-Shirt (Momo-chan)
+ほのかTシャツ（無地）=Honoka T-Shirt (Plain)
+
+// chara/escargot_002_01C_co_top_02.unity3d
+透けほのかTシャツ（モーモちゃん）=Transparent Honoka T-shirt (Momo-chan)
+透けほのかTシャツ（無地）=Transparent Honoka T-shirt (Plain)
+
+// chara/escargot_003_01C_co_top_01.unity3d
+//悪魔のハイレグ=
+//悪魔のハイレグ(Gloss)=
+
+// chara/escargot_003_01C_co_top_10.unity3d
+//ロングTシャツ(opt①or②)=
+
+// chara/escargot_003_03_co_bra_01.unity3d
+//カスタムバニー=
+
+// chara/GOUMA4.unity3d
+//狗妈 Dress=
+
+// chara/Hayashi/vtop_02.unity3d
+王子服=Prince Uniform
+軍服=Military Uniform
+金ボタンジャケット(男)=Gold Button Jacket (Man)
 
 // chara/hffun_mods/hffun_runwear_top_00.unity3d
 ランニングウェアA=Running wear A
@@ -123,73 +143,119 @@ HS2男马甲=HS2 men's marsupial
 // chara/hffun_mods/hffun_runwear_top_01.unity3d
 スウェットA=Sweatshirt A
 
-// chara/co_top_dl01.unity3d
-DALI临时MOD=DALI Temporary MOD
+// chara/hime_concert_top1.unity3d
+//姫様 concert top ep5=
 
 // chara/JK/jk_tops.unity3d
-キャミソール(下乳)=Camisole(lower breast)
-キャミソール(maskless)=Camisole(maskless)
+キャミソール(maskless)=Camisole (Maskless)
+キャミソール(下乳)=Camisole (Lower breast)
 
-// chara/co_top_01.unity3d
-キュートナース服=Cute Nurse Outfit
+// chara/kaguranana.unity3d
+//カグラナナ アーティストver. cloth=
 
-// alice4.unity3d
-衣服=Clothing
+// chara/kimono_topside.unity3d
+//着物(柄あり上だけ)=
 
-// chara/co_top_03.unity3d
-セクシーランジェリー（上）=Sexy Lingerie (Top)
+// chara/korone.unity3d
+//戌神ころね out=
+
+// chara/kurumi.unity3d
+//[蓬莱伝説]七瀬くるみ cloth=
+
+// chara/kyuudou_topside.unity3d
+//弓道衣胸当てなし(襟色)=
+
+// chara/lamy.unity3d
+//雪花ラミィ dress=
+
+// chara/luse_wamaid_top.unity3d
+//温泉ルウシェ TOP=
 
 // chara/m14/co_top_04_1.unity3d
 軍服2 =Military uniform 2
 
+// chara/maleblazerfix.unity3d
+ネクタイブレザー(男)- fix=Necktie Blazer (Male) - fix
+
+// chara/maleblazerfix2.unity3d
+ネクタイブレザー[ボタン変更]- fix=Tie Blazer [Button Change]-fix
+
 // chara/mat/mat_corset.unity3d
 コルセットのみ=Corset only
 
+// chara/mat/mat_onep.unity3d
+ワンピース 改A=One Piece Revision A
+ワンピース 改B=One Piece Mod B
+ワンピース 改C=One Piece Modification C
+ワンピース 改D=One Piece Modification D
+
 // chara/mat/mat_top.unity3d
-ジャージ前開き=Open Jersey
 カーディガン無し=No cardigan
+ジャージ前開き=Open Jersey
 ベビードール ツヤ有り=Baby doll with luster
 長袖シャツ=Long Sleeve Shirt
 
 // chara/Matne/matne_top_00.unity3d
-ワンピース（インナーなし）=One-piece (without inner wear)
 セーラーワンピース改=Sailor Dress modified
-
-// chara/Mint/co_Mint_NakedCoat.unity3d
-裸コート=Bare Coat
-裸コート(ベルトなし)=Naked coat (no belt)
-
-// chara/co_top_00.unity3d
-ベビードール(ブラ可)=Baby doll (bra allowed)
-ランニングウェア（ブラ可）=Running wear(bra allowed)
-キャミソール(谷間改)=Camisole(cleavage revision)
-スーツ (スカート対応)=Suits (Skirts allowed)
-
-// chara/mm/noalpha_epron.unity3d
-裸エプロン(透過なし)=Naked apron (no transparency)
+タンクトップ=Tank Top
+ワンピース（インナーなし）=One-piece (Without inner wear)
 
 // chara/mf_alice.unity3d
-騎士の鎧[アリス]=Knight's armor [Alice]
 ビキニアーマー[アリス]=Bikini Armor [Alice][SAO
+騎士の鎧[アリス]=Knight's armor [Alice]
 
 // chara/mf_alice_v2.unity3d
 ビキニアーマー[アリス][SAO]=Bikini Armor [Alice][SAO]
 
-// chara/_kero/cpo_shimakazeS_NT_00.unity3d
-透過全身タイツ VerA=Transparent Full Length Tights Ver.
-透過全身タイツ VerB=Transparent Full-Body Tights Ver.
-疑似ヌルテカボディ=Pseudo-slippery body
-さらしショート無地=Sarashi Short Plain
+// chara/Mint/co_Mint_NakedCoat.unity3d
+裸コート=Bare Coat
+裸コート(ベルトなし)=Naked coat (No belt)
 
-// chara/_kero/co_hm_nurse_cos_NT_00.unity3d
-HMナース服 verA=HM nurse's uniform verA
-HMナース服 verB=HM nurse suit verB
+// chara/mio.unity3d
+//大神ミオ top=
 
-// chara/_kero/co_SwimKikkou_NT_00.unity3d
-亀甲縛り=Tortoise Shell Binding
+// chara/mirai_wamaid_top.unity3d
+//ミラクル TOP=
 
-// chara/sagiri/sagiri_top.unity3d
-紗霧=Sagiri
+// chara/mk_wamaid_top.unity3d
+//マジカル wamaid=
+
+// chara/mm/noalpha_epron.unity3d
+裸エプロン(透過なし)=Naked apron (No transparency)
+
+// chara/mod/mod_aurora_al.unity3d
+ワンピース_オーロラAL=One Piece_Aurora AL
+ワンピース_オーロラAL_非武装=One Piece_Aurora AL_Unarmed
+
+// chara/mod/mod_eden_vb.unity3d
+ローブ_エデンVB=Robe_Eden VB
+
+// chara/mod/mod_ranrin_acm.unity3d
+ワンピース_嵐燐結騎=One Piece Arashi Rinkouki
+ワンピース_嵐燐結騎_プラグイン無=One Piece_Arashi Rinkouki_without Plug-in
+
+// chara/mt_pattern_AH.unity3d
+HS2男衬衣=HS2 polo shirt for men
+HS2男马甲=HS2 men's marsupial
+
+// chara/mt_pattern_AI.unity3d
+休闲西装=Casual Western Apparel
+
+// chara/mt_pattern_BB.unity3d
+男T恤(鸡心领)=Men's T-shirt (Sweetheart collar)
+男棒球服(外)=Man's ball gown (Outer)
+
+// chara/mt_pattern_KK.unity3d
+男西装(领色固定)=Men's suit (Fixed collar color)
+短袖衬衣(男)=Short-sleeved Shirt (Male)
+
+// chara/mt_pattern_KL.unity3d
+工装=Engineering Equipment
+长袖衬衣(男)=Long-sleeved polo shirt (For men)
+
+// chara/mt_pattern_SP.unity3d
+HS外穿衬衣=HS polo shirt
+男西装(腰带)=Western-style dress (Waistband)
 
 // chara/nakay/co_top_kigurumi_nkt.unity3d
 着ぐるみパジャマ１=Stuffed pajamas 1
@@ -197,8 +263,34 @@ HMナース服 verB=HM nurse suit verB
 着ぐるみパジャマ３=Stuffed pajamas 3
 着ぐるみパジャマ４=Stuffed pajamas 4
 
-// chara/co_creamset_nkt.unity3d
-クリーム=Cream
+// chara/nam/co_shibari_00.unity3d
+亀甲縛り改1=Tortoise Shell Binding Kai 1
+亀甲縛り改2=Tortoise Shell Binding Kai 2
+
+// chara/nam/co_taisoufuku_top_00.unity3d
+体操服=Gym Uniform
+体操服In=Gym Uniform In
+体操服In透けA=Gym Uniform In Transparent A
+体操服In透けB=Gym Uniform In Transparent B
+体操服改透けA=Transparent Gym Uniform A
+体操服改透けB=Transparent Gym Uniform B
+長体操服1=Long Gym Uniform 1
+長体操服1透けA=Long Gym Uniform 1 Transparent A
+長体操服1透けB=Long Gym Uniform 1 Transparent B
+
+// chara/nashi/ns_Babydoll.unity3d
+ベビードール=Babydoll
+ベビードール オープン=Baby Doll Open
+
+// chara/nashi/ns_cape_pollux.unity3d
+クリスマスポンチョ_pollux=Christmas Poncho _pollux
+
+// chara/nashi/ns_Erifrill.unity3d
+りんりんブラウス=Rin Rin Blouse
+襟立てフリルブラウス=Ruffled Blouse with Collar
+
+// chara/nashi/ns_FurCoat.unity3d
+ファーコート=Fur Coat
 
 // chara/nashi/ns_LAWSONcollabo.unity3d
 ローソンコラボトップス=Lawson collaboration tops
@@ -221,82 +313,389 @@ HMナース服 verB=HM nurse suit verB
 忍 花魁=Shinobi Courtesan
 
 // chara/nashi/ns_sweater.unity3d
-ハイネックニットワンピース=High Neck Knit Dress
 Vネックニットワンピース=V-Neck Knit Dress
 ノースリーブニットワンピース=Sleeveless Knit Dress
-肩出しニット=Bare Shoulder Knit Dress
+ハイネックニットワンピース=High Neck Knit Dress
 肩出しVネックニット=V-neck knit dress with bare shoulders
+肩出しニット=Bare Shoulder Knit Dress
 
 // chara/nashi/ns_top.unity3d
 オフショルダーブラウス1=Off-the-shoulder Blouse 1
 オフショルダーブラウス2=Off-the-shoulder Blouse 2
-ハイレグバニー=High-Legged Bunny
-ハイレグバニー ツヤ=High-Leg Bunnies Glossy
-小悪魔トップス ショルダーレス=Small Devil Tops Shoulderless
-ワンピース フリルレス=Dress Frillless
-着物1=Kimono 1
-着物2=Kimono 2
 ドレス風1=Dress style 1
 ドレス風2=Dress Style 2
+ハイレグバニー=High-Legged Bunny
+ハイレグバニー ツヤ=High-Leg Bunnies Glossy
+ワンピース フリルレス=Dress Frillless
+小悪魔トップス ショルダーレス=Small Devil Tops Shoulderless
+着物1=Kimono 1
+着物2=Kimono 2
 
 // chara/nashi/ns_Tshirt.unity3d
 結びTシャツ=Knotted T-Shirt
 結びTシャツ 透け=Knotted Tee Transparent
 
-// chara/nashi/ns_Babydoll.unity3d
-ベビードール=Babydoll
-ベビードール オープン=Baby Doll Open
+// chara/nin/nin_top_01.unity3d
+//くノ一キャミソール1=
+//くノ一キャミソール2=
+//ミニ浴衣=
+浴衣=Yukata
 
-// chara/nashi/ns_cape.unity3d
-クリスマスポンチョ=Christmas Poncho
-クリスマスケープ=Christmas cape
+// chara/noa/noa_top.unity3d
+乃愛=Noa
 
-// chara/nashi/ns_Erifrill.unity3d
-襟立てフリルブラウス=Ruffled Blouse with Collar
-りんりんブラウス=Rin Rin Blouse
-
-// chara/nashi/ns_FurCoat.unity3d
-ファーコート=Fur Coat
-
-// chara/pinosante/cropped_camisole_fuckdoll.unity3d
-キャミソール (クロップド ファック ドール)=Camisole (cropped) (fuck doll)
+// chara/onepiece.unity3d
+//ワンピース(ボーン再調整)=
+//ワンピース(上だけ)=
+//ワンピース(袖なし)=
+//ワンピース(袖なしブラ消し)=
+//ワンピース(袖なし上だけ)=
+//ワンピース(袖なし上だけブラ消し)=
 
 // chara/pinosante/cropped_camisole.unity3d
-キャミソール (クロップド)=Camisole (cropped)
+キャミソール (クロップド)=Camisole (Cropped)
 
-// chara/mod/mod_aurora_al.unity3d
-ワンピース_オーロラAL=One Piece_Aurora AL
-ワンピース_オーロラAL_非武装=One Piece_Aurora AL_Unarmed
+// chara/pinosante/cropped_camisole_fuckdoll.unity3d
+キャミソール (クロップド ファック ドール)=Camisole (cropped) (Fuck doll)
 
-// chara/mod/mod_eden_vb.unity3d
-ローブ_エデンVB=Robe_Eden VB
-
-// chara/mod/mod_ranrin_acm.unity3d
-ワンピース_嵐燐結騎=One Piece Arashi Rinkouki
-ワンピース_嵐燐結騎_プラグイン無=One Piece_Arashi Rinkouki_without Plug-in
+// chara/rena.unity3d
+//夜見れな dress=
 
 // chara/roil/eirika.unity3d
 エイリークトップ=Eirik Top
 
+// chara/sadou_topside.unity3d
+//着物(上だけ)=
+//着物(上だけ襟色)=
+
+// chara/sagiri/sagiri_top.unity3d
+紗霧=Sagiri
+
 // chara/saropet/ripped_saropet.unity3d
-멜빵 청바지=빵청바지
+//デニムサロペット=
+//裸デニムサロペット=
 
-// chara/saropet/wethard_saropet.unity3d
-멜빵 청바지 (많이 젖음)=멜빵청바지 (많_젖음)
+// chara/Sen3_hair.unity3d
+闪轨军装=Flashback Channel
 
-// chara/mat/mat_onep.unity3d
-ワンピース 改A=One Piece Revision A
-ワンピース 改B=One Piece Mod B
-ワンピース 改C=One Piece Modification C
-ワンピース 改D=One Piece Modification D
+// chara/sunshine/co_top_00/p_cf_top_afshirts.unity3d
+アロハ服A=Aloha Shirt A
 
-// chara/Hayashi/vtop_02.unity3d
-金ボタンジャケット(男)=Gold Button Jacket(Man)
-軍服=Military Uniform
-王子服=Prince Uniform
+// chara/sunshine/co_top_00/p_cf_top_afshirts2.unity3d
+アロハ服B=Aloha Shirt B
 
-// chara/co_tops_xmas.unity3d
-サンタ=Santa Claus
+// chara/sunshine/co_top_00/p_cf_top_aonep_211008.unity3d
+Aラインワンピース=A-Line One-Piece
+
+// chara/sunshine/co_top_00/p_cf_top_aroha00.unity3d
+アロハ服（男）=Aloha Shirt (Male)
+
+// chara/sunshine/co_top_00/p_cf_top_darklace00.unity3d
+ダークレーストップ=Dark Lace Top
+
+// chara/sunshine/co_top_00/p_cf_top_defshirt.unity3d
+フリルシャツ=Frilly Shirt
+
+// chara/sunshine/co_top_00/p_cf_top_erionepi.unity3d
+襟付きワンピース=Collared One-Piece
+
+// chara/sunshine/co_top_00/p_cf_top_ffri.unity3d
+フリルタンキニ=Frilly Tankini
+
+// chara/sunshine/co_top_00/p_cf_top_fritan.unity3d
+フリルタンクトップ=Frilly Tank Top
+
+// chara/sunshine/co_top_00/p_cf_top_guiche.unity3d
+カマーベストシャツ=Button & Tie Vest
+
+// chara/sunshine/co_top_00/p_cf_top_heroine_sun00.unity3d
+肩出し結びTシャツ=Shoulder-Joined T-Shirt
+
+// chara/sunshine/co_top_00/p_cf_top_hoodie.unity3d
+フーディー=Hoodie
+
+// chara/sunshine/co_top_00/p_cf_top_jjan.unity3d
+デニムジャケット=Denim Jacket
+
+// chara/sunshine/co_top_00/p_cf_top_layerdt.unity3d
+レイヤードTシャツ=Layered T-Shirt
+
+// chara/sunshine/co_top_00/p_cf_top_minichina00.unity3d
+ミニチャイナ=Mini China
+
+// chara/sunshine/co_top_00/p_cf_top_mumu.unity3d
+ムームー=Muumuu
+
+// chara/sunshine/co_top_00/p_cf_top_ovswa.unity3d
+シースルーオーバーウェア=See-Through Overwear
+
+// chara/sunshine/co_top_00/p_cf_top_parke_ns00.unity3d
+袖なしパーカー=Sleeveless Parka
+
+// chara/sunshine/co_top_00/p_cf_top_pezant.unity3d
+ペザントブラウス=Peasant Blouse
+
+// chara/sunshine/co_top_00/p_cf_top_retorowanpi00.unity3d
+レトロワンピース=Retro One-Piece
+
+// chara/sunshine/co_top_00/p_cf_top_sjan.unity3d
+スカジャン=Satin Jacket
+
+// chara/sunshine/co_top_00/p_cf_top_sksaropet.unity3d
+スカートサロペット=Skirted Overalls
+
+// chara/sunshine/co_top_00/p_cf_top_steampunk00.unity3d
+パンクトップス=Punk Top
+
+// chara/sunshine/co_top_00/p_cf_top_swim_12sun00.unity3d
+ショルダーフリル=Frilly Shouldered Top
+
+// chara/sunshine/co_top_00/p_cf_top_swim_frillsp00.unity3d
+フリルセパレート（上）=Frilly Separate Top
+
+// chara/sunshine/co_top_00/p_cf_top_tightonepi.unity3d
+タイトワンピース=Tight One-Piece
+
+// chara/sunshine/co_top_00/p_cm_top_shirtsm.unity3d
+七分丈シャツ(男)=3/4 Length Shirt (Male)
+
+// chara/sunshine/co_top_00/p_cm_top_sjan.unity3d
+スカジャン(男)=Satin Jacket (Male)
+
+// chara/sunshine/co_top_03/p_cf_top_otohime.unity3d
+乙姫の着物=Young Princess Kimono
+
+// chara/sunshine/co_top_30/p_cf_top_hapi.unity3d
+ハッピB=Happi B
+
+// chara/sunshine/co_top_30/p_cf_top_hapicl.unity3d
+ハッピA=Happi A
+
+// chara/sunshine/co_top_30/p_cf_top_yukata00.unity3d
+ミニ丈浴衣=Short Yukata
+
+// chara/sunshine/co_top_30/p_cm_top_hapi.unity3d
+ハッピB(男)=Happi B (Male)
+
+// chara/sunshine/co_top_30/p_cm_top_hapicl.unity3d
+ハッピA(男)=Happi A (Male)
+
+// chara/sunshine/co_top_35/p_cf_top_animaja.unity3d
+着ぐるみパジャマ=Stuffed Animal Pajamas
+
+// chara/sunshine/co_top_35/p_cf_top_fancy00_210917.unity3d
+ファンシートップス=Fancy Top
+
+// chara/sunshine/co_top_40/p_cf_top_sytop.unity3d
+サイバージャケット=Cyber Jacket
+
+// chara/sunshine/co_top_50/p_cf_top_moco.unity3d
+モコモコトップス=Fluffy Top
+
+// chara/suzukihina.unity3d
+//鈴木ヒナ cloth=
+
+// chara/umy.unity3d
+//呜米Umy top=
+
+// chara/umy2.unity3d
+//呜米Umy公式服 top=
+
+// chara/ura.unity3d
+//乌拉 top=
+
+// chara/xne/xne_co_top_altbunny.unity3d
+ハイレグバニーH_A（襟op）=High-Legged Bunny H_A (Collar op)
+ハイレグバニーH_B（襟op）=High-Legged Bunny H_B (Collar op)
+ハイレグバニー（重ね着用/襟op）=High-Legged Bunny (Overlapping / Collar op)
+
+// chara/xne/xne_co_top_dabotsyatu.unity3d
+ダボTシャツ=Dabo T-shirt
+ダボTシャツ（透け）=Dabo T-shirt (Transparent)
+ダボＴシャツ（透け柄）=Dabo T-shirt (Transparent pattern)
+
+// chara/xne/xne_co_top_dksweater.unity3d
+童殺セーター（巨乳）=Child killer sweater (Big tits)
+童殺セーター（～普乳）=Child killer sweater (~normal tits)
+童殺セーターＨ（巨乳）=Child killer sweater H (Big tits)
+童殺セーターＨ（～普乳）=Sweater H（Big Tits
+
+// chara/xne/xne_co_top_egyptian01.unity3d
+エジプト風胸飾り=Egyptian-style chest ornament
+
+// chara/xne/xne_co_top_mdsweater.unity3d
+下乳セーター=Sweater with lower breast
+下乳セーター（胸張り）=Lower Breast Sweater (Full Breasted)
+前垂れセーター=Front-hanging sweater
+前垂れセーター（胸張り中）=Sweater with drooping front (Medium chest)
+前垂れセーター（胸張り大）=Sweater with drooping front (Large chest)
+
+// chara/xne/xne_co_top_minichina.unity3d
+ミニチャイナ（裾色変え可）=Mini China (Hem Color Changeable)
+ミニチャイナＨ=Mini China H
+ミニチャイナＨ（裾色変え可）=Mini China H (Hem color can be changed)
+ミニチャイナＳｅｐ=Mini China Sep
+ミニチャイナＳｅｐ（裾色変え可）=Mini China Sep (Hem color changeable)
+
+// chara/xne/xne_co_top_saitosyatu.unity3d
+ジムリーダー風シャツ=Gym Leader Style Shirt
+
+// chara/xne/xne_co_top_skdrs01.unity3d
+すけレースドレス01=Suke-Lace Dress 01
+
+// chara/xne/xne_co_top_skdrs01b.unity3d
+すけレースドレス01v2=Transparent-Lace Dress 01v2
+
+// chara/xne/xne_co_top_skdrs01h.unity3d
+すけレースドレス01胸あけ=Suke-Lace Dress 01 (Open chest)
+
+// chara/xne/xne_co_top_skdrs01hb.unity3d
+すけレースドレス01v2胸あけ=Transparent-Lace Dress 01v2 Open-Breasted
+
+// chara/xne/xne_co_top_sukecami.unity3d
+すけすけキャミソール=Sukesuke Camisole
+
+// chara/xne/xne_co_top_tsyatu01.unity3d
+ボートネックTシャツ=Boat-neck T-shirt
+
+// chara/xne/xne_co_top_tsyatu01_s.unity3d
+ボートネックTシャツ（裾短）=Boat Neck T-Shirt (Short Hem)
+
+// chara/xne/xne_co_top_z46cloth.unity3d
+立て襟ワンピース=Standing Collar Dress
+
+// chara/ymd/mf_clothVariation.unity3d
+ノースリーブ アレンジ 短=Sleeveless Arrange Short
+ハロウィントップス op削除1=Halloween Tops op deleted1
+ハロウィントップス op削除2=Halloween Tops op deleted2
+改造 Tシャツ=Modified T-Shirt
+改造 Tシャツ 開=Modified T-Shirt Open
+改造 Tシャツ2=Modified T-Shirt 2
+改造 Yシャツ=Modified Y-Shirt
+改造 Yシャツ 開=Modification Y Shirt Open
+改造 インナー=Modification Innerwear
+改造 パジャマ1=Modification Pajamas 1
+改造 パジャマ1 開=Pyjamas 1 Open
+改造 パジャマ2=Modified Pajamas 2
+改造 パジャマ2 開=Modification Pajamas 2 Open
+
+// chara/ymd/mf_clothVariation2.unity3d
+タートルネック in=Turtleneck in
+タートルネック out=Turtleneck out
+タートルネック ジャケット =Turtleneck Jacket
+タートルネック パフスリーブ in=turtleneck with puff sleeves in
+タートルネック パフスリーブ out=Turtleneck with puff sleeves out
+タートルネック パフスリーブ 胸元空き=Turtleneck Puffed sleeves open at chest
+タートルネック 白衣=Turtleneck White Jacket
+タートルネック 白衣 ベルトなし=Turtleneck White Coat Without Belt
+タートルネック 胸元空き=Turtleneck open at chest
+長袖 in=Long sleeves in
+長袖 out=Long sleeves out
+長袖 ベルスリーブ=Long Sleeve Bell Sleeve
+長袖 ベルスリーブ 開=Long Sleeve Bell Sleeve Open
+
+// chara/ymd/mf_clothVariation3.unity3d
+ジャケット ラフ=Jacket Rough
+ジャケット ラフ + チア=Jacket Ruff + Cheerleader
+ジャケット ラフ + バニー=Jacket Ruff + Bunny
+ジャケット ラフ + バンドゥビキニ=Jacket Ruff + Bandeau bikini
+ジャケット 短 + バンドゥビキニ=Jacket short + bandeau bikini
+チューブワンピース もどき=Tube One Piece Prototype
+チューブワンピース もどき プロトタイプ=Tube One Piece Prototype
+
+// chara/ymd/mf_clothVariation4.unity3d
+袖ぶかジャージ 上=Sleeve jersey top
+袖ぶかパーカー=Hoodie with short sleeves
+袖ぶかパーカー ヘソだし=Hoodie with sleeves and bare belly button
+
+// chara/ymd/mf_clothVariationP.unity3d
+[HS][男性]Tシャツ=[HS][Male] T-shirt
+[HS][男性]Yシャツ=[HS][Male] Y-shirt
+[HS][男性]ジェントルスーツ=[HS][Men] Gentle Suit
+[HS][男性]タンクトップ=[HS][Men] Tank Tops
+[HS][男性]フードパーカー=HS][Men] Hooded Hoodie
+[HS][男性]ベスト=[HS][Men] Vest
+[HS][男性]ランニングシャツ=[HS][Male] Running Shirt
+[HS][男性]レイヤードパーカー=[HS][Men] Layered Hoodie
+[HS][男性]長袖Tシャツ=[HS][Men] Long Sleeve T-Shirt
+[HS]ドルフくんスーツ=[HS]Dolph suit
+[HS]ヒーロースーツ=[HS][Hero Suit
+[HS]ブタスーツ=[HS][Pig] suit
+[PC]ゴシックロリータ=[PC]Gothic Lolita
+[PC]私服(弥生)=[PC] plain clothes (Yayoi)
+[PC]私服(弥生) retake=[PC]plain clothes (Yayoi) retake
+[PC]私服(朝江)=[PC] plain clothes (Asae)
+[PC]私服(紅葉)=PC] plain clothes (Momiji)
+[PC]軍服=[PC]military uniform
+
+// chara/ymd/mf_texchange.unity3d
+アイドルワンピ[マスク変更]=idol onesie[change mask]
+セクシーパレオ[均一透過]=Sexy pareo[Uniform transparency].
+セクシーパレオ[透過なし]=Sexy pareo[No transparency].
+ネクタイブレザー[ボタン変更]=Necktie blazer [change button].
+濡れT=Wet T
+濡れT 薄=Wet T Thin
+騎士のスーツ[アレンジ]=Knight's suit[arrange].
+騎士のスーツ[金具色指定]=Knight's suit[change color].
+騎士のスーツ[金具銀]=Knight's suit [silver].
+騎士のスーツ[金具黒]=Knight's suit[Black].
+
+// chara/_kero/co_hm_nurse_cos_NT_00.unity3d
+HMナース服 verA=HM nurse's uniform verA
+HMナース服 verB=HM nurse suit verB
+
+// chara/_kero/co_SwimKikkou_NT_00.unity3d
+亀甲縛り=Bondage Ropes
+
+// chara/_kero/cpo_shimakazeS_NT_00.unity3d
+さらしショート無地=Sarashi Short Plain
+疑似ヌルテカボディ=Pseudo-slippery body
+透過全身タイツ VerA=Transparent Full Length Tights Ver.
+透過全身タイツ VerB=Transparent Full-Body Tights Ver.
+
+// chara/_mods/angela.unity3d
+三等官ひも=Third class police uniform
+
+// chara/_mods/chirai_01.unity3d
+チライトップス=Chillie Tops
+
+// chara/_mods/eva2.unity3d
+ジャージ2(スカート)=Jersey 2 (Skirt)
+ジャージ2(フィット)=Jersey 2 (Fitted)
+
+// chara/_mods/gantz_suit4.unity3d
+ガンツスーツアウター=Gantz Suit Outerwear
+
+// chara/_mods/gantz_suit8.unity3d
+ガンツスーツアウター2=Gantz Suit Outerwear 2
+ガンツスーツアウター3=Gantz suit outerwear 3
+
+// chara/_mods/ishizawa.unity3d
+逗子総合=Zushi General
+
+// chara/_mods/makinon01.unity3d
+マキノジャケット=Makino Jacket
+
+// chara/_mods/miro.unity3d
+ミロアウター=Milo Outerwear
+
+// chara/_mods/muvluv01.unity3d
+//99式衛士強化装備=
+
+// chara/_mods/natumi.unity3d
+レースアップキャミソール=Lace-up Camisole
+
+// chara/_mods/natumi4.unity3d
+ムーTシャツ=Mu T-Shirt
+
+// chara/_mods/rider.unity3d
+ライダーワンピース=Rider Dress
+
+// chara/_mods/sinon02.unity3d
+シノンジャケット=Sinon Jacket
+
+// chara/_mods/takamura.unity3d
+衛士強化装備=Pilot Fortified Suit
 
 // list/characustom/00_vkat02.unity3d
 セーラーシャツ(男)=Sailor Shirt (Boys)
@@ -310,172 +709,3 @@ wen妖精=wen Fairy
 
 // wen/wenyeye.unity3d
 wen夜夜=WEN Night Night
-
-// chara/maleblazerfix.unity3d
-ネクタイブレザー(男)- fix=Necktie Blazer (Male) - fix
-
-// chara/maleblazerfix2.unity3d
-ネクタイブレザー[ボタン変更]- fix=Tie Blazer [Button Change]-fix
-
-// chara/xne/xne_co_top_altbunny.unity3d
-ハイレグバニーH_A（襟op）=High-Legged Bunny H_A (collar op)
-ハイレグバニーH_B（襟op）=High-Legged Bunny H_B (Collar op)
-ハイレグバニー（重ね着用/襟op）=High-Legged Bunny (Overlapping / Collar op)
-
-// chara/xne/xne_co_top_tsyatu01_s.unity3d
-ボートネックTシャツ（裾短）=Boat Neck T-Shirt (Short Hem)
-
-// chara/xne/xne_co_top_dabotsyatu.unity3d
-ダボTシャツ=Dabo T-shirt
-ダボTシャツ（透け）=Dabo T-shirt (Transparent)
-ダボＴシャツ（透け柄）=Dabo T-shirt (transparent pattern)
-
-// chara/xne/xne_co_top_dksweater.unity3d
-童殺セーター（～普乳）=Child killer sweater (~normal tits)
-童殺セーターＨ（～普乳）=Sweater H（Big Tits
-童殺セーター（巨乳）=Child killer sweater (Big tits)
-童殺セーターＨ（巨乳）=Child killer sweater H (Big tits)
-
-// chara/xne/xne_co_top_egyptian01.unity3d
-エジプト風胸飾り=Egyptian-style chest ornament
-
-// chara/xne/xne_co_top_mdsweater.unity3d
-前垂れセーター=Front-hanging sweater
-前垂れセーター（胸張り中）=Sweater with drooping front (medium chest)
-前垂れセーター（胸張り大）=Sweater with drooping front (large chest)
-下乳セーター=Sweater with lower breast
-下乳セーター（胸張り）=Lower Breast Sweater (Full Breasted)
-
-// chara/xne/xne_co_top_minichina.unity3d
-ミニチャイナ=Mini China
-ミニチャイナＨ=Mini China H
-ミニチャイナＳｅｐ=Mini China Sep
-ミニチャイナ（裾色変え可）=Mini China (Hem Color Changeable)
-ミニチャイナＨ（裾色変え可）=Mini China H (Hem color can be changed)
-ミニチャイナＳｅｐ（裾色変え可）=Mini China Sep (hem color changeable)
-
-// chara/xne/xne_co_top_saitosyatu.unity3d
-ジムリーダー風シャツ=Gym Leader Style Shirt
-
-// chara/xne/xne_co_top_skdrs01.unity3d
-すけレースドレス01=Suke-Lace Dress 01
-
-// chara/xne/xne_co_top_skdrs01h.unity3d
-すけレースドレス01胸あけ=Suke-Lace Dress 01 (open chest)
-
-// chara/xne/xne_co_top_skdrs01b.unity3d
-すけレースドレス01v2=Transparent-Lace Dress 01v2
-
-// chara/xne/xne_co_top_skdrs01hb.unity3d
-すけレースドレス01v2胸あけ=Transparent-Lace Dress 01v2 Open-Breasted
-
-// chara/xne/xne_co_top_sukecami.unity3d
-すけすけキャミソール=Sukesuke Camisole
-
-// chara/xne/xne_co_top_tsyatu01.unity3d
-ボートネックTシャツ=Boat-neck T-shirt
-
-// chara/xne/xne_co_top_z46cloth.unity3d
-立て襟ワンピース=Standing Collar Dress
-
-// chara/ymd/mf_clothVariation.unity3d
-改造 Tシャツ=Modified T-Shirt
-改造 Tシャツ 開=Modified T-Shirt Open
-改造 Tシャツ2=Modified T-Shirt 2
-改造 Yシャツ=Modified Y-Shirt
-改造 Yシャツ 開=Modification Y Shirt Open
-改造 インナー=Modification Innerwear
-改造 パジャマ1=Modification Pajamas 1
-改造 パジャマ1 開=Pyjamas 1 Open
-改造 パジャマ2=Modified Pajamas 2
-改造 パジャマ2 開=Modification Pajamas 2 Open
-ノースリーブ アレンジ 短=Sleeveless Arrange Short
-ハロウィントップス op削除1=Halloween Tops op deleted1
-ハロウィントップス op削除2=Halloween Tops op deleted2
-
-// chara/ymd/mf_clothVariation2.unity3d
-長袖 in=Long sleeves in
-長袖 out=Long sleeves out
-タートルネック in=Turtleneck in
-タートルネック out=Turtleneck out
-タートルネック パフスリーブ in=turtleneck with puff sleeves in
-タートルネック パフスリーブ out=Turtleneck with puff sleeves out
-タートルネック ジャケット =Turtleneck Jacket
-タートルネック 胸元空き=Turtleneck open at chest
-タートルネック パフスリーブ 胸元空き=Turtleneck Puffed sleeves open at chest
-長袖 ベルスリーブ=Long Sleeve Bell Sleeve
-長袖 ベルスリーブ 開=Long Sleeve Bell Sleeve Open
-タートルネック 白衣=Turtleneck White Jacket
-タートルネック 白衣 ベルトなし=Turtleneck White Coat Without Belt
-
-// chara/ymd/mf_clothVariation3.unity3d
-ジャケット ラフ=Jacket Rough
-ジャケット ラフ + チア=Jacket Ruff + Cheerleader
-ジャケット ラフ + バニー=Jacket Ruff + Bunny
-ジャケット ラフ + バンドゥビキニ=Jacket Ruff + Bandeau bikini
-ジャケット 短 + バンドゥビキニ=Jacket short + bandeau bikini
-チューブワンピース もどき=Tube One Piece Prototype
-チューブワンピース もどき プロトタイプ=Tube One Piece Prototype
-
-// chara/ymd/mf_clothVariation4.unity3d
-袖ぶかパーカー=Hoodie with short sleeves
-袖ぶかパーカー ヘソだし=Hoodie with sleeves and bare belly button
-袖ぶかジャージ 上=Sleeve jersey top
-
-// chara/ymd/mf_clothVariationP.unity3d
-[PC]私服(紅葉)=PC] plain clothes (Momiji)
-[PC]私服(朝江)=[PC] plain clothes (Asae)
-[PC]私服(弥生)=[PC] plain clothes (Yayoi)
-[PC]私服(弥生) retake=[PC]plain clothes (Yayoi) retake
-[PC]軍服=[PC]military uniform
-[PC]ゴシックロリータ=[PC]Gothic Lolita
-[HS][男性]Yシャツ=[HS][Male] Y-shirt
-[HS][男性]Tシャツ=[HS][Male] T-shirt
-[HS][男性]ランニングシャツ=[HS][Male] Running Shirt
-[HS][男性]タンクトップ=[HS][Men] Tank Tops
-[HS][男性]長袖Tシャツ=[HS][Men] Long Sleeve T-Shirt
-[HS][男性]レイヤードパーカー=[HS][Men] Layered Hoodie
-[HS][男性]ジェントルスーツ=[HS][Men] Gentle Suit
-[HS][男性]ベスト=[HS][Men] Vest
-[HS][男性]フードパーカー=HS][Men] Hooded Hoodie
-[HS]ヒーロースーツ=[HS][Hero Suit
-[HS]ブタスーツ=[HS][Pig] suit
-[HS]ドルフくんスーツ=[HS]Dolph suit
-
-// chara/ymd/mf_texchange.unity3d
-ネクタイブレザー[ボタン変更]=Necktie blazer [change button].
-騎士のスーツ[金具銀]=Knight's suit [silver].
-騎士のスーツ[金具黒]=Knight's suit[Black].
-騎士のスーツ[金具色指定]=Knight's suit[change color].
-アイドルワンピ[マスク変更]=idol onesie[change mask]
-濡れT=Wet T
-濡れT 薄=Wet T Thin
-騎士のスーツ[アレンジ]=Knight's suit[arrange].
-セクシーパレオ[均一透過]=Sexy pareo[Uniform transparency].
-セクシーパレオ[透過なし]=Sexy pareo[No transparency].
-
-// chara/escargot_001_01C_co_top_10.unity3d
-乳袋Tシャツ=Breast pouch T-shirt
-
-// chara/escargot_001_01C_co_top_11.unity3d
-乳袋Tシャツショート=Breast Bag Tee Short
-
-// chara/escargot_001_01C_co_top_12.unity3d
-乳袋Tシャツミニ=Mini Breast Bag Tee
-
-// chara/escargot_001_01C_co_top_00.unity3d
-乳テントTシャツ=Breast Tent Tee
-
-// chara/escargot_001_01C_co_top_01.unity3d
-乳テントTシャツショート=Tummy Tee Short
-
-// chara/escargot_001_01C_co_top_02.unity3d
-乳テントTシャツミニ=Tshirt Mini
-
-// chara/escargot_002_01C_co_top_01.unity3d
-ほのかTシャツ（モーモちゃん）=Honoka T-Shirt (Momo-chan)
-ほのかTシャツ（無地）=Honoka T-Shirt (Plain)
-
-// chara/escargot_002_01C_co_top_02.unity3d
-透けほのかTシャツ（モーモちゃん）=Transparent Honoka T-shirt (Momo-chan)
-透けほのかTシャツ（無地）=Transparent Honoka T-shirt (plain)

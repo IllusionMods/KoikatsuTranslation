@@ -1,0 +1,23 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_ModTextDump v0.7.0.1
+//
+
+#set exe CharaStudio
+
+
+// studio/GTAV apartment Large.unity3d
+外部道具=External Tools
+大廳道具=Tools for a large parlor
+廚房道具=Kitchen Tools
+書房轉椅=Writing chair
+書房道具=Writing Room Tools
+木門=Wooden Gate
+框架=Stile and rail
+洗浴間道具=Bathing Room Tools
+洛聖都地圖=Map of Lhasaengdu
+臥室道具=Lying Room
+衣帽間道具=Dressing Room
+計劃版=Planning Edition
+電梯門=Electric Ladder Gate
+餐廳椅=Parlor Chair
+餐廳高腳椅=Parlor High Foot Chair

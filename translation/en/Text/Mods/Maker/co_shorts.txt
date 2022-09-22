@@ -1,63 +1,84 @@
 //
-// Dumped for Koikatsu v5.1 by Mod Text Dump v0.6.0
+// Dumped for Koikatsu v5.1 (Koikatu) by KK_ModTextDump v0.7.0.1
 //
 
-// chara/nashiki/nashiki_shorts.unity3d
-おぱんつ1=Panty 1
-おぱんつ2=Panty 2
-おぱんつ3=Panty 3
-おぱんつ4=Panty 4
-おぱんつ5=Panty 5
-おぱんつ6=Panty 6
-おぱんつ7=Panty 7
-おぱんつ8=Panty 8
+// chara/anse/anse_chichinoren_shorts.unity3d
+//あんせ 乳のれん ショーツ=
 
-// chara/nam/co_shibari_00.unity3d
-亀甲縛り改1=Tortoise Shell Binding Kai 1
-亀甲縛り改2=Tortoise Shell Binding Kai 2
+// chara/anse/anse_chichinoren_shorts_s.unity3d
+//あんせ 乳のれん ショーツ(きらきらver)=
 
-// chara/_mods/fumina02.unity3d
-フミナ3=Humina 3
-
-// chara/_mods/miraiakari.unity3d
-ミライアカリ=Mariah Carey
+// chara/choco.unity3d
+//癒月ちょこ under=
 
 // chara/co_bot_00.unity3d
-ブルマ（下着）=Bloomers (Underwear)
 ブルマ=Bloomers
-
-// chara/mae_dirtypair.unity3d
-Maハイローショーツ=Ma High-Low Panties
-
-// chara/mm/buruma.unity3d
-ランニングショーツ=Running Shorts
-
-// chara/mf_vladilena_milize_shorts.unity3d
-レーナ[86-EIGHTY SIX-]=Raina [86-EIGHTY SIX-]
-
-// chara/_kero/cpo_shimakazeS_NT_00.unity3d
-エンブレムシール(下)UV変更=Emblem sticker (bottom) UV change
-
-// chara/hundosi_k.unity3d
-ふんどし_k=Loincloth_k
+ブルマ（下着）=Bloomers (Underwear)
 
 // chara/co_creamset_nkt.unity3d
 クリーム=Cream
 
 // chara/co_shorts_nkt00.unity3d
-リボンショーツ(下げ)=Ribbon Panties (Lower)
 ドロワーズ=Drawers
+ビキニ(UV改)=Bikinis (UV Modification)
+リボンショーツ(下げ)=Ribbon Panties (Lower)
 旧ドロワーズ=Old Drawers
 旧ドロワーズ＆スタンダードショーツ=Old Drawers & Standard Panties
-ビキニ(UV改)=Bikinis(UV Modification)
+
+// chara/co_shorts_xmas.unity3d
+サンタ=Santa Claus
+
+// chara/escargot_003_01C_co_top_01.unity3d
+//悪魔のハイレグ(Gloss)のみ(opt①or②)=
+//悪魔のハイレグのみ(opt①or②)=
+
+// chara/escargot_003_03_co_bra_01.unity3d
+//カスタムバニー(下)=
+
+// chara/hundosi_k.unity3d
+ふんどし_k=Loincloth_k
+
+// chara/korone.unity3d
+//戌神ころね under=
+
+// chara/lamy.unity3d
+//雪花ラミィ pants=
+
+// chara/ltz/reverse_bunny.unity3d
+//逆バニー下(柄A)=
+//逆バニー下(柄B)=
+
+// chara/luci7/microbikini_shorts.unity3d
+//超マイクロビキニ=
+
+// chara/mae_dirtypair.unity3d
+Maハイローショーツ=Ma High-Low Panties
+
+// chara/mf_vladilena_milize_shorts.unity3d
+レーナ[86-EIGHTY SIX-]=Raina [86-EIGHTY SIX-]
+
+// chara/mm/buruma.unity3d
+ランニングショーツ=Running Shorts
+
+// chara/nam/co_shibari_00.unity3d
+亀甲縛り改1=Tortoise Shell Binding Kai 1
+亀甲縛り改2=Tortoise Shell Binding Kai 2
+
+// chara/nashi/co_microbikini.unity3d
+極小マイクロショーツ=Ultra-Small Micro Panties
 
 // chara/nashi/ns_mizugi.unity3d
 ビキニショーツ=Bikinis Panties
 ビキニショーツ 食い込み気味=Bikinis with bite
 メタルビキニショーツ=Metal Bikini Panties
 
+// chara/nashi/ns_mizugi_2nd.unity3d
+紐付きショーツ=Strap-on Panties
+紐付きハートショーツ=Heart Panties with Straps
+
 // chara/nashi/ns_shorts.unity3d
 ショーツ1=Panties 1
+ショーツ10=Panties 10
 ショーツ2=Panties 2
 ショーツ3=Panties 3
 ショーツ4=Panties 4
@@ -66,13 +87,8 @@ Maハイローショーツ=Ma High-Low Panties
 ショーツ7=Shorts 7
 ショーツ8=Shorts 8
 ショーツ9=Shorts 9
-ショーツ10=Panties 10
 
 // chara/nashi/ns_shorts_ver1.unity3d
-シーム無しリボンショーツ ver1=Ribbon Panties no seam ver1
-透けシーム無しリボンショーツ ver1=Transparent Ribbon Panties no seam ver1
-シーム無しレーストップショーツ ver1=Lace Top Panties no seam ver1
-透けシーム無しレーストップショーツ ver1=Transparent Lace Top Panties no seam ver1
 ショーツ1 ver1=Panties 1 ver1
 ショーツ1シーム無し ver1=Panties 1 no seam ver1
 ショーツ2 ver1=Panties 2 ver1
@@ -85,30 +101,67 @@ Maハイローショーツ=Ma High-Low Panties
 ショーツ5シーム無し ver1=Panties 5 no seam ver1
 ショーツ6 ver1=Panties 6 ver1
 ショーツ6シーム無し ver1=Panties 6 no seam ver1
+シーム無しリボンショーツ ver1=Ribbon Panties no seam ver1
+シーム無しレーストップショーツ ver1=Lace Top Panties no seam ver1
+透けシーム無しリボンショーツ ver1=Transparent Ribbon Panties no seam ver1
+透けシーム無しレーストップショーツ ver1=Transparent Lace Top Panties no seam ver1
 
 // chara/nashi/ns_shorts_zuri.unity3d
 ずらしショーツ=Sliding Panties
 
-// chara/nashi/co_microbikini.unity3d
-極小マイクロショーツ=Ultra-Small Micro Panties
-
-// chara/nashi/ns_mizugi_2nd.unity3d
-紐付きショーツ=Strap-on Panties
-紐付きハートショーツ=Heart Panties with Straps
+// chara/nashiki/nashiki_shorts.unity3d
+おぱんつ1=Panty 1
+おぱんつ2=Panty 2
+おぱんつ3=Panty 3
+おぱんつ4=Panty 4
+おぱんつ5=Panty 5
+おぱんつ6=Panty 6
+おぱんつ7=Panty 7
+おぱんつ8=Panty 8
 
 // chara/nin/nin_shitagi.unity3d
 ハイレッグショーツ(ツヤ)=High-Leg Panties (Glossy)
 六尺ふんどし=Six-Shaku Loincloths
 女下帯=Women's Underwear
 
-// chara/co_shorts_xmas.unity3d
-サンタ=Santa Claus
+// chara/rena.unity3d
+//夜見れな under=
 
-// list/characustom/00_vkat02.unity3d
-ブーメラン=Boomerang
+// chara/sunshine/co_shorts_00/p_cf_shorts_bribon.unity3d
+結びビキニ=Knotted Bikini
 
-// chara/xne/xne_co_bot_spats_sss.unity3d
-ベリx2ショスパッツ=Belly x 2 Shots Panties
+// chara/sunshine/co_shorts_00/p_cf_shorts_frilb.unity3d
+フリルビキニ=Frilly Bikini
+
+// chara/sunshine/co_shorts_00/p_cf_shorts_heroine_sun00.unity3d
+リボンビキニ=Ribbon Bikini
+
+// chara/sunshine/co_shorts_00/p_cf_shorts_hneck.unity3d
+サイドストリングビキニ=Side-String Bikini
+
+// chara/sunshine/co_shorts_00/p_cf_shorts_oband.unity3d
+ローライズビキニ=Low-Rise Bikini
+
+// chara/sunshine/co_shorts_00/p_cf_shorts_swim_11sun00.unity3d
+斜めフリルビキニ（下）=Slanted Frilly Bikini (Bottom)
+
+// chara/sunshine/co_shorts_00/p_cf_shorts_swim_frillsp00.unity3d
+フリルセパレート（下）=Separate Frills (Lower)
+
+// chara/sunshine/co_shorts_00/p_cf_shorts_tund.unity3d
+レイヤードビキニ=Layered Bikini
+
+// chara/sunshine/co_shorts_00/p_cf_shorts_ysho.unity3d
+ソフトTバック=Soft T-Back
+
+// chara/umy.unity3d
+//呜米Umy pants=
+
+// chara/umy2.unity3d
+//呜米Umy公式服 underwear=
+
+// chara/ura.unity3d
+//乌拉 underwear=
 
 // chara/xne/xne_co_bot_hlbikini.unity3d
 ハイレグビキニ=High-Leg Bikini
@@ -117,9 +170,15 @@ Maハイローショーツ=Ma High-Low Panties
 ショートスパッツ=Short spats
 ベリショスパッツ=Verishot Spats
 
+// chara/xne/xne_co_bot_spats_sss.unity3d
+ベリx2ショスパッツ=Belly x 2 Shots Panties
+
 // chara/xne/xne_co_shorts_HMB.unity3d
-Ｈマイクロビキニ=H Micro Bikini
 極小マイクロビキニ=Super Small Micro Bikini
+Ｈマイクロビキニ=H Micro Bikini
+
+// chara/y004.unity3d
+マイクロビキニ（下）=Micro bikini (Bottom)
 
 // chara/y005c.unity3d
 レーシングブルマ=Racing Bloomers
@@ -130,17 +189,26 @@ Maハイローショーツ=Ma High-Low Panties
 // chara/y005e.unity3d
 ローレグブルマ=Low Leg Bloomers
 
-// chara/y004.unity3d
-マイクロビキニ（下）=Micro bikini (bottom)
+// chara/ztoki/ztoki_01b_shorts_nippless.unity3d
+クロス=Cross
+ハート=Heart
+ハート 小=Heart Small
+星=Star
+絆創膏=Bandage
 
 // chara/ztoki/ztoki_03_shorts_00.unity3d
 はみげるパンツ [イ]=Revealing pants [A].
-はみげるパンツ [ロ]=Bald pants [B].
 はみげるパンツ [ハ]=Revealing pants [C].
+はみげるパンツ [ロ]=Bald pants [B].
 
-// chara/ztoki/ztoki_01b_shorts_nippless.unity3d
-ハート=Heart
-星=Star
-クロス=Cross
-ハート 小=Heart Small
-絆創膏=Bandage
+// chara/_kero/cpo_shimakazeS_NT_00.unity3d
+エンブレムシール(下)UV変更=Emblem sticker (bottom) UV change
+
+// chara/_mods/fumina02.unity3d
+フミナ3=Humina 3
+
+// chara/_mods/miraiakari.unity3d
+ミライアカリ=Mariah Carey
+
+// list/characustom/00_vkat02.unity3d
+ブーメラン=Boomerang

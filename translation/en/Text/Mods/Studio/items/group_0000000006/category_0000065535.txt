@@ -1,0 +1,38 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_ModTextDump v0.7.0.1
+//
+
+#set exe CharaStudio
+
+
+// chara/_kero/HATS_NT_00.unity3d
+M1ヘルメット(MMD)=M1 Helmet (MMD)
+けもくまニット帽(MMD)=Kekuma Bear Knit Cap (MMD)
+けもくろしばニット帽(MMD)=Undressed Knit Hat (MMD)
+けもこしばニット帽(MMD)=Kemo Koshiba Knit Cap (MMD)
+けもねこニット帽(MMD)=Keneko Cat Knit Hat (MMD)
+けもぱんだニット帽(MMD)=Kepanda Knit Hat (MMD)
+けもひつじニット帽(MMD)=Kemono Sheep Hat (MMD)
+けもぶたニット帽(MMD)=Kemobuta Knit Cap (MMD)
+ウエスタンハット(HS)=Western Hat (HS)
+ウシャンカ(MMD)=Ushanka (MMD)
+キャスケット(HM)=Casquette (HM)
+キャスケット(自作)=Casquette (Self-Made)
+ギャリソンキャップ(HS)=Garrison Cap (HS)
+コック帽(MMD)=Cock Hat (MMD)
+コンシェルジュハット(HS)=Concierge Hat (HS)
+ゴスロリハット(HS)=Gothic Lolita Hat (HS)
+サンタ帽子(HS)=Santa Hat (HS)
+セキュリティーキャップ(HS)=Security Cap (HS)
+セキュリティーキャップ01(HS)=Security Cap 01 (HS)
+ニット帽(MMD)=Knit Cap (MMD)
+ハンチング帽(MMD)=Hunting Cap (MMD)
+ヘルメット(MMD)=Helmet (MMD)
+ベレー帽(HM)=Beret (HM)
+マジシャンハット(HS)=Magician Hat (HS)
+マリオンの帽子(HS)=Marions Hat (HS)
+海賊帽子(HS)=Pirate Hat (HS)
+警備帽(PPD)=Security Cap (PPD)
+野球帽(MMD)=Baseball Cap (MMD)
+霊幻帽子(PPD)=Ghost Hat (PPD)
+魔女の帽子(HS)=Witch's Hat (HS)

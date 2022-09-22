@@ -1,0 +1,14 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_ModTextDump v0.7.0.1
+//
+
+#set exe CharaStudio
+
+
+// chara/ymd/si_studioStructures.unity3d
+にくきゅう手袋=WEEKLY GLOVE
+ぶぅちゃん 眠=Bouchan. Sleeping.
+ぶぅちゃん 笑=Buchan laughs.
+スライヌ -_-=Slyne.
+スライヌ 0_0=Sline 0_0
+スライヌ >_<=Sline >_<

@@ -1,9 +1,23 @@
 //
-// Dumped for Koikatsu v5.1 by Mod Text Dump v0.6.0
+// Dumped for Koikatsu v5.1 (Koikatu) by KK_ModTextDump v0.7.0.1
 //
+
+// chara/mod/mod_aurora_al.unity3d
+チーク_オーロラAL=Cheek_Aurora AL
 
 // chara/noa/noa_cheek.unity3d
 乃愛=Noa
+
+// chara/sagiri/sagiri_cheek.unity3d
+紗霧=Sagiri
+
+// chara/ymd/mf_ymdtexture.unity3d
+タイプ１ 改１=Type 1 Revision 1
+タイプ１ 改２=Type 1 Revision 2
+タイプ３ 改１=Type 3 Revision 1
+タイプ３ 改２=Type 3 Revision 2
+タイプ３ 改３=Type 3 Revision 3
+タイプ３ 改４=Type 3 Revision 4
 
 // chara/_kero/CMS_NT_00.unity3d
 タイプＡ=Type A
@@ -26,17 +40,3 @@
 タイプＲ=Type R
 タイプＳ=Type S
 タイプＴ=Type T
-
-// chara/sagiri/sagiri_cheek.unity3d
-紗霧=Sagiri
-
-// chara/mod/mod_aurora_al.unity3d
-チーク_オーロラAL=Cheek_Aurora AL
-
-// chara/ymd/mf_ymdtexture.unity3d
-タイプ１ 改１=Type 1 Revision 1
-タイプ１ 改２=Type 1 Revision 2
-タイプ３ 改１=Type 3 Revision 1
-タイプ３ 改２=Type 3 Revision 2
-タイプ３ 改３=Type 3 Revision 3
-タイプ３ 改４=Type 3 Revision 4

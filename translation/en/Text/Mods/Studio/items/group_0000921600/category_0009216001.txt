@@ -1,0 +1,13 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_ModTextDump v0.7.0.1
+//
+
+#set exe CharaStudio
+
+
+// studio/Hateleite_NIERW.unity3d
+白之契約=White Contract
+白之矜持=White Pride
+白之約定=White Covenant
+黑之血盟=Black Blood Pact
+黑之誓約=Black Pledge

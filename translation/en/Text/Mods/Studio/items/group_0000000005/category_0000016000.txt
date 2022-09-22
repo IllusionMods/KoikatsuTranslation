@@ -1,0 +1,13 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_ModTextDump v0.7.0.1
+//
+
+#set exe CharaStudio
+
+
+// chara/_mods/mash3.unity3d
+ロード・カルデアス=Lord Chaldeans
+
+// chara/_mods/Mine.unity3d
+オレンジバルーン=Orange Balloon
+盾の勇者の盾=Shield Hero Shield

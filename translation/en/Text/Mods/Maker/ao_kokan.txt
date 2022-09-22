@@ -1,34 +1,34 @@
 //
-// Dumped for Koikatsu v5.1 by Mod Text Dump v0.6.0
+// Dumped for Koikatsu v5.1 (Koikatu) by KK_ModTextDump v0.7.0.1
 //
-
-// chara/nam/nam_ao_kokan_00.unity3d
-アナルプラグ1=Anal Plug 1
-アナルプラグ2=anal plug 2
-ハートアナルプラグ1=Heart Anal Plug 1
-ハートアナルプラグ2=Heart Anal Plug 2
-ティアドロップアナルプラグ1=teardrop anal plug 1
-ティアドロップアナルプラグ2=teardrop anal plug 2
 
 // chara/koi_ao_kokan_00.unity3d
 アナルビーズ=anal beads
 
+// chara/nam/nam_ao_kokan_00.unity3d
+アナルプラグ1=Anal Plug 1
+アナルプラグ2=anal plug 2
+ティアドロップアナルプラグ1=teardrop anal plug 1
+ティアドロップアナルプラグ2=teardrop anal plug 2
+ハートアナルプラグ1=Heart Anal Plug 1
+ハートアナルプラグ2=Heart Anal Plug 2
+
 // chara/nashi/ns_ao_inmou.unity3d
-トライアングル=Triangle
-ワンフィンガー=One Finger
-ワイルド=Wild
-オーバル=Oval Glasses
-ハート=Heart
 ちょびロング=Chobi Long
+オーバル=Oval Glasses
+トライアングル=Triangle
 ナチュナル=Naturals
+ハート=Heart
+ワイルド=Wild
+ワンフィンガー=One Finger
 
 // chara/stinger722_ao_kokan_inmou.unity3d
 陰毛F=Pubic Hair F
 陰毛R=Pubic hair R
 
 // chara/ymd/mf_accetcP.unity3d
-バナナ=banana
-バナナ 黒=Banana Black
 ゴーヤ=Bitter Melon
 ゴーヤ 色替え可=Bitter melon can be changed
+バナナ=banana
+バナナ 黒=Banana Black
 貝殻=Seashell

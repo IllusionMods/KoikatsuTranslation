@@ -1,26 +1,45 @@
 //
-// Dumped for Koikatsu v5.1 by Mod Text Dump v0.6.0
+// Dumped for Koikatsu v5.1 (Koikatu) by KK_ModTextDump v0.7.0.1
 //
 
-// chara/deathweasel/ec_items.unity3d
+// chara/08/co_socks_08.unity3d
 サキュバスソックス=Succubus Socks
 
-// chara/ymgpt/ymgpt_co_gloves_long01_lr_alt.unity3d
-長手袋(L)=Long Glove(L)
-長手袋(R)=Long Glove(R)
+// chara/anse/anse_cute_socks.unity3d
+//あんせキュートソックス=
 
-// chara/mt_pattern_KA.unity3d
-贵族腰带=Women's waistband
-贵族护臂=Noble Armguard
+// chara/anse/anse_cute_socks_ankle.unity3d
+//あんせキュートソックス(ankle)=
 
-// chara/_mods/Gal_03.unity3d
-もっとルーズソックス=More Loose Socks
+// chara/anse/anse_cute_socks_crew.unity3d
+//あんせキュートソックス(crew)=
 
-// chara/_mods/makinon06.unity3d
-マキノソックス=Makino Socks
+// chara/anse/anse_ribbon_knee_socks.unity3d
+//あんせリボンニーソックス=
 
-// chara/_mods/rider.unity3d
-ライダーソックス=Rider Socks
+// chara/AntY/co_panst_00.unity3d
+//アラストル Ant Y Meow Socks 1=
+//アラストル Ant Y Meow Socks 2=
+//アラストル Ant Y Meow Socks 3=
+
+// chara/c.unity3d
+//C酱 socks=
+
+// chara/cdpsb0/smith_loose.unity3d
+E.G.SMITH ルーズソックス=E.G.SMITH  Loose Socks
+E.G.SMITH ルーズソックス H=E.G.SMITH  Loose Socks  H
+E.G.SMITH ルーズソックス L=E.G.SMITH  Loose Socks  L
+E.G.SMITH ルーズソックス W=E.G.SMITH  Loose Socks  W
+
+// chara/choco.unity3d
+//癒月ちょこ legwear=
+
+// chara/co_bot_00.unity3d
+ショートパンツ=Short Pants
+ホットパンツ=Hotpants
+
+// chara/co_socks_xmas.unity3d
+サンタ=Santa Claus
 
 // chara/JK/BB_socks.unity3d
 アイドルニーソックス2=Idol Knee Socks 2
@@ -31,27 +50,23 @@
 // chara/JK/idol - sholder.unity3d
 アイドルショルダー=Idol Shoulder
 
-// chara/co_socks_01.unity3d
-網ニーソックス=Netted Kneesocks
+// chara/lamy.unity3d
+//雪花ラミィ socks=
+
+// chara/ls.unity3d
+//Long socks（分け）=
+
+// chara/luse_co_socks_00.unity3d
+//温泉ルウシェ ソックス=
 
 // chara/mf_vladilena_milize_socks.unity3d
 レーナ[86-EIGHTY SIX-]=Raina [86-EIGHTY SIX-]
 
-// chara/_kero/co_NailGloves_NT_01_alt.unity3d
-ネイルチップ（Ｓ）=Nail Tip (S)
-ネイルチップ（Ｍ）=Nail Tip (M)
-ネイルチップ（Ｌ）=Nail Tip (L)
+// chara/mio.unity3d
+//大神ミオ socks=
 
-// chara/nakay/co_kuikomithigh_nkt00.unity3d
-くいこみニーソ=Kumikomi Knee Socks
-くいこみサイハイ=KIKUMI SAI HIGH
-
-// chara/nashi/ns_socks.unity3d
-左ハイサイ=Left High Sai
-左ニーソ=Left knee socks
-左ハイソ=Left high-socks
-右ニーソ=Right Knee Socks
-右ハイソ=right high-socks
+// chara/mirai_co_socks_00.unity3d
+//ミラクル ニーソックス=
 
 // chara/mod/mod_aurora_al.unity3d
 ガーターサイハイ_オーロラAL=Garter sigh high_Aurora AL
@@ -59,21 +74,48 @@
 // chara/mod/mod_ranrin_acm.unity3d
 ニーソ_嵐燐結騎=Knee Socks_Arashi Rin Yuki
 
+// chara/mt_pattern_KA.unity3d
+贵族护臂=Noble Armguards
+贵族腰带=Women's waistband
+
+// chara/nakay/co_kuikomithigh_nkt00.unity3d
+くいこみサイハイ=KIKUMI SAI HIGH
+くいこみニーソ=Kumikomi Knee Socks
+
+// chara/nakay/co_kuikomi_cbs_nkt16.unity3d
+//くいこみサイハイ１=
+//くいこみサイハイ２=
+//くいこみニーソ１=
+//くいこみニーソ２=
+
+// chara/nashi/ns_socks.unity3d
+右ニーソ=Right Knee Socks
+右ハイソ=right high-socks
+左ニーソ=Left knee socks
+左ハイサイ=High Side L
+左ハイソ=Left high-socks
+
+// chara/nin/nin_socks_01.unity3d
+//くノ一脚絆=
+
+// chara/rena.unity3d
+//夜見れな socks=
+
 // chara/roie/roie_socks.unity3d
-ロークルー=Low Crew
 クルー=Crew
 スリークォーター=Three Quarters
+ロークルー=Low Crew
 
-// chara/co_socks_xmas.unity3d
-サンタ=Santa Claus
+// chara/sunshine/co_socks_40/p_o_socks_sysocks.unity3d
+サイバーハニカムソックス=Cyber Honeycomb Socks
 
-// wen/wenyaojing.unity3d
-wen妖精=wen Fairy
+// chara/ura.unity3d
+//乌拉 socks=
 
 // chara/ymd/mf_clothExtend.unity3d
-パフトショルダー 小=Puffed Shoulder Small
-パフトショルダー 3c=Puffed Shoulder 3c
 パフトショルダー=Puffed shoulder
+パフトショルダー 3c=Puffed Shoulder 3c
+パフトショルダー 小=Puffed Shoulder Small
 襟 1=Collar 1
 襟 2=Collar 2
 襟 3=Collar 3
@@ -91,11 +133,28 @@ wen妖精=wen Fairy
 // chara/ymd/mf_texchange.unity3d
 騎士のソックス[マスク変更]=Knight's socks [mask change].
 
+// chara/ymgpt/ymgpt_co_gloves_long01_lr_alt.unity3d
+長手袋(L)=Long Glove (L)
+長手袋(R)=Long Glove (R)
+
 // chara/ztoki/ztoki_04_socks_00.unity3d
 長めのニーソ=Longer Knee Socks
 長めのニーソ 二色分け=Longer Knee Socks Two-Color
 長めのニーソ 網=Longer Knee Socks Net
 
-// chara/co_bot_00.unity3d
-ショートパンツ=Short Pants
-ホットパンツ=Hotpants
+// chara/_kero/co_NailGloves_NT_01_alt.unity3d
+ネイルチップ（Ｌ）=Nail Tip (L)
+ネイルチップ（Ｍ）=Nail Tip (M)
+ネイルチップ（Ｓ）=Nail Tip (S)
+
+// chara/_mods/Gal_03.unity3d
+もっとルーズソックス=More Loose Socks
+
+// chara/_mods/makinon06.unity3d
+マキノソックス=Makino Socks
+
+// chara/_mods/rider.unity3d
+ライダーソックス=Rider Socks
+
+// wen/wenyaojing.unity3d
+wen妖精=wen Fairy

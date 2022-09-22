@@ -1,5 +1,5 @@
 //
-// Dumped for Koikatsu v5.1 by Mod Text Dump v0.6.0
+// Dumped for Koikatsu v5.1 (Koikatu) by KK_ModTextDump v0.7.0.1
 //
 
 // chara/anse/anse_curtain_sailor.unity3d
@@ -11,49 +11,84 @@
 // chara/anse/anse_curtain_sailor_s.unity3d
 乳カーテンセーラー貧乳=Breast Curtain Sailor \w Small Breasts
 
-// chara/anse/anse_tent_sailor.unity3d
-長袖テントセーラー(袖フリル)=Long Sleeve Tent Sailor (Sleeve Frill)
+// chara/anse/anse_sailor_dress.unity3d
+//あんせセーラーワンピースA=
+
+// chara/anse/anse_sailor_dress_b.unity3d
+//あんせセーラーワンピースB=
 
 // chara/anse/anse_short_tent_sailor.unity3d
 脇見せセーラー=Sailor with side show
 
-// chara/_mods/eva.unity3d
-第3新東京市立第壱中学校制服=Daiichi Junior High School Uniform
+// chara/anse/anse_tent_sailor.unity3d
+長袖テントセーラー(袖フリル)=Long Sleeve Tent Sailor (Sleeve Frill)
 
-// chara/_mods/watanabe.unity3d
-みら僕=Miraboku
+// chara/co_top_00.unity3d
+Tシャツ(柄A)=T-Shirt (Design A)
+Tシャツ(柄B)=T-Shirt (Design B)
+Tシャツ(無地)=T-Shirt (Plain)
+キャミソール=Camisole
+サロペット=Overalls
+ショルダーレスブラウス=Blouse With Shoulder Lace
+チアトップス=Cheerleader Top
+ネグリジェ=Négligée
+ノースリーブワンピース=Sleeveless One-Piece
+バニースーツ=Bunny Suit
+ベビードール=Babydoll
+ランニングウェア=Running Top
+ワンピース=One-Piece
+小悪魔トップス=Devil Top
+
+// chara/co_top_00_01.unity3d
+カーディガンキャミソール=Cardigan Camisole
+
+// chara/co_top_06.unity3d
+鬼神の装束(上)=Demon God's Costume (Top)
+
+// chara/co_top_12.unity3d
+フリルワンピース=Frilly One-Piece Dress
+ワンピース（無地）=One-Piece Dress (Plain)
+ワンピース（花柄）=One-Piece Dress (Flower Pattern)
+
+// chara/co_top_20.unity3d
+ウェディングドレス=Wedding Dress
+
+// chara/co_top_24.unity3d
+クリスマストップス=Christmas Top
+
+// chara/cpo_jacket_a_06.unity3d
+巫女内衣=Shrine Maiden's Robe
+
+// chara/etc.unity3d
+なし=None
+//なし(互換)=
+
+// chara/Matne/matne_sailor_a_00.unity3d
+セーラーノースリーブ=Sailor Sleeveless
+タイプ５改（半袖カフスなし）=Type 5 modified (Without short sleeve cuffs)
+タイプ５改（袖ラインなし）=Type 5 modified (Without sleeve line)
+タイプ５改（長袖カフスなし）=Type 5 modified (Without long sleeve cuffs)
+
+// chara/Matne/matne_sailor_a_01.unity3d
+タイプ５改（長袖ラインなし）=Type 5 modified (Without long sleeve line)
+
+// chara/mod_zmr/cpo_sailor_a_zmr.unity3d
+袖なしセーラー=Sleeveless Sailor
+
+// chara/nashi/ns_sailor.unity3d
+厚手長袖セーラー=Thick Long Sleeve Sailor
+夏セーラー1=Summer Sailor 1
+夏セーラー2=Summer Sailor 2
+夏セーラー3=Summer Sailor 3
+
+// chara/nashi/ns_sailor_chichitent.unity3d
+乳テントセーラー=Breast Tent Sailor
 
 // chara/sage/sagesk2.unity3d
 島風=Shimakaze
 
 // chara/sage/sagesk3.unity3d
 島風ボタンなし=Shimakaze No Button
-
-// chara/Matne/matne_sailor_a_00.unity3d
-タイプ５改（半袖カフスなし）=Type 5 modified (without short sleeve cuffs)
-タイプ５改（長袖カフスなし）=Type 5 modified (without long sleeve cuffs)
-セーラーノースリーブ=Sailor Sleeveless
-タイプ５改（袖ラインなし）=Type 5 modified (without sleeve line)
-
-// chara/Matne/matne_sailor_a_01.unity3d
-タイプ５改（長袖ラインなし）=Type 5 modified (without long sleeve line)
-
-// chara/_kero/cpo_shimakazeS_NT_00.unity3d
-島風ショート=Shimakaze Short
-島風ショート（ゆったりVer）=Shimakaze Short (Loose Ver.)
-
-// chara/nashi/ns_sailor_chichitent.unity3d
-乳テントセーラー=Breast Tent Sailor
-乳テントセーラー-rose=Breast Tent Sailor-rose
-
-// chara/nashi1/ns_sailor_chichitent_haruka.unity3d
-乳テントセーラー-haruka=Breasted Tent Sailor-Haruka
-
-// chara/nashi/ns_sailor.unity3d
-夏セーラー1=Summer Sailor 1
-夏セーラー2=Summer Sailor 2
-夏セーラー3=Summer Sailor 3
-厚手長袖セーラー=Thick Long Sleeve Sailor
 
 // chara/sailor_alt.unity3d
 タイプ1 半袖1=Type 1 Short Sleeve 1
@@ -64,8 +99,12 @@
 // chara/ymd/mf_clothVariation2.unity3d
 タイプ５＋タイプ３=Type 5 + Type 3
 
-// chara/etc.unity3d
-なし=None
+// chara/_kero/cpo_shimakazeS_NT_00.unity3d
+島風ショート=Shimakaze Short
+島風ショート（ゆったりVer）=Shimakaze Short (Loose Ver.)
 
-// chara/mod_zmr/cpo_sailor_a_zmr.unity3d
-袖なしセーラー=Sleeveless Sailor
+// chara/_mods/eva.unity3d
+第3新東京市立第壱中学校制服=Daiichi Junior High School Uniform
+
+// chara/_mods/watanabe.unity3d
+みら僕=Miraboku

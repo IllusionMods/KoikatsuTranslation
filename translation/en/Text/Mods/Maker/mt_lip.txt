@@ -1,26 +1,16 @@
 //
-// Dumped for Koikatsu v5.1 by Mod Text Dump v0.6.0
+// Dumped for Koikatsu v5.1 (Koikatu) by KK_ModTextDump v0.7.0.1
 //
 
 // chara/breakthrough/mt_lip.unity3d
-タイプい=Type い
-タイプろ=Type ろ
-タイプは=Type は
-タイプに=Type に
-タイプほ=Type ほ
-タイプへ=Type へ
-タイプと=Type と
-タイプち=Type ち
-
-// chara/_kero/mt_lip_NT.unity3d
-タイプ１（下唇のみ）=Type 1 (Lower Lip Only)
-タイプ２（下唇のみ）=Type 2 (Lower Lip Only)
-タイプ３（下唇のみ）=Type 3 (Lower Lip Only)
-タイプ４（下唇のみ）=Type 4 (Lower Lip Only)
-タイプ５（下唇のみ）=Type 5 (Lower Lip Only)
-タイプ６（下唇のみ）=Type 6 (Lower Lip Only)
-タイプ７（下唇のみ）=Type 7 (Lower Lip Only)
-タイプ８（下唇のみ）=Type 8 (Lower Lip Only)
+//タイプい=Type い
+//タイプち=Type ち
+//タイプと=Type と
+//タイプに=Type に
+//タイプは=Type は
+//タイプへ=Type へ
+//タイプほ=Type ほ
+//タイプろ=Type ろ
 
 // chara/_kero/CMS_NT_00.unity3d
 タイプＡ=Type A
@@ -37,3 +27,13 @@
 タイプＬ=Type L
 タイプＭ=Type M
 タイプＮ=Type N
+
+// chara/_kero/mt_lip_NT.unity3d
+タイプ１（下唇のみ）=Type 1 (Lower Lip Only)
+タイプ２（下唇のみ）=Type 2 (Lower Lip Only)
+タイプ３（下唇のみ）=Type 3 (Lower Lip Only)
+タイプ４（下唇のみ）=Type 4 (Lower Lip Only)
+タイプ５（下唇のみ）=Type 5 (Lower Lip Only)
+タイプ６（下唇のみ）=Type 6 (Lower Lip Only)
+タイプ７（下唇のみ）=Type 7 (Lower Lip Only)
+タイプ８（下唇のみ）=Type 8 (Lower Lip Only)

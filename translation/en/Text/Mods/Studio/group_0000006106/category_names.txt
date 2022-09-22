@@ -1,8 +1,0 @@
-//
-// Dumped for Koikatsu v5.0 by Mod Text Dump v0.6.0
-//
-
-#set exe CharaStudio
-
-食べ物=Food
-小道具=Small Props

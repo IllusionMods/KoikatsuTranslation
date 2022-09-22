@@ -1,71 +1,73 @@
 //
-// Dumped for Koikatsu v5.1 by Mod Text Dump v0.6.0
+// Dumped for Koikatsu v5.1 (Koikatu) by KK_ModTextDump v0.7.0.1
 //
 
-// chara/AccClothes/p_o_bodytights_acc.unity3d
-全身タイツ=Full-Body Tights
+// chara/08/ao_body_08.unity3d
+サキュバスの翼右用=Succubus' Wing R
+サキュバスの翼左用=Succubus' Wing L
 
-// chara/AccClothes/p_o_top_swim_bunny_acc.unity3d
-バニースーツ=Bunny Suit
+// chara/AccClothes/p_o_bodytights.unity3d
+全身タイツ bot a=Full-Body Tights  bot a
+全身タイツ bot b=Full-Body Tights  bot b
+全身タイツ top a=Full-Body Tights  top a
+全身タイツ top b=Full-Body Tights  top b
 
-// chara/p_o_top_halloween.unity3d
-ハロウィントップス=Halloween Top
+// chara/AccClothes/p_o_bot_pants01.unity3d
+ブルマ=Bloomers
 
-// chara/deathweasel/ec_items.unity3d
-サキュバスの翼左用=Succubus' Wing for Left
-サキュバスの翼右用=Succubus' Wing for Right
+// chara/AccClothes/p_o_swim_sc01.unity3d
+スクール水着=School Swimsuit
 
-// chara/nam/ao_nam_acc_00.unity3d
-シンプル乳首リング=Simple Nipple Ring
-乳首リング改=Nipple Ring Kai
-乳首リングジュエル改=Nipple Ring Jewel Kai
-サーキュラーバーベルピアス=Circular Barbell Earrings
-サーキュラーバーベルジュエルピアス=Circular Barbell Jewel Earrings
-バナナバーベルピアス=Banana Barbell Earrings
-バナナバーベルジュエルピアス=Banana Barbell Jewel Earrings
-ストレートバーベル短ピアス=Straight Barbell Short Earrings
-ストレートジュエルバーベル短ピアス=Straight Jeweled Barbell Short Earrings
-ストレートバーベル長ピアス=Straight Barbell Long Earrings
-ストレートジュエルバーベル長ピアス=Straight Jeweled Barbell Long Earrings
-アローバーベルピアス=Arrow Barbell Earrings
-アローバーベルジュエルピアス1色=Arrow Barbell Jewel Earrings 1 color
-アローバーベルジュエルピアス2色=Arrow Barbell Jewel Earrings 2 colors
-アローバーベルジュエルピアス3色=Arrow Barbell Jewel Earrings 3 colors
-ビーズシールド=Bead Shield
-ビーズシールドピアス=Bead Shield Earrings
-ビーズシールドジュエルピアス=Bead Shield Jewel Earrings
-1色ジュエルシールド=1 color jewel shield
-1色ジュエルシールドピアス=1 color jewel shield earrings
-1色ジュエルシールドジュエルピアス=1 color jewel shield jewel earrings
-2色ジュエルシールド=2 Color Jewel Shield
-2色ジュエルシールドピアス=2 Color Jewel Shield Earrings
-2色ジュエルシールドジュエルピアス=2 color jewel shield jewel earrings
+// chara/AccClothes/p_o_top_sailor01_02.unity3d
+タイプ５=Type 5
 
-// chara/gray/F_devil01_a.unity3d
-悪魔の翼左用（改）=Devil's Wings for Left (Revision)
-悪魔の翼右用（改）=Devil's Wing for Right (Revised)
+// chara/AccClothes/p_o_top_sailor02_02.unity3d
+タイプ１=Type 1
 
-// chara/koikoi/ao_body_07.unity3d
-AI翼=AI Wings
+// chara/AccClothes/p_o_top_sailor03_02.unity3d
+タイプ２=Type 2
 
-// chara/AccClothes/p_o_top_swim_leotard_nor.unity3d
-レオタード=Leotard
+// chara/AccClothes/p_o_top_sailor04_02.unity3d
+タイプ３=Type 3
 
-// chara/AccClothes/p_o_top_swim_leotard_high.unity3d
-ハイレグレオタード=High-Leg Leotard
+// chara/AccClothes/p_o_top_sailor05_02.unity3d
+タイプ４=Type 4
 
-// chara/m14/AccClothes/p_o_swim_sc01.unity3d
-スクール水着_small=School swimsuit_small
+// chara/AccClothes/p_o_top_sailor06_02.unity3d
+タイプ６=Type 6
 
-// chara/_kero/ao_koopa.unity3d
-クッパのこうら=Bowser's Shell
+// chara/AccClothes/p_o_top_swim_SC.unity3d
+競泳水着=Competition Swimsuit
 
 // chara/ao_body_09_k.unity3d
 アーマープレート_k=Armor Plate_k
 
-// chara/nakay/ao_cardigan_n01.unity3d
-セーラー重ね着カーディガン１=Sailor Layered Cardigan 1
-セーラー重ね着カーディガン２=Sailor Overlapping Cardigan 2
+// chara/ao_body_halloween.unity3d
+クモの巣=Spiderweb
+
+// chara/ao_body_newyear.unity3d
+メダル=medal
+勲章=medals
+
+// chara/ao_body_xmas.unity3d
+スノークリスタル=Snow Crystal
+プレゼント袋=Gift Bag
+
+// chara/choco.unity3d
+//癒月ちょこ wings=
+
+// chara/gray/F_devil01_a.unity3d
+悪魔の翼右用（改）=Devil's Wing R (Revised)
+悪魔の翼左用（改）=Devil's Wing L (Revised)
+
+// chara/koikoi/ao_body_07.unity3d
+AI翼=AI Wings
+
+// chara/Lhianna/Lhianna_dress_acc.unity3d
+ワンピース=One-Piece
+
+// chara/mat/p_o_top_ofcard_accclothes.unity3d
+コルセットのみ=Corset only
 
 // chara/mod/mod_eden_vb.unity3d
 光翼_エデンVB=Hikari Tsubasa_Eden VB
@@ -73,30 +75,73 @@ AI翼=AI Wings
 
 // chara/mod/mod_ranrin_acm.unity3d
 蝶翅_嵐燐結騎=butterfly wing_storm phosphorus knight
-蝶翅_嵐燐結騎_エフェ無=butterfly wing_storm_rink_without_effect
 蝶翅_嵐燐結騎_アニメ無=wing_storm_rin_without_animation
-
-// chara/roie/roie_accessories.unity3d
-背負いカバン（取手なし）=Backpack (without handle)
-デイパック=daypack
-
-// chara/AccClothes/p_o_swim_sc01.unity3d
-スクール水着=School Swimsuit
-
-// chara/AccClothes/p_o_top_swim_SC.unity3d
-競泳水着=Competition Swimsuit
-
-// chara/ao_body_halloween.unity3d
-クモの巣=Spiderweb
-
-// chara/ao_body_newyear.unity3d
-勲章=medals
-メダル=medal
-
-// chara/ao_body_xmas.unity3d
-プレゼント袋=Gift Bag
-スノークリスタル=Snow Crystal
+蝶翅_嵐燐結騎_エフェ無=butterfly wing_storm_rink_without_effect
 
 // chara/mod_zmr/ao_body_zmr.unity3d
-悪魔の翼左用=Left Demon Wing
 悪魔の翼右用=Right Demon Wing
+悪魔の翼左用=Left Demon Wing
+
+// chara/nakay/ao_cardigan_n01.unity3d
+セーラー重ね着カーディガン１=Sailor Layered Cardigan 1
+セーラー重ね着カーディガン２=Sailor Overlapping Cardigan 2
+
+// chara/nakay/yshirtout-m_op02.unity3d
+腕捲りワイシャツ裾だし・襟開け２(Acc)=Roll-up Shirt Hem & Collar Opening 2 (Acc)
+
+// chara/nam/ao_nam_acc_00.unity3d
+1色ジュエルシールド=1 color jewel shield
+1色ジュエルシールドジュエルピアス=1 color jewel shield jewel earrings
+1色ジュエルシールドピアス=1 color jewel shield earrings
+2色ジュエルシールド=2 Color Jewel Shield
+2色ジュエルシールドジュエルピアス=2 color jewel shield jewel earrings
+2色ジュエルシールドピアス=2 Color Jewel Shield Earrings
+アローバーベルジュエルピアス1色=Arrow Barbell Jewel Earrings 1 color
+アローバーベルジュエルピアス2色=Arrow Barbell Jewel Earrings 2 colors
+アローバーベルジュエルピアス3色=Arrow Barbell Jewel Earrings 3 colors
+アローバーベルピアス=Arrow Barbell Earrings
+サーキュラーバーベルジュエルピアス=Circular Barbell Jewel Earrings
+サーキュラーバーベルピアス=Circular Barbell Earrings
+シンプル乳首リング=Simple Nipple Ring
+ストレートジュエルバーベル短ピアス=Straight Jeweled Barbell Short Earrings
+ストレートジュエルバーベル長ピアス=Straight Jeweled Barbell Long Earrings
+ストレートバーベル短ピアス=Straight Barbell Short Earrings
+ストレートバーベル長ピアス=Straight Barbell Long Earrings
+バナナバーベルジュエルピアス=Banana Barbell Jewel Earrings
+バナナバーベルピアス=Banana Barbell Earrings
+ビーズシールド=Bead Shield
+ビーズシールドジュエルピアス=Bead Shield Jewel Earrings
+ビーズシールドピアス=Bead Shield Earrings
+乳首リングジュエル改=Nipple Ring Jewel Kai
+乳首リング改=Nipple Ring Kai
+
+// chara/nin/nin_acs_01.unity3d
+//作り帯=
+
+// chara/p_o_top_halloween.unity3d
+ハロウィントップス=Halloween Top
+
+// chara/p_o_top_magic.unity3d
+魔法学園制服上着=Magic Academy Uniform Top
+
+// chara/roie/roie_accessories.unity3d
+デイパック=daypack
+背負いカバン（取手なし）=Backpack (Without handle)
+
+// chara/sunshine/p_cf_shorts_frilb_accclothes.unity3d
+フリルビキニ=Frilly Bikini
+
+// chara/sunshine/p_cf_top_ovswa_accclothes.unity3d
+シースルーオーバーウェア=See-Through Overwear
+
+// chara/ymd/mf_clothExtend_accclothe.unity3d
+パフトショルダー 小=Puffed Shoulder Small
+
+// chara/ymd/mf_flareSkirt4.unity3d
+フレアスカートB レイヤー=Flared Skirt B Layered
+
+// chara/ymd/mf_flareSkirt4c.unity3d
+フレアスカートB レイヤー コルセット=Flared Skirt B Layered Corset
+
+// chara/_kero/ao_koopa.unity3d
+クッパのこうら=Bowser's Shell

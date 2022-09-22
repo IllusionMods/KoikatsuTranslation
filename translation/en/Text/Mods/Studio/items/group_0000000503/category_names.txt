@@ -1,0 +1,14 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_ModTextDump v0.7.0.1
+//
+
+#set exe CharaStudio
+
+モブ=Mob
+鏡=Mirror
+小道具=Small Props
+衣服FK=Clothes FK
+食べ物関係=Food Related
+手で持つ物=Handheld Items
+すみっこもどき=Sumikko Mokudo
+スタジオ製=Made in studio

@@ -1,0 +1,11 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_ModTextDump v0.7.0.1
+//
+
+#set exe CharaStudio
+
+
+// studio/item_creamset_nkt.unity3d
+イチゴ=Strawberries
+クリーム1=Cream 1
+クリーム2=Cream 2

@@ -1,20 +1,12 @@
 //
-// Dumped for Koikatsu v5.1 by Mod Text Dump v0.6.0
+// Dumped for Koikatsu v5.1 (Koikatu) by KK_ModTextDump v0.7.0.1
 //
 
-// chara/_mods/miro5.unity3d
-ミロ=Milo
+// chara/mod/mod_eden_vb.unity3d
+瞳ハイライト下_エデンVB=Under eye highlight_Eden VB
 
 // chara/mt_eye_hi_up_00.unity3d
-タイプ１（上）=Type 1 (top)
-タイプ２（上）=Type 2 (top)
-タイプ３（上）=Type 3 (upper)
-タイプ４（上）=Type 4 (upper)
-タイプ５（上）=Type 5 (Upper)
-タイプ６（上）=Type 6 (Upper)
-タイプ７（上）=Type 7 (Upper)
-タイプ８（上）=Type 8 (Upper)
-タイプ９（上）=Type 9 (Upper)
+タイプ１（上）=Type 1 (Top)
 タイプ１０（上）=Type 10 (Upper)
 タイプ１１（上）=Type 11 (Upper)
 タイプ１２（上）=Type 12 (Upper)
@@ -25,6 +17,7 @@
 タイプ１７（上）=Type 17 (Upper)
 タイプ１８（上）=Type 18 (Upper)
 タイプ１９（上）=Type 19 (Upper)
+タイプ２（上）=Type 2 (Top)
 タイプ２０（上）=Type 20 (Upper)
 タイプ２１（上）=Type 21 (Upper)
 タイプ２２（上）=Type 22 (Upper)
@@ -35,6 +28,7 @@
 タイプ２７（上）=Type 27 (Upper)
 タイプ２８（上）=Type 28 (Upper)
 タイプ２９（上）=Type 29 (Upper)
+タイプ３（上）=Type 3 (Upper)
 タイプ３０（上）=Type 30 (Upper)
 タイプ３１（上）=Type 31 (Upper)
 タイプ３２（上）=Type 32 (Upper)
@@ -45,65 +39,68 @@
 タイプ３７（上）=Type 37 (Upper)
 タイプ３８（上）=Type 38 (Upper)
 タイプ３９（上）=Type 39 (Upper)
+タイプ４（上）=Type 4 (Upper)
 タイプ４０（上）=Type 40 (Upper)
 タイプ４１（上）=Type 41 (Upper)
+タイプ５（上）=Type 5 (Upper)
+タイプ６（上）=Type 6 (Upper)
+タイプ７（上）=Type 7 (Upper)
+タイプ８（上）=Type 8 (Upper)
+タイプ９（上）=Type 9 (Upper)
+
+// chara/YAN_MOD/yan_eye_hi_down.unity3d
+タイプ001=Type 001
+タイプ002=Type 002
+タイプ003=Type 003
+タイプ004=Type 004
+タイプ005=Type 005
+タイプ006=Type 006
 
 // chara/_kero/CMS_NT_00.unity3d
-タイプ１（反転）=Type 1 (Reverse)
-タイプ２（反転）=Type 2 (Reverse)
-タイプ３（反転）=Type 3 (Reverse)
-タイプ４（反転）=Type 4 (Reverse)
-タイプ５（反転）=Type 5 (Reverse)
-タイプ６（反転）=Type 6 (Reverse)
-タイプ７（反転）=Type 7 (Reverse)
-タイプ８（反転）=Type 8 (Reverse)
-タイプ９（反転）=Type 9 (Reverse)
-タイプ１０（反転）=Type 10 (Reverse)
-タイプ１１（反転）=Type 11 (Reverse)
-タイプ１２（反転）=Type 12 (Reverse)
-タイプ１３（反転）=Type 13 (Reverse)
-タイプ１４（反転）=Type 14 (Reverse)
-タイプ１５（反転）=Type 15 (Reverse)
-タイプ１６（反転）=Type 16 (Reverse)
-タイプ１７（反転）=Type 17 (Reverse)
-タイプ１８（反転）=Type 18 (Reverse)
-タイプ１９（反転）=Type 19 (Reverse)
-タイプ２０（反転）=Type 20 (Reverse)
-タイプ２１（反転）=Type 21 (Reverse)
-タイプ２２（反転）=Type 22 (Reverse)
-タイプ２３（反転）=Type 23 (Reverse)
-タイプ２４（反転）=Type 24 (Reverse)
-タイプ２５（反転）=Type 25 (Flip)
-タイプ２６（反転）=Type 26 (Inverted)
+なし=None
 タイプ１（上反転）=Type 1 (Flip up)
-タイプ２（上反転）=Type 2 (Flip up)
-タイプ３（上反転）=Type 3 (Flip up)
-タイプ４（上反転）=Type 4 (Flip up)
-タイプ５（上反転）=Type 5 (Flip up)
-タイプ６（上反転）=Type 6 (Flip up)
-タイプ７（上反転）=Type 7 (Flip up)
-タイプ８（上反転）=Type 8 (Flip up)
-タイプ９（上反転）=Type 9 (Flip up)
+タイプ１（反転）=Type 1 (Reverse)
 タイプ１０（上反転）=Type 10 (Flip up)
+タイプ１０（反転）=Type 10 (Reverse)
 タイプ１１（上反転）=Type 11 (Flip up)
+タイプ１１（反転）=Type 11 (Reverse)
 タイプ１２（上反転）=Type 12 (Flip up)
+タイプ１２（反転）=Type 12 (Reverse)
 タイプ１３（上反転）=Type 13 (Flip up)
+タイプ１３（反転）=Type 13 (Reverse)
 タイプ１４（上反転）=Type 14 (Flip up)
+タイプ１４（反転）=Type 14 (Reverse)
 タイプ１５（上反転）=Type 15 (Flip up)
+タイプ１５（反転）=Type 15 (Reverse)
 タイプ１６（上反転）=Type 16 (Flip up)
+タイプ１６（反転）=Type 16 (Reverse)
 タイプ１７（上反転）=Type 17 (Flip up)
+タイプ１７（反転）=Type 17 (Reverse)
 タイプ１８（上反転）=Type 18 (Flip up)
+タイプ１８（反転）=Type 18 (Reverse)
 タイプ１９（上反転）=Type 19 (Flip up)
+タイプ１９（反転）=Type 19 (Reverse)
+タイプ２（上反転）=Type 2 (Flip up)
+タイプ２（反転）=Type 2 (Reverse)
 タイプ２０（上反転）=Type 20 (Flip up)
+タイプ２０（反転）=Type 20 (Reverse)
 タイプ２１（上反転）=Type 21 (Flip up)
+タイプ２１（反転）=Type 21 (Reverse)
 タイプ２２（上反転）=Type 22 (Flip up)
+タイプ２２（反転）=Type 22 (Reverse)
 タイプ２３（上反転）=Type 23 (Flip up)
+タイプ２３（反転）=Type 23 (Reverse)
 タイプ２４（上反転）=Type 24 (Flip up)
+タイプ２４（反転）=Type 24 (Reverse)
 タイプ２５（上反転）=Type 25 (Flip up)
+タイプ２５（反転）=Type 25 (Flip)
 タイプ２６（上反転）=Type 26 (Flip up)
+タイプ２６（反転）=Type 26 (Inverted)
 タイプ２７（上反転）=Type 27 (Flip up)
 タイプ２８（上反転）=Type 28 (Flip up)
 タイプ２９（上反転）=Type 29 (Flip up)
+タイプ３（上反転）=Type 3 (Flip up)
+タイプ３（反転）=Type 3 (Reverse)
 タイプ３０（上反転）=Type 30 (Flip up)
 タイプ３１（上反転）=Type 31 (Flip up)
 タイプ３２（上反転）=Type 32 (Flip up)
@@ -114,8 +111,33 @@
 タイプ３７（上反転）=Type 37 (Flip up)
 タイプ３８（上反転）=Type 38 (Flip up)
 タイプ３９（上反転）=Type 39 (Flip up)
+タイプ４（上反転）=Type 4 (Flip up)
+タイプ４（反転）=Type 4 (Reverse)
 タイプ４０（上反転）=Type 40 (Flip up)
 タイプ４１（上反転）=Type 41 (Flip up)
+タイプ５（上反転）=Type 5 (Flip up)
+タイプ５（反転）=Type 5 (Reverse)
+タイプ６（上反転）=Type 6 (Flip up)
+タイプ６（反転）=Type 6 (Reverse)
+タイプ７（上反転）=Type 7 (Flip up)
+タイプ７（反転）=Type 7 (Reverse)
+タイプ８（上反転）=Type 8 (Flip up)
+タイプ８（反転）=Type 8 (Reverse)
+タイプ９（上反転）=Type 9 (Flip up)
+タイプ９（反転）=Type 9 (Reverse)
+タイプＡ=Type A
+タイプＡＡ=Type AA
+タイプＡＢ=Type AB
+タイプＡＣ=Type AC
+タイプＡＤ=Type AD
+タイプＡＥ=Type AE
+タイプＡＦ=Type AF
+タイプＡＧ=Type AG
+タイプＡＨ=Type AH
+タイプＡＩ=Type AI
+タイプＡＪ=Type AJ
+タイプＡＫ=Type AK
+タイプＡＬ=Type AL
 タイプＡＭ=Type AM
 タイプＡＮ=Type AN
 タイプＡＯ=Type AO
@@ -123,7 +145,6 @@
 タイプＡＱ=Type AQ
 タイプＡＲ=Type AR
 タイプＡＳ=Type AS
-タイプＡ=Type A
 タイプＢ=Type B
 タイプＣ=Type C
 タイプＤ=Type D
@@ -149,27 +170,6 @@
 タイプＸ=Type X
 タイプＹ=Type Y
 タイプＺ=Type Z
-タイプＡＡ=Type AA
-タイプＡＢ=Type AB
-タイプＡＣ=Type AC
-タイプＡＤ=Type AD
-タイプＡＥ=Type AE
-タイプＡＦ=Type AF
-タイプＡＧ=Type AG
-タイプＡＨ=Type AH
-タイプＡＩ=Type AI
-タイプＡＪ=Type AJ
-タイプＡＫ=Type AK
-タイプＡＬ=Type AL
-なし=None
 
-// chara/mod/mod_eden_vb.unity3d
-瞳ハイライト下_エデンVB=Under eye highlight_Eden VB
-
-// chara/YAN_MOD/yan_eye_hi_down.unity3d
-タイプ001=Type 001
-タイプ002=Type 002
-タイプ003=Type 003
-タイプ004=Type 004
-タイプ005=Type 005
-タイプ006=Type 006
+// chara/_mods/miro5.unity3d
+ミロ=Milo

@@ -1,0 +1,12 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_ModTextDump v0.7.0.1
+//
+
+#set exe CharaStudio
+
+
+// studio/item_muchi_nkt.unity3d
+バラ鞭１=Rose whip 1
+バラ鞭２=Rose whip 2
+乗馬鞭１=Riding whip 1
+乗馬鞭２=Riding whip 2
