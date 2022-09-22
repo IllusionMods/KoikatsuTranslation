@@ -1,9 +1,0 @@
-//
-// Dumped for Koikatsu v5.0 by Mod Text Dump v0.6.0
-//
-
-#set exe CharaStudio
-
-
-// studio/09_Project_DIVA_Maps_and_Stages_Set_02.unity3d
-ワールドイズマイン stage MDK=World is Mine stage MDK

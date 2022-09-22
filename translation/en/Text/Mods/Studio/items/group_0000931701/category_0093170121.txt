@@ -1,0 +1,19 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_ModTextDump v0.7.0.1
+//
+
+#set exe CharaStudio
+
+
+// studio/GTAV apartment Small.unity3d
+客廳椅子=Living room chair
+客廳道具=Living room props
+客廳遙控器=Living room remote
+廚房道具=Kitchen Tools
+框架=Stile and rail
+洗浴間道具=Bathing Room Tools
+臥室椅子=Bedroom chair
+臥室衣櫃門 右=Bedroom closet door (R)
+臥室衣櫃門 左=Bedroom closet door (L)
+臥室遊戲機手柄=Bedroom game console
+臥室道具=Lying Room

@@ -1,0 +1,13 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_ModTextDump v0.7.0.1
+//
+
+#set exe CharaStudio
+
+
+// chara/ymd/si_effect.unity3d
+スポットレーザー 虹=Spot Laser Rainbow
+パーライト 虹=Perlight Rainbow
+パーライト 赤=Perlite Red
+パーライト 青=Perlite Blue
+パーライト 黄=Perlite Yellow

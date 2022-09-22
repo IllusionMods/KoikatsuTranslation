@@ -1,9 +1,0 @@
-//
-// Dumped for Koikatsu v5.0 by Mod Text Dump v0.6.0
-//
-
-#set exe CharaStudio
-
-[ymd] 演出=[ymd] Effects
-[ymd] 大道具=[ymd] Large Props
-[ymd] 小道具=[ymd] Small Props

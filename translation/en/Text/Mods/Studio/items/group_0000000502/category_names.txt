@@ -1,0 +1,15 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_ModTextDump v0.7.0.1
+//
+
+#set exe CharaStudio
+
+ロケーションPC=Location PC
+ロケーションHS=Location HS
+ロケーションPH=Location PH
+ロケーションPPD=Location PPD
+スカイドーム=Sky Dome
+植物=Plants
+CLO ベース=CLO Base
+CLO 壁=CLO Wall
+ロケーションSBPR=Location SBPR

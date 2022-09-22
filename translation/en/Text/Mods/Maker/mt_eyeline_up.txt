@@ -1,31 +1,22 @@
 //
-// Dumped for Koikatsu v5.1 by Mod Text Dump v0.6.0
+// Dumped for Koikatsu v5.1 (Koikatu) by KK_ModTextDump v0.7.0.1
 //
-
-// chara/mt_eyeline_up_00.unity3d
-Type 54 改=Type 54 modified
-
-// chara/noa/noa_eyeline_up.unity3d
-乃愛=Noa
 
 // chara/dak/mt_eyeline_up_00.unity3d
 タイプ18改=Type 18 Revision
+タイプ48改=Type 48 Kai
 タイプ50改=Type 50 Kai
 タイプ50改2=Type 50 Kai2
 タイプ52改=Type 52 Kai
-タイプ48改=Type 48 Kai
-
-// chara/_mods/thumb/chirai_thumb.unity3d
-チライ=Chirai
-
-// chara/_mods/miro5.unity3d
-ミロ=Milo
 
 // chara/Hiro/hiro_eyeline_up_00.unity3d
-一重瞼=Single Eyelid
 タイプ２１改（一重）=Type 21 Kai (Single Eyelid)
 タイプ２１改（二重）=Type 21 Kai (Double Eyelid)
 タイプ３５（一重）=Type 35 (Single Eyelid)
+一重瞼=Single Eyelid
+
+// chara/mf_vladilena_milize_eyeline_up.unity3d
+レーナ[86-EIGHTY SIX-]=Raina [86-EIGHTY SIX-]
 
 // chara/mm/mm_ritka.unity3d
 宝田六花a=Rokka Takarada a
@@ -33,189 +24,23 @@ Type 54 改=Type 54 modified
 宝田六花c=Rokka Takarada c
 新条アカネ=Akane Shinjo
 
-// chara/mf_vladilena_milize_eyeline_up.unity3d
-レーナ[86-EIGHTY SIX-]=Raina [86-EIGHTY SIX-]
-
-// chara/_kero/CMS_NT_00.unity3d
-タイプ1（色変え）=Type 1 (color change)
-タイプ2（色変え）=Type 2 (color change)
-タイプ3（色変え）=Type 3 (color change)
-タイプ4（色変え）=Type 4 (color change)
-タイプ5（色変え）=Type 5 (color change)
-タイプ6（色変え）=Type 6 (color change)
-タイプ7（色変え）=Type 7 (color change)
-タイプ8（色変え）=Type 8 (color change)
-タイプ9（色変え）=Type 9 (color change)
-タイプ10（色変え）=Type 10 (color change)
-タイプ11（色変え）=Type 11 (color change)
-タイプ12（色変え）=Type 12 (color change)
-タイプ13（色変え）=Type 13 (color change)
-タイプ14（色変え）=Type 14 (color change)
-タイプ15（色変え）=Type 15 (color change)
-タイプ16（色変え）=Type 16 (color change)
-タイプ17（色変え）=Type 17 (color change)
-タイプ18（色変え）=Type 18 (color change)
-タイプ19（色変え）=Type 19 (color change)
-タイプ20（色変え）=Type 20 (color change)
-タイプ21（色変え）=Type 21 (color change)
-タイプ22（色変え）=Type 22 (color change)
-タイプ23（色変え）=Type 23 (color change)
-タイプ24（色変え）=Type 24 (color change)
-タイプ25（色変え）=Type 25 (color change)
-タイプ26（色変え）=Type 26 (color change)
-タイプ27（色変え）=Type 27 (color change)
-タイプ28（色変え）=Type 28 (color change)
-タイプ29（色変え）=Type 29 (color change)
-タイプ30（色変え）=Type 30 (color change)
-タイプ31（色変え）=Type 31 (color change)
-タイプ32（色変え）=Type 32 (color change)
-タイプ33（色変え）=Type 33 (color change)
-タイプ34（色変え）=Type 34 (color change)
-タイプ35（色変え）=Type 35 (color change)
-タイプ36（色変え）=Type 36 (color change)
-タイプ37（色変え）=Type 37 (color change)
-タイプ38（色変え）=Type 38 (color change)
-タイプ39（色変え）=Type 39 (color change)
-タイプ40（色変え）=Type 40 (color change)
-タイプ41（色変え）=Type 41 (color change)
-タイプ42（色変え）=Type 42 (color change)
-タイプ43（色変え）=Type 43 (color change)
-タイプ44（色変え）=Type 44 (color change)
-タイプ45（色変え）=Type 45 (color change)
-タイプ46（色変え）=Type 46 (color change)
-タイプ47（色変え）=Type 47 (color change)
-タイプ48（色変え）=Type 48 (color change)
-タイプ49（色変え）=Type 49 (color change)
-タイプ50（色変え）=Type 50 (color change)
-タイプ51（色変え）=Type 51 (color change)
-タイプ52（色変え）=Type 52 (color change)
-タイプ53（色変え）=Type 53 (Color Change)
-Re：ゼロから始める異世界生活=Re: Zero to Start Otherworldly Life
-Re：ゼロから始める異世界生活（色変え）=Re: Zero to Start Otherworldly Life (Color Change)
-HUGっと！プリキュア=HUGtto! Pretty Cure
-HUGっと！プリキュア（色変え）=HUGtto! Pretty Cure (Color Change)
-ドーナドーナ=Dona Dona
-けいおん!=K-ON!
-涼宮ハルヒの憂鬱=The Melancholy of Haruhi Suzumiya
-涼宮ハルヒの憂鬱（色変え）=The Melancholy of Haruhi Suzumiya (Color Change)
-アイドルマスター シンデレラガールズ=IDOLM@STER Cinderella Girls
-アイドルマスター シンデレラガールズ（色変え）=THE IDOLM@STER Cinderella Girls (Color Change)
-七つの大罪=The Seven Deadly Sins
-七つの大罪（色変え）=The Seven Deadly Sins (color change)
-けものフレンズ=Kemono Friends
-けものフレンズ（色変え）=Kemono Friends (color change)
-アイカツ=Aikatsu
-アイカツ（色変え）=Aikatsu (Color Change)
-ゲゲゲの鬼太郎 6期=Gegege no Kitaro 6th season
-ゲゲゲの鬼太郎 6期（色変え）=Gegege no Kitaro 6th Season (Color Change)
-アズールレーン=Azur Lane
-アズールレーン（色変え）=Azur Lane (color change)
-To LOVEる -とらぶる-=To LOVEuru
-To LOVEる -とらぶる-（色変え）=To LOVEuru (Color Change)
-メイドインアビス=Maid in Abyss
-メイドインアビス（色変え）=Maid in Abyss (Color Change)
-ラブライブ!=Love Live!
-ラブライブ!（色変え）=Love Live! (Color Change)
-ちはやふる=Chihayafuru
-ちはやふる（色変え）=Chihayafuru (Color Change)
-ソードアート・オンライン=Sword Art Online
-ソードアート・オンライン（色変え）=Sword Art Online (Color Change)
-スレイヤーズ=Slayers
-スレイヤーズ（色変え）=Slayers (Color Change)
-ドラゴンボール=Dragon Ball
-ドラゴンボール（色変え）=Dragon Ball (Color Change)
-ガールズ&パンツァー=Girls und Panzer
-ガールズ&パンツァー（色変え）=Girls und Panzer (Color Change)
-魔法少女リリカルなのは=Magical Girl Lyrical Nanoha
-魔法少女リリカルなのは（色変え）=Magical Girl Lyrical Nanoha (color changing)
-Fate/stay night（色変え）=Fate/stay night (color changing)
-Steins;Gate（色変え）=Steins;Gate (color change)
-閃乱カグラ=Senran Kagura
-閃乱カグラ（色変え）=Senran Kagura (color change)
-僕のヒーローアカデミア=Boku no Hero Academia
-僕のヒーローアカデミア（色変え）=Boku no Hero Academia (Color Change)
-ワンピース=One-Piece
-ワンピース（色変え）=One Piece (Color Change)
-宝石の国=Jewel Country
-宝石の国（色変え）=Jewel Country (Color Change)
-ポプテピピック=Poptepic
-ポプテピピック（色変え）=Poptepic (color change)
-まほろまてぃっく=Mahoromattic
-まほろまてぃっく（色変え）=Mahoromattic (color change)
-ポケットモンスター=Pocket Monsters
-ポケットモンスター（色変え）=Pokémon (color changing)
-フィリスのアトリエ=Phyllis' Atelier
-フィリスのアトリエ（色変え）=Phyllis's Atelier (Color Change)
-ドラえもん=Doraemon
-ドラえもん（色変え）=Doraemon (Color Change)
-ペルソナ４=Persona 4
-ペルソナ４（色変え）=Persona 4 (Color Change)
-いちご１００％=Strawberry 100% (Color Change)
-いちご１００％（色変え）=Ichigo 100% (color change)
-はちみつとクロ－バー=Honey and Clover
-なし=None
-はちみつとクロ－バー（色変え）=Honey and Clover (color change)
-アイシールド２１=Eyeshield 21
-アイシールド２１（色変え）=Eyeshield 21 (Color Change)
-ARIA（色変え）=ARIA (color change)
-蒼穹のファフナー=Sokyu no Fafner
-蒼穹のファフナー（色変え）=Sokyu no Fafner (color change)
-うたわれるもの=Utawarerumono
-うたわれるもの（色変え）=Utawarerumono (Color Change)
-NANA（色変え）=NANA (color change)
-みなみけ=Minamike
-みなみけ（色変え）=Minamike (change of color)
-響け！ユーフォニアム=Hibike! Euphonium
-響け！ユーフォニアム（色変え）=Euphonium (color change) Euphonium (color change)
-君の名は=Your name is
-君の名は（色変え）=What's Your Name (color change)
-かんなぎ=Kan-nagi
-かんなぎ（色変え）=Kan-nagi (color change)
-苺ましまろ=Strawberry Tamamaro
-苺ましまろ（色変え）=Ichigo Shimamaro (color change)
-とある魔術の禁書目録=Toaru Majutsu no Index (A Certain Magical Index)
-とある魔術の禁書目録（色変え）=Toaru Majutsu no Index (Color Change)
-だがしかし=Buta Buta
-だがしかし（色変え）=Butterflies (color change)
-俺の妹がこんなに可愛いわけがない=Ore no Imouto ga Konna ni Kawaii Wake ga Nai
-俺の妹がこんなに可愛いわけがない（色変え）=Ore no Imouto ga Konna ni Kawaii Wake ga Nai (Color Change)
-エウレカセブン=Eureka Seven
-エウレカセブン（色変え）=Eureka Seven (color change)
-氷菓=Hyouka
-氷菓（色変え）=Hyouka (color change)
-カードキャプターさくら=Cardcaptor Sakura
-カードキャプターさくら（色変え）=Card Captor Sakura (Color Change)
-はねバド！=Hanebad!
-はねバド！（色変え）=Hanebad! (color change)
-SHIROBAKO（色変え）=SHIROBAKO (color change)
-
-// chara/sagiri/sagiri_eyeline_up.unity3d
-紗霧=Sagiri
-
 // chara/mod/mod_eden_vb.unity3d
 アイライン上_エデンVB=Eden VB on eyeliner
 
 // chara/mod/mod_ranrin_acm.unity3d
 アイライン上_嵐燐結騎=On the eyeliner_Arashi Rin Yuki
 
-// list/characustom/00_vkat02.unity3d
-タイプ５４=Type 54
-タイプ５５=Type 55
-タイプ５６=Type 56
-タイプ５７=Type 57
-タイプ５８=Type 58
-タイプ５９=Type 59
-タイプ６０=Type 60
-タイプ６１=Type 61
+// chara/noa/noa_eyeline_up.unity3d
+乃愛=Noa
+
+// chara/sagiri/sagiri_eyeline_up.unity3d
+紗霧=Sagiri
 
 // chara/xne/xne_mt_eyeline_up_riamu.unity3d
 タイプ１６改=Type 16
 
 // chara/xne/xne_mt_eyeline_up_rika.unity3d
 莉嘉ちゃん風=Rika-chan style
-
-// chara/ymd/mf_sakuya.unity3d
-サクヤ アイライン上=Sakuya on the eyeliner
 
 // chara/YAN_MOD/yan_eyeline_up.unity3d
 タイプ001=Type 001
@@ -268,3 +93,178 @@ SHIROBAKO（色変え）=SHIROBAKO (color change)
 タイプ048=Type 048
 タイプ049=Type 049
 タイプ050=Type 050
+
+// chara/ymd/mf_sakuya.unity3d
+サクヤ アイライン上=Sakuya on the eyeliner
+
+// chara/_kero/CMS_NT_00.unity3d
+ARIA（色変え）=ARIA (Color change)
+Fate/stay night（色変え）=Fate/stay night (Color changing)
+HUGっと！プリキュア=HUGtto! Pretty Cure
+HUGっと！プリキュア（色変え）=HUGtto! Pretty Cure (Color Change)
+NANA（色変え）=NANA (Color change)
+Re：ゼロから始める異世界生活=Re: Zero to Start Otherworldly Life
+Re：ゼロから始める異世界生活（色変え）=Re: Zero to Start Otherworldly Life (Color Change)
+SHIROBAKO（色変え）=SHIROBAKO (Color change)
+Steins;Gate（色変え）=Steins;Gate (Color change)
+To LOVEる -とらぶる-=To LOVEuru
+To LOVEる -とらぶる-（色変え）=To LOVEuru (Color Change)
+いちご１００％=Strawberry 100% (Color Change)
+いちご１００％（色変え）=Ichigo 100% (Color change)
+うたわれるもの=Utawarerumono
+うたわれるもの（色変え）=Utawarerumono (Color Change)
+かんなぎ=Kan-nagi
+かんなぎ（色変え）=Kan-nagi (Color change)
+けいおん!=K-ON!
+けものフレンズ=Kemono Friends
+けものフレンズ（色変え）=Kemono Friends (Color change)
+だがしかし=Buta Buta
+だがしかし（色変え）=Butterflies (Color change)
+ちはやふる=Chihayafuru
+ちはやふる（色変え）=Chihayafuru (Color Change)
+とある魔術の禁書目録=Toaru Majutsu no Index (A Certain Magical Index)
+とある魔術の禁書目録（色変え）=Toaru Majutsu no Index (Color Change)
+なし=None
+はちみつとクロ－バー=Honey and Clover
+はちみつとクロ－バー（色変え）=Honey and Clover (Color change)
+はねバド！=Hanebad!
+はねバド！（色変え）=Hanebad! (Color change)
+まほろまてぃっく=Mahoromattic
+まほろまてぃっく（色変え）=Mahoromattic (Color change)
+みなみけ=Minamike
+みなみけ（色変え）=Minamike (Change of color)
+アイカツ=Aikatsu
+アイカツ（色変え）=Aikatsu (Color Change)
+アイシールド２１=Eyeshield 21
+アイシールド２１（色変え）=Eyeshield 21 (Color Change)
+アイドルマスター シンデレラガールズ=IDOLM@STER Cinderella Girls
+アイドルマスター シンデレラガールズ（色変え）=THE IDOLM@STER Cinderella Girls (Color Change)
+アズールレーン=Azur Lane
+アズールレーン（色変え）=Azur Lane (Color change)
+エウレカセブン=Eureka Seven
+エウレカセブン（色変え）=Eureka Seven (Color change)
+カードキャプターさくら=Cardcaptor Sakura
+カードキャプターさくら（色変え）=Card Captor Sakura (Color Change)
+ガールズ&パンツァー=Girls und Panzer
+ガールズ&パンツァー（色変え）=Girls und Panzer (Color Change)
+ゲゲゲの鬼太郎 6期=Gegege no Kitaro 6th season
+ゲゲゲの鬼太郎 6期（色変え）=Gegege no Kitaro 6th Season (Color Change)
+スレイヤーズ=Slayers
+スレイヤーズ（色変え）=Slayers (Color Change)
+ソードアート・オンライン=Sword Art Online
+ソードアート・オンライン（色変え）=Sword Art Online (Color Change)
+タイプ10（色変え）=Type 10 (Color change)
+タイプ11（色変え）=Type 11 (Color change)
+タイプ12（色変え）=Type 12 (Color change)
+タイプ13（色変え）=Type 13 (Color change)
+タイプ14（色変え）=Type 14 (Color change)
+タイプ15（色変え）=Type 15 (Color change)
+タイプ16（色変え）=Type 16 (Color change)
+タイプ17（色変え）=Type 17 (Color change)
+タイプ18（色変え）=Type 18 (Color change)
+タイプ19（色変え）=Type 19 (Color change)
+タイプ1（色変え）=Type 1 (Color change)
+タイプ20（色変え）=Type 20 (Color change)
+タイプ21（色変え）=Type 21 (Color change)
+タイプ22（色変え）=Type 22 (Color change)
+タイプ23（色変え）=Type 23 (Color change)
+タイプ24（色変え）=Type 24 (Color change)
+タイプ25（色変え）=Type 25 (Color change)
+タイプ26（色変え）=Type 26 (Color change)
+タイプ27（色変え）=Type 27 (Color change)
+タイプ28（色変え）=Type 28 (Color change)
+タイプ29（色変え）=Type 29 (Color change)
+タイプ2（色変え）=Type 2 (Color change)
+タイプ30（色変え）=Type 30 (Color change)
+タイプ31（色変え）=Type 31 (Color change)
+タイプ32（色変え）=Type 32 (Color change)
+タイプ33（色変え）=Type 33 (Color change)
+タイプ34（色変え）=Type 34 (Color change)
+タイプ35（色変え）=Type 35 (Color change)
+タイプ36（色変え）=Type 36 (Color change)
+タイプ37（色変え）=Type 37 (Color change)
+タイプ38（色変え）=Type 38 (Color change)
+タイプ39（色変え）=Type 39 (Color change)
+タイプ3（色変え）=Type 3 (Color change)
+タイプ40（色変え）=Type 40 (Color change)
+タイプ41（色変え）=Type 41 (Color change)
+タイプ42（色変え）=Type 42 (Color change)
+タイプ43（色変え）=Type 43 (Color change)
+タイプ44（色変え）=Type 44 (Color change)
+タイプ45（色変え）=Type 45 (Color change)
+タイプ46（色変え）=Type 46 (Color change)
+タイプ47（色変え）=Type 47 (Color change)
+タイプ48（色変え）=Type 48 (Color change)
+タイプ49（色変え）=Type 49 (Color change)
+タイプ4（色変え）=Type 4 (Color change)
+タイプ50（色変え）=Type 50 (Color change)
+タイプ51（色変え）=Type 51 (Color change)
+タイプ52（色変え）=Type 52 (Color change)
+タイプ53（色変え）=Type 53 (Color Change)
+タイプ5（色変え）=Type 5 (Color change)
+タイプ6（色変え）=Type 6 (Color change)
+タイプ7（色変え）=Type 7 (Color change)
+タイプ8（色変え）=Type 8 (Color change)
+タイプ9（色変え）=Type 9 (Color change)
+ドラえもん=Doraemon
+ドラえもん（色変え）=Doraemon (Color Change)
+ドラゴンボール=Dragon Ball
+ドラゴンボール（色変え）=Dragon Ball (Color Change)
+ドーナドーナ=Dona Dona
+フィリスのアトリエ=Phyllis' Atelier
+フィリスのアトリエ（色変え）=Phyllis's Atelier (Color Change)
+ペルソナ４=Persona 4
+ペルソナ４（色変え）=Persona 4 (Color Change)
+ポケットモンスター=Pocket Monsters
+ポケットモンスター（色変え）=Pokémon (Color changing)
+ポプテピピック=Poptepic
+ポプテピピック（色変え）=Poptepic (Color change)
+メイドインアビス=Maid in Abyss
+メイドインアビス（色変え）=Maid in Abyss (Color Change)
+ラブライブ!=Love Live!
+ラブライブ!（色変え）=Love Live! (Color Change)
+ワンピース=One-Piece
+ワンピース（色変え）=One Piece (Color Change)
+七つの大罪=The Seven Deadly Sins
+七つの大罪（色変え）=The Seven Deadly Sins (Color change)
+俺の妹がこんなに可愛いわけがない=Ore no Imouto ga Konna ni Kawaii Wake ga Nai
+俺の妹がこんなに可愛いわけがない（色変え）=Ore no Imouto ga Konna ni Kawaii Wake ga Nai (Color Change)
+僕のヒーローアカデミア=Boku no Hero Academia
+僕のヒーローアカデミア（色変え）=Boku no Hero Academia (Color Change)
+君の名は=Your name is
+君の名は（色変え）=What's Your Name (Color change)
+宝石の国=Jewel Country
+宝石の国（色変え）=Jewel Country (Color Change)
+氷菓=Hyouka
+氷菓（色変え）=Hyouka (Color change)
+涼宮ハルヒの憂鬱=The Melancholy of Haruhi Suzumiya
+涼宮ハルヒの憂鬱（色変え）=The Melancholy of Haruhi Suzumiya (Color Change)
+苺ましまろ=Strawberry Tamamaro
+苺ましまろ（色変え）=Ichigo Shimamaro (Color change)
+蒼穹のファフナー=Sokyu no Fafner
+蒼穹のファフナー（色変え）=Sokyu no Fafner (Color change)
+閃乱カグラ=Senran Kagura
+閃乱カグラ（色変え）=Senran Kagura (Color change)
+響け！ユーフォニアム=Hibike! Euphonium
+響け！ユーフォニアム（色変え）=Euphonium (color change) Euphonium (Color change)
+魔法少女リリカルなのは=Magical Girl Lyrical Nanoha
+魔法少女リリカルなのは（色変え）=Magical Girl Lyrical Nanoha (Color changing)
+
+// chara/_mods/miro5.unity3d
+ミロ=Milo
+
+// chara/_mods/thumb/chirai_thumb.unity3d
+チライ=Chirai
+
+// list/characustom/00_vkat02.unity3d
+タイプ５４=Type 54
+タイプ５５=Type 55
+タイプ５６=Type 56
+タイプ５７=Type 57
+タイプ５８=Type 58
+タイプ５９=Type 59
+タイプ６０=Type 60
+タイプ６１=Type 61
+
+// sideloader/mt_eyeline_up_00.unity3d
+Type 54 改=Type 54 modified

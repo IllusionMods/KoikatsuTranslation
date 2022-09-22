@@ -1,0 +1,9 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_ModTextDump v0.7.0.1
+//
+
+#set exe CharaStudio
+
+
+// studio/anse_cardboard_cutout.unity3d
+//anse 等身大パネル=

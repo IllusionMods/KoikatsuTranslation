@@ -1,18 +1,33 @@
 //
-// Dumped for Koikatsu v5.1 by Mod Text Dump v0.6.0
+// Dumped for Koikatsu v5.1 (Koikatu) by KK_ModTextDump v0.7.0.1
 //
 
 // chara/etc.unity3d
 なし=None
 
 // chara/karasu/mt_body_paint_k00.unity3d
-右手1=Right Hand 1
-左手1=Left Hand 1
-右手2=Right hand 2
-左手2=Left hand 2
+右手1=Hand R 1
+右手2=Hand R 2
+左手1=Hand L 1
+左手2=Hand L 2
 
 // chara/nose.unity3d
+タイプ１=Type 1
+タイプ２=Type 2
+タイプ３=Type 3
+タイプ４=Type 4
 タイプＡ=Type A
+タイプＡＡ=Type AA
+タイプＡＢ=Type AB
+タイプＡＣ=Type AC
+タイプＡＤ=Type AD
+タイプＡＥ=Type AE
+タイプＡＦ=Type AF
+タイプＡＧ=Type AG
+タイプＡＨ=Type AH
+タイプＡＩ=Type AI
+タイプＡＪ=Type AJ
+タイプＡＫ=Type AK
 タイプＢ=Type B
 タイプＣ=Type C
 タイプＤ=Type D
@@ -38,24 +53,29 @@
 タイプＸ=Type X
 タイプＹ=Type Y
 タイプＺ=Type Z
-タイプＡＡ=Type AA
-タイプＡＢ=Type AB
-タイプＡＣ=Type AC
-タイプＡＤ=Type AD
-タイプＡＥ=Type AE
-タイプＡＦ=Type AF
-タイプＡＧ=Type AG
-タイプＡＨ=Type AH
-タイプＡＩ=Type AI
-タイプＡＪ=Type AJ
-タイプＡＫ=Type AK
-タイプ１=Type 1
-タイプ２=Type 2
-タイプ３=Type 3
-タイプ４=Type 4
 
-// chara/_mods/rider.unity3d
-ライダー=Rider
+// chara/ymd/mf_fpaint.unity3d
+ほうれい線=smile line
+チーク１=Blush 1
+チーク２=Blush 2
+ファンデーション=foundation
+目元１=Around the eyes 1
+目元２=Around the eyes 2
+鼻影=shadow of nose
+鼻影_=Nose Shadow_
+鼻筋=nasal stripe
+鼻４=nose 4
+
+// chara/ymd/mf_sakuya.unity3d
+サクヤ 鼻筋=Sakuya Nose line
+
+// chara/ymd/mf_siru.unity3d
+汁=juice
+
+// chara/ymd/mf_ymdtexture.unity3d
+鼻影R=Nose shadow R
+鼻影改=nose shadow revision
+鼻影改R=Nose Shadow Revision R
 
 // chara/_kero/CMS_NT_00.unity3d
 タイプＡＬ=Type AL
@@ -158,30 +178,10 @@
 タイプＥＥ=Type EE
 タイプＥＦ=Type EF
 
+// chara/_mods/rider.unity3d
+ライダー=Rider
+
 // list/characustom/00_vkat02.unity3d
 一本キズ=Long Scar
-十字キズ=Cross Scar
 三本キズ=Triple Scars
-
-// chara/ymd/mf_fpaint.unity3d
-鼻影_=Nose Shadow_
-鼻４=nose 4
-鼻筋=nasal stripe
-鼻影=shadow of nose
-ほうれい線=smile line
-ファンデーション=foundation
-目元１=Around the eyes 1
-目元２=Around the eyes 2
-チーク１=Blush 1
-チーク２=Blush 2
-
-// chara/ymd/mf_sakuya.unity3d
-サクヤ 鼻筋=Sakuya Nose line
-
-// chara/ymd/mf_siru.unity3d
-汁=juice
-
-// chara/ymd/mf_ymdtexture.unity3d
-鼻影改=nose shadow revision
-鼻影R=Nose shadow R
-鼻影改R=Nose Shadow Revision R
+十字キズ=Cross Scar

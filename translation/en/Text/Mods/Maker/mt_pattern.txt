@@ -1,42 +1,74 @@
 //
-// Dumped for Koikatsu v5.1 by Mod Text Dump v0.6.0
+// Dumped for Koikatsu v5.1 (Koikatu) by KK_ModTextDump v0.7.0.1
 //
 
+// chara/JK/JK_pattern.unity3d
+グラデーションボーダー2=Gradation Border2
+シミ横0縦110=Stain horizontal 0 vertical 110
+
 // chara/karasu/mt_pattern_k00.unity3d
-ウサギ小=Rabbit Small
 ウサギ大=Rabbit Large
+ウサギ小=Rabbit Small
+十字=Cross
+天使=Angel
+氷晶=Ice Crystal
 肉球=Pawprint
 蝶=Butterfly
-氷晶=Ice Crystal
-天使=Angel
-十字=Cross
-
-// chara/_mods/haruka_pattern.unity3d
-チェック遥=Check Haruka
 
 // chara/mt_pattern_00.unity3d
-SKBR-ＴシャツL=SKBR-T-shirt L
-SKBR-ＴシャツM=SKBR-T-shirt M
-SKBR-ＴシャツS=SKBR-T-shirt S
-SKBR-ロングシャツL=SKBR Long Shirt L
-SKBR-ロングシャツM=SKBR-Long Shirt M
-SKBR-ロングシャツS=SKBR-Long Shirt S
 SKBR-ジャッケット内L=SKBR-Jacket inside L
 SKBR-ジャッケット内M=SKBR-Jacket inside M
 SKBR-ジャッケット内S=SKBR-Jacket inside S
-平織=Plain weave
-綾織=Twill weave
-ヘリンボーン=Herringbone
+SKBR-ロングシャツL=SKBR Long Shirt L
+SKBR-ロングシャツM=SKBR-Long Shirt M
+SKBR-ロングシャツS=SKBR-Long Shirt S
+SKBR-ＴシャツL=SKBR-T-shirt L
+SKBR-ＴシャツM=SKBR-T-shirt M
+SKBR-ＴシャツS=SKBR-T-shirt S
 ニット=Knit
-鮫肌=Shark skin
+ヘリンボーン=Herringbone
+平織=Plain weave
+楕円=oval
 矢印=Arrow 1
 矢印2=Arrow 2
+綾織=Twill weave
 菱柄=diamond pattern
-楕円=oval
+鮫肌=Shark skin
 
-// chara/JK/JK_pattern.unity3d
-シミ横0縦110=Stain horizontal 0 vertical 110
-グラデーションボーダー2=Gradation Border2
+// chara/patterns.unity3d
+//たす 線幅12=
+//ぺけ 線幅12=
+//ぺけ 線幅20=
+//ぺけ 線幅24=
+//ストライプ 1:3=
+//ストライプ 1:7=
+//ボーダー 1:3=
+//ボーダー 1:7=
+//斜ギンガム 1:1=
+//斜ギンガム 1:2=
+//格子 線幅3=
+//格子 線幅5=
+//横線 線幅5=
+//縦線 線幅5=
+//菱ドット=
+
+// chara/sunshine/mt_pattern_00.unity3d
+ひまわり=Sunflower
+アロハ模様=Aloha Pattern
+エレガント花柄=Elegant Floral Pattern
+スミレ畑=Violet Field
+島柄A=Island Pattern A
+島柄B=Island Pattern B
+
+// chara/sunshine/mt_pattern_30.unity3d
+朝顔柄=Morning Glory
+朝顔流水柄=Morning Glory Stream
+桜花流水柄=Cherry Blossom Stream
+桜麻柄=Cherry Flowers
+紫陽花市松柄=Checkered Hydrangea
+紫陽花柄=Hydrangea
+金魚柄=Goldfish
+鱗文様=Scales
 
 // chara/taka/taka_mt_pattern_01.unity3d
 スク水 サイドライン1A=Squids Sideline 1A
@@ -58,36 +90,33 @@ SKBR-ジャッケット内S=SKBR-Jacket inside S
 // chara/taka/taka_mt_pattern_15.unity3d
 艦これ呂500 セーラー胴タイプ6用柄=This ship Lu500 Sailor Body Pattern for Type 6
 
-// list/characustom/00_vkat02.unity3d
-斜めチェックA=Slanted Checkered A
-斜めチェックB=Slanted Checkered B
-
 // chara/ymd/mf_sakuya.unity3d
-サクヤ チェック=Sakuya Check
 サクヤ シャツ=Sakuya Shirt
+サクヤ チェック=Sakuya Check
 
 // chara/ymd/mf_ymdtexture.unity3d
-生地１=Fabric 1
-生地２=Fabric 2
-生地３=Fabric 3
-生地４=Fabric 4
-紙しわ=Paper creases
-革=Leather
+しわ=Wrinkle
+しわ線１=Wrinkle line 1
+しわ線２=Wrinkle Line 2
+アスファルト=Asphalt
+ストライプずらし=Stripe shift
+タイル１=Tile 1
+タイル２=Tile 2
+大理石=Marble
+斜めチェック=Diagonal Check
 毛皮１=Fur 1
 毛皮２=Fur 2
 毛皮３=Fur 3
 毛皮４=Fur 4
 毛皮５=Fur 5
-アスファルト=Asphalt
-大理石=Marble
-タイル１=Tile 1
-タイル２=Tile 2
-金網=wire mesh
-飛沫=Splash
 水面１=Water surface1
 水面２=water surface 2
 混ざる=Mixture
 生地しわ１=Fabric wrinkle 1
+生地しわ１０=Fabric Crinkle 10
+生地しわ１１=Fabric Crinkle 11
+生地しわ１２=Fabric Crinkle 12
+生地しわ１３=Fabric Wrinkle 13
 生地しわ２=Fabric wrinkle 2
 生地しわ３=Fabric Wrinkle 3
 生地しわ４=Fabric Wrinkle 4
@@ -96,12 +125,18 @@ SKBR-ジャッケット内S=SKBR-Jacket inside S
 生地しわ７=Fabric Crinkle 7
 生地しわ８=Fabric Crinkle 8
 生地しわ９=Fabric Wrinkle 9
-生地しわ１０=Fabric Crinkle 10
-生地しわ１１=Fabric Crinkle 11
-生地しわ１２=Fabric Crinkle 12
-生地しわ１３=Fabric Wrinkle 13
-しわ線１=Wrinkle line 1
-しわ線２=Wrinkle Line 2
-ストライプずらし=Stripe shift
-斜めチェック=Diagonal Check
-しわ=Wrinkle
+生地１=Fabric 1
+生地２=Fabric 2
+生地３=Fabric 3
+生地４=Fabric 4
+紙しわ=Paper creases
+金網=wire mesh
+革=Leather
+飛沫=Splash
+
+// chara/_mods/haruka_pattern.unity3d
+チェック遥=Check Haruka
+
+// list/characustom/00_vkat02.unity3d
+斜めチェックA=Slanted Checkered A
+斜めチェックB=Slanted Checkered B

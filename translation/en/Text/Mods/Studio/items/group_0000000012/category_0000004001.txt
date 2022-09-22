@@ -1,0 +1,21 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_ModTextDump v0.7.0.1
+//
+
+#set exe CharaStudio
+
+
+// studio/warship.unity3d
+上游1本体=Upper water 1 body
+塔什干主炮=Tithing gun
+塔什干火控=Warship Fire Control
+塔什干鱼雷=Fish lightning
+待发上游=Warship Rocket Launcher Loaded
+未发射上游=Warship Rocket Launcher Unloaded
+猫主炮=Warship Main Gun
+猫副炮=Warship Secondary Gun
+长春烟囱=Warship chimney
+长春腿炮=Warship Long Cannon
+长春船头=Warship Bow
+长春船头炮=Warship Bow Gun
+长春防空炮=Warship Air Defense Gun

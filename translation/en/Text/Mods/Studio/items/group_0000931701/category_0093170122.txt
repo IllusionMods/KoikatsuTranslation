@@ -1,0 +1,15 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_ModTextDump v0.7.0.1
+//
+
+#set exe CharaStudio
+
+
+// studio/GTAV apartment Medium.unity3d
+大廳道具=Tools for a large parlor
+廚房窗簾=Kitchen Window
+廚房道具=Kitchen Tools
+框架=Stile and rail
+浴室道具=Bathroom Tools
+臥室道具=Lying Room
+餐桌椅=Chair for Chair

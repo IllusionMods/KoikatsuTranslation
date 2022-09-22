@@ -1,0 +1,12 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_ModTextDump v0.7.0.1
+//
+
+#set exe CharaStudio
+
+
+// studio/Honkai3.unity3d
+Dawn Breaker – Talwar S=Dawn Breaker - Talwar S
+Dawn Breaker – Talwar S Mk II=Dawn Breaker - Talwar S Mk II
+Demonblade – Florid Sakura S=Demonblade - Florid Sakura S
+Demonblade – Florid Sakura S Mk II=Demonblade - Florid Sakura S Mk II

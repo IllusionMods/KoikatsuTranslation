@@ -1,11 +1,11 @@
 //
-// Dumped for Koikatsu v5.1 by Mod Text Dump v0.6.0
+// Dumped for Koikatsu v5.1 (Koikatu) by KK_ModTextDump v0.7.0.1
 //
 
 // chara/thumb/facepaint_layout_00.unity3d
-左頬=Left Side of Face
-右頬=Right Side of Face
 おでこ=Forehead
-鼻=Nose
 口=Mouth
+右頬=Right Side of Face
+左頬=Left Side of Face
 顎=Jaw
+鼻=Nose

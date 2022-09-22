@@ -1,0 +1,22 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_ModTextDump v0.7.0.1
+//
+
+#set exe CharaStudio
+
+
+// studio/Engleishibugs.unity3d
+//千足虫=
+//帝王蝶幼虫=
+//水蛭=
+//燕尾蝶幼虫=
+//猎头蟹=
+//苍蝇=
+//蚯蚓=
+//蛞蝓=
+//蜈蚣=
+//蜗牛=
+//蜘蛛=
+//蜜蜂=
+//蠕虫=
+//面包虫=

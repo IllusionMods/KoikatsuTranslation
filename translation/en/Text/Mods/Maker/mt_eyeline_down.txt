@@ -1,61 +1,9 @@
 //
-// Dumped for Koikatsu v5.1 by Mod Text Dump v0.6.0
+// Dumped for Koikatsu v5.1 (Koikatu) by KK_ModTextDump v0.7.0.1
 //
-
-// chara/_mods/thumb/chirai_thumb.unity3d
-チライ=Chirai
-
-// chara/_kero/CMS_NT_00.unity3d
-タイプ1（色変え）=Type 1 (color change)
-タイプ2（色変え）=Type 2 (color change)
-タイプ3（色変え）=Type 3 (color change)
-タイプ4（色変え）=Type 4 (color change)
-タイプ5（色変え）=Type 5 (color change)
-タイプ6（色変え）=Type 6 (color change)
-タイプ7（色変え）=Type 7 (color change)
-タイプ8（色変え）=Type 8 (color change)
-タイプ9（色変え）=Type 9 (color change)
-タイプ10（色変え）=Type 10 (color change)
-タイプ11（色変え）=Type 11 (color change)
-タイプ12（色変え）=Type 12 (color change)
-タイプ13（色変え）=Type 13 (color change)
-タイプ14（色変え）=Type 14 (color change)
-タイプ15（色変え）=Type 15 (color change)
-タイプ16（色変え）=Type 16 (color change)
-タイプ17（色変え）=Type 17 (color change)
-タイプ18（色変え）=Type 18 (color change)
-タイプ19（色変え）=Type 19 (color change)
-タイプ20（色変え）=Type 20 (color change)
-タイプ21（色変え）=Type 21 (color change)
-タイプＡ=Type A
-タイプＡ（色変え）=Type A (Color Change)
-ゲゲゲの鬼太郎=Gegege no Kitaro
-ゲゲゲの鬼太郎（色変え）=Gegege no Kitaro (color change)
-ちはやふる=Chihayafuru
-ちはやふる（色変え）=Chihayafuru (Color Change)
-スレイヤーズ=Slayers
-スレイヤーズ（色変え）=Slayers (Color Change)
-僕のヒーローアカデミア=Boku no Hero Academia
-僕のヒーローアカデミア（色変え）=Boku no Hero Academia (Color Change)
-ワンピース=One-Piece
-ワンピース（色変え）=One Piece (Color Change)
-宝石の国=Jewel Country
-宝石の国（色変え）=Jewel Country (Color Change)
-ペルソナ４=Persona 4
-ペルソナ４（色変え）=Persona 4 (Color Change)
-はちみつとクロ－バー=Honey and Clover
-はちみつとクロ－バー（色変え）=Honey and Clover (color change)
-ARIA（色変え）=ARIA (color change)
-かんなぎ=Kan-nagi
-かんなぎ（色変え）=Kan-nagi (color change)
-はねバド！=Hanebad!
-はねバド！（色変え）=Hanebad! (color change)
 
 // chara/xne/xne_mt_eyeline_down_dancho.unity3d
 ちょいギャル風=A little gal style
-
-// chara/ymd/mf_sakuya.unity3d
-サクヤ アイライン下=Sakuya under eyeliner
 
 // chara/YAN_MOD/yan_eyeline_down.unity3d
 タイプ001=Type 001
@@ -66,3 +14,55 @@ ARIA（色変え）=ARIA (color change)
 タイプ006=Type 006
 タイプ007=Type 007
 タイプ008=Type 008
+
+// chara/ymd/mf_sakuya.unity3d
+サクヤ アイライン下=Sakuya under eyeliner
+
+// chara/_kero/CMS_NT_00.unity3d
+ARIA（色変え）=ARIA (Color change)
+かんなぎ=Kan-nagi
+かんなぎ（色変え）=Kan-nagi (Color change)
+ちはやふる=Chihayafuru
+ちはやふる（色変え）=Chihayafuru (Color Change)
+はちみつとクロ－バー=Honey and Clover
+はちみつとクロ－バー（色変え）=Honey and Clover (Color change)
+はねバド！=Hanebad!
+はねバド！（色変え）=Hanebad! (Color change)
+ゲゲゲの鬼太郎=Gegege no Kitaro
+ゲゲゲの鬼太郎（色変え）=Gegege no Kitaro (Color change)
+スレイヤーズ=Slayers
+スレイヤーズ（色変え）=Slayers (Color Change)
+タイプ10（色変え）=Type 10 (Color change)
+タイプ11（色変え）=Type 11 (Color change)
+タイプ12（色変え）=Type 12 (Color change)
+タイプ13（色変え）=Type 13 (Color change)
+タイプ14（色変え）=Type 14 (Color change)
+タイプ15（色変え）=Type 15 (Color change)
+タイプ16（色変え）=Type 16 (Color change)
+タイプ17（色変え）=Type 17 (Color change)
+タイプ18（色変え）=Type 18 (Color change)
+タイプ19（色変え）=Type 19 (Color change)
+タイプ1（色変え）=Type 1 (Color change)
+タイプ20（色変え）=Type 20 (Color change)
+タイプ21（色変え）=Type 21 (Color change)
+タイプ2（色変え）=Type 2 (Color change)
+タイプ3（色変え）=Type 3 (Color change)
+タイプ4（色変え）=Type 4 (Color change)
+タイプ5（色変え）=Type 5 (Color change)
+タイプ6（色変え）=Type 6 (Color change)
+タイプ7（色変え）=Type 7 (Color change)
+タイプ8（色変え）=Type 8 (Color change)
+タイプ9（色変え）=Type 9 (Color change)
+タイプＡ=Type A
+タイプＡ（色変え）=Type A (Color Change)
+ペルソナ４=Persona 4
+ペルソナ４（色変え）=Persona 4 (Color Change)
+ワンピース=One-Piece
+ワンピース（色変え）=One Piece (Color Change)
+僕のヒーローアカデミア=Boku no Hero Academia
+僕のヒーローアカデミア（色変え）=Boku no Hero Academia (Color Change)
+宝石の国=Jewel Country
+宝石の国（色変え）=Jewel Country (Color Change)
+
+// chara/_mods/thumb/chirai_thumb.unity3d
+チライ=Chirai
