@@ -1,6 +1,6 @@
 「[H名]、今日も『あ～ん』してもらっていい？」=“[H名], can I get another "ahhhh" from you today?”
 「もちろんでございます。お料理が来てから、そう仰っていただけるのを今か今かと待ち望んでおりました」=“Of course. I've been waiting for you to say that since the dishes arrived.”
-「あはは、それなら言ってくれればいいのに」=“The most important thing to remember is that you can't just take a few minutes to do a little research.”
+「あはは、それなら言ってくれればいいのに」=“Haha, then you should tell me”
 「殿方の命令を待つのも女の務めでございますから……では、参ります」=“It is a woman's duty to wait for her lord's orders.”
 「あ～ん」=“Aaaahn~”
 「あ～ん……」=“Aaahn~...”

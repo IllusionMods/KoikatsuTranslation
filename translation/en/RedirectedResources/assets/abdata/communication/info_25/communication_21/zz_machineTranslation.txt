@@ -247,7 +247,7 @@
 「バリアー！　おっぱいはダメ！　あ、私もおっぱいとか言うのダメ！」=“Barrier!　No tits!　Oh, I can't say tits either!”
 「唐突だなぁもう……ちょっとだけだからね？」=“I'm just going to ... have a quickie, okay?”
 「またぁ？　恥ずかしいからダメ！　一回だけの大サービスだったの！」=“Again?　I'm so embarrassed!　It was just a one-time big favor!”
-「恥ずかしいんだってばぁも～。どう言ったら分かってくれるの？」=“I'm embarrassed. The most important thing to remember is that you should never be afraid to ask for help.”
+「恥ずかしいんだってばぁも～。どう言ったら分かってくれるの？」=“It's embarrassing. How can I tell you?”
 「ぴゃっ！　つ、つねったりしたら、怒るからね？」=“I'm not going to get angry if you pinch me.　I'll get angry if you pinch me, okay?”
 「ううっ。ぞ、ゾクゾクしちゃうから触るの禁止～」=“I'm not sure what to do with it. I'm not allowed to touch it because it gives me the creeps.”
 「ほっぺハンターは禁止だってば。も～、ダメなものはダメなの」=“I'm not allowed to be a cheek hunter. I can't do anything that's not allowed.”
@@ -384,7 +384,7 @@
 「……そ、そんなこと言われたらもう目見れないよ、はずかち～……」=“...I can't look you in the eye anymore if you say that.”
 「普通それ聞く？　も～、私にだけだからね？　ちょっと重め、かな？」=“You usually don't ask that?　I'm not sure what you're talking about.　I'm a little heavier, I guess.”
 「心配してくれてるって無理やり解釈するね？　あと教えません」=“I'll force myself to interpret that as you worrying about me, won't I?　And I won't tell you.”
-「え、えっとぉ……うん。なんか、他のどこよりゾクッとしちゃう感じ？」=“I'm not sure what to do with it, but I'm sure I'll be able to find something. The actuality that you can be a lot more likely to be able to get a new job if you are a lot more experienced.”
+「え、えっとぉ……うん。なんか、他のどこよりゾクッとしちゃう感じ？」=“Eh, uh... yeah. Somehow, it's more chilling than anywhere else?”
 「言わない～。あっコラ、何その言わないってことは～？　みたいな顔！」=“I won't tell you. What do you mean you won't tell me?　You look like that!”
 「アナルでも感じる？」=“Do you have anal sex?”
 「も～～～知ってて聞くんだからぁ。じゃあ耳貸して……お尻、好きだよ」=“You know what I'm talking about. Then lend me your ears... ass, I like it.”
@@ -449,7 +449,7 @@
 「またほっぺ……チューしないんでしょ？　ほしくなるから、やめてー」=“You're not going to kiss my cheeks... again, are you?　I want it so bad.”
 「あーん、ひどいよぉ……チューして、ねえ……笑わないでよ～」=“Aww, that's awful... Tut, tut, tut, don't laugh at me!”
 「仲直りしたキミとだったら、たくさんしたいな、そういうこと」=“I'd like to do a lot of that with you if we could patch things up.”
-「付き合ってからもっとキミが好きになっちゃった。ずっと一緒にいてね」=“The most important thing to remember is that you don't have to be a good friend. I'm not sure what to do with the money.”
+「付き合ってからもっとキミが好きになっちゃった。ずっと一緒にいてね」=“I fell in love with you even more after we started dating. stay with me forever”
 「キミと話してたら、暑くなってきちゃった。服、脱いじゃおうかなぁ？」=“It's getting hot talking to you. I should take off my clothes.”
 「ねえ、もっと色んなお喋りしよ。もっとキミのこと知りたいから」=“Hey, let's talk more. I want to get to know you better.”
 「ゆっくり考えていいよ。キミとなら沈黙もイヤじゃないから……」=“I can take my time. I don't mind silence with you...”

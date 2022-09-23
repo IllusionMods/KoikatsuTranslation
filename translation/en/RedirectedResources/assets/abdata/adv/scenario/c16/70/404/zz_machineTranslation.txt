@@ -6,7 +6,7 @@
 「食べ方も綺麗だから、凄く美味しそうに見えるよね。なんかいいなぁ……ずっと見ていたくなる」=“I'm not sure what to do with it, but I'm sure it'll work. It's kind of nice... I want to keep looking at it.”
 「ちょっと、じっと見られていたら食べ難いでしょ？　そんなに言うなら、一口食べてみる？」=“I'm not going to eat it if you're staring at me.　If you're so sure, why don't you try a bite?”
 「えっ、いいの？　何か催促したみたいで悪いな」=“What? Is it okay?　I'm sorry, I feel like I'm urging you to do something.”
-「みたい、じゃなくてほとんど催促してるのと同じよ。目で訴えてくるなんて、質が悪いわ」=“The actuality that you can't just take a look at it and see what it's all about. It's not a good quality to appeal with your eyes.”
+「みたい、じゃなくてほとんど催促してるのと同じよ。目で訴えてくるなんて、質が悪いわ」=“It's not like, it's almost like asking. It's bad quality to appeal with your eyes”
 「えぇ、そこまで言わなくても……じゃあ、あーん」=“Yeah, you don't have to say that... Well, uh-uh.”
 「えっ、そこまでしなきゃいけないの？」=“What, do you have to go that far?”
 「もう恥ずかしいから、早く飲み込んでね」=“I'm so embarrassed already. Swallow it quickly.”

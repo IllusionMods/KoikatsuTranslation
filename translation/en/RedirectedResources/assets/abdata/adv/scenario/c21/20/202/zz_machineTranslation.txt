@@ -4,7 +4,7 @@
 「……い、言っても引かない？」=“..., you don't mind if I tell you?”
 「え……いや、たぶん引かないと思うけど、そんな前置きが必要なアトラクションなの？」=“Eh... no, I probably won't pull it off, but is that the kind of attraction that needs such a preamble?”
 「あはは、この年になると家族といっても友達と言っても『え～』みたいな顔されるから」=“Ahaha, at this age, even if you say family or friends, they will look like "Eh~"”
-「ということは、子供系？　いいよいいよ、家族にも友達にも微妙な反応されるなら、彼氏が付き添ってあげる義務があるでしょ」=“So you're a child?　I'm sure you'll be able to find a way to get a good deal on the newest addition to your family and friends.”
+「ということは、子供系？　いいよいいよ、家族にも友達にも微妙な反応されるなら、彼氏が付き添ってあげる義務があるでしょ」=“So you're a kid? "It's okay, if your family and friends are reacting strangely to you, then your boyfriend has a duty to accompany you, right?"”
 「キミ、少女漫画の世界から飛び出してきた男の子じゃないよね？　優しすぎるよ～」=“You're not one of those boys from a comic book, are you?　You're too nice.”
 「実は……うん、キミの言うとおりで、私、この遊園地のおとぎの国ゾーンが大好きなの」=“Actually..., you're right. I love the fairyland zone of this amusement park.”
 （たしか、子供向けの遊具とか、またがるタイプのミニ列車があるゾーンの名前だったな）=(I think it's the name of a zone with playground equipment for kids and a miniature train that you can straddle.)

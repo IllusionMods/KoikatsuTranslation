@@ -9,6 +9,6 @@ CHOICE:『何が何でも我慢する』=CHOICE: "I'll put up with anything"
 「ま、待って。触れたりしたら……我慢できなくなるよ」=“Wait, wait. If you touch them... they won't be able to resist.”
 「お任せください、うまく……処理させていただきます」=“Leave it to me. I'm sure ... will handle it just fine.”
 「えっ、処理？」=“What, processing?”
-「このような状況下においても、殿方の一番求めることを成すのが女の務め……どうか、ご協力くださいませ」=“The most important thing for a woman to do is to do what the gentleman wants most..., even under these circumstances.”
+「このような状況下においても、殿方の一番求めることを成すのが女の務め……どうか、ご協力くださいませ」=“Even under these circumstances, it is the duty of a woman to do what a gentleman wants most...Please help me.”
 （さ、さすがにそれはマズイっ！　絶対我慢しないと……！）=(I'm sure [H名] will be furious with me if I get a boner here!　I'm going to have to hold back for sure ...!)
 （うぅ……好きな女の子がすぐ傍にいるのに何もできないなんて、ひどい生殺しもあったもんだ……）=(Ugh... there's a terrible kind of raw kill when the girl you love is right beside you and you can't do anything about it...)

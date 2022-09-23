@@ -9,14 +9,14 @@
 「サイズはきっと大丈夫だと思うけど……私、ドレスに着られちゃわないか心配だなぁ」=“I'm sure I'll be all right in size, but I'm worried ... I'm going to end up in a dress.”
 「俺も……でも、きっとうまくやってくれるよ。俺、はやく見たいな、[H名]の晴れ姿」=“I'm ... sure they'll do well though. I can't wait to see [H名]'s big day!”
 「うん、私もキミのビシッと決めた姿見たいし、モデル頑張ろうね！」=“I want to see you in your best outfit too.”
-「だね、ここまで来たんだから、後はやりきるだけだっ」=“I'm sure you'll be able to find a way to get a good deal on it.”
+「だね、ここまで来たんだから、後はやりきるだけだっ」=“You've come this far, so all you have to do is finish it.”
 「あはは、うんうん！　キミのお陰で心配とか緊張がなくなってきちゃった。よーし、結婚するぞ～っ♡」=“Ha-ha-ha-ha!　You've made me less worried and nervous. I'm going to marry you, handsome.”
 「お待たせしました！　それではご案内致します」=“I'm sorry for the wait! Allow me to guide you then.”
 「式の流れなどは、お支度部屋にてご説明させていただきますね」=“Let me explain you the course of the ceremony.”
 「はい！　[H名]、後でね」=“Yes!　[H名], I'll see you later.”
 「うん！　お互い、ピチピチの新郎新婦になろうね！　またね！」=“Yeah!　Yeah! Let's be a spiffy bride and groom for each other!　See you soon!”
 （……おぉ、なんかすごい見違えるように決まってる）=(...Oh, you look so different!)
-（っと、スタッフさんが呼んでる。さっきの所に戻るのかな？）=(Oh, the staff is calling me. Maybe I should go back to the place from before.
+（っと、スタッフさんが呼んでる。さっきの所に戻るのかな？）=(Oh, the staff is calling me. Maybe I should go back to the place from before."
 「まぁ！　よくお似合いですよ」=“Splendid! It suits you well!”
 「ははは……ありがとうございます」=“Hahaha... Thank you very much.”
 「式のご説明はお受けになりましたか？」=“Was the explanation about the ceremony clear?”

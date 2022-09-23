@@ -22,7 +22,7 @@
 「えっ？　俺の為に？」=“What?　For me?”
 「はい。私の歌う歌は少々、古めかしいものばかりですのですが、お時間がありましたら、是非そちらもお聞きいただきたく……」=“Yes, sir I know my songs are a bit old-fashioned, but if you have a moment, I'd love for you to listen to them as well...”
 「もちろん！　あ、これで曲を検索して、入れるんだよ。実際にやって教えてあげるね」=“Sure!　Oh, you can use this to search for songs and put them in. I'll show you how it's done.”
-「ふふ、至れり尽くせりですね。では、『青空あどべんちゃー』という曲を入れていただいても宜しいでしょうか」=“I'm sure you'll be able to find a way to get a good deal on it. The actuality that you can't get a lot of these types of products and services.”
+「ふふ、至れり尽くせりですね。では、『青空あどべんちゃー』という曲を入れていただいても宜しいでしょうか」=“Fufu, you're doing everything you can. Then, would it be alright if we included the song "Aozora Adventure"?”
 「ああ、その曲なら俺も知ってるよ…………よし、入ったよ。あそこの画面に歌詞が出てくるから、気持ちよく歌ってね」=“Yeah, I know that song too... Okay, I'm in. The lyrics are on the screen over there, so sing along and feel good.”
 『小さな手の平 掴める物は　きっと限られているけど～♪』=There's surely only so much I can hold in my tiny palm...
 （うまい……家の習い事で声楽でもやってたのかな？　よく通る声で、聞きやすいな）=(I'm not sure if she's a vocalist or not, but she's got a good voice.　I'm not sure how much I'm going to be able to do with this.)

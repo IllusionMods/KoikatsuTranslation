@@ -1,5 +1,5 @@
 「観覧車、久しぶり～」=“Ferris wheel.”
-「あれ？　でも、友達とか家族とよく来るんでしょ？」=“What's that?　But you come here often with your friends and family, right?”
+「あれ？　でも、友達とか家族とよく来るんでしょ？」=“That? "But you often come here with your friends and family, right?"”
 「友達で来るときは人数多いし、観覧車って感じにならないんだよね。パパとママとは小さい頃には来てたけど、私が大きくなってからは来てないよ」=“When I come here with my friends, there's a lot of people and it doesn't feel like a Ferris wheel. I used to come here with my mom and dad when I was little, but not since I was older.”
 「それもそうか。[H名]は観覧車好き？」=“Oh, that's okay, you like Ferris wheels too?”
 「うん、好きだよ。遊園地って騒がしいし、遊んでるとたくさん大声あげたりするけど、観覧車に乗ると急に静かになるから、なんか面白くて……」=“Yes, I like it. Amusement parks are noisy and people yell a lot when they are playing, but when you get on the Ferris wheel, it suddenly becomes quiet, which is interesting and ...”
@@ -22,7 +22,7 @@
 （パパさん……なんだか、ごめんなさい……）=(Dad... I'm kind of sorry...)
 「……もっと、キミとのこと、話してもいいのかな？」=“Can I ... talk to you more about you and me?”
 「[H名]としては、話したいの？」=“As for [H名], do you want to talk?”
-「そりゃ、話したいよ～！　だって、初めて出来た彼氏くんがこんな理想的でいいのかなって、私いつも思ってるもん。みんなに主張したいこと、堂々のナンバー１！」=“I'm sure you'll be able to find a way to get a good deal on a new pair of shoes.　The first thing you need to do is to make sure that you have a good idea of what you want to do. That's the number one thing I want to emphasize to everyone!”
+「そりゃ、話したいよ～！　だって、初めて出来た彼氏くんがこんな理想的でいいのかなって、私いつも思ってるもん。みんなに主張したいこと、堂々のナンバー１！」=“I want to talk! "Because I always wonder if it's okay for my first boyfriend to be so ideal." What I want to claim to everyone, the proud number one!”
 「り、理想的？　俺的には自分のことをそんな風には思えないけど……」=“I'm not sure I'd like to be in a position to do that.　I don't think of myself that way, but ...”
 「そんなことないよ。優しいし、よく気が付いてくれるし、話も上手だし……だからエッチすぎる所があってもコイカツ部の部長が務まるんだと思うよ」=“That's not true. He's kind, he notices me a lot, he's a good talker... so even if he's a little too naughty I think he can be the leader of the Koikatsu club.”
 「エッチすぎるのは自覚あるよ」=“I'm too naughty for my own good.”

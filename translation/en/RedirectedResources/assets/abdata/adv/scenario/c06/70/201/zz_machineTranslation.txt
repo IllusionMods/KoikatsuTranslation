@@ -15,5 +15,5 @@
 「あれはジェットコースターって言って、見た目通りスリル満点の乗り物だよ。気になる？」=“It's called a roller coaster, and it's just as thrilling as it looks. You mind?”
 「やはりあちらに乗っているのは人なのですね……スリル満点どころの話では済まないような気もいたしますが……気になります」=“I'm sure it's a person riding that way... but it's more than just a thrill... I'm curious.”
 「よし、じゃあ、試しに乗ってみよう！　今日は俺が遊園地を案内してあげるからね」=“Okay, well, let's try this ride!　I'll show you around the amusement park today.”
-「はい、貴方について行きます。どうか、ここの楽しみ方を手取り足取り教えてくださいませ」=“I'm not sure I'm going to be able to do that. I'm sure you'll be able to find a way to get a good deal on a new pair of shoes.”
+「はい、貴方について行きます。どうか、ここの楽しみ方を手取り足取り教えてくださいませ」=“Yes, I'll follow you. Please let me know step by step how to enjoy here.”
 「うん、任せて！」=“Yeah, leave it to me!”

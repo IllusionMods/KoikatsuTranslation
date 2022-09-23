@@ -10,6 +10,6 @@
 「本当は、手早く済ませられる食事が良いのだけど……こういう時くらいゆっくりするべきなのかしら……」=“I'd actually prefer a quick meal, but ... maybe I should take it easy at times like this...”
 「食後に眠気が襲ってくるのは、勘弁してほしいわね」=“I hope you don't get drowsy after eating.”
 「先生たちの中でも、学食を利用する人は多いわね」=“Of all the teachers, I know a lot of them use the school cafeteria.”
-「集中できないときは、場所を変えて勉強するのも方法の一つ。そう言う意味でも図書室は有用な施設だと思うわ」=“The most important thing to remember is that you can't concentrate on anything else, so it's best to study in a different place. I think the library's a useful facility in that sense too.”
+「集中できないときは、場所を変えて勉強するのも方法の一つ。そう言う意味でも図書室は有用な施設だと思うわ」=“One of the ways to study when you can't concentrate is to change the place to study. In that sense, I think the library is a useful facility.”
 「たとえ自分の専門外だとしても、様々な科目に触れる必要があると考えているの」=“I think you need to be exposed to a variety of subjects, even if it's not your area of expertise.”
 「あなたもなにか借りに来たの？」=“You owe me something, don't you?”

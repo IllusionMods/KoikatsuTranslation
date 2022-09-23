@@ -1,5 +1,5 @@
 「すっかり日が暮れちゃったね」=“It's all dark now.”
-「ええ、御覧なさい……暗くなった空がゆっくりと近づいて参りますわ……まるで、どこか別世界につれていかれそう……」=“I'm sure you'll be able to find a way to get a good deal on a new pair of shoes...”
+「ええ、御覧なさい……暗くなった空がゆっくりと近づいて参りますわ……まるで、どこか別世界につれていかれそう……」=“Yes, look... the darkened sky is slowly approaching... it's like you're being transported to another world...”
 「ははは、そうなっても[H名]さんは女王様として、その世界に君臨するんだろうね」=“hahaha, even if that happens, [H名] will still reign supreme as the queen of the world”
 「おーっほっほっほ、よくわかっているではありませんの。わたくしの美貌と知性を持ってすれば、当然のことですわ！」=“Oh-ho-ho, you know exactly what I mean. With my beauty and intelligence, it's only natural!”
 「……綺麗だね」=“...Beautiful!”

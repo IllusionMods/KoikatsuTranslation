@@ -22,7 +22,7 @@
 「うん……俺の彼女でいてくれて、ありがとう」=“Thank you for being my girlfriend.”
 「……そうやって、素直に自分の気持ちを表現できるところ、見習いたいと心から思っておりますわ」=“...I really want to learn from you when you can honestly express your feelings like that!”
 「もうっ、[H名]さんこそ、いきなり正直にぶっちゃけてんだよ。びっくりするじゃないか」=“Oh, my God, [H名], you're being so honest all of a sudden. You scared the shit out of me.”
-「おほほほ……この観覧車の中は別世界ですわ。ちょっとぐらい、普段と違うわたくしを見せても問題ありませんわ」=“Ohohohoho... it's a different world inside this Ferris wheel. The actuality that you can get a lot of these types of products and services is actually a good thing.”
+「おほほほ……この観覧車の中は別世界ですわ。ちょっとぐらい、普段と違うわたくしを見せても問題ありませんわ」=“Oh, ho, oh, it's another world inside this Ferris wheel. It doesn't matter if you show me something different than usual.”
 「……この居心地のいい異世界も、もう半分過ぎちゃったね」=“... this cozy alternate universe is already half over!”
 「観覧車を降りても、わたくしたちの関係は何も変わりませんわ」=“Nothing will change between us after we get off this Ferris wheel.”
 「むしろ、今日を経たことで、もっとわたしたちは近い存在になったはずですわ！」=“I'm sure we're much closer than we've ever been after today!”

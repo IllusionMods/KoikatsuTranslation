@@ -42,7 +42,7 @@
 「確認じゃが……お主が言っておるのは…………エッチのことなのか？」=“Just to confirm... you're talking about ... sex?”
 「……うん」=“...Okay.”
 「むむぅ……何度も言うが、ここは外じゃぞ……？」=“Mmm... I keep telling you, we're out here...?”
-「あっちの方なら人も来ないし、大丈夫だよ。でも、本当に無理なら言ってね」=“I'm sorry, my friend called me over there. The actuality that you can't get a good deal more than a few of these.”
+「あっちの方なら人も来ないし、大丈夫だよ。でも、本当に無理なら言ってね」=“People won't come over there, so you'll be fine. But tell me if it's really impossible”
 「無理……というか……わしも興味がないわけでないのじゃが……」=“I can't ... or rather ... I'm not uninterested either, but ...”
 「……優しくするよ」=“... I'll be nice.”
 「ふぅ……こんなところでエッチしてもいいと思えるのは、お主だからじゃぞ……」=“I'm not going to have sex with you in this particular place.”

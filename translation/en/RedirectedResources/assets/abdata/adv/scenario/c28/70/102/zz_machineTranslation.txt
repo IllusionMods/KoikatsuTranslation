@@ -16,7 +16,7 @@
 「うむ！　いつも抹茶などの和風のアイスを選んでしまうが、バニラも美味しいのう！」=“I'd love it if you'd do it again.　”
 「ぷっ、ほっぺにアイスがついてる。拭くから動かないで」=“Pfft, you have ice cream on your cheek. Pfft, you've got ice cream on your cheek. I'll wipe it off.”
 「すまんのう」=“I'm sorry.”
-（こういうとこ、本当カワイイんだよなぁ）=(I'm sure you'll be able to find a way to get a good deal on it.)
+（こういうとこ、本当カワイイんだよなぁ）=(This kind of thing is really cute.)
 「アイスクリーム……」=“Ice cream! Ice cream! ...”
 「もしかして嫌い？」=“Maybe you don't like it?”
 「嫌いというか……わしはお煎餅とお茶が気になっておる」=“It's not that I don't like it, it's just that ... I've got rice crackers and tea on my mind.”

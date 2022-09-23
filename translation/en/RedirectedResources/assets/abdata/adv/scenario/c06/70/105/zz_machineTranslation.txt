@@ -6,7 +6,7 @@
 「ハッ、申し訳ございません。このような所があるなんて知らなかったので、取り乱してしまいました……」=“I'm sorry, I didn't know this place existed. I didn't know there was such a place, I'm so distraught...”
 「いいんだよ、そういう[H名]も可愛いから」=“It's okay. [H名]'s cute like that.”
 「……やはり、貴方はお優しいのですね。父や祖父が見たら、お叱りを受けていたところでした」=“...After all, you are a kind man, aren't you? If my father and grandfather had seen it, they would have scolded me.”
-「あはは、[H名]のお父さんとおじいちゃんって厳しそうなイメージあるなぁ」=“I'm sure you'll be able to find a way to get a good deal on a new car.”
+「あはは、[H名]のお父さんとおじいちゃんって厳しそうなイメージあるなぁ」=“Haha, [H名]'s father and grandpa have a strict image.”
 「ふふふ。そうですね、雷様のような方々です」=“I know, you're like lightning. Yes, you're right. They're like thunderbolts.”
 「う……いずれご挨拶に行くかと思うと、今から胃がキリキリするよ」=“I'm getting sick to my stomach now thinking about going to ... to say hello to you sooner or later!”
 「ご安心ください。貴方が魅力的な殿方であることは、お付き合いさせていただいている私が保証いたします。私にとっては父や祖父よりも男らしい殿方ですよ」=“I'm not sure how much I'm going to be able to do. I'm sure you'll find that you're a very attractive man, and I can assure you that I've had the pleasure of your company. To me, you're more manly than my father and grandfather.”

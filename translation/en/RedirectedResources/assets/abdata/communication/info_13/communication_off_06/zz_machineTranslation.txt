@@ -69,7 +69,7 @@
 「花嫁修業って、エッチなことも修行するの？」=“I'm sure you'll be able to find a way.”
 「昼夜を分かたず殿方を立てるように、とは教わっております」=“I was taught to serve you day and night, Your Grace.”
 「しません。貴方はそのようなことしか考えられないのですか？」=“I won't. Is that all you can think of?”
-「自分が心に決めた殿方と致すことなら、どんなことでも理想です」=“The actuality that you can't get a lot of these types of things, it's going to be a lot more difficult to get them.”
+「自分が心に決めた殿方と致すことなら、どんなことでも理想です」=“Anything is ideal if you can do it with the gentleman you have decided in your heart”
 「それを決めるのは私ではなく祖母です。私はいずれ、お見合いすることになっていますから」=“It's my grandmother who decides that, not me. I'm supposed to be arranged sooner or later, so...”
 「私、貴方に女扱いされていないのでしょうか……？」=“Am I not treated like a woman by you?”
 「この前、街の路地裏で見ちゃったんだけど……」=“The other day, in the back alley behind the station...”
@@ -86,7 +86,7 @@
 「私も好きです。見ていると和やかな気持ちになりますよね」=“I love it too. It's so relaxing to watch.”
 「実は私も苦手で……幼い頃、鷹に襲われたせいでしょうか」=“I'm actually not very good at it... I guess it's because I was attacked by a hawk when I was a little girl.”
 「殿方はたくさん食べられるのですよね？　貴方もそうなのでしょうか」=“You eat a lot, don't you?　Are you one of them?”
-「やはりそうなのですね。女子校の学食は量が少ないのではありませんか？」=“I'm sure you're right. I'm sure you'll be able to find a good deal of information on the subject.”
+「やはりそうなのですね。女子校の学食は量が少ないのではありませんか？」=“That's right. Isn't the school cafeteria at a girls' school small in quantity?”
 「殿方によって違うのですね。勉強になります」=“I'm not sure what to expect, but I'm sure I'll be fine. I'm learning a lot.”
 「最近の殿方は料理をするそうですが、貴方もですか？」=“I've heard that most of the gentlemen these days do the cooking.”
 「祖母は台所を女の城と呼んでおりましたが、時代は移り変わるものなのですね」=“My grandmother used to call the kitchen a woman's castle.”
@@ -242,7 +242,7 @@
 「貴方の鑑賞に堪えるような顔なら良いのですが……」=“I wish I had a face worthy of your admiration ...”
 「……面映ゆく存じます」=“...I'm sorry, sir.”
 「そんなにご覧になって……困ります」=“You'll get ... in trouble for staring at me like that.”
-「やはり殿方は女性の胸に興味を示されるのですね」=“I'm sure you'll be able to find a way to get a good deal on a new one.”
+「やはり殿方は女性の胸に興味を示されるのですね」=“After all, gentlemen are interested in women's breasts, aren't they?”
 「不純な視線……でも、興味を持っていただかなければ価値がない……難しいものですね」=“An impure glance... but if you don't interest me, it's not worth it... difficult.”
 「ご覧になるだけでも楽しいものなのでしょうか」=“I hope it's not too much fun just to watch.”
 「私をご鑑賞いただく前に、お話がございます」=“I'd like to have a word with you before you watch me.”
@@ -313,7 +313,7 @@
 「えっと、デートしたいんだけど、どうかな」=“Well, I'd like to go on a date with you.”
 「はい、願ってもないお話です」=“Yes, I'd like that very much.”
 「申し訳ございません。今月は予定が埋まっておりまして……」=“I'm sorry. I have a full schedule this month...”
-「今度、二人でお出かけいたしせんか？」=“I'm sure you'll be able to find a way to get a good deal on it.”
+「今度、二人でお出かけいたしせんか？」=“Would you like to go out together next time?”
 「貴方なら頷いてくださると思っておりました」=“I knew you'd nod.”
 「では、またご都合の良いときにお誘いいたしますね」=“I'll invite you back when it's more convenient.”
 「一緒に勉強しない？」=“Wanna study together?”
@@ -413,7 +413,7 @@
 「貴方の妻となることを想定して花嫁修業をしてもよろしいですか？」=“I'm not sure if I'll ever be able to get a job in the industry, but I'm sure I'll be able to find a job in the marketplace.”
 「有難く存じます。きっと、以前にも増して修行に身が入ることでしょう」=“Thank you. I'm sure you will be even more devoted to your training.”
 「うふふ、意地悪ですね？　なら私は意地でも貴方の花嫁になってみせます」=“You're so mean, aren't you?　Then I'll be your bride no matter what.”
-「このような幸溢るる日々がいつまでも続きますよう、祈っております」=“The most important thing to remember is that you should not be afraid to ask for help from your friends and family.”
+「このような幸溢るる日々がいつまでも続きますよう、祈っております」=“I pray that such happy days will continue forever.”
 「うん、きっと続くよ」=“Yeah, I'm sure it'll last.”
 「はい。幾久しくよろしくお願い致します」=“I'm sure you'll have a great time with us today. I look forward to working with you for many years to come.”
 「こうも幸せですと、喧嘩や別れが恐ろしくなります」=“I'm so happy, I'm afraid to fight or break up with her.”

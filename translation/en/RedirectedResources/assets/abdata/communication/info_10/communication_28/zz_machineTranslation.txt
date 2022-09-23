@@ -92,10 +92,10 @@
 「運動するのはどうじゃ？　体育の授業は好きか？」=“How about some exercise?　Do you like gym class?”
 「わしも好きなのじゃ。運動すると気持ちがいいのじゃ」=“I like it too. I like it too. I feel good when I exercise.”
 「わしも苦手じゃな。身体を動かすこと自体は嫌いではないんじゃが……」=“I don't like it either. I don't mind physical exercise, but ...”
-「お主はちゃんと勉強はしておるのか？」=“I'm sure you'll be able to find a way to get a good deal on the newest and most up-to-date information.”
+「お主はちゃんと勉強はしておるのか？」=“Are you studying properly?”
 「お主もそうか。今度一緒にテスト勉強してもやってもよいぞ」=“Do you study hard? I'd be happy to study for a test with you next time.”
 「わしも人のことは言えないが、赤点だけは気をつけるのじゃ」=“I can't speak for others either, but watch out for red marks.”
-「お主はおしゃれはするのか？　制服だけ、ではないじゃろう？=You like to eat? - You like to dress up?　The actuality that the particulars are not really a lot of, but they are a lot of.
+「お主はおしゃれはするのか？　制服だけ、ではないじゃろう？=Are you going to dress up? Not just your uniform, right?
 「普段から気にしておるのじゃな。わしも気をつかっておるのじゃ=I'm glad you're so keen on your food. You're always careful, aren't you? I'm careful too.
 「学生で新しい服を買い続けるのは難しいからのう」=“It's hard to keep buying new clothes when you're a student”
 「そうなんじゃな。わしとは違うんじゃな」=“I see. You're not like me.”
@@ -227,7 +227,7 @@
 「べ、別にわしの胸の話ではないぞっ。見るでないっ」=“I'm not talking about my breasts. Don't look.”
 「ほう、普通がよいとな。普通にもいろいろあるが、のう？」=“Well, you say normal is good. There are many kinds of normal, huh?”
 「そうじゃろう？　胸の大きさがすべてではないのじゃ」=“Don't you agree?　Breast size isn't everything.”
-「お主は女子の身長が高いほうがよいか？　低いほうがよいか？」=“I'm sure you'll be able to find a way to get a good deal on a new pair of shoes.　Do you prefer your girls taller or shorter?”
+「お主は女子の身長が高いほうがよいか？　低いほうがよいか？」=“Do you want girls to be taller? should she be lower?”
 「高くてもよいのか。そう言われるとわしも安心じゃ」=“So you don't mind if they're expensive. I'm glad to hear that.”
 「普通もいいものじゃな。お主に感謝するぞ」=“Ordinary is good, too. I'm grateful to you.”
 「ほう、わしのように低くてもよいのじゃな。なかなか見る目があるのう」=“Well, you can be as low as me, can't you? You've got a good eye, don't you?”
@@ -243,7 +243,7 @@
 「どうしたのじゃ？　何か用事じゃったのか？」=“What's the matter?　What's the matter?”
 「何か言いたいことでもあったのか？　どうしたのじゃ？=Is there something you want to tell me?　What's wrong?
 「見られると胸はすぐに気付くのじゃ。覚えておくのじゃぞ」=“You're the one who made her like this. ? Remember that.”
-「そんなに胸が気になるのか？　お主はそういう男なんじゃな」=“I'm sure you'll be able to find a way to get a good deal on a new pair of shoes.　You're that kind of guy, aren't you?”
+「そんなに胸が気になるのか？　お主はそういう男なんじゃな」=“Are you so worried about your breasts? "You're that kind of man, aren't you?"”
 「何度も見られても変わりはないのじゃ。……そんなに見たいか？」=“It doesn't make any difference how many times you see me... want to see it that badly?”
 「しっかりと目を見て話さぬか！」=“I'm not going to ask you to look me in the eye and talk to me!”
 「ふわぁっ！　と、突然手を握るでない。驚いたのじゃ」=“Whoo!　Don't suddenly grab my hand. You startled me.”
@@ -391,7 +391,7 @@
 「……わ、わしも好きじゃ。何だか恥ずかしいのう……」=“I like ... you too. It's kind of embarrassing...”
 「……わしはいつもお主のことを想っているのじゃ……」=“... I'm always thinking of you...”
 「そ、そんなこと……わしは、二日目が辛いのじゃ……」=“That's not ... right. I'm having a hard time on the second day...”
-「そ、それは教えられないのじゃっ。心配してくれたなら感謝するのじゃ」=“The actuality that you can't tell them that. I can't tell you that. I'm grateful for your concern.”
+「そ、それは教えられないのじゃっ。心配してくれたなら感謝するのじゃ」=“I can't tell you that. Thank you for your concern”
 「……えーっとじゃな、……感じるのじゃ。弱いのじゃ……」=“... Well, you see... I feel it. I'm weak...”
 「お、教えないのじゃっ。そんな顔しても言わないのじゃ」=“Oh, don't tell me. Don't give me that look, but don't tell me.”
 「手コキって好き？」=“Do you like hand jobs?”
@@ -409,7 +409,7 @@
 「ほどほどがよいのじゃな。お主がよいならわしはこのままじゃな」=“I don't like to be rushed. If that's all right with you, I'll just go along with it.”
 「お主、家族は多いのがよいか？　その、赤ちゃんは何人ほしいとかあるか？」=“Do you like a big family?　Well, how many babies do you want?”
 「わしも多い方がよいと思うぞ。……お主も頑張るのじゃぞ」=“I think more is better... you'd better work hard too.”
-「確かにいつまでも二人新婚気分もよさそうじゃな」=“The actuality that you can't get a lot of these types of things done in a single day is a good thing.”
+「確かにいつまでも二人新婚気分もよさそうじゃな」=“It's true that the two of us will always feel like we're newlyweds.”
 「わしたちは……運命の相手、なんじゃろうか？」=“Are we ... meant to be?”
 「お主がそう言ってくれてよかったのじゃ。わしはもう……嬉しくて……」=“I'm glad you said so. I'm already ... glad you said so.”
 「お主はそう思うんじゃな。でも、わしはお主のこと……」=“I'm sure you think so. But I think you're a ...”

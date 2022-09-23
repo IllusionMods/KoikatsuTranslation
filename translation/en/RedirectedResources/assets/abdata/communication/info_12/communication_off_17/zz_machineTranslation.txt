@@ -46,7 +46,7 @@
 「……考えたこともなかったわ。どんな人がタイプなんだろう……」=“I never ... thought about it. I wonder what kind of person is your type ...”
 「こういう話はしたくないわ。別の話題にして」=“I don't want to talk about this. Let's talk about something else.”
 「コイバナと言っても話題が思いつかないなぁ」=“I can't think of anything to talk about.”
-「そもそも、うちの学園はあなた以外女子だし」=“I'm sure you'll be able to find a way to get a good deal more.”
+「そもそも、うちの学園はあなた以外女子だし」=“In the first place, our school is all girls except you”
 「コイカツ部、今の感じで続けていいのかなぁ」=“I wonder if we can continue like we are now.”
 「関係ない私に言われても……好きなようにすれば？」=“I'm not in a relationship with you... do what you want.”
 「そういえばクラスのあの子が……」=“Oh, by the way, that girl in my class is ...”
@@ -372,7 +372,7 @@
 「イメチェンしようとか思うことある？」=“Do you ever think about getting a makeover?”
 「そうね。実際にするかどうかは別として……したいと思うことはあるわ」=“Right. I've been thinking about ... whether or not I'm actually going to do it.”
 「今は……あまり思わないわね。もしかしたらこの先、したいと思うかもしれないけど……」=“I don't think ... much of you right now. Maybe I'll want to in the future, but ...”
-「今、一番大切な物ってなに？」=“What's the most important thing to you right now?”
+「今、一番大切な物ってなに？」=“What is the most important thing right now?”
 「そんなの決まってるじゃない。……あなたよ」=“That's obvious. It's ... you.”
 「……あなたといる時間、かしら」=“... time with you, I guess.”
 「学園は楽しい？」=“Is the academy fun?”

@@ -2,7 +2,7 @@
 「……愛称ですって？　あまり気が進みませんわね。でも検討してもよろしくってよ」=“... A term of endearment?　I'm not very keen on it. But I'm willing to consider it.”
 「ありがと。じゃあまずはお試しで俺を[Pあだ名]って、呼んでみてくれないかな？」=“Thanks. Okay, well, just for a trial run, why don't you call me [Pあだ名]?”
 「あら、妙な名前ですわね。何か由来がありますの？」=“Oh, it's a strange name. Oh, that's a strange name. Does it have a story behind it?”
-「まあ……それは置いておいて、とりあえず呼んでみてほしいな。[Pあだ名]ってさ」=“I'm sure you'll be able to find a good deal of information on the subject.”
+「まあ……それは置いておいて、とりあえず呼んでみてほしいな。[Pあだ名]ってさ」=“Well... put that aside. [Pあだ名]”
 「ううん、なんだかしっくり来ませんわねぇ」=“I don't know, it just doesn't feel right.”
 「いや、絶対しっくりくるって！　いい？　俺から呼びかけるね」=“No, I'm sure it'll feel right!　Okay?　I'll call on you.”
 「いくよ、せーの、[Hあだ名]」=“I'm ready, [Hあだ名].”

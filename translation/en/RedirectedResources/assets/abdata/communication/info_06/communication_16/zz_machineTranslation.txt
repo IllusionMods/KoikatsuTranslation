@@ -27,7 +27,7 @@
 「ないと言ったらアナタは私に興味を無くすのかしら？　そこに興味があるわ」=“Would you lose interest in me if I told you I didn't?　That's what I'm interested in.”
 「今まで恋ってした事ある？」=“Have you ever been in love?”
 「正直わからないわ。わからないという事は、まだしていないのだと思う」=“I honestly don't know. If you don't know, then I guess you haven't done it yet.”
-「憧れのようなものはあるかもしれない。アナタはどうなの？」=“I'm not sure if it's a good idea or not, but it's a good idea. The actuality that you can't get a lot of these things is that they're not really that good.”
+「憧れのようなものはあるかもしれない。アナタはどうなの？」=“There may be something like longing. How are you?”
 「カッコイイ生き方をしている人かしら。お互いに高め合える関係が理想よ」=“I think it's someone who lives a cool life. The ideal relationship is one where we can build each other up.”
 「コイカツ部ってどう思うかな？」=“What do you think of the Koikatsu Club?”
 「どう思うって……もう少し要点を言ってくれないと答えようがないわ」=“I can't answer that question unless you get to the point.”
@@ -39,7 +39,7 @@
 「空気が読めないというのは社会に適合できないと同じ。論外ね」=“Not being able to read the air is the same as not being able to conform to society. Out of the question.”
 「愛に一番近いのは優しさじゃないかしら。つまり、男女の関係には不可欠ね」=“I think the closest thing to love is kindness. I mean, it's essential in a relationship between a man and a woman.”
 「ナルシストに用は無いわ。付き合っても何も生まれないもの」=“I have no use for narcissists. I have no use for a narcissist.”
-「よく難しそうな本読んでるけど、エッチな本とかも読む？」=“I'm sure you'll be able to find a way to get a good deal on a few of them.”
+「よく難しそうな本読んでるけど、エッチな本とかも読む？」=“You often read difficult books, but do you also read naughty books?”
 「エッチな気分になる事ってある？」=“Do you ever get naughty?”
 「知識として知っておきたいんだけど、女の子もオナニーってするの？」=“I'd like to know, do girls masturbate too?”
 「ある実験をしたいんだけど、エッチって５回言ってみて？」=“I want to do an experiment. Say the word "sex" five times.”

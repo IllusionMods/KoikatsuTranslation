@@ -9,6 +9,6 @@
 「お、お願いだよ……[H]に呼んでもらいたいんだ、いや、[Hあだ名]に」=“Oh, please... I want [H] to call me, no, [Hあだ名].”
 「それが私の愛称ですか？　では……[Pあだ名]」=“Is that what you call me?　Is that my nickname?”
 「[H]にそんな風に呼んでもらえる日が来るなんて……ありがとう」=“I never thought I'd see the day that [H] would call me that... Thank you!”
-「殿方に対して理解が深まってきた私なら構いませんが、他の初心な子に強要しないでくださいね？」=“The most important thing to remember is that you can't just go to the store and buy a new pair of jeans and a new pair of jeans and a new pair of jeans.”
+「殿方に対して理解が深まってきた私なら構いませんが、他の初心な子に強要しないでくださいね？」=“I don't mind if I have a deeper understanding of gentlemen, but please don't force other inexperienced children, right?”
 「もちろんだよ。[H]だからお願いできるんだ」=“Of course, [H]'s the only one I can ask.”
 「もう、私の持ち上げ方をご存じなのですから……この愛称は、覚えておきますね」=“You already know how to lift me up... I'll keep this nickname in mind.”

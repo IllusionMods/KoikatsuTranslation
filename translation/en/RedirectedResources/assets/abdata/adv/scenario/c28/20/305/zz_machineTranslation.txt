@@ -5,7 +5,7 @@
 バシャッ=The actual aisle is the place you'll be able to find a lot more information on the subject.
 「あっ、つめたっ！」=“Oh, it's freezing!”
 「あぁっ……すまないのじゃ！」=“Oh ... I'm sorry!”
-「いや大丈夫だよ。[H名]は平気？」=“I'm sure you'll be able to find a way to get a good deal on it.”
+「いや大丈夫だよ。[H名]は平気？」=“No, it's fine. Is [H名] okay?”
 「わしは平気じゃ。それより急いでお主を拭かねば！」=“I'm fine. I'm not delusional, but I'm knowledgeable. I'm fine.”
 「そんなに濡れてないからいいよ、気にしないで」=“I'm not that wet, don't worry about it.”
 「そうは言うが風邪を引いたら大変じゃ！　拭くから動くでないぞ」=“I'd say so, but I don't want you to catch a cold!　I'll wipe you down and don't move.”

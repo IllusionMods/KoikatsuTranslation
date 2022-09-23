@@ -1,5 +1,5 @@
 「それでは、私はここで失礼いたします。本日も送っていただき有難う御座いました」=“I'll leave you to it. Thank you for sending me today.”
-（時間的にはまだ余裕があるし、[H]を家に誘ってもいいな……）=(The most important thing to remember is that you can still have a good time and invite [H] to your house ...)
+（時間的にはまだ余裕があるし、[H]を家に誘ってもいいな……）=(I still have time, so I can invite [H] to my house...)
 CHOICE:「家に誘う」=CHOICE: "I'll take you home"
 CHOICE:「誘わない」=CHOICE: "I won't ask you out"
 「もしよかったら、うちに寄っていかない？」=“If you want, why don't you come by my place?”

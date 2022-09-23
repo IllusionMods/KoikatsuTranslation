@@ -4,7 +4,7 @@
 CHOICE:『まだ時間ある？』=『Still got time?』
 CHOICE:『そろそろ駅まで送るよ』=CHOICE: "I'll walk you to the station soon"
 「[H名]、時間が迫ってきてるのは分かってるんだけど、もう少し一緒にいてもいいかな」=“[H名], I know we're running out of time, but can we just hang out a little bit longer?”
-「貴方の望みは私の望みでございますから、否やはございません。お時間のことも、気になさらないでください」=“The actuality that you can be a lot more than just a little bit of a pain in the ass. I'm not going to deny you what you want, so don't worry about the time.”
+「貴方の望みは私の望みでございますから、否やはございません。お時間のことも、気になさらないでください」=“Your wish is my wish, so there is no denying it. don't worry about time”
 「いいの？　じゃあ[H名]と一緒に見たいものがあるんだ。ちょっと付いて来て」=“Is that okay?　Okay? Well, [H名] and I have something we want to see. I need you to follow me for a minute.”
 「そろそろ時間だね。駅まで送るよ」=“I'm not sure what you mean by that, but it's time to go. I'll walk you to the station.”
 「まあ、貴方にそのようなご足労をおかけするわけには参りません。一人で帰れますので、どうか家で一日の疲れを癒してください」=“Well, we can't have you making such an inconvenience. You can go home alone. Please, go home and relax after a hard day's work.”

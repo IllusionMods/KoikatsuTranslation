@@ -11,6 +11,6 @@
 CHOICE:「もう少し一緒にいたいな」=I want to be together for a bit longer.
 CHOICE:「俺も楽しかったよ、それじゃあね」=I had a blast too, well then, see ya later.
 「もう少し一緒にいたいな」=“I want to be together for just a bit longer.”
-「あっ…えへへ、実は、ママに今日は遅くなるって、言ってあるんだ。だから、いいよ♡」=“The actuality that you can be a lot more than just a little bit of a pain in the ass. So it's okay, handsome.”
+「あっ…えへへ、実は、ママに今日は遅くなるって、言ってあるんだ。だから、いいよ♡」=“Ah...heh, actually, I told my mom that I'm going to be late today. So it's okay ♡”
 「俺も楽しかったよ、それじゃあね」=“I had a blast too, well then, see ya later.”
 「うん、またこんなデートしようね♪　それじゃ、また学園でね！　ばいばい♪」=“I'm not sure if this is a good idea or not, but it's a good idea.　Bye, bye, bye.”

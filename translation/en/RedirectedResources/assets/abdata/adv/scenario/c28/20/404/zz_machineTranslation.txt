@@ -6,7 +6,7 @@
 「ははっ」=“Ha-ha-ha!”
 （[H名]が食べてるのを見ると、こっちまで幸せな気分になるな）=(Seeing [H名] eat makes me happy too!)
 「……んぅ～！　ここのパンケーキは本当に絶品じゃのう！」=“... Hmm!　The pancakes here are really good!”
-「そんなに美味しそうに食べてるの見ると、俺もそっちにすればよかったかな」=“I'm sure you'll be able to find a way to get a good deal on a new pair of shoes.”
+「そんなに美味しそうに食べてるの見ると、俺もそっちにすればよかったかな」=“Seeing you eating so deliciously, I should have done that too.”
 「お主も一口味見するか？」=“You can study for the test with me next time.”
 「えっ？……あーいや…………」=“What? ... Uh, no...”
 「何を照れておる。遠慮するでない」=“How embarrassing. Don't be shy.”

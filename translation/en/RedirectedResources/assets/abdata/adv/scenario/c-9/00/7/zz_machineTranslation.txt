@@ -10,7 +10,7 @@
 「はい！　ではそれまで、ダンスの練習しておきます」=“Yes, ma'am.　I'll practice my dance moves until then.”
 「ペース配分を意識しながら、もう少しキレよく踊れるようになりたいので」=“I'm trying to learn to dance a little snappier, so I'm trying to be more conscious of my pacing.”
 「うん、分かった。リズムは十分取れてるから、細かい部分に気を配るともっと良くなると思うわ」=“Yeah, okay. You've got a good rhythm going, you just need to work on the details and it'll get better.”
-「身体を大きく使うところ、逆に小さく使う場面。そのあたりも注意してみて？」=“The first thing to do is to make sure that the body is not too big or too small. The most important thing to remember is that you need to be careful when you are using your body.”
+「身体を大きく使うところ、逆に小さく使う場面。そのあたりも注意してみて？」=“When you use your body big, on the contrary, you use it small. Do you want to pay attention to that as well?”
 「ありがとうございます！　頑張ります！」=“Thank you very much.　I'll do my best!”
 自らの練習に加えて、部員たちにもアドバイスを送る桜。=In addition to practicing on her own, Sakura also gives advice to the other members of the club.
 その表情は晴れやかで、妙な気負いは振り払えたようだった。=The expression on her face was radiant, and she seemed to have shaken off any strange fretfulness.
@@ -22,7 +22,7 @@
 そろそろ体験入部とかさせられそうだ。=I think it's about time I was given a trial membership.
 ……でも、あの動きは俺には無理だなぁ。=... but that move is too much for me.
 「にしても、だいぶ順調そうだね。桜も、他の部員たちも」=“I'm not sure what you mean by that. Sakura and the rest of the club...”
-「そうね。みんな、持てる力を十分発揮して演技してるし、完成度がどんどん上がってる」=“I'm not sure. I'm sure you'll be able to find a way to get a good deal on the newest and most up-to-date information about the newest and most up-to-date products and services.”
+「そうね。みんな、持てる力を十分発揮して演技してるし、完成度がどんどん上がってる」=“Yes. Everyone is performing to the best of their abilities, and the degree of perfection is steadily increasing.”
 練習を続ける部員たちへと、桜は優しげな眼差しを向ける。=Sakura turns her gentle gaze toward the club members as they continue practicing.
 「――私、改めて思ったの」=“I'm thinking about it again.”
 「今の自分にできること……自分がやるべきことは、部長としてみんなの実力を引き出して、一つの大きな力にすること」=“What I can do now ... what I should do is to bring out everyone's ability as a director and make it into one big power.”
@@ -32,14 +32,14 @@
 そんな部長と一緒に最高の演技をしようと、みんなも一生懸命になれるんだと思う。=I think everyone tries their best to put on the best performance with such a director.
 「体育祭、楽しみだね。チアリーディングは俺も絶対見に行くよ」=“I'm looking forward to the gymnastics festival. I'll definitely be there to watch the cheerleading.”
 「期待してて良いわよ？　私たちの全力を見せてあげるから」=“You can count on me, okay?　We'll show you what we're made of.”
-きっぱり宣言すると、桜は練習へと戻っていった。=The most important thing to remember is that the best way to get the most out of your car is to make sure that it is safe and secure.
+きっぱり宣言すると、桜は練習へと戻っていった。=With a firm declaration, Sakura went back to practice.
 「ねえ、[P姓]。ちょっと良い？」=“Hey, [P姓], can I talk to you for a second?”
-部活が終了すると、桜に声をかけられた。=The most important thing to remember is that the best way to get the most out of your time in the office is to be a good student.
+部活が終了すると、桜に声をかけられた。=After club activities, Sakura called out to me.
 「どうしたの？」=“Something wrong?”
 「その……あんたに一つ言っときたい事があって……」=“I have one thing to say to you ...”
 そこまで言うと桜は口ごもってしまった。=I'm not sure if it's a good idea or not, but I'm sure it's a good idea.
 なんだか顔が赤いように見えるし、視線をあちこちにさまよわせている。=The actual "I'm not a fan of the way you look at me," he said, "but I'm not a fan of the way you look at me.
-いつもははっきりと物を言う桜だけに、珍しい姿だ。=The most important thing is that the students are not afraid to ask questions.
+いつもははっきりと物を言う桜だけに、珍しい姿だ。=It's a rare sight for Sakura, who usually speaks clearly.
 「……ちゃんと伝えるって決めたんだから、覚悟決めなきゃダメよね」=“...You've decided to tell her properly, so you have to be prepared for that.”
 「ふぅ……よしっ」=“Phew... okay.”
 何事か呟いた後、桜の瞳が真っ直ぐに俺を捉える。=After muttering something, his cherry blossom eyes caught me straight on.
@@ -76,7 +76,7 @@
 桜は、とても良い子だと思う。=I think Sakura is a very good girl.
 素直になれない部分もあるけど、根は真っ直ぐで、一生懸命で。=She may not be honest in some ways, but her roots are straight and she tries her best.
 仲間を思いやる優しさも持っている。=She has the kindness to think of her friends.
-――すごく素敵な子だって、俺は思う。=The most important thing to remember is that you can't just take a look at your own personal personal information.
+――すごく素敵な子だって、俺は思う。=I think she's a very nice girl.
 （体育祭が終わったら……か）=(After gymnastics is over...?)
 それまでに、桜のことを改めて考えて、そして――=I've been thinking about the cherry blossoms again, and...
 ちゃんと答えを出さないといけない。=I have to give a proper answer.

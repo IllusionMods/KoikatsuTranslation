@@ -7,7 +7,7 @@
 「ふふっ、だって[P姓]君には気を遣わなくていいんでしょう？」=“I hope that's okay. I hope I didn't look too weird in my outfit.”
 「あ……うん！」=“Oh ... yeah!”
 前回の会話のことを覚えていてくれたのか、そんなことを言って微笑む。=He smiles, saying something like that, as if he remembers our last conversation.
-変に気を遣われていないことが分かって、何だか俺も嬉しくなった。=The most important thing to remember is that you can't just go out and buy a new pair of shoes.
+変に気を遣われていないことが分かって、何だか俺も嬉しくなった。=It made me happy to know that you weren't bothered by strange things.
 そしてふと姫川さんの格好を見ると、昼休みだというのにカバンを持っている。=And when you suddenly look at Himekawa's attire, even though it's lunchtime, she's carrying her bag.
 「もしかして今日もこれから仕事？」=“Are you going to work today too?”
 「うん、早退なの」=“Yeah, I'm leaving early.”
@@ -35,7 +35,7 @@
 「……ごめんね」=“... Sorry!”
 「あーっ、いやいや気にしないで！　そういうこと考えずに誘っちゃった俺の方こそごめん！」=“Oh, no, no, no, no, no, no, no, no, never mind!　I'm sorry I didn't think of that.”
 心から済まなさそうな顔をする姫川さんへ向かって、慌てて頭を下げる。=I bowed my head hurriedly to Himekawa-san, who looked sincerely apologetic.
-逆に気を遣わせてしまったみたいで申し訳ない。=The most important thing to remember is that you can't just take a chance on the market.
+逆に気を遣わせてしまったみたいで申し訳ない。=I'm sorry that I made you worry.
 （……もしかしたらアイドルだけにそもそも恋愛とかは禁止かもしれないしな）=(... maybe only idols aren't allowed to have relationships or anything like that in the first place.)
 だとしたら、尚更悪いことをしてしまった。=If that is the case, I have done something even worse.
 「何だか俺、一人で突っ走ったみたいで……」=“I'm afraid I've gone off on my own...”
@@ -55,7 +55,7 @@
 「あはは、俺だって自分が女の子だったら、絶対にこんなことしないよー。男子校に女子一人は無理。絶対に無理」=“I would never do this if I were a girl. I can't be the only girl in a boy's school. Absolutely not.”
 「ふふふっ、そうだよね」=“Hmmm... I know, right?”
 そんなことを話しながら笑い合う。=We laugh at each other while talking about such things.
-それでもやっぱり姫川さんはすごいよな。=The most important thing to remember is that you can't just go out and buy a new pair of jeans and a new pair of jeans.
+それでもやっぱり姫川さんはすごいよな。=Still, Mr. Himekawa is amazing.
 学生として、今、この瞬間しかない時間を夢へと費やして、俺なんかとはまるで違う生活をしてるんだもんな。=I was a student, spending this moment and only this moment to pursue my dreams, living a life that is so different from mine.
 「そうだ。部活に入るのは無理でもさ、何か学生らしいことで、やってみたいこととかない？　もし良ければ、俺、手伝うよ」=“That's right. I can't join a club, but is there anything you'd like to do that's more student-like?　I can help you if you want.”
 「え？　いいの？」=“Eh? You sure?”
@@ -70,7 +70,7 @@
 「ううんううん、全然！　でも……勉強なんかでいいの？」=“No, no, no, not at all!　But are you sure you want to study at ...?”
 「うん、私、誰かと一緒にお勉強するの、ちょっと憧れだったんだ」=“Yeah, I've always wanted to study with someone.”
 呟きながら、視線を窓の外へと向ける。=Muttering, I turn my gaze out the window.
-勉強なんて、学園に来ていれば嫌というほどやっているはずなのに……。=The most important thing to remember is that you can't just go out and buy a new pair of jeans and a new pair of jeans.
+勉強なんて、学園に来ていれば嫌というほどやっているはずなのに……。=If you're at school, you should be studying so much that you don't want to...
 そんな『普通の生活』が送れていない姫川さんのことを考えて、ちょっとだけ胸が切なくなる。=Thinking about Himekawa-san, who is unable to lead such a "normal life," makes my heart a little sad.
 「もしも[P姓]君さえ良ければ……一緒にやってくれないかな？」=“If only [P姓], if you're willing to ... do it with me.”
 「もちろんいいよ。俺も一人だとついサボッちゃうタイプだし」=“Of course I do. I'm the kind of guy who slacks off when I'm alone.”
@@ -79,7 +79,7 @@
 言いながら、日頃そこまで勉強していない自分を反省。=I'm not sure I've studied that much on a daily basis, she said, reflecting on herself.
 家にいるとついついネットやゲーム、テレビなんかに気を取られちゃうんだよな。=When I'm at home, I tend to get distracted by the Internet, video games, and TV.
 「姫川さんはいつも家で勉強してるの？」=“Does Himekawa-san always study at home?”
-「ううん、大体は移動中の車とか、楽屋とか……」=“I'm looking forward to it. No, it's mostly in the car on the way or backstage...”
+「ううん、大体は移動中の車とか、楽屋とか……」=“No, mostly moving cars, dressing rooms...”
 「そっか。それは大変そうだね」=“I see. That sounds like a lot of work.”
 「うん。だからなかなか時間取れなくて……」=“Yeah. - Yeah. That's why it's so hard to find time for ...”
 甘えのせいで勉強をしていない自分を省みて、もう一度猛省。=I reflect on my lack of study due to the sweetness, and once again, I am furious.
@@ -105,8 +105,8 @@
 「私だって、次に会う約束が出来て嬉しいよ」=“I'm glad we're making plans for the next time we see each other.”
 「あはは、だったら良かった。結構強引に誘っちゃったから……」=“I'm glad to hear that. I'm glad that's the case. I was pretty aggressive in asking her out...”
 「そんなことない！　そういうの……すごく嬉しい。本当だよ♪」=“I'm not!　That kind of thing ... makes me very happy. It's true.”
-そうにっこり笑って言ってもらえると、それだけで幸せな気分になる。=The most important thing to remember is that you can't just take a look at your own personal information.
-やっぱりアイドルってすごいんだな。=The actuality that you can't get a lot of these types of products and services is actually a good thing.
+そうにっこり笑って言ってもらえると、それだけで幸せな気分になる。=It makes me happy just to hear someone say that with a smile.
+やっぱりアイドルってすごいんだな。=Idols are amazing.
 「それじゃ、今度学園に最後までいられる日は、放課後に屋上で待ってるから声をかけてね。なかなか予定が決められなくて申し訳ないんだけど……」=“I'm sorry it's been so hard to make plans...”
 「ううん、大丈夫。楽しみにしてるよ」=“No, I'm fine. I'm looking forward to it.”
 「うんっ！」=“Yeah--!”

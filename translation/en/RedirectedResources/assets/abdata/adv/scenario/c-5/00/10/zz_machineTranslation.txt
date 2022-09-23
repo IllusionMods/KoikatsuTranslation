@@ -43,7 +43,7 @@
 「どこか痛いところはありませんか？」=“Where does it hurt?”
 「い、いえ、大丈夫です。ちょっとふらっとしちゃって……」=“No, no, it's fine. I just wandered over to ...”
 先生の声を聞いて、ふらふらしながらも立ち上がる。=I hear the teacher's voice and stand up, wobbling.
-だけどその両足にはいまいち力が入っていない。=The most important thing to remember is that the best way to get the most out of your money is to be careful what you spend it on.
+だけどその両足にはいまいち力が入っていない。=But those legs aren't very strong.
 「うーん、疲れがたまってるみたいですね……。少し休んだほうが良いでしょう」=“Hmm, you look tired... You should probably get some rest.”
 「[P姓]君、姫川さんのこと保健室まで送ってください。お願いしますね」=“[P姓], please take Himekawa-san to the infirmary. I'd appreciate it.”
 「分かりました」=“Got it.”
@@ -86,7 +86,7 @@
 「うん。先生の言う通り、ただの寝不足だと思うから……昨日の夜、結構遅くまでお仕事してて……」=“I'm not sure how much I want to do. I think it's just a lack of sleep, like the teacher said...I was working until quite late last night...”
 そう言いながら、少しだけ疲れた微笑みを浮かべる。=As she said this, she smiled a little tired smile.
 顔立ちの整っている舞がそういう表情をすると、それだけで儚げだ。=I'm not sure if it's a good idea to have a newborn baby, but I'm sure it's a good idea to have a newborn baby.
-「身体がきつい時は学園を休んでもいいんじゃないかな。舞の場合、事情が事情なんだから」=“I think it's okay to take a break from the academy when your body is too tight. I'm sure you'll be able to find a way to get a good deal on the newest additions to your collection.”
+「身体がきつい時は学園を休んでもいいんじゃないかな。舞の場合、事情が事情なんだから」=“I think it's okay to skip school when you're physically tired. In Mai's case, circumstances are circumstances”
 「うん……それは……そうなんだけど……」=“Yeah... that's ... true... but...”
 語尾を濁すように頷きながら、ちょっと視線を落とす。=I nodded my head and looked down for a moment.
 そうして何か重大なことを発表するように一度だけ唇を噛んで、小声で呟いた。=Then she bit her lip once as if announcing something important, and whispered in a whisper.
@@ -96,7 +96,7 @@
 「そ、そっか。彼女役だもんね。恋人同士なら会いたいって思うのが普通だよね」=“I see. You're playing the role of a girlfriend. It's normal for lovers to want to meet.”
 「ううぅ……」=“Ugh...”
 照れた表情のまま、小さく唇を尖らせる舞。=Mai's lips pout with an embarrassed expression.
-もしも素で俺に会いたかった、なんて言われたら……。=The most important thing to remember is that you can't just go to the store and ask for a discount.
+もしも素で俺に会いたかった、なんて言われたら……。=If you said that you really wanted to meet me...
 想像するだけで心の中に嬉しさと恥ずかしさが充満してしまう。=Just imagining it fills my heart with happiness and embarrassment.
 そうして少しの間、無言で照れ合う時間が続いたあと……。=After a short period of silent embarrassment...
 「あ、わ、私、もう大丈夫だからっ……そろそろ授業に戻ろうかな？」=“I'm fine. I'm fine... I'd better get back to class.”
@@ -120,7 +120,7 @@
 「私と……恋人ゴッコ……してるから……？」=“You're playing lover's ... games with me, so ...?”
 「……違うよ。ゴッコじゃなくて、舞のことが本当に好きだから心配なんだ」=“... No, it's not. It's not a goggle, I'm worried about you because I really like Mai.”
 俺は舞のことが好きで、それは決してゴッコのせいなんかじゃない。=I like Mai, and it's not because of gokko.
-この気持ちをこれ以上隠してはおけないし、隠しておくのも辛い。=The most important thing to remember is that you can't hide this feeling any longer, and it's hard to keep it hidden.
+この気持ちをこれ以上隠してはおけないし、隠しておくのも辛い。=I can't hide this feeling anymore, and it's hard to hide.
 そう思ったから、ストレートに、素直に、ありのまま『好きだ』と伝えた。=I thought so, so I told him straight, honestly, and frankly, "I love you.
 舞はまた驚いた表情を浮かべた後、一層頬を赤くさせて……。=Mai's cheeks turned even redder ... after another startled expression appeared on her face.
 「そ、それって……あの……もしかして……」=“That's ... that's ... that's ... maybe...”
@@ -142,8 +142,8 @@
 「そうかな？」=“You think so?”
 「そうだよ」=“That's right.”
 いつかのようにまた言い切られて、思わず照れ笑い。=I was embarrassed to be told off again, as I had been sometime ago.
-何となく両思いだとは思っていたけれど、それを確信出来るほど俺は自惚れていない。=The most important thing to remember is that you can't just take a look at the actual product or service and expect it to work for you.
-だからこそ、舞の気持ちにやっぱり安心する。=The most important thing to do is to make sure that you have the right tools to do the job.
+何となく両思いだとは思っていたけれど、それを確信出来るほど俺は自惚れていない。=I vaguely thought it was mutual, but I'm not arrogant enough to be sure of it.
+だからこそ、舞の気持ちにやっぱり安心する。=That's why I feel at ease with Mai's feelings.
 「舞だって気付いてたはずだよ？　俺、舞といる時、いつもドキドキしてたもん」=“I'm not sure what to do with the money.　I'm not sure what to do with the money.”
 「だってそれはっ……恋人ゴッコしてたから……」=“Because that's ... because we were playing lovers...”
 「あはは、それは舞だって同じだよ」=“I'm sure you'd like that too.”
@@ -172,13 +172,13 @@
 さっき感じた儚さにも似た可愛さで、俺の告白に胸を震わせて……。=The actual "I'm not a fan of the way you look at it, but I'm not a fan of the way you look at it either.
 「え……」=“Eh......”
 そんな様子があまりに愛しくて、俺は舞を自分の胸へと引き寄せた。=I felt so much love for her that I pulled Mai to my chest.
-我慢出来ずに抱きしめたけれど、舞からの抵抗はない。=The most important thing to remember is that you can't be too careful when it comes to your health and wellbeing.
+我慢出来ずに抱きしめたけれど、舞からの抵抗はない。=I couldn't hold back and hugged her, but Mai didn't resist.
 それどころか、自分から俺へ身体を預けて、その体温と鼓動を直接伝えてくれる。=On the contrary, she entrusts her body to me and directly conveys her body temperature and heartbeat.
 「[P名]君のドキドキも……聞こえる」=“I can hear [P名]'s pounding too...”
 「舞とどっちがドキドキしてる？」=“Who's more nervous? Mai or you?”
 「と、当然、私の方だよぅ……」=“I'm the one, of course...”
 恥ずかしそうに言いながら、嬉しそうに頬を押しつけてくる。=She presses her cheeks against me shyly and happily.
-そんなことをされると、もっと先へ進みたい気持ちになるけど……体調不良でここに来ているわけだし、さすがに……。=The most important thing to remember is that you can't just go out and buy a new one.
+そんなことをされると、もっと先へ進みたい気持ちになるけど……体調不良でここに来ているわけだし、さすがに……。=That kind of thing makes me want to go further, but... I'm here because I'm not feeling well, so...
 そう思って懸命に耐えていると、舞がゆっくりと俺から離れて、至近距離で見つめてきた。=I thought I was going to answer her, but I didn't know how many times I would have to ask her.
 「ドキドキ……どんどん大きくなるね」=“I'm pounding ... and it's getting louder and louder.”
 「えっと……それはまぁ……告白したばかりだし、二人きりだし……」=“Well... it's just the two of us...”
@@ -204,7 +204,7 @@
 そうやって唇から流れ込む感情で身体中に舞色を満たしていると、くっついてきた時と同じように、ゆっくりと舞が唇を離した。=When I was filling my body with Mai color with the emotions that flowed from my lips like that, Mai slowly pulled her lips away, just as she did when she was attached to me.
 瞳を開けると、そこにはさっき以上にほんのり頬を染めた舞の顔。=When I open my eyes, I see Mai's face with her cheeks slightly stained.
 恥ずかしさに耐えられないのか、たった今、俺と触れ合っていた唇を小さく噛んでいる。=Perhaps unable to bear the embarrassment, she bit her lip, which had just been in contact with me.
-それから花が咲くような照れ笑いと一緒に……。=The first thing you need to do is to make sure that you have a good time with your friends and family.
+それから花が咲くような照れ笑いと一緒に……。=Then with a shy smile like a flower blooming...
 「えへへ……初めて……キスしちゃった……演技でもしたことないんだよ」=“I kissed her for the first time ... even though I've never kissed her before ... even though I'm acting!”
 照れ隠しのように頬をかきながらそんな言葉。=Such words while scratching his cheeks as if he was embarrassed.
 恋をしている女の子だけが見せる独特の表情で、少しだけ上目遣いに俺を見つめてくる。=She looks at me with a unique expression that only a girl in love can show, and she looks up at me a little.
@@ -215,7 +215,7 @@
 「ふふーっ、アイドルは時に大胆なのです♪」=“I'm not sure you're ready to show me the door.”
 「あっ……」=“Ah--...”
 「んん……」=“Nnnnn...”
-照れを誤魔化すためか、それとも言葉通り大胆なのか。=The most important thing to remember is that the best way to get the most out of your money is to be honest with yourself.
+照れを誤魔化すためか、それとも言葉通り大胆なのか。=Is it to cover up your shyness, or is it literally bold?
 驚く暇も与えないくらい素早く、舞から二度目のキス。=I am so quick that I don't even have time to be surprised, and Mai kisses me for the second time.
 触れ合う唇が湿っているのは、さっき軽く噛んでいたからだ。=The lips that touch each other are moist because I lightly bit them earlier.
 声にならないくらいの小声でお互いの名前を呼ぶけど、唇の動きだけではっきりと伝わってくる。=They call each other's names in an inaudible whisper, but it is clearly conveyed just by the movement of their lips.
@@ -232,7 +232,7 @@
 「舞……好きだ……」=“Mai... likes you...”
 「ふぁ……あ……わ、私も……大好き……ん……ちゅっ……」=“I love ... you too ... ...chu-chu...”
 唇を重ねたまま、啄むようにして会話。=Pecking and conversing with each other with our lips still on top of each other.
-これ以上ないくらい近くに迫った舞の顔から、ほのかな体温が伝わってきた。=The most important thing to remember is that you can't get too close to the people you are interested in.
+これ以上ないくらい近くに迫った舞の顔から、ほのかな体温が伝わってきた。=I felt a faint warmth from Mai's face, which was as close as possible.
 「はぅぅ……と、突然すぎます……」=“Huh... and too sudden...”
 「俺だって突然されたよ？」=“I got nervous just talking to Mai.”
 「そ、そうだけど……うぅ……し、心臓止まっちゃうかと思ったよぅ……」=“Yes, yes, but ... ugh ... I thought my heart was going to stop...”
@@ -280,10 +280,10 @@
 「あっ、そ、そんなお顔しないで！　すっごく恥ずかしいこと言ってるって、自分でも分かってるからっ！」=“Oh, don't make that face!　I know it's very embarrassing for me to say that!”
 笑顔から一転、今度はまた真っ赤になって慌てる。=She turns from smiling to flustered, this time turning bright red again.
 『初めてをもらって欲しい』、分かり易すぎるくらい簡単な言葉。="I want you to have your first." Too simple a phrase, too easy to understand.
-そんな言葉を紡いでくれた舞に、俺の中で愛しさが溢れた。=The best way to get the best out of this is to get a good quality of life.
+そんな言葉を紡いでくれた舞に、俺の中で愛しさが溢れた。=I was filled with love for Mai, who spun those words.
 愛しくて愛しくて抱きしめると、小さな声を上げながらもそっと寄り添ってくる。=When I embrace her lovingly and tenderly, she gently snuggles up to me while making little noises.
 華奢な身体が微かに震えて、何度も言っているようにやっぱり緊張してるんだと思う。=Her slender body trembled slightly, and as I have said many times, I think she was nervous.
 「俺も……舞の初めて、全部欲しい。いい？」=“I want all ... of Mai's firsts, too. I want all of Mai's firsts.”
 「も、もちろんだよ。[P名]君にそう思ってもらえること、すごく嬉しい……です」=“I'm so glad you feel that way, [P名]...”
 舞を抱きしめて、少しだけ体調のことが気になったけど、気持ちを抑えることが出来ない。=I hugged Mai and was a little concerned about her health, but I couldn't suppress my feelings.
-出来るだけ舞に負担をかけないようにしたくて、俺はそのまま、舞をそっとベッドへと押し倒した。=The most important thing to keep in mind is that you should not be afraid to use your own personal computer.
+出来るだけ舞に負担をかけないようにしたくて、俺はそのまま、舞をそっとベッドへと押し倒した。=Wanting to put as little burden on Mai as possible, I gently pushed her down onto the bed.

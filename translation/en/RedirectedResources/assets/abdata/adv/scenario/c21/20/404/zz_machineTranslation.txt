@@ -1,6 +1,6 @@
 「おぉ、おいしそう！」=“Oh, it looks delicious!”
 「だよねー♪　これ、雑誌で特集されてたスイーツなんだよ。前から食べたかったんだ～、いっただっきまーす、ぱくっ♪　……んん～、ほっぺたが落ちる～♡」=“I know, right? This is a sweet that was featured in a magazine. I've been wanting to try it for a while now.”
-（美味しそうに食べるなぁ、こっちまでヨダレが出てくるよ）=(The actuality that you can't get a good deal more than a few of these, it's not really a good idea to get a lot more than a few of these.)
+（美味しそうに食べるなぁ、こっちまでヨダレが出てくるよ）=(You're eating deliciously, you're drooling)
 「俺のケーキはどうかな、いただきます。ぱく……おおっ、こっちも美味しい！」=“I don't know about my cake, but I'll have some. Paku... oh, this one's good too!”
 「ホント！？　じゃあシェアしよ～♪　って、あ、ごめん。いつも友達とシェアしてるから、普通に言っちゃってた」=“Really?　I'm sorry, I always share with my friends. I'm always sharing with my friends, so it was just a normal thing to say.”
 「ごめん？　あっ、もしかして、間接キスになるから？　やっぱり気になる？」=“Are you okay?　I'm sorry? - It's because it's an indirect kiss?　Does it still bother you?”

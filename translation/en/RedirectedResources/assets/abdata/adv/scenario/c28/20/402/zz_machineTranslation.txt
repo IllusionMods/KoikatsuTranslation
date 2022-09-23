@@ -16,7 +16,7 @@
 「[H名]は料理が得意なの？」=“Is [H名] a good cook?”
 「得意というか、料理が好きなのじゃ。ただ、得意料理は和食だから和食になるがよいか？」=“I'm good at it, or rather, I like cooking. But my specialty is Japanese food, so it'll be Japanese food, okay?”
 「和食も大好きだよ。楽しみだな」=“I love Japanese food too. I'm looking forward to it.”
-「やっぱり男は手料理が大好きなのじゃな……」=“I'm sure you'll be able to find a good deal of information about the company and its products and services.”
+「やっぱり男は手料理が大好きなのじゃな……」=“After all, men love home cooking...”
 「もしかして、料理が苦手なの？」=“I'm not good at cooking?”
 「何度か挑戦したことはあるんじゃが……いつもうまくいかなくてのう。どうしても好きになれんのじゃ」=“I've tried a few times, but ... I can't always get it right. I just don't like it.”
 「そうなんだ。もちろん手料理は好きだけど、無理に作ってくれとは言わないよ」=“That's right. Of course I like home-cooked food, but I won't force you to cook for me.”

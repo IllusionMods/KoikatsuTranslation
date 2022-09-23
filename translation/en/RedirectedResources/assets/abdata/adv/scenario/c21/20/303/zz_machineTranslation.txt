@@ -1,4 +1,4 @@
-プルルルル……=The most important thing to remember is that you should not be afraid to ask for help from your friends and family.
+プルルルル……=Pururururu……
 「電話鳴ってる！　私出るね。はいもしもし……あ、黝子ちゃんだ、やっほ～バイト順調？　うん、うん……あ、１０分前？　うん、ちょっと聞いてみるね」=“Your phone's ringing.　I'll get it. Hello? ... It's Black Girl. Hey, how's your part-time job going?　Yeah, yeah... Oh, 10 minutes ago?　Yeah, I'll just ask.”
 （ようこ？　あ、[H名]の友達か。というか、もうそんな時間なんだ……延長するか、否か。うーん……）=(I'm going to take it easy if I take it slow.　Oh, you're [H名]'s friend? I mean, it's that time already ... to extend or not. Hmmm... ...)
 CHOICE:『もっと[H名]と歌いたい』=CHOICE: "I want to sing more with [H名]"
