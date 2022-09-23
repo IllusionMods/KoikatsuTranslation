@@ -12,16 +12,16 @@
 あんせレインコート=Safety Raincoat
 
 // chara/anse/anse_swimsuits.unity3d
-//あんせ競泳水着=
+あんせ競泳水着=Anse Racing Swimsuit
 
 // chara/anse/anse_swimsuits_ob.unity3d
-//あんせ競泳水着OB=
+あんせ競泳水着OB=Anse Racing Swimsuit OB
 
 // chara/anse/anse_swimsuits_ob_s.unity3d
-//あんせ競泳水着OB(S)=
+あんせ競泳水着OB(S)=Anse Racing Swimsuit OB (S)
 
 // chara/anse/anse_swimsuits_s.unity3d
-//あんせ競泳水着(S)=
+あんせ競泳水着(S)=Anse Racing Swimsuit (S)
 
 // chara/ao_head_01.unity3d
 偶像肩章改=Idol epaulettes corrected
@@ -30,7 +30,7 @@
 ナミブラ=Nami Bra
 
 // chara/co_bra_104.unity3d
-//シエラ 蒼空 bra 1st=
+シエラ 蒼空 bra 1st=Sierra bra 1st
 
 // chara/co_bra_xmas.unity3d
 サンタ=Santa Claus
@@ -39,17 +39,17 @@
 贵族风衣=Clothes for noble families
 
 // chara/escargot_003_03_co_bra_01.unity3d
-//カスタムバニー=
+カスタムバニー=Custom Bunny
 
 // chara/Hayashi/hayashi_no_frill.unity3d
 フリル水着（フリルなし）=Frill Swimsuit (No Frill)
 
 // chara/ltz/reverse_bunny.unity3d
-//逆バニー上(柄A)=
-//逆バニー上(柄B)=
+逆バニー上(柄A)=Reverse Bunny Top (Pattern A)
+逆バニー上(柄B)=Reverse Bunny Top (Pattern B)
 
 // chara/luci7/microbikini_bra.unity3d
-//超マイクロビキニ=
+超マイクロビキニ=Ultra-Micro Bikini
 
 // chara/m14/m14_small_swim.unity3d
 スクール水着_small =School swimsuit_small
@@ -185,13 +185,13 @@ Maハイローブラ=Ma high-low bra
 全身タイツ(ショーツ可)=Full-length tights (Shorts allowed)
 
 // chara/nin/nin_shitagi_01.unity3d
-//くノ一タイツ(ショーツ可)=
-//くノ一レオタード=
-//ハイネックハイレグ(袖なし)=
+くノ一タイツ(ショーツ可)=Ninja Girl Tights (Shorts Allowed)
+くノ一レオタード=Ninja Girl Leotard
+ハイネックハイレグ(袖なし)=High Neck High Legged (Sleeveless)
 
 // chara/ryusimi/ryusimi_swim.unity3d
-//ハイネック競泳(弱透過) =
-//ハイネック競泳水着 =
+ハイネック競泳(弱透過) =High Neck Racing Swimsuit (Weak Transmission)
+ハイネック競泳水着 =High Neck Racing Swimsuit
 ラインタンガ2=Line Tanga 2
 
 // chara/Sen3_rean.unity3d
@@ -375,7 +375,7 @@ Qテクター(ツヤ)=Q-techter (Tsuya)
 ミロスーツ=Milo Suit
 
 // chara/_mods/muvluv02.unity3d
-//99式衛士強化装備光=
+99式衛士強化装備光=Type 99 Pilot Fortified Suit (Light)
 
 // chara/_mods/natumi.unity3d
 クロップドチューブトップ=Cropped Tube Top

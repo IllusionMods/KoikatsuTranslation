@@ -3,7 +3,7 @@
 //
 
 // chara/kaguranana.unity3d
-//カグラナナ アーティストver. frills=
+カグラナナ アーティストver. frills=Karuga Nana Artist ver. frills
 
 // chara/mt_pattern_SP.unity3d
 骑士护腿(右)=Knight's Leggings (R)

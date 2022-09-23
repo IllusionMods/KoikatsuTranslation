@@ -10,10 +10,10 @@
 スカルブローチ=Skull brooch
 
 // chara/anse/anse_sailor_cheer_scarf_acs.unity3d
-//セーラーチアスカーフ=
+セーラーチアスカーフ=Sailor Cheerleader Scarf
 
 // chara/anse/anse_sailor_dress_scarf_acs.unity3d
-//セーラーワンピスカーフ(タイのみ)=
+セーラーワンピスカーフ(タイのみ)=Sailor One-piece Scarf (Thailand Only)
 
 // chara/ao_neck_nkt01.unity3d
 ルーズネクタイ=Loose necktie
@@ -41,27 +41,27 @@
 レーナ[86-EIGHTY SIX-]=Raina [86-EIGHTY SIX-]
 
 // chara/mio.unity3d
-//大神ミオ necktie=
+大神ミオ necktie=Ookami Mio necktie
 
 // chara/nin/nin_acs.unity3d
 えり巻き=necktie wrap
 くび巻き=Neck Wrap
 
 // chara/nin/nin_acs_01.unity3d
-//えり巻き(調整2有)=
+えり巻き(調整2有)=necktie wrap (Adj 2)
 
 // chara/onepiece.unity3d
-//ワンピースリボン(両肩)=
-//ワンピースリボン(前)=
-//ワンピースリボン(右肩)=
-//ワンピースリボン(左肩)=
-//ワンピースリボン(後)=
+ワンピースリボン(両肩)=One-piece Ribbon (Both Shoulders)
+ワンピースリボン(前)=One-piece Ribbon (Previous)
+ワンピースリボン(右肩)=One-piece Ribbon (R. Shoulder)
+ワンピースリボン(左肩)=One-piece Ribbon (L. Shoulder)
+ワンピースリボン(後)=One-piece Ribbon (Rear)
 
 // chara/roie/roie_accessories.unity3d
 マフラー無地（WBAccs）=Scarf plain (WBAccs)
 
 // chara/umy2.unity3d
-//呜米Umy2公式服 neckwear=
+呜米Umy2公式服 neckwear=MeUmy 2 Official neckwear
 
 // chara/ymd/mf_accneckP.unity3d
 タイ=Tie

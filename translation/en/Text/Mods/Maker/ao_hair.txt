@@ -19,7 +19,7 @@
 [dak]コロネ左(揺れ)=[dak]Coronet L (Shaking)
 
 // chara/lamy.unity3d
-//雪花ラミィ hat=
+雪花ラミィ hat=Yukihana Lamy hat
 
 // chara/mod/mod_aurora_al.unity3d
 髪飾り_オーロラAL=Hair ornament_Aurora AL
@@ -28,13 +28,13 @@
 髪リボン_嵐燐結騎=Hair ribbon_Arashi Rin Kuki
 
 // chara/suzukihina.unity3d
-//鈴木ヒナ hat=
+鈴木ヒナ hat=Suzuki Hina hat
 
 // chara/valletta_flower.unity3d
-//花だけ=
-//花だけ(色指定)=
-//葉だけ=
-//葉だけ(色指定)=
+花だけ=Just Flowers
+花だけ(色指定)=Just Flowers (Color Specified)
+葉だけ=Just Leaves
+葉だけ(色指定)=Just Leaves (Color Specified)
 
 // chara/xne/xne_ao_accZ46.unity3d
 ドイツ風クロス=German style cross

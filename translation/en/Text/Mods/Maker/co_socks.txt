@@ -6,24 +6,24 @@
 サキュバスソックス=Succubus Socks
 
 // chara/anse/anse_cute_socks.unity3d
-//あんせキュートソックス=
+あんせキュートソックス=Anse Cute Socks
 
 // chara/anse/anse_cute_socks_ankle.unity3d
-//あんせキュートソックス(ankle)=
+あんせキュートソックス(ankle)=Anse Cute Socks (ankle)
 
 // chara/anse/anse_cute_socks_crew.unity3d
-//あんせキュートソックス(crew)=
+あんせキュートソックス(crew)=Anse Cute Socks (crew)
 
 // chara/anse/anse_ribbon_knee_socks.unity3d
-//あんせリボンニーソックス=
+あんせリボンニーソックス=Anse Ribbon Kneesocks
 
 // chara/AntY/co_panst_00.unity3d
-//アラストル Ant Y Meow Socks 1=
-//アラストル Ant Y Meow Socks 2=
-//アラストル Ant Y Meow Socks 3=
+アラストル Ant Y Meow Socks 1=Alastor Ant Y Meow Socks 1
+アラストル Ant Y Meow Socks 2=Alastor Ant Y Meow Socks 2
+アラストル Ant Y Meow Socks 3=Alastor Ant Y Meow Socks 3
 
 // chara/c.unity3d
-//C酱 socks=
+C酱 socks=Shiyuu Chishiki socks
 
 // chara/cdpsb0/smith_loose.unity3d
 E.G.SMITH ルーズソックス=E.G.SMITH  Loose Socks
@@ -32,7 +32,7 @@ E.G.SMITH ルーズソックス L=E.G.SMITH  Loose Socks  L
 E.G.SMITH ルーズソックス W=E.G.SMITH  Loose Socks  W
 
 // chara/choco.unity3d
-//癒月ちょこ legwear=
+癒月ちょこ legwear=Yuzuki Choco legwear
 
 // chara/co_bot_00.unity3d
 ショートパンツ=Short Pants
@@ -51,22 +51,22 @@ E.G.SMITH ルーズソックス W=E.G.SMITH  Loose Socks  W
 アイドルショルダー=Idol Shoulder
 
 // chara/lamy.unity3d
-//雪花ラミィ socks=
+雪花ラミィ socks=Yukihana Lamy socks
 
 // chara/ls.unity3d
-//Long socks（分け）=
+Long socks（分け）=Long Socks (Split)
 
 // chara/luse_co_socks_00.unity3d
-//温泉ルウシェ ソックス=
+温泉ルウシェ ソックス=Onsen Rouche Socks
 
 // chara/mf_vladilena_milize_socks.unity3d
 レーナ[86-EIGHTY SIX-]=Raina [86-EIGHTY SIX-]
 
 // chara/mio.unity3d
-//大神ミオ socks=
+大神ミオ socks=Ookami Mio socks
 
 // chara/mirai_co_socks_00.unity3d
-//ミラクル ニーソックス=
+ミラクル ニーソックス=Miracle Kneesocks
 
 // chara/mod/mod_aurora_al.unity3d
 ガーターサイハイ_オーロラAL=Garter sigh high_Aurora AL
@@ -83,10 +83,10 @@ E.G.SMITH ルーズソックス W=E.G.SMITH  Loose Socks  W
 くいこみニーソ=Kumikomi Knee Socks
 
 // chara/nakay/co_kuikomi_cbs_nkt16.unity3d
-//くいこみサイハイ１=
-//くいこみサイハイ２=
-//くいこみニーソ１=
-//くいこみニーソ２=
+くいこみサイハイ１=Camel Toe Thigh High 1
+くいこみサイハイ２=Camel Toe Thigh High 2
+くいこみニーソ１=Camel Toe Thigh Highs 1
+くいこみニーソ２=Camel Toe Thigh Highs 2
 
 // chara/nashi/ns_socks.unity3d
 右ニーソ=Right Knee Socks
@@ -96,10 +96,10 @@ E.G.SMITH ルーズソックス W=E.G.SMITH  Loose Socks  W
 左ハイソ=Left high-socks
 
 // chara/nin/nin_socks_01.unity3d
-//くノ一脚絆=
+くノ一脚絆=Ninja Girl Leggings
 
 // chara/rena.unity3d
-//夜見れな socks=
+夜見れな socks=Yorumi Rena socks
 
 // chara/roie/roie_socks.unity3d
 クルー=Crew
@@ -110,7 +110,7 @@ E.G.SMITH ルーズソックス W=E.G.SMITH  Loose Socks  W
 サイバーハニカムソックス=Cyber Honeycomb Socks
 
 // chara/ura.unity3d
-//乌拉 socks=
+乌拉 socks=Ura socks
 
 // chara/ymd/mf_clothExtend.unity3d
 パフトショルダー=Puffed shoulder

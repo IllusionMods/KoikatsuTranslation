@@ -15,7 +15,7 @@
 ネクロマンサーのグローブ=Necromancer Gloves
 
 // chara/373.unity3d
-//美波七海 gloves=
+美波七海 gloves=Minami Nanami gloves
 
 // chara/AntY/co_gloves_00.unity3d
 アラストル Ant Y Long Gloves=Arastole Ant Y Long Gloves
@@ -28,7 +28,7 @@
 アラストル Ant Y Short Gloves Transparent=Arastole Ant Y Short Gloves Transparent
 
 // chara/c.unity3d
-//C酱 gloves=
+C酱 gloves=Shiyuu Chishiki gloves
 
 // chara/co_gloves_xmas.unity3d
 サンタ=Santa Claus
@@ -47,8 +47,8 @@
 アイドルショルダー=Idol Shoulder
 
 // chara/kaguranana.unity3d
-//カグラナナ アーティストver. gloves=
-//カグラナナ アーティストver. gloves 2=
+カグラナナ アーティストver. gloves=Karuga Nana Artist ver. gloves
+カグラナナ アーティストver. gloves 2=Karuga Nana Artist ver. gloves 2
 
 // chara/mf_alice.unity3d
 騎士の籠手[アリス]=Knight's Baskets [Alice][SAO
@@ -69,10 +69,10 @@
 シノン(ケットシー)[SAO]=Sinon(Ketsee)[SAO][SAO
 
 // chara/mio.unity3d
-//大神ミオ gloves=
+大神ミオ gloves=Ookami Mio gloves
 
 // chara/mirai_co_gloves_00.unity3d
-//ミラクル 手袋=
+ミラクル 手袋=Miracle Gloves
 
 // chara/mod/mod_aurora_al.unity3d
 ワンピース袖_オーロラAL=One-piece sleeves_Aurora AL
@@ -99,16 +99,16 @@
 フリル手袋=Frilled Gloves
 
 // chara/rena.unity3d
-//夜見れな gloves=
+夜見れな gloves=Yorumi Rena gloves
 
 // chara/sunshine/co_gloves_35/p_cf_gloves_animaja.unity3d
 着ぐるみ手袋=Stuff Animal Gloves
 
 // chara/suzukihina.unity3d
-//鈴木ヒナ gloves=
+鈴木ヒナ gloves=Suzuki Hina gloves
 
 // chara/ura.unity3d
-//乌拉 gloves=
+乌拉 gloves=Ura gloves
 
 // chara/xne/xne_co_gloves_rurina.unity3d
 ジムリーダー風手袋=Gym leader style gloves
@@ -182,7 +182,7 @@
 マイン鎧籠手=Mine Armor Basket Hand
 
 // chara/_mods/muvluv03.unity3d
-//99式衛士強化装備上腕=
+99式衛士強化装備上腕=Type 99 Pilot Fortified Suit (Upper Arm)
 
 // chara/_mods/rider2.unity3d
 ライダー手袋=Rider Gloves

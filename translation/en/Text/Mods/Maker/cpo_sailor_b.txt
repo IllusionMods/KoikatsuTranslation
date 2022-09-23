@@ -7,7 +7,7 @@
 
 // chara/etc.unity3d
 なし=None
-//なし(互換)=
+なし(互換)=None (Compatible)
 
 // chara/Matne/matne_sailor_bc_00.unity3d
 タイプ５改（胸当てラインなし色固定）=Type 5 modified (No breastplate line, color fixed)

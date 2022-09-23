@@ -9,13 +9,13 @@
 
 // chara/bang_m.unity3d
 M字バング=M-Shaped Bangs
-//M字バング(両外)=
-//M字バング(中央)=
-//M字バング(前)=
-//M字バング(右内)=
-//M字バング(右外)=
-//M字バング(左内)=
-//M字バング(左外)=
+M字バング(両外)=M-Shaped Bangs (Both Sides)
+M字バング(中央)=M-Shaped Bangs (Center)
+M字バング(前)=M-Shaped Bangs (Front)
+M字バング(右内)=M-Shaped Bangs (Innner R)
+M字バング(右外)=M-Shaped Bangs (Outter R)
+M字バング(左内)=M-Shaped Bangs (Inner L)
+M字バング(左外)=M-Shaped Bangs (Outter L)
 
 // chara/curve_kinoko.unity3d
 カーブきのこ=Curved Mushroom
@@ -338,48 +338,48 @@ M字バングストレート(左)=M-Shaped Straight Bangs (L)
 太い R=Thick R
 
 // chara/flipped_patsun.unity3d
-//ハネぱっつん(両外)=
-//ハネぱっつん(両外前)=
-//ハネぱっつん(両外後)=
-//ハネぱっつん(中央)=
-//ハネぱっつん(前)=
-//ハネぱっつん(前右)=
-//ハネぱっつん(前左)=
-//ハネぱっつん(右外前上)=
-//ハネぱっつん(右外前下)=
-//ハネぱっつん(右外後)=
-//ハネぱっつん(左外前上)=
-//ハネぱっつん(左外前下)=
-//ハネぱっつん(左外後)=
+ハネぱっつん(両外)=Straight Bangs, Swept Up (Both Sides)
+ハネぱっつん(両外前)=Straight Bangs, Swept Up (In Front Of Both Sides)
+ハネぱっつん(両外後)=Straight Bangs, Swept Up (After Both Sides)
+ハネぱっつん(中央)=Straight Bangs, Swept Up (Center)
+ハネぱっつん(前)=Straight Bangs, Swept Up (Previous)
+ハネぱっつん(前右)=Straight Bangs, Swept Up (Front R)
+ハネぱっつん(前左)=Straight Bangs, Swept Up (Front L)
+ハネぱっつん(右外前上)=Straight Bangs, Swept Up (R Outer Front Upper)
+ハネぱっつん(右外前下)=Straight Bangs, Swept Up (R Outer Front Lower)
+ハネぱっつん(右外後)=Straight Bangs, Swept Up (R Lateral Posterior)
+ハネぱっつん(左外前上)=Straight Bangs, Swept Up (L Outer Front Upper)
+ハネぱっつん(左外前下)=Straight Bangs, Swept Up (L Outer Front Lower)
+ハネぱっつん(左外後)=Straight Bangs, Swept Up (L Lateral Rear)
 
 // chara/idol_cut.unity3d
-//アイドルカット(左両外)=
-//アイドルカット(左前)=
-//アイドルカット(左外右)=
-//アイドルカット(左外左)=
+アイドルカット(左両外)=Idle Cut (L Both Sides)
+アイドルカット(左前)=Idle Cut (L Front)
+アイドルカット(左外右)=Idle Cut (L Outside R)
+アイドルカット(左外左)=Idle Cut (L Out L)
 
 // chara/idol_cut_i.unity3d
-//アイドルカット(右)=
-//アイドルカット(右両外)=
-//アイドルカット(右前)=
-//アイドルカット(右外右)=
-//アイドルカット(右外左)=
+アイドルカット(右)=Idle Cut (R)
+アイドルカット(右両外)=Idle Cut (R Outside)
+アイドルカット(右前)=Idle Cut (Front R)
+アイドルカット(右外右)=Idle Cut (R Outside R)
+アイドルカット(右外左)=Idle Cut (R Outside L)
 
 // chara/kinoko_hair.unity3d
 きのこヘア=Mushroom
-//きのこヘア(両外)=
-//きのこヘア(前)=
-//きのこヘア(外右)=
-//きのこヘア(外左)=
+きのこヘア(両外)=Mushroom (Both Sides)
+きのこヘア(前)=Mushroom (Previous)
+きのこヘア(外右)=Mushroom (Outside R)
+きのこヘア(外左)=Mushroom (Outside L)
 
 // chara/kinoko_hair_i.unity3d
-//きのこヘア(逆)=
-//きのこヘア(逆両外)=
-//きのこヘア(逆前)=
-//きのこヘア(逆前右)=
-//きのこヘア(逆前左)=
-//きのこヘア(逆外右)=
-//きのこヘア(逆外左)=
+きのこヘア(逆)=Mushroom (Reverse)
+きのこヘア(逆両外)=Mushroom (Reverse Both Sides)
+きのこヘア(逆前)=Mushroom (Reverse)
+きのこヘア(逆前右)=Mushroom (Reverse Front R)
+きのこヘア(逆前左)=Mushroom (Reverse Front L)
+きのこヘア(逆外右)=Mushroom (Reverse R)
+きのこヘア(逆外左)=Mushroom (Reverse L)
 
 // chara/koi_ao_face_00.unity3d
 狐の面=Fox Mask
@@ -393,101 +393,101 @@ M字バングストレート(左)=M-Shaped Straight Bangs (L)
 サイドA=Side A
 
 // chara/patsun_air_intake.unity3d
-//ぱっつんエアインテーク(両外)=
-//ぱっつんエアインテーク(両外伸)=
-//ぱっつんエアインテーク(内)=
-//ぱっつんエアインテーク(前)=
-//ぱっつんエアインテーク(右外)=
-//ぱっつんエアインテーク(右外伸)=
-//ぱっつんエアインテーク(左外)=
-//ぱっつんエアインテーク(左外伸)=
+ぱっつんエアインテーク(両外)=Straight-Cut, Air Intake (Both Sides)
+ぱっつんエアインテーク(両外伸)=Straight-Cut, Air Intake (Both Outside Extension)
+ぱっつんエアインテーク(内)=Straight-Cut, Air Intake (Inner)
+ぱっつんエアインテーク(前)=Straight-Cut, Air Intake (Previous)
+ぱっつんエアインテーク(右外)=Straight-Cut, Air Intake (Outer R)
+ぱっつんエアインテーク(右外伸)=Straight-Cut, Air Intake (R Extension)
+ぱっつんエアインテーク(左外)=Straight-Cut, Air Intake (Outer L)
+ぱっつんエアインテーク(左外伸)=Straight-Cut, Air Intake (L Extension)
 
 // chara/short_hair.unity3d
 ショートヘア=Short Hair
-//ショートヘア(両外)=
-//ショートヘア(中央)=
-//ショートヘア(前)=
-//ショートヘア(右中)=
-//ショートヘア(右内)=
-//ショートヘア(右外)=
-//ショートヘア(左中)=
-//ショートヘア(左内)=
-//ショートヘア(左外)=
+ショートヘア(両外)=Right Short, Long Left (Both Sides)
+ショートヘア(中央)=Right Short, Long Left (Center)
+ショートヘア(前)=Right Short, Long Left (Previous)
+ショートヘア(右中)=Right Short, Long Left (Middle R)
+ショートヘア(右内)=Right Short, Long Left (Inner R)
+ショートヘア(右外)=Right Short, Long Left (Outer R)
+ショートヘア(左中)=Right Short, Long Left (Middle L)
+ショートヘア(左内)=Right Short, Long Left (Inner L)
+ショートヘア(左外)=Right Short, Long Left (Outer L)
 
 // chara/short_hair_i.unity3d
-//ショートヘア(逆)=
-//ショートヘア(逆両外)=
-//ショートヘア(逆中央)=
-//ショートヘア(逆前)=
-//ショートヘア(逆右中)=
-//ショートヘア(逆右内)=
-//ショートヘア(逆右外)=
-//ショートヘア(逆左中)=
-//ショートヘア(逆左内)=
-//ショートヘア(逆左外)=
+ショートヘア(逆)=Right Short, Long Left (Reverse)
+ショートヘア(逆両外)=Right Short, Long Left (Reverse Both Sides)
+ショートヘア(逆中央)=Right Short, Long Left (Reverse Center)
+ショートヘア(逆前)=Right Short, Long Left (Reverse)
+ショートヘア(逆右中)=Right Short, Long Left (Reverse R Center)
+ショートヘア(逆右内)=Right Short, Long Left (Reverse R Inside)
+ショートヘア(逆右外)=Right Short, Long Left (Reverse R Outside)
+ショートヘア(逆左中)=Right Short, Long Left (Reverse L Middle)
+ショートヘア(逆左内)=Right Short, Long Left (Reverse L Inside)
+ショートヘア(逆左外)=Right Short, Long Left (Reverse L Out)
 
 // chara/side_curl.unity3d
-//サイドカール(両側)=
-//サイドカール(前)=
-//サイドカール(右側)=
-//サイドカール(左側)=
+サイドカール(両側)=Side Curl (Both Sides)
+サイドカール(前)=Side Curl (Previous)
+サイドカール(右側)=Side Curl (R Side)
+サイドカール(左側)=Side Curl (L)
 
 // chara/slant_patsun.unity3d
-//斜めぱっつん(右両外)=
-//斜めぱっつん(右前)=
-//斜めぱっつん(右前中)=
-//斜めぱっつん(右前右)=
-//斜めぱっつん(右前左)=
-//斜めぱっつん(右外右)=
-//斜めぱっつん(右外左)=
+斜めぱっつん(右両外)=Cropped at Sides (R Outside)
+斜めぱっつん(右前)=Cropped at Sides (Front R)
+斜めぱっつん(右前中)=Cropped at Sides (R Front Middle)
+斜めぱっつん(右前右)=Cropped at Sides (R Front R)
+斜めぱっつん(右前左)=Cropped at Sides (R Front L)
+斜めぱっつん(右外右)=Cropped at Sides (R Outside R)
+斜めぱっつん(右外左)=Cropped at Sides (R Outside L)
 
 // chara/slant_patsun_i.unity3d
-//斜めぱっつん(左両外)=
-//斜めぱっつん(左前)=
-//斜めぱっつん(左前中)=
-//斜めぱっつん(左前右)=
-//斜めぱっつん(左前左)=
-//斜めぱっつん(左外右)=
-//斜めぱっつん(左外左)=
+斜めぱっつん(左両外)=Cropped at Sides (L Both Sides)
+斜めぱっつん(左前)=Cropped at Sides (L Front)
+斜めぱっつん(左前中)=Cropped at Sides (L Front Center)
+斜めぱっつん(左前右)=Cropped at Sides (L Front R)
+斜めぱっつん(左前左)=Cropped at Sides (L Front L)
+斜めぱっつん(左外右)=Cropped at Sides (L Outside R)
+斜めぱっつん(左外左)=Cropped at Sides (L Out L)
 
 // chara/soft_bob_front.unity3d
-//ゆるふわボブ前(中)=
-//ゆるふわボブ前(中全)=
-//ゆるふわボブ前(中右)=
-//ゆるふわボブ前(中左)=
-//ゆるふわボブ前(内両)=
-//ゆるふわボブ前(内全)=
-//ゆるふわボブ前(内右)=
-//ゆるふわボブ前(内左)=
-//ゆるふわボブ前(外両)=
-//ゆるふわボブ前(外右)=
-//ゆるふわボブ前(外左)=
+ゆるふわボブ前(中)=Loose Fluffy Bobbed Bangs (During)
+ゆるふわボブ前(中全)=Loose Fluffy Bobbed Bangs (Center Full)
+ゆるふわボブ前(中右)=Loose Fluffy Bobbed Bangs (Center R)
+ゆるふわボブ前(中左)=Loose Fluffy Bobbed Bangs (Center L)
+ゆるふわボブ前(内両)=Loose Fluffy Bobbed Bangs (Inner Both)
+ゆるふわボブ前(内全)=Loose Fluffy Bobbed Bangs (Internal)
+ゆるふわボブ前(内右)=Loose Fluffy Bobbed Bangs (Inner R)
+ゆるふわボブ前(内左)=Loose Fluffy Bobbed Bangs (Inner L)
+ゆるふわボブ前(外両)=Loose Fluffy Bobbed Bangs (Outer Car)
+ゆるふわボブ前(外右)=Loose Fluffy Bobbed Bangs (Outside R)
+ゆるふわボブ前(外左)=Loose Fluffy Bobbed Bangs (Outside L)
 
 // chara/straight_curl_front.unity3d
-//ストレートカール前(両外)=
-//ストレートカール前(前)=
-//ストレートカール前(外右)=
-//ストレートカール前(外左)=
+ストレートカール前(両外)=Straight, Curled Bangs (Both Sides)
+ストレートカール前(前)=Straight, Curled Bangs (Previous)
+ストレートカール前(外右)=Straight, Curled Bangs (Outside R)
+ストレートカール前(外左)=Straight, Curled Bangs (Outside L)
 
 // chara/wind_roll.unity3d
 縦巻きロール=Drill Rolls
-//縦巻きロール(両外)=
-//縦巻きロール(中央)=
-//縦巻きロール(前)=
-//縦巻きロール(前右)=
-//縦巻きロール(前左)=
-//縦巻きロール(右外)=
-//縦巻きロール(左外)=
+縦巻きロール(両外)=Drill Rolls (Both Sides)
+縦巻きロール(中央)=Drill Rolls (Center)
+縦巻きロール(前)=Drill Rolls (Previous)
+縦巻きロール(前右)=Drill Rolls (Front R)
+縦巻きロール(前左)=Drill Rolls (Front L)
+縦巻きロール(右外)=Drill Rolls (Outer R)
+縦巻きロール(左外)=Drill Rolls (Outer L)
 
 // chara/wind_roll_i.unity3d
-//縦巻きロール(逆)=
-//縦巻きロール(逆両外)=
-//縦巻きロール(逆中央)=
-//縦巻きロール(逆前)=
-//縦巻きロール(逆前右)=
-//縦巻きロール(逆前左)=
-//縦巻きロール(逆右外)=
-//縦巻きロール(逆左外)=
+縦巻きロール(逆)=Drill Rolls (Reverse)
+縦巻きロール(逆両外)=Drill Rolls (Reverse Both Sides)
+縦巻きロール(逆中央)=Drill Rolls (Reverse Center)
+縦巻きロール(逆前)=Drill Rolls (Reverse)
+縦巻きロール(逆前右)=Drill Rolls (Reverse Front R)
+縦巻きロール(逆前左)=Drill Rolls (Reverse Front L)
+縦巻きロール(逆右外)=Drill Rolls (Reverse R Outside)
+縦巻きロール(逆左外)=Drill Rolls (Reverse L Out)
 
 // chara/xne/xne_ao_accmask.unity3d
 マスク改=Mask revision
@@ -601,13 +601,13 @@ Sunshine FH 6 - �؂葵���T�C�h�J�[��=Sunshine FH 6 - ???
 マインイヤリング=Mine Earring
 
 // chara/_mods/muvluv05.unity3d
-//99式衛士強化装備顔=
+99式衛士強化装備顔=Type 99 Pilot Fortified Suit (Face)
 
 // chara/_mods/muvluv06.unity3d
-//冥夜インテーク=
+冥夜インテーク=Underworld Intake
 
 // chara/_mods/muvluv07.unity3d
-//ぱっつんポニーテール=
+ぱっつんポニーテール=Ponytail
 
 // chara/_mods/natumi6.unity3d
 ゴーグル=Goggles

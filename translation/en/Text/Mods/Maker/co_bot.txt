@@ -11,13 +11,13 @@
 ネクロマンサーのズボン=Necromancer's Trousers
 
 // chara/373.unity3d
-//美波七海 bot=
+美波七海 bot=Minami Nanami bot
 
 // chara/anse/anse_chichinoren_bot.unity3d
-//あんせ 乳のれん エプロン=
+あんせ 乳のれん エプロン=Anse Breast Curtains Apron
 
 // chara/anse/anse_chichinoren_bot_s.unity3d
-//あんせ 乳のれん エプロン(キラキラver)=
+あんせ 乳のれん エプロン(キラキラver)=Anse Breast Curtains Apron (Sparkles ver)
 
 // chara/anse/anse_flare_skirt_ex.unity3d
 あんせフレアスカート=Anse Flare Skirt
@@ -32,10 +32,10 @@
 ハイウエストスカート(サスペンダー付き)=High-Waist Skirt (With Suspenders)
 
 // chara/anse/anse_sailor_cheerSK.unity3d
-//あんせセーラーチアスカート=
+あんせセーラーチアスカート=Anse Sailor Cheerleader Skirt
 
 // chara/anse/anse_salopette_skirt.unity3d
-//あんせサロペットスカート=
+あんせサロペットスカート=Anse Overalls Skirt
 
 // chara/anse/anse_sayoko_skirt.unity3d
 二段フリルスカート=Two-tiered Frilled Skirt
@@ -47,16 +47,16 @@
 休闲长裤=Casual long pants
 
 // chara/c.unity3d
-//C酱 gloves2=
+C酱 gloves2=Shiyuu Chishiki gloves2
 
 // chara/chivic/addcloth05.unity3d
-//スカート05_cloth=
+スカート05_cloth=Skirt 05_cloth
 
 // chara/choco.unity3d
-//癒月ちょこ in=
+癒月ちょこ in=Yuzuki Choco in
 
 // chara/ciela_co_bot_01.unity3d
-//シエラ 蒼空 skirt2 1st=
+シエラ 蒼空 skirt2 1st=Sierra skirt2 1st
 
 // chara/co_bot_00.unity3d
 ローライズロングパンツLv1=Low-rise long pants Lv1
@@ -78,7 +78,7 @@
 盗賊のズボン (Pantsu Allowed)=Thief's pants (Pantsu Allowed)
 
 // chara/escargot_003_03_co_bra_01.unity3d
-//カスタムバニー(下)=
+カスタムバニー(下)=Custom Bunny (Bottom)
 
 // chara/exe/miku.unity3d
 ミクスカート=Mini skirt
@@ -104,7 +104,7 @@
 スウェットパンツA=Sweatpants A
 
 // chara/hime_co_bot_03.unity3d
-//姫様 concert skirt ep5=
+姫様 concert skirt ep5=Hime Concert Skirt ep5
 
 // chara/jeans/rollup_jeans.unity3d
 ジーンズ(ロールアップ)=Jeans (Roll-up)
@@ -122,32 +122,32 @@ RUデニム(濡)=RU Denim (Wet)
 スキマホットパンツ=Skimmer Hot Pants
 
 // chara/kaguranana.unity3d
-//カグラナナ アーティストver. underwear=
+カグラナナ アーティストver. underwear=Karuga Nana Artist ver. underwear
 
 // chara/kimono_dress_bottom_fa.unity3d
-//フレアスカートA(着物柄)=
+フレアスカートA(着物柄)=Flared Skirt A (Kimono)
 
 // chara/kimono_dress_bottom_fb.unity3d
-//フレアスカートB(着物柄)=
+フレアスカートB(着物柄)=Flared Skirt B (Kimono)
 
 // chara/korone.unity3d
-//戌神ころね in=
+戌神ころね in=Inugami Korone in
 
 // chara/lamy.unity3d
-//雪花ラミィ coat=
+雪花ラミィ coat=Yukihana Lamy coat
 
 // chara/ltz/reverse_bunny.unity3d
-//逆バニースカート=
+逆バニースカート=Reverse Bunny Skirt
 
 // chara/luci7/buruma.unity3d
-//セクシーブルマ=
-//セクシーブルマ2=
+セクシーブルマ=Sexy Bloomers
+セクシーブルマ2=Sexy Bloomers 2
 
 // chara/luse_co_bot_64.unity3d
-//温泉ルウシェ フリルスカート=
+温泉ルウシェ フリルスカート=Onsen Rouche Frilly Skirt
 
 // chara/maho_bot_00.unity3d
-//ミラクル skirt=
+ミラクル skirt=Miracle skirt
 
 // chara/mf_alice.unity3d
 プリーツスカート (アリス)=Pleated Skirt (Alice)
@@ -178,10 +178,10 @@ RUデニム(濡)=RU Denim (Wet)
 穴あきホットパンツ=Hot Pants with Holes
 
 // chara/mio.unity3d
-//大神ミオ bot=
+大神ミオ bot=Ookami Mio bot
 
 // chara/mk_co_bot_20.unity3d
-//マジカル skirt=
+マジカル skirt=Magical skirt
 
 // chara/mm/buruma_sukima1.unity3d
 食い込みブルマ=Blooming Bloomers
@@ -250,10 +250,10 @@ NBYスカート=NBY Skirts
 NBYパンツ=NBY Pants
 
 // chara/nin/nin_bot_01.unity3d
-//くノ一前垂れ=
+くノ一前垂れ=Ninja Girl Apron
 
 // chara/onepiece.unity3d
-//ワンピース(下だけ)=
+ワンピース(下だけ)=One-Piece (Bottom Only)
 
 // chara/sage/sagesk.unity3d
 ボックススカートAへそ出し=Box skirt A Navel-baring
@@ -269,12 +269,12 @@ NBYパンツ=NBY Pants
 黎恩服饰=Beach Beach Clothing
 
 // chara/shortjeans/ripped_shortjeans.unity3d
-//デニムショートパンツ=
-//デニムホットパンツ=
+デニムショートパンツ=Denim Shorts
+デニムホットパンツ=Denim Hot Pants
 
 // chara/shortjeans/shortjeans_belt.unity3d
-//デニムショートパンツ(ベルト用)=
-//デニムホットパンツ(ベルト用)=
+デニムショートパンツ(ベルト用)=Denim Shorts (For Belt)
+デニムホットパンツ(ベルト用)=Denim Hot Pants (For Belt)
 
 // chara/sunshine/co_bot_00/p_cf_bot_darklace00.unity3d
 ダークレーススカート=Dark Lace Skirt
@@ -334,13 +334,13 @@ NBYパンツ=NBY Pants
 モコモコボトム=Fluffy Bottom
 
 // chara/umy.unity3d
-//呜米Umy bot=
+呜米Umy bot=MeUmy bot
 
 // chara/umy2.unity3d
-//呜米Umy公式服 bot=
+呜米Umy公式服 bot=MeUmy Official bot
 
 // chara/ura.unity3d
-//乌拉 bot=
+乌拉 bot=Ura bot
 
 // chara/xne/xne_co_bot_altspants.unity3d
 へそ出し短パン=Bellybutton Shorts

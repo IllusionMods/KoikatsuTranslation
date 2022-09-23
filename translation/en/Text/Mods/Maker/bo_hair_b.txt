@@ -22,7 +22,7 @@
 なし=None
 
 // chara/hair_base.unity3d
-//汎用髪型ベース=
+汎用髪型ベース=Generic Base Hair
 
 // chara/Hayashi/vhair02_b_02.unity3d
 くせっ毛ベリーショート=Curly Belly Short

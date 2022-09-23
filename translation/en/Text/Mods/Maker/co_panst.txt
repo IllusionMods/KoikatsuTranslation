@@ -6,9 +6,9 @@
 サイドレースレギンス=Side Lace Leggings
 
 // chara/AntY/co_panst_00.unity3d
-//アラストル Ant Y Meow Socks 1=
-//アラストル Ant Y Meow Socks 2=
-//アラストル Ant Y Meow Socks 3=
+アラストル Ant Y Meow Socks 1=Alastor Ant Y Meow Socks 1
+アラストル Ant Y Meow Socks 2=Alastor Ant Y Meow Socks 2
+アラストル Ant Y Meow Socks 3=Alastor Ant Y Meow Socks 3
 アラストル Ant Y Stockings Solid 1=Arastole Ant Y Stockings Solid 1
 アラストル Ant Y Stockings Solid 1 (Garter Belt)=Arastole Ant Y Stockings Solid 1 (Garter Belt)
 アラストル Ant Y Stockings Solid 2=Arastole Ant Y Stockings Solid 2
@@ -26,7 +26,7 @@
 休闲口袋=Casual Bag
 
 // chara/c.unity3d
-//C酱 jacket=
+C酱 jacket=Shiyuu Chishiki jacket
 
 // chara/co_bot_00.unity3d
 [Add]ゆったりロングパンツ=[Add] Loose Long Pants
@@ -52,7 +52,7 @@
 パンスト（下げ）=Pantyhose (Lowered)
 
 // chara/escargot_003_06_co_panst_01.unity3d
-//網タイツ(ハイレグ対応)(opt①or②)=
+網タイツ(ハイレグ対応)(opt①or②)=Mesh Tights (for High Legged) (opt ①/②)
 
 // chara/JK/BB_socks.unity3d
 アイドルニーソックス2=Idol Knee Socks 2
@@ -64,10 +64,10 @@
 アイドルショルダー=Idol Shoulder
 
 // chara/korone.unity3d
-//戌神ころね socks=
+戌神ころね socks=Inugami Korone socks
 
 // chara/lamy.unity3d
-//雪花ラミィ frills=
+雪花ラミィ frills=Yukihana Lamy frills
 
 // chara/Matne/matne_panst_00.unity3d
 チア用アンダースコート=Cheerleading Underskirt
@@ -79,7 +79,7 @@
 レーナ[86-EIGHTY SIX-]=Raina [86-EIGHTY SIX-]
 
 // chara/mio.unity3d
-//大神ミオ tail=
+大神ミオ tail=Ookami Mio tail
 
 // chara/mm/buruma.unity3d
 ブルマ=Bloomers
@@ -166,13 +166,13 @@
 スパッツ改 (太もも用ベルト/左のみ)=Spats Kai (Belt for Thighs/Left Only)
 
 // chara/umy.unity3d
-//呜米Umy legwear=
+呜米Umy legwear=MeUmy legwear
 
 // chara/umy2.unity3d
-//呜米Umy公式服 legwear=
+呜米Umy公式服 legwear=MeUmy Official legwear
 
 // chara/ura.unity3d
-//乌拉 legwear=
+乌拉 legwear=Ura legwear
 
 // chara/xne/xne_co_top_altbunny.unity3d
 マジシャン風シャツ（襟のみ）=Magician-style shirt (Collar only)

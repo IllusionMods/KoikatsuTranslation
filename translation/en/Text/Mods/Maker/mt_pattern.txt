@@ -36,21 +36,21 @@ SKBR-ＴシャツS=SKBR-T-shirt S
 鮫肌=Shark skin
 
 // chara/patterns.unity3d
-//たす 線幅12=
-//ぺけ 線幅12=
-//ぺけ 線幅20=
-//ぺけ 線幅24=
-//ストライプ 1:3=
-//ストライプ 1:7=
-//ボーダー 1:3=
-//ボーダー 1:7=
-//斜ギンガム 1:1=
-//斜ギンガム 1:2=
-//格子 線幅3=
-//格子 線幅5=
-//横線 線幅5=
-//縦線 線幅5=
-//菱ドット=
+たす 線幅12=Plus Width 12
+ぺけ 線幅12=Cross Width 12
+ぺけ 線幅20=Cross Width 20
+ぺけ 線幅24=Cross Width 24
+ストライプ 1:3=Vertical Stripes 1:3
+ストライプ 1:7=Vertical Stripes 1:7
+ボーダー 1:3=Border 1:3
+ボーダー 1:7=Border 1:7
+斜ギンガム 1:1=Diagonal Gingham 1:1
+斜ギンガム 1:2=Diagonal Gingham 1:2
+格子 線幅3=Grid Width 3
+格子 線幅5=Grid Width 5
+横線 線幅5=Horizontal Width 5
+縦線 線幅5=Vertical Width 5
+菱ドット=Diamond Dots
 
 // chara/sunshine/mt_pattern_00.unity3d
 ひまわり=Sunflower

@@ -3,13 +3,13 @@
 //
 
 // chara/anse/anse_chichinoren_shorts.unity3d
-//あんせ 乳のれん ショーツ=
+あんせ 乳のれん ショーツ=Anse Breast Curtains Underwear
 
 // chara/anse/anse_chichinoren_shorts_s.unity3d
-//あんせ 乳のれん ショーツ(きらきらver)=
+あんせ 乳のれん ショーツ(きらきらver)=Anse Breast Curtains Underwear (Glitter ver)
 
 // chara/choco.unity3d
-//癒月ちょこ under=
+癒月ちょこ under=Yuzuki Choco under
 
 // chara/co_bot_00.unity3d
 ブルマ=Bloomers
@@ -29,27 +29,27 @@
 サンタ=Santa Claus
 
 // chara/escargot_003_01C_co_top_01.unity3d
-//悪魔のハイレグ(Gloss)のみ(opt①or②)=
-//悪魔のハイレグのみ(opt①or②)=
+悪魔のハイレグ(Gloss)のみ(opt①or②)=High-Legged Devil (Gloss) Only (opt ①/②)
+悪魔のハイレグのみ(opt①or②)=High-Legged Devil Only (opt ①/②)
 
 // chara/escargot_003_03_co_bra_01.unity3d
-//カスタムバニー(下)=
+カスタムバニー(下)=Custom Bunny (Bottom)
 
 // chara/hundosi_k.unity3d
 ふんどし_k=Loincloth_k
 
 // chara/korone.unity3d
-//戌神ころね under=
+戌神ころね under=Inugami Korone under
 
 // chara/lamy.unity3d
-//雪花ラミィ pants=
+雪花ラミィ pants=Yukihana Lamy pants
 
 // chara/ltz/reverse_bunny.unity3d
-//逆バニー下(柄A)=
-//逆バニー下(柄B)=
+逆バニー下(柄A)=Reverse Bunny Bottom (Pattern A)
+逆バニー下(柄B)=Reverse Bunny Bottom (Pattern B)
 
 // chara/luci7/microbikini_shorts.unity3d
-//超マイクロビキニ=
+超マイクロビキニ=Ultra-Micro Bikini
 
 // chara/mae_dirtypair.unity3d
 Maハイローショーツ=Ma High-Low Panties
@@ -125,7 +125,7 @@ Maハイローショーツ=Ma High-Low Panties
 女下帯=Women's Underwear
 
 // chara/rena.unity3d
-//夜見れな under=
+夜見れな under=Yorumi Rena under
 
 // chara/sunshine/co_shorts_00/p_cf_shorts_bribon.unity3d
 結びビキニ=Knotted Bikini
@@ -155,13 +155,13 @@ Maハイローショーツ=Ma High-Low Panties
 ソフトTバック=Soft T-Back
 
 // chara/umy.unity3d
-//呜米Umy pants=
+呜米Umy pants=MeUmy pants
 
 // chara/umy2.unity3d
-//呜米Umy公式服 underwear=
+呜米Umy公式服 underwear=MeUmy Official underwear
 
 // chara/ura.unity3d
-//乌拉 underwear=
+乌拉 underwear=Ura underwear
 
 // chara/xne/xne_co_bot_hlbikini.unity3d
 ハイレグビキニ=High-Leg Bikini

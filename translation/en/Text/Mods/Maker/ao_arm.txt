@@ -40,11 +40,11 @@ AIダクトテープ芯=AI duct tape core
 レーナ[86-EIGHTY SIX-]=Raina [86-EIGHTY SIX-]
 
 // chara/onepiece.unity3d
-//ワンピース右袖=
-//ワンピース左袖=
+ワンピース右袖=One-piece R Sleeve
+ワンピース左袖=One-piece L Sleeve
 
 // chara/suzukihina.unity3d
-//鈴木ヒナ arm part=
+鈴木ヒナ arm part=Suzuki Hina arm part
 
 // chara/_mods/claire.unity3d
 クレア丸=Claire Circle
@@ -97,9 +97,9 @@ Qテクターパーツ=Q-Tector Parts
 ミロ肩=Milo Shoulder
 
 // chara/_mods/muvluv04.unity3d
-//99式手首のヤツ右=
-//99式手首のヤツ左=
-//99式衛士強化装備肩=
+99式手首のヤツ右=Type 99 Wrist (R)
+99式手首のヤツ左=Type 99 Wrist (L)
+99式衛士強化装備肩=Type 99 Pilot Fortified Suit (Shoulder)
 
 // chara/_mods/takamura2.unity3d
 衛士強化装備肩=Pilot Fortified Suit (Shoulder)

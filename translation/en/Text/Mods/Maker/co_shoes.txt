@@ -12,31 +12,31 @@
 ネクロマンサーのブーツ=Necromancer Boots
 
 // chara/373.unity3d
-//美波七海 shoes=
+美波七海 shoes=Minami Nanami shoes
 
 // chara/anse/anse_blucher.unity3d
 プレーントゥ外羽根=Plain toe outer feather
 
 // chara/anse/anse_half_boots.unity3d
-//あんせハーフブーツ=
+あんせハーフブーツ=Anse Half Boot
 
 // chara/anse/anse_half_boots_long.unity3d
-//あんせハーフブーツ(long)=
+あんせハーフブーツ(long)=Anse Half Boot (long)
 
 // chara/anse/anse_mary_jane_pumps.unity3d
-//あんせマリージェーン パンプス=
+あんせマリージェーン パンプス=Anse Mary Janes
 
 // chara/anse/anse_rain_boots.unity3d
 あんせ長靴=Safety Boots
 
 // chara/anse/anse_sneakers.unity3d
-//あんせ スニーカー=
+あんせ スニーカー=Anse Sneakers
 
 // chara/c.unity3d
-//C酱 shoes=
+C酱 shoes=Shiyuu Chishiki shoes
 
 // chara/choco.unity3d
-//癒月ちょこ shoes=
+癒月ちょこ shoes=Yuzuki Choco shoes
 
 // chara/co_shoes.unity3d
 HM男主白皮鞋=HM boots
@@ -52,16 +52,16 @@ EC皮靴(改)=EC leather shoes (Modified)
 サンタブーツ=Santa Boots
 
 // chara/kaguranana.unity3d
-//カグラナナ アーティストver. shoes=
+カグラナナ アーティストver. shoes=Karuga Nana Artist ver. shoes
 
 // chara/korone.unity3d
-//戌神ころね shoes=
+戌神ころね shoes=Inugami Korone shoes
 
 // chara/kurumi.unity3d
-//[蓬莱伝説]七瀬くるみ shoes=
+[蓬莱伝説]七瀬くるみ shoes=[Horai Densetsu] Nanase Kurumi shoes
 
 // chara/lamy.unity3d
-//雪花ラミィ shoes=
+雪花ラミィ shoes=Yukihana Lamy shoes
 
 // chara/mf_alice.unity3d
 ビキニアーマー[アリス]=Bikini Armor [Alice][SAO
@@ -87,10 +87,10 @@ EC皮靴(改)=EC leather shoes (Modified)
 レーナ[86-EIGHTY SIX-]=Raina [86-EIGHTY SIX-]
 
 // chara/mikop.unity3d
-//さくらみこ shoes=
+さくらみこ shoes=Sakura Miko shoes
 
 // chara/mio.unity3d
-//大神ミオ shoes=
+大神ミオ shoes=Ookami Mio shoes
 
 // chara/mod/mod_aurora_al.unity3d
 水上靴_オーロラAL=Water shoes_Aurora AL
@@ -111,7 +111,7 @@ HS2护腿靴=HS2 legging shoes
 琴鞋子=Piano shoes
 
 // chara/rena.unity3d
-//夜見れな shoes=
+夜見れな shoes=Yorumi Rena shoes
 
 // chara/Sen3_hair.unity3d
 闪轨本校制服=Internal channels
@@ -150,16 +150,16 @@ HS2护腿靴=HS2 legging shoes
 モコモコラビットフット=Fluffy Rabbit Foot
 
 // chara/suzukihina.unity3d
-//鈴木ヒナ shoes=
+鈴木ヒナ shoes=Suzuki Hina shoes
 
 // chara/umy.unity3d
-//呜米Umy shoes=
+呜米Umy shoes=MeUmy shoes
 
 // chara/umy2.unity3d
-//呜米Umy公式服 shoes=
+呜米Umy公式服 shoes=MeUmy Official shoes
 
 // chara/ura.unity3d
-//乌拉 shoes=
+乌拉 shoes=Ura shoes
 
 // chara/ws54090/co_shoes_00.unity3d
 (Stiletto) アイドルパンプス=(Stiletto) Idle Pumps

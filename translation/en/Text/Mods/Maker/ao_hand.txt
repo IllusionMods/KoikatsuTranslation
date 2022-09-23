@@ -42,7 +42,7 @@ AI杵=AI pestle
 風船=Balloons
 
 // chara/luse_ao_hand_00.unity3d
-//温泉ルウシェ 傘=
+温泉ルウシェ 傘=Onsen Rouche Umbrella
 
 // chara/mf_alice.unity3d
 金木犀の剣[アリス]=Kinmokusei no Tsurugi [Alice][SAO
@@ -73,7 +73,7 @@ AI杵=AI pestle
 トリスタン・ボウの矢[SAO]=Arrow of Tristan Bow [SAO].
 
 // chara/mirai_bracelet_00.unity3d
-//ミラクル bracelet=
+ミラクル bracelet=Miracle bracelet
 
 // chara/mod/mod_eden_vb.unity3d
 神杖ウルク_VBエデン=Divine Staff Uruk_VB Eden
