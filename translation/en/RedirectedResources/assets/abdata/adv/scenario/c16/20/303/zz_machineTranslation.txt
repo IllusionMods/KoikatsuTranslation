@@ -1,0 +1,14 @@
+「あら、もうこんな時間になってるなんて。もうすぐ終了時刻よ。どうする？」=“Oh, I can't believe how late it is. It's almost time to go. What do we do now?”
+CHOICE:『延長を希望します！』=CHOICE: "I want an extension!"
+CHOICE:『今日は帰ろうか』=Let's go home for today.
+「もっと[H名]と歌いたい！　延長希望！」=“I want to sing with [H名] more!　I want an extension!”
+「そうね、丁度ノってきたところだし。アナタがその気なら、私は付き合うわよ。延長の電話、入れておくわね」=“I know, I'm just getting into it. I'll go with you if you're up for it. I'll call in an extension.”
+「ありがとう。ここからが本番だから、二人で歌いまくろう！」=“Thanks, Mai. We're in for the real thing now, so let's sing our hearts out!”
+「うーん、延長代も馬鹿にならないし。今日は素直に帰ろうか」=“I'm not sure how much I'm going to be able to afford to pay for the extra time. Let's just go home today, honestly.”
+「賛成ね。延長代を払うくらいなら、もう一度来た方がお得だもの」=“I agree. I'd rather come back again than pay for an extension.”
+「だよね。また近いうちに来ればいいだし。それじゃあ、出よっか」=“I know. We'll come back soon. Okay, let's get out of here.”
+「だよね。また近いうちに来ればいいだし。次の曲を一緒に歌って終わりにしようか」=“Yeah, that's right. We'll come back soon. Let's sing the next song together and be done with it.”
+「フフッ、デュエットで締めるのね。曲は私が選んでいいかしら？」=“I'm going to close with a duet. I'll choose the song.”
+「もちろん！」=“Be my guest!”
+『果てしない空の下 どこかにきっとあるんだ♪』=『I'm sure it's here somewhere, under this boundless bright sky♪』
+（ふふ、楽しそうに歌ってるなぁ……俺も負けてられないぞ！）=(I'm not going to let you beat me either!)

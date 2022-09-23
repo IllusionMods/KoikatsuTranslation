@@ -1,0 +1,7 @@
+「こちらで、お別れですね。少し、寂しいですが……」=“I guess this is where we say goodbye. I'm going to miss you...”
+CHOICE:「……この後、俺の家に来ない？」=... Do you want to come over to my place afterwards?
+CHOICE:「俺も寂しいけど、またね」=I'll miss you too, but I'll see you later.
+「……この後、俺の家に来ない？　まだ[H名]と一緒に居たくて」=“... Do you want to come to my house after this?　I still want to be with [H名].”
+「は、はい！　願ってもいないお誘いです！　ご迷惑でなければ、是非っ！」=“Yes, yes!　It's the kind of offer I was hoping for!　If it's not too much trouble, I'd love to!”
+「うん、俺も寂しいけど仕方ないよね。それじゃ、またね」=“If it's not too much trouble, I'd love to! Yeah, I'll miss you too, but it can't be helped. I'll see you later.”
+「すみません、困らせるような事を言って……それでは、失礼いたします」=“I'm sorry, I didn't mean to embarrass you... I'll leave you alone.”

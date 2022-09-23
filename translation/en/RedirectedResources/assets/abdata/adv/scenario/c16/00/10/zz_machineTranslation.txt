@@ -1,0 +1,7 @@
+「コイカツ部に入ると私に何かメリットがあるのかしら？」=“What's in it for me?”
+「コイカツができる！」=“I can do koikatsu!”
+「全然説明になってないわ。もっと具体的に言って」=“That's not an explanation at all. You have to be more specific.”
+「うーん、恋愛の練習ができる？　ほら、何事にも練習は必要でしょ？」=“Hmmm, can I practice my love life?　I'm sure you'll be able to find a way.”
+「プッ、それ、私の真似をしてるつもり？」=“Are you trying to imitate me?”
+「あはは……ごめん。それで、どうかな？　コイカツ部、入ってくれる？」=“I'm sorry. So, what do you think?　Will you join our koikatsu club?”
+「そうね。何事にも練習は必要だもの。色々経験させてもらうわ。よろしくね」=“Yeah, you're right. I'm going to get a lot of experience. I'll get a lot of experience. I'm looking forward to it.”

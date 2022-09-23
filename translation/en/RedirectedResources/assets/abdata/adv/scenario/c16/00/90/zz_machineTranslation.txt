@@ -1,0 +1,13 @@
+「あー、その……私達って、付き合ってるじゃない？」=“Uh, you know... we're dating, right?”
+「そうだけど、急にどうしたの？」=“Yeah, but what's going on all of a sudden?”
+「えっとね……なんていうか、ならそれ相応の呼び方というか……愛称で呼び合うって良いと思わない？」=“You know..., it's nice to call each other with appropriate names or ... nicknames, don't you think?”
+「あー、そういう事ね。うん、全然オッケーだよ！」=“Oh, that's what I meant. Yeah, that's totally cool!”
+「はぁ、良かった……。じゃあ、早速だけど……呼んでみるわね」=“I'm glad to hear that... I'll call ... right away.”
+「っ！　こ、これは……凄いね。照れるっていうか……あ、俺も愛称で呼んでいい、んだよね？」=“You tricked me!　This is ... awesome. I'm not embarrassed, but ... I can call you by your nickname too, right?”
+「え、えぇ、もちろんよ。好きなように呼んでみて」=“Yeah, yeah, sure. You can call me whatever you want.”
+「わかった。じゃあいくよ……[Hあだ名]」=“Okay. Okay, here we go... [Hあだ名]”
+「んっ……確かに、凄いわね。やっぱり呼び方っていうのは個を表す上でかなり重要な要素だと……」=“I'm sure you're right..., it's great. I think that the way we call ourselves is a very important part of what makes us who we are...”
+「はは、そんなに小難しく言わなくても。でも、[Hあだ名]のそういうとこ可愛いよね」=“Haha, you don't have to say it so hard. But [Hあだ名]'s cute that way”
+「かわっ！？　うぅぅ……そうやってからかうなら、この話は無しにします！」=“Oh, my God!　If you're going to make fun of me like that, I'm not going to have this conversation!”
+「ちょ、待って！　今のなし！　謝るから！　たまにでもいいから愛称で呼び合おうよ」=“Wait!　Not now!　I apologize!　Let's call each other by our nicknames once in a while.”
+「むぅぅ……はぁ、まぁいいわ。私から言い出したわけだし……割と気に入ったし」=“Muu... haha, well, okay. I'm the one who started it, and I rather like ... it.”

@@ -1,0 +1,3 @@
+「[H名]、おはよう！」=“Morning, [H名]!”
+「おはよ～♪　今日はどこに行くの？　お任せでいいのかな？」=“Good morning. Where are we going today?　I don't know. I guess I'll leave it to you.”
+「うん、もちろん。あ、でも[H名]の希望があるなら言ってね。俺のプランより、そっちが優先だからさ」=“Yeah, sure. Yeah, of course. Oh, but if [H名] has a preference, let me know. That takes precedence over my plans.”

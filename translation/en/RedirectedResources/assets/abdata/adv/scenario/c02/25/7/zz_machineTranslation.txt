@@ -1,0 +1,7 @@
+「ふふ……うふふ……おーっほっほっほ！　やっと、わたくしに見合う殿方が表れたみたいね！」=“I'm so happy to be able to feel [P名]'s feelings all over my body...　I've finally found a gentleman who is worthy of me!”
+「う、うん……そう言ってくれて嬉しいよ」=“I'm glad you said that...”
+「でも油断なさらないでね？　自らの価値を落とすような言動は慎むこと。よろしくて？」=“But don't let your guard down.　Don't do or say anything that will diminish your value. Pleased to meet you.”
+「わかってるよ。きみに嫌われたくないし……」=“I know. I don't want you to hate me...”
+「いい心がけですわ。もちろん、わたくしも努力し続けます！　あなたにもっと関心をもってもらえるように」=“That's a good attitude. Of course, I'll keep trying!　I'm trying to get you to pay more attention to me.”
+「うん……」=“Yeah...”
+（なんだかんだ言ってるけど、ちゃんと好きになってくれてるんだな……）=(I'm not sure what you're talking about, but I'm sure she likes you...)

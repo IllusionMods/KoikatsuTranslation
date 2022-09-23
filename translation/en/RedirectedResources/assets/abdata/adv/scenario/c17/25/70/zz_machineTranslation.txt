@@ -1,0 +1,4 @@
+「ふう……これでとりあえずひと段落ね」=“Phew ... that's all over for now.”
+「えっ、出されてた課題、もう終わったの？」=“What, did you finish the assignment already?”
+「ええ。今回の量なら、このぐらいの時間で終わらせるものでしょ？」=“Yeah. With the amount of work we've done, this should only take about this long, right?”
+「そ、そうなのかな？　ははは……」=“Is that so?　Ha-ha-ha ...”

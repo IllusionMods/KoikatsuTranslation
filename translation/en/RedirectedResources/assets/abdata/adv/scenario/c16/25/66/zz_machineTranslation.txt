@@ -1,0 +1,5 @@
+「あっ、ちょっと寄りたい所があるのだけれど……いいかしら？」=“Oh, I'd like to make a quick stop at ...”
+「いいよ。どこの店？」=“Sure. Where is it?”
+「ん？　普通の本屋さんよ。そうそう、昨日の新刊でアナタにオススメの本があったのよ」=“Hmm?　Just a bookshop. Yes, I saw a new book yesterday that I thought you might like.”
+「へぇ、どんなの？」=“What's it like?”
+「経営学の本なんだけどね、読んでおいて損はないから。フフッ、きっと気に入ると思うの♪」=“It's a book on business administration, though, so it's not a bad read. You'll love it.”

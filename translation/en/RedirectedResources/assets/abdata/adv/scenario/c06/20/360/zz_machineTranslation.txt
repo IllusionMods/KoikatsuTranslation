@@ -1,0 +1,6 @@
+「私、またはしたない姿を晒してしまいましたね。貴方のお顔が見れません……」=“I'm sorry, I'm in a bit of a rush. I can't see your face...”
+「俺が好きで晒させたんだから、大丈夫だよ」=“I'm not going to let you go to jail.”
+「はい。貴方がそう仰るなら……」=“Yes, sir. If you say so...”
+「今日もいっぱい興奮させてくれてありがとう。俺、[H名]にはいつも骨抜きにされちゃうんだ」=“Thank you for making me so excited today. Thank you for making me so excited today. [H名] always makes me feel like a million bucks.”
+「未熟者の私には勿体ないお言葉です。貴方が私に身をゆだね、求めてくださるから、貴方を骨抜きにする私が発揮されます」=“I'm not sure how much I'm going to be able to do.”
+「俺色に染めたってやつかな、男冥利につきるよ……っと、そろそろ時間だね。行こうか」=“I guess it's my color, huh? It's a man's dream come true... Well, it's time to go. It's time to go.”

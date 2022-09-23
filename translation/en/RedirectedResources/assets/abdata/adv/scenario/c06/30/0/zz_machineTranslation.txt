@@ -1,0 +1,8 @@
+「こんにちは。えっと……[H姓]さんだよね。俺は[P名前]」=“Hello. You're ... [H姓], right? I'm [P名前].”
+「お噂はかねがね伺っております。私のことをご存じなのですか？」=“I've heard a lot about you. You know about me?”
+「うん、名前だけね。おしとやかだって有名だよ」=“Yeah, it's just a name. Yeah, it's just a name. I'm famous for being graceful.”
+「うふふ、人の噂は倍になるとはよく言ったものです。あなたの悪い噂にも、きっと尾ひれが付いているのでしょうね」=“I'm sure you'll be able to get a tail on your bad rumors, too. I'm sure your bad rumors have a tail.”
+「悪い噂って、コイカツ部の……？」=“Bad rumors about the Koikatsu club ...?”
+「ええ。ですが、貴方は噂よりもずっと心の綺麗な方のようです。私は自分の目と耳を信じます」=“I know. I'm sure you're a lot more beautiful than the rumors say. I believe my eyes and ears.”
+「！　ありがとう。じゃあ、ちょっとお話をさせてもらってもいいかな」=“!　Thank you. Well then, may I have a word with you?”
+（落ち着いている上に、しっかりと芯の通った女の子だな。まさに大和撫子って感じだ）=(I'm sure she's a calm and collected girl with a solid core. She's exactly like a Yamato Nadeshiko.)

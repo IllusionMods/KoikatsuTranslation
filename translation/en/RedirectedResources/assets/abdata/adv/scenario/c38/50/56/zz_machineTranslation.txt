@@ -1,0 +1,5 @@
+「そ、そんなっ……私に何か至らない点がございましたか？　すぐに改善いたしますので、どうか……」=“I'm sorry... Am I in any way inadequate?　Please ... let me know if there is anything I did wrong and I will correct it immediately.”
+「ごめん……そういうことじゃないんだ」=“I'm sorry... That's not what I meant.”
+「で、では、どういうことなのでしょう？　私にはもう、出来る事は無いのでしょうか？」=“So, what does it mean?　Is there nothing more I can do?”
+「うん、いきなりで悪いと思ってる。けど、もう……」=“Yeah, I'm sorry for coming out of the blue. I'm sorry for coming out of the blue, but I've already been to ...”
+「……わかりました。んっ、貴方と一時でもパートナーでいれた事、光栄でした……さようなら」=“... Okay. Hmm, it has been an honor to be your partner for even a moment... Goodbye.”

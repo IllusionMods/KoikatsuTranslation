@@ -1,0 +1,14 @@
+「ふぅ……堪能いたしましたわ。あら、もうこんな時間ですわね」=“I've enjoyed it so much. I'm not sure how long it's been since I've seen you.”
+CHOICE:『延長して、もうちょっと歌おうよ』=『Let's extend it and sing a bit more』
+CHOICE:『帰る仕度をしよっか』=『Let's get ready to go home』
+「んー、もうちょっと[H名]さんの歌を聞きたいな」=“Hmm, I'd like to hear [H名] sing a little more.”
+「おーっほっほっほ、よろしくてよ！　まだまだ喉は絶好調ですもの！」=“Ho-ho-ho, my dear!　My throat is still in perfect condition!”
+「う、うん……高笑いが耳に響いて、痛いぐらいだったよ……それじゃ延長決定だね」=“Ummm... the high pitched laugh rang in my ears and it was almost painful... so I guess I'll have to extend it.”
+「歌はこれぐらいにしておこうか。喉、大丈夫？」=“I'm going to stop singing now. Is your throat okay?”
+「おーっほっほっほ……オホンゴホン……少し、張り切り過ぎたかもしれませんわね」=“I think I may have been a little overzealous.”
+「喉のケア、しっかりね」=“Take care of your throat.”
+「そろそろ出よっか」=“We should head out soon.”
+「お待ちになって。一曲歌える時間はありますわ」=“Please wait. There's still time for a song.”
+「それじゃあ、あと一曲歌って帰ろう。そうだ。せっかくならデュエットで――」=“Okay, let's sing one more song and then we'll go home. I'll be right back. I'm going to sing you a duet.”
+「小さな手の平 掴める物は きっと限られているけど──」=“I'm sure there's only so much I can hold in my tiny little palm, but...”
+「もう入れてる……」=“I'm already on it...”

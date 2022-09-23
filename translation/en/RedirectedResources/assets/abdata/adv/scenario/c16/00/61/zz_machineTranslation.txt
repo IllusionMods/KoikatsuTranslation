@@ -1,0 +1,14 @@
+「さぁ、今日は思い切り楽しみましょう。色々予定も考えてきてあるの」=“Come on, let's have some fun today. I've got lots of plans.”
+「おっけー！　じゃあ早速行こうか！　（俺も考えてきたけど、彼女に任せた方がよさそうかな）」=“I'm not sure.　I've been thinking about it too, but I'm going to leave it to her.　（I've been thinking about it too, but I think I'd better leave it to her.)”
+「ねぇ知ってる？　あそこのケーキ、雑誌で紹介されててね」=“Hey, you know what?　You know that cake over there? It was featured in a magazine.”
+「知ってるよ。実は俺も下調べしてて、一緒に行きたいなって思ってたんだ」=“I know. I've been looking into it and I've been wanting to go with you.”
+「へぇ、そうだったのね。フフッ、アナタも下調べしてくれてたんだ……ちょっと嬉しい」=“Oh, I didn't know that. I'm glad you did your homework too...”
+「彼女とデートだからね。そりゃ気合も入れるよ」=“It's a date with her. That's because I'm going on a date with her. That's why I'm so psyched.”
+「彼女……ね。そう呼ばれると、なんだかくすぐったい。ふふっ、ケーキ食べに行きましょ♪」=“She's ... I'm kind of tickled to be called that. Let's go eat cake.”
+「ふぅ、ちょっとはしゃぎ過ぎたかしら……もうこんな時間。最後にどこか行きたいところはある？」=“I think I've had a bit too much fun... It's late now. I'm not sure how much I'm going to be able to do.”
+CHOICE:「……よければ家に来ない？　もうちょっと一緒にいたいな」=CHOICE: "... if you don't mind, why don't you come over to my house?　I'd like to hang out with you a little longer."
+CHOICE:「特にないかな」=CHOICE: "Nothing in particular?"
+「行きたいところっていうか……よければ家に来ない？　もうちょっと一緒にいたいな……」=“I mean, I'd rather go to ... home, if you don't mind.　I'd like to stay with you a little longer...”
+「えっ、あ、アナタの家？　ぁ……うん。いいわよ。私も……もう少し一緒にいたいし」=“What, uh, your house?　Oh... yeah. Yeah, it's fine. I'd like ... to spend a little more time with you.”
+「うーん、特にないかな。もう遅いし、送っていくよ」=“Well, not really. It's late. I'll walk you home.”
+「そう……うん、そうね。家に帰るまでがデートよ。最後までエスコートしてね」=“Yeah... Yeah, you're right. You're on a date until you get home. You have to escort me to the end.”

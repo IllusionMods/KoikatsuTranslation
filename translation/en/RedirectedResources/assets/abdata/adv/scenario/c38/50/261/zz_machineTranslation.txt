@@ -1,0 +1,4 @@
+「その……[H名]さん？　えぇと、溜まってらっしゃったのでしょうか？」=“This ...[H名]?　Well, did you have a lot on your mind?”
+「そ、そのようでしたね……今はその、はい、もう大丈夫です。ご迷惑をおかけして、申し訳ございません」=“I'm sorry for the inconvenience. I'm sorry for the inconvenience.”
+「いやまぁ、俺も気持ちよくしてもらったし、迷惑ではなかったんだけど……」=“No, well, I was made to feel good, and it wasn't a bother...”
+「今度からは、もっと普通の場所でして頂けると……ありがたい、かな？」=“I'd appreciate it if we could do it in a more normal place next time...”

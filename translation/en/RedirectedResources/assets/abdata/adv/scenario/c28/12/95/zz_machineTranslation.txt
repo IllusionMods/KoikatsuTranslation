@@ -1,0 +1,3 @@
+「ふふっ、ここで熟睡するとは無用心じゃぞ」=“I'm sure you'll be able to find a way to get some sleep.”
+「……こんな風に襲われるから？」=“Because you're getting attacked like this ...?”
+「ふむ、大正解なのじゃ！」=“I'm sure it's a good idea!”

@@ -1,0 +1,7 @@
+「うぅ、どこかその……汚れたままになっていたりしませんよね？」=“Ugh, you're not leaving that ... dirty anywhere, are you?”
+「大丈夫だと思うよ？　まぁ、もし何か残ってても、何してたかまではわからないでしょ」=“I'm sure it's fine.　Well, if there's anything left, you won't know what you were doing.”
+「それは……お言葉ですが、少し楽観的過ぎるかと思います……」=“That's ... very kind of you, but I think you're being a little too optimistic...”
+「そうかなぁ……[H名]は気にし過ぎだと思うけどなぁ……」=“I don't know. I think ...[H名] cares too much...”
+「んぅ……お気を悪くしてすみません……でも、どうしても気になってしまって……」=“Oh ... I'm sorry to offend you ... but I just couldn't help but notice ...”
+「あぁいや、こっちこそごめん。少しデリカシーがなかったね」=“Oh no, I'm sorry too. I'm sorry, that was a little uncalled for.”
+「俺も部屋のチェック手伝うよ。二人でやれば、すぐに終わるでしょ」=“I'll help you check the room. I'll help you check the room. It'll only take a minute if we both do it.”

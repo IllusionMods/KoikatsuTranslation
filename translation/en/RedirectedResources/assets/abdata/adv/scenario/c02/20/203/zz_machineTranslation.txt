@@ -1,0 +1,13 @@
+「あらあら、もうこんな時間ですの！？　もう、楽しいと、一日なんてあっと言う間ですわね」=“Oh, dear, how late it is!　A day doesn't fly by when you're having so much fun.”
+CHOICE:『最後に観覧車に乗ってかない？』=『Wanna go ride on the Ferris Wheel to end the day?』
+CHOICE:『暗くなる前に帰ろうか』=『Shall we go home before it turns dark?』
+「ねえ、よかったら、最後に観覧車に乗っていかない？」=“Hey, I was wondering if you wanted to go on the Ferris wheel at the end of the night.”
+「よろしくてよ！　観覧車はジェットコースターの次に大好きな乗り物ですわ！」=“I'm so happy to see you!　Next to roller coasters, Ferris wheels are my favorite ride!”
+「それって、高いところから見下ろせるから？」=“Is that because you can look down from up high?”
+「その通りですわ！　高い位置から人々を見下ろせるだなんて、最高に楽しいと想いませんか！？」=“That's right! "Don't you think it's the most fun to be able to look down on people from a high place!" ?”
+「あ、ああ、うん……だよねー」=“Oh, oh, yeah, yeah, it's ...”
+（彼女なら、そういうと思ってたよ……）=(I knew she would say that ...)
+「今日はこんなものにしておこうか。次来た時の楽しみも残しておかなきゃね」=“Let's leave it like this for today, shall we? I'll leave you something to look forward to when you come back next time.”
+「残念ですわ……まだまだ乗りたいものはありましたのに……」=“It's a pity... I still wanted to ride...”
+「また来よう！　期間限定のアトラクションなんかもあるからね」」=“Let's come again!　We'll come back again! There are some limited-time-only attractions!”
+「ええ、次の来園が待ち遠しいですわ……おーっほっほっほっほ！」=“Yeah, I can't wait for the next one... Oh-ho-ho!”

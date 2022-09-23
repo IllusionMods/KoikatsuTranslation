@@ -1,0 +1,5 @@
+「ねぇ、私の何が悪かったの？　私、これでも一生懸命やってきたつもりよ！」=“Hey, what did I do wrong?　I've been working so hard!”
+「わかってる……感謝もしてるよ。でも、もう無理なんだ」=“I know..., and I appreciate it. But I can't do this anymore.”
+「ふっ……ふふっ……何よそれ……あーあ、何なのよもう……私……バカみたい」=“What's that? ... Oh, my God, what's that? ... I feel like an idiot”
+「…………ごめん」=“...Sorry.”
+「謝らないで！　結局、私が何もわかっていなかっただけでしょう？　もういいわ、さようなら」=“Don't apologize!　After all, I didn't know what I was doing, did I?　Okay, bye.”

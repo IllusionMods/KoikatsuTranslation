@@ -1,0 +1,3 @@
+「[Pあだ名]、おはよう」=“[Pあだ名], good morning.”
+「……おはよう、[Hあだ名]」=“... Good morning, [Hあだ名].”
+「……そんなに驚いた顔しなくてもいいでしょ」=“You don't have to look so surprised ...”

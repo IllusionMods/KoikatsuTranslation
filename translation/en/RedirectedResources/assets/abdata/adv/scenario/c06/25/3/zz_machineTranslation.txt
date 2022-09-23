@@ -1,0 +1,3 @@
+「一緒に、ですか？　電車通学なので、駅前までで宜しければご一緒させてください」=“Together?　I commute by train, so if you don't mind, I'd be happy to walk with you to the station.”
+「もちろん。駅まで送っていくよ」=“Of course. I'll walk you to the station.”
+「うふふ、ありがとうございます。では、鞄を取ってきますね」=“Ummm, thank you very much. I'll go get my bag.”

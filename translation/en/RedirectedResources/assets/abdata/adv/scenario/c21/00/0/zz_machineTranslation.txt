@@ -1,0 +1,7 @@
+「あのー、今いいかな。出来れば君と話したいんだけど」=“Uhm, is now a good time? I'd like to chat with you a bit, if we could.”
+「あ、噂の男の子だ。はじめましてー大丈夫だよ」=“Oh, it's the boy I heard about. Nice to meet you.”
+「俺は[P名前]って言うんだ。どんな噂かは聞かないでおくよ……」=“My name's [P名前]. I don't want to hear what kind of rumors ...”
+「あはは、そんな悪い噂ばっかりじゃないから安心してね」=“Ha-ha-ha. Don't worry, it's not all bad news.”
+「はは、それならいいんだけど……」=“haha, that's fine, but ...”
+「だって悪い人には見えないもん。ところで話ってなーに？」=“Because you don't seem like a bad person. What's the story, by the way?”
+（なんだか親しみやすそうな子だな。どんな話をしよう……？）=(She seems kind of friendly. What shall we talk about ...?)

@@ -1,0 +1,2 @@
+「お休みのところ失礼いたします」=“Excuse me while I take a break.”
+「先ほど、家庭科の授業で抹茶ぷりんをこしらえたのですが、宜しければ召し上がっていただけませんか？」=“I just made matcha purin in home economics class, if you don't mind.”

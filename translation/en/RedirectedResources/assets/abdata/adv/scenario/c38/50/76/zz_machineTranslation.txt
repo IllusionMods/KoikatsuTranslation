@@ -1,0 +1,6 @@
+「ねぇ、体育倉庫からボール取ってこない？」=“Hey, can we go get the ball from the gym?”
+「体育倉庫……何やら企んでいませんか？　目がいやらしいですよ？」=“Can we get a ball from the gym? ... You're up to something, aren't you?　What's with the eyes?”
+「もう、何でそうすぐにヤラシイ方向に持ってくかな。もしかして、[H名]ってむっつり？」=“I don't know why you're so quick to take things in a naughty direction. I'm sure you're not the only one.”
+「し、心外ですっ！　い、いいですよっ、体育倉庫、行きましょう！」=“I don't like it!　Okay, let's go to the gym!”
+「やった！　体育倉庫で[H名]と……」=“Yes!　I'm going to the gym with [H名].”
+「……私と、何ですか？　貴方を信頼して、私は体育倉庫に行くのですからね？」=“... with me, what?　I'm going to the gym because I trust you, okay?”

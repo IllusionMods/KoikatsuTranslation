@@ -1,0 +1,7 @@
+「……私が貴方にお伝えしたいこと……わかりますか？」=“...What I'm trying to tell you... do you understand?”
+「……えっと……」=“... umm... ...”
+「貴方とは再三、話し合いの場を設けてきたつもりです。苦言も呈しました」=“I've tried to talk to you repeatedly. I've given you a hard time.”
+「それでも貴方は応えてくれませんでした。私は、貴方をもう、信頼できません……」=“I'm not sure I trust you anymore. I don't trust you anymore...”
+「……」=“...”
+「それでも、貴方との時間を無駄だとは思いません」=“Still, I don't think I've wasted my time with you.”
+「私に殿方というものを教えていただき、ありがとうございました。それでは失礼いたします」=“Thank you for teaching me what it is to be a gentleman. Now, if you'll excuse me.”

@@ -1,0 +1,6 @@
+「ねぇ……」=“Hey...”
+「ん、ん……んっ」=“Nnnn... ...”
+「っ……もう、がっつき過ぎよ」=“You're already too stubborn!”
+「[H名]さんはしたくないの？」=“[H名] doesn't want to?”
+「それは……したいけれど」=“That's ... what I want to do, but”
+「じゃあ、いいよね……？」=“Okay then, right ...?”

@@ -1,0 +1,14 @@
+「待っておったぞ。今日はどこへ連れていってくれるのじゃ？」=“I've been waiting for you. Where are you taking me today?”
+「今日はゆっくりできるところにでも行こうか。」=“Let's go somewhere where we can relax today.”
+「お主とこうしていられる時間が、わしにはすごく大切な時間なのじゃ……」=“The time I spend with you is very precious to me...”
+「俺も[H]と一緒にいられて幸せだよ」=“I'm happy to be with [H], too.”
+「……す、好きなのじゃ。お主のこと。これからも一緒にいてほしい、のじゃ」=“... I like you. I'm not sure what to do with it. I want you to stay with me.”
+「俺も好きだよ。これからも一緒にいるに決まってるじゃないか」=“I like her too. Of course we're going to be together.”
+「……そうか。そうじゃな！　わし達はらぶらぶなのじゃな」=“...Oh, I see. Yes, you're right!　We're in love, aren't we?”
+「今日もありがとうなのじゃ。お主といられて楽しかったのじゃ」=“I'm not sure if I'm going to be able to do that. I'm sure you'll have a great time with me. I'm sure you'll have a great time with me.”
+CHOICE:「もう少し一緒にいない？」=CHOICE: "Can we stay a little longer?"
+CHOICE:「俺も楽しかったよ、それじゃあね」=I had a blast too, well then, see ya later.
+「もう少し一緒にいたいな」=“I want to be together for just a bit longer.”
+「わしも、……そう思っておったところじゃ。奇遇じゃな」=“I was just thinking that ... too. What a coincidence!”
+「俺も楽しかったよ、それじゃあね」=“I had a blast too, well then, see ya later.”
+「今度はもっともっと楽しくなるのじゃ。それでは、さらばじゃ」=“It will be more fun this time. So, goodbye.”

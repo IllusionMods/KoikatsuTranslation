@@ -1,0 +1,16 @@
+「混んできたね……もう少しそっち詰められる？」=“It's getting crowded... Can you pack a little more that way?”
+「うん、こっち来て」=“Yeah, come here.”
+「ごめんね、苦しくない？　うわっととっ」=“I'm sorry, is this painful?　Oops.”
+（や、やばっ！　俺の股間が[H名]に……こ、このままじゃマズイっ……！）=(Oh no!　My crotch is in [H名]'s ... I can't go on like this... ...!)
+CHOICE:『我慢……できない』=CHOICE: "I can't stand ..."
+CHOICE:『何が何でも我慢する』=CHOICE: "I'll put up with anything"
+（っ……イケナイことだけど……勃起を止められない……）=(I can't stop my erection ... even though it's not nice...)
+「……えーっと、私に押し付けられてるものは何？　暗号か何か？」=“... Well, what is that thing that's being forced on me?　Is it a cipher or something?”
+「そんな周りくどいものではなく、普通に大きくなっちゃっただけです」=“I'm not going to follow that old tradition. It's not that old-fashioned. It's just that I've grown up in a normal way.”
+「だ、だめだよ、こんな所見られたら、セクハラで訴えられて人生棒に振っちゃうよ」=“No, no, no! If they see us like this, I'll be accused of sexual harassment and ruin my life!”
+「それは困る……[H名]、緊急事態だから許して」=“That's not good...[H名], forgive me, it's an emergency.”
+「ちょっ！？　今……？　ここで……？」=“What?　You just went to ...?　Here at ...?”
+「しー……すぐ終わらせるから、じっとしてて」=“I'll be done in a minute, just sit still.”
+（ここで勃起しては今日のデートが全部パーになってしまうっ！　何が何でも我慢しないと……）=(I'm not sure I'm going to get a boner here, but if I do, it's going to ruin today's date!　I have to hold back no matter what...)
+(……ひとまず、別のことを考えて気を紛らわせよう……えっと、好きなことでも思い浮かべて……)=(...For now, let's distract ourselves by thinking of something else ...well, think of something you like ...)
+（…………[H名]。って、失敗したっ！　ち、違うことをを考えよう――）=(...[H名], I screwed up!　I'll think of something else...)

@@ -1,0 +1,13 @@
+顔設定一覧=List of face settings
+体設定一覧=Body Settings
+髪設定一覧=Hair Setting List
+トップス設定一覧=Tops Settings List
+ボトムス設定一覧=Bottoms Settings
+ブラ設定一覧=Bra Settings
+ショーツ設定一覧=Panties Settings
+手袋設定一覧=Glove Settings
+パンスト設定一覧=Pantyhose settings
+靴下設定一覧=Socks Settings
+靴設定一覧=Shoes Settings
+アクセサリ設定一覧=Accessory Setting List
+化粧設定一覧=Makeup setting list

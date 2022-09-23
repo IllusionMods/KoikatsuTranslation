@@ -1,0 +1,8 @@
+「じゃあ、さっそく始めようか」=“Well then, let's get started right away.”
+「あ……いきなりだけど、教えてもらいたい所があって。聞いてもいい？」=“I know it's out of the blue, but there's something I'd like you to tell me. Can I ask you something?”
+「いいよ。問題はうまく教えられるかどうかだけど……」=“Sure. The problem is, I don't know if I can teach her well...”
+「キミならきっと大丈夫だよ♪　ここなんだけど～…先生、お願いします！」=“I'm sure you'll be fine. I'm right here... teacher, please!”
+（お、ここなら教えられそうだぞ！）=(I'm sure I could teach you a thing or two here!)
+「……っていう感じ。わかった？」=“It's like ... You know what I mean?”
+「むむむ……分かったような、そうでないような…と、とにかく、言われた通りにやってみるね」=“Mmm... understand or not... and anyway, I'll do as you said.”
+「繰り返しやることで理解できると思うよ。また分からなかったら言ってね」=“I think you'll get the hang of it if you keep at it. Let me know if you don't understand again.”

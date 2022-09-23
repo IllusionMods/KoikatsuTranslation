@@ -1,0 +1,3 @@
+「うふふ、喜んでお受けいたします」=“I'd be delighted to accept your invitation.”
+「やった！　でも、大丈夫？　[H]の家ってそういうの厳しそうだから」=“Yes!　But are you sure you're okay?　I don't think [H]'s house is very strict about that kind of thing.”
+「そうですね、恐らくは反対されると思います。ですが、私が心に決めた方ですから、説得してみせます」=“Yes, I'm sure you'll probably disagree with me. But I'm the one who's made up my mind. I'll try to persuade you.”

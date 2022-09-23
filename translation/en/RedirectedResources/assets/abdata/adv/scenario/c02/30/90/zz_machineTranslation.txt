@@ -1,0 +1,12 @@
+「少し、あなたにお願いしたいことがありますの。もちろん聞いていただけますわよね？」=“I have a small favor to ask you. Of course you'll listen to me, won't you?”
+「う、うん……相変わらず問答無用だね。で、どうしたの？」=“Ugh, yeah... no questions asked as usual. So what's up?”
+「お互いを愛称で呼び合うのはいかがかしら？　きっと素晴らしいことになりますわよ」=“How about we call each other by our nicknames?　I bet that would be great.”
+「へえ、面白そうだね。やってみようよ」=“Wow, that sounds fun. Let's do it.”
+「おほほほほ！　さすがはわたくしの提案ですわ。では早速呼ばせていただきますわね」=“Ohohohohoho!　That was indeed my suggestion. Then I'll call on you right away.”
+「……うん、悪くないね」=“... Yeah, not bad!”
+「おほほほ。当然ですわ。ではあなたもわたくしを愛称で呼ぶことを許します」=“Oh-ho-ho. Of course. Then you are allowed to call me by my nickname.”
+「はは……ありがとう。それじゃ、えーっと……[Hあだ名]」=“Ha ha ... thank you. Okay, let's see...[Hあだ名]”
+「おーっほっほっほ！　二人の仲がより深まったような気分ですわ。あなたも同じ気持ちでしょう？」=“Oh-ho-ho!　I feel like we're getting to know each other better. You feel the same way, don't you?”
+「そうだね。なんだか、特別な関係って感じだよね」=“Yeah, they did. It's like a special relationship.”
+「そうでしょうそうでしょう。まあ、また気が向けば、愛称で呼んで差し上げます」=“I know, I know, I know. Well, I'll call her by her nickname again when I feel like it.”
+「うん、楽しみにしてるよ」=“Yeah, I'm looking forward to it.”

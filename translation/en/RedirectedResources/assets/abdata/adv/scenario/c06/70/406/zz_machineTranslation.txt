@@ -1,0 +1,7 @@
+「あ、もうこんな時間か。[H名]と話すと上手に受け答えしてくれるから、時間を忘れちゃったよ」=“Oh, is it that late already?”
+「ふふ、光栄でございます。そろそろ参りますか？」=“I'm honored. Shall we go now?”
+「だね。会計は一緒でいいよね？」=“I'm sure we'll have time for a little stroll around town. We'll pay the bill together, right?”
+「あ、いえ。お小遣いはいただいておりますので、どうか私の分は――」=“Oh, no. Oh, no, no, I've got my allowance, so please don't make me--”
+「いいよ。男なんだから俺に払わせてよ」=“I'm a man. I'm a man. Let me pay for it.”
+「……はい。では、ご馳走になります」=“... yes. Well, I'll treat you.”
+（[H名]、明らかに嬉しそうだな。これからもコイカツで男を磨いていかないと）=([H名], you clearly look happy. I need to continue to improve my manhood at Koikatsu.)

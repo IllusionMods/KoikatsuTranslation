@@ -1,0 +1,4 @@
+「[H名]！　ごめん、もしかして結構待たせちゃった？」=“[H名]! Sorry, did I keep you waiting long?”
+「何を言っておる。お主も待ち合わせ時間に間に合っておるじゃろ、気にするでない」=“What are you talking about? What are you talking about? You're already on time for the meeting. Don't worry about it.”
+「ははっ、ありがとう」=“Ha ha, thank you.”
+「それじゃあさっそく行こうか」=“I'm not sure what you mean by that, but I'm sure you're right.”

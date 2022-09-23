@@ -1,0 +1,14 @@
+「もう夕暮れですね。遊園地という名の通り、時間を忘れて遊び尽くしてしまいました」=“It's already dusk. I've lost track of time and played all through the amusement park, as the name suggests!”
+「だね。そろそろ帰る人が多くなってきたみたいだけど……」=“I guess so. I think a lot of people are leaving soon...”
+CHOICE:『最後に観覧車に乗ってかない？』=『Wanna go ride on the Ferris Wheel to end the day?』
+CHOICE:『暗くなる前に帰ろうか』=『Shall we go home before it turns dark?』
+「まだ時間大丈夫だよね？　よかったら観覧車に乗っていかない？」=“I'm sure we still have time, right?　If you still have time, why don't we spend a little more time together here?”
+「はい、私もそう思っておりました」=“Yes, I thought so too.”
+「もうそろそろしたら、綺麗な夜景が見える時間になりそうだね」=“Soon it'll be time to see the beautiful night view.”
+「素敵ですね。では、参りましょうか」=“I'm not sure what you mean by that, but I think it's a good thing. I'm not sure what you mean by that.”
+（あんまり[H名]を連れまわすのもよくないかな）=(I don't think it's a good idea to take [H名] around too much.)
+「一日中遊び通しで疲れたでしょ。暗くなる前に帰ろうか」=“You must be tired after playing all day. You must be tired from playing all day. Let's get out of here before it gets dark.”
+「ふふ、今宵はよく眠れそうですね。本日も素敵な思い出を作っていただき、誠にありがとうございました」=“I'm sure I'll sleep well tonight. Thank you so much for making me have such wonderful memories today.”
+「こちらこそ。でも、駅に帰るまでがデートだから、ギリギリまでいっぱい話してもいいかな？」=“Same here. But it's a date until we get back to the station, so can we talk until the last minute?”
+「もちろんでございます。今日乗った乗り物や入った建物のこと、いただいた料理のこと、貴方とお話したいことがたくさんございます」=“Of course, sir. I have so much to tell you about the rides we've taken today, the buildings we've been in, and the food we've been served.”
+「また話題が尽きないやつだね、これ」=“Another one that we can't stop talking about. Here.”

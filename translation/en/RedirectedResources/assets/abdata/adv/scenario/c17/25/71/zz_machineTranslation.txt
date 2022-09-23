@@ -1,0 +1,4 @@
+「あなた、勉強してる時いつも眠そうよね」=“You always look sleepy when you study.”
+「え？　そ、そうかな……？」=“What?　Well, I don't know...?”
+「ええ。本当に眠いのなら……ふふっ、私があなたの目、覚ましてあげようかしら？」=“Yeah. If you're really sleepy... I can wake you up, can't I?”
+「えっ、ちょっと[H]さんどうしたの急に？　ここじゃまずいよ……！？」=“What? Hey, [H], what's going on all of a sudden?　It's not good here...?”

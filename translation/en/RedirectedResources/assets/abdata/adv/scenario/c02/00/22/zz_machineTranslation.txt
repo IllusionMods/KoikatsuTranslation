@@ -1,0 +1,4 @@
+「おーっほっほっほ、お待ちなさい。これをどうぞ」=“Oh, wait a minute. Here you go.”
+「ん？　なんなんだ、これ？　んー、いい匂いがする」=“Hmm?　What's that?　Mmm, it smells good.”
+「家庭科の実習で作った、わたくしお手製のクッキーですわ！　さあ、ありがたく頂戴なさい！」=“These are my homemade cookies from home economics class!　Thank you very much!”
+「う、うん……ありがとう。いただくよ」=“Thank you... I'll take it.”

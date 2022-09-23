@@ -1,0 +1,12 @@
+「あ、あのっ……[Pあだ名]……な、なんてー……」=“Oh, um...[Pあだ名]... what a ...”
+「へ！？　えっ、もう一回言ってもらっていい？」=“What?　What? Can you say that again?”
+「うっ、そ、それは……少し難しいですね。今のはかなり、勇気を必要とするので……」=“Ugh, well, that's ... a little difficult. That's a little ... difficult, because it requires a lot of courage...”
+「えぇ、そんなこと言わないでさ。ちょっと愛称で呼ぶだけでしょ？」=“Yeah, don't say that. It's just a nickname, right?”
+「ちょっとなんてものじゃありません。昨日の夜から、ずっと悩んで、ようやく言えたのですよ？」=“It's not a little bit. I've been struggling with it since last night, and I finally said it.”
+「そんなに！？　ごめん、なんか軽く考えてた……」=“That much?　I'm sorry, I was thinking lightly...”
+「あっ、いえ、謝らないでください。えぇと……貴方も愛称で呼んで頂けるなら、私も、もう一度……」=“No, no, don't apologize. Well... if you can call me by my nickname, I can call you by ... again.”
+「えっ、呼ぶ呼ぶ！　それで[H名]がいいなら、えっと……[Hあだ名]？　で、いい？」=“Oh, call me that!　And if you prefer [H名], then, um...[Hあだ名]?　Okay?”
+「は、はい！　良いです！　うぅ、なんだかこそばゆいですね……顔が、熱くなってしまいます」=“Yes, yes!　Yes!　Ugh, that's so embarrassing... It makes my face so hot.”
+「[Hあだ名]、[Hあだ名]、[Hあだ名]、ほら、これだけ呼べばいいでしょ？　次は[H名]の番だよ？」=“[H名], [H名], [H名], [H名], that's all you have to say, okay?　Now it's [H名]'s turn, okay?”
+「はぁぅ、んっ、そんなに何度も呼ばれては、刺激が強過ぎますっ！　うぅ、意地悪です……[Pあだ名]」=“Huh, hmm, that's too much stimulation to be called that many times!　Ugh, that's so mean...[Pあだ名]”
+「うーん、いいっ、やっぱいいね！　これからも、好きな時に愛称で呼んでくれていいからねっ」=“Hmmm, good, that's good!　You can call me by my nickname whenever you want.”

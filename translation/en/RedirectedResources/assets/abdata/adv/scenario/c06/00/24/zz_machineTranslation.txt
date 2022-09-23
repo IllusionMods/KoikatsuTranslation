@@ -1,0 +1,3 @@
+「こちらにいらっしゃったのですね。ご覧になっていただけますか？」=“I see you're here. Would you like to see it?”
+「くれえぷです。練習に練習を重ね、ついに上手に巻くことが出来ました」=“This is Kaepu. I've been practicing and practicing, and I've finally gotten it right.”
+「貴方の隣りを歩く女として、古風なだけではいられないと感じておりましたもので……いかがでしょうか」=“As a woman who walks beside you, I felt I couldn't just be old-fashioned...”

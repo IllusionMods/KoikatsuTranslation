@@ -1,0 +1,6 @@
+「日が暮れてきたね。そろそろ出ようか」=“I'm not sure how much I like it. It's getting dark. Let's get out of here.”
+「そうね。もう少し居てもいい気はするけれど」=“Yeah, they're getting better and better. I think they could stay a little longer.”
+「それじゃあ、お会計してくるよ」=“I'm not sure what you mean by that, but I'm sure you're right.”
+「え？　ま、待って。私も払うわ」=“What?　Wait, wait. I'll pay you.”
+「いいからいいから。こんなときくらい格好つけさせてよ」=“Come on, come on. Let me be cool for a change.”
+「そ、そう。それならお願いしようかしら……ありがとう」=“Oh, yeah. I'll ask you then... Thank you.”

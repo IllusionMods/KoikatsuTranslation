@@ -1,0 +1,3 @@
+「おはようございます。うん、今日も元気ね！」=“Good morning. Good morning.”
+「こんにちは。授業も部活も頑張って！」=“Hello. Good luck with your classes and club activities!”
+「はい、気を付けて帰るのよ」=“Yes, be careful on your way home.”

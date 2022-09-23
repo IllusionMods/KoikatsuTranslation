@@ -1,0 +1,16 @@
+「あれ？　集合時間まだなのに……」=“What's wrong?　We're not even supposed to be at the meeting yet...”
+「あはは、[H]こそ」=“Haha, [H]'s the one!”
+「えへへ、お互いにすご～く楽しみだったんだね。それじゃ、一秒も無駄にできないね♡」=“I'm sure we've been looking forward to seeing each other. Well then, we can't waste a single second, can we handsome?”
+「だね、じゃあ行こうか」=“I've come this far. I just need to get it right.”
+「ねね、この服なんてどうかな？　あ、この服も…どっちが似合う？」=“Hey, how about this outfit?　I'll tell you what...”
+「うーん…どっちもいいなぁ」=“Hmm... either one of those would be nice.”
+「じゃあ、どっちも試着しちゃうから、それで決めてもらっちゃう♡」=“I'm going to try on both of them and let you decide for yourself.”
+「あ、この服も[H]に似合いそう」=“This dress looks good on [H], too.”
+「えぇっ、こんな大胆なの……でも、キミが言うなら、着てみよっかな…えへへ」=“Wow, this is so bold ... but if you insist, I'll try it on... heh heh.”
+「ごめんね、荷物持ちさせちゃって。でも、キミのお陰で今日はすごく楽しかったよ」=“I'm sorry I made you carry all that stuff. But thanks to you, I had a lot of fun today.”
+CHOICE:「もう少し一緒にいたいな」=I want to be together for a bit longer.
+CHOICE:「俺も楽しかったよ、それじゃあね」=I had a blast too, well then, see ya later.
+「もう少し一緒にいたいな」=“I want to be together for just a bit longer.”
+「あっ…えへへ、実は、ママに今日は遅くなるって、言ってあるんだ。だから、いいよ♡」=“Ah...heh, actually, I told my mom that I'm going to be late today. So it's okay ♡”
+「俺も楽しかったよ、それじゃあね」=“I had a blast too, well then, see ya later.”
+「うん、またこんなデートしようね♪　それじゃ、また学園でね！　ばいばい♪」=“I'm not sure if this is a good idea or not, but it's a good idea.　Bye, bye, bye.”

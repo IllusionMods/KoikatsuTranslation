@@ -1,0 +1,5 @@
+「へえ、色々あるんだね」=“Hoh, so many different spots...”
+「あっ、あのストラップかわいい～。あのお店に入ろうよ！」=“Oh, that strap is so cute! Let's go in that shop!”
+「うん、いいよ」=“Yeah, it's fine.”
+「えへへ、お揃いー。買ってくれてありがと、大切にするね」=“Hehehe, they're the same. Thanks for getting it for me. I'll take good care of it.”
+（よかった、喜んでもらえたみたいだ）=(I'm glad, looks like she had a good time)

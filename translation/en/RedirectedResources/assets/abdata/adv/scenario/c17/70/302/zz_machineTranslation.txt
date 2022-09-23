@@ -1,0 +1,16 @@
+「ふふふ、やっぱりこの歌いいわね」=“I love this song.”
+「毎回この曲入れてるよね。こういうジャンルの曲が好きなんだ？」=“You put this song in every time. You like this kind of music?”
+「曲のジャンルにはあまりこだわっていないわ……曲よりも歌詞のほうが大事ね」=“I'm not too picky about the genre of the song... I'm more concerned with the lyrics than the song.”
+「第一、曲の良し悪しなんてよくわからないわ」=“First of all, I don't really know if the song's good or bad.”
+「へぇ。それじゃ、どんな歌詞が好みなの？」=“Yeah. What kind of lyrics do you like then?”
+「う～ん、一言では表しづらいのだけど……」=“Well, it's hard to describe in one word...”
+「強いて言うなら……最近は、その、恋愛をモチーフにした歌なんかが好きよ」=“If I may say so... lately I've been liking songs with love as a motif.”
+「へぇ……なんで恋の歌が好きになったの？」=“Heh... why do you like love songs?”
+「そ、それは……その……」=“That's ... the ... thing.”
+「それは、なに？」=“What's that?”
+「それは……そう、あなたが知らなくてもいいことよ！　別に教える必要なんてないでしょう？」=“That's ... something you don't need to know!　I don't have to tell you, do I?”
+「いや、コイカツ部の活動に有益かもしれないし。是非教えてほしいな」=“No, I think it might be useful for the Koikatsu club. I'd love to learn from you.”
+「うっ……あ、あなた、絶対にわざとよね！？」=“Ugh..., you definitely did that on purpose!”
+「え？　なんのことかな？　それより早く教えてよ」=“What?　What do you mean?　Just tell me what it's about.”
+「～～～っ！　も、もう知らない！　次の曲を選ぶわ！」=“Oh my gosh!　I don't know anymore!　I'll pick the next song!”
+（恥ずかしがってる[H名]さん、かわいいなぁ……）=([H名] is so shy, she's so cute...)

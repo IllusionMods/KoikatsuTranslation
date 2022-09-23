@@ -1,0 +1,10 @@
+体育館を訪れた俺は、チア部の練習を見学することにした。=I visited the gymnasium and decided to watch the cheerleading team practice.
+個人練習から始まり、桜を中心とした全体練習。=We started with individual practice, and then the whole team practiced with Sakura in the center.
+あっという間に時間はすぎていった。=The time passed quickly.
+他の部員たちが去っていき、体育館には桜と俺が残った。=The other members of the club left, leaving Sakura and I alone in the gym.
+「あんたも、見学だけじゃなくてたまには身体動かしてみたら？　気持ちいいわよ？」=“The other members left and Sakura and I were left in the gym. Why don't you move your body once in a while instead of just observing?　It feels good, doesn't it?”
+「あはははは……みんなの動きを見てると、圧倒されちゃって……」=“I was overwhelmed when I saw how everyone was moving...”
+桜と、こうして他愛もない会話をできるのは嬉しい。=It's great to be able to have an uncomplicated conversation with Sakura like this.
+でもそれだけで満足なのか？=But is that enough to satisfy you?
+CHOICE:桜に告白する=Confess to Sakura
+CHOICE:告白しない=I won't confess.

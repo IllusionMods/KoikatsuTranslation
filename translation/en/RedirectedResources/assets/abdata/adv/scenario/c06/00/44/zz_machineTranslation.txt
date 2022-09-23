@@ -1,0 +1,5 @@
+「へえ、色々あるんだね」=“Hoh, so many different spots...”
+「くれえぷを一緒に食べていただいても、よろしいですか？」=“I'm sorry, but may I ask you to eat Kureepu with me?”
+「うん、いいよ」=“Yeah, it's fine.”
+「くれえぷは、一緒に食べると甘酸っぱい味がするのですね……ぽっ」=“Kureepu tastes sweet and sour when you eat it together...”
+（よかった、喜んでもらえたみたいだ）=(I'm glad, looks like she had a good time)

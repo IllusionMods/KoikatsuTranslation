@@ -1,0 +1,3 @@
+「私でよろしいのですか？　男子と女子では、少し体力が変わってくるかと思いますが……」=“Are you sure you want to do this with me?　I'm sure the stamina will be a little different for girls than for boys...”
+「全然オッケー！　運動がしたいんじゃなくて、[H名]と運動がしたいから」=“That's totally fine!　Not because I want to exercise, but because I want to exercise with [H名].”
+「ふふ、違いがよくわかりませんが。それでは、二人でも楽しめる運動がいいですね」=“I don't want to exercise, I want to exercise with [H名]. I'd like to do something we can both enjoy.”

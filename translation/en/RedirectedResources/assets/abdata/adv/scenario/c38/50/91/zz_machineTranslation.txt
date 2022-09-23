@@ -1,0 +1,3 @@
+「お、おはようございます……[Pあだ名]」=“Oh, good morning...[Pあだ名].”
+「おぉっ……お、おはよう、[Hあだ名]」=“Oh, good morning... [Hあだ名].”
+「いきなりすみません……なるべく自然にお呼びするには、朝の挨拶が一番かなと思いまして」=“I'm sorry to bother you... I thought the best way to address you in the morning would be to make it as natural as possible.”

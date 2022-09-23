@@ -1,0 +1,16 @@
+「もうすぐ日が沈んでしまいますね……楽しかった時間も、そろそろ終わりでしょうか……」=“The sun will be setting soon... The good times will be over soon...”
+CHOICE:『いや、ここからが本番』=No, this is where it all starts.
+CHOICE:『暗くなる前に帰ろうか』=『Shall we go home before it turns dark?』
+「いやいや、ここからが本番だよ」=“No, no, no. This is where it all begins.”
+「[H名]さえよければ、今から付いてきて欲しいところがあるんだけど……どう？」=“If you don't mind, there's a place I'd like you to follow me to now...”
+「はい、私は構いませんが。今からですと……その、あまり遠くに行くのは……」=“Yes, I'm fine with that. Yes, I don't mind, but if we go now, we'll have to ... well, we can't go too far.”
+「そこは大丈夫。歩いて行ける距離っていうか、公園内のオススメスポットだから」=“That's fine. It's not that far to walk, but it's a recommended spot in the park.”
+「そういうことでしたら、喜んでお付き合いいたします」=“If that's the case, I'll be happy to accompany you.”
+「よし、じゃあ行こうか」=“Alright, let's go then.”
+「だね。あんまり暗くなると危ないし、そろそろ帰ろうか」=“That's right. It's not safe to go home after dark, is it?”
+「名残惜しいですが、公園にはまた来れますから……」=“It's a shame, but we can always come back to the park...”
+「そうそう、また一緒に来よう。それにまだ、デートが終わったわけじゃないし」=“Yes, we should come back together. Besides, our date isn't over yet.”
+「え？　終わりではないのですか？　もう帰るのですよね？」=“What?　Isn't it over?　You're going home, aren't you?”
+「ほら、まだ駅までの帰り道があるし。手を繋いで、今日あったことでも話しながら帰ろう」=“We still have a way to get back to the station. Let's hold hands and talk about what happened today on the way back.”
+「ふふ、それは素敵な提案ですね。貴方とお別れするまでがデート、つまりそういうことですよね？」=“Hmm, that's a nice suggestion. That's a great idea. It's a date until I leave you, right?”
+「うん、そういうこと！　[H名]は察しが良くて助かるよ」=“Yes, that's what I mean!　[H名] is very perceptive and helpful.”

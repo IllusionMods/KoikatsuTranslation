@@ -1,0 +1,5 @@
+「お早う御座います。今日も私の知らない場所に連れていってくださるのですか？」=“Good morning, [Pあだ名]. Good morning. Are you going to take me someplace I don't know today?”
+「うん、そう言われると思って、色々考えてきたよ。早速行こう！」=“Yeah, I thought you'd say that. I've been thinking about it a lot. Let's get going!”
+「はい♪　貴方のような素敵な殿方とお出かけできるなんて、私は幸せ者ですね」=“Yes, I'm so lucky to be going out with a lovely lady like you.”
+「こういうの好きだと思って」=“I thought you'd like this.”
+「こんなところがあったのですね……これから通うようにいたします♪」=“I'll go to ... this place from now on.”

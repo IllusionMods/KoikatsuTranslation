@@ -1,0 +1,4 @@
+「よし、１０分前行動っと……って、[H名]！？　待たせちゃった！？」=“Okay, I'm going to be 10 minutes early... [H名]!　I'm sorry, I didn't mean to keep you waiting.”
+「いえいえ、私も今来たばかりですから、お気になさらず」=“I just got here, so don't worry about it.”
+「いや、そこは男として気にするよ。絶対に挽回するようなデートにするから」=“No, I'm a guy there. I care about that. No, I'm a guy. I'm gonna make this date worth it.”
+（ということで、行先は……どこがいいかな？）=(So, where ... is the best place to go?)
