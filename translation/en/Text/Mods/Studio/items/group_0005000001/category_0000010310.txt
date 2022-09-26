@@ -6,17 +6,17 @@
 
 
 // studio/Engleishibugs.unity3d
-//千足虫=
-//帝王蝶幼虫=
-//水蛭=
-//燕尾蝶幼虫=
-//猎头蟹=
-//苍蝇=
-//蚯蚓=
-//蛞蝓=
-//蜈蚣=
-//蜗牛=
-//蜘蛛=
-//蜜蜂=
-//蠕虫=
-//面包虫=
+千足虫=Millipede
+帝王蝶幼虫=Monarch Butterfly Larva
+水蛭=Leech
+燕尾蝶幼虫=Swallowtail Butterfly Larvae
+猎头蟹=Headhunter Crab
+苍蝇=Fly
+蚯蚓=Earthworm
+蛞蝓=Slug
+蜈蚣=Centipede
+蜗牛=Snail
+蜘蛛=Spider
+蜜蜂=Bee
+蠕虫=Worm
+面包虫=Mealworm

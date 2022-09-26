@@ -4,5 +4,5 @@
 
 #set exe CharaStudio
 
-//HS1移植至KK=
-//原作者：Milkies=
+HS1移植至KK=HS1 ported to KK
+原作者：Milkies=Original Author: Milkies

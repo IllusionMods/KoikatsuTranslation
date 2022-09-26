@@ -6,4 +6,4 @@
 
 
 // studio/anse_cardboard_cutout.unity3d
-//anse 等身大パネル=
+anse 等身大パネル=anse Life-size Panel
