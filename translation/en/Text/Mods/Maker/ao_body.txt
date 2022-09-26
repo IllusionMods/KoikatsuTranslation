@@ -54,7 +54,7 @@
 プレゼント袋=Gift Bag
 
 // chara/choco.unity3d
-//癒月ちょこ wings=
+癒月ちょこ wings=Yuzuki Choco wings
 
 // chara/gray/F_devil01_a.unity3d
 悪魔の翼右用（改）=Devil's Wing R (Revised)
@@ -116,7 +116,7 @@ AI翼=AI Wings
 乳首リング改=Nipple Ring Kai
 
 // chara/nin/nin_acs_01.unity3d
-//作り帯=
+作り帯=Well Made Belt
 
 // chara/p_o_top_halloween.unity3d
 ハロウィントップス=Halloween Top

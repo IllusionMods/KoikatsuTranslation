@@ -3,43 +3,43 @@
 //
 
 // chara/choco_head_00.unity3d
-//癒月ちょこ head=
+癒月ちょこ head=Yuzuki Choco head
 
 // chara/c_head_00.unity3d
-//C酱 head=
+C酱 head=Shiyuu Chishiki head
 
 // chara/deathweasel/no_head.unity3d
 なし=None
 
 // chara/korone_head_00.unity3d
-//戌神ころね head=
+戌神ころね head=Inugami Korone head
 
 // chara/kurumi_head_00.unity3d
-//[蓬莱伝説]七瀬くるみ head=
+[蓬莱伝説]七瀬くるみ head=[Horai Densetsu] Nanase Kurumi head
 
 // chara/lamy_head_00.unity3d
-//雪花ラミィ head=
+雪花ラミィ head=Yukihana Lamy head
 
 // chara/mikop_head_00.unity3d
-//さくらみこ head=
+さくらみこ head=Sakura Miko head
 
 // chara/minami_head_00.unity3d
-//美波七海 head=
+美波七海 head=Minami Nanami head
 
 // chara/mio_head_00.unity3d
-//大神ミオ head=
+大神ミオ head=Ookami Mio head
 
 // chara/nakay/bo_head_gizaba01.unity3d
 ギザ歯=Gizzard Teeth
 
 // chara/rena_head_00.unity3d
-//夜見れな head=
+夜見れな head=Yorumi Rena head
 
 // chara/umy2_head_00.unity3d
-//呜米Umy公式服 head=
+呜米Umy公式服 head=MeUmy Official head
 
 // chara/umy_head_00.unity3d
-//呜米Umy head=
+呜米Umy head=MeUmy head
 
 // chara/ura_head_00.unity3d
-//乌拉 head=
+乌拉 head=Ura head

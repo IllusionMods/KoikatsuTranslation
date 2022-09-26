@@ -3,10 +3,10 @@
 //
 
 // chara/anse/anse_sailor_dress_scarf.unity3d
-//セーラーワンピスカーフ=
+セーラーワンピスカーフ=Sailor One-piece Scarf
 
 // chara/anse/anse_sailor_dress_scarf_base.unity3d
-//セーラーワンピスカーフ(ベースのみ)=
+セーラーワンピスカーフ(ベースのみ)=Sailor One-piece Scarf (Base Only)
 
 // chara/Matne/matne_sailor_bc_00.unity3d
 タイプ４改=Type 4 modified

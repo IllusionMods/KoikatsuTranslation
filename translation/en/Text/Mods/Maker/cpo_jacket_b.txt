@@ -9,7 +9,7 @@
 あんせレインコート=Safety Raincoat
 
 // chara/anse/anse_salopette_skirt.unity3d
-//あんせサロペットスカート=
+あんせサロペットスカート=Anse Overalls Skirt
 
 // chara/anse/anse_suspenders_long.unity3d
 あんせサスペンダー ロング=Safety suspenders long
@@ -29,7 +29,7 @@
 [Add]パーカー前開き=Add] Hoodie with front opening
 [Add]弓道衣胸当てなし=Add] Kyudo Kimono without Breastplate
 パーカー前開き=Open Parka
-//裸(だった)エプロン=
+裸(だった)エプロン=Naked (was) Apron
 
 // chara/co_top_05.unity3d
 メイド服=Maid Top
@@ -44,7 +44,8 @@
 セクシーパレオ=Sexy Pareo
 
 // chara/co_top_23.unity3d
-//裸(だった)フリルエプロン=
+裸(だった)フリルエプロン=Naked (was) Frilly Apron
+
 
 // chara/cpo_jacket_b_00.unity3d
 ブレザーC(inmab改)=Blazer C (Inmab modified)
@@ -53,8 +54,8 @@
 アイドルおなか=Idol Tummy
 
 // chara/ltz/reverse_bunny.unity3d
-//逆バニーブレザー=
-//逆バニーブレザー(メタリックライン)=
+逆バニーブレザー=Reverse Bunny Blazer
+逆バニーブレザー(メタリックライン)=Reverse Bunny Blazer (Metallic Line)
 
 // chara/mf_alice_v2.unity3d
 整合騎士の鎧[アリス][SAO]=Matching Knight's Armor [Alice][SAO]
@@ -126,14 +127,14 @@ HS2男马甲=HS2 men's marsupial
 乳袋ジャケット 袖無し=breast bag jacket without sleeves
 
 // chara/onepiece.unity3d
-//ワンピース(袖なし)=
-//ワンピース(袖なしフリル色固定)=
-//ワンピース(袖なし上だけ)=
-//ワンピース(袖なし上だけフリル色固定)=
+ワンピース(袖なし)=Dress (Sleeveless)
+ワンピース(袖なしフリル色固定)=Dress (Sleeveless Frill Fixed Color)
+ワンピース(袖なし上だけ)=Dress (Sleeveless Top Only)
+ワンピース(袖なし上だけフリル色固定)=Dress (Sleeveless Top Only Fixed Frill Color)
 
 // chara/open_jersey.unity3d
-//ジャージ前開き(ライン色固定)=
-//ジャージ前開き(単色)=
+ジャージ前開き(ライン色固定)=Open Jersey (Fixed Line Color)
+ジャージ前開き(単色)=Open Jersey (Monochromatic)
 
 // chara/roie/roie_tops.unity3d
 キーホールワンピ=Keyhole Onesies

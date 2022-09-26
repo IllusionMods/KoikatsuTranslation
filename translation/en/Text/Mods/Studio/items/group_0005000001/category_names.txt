@@ -4,4 +4,4 @@
 
 #set exe CharaStudio
 
-//虫子=
+虫子=Bugs

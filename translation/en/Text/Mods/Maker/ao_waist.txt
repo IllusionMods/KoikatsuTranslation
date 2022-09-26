@@ -23,26 +23,26 @@
 クリーム2=Cream 2
 
 // chara/ao_waist_103.unity3d
-//温泉ルウシェ HAT=
+温泉ルウシェ HAT=Onsen Rouche HAT
 
 // chara/ao_waist_104.unity3d
-//温泉ルウシェ mark=
+温泉ルウシェ mark=Onsen Rouche mark
 
 // chara/ao_waist_105.unity3d
-//ミラクル Hat=
+ミラクル Hat=Miracle Hat
 
 // chara/ao_waist_106.unity3d
-//マジカル hair=
+マジカル hair=Magical hair
 
 // chara/ao_waist_108.unity3d
-//シエラ 蒼空 1st Rose Ribbon=
+シエラ 蒼空 1st Rose Ribbon=Sierra 1st Rose Ribbon
 
 // chara/ao_waist_xmas.unity3d
 ソリ=Sled
 トナカイ=Reindeer
 
 // chara/choco.unity3d
-//癒月ちょこ tail=
+癒月ちょこ tail=Yuzuki Choco tail
 
 // chara/co_shoes.unity3d
 贵族风衣腰饰=Necromancer's waistcoat
@@ -61,10 +61,10 @@
 ジェム5=Gem 5
 
 // chara/kaguranana.unity3d
-//カグラナナ アーティストver. tail=
+カグラナナ アーティストver. tail=Karuga Nana Artist ver. tail
 
 // chara/korone.unity3d
-//戌神ころね tail=
+戌神ころね tail=Inugami Korone tail
 
 // chara/mf_alice.unity3d
 金木犀の剣(納刀)[アリス]=Sword of the Golden Rhinoceros [Alice][SAO]
@@ -103,10 +103,10 @@
 コートベルト=Coat Belt
 
 // chara/umy.unity3d
-//呜米Umy tail=
+呜米Umy tail=MeUmy tail
 
 // chara/umy2.unity3d
-//呜米Umy公式服 tail=
+呜米Umy公式服 tail=MeUmy Official tail
 
 // chara/ymd/mf_accprim.unity3d
 V字=V-shape

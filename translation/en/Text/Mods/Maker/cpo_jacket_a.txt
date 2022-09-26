@@ -59,7 +59,7 @@ Tシャツ(無地)=T-Shirt (Plain)
 
 // chara/etc.unity3d
 なし=None
-//なし(互換)=
+なし(互換)=None (Compatible)
 
 // chara/JK/idol - sarashi.unity3d
 アイドル胸当て=Idol Breastplate
@@ -77,9 +77,9 @@ Tシャツ(無地)=T-Shirt (Plain)
 透け半袖ワイシャツ=Transparent short-sleeved shirt
 
 // chara/luci7/taisougi.unity3d
-//セクシー体操着=
-//セクシー体操着(short)=
-//セクシー体操着2=
+セクシー体操着=Sexy Gym Shirt
+セクシー体操着(short)=Sexy Gym Shirt (short)
+セクシー体操着2=Sexy Gym Shirt 2
 
 // chara/mf_alice_v2.unity3d
 整合騎士の制服[アリス][SAO]=Matching Knight's Uniform [Alice][SAO]
@@ -202,7 +202,7 @@ NBY上2=NBY Top 2
 黎恩服装=Reen Clothes
 
 // chara/shoulder_hanging_shirt.unity3d
-//肩吊りワイシャツ(色③)=
+肩吊りワイシャツ(色③)=Shoulder-Hung Dress Shirt (Color ③)
 
 // chara/sleeveless_top.unity3d
 ノースリーブ1=Sleeveless 1

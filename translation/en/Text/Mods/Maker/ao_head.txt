@@ -7,8 +7,8 @@
 茨の冠=Crown of Thorns
 
 // chara/373.unity3d
-//美波七海 hair1（アホ毛あり）=
-//美波七海 hair2（帽子あり）=
+美波七海 hair1（アホ毛あり）=Minami Nanami hair1 (w/ ahoge)
+美波七海 hair2（帽子あり）=Minami Nanami hair2 (w/ hat)
 
 // chara/acc_noir_items.unity3d
 ノワールハット=Noir hat
@@ -19,8 +19,8 @@
 ゆかりの髪 (P3)=Yukari's hair (P3)
 
 // chara/anse/anse_hair_odango.unity3d
-//あんせ穴あきお団子(L)=
-//あんせ穴あきお団子(R)=
+あんせ穴あきお団子(L)=Anse Peirced Odango (L)
+あんせ穴あきお団子(R)=Anse Peirced Odango (R)
 
 // chara/ao_head_01.unity3d
 HM男主发型=HM male head shape
@@ -60,7 +60,7 @@ HM男主发型=HM male head shape
 俾斯麦副炮=Ethnic addressee
 
 // chara/c.unity3d
-//C酱 hair=
+C酱 hair=Shiyuu Chishiki hair
 
 // chara/CC_Equipment.unity3d
 上游1本体=Upper water 1 body
@@ -73,10 +73,10 @@ HM男主发型=HM male head shape
 防空炮=Air Defense Gun
 
 // chara/choco.unity3d
-//癒月ちょこ hair=
+癒月ちょこ hair=Yuzuki Choco hair
 
 // chara/ciela_1st_veil.unity3d
-//シエラ 蒼空  1st ウェディングヴェール=
+シエラ 蒼空  1st ウェディングヴェール=Sierra 1st  Wedding Veil
 
 // chara/dak/ao_head_00.unity3d
 [dak]コロネ右(揺れ)=[dak]Coronet R (Shaking)
@@ -292,7 +292,7 @@ HM男主发型=HM male head shape
 長触覚あほ毛（揺れなし）=Long Ahoge (No movement)
 
 // chara/flipped_long.unity3d
-//外はねロング(伸)=
+外はねロング(伸)=Long, Feathered Out (Extension)
 
 // chara/halfup.unity3d
 ハーフアップ(バンド)=Half-Up (Band)
@@ -307,7 +307,7 @@ HM男主发型=HM male head shape
 ロイヤルクラウン（装飾なし）=Royal Crown (No decoration)
 
 // chara/kaguranana.unity3d
-//カグラナナ アーティストver. hair=
+カグラナナ アーティストver. hair=Karuga Nana Artist ver. hair
 
 // chara/koikoi/ao_head_20.unity3d
 AI耳=AI Ears
@@ -319,10 +319,10 @@ AI耳=AI Ears
 猫耳カチューシャ=Cat ear catsuit
 
 // chara/korone.unity3d
-//戌神ころね hair=
+戌神ころね hair=Inugami Korone hair
 
 // chara/kurumi.unity3d
-//[蓬莱伝説]七瀬くるみ hair=
+[蓬莱伝説]七瀬くるみ hair=[Horai Densetsu] Nanase Kurumi hair
 
 // chara/lady_long.unity3d
 お嬢様ロング(下)=Lady's Long (Bottom)
@@ -334,18 +334,18 @@ AI耳=AI Ears
 お嬢様ロング(結)=Ojousama Long (Tie)
 
 // chara/lamy.unity3d
-//雪花ラミィ hair=
+雪花ラミィ hair=Yukihana Lamy hair
 
 // chara/long_hair.unity3d
-//ロングヘア(下)=
-//ロングヘア(下右)=
-//ロングヘア(下左)=
-//ロングヘア(前)=
-//ロングヘア(前右)=
-//ロングヘア(前左)=
-//ロングヘア(後)=
-//ロングヘア(後右)=
-//ロングヘア(後左)=
+ロングヘア(下)=Long (Bottom)
+ロングヘア(下右)=Long (Bottom R)
+ロングヘア(下左)=Long (Bottom L)
+ロングヘア(前)=Long (Previous)
+ロングヘア(前右)=Long (Front R)
+ロングヘア(前左)=Long (Front L)
+ロングヘア(後)=Long (Rear)
+ロングヘア(後右)=Long (Rear R)
+ロングヘア(後左)=Long (Rear L)
 
 // chara/long_sidetail_l.unity3d
 リボンなしロングサイド(左バンド)=Long Side Without Ribbon (Left Band)
@@ -370,22 +370,22 @@ AI耳=AI Ears
 ロングサイドテール(右後伸)=Long Side Tail (Right Back Extend)
 
 // chara/magical_head00.unity3d
-//マジカル hat=
+マジカル hat=Magical hat
 
 // chara/maho_head_00.unity3d
-//ミラクル back hair=
+ミラクル back hair=Miracle back hair
 
 // chara/maho_head_01.unity3d
-//ミラクル pony tail=
+ミラクル pony tail=Miracle pony tail
 
 // chara/maho_head_02.unity3d
-//ミラクル ahoge1=
+ミラクル ahoge1=Miracle ahoge1
 
 // chara/maho_head_03.unity3d
-//ミラクルSIDE=
+ミラクルSIDE=Miracle SIDE
 
 // chara/maho_head_04.unity3d
-//ミラクル kami orbit=
+ミラクル kami orbit=Miracle kami orbit
 
 // chara/mf_alice.unity3d
 三つ編み[アリス]=Braids [Alice][SAO
@@ -407,7 +407,7 @@ AI耳=AI Ears
 レーナ[86-EIGHTY SIX-]=Raina [86-EIGHTY SIX-]
 
 // chara/mio.unity3d
-//大神ミオ hair=
+大神ミオ hair=Ookami Mio hair
 
 // chara/mod/mod_eden_vb.unity3d
 ティアラ_エデンVB=Tiara_Eden VB
@@ -427,7 +427,7 @@ AI耳=AI Ears
 ロングヘア改B=Long Hair B
 
 // chara/rena.unity3d
-//夜見れな hair=
+夜見れな hair=Yorumi Rena hair
 
 // chara/Sen3_hair.unity3d
 学生的发型=Student's Hairstyle
@@ -453,7 +453,7 @@ AI耳=AI Ears
 サイドテール(右尾伸)=Side Tail (Right Tail Extend)
 
 // chara/suzukihina.unity3d
-//鈴木ヒナ hair=
+鈴木ヒナ hair=Suzuki Hina hair
 
 // chara/taka/taka_ao_head_03.unity3d
 ヘアバンド (真っ白)=Hair band (Pure white)
@@ -465,31 +465,31 @@ AI耳=AI Ears
 塔什干鱼雷=Fish lightning
 
 // chara/two_sideup.unity3d
-//ツーサイドアップ(バンド両)=
-//ツーサイドアップ(バンド右)=
-//ツーサイドアップ(バンド左)=
-//ツーサイドアップ(下)=
-//ツーサイドアップ(両側)=
-//ツーサイドアップ(前)=
-//ツーサイドアップ(右)=
-//ツーサイドアップ(尾両)=
-//ツーサイドアップ(尾両伸)=
-//ツーサイドアップ(尾右)=
-//ツーサイドアップ(尾右伸)=
-//ツーサイドアップ(尾左)=
-//ツーサイドアップ(尾左伸)=
-//ツーサイドアップ(左)=
-//ツーサイドアップ(後)=
-//ツーサイドアップ(後側)=
+ツーサイドアップ(バンド両)=Both Sides Up (Band Cars)
+ツーサイドアップ(バンド右)=Both Sides Up (R Band)
+ツーサイドアップ(バンド左)=Both Sides Up (Band L)
+ツーサイドアップ(下)=Both Sides Up (Bottom)
+ツーサイドアップ(両側)=Both Sides Up (Both Sides)
+ツーサイドアップ(前)=Both Sides Up (Previous)
+ツーサイドアップ(右)=Both Sides Up (R)
+ツーサイドアップ(尾両)=Both Sides Up (Both Tail)
+ツーサイドアップ(尾両伸)=Both Sides Up (Both Tail Extension)
+ツーサイドアップ(尾右)=Both Sides Up (Tail R)
+ツーサイドアップ(尾右伸)=Both Sides Up (Tail R Extension)
+ツーサイドアップ(尾左)=Both Sides Up (Tail L)
+ツーサイドアップ(尾左伸)=Both Sides Up (L Tail Extension)
+ツーサイドアップ(左)=Both Sides Up (L)
+ツーサイドアップ(後)=Both Sides Up (Rear)
+ツーサイドアップ(後側)=Both Sides Up (Rear Side)
 
 // chara/umy.unity3d
-//呜米Umy hair=
+呜米Umy hair=MeUmy hair
 
 // chara/umy2.unity3d
-//呜米Umy公式服 hair=
+呜米Umy公式服 hair=MeUmy Official hair
 
 // chara/ura.unity3d
-//乌拉 hair=
+乌拉 hair=Ura hair
 
 // chara/volume_ponytail.unity3d
 ボリュームポニーテール(バンド)=Volume Ponytail (Band)

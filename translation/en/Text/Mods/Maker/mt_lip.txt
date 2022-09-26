@@ -3,14 +3,14 @@
 //
 
 // chara/breakthrough/mt_lip.unity3d
-//タイプい=Type い
-//タイプち=Type ち
-//タイプと=Type と
-//タイプに=Type に
-//タイプは=Type は
-//タイプへ=Type へ
-//タイプほ=Type ほ
-//タイプろ=Type ろ
+タイプい=Type い
+タイプち=Type ち
+タイプと=Type と
+タイプに=Type に
+タイプは=Type は
+タイプへ=Type へ
+タイプほ=Type ほ
+タイプろ=Type ろ
 
 // chara/_kero/CMS_NT_00.unity3d
 タイプＡ=Type A
