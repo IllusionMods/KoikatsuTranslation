@@ -156,14 +156,14 @@ namespace ReleaseTool
                             }
 
                             var assetDir = Path.Combine(tlDir, "RedirectedResources\\assets");
-                            if (Directory.Exists(assetDir) && Directory.GetFiles(assetDir, "translation.txt", SearchOption.AllDirectories).Any())
+                            if (Directory.Exists(assetDir) && Directory.GetFiles(assetDir, "translation*.txt", SearchOption.AllDirectories).Any())
                             {
                                 var assZipPath = GetTempFileName();
                                 using (var assZipFile = ZipFile.Create(assZipPath))
                                 {
                                     assZipFile.BeginUpdate(new MemoryArchiveStorage(FileUpdateMode.Direct));
 
-                                    foreach (var file in Directory.GetFiles(assetDir, "translation.txt", SearchOption.AllDirectories))
+                                    foreach (var file in Directory.GetFiles(assetDir, "translation*.txt", SearchOption.AllDirectories))
                                     {
                                         var entryName = CleanPath(file.Substring(assetDir.Length));
                                         //Console.WriteLine("Adding to redirected assets archive: " + entryName);
