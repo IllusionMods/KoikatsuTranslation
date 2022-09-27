@@ -156,14 +156,14 @@ namespace ReleaseTool
                             }
 
                             var assetDir = Path.Combine(tlDir, "RedirectedResources\\assets");
-                            if (Directory.Exists(assetDir) && Directory.GetFiles(assetDir, "*.txt", SearchOption.AllDirectories).Any())
+                            if (Directory.Exists(assetDir) && Directory.GetFiles(assetDir, "translation.txt", SearchOption.AllDirectories).Any())
                             {
                                 var assZipPath = GetTempFileName();
                                 using (var assZipFile = ZipFile.Create(assZipPath))
                                 {
                                     assZipFile.BeginUpdate(new MemoryArchiveStorage(FileUpdateMode.Direct));
 
-                                    foreach (var file in Directory.GetFiles(assetDir, "*.txt", SearchOption.AllDirectories))
+                                    foreach (var file in Directory.GetFiles(assetDir, "translation.txt", SearchOption.AllDirectories))
                                     {
                                         var entryName = CleanPath(file.Substring(assetDir.Length));
                                         //Console.WriteLine("Adding to redirected assets archive: " + entryName);
@@ -172,7 +172,27 @@ namespace ReleaseTool
 
                                     assZipFile.CommitUpdate();
                                 }
-                                AddToZip(assZipPath, "BepInEx\\Translation\\en\\RedirectedResources\\assets\\" + translationName + "_Assets.zip");
+                                AddToZip(assZipPath, "BepInEx\\Translation\\en\\RedirectedResources\\assets\\" + "01_" + translationName + "_Translations.zip");
+                            }
+
+                            assetDir = Path.Combine(tlDir, "RedirectedResources\\assets");
+                            if (Directory.Exists(assetDir) && Directory.GetFiles(assetDir, "zz_machineTranslation.txt", SearchOption.AllDirectories).Any())
+                            {
+                                var assZipPath = GetTempFileName();
+                                using (var assZipFile = ZipFile.Create(assZipPath))
+                                {
+                                    assZipFile.BeginUpdate(new MemoryArchiveStorage(FileUpdateMode.Direct));
+
+                                    foreach (var file in Directory.GetFiles(assetDir, "zz_machineTranslation.txt", SearchOption.AllDirectories))
+                                    {
+                                        var entryName = CleanPath(file.Substring(assetDir.Length));
+                                        //Console.WriteLine("Adding to redirected assets archive: " + entryName);
+                                        assZipFile.Add(file, entryName);
+                                    }
+
+                                    assZipFile.CommitUpdate();
+                                }
+                                AddToZip(assZipPath, "BepInEx\\Translation\\en\\RedirectedResources\\assets\\" + "09_" + translationName + "_MachineTranslations.zip");
                             }
 
                             var textDir = Path.Combine(tlDir, "Text");
