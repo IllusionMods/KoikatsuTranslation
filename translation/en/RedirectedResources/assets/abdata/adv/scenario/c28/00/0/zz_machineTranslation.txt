@@ -1,7 +1,7 @@
-「少しだけ時間もらってもいいかな。ちょっと君と話したくてさ」=“Can I have a moment of your time? I just wanted to talk to you for a minute.”
+「少しだけ時間もらってもいいかな。ちょっと君と話したくてさ」=“May I have a moment of your time? I just wanted to talk to you for a minute.”
 「おぉっ！　お主が噂の男子じゃな！　わしも話したいと思っていたのじゃ」=“Oh!　You're the boy I've heard so much about!　I've been meaning to talk to you too.”
-「そ、そうなんだ……それなら話が早くて助かるよ」=“Oh, that's right..., that would be quicker and more helpful.”
-「うむ。こちらこそ、よろしく頼むぞ！　困ったことがあれば何でも聞くがよい」=“I'm learning Shogi from my neighbor's grandpa. I'm looking forward to working with you too!　If you have any problems, you can ask me anything.”
-「あ、ありがとう。いざって時は頼りにさせてもらうよ」=“Oh, thank you. Oh, thank you. I'll be relying on you when the time comes.”
+「そ、そうなんだ……それなら話が早くて助かるよ」=“Oh, that's right... that would be quicker and more helpful.”
+「うむ。こちらこそ、よろしく頼むぞ！　困ったことがあれば何でも聞くがよい」=“Mm-hmm. It is nice to meet you, too!　If you have any problems, you can ask me anything.”
+「あ、ありがとう。いざって時は頼りにさせてもらうよ」=“Oh, thank you. I'll be relying on you when the time comes.”
 「うむうむ。……では、談笑の方をはじめるのじゃ！」=“Mm-hmm... then let the banter begin!”
-（か、変わった喋り方だな……でも、すごく話しやすい子だし、たくさん話が出来そうだ）=(You have an unusual way of speaking... but she's very easy to talk to and I'm sure we'll have a lot to talk about!)
+（か、変わった喋り方だな……でも、すごく話しやすい子だし、たくさん話が出来そうだ）=(Hmm, she has an unusual way of speaking... but she's very easy to talk to, and I'm sure we'll have a lot to talk about!)
