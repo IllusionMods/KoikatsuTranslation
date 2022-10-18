@@ -3,13 +3,13 @@
 //
 「とりあえず……こんなもんかな」=“Right, that's that for now, I guess".
 ある程度の片づけを終えたところで、これから生活する自室を見渡す。=After a bit of cleaning, I took a look around the room that's soon to be mine.
-「明日から新しい学園での生活が始まるのか」=“A new school life is starting tomorrow huh.”
+「明日から新しい学園での生活が始まるのか」=“A new school life is starting tomorrow, huh.”
 一息つきながら、真新しい制服を見つめる。=Taking a deep breath, I looked at my spiffy new uniform.
 ――――=――――
 俺の名前は『[P名前]』。=My name is [P名前].
 この春から父親が海外転勤することになり、家族会議の結果、=My father will be working overseas from this spring onwards, so a lengthy family meeting was held.
 両親は海外に、俺は叔母の家の近くに建つアパートで独り暮らしをすることになった。=We decided that I'll live in an apartment near my aunt's while my parents are overseas.
-転勤族であるうちの家族は、これまで何度か引っ越しを経験している。=We have relocated many times up until now due to the nature of my parents work.
+転勤族であるうちの家族は、これまで何度か引っ越しを経験している。=We have relocated many times up until now due to the nature of my parents' work.
 しかし、海外転勤は初めてのことで、俺にとって独り暮らしも初めての事だった。=But this is the first time relocating overseas, and also the first time that I'll live by myself.
 クラスメイトと仲良くなれるだろうか、友達はできるだろうか。=Will I be able to get along with everyone? Will I be able to make new friends?
 期待、不安、色んな気持ちが頭をかすめていく。=Hope, worries, etc. All sorts of emotions swirl inside my head.
