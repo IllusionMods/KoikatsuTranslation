@@ -3,6 +3,6 @@
 //
 「職員室はここだな」=“OK, Staff Room”
 プレートに書かれた『職員室』という文字を見て、きちんと着いたことを確認する。=Looking at the plate in front of the door, I let out a sigh of relief.
-まずは担任の先生に挨拶しないと。=First I'll have to say hi to my HR teacher.
-ドアを開けて職員室へ入っていく。=I opened the door and entered the Staff Room.
+まずは担任の先生に挨拶しないと。=First I have to say hi to my HR teacher.
+ドアを開けて職員室へ入っていく。=I opened the door and entered the staff room.
 「失礼します」=“Excuse me.”
