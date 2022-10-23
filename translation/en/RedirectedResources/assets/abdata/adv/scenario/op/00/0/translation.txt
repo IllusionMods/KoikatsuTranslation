@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「とりあえず……こんなもんかな」=“Right, that's that for now, I guess".
+「とりあえず……こんなもんかな」=“Right, that's that for now, I guess.”
 ある程度の片づけを終えたところで、これから生活する自室を見渡す。=After a bit of cleaning, I took a look around the room that's soon to be mine.
 「明日から新しい学園での生活が始まるのか」=“A new school life is starting tomorrow, huh.”
 一息つきながら、真新しい制服を見つめる。=Taking a deep breath, I looked at my spiffy new uniform.
@@ -47,7 +47,7 @@
 事情をまったく知らない俺に対して、今さらすぎる説明が始まった。=This is all so sudden.
 『さっき話した通り、あなたが明日から通う学園は女の子しかいません』=“Like I said before, your new school only has girls in it.”
 『そして、生徒の大半は、男の子と接したことがないの』=“And most of them have little to no contact with boys.”
-『初心なのは可愛いけど、いきなり社会に出て、男の人とコミュニケーションがとれるか心配でしょう？』=“While it's cute that they're pure and innocent and stuff, there's certainly concerns over whether they could communicate well with men once they're out in society, no?”
+『初心なのは可愛いけど、いきなり社会に出て、男の人とコミュニケーションがとれるか心配でしょう？』=“While it's cute that they're all pure and innocent, there's certainly concerns over whether they could communicate well with men once they're out in society, no?”
 「それは、まあ……」=“I guess...”
 『そこであなたの出番です』=“And that's where you come in.”
 「俺の？」=“Me?”
