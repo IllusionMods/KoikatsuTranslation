@@ -2,7 +2,7 @@
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
 野乃花=Nonoka
-「先生は通常通りホームルームを始めます。[P姓]くんは先生が呼んだら教室に入ってくださいねー」=“I'll start Homeroom like usual first. Wait here until I call you OK?”
+「先生は通常通りホームルームを始めます。[P姓]くんは先生が呼んだら教室に入ってくださいねー」=“I'll start homeroom like usual first. Wait here until I call you OK?”
 「分かりました」=“Got it.”
 「あんまり緊張しなくていいですからねー」=“You don't have to be so tense, alright?”
 そう笑顔で言い残すと、先生は教室へと入っていった。=With a smile, Sensei entered the classroom.
