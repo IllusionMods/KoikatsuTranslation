@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「職員室はここだな」=“OK, staff room”
+「職員室はここだな」=“So this is the staff room.”
 プレートに書かれた『職員室』という文字を見て、きちんと着いたことを確認する。=Looking at the plate in front of the door, I let out a sigh of relief.
-まずは担任の先生に挨拶しないと。=First I have to say hi to my HR teacher.
+まずは担任の先生に挨拶しないと。=First I have to say hi to my homeroom teacher.
 ドアを開けて職員室へ入っていく。=I opened the door and entered the staff room.
 「失礼します」=“Excuse me.”
