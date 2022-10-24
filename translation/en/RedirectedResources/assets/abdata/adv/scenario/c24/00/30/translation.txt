@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「素敵……♡　私、一生大事にしますね♡　お返しも期待していてください♡」=It's lovely...♡ I'll treasure this my whole life♡ Please look forward to the return gift♡
+「素敵……♡　私、一生大事にしますね♡　お返しも期待していてください♡」=“It's lovely...♡ I'll treasure this my whole life♡ Please look forward to the return gift♡”
