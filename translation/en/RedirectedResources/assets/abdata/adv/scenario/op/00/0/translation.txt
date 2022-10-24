@@ -31,7 +31,7 @@
 『うんうん、いい心がけよ』=“Uh huh, that's a good mentality to have.”
 『あなた以外、女の子しかいないから大変だと思うけど、頑張ってちょうだいね』=“It's going to be tough with everyone else being girls, but stay strong, OK?”
 「そうだね。俺以外は女の子だけど……って、ちょっと待った！！」=“Yeah I know. With everyone else being girls... Wait a minute!!”
-さらっと聞き捨てならないことを言ってのけた叔母さんの言葉を慌てて遮る。=I immediately stopped my aunt after hearing an ominous phrase.
+さらっと聞き捨てならないことを言ってのけた叔母さんの言葉を慌てて遮る。=I immediately stopped my aunt after hearing the ominous phrase.
 『あら？　どうかしたの？』=“Oh? Is something wrong?”
 「俺……以外、女の子しか……いない……？」=“Everyone else... being... girls?”
 『そうよ？　伝えてなかったかしら』=“Yup? Didn't I tell you?”
