@@ -3,7 +3,7 @@
 //
 モブ=Mob
 「それではこれより、式を執り行います」=“Then without further ado, let's start the ceremony.”
-「新たなご出発の証として、お二人には誓いの言葉を立てていただきます」=“As the proof of a fresh departure, you both have to make certain vows.”
+「新たなご出発の証として、お二人には誓いの言葉を立てていただきます」=“As proof of a fresh departure, you both have to make certain vows.”
 （……[H名]、どうしたんだろう？）=(...[H名], what happened?)
 牧師=Pastor
 「[P名]さん、あなたはこの女性とお付き合いし、より親密な関係になろうとしております」=“Mr. [P名], you have been going out with your bride for a while now. And now you are proceeding towards an even closer relationship.”
