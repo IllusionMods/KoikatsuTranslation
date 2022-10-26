@@ -9,7 +9,7 @@
 （[H名]……本当に綺麗だ……）=([H名]... She really is beautiful...)
 （……絶対、彼女を幸せにしないとな）=(...I really gotta make her happy.)
 「それではこれより、式を執り行います」=“Then without further ado, let's start the ceremony.”
-「新たなご出発の証として、お二人には誓いの言葉を立てていただきます」=“As the proof of a fresh departure, you both have to make certain vows.”
+「新たなご出発の証として、お二人には誓いの言葉を立てていただきます」=“As proof of a fresh departure, you both have to make certain vows.”
 牧師=Pastor
 「[P名]さん、あなたは今、この女性を妻とし夫婦になろうとしています」=“Mr. [P名], you are now about to take this woman to be your wife.”
 「汝、健やかなるときも、病めるときも、喜びのときも、悲しみのときも、富めるときも、貧しいときも」=“Do you promise, in times of sickness or in health, in times of happiness or sadness, whether you are rich or poor,”
