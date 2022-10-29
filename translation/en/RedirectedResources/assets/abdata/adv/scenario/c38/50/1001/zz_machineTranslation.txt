@@ -16,8 +16,8 @@
 「へっ！？　あぁはいっ！　ごめん[H名]、大丈夫だから！　どうしても辛かったら深呼吸だよ、深呼吸！」=“Huh?　Oh, no!　Sorry [H名], it's okay!　If it's really hard, take a deep breath, deep breath!”
 「は、はひっ！　ご、ご心配なくっ！　大丈夫れすっ！　んっ……はー、ふぅー、すぅー、ふぅー」=“Ha, ha!　Don't worry!　It's okay!　It's okay! ... Huh, huh, huh, huh.”
 「そ、それじゃあ、頑張ってね。俺もカッコよくしてもらってくるよ」=“Well, good luck with that. Good luck with that. I'm going to go make myself look cool.”
-（……着替えてみたけど、服に着られてる感がすごい）=(... I've got my clothes changed, but the feeling is amazing."
-（っと、スタッフさんが呼んでる。さっきの所に戻るのかな？）=(Oh, the staff is calling me. Maybe I should go back to the place from before."
+（……着替えてみたけど、服に着られてる感がすごい）=(... I've got my clothes changed, but the feeling is amazing.)
+（っと、スタッフさんが呼んでる。さっきの所に戻るのかな？）=(Oh, the staff is calling me. Maybe I should go back to the place from before.)
 「まぁ！　よくお似合いですよ」=“Splendid! It suits you well!”
 「ははは……ありがとうございます」=“Hahaha... Thank you very much.”
 「式のご説明はお受けになりましたか？」=“Was the explanation about the ceremony clear?”

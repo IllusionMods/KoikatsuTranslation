@@ -16,7 +16,7 @@
 「はい！　[H名]、後でね」=“Yes!　[H名], I'll see you later.”
 「うん！　お互い、ピチピチの新郎新婦になろうね！　またね！」=“Yeah!　Yeah! Let's be a spiffy bride and groom for each other!　See you soon!”
 （……おぉ、なんかすごい見違えるように決まってる）=(...Oh, you look so different!)
-（っと、スタッフさんが呼んでる。さっきの所に戻るのかな？）=(Oh, the staff is calling me. Maybe I should go back to the place from before."
+（っと、スタッフさんが呼んでる。さっきの所に戻るのかな？）=(Oh, the staff is calling me. Maybe I should go back to the place from before.)
 「まぁ！　よくお似合いですよ」=“Splendid! It suits you well!”
 「ははは……ありがとうございます」=“Hahaha... Thank you very much.”
 「式のご説明はお受けになりましたか？」=“Was the explanation about the ceremony clear?”
