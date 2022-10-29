@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「……あ、すみません、ちょっとお手洗いに行ってきます♡　すぐに戻りますから♡」=...Ah, I'm sorry, I need to go to the washroom real quick♡ I'll be right back♡
-「うん、ごゆっくりどうぞ」=Yeah, take your time.
+「……あ、すみません、ちょっとお手洗いに行ってきます♡　すぐに戻りますから♡」=“...Ah, excuse me, I need to go to the restroom real quick♡ I'll be right back♡”
+「うん、ごゆっくりどうぞ」=“Yeah, take your time.”
 （メニューが来るの楽しみだなぁ……ん？　[H名]の鞄から真っ赤な日記帳がはみ出てるぞ……）=(Can't wait for our food to arrive... Hm? A red diary's sticking out of [H名]'s bag...)
-CHOICE:『[H名]の日記を読む』=『Read her diary.』
+CHOICE:『[H名]の日記を読む』=‘Read her diary.’
 （とめどなく溢れる好奇心を抑えることができない。ごめん、[H名]……）=(I cannot suppress my endless curiosity. Sorry, [H名]...)
 ペラッ……=*flip*--...
 [P姓][P名][P姓][P名][P姓][P名][P姓][P名][P姓]……=[P姓][P名][P姓][P名][P姓][P名][P姓][P名][P姓]……
