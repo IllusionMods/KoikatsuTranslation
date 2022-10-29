@@ -15,8 +15,8 @@
 「式の流れなどは、お支度部屋にてご説明させていただきますね」=“Let me explain you the course of the ceremony.”
 「あっ、はい……」=“Ah, yes...”
 「私が申しあげたことは、あまりお気になさらないでください。それでは、また後程」=“Please don't take much notice of what I've said. I'll see you later.”
-（……着替えてみたけど、服に着られてる感がすごい）=(... I've got my clothes changed, but the feeling is amazing."
-（っと、スタッフさんが呼んでる。さっきの所に戻るのかな？）=(Oh, the staff is calling me. Maybe I should go back to the place from before."
+（……着替えてみたけど、服に着られてる感がすごい）=(... I've got my clothes changed, but the feeling is amazing.
+（っと、スタッフさんが呼んでる。さっきの所に戻るのかな？）=(Oh, the staff is calling me. Maybe I should go back to the place from before.
 「まぁ！　よくお似合いですよ」=“Splendid! It suits you well!”
 「ははは……ありがとうございます」=“Hahaha... Thank you very much.”
 「式のご説明はお受けになりましたか？」=“Was the explanation about the ceremony clear?”
