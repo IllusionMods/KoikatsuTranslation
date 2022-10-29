@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「えっと……混ざりたいの？　……どうする？」=Erhm... You wanna join us?...What do you wanna do?
-「ふぅん、面白そうじゃない」=Hmm, why not, sounds interesting.
-「えっと……混ざりたいの？　俺はＯＫだけど……」=Erhm... You wanna join us? I'm all OK with it but...
-「いいわよ。二人とも、相手をしてあげる……」=No problem. I'll keep you both company...
+「えっと……混ざりたいの？　……どうする？」=“Erhm... You wanna join us?...What do you wanna do?”
+「ふぅん、面白そうじゃない」=“Hmm, why not, sounds interesting.”
+「えっと……混ざりたいの？　俺はＯＫだけど……」=“Erhm... You wanna join us? I'm all OK with it but...”
+「いいわよ。二人とも、相手をしてあげる……」=“No problem. I'll keep you both company...”

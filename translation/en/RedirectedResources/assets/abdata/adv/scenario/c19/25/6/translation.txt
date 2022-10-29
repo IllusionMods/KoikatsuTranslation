@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「え？　いいけど……どこに行くの？」=Eh? Sure but... where?
-「そうだね……不思議の国、なんてね」=Good question... Wonderland, how's that?
-「ふふふ。それならエスコートをお願いね、白ウサギさん」=Fufufu. In that case, please lead the way, Mr. White Rabbit.
+「え？　いいけど……どこに行くの？」=“Eh? Sure but... where?”
+「そうだね……不思議の国、なんてね」=“Good question... Wonderland, how's that?”
+「ふふふ。それならエスコートをお願いね、白ウサギさん」=“Fufufu. In that case, please lead the way, Mr. White Rabbit.”

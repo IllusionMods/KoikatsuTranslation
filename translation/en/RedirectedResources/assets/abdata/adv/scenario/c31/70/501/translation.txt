@@ -2,9 +2,9 @@
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
 （待ち合わせの２０分前か。少し早く来過ぎたけど……ん？　あそこにいるの、[H名]だよね？）=(It's 20 minutes before we were supposed to meet, huh? I came a bit too early but... Hm? The person over there, it's [H名], isn't it?)
-「やぁ、早いね[H名]。もういるなんて、少し驚いちゃったよ」=Well, aren't you early, [H名]? It surprised me a little, to see that you were already here.
-「んぇっ！？　お、おまえこそ早いな……な、何か先に片付けたい用事でもあったのか？」=Nneh--!? Y-You're here early yourself... Was there something here you needed to take care of beforehand?
-「いや、そういうわけじゃないけど。デートが楽しみで早く出てきちゃったんだ」=No, not really. I was really looking forward to our date so I left early.
-「そ、そうか……私も、だいたい同じだ。用事があるわけでないなら……もう行くか？」=I-I see... It was basically the same for me. Since you have nothing you need to take care of... shall we go?
-「そうだね。早く着いた分、長くデートを楽しもう！」=Yeah. Since we came early, let's have an even longer date!
+「やぁ、早いね[H名]。もういるなんて、少し驚いちゃったよ」=“Well, aren't you early, [H名]? It surprised me a little, to see that you were already here.”
+「んぇっ！？　お、おまえこそ早いな……な、何か先に片付けたい用事でもあったのか？」=“Nneh--!? Y-You're here early yourself... Was there something here you needed to take care of beforehand?”
+「いや、そういうわけじゃないけど。デートが楽しみで早く出てきちゃったんだ」=“No, not really. I was really looking forward to our date so I left early.”
+「そ、そうか……私も、だいたい同じだ。用事があるわけでないなら……もう行くか？」=“I-I see... It was basically the same for me. Since you have nothing you need to take care of... shall we go?”
+「そうだね。早く着いた分、長くデートを楽しもう！」=“Yeah. Since we came early, let's have an even longer date!”
 （よーし、まずはどこに行こうかな……）=(Alright, where shall we go first......)

@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「あ……えっと……こ、これで終わりですか？　あぁっ、い、いえいえっ、ありがとうなのですー！」=Ah... er, um... is... is that it? Ahhh! N-no, no, thank bunches!
+「あ……えっと……こ、これで終わりですか？　あぁっ、い、いえいえっ、ありがとうなのですー！」=“Ah... er, um... is... is that it? Ahhh! N-no, no, thank bunches!”

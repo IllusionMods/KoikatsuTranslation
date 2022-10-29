@@ -1,18 +1,18 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「あはっ、今日は一日中遊んじゃったね～」=Aha--, we ended up hanging out for the entire day~
+「あはっ、今日は一日中遊んじゃったね～」=“Aha--, we ended up hanging out for the entire day~”
 CHOICE:『まだ時間ある？』=『Do you still have time?』
 CHOICE:『そろそろ帰ろうか』=『Shall we go home?』
-「……あの、まだ時間あるかな？　最後に[H名]と行きたいところがあるんだ」=...Uhm, do you still have time? There's a place I wanna show you, [H名].
-「えっ、なになに？　どこ行くの～？」=Eh--, what is it? Where you gonna take me~?
-「それは……秘密」=That's... a secret.
-「気になるじゃん、それ～。ま、[P名]くんと一緒なら、アタシはどこでもいいけど♪」=I can't help but be curious now~. Well, I'm fine with going anywhere, as long as it's with you, [P名]-kun♪
-「うん、いっぱい遊び倒したね。遅くなる前にそろそろ帰ろうか」=Yeah, we hand a ton of fun, didn't we? We should go home before it gets dark.
-「まあ、本音を言うと、まだ[H名]と居足りないんだけど……」=Well, being completely honest, I still wanna spend more time with you...
-「ふふっ、でもそれを言ったら切りがなくない？」=Fufu--, but if you start going along that path, won't we keep going forever?
-「そうなんだよね。それこそずっと居るってなると……」=Yeah, we would. If we keep going like that...
-「もう夫婦っしょ♪」=We'd be basically a married couple♪
-「[H名]と……夫婦」=Me, married to... [H名].
-「あは、想像しちゃった？　じゃあ～、予行演習でラブラブして帰ろっか♪」=Aha, did you just imagine that in your head? Well then~, let's walk home together all lovey-dovey as a sort of practice run♪
-「うん！」=Yeah!
+「……あの、まだ時間あるかな？　最後に[H名]と行きたいところがあるんだ」=“...Uhm, do you still have time? There's a place I wanna show you, [H名].”
+「えっ、なになに？　どこ行くの～？」=“Eh--, what is it? Where you gonna take me~?”
+「それは……秘密」=“That's... a secret.”
+「気になるじゃん、それ～。ま、[P名]くんと一緒なら、アタシはどこでもいいけど♪」=“I can't help but be curious now~. Well, I'm fine with going anywhere, as long as it's with you, [P名]-kun♪”
+「うん、いっぱい遊び倒したね。遅くなる前にそろそろ帰ろうか」=“Yeah, we hand a ton of fun, didn't we? We should go home before it gets dark.”
+「まあ、本音を言うと、まだ[H名]と居足りないんだけど……」=“Well, being completely honest, I still wanna spend more time with you...”
+「ふふっ、でもそれを言ったら切りがなくない？」=“Fufu--, but if you start going along that path, won't we keep going forever?”
+「そうなんだよね。それこそずっと居るってなると……」=“Yeah, we would. If we keep going like that...”
+「もう夫婦っしょ♪」=“We'd be basically a married couple♪”
+「[H名]と……夫婦」=“Me, married to... [H名].”
+「あは、想像しちゃった？　じゃあ～、予行演習でラブラブして帰ろっか♪」=“Aha, did you just imagine that in your head? Well then~, let's walk home together all lovey-dovey as a sort of practice run♪”
+「うん！」=“Yeah!”

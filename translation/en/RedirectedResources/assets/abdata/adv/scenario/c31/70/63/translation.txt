@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「お邪魔するぞ。ほぉ、これがおまえの……予想以上にその……ドキドキするものだな……」=I'll be coming in. Hoh, so this is your... It's more than I uh... It's more exciting than I expected...
-「うっ……笑うなよ？　笑ったら怒るぞ？　部屋を滅茶苦茶にしてやるからな？」=Uuh--... Don't laugh, alright? I'll get angry if you laugh, okay? I'll mess up your room, okay?
-「んぅ、結局まぁ……散らかりはすると思うが……そのつもりで連れ込んだんだろう？」=Mm, well, in the end... I do think it'll get messy but... that's why you brought me here, right?
+「お邪魔するぞ。ほぉ、これがおまえの……予想以上にその……ドキドキするものだな……」=“I'll be coming in. Hoh, so this is your... It's more than I uh... It's more exciting than I expected...”
+「うっ……笑うなよ？　笑ったら怒るぞ？　部屋を滅茶苦茶にしてやるからな？」=“Uuh--... Don't laugh, alright? I'll get angry if you laugh, okay? I'll mess up your room, okay?”
+「んぅ、結局まぁ……散らかりはすると思うが……そのつもりで連れ込んだんだろう？」=“Mm, well, in the end... I do think it'll get messy but... that's why you brought me here, right?”

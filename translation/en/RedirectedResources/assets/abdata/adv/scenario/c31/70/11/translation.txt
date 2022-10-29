@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「その、いきなりで悪いが……正直、おまえと一緒にいるのが辛くなった。もう別れよう」=Listen, I'm sorry to spring this up on you like this but... Honestly, it's become hard for me to be with you. Let's split.
-「え……嘘、だよね？」=Eh... you're joking, right?
-「嘘ではない。私だって何度も考え直した……でも、無理だった」=It's not a joke. I tried to think it over many times too, to change my mind... but it was impossible.
-「む、無理って……な、何が無理なの？　俺、もっと頑張るから！」=I-Impossible, you say... W-What was impossible? I'll do my best, please!
-「いや、もういいんだ。私のために頑張る必要はない……では、さよならだ……」=No, it's alright. You don't need to do your best for my sake... Then, this is goodbye...
+「その、いきなりで悪いが……正直、おまえと一緒にいるのが辛くなった。もう別れよう」=“Listen, I'm sorry to spring this up on you like this but... Honestly, it's become hard for me to be with you. Let's split.”
+「え……嘘、だよね？」=“Eh... you're joking, right?”
+「嘘ではない。私だって何度も考え直した……でも、無理だった」=“It's not a joke. I tried to think it over many times too, to change my mind... but it was impossible.”
+「む、無理って……な、何が無理なの？　俺、もっと頑張るから！」=“I-Impossible, you say... W-What was impossible? I'll do my best, please!”
+「いや、もういいんだ。私のために頑張る必要はない……では、さよならだ……」=“No, it's alright. You don't need to do your best for my sake... Then, this is goodbye...”

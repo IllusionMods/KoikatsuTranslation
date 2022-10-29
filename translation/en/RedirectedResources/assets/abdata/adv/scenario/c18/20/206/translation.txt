@@ -1,25 +1,25 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「初めて乗ったときはすごく怖がってたけど……観覧車はもう怖くはない？」=You were really scared the first time we got on this ferris wheel... are you okay now?
-「怖さがないわけではないですけれど、[P名]さんと一緒なら大丈夫です」=It's not like I'm not scared at all but, I can handle it if I'm with you, [P名]-san.
-「それは……良かった」=That's... great to hear.
-「はいっ」=Yes--
-「でも、少し怖いなら前みたいに甘えていいんだよ？」=But, if you're a bit scared still then I don't mind if you depend on me, you know?
-「それじゃあ……もっと傍に行きますね」=Well then... I'll get closer then.
-「[H名]、まだ緊張してる？」=Are you still nervous, [H名]?
-「えっと……わかっちゃいますか？　緊張してるの丸わかりですよね？」=Erhm... did you notice? You can clearly tell that I'm nervous, can't you?
-「うん、でも最初のときよりは緊張してないっていうのも、分かる」=Yeah, but I can also tell that you're not as nervous as the first time around.
-「もう、私のことは何でも丸わかりなんですね」=Jeez, you can completely see right through me, can't you?
-「観覧車に乗っているとき、不安が消えたわけじゃないんですけれど」=It's not like my anxiety over riding the ferris wheel has disappeared, but--
-「あなたがこうしてくれていると安心できて、怖さ以上に幸せなんです」=When you hold me like this, I can really relax. I feel way more happy than I do afraid.
-「[P名]さん、あなたのおかげですよ」=It's all thanks to you, [P名]-san.
-「なんか、照れるな……」=Man, you'll make me blush...
-「私がどれだけ不安になっていても、二人のときはこうして傍で甘えさせてくれますか？」=Will you let me depend on you like this, no matter how anxious I get, when we're together?
-「もちろんだよ。ずっとずっと傍にいる」=Of course. I'll be with you forever.
-「えへへ、でも。あんまり近くにいると、私の不幸が移りそうで怖いですね」=Ehehe. But, if you get too close to me, I'm pretty scared that my luck will infect you too.
-「俺でよければいくらでも不幸を分けてくれてもいいよ」=If you'll do with me, then I don't mind no matter how much of your misfortune you share with me
-「そう言われちゃうと困ります」=Please don't say that.
-「私だって、あなたを不幸にしたいわけじゃ、ないんですよ？」=It's not like I want to make you suffer either, you know?
-「はは、それなら俺が不幸を幸せに変えられるようにするから、安心して傍に居てほしいな」=Haha, in that case, I'll do my damndest to turn your misfortune into happiness, so I'd love it if you could relax and stay by my side.
-「嬉しい……ありがとう、[P名]さん……」=I'm so happy... thank you, [P名]-san...
+「初めて乗ったときはすごく怖がってたけど……観覧車はもう怖くはない？」=“You were really scared the first time we got on this ferris wheel... are you okay now?”
+「怖さがないわけではないですけれど、[P名]さんと一緒なら大丈夫です」=“It's not like I'm not scared at all but, I can handle it if I'm with you, [P名]-san.”
+「それは……良かった」=“That's... great to hear.”
+「はいっ」=“Yes--”
+「でも、少し怖いなら前みたいに甘えていいんだよ？」=“But, if you're a bit scared still then I don't mind if you depend on me, you know?”
+「それじゃあ……もっと傍に行きますね」=“Well then... I'll get closer then.”
+「[H名]、まだ緊張してる？」=“Are you still nervous, [H名]?”
+「えっと……わかっちゃいますか？　緊張してるの丸わかりですよね？」=“Erhm... did you notice? You can clearly tell that I'm nervous, can't you?”
+「うん、でも最初のときよりは緊張してないっていうのも、分かる」=“Yeah, but I can also tell that you're not as nervous as the first time around.”
+「もう、私のことは何でも丸わかりなんですね」=“Jeez, you can completely see right through me, can't you?”
+「観覧車に乗っているとき、不安が消えたわけじゃないんですけれど」=“It's not like my anxiety over riding the ferris wheel has disappeared, but--”
+「あなたがこうしてくれていると安心できて、怖さ以上に幸せなんです」=“When you hold me like this, I can really relax. I feel way more happy than I do afraid.”
+「[P名]さん、あなたのおかげですよ」=“It's all thanks to you, [P名]-san.”
+「なんか、照れるな……」=“Man, you'll make me blush...”
+「私がどれだけ不安になっていても、二人のときはこうして傍で甘えさせてくれますか？」=“Will you let me depend on you like this, no matter how anxious I get, when we're together?”
+「もちろんだよ。ずっとずっと傍にいる」=“Of course. I'll be with you forever.”
+「えへへ、でも。あんまり近くにいると、私の不幸が移りそうで怖いですね」=“Ehehe. But, if you get too close to me, I'm pretty scared that my luck will infect you too.”
+「俺でよければいくらでも不幸を分けてくれてもいいよ」=“If you'll do with me, then I don't mind no matter how much of your misfortune you share with me”
+「そう言われちゃうと困ります」=“Please don't say that.”
+「私だって、あなたを不幸にしたいわけじゃ、ないんですよ？」=“It's not like I want to make you suffer either, you know?”
+「はは、それなら俺が不幸を幸せに変えられるようにするから、安心して傍に居てほしいな」=“Haha, in that case, I'll do my damndest to turn your misfortune into happiness, so I'd love it if you could relax and stay by my side.”
+「嬉しい……ありがとう、[P名]さん……」=“I'm so happy... thank you, [P名]-san...”

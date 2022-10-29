@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「こうやって電車が進むたび、遊園地遠ざかっていってるんだよね……切なくなるなぁ……」=Everytime the train goes further along, the amusement park gets further away... I feel sad...
-「同意はするが、情けなく肩を落とすのはやめろ。目立っているぞ？」=While I agree with you, stop drooping your shoulders pathetically like that. You're standing out a lot, you know?
-「うぅ、だって……遊園地が恋しくて……」=Uuu, but... I love the amusement park...
-「私よりもか？　目の前の恋人を放っておいて、遊園地が恋しいなんて、良く言えたものだな」=Even more than me? Ignoring your lover that's standing right next to you, and saying that you love the amusement park, I'm amazed you have the balls.
-「うっ、仰る通りです……もうずっと[H名]の方を見てます」=Uuu, I can't deny that... I'll only look at you from now on, [H名].
+「こうやって電車が進むたび、遊園地遠ざかっていってるんだよね……切なくなるなぁ……」=“Everytime the train goes further along, the amusement park gets further away... I feel sad...”
+「同意はするが、情けなく肩を落とすのはやめろ。目立っているぞ？」=“While I agree with you, stop drooping your shoulders pathetically like that. You're standing out a lot, you know?”
+「うぅ、だって……遊園地が恋しくて……」=“Uuu, but... I love the amusement park...”
+「私よりもか？　目の前の恋人を放っておいて、遊園地が恋しいなんて、良く言えたものだな」=“Even more than me? Ignoring your lover that's standing right next to you, and saying that you love the amusement park, I'm amazed you have the balls.”
+「うっ、仰る通りです……もうずっと[H名]の方を見てます」=“Uuu, I can't deny that... I'll only look at you from now on, [H名].”

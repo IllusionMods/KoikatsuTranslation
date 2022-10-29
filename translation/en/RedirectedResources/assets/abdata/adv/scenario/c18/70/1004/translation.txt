@@ -2,15 +2,15 @@
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
 モブ=Mob
-「お疲れ様でした。ふふっ、素敵な式でしたよ」=Good work today. Fufu~ It was a lovely ceremony.
-「本番の結婚式も、是非、私どもの式場で挙げてくださいね！」=For your actual wedding as well, please, do call upon us!
-「えっと、前向きに考えさせてもらいます」=Uhm, sure, if we get to that point.
-「お願いします！　今日はお引き受けいただいて、ありがとうございました」=Thank you! And for helping us out so much today as well, thank you very much!
-「ふぅ、[H名]もお疲れ様」=Fuu, you did great too, [H名].
-「お疲れ様です……あっという間でしたね」=You too... that was quite something.
-「まさかこんな経験することになるなんてね……」=Who'd have thought that we'd get to experience something like that...
-「でも、すごくいい思い出になりました」=But, it was really memorable for me.
-「俺もだよ。改めて結婚式って人生の一大イベントなんだな、って思ったよ」=Me too. It made me realize all over again, that marriage is one of the biggest events in one's life.
-「ですね……本番だったら、みんなに祝われて……想像できないくらい幸せな出来事なんだろうなって思います」=Indeed... if it were the real thing, we'd be getting blessed by everyone right now... I think it would probably be an unimaginably happy event.
-「そうだなあ……貴重なデートになったね」=Yeah... that was a good date.
-「本当ですね、私にはもったいないくらい、夢のような時間でした……」=Really, it was a lovely time, like a dream. Almost too good for someone like me...
+「お疲れ様でした。ふふっ、素敵な式でしたよ」=“Good work today. Fufu~ It was a lovely ceremony.”
+「本番の結婚式も、是非、私どもの式場で挙げてくださいね！」=“For your actual wedding as well, please, do call upon us!”
+「えっと、前向きに考えさせてもらいます」=“Uhm, sure, if we get to that point.”
+「お願いします！　今日はお引き受けいただいて、ありがとうございました」=“Thank you! And for helping us out so much today as well, thank you very much!”
+「ふぅ、[H名]もお疲れ様」=“Fuu, you did great too, [H名].”
+「お疲れ様です……あっという間でしたね」=“You too... that was quite something.”
+「まさかこんな経験することになるなんてね……」=“Who'd have thought that we'd get to experience something like that...”
+「でも、すごくいい思い出になりました」=“But, it was really memorable for me.”
+「俺もだよ。改めて結婚式って人生の一大イベントなんだな、って思ったよ」=“Me too. It made me realize all over again, that marriage is one of the biggest events in one's life.”
+「ですね……本番だったら、みんなに祝われて……想像できないくらい幸せな出来事なんだろうなって思います」=“Indeed... if it were the real thing, we'd be getting blessed by everyone right now... I think it would probably be an unimaginably happy event.”
+「そうだなあ……貴重なデートになったね」=“Yeah... that was a good date.”
+「本当ですね、私にはもったいないくらい、夢のような時間でした……」=“Really, it was a lovely time, like a dream. Almost too good for someone like me...”

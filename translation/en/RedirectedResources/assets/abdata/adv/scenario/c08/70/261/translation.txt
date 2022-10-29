@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「[H名]ってたまに大胆なことするよな」=You sure do get bold sometimes, [H名].
-「えへへ、私もやる時はやる女だよっ」=Ehehe, I can pull my own weight when I have to.
-「ははは……今日がやる時だったわけか」=Hahaha... today was one of those times, huh?
+「[H名]ってたまに大胆なことするよな」=“You sure do get bold sometimes, [H名].”
+「えへへ、私もやる時はやる女だよっ」=“Ehehe, I can pull my own weight when I have to.”
+「ははは……今日がやる時だったわけか」=“Hahaha... today was one of those times, huh?”

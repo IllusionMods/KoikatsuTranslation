@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「あ、あの……ひょっとして……全部、見られてた……？」=U-Uhm... could it be that... you saw, it all...?
+「あ、あの……ひょっとして……全部、見られてた……？」=“U-Uhm... could it be that... you saw, it all...?”

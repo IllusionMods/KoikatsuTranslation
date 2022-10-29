@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「ん～、ダメだ～、マジでわっかんない！」=Nn~, I can't~, I seriously can't figure this out!
-「今回の範囲は難しいよな。ま、お互い頑張ろう」=Can't blame ya, the syllabus this time is pretty rough. Well, let's do our best together.
-「頑張る！ 頑張るから、終わったら……ごほーびちょうだい！ 甘いもの、とか」=I will! I'll do my best so, after this... give me a reward! Something sweet or something.
-「そうだな、よし。じゃあパパッと片付ちゃおう！」=Hmm, good idea. Alright. Let's quickly wrap this up then!
+「ん～、ダメだ～、マジでわっかんない！」=“Nn~, I can't~, I seriously can't figure this out!”
+「今回の範囲は難しいよな。ま、お互い頑張ろう」=“Can't blame ya, the syllabus this time is pretty rough. Well, let's do our best together.”
+「頑張る！ 頑張るから、終わったら……ごほーびちょうだい！ 甘いもの、とか」=“I will! I'll do my best so, after this... give me a reward! Something sweet or something.”
+「そうだな、よし。じゃあパパッと片付ちゃおう！」=“Hmm, good idea. Alright. Let's quickly wrap this up then!”

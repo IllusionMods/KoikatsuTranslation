@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「あら、揚げ物がたくさん……キミ、そんなに揚げ物好きなの？」=Oh? So much fried food... Do you really love fried food that much?
-「あはは、そういうわけじゃないんだけど……これくらい食べておかないと午後にお腹減っちゃって……」=Ahaha, That's not exactly the case. It's just that if I don't eat atleast this much then I get extremely hungry by the afternoon.
-「ふふ、授業中にお腹がなったら恥ずかしいものね。でも、食べすぎには注意するのよ？」=Fufu~ If your stomach were to rumble midway through class, certainly it would be very embarrassing. But, you should be careful about not eating too much, alright?
-「そうなのね」=You're right.
+「あら、揚げ物がたくさん……キミ、そんなに揚げ物好きなの？」=“Oh? So much fried food... Do you really love fried food that much?”
+「あはは、そういうわけじゃないんだけど……これくらい食べておかないと午後にお腹減っちゃって……」=“Ahaha, That's not exactly the case. It's just that if I don't eat atleast this much then I get extremely hungry by the afternoon.”
+「ふふ、授業中にお腹がなったら恥ずかしいものね。でも、食べすぎには注意するのよ？」=“Fufu~ If your stomach were to rumble midway through class, certainly it would be very embarrassing. But, you should be careful about not eating too much, alright?”
+「そうなのね」=“You're right.”

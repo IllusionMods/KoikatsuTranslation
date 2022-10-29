@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「おまえがくれたものだから貰っとくけど、彼氏ならもう少し私の好むもの選べよな……」=I'll accept it since it's from you but, you're my boyfriend so try picking something that I'd like more next time...
+「おまえがくれたものだから貰っとくけど、彼氏ならもう少し私の好むもの選べよな……」=“I'll accept it since it's from you but, you're my boyfriend so try picking something that I'd like more next time...”

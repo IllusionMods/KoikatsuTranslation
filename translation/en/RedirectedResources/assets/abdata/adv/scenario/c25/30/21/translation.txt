@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「おはよ～、[P]。いつも元気そうだね～」=Mornin~, [P]. You're always so full of energy~
-「おはよう[H]。そっちはいつも眠そうだね」=Morning, [H]. And you always look half asleep.
-「朝は眠いのが標準的な人間というものだ～」=Being half-asleep in the morning's pretty standard human behaviour, I'd say~
+「おはよ～、[P]。いつも元気そうだね～」=“Mornin~, [P]. You're always so full of energy~”
+「おはよう[H]。そっちはいつも眠そうだね」=“Morning, [H]. And you always look half asleep.”
+「朝は眠いのが標準的な人間というものだ～」=“Being half-asleep in the morning's pretty standard human behaviour, I'd say~”

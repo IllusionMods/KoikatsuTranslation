@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「ふふふ……やっちゃったね。既成事実というやつかな～」=Fufufu... we ended up doing it. Fait accompli and all that, I guess?~
+「ふふふ……やっちゃったね。既成事実というやつかな～」=“Fufufu... we ended up doing it. Fait accompli and all that, I guess?~”

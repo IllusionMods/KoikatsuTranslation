@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「は？　……あの、私の聞き間違いでしたら申し訳ないのですが……今、私に『好き』とおっしゃいましたか」=Hah?... Uhm, I apologize if I misheard but... Did you just say that you "love" me?
-「うん。君のことが好きって告白した」=Yeah. I just confessed my love for you.
-「あっ……あの、その……こういう時、どうお答えすればいいか……経験がなく……」=Ah--... Uhm, That is... I don't know how... I'm supposed to reply to this sort of thing...
-「君の正直な気持ちを聞かせて欲しい。俺のこと、どう思ってる？」=I want to hear your honest feelings. How do you feel about me?
-「それはもちろん……お慕いしております……ええ、私もあなたのことが、好き、です」=Well, of course, that's... I adore you... Yes, I love you too.
-「……良かった！　じゃあ、俺と付き合ってくれる？」=... Great! Then, will you go out with me?
-「……はい！　私で良ければ、喜んで」=...Yes! If I'll do, then gladly.
+「は？　……あの、私の聞き間違いでしたら申し訳ないのですが……今、私に『好き』とおっしゃいましたか」=“Hah?... Uhm, I apologize if I misheard but... Did you just say that you "love" me?”
+「うん。君のことが好きって告白した」=“Yeah. I just confessed my love for you.”
+「あっ……あの、その……こういう時、どうお答えすればいいか……経験がなく……」=“Ah--... Uhm, That is... I don't know how... I'm supposed to reply to this sort of thing...”
+「君の正直な気持ちを聞かせて欲しい。俺のこと、どう思ってる？」=“I want to hear your honest feelings. How do you feel about me?”
+「それはもちろん……お慕いしております……ええ、私もあなたのことが、好き、です」=“Well, of course, that's... I adore you... Yes, I love you too.”
+「……良かった！　じゃあ、俺と付き合ってくれる？」=“... Great! Then, will you go out with me?”
+「……はい！　私で良ければ、喜んで」=“...Yes! If I'll do, then gladly.”

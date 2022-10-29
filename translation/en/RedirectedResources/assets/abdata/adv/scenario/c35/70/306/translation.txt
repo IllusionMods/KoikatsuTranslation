@@ -1,23 +1,23 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「はぁぁ、今日はめっちゃ歌っとるねぇ！　二人きりなのにこげん盛り上がって……ちょっと恥ずかしい」=Haa, we've sure sung a lot today! Getting so fired up with just the two of us... it's a bit embarrassing.
-「そんなこと気にしなくていいよー。俺も思いきりはしゃいでるし。たまにはこういうのもいいよね」=You don't need to worry about that sort of thing. I'm having the time of my life here too. Cutting loose like this is nice every once in a while, no?
-「うん。歌もそうやけど……君と二人きりでこげん長い時間一緒にいられるのも嬉しかったと。私、それだけで楽しくなるん」=Yeah. The singing is great too but... just being able to spend time with you like this is amazing too. Just that by itself is fun enough for me.
-「それも一緒だ。俺も[H名]と二人きりでいられるだけで楽しいよ。離れがたくなる」=I feel the same way. Just being together with you is plenty fun for me too. I don't want to be apart.
-「あ……も、もう……我慢しとったんに……。それ言ったら……本当に離れたくなくなるやん……」=Ah... j-jeez... even though I doing my best to control myself here... If you say that... I really won't want to be apart...
-「[H名]……」=[H名]...
+「はぁぁ、今日はめっちゃ歌っとるねぇ！　二人きりなのにこげん盛り上がって……ちょっと恥ずかしい」=“Haa, we've sure sung a lot today! Getting so fired up with just the two of us... it's a bit embarrassing.”
+「そんなこと気にしなくていいよー。俺も思いきりはしゃいでるし。たまにはこういうのもいいよね」=“You don't need to worry about that sort of thing. I'm having the time of my life here too. Cutting loose like this is nice every once in a while, no?”
+「うん。歌もそうやけど……君と二人きりでこげん長い時間一緒にいられるのも嬉しかったと。私、それだけで楽しくなるん」=“Yeah. The singing is great too but... just being able to spend time with you like this is amazing too. Just that by itself is fun enough for me.”
+「それも一緒だ。俺も[H名]と二人きりでいられるだけで楽しいよ。離れがたくなる」=“I feel the same way. Just being together with you is plenty fun for me too. I don't want to be apart.”
+「あ……も、もう……我慢しとったんに……。それ言ったら……本当に離れたくなくなるやん……」=“Ah... j-jeez... even though I doing my best to control myself here... If you say that... I really won't want to be apart...”
+「[H名]……」=“[H名]...”
 CHOICE:『最後までくっついていよう』=『Cling to each other till the last moment』
 CHOICE:『最後まで思いきりはしゃごう』=『Have a grand old time till the end』
-「それじゃあさ、もう少し時間はあるし、ギリギリまでくっついてよっか。ほら、時間はどうにもならないけど、せめて距離だけでも近くに……」=Well then, we still have a bit of time so, shall we cling to each other till we have to leave? There's nothing we can do about our limited time but, we can atleast spend it ever so closer together...
-「あ……うん、そうしたい……えへへ、隣、ぺったりするね」=Ah... yeah, I wanna do that... ehehe, I'll stick tight to you then.
-「ん……君の身体、すごい温かい……今、歌っとったけんやね」=Nnn... your body, it's so warm... wonder if it's because you were singing hard until now?
-「[H名]の身体も熱いよ。隣にいるだけでぽかぽかしてくる……」=Your body's really hot too, [H名]. Just being next to you makes me feel so warm and comfy...
-「お互いに温め合えるとか……嬉しい……えへへ、なんか……曲入れずにこのままくっついておきたい気分なん……」=Warming each other up like this... makes me so happy... ehehe, I feel like... not putting in a song, and just staying like this, until our time runs out...
-「あはは、それは嬉しいけど……でも……えっと……この状況だと……俺、我慢出来なくなりそうな気がするよ……」=Ahaha, that makes me real happy... but... erhm... if we stay like this... I feel like I won't be able to control myself...
-「大丈夫……私も我慢出来んけん、こうやって誘っとーっちゃもん……ちょっと恥ずかしいけど……残りの時間、二人きりでいっぱい愛し合いたいっちゃん……」=It's alright... I wasn't able to control myself either, so this is my way of inviting you... It's a bit embarrassing but... I want to make lots of love with you, in our remaining time...
-「[H名]……うん、おいで。いっぱいくっつこう」=[H名]... okay, come. Let's cling lots together.
-「それじゃ、寂しい思いが消せるように、最後まで思いきりはしゃごう」=Well then, let's have the time of our lives until the end, and wipe out all the sad feelings.
-「あ……うんっ！　そうやね。どっちにしても時間は来るっちゃけん。それなら楽しんだ方がいいもん」=Ah... yeah--! Good idea. The time's gonna pass either way. Might as well enjoy it.
-「だよね！　じゃ、早速……なに歌う？」=Exactly! Then, let's get on with the show... whatcha wanna sing?
-「せっかくやけん、一緒に歌って盛り上がれる曲がいいよ！　えーっと例えば……」=Since it's come to this, let's sing an exciting duet together! Erhm, how about...
+「それじゃあさ、もう少し時間はあるし、ギリギリまでくっついてよっか。ほら、時間はどうにもならないけど、せめて距離だけでも近くに……」=“Well then, we still have a bit of time so, shall we cling to each other till we have to leave? There's nothing we can do about our limited time but, we can atleast spend it ever so closer together...”
+「あ……うん、そうしたい……えへへ、隣、ぺったりするね」=“Ah... yeah, I wanna do that... ehehe, I'll stick tight to you then.”
+「ん……君の身体、すごい温かい……今、歌っとったけんやね」=“Nnn... your body, it's so warm... wonder if it's because you were singing hard until now?”
+「[H名]の身体も熱いよ。隣にいるだけでぽかぽかしてくる……」=“Your body's really hot too, [H名]. Just being next to you makes me feel so warm and comfy...”
+「お互いに温め合えるとか……嬉しい……えへへ、なんか……曲入れずにこのままくっついておきたい気分なん……」=“Warming each other up like this... makes me so happy... ehehe, I feel like... not putting in a song, and just staying like this, until our time runs out...”
+「あはは、それは嬉しいけど……でも……えっと……この状況だと……俺、我慢出来なくなりそうな気がするよ……」=“Ahaha, that makes me real happy... but... erhm... if we stay like this... I feel like I won't be able to control myself...”
+「大丈夫……私も我慢出来んけん、こうやって誘っとーっちゃもん……ちょっと恥ずかしいけど……残りの時間、二人きりでいっぱい愛し合いたいっちゃん……」=“It's alright... I wasn't able to control myself either, so this is my way of inviting you... It's a bit embarrassing but... I want to make lots of love with you, in our remaining time...”
+「[H名]……うん、おいで。いっぱいくっつこう」=“[H名]... okay, come. Let's cling lots together.”
+「それじゃ、寂しい思いが消せるように、最後まで思いきりはしゃごう」=“Well then, let's have the time of our lives until the end, and wipe out all the sad feelings.”
+「あ……うんっ！　そうやね。どっちにしても時間は来るっちゃけん。それなら楽しんだ方がいいもん」=“Ah... yeah--! Good idea. The time's gonna pass either way. Might as well enjoy it.”
+「だよね！　じゃ、早速……なに歌う？」=“Exactly! Then, let's get on with the show... whatcha wanna sing?”
+「せっかくやけん、一緒に歌って盛り上がれる曲がいいよ！　えーっと例えば……」=“Since it's come to this, let's sing an exciting duet together! Erhm, how about...”

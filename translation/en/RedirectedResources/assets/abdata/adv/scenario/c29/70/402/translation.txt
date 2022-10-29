@@ -1,18 +1,18 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「ふぅ……。ここ、食べ物もだけど、やっぱり飲み物が美味しいね」=Fuu... the food's great here but damn if the drinks aren't so either.
-「ええ。人気の理由がよくわかります」=Yes. It's easy to tell why this place is so popular.
-「あなたが飲んでいるのはレモンティーでしたね」=The one you've got is a Lemon Tea, right?
-「そうそう。レモンの爽やかな感じがすきなんだよね。[H名]はコーヒーだけど、よく飲むの？」=Right. Can't help but love the refreshing feeling lemons give me. You went with a coffee though, [H名]. Do you drink coffee a lot?
-「そうですね。苦味で頭が冴えてくるので」=I suppose so. The bitterness clears up my head.
-「おおぉ。なんだか大人だね」=Oooh. Sounds mature and stuff.
-「大人……なのでしょうか。よくわかりませんが」=Is it really mature...? I don't really understand that stuff.
-「俺のイメージだとそんな感じだよ。ブラックが至高、みたいな」=To me it seems like that anyway. "Black coffee reigns supreme", and all that.
-「別にそのようなことを言うつもりはないですよ。趣味嗜好はそれぞれですから」=It's not like that's what I was trying to imply. Everyone likes different things, afterall.
-「まあ、好きな物を好きなように味わうのが一番ではあるよね」=Well, savouring the things you like in the way you like is the most important thing, at the end of the day, isn't it?
-「はい。砂糖を少し入れて飲むのが好きですね。苦味と酸味が消えない程度に」=Yes. I rather like mine with a bit of sugar in it. Just enough to still keep some of the bitterness in it.
-「甘くしすぎると、別の飲み物になっちゃうもんね」=Too sweet and it won't be coffee anymore, afterall.
-「ええ。なので私は、ミルクを入れたい時はカフェオレを頼むようにしています」=Yes. That's why, when I feel like having coffee with milk, I order a café au lait instead.
-「コーヒーはコーヒー。カフェオレはカフェオレですね」=Coffee is coffee. Café au lait is café au lait.
-「こだわりがあるんだね」=You're sure very particular about it.
+「ふぅ……。ここ、食べ物もだけど、やっぱり飲み物が美味しいね」=“Fuu... the food's great here but damn if the drinks aren't so either.”
+「ええ。人気の理由がよくわかります」=“Yes. It's easy to tell why this place is so popular.”
+「あなたが飲んでいるのはレモンティーでしたね」=“The one you've got is a Lemon Tea, right?”
+「そうそう。レモンの爽やかな感じがすきなんだよね。[H名]はコーヒーだけど、よく飲むの？」=“Right. Can't help but love the refreshing feeling lemons give me. You went with a coffee though, [H名]. Do you drink coffee a lot?”
+「そうですね。苦味で頭が冴えてくるので」=“I suppose so. The bitterness clears up my head.”
+「おおぉ。なんだか大人だね」=“Oooh. Sounds mature and stuff.”
+「大人……なのでしょうか。よくわかりませんが」=“Is it really mature...? I don't really understand that stuff.”
+「俺のイメージだとそんな感じだよ。ブラックが至高、みたいな」=“To me it seems like that anyway. "Black coffee reigns supreme", and all that.”
+「別にそのようなことを言うつもりはないですよ。趣味嗜好はそれぞれですから」=“It's not like that's what I was trying to imply. Everyone likes different things, afterall.”
+「まあ、好きな物を好きなように味わうのが一番ではあるよね」=“Well, savouring the things you like in the way you like is the most important thing, at the end of the day, isn't it?”
+「はい。砂糖を少し入れて飲むのが好きですね。苦味と酸味が消えない程度に」=“Yes. I rather like mine with a bit of sugar in it. Just enough to still keep some of the bitterness in it.”
+「甘くしすぎると、別の飲み物になっちゃうもんね」=“Too sweet and it won't be coffee anymore, afterall.”
+「ええ。なので私は、ミルクを入れたい時はカフェオレを頼むようにしています」=“Yes. That's why, when I feel like having coffee with milk, I order a café au lait instead.”
+「コーヒーはコーヒー。カフェオレはカフェオレですね」=“Coffee is coffee. Café au lait is café au lait.”
+「こだわりがあるんだね」=“You're sure very particular about it.”

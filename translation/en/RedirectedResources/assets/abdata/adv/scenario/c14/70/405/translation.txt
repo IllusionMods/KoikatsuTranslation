@@ -1,27 +1,27 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「ハンバーグって、ボリュームのあるものを頼んだね」=You sure ordered something pretty substantial there, a whole hamburg steak.
-「まあな。やっぱ、腹が減った時はこういう肉料理に限るだろ！」=Yeah. When you're hungry, you gotta stuff yourself with meat, as I always say!
-「う～ん、どうかな～。ちょっと重すぎない？　こんなのばかり食べたらぶくぶく太っちゃうよ？」=Hmm~, I dunno~. Isn't it a bit too much? If you always stuff yourself with this much meat, you're gonna get all plump and fat, you know?
-「うっせ～な。私は今、腹ペコなんだよ。余計なお世話だ」=Shaddup~. I'm currently starving, just so you know. I don't need your concern.
+「ハンバーグって、ボリュームのあるものを頼んだね」=“You sure ordered something pretty substantial there, a whole hamburg steak.”
+「まあな。やっぱ、腹が減った時はこういう肉料理に限るだろ！」=“Yeah. When you're hungry, you gotta stuff yourself with meat, as I always say!”
+「う～ん、どうかな～。ちょっと重すぎない？　こんなのばかり食べたらぶくぶく太っちゃうよ？」=“Hmm~, I dunno~. Isn't it a bit too much? If you always stuff yourself with this much meat, you're gonna get all plump and fat, you know?”
+「うっせ～な。私は今、腹ペコなんだよ。余計なお世話だ」=“Shaddup~. I'm currently starving, just so you know. I don't need your concern.”
 ぐ～……=*growl*~...
-「……あちゃ～、朝が軽かったかな？」=...Darn~, did I pack in too little breakfast?
-「ほ～う、お前も相当腹が減ってるみたいだけど、大丈夫か～？」=Hooh~, you seem like you're pretty much on the brink of starvation yourself, you sure you're alright~?
-「ちょ、ちょっとお腹が鳴っただけだよ！」=T-That was just a tiny growl, I swear!
-「う、また鳴っちゃった……」=Uu, it growled again...
-「ほうほう、腹の方は正直だなぁ～」=Hoh hoh, atleast your belly's honest about it~
-「お前さ。ちゃんと飯食ってんのか？」=Question. You sure you're getting enough food?
-「じ、実は、ご飯があまり喉を通らなかったんだよね。デート前で緊張しちゃってさ……」=B-Being honest, I just couldn't get food down my throat. I just got so nervous about our date...
-「な～んだ、そういうことだったのかよ」=The heck~, was that really it?
-「だったらさ、このハンバーグ、ちょっと分けてやろうか？」=In that case, want a piece of this steak?
-「い、いや……別に……」=N-No... you don't need to...
-「……はは、お言葉に甘えて、ちょっとだけ貰おうかな」=...Haha, I guess I'll take you up on that, and go for a little bit.
-「ほら、あ～んってしてみろ。特別に食べさせてやる」=C'mon, open your maw wide. I'll feed it to you, just this once.
+「……あちゃ～、朝が軽かったかな？」=“...Darn~, did I pack in too little breakfast?”
+「ほ～う、お前も相当腹が減ってるみたいだけど、大丈夫か～？」=“Hooh~, you seem like you're pretty much on the brink of starvation yourself, you sure you're alright~?”
+「ちょ、ちょっとお腹が鳴っただけだよ！」=“T-That was just a tiny growl, I swear!”
+「う、また鳴っちゃった……」=“Uu, it growled again...”
+「ほうほう、腹の方は正直だなぁ～」=“Hoh hoh, atleast your belly's honest about it~”
+「お前さ。ちゃんと飯食ってんのか？」=“Question. You sure you're getting enough food?”
+「じ、実は、ご飯があまり喉を通らなかったんだよね。デート前で緊張しちゃってさ……」=“B-Being honest, I just couldn't get food down my throat. I just got so nervous about our date...”
+「な～んだ、そういうことだったのかよ」=“The heck~, was that really it?”
+「だったらさ、このハンバーグ、ちょっと分けてやろうか？」=“In that case, want a piece of this steak?”
+「い、いや……別に……」=“N-No... you don't need to...”
+「……はは、お言葉に甘えて、ちょっとだけ貰おうかな」=“...Haha, I guess I'll take you up on that, and go for a little bit.”
+「ほら、あ～んってしてみろ。特別に食べさせてやる」=“C'mon, open your maw wide. I'll feed it to you, just this once.”
 （おぉ、マジか……！）=(Ooh, for real...!?)
-「じゃ、じゃあ、あ～ん……」=T-Then, aaahn~...
+「じゃ、じゃあ、あ～ん……」=“T-Then, aaahn~...”
 （うおっ、熱い！　口の中がやけどしそう！）=(Uwoh--, it's hot! My mouth's gonna burn!)
-「あ、コラ、暴れるなって！　ソースが散ったじゃねえか！」=Ah, c'mon, don't go wild! You got the sauce everywhere!
-「もう、じっとしてろよ。今、私が拭いてやるから……」=Jeez, stay still. I'll wipe it off...
-「あ……ありがとう」=Ah... thanks.
+「あ、コラ、暴れるなって！　ソースが散ったじゃねえか！」=“Ah, c'mon, don't go wild! You got the sauce everywhere!”
+「もう、じっとしてろよ。今、私が拭いてやるから……」=“Jeez, stay still. I'll wipe it off...”
+「あ……ありがとう」=“Ah... thanks.”
 （[H名]って、結構面倒見がいいんだな……）=(She's pretty caring, huh...)

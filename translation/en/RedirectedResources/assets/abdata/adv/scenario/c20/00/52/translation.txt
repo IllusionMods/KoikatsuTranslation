@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「あ、あのー、私まだ満足していないです……も、もう終わりだなんて嫌です」=U-Uhm. I'm still not satisfied... I-I don't want to stop here.
+「あ、あのー、私まだ満足していないです……も、もう終わりだなんて嫌です」=“U-Uhm. I'm still not satisfied... I-I don't want to stop here.”

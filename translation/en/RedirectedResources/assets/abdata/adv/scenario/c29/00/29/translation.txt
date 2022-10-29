@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「まさか、ほしかった物をプレゼントしていただけるなんて。これは大切にします」=I can't believe you gifted me something I wanted so badly. I'll treasure it.
+「まさか、ほしかった物をプレゼントしていただけるなんて。これは大切にします」=“I can't believe you gifted me something I wanted so badly. I'll treasure it.”

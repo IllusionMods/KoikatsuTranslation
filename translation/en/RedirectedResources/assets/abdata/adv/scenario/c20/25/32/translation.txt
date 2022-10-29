@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「……ありがとうございます。あの、私ってこういうのが好きそうに見えるのでしょうか？」=...Thank you very much. Uhm, do I seem like a girl that likes this sort of thing?
+「……ありがとうございます。あの、私ってこういうのが好きそうに見えるのでしょうか？」=“...Thank you very much. Uhm, do I seem like a girl that likes this sort of thing?”

@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「いい食いっぷりだなお前」=You sure eat well.
-「ここのご飯おいしいね！」=The food here's great, innit!
-「おい、ほっぺたになんかついてるぞ」=Oi, you've got some on your cheeks.
+「いい食いっぷりだなお前」=“You sure eat well.”
+「ここのご飯おいしいね！」=“The food here's great, innit!”
+「おい、ほっぺたになんかついてるぞ」=“Oi, you've got some on your cheeks.”

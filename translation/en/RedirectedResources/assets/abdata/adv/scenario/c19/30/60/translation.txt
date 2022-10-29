@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「今日も楽しかった。また次も誘ってくれると、嬉しいな」=I had a blast today too. I'd love to, do this again.
+「今日も楽しかった。また次も誘ってくれると、嬉しいな」=“I had a blast today too. I'd love to, do this again.”

@@ -1,22 +1,22 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「ここのハンバーグちょっとした名物料理なんだって」=They say the hamburg steak here is something like a local speciality of this entire area.
-「名物になるのもわかるよ。うまそうだもん、見るからに」=I can understand why. Just by looks alone, it seems so delicious.
-「ふふ、[P名]君、食べたそうな顔してる～！　一口あげよっか？」=Fufu, [P]-kun, you sure seem like you wanna try some~! Want a bite?
-「ほんとに？　じゃあ、お言葉に甘えて……」=I can have one? Well then, I'll take you up on that offer...
-「それじゃ、あーんして」=Okay then, open wide.
-「あーん……」=Aaahn...
-「はいっ、めしあがれ～♪」=Here--, dig in~♪
+「ここのハンバーグちょっとした名物料理なんだって」=“They say the hamburg steak here is something like a local speciality of this entire area.”
+「名物になるのもわかるよ。うまそうだもん、見るからに」=“I can understand why. Just by looks alone, it seems so delicious.”
+「ふふ、[P名]君、食べたそうな顔してる～！　一口あげよっか？」=“Fufu, [P]-kun, you sure seem like you wanna try some~! Want a bite?”
+「ほんとに？　じゃあ、お言葉に甘えて……」=“I can have one? Well then, I'll take you up on that offer...”
+「それじゃ、あーんして」=“Okay then, open wide.”
+「あーん……」=“Aaahn...”
+「はいっ、めしあがれ～♪」=“Here--, dig in~♪”
 「あむ……」=*chew*...
-「あぢーーーーっ！！」=HODDD---!!
-「あっ！　ご、ごめん！　熱かった？　早く冷やさないと！」=Ah--! S-Sorry! Was it hot? You need to cool down your tongue!
+「あぢーーーーっ！！」=“HODDD---!!”
+「あっ！　ご、ごめん！　熱かった？　早く冷やさないと！」=“Ah--! S-Sorry! Was it hot? You need to cool down your tongue!”
 「ほぐーーっ！　ほぐーーっ！　うぐ……ごっくん！」=*Hoguh*--! *Hoguh*--! *Uguh*... *Gulp*!
 （あ～、びっくりした……）=(Ah~, that really startled me...)
-「そうだ！　お口にふーふーしてあげる！　それ、ふーーーっ！」=Right! I'll blow air into your mouth! There, *blow*--!
-「ちょっ！　何してるの！　も、もう大丈夫だから！」=Hey--! What are you doing! I-I'm alright now, it's fine!
-「えっ！　あ……ほんとだ！　もうごっくんしたんだぁ……よかった～……」=Eh--! Ah... you're right! You already gulped it down... I'm so glad~...
-「肉は熱いし、[H名]が顔にふーふーしてくるし……２度びっくりだよ……」=The meat was hot, and you started blowing into my mouth too... you startled me twice over...
-「ごめんねぇ……私、[P名]君が苦しそうだったから、焦っちゃった……」=Sorry~... you looked like you were in pain, [P]-kun, I panicked...
-「そんな泣きそうな顔しなくても……別に怒ってるわけじゃないから大丈夫だよ」=You don't have to become so teary-eyed... I'm not really mad at you, so it's alright.
-「よかった……あ～んする前にふーふーしないとだね……」=I'm glad... I'll have to make sure to blow on it before I feed it to you next time...
+「そうだ！　お口にふーふーしてあげる！　それ、ふーーーっ！」=“Right! I'll blow air into your mouth! There, *blow*--!”
+「ちょっ！　何してるの！　も、もう大丈夫だから！」=“Hey--! What are you doing! I-I'm alright now, it's fine!”
+「えっ！　あ……ほんとだ！　もうごっくんしたんだぁ……よかった～……」=“Eh--! Ah... you're right! You already gulped it down... I'm so glad~...”
+「肉は熱いし、[H名]が顔にふーふーしてくるし……２度びっくりだよ……」=“The meat was hot, and you started blowing into my mouth too... you startled me twice over...”
+「ごめんねぇ……私、[P名]君が苦しそうだったから、焦っちゃった……」=“Sorry~... you looked like you were in pain, [P]-kun, I panicked...”
+「そんな泣きそうな顔しなくても……別に怒ってるわけじゃないから大丈夫だよ」=“You don't have to become so teary-eyed... I'm not really mad at you, so it's alright.”
+「よかった……あ～んする前にふーふーしないとだね……」=“I'm glad... I'll have to make sure to blow on it before I feed it to you next time...”

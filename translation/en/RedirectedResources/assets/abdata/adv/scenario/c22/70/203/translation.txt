@@ -1,15 +1,15 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「ふぅ、今日はずいぶん遊んだなぁ。あっと言う間に夕方になっちゃった……」=Fuu, we sure played around a lot today. It turned into evening in no time...
-「そうだね。一応、乗り物にもほとんど乗れたけど……」=Yeah. We did ride most of the rides we wanted to, but...
+「ふぅ、今日はずいぶん遊んだなぁ。あっと言う間に夕方になっちゃった……」=“Fuu, we sure played around a lot today. It turned into evening in no time...”
+「そうだね。一応、乗り物にもほとんど乗れたけど……」=“Yeah. We did ride most of the rides we wanted to, but...”
 CHOICE:『最後に観覧車だけ乗ってかない？』=Wanna ride just the ferris wheel to close the day off?
 CHOICE:『遅くなる前に帰ろうか』=Let's go home before it gets dark
-「最後にさ、あの観覧車にだけ乗っていかない？」=How about we close the day off, by riding that ferris wheel?
-「あっ、いいね！　今からだったら、ちょうど綺麗な夜景が見れそう！」=Ah--, sounds good! Bet we'd catch the night view just in time!
-「さっそく並びに行こう！」=Let's go line up!
-「暗くなったら乗れる物も限られるだろうし……遅くなる前に帰ろうか？」=There's probably not that many rides we can ride, now that it's nighttime... shall we go home before it gets dark?
-「そうだね。このくらいで帰る方が、次に来る時のことを楽しみに出来るからちょうどいいかも！」=Yeah. If we go home right now, we'll have something to look forward to for next time, so it might just be perfect!
-「それじゃ今度来る時には、あらかじめ乗りたい物を考えてから来よう」=Well then, let's think of all the rides we want to ride in advance, before we come next time.
-「うんっ！　デートの予習だね。そういうことが二人で出来るって……すごく嬉しい。えへへ、やっぱりもう楽しみだよ」=Okay--! That's the next date planned then. Being able to do this stuff together... makes me so happy. Ehehe, I really am already looking forward to it.
-「あはは、俺も。次のデートの予定を話をしながら帰ろっか」=Ahaha, me too. Let's walk home while discussing the plan for the next date.
+「最後にさ、あの観覧車にだけ乗っていかない？」=“How about we close the day off, by riding that ferris wheel?”
+「あっ、いいね！　今からだったら、ちょうど綺麗な夜景が見れそう！」=“Ah--, sounds good! Bet we'd catch the night view just in time!”
+「さっそく並びに行こう！」=“Let's go line up!”
+「暗くなったら乗れる物も限られるだろうし……遅くなる前に帰ろうか？」=“There's probably not that many rides we can ride, now that it's nighttime... shall we go home before it gets dark?”
+「そうだね。このくらいで帰る方が、次に来る時のことを楽しみに出来るからちょうどいいかも！」=“Yeah. If we go home right now, we'll have something to look forward to for next time, so it might just be perfect!”
+「それじゃ今度来る時には、あらかじめ乗りたい物を考えてから来よう」=“Well then, let's think of all the rides we want to ride in advance, before we come next time.”
+「うんっ！　デートの予習だね。そういうことが二人で出来るって……すごく嬉しい。えへへ、やっぱりもう楽しみだよ」=“Okay--! That's the next date planned then. Being able to do this stuff together... makes me so happy. Ehehe, I really am already looking forward to it.”
+「あはは、俺も。次のデートの予定を話をしながら帰ろっか」=“Ahaha, me too. Let's walk home while discussing the plan for the next date.”

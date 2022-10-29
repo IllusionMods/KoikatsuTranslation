@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「はぅぅ、小説みたいにすごい事しちゃった……今にも、顔から火が出そうだよぉ……」=Hauuu, we did such a fantastical thing... even now, feel like my face's gonna burst into flames...
+「はぅぅ、小説みたいにすごい事しちゃった……今にも、顔から火が出そうだよぉ……」=“Hauuu, we did such a fantastical thing... even now, feel like my face's gonna burst into flames...”

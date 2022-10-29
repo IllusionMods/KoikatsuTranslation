@@ -1,5 +1,5 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「ちょ、ちょっと、なんでそうなるのさぁ……」=H-Hey, why do I have to do...
-「むぅ、わかったよぉ……全部任せるから、ちゃっちゃと済ませちゃって～……」=Muh, I got it... I'll leave it all to you so, get it over with quick~...
+「ちょ、ちょっと、なんでそうなるのさぁ……」=“H-Hey, why do I have to do...”
+「むぅ、わかったよぉ……全部任せるから、ちゃっちゃと済ませちゃって～……」=“Muh, I got it... I'll leave it all to you so, get it over with quick~...”

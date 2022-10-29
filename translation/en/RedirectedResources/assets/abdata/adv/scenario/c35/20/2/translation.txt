@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「私ね、方言って……実はちょっと恥ずかしかったっちゃけど……君とやったら、そういうこと意識せんでも、普通に会話出来る気がするとよ」=You know how I have a dialect... I was actually embarrassed about it, a little bit, but... when I'm with you, I can chat normally without having to worry about that sort of thing.
-「あはは、ありがとう。話し方だって[H名]の個性だし、俺は好きだよ。話してて楽しいもん」=Ahaha, thanks. The way you speak is part of your charm, [H名], I like it. It's fun to chat with you.
-「本当？　そう言ってもらえると嬉しい。初めて会った時から、話しやすい人やなぁって思ったけど……君がいい人やからなんやね」=Really? Hearing you say that makes me really happy. When we first met, I thought you were a really easy person to talk to but... I guess that's just because you're such a sweet guy.
-「まだまだ方言はなおせそうにないっちゃけど……これからもよろしくね」=I don't think my dialect is going to slip anytime soon so... take care of me in the future too.
-「うん、俺の方こそよろしく。これからもたくさん話そうね」=Yeah, same here. Let's talk lots in the future.
-「うんっ！　恥ずかしがらずにどんどん方言出していくけんね♪」=Yeah--! I'll let my dialect seep through without getting embarrassed about it♪
-「あっ、私、そろそろ行かないかん時間やった！　それじゃ、またね！　君と知り合えて本当に良かったよー！」=Ah--, I need to run! See ya later! I am really glad I met you!
+「私ね、方言って……実はちょっと恥ずかしかったっちゃけど……君とやったら、そういうこと意識せんでも、普通に会話出来る気がするとよ」=“You know how I have a dialect... I was actually embarrassed about it, a little bit, but... when I'm with you, I can chat normally without having to worry about that sort of thing.”
+「あはは、ありがとう。話し方だって[H名]の個性だし、俺は好きだよ。話してて楽しいもん」=“Ahaha, thanks. The way you speak is part of your charm, [H名], I like it. It's fun to chat with you.”
+「本当？　そう言ってもらえると嬉しい。初めて会った時から、話しやすい人やなぁって思ったけど……君がいい人やからなんやね」=“Really? Hearing you say that makes me really happy. When we first met, I thought you were a really easy person to talk to but... I guess that's just because you're such a sweet guy.”
+「まだまだ方言はなおせそうにないっちゃけど……これからもよろしくね」=“I don't think my dialect is going to slip anytime soon so... take care of me in the future too.”
+「うん、俺の方こそよろしく。これからもたくさん話そうね」=“Yeah, same here. Let's talk lots in the future.”
+「うんっ！　恥ずかしがらずにどんどん方言出していくけんね♪」=“Yeah--! I'll let my dialect seep through without getting embarrassed about it♪”
+「あっ、私、そろそろ行かないかん時間やった！　それじゃ、またね！　君と知り合えて本当に良かったよー！」=“Ah--, I need to run! See ya later! I am really glad I met you!”

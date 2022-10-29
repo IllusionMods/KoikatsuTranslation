@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「あうぅ、こんなとこを見られてしまうなんて……」=Aauu, to think you'd see me like this...
+「あうぅ、こんなとこを見られてしまうなんて……」=“Aauu, to think you'd see me like this...”

@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「あ……おはようなのです」=Ah... good morning!
-「ん……おはよう……[H]はもう起きてたんだ」=Mmm... you're already up, [H]... good morning.
-「はいです。だって……あなたに寝顔見られるの……恥ずかしかったですから……」=You betcha! It would be embarrassing... if you watched me while I was sleeping.
-「あ……そっか。あはは」=Ah... I see. Ahaha.
-「……？　どーして笑うですか？」=...? Why are you laughing?
-「寝顔だったら……もう昨日の夜見ちゃったから……」=If this about the faces you make when you sleep... I already watched them last night...
-「にゃー、乙女の秘密を見たですね！　そんな悪い彼氏さんにはっ……おはようのちゅーしちゃうですっ！　ちゅっ♪」=Meow- You observed the maiden's secret! For being such a bad boyfriend... I'm going to give you a good morning kiss! *smack*♪
+「あ……おはようなのです」=“Ah... good morning!”
+「ん……おはよう……[H]はもう起きてたんだ」=“Mmm... you're already up, [H]... good morning.”
+「はいです。だって……あなたに寝顔見られるの……恥ずかしかったですから……」=“You betcha! It would be embarrassing... if you watched me while I was sleeping.”
+「あ……そっか。あはは」=“Ah... I see. Ahaha.”
+「……？　どーして笑うですか？」=“...? Why are you laughing?”
+「寝顔だったら……もう昨日の夜見ちゃったから……」=“If this about the faces you make when you sleep... I already watched them last night...”
+「にゃー、乙女の秘密を見たですね！　そんな悪い彼氏さんにはっ……おはようのちゅーしちゃうですっ！　ちゅっ♪」=“Meow- You observed the maiden's secret! For being such a bad boyfriend... I'm going to give you a good morning kiss! *smack*♪”

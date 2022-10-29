@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「もし次があったら、さらに気持ちよくなりましょう」=If we ever do this again, let's have even more fun then.
+「もし次があったら、さらに気持ちよくなりましょう」=“If we ever do this again, let's have even more fun then.”

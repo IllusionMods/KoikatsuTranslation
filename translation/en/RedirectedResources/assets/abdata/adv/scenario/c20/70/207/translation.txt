@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「ふぅ……遅い時間になったし、そろそろ帰ろうか」=Fuu... it's gotten pretty late too, we should go home.
-「はい……素敵な遊園地と、お別れしなきゃですね。少し……切ないですけど」=Yes... with a day this lovely, you do eventually have to say goodbye, don't you? I feel... a bit lonely.
-「あの……また二人で、遊園地に遊びに来てくれますか？」=Uhm... will you, come on a date with me here again?
-「もちろん！　次はいつ来れるかな？　予定を合わせないと」=Of course! When have you got time? We gotta match our schedules.
-「えへへ、ありがとうございます」=Ehehe, thank you very much.
+「ふぅ……遅い時間になったし、そろそろ帰ろうか」=“Fuu... it's gotten pretty late too, we should go home.”
+「はい……素敵な遊園地と、お別れしなきゃですね。少し……切ないですけど」=“Yes... with a day this lovely, you do eventually have to say goodbye, don't you? I feel... a bit lonely.”
+「あの……また二人で、遊園地に遊びに来てくれますか？」=“Uhm... will you, come on a date with me here again?”
+「もちろん！　次はいつ来れるかな？　予定を合わせないと」=“Of course! When have you got time? We gotta match our schedules.”
+「えへへ、ありがとうございます」=“Ehehe, thank you very much.”

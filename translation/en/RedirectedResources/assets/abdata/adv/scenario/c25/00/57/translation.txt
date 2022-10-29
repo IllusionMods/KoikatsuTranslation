@@ -1,12 +1,12 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「デート、デート……、初めてっすよこんなこと……」=A date, a date... it's my first time, you know, doing something like this...
-「俺だって緊張してるよ。今日は一緒に楽しもう」=I'm nervous myself too, you know. Let's have a blast together today.
-「インドア派なんで～、行先とか全部お任せなんだけど～」=I'm the indoorsy sort so~, I'mma leave all of the details to you~
-「はは、大丈夫だよ、任せて」=Haha, it's alright, I'll take care of it.
-「ふ～ん、ま、まあたまには悪くないかな～」=Mmm, w-well, this sort of thing isn't all that bad either, every so often~
-「楽しんでもらえてなにより」=I'm glad you had fun.
-「でも、人目を感じるだけでドッと疲れるね～」=But, just feeling others' eyes on me really tires me out~
-「ああ、俺も人混みは苦手だな」=Yeah, I'm bad with crowds myself too.
-「ま～疲れたけど良かったよ。ありがと～、またね～」=Well~, it was tiring but, I had fun. Thanks~, see ya~
+「デート、デート……、初めてっすよこんなこと……」=“A date, a date... it's my first time, you know, doing something like this...”
+「俺だって緊張してるよ。今日は一緒に楽しもう」=“I'm nervous myself too, you know. Let's have a blast together today.”
+「インドア派なんで～、行先とか全部お任せなんだけど～」=“I'm the indoorsy sort so~, I'mma leave all of the details to you~”
+「はは、大丈夫だよ、任せて」=“Haha, it's alright, I'll take care of it.”
+「ふ～ん、ま、まあたまには悪くないかな～」=“Mmm, w-well, this sort of thing isn't all that bad either, every so often~”
+「楽しんでもらえてなにより」=“I'm glad you had fun.”
+「でも、人目を感じるだけでドッと疲れるね～」=“But, just feeling others' eyes on me really tires me out~”
+「ああ、俺も人混みは苦手だな」=“Yeah, I'm bad with crowds myself too.”
+「ま～疲れたけど良かったよ。ありがと～、またね～」=“Well~, it was tiring but, I had fun. Thanks~, see ya~”

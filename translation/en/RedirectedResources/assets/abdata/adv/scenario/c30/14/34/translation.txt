@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「ありがとう。プレゼントって本当に嬉しい。テンション上がるわね♪」=Thank you. I really like the present. It makes me pumped up!
+「ありがとう。プレゼントって本当に嬉しい。テンション上がるわね♪」=“Thank you. I really like the present. It makes me pumped up!”

@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「うーん……もうちょっと頑張ってほしかったなぁ。身体の相性、悪いのかしら……」=Nnn... I'd have loved it if you tried a bit harder. Are we just, not made for each other...
+「うーん……もうちょっと頑張ってほしかったなぁ。身体の相性、悪いのかしら……」=“Nnn... I'd have loved it if you tried a bit harder. Are we just, not made for each other...”

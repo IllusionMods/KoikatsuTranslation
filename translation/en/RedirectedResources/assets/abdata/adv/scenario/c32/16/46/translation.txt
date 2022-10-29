@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「ちゃんとご満足頂けたでしょうか……」=I wonder if I was able to satisfy you...
-「すごく良かったよ」=It was amazing.
-「そうですか……！　安心しました」=I see...! I'm relieved.
+「ちゃんとご満足頂けたでしょうか……」=“I wonder if I was able to satisfy you...”
+「すごく良かったよ」=“It was amazing.”
+「そうですか……！　安心しました」=“I see...! I'm relieved.”

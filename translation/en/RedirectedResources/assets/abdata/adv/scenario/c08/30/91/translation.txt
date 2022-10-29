@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「[Pあだ名]！　おっはよう！」=[Pあだ名]! Morning!
-「おはよう、[Hあだ名]」=Morning, [Hあだ名].
-「えへへ、特別な感じがしていいね」=Ehehe, feels so nice and special.
+「[Pあだ名]！　おっはよう！」=“[Pあだ名]! Morning!”
+「おはよう、[Hあだ名]」=“Morning, [Hあだ名].”
+「えへへ、特別な感じがしていいね」=“Ehehe, feels so nice and special.”

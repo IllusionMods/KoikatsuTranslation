@@ -1,15 +1,15 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「あのね、私、色々考えて……二人の距離を縮めるために、たまには愛称で呼ぶのもいいなって思ったの」=You know, I've been thinking a lot and... I feel that for us to become closer, we should calling each other by nicknames every once in a while.
-「愛称？　例えばどんな」=Nicknames? For example?
-「そうね。例えば……『ねぇ、[Pあだ名]♪』とか？」=Well, for example, something like "Hey, [Pあだ名] ♪"
-「おお、いいね。なんかすごく新鮮……」=Ooh, that sounds good. That's really refreshing...
-「ふふっ、作戦成功ね。それじゃ今度はキミの番よ。私のことも愛称で呼んで？」=Fufu, mission successful. Now then, it's your turn. Why don't you try calling me by a nickname too?
-「そうだな。それじゃ……えっと……[Hあだ名]っていうのはどう？」=Alright. Then... um... how does [Hあだ名] sound?
-「あら、可愛い♪　キミが言うと、とても可愛い名前に聞こえるわ。何度でも呼ばれたくなっちゃう」=Ah, that's so cute ♪ Hearing it from you makes it even cuter! I don't think I could ever get bored of it.
-「あはは、気に入ってもらえて嬉しいよ。名前だけじゃなくて本人も可愛いよ、[Hあだ名]」=Ahaha, I'm glad you like it. But you know, I think the person person in question is even cuter, [Hあだ名].
-「わわっ……や、やだもう……そういう言い方されると、いつも以上に照れちゃう」=Woah... Y-you can't... If you say things like that, I'll be even more embarrassed than usual...
-「気恥ずかしいけど、もっと仲良しになれた感じがしていいね」=It feels embarrassing, but I definitely feel like we're closer.
-「でしょう？　今度から時々、意識して呼ぶわね。[Pあだ名]♪」=Right? Then from now on, every once in a while, I'll call you by your nickname, [Pあだ名] ♪
-「うん、俺も。[Hあだ名]」=Yeah, I'll do that too, [Hあだ名].
+「あのね、私、色々考えて……二人の距離を縮めるために、たまには愛称で呼ぶのもいいなって思ったの」=“You know, I've been thinking a lot and... I feel that for us to become closer, we should calling each other by nicknames every once in a while.”
+「愛称？　例えばどんな」=“Nicknames? For example?”
+「そうね。例えば……『ねぇ、[Pあだ名]♪』とか？」=“Well, for example, something like "Hey, [Pあだ名] ♪”
+「おお、いいね。なんかすごく新鮮……」=“Ooh, that sounds good. That's really refreshing...”
+「ふふっ、作戦成功ね。それじゃ今度はキミの番よ。私のことも愛称で呼んで？」=“Fufu, mission successful. Now then, it's your turn. Why don't you try calling me by a nickname too?”
+「そうだな。それじゃ……えっと……[Hあだ名]っていうのはどう？」=“Alright. Then... um... how does [Hあだ名] sound?”
+「あら、可愛い♪　キミが言うと、とても可愛い名前に聞こえるわ。何度でも呼ばれたくなっちゃう」=“Ah, that's so cute ♪ Hearing it from you makes it even cuter! I don't think I could ever get bored of it.”
+「あはは、気に入ってもらえて嬉しいよ。名前だけじゃなくて本人も可愛いよ、[Hあだ名]」=“Ahaha, I'm glad you like it. But you know, I think the person person in question is even cuter, [Hあだ名].”
+「わわっ……や、やだもう……そういう言い方されると、いつも以上に照れちゃう」=“Woah... Y-you can't... If you say things like that, I'll be even more embarrassed than usual...”
+「気恥ずかしいけど、もっと仲良しになれた感じがしていいね」=“It feels embarrassing, but I definitely feel like we're closer.”
+「でしょう？　今度から時々、意識して呼ぶわね。[Pあだ名]♪」=“Right? Then from now on, every once in a while, I'll call you by your nickname, [Pあだ名] ♪”
+「うん、俺も。[Hあだ名]」=“Yeah, I'll do that too, [Hあだ名].”

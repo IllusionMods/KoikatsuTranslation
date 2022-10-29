@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「おはよう。何故私の家に来なかったの？　おかげで腕が疲れたわ。どうしてくれるのかしら？」="Good morning. Why didn't you come to my house? Thanks to you my arm is tired. How are you going to make it up to me?"
-「あっ、ごめん。教室まででも、荷物を持つよ」="Ah, sorry. I'll carry your things, even if it's just until we reach the classroom."
-「当たり前よ。それと『持つよ』ではなく『持たせて頂きます』でしょ？　言葉遣いに気を付けなさい」="Of course you will. Also, not 'I'll carry your things', but 'please let me have the pleasure of carrying your things', right? Pay attention to your words"
+「おはよう。何故私の家に来なかったの？　おかげで腕が疲れたわ。どうしてくれるのかしら？」=“Good morning. Why didn't you come to my house? Thanks to you my arm is tired. How are you going to make it up to me?”
+「あっ、ごめん。教室まででも、荷物を持つよ」=“Ah, sorry. I'll carry your things, even if it's just until we reach the classroom.”
+「当たり前よ。それと『持つよ』ではなく『持たせて頂きます』でしょ？　言葉遣いに気を付けなさい」=“Of course you will. Also, not 'I'll carry your things', but 'please let me have the pleasure of carrying your things', right? Pay attention to your words”

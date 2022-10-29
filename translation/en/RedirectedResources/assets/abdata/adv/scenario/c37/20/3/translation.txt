@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「あなたは私の家には住んでいないはずですが？」=But, you don't live at my house, so you shouldn't be needing to walk to it?
-「そりゃそうだけど、途中までなら一緒に帰れるでしょ？」=Well, yeah, that's true but, we can go home together atleast midway, right?
-「放課後デートというものですか、わかりました」=A type of after-school date, is it? Understood.
+「あなたは私の家には住んでいないはずですが？」=“But, you don't live at my house, so you shouldn't be needing to walk to it?”
+「そりゃそうだけど、途中までなら一緒に帰れるでしょ？」=“Well, yeah, that's true but, we can go home together atleast midway, right?”
+「放課後デートというものですか、わかりました」=“A type of after-school date, is it? Understood.”

@@ -1,5 +1,5 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「あ、いた！　超探したんだけど！　授業で作ったケーキ、あげようと思って」=Ah, there you are! I've been looking up and down for you! I thought I'd give you this cake that I baked in class.
-「[P]くんのために作ったんだから、ちゃんと食べてよね？　それじゃ、またね」=I made it for you, so eat it all, okay? Well then, see ya.
+「あ、いた！　超探したんだけど！　授業で作ったケーキ、あげようと思って」=“Ah, there you are! I've been looking up and down for you! I thought I'd give you this cake that I baked in class.”
+「[P]くんのために作ったんだから、ちゃんと食べてよね？　それじゃ、またね」=“I made it for you, so eat it all, okay? Well then, see ya.”

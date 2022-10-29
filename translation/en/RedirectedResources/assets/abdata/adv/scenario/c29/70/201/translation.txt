@@ -1,26 +1,26 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「さてと。まず最初はあれとか乗ってみるのはどう？」=Now then. How about we try riding that first?
-「あれは……水の中に飛び込む乗り物のようですね」=That... looks like one that goes through water.
-「そうそう。ジェットコースターほど高くは昇らないけど、スリルと爽快感は強いと思うんだ」=Right, exactly. It doesn't go as high as a roller coaster but, I bet it's real thrilling and refreshing.
-「絶叫系が平気だったらどうかな」=If you're fine with the screamer sorts of rides, then how about it?
-「大丈夫ですよ。乗ってみましょう」=I'm fine with them. Let's try riding it.
-「よしっ。じゃあレッツゴー！」=Alright--. Let's go then!
+「さてと。まず最初はあれとか乗ってみるのはどう？」=“Now then. How about we try riding that first?”
+「あれは……水の中に飛び込む乗り物のようですね」=“That... looks like one that goes through water.”
+「そうそう。ジェットコースターほど高くは昇らないけど、スリルと爽快感は強いと思うんだ」=“Right, exactly. It doesn't go as high as a roller coaster but, I bet it's real thrilling and refreshing.”
+「絶叫系が平気だったらどうかな」=“If you're fine with the screamer sorts of rides, then how about it?”
+「大丈夫ですよ。乗ってみましょう」=“I'm fine with them. Let's try riding it.”
+「よしっ。じゃあレッツゴー！」=“Alright--. Let's go then!”
 ガタンガタンガタン=*clackclackclack*
-「実際乗ってみると、こちらも思ったより高い所まで来るのですね」=It doesn't seem like it looking at it from the outside but, this one goes rather high too, huh?
-「あんまり低いとつまんないだろうからね。あっ、そろそろ頂上に着くよ」=It'd probably too boring otherwise. Ah--, we're almost at the peak.
+「実際乗ってみると、こちらも思ったより高い所まで来るのですね」=“It doesn't seem like it looking at it from the outside but, this one goes rather high too, huh?”
+「あんまり低いとつまんないだろうからね。あっ、そろそろ頂上に着くよ」=“It'd probably too boring otherwise. Ah--, we're almost at the peak.”
 ガタンガタン……カタン=*clackclack... clack*
-「なるほど。ここから一気に落ちる、と。念の為心の準備を――」=I see. We'll fall down straight from here, huh. Just in case, I'll prepare my hea--
+「なるほど。ここから一気に落ちる、と。念の為心の準備を――」=“I see. We'll fall down straight from here, huh. Just in case, I'll prepare my hea--”
 ゴーーーーーーーーーッ！=*wrack*!
-「……っ！！」=...--!!
+「……っ！！」=“...--!!”
 バッシャーン！！=*zoom*!!
 ………………=.........
 「…………」=“......”
-「だ、大丈夫？　さっきから黙ったままだけど。やっぱり怖かったとか……」=Y-You alright? You've been quiet for a while. It was that scary, huh...
-「……いえ、怖くはなかったのですが、これほど水に濡れてしまうとは思ってもなかったので……」=...No, I wasn't afraid but, I never thought I'd get this wet...
-「前の方の席だと、盛大に水をかぶっちゃうからね。ハンカチかなにかで拭こうか？」=The front seats do get blasted with most of the onslaught, afterall. Wanna wipe it off with a handkerchief or something?
-「それには及びません。ハンカチは私も持っていますし、この濡れ方ではあまり役に立たないと思います」=It's fine, that's not necessary. It's not like I don't have one myself, but I don't really think it's going to be all that useful with how absolutely drenched I am.
-「んー、でもそのままっていうのも……ジェットコースターに乗って乾かしてみる？」=Nnn, but you can't just stay like that... wanna dry off with a ride on the roller coaster?
-「発想は素晴らしいですが、連続で絶叫系というのはどうなのでしょうか……」=That's a wonderful idea but, I'm not sure about riding one screamer after another...
-「しばらく歩いていれば自然と乾くでしょうから、別のところへ行きましょう」=For now, it'll dry off by itself as we walk around, so let's go somewhere else.
+「だ、大丈夫？　さっきから黙ったままだけど。やっぱり怖かったとか……」=“Y-You alright? You've been quiet for a while. It was that scary, huh...”
+「……いえ、怖くはなかったのですが、これほど水に濡れてしまうとは思ってもなかったので……」=“...No, I wasn't afraid but, I never thought I'd get this wet...”
+「前の方の席だと、盛大に水をかぶっちゃうからね。ハンカチかなにかで拭こうか？」=“The front seats do get blasted with most of the onslaught, afterall. Wanna wipe it off with a handkerchief or something?”
+「それには及びません。ハンカチは私も持っていますし、この濡れ方ではあまり役に立たないと思います」=“It's fine, that's not necessary. It's not like I don't have one myself, but I don't really think it's going to be all that useful with how absolutely drenched I am.”
+「んー、でもそのままっていうのも……ジェットコースターに乗って乾かしてみる？」=“Nnn, but you can't just stay like that... wanna dry off with a ride on the roller coaster?”
+「発想は素晴らしいですが、連続で絶叫系というのはどうなのでしょうか……」=“That's a wonderful idea but, I'm not sure about riding one screamer after another...”
+「しばらく歩いていれば自然と乾くでしょうから、別のところへ行きましょう」=“For now, it'll dry off by itself as we walk around, so let's go somewhere else.”

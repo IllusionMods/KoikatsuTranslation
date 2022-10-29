@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「できるだけ早く、今の環境に慣れるようにしなさい。良いわね？」=Try to get used to your environment as soon as possible. You understand?
+「できるだけ早く、今の環境に慣れるようにしなさい。良いわね？」=“Try to get used to your environment as soon as possible. You understand?”

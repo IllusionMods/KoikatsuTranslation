@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「初めてでしたけれど……優しくしていただいて嬉しかったです。ありがとうございます」=That was my first time... it made me really happy how gentle you were. Thank you very much.
+「初めてでしたけれど……優しくしていただいて嬉しかったです。ありがとうございます」=“That was my first time... it made me really happy how gentle you were. Thank you very much.”

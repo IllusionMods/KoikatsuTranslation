@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「本日もありがとうございました、では」=Thank you for today as well, bye.
+「本日もありがとうございました、では」=“Thank you for today as well, bye.”

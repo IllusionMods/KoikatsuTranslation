@@ -1,11 +1,11 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「……素敵な時間だったわ」=...I had a lovely time.
+「……素敵な時間だったわ」=“...I had a lovely time.”
 「そう思ってくれたなら男冥利に尽きる……うぇっくしゅ！」=Hearing that makes me glad to have been born a guy... *Sneeze*
-「……あー、ちょっと身体が冷えちゃったかも」=......Aah, I feel a bit cold.
-「ふふ、お姉さんが温めてあげましょうか？」=Fufu, shall Onee-san warm you up?
-「い、いや、温もりは十分もらったから大丈夫だよ。それに……今、しちゃうと朝まで止まらそうだし……」=N-No need, I've already received plenty of warmth for today, so it's alright. Besides... If we do it now, I don't think we'll be able to stop till morning...
-「２回戦は大歓迎だけど、朝までは困るわね。もっと心置きなく休める場所じゃないと」=I'm always up for another round, but indeed, doing it till dawn will be quite problematic. It's gotta be in a place where we can take a good rest.
-「……とりあえず駅に戻ろうか」=...For now, shall we head back to the station?
+「……あー、ちょっと身体が冷えちゃったかも」=“......Aah, I feel a bit cold.”
+「ふふ、お姉さんが温めてあげましょうか？」=“Fufu, shall Onee-san warm you up?”
+「い、いや、温もりは十分もらったから大丈夫だよ。それに……今、しちゃうと朝まで止まらそうだし……」=“N-No need, I've already received plenty of warmth for today, so it's alright. Besides... If we do it now, I don't think we'll be able to stop till morning...”
+「２回戦は大歓迎だけど、朝までは困るわね。もっと心置きなく休める場所じゃないと」=“I'm always up for another round, but indeed, doing it till dawn will be quite problematic. It's gotta be in a place where we can take a good rest.”
+「……とりあえず駅に戻ろうか」=“...For now, shall we head back to the station?”
 （言動にいちいち振り回されてしまう……）=(Every single word and action of her makes me waver...)

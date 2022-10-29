@@ -1,12 +1,12 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「家族以外で男の人と出かけるの、初めてです……。緊張します……」=It's my first time, going outside with a man not from my family... I'm getting nervous...
-「俺もだよ。どこか行きたい場所はある？」=Me too. Is there any place you want to check out?
-「いえ、もしよければあなたにエスコートをお願いしたいです」=No, if it's alright, I'd like for you to take the lead and show me around.
-「わかった。任せて」=Got it. Leave it to me.
-「うぅ……。せっかくのデートなのに、どうしてこうなるかなぁ……」=Uuu... Why does it always end up like this, it's our first date too...
-「まぁ、飲み物を持ってる時に転ぶなんて、誰にでもある事だし……気にしないでよ」=Well, tripping while carrying drinks is something that happens to the best of us... Don't worry about it.
-「ごめんなさい、せっかくお誘いしていただいたのに……」=I'm sorry, you went out of your way to invite me too...
-「いやいや、こういうのも楽しいよ。とても記憶に残る一日だったのは間違いないしね」=Not at all, this sort of thing is fun too. I don't think either of us will be forgetting about today anytime soon either.
-「その……今日はありがとうございました。うぅ、次は今日みたいな不幸が起きないといいけど……」=Uhm... Thank you very much, for today. Uuu, it'd be great if our next date doesn't go as horribly as this one...
+「家族以外で男の人と出かけるの、初めてです……。緊張します……」=“It's my first time, going outside with a man not from my family... I'm getting nervous...”
+「俺もだよ。どこか行きたい場所はある？」=“Me too. Is there any place you want to check out?”
+「いえ、もしよければあなたにエスコートをお願いしたいです」=“No, if it's alright, I'd like for you to take the lead and show me around.”
+「わかった。任せて」=“Got it. Leave it to me.”
+「うぅ……。せっかくのデートなのに、どうしてこうなるかなぁ……」=“Uuu... Why does it always end up like this, it's our first date too...”
+「まぁ、飲み物を持ってる時に転ぶなんて、誰にでもある事だし……気にしないでよ」=“Well, tripping while carrying drinks is something that happens to the best of us... Don't worry about it.”
+「ごめんなさい、せっかくお誘いしていただいたのに……」=“I'm sorry, you went out of your way to invite me too...”
+「いやいや、こういうのも楽しいよ。とても記憶に残る一日だったのは間違いないしね」=“Not at all, this sort of thing is fun too. I don't think either of us will be forgetting about today anytime soon either.”
+「その……今日はありがとうございました。うぅ、次は今日みたいな不幸が起きないといいけど……」=“Uhm... Thank you very much, for today. Uuu, it'd be great if our next date doesn't go as horribly as this one...”

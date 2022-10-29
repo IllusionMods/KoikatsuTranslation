@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「へえ、色々あるんだね」=Heh, there's quite the variety.
-「気になってるミニシアターがあるんだけど、覗いてもいい？」=There's a mini-theatre that I've been curious about, can I take a peek?
-「うん、いいよ」=Sure, go ahead.
-「いいラインナップだったわ。雰囲気も良くてデートにはぴったりね」=It was a good line-up. The mood was also good, perfect for a date.
+「へえ、色々あるんだね」=“Heh, there's quite the variety.”
+「気になってるミニシアターがあるんだけど、覗いてもいい？」=“There's a mini-theatre that I've been curious about, can I take a peek?”
+「うん、いいよ」=“Sure, go ahead.”
+「いいラインナップだったわ。雰囲気も良くてデートにはぴったりね」=“It was a good line-up. The mood was also good, perfect for a date.”
 （よかった、喜んでもらえたみたいだ）=(I'm glad, looks like she enjoyed it)

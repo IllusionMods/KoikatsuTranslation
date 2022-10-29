@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「ねぇ、わからないところがあるんだけど……」=Hey, there's something I can't figure out...
-「どこ？　……って、ちゃんとできてるじゃん」=What is it? ...what, you've already got it solved.
-「ようやく私の方に向いてくれたわね♪　ふふ、邪魔しちゃってごめんなさい」=You finally turned to look at me♪ Fufu, sorry for interrupting you.
-「う、ううん、いいよ……」=N-No, it's alright...
+「ねぇ、わからないところがあるんだけど……」=“Hey, there's something I can't figure out...”
+「どこ？　……って、ちゃんとできてるじゃん」=“What is it? ...what, you've already got it solved.”
+「ようやく私の方に向いてくれたわね♪　ふふ、邪魔しちゃってごめんなさい」=“You finally turned to look at me♪ Fufu, sorry for interrupting you.”
+「う、ううん、いいよ……」=“N-No, it's alright...”
 （すごく近くてドキドキする……）=(She's so close to my face, my heart...)

@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「やるじゃない。まさか貴方にイカされるなんてね。これは他言無用よ、わかった？」="Not bad. It's hard to believe you made me come. Keep it a secret, got it?"
-「うん、わかった。絶対言わないよ」="Naturally, I absolutely won't tell anyone."
-「フッ、よろしい。約束を守れるなら、またご褒美をあげてもいいわ」="Humph, good. If you keep the promise, I'll give you a reward next time."
+「やるじゃない。まさか貴方にイカされるなんてね。これは他言無用よ、わかった？」=“Not bad. It's hard to believe you made me come. Keep it a secret, got it?”
+「うん、わかった。絶対言わないよ」=“Naturally, I absolutely won't tell anyone.”
+「フッ、よろしい。約束を守れるなら、またご褒美をあげてもいいわ」=“Humph, good. If you keep the promise, I'll give you a reward next time.”

@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「ああ、美味しいです。幸せです」=Aah, it's delicious. This is bliss.
-「満面の笑顔だね」=That's an ear-to-ear smile if I've ever seen one.
-「ええ。この時ばかりは何物にも脅かされず、解放された気持ちになれますから」=Yes. It's only at mealtimes, that I feel like I've been set free, with nothing aiming at my back or front.
+「ああ、美味しいです。幸せです」=“Aah, it's delicious. This is bliss.”
+「満面の笑顔だね」=“That's an ear-to-ear smile if I've ever seen one.”
+「ええ。この時ばかりは何物にも脅かされず、解放された気持ちになれますから」=“Yes. It's only at mealtimes, that I feel like I've been set free, with nothing aiming at my back or front.”

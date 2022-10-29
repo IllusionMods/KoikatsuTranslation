@@ -1,17 +1,17 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「そろそろ終了の時間ですね」=It's almost time for us to wrap things up.
+「そろそろ終了の時間ですね」=“It's almost time for us to wrap things up.”
 CHOICE:『延長して、もうちょっと歌おうよ』=『Let's extend it and sing for a bit longer.』
 CHOICE:『帰る仕度をしよっか』=『Let's get ready to leave.』
-「もし良かったら延長しない？　もうちょっと歌ってたいなって思うんだけど」=If it's alright, wanna extend? I wanna sing with you for a bit longer.
-「あまり遅くならないようでしたら、構いませんよ」=As long as you make sure it doesn't stretch for too long, I don't mind.
-「そんな長くは取らないから大丈夫。それじゃあ延長するね」=I won't keep us here for that long, so it's alright. Well then, I'll put in the call.
-「じゃあ準備をして帰ろうか」=Well then, let's pack up and head home.
-「はい。久しぶりに歌えてスッキリしました」=Yes. I feel a lot more refreshed, it's been a while sing I did this last.
-「俺も。また来ようね」=Me too. Let's come here again soon, okay?
-「じゃあ、あと一曲歌ったら帰ろうか。せっかくだし、[H名]が入れていいよ」=Well then, let's do one last song and then go home. You can have the last one, [H名]. Might as well.
-「では、遠慮なく……うーん、この曲にします」=Well then, I won't stand on ceremony... Mmm, let's go with this one.
-「俺は盛り上げ係りに徹するかな」=I'll take the role of the hype man.
+「もし良かったら延長しない？　もうちょっと歌ってたいなって思うんだけど」=“If it's alright, wanna extend? I wanna sing with you for a bit longer.”
+「あまり遅くならないようでしたら、構いませんよ」=“As long as you make sure it doesn't stretch for too long, I don't mind.”
+「そんな長くは取らないから大丈夫。それじゃあ延長するね」=“I won't keep us here for that long, so it's alright. Well then, I'll put in the call.”
+「じゃあ準備をして帰ろうか」=“Well then, let's pack up and head home.”
+「はい。久しぶりに歌えてスッキリしました」=“Yes. I feel a lot more refreshed, it's been a while sing I did this last.”
+「俺も。また来ようね」=“Me too. Let's come here again soon, okay?”
+「じゃあ、あと一曲歌ったら帰ろうか。せっかくだし、[H名]が入れていいよ」=“Well then, let's do one last song and then go home. You can have the last one, [H名]. Might as well.”
+「では、遠慮なく……うーん、この曲にします」=“Well then, I won't stand on ceremony... Mmm, let's go with this one.”
+「俺は盛り上げ係りに徹するかな」=“I'll take the role of the hype man.”
 『小さな手の平 掴める物は きっと限られているけど――』=『This small hand, the things it can grasp, they are surely limited, but--』
-「いえぇぇぇ！」=Yeaaaaah!
+「いえぇぇぇ！」=“Yeaaaaah!”

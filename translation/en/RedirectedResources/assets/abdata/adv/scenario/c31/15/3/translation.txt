@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「ほぅ、勇気を出してお誘いか？　ここで断ったら……フッ、泣いてしまいそうだな」=Hoh, did you build up your courage for that? If I refuse you here... Hah, you might end up breaking down crying.
-「いや、泣くかはわからないけど……残念ではあるよ」=No, I don't know about crying but... I would feel pretty disappointed.
-「なんだ、もう少し縋り付いてくる姿が見たかったのだが……まぁいい。ほら、帰るぞ」=Hey, I wanted to see you cling to me a bit more... Well, whatever. Come on, we're going.
+「ほぅ、勇気を出してお誘いか？　ここで断ったら……フッ、泣いてしまいそうだな」=“Hoh, did you build up your courage for that? If I refuse you here... Hah, you might end up breaking down crying.”
+「いや、泣くかはわからないけど……残念ではあるよ」=“No, I don't know about crying but... I would feel pretty disappointed.”
+「なんだ、もう少し縋り付いてくる姿が見たかったのだが……まぁいい。ほら、帰るぞ」=“Hey, I wanted to see you cling to me a bit more... Well, whatever. Come on, we're going.”

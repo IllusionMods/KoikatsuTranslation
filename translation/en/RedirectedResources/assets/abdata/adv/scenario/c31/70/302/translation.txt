@@ -1,22 +1,22 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「いえーい！　[H名]サイコー！」=Yaaaay! You're the best, [H名]!
-「おまえ……妙に場慣れしているな。合いの手とかもバッチリ入れてくるし、まぁ悪い気はしないが……」=You... You're strangely used to this. You're adding interrupts and cheers and whatnot just at the right time too, not to say it feels bad but...
-「[H名]が歌った曲で知らないのは、後で原曲を聞くようにしてるからね。研究はバッチリだよ！」=If you ever sing a song that I don't know, [H名], I make sure to listen to the original when I can. I have researched everything!
-「そこまでしていたのか……なんというか、嬉しいような、やり過ぎなような、複雑な気分だ」=You went that far, huh... in a way, it makes me happy, yet I feel like you also overdid it, it feels very complex.
-「えー、そこは素直に嬉しがって欲しかったなぁ。あ、今日はアレ歌わないの？　例のアイドルソング」=Eh, I wanted you to take it all happilly though. Ah, are you not going to sing that today? That idol song you like so much.
-「青空アドベンチャーの事か？　アレはしばらく封印だ。おまえが茶化すからな、歌ってやらん」=Blue Sky Adventure, you mean? I've sealed that one off for now. You poke fun at me if I sing it, so I won't.
-「そんなぁ～。もう絶対茶化したりしないから！　お願いします！　歌ってください！」=Don't say that~. I definitely won't poke fun at you again for it! Please! Please sing it for me!
-「そこまでして聞きたいのか？　それほど上手いわけでもないだろうに……」=Do you want to listen to it that much? I don't think I'm all that good at it though...
-「いやー、ギャップがいいんだよね。だって、普段キリっとしてる[H名]が、キャピキャピのアイドルソングだよ？」=No, well, the gap is really nice. I mean, with how stiff you normally are, [H名], and how cute and energetic the song makes you, you know?
-「そこで同意を求められても私は困るからな？　それに……キャピキャピとはなんだ、キャピキャピとは……」=Even if you ask me to agree with you there, I can't exactly do that, you know? Not to mention... what do you mean "Cute and energetic"...
-「いやいや、本当に可愛いんだって。最初に聞いた衝撃が忘れられないっていうか。出来れば録音させて欲しいくらい」=No, no, you really do look cute. I can't forget the impact, the shock I felt when I first heard it. Honestly, I'd like to record it if I can.
-「録音なんてやめろっ。考えただけで背筋が震えたぞ」=Don't you even dare--. Just thinking about it made my spine shiver.
-「じゃあ、やっぱり定期的に歌ってもらうしかないね」=Then, I suppose there's no choice except to have you sing it for me every so often.
-「というわけで、休憩終わり！　次は[H名前]さんで、『青空アドベンチャー』ですっ！」=So, with that in mind, end of break! Next up is, 『Blue Sky Adventure』, performed by [H名前]--!
-「なっ、おまえっ！　勝手に私の曲を入れるなっ！　あぁもう、今回だけだからなっ！」=Wha--, you--! Don't put in songs for me without asking--! Aah, jeez, just this one, okay--!?
-「よっしゃー！　[H名]バンザーイ！」=Alright--! Hurray for [H名]!
-「このお調子者め、後で覚えていろよ……ンッ、ンンッ」=This cocky brat, you'll get what's coming, later, you know... Nn--, Nnnn--
+「いえーい！　[H名]サイコー！」=“Yaaaay! You're the best, [H名]!”
+「おまえ……妙に場慣れしているな。合いの手とかもバッチリ入れてくるし、まぁ悪い気はしないが……」=“You... You're strangely used to this. You're adding interrupts and cheers and whatnot just at the right time too, not to say it feels bad but...”
+「[H名]が歌った曲で知らないのは、後で原曲を聞くようにしてるからね。研究はバッチリだよ！」=“If you ever sing a song that I don't know, [H名], I make sure to listen to the original when I can. I have researched everything!”
+「そこまでしていたのか……なんというか、嬉しいような、やり過ぎなような、複雑な気分だ」=“You went that far, huh... in a way, it makes me happy, yet I feel like you also overdid it, it feels very complex.”
+「えー、そこは素直に嬉しがって欲しかったなぁ。あ、今日はアレ歌わないの？　例のアイドルソング」=“Eh, I wanted you to take it all happilly though. Ah, are you not going to sing that today? That idol song you like so much.”
+「青空アドベンチャーの事か？　アレはしばらく封印だ。おまえが茶化すからな、歌ってやらん」=“Blue Sky Adventure, you mean? I've sealed that one off for now. You poke fun at me if I sing it, so I won't.”
+「そんなぁ～。もう絶対茶化したりしないから！　お願いします！　歌ってください！」=“Don't say that~. I definitely won't poke fun at you again for it! Please! Please sing it for me!”
+「そこまでして聞きたいのか？　それほど上手いわけでもないだろうに……」=“Do you want to listen to it that much? I don't think I'm all that good at it though...”
+「いやー、ギャップがいいんだよね。だって、普段キリっとしてる[H名]が、キャピキャピのアイドルソングだよ？」=“No, well, the gap is really nice. I mean, with how stiff you normally are, [H名], and how cute and energetic the song makes you, you know?”
+「そこで同意を求められても私は困るからな？　それに……キャピキャピとはなんだ、キャピキャピとは……」=“Even if you ask me to agree with you there, I can't exactly do that, you know? Not to mention... what do you mean "Cute and energetic"...”
+「いやいや、本当に可愛いんだって。最初に聞いた衝撃が忘れられないっていうか。出来れば録音させて欲しいくらい」=“No, no, you really do look cute. I can't forget the impact, the shock I felt when I first heard it. Honestly, I'd like to record it if I can.”
+「録音なんてやめろっ。考えただけで背筋が震えたぞ」=“Don't you even dare--. Just thinking about it made my spine shiver.”
+「じゃあ、やっぱり定期的に歌ってもらうしかないね」=“Then, I suppose there's no choice except to have you sing it for me every so often.”
+「というわけで、休憩終わり！　次は[H名前]さんで、『青空アドベンチャー』ですっ！」=“So, with that in mind, end of break! Next up is, 『Blue Sky Adventure』, performed by [H名前]--!”
+「なっ、おまえっ！　勝手に私の曲を入れるなっ！　あぁもう、今回だけだからなっ！」=“Wha--, you--! Don't put in songs for me without asking--! Aah, jeez, just this one, okay--!?”
+「よっしゃー！　[H名]バンザーイ！」=“Alright--! Hurray for [H名]!”
+「このお調子者め、後で覚えていろよ……ンッ、ンンッ」=“This cocky brat, you'll get what's coming, later, you know... Nn--, Nnnn--”
 『小さな手の平 掴める物は～♪　きっと限られているけど♪』=『This small hand, the things it can grasp~♪ They are surely limited, but♪』
 「ヒュー！　やっぱいいねー！　[H名]サイコー！」=*Whistle*! It really is nice~! [H名], you're the best--!

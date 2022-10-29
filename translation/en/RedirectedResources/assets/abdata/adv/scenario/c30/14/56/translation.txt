@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「あ、あれ……これって別れ話……よね？　嘘……ほ、本気なの？　どうして……？」=H-Huh...? Isn't this... the breakup talk? No way... Are you serious? Why...?
-「ごめん。色々考えたんだけど……そっちの方が……お互いのためになるかなって……」=I'm sorry. I've thought a lot about this... But this would be the best for both of us...
-「あ……キミがそう言うなら……きっとそうなのよね。ごめんなさい……私、結局キミに……何もしてあげられなかった……」=Ah... If you're saying that... Then it must be true. I'm really sorry... In the end... I couldn't do anything for you...
-「そんなことないよ。でも……これ以上はもう……ごめん」=That's not true. But... any more than this is... I'm sorry.
-「や、やだもーっ、そんな言い方しないで？　そんな風に言われると……ますます寂しくなっちゃう……」=N-no, d-don't say it like that, please. If you say it like that... I'll feel even more lonely...
-「こういうの……平気なタイプかもって思ってたんだけど……ダメね……やっぱり私も女の子だったみたい…………涙っ……出ちゃっ……あぅっ………ご、ごめっ……ごめんねっ……」=I thought... If I said it normally like this, it would be fine but... It's no good... I guess I'm a girl through and through... My tears are... gonna... Ah... S-sorry... I'm so sorry...
+「あ、あれ……これって別れ話……よね？　嘘……ほ、本気なの？　どうして……？」=“H-Huh...? Isn't this... the breakup talk? No way... Are you serious? Why...?”
+「ごめん。色々考えたんだけど……そっちの方が……お互いのためになるかなって……」=“I'm sorry. I've thought a lot about this... But this would be the best for both of us...”
+「あ……キミがそう言うなら……きっとそうなのよね。ごめんなさい……私、結局キミに……何もしてあげられなかった……」=“Ah... If you're saying that... Then it must be true. I'm really sorry... In the end... I couldn't do anything for you...”
+「そんなことないよ。でも……これ以上はもう……ごめん」=“That's not true. But... any more than this is... I'm sorry.”
+「や、やだもーっ、そんな言い方しないで？　そんな風に言われると……ますます寂しくなっちゃう……」=“N-no, d-don't say it like that, please. If you say it like that... I'll feel even more lonely...”
+「こういうの……平気なタイプかもって思ってたんだけど……ダメね……やっぱり私も女の子だったみたい…………涙っ……出ちゃっ……あぅっ………ご、ごめっ……ごめんねっ……」=“I thought... If I said it normally like this, it would be fine but... It's no good... I guess I'm a girl through and through... My tears are... gonna... Ah... S-sorry... I'm so sorry...”

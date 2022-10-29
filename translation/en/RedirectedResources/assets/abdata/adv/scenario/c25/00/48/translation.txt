@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「あ～気持ち良かった～。ふふふ～、これからもいっぱいしたいね～♪」=Ah~, that felt awesome~. Fufufu~, makes you wanna do it lots more times in the future, doesn't it~?♪
+「あ～気持ち良かった～。ふふふ～、これからもいっぱいしたいね～♪」=“Ah~, that felt awesome~. Fufufu~, makes you wanna do it lots more times in the future, doesn't it~?♪”

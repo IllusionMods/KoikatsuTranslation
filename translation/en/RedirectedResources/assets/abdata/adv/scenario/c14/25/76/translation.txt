@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「よ～し、今日は何する？」=Alright~, what's the plan for today?
-「[P]がしたいことなら、何でもいいぞ」=If there's something you wanna do, I'm fine with anything, [P].
-「じゃあ、エッチ……」=Then, sex...
-「ばっか！　普通の運動に決まってんだろ！」=Idiot! We're here to do some normal exercise!
-「軽い冗談だよ。じゃあ、バスケしよう」=It was a joke, a joke. Let's play some basketball.
+「よ～し、今日は何する？」=“Alright~, what's the plan for today?”
+「[P]がしたいことなら、何でもいいぞ」=“If there's something you wanna do, I'm fine with anything, [P].”
+「じゃあ、エッチ……」=“Then, sex...”
+「ばっか！　普通の運動に決まってんだろ！」=“Idiot! We're here to do some normal exercise!”
+「軽い冗談だよ。じゃあ、バスケしよう」=“It was a joke, a joke. Let's play some basketball.”

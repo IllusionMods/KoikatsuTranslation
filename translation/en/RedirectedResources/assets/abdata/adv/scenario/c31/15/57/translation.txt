@@ -1,14 +1,14 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「初めてのデートで喫茶店か……また無難な所を選んだな」=The local coffee shop for a first date, huh... You sure chose a risk-free place.
-「うっ、失敗したくなかったからなんだけど……逆に失敗だったかな？」=Uuh--, I picked it because I didn't want to mess up but... Was it the wrong choice?
-「いや、いいと思うぞ。いつもとは違う場所で、落ち着いて話をする。これも立派なデートだ」=No, I think it's fine. We'll get to chat calmy in a different setting than usual. This is a splendid date in its own right.
-「良かったぁぁ……これでもし帰られたりしたら、立ち直れなかったよ」=I'm so glad... If you ended up just ditching me here and going home, I wouldn't have been able to get back up.
-「それで、この後はどうするつもりなんだ？」=So, what's the plan, what are we doing after this?
-「えっ、この後……って？」=Eh--, after this...you say?
+「初めてのデートで喫茶店か……また無難な所を選んだな」=“The local coffee shop for a first date, huh... You sure chose a risk-free place.”
+「うっ、失敗したくなかったからなんだけど……逆に失敗だったかな？」=“Uuh--, I picked it because I didn't want to mess up but... Was it the wrong choice?”
+「いや、いいと思うぞ。いつもとは違う場所で、落ち着いて話をする。これも立派なデートだ」=“No, I think it's fine. We'll get to chat calmy in a different setting than usual. This is a splendid date in its own right.”
+「良かったぁぁ……これでもし帰られたりしたら、立ち直れなかったよ」=“I'm so glad... If you ended up just ditching me here and going home, I wouldn't have been able to get back up.”
+「それで、この後はどうするつもりなんだ？」=“So, what's the plan, what are we doing after this?”
+「えっ、この後……って？」=“Eh--, after this...you say?”
 （これは……今日イケちゃう展開！？）=(This is... Will we go the whole way today!?)
-「とぼけるな。まさか、ずっと喫茶店にいるわけでもあるまい？」=Don't play dumb. Surely you don't plan on staying at this coffee shop the whole time?
-「えっ！　あっ！　そ、そうだよね！　どこか、行きたいところある？」=Eh--! Ah--! Y-You're right! Is there any place you want to go?
-「プッ、慌て過ぎだ。下心が、丸見えだぞ？」=Pfft, you're rushing too much. Your intentions are laid bare, you know?
-「フフッ、今日は期待以上に、楽しませてもらった。では、またな。気を付けて帰れよ」=Fufu--, I had a way better time than I expected today. Well then, see ya. Be careful on your way home.
+「とぼけるな。まさか、ずっと喫茶店にいるわけでもあるまい？」=“Don't play dumb. Surely you don't plan on staying at this coffee shop the whole time?”
+「えっ！　あっ！　そ、そうだよね！　どこか、行きたいところある？」=“Eh--! Ah--! Y-You're right! Is there any place you want to go?”
+「プッ、慌て過ぎだ。下心が、丸見えだぞ？」=“Pfft, you're rushing too much. Your intentions are laid bare, you know?”
+「フフッ、今日は期待以上に、楽しませてもらった。では、またな。気を付けて帰れよ」=“Fufu--, I had a way better time than I expected today. Well then, see ya. Be careful on your way home.”

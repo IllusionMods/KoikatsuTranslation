@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「ありがとね！　突然プレゼントもらえるのって、びっくりするくらいテンション上がるんよ。私だけやないよね？」=Thanks! Receiving a present out of the blue like this, it's super exciting and surprising. I'm not the only one who feels that way, right?
+「ありがとね！　突然プレゼントもらえるのって、びっくりするくらいテンション上がるんよ。私だけやないよね？」=“Thanks! Receiving a present out of the blue like this, it's super exciting and surprising. I'm not the only one who feels that way, right?”

@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「ン……はぁ、すごく激しかったわね。頭の中が何度も真っ白になって……ふふふ、たくさん泣かされちゃったわ」=Nn... Haa, it was amazingly intense. My head went blank so many times... Fufufu, you made me cry lots.
+「ン……はぁ、すごく激しかったわね。頭の中が何度も真っ白になって……ふふふ、たくさん泣かされちゃったわ」=“Nn... Haa, it was amazingly intense. My head went blank so many times... Fufufu, you made me cry lots.”

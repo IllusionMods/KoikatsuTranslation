@@ -1,5 +1,5 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「おう、起きたか。シャワー借りたぞ」=Oh, awake, huh? I borrowed your shower.
-「あんまジロジロ見んなよ。あっち向いてろ変態」=Don't stare so much. Face the other way, you damn perv.
+「おう、起きたか。シャワー借りたぞ」=“Oh, awake, huh? I borrowed your shower.”
+「あんまジロジロ見んなよ。あっち向いてろ変態」=“Don't stare so much. Face the other way, you damn perv.”

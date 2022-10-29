@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「ちょっ、もう終わり？　もうちょっとしてくれないと満足できないじゃん」=Wai--, we stopping there? I can't be satisfied with just that much.
+「ちょっ、もう終わり？　もうちょっとしてくれないと満足できないじゃん」=“Wai--, we stopping there? I can't be satisfied with just that much.”

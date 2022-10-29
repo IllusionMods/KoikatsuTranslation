@@ -1,5 +1,5 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「よう！　甘いもの好きか？　好きだよな？」=Yo! You like sweet things? You like them, right?
-「こ……これ、た、食べてくれ……！」=E...Eat t-this...!
+「よう！　甘いもの好きか？　好きだよな？」=“Yo! You like sweet things? You like them, right?”
+「こ……これ、た、食べてくれ……！」=“E...Eat t-this...!”

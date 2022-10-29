@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「これ、授業でお姉さんが作った手作りお菓子よ。もし良かったら味見してくれないかしら？」=Here, these are some handmade sweets that I made in class. If you'd like, wanna try some?
-「いいの！？　それじゃあ、ありがたくいただきます！」=Is that okay!? Then, I won't hold back and thankfully accept!
-「ふふっ、良かった。実を言うとね、お菓子作りってわりと自信あるんだけど、やっぱり男の子の反応を見たくって。素直な感想を聞かせてね」=Fufu, I'm glad. Actually, while I do have a fair bit of confidence in my snack-making capability, I really wanted to get a guy's opinion. Tell me honestly what you think, okay?
+「これ、授業でお姉さんが作った手作りお菓子よ。もし良かったら味見してくれないかしら？」=“Here, these are some handmade sweets that I made in class. If you'd like, wanna try some?”
+「いいの！？　それじゃあ、ありがたくいただきます！」=“Is that okay!? Then, I won't hold back and thankfully accept!”
+「ふふっ、良かった。実を言うとね、お菓子作りってわりと自信あるんだけど、やっぱり男の子の反応を見たくって。素直な感想を聞かせてね」=“Fufu, I'm glad. Actually, while I do have a fair bit of confidence in my snack-making capability, I really wanted to get a guy's opinion. Tell me honestly what you think, okay?”

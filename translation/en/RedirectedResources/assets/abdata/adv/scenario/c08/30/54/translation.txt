@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「いけないことをしているみたいで、いつもよりすごくドキドキしたよ」=It was a ton more exciting than usual, since it really felt like we were being naughty.
+「いけないことをしているみたいで、いつもよりすごくドキドキしたよ」=“It was a ton more exciting than usual, since it really felt like we were being naughty.”

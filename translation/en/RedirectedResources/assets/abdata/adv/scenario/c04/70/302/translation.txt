@@ -2,21 +2,21 @@
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
 ………………=.........
-「ふう……思い切り歌うと気持ちがいいわ」=Fuu... it feels good to sing your heart out.
-「相変わらず歌が上手いね」=As usual, you're great at singing.
-「ふふ、ありがと。自分の歌う曲はもう入力した？」=Fufu, thank you. Have you put in the songs you're gonna sing?
-「へ？　……あ、まだ入れてなかった」=Heh? ...Ah, I forgot to.
-「あら、そうなの？」=Oh my, that so?
-「[H名]の歌に聞き入っちゃってたよ」=I got lost in your singing, [H名].
-「そう？　それは嬉しいわ」=That so? I'm glad to hear that.
+「ふう……思い切り歌うと気持ちがいいわ」=“Fuu... it feels good to sing your heart out.”
+「相変わらず歌が上手いね」=“As usual, you're great at singing.”
+「ふふ、ありがと。自分の歌う曲はもう入力した？」=“Fufu, thank you. Have you put in the songs you're gonna sing?”
+「へ？　……あ、まだ入れてなかった」=“Heh? ...Ah, I forgot to.”
+「あら、そうなの？」=“Oh my, that so?”
+「[H名]の歌に聞き入っちゃってたよ」=“I got lost in your singing, [H名].”
+「そう？　それは嬉しいわ」=“That so? I'm glad to hear that.”
 （う、うーん……困ったぞ。[H名]の歌が上手すぎて、選曲が慎重になってしまっている）=(M-Mmm... this is bad. She's so good at singing, I'm going to have to be real careful with my own selection.)
-「嬉しいけど、早く選ばないと次も私が歌っちゃうわよ？」=It makes me happy but, if you don't pick your songs quickly, I'm going to take the next slot too, you know~?
+「嬉しいけど、早く選ばないと次も私が歌っちゃうわよ？」=“It makes me happy but, if you don't pick your songs quickly, I'm going to take the next slot too, you know~?”
 （うわっ……ち、近い……）=(Uwah--... s-so close...)
-「そうね……これなんか歌いやすいんじゃない？」=Let's see... shouldn't this one be pretty easy to sing?
+「そうね……これなんか歌いやすいんじゃない？」=“Let's see... shouldn't this one be pretty easy to sing?”
 （うっ……いい匂いがする）=(Uu... she smells so nice.)
-「あとは……ん？　あら？　もしかして、私のせいで選曲に集中出来ないのかしら？　顔が真っ赤よ」=Aside from that... Nn? Oh dear? Is it because of me, that you can't concentrate on picking a song? Your face is flushed crimson.
-「じ、実は……」=H-Honestly...
-「あ、これがいいんじゃない？」=Ah, isn't this fine?
-「へ？」=Heh?
-「この曲ならデュエット出来るから、ほら、二人で歌いましょう」=We can sing this song together, c'mon, let's sing it together.
-「あ、うん……そうだね」=Ah, sure... good idea.
+「あとは……ん？　あら？　もしかして、私のせいで選曲に集中出来ないのかしら？　顔が真っ赤よ」=“Aside from that... Nn? Oh dear? Is it because of me, that you can't concentrate on picking a song? Your face is flushed crimson.”
+「じ、実は……」=“H-Honestly...”
+「あ、これがいいんじゃない？」=“Ah, isn't this fine?”
+「へ？」=“Heh?”
+「この曲ならデュエット出来るから、ほら、二人で歌いましょう」=“We can sing this song together, c'mon, let's sing it together.”
+「あ、うん……そうだね」=“Ah, sure... good idea.”

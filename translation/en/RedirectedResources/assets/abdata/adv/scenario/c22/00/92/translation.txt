@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「付き合ってくれてありがと、えへへ♪」=That's for keeping me company, ehehe♪
+「付き合ってくれてありがと、えへへ♪」=“That's for keeping me company, ehehe♪”

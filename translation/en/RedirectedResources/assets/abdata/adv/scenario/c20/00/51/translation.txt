@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「…………え？　あ、あの、もう終わり……ですか？」=...Eh? U-Uhm, are we... stopping there?
+「…………え？　あ、あの、もう終わり……ですか？」=“...Eh? U-Uhm, are we... stopping there?”

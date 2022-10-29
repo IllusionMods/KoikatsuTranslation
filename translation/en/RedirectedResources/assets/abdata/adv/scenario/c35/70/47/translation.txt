@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「えへへ……途中から何も考えられんくなったん……なんか君って……私のこと全部分かっとーみたい♪」=Ehehe... Midway through, my head stopped working completely... I feel like... you know every single thing about me♪
+「えへへ……途中から何も考えられんくなったん……なんか君って……私のこと全部分かっとーみたい♪」=“Ehehe... Midway through, my head stopped working completely... I feel like... you know every single thing about me♪”

@@ -2,19 +2,19 @@
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
 （夕方の音楽が鳴った途端、[H名]が目を閉じて、耳を澄ませたけど……海外の公園では、こんな音楽は鳴らないのかな？）=(As soon as the evening chime rung, [H名] closed her eyes and listened to it carefully... Do parks abroad not have evening chimes like this?)
-「さっきのｍｅｌｏｄｙ、寂しい感じだったネ……ナンダカ、Ｃｉｎｄｅｒｅｌｌａミタイ……」=The melody just now, it had a very melancholic tone, didn't it?... It felt like Cinderella...
+「さっきのｍｅｌｏｄｙ、寂しい感じだったネ……ナンダカ、Ｃｉｎｄｅｒｅｌｌａミタイ……」=“The melody just now, it had a very melancholic tone, didn't it?... It felt like Cinderella...”
 （そっか。ぼちぼち、帰るのを意識し始める時間か……あまり連れまわしすぎても疲れさせちゃうかな……どうしよう）=(I see. Little by little, the realization that we have to go home is settling in, huh... If I drag her around too much, she'll just get tired... what should I do?)
 CHOICE:『まだ時間ある？』=『Do you still have time?』
 CHOICE:『今日が最後じゃないよ』=『Today won't be the last time, you know?』
-「[H名]、まだ時間ある？　もし、疲れてなかったら、見せたいものがあるんだけど……」=[H名], do you still have time? If you're not tired out, I have something I'd like to show you...
-「見せたいモノ？　ナニカナ、ナニカナ？　全然、疲れてないヨ♡　ア、疲れてるケド、今ので回復したカモ♡」=Something you'd like to show me? What is it, what is it? I'm not tired at all♡ Ah, I am a bit tired bit, what you said just now gave me energy again♡
-「あはは、それなら、見せないわけにはいかないね」=Ahaha, in that case, I absolutely have to show you this then.
-「フフ♡　アナタが言わないカラ、ヒミツってコトカナ？　ワクワクするヨ♡」=Fufu♡ If you're not telling me up front, does that mean it's a secret? I'm getting excited now♡
-「きっとそのワクワクを裏切らないで済むと思うよ。こっち、ついてきて」=I'm sure it won't betray that excitement of yours. Here, follow me.
-「大丈夫だよ、今日が最後じゃない。これからもたくさんデート出来るよ」=It's alright. Today's not the last time. We can come on lots more dates after this.
-「フフ♡　ソウダネ♡　アナタと全力イッパイ遊んで疲れたカラ、チョットｓｅｎｔｉｍｅｎｔａｌでゴメンネ！　デモ、もう大丈夫！」=Fufu♡ You're right♡ I was just a bit tired from the absolute blast we had, so I got a bit sentimental, sorry! But I'm alright now!
-「よかった。こんなヘトヘトになるまで遊んだの、久しぶりだよね。駅まで送っていくよ」=I'm glad. It must have been a while since you've played around this much, huh? I'll drop you off at the station.
-「Ｔｈａｎｋｓ♡　またしようネ、公園デート♡」=Thanks♡ Let's do it again sometime, this park date♡
-「うん、近いからいつでも来れるしね」=Yeah, it's close by so we can come at any time.
-「次も楽しみにしてるカラネ♡　ソレジャ、駅にｌｅｔ’ｓ　ｇｏ♪」=I'm looking forward to the next time too♡ Well then, let's go to the station♪
-「レッツゴー♪」=Let's go♪
+「[H名]、まだ時間ある？　もし、疲れてなかったら、見せたいものがあるんだけど……」=“[H名], do you still have time? If you're not tired out, I have something I'd like to show you...”
+「見せたいモノ？　ナニカナ、ナニカナ？　全然、疲れてないヨ♡　ア、疲れてるケド、今ので回復したカモ♡」=“Something you'd like to show me? What is it, what is it? I'm not tired at all♡ Ah, I am a bit tired bit, what you said just now gave me energy again♡”
+「あはは、それなら、見せないわけにはいかないね」=“Ahaha, in that case, I absolutely have to show you this then.”
+「フフ♡　アナタが言わないカラ、ヒミツってコトカナ？　ワクワクするヨ♡」=“Fufu♡ If you're not telling me up front, does that mean it's a secret? I'm getting excited now♡”
+「きっとそのワクワクを裏切らないで済むと思うよ。こっち、ついてきて」=“I'm sure it won't betray that excitement of yours. Here, follow me.”
+「大丈夫だよ、今日が最後じゃない。これからもたくさんデート出来るよ」=“It's alright. Today's not the last time. We can come on lots more dates after this.”
+「フフ♡　ソウダネ♡　アナタと全力イッパイ遊んで疲れたカラ、チョットｓｅｎｔｉｍｅｎｔａｌでゴメンネ！　デモ、もう大丈夫！」=“Fufu♡ You're right♡ I was just a bit tired from the absolute blast we had, so I got a bit sentimental, sorry! But I'm alright now!”
+「よかった。こんなヘトヘトになるまで遊んだの、久しぶりだよね。駅まで送っていくよ」=“I'm glad. It must have been a while since you've played around this much, huh? I'll drop you off at the station.”
+「Ｔｈａｎｋｓ♡　またしようネ、公園デート♡」=“Thanks♡ Let's do it again sometime, this park date♡”
+「うん、近いからいつでも来れるしね」=“Yeah, it's close by so we can come at any time.”
+「次も楽しみにしてるカラネ♡　ソレジャ、駅にｌｅｔ’ｓ　ｇｏ♪」=“I'm looking forward to the next time too♡ Well then, let's go to the station♪”
+「レッツゴー♪」=“Let's go♪”

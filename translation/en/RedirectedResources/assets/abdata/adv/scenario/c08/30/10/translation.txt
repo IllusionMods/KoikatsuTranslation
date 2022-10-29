@@ -1,11 +1,11 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「うん、入部するよ。実はちょっと興味があったんだぁ。だから誘ってくれてありがとう」=Yeah, sure, I'll join. I was actually a little bit interested. So thanks for asking me.
-「お礼を言うのはこっちだよ。ありがとう」=I should be the one saying that. Thanks.
-「コイカツ部って、今までみたいにいろんなことを教えてくれるところなんだよね？」=The Koikatsu club is a place where you're gonna teach us all sorts of things, like you've been teaching me till now, right?
-「うん。手取り足取りいろんなことを教えてあげるよ」=Yeah. I'll give you some hands on training.
-「うん、お願いしま～す」=Yeah, please do~
-「……ほんと俺に対して無警戒だよね」=...Not on guard against me at all, are you?
-「なんであなたを警戒するの？　私、あなたのことはとても信頼してるんだよぉ」=Why would I be on guard against you? I trust you a whole lot, you know?
-「嬉しいけど、なんか心配だな……」=While I'm happy about that, I can't help but worry...
+「うん、入部するよ。実はちょっと興味があったんだぁ。だから誘ってくれてありがとう」=“Yeah, sure, I'll join. I was actually a little bit interested. So thanks for asking me.”
+「お礼を言うのはこっちだよ。ありがとう」=“I should be the one saying that. Thanks.”
+「コイカツ部って、今までみたいにいろんなことを教えてくれるところなんだよね？」=“The Koikatsu club is a place where you're gonna teach us all sorts of things, like you've been teaching me till now, right?”
+「うん。手取り足取りいろんなことを教えてあげるよ」=“Yeah. I'll give you some hands on training.”
+「うん、お願いしま～す」=“Yeah, please do~”
+「……ほんと俺に対して無警戒だよね」=“...Not on guard against me at all, are you?”
+「なんであなたを警戒するの？　私、あなたのことはとても信頼してるんだよぉ」=“Why would I be on guard against you? I trust you a whole lot, you know?”
+「嬉しいけど、なんか心配だな……」=“While I'm happy about that, I can't help but worry...”

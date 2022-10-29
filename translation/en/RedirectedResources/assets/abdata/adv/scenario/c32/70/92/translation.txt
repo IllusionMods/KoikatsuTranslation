@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「お疲れ様でした。我が侭を聞いて下さり、ありがとうございます」=Good work. Thank you very much, for listening to my selfish willfulness.
+「お疲れ様でした。我が侭を聞いて下さり、ありがとうございます」=“Good work. Thank you very much, for listening to my selfish willfulness.”

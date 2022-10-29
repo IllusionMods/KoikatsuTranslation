@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「このような時に、何の御用でしょうか？」=How can I be of service to you, at a time like this?
+「このような時に、何の御用でしょうか？」=“How can I be of service to you, at a time like this?”

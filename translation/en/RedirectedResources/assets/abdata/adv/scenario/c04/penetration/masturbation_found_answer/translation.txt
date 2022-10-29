@@ -1,5 +1,5 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「そう、我慢出来なくなったって訳ね……」=I see, so you couldn't hold it in anymore, huh...
-「いいわよ。私で発散出来るなら、好きなだけ使って？」=Sure. If using me will help you vent those feelings, use me as much as you want?
+「そう、我慢出来なくなったって訳ね……」=“I see, so you couldn't hold it in anymore, huh...”
+「いいわよ。私で発散出来るなら、好きなだけ使って？」=“Sure. If using me will help you vent those feelings, use me as much as you want?”

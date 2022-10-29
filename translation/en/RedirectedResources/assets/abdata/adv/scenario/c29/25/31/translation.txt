@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「……一応、受け取っておきます」=...Well, I suppose I'll accept it.
+「……一応、受け取っておきます」=“...Well, I suppose I'll accept it.”

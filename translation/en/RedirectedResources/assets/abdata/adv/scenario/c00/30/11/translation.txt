@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「私たち……今の関係になること自体が間違っていたのかもしれないわね」=We... I don't think we really were meant to take this as far as we have.
-「何を言ってるの……？」=What are you saying...?
-「お友達だった頃に戻りましょう」=Let's go back to being friends.
-「ちょっと待って、別れるってこと！？」=Wait just a moment, are you breaking up with me?!
-「今までありがとう。楽しかったわ。それじゃ……次に会った時は友達で、ね」=Thanks for everything till now. It was fun. Well then... the next time we meet, we'll be friends, kay?
+「私たち……今の関係になること自体が間違っていたのかもしれないわね」=“We... I don't think we really were meant to take this as far as we have.”
+「何を言ってるの……？」=“What are you saying...?”
+「お友達だった頃に戻りましょう」=“Let's go back to being friends.”
+「ちょっと待って、別れるってこと！？」=“Wait just a moment, are you breaking up with me?!”
+「今までありがとう。楽しかったわ。それじゃ……次に会った時は友達で、ね」=“Thanks for everything till now. It was fun. Well then... the next time we meet, we'll be friends, kay?”

@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「遅い、主をいつまで待たせるつもり？　下僕としての意識が足りないのではないかしら」="You're late! How long are you going to make your master wait?"
-「ごめん、ちょっと他の子に捉まっちゃって……」="I'm sorry, I got caught up with another classmate..."
-「は？　他の子？　貴方、主を待たせておいて、他の女と遊んでいたの？　良いご身分ね」="Huh? Another classmate? You left your master waiting so you could play with other girl?"
-「いやっ、ちが……えっと、あれ？　ていうか……もしかして、嫉妬してくれてる？」="No, that's wron... Umm, are you perhaps jealous?"
-「嫉妬？　誰が？　誰に？　はぁ、まったく、思い上がるのもいい加減にしなさい。ほら、帰るわよ」="Jealous? Who? For whom? Hah, don't be conceited! Come on, get going."
+「遅い、主をいつまで待たせるつもり？　下僕としての意識が足りないのではないかしら」=“You're late! How long are you going to make your master wait?”
+「ごめん、ちょっと他の子に捉まっちゃって……」=“I'm sorry, I got caught up with another classmate...”
+「は？　他の子？　貴方、主を待たせておいて、他の女と遊んでいたの？　良いご身分ね」=“Huh? Another classmate? You left your master waiting so you could play with other girl?”
+「いやっ、ちが……えっと、あれ？　ていうか……もしかして、嫉妬してくれてる？」=“No, that's wron... Umm, are you perhaps jealous?”
+「嫉妬？　誰が？　誰に？　はぁ、まったく、思い上がるのもいい加減にしなさい。ほら、帰るわよ」=“Jealous? Who? For whom? Hah, don't be conceited! Come on, get going.”

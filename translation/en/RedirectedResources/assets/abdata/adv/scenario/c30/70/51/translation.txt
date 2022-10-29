@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「えっと……もう限界なのかしら？　キミが満足したのなら、いいけれど……」=Um... Are you at your limit? If you're satisfied then its okay, but...
+「えっと……もう限界なのかしら？　キミが満足したのなら、いいけれど……」=“Um... Are you at your limit? If you're satisfied then its okay, but...”

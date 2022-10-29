@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「んぅ……付き合ってくれて、ありがとう」=Nn... thanks, for going along with my request.
+「んぅ……付き合ってくれて、ありがとう」=“Nn... thanks, for going along with my request.”

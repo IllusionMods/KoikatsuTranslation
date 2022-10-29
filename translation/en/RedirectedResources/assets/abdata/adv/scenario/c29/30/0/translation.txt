@@ -1,12 +1,12 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「あっ。今いい？　ちょっと話をしたいんだけど」=Ah--. Got a moment? I'd like to talk to you for a bit.
-「あら？　あなたは……確か転入生の。別に構いませんよ」=Oh? You are... the transfer student, if I recall correctly. I don't really mind.
-「ありがとう。俺、[P名前]っていうんだ。もしかしたら、どこかで名前を聞いてるかもしれないけど」=Thanks. I go by [P名前]. Guess you might have heard my name before too.
-「ええと……そう言えば耳にしたことがあったかもしれません」=Errhm... now that you mention it, I do think I heard of it, yes.
-「でも、珍しいですね。女子だけの学園に、男子が入ってくるというのも」=But, how unusual. A boy transferring into an all-girls school.
-「ま、まあね。そのあたりはいろいろと事情があって……」=W-Well, yeah. You don't know the half of it...
-「そう……。それで、話というのは？」=Seems not... So then, you wanted to talk?
-「っと、そうだったそうだった。えーっと……」=Right, that's what I came to you for. Erhm...
+「あっ。今いい？　ちょっと話をしたいんだけど」=“Ah--. Got a moment? I'd like to talk to you for a bit.”
+「あら？　あなたは……確か転入生の。別に構いませんよ」=“Oh? You are... the transfer student, if I recall correctly. I don't really mind.”
+「ありがとう。俺、[P名前]っていうんだ。もしかしたら、どこかで名前を聞いてるかもしれないけど」=“Thanks. I go by [P名前]. Guess you might have heard my name before too.”
+「ええと……そう言えば耳にしたことがあったかもしれません」=“Errhm... now that you mention it, I do think I heard of it, yes.”
+「でも、珍しいですね。女子だけの学園に、男子が入ってくるというのも」=“But, how unusual. A boy transferring into an all-girls school.”
+「ま、まあね。そのあたりはいろいろと事情があって……」=“W-Well, yeah. You don't know the half of it...”
+「そう……。それで、話というのは？」=“Seems not... So then, you wanted to talk?”
+「っと、そうだったそうだった。えーっと……」=“Right, that's what I came to you for. Erhm...”
 （ちょっと素っ気ない感じだけど、話はしてくれるみたいだ。どんな話題が良いかな？）=(A bit too blunt and to-the-point but, atleast she's up for a chat. What should I start with?)

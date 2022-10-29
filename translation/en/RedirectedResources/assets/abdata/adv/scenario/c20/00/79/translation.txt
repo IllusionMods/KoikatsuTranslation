@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「……すごく美味しそうに食べますね。好物なんですか？」=...You're sure eating that really deliciously. Is it one of your favourites?
-「そういうわけじゃないんだけど、この学園のご飯ってどれも美味しいからね」=Not really. This school's cafeteria has awesome food, that's all, really.
-「たしかにそうですね……なんだか食べてるところを見るだけで楽しくなります」=For sure... just watching you eat that is pretty fun.
+「……すごく美味しそうに食べますね。好物なんですか？」=“...You're sure eating that really deliciously. Is it one of your favourites?”
+「そういうわけじゃないんだけど、この学園のご飯ってどれも美味しいからね」=“Not really. This school's cafeteria has awesome food, that's all, really.”
+「たしかにそうですね……なんだか食べてるところを見るだけで楽しくなります」=“For sure... just watching you eat that is pretty fun.”

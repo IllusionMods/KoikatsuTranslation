@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「私をイカせたからといって、調子に乗らない事。特別扱いをされたいなら、もっと乱れさせてみなさい」="Don't get ahead of yourself just because you've made me come. If you want to be treated preferentially, you gotta do more than that."
+「私をイカせたからといって、調子に乗らない事。特別扱いをされたいなら、もっと乱れさせてみなさい」=“Don't get ahead of yourself just because you've made me come. If you want to be treated preferentially, you gotta do more than that.”

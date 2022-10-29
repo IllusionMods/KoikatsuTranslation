@@ -1,19 +1,19 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「どんどん混んできたね……ごめん、少し詰めてくれる？」=It's started getting packed, hasn't it... sorry, could I move a bit closer?
-「うん……でも、さすがに窮屈だね……」=Yeah... but, this really is cramped...
-「残念だけど、しばらくはこのままだと思……おわっ！」=Sorry, but I think we'll just have to tough it out here for a... owah--!
+「どんどん混んできたね……ごめん、少し詰めてくれる？」=“It's started getting packed, hasn't it... sorry, could I move a bit closer?”
+「うん……でも、さすがに窮屈だね……」=“Yeah... but, this really is cramped...”
+「残念だけど、しばらくはこのままだと思……おわっ！」=“Sorry, but I think we'll just have to tough it out here for a... owah--!”
 （っ……ま、まずっ、どんどん押されて、股間が[H名]に……）=(--...D-Damn, I keep getting pushed, my crotch is poking into [H名]...)
 CHOICE:『欲望に身を任せる』=Give in to your desires.
 CHOICE:『鉄の自制心で堪える』=Bear it with an iron will.
 （あぁ、ちょうどいい所にあたって気持ちいい……[H名]には悪いけど、これは不可抗力だから……）=(Aah, it's such a good spot too, feels so good... I feel sorry for [H名], but there really is no controlling this...)
-「……えっと、さっきからあたってる固いものって……あなたの、だよね？」=...Erhm, this thing that's been poking into me for a while... it's yours, right?
-「……これのことを言ってるなら、そうだよ」=...If you're talking about this, then yeah.
-「あんっ……おちんちん、擦り付けちゃダメ……」=Ahn--... don't do that, don't nuzzle it against...
+「……えっと、さっきからあたってる固いものって……あなたの、だよね？」=“...Erhm, this thing that's been poking into me for a while... it's yours, right?”
+「……これのことを言ってるなら、そうだよ」=“...If you're talking about this, then yeah.”
+「あんっ……おちんちん、擦り付けちゃダメ……」=“Ahn--... don't do that, don't nuzzle it against...”
 （う……ちょっとした悪戯のつもりが、今ので完全に勃起しきってしまった……）=(Uu... I was just trying to play a little joke but, that made me completely erect...)
-「ごめん、[H名]っ。俺、我慢できそうにない……！」=Sorry, [H名]--. I don't think I can hold it in...!
-「え……？　こんなところでなんて、いくらなんでも……！　あぁ……」=Eh...? No matter how much you want to, doing it here is a bit...! Aah...
+「ごめん、[H名]っ。俺、我慢できそうにない……！」=“Sorry, [H名]--. I don't think I can hold it in...!”
+「え……？　こんなところでなんて、いくらなんでも……！　あぁ……」=“Eh...? No matter how much you want to, doing it here is a bit...! Aah...”
 （き、気持ちいいけど……ここは我慢しないと……！）=(I-It feels good but... I gotta endure it here...!)
 （と、とりあえず……少しでも距離をとって……とって…………）=(F-For now... try to make some distance... just a little bit...)
 （……完全に避けれるほどのスペースがないっ。俺、混雑が解消されるまで、我慢できるだろうか……？）=(...There isn't any space to move even an inch--. Will I be able to hold on, until the train empties out...?)

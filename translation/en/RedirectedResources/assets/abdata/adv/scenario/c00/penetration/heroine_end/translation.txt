@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「ふふふ、こうやって楽しめるだなんて、驚いたわ。私、ハマっちゃうかも♪」=Fufufu, I didn't know that sort of thing was possible too. I'm surprised. I might get addicted to it♪
+「ふふふ、こうやって楽しめるだなんて、驚いたわ。私、ハマっちゃうかも♪」=“Fufufu, I didn't know that sort of thing was possible too. I'm surprised. I might get addicted to it♪”

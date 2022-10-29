@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「私を混ぜてくれてありがとう。本当に気持ちよかったよ」=Thanks for letting me join in. That really felt amazing.
+「私を混ぜてくれてありがとう。本当に気持ちよかったよ」=“Thanks for letting me join in. That really felt amazing.”

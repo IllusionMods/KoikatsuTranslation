@@ -1,12 +1,12 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「彼氏と一緒にお勉強だなんて……青春だぁ！」=Studying together with my boyfriend... ah, youth!
-「[H]、ここ図書室だよ？」=[H], this is the library, you know?
-「わぁ！　ごめん！　つい嬉しくて……って、私達以外、誰もいないから大丈夫だよ」=Waah! Sorry! I just couldn't help myself... wuh, there's nobody else here apart from us, so it's fine.
-「あ……本当だ」=Ah... you're right.
-「ね、せっかくだから少しおしゃべりしよ？　休憩もかねて。ダメ？」=Hey, let's chat a bit while we're at it? Breaks are important too. Please~?
-「ううん、もちろんいいよ。どんなこと話そっか？」=Of course, why not? What do you wanna chat about?
-「うーん、そうだなぁ……」=Mmm, let's see...
-「今日の宿題のこととか？」=How about we chat about our homework today?
-「わぁ！　結局勉強のことだよーっ！」=Waah! That's just going back to studying!
+「彼氏と一緒にお勉強だなんて……青春だぁ！」=“Studying together with my boyfriend... ah, youth!”
+「[H]、ここ図書室だよ？」=“[H], this is the library, you know?”
+「わぁ！　ごめん！　つい嬉しくて……って、私達以外、誰もいないから大丈夫だよ」=“Waah! Sorry! I just couldn't help myself... wuh, there's nobody else here apart from us, so it's fine.”
+「あ……本当だ」=“Ah... you're right.”
+「ね、せっかくだから少しおしゃべりしよ？　休憩もかねて。ダメ？」=“Hey, let's chat a bit while we're at it? Breaks are important too. Please~?”
+「ううん、もちろんいいよ。どんなこと話そっか？」=“Of course, why not? What do you wanna chat about?”
+「うーん、そうだなぁ……」=“Mmm, let's see...”
+「今日の宿題のこととか？」=“How about we chat about our homework today?”
+「わぁ！　結局勉強のことだよーっ！」=“Waah! That's just going back to studying!”

@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「えっ、なっ、なんでここに……！？　もしかして、見て、ました？」=Eh--, w-why are you...!? Did you, see?
+「えっ、なっ、なんでここに……！？　もしかして、見て、ました？」=“Eh--, w-why are you...!? Did you, see?”

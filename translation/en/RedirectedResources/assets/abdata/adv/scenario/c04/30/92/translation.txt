@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「ん……エッチなお願いを聞いてくれて、ありがとう」=Nn... thanks for, listening to my lewd request.
+「ん……エッチなお願いを聞いてくれて、ありがとう」=“Nn... thanks for, listening to my lewd request.”

@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「わわっ、ちょ、ちょっと待ってっ！　何で君がいるのぉ！？」=Wawah--, w-wait a sec--! Why're you in here?!
+「わわっ、ちょ、ちょっと待ってっ！　何で君がいるのぉ！？」=“Wawah--, w-wait a sec--! Why're you in here?!”

@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「え～、面倒だからいいよ～」=Eh~, it's a pain, I'mma pass~
-「そ、そう言わずに……」=D-Don't say that...
-「も～今回だけね～」=Jeez~, just this once, okay?~
+「え～、面倒だからいいよ～」=“Eh~, it's a pain, I'mma pass~”
+「そ、そう言わずに……」=“D-Don't say that...”
+「も～今回だけね～」=“Jeez~, just this once, okay?~”

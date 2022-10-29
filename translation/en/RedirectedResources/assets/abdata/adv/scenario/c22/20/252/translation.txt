@@ -1,20 +1,20 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「……ちょっと予想以上に混んできたね」=...It's gotten more packed than I expected.
-「[H名]、平気？　苦しくない？」=[H], you fine? Not hard on you, is it?
-「私は大丈夫だけど……君、結構きつくない？　私のことだったら気にしなくていいから、もっとくっついていいよ」=I'm fine but... aren't you having a hard time? You don't need to mind me, you can squeeze closer.
-「ありがと、そうさせてもら……っ」=Thanks, I'll do just tha--...
+「……ちょっと予想以上に混んできたね」=“...It's gotten more packed than I expected.”
+「[H名]、平気？　苦しくない？」=“[H], you fine? Not hard on you, is it?”
+「私は大丈夫だけど……君、結構きつくない？　私のことだったら気にしなくていいから、もっとくっついていいよ」=“I'm fine but... aren't you having a hard time? You don't need to mind me, you can squeeze closer.”
+「ありがと、そうさせてもら……っ」=“Thanks, I'll do just tha--...”
 （うぐっ、押されて必要以上に[H名]の近くにっ……あぁ、[H名]の良い匂いと体温で……クラッとくる……）=(Uguh--, I got pushed way closer than I was going for... aah, her scent and her warmth... I'm going dizzy...)
 CHOICE:『一応我慢してみる』=Try enduring it and see how it goes.
 CHOICE:『必死に我慢する』=Endure it like your life depends on it.
 （我慢、しなきゃ……我慢……でも……どうにも、とまらない……）=(Endure, gotta... endure... but... it won't, stop...)
-「っ……あ、あの……もしかして……この硬いのって……」=--...U-Uhm... is this... hard thing your...
-「っ……ごめんっ！　こ、こんな風に密着してるからついっ……少しだけ我慢して」=--...Sorry--! W-We're squeezed together really tight so I couldn't--... just bear with it a little.
-「うぅ……そ、それも私は大丈夫だけど……君が……辛いんじゃない？　帰り着くまでこのままで平気なの？」=Uuu... A-Again, I'm fine but... isn't it... hard for you? Will you be fine until we get home?
-「う……え、えっと……実は平気じゃないけど……」=Uh... e-erhm... I actually am not fine...
-「あ、あのさ……無理にとは言わないんだけど……[H名]さえ良かったら……その……ここでちょっとだけ……してくれないかな？」=L-Listen... I won't tell you to force yourself but... if it's alright with you... uhm... could we do it here... a bit?
-「こ、ここ！？　電車の中だよ！？　えっと……じょ、冗談じゃなくて……本気で言ってるの……かな？」=H-Here!? On the train!? Erhm... a-are you saying that seriously... and not as a... joke?
-「うん、本気だよ。ちょっとだけでいいから……お願い」=Yeah, I'm serious. Just a little bit is fine... so please.
+「っ……あ、あの……もしかして……この硬いのって……」=“--...U-Uhm... is this... hard thing your...”
+「っ……ごめんっ！　こ、こんな風に密着してるからついっ……少しだけ我慢して」=“--...Sorry--! W-We're squeezed together really tight so I couldn't--... just bear with it a little.”
+「うぅ……そ、それも私は大丈夫だけど……君が……辛いんじゃない？　帰り着くまでこのままで平気なの？」=“Uuu... A-Again, I'm fine but... isn't it... hard for you? Will you be fine until we get home?”
+「う……え、えっと……実は平気じゃないけど……」=“Uh... e-erhm... I actually am not fine...”
+「あ、あのさ……無理にとは言わないんだけど……[H名]さえ良かったら……その……ここでちょっとだけ……してくれないかな？」=“L-Listen... I won't tell you to force yourself but... if it's alright with you... uhm... could we do it here... a bit?”
+「こ、ここ！？　電車の中だよ！？　えっと……じょ、冗談じゃなくて……本気で言ってるの……かな？」=“H-Here!? On the train!? Erhm... a-are you saying that seriously... and not as a... joke?”
+「うん、本気だよ。ちょっとだけでいいから……お願い」=“Yeah, I'm serious. Just a little bit is fine... so please.”
 （い、いや……ここで反応したら……せっかくのデートが台無しになってしまう……！）=(N-No... if I react here... all that effort today will have been for nothing...)
 （我慢、しないと……うぅ、でも本当にいい匂いがするなぁ……俺の理性、ちゃんと持ってくれるか……？）=(Gotta, endure... uuu, but she really does smell just so nice... will my self-control hold...?)

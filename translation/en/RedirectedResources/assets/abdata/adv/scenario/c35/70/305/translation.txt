@@ -1,25 +1,25 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「いえーい！」=Yaay!
-「はぁぁ、やっぱり延長して良かった！　今の歌、一度歌ってみたかった曲なんだ」=Haa, it was a good choice to extend it! The song just now, I wanted to try singing it atleast once.
-「私も私も！　最近よく聞くもんね。私もついつい一緒に熱唱しちゃったん」=Me too, me too! It's a really popular song these days, isn't it? I ended up joining in with you.
-「最初は恥ずかしいかと思ったけど、カラオケって楽しいんやねぇ。田舎におったらなかなかこういう経験も出来んけん。全部君のおかげなん。ありがとう」=At first it was a bit embarrassing but, karaoke is really fun, innit? I could have never experienced something like this in the sticks. It's all thanks to you. Thanks.
-「あはは、逆に[H名]の故郷には、[H名]の故郷にしかない良さがあるよ。いつか……俺にもそういう経験させて欲しいな」=Ahaha, but your hometown surely has its own charm to it, charm unique to it. Someday... I hope you can show me that charm.
-「あ……うん！　いつか私の田舎にも一緒に行くん！　といっても……大して行く場所もないと思うけど……」=Ah... yeah! Let's go to the countryside together someday! Well, I say that but... I don't think it's all that worth visiting...
-「そう思ってるのは、そこに住み慣れていたからだよ。きっと俺から見たら楽しいところもたくさんあるんじゃないかな」=I'm sure you only feel that way, because you're used to life there. I bet that from my point of view, it's got lots of fun things to do.
-「えへへ、そうかいな。やったら嬉しいなぁ……って、曲、曲！　私、一緒に歌ったけん、入れるの忘れとった！　わぁぁ、どうしよ！　何も考えとらんよー！」=Ehehe, maybe. Would be great if it did... forget that, the song, the song! I started singing along with you, so I forgot to put one in! Waah, what do I do! I can't think of anything!
+「いえーい！」=“Yaay!”
+「はぁぁ、やっぱり延長して良かった！　今の歌、一度歌ってみたかった曲なんだ」=“Haa, it was a good choice to extend it! The song just now, I wanted to try singing it atleast once.”
+「私も私も！　最近よく聞くもんね。私もついつい一緒に熱唱しちゃったん」=“Me too, me too! It's a really popular song these days, isn't it? I ended up joining in with you.”
+「最初は恥ずかしいかと思ったけど、カラオケって楽しいんやねぇ。田舎におったらなかなかこういう経験も出来んけん。全部君のおかげなん。ありがとう」=“At first it was a bit embarrassing but, karaoke is really fun, innit? I could have never experienced something like this in the sticks. It's all thanks to you. Thanks.”
+「あはは、逆に[H名]の故郷には、[H名]の故郷にしかない良さがあるよ。いつか……俺にもそういう経験させて欲しいな」=“Ahaha, but your hometown surely has its own charm to it, charm unique to it. Someday... I hope you can show me that charm.”
+「あ……うん！　いつか私の田舎にも一緒に行くん！　といっても……大して行く場所もないと思うけど……」=“Ah... yeah! Let's go to the countryside together someday! Well, I say that but... I don't think it's all that worth visiting...”
+「そう思ってるのは、そこに住み慣れていたからだよ。きっと俺から見たら楽しいところもたくさんあるんじゃないかな」=“I'm sure you only feel that way, because you're used to life there. I bet that from my point of view, it's got lots of fun things to do.”
+「えへへ、そうかいな。やったら嬉しいなぁ……って、曲、曲！　私、一緒に歌ったけん、入れるの忘れとった！　わぁぁ、どうしよ！　何も考えとらんよー！」=“Ehehe, maybe. Would be great if it did... forget that, the song, the song! I started singing along with you, so I forgot to put one in! Waah, what do I do! I can't think of anything!”
 （田舎のことを話す時のしっとりした表情も、こうやって慌ててる表情……やっぱり可愛いなぁ、[H名]）=(The soft expression you put on when we talk about the countryside, and the flustered expression you have now... you're so damn cute, [H名])
-「……ん？　どしたん？　もしかして何か歌いたい曲あるん？　そうやったら続けて歌ってくれても――」=...Hm? What's the matter? Is there something you want to sing? You can take the next spot too if you--
-「[H名]……んっ……」=[H名]... Nn--...
-「んっ……んんっ……ちゅっ……」=Nn--... Nnn--... *kiss*...
-「はぅ……ん……い、いきなりどうしたん？　あっ、んっ、ちゅっ……」=Hauu... Nn... W-What's gotten into you? Ah--, nn--, *kiss*...
-「ごめん……[H名]のこと、可愛いって思ったら……んんっ……何だか我慢出来なくなっちゃって……」=Sorry... you were just being so damn cute... nnn--... I couldn't control myself...
-「はぅぅぅ……こ、こげな状況でそういうこと言われたら……んっ、あ……わ、私も……同じ気持ちになるやん……」=Hauuuuu... I-If you say something like that, in this situation... Nn--, ah... I-I won't be able to... control myself either...
-「嬉しいよ……だったら……いい？」=I'm so happy... in that case... can we?
-「あんっ、んっ、ちゅっ……やっ、んんっ……そ、それってもしかして……え……えっちのこと……なん？」=Ahn--, nn--, *kiss*... S--, nnn--... B-By that, do you mean... s... sex...?
-「うん、そう……なんだけど……あ、あはは、いきなりごめん。俺、何だか変なこと言ってるよね」=Yeah, I... do... a-ahaha, sorry for bringing it up like this. I'm out of my depth here, aren't I?
-「あっ、う、ううんっ……あ、あの……えっと……わ、私もね……多分やけど……今……君と同じ気持ちになっとるんやと思う……」=Ah--, n-no--... u-uhm... erhm... y-you know... right now... I'm in the same mood as you... probably...
-「[H名]……ありがとう。すごく嬉しい。あの……こんな場所でなんだけど……いい？」=[H名]... thank you. I'm really happy. Uhm... I know this isn't really the best place to do it... but can we?
-「う、うん……いいよ。めっちゃ恥ずかしいけど……私も君とくっつきたいもん……でも……その……ドキドキしとるけん……優しくしてくれると……嬉しいです……」=Y-Yeah... I don't mind. It's super embarrassing but... I want to cling to you too... but... uhm... my heart's about to pop out of my chest... please be gentle... it'd make me really happy...
-「……うん、優しくする」=...Yeah, I'll be gentle.
+「……ん？　どしたん？　もしかして何か歌いたい曲あるん？　そうやったら続けて歌ってくれても――」=“...Hm? What's the matter? Is there something you want to sing? You can take the next spot too if you--”
+「[H名]……んっ……」=“[H名]... Nn--...”
+「んっ……んんっ……ちゅっ……」=“Nn--... Nnn--... *kiss*...”
+「はぅ……ん……い、いきなりどうしたん？　あっ、んっ、ちゅっ……」=“Hauu... Nn... W-What's gotten into you? Ah--, nn--, *kiss*...”
+「ごめん……[H名]のこと、可愛いって思ったら……んんっ……何だか我慢出来なくなっちゃって……」=“Sorry... you were just being so damn cute... nnn--... I couldn't control myself...”
+「はぅぅぅ……こ、こげな状況でそういうこと言われたら……んっ、あ……わ、私も……同じ気持ちになるやん……」=“Hauuuuu... I-If you say something like that, in this situation... Nn--, ah... I-I won't be able to... control myself either...”
+「嬉しいよ……だったら……いい？」=“I'm so happy... in that case... can we?”
+「あんっ、んっ、ちゅっ……やっ、んんっ……そ、それってもしかして……え……えっちのこと……なん？」=“Ahn--, nn--, *kiss*... S--, nnn--... B-By that, do you mean... s... sex...?”
+「うん、そう……なんだけど……あ、あはは、いきなりごめん。俺、何だか変なこと言ってるよね」=“Yeah, I... do... a-ahaha, sorry for bringing it up like this. I'm out of my depth here, aren't I?”
+「あっ、う、ううんっ……あ、あの……えっと……わ、私もね……多分やけど……今……君と同じ気持ちになっとるんやと思う……」=“Ah--, n-no--... u-uhm... erhm... y-you know... right now... I'm in the same mood as you... probably...”
+「[H名]……ありがとう。すごく嬉しい。あの……こんな場所でなんだけど……いい？」=“[H名]... thank you. I'm really happy. Uhm... I know this isn't really the best place to do it... but can we?”
+「う、うん……いいよ。めっちゃ恥ずかしいけど……私も君とくっつきたいもん……でも……その……ドキドキしとるけん……優しくしてくれると……嬉しいです……」=“Y-Yeah... I don't mind. It's super embarrassing but... I want to cling to you too... but... uhm... my heart's about to pop out of my chest... please be gentle... it'd make me really happy...”
+「……うん、優しくする」=“...Yeah, I'll be gentle.”

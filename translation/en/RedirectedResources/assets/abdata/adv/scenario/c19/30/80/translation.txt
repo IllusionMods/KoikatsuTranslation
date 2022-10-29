@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「本当にいつも美味しそうに食べるね。見てるこっちも筆が進みそう」=You really do always eat it so deliciously. Just watching you makes my pen move faster too.
-「筆？　箸じゃなくて？」=Pen? Not your chopsticks?
-「お箸も確かに進むけどね。それ以上にグルメ系の小説が1本書けそうな気分になって……」=Certainly, it does whet my appetite a whole lot. But, more than that, it puts me in the mood to write a gourmet novel or two...
-「そうなんだ。それなら、完成したら見せてよ。楽しみに待ってるから」=I see. In that case, show it to me once you've finished writing it. I'd love to read it.
+「本当にいつも美味しそうに食べるね。見てるこっちも筆が進みそう」=“You really do always eat it so deliciously. Just watching you makes my pen move faster too.”
+「筆？　箸じゃなくて？」=“Pen? Not your chopsticks?”
+「お箸も確かに進むけどね。それ以上にグルメ系の小説が1本書けそうな気分になって……」=“Certainly, it does whet my appetite a whole lot. But, more than that, it puts me in the mood to write a gourmet novel or two...”
+「そうなんだ。それなら、完成したら見せてよ。楽しみに待ってるから」=“I see. In that case, show it to me once you've finished writing it. I'd love to read it.”

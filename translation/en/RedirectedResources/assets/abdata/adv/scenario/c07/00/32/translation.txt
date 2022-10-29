@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「サンキュー、でもこれあんまり好きじゃないんだよなー。ハハハ」=Thanks. Though, I don't really like this all that much. Hahaha.
+「サンキュー、でもこれあんまり好きじゃないんだよなー。ハハハ」=“Thanks. Though, I don't really like this all that much. Hahaha.”

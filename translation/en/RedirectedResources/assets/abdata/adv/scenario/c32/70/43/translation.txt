@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「気配には気付いていましたが……あの、恥ずかしいのでそろそろ……」=It's not like I don't notice you... Uhm, It's embarrassing so, if you could wrap it up...
+「気配には気付いていましたが……あの、恥ずかしいのでそろそろ……」=“It's not like I don't notice you... Uhm, It's embarrassing so, if you could wrap it up...”

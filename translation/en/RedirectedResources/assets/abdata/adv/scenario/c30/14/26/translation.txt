@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「ふふっ、キミからプレゼントだなんて……わくわくしちゃうわね」=Fufu, to receive a present from you... It gets me excited, you know!
+「ふふっ、キミからプレゼントだなんて……わくわくしちゃうわね」=“Fufu, to receive a present from you... It gets me excited, you know!”

@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「ん……」=Nn...
-「眠いのですか？」=Are you feeling sleepy?
-「ちょっと昨日は夜更かししちゃっててね……ふぁ……」=I stayed up for a bit too late last night, you see... Fua...
-「休息も大事です、仮眠を取りましょうか」=Proper rest is important too, you should take a nap.
-「それじゃちょっとだけ、お言葉に甘えて……」=Alright then, just for a little bit, I'll do as you say...
-「ふふっ、こうやって側であなたの寝顔を見れるのも、恋人の特権ですから……おやすみなさい」=Fufu--, getting to stare at your sleeping face like this from the side, is one of my exclusive right as your lover too... Have a nice sleep.
+「ん……」=“Nn...”
+「眠いのですか？」=“Are you feeling sleepy?”
+「ちょっと昨日は夜更かししちゃっててね……ふぁ……」=“I stayed up for a bit too late last night, you see... Fua...”
+「休息も大事です、仮眠を取りましょうか」=“Proper rest is important too, you should take a nap.”
+「それじゃちょっとだけ、お言葉に甘えて……」=“Alright then, just for a little bit, I'll do as you say...”
+「ふふっ、こうやって側であなたの寝顔を見れるのも、恋人の特権ですから……おやすみなさい」=“Fufu--, getting to stare at your sleeping face like this from the side, is one of my exclusive right as your lover too... Have a nice sleep.”

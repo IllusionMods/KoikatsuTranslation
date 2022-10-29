@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「見つからないかドキドキして興奮したけど……もうヤダ恥ずかしい！」=Not knowing whether we'll be seen was really exciting but... Gosh, I can't, so embarrassing!
+「見つからないかドキドキして興奮したけど……もうヤダ恥ずかしい！」=“Not knowing whether we'll be seen was really exciting but... Gosh, I can't, so embarrassing!”

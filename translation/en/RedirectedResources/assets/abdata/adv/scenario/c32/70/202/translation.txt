@@ -1,22 +1,22 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「なんじゃこれ……さっき、きぐるみのキャラクターが配ってたんだけど……」=The heck is this... The mascot character was giving these out just now...
-「これは……スタンプラリーのカードみたいですね。アトラクションに乗れば、スタンプがもらえるようです」=This is... looks like it's a stamp card. If we ride the attractions, we'll get stamps it seems.
-「なるほど～。指定のスタンプが全部揃うと、景品がもらえるってわけか……よーし、頑張るぞ！」=I see~. So if we were to get all the listed stamps, we can exchange it for a prize, huh... Alright, let's do our best!
-「ふふふ、楽しそうですね……では、どういうルートで周りますか？」=Fufufu, sounds fun... Well then, what route will we be taking?
-「人気アトラクションが多いね……間に合うかな？」=There's a lot of popular attractions... Will we even make it?
-「それに、この遊園地結構広いから、全力で走り回らないといけないかも……」=Not to mention, this amusement park is pretty big, so we might have rush about from place to place...
-「……それなら、無理にスタンプラリーをすることもないように思います」=...In that case, I think we shouldn't force ourselves to collect the stamps.
-「え？　でも特別な景品だよ？　欲しくない？」=Eh? But they'll give out a special prize, you know? Don't you want it?
-「ええ、欲しいです。マスコットキャラのぬいぐるみと帽子と、スタジャンがもらえるんですよ。欲しいに決まってます！」=I do want it. A plushie of the mascot character, a hat, and even a logo-branded jacket to boot. Of course I want them!
-「けど、景品に目の色を変えて、強行軍をしても、デートとしては楽しくないように思えるんです」=But, I don't think that losing our heads over those prizes and forcing ourselves to get them would make for a fun date.
-「そ、そうかな」=T-That so?
-「私は、二人の時間をもっと満喫したいです。せっかくのデートなんですから。……無理をして周るのは、少し勿体無いと思います」=I want to fully enjoy what little time we have together. We don't get to go on dates often.I think it'd be a bit of a waste, to force ourselves to run around the park.
-「……なるほど、確かにそれはそうだね」=...I see, certainly, you're not wrong.
-「まあ、無理をしない範囲で、スタンプラリーをするのは楽しいと思います。スタジャン、欲しいですし」=Well, to the extent that we don't force ourselves, I think it'd be fun to collect the stamps. I do want that jacket.
-「よし、園内マップを確認してみて、それからどうするか決めようか」=Alright, let's check the park map, then see where we should go from there.
-「はい。……ふむ、ふむふむ、諦めるほどでもないかもしれませんね」=Yes.Hmm, Hmmhmm, it may not be entirely hopeless.
-「これとこれを乗ってから、こういうルートをたどれば、回れるんじゃないでしょうか」=After riding this and this, if we follow this route, won't we be able to make a complete round?
+「なんじゃこれ……さっき、きぐるみのキャラクターが配ってたんだけど……」=“The heck is this... The mascot character was giving these out just now...”
+「これは……スタンプラリーのカードみたいですね。アトラクションに乗れば、スタンプがもらえるようです」=“This is... looks like it's a stamp card. If we ride the attractions, we'll get stamps it seems.”
+「なるほど～。指定のスタンプが全部揃うと、景品がもらえるってわけか……よーし、頑張るぞ！」=“I see~. So if we were to get all the listed stamps, we can exchange it for a prize, huh... Alright, let's do our best!”
+「ふふふ、楽しそうですね……では、どういうルートで周りますか？」=“Fufufu, sounds fun... Well then, what route will we be taking?”
+「人気アトラクションが多いね……間に合うかな？」=“There's a lot of popular attractions... Will we even make it?”
+「それに、この遊園地結構広いから、全力で走り回らないといけないかも……」=“Not to mention, this amusement park is pretty big, so we might have rush about from place to place...”
+「……それなら、無理にスタンプラリーをすることもないように思います」=“...In that case, I think we shouldn't force ourselves to collect the stamps.”
+「え？　でも特別な景品だよ？　欲しくない？」=“Eh? But they'll give out a special prize, you know? Don't you want it?”
+「ええ、欲しいです。マスコットキャラのぬいぐるみと帽子と、スタジャンがもらえるんですよ。欲しいに決まってます！」=“I do want it. A plushie of the mascot character, a hat, and even a logo-branded jacket to boot. Of course I want them!”
+「けど、景品に目の色を変えて、強行軍をしても、デートとしては楽しくないように思えるんです」=“But, I don't think that losing our heads over those prizes and forcing ourselves to get them would make for a fun date.”
+「そ、そうかな」=“T-That so?”
+「私は、二人の時間をもっと満喫したいです。せっかくのデートなんですから。……無理をして周るのは、少し勿体無いと思います」=“I want to fully enjoy what little time we have together. We don't get to go on dates often.I think it'd be a bit of a waste, to force ourselves to run around the park.”
+「……なるほど、確かにそれはそうだね」=“...I see, certainly, you're not wrong.”
+「まあ、無理をしない範囲で、スタンプラリーをするのは楽しいと思います。スタジャン、欲しいですし」=“Well, to the extent that we don't force ourselves, I think it'd be fun to collect the stamps. I do want that jacket.”
+「よし、園内マップを確認してみて、それからどうするか決めようか」=“Alright, let's check the park map, then see where we should go from there.”
+「はい。……ふむ、ふむふむ、諦めるほどでもないかもしれませんね」=“Yes.Hmm, Hmmhmm, it may not be entirely hopeless.”
+「これとこれを乗ってから、こういうルートをたどれば、回れるんじゃないでしょうか」=“After riding this and this, if we follow this route, won't we be able to make a complete round?”
 （なんだ、けっこう乗り気じゃないか……）=(Hah, Look who's all into it now...)
-「オッケー……じゃ、頑張って回ってみよう！」=Alright... Then, let's do our best, and try circling the entire park!
+「オッケー……じゃ、頑張って回ってみよう！」=“Alright... Then, let's do our best, and try circling the entire park!”

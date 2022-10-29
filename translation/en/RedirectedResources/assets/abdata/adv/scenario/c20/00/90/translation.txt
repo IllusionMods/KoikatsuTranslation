@@ -1,17 +1,17 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「あ、あの！　ちょっと、お願いしたいことがあるんです」=U-Uhm! There's something, I'd like to request.
-「どうしたの？」=What's the matter?
-「その……あなたの愛称を考えてきたんです。よかったら呼んでみてもいいですか？」=It's... I've thought of a nickname for you. Would you mind if I call you by it once?
-「本当？　うん、どんな愛称なのか聞いてみたいな」=Really? Fire away, I wanna hear what you came up for me.
-「えっと、あまり期待はしないでくださいね？　で、では失礼して……」=Erhm, please don't get your expectations high, okay? W-Well then...
-「……[Pあだ名]」=...[Pあだ名].
-「おお、いいね。それじゃあ、俺も。……[Hあだ名]」=Oooh, that's great. Well then, me too. ...[Hあだ名].
-「はう……も、もしかして私の愛称ですか……？」=Hauu... i-is that one for me...?
-「うん、実は俺も考えてたんだ」=Yeah. I was actually thinking of one for you too.
-「そ、そうだったんですか。なんだか通じ合ってるみたいで……嬉しいです」=I-Is that so? It seems like our hearts communicated without us knowing... I'm so happy.
-「よかったら、また呼んでみてもいいですか……？」=Would you mind, if I use it again sometime...?
-「もちろん……っていうか、これからずっとでもいいよ」=No, go ahead... heck, we should just use them all the time.
-「それは、ちょっと……恥ずかしいです……。それに、ずっと呼んでしまうと、特別な感じが薄れてしまいそうなのも……」=That's, a bit... embarrassing... Not to mention, if we use them all the time, the special charm they have will disappear...
+「あ、あの！　ちょっと、お願いしたいことがあるんです」=“U-Uhm! There's something, I'd like to request.”
+「どうしたの？」=“What's the matter?”
+「その……あなたの愛称を考えてきたんです。よかったら呼んでみてもいいですか？」=“It's... I've thought of a nickname for you. Would you mind if I call you by it once?”
+「本当？　うん、どんな愛称なのか聞いてみたいな」=“Really? Fire away, I wanna hear what you came up for me.”
+「えっと、あまり期待はしないでくださいね？　で、では失礼して……」=“Erhm, please don't get your expectations high, okay? W-Well then...”
+「……[Pあだ名]」=“...[Pあだ名].”
+「おお、いいね。それじゃあ、俺も。……[Hあだ名]」=“Oooh, that's great. Well then, me too. ...[Hあだ名].”
+「はう……も、もしかして私の愛称ですか……？」=“Hauu... i-is that one for me...?”
+「うん、実は俺も考えてたんだ」=“Yeah. I was actually thinking of one for you too.”
+「そ、そうだったんですか。なんだか通じ合ってるみたいで……嬉しいです」=“I-Is that so? It seems like our hearts communicated without us knowing... I'm so happy.”
+「よかったら、また呼んでみてもいいですか……？」=“Would you mind, if I use it again sometime...?”
+「もちろん……っていうか、これからずっとでもいいよ」=“No, go ahead... heck, we should just use them all the time.”
+「それは、ちょっと……恥ずかしいです……。それに、ずっと呼んでしまうと、特別な感じが薄れてしまいそうなのも……」=“That's, a bit... embarrassing... Not to mention, if we use them all the time, the special charm they have will disappear...”
 （反応が可愛いなぁ）=(Man, what an adorable reaction.)

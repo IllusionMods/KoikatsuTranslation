@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「わかった、私も異論はない……みんなでするというのも、なかなかに面白そうじゃないか」=Got it, I have no objections either... It sounds pretty interesting too, doing it all together like this, no?
+「わかった、私も異論はない……みんなでするというのも、なかなかに面白そうじゃないか」=“Got it, I have no objections either... It sounds pretty interesting too, doing it all together like this, no?”

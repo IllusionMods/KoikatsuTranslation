@@ -2,17 +2,17 @@
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
 リナ=Lina
-「あ、いたいた。きみに頼みたいことがあったの。いいかしら？」=Ah, there you are. I've got a favour to ask you. May I?
-「はい、なんでしょう？　俺で出来ることなら何でも言ってください」=Yes, what is it? Let me know if there's anything I can do to help.
-「助かるわ。実はね、保健室の戸棚の上に段ボールがあるんだけど……中身を確認したいから取って欲しいの」=That helps me out. Actually, there's some cardboard boxes on top of the cupboard in the infirmary... I want you to take then down so I can see what's inside.
-「一応、脚立は使ってみたんだけど……私じゃ、どうしても届かなくて」=I tried to use a stepladder, but... I just can't reach it.
-「そういうことならお安いご用です。早速向かいましょう」=If that's the case, it shouldn't be a problem. Let's head over there.
-「ふふっ、きみ、頼りになるわね。見た目は優しそうなのに……やっぱりギャップ萌えだわ」=Fufuu, you're so reliable. You look so kind, but... I guess it really is gap moe.
-「ははは、萌えってなんですか。でも……先生方のお役に立てるのは嬉しいですよ」=Hahaha, what do you mean by moe? But... I'm glad to be able to help a teacher.
-「あら、そうなの？　意外ね。学生なんて面倒に感じそうなものなのに……」=Oh, really? That's surprising. I though students would normally find it troublesome...
-「普通はそうかもしれませんけど、俺、たった一人の男子なんで……せめて自分がいることで誰かの役に立てるって実感したいんです」=Normally that might be the case, but I'm the only boy here... so I want to at least feel like I'm worth the effort.
-「頼りになるだけじゃなくて、真面目なのね。それは……ギャップじゃないけど。でも萌えるわね」=You're not only dependable, you're also serious. There's... not really a gap. But it is moe.
-「ははは、だから萌えってなんですか。取るのは段ボールだけでいいんですか？」=Hahaha, again, what do you calling moe? Are these boxes all you were after?
-「そうねぇ、せっかくだから他の力仕事も頼んで良いかしら？」=Right, since you're here, is it alright if I ask you to do some other heavy lifting?
-「何なりと。今日に限らず、いつでも気軽に言ってください」=Anything you need. Please feel free to ask me any time, not just today.
-「ふふふっ、ありがとう、助かるわ」=Fufufuu, thank you, I appreciate it.
+「あ、いたいた。きみに頼みたいことがあったの。いいかしら？」=“Ah, there you are. I've got a favour to ask you. May I?”
+「はい、なんでしょう？　俺で出来ることなら何でも言ってください」=“Yes, what is it? Let me know if there's anything I can do to help.”
+「助かるわ。実はね、保健室の戸棚の上に段ボールがあるんだけど……中身を確認したいから取って欲しいの」=“That helps me out. Actually, there's some cardboard boxes on top of the cupboard in the infirmary... I want you to take then down so I can see what's inside.”
+「一応、脚立は使ってみたんだけど……私じゃ、どうしても届かなくて」=“I tried to use a stepladder, but... I just can't reach it.”
+「そういうことならお安いご用です。早速向かいましょう」=“If that's the case, it shouldn't be a problem. Let's head over there.”
+「ふふっ、きみ、頼りになるわね。見た目は優しそうなのに……やっぱりギャップ萌えだわ」=“Fufuu, you're so reliable. You look so kind, but... I guess it really is gap moe.”
+「ははは、萌えってなんですか。でも……先生方のお役に立てるのは嬉しいですよ」=“Hahaha, what do you mean by moe? But... I'm glad to be able to help a teacher.”
+「あら、そうなの？　意外ね。学生なんて面倒に感じそうなものなのに……」=“Oh, really? That's surprising. I though students would normally find it troublesome...”
+「普通はそうかもしれませんけど、俺、たった一人の男子なんで……せめて自分がいることで誰かの役に立てるって実感したいんです」=“Normally that might be the case, but I'm the only boy here... so I want to at least feel like I'm worth the effort.”
+「頼りになるだけじゃなくて、真面目なのね。それは……ギャップじゃないけど。でも萌えるわね」=“You're not only dependable, you're also serious. There's... not really a gap. But it is moe.”
+「ははは、だから萌えってなんですか。取るのは段ボールだけでいいんですか？」=“Hahaha, again, what do you calling moe? Are these boxes all you were after?”
+「そうねぇ、せっかくだから他の力仕事も頼んで良いかしら？」=“Right, since you're here, is it alright if I ask you to do some other heavy lifting?”
+「何なりと。今日に限らず、いつでも気軽に言ってください」=“Anything you need. Please feel free to ask me any time, not just today.”
+「ふふふっ、ありがとう、助かるわ」=“Fufufuu, thank you, I appreciate it.”

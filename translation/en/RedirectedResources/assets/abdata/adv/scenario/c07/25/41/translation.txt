@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「うわっ！　だめじゃないか、こんなところに入ってきちゃ！　早くでてけよ！」=Uwah--! You shouldn't be in here! Beat it!
+「うわっ！　だめじゃないか、こんなところに入ってきちゃ！　早くでてけよ！」=“Uwah--! You shouldn't be in here! Beat it!”

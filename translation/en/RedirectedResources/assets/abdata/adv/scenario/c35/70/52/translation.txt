@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「えっと……もう少し長くても良かったかも……無理はせんでいいけん、次はゆっくりじっくりしよ？」=Erhm... Going on for a bit longer might have been nice... I won't ask you to force yourself, so let's take it slow and steady next time, okay?
+「えっと……もう少し長くても良かったかも……無理はせんでいいけん、次はゆっくりじっくりしよ？」=“Erhm... Going on for a bit longer might have been nice... I won't ask you to force yourself, so let's take it slow and steady next time, okay?”

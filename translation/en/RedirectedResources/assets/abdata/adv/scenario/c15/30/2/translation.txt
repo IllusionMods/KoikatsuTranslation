@@ -1,11 +1,11 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「最初は怪しいヤツだと思ったけど、キミは悪いヤツじゃないな」=I used to think you were a real fishy guy but, you're alright.
-「え、どうして悪いヤツじゃないってわかったの？」=Eh, what changed your mind?
-「ニオイで大体わかるぞ」=Your smell, I can tell that sort of thing.
-「へ～、ニオイでそんなことわかるんだ……」=Hoh~, is that so...
-「でも、ニオイじゃわからないこともあるから、色んな話をしてもっとキミのこと教えてほしいぞ」=But, there's things that even smells can't teach you, so I want to get to know you a lot more, with chats and stuff.
-「もちろん。これからもよろしくね」=Of course. Let's chat each other's ears off.
-「うん！　よろしく！」=Yeah! Let's!
-「あ、もう時間だぞ。また話そ、じゃーねー♪」=Ah, I'm out of time. Let's chat again later, see ya♪
+「最初は怪しいヤツだと思ったけど、キミは悪いヤツじゃないな」=“I used to think you were a real fishy guy but, you're alright.”
+「え、どうして悪いヤツじゃないってわかったの？」=“Eh, what changed your mind?”
+「ニオイで大体わかるぞ」=“Your smell, I can tell that sort of thing.”
+「へ～、ニオイでそんなことわかるんだ……」=“Hoh~, is that so...”
+「でも、ニオイじゃわからないこともあるから、色んな話をしてもっとキミのこと教えてほしいぞ」=“But, there's things that even smells can't teach you, so I want to get to know you a lot more, with chats and stuff.”
+「もちろん。これからもよろしくね」=“Of course. Let's chat each other's ears off.”
+「うん！　よろしく！」=“Yeah! Let's!”
+「あ、もう時間だぞ。また話そ、じゃーねー♪」=“Ah, I'm out of time. Let's chat again later, see ya♪”

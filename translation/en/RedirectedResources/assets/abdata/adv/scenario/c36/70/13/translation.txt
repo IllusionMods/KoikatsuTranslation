@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「デート？　下僕と遊んであげる事を、デートと言うのかしら？」="A date? Does messing with one's manservant counts as a date?"
-「えっと、言い方は任せる……一緒にいてくれるだけで、嬉しいし」="Umm, I'll leave naming to you... I'd be happy just to go together."
-「そう、なら敢えてデートのままでいいわ。付き合ってあげるから、楽しませてみせなさい」="Is that so, then 'date' is fine. Since I agreed to going, I'll have my fun with you."
+「デート？　下僕と遊んであげる事を、デートと言うのかしら？」=“A date? Does messing with one's manservant counts as a date?”
+「えっと、言い方は任せる……一緒にいてくれるだけで、嬉しいし」=“Umm, I'll leave naming to you... I'd be happy just to go together.”
+「そう、なら敢えてデートのままでいいわ。付き合ってあげるから、楽しませてみせなさい」=“Is that so, then 'date' is fine. Since I agreed to going, I'll have my fun with you.”

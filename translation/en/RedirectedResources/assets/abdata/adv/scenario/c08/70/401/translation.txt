@@ -1,17 +1,17 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「実はこの喫茶店、雑誌に紹介されるぐらい有名な店なんだよ。知ってた？」=This cafe is actually so popular, it's even been featured in magazines. Did you know that?
-「はぇ～、よく知ってるな、[H名]は……」=Hoh~, you're pretty in the know, [H名]...
-「えへへ～、実はこの日の為に、調べておいたの♪」=Ehehe~, I actually read up on it, just for today♪
-「あ、今思い出したんだけど、この店ってテレビでも紹介してなかった？　確かここだった気がするんだけど……」=Ah, I just remembered but, wasn't this cafe also featured on the telly once? I feel like it was this cafe, anyway...
-「えぇ～！　テレビでもやったんだぁ！　知らなかったよ」=Eeh~! Even the telly, huh! I didn't know that.
-「でも、私が調べてここに決めてなかったら、[P名]君絶対来てないでしょ」=But, if I didn't check it out beforehand and decide on this place, you'd never have come here, right?
-「そうかも。テレビで紹介されてる店って意外に行かないんだよな」=Yeah, maybe. You don't really go to places that show up on TV all that often, do you? I certainly don't.
-「[P名]君って噂の有名店とかに興味ないんだね」=You don't really care all that much about the popular stores and whatnot, do you, [P]-kun?
-「私は、『お昼時には大行列が！』とか、『限定３０個が即完売！』みたいなのはすぐ行っちゃうな～」=I always end up rushing out whenever I hear things like『People line up all the way to the intersection to get lunch here!』or『The daily limited runs sell out immediately!』and whatnot~
-「そっか。じゃあ、いつかそういうお店でもデートしてみる？」=I see. Then, wanna try having a date in one of those places one of these days?
-「いいね～、すごく楽しそう♪」=Sounds like a ton of fun~, let's do that♪
-「おお、食いつきがいいな。何かいいお店知ってる？」=Ooh, I like that enthusiasm. Know any good places?
-「それなら、行ってみたい所があるの。１日限定１０食のおいし～焼きたてパンを販売してるお店なんだけどね」=There is a place I wanna check out. It's a bakery that sells this really delicious pastry, they only make 10 per day.
-「１日１０食！？　それは忙しないデートになりそうだ……」=Only 10 a day!? I feel like that won't exactly make for a very relaxing date...
+「実はこの喫茶店、雑誌に紹介されるぐらい有名な店なんだよ。知ってた？」=“This cafe is actually so popular, it's even been featured in magazines. Did you know that?”
+「はぇ～、よく知ってるな、[H名]は……」=“Hoh~, you're pretty in the know, [H名]...”
+「えへへ～、実はこの日の為に、調べておいたの♪」=“Ehehe~, I actually read up on it, just for today♪”
+「あ、今思い出したんだけど、この店ってテレビでも紹介してなかった？　確かここだった気がするんだけど……」=“Ah, I just remembered but, wasn't this cafe also featured on the telly once? I feel like it was this cafe, anyway...”
+「えぇ～！　テレビでもやったんだぁ！　知らなかったよ」=“Eeh~! Even the telly, huh! I didn't know that.”
+「でも、私が調べてここに決めてなかったら、[P名]君絶対来てないでしょ」=“But, if I didn't check it out beforehand and decide on this place, you'd never have come here, right?”
+「そうかも。テレビで紹介されてる店って意外に行かないんだよな」=“Yeah, maybe. You don't really go to places that show up on TV all that often, do you? I certainly don't.”
+「[P名]君って噂の有名店とかに興味ないんだね」=“You don't really care all that much about the popular stores and whatnot, do you, [P]-kun?”
+「私は、『お昼時には大行列が！』とか、『限定３０個が即完売！』みたいなのはすぐ行っちゃうな～」=“I always end up rushing out whenever I hear things like『People line up all the way to the intersection to get lunch here!』or『The daily limited runs sell out immediately!』and whatnot~”
+「そっか。じゃあ、いつかそういうお店でもデートしてみる？」=“I see. Then, wanna try having a date in one of those places one of these days?”
+「いいね～、すごく楽しそう♪」=“Sounds like a ton of fun~, let's do that♪”
+「おお、食いつきがいいな。何かいいお店知ってる？」=“Ooh, I like that enthusiasm. Know any good places?”
+「それなら、行ってみたい所があるの。１日限定１０食のおいし～焼きたてパンを販売してるお店なんだけどね」=“There is a place I wanna check out. It's a bakery that sells this really delicious pastry, they only make 10 per day.”
+「１日１０食！？　それは忙しないデートになりそうだ……」=“Only 10 a day!? I feel like that won't exactly make for a very relaxing date...”

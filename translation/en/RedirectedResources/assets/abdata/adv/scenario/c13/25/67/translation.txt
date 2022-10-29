@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「ねぇ。ちょっと目。つぶってて……チュッ、んっ……」=Hey. Your eyes. Close them for a bit... *kiss*, nn--...
-「……って、え！？ い、いまのって……」=...--eh!? T-That was...
-「はぁ～、補充完了～。今度は[P]くんから……ね？」=Haa~, recharge complete~. You do it this time... okay?
-「あ、そ、それじゃあ……ちゅっ」=Ah, w-well then... *kiss*--
+「ねぇ。ちょっと目。つぶってて……チュッ、んっ……」=“Hey. Your eyes. Close them for a bit... *kiss*, nn--...”
+「……って、え！？ い、いまのって……」=“...--eh!? T-That was...”
+「はぁ～、補充完了～。今度は[P]くんから……ね？」=“Haa~, recharge complete~. You do it this time... okay?”
+「あ、そ、それじゃあ……ちゅっ」=“Ah, w-well then... *kiss*--”

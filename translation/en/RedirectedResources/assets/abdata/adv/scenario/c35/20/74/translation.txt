@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「ふぅ……結構いい汗かけとるね！　やっぱり運動って気持ちいい！」=Fuu... we're sweating up nice and good! Exercise really does feel amazing!
-「すっきりするよね。結構ハードにしてるけど大丈夫？　きつくない？」=It's really refreshing, isn't it? We're going at quite the pace though, you okay? It's not too rough?
-「ふふっ、全然平気よ。君こそ大丈夫？　休憩せんときついっちゃない？」=Fufu--, I'm perfectly fine. What about you though? Won't it be rough on you without a break?
-「あはは……実は意外と疲れたかも……我ながら情けないけど、ちょっと休んでもいい？」=Ahaha... Actually, I'm unexpectedly pretty tired... Sounds pretty pathetic coming from me of all people, but is it alright if we take a break?
-「もちろん！　水分もしっかり補給せないかんし、無理はせんどってね！」=Of course! We gotta get some water too anyway, so don't force yourself!
+「ふぅ……結構いい汗かけとるね！　やっぱり運動って気持ちいい！」=“Fuu... we're sweating up nice and good! Exercise really does feel amazing!”
+「すっきりするよね。結構ハードにしてるけど大丈夫？　きつくない？」=“It's really refreshing, isn't it? We're going at quite the pace though, you okay? It's not too rough?”
+「ふふっ、全然平気よ。君こそ大丈夫？　休憩せんときついっちゃない？」=“Fufu--, I'm perfectly fine. What about you though? Won't it be rough on you without a break?”
+「あはは……実は意外と疲れたかも……我ながら情けないけど、ちょっと休んでもいい？」=“Ahaha... Actually, I'm unexpectedly pretty tired... Sounds pretty pathetic coming from me of all people, but is it alright if we take a break?”
+「もちろん！　水分もしっかり補給せないかんし、無理はせんどってね！」=“Of course! We gotta get some water too anyway, so don't force yourself!”

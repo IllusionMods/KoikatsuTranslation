@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「今日は楽しかったです。ありがとうございました。また学園でお会いしましょう」=Today was a lot of fun. Thank you very much. Let's see each other at school again.
+「今日は楽しかったです。ありがとうございました。また学園でお会いしましょう」=“Today was a lot of fun. Thank you very much. Let's see each other at school again.”

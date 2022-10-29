@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「ど、どうぞ……してください」=G-Go ahead then... do it please.
-「だいぶ緊張してるみたいだけど、本当に大丈夫？」=You seem really tense, are you sure you're alright with this?
-「ええ……あなたに抱いてもらえるなら本望です」=Yes... I've long wished for this, to be embraced by you.
-「好き同士だから共有できる快感……私にください」=Please give me the pleasure... only lovers can share.
+「ど、どうぞ……してください」=“G-Go ahead then... do it please.”
+「だいぶ緊張してるみたいだけど、本当に大丈夫？」=“You seem really tense, are you sure you're alright with this?”
+「ええ……あなたに抱いてもらえるなら本望です」=“Yes... I've long wished for this, to be embraced by you.”
+「好き同士だから共有できる快感……私にください」=“Please give me the pleasure... only lovers can share.”

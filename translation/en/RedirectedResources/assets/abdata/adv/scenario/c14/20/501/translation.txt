@@ -2,8 +2,8 @@
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
 （よし、待ち合わせの時間前に到着……って、[H名]がもう来てる！）=(Alright, got here before the set time... wait, she's already here!)
-「おせーじゃねーか。あんまり待たせてんじゃねえよ」=You're late, dummy. Don't make me wait so long.
-「ごめんごめん、早めに来たつもりだったんだけどね。もしかして、待っててくれたの？」=Sorry, sorry. I did try to come here early, for what it's worth. Did you wait for me?
-「いや……別にてめぇのことなんか待ってねえよ！」=No... it's not like I was waiting for you!
+「おせーじゃねーか。あんまり待たせてんじゃねえよ」=“You're late, dummy. Don't make me wait so long.”
+「ごめんごめん、早めに来たつもりだったんだけどね。もしかして、待っててくれたの？」=“Sorry, sorry. I did try to come here early, for what it's worth. Did you wait for me?”
+「いや……別にてめぇのことなんか待ってねえよ！」=“No... it's not like I was waiting for you!”
 （待ってたのか待ってないのか、どっちなんだ……）=(Were you or were you not waiting for me...?)
-「あはは……それじゃあ、行こうか」=Ahaha... well then, shall we go then?
+「あはは……それじゃあ、行こうか」=“Ahaha... well then, shall we go then?”

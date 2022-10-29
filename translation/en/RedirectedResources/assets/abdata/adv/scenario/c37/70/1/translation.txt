@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「君、ちょっといい？」=Hey, do you have a minute?
-「私に何か？」=Do you need something from me?
-「君とお話がしたくてさ、時間あるかな？」=I wanted to talk with you for a bit, do you have time?
-「問題ありません」=No problem whatsoever.
-「ありがとう、それじゃえっと……」=Thanks, well then, erhm...
+「君、ちょっといい？」=“Hey, do you have a minute?”
+「私に何か？」=“Do you need something from me?”
+「君とお話がしたくてさ、時間あるかな？」=“I wanted to talk with you for a bit, do you have time?”
+「問題ありません」=“No problem whatsoever.”
+「ありがとう、それじゃえっと……」=“Thanks, well then, erhm...”

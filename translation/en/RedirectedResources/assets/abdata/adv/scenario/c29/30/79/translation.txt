@@ -1,5 +1,5 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「この学園って、学食のレベルすごく高いよね」=Man, the cafeteria here's pretty world-class, isn't it?
-「ええ。どのメニューもとても美味しいと思います」=Yes. Every single item on the menu is great.
+「この学園って、学食のレベルすごく高いよね」=“Man, the cafeteria here's pretty world-class, isn't it?”
+「ええ。どのメニューもとても美味しいと思います」=“Yes. Every single item on the menu is great.”

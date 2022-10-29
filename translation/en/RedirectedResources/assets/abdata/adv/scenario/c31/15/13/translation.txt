@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「デートのお誘いか。もちろん、断る理由はない」=An invitation to a date, huh? Of course, I have no reason to refuse.
-「ありがと。何だか緊張しちゃってさ、そう言ってくれて嬉しいよ」=Thanks. I was kinda nervous, so I'm glad to hear you say that.
-「フッ、今更緊張する必要ないだろう。では、デートを楽しみにしているぞ？」=Hah, there's no point in being nervous now, is it? Then, I'm looking forward to our date, okay?
+「デートのお誘いか。もちろん、断る理由はない」=“An invitation to a date, huh? Of course, I have no reason to refuse.”
+「ありがと。何だか緊張しちゃってさ、そう言ってくれて嬉しいよ」=“Thanks. I was kinda nervous, so I'm glad to hear you say that.”
+「フッ、今更緊張する必要ないだろう。では、デートを楽しみにしているぞ？」=“Hah, there's no point in being nervous now, is it? Then, I'm looking forward to our date, okay?”

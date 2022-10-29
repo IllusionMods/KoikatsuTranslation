@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「ん、もうこんな時間か」=Mmm, it's already this late, huh?
-「ええ、日が落ちてきましたね、あっという間です」=Yes, the sun has gone down, the day really flew by.
-「随分長居しちゃったな、そろそろ出よっか？」=We've stayed for plenty long, I think. Shall we leave?
-「はい。出ましょう」=Yes. Let's go.
-「じゃあ会計済ませてきちゃうね」=Then, I'll go settle the bill.
-「私も行きます。恋人とは言えこういった事は平等であるべきです」=I'll go with you. We may be lovers but we ought to deal with these sorts of things equally
-「ここは彼氏の面目を立たせたいところだけど……うん、ありがとう」=This is one of the few places where a boyfriend can show off though... Alright, thanks.
+「ん、もうこんな時間か」=“Mmm, it's already this late, huh?”
+「ええ、日が落ちてきましたね、あっという間です」=“Yes, the sun has gone down, the day really flew by.”
+「随分長居しちゃったな、そろそろ出よっか？」=“We've stayed for plenty long, I think. Shall we leave?”
+「はい。出ましょう」=“Yes. Let's go.”
+「じゃあ会計済ませてきちゃうね」=“Then, I'll go settle the bill.”
+「私も行きます。恋人とは言えこういった事は平等であるべきです」=“I'll go with you. We may be lovers but we ought to deal with these sorts of things equally”
+「ここは彼氏の面目を立たせたいところだけど……うん、ありがとう」=“This is one of the few places where a boyfriend can show off though... Alright, thanks.”

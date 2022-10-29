@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「うふふ♡　私の誘いを受けてくれて、本当にありがとうございます♡」=Ufufu♡ Thank you very much, for accepting my invitation in stride♡
+「うふふ♡　私の誘いを受けてくれて、本当にありがとうございます♡」=“Ufufu♡ Thank you very much, for accepting my invitation in stride♡”

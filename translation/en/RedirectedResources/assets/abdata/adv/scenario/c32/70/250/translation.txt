@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「ふう……すごく疲れちゃった。遊園地って、かなり歩くね」=Fuu... I'm super tired. Takes quite some walking to go around an amusement park, huh?
-「はい、足が棒のようです。遊んでる最中は楽しくて、疲れなんて気にならなかったんですが……」=Yes, my legs feel like lead. When we were busy playing around, fatigue was the last thing on my mind but...
-「歳を取っても、遊園地って楽しめるのかな？　この楽しい気分、ずーっと維持し続けたいなぁ……」=I wonder, will we still be able to enjoy the amusement park, even when we're old? I honestly want it to be fun like this forever...
-「ふふふ、きっとできますよ。遊園地は大人も子供も大好きですから」=Fufufu, I'm sure it will be. After all, both adults and children love amusement parks.
-「そうだといいなぁー」=Would be great if so.
+「ふう……すごく疲れちゃった。遊園地って、かなり歩くね」=“Fuu... I'm super tired. Takes quite some walking to go around an amusement park, huh?”
+「はい、足が棒のようです。遊んでる最中は楽しくて、疲れなんて気にならなかったんですが……」=“Yes, my legs feel like lead. When we were busy playing around, fatigue was the last thing on my mind but...”
+「歳を取っても、遊園地って楽しめるのかな？　この楽しい気分、ずーっと維持し続けたいなぁ……」=“I wonder, will we still be able to enjoy the amusement park, even when we're old? I honestly want it to be fun like this forever...”
+「ふふふ、きっとできますよ。遊園地は大人も子供も大好きですから」=“Fufufu, I'm sure it will be. After all, both adults and children love amusement parks.”
+「そうだといいなぁー」=“Would be great if so.”

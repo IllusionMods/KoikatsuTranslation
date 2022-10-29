@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「へえ、色々あるんだね」=Hoh, they've got all sorts here, huh?
-「あ、少し気になるお店があるんです。寄ってもいいですか？」=Ah, I'm a bit curious about that shop. Is it alright if we stop by?
-「うん、いいよ」=Yeah, alright.
-「楽しかったです。今日は幸せな一日でした」=It was fun. Today was a really fun day.
+「へえ、色々あるんだね」=“Hoh, they've got all sorts here, huh?”
+「あ、少し気になるお店があるんです。寄ってもいいですか？」=“Ah, I'm a bit curious about that shop. Is it alright if we stop by?”
+「うん、いいよ」=“Yeah, alright.”
+「楽しかったです。今日は幸せな一日でした」=“It was fun. Today was a really fun day.”
 （よかった、喜んでもらえたみたいだ）=(I'm glad, looks like she enjoyed it.)

@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「無駄に元気だな……。何か良い事でもあったか？」=You're way too pointlessly lively... Did something good happen?
-「そういうわけじゃないけど、とにかく体を動かしたくて」=Not really, I just wanted to get a workout.
-「ふむ、まぁそういう時もあるか。よし、いいだろう。誘ったからには、きちんと付き合えよ」=Hmm, well, I suppose there are times like that too. Alright, sounds good. Now that you've invited me, you have to properly keep me company.
+「無駄に元気だな……。何か良い事でもあったか？」=“You're way too pointlessly lively... Did something good happen?”
+「そういうわけじゃないけど、とにかく体を動かしたくて」=“Not really, I just wanted to get a workout.”
+「ふむ、まぁそういう時もあるか。よし、いいだろう。誘ったからには、きちんと付き合えよ」=“Hmm, well, I suppose there are times like that too. Alright, sounds good. Now that you've invited me, you have to properly keep me company.”

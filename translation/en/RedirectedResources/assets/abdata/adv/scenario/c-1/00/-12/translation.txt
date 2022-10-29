@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「もしもきみが風邪なんかで学園を休んだら……私、こっそりお見舞いに行っちゃおうかしら♪」=If you take a day off from school because of a cold or something... I wonder if I should pay you a secret visit ♪
+「もしもきみが風邪なんかで学園を休んだら……私、こっそりお見舞いに行っちゃおうかしら♪」=“If you take a day off from school because of a cold or something... I wonder if I should pay you a secret visit ♪”

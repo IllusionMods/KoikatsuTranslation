@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「そういえば、[H]の得意なスポーツって何？」=That reminds me, any sport you're particularly good at, [H名]?
-「Ｓｐｏｒｔｓ？　前のｓｈｃｏｏｌデハ、ｃｈｅｅｒｌｅａｄｉｎｇヤッテマシタ」=A sport? Back at my old school, I used to be a cheerleader.
-「えっ、チア！？　めちゃくちゃスクールカースト高そう。ラグビー部の男子と付き合ってるイメージ」=Eh--, cheer?! Cheerleaders are super high on the school pecking order, no? Dating the rugby club jocks and everything.
-「Ｄｒａｍａの見過ぎネ♪　人気アリマスケド、ワタシの場合ハ、人種差別ダメダカラ入って欲しい言われマシタ」=You watch too many TV dramas♪ Certainly, cheerleaders are popular but, in my case, I was asked to join just to fill their racial quotas in a sense. Essentially, "Discrimination is bad so we'd like you for optics"
+「そういえば、[H]の得意なスポーツって何？」=“That reminds me, any sport you're particularly good at, [H名]?”
+「Ｓｐｏｒｔｓ？　前のｓｈｃｏｏｌデハ、ｃｈｅｅｒｌｅａｄｉｎｇヤッテマシタ」=“A sport? Back at my old school, I used to be a cheerleader.”
+「えっ、チア！？　めちゃくちゃスクールカースト高そう。ラグビー部の男子と付き合ってるイメージ」=“Eh--, cheer?! Cheerleaders are super high on the school pecking order, no? Dating the rugby club jocks and everything.”
+「Ｄｒａｍａの見過ぎネ♪　人気アリマスケド、ワタシの場合ハ、人種差別ダメダカラ入って欲しい言われマシタ」=“You watch too many TV dramas♪ Certainly, cheerleaders are popular but, in my case, I was asked to join just to fill their racial quotas in a sense. Essentially, "Discrimination is bad so we'd like you for optics”
 （なるほど。たしかに海外って、そういうのしっかりしてそうだもんな）=(I see. Certainly, seems like they take that stuff seriously abroad)

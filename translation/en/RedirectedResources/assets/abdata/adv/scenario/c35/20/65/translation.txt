@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「こうやって二人で歩いとったら……なんか青春しとるーって感じがするん。君はどうかいな？」=When we walk together like this... I feel like we're living the springtime of our lives. What about you?
-「分かるよ。こういう時間って学生の間しかないもんね」=I feel you. Spending time like this is something only students can do, isn't it?
-「うん！　なんかね、前住んどったとこを離れる時は不安で仕方なかったっちゃけど……私、君に会えて、前よりもずーっと青春しとうよ」=Yeah! You know, I couldn't help but be anxious when I left my hometown but... Having met you, life feels a lot more like spring than ever before.
-「この学園でこんなことが出来るんて、うまく言えんけど……えっと……これって奇跡みたいやない？」=Being able to do this, in a school like this, I don't know how to say it exactly but... erhm... it feels like a miracle, doesn't it?
-「奇跡か……そんな風に言ってもらえるとちょっと照れるね。でも……うん、確かにそうかも」=A miracle, huh... You're gonna make me blush. But... yeah, it might really be so.
+「こうやって二人で歩いとったら……なんか青春しとるーって感じがするん。君はどうかいな？」=“When we walk together like this... I feel like we're living the springtime of our lives. What about you?”
+「分かるよ。こういう時間って学生の間しかないもんね」=“I feel you. Spending time like this is something only students can do, isn't it?”
+「うん！　なんかね、前住んどったとこを離れる時は不安で仕方なかったっちゃけど……私、君に会えて、前よりもずーっと青春しとうよ」=“Yeah! You know, I couldn't help but be anxious when I left my hometown but... Having met you, life feels a lot more like spring than ever before.”
+「この学園でこんなことが出来るんて、うまく言えんけど……えっと……これって奇跡みたいやない？」=“Being able to do this, in a school like this, I don't know how to say it exactly but... erhm... it feels like a miracle, doesn't it?”
+「奇跡か……そんな風に言ってもらえるとちょっと照れるね。でも……うん、確かにそうかも」=“A miracle, huh... You're gonna make me blush. But... yeah, it might really be so.”

@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「良い結果を導くためには目標設定が重要なの。あなたは自分の目標、はっきりしているかしら」=To get the best possible results, setting up goals is important. Have you clearly thought about your own goals?
+「良い結果を導くためには目標設定が重要なの。あなたは自分の目標、はっきりしているかしら」=“To get the best possible results, setting up goals is important. Have you clearly thought about your own goals?”

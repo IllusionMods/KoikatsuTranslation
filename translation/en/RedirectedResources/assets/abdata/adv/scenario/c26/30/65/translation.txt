@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「……楽しい」="...Fun."
-「えっ、何が？」="Huh, what?"
-「……わからない。けど多分、あなたがいるから……だと思う」="...I'm not sure. Maybe it's just because you're here..."
+「……楽しい」=“...Fun.”
+「えっ、何が？」=“Huh, what?”
+「……わからない。けど多分、あなたがいるから……だと思う」=“...I'm not sure. Maybe it's just because you're here...”

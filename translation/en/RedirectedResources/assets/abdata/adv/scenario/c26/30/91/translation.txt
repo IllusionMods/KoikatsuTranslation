@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「おはよう、[Pあだ名]」="Good morning, [Pあだ名]."
-「うん。おはよう、[Hあだ名]。愛称で呼んでくれて嬉しいよ」="Hey, right back at you, [Hあだ名]. Are we still on for the nicknames?"
-「……そう。喜んでくれたなら、よかった」="...Yeah. If you want to keep using them, I'm fine with it."
+「おはよう、[Pあだ名]」=“Good morning, [Pあだ名].”
+「うん。おはよう、[Hあだ名]。愛称で呼んでくれて嬉しいよ」=“Hey, right back at you, [Hあだ名]. Are we still on for the nicknames?”
+「……そう。喜んでくれたなら、よかった」=“...Yeah. If you want to keep using them, I'm fine with it.”

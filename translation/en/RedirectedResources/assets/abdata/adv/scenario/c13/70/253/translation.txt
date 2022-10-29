@@ -1,19 +1,19 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「だんだん混んできたな……ごめん、少し詰めてもらっていい？」=It's starting to get more and more packed... sorry, could you move a bit closer?
-「ちょ……さすがに近づきすぎだし！　ドキドキするじゃん……」=Wai... this really is way too close! My heart's gonna start racing...
-「しばらくの辛抱だと思うから……っうわ！」=I don't think it's gonna last long, so just bear with it for... --uwah!
+「だんだん混んできたな……ごめん、少し詰めてもらっていい？」=“It's starting to get more and more packed... sorry, could you move a bit closer?”
+「ちょ……さすがに近づきすぎだし！　ドキドキするじゃん……」=“Wai... this really is way too close! My heart's gonna start racing...”
+「しばらくの辛抱だと思うから……っうわ！」=“I don't think it's gonna last long, so just bear with it for... --uwah!”
 (っ、ヤバイ……俺の股間が[H名]に……うっ)=(--, damn... my crotch is... uu--)
 CHOICE:『欲望に少し抵抗する』=『Resist your desires a bit』
 CHOICE:『鉄の自制心を持って抵抗する』=『Bear with your iron fucking will』
 （こ、こんな所で反応したら大変なことになるぞ……）=(I-If it reacts in a place like this, it really would be bad...)
 （あぁ……でも、この気持ちよさには、抗えない……）=(Aaah... but, I can't go against, this pleasure...)
-「……ねえ、その膨らみは……おちんちんが勃起してるんだよね？」=...Hey, that bulge... you're popping a chub right now, aren't you?
-「ご、ごめん……なんとかしたいけど、どうにもならなくて……」=S-Sorry... I really want to do something about it but, I just can't...
-「……だったら～、アタシが何とかシてあげよっか～？」=...In that case~, shall I do something about it instead~?
-「えっ？　何をする気なの……？」=Eh--? What're you planning...?
-「それはシてからのお楽しみっ！　あははっ」=That's something for you to look forward to--! Ahaha--
+「……ねえ、その膨らみは……おちんちんが勃起してるんだよね？」=“...Hey, that bulge... you're popping a chub right now, aren't you?”
+「ご、ごめん……なんとかしたいけど、どうにもならなくて……」=“S-Sorry... I really want to do something about it but, I just can't...”
+「……だったら～、アタシが何とかシてあげよっか～？」=“...In that case~, shall I do something about it instead~?”
+「えっ？　何をする気なの……？」=“Eh--? What're you planning...?”
+「それはシてからのお楽しみっ！　あははっ」=“That's something for you to look forward to--! Ahaha--”
 （勃起なんてしてみろ、デートが台無しになってしまうぞ！）=(Try popping a chub here, you dumbass, it'll ruin the date you worked so hard for!)
 （何か別のことを考えて、気を紛らわせないと……そうだ！　こんな時は素数を数えて落ち着くんだ！）=(Gotta think of something else, and distract myself... That's right! I can count prime numbers, and calm down!)
 （２、３、５，７、１１…………薄々気づいてたけど、別に落ち着かないな、これっ！）=(2, 3, 5, 7, 11... I already had a hunch but, it isn't calming me down at all, this--!)

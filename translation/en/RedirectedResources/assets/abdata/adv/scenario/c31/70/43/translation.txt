@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「やぁっ！　って、おまえか……覗きなんて、いい趣味とは言えんな。欲求不満なら、普通に言え」=Yaaa--! Oh, it's you, huh... I can't really approve of you peeping. If you're frustrated, just say it to me straight.
+「やぁっ！　って、おまえか……覗きなんて、いい趣味とは言えんな。欲求不満なら、普通に言え」=“Yaaa--! Oh, it's you, huh... I can't really approve of you peeping. If you're frustrated, just say it to me straight.”

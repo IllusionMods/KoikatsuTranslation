@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「おっ、私の事を待っていたのか？　フフッ、おはよう」=Oh--, were you waiting for me? Fufu--, morning.
+「おっ、私の事を待っていたのか？　フフッ、おはよう」=“Oh--, were you waiting for me? Fufu--, morning.”

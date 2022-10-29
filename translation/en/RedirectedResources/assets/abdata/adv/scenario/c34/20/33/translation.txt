@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「コレハ……苦手なの、分かててｐｒｅｓｅｎｔシタデショ～？　ワタシも今度、やり返すカラネ♡」=This is...you gave this to me as a present, knowing full well I don't like it, right~? I'll make sure to return the favour next time♡
+「コレハ……苦手なの、分かててｐｒｅｓｅｎｔシタデショ～？　ワタシも今度、やり返すカラネ♡」=“This is...you gave this to me as a present, knowing full well I don't like it, right~? I'll make sure to return the favour next time♡”

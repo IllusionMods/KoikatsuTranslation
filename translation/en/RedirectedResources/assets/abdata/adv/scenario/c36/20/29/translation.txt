@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「へぇ、なかなかのものじゃない。ゴミなら捨てようかと思っていたけど、これならもらってあげる」="Huuh, that's quite a thing. I thought of throwing it away at once if it was trash, but I shall accept this one."
+「へぇ、なかなかのものじゃない。ゴミなら捨てようかと思っていたけど、これならもらってあげる」=“Huuh, that's quite a thing. I thought of throwing it away at once if it was trash, but I shall accept this one.”

@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「いきなりごめんね、でもありがと！　今度する時も、またアタシも混ぜてね……？」=Sorry for springing it on ya all of a sudden, but thanks! Let me join in again next time too, okay...?
+「いきなりごめんね、でもありがと！　今度する時も、またアタシも混ぜてね……？」=“Sorry for springing it on ya all of a sudden, but thanks! Let me join in again next time too, okay...?”

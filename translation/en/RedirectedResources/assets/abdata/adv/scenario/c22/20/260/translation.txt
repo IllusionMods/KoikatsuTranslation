@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「はぅぅ……まだ心臓ばくばくだよー」=Hauu... my heart's still pounding~
-「ごめんね。我慢出来なくなっちゃって……」=I'm sorry. I just couldn't hold it in...
-「むぅぅ……まあ、君が落ち着けたなら良かったけど♪」=Muu... well, as long as you feel better♪
+「はぅぅ……まだ心臓ばくばくだよー」=“Hauu... my heart's still pounding~”
+「ごめんね。我慢出来なくなっちゃって……」=“I'm sorry. I just couldn't hold it in...”
+「むぅぅ……まあ、君が落ち着けたなら良かったけど♪」=“Muu... well, as long as you feel better♪”

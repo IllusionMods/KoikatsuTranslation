@@ -1,21 +1,21 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「うふふ……料理来るの楽しみだね？」=Ufufu... can't wait till the food gets here, right?
-「そうだね。でも……さっき、注文したばかりだから、もうちょっとかかると思うよ」=Yeah. But... we only just ordered so, I think it'll take some more time.
-「それは分かってるけど、今から楽しみで……」=I know that, I'm just excited...
-「はは、ウキウキしてるね。そういえば……[H名]は料理とかするの？」=Haha, you're sure in high spirits. On that note tho... you cook, [H名]?
-「少しくらいは。そんなに凝ったものは出来ないけど……」=A little bit. I can't make anything sophisticated though...
-「そうなんだ！　どんなのを作るの？」=I see! What sort of food do you make?
-「うーん……小説とかに出てきた料理は、再現できるものなら再現したいって思って作ったりするわ」=Mmm... I usually cook food that shows up in novels, trying to recreate them if possible.
-「小説料理の再現！？　それはすごい。レシピとか調べちゃうんだ？」=Recreating food from novels!? That's amazing. Do you look up recipes and stuff?
-「簡単にできそうなものだけだよ。その作品に出てきた料理を作って食べてみると、もっとその作品世界に入り込める気がして」=It's only simple stuff, nothing complicated. When I make and eat something that shows up in a novel, it makes me feel more immersed in it.
-「例えば朝に豆のスープとかを作ってそれを食べてみると、あの時の主人公の心境ってこうだったのかなって」=For example, when I make and eat some bean soup in the morning, I wonder if the protagonist of the novel it's from felt the same way as I do, and whatnot.
-「そうやって主人公の行動をトレースするっていう、作品の掘り下げ方もあるんだね……」=So there's that's sort of way too, huh? To trace the actions of the protagonist, and dig deeper into the work...
-「ちょっと恥ずかしいけど……食べるのが専門ね。でも小説に出てきた料理はできるだけ食べてみたいかも」=It's a bit embarrassing but... eating is my speciality. But I'd like to try out as many dishes as possible, of the ones that show up in the novels I read.
-「例えば海外の小説なら、その国の料理がよく出てくるでしょ？　そういうのを読むと、食べてみたいなって」=For example, in non-Japanese novels, they have lots of foods from their own cultures, you know? When I read about them, it makes me want to try them so badly.
-「そうだね。本場のパエリアとか、ジャンバラヤとか、そういうのって食べてみたいよね」=I get you. Can't help but want to try an authentic paella, or a jambalaya, and whatnot, right?
-「レストランとかで出てくる料理ならまだいいけど、家庭料理とかは食べることすら難しそうだし……」=If it's food that you can find in a foreign restaurant then that's still alright, but home food and the like is difficult to even find...
-「あー、確かに……定番料理ならともかく、家庭料理はあんまりみないね」=Aah, for sure... popular food items are still easy but, you don't really see much regular food from other cultures.
-「……やっぱり、料理とか出来たほうがいいのかも」=...It might really be best to try and learn some cooking, maybe.
-「作れなくったって大丈夫だよ。料理に限らず何でも、好きな人や得意な人に任せるのが一番だからね」=It's fine if you can't. It's best to leave that sort of thing, not just cooking, but in general, to people who like doing it or who're good at it, afterall.
+「うふふ……料理来るの楽しみだね？」=“Ufufu... can't wait till the food gets here, right?”
+「そうだね。でも……さっき、注文したばかりだから、もうちょっとかかると思うよ」=“Yeah. But... we only just ordered so, I think it'll take some more time.”
+「それは分かってるけど、今から楽しみで……」=“I know that, I'm just excited...”
+「はは、ウキウキしてるね。そういえば……[H名]は料理とかするの？」=“Haha, you're sure in high spirits. On that note tho... you cook, [H名]?”
+「少しくらいは。そんなに凝ったものは出来ないけど……」=“A little bit. I can't make anything sophisticated though...”
+「そうなんだ！　どんなのを作るの？」=“I see! What sort of food do you make?”
+「うーん……小説とかに出てきた料理は、再現できるものなら再現したいって思って作ったりするわ」=“Mmm... I usually cook food that shows up in novels, trying to recreate them if possible.”
+「小説料理の再現！？　それはすごい。レシピとか調べちゃうんだ？」=“Recreating food from novels!? That's amazing. Do you look up recipes and stuff?”
+「簡単にできそうなものだけだよ。その作品に出てきた料理を作って食べてみると、もっとその作品世界に入り込める気がして」=“It's only simple stuff, nothing complicated. When I make and eat something that shows up in a novel, it makes me feel more immersed in it.”
+「例えば朝に豆のスープとかを作ってそれを食べてみると、あの時の主人公の心境ってこうだったのかなって」=“For example, when I make and eat some bean soup in the morning, I wonder if the protagonist of the novel it's from felt the same way as I do, and whatnot.”
+「そうやって主人公の行動をトレースするっていう、作品の掘り下げ方もあるんだね……」=“So there's that's sort of way too, huh? To trace the actions of the protagonist, and dig deeper into the work...”
+「ちょっと恥ずかしいけど……食べるのが専門ね。でも小説に出てきた料理はできるだけ食べてみたいかも」=“It's a bit embarrassing but... eating is my speciality. But I'd like to try out as many dishes as possible, of the ones that show up in the novels I read.”
+「例えば海外の小説なら、その国の料理がよく出てくるでしょ？　そういうのを読むと、食べてみたいなって」=“For example, in non-Japanese novels, they have lots of foods from their own cultures, you know? When I read about them, it makes me want to try them so badly.”
+「そうだね。本場のパエリアとか、ジャンバラヤとか、そういうのって食べてみたいよね」=“I get you. Can't help but want to try an authentic paella, or a jambalaya, and whatnot, right?”
+「レストランとかで出てくる料理ならまだいいけど、家庭料理とかは食べることすら難しそうだし……」=“If it's food that you can find in a foreign restaurant then that's still alright, but home food and the like is difficult to even find...”
+「あー、確かに……定番料理ならともかく、家庭料理はあんまりみないね」=“Aah, for sure... popular food items are still easy but, you don't really see much regular food from other cultures.”
+「……やっぱり、料理とか出来たほうがいいのかも」=“...It might really be best to try and learn some cooking, maybe.”
+「作れなくったって大丈夫だよ。料理に限らず何でも、好きな人や得意な人に任せるのが一番だからね」=“It's fine if you can't. It's best to leave that sort of thing, not just cooking, but in general, to people who like doing it or who're good at it, afterall.”

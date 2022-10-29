@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「きゃっ……もう、男の人はなんでこんなことするのかなぁ？」=Kyah--... jeez, just why do boys do this stuff?
+「きゃっ……もう、男の人はなんでこんなことするのかなぁ？」=“Kyah--... jeez, just why do boys do this stuff?”

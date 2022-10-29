@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「わっ、あ、あなたに……見られてたのね……はぅぅ……！」=Wah--, y-you... saw me, huh... hauuu...!
+「わっ、あ、あなたに……見られてたのね……はぅぅ……！」=“Wah--, y-you... saw me, huh... hauuu...!”

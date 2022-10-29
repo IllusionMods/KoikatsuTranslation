@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「はぁ……良かったわ。いっぱい尽くしてくれて、ありがとう」=Haa... that was great. Thanks for going out of your way for me.
+「はぁ……良かったわ。いっぱい尽くしてくれて、ありがとう」=“Haa... that was great. Thanks for going out of your way for me.”

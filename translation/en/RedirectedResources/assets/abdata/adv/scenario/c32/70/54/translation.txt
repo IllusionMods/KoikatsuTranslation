@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「顔から火が出てしまいそうです……」=So mortifying, I feel like my face is going to burn up...
+「顔から火が出てしまいそうです……」=“So mortifying, I feel like my face is going to burn up...”

@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「ふぅ……混ぜてもらって正解でした、ありがとうございます」=Fuu... It was the correct choice to let you join in, thank you very much.
+「ふぅ……混ぜてもらって正解でした、ありがとうございます」=“Fuu... It was the correct choice to let you join in, thank you very much.”

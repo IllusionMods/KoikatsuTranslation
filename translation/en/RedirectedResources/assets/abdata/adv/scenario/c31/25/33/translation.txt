@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「う、うぅん……大事にはするが……後で私の好みについて、きちんと話しておく必要がありそうだな」=W-Well... I'll take good care of it but... looks like we'll need to have a nice long talk about what sort of stuff I like later.
+「う、うぅん……大事にはするが……後で私の好みについて、きちんと話しておく必要がありそうだな」=“W-Well... I'll take good care of it but... looks like we'll need to have a nice long talk about what sort of stuff I like later.”

@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「Ｈｅｙ，ｍｙ　ｓｗｅｅｔ♡　アナタの大好きなｓｗｉｍｓｕｉｔダヨ♡」=Hey, my sweetheart♡ It's the swimsuit you love so much♡
-「おぉ……ｎｉｃｅ……ｖｅｒｙ　ｎｉｃｅ！」=Oooh... nice... very nice!
-「フフフ♡　ニッポンのオンナノコたちマネできない、悩殺ｐｏｓｅしちゃおうカナ♡」=Fufufu♡ Maybe I'll pose seductively for you, the sort of pose Japanese girls simply cannot make♡
-「ちょっと待って、ビデオカメラ持ってくる」=Wait a bit, I'll bring a videocamera.
-「目的変わってるカラ！　二人でｌｏｖｅｌｏｖｅ泳ぐの優先ダヨ！」=Nevermind, that wasn't what I wanted! Let's just swim together all lovey-dovey instead!
+「Ｈｅｙ，ｍｙ　ｓｗｅｅｔ♡　アナタの大好きなｓｗｉｍｓｕｉｔダヨ♡」=“Hey, my sweetheart♡ It's the swimsuit you love so much♡”
+「おぉ……ｎｉｃｅ……ｖｅｒｙ　ｎｉｃｅ！」=“Oooh... nice... very nice!”
+「フフフ♡　ニッポンのオンナノコたちマネできない、悩殺ｐｏｓｅしちゃおうカナ♡」=“Fufufu♡ Maybe I'll pose seductively for you, the sort of pose Japanese girls simply cannot make♡”
+「ちょっと待って、ビデオカメラ持ってくる」=“Wait a bit, I'll bring a videocamera.”
+「目的変わってるカラ！　二人でｌｏｖｅｌｏｖｅ泳ぐの優先ダヨ！」=“Nevermind, that wasn't what I wanted! Let's just swim together all lovey-dovey instead!”

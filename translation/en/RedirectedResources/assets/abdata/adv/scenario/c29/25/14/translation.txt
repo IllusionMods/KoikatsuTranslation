@@ -1,5 +1,5 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「おはようございます。まだ眠たいですか？」=Good morning. Do you want to sleep some more?
-「『私の顔を見たらスッキリ目が覚めた』……って、喜んで良いのでしょうか」=『Looking at my face made you wake up refreshed』? I wonder if it's alright to be happy about that?
+「おはようございます。まだ眠たいですか？」=“Good morning. Do you want to sleep some more?”
+「『私の顔を見たらスッキリ目が覚めた』……って、喜んで良いのでしょうか」=“『Looking at my face made you wake up refreshed』? I wonder if it's alright to be happy about that?”

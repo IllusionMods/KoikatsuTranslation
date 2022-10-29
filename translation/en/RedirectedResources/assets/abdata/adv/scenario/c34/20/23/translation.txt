@@ -1,11 +1,11 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「Ｗｅｌｌ……Ｕｍｍ……」=Well... Umm...
+「Ｗｅｌｌ……Ｕｍｍ……」=“Well... Umm...”
 （ん？　[H名]元気ないな。どうしたんだ？）=(Hm? [H名] seems pretty down. What's the matter?)
-「[H名]？」=[H名]?
-「Ｏｈ、エット……奇遇？　デスネ？」=Oh, erm... What a c-coincidence, us meeting here.
-「あ、それカップケーキ？　調理実習で作ったの？」=Ah, are those cup-cakes? Did you make them during home-ec?
-「……Ｙｅｓ。デモ、チョト、失敗してしまいマシテ……コゲコゲのトコロありマス」=...Yes. But, I screwed them up a bit... They're kinda burnt.
-「焼きすぎちゃったんだ。でもちょっとだけだし、少し分けてほしいなぁ」=Left them in the oven for too long, I see. But, they're only a bit burnt, so if you don't mind, could I have some?
-「ほ、ホントデスカ！？　じゃあ、全部アゲマス♡　デモ次は、Ｐｅｒｆｅｃｔなモノ作りマスカラ、楽しみしててクダサーイ♡」=R-Really?! Then, you can have them all♡ But, next time, I'll make them perfectly so, look forward to it♡
+「[H名]？」=“[H名]?”
+「Ｏｈ、エット……奇遇？　デスネ？」=“Oh, erm... What a c-coincidence, us meeting here.”
+「あ、それカップケーキ？　調理実習で作ったの？」=“Ah, are those cup-cakes? Did you make them during home-ec?”
+「……Ｙｅｓ。デモ、チョト、失敗してしまいマシテ……コゲコゲのトコロありマス」=“...Yes. But, I screwed them up a bit... They're kinda burnt.”
+「焼きすぎちゃったんだ。でもちょっとだけだし、少し分けてほしいなぁ」=“Left them in the oven for too long, I see. But, they're only a bit burnt, so if you don't mind, could I have some?”
+「ほ、ホントデスカ！？　じゃあ、全部アゲマス♡　デモ次は、Ｐｅｒｆｅｃｔなモノ作りマスカラ、楽しみしててクダサーイ♡」=“R-Really?! Then, you can have them all♡ But, next time, I'll make them perfectly so, look forward to it♡”

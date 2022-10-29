@@ -1,24 +1,24 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「ちょっと飲み物飲みすぎたかな、トイレ行ってくるね」=I think I drank a bit too much juice, I'mma head to the toilet real quick, okay?
-「あ、はい……ごゆっくり」=Ah, yes... take your time.
-「一人で待っているのも……少しだけあの曲、歌おうかな」=Just waiting by myself would be... maybe I'll sing that song.
+「ちょっと飲み物飲みすぎたかな、トイレ行ってくるね」=“I think I drank a bit too much juice, I'mma head to the toilet real quick, okay?”
+「あ、はい……ごゆっくり」=“Ah, yes... take your time.”
+「一人で待っているのも……少しだけあの曲、歌おうかな」=“Just waiting by myself would be... maybe I'll sing that song.”
 ………………=.........
-「あ、おかえりなさい」=Ah, welcome back.
-「お待たせ。……ふふっ」=Sorry for the wait. ...Huhu--
-「？　どうかしました？　すごく笑顔ですけど」=? Is something the matter? You're smiling ear to ear.
-「いや、トイレから帰ってくるときにさ、聞こえちゃって……」=No, well, I just heard it, you know, while coming back from the toilet...
-「え！？　聞こえたって……な、なにが、ですか？」=Eh!? "Heard it"... h-heard what?
-「[H名]の歌ってる声、何回聞いてもいい歌声だね」=No matter how many times I hear it, that singing voice of yours sure is nice.
-「えっと……き、気のせい、じゃないですか？」=Erhm... a-are you sure, that you didn't imagine it?
-「途中で演奏終了しましたし……」=I did stop right in the middle too...
-「いや、間違いなく[H名]の声だった！　好きな声を聞き間違えるはずないよ！」=No, it was your voice, I'm sure! I love it so much, there's no way I'd mistake someone else's voice for it!
-「す、好きなって……は、恥ずかしいです……」=L-"Love"... t-that's embarrassing...
-「トイレから戻ってきたら聞き覚えのある歌声が聞こえてさ。廊下でこっそり聞いてたんだ。ごめんね」=I just heard a voice I remembered while coming back from the toilet, so I just stood out in the corridor and listened for a bit. Sorry about that.
-「でも贅沢を言うと最後まで聞きたかったかな」=But, man, I'd have loved to listen to it till the end.
-「そ、そんなに、褒めないでください……」=P-Please don't, praise me that much...
-「ははっ、ごめんごめん……よかったらさ、さっきの曲、一緒に歌わない？」=Haha--, sorry, sorry... if it's alright, how about we sing that song together?
-「一緒に、ですか？　それは……た、楽しそう、かも」=Together? That... s-sounds fun.
-「でしょ？　じゃあさっそく……」=Right? So let's...
-「ち、ちょっと待ってください！　まだ心の準備が……」=P-Please wait a second! My heart's still not...
+「あ、おかえりなさい」=“Ah, welcome back.”
+「お待たせ。……ふふっ」=“Sorry for the wait. ...Huhu--”
+「？　どうかしました？　すごく笑顔ですけど」=“? Is something the matter? You're smiling ear to ear.”
+「いや、トイレから帰ってくるときにさ、聞こえちゃって……」=“No, well, I just heard it, you know, while coming back from the toilet...”
+「え！？　聞こえたって……な、なにが、ですか？」=“Eh!? "Heard it"... h-heard what?”
+「[H名]の歌ってる声、何回聞いてもいい歌声だね」=“No matter how many times I hear it, that singing voice of yours sure is nice.”
+「えっと……き、気のせい、じゃないですか？」=“Erhm... a-are you sure, that you didn't imagine it?”
+「途中で演奏終了しましたし……」=“I did stop right in the middle too...”
+「いや、間違いなく[H名]の声だった！　好きな声を聞き間違えるはずないよ！」=“No, it was your voice, I'm sure! I love it so much, there's no way I'd mistake someone else's voice for it!”
+「す、好きなって……は、恥ずかしいです……」=“L-"Love"... t-that's embarrassing...”
+「トイレから戻ってきたら聞き覚えのある歌声が聞こえてさ。廊下でこっそり聞いてたんだ。ごめんね」=“I just heard a voice I remembered while coming back from the toilet, so I just stood out in the corridor and listened for a bit. Sorry about that.”
+「でも贅沢を言うと最後まで聞きたかったかな」=“But, man, I'd have loved to listen to it till the end.”
+「そ、そんなに、褒めないでください……」=“P-Please don't, praise me that much...”
+「ははっ、ごめんごめん……よかったらさ、さっきの曲、一緒に歌わない？」=“Haha--, sorry, sorry... if it's alright, how about we sing that song together?”
+「一緒に、ですか？　それは……た、楽しそう、かも」=“Together? That... s-sounds fun.”
+「でしょ？　じゃあさっそく……」=“Right? So let's...”
+「ち、ちょっと待ってください！　まだ心の準備が……」=“P-Please wait a second! My heart's still not...”

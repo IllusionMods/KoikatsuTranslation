@@ -1,19 +1,19 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「今日はこの公園でまったりしようか」=Let's chill in this park for today.
-「まったり……何をすればいいんでしょう？」=Chill... what should we do, exactly?
-「んー、何かをするみたいな、そういうのじゃなくてもっと気楽に過ごせばいいと思うよ」=Nnn, we don't have to do anything in particular, let's just spend some relaxing time instead.
-「ほら、あそこの人なんか散歩してるだけだし、ベンチでしゃべってるだけの人もいる、のんびりするのが公園デートだから」=Look, those people over there are just wandering around, and those ones are just chatting on a bench. Relaxing is what a park date is all about.
-「そうなんですね……それなら……えっと……あそこのベンチに座りませんか？」=I see... in that case... erhm... how about we go sit on that bench?
+「今日はこの公園でまったりしようか」=“Let's chill in this park for today.”
+「まったり……何をすればいいんでしょう？」=“Chill... what should we do, exactly?”
+「んー、何かをするみたいな、そういうのじゃなくてもっと気楽に過ごせばいいと思うよ」=“Nnn, we don't have to do anything in particular, let's just spend some relaxing time instead.”
+「ほら、あそこの人なんか散歩してるだけだし、ベンチでしゃべってるだけの人もいる、のんびりするのが公園デートだから」=“Look, those people over there are just wandering around, and those ones are just chatting on a bench. Relaxing is what a park date is all about.”
+「そうなんですね……それなら……えっと……あそこのベンチに座りませんか？」=“I see... in that case... erhm... how about we go sit on that bench?”
 ………………=.........
-「この時間、結構子供が多いんですね……」=There's lots of kids around here at this time, aren't there...
-「そうだね。ははっ、元気だなー」=Yeah. Haha--, they're sure energetic.
-「子供たちが、楽しそうに遊んでいるのを眺めるのも……いいものですね」=Looking at kids playing around like this... is also pretty nice, isn't it?
-「はしゃぐ姿がかわいいよね。[H名]は子供が好きなの？」=They're so adorable when they're rowdy like that. Do you like kids, [H]?
-「はい……好きです。無邪気なところとか、小さな手足とか……か、かわいいと思います」=Yes... I do. Their innocence, their tiny little hands and feet... I-I think they're cute.
-「あの可愛さは子供特有のものだよね」=That cuteness is pretty unique to kids, isn't it?
-「そうなんです。男の子でも女の子でも、みんな元気で……元気すぎるとちょっと困りますけど……。そ、それに……」=Indeed. Both boys and girls, all of them are so lively... sometimes a bit too lively but... n-not to mention...
-「その……す、好きな、人との……子供だったら……尚更、かわいいんじゃないかと……ど、どうでしょうか？」=Uhm... i-if they were, mine and my... beloved's then... I think they'd be even cuter... w-what do you think?
-「どうだろう、想像もできないけど……[H名]の子供だったら絶対かわいいよ。って、もしかして子供ほしいの！？」=Who knows, I can't even imagine it, but... if it was your child, I'm sure they'd be real adorable. Wait, do you want children!?
-「え！？　あ、今すぐというわけでは……！」=Eh!? Ah, not immediately but maybe in the...!
+「この時間、結構子供が多いんですね……」=“There's lots of kids around here at this time, aren't there...”
+「そうだね。ははっ、元気だなー」=“Yeah. Haha--, they're sure energetic.”
+「子供たちが、楽しそうに遊んでいるのを眺めるのも……いいものですね」=“Looking at kids playing around like this... is also pretty nice, isn't it?”
+「はしゃぐ姿がかわいいよね。[H名]は子供が好きなの？」=“They're so adorable when they're rowdy like that. Do you like kids, [H]?”
+「はい……好きです。無邪気なところとか、小さな手足とか……か、かわいいと思います」=“Yes... I do. Their innocence, their tiny little hands and feet... I-I think they're cute.”
+「あの可愛さは子供特有のものだよね」=“That cuteness is pretty unique to kids, isn't it?”
+「そうなんです。男の子でも女の子でも、みんな元気で……元気すぎるとちょっと困りますけど……。そ、それに……」=“Indeed. Both boys and girls, all of them are so lively... sometimes a bit too lively but... n-not to mention...”
+「その……す、好きな、人との……子供だったら……尚更、かわいいんじゃないかと……ど、どうでしょうか？」=“Uhm... i-if they were, mine and my... beloved's then... I think they'd be even cuter... w-what do you think?”
+「どうだろう、想像もできないけど……[H名]の子供だったら絶対かわいいよ。って、もしかして子供ほしいの！？」=“Who knows, I can't even imagine it, but... if it was your child, I'm sure they'd be real adorable. Wait, do you want children!?”
+「え！？　あ、今すぐというわけでは……！」=“Eh!? Ah, not immediately but maybe in the...!”

@@ -1,20 +1,20 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「[H名]は、休日とか何してるの？」=[H名], what do you do on your days off?
-「う～ん、基本的に部屋でダラダラしてるよ～」=Mmm, well, I generally laze around in my room~
-「部屋で本読んだり～、ネットで動画見たりして～」=Reading a book, or watching videos on the internet or whatever~
-「あー、インドア派なんだね。俺も外出するの面倒な時あるよ」=Ah, you are an indoor type, afterall. Even I have times when I can't be bothered to leave the house either.
-「でしょ～？　やっぱり家でゴロゴロするのが一番だよ～」=Right~? Really, just loafing around at home is the best~
-「じゃあ、今日はわざわざ俺とのデートのために外出してくれたんだね。ありがとう」=So, you went out of your way to come on this date with me today, didn't you? Thank you.
-「気にしなくていいよ～、たまにだったら、外に出るのも悪くないしね～」=You don't need to mind it~, going outside every once in a while isn't too bad either~
-「でも、普段は学園があるからさ～。授業が終わったら、だる～んって感じだよ～」=But, normally we have school, ya know~? After class is over, I feel completely sapped of energy~
-「あはは、だからインドア派なんだね。友達関係はどう？」=Ahaha, that's why you're an indoor type, huh? What about friends though?
-「俺は特例だけど……女学園だし女子の友達同士でいろいろ言ったりしないの？」=I'm a special case but... it's an all girls school and stuff so, word must get around about things, no?
-「ん～、陰口みたいなやつ？　それは、あまり聞かないっすね～」=Nn~, you mean backbiting and stuff? Never heard any myself~
-「だから友達関係は良好だよ～。その辺は、うまく立ち回ってるからね～」=That's why, it's swell between me and my friends~. I know how to swim in those waters, as it were~
-「なんとなく分かる気がする。[H名]は、意外と器用そうだもんね」=I feel like I understand. Unexpectedly, you're pretty socially sharp, [H名]
-「ふふふ、ありがとう～。こう見えて、人を見る目は自信あるからね～」=Fufufu, thanks~. Despite what it may seem like, I do have an eye for people~
-「信頼できる人とできない人の区別は、ちゃんとしてるよ～」=I know how to tell apart people that I can trust, and people that I can't~
-「それなら……俺を信頼してくれてるって事……？」=In that case... does that mean you trust me...?
-「う、うん……まぁ、そうなるかな～……」=Y-Yeah... well, I guess so~...
+「[H名]は、休日とか何してるの？」=“[H名], what do you do on your days off?”
+「う～ん、基本的に部屋でダラダラしてるよ～」=“Mmm, well, I generally laze around in my room~”
+「部屋で本読んだり～、ネットで動画見たりして～」=“Reading a book, or watching videos on the internet or whatever~”
+「あー、インドア派なんだね。俺も外出するの面倒な時あるよ」=“Ah, you are an indoor type, afterall. Even I have times when I can't be bothered to leave the house either.”
+「でしょ～？　やっぱり家でゴロゴロするのが一番だよ～」=“Right~? Really, just loafing around at home is the best~”
+「じゃあ、今日はわざわざ俺とのデートのために外出してくれたんだね。ありがとう」=“So, you went out of your way to come on this date with me today, didn't you? Thank you.”
+「気にしなくていいよ～、たまにだったら、外に出るのも悪くないしね～」=“You don't need to mind it~, going outside every once in a while isn't too bad either~”
+「でも、普段は学園があるからさ～。授業が終わったら、だる～んって感じだよ～」=“But, normally we have school, ya know~? After class is over, I feel completely sapped of energy~”
+「あはは、だからインドア派なんだね。友達関係はどう？」=“Ahaha, that's why you're an indoor type, huh? What about friends though?”
+「俺は特例だけど……女学園だし女子の友達同士でいろいろ言ったりしないの？」=“I'm a special case but... it's an all girls school and stuff so, word must get around about things, no?”
+「ん～、陰口みたいなやつ？　それは、あまり聞かないっすね～」=“Nn~, you mean backbiting and stuff? Never heard any myself~”
+「だから友達関係は良好だよ～。その辺は、うまく立ち回ってるからね～」=“That's why, it's swell between me and my friends~. I know how to swim in those waters, as it were~”
+「なんとなく分かる気がする。[H名]は、意外と器用そうだもんね」=“I feel like I understand. Unexpectedly, you're pretty socially sharp, [H名]”
+「ふふふ、ありがとう～。こう見えて、人を見る目は自信あるからね～」=“Fufufu, thanks~. Despite what it may seem like, I do have an eye for people~”
+「信頼できる人とできない人の区別は、ちゃんとしてるよ～」=“I know how to tell apart people that I can trust, and people that I can't~”
+「それなら……俺を信頼してくれてるって事……？」=“In that case... does that mean you trust me...?”
+「う、うん……まぁ、そうなるかな～……」=“Y-Yeah... well, I guess so~...”

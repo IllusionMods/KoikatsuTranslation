@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「ふふっ、どこに連れていかれるのかしら？」=Fufu--, just where am I being taken to?
-「い、いかがわしい所じゃないから大丈夫だよ」=I-It's nowhere suspicious, so don't worry.
-「そういう風には言ってないのになぁ。ふふっ、あなたったらエッチなんだから～」=I didn't mean it that way though~. Fufu--, you're such a lewdie~
+「ふふっ、どこに連れていかれるのかしら？」=“Fufu--, just where am I being taken to?”
+「い、いかがわしい所じゃないから大丈夫だよ」=“I-It's nowhere suspicious, so don't worry.”
+「そういう風には言ってないのになぁ。ふふっ、あなたったらエッチなんだから～」=“I didn't mean it that way though~. Fufu--, you're such a lewdie~”

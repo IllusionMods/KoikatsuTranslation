@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「ハァ♡　ハァ♡　もう、ダメ♡　許ひてクダサーイ♡」=Haa♡ Haa♡ I can't, anymore♡ Please let me go~♡
+「ハァ♡　ハァ♡　もう、ダメ♡　許ひてクダサーイ♡」=“Haa♡ Haa♡ I can't, anymore♡ Please let me go~♡”

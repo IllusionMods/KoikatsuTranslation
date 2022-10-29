@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「まぁ、貴方にしては上出来だったかしら。退屈はしなかったわ、じゃあね」="Well, good work, even for you. It wasn't boring at all. Anyway, good bye."
+「まぁ、貴方にしては上出来だったかしら。退屈はしなかったわ、じゃあね」=“Well, good work, even for you. It wasn't boring at all. Anyway, good bye.”

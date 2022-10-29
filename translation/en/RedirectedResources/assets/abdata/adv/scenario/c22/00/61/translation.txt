@@ -1,18 +1,18 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「君とのデートって、回数を重ねる度に楽しくなってる気がするよー」=I feel like the more dates we go on, the more fun they become.
-「あはは、そうだね。お互いのことをよく知れば知るほど楽しくなってるかも」=Ahaha, yeah. We are getting to know each other more and more, afterall.
-「そうそう！　だからこれから、ずーっと、無限に楽しくなっちゃうね！　それじゃ、今日はよろしくお願いします！」=Exactly! So they're gonna keep becoming more and more limitlessly fun! Well then, let's have a good time today!
-「好きな人の隣を歩けるって……こんなに幸せなんだね。私、君に出会えて、色んな幸せを知ったかも」=It feels this nice... to walk next to the person you love, huh? I think meeting you has made me happier in all sorts of ways.
-「俺だって同じなんだ。[H]のおかげで色々学んだよ」=I feel the same way. I've learned so much from being with you.
-「例えばどんなこと？」=What sort of stuff?
-「好きな人と見つめ合うのが、こんなに落ち着くこととか……好きな人と触れ合うのが、こんなにドキドキすることとか……」=Stuff like how staring into the eyes of the girl I love could be so calming... or how touching the girl I love could make my heart race so much...
-「わ、わぁ、恥ずかしいよぅ……でも……私もそう。君と二人でいると、いっぱい新しいこと覚えちゃう。大人になってるって感じがするよー」=W-Wah, that's too embarrassing... but... I'm the same way. I find so many novel things everyday, just by being with you. I feel like I'm becoming an adult.
-「今日のデートも素敵な思い出になりました！　本当にありがとう！」=I made lots of good memories on today's date too! Thanks, seriously!
+「君とのデートって、回数を重ねる度に楽しくなってる気がするよー」=“I feel like the more dates we go on, the more fun they become.”
+「あはは、そうだね。お互いのことをよく知れば知るほど楽しくなってるかも」=“Ahaha, yeah. We are getting to know each other more and more, afterall.”
+「そうそう！　だからこれから、ずーっと、無限に楽しくなっちゃうね！　それじゃ、今日はよろしくお願いします！」=“Exactly! So they're gonna keep becoming more and more limitlessly fun! Well then, let's have a good time today!”
+「好きな人の隣を歩けるって……こんなに幸せなんだね。私、君に出会えて、色んな幸せを知ったかも」=“It feels this nice... to walk next to the person you love, huh? I think meeting you has made me happier in all sorts of ways.”
+「俺だって同じなんだ。[H]のおかげで色々学んだよ」=“I feel the same way. I've learned so much from being with you.”
+「例えばどんなこと？」=“What sort of stuff?”
+「好きな人と見つめ合うのが、こんなに落ち着くこととか……好きな人と触れ合うのが、こんなにドキドキすることとか……」=“Stuff like how staring into the eyes of the girl I love could be so calming... or how touching the girl I love could make my heart race so much...”
+「わ、わぁ、恥ずかしいよぅ……でも……私もそう。君と二人でいると、いっぱい新しいこと覚えちゃう。大人になってるって感じがするよー」=“W-Wah, that's too embarrassing... but... I'm the same way. I find so many novel things everyday, just by being with you. I feel like I'm becoming an adult.”
+「今日のデートも素敵な思い出になりました！　本当にありがとう！」=“I made lots of good memories on today's date too! Thanks, seriously!”
 CHOICE:「もし良かったらこの後……」=If it's alright with you, wanna...
 CHOICE:「こちらこそありがとう」=No, thank you.
-「もし良かったらこの後、うちに来ない？」=If you'd like, wanna come to my place?
-「あ……うんっ！　本当は私、離れがたかったんだ……誘ってくれて嬉しい！」=Ah... okay--! I honestly didn't want to say goodbye either... thanks for inviting me!
-「こちらこそありがとう。またよろしくね」=No, thank you. Let's have another one soon, okay?
-「うん、約束だよ！　今の私にとって、君とのデートは生きがいなのです。ふふーっ」=Yeah, it's a promise! To the me right now, going out on dates with you is my reason for living. Fufu~
+「もし良かったらこの後、うちに来ない？」=“If you'd like, wanna come to my place?”
+「あ……うんっ！　本当は私、離れがたかったんだ……誘ってくれて嬉しい！」=“Ah... okay--! I honestly didn't want to say goodbye either... thanks for inviting me!”
+「こちらこそありがとう。またよろしくね」=“No, thank you. Let's have another one soon, okay?”
+「うん、約束だよ！　今の私にとって、君とのデートは生きがいなのです。ふふーっ」=“Yeah, it's a promise! To the me right now, going out on dates with you is my reason for living. Fufu~”

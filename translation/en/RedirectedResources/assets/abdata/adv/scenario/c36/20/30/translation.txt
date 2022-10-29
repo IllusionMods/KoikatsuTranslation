@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「主の好みがよくわかっているようね。少しだけ見直したわ。少しだけね」="You know well your owner's taste huh. I have a bit better opinion of you now. Just a little bit."
+「主の好みがよくわかっているようね。少しだけ見直したわ。少しだけね」=“You know well your owner's taste huh. I have a bit better opinion of you now. Just a little bit.”

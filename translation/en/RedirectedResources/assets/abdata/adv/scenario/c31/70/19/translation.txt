@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「おはよう。少しはまともな顔になったな。うんうん」=Morning. You expression is a bit more decent today. Good going.
+「おはよう。少しはまともな顔になったな。うんうん」=“Morning. You expression is a bit more decent today. Good going.”

@@ -1,25 +1,25 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「今日は遊園地にしてみたけど、どうかな？　なんだか目一杯遊びたい気分なんだ」=I picked the amusement park today, how about it? I'm kinda in the mood to play around all day.
-「うんっ、遊園地最高やん！　私も色んな乗り物に乗りたいん。まずは何から乗るん？」=Yeah--, amusement parks are the best! I wanna ride a bunch of rides too. What are we riding first?
-「そうだなぁ。あんまり並んでないところから乗ってみる？　例えば……お、あの海賊船なんかはどう？」=Good question. Wanna try starting from places that have no line? For example... how about that pirate ship?
-「わぁぁ、いいねぇ！　一回転するヤツやんっ！　私、ああいうの大好きっ！　めっちゃテンション上がるん！」=Waah, sounds fun! We gotta do it atleast once--! I love that sort of thing--! I get super fired up!
-「ああいう絶叫系って、ふわって浮いた時の感覚が最高なん。落ちてるっていうか、投げ出されるっていうか……」=Those sort of scream inducing rides, the feeling when it starts going down is the best. It feels like I'm falling, like I'm in free fall...
-「分かる分かる。絶叫系の乗り物って大体そんな感じだよね」=I feel you. Those sorts of rides generally go for that effect, don't they?
-「うんっ、やけん私、ジェットコースターとかも平気なんよ。続けて色々乗ってもいい？」=Yeah--, I'm fine with roller coasters and the like too. Can we ride all of them one after another?
-「もちろん。それじゃ今日は、[H名]が乗りたい物、全部乗っていこう」=Of course. Then, for today, let's ride all the rides that you want to ride, [H名].
-「えへへ、ありがとう！　いっぱい声出して楽しむんっ！」=Ehehe, thanks! I'll scream my heart out--!
+「今日は遊園地にしてみたけど、どうかな？　なんだか目一杯遊びたい気分なんだ」=“I picked the amusement park today, how about it? I'm kinda in the mood to play around all day.”
+「うんっ、遊園地最高やん！　私も色んな乗り物に乗りたいん。まずは何から乗るん？」=“Yeah--, amusement parks are the best! I wanna ride a bunch of rides too. What are we riding first?”
+「そうだなぁ。あんまり並んでないところから乗ってみる？　例えば……お、あの海賊船なんかはどう？」=“Good question. Wanna try starting from places that have no line? For example... how about that pirate ship?”
+「わぁぁ、いいねぇ！　一回転するヤツやんっ！　私、ああいうの大好きっ！　めっちゃテンション上がるん！」=“Waah, sounds fun! We gotta do it atleast once--! I love that sort of thing--! I get super fired up!”
+「ああいう絶叫系って、ふわって浮いた時の感覚が最高なん。落ちてるっていうか、投げ出されるっていうか……」=“Those sort of scream inducing rides, the feeling when it starts going down is the best. It feels like I'm falling, like I'm in free fall...”
+「分かる分かる。絶叫系の乗り物って大体そんな感じだよね」=“I feel you. Those sorts of rides generally go for that effect, don't they?”
+「うんっ、やけん私、ジェットコースターとかも平気なんよ。続けて色々乗ってもいい？」=“Yeah--, I'm fine with roller coasters and the like too. Can we ride all of them one after another?”
+「もちろん。それじゃ今日は、[H名]が乗りたい物、全部乗っていこう」=“Of course. Then, for today, let's ride all the rides that you want to ride, [H名].”
+「えへへ、ありがとう！　いっぱい声出して楽しむんっ！」=“Ehehe, thanks! I'll scream my heart out--!”
 ………………=.........
-「はぁぁ、めっちゃ楽しいん！　私、こげん楽しい思いしたの久しぶりかもしれんよー」=Haa, so fun! It's been a while since I've done something so fun, you know?
-「あ、あはは……そう？　だったら良かった……」=A-Ahaha... That so? That's great then...
+「はぁぁ、めっちゃ楽しいん！　私、こげん楽しい思いしたの久しぶりかもしれんよー」=“Haa, so fun! It's been a while since I've done something so fun, you know?”
+「あ、あはは……そう？　だったら良かった……」=“A-Ahaha... That so? That's great then...”
 （[H名]、本当に絶叫系が好きなんだな。立て続けに五台も……）=(She really does love those sorts of scream inducing rides, huh? This is the 5th time in a row...)
-「……ん、大丈夫？　なんか疲れとらん？」=...Nn, you good? Tired out?
-「いやいや、大丈夫！　全然平気だから、どんどん行こう！」=No no, I'm perfectly alright! Perfectly alright, I say, so let's keep going!
-「はぅ……ごめんね。私、楽しすぎて周りが見えんくなっとったん……えーっと、えーっと……とりあえず、あそこのベンチで一旦休むん」=Hauu... Sorry. I was just having so much fun, I forgot to think about you...Erhm, erhm... for now, let's take a short rest over at that bench.
-「あはは、本当に気にしなくていいよ？　乗りたい物、まだまだいっぱいあるでしょ？　今日は目一杯遊ぶって決めたんだし……」=Ahaha, you really don't need to worry, you know? There's still lots of rides you wanna go on, no? We already decided to have a blast here today so...
-「はぅ……そ、それじゃあね、えっと……次はあれに乗りたいん！　いいかいな？」=Hauu... W-Well then, erhm... I want to ride that next! Can we?
-「あれって……メリーゴーラウンド？　いいの？　絶叫系じゃないよ？」="By that... you mean the merry-go-round? You sure? It's not a screamy ride, you know?"
-「ふふっ、いいとよ。大好きな人と一緒に乗るメリーゴーラウンド……めっちゃロマンチックやもん」=Fufu--, it's fine. Riding the merry go round with my beloved... It sounds super romantic.
-「[H名]……」=[H名]...
-「ほらほら、はよ行こ？　二人並んで座れる席を取らんと！」=Come on, let's go? We have to line up and grab a spot for ourselves!
+「……ん、大丈夫？　なんか疲れとらん？」=“...Nn, you good? Tired out?”
+「いやいや、大丈夫！　全然平気だから、どんどん行こう！」=“No no, I'm perfectly alright! Perfectly alright, I say, so let's keep going!”
+「はぅ……ごめんね。私、楽しすぎて周りが見えんくなっとったん……えーっと、えーっと……とりあえず、あそこのベンチで一旦休むん」=“Hauu... Sorry. I was just having so much fun, I forgot to think about you...Erhm, erhm... for now, let's take a short rest over at that bench.”
+「あはは、本当に気にしなくていいよ？　乗りたい物、まだまだいっぱいあるでしょ？　今日は目一杯遊ぶって決めたんだし……」=“Ahaha, you really don't need to worry, you know? There's still lots of rides you wanna go on, no? We already decided to have a blast here today so...”
+「はぅ……そ、それじゃあね、えっと……次はあれに乗りたいん！　いいかいな？」=“Hauu... W-Well then, erhm... I want to ride that next! Can we?”
+「あれって……メリーゴーラウンド？　いいの？　絶叫系じゃないよ？」=“By that... you mean the merry-go-round? You sure? It's not a screamy ride, you know?”
+「ふふっ、いいとよ。大好きな人と一緒に乗るメリーゴーラウンド……めっちゃロマンチックやもん」=“Fufu--, it's fine. Riding the merry go round with my beloved... It sounds super romantic.”
+「[H名]……」=“[H名]...”
+「ほらほら、はよ行こ？　二人並んで座れる席を取らんと！」=“Come on, let's go? We have to line up and grab a spot for ourselves!”

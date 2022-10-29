@@ -1,27 +1,27 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「デートの定番って言ったら遊園地だよね」=When you think about the standard place to go for a date, the amusement park comes to mind, doesn't it?
-「賑やかですね」=It's very lively, isn't it?
-「それに、私達と同じようにカップルも多いみたいです」=Moreover, looks like there's a lot of couples like us too.
-「いろんなアトラクションで楽しみを共感したいって人達が多いのかもね」=Lots of them might be people who just wanna share a good time together at the various attractions.
-「好きな人と共感したいという気持ち、私にもわかります」=The feeling of wanting to have a good time with one's beloved, I know it well too.
-「その為にもいろいろなアトラクションに挑戦していかないといけませんね」=To do that too, we absolutely must try out all sorts of different attractions.
-「うん、名一杯遊んで行こう。まずは何からしようかな……」=Yeah, let's have an absolute ton of fun. What should we start with...
-「定番ですが、ジェットコースターにしましょう」=It's pretty basic but, let's go with the roller coaster.
-「おっ、いいね。比較的並んでる人も少なそうだし……行ってみよう！」=Oh--, Sounds good. Doesn't seem like there's that many people lined up for it either... Let's have a go!
+「デートの定番って言ったら遊園地だよね」=“When you think about the standard place to go for a date, the amusement park comes to mind, doesn't it?”
+「賑やかですね」=“It's very lively, isn't it?”
+「それに、私達と同じようにカップルも多いみたいです」=“Moreover, looks like there's a lot of couples like us too.”
+「いろんなアトラクションで楽しみを共感したいって人達が多いのかもね」=“Lots of them might be people who just wanna share a good time together at the various attractions.”
+「好きな人と共感したいという気持ち、私にもわかります」=“The feeling of wanting to have a good time with one's beloved, I know it well too.”
+「その為にもいろいろなアトラクションに挑戦していかないといけませんね」=“To do that too, we absolutely must try out all sorts of different attractions.”
+「うん、名一杯遊んで行こう。まずは何からしようかな……」=“Yeah, let's have an absolute ton of fun. What should we start with...”
+「定番ですが、ジェットコースターにしましょう」=“It's pretty basic but, let's go with the roller coaster.”
+「おっ、いいね。比較的並んでる人も少なそうだし……行ってみよう！」=“Oh--, Sounds good. Doesn't seem like there's that many people lined up for it either... Let's have a go!”
 …………。=...
 ――ゴーーーーーッ！=----*clack*---------!
-「うわわわわわわっ……！！」=UWAAAAAAAAAAAAAA--...!!
+「うわわわわわわっ……！！」=“UWAAAAAAAAAAAAAA--...!!”
 「…………」=“......”
 ………………=.........
-「はあ、はぁ……揺れとか速さとか、結構激しかったね……」=Haa, Haa... Both the shaking and the speed, pretty intense, wasn't it...
+「はあ、はぁ……揺れとか速さとか、結構激しかったね……」=“Haa, Haa... Both the shaking and the speed, pretty intense, wasn't it...”
 「………………」=“.........”
-「[H名]？」=[H名]?
-「あ……すみません、楽しさの余韻に浸っていました」=Ah... Sorry, I was basking in the afterglow.
-「あ、そうだったんだ……」=Ah, I see...
-「もう一度乗りませんか？」=Can we ride it one more time?
-「と、とりあえず次は別の所に行こうよ、ほら、丁度人も混み始めちゃったし」=F-For the time being, let's go for another attraction next. Look, the line's getting kinda long as it is.
-「……そうですか」=...I see.
-「まだ時間はあるし、また後で乗りにこよう、ね？」=We still have tons of time, so let's come for a ride again later, alright?
-「はい、もう一度乗ります、絶対に」=Yes, we'll ride this again, definitely.
+「[H名]？」=“[H名]?”
+「あ……すみません、楽しさの余韻に浸っていました」=“Ah... Sorry, I was basking in the afterglow.”
+「あ、そうだったんだ……」=“Ah, I see...”
+「もう一度乗りませんか？」=“Can we ride it one more time?”
+「と、とりあえず次は別の所に行こうよ、ほら、丁度人も混み始めちゃったし」=“F-For the time being, let's go for another attraction next. Look, the line's getting kinda long as it is.”
+「……そうですか」=“...I see.”
+「まだ時間はあるし、また後で乗りにこよう、ね？」=“We still have tons of time, so let's come for a ride again later, alright?”
+「はい、もう一度乗ります、絶対に」=“Yes, we'll ride this again, definitely.”

@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「あぁ、なんか今更ながら恥ずかしくなってきた……なんでここでシちまったんだ」=Aah, it's a bit late for this now but, man am I starting to get embarrassed... just why did we do it here?
-「強いて言えば、歌の持つ魔力のせいじゃないかな？」=I mean, if I really had to pick something, wasn't it the power of music?
-「はあ？　てめえが歌を語るなんて、１００年早えんだよ！」=Hah? You're 100 years too early to talk about music like that!
-「ご、ごめん……じゃあ、今度は[H名]に、ここで歌の極意を教えてもらおうかな？」=S-Sorry... then, maybe next time I'll have you teach me what it means to sing, here.
-「カラオケだけで済む気がしないが……まあ、そん時はそん時だな……」=I don't think just Karaokeing would be enough but... well, we'll cross that bridge when we get to it...
-「はは……それじゃあ、そろそろ出ようか」=Haha... well then, let's head out.
+「あぁ、なんか今更ながら恥ずかしくなってきた……なんでここでシちまったんだ」=“Aah, it's a bit late for this now but, man am I starting to get embarrassed... just why did we do it here?”
+「強いて言えば、歌の持つ魔力のせいじゃないかな？」=“I mean, if I really had to pick something, wasn't it the power of music?”
+「はあ？　てめえが歌を語るなんて、１００年早えんだよ！」=“Hah? You're 100 years too early to talk about music like that!”
+「ご、ごめん……じゃあ、今度は[H名]に、ここで歌の極意を教えてもらおうかな？」=“S-Sorry... then, maybe next time I'll have you teach me what it means to sing, here.”
+「カラオケだけで済む気がしないが……まあ、そん時はそん時だな……」=“I don't think just Karaokeing would be enough but... well, we'll cross that bridge when we get to it...”
+「はは……それじゃあ、そろそろ出ようか」=“Haha... well then, let's head out.”

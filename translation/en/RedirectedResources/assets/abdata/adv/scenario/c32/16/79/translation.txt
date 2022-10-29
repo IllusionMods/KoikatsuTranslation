@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「あなた、沢山食べるんですね。さすが男子です」=You can sure eat a lot. As expected from a boy.
-「そういう君は、小食なんだね。それで足りるの？」=You say that, but you sure do eat lightly. Are you really fine on just that much?
-「食べ過ぎると午後の授業が眠くなってしまいますので」=If I eat too much, I feel really sleepy during the afternoon classes.
-「食べ過ぎると眠くなってしまいますので」=If I eat too much, it makes me feel really sleepy.
+「あなた、沢山食べるんですね。さすが男子です」=“You can sure eat a lot. As expected from a boy.”
+「そういう君は、小食なんだね。それで足りるの？」=“You say that, but you sure do eat lightly. Are you really fine on just that much?”
+「食べ過ぎると午後の授業が眠くなってしまいますので」=“If I eat too much, I feel really sleepy during the afternoon classes.”
+「食べ過ぎると眠くなってしまいますので」=“If I eat too much, it makes me feel really sleepy.”

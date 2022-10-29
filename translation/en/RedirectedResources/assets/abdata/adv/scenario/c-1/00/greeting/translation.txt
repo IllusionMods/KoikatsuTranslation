@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「おはよう。今日も一日、怪我しないようにね」=Good morning. Have a good day, and try not to get hurt.
-「眠たくなったら特別に保健室のベッドを使わせてあげましょう」=You can use the bed in the infirmary if you need to rest.
-「帰り道、車には気を付けてね」=Watch out for cars on the way home.
+「おはよう。今日も一日、怪我しないようにね」=“Good morning. Have a good day, and try not to get hurt.”
+「眠たくなったら特別に保健室のベッドを使わせてあげましょう」=“You can use the bed in the infirmary if you need to rest.”
+「帰り道、車には気を付けてね」=“Watch out for cars on the way home.”

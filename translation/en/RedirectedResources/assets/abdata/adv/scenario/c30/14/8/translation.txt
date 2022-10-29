@@ -1,11 +1,11 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「えっ……いきなり……？　もしかして……キミって誰にでもそういうこと言ってるの？」=Eh... What's this all of a sudden...? Could it be... are you the kind of person who says something like this to any random person?
-「そんなことないよ！？　[H名]だから、したいって思ったんだ。こんなこと……誰にでも言うわけない……」=That's not true! It's only you, [H名], that I want to do it with. Something like this... I wouldn't say it to anyone else...
-「あ、そ、そうよね……ごめんなさい。でも……えっと……ふふっ、そういう風に言ってもらえると嬉しいな」=Ah, i-is that so... I'm sorry. But... um... Fufu, it makes me happy to hear you say it like that.
-「わ、私もねっ……そういうことは興味あるし……その……して……みたい？　とは……思うけど……」=M-me too... I'm interested in that stuff too... That is... Wanna try it? Well... I think...
-「あ……もしかして……やっぱりいきなりすぎたかな？　ごめん……」=Ah... Perhaps... was that really too sudden? Sorry...
-「あ、謝らないで！　別に断ってるわけじゃないの。ただ……あまりに突然過ぎてドキドキしちゃって……えっと……キミのこと……信用してもいい……？」=Ah, don't apologize! It's not like I'm against it. It's just... hearing you say it out of the blue got my heart racing... Um... Can I... really believe in you...?
-「うん……信用してもらえると……嬉しい」=Yeah... I'd be so glad... if you were to trust in me...
-「あはは、それじゃ信じちゃおう。うん、いいよ。私もね、キミとだったら……きっと……そういうこと出来ると思う。でも……優しくしてね♪」=Ahaha, then I'll believe in you. Yeah, it's alright. If it's with you... I think I can do it. But... be gentle, okay? ♪
+「えっ……いきなり……？　もしかして……キミって誰にでもそういうこと言ってるの？」=“Eh... What's this all of a sudden...? Could it be... are you the kind of person who says something like this to any random person?”
+「そんなことないよ！？　[H名]だから、したいって思ったんだ。こんなこと……誰にでも言うわけない……」=“That's not true! It's only you, [H名], that I want to do it with. Something like this... I wouldn't say it to anyone else...”
+「あ、そ、そうよね……ごめんなさい。でも……えっと……ふふっ、そういう風に言ってもらえると嬉しいな」=“Ah, i-is that so... I'm sorry. But... um... Fufu, it makes me happy to hear you say it like that.”
+「わ、私もねっ……そういうことは興味あるし……その……して……みたい？　とは……思うけど……」=“M-me too... I'm interested in that stuff too... That is... Wanna try it? Well... I think...”
+「あ……もしかして……やっぱりいきなりすぎたかな？　ごめん……」=“Ah... Perhaps... was that really too sudden? Sorry...”
+「あ、謝らないで！　別に断ってるわけじゃないの。ただ……あまりに突然過ぎてドキドキしちゃって……えっと……キミのこと……信用してもいい……？」=“Ah, don't apologize! It's not like I'm against it. It's just... hearing you say it out of the blue got my heart racing... Um... Can I... really believe in you...?”
+「うん……信用してもらえると……嬉しい」=“Yeah... I'd be so glad... if you were to trust in me...”
+「あはは、それじゃ信じちゃおう。うん、いいよ。私もね、キミとだったら……きっと……そういうこと出来ると思う。でも……優しくしてね♪」=“Ahaha, then I'll believe in you. Yeah, it's alright. If it's with you... I think I can do it. But... be gentle, okay? ♪”

@@ -2,6 +2,6 @@
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
 「……」=“...”
-「その顔、何かいやらしいこと考えていませんか？　今からやるのは健全な運動ですよ？」=That face, are you sure you're not thinking something lewd right now? We're here to do some pure and healthy exercises, nothing else.
-「ご、ごめん」=S-Sorry.
+「その顔、何かいやらしいこと考えていませんか？　今からやるのは健全な運動ですよ？」=“That face, are you sure you're not thinking something lewd right now? We're here to do some pure and healthy exercises, nothing else.”
+「ご、ごめん」=“S-Sorry.”
 「……どうしても我慢できないのなら、その、また後で……」」=...If you really can't hold it in then, uhm, we can do it later...

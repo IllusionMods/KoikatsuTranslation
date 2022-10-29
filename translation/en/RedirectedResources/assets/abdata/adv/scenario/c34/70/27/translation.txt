@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「Ｏｈ，ｇｉｆｔ♡　恋人にもらえるナンテ、ワタシすごくカホーモノダネ♡」=Oh, a gift♡ I'm so lucky, getting gifts from my boyfriend♡
+「Ｏｈ，ｇｉｆｔ♡　恋人にもらえるナンテ、ワタシすごくカホーモノダネ♡」=“Oh, a gift♡ I'm so lucky, getting gifts from my boyfriend♡”

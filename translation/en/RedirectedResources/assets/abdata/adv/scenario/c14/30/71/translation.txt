@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「……おい、なんでさっきから黙ってんだよ！」=...Oi, why've you been so quiet this whole time!
-「……図書室は私語厳禁だからだよ」=...We're not allowed to chat in the library.
-「んなこと知るかよ……！　つまんねぇから場所変えようぜ！」=How the hell am I supposed to know that...! This is boring, let's ditch this joint!
-「え！　もう？　ていうか図書室で二人で勉強してみたいって言ったの[H]じゃ……」=Eh! Already? But weren't you the one who suggested that we have a study session here...
+「……おい、なんでさっきから黙ってんだよ！」=“...Oi, why've you been so quiet this whole time!”
+「……図書室は私語厳禁だからだよ」=“...We're not allowed to chat in the library.”
+「んなこと知るかよ……！　つまんねぇから場所変えようぜ！」=“How the hell am I supposed to know that...! This is boring, let's ditch this joint!”
+「え！　もう？　ていうか図書室で二人で勉強してみたいって言ったの[H]じゃ……」=“Eh! Already? But weren't you the one who suggested that we have a study session here...”

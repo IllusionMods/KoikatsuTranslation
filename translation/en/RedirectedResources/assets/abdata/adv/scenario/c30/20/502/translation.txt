@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「ハァ、ハァ、ごめん、待ち合わせ時間、ギリギリになっちゃった……」=Hah, hah, sorry, I cut it a bit too close with the time...
-「でも、なんとか間に合ったよね？　よかった……まだ１分前だ……」=But, I somehow made it in time, right? I'm glad... Just 1 minute before the meeting time...
-「あらあら大丈夫？　そんなに息を切らせちゃって。お姉さんのことは、少し待たせるくらいでも良かったのに」=Oh my, are you alright? You're so out of breath. You know, onee-san wouldn't have minded waiting a bit for you.
-「そういうわけにはいかないよ。さぁ、じゃあ早速、デートを始めようか」=You know I can't do that to you. Now then, let's go, let's start our date.
+「ハァ、ハァ、ごめん、待ち合わせ時間、ギリギリになっちゃった……」=“Hah, hah, sorry, I cut it a bit too close with the time...”
+「でも、なんとか間に合ったよね？　よかった……まだ１分前だ……」=“But, I somehow made it in time, right? I'm glad... Just 1 minute before the meeting time...”
+「あらあら大丈夫？　そんなに息を切らせちゃって。お姉さんのことは、少し待たせるくらいでも良かったのに」=“Oh my, are you alright? You're so out of breath. You know, onee-san wouldn't have minded waiting a bit for you.”
+「そういうわけにはいかないよ。さぁ、じゃあ早速、デートを始めようか」=“You know I can't do that to you. Now then, let's go, let's start our date.”

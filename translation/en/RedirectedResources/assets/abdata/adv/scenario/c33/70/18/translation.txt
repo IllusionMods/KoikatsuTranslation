@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「おはよ。今日も元気？　ふふふ」=Morning. Feeling energetic today too? Fufufu
+「おはよ。今日も元気？　ふふふ」=“Morning. Feeling energetic today too? Fufufu”

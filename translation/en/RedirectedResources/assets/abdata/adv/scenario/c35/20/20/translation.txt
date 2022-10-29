@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「あ……おはよう。朝から君に会えると……なんかテンション上がるっちゃん。君も同じやったらいいなぁ♪」=Ah... morning. Seeing you first thing in the morning... it really gets me fired up. Would be great if you felt the same way♪
+「あ……おはよう。朝から君に会えると……なんかテンション上がるっちゃん。君も同じやったらいいなぁ♪」=“Ah... morning. Seeing you first thing in the morning... it really gets me fired up. Would be great if you felt the same way♪”

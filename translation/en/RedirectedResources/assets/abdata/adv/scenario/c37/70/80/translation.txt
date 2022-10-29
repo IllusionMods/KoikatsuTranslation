@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「これをどうぞ」=Have this.
-「ん、これは？」=Hmm, this is?
-「パンだけではバランスが悪いと思いまして、勝手ながら用意させて頂きました」=I thought that just bread alone isn't good enough for a balanced diet, so I took it upon myself to prepare this for you.
-「おーありがとう。……うん、美味しい、もしかして手作り？」=T-Thanks.Yeah, it's delicious, did you make this yourself by any chance?
-「えぇ、恋人を掴むコツは胃袋を掴む事、と教わりましたので。遠慮なくお食べ下さい」=Yes, I was taught that the way to a man's heart is through his stomach, so please, don't hold back and dig in.
+「これをどうぞ」=“Have this.”
+「ん、これは？」=“Hmm, this is?”
+「パンだけではバランスが悪いと思いまして、勝手ながら用意させて頂きました」=“I thought that just bread alone isn't good enough for a balanced diet, so I took it upon myself to prepare this for you.”
+「おーありがとう。……うん、美味しい、もしかして手作り？」=“T-Thanks.Yeah, it's delicious, did you make this yourself by any chance?”
+「えぇ、恋人を掴むコツは胃袋を掴む事、と教わりましたので。遠慮なくお食べ下さい」=“Yes, I was taught that the way to a man's heart is through his stomach, so please, don't hold back and dig in.”
