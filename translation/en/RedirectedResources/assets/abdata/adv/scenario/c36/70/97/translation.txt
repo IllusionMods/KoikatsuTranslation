@@ -2,7 +2,7 @@
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
 「すぅ……すぅ…………ん、んん……」=“Zzz...Zzz......N, nn...”
-（んぅ……ん……なにか、やわらかいものが……あたって……？）=("Nn...n... I feel something... Soft...?")
+（んぅ……ん……なにか、やわらかいものが……あたって……？）=(Nn...n... I feel something... Soft...?)
 「…………」=“......”
 「って、なにして……んんっ……」=“Wha-, What are you... Nnn...”
 「何って、寝てても大きくなる節操のないモノに、お仕置き中よ」=“What, I'm punishing this unprincipled thing for having gotten big even though you were sleeping.”

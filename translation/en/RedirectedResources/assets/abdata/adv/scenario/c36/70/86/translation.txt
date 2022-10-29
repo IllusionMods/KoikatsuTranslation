@@ -2,7 +2,7 @@
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
 「今日は下僕にプレゼントをあげるわ。ほら、開けてみなさい」=“I have a present for you today, my manservant. Go ahead and open it.”
-（おぉ、[H名]さんからプレゼント！　高級そうな箱に入ってるけど、中身は何だろ？）=("Woah, a present from Miss [H名]! The box looks pretty luxurious, I wonder what's inside.")
+（おぉ、[H名]さんからプレゼント！　高級そうな箱に入ってるけど、中身は何だろ？）=(Woah, a present from Miss [H名]! The box looks pretty luxurious, I wonder what's inside.)
 「えっ……これってその……首輪？」=“Umm... It's... A collar?”
 「そうよ、下僕の証。わざわざ私が選んであげたのだから、感謝しなさい」=“That's right, a proof of your subordination. It's the one I specially chose for you, so thank me.”
 「あ、ありがとう……だ、大事にするよ……」=“T-thank... you, I'll treasure it.”

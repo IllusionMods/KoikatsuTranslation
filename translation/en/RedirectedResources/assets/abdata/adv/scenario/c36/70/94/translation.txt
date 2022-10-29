@@ -2,7 +2,7 @@
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
 「すぅ……すぅ……ん、んん……」=“Zzz...Zzz...N, nn...”
-（ううん、何だか下半身に違和感が……？）=("Uummm, my lower part of body feels strange.")
+（ううん、何だか下半身に違和感が……？）=(Uummm, my lower part of body feels strange.)
 「…………」=“......”
 「って……え？　え？ [H名]さん？」=“E...Eh? Ehh? Miss [H名]?”
 「あら、ようやく起きたのね。寝ていてもピクピク反応する貴方、面白かったわよ」=“Oh, you finally woke up. It's funny how yours was twitching even though you were asleep.”

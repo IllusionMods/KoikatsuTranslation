@@ -2,7 +2,7 @@
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
 「すぅ……すぅ……ん、んん……」=*snore... *snore*... Nnn, nnnn...
-（んぅ……ん……なんか、下半身に違和感が……？）=("Nnn... There's something up with my lower half...")
+（んぅ……ん……なんか、下半身に違和感が……？）=(Nnn... There's something up with my lower half...)
 「…………」=“......”
 「って……え？　え？」=“H...huh? Huh?”
 「……おはよう。ぐっすり、寝てたね」=“...Good morning. It seemed like you slept well.”

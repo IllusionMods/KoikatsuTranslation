@@ -2,7 +2,7 @@
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
 「すぅ……すぅ…………ん、んん……」=“Yeah... yeah... Nnnn....”
-（んぅ……すごく気持ちいいような……いったい、何が……？）=("Nnn... It feels so good... what's going on?")
+（んぅ……すごく気持ちいいような……いったい、何が……？）=(Nnn... It feels so good... what's going on?)
 「…………」=“......”
 「へっ！　ど、どうして俺の上に……？」=“Hey! How is it in there?”
 「フフッ……エッチ、したかったの……」=“Fuhuhu... You pervert... I wanted to...”
