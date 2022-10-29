@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「ふぅ、流石に一人では物足りなくなって来ました」=Fuu, it really has become quite unsatisfying just doing it by myself.
+「ふぅ、流石に一人では物足りなくなって来ました」=“Fuu, it really has become quite unsatisfying just doing it by myself.”

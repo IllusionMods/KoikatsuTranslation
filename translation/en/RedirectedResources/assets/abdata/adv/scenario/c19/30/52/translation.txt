@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「そんな、もう終わっちゃうの……？　中途半端だなんて、これじゃ生殺しだよぉ……」=Don't say that, are we really gonna stop there...? That was so half-done, I feel like I have blueballs...
+「そんな、もう終わっちゃうの……？　中途半端だなんて、これじゃ生殺しだよぉ……」=“Don't say that, are we really gonna stop there...? That was so half-done, I feel like I have blueballs...”

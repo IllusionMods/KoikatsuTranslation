@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「なるほどなるほど……これがキミのセンスなのね。え？　あっ、ううん、もちろん嬉しいわ！　お姉さん、感動してるのよ♪」=Hmm, I see, I see. So this is your taste huh? Eh? Ah, Yes, Of course, Im very happy! Onee-san is really moved you know!
+「なるほどなるほど……これがキミのセンスなのね。え？　あっ、ううん、もちろん嬉しいわ！　お姉さん、感動してるのよ♪」=“Hmm, I see, I see. So this is your taste huh? Eh? Ah, Yes, Of course, Im very happy! Onee-san is really moved you know!”

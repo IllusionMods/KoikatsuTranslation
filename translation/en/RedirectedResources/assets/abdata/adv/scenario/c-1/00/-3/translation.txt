@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「男の子が一人いるだけで学園の雰囲気が変わるわね。こういう感じ、私は好きよ」=Just one boy can change the atmosphere of the school. I like this kind of atmosphere.
+「男の子が一人いるだけで学園の雰囲気が変わるわね。こういう感じ、私は好きよ」=“Just one boy can change the atmosphere of the school. I like this kind of atmosphere.”

@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「身体を動かすのであればもっと効率のいい方法があります、例えばセ―――」=If it's moving our bodies, there are more efficient ways to go about it, for example se---
-「セックスとか言わないよね？」=You're not going to say "sex", are you?
-「………………セパタクローなどいかがでしょう」=............Sepak Takraw, how about that instead?
-「苦しいよ……というか[H名]ってそんな子だったっけ……？」=That's a bit... Or rather, didn't know you were that sort of a girl, [H名]...
+「身体を動かすのであればもっと効率のいい方法があります、例えばセ―――」=“If it's moving our bodies, there are more efficient ways to go about it, for example se---”
+「セックスとか言わないよね？」=“You're not going to say "sex", are you?”
+「………………セパタクローなどいかがでしょう」=“............Sepak Takraw, how about that instead?”
+「苦しいよ……というか[H名]ってそんな子だったっけ……？」=“That's a bit... Or rather, didn't know you were that sort of a girl, [H名]...”

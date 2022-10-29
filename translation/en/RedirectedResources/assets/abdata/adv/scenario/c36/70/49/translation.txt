@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「ふぅ、私を必死にイカせようとしている貴方、ちょっと可愛かったわよ。今の顔は気持ち悪いけど」="Heh, you were a bit cute, trying so desperately to make me come. Your face is revolting though."
+「ふぅ、私を必死にイカせようとしている貴方、ちょっと可愛かったわよ。今の顔は気持ち悪いけど」=“Heh, you were a bit cute, trying so desperately to make me come. Your face is revolting though.”

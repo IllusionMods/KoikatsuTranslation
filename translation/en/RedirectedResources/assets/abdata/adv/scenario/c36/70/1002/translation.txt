@@ -1,19 +1,19 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「あぁダメだ、慣れない格好で落ち着かない。[H名]さんにまた怒られそうだなぁ……」="Aah, there's no use. I can't calm down in this outfit. Miss [H名] will be angry with me again..."
-（でも、ウェディングドレス姿の[H名]さんか……めちゃくちゃ綺麗なんだろうな）=(But Miss [H名] in a wedding dress... She must look extremely beautiful."
+「あぁダメだ、慣れない格好で落ち着かない。[H名]さんにまた怒られそうだなぁ……」=“Aah, there's no use. I can't calm down in this outfit. Miss [H名] will be angry with me again...”
+（でも、ウェディングドレス姿の[H名]さんか……めちゃくちゃ綺麗なんだろうな）=(But Miss [H名] in a wedding dress... She must look extremely beautiful.")
 （あくまでモデルだけど、下僕から恋人を飛ばして一気に結婚だもんな、大出世だよ俺……）=(We're models, but... I jumped from being a manservant through a lover to a groom. That's an amazing success.)
 （い、いよいよ出番か……）=(It's almost time.)
 （うっわ、緊張してきた……）=(Uwah, I'm so nervous...)
 （……[H名]さんもどこかで緊張してるのかな）=(... Miss [H名] is also nervous somewhere.)
-（……ただ歩くだけで、びっしょり汗をかいてしまった……うぅ、もっと気を引き締めないと！）=(... I'm drenched in sweat just by walking... Uu, I must focus!"
+（……ただ歩くだけで、びっしょり汗をかいてしまった……うぅ、もっと気を引き締めないと！）=(... I'm drenched in sweat just by walking... Uu, I must focus!")
 モブ=Mob
-「これより新婦が入場致します。後方の扉口をご覧ください」="The bride will enter now. Please, turn to look at the entrance."
+「これより新婦が入場致します。後方の扉口をご覧ください」=“The bride will enter now. Please, turn to look at the entrance.”
 （わぁぁ……[H名]……さん）=(Woahhh... Miss... [H名].)
 俺の事を下僕と言って、どんな時も罵る事を忘れなかった[H名]さん。=I didn't forget how you called me manservant, or how you abused me, Miss [H名].
 そんな彼女が、俺の花嫁として、純白のウェディングドレスを着ている。=Now she, as my bride, wears a snow white wedding dress."
 誰にも染められない筈の[H名]さんが、あなた色に染まりますという意味のドレスを着ているんだ。=She's wearing a dress that says Miss [H名] is nobody else's but mine."
-「……綺麗だ。綺麗ってこういう事を言うんだ……」="... Stunning. That's when you say someone's stunning..."
-「[H名]さん、す、凄い似合ってるよ。綺麗で、とにかく綺麗だよ」="Miss [H名], i-it fits you extremely well. You're beautiful, really beautiful."
-「フッ、まったく。こういう時まで頼りないわね。でも、ありがとう……」="Good grief. Even at a time like this you're helpless. But, thank you..."
+「……綺麗だ。綺麗ってこういう事を言うんだ……」=“... Stunning. That's when you say someone's stunning...”
+「[H名]さん、す、凄い似合ってるよ。綺麗で、とにかく綺麗だよ」=“Miss [H名], i-it fits you extremely well. You're beautiful, really beautiful.”
+「フッ、まったく。こういう時まで頼りないわね。でも、ありがとう……」=“Good grief. Even at a time like this you're helpless. But, thank you...”

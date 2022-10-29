@@ -1,5 +1,5 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「お邪魔します」=Pardon me.
-「……私も今すぐ[P]さんと触れ合いたい、です」=...I want to cling to you right away too, [P]-san.
+「お邪魔します」=“Pardon me.”
+「……私も今すぐ[P]さんと触れ合いたい、です」=“...I want to cling to you right away too, [P]-san.”

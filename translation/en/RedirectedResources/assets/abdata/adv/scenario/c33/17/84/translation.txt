@@ -1,11 +1,11 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「――というわけで、俺はコイカツ部を設立することになったんだけど……」=---And so, I ended up founding the Koikatsu club...
-「ふふふ、噂には聞いてたけどめちゃくちゃね。でもそれ、私たちの知ってる学園長だわ」=Fufufu, I'd heard rumours but it truly is absurd. But that's our principal for you, I suppose.
-「叔母さんって生徒にもそういう認識されてるんだ……でも、どうしてコイカツ部が出来たわけなんて聞いたの？」=So the students see my aunt that way too... But why did you want to know about the formation of the Koikatsu club?
-「あなたのことをもっと知りたかったからよ。相手のことをもっと知りたいと思うのが恋でしょ？」=It's because I wanted to know even more about you. Isn't love about wanting to know more about your partner?
-「そ、そうだね」=Y-You're right.
-（なんだか、[H名]さんの方がコイカツ部の部長って風格だな……ドキッとしちゃったぞ）=(Somehow, I feel like [H名]-san would be better suited to be the Koikatsu club's president... That really made my heart race.
-「だから、もっとあなたの話を聞かせて。この学園に初めて来たときの緊張感とか」=That's why, tell me even more about yourself. Like, the nervousness you felt when you first came to this school, and whatnot.
-「じゃあ、どこから話そうかな……」=Then, let's see, where do I start...
+「――というわけで、俺はコイカツ部を設立することになったんだけど……」=“---And so, I ended up founding the Koikatsu club...”
+「ふふふ、噂には聞いてたけどめちゃくちゃね。でもそれ、私たちの知ってる学園長だわ」=“Fufufu, I'd heard rumours but it truly is absurd. But that's our principal for you, I suppose.”
+「叔母さんって生徒にもそういう認識されてるんだ……でも、どうしてコイカツ部が出来たわけなんて聞いたの？」=“So the students see my aunt that way too... But why did you want to know about the formation of the Koikatsu club?”
+「あなたのことをもっと知りたかったからよ。相手のことをもっと知りたいと思うのが恋でしょ？」=“It's because I wanted to know even more about you. Isn't love about wanting to know more about your partner?”
+「そ、そうだね」=“Y-You're right.”
+（なんだか、[H名]さんの方がコイカツ部の部長って風格だな……ドキッとしちゃったぞ）=(Somehow, I feel like [H名]-san would be better suited to be the Koikatsu club's president... That really made my heart race.)
+「だから、もっとあなたの話を聞かせて。この学園に初めて来たときの緊張感とか」=“That's why, tell me even more about yourself. Like, the nervousness you felt when you first came to this school, and whatnot.”
+「じゃあ、どこから話そうかな……」=“Then, let's see, where do I start...”

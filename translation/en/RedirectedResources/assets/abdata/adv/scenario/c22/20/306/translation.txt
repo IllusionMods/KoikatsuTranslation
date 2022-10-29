@@ -1,26 +1,26 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「ふふっ、今のデュエット、カンペキだったね！　君、格好良かったよー！」=Fufu--, that duet was perfect, wasn't it! You were really cool!
-「[H名]もすごく可愛かった。告白する台詞のところ、すごくドキドキしたよ！」=You were adorable as all hell too. The confession part made my heart throb like nothing else!
-「あははっ、それは目の前に好きな人がいるんだもん。しっかり心を込めて言葉にしたんだよー」=Ahaha--, of course, I mean, I love you. I put my heart into those words, you know~
+「ふふっ、今のデュエット、カンペキだったね！　君、格好良かったよー！」=“Fufu--, that duet was perfect, wasn't it! You were really cool!”
+「[H名]もすごく可愛かった。告白する台詞のところ、すごくドキドキしたよ！」=“You were adorable as all hell too. The confession part made my heart throb like nothing else!”
+「あははっ、それは目の前に好きな人がいるんだもん。しっかり心を込めて言葉にしたんだよー」=“Ahaha--, of course, I mean, I love you. I put my heart into those words, you know~”
 （こんな風に無邪気にはしゃぐ姿を見てると……なんだか我慢出来なくなりそうだ……）=(When I see her laughing so innocently like this... I feel my self control vaporising...)
 CHOICE:『思い切ってキスをする』=Just kiss her.
 CHOICE:『我慢して最後まではしゃぐ』=Endure it and have fun till the end.
-「あ、あのさ[H名]……」=H-Hey, listen, [H名]...
-「ん？　なにかな？」=Hm? What is it?~
-「んっ……」=Nn--...
-「んっ、んんっ……ちゅっ……」=Nn--, Nn--... *kiss*...
-「……っ。も、もう……どうしたのいきなり？」=...--. J-Jeez... what's gotten into you so suddenly?
-「あ、いや……[H名]があまりに可愛くて……我慢出来なかったんだ」=Ah, no... you were just so adorable... I couldn't hold myself back.
-「はぅ……いきなりストレートな言葉だよー！」=Hauu... that's way too much of a straight ball~!
-「ごめん、何て言うか……誤魔化すの苦手で……」=Sorry, I'm kinda... bad at lying and stuff so...
-「あ、ううん。ストレートな方が君らしくていいよ。私はそういう君が好きだな」=Ah, no. You wouldn't be you if you weren't always straight. I love you for it.
-「[H名]……それじゃストレートついでに……あのさ、俺……ここで……[H名]としたい」=[H名]... well then, I'll keep the dice rolling... listen, I... want to... do it here with you.
-「あ、あはは……多分そうだろうなって思ったよ。だって……私もしたいもん。えっと……それじゃ、その……お願いします」=A-Ahaha... I knew you were gonna say that. I mean... I want to do it too. Erhm... well then, uhm... please go ahead.
+「あ、あのさ[H名]……」=“H-Hey, listen, [H名]...”
+「ん？　なにかな？」=“Hm? What is it?~”
+「んっ……」=“Nn--...”
+「んっ、んんっ……ちゅっ……」=“Nn--, Nn--... *kiss*...”
+「……っ。も、もう……どうしたのいきなり？」=“...--. J-Jeez... what's gotten into you so suddenly?”
+「あ、いや……[H名]があまりに可愛くて……我慢出来なかったんだ」=“Ah, no... you were just so adorable... I couldn't hold myself back.”
+「はぅ……いきなりストレートな言葉だよー！」=“Hauu... that's way too much of a straight ball~!”
+「ごめん、何て言うか……誤魔化すの苦手で……」=“Sorry, I'm kinda... bad at lying and stuff so...”
+「あ、ううん。ストレートな方が君らしくていいよ。私はそういう君が好きだな」=“Ah, no. You wouldn't be you if you weren't always straight. I love you for it.”
+「[H名]……それじゃストレートついでに……あのさ、俺……ここで……[H名]としたい」=“[H名]... well then, I'll keep the dice rolling... listen, I... want to... do it here with you.”
+「あ、あはは……多分そうだろうなって思ったよ。だって……私もしたいもん。えっと……それじゃ、その……お願いします」=“A-Ahaha... I knew you were gonna say that. I mean... I want to do it too. Erhm... well then, uhm... please go ahead.”
 （ここで無茶は出来ないよな。理性を取り戻して最後まで楽しくはしゃごう）=(Can't go too far here. Let's reel my libido back in and just enjoy the time.)
-「よーし、それじゃ、次の曲入れよう！　俺も心を込めて歌うよ！」=Alright~, let's put in the next song! I'll put my heart into this one too!
-「うんっ！　えへへ、楽しみ！　どんな曲を歌ってくれるのかな？」=Okay--! Ehehe, I'm excited! What sorta song are you gonna sing me?
-「ハードロックのバラードを一曲！　上手には歌えないと思うけど！」=A hard rock ballad! Don't think I'll pull it off super well though!
-「そんなこと気にしないよ。私のために歌ってくれるって思うだけで嬉しくなるもんっ！　君からの歌のプレゼント、ください」=Don't mind that stuff. Just knowing that you're singing for me is enough to make me happy--! Please gift me a song, from you.
-「うん、頑張るよ！　よーし、今日は時間ギリギリまで、歌い合っちゃおう！」=Yeah, I'll do my best! Alright, let's keep singing till the very end today!
+「よーし、それじゃ、次の曲入れよう！　俺も心を込めて歌うよ！」=“Alright~, let's put in the next song! I'll put my heart into this one too!”
+「うんっ！　えへへ、楽しみ！　どんな曲を歌ってくれるのかな？」=“Okay--! Ehehe, I'm excited! What sorta song are you gonna sing me?”
+「ハードロックのバラードを一曲！　上手には歌えないと思うけど！」=“A hard rock ballad! Don't think I'll pull it off super well though!”
+「そんなこと気にしないよ。私のために歌ってくれるって思うだけで嬉しくなるもんっ！　君からの歌のプレゼント、ください」=“Don't mind that stuff. Just knowing that you're singing for me is enough to make me happy--! Please gift me a song, from you.”
+「うん、頑張るよ！　よーし、今日は時間ギリギリまで、歌い合っちゃおう！」=“Yeah, I'll do my best! Alright, let's keep singing till the very end today!”

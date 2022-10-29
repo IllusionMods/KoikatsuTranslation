@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「は、はい。いいですよ。あの、何をするんですか？」=Y-Yes. Sure. Uhm, what are we going to do?
-「そうだなあ、特に決めてなかったよ。何をやるか一緒に考えてくれる？」=Good question, I haven't really decided on something. How about we think about it together?
-「わ、わかりました。２人でできる運動……？　何があるでしょうか……？」=O-Okay, got it. Some exercise we can do together...? I wonder what'd be perfect...?
+「は、はい。いいですよ。あの、何をするんですか？」=“Y-Yes. Sure. Uhm, what are we going to do?”
+「そうだなあ、特に決めてなかったよ。何をやるか一緒に考えてくれる？」=“Good question, I haven't really decided on something. How about we think about it together?”
+「わ、わかりました。２人でできる運動……？　何があるでしょうか……？」=“O-Okay, got it. Some exercise we can do together...? I wonder what'd be perfect...?”

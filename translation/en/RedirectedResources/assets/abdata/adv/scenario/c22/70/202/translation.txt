@@ -1,22 +1,22 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「今日のデートは遊園地！　ここで一日遊んじゃおう！」=Today we'll do the amusement park! Let's have fun here for today!
-「さんせーい！　すっごく楽しそう！　さっそく色々見てまわろう！」=Let's~! It seems super fun! Let's start looking around!
-「うん、そうしよう！　えーっとまずはどこから……」=Yeah, let's do that! Erhm, where should we...
-「あっ、見て見て！　あそこでピエロの格好した人がバルーンアートやってる！　ちょっと行ってみない？」=Ah, look look! That guy in a clown suit is doing balloon art! Wanna go take a look?
-「お、本当だ。こういうのってなかなか見る機会ないし、楽しそう！　行ってみよう！」=Oh, you're right. You don't often get to see stuff like this, seems fun! Let's go!
+「今日のデートは遊園地！　ここで一日遊んじゃおう！」=“Today we'll do the amusement park! Let's have fun here for today!”
+「さんせーい！　すっごく楽しそう！　さっそく色々見てまわろう！」=“Let's~! It seems super fun! Let's start looking around!”
+「うん、そうしよう！　えーっとまずはどこから……」=“Yeah, let's do that! Erhm, where should we...”
+「あっ、見て見て！　あそこでピエロの格好した人がバルーンアートやってる！　ちょっと行ってみない？」=“Ah, look look! That guy in a clown suit is doing balloon art! Wanna go take a look?”
+「お、本当だ。こういうのってなかなか見る機会ないし、楽しそう！　行ってみよう！」=“Oh, you're right. You don't often get to see stuff like this, seems fun! Let's go!”
 ………………=.........
-「ありがとうございます！　えへへ、カップルだからって一つもらっちゃった！」=Thank you very much! Ehehe, he gave us one since we're a couple!
-「良かったね。えーっと、その風船は何の形？」=Ain't that nice. Erhm, what's it shaped as?
-「これは……ウサギさんだね。ここがお耳で……ここが尻尾だよ」=This is... gotta be a rabbit. These are its ears and... this is its little tail.
-「あ、なるほど。その向きで見るのか。可愛いね」=Ah, I see. So that's it. It's pretty cute.
-「うんっ、すっごく可愛い！　風船のぷっくりした感じとウサギさんの柔らかさがベリーマッチだよー。空気抜けるまで大切にするね」=Yeah--, super cute! The puffed up balloon and the softness of a bunny go together hand-in-hand. I'll hold onto it until it runs out of air.
-「あはは、早速喜んでもらえて良かった。遊園地に来て正解だったかな」=Ahaha, I'm glad you're enjoying yourself right from the get go. Guess picking the amusement park was the right answer.
-「うんっ、大正解！　本当にありがとう。他にも色々見てまわろう！」=Yeah--, 100%! Seriously, thanks. Let's go look around some more!
-「うんーっ、このバルーンアートはすごく可愛い！　抱き締めたくなっちゃう」=Nnn--, this balloon art is adorable! I can't help but want to hug it.
-「でも私……本当の動物はちょっと苦手なんだ……小さな頃、近所の犬に噛みつかれたことがあって……それからトラウマなの……」=But... I really don't get along with animals... when I was little, the neighbourhood dog bit me and... I haven't liked animals since...
-「あ……それ、分かるかも……小さな頃の怖い出来事って、すごく引きずるよね……」=Ah... I feel you... stuff that happens when you're a child really sticks with you, doesn't it...
-「そうなの……あ、でも今はもう、少しくらいなら触れるようになったんだよ。ちょっとドキドキしちゃうけど……」=Exactly... ah, but nowadays I can touch them a little bit, just a little bit. It makes my heart pound though...
-「触れるようになったのなら、もう克服したも同然だよ。えらい、えらい！」=You've more or less conquered that trauma then. Good job!
+「ありがとうございます！　えへへ、カップルだからって一つもらっちゃった！」=“Thank you very much! Ehehe, he gave us one since we're a couple!”
+「良かったね。えーっと、その風船は何の形？」=“Ain't that nice. Erhm, what's it shaped as?”
+「これは……ウサギさんだね。ここがお耳で……ここが尻尾だよ」=“This is... gotta be a rabbit. These are its ears and... this is its little tail.”
+「あ、なるほど。その向きで見るのか。可愛いね」=“Ah, I see. So that's it. It's pretty cute.”
+「うんっ、すっごく可愛い！　風船のぷっくりした感じとウサギさんの柔らかさがベリーマッチだよー。空気抜けるまで大切にするね」=“Yeah--, super cute! The puffed up balloon and the softness of a bunny go together hand-in-hand. I'll hold onto it until it runs out of air.”
+「あはは、早速喜んでもらえて良かった。遊園地に来て正解だったかな」=“Ahaha, I'm glad you're enjoying yourself right from the get go. Guess picking the amusement park was the right answer.”
+「うんっ、大正解！　本当にありがとう。他にも色々見てまわろう！」=“Yeah--, 100%! Seriously, thanks. Let's go look around some more!”
+「うんーっ、このバルーンアートはすごく可愛い！　抱き締めたくなっちゃう」=“Nnn--, this balloon art is adorable! I can't help but want to hug it.”
+「でも私……本当の動物はちょっと苦手なんだ……小さな頃、近所の犬に噛みつかれたことがあって……それからトラウマなの……」=“But... I really don't get along with animals... when I was little, the neighbourhood dog bit me and... I haven't liked animals since...”
+「あ……それ、分かるかも……小さな頃の怖い出来事って、すごく引きずるよね……」=“Ah... I feel you... stuff that happens when you're a child really sticks with you, doesn't it...”
+「そうなの……あ、でも今はもう、少しくらいなら触れるようになったんだよ。ちょっとドキドキしちゃうけど……」=“Exactly... ah, but nowadays I can touch them a little bit, just a little bit. It makes my heart pound though...”
+「触れるようになったのなら、もう克服したも同然だよ。えらい、えらい！」=“You've more or less conquered that trauma then. Good job!”
 （動物触れ合いコーナーがあったけど、あそこに行くのは止めといた方がよさそうだな）=(Guess we're skipping the visit to the amusement park pet experience today then.)

@@ -1,12 +1,12 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「いつも来ている場所も、デートだと思うと新鮮に感じますね」=Even a place like this, that I come to often, when I think about how we're on a date, it feels really fresh.
-「もしかして緊張してる？」=By any chance, are you nervous?
-「はい、少し……。ですがどうぞお気遣いなく。それ以上に期待でワクワクしていますので」=Yes, a bit... But, you need not worry about me. My heart is pounding more from the excitement than it is from nervousness.
-「あ……口元にケーキのクリームが。少し動かないで下さい」=Ah... There's some cream from the cake on your mouth. Stay still for a bit, please.
-「じ、自分で拭うからいいよ！」=I-It's fine, Ill wipe it myself!
-「……そうですか。やって差し上げた方が、デートらしくていいかと思ったのですが」=...I see. I thought it would be nice and date-like if I wiped it for you, though.
-「あっ……そ、それならお願いしようかな」=Ah--... T-Then maybe I'll let you do it afterall.
+「いつも来ている場所も、デートだと思うと新鮮に感じますね」=“Even a place like this, that I come to often, when I think about how we're on a date, it feels really fresh.”
+「もしかして緊張してる？」=“By any chance, are you nervous?”
+「はい、少し……。ですがどうぞお気遣いなく。それ以上に期待でワクワクしていますので」=“Yes, a bit... But, you need not worry about me. My heart is pounding more from the excitement than it is from nervousness.”
+「あ……口元にケーキのクリームが。少し動かないで下さい」=“Ah... There's some cream from the cake on your mouth. Stay still for a bit, please.”
+「じ、自分で拭うからいいよ！」=“I-It's fine, Ill wipe it myself!”
+「……そうですか。やって差し上げた方が、デートらしくていいかと思ったのですが」=“...I see. I thought it would be nice and date-like if I wiped it for you, though.”
+「あっ……そ、それならお願いしようかな」=“Ah--... T-Then maybe I'll let you do it afterall.”
 （ドキドキするな、これ……）=(This really makes my heart pound...)
-「今日は新しい体験ができて良かったです。楽しかったですよ。名残惜しいですが……今日はこの辺で失礼します」=I had lots of new experiences today, it was great. I had an absolute blast. I don't want to part ways but... I'll be excusing myself here for today.
+「今日は新しい体験ができて良かったです。楽しかったですよ。名残惜しいですが……今日はこの辺で失礼します」=“I had lots of new experiences today, it was great. I had an absolute blast. I don't want to part ways but... I'll be excusing myself here for today.”

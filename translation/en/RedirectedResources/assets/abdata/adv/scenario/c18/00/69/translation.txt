@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「こことか、テストに出そうじゃない？」=Doesn't it seem like this part's gonna be on the test?
-「そうですね、私もそう思います。だからテストには出ません」=It does, I think so too. That's why, it won't be on the test.
-「前後の繋がりがおかしいような……」=I feel like I don't get the cause and effect...
-「あはは、まあいずれ分かりますよ」=Ahaha, well, you'll understand eventually.
+「こことか、テストに出そうじゃない？」=“Doesn't it seem like this part's gonna be on the test?”
+「そうですね、私もそう思います。だからテストには出ません」=“It does, I think so too. That's why, it won't be on the test.”
+「前後の繋がりがおかしいような……」=“I feel like I don't get the cause and effect...”
+「あはは、まあいずれ分かりますよ」=“Ahaha, well, you'll understand eventually.”

@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「な、何してるのっ！？　男の子って本当にサイテーね！」=Wha!? What are you doing!? Boys really are the worst!
+「な、何してるのっ！？　男の子って本当にサイテーね！」=“Wha!? What are you doing!? Boys really are the worst!”

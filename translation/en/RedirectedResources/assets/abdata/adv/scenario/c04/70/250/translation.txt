@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「ああ、帰りの電車は寂しくなっちゃうな……」=Aah, the train ride back home's going to be so sad...
-「ほら、遠足はもうおしまいよ。子供みたいにふてくされない」=C'mon, our trip's over for today. Now don't sulk like a kid at the end of a field trip.
-「どうせ子供ですよ」=We are actually kids though.
-「それに、家に帰るまでが遠足よ？　気を抜いちゃだめ」=Not to mention, the trip's still on until we get home, you know? No letting your focus slip.
+「ああ、帰りの電車は寂しくなっちゃうな……」=“Aah, the train ride back home's going to be so sad...”
+「ほら、遠足はもうおしまいよ。子供みたいにふてくされない」=“C'mon, our trip's over for today. Now don't sulk like a kid at the end of a field trip.”
+「どうせ子供ですよ」=“We are actually kids though.”
+「それに、家に帰るまでが遠足よ？　気を抜いちゃだめ」=“Not to mention, the trip's still on until we get home, you know? No letting your focus slip.”

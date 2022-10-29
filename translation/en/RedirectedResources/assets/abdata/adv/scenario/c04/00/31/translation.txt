@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「う、う～ん……ま、まぁ、大事なのは気持ちだからね、うんうん、ありがとう！」=Nn, Nnnn~... w-well, the important thing is your feelings, yes, thank you!
+「う、う～ん……ま、まぁ、大事なのは気持ちだからね、うんうん、ありがとう！」=“Nn, Nnnn~... w-well, the important thing is your feelings, yes, thank you!”

@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「まったくもう。満足しましたか？」=Good grief. Are you satisfied now?
-「それはもう。結構落ち着いたよ」=Of course. It's quite calm now.
-「結構？」=Quite?
-「ごめんなさい。すっかり落ち着きました……！」=I'm sorry. It's completely calm now...!
+「まったくもう。満足しましたか？」=“Good grief. Are you satisfied now?”
+「それはもう。結構落ち着いたよ」=“Of course. It's quite calm now.”
+「結構？」=“Quite?”
+「ごめんなさい。すっかり落ち着きました……！」=“I'm sorry. It's completely calm now...!”

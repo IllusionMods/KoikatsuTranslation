@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「もう終わり？　こんないいところで……もぉ、いじわる」=Are we stopping there? Things were just getting good too... jeez, you meanie.
+「もう終わり？　こんないいところで……もぉ、いじわる」=“Are we stopping there? Things were just getting good too... jeez, you meanie.”

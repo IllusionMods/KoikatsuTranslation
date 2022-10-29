@@ -1,19 +1,19 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「注文待ってる間はそわそわしちゃうね……そうだ、この前テレビでやってた映画見た？　あのスパイモノの……」=Just waiting for the order to show up makes you pretty restless, doesn't it? ...Right, did you see that movie they aired on TV the other day? That spy movie...
-「見ました見ましたっ。ハチャメチャだけどそれがすごく面白いシリーズですよね」=I did, I did! It had some really insane hooks but, those just made it more interesting, didn't they?
-「そうそう、俺も好きなんだよね」=They did, I love that sort of stuff too.
-「でも……あの映画を見てるとちょっとだけ羨ましいなって思うんですよね」=But... watching that sort of movie makes you just a tad bit jealous, doesn't it?
-「羨ましい？」=Jealous?
-「あの主人公って、どれだけミスしてもそれが良い方に向かったり、挽回できたりするじゃないですか」=No matter how many times the protagonist messed up, either they always turned out well, or he could fix them one way or another.
-「そんなの私には到底無理だなって思っちゃうんですよね……」=They just make me think about how I could never get out of problems that easily...
-「私が主人公だったら、ミスを挽回しようとしてもすぐつまずいて、映画が１０分も経たずに終わるんだろうな、って……」=about how if I were the protagonist, even if I tried to fix my mistakes, I'd just end up tripping up and making things worse. The movie wouldn't even last ten minutes...
-「それだと映画にならないなあ」=Wouldn't exactly be a movie that way, yeah.
-「もしも私の人生が映画なら、あの映画とは違ってきっとバッドエンドなんだと思います」=If my life was a movie, I'm sure it would end in a bad end, unlike that spy movie.
-「でもさ、あの映画の主人公でさえ何回も不幸な目にはあってるんだし。[H名]もいつか不幸がチャラになるくらい巻き返せるんじゃない？」=But, you know, even the protagonist in that movie kept getting into one problem after another. Won't your own fate turn around one day, enough to offset all the unhappiness you've suffered so far?
-「そうだったらいいんですけれど……」=Wouldn't that be nice...
-「ひょっとすると[H名]は映画の主人公みたいに、これから巻き返してハッピーエンドに近づく頃合いだったりするかもよ」=You never know, just like in the movies, your life might have already turned around, and you might be approaching your own happy ending instead.
-「私の人生が本当にあなたの言う通りになってくれたら……そのときは私のこれまでも、そう悪くないものだったと思えるかもしれないですね」=If my life really does go like you say it might... maybe my life upto this point wouldn't seem so bad in hindsight afterall.
-「まあ何にせよあの映画は面白いし、今度一緒に続編見ようよ」=Well, at any rate, that movie was interesting to say the least, so let's go watch the sequel together sometime.
-「はい。是非一緒に」=Yes. I'd love to.
+「注文待ってる間はそわそわしちゃうね……そうだ、この前テレビでやってた映画見た？　あのスパイモノの……」=“Just waiting for the order to show up makes you pretty restless, doesn't it? ...Right, did you see that movie they aired on TV the other day? That spy movie...”
+「見ました見ましたっ。ハチャメチャだけどそれがすごく面白いシリーズですよね」=“I did, I did! It had some really insane hooks but, those just made it more interesting, didn't they?”
+「そうそう、俺も好きなんだよね」=“They did, I love that sort of stuff too.”
+「でも……あの映画を見てるとちょっとだけ羨ましいなって思うんですよね」=“But... watching that sort of movie makes you just a tad bit jealous, doesn't it?”
+「羨ましい？」=“Jealous?”
+「あの主人公って、どれだけミスしてもそれが良い方に向かったり、挽回できたりするじゃないですか」=“No matter how many times the protagonist messed up, either they always turned out well, or he could fix them one way or another.”
+「そんなの私には到底無理だなって思っちゃうんですよね……」=“They just make me think about how I could never get out of problems that easily...”
+「私が主人公だったら、ミスを挽回しようとしてもすぐつまずいて、映画が１０分も経たずに終わるんだろうな、って……」=“about how if I were the protagonist, even if I tried to fix my mistakes, I'd just end up tripping up and making things worse. The movie wouldn't even last ten minutes...”
+「それだと映画にならないなあ」=“Wouldn't exactly be a movie that way, yeah.”
+「もしも私の人生が映画なら、あの映画とは違ってきっとバッドエンドなんだと思います」=“If my life was a movie, I'm sure it would end in a bad end, unlike that spy movie.”
+「でもさ、あの映画の主人公でさえ何回も不幸な目にはあってるんだし。[H名]もいつか不幸がチャラになるくらい巻き返せるんじゃない？」=“But, you know, even the protagonist in that movie kept getting into one problem after another. Won't your own fate turn around one day, enough to offset all the unhappiness you've suffered so far?”
+「そうだったらいいんですけれど……」=“Wouldn't that be nice...”
+「ひょっとすると[H名]は映画の主人公みたいに、これから巻き返してハッピーエンドに近づく頃合いだったりするかもよ」=“You never know, just like in the movies, your life might have already turned around, and you might be approaching your own happy ending instead.”
+「私の人生が本当にあなたの言う通りになってくれたら……そのときは私のこれまでも、そう悪くないものだったと思えるかもしれないですね」=“If my life really does go like you say it might... maybe my life upto this point wouldn't seem so bad in hindsight afterall.”
+「まあ何にせよあの映画は面白いし、今度一緒に続編見ようよ」=“Well, at any rate, that movie was interesting to say the least, so let's go watch the sequel together sometime.”
+「はい。是非一緒に」=“Yes. I'd love to.”

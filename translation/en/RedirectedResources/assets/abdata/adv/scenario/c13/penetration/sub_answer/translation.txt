@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「アタシもさんせー。でも、ちゃーんと気持ちよくさせてよね？」=I'm all for it too. But make sure to make us both feel good, okay?
+「アタシもさんせー。でも、ちゃーんと気持ちよくさせてよね？」=“I'm all for it too. But make sure to make us both feel good, okay?”

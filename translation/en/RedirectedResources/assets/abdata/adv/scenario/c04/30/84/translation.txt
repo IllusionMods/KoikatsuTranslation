@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「それで、コイカツ部っていうのは、具体的に何をするのかしら？」=So then, what exactly is it that you do at the Koikatsu club?
-「えっと、恋人たちがどんなことをするのかを調べて、学ぶ部活だよ」=Erhm, researching just what sort of stuff couples actually get up to, and taking lessons from them.
-「なるほど……私には必要なことかもしれないわね」=I see... Might be pretty important to me, that.
-「えっ？　今、なんて……？」=Eh--? What did you just...?
-「ううん、こっちの話よ。じゃあ早速……手でも繋ぎましょうか？」=No, I was mumbling to myself. Well then... how about we try holding hands?
+「それで、コイカツ部っていうのは、具体的に何をするのかしら？」=“So then, what exactly is it that you do at the Koikatsu club?”
+「えっと、恋人たちがどんなことをするのかを調べて、学ぶ部活だよ」=“Erhm, researching just what sort of stuff couples actually get up to, and taking lessons from them.”
+「なるほど……私には必要なことかもしれないわね」=“I see... Might be pretty important to me, that.”
+「えっ？　今、なんて……？」=“Eh--? What did you just...?”
+「ううん、こっちの話よ。じゃあ早速……手でも繋ぎましょうか？」=“No, I was mumbling to myself. Well then... how about we try holding hands?”

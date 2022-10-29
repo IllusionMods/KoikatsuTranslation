@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「なっ、おまえ……本気で言っているのか？」=Wha--, you... Are you being serious with that?
-「本気だよ。本当に好き。[H名]の事、大好きなんだ！」=I am serious. I really do like you. I love you, [H名]!
-「こ、こらっ！　そう連呼するなっ……は、恥ずかしいだろう……」=H-Hey--! Don't shout it out again and again--... I-It's embarrassing...
-「それくらい本気だって伝えたかったんだけど……どうかな？」=I wanted to show you just how serious I was... How is it?
-「フッ、負けたよ。私の負けだ。あぁいいぞ、おまえと恋人に……ンッ、付き合ってやる」=Pfft, I lose. It's my loss. Ah, alright, I'll be your lover and... Nn--, go out with you.
+「なっ、おまえ……本気で言っているのか？」=“Wha--, you... Are you being serious with that?”
+「本気だよ。本当に好き。[H名]の事、大好きなんだ！」=“I am serious. I really do like you. I love you, [H名]!”
+「こ、こらっ！　そう連呼するなっ……は、恥ずかしいだろう……」=“H-Hey--! Don't shout it out again and again--... I-It's embarrassing...”
+「それくらい本気だって伝えたかったんだけど……どうかな？」=“I wanted to show you just how serious I was... How is it?”
+「フッ、負けたよ。私の負けだ。あぁいいぞ、おまえと恋人に……ンッ、付き合ってやる」=“Pfft, I lose. It's my loss. Ah, alright, I'll be your lover and... Nn--, go out with you.”

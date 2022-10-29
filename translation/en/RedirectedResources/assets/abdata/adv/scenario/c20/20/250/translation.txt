@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「座席は……どこも空いてなさそうだね。ちょっと立つことになるけど辛くない？」=Doesn't seem like... there's any seats. We'll have to stand for a while, you okay?
-「少し歩き疲れてますけど、これくらいなら大丈夫ですよ」=I am a bit tired from all the walking, but I can handle this much.
-「もし辛くなったら言ってね。俺が何とかするから」=If you really can't stand anymore, just lemme know, okay? I'll do something.
-「何とかって……どうするんですか？」=Something... just what would you do?
-「こう……おんぶとか、お姫様だっことかして……」=Like... a piggyback ride, or a princess carry...
-「そ、それは恥ずかしすぎるので、遠慮しますね……」=T-That would be way too embarrassing so, I'll pass...
+「座席は……どこも空いてなさそうだね。ちょっと立つことになるけど辛くない？」=“Doesn't seem like... there's any seats. We'll have to stand for a while, you okay?”
+「少し歩き疲れてますけど、これくらいなら大丈夫ですよ」=“I am a bit tired from all the walking, but I can handle this much.”
+「もし辛くなったら言ってね。俺が何とかするから」=“If you really can't stand anymore, just lemme know, okay? I'll do something.”
+「何とかって……どうするんですか？」=“Something... just what would you do?”
+「こう……おんぶとか、お姫様だっことかして……」=“Like... a piggyback ride, or a princess carry...”
+「そ、それは恥ずかしすぎるので、遠慮しますね……」=“T-That would be way too embarrassing so, I'll pass...”

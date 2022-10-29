@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「えぇ、いいわよ。それで、もう準備はできてるの？　ん？　なぜ呆けた顔をしているの？」="Yeah, okay. So, are you ready yet? Hm? Why are you making that stupid face?"
-「いや、こんなにすんなり了承されると思ってなくて……ちょっと心の準備が……」="No, I mean I didn't think you'd agree right away... I wasn't mentally prepared..."
-「フッ、何それ。いいから早くしなさい、愚図は嫌いよ」="Hah, what's that supposed to mean? Anyway hurry up, I hate dullards."
+「えぇ、いいわよ。それで、もう準備はできてるの？　ん？　なぜ呆けた顔をしているの？」=“Yeah, okay. So, are you ready yet? Hm? Why are you making that stupid face?”
+「いや、こんなにすんなり了承されると思ってなくて……ちょっと心の準備が……」=“No, I mean I didn't think you'd agree right away... I wasn't mentally prepared...”
+「フッ、何それ。いいから早くしなさい、愚図は嫌いよ」=“Hah, what's that supposed to mean? Anyway hurry up, I hate dullards.”

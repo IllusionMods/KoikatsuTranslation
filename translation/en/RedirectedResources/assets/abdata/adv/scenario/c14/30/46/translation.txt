@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「ん……まぁ、その……良かったぞ？」=Nn... well, uhm... you were great, you know?
-「ホント？　俺も気持ちよかったよ」=Really? It felt amazing for me too.
-「そうか！　それなら良かった」=I see! Glad to hear that.
+「ん……まぁ、その……良かったぞ？」=“Nn... well, uhm... you were great, you know?”
+「ホント？　俺も気持ちよかったよ」=“Really? It felt amazing for me too.”
+「そうか！　それなら良かった」=“I see! Glad to hear that.”

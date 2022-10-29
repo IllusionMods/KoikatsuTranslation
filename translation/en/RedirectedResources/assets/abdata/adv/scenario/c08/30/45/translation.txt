@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「えへっ、あなたにまた初めてのこと教えてもらっちゃったね♪」=Ehe--, you taught me another new and fun thing♪
+「えへっ、あなたにまた初めてのこと教えてもらっちゃったね♪」=“Ehe--, you taught me another new and fun thing♪”

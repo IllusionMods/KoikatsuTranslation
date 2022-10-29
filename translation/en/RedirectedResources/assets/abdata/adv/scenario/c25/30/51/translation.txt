@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「えっ？　終わり？　調子悪かったの～？」=Eh--? Already over? Not feeling good today~?
+「えっ？　終わり？　調子悪かったの～？」=“Eh--? Already over? Not feeling good today~?”

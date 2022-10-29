@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「わわ、突然のプレゼント！　ありがとう。キミ、私が喜ぶツボをきちんと分かってるのね♪」=Wah! An unexpected present! Thank you! Man, you really know exactly what kind of thing makes me happy, don’t you? ♪
+「わわ、突然のプレゼント！　ありがとう。キミ、私が喜ぶツボをきちんと分かってるのね♪」=“Wah! An unexpected present! Thank you! Man, you really know exactly what kind of thing makes me happy, don’t you? ♪”

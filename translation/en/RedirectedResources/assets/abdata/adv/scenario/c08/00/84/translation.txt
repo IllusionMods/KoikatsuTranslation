@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「コイカツ部ってなにをするの？」=What do you do at the Koikatsu club?
-「え～と……恋人達の事を知るために、恋人達がやる事を実践して勉強するんだ！」=Erhm~... In order to know more about the enigma called a couple, we study them by doing things a couple would get up to!
-「そうなんだぁ。じゃあまず私は、なにをすればいいのかなぁ」=I see. Well then, what should I do?
-「今から俺が横になるから、膝枕を頼む！」=I'mma lie down on my side, so give me a lap pillow, please!
-「うん、わかった。はい、どうぞぉ♪」=Yeah, got it. Alright, go ahead♪
+「コイカツ部ってなにをするの？」=“What do you do at the Koikatsu club?”
+「え～と……恋人達の事を知るために、恋人達がやる事を実践して勉強するんだ！」=“Erhm~... In order to know more about the enigma called a couple, we study them by doing things a couple would get up to!”
+「そうなんだぁ。じゃあまず私は、なにをすればいいのかなぁ」=“I see. Well then, what should I do?”
+「今から俺が横になるから、膝枕を頼む！」=“I'mma lie down on my side, so give me a lap pillow, please!”
+「うん、わかった。はい、どうぞぉ♪」=“Yeah, got it. Alright, go ahead♪”

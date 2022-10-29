@@ -1,24 +1,24 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「んー来て早々だけど、ちょっとお腹空いてきたなぁ」=Mmm we got here only a bit ago but, I'm feeling kinda hungry.
-「そうですね、もうお昼も近いです」=Indeed, it's almost lunchtime too.
-「どこかで食べに行くか……でも、食べてる間に絶対混んでくるよなぁ……」=Shall we go grab bite to eat somewhere... But, it's definitely gonna get way more crowded while we're eating, isn't it...
-「これをどうぞ」=Have this.
-「ん？　サンドイッチ？」=Hmm? A sandwhich?
-「こういう事が想定されましたので、予め用意させて頂きました」=I expected something like this would happen, so I prepared beforehand.
-「これなら、並んでいる間に食事も取れて効率が良いはずだと」=Since it's just a sandwich, it should be pretty easy to eat while lined up, I think that would be pretty efficient.
-「おぉ、流石俺の彼女さんだ……気が利いてくれて助かるなぁ」=Oooh, you're so thoughtful... I'm blessed to have you as my girlfriend.
-「……ドリンクもありますので、並びながら食べてしまいましょう」=...I also brought something to drink so, let's finish it all up while we're waiting in line.
+「んー来て早々だけど、ちょっとお腹空いてきたなぁ」=“Mmm we got here only a bit ago but, I'm feeling kinda hungry.”
+「そうですね、もうお昼も近いです」=“Indeed, it's almost lunchtime too.”
+「どこかで食べに行くか……でも、食べてる間に絶対混んでくるよなぁ……」=“Shall we go grab bite to eat somewhere... But, it's definitely gonna get way more crowded while we're eating, isn't it...”
+「これをどうぞ」=“Have this.”
+「ん？　サンドイッチ？」=“Hmm? A sandwhich?”
+「こういう事が想定されましたので、予め用意させて頂きました」=“I expected something like this would happen, so I prepared beforehand.”
+「これなら、並んでいる間に食事も取れて効率が良いはずだと」=“Since it's just a sandwich, it should be pretty easy to eat while lined up, I think that would be pretty efficient.”
+「おぉ、流石俺の彼女さんだ……気が利いてくれて助かるなぁ」=“Oooh, you're so thoughtful... I'm blessed to have you as my girlfriend.”
+「……ドリンクもありますので、並びながら食べてしまいましょう」=“...I also brought something to drink so, let's finish it all up while we're waiting in line.”
 ………………=.........
-「ん……もぐもぐ、むぐ……うん、おいひい」=Nn... *Chew Chew*, *Munch*... Yeah, tashty.
-「あまりがっつくとこぼれてしまいますよ？」=If you get too messy with it, the sandwich's gonna fall apart, you know?
-「らいじょーぶらいじょーぶ、もぐむぐ♪」=Itsh fine, Itsh fine, *chew chew*♪
-「あ……」=Ah...
-「ん、ぺろ……」=Nn, *Lick*...
+「ん……もぐもぐ、むぐ……うん、おいひい」=“Nn... *Chew Chew*, *Munch*... Yeah, tashty.”
+「あまりがっつくとこぼれてしまいますよ？」=“If you get too messy with it, the sandwich's gonna fall apart, you know?”
+「らいじょーぶらいじょーぶ、もぐむぐ♪」=“Itsh fine, Itsh fine, *chew chew*♪”
+「あ……」=“Ah...”
+「ん、ぺろ……」=“Nn, *Lick*...”
 「むぐっ！？　ん、ごくっ……ちょ、[H名]！？」=*Chew*?! Nn, *Gulp*... Wai--, [H名]!?
-「食べカスが付いていましたので……お互い両手が塞がっている状況では、これが最善だったかと」=You had some scraps on you so... As both of our hands are quite busy at the moment, as you can see, I thought that was the best way.
-「そ、そっか、いきなりでびっくりしたよ……ありがと」=I-I see, it was so out of the blue, I really got surprised... Thanks.
-「いえ。……そろそろ前が見えてきました、早く食べきってしまいましょう」=You're welcome.we're almost at the start of the line, so let's quickly finish the food off.
-「う、うん……」=Y-Yeah...
+「食べカスが付いていましたので……お互い両手が塞がっている状況では、これが最善だったかと」=“You had some scraps on you so... As both of our hands are quite busy at the moment, as you can see, I thought that was the best way.”
+「そ、そっか、いきなりでびっくりしたよ……ありがと」=“I-I see, it was so out of the blue, I really got surprised... Thanks.”
+「いえ。……そろそろ前が見えてきました、早く食べきってしまいましょう」=“You're welcome.we're almost at the start of the line, so let's quickly finish the food off.”
+「う、うん……」=“Y-Yeah...”
 （ああいうのを平然とやってくるからなぁ……あぁ、後ろの人が爆発しろと言わんばかりの目をしている……）=(She really does that sort of thing without even batting an eye... Aah, the people behind us are all making "Go explode, you lovebirds" eyes at us...)

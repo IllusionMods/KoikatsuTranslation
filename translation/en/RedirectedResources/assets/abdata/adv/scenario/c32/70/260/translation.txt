@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「公序良俗に反する、反社会的行為ですね……」=What an anti-social act, completely against public order and morals...
-「……お、怒ってる？」=...A-Are you mad?
-「いいえ、呆れています。でも……まあ、ちょっとは楽しかったです。ちょっとは、ですけど」=Not at all, I'm just exasperated. But... Well, it was a bit fun. Just a bit though.
-「そう、それはよかった……」=I see, that's good then...
+「公序良俗に反する、反社会的行為ですね……」=“What an anti-social act, completely against public order and morals...”
+「……お、怒ってる？」=“...A-Are you mad?”
+「いいえ、呆れています。でも……まあ、ちょっとは楽しかったです。ちょっとは、ですけど」=“Not at all, I'm just exasperated. But... Well, it was a bit fun. Just a bit though.”
+「そう、それはよかった……」=“I see, that's good then...”

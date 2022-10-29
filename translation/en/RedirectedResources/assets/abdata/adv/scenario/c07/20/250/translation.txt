@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「一日がもっと長ければ、もっともっとたくさんお前と遊べるのになー、何で２４時間なんだ」=We'd be able to play around together for a lot longer too, if the day was just a bit longer. Why are there only 24 hours in a day?
-「２４時間じゃ足りない？」=Are 24 hours not enough?
-「全然だね。私はまだまだやりたいこと、たくさんあるからな！」=Not even close. There's absolutely tons of stuff that I still wanna do with you!
-「ははっ、すごい元気だなぁ」=Haha--, aren't you energetic?
+「一日がもっと長ければ、もっともっとたくさんお前と遊べるのになー、何で２４時間なんだ」=“We'd be able to play around together for a lot longer too, if the day was just a bit longer. Why are there only 24 hours in a day?”
+「２４時間じゃ足りない？」=“Are 24 hours not enough?”
+「全然だね。私はまだまだやりたいこと、たくさんあるからな！」=“Not even close. There's absolutely tons of stuff that I still wanna do with you!”
+「ははっ、すごい元気だなぁ」=“Haha--, aren't you energetic?”

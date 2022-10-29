@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「好きなものじゃなかったけど、嬉しいな。ありがとぉ」=It's not something I like all that much, but I'm happy regardless. Thanks.
+「好きなものじゃなかったけど、嬉しいな。ありがとぉ」=“It's not something I like all that much, but I'm happy regardless. Thanks.”

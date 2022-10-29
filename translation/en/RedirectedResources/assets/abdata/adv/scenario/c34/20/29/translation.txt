@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「Ｗｏｎｄｅｒｆｕｌ♡　アナタのコトもう好きデスケド、惚れ直しシマシタ♡」=Wonderful♡ I was already in love with you, but I've fallen for you yet again♡
+「Ｗｏｎｄｅｒｆｕｌ♡　アナタのコトもう好きデスケド、惚れ直しシマシタ♡」=“Wonderful♡ I was already in love with you, but I've fallen for you yet again♡”

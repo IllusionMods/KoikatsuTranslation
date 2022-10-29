@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「え……ほ、本当ですか？　何でしょう……」=Eh... R-Really? What is it...
+「え……ほ、本当ですか？　何でしょう……」=“Eh... R-Really? What is it...”

@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「あ……もう終わりなの？　疲れてるのかしら……？　それとも……まさか浮気っ……なーんて♪　男の子は女子にそんなこと考えさせちゃダメよ？　次は頑張ってくれると嬉しいな」=Ah... Is it over already? Are you tired...? Or maybe... Are you cheating...? Just kidding ♪ But, guys shouldn't make girls have those kinds of thoughts, alright? If you could hold on for a bit longer next time, I'd be really happy.
+「あ……もう終わりなの？　疲れてるのかしら……？　それとも……まさか浮気っ……なーんて♪　男の子は女子にそんなこと考えさせちゃダメよ？　次は頑張ってくれると嬉しいな」=“Ah... Is it over already? Are you tired...? Or maybe... Are you cheating...? Just kidding ♪ But, guys shouldn't make girls have those kinds of thoughts, alright? If you could hold on for a bit longer next time, I'd be really happy.”

@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「終わりで良いのですか？　いえ、あなたが満足したと仰るなら良いのですけれど……」=Are you sure you want to stop there? No, if you feel satisfied with just that then it's fine...
+「終わりで良いのですか？　いえ、あなたが満足したと仰るなら良いのですけれど……」=“Are you sure you want to stop there? No, if you feel satisfied with just that then it's fine...”

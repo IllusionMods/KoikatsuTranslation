@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「ど、どうして私の欲しい物が分かったの？　うれしい！　私達……以心伝心だね」=J-Just how'd you know what I wanted? I'm really happy! We're really... one, with our hearts, aren't we?
+「ど、どうして私の欲しい物が分かったの？　うれしい！　私達……以心伝心だね」=“J-Just how'd you know what I wanted? I'm really happy! We're really... one, with our hearts, aren't we?”

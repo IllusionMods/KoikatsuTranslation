@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-（ふぅ、もうすぐ駅か……うん、今日のデートも良い思い出が作れたな）=Fuu, almost at the station, huh... yeah, made lots of good memories at today's date.)
+（ふぅ、もうすぐ駅か……うん、今日のデートも良い思い出が作れたな）=(Fuu, almost at the station, huh... yeah, made lots of good memories at today's date.)
 （観覧車では、いい雰囲気になれたし、ハナマル満点と言っていいだろう！）=(Got an amazing mood going on the ferris wheel too, wouldn't be overselling myself if I were to call it a perfect success!)
 （……よしっ！　次も、そのまた次も、絶対[H名]を楽しませるデートにしよう！）=(...Alright--! Let's make the next date, and the one after that too, a blast for [H名] too!)

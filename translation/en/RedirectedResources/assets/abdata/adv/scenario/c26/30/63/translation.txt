@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「……ここが、[P]の部屋……」="...This is [P]'s room..."
+「……ここが、[P]の部屋……」=“...This is [P]'s room...”
 「……なんか、嬉しい」=“...Makes me, kinda happy.”
-「[P]、私としたいの？　……うん、いいよ。私も触れ合いたいから……」="[P], do you want to... do it with me? You feel so warm..."
+「[P]、私としたいの？　……うん、いいよ。私も触れ合いたいから……」=“[P], do you want to... do it with me? You feel so warm...”

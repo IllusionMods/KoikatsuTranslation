@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「[P]からプレゼント！？　なんだろうなーワクワクするよ！」=A present from you!? I wonder what it is, I'm getting excited!
+「[P]からプレゼント！？　なんだろうなーワクワクするよ！」=“A present from you!? I wonder what it is, I'm getting excited!”

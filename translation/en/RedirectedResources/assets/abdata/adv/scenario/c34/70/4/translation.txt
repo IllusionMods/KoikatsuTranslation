@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「ＯＫ♪　Ｌｅｔ’ｓ　Ｅｎｇｌｉｓｈ！」=OK♪ Let's English!
-「国語は？」=What about Japanese?
-「ウッ……漢字？　古典？　ドッチも意味不明ヨー……」=Oof... Kanji? Classical Japanese? I understand neither...
-「あははっ、そうなるよね。じゃあ、国語を教えるから英語を教えてもらおうかな」=Ahaha--, I guessed as much. Then, I'll teach you Japanese, and in return you teach me English.
+「ＯＫ♪　Ｌｅｔ’ｓ　Ｅｎｇｌｉｓｈ！」=“OK♪ Let's English!”
+「国語は？」=“What about Japanese?”
+「ウッ……漢字？　古典？　ドッチも意味不明ヨー……」=“Oof... Kanji? Classical Japanese? I understand neither...”
+「あははっ、そうなるよね。じゃあ、国語を教えるから英語を教えてもらおうかな」=“Ahaha--, I guessed as much. Then, I'll teach you Japanese, and in return you teach me English.”

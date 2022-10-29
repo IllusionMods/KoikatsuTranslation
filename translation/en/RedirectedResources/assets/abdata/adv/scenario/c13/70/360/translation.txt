@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「すごい声出しちゃった気がする……うぅ、恥ずかしい……」=I feel like we made a ton of noise... Uuu, so embarrassing...
-「大丈夫聞こえてないよ。じゃあ……その、そろそろ帰ろっか」=It's alright, nobody heard us. Well then... uhm, let's go home.
-「うん……あ、その前に綺麗にしておかないと」=Yeah... Ah, gotta clean up our mess first.
-「あぁ、ありがとう。その間に会計を済ませてくるよ」=Aah, thanks. I'll go settle the bill while you do that.
+「すごい声出しちゃった気がする……うぅ、恥ずかしい……」=“I feel like we made a ton of noise... Uuu, so embarrassing...”
+「大丈夫聞こえてないよ。じゃあ……その、そろそろ帰ろっか」=“It's alright, nobody heard us. Well then... uhm, let's go home.”
+「うん……あ、その前に綺麗にしておかないと」=“Yeah... Ah, gotta clean up our mess first.”
+「あぁ、ありがとう。その間に会計を済ませてくるよ」=“Aah, thanks. I'll go settle the bill while you do that.”

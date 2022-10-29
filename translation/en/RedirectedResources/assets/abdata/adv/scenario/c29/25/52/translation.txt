@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「その……次回は、さらなる快楽に導いてくださると嬉しいです」=Uhm... I'd be really happy if you could make me feel even better next time.
+「その……次回は、さらなる快楽に導いてくださると嬉しいです」=“Uhm... I'd be really happy if you could make me feel even better next time.”

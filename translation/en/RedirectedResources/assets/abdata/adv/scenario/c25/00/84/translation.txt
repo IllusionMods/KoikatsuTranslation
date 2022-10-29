@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「なにしてんの～？　この部活～」=What do you do here? In this club~
-「異性と仲良くなる方法を追及していくって感じかな」=Trying to pin down ways to hit it off with the other sex, and stuff.
-「ふ～ん？　私は一緒にだらけてたらそれでいいと思うな～」=Hmm? Personally, just lazing around together would work pretty well~
-「う～ん、一緒にだらける？」=Mmm, lazing around together?
-「ふたりで～一緒にまったりしてる時間ってそれっぽいかな～なんて～」=Like, you know, spending some time together chilling out and stuff~, would work pretty well, I'd say~
+「なにしてんの～？　この部活～」=“What do you do here? In this club~”
+「異性と仲良くなる方法を追及していくって感じかな」=“Trying to pin down ways to hit it off with the other sex, and stuff.”
+「ふ～ん？　私は一緒にだらけてたらそれでいいと思うな～」=“Hmm? Personally, just lazing around together would work pretty well~”
+「う～ん、一緒にだらける？」=“Mmm, lazing around together?”
+「ふたりで～一緒にまったりしてる時間ってそれっぽいかな～なんて～」=“Like, you know, spending some time together chilling out and stuff~, would work pretty well, I'd say~”

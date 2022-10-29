@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「うん、やろうやろう！　私も頑張らないかんなーって思いよったっちゃん」=Yeah, let's do it! I was in just the mood to get some cramming in myself.
-「良かった。俺もだよ。一人だと集中出来なくて……」=Great. Same here. I just can't seem to concentrate by myself...
-「分かる分かる。何事も仲間が必要やもんね！　それじゃ、一緒に頑張ろう！」=I feel you. It's important to have comrades for anything and everything! Well then, let's work hard together!
+「うん、やろうやろう！　私も頑張らないかんなーって思いよったっちゃん」=“Yeah, let's do it! I was in just the mood to get some cramming in myself.”
+「良かった。俺もだよ。一人だと集中出来なくて……」=“Great. Same here. I just can't seem to concentrate by myself...”
+「分かる分かる。何事も仲間が必要やもんね！　それじゃ、一緒に頑張ろう！」=“I feel you. It's important to have comrades for anything and everything! Well then, let's work hard together!”

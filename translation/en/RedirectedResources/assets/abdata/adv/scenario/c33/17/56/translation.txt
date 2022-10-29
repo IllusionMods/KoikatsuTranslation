@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「……そう、あなたが決めたことなら仕方がないわね」=...I see, If you've decided on that, then it can't be helped.
-「ごめん……」=Sorry...
-「謝らないで。自慢じゃないけど諦めることだけは得意なの。あなたのことは綺麗さっぱり忘れるわ」=Don't apologize. I don't mean to boast, but giving up easily is my one speciality. I'll completely forget about you in no time.
+「……そう、あなたが決めたことなら仕方がないわね」=“...I see, If you've decided on that, then it can't be helped.”
+「ごめん……」=“Sorry...”
+「謝らないで。自慢じゃないけど諦めることだけは得意なの。あなたのことは綺麗さっぱり忘れるわ」=“Don't apologize. I don't mean to boast, but giving up easily is my one speciality. I'll completely forget about you in no time.”
 「……」=“...”
-「やっぱりコイカツ部の部長って大変ね。別れるときまで相手に気を遣って……」=It really must be quite troublesome to be the Koikatsu club president, huh? Having to be mindful of the other party even when breaking up...
-「こんな女にネチネチ言われたり、未練たらしくされるのは嫌でしょ？　だからお別れもカラッとしましょ」=You don't want to be nagged and clung onto by a woman like me, right? That's why, let's cleanly wrap up the breakup as well.
-「それじゃあね、楽しかったわ」=Then, later. It was fun.
+「やっぱりコイカツ部の部長って大変ね。別れるときまで相手に気を遣って……」=“It really must be quite troublesome to be the Koikatsu club president, huh? Having to be mindful of the other party even when breaking up...”
+「こんな女にネチネチ言われたり、未練たらしくされるのは嫌でしょ？　だからお別れもカラッとしましょ」=“You don't want to be nagged and clung onto by a woman like me, right? That's why, let's cleanly wrap up the breakup as well.”
+「それじゃあね、楽しかったわ」=“Then, later. It was fun.”

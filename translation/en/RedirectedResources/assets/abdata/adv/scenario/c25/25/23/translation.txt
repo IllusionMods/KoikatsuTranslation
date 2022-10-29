@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「あの……」=Uhm...
-「これさ……今日の家庭科で作ったんだけど～、よかったらいらない？」=This, you see... I made it in home ec today~, if you'd like, won't you have some?
-「うん、いるよね？　だよね～」=Yeah, you will, right? Of course you will~
+「あの……」=“Uhm...”
+「これさ……今日の家庭科で作ったんだけど～、よかったらいらない？」=“This, you see... I made it in home ec today~, if you'd like, won't you have some?”
+「うん、いるよね？　だよね～」=“Yeah, you will, right? Of course you will~”

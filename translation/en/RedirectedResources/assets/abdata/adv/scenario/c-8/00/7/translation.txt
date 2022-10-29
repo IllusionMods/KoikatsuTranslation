@@ -93,7 +93,7 @@
 「う、うんっ……このみらしさっ……だとっ……思う」=“Y-Yeah... That's right... I think... I hope.”
 「はっ……ふっ……[P名]先輩もっ……す……す……好きっ……ですかっ……？」=“*inhales*... *exhales*... Do you... l-like it too... [P名]-Senpai...?”
 「も、もちろん好きだよっ！？　可愛いと思うっ！」=“O-Of course I do!? I think it's absolutely adorable!”
-「私のっ……ち、小っちゃい胸……？」=」"You like... m-my small chest...?"
+「私のっ……ち、小っちゃい胸……？」=“」"You like... m-my small chest...?”
 「う、うん……小っちゃい胸……」=“Y-Yes... I like your small chest...”
 なにこの罰ゲームみたいな会話！=What kind of conversation is this!
 ちょっとだけ慌てつつ、俺はつい視線を下へ……。=Panicking a bit, my eyes accidentally stared down and...
@@ -163,7 +163,7 @@
 さっきまでだったら恥ずかしくて俯いていたような言葉もストレートに言ってくる。=If it was a few moments before, Konomi wouldn't even say this sort of thing straight to my face.
 それでも多少の照れはあるのか、コスプレ時にしては珍しく頬を染めているのが可愛い。=But maybe even that was a bit too much for her, as I got to see the rare sight of Konomi blushing while still in her cosplay.
 「すごいな。このみ、本当にコスプレの時とそうじゃない時で全然違うんだね」=“Wow, Konomi, you really are a different person when you're cosplaying.”
-「はいです！　なんて言うか……この格好だと勇気が湧いてくるというか……元気になるですよ！」="Yes! How do I put...It's like I get braver in this outfit or like......I get super energetic!:
+「はいです！　なんて言うか……この格好だと勇気が湧いてくるというか……元気になるですよ！」=“Yes! How do I put...It's like I get braver in this outfit or like......I get super energetic!:”
 「元気……」=“Energetic...”
 服装を変えるだけで、そんなに変われるのか？=Can one really change this much just by changing a set of clothes?
 俺自身、まるで経験がないことだけに、ちょっと理解が出来ない。=I've no experiences myself so it's something that I can't quite understand.

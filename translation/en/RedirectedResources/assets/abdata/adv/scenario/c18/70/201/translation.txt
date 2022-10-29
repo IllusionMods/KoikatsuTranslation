@@ -1,23 +1,23 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「うーん、やっぱりデートといったら遊園地だ！」=Mmm, gotta come to one of these for a date!
-「確かに遊園地デートというと、定番かもしれませんが……」=Certainly, amusement park dates are pretty standard fare but...
-「あれ、もしかしてダメだった？」=Erhm, did I mess up and pick something bad?
-「いえ、むしろ憧れではあります……でも、遊園地のメインって絶叫系、って感じじゃないですか？」=No, if anything, it's always been a dream of mine... but, aren't amusement parks all about making you scream and stuff?
-「確かに大体はそうかもね。フワッとなるのが苦手、とか？」=For sure, they are. Don't like that sort of stuff, or something?
-「それ以前に乗り物が故障してしまわないかが心配で……」=Before that, I'm more worried about the rides breaking down than anything else...
-「ベルトが外れてしまわないか、とか考えちゃうと近づけなくって……雰囲気とかは好きなんですけれど」=Thinking about stuff like whether the belt's going to snap or not just gives me cold feet... I love the whole atmosphere though.
-「なるほど……絶叫系は確かに考えだしたら負の連鎖に入っちゃうかもね……じゃあ、コーヒーカップとかどう？」=Makes sense... If you start thinking heavily about the screamy rides, it can certainly result in a spiral of negativity... then, how about the coffee cup rides and such?
-「……確かに危険は低そうですね。はい、コーヒーカップに乗りましょう」=...Certainly, they don't seem all that dangerous. Okay, let's ride a coffee cup.
-「じゃあ、さっそく行こうか」=Then, let's go.
+「うーん、やっぱりデートといったら遊園地だ！」=“Mmm, gotta come to one of these for a date!”
+「確かに遊園地デートというと、定番かもしれませんが……」=“Certainly, amusement park dates are pretty standard fare but...”
+「あれ、もしかしてダメだった？」=“Erhm, did I mess up and pick something bad?”
+「いえ、むしろ憧れではあります……でも、遊園地のメインって絶叫系、って感じじゃないですか？」=“No, if anything, it's always been a dream of mine... but, aren't amusement parks all about making you scream and stuff?”
+「確かに大体はそうかもね。フワッとなるのが苦手、とか？」=“For sure, they are. Don't like that sort of stuff, or something?”
+「それ以前に乗り物が故障してしまわないかが心配で……」=“Before that, I'm more worried about the rides breaking down than anything else...”
+「ベルトが外れてしまわないか、とか考えちゃうと近づけなくって……雰囲気とかは好きなんですけれど」=“Thinking about stuff like whether the belt's going to snap or not just gives me cold feet... I love the whole atmosphere though.”
+「なるほど……絶叫系は確かに考えだしたら負の連鎖に入っちゃうかもね……じゃあ、コーヒーカップとかどう？」=“Makes sense... If you start thinking heavily about the screamy rides, it can certainly result in a spiral of negativity... then, how about the coffee cup rides and such?”
+「……確かに危険は低そうですね。はい、コーヒーカップに乗りましょう」=“...Certainly, they don't seem all that dangerous. Okay, let's ride a coffee cup.”
+「じゃあ、さっそく行こうか」=“Then, let's go.”
 ………………=.........
-「どう？　大丈夫そう？」=How is it? Feel alright?
-「ええ、これなら大丈夫そうです」=Yes, I'm fine with this.
-「よかった。じゃあちょっと回転を足してみようかな？」=I'm glad. Wanna try making it rotate faster then?
-「回転を……おおっ、これは、目が、回りますねぇ～～」=Make it rotate... oooh--, this is making my eyes spin~~
-「ははは、結構面白いでしょ？」=Hahaha, pretty interesting, isn't it?
-「楽しいですねっ、私も回しますよぉ～えいぃっ！」=It's fun--, I'll spin too~ there--!
-「おおっ！？結構回すね、[H名]～～」=Ooh--!? You're spinning a ton, [H名]~~
-「ふぅ～、アレは危なくないですし、楽しいですね」=Fuu~, that ride was pretty fun, wasn't it? It wasn't dangerous at all either.
-「お気に召したようなら、何よりです。さて、次は何に乗ろうかな……」=I'm glad you enjoyed it. Now then, what shall we get on next...
+「どう？　大丈夫そう？」=“How is it? Feel alright?”
+「ええ、これなら大丈夫そうです」=“Yes, I'm fine with this.”
+「よかった。じゃあちょっと回転を足してみようかな？」=“I'm glad. Wanna try making it rotate faster then?”
+「回転を……おおっ、これは、目が、回りますねぇ～～」=“Make it rotate... oooh--, this is making my eyes spin~~”
+「ははは、結構面白いでしょ？」=“Hahaha, pretty interesting, isn't it?”
+「楽しいですねっ、私も回しますよぉ～えいぃっ！」=“It's fun--, I'll spin too~ there--!”
+「おおっ！？結構回すね、[H名]～～」=“Ooh--!? You're spinning a ton, [H名]~~”
+「ふぅ～、アレは危なくないですし、楽しいですね」=“Fuu~, that ride was pretty fun, wasn't it? It wasn't dangerous at all either.”
+「お気に召したようなら、何よりです。さて、次は何に乗ろうかな……」=“I'm glad you enjoyed it. Now then, what shall we get on next...”

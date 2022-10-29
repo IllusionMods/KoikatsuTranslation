@@ -380,7 +380,7 @@
 「昼飯だ……我に供物を！」=“It's lunchtime... time to ask for tribute!”
 「汝との会話は楽しくて止まらぬな……時間がすぐ過ぎる」=“Talking with you is so fun, I wish time would stop... time passes by too quickly...”
 「我の瞳が汝を捕らえておる……クククッ……」=“My evil eye has thee in its sights... kukukuh--...”
-「悪魔の魔法ってどんなの？」=Do demons have some kind of magic powers?
+「悪魔の魔法ってどんなの？」=“Do demons have some kind of magic powers?”
 「クククッ……知りたいか？　汝はすでに魔法にかかっておる……我の虜なのだ」=“Kukukuh--... thou wouldst like to know? Thou should have first hand experience... I have already cast mine on thee, afterall.”
 「そ、それはふ、ふたりで添い寝したら……分かるかも？」=“T-that's... when t-two people sleep together... do you get it?”
 「ずばり！　魔界の今流行りって何？」=“Alright, riddle me this! What's the current trend in the demon realm right now?”
@@ -417,7 +417,7 @@
 「女子でも……ムラムラすることある？」=“Do girls... also get turned on?”
 「そ、それは……あるぞ……我も……」=“T-That's... yes... I as well...”
 「そ、それは……秘密である！　恥ずかしい質問するでない！　ふむぅ」=“T-That's... a secret! Do not ask me such mortifying things! Hmph~”
-「悪魔って性感帯あるの？」=Do demons have sensitive places?
+「悪魔って性感帯あるの？」=“Do demons have sensitive places?”
 「ぬはっ！　な、なんちゅう質問だ！？　あ、あるのはあるのだが……」=“Nhaa! W-what is this question! They do, but...”
 「あ、悪魔はもっとこう……ストイックで純粋なのだ！」=“D-Demons are more... stoic, and pure!”
 「は、恥ずかしい質問だけど、[H]は……自分でしたりする？」=“T-this is an embarassing question, [H]... do you play with yourself?”

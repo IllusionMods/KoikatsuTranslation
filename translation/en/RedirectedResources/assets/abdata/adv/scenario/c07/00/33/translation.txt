@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「その……なんだ、気持ちは嬉しいよ」=Uhm... well, I appreciate the thought.
+「その……なんだ、気持ちは嬉しいよ」=“Uhm... well, I appreciate the thought.”

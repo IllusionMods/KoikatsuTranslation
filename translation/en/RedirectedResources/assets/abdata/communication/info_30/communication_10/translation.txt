@@ -383,7 +383,7 @@
 「今、我の楔が解き放たれた！　もう邪魔するものはない、存分に……いちゃいちゃしようぞ！」=“Now, the seal has been broken! Nothing can stop us, we can freely... chat together!”
 「我の瞳が汝を捕らえておる……クククッ……」=“My evil eye has thee in its sights... kukukuh--...”
 「汝との会話は楽しくて止まらぬな……時間がすぐ過ぎる」=“Talking with you is so fun, I wish time would stop... time passes by too quickly...”
-「悪魔の魔法ってどんなの？」=Do demons have some kind of magic powers?
+「悪魔の魔法ってどんなの？」=“Do demons have some kind of magic powers?”
 「クククッ……知りたいか？　汝はすでに魔法にかかっておる……我の虜なのだ」=“Kukukuh--... thou wouldst like to know? Thou should have first hand experience... I have already cast mine on thee, afterall.”
 「そ、それはふ、ふたりで添い寝したら……分かるかも？」=“T-that's... when t-two people sleep together... do you get it?”
 「ずばり！　魔界の今流行りって何？」=“Alright, riddle me this! What's the current trend in the demon realm right now?”
@@ -420,7 +420,7 @@
 「女子でも……ムラムラすることある？」=“Do girls... also get turned on?”
 「そ、それは……あるぞ……我も……」=“T-That's... yes... I as well...”
 「そ、それは……秘密である！　恥ずかしい質問するでない！　ふむぅ」=“T-That's... a secret! Do not ask me such mortifying things! Hmph~”
-「悪魔って性感帯あるの？」=Do demons have sensitive places?
+「悪魔って性感帯あるの？」=“Do demons have sensitive places?”
 「ぬはっ！　な、なんちゅう質問だ！？　あ、あるのはあるのだが……」=“Nhaa! W-what is this question! They do, but...”
 「あ、悪魔はもっとこう……ストイックで純粋なのだ！」=“D-Demons are more... stoic, and pure!”
 「は、恥ずかしい質問だけど、[H]は……自分でしたりする？」=“T-this is an embarassing question, [H]... do you play with yourself?”
@@ -549,7 +549,7 @@
 「むふふ……我は楽しいぞ……」「楽しいぞ……楽しいぞ……」「た、楽しすぎるぞ！」「ふんふん……」「我は楽しくてハッピーなのだ……」=[Mufufuh... I am having fun...] [Fun... so much fun...] [I-It's too much fun!] [Funfuhn...] [This is so much fun, I am full of joy~]
 「は、恥ずかしいではないか……」「て、照れるぞ……」「こ、こらぁ…恥ずかしいのだ…」「こ、これは照れるのだ……」「ふぇぇっ！　は、ハレンチな！」=[I-Is this not embarrassing...] [I-I am going to blush...] [H-Hey... it's embarrassing...] [T-This is embarrassing...] [Fueeeeh! H-How lewd!]
 「なあなあ……汝……」「汝、ちょっといいか？」「我の話を聞いてくれ……」「そういえばのう……」「汝にひとつ聞いていいか？」=[Hey... listen...] [Do thou havest a moment?] [Listen to what I have to say...] [Reminds me...] [Mind if I ask thee something?]
-「ねえ、[Hあだ名]」=Hey, [Hあだ名].
+「ねえ、[Hあだ名]」=“Hey, [Hあだ名].”
 「ど、どうした……[Pあだ名]。こ、この呼称にはまだ慣れんな……！」=“W-What is the matter... [Pあだ名]? I-It's hard to get used to this...!”
 「……今はそんな気分ではない」=“...I am not in the mood at all.”
 「なあ……[Pあだ名]」=“Hey... [Pあだ名].”

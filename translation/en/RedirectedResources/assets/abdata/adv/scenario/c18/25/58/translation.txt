@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「今日は平穏無事に、楽しい一日に出来るように頑張ります！」=I'll do my best, so that we can have a peaceful and quiet, relaxing and fun day today!
-「まあまあ、そう気負わずに」=Now now, no need to get that worked up.
-「さっきはヒヤッとしたね」=My heart nearly lept out of my chest there.
-「あなたが手を引いてくれたおかげで助かりました……」=You pulled my hand just in time, if not...
+「今日は平穏無事に、楽しい一日に出来るように頑張ります！」=“I'll do my best, so that we can have a peaceful and quiet, relaxing and fun day today!”
+「まあまあ、そう気負わずに」=“Now now, no need to get that worked up.”
+「さっきはヒヤッとしたね」=“My heart nearly lept out of my chest there.”
+「あなたが手を引いてくれたおかげで助かりました……」=“You pulled my hand just in time, if not...”

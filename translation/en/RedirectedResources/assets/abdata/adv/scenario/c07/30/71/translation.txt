@@ -2,6 +2,6 @@
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
 「……」=“...”
-「やけに静かになったな、[H]」=You've become awfully quiet, [H].
-「ああ……少しは真面目にやらないと、本当に怒られちゃうからな」=Yeah... Thought I'd become atleast a little bit serious, before I make you pop a vein.
-「うん。でさ、机の下で足がその、俺の足に乗ってるのは、なぜかな？」=Yeah. So then, uh, why've you got your feet on top of mine, under the desk?
+「やけに静かになったな、[H]」=“You've become awfully quiet, [H].”
+「ああ……少しは真面目にやらないと、本当に怒られちゃうからな」=“Yeah... Thought I'd become atleast a little bit serious, before I make you pop a vein.”
+「うん。でさ、机の下で足がその、俺の足に乗ってるのは、なぜかな？」=“Yeah. So then, uh, why've you got your feet on top of mine, under the desk?”

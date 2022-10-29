@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「ねえキミ、ちょっと話がしたいんだけど」=Hey there, I'd like to have a chat with you.
-「わ、私ですか……？　私なんかと話しても面白くないと思いますけど……」=M-Me...? I don't think it'd be all that interesting to talk with someone like me though...
-「別にいきなり面白い話をしろってワケじゃないよ……普通にキミの事が知りたいだけだから」=It's not like I'm trying to tell you to "Start being funny, right now" or anything... I just want to know more about you, that's all.
-「えっ……ええと、ナンパをするにも相手を選んだ方が良いと思いますよ……？」=Eh--... eerhm, even if you're trying to pick up girls, I think it'd be better to be more prudent with your targets, you know...?
-「……うーん、そういう男に見える……？」=...Mmm, do I really seem like that sort of guy...?
-「い、いえっ！　そういう訳じゃないんですけど……すみません、急に来られたので、慌てちゃって……」=N-Not at all--! That's not it but... I'm sorry, you just came out of nowhere and, I got a bit flustered...
-「ううん、俺は別に気にしてないよ。……それで、話なんだけど……」=It's alright, I really don't mind that sort of stuff. ...So then, about our chat...
+「ねえキミ、ちょっと話がしたいんだけど」=“Hey there, I'd like to have a chat with you.”
+「わ、私ですか……？　私なんかと話しても面白くないと思いますけど……」=“M-Me...? I don't think it'd be all that interesting to talk with someone like me though...”
+「別にいきなり面白い話をしろってワケじゃないよ……普通にキミの事が知りたいだけだから」=“It's not like I'm trying to tell you to "Start being funny, right now" or anything... I just want to know more about you, that's all.”
+「えっ……ええと、ナンパをするにも相手を選んだ方が良いと思いますよ……？」=“Eh--... eerhm, even if you're trying to pick up girls, I think it'd be better to be more prudent with your targets, you know...?”
+「……うーん、そういう男に見える……？」=“...Mmm, do I really seem like that sort of guy...?”
+「い、いえっ！　そういう訳じゃないんですけど……すみません、急に来られたので、慌てちゃって……」=“N-Not at all--! That's not it but... I'm sorry, you just came out of nowhere and, I got a bit flustered...”
+「ううん、俺は別に気にしてないよ。……それで、話なんだけど……」=“It's alright, I really don't mind that sort of stuff. ...So then, about our chat...”

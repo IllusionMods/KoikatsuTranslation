@@ -1,18 +1,18 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「なあ、愛称付けたーい！」=Hey, I want a nickname!
-「急にどうしたの？」=That's a bit out of nowhere. What's up?
-「友達に言われたんだー！　愛称があると、二人の仲がもっと深まるって」=A friend told me! About how we'd get closer together if we gave each other nicknames.
-「愛称か……じゃあちょっと考えてみよっか」=A nickname, huh... let's think of some then.
-「決めた！」=Got it!
-「早っ！」=That was fast--!
-「なーなー、あたしのまだー？」=Hey, hey, did you think of mine yet?
-「ちょっとだけ待って。えーと…………よし、出来たよ……じゃあ、呼び合ってみようか」=Hang on just a sec. Erhm... alright, I've got one... then, let's try calling each other them.
-「おー！　……[Pあだ名]」=Yeah!... [Pあだ名].
-「[Hあだ名]」=[Hあだ名].
-「……確かになんだか、仲が深まった気がするぞ！」=...It really does feel like we've gotten closer, somehow.
-「うん……思ったより効果がありそうだね」=Yeah... way more effective than I thought.
-「なー、また呼んでみてもいいか？」=Hey, mind if we call each other them again sometime?
-「もちろんいいよ」=Of course not, feel free.
-「へへー、いい愛称をゲットだぞ！」=Hehe, I got such a cute nickanme!
+「なあ、愛称付けたーい！」=“Hey, I want a nickname!”
+「急にどうしたの？」=“That's a bit out of nowhere. What's up?”
+「友達に言われたんだー！　愛称があると、二人の仲がもっと深まるって」=“A friend told me! About how we'd get closer together if we gave each other nicknames.”
+「愛称か……じゃあちょっと考えてみよっか」=“A nickname, huh... let's think of some then.”
+「決めた！」=“Got it!”
+「早っ！」=“That was fast--!”
+「なーなー、あたしのまだー？」=“Hey, hey, did you think of mine yet?”
+「ちょっとだけ待って。えーと…………よし、出来たよ……じゃあ、呼び合ってみようか」=“Hang on just a sec. Erhm... alright, I've got one... then, let's try calling each other them.”
+「おー！　……[Pあだ名]」=“Yeah!... [Pあだ名].”
+「[Hあだ名]」=“[Hあだ名].”
+「……確かになんだか、仲が深まった気がするぞ！」=“...It really does feel like we've gotten closer, somehow.”
+「うん……思ったより効果がありそうだね」=“Yeah... way more effective than I thought.”
+「なー、また呼んでみてもいいか？」=“Hey, mind if we call each other them again sometime?”
+「もちろんいいよ」=“Of course not, feel free.”
+「へへー、いい愛称をゲットだぞ！」=“Hehe, I got such a cute nickanme!”

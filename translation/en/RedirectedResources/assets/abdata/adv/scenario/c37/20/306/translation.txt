@@ -1,25 +1,25 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「曲、随分歌いましたね」=We sure sang a lot, didn't we?
-「二人だと順番が回りやすいからね。疲れたりしてない？」=With just the two of us, the turns pass quite quickly, afterall. Are you tired?
-「私は平気です。あなたはどうですか？」=I'm fine. What about you?
-「俺も大丈夫だけど、歌いたい歌がなくなってきたかな」=I'm good too, but I've run out of songs I want to sing to be honest.
-「では帰りますか？」=Then, shall we go home?
-「うーん。どうしようかな」=Hmmm. Indeed, that is the question.
+「曲、随分歌いましたね」=“We sure sang a lot, didn't we?”
+「二人だと順番が回りやすいからね。疲れたりしてない？」=“With just the two of us, the turns pass quite quickly, afterall. Are you tired?”
+「私は平気です。あなたはどうですか？」=“I'm fine. What about you?”
+「俺も大丈夫だけど、歌いたい歌がなくなってきたかな」=“I'm good too, but I've run out of songs I want to sing to be honest.”
+「では帰りますか？」=“Then, shall we go home?”
+「うーん。どうしようかな」=“Hmmm. Indeed, that is the question.”
 CHOICE:『最後までいよう』=『Stay until the end』
 CHOICE:『今日はもう帰ろうか』=『Let's go home for today』
-「まだ終了時間まであるし、少しのんびりしていこっか」=There's still a ways to go until our booked slot is over, so let's just chill for the time being.
-「そうですね……いえ、撤回します、のんびりはしていられません」=Sure, alright... No, I take that back, I won't let you chill out.
-「え、何かあったっけ？」=Eh, something up?
-「貸し切り状態の狭い個室で恋人と二人きり、という時間が決まっているという事です」=We're in this small privately reserved room, just the two of us lovebirds, it's obvious what we're to do in this booked time.
-「あ……あぁ、そういう事ね」=Ah... Aaahh, that kind of thing, huh?
-「……いやらしい女はお嫌いですか？」=...Do you hate dirty girls?
-「そんな事はないよ、むしろ大歓迎だね」=Not at all, if anything, I have a sweet spot for them.
-「ありがとうございます。ココへ来てからずっと待ち望んでいた甲斐がありました」=Thank you very much. It's was worth waiting for this long, I've been looking forward to this ever since we came here.
-「今日はもう帰ろっか。十分楽しんだしね」=Shall we go home for today? We've enjoyed ourselves plenty, I think.
-「ヤリ残した事がないのであれば出ましょうか」=If you have nothing left that you wanted to do, then let's go.
-「うん、歌うもんは歌ったしなー」=Yeah, I've sang all the songs I wanted to sing~
-「……そうですね」=......Indeed.
-「……？　ほら、出るよ？」=.........? Come on, aren't you coming?
-「……はい、只今準備します」=...Yes, give me a moment to get my things.
+「まだ終了時間まであるし、少しのんびりしていこっか」=“There's still a ways to go until our booked slot is over, so let's just chill for the time being.”
+「そうですね……いえ、撤回します、のんびりはしていられません」=“Sure, alright... No, I take that back, I won't let you chill out.”
+「え、何かあったっけ？」=“Eh, something up?”
+「貸し切り状態の狭い個室で恋人と二人きり、という時間が決まっているという事です」=“We're in this small privately reserved room, just the two of us lovebirds, it's obvious what we're to do in this booked time.”
+「あ……あぁ、そういう事ね」=“Ah... Aaahh, that kind of thing, huh?”
+「……いやらしい女はお嫌いですか？」=“...Do you hate dirty girls?”
+「そんな事はないよ、むしろ大歓迎だね」=“Not at all, if anything, I have a sweet spot for them.”
+「ありがとうございます。ココへ来てからずっと待ち望んでいた甲斐がありました」=“Thank you very much. It's was worth waiting for this long, I've been looking forward to this ever since we came here.”
+「今日はもう帰ろっか。十分楽しんだしね」=“Shall we go home for today? We've enjoyed ourselves plenty, I think.”
+「ヤリ残した事がないのであれば出ましょうか」=“If you have nothing left that you wanted to do, then let's go.”
+「うん、歌うもんは歌ったしなー」=“Yeah, I've sang all the songs I wanted to sing~”
+「……そうですね」=“......Indeed.”
+「……？　ほら、出るよ？」=“.........? Come on, aren't you coming?”
+「……はい、只今準備します」=“...Yes, give me a moment to get my things.”

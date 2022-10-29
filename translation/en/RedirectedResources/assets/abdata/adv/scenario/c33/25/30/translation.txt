@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「……何も言ってないのに、私の欲しいものが分かっちゃうのね。もしかしたら、その事実が一番のプレゼントかもしれないわ、ありがと」=... Even though I didn't tell you, you can tell exactly what I want, huh. Knowing that fact alone might be the best present ever. Thanks.
+「……何も言ってないのに、私の欲しいものが分かっちゃうのね。もしかしたら、その事実が一番のプレゼントかもしれないわ、ありがと」=“... Even though I didn't tell you, you can tell exactly what I want, huh. Knowing that fact alone might be the best present ever. Thanks.”

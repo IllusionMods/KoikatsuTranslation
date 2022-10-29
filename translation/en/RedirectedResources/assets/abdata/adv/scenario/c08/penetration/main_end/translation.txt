@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「はぁ、大変だったけど、すっごく楽しかったね♪」=Haa, that was a pain to pull off, but it ended up being a ton of fun♪
+「はぁ、大変だったけど、すっごく楽しかったね♪」=“Haa, that was a pain to pull off, but it ended up being a ton of fun♪”

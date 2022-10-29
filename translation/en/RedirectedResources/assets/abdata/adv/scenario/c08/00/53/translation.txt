@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「あれ？　白いの出てないよ……私の頑張りが足りなかったのかな？」=Huh? Your white stuff hasn't come out yet... Did I not try hard enough?
+「あれ？　白いの出てないよ……私の頑張りが足りなかったのかな？」=“Huh? Your white stuff hasn't come out yet... Did I not try hard enough?”

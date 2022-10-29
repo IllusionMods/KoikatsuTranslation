@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「あなたと一緒にお勉強ね……」=Studying together with you, huh...
-「だめかな？」=Is it no good?
-「ううん、大歓迎。それじゃあ、手とり足とり教えてもらおうかしら」=No, I'm all for it. Then, shall I have you teach me all hands-on?
+「あなたと一緒にお勉強ね……」=“Studying together with you, huh...”
+「だめかな？」=“Is it no good?”
+「ううん、大歓迎。それじゃあ、手とり足とり教えてもらおうかしら」=“No, I'm all for it. Then, shall I have you teach me all hands-on?”

@@ -1,5 +1,5 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「[P]君のしてほしいことなんでもするよ。だってなんでもしてあげたくなっちゃうんだもん」=I'll do anything you want me to do, [P]-kun. I just can't help but want to do stuff for you, afterall.
-「だから、もっとたくさん、色々なことを教えてほしいなぁ♪」=So, I'd love it if you kept teaching me more and more stuff♪
+「[P]君のしてほしいことなんでもするよ。だってなんでもしてあげたくなっちゃうんだもん」=“I'll do anything you want me to do, [P]-kun. I just can't help but want to do stuff for you, afterall.”
+「だから、もっとたくさん、色々なことを教えてほしいなぁ♪」=“So, I'd love it if you kept teaching me more and more stuff♪”

@@ -1,18 +1,18 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「芝生広いね～。シート持ってきてるし、ここで少し休憩しよっか」=So much grass~. We did bring a sheet so, want to take a short break here?
-「いいですね。少し歩き疲れました。ふぅ……」=Sounds great. I was just a bit tired out from walking. Fuu...
-「今日は気持ちのいい天気だね」=Great weather out today, isn't it?
-「はい。だいたいこういうときは雨が降るので、いろいろ備えてたんですが……その必要もなさそうで良かったです」=Yes. Though, since it's always at times like these that it really starts to pour, I prepared a bunch of stuff but... I'm glad, doesn't seem like it was necessary in the end.
-「えっ、いつもそんなことしてたの？」=Eh--, do you always do that?
-「ええ、何が起るか分からないので、前もってその対処を考えてます」=Yes, you never know what's going to happen, so I try to think of countermeasures for everything.
-「……大変だね。でも、そんなことずっと考えてたら疲れない？」=...Must be hard. But, don't you get tired of always having to do that stuff?
-「まあ、少しだけ疲れますね……でも、[P名]さんといるときだけは……」=Well, I do... but, whenever I'm with you, [P名]...
-「ん？　俺といるとどうなるの？」=Nn? What happens when you're with me?
-「そ、その……言葉にすると少し恥ずかしいのですが、そう言ったことなんか忘れて、純粋に楽しめるんです」=Y-You see... it's a bit embarrassing to put it into words but, I can just forget about all that stuff, and genuinely enjoy myself.
+「芝生広いね～。シート持ってきてるし、ここで少し休憩しよっか」=“So much grass~. We did bring a sheet so, want to take a short break here?”
+「いいですね。少し歩き疲れました。ふぅ……」=“Sounds great. I was just a bit tired out from walking. Fuu...”
+「今日は気持ちのいい天気だね」=“Great weather out today, isn't it?”
+「はい。だいたいこういうときは雨が降るので、いろいろ備えてたんですが……その必要もなさそうで良かったです」=“Yes. Though, since it's always at times like these that it really starts to pour, I prepared a bunch of stuff but... I'm glad, doesn't seem like it was necessary in the end.”
+「えっ、いつもそんなことしてたの？」=“Eh--, do you always do that?”
+「ええ、何が起るか分からないので、前もってその対処を考えてます」=“Yes, you never know what's going to happen, so I try to think of countermeasures for everything.”
+「……大変だね。でも、そんなことずっと考えてたら疲れない？」=“...Must be hard. But, don't you get tired of always having to do that stuff?”
+「まあ、少しだけ疲れますね……でも、[P名]さんといるときだけは……」=“Well, I do... but, whenever I'm with you, [P名]...”
+「ん？　俺といるとどうなるの？」=“Nn? What happens when you're with me?”
+「そ、その……言葉にすると少し恥ずかしいのですが、そう言ったことなんか忘れて、純粋に楽しめるんです」=“Y-You see... it's a bit embarrassing to put it into words but, I can just forget about all that stuff, and genuinely enjoy myself.”
 「……」=“...”
-「え、あっ、ごめんなさい。急にこんなこと言われても……困りますよね？」=Eh, ah--, I'm sorry. Being told something like this... it's just bothersome, isn't it?
-「あ、ごめん。すっごく嬉しいこと言ってくれたから、つい固まっちゃった。」=Ah, sorry. You just kinda overloaded me with joy there for a second, I didn't know what to say.
-「その、なんて言うか……ありがとう」=Uhm, how do I say this... thanks.
-「えっ、その、お礼を言うのは私の方でっ！？　こちらこそありがとうございますっ！！」=Eh--, uhm, I'm the one who should be saying that though--!? Thank you very much--!!
+「え、あっ、ごめんなさい。急にこんなこと言われても……困りますよね？」=“Eh, ah--, I'm sorry. Being told something like this... it's just bothersome, isn't it?”
+「あ、ごめん。すっごく嬉しいこと言ってくれたから、つい固まっちゃった。」=“Ah, sorry. You just kinda overloaded me with joy there for a second, I didn't know what to say.”
+「その、なんて言うか……ありがとう」=“Uhm, how do I say this... thanks.”
+「えっ、その、お礼を言うのは私の方でっ！？　こちらこそありがとうございますっ！！」=“Eh--, uhm, I'm the one who should be saying that though--!? Thank you very much--!!”

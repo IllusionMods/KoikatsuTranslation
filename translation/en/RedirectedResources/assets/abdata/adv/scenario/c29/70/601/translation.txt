@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「なるほど。中はこのようになっているのですね」=I see. So this is what it looks like on the inside, huh?
-「びっくりした？」=Surprised?
-「あ、当たり前です。普通は来ることがありませんし……」=O-Of course. It's not like I've ever come here before...
+「なるほど。中はこのようになっているのですね」=“I see. So this is what it looks like on the inside, huh?”
+「びっくりした？」=“Surprised?”
+「あ、当たり前です。普通は来ることがありませんし……」=“O-Of course. It's not like I've ever come here before...”
 （でも、俺とは来てくれたんだよね）=(But, you did come here today with me.)
-「[H名]、早速だけどいいかな。もう我慢できなくて」=Sorry for rushing into it, [H名], is it alright? I can't hold it in anymore.
-「ど、どうぞ……」=G-Go ahead...
+「[H名]、早速だけどいいかな。もう我慢できなくて」=“Sorry for rushing into it, [H名], is it alright? I can't hold it in anymore.”
+「ど、どうぞ……」=“G-Go ahead...”

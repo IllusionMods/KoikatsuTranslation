@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「こ、これを……？　き、気持ちはうれしいんだけど……これはちょっと……ね」=T-This...? I-I appreciate the thought but uh... this is a bit... ya know.
+「こ、これを……？　き、気持ちはうれしいんだけど……これはちょっと……ね」=“T-This...? I-I appreciate the thought but uh... this is a bit... ya know.”

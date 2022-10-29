@@ -1,5 +1,5 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「お邪魔致します。……なるほど、もう準備は万端だと」=I'll be intruding.I see, you're already all ready to go.
-「そのベッドメイクを見ればわかります。ふふっ……仕方ありませんね」=I can tell from how you've made that bed. Fufu--... It can't be helped I suppose.
+「お邪魔致します。……なるほど、もう準備は万端だと」=“I'll be intruding.I see, you're already all ready to go.”
+「そのベッドメイクを見ればわかります。ふふっ……仕方ありませんね」=“I can tell from how you've made that bed. Fufu--... It can't be helped I suppose.”

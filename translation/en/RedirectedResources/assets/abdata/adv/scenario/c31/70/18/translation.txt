@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「ん、おはよう。なんだ眠そうだな、もっと背筋を伸ばせ」=Mm, Morning. Doesn't seem like you're fully awake yet, straighten your back out.
+「ん、おはよう。なんだ眠そうだな、もっと背筋を伸ばせ」=“Mm, Morning. Doesn't seem like you're fully awake yet, straighten your back out.”

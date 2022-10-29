@@ -2,14 +2,14 @@
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
 モブ=Mob
-「すみませーん！　少しお時間よろしいでしょうか？」=Excuse me! Can you spare a minute?
-「あっ、はい。何ですか？」=Ah, yes. What is it?
-「ありがとうございます！　私、この近くの結婚式場に勤めているウェディングプランナーの玉城と申します！」=Thank you very much! My name is Tamaki, and I'm a wedding planner working at the nearby wedding hall!
-「う、ウェディングプランナー？　どうして、そんな人が俺たちに声を……？」=A wedding planner? What did you need with us...?
-「現在、私どもの式場にてブライダルフェアを行っておりまして、模擬挙式のモデルをお願いできる方を探していたのですが……」=Right now, at our hall, there's currently a Bridal Fair being held. So I have been out searching for couples who could model for us in a mock wedding ceremony.
-「もしかして、それを私達に？」=Could it be, you think we'd be right for the part?
-「はい！　すごくお似合いで素敵なカップルさんでしたので、是非にと声をかけさせていただきました！　いかがでしょうか？」=Yes! You guys look like a great couple that gets along really well, I just had to call out to you. How about it?
-「素敵なカップルさんだって！　はは、そこまで言われちゃ断れないよね？」=She said that we're a great couple! Haha, if you say that, we can't say no, can we?
-「もう、調子がいいんだから……でも、キミがいいなら、私も付いていくわ」=Geez, we had a good mood going... Well, it's fine, if you want to do it, then I'll tag along.
-「よし！　じゃあ行こう！　というわけで、俺達でよければ、よろしくお願いします！」=Alright! Let's go! Then, if you're fine with us, then we'll leave it up to you!
-「ありがとうございます！　それでは、さっそく式場までご案内いたしますね！」=Thank you very much! Then, I'll take you both to the wedding hall!
+「すみませーん！　少しお時間よろしいでしょうか？」=“Excuse me! Can you spare a minute?”
+「あっ、はい。何ですか？」=“Ah, yes. What is it?”
+「ありがとうございます！　私、この近くの結婚式場に勤めているウェディングプランナーの玉城と申します！」=“Thank you very much! My name is Tamaki, and I'm a wedding planner working at the nearby wedding hall!”
+「う、ウェディングプランナー？　どうして、そんな人が俺たちに声を……？」=“A wedding planner? What did you need with us...?”
+「現在、私どもの式場にてブライダルフェアを行っておりまして、模擬挙式のモデルをお願いできる方を探していたのですが……」=“Right now, at our hall, there's currently a Bridal Fair being held. So I have been out searching for couples who could model for us in a mock wedding ceremony.”
+「もしかして、それを私達に？」=“Could it be, you think we'd be right for the part?”
+「はい！　すごくお似合いで素敵なカップルさんでしたので、是非にと声をかけさせていただきました！　いかがでしょうか？」=“Yes! You guys look like a great couple that gets along really well, I just had to call out to you. How about it?”
+「素敵なカップルさんだって！　はは、そこまで言われちゃ断れないよね？」=“She said that we're a great couple! Haha, if you say that, we can't say no, can we?”
+「もう、調子がいいんだから……でも、キミがいいなら、私も付いていくわ」=“Geez, we had a good mood going... Well, it's fine, if you want to do it, then I'll tag along.”
+「よし！　じゃあ行こう！　というわけで、俺達でよければ、よろしくお願いします！」=“Alright! Let's go! Then, if you're fine with us, then we'll leave it up to you!”
+「ありがとうございます！　それでは、さっそく式場までご案内いたしますね！」=“Thank you very much! Then, I'll take you both to the wedding hall!”

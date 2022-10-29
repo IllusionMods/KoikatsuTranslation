@@ -1,20 +1,20 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「っと。さて次、[H名]は何を歌う？」=So then, what are you gonna sing, [H]?
-「私、もう知ってる歌はほとんど歌ってるの。あとはあなたがずっとマイク持っていていいよ」=I've already sung most of the songs I knew. You can keep holding onto the mic for the rest.
-「あなたの歌に耳を傾けるの、好きだから」=I love listening to you sing, afterall.
-「うーん……」=Mmm...
+「っと。さて次、[H名]は何を歌う？」=“So then, what are you gonna sing, [H]?”
+「私、もう知ってる歌はほとんど歌ってるの。あとはあなたがずっとマイク持っていていいよ」=“I've already sung most of the songs I knew. You can keep holding onto the mic for the rest.”
+「あなたの歌に耳を傾けるの、好きだから」=“I love listening to you sing, afterall.”
+「うーん……」=“Mmm...”
 CHOICE:『二人で歌おう』=Let's sing together.
 CHOICE:『帰ろうか』=Let's go home.
-「じゃあ、二人で歌える歌を歌おうよ」=Then, let's sing a song we can both sing together.
-「デュエット曲のこと？　私、あんまり知らないけど……」=You mean a duet? I don't really know many songs like that...
-「そうかな？　俺と[H名]とじゃないと歌えない歌があるじゃない」=You think so? There's a song that only the two of us can sing together, no?
-「それって……た、確かにあの歌はそう、だね……」=That's... t-that song would be, that, wouldn't it...
-「でしょ？　[H名]の歌声……聴かせてほしいな」=See? You remember it. I'd love to... hear your voice, [H].
-「うん……あなにだけ、届けるから……優しくリードしてね？」=Okay... you're the only one, it'll reach to so... lead me gently, okay?
-「流石に一人で歌い続けると喉が潰れちゃうし、[H名]が歌わないなら帰ろっか」=Singing for the rest of the slot by myself really would kill my throat, if you've had enough then let's go home.
-「うん。今日はいっぱいあなたの歌を聴けて、幸せだった……」=Okay. I'm really happy, I got to hear you sing so much today...
-「ははは、嬉しいけど俺の歌なんて大したものじゃないでしょ」=Hahaha, my singing really isn't much to write home about, not that I'm not happy about the compliment.
-「大好きな人の歌だもの、そんなことないわ」=It's the singing of the person I love so much, so really, that's not true.
+「じゃあ、二人で歌える歌を歌おうよ」=“Then, let's sing a song we can both sing together.”
+「デュエット曲のこと？　私、あんまり知らないけど……」=“You mean a duet? I don't really know many songs like that...”
+「そうかな？　俺と[H名]とじゃないと歌えない歌があるじゃない」=“You think so? There's a song that only the two of us can sing together, no?”
+「それって……た、確かにあの歌はそう、だね……」=“That's... t-that song would be, that, wouldn't it...”
+「でしょ？　[H名]の歌声……聴かせてほしいな」=“See? You remember it. I'd love to... hear your voice, [H].”
+「うん……あなにだけ、届けるから……優しくリードしてね？」=“Okay... you're the only one, it'll reach to so... lead me gently, okay?”
+「流石に一人で歌い続けると喉が潰れちゃうし、[H名]が歌わないなら帰ろっか」=“Singing for the rest of the slot by myself really would kill my throat, if you've had enough then let's go home.”
+「うん。今日はいっぱいあなたの歌を聴けて、幸せだった……」=“Okay. I'm really happy, I got to hear you sing so much today...”
+「ははは、嬉しいけど俺の歌なんて大したものじゃないでしょ」=“Hahaha, my singing really isn't much to write home about, not that I'm not happy about the compliment.”
+「大好きな人の歌だもの、そんなことないわ」=“It's the singing of the person I love so much, so really, that's not true.”
 （そう言われると照れくさいな……）=(Man, she's gonna make me blush...)

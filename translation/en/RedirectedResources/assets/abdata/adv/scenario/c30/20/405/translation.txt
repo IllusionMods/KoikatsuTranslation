@@ -1,24 +1,24 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「[H名]のハンバーグ、焼き立てで美味しそうだね」=[H名], your hamburger steak sure looks fresh and delicious.
-「うん、お肉がまだジュージューいってて、いい匂いがするわ」=Yeah, the meat looks pretty juicy, and it smells great too.
-「火傷に気を付けてね。俺、そういうの食べると、いつも口の中火傷しちゃうから」=Be careful not to burn yourself. Whenever I eat something like this, I always end up burning my mouth.
-「あら、焦って食べるからよ。食べ物は逃げたりしないんだから、ゆっくり食べた方がいいのよ」=Oh, that's because you always eat in a rush. Your food isn't going to get up and run away, so it's best to take it slow and savour it.
-「わかってるんだけどね。なんか美味しいと一気に食べたくなっちゃって」=I know that, but I end up gobbling it down when it's so delicious.
-「ふふ、男の子って感じね……じゃあ、私がふーふーしてあげるから、焼き立てを食べてみる？」=Fufu, you sure are a guy... Then, how about I blow on it for you? Wanna try it like that?
-「いいの？　はは、なんかおねだりしちゃったみたいで、恥ずかしいな……」=Is that okay? Haha, that might look like I'm asking you to do it, that's embarrassing...
-「みたいじゃなくて、キミの目はおねだりしてたわよ？　気付いてなかったの？」=It doesn't look like it, but aren't your eyes begging for it? You didn't notice?
-「ははは……無意識でした……」=Hahaha... I must have done it unconsciously...
-「ふーふー、うん、そろそろいいかしら」=Fu--fu-- Yup, now should be okay.
-「ほら、あーんして」=Here, say aaahhnnnn.
-「あ、待って……もうちょっとふーふーして欲しいかな……」=Ah, wait... I want you to blow on it a bit more...
-「ん？　もう大丈夫よ？　一口で食べたとしても、火傷はしないわ」=Hm? Isn't this fine? If you take a bite now, you won't get burned.
-「いや、そうじゃなくて……ふーふーしてる[H名]が……可愛かったから……」=No, that's not the point... When you were blowing on it.. I thought you looked really cute, [H名]...
-「えっ、それは……うぅ、お姉さんをからかわないのっ！」=Eh, that's... Uuuu, Don't tease your onee-san!
-「ほら、早く食べちゃいなさいっ」=Here, eat it quickly.
+「[H名]のハンバーグ、焼き立てで美味しそうだね」=“[H名], your hamburger steak sure looks fresh and delicious.”
+「うん、お肉がまだジュージューいってて、いい匂いがするわ」=“Yeah, the meat looks pretty juicy, and it smells great too.”
+「火傷に気を付けてね。俺、そういうの食べると、いつも口の中火傷しちゃうから」=“Be careful not to burn yourself. Whenever I eat something like this, I always end up burning my mouth.”
+「あら、焦って食べるからよ。食べ物は逃げたりしないんだから、ゆっくり食べた方がいいのよ」=“Oh, that's because you always eat in a rush. Your food isn't going to get up and run away, so it's best to take it slow and savour it.”
+「わかってるんだけどね。なんか美味しいと一気に食べたくなっちゃって」=“I know that, but I end up gobbling it down when it's so delicious.”
+「ふふ、男の子って感じね……じゃあ、私がふーふーしてあげるから、焼き立てを食べてみる？」=“Fufu, you sure are a guy... Then, how about I blow on it for you? Wanna try it like that?”
+「いいの？　はは、なんかおねだりしちゃったみたいで、恥ずかしいな……」=“Is that okay? Haha, that might look like I'm asking you to do it, that's embarrassing...”
+「みたいじゃなくて、キミの目はおねだりしてたわよ？　気付いてなかったの？」=“It doesn't look like it, but aren't your eyes begging for it? You didn't notice?”
+「ははは……無意識でした……」=“Hahaha... I must have done it unconsciously...”
+「ふーふー、うん、そろそろいいかしら」=“Fu--fu-- Yup, now should be okay.”
+「ほら、あーんして」=“Here, say aaahhnnnn.”
+「あ、待って……もうちょっとふーふーして欲しいかな……」=“Ah, wait... I want you to blow on it a bit more...”
+「ん？　もう大丈夫よ？　一口で食べたとしても、火傷はしないわ」=“Hm? Isn't this fine? If you take a bite now, you won't get burned.”
+「いや、そうじゃなくて……ふーふーしてる[H名]が……可愛かったから……」=“No, that's not the point... When you were blowing on it.. I thought you looked really cute, [H名]...”
+「えっ、それは……うぅ、お姉さんをからかわないのっ！」=“Eh, that's... Uuuu, Don't tease your onee-san!”
+「ほら、早く食べちゃいなさいっ」=“Here, eat it quickly.”
 「あむっ、あぐっ！」=*Munch* *Munch*!
 「んむっ……食べたっ！　もう食べたからっ！　フォーク引いてっ！」=*Gulp*... I ate it! I already ate it! So please put away the fork!
-「ぁはは……ごめんなさい。でも、キミがいけないのよ？　お姉さんのこと、いきなり可愛いなんて言うから……」=Ahaha... I'm sorry. But, you musn't do that, okay? Calling your onee-san cute all of a sudden...
-「う、うん……今度からは、言うタイミングを気を付けるよ……フォーク、ちょっと刺さったし……」=Y-yeah... Next time, I'll try to keep the timing in mind... I think I got pierced a bit by the fork...
-「えぇっ、ほんとに？　あぁ、ちょっと見せて？　血とか出てない？　うぅ、やっちゃったわ……」=Eeh, really? Aahh, let me have a look. Is any blood coming out? Uuuu, now I've done it...
+「ぁはは……ごめんなさい。でも、キミがいけないのよ？　お姉さんのこと、いきなり可愛いなんて言うから……」=“Ahaha... I'm sorry. But, you musn't do that, okay? Calling your onee-san cute all of a sudden...”
+「う、うん……今度からは、言うタイミングを気を付けるよ……フォーク、ちょっと刺さったし……」=“Y-yeah... Next time, I'll try to keep the timing in mind... I think I got pierced a bit by the fork...”
+「えぇっ、ほんとに？　あぁ、ちょっと見せて？　血とか出てない？　うぅ、やっちゃったわ……」=“Eeh, really? Aahh, let me have a look. Is any blood coming out? Uuuu, now I've done it...”

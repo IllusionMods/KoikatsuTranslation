@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「ほぉ、今日はきちんと起きれたようだな。おはよう」=Hoh, looks like you got up properly today. Morning.
-「おはよ。そんな事言うなら、毎朝起こしに来てくれてもいいんだよ？」=Morning. You say that but, I don't mind if you come wake me up every morning, you know?
-「ふむ、家から教室まで一緒という事か……そうだな、考えておいてやる」=Hmm, we'll be walking from home to class together if I do that, huh... Yeah, I'll think about it.
+「ほぉ、今日はきちんと起きれたようだな。おはよう」=“Hoh, looks like you got up properly today. Morning.”
+「おはよ。そんな事言うなら、毎朝起こしに来てくれてもいいんだよ？」=“Morning. You say that but, I don't mind if you come wake me up every morning, you know?”
+「ふむ、家から教室まで一緒という事か……そうだな、考えておいてやる」=“Hmm, we'll be walking from home to class together if I do that, huh... Yeah, I'll think about it.”

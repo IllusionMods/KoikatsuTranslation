@@ -1,24 +1,24 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「Ｗｏｗ♪　ココがカラオケｂｏｘ！　本当に個室なんダネ♪」=Wow♪ So this is a karaoke box! It really is a private room, huh?♪
-「あ、そういえば、カラオケボックスってアジアの文化らしいよね」=Ah, now that you mention it, karaoke boxes are really only found in Asian countries, huh?
-「Ｙｅｓ♪　ワタシの国デハ、ｓｔａｇｅで歌うヨ♪　今日は、イッパイ歌ってイイ？　一曲交代のｍａｎｎｅｒ守るカラ♪」=Yes♪ Where I come from, we sing on stages♪ Can we sing lots today? I'll respect the manners of alternating by turns ♪
+「Ｗｏｗ♪　ココがカラオケｂｏｘ！　本当に個室なんダネ♪」=“Wow♪ So this is a karaoke box! It really is a private room, huh?♪”
+「あ、そういえば、カラオケボックスってアジアの文化らしいよね」=“Ah, now that you mention it, karaoke boxes are really only found in Asian countries, huh?”
+「Ｙｅｓ♪　ワタシの国デハ、ｓｔａｇｅで歌うヨ♪　今日は、イッパイ歌ってイイ？　一曲交代のｍａｎｎｅｒ守るカラ♪」=“Yes♪ Where I come from, we sing on stages♪ Can we sing lots today? I'll respect the manners of alternating by turns ♪”
 （マナーも含めて日本文化を勉強してるんだ。そういうところ、偉いよなぁ……）=(She's learning Japanese culture alongside the proper manners. That side of her, it's so admirable...)
-「ＯＫ！　じゃあ、一曲目は[H名]に歌ってもらおうかな！」=OK! Then, maybe you should take the first song, [H名]!
-「Ｙｅａｈ♡　じゃあ、ｔｒｅｎｄ　ｓｏｎｇ、入れちゃうヨ～♪」=Yeah♡ Then, I'll put in a trendy song~♪
+「ＯＫ！　じゃあ、一曲目は[H名]に歌ってもらおうかな！」=“OK! Then, maybe you should take the first song, [H名]!”
+「Ｙｅａｈ♡　じゃあ、ｔｒｅｎｄ　ｓｏｎｇ、入れちゃうヨ～♪」=“Yeah♡ Then, I'll put in a trendy song~♪”
 （あ、この曲、やっぱり流行曲なんだ）=(Ah, this song, it really is a popular song)
 『小さな手の平 掴める物は きっと 限られているけど～♪　胸の中 溢れ出す言葉にも 希望乗せて そっと 海にこぎ出す～んだ～♪』=『This small hand, the things it can grasp, they are surely limited, but~♪ I'm going to carry my hopes, on the words overflowing in my chest, and softly sail out to see~♪』
 （う、うまい……！？　練習したのかな？　英語が喋れなくても洋楽を歌える人がいるけど、そんな感じ？）=(S-So good...!? Did she practice? Is it that sort of a deal, like people who can sing western songs without knowing even a lick of English?)
 ………………=.........
-「Ｗｏｏ－ｈｏｏ♪　トッテモ気持ちイイヨ～♪　次、アナタの番……ｗｈａｔ！？　ドウシタノ！？　顔、真っ赤ダヨ？」=Woo-hoo♪ It feels amazing~♪ It's your turn next... What!? What's the matter!? Your face is really flushed, you know?
-「……いや、日本語が流暢な[H名]って新鮮すぎて、ドキドキしちゃったみたいで……あ、普段ドキドキしないわけじゃないよ？」=...No, it was just way too refreshing to hear you sing in fluent Japanese, [H名], my heart started racing... Ah, not to say that my heart doesn't normally race when I'm with you.
-「Ｄｏｎ’ｔ　ｗｏｒｒｙ♡　分かってるヨ♡　デモ、ワタシの歌でドキドキさせられるナラ……さっきの歌、ｐａｒｏｄｙ　ｓｏｎｇあるノ♡」=Don't worry♡ I understand♡ But, if my singing makes your heart race then... There's a parody of that song I just sang, you know♡
-「パロディソング？」=A parody?
-「エット、ｕｈ、替え歌？　ダネ♡　ワタシが、初めてアナタの手、握った時のココロ、歌にしたノ♡」=Erhm, uh, you know, with swapped lyrics? That's it♡ When I first held your hand, the feelings I felt then, I put them into words and turned them into a song♡
-「え、それ凄く聴いてみたい！　もう俺の番は飛ばしちゃっていいから。うん、同じ歌をもう一回入れればいいんだよね。ポチっとな」=Eh, I'd love to listen to that! Who cares about it being my turn. Yeah, should be fine to just put in that song again one more time. Yeah.
-「Ｏｈ♡　Ｒｕｌｅ違反してモ聴きたいノ？　ＯＫ、チョット、ハズカシケド、ｌｉｓｔｅｎ　ｔｏ　ｍｙ　ｈｅａｒｔ♡」=Oh♡ You want to hear it so bad that you'll even break the rules? Ok, it's a bit embarrassing but, listen to my heart♡
+「Ｗｏｏ－ｈｏｏ♪　トッテモ気持ちイイヨ～♪　次、アナタの番……ｗｈａｔ！？　ドウシタノ！？　顔、真っ赤ダヨ？」=“Woo-hoo♪ It feels amazing~♪ It's your turn next... What!? What's the matter!? Your face is really flushed, you know?”
+「……いや、日本語が流暢な[H名]って新鮮すぎて、ドキドキしちゃったみたいで……あ、普段ドキドキしないわけじゃないよ？」=“...No, it was just way too refreshing to hear you sing in fluent Japanese, [H名], my heart started racing... Ah, not to say that my heart doesn't normally race when I'm with you.”
+「Ｄｏｎ’ｔ　ｗｏｒｒｙ♡　分かってるヨ♡　デモ、ワタシの歌でドキドキさせられるナラ……さっきの歌、ｐａｒｏｄｙ　ｓｏｎｇあるノ♡」=“Don't worry♡ I understand♡ But, if my singing makes your heart race then... There's a parody of that song I just sang, you know♡”
+「パロディソング？」=“A parody?”
+「エット、ｕｈ、替え歌？　ダネ♡　ワタシが、初めてアナタの手、握った時のココロ、歌にしたノ♡」=“Erhm, uh, you know, with swapped lyrics? That's it♡ When I first held your hand, the feelings I felt then, I put them into words and turned them into a song♡”
+「え、それ凄く聴いてみたい！　もう俺の番は飛ばしちゃっていいから。うん、同じ歌をもう一回入れればいいんだよね。ポチっとな」=“Eh, I'd love to listen to that! Who cares about it being my turn. Yeah, should be fine to just put in that song again one more time. Yeah.”
+「Ｏｈ♡　Ｒｕｌｅ違反してモ聴きたいノ？　ＯＫ、チョット、ハズカシケド、ｌｉｓｔｅｎ　ｔｏ　ｍｙ　ｈｅａｒｔ♡」=“Oh♡ You want to hear it so bad that you'll even break the rules? Ok, it's a bit embarrassing but, listen to my heart♡”
 『大きな手の平 握った時は ずっと モジモジしたけど～♡　胸の中 踊りだす心にも 勇気もらって ぐっと 君に寄り添う～んだ～♡』=『That big palm, when I grasped it, I was restless the whole time but~♡ I'm going to push on, with my dancing heart to back me up, and snuggle up tight with you~♡』
 （うぉ、これは……[H名]も照れてるけど、俺も相当恥ずかしいな。でも、俺のことを思って作詞してたってことだよね……[H名]の愛を感じる）=(Uwoh, this is... [H名]'s getting pretty shy but, I'm feeling pretty embarrassed myself too. But, she wrote these lyrics while thinking of me, didn't she... I can feel her love.)
-「いやー、フルコーラスで二人のこと歌われると、さすがに照れるね……でも、最高に嬉しかったよ！」=Man, hearing that entire song being about just the two of us, was quite embarrasing... But, it made me really happy!
-「ワタシもいつもと違う汗、イッパイかいちゃったヨ♡　デモ、コンナ言葉の壁の越え方モ、アリだよネ？　コレカラモ、ワタシの歌でキミをドキドキさせたいナ♡」=I sweated up a whole lot too♡ But, this sort of way to cross the language barrier, it's valid too, isn't it? I want to make your heart race even more from now on, with my songs♡
+「いやー、フルコーラスで二人のこと歌われると、さすがに照れるね……でも、最高に嬉しかったよ！」=“Man, hearing that entire song being about just the two of us, was quite embarrasing... But, it made me really happy!”
+「ワタシもいつもと違う汗、イッパイかいちゃったヨ♡　デモ、コンナ言葉の壁の越え方モ、アリだよネ？　コレカラモ、ワタシの歌でキミをドキドキさせたいナ♡」=“I sweated up a whole lot too♡ But, this sort of way to cross the language barrier, it's valid too, isn't it? I want to make your heart race even more from now on, with my songs♡”

@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「二人とも、ありがとう……。またお邪魔しても……いいかな……？」=Thanks, you guys... Would you mind if I... got in your way again later...?
+「二人とも、ありがとう……。またお邪魔しても……いいかな……？」=“Thanks, you guys... Would you mind if I... got in your way again later...?”

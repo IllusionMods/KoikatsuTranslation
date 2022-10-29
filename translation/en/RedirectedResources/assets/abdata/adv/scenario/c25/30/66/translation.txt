@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「そういえばさ、どこか寄り道したい所とかないかな？」=That reminds me, do you really not have a place you wanna stop by on the way?
-「え～めんどくさ～い」=Eh~, that's a pain~
-「そ、そうか……寄り道しない方なんだね」=I-I see... Not the type to stop by at places, are you?
-「んん～……そうかもね～。誰かと一緒に帰ったりもあんまりしないよ～」=Nnn~... might be~. I don't walk home along with someone else all that often either, you know?~
+「そういえばさ、どこか寄り道したい所とかないかな？」=“That reminds me, do you really not have a place you wanna stop by on the way?”
+「え～めんどくさ～い」=“Eh~, that's a pain~”
+「そ、そうか……寄り道しない方なんだね」=“I-I see... Not the type to stop by at places, are you?”
+「んん～……そうかもね～。誰かと一緒に帰ったりもあんまりしないよ～」=“Nnn~... might be~. I don't walk home along with someone else all that often either, you know?~”

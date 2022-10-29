@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「おはようございます。今日もよろしくお願いします」=Good morning. Please take care of me today as well.
+「おはようございます。今日もよろしくお願いします」=“Good morning. Please take care of me today as well.”

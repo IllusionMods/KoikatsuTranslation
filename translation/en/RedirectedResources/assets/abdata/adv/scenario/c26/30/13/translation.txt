@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「……うん、わかった」="...Okay, got it."
-「よかった。俺、楽しくなるように頑張るよ」="That was good. I'll try to be fun."
-「……期待してる」="...I'm counting on it."
+「……うん、わかった」=“...Okay, got it.”
+「よかった。俺、楽しくなるように頑張るよ」=“That was good. I'll try to be fun.”
+「……期待してる」=“...I'm counting on it.”

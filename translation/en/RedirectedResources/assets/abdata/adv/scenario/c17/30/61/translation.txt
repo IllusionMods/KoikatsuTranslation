@@ -12,6 +12,6 @@
 CHOICE:「まだもう少し一緒にいたいな」=“I still want to be together for a little while.”
 //CHOICE:「俺も楽しかったよ、それじゃあね」=
 「まだもう少し一緒にいたいな」=“I still want to be together for a little while.”
-「えっ……も、もう、わがままなんだから。……いいわよ」=「Eh? Y-You're already being so greedy...It's fine though."
+「えっ……も、もう、わがままなんだから。……いいわよ」=“「Eh? Y-You're already being so greedy...It's fine though.”
 「俺も楽しかったよ。それじゃあね」=“I also really enjoyed it. I'll see you later.”
 「あっ……うん、じゃあ、またね」=“Ah...Yes, see you.”

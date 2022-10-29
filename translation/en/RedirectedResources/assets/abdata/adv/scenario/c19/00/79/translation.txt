@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「え、えっと……そんなに美味しい？」=E-Erhm... is it that good?
-「ん？　ああ、すっごい美味いよ。どうかした？」=Nn? Yeah, it's amazing. Why though?
-「あっ、ううん。あまりに美味しそうに食べてるから、気になって……」=Ah--, no, it's nothing. You're just eating it so deliciously, so I just got curious...
+「え、えっと……そんなに美味しい？」=“E-Erhm... is it that good?”
+「ん？　ああ、すっごい美味いよ。どうかした？」=“Nn? Yeah, it's amazing. Why though?”
+「あっ、ううん。あまりに美味しそうに食べてるから、気になって……」=“Ah--, no, it's nothing. You're just eating it so deliciously, so I just got curious...”

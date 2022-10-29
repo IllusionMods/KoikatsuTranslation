@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「夢の終わり……これから現実に帰るんだね……」=The dream's over... we're going back to reality, aren't we...
-「うん……夢みたいな時間って、あっという間だ……」=Yeah... the dreamy time, flew by in no time at all...
-「でも、現実に帰っても[P名]君と一緒なら……。この夢が覚めても平気」=But, if you're going to be with me, even after we return to reality... then I don't mind waking up.
+「夢の終わり……これから現実に帰るんだね……」=“The dream's over... we're going back to reality, aren't we...”
+「うん……夢みたいな時間って、あっという間だ……」=“Yeah... the dreamy time, flew by in no time at all...”
+「でも、現実に帰っても[P名]君と一緒なら……。この夢が覚めても平気」=“But, if you're going to be with me, even after we return to reality... then I don't mind waking up.”

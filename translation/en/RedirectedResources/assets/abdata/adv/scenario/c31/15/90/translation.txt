@@ -1,15 +1,15 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「その、なんだ……親しい間柄になると、愛称で呼び合うものらしいぞ……[Pあだ名]……とか」=Hey, listen... when people get intimate, they call each other by nicknames, you know... like [Pあだ名]... or whatever.
-「えっ！　い、今なんて！　もう一回呼んで！」=Eh--! W-What did you--! Call me that one more time!
-「[Pあだ名]……これでいいか？　少し、気恥ずかしいものがあるな」=[Pあだ名]... Is it good? It's a bit embarrassing.
-「う、うん。新鮮っていうか……呼び方一つで、ここまで変わるものなんだね」=Y-Yeah. It feels fresh, or rather... Just with a different way of calling each other, the feeling changes this much, huh?
-「そうだな……おまえもその……愛称で呼んでくれてもいいんだぞ？」=Yeah... You too... You can call me by a nickname too, you know?
-「わかった。ちょっと待ってね……[Hあだ名]……で、どうかな？」=Got it. Wait a bit... [Hあだ名]... How's that?
-「わ、悪くない。いや、良いと思うぞ。うん……お前が言っていた通り……新鮮な感じだ」=I-It's not bad. No, I think it's nice. Yeah... Just like you said... it feels fresh.
-「だよね。恋人になった時とはまた違った……一つ階段を上った感じ？」=Right? It felt different compared to when we became lovers... Like we climbed another step?
-「おまえにしては冴えた意見だな……あ、普段通り呼んでしまった」=That's quite the apt comment, considering it's you, [P名]... Ah, I slipped.
-「はは、無理に使う必要はないよ。でも、たまにはこうして呼び合うのもいいかもね」=Haha, you don't need to force yourself to use it. But, calling each other like this every once in a while might be nice, don't you think?
-「そうだな……では、もう一度私の事も呼んでくれるか？　今回はそれで最後にしよう」=You're right... then, will you call me by my nickname one more time too? Let's end it with that.
-「うん、いいよ。……[Hあだ名]……あはは、やっぱり照れるね」=Yeah, alright.[Hあだ名]... Ahaha, it really does make me blush.
+「その、なんだ……親しい間柄になると、愛称で呼び合うものらしいぞ……[Pあだ名]……とか」=“Hey, listen... when people get intimate, they call each other by nicknames, you know... like [Pあだ名]... or whatever.”
+「えっ！　い、今なんて！　もう一回呼んで！」=“Eh--! W-What did you--! Call me that one more time!”
+「[Pあだ名]……これでいいか？　少し、気恥ずかしいものがあるな」=“[Pあだ名]... Is it good? It's a bit embarrassing.”
+「う、うん。新鮮っていうか……呼び方一つで、ここまで変わるものなんだね」=“Y-Yeah. It feels fresh, or rather... Just with a different way of calling each other, the feeling changes this much, huh?”
+「そうだな……おまえもその……愛称で呼んでくれてもいいんだぞ？」=“Yeah... You too... You can call me by a nickname too, you know?”
+「わかった。ちょっと待ってね……[Hあだ名]……で、どうかな？」=“Got it. Wait a bit... [Hあだ名]... How's that?”
+「わ、悪くない。いや、良いと思うぞ。うん……お前が言っていた通り……新鮮な感じだ」=“I-It's not bad. No, I think it's nice. Yeah... Just like you said... it feels fresh.”
+「だよね。恋人になった時とはまた違った……一つ階段を上った感じ？」=“Right? It felt different compared to when we became lovers... Like we climbed another step?”
+「おまえにしては冴えた意見だな……あ、普段通り呼んでしまった」=“That's quite the apt comment, considering it's you, [P名]... Ah, I slipped.”
+「はは、無理に使う必要はないよ。でも、たまにはこうして呼び合うのもいいかもね」=“Haha, you don't need to force yourself to use it. But, calling each other like this every once in a while might be nice, don't you think?”
+「そうだな……では、もう一度私の事も呼んでくれるか？　今回はそれで最後にしよう」=“You're right... then, will you call me by my nickname one more time too? Let's end it with that.”
+「うん、いいよ。……[Hあだ名]……あはは、やっぱり照れるね」=“Yeah, alright.[Hあだ名]... Ahaha, it really does make me blush.”

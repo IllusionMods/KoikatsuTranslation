@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「わっ！　ち、ちょっとここは男の人が入っていい場所じゃないよ」=Wah--! T-This isn't a place a boy can enter willy-nilly.
+「わっ！　ち、ちょっとここは男の人が入っていい場所じゃないよ」=“Wah--! T-This isn't a place a boy can enter willy-nilly.”

@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「作ってきたお弁当、美味しかったですか？」=The lunch I made for you, was it tasty?
-「うん、思わずがっついて食べちゃったよ」=Yeah, by the time I came to, it was already in my belly.
-「よかったです、隠し味を入れたのが覿面だったでしょうか？」=I'm glad, could you taste the secret ingredient I put in it?
-「隠し味？　……愛情、とか？」=A secret ingredient?... Like, love?
-「それは入れて当然です、私の場合はもっと……と、これ以上は企業秘密です」=Of course, I put that in too but, there was... no, I can't say more than this, it's a trade secret.
-「え、えっと、何を入れたのかすごく気になるんだけど……」=E-Erhm, now I'm super curious as to exactly what you put in it...
+「作ってきたお弁当、美味しかったですか？」=“The lunch I made for you, was it tasty?”
+「うん、思わずがっついて食べちゃったよ」=“Yeah, by the time I came to, it was already in my belly.”
+「よかったです、隠し味を入れたのが覿面だったでしょうか？」=“I'm glad, could you taste the secret ingredient I put in it?”
+「隠し味？　……愛情、とか？」=“A secret ingredient?... Like, love?”
+「それは入れて当然です、私の場合はもっと……と、これ以上は企業秘密です」=“Of course, I put that in too but, there was... no, I can't say more than this, it's a trade secret.”
+「え、えっと、何を入れたのかすごく気になるんだけど……」=“E-Erhm, now I'm super curious as to exactly what you put in it...”

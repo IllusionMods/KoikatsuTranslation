@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「ありがと～♪　ふふっ、それじゃ早速シましょ♪」=Thank you~ ♪ Fufu, then, let's go ahead and do it ♪
+「ありがと～♪　ふふっ、それじゃ早速シましょ♪」=“Thank you~ ♪ Fufu, then, let's go ahead and do it ♪”

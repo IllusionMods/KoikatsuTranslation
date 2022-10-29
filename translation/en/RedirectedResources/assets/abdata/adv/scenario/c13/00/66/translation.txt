@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「ん？ なんか人だかりができてるな……なんだろ？」=Nn? There's a crowd up ahead... I wonder what's up?
-「あ！ あれこないだできたばっかのクレープ屋じゃん！」=Ah! That's the crepe place that opened just a few days ago!
-「そうなのか、じゃあせっかくだし寄ってくか」=That so? Well then, since we're here anyway, we might as well go take a look.
-「賛成！ あ、それなら……食べさせ合おっか？」=Defo! Ah, in that case... wanna feed each other?
-「っつ！！ お、お願いします！！！」=---!! Y-Yes please!!!
+「ん？ なんか人だかりができてるな……なんだろ？」=“Nn? There's a crowd up ahead... I wonder what's up?”
+「あ！ あれこないだできたばっかのクレープ屋じゃん！」=“Ah! That's the crepe place that opened just a few days ago!”
+「そうなのか、じゃあせっかくだし寄ってくか」=“That so? Well then, since we're here anyway, we might as well go take a look.”
+「賛成！ あ、それなら……食べさせ合おっか？」=“Defo! Ah, in that case... wanna feed each other?”
+「っつ！！ お、お願いします！！！」=“---!! Y-Yes please!!!”

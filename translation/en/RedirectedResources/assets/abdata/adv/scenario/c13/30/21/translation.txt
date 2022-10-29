@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「あっ、いたいた、出されてた宿題でわかんないところがあるから教えてよ！」=Ah--, there you are. There's this real hard problem in the assignment due today that I don't really understand, so help me out!
-「宿題？ そんなのでてたっけ？　まずい……」=Assignment? We had one of those? Damn...
-「え～、キミも～、しかも忘れてたって……仕方ないな、手伝ってあげるからワタシのわからないところは教えてよね」=Eh~, you too~, not to mention you entirely forgot about it... It can't be helped, I'll help you out so help me out here with this problem too.
+「あっ、いたいた、出されてた宿題でわかんないところがあるから教えてよ！」=“Ah--, there you are. There's this real hard problem in the assignment due today that I don't really understand, so help me out!”
+「宿題？ そんなのでてたっけ？　まずい……」=“Assignment? We had one of those? Damn...”
+「え～、キミも～、しかも忘れてたって……仕方ないな、手伝ってあげるからワタシのわからないところは教えてよね」=“Eh~, you too~, not to mention you entirely forgot about it... It can't be helped, I'll help you out so help me out here with this problem too.”

@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「へえ、色々あるんだね」=Hmm, things like that sure happen a lot, don't they.
-「あら、あれって新しい……雑貨屋さんね。行ってみてもいいかしら？」=Oh, look at that... Isn't that the new general store that opened just recently? Wanna go take a look?
-「うん、いいよ」=Sure, let's go.
-「輸入品が多くて素敵なお店だったわね。時々覗いてみたいわ」=Lots of imported items, it sure is a lovely shop. Should take a look from time to time.
+「へえ、色々あるんだね」=“Hmm, things like that sure happen a lot, don't they.”
+「あら、あれって新しい……雑貨屋さんね。行ってみてもいいかしら？」=“Oh, look at that... Isn't that the new general store that opened just recently? Wanna go take a look?”
+「うん、いいよ」=“Sure, let's go.”
+「輸入品が多くて素敵なお店だったわね。時々覗いてみたいわ」=“Lots of imported items, it sure is a lovely shop. Should take a look from time to time.”
 （よかった、喜んでもらえたみたいだ）=(I'm glad, looks like she enjoyed it.)

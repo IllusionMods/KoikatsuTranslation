@@ -1,18 +1,18 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「ちょっとお願いがあるんだけど……」=I've a request...
-「はい、なんでしょうか？」=Yes, what is it?
-「えっとね、愛称で呼んで欲しいんだ」=Erhm, you see, I want you to call me by a nickname.
-「愛称、ですか？　いいですけど……私が付けるんでしょうか？」=A nickname, is it? Sure but... do you want me to pick one for you?
-「あ、それは大丈夫、自分で考えたから。[Pあだ名]っていうんだけど」=Ah, no. I've already thought of one. It's [Pあだ名].
-「え、えっと……それは少し違うような……」=E-Erhm... I don't think that counts as a...
-「自分でもわかってるんだけど、どうしても[H]に呼んでほしいんだ」=I understand that myself but, I really want to hear you say it, [H].
-「……わ、わかりました。……私、やります！」=...I-I understand. ...I'll do it!
-「ありがとう！　[H]の愛称も考えてきたから、ちょっと呼んでみるね」=Thank you! I've thought one for you too, so I'll try saying it, okay?
-「[Hあだ名]」=[Hあだ名].
-「あぅ……その……[Pあだ名]」=Auu... uhm... [Pあだ名].
-「うぅ……キスするよりも恥ずかしいかもです……」=Uuu... this might be more embarrassing than even kissing...
-「あはは……でも可愛かったよ。それに呼んでもらえてすっごく嬉しかった」=Ahaha... but you were adorable. Not to mention, it made me amazingly happy to hear you say it.
-「……すっごく、ですか？　そ、それなら……また、呼んでみても……」=...Amazingly? I-In that case... I don't mind, using it more...
-「本当！？　やった！」=Really!? Yay!
+「ちょっとお願いがあるんだけど……」=“I've a request...”
+「はい、なんでしょうか？」=“Yes, what is it?”
+「えっとね、愛称で呼んで欲しいんだ」=“Erhm, you see, I want you to call me by a nickname.”
+「愛称、ですか？　いいですけど……私が付けるんでしょうか？」=“A nickname, is it? Sure but... do you want me to pick one for you?”
+「あ、それは大丈夫、自分で考えたから。[Pあだ名]っていうんだけど」=“Ah, no. I've already thought of one. It's [Pあだ名].”
+「え、えっと……それは少し違うような……」=“E-Erhm... I don't think that counts as a...”
+「自分でもわかってるんだけど、どうしても[H]に呼んでほしいんだ」=“I understand that myself but, I really want to hear you say it, [H].”
+「……わ、わかりました。……私、やります！」=“...I-I understand. ...I'll do it!”
+「ありがとう！　[H]の愛称も考えてきたから、ちょっと呼んでみるね」=“Thank you! I've thought one for you too, so I'll try saying it, okay?”
+「[Hあだ名]」=“[Hあだ名].”
+「あぅ……その……[Pあだ名]」=“Auu... uhm... [Pあだ名].”
+「うぅ……キスするよりも恥ずかしいかもです……」=“Uuu... this might be more embarrassing than even kissing...”
+「あはは……でも可愛かったよ。それに呼んでもらえてすっごく嬉しかった」=“Ahaha... but you were adorable. Not to mention, it made me amazingly happy to hear you say it.”
+「……すっごく、ですか？　そ、それなら……また、呼んでみても……」=“...Amazingly? I-In that case... I don't mind, using it more...”
+「本当！？　やった！」=“Really!? Yay!”

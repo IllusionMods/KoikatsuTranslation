@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「すぅ……すぅ……ん、んん……」="Zzz...Zzz...N, nn..."
-（ううん、何だか下半身に違和感が……？）="Uummm, my lower part of body feels strange."
+「すぅ……すぅ……ん、んん……」=“Zzz...Zzz...N, nn...”
+（ううん、何だか下半身に違和感が……？）=("Uummm, my lower part of body feels strange.")
 「…………」=“......”
-「へっ！　[H名]さん！？　ど、どうして俺の上に……？」="Haa? Miss [H名]!? W-why are you on top...?"
-「ん？　私の方が上なのは当然でしょ？　今更何を言っているの？」="Nn? It's obvious that I'm on top, right? What are you saying at this point?"
-「いや、上下関係の話じゃなくて……何で俺の上に乗っていらっしゃるのかなと……」="No, it doesn't matter if it's top or bottom... Why are you straddling me?"
-「フフッ、美味しそうなモノが目の前にあったら食べるでしょ？　それだけの事よ」='Fufu, if there's a tasty something right before your eyes, you want to eat it, right?"
+「へっ！　[H名]さん！？　ど、どうして俺の上に……？」=“Haa? Miss [H名]!? W-why are you on top...?”
+「ん？　私の方が上なのは当然でしょ？　今更何を言っているの？」=“Nn? It's obvious that I'm on top, right? What are you saying at this point?”
+「いや、上下関係の話じゃなくて……何で俺の上に乗っていらっしゃるのかなと……」=“No, it doesn't matter if it's top or bottom... Why are you straddling me?”
+「フフッ、美味しそうなモノが目の前にあったら食べるでしょ？　それだけの事よ」=“Fufu, if there's a tasty something right before your eyes, you want to eat it, right?”

@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「お、話がわかるねぇ……んじゃ、ちゃっちゃとおっ始めよーぜ♪」=Oh, you're quick on the uptake... well then, let's get started right away♪
+「お、話がわかるねぇ……んじゃ、ちゃっちゃとおっ始めよーぜ♪」=“Oh, you're quick on the uptake... well then, let's get started right away♪”

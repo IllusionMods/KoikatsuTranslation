@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「ねぇねぇ、家庭科でお菓子作ったんだよ」=Hey, I made some sweets during home ec.
-「ちょっとだけ、形が崩れちゃって見た目はダメだけど……」=They look a bit misshappen and junk but...
-「でも、味は保証するから、はい、あげるね！」=I can vouch for the taste, so here, you can have them!
+「ねぇねぇ、家庭科でお菓子作ったんだよ」=“Hey, I made some sweets during home ec.”
+「ちょっとだけ、形が崩れちゃって見た目はダメだけど……」=“They look a bit misshappen and junk but...”
+「でも、味は保証するから、はい、あげるね！」=“I can vouch for the taste, so here, you can have them!”

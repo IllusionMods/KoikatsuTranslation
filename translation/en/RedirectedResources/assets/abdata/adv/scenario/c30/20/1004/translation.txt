@@ -2,14 +2,14 @@
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
 モブ=Mob
-「お疲れ様でした。ふふっ、素敵な式でしたよ」=Good work today. Fufu, it was a lovely ceremony.
-「本番の結婚式も、是非、私どもの式場で挙げてくださいね！」=For your future wedding as well, please contact us! We'll do our best!
-「えっと、前向きに考えさせてもらいます」=Um, we'll think about it if we ever get to that point.
-「お願いします！　今日はお引き受けいただいて、ありがとうございました」=Then please! And for helping us out so much today as well, thank you very much!
-「ふぁー、なんか一気に力が抜けたぁ……ちょっと休憩していこう……ね？」=Fuaah-, I'm feeling tired all of a sudden... Let's take a break... shall we?
-「あらら、さっきまではかなりカッコよかったのに……また可愛いキミに戻っちゃったわね」=Oh my, even though you were so cool till now... Now you're back to the usual cute self.
-「うぅ……カッコよさを無理して持続した結果だよ……[H名]なら知ってるでしょ？　いつもの俺のこと……」=Ugh... This is because I was forcing myself to be cool this whole time that I'm so tired now... You know me, don't you, [H名]? Like how I usually am...
-「ええ、知ってるわよ。お姉さんに可愛いって言われるより、キミはカッコイイって言ってもらいたいこと」=Yep, I do. Rather than being called cute by your onee-san, you'd rather be called cool.
-「それはそうなんだけど……はは、今日はもう降参……カッコイイ俺にはなれそうにないや……」=That's true but... Haha, I give up for today... I don't think my cool side is going to show itself anytime soon again...
-「うん、無理しなくていいわ。お疲れさま」=Yeah, it's beter to not overdo it. Good work today.
+「お疲れ様でした。ふふっ、素敵な式でしたよ」=“Good work today. Fufu, it was a lovely ceremony.”
+「本番の結婚式も、是非、私どもの式場で挙げてくださいね！」=“For your future wedding as well, please contact us! We'll do our best!”
+「えっと、前向きに考えさせてもらいます」=“Um, we'll think about it if we ever get to that point.”
+「お願いします！　今日はお引き受けいただいて、ありがとうございました」=“Then please! And for helping us out so much today as well, thank you very much!”
+「ふぁー、なんか一気に力が抜けたぁ……ちょっと休憩していこう……ね？」=“Fuaah-, I'm feeling tired all of a sudden... Let's take a break... shall we?”
+「あらら、さっきまではかなりカッコよかったのに……また可愛いキミに戻っちゃったわね」=“Oh my, even though you were so cool till now... Now you're back to the usual cute self.”
+「うぅ……カッコよさを無理して持続した結果だよ……[H名]なら知ってるでしょ？　いつもの俺のこと……」=“Ugh... This is because I was forcing myself to be cool this whole time that I'm so tired now... You know me, don't you, [H名]? Like how I usually am...”
+「ええ、知ってるわよ。お姉さんに可愛いって言われるより、キミはカッコイイって言ってもらいたいこと」=“Yep, I do. Rather than being called cute by your onee-san, you'd rather be called cool.”
+「それはそうなんだけど……はは、今日はもう降参……カッコイイ俺にはなれそうにないや……」=“That's true but... Haha, I give up for today... I don't think my cool side is going to show itself anytime soon again...”
+「うん、無理しなくていいわ。お疲れさま」=“Yeah, it's beter to not overdo it. Good work today.”
 （……疲れたけど、本当にいい経験ができたなぁ）=(...It was tiring but, it was truly an amazing experience...)

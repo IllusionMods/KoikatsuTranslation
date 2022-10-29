@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「おい……もうちょっとゆっくり歩けよ」=Oi... walk a bit slower.
-「え？　あぁごめん。歩くの早かった？」=Eh? Aah, sorry. Was I walking too fast?
-「別に早くねぇけど……もうちょっと二人きりの時間とか……その……」=Not really, it's just... I just wanted to, you know, be together longer... and stuff...
-「あぁ、そうだね。じゃあゆーっくり歩くね！」=Aah, right. I'll walk slowly then!
+「おい……もうちょっとゆっくり歩けよ」=“Oi... walk a bit slower.”
+「え？　あぁごめん。歩くの早かった？」=“Eh? Aah, sorry. Was I walking too fast?”
+「別に早くねぇけど……もうちょっと二人きりの時間とか……その……」=“Not really, it's just... I just wanted to, you know, be together longer... and stuff...”
+「あぁ、そうだね。じゃあゆーっくり歩くね！」=“Aah, right. I'll walk slowly then!”

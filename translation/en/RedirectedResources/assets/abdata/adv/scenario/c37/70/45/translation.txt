@@ -2,6 +2,6 @@
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
 「………………」=“.........”
-「あの、大丈夫……？」=Uhm, are you alright...?
-「あ……いえ、余韻に浸っていました、大丈夫です」=Ah... No, I was basking in the afterglow, I'm alright.
-「痛みよりも、あなたで満たされた気持ちの方が勝っていましたので」=This feeling of being filled up by you, it's making me forget the pain.
+「あの、大丈夫……？」=“Uhm, are you alright...?”
+「あ……いえ、余韻に浸っていました、大丈夫です」=“Ah... No, I was basking in the afterglow, I'm alright.”
+「痛みよりも、あなたで満たされた気持ちの方が勝っていましたので」=“This feeling of being filled up by you, it's making me forget the pain.”

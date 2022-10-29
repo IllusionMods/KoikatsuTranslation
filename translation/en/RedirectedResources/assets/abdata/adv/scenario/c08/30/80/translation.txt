@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「……じゅるり」=...*slurp*.
-「えっ、何？　どうしたの！」=Eh--, what? What's the matter!
-「これとそれ、交換っこしようよ♪」=I'll trade you this for that♪
-「なんだぁ～これが食べたかったんだね。いいよ！」=What~, you just wanted to eat this, huh? Sure!
+「……じゅるり」=“...*slurp*.”
+「えっ、何？　どうしたの！」=“Eh--, what? What's the matter!”
+「これとそれ、交換っこしようよ♪」=“I'll trade you this for that♪”
+「なんだぁ～これが食べたかったんだね。いいよ！」=“What~, you just wanted to eat this, huh? Sure!”

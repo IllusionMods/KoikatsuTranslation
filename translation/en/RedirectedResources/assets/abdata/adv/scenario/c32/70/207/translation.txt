@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「ふぅ……随分遅くなっちゃった。急いで帰らなきゃね」=Fuu... It's gotten quite late. Gotta get home quickly, don't we?
-「ええ、でも楽しかったです。帰るのが勿体無いぐらい……」=Yes. I had a lot of fun though. So much so, I almost don't want to go home yet...
-「嬉しいこと言ってくれるじゃないか。でも長居してると電車がなくなっちゃうよ」=I'm glad you feel that way. Though, if we stay too long, we'll miss the last train.
-「そうですね、今日の楽しみを心の中に残し、夢の中で続きを楽しみことにしますね」=Indeed. I'll just have to save the fun we had today in my heart, and look forward to the rest in my dreams.
-「素敵な言葉だね……俺もそうしようっと」=Such lovely words... I'll do the same.
+「ふぅ……随分遅くなっちゃった。急いで帰らなきゃね」=“Fuu... It's gotten quite late. Gotta get home quickly, don't we?”
+「ええ、でも楽しかったです。帰るのが勿体無いぐらい……」=“Yes. I had a lot of fun though. So much so, I almost don't want to go home yet...”
+「嬉しいこと言ってくれるじゃないか。でも長居してると電車がなくなっちゃうよ」=“I'm glad you feel that way. Though, if we stay too long, we'll miss the last train.”
+「そうですね、今日の楽しみを心の中に残し、夢の中で続きを楽しみことにしますね」=“Indeed. I'll just have to save the fun we had today in my heart, and look forward to the rest in my dreams.”
+「素敵な言葉だね……俺もそうしようっと」=“Such lovely words... I'll do the same.”

@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「こ、この部屋って、ずっと開かずの間って呼ばれてたと、思ったんですが……」=I-I thought I'd heard somewhere before, that this room shouldn't be entered, but...
-「えっと……中は物置き、なんですね。ここで、何か？」=Erhm... it's just a storeroom, isn't it? What did you need, here?
-「あの……どうしたんですか？　なんだか、様子が変ですよ」=Uhm... what's the matter? Something feels, off.
-「キャッ……！　だ、誰ですか！？」=Kyah--...! W-Who is it!?
+「こ、この部屋って、ずっと開かずの間って呼ばれてたと、思ったんですが……」=“I-I thought I'd heard somewhere before, that this room shouldn't be entered, but...”
+「えっと……中は物置き、なんですね。ここで、何か？」=“Erhm... it's just a storeroom, isn't it? What did you need, here?”
+「あの……どうしたんですか？　なんだか、様子が変ですよ」=“Uhm... what's the matter? Something feels, off.”
+「キャッ……！　だ、誰ですか！？」=“Kyah--...! W-Who is it!?”

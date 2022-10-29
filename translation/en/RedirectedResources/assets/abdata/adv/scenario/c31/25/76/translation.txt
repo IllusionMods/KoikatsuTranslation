@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「プールの良い所は汗が目立たないところだな、おまえに嗅がれるのを気にする事もない」=The good thing about the pool is, sweat really doesn't stand out. I don't have to be worried about you smelling it either.
-「[H名]って汗っかきだったの？　という事はこのプールには大量の[H名]エキスが……」=You were sweating, [H名]? That means, this pool has lots of your extract, huh...
-「ば、ばかっ！　何を考えている！　飲んだりしたら、怒るからな！」=D-Dummy--! What are you thinking! If you actually try drinking it, I'll get mad, okay!?
-「はは、流石にそこまではしないよ。……しないよ？」=Haha, even I won't go that far.I won't, okay?
-「その念押しのせいで余計に不安になったぞ……」=That affirmation just made me more nervous...
+「プールの良い所は汗が目立たないところだな、おまえに嗅がれるのを気にする事もない」=“The good thing about the pool is, sweat really doesn't stand out. I don't have to be worried about you smelling it either.”
+「[H名]って汗っかきだったの？　という事はこのプールには大量の[H名]エキスが……」=“You were sweating, [H名]? That means, this pool has lots of your extract, huh...”
+「ば、ばかっ！　何を考えている！　飲んだりしたら、怒るからな！」=“D-Dummy--! What are you thinking! If you actually try drinking it, I'll get mad, okay!?”
+「はは、流石にそこまではしないよ。……しないよ？」=“Haha, even I won't go that far.I won't, okay?”
+「その念押しのせいで余計に不安になったぞ……」=“That affirmation just made me more nervous...”

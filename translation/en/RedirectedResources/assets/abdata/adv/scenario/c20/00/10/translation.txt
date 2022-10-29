@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「私が……コイカツ部にですか？」=Me... in the Koikatsu club?
-「うん。前にさ『男の人が苦手な自分を変えたい』って話してたでしょ」=Yeah. Didn't you tell me before? That you wanted to get over your fear of men?
-「あっ……はい」=Ah--... yes.
-「コイカツ部に入部すれば、もっと協力できると思うんだけど、どうかな？　もちろん無理にとは言わないけど」=If you join the club, I think I'll be able to help you some more, how about it? Of course, you don't have to force yourself to join.
-「……えっと、私のことを考えて誘ってくれたんですよね？　でしたら入部、します」=...Erhm, you asked me to join because you're thinking of me, right? In that case, I'll join.
-「本当！？　ありがとう！」=Really?! Thanks!
-「い、いえ……お礼を言うのは私の方です。その、よろしくお願いしますね」=I-It's nothing... I should be the one saying thanks. Uhm, please take care of me, okay?
+「私が……コイカツ部にですか？」=“Me... in the Koikatsu club?”
+「うん。前にさ『男の人が苦手な自分を変えたい』って話してたでしょ」=“Yeah. Didn't you tell me before? That you wanted to get over your fear of men?”
+「あっ……はい」=“Ah--... yes.”
+「コイカツ部に入部すれば、もっと協力できると思うんだけど、どうかな？　もちろん無理にとは言わないけど」=“If you join the club, I think I'll be able to help you some more, how about it? Of course, you don't have to force yourself to join.”
+「……えっと、私のことを考えて誘ってくれたんですよね？　でしたら入部、します」=“...Erhm, you asked me to join because you're thinking of me, right? In that case, I'll join.”
+「本当！？　ありがとう！」=“Really?! Thanks!”
+「い、いえ……お礼を言うのは私の方です。その、よろしくお願いしますね」=“I-It's nothing... I should be the one saying thanks. Uhm, please take care of me, okay?”

@@ -1,14 +1,14 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「暗くなるのはあっという間だね……これから、どうするの？」=The sun really goes down in no time, doesn't it... what are we gonna do?
+「暗くなるのはあっという間だね……これから、どうするの？」=“The sun really goes down in no time, doesn't it... what are we gonna do?”
 CHOICE:『まだ時間ある？』=Still got some time?
 CHOICE:『俺も楽しかった』=Let's go home.
-「できれば……まだ帰りたくないな」=If we can... I don't wanna go home just yet.
-「うん……私ももう少しだけ、[P名]君と一緒に居たい……」=Yeah... I wanna be with you a bit longer too, [P]-kun...
-「それなら、もう少しだけ付き合って。見せたいものがあるから」=In that case, come along with me for a bit longer. I've got something I wanna show you.
-「もちろん。[P名]君が見せてくれるものなら……喜んで」=Of course. If it's something you wanna show me then... gladly.
-「今日は帰ろうか。完全に暗くなる前に送っていかないといけないからね」=Let's go home for today. I gotta get you home before it gets completely dark out.
-「それじゃあ……駅に着くまで、手を繋いでていい……？」=Well then... do you mind if we hold hands, till we get to the station...?
-「もちろんだよ。……はい」=Of course not. ...Here.
-「ありがとう。……あなたの手、温かいね」=Thank you. ...Your hand, it's so warm.
+「できれば……まだ帰りたくないな」=“If we can... I don't wanna go home just yet.”
+「うん……私ももう少しだけ、[P名]君と一緒に居たい……」=“Yeah... I wanna be with you a bit longer too, [P]-kun...”
+「それなら、もう少しだけ付き合って。見せたいものがあるから」=“In that case, come along with me for a bit longer. I've got something I wanna show you.”
+「もちろん。[P名]君が見せてくれるものなら……喜んで」=“Of course. If it's something you wanna show me then... gladly.”
+「今日は帰ろうか。完全に暗くなる前に送っていかないといけないからね」=“Let's go home for today. I gotta get you home before it gets completely dark out.”
+「それじゃあ……駅に着くまで、手を繋いでていい……？」=“Well then... do you mind if we hold hands, till we get to the station...?”
+「もちろんだよ。……はい」=“Of course not. ...Here.”
+「ありがとう。……あなたの手、温かいね」=“Thank you. ...Your hand, it's so warm.”

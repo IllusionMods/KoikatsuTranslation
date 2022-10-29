@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「はぅぅ……改めて考えると……ちょっと大胆すぎることしちゃったかも……」=Hauuu... in hindsight... we might have done something really reckless there...
-「確かに……でも二人きりだし……えっと……言い訳みたいだけど……俺、どうしてもそういう気分になっちゃうよ」=For sure... but we're by ourselves and... erhm... it sounds like an excuse but... I just can't help myself sometimes.
-「あはは、大丈夫。私も……そういう気分になっちゃうもん。一緒だよ。君がしたいって思う時は……私も一緒なんだ」=Ahaha, it's alright. I can't... help myself sometimes either. We're in the same boat. Whenever you want to do it... I'm in the mood along with you.
-「う……そういうこと言われたら、またしたくなる……というか、時間！　いっぱいいっぱいだよね！　そろそろ出なきゃ！」=Uu... if you say that to me, I'll get in the mood again... heck, the time! It's almost up! We gotta dash!
-「わぁぁ、そうだね！　しっかり後片付けしないとっ！　匂いとか色々大変っ！」=Waah, you're right! We gotta clean up--! The smell, and all the mess--!
-「うん、ギリギリまで二人で確認しよう！」=Yeah, let's make sure everything's clean until the last second!
+「はぅぅ……改めて考えると……ちょっと大胆すぎることしちゃったかも……」=“Hauuu... in hindsight... we might have done something really reckless there...”
+「確かに……でも二人きりだし……えっと……言い訳みたいだけど……俺、どうしてもそういう気分になっちゃうよ」=“For sure... but we're by ourselves and... erhm... it sounds like an excuse but... I just can't help myself sometimes.”
+「あはは、大丈夫。私も……そういう気分になっちゃうもん。一緒だよ。君がしたいって思う時は……私も一緒なんだ」=“Ahaha, it's alright. I can't... help myself sometimes either. We're in the same boat. Whenever you want to do it... I'm in the mood along with you.”
+「う……そういうこと言われたら、またしたくなる……というか、時間！　いっぱいいっぱいだよね！　そろそろ出なきゃ！」=“Uu... if you say that to me, I'll get in the mood again... heck, the time! It's almost up! We gotta dash!”
+「わぁぁ、そうだね！　しっかり後片付けしないとっ！　匂いとか色々大変っ！」=“Waah, you're right! We gotta clean up--! The smell, and all the mess--!”
+「うん、ギリギリまで二人で確認しよう！」=“Yeah, let's make sure everything's clean until the last second!”

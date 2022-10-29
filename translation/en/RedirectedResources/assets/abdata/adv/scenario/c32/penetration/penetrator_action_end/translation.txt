@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「ありがとうございます、誠心誠意、頑張らせて頂きます」=Thank you very much, I'll do my very best, with all my body and soul.
+「ありがとうございます、誠心誠意、頑張らせて頂きます」=“Thank you very much, I'll do my very best, with all my body and soul.”

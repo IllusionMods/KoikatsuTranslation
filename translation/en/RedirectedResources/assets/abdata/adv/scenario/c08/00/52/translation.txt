@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「もっとちゃんと教えて、これだけじゃあ、私は満たされないよぉ」=Teach me more stuff, this is not even close to being enough to satisfy me.
+「もっとちゃんと教えて、これだけじゃあ、私は満たされないよぉ」=“Teach me more stuff, this is not even close to being enough to satisfy me.”

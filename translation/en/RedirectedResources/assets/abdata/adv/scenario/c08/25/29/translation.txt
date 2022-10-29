@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「ええっ！　なんで私の欲しいものがわかっちゃうのかな」=Eeh--! Just how did you know the exact thing I wanted?
+「ええっ！　なんで私の欲しいものがわかっちゃうのかな」=“Eeh--! Just how did you know the exact thing I wanted?”

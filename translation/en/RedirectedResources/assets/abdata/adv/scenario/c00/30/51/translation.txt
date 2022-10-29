@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「えっ、もう……？　ううん、君が満足してくれたのなら、それでいいの……」=Eh--, already...? No, if you're satisfied, then it's alright...
+「えっ、もう……？　ううん、君が満足してくれたのなら、それでいいの……」=“Eh--, already...? No, if you're satisfied, then it's alright...”

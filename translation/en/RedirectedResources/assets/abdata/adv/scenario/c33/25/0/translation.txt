@@ -1,11 +1,11 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「あのー、コイカツ部の[P姓]って言うんだけど、いま話せるかな」=Hey, I'm [P姓], from the Koikatsu club, if you have the time, could we talk for a moment?
-「あら、時間ならタップリあるけれど……あなた、私に興味があるの？」=Oh, if it's time, then I have lots but... Do you have an interest in me?
+「あのー、コイカツ部の[P姓]って言うんだけど、いま話せるかな」=“Hey, I'm [P姓], from the Koikatsu club, if you have the time, could we talk for a moment?”
+「あら、時間ならタップリあるけれど……あなた、私に興味があるの？」=“Oh, if it's time, then I have lots but... Do you have an interest in me?”
 （おお……大人のお姉さんって感じの人だな）=(Ooh... She has a really mature feel to her)
-「うん。仲良くなれたらいいなって思ってるよ」=Yeah. I think it would be good if we could get along well.
-「じゃあ、私の身体と私の心、どっちと仲良くなりたいか選んでくれる？」=Then, my body or my heart, can you pick which one exactly you'd like to "get along" with?
-「ええっ！？　いや、その……」=Eeeh--!? No, That's...
+「うん。仲良くなれたらいいなって思ってるよ」=“Yeah. I think it would be good if we could get along well.”
+「じゃあ、私の身体と私の心、どっちと仲良くなりたいか選んでくれる？」=“Then, my body or my heart, can you pick which one exactly you'd like to "get along" with?”
+「ええっ！？　いや、その……」=“Eeeh--!? No, That's...”
 「クスッ、冗談よ。何か楽しいお話しをしましょ。時間の許す限り、ね？」=*Giggle*, that was a joke. Let's talk about something fun, as long as time allows, shall we?
 （フェ、フェロモンが半端じゃない。一体、どんな話ができるんだろう）=(Her sex appeal is nothing to scoff at. Just what should I talk about?)

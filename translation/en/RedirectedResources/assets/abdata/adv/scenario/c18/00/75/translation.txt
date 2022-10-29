@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「えっと……それっ」=Erhm... there--
-「うおっ！？」=Woah--!?
-「だ、大丈夫ですか？　やっぱりボールを蹴るのは危険ですね……」=A-Are you alright? It really is too dangerous to kick the ball like that, isn't it...
-「い、いや、どこに飛ぶか分からないスリルがたまらないよ」=N-No, the thrill of not knowing exactly where it's gonna hit is actually pretty addicting.
+「えっと……それっ」=“Erhm... there--”
+「うおっ！？」=“Woah--!?”
+「だ、大丈夫ですか？　やっぱりボールを蹴るのは危険ですね……」=“A-Are you alright? It really is too dangerous to kick the ball like that, isn't it...”
+「い、いや、どこに飛ぶか分からないスリルがたまらないよ」=“N-No, the thrill of not knowing exactly where it's gonna hit is actually pretty addicting.”

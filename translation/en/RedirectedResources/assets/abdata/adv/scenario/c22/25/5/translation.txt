@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「うん、いいよ！　どんなことしよっか？　君に任せるよ」=Yeah, okay! What should we do? I'll leave it to you.
-「２人で出来る運動だよね。キャッチボールとか、パス回しとか……」=Some exercise we can do together. Maybe catch ball, or some foot passes...
-「あっ、フリスビーなんかも楽しそう！　２人で出来る運動って意外とたくさんあるね！」=Ah--, using a frisbee sounds pretty fun too! There's all sorts of stuff that two people can do together, isn't there!
+「うん、いいよ！　どんなことしよっか？　君に任せるよ」=“Yeah, okay! What should we do? I'll leave it to you.”
+「２人で出来る運動だよね。キャッチボールとか、パス回しとか……」=“Some exercise we can do together. Maybe catch ball, or some foot passes...”
+「あっ、フリスビーなんかも楽しそう！　２人で出来る運動って意外とたくさんあるね！」=“Ah--, using a frisbee sounds pretty fun too! There's all sorts of stuff that two people can do together, isn't there!”

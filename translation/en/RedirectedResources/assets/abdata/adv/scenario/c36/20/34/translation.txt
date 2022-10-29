@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「ふぅん、一応もらっておいてあげるわ」="Well, I guess I'll accept it."
+「ふぅん、一応もらっておいてあげるわ」=“Well, I guess I'll accept it.”

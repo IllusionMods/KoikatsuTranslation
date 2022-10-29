@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「はっ！？　えっ！？　なに？　どうして……？」=Hah--!? Eh--!? What? Why...?
-「ごめん……」=Sorry...
-「どうして……理由はなに？」=Why... any specific reason?
+「はっ！？　えっ！？　なに？　どうして……？」=“Hah--!? Eh--!? What? Why...?”
+「ごめん……」=“Sorry...”
+「どうして……理由はなに？」=“Why... any specific reason?”
 「……」=“...”
-「……疲れたって感じかな？　私と居ると……。……うぐっ、じゃ、じゃあね～」=...Did you just get tired? Of being with me... ...*sob*, w-well, see ya then~
+「……疲れたって感じかな？　私と居ると……。……うぐっ、じゃ、じゃあね～」=“...Did you just get tired? Of being with me... ...*sob*, w-well, see ya then~”

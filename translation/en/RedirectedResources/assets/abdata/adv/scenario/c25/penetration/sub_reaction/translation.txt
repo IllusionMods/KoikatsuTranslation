@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「あ、ごめ～ん、気付いてたけど言うの面倒だったからさ～……」=Ah, sorry, I did notice you but it was a pain to call out to you and stuff~...
+「あ、ごめ～ん、気付いてたけど言うの面倒だったからさ～……」=“Ah, sorry, I did notice you but it was a pain to call out to you and stuff~...”

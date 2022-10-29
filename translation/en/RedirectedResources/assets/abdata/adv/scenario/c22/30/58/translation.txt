@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「待ちに待ったデートの日だー！　この間からずっと楽しみだったんだよ」=It's the date we've been waiting for, for so long! I've been looking forward to it this whole time, you know.
-「そんな風に言ってもらえると光栄だよ。それじゃ行こっか」=I'm honoured that you felt that way about it. Well then, let's go.
-「デートって何だか特別な感じがするよね。こうやって一緒にいるだけでワクワクしちゃうし……」=Dates always feel so special, don't they? Just spending time together like this makes my heart race so much...
-「そうだね。確かに、いつもよりテンション上がるかも」=Yeah. For sure, I feel more excited than usual.
+「待ちに待ったデートの日だー！　この間からずっと楽しみだったんだよ」=“It's the date we've been waiting for, for so long! I've been looking forward to it this whole time, you know.”
+「そんな風に言ってもらえると光栄だよ。それじゃ行こっか」=“I'm honoured that you felt that way about it. Well then, let's go.”
+「デートって何だか特別な感じがするよね。こうやって一緒にいるだけでワクワクしちゃうし……」=“Dates always feel so special, don't they? Just spending time together like this makes my heart race so much...”
+「そうだね。確かに、いつもよりテンション上がるかも」=“Yeah. For sure, I feel more excited than usual.”

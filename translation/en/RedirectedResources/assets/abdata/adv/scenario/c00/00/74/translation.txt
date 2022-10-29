@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「あぁん、もうダメぇ……」=Aahn, I'm done, I can't...
-「……君って意外と体力無いんだね」=...You've surprisingly got almost no stamina.
-「君が激しくするからでしょ、もう……」=It's because you're going at it so hard, jeez...
-「でも、これも悪くないわね……期待できそうだわ」=But, this sort of thing isn't bad either... Looks like I can look forward to things.
+「あぁん、もうダメぇ……」=“Aahn, I'm done, I can't...”
+「……君って意外と体力無いんだね」=“...You've surprisingly got almost no stamina.”
+「君が激しくするからでしょ、もう……」=“It's because you're going at it so hard, jeez...”
+「でも、これも悪くないわね……期待できそうだわ」=“But, this sort of thing isn't bad either... Looks like I can look forward to things.”
 （一体何を期待されているんだろう……）=(Just what is she looking forward to...?)

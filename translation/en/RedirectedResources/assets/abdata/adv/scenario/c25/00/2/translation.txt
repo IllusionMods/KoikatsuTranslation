@@ -1,11 +1,11 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「仲良くなれそうで良かったよ」=I'm glad, it really does seem like we could get along.
-「またそーゆーことを……まあ会話くらい付き合ってあげるよ～」=Always with that... well, I don't mind chatting I guess~
-「ははは、今度は一緒に遊びに行けたらいいね」=Hahaha, would be pretty sweet to hang out together one of these days.
-「お、これはもしやナンパっすか？」=Oh, are you hitting on me right now?
-「でも、そういうのは面倒だからいいよ～」=But, that sort of thing's a pain, so I'm good~
-「えぇっ……、ま、まあ、また話そうね」=Eeh--... w-well, let's chat again, okay?
-「はいは～い。可愛そうだから話相手になってあげるよ～」=Sure thing~. You seem pretty lonely so I'll atleast do that much~
-「じゃね～お疲れ～」=See ya~, good work today~
+「仲良くなれそうで良かったよ」=“I'm glad, it really does seem like we could get along.”
+「またそーゆーことを……まあ会話くらい付き合ってあげるよ～」=“Always with that... well, I don't mind chatting I guess~”
+「ははは、今度は一緒に遊びに行けたらいいね」=“Hahaha, would be pretty sweet to hang out together one of these days.”
+「お、これはもしやナンパっすか？」=“Oh, are you hitting on me right now?”
+「でも、そういうのは面倒だからいいよ～」=“But, that sort of thing's a pain, so I'm good~”
+「えぇっ……、ま、まあ、また話そうね」=“Eeh--... w-well, let's chat again, okay?”
+「はいは～い。可愛そうだから話相手になってあげるよ～」=“Sure thing~. You seem pretty lonely so I'll atleast do that much~”
+「じゃね～お疲れ～」=“See ya~, good work today~”

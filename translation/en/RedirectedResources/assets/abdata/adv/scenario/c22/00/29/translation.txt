@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「わわっ、私の好みにぴったりっ！　よく分かったねっ！　ありがとうっ！」=Wawah--, it's exactly what I like--! You know your stuff--! Thank you--!
+「わわっ、私の好みにぴったりっ！　よく分かったねっ！　ありがとうっ！」=“Wawah--, it's exactly what I like--! You know your stuff--! Thank you--!”

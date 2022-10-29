@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「[Pあだ名]！　おはようー！」=[Pあだ名]! Morning!
-「あ、おはよう[Hあだ名]」=Ah, morning, [Hあだ名].
-「朝の挨拶も何だか嬉しい気分になるな。いいぞこれー！」=Using them to greet each other in the morning puts me in such a happy mood too. Man, nicknames are nice!
+「[Pあだ名]！　おはようー！」=“[Pあだ名]! Morning!”
+「あ、おはよう[Hあだ名]」=“Ah, morning, [Hあだ名].”
+「朝の挨拶も何だか嬉しい気分になるな。いいぞこれー！」=“Using them to greet each other in the morning puts me in such a happy mood too. Man, nicknames are nice!”

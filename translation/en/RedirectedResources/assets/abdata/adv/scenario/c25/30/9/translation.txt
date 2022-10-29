@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「えぇ～面倒だからいいよ～……って言われたらどうするっすか？」=Eeh~, it's a pain so I'm good~... if I said that, what would ya do?
-「ええっ！？　……もっと仲良くなってやる……とか？」=Eeh--!? ... Like, I guess I'd try to get even closer to you first... and stuff?
-「前向き過ぎて怖いっす。……しょーがないから付き合ってあげよっか～」=You're such a glass-half-full guy it's almost scary. ...It can't be helped, I'll go along with you~
+「えぇ～面倒だからいいよ～……って言われたらどうするっすか？」=“Eeh~, it's a pain so I'm good~... if I said that, what would ya do?”
+「ええっ！？　……もっと仲良くなってやる……とか？」=“Eeh--!? ... Like, I guess I'd try to get even closer to you first... and stuff?”
+「前向き過ぎて怖いっす。……しょーがないから付き合ってあげよっか～」=“You're such a glass-half-full guy it's almost scary. ...It can't be helped, I'll go along with you~”

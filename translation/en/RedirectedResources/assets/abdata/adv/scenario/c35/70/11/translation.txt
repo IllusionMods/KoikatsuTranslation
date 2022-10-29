@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「ねぇ……私、どうしても君に言わないかんことがあるっちゃけど……いいかいな？」=Hey... there's something I absolutely have to say to you... Can I?
-「え……改まってどうしたの？　ちょっと怖いな」=Eh... why so formal? It's a bit scary.
-「うん……あのね……私たち、もう付き合っていくの無理やと思うんよ。色々考えたんやけど……こういう結論しか出せんくて……」=Yeah... listen... I think it's impossible for us to be together any longer. I thought over it a bunch and... I couldn't come up with any other answer...
-「えっ！？　ま、待って……何で急に……？」=Eh--!? W-Wait... Why so suddenly...?
-「やっぱり……君にとっては急な話やったんやね……私はもうずっと悩んどったと……」=As I thought... to you, it's out of the blue but... I've been perplexed over this for quite a while now...
-「そういうすれ違いも、もうきついっちゃん。やから……もう今日で終わりにするん。それじゃ、ばいばい」=That sort of difference in wavelength too, it's too hard to bear. That's why... let's end it here. Bye bye.
+「ねぇ……私、どうしても君に言わないかんことがあるっちゃけど……いいかいな？」=“Hey... there's something I absolutely have to say to you... Can I?”
+「え……改まってどうしたの？　ちょっと怖いな」=“Eh... why so formal? It's a bit scary.”
+「うん……あのね……私たち、もう付き合っていくの無理やと思うんよ。色々考えたんやけど……こういう結論しか出せんくて……」=“Yeah... listen... I think it's impossible for us to be together any longer. I thought over it a bunch and... I couldn't come up with any other answer...”
+「えっ！？　ま、待って……何で急に……？」=“Eh--!? W-Wait... Why so suddenly...?”
+「やっぱり……君にとっては急な話やったんやね……私はもうずっと悩んどったと……」=“As I thought... to you, it's out of the blue but... I've been perplexed over this for quite a while now...”
+「そういうすれ違いも、もうきついっちゃん。やから……もう今日で終わりにするん。それじゃ、ばいばい」=“That sort of difference in wavelength too, it's too hard to bear. That's why... let's end it here. Bye bye.”

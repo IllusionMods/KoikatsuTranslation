@@ -1,13 +1,13 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「デートに着る服ってこれでよかったかな？」=Do ya think these clothes are fine? For a date and stuff.
-「その、デートに着る服ってのはわからないけど……かわいいと思うよ」=Uhm, I dunno whether they're good for a date or not but... I do think you look cute.
-「なっ！？　こ、こんなの普通だよ!　普通！」=Wha--!? T-This is just normal! Normal I say!
-「普通かな？　かわいいと思うけどな」=You think so? I think you look cute though.
-「ば、バカなこと言ってないで。もうほら、さっさと行くぞ！」=S-Shut your idiotic trap. N-Now c'mon, let's go!
-「ふふっ、デートって結構楽しいな」=Fufu--, dates are pretty fun, huh?
-「本当？　よかった　公園も意外と楽しいね」=You think so? I'm glad. The park's a pretty fun place to hang out in too.
-「そうだな！　よし！　次はブランコに乗るぞ！」=Yeah! Alright! We're gonna go on the swing next!
+「デートに着る服ってこれでよかったかな？」=“Do ya think these clothes are fine? For a date and stuff.”
+「その、デートに着る服ってのはわからないけど……かわいいと思うよ」=“Uhm, I dunno whether they're good for a date or not but... I do think you look cute.”
+「なっ！？　こ、こんなの普通だよ!　普通！」=“Wha--!? T-This is just normal! Normal I say!”
+「普通かな？　かわいいと思うけどな」=“You think so? I think you look cute though.”
+「ば、バカなこと言ってないで。もうほら、さっさと行くぞ！」=“S-Shut your idiotic trap. N-Now c'mon, let's go!”
+「ふふっ、デートって結構楽しいな」=“Fufu--, dates are pretty fun, huh?”
+「本当？　よかった　公園も意外と楽しいね」=“You think so? I'm glad. The park's a pretty fun place to hang out in too.”
+「そうだな！　よし！　次はブランコに乗るぞ！」=“Yeah! Alright! We're gonna go on the swing next!”
 （意外と子供らしくてかわいいな……）=(I didn't expect her to have such a child inside her, so cute...)
-「今日は楽しかったぞ！　また誘え！　じゃあな！」=Today was a lot of fun! Ask me out again! See ya!
+「今日は楽しかったぞ！　また誘え！　じゃあな！」=“Today was a lot of fun! Ask me out again! See ya!”

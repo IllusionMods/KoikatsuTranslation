@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「これは……嬉しいです。ありがとうございます」=This is... I'm so happy. Thank you very much.
+「これは……嬉しいです。ありがとうございます」=“This is... I'm so happy. Thank you very much.”

@@ -1,21 +1,21 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「今日は本当に天気がいいね」=The weather truly is nice today, don't you think?
-「はい。風も穏やかですごしやすいです」=Yes. The wind is gentle and nice too. Feels like it'll be a good time.
-「向こうでは、身体を動かしている人もいますね」=There are people who are doing some exercise over there too.
-「スポーツ日和って感じだもんね」=Seems like a perfect day for some sports.
-「子どもたちも結構遊んでるなぁ」=Quite a few kids playing around too.
+「今日は本当に天気がいいね」=“The weather truly is nice today, don't you think?”
+「はい。風も穏やかですごしやすいです」=“Yes. The wind is gentle and nice too. Feels like it'll be a good time.”
+「向こうでは、身体を動かしている人もいますね」=“There are people who are doing some exercise over there too.”
+「スポーツ日和って感じだもんね」=“Seems like a perfect day for some sports.”
+「子どもたちも結構遊んでるなぁ」=“Quite a few kids playing around too.”
 「……」=“...”
-「俺たちもなにかやってみる？」=Should we try doing something too?
-「小さい子どもたちと一緒に、ですか？」=Together with the kids, you mean?
-「いや、俺たち二人でってこと」=No, just the two of us.
-「二人で出来る事……こんな公の場で、子どもたちの目に入るような場所で、ですか？」=Something the two of us can do... In such a public place, a place where little kids can see us in plain view?
-「……いや、キャッチボールとかフリスビーとかね？　一体何を想像してるのかな……？」=......No, something like catch-ball or throwing a frisbee or whatever. Just what exactly are you thinking of...?
-「あちらに売店がありますね、何か使える物があるか覗いてみましょう」=There's a stall over there, let's go check if they have something we can use.
-「あ、ちょっと、何を想像してたのかなぁ！？」=Ah, wait, just what were you thinking of!?
-「いえ、このままゆっくりと過ごしたい気分ですので」=No, I'm in the mood to spend some relaxing time with you, so let's do that instead.
-「そう言っといて、ホントは身体を動かすのが苦手だからーとか？」=Even if you say that, it's more that you're not very good at physical activity and stuff, isn't it?
-「ここまで来るのに十分歩きました。今はしっかりと休息を取るべきです」=We've walked enough while getting all the way here. We ought to take this time to relax for a bit.
-「ま、それもあるっちゃあるか。のんびりしていこう」=Well, I suppose there's that too. Let's take it easy I guess.
-「はい、まだまだ時間はあります。体力はしっかり温存しておきましょう」=Yes, we still have lots of time. Let's conserve our strength for now.
+「俺たちもなにかやってみる？」=“Should we try doing something too?”
+「小さい子どもたちと一緒に、ですか？」=“Together with the kids, you mean?”
+「いや、俺たち二人でってこと」=“No, just the two of us.”
+「二人で出来る事……こんな公の場で、子どもたちの目に入るような場所で、ですか？」=“Something the two of us can do... In such a public place, a place where little kids can see us in plain view?”
+「……いや、キャッチボールとかフリスビーとかね？　一体何を想像してるのかな……？」=“......No, something like catch-ball or throwing a frisbee or whatever. Just what exactly are you thinking of...?”
+「あちらに売店がありますね、何か使える物があるか覗いてみましょう」=“There's a stall over there, let's go check if they have something we can use.”
+「あ、ちょっと、何を想像してたのかなぁ！？」=“Ah, wait, just what were you thinking of!?”
+「いえ、このままゆっくりと過ごしたい気分ですので」=“No, I'm in the mood to spend some relaxing time with you, so let's do that instead.”
+「そう言っといて、ホントは身体を動かすのが苦手だからーとか？」=“Even if you say that, it's more that you're not very good at physical activity and stuff, isn't it?”
+「ここまで来るのに十分歩きました。今はしっかりと休息を取るべきです」=“We've walked enough while getting all the way here. We ought to take this time to relax for a bit.”
+「ま、それもあるっちゃあるか。のんびりしていこう」=“Well, I suppose there's that too. Let's take it easy I guess.”
+「はい、まだまだ時間はあります。体力はしっかり温存しておきましょう」=“Yes, we still have lots of time. Let's conserve our strength for now.”

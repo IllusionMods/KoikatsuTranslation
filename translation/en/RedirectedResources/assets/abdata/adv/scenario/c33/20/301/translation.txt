@@ -1,23 +1,23 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「あなたはこういうところに来たら何を歌うの？」=What do you sing when you usually come to a place like this?
-「えっと……大抵は流行りの歌とか、懐メロとか……あとはアニソンかな。[H名]さんは？」=Erhm... Generally, popular songs, or the old classics... other than that, anime songs I suppose? What about you, [H名]-san?
-「…………そうねぇ」=...Indeed. Let's see.
+「あなたはこういうところに来たら何を歌うの？」=“What do you sing when you usually come to a place like this?”
+「えっと……大抵は流行りの歌とか、懐メロとか……あとはアニソンかな。[H名]さんは？」=“Erhm... Generally, popular songs, or the old classics... other than that, anime songs I suppose? What about you, [H名]-san?”
+「…………そうねぇ」=“...Indeed. Let's see.”
 （珍しい。[H名]さんが言いよどんでる）=(How unusual. [H名]-san's hesitating.)
-「一応言っておくけど、[H名]さんがどんな歌うたっても、引かないよ？」=I'll say this just in case but, no matter what kinds of songs you sing, [H名]-san, I won't be weirded out, alright?
-「引かないとは思うけど……えっとね、私、洋楽が好きで、歌うのも好きなのよ」=I don't think you would be but... Well, you see, I like western songs, so I like singing them too.
-「洋楽！？　めっちゃカッコイイ！　[H名]さんのイメージにピッタリだね」=Western songs!? That's super cool! It fits you super well, [H名]-san.
-「本当？　これ言うと格好つけてるって思われるから、あまり言わないのよ。だから、流行りの歌とか覚えてお茶を濁してるけど……」=Really? People think I'm trying to be cool when I say that, so I usually don't. That's why, I try to learn some popular songs so that I can avoid notice...
-「あ～、思う人は思いそうだね。中二病っぽいし……でも、[H名]さんって古い洋画も好きだし、本当に好きだってわかるよ。好き、なんだよね？」=Ah~, Indeed, people who think like that will say that. It does seem like something a teenager would do... But, you like old movies too, so I can believe that you like western songs too. You love them, don't you?
-「ええ。昔のも好きだけど、今のも熱いわよ。現地のライブに行くと、本当に感動しちゃう」=Yes. I like old ones too, but I'm really passionate about modern ones as well. When I'm at an on-site live event, I feel really moved.
-「えっ！？　[H名]さん、外国行ったことあるの！？　え、一人で？　英語喋れるの？」=Eh--!? [H名]-san, you've been to foreign countries!? Eh, by yourself? You can speak English?
-「ライブの時は一人ね。意外と行けちゃうものよ」=I go to live events by myself, yeah. It tends to work out pretty well, all things considered.
-「英語も学生レベルだけど、あっちの人も英語の下手な日本人に慣れてるのかしら、ボディランゲージも込みだと伝わるわ」=My English is only at a student's level but, I suppose people over there are used to Japanese people who speak shitty English, adding in body language on top seems to convey the intent pretty well.
-「すごい……[H名]さんの洋楽、聞きたくなってきた！　聞かせてよ！」=Amazing... I want to hear you sing in English now! Please let me hear it!
-「下手の横好きよ？」=I'll say this in advance, but I'm very bad at it, alright?
-「俺だってそうだよ。だから何も気にしないで歌おうよ。はい、マイク！」=I'm the same way. So let's just sing without worrying about it. Here, take the Mic!
-「……あなたって本当に…………そうね、せっかくのデートだもの、楽しみましょ。でも、まずは流行りの曲を入れさせて。喉を整えるのに丁度いいのよ」=... You really... Indeed, we came on this date and everything, let's enjoy ourselves. But, let me queue up a popular song for now, it'll be perfect for warming up my throat.
-「あ、この曲知ってる。流行りの曲を歌う[H名]さんも見てみたかったんだよね」=Ah, I know this song. I've always wanted to see you singing a popular song too, [H名]-san.
+「一応言っておくけど、[H名]さんがどんな歌うたっても、引かないよ？」=“I'll say this just in case but, no matter what kinds of songs you sing, [H名]-san, I won't be weirded out, alright?”
+「引かないとは思うけど……えっとね、私、洋楽が好きで、歌うのも好きなのよ」=“I don't think you would be but... Well, you see, I like western songs, so I like singing them too.”
+「洋楽！？　めっちゃカッコイイ！　[H名]さんのイメージにピッタリだね」=“Western songs!? That's super cool! It fits you super well, [H名]-san.”
+「本当？　これ言うと格好つけてるって思われるから、あまり言わないのよ。だから、流行りの歌とか覚えてお茶を濁してるけど……」=“Really? People think I'm trying to be cool when I say that, so I usually don't. That's why, I try to learn some popular songs so that I can avoid notice...”
+「あ～、思う人は思いそうだね。中二病っぽいし……でも、[H名]さんって古い洋画も好きだし、本当に好きだってわかるよ。好き、なんだよね？」=“Ah~, Indeed, people who think like that will say that. It does seem like something a teenager would do... But, you like old movies too, so I can believe that you like western songs too. You love them, don't you?”
+「ええ。昔のも好きだけど、今のも熱いわよ。現地のライブに行くと、本当に感動しちゃう」=“Yes. I like old ones too, but I'm really passionate about modern ones as well. When I'm at an on-site live event, I feel really moved.”
+「えっ！？　[H名]さん、外国行ったことあるの！？　え、一人で？　英語喋れるの？」=“Eh--!? [H名]-san, you've been to foreign countries!? Eh, by yourself? You can speak English?”
+「ライブの時は一人ね。意外と行けちゃうものよ」=“I go to live events by myself, yeah. It tends to work out pretty well, all things considered.”
+「英語も学生レベルだけど、あっちの人も英語の下手な日本人に慣れてるのかしら、ボディランゲージも込みだと伝わるわ」=“My English is only at a student's level but, I suppose people over there are used to Japanese people who speak shitty English, adding in body language on top seems to convey the intent pretty well.”
+「すごい……[H名]さんの洋楽、聞きたくなってきた！　聞かせてよ！」=“Amazing... I want to hear you sing in English now! Please let me hear it!”
+「下手の横好きよ？」=“I'll say this in advance, but I'm very bad at it, alright?”
+「俺だってそうだよ。だから何も気にしないで歌おうよ。はい、マイク！」=“I'm the same way. So let's just sing without worrying about it. Here, take the Mic!”
+「……あなたって本当に…………そうね、せっかくのデートだもの、楽しみましょ。でも、まずは流行りの曲を入れさせて。喉を整えるのに丁度いいのよ」=“... You really... Indeed, we came on this date and everything, let's enjoy ourselves. But, let me queue up a popular song for now, it'll be perfect for warming up my throat.”
+「あ、この曲知ってる。流行りの曲を歌う[H名]さんも見てみたかったんだよね」=“Ah, I know this song. I've always wanted to see you singing a popular song too, [H名]-san.”
 『もしも今 背中に羽が生えて 大空自由に 飛び回れたら～♪』=『If only I could sprout wings from my back and fly freely in the wide open sky right now♪』
 （……な、なんだか一回り年上の人とカラオケに来てるみたいだ……これは洋楽の方も楽しみだぞ）=(......T-this kinda feels like I've come to karaoke with someone a generation older than me... I'm looking forward to hearing her sing western music)

@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「遊園地から離れてくこの瞬間って、どうしても寂しくなっちゃうよね」=I just can't help but get sad, everytime I leave the amusement park behind like this.
-「ふーん、お前って、子どもっぽいこと考えてんだな」=Hmm, you've sure got some childish thoughts in you.
-「……ま、私も同じこと思ってたけどよ」=...Well, I was feeling the same way though.
+「遊園地から離れてくこの瞬間って、どうしても寂しくなっちゃうよね」=“I just can't help but get sad, everytime I leave the amusement park behind like this.”
+「ふーん、お前って、子どもっぽいこと考えてんだな」=“Hmm, you've sure got some childish thoughts in you.”
+「……ま、私も同じこと思ってたけどよ」=“...Well, I was feeling the same way though.”

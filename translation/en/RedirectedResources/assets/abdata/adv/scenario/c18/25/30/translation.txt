@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「幸せです。本当に素敵な恋人さんですね。大好き♪」=I'm really happy. You're such a wonderful boyfriend. I love you♪
+「幸せです。本当に素敵な恋人さんですね。大好き♪」=“I'm really happy. You're such a wonderful boyfriend. I love you♪”

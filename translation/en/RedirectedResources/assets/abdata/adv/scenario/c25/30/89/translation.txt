@@ -1,20 +1,20 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「俺たち、そろそろ互いに愛称で呼んでもいいと思うんだ」=I think it's about time for us to try calling each other by nicknames.
-「どうしたの急に～。そもそも愛称って、自然と出来るものじゃないの～？」=What's up with you, all of a sudden~. To begin with, nicknames aren't things you can come up with on the spot, no~?
-「それはそうなんだけどさ……なんていうかこう、刺激が欲しいというか」=That may be so but... how do I say this, I want some spice in our relationship.
-「私はのんびりでもいいんだけどなぁ～。でもまぁ、面白そうだからいいよー」=I'm fine with just taking it easy though~. But well, it sounds interesting so alright.
-「よし！　じゃあ早速なんだけど……[Pあだ名]って呼んでくれない？」=Alright! Then, I know it's sudden but... won't you call me [Pあだ名]?
-「……あのー、それは愛称なんすかね？」=...Uhm, is that really a nickname?
-「それはもう、立派な愛称だと思ってるよ」=Well, yeah, of course, it's a splendid nickname, in my opinion.
-「……前々から思ってたけど、キミって変なトコあるよね～」=...I've been thinking about this for a while but, you've got a pretty weird side to you~
-「ダメかな……？」=No good...?
-「……ダメとは言ってないよ。……[Pあだ名]」=...I didn't say that. ...[Pあだ名].
-「ありがとう！　[Hあだ名]！」=Thanks! [Hあだ名]!
-「うわっ、それ私の愛称っすか？　呼ぶのも恥ずかしかったけど、呼ばれるのもなかなか恥ずかしいっす……」=Uwah--, is that mine? It was pretty embarrassing to call you by yours but, being called that is pretty damn embarrassing too...
-「そこまで恥ずかしいかな？　俺はもっと[Pあだ名]って呼んでほしいくらいだけど……」=Is it really that embarrassing? I'd love it if you called me [Pあだ名] even more though...
-「それはキミだけ……愛称は恥ずかしいから封印っす……」=That's just you... Nicknames are embarrassing, so they're gonna have to be sealed up, top secret clearance, eyes only.
-「そんな……」=C'mon...
-「……まあ、たまになら解いてもいいっすけど……」=...Well, I don't mind unsealing them every once in a while, I guess...
-「やった、ありがと！」=Yay, thanks!
+「俺たち、そろそろ互いに愛称で呼んでもいいと思うんだ」=“I think it's about time for us to try calling each other by nicknames.”
+「どうしたの急に～。そもそも愛称って、自然と出来るものじゃないの～？」=“What's up with you, all of a sudden~. To begin with, nicknames aren't things you can come up with on the spot, no~?”
+「それはそうなんだけどさ……なんていうかこう、刺激が欲しいというか」=“That may be so but... how do I say this, I want some spice in our relationship.”
+「私はのんびりでもいいんだけどなぁ～。でもまぁ、面白そうだからいいよー」=“I'm fine with just taking it easy though~. But well, it sounds interesting so alright.”
+「よし！　じゃあ早速なんだけど……[Pあだ名]って呼んでくれない？」=“Alright! Then, I know it's sudden but... won't you call me [Pあだ名]?”
+「……あのー、それは愛称なんすかね？」=“...Uhm, is that really a nickname?”
+「それはもう、立派な愛称だと思ってるよ」=“Well, yeah, of course, it's a splendid nickname, in my opinion.”
+「……前々から思ってたけど、キミって変なトコあるよね～」=“...I've been thinking about this for a while but, you've got a pretty weird side to you~”
+「ダメかな……？」=“No good...?”
+「……ダメとは言ってないよ。……[Pあだ名]」=“...I didn't say that. ...[Pあだ名].”
+「ありがとう！　[Hあだ名]！」=“Thanks! [Hあだ名]!”
+「うわっ、それ私の愛称っすか？　呼ぶのも恥ずかしかったけど、呼ばれるのもなかなか恥ずかしいっす……」=“Uwah--, is that mine? It was pretty embarrassing to call you by yours but, being called that is pretty damn embarrassing too...”
+「そこまで恥ずかしいかな？　俺はもっと[Pあだ名]って呼んでほしいくらいだけど……」=“Is it really that embarrassing? I'd love it if you called me [Pあだ名] even more though...”
+「それはキミだけ……愛称は恥ずかしいから封印っす……」=“That's just you... Nicknames are embarrassing, so they're gonna have to be sealed up, top secret clearance, eyes only.”
+「そんな……」=“C'mon...”
+「……まあ、たまになら解いてもいいっすけど……」=“...Well, I don't mind unsealing them every once in a while, I guess...”
+「やった、ありがと！」=“Yay, thanks!”

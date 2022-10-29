@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「良かった……私の初めてが、あなたで」="My first time with you... That was fun."
+「良かった……私の初めてが、あなたで」=“My first time with you... That was fun.”

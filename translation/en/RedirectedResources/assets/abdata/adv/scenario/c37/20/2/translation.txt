@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「私達は仲良くなりましたか？」=Have we started getting along well?
-「どうだろう……でも、最初の頃よりかは君の事がわかってきたかな？」=I wonder... But, I feel like I understand you better now than I did when we first met?
-「これで恋人ですか？」=Are we lovers now then?
-「そ、そこにはまだちょっと早い……かな？　もっとお互いが知るべきとこもあるだろうし」=T-That's still a bit too fast... I think? There's probably a lot more we still have to learn about each other too.
-「まだ足りない、という事ですね……わかりました、善処します」=So you're saying it's still not enough then... Understood, I'll do my best.
-「ああうん、これからもよろしく……？」=Aah, yeah, take care of me I suppose...?
+「私達は仲良くなりましたか？」=“Have we started getting along well?”
+「どうだろう……でも、最初の頃よりかは君の事がわかってきたかな？」=“I wonder... But, I feel like I understand you better now than I did when we first met?”
+「これで恋人ですか？」=“Are we lovers now then?”
+「そ、そこにはまだちょっと早い……かな？　もっとお互いが知るべきとこもあるだろうし」=“T-That's still a bit too fast... I think? There's probably a lot more we still have to learn about each other too.”
+「まだ足りない、という事ですね……わかりました、善処します」=“So you're saying it's still not enough then... Understood, I'll do my best.”
+「ああうん、これからもよろしく……？」=“Aah, yeah, take care of me I suppose...?”

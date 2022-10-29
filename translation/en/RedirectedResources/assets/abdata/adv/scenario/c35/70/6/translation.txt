@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「わ、分かったっ！　いいよっ！　はうぅ……や、やっぱり男の子って強引なんや……」=G-Got it--! Sure--! Hauu... B-Boys really are pushy...
-「ち、違うよ？　別に強制してるわけじゃないからね！？」=T-That's not it, you know? You don't need to force yourself, you know?!
-「え？　あっ、わぁぁ、ごめんっ！　私、早とちりしてっ……めっちゃ恥ずかしい……。えっと……それじゃどこに連れてってくれるん？」=Eh? Ah--, waah, sorry--! I jumped to the wrong conclusion--... so embarrassing... Erhm... well then, where are you gonna take me?
+「わ、分かったっ！　いいよっ！　はうぅ……や、やっぱり男の子って強引なんや……」=“G-Got it--! Sure--! Hauu... B-Boys really are pushy...”
+「ち、違うよ？　別に強制してるわけじゃないからね！？」=“T-That's not it, you know? You don't need to force yourself, you know?!”
+「え？　あっ、わぁぁ、ごめんっ！　私、早とちりしてっ……めっちゃ恥ずかしい……。えっと……それじゃどこに連れてってくれるん？」=“Eh? Ah--, waah, sorry--! I jumped to the wrong conclusion--... so embarrassing... Erhm... well then, where are you gonna take me?”

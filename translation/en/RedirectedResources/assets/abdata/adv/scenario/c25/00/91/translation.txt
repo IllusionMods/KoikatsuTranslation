@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「[Pあだ名]、おはよ～」=[Pあだ名], mornin'~
-「おはよう、[Hあだ名]。不意に呼ばれたから、ちょっと驚いたよ」=Morning, [Hあだ名]. You called me that so unexpectedly, it was a bit surprising.
-「ふふ～、驚かすつもりで使ったからね～」=Fufu~, I called you that to surprise you, afterall~
+「[Pあだ名]、おはよ～」=“[Pあだ名], mornin'~”
+「おはよう、[Hあだ名]。不意に呼ばれたから、ちょっと驚いたよ」=“Morning, [Hあだ名]. You called me that so unexpectedly, it was a bit surprising.”
+「ふふ～、驚かすつもりで使ったからね～」=“Fufu~, I called you that to surprise you, afterall~”

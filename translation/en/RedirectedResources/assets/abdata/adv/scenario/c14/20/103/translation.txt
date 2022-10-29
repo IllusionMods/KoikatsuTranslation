@@ -1,16 +1,16 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「なーんか、あっという間に暗くなってきたな」=It kinda got dark out in no time, didn't it?
+「なーんか、あっという間に暗くなってきたな」=“It kinda got dark out in no time, didn't it?”
 CHOICE:『まだ時間ある？』=Still got some time?
 CHOICE:『そろそろ帰ろっか』=Let's go home.
-「そうだねぇ……あの、まだ時間あるかな？」=Yeah... uhm, do you still have some time?
-「ああ、あるにはあるけど……夜遊びでもするのか？」=Yeah, I do but... are we gonna hit up the city or something?
-「いやいや、実は、見せたいものがあるんだ。ちょっと来てもらってもいいかな？」=No, no, actually, there's something I wanna show you. Mind following me for a bit?
-「私に見せたいもの？　ふふっ、いいぜ。どんなものを見せてくれるか、すっげー楽しみだぜ！」=Something you wanna show me? Fufu, sure. I'm super excited to see just what you've got that's so special!
-「……そろそろ帰ろっか。今日は一日楽しかったよ」=...Let's head home. I had a blast today.
-「私もだ。ただ公園を歩くだけで、こんなに楽しいもんなんだな」=Me too. Just walking around in the park like this, can be so fun, huh?
-「これも……[P名]と一緒にいたからなのかな……？」=Is this too because... you're here with me, [P]...?
-「はは、そう言われると照れるな～」=Haha, you'll make me blush~
-「そうだ、せっかくなら手を繋ぎながら帰る？」=Right, wanna hold hands as we make our way back?
-「調子にノッてんじゃねーよっ」=Don't get carried away--
+「そうだねぇ……あの、まだ時間あるかな？」=“Yeah... uhm, do you still have some time?”
+「ああ、あるにはあるけど……夜遊びでもするのか？」=“Yeah, I do but... are we gonna hit up the city or something?”
+「いやいや、実は、見せたいものがあるんだ。ちょっと来てもらってもいいかな？」=“No, no, actually, there's something I wanna show you. Mind following me for a bit?”
+「私に見せたいもの？　ふふっ、いいぜ。どんなものを見せてくれるか、すっげー楽しみだぜ！」=“Something you wanna show me? Fufu, sure. I'm super excited to see just what you've got that's so special!”
+「……そろそろ帰ろっか。今日は一日楽しかったよ」=“...Let's head home. I had a blast today.”
+「私もだ。ただ公園を歩くだけで、こんなに楽しいもんなんだな」=“Me too. Just walking around in the park like this, can be so fun, huh?”
+「これも……[P名]と一緒にいたからなのかな……？」=“Is this too because... you're here with me, [P]...?”
+「はは、そう言われると照れるな～」=“Haha, you'll make me blush~”
+「そうだ、せっかくなら手を繋ぎながら帰る？」=“Right, wanna hold hands as we make our way back?”
+「調子にノッてんじゃねーよっ」=“Don't get carried away--”

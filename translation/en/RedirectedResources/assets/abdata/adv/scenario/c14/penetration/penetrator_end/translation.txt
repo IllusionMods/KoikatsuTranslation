@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「混ぜてもらってサンキューな、次あったらまた頼むぜー♪」=Thanks for letting me join in, lemme join in next time too, please♪
+「混ぜてもらってサンキューな、次あったらまた頼むぜー♪」=“Thanks for letting me join in, lemme join in next time too, please♪”

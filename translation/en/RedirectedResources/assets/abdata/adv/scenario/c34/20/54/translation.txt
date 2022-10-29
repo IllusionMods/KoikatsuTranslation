@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「はう～……ドキドキしすぎて、爆発しちゃいそうデシター」=Hoh~... It made my heart beat so much, I thought it'd explode.
+「はう～……ドキドキしすぎて、爆発しちゃいそうデシター」=“Hoh~... It made my heart beat so much, I thought it'd explode.”

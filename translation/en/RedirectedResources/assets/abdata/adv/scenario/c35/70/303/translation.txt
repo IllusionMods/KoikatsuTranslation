@@ -1,18 +1,18 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「あっ、もうこげな時間……思いきって声出しとったら、時間のことすっかり忘れとったよー」=Ah--, our time's already up... I was singing so hard, I completely forgot about the time.
+「あっ、もうこげな時間……思いきって声出しとったら、時間のことすっかり忘れとったよー」=“Ah--, our time's already up... I was singing so hard, I completely forgot about the time.”
 CHOICE:『良かったら延長しない？』=『Wanna extend it?』
 CHOICE:『そろそろ出ようか』=『Shall we go?』
-「俺もだよ。でも……何だかもう少し歌いたい気分だな。もし良かったら延長しない？」=Same here. But... I feel like singing for a bit longer. If it's alright with you, wanna extend our slot?
-「うんっ！　えへへ、実は私もそうしたいって思っとったん。まだまだ君と盛り上がりたいん」=Yeah--! Ehehe, I was actually feeling the same way. I want to get even more fired up with you.
-「うん、延長戦もばんばん盛り上げるよ！　それじゃ、受付に電話するね！」=Yeah, the overtime game's gonna be real fire! Well then, I'll call the reception!
-「あ、本当だ、もう時間いっぱいだね。それじゃ……そろそろ出ようか」=Ah, you're right, we sure spent a ton of time. Well then... shall we go?
-「うん、なんか弾けたーって感じ！　これでまた明日からも頑張れそうなん！」=Yeah, I feel like I'm just bursting with energy! Feel like I can get through the next few days just fine!
-「うん、たまにはこういうのも必要だよね！」=Yeah, this sort of thing is important too, every once in a while!
-「俺もだよ。残り時間的に歌えるのは……あと一曲くらいかな？　それ歌ったら出よっか」=Same here. I suppose we could fit in... one more song? Let's sing that and then blow this joint.
-「最後だし[H名]のかわいい歌声が聴きたいな」=For the last one, I'd love to hear your cute singing voice again, [H名].
-「えへへ、照れること言わんでよー、恥ずかしくなるやん♪　えっと……何かリクエストはあるとかいな？」=Ehehe, don't say stuff like that, I'll get shy♪ Erhm... got any specific requests?
-「じゃあ……この曲をお願い！」=A request... then, this one, please!
-「果てしない空の下　どこかにきっとあるんだ♪」=It ought to be somewhere Under this sky stretching so far♪
+「俺もだよ。でも……何だかもう少し歌いたい気分だな。もし良かったら延長しない？」=“Same here. But... I feel like singing for a bit longer. If it's alright with you, wanna extend our slot?”
+「うんっ！　えへへ、実は私もそうしたいって思っとったん。まだまだ君と盛り上がりたいん」=“Yeah--! Ehehe, I was actually feeling the same way. I want to get even more fired up with you.”
+「うん、延長戦もばんばん盛り上げるよ！　それじゃ、受付に電話するね！」=“Yeah, the overtime game's gonna be real fire! Well then, I'll call the reception!”
+「あ、本当だ、もう時間いっぱいだね。それじゃ……そろそろ出ようか」=“Ah, you're right, we sure spent a ton of time. Well then... shall we go?”
+「うん、なんか弾けたーって感じ！　これでまた明日からも頑張れそうなん！」=“Yeah, I feel like I'm just bursting with energy! Feel like I can get through the next few days just fine!”
+「うん、たまにはこういうのも必要だよね！」=“Yeah, this sort of thing is important too, every once in a while!”
+「俺もだよ。残り時間的に歌えるのは……あと一曲くらいかな？　それ歌ったら出よっか」=“Same here. I suppose we could fit in... one more song? Let's sing that and then blow this joint.”
+「最後だし[H名]のかわいい歌声が聴きたいな」=“For the last one, I'd love to hear your cute singing voice again, [H名].”
+「えへへ、照れること言わんでよー、恥ずかしくなるやん♪　えっと……何かリクエストはあるとかいな？」=“Ehehe, don't say stuff like that, I'll get shy♪ Erhm... got any specific requests?”
+「じゃあ……この曲をお願い！」=“A request... then, this one, please!”
+「果てしない空の下　どこかにきっとあるんだ♪」=“It ought to be somewhere Under this sky stretching so far♪”
 （やっぱ[H]の歌は聴いて元気がでるなぁ）=(Man, her singing really does fire me up.)

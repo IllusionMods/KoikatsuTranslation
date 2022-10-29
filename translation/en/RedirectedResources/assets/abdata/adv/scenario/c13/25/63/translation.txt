@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「お、おじゃましま～す。へぇ、[P]くんの部屋、結構片付いてるんだね～」=I-I'm coming in~. Heh~, your room's pretty tidy, [P名]-kun~
-「はじめてきたけど、なんかすごいドキドキするね」=It's my first time here but, I'm getting super excited.
-「やっぱり、アタシとしたいんだよね？　あは、じゃあ早く[P]くんのベットでいいコトしよ？」=Really, you want to do it with me, right? Aha, then, let's get to doing some fun stuff on your bed, shall we?
+「お、おじゃましま～す。へぇ、[P]くんの部屋、結構片付いてるんだね～」=“I-I'm coming in~. Heh~, your room's pretty tidy, [P名]-kun~”
+「はじめてきたけど、なんかすごいドキドキするね」=“It's my first time here but, I'm getting super excited.”
+「やっぱり、アタシとしたいんだよね？　あは、じゃあ早く[P]くんのベットでいいコトしよ？」=“Really, you want to do it with me, right? Aha, then, let's get to doing some fun stuff on your bed, shall we?”

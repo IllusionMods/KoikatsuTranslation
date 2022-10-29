@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「すっかり暗くなっちゃったね」=It's gotten completely pitch dark, hasn't it?
-「……少し寂しい気分になっちゃいます」=...I feel a bit lonely.
-「楽しい時間はあっという間だ」=Time flies when you're having fun.
-「はい……夢から醒めるような感覚です」=Yes... It feels like I just woke up from a dream.
-「……ゆっくり帰ろっか」=...Let's walk slowly.
-「はい。私、夢から醒めて少し疲れたみたいです」=Yes. Seems like I'm a bit tired out, after waking up from that dream.
+「すっかり暗くなっちゃったね」=“It's gotten completely pitch dark, hasn't it?”
+「……少し寂しい気分になっちゃいます」=“...I feel a bit lonely.”
+「楽しい時間はあっという間だ」=“Time flies when you're having fun.”
+「はい……夢から醒めるような感覚です」=“Yes... It feels like I just woke up from a dream.”
+「……ゆっくり帰ろっか」=“...Let's walk slowly.”
+「はい。私、夢から醒めて少し疲れたみたいです」=“Yes. Seems like I'm a bit tired out, after waking up from that dream.”

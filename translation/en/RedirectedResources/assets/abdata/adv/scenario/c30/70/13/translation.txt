@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「ふふっ、誘ってもらえて嬉しい！　もちろんＯＫよ」=Fufu, I'm glad you invited me! Of course, my answer is OK.
-「良かった。何だかもう楽しみになってきたよ」=Great! I'm looking forward to it.
-「私もよ。どこに行くか、何をするか……そんなことを考える時から、もうデートって始まってるのね、ふふっ」=So am I. Where to go, what to do... When you start thinking about that sort of stuff, the date has already begun, fufu.
+「ふふっ、誘ってもらえて嬉しい！　もちろんＯＫよ」=“Fufu, I'm glad you invited me! Of course, my answer is OK.”
+「良かった。何だかもう楽しみになってきたよ」=“Great! I'm looking forward to it.”
+「私もよ。どこに行くか、何をするか……そんなことを考える時から、もうデートって始まってるのね、ふふっ」=“So am I. Where to go, what to do... When you start thinking about that sort of stuff, the date has already begun, fufu.”

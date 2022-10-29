@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「ふぅ、勉強していると他の事がしたくなると言うが……なんだかムラムラしてきたな」=Fuu, when we're studying, I start feeling like doing other stuff too... I've started feeling kinda horny.
-「えっ！？　ほ、本気で言ってる？」=Eh--!? Are you saying that for real?
-「さぁ、どうだろうな？　それくらい察せないようでは、恋人失格だぞ？」=Who knows? If you can't seem to figure that much out, you'll get disqualified as my lover, you know?
-「ちょっと待って……勉強どころじゃなくなっちゃうよそれ……」=Wait a bit... I won't want to study anymore like that...
+「ふぅ、勉強していると他の事がしたくなると言うが……なんだかムラムラしてきたな」=“Fuu, when we're studying, I start feeling like doing other stuff too... I've started feeling kinda horny.”
+「えっ！？　ほ、本気で言ってる？」=“Eh--!? Are you saying that for real?”
+「さぁ、どうだろうな？　それくらい察せないようでは、恋人失格だぞ？」=“Who knows? If you can't seem to figure that much out, you'll get disqualified as my lover, you know?”
+「ちょっと待って……勉強どころじゃなくなっちゃうよそれ……」=“Wait a bit... I won't want to study anymore like that...”

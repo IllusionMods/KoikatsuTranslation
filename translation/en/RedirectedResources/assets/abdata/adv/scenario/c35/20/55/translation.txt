@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「私、もうダメやん……恥ずかしかったのに、ばり気持ち良かったっちゃもん」=There's no hope for me... Even though it was so embarrassing, it felt amazingly good.
+「私、もうダメやん……恥ずかしかったのに、ばり気持ち良かったっちゃもん」=“There's no hope for me... Even though it was so embarrassing, it felt amazingly good.”

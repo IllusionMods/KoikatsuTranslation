@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「すっかり暗くなってしまいましたね。さすがに帰りましょうか」=It's really gotten rather pitch dark. Let's hurry home.
-「うん。ちょっと後ろ髪惹かれるけど……」=Yeah. I almost don't want to leave but...
-「また来ればいいではないですか。私がまた……お付き合いしますから」=We can just come again, no? I don't mind... keeping you company.
-「ありがとう。そう言ってくれると、次への楽しみが生まれるよ」=Thanks. Hearing you say that's making me look forward to the next one now.
+「すっかり暗くなってしまいましたね。さすがに帰りましょうか」=“It's really gotten rather pitch dark. Let's hurry home.”
+「うん。ちょっと後ろ髪惹かれるけど……」=“Yeah. I almost don't want to leave but...”
+「また来ればいいではないですか。私がまた……お付き合いしますから」=“We can just come again, no? I don't mind... keeping you company.”
+「ありがとう。そう言ってくれると、次への楽しみが生まれるよ」=“Thanks. Hearing you say that's making me look forward to the next one now.”

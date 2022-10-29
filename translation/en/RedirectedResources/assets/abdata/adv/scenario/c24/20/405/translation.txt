@@ -3,7 +3,7 @@
 //
 「うふふ♡　それじゃあいきますね♡」=“Ufufu♡ Well then, let's go♡”
 「うん」=“Yeah.”
-「はい♡　あ～ん♡」=Here♡ Aaahn♡
+「はい♡　あ～ん♡」=“Here♡ Aaahn♡”
 「あ～ん……」=“Aahn...”
 「ぱくっ……うん、美味しいハンバーグだ」=“*chew*--... Yeah, that hamburg steak's really good.”
 「じゃあ、次は私が作ってきたハンバーグをどうぞ♡」=“Then, please try some from the one I made♡”

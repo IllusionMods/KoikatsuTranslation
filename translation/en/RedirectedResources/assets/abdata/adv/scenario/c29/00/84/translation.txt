@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「コイカツ部では、具体的にどのような活動をしているんですか？」=Exactly what sort of activities do you do in this club?
-「うーん、恋人同士でするようなことを研究したり、実践したりかな」=Mmm, researching what sort of stuff couples get up to, and trying it out for ourselves, I guess?
-「たとえば……膝枕とか？」=For example... a lap pillow, I guess?
-「ではそれをやりましょう」=Well then, let's do that.
-「……えっ？」=...Eh--?
-「ほら、床に座りますので、あなたは横になってください」=Come on, I'll sit down on the floor, so please come lie down.
+「コイカツ部では、具体的にどのような活動をしているんですか？」=“Exactly what sort of activities do you do in this club?”
+「うーん、恋人同士でするようなことを研究したり、実践したりかな」=“Mmm, researching what sort of stuff couples get up to, and trying it out for ourselves, I guess?”
+「たとえば……膝枕とか？」=“For example... a lap pillow, I guess?”
+「ではそれをやりましょう」=“Well then, let's do that.”
+「……えっ？」=“...Eh--?”
+「ほら、床に座りますので、あなたは横になってください」=“Come on, I'll sit down on the floor, so please come lie down.”

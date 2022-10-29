@@ -1,23 +1,23 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「んーーーーっ。開放的で気持ちいいね」=Nnnnnnnnn--. Feels super open and nice.
-「そうですね、風も気持ちいいです」=Indeed, the wind feels nice too.
-「このまま、ぼーっとしていたくもなるけど……あっ、向こうにお店が出てるね。行ってみる？」=While I do want to just stay like this and stare out in a daze... Ah--, there's a shop over there. Wanna go check it out?
-「はい、お腹も空いてきましたので丁度いいです」=Yes, I was just feeling hungry so it's perfect.
-「よしっ、じゃあここでお昼ご飯にしちゃおう」=Alright--, then let's have lunch here.
+「んーーーーっ。開放的で気持ちいいね」=“Nnnnnnnnn--. Feels super open and nice.”
+「そうですね、風も気持ちいいです」=“Indeed, the wind feels nice too.”
+「このまま、ぼーっとしていたくもなるけど……あっ、向こうにお店が出てるね。行ってみる？」=“While I do want to just stay like this and stare out in a daze... Ah--, there's a shop over there. Wanna go check it out?”
+「はい、お腹も空いてきましたので丁度いいです」=“Yes, I was just feeling hungry so it's perfect.”
+「よしっ、じゃあここでお昼ご飯にしちゃおう」=“Alright--, then let's have lunch here.”
 ………………=.........
-「へぇ。ご飯物から軽食まで色々あるね。こんなに揃ってると迷うなぁ」=Hoh, they have everything from fast food to full course meals. With this many options, it's actually kinda hard to decide.
-「[H名]はなに食べたい？」=What do you want to eat, [H名]?
-「私はこちらのサンドイッチにします」=I'll have this sandwich over here.
-「どれどれ……あ、今だけの限定って書いてあるね。美味しそう」=Which one... Ah, says it's a limited time menu item. Looks great.
-「俺も同じのにしようかな。でもハンバーガーも食べたいし……うーん」=Maybe I'll go for the same one. Ah, but I wanna get this hamburger too... Hmmmm.
-「一口食べます？」=Would you like to have a bite?
-「あー、[H名]がよければいいかな？」=Aah, as long as it's alright with you, [H名]?
-「構いません。その代り、私もそちらのハンバーガーを一口頂きます」=I don't mind at all. In return, I would like to have a bite of your burger too.
-「了解。それじゃ買ってくるから、[H名]はあそこのベンチで待っててくれるかな？」=Roger. Well then, I'll go place the order so, could you wait at that bench over there, [H名]?
-「いえ、私も一緒にいます」=No, I'll come with you.
-「ここは男を見せたいとこだけど……割り勘のほうがよかった？」=This is a part where I'd like to show you my gentlemanly side but... would you rather we go dutch for the bill?
-「それもありますが、折角のデートです。少しでもあなたの側に居たいと思うのは恋人として当然かと」=There is that too but, we don't go out on dates that often. Is it not natural for your girlfriend to want to be by your side even a little bit more?
-「あー……うん、それじゃ、一緒に会計してラブラブである所を店員に見せつけようか！」=Aah... Yeah, well then, let's go settle the bill together then put on a show of our lovey-dovey side for the employees!
-「はい、お腹も空きましたし、早く注文してしまいましょう」=Yes, I'm feeling hungry too, so let's go place the order quickly.
+「へぇ。ご飯物から軽食まで色々あるね。こんなに揃ってると迷うなぁ」=“Hoh, they have everything from fast food to full course meals. With this many options, it's actually kinda hard to decide.”
+「[H名]はなに食べたい？」=“What do you want to eat, [H名]?”
+「私はこちらのサンドイッチにします」=“I'll have this sandwich over here.”
+「どれどれ……あ、今だけの限定って書いてあるね。美味しそう」=“Which one... Ah, says it's a limited time menu item. Looks great.”
+「俺も同じのにしようかな。でもハンバーガーも食べたいし……うーん」=“Maybe I'll go for the same one. Ah, but I wanna get this hamburger too... Hmmmm.”
+「一口食べます？」=“Would you like to have a bite?”
+「あー、[H名]がよければいいかな？」=“Aah, as long as it's alright with you, [H名]?”
+「構いません。その代り、私もそちらのハンバーガーを一口頂きます」=“I don't mind at all. In return, I would like to have a bite of your burger too.”
+「了解。それじゃ買ってくるから、[H名]はあそこのベンチで待っててくれるかな？」=“Roger. Well then, I'll go place the order so, could you wait at that bench over there, [H名]?”
+「いえ、私も一緒にいます」=“No, I'll come with you.”
+「ここは男を見せたいとこだけど……割り勘のほうがよかった？」=“This is a part where I'd like to show you my gentlemanly side but... would you rather we go dutch for the bill?”
+「それもありますが、折角のデートです。少しでもあなたの側に居たいと思うのは恋人として当然かと」=“There is that too but, we don't go out on dates that often. Is it not natural for your girlfriend to want to be by your side even a little bit more?”
+「あー……うん、それじゃ、一緒に会計してラブラブである所を店員に見せつけようか！」=“Aah... Yeah, well then, let's go settle the bill together then put on a show of our lovey-dovey side for the employees!”
+「はい、お腹も空きましたし、早く注文してしまいましょう」=“Yes, I'm feeling hungry too, so let's go place the order quickly.”

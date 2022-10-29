@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「おはよう。あ、ほら、まだ寝ぐせついてるわよ」=Morning. Ah, look. you still have bed hair.
-「え、どこ？」=Eh, where?
-「うしろの方よ。君の席で整えてあげるから、早く教室へ行きましょ」=On the back. I'll fix it for you at your desk, so let's hurry to the classroom.
+「おはよう。あ、ほら、まだ寝ぐせついてるわよ」=“Morning. Ah, look. you still have bed hair.”
+「え、どこ？」=“Eh, where?”
+「うしろの方よ。君の席で整えてあげるから、早く教室へ行きましょ」=“On the back. I'll fix it for you at your desk, so let's hurry to the classroom.”

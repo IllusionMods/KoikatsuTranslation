@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「えっと……混ざりたいの？　俺はしたいけど……」=Erhm... You wanna join us? I'm all for it but...
-「……まあ、あなたの願いですからね。仕方ありません」=...Well, it can't be helped. You're the one asking, afterall.
-「えっと……混ざりたいの？　……どうする？」=Erhm... You wanna join us?What do you wanna do?
-「そうですか、三人で……ふふっ、これは捗りそうですね」=The three of us, huh... Fufu--, seems like this could work.
+「えっと……混ざりたいの？　俺はしたいけど……」=“Erhm... You wanna join us? I'm all for it but...”
+「……まあ、あなたの願いですからね。仕方ありません」=“...Well, it can't be helped. You're the one asking, afterall.”
+「えっと……混ざりたいの？　……どうする？」=“Erhm... You wanna join us?What do you wanna do?”
+「そうですか、三人で……ふふっ、これは捗りそうですね」=“The three of us, huh... Fufu--, seems like this could work.”

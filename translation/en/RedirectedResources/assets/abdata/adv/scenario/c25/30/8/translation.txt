@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「なっ！　そんないきなり……うぅ……」=Wha--! So suddenly... uuu...
-「俺はきみとしたいって前から思ってたんだ」=I've been thinking about this for a while, wanting to do it with you.
-「うぅ～、わ、わかったから……ああ、ついにこの時が……」=Uu~, I-I got it so... aah, finally, it's time, huh...
-「えと……よ、よろしくお願いしま、す？」=Erhm... p-please take care of, me?
+「なっ！　そんないきなり……うぅ……」=“Wha--! So suddenly... uuu...”
+「俺はきみとしたいって前から思ってたんだ」=“I've been thinking about this for a while, wanting to do it with you.”
+「うぅ～、わ、わかったから……ああ、ついにこの時が……」=“Uu~, I-I got it so... aah, finally, it's time, huh...”
+「えと……よ、よろしくお願いしま、す？」=“Erhm... p-please take care of, me?”

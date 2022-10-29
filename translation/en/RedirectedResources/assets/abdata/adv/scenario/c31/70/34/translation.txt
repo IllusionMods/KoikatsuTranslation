@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「どんなものであれ、気持ちは嬉しい。素直にありがとうと言っておこう」=No matter what sort of thing it is, I appreciate the thought. I'll gratefully accept it.
+「どんなものであれ、気持ちは嬉しい。素直にありがとうと言っておこう」=“No matter what sort of thing it is, I appreciate the thought. I'll gratefully accept it.”

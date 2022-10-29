@@ -1,19 +1,19 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「うわ、どんどん人が乗ってくるね……ごめん[H名]さん、少し詰められる？」="Wow, more and more people are getting on."
-「無理よ、寄るなと言ったでしょ。こらっ、いくらなんでも近付き過ぎよ」="I just told you 'don't come near me', didn't I? Say what you like, but you're getting too close."
-「そんな事言ったって、この混雑じゃ仕方ないよっ……あぁっ」="Even if you did tell me that, I can't stop people from flowing in... Ah."
-（はぁ、[H名]さんの匂いがこんな近くに……やば、反応してしまうっ）=(*Sigh* the smell of Miss [H名] is so close... It's dangerous, I'm reacting to it down there."
+「うわ、どんどん人が乗ってくるね……ごめん[H名]さん、少し詰められる？」=“Wow, more and more people are getting on.”
+「無理よ、寄るなと言ったでしょ。こらっ、いくらなんでも近付き過ぎよ」=“I just told you 'don't come near me', didn't I? Say what you like, but you're getting too close.”
+「そんな事言ったって、この混雑じゃ仕方ないよっ……あぁっ」=“Even if you did tell me that, I can't stop people from flowing in... Ah.”
+（はぁ、[H名]さんの匂いがこんな近くに……やば、反応してしまうっ）=(*Sigh* the smell of Miss [H名] is so close... It's dangerous, I'm reacting to it down there.")
 CHOICE:『欲望に身を任せる』=Surrender to the desire
 CHOICE:『鉄の自制心で堪える』=Endure with iron self-control
 （イケナイことだけど……我慢できない）=(It's unacceptable, but... I can't control it.)
-「んぅ、今すぐその恥知らずなモノを、私から離しなさい。ほら、早く」="Take this thing from me immediately. C'mon, quickly."
-「む、無理だよ……動ける状態じゃないし、こうなったら中々元には戻らないよ……」="I can't help it... I can't move in this situation, and now it pretty much won't get flabby."
-「無理じゃないし、例え無理でもやるのよ。私の命令が聞けないの？」="Don't say you can't help it, even if it's impossible, do it. You can't follow my order?"
-「うぅぅ、じゃあ、[H名]さんにも手伝ってもらうよっ」="Uuh, then... Give me a hand, Miss [H名]."
-「ちょっと、待ちなさい……貴方まさか……やめっ、こらっ、お仕置きじゃ済まないわよ？」="Wait, what are you planning... No way... Sto-, hey! Your punishment will be severe!"
-「ごめん、もう止められそうにないっ。なるべく早く終わらせるから」="I'm sorry, it looks like it can't be stopped anymore. Let me end this quickly then."
+「んぅ、今すぐその恥知らずなモノを、私から離しなさい。ほら、早く」=“Take this thing from me immediately. C'mon, quickly.”
+「む、無理だよ……動ける状態じゃないし、こうなったら中々元には戻らないよ……」=“I can't help it... I can't move in this situation, and now it pretty much won't get flabby.”
+「無理じゃないし、例え無理でもやるのよ。私の命令が聞けないの？」=“Don't say you can't help it, even if it's impossible, do it. You can't follow my order?”
+「うぅぅ、じゃあ、[H名]さんにも手伝ってもらうよっ」=“Uuh, then... Give me a hand, Miss [H名].”
+「ちょっと、待ちなさい……貴方まさか……やめっ、こらっ、お仕置きじゃ済まないわよ？」=“Wait, what are you planning... No way... Sto-, hey! Your punishment will be severe!”
+「ごめん、もう止められそうにないっ。なるべく早く終わらせるから」=“I'm sorry, it looks like it can't be stopped anymore. Let me end this quickly then.”
 （我慢しろ、俺っ！　こんな所で勃起させたら[H名]さんに何を言われるか……！）=(I must persevere! What would Miss [H名] say if I were to have a boner in such a place...!)
 （どこでもおっ勃たてる節操のない奴だと罵られ……それも案外、悪くないような……）=(Just how much would she abuse me for having no principles... But that also doesn't sound too bad...)
 （って、その考えがダメだ！　我慢、我慢……少しの辛抱だ）=(No, don't think about it! I must... Endure... Just a bit of patience.)

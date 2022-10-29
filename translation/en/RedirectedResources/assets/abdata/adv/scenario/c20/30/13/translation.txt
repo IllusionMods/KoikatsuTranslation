@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「は、はい。私も……行きたいです」=O-Okay. I want to... go too.
-「よかった。色々考えておくから、楽しみにしててね」=Great. I'll think of all sorts of things, so look forward to it, okay?
-「……はい！　準備して、待っていますね！」=...Okay! I'll prepare myself, and wait for the day!
+「は、はい。私も……行きたいです」=“O-Okay. I want to... go too.”
+「よかった。色々考えておくから、楽しみにしててね」=“Great. I'll think of all sorts of things, so look forward to it, okay?”
+「……はい！　準備して、待っていますね！」=“...Okay! I'll prepare myself, and wait for the day!”
