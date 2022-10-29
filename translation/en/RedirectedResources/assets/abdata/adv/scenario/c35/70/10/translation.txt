@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「コイカツ部……私みたいなのでも入っていいん？」=Koikatsu club... Sure you're fine with someone like me?
-「え？　どういう意味？」=Eh? What do you mean?
-「だ、だってほらっ……こっちの男女がどういうことするとか……よく分からんし……」=I-I mean, you know--... I don't really know how... romance works in the city and all...
-「そんなの関係ないよ。むしろ、男女がどういうことするのかを練習するのがコイカツ部なんだし……一緒に少しずつ勉強しない？」=That really doesn't matter at all. If anything, learning how romance works is what the Koikatsu club is all about in the first place... Won't you study it together with me?
-「そうなんや……うんっ、だったら入りたいかも！　これから部員としてよろしくお願いします！」=I see, that so, huh?... Yeah--, I wanna join it then, I think! As I'm a new member, take care of me, please!
+「コイカツ部……私みたいなのでも入っていいん？」=“Koikatsu club... Sure you're fine with someone like me?”
+「え？　どういう意味？」=“Eh? What do you mean?”
+「だ、だってほらっ……こっちの男女がどういうことするとか……よく分からんし……」=“I-I mean, you know--... I don't really know how... romance works in the city and all...”
+「そんなの関係ないよ。むしろ、男女がどういうことするのかを練習するのがコイカツ部なんだし……一緒に少しずつ勉強しない？」=“That really doesn't matter at all. If anything, learning how romance works is what the Koikatsu club is all about in the first place... Won't you study it together with me?”
+「そうなんや……うんっ、だったら入りたいかも！　これから部員としてよろしくお願いします！」=“I see, that so, huh?... Yeah--, I wanna join it then, I think! As I'm a new member, take care of me, please!”

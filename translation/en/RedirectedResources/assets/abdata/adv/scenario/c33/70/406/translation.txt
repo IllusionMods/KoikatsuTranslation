@@ -1,11 +1,11 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「あれ、もうこんな時間？」=Huh? It's already this late?
-「ふふ、やっと気づいた。時間を忘れて私と話し込んじゃうあなたを見てると、とっても騙されやすそうで私が守ってあげなきゃって思っちゃった」=Fufu, you finally noticed. When I saw you so deeply immersed in conversation with me that you forgot the passage of time, you looked like such easy prey, I felt like I just had to keep it going.
-「そ、それは……[H名]さんが俺が好きそうな話題をポンポン……あっ、そうして[H名]さんの術中にハマっていったんだ」=T-That's... You kept firing off topics I liked one after another... Ah--, So that's how I fell into your trap.
-「そういうこと。たまには日暮れまで喫茶店でお話するのもいいものでしょ？」=That's right. Isn't it nice to sit and chat in cafe until sundown from time to time?
-「言われてみれば、そうだね。学園だとどうしても授業が挟まっちゃうから、こんなにガッツリ話せる時間は貴重だね」=Now that you say it, that's true. When we're in school, class ends up getting in the way no matter what, so having the time to talk freely like this is rather precious.
-「ええ。あなたと落ち着いて話したかったのよ」=Yes. I wanted to relax and chat around with you.
-「[H名]さん……」=[H名]-san...
+「あれ、もうこんな時間？」=“Huh? It's already this late?”
+「ふふ、やっと気づいた。時間を忘れて私と話し込んじゃうあなたを見てると、とっても騙されやすそうで私が守ってあげなきゃって思っちゃった」=“Fufu, you finally noticed. When I saw you so deeply immersed in conversation with me that you forgot the passage of time, you looked like such easy prey, I felt like I just had to keep it going.”
+「そ、それは……[H名]さんが俺が好きそうな話題をポンポン……あっ、そうして[H名]さんの術中にハマっていったんだ」=“T-That's... You kept firing off topics I liked one after another... Ah--, So that's how I fell into your trap.”
+「そういうこと。たまには日暮れまで喫茶店でお話するのもいいものでしょ？」=“That's right. Isn't it nice to sit and chat in cafe until sundown from time to time?”
+「言われてみれば、そうだね。学園だとどうしても授業が挟まっちゃうから、こんなにガッツリ話せる時間は貴重だね」=“Now that you say it, that's true. When we're in school, class ends up getting in the way no matter what, so having the time to talk freely like this is rather precious.”
+「ええ。あなたと落ち着いて話したかったのよ」=“Yes. I wanted to relax and chat around with you.”
+「[H名]さん……」=“[H名]-san...”
 （ある意味、高嶺の花みたいな[H名]さんに言われると、本当に嬉しいなぁ。これからもたまには喫茶店デートに連れていこう）=(Hearing that from [H名]-san, someone who feels like such an unreachable existence, makes me really happy. Let's have some more coffee shop dates occasionally from now on.)

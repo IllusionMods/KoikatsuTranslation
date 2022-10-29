@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「うわっ！　お前……そんなに私の事が知りたいのか？」=Uwah--! You... You wanna know more about me that badly?
+「うわっ！　お前……そんなに私の事が知りたいのか？」=“Uwah--! You... You wanna know more about me that badly?”

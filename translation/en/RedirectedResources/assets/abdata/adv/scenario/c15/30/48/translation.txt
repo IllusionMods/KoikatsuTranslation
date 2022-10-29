@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「へへー、キミに抱かれるの、すっごい気持ちいいぞ。またしような♪」=Hehe, being embraced by you, feels amazing. Let's do it again, okay?♪
+「へへー、キミに抱かれるの、すっごい気持ちいいぞ。またしような♪」=“Hehe, being embraced by you, feels amazing. Let's do it again, okay?♪”

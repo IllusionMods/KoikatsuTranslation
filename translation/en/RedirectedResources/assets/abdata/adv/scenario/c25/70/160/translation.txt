@@ -2,11 +2,11 @@
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
 「へっくしゅ……うぅ、鼻水が……」=*sneeze*... Uuu, my snot is...
-「大丈夫？　はい、ティッシュ」=You alright? Here, a tissue.
-「あ、ありがとう……ち～～んっ」=T-Thanks... *blow*--
-「少し風が冷たくなってるし、早めに帰らないとね」=The wind's starting to get colder too, gotta get home in short order.
-「……私の身体が冷えなくて、なおかつ帰れる素晴らしい方法があるんすけど」=...There's an even better way for us to get home, one that'll make me feel less cold too.
-「……おんぶ？」=...Piggy back?
-「大正解～。ご褒美として私をあんぶしていい権利をさしあげるっす」=Spot on~. As a reward, I'll let you have the right to carry me on your back.
-「……まあ、途中までならいいよ」=...Well, I don't mind carrying you halfway.
-「やった～。へへ～……」=Yay~. Hehe~...
+「大丈夫？　はい、ティッシュ」=“You alright? Here, a tissue.”
+「あ、ありがとう……ち～～んっ」=“T-Thanks... *blow*--”
+「少し風が冷たくなってるし、早めに帰らないとね」=“The wind's starting to get colder too, gotta get home in short order.”
+「……私の身体が冷えなくて、なおかつ帰れる素晴らしい方法があるんすけど」=“...There's an even better way for us to get home, one that'll make me feel less cold too.”
+「……おんぶ？」=“...Piggy back?”
+「大正解～。ご褒美として私をあんぶしていい権利をさしあげるっす」=“Spot on~. As a reward, I'll let you have the right to carry me on your back.”
+「……まあ、途中までならいいよ」=“...Well, I don't mind carrying you halfway.”
+「やった～。へへ～……」=“Yay~. Hehe~...”

@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「えへへ、こうやってお外で開放的にお昼を食べるんもいいねぇ。風が気持ち良くて、いつもよりご飯が進みそうなん」=Ehehe, eating lunch like this in a wide open area is nice too, no? The wind feels so nice, feel like I can pack in a lot more than usual.
-「うーん、確かに。でも、食べ過ぎたら食べ過ぎたで、お腹がきつくなるんだよね」=Mmm, certainly. But, if you overeat, you're gonna have a rough time later.
-「分かる～。やっぱり腹八分目にするのが一番やね」=I feel you~. Best to stop short just a bit before having a full belly.
-「そんなこと言って、デザートは別腹なんでしょう？」=You say that, but you're still gonna make room from some desert, aren't you?
-「当たり前やん！　って、食い意地はってるみたいで、はしたなか～」=Of course! Heh, that just sounds like I'm trying to justify my gluttony though, disgraceful, ain't it?~
-「はは、でも俺は[H名]が美味しそうにご飯食べてるところ好きだし、少しくらいなら気にしないよ」=Haha, but I love watching you eat your food deliciously, [H名], so a little bit of gluttony is fine in my books.
-「す、好きって……うぅ～、なんか君の言葉に甘やかされてたら、ぶくぶく太りそうやん」=L-Love... uu~, I feel like if I get pulled along by your words, I'm going to get all plump and fat in no time.
+「えへへ、こうやってお外で開放的にお昼を食べるんもいいねぇ。風が気持ち良くて、いつもよりご飯が進みそうなん」=“Ehehe, eating lunch like this in a wide open area is nice too, no? The wind feels so nice, feel like I can pack in a lot more than usual.”
+「うーん、確かに。でも、食べ過ぎたら食べ過ぎたで、お腹がきつくなるんだよね」=“Mmm, certainly. But, if you overeat, you're gonna have a rough time later.”
+「分かる～。やっぱり腹八分目にするのが一番やね」=“I feel you~. Best to stop short just a bit before having a full belly.”
+「そんなこと言って、デザートは別腹なんでしょう？」=“You say that, but you're still gonna make room from some desert, aren't you?”
+「当たり前やん！　って、食い意地はってるみたいで、はしたなか～」=“Of course! Heh, that just sounds like I'm trying to justify my gluttony though, disgraceful, ain't it?~”
+「はは、でも俺は[H名]が美味しそうにご飯食べてるところ好きだし、少しくらいなら気にしないよ」=“Haha, but I love watching you eat your food deliciously, [H名], so a little bit of gluttony is fine in my books.”
+「す、好きって……うぅ～、なんか君の言葉に甘やかされてたら、ぶくぶく太りそうやん」=“L-Love... uu~, I feel like if I get pulled along by your words, I'm going to get all plump and fat in no time.”

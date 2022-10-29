@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「ごめんなさい、私もシたくてたまらないの……いいかしら？」=I'm sorry, I want to do it so badly too, I can't handle it... could I join?
+「ごめんなさい、私もシたくてたまらないの……いいかしら？」=“I'm sorry, I want to do it so badly too, I can't handle it... could I join?”

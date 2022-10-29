@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「軽くやってるつもりなのに結構汗かいたなぁ……」=Even tho I wasn't playing seriously, I sure gathered up a lot of sweat...
-「そうね。もしかしてキミ、日頃から運動不足だったり……？」=Yea... By any chance, do you not exercise that much regularly?
-「え……あ、あはは……もしかしたらそうなのかも……[H名]は平気そうだね」=Eh... Ah... Ahaha... Maybe. You seem just fine tho, [H名]
-「ううん、こう見えて……お姉さん、実はクタクタなのよ……もう寝そべっちゃいたいくらい……はふぅ……限界ー！」=Nah. Even if I look like this, I'm actually really exhausted. I just wanna lie down to be honest... Hah... This is my limit!
+「軽くやってるつもりなのに結構汗かいたなぁ……」=“Even tho I wasn't playing seriously, I sure gathered up a lot of sweat...”
+「そうね。もしかしてキミ、日頃から運動不足だったり……？」=“Yea... By any chance, do you not exercise that much regularly?”
+「え……あ、あはは……もしかしたらそうなのかも……[H名]は平気そうだね」=“Eh... Ah... Ahaha... Maybe. You seem just fine tho, [H名]”
+「ううん、こう見えて……お姉さん、実はクタクタなのよ……もう寝そべっちゃいたいくらい……はふぅ……限界ー！」=“Nah. Even if I look like this, I'm actually really exhausted. I just wanna lie down to be honest... Hah... This is my limit!”

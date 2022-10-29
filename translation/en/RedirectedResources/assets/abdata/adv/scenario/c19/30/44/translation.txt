@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「へえ、色々あるんだね」=Hoh, there's all sorts here, huh?
-「あの書店とかはどうかな？　実は今日、新刊の発売日なの」=What about that shop over there? There's actually a new book coming out today.
-「うん、いいよ」=Yeah, alright.
-「わざわざ付き合ってくれてありがとう。おかげで新しいジャンルを開拓できたかも」=Thanks for coming along with me. Thanks to you, I think I got interested in a new genre.
+「へえ、色々あるんだね」=“Hoh, there's all sorts here, huh?”
+「あの書店とかはどうかな？　実は今日、新刊の発売日なの」=“What about that shop over there? There's actually a new book coming out today.”
+「うん、いいよ」=“Yeah, alright.”
+「わざわざ付き合ってくれてありがとう。おかげで新しいジャンルを開拓できたかも」=“Thanks for coming along with me. Thanks to you, I think I got interested in a new genre.”
 （よかった、喜んでもらえたみたいだ）=(Great, looks like she had fun.)

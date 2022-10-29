@@ -1,19 +1,19 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「……ちょっと予想以上に混んできたね」=...It's gotten more packed than I expected.
-「[H名]、平気？　苦しくない？」=[H], you fine? Not hard on you, is it?
-「私は大丈夫だけど……君、結構きつくない？　私のことだったら気にしなくていいから、もっとくっついていいよ」=I'm fine but... aren't you having a hard time? You don't need to mind me, you can squeeze closer.
-「ありがと、そうさせてもら……っ」=Thanks, I'll do just tha--...
+「……ちょっと予想以上に混んできたね」=“...It's gotten more packed than I expected.”
+「[H名]、平気？　苦しくない？」=“[H], you fine? Not hard on you, is it?”
+「私は大丈夫だけど……君、結構きつくない？　私のことだったら気にしなくていいから、もっとくっついていいよ」=“I'm fine but... aren't you having a hard time? You don't need to mind me, you can squeeze closer.”
+「ありがと、そうさせてもら……っ」=“Thanks, I'll do just tha--...”
 （うぐっ……お、押されて必要以上に[H名]の近くに……！）=(Uguh--... I-I got pushed way closer than I was going for...!)
 （ヤバい……[H名]の香りと体温で……ムラムラしてくる……）=(Damn... her scent and her warmth... I'm getting horny...)
 CHOICE:『ムラムラを抑えきれない』=Can't hold it in.
 CHOICE:『ムラムラを必死に抑える』=Gotta hold it in like my life depends on it.
 （我慢、しなきゃって分かってるけど……ダメだ、全然抑えきれない……）=(I know I gotta endure, I know it but... no use, it's not working...)
-「……この硬いのって……もしかして君……こんな場所でも興奮しちゃったの？」=...This hard thing... is it your... did you get horny even in a place like this?
+「……この硬いのって……もしかして君……こんな場所でも興奮しちゃったの？」=“...This hard thing... is it your... did you get horny even in a place like this?”
 「ご、ごめんっ……つい……でもしばらくすれば落ち着くからっ……さ、触っちゃダメだよ」」=S-Sorry--... I just... but it'll calm down on its own if you leave it be so--... d-don't touch it.
-「本当に落ち着けるの？　だって着くまでまだまだ時間あるよ？　こんなに硬くなってるのに？」=There's still loads of time until we get to our stop, you know? Will it really calm down? When it's this hard?
-「そ、それはっ……きついけどっ……我慢するからっ……」=T-That's... it's rough but--... I'll endure it so...
-「えへへ、もー、我慢なんて必要ないよ。こっそりやっちゃえばバレないと思うし……今日一日楽しませてくれたお礼に……私が……スッキリさせてあげる♪」=Ehehe, jeez, you don't need to hold it in. I don't think anyone will notice if we do it quietly... I'll help you feel all better... as thanks... for all the fun today♪
+「本当に落ち着けるの？　だって着くまでまだまだ時間あるよ？　こんなに硬くなってるのに？」=“There's still loads of time until we get to our stop, you know? Will it really calm down? When it's this hard?”
+「そ、それはっ……きついけどっ……我慢するからっ……」=“T-That's... it's rough but--... I'll endure it so...”
+「えへへ、もー、我慢なんて必要ないよ。こっそりやっちゃえばバレないと思うし……今日一日楽しませてくれたお礼に……私が……スッキリさせてあげる♪」=“Ehehe, jeez, you don't need to hold it in. I don't think anyone will notice if we do it quietly... I'll help you feel all better... as thanks... for all the fun today♪”
 （い、いや……ここで反応したら……せっかくのデートが台無しになってしまう……！）=(N-No... if I react here... all that effort today will have been for nothing...)
 （我慢、しないと……うぅ、でも本当にいい匂いがするなぁ……俺の理性、ちゃんと持ってくれるか……？）=(Gotta, endure... uuu, but she really does smell just so nice... will my self-control hold...?)

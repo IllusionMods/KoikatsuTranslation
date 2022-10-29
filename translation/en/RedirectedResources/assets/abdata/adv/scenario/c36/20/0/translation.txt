@@ -1,15 +1,15 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「待って、もしかして私に話しかけようとしている？」="Wait, are you by any chance trying to talk to me?"
-「えっ、うん……そうだけど……」="Eh, y-yeah, that's right, but..."
-「へぇ、学園の家畜風情が、この私と話をしたいと言うのね」="Huh, the likes of school's livestock wants to talk to ME?"
-「か、家畜って……そんな」="L-livestock... No way..."
-「何か違う？　この学園に貴方は飼われてて、私と交流しようとしているのでしょう？」="What's wrong? You're being kept in this school and are trying to socialize with me, is that not right?"
-「それはちょっと違うかな。学園とかは関係ない。キミに話しかけたのは、俺の意思だよ」="It's a little different. It has nothing to do with school, I just wanted to talk with you."
-「ふぅん、なかなか面白い事を言うじゃない。でも私の事を『キミ』なんて……気安いわね」="Huh, you're saying something quite interesting. But you're too familiar, calling me 'you'"
-「ご、ごめん！　[H名]さん……でいいかな？」="So-sorry! Miss [H名]... is that okay?"
-「よろしい。物分かりの良い豚ね。そういう所は評価してあげるわ」="Very well. You're quite perceptive, pig. I appreciate that."
-「うっ……名前では呼んでくれないんだ……」="Umm... I'd like to be called by my name..."
-「名前で？　何故？　いちいち家畜を名前で呼ぶかしら？　貴方、かなりおめでたい頭のようね」="Name? Why? Is every single pig called by its name? You're quite naïve, huh"
+「待って、もしかして私に話しかけようとしている？」=“Wait, are you by any chance trying to talk to me?”
+「えっ、うん……そうだけど……」=“Eh, y-yeah, that's right, but...”
+「へぇ、学園の家畜風情が、この私と話をしたいと言うのね」=“Huh, the likes of school's livestock wants to talk to ME?”
+「か、家畜って……そんな」=“L-livestock... No way...”
+「何か違う？　この学園に貴方は飼われてて、私と交流しようとしているのでしょう？」=“What's wrong? You're being kept in this school and are trying to socialize with me, is that not right?”
+「それはちょっと違うかな。学園とかは関係ない。キミに話しかけたのは、俺の意思だよ」=“It's a little different. It has nothing to do with school, I just wanted to talk with you.”
+「ふぅん、なかなか面白い事を言うじゃない。でも私の事を『キミ』なんて……気安いわね」=“Huh, you're saying something quite interesting. But you're too familiar, calling me 'you”
+「ご、ごめん！　[H名]さん……でいいかな？」=“So-sorry! Miss [H名]... is that okay?”
+「よろしい。物分かりの良い豚ね。そういう所は評価してあげるわ」=“Very well. You're quite perceptive, pig. I appreciate that.”
+「うっ……名前では呼んでくれないんだ……」=“Umm... I'd like to be called by my name...”
+「名前で？　何故？　いちいち家畜を名前で呼ぶかしら？　貴方、かなりおめでたい頭のようね」=“Name? Why? Is every single pig called by its name? You're quite naïve, huh”
 （ぐっ……完全にペースを奪われてる……どうすればいいんだ、これ……）=(Uhh... I'm completely robbed of my pace... What should I do with it...)

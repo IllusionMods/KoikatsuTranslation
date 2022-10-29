@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「二人でやると、勉強も楽しいね」=When we do it together, even studying is fun, don't you think?
-「あぁ、否定はできないな。効率も上がるし、良いこと尽くめという訳か」=Yeah, I can't refute that. The efficiency goes the roof too, nothing but good stuff.
-「このまま一緒にやっていたら、二人で学園トップの秀才になっちゃうかもね」=If we keep doing it together like this, we might end up becoming the top prodigies in this school.
-「おまえはすぐそうして調子に乗る。頭が良くても、賢くなければ意味がないのだぞ？」=You always get carried away at the drop of a hat like that. Even if you have a good head, if you don't have street smarts, there's no point, you know?
-「ははっ、なんかお母さんみたいな事言われちゃったね」=Haha--, you sound like you're my mother.
-「お、おかっ！？　そこはせめて、おねーさんと言え！」=M-Moth--!? Atleast say "elder sister" instead!
+「二人でやると、勉強も楽しいね」=“When we do it together, even studying is fun, don't you think?”
+「あぁ、否定はできないな。効率も上がるし、良いこと尽くめという訳か」=“Yeah, I can't refute that. The efficiency goes the roof too, nothing but good stuff.”
+「このまま一緒にやっていたら、二人で学園トップの秀才になっちゃうかもね」=“If we keep doing it together like this, we might end up becoming the top prodigies in this school.”
+「おまえはすぐそうして調子に乗る。頭が良くても、賢くなければ意味がないのだぞ？」=“You always get carried away at the drop of a hat like that. Even if you have a good head, if you don't have street smarts, there's no point, you know?”
+「ははっ、なんかお母さんみたいな事言われちゃったね」=“Haha--, you sound like you're my mother.”
+「お、おかっ！？　そこはせめて、おねーさんと言え！」=“M-Moth--!? Atleast say "elder sister" instead!”

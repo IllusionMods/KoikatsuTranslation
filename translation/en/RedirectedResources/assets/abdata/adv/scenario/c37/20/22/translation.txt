@@ -1,5 +1,5 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「これ、どうぞ」=Here, have these.
-「先程の授業でクッキーを焼いたので」=I baked some cookies in class just a bit ago.
+「これ、どうぞ」=“Here, have these.”
+「先程の授業でクッキーを焼いたので」=“I baked some cookies in class just a bit ago.”

@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「ふふふ、本当に、やっちゃうなんて……君って大胆なのね♪」=Fufufu, you really ended up doing it... how bold♪
-「ついノリで……ごめんね」=I just couldn't help it... I'm sorry.
-「いいのよ。私も、ちょっと楽しんでたから」=It's alright. I enjoyed myself too.
+「ふふふ、本当に、やっちゃうなんて……君って大胆なのね♪」=“Fufufu, you really ended up doing it... how bold♪”
+「ついノリで……ごめんね」=“I just couldn't help it... I'm sorry.”
+「いいのよ。私も、ちょっと楽しんでたから」=“It's alright. I enjoyed myself too.”

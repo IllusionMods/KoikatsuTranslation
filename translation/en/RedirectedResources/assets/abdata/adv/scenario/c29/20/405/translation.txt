@@ -1,19 +1,19 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「[H名]が頼んだオムライス、美味しそうだね」=The Omurice you ordered sure looks good, [H名].
-「はい。一押しメニューと言うだけあって、とても美味です」=Yes. I can see why it's the chef's recommendation here, it's really delicious.
-「そっかぁ。じゃあ食べさせてほしいなー、なんて」=I see. Man, I'd love it if you fed me some. Kidding.
-「欲望を隠す気がまったくありませんね」=Not planning on hiding your desires at all, huh?
-「前にもやってもらってるしね」=You did it the last time too, afterall.
-「だからといって……」=Even so...
-「ダメ？」=No good?
-「ダメではありませんけれど……あまりベタベタしすぎるのはどうかと思うのです」=It's not that it's no good... It's just that, I do wonder about flirting so openly in public.
-「他にもやってる人たちいるよ。ほら」=Other people are doing it too. Look.
-「うっ……た、確かに、あーんをしているカップルはいますね」=Uu--... c-certainly, there are quite a few couples feeding food to each other.
-「わかりました、観念します。口を開けてください」=Understood. I'll give in. Please open your mouth.
-「やった。……あーん」=Yay. ...Aaahn.
-「はい、どうぞ」=Here you go.
+「[H名]が頼んだオムライス、美味しそうだね」=“The Omurice you ordered sure looks good, [H名].”
+「はい。一押しメニューと言うだけあって、とても美味です」=“Yes. I can see why it's the chef's recommendation here, it's really delicious.”
+「そっかぁ。じゃあ食べさせてほしいなー、なんて」=“I see. Man, I'd love it if you fed me some. Kidding.”
+「欲望を隠す気がまったくありませんね」=“Not planning on hiding your desires at all, huh?”
+「前にもやってもらってるしね」=“You did it the last time too, afterall.”
+「だからといって……」=“Even so...”
+「ダメ？」=“No good?”
+「ダメではありませんけれど……あまりベタベタしすぎるのはどうかと思うのです」=“It's not that it's no good... It's just that, I do wonder about flirting so openly in public.”
+「他にもやってる人たちいるよ。ほら」=“Other people are doing it too. Look.”
+「うっ……た、確かに、あーんをしているカップルはいますね」=“Uu--... c-certainly, there are quite a few couples feeding food to each other.”
+「わかりました、観念します。口を開けてください」=“Understood. I'll give in. Please open your mouth.”
+「やった。……あーん」=“Yay. ...Aaahn.”
+「はい、どうぞ」=“Here you go.”
 「あむっ……」=*bite*--...
-「……ん、美味しいね。[H名]にあーんしてもらったから余計に」=...Nn, it's delicious. Almost too much so, because you fed it to me.
-「それは、その……ありがとうございます」=That's, uhm... thank you very much.
+「……ん、美味しいね。[H名]にあーんしてもらったから余計に」=“...Nn, it's delicious. Almost too much so, because you fed it to me.”
+「それは、その……ありがとうございます」=“That's, uhm... thank you very much.”

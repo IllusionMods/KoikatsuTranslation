@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「どうした？　私はまだまだ……いやもっと、できるぞ？」=What's the matter? I'm still not--... no, I can still keep going, you know?
+「どうした？　私はまだまだ……いやもっと、できるぞ？」=“What's the matter? I'm still not--... no, I can still keep going, you know?”

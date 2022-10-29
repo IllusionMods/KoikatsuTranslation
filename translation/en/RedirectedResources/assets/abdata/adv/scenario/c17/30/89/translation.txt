@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「あのさ、ちょっとお願いがあるんだけど……」=Um, so, I have a little request for you...
+「あのさ、ちょっとお願いがあるんだけど……」=“Um, so, I have a little request for you...”
 //「内容によるけど、聞くだけは聞いてあげるわよ」=
 //「なら大丈夫かな。その、俺たち、そろそろ愛称で呼び合うのはどうかなって」=
 //「そういえば、考えたこともなかったわね」=

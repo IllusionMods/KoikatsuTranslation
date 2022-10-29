@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「おじゃまします……これがあなたの部屋なのね」=I'm coming in... so this is your room, huh?
-「……ふふっ、慌てないの……私は逃げたりしないんだから」=...Fufu--, come now, no rushing... I'm not going to run away.
-「……いいわよ、あなたのベッドの上で、抱いて？」=...It's alright. Embrace me, on your bed?
+「おじゃまします……これがあなたの部屋なのね」=“I'm coming in... so this is your room, huh?”
+「……ふふっ、慌てないの……私は逃げたりしないんだから」=“...Fufu--, come now, no rushing... I'm not going to run away.”
+「……いいわよ、あなたのベッドの上で、抱いて？」=“...It's alright. Embrace me, on your bed?”

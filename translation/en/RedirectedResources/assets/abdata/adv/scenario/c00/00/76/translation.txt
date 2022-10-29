@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「いっぱい汗かいてる……拭いてあげるわね」=You're sweating so much... I'll wipe it off for you.
-「ありがと。……もうその辺でいいよ？」=Thanks. ...I think that's enough wiping.
-「そのままにしてると風邪引いちゃうから、ね？　ほら……こんなに奥まで滴っちゃってるわ……」=If I just leave you like this, you'll catch a cold, no? Look... you're dripping so much in there...
-「ちょ、待って、脱がそうとしないで～！」=Hey--, wait, don't try to strip me~!
+「いっぱい汗かいてる……拭いてあげるわね」=“You're sweating so much... I'll wipe it off for you.”
+「ありがと。……もうその辺でいいよ？」=“Thanks. ...I think that's enough wiping.”
+「そのままにしてると風邪引いちゃうから、ね？　ほら……こんなに奥まで滴っちゃってるわ……」=“If I just leave you like this, you'll catch a cold, no? Look... you're dripping so much in there...”
+「ちょ、待って、脱がそうとしないで～！」=“Hey--, wait, don't try to strip me~!”

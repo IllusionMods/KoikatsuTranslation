@@ -1,23 +1,23 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「やっぱり遊園地は混んでるなぁ」=Man, amusement parks sure are always packed.
-「デートの……定番、だからでしょうか」=Wonder if it's because... a standard date spot?
-「だね。これははぐれたら面倒なことに……」=Probably. If we get split up, it'll be real annoying...
-「そ、そうですね……探すのも大変ですし、迷子センターに行くのも……恥ずかしいですし……」=I-Indeed... it'd be really hard to find each other, and going to the lost child counter would be... too embarrassing...
-「ここは、最初から……はぐれないようにする工夫が必要、だと思います」=I think... we ought to make sure, that we don't get split up to begin with.
-「それは確かに……でも連絡先くらいは知ってるし、まぁ何とかなるんじゃ……」=For sure... but, we already have each other stored as contacts on our phones, so it should work out more or...
-「そ、そうかもしれませんが！　せっかくの、遊園地ですし……こ、恋人がよくやることをすれば……は、はぐれるのを防止できるかも……」=M-Maybe, but! We're out on, a date and stuff so... i-if we do that couples' thing then... w-we might be able to prevent it directly...
-「恋人が良くやること……手をつなぐ、とか？」=That couples' thing... you mean holding hands, and stuff?
-「そ、そうです！　遊園地でのデートですから……そういうことするのも、いいかなって！　ダメ、でしょうか？」=E-Exactly! We're on a date so... I was thinking that, maybe we could! Is it, no good?
-「いや、全然ダメじゃないけどさ。それってはぐれるの防ぐためじゃなくて、[H名]がやりたいだけなのかなって」=No, not at all. But, I was just thinking whether that was to prevent us from getting split apart, or because you wanted to do it.
-「そ、それは……そうです。遊園地で手をつなぐって恋人っぽいなって……」=T-That's... you're right. I was thinking that it'd be really lovey-dovey if we held hands at an amusement park and...
-「ははっ、それならそうと素直に言ってくれたらいいのに。断ったりなんかしないよ」=Haha--, you could have said that right from the start. I wouldn't turn you down, you know?
-「デ、デートスポットに来て手をつなぎたいだなんて……はしゃいでること、バレちゃうじゃないですか……」=If I did that, if I told you that I wanted to hold hands, right after getting to the date spot... wouldn't you find out, that I'm really excited...
-「はしゃいでいいんだよ。ここではしゃがないでどうするのさ」=It's fine to be excited. Where would you even be excited, if not here?
-「……考えてみれば、その通り、かもです。みなさん、はしゃぎに来てるんですよね」=...Thinking about it, you're, not wrong. Everyone's excited, aren't they?
-「そうそう、だから俺たちも、手をつないで楽しもう！」=Exactly, so we should hold hands, and enjoy ourselves too!
-「は、はい！　ありがとうございます！　……早速なんですけど、私、行きたいところがあって……」=Y-Yes! Thank you very much! ...We just got here but, there's a place I'd like to check out...
-「いいよ、どこに行きたいの？」=Sure, where do you want to go?
-「えっと、この……お化け屋敷なんですけど……」=Erhm, it's... the haunted house...
-「オッケー！　じゃあ行こうか！」=Okay! Let's go then!
+「やっぱり遊園地は混んでるなぁ」=“Man, amusement parks sure are always packed.”
+「デートの……定番、だからでしょうか」=“Wonder if it's because... a standard date spot?”
+「だね。これははぐれたら面倒なことに……」=“Probably. If we get split up, it'll be real annoying...”
+「そ、そうですね……探すのも大変ですし、迷子センターに行くのも……恥ずかしいですし……」=“I-Indeed... it'd be really hard to find each other, and going to the lost child counter would be... too embarrassing...”
+「ここは、最初から……はぐれないようにする工夫が必要、だと思います」=“I think... we ought to make sure, that we don't get split up to begin with.”
+「それは確かに……でも連絡先くらいは知ってるし、まぁ何とかなるんじゃ……」=“For sure... but, we already have each other stored as contacts on our phones, so it should work out more or...”
+「そ、そうかもしれませんが！　せっかくの、遊園地ですし……こ、恋人がよくやることをすれば……は、はぐれるのを防止できるかも……」=“M-Maybe, but! We're out on, a date and stuff so... i-if we do that couples' thing then... w-we might be able to prevent it directly...”
+「恋人が良くやること……手をつなぐ、とか？」=“That couples' thing... you mean holding hands, and stuff?”
+「そ、そうです！　遊園地でのデートですから……そういうことするのも、いいかなって！　ダメ、でしょうか？」=“E-Exactly! We're on a date so... I was thinking that, maybe we could! Is it, no good?”
+「いや、全然ダメじゃないけどさ。それってはぐれるの防ぐためじゃなくて、[H名]がやりたいだけなのかなって」=“No, not at all. But, I was just thinking whether that was to prevent us from getting split apart, or because you wanted to do it.”
+「そ、それは……そうです。遊園地で手をつなぐって恋人っぽいなって……」=“T-That's... you're right. I was thinking that it'd be really lovey-dovey if we held hands at an amusement park and...”
+「ははっ、それならそうと素直に言ってくれたらいいのに。断ったりなんかしないよ」=“Haha--, you could have said that right from the start. I wouldn't turn you down, you know?”
+「デ、デートスポットに来て手をつなぎたいだなんて……はしゃいでること、バレちゃうじゃないですか……」=“If I did that, if I told you that I wanted to hold hands, right after getting to the date spot... wouldn't you find out, that I'm really excited...”
+「はしゃいでいいんだよ。ここではしゃがないでどうするのさ」=“It's fine to be excited. Where would you even be excited, if not here?”
+「……考えてみれば、その通り、かもです。みなさん、はしゃぎに来てるんですよね」=“...Thinking about it, you're, not wrong. Everyone's excited, aren't they?”
+「そうそう、だから俺たちも、手をつないで楽しもう！」=“Exactly, so we should hold hands, and enjoy ourselves too!”
+「は、はい！　ありがとうございます！　……早速なんですけど、私、行きたいところがあって……」=“Y-Yes! Thank you very much! ...We just got here but, there's a place I'd like to check out...”
+「いいよ、どこに行きたいの？」=“Sure, where do you want to go?”
+「えっと、この……お化け屋敷なんですけど……」=“Erhm, it's... the haunted house...”
+「オッケー！　じゃあ行こうか！」=“Okay! Let's go then!”

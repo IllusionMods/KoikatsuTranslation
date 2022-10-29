@@ -2,6 +2,6 @@
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
 「すぅ……」=*inhale*...
-「なに～？　なんか顔近いよ～？」=What~? Your face's pretty close, you know~?
-「[H]の汗もいいにおいすると思って」=I was just thinking that your sweat smells really nice too, [H]
-「はっ、なっ！？　やめろ～へんた～い」=Hah--, Wha--!? Stop that~, you perv~
+「なに～？　なんか顔近いよ～？」=“What~? Your face's pretty close, you know~?”
+「[H]の汗もいいにおいすると思って」=“I was just thinking that your sweat smells really nice too, [H]”
+「はっ、なっ！？　やめろ～へんた～い」=“Hah--, Wha--!? Stop that~, you perv~”

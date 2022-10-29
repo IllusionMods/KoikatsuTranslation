@@ -1,16 +1,16 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「ねーねー、[Pあだ名]」=Hey, listen, [Pあだ名].
-「……うん？　今のって俺を呼んだの？」=...Yeah? Did you call me that just now?
-「そうだよ？　パッと思いついたんだけど、イヤだった？」=That's right. I just came up with it on the spot, did it not sound good?
-「いや全然、いきなりだったからちょっと驚いただけだよ」=No, it's the opposite, I just got a bit surprised since it was so sudden, that's all.
-「あは、そっかそっか。アタシのネーミングセンスが悪いのかと思っちゃったよ～」=Aha, I see, I see. I was almost thinking that my naming sense was completely off or something~
-「じゃあ次はそっちの番だよ、アタシの愛称考えてよー」=Well then, it's your turn next, think up a nickname for me.
-「き、急だなぁ……うーん、じゃあ[Hあだ名]なんてどうだろう？」=T-That's pretty sudden... Well, then how about [Hあだ名]?
-「んー、アタシには及ばないけど、そのセンスは買ってあげよっかな～」=Nn, well it doesn't even come close to my own god tier naming sense, but maybe I guess it'll do~
-「あはは、それはどうも」=Ahaha, thank you for the high praise.
-「せっかく付け合ったんだし、ちょっと呼び合ってみよ？　アタシから呼ぶねー。……[Pあだ名]」=Well we gave each other nicknames and stuff, so let's try calling each other by them, hm? I'll start. ...[Pあだ名].
-「えっと……[Hあだ名]」=Erhm... [Hあだ名].
-「……うん、ちょっと照れるけど……幸せって感じ」=...Yeah, it's pretty embarrassing but... it makes me happy.
-「俺も……たまにこうして呼び合うのもいいかもね」=Me too... it might be nice to use them every once in a while.
+「ねーねー、[Pあだ名]」=“Hey, listen, [Pあだ名].”
+「……うん？　今のって俺を呼んだの？」=“...Yeah? Did you call me that just now?”
+「そうだよ？　パッと思いついたんだけど、イヤだった？」=“That's right. I just came up with it on the spot, did it not sound good?”
+「いや全然、いきなりだったからちょっと驚いただけだよ」=“No, it's the opposite, I just got a bit surprised since it was so sudden, that's all.”
+「あは、そっかそっか。アタシのネーミングセンスが悪いのかと思っちゃったよ～」=“Aha, I see, I see. I was almost thinking that my naming sense was completely off or something~”
+「じゃあ次はそっちの番だよ、アタシの愛称考えてよー」=“Well then, it's your turn next, think up a nickname for me.”
+「き、急だなぁ……うーん、じゃあ[Hあだ名]なんてどうだろう？」=“T-That's pretty sudden... Well, then how about [Hあだ名]?”
+「んー、アタシには及ばないけど、そのセンスは買ってあげよっかな～」=“Nn, well it doesn't even come close to my own god tier naming sense, but maybe I guess it'll do~”
+「あはは、それはどうも」=“Ahaha, thank you for the high praise.”
+「せっかく付け合ったんだし、ちょっと呼び合ってみよ？　アタシから呼ぶねー。……[Pあだ名]」=“Well we gave each other nicknames and stuff, so let's try calling each other by them, hm? I'll start. ...[Pあだ名].”
+「えっと……[Hあだ名]」=“Erhm... [Hあだ名].”
+「……うん、ちょっと照れるけど……幸せって感じ」=“...Yeah, it's pretty embarrassing but... it makes me happy.”
+「俺も……たまにこうして呼び合うのもいいかもね」=“Me too... it might be nice to use them every once in a while.”

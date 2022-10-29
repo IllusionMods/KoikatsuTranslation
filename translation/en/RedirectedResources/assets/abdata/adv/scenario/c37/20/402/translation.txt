@@ -1,19 +1,19 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「いい匂いだね」=Smells good, doesn't it?
-「はい、この豆の焙煎された匂い、好きです」=Yes, I like this smell, the smell of roasted beans.
-「挽きたてのコーヒーってずっと嗅いでたくなっちゃうなぁ」=Ah, this aroma of freshly ground coffee is to die for, I could smell this forever.
-「ですが、私達は飲む為にコーヒーを注文しましたので」=However, we ordered the coffee for the sake of drinking it.
-「わかってるって、匂いだけで満足しちゃ失礼だもんね」=I know that, being satisfied just from the aroma of it would be rude.
-「では、一口……」=Well then, one sip...
-「……ここのコーヒーはブラックの中にもほのかな甘味を感じますね」=...At this cafe, even their black coffee has a sweet hint to it, don't you think?
-「あぁ、なんとなくわかる気がする。なんだろ、口当たりがいい……のかな？」=Aah, I feel like I understand. Somehow, it feels good in the mouth... like that?
-「スッキリとほのかな酸味を感じるものも好きですが、こうのんびりしたいときにはもってこいの味だと思います」=I like the refreshing hint of sourness too but, I think this sort of taste is perfect for when we're just taking it easy.
-「なんだろ、気持ちがほぐれてきて、コーヒーを飲んでるのに眠くなってきちゃうな……ふぁ……」=I wonder why, I feel like my mind is relaxing out, even though we're drinking coffee, I'm feeling really sleepy... Fuaa...
-「気持ちはわかりますが、デート中に居眠りをしてしまうのはどうかと思いますのでご注意を……」=I do understand the feeling but, I would think badly of you if you were to doze off in the middle of a date, so do be careful...
-「豆の種類なのでしょうか、製法が特殊なのでしょうか……砂糖やミルクとの相性が素晴らしいと思います」=I wonder if it's because of the type of beans used, or if the recipe they used is a special one but... I think it goes really well with milk and sugar.
-「確かに、入れても何かしらの味が尖っちゃってーていうコーヒーもあるよね」=For sure, there's coffee out there that no matter what you add to it, it still tastes really sharp.
-「はい、ブラックが苦手とは言え、ただ甘くしたものが好き、という訳ではありません」=Yes, while I'm bad with black coffee, that doesn't that I prefer wholly sweet things.
-「これだけ美味しいといくらでもおかわり出来ちゃうそうだなぁ」=When it's this tasty, it really feels like you can go through many refills quite easily.
-「おかわり自由というのも素晴らしいですね、もう一杯頂きましょう」=Having the freedom to get refills is splendid in its own right, let's get another cup.
+「いい匂いだね」=“Smells good, doesn't it?”
+「はい、この豆の焙煎された匂い、好きです」=“Yes, I like this smell, the smell of roasted beans.”
+「挽きたてのコーヒーってずっと嗅いでたくなっちゃうなぁ」=“Ah, this aroma of freshly ground coffee is to die for, I could smell this forever.”
+「ですが、私達は飲む為にコーヒーを注文しましたので」=“However, we ordered the coffee for the sake of drinking it.”
+「わかってるって、匂いだけで満足しちゃ失礼だもんね」=“I know that, being satisfied just from the aroma of it would be rude.”
+「では、一口……」=“Well then, one sip...”
+「……ここのコーヒーはブラックの中にもほのかな甘味を感じますね」=“...At this cafe, even their black coffee has a sweet hint to it, don't you think?”
+「あぁ、なんとなくわかる気がする。なんだろ、口当たりがいい……のかな？」=“Aah, I feel like I understand. Somehow, it feels good in the mouth... like that?”
+「スッキリとほのかな酸味を感じるものも好きですが、こうのんびりしたいときにはもってこいの味だと思います」=“I like the refreshing hint of sourness too but, I think this sort of taste is perfect for when we're just taking it easy.”
+「なんだろ、気持ちがほぐれてきて、コーヒーを飲んでるのに眠くなってきちゃうな……ふぁ……」=“I wonder why, I feel like my mind is relaxing out, even though we're drinking coffee, I'm feeling really sleepy... Fuaa...”
+「気持ちはわかりますが、デート中に居眠りをしてしまうのはどうかと思いますのでご注意を……」=“I do understand the feeling but, I would think badly of you if you were to doze off in the middle of a date, so do be careful...”
+「豆の種類なのでしょうか、製法が特殊なのでしょうか……砂糖やミルクとの相性が素晴らしいと思います」=“I wonder if it's because of the type of beans used, or if the recipe they used is a special one but... I think it goes really well with milk and sugar.”
+「確かに、入れても何かしらの味が尖っちゃってーていうコーヒーもあるよね」=“For sure, there's coffee out there that no matter what you add to it, it still tastes really sharp.”
+「はい、ブラックが苦手とは言え、ただ甘くしたものが好き、という訳ではありません」=“Yes, while I'm bad with black coffee, that doesn't that I prefer wholly sweet things.”
+「これだけ美味しいといくらでもおかわり出来ちゃうそうだなぁ」=“When it's this tasty, it really feels like you can go through many refills quite easily.”
+「おかわり自由というのも素晴らしいですね、もう一杯頂きましょう」=“Having the freedom to get refills is splendid in its own right, let's get another cup.”

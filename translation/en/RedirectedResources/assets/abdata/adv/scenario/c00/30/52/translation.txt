@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「ちょっと、早くなぁい？　私、まだ満足してないのよね……」=Wasn't that too fast? I'm still not satisfied, you know...
+「ちょっと、早くなぁい？　私、まだ満足してないのよね……」=“Wasn't that too fast? I'm still not satisfied, you know...”

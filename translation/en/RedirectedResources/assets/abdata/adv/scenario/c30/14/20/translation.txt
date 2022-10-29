@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「ふふっ、おはよ。朝から会えちゃった♪　何でもないことなのに……運命みたいなこと感じちゃう……あ、笑わないの、もー！」=Fufu, good morning. Being able to see you in the morning ♪ Even though it's nothing special... it sort of feels like fate... Ah, don't laugh, geez-!
+「ふふっ、おはよ。朝から会えちゃった♪　何でもないことなのに……運命みたいなこと感じちゃう……あ、笑わないの、もー！」=“Fufu, good morning. Being able to see you in the morning ♪ Even though it's nothing special... it sort of feels like fate... Ah, don't laugh, geez-!”

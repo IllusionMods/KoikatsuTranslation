@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「次は私の深いところまで潜ってね？」=Next time, burrow even deeper, to my deepest reaches, alright?
+「次は私の深いところまで潜ってね？」=“Next time, burrow even deeper, to my deepest reaches, alright?”

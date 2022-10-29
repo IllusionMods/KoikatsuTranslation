@@ -1,17 +1,17 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「混んできたね。きつくない？」=It's pretty packed. You okay?
-「ええ、平気よ……」=Yeah, I'm good...
-「うおっと……！」=Woah...!
+「混んできたね。きつくない？」=“It's pretty packed. You okay?”
+「ええ、平気よ……」=“Yeah, I'm good...”
+「うおっと……！」=“Woah...!”
 （うわ、[H名]さん、いいにおい……股間が反応してしまう！）=(Uwah, [H名]-san has such a nice scent... My dick's gonna act up!)
 CHOICE:『一応我慢してみる』=『Try holding back a bit』
 CHOICE:『必死に我慢する』=『Desperately endure』
 （うっ……我慢しなきゃだけど……ダメだ、抑えられそうにない……）=(Uuh--... I need to endure it but... Ah, damn, I don't think I can control it...)
-「……そのままじっとしていて。下手に騒いだらバレちゃうから」=......Just stay still like that. If we make a carelessly make a racket then we'll get caught.
-「ちょ、[H名]さん……こんなところで」=Wai--, [H名]-san... In a place like this--
-「あら、あなたなら興奮する、なんて言うと思ったのに。なんだか興ざめね」=Oh my, I thought you'd get excited. What a kill-joy.
-「ああっ、うそうそ、興奮するよ。ちょっと驚いただけ」=Aaah--, I was joking. I'm excited. Definitely. I was just a bit surprised, that's all.
+「……そのままじっとしていて。下手に騒いだらバレちゃうから」=“......Just stay still like that. If we make a carelessly make a racket then we'll get caught.”
+「ちょ、[H名]さん……こんなところで」=“Wai--, [H名]-san... In a place like this--”
+「あら、あなたなら興奮する、なんて言うと思ったのに。なんだか興ざめね」=“Oh my, I thought you'd get excited. What a kill-joy.”
+「ああっ、うそうそ、興奮するよ。ちょっと驚いただけ」=“Aaah--, I was joking. I'm excited. Definitely. I was just a bit surprised, that's all.”
 「くすっ、私もウ・ソ♡　そんな薄情な女だと思った？　ちゃんとシテあげるから安心して♡」=*Laugh*, I was kidding too♡ Do you really think I'm that heartless a girl? I'll do it for you properly, so relax, alright? ♡
 （さ、流石にここで勃起させるのはマズイっ。別のことを考えて意識を逸らそう……）=(I-It really would be bad to pop a boner in this situation--. I should shift focus to something else...)
 （とりあえず勉強のことでも…………そういば、何か大切なことを忘れてた、ような……？　何だっけ？）=(For now, I should try thinking about studies... Come to think of it, I feel like I've forgotten about something important...? What was it?)

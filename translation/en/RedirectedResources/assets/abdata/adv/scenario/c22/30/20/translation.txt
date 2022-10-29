@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「おはよう。朝から君に会えると一日幸せだよ♪」=Good morning. Seeing you first thing like this just makes my day♪
+「おはよう。朝から君に会えると一日幸せだよ♪」=“Good morning. Seeing you first thing like this just makes my day♪”

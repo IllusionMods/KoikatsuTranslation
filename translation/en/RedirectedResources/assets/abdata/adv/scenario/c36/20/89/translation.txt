@@ -1,17 +1,17 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「えっと、名前で呼んでもらうのとは別として、愛称で呼び合うってどうかな？」="Uhh, instead of names, how about we call each other by a nickname?
-「愛称？　下僕は下僕でしょ？　家畜や生ゴミに戻りたいの？」="Nicknames? A manservant is a manservant, right? Want to go back to livestock or kitchen waste?"
-「いや、そういうわけじゃなくて……ほら[Pあだ名]とかさ？」="No, I didn't mean it like that... Look, how about [Pあだ名]?"
-「は？　貴方そういう趣味があったの？　引くわね」="Ha? So you like this kind of thing... Makes me wanna puke."
-「お、お願いします！　一回だけでもいいから、呼んでください！」="P-please! Call me that just once!"
-「はぁ、呼び方一つで必死になり過ぎよ。貴方は下僕、それ以上でもそれ以下でもないわ」="*Sigh* you're too desperate to hear it even once. You're a manservant - no more, no less."
-「だ、だよね……ごめん、何か熱くなっちゃって……」="Heh... I guess... Sorry, I've gotten kind of heated up..."
-「そんなに落ち込むところ？　私が悪者みたいじゃないの……んっ、[Pあだ名]。これで満足？」="You got this depressed? It looks like I'm a bad guy here... Nn, [Pあだ名]. Satisfied now?"
-「えっ、あっ！　いいっ！　凄くいいよ！　ありがとう、[Hあだ名]！」="Wha-, wow! Yeah! Very! Thank you, [Hあだ名]!"
-「ちょっと待ちなさい。貴方、どさくさに紛れて、私の事まで変な呼び方をしたわね？」="Wait a moment. Don't call me strangely under the cover of confusion!"
-「うん、俺だけ呼んでもらったんじゃ悪いと思って」="Um, I thought it'd be bad to be the only one being called by a nickname."
-「まったく、変なところで気を使わなくていいの。次にそんな呼び方をしたら、口を縫ってやるわよ？」="Seriously, don't fuss about eccentric things. Next time you call me that, I'll stitch your mouth."
-「え～、そんな事言わずに、たまにでいいから呼び合おうよ？」="Ehh? Don't say such things and let me call you that every now and then, okay?"
-「嫌よ。私は気まぐれに呼ぶかもしれないけど、貴方は私の許可なく呼ぶ事は禁止。いいわね？」="No way. I might call you on a whim, but don't you call me that without my permission. Got it?"
+「えっと、名前で呼んでもらうのとは別として、愛称で呼び合うってどうかな？」=“Uhh, instead of names, how about we call each other by a nickname?”
+「愛称？　下僕は下僕でしょ？　家畜や生ゴミに戻りたいの？」=“Nicknames? A manservant is a manservant, right? Want to go back to livestock or kitchen waste?”
+「いや、そういうわけじゃなくて……ほら[Pあだ名]とかさ？」=“No, I didn't mean it like that... Look, how about [Pあだ名]?”
+「は？　貴方そういう趣味があったの？　引くわね」=“Ha? So you like this kind of thing... Makes me wanna puke.”
+「お、お願いします！　一回だけでもいいから、呼んでください！」=“P-please! Call me that just once!”
+「はぁ、呼び方一つで必死になり過ぎよ。貴方は下僕、それ以上でもそれ以下でもないわ」=“*Sigh* you're too desperate to hear it even once. You're a manservant - no more, no less.”
+「だ、だよね……ごめん、何か熱くなっちゃって……」=“Heh... I guess... Sorry, I've gotten kind of heated up...”
+「そんなに落ち込むところ？　私が悪者みたいじゃないの……んっ、[Pあだ名]。これで満足？」=“You got this depressed? It looks like I'm a bad guy here... Nn, [Pあだ名]. Satisfied now?”
+「えっ、あっ！　いいっ！　凄くいいよ！　ありがとう、[Hあだ名]！」=“Wha-, wow! Yeah! Very! Thank you, [Hあだ名]!”
+「ちょっと待ちなさい。貴方、どさくさに紛れて、私の事まで変な呼び方をしたわね？」=“Wait a moment. Don't call me strangely under the cover of confusion!”
+「うん、俺だけ呼んでもらったんじゃ悪いと思って」=“Um, I thought it'd be bad to be the only one being called by a nickname.”
+「まったく、変なところで気を使わなくていいの。次にそんな呼び方をしたら、口を縫ってやるわよ？」=“Seriously, don't fuss about eccentric things. Next time you call me that, I'll stitch your mouth.”
+「え～、そんな事言わずに、たまにでいいから呼び合おうよ？」=“Ehh? Don't say such things and let me call you that every now and then, okay?”
+「嫌よ。私は気まぐれに呼ぶかもしれないけど、貴方は私の許可なく呼ぶ事は禁止。いいわね？」=“No way. I might call you on a whim, but don't you call me that without my permission. Got it?”

@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「え……？　いいのか？　ありがとよ。嬉しいよ」=Eh...? You sure? Thanks. I'm really happy.
+「え……？　いいのか？　ありがとよ。嬉しいよ」=“Eh...? You sure? Thanks. I'm really happy.”

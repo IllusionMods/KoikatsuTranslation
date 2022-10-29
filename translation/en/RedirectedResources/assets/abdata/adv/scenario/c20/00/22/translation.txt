@@ -1,5 +1,5 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「こ、こんにちは。あの、家庭科でスコーンを作ったので、よかったら食べてください」=H-Hello. Uhm, I made some scones during home ec, please eat them if you'd like.
-「が、頑張って作ったので、多分不味くはないかと思います……」=I-I did my best so, they shouldn't taste too bad...
+「こ、こんにちは。あの、家庭科でスコーンを作ったので、よかったら食べてください」=“H-Hello. Uhm, I made some scones during home ec, please eat them if you'd like.”
+「が、頑張って作ったので、多分不味くはないかと思います……」=“I-I did my best so, they shouldn't taste too bad...”

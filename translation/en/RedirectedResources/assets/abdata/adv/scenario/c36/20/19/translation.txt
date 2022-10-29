@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「はぁ、早朝から貴方の顔を見るなんて、今日は厄日になりそうね」="*Sigh* seeing your face in the early morning, looks like it's going to be an unlucky day."
+「はぁ、早朝から貴方の顔を見るなんて、今日は厄日になりそうね」=“*Sigh* seeing your face in the early morning, looks like it's going to be an unlucky day.”

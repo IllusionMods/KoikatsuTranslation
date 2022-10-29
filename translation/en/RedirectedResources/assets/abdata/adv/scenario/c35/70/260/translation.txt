@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「はぁ……こげんところで……めっちゃドキドキしたん……」=Haa... in a place like this... that was super exciting...
-「うぅ……我慢出来なくてごめん。でも……ありがとう。嬉しかったよ」=Uuu... I'm really sorry for being weak-willed. But... thank you. It made me really happy.
-「えへへ、本当はね、私も嬉しかったん。こちらこそ、ありがとう♪」=Ehehe, you know, it actually made me really happy too. I should be saying thank you♪
+「はぁ……こげんところで……めっちゃドキドキしたん……」=“Haa... in a place like this... that was super exciting...”
+「うぅ……我慢出来なくてごめん。でも……ありがとう。嬉しかったよ」=“Uuu... I'm really sorry for being weak-willed. But... thank you. It made me really happy.”
+「えへへ、本当はね、私も嬉しかったん。こちらこそ、ありがとう♪」=“Ehehe, you know, it actually made me really happy too. I should be saying thank you♪”

@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「あ、ありがとう……お陰で収まったよ……」=T-Thanks... That seems to have done the trick...
-「匂いでバレそうなものですが……気付かれないものですね」=The smell would easily give the game away but... looks like nobody's noticed.
-「うん……ちょっと興奮しちゃった、かも……」=Yeah... I may have gotten a little bit excited, just a bit...
-「……癖にならないよう、お気を付けを」=...Be careful, that it doesn't become into a habit.
-「はい……」=Got it...
+「あ、ありがとう……お陰で収まったよ……」=“T-Thanks... That seems to have done the trick...”
+「匂いでバレそうなものですが……気付かれないものですね」=“The smell would easily give the game away but... looks like nobody's noticed.”
+「うん……ちょっと興奮しちゃった、かも……」=“Yeah... I may have gotten a little bit excited, just a bit...”
+「……癖にならないよう、お気を付けを」=“...Be careful, that it doesn't become into a habit.”
+「はい……」=“Got it...”

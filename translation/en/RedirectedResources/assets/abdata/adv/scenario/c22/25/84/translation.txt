@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「コイカツ部って……実際はどんなことするのかな？」=The Koikatsu club... just what sort of stuff do you actually do here?
-「ざっくり言うと、恋人同士っぽいことをする部……かな？」=In broad strokes, couple-like stuff... I guess?
-「あ、それじゃ例えば……こうやって見つめ合ったり？」=Ah, then, for example... staring at each other like this?
-「そう、見つめ合ったり……」=Exactly, staring at each other...
-「あっ、わわっ、そ、そんなに見ちゃ恥ずかしいよぅ……」=Ah--, wawah--, i-it's embarrassing when you stare so much...
-「えー、見つめ合いなのに？」=Eh, even though we're just looking at each other?
-「はぅ……そっか、そうだよね。これは想像以上に難しい部活だよ……」=Hauu... I see, right. This is way harder than I expected...
+「コイカツ部って……実際はどんなことするのかな？」=“The Koikatsu club... just what sort of stuff do you actually do here?”
+「ざっくり言うと、恋人同士っぽいことをする部……かな？」=“In broad strokes, couple-like stuff... I guess?”
+「あ、それじゃ例えば……こうやって見つめ合ったり？」=“Ah, then, for example... staring at each other like this?”
+「そう、見つめ合ったり……」=“Exactly, staring at each other...”
+「あっ、わわっ、そ、そんなに見ちゃ恥ずかしいよぅ……」=“Ah--, wawah--, i-it's embarrassing when you stare so much...”
+「えー、見つめ合いなのに？」=“Eh, even though we're just looking at each other?”
+「はぅ……そっか、そうだよね。これは想像以上に難しい部活だよ……」=“Hauu... I see, right. This is way harder than I expected...”

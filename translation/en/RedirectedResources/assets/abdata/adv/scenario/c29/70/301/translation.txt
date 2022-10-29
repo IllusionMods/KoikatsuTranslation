@@ -1,18 +1,18 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「男の人と一緒にカラオケなんて、少し緊張します」=Coming here with a boy, it's making me a bit nervous.
-「普段は来たりする？」=Do you normally come to karaoke?
-「たまに友人と来るくらいですね」=Sometimes, with friends.
-「そもそも、歌はあまり……」=To begin with, I don't really know all that many songs...
-「じゃあ今日は貴重な機会ってわけだね。楽しみだなぁ」=That means that today's a rare chance, huh? Man am I excited now.
-「さらに緊張させるようなことを言わないでくださいっ」=I'm already nervous enough as it is, please don't say stuff like that--
-「ごめんごめん。[H名]の歌が楽しみなのは本当だけど、プレッシャーかけちゃったらダメだよね」=Sorry, sorry. I really am looking forward to your singing, [H名], but I shouldn't add to the pressure, should I?
-「本当です。まったく……」=Exactly so. Good grief...
-「あまりハードルを上げられると、歌いにくいではないですか」=If you raise the hurdle too high, it'll be hard for me to sing properly.
-「そう言いつつリモコン取るんだ」=So you say, but you've already got the remote in your hand.
-「折角来たのですから、まずは一曲と思ったのです」=We came out here and everything, so I thought I'd atleast sing one song.
-「じゃあ俺は聴く体勢に入ろうかな」=Well then, I'll enter into listening mode.
-「そこまでかしこまらなくても……」=You don't need to be so formal about it...
+「男の人と一緒にカラオケなんて、少し緊張します」=“Coming here with a boy, it's making me a bit nervous.”
+「普段は来たりする？」=“Do you normally come to karaoke?”
+「たまに友人と来るくらいですね」=“Sometimes, with friends.”
+「そもそも、歌はあまり……」=“To begin with, I don't really know all that many songs...”
+「じゃあ今日は貴重な機会ってわけだね。楽しみだなぁ」=“That means that today's a rare chance, huh? Man am I excited now.”
+「さらに緊張させるようなことを言わないでくださいっ」=“I'm already nervous enough as it is, please don't say stuff like that--”
+「ごめんごめん。[H名]の歌が楽しみなのは本当だけど、プレッシャーかけちゃったらダメだよね」=“Sorry, sorry. I really am looking forward to your singing, [H名], but I shouldn't add to the pressure, should I?”
+「本当です。まったく……」=“Exactly so. Good grief...”
+「あまりハードルを上げられると、歌いにくいではないですか」=“If you raise the hurdle too high, it'll be hard for me to sing properly.”
+「そう言いつつリモコン取るんだ」=“So you say, but you've already got the remote in your hand.”
+「折角来たのですから、まずは一曲と思ったのです」=“We came out here and everything, so I thought I'd atleast sing one song.”
+「じゃあ俺は聴く体勢に入ろうかな」=“Well then, I'll enter into listening mode.”
+「そこまでかしこまらなくても……」=“You don't need to be so formal about it...”
 『小さな手の平 掴める物は きっと限られているけど――』=『This small hand, the things it can grasp, they are surely limited, but--』
 （聴いてて心地良いっていうか、綺麗な歌い方するなぁ）=(Hearing her sing feels so nice, what a lovely style.)

@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「もしかして……私たちの行為を見ていたのですか？」=By any chance... were you watching us do this?
+「もしかして……私たちの行為を見ていたのですか？」=“By any chance... were you watching us do this?”

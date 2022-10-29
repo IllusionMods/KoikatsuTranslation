@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「あっ……」=Ah--...
-「どうかしたの？」=What's the matter?
-「いや、何かお土産を買っとけばよかったかなって。お揃いのキーホルダーとか」=Nothing, I was just thinking that maybe it would have been nice to buy some sort of souvenirs, like matching keychains or whatever.
-「今日の記念になるだろ？」=Would have been something to remember the day by, no?
-「う～ん、そういう形に残るものもいいけど……素敵な思い出をたくさん貰ったから大丈夫だよ♪」=Mmm~, something like that might have been nice but... we made tons of wonderful memories instead, so I think it's fine♪
+「あっ……」=“Ah--...”
+「どうかしたの？」=“What's the matter?”
+「いや、何かお土産を買っとけばよかったかなって。お揃いのキーホルダーとか」=“Nothing, I was just thinking that maybe it would have been nice to buy some sort of souvenirs, like matching keychains or whatever.”
+「今日の記念になるだろ？」=“Would have been something to remember the day by, no?”
+「う～ん、そういう形に残るものもいいけど……素敵な思い出をたくさん貰ったから大丈夫だよ♪」=“Mmm~, something like that might have been nice but... we made tons of wonderful memories instead, so I think it's fine♪”

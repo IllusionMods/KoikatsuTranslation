@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「えへへ……この頭の中が真っ白になる感じ、大好きです……今度もいっぱい、しましょうね」=Ehehe... I love this feeling, of my head going blank... let's do it lots next time too, okay?
+「えへへ……この頭の中が真っ白になる感じ、大好きです……今度もいっぱい、しましょうね」=“Ehehe... I love this feeling, of my head going blank... let's do it lots next time too, okay?”

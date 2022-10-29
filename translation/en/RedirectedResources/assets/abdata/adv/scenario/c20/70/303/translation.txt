@@ -1,19 +1,19 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「ふぅ……少し休憩にしませんか？　……と思ったら、もうすぐ時間ですね」=Fuu... how about a small break? ...Oh, on that note, seems that our time's almost up.
+「ふぅ……少し休憩にしませんか？　……と思ったら、もうすぐ時間ですね」=“Fuu... how about a small break? ...Oh, on that note, seems that our time's almost up.”
 CHOICE:『延長して、もうちょっと歌おうよ』=Let's extend it, and sing a bit more.
 CHOICE:『そろそろ帰ろうか』=Let's head home.
-「延長しない？　俺、もう少し[H名]と一緒に歌いたいんだけど……」=Wanna extend it? I still wanna sing some more with you, [H]...
-「わかりました……私も、まだ歌えるので……」=Okay... I can, keep going too so...
-「決まりだね、じゃあ延長タイムに突入！」=That's settled then, let's steamroll into our extension!
-「時間がオーバーしないうちに帰ろうか」=Let's head home before we go past the slot.
-「はい！　少し恥ずかしかったですけど……とっても楽しかったです！」=Yes! It was a bit embarrassing but... I had a lot of fun!
-「俺もだよ。[H名]の歌声も聞けたしね」=Me too. I got to hear you sing too, afterall.
-「あと一曲歌ったら、今日は帰ろうか」=Let's sing one final song, and then head home.
-「はいっ。最後は何を歌うんですか？」=Okay--. What are you going to go with?
-「俺はできれば[H名]に歌ってほしいな。一番だけでもいいからさ、お願い！」=Honestly, I'd rather you took it. Just one song, please!
-「[H名]の歌が聞きたいんだ」=I wanna hear you sing.
-「そ、そこまでお願いされると、断れないです……えっと、じゃあ……この曲を……」=I-If you ask me like that, I can't refuse... erhm, then... this one maybe...
+「延長しない？　俺、もう少し[H名]と一緒に歌いたいんだけど……」=“Wanna extend it? I still wanna sing some more with you, [H]...”
+「わかりました……私も、まだ歌えるので……」=“Okay... I can, keep going too so...”
+「決まりだね、じゃあ延長タイムに突入！」=“That's settled then, let's steamroll into our extension!”
+「時間がオーバーしないうちに帰ろうか」=“Let's head home before we go past the slot.”
+「はい！　少し恥ずかしかったですけど……とっても楽しかったです！」=“Yes! It was a bit embarrassing but... I had a lot of fun!”
+「俺もだよ。[H名]の歌声も聞けたしね」=“Me too. I got to hear you sing too, afterall.”
+「あと一曲歌ったら、今日は帰ろうか」=“Let's sing one final song, and then head home.”
+「はいっ。最後は何を歌うんですか？」=“Okay--. What are you going to go with?”
+「俺はできれば[H名]に歌ってほしいな。一番だけでもいいからさ、お願い！」=“Honestly, I'd rather you took it. Just one song, please!”
+「[H名]の歌が聞きたいんだ」=“I wanna hear you sing.”
+「そ、そこまでお願いされると、断れないです……えっと、じゃあ……この曲を……」=“I-If you ask me like that, I can't refuse... erhm, then... this one maybe...”
 『もしも今背中に羽が生えて大空自由に飛び回れたら♪』=『If only I could sprout wings from my back and fly freely in this wide open sky~♪』
 （やっぱ[H名]の歌声、好きだな……）=(I really do love her voice...)

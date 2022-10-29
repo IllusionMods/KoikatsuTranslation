@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「てめぇ！　変態が！　こら！　ぶっ殺すぞ」=You! Goddamn Pervert! Come here! I'mma kill you.
+「てめぇ！　変態が！　こら！　ぶっ殺すぞ」=“You! Goddamn Pervert! Come here! I'mma kill you.”

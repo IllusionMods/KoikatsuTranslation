@@ -1,19 +1,19 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「まさかこんなに早く結婚式をすることになるとは……模擬だけど」=To think we'd have a wedding ceremony this early in our relationship... even if it is a mock one.
-「まぁ[H名]のウェディングドレス姿が見れるのは素直に嬉しいし、役得ってやつかな」=Well, I get to see [H] in a wedding dress, so really, it's not all bad.
-（[H名]の私服は何度も見てきたし、制服姿も知ってるけど……ドレス姿は想像できないな）=I've already seen her in casuals so many times, and I know what she looks like in a uniform too but... I just can't imagine her in a dress.
-（いよいよ出番か……）=Showtime, huh...
-（うぅ、緊張するな……）=Uuu, I'm getting nervous...
-（でも、模擬とはいえ[H名]との結婚式だ。失敗はしたくないから気を引き締めて行こう）=But, mock though it may be, it's a wedding, with [H] as my bride. I don't want to fuck it up, so let's do this properly.
-（ふぅ……一応はモデルらしくできた……かな？　不恰好になってなきゃいいけど……）=Fuu... that was some pretty good modelling... I think? I hope it wasn't too uncool...
+「まさかこんなに早く結婚式をすることになるとは……模擬だけど」=“To think we'd have a wedding ceremony this early in our relationship... even if it is a mock one.”
+「まぁ[H名]のウェディングドレス姿が見れるのは素直に嬉しいし、役得ってやつかな」=“Well, I get to see [H] in a wedding dress, so really, it's not all bad.”
+（[H名]の私服は何度も見てきたし、制服姿も知ってるけど……ドレス姿は想像できないな）=(I've already seen her in casuals so many times, and I know what she looks like in a uniform too but... I just can't imagine her in a dress.)
+（いよいよ出番か……）=(Showtime, huh...)
+（うぅ、緊張するな……）=(Uuu, I'm getting nervous...)
+（でも、模擬とはいえ[H名]との結婚式だ。失敗はしたくないから気を引き締めて行こう）=(But, mock though it may be, it's a wedding, with [H] as my bride. I don't want to fuck it up, so let's do this properly.)
+（ふぅ……一応はモデルらしくできた……かな？　不恰好になってなきゃいいけど……）=(Fuu... that was some pretty good modelling... I think? I hope it wasn't too uncool...)
 モブ=Mob
-「これより新婦が入場致します。後方の扉口をご覧ください」=And now, the bride will make her entrance. Please pay attention to the main door.
+「これより新婦が入場致します。後方の扉口をご覧ください」=“And now, the bride will make her entrance. Please pay attention to the main door.”
 （……新婦登場か）=(...Time for the bride's entrance, huh?)
 目を向けた先に、純白のウェディングドレスに身を包んだ[H名]がいた。=When I turned my eyes, right in front was [H], clad in a wedding dress.
 とてもよく似合っているのに、自分のドレス姿に自信がないのか、少し顔を俯けている。=Even though she looks downright stunning, her face's a bit downcast, as if she's got no confidence.
 （ここまで来たら『綺麗だ』って、伝えてあげなきゃな）=(Now that we've come this far, I gotta make sure she understands, that she truly is beautiful.)
-「……[H名]」=...[H].
-「ドレス、似合ってるよ。綺麗な花嫁姿だね」=The dress, looks really good on you. You make for a beautiful bride.
-「あ、ありがとう、ございます。あ、あなたも……とても、素敵です」=T-Thank you, very much. Y-You too... you look, lovely.
+「……[H名]」=“...[H].”
+「ドレス、似合ってるよ。綺麗な花嫁姿だね」=“The dress, looks really good on you. You make for a beautiful bride.”
+「あ、ありがとう、ございます。あ、あなたも……とても、素敵です」=“T-Thank you, very much. Y-You too... you look, lovely.”

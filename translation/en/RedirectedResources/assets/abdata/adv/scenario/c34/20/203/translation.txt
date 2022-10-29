@@ -1,16 +1,16 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「ア～楽しかったネ♡　次は何にスル？　Ｒｏｌｌｅｒ　ｃｏａｓｔｅｒ……ア、ニッポン語では『ジェットコースター』だったネ♡　もう一回、乗る？」=Ah~ That was fun, wasn't it?♡ What should we ride next? Roller coaster... Ah, it's called a "Jet Coaster" in Japanese, isn't it?♡ Wanna go on it one more time?
-「[H名]、そろそろ夕方だから、考えて乗らないと、すぐ帰る時間になっちゃうよ」=[H名], It's almost evening so, if we don't plan the next little bit out, we'll have to go back home in no time.
-「Ｏｈ……もうそんな時間……ン～、ドウスル？　思ったヨリ、遅い時間だったネ……」=Oh... It's already this late, huh... Nn~, What should we do? It's way later than we expected, isn't it...
+「ア～楽しかったネ♡　次は何にスル？　Ｒｏｌｌｅｒ　ｃｏａｓｔｅｒ……ア、ニッポン語では『ジェットコースター』だったネ♡　もう一回、乗る？」=“Ah~ That was fun, wasn't it?♡ What should we ride next? Roller coaster... Ah, it's called a "Jet Coaster" in Japanese, isn't it?♡ Wanna go on it one more time?”
+「[H名]、そろそろ夕方だから、考えて乗らないと、すぐ帰る時間になっちゃうよ」=“[H名], It's almost evening so, if we don't plan the next little bit out, we'll have to go back home in no time.”
+「Ｏｈ……もうそんな時間……ン～、ドウスル？　思ったヨリ、遅い時間だったネ……」=“Oh... It's already this late, huh... Nn~, What should we do? It's way later than we expected, isn't it...”
 CHOICE:『最後に観覧車に乗ってかない？』=『Wanna ride the ferris wheel?』
 CHOICE:『暗くなる前に帰ろうか』=『Let's go home before it gets dark』
-「じゃあ、最後に観覧車に乗ろうか」=Then, let's make the ferris wheel our last ride for the day.
-「Ｎｉｃｅ　ｉｄｅａ♡　今の時間ナラ、ｒｏｍａｎｔｉｃな時間を過ごせそうダネ♡　Ｇｉａｎｔ　ｗｈｅｅｌ、乗りタイ♡」=Nice idea♡ It'd be super romantic at this time♡ I want to ride the giant wheel♡
-「よし、じゃあ、乗ろうか」=Alright, then, let's get on it.
-「んー、今日は暗くなる前に帰ろうか。お楽しみは次に遊園地きたときにとっておこうよ」=Nnn, maybe we should go home before it gets dark. Let's save the fun for the next time we come to the park.
-「フフ♡　『オタノシミ』イイネ♡　ジャア、ニッポン風のヤクソク、シテ♡」=Fufu♡ "Save the fun", sounds great♡ Then, promise me that in the Japanese way♡
-「あ、指きりげんまんだね。じゃあ、小指を出して……よし。ゆーびきーりげーんまーん……」=Ah, a pinky swear, right? Then, put out your pinky... Alright. Pinky Swear, Pinky Swear...
-「嘘ついタラ、ｔｈｏｕｓａｎｄ　ｎｅｅｄｌｅ～♡」=If you tell a lie, thousand needles in your eyes~♡
-「サウザンド・ニードルって、なんか技名みたいだね！？」=Why does that sound like a shounen anime technique!?
+「じゃあ、最後に観覧車に乗ろうか」=“Then, let's make the ferris wheel our last ride for the day.”
+「Ｎｉｃｅ　ｉｄｅａ♡　今の時間ナラ、ｒｏｍａｎｔｉｃな時間を過ごせそうダネ♡　Ｇｉａｎｔ　ｗｈｅｅｌ、乗りタイ♡」=“Nice idea♡ It'd be super romantic at this time♡ I want to ride the giant wheel♡”
+「よし、じゃあ、乗ろうか」=“Alright, then, let's get on it.”
+「んー、今日は暗くなる前に帰ろうか。お楽しみは次に遊園地きたときにとっておこうよ」=“Nnn, maybe we should go home before it gets dark. Let's save the fun for the next time we come to the park.”
+「フフ♡　『オタノシミ』イイネ♡　ジャア、ニッポン風のヤクソク、シテ♡」=“Fufu♡ "Save the fun", sounds great♡ Then, promise me that in the Japanese way♡”
+「あ、指きりげんまんだね。じゃあ、小指を出して……よし。ゆーびきーりげーんまーん……」=“Ah, a pinky swear, right? Then, put out your pinky... Alright. Pinky Swear, Pinky Swear...”
+「嘘ついタラ、ｔｈｏｕｓａｎｄ　ｎｅｅｄｌｅ～♡」=“If you tell a lie, thousand needles in your eyes~♡”
+「サウザンド・ニードルって、なんか技名みたいだね！？」=“Why does that sound like a shounen anime technique!?”

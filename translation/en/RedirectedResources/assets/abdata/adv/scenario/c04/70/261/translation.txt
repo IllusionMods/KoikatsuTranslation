@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「気持ちよかったけど……ちょっとあせったよ」=That felt great but... yeah, my heart nearly went kaboom there.
-「ねえ……もし、あの時私が『助けて』って叫んでたら、どうなってたのかしら？」=Hey... if, back there, I screamed for help, how would that have turned out?
-「！？　絶対やめてくれよ！？」=!? Please never do that!
-「ふふふ……冗談よ」=Fufufu... I'm joking.
+「気持ちよかったけど……ちょっとあせったよ」=“That felt great but... yeah, my heart nearly went kaboom there.”
+「ねえ……もし、あの時私が『助けて』って叫んでたら、どうなってたのかしら？」=“Hey... if, back there, I screamed for help, how would that have turned out?”
+「！？　絶対やめてくれよ！？」=“!? Please never do that!”
+「ふふふ……冗談よ」=“Fufufu... I'm joking.”

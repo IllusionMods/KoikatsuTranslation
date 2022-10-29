@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「これが、男の人と一緒に帰る。なんだね」=So this is, what it means to walk home with a boy. Huh?
-「そうだよ。一緒に帰ってみてどうだった？」=Yep. How was it?
-「えっとね。とってもフワフワしたよ」=Erhm. I felt like I was walking on clouds.
+「これが、男の人と一緒に帰る。なんだね」=“So this is, what it means to walk home with a boy. Huh?”
+「そうだよ。一緒に帰ってみてどうだった？」=“Yep. How was it?”
+「えっとね。とってもフワフワしたよ」=“Erhm. I felt like I was walking on clouds.”

@@ -1,12 +1,12 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「[P]くんさ、初めてのデートだからって、そんなに緊張しなくてもいいじゃん」=Just because it's our first date, [P名]-kun, doesn't mean you need to get all that nervous, you know?
-「やっぱりデートだと思うとドキドキして……そういうのなれてるの？」=I just can't help but have my heart race when I think about how we're out on a date... are you used to that sort of thing?
-「なれてなんか……そ、そのアタシも男の子となんて初めてだし……って、もう早く行こうよ！」=used to it...I-It's my first time ever going out on a date with a boy myself so like... anyways, let's go already!
-「そうだね、じゃあ早速行こうか」=Good idea, then let's go.
-「[P]くんすごいじゃん。女の子が喜びそうな所とかたくさん知ってて」=You're amazing, [P名]-kun. You know all sorts of spots perfect for making a girl happy.
-「いっぱい楽しんでもらいたくて、いろいろ調べたからね」=Well, I wanted you to enjoy the date, so I researched a ton.
-「ちょ、そんなこと言われたら、マジヤバいから！ でもホント楽しいよ。ありがとう」=Come on, don't say that sort of stuff, otherwise I really will fall for you! But, it was a blast, thanks.
+「[P]くんさ、初めてのデートだからって、そんなに緊張しなくてもいいじゃん」=“Just because it's our first date, [P名]-kun, doesn't mean you need to get all that nervous, you know?”
+「やっぱりデートだと思うとドキドキして……そういうのなれてるの？」=“I just can't help but have my heart race when I think about how we're out on a date... are you used to that sort of thing?”
+「なれてなんか……そ、そのアタシも男の子となんて初めてだし……って、もう早く行こうよ！」=“used to it...I-It's my first time ever going out on a date with a boy myself so like... anyways, let's go already!”
+「そうだね、じゃあ早速行こうか」=“Good idea, then let's go.”
+「[P]くんすごいじゃん。女の子が喜びそうな所とかたくさん知ってて」=“You're amazing, [P名]-kun. You know all sorts of spots perfect for making a girl happy.”
+「いっぱい楽しんでもらいたくて、いろいろ調べたからね」=“Well, I wanted you to enjoy the date, so I researched a ton.”
+「ちょ、そんなこと言われたら、マジヤバいから！ でもホント楽しいよ。ありがとう」=“Come on, don't say that sort of stuff, otherwise I really will fall for you! But, it was a blast, thanks.”
 （よかった。何とか楽しんでもらえてるみたいだな）=(I'm glad. Looks like she's enjoying herself, one way or another.)
-「今日はホントにありがと！　それじゃ、また学園でね！」=Thanks a ton for today, I mean it! Well then, see ya at school!
+「今日はホントにありがと！　それじゃ、また学園でね！」=“Thanks a ton for today, I mean it! Well then, see ya at school!”

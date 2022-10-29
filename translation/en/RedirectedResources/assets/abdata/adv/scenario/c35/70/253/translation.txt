@@ -1,16 +1,16 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「わわっ……駅で止まる度に人が乗ってくるね。まさかこんなに混むなんて……[H名]、大丈夫？　きつくない？」=Wawah--... More and more people are getting on at every station. To think it'd get this packed... [H名], you okay? Not too cramped?
-「ん……うん、きつくはないっちゃけど……」=Nn... Yeah, it's not too cramped but...
+「わわっ……駅で止まる度に人が乗ってくるね。まさかこんなに混むなんて……[H名]、大丈夫？　きつくない？」=“Wawah--... More and more people are getting on at every station. To think it'd get this packed... [H名], you okay? Not too cramped?”
+「ん……うん、きつくはないっちゃけど……」=“Nn... Yeah, it's not too cramped but...”
 （うっ……その反応は……俺が勃起してること、気づいてるんだろうな……）=(Uu--... that reaction is... she already knows, that I'm popping a chub, doesn't she...)
 CHOICE:『愛想笑いで誤魔化す』=『Gloss over it with a forced smile』
 CHOICE:『誠心誠意謝る』=『Apologize sincerely』
-「あ、う、うん……ごめん……その、今日の疲れとかもあってさ……ハハ……」=Ah, y-yeah... sorry... It's, I'm just a bit tired out... haha...
-「やっぱり……こうやってくっついてると……したくなるん？」=As I thought... When we cling to each other like this... It makes you wanna do it, doesn't it?
-「うわっ、ダメだよ、[H名]！　今触られたりしたら……俺、色々我慢出来なくなる」=Uwah--, we can't, [H名]! If you touch me now... I won't be able to endure, in more ways than one.
-「ん……君さえ良かったら……我慢なんかせんでもいいとよ？　だって……せっかく私が一緒におるっちゃもん。……気持ち良くさせちゃーけん」=Nn... If you want to... you can let that self-control go, you know? I mean... we finally get to be together like this. ... I'll make you feel really good.
-「ごめん、本当にごめん！　こんなところで最低だよね……」=Sorry, I am really truly sorry! Getting a boner in a place like this, I really am scum, aren't I...
-「わわ、そげん謝らんでも……その、男の子がそうなることは、分かってるつもりやし……」=Wawah, you don't need to apologize that hard... That is, I already know, that boys can't help it...
-「うぅ……本当ごめん」=Uuu... I really am sorry.
+「あ、う、うん……ごめん……その、今日の疲れとかもあってさ……ハハ……」=“Ah, y-yeah... sorry... It's, I'm just a bit tired out... haha...”
+「やっぱり……こうやってくっついてると……したくなるん？」=“As I thought... When we cling to each other like this... It makes you wanna do it, doesn't it?”
+「うわっ、ダメだよ、[H名]！　今触られたりしたら……俺、色々我慢出来なくなる」=“Uwah--, we can't, [H名]! If you touch me now... I won't be able to endure, in more ways than one.”
+「ん……君さえ良かったら……我慢なんかせんでもいいとよ？　だって……せっかく私が一緒におるっちゃもん。……気持ち良くさせちゃーけん」=“Nn... If you want to... you can let that self-control go, you know? I mean... we finally get to be together like this. ... I'll make you feel really good.”
+「ごめん、本当にごめん！　こんなところで最低だよね……」=“Sorry, I am really truly sorry! Getting a boner in a place like this, I really am scum, aren't I...”
+「わわ、そげん謝らんでも……その、男の子がそうなることは、分かってるつもりやし……」=“Wawah, you don't need to apologize that hard... That is, I already know, that boys can't help it...”
+「うぅ……本当ごめん」=“Uuu... I really am sorry.”
 （[H名]は許してくれたけど、しっかり反省しなきゃな）=([H名] forgave me but, I have to reflect on my actions)

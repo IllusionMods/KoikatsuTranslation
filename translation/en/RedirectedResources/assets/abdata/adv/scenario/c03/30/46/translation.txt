@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「わ……私、きちんと出来てたですか？　自分じゃ自信なくて……」=Did I do everything right? I'm not sure I did...
-「ううん、大丈夫だよ。すごく気持ち良かったし……嬉しかった」=Yeah, you did alright. It felt really good... I'm delighted.
-「あ……ふふっ、私もですっ！　嬉しくて……気持ち良かったですよ♪」=Ah... fufu! Me, too! I'm so happy... it felt good♪
+「わ……私、きちんと出来てたですか？　自分じゃ自信なくて……」=“Did I do everything right? I'm not sure I did...”
+「ううん、大丈夫だよ。すごく気持ち良かったし……嬉しかった」=“Yeah, you did alright. It felt really good... I'm delighted.”
+「あ……ふふっ、私もですっ！　嬉しくて……気持ち良かったですよ♪」=“Ah... fufu! Me, too! I'm so happy... it felt good♪”

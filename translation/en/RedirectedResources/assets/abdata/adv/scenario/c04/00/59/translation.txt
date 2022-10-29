@@ -1,5 +1,5 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「今日はとても楽しかったわ、ありがとう」=I had a lot of fun today, thank you.
-「次デートする時は恋び……な、なんでもないわ。……じゃあ、またね？」=How about we go on our next date as a cou... i-it's nothing, ignore that. ...See you, okay?
+「今日はとても楽しかったわ、ありがとう」=“I had a lot of fun today, thank you.”
+「次デートする時は恋び……な、なんでもないわ。……じゃあ、またね？」=“How about we go on our next date as a cou... i-it's nothing, ignore that. ...See you, okay?”

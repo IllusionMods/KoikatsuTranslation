@@ -1,17 +1,17 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「……なんだか夕方って寂しいね。いつもの放課後だったら、解放感でいっぱいなのに……」=...Feels kinda lonely this evening, doesn't it? Even though normally evenings always feel so liberating, at the end of the school day...
+「……なんだか夕方って寂しいね。いつもの放課後だったら、解放感でいっぱいなのに……」=“...Feels kinda lonely this evening, doesn't it? Even though normally evenings always feel so liberating, at the end of the school day...”
 CHOICE:『まだ時間ある？』=Do you still have time?
 CHOICE:『そうだよね……』=Right...
-「あのさ、まだ時間って大丈夫？　もし良かったら、もうしばらくここにいたいなって思うんだけど……」=Hey, listen, do you still have time? If you're alright with it, I wanna stay here a bit longer with you...
-「うん、大丈夫だよ！　えへへ、実はね、そう言ってくれるの待ってたの。お母さんにも遅くなるって伝えてあるから……」=Yeah, I'm good on time! Ehehe, actually, I was waiting for you to say it. I've told my mom too that I'll come home late tonight so...
-「そうなんだ！　良かった……今日は[H名]と一緒に夜景を見たくてさ」=I see! Great... I wanted to look at the night sky with you today, you see.
-「夜景！　いいね、私、夜景も大好きだよっ！」=The night sky! Sounds great, I love the night sky too--!
-「それじゃ、こっちに付いて来て」=Well then, come here.
-「そうだよね……。時間、あっと言う間に過ぎちゃったな……」=Right... The time flew by so fast...
-「うぅ……楽しいデートはもうここまで？」=Uuu... is this the end of our fun date?
-「そ、そんなことないよ。ほら、駅までだって、二人で話しながら歩いていけるし！」=N-Not at all. Afterall, we can keep chatting while we make our way back to the station!
-「ふふっ、そうだよね。君と離れるまでがデート。だからまだまだデート出来るんだよね」=Fufu--, right. The date goes on until we say goodbye. So it's still gonna keep going for a bit, isn't it?
-「……ね、それじゃせめて……駅までずっと……手を繋いでて欲しいな？　ダメ？」=...Hey, in that case, could you... at the very least... hold my hand till we get there? No good?
-「ううん、俺も繋ぎたい。手繋いで、色んなこと話しながら歩こう」=No, I wanna hold your hand too. Let's hold hands, and walk while chatting.
+「あのさ、まだ時間って大丈夫？　もし良かったら、もうしばらくここにいたいなって思うんだけど……」=“Hey, listen, do you still have time? If you're alright with it, I wanna stay here a bit longer with you...”
+「うん、大丈夫だよ！　えへへ、実はね、そう言ってくれるの待ってたの。お母さんにも遅くなるって伝えてあるから……」=“Yeah, I'm good on time! Ehehe, actually, I was waiting for you to say it. I've told my mom too that I'll come home late tonight so...”
+「そうなんだ！　良かった……今日は[H名]と一緒に夜景を見たくてさ」=“I see! Great... I wanted to look at the night sky with you today, you see.”
+「夜景！　いいね、私、夜景も大好きだよっ！」=“The night sky! Sounds great, I love the night sky too--!”
+「それじゃ、こっちに付いて来て」=“Well then, come here.”
+「そうだよね……。時間、あっと言う間に過ぎちゃったな……」=“Right... The time flew by so fast...”
+「うぅ……楽しいデートはもうここまで？」=“Uuu... is this the end of our fun date?”
+「そ、そんなことないよ。ほら、駅までだって、二人で話しながら歩いていけるし！」=“N-Not at all. Afterall, we can keep chatting while we make our way back to the station!”
+「ふふっ、そうだよね。君と離れるまでがデート。だからまだまだデート出来るんだよね」=“Fufu--, right. The date goes on until we say goodbye. So it's still gonna keep going for a bit, isn't it?”
+「……ね、それじゃせめて……駅までずっと……手を繋いでて欲しいな？　ダメ？」=“...Hey, in that case, could you... at the very least... hold my hand till we get there? No good?”
+「ううん、俺も繋ぎたい。手繋いで、色んなこと話しながら歩こう」=“No, I wanna hold your hand too. Let's hold hands, and walk while chatting.”

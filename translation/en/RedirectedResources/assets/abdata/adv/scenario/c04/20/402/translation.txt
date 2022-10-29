@@ -1,20 +1,20 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「あなたはいつも紅茶を注文するの？」=Do you always order black tea?
-「半分ずつくらいの割合かな。その時の気分次第って感じ」=About half the time, I'd say. Depends on my mood, really.
-「そうなのね。アイスティーを注文していたからてっきり紅茶派かと思ったわ」=I see. You ordered Iced Tea just then so I thought you were the type to always go for that.
-「[H名]はコーヒーを頼んでいたけど、いつもそうなの？」=You yourself ordered coffee though, do you always go for coffee?
-「ええ、私はコーヒー派だから」=Yes, since I'm a coffee person.
-「そうなんだ。でも確かに[H名]って、純喫茶の窓際でコーヒー５杯ぐらいおかわりしてそうなイメージかも」=I see. But it's true, you do look like the sort of person that'd go through 5 coffee refills in a single sitting.
-「ふふふっ、どんなイメージよ」=Fufufu--, just what sort of an image do you have of me?
-「飲むときはブラック？　それとも砂糖かミルクを入れるの？」=Do you take it black? Or do you add in sugar or milk and stuff?
-「いつもブラックで飲むわね」=I always drink mine black.
-「[H名]は大人っぽいな」=Pretty mature gal, you are.
-「ふふ、イメージ通りだったかしら？」=Fufu~, met your expectations?
-「うん、ますますイメージが固まった」=Yeah, the image I have of you is getting more and more solid.
-「砂糖とミルクを入れて飲むわね」=I drink mine with sugar and milk both.
-「へぇ、意外だな。ブラックで飲んでいるイメージだったよ」=Hoh, I didn't expect that. Thought you'd be a black purist.
-「実は苦手なの。子供っぽいわよね」=I actually can't handle it. It's pretty childish, isn't it?
-「そんなことないよ。俺なんかコーヒーにも紅茶にも砂糖とミルクを入れるから」=Not at all. Forget coffee, I add sugar and milk to even black tea myself.
-「ふふふっ、あなたは完全にイメージ通りだわ。意外性無いわね」=Fufufu~, now that's something that perfectly matches the image I have of you. Never any surprises in you.
+「あなたはいつも紅茶を注文するの？」=“Do you always order black tea?”
+「半分ずつくらいの割合かな。その時の気分次第って感じ」=“About half the time, I'd say. Depends on my mood, really.”
+「そうなのね。アイスティーを注文していたからてっきり紅茶派かと思ったわ」=“I see. You ordered Iced Tea just then so I thought you were the type to always go for that.”
+「[H名]はコーヒーを頼んでいたけど、いつもそうなの？」=“You yourself ordered coffee though, do you always go for coffee?”
+「ええ、私はコーヒー派だから」=“Yes, since I'm a coffee person.”
+「そうなんだ。でも確かに[H名]って、純喫茶の窓際でコーヒー５杯ぐらいおかわりしてそうなイメージかも」=“I see. But it's true, you do look like the sort of person that'd go through 5 coffee refills in a single sitting.”
+「ふふふっ、どんなイメージよ」=“Fufufu--, just what sort of an image do you have of me?”
+「飲むときはブラック？　それとも砂糖かミルクを入れるの？」=“Do you take it black? Or do you add in sugar or milk and stuff?”
+「いつもブラックで飲むわね」=“I always drink mine black.”
+「[H名]は大人っぽいな」=“Pretty mature gal, you are.”
+「ふふ、イメージ通りだったかしら？」=“Fufu~, met your expectations?”
+「うん、ますますイメージが固まった」=“Yeah, the image I have of you is getting more and more solid.”
+「砂糖とミルクを入れて飲むわね」=“I drink mine with sugar and milk both.”
+「へぇ、意外だな。ブラックで飲んでいるイメージだったよ」=“Hoh, I didn't expect that. Thought you'd be a black purist.”
+「実は苦手なの。子供っぽいわよね」=“I actually can't handle it. It's pretty childish, isn't it?”
+「そんなことないよ。俺なんかコーヒーにも紅茶にも砂糖とミルクを入れるから」=“Not at all. Forget coffee, I add sugar and milk to even black tea myself.”
+「ふふふっ、あなたは完全にイメージ通りだわ。意外性無いわね」=“Fufufu~, now that's something that perfectly matches the image I have of you. Never any surprises in you.”

@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「あ、ありがとうございました。なんだか新鮮で……頼んで、よかったです」=T-Thank you very much for that. That was quite novel... I'm glad I, asked.
+「あ、ありがとうございました。なんだか新鮮で……頼んで、よかったです」=“T-Thank you very much for that. That was quite novel... I'm glad I, asked.”

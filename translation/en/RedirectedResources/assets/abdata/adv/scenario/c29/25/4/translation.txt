@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「構いませんよ。勉学は疎かにできませんからね」=I don't mind. It wouldn't do to neglect studies, afterall.
-「気合い充分だね。じゃあ始めようか」=Someone's sure motivated. Let's start then.
-「ええ」=Yes.
+「構いませんよ。勉学は疎かにできませんからね」=“I don't mind. It wouldn't do to neglect studies, afterall.”
+「気合い充分だね。じゃあ始めようか」=“Someone's sure motivated. Let's start then.”
+「ええ」=“Yes.”

@@ -2,17 +2,17 @@
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
 モブ=Mob
-「お疲れ様でした。ふふっ、素敵な式でしたよ」=Good work today. Fufu~ It was a lovely ceremony.
-「本番の結婚式も、是非、私どもの式場で挙げてくださいね！」=For your actual wedding as well, please, do call upon us!
-「えっと、前向きに考えさせてもらいます」=Uhm, sure, if we get to that point.
-「お願いします！　今日はお引き受けいただいて、ありがとうございました」=Thank you! And for helping us out so much today as well, thank you very much!
-「ふぅ……[H名]さん、お疲れ様」=Fuu... [H名]-san, good work.
-「あなたもね。とっても格好よかったわよ」=You too. You looked really cool, you know?
-「[H名]さんには負けるよ。この世のものとは思えなかったもん」=I definitely lost to you, [H名]-san. You looked really out of this world.
+「お疲れ様でした。ふふっ、素敵な式でしたよ」=“Good work today. Fufu~ It was a lovely ceremony.”
+「本番の結婚式も、是非、私どもの式場で挙げてくださいね！」=“For your actual wedding as well, please, do call upon us!”
+「えっと、前向きに考えさせてもらいます」=“Uhm, sure, if we get to that point.”
+「お願いします！　今日はお引き受けいただいて、ありがとうございました」=“Thank you! And for helping us out so much today as well, thank you very much!”
+「ふぅ……[H名]さん、お疲れ様」=“Fuu... [H名]-san, good work.”
+「あなたもね。とっても格好よかったわよ」=“You too. You looked really cool, you know?”
+「[H名]さんには負けるよ。この世のものとは思えなかったもん」=“I definitely lost to you, [H名]-san. You looked really out of this world.”
 「くすっ♡　なにそれ、おっかしい」=*Giggle*♡ What's with that, so strange.
-「ほんとほんと。サキュバスかと思った！」=I'm serious. I thought you were a succubus for a moment!
-「サキュバスって、あなたね……あ、それって、今夜のお誘い？」=A succubus, you're really... Ah, Is that supposed to be an invitation, for tonight?
-「ち、違っ、それぐらい綺麗だったってこと！」=N-No--, I meant that you were just that pretty!
-「別に否定しなくてもいいじゃない」=You didn't have to deny it that strongly, you know.
-「ちょっ、[H名]さん！？　ちょっと待って！　ごめんって、謝るから怒らないでー！」=Wai--, [H名]-san!? Please wait! I'm sorry, I'll appologize, so please don't be mad!
-「……ふふ、そんな必死で謝らなくてもいいのに。可愛いんだから」=...Fufu, you don't need to apologize that desperately either, you know? So adorable.
+「ほんとほんと。サキュバスかと思った！」=“I'm serious. I thought you were a succubus for a moment!”
+「サキュバスって、あなたね……あ、それって、今夜のお誘い？」=“A succubus, you're really... Ah, Is that supposed to be an invitation, for tonight?”
+「ち、違っ、それぐらい綺麗だったってこと！」=“N-No--, I meant that you were just that pretty!”
+「別に否定しなくてもいいじゃない」=“You didn't have to deny it that strongly, you know.”
+「ちょっ、[H名]さん！？　ちょっと待って！　ごめんって、謝るから怒らないでー！」=“Wai--, [H名]-san!? Please wait! I'm sorry, I'll appologize, so please don't be mad!”
+「……ふふ、そんな必死で謝らなくてもいいのに。可愛いんだから」=“...Fufu, you don't need to apologize that desperately either, you know? So adorable.”

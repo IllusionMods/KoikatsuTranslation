@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「ふふっ、やっとこの日が来たわね。ずっと楽しみにしてたのよ」=Fufu, the day has finally come. I've been looking forward to it this whole time.
-「あはは、俺も俺も。ずっと今日のこと考えてたよ」=Ahaha, me too, me too. I've been thinking about today the whole time too.
-「こうやって二人きりの時間が積み重なるのって……何だか素敵よね。人生の一部分を二人だけで共有してるっていうか……みんながデートしたがる気持ちも分かるわ」=Spending our time together like this, just the two of us... It feels really nice, doesn't it? Sharing a small part of our lives together like this... I understand why everyone wants to go on a date like this.
-「うん、そうだね。デートの度に二人だけの共通項が増えるみたいだ」=Yep, you're right. Every new date leads to more points in common between just the two of us.
+「ふふっ、やっとこの日が来たわね。ずっと楽しみにしてたのよ」=“Fufu, the day has finally come. I've been looking forward to it this whole time.”
+「あはは、俺も俺も。ずっと今日のこと考えてたよ」=“Ahaha, me too, me too. I've been thinking about today the whole time too.”
+「こうやって二人きりの時間が積み重なるのって……何だか素敵よね。人生の一部分を二人だけで共有してるっていうか……みんながデートしたがる気持ちも分かるわ」=“Spending our time together like this, just the two of us... It feels really nice, doesn't it? Sharing a small part of our lives together like this... I understand why everyone wants to go on a date like this.”
+「うん、そうだね。デートの度に二人だけの共通項が増えるみたいだ」=“Yep, you're right. Every new date leads to more points in common between just the two of us.”

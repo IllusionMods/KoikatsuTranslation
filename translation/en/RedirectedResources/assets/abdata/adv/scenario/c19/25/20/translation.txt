@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「おはよう[P]君。今日もまた、素敵な一日になるといいね」=Good morning, [P]-kun. I hope today's yet another wonderful day.
+「おはよう[P]君。今日もまた、素敵な一日になるといいね」=“Good morning, [P]-kun. I hope today's yet another wonderful day.”

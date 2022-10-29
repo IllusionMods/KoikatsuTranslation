@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「ねえ……あそこのベンチに座ってるカップル、何してるのかしらね？」=Hey... that couple sitting on the bench over there, I wonder what they're doing?
-「なにって……？　……っ！？」="what", you say...?.........--!?
-「あれ、きっとカバンで隠してるつもり、なのよね？　私たちがするときは気をつけましょ」=I bet they think they're hidden behind that bag, don't they? Let's be careful when we do that ourselves.
-「え、え？　するときって……気を付けって……」=Eh, Eh? "Be careful"... "when we do that ourselves"...
+「ねえ……あそこのベンチに座ってるカップル、何してるのかしらね？」=“Hey... that couple sitting on the bench over there, I wonder what they're doing?”
+「なにって……？　……っ！？」=“what", you say...?.........--!?”
+「あれ、きっとカバンで隠してるつもり、なのよね？　私たちがするときは気をつけましょ」=“I bet they think they're hidden behind that bag, don't they? Let's be careful when we do that ourselves.”
+「え、え？　するときって……気を付けって……」=“Eh, Eh? "Be careful"... "when we do that ourselves"...”

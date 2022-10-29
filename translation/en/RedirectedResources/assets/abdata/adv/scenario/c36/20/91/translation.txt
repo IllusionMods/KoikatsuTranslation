@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「おはよう、[Pあだ名]。今日も潰れたピザのような顔をしているわね」="Good morning, [Pあだ名]. Today your crushed head looks like a pizza as well, huh?"
-「えっ、うん……お、おはよう、[Hあだ名]」="Emm, yeah... G-good morning, [Hあだ名]."
-「ふぅん、本当に顔面を潰されたいようね。私をそんなに気安く呼んで、無事で済むと思った？」="Huh, looks loke you really want to have your face smashed. You think that you can act this familiar with me and leave in one piece?"
+「おはよう、[Pあだ名]。今日も潰れたピザのような顔をしているわね」=“Good morning, [Pあだ名]. Today your crushed head looks like a pizza as well, huh?”
+「えっ、うん……お、おはよう、[Hあだ名]」=“Emm, yeah... G-good morning, [Hあだ名].”
+「ふぅん、本当に顔面を潰されたいようね。私をそんなに気安く呼んで、無事で済むと思った？」=“Huh, looks loke you really want to have your face smashed. You think that you can act this familiar with me and leave in one piece?”

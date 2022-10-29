@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「フフッ、特別な関係になった後も、こうして何か貰えるというのは……嬉しいものだな」=Fufu--, being able to receive something like this, even after we're already in a relationship... It makes me happy.
+「フフッ、特別な関係になった後も、こうして何か貰えるというのは……嬉しいものだな」=“Fufu--, being able to receive something like this, even after we're already in a relationship... It makes me happy.”

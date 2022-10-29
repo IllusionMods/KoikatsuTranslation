@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「はぁ……見られてたのに、つい夢中になっちゃった、あはは……」=Haah... even though you discovered me, I just got lost in it, ahaha...
+「はぁ……見られてたのに、つい夢中になっちゃった、あはは……」=“Haah... even though you discovered me, I just got lost in it, ahaha...”

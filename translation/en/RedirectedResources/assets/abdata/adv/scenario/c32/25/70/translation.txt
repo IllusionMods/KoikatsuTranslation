@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「……できた！　ちょっとチェックしてもらってもいい？」=......I did it! Could you take a look at it?
-「ええ、もちろんです。……すごい、全問正解ですよ。やはりあなた、地頭は相当いいですね」=Yes, of course.Amazing, all of them are correct. You really do have a good head on your shoulders.
-「そんな、君の教え方が上手だったからだよ」=Your teaching method made all the difference in the world.
-「それだけではありません。……うーむ、これは私もうかうかしていられませんね……」=Don't sell yourself short.Hmmm, I can't get careless either, can I...
-「決めました！　私、今日の自分の勉強は、ここからここまでやります。あなたには負けたくありませんから……！」=I've decided! I'll study from this section to this one myself today. I don't want to lose to you, afterall...!
+「……できた！　ちょっとチェックしてもらってもいい？」=“......I did it! Could you take a look at it?”
+「ええ、もちろんです。……すごい、全問正解ですよ。やはりあなた、地頭は相当いいですね」=“Yes, of course.Amazing, all of them are correct. You really do have a good head on your shoulders.”
+「そんな、君の教え方が上手だったからだよ」=“Your teaching method made all the difference in the world.”
+「それだけではありません。……うーむ、これは私もうかうかしていられませんね……」=“Don't sell yourself short.Hmmm, I can't get careless either, can I...”
+「決めました！　私、今日の自分の勉強は、ここからここまでやります。あなたには負けたくありませんから……！」=“I've decided! I'll study from this section to this one myself today. I don't want to lose to you, afterall...!”
 （なんだか火を点けちゃったみたいだな……）=(Looks like she's gotten pretty fired up...)

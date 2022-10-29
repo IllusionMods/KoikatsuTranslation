@@ -45,7 +45,7 @@
 「恋人にこんなことされたい、とか考える？」=“Ever think "Ah, I want my boyfriend to do this to me.”
 「えぇ、盾でワタシを守ってほしいなぁ」=“Yes, I'd love it if he would protect me with a shield~”
 「いっしょにラクダに乗りたいよ。前やったＲPＧであったんだ」=“I wanna ride a camel with him together. There was a scene like that in an RPG I played before.”
-「好きな男性のタイプってある？」=Do you have a type, in terms of guys?
+「好きな男性のタイプってある？」=“Do you have a type, in terms of guys?”
 「物静かな人かなー？　これでアニメみたいな顔してたらドンピシャですぞｗ」=“A tranquil sort, I guess? And if he puts on an anime-like expression on top, then that'd be just perfect, lol.”
 「二次元な好みはあるけど、リアルはよく分からないなぁ」=“I have a type as far as 2D goes but, I don't know about reality~”
 「あの、この話より、もっと楽しい話がありそうだよ」=“Uhm, I feel like we could be chatting about something a lot more fun.”
@@ -155,7 +155,7 @@
 「一緒に身体を動かさない？」=“Wanna get a workout together?”
 「いいですぞ。今度はリアルで身体を動かすとしましょう」=“Sure. Time to move my body in reality, for once.”
 「ごめんなさい。このあと用事が、また誘って」=“I'm sorry. I have something to do, in a bit. Ask me again another time.”
-「ちょっと付いてきてもらっていい？」=Could I get you to follow me for a bit?
+「ちょっと付いてきてもらっていい？」=“Could I get you to follow me for a bit?”
 「えぇ、大丈夫」=“Yes, sure.”
 「うーん。このあと予定があるんだ。ごめん」=“Nnn. I have something to do after this. Sorry.”
 「わぁ、ここはダメぇ、ほらほら見つからないうちに出ましょう」=“Waah, not here, c'mon, let's get out of here before you get noticed.”
@@ -352,7 +352,7 @@
 「コイカツ部に興味ない？　良かったら入ってほしいな」=“Got any interest in the Koikatsu club? I'd love for you to join.”
 「興味がないわけじゃないけど、趣味の時間が減るのはなぁ……ごめんよ」=“It's not that I don't have any interest but, my hobbies kinda take priority... sorry.”
 「コイカツ部って面白そうだね。ワタシも入れてほしんだなぁ」=“The Koikatsu club looks pretty fun. Let me in too~”
-「ちょっと付いてきて」=Come with me for a bit.
+「ちょっと付いてきて」=“Come with me for a bit.”
 「ん、なんだい？」=“Nn, what is it?”
 「ごめんよ。少し外せない用事があるんだ」=“Sorry, I really need to take care of this.”
 「わ、わぁぁん、ここはダメ。もぅ、そんなに興味があるの？」=“W-Waahn, not here. Jeez, you're into that stuff?”
@@ -533,7 +533,7 @@
 「ねえねえ[P]さん、一緒に運動しよう！」=“Hey, [P]-san, let's get some exercise together!”
 「うん、ありがとう。ではではレディーゴーなりー」=“Yeah, thanks. Ready, set, go then~”
 「わかったぁ。また一緒にしようね」=“Got it~. Let's do it together next time, okay?”
-「付いてきてもらってもいい？」=Could I get you to follow me for a bit?
+「付いてきてもらってもいい？」=“Could I get you to follow me for a bit?”
 「えぇ、一緒に行くんだなぁ」=“Yes, I'll follow you~”
 「え……ちょっとそれはできない相談だなぁ……」=“Eh... I'm not sure I can follow along right now...”
 「えぇ」「そうだね」「えぇ、えぇ」「そうだなぁ」「ですねぇ」=[Yes] [Right] [Yes, exactly] [Right~] [Right~]
@@ -546,10 +546,10 @@
 「楽しいんだなぁ」「わーい」「（楽）」「ふふふｗ」「うふふふふふ」=[So fun~] [Yaay~] [^o^] [Fufufuh lol] [Ufufufufufu]
 「え、えっと」「わぁぁん」「顔が真っ赤になるなぁ」「わ、わぁぁ」「ちょ、ちょっとぉ」=[E-Erhm] [Waaahn] [You're making me blush~] [W-Waah] [H-Hey~]
 「あのー」「あのね」「そうそう」「いやはや聞いてほしいよ」「ねえねえ、こんなことが」=[Uhm] [Hey, so] [Right, listen] [Hey, listen to this] [Hey hey, so]
-「ねえ、[Hあだ名]」=Hey, [Hあだ名].
+「ねえ、[Hあだ名]」=“Hey, [Hあだ名].”
 「な、なにかな？……[Pあだ名]。……やっぱり、この呼び方は顔が熱くなりますね……」=“W-What is it? ...[Pあだ名]. ...This really does make me blush...”
 「今はそういうノリじゃないかなーって思いまーす」=“Really not in the mood for that right now, chief.”
-「ねえ、[Pあだ名]」=Hey, [Pあだ名].
+「ねえ、[Pあだ名]」=“Hey, [Pあだ名].”
 「うん？　どうしたの、[Hあだ名]=Yeah? What's up, [Hあだ名]?
 「ちょっと呼んでみたかっただけなんだなぁ……えへへ、幼馴染っぽい」=“I just wanted to call you that... eheheh, almost feel like we're childhood friends, from an anime.”
 「うん、いいよぉ……[Pあだ名]となら、いくらでも」=“Yeah, sure... as much as you want, [Pあだ名].”

@@ -1,22 +1,22 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「実はお弁当持って来たんだ～♪」=I actually packed lunch for us~♪
-「そろそろ、お昼だからそこのベンチに座って一緒に食べよ？」=It's almost lunch time, so how about we go set up shop on that bench and have it together?
-「ほんと！？　ありがたいなぁ！　実は朝からろくに食べて無かったんだ……」=Really!? Thanks! I actually haven't eaten much all day...
-「じゃあ、ちょうどよかったね♪　あっ、あそこのベンチで食べようよ」=Great that I brought this then♪ Ah--, let's eat it at that bench over there.
-「楽しみだなぁ」=Man, I'm looking forward to it so much.
-「はい！　食べさせてあげるからあーんして」=Yes! I'll feed it to you so, open wide.
-「な、なんかちょっと照れるな……」=M-Man, this is pretty embarrassing...
-「……あーん」=...Aahn.
-「ほら、卵焼きだよ、あーん♪」=Here, it's an egg role, here it comes~♪
+「実はお弁当持って来たんだ～♪」=“I actually packed lunch for us~♪”
+「そろそろ、お昼だからそこのベンチに座って一緒に食べよ？」=“It's almost lunch time, so how about we go set up shop on that bench and have it together?”
+「ほんと！？　ありがたいなぁ！　実は朝からろくに食べて無かったんだ……」=“Really!? Thanks! I actually haven't eaten much all day...”
+「じゃあ、ちょうどよかったね♪　あっ、あそこのベンチで食べようよ」=“Great that I brought this then♪ Ah--, let's eat it at that bench over there.”
+「楽しみだなぁ」=“Man, I'm looking forward to it so much.”
+「はい！　食べさせてあげるからあーんして」=“Yes! I'll feed it to you so, open wide.”
+「な、なんかちょっと照れるな……」=“M-Man, this is pretty embarrassing...”
+「……あーん」=“...Aahn.”
+「ほら、卵焼きだよ、あーん♪」=“Here, it's an egg role, here it comes~♪”
 「むぐぅっ……ふんふん！　こ、これはおいしい！」=*chew*... Hmmmm! T-This is amazing!
-「やった～♪　じゃあ、次はこれ！　はい、あ～ん！」=Yay~♪ Then, the next one is this! Here, open wide~!
-「ありがとう。おいしいよ」=Thanks. It's really good.
-「ねぇ。これって[H名]が作ったの？」=Hey, did you make this, [H名]?
+「やった～♪　じゃあ、次はこれ！　はい、あ～ん！」=“Yay~♪ Then, the next one is this! Here, open wide~!”
+「ありがとう。おいしいよ」=“Thanks. It's really good.”
+「ねぇ。これって[H名]が作ったの？」=“Hey, did you make this, [H名]?”
 「な、なんてこと言うの～。私が一人で……ごにょごにょ」=W-What are you saying~. By myself, I could never... *mumbling*
-「え？　最後なんて言ったの？」=Eh? What did ya say just then? I couldn't catch it.
-「そ、そんなことより！　これもおいしいよ、はい、あ～ん！！」=F-Forget that! This is tasty too, here, open up~!!
-「んぐっ！　いや、俺の質問に……」=Nnguh--! No, but I was asking if...
-「は～い！　次々～♪」=Here~! The next one~♪
-「んんっ！？　そ、そんなに入らないよ！？　んぐぅ！！」=Nnn--!? T-That much won't fit in, you know!? Nnguh!!
+「え？　最後なんて言ったの？」=“Eh? What did ya say just then? I couldn't catch it.”
+「そ、そんなことより！　これもおいしいよ、はい、あ～ん！！」=“F-Forget that! This is tasty too, here, open up~!!”
+「んぐっ！　いや、俺の質問に……」=“Nnguh--! No, but I was asking if...”
+「は～い！　次々～♪」=“Here~! The next one~♪”
+「んんっ！？　そ、そんなに入らないよ！？　んぐぅ！！」=“Nnn--!? T-That much won't fit in, you know!? Nnguh!!”

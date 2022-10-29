@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「では、お邪魔いたします」=Well then, do excuse me.
-「……なるほど、このような部屋なのですね。意外、と言っては失礼ですが清潔感のある部屋だと思います」=...I see, so this is the sort of room you have, huh? Though I know it's rather rude to say it this way, it's a lot cleaner than I expected.
-「そ、それで……早速するのですか？　わ、わかりました」=S-So then... are we going to go at it right away? U-Understood.
+「では、お邪魔いたします」=“Well then, do excuse me.”
+「……なるほど、このような部屋なのですね。意外、と言っては失礼ですが清潔感のある部屋だと思います」=“...I see, so this is the sort of room you have, huh? Though I know it's rather rude to say it this way, it's a lot cleaner than I expected.”
+「そ、それで……早速するのですか？　わ、わかりました」=“S-So then... are we going to go at it right away? U-Understood.”

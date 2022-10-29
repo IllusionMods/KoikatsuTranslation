@@ -1,11 +1,11 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「そうだ、ティッシュペーパーが切れそうなんだった。あそこの薬局で買っていい？」=Ah, that's right, I'm about to run out of tissue papers. Can we make a trip to the pharmacy there?
-「あら、コイカツ部の部長ともなるとティッシュの減りも早いのね、ふふふ」=Oh my, as the Koikatsu club president, you sure run out of tissues fast, huh? Fufufu~
-「ふ、普通に切れただけだよ……そうだ、[H名]さんも何か必要なものがあったらカゴに入れていいよ」=I-It's the usual pace I run out at... That's right, If there's anything you need as well, feel free to put it in the basket.
-「必要なもの……あ……いえ、いいわ」=Anything I need, huh... Ah... No, it's fine.
+「そうだ、ティッシュペーパーが切れそうなんだった。あそこの薬局で買っていい？」=“Ah, that's right, I'm about to run out of tissue papers. Can we make a trip to the pharmacy there?”
+「あら、コイカツ部の部長ともなるとティッシュの減りも早いのね、ふふふ」=“Oh my, as the Koikatsu club president, you sure run out of tissues fast, huh? Fufufu~”
+「ふ、普通に切れただけだよ……そうだ、[H名]さんも何か必要なものがあったらカゴに入れていいよ」=“I-It's the usual pace I run out at... That's right, If there's anything you need as well, feel free to put it in the basket.”
+「必要なもの……あ……いえ、いいわ」=“Anything I need, huh... Ah... No, it's fine.”
 （今、あって言ったよな？　珍しいな、[H名]さんが遠慮するなんて）=(Just now, she thought of something, right? How unusual, [H名]-san declining and being reserved.)
-「薬局に付き合ってもらうお礼みたいなものだし、気にしなくていいよ」=You don't need to mind me, just take it as my thanks for accompanying me to the pharmacy.
-「そう？　じゃあ、生理用のナプキンが切れそうだったから、買ってもらうわね、ふふふ」=You sure? Then, since I'm about to run out of menstrual pads myself, I'll grab some, fufufu~
-「えっ、あ……き、気づかなくてごめん！」=Eh--, Ah...... S-Sorry, I didn't realize!
+「薬局に付き合ってもらうお礼みたいなものだし、気にしなくていいよ」=“You don't need to mind me, just take it as my thanks for accompanying me to the pharmacy.”
+「そう？　じゃあ、生理用のナプキンが切れそうだったから、買ってもらうわね、ふふふ」=“You sure? Then, since I'm about to run out of menstrual pads myself, I'll grab some, fufufu~”
+「えっ、あ……き、気づかなくてごめん！」=“Eh--, Ah...... S-Sorry, I didn't realize!”

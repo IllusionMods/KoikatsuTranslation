@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「何食べんの～？」=Whatcha gonna eat~?
-「定食のどれかにしようかなって」=Thought I'd grab a set meal or something.
-「ふ～ん、量が欲しいなら定食になるのかな～」=Hmm, guess set meals are the way to go, if you want to have a heavy meal~
+「何食べんの～？」=“Whatcha gonna eat~?”
+「定食のどれかにしようかなって」=“Thought I'd grab a set meal or something.”
+「ふ～ん、量が欲しいなら定食になるのかな～」=“Hmm, guess set meals are the way to go, if you want to have a heavy meal~”

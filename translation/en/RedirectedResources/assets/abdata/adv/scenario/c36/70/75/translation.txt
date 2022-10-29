@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「バレーボール借りて来た。ちょっとやってみようよ」="I've borrowed a volleyball. Let's play."
-「バレーを？　二人で？　あぁ、わかった。顔面レシーブの練習ね？　フッ、面白そうじゃない」="Volleyball? With the two of us? Ah, I get it. To practice face receiving, right? Heh, sounds fun."
-「はは……顔面かは別として、俺のレシーブ練習で構わないよ」="Haha... I don't mind practicing reception with anything but face."
-「それじゃあ、私は全て顔面を狙うわ。貴方がどこまで捌けるか、見ものね。フフッ」="Okay then, I'll aim everything for the face. Let's see how much you can handle, fufu~"
+「バレーボール借りて来た。ちょっとやってみようよ」=“I've borrowed a volleyball. Let's play.”
+「バレーを？　二人で？　あぁ、わかった。顔面レシーブの練習ね？　フッ、面白そうじゃない」=“Volleyball? With the two of us? Ah, I get it. To practice face receiving, right? Heh, sounds fun.”
+「はは……顔面かは別として、俺のレシーブ練習で構わないよ」=“Haha... I don't mind practicing reception with anything but face.”
+「それじゃあ、私は全て顔面を狙うわ。貴方がどこまで捌けるか、見ものね。フフッ」=“Okay then, I'll aim everything for the face. Let's see how much you can handle, fufu~”

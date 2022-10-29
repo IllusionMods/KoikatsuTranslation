@@ -1,16 +1,16 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「お、もうこんな時間か。歌うのに夢中で気付かなかったぜ」=Oh, it's already this late, huh? I got so into singing I didn't even notice.
+「お、もうこんな時間か。歌うのに夢中で気付かなかったぜ」=“Oh, it's already this late, huh? I got so into singing I didn't even notice.”
 CHOICE:『延長して、もうちょっと歌おうよ』=Let's extend our slot, and sing a bit more.
 CHOICE:『帰る仕度をしよっか』=Let's get ready to go home.
-「もうちょっと延長しない？　もっと歌いたい気分だしさ」=How about we extend our slot for a bit? I still feel like singing some more.
-「お、いいな。まだまだ盛り上がっていこうじゃねえか」=Oh, sounds good. Let's keep this show going.
-「じゃあ、さっそく延長の電話を入れるよ」=Well then, I'll put in the call.
-「それじゃあ、もう帰る仕度をしようか」=Well then, let's get ready to go home.
-「そうだな。これだけ歌えりゃ満足だ。帰ろ帰ろ！」=Yeah. I've had my fill of singing for today. Let's dash!
-「もう少しだけ時間あるし、最後に一曲だけ歌って帰ろうか」=We've still got some time so, let's sing one last song and go home.
-「最後は私が入れていいか？　いいよな、よしっと」=Mind if I take the last one? You don't, right? Alright then.
-「それ、俺の確認取る必要なかったよね？　別にいいんだけどさ」=You didn't even wait for my answer. Not that I would have said no.
+「もうちょっと延長しない？　もっと歌いたい気分だしさ」=“How about we extend our slot for a bit? I still feel like singing some more.”
+「お、いいな。まだまだ盛り上がっていこうじゃねえか」=“Oh, sounds good. Let's keep this show going.”
+「じゃあ、さっそく延長の電話を入れるよ」=“Well then, I'll put in the call.”
+「それじゃあ、もう帰る仕度をしようか」=“Well then, let's get ready to go home.”
+「そうだな。これだけ歌えりゃ満足だ。帰ろ帰ろ！」=“Yeah. I've had my fill of singing for today. Let's dash!”
+「もう少しだけ時間あるし、最後に一曲だけ歌って帰ろうか」=“We've still got some time so, let's sing one last song and go home.”
+「最後は私が入れていいか？　いいよな、よしっと」=“Mind if I take the last one? You don't, right? Alright then.”
+「それ、俺の確認取る必要なかったよね？　別にいいんだけどさ」=“You didn't even wait for my answer. Not that I would have said no.”
 『果てしない空の下 どこかにきっとあるんだ♪』=『I'm sure it's here somewhere, under this boundless bright sky♪』
 （ほんと、楽しそうに歌うなぁ……）=(She always sings in such a fun way...)

@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「ここがあなたのお部屋ですか」=So this is your room, huh.
-「……彼女が彼氏の部屋にお邪魔するなんて、やる事は一つです」=...A girlfriend intruding in her boyfriend's place like this, there's only one thing for us to do.
-「さぁ……互いに、深く愛し合いましょう……」=Come now... Let's melt together and make love to each other.
+「ここがあなたのお部屋ですか」=“So this is your room, huh.”
+「……彼女が彼氏の部屋にお邪魔するなんて、やる事は一つです」=“...A girlfriend intruding in her boyfriend's place like this, there's only one thing for us to do.”
+「さぁ……互いに、深く愛し合いましょう……」=“Come now... Let's melt together and make love to each other.”

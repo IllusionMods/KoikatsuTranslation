@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「うっ……待ってる間にどんどん緊張してきた」=Uu--... all this waiting's made me all nervous.
+「うっ……待ってる間にどんどん緊張してきた」=“Uu--... all this waiting's made me all nervous.”
 （案外気楽だと思って引き受けたんだけど、実際ここに来ると、厳かな雰囲気があるんだな……）=(We took it on thinking that it'd be pretty easy fare but, the actual place has quite the majestic atmosphere...)
 （きっと[H名]もドキドキしてるんだろうな。ウェディングドレス姿……早く見たい）=(I'm sure [H名]'s beside herself from the tension too. A wedding dress, huh... I wanna see her.)
 （いよいよ出番か……）=(Showtime, huh...)
@@ -9,11 +9,11 @@
 （なんたって今日は[H名]の新郎役なんだから！）=(Afterall, I'm her groom for today!)
 （ふぅ……心臓はバクバクいってるけど……ちゃんと出来てたはず……）=(Fuu... my heart's trying to explode but... I'm sure I did it properly...)
 モブ=Mob
-「これより新婦が入場致します。後方の扉口をご覧ください」=And now, the bride will make her entrance. Please pay attention to the main door.
+「これより新婦が入場致します。後方の扉口をご覧ください」=“And now, the bride will make her entrance. Please pay attention to the main door.”
 （[H名]……）=([H]...)
 真っ白なウェディングドレスをまとった[H名]は、いつもより一層輝いていて見えた。=She was shining even brighter than her usual self, clad in that snow white wedding dress.
 いつも元気でにこやかに笑う[H名]に、純白のドレスはよく似合っていて――=On her, the always-sunny girl, the girl who never once let go of her smile, the wedding dress looked so good--
 正直、模擬とかモデルとか言わず、今すぐ本当に結婚したいくらいだ。=Honestly, forget modelling, forget mock ceremonies, I wanted to marry her on the spot.
-「すごい……」=Amazing...
-「[H名]、すごく似合ってる……可愛くて……綺麗だ……」=[H名], you look amazing... so lovely... so beautiful...
-「はぅ……そんなこと言われると……もう泣いちゃいそう……えへへ、君もね……すごくすごく格好いいよ」=Hauu... if you say that stuff... I'm gonna cry... ehehe, you too... you look super duper cool~
+「すごい……」=“Amazing...”
+「[H名]、すごく似合ってる……可愛くて……綺麗だ……」=“[H名], you look amazing... so lovely... so beautiful...”
+「はぅ……そんなこと言われると……もう泣いちゃいそう……えへへ、君もね……すごくすごく格好いいよ」=“Hauu... if you say that stuff... I'm gonna cry... ehehe, you too... you look super duper cool~”

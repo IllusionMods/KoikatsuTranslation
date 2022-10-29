@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「ごめ～ん！  遅れちゃった～」=Sorry~! I got held up~!
-「少しぐらいの遅刻、全然大丈夫だよ。何かトラブルでもあった？」=A little bit of tardiness is completely fine. Got into some trouble?
-「ん～、なきにしもあらずって感じっすね～」=Nn~, not quite exactly, but yes, I guess~
-「どっちなの……？　ま、まぁ無事合流できたし、行こうか」=Which is it...? W-Well, you got here just fine in the end, so let's go.
+「ごめ～ん！  遅れちゃった～」=“Sorry~! I got held up~!”
+「少しぐらいの遅刻、全然大丈夫だよ。何かトラブルでもあった？」=“A little bit of tardiness is completely fine. Got into some trouble?”
+「ん～、なきにしもあらずって感じっすね～」=“Nn~, not quite exactly, but yes, I guess~”
+「どっちなの……？　ま、まぁ無事合流できたし、行こうか」=“Which is it...? W-Well, you got here just fine in the end, so let's go.”

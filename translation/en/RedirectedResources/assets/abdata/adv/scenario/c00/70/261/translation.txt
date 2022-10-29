@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「ふふ、どう？　楽しかった？　私はすごく楽しかったわ」=Fufu, how was it? Fun? It was super fun for me.
+「ふふ、どう？　楽しかった？　私はすごく楽しかったわ」=“Fufu, how was it? Fun? It was super fun for me.”
 「……まさか、あんなことしてくるだなんて思っても見なかったよ=...I never even thought you'd do something like that.
-「ふふ、油断大敵ね。隙あらば、私はいつだって襲いかかっちゃうんだから♪」=Fufu, carelessness is the greatest foe. If I spot an opening, I'm always going to lay down my assault, no matter the time or place♪
-「本物の肉食系女子だね……」=Truly, what a terrifying girl you are...
+「ふふ、油断大敵ね。隙あらば、私はいつだって襲いかかっちゃうんだから♪」=“Fufu, carelessness is the greatest foe. If I spot an opening, I'm always going to lay down my assault, no matter the time or place♪”
+「本物の肉食系女子だね……」=“Truly, what a terrifying girl you are...”

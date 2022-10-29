@@ -1,18 +1,18 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「ねぇ、そろそろ俺達も、愛称で呼び合うっていうのやってみない？」=Hey, should we try calling each other by nicknames too?
-「なにがそろそろなのかかは知らんが……やってみてもいいぞ」=I don't know what you're trying to imply but... I don't mind trying it out.
-「おっ、嬉しい反応。じゃあ俺のことは……[Pあだ名]って呼んでほしいな」=Oh--, what a nice response. Then, I'd like you to call me... [Pあだ名].
-「うっ、私が想像していたものと大分違うな……本当にそれがいいのか？」=Uh--, that was way different than what I was expecting... Are you sure you want to go with that?
-「うん、これがいいんだ。ダメかな？」=Yeah, I think it's good. You don't?
-「ダメではないが……はぁ、おまえの趣味にはいつも驚かされる」=I didn't say that... Haa, your tastes always manage to catch me off guard.
-「ははっ……ごめん。じゃあ早速……お願いしますッ！」=Haha--... Sorry. Then, go ahead... Please!
-「ンッ、そう急かすな。んぅ……よし、言うぞ……[Pあだ名]」=Nn--, don't rush me. Mm... Alright, I'mma say it... [Pあだ名].
-「おぉっ、すごくいいよ！　ありがとう、えっと……[Hあだ名]！」=Ooh--, that felt amazing! Thank you, erhm... [Hあだ名]!
-「こ、こらっ、なんだその呼び方は……私は何も言っていないぞっ！」=H-Hey--, what's with that name... I haven't said anything yet--!
-「うん、だから今決めてみたんだ。気に入らなければ変えるけど……」=Yeah, that's why I tried coming up with one just now. If you don't like it, I'll pick something different...
-「と、とりあえずそのままでいい……というか、これ……周りから見たら完全にバカップルではないか？」=F-For now, it's fine... If anything, this... won't we look like sickeningly sweet lovebirds to others like that?
-「あはは……そうかも。でも、[Hあだ名]は周りの反応なんて気にするタイプじゃないでしょ？」=Ahaha... maybe. But, you're not the type who cares or worries about what others think, are you, [Hあだ名]?
-「うぅっ、そう言われると弱いが……特別な時だけ呼び合う事にしよう。わかったな？」=Uuu--, aimed right for my weakness... Let's only use these names when there's a special occasion. Got it?
-「いいよ。試して分かったけど、愛称で呼ぶのって案外気恥ずかしいね」=Alright. I only realized after trying it out but, calling each other by nicknames is surprisingly embarrassing, isn't it?
+「ねぇ、そろそろ俺達も、愛称で呼び合うっていうのやってみない？」=“Hey, should we try calling each other by nicknames too?”
+「なにがそろそろなのかかは知らんが……やってみてもいいぞ」=“I don't know what you're trying to imply but... I don't mind trying it out.”
+「おっ、嬉しい反応。じゃあ俺のことは……[Pあだ名]って呼んでほしいな」=“Oh--, what a nice response. Then, I'd like you to call me... [Pあだ名].”
+「うっ、私が想像していたものと大分違うな……本当にそれがいいのか？」=“Uh--, that was way different than what I was expecting... Are you sure you want to go with that?”
+「うん、これがいいんだ。ダメかな？」=“Yeah, I think it's good. You don't?”
+「ダメではないが……はぁ、おまえの趣味にはいつも驚かされる」=“I didn't say that... Haa, your tastes always manage to catch me off guard.”
+「ははっ……ごめん。じゃあ早速……お願いしますッ！」=“Haha--... Sorry. Then, go ahead... Please!”
+「ンッ、そう急かすな。んぅ……よし、言うぞ……[Pあだ名]」=“Nn--, don't rush me. Mm... Alright, I'mma say it... [Pあだ名].”
+「おぉっ、すごくいいよ！　ありがとう、えっと……[Hあだ名]！」=“Ooh--, that felt amazing! Thank you, erhm... [Hあだ名]!”
+「こ、こらっ、なんだその呼び方は……私は何も言っていないぞっ！」=“H-Hey--, what's with that name... I haven't said anything yet--!”
+「うん、だから今決めてみたんだ。気に入らなければ変えるけど……」=“Yeah, that's why I tried coming up with one just now. If you don't like it, I'll pick something different...”
+「と、とりあえずそのままでいい……というか、これ……周りから見たら完全にバカップルではないか？」=“F-For now, it's fine... If anything, this... won't we look like sickeningly sweet lovebirds to others like that?”
+「あはは……そうかも。でも、[Hあだ名]は周りの反応なんて気にするタイプじゃないでしょ？」=“Ahaha... maybe. But, you're not the type who cares or worries about what others think, are you, [Hあだ名]?”
+「うぅっ、そう言われると弱いが……特別な時だけ呼び合う事にしよう。わかったな？」=“Uuu--, aimed right for my weakness... Let's only use these names when there's a special occasion. Got it?”
+「いいよ。試して分かったけど、愛称で呼ぶのって案外気恥ずかしいね」=“Alright. I only realized after trying it out but, calling each other by nicknames is surprisingly embarrassing, isn't it?”

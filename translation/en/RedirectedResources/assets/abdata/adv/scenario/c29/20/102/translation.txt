@@ -1,22 +1,22 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「こういう静かな場所にいると、ついついのんびりしちゃうなぁ」=Being in such a quiet place just makes you want to relax, doesn't it?
-「わかります。時間の流れもゆっくりになっているように思えますね」=I feel you. It also makes the flow of time feel slower.
-「あっという間の一日もいいけど、まったりすごしたくなる時もあるよね」=Just spending the day all in one go is great fun too but, sometimes you just get the itch to take it easy. Know what I mean?
-「おっ。犬を散歩させてる人がいる」=Oh--. There's a person walking their dog over there.
-「結構大型で、体格のいい犬ですね。顔は可愛らしいですが」=Quite the big, imposing dog, isn't it? It has an adorable face though.
-「番犬って感じじゃなさそうだね。でも近づいたら吠えられるかな？」=Doesn't really give the image of a guard dog to me. But, do you think it'll bark at us if we get close to it?
-「どうでしょう。飼い主以外に懐いているかどうかにもよると思いますよ」=I couldn't say. It'd depend upon whether it's friendly to people aside from its owner, too.
-「あ、こっちに向かって歩いてくるよ。挨拶してみたら？」=Ah, it's walking over in this direction. Why don't you say hi to it?
-「それは恥ずかしいです……飼い主の方と知り合いというわけでもないですから」=That would be too embarrassing... It's not like I know the owner either.
-「向こうはあまり気にしないんじゃないかなぁ。変なことしようとするわけじゃないし」=I don't think they'd mind all that much? It's not like we'd be trying to pull any funny business or anything.
-「そうでしょうか……あっ、私たちの方に近づいてきますね。リードを自ら引っ張って……。興味がある、ということなのでしょうか」=Do you really think so?... Ah--, it's walking over to us. Out of its own volition, pulling on the lead... Does that mean it's interested in us?
-「じゃないかな。ほら、挨拶挨拶」=Probably. Come on, say hi, say hi.
-「ん……では……い、いい天気ですね。どこから来たのですか？」=Nn... well then... G-Good weather today, isn't it? Where are you from?
+「こういう静かな場所にいると、ついついのんびりしちゃうなぁ」=“Being in such a quiet place just makes you want to relax, doesn't it?”
+「わかります。時間の流れもゆっくりになっているように思えますね」=“I feel you. It also makes the flow of time feel slower.”
+「あっという間の一日もいいけど、まったりすごしたくなる時もあるよね」=“Just spending the day all in one go is great fun too but, sometimes you just get the itch to take it easy. Know what I mean?”
+「おっ。犬を散歩させてる人がいる」=“Oh--. There's a person walking their dog over there.”
+「結構大型で、体格のいい犬ですね。顔は可愛らしいですが」=“Quite the big, imposing dog, isn't it? It has an adorable face though.”
+「番犬って感じじゃなさそうだね。でも近づいたら吠えられるかな？」=“Doesn't really give the image of a guard dog to me. But, do you think it'll bark at us if we get close to it?”
+「どうでしょう。飼い主以外に懐いているかどうかにもよると思いますよ」=“I couldn't say. It'd depend upon whether it's friendly to people aside from its owner, too.”
+「あ、こっちに向かって歩いてくるよ。挨拶してみたら？」=“Ah, it's walking over in this direction. Why don't you say hi to it?”
+「それは恥ずかしいです……飼い主の方と知り合いというわけでもないですから」=“That would be too embarrassing... It's not like I know the owner either.”
+「向こうはあまり気にしないんじゃないかなぁ。変なことしようとするわけじゃないし」=“I don't think they'd mind all that much? It's not like we'd be trying to pull any funny business or anything.”
+「そうでしょうか……あっ、私たちの方に近づいてきますね。リードを自ら引っ張って……。興味がある、ということなのでしょうか」=“Do you really think so?... Ah--, it's walking over to us. Out of its own volition, pulling on the lead... Does that mean it's interested in us?”
+「じゃないかな。ほら、挨拶挨拶」=“Probably. Come on, say hi, say hi.”
+「ん……では……い、いい天気ですね。どこから来たのですか？」=“Nn... well then... G-Good weather today, isn't it? Where are you from?”
 わんっ=*Bark*--
 （犬と話す[H名]……可愛いなぁ）=(She's talking to the dog... so adorable.)
-「いえ、遠慮しておきます。私はどうも、動物に懐かれない体質なようで……」=No, I'll pass. Try as I might, animals just don't like my body chemistry...
-「体質、なのかな、それって」=Is that really about "body chemistry" though?
-「そうでなければ説明が付きません。小さい頃友人の家に遊びに行った時も、ペットのイグアナからさんざん避けられてしまったんです」=I really don't know what else it could be. Even when I was small, when I went to play over at a friend's house, their pet iguana completely avoided me.
+「いえ、遠慮しておきます。私はどうも、動物に懐かれない体質なようで……」=“No, I'll pass. Try as I might, animals just don't like my body chemistry...”
+「体質、なのかな、それって」=“Is that really about "body chemistry" though?”
+「そうでなければ説明が付きません。小さい頃友人の家に遊びに行った時も、ペットのイグアナからさんざん避けられてしまったんです」=“I really don't know what else it could be. Even when I was small, when I went to play over at a friend's house, their pet iguana completely avoided me.”
 （イグアナが避ける様子が全然思い浮かばない……というか、ペットでイグアナってすごいな……）=(I can't even begin to imagine such a scene... rather, having an iguana as a pet, I don't even know what to say...)

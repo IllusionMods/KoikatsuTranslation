@@ -1,17 +1,17 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「あぁん……もうこんな時間なの～？　まだ全部回れてないのに……時間って残酷ね」=Aahn... is it already this late~? Even though we haven't been able to make a complete round yet... The march of time, so merciless.
+「あぁん……もうこんな時間なの～？　まだ全部回れてないのに……時間って残酷ね」=“Aahn... is it already this late~? Even though we haven't been able to make a complete round yet... The march of time, so merciless.”
 CHOICE:『最後に観覧車に乗ってかない？』=『Wanna wrap up the day with a ride on the Ferris Wheel?』
 CHOICE:『暗くなる前に帰ろうか』=『Let's go home before it gets dark.』
-「ねえ、まだちょっと時間に余裕があるなら、今日の締めくくりをしない？」=Hey, if you still have some time, wanna close off the day on a good end?
-「あら、何？　エッチなこと考えてるんでしょ～～……もう、悪い子ね♪」=Oh, what? You're just thinking about lewd stuff again, aren't you~~... jeez, what a naughty boy♪
-「違うよ……観覧車に乗ろうって思って……」=That's slander... I just thought that maybe we could ride the ferris wheel and stuff...
-「観覧車？　ふふ、なーんだ……やっぱりちょっとエッチじゃない。いいわよ、行きましょ♪」=The ferris wheel? Fufu, man... I was right on the money, that is pretty lewd. Alright, let's go♪
+「ねえ、まだちょっと時間に余裕があるなら、今日の締めくくりをしない？」=“Hey, if you still have some time, wanna close off the day on a good end?”
+「あら、何？　エッチなこと考えてるんでしょ～～……もう、悪い子ね♪」=“Oh, what? You're just thinking about lewd stuff again, aren't you~~... jeez, what a naughty boy♪”
+「違うよ……観覧車に乗ろうって思って……」=“That's slander... I just thought that maybe we could ride the ferris wheel and stuff...”
+「観覧車？　ふふ、なーんだ……やっぱりちょっとエッチじゃない。いいわよ、行きましょ♪」=“The ferris wheel? Fufu, man... I was right on the money, that is pretty lewd. Alright, let's go♪”
 （そんなにエッチかなぁ……？　景色を見せたいだけだったんだけど……）=(Is it really that lewd...? I just wanted to show her the nightscape...)
-「このままじゃ遅くなっちゃいそうだし、今日は帰ろうか」=It'll get pitch dark out if we stay any longer, shall we go home for today?
-「もう帰っちゃうの？　寂しいわ」=Already? I'd feel pretty lonely.
-「うう……そう言われるとグラっとくる……で、でも、明日に差し障っちゃうしね」=Uuu... those words really kinda... b-but, it'll cause problems tomorrow too.
-「もう、つれないんだからぁ。でもしょうがないわよね。いいわ、帰りましょ」=Jeez, so cold~. But, it can't be helped, can it? Alright, let's go home.
+「このままじゃ遅くなっちゃいそうだし、今日は帰ろうか」=“It'll get pitch dark out if we stay any longer, shall we go home for today?”
+「もう帰っちゃうの？　寂しいわ」=“Already? I'd feel pretty lonely.”
+「うう……そう言われるとグラっとくる……で、でも、明日に差し障っちゃうしね」=“Uuu... those words really kinda... b-but, it'll cause problems tomorrow too.”
+「もう、つれないんだからぁ。でもしょうがないわよね。いいわ、帰りましょ」=“Jeez, so cold~. But, it can't be helped, can it? Alright, let's go home.”
 （ちょっと拗ねてる……可愛いんだから……）=(She's pouting... so cute...)
-「さあ、駅まで行こう」=Well then, let's go to the station.
+「さあ、駅まで行こう」=“Well then, let's go to the station.”

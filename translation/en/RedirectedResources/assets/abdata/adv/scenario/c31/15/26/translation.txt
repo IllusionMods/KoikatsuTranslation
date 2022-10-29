@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「プレゼント作戦とは、またわかりやすいな。まぁ、悪い気はしないが」=Your aim with this present is completely laid bare, you know? Well, I'll accept it gratefully anyway.
+「プレゼント作戦とは、またわかりやすいな。まぁ、悪い気はしないが」=“Your aim with this present is completely laid bare, you know? Well, I'll accept it gratefully anyway.”

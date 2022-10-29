@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「今日は一日楽しかったん！　色々ありがとね。素敵な思い出が増えて、明日からもばり頑張れそうよ！」=I had a blast today! Thanks for that. We made so many nice memories, I feel like I'm fully topped up to deal with life again tomorrow!
+「今日は一日楽しかったん！　色々ありがとね。素敵な思い出が増えて、明日からもばり頑張れそうよ！」=“I had a blast today! Thanks for that. We made so many nice memories, I feel like I'm fully topped up to deal with life again tomorrow!”

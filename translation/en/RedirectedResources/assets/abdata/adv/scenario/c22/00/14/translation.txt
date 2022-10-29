@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「あ……おはよう。ごめんね、起こしちゃった……かな？」=Ah... good morning. I'm sorry, did I... wake you up?
-「ううん、大丈夫。[H]はもう起きてたの？」=No, it's alright. Were you already awake?
-「うん。だって君の寝顔見たかったんだもん。朝一番から大好きな人の顔が見られるのって……世界で一番幸せ♪」=Yeah. I couldn't help it, I really wanted to see your sleeping face. Being able to see the face of the guy I love so much first thing in the morning... I'm the happiest girl in the world♪
-「あ……うん、俺も。[H]の顔が見られて幸せだ」=Ah... yeah, me too. Being able to see you makes me really happy too.
-「ふふーっ、そんな嬉しいこと言ってくれる彼氏さんには、おはようのちゅーをあげちゃいますっ！　ちゅっ♪」=Fufu~, that's such a sweet thing to say, Mr. boyfriend. Here's your reward, a morning kiss--! *kiss*♪
+「あ……おはよう。ごめんね、起こしちゃった……かな？」=“Ah... good morning. I'm sorry, did I... wake you up?”
+「ううん、大丈夫。[H]はもう起きてたの？」=“No, it's alright. Were you already awake?”
+「うん。だって君の寝顔見たかったんだもん。朝一番から大好きな人の顔が見られるのって……世界で一番幸せ♪」=“Yeah. I couldn't help it, I really wanted to see your sleeping face. Being able to see the face of the guy I love so much first thing in the morning... I'm the happiest girl in the world♪”
+「あ……うん、俺も。[H]の顔が見られて幸せだ」=“Ah... yeah, me too. Being able to see you makes me really happy too.”
+「ふふーっ、そんな嬉しいこと言ってくれる彼氏さんには、おはようのちゅーをあげちゃいますっ！　ちゅっ♪」=“Fufu~, that's such a sweet thing to say, Mr. boyfriend. Here's your reward, a morning kiss--! *kiss*♪”

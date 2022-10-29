@@ -1,12 +1,12 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「どうしたの？　まさか怪我でもした？」=What's wrong? Are you hurt?
-「お昼休みって、ついウトウトしちゃうわよね」=It's so easy to fall asleep at lunch time.
-「保健室でお昼寝してくれてもいいのよ？」=It's alright if you want to take a nap in the infirmary, you know?
-「きみ、本当に真面目なのね。だからきっと女の子たちからも信頼されるんだわ」=You know, you're really serious. That's probably why the girls trust you.
-「お、部長らしい顔つきね。運動部じゃないから怪我はないと思うけど……一応、気を付けるのよ」=Oh, you really look like club president. It's not an athletic club, so I don't think you're going to get hurt... but, you still have to be careful.
-「どんどん勧誘して、どんどん経験を積みなさい」=Keep recruiting, keep gaining experience.
-「もしかして……私に会いたくて、遅くまで残っててくれた……とか？　違う？　残念……」=Maybe you... stayed late just to see... me? No? Too bad...
-「暗くなったらお化けが出ちゃうかもしれないわよー」=You never know when it gets dark, if ghosts will appear.
-「あまり遅くなると帰り道での事故が心配ね。気を付けて帰るのよ」=I'm worried you'll have an accident on the way if it gets too late. Be careful on your way home.
+「どうしたの？　まさか怪我でもした？」=“What's wrong? Are you hurt?”
+「お昼休みって、ついウトウトしちゃうわよね」=“It's so easy to fall asleep at lunch time.”
+「保健室でお昼寝してくれてもいいのよ？」=“It's alright if you want to take a nap in the infirmary, you know?”
+「きみ、本当に真面目なのね。だからきっと女の子たちからも信頼されるんだわ」=“You know, you're really serious. That's probably why the girls trust you.”
+「お、部長らしい顔つきね。運動部じゃないから怪我はないと思うけど……一応、気を付けるのよ」=“Oh, you really look like club president. It's not an athletic club, so I don't think you're going to get hurt... but, you still have to be careful.”
+「どんどん勧誘して、どんどん経験を積みなさい」=“Keep recruiting, keep gaining experience.”
+「もしかして……私に会いたくて、遅くまで残っててくれた……とか？　違う？　残念……」=“Maybe you... stayed late just to see... me? No? Too bad...”
+「暗くなったらお化けが出ちゃうかもしれないわよー」=“You never know when it gets dark, if ghosts will appear.”
+「あまり遅くなると帰り道での事故が心配ね。気を付けて帰るのよ」=“I'm worried you'll have an accident on the way if it gets too late. Be careful on your way home.”

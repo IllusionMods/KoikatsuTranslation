@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「あ……もしかして私……下手っぴ……だった？　ごめんね、満足させてあげられなくて……」=Ah... Was I too clumsy and awkward...? I'm really sorry, I couldn't satisfy you...
+「あ……もしかして私……下手っぴ……だった？　ごめんね、満足させてあげられなくて……」=“Ah... Was I too clumsy and awkward...? I'm really sorry, I couldn't satisfy you...”

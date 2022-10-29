@@ -1,5 +1,5 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「[P]さん！　これをどうぞ。お菓子を焼いてみたんです！」=[P]-san! Please try these. I tried baking some sweets!
-「お口に合うとよいのですけど……。今度感想も聞かせてくださいね！」=I hope you like them... Please tell me your impressions later!
+「[P]さん！　これをどうぞ。お菓子を焼いてみたんです！」=“[P]-san! Please try these. I tried baking some sweets!”
+「お口に合うとよいのですけど……。今度感想も聞かせてくださいね！」=“I hope you like them... Please tell me your impressions later!”

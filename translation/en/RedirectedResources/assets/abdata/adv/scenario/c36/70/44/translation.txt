@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「へえ、色々あるんだね」="Hoh, so many different spots..."
-「そうね、なかなか面白そうな所もあるじゃない。付いてきなさい」="Right, there are some quite interesting places. Come with me."
-「うん、いいよ」="Yeah, sure."
-「フフッ、くだらない所ばかりかと思っていたけど、それなりに楽しめるじゃない」="Fufu, I thought there would be only worthless ones."
+「へえ、色々あるんだね」=“Hoh, so many different spots...”
+「そうね、なかなか面白そうな所もあるじゃない。付いてきなさい」=“Right, there are some quite interesting places. Come with me.”
+「うん、いいよ」=“Yeah, sure.”
+「フフッ、くだらない所ばかりかと思っていたけど、それなりに楽しめるじゃない」=“Fufu, I thought there would be only worthless ones.”
 （よかった、喜んでもらえたみたいだ）=(Great, looks like she's pleased)

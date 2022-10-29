@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「うふふ……すごく気持ちよかったです。また……お願いしますね」=Ufufu~... that was amazing. Please do it... next time too, okay?
+「うふふ……すごく気持ちよかったです。また……お願いしますね」=“Ufufu~... that was amazing. Please do it... next time too, okay?”

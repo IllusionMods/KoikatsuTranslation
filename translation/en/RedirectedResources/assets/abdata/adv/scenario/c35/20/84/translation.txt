@@ -1,11 +1,11 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「ねぇ……今更不安になってきたっちゃけど……コイカツって実際はどんなことするん？　いまいちピンとこんくて……」="Hey... I know it's a bit late to get nervous but... When you say love activities, exactly what sort of thing will we be doing? I can't quite pinpoint it."
-「うーん……説明が難しいんだけど……恋人っぽいことをするって感じだよ」=Well... it's a bit hard to explain but... romantic things, things a couple would do, and such.
-「恋人っぽいことって……結構恥ずかしいこともあるん……？」=Things a couple would do... is the embarrassing stuff also included in that...?
-「えっと……恥ずかしいといえば……恥ずかしいかも……」=Erhm... well, if I had to say then... yes, I suppose...
-「ふぁっ……ほ、本当に私……出来るんかな？　恥ずかしいのとか苦手やし……あのっ……えっと……」=Fuah... W-Will I be able... to do it? I'm pretty bad with embarrassing stuff... uhm--... erhm...
-「わわ、そんなに深く考えなくてもいいよ！？　最初は友達の延長線上っていうか……そんなところからだし！」=Wawah, no need to overthink it that much, okay!? We'll be starting with some of the more friendly stuff like... well, basically that sort of stuff!
-「はぅっ……ごめんね。私……色々考えとったら頭訳分かんなくなるん……えっと……ぶ、部長！　リード、お願いします！」=Hauu--... Sorry. When I start thinking about stuff... my brain kinda just shuts down and... erhm... p-president! Please take the lead!
-「あはは、うん、任せて。と言っても、本当に大したことじゃないからね」=Ahaha, yeah, leave it to me. Though I say that, it's nothing that big a deal.
+「ねぇ……今更不安になってきたっちゃけど……コイカツって実際はどんなことするん？　いまいちピンとこんくて……」=“Hey... I know it's a bit late to get nervous but... When you say love activities, exactly what sort of thing will we be doing? I can't quite pinpoint it.”
+「うーん……説明が難しいんだけど……恋人っぽいことをするって感じだよ」=“Well... it's a bit hard to explain but... romantic things, things a couple would do, and such.”
+「恋人っぽいことって……結構恥ずかしいこともあるん……？」=“Things a couple would do... is the embarrassing stuff also included in that...?”
+「えっと……恥ずかしいといえば……恥ずかしいかも……」=“Erhm... well, if I had to say then... yes, I suppose...”
+「ふぁっ……ほ、本当に私……出来るんかな？　恥ずかしいのとか苦手やし……あのっ……えっと……」=“Fuah... W-Will I be able... to do it? I'm pretty bad with embarrassing stuff... uhm--... erhm...”
+「わわ、そんなに深く考えなくてもいいよ！？　最初は友達の延長線上っていうか……そんなところからだし！」=“Wawah, no need to overthink it that much, okay!? We'll be starting with some of the more friendly stuff like... well, basically that sort of stuff!”
+「はぅっ……ごめんね。私……色々考えとったら頭訳分かんなくなるん……えっと……ぶ、部長！　リード、お願いします！」=“Hauu--... Sorry. When I start thinking about stuff... my brain kinda just shuts down and... erhm... p-president! Please take the lead!”
+「あはは、うん、任せて。と言っても、本当に大したことじゃないからね」=“Ahaha, yeah, leave it to me. Though I say that, it's nothing that big a deal.”

@@ -1,20 +1,20 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「ここがカラオケボックスですか。初めて足を踏み入れました」=So this is a Karaoke Box, huh. This is the first time I've ever stepped foot in one.
-「今日はここで思い切り楽しもう。知ってる曲があったらどんどん入れてね」=Let's have a blast here today. If there are any songs you know of, queue them up, alright?
-「どうすれば曲を入れられるのでしょうか？」=How does one queue up a song?
-「っと……はい、このリモコンで歌いたい曲を入力すればいいんだよ」=Erm... Here, all you need to do is input the songs you want to sing with this remote.
-「なるほど……とはいえ、流行りの曲はよく知りませんが」=I see... Though, I don't know many popular songs.
-「……すみません、美味しそうな食事の画面から戻れないのですが」=...I'm sorry, I can't seem to come back out of the screen with all the delicious looking food.
-「……何か食べるのは後でね。　ちょっとリモコン貸して？」=...Let's leave the snacks for later, alright? Hand me the remote for a bit?
-「……よしっと、何か歌える曲があればこっちで入力するよ」=...Alright, if there are any songs you want to sing, you can queue them up from here.
-「私から歌うのですか？」=Am I going to be going first?
-「……そうですね、『青空アドベンチャー』という曲なら知っています」=... Let's see, I do know the song called『Blue Sky Adventure』
-「ＯＫ、青空アドベンチャーね……はい、入力っと」=OK, Blue Sky Adventure, yeah?... there, it's in.
-「……早急過ぎませんか？」=...Aren't you being a bit too fast?
-「いやぁ、[H名]がどんな風に歌うのか楽しみでさ」=Well, you know, I'm just looking forward to seeing how you sing, [H名].
-「期待されても困りますが……いえ、あなたが期待してくれるというのであれば、全力で取り組まねばなりませんね」=I'll be troubled if you have sky-high expectations... No, if you're looking forward to it, then I just have to tackle it with all my might, don't I?
-「あ、あはは、普通でいいから、ね……？」=Ah, Ahaha, Just do it normally, alright...?
+「ここがカラオケボックスですか。初めて足を踏み入れました」=“So this is a Karaoke Box, huh. This is the first time I've ever stepped foot in one.”
+「今日はここで思い切り楽しもう。知ってる曲があったらどんどん入れてね」=“Let's have a blast here today. If there are any songs you know of, queue them up, alright?”
+「どうすれば曲を入れられるのでしょうか？」=“How does one queue up a song?”
+「っと……はい、このリモコンで歌いたい曲を入力すればいいんだよ」=“Erm... Here, all you need to do is input the songs you want to sing with this remote.”
+「なるほど……とはいえ、流行りの曲はよく知りませんが」=“I see... Though, I don't know many popular songs.”
+「……すみません、美味しそうな食事の画面から戻れないのですが」=“...I'm sorry, I can't seem to come back out of the screen with all the delicious looking food.”
+「……何か食べるのは後でね。　ちょっとリモコン貸して？」=“...Let's leave the snacks for later, alright? Hand me the remote for a bit?”
+「……よしっと、何か歌える曲があればこっちで入力するよ」=“...Alright, if there are any songs you want to sing, you can queue them up from here.”
+「私から歌うのですか？」=“Am I going to be going first?”
+「……そうですね、『青空アドベンチャー』という曲なら知っています」=“... Let's see, I do know the song called『Blue Sky Adventure』”
+「ＯＫ、青空アドベンチャーね……はい、入力っと」=“OK, Blue Sky Adventure, yeah?... there, it's in.”
+「……早急過ぎませんか？」=“...Aren't you being a bit too fast?”
+「いやぁ、[H名]がどんな風に歌うのか楽しみでさ」=“Well, you know, I'm just looking forward to seeing how you sing, [H名].”
+「期待されても困りますが……いえ、あなたが期待してくれるというのであれば、全力で取り組まねばなりませんね」=“I'll be troubled if you have sky-high expectations... No, if you're looking forward to it, then I just have to tackle it with all my might, don't I?”
+「あ、あはは、普通でいいから、ね……？」=“Ah, Ahaha, Just do it normally, alright...?”
 『……小さな手の平　掴める物はきっと限られているけど』=[... This small hand, the things it can grasp are surely limited but--]
 （綺麗な声で歌うなぁ。でも[H名]の歌って、なんか新鮮かも）=(Her singing voice is so lovely. The way she's singing it though, it feels kinda refreshing somehow)

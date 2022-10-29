@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「……ひどい。私まだ、あなたに満たされてない……」="...Geez. I still haven't been satisified yet..."
+「……ひどい。私まだ、あなたに満たされてない……」=“...Geez. I still haven't been satisified yet...”

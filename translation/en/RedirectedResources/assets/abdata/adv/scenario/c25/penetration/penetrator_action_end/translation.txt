@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「ありがとね～。んじゃ、後は任せたよ～♪」=Thanks~. Well then, I'll leave the rest to you~♪
+「ありがとね～。んじゃ、後は任せたよ～♪」=“Thanks~. Well then, I'll leave the rest to you~♪”

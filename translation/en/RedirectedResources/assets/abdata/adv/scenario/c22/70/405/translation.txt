@@ -1,22 +1,22 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「ふふーっ、オムライスっ♪　オムライスっ♪　ふかふかで美味しそう♪」=Fufu~, omurice--♪ omurice--♪ It looks so fluffy and delicious♪
-「あはは、テンション上がってるね。オムライス好きなんだっけ？」=Ahaha, you're pretty excited. You love omurice?
-「うんっ！　オムライスってね、お店によって色んな特徴があるんだよ。ふわふわしてたり、バターが多かったり……って言っても、どれも美味しいんだけど！」=Yeah--! You know, different shops make completely different kinds of omurice. Fluffy ones, or ones with lots of butter... though I say that, but they all taste great!
-「まぁ、確かに……オムライスっていつ食べても美味しいよね。冷めないうちにどうぞ」=For sure... no matter where or when you get omurice, it's delicious, isn't it? Dig in before it gets cold.
-「うんっ、頂きますっ！　はむっ……んーっ、お口の中で卵がとろけたよー！」=Yeah--, I'mma dig in--! *chew*... nnn--, the egg just melted in my mouth~!
-「すっごく幸せそうな顔してる」=That's a blissful face if I've ever seen one.
-「えへへ、だってぇ……幸せなんだもん。目の前に君がいて、お口の中にはオムライスの味が広がってー……はむっ、んーっ！」=Ehehe, I mean... I am in bliss, afterall. Omurice melting in my mouth, with you for company~... *chew*, nnn--!
-「本当に美味しそうに食べるね。うーん、俺もオムライスにするべきだったかな」=You really are eating that deliciously. Mmm, maybe I should have gone with omurice too.
-「ふふっ、それじゃ一口食べてみる？」=Fufu--, you wanna try a bite?
-「いいの？　えーっと……もしかして……」=You sure? Eerhm... are you...
-「うん……もちろん！　一番ふわふわなところをあげるね。こうやってすくって……」=Yeah... of course! I'll get you the fluffiest bit. Scoop it out like this and...
-「はい……あーん……」=Here... open wide~...
-「あ……え、えっと……うん、あーん……」=Ah... e-erhm... okay, aaahn...
+「ふふーっ、オムライスっ♪　オムライスっ♪　ふかふかで美味しそう♪」=“Fufu~, omurice--♪ omurice--♪ It looks so fluffy and delicious♪”
+「あはは、テンション上がってるね。オムライス好きなんだっけ？」=“Ahaha, you're pretty excited. You love omurice?”
+「うんっ！　オムライスってね、お店によって色んな特徴があるんだよ。ふわふわしてたり、バターが多かったり……って言っても、どれも美味しいんだけど！」=“Yeah--! You know, different shops make completely different kinds of omurice. Fluffy ones, or ones with lots of butter... though I say that, but they all taste great!”
+「まぁ、確かに……オムライスっていつ食べても美味しいよね。冷めないうちにどうぞ」=“For sure... no matter where or when you get omurice, it's delicious, isn't it? Dig in before it gets cold.”
+「うんっ、頂きますっ！　はむっ……んーっ、お口の中で卵がとろけたよー！」=“Yeah--, I'mma dig in--! *chew*... nnn--, the egg just melted in my mouth~!”
+「すっごく幸せそうな顔してる」=“That's a blissful face if I've ever seen one.”
+「えへへ、だってぇ……幸せなんだもん。目の前に君がいて、お口の中にはオムライスの味が広がってー……はむっ、んーっ！」=“Ehehe, I mean... I am in bliss, afterall. Omurice melting in my mouth, with you for company~... *chew*, nnn--!”
+「本当に美味しそうに食べるね。うーん、俺もオムライスにするべきだったかな」=“You really are eating that deliciously. Mmm, maybe I should have gone with omurice too.”
+「ふふっ、それじゃ一口食べてみる？」=“Fufu--, you wanna try a bite?”
+「いいの？　えーっと……もしかして……」=“You sure? Eerhm... are you...”
+「うん……もちろん！　一番ふわふわなところをあげるね。こうやってすくって……」=“Yeah... of course! I'll get you the fluffiest bit. Scoop it out like this and...”
+「はい……あーん……」=“Here... open wide~...”
+「あ……え、えっと……うん、あーん……」=“Ah... e-erhm... okay, aaahn...”
 「はむっ……」=*chew*...
-「えへへ、あーんって……何回やっても最初は照れるよね」=Ehehe, feeding each other like this... no matter how many times you do it, it's always a little bit embarrassing when you go in for it, isn't it?
-「うん、最初だけはどうしても……って、なにこれ、本当に美味しい！」=Yeah, no matter what... wuh, what is this, this is amazing!
-「でしょ！　卵とバターのバランスが完璧なの！　もし良かったらまだ食べる？」=Right?! The balance between the butter and the egg is just perfect! Want another bite?
-「是非！　[H名]にあーんしてほしいな！」=Yes! I want you to feed it to me!
-「えへへ、そんな風に君がすごく喜んでくれるから、照れちゃってもあーんしたくなっちゃうよー」=Ehehe, it's because it always makes you so happy, that I just can't help but want to feed you, even if it's embarrassing.
+「えへへ、あーんって……何回やっても最初は照れるよね」=“Ehehe, feeding each other like this... no matter how many times you do it, it's always a little bit embarrassing when you go in for it, isn't it?”
+「うん、最初だけはどうしても……って、なにこれ、本当に美味しい！」=“Yeah, no matter what... wuh, what is this, this is amazing!”
+「でしょ！　卵とバターのバランスが完璧なの！　もし良かったらまだ食べる？」=“Right?! The balance between the butter and the egg is just perfect! Want another bite?”
+「是非！　[H名]にあーんしてほしいな！」=“Yes! I want you to feed it to me!”
+「えへへ、そんな風に君がすごく喜んでくれるから、照れちゃってもあーんしたくなっちゃうよー」=“Ehehe, it's because it always makes you so happy, that I just can't help but want to feed you, even if it's embarrassing.”

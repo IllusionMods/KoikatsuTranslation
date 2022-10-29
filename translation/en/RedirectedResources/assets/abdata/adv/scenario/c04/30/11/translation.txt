@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「[P]くん……私たち、一度他人に戻りましょう」=[P]-kun... let's go back to being strangers, for now.
-「えっ……急にそんなこと言われても……」=Eh--... even if you say that all of a sudden...
-「急じゃないの……私はもう前から、あなたのことを信じられなくなっていたから……」=It's not all of a sudden... I've been unable to trust you, for a while now...
-「そ、そんな……」=N-No way...
-「……落ち着くまで、お互いに距離を置きましょう……じゃあ、またね」=...Let's put some distance between us, until we can both cool down... Well then, see you.
+「[P]くん……私たち、一度他人に戻りましょう」=“[P]-kun... let's go back to being strangers, for now.”
+「えっ……急にそんなこと言われても……」=“Eh--... even if you say that all of a sudden...”
+「急じゃないの……私はもう前から、あなたのことを信じられなくなっていたから……」=“It's not all of a sudden... I've been unable to trust you, for a while now...”
+「そ、そんな……」=“N-No way...”
+「……落ち着くまで、お互いに距離を置きましょう……じゃあ、またね」=“...Let's put some distance between us, until we can both cool down... Well then, see you.”

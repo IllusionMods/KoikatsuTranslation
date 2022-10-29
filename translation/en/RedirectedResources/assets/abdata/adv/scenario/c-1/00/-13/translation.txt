@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「保健室に一人でいると、わりと眠くなっちゃうの。まぁ、怪我人がいないに越したことはないんだけどね」=When I'm alone in the infirmary, I tend to get rather sleepy. Well, I suppose it's better than anyone getting hurt.
+「保健室に一人でいると、わりと眠くなっちゃうの。まぁ、怪我人がいないに越したことはないんだけどね」=“When I'm alone in the infirmary, I tend to get rather sleepy. Well, I suppose it's better than anyone getting hurt.”

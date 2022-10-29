@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「私と？　ええ、もちろんいいわよ。どんなことしようかしら？」=With me? Yeah, Of course, its fine. What shall we do?
-「何でもいいけど……ちょっと派手に身体動かしたいかな。バドミントンとか、卓球とか」=Anything's fine but, something that involves flashy movements would be nice. Something like Table Tennis or Badminton
-「あら、いいわね。男の子相手だとどこまで出来るか分からないけど……って、もちろん手加減してくれるわよね♪」=Ah, that's a good idea. Although I don't know how far I can go with a boy as my opponent... But of course, you'll go easy on me, right? ♪
+「私と？　ええ、もちろんいいわよ。どんなことしようかしら？」=“With me? Yeah, Of course, its fine. What shall we do?”
+「何でもいいけど……ちょっと派手に身体動かしたいかな。バドミントンとか、卓球とか」=“Anything's fine but, something that involves flashy movements would be nice. Something like Table Tennis or Badminton”
+「あら、いいわね。男の子相手だとどこまで出来るか分からないけど……って、もちろん手加減してくれるわよね♪」=“Ah, that's a good idea. Although I don't know how far I can go with a boy as my opponent... But of course, you'll go easy on me, right? ♪”

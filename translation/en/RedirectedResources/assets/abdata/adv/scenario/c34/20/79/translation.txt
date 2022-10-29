@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「注文シテクレテｔｈａｎｋ　ｙｏｕ♪　トッテモ助かったヨー」=Thank you for ordering it for me♪ You really saved my butt there.
-「どういたしまして。でも、食券買って出すだけだし、不自由というか、言葉の壁はないんじゃない？」=Don't mention it. But, it's just buying a meal ticket, I don't think language would post a problem?
-「エット、券売機？　アレ、文字しか書いてないカラ、言葉の壁デショ？　アタフタしてるト、後ろにヒトがズラー並んで迷惑かけるヨ～」=Erhm, the vending machine has nothing but kanji on it. That counts as a language barrier, no? If I lose my bearings there, it'd be a real nuisance to the people lined up behind me~
+「注文シテクレテｔｈａｎｋ　ｙｏｕ♪　トッテモ助かったヨー」=“Thank you for ordering it for me♪ You really saved my butt there.”
+「どういたしまして。でも、食券買って出すだけだし、不自由というか、言葉の壁はないんじゃない？」=“Don't mention it. But, it's just buying a meal ticket, I don't think language would post a problem?”
+「エット、券売機？　アレ、文字しか書いてないカラ、言葉の壁デショ？　アタフタしてるト、後ろにヒトがズラー並んで迷惑かけるヨ～」=“Erhm, the vending machine has nothing but kanji on it. That counts as a language barrier, no? If I lose my bearings there, it'd be a real nuisance to the people lined up behind me~”
 （なるほど。メニューに写真をつけてもらえないか、今度叔母さんに頼んでみようかな）=(I see. I'll try asking my aunt, I guess, see if they can't have them put images on the vending machine buttons.)

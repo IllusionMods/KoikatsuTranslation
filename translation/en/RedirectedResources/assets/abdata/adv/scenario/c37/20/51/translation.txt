@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「……お疲れ様でした」=...Thank you for your hard work.
+「……お疲れ様でした」=“...Thank you for your hard work.”

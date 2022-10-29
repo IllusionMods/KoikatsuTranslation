@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「たまにはそういうプレイもいいわよね。ええ、三人でやりましょ」=That kind of play is good every once in a while. Alright, let's all three do it.
+「たまにはそういうプレイもいいわよね。ええ、三人でやりましょ」=“That kind of play is good every once in a while. Alright, let's all three do it.”

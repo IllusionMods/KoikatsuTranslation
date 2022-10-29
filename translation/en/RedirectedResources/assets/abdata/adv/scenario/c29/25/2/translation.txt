@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「まさか、あなたとこのように話すことになるとは思いませんでした」=I never thought we'd ever end up talking to each other like this.
-「自分でも意外だった？」=Was it a surprise to you too?
-「そう……ですね。でも嫌ではありません」=Indeed... I suppose so. It's not unpleasant though.
-「良かった。これからも話してくれる？」=Great. Will you chat with me more in the future?
-「……構いませんよ」=...I don't mind.
-「ただ、今はもう時間がなくなってしまいましたが」=Though, I've run out of time for now, so I must be going.
-「あっ、そうだね。じゃあまた今度」=Ah--, right. Next time then.
+「まさか、あなたとこのように話すことになるとは思いませんでした」=“I never thought we'd ever end up talking to each other like this.”
+「自分でも意外だった？」=“Was it a surprise to you too?”
+「そう……ですね。でも嫌ではありません」=“Indeed... I suppose so. It's not unpleasant though.”
+「良かった。これからも話してくれる？」=“Great. Will you chat with me more in the future?”
+「……構いませんよ」=“...I don't mind.”
+「ただ、今はもう時間がなくなってしまいましたが」=“Though, I've run out of time for now, so I must be going.”
+「あっ、そうだね。じゃあまた今度」=“Ah--, right. Next time then.”

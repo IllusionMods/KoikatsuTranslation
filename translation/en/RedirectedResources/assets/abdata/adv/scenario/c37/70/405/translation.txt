@@ -1,19 +1,19 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「美味しそうなハンバーグだね」=What a delicious looking hamburger steak.
-「えぇ、とても美味しいです」=Yes, It's really delicious.
-「うーん……俺もひとくち食べてみたいなー、なんて」=Hmmm... I want to try a bite too, eh, nevermind.
-「別に構いませんが」=I don't particularly mind though.
-「ほんと？　やった。じゃあ前みたいに『あーん』で食べさせてくれるかな」=Really? Yay. Then, will you feed me it while going "Aaaahn" like last time?
-「わかりました」=Got it.
-「それでは……あーん」=Well then... Aaahn.
+「美味しそうなハンバーグだね」=“What a delicious looking hamburger steak.”
+「えぇ、とても美味しいです」=“Yes, It's really delicious.”
+「うーん……俺もひとくち食べてみたいなー、なんて」=“Hmmm... I want to try a bite too, eh, nevermind.”
+「別に構いませんが」=“I don't particularly mind though.”
+「ほんと？　やった。じゃあ前みたいに『あーん』で食べさせてくれるかな」=“Really? Yay. Then, will you feed me it while going "Aaaahn" like last time?”
+「わかりました」=“Got it.”
+「それでは……あーん」=“Well then... Aaahn.”
 「もぐもぐもぐ……」=*Chew Chew Chew*...
-「……うん、美味しい！　肉は柔らかいし、ソースもいいね」=......Yeah, it's great! The meat is soft, and the sauce is great too.
-「はい、あーん」=Here, Aaahn.
+「……うん、美味しい！　肉は柔らかいし、ソースもいいね」=“......Yeah, it's great! The meat is soft, and the sauce is great too.”
+「はい、あーん」=“Here, Aaahn.”
 「もぐ……」=*Chew*...
-「んん、まだ口の中に……」=Nnn, I still have some in my mouth...
-「あーん」=Aaaahn.
-「待っ、もぐ、うぅ……」=Wai--, *chew*, Uu...
-「っとすみません、食べる姿があまりにも可愛らしかったので止まりませんでした」=I'm sorry, you just looked so cute while eating, I couldn't stop myself.
-「ふぉ、ふぉうあんら……もぐぅ……」=Fuoh, Fuouanrah... *Chew*...
+「んん、まだ口の中に……」=“Nnn, I still have some in my mouth...”
+「あーん」=“Aaaahn.”
+「待っ、もぐ、うぅ……」=“Wai--, *chew*, Uu...”
+「っとすみません、食べる姿があまりにも可愛らしかったので止まりませんでした」=“I'm sorry, you just looked so cute while eating, I couldn't stop myself.”
+「ふぉ、ふぉうあんら……もぐぅ……」=“Fuoh, Fuouanrah... *Chew*...”

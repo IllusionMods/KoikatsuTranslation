@@ -1,22 +1,22 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「[H名]って、普段から喫茶店とか良く来るの？」=Hey, [H名], do you come to coffee shops like these often?
-「ん？　どうして？　友達同士で利用する事はあるけど、一人で来ることはあんまりないわよ？」=Hm? Why do you ask? I come sometimes with friends, but not that often when I'm alone.
-「そっか、何か注文とか頼み慣れてる感じがしたから」=I see, I just thought that you looked like you were used to ordering things and that you knew the menu pretty well.
-「あぁ、知り合いの店員さんだったから。私、店員さんと仲良くなるの得意なのよ」=Ahh, an aquantaince of mine works in a place like this. I'm usually on good terms with store employees, you know.
-「凄いね、コミュニケーション強者って感じ」=That's amazing, you really do have strong communication skills.
-「特に意識はしていないのだけどね。気付いたら仲良くなっていたみたいな事が多いわ」=I don't particularly notice it though. Usually, before I know it, I just end up being on really good terms with people.
-「そうなんだ……じゃあ、俺もそんな感じなのかな？」=Is that so... Then, was it the same with me?
-「それはちょっと違うわね。キミは特別、だって……私の彼氏にまでなっちゃった人だもの」=I think that's a little different. You're a special case, since... you even ended up becoming my boyfriend.
-「そっか、なんか安心したかも。なんとなく仲良くなったって……友達ならいいけど、恋人だと少し寂しい気がするし」=I see, that makes me kinda relieved. Ending up on good terms somehow or other... with friends it's fine, but since we're lovers and all, I'd feel a bit lonely if that were to be the case.
-「ふふ、私ね……最初の頃は、キミが近付いてきただけで、ちょっと緊張してたのよ」=Fufu, you know I... At the beginning, whenever you even got close to me, I'd start feeling nervous.
-「うそ、それほんと？　そんな感じ、全然しなかったけど……」=No way, really? I didn't get that feeling at all though...
-「頑張って平静を装ってたのよ。キミが来るまで、男の子と話した事なんて、ほとんどなかったんだから」=I tried my best to hide it and appear calm. Before I met you, I never had the chance to talk to talk to guys all that often.
-「でも……男の店員さんとかもいるよね？」=But... it's not like male employees don't exist, right?
-「店員さんとは、最初からそんなに深い付き合いになると思って話たりしないでしょう？」=Store employees are different, it's not like you plan on going out of your way to have a closer relationship with them, do you?
-「ちゃんと男の子として見たのは、キミが初めてってこと、これで安心した？」=The only person I've ever seriously looked as a guy, is you. Does that make you feel better?
-「うん、なんかごめん……過去を詮索するようなこと聞いちゃって」=Yeah, sorry about that... I didn't mean to pry into your past relationships and all that.
-「ふふ、それだけ私に興味を持ってくれてるってことでしょう？　悪いと思うなら、次はキミの話を聞かせて？」=Fufu, then can I take it as, you're just interested in knowing more about me? If you really feel bad about it, how about you tell me more about yourself instead?
-「えっ、俺の？　うーん、特に面白い話とかないよ？」=Eh, me? Well, there's nothing all that interesting for me to talk about, you know?
-「それを決めるのは私。いいから、お姉さんのキミのこと、色々教えてっ」=I'll be the one to decide that. It's fine, so, just tell onee-san various things about yourself.
+「[H名]って、普段から喫茶店とか良く来るの？」=“Hey, [H名], do you come to coffee shops like these often?”
+「ん？　どうして？　友達同士で利用する事はあるけど、一人で来ることはあんまりないわよ？」=“Hm? Why do you ask? I come sometimes with friends, but not that often when I'm alone.”
+「そっか、何か注文とか頼み慣れてる感じがしたから」=“I see, I just thought that you looked like you were used to ordering things and that you knew the menu pretty well.”
+「あぁ、知り合いの店員さんだったから。私、店員さんと仲良くなるの得意なのよ」=“Ahh, an aquantaince of mine works in a place like this. I'm usually on good terms with store employees, you know.”
+「凄いね、コミュニケーション強者って感じ」=“That's amazing, you really do have strong communication skills.”
+「特に意識はしていないのだけどね。気付いたら仲良くなっていたみたいな事が多いわ」=“I don't particularly notice it though. Usually, before I know it, I just end up being on really good terms with people.”
+「そうなんだ……じゃあ、俺もそんな感じなのかな？」=“Is that so... Then, was it the same with me?”
+「それはちょっと違うわね。キミは特別、だって……私の彼氏にまでなっちゃった人だもの」=“I think that's a little different. You're a special case, since... you even ended up becoming my boyfriend.”
+「そっか、なんか安心したかも。なんとなく仲良くなったって……友達ならいいけど、恋人だと少し寂しい気がするし」=“I see, that makes me kinda relieved. Ending up on good terms somehow or other... with friends it's fine, but since we're lovers and all, I'd feel a bit lonely if that were to be the case.”
+「ふふ、私ね……最初の頃は、キミが近付いてきただけで、ちょっと緊張してたのよ」=“Fufu, you know I... At the beginning, whenever you even got close to me, I'd start feeling nervous.”
+「うそ、それほんと？　そんな感じ、全然しなかったけど……」=“No way, really? I didn't get that feeling at all though...”
+「頑張って平静を装ってたのよ。キミが来るまで、男の子と話した事なんて、ほとんどなかったんだから」=“I tried my best to hide it and appear calm. Before I met you, I never had the chance to talk to talk to guys all that often.”
+「でも……男の店員さんとかもいるよね？」=“But... it's not like male employees don't exist, right?”
+「店員さんとは、最初からそんなに深い付き合いになると思って話たりしないでしょう？」=“Store employees are different, it's not like you plan on going out of your way to have a closer relationship with them, do you?”
+「ちゃんと男の子として見たのは、キミが初めてってこと、これで安心した？」=“The only person I've ever seriously looked as a guy, is you. Does that make you feel better?”
+「うん、なんかごめん……過去を詮索するようなこと聞いちゃって」=“Yeah, sorry about that... I didn't mean to pry into your past relationships and all that.”
+「ふふ、それだけ私に興味を持ってくれてるってことでしょう？　悪いと思うなら、次はキミの話を聞かせて？」=“Fufu, then can I take it as, you're just interested in knowing more about me? If you really feel bad about it, how about you tell me more about yourself instead?”
+「えっ、俺の？　うーん、特に面白い話とかないよ？」=“Eh, me? Well, there's nothing all that interesting for me to talk about, you know?”
+「それを決めるのは私。いいから、お姉さんのキミのこと、色々教えてっ」=“I'll be the one to decide that. It's fine, so, just tell onee-san various things about yourself.”

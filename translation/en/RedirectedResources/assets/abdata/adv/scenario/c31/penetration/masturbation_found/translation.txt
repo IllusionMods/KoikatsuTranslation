@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「……で、お前は見ているだけで何がしたかったのだ？　男ならハッキリ言ってみろ」=...So, what did you want to accomplish, just by watching me? If you're a man, say it to me directly.
+「……で、お前は見ているだけで何がしたかったのだ？　男ならハッキリ言ってみろ」=“...So, what did you want to accomplish, just by watching me? If you're a man, say it to me directly.”

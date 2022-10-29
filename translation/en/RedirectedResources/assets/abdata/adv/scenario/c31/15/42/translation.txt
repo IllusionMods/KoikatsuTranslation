@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「ひゃぅっ！　ッ、んぅぅぅッ……いいか、３秒以内に出て行け。３……２……」=Hyaaa--! --, Nnnnnn--... Listen up. Within 3 seconds, get lost. 3... 2...
+「ひゃぅっ！　ッ、んぅぅぅッ……いいか、３秒以内に出て行け。３……２……」=“Hyaaa--! --, Nnnnnn--... Listen up. Within 3 seconds, get lost. 3... 2...”

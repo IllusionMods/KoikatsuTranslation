@@ -1,19 +1,19 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「はぁぁ、たくさん歌っちゃったねぇ！　あ、もうそろそろ時間だよ」=Haah, we sang a ton, huh~! Ah, we're almost out of time.
+「はぁぁ、たくさん歌っちゃったねぇ！　あ、もうそろそろ時間だよ」=“Haah, we sang a ton, huh~! Ah, we're almost out of time.”
 CHOICE:『せっかくだからもう少し歌わない？』=How about we sing some more?
 CHOICE:『これで終わりにしようか』=Let's wrap it up here.
-「せっかくだからもう少し歌わない？　俺、[H名]の歌、聞きたいな」=We don't come out here often, how about we sing some more? I wanna hear your voice more.
-「うんっ、賛成！　私も君の歌、もっと聞きたい！」=Okay--, I'm all for it! I wanna hear your voice more too!
-「ありがとう。それじゃ延長するね」=Thanks. I'mma put in the call then, okay?
-「十分歌ったし、今日はこれで終わりにしようか」=We've sang a ton already, let's end it here for today.
-「りょーかい！　うーん、気持ちよかったぁ！」=Roger~! Mmm, that felt so good!
-「あはは、[H名]くらい歌えたら本当に気持ちいいだろうなぁ」=Ahaha, if I sang as much as you it probably would feel real good.
-「最後に一曲、二人で一緒に歌って、それで終わりにしよっか」=Let's sing the last song together, and wrap it up with that.
-「うん、そしたらちょうどいい時間になりそうだね。何にする？」=Okay, that'll be just perfect, I think. What do you wanna sing?
-「[H名]が好きな曲で大丈夫だよ」=Any song you like'd be fine.
-「ならこの曲！」=Then this one!
+「せっかくだからもう少し歌わない？　俺、[H名]の歌、聞きたいな」=“We don't come out here often, how about we sing some more? I wanna hear your voice more.”
+「うんっ、賛成！　私も君の歌、もっと聞きたい！」=“Okay--, I'm all for it! I wanna hear your voice more too!”
+「ありがとう。それじゃ延長するね」=“Thanks. I'mma put in the call then, okay?”
+「十分歌ったし、今日はこれで終わりにしようか」=“We've sang a ton already, let's end it here for today.”
+「りょーかい！　うーん、気持ちよかったぁ！」=“Roger~! Mmm, that felt so good!”
+「あはは、[H名]くらい歌えたら本当に気持ちいいだろうなぁ」=“Ahaha, if I sang as much as you it probably would feel real good.”
+「最後に一曲、二人で一緒に歌って、それで終わりにしよっか」=“Let's sing the last song together, and wrap it up with that.”
+「うん、そしたらちょうどいい時間になりそうだね。何にする？」=“Okay, that'll be just perfect, I think. What do you wanna sing?”
+「[H名]が好きな曲で大丈夫だよ」=“Any song you like'd be fine.”
+「ならこの曲！」=“Then this one!”
 （何となく、何を入れたか想像つくな）=(I feel like I know exactly which one you put in there)
 [P名]＆[H名]=[P名] & [H名]
 『果てしない空の下　どこかにきっとあるんだ♪　目の前に広がる航路に地図重ねて♪』=『I'm sure it's here somewhere, under this boundless bright sky♪ Lay out the map, meld it with the path laid out in front of my eyes♪』

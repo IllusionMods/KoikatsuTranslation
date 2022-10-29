@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「わ、私にプレゼントですか？　た、楽しみです……！　なんでしょう？」=A-A present for me? I-I'm so excited...! What is it?
+「わ、私にプレゼントですか？　た、楽しみです……！　なんでしょう？」=“A-A present for me? I-I'm so excited...! What is it?”

@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「緊張したけど……初めてがキミでよかったぞ」=I got really nervous but... I'm glad you were my first.
+「緊張したけど……初めてがキミでよかったぞ」=“I got really nervous but... I'm glad you were my first.”

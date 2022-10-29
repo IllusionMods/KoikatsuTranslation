@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「異性と一緒に勉強する機会はほとんどなかったので、新鮮です」=I've basically never had the chance to study with a person of the opposite sex like this, so it's quite a fresh experience.
-「本当？　じゃあこれからもっと勉強会を……いや、でもそれはさすがに息が詰まるかな」=Really? Then, I wouldn't mind having even more study sessions... no, nevermind, I think it'd get old way too fast.
+「異性と一緒に勉強する機会はほとんどなかったので、新鮮です」=“I've basically never had the chance to study with a person of the opposite sex like this, so it's quite a fresh experience.”
+「本当？　じゃあこれからもっと勉強会を……いや、でもそれはさすがに息が詰まるかな」=“Really? Then, I wouldn't mind having even more study sessions... no, nevermind, I think it'd get old way too fast.”
 「そうですね。でも、あなたとなら楽しめそうです。くすっ」=Indeed. But, I think with you, I could enjoy them. *giggle*
-「え？　あ、うん……」=Eh? Ah, yeah...
+「え？　あ、うん……」=“Eh? Ah, yeah...”
 （今ちょっとドキッとしちゃったぞ……）=(My heart just skipped a beat...)

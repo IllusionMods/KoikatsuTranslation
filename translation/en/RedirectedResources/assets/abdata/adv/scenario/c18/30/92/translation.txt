@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「えへへ、あなたとエッチできたので、すごく幸せな気分です」=Ehehe, I got to have sex with you, so I feel really happy.
+「えへへ、あなたとエッチできたので、すごく幸せな気分です」=“Ehehe, I got to have sex with you, so I feel really happy.”

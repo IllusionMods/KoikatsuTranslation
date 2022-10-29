@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「えっと……混ざりたいの？　……どうする？」=Erhm... You wanna join us? What do you wanna do?
+「えっと……混ざりたいの？　……どうする？」=“Erhm... You wanna join us? What do you wanna do?”
 //「え？　あぁ、私達とシたかっただけなのね。それくらいなら構わないけど……」=
 //「ふぅん……？　私達、大分出来上がってるわよ？　アナタに付いて来れるかしら？」=
-「あはは……」=Ahaha...
+「あはは……」=“Ahaha...”

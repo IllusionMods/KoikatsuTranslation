@@ -2,10 +2,10 @@
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
 （よし、待ち合わせ時間には十分余裕があるな。さすがに[H名]はまだ……って、もう来てた！）=(Alright, I got here plenty early. Even [H名] shouldn't have...--wuh, she's already here!)
-「ごめん！　待たせちゃった！？」=Sorry! Did I keep you waiting!?
-「あ、ううん、私も今来たとこよ。というか、君、早くない？」=Ah, no, I just got here myself. Rather, aren't you here way too early?
-「[H名]こそ。待ち合わせにはまだまだ時間あるよ？」=I should be saying that. There's still lots of time before we had to meet up, you know?
-「あはは、待ち合わせもデートの醍醐味かなって思って……ちょっと早めに来たんよ」=Ahaha, I felt like even just waiting for the date to start was part of the fun itself so... I came a bit early.
-「あ、俺と一緒だ。デートって、相手を待つのも楽しいよね。よし、次回は絶対に俺の方が早く来るからね」=Ah, same as me then. Waiting on your date is pretty fun too, isn't it? Alright, next time, I'm definitely going to be the one who shows up first.
-「わぁぁ、そげんこと言われたら、私、もっともっと早く来んといけんくなる！　寝られんくなるけんダメー！」=Waaa, if you say that, I'll have to come much, much earlier myself! I won't be able to catch any sleep, so don't!
-「あはは、ごめんごめん。えーっと、それじゃ今日はどこへ行こうかな」=Ahaha, sorry, sorry. Erhm, well then, where shall we head to?
+「ごめん！　待たせちゃった！？」=“Sorry! Did I keep you waiting!?”
+「あ、ううん、私も今来たとこよ。というか、君、早くない？」=“Ah, no, I just got here myself. Rather, aren't you here way too early?”
+「[H名]こそ。待ち合わせにはまだまだ時間あるよ？」=“I should be saying that. There's still lots of time before we had to meet up, you know?”
+「あはは、待ち合わせもデートの醍醐味かなって思って……ちょっと早めに来たんよ」=“Ahaha, I felt like even just waiting for the date to start was part of the fun itself so... I came a bit early.”
+「あ、俺と一緒だ。デートって、相手を待つのも楽しいよね。よし、次回は絶対に俺の方が早く来るからね」=“Ah, same as me then. Waiting on your date is pretty fun too, isn't it? Alright, next time, I'm definitely going to be the one who shows up first.”
+「わぁぁ、そげんこと言われたら、私、もっともっと早く来んといけんくなる！　寝られんくなるけんダメー！」=“Waaa, if you say that, I'll have to come much, much earlier myself! I won't be able to catch any sleep, so don't!”
+「あはは、ごめんごめん。えーっと、それじゃ今日はどこへ行こうかな」=“Ahaha, sorry, sorry. Erhm, well then, where shall we head to?”

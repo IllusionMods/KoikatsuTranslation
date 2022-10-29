@@ -1,25 +1,25 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「うーん、よく晴れて公園デート日和だね」=Nnn, it's so nice out, perfect for a park date, no?
-「そうですね。天気がいいからか、人も多いです…………あ……」=Indeed. There's lots of people out too, wonder if it's because of the weather... ah...
-「ん？　どうかした？」=Hm? What's up?
-「あの人……さわやかな服装で、とってもおしゃれだと思いまして……」=That person... their outfit is so refreshing, I just couldn't help but...
-「ほんとだ。緑の多い公園にもぴったりだし、よく似合ってるね」=You're right. It's a perfect fit for the green backdrop of this park, they look real good.
-「……何だか、うらやましいです、綺麗に着こなせていて。私なんて、いつもすごく悩んじゃうんです。今日もすっごく考えちゃって……」=...I'm almost jealous, in a way, the way they can dress up so stylishly. I always end up spending hours on mine. Even today, I spent so long thinking about what to wear...
-「はは、そうなんだ。でも、そんなに考えるってことは、オシャレするのが好きなんだね」=Haha, I see. But, if you spent that much time on it, you must like fashion, huh?
-「そう、ですね。迷って考え込んじゃいますけど……やっぱり綺麗に着飾るのは、好きです」=I, do. It's always annoying and takes a lot of time but... I do love dolling myself up.
-「はは、そっか、あ、そうだ。今度一緒に服を買いに行かない？」=Haha, I see, ah, right. How about we go clothes shopping together next time?
-「い、いいんですか？　あなたと一緒にお買い物に行けるなんて、嬉しいです」=A-Are you sure? I'd be more than happy to, to go clothes shopping with you.
-「よかった。それでなんだけど……俺の服選んで欲しいな、なんて」=Great. And so... if you could help me pick out some clothes, haha, not happening, right?
-「わ、私で良ければ力になりますが……あなたはそれでいいんですか？」=I-If you'll let me then I'd love nothing more but... are you sure?
-「うん、頼むよ。やっぱり女の子のセンスに任せた方が、モテ服って言うのかな？　女の子うけしそうだし」=Yeah, please. Leaving them to a girl's sense would come out better, no? Would be more popular with girls than something I pick out myself.
+「うーん、よく晴れて公園デート日和だね」=“Nnn, it's so nice out, perfect for a park date, no?”
+「そうですね。天気がいいからか、人も多いです…………あ……」=“Indeed. There's lots of people out too, wonder if it's because of the weather... ah...”
+「ん？　どうかした？」=“Hm? What's up?”
+「あの人……さわやかな服装で、とってもおしゃれだと思いまして……」=“That person... their outfit is so refreshing, I just couldn't help but...”
+「ほんとだ。緑の多い公園にもぴったりだし、よく似合ってるね」=“You're right. It's a perfect fit for the green backdrop of this park, they look real good.”
+「……何だか、うらやましいです、綺麗に着こなせていて。私なんて、いつもすごく悩んじゃうんです。今日もすっごく考えちゃって……」=“...I'm almost jealous, in a way, the way they can dress up so stylishly. I always end up spending hours on mine. Even today, I spent so long thinking about what to wear...”
+「はは、そうなんだ。でも、そんなに考えるってことは、オシャレするのが好きなんだね」=“Haha, I see. But, if you spent that much time on it, you must like fashion, huh?”
+「そう、ですね。迷って考え込んじゃいますけど……やっぱり綺麗に着飾るのは、好きです」=“I, do. It's always annoying and takes a lot of time but... I do love dolling myself up.”
+「はは、そっか、あ、そうだ。今度一緒に服を買いに行かない？」=“Haha, I see, ah, right. How about we go clothes shopping together next time?”
+「い、いいんですか？　あなたと一緒にお買い物に行けるなんて、嬉しいです」=“A-Are you sure? I'd be more than happy to, to go clothes shopping with you.”
+「よかった。それでなんだけど……俺の服選んで欲しいな、なんて」=“Great. And so... if you could help me pick out some clothes, haha, not happening, right?”
+「わ、私で良ければ力になりますが……あなたはそれでいいんですか？」=“I-If you'll let me then I'd love nothing more but... are you sure?”
+「うん、頼むよ。やっぱり女の子のセンスに任せた方が、モテ服って言うのかな？　女の子うけしそうだし」=“Yeah, please. Leaving them to a girl's sense would come out better, no? Would be more popular with girls than something I pick out myself.”
 「むっ……そういう、ことならお断りします」=*pout*... in, that case, I'd rather not, thank you.
-「えっ、なんで！？」=Eh--, why!?
-「いえ、そういわけでは……」=No, that's not...
-「私が考え込んじゃうのは、何を着たらいいのか分からないからなんです。服の組み合わせとか、色合いとか……難しくて」=The reason I spend so much time picking out clothes, is more because I don't understand fashion to begin with. Which clothes go together, which colors go together... it's all so difficult.
-「服自体も、あまり持ってないですし……流行にもすごく遅れてると思います……」=I don't have all that many clothes to begin with, so... I always start following trends a bit too late too...
-「そうなんだ……ならさ、今度二人で服を見に行かない？」=I see... in that case, how about we go clothes shopping together next time?
-「それは嬉しいですけど……私、選ぶの時間かかっちゃいますよ？」=I'd love that but... I take a lot of time picking out clothes, you know?
-「ふふ、じゃあ、その悩んでる間はずっと[H名]と一緒にいられるってことだね」=Huhu, then, that just means that I'll get to stay with you even longer, doesn't it?
-「そ、そういうことなら……今度一緒にいきましょうか♪」=I-In that case... let's go together next time♪
+「えっ、なんで！？」=“Eh--, why!?”
+「いえ、そういわけでは……」=“No, that's not...”
+「私が考え込んじゃうのは、何を着たらいいのか分からないからなんです。服の組み合わせとか、色合いとか……難しくて」=“The reason I spend so much time picking out clothes, is more because I don't understand fashion to begin with. Which clothes go together, which colors go together... it's all so difficult.”
+「服自体も、あまり持ってないですし……流行にもすごく遅れてると思います……」=“I don't have all that many clothes to begin with, so... I always start following trends a bit too late too...”
+「そうなんだ……ならさ、今度二人で服を見に行かない？」=“I see... in that case, how about we go clothes shopping together next time?”
+「それは嬉しいですけど……私、選ぶの時間かかっちゃいますよ？」=“I'd love that but... I take a lot of time picking out clothes, you know?”
+「ふふ、じゃあ、その悩んでる間はずっと[H名]と一緒にいられるってことだね」=“Huhu, then, that just means that I'll get to stay with you even longer, doesn't it?”
+「そ、そういうことなら……今度一緒にいきましょうか♪」=“I-In that case... let's go together next time♪”

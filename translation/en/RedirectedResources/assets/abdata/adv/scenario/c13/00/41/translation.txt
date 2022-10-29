@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「きゃあっ！　な、なんでこんなところにいるし！　早く出てけー！」=Kyah--! Why are you in a place like this! Get the fuck out!
+「きゃあっ！　な、なんでこんなところにいるし！　早く出てけー！」=“Kyah--! Why are you in a place like this! Get the fuck out!”

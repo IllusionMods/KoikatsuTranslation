@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「痛いのに幸せな気持ちになるなんて、不思議です……」=It's so strange, even though it hurts, I feel happy...
+「痛いのに幸せな気持ちになるなんて、不思議です……」=“It's so strange, even though it hurts, I feel happy...”

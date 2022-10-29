@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「あ、[P]君。おはよぉ♪　一緒に教室行こう」=Ah, [P]-kun. Morning♪ Let's go to class together.
-「うん。[H]、なんだか嬉しそうだね」=Yeah. You sure do look happy today, [H].
-「えへっ、朝早くから[P]君に会えて、とても幸せな気分なんだよ」=Ehe--, I'm in a really happy mood right now, since I got to see you first thing in the morning, [P]-kun.
+「あ、[P]君。おはよぉ♪　一緒に教室行こう」=“Ah, [P]-kun. Morning♪ Let's go to class together.”
+「うん。[H]、なんだか嬉しそうだね」=“Yeah. You sure do look happy today, [H].”
+「えへっ、朝早くから[P]君に会えて、とても幸せな気分なんだよ」=“Ehe--, I'm in a really happy mood right now, since I got to see you first thing in the morning, [P]-kun.”

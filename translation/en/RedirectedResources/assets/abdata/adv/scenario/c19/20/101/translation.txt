@@ -1,26 +1,26 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「ちょっと日差しが強くなってきたから、そこの芝生の木陰で休もうか」=The sun's gotten a bit harsher, so how about we go take a rest under that tree?
-「うん、そうしましょう」=Yeah, let's do that.
-「……あれ、あっちの木陰で親子連れがお弁当広げてるね」=...Huh, there's a family having a picnic under that tree.
-「本当だ……私達もお弁当でも持ってくればよかったわね」=You're right... we should have brought some lunch boxes ourselves.
-「たしか近くにコンビニがあったと思うから、そこで弁当でも買ってこようか」=There's a convenience store nearby from what I remember, we could grab some ready-made lunch sets from there.
-「……ううん、やっぱりいい。コンビニのお弁当は……ちょっと雰囲気に合わないかも。できればランチボックスに入ったサンドイッチとか……」=...No, it's fine. Convenience store lunch sets aren't... I don't think they'd get the mood working. If possible, a lunch box, packed with sandwiches, or...
-「せっかくきれいな公園だし、そんな小説に出てきそうなお昼ご飯が似合いそう」=It's such a beautiful park too, that sort of a novel-like lunch would be just perfect, I think.
+「ちょっと日差しが強くなってきたから、そこの芝生の木陰で休もうか」=“The sun's gotten a bit harsher, so how about we go take a rest under that tree?”
+「うん、そうしましょう」=“Yeah, let's do that.”
+「……あれ、あっちの木陰で親子連れがお弁当広げてるね」=“...Huh, there's a family having a picnic under that tree.”
+「本当だ……私達もお弁当でも持ってくればよかったわね」=“You're right... we should have brought some lunch boxes ourselves.”
+「たしか近くにコンビニがあったと思うから、そこで弁当でも買ってこようか」=“There's a convenience store nearby from what I remember, we could grab some ready-made lunch sets from there.”
+「……ううん、やっぱりいい。コンビニのお弁当は……ちょっと雰囲気に合わないかも。できればランチボックスに入ったサンドイッチとか……」=“...No, it's fine. Convenience store lunch sets aren't... I don't think they'd get the mood working. If possible, a lunch box, packed with sandwiches, or...”
+「せっかくきれいな公園だし、そんな小説に出てきそうなお昼ご飯が似合いそう」=“It's such a beautiful park too, that sort of a novel-like lunch would be just perfect, I think.”
 ぐぅぅ～……。=*growl*~...
-「あう……お腹が……。やだ、恥ずかしい……」=Aauu... my belly... Gosh, this is so embarrassing...
-「あははっ、[H名]のお腹はすぐにでもなにか食べたいみたいだね。我慢は良くないし、公園内でなにか売ってないか探しに行こう」=Ahaha--, looks like your belly really wants something to munch, huh? It's not good to force yourself to hold it in, so let's go look if there isn't a food stand or something in the park.
-「……って、あれ。あそこにサンドイッチを売ってるバンが止まってるね」=...Huh, over there. Seems like there's a food truck serving sandwiches there, huh?
-「へぇ……キューバサンドイッチ……か。[P名]君、これにしない？　あなたさえ良ければだけど」=Hoh... cuban sandwiches... huh? How about we go with those, [P]-kun? Only if you're okay with it.
-「いいね、これにしてみよう。あの、すみません。えーっと……」=Sounds good, let's try them. Uhm, Excuse me. Erhm...
+「あう……お腹が……。やだ、恥ずかしい……」=“Aauu... my belly... Gosh, this is so embarrassing...”
+「あははっ、[H名]のお腹はすぐにでもなにか食べたいみたいだね。我慢は良くないし、公園内でなにか売ってないか探しに行こう」=“Ahaha--, looks like your belly really wants something to munch, huh? It's not good to force yourself to hold it in, so let's go look if there isn't a food stand or something in the park.”
+「……って、あれ。あそこにサンドイッチを売ってるバンが止まってるね」=“...Huh, over there. Seems like there's a food truck serving sandwiches there, huh?”
+「へぇ……キューバサンドイッチ……か。[P名]君、これにしない？　あなたさえ良ければだけど」=“Hoh... cuban sandwiches... huh? How about we go with those, [P]-kun? Only if you're okay with it.”
+「いいね、これにしてみよう。あの、すみません。えーっと……」=“Sounds good, let's try them. Uhm, Excuse me. Erhm...”
 ………………=.........
-「はい、おまたせ。とりあえずノーマルのにしてみたよ」=Here, sorry for the wait. I had them make normal ones for us.
-「わぁ、すごい。チーズとお肉がこんなにいっぱいっ。それにパンもトーストしたてでアツアツね」=Wah, amazing. It's packed with so much cheese and meat--. The bread's all toasted and piping hot too.
-「すごく食べごたえがありそうだね。[H名]、食べ切れそう？」=Bet it's gonna be real filling. Think you can eat it all, [H]?
-「ふふっ、頑張ってみるね。これ、小説では読んだことはあるんだけど、まさかこんなところで食べられるなんて」=Fufu--, I'll try my best. I've read about these in a novel before but, to think I'd get to eat one here.
-「それじゃあ、いただきます。……はむ、んぐ。……ん～、ローストポークがジューシーで美味しいっ」=Well then, I'm digging in. ...*chew*, *swallow*. ...Nn~, the roast pork's so juicy and delicious--
-「うん、チーズもとろっとろで、どっしりしてるけど食べやすくて美味しいね」=Yeah, the cheese is also so melty, it's heavy but easy to eat, simply delicious.
-「あなたと一緒にここに来れてよかった。でなきゃずっと、この味を知らないはずだったから」=I'm glad I came here with you today. Otherwise, I'd have never known this taste, in my whole life.
-「俺もだよ。またこれを食べに来ようよ、[H名]」=Me too, [H名]. Let's come here to eat this again sometime.
-「その時は、うんとお腹を減らしておかないといけないわね。誘ってくれるの、楽しみに待ってるね、ふふっ」=I'll have to get my belly nice and empty at that time then. I'll be waiting for you, to ask me out again, fufu--
+「はい、おまたせ。とりあえずノーマルのにしてみたよ」=“Here, sorry for the wait. I had them make normal ones for us.”
+「わぁ、すごい。チーズとお肉がこんなにいっぱいっ。それにパンもトーストしたてでアツアツね」=“Wah, amazing. It's packed with so much cheese and meat--. The bread's all toasted and piping hot too.”
+「すごく食べごたえがありそうだね。[H名]、食べ切れそう？」=“Bet it's gonna be real filling. Think you can eat it all, [H]?”
+「ふふっ、頑張ってみるね。これ、小説では読んだことはあるんだけど、まさかこんなところで食べられるなんて」=“Fufu--, I'll try my best. I've read about these in a novel before but, to think I'd get to eat one here.”
+「それじゃあ、いただきます。……はむ、んぐ。……ん～、ローストポークがジューシーで美味しいっ」=“Well then, I'm digging in. ...*chew*, *swallow*. ...Nn~, the roast pork's so juicy and delicious--”
+「うん、チーズもとろっとろで、どっしりしてるけど食べやすくて美味しいね」=“Yeah, the cheese is also so melty, it's heavy but easy to eat, simply delicious.”
+「あなたと一緒にここに来れてよかった。でなきゃずっと、この味を知らないはずだったから」=“I'm glad I came here with you today. Otherwise, I'd have never known this taste, in my whole life.”
+「俺もだよ。またこれを食べに来ようよ、[H名]」=“Me too, [H名]. Let's come here to eat this again sometime.”
+「その時は、うんとお腹を減らしておかないといけないわね。誘ってくれるの、楽しみに待ってるね、ふふっ」=“I'll have to get my belly nice and empty at that time then. I'll be waiting for you, to ask me out again, fufu--”

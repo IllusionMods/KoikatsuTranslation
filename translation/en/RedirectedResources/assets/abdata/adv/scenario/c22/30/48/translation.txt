@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「こんなに気持ちいいこと、毎日何回でもしたいよね。え？　ふふーっ、本気だよ♪」=I just can't help but want to do this stuff daily. It just feels so darn good. Eh? Fufu~, I'm fully serious♪
+「こんなに気持ちいいこと、毎日何回でもしたいよね。え？　ふふーっ、本気だよ♪」=“I just can't help but want to do this stuff daily. It just feels so darn good. Eh? Fufu~, I'm fully serious♪”

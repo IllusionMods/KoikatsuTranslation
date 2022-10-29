@@ -1,26 +1,26 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「んーっ、芝生のいい匂い……こういうとこ、めっちゃ落ち着くんっ！」=Nnn--, the refreshing smell of grass... It's so darn calming--!
-「あはは、やっぱりコンクリートよりも芝生がいい？」=Ahaha, turf really is better that concrete, huh?
-「うんっ！　だってコロコロ出来るやん？　特に今日みたいに晴れとる日は最高やもん。せっかくやから一緒にコロコロせん？」=Yeah--! I mean, you can roll around on it, no? Especially when it's such a nice day out. Since we're out here, why don't we take the chance to roll around on the grass?
-「うん、いいよ」=Sure, why not?
-「よ……っと……あー、本当だ。空が青いね」=Aight... --there... Aah, you were right. The sky's completely blue.
-「やろ？　こうやってのんびり過ごしとったら、キツイこととか嫌なこととか全部忘れられそうやん」=Right? Spending time relaxing like this, it makes me feel like I can forget about all the bad things in life.
-「うん、分かる……いいよねぇ……」=Yeah, I feel you... Man, this really is nice though...
-「やろー……」=Right?...
+「んーっ、芝生のいい匂い……こういうとこ、めっちゃ落ち着くんっ！」=“Nnn--, the refreshing smell of grass... It's so darn calming--!”
+「あはは、やっぱりコンクリートよりも芝生がいい？」=“Ahaha, turf really is better that concrete, huh?”
+「うんっ！　だってコロコロ出来るやん？　特に今日みたいに晴れとる日は最高やもん。せっかくやから一緒にコロコロせん？」=“Yeah--! I mean, you can roll around on it, no? Especially when it's such a nice day out. Since we're out here, why don't we take the chance to roll around on the grass?”
+「うん、いいよ」=“Sure, why not?”
+「よ……っと……あー、本当だ。空が青いね」=“Aight... --there... Aah, you were right. The sky's completely blue.”
+「やろ？　こうやってのんびり過ごしとったら、キツイこととか嫌なこととか全部忘れられそうやん」=“Right? Spending time relaxing like this, it makes me feel like I can forget about all the bad things in life.”
+「うん、分かる……いいよねぇ……」=“Yeah, I feel you... Man, this really is nice though...”
+「やろー……」=“Right?...”
 ………………=.........
 「…………」=“......”
-「……って、これダメだよ！　うっかり寝そうになる！」=...--wait, no, this is actually bad! We'll end up falling asleep!
-「ん……すぅ……むにゃ……」=Nn... *snooze*... *munyaa~*...
-「というかもう寝てる！？」=You're already asleep!?
-「ふぇ……？　あっ、わぁぁ、ごめんごめんっ！　君が隣におってくれると思ったらつい安心して……つい……えへへ……」=Fueh...? Ah--, waaah, sorry, sorry--! You were right next to me so I felt so safe and... I just... ehehe...
-「あはは、安心してもらるっていうのは嬉しいかも。俺も[H名]と一緒にいると何だか落ち着くんだよね」=Ahaha, it makes me happy that you feel safe next to me. I feel super calm when I'm next to you too, [H名].
-「本当？　そう感じてもらえたら、私も嬉しいん」=Really? It makes me happy too, that you feel that way.
-「でも……こんな時間から公園でお昼寝とか……学生のデートですることじゃないよね。私、なんかのんびりしとって……ごめんね……」=But... taking a nap at the park just because it's the perfect time for it... It's not something students should be doing out on a date, is it? Sorry... I got a bit too chilled out there...
-「ううん、学生のデートじゃなくて、俺と[H名]のデートなんだから、何してもいいんだよ」=No, it's fine, it's not a date between two students but rather between you and me, so anything is fine.
-「[H名]と一緒ならお昼寝も楽しいし……せっかくだから、もう少し休んでいこっか？」=If it's with you, even just taking a nap is fun enough for me... Since we're out here, shall we relax for a bit longer?
-「いいと？　えへへ……君って……やっぱり優しいっちゃんね。君とデート出来て良かった……私、幸せなん」=You sure? Ehehe... you really are... so sweet. I'm glad I came on a date with you... I'm really happy right now.
-（良かった。どうやら楽しんでくれてるみたいだ。まぁ、たまにはこういうデートも悪くないしな）=(I'm glad. Looks like she's enjoying it, one way or another. Well, this sort of thing isn't bad either, every once in a while.
+「……って、これダメだよ！　うっかり寝そうになる！」=“...--wait, no, this is actually bad! We'll end up falling asleep!”
+「ん……すぅ……むにゃ……」=“Nn... *snooze*... *munyaa~*...”
+「というかもう寝てる！？」=“You're already asleep!?”
+「ふぇ……？　あっ、わぁぁ、ごめんごめんっ！　君が隣におってくれると思ったらつい安心して……つい……えへへ……」=“Fueh...? Ah--, waaah, sorry, sorry--! You were right next to me so I felt so safe and... I just... ehehe...”
+「あはは、安心してもらるっていうのは嬉しいかも。俺も[H名]と一緒にいると何だか落ち着くんだよね」=“Ahaha, it makes me happy that you feel safe next to me. I feel super calm when I'm next to you too, [H名].”
+「本当？　そう感じてもらえたら、私も嬉しいん」=“Really? It makes me happy too, that you feel that way.”
+「でも……こんな時間から公園でお昼寝とか……学生のデートですることじゃないよね。私、なんかのんびりしとって……ごめんね……」=“But... taking a nap at the park just because it's the perfect time for it... It's not something students should be doing out on a date, is it? Sorry... I got a bit too chilled out there...”
+「ううん、学生のデートじゃなくて、俺と[H名]のデートなんだから、何してもいいんだよ」=“No, it's fine, it's not a date between two students but rather between you and me, so anything is fine.”
+「[H名]と一緒ならお昼寝も楽しいし……せっかくだから、もう少し休んでいこっか？」=“If it's with you, even just taking a nap is fun enough for me... Since we're out here, shall we relax for a bit longer?”
+「いいと？　えへへ……君って……やっぱり優しいっちゃんね。君とデート出来て良かった……私、幸せなん」=“You sure? Ehehe... you really are... so sweet. I'm glad I came on a date with you... I'm really happy right now.”
+（良かった。どうやら楽しんでくれてるみたいだ。まぁ、たまにはこういうデートも悪くないしな）=(I'm glad. Looks like she's enjoying it, one way or another. Well, this sort of thing isn't bad either, every once in a while.)
 「すやぁ……んぅ……辛子……明太子……」=*suyaa~*... *nnn*... mustard... on pollack...
-「もう寝てる！？」=You're already asleep!?
+「もう寝てる！？」=“You're already asleep!?”

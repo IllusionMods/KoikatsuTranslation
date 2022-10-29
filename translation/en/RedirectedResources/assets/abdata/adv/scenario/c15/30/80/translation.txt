@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「へへー、アーンしてやろうかー？　ほら、アーン」=Hehe, want me to feed you? C'mon, open wide.
-「え！？　あ、アーン……」=Eh!? A-Aahn...
-「なんてなー。ぱくっ、もぐもぐ……」=Psych. *bite*, *munch munch*...
-「そ、それはズルいよ！　俺が恥ずかしいだけだよ！」=T-That's unfair! You just made me embarrass myself!
+「へへー、アーンしてやろうかー？　ほら、アーン」=“Hehe, want me to feed you? C'mon, open wide.”
+「え！？　あ、アーン……」=“Eh!? A-Aahn...”
+「なんてなー。ぱくっ、もぐもぐ……」=“Psych. *bite*, *munch munch*...”
+「そ、それはズルいよ！　俺が恥ずかしいだけだよ！」=“T-That's unfair! You just made me embarrass myself!”

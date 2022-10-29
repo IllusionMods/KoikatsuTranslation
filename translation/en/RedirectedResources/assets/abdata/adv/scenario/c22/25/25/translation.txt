@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「え？　私に？　なんだろう？」=Eh? For me? What is it?
+「え？　私に？　なんだろう？」=“Eh? For me? What is it?”

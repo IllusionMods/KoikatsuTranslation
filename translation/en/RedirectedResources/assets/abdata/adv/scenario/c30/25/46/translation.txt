@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「えっと……私、どうだったかしら……キミのこと、きちんと……その……満足させてあげられた？」=Uhm... How was I? Was I able to... Properly... Uhm... Satisfy you?
-「うん、もちろんだよ。逆に俺はどうだった？　満足させられたかな？」=Yeah, Of course! Rather, how was I? Was I able to satisfy you?
-「あ……わ、私はっ！　その……だ、大満足……だったわ……はぅ……」=Ah... I- I was! Uhm... that is... r-really satisfied... hau...
+「えっと……私、どうだったかしら……キミのこと、きちんと……その……満足させてあげられた？」=“Uhm... How was I? Was I able to... Properly... Uhm... Satisfy you?”
+「うん、もちろんだよ。逆に俺はどうだった？　満足させられたかな？」=“Yeah, Of course! Rather, how was I? Was I able to satisfy you?”
+「あ……わ、私はっ！　その……だ、大満足……だったわ……はぅ……」=“Ah... I- I was! Uhm... that is... r-really satisfied... hau...”

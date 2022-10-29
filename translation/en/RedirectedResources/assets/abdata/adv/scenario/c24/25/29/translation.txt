@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「……嬉しいです♡　私があなたのことをよく知っているように、あなたも私のことを理解してくれているんですね」=... I'm really happy♡ Just like I know all about you, you know everything there is to know about me too, don't you?
+「……嬉しいです♡　私があなたのことをよく知っているように、あなたも私のことを理解してくれているんですね」=“... I'm really happy♡ Just like I know all about you, you know everything there is to know about me too, don't you?”

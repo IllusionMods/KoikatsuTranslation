@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「その……リードしてくれてありがとな、気持ちよかったぞ」=Uhm... thanks for taking the lead, okay? That felt really good.
+「その……リードしてくれてありがとな、気持ちよかったぞ」=“Uhm... thanks for taking the lead, okay? That felt really good.”

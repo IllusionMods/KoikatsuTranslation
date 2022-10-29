@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「あ、あのさ……その、アタシも混ぜてくれない……？　もう、我慢できなくってさ……」=H-Hey... that's, won't you let me join in...? I can't, endure it anymore, you see...
+「あ、あのさ……その、アタシも混ぜてくれない……？　もう、我慢できなくってさ……」=“H-Hey... that's, won't you let me join in...? I can't, endure it anymore, you see...”

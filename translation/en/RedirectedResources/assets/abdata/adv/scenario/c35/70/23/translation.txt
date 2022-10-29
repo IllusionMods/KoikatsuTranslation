@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「あ、あのねっ……家庭科の授業でお菓子作ったっちゃけど……その……ちょっと味見してみてくれんかな？」=U-Uhm--... I made some sweets during home-ec but... uhm... will you try some?
-「いいの！？　やったね。ちょうど甘い物が食べたかったんだ！」=You sure!? Yay. I was just craving something sweet too!
-「えへへ、ありがとう。えっと、君が喜んでくれるお顔を考えながら作ったけん……き、気持ちだけはしっかりこもっとうよ！　あ、味も……そんなに悪くないと思う……」=Ehehe, thanks. Erhm, I made these while thinking about how happy you'd be when eating them... I-I poured lots of my love into them! T-The taste too... it should be passable atleast...
+「あ、あのねっ……家庭科の授業でお菓子作ったっちゃけど……その……ちょっと味見してみてくれんかな？」=“U-Uhm--... I made some sweets during home-ec but... uhm... will you try some?”
+「いいの！？　やったね。ちょうど甘い物が食べたかったんだ！」=“You sure!? Yay. I was just craving something sweet too!”
+「えへへ、ありがとう。えっと、君が喜んでくれるお顔を考えながら作ったけん……き、気持ちだけはしっかりこもっとうよ！　あ、味も……そんなに悪くないと思う……」=“Ehehe, thanks. Erhm, I made these while thinking about how happy you'd be when eating them... I-I poured lots of my love into them! T-The taste too... it should be passable atleast...”

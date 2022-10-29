@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-（ん？　昨日はあの後すぐ寝ちゃったのか、……っていうか、何だか下半身がムズムズして……）="(...Hmm? Did I go to bed early yesterday? ...And why do my pants feel damp?)
-「って、うおっ！？」="W-what?!"
-「……あっ、起きた」="...Oh, you're awake."
-「[H]！？　あ、朝から何して……！」="[H]?! What are you doing in here?"
-「……？　[P]のむすこが辛そうだったから、慰めてあげようと思って……」="...Hmm? I thought you needed some... 'bedside service...'"
+（ん？　昨日はあの後すぐ寝ちゃったのか、……っていうか、何だか下半身がムズムズして……）=("...Hmm? Did I go to bed early yesterday? ...And why do my pants feel damp?)
+「って、うおっ！？」=“W-what?!”
+「……あっ、起きた」=“...Oh, you're awake.”
+「[H]！？　あ、朝から何して……！」=“[H]?! What are you doing in here?”
+「……？　[P]のむすこが辛そうだったから、慰めてあげようと思って……」=“...Hmm? I thought you needed some... 'bedside service...”

@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「お疲れ様……私たちの相手は、疲れたかしら？」=You must be tired... I wonder if he is though?
+「お疲れ様……私たちの相手は、疲れたかしら？」=“You must be tired... I wonder if he is though?”

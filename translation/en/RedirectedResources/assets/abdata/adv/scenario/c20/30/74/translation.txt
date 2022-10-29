@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「はぁ、はぁ……これで５周目、ですね」=Haah, haah... that makes 5 laps.
-「そうだね……たしか１０週走るんだっけ？　き、きつい」=Yeah... Did we say we were gonna do 10? D-Damn.
-「……やっぱり５周で終わりにしませんか？　思ったより私、体力がなかったです……」=...How about we call it at 5? I have less stamina, than I thought...
-「うん、終わりにしよう。俺も体力が全然ないや……」=Yeah, let's do that. I've got no juice left either...
-「では少し休んだら、別のことしましょう」=Well then, let's rest a bit, and then do something else.
+「はぁ、はぁ……これで５周目、ですね」=“Haah, haah... that makes 5 laps.”
+「そうだね……たしか１０週走るんだっけ？　き、きつい」=“Yeah... Did we say we were gonna do 10? D-Damn.”
+「……やっぱり５周で終わりにしませんか？　思ったより私、体力がなかったです……」=“...How about we call it at 5? I have less stamina, than I thought...”
+「うん、終わりにしよう。俺も体力が全然ないや……」=“Yeah, let's do that. I've got no juice left either...”
+「では少し休んだら、別のことしましょう」=“Well then, let's rest a bit, and then do something else.”

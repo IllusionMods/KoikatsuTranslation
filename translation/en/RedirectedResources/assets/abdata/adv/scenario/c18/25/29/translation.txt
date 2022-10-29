@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「これ、私に？　……ど、どうしましょう……幸せすぎて、後が怖いです……えへへ」=This, for me? ...W-What should I do... I'm so happy, I'm scared for the future... ehehe.
+「これ、私に？　……ど、どうしましょう……幸せすぎて、後が怖いです……えへへ」=“This, for me? ...W-What should I do... I'm so happy, I'm scared for the future... ehehe.”

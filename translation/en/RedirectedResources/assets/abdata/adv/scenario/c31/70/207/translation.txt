@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「今日は楽しかったね。何かやり残した事がなければ、そろそろ帰ろうか」=Today was a blast, wasn't it? Is there's nothing you still want to do, shall we head home?
-「やり残した事か……そう言われると色々と浮かんでくるが、また今度にしよう」=Something I still want to do... Well, that does bring quite a few things to mind but, let's do them next time.
-「そうだね。次の楽しみに取っておこうよ」=Yeah. Let's save them all for next time.
-「あぁ、この帰り際の少し物悲しい感じも含めて、遊園地の醍醐味だからな」=Yeah, this feeling of melancholy as you leave, is also a part of the true charm of an amusement park, afterall.
-「うんうん、その気持ちわかる。あっ、ウサギの着ぐるみが見送りに来てるね。最後に挨拶していく？」=Yeah, I know exactly what you mean. Ah--, the rabbit mascot is coming out to send us off. Wanna say bye to them before we leave?
-「いや、私は遠慮しておく。フッ、おまえだけでも行ってきたらどうだ？」=No, I'll pass. Pfft, how about you go by yourself?
-「えぇー、一人はちょっと……手だけ振っておく事にするよ」=Eeeh, by myself is a bit... I'll just wave to them from here.
+「今日は楽しかったね。何かやり残した事がなければ、そろそろ帰ろうか」=“Today was a blast, wasn't it? Is there's nothing you still want to do, shall we head home?”
+「やり残した事か……そう言われると色々と浮かんでくるが、また今度にしよう」=“Something I still want to do... Well, that does bring quite a few things to mind but, let's do them next time.”
+「そうだね。次の楽しみに取っておこうよ」=“Yeah. Let's save them all for next time.”
+「あぁ、この帰り際の少し物悲しい感じも含めて、遊園地の醍醐味だからな」=“Yeah, this feeling of melancholy as you leave, is also a part of the true charm of an amusement park, afterall.”
+「うんうん、その気持ちわかる。あっ、ウサギの着ぐるみが見送りに来てるね。最後に挨拶していく？」=“Yeah, I know exactly what you mean. Ah--, the rabbit mascot is coming out to send us off. Wanna say bye to them before we leave?”
+「いや、私は遠慮しておく。フッ、おまえだけでも行ってきたらどうだ？」=“No, I'll pass. Pfft, how about you go by yourself?”
+「えぇー、一人はちょっと……手だけ振っておく事にするよ」=“Eeeh, by myself is a bit... I'll just wave to them from here.”

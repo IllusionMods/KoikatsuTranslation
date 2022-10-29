@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「おう、おはよう。昨日はその……よく眠れたか？」=Oh, morning. So uhm, yesterday... did you sleep well?
+「おう、おはよう。昨日はその……よく眠れたか？」=“Oh, morning. So uhm, yesterday... did you sleep well?”

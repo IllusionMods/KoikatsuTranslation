@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「あ～楽しかった。それじゃあここでお別れだね～。また誘ってね。バイバイ～」=Ah~, that was fun. Well then, this is where we go our own ways~. Invite me again sometime. Byebye~
+「あ～楽しかった。それじゃあここでお別れだね～。また誘ってね。バイバイ～」=“Ah~, that was fun. Well then, this is where we go our own ways~. Invite me again sometime. Byebye~”

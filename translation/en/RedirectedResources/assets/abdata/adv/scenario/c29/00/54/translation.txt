@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「今回は誰にも見つからなかったから良いものの……場所は考えるべきだと思います」=It's fine since nobody caught us this time, although... I do think you ought to give some more thought to where we do it.
+「今回は誰にも見つからなかったから良いものの……場所は考えるべきだと思います」=“It's fine since nobody caught us this time, although... I do think you ought to give some more thought to where we do it.”

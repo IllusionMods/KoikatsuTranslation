@@ -1,19 +1,19 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「へへっ、今日はいい散歩日和だよな！」=Hehe--, great weather out for walking today, isn't it!
-「う～ん……俺はちょっと、暑すぎると思うな……」=Mmm~... it's a bit too hot for me, personally...
-「なんだよ。これぐらいでダレるなんて、だらしがねえヤツ」=The hell? Is this all that it takes to sap the life out of you? What a slouch.
-「ほら、見てみろよ。向こうで遊んでるガキどもの方がよっぽど元気そうだぜ」=C'mon, look over there. Those kids playing around over there look more energetic than you do right now.
-「あ、ほんとだ。あの子たち、よくこんな炎天下で走り回れるな～」=Ah, you're right. Those kids sure have can run around~, under this blazing sun.
-「おっ、見ろ。こっち見て手を振ってきやがったぞ！　だったらこっちも……」=Oh--, look. They've started waving at us! I guess I'll...
-「お～い、楽しんでるか～！　なんてな」=Hey~, you guys havin' fun~? Heh.
-「なんだか、子供たちより[H名]の方が楽しんでそうだね……」=I feel like you're having more fun than those kids, [H名]...
-「まあな。威勢のいい奴らを見るのは、嫌いじゃねえし」=Maybe. Watching people being cheerful and full of energy isn't something I hate, not at all.
-「ふふ。[H名]って、いいお母さんになれそうだよね」=Fufu. You'd make for a good mother someday, [H名].
-「お、お母さん！？　ば、バカ言ってんじゃねえぞ！」=A-A mother?! S-Stop with that hogwash!
-「わっ！　ご……ごめんなさいっ！」=Wah--! I... I'm sorry--!
-「あ、謝るくらいなら最初から言うなっつーの！　調子狂うじゃねえか」=I-If you're gonna apologize then don't say it to begin with! You went and made the mood all weird.
-「……ああ、もう！　お前が変なこと言うから、なんか熱くなってきたじゃねえか！」=...Aah, jeez! Now I'm starting to get all hot and stuff, and it's all your fault!
-「ちょっと木陰で体を冷ますぞ！　ほら、お前も来いよ！」=I'mma go rest for a bit under that tree! C'mon, you're coming with!
-「じゃ、じゃあ、お言葉に甘えて……」=I-I'll take you up on that then...
+「へへっ、今日はいい散歩日和だよな！」=“Hehe--, great weather out for walking today, isn't it!”
+「う～ん……俺はちょっと、暑すぎると思うな……」=“Mmm~... it's a bit too hot for me, personally...”
+「なんだよ。これぐらいでダレるなんて、だらしがねえヤツ」=“The hell? Is this all that it takes to sap the life out of you? What a slouch.”
+「ほら、見てみろよ。向こうで遊んでるガキどもの方がよっぽど元気そうだぜ」=“C'mon, look over there. Those kids playing around over there look more energetic than you do right now.”
+「あ、ほんとだ。あの子たち、よくこんな炎天下で走り回れるな～」=“Ah, you're right. Those kids sure have can run around~, under this blazing sun.”
+「おっ、見ろ。こっち見て手を振ってきやがったぞ！　だったらこっちも……」=“Oh--, look. They've started waving at us! I guess I'll...”
+「お～い、楽しんでるか～！　なんてな」=“Hey~, you guys havin' fun~? Heh.”
+「なんだか、子供たちより[H名]の方が楽しんでそうだね……」=“I feel like you're having more fun than those kids, [H名]...”
+「まあな。威勢のいい奴らを見るのは、嫌いじゃねえし」=“Maybe. Watching people being cheerful and full of energy isn't something I hate, not at all.”
+「ふふ。[H名]って、いいお母さんになれそうだよね」=“Fufu. You'd make for a good mother someday, [H名].”
+「お、お母さん！？　ば、バカ言ってんじゃねえぞ！」=“A-A mother?! S-Stop with that hogwash!”
+「わっ！　ご……ごめんなさいっ！」=“Wah--! I... I'm sorry--!”
+「あ、謝るくらいなら最初から言うなっつーの！　調子狂うじゃねえか」=“I-If you're gonna apologize then don't say it to begin with! You went and made the mood all weird.”
+「……ああ、もう！　お前が変なこと言うから、なんか熱くなってきたじゃねえか！」=“...Aah, jeez! Now I'm starting to get all hot and stuff, and it's all your fault!”
+「ちょっと木陰で体を冷ますぞ！　ほら、お前も来いよ！」=“I'mma go rest for a bit under that tree! C'mon, you're coming with!”
+「じゃ、じゃあ、お言葉に甘えて……」=“I-I'll take you up on that then...”

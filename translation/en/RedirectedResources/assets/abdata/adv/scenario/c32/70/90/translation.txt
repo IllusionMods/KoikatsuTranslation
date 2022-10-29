@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「あなたに相談があります。実は……一度あなたを愛称で呼んでみたいのですが」=There's something I'd like to ask your opinion on. Essentially... I want to try calling you by a nickname, just once, if possible.
-「そんなことなら、いつでもどうぞ」=Something like that, you don't need to ask permission for, you know? Go ahead at any time.
-「では、呼ばせて頂きますね。……[Pあだ名]」=Well then, I'll do so.[Pあだ名]
-「何？　[Hあだ名]」=What is it? [Hあだ名]
-「な、何故あなたまで！？」=W-Why you as well!?
-「こういうのはお互い呼び合うのがいいかなと思って」=I thought it'd be good if we both called each other like this.
-「ま、まぁ悪くはないですね……ですが少々心拍数が上がりますので、心の準備ができた時だけにしましょう」=W-Well, it doesn't feel bad... But, it really makes my heart beat quite fast, so let's only do it after preparing ourselves mentally first.
+「あなたに相談があります。実は……一度あなたを愛称で呼んでみたいのですが」=“There's something I'd like to ask your opinion on. Essentially... I want to try calling you by a nickname, just once, if possible.”
+「そんなことなら、いつでもどうぞ」=“Something like that, you don't need to ask permission for, you know? Go ahead at any time.”
+「では、呼ばせて頂きますね。……[Pあだ名]」=“Well then, I'll do so.[Pあだ名]”
+「何？　[Hあだ名]」=“What is it? [Hあだ名]”
+「な、何故あなたまで！？」=“W-Why you as well!?”
+「こういうのはお互い呼び合うのがいいかなと思って」=“I thought it'd be good if we both called each other like this.”
+「ま、まぁ悪くはないですね……ですが少々心拍数が上がりますので、心の準備ができた時だけにしましょう」=“W-Well, it doesn't feel bad... But, it really makes my heart beat quite fast, so let's only do it after preparing ourselves mentally first.”

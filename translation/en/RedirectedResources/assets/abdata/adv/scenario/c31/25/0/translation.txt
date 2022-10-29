@@ -1,11 +1,11 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「えぇっと、どうも。君と話してみたいんだけど、いいかな？」=Erhm, Hello. I wanted to try talking to you for a bit, do you mind?
-「ん？　随分といきなりだな。まぁいい、私もおまえには興味があったからな」=Mm? Quite out of the blue, isn't it? Well, it's fine, I've been curious about you as well, for a bit.
-「俺は[P名前]って言うんだ。興味を持ってもらえて嬉しいよ、ありがとう」=I go by [P名前]. I'm glad you took an interest in me, thank you.
-「フッ、軽薄な言い回しだな。大方、誰にでもそう言っているのだろう」=Hah, ain't that a shallow response. I bet just about anybody you'd ask would say that.
-「いや……まぁ、うん。初対面だと、やっぱり緊張しちゃうしね」=No... well, yeah. It's just, it is our first meeting, so I was a bit nervous, that's all.
-「ほぅ、緊張するという事は、存外真面目か……軽薄と言った事は一旦保留しよう」=Hoh, getting nervous, huh? You're an unexpectedly serious guy... I take back what I said about it being shallow, for the time being.
-「ま、肩の力を抜け。それと呼び方は名前でいいぞ。その方が緊張しないだろう？」=Well, loosen up. Also, you can just call me by my name. Should make you feel less nervous that way, right?
-「ありがとう。えっと、それじゃあ……」=Thanks. Erhm, then...
+「えぇっと、どうも。君と話してみたいんだけど、いいかな？」=“Erhm, Hello. I wanted to try talking to you for a bit, do you mind?”
+「ん？　随分といきなりだな。まぁいい、私もおまえには興味があったからな」=“Mm? Quite out of the blue, isn't it? Well, it's fine, I've been curious about you as well, for a bit.”
+「俺は[P名前]って言うんだ。興味を持ってもらえて嬉しいよ、ありがとう」=“I go by [P名前]. I'm glad you took an interest in me, thank you.”
+「フッ、軽薄な言い回しだな。大方、誰にでもそう言っているのだろう」=“Hah, ain't that a shallow response. I bet just about anybody you'd ask would say that.”
+「いや……まぁ、うん。初対面だと、やっぱり緊張しちゃうしね」=“No... well, yeah. It's just, it is our first meeting, so I was a bit nervous, that's all.”
+「ほぅ、緊張するという事は、存外真面目か……軽薄と言った事は一旦保留しよう」=“Hoh, getting nervous, huh? You're an unexpectedly serious guy... I take back what I said about it being shallow, for the time being.”
+「ま、肩の力を抜け。それと呼び方は名前でいいぞ。その方が緊張しないだろう？」=“Well, loosen up. Also, you can just call me by my name. Should make you feel less nervous that way, right?”
+「ありがとう。えっと、それじゃあ……」=“Thanks. Erhm, then...”

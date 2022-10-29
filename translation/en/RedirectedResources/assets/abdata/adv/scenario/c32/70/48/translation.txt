@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「またあなたを求めてしまいそうです……その時はお相手して下さいね」=I feel like I'll want you again, some time soon... At that time, please keep me company, alright?
+「またあなたを求めてしまいそうです……その時はお相手して下さいね」=“I feel like I'll want you again, some time soon... At that time, please keep me company, alright?”

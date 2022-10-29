@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「はうぅ、顔が火照っちゃって収まらないよ……」=Hauuu, my face won't stop burning up...
-「本当だ、顔が真っ赤だね」=It's true, your face's completely flushed.
-「私……うつむいて歩くから……。手を引いてもらってもいい……？」=I'll... walk with my face down so... Could you hold my hand and lead the way...?
+「はうぅ、顔が火照っちゃって収まらないよ……」=“Hauuu, my face won't stop burning up...”
+「本当だ、顔が真っ赤だね」=“It's true, your face's completely flushed.”
+「私……うつむいて歩くから……。手を引いてもらってもいい……？」=“I'll... walk with my face down so... Could you hold my hand and lead the way...?”

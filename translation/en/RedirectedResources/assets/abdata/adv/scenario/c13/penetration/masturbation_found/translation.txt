@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「はぁ……ふふっ、そんなモジモジして、どうしちゃったのかなー……？」=Haa... fufu--, what's got you fidgeting so much...?
+「はぁ……ふふっ、そんなモジモジして、どうしちゃったのかなー……？」=“Haa... fufu--, what's got you fidgeting so much...?”

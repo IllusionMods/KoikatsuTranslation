@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「あ、あの、すごく良かったです。あなたも、気持ちよかったですか？」=U-Uhm, that was amazing. Did it, feel good for you too?
+「あ、あの、すごく良かったです。あなたも、気持ちよかったですか？」=“U-Uhm, that was amazing. Did it, feel good for you too?”

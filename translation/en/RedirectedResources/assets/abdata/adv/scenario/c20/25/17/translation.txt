@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「んーっ、よく寝た。……あれ？　メモがある。なになに――」=Nnn, I slept well. ...Huh? There's a note. Let's see--
+「んーっ、よく寝た。……あれ？　メモがある。なになに――」=“Nnn, I slept well. ...Huh? There's a note. Let's see--”
 『おはようございます。すみませんが、日直なので先に行きますね』=「Good morning. I'm sorry, I'm on day duty today so I'm going to head out first, okay? 」
 『朝ごはん、作っておいたので必ず食べてください』=「I made you breakfast, so please eat it before leaving.」
 『少しでも早くあなたに会いたいので、寝坊なんてしないでくださいね』=「I want to see you as soon as I can, so please don't sleep in, okay?」

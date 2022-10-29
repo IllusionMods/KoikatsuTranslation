@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「な、ナンダカ……アナタの顔、見れないネ……ｏｈ、トテモ、恥ずかしいヨ♡」=S-Somehow... I can't look at your face... Oh, it's really embarrassing, that's all♡
+「な、ナンダカ……アナタの顔、見れないネ……ｏｈ、トテモ、恥ずかしいヨ♡」=“S-Somehow... I can't look at your face... Oh, it's really embarrassing, that's all♡”

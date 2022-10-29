@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「[P]くん、ここの問題……」=[P]-kun, this problem...
-「へ？　あっ、間違ってる！　ごめん、せっかく教えてもらった所なのに」=Heh? Ah--, I messed up! Sorry, you went out of your way to teach me too.
-「ふふっ、これは復習をお望みってことかしら？　いくらでも付き合ってあげるわ」=Fufu--, would you like to go over that section again then? I don't mind going over it as many times as it takes.
-「ははは……お手柔らかにお願いします」=Hahaha... please go easy on me.
+「[P]くん、ここの問題……」=“[P]-kun, this problem...”
+「へ？　あっ、間違ってる！　ごめん、せっかく教えてもらった所なのに」=“Heh? Ah--, I messed up! Sorry, you went out of your way to teach me too.”
+「ふふっ、これは復習をお望みってことかしら？　いくらでも付き合ってあげるわ」=“Fufu--, would you like to go over that section again then? I don't mind going over it as many times as it takes.”
+「ははは……お手柔らかにお願いします」=“Hahaha... please go easy on me.”

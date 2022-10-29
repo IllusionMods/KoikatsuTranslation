@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「少し、ここでゆっくりしていきませんか？」=Won't you, take it easy with me here for a bit?
-「どうしたの？　何か話でもあるのかな」=What's up? Is there something you want to talk about?
-「いえ。ただ、お別れするのが寂しくて……。ダメ、でしょうか？」=Not at all. It's just, it feels so lonely when we have to say goodbye... Is it, no good?
-「まさか。俺もだよ」=As if. I feel the same way.
+「少し、ここでゆっくりしていきませんか？」=“Won't you, take it easy with me here for a bit?”
+「どうしたの？　何か話でもあるのかな」=“What's up? Is there something you want to talk about?”
+「いえ。ただ、お別れするのが寂しくて……。ダメ、でしょうか？」=“Not at all. It's just, it feels so lonely when we have to say goodbye... Is it, no good?”
+「まさか。俺もだよ」=“As if. I feel the same way.”

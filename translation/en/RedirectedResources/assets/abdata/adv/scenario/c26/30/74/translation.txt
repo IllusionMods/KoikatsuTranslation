@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「……遅い」="...Pick up the pace."
-「はぁ……はぁ……！　そ、そっちが速過ぎるだけだと思うんだけど……！」=Huff, puff... "You're going too fast...!"
-「……私は普通に、走ってるだけ……遅いのはそっち」="...I'm running at my normal speed... You're just too slow."
-「そ、そうかな……」="My legs beg to differ..."
-「……ほら、続き……行くよ」="...Hmph, okay. I'll keep going..."
+「……遅い」=“...Pick up the pace.”
+「はぁ……はぁ……！　そ、そっちが速過ぎるだけだと思うんだけど……！」=“Huff, puff... "You're going too fast...!”
+「……私は普通に、走ってるだけ……遅いのはそっち」=“...I'm running at my normal speed... You're just too slow.”
+「そ、そうかな……」=“My legs beg to differ...”
+「……ほら、続き……行くよ」=“...Hmph, okay. I'll keep going...”

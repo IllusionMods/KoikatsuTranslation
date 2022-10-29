@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「おっ、私がこれを欲しがっていると、誰かから聞いたのか？　抜け目のない奴だ」=Oh--, did you hear from somebody that I had my eyes on this? What a thoughtful chap.
+「おっ、私がこれを欲しがっていると、誰かから聞いたのか？　抜け目のない奴だ」=“Oh--, did you hear from somebody that I had my eyes on this? What a thoughtful chap.”

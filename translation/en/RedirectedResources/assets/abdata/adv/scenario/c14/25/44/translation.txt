@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「へえ、色々あるんだね」=Hoh, there's all sorts, huh?
-「ホントだな。お！　あそことか行ってみねえか？」=There sure are. Oh! Wanna try hitting that place up?
-「うん、いいよ」=Yeah, sure.
-「今日は連れてきてくれてありがとな」=Thanks for taking me out today.
+「へえ、色々あるんだね」=“Hoh, there's all sorts, huh?”
+「ホントだな。お！　あそことか行ってみねえか？」=“There sure are. Oh! Wanna try hitting that place up?”
+「うん、いいよ」=“Yeah, sure.”
+「今日は連れてきてくれてありがとな」=“Thanks for taking me out today.”
 （よかった、喜んでもらえたみたいだ）=(Great, looks like she enjoyed it.)

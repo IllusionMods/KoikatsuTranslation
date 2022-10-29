@@ -1,13 +1,13 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「なんだか、今日は童心に帰れた気がしました……えへへ……」=I felt like, I went back to being a child today... ehehe...
-「俺もだよ。はしゃいでたから時間が過ぎるのが早くて……もう夕方なんだな……」=Me too. Time flew by so fast since we were enjoying ourselves... it's already evening, isn't it...
+「なんだか、今日は童心に帰れた気がしました……えへへ……」=“I felt like, I went back to being a child today... ehehe...”
+「俺もだよ。はしゃいでたから時間が過ぎるのが早くて……もう夕方なんだな……」=“Me too. Time flew by so fast since we were enjoying ourselves... it's already evening, isn't it...”
 CHOICE:『観覧車に誘う』=Invite to Ferris Wheel
 CHOICE:『暗くなる前に帰ろうか』=Let's go home before it gets dark
-「あのさ、最後に観覧車に乗っていかない？」=Listen, how about we ride the ferris wheel to close the day off?
-「わぁ、いいですね観覧車！　まさにデートって感じです」=Wah, sounds fun! Truly a perfect date spot.
-「暗くならないうちに帰ろうか」=Let's go home before it gets dark.
-「そう、ですね……あ、あの今日は、二人で遊園地に来れてよかったです」=Right... u-uhm I'm really, glad we came here today.
-「はぁ……いっぱい遊んだのに、帰るとなると少し、名残惜しいです」=Haah... even though we had so much fun, it feels a bit sad, now that we have to go back home.
-「そうだね。でも、また一緒に来れるから大丈夫だよ」=Sure does. But, it's fine, we can come here again together whenever we feel like it.
+「あのさ、最後に観覧車に乗っていかない？」=“Listen, how about we ride the ferris wheel to close the day off?”
+「わぁ、いいですね観覧車！　まさにデートって感じです」=“Wah, sounds fun! Truly a perfect date spot.”
+「暗くならないうちに帰ろうか」=“Let's go home before it gets dark.”
+「そう、ですね……あ、あの今日は、二人で遊園地に来れてよかったです」=“Right... u-uhm I'm really, glad we came here today.”
+「はぁ……いっぱい遊んだのに、帰るとなると少し、名残惜しいです」=“Haah... even though we had so much fun, it feels a bit sad, now that we have to go back home.”
+「そうだね。でも、また一緒に来れるから大丈夫だよ」=“Sure does. But, it's fine, we can come here again together whenever we feel like it.”

@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「やはり男手があると違いますね、また欲しい所です」=A man's help really does make a world of difference, doesn't it? So much so, I might ask for it again next time.
+「やはり男手があると違いますね、また欲しい所です」=“A man's help really does make a world of difference, doesn't it? So much so, I might ask for it again next time.”

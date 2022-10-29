@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「こんにちは。今、いいかな？」=Hello. Do you have a moment?
-「あ、てめぇ誰だよ」=Ah, who the hell are you?
-「最近転校してきた[P名前]っていうんだ」=I'm [P名], I transferred in recently.
-「あー。なんか噂になってたな、男が来たとかで……」=Aah. There was that rumour, that a boy recently came here...
-「そ、そう！　その噂の男……よかったら話しようよ」=E-Exactly! I'm that rumoured boy... If you've got a moment, let's chat.
-「ん～、まぁ、いいぜ。暇つぶしに付き合ってやるよ」=Nn~, well, sure. I don't really mind killing some time.
+「こんにちは。今、いいかな？」=“Hello. Do you have a moment?”
+「あ、てめぇ誰だよ」=“Ah, who the hell are you?”
+「最近転校してきた[P名前]っていうんだ」=“I'm [P名], I transferred in recently.”
+「あー。なんか噂になってたな、男が来たとかで……」=“Aah. There was that rumour, that a boy recently came here...”
+「そ、そう！　その噂の男……よかったら話しようよ」=“E-Exactly! I'm that rumoured boy... If you've got a moment, let's chat.”
+「ん～、まぁ、いいぜ。暇つぶしに付き合ってやるよ」=“Nn~, well, sure. I don't really mind killing some time.”

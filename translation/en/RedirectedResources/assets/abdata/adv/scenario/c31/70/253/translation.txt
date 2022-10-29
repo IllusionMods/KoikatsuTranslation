@@ -1,17 +1,17 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「大分混雑してきたな、もう少しこっちに寄っていいぞ」=It's gotten quite packed, you can come closer to me, you know?
-「ありがと、じゃあちゃっとだけ……って、おわっ！？」=Thanks, then just a little bit...--uh, owah--!?
+「大分混雑してきたな、もう少しこっちに寄っていいぞ」=“It's gotten quite packed, you can come closer to me, you know?”
+「ありがと、じゃあちゃっとだけ……って、おわっ！？」=“Thanks, then just a little bit...--uh, owah--!?”
 （うわ、色々当たっちゃってる……やばっ）=(Uwah, I'm making contact with her, in more ways than one... No good--)
 CHOICE:『少し感触を味わってから離れる』=『Get off of her after enjoying the sensation for a bit』
 CHOICE:『すぐさま離れる』=『Get off of her right away』
 （でも、すごく気持ちいい……しばらく、このままでも…………はっ！　ナニを考えてるんだ、俺は！）=(But, it feels really good... For the time being, I'll stay like... Ha--! Just what am I thinking!)
-「ご、ごめん。押されちゃって、今離れるから……」=S-Sorry. I got pushed from behind. I'll try to get off you, one sec...
-「待て、離れるな。密着していた方が好都合だ」=Wait, don't. It'd be more convenient if you stayed stuck to me.
-「好都合って、どういう事？　……くぁっ、[H名]！？　ちょ、そこはっ……」=What do you mean, "convenient"?Kuah--, [H名]!? Wai--, that's--...
-「んふっ、こんなになったモノを大きくして、誘っているのだろう？　仕方のない奴だ」=nnfu--, making it so big like this, you're trying to tempt me, aren't you? There's no helping you.
-「ち、違うよ……誘ってなんてそんな……あぁっ、[H名]、本当にマズイって……」=T-That's not it... I wasn't trying to tempt you or any... Aah--, [H名], I'm telling you, this really isn't good...
-「ご、ごめん、押されちゃって！　すぐ離れるよ！」=S-Sorry, I got pushed from behind. I'll get off you!
+「ご、ごめん。押されちゃって、今離れるから……」=“S-Sorry. I got pushed from behind. I'll try to get off you, one sec...”
+「待て、離れるな。密着していた方が好都合だ」=“Wait, don't. It'd be more convenient if you stayed stuck to me.”
+「好都合って、どういう事？　……くぁっ、[H名]！？　ちょ、そこはっ……」=“What do you mean, "convenient"?Kuah--, [H名]!? Wai--, that's--...”
+「んふっ、こんなになったモノを大きくして、誘っているのだろう？　仕方のない奴だ」=“nnfu--, making it so big like this, you're trying to tempt me, aren't you? There's no helping you.”
+「ち、違うよ……誘ってなんてそんな……あぁっ、[H名]、本当にマズイって……」=“T-That's not it... I wasn't trying to tempt you or any... Aah--, [H名], I'm telling you, this really isn't good...”
+「ご、ごめん、押されちゃって！　すぐ離れるよ！」=“S-Sorry, I got pushed from behind. I'll get off you!”
 （ふぅ……ちょうど、少し避けれるスペースができてよかった……）=(Fuu... thank god, there was just enough space to get off of her...)
 （あのまま密着してたら、間違いなく勃起してたな……危ないところだった……）=(If I stayed stuck to her like that, no doubt about it, I'd have gone rock hard... That almost turned really dangerous...)

@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「は～疲れてきたかな～」=Haah~ I'm starting to get tired~
-「これから始めるところなんだけど」=We haven't even started yet though.
-「休憩しよっか～お茶持ってきてるよ～」=Let's take a break~ I'm carrying some tea on me~
-「準備運動しようか、軽く走って来よう」=Let's do warm up exercises, some light running.
-「え～もう、連れないな～。しょーがないな～行きますか～」=Eeh~, jeez, learn to play along~. Can't be helped~ Let's go I guess~
+「は～疲れてきたかな～」=“Haah~ I'm starting to get tired~”
+「これから始めるところなんだけど」=“We haven't even started yet though.”
+「休憩しよっか～お茶持ってきてるよ～」=“Let's take a break~ I'm carrying some tea on me~”
+「準備運動しようか、軽く走って来よう」=“Let's do warm up exercises, some light running.”
+「え～もう、連れないな～。しょーがないな～行きますか～」=“Eeh~, jeez, learn to play along~. Can't be helped~ Let's go I guess~”

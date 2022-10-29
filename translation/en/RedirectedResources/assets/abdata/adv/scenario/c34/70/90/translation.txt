@@ -1,15 +1,15 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「Ｈｉｙａ、[Pあだ名]♪」=Hiya, [Pあだ名]♪
-「あれっ！？　いつもの呼び方と違うね？」=Huh--!? That's not what you usually call me.
-「言葉の壁、難しケド、逆に楽しむコトにシタノ♡　Ｎｉｃｋｎａｍｅはｎｉｃｅｉｄｅａデショ？」=Language barriers are hard but, I decided to have fun with them♡ Calling each other by nicknames is a nice idea, no?
-「嬉しいこと考えてくれるなぁ……あっ、それなら俺も[H]のこと愛称で呼んでみていい？」=You sure thought up something nice... Ah--, In that case, do you mind if I call you by a nickname too?
-「ソレ、モットｎｉｃｅｉｄｅａダネ♡　どんなｎｉｃｋｎａｍｅで呼んでくれるのカナ？」=That's even more of a nice idea♡ I wonder what nickname you're gonna pick for me?♡
-「…………[Hあだ名]！　なんてどう？」=.........[Hあだ名]! How about that?
-「Ｗｏｗ♡　向こうでは呼ばれないｎｉｃｋｎａｍｅダヨ♡　ニッポンに帰ってキタ感じで好きネ♡」=Wow♡ That's not a nickname anyone would use across the pond♡ I like it, it really gives me the feeling of being back in Japan♡
-「本当？　それじゃあ、たくさん呼んじゃおう。[Hあだ名]、[Hあだ名]！」=Really? Well then, I'll use it lots. [Hあだ名], [Hあだ名]!
-「モー♡　そんなに呼んだら照れるカラ♡」=Jeez♡ If you say it that much, I'll blush♡
-「はは、そうだね。ずっと呼び合ってたらおかしくなりそうだ」=Haha, you're right. Feels like it'll feel weird if we always use them.
-「デショ？　ダカラ……特別な時、フタリキリで、コッソリ呼ぶネ♡　あ～、アツイヨ～♡」=Exactly. That's why... During our special times, only when it's the two of us, let's use them secretely♡ Ah~, so passionate~♡
-「そうだね、そうしよう」=Seems good, let's do that.
+「Ｈｉｙａ、[Pあだ名]♪」=“Hiya, [Pあだ名]♪”
+「あれっ！？　いつもの呼び方と違うね？」=“Huh--!? That's not what you usually call me.”
+「言葉の壁、難しケド、逆に楽しむコトにシタノ♡　Ｎｉｃｋｎａｍｅはｎｉｃｅｉｄｅａデショ？」=“Language barriers are hard but, I decided to have fun with them♡ Calling each other by nicknames is a nice idea, no?”
+「嬉しいこと考えてくれるなぁ……あっ、それなら俺も[H]のこと愛称で呼んでみていい？」=“You sure thought up something nice... Ah--, In that case, do you mind if I call you by a nickname too?”
+「ソレ、モットｎｉｃｅｉｄｅａダネ♡　どんなｎｉｃｋｎａｍｅで呼んでくれるのカナ？」=“That's even more of a nice idea♡ I wonder what nickname you're gonna pick for me?♡”
+「…………[Hあだ名]！　なんてどう？」=“.........[Hあだ名]! How about that?”
+「Ｗｏｗ♡　向こうでは呼ばれないｎｉｃｋｎａｍｅダヨ♡　ニッポンに帰ってキタ感じで好きネ♡」=“Wow♡ That's not a nickname anyone would use across the pond♡ I like it, it really gives me the feeling of being back in Japan♡”
+「本当？　それじゃあ、たくさん呼んじゃおう。[Hあだ名]、[Hあだ名]！」=“Really? Well then, I'll use it lots. [Hあだ名], [Hあだ名]!”
+「モー♡　そんなに呼んだら照れるカラ♡」=“Jeez♡ If you say it that much, I'll blush♡”
+「はは、そうだね。ずっと呼び合ってたらおかしくなりそうだ」=“Haha, you're right. Feels like it'll feel weird if we always use them.”
+「デショ？　ダカラ……特別な時、フタリキリで、コッソリ呼ぶネ♡　あ～、アツイヨ～♡」=“Exactly. That's why... During our special times, only when it's the two of us, let's use them secretely♡ Ah~, so passionate~♡”
+「そうだね、そうしよう」=“Seems good, let's do that.”

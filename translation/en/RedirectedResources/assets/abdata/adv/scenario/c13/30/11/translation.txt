@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「ねぇ。[P]くんってさ、本当にアタシのこと好きなの？」=Hey, [P]-kun. Do you really love me?
-「え……どうしてそんなことを……？」=Eh... why would you...?
-「なんか最近[P]くんといてもあんまり楽しくないんだよね」=Being with you isn't all that fun these days, to be honest.
-「そ、そんな……」=T-That's...
-「アタシ勝手ばっかり言ってごめんね。でも、もう[P]くんとは一緒にいられない」=Sorry for always being so selfish. But, I can't be with you anymore, [P]-kun.
+「ねぇ。[P]くんってさ、本当にアタシのこと好きなの？」=“Hey, [P]-kun. Do you really love me?”
+「え……どうしてそんなことを……？」=“Eh... why would you...?”
+「なんか最近[P]くんといてもあんまり楽しくないんだよね」=“Being with you isn't all that fun these days, to be honest.”
+「そ、そんな……」=“T-That's...”
+「アタシ勝手ばっかり言ってごめんね。でも、もう[P]くんとは一緒にいられない」=“Sorry for always being so selfish. But, I can't be with you anymore, [P]-kun.”
