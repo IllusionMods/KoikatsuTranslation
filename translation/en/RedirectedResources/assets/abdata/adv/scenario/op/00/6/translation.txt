@@ -6,7 +6,7 @@
 「はい」=“Alright.”
 先生の指示に従って、教卓の前へ移動する。=Following Sensei's orders, I moved in front of the board.
 すると教室にいる殆どの女の子が、興味津々とばかりに俺へ視線を送ってきた。=As I did, all eyes in the class followed me curiously.
-（うっ、プレッシャーを感じる……）=(*gulp*... What pressure.)
+（うっ、プレッシャーを感じる……）=(*gulp*... what pressure.)
 俺が女の子に圧倒されていることに気づくことなく、先生はのほほんと話を続ける。=Not realizing that I was being overwhelmed by the girls in class, Sensei continued on nonchalantly.
 「えーと、今日はみなさんのクラスに仲間が一人増えることになりました」=“Eh, it's been decided that a new friend will be joining us today.”
 「友達が増えることはとってもいい事です。つまり、今日はとってもいい日ですね」=“Making new friends is a wonderful thing indeed. In other words, today's a very joyous day.”
@@ -22,7 +22,7 @@
 「はい、自己紹介ありがとうございましたー」=“OK, thank you for the introduction~.”
 「みなさん、仲良くしてあげてくださいね？　拍手ー」=“Be sure to get along with him, OK everyone? Applause~”
 パチパチパチと女生徒たちみんなが手を叩いてくれた。とりあえず歓迎されているみたいだ。=The girls in class all clapped their hands. Seems like I'm welcomed at the least.
-「はーい、ありがとうございます。……あっ、そういえば彼には大事なお仕事がありましてー」=“O~K, thank you everyone.... Ah, I almost forgot that he has something important to tell you all.”
+「はーい、ありがとうございます。……あっ、そういえば彼には大事なお仕事がありましてー」=“O~K, thank you everyone... Ah, I almost forgot that he has something important to tell you all.”
 「みなさん知っての通り、彼は学園唯一の男の子なのですがー、やはり気になりますよね？　異性として」=“As you all know, he's the only boy in this school, but it's only inevitable that you'd be interested in him right? As a member of the opposite sex.”
 先生から突然のぶっちゃけトークに、女の子達はにわかに騒がしくなった。=The whole class lit up when Sensei brought out such a delicate topic so suddenly.
 （……部活のことを話すつもりなのだろうか？）=(...Is she planning to talk about the club?)
@@ -43,7 +43,7 @@
 頭を下げてそう締めくくると、女生徒たちがもう一度拍手をしてくれた。=As I lowered my head, the girls gave another round of applause.
 （……ふぅ、上手くいったようだ。最後まで丁寧な口調を崩さずにできた）=(...Phew, looks like that went without a hitch. I was able to be polite right till the end.)
 （これで印象は問題ないはず！）=(That should leave an impression!)
-「うふふ…さっきから気になってたけど、[P姓]くんったら、クラスメイトの前でもキャラなんか作っちゃってー」=“Ufufu...I've been thinking this for awhile, but it's cute that you're putting on such an act in front of class, [P姓]-kun.”
+「うふふ…さっきから気になってたけど、[P姓]くんったら、クラスメイトの前でもキャラなんか作っちゃってー」=“Ufufu... I've been thinking this for a while, but it's cute that you're putting on such an act in front of class, [P姓]-kun.”
 「最後は自分の事『僕』って言ってるし、普通に喋っていいのよー。もちろん、先生に対してもです」=“You don't have to really, just speak like you normally would. And of course, to me too.”
 「なっ？！　ち、ちょっと先生なに言ってるんすか？　別にキャラなんか作ってないですって！」=“Wha-?!W-what you talking about Sensei? I'm not acting or anything!”
 突然の暴露に慌てて素が出てしまう。=I panicked and went back to my usual self before her abrupt revelation.

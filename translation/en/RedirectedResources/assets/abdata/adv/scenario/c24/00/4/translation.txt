@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「はい、喜んで♡　たしか、今は物理で分からないところがあるんですよね？」=Yes, gladly♡ If I recall correctly, there's a physics problem that's puzzling you at the moment, isn't there?
-「えっ、そんなことまで……」=Eh--, how'd you know that?...
-「あなたのことは何でも知ってますから♡　頑張って勉強してきたので、教えてあげますね♡」=I know everything there is to know about you♡ I did my best and studied it as thoroughly as I could, so I'll teach you♡
+「はい、喜んで♡　たしか、今は物理で分からないところがあるんですよね？」=“Yes, gladly♡ If I recall correctly, there's a physics problem that's puzzling you at the moment, isn't there?”
+「えっ、そんなことまで……」=“Eh--, how'd you know that?...”
+「あなたのことは何でも知ってますから♡　頑張って勉強してきたので、教えてあげますね♡」=“I know everything there is to know about you♡ I did my best and studied it as thoroughly as I could, so I'll teach you♡”
