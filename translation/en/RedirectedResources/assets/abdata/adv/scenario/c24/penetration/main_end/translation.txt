@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「あなたがとっても嬉しそうで、よかったです……♡　あ、私も３人で出来て、気持ちよかったですよ……？」=I'm glad, you seem to have enjoyed it...♡ Ah, I enjoyed it too, you know...?
+「あなたがとっても嬉しそうで、よかったです……♡　あ、私も３人で出来て、気持ちよかったですよ……？」=“I'm glad, you seem to have enjoyed it...♡ Ah, I enjoyed it too, doing it with the three of us, you know...?”
