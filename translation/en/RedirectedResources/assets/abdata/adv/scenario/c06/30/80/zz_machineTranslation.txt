@@ -2,4 +2,4 @@
 「たしかに精力がつきそうなものばかりですね」=“I can understand what [H名] is saying.”
 「いや、単純にメニューの中で濃い味付けなのと、量が多いからなんだけど……」=“No, it's simply because it's a strong flavor on the menu and the amount of ...”
 「そ、そうでしたか。それは、その、失礼いたしました」=“Oh, is that so? I'm sorry about that.”
-（「殿方＝エロい」という先入観はどうにかしないとなぁ。いや、間違ってはないんだけどね）=(I have to do something about the prejudice that "gentlemen 
+（「殿方＝エロい」という先入観はどうにかしないとなぁ。いや、間違ってはないんだけどね）=(I have to do something about the prejudice that gentlemen)

@@ -18,4 +18,4 @@
 「え？　まだ撮るの？」=“What?　You're still filming?”
 「当然ですわ！　このわたくしの美貌を、たった一枚の写真で伝えられるものではありませんわ！」=“Of course!　I can't convey my beauty in a single photograph!”
 「さあ、マスコットさん！　次はもっと違う構図を考えますわよ？　よろしくて？」=“Come on, mascot!　I'll think of something different next time, won't I?　How do you like that?”
-（変なのに捕まったなーって思ってるんだろうなぁ……マスコットの人……）=(I'm sure he's thinking, "I got caught up with some weird ... mascot guy ...)
+（変なのに捕まったなーって思ってるんだろうなぁ……マスコットの人……）=(I'm sure he's thinking, I got caught up with some weird ... mascot guy ...)

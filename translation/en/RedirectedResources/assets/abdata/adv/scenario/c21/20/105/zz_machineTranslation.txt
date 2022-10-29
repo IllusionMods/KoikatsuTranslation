@@ -33,7 +33,7 @@
 「ま、待って！　これね、男の子に言うと嫌われるって女の子の間では有名なの……！」=“Oh, wait!　You know, it's famous amongst the girls that if you tell a boy about this, he won't like it...”
 「そ、そうなの？」=“I-Is that so?”
 「そうなの！　だから、本当は言いたくなかったんだけど……感情のままに言うとそうなっちゃうというか……言っていい？」=“I know!　So, I didn't really want to say it, but ... I guess that's what happens when you say what you feel... Can I say it?”
-（たしかに、いきなり子供って言われても想像が……いや、それよりも、ちょっと生理的な恐怖を感じるような……そっか、男には絶対にない感情、だから？）=(It's true, even if you suddenly say "child", I can't imagine it... No, more than that, I feel a little physiological fear... I see.)
+（たしかに、いきなり子供って言われても想像が……いや、それよりも、ちょっと生理的な恐怖を感じるような……そっか、男には絶対にない感情、だから？）=(It's true, even if you suddenly say child, I can't imagine it... No, more than that, I feel a little physiological fear... I see.)
 「い、いいよ。俺も普段から感情のままに[H名]にもの言ってるし、ここで駄目って言ったら自分勝手な男になっちゃうから、いいよ」=“I'm not sure if it's okay. I usually tell [H名] how I feel, and if I said no, I'd be a selfish guy, so...”
 「あ、ありがと。じゃあ、正直に言うけど、気持ち悪かったらすぐ止めてね…………たぶん私、今、感動しすぎて……排卵しちゃったと思う」=“Oh, thanks. Okay, I'm going to be honest with you, stop me immediately if you feel uncomfortable... I think I'm probably too impressed right now... I think I'm ovulating.”
 「は、排卵！？　感動で？」=“I'm ovulating!　You're impressed?”
