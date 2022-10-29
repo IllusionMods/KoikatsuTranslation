@@ -10,7 +10,7 @@
 「キスじゃないよ」=“Well, it's not a kiss.”
 「！？　キス以外の何か♡　とってもドキドキします♡　唇以外でも、どこでも好きなところを何かしちゃってください♡」=“!? Something other than a kiss♡ I'm really excited now♡ Do whatever you like to me, wherever you like♡”
 「そういうのじゃないよ」=“That's not it either.”
-「私の想像がつかない何かなんですね♡　あなたになら、何をされても怖くないです♡」=It's something I can't even imagine then♡ I'm not scared of anything, since it's you♡”
+「私の想像がつかない何かなんですね♡　あなたになら、何をされても怖くないです♡」=“It's something I can't even imagine then♡ I'm not scared of anything, since it's you♡”
 「……前にさ、もし世界が俺と[H名]の二人きりになったらって話したよね。あれをまた妄想してみようと思うんだ」=“...Last time, we talked about what if we were the only ones in the world. I thought we'd try to fantasize about that again.”
 「でも……生活が大変になります……♡　それもそれで楽しそうですけど♡」=“But... in that scenario, our lives would be really hard...♡ But that sounds fun in its own way too♡”
 「いや、[H名]がもともと考えた通りでいいんだよ。もっとメルヘンに……自分勝手な妄想をしてみて…………ほら、今、世界には俺たちだけだよ」=“No, your original fantasy is fine. Keep it more like a fairy tale...try imagining your perfect fantasy... See, now we're the only ones in the world.”
@@ -27,7 +27,7 @@
 ………………=.........
 …………=......
 ……=...
-「…………本当に、世界は私とあなたしかいなくなっちゃったんですね♡」=“...The world truly has just you and me in it now, doesn't it?♡
+「…………本当に、世界は私とあなたしかいなくなっちゃったんですね♡」=“...The world truly has just you and me in it now, doesn't it?♡”
 「そうだよ」=“Yes, it is.”
 「嬉しいです。でも……」=“I'm really happy. But...”
 「やっぱりずっとは嫌です♡　観覧車が一周する、短い間だけの妄想で充分ですね♡　私、あなたと一緒に現実を生きていきます♡」=“I really would rather not have this be our eternity♡ I'm satisfied enough with living this fantasy for just one round of the ferris wheel♡ I'd rather spend my days with you in reality instead♡”
