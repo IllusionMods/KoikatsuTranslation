@@ -11,4 +11,4 @@ CHOICE:『暗くなる前に帰ろうか』=『Shall we go home before it turns 
 「じゃあ最後に、記念写真でも撮って、それで遊園地とはお別れしよう」=“Then let's take a commemorative photo and say goodbye to the amusement park.”
 「ぁ、でしたらその……一度お手洗いに行かせて頂いてもよろしいですか？」=“Oh, and ... may I use the restroom for a moment?”
 「うん、いいよ。俺も行っておこうかな……お互い終わったら、またここで待ち合わせってことで」=“Yeah, sure. I'll go with you... When we're both done, we'll meet back here.”
-（[H名]、きっと写真映りを気にして髪型とか直しに行ったのかな？　なんかいいなぁ、女の子って感じで……）=(H name), I wonder if she went to fix her hair or something to make it look better in the picture?　(It's kind of nice to be a girl...)
+（[H名]、きっと写真映りを気にして髪型とか直しに行ったのかな？　なんかいいなぁ、女の子って感じで……）=(H name, I wonder if she went to fix her hair or something to make it look better in the picture?　It's kind of nice to be a girl...)
