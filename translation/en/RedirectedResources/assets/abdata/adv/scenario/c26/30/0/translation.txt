@@ -7,4 +7,4 @@
 「……顔だけは……。いつもならすぐに忘れるけど……」=“...No, I recognized your face... I just have a hard time remembering things...”
 「そ、そんなに特徴的な顔してるかな？」=“Really? I always thought I looked kind of distinctive.”
 「よくわからない……。本当に、なんとなく……それで話って？」=“I don't know... So, what was it that you wanted to talk about?”
-（感情が読み取りにくい子だな……どんな話なら興味を引くんだろう？）=("She's kind of hard to read... What should I say?)
+（感情が読み取りにくい子だな……どんな話なら興味を引くんだろう？）=(She's kind of hard to read... What should I say?)
