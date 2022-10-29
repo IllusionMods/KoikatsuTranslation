@@ -2,7 +2,7 @@
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
 「色々ありましたけど、遊園地ってとっても楽しいですね♡」=“A lot of stuff happened, but amusement parks are really fun♡”
-（本当に楽しんでそうだけど、色々って言葉が引っ掛かるな。たしかに、だいぶ気を遣ったみたいだからな……）=(Yeah, it really has been a ton of fun but, that "stuff" is the problem. We really had to avoid quite a few landmines there...)
+（本当に楽しんでそうだけど、色々って言葉が引っ掛かるな。たしかに、だいぶ気を遣ったみたいだからな……）=(It really has been a ton of fun, but that “stuff” was the problem. We really had to avoid quite a few landmines there...)
 CHOICE:『観覧車に誘う』=‘Invite her onto the ferris wheel’
 CHOICE:『早めに帰る』=‘Go home early’
 「[H名]、よかったら観覧車に乗らない？　もう少ししたら、綺麗な夜景が見える時間になりそうだし」=“[H名], would you like to ride the ferris wheel? The stars are gonna come out in just a little bit, and I think we'll catch quite the view.”
