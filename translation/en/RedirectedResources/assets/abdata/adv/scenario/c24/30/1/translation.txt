@@ -1,5 +1,5 @@
 //
-// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
 「あ、今ちょっといいかな」=“Ah, do you have a moment?”
 「！！　……はい。お話……ですよね？　コイカツ部の……」=“!! ... Yes. You want to... chat, right? About the Koikatsu club...”
