@@ -1,5 +1,5 @@
 //
-// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
 「この歌も俺の好きな曲……相変わらず、よく俺のこと分かってるね。こういうのも逐一チェックしてるの？」=“This song is one of my favourites too... You know me so well, as usual. Do you research this sort of thing about me too?”
 「あなたのことを日々勉強するのが私の生き甲斐ですから♡　もし自分で自分のことがわからなくなったら、私に何でも聞いてくださいね♡」=“I live to learn more about you every day, after all♡ If you ever forget something about yourself, just ask me♡”
