@@ -1,5 +1,5 @@
 //
-// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
 「もしかして、好き合っている男女が二人っきりでする『運動♡』のことですか？」=“By any chance, are you talking about the sort of ‘exercise♡’ a loving couple in a healthy relationship often does?”
 「え？　あっ、そうじゃなくて！　普通に身体を動かそうってことだよ！」=“Eh? Ah--, not that! I just meant a normal workout!”
