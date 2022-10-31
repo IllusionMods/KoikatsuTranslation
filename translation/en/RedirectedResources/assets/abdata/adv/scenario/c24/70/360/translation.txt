@@ -1,5 +1,5 @@
 //
-// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
 「カラオケで愛してもらって、嬉しいです♡　これからも、いつでも♡　どこでも♡　あなたの愛を受け入れますから、遠慮なんて絶対にしないでくださいね♡」=“It made me really happy, to feel your love while at karaoke♡ In the future too, I'll be ready to accept your love anywhere♡ at any time♡ so please don't ever hold back♡”
 「ありがとう。[H名]になら安心して自分を解放できるよ」=“Thank you. I can really let myself go, when I'm with you, [H名].”
