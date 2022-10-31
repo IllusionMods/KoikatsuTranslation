@@ -1,5 +1,5 @@
 //
-// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
 モブ=Mob
 「すみませーん！　少しお時間よろしいでしょうか？」=“Excuse meee! May I have some of your time, please?”
