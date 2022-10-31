@@ -1,5 +1,5 @@
 //
-// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
 「物理の６３ページの問２がわからないんでしたよね♡」=“You were stuck on the 2nd question of the 63rd page of the Physics textbook, right?♡”
 「え……何で知ってるの？」=“Eh... How'd you know that?”
