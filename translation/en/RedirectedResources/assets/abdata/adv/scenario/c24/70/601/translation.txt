@@ -1,5 +1,5 @@
 //
-// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
 「ここがあなたとの第二の愛の巣♡　……いえ、恋の巣ですね♡　エッチをするためだけの空間♡　素敵です♡」=“This is our second love nest♡...No, it's our lust nest♡ A place just for sex♡ So lovely♡”
 「[H名]……できれば、このまましたいんだけど、いいかな？」=“[H名]... I want to do you right away, just like this, can I?”
