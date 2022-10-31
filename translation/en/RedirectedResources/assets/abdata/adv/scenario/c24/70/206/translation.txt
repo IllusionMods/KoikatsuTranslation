@@ -1,5 +1,5 @@
 //
-// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
 「いい眺めだね」=“The view's great, isn't it?”
 「はい♡　あなたと一緒にこんな景色が見られるなんて、ここは世界一幸せな特等席です♡」=“Yes♡ To think I can look at such a sight with you next to me, these are the best seats in the world♡”
