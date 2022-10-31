@@ -1,5 +1,5 @@
 //
-// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
 「[H名]、ほら見て、もうこんな時間。時間を忘れちゃうぐらい話し合えるなんて、本当にラブラブカップルだよね」=“[H名], look, it's already this late. Chatting so much we forgot about the time, we truly are a lovey-dovey couple, aren't we?”
 「ふふ♡　そうですね♡　あなたが私に合わせてそういうことを言ってくれるのが、本当にラブラブカップルだと思います♡　あなたのお陰なんです♡」=“Fufu♡ Yes♡ I think what makes us the most lovey-dovey is the fact that you said the sort of thing I usually would♡ It's thanks to you♡”
