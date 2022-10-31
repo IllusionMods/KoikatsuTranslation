@@ -1,5 +1,5 @@
 //
-// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
 「ごめん、待った？」=“Sorry, did I make you wait?”
 「いいえ、私も今来たところです♡　……うふふ♡　一度言ってみたかったんです♡」=“Not at all, I got here just now myself♡ ...Ufufu♡ I've always wanted to say that once in my life♡”
