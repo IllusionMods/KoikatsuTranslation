@@ -1,5 +1,5 @@
 //
-// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
 「お邪魔します♡　……昨日の夜まで汚かったのに……今朝片づけたんですね♡」=“Sorry for intruding♡ ...even though it was so filthy till last night... you must have cleaned up this morning, huh?♡”
 「ま、またどこかから見てたの？」=“W-Were you watching me from somewhere again?”
