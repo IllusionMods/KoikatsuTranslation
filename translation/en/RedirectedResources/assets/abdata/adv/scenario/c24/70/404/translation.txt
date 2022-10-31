@@ -1,5 +1,5 @@
 //
-// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
 「じゃあ、食べようか」=“Well then, shall we eat?”
 「はい♡　……あ♡　あの、もしあなたが嫌じゃなかったら、やってみたいことがあるんですけど……♡」=“Yes♡ ...Ah♡ Uhm, there's something I'd really like to try, if you wouldn't mind...♡”
