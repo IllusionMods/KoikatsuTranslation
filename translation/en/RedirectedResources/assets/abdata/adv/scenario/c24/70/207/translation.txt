@@ -1,5 +1,5 @@
 //
-// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
 「一周してる間にいい時間になったし、そろそろ帰ろうか」=“The day just about ended while we were doing that one lap, so let's go home.”
 「はい♡　思い出に残る、素敵な時間でしたね♡」=“Yes♡ I had a lovely time, I'll definitely remember this day♡”
