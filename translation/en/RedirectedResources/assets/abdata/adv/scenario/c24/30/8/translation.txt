@@ -1,5 +1,5 @@
 //
-// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
 「私とＨ……いいですよ♡」=“Sex, with me... Alright♡”
 「自分で言っててアレだけど……付き合ってないけど、いいの？」=“I'm not exactly in a position to be saying this but... we're not going out, are you sure?”
