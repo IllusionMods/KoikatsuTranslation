@@ -1,5 +1,5 @@
 //
-// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
 「うふふ♡　ようやく二人っきりになれましたね♡　ナニをします？　あなたがしたいこと、全部していいんですよ♡」=“Ufufu♡ Finally some alone time with you♡ What would you like to do? I'm fine with anything that you want to do♡”
 「す、ストップ！　あまりストレートすぎても、男が引いちゃったりするから注意だよ」=“S-Stop right there! If you throw too much of a straight ball like that, some guys might get turned off, so be careful.”
