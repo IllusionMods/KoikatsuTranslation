@@ -1,5 +1,5 @@
 //
-// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
 「……その……実は、あなたと出会ったときから、この瞬間をずっと……ずっと待ち望んでいました……」=“......Uhm... the truth is, I've been waiting for this moment, ever since I met you... waiting, for so long...”
 「じゃあ……」=“Then...”
