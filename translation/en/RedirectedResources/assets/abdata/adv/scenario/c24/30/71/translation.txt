@@ -1,5 +1,5 @@
 //
-// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
 「すみません、あそこにいる子も勉強に誘ってもいいですか？」=“Pardon me, may I invite that girl over there to our study session?”
 「えっ……いいけど、どうしたの？」=“Eh--... I'm fine with it but, what's up?”
