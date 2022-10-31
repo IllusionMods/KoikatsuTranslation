@@ -1,5 +1,5 @@
 //
-// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
 「またラブホテルに誘ってくれてありがとうございます♡　デート中、私を魅力的に思ってくれたということですよね？　嬉しいです♡」=“Thank you for taking me to the love hotel again♡ You must have found me really charming on our date, right?♡ I'm really happy♡”
 「最近、[H名]がますます可愛くなってきたからね」=“You just keep getting cuter and cuter these days, after all.”
