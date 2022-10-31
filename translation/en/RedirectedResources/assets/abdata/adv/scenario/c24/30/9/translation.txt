@@ -1,5 +1,5 @@
 //
-// Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
+// Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
 「デートのお誘い嬉しいです♡　あの、もしよかったら、私がデートプランを考えてもいいですか？」=“I'm really happy that you asked me out♡ Uhm, if it's alright, could I plan the date out?”
 「え、いいの？」=“Eh, you sure?”
