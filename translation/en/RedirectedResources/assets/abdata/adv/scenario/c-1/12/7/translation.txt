@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「すぅ……すぅ…………ん、んん……」=*Suck*... *Suck*.... Mm, mmmm...
+「すぅ……すぅ…………ん、んん……」=“*Suck*... *Suck*.... Mm, mmmm...”
 （んぅ……すごく気持ちいいような……いったい、何が……？）=(Hmm... It feels so good... Wait, just what is...?)
 「…………」=“......”
 「って……え？　え？」=“Wha... huh? Huh?”

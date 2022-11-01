@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「ごめん！　待った！？」=“Sorry! Did you wait long?!”
+「ごめん！　待った！？」=“Sorry! Did you wait for too long?!”
 「そんなに急がなくても大丈夫ですよ♡　まだ集合１０分前です♡」=“You don't need to rush that much, you know?♡ There's still 10 minutes before the time we set♡”
 「俺が先に来てると思ってたからビックリしたんだ」=“I thought I'd be here first so I was really surprised.”
 「楽しみすぎて、速めに着いちゃったんです♡　では、行きましょうか♡」=“I was looking forward to this so much, that I ended up arriving a bit early♡ Well then, shall we go?♡”

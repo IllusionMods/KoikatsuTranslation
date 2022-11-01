@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「まだあなたの愛を十分に注いでもらっていませんけど……あなたが満足したなら、それで十分ですよね♡」=“I still haven't had enough of your love but... if you're satisfied, then we'll leave it at that♡”
+「まだあなたの愛を十分に注いでもらっていませんけど……あなたが満足したなら、それで十分ですよね♡」=“I still haven't had enough of your love, but... if you're satisfied, then we'll leave it at that♡”
