@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「すぅ……すぅ…………ん、んん……」=“*snore... *snore*... Nnn, nnnn...”
-（ん、んん……何だか下半身に違和感が……？）=(Nnnnn... my crotch feels kinda...?)
+「すぅ……すぅ…………ん、んん……」=“*snore*... *snore*... nn, nnnn...”
+（ん、んん……何だか下半身に違和感が……？）=(Nn, nnnn... my crotch feels weird...?)
 「…………」=“......”
 「って……え？　何して……」=“...Eh? What are you...”
 「えへへ、バレちゃったですか。ちょっとしたイタズラなのですよ♪」=“Ehehe, jig's up, huh? It's just a tiny prank♪”
