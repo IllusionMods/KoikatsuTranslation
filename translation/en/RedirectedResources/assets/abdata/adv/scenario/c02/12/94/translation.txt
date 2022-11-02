@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「すぅ……すぅ…………ん、んん……」=*snore... *snore*... Nnn, nnnn...
-（ん、んん……何だか下半身に違和感が……？）=(Nn, nnnn... there's this weird feeling in my lower half...?)
+「すぅ……すぅ…………ん、んん……」=“*snore*... *snore*... nn, nnnn...”
+（ん、んん……何だか下半身に違和感が……？）=(Nn, nnnn... my crotch feels weird...?)
 「…………」=“......”
-「って……え？　え？」=“...Eh? Eh?”
+「って……え？　え？」=“Wha...Eh? Eh?”
 //「はぁ、味と匂いがたまりませんわ……わたくし、病み付きです」=
 //「あの……何をして……？」=
 //「あーら、ごきげんよう。愛おしいペニスを頂いておりますわ」=
