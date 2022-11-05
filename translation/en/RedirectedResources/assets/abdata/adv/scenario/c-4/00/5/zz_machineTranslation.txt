@@ -1,4 +1,4 @@
-「ふぅ……きみ、ますます上手になったみたい……」=“You're getting better and better at it...”
-「本当に自信持っていいわよ。先生が保証してあげる♪」=“You can be really confident. The doctor assures you... ♪”
+「ふぅ……きみ、ますます上手になったみたい……」=“Phew...you're getting better and better at it...”
+「本当に自信持っていいわよ。先生が保証してあげる♪」=“You can be really confident. I assure you that♪”
 「もしかして何か悩み事とかある？　それとも疲れてるだけ？」=“Are you worried about something?　Or are you just tired?”
-「こういう時は無理せずに、思い切って休むことも大切よ」=“I'm not trying to be cool, I just really like [H名].”
+「こういう時は無理せずに、思い切って休むことも大切よ」=“In times like this, it's important not to push yourself too hard, but take time to rest.”
