@@ -1,4 +1,4 @@
-「ふふっ。本当に頑張っているのね」=“Hmm. You're really working hard.”
+「ふふっ。本当に頑張っているのね」=“Fufu~. You're really working hard.”
 「次も楽しみにしているわ」=“I'm looking forward to the next one.”
-「……なるほど。これが今のあなたの実力、ということね」=“... I see. This is what you're capable of now.”
-「期待していたのだけど……残念だわ」=“I was hoping ... I'd be able to do that for you, but I'm sorry.”
+「……なるほど。これが今のあなたの実力、ということね」=“...I see. This is what you're capable of now.”
+「期待していたのだけど……残念だわ」=“I had very high hopes for this... but I'm sorry.”
