@@ -3,7 +3,7 @@
 //
 「とりあえず……こんなもんかな」=“Right, that's that for now, I guess.”
 ある程度の片づけを終えたところで、これから生活する自室を見渡す。=After a bit of cleaning, I took a look around the room that's soon to be mine.
-「明日から新しい学園での生活が始まるのか」=“A new school life is starting tomorrow, huh.”
+「明日から新しい学園での生活が始まるのか」=“A new school life is starting tomorrow.”
 一息つきながら、真新しい制服を見つめる。=Taking a deep breath, I looked at my spiffy new uniform.
 ――――=――――
 俺の名前は『[P名前]』。=My name is [P名前].
@@ -16,7 +16,7 @@
 （……………………）=(...)
 「ん……電話だ」=“Hmm... a phone call.”
 物思いにふけっていると、ベッドの上に置きっぱなしにしていた電話が鳴り出した。=I was in deep thought when the phone I had left on my bed rang.
-「すぐ出ますよっと。えーと……叔母さんからか」=“Coming, coming. Hmm... it's from my aunt.”
+「すぐ出ますよっと。えーと……叔母さんからか」=“Coming, coming. Let's see... it's from my aunt.”
 画面に表示された名前を確認して応答ボタンを押す。=I pressed ‘Answer’ after checking the name displayed on screen.
 「もしもし」=“Hello?”
 叔母=Aunt
@@ -41,7 +41,7 @@
 「説明終わり――って、全然意味分かんないって！　女学園！？　男は俺一人！？」=“End of story- Wait, what the heck!? All-girls school!? I'm the only boy!?”
 『うーん……ちゃんと伝えてなかった私が悪いけど、これは決定事項だから取り消すことはできないの』=“Well, it's kinda my fault that I didn't tell you properly, but this has already been decided so no turning back.”
 「そんな……もっと早めに教えてほしかったよ……」=“Come on... You should have told me stuff like this sooner.”
-『女学園ってことを知らないなら、私があなたに、この学園に通ってほしい理由とかも話してないかしら？』=“If you didn't know that it's an all-girls school, then I guess you don't know why I'm sending you there, huh?”
+『女学園ってことを知らないなら、私があなたに、この学園に通ってほしい理由とかも話してないかしら？』=“If you didn't know that it's an all-girls school, then I guess you don't know why I'm sending you there, right?”
 「もちろん聞いてないです！」=“Of course not!”
 『こほん、それではきちんとお話します』=“Ahem, let me explain it to you then.”
 事情をまったく知らない俺に対して、今さらすぎる説明が始まった。=This is all so sudden.
@@ -55,23 +55,23 @@
 「俺と恋愛！？」=“Lovey-dovey!?”
 『あくまで恋愛ごっこ。恋愛の体験でいいの』=“Just to be clear, it's purely for academic purposes. You don't have to go past first base.”
 『部活を作って女の子たちと積極的にスキンシップをとって、男の人に慣れてもらってほしいの』=“To be precise, I want you to create a club that focuses on skinship between males and females, and through it, let them get to know what a boy is.”
-「そんなこと、急に言われたって……」=“Ok, but, it's so sudden and I...”
+「そんなこと、急に言われたって……」=“Okay, but, it's so sudden and I...”
 『協力をお願いできるかしら？』=“Can I count on you?”
 （……何だかとんでもない話になったな）=(...Well, things have taken an unexpected turn, haven't they?)
 正直、俺は今混乱していてまともな判断ができていない。=Frankly, my head is still trying to sort everything out and can't make a proper decision right now.
 男性になれていない女の子達を慣れさせるため、俺に実験台になれと。=I'm to be a guinea pig for girls to get to know boys.
 叔母さんの言いたいことは分からないでもない……？　が、なんというか……。=Not that I don't understand what my aunt's saying. But, it's just...
-「……女学園に男の俺が通って、さらに恋愛までしていいの？」=“Are you sure that it's OK for me to go to an all-girls school, and be lovey-dovey on top of that?”
+「……女学園に男の俺が通って、さらに恋愛までしていいの？」=“Are you sure that it's okay for me to go to an all-girls school, and be lovey-dovey on top of that?”
 『いいの。むしろそれをお願いしてるの』=“Of course. In fact, it's me who's asking you to do it.”
 今さら別の学園に通うことはできない……ここは腹をくくろう。=Well, I also can't change schools this late now...looks like I have no other choice.
-「はぁ……分かった。うまくできるか分からないけど、女の子たちが男性に慣れるよう協力するよ」=“Haah... OK, OK I got it. Not sure how I'll fare, but I'll try my best.”
+「はぁ……分かった。うまくできるか分からないけど、女の子たちが男性に慣れるよう協力するよ」=“Haah...okay, I get it. Not sure how I'll fare, but I'll try my best.”
 『ほんと！　頼もしいわ！』=“Really! That's my boy!”
 ポジティブに捉えれば、男は俺一人だけのハーレムだ。=Well, if you look at things positively, it means that I'll have a harem all to my own.
 こうなったら、目一杯女の子に囲まれた新生活を楽しむとしよう。=I guess I'll just enjoy my new life surrounded by all the girls.
 『それじゃあ、そろそろ切るわよ。明日遅刻しないように、今日は早めに寝た方がいいわよ』=“Alright, I'll hang up then. Go to bed early or else you'll be late tomorrow.”
 「分かった、そうするよ。これからお世話になります」=“I'll do just that. I'll be in your care from now on.”
 『そんなに改まらなくてもいいのよ。学園で分からないことがあったら、気軽に聞いてちょうだい』=“No need to be so formal, you know. Call me anytime if you need help.”
-「分かったよ」=“'Kay.”
+「分かったよ」=“Alrighty then.”
 『よろしいっ。じゃあ、しっかりと頑張りなさい！』=“Excellent. OK then, good luck with school tomorrow!”
 挨拶もそこそこに叔母さんは電話を切った。=My aunt then hurriedly hung up the phone as a goodbye.
 「はぁ……しかし、明日から通うのが女学園だったとは」=“Phew... but to think that I'm going to an all-girls school tomorrow.”
@@ -79,7 +79,7 @@
 「決まったことを気にしても仕方ないな……残りもさっさと片付けるか」=“Well, no use in whining about the situation...guess I'll have to make the most of it.”
 「ふぅー、さっぱりした」=“Whew, that was refreshing.”
 お風呂から上がり、ある程度片付いた自室へと戻る。=I went back to my room that's been mostly organized after a long and relaxing bath.
-「こんな時間か。寝るにはちょっと早いけど」=“It's this late already, huh. Still a bit too early for sleep, but...”
+「こんな時間か。寝るにはちょっと早いけど」=“It's this late already. Still a bit too early for sleep, but...”
 明日から学園生活が始まる。=Tomorrow marks the beginning of a new school life.
 叔母さんに言われた通り、今日は早めに寝ることにしよう。=I should probably follow my aunt's advice and call it early.
 「おやすみ」=“Good night.”
