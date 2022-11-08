@@ -9,7 +9,7 @@
 野乃花=Nonoka
 「あなたが転入生くんねー。はじめまして、私は担任の櫻井 野乃花です」=“You're the transfer student, right? Nice to meet you, I'm Sakurai Nonoka, your homeroom teacher.”
 「はじめまして[P名前]です。よろしくお願いします」=“Nice to meet you, I'm [P名前]. I'll be in your care from now.”
-「はい、よろしくねー。男の子一人で大変なことはいっぱいあると思うけど、一緒に頑張っていきましょー」=“Nice to meet you, too. I know it's gonna be hard when you're the only male student, but let's both try our best, OK?”
+「はい、よろしくねー。男の子一人で大変なことはいっぱいあると思うけど、一緒に頑張っていきましょー」=“Nice to meet you, too. I know it's gonna be hard when you're the only male student, but let's both try our best, okay?”
 と言ったところで、先生がいきなり、ぎゅっと俺の両手を握ってきた。=After saying that, she suddenly grabbed my hands tightly.
 「うわっ、と、先生、何するんですか？！」=“Waaa, Sensei, what are you doing?!”
 「えっとー、きみが緊張してるみたいだったから、ついー」=“Well, you looked kind of nervous, so I just-”
@@ -18,9 +18,9 @@
 （変にドキドキしてしまった……）=(Man, that made my heart skip a beat...)
 慌てて手を引っ込めだが、先生の手はすごく柔らかかった。=As I hastily pulled back my hand, I could still feel the soft sensation of Sensei's hands.
 「うふふ、作戦成功です。それと話し方も今みたいに普段の話し方でいいですよー」=“Ufufu, mission accomplished. You don't have to be so formal with me, just talk how you usually would.”
-「わかりました、でも非常識な人間ではないので、先生相手には敬語で話させてもらいますね」=“Alright, I understand, but I'm not without common sense, so I'll be polite when speaking with you, OK?”
+「わかりました、でも非常識な人間ではないので、先生相手には敬語で話させてもらいますね」=“Alright, I understand, but I'm not without common sense, so I'll be polite when speaking with you, okay?”
 「それで、これからどうすればいいんですか？」=“Now that's done, what are we going to do next, Sensei?”
-「えっとー、この後、私が教室まで案内するので付いてきてください、それから自己紹介してもらいますねー」=“Let's see, I'll guide you to the classroom later on so be sure to follow me. After that, I'll have you introduce yourself, OK?”
+「えっとー、この後、私が教室まで案内するので付いてきてください、それから自己紹介してもらいますねー」=“Let's see, I'll guide you to the classroom later on so be sure to follow me. After that, I'll have you introduce yourself, okay?”
 「自己紹介ですか、まぁ転入生なんで当たり前ですよね」=“Self-introduction, huh. I suppose that's a given when you're a transfer student.”
 「はい」=“Yup.”
 ニコニコ笑いながら頷く先生。=Smiling happily, Sensei gave me a nod.
@@ -31,7 +31,7 @@
 「その、先生は部活の事って聞いてたりします？」=“Ah, Sensei, have you heard anything about my club?”
 「はい、学園長から部活のことも聞いてますー。先生に手伝えることがあったら気軽に相談してくださいねー」=“Yes, the principal already informed me about the club. If you need anything feel free to ask me for help.”
 「ありがとうございます。よかった、ちゃんと話してくれてるみたいだ」=“Thank you. Thank goodness she actually told everyone.”
-どうやら話し忘れていたのは、俺に対してだけだったらしい。=Looks like Auntie remembered to tell everyone BUT me.
+どうやら話し忘れていたのは、俺に対してだけだったらしい。=Looks like my aunt remembered to tell everyone BUT me.
 「うふふ、それじゃあ、早速クラスへ移動して、自己紹介をしてもらいますね」=“Ufufu. Well then, let's go to class and I'll have you introduce yourself.”
 「心の準備はいいですかー？」=“Are you ready-?”
 「……はい！」=“...Yes!”
