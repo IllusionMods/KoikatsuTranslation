@@ -8,7 +8,7 @@
 「初日から遅刻をしなくてすみそうだな」=“Seems like I won't have to be late on my first day.”
 ベッドから起き上がり、学園に向かうための準備を始める。=I got up from bed and started preparing for school.
 朝食を食べ、カバンの中身を確認。=Finishing breakfast, I checked my bag for the last time.
-「よし、忘れ物はなし」=“OK, nothing missing.”
+「よし、忘れ物はなし」=“Okay, nothing missing.”
 「……これから通う学園には女の子しかいないんだよな」=“...Still I can't believe that I'm going to an all-girls school.”
 昨日、叔母から聞かされた話を思い出す。=I thought back to my conversation with Auntie yesterday.
 女の子しかおらず、男に慣れてない女生徒しかいない学園。=A school with only girls, with most of them not knowing what a boy is.
