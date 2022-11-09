@@ -29,14 +29,14 @@
 『まあ、色々よ。それで、明日からの学園生活はうまく過ごせそう？』=“Well, a bit of this and a bit of that. That aside, do think you can fit in well at school tomorrow?”
 「さぁね……でも、早めにクラスの皆と仲良くなれるようにしたいよ」=“Not sure either... but, I do want to get along with the class.”
 『うんうん、いい心がけよ』=“Uh huh, that's a good mentality to have.”
-『あなた以外、女の子しかいないから大変だと思うけど、頑張ってちょうだいね』=“It's going to be tough with everyone else being girls, but stay strong, OK?”
+『あなた以外、女の子しかいないから大変だと思うけど、頑張ってちょうだいね』=“It's going to be tough with everyone else being girls, but stay strong, okay?”
 「そうだね。俺以外は女の子だけど……って、ちょっと待った！！」=“Yeah I know. With everyone else being girls... Wait a minute!!”
 さらっと聞き捨てならないことを言ってのけた叔母さんの言葉を慌てて遮る。=I immediately stopped my aunt after hearing the ominous phrase.
 『あら？　どうかしたの？』=“Oh? Is something wrong?”
 「俺……以外、女の子しか……いない……？」=“Everyone else... being... girls?”
 『そうよ？　伝えてなかったかしら』=“Yup? Didn't I tell you?”
 「初耳だよ！？　どういうこと！？」=“No!? What's this all about!?”
-『そうねぇ……それじゃあ説明するからちゃんと聞いてね』=“I see... Well, I'll explain it to you right now so listen carefully, OK?”
+『そうねぇ……それじゃあ説明するからちゃんと聞いてね』=“I see... Well, I'll explain it to you right now so listen carefully, okay?”
 『おほん、えー、あなたが通う学園は女学園です。そして、男の子はあなた一人。はい、説明終わり』=“Ahem, eeh, your new school is an all-girls school. You're the only boy. There, end of story.”
 「説明終わり――って、全然意味分かんないって！　女学園！？　男は俺一人！？」=“End of story- Wait, what the heck!? All-girls school!? I'm the only boy!?”
 『うーん……ちゃんと伝えてなかった私が悪いけど、これは決定事項だから取り消すことはできないの』=“Well, it's kinda my fault that I didn't tell you properly, but this has already been decided so no turning back.”
