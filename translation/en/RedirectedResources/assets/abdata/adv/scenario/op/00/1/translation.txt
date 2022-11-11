@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「ふわぁ……よく寝たぁ」=“*yawn*... That was a satisfying night of sleep.”
+「ふわぁ……よく寝たぁ」=*Yawn...* “That was a satisfying night of sleep.”
 カーテンの隙間から差し込んできた朝日で目が覚める。=I woke up just as rays of sunshine began to creep into my room.
 セットしたアラームが鳴る前に起きることができた。=It was still early. Earlier than what I had set on the alarm.
 しっかり準備をしても、学園には余裕を持って登校できる時間だ。=I'd still be able to get to school with plenty of leeway even if I had taken my time preparing.
@@ -20,6 +20,6 @@
 鏡を見て寝癖がないか、服に皺がないかチェックしていく。=I looked in the mirror to check my clothes for wrinkles and make sure that I didn't have bed head.
 第一印象が大切だ。身だしなみはきちんとしなければ。=First impressions are important. I have to ensure that I look perfect for it.
 「これでよしっ！」=“Alright!”
-気合を入れて、新生活を頑張っていこう！=I fired up myself, getting ready for what's to come!
+気合を入れて、新生活を頑張っていこう！=I fired myself up, getting ready for what's to come!
 「いってきます！」=“Let's go!”
 大きな声で挨拶をして、新生活への一歩を踏み出した。=Letting out a loud voice, I took the first step towards my new life.
