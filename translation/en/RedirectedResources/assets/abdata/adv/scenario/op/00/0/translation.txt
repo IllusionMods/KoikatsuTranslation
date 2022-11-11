@@ -24,9 +24,9 @@
 「大体はね。今一息ついてたとこだよ」=“For the most part. I was taking a break just now.”
 『ごめんなさいね、あまり手伝えなくって』=“Sorry that I wasn't able to help much.”
 「いいよ、忙しいんでしょ？　学園長の仕事がどんなことをするのか知らないけど」=“Nah, it's alright. You're busy with work, right? Though, I'm not exactly sure what a principal does.”
-叔母さんは明日から俺が通うことになる学園の学園長を勤めている。=My aunt is the principal of the school I'm going to be attending tomorrow.
+叔母さんは明日から俺が通うことになる学園の学園長を勤めている。=My aunt is the principal of the school I'll be attending tomorrow.
 きっと、一人で引っ越し作業を行う俺の心配をして電話をかけてきてくれたのだろう。=She must be worried that I'm moving in all by myself.
-『まあ、色々よ。それで、明日からの学園生活はうまく過ごせそう？』=“Well, a bit of this and a bit of that. That aside, do think you can fit in well at school tomorrow?”
+『まあ、色々よ。それで、明日からの学園生活はうまく過ごせそう？』=“Well, a bit of this and a bit of that. That aside, do you think you can fit in well at school tomorrow?”
 「さぁね……でも、早めにクラスの皆と仲良くなれるようにしたいよ」=“Not sure either... but, I do want to get along with the class.”
 『うんうん、いい心がけよ』=“Uh huh, that's a good mentality to have.”
 『あなた以外、女の子しかいないから大変だと思うけど、頑張ってちょうだいね』=“It's going to be tough with everyone else being girls, but stay strong, okay?”
@@ -44,7 +44,7 @@
 『女学園ってことを知らないなら、私があなたに、この学園に通ってほしい理由とかも話してないかしら？』=“If you didn't know that it's an all-girls school, then I guess you don't know why I'm sending you there, right?”
 「もちろん聞いてないです！」=“Of course not!”
 『こほん、それではきちんとお話します』=“Ahem, let me explain it to you then.”
-事情をまったく知らない俺に対して、今さらすぎる説明が始まった。=This is all so sudden.
+事情をまったく知らない俺に対して、今さらすぎる説明が始まった。=I had no idea what's going on, and the explanation was too late for me.
 『さっき話した通り、あなたが明日から通う学園は女の子しかいません』=“Like I said before, your new school only has girls in it.”
 『そして、生徒の大半は、男の子と接したことがないの』=“And most of them have little to no contact with boys.”
 『初心なのは可愛いけど、いきなり社会に出て、男の人とコミュニケーションがとれるか心配でしょう？』=“While it's cute that they're all pure and innocent, there are concerns over whether they could communicate well with men once they're out in society, no?”
@@ -59,10 +59,10 @@
 『協力をお願いできるかしら？』=“Can I count on you?”
 （……何だかとんでもない話になったな）=(...Well, things have taken an unexpected turn, haven't they?)
 正直、俺は今混乱していてまともな判断ができていない。=Frankly, my head is still trying to sort everything out and can't make a proper decision right now.
-男性になれていない女の子達を慣れさせるため、俺に実験台になれと。=I'm to be a guinea pig for girls to get to know boys.
+男性になれていない女の子達を慣れさせるため、俺に実験台になれと。=I have to be a guinea pig for girls to get to know boys.
 叔母さんの言いたいことは分からないでもない……？　が、なんというか……。=Not that I don't understand what my aunt's saying. But, it's just...
 「……女学園に男の俺が通って、さらに恋愛までしていいの？」=“Are you sure that it's okay for me to go to an all-girls school, and be lovey-dovey on top of that?”
-『いいの。むしろそれをお願いしてるの』=“Of course. In fact, it's me who's asking you to do it.”
+『いいの。むしろそれをお願いしてるの』=“Of course. In fact, I'm asking you to do it.”
 今さら別の学園に通うことはできない……ここは腹をくくろう。=Well, I also can't change schools this late now...looks like I have no other choice.
 「はぁ……分かった。うまくできるか分からないけど、女の子たちが男性に慣れるよう協力するよ」=“Haah...okay, I get it. Not sure how I'll fare, but I'll try my best.”
 『ほんと！　頼もしいわ！』=“Really! That's my boy!”
@@ -72,7 +72,7 @@
 「分かった、そうするよ。これからお世話になります」=“I'll do just that. I'll be in your care from now on.”
 『そんなに改まらなくてもいいのよ。学園で分からないことがあったら、気軽に聞いてちょうだい』=“No need to be so formal, you know. Call me anytime if you need help.”
 「分かったよ」=“Alrighty then.”
-『よろしいっ。じゃあ、しっかりと頑張りなさい！』=“Excellent. OK then, good luck with school tomorrow!”
+『よろしいっ。じゃあ、しっかりと頑張りなさい！』=“Excellent. Okay then, good luck with school tomorrow!”
 挨拶もそこそこに叔母さんは電話を切った。=My aunt then hurriedly hung up the phone as a goodbye.
 「はぁ……しかし、明日から通うのが女学園だったとは」=“Phew... but to think that I'm going to an all-girls school tomorrow.”
 そんな大事な話を伝え忘れる叔母さんのうっかり具合には少し腹が立つ。=It's a bit upsetting when your own aunt forgets to tell you such an important detail.
@@ -83,4 +83,4 @@
 明日から学園生活が始まる。=Tomorrow marks the beginning of a new school life.
 叔母さんに言われた通り、今日は早めに寝ることにしよう。=I should probably follow my aunt's advice and call it early.
 「おやすみ」=“Good night.”
-ベッドに入るとすぐに睡魔がやってきた。今夜はぐっすり眠れそうだ。=Diving into my bed, an immense sense of weariness instantly assaulted me. Looks like I'll sleep well tonight.
+ベッドに入るとすぐに睡魔がやってきた。今夜はぐっすり眠れそうだ。=As soon as I dove into bed, sleepiness set in. Looks like I'll sleep well tonight.
