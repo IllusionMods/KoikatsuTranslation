@@ -1,7 +1,7 @@
-「あら、ここは殿方用ではありませんわ。出ていっていだけて？」=“Oh, this is no place for gentlemen. Oh, no, no, not now. Oh, no, this is not the place for gentlemen.”
-「ここは女性専用ですわ！　出ていってちょうだい！」=“This is a ladies-only area.　Get out of here!”
+「あら、ここは殿方用ではありませんわ。出ていっていだけて？」=“Oh, this is no place for gentlemen. Would you care to leave?”
+「ここは女性専用ですわ！　出ていってちょうだい！」=“This is a ladies-only area!　Get out of here!”
 「失敬。今時間がありませんの。ごめんあそばせ」=“Pardon me. I don't have time for this. I'm sorry.”
-「よくもまあ、わたくしの前に顔を出せたものですわねぇ……呆れますわ」=“How dare you show your face in front of me?”
+「よくもまあ、わたくしの前に顔を出せたものですわねぇ……呆れますわ」=“How dare you show your face in front of me... it's appalling.”
 「失礼、またのちほどお伺いいたしますわ」=“Excuse me. I'll come back later.”
 「すー……すー……くふふ、皆わたくしにひれ伏しなさい……」=“Soo ... Soo ... kuhu, everyone bow down to me ...”
 「今、お召し替えの最中ですの。ごめんあそばせ」=“I'm in the middle of a change of clothes. I'm sorry.”
