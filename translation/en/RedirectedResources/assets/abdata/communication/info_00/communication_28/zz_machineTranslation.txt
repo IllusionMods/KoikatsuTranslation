@@ -1,5 +1,5 @@
-「のわっ！？　何をしておる！　ここは女子トイレじゃぞ！」=“What are you doing?　What are you doing?　This is the ladies' room!”
-「のじゃっ！？　み、見るでないっ！」=“What's wrong?　Don't look!”
+「のわっ！？　何をしておる！　ここは女子トイレじゃぞ！」=“Wah!　What are you doing!?　This is the ladies' restroom!”
+「のじゃっ！？　み、見るでないっ！」=“What!?　Hey, don't look!”
 「わしは忙しいのじゃ、後にするのじゃ」=“I'm busy, you'll have to wait.”
 「……何じゃ？　用があるなら早う言わんか」=“... what?　If you have something to say, say it quickly.”
 「すまんな。ちと用事があってな」=“I'm sorry. I've got some business to attend to.”
