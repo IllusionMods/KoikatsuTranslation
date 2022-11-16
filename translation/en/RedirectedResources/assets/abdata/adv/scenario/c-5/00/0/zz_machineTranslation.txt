@@ -55,7 +55,7 @@
 「もちろんだよ。俺はれっきとした学生。この間転入してきたんだ」=“Of course. I'm a student here. I moved in recently.”
 「男の子がうちに？」=“A boy in our midst?”
 「えっと、まぁ色々あって……俺の名前は[P名前]。実はさ……」=“Well, it's kind of a long story... my name is [P名前]. I'm actually...”
-そう言って、俺が転入してきた理由を説明する。=I said that and explained why I moved in.
+そう言って、俺が転入してきた理由を説明する。=Saying that, I explained why I moved in.
 「なるほど。そういうことだったんだ」=“I see. So that's what it's all about.”
 部活のことまで包み隠さず話すと、女の子がようやく納得した表情を浮かべる。=When I told her about the club activities without any concealment, the girl finally gave me a satisfied look.
 「それでクラスのみんなが騒いでいたのね」=“So everyone in the whole class was clamouring about it.”
