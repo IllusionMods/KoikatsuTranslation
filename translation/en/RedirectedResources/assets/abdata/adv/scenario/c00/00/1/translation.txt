@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「こんにちは。今、話しかけてもＯＫ？」=“Good day. Is it OK if I talk with you now?”
+「こんにちは。今、話しかけてもＯＫ？」=“Good day. Is it okay if I talk with you now?”
 「ええ、大丈夫よ。どうしたの？」=“Yeah, I'm good on time. What's up?”
 「あんまり話したことないから、話してみたいなって思って……」=“We've not really talked all that much, so I just felt like doing so...”
 「そう言われてみれば、そうね……。それじゃ、何をお話しする？」=“Now that you say that, that's true... Well then, whatcha gonna talk to me about?”
