@@ -36,14 +36,14 @@
 「ごめん、ちょっと説明してもいい？」=“Sorry, can I explain a little bit?”
 「説明？　ここに君がいることを？」=“Explain? That you're here?”
 「うん、俺がいること……っていうか、俺自身のこと？」=“Yeah, what I'm doing here...or who I am, rather?”
-「ふふっ、それってナンパ？」=“Fufu~, are you hitting on me?”
+「ふふっ、それってナンパ？」=“Fufu--, are you hitting on me?”
 「なっ！？　ち、違うって！」=“What!?　No, I'm not!”
 「俺はただ、何気なく君のことが目に入ってっ……何してるんだろうって気になってっ……それでっ……思わず声をかけただけでっ……」=“I just happened to catch sight of you...and wondered what you were doing, so I just...spontaneously called out to you...”
 「じー……」=“*Stare*......”
 「あああ、確かにナンパみたいな言い草になってるけどさ！　違うから！　ガチで違うからっ！」=“Ahhh, I know I sound like I'm hitting on you! That's not it! That's definitely not it!”
 「本当かなぁ？」=“Really?”
 「本当です！」=“Really!”
-「くすくすっ、変な人ー」=“Kusukusu~, you're strange!”
+「くすくすっ、変な人ー」=“Kusukusu--, you're strange!”
 「あ、い、いや……」=“Ah, n-nothing...”
 笑った顔がすごく可愛いと思ったけど、それは口にしないでおこう。=I thought she looked really pretty when she laughed, but I didn't want to say anything about it.
 言ったらまたナンパだと思われそうだ。=She'll think I'm hitting on her again if I tell her that.
@@ -78,7 +78,7 @@
 「…………」=“......”
 儚げに呟かれた言葉に何も言えなくなる。=I can't say anything to the fragilely mumbled words.
 そうやってただ見つめてしまった俺の目の前で、今度は女の子が腕時計へと視線を向けた。=As I just stared at her just like that, the girl turned to her watch.
-「いっけない！　もうこんな時間！　ごめんなさい、私行かなきゃ！　今日は早退なの」=“No way!　It's so late!　I'm sorry, I have to go!　I have to leave early today.”
+「いっけない！　もうこんな時間！　ごめんなさい、私行かなきゃ！　今日は早退なの」=“Oh no!　It's so late!　I'm sorry, I have to go!　I have to leave early today.”
 「えっ？　早退？　今から？」=“What?　You're leaving early?　Now?”
 「うん、ちょっと大事な予定があって……急がなきゃ」=“Yeah, I've some important things to do...and I have to hurry.”
 もしかして病院とかで検査でもあるんだろうか？=Maybe there's a test at the hospital or something?
@@ -86,7 +86,7 @@
 すると俺の様子が気になったのか、女の子はにっこりと微笑んで口を開いた。=Then the girl smiled and opened her mouth, as if she was curious about how I was looking.
 「私、姫川舞。[P姓]君と同じ２年生だよ」=“I'm Himekawa Mai, a sophomore like you.”
 「姫川舞さんか……うん、覚えた。いい名前だね」=“Himekawa Mai... Yeah, I'll remember it. That's a nice name.”
-「ふふーっ、ありがとう♪　それじゃ、またね」=“Fufu~, thank you♪ Well, I'll see you later.”
+「ふふーっ、ありがとう♪　それじゃ、またね」=“Fufu--, thank you♪ Well, I'll see you later.”
 俺の言葉に嬉しそうな表情を浮かべて、立ち去ろうとする。=With a happy look from my words, she turns to leave.
 その後ろ姿へ向かって、俺はついまた言葉をかけていた。=As she made her way to the back door, I called out to her again.
 「あのっ……次に学園に来るのはいつかな？」=“Um... when's the next time you're coming to school?”
