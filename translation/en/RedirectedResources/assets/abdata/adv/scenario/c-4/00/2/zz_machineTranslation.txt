@@ -10,7 +10,7 @@
 「エッチ！？」=“Sex!?”
 「わあぁ！　繰り返さないの！　恥ずかしいでしょう！」=“Whoa!　Don't repeat it!　It's embarrassing!”
 「あああっ、そ、そうですねっ……すみません……でも……本当にいいんですか？」=“Aaaah, right...excuse me... but...is it really okay?”
-「ふふっ、きみみたいな良い子なら、私は構いません。でも……きみの方こそいいの？」=“Fufu~, if it's with a good boy like you, I don't mind. But... are you okay with it?”
+「ふふっ、きみみたいな良い子なら、私は構いません。でも……きみの方こそいいの？」=“Fufu, if it's with a good boy like you, I don't mind. But...are you okay with it?”
 「もちろんです！　先生みたいな可愛い人ならっ……むしろ俺の方からお願いしたいくらいですっ！」=“Of course!　If you're as pretty as you are, Sensei... I'd rather ask you to do it myself!”
 「きゃっ！　もうっ、嬉しいこと言ってくれるのね。それじゃ早速……いい？」=“Kyah! Oh my gosh, you say the nicest things. Then can we get to it right...now?”
 「はいっ！」=“Yes!”
