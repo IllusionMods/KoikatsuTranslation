@@ -1,4 +1,4 @@
-「ふふっ、部活中は特に男の子って感じがするわね」=“Fufu~, I feel like a boy especially during club activities.”
+「ふふっ、部活中は特に男の子って感じがするわね」=“Fufu, I feel like a boy especially during club activities.”
 「きみの勧誘もずいぶん様になってきてるみたい。どんどん上手になってるわね」=“You're getting really good at this solicitation thing. You're getting better at it.”
 「今度また、部活の話を聞かせてね」=“Tell me about your club activities again next time.”
 「もうこんな時間よ？　あんまり遅くまで残っちゃわないようにね」=“It's late, isn't it?　I hope you didn't stay too late.”
