@@ -49,7 +49,7 @@
 俺の言葉を聞いて、先生がきょとんとした表情になる。=Sensei's expression turned blank when she heard my words.
 「ええ、アレです。お化け的な」=“Err, she might be a ghost.”
 「……お化け？」=“... a ghost?”
-「……ぷっ……ふふっ、くすくすくすっ！」=“...fu...fufu, kusukusukusu!”
+「……ぷっ……ふふっ、くすくすくすっ！」=“...pu...fufu, kusukusukusu!”
 「ちょっ……そ、そんな笑うことないじゃないですか」=“Hey...ah, there's no need to laugh like that!”
 「ぷぷっ、ごめんなさい。だってお化けだなんて……[P姓]君、変わってますねー」=“Pfft, I'm sorry. I can't believe she's a ghost...[P姓], you're so strange!”
 「仕方ないじゃないですか。その日以来、全く会えてないんですから」=“It can't be helped. I haven't seen her at all since that day.”
