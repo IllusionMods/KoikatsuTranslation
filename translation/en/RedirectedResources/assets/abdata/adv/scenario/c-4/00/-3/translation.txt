@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「きみが来てから、みんなそわそわしてるみたい。ふふっ、こういうのって青春っぽくていいわね♪」=“Ever since you came, everyone looks nervous. Fufu~, youth like this is nice, isn't it♪”
+「きみが来てから、みんなそわそわしてるみたい。ふふっ、こういうのって青春っぽくていいわね♪」=“Ever since you came, everyone looks nervous. Fufu, youth like this is nice, isn't it♪”
