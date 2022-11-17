@@ -9,11 +9,11 @@
 「はい。コイカツ部のことでちょっと……」=“Yes. I'd like to talk to you about the Koikatsu club...”
 「あらー、何か行き詰まってしまいましたか？」=“Oh, you've hit a snag, haven't you?”
 「あ、そういうわけではないんです。ただ、現状の報告をしておこうと思いまして」=“Oh, that's not the case. Though, I just thought I'd give you a status report.”
-「ふふっ、[P姓]君は几帳面ですねー」=“Fufu~, [P姓], you're so meticulous.”
+「ふふっ、[P姓]君は几帳面ですねー」=“Fufu, [P姓], you're so meticulous.”
 「そりゃ几帳面にもなりますって。わりと責任重大な役目ですし」=“That's because it is also incredibly meticulous. It's a role with a lot of responsibility.”
 「そうですね。女の子達の未来が[P姓]君の両肩にかかってますからね」=“Yes, that's right. The future of the girls rests on your shoulders, [P姓].”
 「そんなプレッシャーかけないでくださいよー」=“Please don't pressure me like that!”
-「ふふっ、ごめんなさい」=“Fufu~, excuse me.”
+「ふふっ、ごめんなさい」=“Fufu, excuse me.”
 慌てる俺へ向かって先生が悪戯っぽく微笑む。=Sensei smiled mischievously at me as I panicked.
 こういうとこ、親しみやすくていい先生だなぁと思う。=I'd expect this sort of thing from a friendly teacher.
 「えっとそれで……コイカツ部はどんな感じなんですか？」=“Well then...what's the Koikatsu club like?”
@@ -49,7 +49,7 @@
 俺の言葉を聞いて、先生がきょとんとした表情になる。=Sensei's expression turned blank when she heard my words.
 「ええ、アレです。お化け的な」=“Err, she might be a ghost.”
 「……お化け？」=“... a ghost?”
-「……ぷっ……ふふっ、くすくすくすっ！」=“...fu~...fufu~, kusukusukusu!”
+「……ぷっ……ふふっ、くすくすくすっ！」=“...fu...fufu, kusukusukusu!”
 「ちょっ……そ、そんな笑うことないじゃないですか」=“Hey...ah, there's no need to laugh like that!”
 「ぷぷっ、ごめんなさい。だってお化けだなんて……[P姓]君、変わってますねー」=“Pfft, I'm sorry. I can't believe she's a ghost...[P姓], you're so strange!”
 「仕方ないじゃないですか。その日以来、全く会えてないんですから」=“It can't be helped. I haven't seen her at all since that day.”
@@ -76,7 +76,7 @@
 言われて見れば、確かにアイドルとして活動しててもおかしくないくらい可愛い女の子だった。=Come to think of it, she was definitely a pretty girl who could have been active as an idol.
 というよりも、仕事が忙しくて登校出来ないくらいなんだから、相当な人気なんだろう。=Rather, she's so busy with work that she can't come to school, so she must be quite popular.
 「姫川さんがそんな娘だったなんて……」=“I didn't know Himekawa-san was that kind of girl...”
-「ふふっ、私からすればまさか[P姓]君がそんな人だったなんて……って感じですよー」=“Fufu~, from my point of view, I didn't know you were that kind of guy...”
+「ふふっ、私からすればまさか[P姓]君がそんな人だったなんて……って感じですよー」=“Fufu, from my point of view, I didn't know you were that kind of guy...”
 「へ？　どういう意味ですか？」=“Eh?　What do you mean?”
 「まさか姫川さんのことを知らないなんて……って意味です。彼女、毎日のようにテレビに出てるでしょう？」=“I mean...don't tell me you don't know about Himekawa-san. She's on TV every day, right?”
 「あ……俺、そういう方面には疎くて……すみません」=“Oh... I'm not familiar with that sort of thing...sorry.”
@@ -95,7 +95,7 @@
 さすがにこんなことで先生の世話になるわけにはいかない。=Still, I can't let Sensei take care of me like this.
 自分で出来ることはきちんとこなしていかなきゃな。=I have to do what I can do myself properly.
 そう思って答えたつもりが、何やら先生は納得気味にうんうんと頷きながら……。=I thought I answered her with that in mind, but somehow Sensei nodded her head in agreement...
-「ふふっ、[P姓]君もさすが男の子ですねー」=“Fufu~, [P姓], you're indeed a boy.”
+「ふふっ、[P姓]君もさすが男の子ですねー」=“Fufu, [P姓], you're indeed a boy.”
 「……？　どういう意味ですか？」=“...?　What do you mean?”
 「姫川さんみたいに可愛い女の子は放っておけないですものね」=“You can't leave a pretty girl like Himekawa-san alone.”
 「なっ……お、俺はただ部活でっ……」=“Wha...ah, I'm just doing my club work...”
