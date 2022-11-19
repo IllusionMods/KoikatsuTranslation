@@ -149,46 +149,46 @@
 んっ……あなたの手、温かい……=Ahh... Your hand is so warm.
 
 //30
-//へぇ……本当に男の子なのねぇ……=
-//なになに？　お姉さんに用かな？=
-//……んー、どこ見てるのかな？=
+へぇ……本当に男の子なのねぇ……=Huh... so you really are a guy...
+なになに？　お姉さんに用かな？=What is it? You need something from this onee-san?
+……んー、どこ見てるのかな？=...hmmm, I wonder where you're looking?
 
 //31
-//何をフラフラしている。時間は有限だぞ=
-//どうした？　用があるなら、聞いてやるぞ=
-//ほぅ、勇気を出してお誘いか？=
+何をフラフラしている。時間は有限だぞ=What are you loitering about for? You only have so much time, you know?
+どうした？　用があるなら、聞いてやるぞ=What's up? If you need something, I'll hear you out.
+ほぅ、勇気を出してお誘いか？=Hoh, did you build up your courage for that?
 
 //32
-//何かご用でしょうか=
-//殊勝な心掛けですね=
-//……有意義な時間になればいいですが=
+何かご用でしょうか=Do you need something?
+殊勝な心掛けですね=What an admirable attitude.
+……有意義な時間になればいいですが=...Hopefully, this will be worth my time.
 
 //33
-//あなた、私に興味があるの？=
-//ふふ、私の身体を見るだけじゃ満足できないでしょ？=
-//今なら誰もいないし、少しぐらいなら平気よ？=
+あなた、私に興味があるの？=Do you have an interest in me?
+ふふ、私の身体を見るだけじゃ満足できないでしょ？=Fufu, you can't be satisfied just looking at my body, can you?
+今なら誰もいないし、少しぐらいなら平気よ？=Right now, there's no one, so a little bit's fine, you know?
 
 //34
-//Ｈｕｇシマショー♪=
-//Ｏｈ！　Ｎｉｎｊａさん、ココはお忍び禁止デスヨ！？=
-//Ｈｉｙａ，Ｍｙ　ｓｗｅｅｔ♡=
+Ｈｕｇシマショー♪=Let's hug♪
+Ｏｈ！　Ｎｉｎｊａさん、ココはお忍び禁止デスヨ！？=Oh! Ninja-san, you're not allowed to sneak around in this place, you know!?
+Ｈｉｙａ，Ｍｙ　ｓｗｅｅｔ♡=Hiya, my sweet♡
 
 //35
-//今日も一日お疲れさまっ！　私も頑張ったけん、ほめてほめて～=
-//こ、こげな話はやめよ？　恥ずかしくてほっぺた熱くなるやん=
-//えへへ、頑張ってる君、ばり格好良いよ♪=
+今日も一日お疲れさまっ！　私も頑張ったけん、ほめてほめて～=Good work today too! I did my best, so praise me, praise me~
+こ、こげな話はやめよ？　恥ずかしくてほっぺた熱くなるやん=L-let's not talk about this, okay? It's so embarrassing, my cheeks are going to burn up.
+えへへ、頑張ってる君、ばり格好良いよ♪=Ehehe, you look super cool when you work hard♪
 
 //36
-//なに？　まだ生きていたの？　はぁ、意地汚い=
-//今すぐ私の前から消えなさい、愚図=
-//なぁに？　苛めて欲しい？=
+なに？　まだ生きていたの？　はぁ、意地汚い=What? You're still alive? Ha, you're stubborn.
+今すぐ私の前から消えなさい、愚図=Get out of my sight, you dullard.
+なぁに？　苛めて欲しい？=What? You want me to bully you?
 
 //37
-//何故そんなに見つめるのでしょうか=
-//似合いますか？=
-//あ……すみません、あなたに見惚れていました=
+何故そんなに見つめるのでしょうか=Why are you staring at me so much?
+似合いますか？=Does it suit me?
+あ……すみません、あなたに見惚れていました=Ah... I'm sorry, I was lost in your face.
 
 //38
-//見学に来られたのですか？　よろしければご案内しましょうか？=
-//あの、もしかして私……口説かれていますか？=
-//コイカツ中ですか？　ふふ、お疲れ様です=
+見学に来られたのですか？　よろしければご案内しましょうか？=Did you come to visit? Would you like me to show you around?
+あの、もしかして私……口説かれていますか？=Ah, maybe you are... trying to seduce me?
+コイカツ中ですか？　ふふ、お疲れ様です=Are you in Koikatsu? Fufu, thank you for your hard work.
