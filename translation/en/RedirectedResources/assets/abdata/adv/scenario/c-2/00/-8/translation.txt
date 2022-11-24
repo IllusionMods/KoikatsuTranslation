@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「なにか困っていることはないかしら。相談してくれたらアドバイスするわ。いち教師として」=
+「なにか困っていることはないかしら。相談してくれたらアドバイスするわ。いち教師として」=“I wonder if there's anything you're having trouble with. I'll give you advice if you ask me for it. As a teacher.”
