@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「失敗を恐れていたらなにもできないけれど、やるからにはやっぱり成功させたいわよね」=
+「失敗を恐れていたらなにもできないけれど、やるからにはやっぱり成功させたいわよね」=“You can't do anything if you're afraid of failing, but you'd want to succeed if you're going to do it.”
