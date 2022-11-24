@@ -1,3 +1,0 @@
-「おはよう。今日もしっかり勉強するのよ？」=“Good morning, [Hあだ名]. You're gonna study hard today, okay?”
-「ええ、こんにちは」=“Yeah, hi.”
-「さようなら。家での時間も無駄にしないように」=“Goodbye. And don't waste your time at home.”
