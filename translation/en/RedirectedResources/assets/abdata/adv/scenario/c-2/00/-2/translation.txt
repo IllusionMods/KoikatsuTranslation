@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「正直なところ、部活動にばかり執心してほしくはないのだけれど……まあ良いわ。学業が疎かにならないようにしなさいね」=
+「正直なところ、部活動にばかり執心してほしくはないのだけれど……まあ良いわ。学業が疎かにならないようにしなさいね」=“To be honest, I don't want you to always devote your time to your club activities... but that's okay. Don't neglect your schoolwork.”
