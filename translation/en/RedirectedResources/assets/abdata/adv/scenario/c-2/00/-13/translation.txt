@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「教師になるのは、子どもの頃からの目標だったの。最初は夢で、そのうち目標に変わっていったわね」=
+「教師になるのは、子どもの頃からの目標だったの。最初は夢で、そのうち目標に変わっていったわね」=“I've wanted to be a teacher since I was a kid. It started out as a dream, and then it became a goal.”
