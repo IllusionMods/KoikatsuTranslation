@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「一応聞くけど、勉強はきちんと出来てる？　そちらも頑張らなきゃダメよ？」=
+「一応聞くけど、勉強はきちんと出来てる？　そちらも頑張らなきゃダメよ？」=“So, just out of curiosity, are you doing well with your studies?　You're gonna have to work on that too, right?”
