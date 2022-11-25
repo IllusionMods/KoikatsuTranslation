@@ -2,11 +2,11 @@
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
 「いつもお昼はどこで食べてるの？」=“Where do you usually eat lunch?”
-「もうお昼は終わった？　先生はこれからなの」=“Are you done having lunch? I'll be starting mine soon.”
-「男の子なんだから、きっとたくさん食べるのよね？　先生はダイエット中で……サラダだけです……」=“Boys eat a lot, don't they? I'm in the middle of a diet... I can only eat salad...”
-//「ふふっ、部活中は特に男の子って感じがするわね」=
-//「きみの勧誘もずいぶん様になってきてるみたい。どんどん上手になってるわね」=
-//「今度また、部活の話を聞かせてね」=
-//「もうこんな時間よ？　あんまり遅くまで残っちゃわないようにね」=
-//「こんな時間まで頑張ってるのね。きみ、やっぱり努力家ね」=
-//「遅くまで根を詰めて身体を壊しちゃダメよ？　明日出来ることは明日でいいですからね」=
+「もうお昼は終わった？　先生はこれからなの」=“Are you done having lunch? I was just about to eat.”
+「男の子なんだから、きっとたくさん食べるのよね？　先生はダイエット中で……サラダだけです……」=“Boys eat a lot, don't they? I'm on a diet... I can only eat salad...”
+「ふふっ、部活中は特に男の子って感じがするわね」=“Fufu, you feel like a boy especially during club activities.”
+「きみの勧誘もずいぶん様になってきてるみたい。どんどん上手になってるわね」=“You're getting really good at this solicitation thing. You're getting better at it.”
+「今度また、部活の話を聞かせてね」=“Tell me about your club activities again next time.”
+「もうこんな時間よ？　あんまり遅くまで残っちゃわないようにね」=“It's late, isn't it?　I hope you don't stay too late.”
+「こんな時間まで頑張ってるのね。きみ、やっぱり努力家ね」=“You're working so hard at this hour. You're a hard worker.”
+「遅くまで根を詰めて身体を壊しちゃダメよ？　明日出来ることは明日でいいですからね」=“Don't put in the work too late and tire yourself out, okay?　What you can do tomorrow, you can do tomorrow.”
