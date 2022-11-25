@@ -2,7 +2,7 @@
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
 野乃花=Nonoka
-//「ふぅ……きみ、ますます上手になったみたい……」=
-//「本当に自信持っていいわよ。先生が保証してあげる♪」=
-//「もしかして何か悩み事とかある？　それとも疲れてるだけ？」=
-//「こういう時は無理せずに、思い切って休むことも大切よ」=
+「ふぅ……きみ、ますます上手になったみたい……」=“Phew...you're getting better and better at it...”
+「本当に自信持っていいわよ。先生が保証してあげる♪」=“You really should be confident. I assure you♪”
+「もしかして何か悩み事とかある？　それとも疲れてるだけ？」=“Are you worried about something by any chance?　Or are you just tired?”
+「こういう時は無理せずに、思い切って休むことも大切よ」=“In times like this, it's important not to push yourself too hard, and take time to rest.”
