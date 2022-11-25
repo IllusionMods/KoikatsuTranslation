@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「ふふっ、友達みたいな先生だって……それ、褒め言葉なの？　でもね、フレンドリーに接してもらえることは、私としてもすごく嬉しいの。これからも仲良くしてね」=
+「ふふっ、友達みたいな先生だって……それ、褒め言葉なの？　でもね、フレンドリーに接してもらえることは、私としてもすごく嬉しいの。これからも仲良くしてね」=“Fufu, you're like a friend to me...is that a compliment?　Even so, I'm very happy to be treated in a friendly manner. Keep up the good work.”
