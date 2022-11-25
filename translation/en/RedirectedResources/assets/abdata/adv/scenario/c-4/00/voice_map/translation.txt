@@ -1,18 +1,18 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「あら、どうしたの？　先生に用事？」=
-//「職員室に入るのって緊張する？　ふふっ、私も学生の頃はそうだったかも」=
-//「やっぱりきみはどこで見ても目立つなぁ」=
-//「ねぇ、きみが今までに通った学園と比べて、女学園ってどう？　やっぱり全然違うのかしら？」=
-//「廊下、綺麗でしょう？　うちの学生たちって掃除はすごく真面目にやるの。男の子ってどうなのかしら？」=
-//「うーん、男の子も一人きりだと……廊下で騒ぐことも出来ないわよね。あ、ううん、男の子に対する私の勝手なイメージなんだけど……」=
-//「忘れ物忘れ物！　もー、たまには先生も忘れ物します！」=
-//「教室って……何だかちょっと落ち着いちゃうの。みんなの笑顔が見られるからかしら」=
-//「え？　ここにいると先生っぽい？　もう、先生はいつでも先生です！」=
-//「女学園だけあって、学食のメニューもお洒落なものが多いでしょう」=
-//「私のお気に入りはペスカトーレだけど……男の子には足りないかしら？」=
-//「ふふっ、きみだったら二人前くらい食べちゃいそうね」=
-//「あら、今日はここでお勉強？　先生、真面目な子は好きですよ」=
-//「私もちょっと借りたい本があって……ううん、小説じゃなくて雑誌の新刊よ」=
-//「図書室って静かでいいわよね。私、司書にも憧れてるのよ」=
+「あら、どうしたの？　先生に用事？」=“Oh, what's the matter?　You wanted to see me?”
+「職員室に入るのって緊張する？　ふふっ、私も学生の頃はそうだったかも」=“Are you nervous about entering the staff room?　Fufu, I used to be like that too when I was in school.”
+「やっぱりきみはどこで見ても目立つなぁ」=“No matter where I look, you always stand out.”
+「ねぇ、きみが今までに通った学園と比べて、女学園ってどう？　やっぱり全然違うのかしら？」=“Hey, how does a girls' school compare to the schools you've attended in the past?　I wonder if they are totally different after all?”
+「廊下、綺麗でしょう？　うちの学生たちって掃除はすごく真面目にやるの。男の子ってどうなのかしら？」=“Isn't the hallway clean?　The students are so diligent about cleaning. What about the boys?”
+「うーん、男の子も一人きりだと……廊下で騒ぐことも出来ないわよね。あ、ううん、男の子に対する私の勝手なイメージなんだけど……」=“Well, if a boy is alone...he certainly wouldn't be noisy in the hallway. Oh, no, it's just my own image of boys...”
+「忘れ物忘れ物！　もー、たまには先生も忘れ物します！」=“Lost and Found!　Tsk, occasionally, teachers forget things too!”
+「教室って……何だかちょっと落ち着いちゃうの。みんなの笑顔が見られるからかしら」=“Classrooms are...are a little calming for some reason. I think it's because I can see the smiles on everyone's faces.”
+「え？　ここにいると先生っぽい？　もう、先生はいつでも先生です！」=“Hmm?　Do I look like a teacher here? Tsk, once you're a teacher now, you'll always be a teacher!”
+「女学園だけあって、学食のメニューもお洒落なものが多いでしょう」=“Because it's a girls' school, the school cafeteria menu has many stylish dishes.”
+「私のお気に入りはペスカトーレだけど……男の子には足りないかしら？」=“My favorite is pescatore...but I'm not sure if it's enough for the boys?”
+「ふふっ、きみだったら二人前くらい食べちゃいそうね」=“Fufu, I'm sure you could eat two of those.”
+「あら、今日はここでお勉強？　先生、真面目な子は好きですよ」=“Oh, are you studying here today?　I like serious students.”
+「私もちょっと借りたい本があって……ううん、小説じゃなくて雑誌の新刊よ」=“I also have a book I'd like to borrow for a bit... No, it's not a novel, it's a new issue of a magazine.”
+「図書室って静かでいいわよね。私、司書にも憧れてるのよ」=“I like the quiet in the library. I've always wanted to be a librarian too.”
