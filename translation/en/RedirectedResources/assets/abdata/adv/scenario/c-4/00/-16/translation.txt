@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「きみとは色々な意味で近しくなれたわね。教え子とこんなに仲良くなれるなんて、先生、嬉しいなぁ」=
+「きみとは色々な意味で近しくなれたわね。教え子とこんなに仲良くなれるなんて、先生、嬉しいなぁ」=“You and I have become closer in many ways. As a teacher, I'm so happy that I can get along with my students like this.”
