@@ -3,8 +3,8 @@
 //
 「あのー、今ちょっといいですか？」=“Hey, do you have a moment?”
 「あら、君が例の男の子ね♪　私に声を掛けるなんて、見る目あるぅ」=“Oh my, so you're that boy, huh?♪ For you to call out to me, you must have quite the eye~”
-「自己紹介が先ですよね。俺は[P名前]っていいます」=“Shall we introduce ourselves? I go by [P名前].”
+「自己紹介が先ですよね。俺は[P名前]っていいます」=“We should introduce ourselves. My name is [P名前].”
 「敬語なんていいわよ。もっとラフにいきましょ」=“You don't need to be so formal. Let's be more casual with each other.”
-「ホント？　それは助かるな」=“For real? That'd be a lifesaver.”
+「ホント？　それは助かるな」=“Really? That'd be a lifesaver.”
 「わからないことがあったら何でも聞いてちょうだい」=“If there's something you need help with, then feel free to ask.”
 （優しい人で良かった！　まずは何を話そう……？）=(I'm so glad she's a nice girl! Let's see, what shall we talk about...?)
