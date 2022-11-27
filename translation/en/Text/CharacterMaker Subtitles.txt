@@ -1,12 +1,12 @@
 //00
-私に声を掛けるなんて、見る目あるぅ=Coming after me? You've got a good eye.
-ここは女の子のヒミツの花園よ♡=This garden of delights is for ladies only♡
+私に声を掛けるなんて、見る目あるぅ=For you to call out to me, you must have quite the eye~
+ここは女の子のヒミツの花園よ♡=This is a secret garden only for girls♡
 そこは敏感なの……=That's sensitive...
 
 //01
 その……よろしくお願いしますね=Um... It's a pleasure to meet you.
-お疲れ様です=Good work today
-もしよろしければこの後……い、いえ、なんでもありません！　失礼します！=If you're not busy after this, why don't we, erm—\nN-nothing! It's nothing! Goodbye!
+お疲れ様です=Good work today.
+もしよろしければこの後……い、いえ、なんでもありません！　失礼します！=If it's alright, after this, we could... n-no, it's nothing! Do excuse me!
 
 //02
 いいこと？　決してわたくしを退屈をさせないようになさってね=But, just so we're clear! I will not tolerate dull conversation.
@@ -59,14 +59,14 @@
 あなたも年頃なんだもの、我慢する必要はないのよ=You're around that age, aren't you? It isn't healthy to hold it in, you know!
 
 //12
-はいはいよろしく。てか、なんか固くない？　緊張してる？=Sure, right back at ya. You're looking pretty high-strung, though. Nervous?
-おーい、鼻の下伸びてるぞー=*ahem* Gawking much? Best cut that out if you're smart.
+はいはいよろしく。てか、なんか固くない？　緊張してる？=Yeah yeah, right back at ya. You're looking pretty high-strung, though. Nervous?
+おーい、鼻の下伸びてるぞー=Oi, I can see that shitty grin, you know?
 男から見てあたしの体って……どう？=Y-You're a guy, right? Would you say I'm... sexy?
 
 //13
-キミとアタシでデート？　それすっごい楽しそうじゃん！=Omg, you and me on a DATE? That'd be totally lit!!
-女の子に興味あるんだ？　あは、顔真っ赤だよ？=Do you like girls? Ha, your face is totally red right now!
-セクハラはダ～メ=Wow, this is like, totally harassment.
+キミとアタシでデート？　それすっごい楽しそうじゃん！=You and me, on a date? That sounds super fun!
+女の子に興味あるんだ？　あは、顔真っ赤だよ？=You have an interest in girls? Aha, your face's all red, you know?
+セクハラはダ～メ=Sexual harassment is bad, you know~.
 
 //14
 いいぜ。暇つぶしに付き合ってやるよ=Why not. Got nothin' better to do.
@@ -120,7 +120,7 @@
 
 //24
 あなたを見守っていたら、すぐに一日が過ぎてしまいました=The day passes by so quickly when I'm following you.
-ずっと夢に見ていました♡=I've always dreamed about this moment.♡
+ずっと夢に見ていました♡=I've always dreamed about this moment♡
 もしかして、他の子とするんですか……？=Oh. Are you... going to do it with another girl instead?
 
 //25
