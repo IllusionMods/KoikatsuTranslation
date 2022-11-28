@@ -10,7 +10,7 @@
 「生徒だけじゃなく、先生たちのチェックも私の役目よ」=“It's my job to check on the teachers as well as the students.”
 「休み時間だからと言って、あまりはしゃぎすぎないように。わかった？」=“Don't get too excited just because it's your day off. Understand?”
 「短時間の仮眠は作業効率を上げると言われているわね。でも、授業中の居眠りは厳禁よ」=“It's said that taking a short nap improves work efficiency. But you mustn't doze off in class.”
-「本当は、手早く済ませられる食事が良いのだけど……こういう時くらいゆっくりするべきなのかしら……」=“Honestly, I'd rather prefer a quick meal, but... maybe I should take it easy at times like this...”
+「本当は、手早く済ませられる食事が良いのだけど……こういう時くらいゆっくりするべきなのかしら……」=“Honestly, I'd prefer a quick meal, but... maybe I should take it easy at times like this...”
 「食後に眠気が襲ってくるのは、勘弁してほしいわね」=“I hope you don't get drowsy after eating.”
 「先生たちの中でも、学食を利用する人は多いわね」=“Of all the teachers, I know a lot of them use the school cafeteria.”
 「集中できないときは、場所を変えて勉強するのも方法の一つ。そう言う意味でも図書室は有用な施設だと思うわ」=“One of the ways to study when you can't concentrate is to change the place to study. In that sense, I think the library is a useful facility.”
