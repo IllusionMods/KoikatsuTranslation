@@ -2,7 +2,7 @@
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
 「ねぇ君、ちょっといいかな。コイカツ部の[P姓]って言うんだけど……」=“Hey, do you have a moment? I'm [P姓], from the Koikatsu club...”
-「Ｗｈａｔ！？　お、オトコノコ！？　デモココは……アッ！　モシカシテ、Ｎｉｎｊａさんデスカ！？」=“<What!?> A-A boy!? But this is... Ah--! Perhaps, are you a <Ninja>!?”
+「Ｗｈａｔ！？　お、オトコノコ！？　デモココは……アッ！　モシカシテ、Ｎｉｎｊａさんデスカ！？」=“<What>!? A-A boy!? But this is... Ah--! Perhaps, are you a <Ninja>!?”
 「いや、一応ここの学生なんだけど……もしかして留学生？」=“No, for what it's worth, I am a student here, but... are you perhaps a foreign exchange student?”
 「Ｎｏ，転入生デース。ワタシ、ニッポン生まれケド、ズット海外デシタ。ダカラ言葉、オベンキョ中デース」=“<No>, I'm a transfer student. I was born in Japan, but I've been abroad for the longest time. That's why, I'm still learning the language.”
 （つまり、帰国子女ってことか、なるほど）=(So basically she's a returnee, I see.)
