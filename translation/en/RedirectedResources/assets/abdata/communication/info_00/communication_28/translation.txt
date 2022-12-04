@@ -1,13 +1,13 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「のわっ！？　何をしておる！　ここは女子トイレじゃぞ！」=
-//「のじゃっ！？　み、見るでないっ！」=
-//「わしは忙しいのじゃ、後にするのじゃ」=
-//「……何じゃ？　用があるなら早う言わんか」=
-//「すまんな。ちと用事があってな」=
-//「んー……王手っ……なのじゃ」=
-//「な、なんじゃっ！？　あっち向くのじゃ！」=
+「のわっ！？　何をしておる！　ここは女子トイレじゃぞ！」=“Nowah!?　What are you doing!?　This is the ladies' restroom!”
+「のじゃっ！？　み、見るでないっ！」=“What!?　Hey, don't look!”
+「わしは忙しいのじゃ、後にするのじゃ」=“I am busy, so we shall do this later.”
+「……何じゃ？　用があるなら早う言わんか」=“... what is it?　If you have something to say, make it quick.”
+「すまんな。ちと用事があってな」=“Apologies. I have some business to attend to.”
+「んー……王手っ……なのじゃ」=“Mmm... checkmate... I believe.”
+「な、なんじゃっ！？　あっち向くのじゃ！」=“W-what is it?　Look the other way!”
 //「そんなに見るでない……恥ずかしいではないかっ」=
 //「やっぱり畳は気持ちがいいのう。お主もどうじゃ？」=
 //「やや、そこにおったのか。どうしたのじゃ？」=
@@ -73,13 +73,13 @@
 「クールな男性ってどう思う？」=“What do you think of cool guys?”
 //「冷静であれば何事にも動じず安心じゃな」=
 //「冷たすぎてもよくないのじゃ。心は温かく、じゃな」=
-「女友達とエッチな話とかしたりする？」=“Do you talk about lewd stuff with your girl friends?”
+「女友達とエッチな話とかしたりする？」=“Do you talk about naughty stuff with your girl friends?”
 //「な、何を聞いておるのじゃ。秘密じゃ」=
 //「お主には言えないのじゃっ。内緒なのじゃっ」=
 「具体的にエッチってどんなことするか知ってる？」=“Do you know exactly what sort of act sex is?”
 //「わ、わしに聞くのか？　それは……その、じゃな」=
 //「く、詳しくは言えないのじゃ。教えないのじゃっ」=
-「りょ、両親のエッチとか見ちゃった思い出とかある？」=“H-Have any memories of seeing your parents doing it?”
+「りょ、両親のエッチとか見ちゃった思い出とかある？」=“Ah, do you have any memories of seeing your parents doing it?”
 //「そ、そんなことはあっても言えないのじゃ」=
 //「な、何を聞くのじゃっ。……す、少しだけなら、って言わすでないっ」=
 //「この話はもうよいのじゃ。次は何について話すのじゃ？」=
