@@ -1,10 +1,3 @@
-「のわっ！？　何をしておる！　ここは女子トイレじゃぞ！」=“Wah!　What are you doing!?　This is the ladies' restroom!”
-「のじゃっ！？　み、見るでないっ！」=“What!?　Hey, don't look!”
-「わしは忙しいのじゃ、後にするのじゃ」=“I'm busy, you'll have to wait.”
-「……何じゃ？　用があるなら早う言わんか」=“... what?　If you have something to say, say it quickly.”
-「すまんな。ちと用事があってな」=“I'm sorry. I've got some business to attend to.”
-「んー……王手っ……なのじゃ」=“Mmm... is the king's hand...”
-「な、なんじゃっ！？　あっち向くのじゃ！」=“What is it?　What is it?”
 「そんなに見るでない……恥ずかしいではないかっ」=“Don't look so ... embarrassed!”
 「やっぱり畳は気持ちがいいのう。お主もどうじゃ？」=“The first thing you need to do is to get a good idea of what you want to do. The first thing you need to do is to get a good idea of what you're looking for.”
 「やや、そこにおったのか。どうしたのじゃ？」=“There you are. What's the matter?”
