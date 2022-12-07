@@ -1,5 +1,0 @@
-「やあ、[H姓]さん。ごきげんよう」=“Hi, [H姓]. Hi, [H姓].”
-「ええ、ごきげんよう。何かご用事かしら？」=“Yeah, have a good night. Can I help you?”
-「あー、いや、まあ、ちょっと挨拶がてら世間話でもって……」=“Uh, no, well, I just wanted to say hi and make small talk...”
-「いい心がけね。では殿方らしく、エレガントな話題を提供なさい」=“That's very good of you. Then, like a gentleman, you'll have to broach the subject elegantly.”
-「エ、エレガントな話題、ねぇ……」=“E, elegant topic, hey ...”
