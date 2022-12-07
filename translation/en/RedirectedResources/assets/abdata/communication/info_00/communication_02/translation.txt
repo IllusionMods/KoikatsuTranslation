@@ -3,11 +3,11 @@
 //
 「あら、ここは殿方用ではありませんわ。出ていっていだけて？」=“Oh, this is no place for gentlemen. Would you care to leave?”
 「ここは女性専用ですわ！　出ていってちょうだい！」=“This is a ladies-only area!　Get out of here!”
-「失敬。今時間がありませんの。ごめんあそばせ」=“Pardon me. I don't have time right now. I'm sorry.”
-「よくもまあ、わたくしの前に顔を出せたものですわねぇ……呆れますわ」=“How dare you show your face to me... it's appalling.”
-「失礼、またのちほどお伺いいたしますわ」=“Excuse me, I'll come back later.”
+「失敬。今時間がありませんの。ごめんあそばせ」=“Apologies. I have no time right now. I beg your pardon.”
+「よくもまあ、わたくしの前に顔を出せたものですわねぇ……呆れますわ」=“How dare you show your face to me... it is appalling.”
+「失礼、またのちほどお伺いいたしますわ」=“Excuse me, I shall come back to it later.”
 「すー……すー……くふふ、皆わたくしにひれ伏しなさい……」=*snore*... *snore*... “Kufufu, bow to me, all of you...”
-「今、お召し替えの最中ですの。ごめんあそばせ」=“I'm in the middle of a change of clothes now. I'm sorry.”
+「今、お召し替えの最中ですの。ごめんあそばせ」=“I am in the middle of a change of clothes now. I beg your pardon.”
 //「おーっほっほっほ、似合うでしょう？　褒めてよろしくてよ」=
 //「ここ、素敵な場所でしょう？　わたくしに相応しいわ！」=
 //「おーっほっほっほ、わたくしに何か御用かしら？」=
