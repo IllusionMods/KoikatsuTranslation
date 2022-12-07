@@ -2,7 +2,7 @@
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
 「とりあえず……こんなもんかな」=“Right, that's that for now, I guess.”
-ある程度の片づけを終えたところで、これから生活する自室を見渡す。=After a bit of cleaning, I took a look around the room that's soon to be mine.
+ある程度の片づけを終えたところで、これから生活する自室を見渡す。=After a bit of cleaning, I looked around the room that'll soon be mine.
 「明日から新しい学園での生活が始まるのか」=“A new school life is starting tomorrow.”
 一息つきながら、真新しい制服を見つめる。=Taking a deep breath, I looked at my spiffy new uniform.
 ――――=――――
@@ -11,7 +11,7 @@
 両親は海外に、俺は叔母の家の近くに建つアパートで独り暮らしをすることになった。=We decided that I'll live in an apartment near my aunt's while my parents are overseas.
 転勤族であるうちの家族は、これまで何度か引っ越しを経験している。=We have relocated many times up until now due to the nature of my parents' work.
 しかし、海外転勤は初めてのことで、俺にとって独り暮らしも初めての事だった。=But this is the first time relocating overseas, and also the first time that I'll live by myself.
-クラスメイトと仲良くなれるだろうか、友達はできるだろうか。=Will I be able to get along with everyone? Will I be able to make new friends?
+クラスメイトと仲良くなれるだろうか、友達はできるだろうか。=Will I get along with everyone? Will I be able to make new friends?
 期待、不安、色んな気持ちが頭をかすめていく。=Hope, worries, and all sorts of emotions swirl inside my head.
 （……………………）=(...)
 「ん……電話だ」=“Hmm... a phone call.”
@@ -28,9 +28,9 @@
 きっと、一人で引っ越し作業を行う俺の心配をして電話をかけてきてくれたのだろう。=She must be worried that I'm moving in all by myself.
 『まあ、色々よ。それで、明日からの学園生活はうまく過ごせそう？』=“Well, a bit of this and a bit of that. That aside, do you think you can fit in well at school tomorrow?”
 「さぁね……でも、早めにクラスの皆と仲良くなれるようにしたいよ」=“Not sure either... but, I do want to get along with the class.”
-『うんうん、いい心がけよ』=“Uh huh, that's a good mentality to have.”
+『うんうん、いい心がけよ』=“Uh-huh, that's a good mentality to have.”
 『あなた以外、女の子しかいないから大変だと思うけど、頑張ってちょうだいね』=“It's going to be tough with everyone else being girls, but stay strong, okay?”
-「そうだね。俺以外は女の子だけど……って、ちょっと待った！！」=“Yeah I know. With everyone else being girls... Wait a minute!!”
+「そうだね。俺以外は女の子だけど……って、ちょっと待った！！」=“I know. With everyone else being girls... Wait a minute!!”
 さらっと聞き捨てならないことを言ってのけた叔母さんの言葉を慌てて遮る。=I immediately stopped my aunt after hearing the ominous phrase.
 『あら？　どうかしたの？』=“Oh? Is something wrong?”
 「俺……以外、女の子しか……いない……？」=“Everyone else... being... girls?”
@@ -38,7 +38,7 @@
 「初耳だよ！？　どういうこと！？」=“No!? What's this all about!?”
 『そうねぇ……それじゃあ説明するからちゃんと聞いてね』=“I see... Well, I'll explain it to you so listen carefully, okay?”
 『おほん、えー、あなたが通う学園は女学園です。そして、男の子はあなた一人。はい、説明終わり』=“Ahem, eeh, your new school is an all-girls school. You're the only boy. There, end of story.”
-「説明終わり――って、全然意味分かんないって！　女学園！？　男は俺一人！？」=“End of story- Wait, what the heck!? All-girls school!? I'm the only boy!?”
+「説明終わり――って、全然意味分かんないって！　女学園！？　男は俺一人！？」=“End of story—wait, that doesn't make any sense! All-girls school!? I'm the only boy!?”
 『うーん……ちゃんと伝えてなかった私が悪いけど、これは決定事項だから取り消すことはできないの』=“Well, it's kinda my fault that I didn't tell you properly, but this has already been decided so no turning back.”
 「そんな……もっと早めに教えてほしかったよ……」=“Come on... You should have told me stuff like this sooner.”
 『女学園ってことを知らないなら、私があなたに、この学園に通ってほしい理由とかも話してないかしら？』=“If you didn't know that it's an all-girls school, then I guess you don't know why I'm sending you there, right?”
@@ -55,13 +55,13 @@
 「俺と恋愛！？」=“Lovey-dovey!?”
 『あくまで恋愛ごっこ。恋愛の体験でいいの』=“Just to be clear, it's purely for academic purposes. You don't have to go past first base.”
 『部活を作って女の子たちと積極的にスキンシップをとって、男の人に慣れてもらってほしいの』=“To be precise, I want you to create a club that focuses on skinship between males and females, and through it, let them get to know what a boy is.”
-「そんなこと、急に言われたって……」=“Okay, but, it's so sudden and I...”
+「そんなこと、急に言われたって……」=“Okay, but it's so sudden and I...”
 『協力をお願いできるかしら？』=“Can I count on you?”
 （……何だかとんでもない話になったな）=(...Well, things have taken an unexpected turn, haven't they?)
 正直、俺は今混乱していてまともな判断ができていない。=Frankly, my head is still trying to sort everything out and can't make a proper decision right now.
 男性になれていない女の子達を慣れさせるため、俺に実験台になれと。=I have to be a guinea pig for girls to get to know boys.
 叔母さんの言いたいことは分からないでもない……？　が、なんというか……。=Not that I don't understand what my aunt's saying. But, it's just...
-「……女学園に男の俺が通って、さらに恋愛までしていいの？」=“Are you sure that it's okay for me to go to an all-girls school, and be lovey-dovey on top of that?”
+「……女学園に男の俺が通って、さらに恋愛までしていいの？」=“Are you sure it's okay for me, a guy, to go to an all-girls school, and be lovey-dovey on top of that?”
 『いいの。むしろそれをお願いしてるの』=“Of course. In fact, I'm asking you to do it.”
 今さら別の学園に通うことはできない……ここは腹をくくろう。=Well, I also can't change schools this late now...looks like I have no other choice.
 「はぁ……分かった。うまくできるか分からないけど、女の子たちが男性に慣れるよう協力するよ」=“Haah...okay, I get it. Not sure how I'll fare, but I'll try my best.”
@@ -81,6 +81,6 @@
 お風呂から上がり、ある程度片付いた自室へと戻る。=After a long and relaxing bath, I went back to my mostly tidy room.
 「こんな時間か。寝るにはちょっと早いけど」=“It's this late already. Still a bit too early for sleep, but...”
 明日から学園生活が始まる。=Tomorrow marks the beginning of a new school life.
-叔母さんに言われた通り、今日は早めに寝ることにしよう。=I should probably follow my aunt's advice and call it early.
+叔母さんに言われた通り、今日は早めに寝ることにしよう。=I should follow my aunt's advice and call it early.
 「おやすみ」=“Good night.”
 ベッドに入るとすぐに睡魔がやってきた。今夜はぐっすり眠れそうだ。=As soon as I dove into bed, sleepiness set in. Looks like I'll sleep well tonight.
