@@ -49,19 +49,19 @@
 そんなにじろじろ見ないで。恥ずかしいじゃないの！=Don't stare so much. It's embarrassing!
 
 //10
-汝に興味が湧いた……=Thou hast piqued my interest.
-きたるべき神との大戦に備えねば！=Yes, we must hone our skills for the prophesized war against the accursed Gods of Light!
-ちょ、ちょっとその話は、我には過激すぎるぞ=Th-That topic is far too titillating for one such as I. I... don't mind, however.
+汝に興味が湧いた……=My interest in thee grows...
+きたるべき神との大戦に備えねば！=We must prepare for the upcoming war against the gods!
+ちょ、ちょっとその話は、我には過激すぎるぞ=Th-That topic is a bit too extreme for me.
 
 //11
 おマセさんねぇ=What a curious young man!
-子供は元気が一番よね～=Playtime is important for growing up healthy and strong!
-あなたも年頃なんだもの、我慢する必要はないのよ=You're around that age, aren't you? It isn't healthy to hold it in, you know!
+子供は元気が一番よね～=Kids are very energetic, don't you think~?
+あなたも年頃なんだもの、我慢する必要はないのよ=You're also around that age, so you don't have to hold it in.
 
 //12
 はいはいよろしく。てか、なんか固くない？　緊張してる？=Yeah yeah, right back at ya. You're looking pretty high-strung, though. Nervous?
 おーい、鼻の下伸びてるぞー=Oi, I can see that shitty grin, you know?
-男から見てあたしの体って……どう？=Y-You're a guy, right? Would you say I'm... sexy?
+男から見てあたしの体って……どう？=From a guy's point of view, how does my... body look?
 
 //13
 キミとアタシでデート？　それすっごい楽しそうじゃん！=You and me, on a date? That sounds super fun!
@@ -69,14 +69,14 @@
 セクハラはダ～メ=Sexual harassment is bad, you know~.
 
 //14
-いいぜ。暇つぶしに付き合ってやるよ=Why not. Got nothin' better to do.
+いいぜ。暇つぶしに付き合ってやるよ=Sure. Don't mind killin' some time.
 あんま、教室で話しかけんなよ=Don't talk to me in class.
-その……この後とかお前予定あんのか……？=So, um... Got any plans after this?
+その……この後とかお前予定あんのか……？=Umm... got any plans after this?
 
 //15
-クンクン、クンクン。怪しいニオイが……=*sniff sniff* ... Hmm, you smell kinda fishy.
-すっごく恥ずかしいのに、なんでかいつもより興奮したぞ=I was so turned on, even though it was risky.
-ヤラしーこと考えてるにおいだぞ=You're thinking about sex! I can smell it all over you!
+クンクン、クンクン。怪しいニオイが……=*sniff* *sniff*. Smells fishy.
+すっごく恥ずかしいのに、なんでかいつもより興奮したぞ=Even though it was so embarrassing, I feel like I got way more aroused than usual.
+ヤラしーこと考えてるにおいだぞ=Smells like you're thinking about sex!
 
 //16
 男は低俗と聞いていたけれど、ここまで見境がないなんて=I heard men could be vulgar, but to think you'd lack that much sense.
@@ -89,57 +89,57 @@
 あなた変態ね……=You're a pervert alright...
 
 //18
-す、すみません。男の人とちゃんと喋るのははじめてで……=I-I'm sorry. I've never really talked to a boy before.
+す、すみません。男の人とちゃんと喋るのははじめてで……=I-I'm sorry. It's my first time properly talking with a boy...
 私が勉強したところは絶対にテストに出ないんですよね……=Nothing I study ever appears on the test...
-不安な時は強く抱きしめて欲しいです=If ever I look uneasy, just hold me tight, okay?
+不安な時は強く抱きしめて欲しいです=If I ever look uneasy, I want you to just hold me tight.
 
 //19
-なんだか、小説の主人公になったみたい……=Characters in the stories do things like this all the time.
-今は本を読みたいから、できれば遠慮したいかな……=I hope you don't mind, but I'm really in the mood to read.
-いらっしゃい。今日はどんな物語を紡ぎましょうか……=Welcome. What tale will our love weave today, I wonder?
+なんだか、小説の主人公になったみたい……=It kinda feels like I've become the protagonist of a novel...
+今は本を読みたいから、できれば遠慮したいかな……=I'd rather read a book right now, so I'll have to pass if possible...
+いらっしゃい。今日はどんな物語を紡ぎましょうか……=Welcome. What sort of tale shall we spin today...?
 
 //20
-男の人と一緒に勉強したことがないので、緊張します……=I've never studied with a boy before... This is scary...
-きゃっ！？　あ、あなたでしたか……=Eeep! O-Oh, it was just you.
-あなたのためにも私……もっと女の魅力……磨きますからね……=I'll try to, um... sexy myself up more for you...
+男の人と一緒に勉強したことがないので、緊張します……=I've never studied with a boy before, so I'm nervous...
+きゃっ！？　あ、あなたでしたか……=Eeep!? S-so it was you...
+あなたのためにも私……もっと女の魅力……磨きますからね……=For you... I'll try to... become a more charming girl...
 
 //21
-あ、噂の男の子だ。はじめまして=Ah, the much-rumored boy on campus. Nice to meet you.
+あ、噂の男の子だ。はじめまして=Ah, it's the boy I heard rumors about. Nice to meet you.
 あ、キミも気分転換？=Oh, are you here to clear your head too?
-あ、今エッチなこと考えてたでしょ=Hey, you're about to ask something rude, aren't you?
+あ、今エッチなこと考えてたでしょ=Hey, you're just thinking about sex, right?
 
 //22
 コイカツ部、ずっと興味あったんだ！=I've always been interested in the Koikatsu club!
-ただひたすら情報収集！　これに尽きるよー=You just gotta dig for information, that's all!
-君とお話すると、何だかドキドキしちゃうんだ……えへへ=My heart starts pounding when I talk with you... *giggle*
+ただひたすら情報収集！　これに尽きるよー=Just plain old information gathering! That's all.
+君とお話すると、何だかドキドキしちゃうんだ……えへへ=My heart starts pounding when I talk with you... ehehe.
 
 //23
-ゲームやアニメの話もまだ話したいことあるんだ=There're so many games and anime we have to talk about.
+ゲームやアニメの話もまだ話したいことあるんだ=I still wanna talk lots about anime and games.
 ネトゲはいいですぞー=Online games are amazing!
-変わった部活動は青春の醍醐味、アニメの定番……=A peculiar school club where students end up exploring the charms of youth.\nA classic trope.
+変わった部活動は青春の醍醐味、アニメの定番……=Odd club activities about the charms of youth, an anime classic.
 
 //24
-あなたを見守っていたら、すぐに一日が過ぎてしまいました=The day passes by so quickly when I'm following you.
-ずっと夢に見ていました♡=I've always dreamed about this moment♡
-もしかして、他の子とするんですか……？=Oh. Are you... going to do it with another girl instead?
+あなたを見守っていたら、すぐに一日が過ぎてしまいました=I turned my head to look at you and before I knew it, the day flew by.
+ずっと夢に見ていました♡=It's been my dream for the longest time♡
+もしかして、他の子とするんですか……？=By any chance, are you going to do it with another girl...?
 
 //25
-……ダルいんで無理っす=I'm too tired to deal with this.
-その誘い方、まさかナンパっすか？=Wait, are you hitting on me?
-みんなのやる気が下がる～？　やる気は個人の問題だと思うんだけどな～=I bring everyone down? Your mood isn't my problem.
+……ダルいんで無理っす=...it's a pain so I can't.
+その誘い方、まさかナンパっすか？=That way of asking, are you hitting on me?
+みんなのやる気が下がる～？　やる気は個人の問題だと思うんだけどな～=Everyone gets demotivated too~? I think motivation is everyone's own personal problem though~
 
 //26
-……あなたと話す時間は、楽しいから好き=...Talking with you is fun. So, I like it.
-……ちょっと、疲れた=...Kinda tired.
-……今日もお話、聞かせて……？=...Keep me company?
+……あなたと話す時間は、楽しいから好き=...Spending time chatting with you is fun, so I like it.
+……ちょっと、疲れた=...I'm a bit, tired.
+……今日もお話、聞かせて……？=...tell me, lots of stuff today...?
 
 //27
-……な、何？　私に聞きたいことでもあるの？=...S-So? What did you want to talk about?
-わ～っ！　あんた馬鹿！？=Whaa! Are you crazy?!
-もしかして、このままキス……だ、ダメ！　まだダメぇっ！=Hang on, are we about to kiss...? S-Stop it! I'm not ready yet!
+……な、何？　私に聞きたいことでもあるの？=...Wh-What? Is there something you want to ask me?
+わ～っ！　あんた馬鹿！？=Wah! Are you an idiot?!
+もしかして、このままキス……だ、ダメ！　まだダメぇっ！=Hang on, are we about to kiss...? N-no! I'm not ready yet!
 
 //28
-おぉっ！　お主が噂の男子じゃな！=Ho, so you are the boy the rumors speak of!
+おぉっ！　お主が噂の男子じゃな！=Oh! So you are the boy the rumors speak of!
 お主にわしを楽しませることができるか見ものじゃな=Oho, really? Let us see if you have the skill to surprise one such as I.
 おや、どうした？　何か用かの？=Ho? You seek my council?
 
@@ -169,9 +169,9 @@
 今なら誰もいないし、少しぐらいなら平気よ？=Right now, there's no one, so a little bit's fine, you know?
 
 //34
-Ｈｕｇシマショー♪=Let's hug♪
-Ｏｈ！　Ｎｉｎｊａさん、ココはお忍び禁止デスヨ！？=Oh! Ninja-san, you're not allowed to sneak around in this place, you know!?
-Ｈｉｙａ，Ｍｙ　ｓｗｅｅｔ♡=Hiya, my sweet♡
+Ｈｕｇシマショー♪=Let's <hug>♪
+Ｏｈ！　Ｎｉｎｊａさん、ココはお忍び禁止デスヨ！？=<Oh! Ninja>-san, you're not allowed to sneak around in this place, you know!?
+Ｈｉｙａ，Ｍｙ　ｓｗｅｅｔ♡=<Hiya, my sweet>♡
 
 //35
 今日も一日お疲れさまっ！　私も頑張ったけん、ほめてほめて～=Good work today too! I did my best, so praise me, praise me~
