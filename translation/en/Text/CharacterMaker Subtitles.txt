@@ -29,24 +29,24 @@
 一緒にメッセージ、探そっか！=Let's look for messages together!
 
 //06
-初めまして。お噂はかねがね伺っております=Certainly. It is nice to meet you at last. I have heard the rumors.
-その…殿方と目を合わせるのは、慣れていないもので……=I... am not accustomed to meeting a man's gaze.
-何故か、貴方のにおいがすると、胸がドキドキして=Something about the way you smell makes my heart beat with excitement...
+初めまして。お噂はかねがね伺っております=It is nice to meet you. I have heard rumors of you for a while.
+その…殿方と目を合わせるのは、慣れていないもので……=Umm... I am still not used to, meeting a man's gaze.
+何故か、貴方のにおいがすると、胸がドキドキして=For some reason, when I smell you, my heart throbs...
 
 //07
-いいぜ、私でよければなんでも聞けよな！=Huh. Why not? I'm down to chat.
-私ってそんなに男っぽいのか？=Do I really look that much like a boy?
-ちょっとづつ、お前のこと分かってきた気がするよ=I'm starting to feel like I get you.
+いいぜ、私でよければなんでも聞けよな！=Sure. Why not? Ask away!
+私ってそんなに男っぽいのか？=Do I really look that manly?
+ちょっとづつ、お前のこと分かってきた気がするよ=Bit by bit, I feel like I'm starting to get you.
 
 //08
-初めまして、よろしくねぇ=It's nice to meet you.
-少しだけあなたに興味が沸いてきたみたいなの=I think I'm kinda interested in you.
-手を握るのはまだダメだってば=I thought I told you it's too soon for us to hold hands!
+初めまして、よろしくねぇ=Nice to meet you, please take care of me.
+少しだけあなたに興味が沸いてきたみたいなの=I think I've become a bit curious about you.
+手を握るのはまだダメだってば=It's still too early for us to hold hands!
 
 //09
-まあ、あんたとだったら一緒に勉強するのも悪くないわね=Hmm, studying with you might be a bright idea!
-バカ！　嫌いなんて言ってないでしょ！=Dummy! I didn't say that at all!
-そんなにじろじろ見ないで。恥ずかしいじゃないの！=Stop staring at me like that! I'm getting all embarrassed!
+まあ、あんたとだったら一緒に勉強するのも悪くないわね=Well, if it's with you, studying together might not be so bad.
+バカ！　嫌いなんて言ってないでしょ！=Dummy! I didn't say I don't like you!
+そんなにじろじろ見ないで。恥ずかしいじゃないの！=Don't stare so much. It's embarrassing!
 
 //10
 汝に興味が湧いた……=Thou hast piqued my interest.
