@@ -9,24 +9,24 @@
 もしよろしければこの後……い、いえ、なんでもありません！　失礼します！=If it's alright, after this, we could... n-no, it's nothing! Do excuse me!
 
 //02
-いいこと？　決してわたくしを退屈をさせないようになさってね=But, just so we're clear! I will not tolerate dull conversation.
-当然ですわ。だってこのわたくしなんですもの=Of course I am. I couldn't be anything but!\nI'm simply glad you noticed.
-わたくしに釣り合う男性など滅多におりませんわ=Few men are worthy of my attention.
+いいこと？　決してわたくしを退屈をさせないようになさってね=But, you must never bore me.
+当然ですわ。だってこのわたくしなんですもの=It's only natural. Because it is me and none other, after all.
+わたくしに釣り合う男性など滅多におりませんわ=Rarely do I find a man who is worthy of me.
 
 //03
-今日はいっぱい頑張るですよ！=Yes! Let's study lots and lots today!
-恥ずかしい……です……=Um... Stuff like that gets me all frazzled.
-は、ハレンチなのです……=Th-That's so... naughty!
+今日はいっぱい頑張るですよ！=I'm going to go all out today!
+恥ずかしい……です……=It's... embarrassing...
+は、ハレンチなのです……=Th-That's so naughty...
 
 //04
-……なんとなく、あなたが来る気がしたの=How strange. Something told me I'd see you here.
-誰にだって秘密はあると思うわ=I'm pretty sure everyone has one or two skeletons in their closet.
-あなたになら、私の全部をさらけ出せるかも……=Something tells me opening up to you might not be so bad.
+……なんとなく、あなたが来る気がしたの=...for some reason, I just knew you'd come here.
+誰にだって秘密はあると思うわ=I guess we all have secrets of our own.
+あなたになら、私の全部をさらけ出せるかも……=If it's you, I could show my everything...
 
 //05
-宇宙にはわたしの仲間――“かれら”がいるの=From my brothers and sisters in the stars.
+宇宙にはわたしの仲間――“かれら”がいるの=“They” are my friends in the universe.
 あなたと……交信したい……=I want to... exchange transmissions.
-一緒にメッセージ、探そっか！=Let's go search for any messages they might have sent!
+一緒にメッセージ、探そっか！=Let's look for messages together!
 
 //06
 初めまして。お噂はかねがね伺っております=Certainly. It is nice to meet you at last. I have heard the rumors.
@@ -79,14 +79,14 @@
 ヤラしーこと考えてるにおいだぞ=You're thinking about sex! I can smell it all over you!
 
 //16
-男は低俗と聞いていたけれど、ここまで見境がないなんて=I heard men could be vulgar, but you? You're scum.
-私は人間観察が趣味なの=My hobby is people-watching.
-アナタといる事に価値を見出せない、私は忙しいの=I see no value in interacting with you. Goodbye.
+男は低俗と聞いていたけれど、ここまで見境がないなんて=I heard men could be vulgar, but to think you'd lack that much sense.
+私は人間観察が趣味なの=I am interested in watching other people.
+アナタといる事に価値を見出せない、私は忙しいの=I see no value in your company. I'm very busy.
 
 //17
-私と話がしたい？　他をあたってもらってもいいかしら=You expect me to talk to you? Not interested. Try someone else.
-あまりまじまじと見ないで=Quit looking at me like that.
-あなた変態ね……=Such a perv...
+私と話がしたい？　他をあたってもらってもいいかしら=You want to talk to me? I suggest you find someone else to bug.
+あまりまじまじと見ないで=Quit staring at me like that.
+あなた変態ね……=You're a pervert alright...
 
 //18
 す、すみません。男の人とちゃんと喋るのははじめてで……=I-I'm sorry. I've never really talked to a boy before.
@@ -109,7 +109,7 @@
 あ、今エッチなこと考えてたでしょ=Hey, you're about to ask something rude, aren't you?
 
 //22
-コイカツ部、ずっと興味あったんだ！=I'm in! I've wanted to join Koikatsu Club forever!
+コイカツ部、ずっと興味あったんだ！=I've always been interested in the Koikatsu club!
 ただひたすら情報収集！　これに尽きるよー=You just gotta dig for information, that's all!
 君とお話すると、何だかドキドキしちゃうんだ……えへへ=My heart starts pounding when I talk with you... *giggle*
 
