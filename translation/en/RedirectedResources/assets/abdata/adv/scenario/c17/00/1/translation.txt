@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「[H姓]さん、今時間あるかな？　よければ話をしたいなって」=“[H姓]-san, do you have time right now? If it's ok, I'd like to talk.”
-「あなたと話をする内容なんてないはずだけれど。何か用かしら？」=“There's nothing to talk with you about though. Did you need something?”
+「[H姓]さん、今時間あるかな？　よければ話をしたいなって」=“[H姓]-san, do you have time right now? If it's okay, I'd like to talk with you.”
+「あなたと話をする内容なんてないはずだけれど。何か用かしら？」=“There's nothing to talk with you about though. You need something?”
 「いや、なんていうか少し[H姓]さんと話してみたいなって思ったから」=“No, I just thought that I'd like to talk with you [H姓]-san.”
-「……そう。別に構わないけれど、手短にお願い」=“I see. I don't mind, but keep it short.”
-「わかったよ、それじゃ……」=“I understand, well then...”
+「……そう。別に構わないけれど、手短にお願い」=“...I see. I don't mind, but keep it short.”
+「わかったよ、それじゃ……」=“I understand. Well then...”
