@@ -1,16 +1,16 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「この国のコト、スコシ分かてキマシタ。ケド、アナタのコト、トテモよく分かりマシタ」=“I feel like I understand a bit what Japan is about now. But, I understand you a whole lot more.”
+「この国のコト、スコシ分かてキマシタ。ケド、アナタのコト、トテモよく分かりマシタ」=“I feel like I understand a bit what Japan is about now, but I understand you a whole lot more.”
 「え？」=“Eh?”
-「ワタシ、アナタのコト、好きデス♡　オトコノコ、トシテ、愛、感じマス♡」=“I love you♡ I feel love for you, as a woman♡”
-「えええっ！？　な、なんで！？」=“EEEEEEH!? W-Why!?”
-「ナンデ？　Ｏｈ，ｒｅａｓｏｎデスネ？　ニッポン語出来ないワタシに、イッパイ親切くれマシタデスカラ」=“Why?" Oh, you're asking about the reason? It's because you showed me so much kindness, a girl who can't into Japanese.”
-「Ｃｌａｓｓｍａｔｅ、先生、ニッポンの人、皆サン親切デスケド、距離アリマス。言葉の壁タイヘンデース」=“My classmates, the teacher, people of Japan in general, everyone is kind but, there's this distance. There's a big language barrier.”
-「デモ、アナタはイッパイｃｏｍｍｕｎｉｃａｔｉｏｎして、タクサンａｐｐｒｏａｃｈくれマシタ。アナタダケ、ｓｐｅｃｉａｌデシタ♡」=“But, you approached me lots, and communicated with me. Out of everyone, you were the only special one♡”
+「ワタシ、アナタのコト、好きデス♡　オトコノコ、トシテ、愛、感じマス♡」=“I love you♡ I feel love for you, a boy♡”
+「えええっ！？　な、なんで！？」=“Eeeeeh!? Wh-Why!?”
+「ナンデ？　Ｏｈ，ｒｅａｓｏｎデスネ？　ニッポン語出来ないワタシに、イッパイ親切くれマシタデスカラ」=“Why? <Oh, reason> desu? Because you were kind to me, a girl who can't speak Japanese.”
+「Ｃｌａｓｓｍａｔｅ、先生、ニッポンの人、皆サン親切デスケド、距離アリマス。言葉の壁タイヘンデース」=“<Classmate>, Sensei, the people of Japan in general, everyone is kind, but there's this distance. A great language barrier desu.”
+「デモ、アナタはイッパイｃｏｍｍｕｎｉｃａｔｉｏｎして、タクサンａｐｐｒｏａｃｈくれマシタ。アナタダケ、ｓｐｅｃｉａｌデシタ♡」=“But, you make a lot of <communication> with me, and you <approach> me a lot. You are the only <special> one♡”
 「そんな風に思ってくれるなら、話しかけた甲斐があったよ。それにしたっていきなり好きだなんて、ビックリしたよ」=“If that's how you feel, then it was worth all the effort I spent. Even so, it was really surprising to hear your confession out of the blue.”
-「フフ、ワタシが育った国、オンナノコ、ミンナａｇｇｒｅｓｓｉｖｅデシタ。アナタ、ワタシのｆｉｒｓｔ　ｌｏｖｅデース」=“Fufu, where I come from, girls are all proactive and aggressive. You're my first love.”
-（ファーストラブって初恋だよな。ちゃんと俺の人となりを見て好きになってくれたのは嬉しいけど、展開が一段飛ばしじゃないか！？）=(Her first love, huh. While I'm happy that she fell in love with me after seeing me for the person I was, aren't we skipping too many steps here?!)
-「アッ！　イマ、恋人になてほしいと違いマスヨ？　コレカラ、モット仲良ししたいいう意味デスノデ、ヨロシクお願いシマス♡」=“Ah--! Just now, I wasn't asking you to be my boyfriend, you know? I meant that I wanted to be even closer to from now on. Please take care of me♡”
+「フフ、ワタシが育った国、オンナノコ、ミンナａｇｇｒｅｓｓｉｖｅデシタ。アナタ、ワタシのｆｉｒｓｔ　ｌｏｖｅデース」=“Fufu, where I grew up, girls are all <aggressive> desu. You my <first love> desu.”
+（ファーストラブって初恋だよな。ちゃんと俺の人となりを見て好きになってくれたのは嬉しいけど、展開が一段飛ばしじゃないか！？）=(Her first love, huh. While I'm happy that she fell in love with me after seeing me for the person I was, aren't we skipping too many steps here!?)
+「アッ！　イマ、恋人になてほしいと違いマスヨ？　コレカラ、モット仲良ししたいいう意味デスノデ、ヨロシクお願いシマス♡」=“Ah! Just now, I wasn't asking you to be my boyfriend, you know? I meant that I wanted to be even closer to from now on. Please take care of me♡”
 「[H]の気持ちはちゃんと伝わったよ。これからもよろしくね」=“I understand your feelings properly, [H名]. Take care of me as well.”
-（とは言ったけど、これからは話すだけでドキドキしちゃいそうだな）=(Or so I said but, I feel like my heart's going to race just from talking to her from now on)
+（とは言ったけど、これからは話すだけでドキドキしちゃいそうだな）=(Or so I said but, I feel like my heart's going to race just from talking to her from now on.)
