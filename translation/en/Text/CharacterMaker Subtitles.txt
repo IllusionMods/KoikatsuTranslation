@@ -84,7 +84,7 @@
 アナタといる事に価値を見出せない、私は忙しいの=I see no value in your company. I'm very busy.
 
 //17
-私と話がしたい？　他をあたってもらってもいいかしら=You want to talk to me? I suggest you find someone else to bug.
+私と話がしたい？　他をあたってもらってもいいかしら=You want to talk to me? I'd suggest you try someone else.
 あまりまじまじと見ないで=Quit staring at me like that.
 あなた変態ね……=You're a pervert alright...
 
@@ -116,7 +116,7 @@
 //23
 ゲームやアニメの話もまだ話したいことあるんだ=I still wanna talk lots about anime and games.
 ネトゲはいいですぞー=Online games are amazing!
-変わった部活動は青春の醍醐味、アニメの定番……=Odd club activities about the charms of youth, an anime classic.
+変わった部活動は青春の醍醐味、アニメの定番……=Odd club activities about the charms of youth, an anime classic...
 
 //24
 あなたを見守っていたら、すぐに一日が過ぎてしまいました=I turned my head to look at you and before I knew it, the day flew by.
@@ -145,7 +145,7 @@
 
 //29
 ……そう。あなたも物好きですね=...I see. You sure are quite the eccentric person.
-……なんでしょうか=What is it?
+……なんでしょうか=...What is it?
 んっ……あなたの手、温かい……=Nn... your hand, it's so warm...
 
 //30
