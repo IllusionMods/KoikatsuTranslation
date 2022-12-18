@@ -23,7 +23,7 @@
 きよくん=Kiyo-kun
 きょうくん=Kyou-kun
 きーくん=Kii-kun
-く=ku
+く=Ku
 くにくん=Kuni-kun
 くーくん=Kuu-kun
 け=Ke
