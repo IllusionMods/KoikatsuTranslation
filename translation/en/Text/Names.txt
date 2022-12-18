@@ -21,7 +21,7 @@
 麗奈=Reina
 麗奈先生=Reina-sensei
 
-数学教師=Maths Teacher
+数学教師=Math Teacher
 姫川 舞=Mai Himekawa
 舞=Mai
 マイ=Mai
@@ -158,7 +158,7 @@
 飯田 佐奈=Iida Sana
 飯田=Iida
 佐奈=Sana
-さなっぺ=Sanappu
+さなっぺ=Sanappe
 水野 綾花=Mizuno Ayaka
 水野=Mizuno
 綾花=Ayaka
@@ -178,10 +178,10 @@
 榊原 響=Sakakibara Hibiki
 榊原=Sakakibara
 響=Hibiki
+ひびきさん=Hibikisan
 大鳥 由菜=Ootori Yuuna
 ユナ=Yuna
 ユナ様=Yunasama
-ひびきさん=Hibikisan
 沢井 陽向=Sawai Hinata
 沢井=Sawai
 陽向=Hinata
