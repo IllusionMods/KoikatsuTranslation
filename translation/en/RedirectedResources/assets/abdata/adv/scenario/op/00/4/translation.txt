@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-職員室に入るなり、室内にいた先生方の視線が突き刺さった。=The moment I entered the room, the teachers' gazes pierced through me.
+職員室に入るなり、室内にいた先生方の視線が突き刺さった。=The teachers' gazes pierced through me the moment I entered the room.
 （うっ……居心地が悪い。先生方は俺が転入することを知ってると思うけど……）=(Well... this is awkward. Everyone should know by now that I'm transferring here...)
 おろおろしていると、一人の先生が俺に向けて手を振ってきた。=As I was looking around, one of the teachers waved at me.
 （あの人が担任の先生かな）=(Is she the one?)
@@ -17,17 +17,17 @@
 「まぁ、でも確かに緊張はほぐれましたけど……」=“Well, I guess I'm not quite as nervous now, but...”
 （変にドキドキしてしまった……）=(Man, that made my heart skip a beat...)
 慌てて手を引っ込めだが、先生の手はすごく柔らかかった。=As I hastily pulled back my hand, I could still feel the soft sensation of Sensei's hands.
-「うふふ、作戦成功です。それと話し方も今みたいに普段の話し方でいいですよー」=“Ufufu, mission accomplished. Also, it's okay for you just speak like you usually would, like you did now.”
-「わかりました、でも非常識な人間ではないので、先生相手には敬語で話させてもらいますね」=“Alright, I understand, but I'm not without common sense, so I'll be polite when speaking with you, okay?”
+「うふふ、作戦成功です。それと話し方も今みたいに普段の話し方でいいですよー」=“Ufufu, mission accomplished. Also, it's okay for you just speak like you normally would, like you did now.”
+「わかりました、でも非常識な人間ではないので、先生相手には敬語で話させてもらいますね」=“Alright, I understand, but I'm not without common sense, so I'll be polite when speaking with you.”
 「それで、これからどうすればいいんですか？」=“Now that's done, what are we going to do next, Sensei?”
 「えっとー、この後、私が教室まで案内するので付いてきてください、それから自己紹介してもらいますねー」=“Let's see, I'll guide you to the classroom later on so be sure to follow me. After that, I'll have you introduce yourself, okay?”
 「自己紹介ですか、まぁ転入生なんで当たり前ですよね」=“Introduce myself? I suppose that's a given when you're a transfer student.”
 「はい」=“Yup.”
-ニコニコ笑いながら頷く先生。=Smiling happily, Sensei gave me a nod.
+ニコニコ笑いながら頷く先生。=Sensei nodded with a smile and laugh.
 （ほっ……歓迎してもらえてるみたいで一安心だ）=(Phew... at least I can rest assured that I'm not a bother.)
 （もし、転入が伝わってなかったら……と思ったが杞憂だったな）=(If the teachers had not been told about the transfer... but I guess I worried for nothing.)
 安心したところで、不安材料が一つ思い浮かぶ。=After some relief, a sudden fear then arose in my mind.
-（……部活のことは伝わってるんだろうか？）=(...Have the teachers heard about what I'm going to do here?)
+（……部活のことは伝わってるんだろうか？）=(...have the teachers heard about what I'm going to do here?)
 「その、先生は部活の事って聞いてたりします？」=“Ah, Sensei, have you heard anything about my club?”
 「はい、学園長から部活のことも聞いてますー。先生に手伝えることがあったら気軽に相談してくださいねー」=“Yes, the principal already informed me about the club. If you need anything, feel free to ask me for help.”
 「ありがとうございます。よかった、ちゃんと話してくれてるみたいだ」=“Thank you. Thank goodness she actually told everyone.”
