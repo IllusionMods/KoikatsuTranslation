@@ -1,17 +1,17 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「とりあえず……こんなもんかな」=“Right, that's that for now, I guess.”
+「とりあえず……こんなもんかな」=“Right... that's that for now, I guess.”
 ある程度の片づけを終えたところで、これから生活する自室を見渡す。=After a bit of cleaning, I looked around the room that'll soon be mine.
-「明日から新しい学園での生活が始まるのか」=“A new school life is starting tomorrow.”
+「明日から新しい学園での生活が始まるのか」=“A new school life starts tomorrow.”
 一息つきながら、真新しい制服を見つめる。=Taking a deep breath, I looked at my spiffy new uniform.
 ――――=――――
 俺の名前は『[P名前]』。=My name is [P名前].
-この春から父親が海外転勤することになり、家族会議の結果、=My father will be working overseas from this spring onwards, so a lengthy family meeting was held.
-両親は海外に、俺は叔母の家の近くに建つアパートで独り暮らしをすることになった。=We decided that I'll live in an apartment near my aunt's while my parents are overseas.
-転勤族であるうちの家族は、これまで何度か引っ越しを経験している。=We have relocated many times up until now due to the nature of my parents' work.
-しかし、海外転勤は初めてのことで、俺にとって独り暮らしも初めての事だった。=But this is the first time relocating overseas, and also the first time that I'll live by myself.
-クラスメイトと仲良くなれるだろうか、友達はできるだろうか。=Will I get along with everyone? Will I be able to make new friends?
+この春から父親が海外転勤することになり、家族会議の結果、=My father will be working overseas from this spring onwards, so a family meeting was held.
+両親は海外に、俺は叔母の家の近くに建つアパートで独り暮らしをすることになった。=We decided that my parents would go overseas, while I stayed in an apartment near my aunt's house.
+転勤族であるうちの家族は、これまで何度か引っ越しを経験している。=We have relocated many times in the past due to the nature of my parents' work.
+しかし、海外転勤は初めてのことで、俺にとって独り暮らしも初めての事だった。=However, this is their first time relocating overseas, and also the first time that I'll live by myself.
+クラスメイトと仲良くなれるだろうか、友達はできるだろうか。=I hope I can get along with my classmates, or even make new friends.
 期待、不安、色んな気持ちが頭をかすめていく。=Hope, worries, and all sorts of emotions swirl inside my head.
 （……………………）=(...)
 「ん……電話だ」=“Hmm... a phone call.”
@@ -27,7 +27,7 @@
 叔母さんは明日から俺が通うことになる学園の学園長を勤めている。=My aunt is the principal of the school I'll be attending tomorrow.
 きっと、一人で引っ越し作業を行う俺の心配をして電話をかけてきてくれたのだろう。=She must've been worried about me moving in all by myself.
 『まあ、色々よ。それで、明日からの学園生活はうまく過ごせそう？』=“Well, a bit of this and a bit of that. That aside, do you think you can fit in well at school tomorrow?”
-「さぁね……でも、早めにクラスの皆と仲良くなれるようにしたいよ」=“Not sure either... but, I do want to get along with the class.”
+「さぁね……でも、早めにクラスの皆と仲良くなれるようにしたいよ」=“I don't know... but I do want to get along with the class as soon as possible.”
 『うんうん、いい心がけよ』=“Uh-huh, that's a good mentality to have.”
 『あなた以外、女の子しかいないから大変だと思うけど、頑張ってちょうだいね』=“It's going to be tough with everyone else being girls, but stay strong, okay?”
 「そうだね。俺以外は女の子だけど……って、ちょっと待った！！」=“Sure. With everyone else being girls... wait a minute!!”
@@ -40,7 +40,7 @@
 『おほん、えー、あなたが通う学園は女学園です。そして、男の子はあなた一人。はい、説明終わり』=“Ahem, eh, your new school is an all-girls school. You're the only boy. There, end of story.”
 「説明終わり――って、全然意味分かんないって！　女学園！？　男は俺一人！？」=“End of story—wait, that doesn't make any sense! All-girls school!? I'm the only boy!?”
 『うーん……ちゃんと伝えてなかった私が悪いけど、これは決定事項だから取り消すことはできないの』=“Well...it's kinda my fault that I didn't tell you properly, but this has already been decided so no turning back.”
-「そんな……もっと早めに教えてほしかったよ……」=“Come on... you should have told me stuff like this sooner.”
+「そんな……もっと早めに教えてほしかったよ……」=“Come on...you should have told me stuff like this sooner.”
 『女学園ってことを知らないなら、私があなたに、この学園に通ってほしい理由とかも話してないかしら？』=“If you didn't know that it's an all-girls school, then I guess you don't know why I'm sending you there, right?”
 「もちろん聞いてないです！」=“Of course not!”
 『こほん、それではきちんとお話します』=“Ahem, let me explain it to you then.”
@@ -58,7 +58,7 @@
 「そんなこと、急に言われたって……」=“Okay, but it's so sudden and I...”
 『協力をお願いできるかしら？』=“Can I count on you?”
 （……何だかとんでもない話になったな）=(...well, things have taken an unexpected turn, haven't they?)
-正直、俺は今混乱していてまともな判断ができていない。=Frankly, my head is still trying to sort everything out and can't make a proper decision right now.
+正直、俺は今混乱していてまともな判断ができていない。=Frankly, my head is still trying to sort everything out, and I can't make a proper decision right now.
 男性になれていない女の子達を慣れさせるため、俺に実験台になれと。=I have to be a guinea pig for girls to get used to being with boys.
 叔母さんの言いたいことは分からないでもない……？　が、なんというか……。=Not that I don't understand what my aunt's saying, I guess...? But, it's just...
 「……女学園に男の俺が通って、さらに恋愛までしていいの？」=“...are you sure it's okay for me, a guy, to go to an all-girls school, and be lovey-dovey on top of that?”
