@@ -53,7 +53,7 @@
 「俺の？」=“Me?”
 『女の子たちが男の人に慣れるため、あなたと恋愛をしてもらいます！』=“To get the girls comfortable with boys, I want you to get lovey-dovey with them!”
 「俺と恋愛！？」=“Lovey-dovey!?”
-『あくまで恋愛ごっこ。恋愛の体験でいいの』=“It's just playing at love. All about the experinece of romance.”
+『あくまで恋愛ごっこ。恋愛の体験でいいの』=“It's just playing at love. All about the experience of romance.”
 『部活を作って女の子たちと積極的にスキンシップをとって、男の人に慣れてもらってほしいの』=“To be precise, I want you to create a club that focuses on skinship between males and females, and through it, let them get to know what a boy is.”
 「そんなこと、急に言われたって……」=“Okay, but it's so sudden and I...”
 『協力をお願いできるかしら？』=“Can I count on you?”
@@ -67,7 +67,7 @@
 「はぁ……分かった。うまくできるか分からないけど、女の子たちが男性に慣れるよう協力するよ」=“Haah...okay, I get it. Not sure how I'll fare, but I'll try my best.”
 『ほんと！　頼もしいわ！』=“Really! That's my boy!”
 ポジティブに捉えれば、男は俺一人だけのハーレムだ。=Well, looking at it in a positive light, it means that I'll have a harem all to my own.
-こうなったら、目一杯女の子に囲まれた新生活を楽しむとしよう。=If this happens, I'll enjoy my new life surrounded by girls as much as I can.
+こうなったら、目一杯女の子に囲まれた新生活を楽しむとしよう。=If this happens, I'll enjoy my new life surrounded by girls to the fullest.
 『それじゃあ、そろそろ切るわよ。明日遅刻しないように、今日は早めに寝た方がいいわよ』=“Alright, I'll hang up then. Go to bed early or else you'll be late tomorrow.”
 「分かった、そうするよ。これからお世話になります」=“I'll do just that. I'll be in your care from now on.”
 『そんなに改まらなくてもいいのよ。学園で分からないことがあったら、気軽に聞いてちょうだい』=“No need to be so formal, you know. Call me anytime if you need help.”
