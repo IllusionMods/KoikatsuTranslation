@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「はぁぁ……きみを見ると、ついあの時のことを思い出しちゃうわ。それだけで胸がドキドキしちゃう。本当よ？」=“Hahh... Whenever I see you, I can't help but be reminded of that one time. Just that makes my heart skip a beat. Really?”
+「はぁぁ……きみを見ると、ついあの時のことを思い出しちゃうわ。それだけで胸がドキドキしちゃう。本当よ？」=“Haah... whenever I see you, I can't help but be reminded of that one time. Just that makes my heart skip a beat. Really?”
