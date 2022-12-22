@@ -6,10 +6,10 @@
 「あなたにも指導が必要？」=“You need guidance too?”
 「廊下は走らない、挨拶ははきはきと。基本よね」=“No running in the hallways, and greet others properly. That's the basics.”
 「生徒たちとすれ違うと、自分が学園に通っていた頃のことをたまに思い出すわね」=“When I pass by students, sometimes I think back to my school days.”
-「シャツの裾が少し出ているわよ。身だしなみにも気を配りなさい」=“Your shirt's a little bit loose. Watch your personal appearance.”
+「シャツの裾が少し出ているわよ。身だしなみにも気を配りなさい」=“Your shirt's a little bit loose. Pay attention your personal appearance, too.”
 「生徒だけじゃなく、先生たちのチェックも私の役目よ」=“It's my job to check on the teachers as well as the students.”
 「休み時間だからと言って、あまりはしゃぎすぎないように。わかった？」=“Don't get too excited just because it's your day off. Understand?”
-「短時間の仮眠は作業効率を上げると言われているわね。でも、授業中の居眠りは厳禁よ」=“It's said that taking a short nap improves work efficiency. But you mustn't doze off in class.”
+「短時間の仮眠は作業効率を上げると言われているわね。でも、授業中の居眠りは厳禁よ」=“It's said that taking a short nap improves work efficiency. But, you mustn't doze off in class.”
 「本当は、手早く済ませられる食事が良いのだけど……こういう時くらいゆっくりするべきなのかしら……」=“Honestly, I'd prefer a quick meal, but... maybe I should take it easy at times like this...”
 「食後に眠気が襲ってくるのは、勘弁してほしいわね」=“I hope you don't get drowsy after eating.”
 「先生たちの中でも、学食を利用する人は多いわね」=“Of all the teachers, I know a lot of them use the school cafeteria.”
