@@ -4,7 +4,7 @@
 そこは敏感なの……=It's sensitive there...
 
 //01
-その……よろしくお願いしますね=Um... It's a pleasure to meet you.
+その……よろしくお願いしますね=Um... it's a pleasure to meet you.
 お疲れ様です=Good work today.
 もしよろしければこの後……い、いえ、なんでもありません！　失礼します！=If it's alright, after this, we could... n-no, it's nothing! Do excuse me!
 
@@ -74,7 +74,7 @@
 その……この後とかお前予定あんのか……？=Umm... got any plans after this?
 
 //15
-クンクン、クンクン。怪しいニオイが……=*sniff* *sniff*. Smells fishy...
+クンクン、クンクン。怪しいニオイが……=*sniff* *sniff* Smells fishy...
 すっごく恥ずかしいのに、なんでかいつもより興奮したぞ=Even though it was so embarrassing, I feel like I got way more aroused than usual.
 ヤラしーこと考えてるにおいだぞ=Smells like you're thinking about sex!
 
@@ -129,7 +129,7 @@
 みんなのやる気が下がる～？　やる気は個人の問題だと思うんだけどな～=Everyone gets demotivated too~? I think motivation is everyone's own personal problem though~
 
 //26
-……あなたと話す時間は、楽しいから好き=...Spending time chatting with you is fun, so I like it.
+……あなたと話す時間は、楽しいから好き=...spending time chatting with you is fun, so I like it.
 ……ちょっと、疲れた=...I'm a bit, tired.
 ……今日もお話、聞かせて……？=...tell me, lots of stuff today...?
 
@@ -145,7 +145,7 @@
 
 //29
 ……そう。あなたも物好きですね=...I see. You sure are quite the eccentric person.
-……なんでしょうか=...What is it?
+……なんでしょうか=...what is it?
 んっ……あなたの手、温かい……=Nn... your hand, it's so warm...
 
 //30
@@ -161,7 +161,7 @@
 //32
 何かご用でしょうか=Do you need something?
 殊勝な心掛けですね=What an admirable attitude.
-……有意義な時間になればいいですが=...Hopefully, this will be worth my time.
+……有意義な時間になればいいですが=...hopefully, this will be worth my time.
 
 //33
 あなた、私に興味があるの？=Do you have an interest in me?
