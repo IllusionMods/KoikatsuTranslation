@@ -2,12 +2,12 @@
 #set level 21,7
 
 // Reset Confirmation Pop-up
-容姿を初期化しますか？=Reset To Default Appearance?
+容姿を初期化しますか？=Reset to default appearance?
 
 #set level 21
 
 // Others
-各イベントに登場する先生とプレイヤーの容姿を設定します=Set the appearance for the Teachers and the Player for these Events.
+各イベントに登場する先生とプレイヤーの容姿を設定します=Set the appearance for the teachers and the player for these events.
 
 // Buttons
 容姿の初期化=Reset Appearance
@@ -64,14 +64,14 @@
 
 // Himekawa Mai
 初めての出会い=First Meeting
-あの娘は……？=That Girl......?
+あの娘は……？=That Girl...?
 偶然の再会=A Lucky Reunion
 やってみたいことは？=What Do You Want To Do?
 図書館すたでぃんぐ=Library Studying
 学園ライブ=Live Campus Concert
-経験不足で……？=You're Not Experienced......?
+経験不足で……？=You're Not Experienced...?
 いよいよコイカツ！=Finally, Koikatsu Club!
-恋、戸惑い=Love And Confusion
+恋、戸惑い=Love and Confusion
 離れ離れ=Separation
 二人きりの保健室=By Ourselves In The School Infirmary
 告白の答えは？=A Confession Answer?
