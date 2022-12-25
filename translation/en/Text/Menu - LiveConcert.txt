@@ -27,8 +27,8 @@
 マイク=Microphone
 
 // Label Stuff
-キャラ一覧=Select A Character
-服の読み込み=Load An Outfit
+キャラ一覧=Select a character
+服の読み込み=Load an outfit
 
 // Load Button
 読込み=Load
