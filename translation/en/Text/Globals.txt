@@ -76,4 +76,4 @@
 陸上部=Track & Field Club
 
 // Character Select Menu
-キャラクター選択=Select A Character
+キャラクター選択=Select a Character
