@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「ふわぁ……よく寝たぁ」=*Yawn...* “That was a satisfying night of sleep.”
+「ふわぁ……よく寝たぁ」=*yawn*... “That was a satisfying night of sleep.”
 カーテンの隙間から差し込んできた朝日で目が覚める。=I woke up just as rays of sunshine began to creep into my room.
 セットしたアラームが鳴る前に起きることができた。=It was still early—earlier than what I had set on the alarm.
 しっかり準備をしても、学園には余裕を持って登校できる時間だ。=I'd still be able to get to school with plenty of leeway even if I had taken my time preparing.
