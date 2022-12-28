@@ -2,8 +2,8 @@
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
 「今、時間あるかな。良かったら、少し話さない？」=“Do you have some time? If you'd like, wanna chat for a bit?”
-「Ｗｏｗ！　コイカツ部のブチョさんデスネ！　お話、モチロンデース♪」=“Wow! You're the president of the Koikatsu club, aren't you?! I of course have time for a chat ♪”
-「て、テンション高いね、留学生？」=“W-Well, aren't you excited? Are you a foreign exchange student?”
-「Ｏｈ，Ｓｏｒｒｙ！　ワタシ、ニッポン帰ってきたばかり、まだｍａｎｎｅｒよく分かってないネー……」=“Oh, sorry! I just came back to Japan, and I don't know the right manners...”
-（帰ってきたばかり？　ということは帰国子女なんだ）=(Just came back to Japan? So that means she's a returnee)
+「Ｗｏｗ！　コイカツ部のブチョさんデスネ！　お話、モチロンデース♪」=“<Wow>! You're the president of the Koikatsu club! I of course have time for a chat♪”
+「て、テンション高いね、留学生？」=“W-well, aren't you excited? Are you a foreign exchange student?”
+「Ｏｈ，Ｓｏｒｒｙ！　ワタシ、ニッポン帰ってきたばかり、まだｍａｎｎｅｒよく分かってないネー……」=“<Oh, sorry>! I just came back to Japan, and my <manner> grasp is loose...”
+（帰ってきたばかり？　ということは帰国子女なんだ）=(Just came back to Japan? So that means she's a returnee.)
 「なら、俺が色々教えてあげるよ。まずは……」=“In that case, I'll teach you lots of stuff. For now...”
