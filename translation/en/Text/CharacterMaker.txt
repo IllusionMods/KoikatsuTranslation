@@ -1044,7 +1044,7 @@ r:"^外履きの色([０-９0-9]+)$"=Outdoor Shoe $1 Color
 r:"^外履き柄の色([０-９0-9]+)$"=Outdoor Shoe Pattern $1 Color
 
 // Clothing -> Tops
-トップスを初期の状態に戻す=Restore Default Top Settings
+トップスを初期の状態に戻す=Restore default top settings
 トップスの種類=Top Type
 インナーの種類=Innerwear Type
 アウターの種類=Outerwear Type
@@ -1246,7 +1246,7 @@ r:"^背番号([０-９0-9]+)$"=Jersey Number $1
 一角獣=Unicorn
 
 // Clothing -> Bottom
-ボトムスを初期の状態に戻す=Restore Default Bottom Settings
+ボトムスを初期の状態に戻す=Restore default bottom settings
 ボトムスの種類=Bottom Type
 
 // Clothing -> Bottom -> Bottom Types
@@ -1311,7 +1311,7 @@ CAタイトスカート=Cabin Attendant Tight Skirt
 r:"^クラシカルメイドスカート([A-Z])$"=Classical Maid Skirt $1
 
 // Clothing -> Bra
-ブラを初期の状態に戻す=Restore Default Bra Settings
+ブラを初期の状態に戻す=Restore default bra settings
 ブラの種類=Bra Type
 
 // Clothing -> Bra Types
@@ -1492,7 +1492,7 @@ r:"^ガーターソックス([A-Z])$"=Garter Socks $1
 
 // Clothing -> Shoes
 内履きを初期の状態に戻す=Restore default indoor shoe settings
-外履きを初期の状態に戻す=Restore oefault outdoor shoe settings
+外履きを初期の状態に戻す=Restore default outdoor shoe settings
 靴の種類=Shoe Type
 
 // Clothing -> Shoe Types
