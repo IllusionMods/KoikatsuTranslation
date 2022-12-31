@@ -2352,7 +2352,7 @@ No Image=No Image
 スペースキーで戻ります=Spacebar to return
 本当に削除しますか？=Really delete this?
 本当に上書きしますか？=Really overwrite this?
-キャラメイクを終了しますか？=Quit the Character Maker?
+キャラメイクを終了しますか？=Quit the character maker?
 キャラ編集を終了しますか？=Quit editing this character?
 
 // Maker called from Class Edit Menu
