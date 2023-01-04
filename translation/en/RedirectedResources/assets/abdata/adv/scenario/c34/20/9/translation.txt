@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「Ｗｅｌｌ……エット、ｄａｔｅはニッポンデスト、『遊びに行く』意味デシタ？」=“Well... Erhm, Japanese "dates" are more about going out to play, right?”
-（あ、そういえばデートは海外だと色んな意味があるって聞いたことが……そうだ、いつかネットで調べた誘い方を試してみよう！）=(Ah, come to think of it, I have heard before, that a "date" can mean many things in the west... Right, I'll try that phrase I looked up on the web!)
-「キャ、Ｃａｎ　Ｉ　ａｓｋ　ｙｏｕ　ｏｕｔ……？」=“「C-Can I ask you out」...?”
-「Ｗｏｗ♡　ビックリ、シマシタ♡」=“Wow♡ That was, really surprising♡”
-「あはは、発音へたくそでごめんね」=“Ahaha, sorry for the dogshit pronounciation.”
-「ヘタ違いますヨー♪　ダッテ、アナタの気持ち、ココロ届いてます♡　モチロンＹｅｓデース♡」=“It's not dogshit♪ Afterall, your feelings, they reached my heart♡ Of course, the answer is yes♡”
+「Ｗｅｌｌ……エット、ｄａｔｅはニッポンデスト、『遊びに行く』意味デシタ？」=“<Well>... erhm, Japanese <date> desu, is it more about going out to play?”
+（あ、そういえばデートは海外だと色んな意味があるって聞いたことが……そうだ、いつかネットで調べた誘い方を試してみよう！）=(Ah, come to think of it, I've heard that a date can mean many things overseas... okay, I'll try that phrase I looked up on the web the other day!)
+「キャ、Ｃａｎ　Ｉ　ａｓｋ　ｙｏｕ　ｏｕｔ……？」=“<C-can I ask you out>...?”
+「Ｗｏｗ♡　ビックリ、シマシタ♡」=“<Wow>♡ That was, really surprising♡”
+「あはは、発音へたくそでごめんね」=“Ahaha, sorry for the terrible pronounciation.”
+「ヘタ違いますヨー♪　ダッテ、アナタの気持ち、ココロ届いてます♡　モチロンＹｅｓデース♡」=“It's not terrible♪ After all, your feelings, they reached my heart♡ Definitely <yes> desu♡”
