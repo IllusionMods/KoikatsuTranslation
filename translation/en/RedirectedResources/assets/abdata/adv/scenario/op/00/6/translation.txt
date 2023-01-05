@@ -5,12 +5,12 @@
 「それじゃあ、教卓の前に立ってくれるかな？」=“Alrighty then, can you please come and stand in front of the board.”
 「はい」=“Alright.”
 先生の指示に従って、教卓の前へ移動する。=Following Sensei's orders, I moved in front of the board.
-すると教室にいる殆どの女の子が、興味津々とばかりに俺へ視線を送ってきた。=As I did, all eyes in the class followed me curiously.
+すると教室にいる殆どの女の子が、興味津々とばかりに俺へ視線を送ってきた。=As I did, practically all the girls in the class looked at me curiously.
 （うっ、プレッシャーを感じる……）=(*gulp* The pressure...)
-俺が女の子に圧倒されていることに気づくことなく、先生はのほほんと話を続ける。=Not realizing that I was being overwhelmed by the girls, Sensei continued on nonchalantly.
+俺が女の子に圧倒されていることに気づくことなく、先生はのほほんと話を続ける。=Without noticing that I was being overwhelmed by the girls, Sensei continued on nonchalantly.
 「えーと、今日はみなさんのクラスに仲間が一人増えることになりました」=“Eh, it's been decided that a new friend will be joining us today.”
 「友達が増えることはとってもいい事です。つまり、今日はとってもいい日ですね」=“Making new friends is a wonderful thing indeed. In other words, today's a very joyous day.”
-「ふふっ、先生の話はここまでにして早速自己紹介をお願いしますねー？」=“Fufu, I'll stop here and let our new friend introduce himself then-?”
+「ふふっ、先生の話はここまでにして早速自己紹介をお願いしますねー？」=“Fufu, I'll stop here and let our new friend introduce himself then?”
 チラリとこちらへ目配せした先生にうなずき返して、改めて自己紹介をする。=Sensei signaled to me with a quick glance. Nodding back, I formally introduced myself to everyone.
 「みなさん、はじめまして。ご紹介いただきました[P名前]です」=“I am pleased to meet you all. My name is [P名前].”
 「まずは、お詫びさせてください。この度は、お騒がせしてしまい申し訳ありません」=“First off, allow me to apologize for causing such a commotion.”
@@ -42,7 +42,7 @@
 「もし、少しでも興味があるという方は、僕のところに来てください、よろしくお願いします！」=“So, if you're even a bit interested, please come see me. Thank you very much!”
 頭を下げてそう締めくくると、女生徒たちがもう一度拍手をしてくれた。=As I bowed my head, the girls gave another round of applause.
 （……ふぅ、上手くいったようだ。最後まで丁寧な口調を崩さずにできた）=(...phew, looks like that went well. I was able to be polite right until the end.)
-（これで印象は問題ないはず！）=(That should leave an impression!)
+（これで印象は問題ないはず！）=(That should leave a good impression!)
 「うふふ…さっきから気になってたけど、[P姓]くんったら、クラスメイトの前でもキャラなんか作っちゃってー」=“Ufufu... I've been thinking about this for a while, but it's cute that [P姓]-kun's putting on an act in front of his classmates.”
 「最後は自分の事『僕』って言ってるし、普通に喋っていいのよー。もちろん、先生に対してもです」=“You don't have to really, just speak like you normally would. And of course, to me too.”
 「なっ？！　ち、ちょっと先生なに言ってるんすか？　別にキャラなんか作ってないですって！」=“Wha-?! Wh-what you talking about, Sensei? I'm not acting or anything!”
