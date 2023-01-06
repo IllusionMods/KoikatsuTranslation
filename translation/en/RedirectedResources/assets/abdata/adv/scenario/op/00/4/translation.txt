@@ -8,7 +8,7 @@
 近づいて話しかけてみよう。=I should have a chat with her.
 野乃花=Nonoka
 「あなたが転入生くんねー。はじめまして、私は担任の櫻井 野乃花です」=“So you must be the transfer student. Nice to meet you, I'm Sakurai Nonoka, your homeroom teacher.”
-「はじめまして[P名前]です。よろしくお願いします」=“Nice to meet you, I'm [P名前]. I'll be in your care from now.”
+「はじめまして[P名前]です。よろしくお願いします」=“Nice to meet you, I'm [P名前]. I'll be in your care from now on.”
 「はい、よろしくねー。男の子一人で大変なことはいっぱいあると思うけど、一緒に頑張っていきましょー」=“Nice to meet you, too. I know it's gonna be hard when you're the only male student, but let's both try our best, okay?”
 と言ったところで、先生がいきなり、ぎゅっと俺の両手を握ってきた。=After saying that, she suddenly grabbed my hands tightly.
 「うわっ、と、先生、何するんですか？！」=“Waaa, Sensei, what are you doing?!”
