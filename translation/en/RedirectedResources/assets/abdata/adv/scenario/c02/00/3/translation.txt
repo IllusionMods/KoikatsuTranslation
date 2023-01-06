@@ -3,5 +3,5 @@
 //
 「あら、わたくしと一緒に？　ふーん、まあよろしくてよ」=“Oh, with me? Hmm, well, certainly.”
 「ありがとう」=“Thank you.”
-「いいこと？　決してわたくしを退屈させないようになさってね。よろしくて？」=“But, you must never bore me. Understand?”
+「いいこと？　決してわたくしを退屈させないようになさってね。よろしくて？」=“But, you must never, by any means, bore me. Understand?”
 「うん、頑張る」=“Right, I'll try.”
