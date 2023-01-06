@@ -30,11 +30,11 @@
 （……部活のことは伝わってるんだろうか？）=(...have the teachers heard about what I'm going to do here?)
 「その、先生は部活の事って聞いてたりします？」=“Ah, Sensei, have you heard anything about my club?”
 「はい、学園長から部活のことも聞いてますー。先生に手伝えることがあったら気軽に相談してくださいねー」=“Yes, the principal already informed me about the club. If you need anything, feel free to ask me for help.”
-「ありがとうございます。よかった、ちゃんと話してくれてるみたいだ」=“Thank you. Thank goodness she actually told everyone.”
+「ありがとうございます。よかった、ちゃんと話してくれてるみたいだ」=“Thank you. I'm glad she actually told everyone.”
 どうやら話し忘れていたのは、俺に対してだけだったらしい。=Looks like my aunt remembered to tell everyone BUT me.
 「うふふ、それじゃあ、早速クラスへ移動して、自己紹介をしてもらいますね」=“Ufufu. Well then, let's go to class and I'll have you introduce yourself.”
 「心の準備はいいですかー？」=“Are you ready?”
 「……はい！」=“...Yes!”
 「うふふ、いい返事ですー。クラスに向かうので、先生について来てください」=“Ufufu, excellent answer. Alright, we'll now head to class so please follow me.”
-ゆっくり立ち上がり、ぽてぽてと歩き出した先生の後ろをついていく。=I followed behind Sensei as she gently stood up and started gracefully towards the classroom.
+ゆっくり立ち上がり、ぽてぽてと歩き出した先生の後ろをついていく。=I followed behind Sensei as she gently stood up and started walking.
 移動しながら自己紹介で何を話すか考えておこう。=I should think about how I'll introduce myself on the way.
