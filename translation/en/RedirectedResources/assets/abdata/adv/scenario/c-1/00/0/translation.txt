@@ -8,6 +8,6 @@
 「や、やっぱり外国の方……」=“S-so you really are a foreigner...”
 「ええ、まぁ、外国生まれとはいえ、小さな頃に日本へ来たから、日本語の方が得意なんだけど……やっぱり違和感あるかしら？」=“Yes, well, although I was born overseas, I came to Japan when I was very young, so I'm better at Japanese, but... I suppose I sound strange to you after all?”
 「あっ、そんなことないです！　あまりに流暢（りゅうちょう）なので、ちょっと驚いてしまって……」=“Ah, that's not it at all! You're just so fluent that I was a little surprised...”
-「見た目とのギャップ……でしょう？　きみにもそういうところがありそうね♪」=“So a gap between how I look and what I am... right? You seem to have a little of that in you too♪”
+「見た目とのギャップ……でしょう？　きみにもそういうところがありそうね♪」=“So a gap between how I look and what I am... right? You seem to have a bit of that in you too♪”
 「え？　あ、いや、俺は別に……」=“Hmm? Ah, no, I'm not...”
 「隠さない隠さない。これから保健室へ来る度にじっくり調べてあげますからね♪」=“There's no need to hide it. From now on, every time you come to the infirmary, I'll examine you carefully♪”
