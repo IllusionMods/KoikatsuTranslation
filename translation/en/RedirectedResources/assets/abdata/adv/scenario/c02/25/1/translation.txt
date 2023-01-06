@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「やあ、[H姓]さん。ごきげんよう」=
-//「ええ、ごきげんよう。何かご用事かしら？」=
-//「あー、いや、まあ、ちょっと挨拶がてら世間話でもって……」=
-//「いい心がけね。では殿方らしく、エレガントな話題を提供なさい」=
-//「エ、エレガントな話題、ねぇ……」=
+「やあ、[H姓]さん。ごきげんよう」=“Hello, [H姓]-san. Good day to you.”
+「ええ、ごきげんよう。何かご用事かしら？」=“Yes, to you as well. Can I help you with something?”
+「あー、いや、まあ、ちょっと挨拶がてら世間話でもって……」=“Uh, no, well, I just wanted to say hello and chat with you...”
+「いい心がけね。では殿方らしく、エレガントな話題を提供なさい」=“An admirable mindset. Well then, you must provide an elegant topic of conversation, as a gentleman must.”
+「エ、エレガントな話題、ねぇ……」=“E-elegant topic, huh...”
