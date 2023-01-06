@@ -2,10 +2,10 @@
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
 野乃花=Nonoka
-「それじゃあ、教卓の前に立ってくれるかな？」=“Alrighty then, can you please come and stand in front of the board.”
-「はい」=“Alright.”
-先生の指示に従って、教卓の前へ移動する。=Following Sensei's orders, I moved in front of the board.
-すると教室にいる殆どの女の子が、興味津々とばかりに俺へ視線を送ってきた。=As I did, practically all the girls in the class looked at me curiously.
+「それじゃあ、教卓の前に立ってくれるかな？」=“Alrighty then, can you please come and stand in front of the podium?”
+「はい」=“Okay.”
+先生の指示に従って、教卓の前へ移動する。=Following Sensei's orders, I moved to the front of the podium.
+すると教室にいる殆どの女の子が、興味津々とばかりに俺へ視線を送ってきた。=As I did so, practically all the girls in the class looked at me curiously.
 （うっ、プレッシャーを感じる……）=(*gulp* The pressure...)
 俺が女の子に圧倒されていることに気づくことなく、先生はのほほんと話を続ける。=Without noticing that I was being overwhelmed by the girls, Sensei continued on nonchalantly.
 「えーと、今日はみなさんのクラスに仲間が一人増えることになりました」=“Eh, it's been decided that a new friend will be joining us today.”
@@ -21,7 +21,7 @@
 少しでも印象をよくするために、丁寧な口調に気をつけて自己紹介を済ませる。=In order to make as good of an impression as possible, I introduced myself as politely and as formally as I could.
 「はい、自己紹介ありがとうございましたー」=“Okay, thank you for the introduction~”
 「みなさん、仲良くしてあげてくださいね？　拍手ー」=“Be sure to get along with him, okay everyone? Applause~”
-パチパチパチと女生徒たちみんなが手を叩いてくれた。とりあえず歓迎されているみたいだ。=The girls in class all clapped their hands. Seems like I'm welcomed at the least.
+パチパチパチと女生徒たちみんなが手を叩いてくれた。とりあえず歓迎されているみたいだ。=The girls in class all clapped their hands. Seems like I'm welcomed at the very least.
 「はーい、ありがとうございます。……あっ、そういえば彼には大事なお仕事がありましてー」=“Okay, thank you everyone... ah, I almost forgot that he has something important to tell you all.”
 「みなさん知っての通り、彼は学園唯一の男の子なのですがー、やはり気になりますよね？　異性として」=“As you all know, he's the only boy in this school, but it's only inevitable that you'd be interested in him, right? As a member of the opposite sex.”
 先生から突然のぶっちゃけトークに、女の子達はにわかに騒がしくなった。=The whole class lit up when Sensei brought up such a delicate topic so suddenly.
@@ -47,7 +47,7 @@
 「最後は自分の事『僕』って言ってるし、普通に喋っていいのよー。もちろん、先生に対してもです」=“You don't have to really, just speak like you normally would. And of course, to me too.”
 「なっ？！　ち、ちょっと先生なに言ってるんすか？　別にキャラなんか作ってないですって！」=“Wha-?! Wh-what you talking about, Sensei? I'm not acting or anything!”
 突然の暴露に慌てて素が出てしまう。=I panicked and went back to my usual self before her abrupt revelation.
-「うふふ、そうそうー、その調子ですよ？　先生はそのままの君の方が魅力的だと思いますよー」=“Ufufu, that's more like it, isn't it? I think you're more charming that way.”
+「うふふ、そうそうー、その調子ですよ？　先生はそのままの君の方が魅力的だと思いますよー」=“Ufufu, that's more like it, isn't it? Sensei thinks you're more charming that way.”
 先生に指摘され気づいた時には遅かった。=When Sensei pointed that out, I realized it was too late.
 先ほどまで上手くいっていた俺への印象付けが、今では胡散臭そうなものを見る目でこちらを見ている。=I made a good impression on them a while ago, but now everyone is eyeing me suspiciously.
 もう取返しがつかないと踏んだ俺は開き直った。=I decided to just go with it once I realized that it can't be changed.
