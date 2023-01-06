@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-（ん？　空いてる席が二つあるけど……どっちに座ればいいんだ？）=(Hmmm? There are two empty seats... which one is mine then?)
+（ん？　空いてる席が二つあるけど……どっちに座ればいいんだ？）=(Hmmm? There are two empty seats... Which one is mine then?)
 俺は先生に指定されたと思っていた席につこうとして、その隣りも空席だったことに気が付く。=As I got near the seat Sensei pointed out, I noticed the seat next to it was also empty.
 野乃花=Nonoka
 「何か分からないことがあったらお隣りの水瀬さんに聞いてね……って、あら？　水瀬さん、今日はお休みかしら」=“If you have any questions, just ask Minase-san sitting next to you... oh? Is Minase-san taking the day off today?”
@@ -42,13 +42,13 @@
 いきなりの挨拶に、俺も思わず朝の挨拶を返してしまった。=After the sudden greeting, I too impulsively greeted her back.
 亜依=Ai
 「それから、はじめまして！　私、水瀬亜依って言って、水泳部に所属してるよ」=“And also, nice to meet you! I'm Minase Ai, and I'm a member of the Swimming Club!”
-「うふふ……水瀬さん、ＨＲの真っ最中なのに教壇の前で自己紹介したら、どっちが転校生なのか、わからなくなっちゃうわよ」=“Ufufu... Minase-san, if you introduce yourself in front of the class in the middle of homeroom, then who knows who the real transfer student is here?”
+「うふふ……水瀬さん、ＨＲの真っ最中なのに教壇の前で自己紹介したら、どっちが転校生なのか、わからなくなっちゃうわよ」=“Ufufu... Minase-san, if you introduce yourself in front of the podium in the middle of homeroom, then we wouldn't know who the real transfer student is.”
 「あっ、すみません！　ダメだ、私完全に寝ぼけちゃってるっ」=“Ah, I'm sorry! Wait, I'm still in dreamland!”
 先生の穏やかなツッコミと、あわふたする水瀬さんにクラス中がどっと沸いた。=The whole class broke into laughter after the stand-up comedy routine between Sakurai-sensei and Minase-san.
 その笑いの暖かさで、彼女がどれだけクラスメイトから慕われているのかを感じることができた。=And from the warmth of their laughter, I could clearly feel how much everyone treasured her.
 きっと、普段からクラスの雰囲気を明るくする、ムードメーカー的な存在なんだろう。=I'm sure that she's the sort of person who lightens the mood of the class every day.
 「水瀬さんが場の空気をなごませてくれたところで、今度こそＨＲを終わりにしましょうか」=“And now that Minase-san has livened things up, we'll be ending homeroom this time.”
-「転校生の水瀬さんは、とりあえず彼の隣りに座ってもらっていい？」=“May I now ask Minase-san, our next transfer student, sit next to him for the time being?”
+「転校生の水瀬さんは、とりあえず彼の隣りに座ってもらっていい？」=“May I now ask Minase-san, or Transfer Student-san, to sit next to him for the time being?”
 櫻井先生のアドリブに再び教室が沸く。=The class broke out into laughter once again.
 「うう～、やっちゃったぁ」=“Uuuu~, I really went and did it this time.”
 水瀬さんも小走りで机と机の間を縫うと、俺の隣りの席にさっと座った。=Minase-san weaved between desks and quickly sat down next to me.
@@ -114,4 +114,4 @@
 （正直、本当に女の子しかいなくて萎縮しちゃってたけれど、ちゃんと話せば理解し合えるんだな）=(Honestly, I kinda felt isolated at first with really no one else but girls, but we really can reach an understanding if we communicate properly with each other.)
 （初日にそれがわかっただけでも大収穫だ）=(Knowing that, I've already made big progress considering it's still just my first day.)
 俺はいつの間にか肩が軽く、視線が上向きになっていることに気が付いた。=Sooner than I had realized, my shoulders felt lighter and my eyes weren't staring down anymore.
-（よし……勉強に運動に、そしてコイカツに……青春を謳歌するぞ！）=(Okay... study, exercise, and Koikatsu... let's enjoy youth to its fullest!)
+（よし……勉強に運動に、そしてコイカツに……青春を謳歌するぞ！）=(Okay... study, exercise, and Koikatsu... Let's enjoy youth to its fullest!)
