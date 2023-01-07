@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「先生は……っと。あ、いたいた」=“Sensei is...Ah, there she is.”
+「先生は……っと。あ、いたいた」=“Sensei is... ah, there she is.”
 放課後、部活動の報告のため、職員室へとやってきた。=After school, I came to the staff room to report on club activities.
 女子校の中に男が一人ということもあって、先生との連絡は出来るだけ密に取りたい。=Since I am the only boy in an all-girls school, I want to keep in close contact with Sensei as much as possible.
 「先生、今いいですか？」=“Sensei, is now a good time?”
@@ -9,7 +9,7 @@
 「はいー、いいですよー」=“Yes, it is.”
 相変わらずほわっとした様子で返事をくれる。=She replied in her usual relaxed manner.
 そうして椅子をこちらへ向け、話を聞いてくれた。=She then turned her chair towards me to listen.
-「授業の質問……じゃないですよね？」=“It's not a question about class...is it?”
+「授業の質問……じゃないですよね？」=“It's not a question about class... is it?”
 「はい。コイカツ部のことでちょっと……」=“Yes. I'd like to talk to you about the Koikatsu club...”
 「あらー、何か行き詰まってしまいましたか？」=“Oh, you've hit a snag, haven't you?”
 「あ、そういうわけではないんです。ただ、現状の報告をしておこうと思いまして」=“Oh, that's not the case. Though, I just thought I'd give you a status report.”
@@ -20,7 +20,7 @@
 「ふふっ、ごめんなさい」=“Fufu, excuse me.”
 慌てる俺へ向かって先生が悪戯っぽく微笑む。=Sensei smiled mischievously at me as I panicked.
 こういうとこ、親しみやすくていい先生だなぁと思う。=I'd expect this sort of thing from a friendly teacher.
-「えっとそれで……コイカツ部はどんな感じなんですか？」=“Well then...what's the Koikatsu club like?”
+「えっとそれで……コイカツ部はどんな感じなんですか？」=“Well then... what's the Koikatsu club like?”
 「あ、はい。一応今のところは……」=“Oh, yes. At least for now...”
 そう言って、部活の現状を簡単に伝える。=With that said, I briefly told her about the current state of our club activities.
 部員の人数や活動としてどんなことをしているかなど……。=The number of club members and what kind of activities they do...
@@ -48,32 +48,32 @@
 「姫川さん？　あ、そういえばこの間、久しぶりに登校していましたねー」=“Himekawa-san?　Ah, come to think of it, she was at school for the first time in a while the other day.”
 「やっぱり在校生なんですね？　良かった……」=“So she's a student after all?　What a relief...”
 「……何がでしょう？」=“... what is it?”
-「あー、いやその……お昼休みの屋上にたった一人、何だか儚げな感じで佇んでいたので……えっと……まさか学園の七不思議的なアレかと思いまして」=“Uh, well, you see...she was standing alone on the roof at lunchtime, looking kind of fragile, so...umm...I thought she might be one of the Seven Wonders of the School...”
+「あー、いやその……お昼休みの屋上にたった一人、何だか儚げな感じで佇んでいたので……えっと……まさか学園の七不思議的なアレかと思いまして」=“Uh, well, you see... she was standing alone on the roof at lunchtime, looking kind of fragile, so... umm... I thought she might be one of the Seven Wonders of the School...”
 「アレ？」=“What?”
 俺の言葉を聞いて、先生がきょとんとした表情になる。=Sensei's expression turned blank upon hearing my words.
 「ええ、アレです。お化け的な」=“Err, she might be a ghost.”
-「……お化け？」=“... a ghost?”
-「……ぷっ……ふふっ、くすくすくすっ！」=“...pu...fufu, kusukusukusu!”
-「ちょっ……そ、そんな笑うことないじゃないですか」=“Hey...ah, there's no need to laugh like that!”
-「ぷぷっ、ごめんなさい。だってお化けだなんて……[P姓]君、変わってますねー」=“Pupu, I'm sorry. I can't believe she's a ghost...[P姓], you're so strange!”
+「……お化け？」=“...a ghost?”
+「……ぷっ……ふふっ、くすくすくすっ！」=“...pu... fufu, kusukusukusu!”
+「ちょっ……そ、そんな笑うことないじゃないですか」=“Hey... th-there's no need to laugh like that!”
+「ぷぷっ、ごめんなさい。だってお化けだなんて……[P姓]君、変わってますねー」=“Pupu, I'm sorry. I can't believe she's a ghost... [P姓], you're so strange!”
 「仕方ないじゃないですか。その日以来、全く会えてないんですから」=“It can't be helped. I haven't seen her at all since that day.”
 笑われたことにちょっと照れつつ、言い訳をしてみる。=I'm a little embarrassed about being laughed at, but I try to make an excuse.
-そういえば俺、姫川さんからも『変な人』って言われたけど……変わってるんだろうか？=Come to think of it, Himekawa-san called me 'strange' too...so maybe I am strange after all?
-「それでその……お化けではない、姫川さんがどうかしましたか？」=“And now...aside from not being a ghost, anything you'd like to know about Himekawa-san?”
+そういえば俺、姫川さんからも『変な人』って言われたけど……変わってるんだろうか？=Come to think of it, Himekawa-san called me 'strange' too... so maybe I am strange after all?
+「それでその……お化けではない、姫川さんがどうかしましたか？」=“And now... aside from not being a ghost, anything you'd like to know about Himekawa-san?”
 「はい、ちょっと会話しただけなんですけど……雰囲気が気になっちゃって。あの娘、病気か何かなんですか？」=“Yes, we just had a little conversation... but I was curious about a certain air of hers. Is she sick or something?”
 俺の質問にまたきょとんとした表情を返す先生。=Sensei gave me another blank look in response to my question.
 どうやらこの質問も的外れだったらしい。=It seems that this question was also off the mark.
 「病気……といった話は聞いてませんけど……どうしてそう思いましたか？」=“I haven't heard anything about her being sick, but... what made you think that?”
-「あー、その、あんまり学園に来られず、あの日も早退だって言ってたので……入院とか検査なのかと」=“Oh, umm, she couldn't come to school much, and she said she had to leave early that day too...so I wondered if she was going to be hospitalized or examined.”
+「あー、その、あんまり学園に来られず、あの日も早退だって言ってたので……入院とか検査なのかと」=“Oh, umm, she couldn't come to school much, and she said she had to leave early that day too... so I wondered if she was going to be hospitalized or examined.”
 「ぷぷぷっ」=“Pupupu!”
 「もうー、笑いすぎですって！」=“Now, you're laughing too hard!”
-「あっ、ごめんなさい！　でも……そうですね。普通は[P姓]君みたいに考えちゃうかも」=“Oh, I'm sorry!　But...I see why you'd think that.”
+「あっ、ごめんなさい！　でも……そうですね。普通は[P姓]君みたいに考えちゃうかも」=“Oh, I'm sorry!　But... I see why you'd think that.”
 「姫川さん、確かにあんまり学園に来られないし、来てもほとんど早退ですものね。でも病気じゃないんですよー」=“It's true that Himekawa-san doesn't come to school very often, and even when she do, she almost always leaves early. But she's not sick.”
 「そうなんですか……」=“I see...”
 『病気じゃない』と聞いて、心から安心した自分に気付く。=Upon hearing 'she's not sick', I was truly relieved.
 どうやら俺はやっぱりあの娘のことが気になっているらしい。=Apparently I really was worried about that girl.
 そう自分の心を分析していると、先生から思いも寄らぬ言葉が飛び出てきた。=As I was analyzing my mind, Sensei said something completely unexpected.
-「姫川さん、実は学外で芸能活動……いわゆるアイドルとして活動してるんですー」=“Himekawa-san works off-campus in show business... she's what you might call an idol.”
+「姫川さん、実は学外で芸能活動……いわゆるアイドルとして活動してるんですー」=“Himekawa-san works off-campus in show business... She's what you might call an idol.”
 「……アイドル？　アイドルってあの……歌を歌ったり、テレビに出たりする……？」=“...Idol?　An idol, you say... that sings and appearing on TV...?”
 「ええ、そのアイドルです。最近はますます人気者になっちゃって、お仕事が忙しいみたいで……学園にはほとんど登校出来てなかったんですよー」=“Yeah, that's an idol. She's become more and more popular lately, and she's been so busy with her work... that she's hardly been able to attend school.”
 「そうだったんですか」=“Oh, I didn't know that.”
@@ -82,8 +82,8 @@
 「姫川さんがそんな娘だったなんて……」=“I didn't know Himekawa-san was that kind of girl...”
 「ふふっ、私からすればまさか[P姓]君がそんな人だったなんて……って感じですよー」=“Fufu, from my point of view, I didn't know you were that kind of guy...”
 「へ？　どういう意味ですか？」=“Eh?　What do you mean?”
-「まさか姫川さんのことを知らないなんて……って意味です。彼女、毎日のようにテレビに出てるでしょう？」=“I mean...don't tell me you don't know about Himekawa-san. She's on TV every day, right?”
-「あ……俺、そういう方面には疎くて……すみません」=“Oh... I'm not familiar with that sort of thing...sorry.”
+「まさか姫川さんのことを知らないなんて……って意味です。彼女、毎日のようにテレビに出てるでしょう？」=“I mean... don't tell me you don't know about Himekawa-san. She's on TV every day, right?”
+「あ……俺、そういう方面には疎くて……すみません」=“Oh... I'm not familiar with that sort of thing... sorry.”
 「いえいえ、別に謝ることじゃないですよー。今、知ったんだから、それでいいんです」=“No, no, you don't have to apologize. Now you know, so it's okay.”
 「先生……」=“Sensei...”
 先生はこう言ってくれてるけど、部活を主導している身としては失格だよな。=Sensei said this to me, but I feel I'm disqualified as club leader.
@@ -102,7 +102,7 @@
 「ふふっ、[P姓]君もさすが男の子ですねー」=“Fufu, [P姓], you're indeed a boy.”
 「……？　どういう意味ですか？」=“...?　What do you mean?”
 「姫川さんみたいに可愛い女の子は放っておけないですものね」=“You can't leave a pretty girl like Himekawa-san alone.”
-「なっ……お、俺はただ部活でっ……」=“Wha...ah, I'm just doing my club work...”
+「なっ……お、俺はただ部活でっ……」=“Wha... ah, I'm just doing my club work...”
 「照れない照れない。そういうのいいですよー。先生、応援しちゃいますよー」=“Don't be shy. I like that kind of thing! I'm rooting for you.”
 「もう、何なんですか一体」=“What in the world is going on?”
 照れながらそう答えつつも、強く否定は出来ない俺だった。=I may have answered embarrassedly, but I couldn't deny it strongly.
