@@ -4,7 +4,7 @@
 「あら、私だってたまにはここにいるのよ？」=“Oh my, you know I come here sometimes, right?”
 「もしかして保健室に用事だった？　すぐに戻るから待っててね」=“Did you have to go to the infirmary? I'll be right there so wait for a bit.”
 「職員室って意外とざわざわしてるでしょう？　落ち着かないわよね」=“Isn't the staff room annoyingly crowded? It's very uncomfortable.”
-「きみは廊下もきちんと右側を歩いて……模範的な学生ね」=“You walk on the right side of the hallway... you're an exemplary student.”
+「きみは廊下もきちんと右側を歩いて……模範的な学生ね」=“You walk on the right side of the hallway... You're an exemplary student.”
 「ふふっ、女学園だけあって廊下もいい香りがするでしょう？　え？　考えたことない？　嘘吐かなくていいのよ♪」=“Fufu, the hallways smells good because it's a girls' school, doesn't it? Oh? You never thought about it? You don't have to lie to me♪”
 「廊下は落ち着いて歩かなきゃダメよ？　きみとぶつかったら女の子の方が飛ばされるんだから」=“You have to walk calmly in the hallways, alright? If you run into a girl you'll knock her down.”
 「えーっと、ここの教室は……何年何組だっけ？」=“Let's see, this classroom is... how many classes are there again?”
