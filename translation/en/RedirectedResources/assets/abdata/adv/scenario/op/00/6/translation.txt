@@ -16,13 +16,13 @@
 「まずは、お詫びさせてください。この度は、お騒がせしてしまい申し訳ありません」=“First off, allow me to apologize for causing such a commotion.”
 「女性だけの学園に、突然、男である私が転入してきて混乱していらっしゃると思います」=“There is no doubt you are confused about me, a boy, suddenly transferring to an all-girls school.”
 「ですが、少しずつでも受け入れていただけると助かります」=“Nevertheless, I'll do my very best to fit in and be accepted, little by little, by every one of you.”
-「何かとご迷惑をかけると思いますが、これからよろしくお願いいたします」=“I believe I might cause some inconvenience, but I hope we'll get along with each other from now on.”
+「何かとご迷惑をかけると思いますが、これからよろしくお願いいたします」=“I am sure I might cause some inconvenience, but I hope we'll get along with each other from now on.”
 人間、ファーストインパクトが大事だ。=First impressions are everything when building a new relationship.
 少しでも印象をよくするために、丁寧な口調に気をつけて自己紹介を済ませる。=In order to make as good of an impression as possible, I introduced myself as politely and as formally as I could.
 「はい、自己紹介ありがとうございましたー」=“Okay, thank you for the introduction~”
 「みなさん、仲良くしてあげてくださいね？　拍手ー」=“Be sure to get along with him, okay everyone? Applause~”
 パチパチパチと女生徒たちみんなが手を叩いてくれた。とりあえず歓迎されているみたいだ。=The girls in class all clapped their hands. Seems like I'm welcomed at the very least.
-「はーい、ありがとうございます。……あっ、そういえば彼には大事なお仕事がありましてー」=“Okay, thank you everyone... ah, I almost forgot that he has something important to tell you all.”
+「はーい、ありがとうございます。……あっ、そういえば彼には大事なお仕事がありましてー」=“Okay, thank you everyone... Ah, I almost forgot that he has something important to tell you all.”
 「みなさん知っての通り、彼は学園唯一の男の子なのですがー、やはり気になりますよね？　異性として」=“As you all know, he's the only boy in this school, but it's only inevitable that you'd be interested in him, right? As a member of the opposite sex.”
 先生から突然のぶっちゃけトークに、女の子達はにわかに騒がしくなった。=The whole class lit up when Sensei brought up such a delicate topic so suddenly.
 （……部活のことを話すつもりなのだろうか？）=(...is she planning to talk about the club?)
@@ -56,6 +56,6 @@
 「だから、喋り方はこっちの方が普通なんだけど、できれば慣れてくれると嬉しいな」=“So yeah, this is how I usually talk. I hope you don't mind.”
 （……これでなんとかフォローできたかな）=(...I hope this managed to save something.)
 「はい、じゃあ、自己紹介も終わったところでー、きみの席を案内しましょうか」=“Okay, now that we've got to know each other, let me show you where you'll be sitting.”
-「えーと……あ、あそこが空いてるわねー。そこに座ってください」=“Let's see... ah, there's an empty seat. Please sit there.”
+「えーと……あ、あそこが空いてるわねー。そこに座ってください」=“Let's see... Ah, there's an empty seat. Please sit there.”
 「わかりました」=“Alright.”
 こうしてなんとか無事（？）自己紹介を終えた。=And so, I managed to successfully(?) introduce myself.
