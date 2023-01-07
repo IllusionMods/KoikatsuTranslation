@@ -9,6 +9,6 @@
 「は、はい……」=“O-okay...”
 「それと、生活態度についても注意すること。良いかしら」=“Also, pay attention to your conduct. Understand?”
 「わ、わかりました」=“U-understood.”
-「返事が頼りないわね」=“Your reply is uneasy.”
+「返事が頼りないわね」=“Your reply is not very encouraging.”
 「わかりました……！　気をつけます！」=“Understood...!　I'll be careful!”
-「……よし。それじゃあ」=“...Better. Okay then.”
+「……よし。それじゃあ」=“...better. Okay then.”
