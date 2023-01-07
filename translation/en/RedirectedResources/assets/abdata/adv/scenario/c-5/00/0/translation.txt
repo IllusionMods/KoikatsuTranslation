@@ -60,7 +60,7 @@
 「まさか学園内でナンパってこともないだろうし♪」=“I don't think anyone would go to the school just to hit on girls♪”
 「もちろんだよ。俺はれっきとした学生。この間転入してきたんだ」=“Of course. I'm a student here. I moved in recently.”
 「男の子がうちに？」=“A boy in our midst?”
-「えっと、まぁ色々あって……俺の名前は[P名前]。実はさ……」=“Well, it's kind of a long story... my name is [P名前]. I'm actually...”
+「えっと、まぁ色々あって……俺の名前は[P名前]。実はさ……」=“Well, it's kind of a long story... My name is [P名前]. I'm actually...”
 そう言って、俺が転入してきた理由を説明する。=Saying that, I explained why I moved in.
 「なるほど。そういうことだったんだ」=“I see. So that's what it's all about.”
 部活のことまで包み隠さず話すと、女の子がようやく納得した表情を浮かべる。=When I told her about the club activities without any concealment, the girl finally gave me a satisfied look.
@@ -75,7 +75,7 @@
 「え……？」=“Eh......?”
 不意に呟かれた一言が気になって、つい聞き返してしまった。=I was worried about the comment that was unexpectedly muttered, and I couldn't help but ask back.
 だけど女の子はまた空を見上げて、次の言葉を続けようとはしない。=But the girl looked up at the sky again, and did not continue to speak next.
-（き、気になるけど……聞かない方がいいのか……？）=(I'm worried, but...would it be better not to ask...?)
+（き、気になるけど……聞かない方がいいのか……？）=(I'm worried, but... would it be better not to ask...?)
 もしかしたら深刻な病気か何かかもしれないし……。=Maybe it's a serious illness or something...
 それで学園にあまり通えなくて、クラスに友達も少ないとか……。=And she couldn't go to school much, or she doesn't have many friends in her class...
 だから昼休みだというのに、こんな場所に一人きりでいたんじゃ……。=That's why she's alone in a place like this even though it's lunch break...
@@ -97,7 +97,7 @@
 俺の言葉に嬉しそうな表情を浮かべて、立ち去ろうとする。=With a happy look from my words, she turns to leave.
 その後ろ姿へ向かって、俺はついまた言葉をかけていた。=As she made her way to the back door, I called out to her again.
 「あのっ……次に学園に来るのはいつかな？」=“Um... when's the next time you're coming to school?”
-「あ……ちょっと分からないの。ごめんなさい」=“Oh ... I don't know. I'm sorry.”
+「あ……ちょっと分からないの。ごめんなさい」=“Oh... I don't know. I'm sorry.”
 振り向きながら、また少しだけ切なそうな表情。=As she turned around, she looked a little wistful again.
 もしも病気で休みがちなんだとしたら、今の俺の質問はちょっと無神経過ぎたかもしれない。=If she was sick and had to take a lot of time off, my question might have been a little too insensitive.
 「あー、ごめんっ！　また会いたいなって思って……つい……」=“Oh, I'm sorry!　I thought I'd like to see you... again...”
