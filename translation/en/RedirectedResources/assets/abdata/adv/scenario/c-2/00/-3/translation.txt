@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「難しい顔をしているわね。悩むことも大切よ」=“You look troubled. It's important to make do it.”
+「難しい顔をしているわね。悩むことも大切よ」=“You look troubled. It's important to make do with it.”
