@@ -3,7 +3,7 @@
 //
 麗奈=Reina
 「ここでの学園生活に、少しは慣れてきたようね。授業態度や成績も悪くないようだし」=“I see you've gotten used to school life here a little bit. Your grades and classroom conduct aren't too bad.”
-「環境がガラッと変わりましたけど、周りに付いていけるようになんとか……という感じです」=“The environment has changed drastically, but I've managed to...keep up with the people around me.”
+「環境がガラッと変わりましたけど、周りに付いていけるようになんとか……という感じです」=“The environment has changed drastically, but I've managed to... keep up with the people around me.”
 「結果が出ている以上問題ないわ」=“I don't have a problem with that as long as the results are good.”
 「でも、これで満足せずにさらに上を目指しなさい？」=“But, you should not be satisfied with this, so why not aim higher?”
 「気を抜いたら、もしくは現状維持で良しとしたら、落ちていく一方だから」=“If you let up, or are happy with the status quo, you're just going to keep falling.”
