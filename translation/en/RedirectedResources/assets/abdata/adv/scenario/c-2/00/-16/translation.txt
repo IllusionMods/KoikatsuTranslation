@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「コイカツ部の活動というのは、教師も対象に……いいえ、なんでもないわ」=“The Koikatsu club activities are for teachers too... no, it's nothing.”
+「コイカツ部の活動というのは、教師も対象に……いいえ、なんでもないわ」=“The Koikatsu club activities are for teachers too... No, it's nothing.”
