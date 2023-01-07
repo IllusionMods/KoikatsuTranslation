@@ -2,7 +2,7 @@
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
 リナ=Lina
-「はぁ……あんなに激しいなんて……きみ、やっぱりギャップ萌えね」=“Hah... I can't believe you'd be so intense... you definitely have gap moe.”
+「はぁ……あんなに激しいなんて……きみ、やっぱりギャップ萌えね」=“Hah... I can't believe you'd be so intense... You definitely have gap moe.”
 「すみません。俺……つい、自分勝手な感じに……」=“I'm sorry. I... got carried away, and was being selfish...”
 「いいのいいの。男の子なんだから。そっちの方が私も嬉しいし……」=“It's okay. You're a boy after all. I'm happy you're like that...”
 「でも……うん、それだけ体力があるなら、部長としても安心ね。これからもますますセックスに励みなさい」=“But... yeah, if you have that kind of stamina, you're perfect as club president. Keep on having more and more sex from now on.”
