@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「ふふ……うふふ……おーっほっほっほ！　やっと、わたくしに見合う殿方が表れたみたいね！」=
-//「う、うん……そう言ってくれて嬉しいよ」=
-//「でも油断なさらないでね？　自らの価値を落とすような言動は慎むこと。よろしくて？」=
-//「わかってるよ。きみに嫌われたくないし……」=
-//「いい心がけですわ。もちろん、わたくしも努力し続けます！　あなたにもっと関心をもってもらえるように」=
-//「うん……」=
-//（なんだかんだ言ってるけど、ちゃんと好きになってくれてるんだな……）=
+「ふふ……うふふ……おーっほっほっほ！　やっと、わたくしに見合う殿方が表れたみたいね！」=“Fufu... ufufu... ohohoho! At last, a gentleman worthy of me has come!”
+「う、うん……そう言ってくれて嬉しいよ」=“Y-yeah... I'm glad you said that.”
+「でも油断なさらないでね？　自らの価値を落とすような言動は慎むこと。よろしくて？」=“But don't let your guard down.　You must never do or say anything that will diminish your value. Understand?”
+「わかってるよ。きみに嫌われたくないし……」=“Understood. I don't want you to hate me...”
+「いい心がけですわ。もちろん、わたくしも努力し続けます！　あなたにもっと関心をもってもらえるように」=“An admirable mindset. Of course, I'll also make an effort to keep you more interested in me.”
+「うん……」=“Right...”
+（なんだかんだ言ってるけど、ちゃんと好きになってくれてるんだな……）=(I have no idea what she's talking about, but I'm sure she likes me...)
