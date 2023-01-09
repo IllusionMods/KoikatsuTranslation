@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「よろしくてよ。しっかりと楽しませてくださいませね？」=
-//「うん、紳士の務めだからね」=
-//「おっほっほ。その調子ですわ。では楽しみにしておりますわ」=
+「よろしくてよ。しっかりと楽しませてくださいませね？」=“Very well. Please make sure to keep me entertained, won't you?”
+「うん、紳士の務めだからね」=“Yes, it's a gentleman's duty.”
+「おっほっほ。その調子ですわ。では楽しみにしておりますわ」=“Ohoho. Exactly. Then I look forward to it.”
