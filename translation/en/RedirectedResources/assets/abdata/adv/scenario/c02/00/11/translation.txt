@@ -5,6 +5,6 @@
 「な、なんだよ、その言い方……」=“Wh-what's with that tone...?”
 「日頃の行いに問題があるとお思いにならないの？　そんなことでは、わたくしが相手するまでもなさそうですわね」=“Do you not think there's something wrong with your conduct?　If so, I don't think I need to bother with you.”
 「え？　あ、あの……怒ってるの？」=“What?　Oh, um... are you mad?”
-「あなたなど怒るに値しませんわ。おつきあいもこれまでにさせていただきたく存じますわ」=“You are not worthy of my wrath. I'm afraid I have had enough of your company.”
+「あなたなど怒るに値しませんわ。おつきあいもこれまでにさせていただきたく存じますわ」=“You are not worthy of my wrath. Nor are you, I'm afraid, worthy of my company.”
 「な……それって、つまり……」=“Wha... so, that means...”
 「察しの悪い方ね。あなたとはもうお別れですわ！　よろしくて？」=“You're not very perceptive. I'm through with you!　Understand?”
