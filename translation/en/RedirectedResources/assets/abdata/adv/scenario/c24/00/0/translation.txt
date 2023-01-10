@@ -2,11 +2,11 @@
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
 「今ちょっといいかな？　コイカツ部の活動をしてるんだけど」=“You got a moment? I'm from the Koikatsu club.”
-「？　っ！　っっ！？　えっ、あの……えっと……」=“? --! ---!? Eh--, uhm... erhm...”
+「？　っ！　っっ！？　えっ、あの……えっと……」=“? --! ---!? Eh--, umm... erm...”
 「あ、驚かせたならごめんね。俺、[P名前]って言って……」=“Ah, sorry if I caught you off guard. I'm [P名前]...”
 「知ってます。あなたのことも、コイカツ部のことも……全部♡」=“I know. About you, about the Koikatsu club... everything♡”
 「そ、そうなんだ？」=“Th-that so?”
 「お話……ですよね？　コイカツ部の……うふふ♡」=“You wanted to... talk, right? About the Koikatsu club... ufufu♡”
 「あ、そうだね。じゃあ……ちょっとお話しようか」=“Yeah, I did. Well then... let's chat for a bit.”
-（なんだか不思議な子だけど、話してるうちに仲良くなれるかな？）=(She seems like a pretty strange girl. Would I be able to get off on the right foot with her with this chat?)
+（なんだか不思議な子だけど、話してるうちに仲良くなれるかな？）=(She seems like a pretty strange girl, but I think we'll get along with this chat?)
 「…………」=“......”
