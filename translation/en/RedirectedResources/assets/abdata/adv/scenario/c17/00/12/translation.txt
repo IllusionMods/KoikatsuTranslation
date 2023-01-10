@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「……いいわよ」=“...We can.”
-「本当にいいの？」=“Is it really fine?”
-「ええ、私の大好きで、大切な恋人だもの」=“Yes, you're my lover and a very dear person to me.”
-「だから、私の初めて、もらってほしい」=“So, I want you to take my first time.”
+「……いいわよ」=“...sure.”
+「本当にいいの？」=“Are you really?”
+「ええ、私の大好きで、大切な恋人だもの」=“Yes, you're my boyfriend and are very dear to me.”
+「だから、私の初めて、もらってほしい」=“So, I want you to be my first.”
