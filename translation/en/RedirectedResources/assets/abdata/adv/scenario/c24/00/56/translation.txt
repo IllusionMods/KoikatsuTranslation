@@ -5,7 +5,7 @@
 「それは……」=“That's...”
 「言ってください、私、絶対に直します！　あなたは私の全てなんです！」=“Please say it, I'll definitely change! You're everything to me!”
 「……ごめん」=“...Sorry.”
-「！　や、やだぁ……やだやだやだ！　別れたくない！　やだよぉっ！　なんでそんなこと言うのぉ～っ……」=“! N-No... No, no, no! I don't want to break up! I don't--! Why would you even say that~--...”
+「！　や、やだぁ……やだやだやだ！　別れたくない！　やだよぉっ！　なんでそんなこと言うのぉ～っ……」=“! N-no... No, no, no! I don't want to break up! I don't--! Why would you even say that~--...”
 「ねえ、ウソって言ってぇ！　私、あなたの言うことなら何でも聞くよ？　他の子が嫌がることでも何でも喜んでするからぁっ！」=“Hey, please tell me you were joking! You know I'll listen to anything you say, right? I'll gladly do anything, even stuff that other girls will never want anything to do with--!”
 「……本当に、ごめん！」=“...I really am sorry!”
 「っ！！　…………もう、何を言っても……ダメ……なんだ……私、取り返しのつかないこと、あなたにしたんだ……」=“--!! ...No matter what I say... it's... useless... I did something to you, that I can't take back...”
