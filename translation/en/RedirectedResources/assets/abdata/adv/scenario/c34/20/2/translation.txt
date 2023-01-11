@@ -4,7 +4,7 @@
 「この国のコト、スコシ分かてキマシタ。ケド、アナタのコト、トテモよく分かりマシタ」=“I feel like I understand a bit what Japan is about now, but I understand you a whole lot more.”
 「え？」=“Eh?”
 「ワタシ、アナタのコト、好きデス♡　オトコノコ、トシテ、愛、感じマス♡」=“I love you♡ I feel love for you, a boy♡”
-「えええっ！？　な、なんで！？」=“Eeeeeh!? Wh-Why!?”
+「えええっ！？　な、なんで！？」=“Huuuuh!? Wh-why!?”
 「ナンデ？　Ｏｈ，ｒｅａｓｏｎデスネ？　ニッポン語出来ないワタシに、イッパイ親切くれマシタデスカラ」=“Why? <Oh, reason> desu? Because you were kind to me, a girl who can't speak Japanese.”
 「Ｃｌａｓｓｍａｔｅ、先生、ニッポンの人、皆サン親切デスケド、距離アリマス。言葉の壁タイヘンデース」=“<Classmate>, Sensei, the people of Japan in general, everyone is kind, but there's this distance. A great language barrier desu.”
 「デモ、アナタはイッパイｃｏｍｍｕｎｉｃａｔｉｏｎして、タクサンａｐｐｒｏａｃｈくれマシタ。アナタダケ、ｓｐｅｃｉａｌデシタ♡」=“But, you do a lot of <communication>, and you <approach> me a lot. You are the only <special> one♡”
