@@ -6,5 +6,5 @@
 「…………」=“......”
 「うえっ！　ど、どうして俺の上に……？」=“Wah!　Wh-why are you top of me...?”
 「おーっほっほっほ。いついかなる時も、わたくしを楽しませるのが紳士の務めでしてよ？」=“Ohohoho! It is a gentleman's duty to give me a good time at all times, no?”
-「それなら普通に起こしてくれたらいいのに……まあ、喜んで付き合うけどさ」=“In that case, you could've just woken me up normally... oh well, I'm happy to go along with you.”
+「それなら普通に起こしてくれたらいいのに……まあ、喜んで付き合うけどさ」=“In that case, you could've just woken me up normally... Oh well, I'm happy to go along with you.”
 「やはりあなたは最高ですわ！」=“You truly are the best!”
