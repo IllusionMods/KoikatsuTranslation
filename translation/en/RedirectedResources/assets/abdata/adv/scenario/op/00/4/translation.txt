@@ -15,7 +15,7 @@
 「えっとー、きみが緊張してるみたいだったから、ついー」=“Well, you looked kind of nervous, so I just-”
 「ついって何ですか！　急に手を握られたから、びっくりしちゃったじゃないですか……」=“Just what!? That really surprised me, holding my hand so suddenly like that...”
 「まぁ、でも確かに緊張はほぐれましたけど……」=“Well, I guess I'm not quite as nervous now, but...”
-（変にドキドキしてしまった……）=(Man, that made my heart skip a beat...)
+（変にドキドキしてしまった……）=(That made my heart skip a beat...)
 慌てて手を引っ込めだが、先生の手はすごく柔らかかった。=As I hastily pulled back my hand, I could still feel the soft sensation of Sensei's hands.
 「うふふ、作戦成功です。それと話し方も今みたいに普段の話し方でいいですよー」=“Ufufu, mission accomplished. Also, it's okay for you just speak like you normally would, like you did now.”
 「わかりました、でも非常識な人間ではないので、先生相手には敬語で話させてもらいますね」=“Alright, I understand, but I'm not without common sense, so I'll be polite when speaking with you.”
@@ -27,14 +27,14 @@
 （ほっ……歓迎してもらえてるみたいで一安心だ）=(Phew... at least I can rest assured that I'm not a bother.)
 （もし、転入が伝わってなかったら……と思ったが杞憂だったな）=(If the teachers had not been told about the transfer... but I guess I worried for nothing.)
 安心したところで、不安材料が一つ思い浮かぶ。=After some relief, a sudden fear then arose in my mind.
-（……部活のことは伝わってるんだろうか？）=(...have the teachers heard about what I'm going to do here?)
-「その、先生は部活の事って聞いてたりします？」=“Ah, Sensei, have you heard anything about my club?”
+（……部活のことは伝わってるんだろうか？）=(...Have the teachers heard about what I'm going to do here?)
+「その、先生は部活の事って聞いてたりします？」=“Um, Sensei, have you heard anything about my club?”
 「はい、学園長から部活のことも聞いてますー。先生に手伝えることがあったら気軽に相談してくださいねー」=“Yes, the principal already informed me about the club. If you need anything, feel free to ask me for help.”
 「ありがとうございます。よかった、ちゃんと話してくれてるみたいだ」=“Thank you. I'm glad she actually told everyone.”
-どうやら話し忘れていたのは、俺に対してだけだったらしい。=Looks like my aunt remembered to tell everyone BUT me.
+どうやら話し忘れていたのは、俺に対してだけだったらしい。=Looks like the only person she forgot to tell was me.
 「うふふ、それじゃあ、早速クラスへ移動して、自己紹介をしてもらいますね」=“Ufufu. Well then, let's go to class and I'll have you introduce yourself.”
 「心の準備はいいですかー？」=“Are you ready?”
 「……はい！」=“...Yes!”
 「うふふ、いい返事ですー。クラスに向かうので、先生について来てください」=“Ufufu, excellent answer. Alright, we'll now head to class so please follow me.”
 ゆっくり立ち上がり、ぽてぽてと歩き出した先生の後ろをついていく。=I followed behind Sensei as she gently stood up and started walking.
-移動しながら自己紹介で何を話すか考えておこう。=I should think about how I'll introduce myself on the way.
+移動しながら自己紹介で何を話すか考えておこう。=I should think about what to say when I introduce myself while going there.
