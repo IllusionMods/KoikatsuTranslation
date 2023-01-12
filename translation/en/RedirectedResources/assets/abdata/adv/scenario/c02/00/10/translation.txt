@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「ふふふ、わかってますわ……わたくしの力が必要なのでしょう。当然ですわ！」=“Fufufu, I understand... you need me to assist you, no? Very well!”
+「ふふふ、わかってますわ……わたくしの力が必要なのでしょう。当然ですわ！」=“Fufufu, I understand... You need me to assist you, no? Very well!”
 「え？　入ってくれるの？　そういうの嫌いそうなイメージがあったら意外だよ」=“What?　You're joining?　I thought you'd dislike that sort of thing, so that was surprising.”
 「本来なら、鼻で笑ったことでしょう。でも他ならぬあなたのお願いなんですもの。仕方ありませんわ！」=“Normally, I would have scoffed. But that request came from you and no one else. It cannot be helped!”
 「……一応聞くけど、活動内容知ってる？」=“...I'll ask just in case, do you know what the club is about?”
