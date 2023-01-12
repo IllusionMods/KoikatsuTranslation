@@ -4,5 +4,5 @@
 「ワタシたち……もうｃｏｕｐｌｅじゃない方が、イイ思うヨ」=“I think it would be better... if we weren't a <couple> anymore.”
 「え……どうしたの？」=“Eh... what's the matter?”
 「ドウシタノ？　ワタシたち、うまく行ってないヨネ。Ｈａｒｄ　ｔｏ　ｕｎｄｅｒｓｔａｎｄ……アナタのコト、分からないカラ」=“What's the matter? It's not working out between us. <Hard to understand>... I don't understand you.”
-「それって……ちょっと待って」=“That's... please, just wait.”
+「それって……ちょっと待って」=“That's... Please, just wait.”
 「ココロの距離、遠くなったヨ。サヨナラデス」=“Our hearts, have gotten really distant. Goodbye.”
