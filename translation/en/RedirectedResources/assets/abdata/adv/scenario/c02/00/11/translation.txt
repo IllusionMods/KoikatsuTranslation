@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「……はぁ、何も考えていないって顔していらっしゃいますわね。呆れますわ」=“...haah, you have an unthinking look on your face. I'm apalled.”
+「……はぁ、何も考えていないって顔していらっしゃいますわね。呆れますわ」=“...Haah, you have an unthinking look on your face. I'm apalled.”
 「な、なんだよ、その言い方……」=“Wh-what's with that tone...?”
 「日頃の行いに問題があるとお思いにならないの？　そんなことでは、わたくしが相手するまでもなさそうですわね」=“Do you not think there's something wrong with your conduct?　If so, I don't think I need to bother with you.”
 「え？　あ、あの……怒ってるの？」=“What?　Oh, um... are you mad?”
