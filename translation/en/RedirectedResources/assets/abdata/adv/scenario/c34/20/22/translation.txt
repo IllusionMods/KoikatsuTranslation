@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「Ｈｉ♪　家庭科の授業でＧｉｎｇｅｒ　ｃｏｏｋｉｅ作りました。もらってくれマスカ？」=“Hi♪♡ I made ginger cookies during home-ec. WIll you try some?”
+「Ｈｉ♪　家庭科の授業でＧｉｎｇｅｒ　ｃｏｏｋｉｅ作りました。もらってくれマスカ？」=“<Hi>♪ I made <ginger cookies> in home economics class. Would you like some?”
 「わあ、嬉しいな。いただくよ」=“Waah, I'm so happy. I'll try some for sure.”
-「Ｔｈａｎｋ　ｙｏｕ♡　ワタシのｍａｍａがよく作ってくれるデスカラ、アナタにも、味、知ってもらいたかったデース♡」=“Thank you♡ My mama makes them often, so I wanted to show you how they taste too♡”
+「Ｔｈａｎｋ　ｙｏｕ♡　ワタシのｍａｍａがよく作ってくれるデスカラ、アナタにも、味、知ってもらいたかったデース♡」=“<Thank you>♡ My <mama> makes them often for me, so I wanted to show you how they taste too♡”
