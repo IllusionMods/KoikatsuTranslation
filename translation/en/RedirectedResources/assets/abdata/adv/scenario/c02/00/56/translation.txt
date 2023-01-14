@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「本気でおっしゃってるの？　このわたくしと別れたいなどと……冗談ですわよね？」=“Are you serious?　That you intend to part with me... Surely that's a joke?”
+「本気でおっしゃってるの？　このわたくしと別れたいなどと……冗談ですわよね？」=“Are you serious?　That you intend to part with me... Surely that is a joke?”
 「……本気だよ。ちゃんと考えたんだ」=“...I'm serious. I've thought it over.”
-「そう、わたくしとは違う考えを持っているようね……残念ですわ」=“I see, You seem to think differently than I do... Lamentable.”
+「そう、わたくしとは違う考えを持っているようね……残念ですわ」=“I see, you seem to think differently than I do... Lamentable.”
 「俺も残念だよ」=“Lamentable indeed.”
 「まあ、所詮はわたくしに見合う人ではなかった、ということですわね。それではごきげんよう」=“Well, it just means that you were not worthy of me, after all. Farewell.”
