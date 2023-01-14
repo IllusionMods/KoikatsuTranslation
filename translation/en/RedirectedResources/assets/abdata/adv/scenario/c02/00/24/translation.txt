@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「おーっほっほっほ。先程の家庭科の授業で作った、このパウンドケーキ……差し上げますわ！」=
+「おーっほっほっほ。先程の家庭科の授業で作った、このパウンドケーキ……差し上げますわ！」=“Ohohoho. I recently made this pound cake in home economics class... and I shall give it to you!”
 「ありがとう」=“Thank you.”
-//「あなたのために作りましたの。粉一粒残さず、ご賞味くださいませね。では、ごきげんよう」=
+「あなたのために作りましたの。粉一粒残さず、ご賞味くださいませね。では、ごきげんよう」=“I made it just for you. Please savour it, without leaving. Well then, good day to you.”
