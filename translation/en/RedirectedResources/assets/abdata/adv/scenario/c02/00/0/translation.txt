@@ -2,9 +2,9 @@
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
 「やあ、初めまして」=“Hello, a pleasure to meet you.”
-「おーっほっほっほ、わざわざ挨拶に来たのね！　いい心がけですわ！」=“Ohohoho, I see you've come all the way to greet me!　How thoughtful of you!”
+「おーっほっほっほ、わざわざ挨拶に来たのね！　いい心がけですわ！」=“Ohohoho, I see you have come all the way to greet me!　How thoughtful of you!”
 「あ、ああ……ええっと、[P名前]って言うんだけど……」=“A-ah... umm, my name's [P名前]...”
-「あら、名前までは結構よ！　でも積極的なのは悪いことじゃないわね」=“Oh, I did not ask for your name!　Though, there's nothing wrong with being proactive.”
+「あら、名前までは結構よ！　でも積極的なのは悪いことじゃないわね」=“Oh, I did not ask for your name!　Though, there is nothing wrong with being proactive.”
 「え？　でも、初対面なんだし、自己紹介ぐらい、ちゃんとさせてくれよ」=“Huh?　But this is the first we've met, so please allow me to introduce myself, at least.”
 「…………」=“......”
 「ふふ、あなたは見込みがありそうね。いいわ、忘れるまで、その名前憶えておいてあげる。感謝なさい」=“Fufu, you look promising. Very well, I shall remember your name until I forget it. You should be grateful for that.”
