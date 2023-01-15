@@ -11,7 +11,7 @@
 「えーと、今日はみなさんのクラスに仲間が一人増えることになりました」=“Eh, it's been decided that a new friend will be joining us today.”
 「友達が増えることはとってもいい事です。つまり、今日はとってもいい日ですね」=“Making new friends is a wonderful thing indeed. In other words, today's a very joyous day.”
 「ふふっ、先生の話はここまでにして早速自己紹介をお願いしますねー？」=“Fufu, I'll stop here and let our new friend introduce himself then?”
-チラリとこちらへ目配せした先生にうなずき返して、改めて自己紹介をする。=Sensei signaled to me with a quick glance. Nodding back, I formally introduced myself to everyone.
+チラリとこちらへ目配せした先生にうなずき返して、改めて自己紹介をする。=Sensei signaled to me with a quick glance. I nodded back and then introduced myself to everyone.
 「みなさん、はじめまして。ご紹介いただきました[P名前]です」=“I am pleased to meet you all. My name is [P名前].”
 「まずは、お詫びさせてください。この度は、お騒がせしてしまい申し訳ありません」=“First off, allow me to apologize for causing such a commotion.”
 「女性だけの学園に、突然、男である私が転入してきて混乱していらっしゃると思います」=“There is no doubt you are confused about me, a boy, suddenly transferring to an all-girls school.”
@@ -26,7 +26,7 @@
 「みなさん知っての通り、彼は学園唯一の男の子なのですがー、やはり気になりますよね？　異性として」=“As you all know, he's the only boy in this school, but it's only inevitable that you'd be interested in him, right? As a member of the opposite sex.”
 先生から突然のぶっちゃけトークに、女の子達はにわかに騒がしくなった。=The whole class lit up when Sensei brought up such a delicate topic so suddenly.
 （……部活のことを話すつもりなのだろうか？）=(...Is she planning to talk about the club?)
-（どの道、話さなきゃいけないことだから、先生から伝えてくれるのはありがたいけど……）=(Well, I'll eventually have to come out with it sooner or later, so it's great that Sensei is telling everyone herself, but...)
+（どの道、話さなきゃいけないことだから、先生から伝えてくれるのはありがたいけど……）=(Well, I have to talk about it anyway, so it's great that Sensei is telling everyone herself, but...)
 （もうちょっと、オブラートに包んだほうがいいんじゃ……？）=(Maybe she could have been, I don't know, a little less blunt...?)
 そんな俺の心配を余所に、女の子達は好奇心を隠すことなく、先生の話を聞いている。=My worries aside, the girls in class continued to listen to Sensei with brimming curiosity.
 「実はー、この度、恋愛経験の少ない皆さんのために、異性とのコミュニケーションを取る練習をしてもらおうかと思いましてー」=“The truth is, for those who have little to no experience with dating, he's here to help you practice communicating with the opposite sex.”
