@@ -6,7 +6,7 @@
 「いや、一応ここの学生なんだけど……もしかして留学生？」=“No, for what it's worth, I am a student here, but... are you perhaps a foreign exchange student?”
 「Ｎｏ，転入生デース。ワタシ、ニッポン生まれケド、ズット海外デシタ。ダカラ言葉、オベンキョ中デース」=“<No>, a transfer student desu. I was born in Japan, but I've been abroad for the longest time. That's why, I'm still learning the language.”
 （つまり、帰国子女ってことか、なるほど）=(So basically she's a returnee, I see.)
-「良かったら、俺と話して日本語を勉強しない？　コイカツ部はコミュニケーション活動をする部活なんだけど」=“If you'd like, how about you study Japanese by chatting with me? At the base level, the Koikatsu club was supposed to be all about communication, after all.”
+「良かったら、俺と話して日本語を勉強しない？　コイカツ部はコミュニケーション活動をする部活なんだけど」=“If you'd like, how about you study Japanese by chatting with me? The Koikatsu club activities are supposed to be about communication, after all.”
 「Ｏｈ，ｒｅａｌｌｙ！？　ココで会ったのナニカの百年目デース、仲良ししてクダサ～イ♪」=“<Oh, really>!? Our meeting here might have been a once-in-a-lifetime chance, so please treat me well~♪”
 （『百年目』じゃなくて『ご縁』って言いたかったんだろうな）=(I think she wanted to say 'fate' instead of 'once-in-a-lifetime chance'.)
 「とりあえず、どんなことを話すか決めようか。何か日本語の勉強になりそうな話題は……」=“For the time being, shall we decide what we're going to talk about? Something that'd help you with getting used to Japanese...”
