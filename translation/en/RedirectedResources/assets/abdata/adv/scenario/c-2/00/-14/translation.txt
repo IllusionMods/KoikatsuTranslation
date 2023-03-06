@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「あなたは、尊敬できる人はいるかしら。その人から受ける影響はとても大きいはずよ」=“I wonder if there is someone you admire. I'm sure that person must have had a huge influence on you.”
+「あなたは、尊敬できる人はいるかしら。その人から受ける影響はとても大きいはずよ」=“Perhaps there is someone you admire. I'm sure that person must have had a huge influence on you.”
