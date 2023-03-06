@@ -11,4 +11,4 @@
 「わ、わかりました」=“U-understood.”
 「返事が頼りないわね」=“Your reply is not very encouraging.”
 「わかりました……！　気をつけます！」=“Understood...!　I'll be careful!”
-「……よし。それじゃあ」=“...better. Okay then.”
+「……よし。それじゃあ」=“...Better. Okay then.”
