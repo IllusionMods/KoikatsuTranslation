@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「ど、どうしたの？　こちらをじっと見て……そんなふうに見つめられると、さすがに……は、恥ずかしいわ……」=“W-what's wrong?　You're staring at me... If you keep staring at me like that, naturally... it's embarrassing...”
+「ど、どうしたの？　こちらをじっと見て……そんなふうに見つめられると、さすがに……は、恥ずかしいわ……」=“Wh-what's wrong?　You're staring at me... If you keep staring at me like that, naturally... it's embarrassing...”
