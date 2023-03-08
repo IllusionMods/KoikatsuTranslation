@@ -38,7 +38,7 @@
 「初耳だよ！？　どういうこと！？」=“You never told me before! What's this all about!?”
 『そうねぇ……それじゃあ説明するからちゃんと聞いてね』=“I see... Well, I'll explain it to you so listen carefully, okay?”
 『おほん、えー、あなたが通う学園は女学園です。そして、男の子はあなた一人。はい、説明終わり』=“Ahem, eh, your new school is an all-girls school. You're the only boy. There, end of story.”
-「説明終わり――って、全然意味分かんないって！　女学園！？　男は俺一人！？」=“End of story—wait, that doesn't make any sense! All-girls school!? I'm the only boy!?”
+「説明終わり――って、全然意味分かんないって！　女学園！？　男は俺一人！？」=“End of story--wait, that doesn't make any sense! All-girls school!? I'm the only boy!?”
 『うーん……ちゃんと伝えてなかった私が悪いけど、これは決定事項だから取り消すことはできないの』=“Well... it's kinda my fault that I didn't tell you properly, but this has already been decided so no turning back.”
 「そんな……もっと早めに教えてほしかったよ……」=“Come on... you should have told me stuff like this sooner...”
 『女学園ってことを知らないなら、私があなたに、この学園に通ってほしい理由とかも話してないかしら？』=“If you didn't know that it's an all-girls school, then I guess you don't know why I'm sending you there, right?”
