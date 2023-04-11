@@ -8,5 +8,5 @@
 「そ、そうなんだ？」=“T-That so?”
 「お話……ですよね？　コイカツ部の……うふふ♡」=“You wanted to... talk, right? About the Koikatsu club... ufufu♡”
 「あ、そうだね。じゃあ……ちょっとお話しようか」=“Yeah, I did. Well then... let's chat for a bit.”
-（なんだか不思議な子だけど、話してるうちに仲良くなれるかな？）=(She seems like a pretty unusual girl, I wonder if I'll be able to get off on the right foot with her with this chat?)
+（なんだか不思議な子だけど、話してるうちに仲良くなれるかな？）=(She seems like a pretty strange girl. Would I be able to get off on the right foot with her with this chat?)
 「…………」=“......”

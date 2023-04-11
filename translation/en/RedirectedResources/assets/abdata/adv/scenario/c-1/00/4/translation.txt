@@ -2,9 +2,9 @@
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
 リナ=Lina
-「ん？　もしかして怪我でもした？　それとも具合でも悪いの？」=“Hm? Are you hurt by any change? Or are you feeling sick?”
+「ん？　もしかして怪我でもした？　それとも具合でも悪いの？」=“Hm? Are you hurt by any chance? Or are you feeling sick?”
 CHOICE:部活の成果を確認してもらえますか？=Can you check the results of my club activities?
-CHOICE:先生と話がしたくて……ダメですか？=I just want to talk to my teacher... Is that not okay?
+CHOICE:先生と話がしたくて……ダメですか？=I just want to talk to you... Is that not okay?
 「わお！　またその気になってくれたのね！」=“Wow! You're back in the swing of things!”
-「いいわよ、早速確認しましょう！　さ、早く！」=“All right, let's go check it out! Quickly now!”
-「ダメなわけないでしょう。男の子にそんなこと言われるなんて……嬉しい♪」=“How can I refuse? I can't believe a boy would say that to me... I'm so happy ♪”
+「いいわよ、早速確認しましょう！　さ、早く！」=“Alright, let's go check it out! Quickly now!”
+「ダメなわけないでしょう。男の子にそんなこと言われるなんて……嬉しい♪」=“How can it not be okay? I can't believe a boy would say that to me... I'm so happy♪”

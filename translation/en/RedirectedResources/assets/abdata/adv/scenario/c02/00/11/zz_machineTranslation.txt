@@ -1,7 +1,0 @@
-「……はぁ、何も考えていないって顔していらっしゃいますわね。呆れますわ」=“... You look like you don't have a clue, don't you? I'm stunned.”
-「な、なんだよ、その言い方……」=“Hey, what's with that tone? ...”
-「日頃の行いに問題があるとお思いにならないの？　そんなことでは、わたくしが相手するまでもなさそうですわね」=“Don't you think there's something wrong with your routine?　I don't think I'll have to deal with you if that's the case.”
-「え？　あ、あの……怒ってるの？」=“What?　Oh, are you mad at ...?”
-「あなたなど怒るに値しませんわ。おつきあいもこれまでにさせていただきたく存じますわ」=“You don't deserve my wrath. You don't deserve to be offended. I'm afraid we're done with you for now.”
-「な……それって、つまり……」=“You mean ... that's what it's ...”
-「察しの悪い方ね。あなたとはもうお別れですわ！　よろしくて？」=“You're not very perceptive, are you? I'm leaving you now!　Nice to meet you?”

@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「えっと……混ざりたいの？　……どうする？」=“Erhm... You wanna join us? ...What do you wanna do?”
-「ワタシは……ＯＫダケド♡」=“Personally... I'm fine with it♡”
-「えっと……混ざりたいの？　俺はＯＫだけど……」=“Erhm... You wanna join us? Personally, I'm OK with it but...”
-「Ｃｏｍｅ　ｏｎ♡　スケベなオトコノコ、大歓迎ダヨ♡」=“Come on♡ Dirty boys are always welcome♡”
+「えっと……混ざりたいの？　……どうする？」=“Erhm... you wanna join us? ...what do you wanna do?”
+「ワタシは……ＯＫダケド♡」=“I... I'm <okay> with it♡”
+「えっと……混ざりたいの？　俺はＯＫだけど……」=“Erhm... you wanna join us? I'm <okay> with it...”
+「Ｃｏｍｅ　ｏｎ♡　スケベなオトコノコ、大歓迎ダヨ♡」=“<Come on>♡ Dirty boys are always welcome♡”

@@ -12,8 +12,8 @@
 女子学生Ａ=Student A
 女子学生Ｂ=Student B
 見慣れない女の子=Unfamiliar girl
-新入部員さん？=New member?
-新入部員……さん？=New member...?
+新入部員さん？=New Member?
+新入部員……さん？=New Member...?
 まさか……！=It can't be...!
 このみちゃん？=Konomi-chan?
 女子学生Ｃ=Student C
@@ -27,14 +27,14 @@
 チア部部員Ａ=Cheerleader A
 チア部部員Ｂ=Cheerleader B
 チア部副部長=Cheerleader Vice Captain
-号令係=Class representative
+号令係=Class Representative
 水泳部部長=Swimming Club President
 乙梨さん=Otonashi-san
 sr:"^亜依＆(.+)$"=Ai & $1
 ？？？=???
 女子生徒１=Schoolgirl 1
 妙齢の女性=Mystery Woman
-亜依の母=Ai's mother
+亜依の母=Ai's Mother
 叔母=Aunt
 舞=Mai
 このみ=Konomi

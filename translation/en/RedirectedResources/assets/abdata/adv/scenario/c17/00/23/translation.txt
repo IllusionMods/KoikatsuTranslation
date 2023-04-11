@@ -2,5 +2,5 @@
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
 「えっと……」=“Umm...”
-「授業でパンケーキを作ったのだけれど、よかったらどうかしら……？」=“I made some pancakes in class, if it's ok with you...?”
-「あなたのために作ったわけじゃなくて、多めに作ったから……それでよ」=“I didn't make it for you or anything, I just made a little too much...That's it.”
+「授業でパンケーキを作ったのだけれど、よかったらどうかしら……？」=“I made some pancakes in class, if it's okay with you...?”
+「あなたのために作ったわけじゃなくて、多めに作ったから……それでよ」=“I didn't make them for you or anything, I just made a little too much... That's it.”

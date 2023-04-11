@@ -1,10 +1,3 @@
-「あら、ここは殿方用ではありませんわ。出ていっていだけて？」=“Oh, this is no place for gentlemen. Oh, no, no, not now. Oh, no, this is not the place for gentlemen.”
-「ここは女性専用ですわ！　出ていってちょうだい！」=“This is a ladies-only area.　Get out of here!”
-「失敬。今時間がありませんの。ごめんあそばせ」=“Pardon me. I don't have time for this. I'm sorry.”
-「よくもまあ、わたくしの前に顔を出せたものですわねぇ……呆れますわ」=“How dare you show your face in front of me?”
-「失礼、またのちほどお伺いいたしますわ」=“Excuse me. I'll come back later.”
-「すー……すー……くふふ、皆わたくしにひれ伏しなさい……」=“Soo ... Soo ... kuhu, everyone bow down to me ...”
-「今、お召し替えの最中ですの。ごめんあそばせ」=“I'm in the middle of a change of clothes. I'm sorry.”
 「おーっほっほっほ、似合うでしょう？　褒めてよろしくてよ」=“Oh-ho-ho, don't they suit you?　Don't you like it? - Compliment me.”
 「ここ、素敵な場所でしょう？　わたくしに相応しいわ！」=“Isn't this a lovely place?　I deserve it!”
 「おーっほっほっほ、わたくしに何か御用かしら？」=“Oh-ho-ho, what can I do for you?”
@@ -431,8 +424,8 @@
 「セックス中、高笑いするよね？　あれ、どうなの？」=“Do you laugh a lot during sex?　Do you laugh a lot during sex?”
 「おバカですわね！　気持ちよさ、倍増ですわ！」=“You're silly!　I feel twice as good!”
 「ドエロい話があるんだけど……耳貸して？」=“I have a very erotic story to tell you...”
-「おほほほ、破廉恥ですわね！　でも聞いてるだけで興奮してしまいますわ！」=“Hohohoho, you're a disgrace!　But I'm so excited just listening to it!”
-「わたくし、やはり傲慢かしら……」=“I'm still arrogant ...”
+「おほほほ、破廉恥ですわね！　でも聞いてるだけで興奮してしまいますわ！」=“Ohohoho, you're a disgrace!　But I'm so excited just listening to it!”
+「わたくし、やはり傲慢かしら……」=“Am I still arrogant...?”
 「やっぱり……え？　でも治さなくていい？　おほほ、心強いお言葉ですわ」=“I'm sure you can cook?　I'm sure you'll be fine.　I'm sure you'll be fine.”
 「おほほほ、優しさを感じましたわ。本当のこと、言ってよかったのに……」=“Oh-ho-ho, that was very kind of you. You could have told me the truth...”
 「わたくしとの将来を、考えておりまして？」=“I've been thinking about you and me for a long time.”
@@ -519,11 +512,11 @@
 「まあ、このわたくしの願いを断るの？　くぅ、仕方ありませんわね……」=“Well, how can you refuse me?　Oh, I don't blame you...”
 「あら、お帰りなの？　ちょうどいいですわ。わたくしを送っていって構わなくてよ」=“Oh, you're leaving?　You're leaving? You don't have to walk me home.”
 「これから帰宅いたしますの。ご一緒していただだけて？」=“I'm going home now. Would you like to join me?”
-「おほほほ、いい返事ですわ！　道中、いつものように楽しいお話をお願いね」=“Oh-ho-ho, that's a good answer!　I'm sure you'll have some fun stories to tell along the way, as always.”
+「おほほほ、いい返事ですわ！　道中、いつものように楽しいお話をお願いね」=“Ohohoho, that's a good answer!　I'm sure you'll have some fun stories to tell along the way, as always.”
 「わたくしの頼みを断るおつもり……はぁ、もう、仕方ないですわね。わかりました」=“I'm not sure I'm going to be able to do that. I'm sure you'll be able to find a way.”
 「よくってよ！　たっぷりわたくしを楽しませなさい」=“Well done!　Entertain me well.”
 「休日、わたくしをエスコートして下さらない？」=“I'd like you to escort me on my day off.”
-「おほほほ、素晴らしいわ。わたくし好みの男に育ちつつあるようね」=“Hohohoho, it's wonderful. You're growing into my kind of man.”
+「おほほほ、素晴らしいわ。わたくし好みの男に育ちつつあるようね」=“Ohohoho, it's wonderful. You're growing into my kind of man.”
 「残念ですわ。諦めることといたします」=“I'm sorry. I give up.”
 「おほほ、勉強するふりして、わたくしと一緒にいたいんでしょう？　わかってますのよ」=“Oh, you want to stay with me while pretending to study, don't you?　I know you do.”
 「今、お時間あるかしら。よろしければ一緒にお勉強いいたしません？」=“Do you have a moment? Would you like to study with me?”

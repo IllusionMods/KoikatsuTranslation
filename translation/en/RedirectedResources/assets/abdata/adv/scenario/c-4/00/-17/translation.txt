@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「あ……も、もしも部活の成果を確認して欲しくなったらっ……またいつでも言ってね！　担任なんだから遠慮はいらないのよ」=
+「あ……も、もしも部活の成果を確認して欲しくなったらっ……またいつでも言ってね！　担任なんだから遠慮はいらないのよ」=“Oh... i-if you want me to check the results of your club activities... just let me know at any time!　I'm your homeroom teacher, so don't be shy.”

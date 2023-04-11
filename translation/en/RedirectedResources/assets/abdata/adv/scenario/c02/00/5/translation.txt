@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「あら、よろしくてよ。ちょうど身体を動かしたいと思っていたところなの」=
-//「そう、それはちょうどよかった」=
-//「それで何をなさるおつもり？　もちろん、何一つあなたに負けるつもりはありませんわ！　おーっほっほっほ」=
-//「ほほ～、言ったね？　よーし、負けないぞっ」=
+「あら、よろしくてよ。ちょうど身体を動かしたいと思っていたところなの」=“Oh, very well. I was just looking for some exercise.”
+「そう、それはちょうどよかった」=“Yeah, that's just fine.”
+「それで何をなさるおつもり？　もちろん、何一つあなたに負けるつもりはありませんわ！　おーっほっほっほ」=“So what shall we do then?　Of course, I will not lose to you at anything!　Ohohoho!”
+「ほほ～、言ったね？　よーし、負けないぞっ」=“Hoho~, is that so? Alright,　I won't lose!”

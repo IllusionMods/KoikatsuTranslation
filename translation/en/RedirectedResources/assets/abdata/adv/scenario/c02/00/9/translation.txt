@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「おーっほっほっほ！！　この高嶺の花たるわたくしに、よくもまあ臆面もなくデートなどと…………よくってよ！」=
-//「いいのかよ！！」=
-//「ふふふ、さぞ誘うために勇気が必要だったことでしょう。その心意気に免じて差し上げますわ！」=
-//（そうでもないんだけど……まあいいか……）=
+「おーっほっほっほ！！　この高嶺の花たるわたくしに、よくもまあ臆面もなくデートなどと…………よくってよ！」=“Ohohoho!! Daring to ask me, a woman of lofty nature, to go on a date... well, certainly!”
+「いいのかよ！！」=“Is it okay or not!?”
+「ふふふ、さぞ誘うために勇気が必要だったことでしょう。その心意気に免じて差し上げますわ！」=“Fufufu, no doubt it took a lot of courage for you to ask me. I'll reward you for your spirit!”
+（そうでもないんだけど……まあいいか……）=(Not really... oh well...)

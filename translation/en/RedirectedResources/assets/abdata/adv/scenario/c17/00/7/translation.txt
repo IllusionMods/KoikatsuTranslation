@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「……あなた、それ本当の気持ちなの？」=“You...Are those your true feelings?”
+「……あなた、それ本当の気持ちなの？」=“...You, is that how you really feel?”
 「うん、俺はきみのことが本当に好きなんだ」=“Yes, I really do like you.”
-「そ、そう……私もあなたのことは、その……好きよ」=“I-I see...I also...well...like you.”
-「そ、それじゃあ俺と、付き合ってくれる？」=“W-Well then, will you go out with me?”
-「ええ、私でよければ、付き合ってください」=“Yes, if you're fine with me, then lets go out.”
+「そ、そう……私もあなたのことは、その……好きよ」=“I-I see... I, um... like you too.”
+「そ、それじゃあ俺と、付き合ってくれる？」=“W-well then, will you go out with me?”
+「ええ、私でよければ、付き合ってください」=“Yes, if you're fine with me, then please go out with me.”

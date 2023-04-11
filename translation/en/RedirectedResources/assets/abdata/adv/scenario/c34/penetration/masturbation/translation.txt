@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「キャッ！　エト、アノ……イキナリすぎて、頭がｐｕｎｃｔｕｒｅスルデス……！」=“Kyah--! Erhm, Uhm... It's so out of the blue, I feel like my head's gonna pop...!”
+「キャッ！　エト、アノ……イキナリすぎて、頭がｐｕｎｃｔｕｒｅスルデス……！」=“Kyah! Erhm, umm... it's so out of the blue, my head will <puncture> desu...!”

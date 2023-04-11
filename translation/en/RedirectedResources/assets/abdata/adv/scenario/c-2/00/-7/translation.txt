@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「普段はなにをしているか？　そうね……基本的に仕事のことを考えているわ」=“What do I usually do in my free time? Let's see... For the most part, I'm usually thinking about work.”
+「普段はなにをしているか？　そうね……基本的に仕事のことを考えているわ」=“What do I usually do in my free time? Let's see... I usually think about work.”

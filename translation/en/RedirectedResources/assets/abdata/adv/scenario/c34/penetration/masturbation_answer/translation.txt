@@ -1,5 +1,5 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「Ｗｈａｔ！？　こ、コノ状態で、SEX……？」=“What!? S-Sex, in this state...?”
-「ハズカシケド、アナタがＯＫナラ、ワタシもＯＫダカラ……♡」=“It's embarrassing, but if you're fine with it, then I'm fine with it too...♡”
+「Ｗｈａｔ！？　こ、コノ状態で、SEX……？」=“<What>!? I-in this state, <sex>...?”
+「ハズカシケド、アナタがＯＫナラ、ワタシもＯＫダカラ……♡」=“It's embarrassing, but if you're <okay> with it, then I'm <okay> with it too...♡”

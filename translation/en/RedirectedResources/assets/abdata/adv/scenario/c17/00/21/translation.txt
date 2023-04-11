@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「おはよう。今日もいつも通り顔色が悪いわね」=“Good morning. You don't look so good today either.”
-「おはようって俺そんなに顔色悪い……？」=“Morning, do I really look that bad?”
+「おはよう。今日もいつも通り顔色が悪いわね」=“Morning. Looking pale as usual today.”
+「おはようって俺そんなに顔色悪い……？」=“Morning--, do I really look that bad...?”
 「ふふっ、冗談よ。ほら、一緒に教室までいきましょう」=“Fufu, it's just a joke. Come on, let's go to class together.”

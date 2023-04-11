@@ -2,19 +2,19 @@
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
 野乃花=Nonoka
-//「あ、きみ、ちょっといい？」=
-//「はい、何でしょう？」=
-//「ううん、最近ね、クラスの子からきみの話をたくさん聞くの。馴染めるように頑張ってるみたいね」=
-//「あはは、一応はうまくやってるつもりですが……やっぱり慣れなくて。結構戸惑ってます」=
-//「ふふっ、それは仕方ないわよ。周りには女の子しかいないんですもの」=
-//「それに……私だって意外と戸惑うのよ？　男の子と会話するのって」=
-//「え？　もしかして俺ってそんなに話しかけづらいオーラを出してますか？」=
-//「そういうわけじゃないわ。なんて言うか……えーっと……その逆で……話しかけやすすぎて戸惑う……って感じなのかも……」=
-//「話しかけやすくて？」=
-//「そう。なかなか男の子と知り合う機会がない中で、いきなり距離が縮まるというか……仲良くなれるというか……」=
-//「私なんて、きみが転入するって聞いた時、すっごく身構えてたんだから」=
-//「えー、そうなんですか？」=
-//「そうよ。だって不良の子が来たらどうしようって思ったもの」=
-//「ははは、先生って心配性なんですね」=
-//「ふふっ、そうかも。でも……本当にきみで良かった。これからもみんなのことをよろしくね」=
-//「はい！　頑張ります！」=
+「あ、きみ、ちょっといい？」=“Oh, can I talk to you for a second?”
+「はい、何でしょう？」=“Yes, what is it?”
+「ううん、最近ね、クラスの子からきみの話をたくさん聞くの。馴染めるように頑張ってるみたいね」=“Well, recently, I've been hearing a lot about you from your classmates lately. It seems like you're trying really hard to fit in.”
+「あはは、一応はうまくやってるつもりですが……やっぱり慣れなくて。結構戸惑ってます」=“Ahaha, I think I'm doing okay for now, but... I'm still not used to it. I'm pretty confused.”
+「ふふっ、それは仕方ないわよ。周りには女の子しかいないんですもの」=“Fufu, that can't be helped. There are only girls around.”
+「それに……私だって意外と戸惑うのよ？　男の子と会話するのって」=“And... I'm also more confused than I thought, you know?　Talking with a boy.”
+「え？　もしかして俺ってそんなに話しかけづらいオーラを出してますか？」=“Hmm?　Perhaps I am giving off an aura of being difficult to talk to?”
+「そういうわけじゃないわ。なんて言うか……えーっと……その逆で……話しかけやすすぎて戸惑う……って感じなのかも……」=“It's not like that. What should I say... umm... on the contrary... it's too easy for me to talk to you, and it's too confusing... Maybe it's like...”
+「話しかけやすくて？」=“I'm easy to talk to?”
+「そう。なかなか男の子と知り合う機会がない中で、いきなり距離が縮まるというか……仲良くなれるというか……」=“Yes. I don't get the chance to get to know a boy very often, but it's like I get closer... like we can get along, or...”
+「私なんて、きみが転入するって聞いた時、すっごく身構えてたんだから」=“I was so defensive when I heard you were moving in.”
+「えー、そうなんですか？」=“Oh, really?”
+「そうよ。だって不良の子が来たらどうしようって思ったもの」=“That's right. Because I wondered what I would do if a ruffian came along.”
+「ははは、先生って心配性なんですね」=“Hahaha, you're a bit worrisome.”
+「ふふっ、そうかも。でも……本当にきみで良かった。これからもみんなのことをよろしくね」=“Fufu, maybe. But... I'm really glad it's you. Keep up the good work.”
+「はい！　頑張ります！」=“Yes!　I'll do my best!”

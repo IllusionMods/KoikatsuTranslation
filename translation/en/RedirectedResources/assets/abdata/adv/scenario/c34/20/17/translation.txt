@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-『おはよう　お手紙書くよ　きちんと起きられたかな？　；‐Ｄ』=『Morning. I'll write a letter. Did you wake up properly?
-「海外の顔文字、かわいいなぁ」=“Man, emojis from the west sure are cute.”
-『今日は　学級委員のお仕事あるの　先に学園　行くね』=『Today, I have some things to take care of as the class representative, so I'll be heading out first.』
-『学園でおはよう言うの　楽しみだから　遅刻だめだよ♡　[H名]』=『I'm looking forward to wishing you good morning at school, so you absolutely musn't be late♡ - [H名]』
-「……早く[H名]に会いたいな。よし、準備しよう」=“...Man I wanna see [H名]. Alright, I'll get ready.”
+『おはよう　お手紙書くよ　きちんと起きられたかな？　；‐Ｄ』=“Morning  I'll write a letter  Did you wake up properly? ;-D”
+「海外の顔文字、かわいいなぁ」=“Western emoticons, how adorable.”
+『今日は　学級委員のお仕事あるの　先に学園　行くね』=“Today  I have duties as class representative  so I'll go to school first.”
+『学園でおはよう言うの　楽しみだから　遅刻だめだよ♡　[H名]』=“I look forward to saying good morning to you at school  Don't be late♡ - [H名]”
+「……早く[H名]に会いたいな。よし、準備しよう」=“...I can't wait see [H名]. Alright, I'll get ready.”

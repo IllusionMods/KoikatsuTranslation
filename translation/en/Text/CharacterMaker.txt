@@ -333,9 +333,9 @@ HSV=HSV
 RGB=RGB
 サンプル=Sample
 全削除=Delete All
-左クリックで適用=Left-Click To Apply
-左クリックで現在のカラーを登録します=Left-Click To Copy Current Color
-左クリックで適応、右クリックで削除します=Left-Click To Apply, Right-Click To Delete
+左クリックで適用=Left-click to apply
+左クリックで現在のカラーを登録します=Left-click to copy current color
+左クリックで適応、右クリックで削除します=Left-click to apply, right-click to delete
 
 //
 // Face Menu
@@ -359,7 +359,7 @@ RGB=RGB
 // ECB
 頭の種類=Face Type
 // ECB
-頭の種類に合わせたデフォルトの顔に戻す=Reset Face Type To Default Face
+頭の種類に合わせたデフォルトの顔に戻す=Reset face type to default face
 顔の全体横幅=Face Width
 顔の上部前後=Upper Face Depth
 顔の上部上下=Upper Face Height
@@ -407,10 +407,10 @@ r:"^耳の角度([A-Z])軸$"=Ear Angle $1 Axis
 眉の外側形状=Outer Eyebrow Shape
 眉の種類=Eyebrow Type
 眉の色=Eyebrow Color
-眉を髪より手前に表示=Eyebrows Show Through Hair
-眉の色を髪と陰毛に反映する=Copy Eyebrow Color To Hair And Pubic Hair
-眉の色を髪の色に合わせる=Copy Hair Color To Eyebrows
-眉の色を陰毛の色に合わせる=Copy Pubic Hair Color To Eyebrows
+眉を髪より手前に表示=Eyebrows show through hair
+眉の色を髪と陰毛に反映する=Copy eyebrow color to hair and pubic hair
+眉の色を髪の色に合わせる=Copy hair color to eyebrows
+眉の色を陰毛の色に合わせる=Copy pubic hair color to eyebrows
 コンフィグ依存=Config Decides
 
 // Face -> Eyes
@@ -454,8 +454,8 @@ r:"^瞳の色([①-⑨])$"=Eye Color $1
 瞳のグラデ合成方法=Eye Gradient Strength
 瞳のグラデ上下調整=Eye Gradient Vertical
 瞳のグラデサイズ=Eye Gradient Size
-左目の設定を右目に反映=Copy Left Eye To Right
-右目の設定を左目に反映=Copy Right Eye To Left
+左目の設定を右目に反映=Copy left eye to right
+右目の設定を左目に反映=Copy right eye to left
 ※ 現在の目のパターンではアイシャドウは表示されません。=※ Eyeshadow cannot be displayed with this pattern.
 
 // Face -> Nose
@@ -556,7 +556,7 @@ r:"^ペイント([０-９0-9]+)位置プリセット$"=Paint $1 Position Presets
 肌の色=Skin Color
 肌の色(赤み部分)=Skin Color (Redder Areas)
 肌のツヤの強さ=Skin Gloss
-肌ラインを表示する=Display Skin Detail Lines
+肌ラインを表示する=Display skin detail lines
 
 // Body -> Overall -> Skin Types
 ムキムキ=Muscular
@@ -628,9 +628,9 @@ r:"^ペイント([０-９0-9]+)位置プリセット$"=Paint $1 Position Presets
 // Body -> Pubic Hair
 陰毛の種類=Pubic Hair Type
 陰毛の色=Pubic Hair Color
-陰毛の色を髪と眉に反映する=Copy Pubic Hair Color To Hair And Eyebrows
-陰毛の色を眉の色に合わせる=Copy Eyebrow Color To Pubic Hair
-陰毛の色を髪の色に合わせる=Copy Hair Color To Pubic Hair
+陰毛の色を髪と眉に反映する=Copy pubic hair color to hair and eyebrows
+陰毛の色を眉の色に合わせる=Copy eyebrow color to pubic hair
+陰毛の色を髪の色に合わせる=Copy hair color To pubic hair
 
 // Body -> Pubic Hair -> Pubic Hair Types
 四角=Rectangular
@@ -639,10 +639,10 @@ r:"^ペイント([０-９0-9]+)位置プリセット$"=Paint $1 Position Presets
 薄い=Wispy
 小盾=Small Shield
 大盾=Large Shield
-太縦長=Long And Wide
-細縦長=Long And Narrow
-薄縦長=Long And Wispy
-大縦長=Wide And Wispy
+太縦長=Long and Wide
+細縦長=Long and Narrow
+薄縦長=Long and Wispy
+大縦長=Wide and Wispy
 横長=Broad
 そり跡=Pubic Stubble
 
@@ -676,12 +676,12 @@ r:"^ボディーペイント([０-９0-9]+)の種類$"=Body Paint $1 Selection
 腹・股間=Midriff
 背中・うなじ=Between Shoulder Blades
 腰=Hips
-右脚裏=Back Of Right Leg
-右ふくらはぎ=Back Of Right Calf
-左脚裏=Back Of Left Leg
-左ふくらはぎ=Back Of Left Calf
-右脚=Front Of Right Leg
-左脚=Front Of Left Leg
+右脚裏=Back of Right Leg
+右ふくらはぎ=Back of Right Calf
+左脚裏=Back of Left Leg
+左ふくらはぎ=Back of Left Calf
+右脚=Front of Right Leg
+左脚=Front of Left Leg
 右スネ=Right Shin
 左スネ=Left Shin
 右足=Right Foot
@@ -704,12 +704,12 @@ r:"^ボディーペイント([０-９0-9]+)の種類$"=Body Paint $1 Selection
 その他=Miscellaneous
 
 // Hair -> General Hair Settings
-前髪・後ろ髪・横髪・エクステの色を統一する=Share Color With All Hairs
-根本と毛先の色を個別に設定する=Enable Root And Tip Color Adjustment
-アウトラインの色を個別に設定する=Enable Outline Color Adjustment
-髪の色を眉と陰毛に反映する=Copy Hair Color To Eyebrows and Pubic Hair
-髪の色を眉の色に合わせる=Copy Eyebrow Color To Hair Base
-髪の色を陰毛の色に合わせる=Copy Pubic Hair Color To Hair Base
+前髪・後ろ髪・横髪・エクステの色を統一する=Share color with all hairs
+根本と毛先の色を個別に設定する=Enable root and tip color adjustment
+アウトラインの色を個別に設定する=Enable outline color adjustment
+髪の色を眉と陰毛に反映する=Copy hair color to eyebrows and pubic hair
+髪の色を眉の色に合わせる=Copy eyebrow color to hair base
+髪の色を陰毛の色に合わせる=Copy pubic hair color to hair base
 アウトラインの色=Outline Color
 
 // Hair -> Hair Accessory Options
@@ -902,7 +902,7 @@ M字バングストレート(右)=M-Shaped Straight Bangs (R)
 ほそロング=Fine And Long
 おさげ=Twintails
 太い=Thick
-ふとロング=Thick And Long
+ふとロング=Thick and Long
 はねロング=Feathered Long
 
 // Hair -> Extensions
@@ -1044,7 +1044,7 @@ r:"^外履きの色([０-９0-9]+)$"=Outdoor Shoe $1 Color
 r:"^外履き柄の色([０-９0-9]+)$"=Outdoor Shoe Pattern $1 Color
 
 // Clothing -> Tops
-トップスを初期の状態に戻す=Restore Default Top Settings
+トップスを初期の状態に戻す=Restore default top settings
 トップスの種類=Top Type
 インナーの種類=Innerwear Type
 アウターの種類=Outerwear Type
@@ -1088,7 +1088,7 @@ r:"^Tシャツ\\(柄([A-Z])\\)$"=T-Shirt (Design $1)
 スーツ=Suit
 ノースリーブワンピース=Sleeveless One-Piece
 カーディガンキャミソール=Cardigan Camisole
-ジャケットタンクトップ=Jacket And Tank Top
+ジャケットタンクトップ=Jacket and Tank Top
 キャミソール=Camisole
 パーカー前開き=Open Parka
 半開きパーカー=Partially-Open Parka
@@ -1099,9 +1099,9 @@ r:"^Tシャツ\\(柄([A-Z])\\)$"=T-Shirt (Design $1)
 Tシャツ無地(男)=Plain T-Shirt (Boys)
 ネクタイブレザー(男)=Necktie Blazer (Boys)
 学ラン(男)=Gakuran (Boys)
-学ランTシャツ(男)=Gakuran And T-Shirt (Boys)
+学ランTシャツ(男)=Gakuran and T-Shirt (Boys)
 ワイシャツ(男)=Dress Shirt (Boys)
-ワイシャツベスト(男)=Vest And Dress Shirt (Boys)
+ワイシャツベスト(男)=Vest and Dress Shirt (Boys)
 パジャマ(上)=Pajama Top
 サロペット=Overalls
 裸サロペット=Naked Overalls
@@ -1173,8 +1173,8 @@ r:"^クラシカルメイド([A-Z])$"=Classical Maid $1
 // Clothing -> Top -> Innerwear Types
 ワイシャツ=Dress Shirt
 ワイシャツ襟開け=Dress Shirt (Opened Collar)
-ワイシャツベスト=Vest And Dress Shirt
-ワイシャツパーカー=Parka And Dress Shirt
+ワイシャツベスト=Vest and Dress Shirt
+ワイシャツパーカー=Parka and Dress Shirt
 肩吊りワイシャツ=Shoulder-Hung Dress Shirt
 //Gym Clothing
 //Camisole
@@ -1215,7 +1215,7 @@ r:"^ブレザー([A-Z])$"=Blazer $1
 のど輪=Throat Guard
 
 // Clothing -> Top -> Emblem Types
-赤と青=Red And Blue
+赤と青=Red and Blue
 C=C
 H=H
 r:"^年数([Ⅰ-Ⅹ])$"=Year $1
@@ -1246,14 +1246,14 @@ r:"^背番号([０-９0-9]+)$"=Jersey Number $1
 一角獣=Unicorn
 
 // Clothing -> Bottom
-ボトムスを初期の状態に戻す=Restore Default Bottom Settings
+ボトムスを初期の状態に戻す=Restore default bottom settings
 ボトムスの種類=Bottom Type
 
 // Clothing -> Bottom -> Bottom Types
 ブルマ=Bloomers
 ショートジャージ=Short Jersey Shorts
 ハーフジャージ=Long Jersey Shorts
-スカートジャージ=Skirt And Long Jersey Shorts
+スカートジャージ=Skirt and Long Jersey Shorts
 ショートパンツ=Short Pants
 ロングパンツ=Long Pants
 ゆったりロングパンツ=Comfortable Long Pants
@@ -1311,7 +1311,7 @@ CAタイトスカート=Cabin Attendant Tight Skirt
 r:"^クラシカルメイドスカート([A-Z])$"=Classical Maid Skirt $1
 
 // Clothing -> Bra
-ブラを初期の状態に戻す=Restore Default Bra Settings
+ブラを初期の状態に戻す=Restore default bra settings
 ブラの種類=Bra Type
 
 // Clothing -> Bra Types
@@ -1350,7 +1350,7 @@ r:"^クラシカルメイドスカート([A-Z])$"=Classical Maid Skirt $1
 フラワーレースブラ=Flower Lace Bra
 
 // Clothing -> Underwear
-ショーツを初期の状態に戻す=Restore Default Underwear Settings
+ショーツを初期の状態に戻す=Restore default underwear settings
 ショーツの種類=Underwear Type
 
 // Clothing -> Underwear -> Underwear Types
@@ -1379,7 +1379,7 @@ r:"^クラシカルメイドスカート([A-Z])$"=Classical Maid Skirt $1
 フラワーレースショーツ=Flower Lace Panties
 
 // Clothing -> Gloves
-手袋を初期の状態に戻す=Restore Default Glove Settings
+手袋を初期の状態に戻す=Restore default glove settings
 手袋の種類=Glove Type
 
 // Clothing -> Glove Types
@@ -1421,7 +1421,7 @@ r:"^クラシカルメイドスカート([A-Z])$"=Classical Maid Skirt $1
 チャイナグローブ=China Gloves
 
 // Clothing -> Pantyhose
-パンストを初期の状態に戻す=Restore Default Pantyhose Settings
+パンストを初期の状態に戻す=Restore default pantyhose settings
 パンストの種類=Pantyhose Type
 
 // Clothing -> Pantyhose Types
@@ -1447,7 +1447,7 @@ r:"^厚手パンスト([A-Z])$"=Thick Pantyhose $1
 パンスト(破れ)=Pantyhose (Torn)
 
 // Clothing -> Legwear
-靴下を初期の状態に戻す=Restore Default Legwear Settings
+靴下を初期の状態に戻す=Restore default legwear settings
 靴下の種類=Legwear Types
 
 // Clothing -> Legwear Types
@@ -1491,8 +1491,8 @@ r:"^ガーターソックス([A-Z])$"=Garter Socks $1
 チャイナソックス=China Socks
 
 // Clothing -> Shoes
-内履きを初期の状態に戻す=Restore Default Indoor Shoe Settings
-外履きを初期の状態に戻す=Restore Default Outdoor Shoe Settings
+内履きを初期の状態に戻す=Restore default indoor shoe settings
+外履きを初期の状態に戻す=Restore default outdoor shoe settings
 靴の種類=Shoe Type
 
 // Clothing -> Shoe Types
@@ -1564,8 +1564,8 @@ r:"^パーツ([A-Z])$"=Part $1
 //
 
 // Accessory Main Menu Options
-タイプや種類変更時に前回の親を引き継ぐ=Use Previous Parent When Changing Accessory Type
-種類変更時に前回の色を引き継ぐ=Use Previous Color When Changing Accessory
+タイプや種類変更時に前回の親を引き継ぐ=Use previous parent when changing accessory type
+種類変更時に前回の色を引き継ぐ=Use previous color when changing accessory
 タイプ=Type
 
 // Slot Lists
@@ -1585,12 +1585,12 @@ r:"^スロット([０-９0-9]+)$"=Slot $1
 // Slot Menu Dialogue
 種類=Type
 親=Parent
-親を初期設定に戻す=Reset To Default Parent
+親を初期設定に戻す=Reset to default parent
 左右の親を入れ替え=Swap Sides
 r:"^カラー([①-⑨])$"=Color $1
-アクセサリの色を初期に戻す=Reset To Original Color
+アクセサリの色を初期に戻す=Reset to original color
 r:"^調整([０-９0-9]+)$"=Adjustment $1
-クリックで編集します=Click To Edit
+クリックで編集します=Click to edit
 操作軸を表示する=Show Control Axis
 (                                )= (                             )
 移動=Mov.
@@ -1864,7 +1864,7 @@ r:"^ハート([A-Z])$"=Heart $1
 スター=Star
 ビッグスター=Big Star
 エンジェル=Cupid
-ソードスカル=Sword And Skull
+ソードスカル=Sword and Skull
 ハートインカム=Heart Headset
 プリーツマスク=Sickness Mask
 トースト=Toast
@@ -2213,22 +2213,22 @@ AB=AB
 //Track & Field Club
 
 // Profile -> Character -> Name Box
-名前を入力して下さい=Please Enter A Name
+名前を入力して下さい=Please enter a name
 姓=L
 名=F
 
 // Profile -> Character -> Nickname Box
 // Females Only
-愛称を入力して下さい=Please Enter A Nickname
+愛称を入力して下さい=Please enter a nickname
 
 // Profile -> H-Scene
 // Females Only
 性感帯=Erogenous Zone
-キスを拒否しない？=Always Allows Kisses?
-激しい愛撫を拒否しない？=Always Allows Groping?
-アナルを拒否しない？=Always Allows Anal Sex?
-電マを拒否しない？=Always Allows Vibrating Toys?
-ゴム付けなくてもOK？=Condomless Sex Is Okay?
+キスを拒否しない？=Always allows kisses?
+激しい愛撫を拒否しない？=Always allows groping?
+アナルを拒否しない？=Always allows anal sex?
+電マを拒否しない？=Always allows vibrating toys?
+ゴム付けなくてもOK？=Condomless sex is okay?
 
 // Profile -> H-Scene -> Erogenous Zone Types
 // Females Only
@@ -2242,15 +2242,15 @@ AB=AB
 
 // Profile -> Nature
 // Females Only
-動物は好き？=Likes Animals?
-食べるのは好き？=Likes To Eat?
-料理するのは好き？=Likes To Cook?
-運動する？=Does Their Exercises?
-勉強する？=Does Their Studies?
-オシャレする？=Is Fashionable?
-コーヒーはブラック？=Drinks Their Coffee Black?
-からいのは平気？=Okay With Spicy Food?
-甘いのは好き？=Likes Sweets?
+動物は好き？=Likes animals?
+食べるのは好き？=Likes to eat?
+料理するのは好き？=Likes to cook?
+運動する？=Does exercises?
+勉強する？=Does studies?
+オシャレする？=Is fashionable?
+コーヒーはブラック？=Drinks black coffee?
+からいのは平気？=Okay with spicy food?
+甘いのは好き？=Likes sweets?
 
 // Profile -> Traits
 // Females Only
@@ -2293,7 +2293,7 @@ AB=AB
 日付=Date
 //Club Activities
 //Personality
-※ 読込みたい情報にチェックを入れてください=※ Please Check What Aspects Of The Character To Load
+※ 読込みたい情報にチェックを入れてください=※ Please check what aspects of the character to load
 //Face
 体=Body
 //Hair
@@ -2307,7 +2307,7 @@ AB=AB
 上書き保存=Save
 
 // File Menu -> Save/Delete Character -> Replace Image
-キャラ画像を変更しますか？=Change This Character's Picture?
+キャラ画像を変更しますか？=Change this character's picture?
 変更して保存=New Image
 変更せず保存=Keep Image
 保存をやめる=Don't Save
@@ -2329,7 +2329,7 @@ No Image=No Image
 アクセサリ=Accessories
 
 // File Menu -> Save Clothing -> Dialogue Box
-コーディネート名を入力して下さい=Please Enter A Name For The Clothing Set
+コーディネート名を入力して下さい=Please enter a name for the clothing set
 
 // File Menu -> Lighting Options
 表現方法=Light Settings
@@ -2349,16 +2349,16 @@ No Image=No Image
 影なし=No Shadows
 
 // Miscellaneous Messages
-スペースキーで戻ります=Spacebar To Return
-本当に削除しますか？=Really Delete This?
-本当に上書きしますか？=Really Overwrite This?
-キャラメイクを終了しますか？=Quit The Character Maker?
-キャラ編集を終了しますか？=Quit Editing This Character?
+スペースキーで戻ります=Spacebar to return
+本当に削除しますか？=Really delete this?
+本当に上書きしますか？=Really overwrite this?
+キャラメイクを終了しますか？=Quit the character maker?
+キャラ編集を終了しますか？=Quit editing this character?
 
 // Maker called from Class Edit Menu
 学生証画像の撮影=Take Student ID Image
-編集前に戻す=Revert Edits
-キャラを編集前に戻しますか？=Revert This Character?
+編集前に戻す=Revert edits
+キャラを編集前に戻しますか？=Revert this character?
 反映せず終了=Cancel & End
 反映して終了=Apply & End
 

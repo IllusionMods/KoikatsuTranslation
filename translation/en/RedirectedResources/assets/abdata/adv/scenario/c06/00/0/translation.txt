@@ -1,11 +1,11 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「こんにちは。えっと……[H姓]さんだよね。俺は[P名前]」=
-//「お噂はかねがね伺っております。私のことをご存じなのですか？」=
-//「うん、名前だけね。おしとやかだって有名だよ」=
-//「うふふ、人の噂は倍になるとはよく言ったものです。あなたの悪い噂にも、きっと尾ひれが付いているのでしょうね」=
-//「悪い噂って、コイカツ部の……？」=
-//「ええ。ですが、貴方は噂よりもずっと心の綺麗な方のようです。私は自分の目と耳を信じます」=
-//「！　ありがとう。じゃあ、ちょっとお話をさせてもらってもいいかな」=
-//（落ち着いている上に、しっかりと芯の通った女の子だな。まさに大和撫子って感じだ）=
+「こんにちは。えっと……[H姓]さんだよね。俺は[P名前]」=“Hello. Err... you're [H姓]-san, right? I'm [P名前].”
+「お噂はかねがね伺っております。私のことをご存じなのですか？」=“I've heard quite a lot about you. You know of me?”
+「うん、名前だけね。おしとやかだって有名だよ」=“Yeah, but only your name. You're pretty well-known for being graceful, after all.”
+「うふふ、人の噂は倍になるとはよく言ったものです。あなたの悪い噂にも、きっと尾ひれが付いているのでしょうね」=“Ufufu, rumors about others are said to grow very quickly. I am sure that the nastier rumors about you also have been greatly exaggerated.”
+「悪い噂って、コイカツ部の……？」=“Nasty rumors, about the Koikatsu club...?”
+「ええ。ですが、貴方は噂よりもずっと心の綺麗な方のようです。私は自分の目と耳を信じます」=“That is correct. However, you seem to have a much nobler heart than the rumors suggest. And I'd trust my own eyes and ears.”
+「！　ありがとう。じゃあ、ちょっとお話をさせてもらってもいいかな」=“--!　Thank you. Well then, may I talk with you for a bit?”
+（落ち着いている上に、しっかりと芯の通った女の子だな。まさに大和撫子って感じだ）=(Not only is she calm and collected, but she's also a well-centered girl. She truly is a Yamato Nadeshiko.)

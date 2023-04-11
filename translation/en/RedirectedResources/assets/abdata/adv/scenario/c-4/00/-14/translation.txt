@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「え？　私の年齢が気になる？　ふふっ、世の中には知らない方がいいこともあるのよ♪」=
+「え？　私の年齢が気になる？　ふふっ、世の中には知らない方がいいこともあるのよ♪」=“Hmm?　Are you wondering how old I am?　Fufu, some things in this world are better left unknown♪”

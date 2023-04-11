@@ -15,7 +15,7 @@
 いいえ=No
 
 // Various Game Messages
-ゲームを終了しますか？=Quit The Game?
+ゲームを終了しますか？=Quit the game?
 
 // Name/Date, used generally in character selections
 // Avoid adding Club/Personality to here, they get abbreviated/used in various other ways
@@ -76,4 +76,4 @@
 陸上部=Track & Field Club
 
 // Character Select Menu
-キャラクター選択=Select A Character
+キャラクター選択=Select a Character

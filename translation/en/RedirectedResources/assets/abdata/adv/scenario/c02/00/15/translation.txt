@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「ごきげんよう。シャワー、拝借いたしましたわ。それにしても……もっといいバスタオルはないのかしら」=
-//「借りておいて、文句言わないの」=
-//「ふふ、おっしゃる通りですわね。まあ時には安物を使って、肌に刺激を与えるのも美容によいかもしれませんわ」=
-//「まあ、ゆっくりしててよ。俺もシャワー、浴びてこよーっと」=
+「ごきげんよう。シャワー、拝借いたしましたわ。それにしても……もっといいバスタオルはないのかしら」=“How do you do? I decided to borrow your shower. Even so... do you not have a better bath towel?”
+「借りておいて、文句言わないの」=“You shouldn't complain about what you've borrowed.”
+「ふふ、おっしゃる通りですわね。まあ時には安物を使って、肌に刺激を与えるのも美容によいかもしれませんわ」=“Fufu, you're right. Well, using cheap articles every so often and stimulating my skin may end up being beneficial for my beauty.”
+「まあ、ゆっくりしててよ。俺もシャワー、浴びてこよーっと」=“Well, take your time. I'm gonna take a shower too.”

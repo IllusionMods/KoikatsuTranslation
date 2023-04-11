@@ -2,7 +2,7 @@
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
 野乃花=Nonoka
-//「はふ……ま、まさかこんなにすごいなんて……先生、びっくりです……」=
-//「あ、あの……それでどうだったんでしょうか？　俺の……大丈夫ですか？」=
-//「百点満点です。すごく気持ち良くて……私、途中から何も考えられなくなっちゃった……」=
-//「なんて……ふふっ、教師失格ね。次からは先生も頑張ります。きみもますます努力して、みんなのことを幸せにしてあげてね」=
+「はふ……ま、まさかこんなにすごいなんて……先生、びっくりです……」=“Hafu... well, I didn't expect it to be this great... I'm surprised...”
+「あ、あの……それでどうだったんでしょうか？　俺の……大丈夫ですか？」=“Ah, um... how did it go?　Is my... okay?”
+「百点満点です。すごく気持ち良くて……私、途中から何も考えられなくなっちゃった……」=“It's a hundred points. It felt so good and... I couldn't think of anything else to do in the middle of it...”
+「なんて……ふふっ、教師失格ね。次からは先生も頑張ります。きみもますます努力して、みんなのことを幸せにしてあげてね」=“That's... fufu, unfit for a teacher. Sensei will also try harder next time. Keep up the good work and make everyone happy.”

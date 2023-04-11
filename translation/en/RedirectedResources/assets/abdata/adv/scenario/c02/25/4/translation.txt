@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「おーっほっほっほ。よろしくてよ。わたくしのこの知性、少しだけあなたに役立たせて差し上げますわ」=
-//「ホント？　ありがとう。勉強得意なんだね」=
-//「もちろんですわ。さあ、何から始めましょう──」=
+「おーっほっほっほ。よろしくてよ。わたくしのこの知性、少しだけあなたに役立たせて差し上げますわ」=“Ohohoho. Very well. I shall use this intellect of mine to help you a bit.”
+「ホント？　ありがとう。勉強得意なんだね」=“Really?　Thank you. You're really good at studying.”
+「もちろんですわ。さあ、何から始めましょう──」=“Of course I am. Now where shall we start?”

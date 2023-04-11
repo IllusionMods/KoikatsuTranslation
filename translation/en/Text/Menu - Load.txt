@@ -1,5 +1,5 @@
 #set exe Koikatu,Koikatu VR,Koikatsu Party,Koikatsu Party VR
 #set level 7,10 // Afterschool moved some of this to Level 7
 
-ロードデータを選択して下さい=Please Pick Data To Load
-ロードしますか？=Load This Game?
+ロードデータを選択して下さい=Please Pick Data to Load
+ロードしますか？=Load this game?

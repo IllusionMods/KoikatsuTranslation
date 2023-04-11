@@ -2,7 +2,7 @@
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
 麗奈=Reina
-//「ふふっ。本当に頑張っているのね」=
-//「次も楽しみにしているわ」=
-//「……なるほど。これが今のあなたの実力、ということね」=
-//「期待していたのだけど……残念だわ」=
+「ふふっ。本当に頑張っているのね」=“Fufu. You're really working hard.”
+「次も楽しみにしているわ」=“I'm looking forward to the next one.”
+「……なるほど。これが今のあなたの実力、ということね」=“...I see. This is what you're capable of now.”
+「期待していたのだけど……残念だわ」=“I had very high hopes for this... but I'm sorry.”

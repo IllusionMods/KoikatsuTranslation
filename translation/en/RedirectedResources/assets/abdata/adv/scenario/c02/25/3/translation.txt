@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「あら、わたくしと一緒に？　ふーん、まあよろしくてよ」=
+「あら、わたくしと一緒に？　ふーん、まあよろしくてよ」=“Oh, with me? Hmm, well, certainly.”
 「ありがとう」=“Thank you.”
-//「いいこと？　決してわたくしを退屈させないようになさってね。よろしくて？」=
-//「うん、頑張る」=
+「いいこと？　決してわたくしを退屈させないようになさってね。よろしくて？」=“But, you must never, by any means, bore me. Understand?”
+「うん、頑張る」=“Right, I'll try.”

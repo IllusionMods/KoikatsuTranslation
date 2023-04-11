@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「いかに生徒たちの力を伸ばしてあげられるか――その“生徒たち”の中には当然あなたも入っているわ」=
+「いかに生徒たちの力を伸ばしてあげられるか――その“生徒たち”の中には当然あなたも入っているわ」=“How can I help the students develop their strengths--and of course, you are one of those students.”

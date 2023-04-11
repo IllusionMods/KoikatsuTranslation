@@ -17,7 +17,7 @@ r:"^([０-９0-9]+)月([０-９0-9]+)日$"=$1/$2
 
 // Emblems
 なし=None
-赤と青=Red And Blue
+赤と青=Red and Blue
 C=C
 H=H
 r:"^年数([IVXLCDM])$"=Year $1

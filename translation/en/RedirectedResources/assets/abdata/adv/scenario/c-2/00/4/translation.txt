@@ -3,8 +3,8 @@
 //
 麗奈=Reina
 「あら。どうしたの？」=“Hm? Is something the matter?”
-CHOICE:部活の成果を確認してもらえますか？=Can you check the progress of my club activities?
-CHOICE:先生と話がしたくて……ダメですか？=I just wanted to talk to the teacher. Is that okay?
-「構わないわよ。この前からどのくらい上手になったのか、見てあげる」=“By all means. Let's see how much you've improved since your last review, shall we?”
+CHOICE:部活の成果を確認してもらえますか？=Can you check the results of my club activities?
+CHOICE:先生と話がしたくて……ダメですか？=I just want to talk to you... Is that not okay?
+「構わないわよ。この前からどのくらい上手になったのか、見てあげる」=“I don't mind. Let's see how much you've improved since your last review, shall we?”
 「私と話をしていて楽しい？」=“Do you enjoy our little discussions?”
-「……そう。なら良いのだけど」=“... Is that so? I'm glad to hear that.”
+「……そう。なら良いのだけど」=“...I see. I'm glad to hear that.”

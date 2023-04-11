@@ -3,8 +3,8 @@
 ランキング=Ranking
 
 // Ranking Nickname Select
-ハンドルネームを入力して下さい=Please Enter A Nickname.
-※ ランキングに参加するにはハンドルネームの登録が必要です=※ A Nickname is required to participate in Ranking.
+ハンドルネームを入力して下さい=Please enter a nickname.
+※ ランキングに参加するにはハンドルネームの登録が必要です=※ A nickname is required to participate in ranking.
 ハンドルネーム=Nickname
 
 本当にアップロードしますか？=Do you really want to upload it?
