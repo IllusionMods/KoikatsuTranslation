@@ -6,6 +6,7 @@
 「破廉恥なところです」=“Your shamelessness.”
 「あっ、えっと……ごめんなさい」=“Ah, ummm... sorry.”
 「うふふ、謝る必要はございません。むしろ、私が貴方に謝らなくてはなりません」=“Ufufu, there's no need for you to apologize. Rather, I should be the one apologizing to you.”
+「え……？」=“Eh...?”
 「昨晩、貴方の特徴について祖母に相談したのですが、それが殿方だということを教わりました」=“I spoke with my grandmother about your traits last night, and she taught me it's what men do.”
 「私、本当に不勉強で……今までの貴方への接し方について、反省する点がいくつもございます」=“I really am uninformed... about the way I've treated you up until now, there are so many things I must reflect on.”
 「い、いや、全然大丈夫だよ。俺もやりすぎた時とかあったと思うし」=“No, no, it's totally fine. I think I also went too far at times.”
