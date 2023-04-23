@@ -1,0 +1,5 @@
+「本気でおっしゃってるの？　このわたくしと別れたいなどと……冗談ですわよね？」=“Are you serious?　You're joking when you say you want to leave ... me, aren't you?”
+「……本気だよ。ちゃんと考えたんだ」=“... I'm serious. I've thought it over.”
+「そう、わたくしとは違う考えを持っているようね……残念ですわ」=“Well, I'm sorry you think differently than I do...”
+「俺も残念だよ」=“I'm sorry too.”
+「まあ、所詮はわたくしに見合う人ではなかった、ということですわね。それではごきげんよう」=“I'll at least clean up. Well, I guess I'm not worthy of you after all. Have a nice day.”

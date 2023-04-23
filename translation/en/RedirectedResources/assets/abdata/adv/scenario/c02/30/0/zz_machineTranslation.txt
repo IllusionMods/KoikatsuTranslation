@@ -1,0 +1,10 @@
+「やあ、初めまして」=“Hi, nice to meet you.”
+「おーっほっほっほ、わざわざ挨拶に来たのね！　いい心がけですわ！」=“Oh-ho-ho, you've come all the way to say hello!　That's very thoughtful of you!”
+「あ、ああ……ええっと、[P名前]って言うんだけど……」=“Oh, uh... uh, my name's [P名前]...”
+「あら、名前までは結構よ！　でも積極的なのは悪いことじゃないわね」=“Oh, I don't need to know your name!　But there's nothing wrong with being proactive.”
+「え？　でも、初対面なんだし、自己紹介ぐらい、ちゃんとさせてくれよ」=“What?　But since we've never met, can you at least let me introduce myself?”
+「ふふ、あなたは見込みがありそうね。いいわ、忘れるまで、その名前憶えておいてあげる。感謝なさい」=“You've got a lot of potential. Okay, I'll remember your name until I forget it. Thank you.”
+「あ、ありがとう」=“Oh, thank you.”
+「どういたしまして。でも勘違いしないでね。あなたのためにあまり長い時間は割いてあげられませんから」=“You're welcome. But don't get me wrong. I don't have a lot of time for you.”
+「う、うん……」=“Y-Yeah...”
+（変なのに、関わっちゃったかな、これ……）=(I think I got caught up in something weird...)

@@ -1,0 +1,6 @@
+「ええ、よろしくてよ」=“Yes, please.”
+「え？　あっさりだね……」=“What?　That was easy...”
+「当然ですわ。だって、わたくし達はそろそろステップアップする段階です。そうおっしゃってくれるのを待っておりましたわ」=“Of course. Because it's time for us to step up. I've been waiting for you to say that.”
+「そうなんだ……だったら自分から言ってくれても……」=“I see... then you can tell me yourself...”
+「エスコートは殿方の役割でしょう？　わたくしの初めてを差し上げるのですから、しっかり紳士的に振る舞ってくださいまし」=“Isn't it your role to be the escort?　I'm offering you my first, so please behave like a gentleman.”
+「う、うん……ごめん。ともかく……その、あの……お願いします」=“Uh, yeah... sorry. Anyway..., that's, that's ... please!”
