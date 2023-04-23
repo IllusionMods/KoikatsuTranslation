@@ -1,24 +1,24 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「この公園ね、小さい頃に友達とよく遊びに来てた公園なんだよ」=
-//「へ～、じゃあ思い出があったりするの？」=
-//「うん、あるよ！　こっち来て！」=
-//「わ、ベンチとテーブルの裏に名前がたくさん掘られてる」=
-//「えーっと……あ、あったあった。見てこれ、友情の証」=
-//「本当だ、[H名]の名前が掘られてる……隣りに書いてあるのは、友達の名前……？」=
-//「小さい頃、一番仲良しだった爽風ちゃん！　ここに掘られてる名前、年々増えていくけど、初めに掘ったのは私たちだったんだよ、エッヘン」=
-//「でも、小学校を卒業したときに、爽風ちゃんは引っ越しちゃったんだけどね」=
-//「もしかして、それっきり？」=
-//「ううん、しばらくはお手紙のやり取りをしてて、今はＳＮＳで繋がってるよ。最近はママが許してくれたから、休みの日に遠出して会ったりしてるんだ！」=
-//「だから、これが友情の証なんだね……なんだか羨ましいなぁ」=
-//「……ねね、私たちも愛情の証、掘らない？　相合傘とか！　私、恋人が出来たら相合傘書きたいな～って思ってたんだ。キミがそういうの嫌じゃなければだけど」=
-//「うん、全然いやじゃないよ。でも掘るものがないよ」=
-//「大丈夫！　私たち、ご縁がありますようにって、五円玉で掘ったから♪　なつかしいな～、あ、スペース発見♡」=
-//「じゃあ、俺が[H名]の名前を掘るから、[H名]は俺の名前を掘るってのはどう？」=
-//「それいいね♡　じゃあ、まずはハートの傘を掘るね！」=
-//どれぐらいの時間、二人で掘っただろう。ベンチの裏側の隅っこに『[P名前]』と『[H名前]』の名前がハートの傘の下に刻まれた。=
-//「上出来だね……あ、写真撮るの？」=
-//カシャッ=
-//「このテーブル木製だから、いつか消えたり、なくなっちゃったりするかもしれないから……こうやって一生残そうと思って♡　これからもよろしくね♪」=
-//「うん、ずっと仲良くできたら嬉しいな」=
+「この公園ね、小さい頃に友達とよく遊びに来てた公園なんだよ」=You know, I used to come to this park with my friends a lot, back when I was a kid.
+「へ～、じゃあ思い出があったりするの？」=Hoh~, got any nice memories here then?
+「うん、あるよ！　こっち来て！」=Yep, I do! Come here!
+「わ、ベンチとテーブルの裏に名前がたくさん掘られてる」=Wah, there's so many names scratched on the back of the bench and table.
+「えーっと……あ、あったあった。見てこれ、友情の証」=Eerhm... ah, here it is. Look at this, the proof of our friendship.
+「本当だ、[H名]の名前が掘られてる……隣りに書いてあるのは、友達の名前……？」=Huh, what do ya know, there's your name carved on there... is the one next to it, your friend's...?
+「小さい頃、一番仲良しだった爽風ちゃん！　ここに掘られてる名前、年々増えていくけど、初めに掘ったのは私たちだったんだよ、エッヘン」=My super bestie from back then, Sayaka-chan! Every year, there's more names carved on here but, the first ones were ours, ahem~!
+「でも、小学校を卒業したときに、爽風ちゃんは引っ越しちゃったんだけどね」=But, after graduating grade school, Sayaka-chan moved away.
+「もしかして、それっきり？」=Wait, was that the last time you saw each other?
+「ううん、しばらくはお手紙のやり取りをしてて、今はＳＮＳで繋がってるよ。最近はママが許してくれたから、休みの日に遠出して会ったりしてるんだ！」=Nuh-uh, for a while we sent each other letters and, nowadays we're friends on social media. Only recently, my mommy said okay so sometimes I go to visit on weekends and we hang out!
+「だから、これが友情の証なんだね……なんだか羨ましいなぁ」=And that's why it's the proof of your friendship, huh... Man, I'm almost envious.
+「……ねね、私たちも愛情の証、掘らない？　相合傘とか！　私、恋人が出来たら相合傘書きたいな～って思ってたんだ。キミがそういうの嫌じゃなければだけど」=...Hey hey, want to carve out the proof of our love too? Like a little love umbrella with our names under it! I've always dreamed of carving one of those with my boyfriend, if I ever got one~. I mean, only if you don't mind.
+「うん、全然いやじゃないよ。でも掘るものがないよ」=Yep, I don't mind at all. But we don't have anything to carve it with.
+「大丈夫！　私たち、ご縁がありますようにって、五円玉で掘ったから♪　なつかしいな～、あ、スペース発見♡」=That's alright! We did it with a 5 yen coin back then, so that we'd always be tied forever♪ Man, this is so nostalgic~, ah, I found the space♡
+「じゃあ、俺が[H名]の名前を掘るから、[H名]は俺の名前を掘るってのはどう？」=Alright, I'll carve your name, so how about you carve mine?
+「それいいね♡　じゃあ、まずはハートの傘を掘るね！」=That sounds nice♡ Then, let's carve out the love umbrella first!
+どれぐらいの時間、二人で掘っただろう。ベンチの裏側の隅っこに『[P名前]』と『[H名前]』の名前がハートの傘の下に刻まれた。=[I wonder how long we spent, carving it out? Under the bench, hidden around a back corner, our names,「[P名前]」and「[H名前]」were carved out under a umbrella with a heart on top.]
+「上出来だね……あ、写真撮るの？」=Looks perfect, doesn't it... ah, wanna take a photo?
+カシャッ=*shlack*
+「このテーブル木製だから、いつか消えたり、なくなっちゃったりするかもしれないから……こうやって一生残そうと思って♡　これからもよろしくね♪」=This bench table is made of wood so, someday it might wear out, or disappear so... I thought I'd preserve it our entire lives like this♡ Let's be together forever, okay?♪
+「うん、ずっと仲良くできたら嬉しいな」=Yep, I hope we can stay close like this forever.

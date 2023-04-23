@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「おっはよ～♪　もしかして待たせちゃった？」=
-//「おはよう！　ううん、俺も今来たところ。今日の恰好、すごく似合ってるよ」=
-//「本当！？　えへへ、ギリギリまで何着ていくか迷ってたんだ～。キミも今日は気合い入ってるね、カッコいいよ♡」=
-//「照れるなぁ。[H名]とのデートだから、俺もギリギリまで何着ていくか迷ってたんだ。それじゃ、行こうか」=
-//（相変わらず、[H名]とは何の気負いもなく喋れて、楽だなぁ。今日は思い切り遊ぼう）=
+「おっはよ～♪　もしかして待たせちゃった？」=Morning~♪ Did I make you wait?
+「おはよう！　ううん、俺も今来たところ。今日の恰好、すごく似合ってるよ」=Morning! Nah, I just got here myself. You look really good today.
+「本当！？　えへへ、ギリギリまで何着ていくか迷ってたんだ～。キミも今日は気合い入ってるね、カッコいいよ♡」=You mean it!? Eheheh, I actually couldn't decide what to wear until the last moment~. You pulled out all the stops too, huh? You look really cool♡
+「照れるなぁ。[H名]とのデートだから、俺もギリギリまで何着ていくか迷ってたんだ。それじゃ、行こうか」=You're gonna make me blush~. It was a date with you, so of course I had a hard time deciding what to wear myself. Well then, let's go.
+（相変わらず、[H名]とは何の気負いもなく喋れて、楽だなぁ。今日は思い切り遊ぼう）=(As usual, conversation between us flows so easily. Feels so comfortable. Let's have some fun today.)

@@ -1,18 +1,18 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「混んできたね……もう少しそっち詰められる？」=
-//「うん、こっち来て」=
-//「ごめんね、苦しくない？　うわっととっ」=
-//（っ、この体勢はマズイ……[H名]のいい匂いで、下半身が反応する……！）=
-//CHOICE:『我慢しようとする』=
-//CHOICE:『必死に我慢する』=
-//（うぅ……我慢しなきゃ、我慢……あぁ、でも……無理、だ……）=
-//「……ん？　あ……もう、こんな時でも？　キミって本当にエッチだね♪」=
-//「ちょ、いじろうとしないで……」=
-//「ピクピクして可愛い♡」=
-//「え……[H名]さん？」=
-//「えへへ、楽しい遊園地デートを企画してくれたキミにお礼したかったから、ちょうどいいかな♡」=
-//（ここで勃起しては今日のデートが全部パーになってしまうっ！　何が何でも我慢しないと……）=
-//(……ひとまず、別のことを考えて気を紛らわせよう……えっと、好きなことでも思い浮かべて……)=
-//（…………[H名]。って、失敗したっ！　ち、違うことをを考えよう――）=
+「混んできたね……もう少しそっち詰められる？」=Started getting pretty packed, hasn't it... could you squeeze in a bit more?
+「うん、こっち来て」=Yep, come here~
+「ごめんね、苦しくない？　うわっととっ」=I'm sorry, it's not too much, is it? Uwah--, oof--
+（っ、この体勢はマズイ……[H名]のいい匂いで、下半身が反応する……！）=(--, this position really isn't good... just her scent is, going to make my crotch react...!)
+CHOICE:『我慢しようとする』=Try to endure.
+CHOICE:『必死に我慢する』=Desperately endure.
+（うぅ……我慢しなきゃ、我慢……あぁ、でも……無理、だ……）=(Uuu... I gotta endure it, endure... aah, but... I, can't...)
+「……ん？　あ……もう、こんな時でも？　キミって本当にエッチだね♪」=...Nn? Ah... jeez, even at a time like this? You really are just so lewd♪
+「ちょ、いじろうとしないで……」=Hey--, don't try to play with it...
+「ピクピクして可愛い♡」=You're so cute twitching like that♡
+「え……[H名]さん？」=Eh... [H名]-san?
+「えへへ、楽しい遊園地デートを企画してくれたキミにお礼したかったから、ちょうどいいかな♡」=Eheheh, I did want to make it up to you for the great time you showed me today, so this is just perfect really♡
+（ここで勃起しては今日のデートが全部パーになってしまうっ！　何が何でも我慢しないと……）=(If I pop a chub here, the entire date's gonna end up being for nothing--! I gotta endure it, somehow someway...)
+(……ひとまず、別のことを考えて気を紛らわせよう……えっと、好きなことでも思い浮かべて……)=(...For now, just gotta think of something else and distract myself... erhm, what do I love, somethi...)
+（…………[H名]。って、失敗したっ！　ち、違うことをを考えよう――）=(...Her. Fuch, that didn't work! L-Let's think of something else--)

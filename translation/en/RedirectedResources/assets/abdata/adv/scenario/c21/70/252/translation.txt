@@ -1,19 +1,19 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「混んできたね……もう少しそっち詰められる？」=
-//「うん、こっち来て」=
-//「ごめんね、苦しくない？　うわっととっ」=
-//（や、やばっ！　俺の股間が[H名]に……こ、このままじゃマズイっ……！）=
-//CHOICE:『我慢……できない』=
-//CHOICE:『何が何でも我慢する』=
-//（っ……イケナイことだけど……勃起を止められない……）=
-//「……えーっと、私に押し付けられてるものは何？　暗号か何か？」=
-//「そんな周りくどいものではなく、普通に大きくなっちゃっただけです」=
-//「だ、だめだよ、こんな所見られたら、セクハラで訴えられて人生棒に振っちゃうよ」=
-//「それは困る……[H名]、緊急事態だから許して」=
-//「ちょっ！？　今……？　ここで……？」=
-//「しー……すぐ終わらせるから、じっとしてて」=
-//（ここで勃起しては今日のデートが全部パーになってしまうっ！　何が何でも我慢しないと……）=
-//(……ひとまず、別のことを考えて気を紛らわせよう……えっと、好きなことでも思い浮かべて……)=
-//（…………[H名]。って、失敗したっ！　ち、違うことをを考えよう――）=
+「混んできたね……もう少しそっち詰められる？」=Started getting pretty packed, hasn't it... could you squeeze in a bit more?
+「うん、こっち来て」=Yep, come here~
+「ごめんね、苦しくない？　うわっととっ」=I'm sorry, it's not too much, is it? Uwah--, oof--
+（や、やばっ！　俺の股間が[H名]に……こ、このままじゃマズイっ……！）=(D-Damn! My crotch is pressing right into her... t-this isn't good--...!)
+CHOICE:『我慢……できない』=I... can't hold it in.
+CHOICE:『何が何でも我慢する』=Endure no matter what.
+（っ……イケナイことだけど……勃起を止められない……）=(--... it's really not good but... I can't stop getting erect...)
+「……えーっと、私に押し付けられてるものは何？　暗号か何か？」=...Eerhm, what's the thing poking into me? Is it some sort of code or something?
+「そんな周りくどいものではなく、普通に大きくなっちゃっただけです」=It's nothing so complicated, simply that I am erect, miss.
+「だ、だめだよ、こんな所見られたら、セクハラで訴えられて人生棒に振っちゃうよ」=T-That's no good, if someone sees you, you're going to get thrown in for sexual harassment and your life will come to an end.
+「それは困る……[H名]、緊急事態だから許して」=We can't have that... [H名], this is a moment of crisis, so forgive me.
+「ちょっ！？　今……？　ここで……？」=Hey--?! Now...? Here...?
+「しー……すぐ終わらせるから、じっとしてて」=Shhh... I'll get it over with real quick, so stay still.
+（ここで勃起しては今日のデートが全部パーになってしまうっ！　何が何でも我慢しないと……）=(If I pop a chub here, the entire date's gonna end up being for nothing--! I gotta endure it, somehow someway...)
+(……ひとまず、別のことを考えて気を紛らわせよう……えっと、好きなことでも思い浮かべて……)=(...For now, just gotta think of something else and distract myself... erhm, what do I love, somethi...)
+（…………[H名]。って、失敗したっ！　ち、違うことをを考えよう――）=(...Her. Fuch, that didn't work! L-Let's think of something else--)

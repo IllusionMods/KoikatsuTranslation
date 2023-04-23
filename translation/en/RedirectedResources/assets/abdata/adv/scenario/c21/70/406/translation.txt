@@ -1,11 +1,11 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「――で？　その後、どうなったの？」=
-//「うん、それで……って、だんだん混んできたね、今何時だろ……わっ！　もうこんな時間っ？」=
-//「うわ、本当だ。まだ一時間ぐらいしか喋ってないと思ってたよ」=
-//「私もー……えへへ、時間を忘れるぐらい話し込んじゃうとか、私たち仲良しだね」=
-//「あはは、本当にね。話題も尽きないし、幼馴染みじゃないのが不思議なくらいだよ」=
-//「もしかしたら前世で幼馴染みだったのかも、なーんて」=
-//「もしそうでも俺は驚かないよ、フィーリングばっちりすぎだし……あ、今入ってきた人でちょうど満席だね。出ようか」=
-//（喫茶店でずっと話してただけだったけど、充実した時間だったなぁ……）=
+「――で？　その後、どうなったの？」=--And then? What happened after?
+「うん、それで……って、だんだん混んできたね、今何時だろ……わっ！　もうこんな時間っ？」=Yeah, so... wuh, it's starting to pretty packed here, isn't it? What time is it... wah--! It's already this late--?
+「うわ、本当だ。まだ一時間ぐらいしか喋ってないと思ってたよ」=Uwah, you're right. I really thought we'd only been talking for like an hour.
+「私もー……えへへ、時間を忘れるぐらい話し込んじゃうとか、私たち仲良しだね」=Me too~... Eheheh, we're really intimate, aren't we? Chatting so much that we forgot the time~
+「あはは、本当にね。話題も尽きないし、幼馴染みじゃないのが不思議なくらいだよ」=Ahahah, really. We never run out of things to talk about either, you'd think we were childhood friends or something.
+「もしかしたら前世で幼馴染みだったのかも、なーんて」=We might have been, in our previous lives. Heh.
+「もしそうでも俺は驚かないよ、フィーリングばっちりすぎだし……あ、今入ってきた人でちょうど満席だね。出ようか」=I wouldn't be surprised if we were. The feeling's just too perfect for that... ah, those people just took the last empty table. We should head out and make space.
+（喫茶店でずっと話してただけだったけど、充実した時間だったなぁ……）=(We ended up just chatting all day but, what a good day it was~...)
