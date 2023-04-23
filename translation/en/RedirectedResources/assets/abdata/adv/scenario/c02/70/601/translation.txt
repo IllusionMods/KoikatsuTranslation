@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「ここがラブホテル！　わたくしにふさわしい、ゴージャスで、エレガントな内装ではありませんか！」=
-//「うん、すげー綺麗だよね」=
-//「よくぞ、連れて来てくれました！　褒めて差し上げます……おーっほっほっほ！」=
-//「防音だからね、遠慮なく声を出してくれていいよ」=
-//「ってかさ……ここって、その……そういうことする場所なんだけど……そろそろいいかな？」=
-//「お、おほほほほ……よろしくてよ！　で、では、その……素敵なエスコートを期待いたしますわっ」=
+「ここがラブホテル！　わたくしにふさわしい、ゴージャスで、エレガントな内装ではありませんか！」=This is a love hotel! Is it not simply gorgeous in its elegance, worthy of one such as me!
+「うん、すげー綺麗だよね」=Yeah, it's really beautifully built.
+「よくぞ、連れて来てくれました！　褒めて差し上げます……おーっほっほっほ！」=You've done well, bringing me here! It is deserving of praise... ohohohoh!
+「防音だからね、遠慮なく声を出してくれていいよ」=The place is soundproofed, so feel free to be as loud as you want.
+「ってかさ……ここって、その……そういうことする場所なんだけど……そろそろいいかな？」=But, really... this place is, uhm... a place to do that sort of thing so... could we just start?
+「お、おほほほほ……よろしくてよ！　で、では、その……素敵なエスコートを期待いたしますわっ」=O-Ohohohohoh... alright! W-Well then, uhm... I look forward to a wonderful escort--

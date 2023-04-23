@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「さて……と、約束の時間を過ぎた。今日も待たされるのかな…………あ、来た来た、おーい！」=
-//「……相変わらず、ゆっくり歩いてるなぁ」=
-//「ごきげんよう。お待たせしてしまいましたわね」=
-//「いやいや、それほど待ってないし、気にしてないよ。さあ行こうか！」=
+「さて……と、約束の時間を過ぎた。今日も待たされるのかな…………あ、来た来た、おーい！」=Now... then, the clock's certainly gone past the time we set. Is she gonna make me wait today too... ah, there she is, hey!
+「……相変わらず、ゆっくり歩いてるなぁ」=...Taking a leisurely walk as usual, I see.
+「ごきげんよう。お待たせしてしまいましたわね」=Good day to you. I see I made you wait.
+「いやいや、それほど待ってないし、気にしてないよ。さあ行こうか！」=No no, I didn't wait that long, and I don't mind anyway. Let's go!

@@ -1,16 +1,16 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「あらあら、もうこんな時間ですの！？　もう、楽しいと、一日なんてあっと言う間ですわね」=
-//CHOICE:『最後に観覧車に乗ってかない？』=
-//CHOICE:『暗くなる前に帰ろうか』=
-//「ねえ、よかったら、最後に観覧車に乗っていかない？」=
-//「よろしくてよ！　観覧車はジェットコースターの次に大好きな乗り物ですわ！」=
-//「それって、高いところから見下ろせるから？」=
-//「その通りですわ！　高い位置から人々を見下ろせるだなんて、最高に楽しいと想いませんか！？」=
-//「あ、ああ、うん……だよねー」=
-//（彼女なら、そういうと思ってたよ……）=
-//「今日はこんなものにしておこうか。次来た時の楽しみも残しておかなきゃね」=
-//「残念ですわ……まだまだ乗りたいものはありましたのに……」=
-//「また来よう！　期間限定のアトラクションなんかもあるからね」」=
-//「ええ、次の来園が待ち遠しいですわ……おーっほっほっほっほ！」=
+「あらあら、もうこんな時間ですの！？　もう、楽しいと、一日なんてあっと言う間ですわね」=My oh my, it's already so late?! Jeez, when it's fun, the day truly passes by in a flash, doesn't it?
+CHOICE:『最後に観覧車に乗ってかない？』=Wanna go ride the ferris wheel?
+CHOICE:『暗くなる前に帰ろうか』=Let's go home before it gets dark
+「ねえ、よかったら、最後に観覧車に乗っていかない？」=Hey, if you're down, wanna go ride the ferris wheel to close things off?
+「よろしくてよ！　観覧車はジェットコースターの次に大好きな乗り物ですわ！」=Alright! The ferris wheel is the ride I love the most after the roller coaster!
+「それって、高いところから見下ろせるから？」=Is that because you get to look down at everything from up high?
+「その通りですわ！　高い位置から人々を見下ろせるだなんて、最高に楽しいと想いませんか！？」=Precisely! Do you not think the idea of being able to look down at the people from up high simply divine?!
+「あ、ああ、うん……だよねー」=A-Aah, yeah... sure do.
+（彼女なら、そういうと思ってたよ……）=(I knew she'd say that...)
+「今日はこんなものにしておこうか。次来た時の楽しみも残しておかなきゃね」=Let's leave it till here for today, shall we? We gotta save something for our next time over, afterall.
+「残念ですわ……まだまだ乗りたいものはありましたのに……」=A shame... there's so many rides I would still like to ride...
+「また来よう！　期間限定のアトラクションなんかもあるからね」」=Let's just come again! There might be some limited time attactions then too.
+「ええ、次の来園が待ち遠しいですわ……おーっほっほっほっほ！」=Yes, I cannot wait to till our next visit... ohohohohoh!
