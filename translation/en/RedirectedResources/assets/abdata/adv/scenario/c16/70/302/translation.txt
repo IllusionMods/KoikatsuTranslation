@@ -1,23 +1,23 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「おお！　９２点！　高得点でました！」=
-//「それくらいじゃまだまだよ。９０台の後半を出さないと、ランキングには入れないわ」=
-//「ランキングって……カラオケ会社のサービスとかでやってるやつ？」=
-//「そうよ、自分のＩＤを作ってリモコンにログインすれば、自分が歌った点数データが全部残るの」=
-//「それに[H名]も登録してるって事か……凄いね、カラオケガチ勢だ」=
-//「ガチ勢って……そういう言葉で言われると、一気に低俗な感じになるわね……」=
-//「うっ、たしかに……[H名]の場合は何て言えばいいんだろ……プロ志向とか？」=
-//「別に歌で稼ぎたいと思っているわけではないから、それも違うんじゃないかしら」=
-//「うーん、それだと何になるんだろ……」=
-//「プッ、無理に表現しようとしなくていいわよ。ただのカラオケ好き、それでいいじゃない」=
-//「はは、そうだね。じゃあ、次は俺も採点を入れて、高得点を狙ってみようかな」=
-//「あら、私に付き合ってくれるの？　フフッ、高得点のコツは音程よ、ちゃんと一音ずつ意識しないとダメね」=
-//「うぅ、いきなり難題だなぁ……まぁ、とにかく頑張ってみるよ」=
+「おお！　９２点！　高得点でました！」=Ooh! 92 points! A new highscore!
+「それくらいじゃまだまだよ。９０台の後半を出さないと、ランキングには入れないわ」=That's barely good enough. If I don't break through to 95 or above, it won't show up in the rankings.
+「ランキングって……カラオケ会社のサービスとかでやってるやつ？」=Ranking... you mean that service the Karaoke company offers?
+「そうよ、自分のＩＤを作ってリモコンにログインすれば、自分が歌った点数データが全部残るの」=That's right, if you create your own ID and log in, it'll record all your data.
+「それに[H名]も登録してるって事か……凄いね、カラオケガチ勢だ」=And you're registered with them too, huh... Amazing, you're very hardcore about this stuff.
+「ガチ勢って……そういう言葉で言われると、一気に低俗な感じになるわね……」=Hardcore... now it just sounds kinda tacky...
+「うっ、たしかに……[H名]の場合は何て言えばいいんだろ……プロ志向とか？」=Uu--, for sure... what would you even call it then, in your case... aiming for pro?
+「別に歌で稼ぎたいと思っているわけではないから、それも違うんじゃないかしら」=I'm not really planning on earning a living through singing or anything so, I don't know about that either.
+「うーん、それだと何になるんだろ……」=Nnn, then what would it be...
+「プッ、無理に表現しようとしなくていいわよ。ただのカラオケ好き、それでいいじゃない」=Pfft--, you don't really need to give it a word. I just like Karaoke, isn't that fine?
+「はは、そうだね。じゃあ、次は俺も採点を入れて、高得点を狙ってみようかな」=Haha, yeah. I guess I'll upload my own scores too, and try to aim for the highscore this time.
+「あら、私に付き合ってくれるの？　フフッ、高得点のコツは音程よ、ちゃんと一音ずつ意識しないとダメね」=Oh my, you'll play along with me? Fufuh--, the real trick to it is the pitch, you gotta pay attention to every single tone else you're not gonna get anywhere.
+「うぅ、いきなり難題だなぁ……まぁ、とにかく頑張ってみるよ」=Uu, a hurdle right from the get go... well, I'll try anyways.
 ………………=.........
-//「えぇっと……６２点ね……その、採点機能ってあくまで目安だから、歌手本人が歌ってもいい点数が出ない事もあるし……ね？」=
-//「慰めてくれてありがとう……でも、俺はもう採点機能はいいかな……」=
-//「そ、そうね……誰にでも向き不向きはあるわ。私も、アナタと一緒の時は採点は使わない事にするから……」=
-//「うっ……その気の使われ方は逆に傷つくからやめて……[H名]はいつも通りにしてくれればいいから」=
-//「そ、そう？　えぇっと、何か食べものを頼みましょうか？　きっとお腹が空いていたから、調子が出なかったのよ」=
-//「ははは……[H名]の優しさが沁みるなぁ……」=
+「えぇっと……６２点ね……その、採点機能ってあくまで目安だから、歌手本人が歌ってもいい点数が出ない事もあるし……ね？」=Eerhm... 62 points, huh... uhm, I mean at the end of the day, the scoring's just a yardstick, not even the original singer can get full points every time... you know?
+「慰めてくれてありがとう……でも、俺はもう採点機能はいいかな……」=Thanks for trying to console me... but, I think I'm done with this scoring business...
+「そ、そうね……誰にでも向き不向きはあるわ。私も、アナタと一緒の時は採点は使わない事にするから……」=Y-Yeah... everyone has things they're good and bad at. I'll stop using it too, when we're together so don't be...
+「うっ……その気の使われ方は逆に傷つくからやめて……[H名]はいつも通りにしてくれればいいから」=Uu--... I know you're being considerate but that actually hurts rather than helps so stop it... You can just do as you usually do, [H名].
+「そ、そう？　えぇっと、何か食べものを頼みましょうか？　きっとお腹が空いていたから、調子が出なかったのよ」=R-Really? Eerhm, want to get something to eat? I bet that it's just that you're hungry, that's why you couldn't get into it.
+「ははは……[H名]の優しさが沁みるなぁ……」=Hahahah... your sweetness is really heart piercing, you know that?...

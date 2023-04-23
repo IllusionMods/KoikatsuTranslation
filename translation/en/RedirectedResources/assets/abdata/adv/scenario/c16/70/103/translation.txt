@@ -1,19 +1,19 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「あら、日が暮れるのが早くなったのかしら。もうこんなに暗くなって……」=
-//CHOICE:『暗くなったら一緒に行きたかったところがあるんだ』=
-//CHOICE:『本格的に暗くなる前に帰ろうか』=
-//「[H名]の時間が大丈夫なら、暗くなったら一緒に夜景を見ようって思ってたんだけど……」=
-//「ええ、いいわよ。時間は問題ないし、何よりアナタと夜景を見られるなんて、他に予定があっても何とか都合をつけるわ」=
-//「ありがとう。ちゃんと夜景スポットは調べてあるから、案内するよ」=
-//「フフッ、用意がいいのね。じゃあ、足元が暗いから、手を繋いで行きましょうか？」=
-//「大賛成！　もし転びそうになっても、俺が絶対支えるからね」=
-//「あんまり遅くなってもいけないし、今日はこれくらいで帰ろうか」=
-//「そうね……もう少しだけって考えていると、すぐに暗くなりそうだし……」=
-//「だね。夜の公園も雰囲気があっていいけど、変な人が出たりするかもしれないし」=
-//「そうね、特に私の隣にいる人とか、夜になるといきなり襲ってきそうで危ないわ」=
-//「なっ、ひどいなぁ……俺だってそこまではしないよ？」=
-//「本当に？　胸を張って言えるかしら？　もし私が、誘うような素振りを見せたら？」=
-//「そりゃ据え膳食わぬはってやつで……って、違うっ、襲ったりしないから、ホントだよ？」=
-//「と、とにかく帰ろう！　ちょっと自信なくなってきた……」=
+「あら、日が暮れるのが早くなったのかしら。もうこんなに暗くなって……」=Oh dear, are the days starting to grow shorter lately? It's already gotten so dark...
+CHOICE:『暗くなったら一緒に行きたかったところがあるんだ』=There's a place I wanna check out once it gets proper dark.
+CHOICE:『本格的に暗くなる前に帰ろうか』=Let's go home before it gets proper dark.
+「[H名]の時間が大丈夫なら、暗くなったら一緒に夜景を見ようって思ってたんだけど……」=If you're good on time, I was thinking we could go and look at a nice view together...
+「ええ、いいわよ。時間は問題ないし、何よりアナタと夜景を見られるなんて、他に予定があっても何とか都合をつけるわ」=Yes, sure. Time's not a problem and, even if I did have something to do, looking at that view would come first. I'd just make it work somehow later.
+「ありがとう。ちゃんと夜景スポットは調べてあるから、案内するよ」=Thanks. I've already researched where the best view is from so, I'll take you there.
+「フフッ、用意がいいのね。じゃあ、足元が暗いから、手を繋いで行きましょうか？」=Fufuh--, I see you're well prepared. Then, since it's so dark, want to hold hands as we go?
+「大賛成！　もし転びそうになっても、俺が絶対支えるからね」=I'd love to! Even if you're about to trip, I'll be there to catch you.
+「あんまり遅くなってもいけないし、今日はこれくらいで帰ろうか」=It wouldn't do to stay out till it gets absolutely pitch dark, so let's go home while there's still light.
+「そうね……もう少しだけって考えていると、すぐに暗くなりそうだし……」=Right... the night has a way of sneaking up on you, when you give in to the thinking of "just a bit more"...
+「だね。夜の公園も雰囲気があっていいけど、変な人が出たりするかもしれないし」=Yeah. The atmosphere in this place gets really nice at night but, non-zero chance that weirdos might make themselves known too.
+「そうね、特に私の隣にいる人とか、夜になるといきなり襲ってきそうで危ないわ」=Yeah, especially the one right next to me. You never know, I might get taken on the spot the moment it turns fully dark, how scary.
+「なっ、ひどいなぁ……俺だってそこまではしないよ？」=Wha--, now that's just mean... Even I wouldn't go that far, you know?
+「本当に？　胸を張って言えるかしら？　もし私が、誘うような素振りを見せたら？」=Really? Can you say that while looking me in the eyes? What if I tried to invite it, then what?
+「そりゃ据え膳食わぬはってやつで……って、違うっ、襲ったりしないから、ホントだよ？」=I mean, if you're really asking for it, it'd be rude of me to--... wuh, that's not--, I really wouldn't just push you down, I mean that, you know?
+「と、とにかく帰ろう！　ちょっと自信なくなってきた……」=A-Anyways, let's go home! I'm not so sure anymore...

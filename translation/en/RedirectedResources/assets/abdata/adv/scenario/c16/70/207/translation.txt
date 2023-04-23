@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「夜景、本当に綺麗だったわね。これなら何度でも見たくなるわ」=
-//「見たくなったら、また来ようよ。何度だって付き合うからさ」=
-//「ありがとう。それじゃあ今日は、そろそろ帰らないとかしら」=
-//「うん、最後に観覧車も乗れたし、今日はもう思い残す事はないかな」=
-//「そうね、もう周りの人もまばらだし、堂々と手を繋いで帰りましょう」=
+「夜景、本当に綺麗だったわね。これなら何度でも見たくなるわ」=The view was really pretty, wasn't it? Can't help but wanna see it again and again when something's that pretty.
+「見たくなったら、また来ようよ。何度だって付き合うからさ」=If you do, let's come here again. I'll take you here as many times as you want.
+「ありがとう。それじゃあ今日は、そろそろ帰らないとかしら」=Thanks. Well then, I suppose we have to head home now, for today.
+「うん、最後に観覧車も乗れたし、今日はもう思い残す事はないかな」=Yep, we even rode the ferris wheel so, I don't think there's anything else left for us to do.
+「そうね、もう周りの人もまばらだし、堂々と手を繋いで帰りましょう」=Yeah, there's barely anyone left out on the streets too, let's hold hands while we walk.

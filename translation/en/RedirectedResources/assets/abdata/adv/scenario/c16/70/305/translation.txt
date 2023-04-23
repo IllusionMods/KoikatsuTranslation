@@ -1,25 +1,25 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「はい、ドリンクバーのおかわり持ってきたわ。メロンソーダで良かった？」=
-//「うん、全然ＯＫ！　運んでもらっちゃって悪いね」=
-//「別にお礼を言われる程の事じゃないわ。それに、途中で面白いものが見れたし」=
-//「面白いもの？　何かあったの？」=
-//「ええ、別に覗くつもりはなかったのだけど、チラっと見えてしまったのよ」=
-//「えっ、それってもしかして……」=
-//（他のカップルがエッチしてたりしたのかな？　その割には普通の顔で話してるけど……）=
-//「歌を一切歌わずにボードゲームをしている人達がいたの。カラオケって、ああいう使い方もあるのね」=
-//「あ、あぁ～、そういうね……うん、そうだよね……ボードゲームかぁ～」=
-//「……ねぇ、気のせいだと思いたいのだけど。アナタ、いやらしい事を想像していなかった？」=
-//「えっ、それはまぁ……俺達もその、歌う以外の使い方をしてもいいかなぁって……」=
-//「はぁ、事ある毎にこれだもの……男は性欲の塊って言われるのは、弁解の余地がないと思うわ」=
-//「はい、弁解の余地はありません……なのでその、して頂けますでしょうか……？」=
-//「もっと具体的に言うと……できれば[H名]とエッチしたいなぁって……」=
-//「えっ、ほ、本気なの？　カラオケはそういう事をする場所じゃないわよ？」=
-//「いや、それがそうでもないんだよね。学生カップルとか、よくヤってるって話だよ？」=
-//「ヤってるを強調しないで……うぅ……ねぇ……笑わないって約束して？」=
-//「うん！　約束するよ！　どうしたの？」=
-//「私ね……初めてなの……だからその……するなら優しくよ？　お願いできる？」=
-//「ま、任せて！　[H名]の初めて、絶対嫌な思いはさせないから！」=
-//「じゃあ、よろしくね。防音は効いていると思うけど、あまり激しいのはダメよ？」=
-//「わかった……なるべく自重する」=
+「はい、ドリンクバーのおかわり持ってきたわ。メロンソーダで良かった？」=Alright, I brought our refills. Melon soda's fine, right?
+「うん、全然ＯＫ！　運んでもらっちゃって悪いね」=Yep, more than fine! Sorry for making you do that.
+「別にお礼を言われる程の事じゃないわ。それに、途中で面白いものが見れたし」=It's nothing for you to say sorry over. Not to mention, I got to see something interesting on the way.
+「面白いもの？　何かあったの？」=Something interesting? Did something happen?
+「ええ、別に覗くつもりはなかったのだけど、チラっと見えてしまったのよ」=Yes, I wasn't trying to peep or anything, but I did catch a glance.
+「えっ、それってもしかして……」=Eh--, you mean...
+（他のカップルがエッチしてたりしたのかな？　その割には普通の顔で話してるけど……）=(Was another couple having sex or something? I mean, her expression seems pretty normal for it to be that...)
+「歌を一切歌わずにボードゲームをしている人達がいたの。カラオケって、ああいう使い方もあるのね」=It was a couple of friends just playing a regular old board game, without singing even single song. People use karaoke boxes for that stuff too, huh?
+「あ、あぁ～、そういうね……うん、そうだよね……ボードゲームかぁ～」=A-Aaah~, that's what you meant... yeah, of course... a board game, huh~
+「……ねぇ、気のせいだと思いたいのだけど。アナタ、いやらしい事を想像していなかった？」=...Hey, I want to think it's just my overactive imagination, but did you just imagine something really lewd there?
+「えっ、それはまぁ……俺達もその、歌う以外の使い方をしてもいいかなぁって……」=Eh--, that's, well... I was just thinking, that maybe we could use ours for something other than singing too...
+「はぁ、事ある毎にこれだもの……男は性欲の塊って言われるのは、弁解の余地がないと思うわ」=Haah, every single time it ends up this way... I think men truly deserve it, being called lumps of horniness and all.
+「はい、弁解の余地はありません……なのでその、して頂けますでしょうか……？」=Yes, we do... thusly, could we perhaps do it...?
+「もっと具体的に言うと……できれば[H名]とエッチしたいなぁって……」=Speaking more concretely... I want to have sex with you if we can, [H名]...
+「えっ、ほ、本気なの？　カラオケはそういう事をする場所じゃないわよ？」=Eh--, y-you're serious? Karaoke isn't a place to do that stuff in, you know?
+「いや、それがそうでもないんだよね。学生カップルとか、よくヤってるって話だよ？」=No, that's not necessarily true, you know? Student couples often do it in these kinds of places, you know?
+「ヤってるを強調しないで……うぅ……ねぇ……笑わないって約束して？」=Don't emphasize the "do it" bit... uuu... hey... promise you won't laugh?
+「うん！　約束するよ！　どうしたの？」=Okay! I promise! What's up?
+「私ね……初めてなの……だからその……するなら優しくよ？　お願いできる？」=You know, I... I'm a virgin... so uhm... if you're gonna, you have to be gentle, okay? Can I ask for that?
+「ま、任せて！　[H名]の初めて、絶対嫌な思いはさせないから！」=L-Leave it to me! I definitely won't make you regret giving it to me!
+「じゃあ、よろしくね。防音は効いていると思うけど、あまり激しいのはダメよ？」=Then, please do it. The soundproofing's probably pretty good but, don't be too rough, okay?
+「わかった……なるべく自重する」=Got it... I'll restrain myself as much as I can.

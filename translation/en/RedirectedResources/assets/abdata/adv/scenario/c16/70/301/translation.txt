@@ -1,23 +1,23 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「[H名]？　さっきからじっとリモコンを見てるけど、好きな曲が入ってないとか？」=
-//「あぁ、ごめんなさい。カラオケに来た時の癖なの……履歴と、ランキングのチェックね」=
-//「履歴は俺もよく見るなぁ、前の人が誰かは知らないけど、何を歌ってたかは気になっちゃうよね」=
-//「そうね。ランキングには表れない最近の傾向とかもわかるし、場所によっても全然違ったりするのが面白いわ」=
-//「そこまで考えた事はなかったけど、言われてみるとその通りだね」=
-//「それで、歌う曲は決まった？　最初は[H名]から歌って欲しいんだけど」=
-//「えっ、私からなの？　私はアナタからだと思っていたのだけれど……」=
-//「いやぁ、初めて[H名]とカラオケに来たから緊張しちゃって、まずは[H名]に場を温めてもらいたいなぁって」=
-//「待って、私にそんなスキルを期待されても困るわ。レパートリーはそれなりにあるけど、アナタが好きな曲がわからないし……」=
-//「それならさ、さっきのランキングの上の方。これって歌える？」=
-//「あぁ、青空アドベンチャーね。これなら割と得意よ、私のイメージとは少し合っていないかもしれないけど……」=
-//「それって、アイドルソングだから？　[H名]に実はアイドルでしたって言われても、全然違和感ないけどな」=
-//「それ、褒めてるのよね？　アナタの業界人へのイメージを知らないから、反応に困るわ」=
-//「褒めてる褒めてる。アイドルって言われても疑わないくらい可愛いって事だから」=
-//「もう、自分が先に歌いたくないからって……露骨に煽てすぎよ？」=
-//「お世辞とかじゃないって。俺は本気で[H名]アイドル説を推すよ！」=
-//「フフッ、そんな説を唱えているのはアナタだけよ。だから、特別にアナタのために歌ってあげるわ」=
-//「やった！　アイドル独り占め！」=
-//『果てしない空の下 どこかにきっとあるんだ♪』=
-//「ひゅー！　[H名]サイコー！　俺だけのアイドル―！」=
+「[H名]？　さっきからじっとリモコンを見てるけど、好きな曲が入ってないとか？」=[H名]? You've been staring at the remote for a while now, is a song you like not in there or something?
+「あぁ、ごめんなさい。カラオケに来た時の癖なの……履歴と、ランキングのチェックね」=Aah, I'm sorry. It's a habit of mine... everytime I come to Karaoke, I just have to check the history, and the rankings.
+「履歴は俺もよく見るなぁ、前の人が誰かは知らないけど、何を歌ってたかは気になっちゃうよね」=Man, I do that a lot too, you can't tell who the person before you was, but a part of you just gets curious about what they sang, you know?
+「そうね。ランキングには表れない最近の傾向とかもわかるし、場所によっても全然違ったりするのが面白いわ」=Yeah. And in the rankings, you can look at the trends that you normally don't get to see. It's kinda interesting how different places have different sorts of music trends.
+「そこまで考えた事はなかったけど、言われてみるとその通りだね」=I've never really thought about it that much but, now that you say it, it's exactly like that.
+「それで、歌う曲は決まった？　最初は[H名]から歌って欲しいんだけど」=So then, decided on what you're gonna sing? I wanna hear you sing first.
+「えっ、私からなの？　私はアナタからだと思っていたのだけれど……」=Eh--, me? I wanted to hear you go first though...
+「いやぁ、初めて[H名]とカラオケに来たから緊張しちゃって、まずは[H名]に場を温めてもらいたいなぁって」=No well~, it's the first time we've come to karaoke together so, I was thinking that maybe you could go and warm up the mood in this place and all first.
+「待って、私にそんなスキルを期待されても困るわ。レパートリーはそれなりにあるけど、アナタが好きな曲がわからないし……」=Wait, don't put me on the spot like that. I mean, my repertory is fairly big but, I don't know what sorts of songs you like...
+「それならさ、さっきのランキングの上の方。これって歌える？」=In that case, what about the song at the top of the rankings? Can you sing this one?
+「あぁ、青空アドベンチャーね。これなら割と得意よ、私のイメージとは少し合っていないかもしれないけど……」=Aah, blue sky adventure, huh? I'm actually pretty good at this one, but I dunno if it really fits my image...
+「それって、アイドルソングだから？　[H名]に実はアイドルでしたって言われても、全然違和感ないけどな」=What, because it's an idol song? I mean, if you told me "I'm actually a idol in secret", it wouldn't feel odd at all to me.
+「それ、褒めてるのよね？　アナタの業界人へのイメージを知らないから、反応に困るわ」=That's a compliment, right? I can't tell, I don't know what you think of people in the entertainment industry.
+「褒めてる褒めてる。アイドルって言われても疑わないくらい可愛いって事だから」=It is, trust me. I meant that you're so cute that even if you told me you were an idol, I'd buy it.
+「もう、自分が先に歌いたくないからって……露骨に煽てすぎよ？」=Jeez, I know you don't want to go first but... you're buttering me up a bit too much, you know?
+「お世辞とかじゃないって。俺は本気で[H名]アイドル説を推すよ！」=It's not flattery. I seriously support the hypothesis that you are infact an idol in secret!
+「フフッ、そんな説を唱えているのはアナタだけよ。だから、特別にアナタのために歌ってあげるわ」=Fufuh--, you're the only dummy who'd do that. So I'll sing, just for you.
+「やった！　アイドル独り占め！」=Yay! I get my own idol!
+『果てしない空の下 どこかにきっとあるんだ♪』=『I'm sure it's here somewhere, under this boundless bright sky♪』
+「ひゅー！　[H名]サイコー！　俺だけのアイドル―！」=Hyuh~! You're the best, [H名]! An idol only for me~!

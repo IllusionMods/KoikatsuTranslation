@@ -1,18 +1,18 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「あら、もうこんな時間になってるなんて。もうすぐ終了時刻よ。どうする？」=
-//CHOICE:『延長を希望します！』=
-//CHOICE:『今日は帰ろうか』=
-//「もっと[H名]と歌いたい！　延長希望！」=
-//「そうね、丁度ノってきたところだし。アナタがその気なら、私は付き合うわよ。延長の電話、入れておくわね」=
-//「ありがとう。ここからが本番だから、二人で歌いまくろう！」=
-//「うーん、延長代も馬鹿にならないし。今日は素直に帰ろうか」=
-//「賛成ね。延長代を払うくらいなら、もう一度来た方がお得だもの」=
-//「だよね。また近いうちに来ればいいだし。それじゃあ、出よっか」=
-//「だよね。また近いうちに来ればいいだし。次の曲を一緒に歌って終わりにしようか」=
-//「フフッ、デュエットで締めるのね。曲は私が選んでいいかしら？」=
-//「もちろん！」=
+「あら、もうこんな時間になってるなんて。もうすぐ終了時刻よ。どうする？」=Oh my, to think it'd already get so late. Our time's almost up. What do you want to do?
+CHOICE:『延長を希望します！』=I ask for an extension!
+CHOICE:『今日は帰ろうか』=Let's go home.
+「もっと[H名]と歌いたい！　延長希望！」=I wanna sing with you more! Extension, please!
+「そうね、丁度ノってきたところだし。アナタがその気なら、私は付き合うわよ。延長の電話、入れておくわね」=Yeah, we've finally gotten into it too. If you want to sing more, then I'll go along with it. I'll put in the call to the reception.
+「ありがとう。ここからが本番だから、二人で歌いまくろう！」=Thanks. This is where the real show begins so, let's have some fun together!
+「うーん、延長代も馬鹿にならないし。今日は素直に帰ろうか」=Nnn, the extension fee's nothing to scoff at either. Let's just go home for today.
+「賛成ね。延長代を払うくらいなら、もう一度来た方がお得だもの」=I agree. It'd be more worth it to just come back again soon, rather than paying that fee.
+「だよね。また近いうちに来ればいいだし。それじゃあ、出よっか」=Yeah. We can just come back again soon. Let's go then.
+「だよね。また近いうちに来ればいいだし。次の曲を一緒に歌って終わりにしようか」=Yeah. We can just come back again soon. Let's sing the next song together and finish this.
+「フフッ、デュエットで締めるのね。曲は私が選んでいいかしら？」=Fufuh--, closing it off with a duet, huh? Do you mind if I pick the song?
+「もちろん！」=Go ahead!
 [P名]＆[H名]=[P名] & [H名]
-//『果てしない空の下 どこかにきっとあるんだ♪』=
-//（ふふ、楽しそうに歌ってるなぁ……俺も負けてられないぞ！）=
+『果てしない空の下 どこかにきっとあるんだ♪』=『I'm sure it's here somewhere, under this boundless bright sky♪』
+（ふふ、楽しそうに歌ってるなぁ……俺も負けてられないぞ！）=(Fufuh, she's enjoying herself so much... I'm not gonna lose either!)

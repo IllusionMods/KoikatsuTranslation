@@ -1,24 +1,24 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「公園デートって、のどかで好きだけど、[H名]は退屈じゃない？」=
-//「それはアナタの努力次第ね。私は二人で一緒にいるだけで満足なんて、甘い事は言わないわよ？」=
-//「うん、そう言うと思ってね。ジャン！　双眼鏡を持ってきたんだ！」=
-//「双眼鏡？　……ぁっ、わかった。バードウォッチングね？」=
-//「そう、正解！　[H名]と普通に散歩してるだけじゃ怒られると思ってね」=
-//「怒りはしないけど、退屈そうな顔はしたでしょうね。でも、アナタがしっかり考えていてくれて、嬉しいわ」=
-//「でも、野鳥に詳しいってわけじゃないからさ……そこで、ジャン！　秘密兵器二号！　野鳥アプリ！」=
-//「あっ、知ってるわ。それ、鳥の写真を撮るだけで、図鑑を検索してくれるやつよね。そこまで準備してるなんて、凄いじゃない」=
-//「やった、[H名]に褒められた。色々調べた甲斐があったよ」=
-//「うーん、どうしましょう。そこまで準備してもらったのに。私はお弁当くらいしか用意していないわ」=
-//「十分だよ！　彼女の手作り弁当とか、俺の些細な準備なんかより、よっぽど価値があるから」=
-//「そ、そうかしら？　アナタがそう言ってくれるなら、後で一緒に食べましょう？　芝生にマットを広げて、ね？」=
-//「おぉっ、弁当だけなんて言ってたのに。ちゃんとマットまで準備してたんだね。流石[H名]って感じかな」=
-//「お弁当を用意したのだから、食べる所まで考えるのは当然よ。いちいち言う程の事じゃないわ」=
-//「よし、じゃあお互いの準備したものを使っていこうか。まずはバードウォッチングでいい？」=
-//「そうね。歩き回って疲れたら、お弁当を広げて……フフッ、何だか楽しくなってきたわ」=
-//「俺も！　こういうのっていいね、なんかカッチリはまる感じが気持ちいいっていうか」=
-//「わかるわ。なんでも全力で取り組めば、気持ちよくなるものよ」=
-//「全力に疲れたら、お昼寝もできるし。公園デートって、実はかなり有意義かもね」=
-//「お昼寝かぁ、それもいいわね。それじゃあ、早速野鳥を探しましょうか？　どの辺りにいるのかしら？」=
-//「うーん、とりあえず木の多い所じゃないかな。図鑑アプリを見ながら、探してみようか」=
+「公園デートって、のどかで好きだけど、[H名]は退屈じゃない？」=I personally like how tranquil park dates are but, you sure you're not bored, [H名]?
+「それはアナタの努力次第ね。私は二人で一緒にいるだけで満足なんて、甘い事は言わないわよ？」=That depends on your own efforts. I'm not such an easy girl as to just be satisfied by just being with you, you know?
+「うん、そう言うと思ってね。ジャン！　双眼鏡を持ってきたんだ！」=Yep, I knew you'd say that. So tada! I brought some binoculars!
+「双眼鏡？　……ぁっ、わかった。バードウォッチングね？」=Binoculars? ...Ah--, I got it. We're gonna do some birdwatching, are we?
+「そう、正解！　[H名]と普通に散歩してるだけじゃ怒られると思ってね」=Exactly! I got them since I thought you'd get mad at me if I just took you out along for a normal walk.
+「怒りはしないけど、退屈そうな顔はしたでしょうね。でも、アナタがしっかり考えていてくれて、嬉しいわ」=I wouldn't get mad but, I imagine I did look pretty bored. But, I'm glad you put some thought into this.
+「でも、野鳥に詳しいってわけじゃないからさ……そこで、ジャン！　秘密兵器二号！　野鳥アプリ！」=But, I'm not exactly an expert when it comes to wildlife so... tada! That's where secret weapon #2 comes in! A bird encyclopedia app!
+「あっ、知ってるわ。それ、鳥の写真を撮るだけで、図鑑を検索してくれるやつよね。そこまで準備してるなんて、凄いじゃない」=Ah--, I know of it. It's one of those apps that can find the reference article just from a picture of the bird, isn't it? I'm impressed you thought that far ahead.
+「やった、[H名]に褒められた。色々調べた甲斐があったよ」=Yay, praise obtained. It was worth all that effort I put in.
+「うーん、どうしましょう。そこまで準備してもらったのに。私はお弁当くらいしか用意していないわ」=Nnn, what do I do? You put so much thought into it, but all I did was make lunch for us.
+「十分だよ！　彼女の手作り弁当とか、俺の些細な準備なんかより、よっぽど価値があるから」=That's more than enough! My trivial prepwork is nothing compared to my girlfriend's handmade lunchbox.
+「そ、そうかしら？　アナタがそう言ってくれるなら、後で一緒に食べましょう？　芝生にマットを広げて、ね？」=R-Really? I mean, if you mean that, why don't we have it together later? You know, on a mat spread out on the grass and all?
+「おぉっ、弁当だけなんて言ってたのに。ちゃんとマットまで準備してたんだね。流石[H名]って感じかな」=Ooh--, you said you only made lunch, but you even brought a mat. That's my girlfriend for you, clearly.
+「お弁当を用意したのだから、食べる所まで考えるのは当然よ。いちいち言う程の事じゃないわ」=I made lunch so, obviously I had to prepare something so we could eat it easily too. It's nothing so impressive to point out like that.
+「よし、じゃあお互いの準備したものを使っていこうか。まずはバードウォッチングでいい？」=Alright, let's do both things then, shall we? Wanna start with bird watching?
+「そうね。歩き回って疲れたら、お弁当を広げて……フフッ、何だか楽しくなってきたわ」=Good idea. Once we get tired from all the walking, we can spread out the mat and... fufuh--, it's starting to get fun, this.
+「俺も！　こういうのっていいね、なんかカッチリはまる感じが気持ちいいっていうか」=Same for me! Feels kinda nice, doesn't it? The way it all fits together so perfectly.
+「わかるわ。なんでも全力で取り組めば、気持ちよくなるものよ」=I feel that. Things tend to do that when you put your all into them.
+「全力に疲れたら、お昼寝もできるし。公園デートって、実はかなり有意義かもね」=And if we really run ourselves ragged, we can even take a short nap. Park dates might actually be pretty nice.
+「お昼寝かぁ、それもいいわね。それじゃあ、早速野鳥を探しましょうか？　どの辺りにいるのかしら？」=A nap, huh~? That sounds nice too. Well then, why don't we go look for some birds then? Where do you think they might be?
+「うーん、とりあえず木の多い所じゃないかな。図鑑アプリを見ながら、探してみようか」=Nnnn, maybe we should start with a place with lots of trees. Let's search for some while looking at the app.
