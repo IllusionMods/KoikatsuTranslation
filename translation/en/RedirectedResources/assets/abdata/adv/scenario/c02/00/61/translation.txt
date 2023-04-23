@@ -1,19 +1,19 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「今回もしっかりとわたくしをリードなさいね。よろしくて？」=“Escort me properly today as well. Do you understand?”
-「ああ、任せてくれ。高笑いをし疲れさせてあげるよ」=“Yeah, leave it to me. I'll make you get tired of laughing that laugh of yours.”
-「あら、楽しみだわ！　おーっほっほっほ！！」=“Oh, I'm quite looking forward to that! Ohohohoh!!”
-「ふう……注目を浴びるのも慣れてきたな……」=“Fuuh... even all this attention is something I've gotten used to now...”
-「おーっほっほっほ！！　何をなさっているの？　早くこっちにいらっしゃい！」=“Ohohohoh!! What are you doing? Come here, right this moment!”
-「はいはい……まあ、喜んでくれてるみたいで嬉しいよ。俺、恋人らしくなれたかな？」=“Yes yes... well, as long as you're happy. Have I become more of a proper boyfriend?”
-「おーっほっほっほ！　恋人でもない男を、連れて歩く趣味なんて、わたくしにはなくってよ。自信持ちなさい！」=“Ohohohoh! I, at the very least, do not have the hobby of dragging around men who are not worthy of me. Have some confidence!”
-「……うん、そうだな。俺、きみのこと大好きだからな」=“...Yeah, you're right. I love you, afterall.”
-「お、おほほほ……ちょ、い、いきなりそういうことを言うのは……反則ですわ……」=“O-Ohohohoh... hey, s-saying that stuff out of the blue is... quite unfair...”
-「おーっほっほっほ！　今日も楽しかったですわ！」=“Ohohohoh! Today was quite fun as well!”
-CHOICE:「もう少し一緒にいたいな」=I wanna be with you a bit more.
-CHOICE:「俺も楽しかったよ、それじゃあね」=I had fun too, see you later then.
-「もう少し一緒にいたい……で、もう少し、その高笑い、聞いていたいな」=“I wanna be with you a bit more... and, hear that laugh of yours, a little bit more.”
-「もう！　もっとロマンチックな誘い方、ございますでしょう？　でも構いませんわ！　おーっほっほっほ」=“Jeez! Surely you have more romantic ways of asking me that? But I do not mind! Ohohohoh.”
-「俺も楽しかったよ、それじゃあね」=“I had fun too. See ya later.”
-「ええ、ではまた。ごきげんよう！」=“Yes, see you. Good day!”
+//「今回もしっかりとわたくしをリードなさいね。よろしくて？」=
+//「ああ、任せてくれ。高笑いをし疲れさせてあげるよ」=
+//「あら、楽しみだわ！　おーっほっほっほ！！」=
+//「ふう……注目を浴びるのも慣れてきたな……」=
+//「おーっほっほっほ！！　何をなさっているの？　早くこっちにいらっしゃい！」=
+//「はいはい……まあ、喜んでくれてるみたいで嬉しいよ。俺、恋人らしくなれたかな？」=
+//「おーっほっほっほ！　恋人でもない男を、連れて歩く趣味なんて、わたくしにはなくってよ。自信持ちなさい！」=
+//「……うん、そうだな。俺、きみのこと大好きだからな」=
+//「お、おほほほ……ちょ、い、いきなりそういうことを言うのは……反則ですわ……」=
+//「おーっほっほっほ！　今日も楽しかったですわ！」=
+//CHOICE:「もう少し一緒にいたいな」=
+//CHOICE:「俺も楽しかったよ、それじゃあね」=
+//「もう少し一緒にいたい……で、もう少し、その高笑い、聞いていたいな」=
+//「もう！　もっとロマンチックな誘い方、ございますでしょう？　でも構いませんわ！　おーっほっほっほ」=
+//「俺も楽しかったよ、それじゃあね」=
+//「ええ、ではまた。ごきげんよう！」=

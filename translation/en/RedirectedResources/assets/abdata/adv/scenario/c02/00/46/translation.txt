@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「そ、それで……いかがでしたかしら？　わたくし、その……何か妙なことをしたりは……」=“S-So... how was it? I, uhm... I did not do anything strange, did I...”
-「ううん。すごくよかった」=“Nope, you were great.”
-「ふ、ふふ……当然ですわ！　ええ、しっかり予習しましたもの……ふぅ……よかった……」=“Fuh, fufuh... of course! Yes, I prepared for it quite thoroughly afterall... fuuh... thank god...”
+//「そ、それで……いかがでしたかしら？　わたくし、その……何か妙なことをしたりは……」=
+//「ううん。すごくよかった」=
+//「ふ、ふふ……当然ですわ！　ええ、しっかり予習しましたもの……ふぅ……よかった……」=

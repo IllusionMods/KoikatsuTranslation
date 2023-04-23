@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「ふふ、ところでわたくし、あなたが見込み通りの男性だったことに喜んでおりますのよ」=“Fufuh, by the way, I am quite glad you turned out to be exactly the sort of man I was hoping you were.”
-「そ、そう……安心したよ」=“T-That so... well that's a relief.”
-「だからといって油断しないでね？　エスコートが下手な男性に、時間を割くつもりはなくってよ」=“But do not use that as a reason to become negligent, understand? Because I will not waste any of my time on a man who does not escort me properly.”
-「うん……気をつけるよ」=“Got it... I'll be careful.”
-「そうなさい。わたくし、見捨てる時には容赦しなくてよ」=“Indeed, be so. When I discard people, I do tend to be merciless.”
+「ふふ、ところでわたくし、あなたが見込み通りの男性だったことに喜んでおりますのよ」=“Fufu, by the way, I am pleased to say that you are just the man I expected you to be.”
+「そ、そう……安心したよ」=“Th-that's... a relief.”
+「だからといって油断しないでね？　エスコートが下手な男性に、時間を割くつもりはなくってよ」=“But do not let your guard down because of that, understand?　I will not waste my time on a man who is a terrible escort.”
+「うん……気をつけるよ」=“Right... I'll be careful.”
+「そうなさい。わたくし、見捨てる時には容赦しなくてよ」=“So be it. I do not relent when I discard others.”

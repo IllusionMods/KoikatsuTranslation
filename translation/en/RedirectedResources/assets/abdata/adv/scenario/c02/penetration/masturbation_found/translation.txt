@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「ふぅ……あなた、まさか見ているだけで満足するような軟弱者じゃありませんわよね？」=“Fuuh... you are not such a weak willed man as to be satisfied just by looking, are you?”
+//「ふぅ……あなた、まさか見ているだけで満足するような軟弱者じゃありませんわよね？」=

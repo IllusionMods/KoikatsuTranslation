@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「……あれ？　メモがある。なになに──」=“...Huh? There's a note. Let's see--”
-『ごきげんよう。目覚めはいかがかしら？　わたくし、用事がありますので、先に出ることにいたします』=「Good day to you. How was your sleep? I have tasks to deal with, so I shall be leaving ahead of you.」
-『きっとわたくしが傍にいなくて、寂しく思っているでしょう。寝ている間、あなたの身体の目立たない箇所にキスマークを付けておきました』=「I'm sure you feel quite lonely indeed, not having me by your side. While you were asleep, I left a hickey on a more inconspicuous part of your body.」
-『これでわたくしを思い出しなさい。ではまたのちほど」=「Use that to remember me fondly by. See you soon then」
-「…………あ、こんなところに……ふふ、まったく、困った子だなぁ」=“...Ah, here of all... fufuh, good lord, what am I to do with her?”
+//「……あれ？　メモがある。なになに──」=
+//『ごきげんよう。目覚めはいかがかしら？　わたくし、用事がありますので、先に出ることにいたします』=
+//『きっとわたくしが傍にいなくて、寂しく思っているでしょう。寝ている間、あなたの身体の目立たない箇所にキスマークを付けておきました』=
+//『これでわたくしを思い出しなさい。ではまたのちほど」=
+//「…………あ、こんなところに……ふふ、まったく、困った子だなぁ」=

@@ -1,23 +1,23 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「さあ、今日も張り切って歌いますわよー！　ふふふ、わたくしの美声に聞き惚れるがいいですわ」=“Now then, I'm going to go all out today as well! Fufufuh, you'd do well to be enraptured by my voice.”
-「うん……大口を叩くにふさわしい歌声だったよ。声楽とかオペラっぽい感じだったけどね」=“Yep... your singing really is worthy of all that bragging. But it felt more like opera or just vocal music than karaoke.”
-「クラシック鑑賞が趣味なんですもの。仕方ありませんわ。ですが、今回に備え、幾つか新しい歌謡曲を練習してまいりましたわ」=“Classical music is something I enjoy, so I cannot help it. However, this time, I've practiced quite a few pop songs as well.”
-「……カラオケ、かなり気に入ったみたいだね。この前も、後半はマイクを握りっぱなしだったし」=“...You really took a liking to Karaoke, huh? Last time, I couldn't get you to let go of the mic at all halfway through.”
-「ええ、流石に喉が枯れてしまいそうでしたわ。ですから、今回はのんびりとしたペースで歌うことにいたしましょう」=“Yes, I thought my throat was going to dry up near the end there. So let us sing at a more relaxed pace this time.”
-「うん、それがいいよ。ああ、そうだ……カラオケって、いろんな機能があるの、知ってる？」=“Yep, that'd be best. Aah, right... did you know, Karaoke boxes have a lot of features.”
-「機能？　あいにく存じ上げませんわ」=“Features? I'm afraid I'm not aware of them.”
-「歌のキーを上下させたり、テンポを変えたり……あ、そうそう、採点機能なんかもあるんだよ」=“You can adjust the key, the tempo... ah, right, there's also a scoring feature.”
-「採点機能……ですって？　わたくしの歌に、点数が付くということかしら？」=“Scoring... you say? Do you mean that it will be scoring my singing?”
-（あ、なんか不穏な空気……）=(Ah, maybe I shouldn't have mentioned it...)
-「う、うん……機械で判定するから、必ずしも人が聞いて上手に感じるかどうかはまた別みたいだけどね」=“Y-Yeah... it's a machine at the end of the day though, so it's not the be-all and end-all when it comes to whether it's actually something people will enjoy listening to.”
-「ふ、ふふふ……おほほほほほ！　結構ですわ！　その挑戦、受けて立ちます！」=“Fuh, fufufuh... ohohohohoh! That's just fine! I shall be taking on this challenge!”
-「負けたものが、勝ったものに従う……というのは、いかがかしら？」=“The one who loses, will obey the winner... how about that?”
-「ちょ、ちょっと待って！　俺、歌そんなに上手じゃないってばぁ！　ガチられたら、勝負にならないよ」=“W-Wait just a second! I'm not that good at singing, I told you! Forget being even, it's not even gonna be a fight.”
-「ええ、確かにそうでしたわね。では、わたくし自身と勝負をいたします。満点を目指して、今日一日頑張らせていただきますわ！」=“Yes, certainly I remember you saying so. Well then, I shall compete against myself then. I'm going to endeavour to hit the perfect score today!”
-「う、うん……まあ、それならいいや。応援するよ。それで、何の曲を入れればいい？」=“S-Sure... yeah, that's just fine. I'll cheer you on. So then, what song should I put on?”
-「この曲をお願いいたしますわ！」=“Please put on this one!”
-（……リモコン操作ぐらい、自分で憶えて欲しいもんだけどなぁ……まあいいや、はい入力、と）=(...She could atleast learn to operate the remote herself, you know... well whatever, alright, it's in.)
-「ふふ、わたくしの美声で機械をも魅了させてみせます！」=“Fufuh, I shall charm this machine as well, with my beautiful voice!”
-（満足する点が出るまで、マイクを握ってそうだなぁ）=(Until she gets the perfect score she wants, I bet she won't let go of the mic.)
+//「さあ、今日も張り切って歌いますわよー！　ふふふ、わたくしの美声に聞き惚れるがいいですわ」=
+//「うん……大口を叩くにふさわしい歌声だったよ。声楽とかオペラっぽい感じだったけどね」=
+//「クラシック鑑賞が趣味なんですもの。仕方ありませんわ。ですが、今回に備え、幾つか新しい歌謡曲を練習してまいりましたわ」=
+//「……カラオケ、かなり気に入ったみたいだね。この前も、後半はマイクを握りっぱなしだったし」=
+//「ええ、流石に喉が枯れてしまいそうでしたわ。ですから、今回はのんびりとしたペースで歌うことにいたしましょう」=
+//「うん、それがいいよ。ああ、そうだ……カラオケって、いろんな機能があるの、知ってる？」=
+//「機能？　あいにく存じ上げませんわ」=
+//「歌のキーを上下させたり、テンポを変えたり……あ、そうそう、採点機能なんかもあるんだよ」=
+//「採点機能……ですって？　わたくしの歌に、点数が付くということかしら？」=
+//（あ、なんか不穏な空気……）=
+//「う、うん……機械で判定するから、必ずしも人が聞いて上手に感じるかどうかはまた別みたいだけどね」=
+//「ふ、ふふふ……おほほほほほ！　結構ですわ！　その挑戦、受けて立ちます！」=
+//「負けたものが、勝ったものに従う……というのは、いかがかしら？」=
+//「ちょ、ちょっと待って！　俺、歌そんなに上手じゃないってばぁ！　ガチられたら、勝負にならないよ」=
+//「ええ、確かにそうでしたわね。では、わたくし自身と勝負をいたします。満点を目指して、今日一日頑張らせていただきますわ！」=
+//「う、うん……まあ、それならいいや。応援するよ。それで、何の曲を入れればいい？」=
+//「この曲をお願いいたしますわ！」=
+//（……リモコン操作ぐらい、自分で憶えて欲しいもんだけどなぁ……まあいいや、はい入力、と）=
+//「ふふ、わたくしの美声で機械をも魅了させてみせます！」=
+//（満足する点が出るまで、マイクを握ってそうだなぁ）=

@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「こうして歩いているだけでも、それなりに楽しいですわね」=“Just walking like this, is fun in its own way.”
-「それなりに、か～……。よーし、もっと楽しませなきゃね！」=“In its own way, huh~... Alright, I guess I gotta make it even more fun!”
-「ほら、御覧なさい！　皆こちらを注目しているわ」=“Look, over there! Everyone is paying attention to us.”
-「きっと、わたくしのような美人を連れたあなたを、羨んでいるんでしょうね！　おーっほっほっほ！」=“I'm sure they're envious, of the man who can take a beauty such as me out on a date! Ohohohoh!”
-「う、うん……注目はされてるね。はは……」=“Y-Yeah... they're paying attention to us alright. Hahah...”
+//「こうして歩いているだけでも、それなりに楽しいですわね」=
+//「それなりに、か～……。よーし、もっと楽しませなきゃね！」=
+//「ほら、御覧なさい！　皆こちらを注目しているわ」=
+//「きっと、わたくしのような美人を連れたあなたを、羨んでいるんでしょうね！　おーっほっほっほ！」=
+//「う、うん……注目はされてるね。はは……」=

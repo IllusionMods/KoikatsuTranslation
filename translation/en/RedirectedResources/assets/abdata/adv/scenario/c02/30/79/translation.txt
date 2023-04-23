@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「おほほほ、見事な健啖ぶりですわね！　節制している身としては羨ましいですわ」=“Ohohohoh, such a hearty appetite! I am envious, as someone who has to maintain herself.”
-「でも、いっぱい食べないと、一日頑張れないよ？」=“But, if you don't eat a lot, you're not gonna be able to do your best all day, you know?”
-「おっしゃる通りですわね……今回は、おかわりいたしますわ！」=“It is as you say, indeed... just this once, I shall go for seconds!”
-（……美味しそうに食べる子だなぁ。それでいて上品なんだからすごい……）=(...She sure eats deliciously. And yet so classy at the same time, amazing...)
+//「おほほほ、見事な健啖ぶりですわね！　節制している身としては羨ましいですわ」=
+//「でも、いっぱい食べないと、一日頑張れないよ？」=
+//「おっしゃる通りですわね……今回は、おかわりいたしますわ！」=
+//（……美味しそうに食べる子だなぁ。それでいて上品なんだからすごい……）=

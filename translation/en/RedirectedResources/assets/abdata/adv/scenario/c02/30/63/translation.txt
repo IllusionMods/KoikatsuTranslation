@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「ふふ、お邪魔いたしますわね。ふふふ、これがあなたの部屋……」=“Fufuh, I am coming in. Fufufuh, so this is your home...”
-「実は、初めて男性の部屋にお招きされましたの。緊張して、少し粗相をしてしまうかもしれませんわね」=“This is actually the first time that I have been invited up to a man's home. I am quite nervous, to the point that I may make a mistake or two out of carelessness.”
-「ですので、優しくリードして下さいませね。わたくしなら、その……オッケーですわ……」=“Therefore, please gently take the lead, alright? I am, uhm... okay with it...”
+//「ふふ、お邪魔いたしますわね。ふふふ、これがあなたの部屋……」=
+//「実は、初めて男性の部屋にお招きされましたの。緊張して、少し粗相をしてしまうかもしれませんわね」=
+//「ですので、優しくリードして下さいませね。わたくしなら、その……オッケーですわ……」=

@@ -1,16 +1,16 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「ねえ、もしよかったらだけど、お互い愛称で呼び合うってのはどうかな？」=“Hey, if you're up for it, how about we call each other by nicknames?”
-「……愛称ですって？　あまり気が進みませんわね。でも検討してもよろしくってよ」=“...Nicknames? Can't say I'm all that interested. But I would not mind considering it.”
-「ありがと。じゃあまずはお試しで俺を[Pあだ名]って、呼んでみてくれないかな？」=“Thanks. Then, as a test, won't you call me [Pあだ名]?”
-「あら、妙な名前ですわね。何か由来がありますの？」=“Oh dear, what a strange name? Is there any significance to it?”
-「まあ……それは置いておいて、とりあえず呼んでみてほしいな。[Pあだ名]ってさ」=“Well... nevermind that, I just want you to call me that. [Pあだ名], you know?”
-「ううん、なんだかしっくり来ませんわねぇ」=“Nnnn, I can't really say it works.”
-「いや、絶対しっくりくるって！　いい？　俺から呼びかけるね」=“No, it definitely works! Alright, I'm gonna go first, okay?”
-「いくよ、せーの、[Hあだ名]」=“Here I go, one two, [Hあだ名].”
-「[Pあだ名]……これで、よろしくて？」=“[Pあだ名]... is that, fine?”
-「お～～～……いい、すごくいい。お互いの絆が深まった気がしない？」=“Oh~~~... fine, more than fine. Doesn't it feel like our bond just got stronger?”
-「馬鹿馬鹿しいですわ。こんなことをしなくても、私達の関係は最高ですわ」=“How ludicrous. We needn't do these things, our relationship is already perfect.”
-「……はは、そうだね。その通りだね」=“...Hahah, right. Of course.”
-「満足していただけて？　まあ、時々なら愛称で呼んで差し上げますわ」=“Are you satisfied now? Well, I shall call you that every so often if you so wish, if the mood strikes me.”
+//「ねえ、もしよかったらだけど、お互い愛称で呼び合うってのはどうかな？」=
+//「……愛称ですって？　あまり気が進みませんわね。でも検討してもよろしくってよ」=
+//「ありがと。じゃあまずはお試しで俺を[Pあだ名]って、呼んでみてくれないかな？」=
+//「あら、妙な名前ですわね。何か由来がありますの？」=
+//「まあ……それは置いておいて、とりあえず呼んでみてほしいな。[Pあだ名]ってさ」=
+//「ううん、なんだかしっくり来ませんわねぇ」=
+//「いや、絶対しっくりくるって！　いい？　俺から呼びかけるね」=
+//「いくよ、せーの、[Hあだ名]」=
+//「[Pあだ名]……これで、よろしくて？」=
+//「お～～～……いい、すごくいい。お互いの絆が深まった気がしない？」=
+//「馬鹿馬鹿しいですわ。こんなことをしなくても、私達の関係は最高ですわ」=
+//「……はは、そうだね。その通りだね」=
+//「満足していただけて？　まあ、時々なら愛称で呼んで差し上げますわ」=

@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「ふぅ……はしたない声をあげてしまいましたわ」=“Fuh... I made quite the obscene moans.”
+//「ふぅ……はしたない声をあげてしまいましたわ」=

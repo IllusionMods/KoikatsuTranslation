@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「すぅ……すぅ……ん、んん……」=“*snore... *snore*... Nnn, nnnn...”
+「すぅ……すぅ……ん、んん……」=*snore... *snore*... Nnn, nnnn...
 （んぅ……ん……なんか、下半身に違和感が……？）=(Nn... nn... my crotch feels kinda...?)
-「…………」=“...”
+「…………」=“......”
 「って……え？　え？」=“...Eh? Eh?”
-「手の中で震えていますわ。ふふ、可愛い反応ですこと」=“It is twitching between my hands. Fufuh, such a cute reaction.”
-「あの、何をして……？」=“Uhm, what are you...?”
-「おほほ、気持ちよく起こして差し上げていますの。最後までしっかり堪能なさい♪」=“Ohohoh, I am waking you up in a nice, pleasureable manner. Savour this till the very end♪”
+//「手の中で震えていますわ。ふふ、可愛い反応ですこと」=
+「あの、何をして……？」=“Um, what are you doing...?”
+//「おほほ、気持ちよく起こして差し上げていますの。最後までしっかり堪能なさい♪」=

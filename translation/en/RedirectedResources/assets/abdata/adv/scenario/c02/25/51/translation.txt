@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「……あら、これでお仕舞い？　エスコート不足ですわ」=“...Oh my, stopping here? What a lacking escort.”
+//「……あら、これでお仕舞い？　エスコート不足ですわ」=

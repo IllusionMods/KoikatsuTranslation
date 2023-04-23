@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「まあ、無粋なお方……ほら、邪魔ですわ。あっちお行きなさい」=“My, such an uncivilized man... you are in the way. Go away.”
+//「まあ、無粋なお方……ほら、邪魔ですわ。あっちお行きなさい」=

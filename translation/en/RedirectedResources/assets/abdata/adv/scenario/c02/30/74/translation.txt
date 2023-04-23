@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「それでは何をいたしましょう？　カバティでもセパタクローでもフィルダースチョイスでも、何でもござれですわ！　おーっほっほっほ」=“Well then, what shall we do? A round of Kabatty, a game of Sepak Takraw or even fielder's choice, anything goes! Ohohohoh--”
-「なんで、そんなマイナー競技を……それに、最後はルール名だし」=“Where did you even drag those niche spor... not to mention, that last one is a rule in baseball.”
-「そんなに瑣末なことはどうでもよろしくてよ！　とりあえずランニングで身体を温めますわ！」=“You need not mind such minor things! Let us warm our bodies with some running first!”
-「うう……この人、ガチっぽい……。もっと楽しく気楽な時間を想像してたのに……」=“Uuu... she seems real serious... and here I was thinking that we could have a nice enjoyable time together...”
+//「それでは何をいたしましょう？　カバティでもセパタクローでもフィルダースチョイスでも、何でもござれですわ！　おーっほっほっほ」=
+//「なんで、そんなマイナー競技を……それに、最後はルール名だし」=
+//「そんなに瑣末なことはどうでもよろしくてよ！　とりあえずランニングで身体を温めますわ！」=
+//「うう……この人、ガチっぽい……。もっと楽しく気楽な時間を想像してたのに……」=

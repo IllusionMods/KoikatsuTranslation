@@ -1,17 +1,17 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「ぬおおお……急に混んで来た……」=“Nuuwooooh... suddenly it's all packed...”
-「ふぅ……くっつき過ぎではありませんか？　それに……くんくん、少し、汗臭いですわ」=“Fuuh... are you not snuggled up a bit too close? Not to mention... *sniff sniff*, you reek of sweat a bit.”
-「仕方ないじゃん。汗かいたんだし……でも、そんなに臭う？　くんくん……いい匂いだけど」=“I can't help that, I was sweating... but, is it that bad? *sniff sniff*... it smells nice.”
-「それはわたくしの香りですわ。あなた、わかっててやってるでしょう？」=“That's my scent. You're doing that knowing full well it is, aren't you?”
-「まあね。いい匂いだ……くんくん……」=“Yep, won't lie. You smell nice... *sniff sniff*...”
-CHOICE:『欲望に身を任せて嗅ぎ続ける』=Give in to your desires and keep sniffing.
-CHOICE:『自重して嗅ぐのは止める』=Control yourself and stop sniffing.
-（本当にいい匂い……あぁ、どんどんエッチな気分に……）=(She really does... aaah, I'm getting into a lewder and lewder mood...)
-「おほほほほ……あなた……わざとやっていて？　アソコが……大きくなっておりますわ……ああ、あたってる……」=“Ohohohohoh... you... are you doing it on purpose? Your... crotch is getting bigger... aaah, it's poking into me...”
-「こ、これは不可抗力だよ？　怒ったりしないでね」=“T-This is beyond my control, alright? Don't get mad at me for it, okay?”
-「ちょっ、う、動かさないでぇ……そんなこと、されたら……あ、あぁ……」=“Hey--, d-don't move it... if you, do that... a-aaah...”
-「ごめん……ほんとゴメンっ！　ちょっとだけ……我慢してくれっ」=“Sorry... I'm really sorry--! Endure it... just a bit--”
-（……いかん。このまま嗅ぎ続けてたら暴走してしまいそうだ）=(...Damn. If I keep this up I'm going to lose control.)
-（そうなる前に自重しておこう……）=(Let's stop before that happens...)
+//「ぬおおお……急に混んで来た……」=
+//「ふぅ……くっつき過ぎではありませんか？　それに……くんくん、少し、汗臭いですわ」=
+//「仕方ないじゃん。汗かいたんだし……でも、そんなに臭う？　くんくん……いい匂いだけど」=
+//「それはわたくしの香りですわ。あなた、わかっててやってるでしょう？」=
+//「まあね。いい匂いだ……くんくん……」=
+//CHOICE:『欲望に身を任せて嗅ぎ続ける』=
+//CHOICE:『自重して嗅ぐのは止める』=
+//（本当にいい匂い……あぁ、どんどんエッチな気分に……）=
+//「おほほほほ……あなた……わざとやっていて？　アソコが……大きくなっておりますわ……ああ、あたってる……」=
+//「こ、これは不可抗力だよ？　怒ったりしないでね」=
+//「ちょっ、う、動かさないでぇ……そんなこと、されたら……あ、あぁ……」=
+//「ごめん……ほんとゴメンっ！　ちょっとだけ……我慢してくれっ」=
+//（……いかん。このまま嗅ぎ続けてたら暴走してしまいそうだ）=
+//（そうなる前に自重しておこう……）=

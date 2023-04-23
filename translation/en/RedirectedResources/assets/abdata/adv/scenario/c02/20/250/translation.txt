@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「はー……疲れた～……」=“Haah... I'm beat~...”
-「ふぅ……電車の揺れが、身体に心地いいですわ」=“Fuuh... the jostling of the train, feels quite nice.”
-「いっぱい歩いたもんね～」=“We did walk a lot, afterall~”
-「ええ、カロリーが消費され、またわたくしの素晴らしい身体に磨きがかかりましたわね！　おーっほっほっほ！」=“Yes, the calories have been burnt, and my wonderful body has been polished yet again! Ohohohohoh!”
-「あ、あの、ここ電車の中だから……」=“U-Uhm, we're on a train so...”
-（めちゃめちゃ元気いっぱじゃないか……）=(Someone's full of energy still...)
+//「はー……疲れた～……」=
+//「ふぅ……電車の揺れが、身体に心地いいですわ」=
+//「いっぱい歩いたもんね～」=
+//「ええ、カロリーが消費され、またわたくしの素晴らしい身体に磨きがかかりましたわね！　おーっほっほっほ！」=
+//「あ、あの、ここ電車の中だから……」=
+//（めちゃめちゃ元気いっぱじゃないか……）=

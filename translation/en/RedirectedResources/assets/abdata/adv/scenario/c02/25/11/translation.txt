@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「……はぁ、何も考えていないって顔していらっしゃいますわね。呆れますわ」=“...Haah, truly, what an unthinking face. I am almost amazed.”
-「な、なんだよ、その言い方……」=“W-What's with that tone...”
-「日頃の行いに問題があるとお思いにならないの？　そんなことでは、わたくしが相手するまでもなさそうですわね」=“Do you seriously not see any issue at all with your own conduct? If so, I do not think I even need to bother with you anymore.”
-「え？　あ、あの……怒ってるの？」=“Eh? U-Uhm... are you mad?”
-「あなたなど怒るに値しませんわ。おつきあいもこれまでにさせていただきたく存じますわ」=“A man like you does not deserve even my anger. Nor my company. I have had enough of yours.”
-「な……それって、つまり……」=“Wha... so basically, you're...”
-「察しの悪い方ね。あなたとはもうお別れですわ！　よろしくて？」=“Truly a dull mind. Yes, indeed, this is where we part! Understand?”
+//「……はぁ、何も考えていないって顔していらっしゃいますわね。呆れますわ」=
+//「な、なんだよ、その言い方……」=
+//「日頃の行いに問題があるとお思いにならないの？　そんなことでは、わたくしが相手するまでもなさそうですわね」=
+//「え？　あ、あの……怒ってるの？」=
+//「あなたなど怒るに値しませんわ。おつきあいもこれまでにさせていただきたく存じますわ」=
+//「な……それって、つまり……」=
+//「察しの悪い方ね。あなたとはもうお別れですわ！　よろしくて？」=

@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「さ、さてと……それじゃあ、シャワー浴びる？」=“S-So then... wanna go take a shower first?”
-「お待ちなさい。わたくし気づきましたわ。ラブホテルは大変居心地がいい……ということに」=“Wait. I have realized it. That love hotels are really quite... cozy.”
-「へ？　あ、うん……確かにそうだけど……それがどうかしたの？」=“Heh? Ah, yeah... they are, for sure... but what about it?”
-「いずれ別荘を手に入れた暁には、寝室の内装をラブホテルのようにすることに決めましたわ！」=“When we eventually build our own holiday villa, our bedroom shall look like this, I have decided!”
-「そ、そう？　別荘を買うお金分、ラブホに来た方が安上がりのような気がするけど……」=“R-Really? I feel like that money would be better spent just coming to a love hotel whenever we want though...”
-「たしかにその通りですわね！　おほほほほほ……さて、それでは、今日もエスコート、お願いいたしますわ」=“Certainly, you are not wrong! Ohohohohohoh... now then, please escort me thoroughly, today as well.”
+//「さ、さてと……それじゃあ、シャワー浴びる？」=
+//「お待ちなさい。わたくし気づきましたわ。ラブホテルは大変居心地がいい……ということに」=
+//「へ？　あ、うん……確かにそうだけど……それがどうかしたの？」=
+//「いずれ別荘を手に入れた暁には、寝室の内装をラブホテルのようにすることに決めましたわ！」=
+//「そ、そう？　別荘を買うお金分、ラブホに来た方が安上がりのような気がするけど……」=
+//「たしかにその通りですわね！　おほほほほほ……さて、それでは、今日もエスコート、お願いいたしますわ」=

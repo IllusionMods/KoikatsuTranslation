@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「………………」=“...”
-（……股間がムズムズする。あ、これ……ひょっとして、イタズラされてる……？）=(...My crotch feels weird. Ah, is this... am I being pranked right now...?)
-「まあ、はしたない……昨晩、あんなに愛し合ったというのに……ふふふ、あらあら、こんなにさせて……おーっほっほっほ……」=“My, how obscene... even though we made so much love last night... fufufuh, oh dearie, getting like this... ohohohoh...”
-「……あの、何してるの？」=“...Uhm, what are you doing?”
-「決まってますわ。目覚めの挨拶です。それにしても、もう起きてしまわれるとは」=“That's obvious. It is a morning greeting. But to think you'd already be awake.”
-「そりゃ、傍で高笑いされちゃあねぇ……でも気持ちいいから、もう少し続けてくれる？」=“Well, you were laughing pretty loudly so... but it feels good so, will you keep going?”
-「無抵抗だから楽しかったのですが……仕方ありませんわね」=“I wanted to enjoy your complete passivity for a bit but... I suppose it cannot be helped.”
+「………………」=“.........”
+//（……股間がムズムズする。あ、これ……ひょっとして、イタズラされてる……？）=
+//「まあ、はしたない……昨晩、あんなに愛し合ったというのに……ふふふ、あらあら、こんなにさせて……おーっほっほっほ……」=
+//「……あの、何してるの？」=
+//「決まってますわ。目覚めの挨拶です。それにしても、もう起きてしまわれるとは」=
+//「そりゃ、傍で高笑いされちゃあねぇ……でも気持ちいいから、もう少し続けてくれる？」=
+//「無抵抗だから楽しかったのですが……仕方ありませんわね」=

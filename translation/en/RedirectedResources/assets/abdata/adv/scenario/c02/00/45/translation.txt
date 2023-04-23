@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「わたくしの初めては、お安いものではありませんわ。しっかりとその価値をありがたがることね！」=“My virginity is nothing cheap. Be grateful to have received it!”
+//「わたくしの初めては、お安いものではありませんわ。しっかりとその価値をありがたがることね！」=

@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「へえ、色々あるんだね」=“Hoh, there's all sorts, huh?”
-「あらあら、思ったよりもいいセンスですわね。あちらのお店、見させていただいても構わなくて？」=“My oh my, you have much better taste than I thought. I don't suppose you'd mind if we go and look at that store over there?”
-「うん、いいよ」=“Sure, let's go.”
-「ふふふ……買いすぎてしまいましたわ。でも荷物持ちがいてくれて助かりましたわ！　おーっほっほっほ！！」=“Fufufuh... I bought a bit too much. But it's a good thing I have a man to carry my bags for me! Ohohohoh!!”
-（よかった、喜んでもらえたみたいだ）=(Great, looks like she enjoyed herself.)
+//「へえ、色々あるんだね」=
+//「あらあら、思ったよりもいいセンスですわね。あちらのお店、見させていただいても構わなくて？」=
+//「うん、いいよ」=
+//「ふふふ……買いすぎてしまいましたわ。でも荷物持ちがいてくれて助かりましたわ！　おーっほっほっほ！！」=
+//（よかった、喜んでもらえたみたいだ）=

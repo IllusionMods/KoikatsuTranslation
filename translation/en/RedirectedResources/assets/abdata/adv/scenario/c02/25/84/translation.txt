@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「ところで、何をすればよろしいの？」=“So, what shall I do here?”
-「なんでもいいんだよ。恋人がするようなことをやる部活なんだから」=“Anything's fine. It's a club where you do stuff that lovers do, and all.”
-「おーほっほっほ！　では、あなたはわたくしをレディとして扱いなさい。それが紳士の証ですからね」=“Ohohohoh! Well then, treat me as you would a lady. No better testimony to your gentlemanliness than that.”
-「し、紳士……それがキミの恋人スタイルなんだね」=“G-Gentlemanly... that's the sort of romance you like, huh?”
-「そのとおりですわ！　コイカツを通じて、わたくしがあなたを立派な紳士に仕立て上げてみせます！　おーっほっほっほ」=“Precisely! Using these love activities, I shall make a splendid gentleman out of you! Ohohohoh--”
-（これは頑張らなきゃいけないっぽいな……）=(I'm gonna have to put in some serious effort into this, aren't I...)
+//「ところで、何をすればよろしいの？」=
+//「なんでもいいんだよ。恋人がするようなことをやる部活なんだから」=
+//「おーほっほっほ！　では、あなたはわたくしをレディとして扱いなさい。それが紳士の証ですからね」=
+//「し、紳士……それがキミの恋人スタイルなんだね」=
+//「そのとおりですわ！　コイカツを通じて、わたくしがあなたを立派な紳士に仕立て上げてみせます！　おーっほっほっほ」=
+//（これは頑張らなきゃいけないっぽいな……）=

@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「おーっほっほっほ！　これを差し上げますわ」=“Ohohohoh! I shall give this to you.”
-「ん？　ありがとう」=“Nn? Thanks.”
-「家庭科の授業だったのですが、作りすぎてしまいましたわ！　平凡な出来なので、あなたの口にも合うことでしょう」=“I was just in home economics class, but I'm afraid I made a bit too much! It is quite the unremarkable fare, so I'm sure it'll fit your tastes as well.”
-「う、うん……それはよかった」=“O-Okay... That's good, I guess.”
-「それではごきげんよう！　おーっほっほっほ」=“And with that, a good day to you! Ohohohoh.”
+「おーっほっほっほ！　これを差し上げますわ」=“Ohohoho!　I shall give you this.”
+「ん？　ありがとう」=“Oh?　Thank you.”
+「家庭科の授業だったのですが、作りすぎてしまいましたわ！　平凡な出来なので、あなたの口にも合うことでしょう」=“I was in home economics class, and I made too much!　It is merely of middling worksmanship, and I am sure it also suits your palate.”
+「う、うん……それはよかった」=“Y-yeah... That's good, I guess.”
+「それではごきげんよう！　おーっほっほっほ」=“Good day to you, then! Ohohoho!”

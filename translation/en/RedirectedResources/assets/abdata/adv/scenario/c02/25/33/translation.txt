@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「あらあら、あなたにしてはイマイチね。もう一度わたくしのセンスについて学ぶ必要があるのではなくって？」=“Oh my, quite the paltry gift, coming from you. Do you not think you should endeavour to learn about my tastes again?”
+//「あらあら、あなたにしてはイマイチね。もう一度わたくしのセンスについて学ぶ必要があるのではなくって？」=

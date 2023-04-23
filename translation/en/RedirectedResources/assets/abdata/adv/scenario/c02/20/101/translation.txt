@@ -1,22 +1,22 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「おーっほっほっほ！　素晴らしい天気ね！　澄み渡る空に、わたくしの声が響き渡っておりますわ！」=“Ohohohoh! Such splendid weather! My voice echoes on, in this beautifully clear sky!”
-「うん、公園中に響き渡っているよ。ほら、皆こっち見てる……」=“Yeah, it's echoing through the whole park. Look, everyone's looking at us...”
-「結構ですわ！　みなわたくしの到来を歓迎しているようですわね！　おーっほっほっほっほ！」=“How splendid! It is almost as if a red carpet is being laid out for me! Ohohohohoh!”
-（声、でかいなぁ……まあ、楽しそうでいいけど……）=(She's being so loud... well, as long as she's having fun...)
-「それで、公園ではどうやって過ごすおつもりですの？」=“So then, how do you plan for us to spend our day here?”
-「あー……うん、ノープランって言うか、ブラブラ散歩するのも楽しいかなーって」=“Ah... Nnn, not really a plan, like, I thought that maybe just taking a walk without thinking too much would be nice too.”
-「なんですって！　このわたくしと、ただブラブラ散歩するだけ……？　本気ですの？」=“What did you say?! Just a simple walk, with one such as me...? Are you serious?”
-「あ、あの、ゴメンっ、こういうのもいいかなーって考えたんだけど……やっぱ気に入らないかな？」=“U-Uhm, sorry--, I thought it'd be nice but... I guess you're not up for that?”
-「いいえっ、素晴らしいですわ。下手なもてなしよりも、ずっと楽しそうではありませんか」=“No--, it's simply wonderful. Does it not seem infinitely more enjoyable, than crude hospitality?”
-「そ、そう？　それならよかったよ」=“Y-You think so? Thank god.”
-「こうして、自然の中を歩くと、普段のギスギスとしたストレス塗れの生活を忘れることが出来そうですわ」=“Walking within nature, like this, it's enough to make one forget of all the harsh stresses of life.”
-「ストレス……あるんだ……」=“You're... stressed, huh...”
-「当たり前ですわ！　わたくしほど繊細な人間ですもの。ストレスを感じないわけありませんわ！　おほほほほ！」=“Of course! I am such a sensitive, dainty person. There is no way I would not feel any stress! Ohohohohoh!”
-「……あら？　空を御覧なさい。虹が出ていますわ……まあ、綺麗……」=“...Oh? Look at the sky. There is a rainbow... my, so pretty...”
-「あ、本当だ」=“Ah, you're right.”
-「ところでどうして虹が出来るのか、ご存知？」=“Incidentally, are you aware how rainbows work?”
-「ああ、水蒸気がレンズになって、光が屈折するんだよね？　で、光の波長ごとで色分けされてしまうとかなんとか……」=“Yeah, the water vapour acts as a lens and bends light, right? And then the colors get all split up by wavelength and stuff...”
-「ふふふ、博識な方ですわね。お散歩が楽しくなりそうですわ。その調子で、どんどんわたくしの疑問にお答えなさい！」=“Fufufuh, an erudite, I see. This will be a fun walk indeed. Keep answering my doubts one by one in that manner!”
-「……やれやれ、なんだか疲れそうな予感が……でも、楽しそうにしてくれて嬉しいけどね」」=...Gee, seems like this is gonna be a tiring date... but, I'm glad you're enjoying yourself though.
+//「おーっほっほっほ！　素晴らしい天気ね！　澄み渡る空に、わたくしの声が響き渡っておりますわ！」=
+//「うん、公園中に響き渡っているよ。ほら、皆こっち見てる……」=
+//「結構ですわ！　みなわたくしの到来を歓迎しているようですわね！　おーっほっほっほっほ！」=
+//（声、でかいなぁ……まあ、楽しそうでいいけど……）=
+//「それで、公園ではどうやって過ごすおつもりですの？」=
+//「あー……うん、ノープランって言うか、ブラブラ散歩するのも楽しいかなーって」=
+//「なんですって！　このわたくしと、ただブラブラ散歩するだけ……？　本気ですの？」=
+//「あ、あの、ゴメンっ、こういうのもいいかなーって考えたんだけど……やっぱ気に入らないかな？」=
+//「いいえっ、素晴らしいですわ。下手なもてなしよりも、ずっと楽しそうではありませんか」=
+//「そ、そう？　それならよかったよ」=
+//「こうして、自然の中を歩くと、普段のギスギスとしたストレス塗れの生活を忘れることが出来そうですわ」=
+//「ストレス……あるんだ……」=
+//「当たり前ですわ！　わたくしほど繊細な人間ですもの。ストレスを感じないわけありませんわ！　おほほほほ！」=
+//「……あら？　空を御覧なさい。虹が出ていますわ……まあ、綺麗……」=
+//「あ、本当だ」=
+//「ところでどうして虹が出来るのか、ご存知？」=
+//「ああ、水蒸気がレンズになって、光が屈折するんだよね？　で、光の波長ごとで色分けされてしまうとかなんとか……」=
+//「ふふふ、博識な方ですわね。お散歩が楽しくなりそうですわ。その調子で、どんどんわたくしの疑問にお答えなさい！」=
+//「……やれやれ、なんだか疲れそうな予感が……でも、楽しそうにしてくれて嬉しいけどね」」=

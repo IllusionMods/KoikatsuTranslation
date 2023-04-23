@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「…………」=“...”
-「…………先程から、ちらちらわたくしを見ているようですが、いかがなさいまして？」=“...I feel as though you've been taking glances at me, what is the matter?”
-「あ、いや……失礼な言い方だけど、静かにしてるのが珍しいなと思って」=“Ah, no... I mean it sounds rude when I say it like this but, I just thought it was unusual for you to be so quiet.”
-「勉強中は集中するものでしょう？　それにわかっておりますのよ……わたくしの美しさに見とれていたのでしょう？」=“One most concentrate during studies, no? Not to mention, there is no use hiding it from me... you were simply captivated by my sheer beauty, were you not?”
-「え？　あ、いや、そういうわけじゃ……」=“Eh? Ah, no, that's not...”
-「安心なさい。わかっておりましてよ！　おーっほっほっほ！」=“Relax. I understand! Ohohohoh!”
-（……やっぱ、この人はこうじゃないとね）=(...She really can't help herself, can she?)
+「…………」=“......”
+//「…………先程から、ちらちらわたくしを見ているようですが、いかがなさいまして？」=
+//「あ、いや……失礼な言い方だけど、静かにしてるのが珍しいなと思って」=
+//「勉強中は集中するものでしょう？　それにわかっておりますのよ……わたくしの美しさに見とれていたのでしょう？」=
+//「え？　あ、いや、そういうわけじゃ……」=
+//「安心なさい。わかっておりましてよ！　おーっほっほっほ！」=
+//（……やっぱ、この人はこうじゃないとね）=

@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「まあ、もうこんな時間ですわ。少し長居をしすぎたかしら」=“My, it's already so late. I suppose we stayed a bit too long.”
-「話が盛り上がってたもんね」=“Our conversation really got going there.”
-「もう少し、お話したい気分ですけど……でも遅くなるわけにはいきませんわ」=“I would like to keep it going a bit longer... but we cannot stay overly late either.”
-「そうだね、確かに、ここに長居しすぎたかも」=“Yeah, for sure, we might have hogged this table for a bit too long.”
-「では、ここを出ることにいたしましょう。いいお店でしたわ」=“Well then, let us head out now then. This shop was quite nice.”
-「オッケー、じゃ、行こっか」=“Okay, let's go then.”
+//「まあ、もうこんな時間ですわ。少し長居をしすぎたかしら」=
+//「話が盛り上がってたもんね」=
+//「もう少し、お話したい気分ですけど……でも遅くなるわけにはいきませんわ」=
+//「そうだね、確かに、ここに長居しすぎたかも」=
+//「では、ここを出ることにいたしましょう。いいお店でしたわ」=
+//「オッケー、じゃ、行こっか」=

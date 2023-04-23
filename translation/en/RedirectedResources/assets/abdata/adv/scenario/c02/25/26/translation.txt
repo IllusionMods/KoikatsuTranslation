@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「おーっほっほっほ、わたくしに贈り物をするのは殿方の義務ですわ！　でも、ありがたく頂いておきますわね」=“Ohohohoh, it is a gentleman's obligation, to present one such as me with gifts! But, I shall be grateful nonetheless.”
+//「おーっほっほっほ、わたくしに贈り物をするのは殿方の義務ですわ！　でも、ありがたく頂いておきますわね」=

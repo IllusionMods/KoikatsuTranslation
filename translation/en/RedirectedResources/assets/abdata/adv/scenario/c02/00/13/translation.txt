@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「よろしくてよ。しっかりと楽しませてくださいませね？」=“Alright. Please make sure to show me a good time, alright?”
-「うん、紳士の務めだからね」=“Yep, that's my duty as a gentleman.”
-「おっほっほ。その調子ですわ。では楽しみにしておりますわ」=“Ohohoh. And I would expect no less. Well then, I shall be looking forward to it.”
+「よろしくてよ。しっかりと楽しませてくださいませね？」=“Very well. Please make sure to keep me entertained, won't you?”
+「うん、紳士の務めだからね」=“Yes, it's a gentleman's duty.”
+「おっほっほ。その調子ですわ。では楽しみにしておりますわ」=“Ohoho. Exactly. Then I look forward to it.”

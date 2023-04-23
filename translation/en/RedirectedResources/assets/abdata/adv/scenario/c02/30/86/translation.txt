@@ -1,12 +1,12 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「よーし、それじゃあ恋人っぽいことしよう」=“Alright, let's do lovey-dovey things then.”
-「あら、わたくしたち、すでに恋人ではなくって？　それとも、心が離れてしまわれたの？」=“Oh my, are we not already lovey-dovey? Or have our hearts become distant?”
-「えーっと……何を言うんだいベイビー。俺はいつだって、お前のそばにいるよ……俺の居場所、それはお前の心の中さ」=“Eerhm... what are you saying, my baby? I am always, by your side... within your heart is where my home is.”
-「……悪くありませんわ。でも、紳士というより、アメリカ映画のタフなヒーローっぽいセリフですわね」=“...Not bad. But rather than a gentleman, that smacks more of a tough hero from an American film.”
-「あれ？　そうだった？　うーん、とっさに言うのは難しいね……」=“Huh? Really? Nnn, it's hard to come up with this stuff on the spot...”
-「おほほ、自然な振る舞いが出来てこその紳士ですわ……でも、あなたはわたくしの大事な人。それだけは紛れもない真実ですわ」=“Ohohoh, only when such things come to you naturally, will you be a gentleman... but, you are my precious, beloved man. And that's the honest to god truth.”
-「……今のグッと来た。何かの映画の引用？」=“...That really struck me in my heart. Is that from a movie?”
-「もう、紛れもない本心でしたのに……本当に紳士には程遠いお方ですわ」=“Jeez, those were my honest to god feelings... truly not a shred of gentlemanliness in you.”
-「う～～ん、もっと頑張らなきゃ駄目かぁ……よーし、今日も部活、頑張るぞ！」=“Nnnn~, I guess I gotta try harder... alright, I'mma do my best today too!”
+//「よーし、それじゃあ恋人っぽいことしよう」=
+//「あら、わたくしたち、すでに恋人ではなくって？　それとも、心が離れてしまわれたの？」=
+//「えーっと……何を言うんだいベイビー。俺はいつだって、お前のそばにいるよ……俺の居場所、それはお前の心の中さ」=
+//「……悪くありませんわ。でも、紳士というより、アメリカ映画のタフなヒーローっぽいセリフですわね」=
+//「あれ？　そうだった？　うーん、とっさに言うのは難しいね……」=
+//「おほほ、自然な振る舞いが出来てこその紳士ですわ……でも、あなたはわたくしの大事な人。それだけは紛れもない真実ですわ」=
+//「……今のグッと来た。何かの映画の引用？」=
+//「もう、紛れもない本心でしたのに……本当に紳士には程遠いお方ですわ」=
+//「う～～ん、もっと頑張らなきゃ駄目かぁ……よーし、今日も部活、頑張るぞ！」=

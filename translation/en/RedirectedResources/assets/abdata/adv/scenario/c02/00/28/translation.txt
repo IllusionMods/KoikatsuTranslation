@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「ふ～ん、悪くないわね。いただいておきますわ。ではごきげんよう」=“Fuhn~, not bad. I shall accept. Good day to you.”
+「ふ～ん、悪くないわね。いただいておきますわ。ではごきげんよう」=“Hmm, not bad. I shall take it. Good day to you.”

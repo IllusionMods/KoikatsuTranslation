@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「はぁ……本当に、こんなところで始めてしまうとは……まったく、呆れてしまいますわ」=“Haah... to think you'd really just go on with it, in this place... truly, I am both amazed and fed up.”
-「は、はは……ごめんね。なんか、その……どうしてもムラムラしちゃって……」=“H-Hahah... sorry. I just, you know... couldn't help my horniness...”
-「……まあ、これもわたくしの魅力が素晴らしすぎた、ということですわね。罪な女ですわ……おほほほほほ」=“...Well, I suppose my charm simply overpowered your senses there. I am a sinful woman... ohohohohohoh--”
-「う、うん……本当に、そうだよね」=“Y-Yeah... that's exactly it, believe me.”
-（そういうことにしておこう……）=(Let's just go with that, yeah...)
+//「はぁ……本当に、こんなところで始めてしまうとは……まったく、呆れてしまいますわ」=
+//「は、はは……ごめんね。なんか、その……どうしてもムラムラしちゃって……」=
+//「……まあ、これもわたくしの魅力が素晴らしすぎた、ということですわね。罪な女ですわ……おほほほほほ」=
+//「う、うん……本当に、そうだよね」=
+//（そういうことにしておこう……）=

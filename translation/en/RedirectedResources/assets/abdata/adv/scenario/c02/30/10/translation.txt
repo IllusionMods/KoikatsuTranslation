@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「ふふふ、わかってますわ……わたくしの力が必要なのでしょう。当然ですわ！」=“Fufufuh, I understand... You need my aid, do you not? Of course you do!”
-「え？　入ってくれるの？　そういうの嫌いそうなイメージがあったら意外だよ」=“Eh? You'll join? I'm surprised, I thought you'd definitely turn your nose up at it.”
-「本来なら、鼻で笑ったことでしょう。でも他ならぬあなたのお願いなんですもの。仕方ありませんわ！」=“Any other time, I would do much more than just that, even laugh at the thought perhaps. However, it is a request from you, rather than anybody else. So it simply cannot be helped!”
-「……一応聞くけど、活動内容知ってる？」=“...I'm gonna ask just in case but, do you know what the club is about?”
-「存じませんが、このわたくしが入部するのです。半年で全国を狙えるレベルに引き上げてみせますわ！」=“I do not but, I shall join regardless. I shall raise it to a level enough to take on the whole country in but six months with my own hands.”
-「いや……まあ、その……う、うん……楽しみにしてるよ」=“No... well, I mean... o-okay... I'm looking forward to that.”
-「おーっほっほっほ！！　おまかせなさい！」=“Ohohohoh! Leave it to me!”
+//「ふふふ、わかってますわ……わたくしの力が必要なのでしょう。当然ですわ！」=
+//「え？　入ってくれるの？　そういうの嫌いそうなイメージがあったら意外だよ」=
+//「本来なら、鼻で笑ったことでしょう。でも他ならぬあなたのお願いなんですもの。仕方ありませんわ！」=
+//「……一応聞くけど、活動内容知ってる？」=
+//「存じませんが、このわたくしが入部するのです。半年で全国を狙えるレベルに引き上げてみせますわ！」=
+//「いや……まあ、その……う、うん……楽しみにしてるよ」=
+//「おーっほっほっほ！！　おまかせなさい！」=

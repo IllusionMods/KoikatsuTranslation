@@ -1,21 +1,21 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「ぬおおお……急に混んで来た……」=“Nuuwooooh... suddenly it's all packed...”
-「ふぅ……くっつき過ぎではありませんか？　それに……くんくん、少し、汗臭いですわ」=“Fuuh... are you not snuggled up a bit too close? Not to mention... *sniff sniff*, you reek of sweat a bit.”
-「仕方ないじゃん。汗かいたんだし……でも、そんなに臭う？　くんくん……いい匂いだけど」=“I can't help that, I was sweating... but, is it that bad? *sniff sniff*... it smells nice.”
-「それはわたくしの香りですわ。あなた、わかっててやってるでしょう？」=“That's my scent. You're doing that knowing full well it is, aren't you?”
-「お、おおおお！？　ごめん……今くっついてるのは、わざとじゃないよ？　なんか、マジで混み合ってて……」=“O-Ooooh!? Sorry... I'm not doing this on purpose, seriously, okay? It's seriously getting packed...”
-（あ、しまっ……股間が反応してしまうっ）=(Ah, dam--... my crotch is going to react--)
-CHOICE:『とりあえず堪えてみる』=Try enduring for the moment.
-CHOICE:『鉄の意志で堪える』=Steel your resolve and endure it.
-（さ、さすがにここで勃たせるのは……だけど、[H名]さんの身体柔らかくて、もう……）=(P-Popping a chub here really would be... but, her body's just so soft, I can't...)
-「でも、ここを、こんなにさせてるのは、わざとなのでしょう？」=“But, you are getting like this down here on purpose, are you not?”
-「あ、ああ……マズいよ……ここ、電車だよ？」=“A-Aaah... don't... we're on a train, you know?”
-「ええ、電車の中ですわ……射精なんかしたら、一体どういうことになるのかしら？　おほほほ……興味ありますわ」=“Yes, that we are... if you ejaculated here, just what would it turn into, I wonder? Ohohohoh... I'm quite interested.”
-「俺の下着が汚れるだけだよぉ……」=“My underwear's just going to get dirty...”
-「でも、小さくなるのではなくて？　このまま硬くて大きくて、ビンビンのままでは不便でしょう。楽にして差し上げますわ」=“But, won't it get smaller as well? Surely staying hard and erect and throbbing like this is inconvenient for you? I shall make it all better.”
-「え？　え？　嘘、マジで？　今、こ、ここで…………！？」=“Eh? Eh? No way, seriously? H-Here, right now...?!”
-（ダメだ、ダメ！　ここで欲望に負けるほど意思の弱い男じゃないはずだろ！）=(I can't, I can't! I'm not such a weak willed idiot who'd lose to his libido here of all places!)
-（……いかん、これまでの自分を振り返るとあまり説得力がない）=(...Damn, it's not very convincing when I look back to all I've done so far.)
-（で、でも……さすがに電車の中はマズいっ。別のことを考えて煩悩を沈めよう……）=(B-But... getting hard on a train really would be the worst--. Gotta distract myself with other thoughts...)
+//「ぬおおお……急に混んで来た……」=
+//「ふぅ……くっつき過ぎではありませんか？　それに……くんくん、少し、汗臭いですわ」=
+//「仕方ないじゃん。汗かいたんだし……でも、そんなに臭う？　くんくん……いい匂いだけど」=
+//「それはわたくしの香りですわ。あなた、わかっててやってるでしょう？」=
+//「お、おおおお！？　ごめん……今くっついてるのは、わざとじゃないよ？　なんか、マジで混み合ってて……」=
+//（あ、しまっ……股間が反応してしまうっ）=
+//CHOICE:『とりあえず堪えてみる』=
+//CHOICE:『鉄の意志で堪える』=
+//（さ、さすがにここで勃たせるのは……だけど、[H名]さんの身体柔らかくて、もう……）=
+//「でも、ここを、こんなにさせてるのは、わざとなのでしょう？」=
+//「あ、ああ……マズいよ……ここ、電車だよ？」=
+//「ええ、電車の中ですわ……射精なんかしたら、一体どういうことになるのかしら？　おほほほ……興味ありますわ」=
+//「俺の下着が汚れるだけだよぉ……」=
+//「でも、小さくなるのではなくて？　このまま硬くて大きくて、ビンビンのままでは不便でしょう。楽にして差し上げますわ」=
+//「え？　え？　嘘、マジで？　今、こ、ここで…………！？」=
+//（ダメだ、ダメ！　ここで欲望に負けるほど意思の弱い男じゃないはずだろ！）=
+//（……いかん、これまでの自分を振り返るとあまり説得力がない）=
+//（で、でも……さすがに電車の中はマズいっ。別のことを考えて煩悩を沈めよう……）=

@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「お気に入りの場所で、お気に入りの相手と食事……わたくしに相応しい、最高のランチタイムですわ！！」=“A meal, in a place I adore, with the man I adore... truly a splendid lunch time, worthy of me!!”
-「うん、他に人気もないし……遠慮なく高笑いしていいよ」=“Yeah, there's nobody else here either... feel free to laugh as much as you want.”
-「おーっほっほっほ、言われるまでもありませんわ！　もぐもぐ……おーっほっほっほ……もぐもぐ……」=“Ohohohoh, you needn't even tell me to! *Chew chew*... ohohohoh... *chew chew*...”
-（……ちょっと忙しないけど、上品な所作で咀嚼と高笑いを交互に行えるのって本当にすごいなぁ……）」=(... It looks a bit hectic but, it's amazing how she can just swap between laughing like that and chewing so elegantly like that...)
+//「お気に入りの場所で、お気に入りの相手と食事……わたくしに相応しい、最高のランチタイムですわ！！」=
+//「うん、他に人気もないし……遠慮なく高笑いしていいよ」=
+//「おーっほっほっほ、言われるまでもありませんわ！　もぐもぐ……おーっほっほっほ……もぐもぐ……」=
+//（……ちょっと忙しないけど、上品な所作で咀嚼と高笑いを交互に行えるのって本当にすごいなぁ……）」=

@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「やあ、[H姓]さん。ごきげんよう」=“Hi, [H姓]-san. Good day to you.”
-「ええ、ごきげんよう。何かご用事かしら？」=“Yes, to you as well. Is there something you require?”
-「あー、いや、まあ、ちょっと挨拶がてら世間話でもって……」=“Aah, no, well, thought I'd come say hi, maybe have a chat...”
-「いい心がけね。では殿方らしく、エレガントな話題を提供なさい」=“A nice attitude to have. Well then, do propose an elegant topic for us to discuss, as a gentleman must.”
-「エ、エレガントな話題、ねぇ……」=“A-An elegant topic, huh...”
+//「やあ、[H姓]さん。ごきげんよう」=
+//「ええ、ごきげんよう。何かご用事かしら？」=
+//「あー、いや、まあ、ちょっと挨拶がてら世間話でもって……」=
+//「いい心がけね。では殿方らしく、エレガントな話題を提供なさい」=
+//「エ、エレガントな話題、ねぇ……」=

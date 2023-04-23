@@ -1,24 +1,24 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「ほら、見て。マスコットだよ」=“Hey, look. It's the park mascot.”
-「まあ！　意外と大きいですのね！　結構不気味ですわ……」=“My! It's surprisingly quite big, isn't it! Looks quite uncanny though...”
-「そんなこと言っちゃかわいそうだよ。ほら、凹んでるリアクションしてくれてるじゃん」=“Don't say that, you're gonna make it sad. Look, now you've made it depressed.”
-「おほほほほほ……冗談ですわ。中の人も大変ですものね。お察しいたしますわ！」=“Ohohohohohoh... I jest. I imagine it's quite hard for the staff inside as well. I do sympathize!”
-「あ、あの……中の人、ごめんなさい。彼女、悪気はないんです……」=“U-Uhm... mister or miss, I'm sorry. She doesn't mean anything bad by it...”
-「おほほ、冗談ですってば。よろしければ、写真撮らせていただけまして？」=“Ohohoh, really, I am only jesting. If it's alright, could I get a picture?”
-「あ、いいじゃん。俺、カメラマンになるよ……ほら、並んで～…………はいチーズ」=“Ah, nice idea. I'll be the cameraman then... c'mon, line up~... alright, cheese.”
-「おほほほ、いい写真ですわ！　わたくしの美しさが際立っておりますわね！」=“Ohohohoh, what a nice picture! My beauty truly shines through!”
-「うん、御伽の国のお姫様って感じだね」=“Yeah, you almost look like a princess from fairyland.”
-「あら、風船をくださるの？　感謝いたしますわ。マスコットさん」=“Oh my, a balloon for me? My thanks, Mr Mascot.”
-「そういえば、風船持ってる人、多いね。このマスコットが配ってるからだったんだね」=“Now that you say it, there's a ton of people holding balloons. So that's why, huh?”
-「まぁ、赤いハート型の風船ですわ。おほほほ、これは選んで渡してくれたのかしら？」=“My, it's a red heart-shaped balloon. Ohohohoh, did you pick this one out specifically?”
-「うん、きっとそうだよ。俺たちがお似合いだって言ってるんじゃないかな」=“Yeah, I'm sure they did. I imagine it's their way of saying that we go together pretty good.”
-「オホホホホっ！　そんなの、当然ですわ！　このわたくしが横にいれば、どんな男性でもお似合いに見えてしまいますわ！」=“Ohohohohoh--! That's obvious! With me beside them, just about any man would seem a fitting pairing!”
-「う、うん……すごい自信だね。ははは……」=“Y-Yeah... you're sure confident. Hahahah...”
-（マスコットもドン引きしてる……）=(The mascot's kinda recoiling too...)
-「おほほほ、さあ、他にも何枚か写真を撮りますわよ！」=“Ohohohoh, now then, you must take more pictures of me!”
-「え？　まだ撮るの？」=“Eh? More?”
-「当然ですわ！　このわたくしの美貌を、たった一枚の写真で伝えられるものではありませんわ！」=“Of course! My beauty is not something a single picture can express in its entirety!”
-「さあ、マスコットさん！　次はもっと違う構図を考えますわよ？　よろしくて？」=“Come now, Mr Mascot! You must think of a different composition next, understand?”
-（変なのに捕まったなーって思ってるんだろうなぁ……マスコットの人……）=(I bet they're wondering what they just got themselves in... I feel bad...)
+//「ほら、見て。マスコットだよ」=
+//「まあ！　意外と大きいですのね！　結構不気味ですわ……」=
+//「そんなこと言っちゃかわいそうだよ。ほら、凹んでるリアクションしてくれてるじゃん」=
+//「おほほほほほ……冗談ですわ。中の人も大変ですものね。お察しいたしますわ！」=
+//「あ、あの……中の人、ごめんなさい。彼女、悪気はないんです……」=
+//「おほほ、冗談ですってば。よろしければ、写真撮らせていただけまして？」=
+//「あ、いいじゃん。俺、カメラマンになるよ……ほら、並んで～…………はいチーズ」=
+//「おほほほ、いい写真ですわ！　わたくしの美しさが際立っておりますわね！」=
+//「うん、御伽の国のお姫様って感じだね」=
+//「あら、風船をくださるの？　感謝いたしますわ。マスコットさん」=
+//「そういえば、風船持ってる人、多いね。このマスコットが配ってるからだったんだね」=
+//「まぁ、赤いハート型の風船ですわ。おほほほ、これは選んで渡してくれたのかしら？」=
+//「うん、きっとそうだよ。俺たちがお似合いだって言ってるんじゃないかな」=
+//「オホホホホっ！　そんなの、当然ですわ！　このわたくしが横にいれば、どんな男性でもお似合いに見えてしまいますわ！」=
+//「う、うん……すごい自信だね。ははは……」=
+//（マスコットもドン引きしてる……）=
+//「おほほほ、さあ、他にも何枚か写真を撮りますわよ！」=
+//「え？　まだ撮るの？」=
+//「当然ですわ！　このわたくしの美貌を、たった一枚の写真で伝えられるものではありませんわ！」=
+//「さあ、マスコットさん！　次はもっと違う構図を考えますわよ？　よろしくて？」=
+//（変なのに捕まったなーって思ってるんだろうなぁ……マスコットの人……）=

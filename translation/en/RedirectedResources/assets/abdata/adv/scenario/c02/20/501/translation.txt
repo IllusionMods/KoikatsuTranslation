@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「……んー、約束の時間なのに、来ないな。って、あ……来た来た………………って、随分ゆっくり歩いてる……遅刻してるのに」=“...Nnn, it's already the time we said we'd meet up on, but she's not here. Wait, that's... that's her alright... and she's sure walking real leisurely... even though she's late.”
-「ごきげんよう、お待たせてしてしまいまして？」=“Good day to you. Did I make you wait?”
-「あ、うん……少しね。けど、随分ゆっくり歩いて来ていたね」=“Ah, yeah... a little bit. But, you were walking pretty darn leisurely there, weren't you?”
-「ふふ、男性は待たせて当然ですもの。それに、このわたくしが遅刻ごときで慌ててしまうとお思い？　さ、参りましょう」=“Fufuh, it is only natural for a man to have to wait. Besides, do you think one such as me would concern herself with concepts such as lateness? Now then, let us go.”
-「う、うん、エスコートさせてもらうよ」=“O-Okay. I'll escort you.”
+//「……んー、約束の時間なのに、来ないな。って、あ……来た来た………………って、随分ゆっくり歩いてる……遅刻してるのに」=
+//「ごきげんよう、お待たせてしてしまいまして？」=
+//「あ、うん……少しね。けど、随分ゆっくり歩いて来ていたね」=
+//「ふふ、男性は待たせて当然ですもの。それに、このわたくしが遅刻ごときで慌ててしまうとお思い？　さ、参りましょう」=
+//「う、うん、エスコートさせてもらうよ」=
