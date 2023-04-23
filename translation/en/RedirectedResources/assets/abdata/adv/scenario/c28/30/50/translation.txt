@@ -1,5 +1,5 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「お主とこうしていられるだけで、わしの心はすごく満たされるのじゃ」=
-//「お主の手も足も体も、全てがわしにとって必要で、安らぎを与えてくれるのじゃ」=
+「お主とこうしていられるだけで、わしの心はすごく満たされるのじゃ」=“Just being able to be next to you like this, fills my heart up with warmth.”
+「お主の手も足も体も、全てがわしにとって必要で、安らぎを与えてくれるのじゃ」=“Your hands, your legs, your entire body, it is all necessary to me. It all provides me so much comfort.”

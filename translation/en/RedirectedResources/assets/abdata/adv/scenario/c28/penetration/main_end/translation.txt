@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「最初は恥かしかったがのう……いつの間にか夢中になってしまったのじゃ」=
+「最初は恥かしかったがのう……いつの間にか夢中になってしまったのじゃ」=“I was so embarrassed too, at first... yet somehow I ended up losing myself in it before I realized.”

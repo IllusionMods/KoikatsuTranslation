@@ -1,17 +1,17 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「待っておったぞ。今日はどこへ連れていってくれるのじゃ？」=
-//「今日はゆっくりできるところにでも行こうか。」=
-//「お主とこうしていられる時間が、わしにはすごく大切な時間なのじゃ……」=
-//「俺も[H]と一緒にいられて幸せだよ」=
-//「……す、好きなのじゃ。お主のこと。これからも一緒にいてほしい、のじゃ」=
-//「俺も好きだよ。これからも一緒にいるに決まってるじゃないか」=
-//「……そうか。そうじゃな！　わし達はらぶらぶなのじゃな」=
-//「今日もありがとうなのじゃ。お主といられて楽しかったのじゃ」=
-//CHOICE:「もう少し一緒にいない？」=
-//CHOICE:「俺も楽しかったよ、それじゃあね」=
-//「もう少し一緒にいたいな」=
-//「わしも、……そう思っておったところじゃ。奇遇じゃな」=
-//「俺も楽しかったよ、それじゃあね」=
-//「今度はもっともっと楽しくなるのじゃ。それでは、さらばじゃ」=
+「待っておったぞ。今日はどこへ連れていってくれるのじゃ？」=“I was waiting for this. Where shall you be taking me today?”
+「今日はゆっくりできるところにでも行こうか。」=“Let's go somewhere we can relax and take our time with each other.”
+「お主とこうしていられる時間が、わしにはすごく大切な時間なのじゃ……」=“To me, being able to spend such time with you, is very precious...”
+「俺も[H]と一緒にいられて幸せだよ」=“Being with you makes me happy too, [H].”
+「……す、好きなのじゃ。お主のこと。これからも一緒にいてほしい、のじゃ」=“...I-I am in love. With you. I want you to stay by me, in the future as well.”
+「俺も好きだよ。これからも一緒にいるに決まってるじゃないか」=“I love you too. Of course I'm gonna stay by your side, that's obvious.”
+「……そうか。そうじゃな！　わし達はらぶらぶなのじゃな」=“...I see. Indeed, it is obvious! Afterall, we are in love.”
+「今日もありがとうなのじゃ。お主といられて楽しかったのじゃ」=“Thanks for today as well. It was fun, to spend time with you.”
+CHOICE:「もう少し一緒にいない？」=Won't you be with me a bit longer?
+CHOICE:「俺も楽しかったよ、それじゃあね」=I had fun too, see you.
+「もう少し一緒にいたいな」=“I wanna be together a bit longer.”
+「わしも、……そう思っておったところじゃ。奇遇じゃな」=“I was also... thinking the same thing. What a coincidence.”
+「俺も楽しかったよ、それじゃあね」=“I had fun too, see you later.”
+「今度はもっともっと楽しくなるのじゃ。それでは、さらばじゃ」=“Next time will be even more fun. Be well till then.”

@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「[H姓]さん、ちょっといいかな。少し話したいと思って」=
-//「ん？　かまわんが急に改まってどうしたのじゃ？」=
-//「まだちゃんと話したことなかったなって思ってさ」=
-//「ほほう。それでわしと何を話したいのじゃ？　将棋か？　演歌か？」=
-//「えっと……とりあえず……」=
+「[H姓]さん、ちょっといいかな。少し話したいと思って」=“[H姓]-san, do you have some time? I want to chat with a bit.”
+「ん？　かまわんが急に改まってどうしたのじゃ？」=“Hm? I mind not, but what is with all the grandstanding?”
+「まだちゃんと話したことなかったなって思ってさ」=“I mean, we still haven't gotten to know each other all that well, so.”
+「ほほう。それでわしと何を話したいのじゃ？　将棋か？　演歌か？」=“Hohoh. So then, need to pick my brain for something? Is it Shogi? Or Enka?”
+「えっと……とりあえず……」=“Erhm... well, for the time being...”

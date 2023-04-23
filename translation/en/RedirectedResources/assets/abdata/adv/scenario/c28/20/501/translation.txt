@@ -1,12 +1,12 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//（あれ？　先に[H名]が来てる。結構早く来たのに……）=
-//「ごめん、待たせちゃったかな？　随分早いんだね」=
-//「こんなの当り前じゃ。いつでも早め早めの行動を心がけておるからのう」=
-//「なんか……」=
-//「どうしたのじゃ？」=
-//「学園の外で会うと、新鮮な感じがする。すっごくカワイイと思って」=
-//「なっ……何を言っておる！　そんなことより、早く行くのじゃ！」=
-//「はは、そうだね」=
-//（さてと、今日はどこに行こうかな）=
+（あれ？　先に[H名]が来てる。結構早く来たのに……）=(Huh? She's already here. I tried to come pretty early too...)
+「ごめん、待たせちゃったかな？　随分早いんだね」=“Sorry, did I make you wait? You got here pretty early.”
+「こんなの当り前じゃ。いつでも早め早めの行動を心がけておるからのう」=“Of course. My inner creed is that the early worm truly does get the worm.”
+「なんか……」=“This is...”
+「どうしたのじゃ？」=“What is the matter?”
+「学園の外で会うと、新鮮な感じがする。すっごくカワイイと思って」=“Seeing you outside the school, is kinda a fresh experience. You're just so adorable.”
+「なっ……何を言っておる！　そんなことより、早く行くのじゃ！」=“Wha--... what are you saying! Quit that idle yapping, let us go!”
+「はは、そうだね」=“Haha, yeah.”
+（さてと、今日はどこに行こうかな）=(Now then, where should we go today?)

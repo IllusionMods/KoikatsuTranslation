@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「あ、ねえ、ここなんだけどわかる？」=
-//「……ん？　あ、それはここの問題の応用じゃな」=
-//「あー、なるほどね。ありがと」=
-//「……ん？　なんかニヤニヤしてるけどどうした？」=
-//「いや、お主と勉強するとはかどるのう、と思ってな」=
-//「２人で勉強するのもいいよね」=
+「あ、ねえ、ここなんだけどわかる？」=“Ah, hey, do you get this part?”
+「……ん？　あ、それはここの問題の応用じゃな」=“...Hm? Ah, this one is just an application of that.”
+「あー、なるほどね。ありがと」=“Ah, I see, yep. Thanks.”
+「……ん？　なんかニヤニヤしてるけどどうした？」=“...Hm? You're grinning pretty wide, what's up?”
+「いや、お主と勉強するとはかどるのう、と思ってな」=“No, I just thought that studying with you makes it go quite well, and whatnot.”
+「２人で勉強するのもいいよね」=“Studying together is nice, isn't it?”

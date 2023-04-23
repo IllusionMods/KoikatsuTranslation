@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「のう、お主とわしは恋人じゃよな？　付き合うとはこういうものなのか？」=
-//「どうしたの、改まって……何かあったの？」=
-//「……もう前からなのじゃ。お主が好きなのかわからぬ。話していても楽しくないのじゃ」=
-//「待ってって。いきなりそんな話されても……」=
-//「わしのことはもう放っておいてくれんか？　お主とも話とうない。さらばなのじゃ」=
+「のう、お主とわしは恋人じゃよな？　付き合うとはこういうものなのか？」=“Say, we are lovers, are we not? Is this what love is supposed to be?”
+「どうしたの、改まって……何かあったの？」=“You're sure being abrupt... did something happen?”
+「……もう前からなのじゃ。お主が好きなのかわからぬ。話していても楽しくないのじゃ」=“...Indeed, has been happening for quite a while. I cannot tell whether I love you or not. No matter how much we chat, I do not find it enjoyable.”
+「待ってって。いきなりそんな話されても……」=“Alright, just hang on a sec. Just where is this coming from?...”
+「わしのことはもう放っておいてくれんか？　お主とも話とうない。さらばなのじゃ」=“Won't you simply leave me be? I wish not to talk with you anymore. Fare thee well.”

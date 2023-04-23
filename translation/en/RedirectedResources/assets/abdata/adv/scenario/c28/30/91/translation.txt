@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「[Pあだ名]、おはようなのじゃ！」=
-//「おはよう、[Hあだ名]」=
-//「普通の挨拶より、妙に照れくさいのぅ」=
+「[Pあだ名]、おはようなのじゃ！」=“[Pあだ名], good morning!”
+「おはよう、[Hあだ名]」=“Morning, [Hあだ名].”
+「普通の挨拶より、妙に照れくさいのぅ」=“Unlike a regular greeting, this one makes one blush quite a bit indeed~”

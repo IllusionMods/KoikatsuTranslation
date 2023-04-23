@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「屋上に来ると青春じゃと思うのは、わしだけなのかのう？」=
-//「他じゃ屋上に行けないところもあるらしいね」=
-//「屋上に恋人が２人っきりって、けっこういい雰囲気になるよね」=
-//「……な、何を突然。……でも、話してるだけでもいいムードじゃな……」=
-//「……のう、急に黙ったままは緊張するのじゃ。ほかに誰もいないし……」=
-//「……確かに緊張するね。こういう気持ちを知るのもコイカツなのかな」=
+「屋上に来ると青春じゃと思うのは、わしだけなのかのう？」=“Surely I cannot be the only one between us who always feels the breeze of youth at the roof?”
+「他じゃ屋上に行けないところもあるらしいね」=“Yeah, especially since you can't really access the roof in most other places, can you?”
+「屋上に恋人が２人っきりって、けっこういい雰囲気になるよね」=“Being alone as a couple on the rooftop, would make for quite the nice atmosphere, wouldn't it?”
+「……な、何を突然。……でも、話してるだけでもいいムードじゃな……」=“...W-What are you saying, so abruptly? ...However, just chatting like this is making for quite the mood as well...”
+「……のう、急に黙ったままは緊張するのじゃ。ほかに誰もいないし……」=“...Hey, it makes me anxious when you get quiet all of a sudden like that. There is nobody else here either...”
+「……確かに緊張するね。こういう気持ちを知るのもコイカツなのかな」=“...For sure, it does. I wonder if learning about such things is part of what the club should be about too?”

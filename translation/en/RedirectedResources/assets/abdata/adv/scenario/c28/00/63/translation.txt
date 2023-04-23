@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「……おじゃましますなのじゃ。……なかなか片付いておるな……」=
-//「……この状況は……緊張してしまうのじゃ。こんな気持ちなのは、わしだけか？」=
-//「俺も同じだよ。[H]のことが好きだからドキドキして……エッチしたいって思うんだ」=
-//「そんなに素直に言うものなのか……嫌ではない。わしもしたいのじゃ……」=
-//「……そ、そうじゃな、付き合っておるのじゃし。……家でするのは、初めて……じゃな」=
+「……おじゃましますなのじゃ。……なかなか片付いておるな……」=“...Do excuse me. ...Quite the tidy place...”
+「……この状況は……緊張してしまうのじゃ。こんな気持ちなのは、わしだけか？」=“...This situation... makes me quite nervous. Am I the only one, who feels this way?”
+「俺も同じだよ。[H]のことが好きだからドキドキして……エッチしたいって思うんだ」=“I feel it too. I love you so much my heart's pounding... I can't help but want to have sex.”
+「そんなに素直に言うものなのか……嫌ではない。わしもしたいのじゃ……」=“Is that something you should be so direct about?... Not that I mind it. I want to do it as well...”
+「……そ、そうじゃな、付き合っておるのじゃし。……家でするのは、初めて……じゃな」=“...R-Right, we are dating as well, afterall. ...It will be our first time, doing it... at home.”

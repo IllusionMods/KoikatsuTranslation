@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「何じゃと？　まさか……本気でそんなことを言っておるのか？　わしが何かしたのか？」=
-//「何かしたとかないんだ。俺の問題で……」=
-//「なぜじゃ？　なぜ、わし達が別れなければならんのだ？　わしはお主のことが……」=
-//「……ごめん。それしか言えないよ……」=
-//「……わしのことが嫌いになった……んじゃな。……じゃが、わしはまだ……」=
+「何じゃと？　まさか……本気でそんなことを言っておるのか？　わしが何かしたのか？」=“What did you say? Are you... being serious right now? Did I do something?”
+「何かしたとかないんだ。俺の問題で……」=“It's not you, it's me...”
+「なぜじゃ？　なぜ、わし達が別れなければならんのだ？　わしはお主のことが……」=“Why? Why must we part? I truly am in...”
+「……ごめん。それしか言えないよ……」=“...Sorry. There really is nothing else I can tell you...”
+「……わしのことが嫌いになった……んじゃな。……じゃが、わしはまだ……」=“...You have simply grown to hate me... haven't you? ...However, I still love...”

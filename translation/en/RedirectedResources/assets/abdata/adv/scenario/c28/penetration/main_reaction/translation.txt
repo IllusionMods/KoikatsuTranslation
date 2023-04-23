@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「はわっ！？　お主、いつからそこにっ！！」=
+「はわっ！？　お主、いつからそこにっ！！」=“Hawah--?! Since when have you--!!”

@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「結構夜風があるし、風邪ひかないように早く帰ったほうがよさそうだね」=
-//「まっ、待つのじゃ」=
-//「どうしたの？」=
-//「そんなすぐには……脚に力が入らぬ。ゆっくり歩いて欲しいのじゃ」=
-//「わっ、大丈夫！？」=
-//「ほら、俺が支えるから。腕につかまって」=
-//「……ありがとうなのじゃ」=
+「結構夜風があるし、風邪ひかないように早く帰ったほうがよさそうだね」=“It's pretty windy out today, so I think we'd best head home asap.”
+「まっ、待つのじゃ」=“W-Wait.”
+「どうしたの？」=“What's wrong?”
+「そんなすぐには……脚に力が入らぬ。ゆっくり歩いて欲しいのじゃ」=“I cannot... send strength to my feet so quickly. I would like for you to walk a bit slowly.”
+「わっ、大丈夫！？」=“Wah--, you okay?!”
+「ほら、俺が支えるから。腕につかまって」=“C'mon, I'll support you. Grab my arm and lean on me.”
+「……ありがとうなのじゃ」=“...Thank you.”

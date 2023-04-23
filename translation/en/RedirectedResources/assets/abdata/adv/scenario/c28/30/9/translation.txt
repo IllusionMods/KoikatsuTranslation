@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「デ、デートじゃとっ！？　わしとお主の二人きりでかっ！？」=
-//「うん。デートだからふたりきりだよ。どうかな？」=
-//「……まあ、お主が行きたいというのなら、行ってやらんでもないのじゃ」=
+「デ、デートじゃとっ！？　わしとお主の二人きりでかっ！？」=“A-A date--!? You and me, by ourselves?!”
+「うん。デートだからふたりきりだよ。どうかな？」=“Yep. Can't have a date wtihout being by ourselves. How about it?”
+「……まあ、お主が行きたいというのなら、行ってやらんでもないのじゃ」=“...Well, if you want to, I suppose I do not mind going along either.”

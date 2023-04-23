@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「な、何をやっておるのじゃ！？　ここはお主がいていい場所ではないのじゃ！」=
+「な、何をやっておるのじゃ！？　ここはお主がいていい場所ではないのじゃ！」=“W-What are you doing?! You cannot be in here!”

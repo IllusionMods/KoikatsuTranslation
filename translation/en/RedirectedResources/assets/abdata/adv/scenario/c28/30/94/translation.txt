@@ -5,6 +5,6 @@
 （ん、んん……何だか下半身に違和感が……？）=(Nn, nnnn... there's this weird feeling in my lower half...?)
 「…………」=“......”
 「って……え？　え？」=“...Eh? Eh?”
-//「おっ、目が覚めたか。おはようなのじゃ」=
-//「えっ、あ……おはよう？」=
-//「うーむ、まだ夢心地のようじゃな。わしがしっかり目覚めさせるのじゃ」=
+「おっ、目が覚めたか。おはようなのじゃ」=“Oh--, woken up, have you? Good morning.”
+「えっ、あ……おはよう？」=“Eh--, ah... morning...?”
+「うーむ、まだ夢心地のようじゃな。わしがしっかり目覚めさせるのじゃ」=“Uumu, you still seem to be in a trance. I shall wake you right up.”

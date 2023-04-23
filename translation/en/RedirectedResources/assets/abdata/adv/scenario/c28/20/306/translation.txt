@@ -1,23 +1,23 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「すっかり歌い尽くしたのう」=
-//「ははっ、そうだね。これ以上歌って喉やられたら大変だし、休憩しようか」=
-//「そうじゃのう……」=
-//「どうしたの？」=
-//「歌ってばかりであまりお主の側にいれなかったからのう……」=
-//「……ちょっとくっついておってもよいか？」=
-//「[H名]……」=
-//CHOICE:『エッチしたくなっちゃう』=
-//CHOICE:『俺もそう思ってた』=
-//「そんなにくっついたら、俺がどういう気持ちになるかわからない？」=
-//「へ？」=
-//「エッチ……したくなるってこと」=
-//「……わしは、そんなつもりじゃ…………」=
-//「本当に……そんなつもりじゃなかったの？」=
-//「うぅ…………少しだけ……シテもいいかなと思っておった」=
-//「じゃあ、しちゃうね……」=
-//「俺もこうしたいと思ってた」=
-//「カラオケも楽しいが、こうしてお主とくっついてる時間も楽しいのう」=
-//「もう少しこうしてたいけど、延長時間もそろそろ終わりだね」=
-//「また二人で来ようね」=
+「すっかり歌い尽くしたのう」=“Truly, I have sung my heart out.”
+「ははっ、そうだね。これ以上歌って喉やられたら大変だし、休憩しようか」=“Haha--, yeah. It wouldn't be good to overdo it and kill our throats, so let's take a break.”
+「そうじゃのう……」=“Indeed...”
+「どうしたの？」=“What's wrong?”
+「歌ってばかりであまりお主の側にいれなかったからのう……」=“We have been singing this whole time, so I have not been able to spend much time by your side...”
+「……ちょっとくっついておってもよいか？」=“...Do you mind if I snuggle up to you a slight bit?”
+「[H名]……」=“[H名]...”
+CHOICE:『エッチしたくなっちゃう』=I'm gonna want to have sex.
+CHOICE:『俺もそう思ってた』=I wanted to do this too.
+「そんなにくっついたら、俺がどういう気持ちになるかわからない？」=“Do you not get what's gonna happen to me, if you cling to me so much?”
+「へ？」=“Heh?”
+「エッチ……したくなるってこと」=“I'm gonna... want to have sex.”
+「……わしは、そんなつもりじゃ…………」=“...That was, not my intent...”
+「本当に……そんなつもりじゃなかったの？」=“Are you... sure about that?”
+「うぅ…………少しだけ……シテもいいかなと思っておった」=“Uu... it was... a slight bit.”
+「じゃあ、しちゃうね……」=“Then, I'm gonna go for it, okay?...”
+「俺もこうしたいと思ってた」=“I wanted to do this too.”
+「カラオケも楽しいが、こうしてお主とくっついてる時間も楽しいのう」=“Karaoke is enjoyable, but spending time in this way is quite enjoyable as well.”
+「もう少しこうしてたいけど、延長時間もそろそろ終わりだね」=“I wanna stay like this a bit more, but our time's almost up too.”
+「また二人で来ようね」=“Let's come here again, okay?”

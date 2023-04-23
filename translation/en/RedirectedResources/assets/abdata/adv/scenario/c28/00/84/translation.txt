@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「この珍妙な部活は基本的にどんなことをするのじゃ？」=
-//「まあ、普通の恋人たちがすることを、実践していくってところかな」=
-//「恋人たち、のう……それならば、お主がわしと、手をつなぐ……とかかのう？」=
-//「そうだね、まずは手をつないでみようか？」=
-//「うむ……。しかし、なんじゃ……こう改まってすると、必要以上に照れるのう……」=
+「この珍妙な部活は基本的にどんなことをするのじゃ？」=“So exactly what sort of activities does this odd club have?”
+「まあ、普通の恋人たちがすることを、実践していくってところかな」=“Well, in short, whatever sort of stuff couples actually get up to, we'll attempt to them as well, I guess?”
+「恋人たち、のう……それならば、お主がわしと、手をつなぐ……とかかのう？」=“Couples, huh... in that case, will you be, holding my hand... and whatnot?”
+「そうだね、まずは手をつないでみようか？」=“Yeah. Want to start with just that then?”
+「うむ……。しかし、なんじゃ……こう改まってすると、必要以上に照れるのう……」=“Umu... However, how do I say this... doing it like this, makes me blush more than necessary...”

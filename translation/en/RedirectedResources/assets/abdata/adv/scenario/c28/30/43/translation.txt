@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「のじゃ！？　お、お主だったか。そんなにわしが見たいのか？」=
+「のじゃ！？　お、お主だったか。そんなにわしが見たいのか？」=“Wha--?! I-It is you, is it? Do you want to see me that badly?”

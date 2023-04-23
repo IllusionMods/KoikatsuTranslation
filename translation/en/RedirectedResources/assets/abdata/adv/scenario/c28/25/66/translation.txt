@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「駅前に新しくスイーツのお店ができたんだってさ」=
-//「甘いものか。よいのう。そこに寄っていくのじゃ」=
-//「勉強で疲れたら甘いものがほしくなるよね」=
-//「そんなことを言ったら毎日食べたくなるのう」=
-//「お互い食べすぎには注意しないとね」=
+「駅前に新しくスイーツのお店ができたんだってさ」=“Seems like a new confectionary opened up next to the station.”
+「甘いものか。よいのう。そこに寄っていくのじゃ」=“Confections, huh? Sounds nice. We shall be stopping by there today.”
+「勉強で疲れたら甘いものがほしくなるよね」=“All the studying we do everyday makes you crave sweet stuff, doesn't it?”
+「そんなことを言ったら毎日食べたくなるのう」=“If we use that as an excuse, we'll be stuffing ourselves with such things everyday.”
+「お互い食べすぎには注意しないとね」=“We'll have to be careful not to overdo it, yeah.”

@@ -2,6 +2,6 @@
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
 「んーっ、よく寝た。……あれ？　メモがある。なになに――」=“Mmm, I slept well. ...Oh? There's a letter. What's it say...?”
-//『おはようなのじゃ。今日は朝から用事があってな』=
-//『よく寝ておったので起こさず先に行くことにしたのじゃ』=
-//『朝ご飯を抜かずにちゃんと登校するのじゃぞ。[H]』=
+『おはようなのじゃ。今日は朝から用事があってな』=「Good morning. I am busy this morning, you see.」
+『よく寝ておったので起こさず先に行くことにしたのじゃ』=「So I am leaving early, seeing as you are sleeping quite tightly.」
+『朝ご飯を抜かずにちゃんと登校するのじゃぞ。[H]』=「Make sure to come to school on time, but not at the expense of missing your breakfast. [H].」

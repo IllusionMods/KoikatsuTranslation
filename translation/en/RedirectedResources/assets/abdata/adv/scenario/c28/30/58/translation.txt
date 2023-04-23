@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「それで、今日はどこへ行くのじゃ？」=
-//「今日はそうだな……喫茶店にでも行こうか」=
-//「ふふっ、緑茶も悪くないが、こうしてお主と飲む紅茶やコーヒーも悪くないのう」=
-//「そうだね。俺もこうして二人でのんびりしてる時間、好きだよ」=
+「それで、今日はどこへ行くのじゃ？」=“So then, where are we going today?”
+「今日はそうだな……喫茶店にでも行こうか」=“Let's see... let's hit up a cafe or something.”
+「ふふっ、緑茶も悪くないが、こうしてお主と飲む紅茶やコーヒーも悪くないのう」=“Fufuh--, Japanese tea is truly great stuff but, sipping on some black tea or coffee with you like this is not so bad either.”
+「そうだね。俺もこうして二人でのんびりしてる時間、好きだよ」=“Yeah. I love spending time like this with you too.”

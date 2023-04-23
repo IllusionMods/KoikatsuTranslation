@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「不思議じゃな……好きな人が隣にいる……ただそれだけで、こんなにも幸せなのじゃ」=
-//「俺も同じ気持ちだよ」=
-//「……もう少し引っ付くぞ。少しでもお主のぬくもりを感じたいからな」=
-//「うん、もちろんいいよ」=
+「不思議じゃな……好きな人が隣にいる……ただそれだけで、こんなにも幸せなのじゃ」=“How wondorous... the man I love, next to me... just that alone, is enough to make me this happy.”
+「俺も同じ気持ちだよ」=“I feel the same way.”
+「……もう少し引っ付くぞ。少しでもお主のぬくもりを感じたいからな」=“...I shall cling to you more. I want to savour your warmth even an bit more if I can.”
+「うん、もちろんいいよ」=“Of course, go ahead.”

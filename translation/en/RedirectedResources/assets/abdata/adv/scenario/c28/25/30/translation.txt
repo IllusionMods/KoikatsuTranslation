@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「うむうむ、さすがわしの彼氏なのじゃ。好みまで熟知しておるとは……恐れ入った！」=
+「うむうむ、さすがわしの彼氏なのじゃ。好みまで熟知しておるとは……恐れ入った！」=“Umu umu, that's my boyfriend for you. To think you'd even know what sort of a gift I'd like... I am amazed!”

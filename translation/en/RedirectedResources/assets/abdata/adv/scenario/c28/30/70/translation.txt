@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「のう、ここなんじゃが……お主はわかったか？」=
-//「あー、ここね。これはこっちの公式に当てはめていくと……」=
-//「なるほどなのじゃ～。お主がおれば教科書などいらぬな」=
-//「まさか全部教えてもらうつもりじゃ……」=
+「のう、ここなんじゃが……お主はわかったか？」=“Hey, this part... have you figured it out?”
+「あー、ここね。これはこっちの公式に当てはめていくと……」=“Ah, this one. Basically, you use that formula like this and...”
+「なるほどなのじゃ～。お主がおれば教科書などいらぬな」=“I see~. With you around, who needs a textbook?”
+「まさか全部教えてもらうつもりじゃ……」=“I hope you don't expect me to teach you everything...”

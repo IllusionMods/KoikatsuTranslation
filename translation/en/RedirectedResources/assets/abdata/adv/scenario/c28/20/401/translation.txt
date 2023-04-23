@@ -1,18 +1,18 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「メニューが多くて悩んでしまったのう」=
-//「そうだね。どれも美味しそうだったし」=
-//「あまりこういうところに来ないから目移りしてしまったのじゃ」=
-//「もしかして和菓子とか和食があるようなところがよかった？」=
-//「そんなことはない。たまにはこのような洋風な喫茶店に来るのも楽しいのじゃ」=
-//「それに……お主と一緒にいれることが何より嬉しいしのう」=
-//「[H名]……」=
-//「いつもお主には感謝しておる」=
-//「感謝？」=
-//「お主といると、今まで経験できなかったこともたくさん経験できるから楽しいのじゃ」=
-//「そう言ってもらえると嬉しいよ」=
-//「俺も[H名]と一緒にいるとすっごく楽しいんだ」=
-//「本当か？　それは何よりなのじゃ！」=
-//「俺達、なんかお互い褒め合ってるみたいでちょっと恥ずかしくなってきた」=
-//「そっ、そうじゃな……こんなに人のいるところで少し恥ずかしいのう」=
+「メニューが多くて悩んでしまったのう」=“With this wide a selection, it's quite hard to decide, isn't it?”
+「そうだね。どれも美味しそうだったし」=“Yeah. Just about everything looks good.”
+「あまりこういうところに来ないから目移りしてしまったのじゃ」=“I do not often come to places such as these, so I cannot quite make up my mind.”
+「もしかして和菓子とか和食があるようなところがよかった？」=“Should I have picked a more Japanese sort of restaurant?”
+「そんなことはない。たまにはこのような洋風な喫茶店に来るのも楽しいのじゃ」=“Not at all. Coming to a western cafe like this is quite the nice change of pace too, every so often.”
+「それに……お主と一緒にいれることが何より嬉しいしのう」=“Not to mention... for me, being able to spend time with you is above all else.”
+「[H名]……」=“[H名]...”
+「いつもお主には感謝しておる」=“I am always grateful to you.”
+「感謝？」=“For what?”
+「お主といると、今まで経験できなかったこともたくさん経験できるから楽しいのじゃ」=“When I am with you, I get to experience so many novel things that I have never tried before, it is quite fun for me.”
+「そう言ってもらえると嬉しいよ」=“I'm glad to hear that.”
+「俺も[H名]と一緒にいるとすっごく楽しいんだ」=“Being with you is incredibly fun for me too.”
+「本当か？　それは何よりなのじゃ！」=“Truly? I could not ask for happier words!”
+「俺達、なんかお互い褒め合ってるみたいでちょっと恥ずかしくなってきた」=“Man, now I feel a bit embarrassed. I feel like we're just praising each other here.”
+「そっ、そうじゃな……こんなに人のいるところで少し恥ずかしいのう」=“I-Indeed... it is a bit embarrassing to do this, with so many people around.”

@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「だ、誰にも見られてないじゃろうな。……もうわしは気が気ではなかったのじゃ」=
+「だ、誰にも見られてないじゃろうな。……もうわしは気が気ではなかったのじゃ」=“N-Nobody saw us, huh? ...I felt as though I was on pins and needles the whole time.”

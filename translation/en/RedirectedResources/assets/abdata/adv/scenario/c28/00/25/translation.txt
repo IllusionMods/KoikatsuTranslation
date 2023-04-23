@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「お主からわしに、か？　中は何なのじゃ？」=
+「お主からわしに、か？　中は何なのじゃ？」=“From you, for me, huh? And the contents?”

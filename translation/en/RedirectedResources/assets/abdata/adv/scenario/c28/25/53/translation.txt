@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「ん？　……もうよいのか？　お主がよいならかまわんが、もしや本調子ではないのか？」=
+「ん？　……もうよいのか？　お主がよいならかまわんが、もしや本調子ではないのか？」=“Nn? ...Had enough already? I do not mind if you do not mind, but are you perhaps feeling unwell?”

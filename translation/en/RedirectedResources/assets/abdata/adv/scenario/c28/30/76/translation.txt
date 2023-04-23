@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「はぁはぁ……ちょっと、休もうか？」=
-//「……あ、そうじゃな。……汗も拭かねばな」=
-//「あー、２人とも汗だくだね」=
-//「でも汗をかいておるお主は、かっこよいぞ」=
+「はぁはぁ……ちょっと、休もうか？」=“Haah, haah... shall we, rest a bit?”
+「……あ、そうじゃな。……汗も拭かねばな」=“...Ah, right. ... I must wipe off the sweat as well.”
+「あー、２人とも汗だくだね」=“Aah, we're both completely drenched, huh?”
+「でも汗をかいておるお主は、かっこよいぞ」=“To me, you look quite cool like that.”

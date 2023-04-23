@@ -1,12 +1,12 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「……は、初めてのデート……なのじゃ。……なんだか緊張するのう」=
-//「俺も緊張するよ。だけど、初めてだからちゃんといい思い出にしようよ」=
-//「それは、お主の腕次第じゃ。さ、今日はわしをどこに連れていってくれるのじゃ？」=
-//「楽しいところだよ。期待してて」=
-//「なるほど。これがデートというものなんじゃな」=
-//「楽しんでもらえてるかな？」=
-//「もちろんじゃ。こんなにも楽しいのは久しぶりなのじゃっ！」=
-//（こんなに喜んでくれるなんて。誘ってよかった）=
-//「今日は誘ってくれてありがとうなのじゃ。それではまたな。さらばじゃ」=
+「……は、初めてのデート……なのじゃ。……なんだか緊張するのう」=“...I-It is our first... date. ...How nerveracking.”
+「俺も緊張するよ。だけど、初めてだからちゃんといい思い出にしようよ」=“I'm nervous too. But, it's our first date so let's make it one to remember.”
+「それは、お主の腕次第じゃ。さ、今日はわしをどこに連れていってくれるのじゃ？」=“That depends upon your own ability. Now then, where will you be taking me today?”
+「楽しいところだよ。期待してて」=“Someplace fun. Just look forward to it.”
+「なるほど。これがデートというものなんじゃな」=“I see. So this is what a date is, huh?”
+「楽しんでもらえてるかな？」=“Are you enjoying yourself?”
+「もちろんじゃ。こんなにも楽しいのは久しぶりなのじゃっ！」=“Of course. It has been a while since I have had this much fun--!”
+（こんなに喜んでくれるなんて。誘ってよかった）=(Man, she's so happy. I'm glad I asked her out.)
+「今日は誘ってくれてありがとうなのじゃ。それではまたな。さらばじゃ」=“Thank you, for taking me out today. See you later then. Goodbye.”
