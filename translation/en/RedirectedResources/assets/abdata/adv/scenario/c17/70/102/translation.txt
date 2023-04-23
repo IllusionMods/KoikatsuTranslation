@@ -1,24 +1,24 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「本当にいい天気だね～」=
-//「えぇ、そうね。……あ、ランニングをしている人がいるわよ」=
-//「あぁ。この公園は広いから、ランニングコースにも適しているんだよ」=
-//「へぇ。あなた、ランニングはよくするの？」=
-//「まぁ、時々ね。[H名]さんはランニングとか、よくするの？」=
-//「えぇ。よく運動はするわよ。当然ランニングもね」=
-//「いいね。走ると気持ちいいよね～」=
-//「気持ちよさは二の次。私はそれよりも健康のために走るの」=
-//「そんなに若いうちから健康のことを気にしなくてもいいんじゃないかな……」=
-//「私はそうやって油断して後悔したくないの」=
-//「でも、今を楽しむことも大事だと思うんだ」=
-//「だから今度一緒に走らない？　二人一緒なら、きっといつもの何倍も楽しいよ」=
-//「どうせ走るんだものね。楽しければなおよし、か……いいわ。今度一緒に走りましょう」=
-//「走らないし、運動も特にしていないわね」=
-//「そうなんだ。なんで？」=
-//「だっていくら頑張っても速く走れるようにならないんだもの。努力しても伸びないものは頑張る意味がないわ」=
-//「ゆっくりでもいいんじゃないかな？」=
-//「ゆっくりでも？」=
-//「うん。速く走ることだけがランニングの楽しみじゃないし。自分のペースで走れれば、それでいいと思う」=
-//「今度一緒に走ろうよ。周りの景色を眺めながらのんびり走るのも楽しいよ」=
-//「あなたの言うことも一理あるわね……いいわ。付き合ってあげる」=
+「本当にいい天気だね～」=Great weather, isn't it~
+「えぇ、そうね。……あ、ランニングをしている人がいるわよ」=Yes, it is. ...Ah, there are some runners around.
+「あぁ。この公園は広いから、ランニングコースにも適しているんだよ」=Yeah. This park's pretty big so, it's pretty good as a running course too.
+「へぇ。あなた、ランニングはよくするの？」=Hoh. Do you run often?
+「まぁ、時々ね。[H名]さんはランニングとか、よくするの？」=Well, sometimes. What about yourself?
+「えぇ。よく運動はするわよ。当然ランニングもね」=Yes. I exercise quite often. Running is of course included in that.
+「いいね。走ると気持ちいいよね～」=Nice. Feels good to run, doesn't it~
+「気持ちよさは二の次。私はそれよりも健康のために走るの」=The pleasure is secondary. I run for health, not for that.
+「そんなに若いうちから健康のことを気にしなくてもいいんじゃないかな……」=I don't think you need to worry so much about your health at our age...
+「私はそうやって油断して後悔したくないの」=I don't want to regret it after I let my guard down like that.
+「でも、今を楽しむことも大事だと思うんだ」=But, I think it's important to enjoy the present as well.
+「だから今度一緒に走らない？　二人一緒なら、きっといつもの何倍も楽しいよ」=So how about we go running together next time? I bet it'd be way more fun to run together than by yourself.
+「どうせ走るんだものね。楽しければなおよし、か……いいわ。今度一緒に走りましょう」=I'm going to run anyway, might as well enjoy it more, I suppose... Alright. Let's run together next time.
+「走らないし、運動も特にしていないわね」=I don't run, nor do I exercise all that much either.
+「そうなんだ。なんで？」=I see. Why?
+「だっていくら頑張っても速く走れるようにならないんだもの。努力しても伸びないものは頑張る意味がないわ」=Since no matter how hard I try, I won't ever be able to run fast. There's no point in putting effort into something you'll never get better at.
+「ゆっくりでもいいんじゃないかな？」=Why do you have to be fast? Isn't being slow just fine too?
+「ゆっくりでも？」=Is it?
+「うん。速く走ることだけがランニングの楽しみじゃないし。自分のペースで走れれば、それでいいと思う」=Yeah. The speed isn't all there is to enjoy about running anyway. I think it's just fine to do it at your own pace.
+「今度一緒に走ろうよ。周りの景色を眺めながらのんびり走るのも楽しいよ」=Let's go running together sometime. It's fun to run while enjoying the scenery too, you know.
+「あなたの言うことも一理あるわね……いいわ。付き合ってあげる」=You've got a point as well... Alright, I'll play along.

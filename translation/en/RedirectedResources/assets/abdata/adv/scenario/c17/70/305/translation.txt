@@ -1,24 +1,24 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「いぇーい！」=
-//「うわっ、ちょっと……テンション高いのはいいけど、距離が近いって！」=
-//「なに？　聞こえないわ！」=
-//「いや、だから、[H名]さん？　もう少し離れよう？」=
-//「なによ……私とくっつくのが、嫌なの？」=
-//「そ、そうじゃなくて……その、我慢ができなくなるから……」=
-//「我慢って、なにを我慢する必要があるのよ？」=
-//「……じゃあ、我慢しなくてもいいんだ？」=
-//「へ……？　いきなりそんな顔をして……」=
-//「っ！　我慢って、もしかして……そういうこと？」=
-//「うん、そういうこと」=
-//「我慢、しなくてもいい？」=
-//「えっと……ここでするの？」=
-//「うん、だって、もう我慢できないし」=
-//「そうは言っても……私、初めてなんだけれど……」=
-//「うん……しっかり大切に、優しくするよ」=
-//「[H名]さんは……俺としたくない？」=
-//「それは、その……そういう行為対して……興味がないわではない……わ」=
-//「……なら、いいかな？」=
-//「……わかった。あなたに言われたら、断れないもの」=
-//「ありがとう……[H名]さん……」=
+「いぇーい！」=Yay!
+「うわっ、ちょっと……テンション高いのはいいけど、距離が近いって！」=Uwah--, hey... it's fine to get excited but, you're getting a bit too close!
+「なに？　聞こえないわ！」=What? I can't hear you!
+「いや、だから、[H名]さん？　もう少し離れよう？」=No, like I said, [H名]-san? Let's make some space between us?
+「なによ……私とくっつくのが、嫌なの？」=What... you don't like it, when I cling to you?
+「そ、そうじゃなくて……その、我慢ができなくなるから……」=T-That's not it... it's, uhm, I won't be able to hold back...
+「我慢って、なにを我慢する必要があるのよ？」=Hold back, just what do you have to hold back for?
+「……じゃあ、我慢しなくてもいいんだ？」=...Then, you're fine with me cutting loose?
+「へ……？　いきなりそんな顔をして……」=Heh...? Making such a face out of nowhere...
+「っ！　我慢って、もしかして……そういうこと？」=--! By holding back, did you mean... that sort of stuff?
+「うん、そういうこと」=Yeah, that sort of stuff.
+「我慢、しなくてもいい？」=You sure you're okay with me cutting loose?
+「えっと……ここでするの？」=Erhm... here?
+「うん、だって、もう我慢できないし」=Yeah, I mean, I can't hold back anymore.
+「そうは言っても……私、初めてなんだけれど……」=Even if you say that... I'm a virgin, you know...
+「うん……しっかり大切に、優しくするよ」=Yeah... I'll treasure you, gently.
+「[H名]さんは……俺としたくない？」=Do you... not want to do it with me?
+「それは、その……そういう行為対して……興味がないわではない……わ」=That's, uhm... in regards to that sort of an act... it's not that I don't have any... interest.
+「……なら、いいかな？」=...Then, could I?
+「……わかった。あなたに言われたら、断れないもの」=...Got it. I can't exactly refuse it, when it's from you.
+「ありがとう……[H名]さん……」=Thank you... [H名]-san...

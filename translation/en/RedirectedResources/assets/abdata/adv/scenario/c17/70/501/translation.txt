@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//（よし、時間には間に合って……あれ？　[H名]さん、もう来てるや）=
-//「遅い。私を待たせるなんて、徹夜でゲームでもしてたんじゃないでしょうね？」=
-//「ご、ごめん！　でも……徹夜でゲームはしてないよ」=
-//「ふふっ、冗談よ。それより早く行きましょう。いいエスコート、期待しているわよ？」=
-//「うん、任せてよ」=
-//（よし、絶対楽しいデートにするぞ）=
+（よし、時間には間に合って……あれ？　[H名]さん、もう来てるや）=(Alright, I made it just in time... huh? [H名]-san's already here.)
+「遅い。私を待たせるなんて、徹夜でゲームでもしてたんじゃないでしょうね？」=You're late. You didn't make me wait just because you were too busy playing videogames till late last night, right?
+「ご、ごめん！　でも……徹夜でゲームはしてないよ」=S-Sorry! But... I don't do that, you know.
+「ふふっ、冗談よ。それより早く行きましょう。いいエスコート、期待しているわよ？」=Fufu--, I'm kidding. Forget that, let's go already. I'm hoping for a good time, okay?
+「うん、任せてよ」=Yeah, leave it to me.
+（よし、絶対楽しいデートにするぞ）=(Alright, I'll definitely make this one a fun one.)

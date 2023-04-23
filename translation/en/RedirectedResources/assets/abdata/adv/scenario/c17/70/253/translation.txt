@@ -1,20 +1,20 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「だいぶ混んできたね……」=
-//「こっちに少し余裕があるから、詰めていいわよ」=
-//「ありがと……うわっ！　とと……ご、ごめん、押されちゃって」=
-//（うっ……[H名]さんがこんな近くに……こ、このままだと股間がマズいことに……）=
-//CHOICE:『欲望に少し抵抗する』=
-//CHOICE:『鉄の自制心を持って欲望に抵抗する』=
-//（で、電車の中で勃たせるわけには……俺なら、己が欲望に抵抗できるはずっ！）=
-//（……やっぱ無理！　せ、せめて[H名]さんに気づかれないようにしないと――）=
-//「あら？　……なんでここを大きくしてるの？」=
-//「ご、ごめん……密着した[H名]さんの身体が柔らかくて……」=
-//「えっと……下手に触らないでよ？　出ちゃうから……」=
-//「ふふふ、出してしまえばいいじゃない」=
-//「え？　そ、そんな。出すって」=
-//「いいから、私にまかせて」=
-//（こんな所で勃起なんて、絶対するわけにはいかないっ！）=
-//（無心……今の俺はなにも感じない。[H名]のぬくもりや、やわらかさ、ほのかに香る甘い匂いなんて……一切合切感じないぞ）=
-//（少しの間堪えれば……俺の自制心、壊れてくれるなよ……）=
+「だいぶ混んできたね……」=Started getting quite packed, hasn't it...
+「こっちに少し余裕があるから、詰めていいわよ」=I've got some space here, so feel free to squeeze in.
+「ありがと……うわっ！　とと……ご、ごめん、押されちゃって」=Thank y... uwah--! Damn... S-Sorry, I got pushed from behind.
+（うっ……[H名]さんがこんな近くに……こ、このままだと股間がマズいことに……）=(Uu--... [H名]-san is, so up close... a-at this rate, my crotch is going to...)
+CHOICE:『欲望に少し抵抗する』=Resist your desires a bit.
+CHOICE:『鉄の自制心を持って欲望に抵抗する』=Brandish your iron will and resist your desires.
+（で、電車の中で勃たせるわけには……俺なら、己が欲望に抵抗できるはずっ！）=(N-Not like I can go around popping a chub on a train... I should, no, I will resist my own lust--!)
+（……やっぱ無理！　せ、せめて[H名]さんに気づかれないようにしないと――）=(...It's not working! G-Gotta atleast make sure she doesn't notice--)
+「あら？　……なんでここを大きくしてるの？」=Oh? ...Why're you getting big here?
+「ご、ごめん……密着した[H名]さんの身体が柔らかくて……」=S-Sorry... your body's just so soft, [H名]...
+「えっと……下手に触らないでよ？　出ちゃうから……」=Erhm... don't accidentally touch it, okay? It'll go everywhere so...
+「ふふふ、出してしまえばいいじゃない」=Fufufu, what's wrong with that?
+「え？　そ、そんな。出すって」=Eh? Y-You can't be serious.
+「いいから、私にまかせて」=Don't worry about it, just leave it to me.
+（こんな所で勃起なんて、絶対するわけにはいかないっ！）=(I definitely can't be going around popping a chub on a train--!)
+（無心……今の俺はなにも感じない。[H名]のぬくもりや、やわらかさ、ほのかに香る甘い匂いなんて……一切合切感じないぞ）=(Peace... I feel nothing. Her warmth, her softness, or her faint yet sweet scent... I feel none of it.)
+（少しの間堪えれば……俺の自制心、壊れてくれるなよ……）=(Just need to endure it for a bit... no collapsing, you hear me?...)
