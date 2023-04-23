@@ -1,14 +1,14 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「あー、楽しかったのじゃ！　遊園地を堪能したのう」=
-//CHOICE:『最後に観覧車に乗ってかない？』=
-//CHOICE:『もうそろそろ帰ろうか』=
-//「ねえ、最後に観覧車に乗ってかない？」=
-//「もう少ししたら、綺麗な夜景が見れると思うんだ」=
-//「おお、それはよい提案じゃな！　最後の締めに乗っていくとするか！」=
-//「色々回って疲れたから、もうそろそろ帰ろうか」=
-//「そうじゃな。遊園地は本当に楽しいのう！　また来たいのじゃ」=
-//「うん、また来よう。約束だ」=
-//「最後に今日の思い出として、お互いに何かお土産を買うなんてどうじゃ？」=
-//「いいね！　おみやげ屋さんに寄ってから帰ろう」=
+「あー、楽しかったのじゃ！　遊園地を堪能したのう」=Ah~, that was very fun! I have truly had my fill today.
+CHOICE:『最後に観覧車に乗ってかない？』=Wanna go ride the ferris wheel to close things off?
+CHOICE:『もうそろそろ帰ろうか』=Let's go home, shall we?
+「ねえ、最後に観覧車に乗ってかない？」=Hey, wanna go ride the ferris wheel to close things off?
+「もう少ししたら、綺麗な夜景が見れると思うんだ」=I think we'll get to see a beautiful view, in just a bit.
+「おお、それはよい提案じゃな！　最後の締めに乗っていくとするか！」=Ooh, that is quite the fine idea! Let us indeed close the day off with that!
+「色々回って疲れたから、もうそろそろ帰ろうか」=We've run ourselves ragged today, so let's go home.
+「そうじゃな。遊園地は本当に楽しいのう！　また来たいのじゃ」=Indeed. The amusement park truly is a fun place, is it not! I would like to come again.
+「うん、また来よう。約束だ」=Yeah, let's do that. It's a promise.
+「最後に今日の思い出として、お互いに何かお土産を買うなんてどうじゃ？」=Shall we buy each other some memorabilia or other, to remember the day by?
+「いいね！　おみやげ屋さんに寄ってから帰ろう」=Oh, that sounds nice! Let's hit up the gift shop then go home.

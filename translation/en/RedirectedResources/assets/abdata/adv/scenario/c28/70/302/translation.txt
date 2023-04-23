@@ -1,18 +1,18 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「よーし、今日は何を歌うかのう！」=
-//「[H名]が一番得意な歌を歌ってよ」=
-//「得意な歌……そうじゃのう……」=
-//「あっ……でものう……」=
-//「何？」=
-//「その……得意な歌があるにはあるのじゃが、お主は知らぬ曲かもしれん」=
-//「もしかして演歌？」=
-//「どうしてわかったのじゃ！？」=
-//「[H名]のことならなんでもわかるよ」=
-//「そっ、そうなのか！　なんだか恥ずかしいけど嬉しいのう」=
-//「演歌でも大丈夫だよ。カラオケなんだからどんな曲でも好きな歌を歌って」=
-//「分かったのじゃ。だったらこの曲を歌うのじゃ」=
-//「どんな曲なの？」=
-//「この演歌は日本で最高のラブソングだと思っておるのじゃ！　お主に捧げるぞ！」=
-//「本当？　楽しみだな」=
+「よーし、今日は何を歌うかのう！」=Alright, what shall I sing today!
+「[H名]が一番得意な歌を歌ってよ」=Sing the song you know the best.
+「得意な歌……そうじゃのう……」=The one I know the best... Let us see...
+「あっ……でものう……」=Ah--... however...
+「何？」=What?
+「その……得意な歌があるにはあるのじゃが、お主は知らぬ曲かもしれん」=Uhm... I do have a song that fits that criteria, however you may not know of it.
+「もしかして演歌？」=Is it enka?
+「どうしてわかったのじゃ！？」=How did you know?!
+「[H名]のことならなんでもわかるよ」=I know everything there's to know about you, [H名].
+「そっ、そうなのか！　なんだか恥ずかしいけど嬉しいのう」=I-Is that so! That is quite embarrassing, yet it fills me with happiness.
+「演歌でも大丈夫だよ。カラオケなんだからどんな曲でも好きな歌を歌って」=I'm fine with enka too. We're at Karaoke so, sing whatever you want to sing, no matter what it is.
+「分かったのじゃ。だったらこの曲を歌うのじゃ」=I understand. I shall go with this then.
+「どんな曲なの？」=What song is it?
+「この演歌は日本で最高のラブソングだと思っておるのじゃ！　お主に捧げるぞ！」=This song is, in my eyes, the best love song this country has to offer! I shall dedicate it to you!
+「本当？　楽しみだな」=Really? Now I'm excited.

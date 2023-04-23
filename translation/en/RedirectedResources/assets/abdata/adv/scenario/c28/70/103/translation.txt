@@ -1,18 +1,18 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「夕日が綺麗じゃのう。時間が経つのはあっというまじゃ」=
-//CHOICE:『もう少し一緒にここで過ごさない？』=
-//CHOICE:『そろそろ帰ろうか』=
-//「まだ時間があるなら、もう少しだけここで一緒に過ごさない？」=
-//「時間なら問題ない。わしもまだお主といたいと思っておったのじゃ……」=
-//「よかった。それなら[H名]に見せたいものがあるんだ」=
-//「見せたいもの？　なんじゃ？」=
-//「いいから、俺に付いて来て」=
-//「だね……これ以上暗くなる前に今日は帰ろうか」=
-//「そうじゃな……なんだか名残惜しい気もするがのう……」=
-//「俺もだよ……」=
-//「今日は終わっちゃうけど、必ずまた一緒にこの公園に遊びに来よう」=
-//「……絶対に約束じゃぞ」=
-//「うん。約束」=
-//「それじゃあ、帰ろっか」=
+「夕日が綺麗じゃのう。時間が経つのはあっというまじゃ」=What a beautiful sunset. Time passes in but a blink.
+CHOICE:『もう少し一緒にここで過ごさない？』=Wanna spend some more time here together?
+CHOICE:『そろそろ帰ろうか』=Let's go home.
+「まだ時間があるなら、もう少しだけここで一緒に過ごさない？」=If you've still got time, wanna spend just a bit more of it with me?
+「時間なら問題ない。わしもまだお主といたいと思っておったのじゃ……」=Time is not an issue. I wanted to be with you more as well...
+「よかった。それなら[H名]に見せたいものがあるんだ」=Great. There's something I wanna show you, you see.
+「見せたいもの？　なんじゃ？」=Something you want to show me? What is it?
+「いいから、俺に付いて来て」=Just follow me, you'll see.
+「だね……これ以上暗くなる前に今日は帰ろうか」=Sure does... let's go home before it gets any darker, shall we?
+「そうじゃな……なんだか名残惜しい気もするがのう……」=Indeed... it does feel quite sad to do so, however...
+「俺もだよ……」=I feel sad too...
+「今日は終わっちゃうけど、必ずまた一緒にこの公園に遊びに来よう」=Today's gonna end eventually, but let's definitely come here again another day, okay?
+「……絶対に約束じゃぞ」=...I will take that as a promise, you know?
+「うん。約束」=Yep, I promise you.
+「それじゃあ、帰ろっか」=Well then, let's go home.

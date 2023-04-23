@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「本当に楽しかったね。名残惜しいけど、そろそろ帰ろうか」=
-//「うむ……そうじゃのう」=
-//「遊園地にいると、魔法にかけられたみたいな気分になるんじゃな」=
-//「そうだね。今日のことを思い出すだけで楽しい気分がよみがえるから、きっと当分この魔法は解けないな」=
-//「魔法が解けそうになったら、その前にふたりでまたここに来るのじゃ」=
-//「あぁ……そうだね」=
+「本当に楽しかったね。名残惜しいけど、そろそろ帰ろうか」=That really was fun, wasn't it? It's sad but, let's head home.
+「うむ……そうじゃのう」=Umu... we ought to.
+「遊園地にいると、魔法にかけられたみたいな気分になるんじゃな」=The park has a magic of sorts to it, doesn't it? The moment you step in, it gets cast on you.
+「そうだね。今日のことを思い出すだけで楽しい気分がよみがえるから、きっと当分この魔法は解けないな」=Yeah. Just thinking about the fun we had today lifts my mood up, so I'm sure this magic will last quite a while.
+「魔法が解けそうになったら、その前にふたりでまたここに来るのじゃ」=If it seems as though it is going to melt away, we must come back here right away to renew it.
+「あぁ……そうだね」=Yeah... we must.

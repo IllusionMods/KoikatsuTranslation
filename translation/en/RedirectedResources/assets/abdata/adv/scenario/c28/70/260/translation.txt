@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「お主は本当に変態じゃ……誰かに見られていたらどうする」=
-//「ごめん、ごめん。でもすっごく気持ちよかった」=
-//「[H名]も気持ちよかったんじゃない？」=
-//「うぅ……そんなこと…………なくもないのじゃ」=
+「お主は本当に変態じゃ……誰かに見られていたらどうする」=You truly are a pervert... what if someone saw us?
+「ごめん、ごめん。でもすっごく気持ちよかった」=Sorry, sorry. But it felt amazing.
+「[H名]も気持ちよかったんじゃない？」=Didn't you enjoy it too, [H名]?
+「うぅ……そんなこと…………なくもないのじゃ」=Uuu... that's not... necessarily untrue.
