@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「[H名]っ……その、もういい？」=
-//「えっ、あっ、は、はいっ！　ですがその……先にお風呂に……」=
-//「そういうの後でいいから。俺もう、限界なんだ……！」=
-//「しょ、承知いたしました！　で、では……あまりその、匂いなどは嗅がないで頂けると……」=
-//「あー、それは無理かも……ごめんね？」=
-//「い、いえ、こちら側の問題というだけですので……お気になさらず」=
-//「ほんとごめん……でも、ありがと」=
+「[H名]っ……その、もういい？」=“[H名]... uhm, can we?”
+「えっ、あっ、は、はいっ！　ですがその……先にお風呂に……」=“Eh--, ah--, y-yes--! However, uhm... I would like to take a ba...”
+「そういうの後でいいから。俺もう、限界なんだ……！」=“We can do that stuff later. I'm already, at my limit...!”
+「しょ、承知いたしました！　で、では……あまりその、匂いなどは嗅がないで頂けると……」=“I-I understand! W-Well then... if you could, not sniff my body too much...”
+「あー、それは無理かも……ごめんね？」=“Aah, I don't think that's doable... sorry, okay?”
+「い、いえ、こちら側の問題というだけですので……お気になさらず」=“N-No, it's not really your problem but rather mine so... please do not mind it.”
+「ほんとごめん……でも、ありがと」=“Seriously, sorry... but, thanks.”

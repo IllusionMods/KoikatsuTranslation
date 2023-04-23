@@ -1,19 +1,19 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「なんか凄い混み始めたね……[H名]、大丈夫？」=
-//「はい、ご心配なく。こちらはだいじょ……きゃっ！？」=
-//「ちょ、全然大丈夫じゃないし。[H名]、もっとこっち、俺の方に来て」=
-//（って、ヤバ……[H名]を引き寄せ過ぎて、下半身が密着状態にっ……！）=
-//CHOICE:『欲望に身を任せる』=
-//CHOICE:『鉄の自制心で堪える』=
-//（だめだ……股間が擦れて、勝手に大きくっ……）=
-//「あっ……えと、私は気にしていませんよ……し、仕方のない事ですよね？」=
-//「そ、そう、仕方ないんだ……刺激されると、勝手に膨らむモノで……」=
-//「は、はい……存じております……でも、そのままでは……お辛いのでは？」=
-//「あー、まぁね……[H名]、お願いがあるんだけど……」=
-//「んっ、それ以上は仰らなくて結構です……貴方が何をしたいか、理解しているつもりですから」=
-//「ごめん、絶対バレないようにするから……」=
-//（待て待て、ストップだ俺！　こんなところで発情する奴がいるか？）=
-//（[H名]には悪いが、目の前にいるのは俺の好みとは正反対のオバサンだと思おう……）=
-//（はぁ、オバサン良い匂い……って、それじゃ意味ないだろ！　しっかりしろ、俺！）=
+「なんか凄い混み始めたね……[H名]、大丈夫？」=“It's started getting really packed, huh... you alright, [H名]?”
+「はい、ご心配なく。こちらはだいじょ……きゃっ！？」=“Yes, please do not worry. I am just fi... kyah--!?”
+「ちょ、全然大丈夫じゃないし。[H名]、もっとこっち、俺の方に来て」=“Hey, you're not fine at all. Scoot over here, [H名], closer to me.”
+（って、ヤバ……[H名]を引き寄せ過ぎて、下半身が密着状態にっ……！）=(Wuh, damn... she got a bit too close, and our crotches are pressing together--...!)
+CHOICE:『欲望に身を任せる』=Let your desires take over.
+CHOICE:『鉄の自制心で堪える』=Bear it with your iron will.
+（だめだ……股間が擦れて、勝手に大きくっ……）=(It's no use... my crotch is rubbing against her, and I'm getting--...)
+「あっ……えと、私は気にしていませんよ……し、仕方のない事ですよね？」=“Ah--... erhm, I do not mind it... y-you can't help it, can you?”
+「そ、そう、仕方ないんだ……刺激されると、勝手に膨らむモノで……」=“E-Exactly, I can't... it gets bigger by itself, from any and all stimulation...”
+「は、はい……存じております……でも、そのままでは……お辛いのでは？」=“Y-Yes... I am aware... but, is it not hard... for you, to stay like that?”
+「あー、まぁね……[H名]、お願いがあるんだけど……」=“Aah, well yeah... I've got a bit of a request, [H名]...”
+「んっ、それ以上は仰らなくて結構です……貴方が何をしたいか、理解しているつもりですから」=“Nn--, you needn't say anymore... because I do believe, I know exactly what you want to do.”
+「ごめん、絶対バレないようにするから……」=“Sorry, I'll make sure we won't get caught...”
+（待て待て、ストップだ俺！　こんなところで発情する奴がいるか？）=(Wait wait, stop right there, me! What sort of monkey gets horny on a train?)
+（[H名]には悪いが、目の前にいるのは俺の好みとは正反対のオバサンだと思おう……）=(Sorry for this, [H名]. I gotta think of you as an old granny that's completely not my type...)
+（はぁ、オバサン良い匂い……って、それじゃ意味ないだろ！　しっかりしろ、俺！）=(Haah, you smell so good, granny... wuh, what's even the point if I'm gonna get distracted?! Get a grip, me!)

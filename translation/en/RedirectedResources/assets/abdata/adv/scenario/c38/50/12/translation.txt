@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「えっ、あっ、えっ、は、はい！　私と、ですか？　わ、わかりました……貴方がそれでよろしければ」=
-//「う、うん、俺は大丈夫だけど……[H名]は本当にいいの？」=
-//「い、いいです！　何も問題ありません！　恋人同士ですし、し、自然なことだと思います！」=
-//「そ、そうだよね？　じゃあ、なるべく優しくするから……」=
-//「あ、はい……そうして頂けると助かります。その、先に言っておきますと……私、初めてですので……」=
+「えっ、あっ、えっ、は、はい！　私と、ですか？　わ、わかりました……貴方がそれでよろしければ」=“Eh--, ah--, eh--, y-yes! With, me? I-I understand... if you're fine with that.”
+「う、うん、俺は大丈夫だけど……[H名]は本当にいいの？」=“Y-Yep, I am but... are you sure you are?”
+「い、いいです！　何も問題ありません！　恋人同士ですし、し、自然なことだと思います！」=“I-I am! I have no problems with it! We're a couple already so, I-I do think it's natural to do it!”
+「そ、そうだよね？　じゃあ、なるべく優しくするから……」=“I-It is, isn't it? Then, I'll be as gentle as I can so...”
+「あ、はい……そうして頂けると助かります。その、先に言っておきますと……私、初めてですので……」=“Ah, yes... that would be a lifesaver. Since, uhm, I'll just say it... I'm a, virgin so...”

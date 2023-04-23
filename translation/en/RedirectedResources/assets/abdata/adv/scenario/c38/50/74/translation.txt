@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「あのぅ、男女でプールというのは、いささか問題がありませんか？」=
-//「ん？　なんで？　水泳って全身運動だから、性別関係なく良い運動になると思うよ？」=
-//「そ、そういうことではなく……うぅ、何でもありません。貴方がいいなら、私も大丈夫……です」=
-//「うんうん、俺は何も問題ないよ！　って、その疑いの眼差しは……なに？」=
+「あのぅ、男女でプールというのは、いささか問題がありませんか？」=“Uhm, do you not think that being in the pool together like this, is a bit problematic? As a man and a woman.”
+「ん？　なんで？　水泳って全身運動だから、性別関係なく良い運動になると思うよ？」=“Nn? Why? Swimming is a workout for your entire body, do we really have to worry about genders here? It's just good exercise.”
+「そ、そういうことではなく……うぅ、何でもありません。貴方がいいなら、私も大丈夫……です」=“T-That's not what I meant... uuu, it's nothing. If you're fine with it, then I am also... fine.”
+「うんうん、俺は何も問題ないよ！　って、その疑いの眼差しは……なに？」=“Yep yep, no problems at all here! Is it just me or do I see... skepticism, in those eyes?”

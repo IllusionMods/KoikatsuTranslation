@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「ふふ、まだドキドキが止まりません。本日はお付き合い頂き、誠にありがとうございました」=
+「ふふ、まだドキドキが止まりません。本日はお付き合い頂き、誠にありがとうございました」=“Fufuh, my heart still won't stop pounding. Thank you very much, truly, for taking me out today.”

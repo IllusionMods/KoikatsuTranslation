@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//（家に居てもソワソワするだけだし、とりあえず出て来ちゃったけど……早く着きすぎたな）=
-//「お、おはようございます……あの、もしかして私……約束のお時間を間違えてしまっていたでしょうか？」=
-//「へ！？　[H名]？　な、なんでいるの？　約束の時間まで、あと１時間はあるよ？」=
-//「ぅ、何でと申されましても……貴方とのデート、絶対遅刻はできないと……その、少々気合が入り過ぎてしまいまして……」=
-//「そ、そうだったんだ……はは、じゃあさ、もう今からデート開始ってことで！　その分、長く一緒に居られるし！」=
-//（よし、[H名]の気持ちに応えるためにも、楽しいデートにしなくちゃな）=
+（家に居てもソワソワするだけだし、とりあえず出て来ちゃったけど……早く着きすぎたな）=(Staying at home would have just made me feel restless, so I got out earlier but... I got here a bit too early.)
+「お、おはようございます……あの、もしかして私……約束のお時間を間違えてしまっていたでしょうか？」=“G-Good morning... uhm, did I... mistake the time we agreed upon?”
+「へ！？　[H名]？　な、なんでいるの？　約束の時間まで、あと１時間はあるよ？」=“Heh?! [H名]? W-Why're you here? There's still one hour until we were supposed to meet up, you know?”
+「ぅ、何でと申されましても……貴方とのデート、絶対遅刻はできないと……その、少々気合が入り過ぎてしまいまして……」=“Uu, I don't have an answer... I just, didn't want to be late for our date... I uhm, I got a bit too into it...”
+「そ、そうだったんだ……はは、じゃあさ、もう今からデート開始ってことで！　その分、長く一緒に居られるし！」=“I-I see... hahah, then, guess we'll just start it now! We'll get to be together longer this way anyway!”
+（よし、[H名]の気持ちに応えるためにも、楽しいデートにしなくちゃな）=(Alright, I gotta make this a fun date, can't let those sincere feelings down!)

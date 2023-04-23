@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「初めてのコイカツですね。不束者ですが、よろしくお願いいたします」=
-//「はは、それじゃ婚活だよ。なんていうか、もっと肩の力を抜いていこう」=
-//「あ、失礼いたしました……ですが、力を抜けと仰られても、そう簡単にできるものでは……」=
-//「うーん。じゃあさ、俺が肩を揉んであげるよ。軽いスキンシップって感じで、丁度いいでしょ？」=
-//「肩揉みがコイカツなのですか？　ふふ、婚活を通り越して、老夫婦のようになってしまいましたね」=
+「初めてのコイカツですね。不束者ですが、よろしくお願いいたします」=“It'll be our first love activity together, won't it? I am still inexperienced, but please do take care of me.”
+「はは、それじゃ婚活だよ。なんていうか、もっと肩の力を抜いていこう」=“Hahah, you're making it like a real relationship there. Come on, let's get those shoulders relaxed.”
+「あ、失礼いたしました……ですが、力を抜けと仰られても、そう簡単にできるものでは……」=“Ah, I apologize... however, even if you tell me to relax, it's not so easy...”
+「うーん。じゃあさ、俺が肩を揉んであげるよ。軽いスキンシップって感じで、丁度いいでしょ？」=“Nnn. Then, I'll rub your shoulders for you. It'll be some light skinship too, isn't it just perfect?”
+「肩揉みがコイカツなのですか？　ふふ、婚活を通り越して、老夫婦のようになってしまいましたね」=“A shoulder rub for a love activity? This isn't just a relationship at this point, but a marriage.”

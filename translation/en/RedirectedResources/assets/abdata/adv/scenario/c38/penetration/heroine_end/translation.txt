@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「ふふ、とても素敵な体験でしたね。癖になってしまいそうです」=
+「ふふ、とても素敵な体験でしたね。癖になってしまいそうです」=“Fufuh, that was a very lovely experience. I feel like I'm going to get addicted.”

@@ -1,20 +1,20 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「なんか凄い混み始めたね……[H名]、大丈夫？」=
-//「はい、ご心配なく。こちらはだいじょ……きゃっ！？」=
-//「ちょ、全然大丈夫じゃないし。[H名]、もっとこっち、俺の方に来て」=
-//（って、ヤバ……[H名]を引き寄せ過ぎて、下半身が密着状態にっ……！）=
-//CHOICE:『欲望に少し抵抗する』=
-//CHOICE:『鉄の自制心を持って抵抗する』=
-//（が、我慢しなきゃ……でも、気持ちよくて……）=
-//「……貴方の、熱くなっています……んっ、これは、どういうことでしょうか？」=
-//「そ、そうかな？　気のせいだと思うよ？　ハハ、ハハハ……」=
-//（マズイ……一瞬で勃起がバレた。[H名]ってこういうところたまに鋭いよな……）=
-//「気のせいではありません。ほら、こんなに大きく……ビクビクと反応しているのがわかりますよ」=
-//「ちょっ、待って……！　そんなこと言わなくていいから！」=
-//「いいえ、待ちません……だって、こんなものを電車の中で放置していましたら、危険ですもの」=
-//（うそぉ……なんか[H名]がめちゃくちゃ積極的なんだけど！　こんなのもう無理だよっ……！）=
-//（なんだか、[H名]の方から下半身を擦り付けてきている気がするが……気のせいだ！　気にするな！）=
-//（[H名]は甘い吐息なんて漏らさない、柔らかい胸を押し付けてきたリしない、良い匂いは……するけど、しない！）=
-//（ＮＯ勃起！　ストップだ、鎮まれ俺の愚息……ここが正念場だ、絶対に負けられない戦いなんだ！）=
+「なんか凄い混み始めたね……[H名]、大丈夫？」=“It's started getting really packed, huh... you alright, [H名]?”
+「はい、ご心配なく。こちらはだいじょ……きゃっ！？」=“Yes, please do not worry. I am just fi... kyah--!?”
+「ちょ、全然大丈夫じゃないし。[H名]、もっとこっち、俺の方に来て」=“Hey, you're not fine at all. Scoot over here, [H名], closer to me.”
+（って、ヤバ……[H名]を引き寄せ過ぎて、下半身が密着状態にっ……！）=(Wuh, damn... she got a bit too close, and our crotches are pressing together--...!)
+CHOICE:『欲望に少し抵抗する』=Resist your desires a little bit.
+CHOICE:『鉄の自制心を持って抵抗する』=Brandish your iron will and resist.
+（が、我慢しなきゃ……でも、気持ちよくて……）=(I-I gotta endure it... but, it feels so good...)
+「……貴方の、熱くなっています……んっ、これは、どういうことでしょうか？」=“...Your rod is, getting hot... nn--, just what is, this thing poking into me?”
+「そ、そうかな？　気のせいだと思うよ？　ハハ、ハハハ……」=“P-Poking into you? You sure you're not imagining it? Hahah, hahahah...”
+（マズイ……一瞬で勃起がバレた。[H名]ってこういうところたまに鋭いよな……）=(Damn... she noticed instantly. She's always perceptive at times like these...)
+「気のせいではありません。ほら、こんなに大きく……ビクビクと反応しているのがわかりますよ」=“I am not imagining at all. Look, it's gotten so big... I can just feel it twitching.”
+「ちょっ、待って……！　そんなこと言わなくていいから！」=“Wha--, wait...! You don't need to tell me that!”
+「いいえ、待ちません……だって、こんなものを電車の中で放置していましたら、危険ですもの」=“No, I will not wait... I mean, it's not safe to simply leave it be, while we're on a train.”
+（うそぉ……なんか[H名]がめちゃくちゃ積極的なんだけど！　こんなのもう無理だよっ……！）=(No way... she's being damn assertive today! There's no way I can hold it in--...!)
+（なんだか、[H名]の方から下半身を擦り付けてきている気がするが……気のせいだ！　気にするな！）=(I feel like, she's rubbing her crotch against mine herself though... no, it's just my imagination! Don't think about it!)
+（[H名]は甘い吐息なんて漏らさない、柔らかい胸を押し付けてきたリしない、良い匂いは……するけど、しない！）=(She's not letting out hot gasps at all, isn't pressing her soft chest against me, and doesn't... well no, she smells amazing but, she doesn't!)
+（ＮＯ勃起！　ストップだ、鎮まれ俺の愚息……ここが正念場だ、絶対に負けられない戦いなんだ！）=(NO Erections! Stop, shut the fuck down, my stupid son... this is do-or-die, a battle we cannot lose no matter what!)

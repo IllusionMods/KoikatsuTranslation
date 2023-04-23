@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「あの、できれば私も、ご一緒したかったと言うか…消化不良と言いますか……」=
+「あの、できれば私も、ご一緒したかったと言うか…消化不良と言いますか……」=“Uhm, I would have liked to, cum together with you as well... I feel quite constipated now...”

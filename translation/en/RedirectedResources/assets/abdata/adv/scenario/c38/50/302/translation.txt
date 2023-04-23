@@ -1,22 +1,22 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「ふぅ……どうでしたでしょうか？　上手く、歌えていましたか？」=
-//「うん、もう大分慣れてきたんじゃない？」=
-//「だと、いいのですが……私の歌を一番聞いているのは、間違いなく貴方ですね」=
-//「それは嬉しいな。[H名]ファンクラブが出来たら、会員番号１番にしてね？」=
-//「ファンクラブなんてできませんよ。私なんて、地味で目立たない存在ですから」=
-//「そうかな？　俺が知る限りだけでも、[H名]って結構人気あると思うよ」=
-//「え？　その……貴方が知る限りというのは、どういうことでしょうか？」=
-//「……嫉妬しない？」=
-//「へ？　え？　ま、まさか……私以外の女性が絡むお話……でしょうか？」=
-//「ほら、学園に男子って俺一人だし……[H名]の評判を聞くのは必然的に他の女子からになるんだよね……」=
-//「ああ、それは確かに必然ですね。学園の皆様から、私はどんな評価なのですか？　少し気になります……」=
-//「……嫉妬、してくれないの？　俺が他の女の子と喋ってるって話だよこれ？」=
-//「えっ、そ、それは……あ、貴方を信用していますので。それに、私ごときが、貴方の行動を縛る権利は……」=
-//「あるよ？　だって俺達、恋人同士でしょ？　俺は[H名]が他の男と話してるの想像しただけで、叫びたくなるけど……」=
-//「そ、そこまでですか？　そんなに思って頂けていたなんて、恐縮です……」=
-//「うーん、そこは恐縮じゃなくて、幸せって言って欲しかったなぁ……」=
-//「よし決めた！　今日は[H名]が幸せって言ってくれるまで、[H名]に向けてのラブソングを歌いまくる！」=
-//「えぇっ！？　そんなことをされては、色々とその、大変なことになってしまいそうですっ……！」=
-//「いいよいいよ、大変なことになっちゃって！　んじゃ早速、一曲目いくよー！」=
+「ふぅ……どうでしたでしょうか？　上手く、歌えていましたか？」=“Fuu... how was it? Did I, do a good job?”
+「うん、もう大分慣れてきたんじゃない？」=“Yep, haven't you gotten used to it now?”
+「だと、いいのですが……私の歌を一番聞いているのは、間違いなく貴方ですね」=“I hope, I have... Without a doubt, the one who gets to hear me sing the most, is you.”
+「それは嬉しいな。[H名]ファンクラブが出来たら、会員番号１番にしてね？」=“That makes me happy. When you get your own fanclub going, make me the first member, okay?”
+「ファンクラブなんてできませんよ。私なんて、地味で目立たない存在ですから」=“I couldn't possibly. I'm just a plain old girl, I don't really stand out.”
+「そうかな？　俺が知る限りだけでも、[H名]って結構人気あると思うよ」=“You think so? I mean, from what I can see, you're pretty damn popular.”
+「え？　その……貴方が知る限りというのは、どういうことでしょうか？」=“Eh? Uhm... exactly what can you see?”
+「……嫉妬しない？」=“...Promise me you won't be jealous?”
+「へ？　え？　ま、まさか……私以外の女性が絡むお話……でしょうか？」=“Heh? Eh? I-It can't... does it involve... other women?”
+「ほら、学園に男子って俺一人だし……[H名]の評判を聞くのは必然的に他の女子からになるんだよね……」=“I mean, I'm the only guy at our school so... the only ones who I could hear about you are other girls, you know?...”
+「ああ、それは確かに必然ですね。学園の皆様から、私はどんな評価なのですか？　少し気になります……」=“Aah, indeed, you're not wrong. What do they think of me? I'm a bit curious...”
+「……嫉妬、してくれないの？　俺が他の女の子と喋ってるって話だよこれ？」=“...You're not jealous? I'm talking about me talking to other girls, you know?”
+「えっ、そ、それは……あ、貴方を信用していますので。それに、私ごときが、貴方の行動を縛る権利は……」=“Eh--, t-that's... I-I trust you, so. Not to mention, the likes of me, don't have the right to bind you down...”
+「あるよ？　だって俺達、恋人同士でしょ？　俺は[H名]が他の男と話してるの想像しただけで、叫びたくなるけど……」=“You do, you know? We're lovers, aren't we? Just thinking about you talking to another guy pisses me off, you know...”
+「そ、そこまでですか？　そんなに思って頂けていたなんて、恐縮です……」=“T-That much? To think you think of me so greatly, I am much obliged...”
+「うーん、そこは恐縮じゃなくて、幸せって言って欲しかったなぁ……」=“Nnnn, I'd have rather you said that it made you happy though...”
+「よし決めた！　今日は[H名]が幸せって言ってくれるまで、[H名]に向けてのラブソングを歌いまくる！」=“Alright, I've decided! I'm gonna sing love songs just for you one after another, until you tell me that you're happy!”
+「えぇっ！？　そんなことをされては、色々とその、大変なことになってしまいそうですっ……！」=“Eeeh--?! If you do that, a lot of things will, become a mess and--...!”
+「いいよいいよ、大変なことになっちゃって！　んじゃ早速、一曲目いくよー！」=“It's fine, become a mess for me! Alright, time for the first song--!”

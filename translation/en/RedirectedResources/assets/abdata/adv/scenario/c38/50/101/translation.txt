@@ -1,24 +1,24 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「はぁ、こうやって自然の中を散歩してると落ち着くね……」=
-//「そうですね、ただ歩いてるだけなのに、何故こうも満たされるのでしょう……」=
-//「はは、なんか俺達、年寄りみたいだね？　散歩デートは、流石に退屈だったかな？」=
-//「いいえ、そんな事はありませんよ。貴方と一緒というのが大きいですが、それ以外にも色々発見がありますので」=
-//「発見？　そういえば、歩きながら結構キョロキョロしてたね。何か探してるのかと思ったら、不意に笑ったりもして……」=
-//「すみません……少し挙動不審でしたね。特に何かを探していたわけではなく、自然を観察していたのです」=
-//「自然を観察……うーん、ごめん。イマイチ、ピンとこないかも……」=
-//「ふふ、それが普通だと思いますよ。私が少し、周りを気にし過ぎてるだけだと思うので」=
-//「でも、[H名]のそういうところに色々助けられてるよ。よくそんなとこまで気付くなって、感心することもあるし」=
-//「そんな、褒め過ぎですよ……私なんて、そう大したものではありませんから」=
-//「うーん、そうやって自分を卑下する癖はあんまり好きじゃないかなぁ……」=
-//「あっ、申し訳ございません……なるべく改善できるよう、努力いたします……」=
-//「えっ、あぁいや、そんなに深刻な話じゃなくてね？　えぇっと……お腹すかない？　何か食べようか？」=
-//「は、はい……それでしたら、先程ワゴンの出店がありましたので。そちらに行ってみますか？」=
-//「おっ、いいね！　流石[H名]、色々見てるなぁ」=
-//「もう、どうしたのですか今日は……そんなにおだてて、私に何かして欲しいのですか？」=
-//「はは、そういうわけじゃないけど。あ、その出店には、案内して欲しいかな」=
-//「お安い御用です。ではこちらに、手を繋いでも……よろしいですか？」=
-//「もちろん大歓迎！　[H名]はもっと積極的に、ガンガン来て欲しいな！」=
-//「自分を卑下せず……積極的にガンガン……承知しました。キョロキョロしてしまうのは、特にやめなくても……？」=
-//「うん、そこは全然ＯＫ！　色んなもの見つけて笑ってる[H名]、可愛かったしね」=
+「はぁ、こうやって自然の中を散歩してると落ち着くね……」=“Haah, taking a walk within nature like this is really calming, isn't it...”
+「そうですね、ただ歩いてるだけなのに、何故こうも満たされるのでしょう……」=“Indeed, even though we're simply walking, just why does it feel so fulfilling...”
+「はは、なんか俺達、年寄りみたいだね？　散歩デートは、流石に退屈だったかな？」=“Hahah, we kinda sound like old people, don't we? I guess a date just going out on a walk's a bit too much even for you?”
+「いいえ、そんな事はありませんよ。貴方と一緒というのが大きいですが、それ以外にも色々発見がありますので」=“No, not at all. The big part's just being with you but, there's so many discoveries to be had besides just that too.”
+「発見？　そういえば、歩きながら結構キョロキョロしてたね。何か探してるのかと思ったら、不意に笑ったりもして……」=“Discoveries? Reminds me, you've been looking all around as we've been walking, haven't you? I thought you were searching for something, but you even randomly giggled sometimes...”
+「すみません……少し挙動不審でしたね。特に何かを探していたわけではなく、自然を観察していたのです」=“I'm sorry... it must have seemed quite suspicious. It wasn't that I was looking for anything in particular, I was simply observing nature.”
+「自然を観察……うーん、ごめん。イマイチ、ピンとこないかも……」=“Observing nature... Nnnn, sorry. I don't think I grasp that all that well...”
+「ふふ、それが普通だと思いますよ。私が少し、周りを気にし過ぎてるだけだと思うので」=“Fufuh, I think that's just normal. It's just that I pay a bit too much attention to the world around me, I'd say.”
+「でも、[H名]のそういうところに色々助けられてるよ。よくそんなとこまで気付くなって、感心することもあるし」=“But, that side of you always helps me out, somehow or other. Sometimes it impresses me too, just how much you notice.”
+「そんな、褒め過ぎですよ……私なんて、そう大したものではありませんから」=“That's, too much praise... I'm nothing, that special.”
+「うーん、そうやって自分を卑下する癖はあんまり好きじゃないかなぁ……」=“Nnnn, I don't think I'm a big fan of the way you always disparage yourself though...”
+「あっ、申し訳ございません……なるべく改善できるよう、努力いたします……」=“Ah--, my apologies... I'll do my best to, reform that...”
+「えっ、あぁいや、そんなに深刻な話じゃなくてね？　えぇっと……お腹すかない？　何か食べようか？」=“Eh--, aah no, I didn't mean it that seriously, okay? Eerhm... you feel hungry? Wanna go get something?”
+「は、はい……それでしたら、先程ワゴンの出店がありましたので。そちらに行ってみますか？」=“Y-Yes... in that case, we passed a food cart just a bit ago. Would you like to go there?”
+「おっ、いいね！　流石[H名]、色々見てるなぁ」=“Oh--, yeah that'll work! You really do keep a good lookout, don't you~?”
+「もう、どうしたのですか今日は……そんなにおだてて、私に何かして欲しいのですか？」=“Jeez, just what's gotten into you today... you're sweet talking me so much, is there something you want me to do for you?”
+「はは、そういうわけじゃないけど。あ、その出店には、案内して欲しいかな」=“Hahah, I can't sweet talk my woman now? Ah, please lead the way to where that cart is.”
+「お安い御用です。ではこちらに、手を繋いでも……よろしいですか？」=“No problem at all. Could we, hold hands... while we go?”
+「もちろん大歓迎！　[H名]はもっと積極的に、ガンガン来て欲しいな！」=“Of course! You can do with being way more assertive than that too, [H名]!”
+「自分を卑下せず……積極的にガンガン……承知しました。キョロキョロしてしまうのは、特にやめなくても……？」=“Be assertive... without disparaging myself... I understand. And I don't need to stop my habit of looking around all over...?”
+「うん、そこは全然ＯＫ！　色んなもの見つけて笑ってる[H名]、可愛かったしね」=“Yep, that's just fine! You looked cute afterall, giggling at every little thing you saw.”

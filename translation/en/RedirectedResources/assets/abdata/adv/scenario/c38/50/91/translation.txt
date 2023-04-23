@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「お、おはようございます……[Pあだ名]」=
-//「おぉっ……お、おはよう、[Hあだ名]」=
-//「いきなりすみません……なるべく自然にお呼びするには、朝の挨拶が一番かなと思いまして」=
+「お、おはようございます……[Pあだ名]」=“G-Good morning... [Pあだ名].”
+「おぉっ……お、おはよう、[Hあだ名]」=“Ooh--... m-morning, [Hあだ名].”
+「いきなりすみません……なるべく自然にお呼びするには、朝の挨拶が一番かなと思いまして」=“I'm sorry for doing it so abruptly... I wanted to call you that as naturally as I could, and a morning greeting was the only thing I could think of.”

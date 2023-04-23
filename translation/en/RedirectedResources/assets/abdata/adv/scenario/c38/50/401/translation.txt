@@ -1,23 +1,23 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「喫茶店にいる人達って、皆自由って感じだよね」=
-//「そうですね。人間観察をするには、一番面白い場所かもしれません」=
-//「あ、そういえば趣味なんだっけ？　人間観察」=
-//「はい、お恥ずかしながら。趣味といっても、暇潰しの延長のようなものですが……」=
-//「へぇ、どんなところを観察してるの？」=
-//「そうですねぇ……あっ、今入ってきた男女の二人組、カップルだと思いますか？」=
-//「うーん、どうだろ……女の子の方はくっつきたがってるけど、男はそうでもない……みたいな？」=
-//「まぁっ、どうしてそう思ったのですか？　よろしければ、貴方の意見を聞かせてください」=
-//「え、何て言うか……女の子は楽しそうでキラキラした感じだけど……男子はだるそうっていうか……」=
-//「なるほど、それで女の子の片思いだと思ったのですね？　ふふ、興味深いお話です」=
-//「[H名]はどう思った？　あの二人、実はもう付き合ってるとか？」=
-//「いいえ、きっとあのお二人は姉弟ですね。お姉さんに無理矢理喫茶店に連れてこられた弟さん、だと思います」=
-//「へ？　なんで？　姉弟にしては距離感近過ぎじゃない？」=
-//「ええ、だからですよ。あれだけ距離感が近くて、それにお姉さんはとても綺麗なのに、男の人が何も反応しない方が変なのです」=
-//「あー、そういうことか。つまり迫られても欲情しない相手、身内ってことだね？」=
-//「は、はい、私はそのように考えました……えぇと、貴方は私が迫ったら、その、欲情……して頂けるのでしょうか？」=
-//「へっ、えっ……ちょ、待って！　それ、喫茶店でする話じゃないよね？」=
-//「えっ、あっ、私……大変失礼いたしましたっ！　えぇと、あっ、あちらの男性二人組は……どのような関係だと思います？」=
-//「え？　どこの？　あー、あれかな？　うーんと、会社の同僚……とかじゃない？　ハハハ……」=
-//（[H名]の観察眼が確かなのは分かったけど、その後の方がインパクトあり過ぎて……まだドキドキしてるよ……）=
+「喫茶店にいる人達って、皆自由って感じだよね」=“Everyone seem seems kinda free, don't they?”
+「そうですね。人間観察をするには、一番面白い場所かもしれません」=“Indeed. It may be the perfect place, for people watching.”
+「あ、そういえば趣味なんだっけ？　人間観察」=“Ah, was that your hobby, if I'm remembering right? People watching.”
+「はい、お恥ずかしながら。趣味といっても、暇潰しの延長のようなものですが……」=“Yes, embarrassing though it is to admit. I mean, though I may call it that, it's little more than a way to keep myself busy...”
+「へぇ、どんなところを観察してるの？」=“Hoh. What parts do you observe?”
+「そうですねぇ……あっ、今入ってきた男女の二人組、カップルだと思いますか？」=“Good question... ah--, that pair that just entered, do you think they're a couple?”
+「うーん、どうだろ……女の子の方はくっつきたがってるけど、男はそうでもない……みたいな？」=“Nnnn, I wonder... the girl feels like she wants to cling to him, but the boy doesn't really... I guess?”
+「まぁっ、どうしてそう思ったのですか？　よろしければ、貴方の意見を聞かせてください」=“My--, and what made you think that? If possible, I'd like to hear it from your point of view.”
+「え、何て言うか……女の子は楽しそうでキラキラした感じだけど……男子はだるそうっていうか……」=“Eh--, 'what'... the girl's very bubbly and seems to be enjoying it but... the boy exudes this "what a pain" aura...”
+「なるほど、それで女の子の片思いだと思ったのですね？　ふふ、興味深いお話です」=“I see, and that's what made you think it was unrequited love? Fufuh, that's quite the interesting take.”
+「[H名]はどう思った？　あの二人、実はもう付き合ってるとか？」=“What did you think, [H名]? You think they're already going out, or what?”
+「いいえ、きっとあのお二人は姉弟ですね。お姉さんに無理矢理喫茶店に連れてこられた弟さん、だと思います」=“Not at all, I'm sure they're siblings. I think the little brother got dragged her by his older sister.”
+「へ？　なんで？　姉弟にしては距離感近過ぎじゃない？」=“Heh? Why? Aren't they being a bit too close, for siblings?”
+「ええ、だからですよ。あれだけ距離感が近くて、それにお姉さんはとても綺麗なのに、男の人が何も反応しない方が変なのです」=“Yes, that's exactly why. They're so close together, and the sister is such a beauty, the man not reacting even a bit is strange.”
+「あー、そういうことか。つまり迫られても欲情しない相手、身内ってことだね？」=“Ah, I see your point. Since she's really pressing into him and he's not aroused at all, they're family, huh?”
+「は、はい、私はそのように考えました……えぇと、貴方は私が迫ったら、その、欲情……して頂けるのでしょうか？」=“Y-Yes, that's the conclusion I came to... eerhm, if I were to press into you, would you, uhm... get aroused?”
+「へっ、えっ……ちょ、待って！　それ、喫茶店でする話じゃないよね？」=“Heh--, eh--... wuh--, wait! Is that really something we should be talking about at a cafe?”
+「えっ、あっ、私……大変失礼いたしましたっ！　えぇと、あっ、あちらの男性二人組は……どのような関係だと思います？」=“Eh--, ah--, I... I really do apologize--! Eerhm, ah--, those two men there... what sort of a relationship do you think they have?”
+「え？　どこの？　あー、あれかな？　うーんと、会社の同僚……とかじゃない？　ハハハ……」=“Eh? Where? Ah, them? Hmm, don't they kinda look like... coworkers, I guess? Hahahah...”
+（[H名]の観察眼が確かなのは分かったけど、その後の方がインパクトあり過ぎて……まだドキドキしてるよ……）=(I get that her eye for people is really good but, the bit she said right after was so impactful... my heart's still pounding...)

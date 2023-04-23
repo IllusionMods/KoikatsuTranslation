@@ -1,17 +1,17 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「うわ、もう日が落ちてきちゃった……どうしよっか？　最後にこれだけは乗っておきたいとかある？」=
-//「私は……特に無いですね。もう十分、幸せ過ぎるくらいに遊園地を堪能させて頂きましたから、後は貴方にお任せいたします」=
-//CHOICE:『それなら、最後に観覧車に乗らない？』=
-//CHOICE:『暗くなる前に帰ろうか』=
-//「それなら、観覧車に乗っていかない？　最後にゆっくり、夜の遊園地を見下ろすって感じで」=
-//「はい、とてもいい案だと思います。観覧車、是非ご一緒させてください」=
-//「よかったぁ……観覧車なんて退屈そうって言われたら、どうしようかと思ってたよ」=
-//「ふふ、それはいらぬ心配ですね。貴方と一緒なら、何に乗っても退屈ということはありませんから」=
-//「もう少し居たいけど……閉園までいると帰宅ラッシュに巻き込まれそうだし、今日は早めに帰ろうか」=
-//「……そうですね。少し時間をずらした方が、最後まで気持ちよく過ごせそうですし」=
-//「じゃあ最後に、記念写真でも撮って、それで遊園地とはお別れしよう」=
-//「ぁ、でしたらその……一度お手洗いに行かせて頂いてもよろしいですか？」=
-//「うん、いいよ。俺も行っておこうかな……お互い終わったら、またここで待ち合わせってことで」=
-//（[H名]、きっと写真映りを気にして髪型とか直しに行ったのかな？　なんかいいなぁ、女の子って感じで……）=
+「うわ、もう日が落ちてきちゃった……どうしよっか？　最後にこれだけは乗っておきたいとかある？」=“Uwah, the sun's already gone down... what should we do? Any specific ride you really wanna ride before we go home?”
+「私は……特に無いですね。もう十分、幸せ過ぎるくらいに遊園地を堪能させて頂きましたから、後は貴方にお任せいたします」=“I... don't, in particular. I've already experienced plenty, dare I say too much, happiness today, so I shall leave the rest to you.”
+CHOICE:『それなら、最後に観覧車に乗らない？』=In that case, wanna go ride the ferris wheel to close it off?
+CHOICE:『暗くなる前に帰ろうか』=Let's go home before it gets dark, shall we?
+「それなら、観覧車に乗っていかない？　最後にゆっくり、夜の遊園地を見下ろすって感じで」=“In that case, wanna go hit up the ferris wheel? We'd get to appreciate the sight of the amusement park in the darkness of the night.”
+「はい、とてもいい案だと思います。観覧車、是非ご一緒させてください」=“Yes, I think it's a lovely idea. Please let me join you on the ferris wheel.”
+「よかったぁ……観覧車なんて退屈そうって言われたら、どうしようかと思ってたよ」=“Great~... I was worried you were gonna say "that sounds boring" or whatever.”
+「ふふ、それはいらぬ心配ですね。貴方と一緒なら、何に乗っても退屈ということはありませんから」=“Fufuh, you needn't worry about such things. As long as you're with me, I don't feel bored at all, no matter what ride it is.”
+「もう少し居たいけど……閉園までいると帰宅ラッシュに巻き込まれそうだし、今日は早めに帰ろうか」=“I want to spend more time here but... if we stay till closing time we're gonna get caught up in the evening rush so, let's go home early.”
+「……そうですね。少し時間をずらした方が、最後まで気持ちよく過ごせそうですし」=“...Indeed. And if we set aside some time, we can take it easy going home as well and enjoy ourselves the whole time.”
+「じゃあ最後に、記念写真でも撮って、それで遊園地とはお別れしよう」=“Let's take a souvenir photo or two then, and say goodbye to this place.”
+「ぁ、でしたらその……一度お手洗いに行かせて頂いてもよろしいですか？」=“Ah, in that case, uhm... could I go to the restroom once first?”
+「うん、いいよ。俺も行っておこうかな……お互い終わったら、またここで待ち合わせってことで」=“Yeah, sure. Maybe I'll go too... Let's meet up here once we're both done.”
+（[H名]、きっと写真映りを気にして髪型とか直しに行ったのかな？　なんかいいなぁ、女の子って感じで……）=(I'm guessing she went because she wants to fix her hair and whatnot, for the photo? I kinda dig it, it's so nice and girly...)

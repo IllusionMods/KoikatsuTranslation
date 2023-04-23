@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「その……[H名]さん？　えぇと、溜まってらっしゃったのでしょうか？」=
-//「そ、そのようでしたね……今はその、はい、もう大丈夫です。ご迷惑をおかけして、申し訳ございません」=
-//「いやまぁ、俺も気持ちよくしてもらったし、迷惑ではなかったんだけど……」=
-//「今度からは、もっと普通の場所でして頂けると……ありがたい、かな？」=
+「その……[H名]さん？　えぇと、溜まってらっしゃったのでしょうか？」=“Uhm... [H名]-san? Eerhm, were you bottled up?”
+「そ、そのようでしたね……今はその、はい、もう大丈夫です。ご迷惑をおかけして、申し訳ございません」=“I-It seems I was... right now I feel, yes, I'm fine now I think. I do apologize, for causing you trouble.”
+「いやまぁ、俺も気持ちよくしてもらったし、迷惑ではなかったんだけど……」=“No well~, I mean I enjoyed it a lot too, so it wasn't really any trouble but...”
+「今度からは、もっと普通の場所でして頂けると……ありがたい、かな？」=“Next time, if we could do it in a more normal place... I'd be thankful, I guess?”

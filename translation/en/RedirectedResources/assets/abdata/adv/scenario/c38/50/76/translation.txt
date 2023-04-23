@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「ねぇ、体育倉庫からボール取ってこない？」=
-//「体育倉庫……何やら企んでいませんか？　目がいやらしいですよ？」=
-//「もう、何でそうすぐにヤラシイ方向に持ってくかな。もしかして、[H名]ってむっつり？」=
-//「し、心外ですっ！　い、いいですよっ、体育倉庫、行きましょう！」=
-//「やった！　体育倉庫で[H名]と……」=
-//「……私と、何ですか？　貴方を信頼して、私は体育倉庫に行くのですからね？」=
+「ねぇ、体育倉庫からボール取ってこない？」=“Hey, wanna go get a ball from the storage closet?”
+「体育倉庫……何やら企んでいませんか？　目がいやらしいですよ？」=“The closet... are you sure you're not planning something? Your gaze is very lewd right now, you know?”
+「もう、何でそうすぐにヤラシイ方向に持ってくかな。もしかして、[H名]ってむっつり？」=“Jeez, I do wonder why you always take things that way. Are you by any chance, a closet pervert?”
+「し、心外ですっ！　い、いいですよっ、体育倉庫、行きましょう！」=“I-I can't believe--! A-Alright then--, let's go, to the storage closet--!”
+「やった！　体育倉庫で[H名]と……」=“Yay! Maybe in there we could...”
+「……私と、何ですか？　貴方を信頼して、私は体育倉庫に行くのですからね？」=“...We could? I'm going in there because I trust you, please understand that, okay?”

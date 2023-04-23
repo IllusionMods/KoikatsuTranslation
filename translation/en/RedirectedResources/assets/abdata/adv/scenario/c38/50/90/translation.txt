@@ -1,15 +1,15 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「あ、あのっ……[Pあだ名]……な、なんてー……」=
-//「へ！？　えっ、もう一回言ってもらっていい？」=
-//「うっ、そ、それは……少し難しいですね。今のはかなり、勇気を必要とするので……」=
-//「えぇ、そんなこと言わないでさ。ちょっと愛称で呼ぶだけでしょ？」=
-//「ちょっとなんてものじゃありません。昨日の夜から、ずっと悩んで、ようやく言えたのですよ？」=
-//「そんなに！？　ごめん、なんか軽く考えてた……」=
-//「あっ、いえ、謝らないでください。えぇと……貴方も愛称で呼んで頂けるなら、私も、もう一度……」=
-//「えっ、呼ぶ呼ぶ！　それで[H名]がいいなら、えっと……[Hあだ名]？　で、いい？」=
-//「は、はい！　良いです！　うぅ、なんだかこそばゆいですね……顔が、熱くなってしまいます」=
-//「[Hあだ名]、[Hあだ名]、[Hあだ名]、ほら、これだけ呼べばいいでしょ？　次は[H名]の番だよ？」=
-//「はぁぅ、んっ、そんなに何度も呼ばれては、刺激が強過ぎますっ！　うぅ、意地悪です……[Pあだ名]」=
-//「うーん、いいっ、やっぱいいね！　これからも、好きな時に愛称で呼んでくれていいからねっ」=
+「あ、あのっ……[Pあだ名]……な、なんてー……」=“U-Uhm... [Pあだ名]... n-nevermind...”
+「へ！？　えっ、もう一回言ってもらっていい？」=“Heh?! Eh--, could you call me that again?”
+「うっ、そ、それは……少し難しいですね。今のはかなり、勇気を必要とするので……」=“Uu--, t-that's... a bit difficult. That required, quite a bit of courage from my end just then...”
+「えぇ、そんなこと言わないでさ。ちょっと愛称で呼ぶだけでしょ？」=“Eeh, don't be like that, c'mon. It's just calling me by a nickname, no?”
+「ちょっとなんてものじゃありません。昨日の夜から、ずっと悩んで、ようやく言えたのですよ？」=“There's nothing "just" about it. I've been stressing about it, since last night, it was only now that I was able to say it, you know?”
+「そんなに！？　ごめん、なんか軽く考えてた……」=“Since last night?! Sorry, I treated it a bit too lightly...”
+「あっ、いえ、謝らないでください。えぇと……貴方も愛称で呼んで頂けるなら、私も、もう一度……」=“Ah--, no, please don't apologize. Eerhm... if you'll call me by a nickname too, I will, as well...”
+「えっ、呼ぶ呼ぶ！　それで[H名]がいいなら、えっと……[Hあだ名]？　で、いい？」=“Eh--, I will, I will! If you're fine with that then, erhm... [Hあだ名]? Is that, okay?”
+「は、はい！　良いです！　うぅ、なんだかこそばゆいですね……顔が、熱くなってしまいます」=“Y-Yes! It is! Uu, it feels a bit ticklish, doesn't it... my face is, getting hot.”
+「[Hあだ名]、[Hあだ名]、[Hあだ名]、ほら、これだけ呼べばいいでしょ？　次は[H名]の番だよ？」=“[Hあだ名], [Hあだ名], [Hあだ名], now you should be used to it, right? It's your turn next, you know?”
+「はぁぅ、んっ、そんなに何度も呼ばれては、刺激が強過ぎますっ！　うぅ、意地悪です……[Pあだ名]」=“Haah--, nnn--, it's a bit too stimulating when you do it that way--! Uuu, you're a meanie... [Pあだ名].”
+「うーん、いいっ、やっぱいいね！　これからも、好きな時に愛称で呼んでくれていいからねっ」=“Nnnn, good--, it really is good! Feel free to call me that whenever you like, alright?--”

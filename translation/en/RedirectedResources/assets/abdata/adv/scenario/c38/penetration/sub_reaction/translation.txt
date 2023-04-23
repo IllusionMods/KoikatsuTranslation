@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「あぁ……なんてことでしょう……私、とてもお恥ずかしい姿を貴方に……ぅぅ」=
+「あぁ……なんてことでしょう……私、とてもお恥ずかしい姿を貴方に……ぅぅ」=“Aaah... how could this be... I have shown such an embarrassing sight, to you of all people... uuuu--”

@@ -1,11 +1,11 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「図書室ってさ、なんでこう眠たくなるんだろうね」=
-//「そうですか？　では、まずは仮眠を取られては？　私は、隣で勉強していますので」=
-//「え、それは流石に悪いよ。折角来たんだから、ちゃんと勉強するって」=
-//「ふふ、私は別に良かったのですが。貴方の寝顔を拝見しながら勉強というのも、捗りそうでしたし」=
-//（……さらっと、こっちがドキドキすること言うなぁ）=
-//「ふぅー、[H名]が隣にいると思うと、寝てる暇なんかなかったね」=
-//「えっ、それはどういう？　からかうのはやめてください……て、照れてしまいます」=
-//「はは、さっきのお返し。勉強中、俺もずっとドキドキしてたんだからね」=
+「図書室ってさ、なんでこう眠たくなるんだろうね」=“The library kinda makes you sleepy, doesn't it?”
+「そうですか？　では、まずは仮眠を取られては？　私は、隣で勉強していますので」=“Is that so? Would you like to start off with a short nap first then? I shall simply, keep studying next to you.”
+「え、それは流石に悪いよ。折角来たんだから、ちゃんと勉強するって」=“Eh, even I'm not that shameless. We decided to do it so, I'll pull my own weight.”
+「ふふ、私は別に良かったのですが。貴方の寝顔を拝見しながら勉強というのも、捗りそうでしたし」=“Fufuh, I wouldn't have minded, you know? I feel like I'd be able to make quite some progress regardless, with your sleeping face as my motivation.”
+（……さらっと、こっちがドキドキすること言うなぁ）=(...She says heart pounding stuff like that so easily.)
+「ふぅー、[H名]が隣にいると思うと、寝てる暇なんかなかったね」=“Fuuh~, when I thought about how you were right next to me, any leisure to take a nap just disappeared.”
+「えっ、それはどういう？　からかうのはやめてください……て、照れてしまいます」=“Eh--, what do you mean by that? Please don't tease me... y-you'll make me blush.”
+「はは、さっきのお返し。勉強中、俺もずっとドキドキしてたんだからね」=“Hahah, a bit of tit-for-tat. My heart was pounding the whole time too, you know?”

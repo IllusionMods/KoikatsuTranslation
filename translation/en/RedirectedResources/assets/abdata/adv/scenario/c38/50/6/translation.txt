@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「はい、別に構いませんが、どちらに行かれるのですか？」=
-//「ふふーん、ナイショ。わからない方が楽しめるでしょ？」=
-//「もう、変なところに連れていかないでくださいね？　貴方を信用して付いていくのですから」=
+「はい、別に構いませんが、どちらに行かれるのですか？」=“Yes, I do not mind but, where shall we be going?”
+「ふふーん、ナイショ。わからない方が楽しめるでしょ？」=“Fufuhn~, that's a secret. It's more fun when it's a mystery, no?”
+「もう、変なところに連れていかないでくださいね？　貴方を信用して付いていくのですから」=“Jeez, please don't take me anywhere strange, okay? I'm only coming because I trust you.”

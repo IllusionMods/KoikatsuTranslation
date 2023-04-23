@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「こ、これが……ラブホテル……初めて来ました」=
-//「どう？　わりと綺麗だよね？」=
-//「はい、綺麗なのは勿論なのですが……雰囲気が独特といいますか……」=
-//「う、うん……やっぱりその、ムードが大事だからね」=
-//「で、ですよねっ！　決してムードを崩さぬよう、頑張らせて頂きますっ！」=
-//「ちょっ、落ち着いて！　まずは二人で、深呼吸しようか？」=
+「こ、これが……ラブホテル……初めて来ました」=“T-This is... a love hotel... it is my first time.”
+「どう？　わりと綺麗だよね？」=“How is it? Surprisingly pretty, isn't it?”
+「はい、綺麗なのは勿論なのですが……雰囲気が独特といいますか……」=“Yes, it definitely is quite lovely but... the atmosphere feels quite, 'unique'...?”
+「う、うん……やっぱりその、ムードが大事だからね」=“Y-Yeah... since, you know, the mood's important and all.”
+「で、ですよねっ！　決してムードを崩さぬよう、頑張らせて頂きますっ！」=“R-Right--! I shall do my very best, as to not ruin the mood--!”
+「ちょっ、落ち着いて！　まずは二人で、深呼吸しようか？」=“Hey--, relax! Why don't we take some deep breaths together first?”

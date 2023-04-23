@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「なんだか頬が、緩んでしまいます……あまりこちらを、見ないでくださいね？」=
-//「えっ、それは無理だよ。デートしてるんだし」=
-//「ごめんね。ずっと話してただけで……もうちょっと何かすれば良かったね」=
-//「いいえ、とても満ち足りた時間でしたよ。ずっと続いて欲しいと、思ってしまうくらい」=
+「なんだか頬が、緩んでしまいます……あまりこちらを、見ないでくださいね？」=“I can't help but, grin... please do not look too much at my face, okay?”
+「えっ、それは無理だよ。デートしてるんだし」=“Eh--, that's not doable. We're on a date.”
+「ごめんね。ずっと話してただけで……もうちょっと何かすれば良かったね」=“I'm sorry, we just ended up chatting the whole time, didn't we... maybe we should have done something nicer.”
+「いいえ、とても満ち足りた時間でしたよ。ずっと続いて欲しいと、思ってしまうくらい」=“Not at all, that was very fulfilling for me. So much so, I wanted it to continue on forever.”

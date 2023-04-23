@@ -1,18 +1,18 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「はぁ……たくさん歌いましたね。もうすぐ時間のようですが、この後はどういたしますか？」=
-//CHOICE:『延長して、もうちょっと歌いたいな』=
-//CHOICE:『帰る仕度をしよっか』=
-//「[H名]がよければ、延長したいな。今日はとことん歌いたい気分」=
-//「ふふ、それでは延長の電話を入れておきますね。あ、もちろん私もお付き合いしますよ」=
-//「ありがと。それじゃ、延長戦もはりきってこー！」=
-//「うーん、とりあえずカラオケは終わりにして、駅まで行こっか」=
-//「では、早めに帰り仕度をいたしましょうか。軽くお掃除もしておきたいですし」=
-//「はは、そこまでしなくても。店員さんの仕事が無くなっちゃうよ？」=
-//「いい時間だし、あと一曲歌ったら帰る支度をしよっか」=
-//「というわけでリクエスト！　初めてカラオケに来た時、歌ってもらったあの曲を聞きたいな」=
-//「え、最後が私ですか？　うぅぅ、仕方ないですね、貴方のリクエストであれば……」=
-//「やった！　合いの手とか考えてきたから、盛り上げはまかせて！」=
-//『もしも今 背中に羽が生えて 大空自由に 飛び回れたら～♪』=
-//「[H名]、[H名]、カワイイ！　超絶・ラブリー！」=
+「はぁ……たくさん歌いましたね。もうすぐ時間のようですが、この後はどういたしますか？」=“Haah... we sung quite a bit, didn't we? Our time seems to be almost up, what would you like to do?”
+CHOICE:『延長して、もうちょっと歌いたいな』=I wanna extend it a bit, I could do it a bit more singing.
+CHOICE:『帰る仕度をしよっか』=Let's get ready to go home then.
+「[H名]がよければ、延長したいな。今日はとことん歌いたい気分」=“If it's alright with you, I'd like to extend it. I'm in the mood to just sing my heart out today.”
+「ふふ、それでは延長の電話を入れておきますね。あ、もちろん私もお付き合いしますよ」=“Fufuh, I'll put in the call for an extension then. Ah, of course, I shall join you as well.”
+「ありがと。それじゃ、延長戦もはりきってこー！」=“Thanks. Well then, let's make good use of this extra innings!”
+「うーん、とりあえずカラオケは終わりにして、駅まで行こっか」=“Nnn, let's quit karaoke for today and head back to the station.”
+「では、早めに帰り仕度をいたしましょうか。軽くお掃除もしておきたいですし」=“Well then, let's get ready to head out right away then. I would like to clean up after us a bit, you see.”
+「はは、そこまでしなくても。店員さんの仕事が無くなっちゃうよ？」=“Hahah, you don't need to go that far. The staff's gonna be out of a job, you know?”
+「いい時間だし、あと一曲歌ったら帰る支度をしよっか」=“It's a good time to stop, let's sing one more song then head out.”
+「というわけでリクエスト！　初めてカラオケに来た時、歌ってもらったあの曲を聞きたいな」=“And so, I've a song request! I want to hear you sing the song you sang for me when we first came here.”
+「え、最後が私ですか？　うぅぅ、仕方ないですね、貴方のリクエストであれば……」=“Eh, you want me to sing the last one? Uuuu, it can't be helped, I can't say no when it's you...”
+「やった！　合いの手とか考えてきたから、盛り上げはまかせて！」=“Yay! I've already come up with some nice side sound effects, so leave the mood to me!”
+『もしも今 背中に羽が生えて 大空自由に 飛び回れたら～♪』=『If only I could, sprout wings from my back, and fly freely, in this wide open sky~♪』
+「[H名]、[H名]、カワイイ！　超絶・ラブリー！」=“[H名], [H名], you're adorable, my love! Super - lovely~!”

@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「はぁ、とうとうデートですね……休日に、貴方と二人きり……想像しただけで、幸せな時間です」=
-//「うん、絶対楽しいデートにするから！」=
-//「よ、よろしくお願いします！　私も、色々と準備をしておきますね」=
+「はぁ、とうとうデートですね……休日に、貴方と二人きり……想像しただけで、幸せな時間です」=“Haah, it's finally time for us to have a date... our day off, together... just thinking about it, is making me happy.”
+「うん、絶対楽しいデートにするから！」=“Don't worry, I'll definitely make you enjoy yourself!”
+「よ、よろしくお願いします！　私も、色々と準備をしておきますね」=“A-Alright, please! I'll prepare, quite some things as well on my end.”

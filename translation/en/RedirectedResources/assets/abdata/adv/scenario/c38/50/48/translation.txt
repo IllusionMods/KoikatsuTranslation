@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「ふふ、とてもお上手なんですね……また是非、誘って頂けると嬉しいです」=
+「ふふ、とてもお上手なんですね……また是非、誘って頂けると嬉しいです」=“Fufuh, you're just amazing at this, aren't you... I hope you ask me, again.”

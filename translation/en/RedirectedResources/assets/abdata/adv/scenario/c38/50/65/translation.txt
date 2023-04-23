@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「なんだか、雲の上を歩いているような……ふふ、落ち着きませんね」=
-//「大丈夫？　一緒に帰るの、迷惑だった？」=
-//「そ、そんなことはありません！　むしろ光栄です！　今のはその、好意的な意味に捉えて頂けると……」=
+「なんだか、雲の上を歩いているような……ふふ、落ち着きませんね」=“I almost feel as if, I'm walking on clouds... fufuh, I can't quite calm down.”
+「大丈夫？　一緒に帰るの、迷惑だった？」=“You alright? Is it a bother? Should I not have asked?”
+「そ、そんなことはありません！　むしろ光栄です！　今のはその、好意的な意味に捉えて頂けると……」=“N-Not at all! If anything, I'm honoured! I meant that last one, in a positive manner so...”

@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「あ、おはようございます。本日も、よろしくお願いいたします」=
+「あ、おはようございます。本日も、よろしくお願いいたします」=“Ah, good morning. Let's have another good day.”

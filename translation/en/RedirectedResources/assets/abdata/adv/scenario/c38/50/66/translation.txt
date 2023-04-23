@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「緑を見ると落ち着きますね。ドキドキが、収まっていくようです」=
-//「俺と帰ると、ドキドキするんだ？」=
-//「へっ、えっ？　そ、それは、まぁ……男性と二人きりというのは、何かと刺激的なことが多くて」=
-//「はは、実を言うと、俺もドキドキしてるんだけどねっ！」=
-//「そ、そうなのですか？　ふふ、それでは、一緒に緑を見ましょうか。きっと落ち着きますよ」=
+「緑を見ると落ち着きますね。ドキドキが、収まっていくようです」=“Seeing this greenery is quite calming, isn't it? It almost makes my, pounding heart settle down.”
+「俺と帰ると、ドキドキするんだ？」=“Your heart pounds when you walk home with me?”
+「へっ、えっ？　そ、それは、まぁ……男性と二人きりというのは、何かと刺激的なことが多くて」=“Heh--, Eh--? T-That's, well... being alone with a man, brings with it quite the share of stimulating things, so.”
+「はは、実を言うと、俺もドキドキしてるんだけどねっ！」=“Hahah, well to be honest, my heart's pounding too--!”
+「そ、そうなのですか？　ふふ、それでは、一緒に緑を見ましょうか。きっと落ち着きますよ」=“R-Really? Fufuh, why don't we enjoy the greenery together then? I'm sure it'll help us relax.”
