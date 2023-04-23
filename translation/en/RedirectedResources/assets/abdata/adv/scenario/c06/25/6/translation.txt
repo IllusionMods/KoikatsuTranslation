@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「かしこまりました。どちらに向かわれるのですか？」=
-//「まだナイショ」=
-//「何やら嫌な予感しかいたしませんが、貴方を信じて付いて行きます」=
+「かしこまりました。どちらに向かわれるのですか？」=“I understand. Where will we be going?”
+「まだナイショ」=“You're just gonna have to see for yourself.”
+「何やら嫌な予感しかいたしませんが、貴方を信じて付いて行きます」=“As a woman, I cannot help but have a bad premonition, yet I will trust in you and follow you.”

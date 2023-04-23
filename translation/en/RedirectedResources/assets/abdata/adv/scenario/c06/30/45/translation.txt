@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「初恋の相手に処女を散らしていただけるなんて、私は果報者ですね……」=
+「初恋の相手に処女を散らしていただけるなんて、私は果報者ですね……」=“What a lucky woman I am, to have my virginity taken by my first and only love...”

@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「……この埋め合わせは、今度の逢引の時にでもしていただきますからね？」=
+「……この埋め合わせは、今度の逢引の時にでもしていただきますからね？」=“...I shall have you make it up to me for this, on our next tryst, alright?”

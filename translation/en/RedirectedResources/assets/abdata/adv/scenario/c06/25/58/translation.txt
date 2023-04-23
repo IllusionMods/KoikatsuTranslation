@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「お早う御座います。今日も私の知らない場所に連れていってくださるのですか？」=
-//「うん、そう言われると思って、色々考えてきたよ。早速行こう！」=
-//「はい♪　貴方のような素敵な殿方とお出かけできるなんて、私は幸せ者ですね」=
-//「こういうの好きだと思って」=
-//「こんなところがあったのですね……これから通うようにいたします♪」=
+「お早う御座います。今日も私の知らない場所に連れていってくださるのですか？」=“Good morning. Will you show me yet another place I am still unaware of, today?”
+「うん、そう言われると思って、色々考えてきたよ。早速行こう！」=“Yep, I knew you'd ask me that, so I gave it quite some thought. Let's go!”
+「はい♪　貴方のような素敵な殿方とお出かけできるなんて、私は幸せ者ですね」=“Yes♪ To think I get to go on an outing with such a wonderful man, how blessed am I~”
+「こういうの好きだと思って」=“What do you think? I thought you'd like it here.”
+「こんなところがあったのですね……これから通うようにいたします♪」=“A place like this exists in this world, huh... I shall try to visit it on my own time as well♪”

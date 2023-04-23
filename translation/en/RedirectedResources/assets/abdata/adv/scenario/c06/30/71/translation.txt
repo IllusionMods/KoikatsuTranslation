@@ -1,11 +1,11 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//（選択式の穴埋め問題……順調みたいだな）=
-//「はい、終わりー」=
-//「ふぅ……今回は自信がございます。もしかしたら満点かもしれません」=
-//「どれどれ……うんうん、うんうん……あ、ここ間違えてる。現在完了形だよ」=
-//「え……あっ！　うう、口惜しいです……」=
-//「でも、それ以外は全部合ってるよ。短期間ですごく上達したね」=
-//「親身になって勉強を見てくださる貴方のお陰です。至らない恋人で……本当に恥ずかしいです」=
-//「そんなことないよ。恋人は持ちつ持たれつって言うし、次は俺の国語を見てもらおうかな」=
+（選択式の穴埋め問題……順調みたいだな）=(She seems to be... doing alright at that MCQ Fill in the Blank set.)
+「はい、終わりー」=“Alright, time's up.”
+「ふぅ……今回は自信がございます。もしかしたら満点かもしれません」=“Fuh... I have some confidence this time. It may even be a perfect showing.”
+「どれどれ……うんうん、うんうん……あ、ここ間違えてる。現在完了形だよ」=“Let's see here... yepyep, alright... ah, this one's wrong. It should be present perfect.”
+「え……あっ！　うう、口惜しいです……」=“Eh... ah--! Uuu, how mortifying...”
+「でも、それ以外は全部合ってるよ。短期間ですごく上達したね」=“But, all the others are correct. You've improved a lot in this short time.”
+「親身になって勉強を見てくださる貴方のお陰です。至らない恋人で……本当に恥ずかしいです」=“It's all thanks to your tender guidance. It is truly embarrassing, to be such an... inadequate partner.”
+「そんなことないよ。恋人は持ちつ持たれつって言うし、次は俺の国語を見てもらおうかな」=“Not at all. Love is all about give-and-take, afterall. On that note, guess I'll have you help me with my Japanese next.”

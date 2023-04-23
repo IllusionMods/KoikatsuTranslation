@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「あ、もうこんな時間か。[H名]と話すと上手に受け答えしてくれるから、時間を忘れちゃったよ」=
-//「ふふ、光栄でございます。そろそろ参りますか？」=
-//「だね。会計は一緒でいいよね？」=
-//「あ、いえ。お小遣いはいただいておりますので、どうか私の分は――」=
-//「いいよ。男なんだから俺に払わせてよ」=
-//「……はい。では、ご馳走になります」=
-//（[H名]、明らかに嬉しそうだな。これからもコイカツで男を磨いていかないと）=
+「あ、もうこんな時間か。[H名]と話すと上手に受け答えしてくれるから、時間を忘れちゃったよ」=“Ah, it's already this late, huh? You're such a good talker, [H名], I completely forgot the time.”
+「ふふ、光栄でございます。そろそろ参りますか？」=“Fufuh, I am honoured. Shall we set off?”
+「だね。会計は一緒でいいよね？」=“Yeah. You don't mind me paying, right?”
+「あ、いえ。お小遣いはいただいておりますので、どうか私の分は――」=“Ah, no. I am given an allowance precisely for times such as these, so please let me pay for--”
+「いいよ。男なんだから俺に払わせてよ」=“It's fine. I'm a man, let me pay.”
+「……はい。では、ご馳走になります」=“...Yes. I accept this treat then.”
+（[H名]、明らかに嬉しそうだな。これからもコイカツで男を磨いていかないと）=(Even I can tell she's beaming about that. I'll have to become even more of a man through the club, for her.)

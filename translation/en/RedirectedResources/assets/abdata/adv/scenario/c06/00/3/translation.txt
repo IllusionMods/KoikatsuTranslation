@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「一緒に、ですか？　電車通学なので、駅前までで宜しければご一緒させてください」=
-//「もちろん。駅まで送っていくよ」=
-//「うふふ、ありがとうございます。では、鞄を取ってきますね」=
+「一緒に、ですか？　電車通学なので、駅前までで宜しければご一緒させてください」=“Together, you say? I travel by train, so if you're fine with accompanying me to the station, then by all means, please.”
+「もちろん。駅まで送っていくよ」=“Of course. I'll see you off at the station.”
+「うふふ、ありがとうございます。では、鞄を取ってきますね」=“Ufufuh, thank you very much. Well then, I shall fetch my bag.”

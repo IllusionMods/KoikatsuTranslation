@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「貴方様がお側にいてくださるだけで幸せなのに、こんなものまで……有難く頂戴いたします」=
+「貴方様がお側にいてくださるだけで幸せなのに、こんなものまで……有難く頂戴いたします」=“Just being by your side is more than enough happiness for me, and yet you... I shall gratefully accept.”

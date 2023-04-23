@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「お早う御座います。あまり破廉恥なことばかり考えてはいけませんよ？」=
+「お早う御座います。あまり破廉恥なことばかり考えてはいけませんよ？」=“Good morning. I hope your mind is not full of only lewd fantasies?”

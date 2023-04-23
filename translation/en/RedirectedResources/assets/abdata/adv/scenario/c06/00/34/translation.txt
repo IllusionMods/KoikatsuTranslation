@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「私のためにわざわざ有難く存じます。お返しは何が良いでしょう……」=
+「私のためにわざわざ有難く存じます。お返しは何が良いでしょう……」=“You needn't have gone out of your way for me. However should I repay you for this...”

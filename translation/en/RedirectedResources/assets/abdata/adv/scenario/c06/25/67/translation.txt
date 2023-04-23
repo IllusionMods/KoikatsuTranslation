@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「申し訳ございません、無理を言って寄り道させていただいて……」=
-//「そんな大げさなことじゃないよ。むしろ、公園でよかったの？　何もないけど」=
-//「ええ。子供や主婦の伸びやかな声に耳を傾けながら、ゆったりと流れる時間に身を任せるのが好きなんです」=
-//「常に礼儀やお作法などに気を張っているので、何もしないで素の自分でいることが心のお洗濯になります」=
-//（素の[H]か……そんなところを見せるぐらい、俺に気を許してくれているんだな……）=
+「申し訳ございません、無理を言って寄り道させていただいて……」=“Forgive me, for forcing you to make a detour here for my sake...”
+「そんな大げさなことじゃないよ。むしろ、公園でよかったの？　何もないけど」=“It's really not that big a deal. Rather, you sure the park's alright? There's like nothing here.”
+「ええ。子供や主婦の伸びやかな声に耳を傾けながら、ゆったりと流れる時間に身を任せるのが好きなんです」=“Yes. I really like to just entrust my body to the gentle flow of time while listening to the carefree noises of children or the voices of housewives.”
+「常に礼儀やお作法などに気を張っているので、何もしないで素の自分でいることが心のお洗濯になります」=“I always have to keep manners and etiquette in mind, so simply doing nothing and spending some time as my inner self feels heart-cleansing.”
+（素の[H]か……そんなところを見せるぐらい、俺に気を許してくれているんだな……）=(Her inner self, huh... she's let down her shields around me that much, huh...)

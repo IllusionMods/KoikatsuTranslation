@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「ひっ……これはその、なんと申し上げたらよいのか……」=
+「ひっ……これはその、なんと申し上げたらよいのか……」=“Hih--... this is, uhm, how do I even begin to explain myself...”

@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「ええ、ご一緒いたします。ちょうど、英語で聞きたいところがありましたので」=
-//「そう言えば英語が苦手って言ってたっけ？」=
-//「英語だけは駄目なんです。どうか、ご指導ご鞭撻の程よろしくお願いいたします」=
+「ええ、ご一緒いたします。ちょうど、英語で聞きたいところがありましたので」=“Yes, I shall join you. It is quite fortuitous timing too, as I had some questions regarding our English studies to ask you.”
+「そう言えば英語が苦手って言ってたっけ？」=“Right, your English isn't that good, is it?”
+「英語だけは駄目なんです。どうか、ご指導ご鞭撻の程よろしくお願いいたします」=“Yes, it is the one subject I am incompetent at. Please, give me your guidance and encouragement.”

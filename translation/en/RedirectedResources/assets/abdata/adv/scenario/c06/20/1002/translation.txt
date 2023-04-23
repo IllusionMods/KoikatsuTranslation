@@ -1,20 +1,20 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「[H名]のウェディングドレス姿って、どんな感じなんだろう……」=
-//（いや、それより[H名]……俺との結婚を意識してるって言ってたな……気にするなって言われたけど、そんなの無理だよ）=
-//（俺は……まだ学生だし、[H名]との結婚なんて、あまり意識してなかった）=
-//（でも、[H名]がずっとしてたなら、知らず知らずのうちに悲しいを想いをさせてたんじゃ……）=
-//（おっと、もう行かないと。ちょうどいい機会だから、俺も[H名]と結婚することを前提にして、模擬挙式に臨んでみよう）=
-//（でも、考えてみれば[H名]の尽くしっぷりは、彼氏というより、夫に対するそれだもんな……）=
-//（俺はそれに見合うことを[H名]にしてあげられてたかな……）=
-//（ふぅ……ひとまず形にはなってたかな。[H名]の花婿らしく、この後も頑張ろう）=
+「[H名]のウェディングドレス姿って、どんな感じなんだろう……」=“I wonder what she's gonna look like, in a dress...”
+（いや、それより[H名]……俺との結婚を意識してるって言ってたな……気にするなって言われたけど、そんなの無理だよ）=(No, forget that... she said she was thinking as far as marriage, didn't she... she told me not to worry about it, but how am I supposed to do that?)
+（俺は……まだ学生だし、[H名]との結婚なんて、あまり意識してなかった）=(I am... still a student. I never took the idea of marrying her, all that seriously.)
+（でも、[H名]がずっとしてたなら、知らず知らずのうちに悲しいを想いをさせてたんじゃ……）=(But, if she's been thinking of it this whole time, then maybe I've been causing her pain without knowing...)
+（おっと、もう行かないと。ちょうどいい機会だから、俺も[H名]と結婚することを前提にして、模擬挙式に臨んでみよう）=(Oh, I gotta go. This is a good chance. Let's just do this whole thing, while thinking of our own potential marriage together.)
+（でも、考えてみれば[H名]の尽くしっぷりは、彼氏というより、夫に対するそれだもんな……）=(But, the way she serves me, and looks after me. You wouldn't really do that for just a boyfriend, would you? Only a husband...)
+（俺はそれに見合うことを[H名]にしてあげられてたかな……）=(I wonder if I've ever, even once, done anything deserving of something like that, for [H名]...)
+（ふぅ……ひとまず形にはなってたかな。[H名]の花婿らしく、この後も頑張ろう）=(Fuuh... well, at the very least, I should have walked that walk properly. Gotta keep doing my best, as her groom.)
 モブ=Mob
 「これより新婦が入場致します。後方の扉口をご覧ください」=“And now, the bride will make her entrance. Please pay attention to the main door.”
 （[H名]……）=([H名]...)
-//いつもは和のテイストが強い[H名]は、見事にウェディングドレスを着こなしていた。=
-//テイストが１８０度変わっても、彼女の楚々とした雰囲気は変わらず、淑女らしい気品に満ちていて、ドキドキする。=
-//緊張した様子もなく、佇む姿に俺はただ目を奪われてしまう。=
-//（……こういうことを『惚れ直す』って言うんだろうな）=
-//「[H名]のウェディングドレス姿……はっきり言って、最高だよ」=
-//「貴方も素敵です。はっきり言って、最高でございます」=
+いつもは和のテイストが強い[H名]は、見事にウェディングドレスを着こなしていた。=[H名], who always exuded a Japanese aura, pulled off that wedding dress splendidly.
+テイストが１８０度変わっても、彼女の楚々とした雰囲気は変わらず、淑女らしい気品に満ちていて、ドキドキする。=With her graceful atmosphere unchanged, even with her aura shifted 180 degrees, the ladylike elegance she exuded had my heart pounding.
+緊張した様子もなく、佇む姿に俺はただ目を奪われてしまう。=I lost myself, to the sight of her simply standing there, not a hint of nervousness in her.
+（……こういうことを『惚れ直す』って言うんだろうな）=(... This is probably what people mean, when they say they've fallen for someone again, huh?)
+「[H名]のウェディングドレス姿……はっきり言って、最高だよ」=“You, in that wedding dress... I'll be honest, you look simply stunning.”
+「貴方も素敵です。はっきり言って、最高でございます」=“You love wonderful as well. Being honest, you look simply stunning.”

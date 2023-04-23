@@ -1,14 +1,14 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「貴方の特徴についてお話がございます」=
-//「特徴？　どんなところ？」=
-//「破廉恥なところです」=
-//「あっ、えっと……ごめんなさい」=
-//「うふふ、謝る必要はございません。むしろ、私が貴方に謝らなくてはなりません」=
+「貴方の特徴についてお話がございます」=“I would like to chat with you in regards to your own qualities?”
+「特徴？　どんなところ？」=“My qualities? What sort?”
+「破廉恥なところです」=“The perverted ones.”
+「あっ、えっと……ごめんなさい」=“Ah--, erhm... I apologize.”
+「うふふ、謝る必要はございません。むしろ、私が貴方に謝らなくてはなりません」=“Ufufuh, there is no reason for you to. If anything, I should be the one apologizing.”
 「え……？」=“Eh...?”
-//「昨晩、貴方の特徴について祖母に相談したのですが、それが殿方だということを教わりました」=
-//「私、本当に不勉強で……今までの貴方への接し方について、反省する点がいくつもございます」=
-//「い、いや、全然大丈夫だよ。俺もやりすぎた時とかあったと思うし」=
-//「ええ。全ての物事には限度というものがございますから、それだけは今後も気を付けていただきます」=
-//「ですが、貴方に対する理解は深まりました。至らない身ではございますが、今後ともよろしくお願いいたします」=
+「昨晩、貴方の特徴について祖母に相談したのですが、それが殿方だということを教わりました」=“Yesterday evening, I spoke to my grandmother, about your 'qualities' as they are, and I was quickly educated that that is what a man is.”
+「私、本当に不勉強で……今までの貴方への接し方について、反省する点がいくつもございます」=“I truly am unlearned... so many times, in my attempts to communicate with you, I have erred. So many things I must reflect upon.”
+「い、いや、全然大丈夫だよ。俺もやりすぎた時とかあったと思うし」=“N-No, it's completely fine. I think I went pretty overboard at times myself too.”
+「ええ。全ての物事には限度というものがございますから、それだけは今後も気を付けていただきます」=“Yes. One must act with proper moderation with respect to all things, so please contain yourself atleast a bit from hereon out.”
+「ですが、貴方に対する理解は深まりました。至らない身ではございますが、今後ともよろしくお願いいたします」=“However, I feel that I do understand you at a deeper level now. I am not without faults as a woman myself, certainly I do have a lot of them, but please do continue as you have with me.”

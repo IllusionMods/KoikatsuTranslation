@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「お邪魔いたします……まあ、避妊具がそんなにわかりやすい場所に……ううふ♡」=
-//「いいかな？」=
-//「ええ、貴方のお心のままに……♡」=
+「お邪魔いたします……まあ、避妊具がそんなにわかりやすい場所に……ううふ♡」=“Do excuse me... my, leaving the contraceptives in such a visible place... ufufuh~♡”
+「いいかな？」=“Do you mind?”
+「ええ、貴方のお心のままに……♡」=“Not at all, whatever you desire...♡”

@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「な、ななっ！？　何を、何をしていらっしゃるのですかっ！？」=
+「な、ななっ！？　何を、何をしていらっしゃるのですかっ！？」=“W-Wh-Wha--?! What are, what are you doing--?!”

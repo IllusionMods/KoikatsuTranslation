@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「貴方さえ良ければ、入部させていただきますけど……」=
-//「あ、ノリ気じゃなかった？」=
-//「いえ、決してそのようなことは。ただ、私は恋活部を盛り上げられるほどの器かと不安になりました」=
-//「そんなこと気にしなくていいのに。コイカツ部は基本的にマンツーマンなんだから」=
-//「俺はもっときみと話したいから入ってほしいって思ったんだ」=
-//「……うふふ。わかりました。そこまで仰っていただけるなら、私に否やはございません」=
-//「やった！　これからもよろしくね！」=
+「貴方さえ良ければ、入部させていただきますけど……」=“If that's what you desire, then I do not mind joining, however...”
+「あ、ノリ気じゃなかった？」=“Ah, you don't need to force yourself, you know?”
+「いえ、決してそのようなことは。ただ、私は恋活部を盛り上げられるほどの器かと不安になりました」=“No, I am not doing anything of the sort. It's just that, I do wonder if I'm really qualified, to support you in that capacity.”
+「そんなこと気にしなくていいのに。コイカツ部は基本的にマンツーマンなんだから」=“You really don't need to worry about that. It's mostly just going to be between you and me, so.”
+「俺はもっときみと話したいから入ってほしいって思ったんだ」=“I just want to chat with you more, that's why I wanted you to join.”
+「……うふふ。わかりました。そこまで仰っていただけるなら、私に否やはございません」=“...Ufufuh. I understand. I suppose I have no objections at all then.”
+「やった！　これからもよろしくね！」=“Yay! Alright, glad to have you on board!”

@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「お早う御座います。本日も清々しい朝ですね」=
+「お早う御座います。本日も清々しい朝ですね」=“Good morning. Quite the brisk morning today as well, wouldn't you agree?”

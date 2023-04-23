@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「贈り物……私にですか？　殿方からそのようなものをもらったのは初めてです」=
+「贈り物……私にですか？　殿方からそのようなものをもらったのは初めてです」=“A present... for me? It is my first time receiving such a thing from a man.”

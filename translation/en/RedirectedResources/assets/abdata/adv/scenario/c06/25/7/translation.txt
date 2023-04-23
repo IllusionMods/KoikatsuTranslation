@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「……私も貴方のことを憎からず想っておりました」=
-//「にく？　肉、からず？」=
-//「……貴方にはもっと、日本語が持つ恥じらいを理解していただかないといけないようですね」=
-//「え…あの、俺、なんかまずいこと言ったかな」=
-//「いいえ、ただの独り言です。貴方に合わせて直接的な表現で述べます。私も貴方のことを愛しております」=
-//「ハッ、もしかしてさっきの肉、なんとかって、今夜は月が綺麗ですね的な……」=
-//「無粋な人ですね……でも、そういう肩肘を張らない関係に憧れたのかもしれませんね」=
+「……私も貴方のことを憎からず想っておりました」=“...I do have tender passions for you as well.”
+「にく？　肉、からず？」=“...I'm sorry, what?”
+「……貴方にはもっと、日本語が持つ恥じらいを理解していただかないといけないようですね」=“...It seems that I'll have to help you comprehend the subtleness Japanese holds in greater detail.”
+「え…あの、俺、なんかまずいこと言ったかな」=“Eh... uhm, did I like mess something up, or something?”
+「いいえ、ただの独り言です。貴方に合わせて直接的な表現で述べます。私も貴方のことを愛しております」=“No, I was simply speaking to myself. I shall state it in a more direct way for you. I harbour deep love for you as well.”
+「ハッ、もしかしてさっきの肉、なんとかって、今夜は月が綺麗ですね的な……」=“Hah--, was that expression from before like, something similar to like "The moon sure is beautiful tonight" and whatnot?...”
+「無粋な人ですね……でも、そういう肩肘を張らない関係に憧れたのかもしれませんね」=“Such an unrefined man... and yet, perhaps it is exactly this sort of frank relationship, that I have always dreamed of.”

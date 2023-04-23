@@ -1,11 +1,11 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「恋活部の活動を続けて行くと、私はどのような女になるのでしょうか」=
-//「どのような……うーん。とりあえず、男性に対しての免疫はつくよね」=
-//「こうなってほしい、というような指針はございますか？」=
-//「うーん、こうなってほしい……か」=
-//「きみの良いところはお淑やかなところだから、それを保ったまま、男性の心の機微を掴めたらいいのかなぁ」=
-//「私の長所はお淑やかなところなのですね。それを自覚できただけでも一歩踏み出せたような気がいたします」=
-//（そっか。異性に免疫がないっていうのは、自分の何が異性に受けるのか分からないってことだよな）=
-//「俺にとっても勉強になるな。二人で頑張っていこう」=
+「恋活部の活動を続けて行くと、私はどのような女になるのでしょうか」=“If I truly do devote myself to these activities, what sort of a woman will I become?”
+「どのような……うーん。とりあえず、男性に対しての免疫はつくよね」=“What sort of... Mmmm. Well, at the very least, you'll certainly become more accustomed to men.”
+「こうなってほしい、というような指針はございますか？」=“Is there any sort of ideal in your mind, that you would like for me to become?”
+「うーん、こうなってほしい……か」=“Nnnn, some sort of ideal... huh?”
+「きみの良いところはお淑やかなところだから、それを保ったまま、男性の心の機微を掴めたらいいのかなぁ」=“Let's see, your grace and refinedness is your best part so, if you could preserve that while learning to grasp the subtleties of the male heart, that'd be best~”
+「私の長所はお淑やかなところなのですね。それを自覚できただけでも一歩踏み出せたような気がいたします」=“My grace is a virtue, is it? I feel as though I've taken a step forward having just learned that.”
+（そっか。異性に免疫がないっていうのは、自分の何が異性に受けるのか分からないってことだよな）=(I see. I mean I guess if you aren't accustomed to the other gender you wouldn't get what it is that attracts them.)
+「俺にとっても勉強になるな。二人で頑張っていこう」=“This is gonna end up being pretty academic for me too. Let's do our best together.”

@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「こんなこと、命がいくつあっても足りません……今後は控えてくださいね……」=
+「こんなこと、命がいくつあっても足りません……今後は控えてくださいね……」=“For how much this takes, no amount of years in one's lifespan can be enough... please restrain yourself next time, okay?...”
