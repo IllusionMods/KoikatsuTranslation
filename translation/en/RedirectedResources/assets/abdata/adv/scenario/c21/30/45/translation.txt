@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「私の初めて……君がもらってくれて嬉しいよ」=
+「私の初めて……君がもらってくれて嬉しいよ」=“I'm glad... that you took my virginity.”

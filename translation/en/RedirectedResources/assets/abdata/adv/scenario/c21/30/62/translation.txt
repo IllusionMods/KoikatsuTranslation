@@ -4,10 +4,10 @@
 ………………=.........
 …………=......
 ……=...
-//「あ、それじゃあ私、こっちだから……」=
-//CHOICE:「……この後、家にこれないかな？」=
-//CHOICE:「じゃあ、またね」=
-//「あのさ、よかったら家に来ない？　まだ[H]といたいんだ」=
-//「え、いいの？　うん、行く行く！　私もまだ一緒にいたかったから、すっごく嬉しい♪」=
-//「あ、そっか。じゃあまたね！」=
-//「キミといると本当に時間がすぐ過ぎちゃう♪　またね、バイバイ♪」=
+「あ、それじゃあ私、こっちだから……」=“Ah, I'm this way so, I guess it's...”
+CHOICE:「……この後、家にこれないかな？」=...Won't you come to my place?
+CHOICE:「じゃあ、またね」=See ya then.
+「あのさ、よかったら家に来ない？　まだ[H]といたいんだ」=“Listen, won't you come over to my place? I want to be with you more still.”
+「え、いいの？　うん、行く行く！　私もまだ一緒にいたかったから、すっごく嬉しい♪」=“Eh, you sure? I wanna, I wanna! I want to be with you more too, so you just made me really happy~♪”
+「あ、そっか。じゃあまたね！」=“Ah, right. See ya later then!”
+「キミといると本当に時間がすぐ過ぎちゃう♪　またね、バイバイ♪」=“When you're with me time really does fly~♪ See you, byebye~♪”

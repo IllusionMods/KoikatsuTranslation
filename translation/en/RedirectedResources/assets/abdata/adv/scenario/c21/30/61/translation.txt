@@ -1,19 +1,19 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「あれ？　集合時間まだなのに……」=
-//「あはは、[H]こそ」=
-//「えへへ、お互いにすご～く楽しみだったんだね。それじゃ、一秒も無駄にできないね♡」=
-//「だね、じゃあ行こうか」=
-//「ねね、この服なんてどうかな？　あ、この服も…どっちが似合う？」=
-//「うーん…どっちもいいなぁ」=
-//「じゃあ、どっちも試着しちゃうから、それで決めてもらっちゃう♡」=
-//「あ、この服も[H]に似合いそう」=
-//「えぇっ、こんな大胆なの……でも、キミが言うなら、着てみよっかな…えへへ」=
-//「ごめんね、荷物持ちさせちゃって。でも、キミのお陰で今日はすごく楽しかったよ」=
-//CHOICE:「もう少し一緒にいたいな」=
-//CHOICE:「俺も楽しかったよ、それじゃあね」=
-//「もう少し一緒にいたいな」=
-//「あっ…えへへ、実は、ママに今日は遅くなるって、言ってあるんだ。だから、いいよ♡」=
-//「俺も楽しかったよ、それじゃあね」=
-//「うん、またこんなデートしようね♪　それじゃ、また学園でね！　ばいばい♪」=
+「あれ？　集合時間まだなのに……」=“Huh? But there's still so much time on the...”
+「あはは、[H]こそ」=“Ahahah, you're here early too, [H].”
+「えへへ、お互いにすご～く楽しみだったんだね。それじゃ、一秒も無駄にできないね♡」=“Eheheh, we were both really excited for today, huh~. I guess we can't waste even a second then♡”
+「だね、じゃあ行こうか」=“Yep, let's go.”
+「ねね、この服なんてどうかな？　あ、この服も…どっちが似合う？」=“Hey hey, how about this outfit? Ah, this one too... which looks better?”
+「うーん…どっちもいいなぁ」=“Nnn... both look nice~”
+「じゃあ、どっちも試着しちゃうから、それで決めてもらっちゃう♡」=“Okay, I'll try on both then, and you can pick♡”
+「あ、この服も[H]に似合いそう」=“Ah, I bet this'd look great on you too.”
+「えぇっ、こんな大胆なの……でも、キミが言うなら、着てみよっかな…えへへ」=“Eeh--, this is really bold though... but, since you like it, I guess I don't mind trying it on... eheheh~”
+「ごめんね、荷物持ちさせちゃって。でも、キミのお陰で今日はすごく楽しかったよ」=“I'm sorry, for making you carry all my stuff. But, thanks to you I had a blast today.”
+CHOICE:「もう少し一緒にいたいな」=I wanna be with you more.
+CHOICE:「俺も楽しかったよ、それじゃあね」=I had fun too, see ya.
+「もう少し一緒にいたいな」=“I wanna be with you more.”
+「あっ…えへへ、実は、ママに今日は遅くなるって、言ってあるんだ。だから、いいよ♡」=“Ah--... eheheh, I've actually told my mommy, that I'll come home late tonight. So sure♡”
+「俺も楽しかったよ、それじゃあね」=“I had fun too, see ya.”
+「うん、またこんなデートしようね♪　それじゃ、また学園でね！　ばいばい♪」=“Yep, let's go on another date soon♪ See you at school then! Byebye♪”

@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「えっと……ありがと。あんまり好みじゃないけど、そのうち愛着が湧く～……かな？」=
+「えっと……ありがと。あんまり好みじゃないけど、そのうち愛着が湧く～……かな？」=“Erhm... thanks. It's not something I like all that much but, I'm sure I'll grow attached to it soon~... I hope?”

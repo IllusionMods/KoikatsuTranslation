@@ -1,19 +1,19 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「あー、疲れた～。公園でこんなに遊ぶなんて、いつぶりかなぁ」=
-//「わかる♪　子供の頃に戻った感じで、時間を忘れちゃった……この感じ、なつかしいな～」=
-//（この夕日も、子供の頃によく見た色をしてる気がする……なんだか、寂しいな）=
-//（もうちょっと[H名]と一緒にいたいけど……疲れたから帰るって選択肢も……）=
-//CHOICE:『まだ時間ある？』=
-//CHOICE:『いい思い出ができたね』=
-//「小さい頃ならここでバイバイだったけど……まだ時間ある？」=
-//「え？　うん、今日は全然大丈夫な日だけど、どうしたの？」=
-//「もう一つ、[H名]と思い出を作りたいんだ。ちょっと付いて来て」=
-//（[H名]も疲れてるだろうし、今日は帰ろう）=
-//「そろそろ、帰ろうか。いい思い出ができたね」=
-//「うん……今日は、私のとっても大切な思い出になったよ。これからも、キミとこんな思い出を作っていけたら……う、嬉しいな♡」=
-//「作れるよ。俺、エッチなことばっかり考えてるけど、今日みたいに楽しいことも考えてるからさ……」=
-//「くすっ、わかってるよ。キミは本当にエッチな男の子だけど、本当に優しいし、本当に女の子のこと大切にしようとしてるって分かってるから」=
-//「……だから、これからもよろしくね、彼氏くん」=
-//「うん、[H名]が分かってくれてるなら、きっとずっと大丈夫だよ。これからもよろしく」=
+「あー、疲れた～。公園でこんなに遊ぶなんて、いつぶりかなぁ」=“Aah~, I'm beat~. I wonder how long it's been, since I ran around so much at a park~”
+「わかる♪　子供の頃に戻った感じで、時間を忘れちゃった……この感じ、なつかしいな～」=“I feel you♪ It felt like we returned to being kids there, for a bit... man, it feels so nostalgic~”
+（この夕日も、子供の頃によく見た色をしてる気がする……なんだか、寂しいな）=(This sunset too, I feel like it's the same color I used to see so much as a kid... feels kinda, sad.)
+（もうちょっと[H名]と一緒にいたいけど……疲れたから帰るって選択肢も……）=(I want to be with her a bit more but... we're tired, so going home is also...)
+CHOICE:『まだ時間ある？』=Still got time?
+CHOICE:『いい思い出ができたね』=We made some good memories, didn't we?
+「小さい頃ならここでバイバイだったけど……まだ時間ある？」=“If we were still kids, this would have been goodbye but... do you still have time?”
+「え？　うん、今日は全然大丈夫な日だけど、どうしたの？」=“Eh? Yep, I'm completely free today but, what's up?”
+「もう一つ、[H名]と思い出を作りたいんだ。ちょっと付いて来て」=“I want to make one more memory with you, [H名]. Come with me.”
+（[H名]も疲れてるだろうし、今日は帰ろう）=(I'm sure she's knacked too, let's just go home for today.)
+「そろそろ、帰ろうか。いい思い出ができたね」=“Let's go home, shall we? We made some good memories.”
+「うん……今日は、私のとっても大切な思い出になったよ。これからも、キミとこんな思い出を作っていけたら……う、嬉しいな♡」=“Yep... some really precious memories, to me. If we could keep making memories like this together... t-that'd make me pretty happy♡”
+「作れるよ。俺、エッチなことばっかり考えてるけど、今日みたいに楽しいことも考えてるからさ……」=“Of course. My mind's always full of just lewd stuff but, I can think of fun things too, every so often...”
+「くすっ、わかってるよ。キミは本当にエッチな男の子だけど、本当に優しいし、本当に女の子のこと大切にしようとしてるって分かってるから」=“*Giggle*, I know. You're a really lewd boy but, also very sweet. I can tell that you really try to be as gentle to girls as you can.”
+「……だから、これからもよろしくね、彼氏くん」=“...So, let's have a nice time together, okay? Mr. Boyfriend.”
+「うん、[H名]が分かってくれてるなら、きっとずっと大丈夫だよ。これからもよろしく」=“Yep, since you understand me, I'm sure we'll be fine for a long time. For a long, long time.”

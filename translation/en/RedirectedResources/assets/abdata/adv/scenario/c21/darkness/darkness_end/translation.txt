@@ -1,5 +1,5 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「あれ？　私たち何してたんだっけ？」=
-//「……おっかしいなぁ、思い出せない。ん～、モヤモヤするよ～」=
+「あれ？　私たち何してたんだっけ？」=“Huh? What were we doing just then?”
+「……おっかしいなぁ、思い出せない。ん～、モヤモヤするよ～」=“...So weird, I can't remember at all~. Nn~, it all feels like a bad dream~”

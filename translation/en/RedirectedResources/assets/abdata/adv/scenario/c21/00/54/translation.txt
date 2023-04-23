@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「ううっ……、ものすごく恥ずかしかったんだからね？　こんなの変態さんだよぉ」=
+「ううっ……、ものすごく恥ずかしかったんだからね？　こんなの変態さんだよぉ」=“Uuuu--... that was super embarrassing, okay? Only perverts do this~”

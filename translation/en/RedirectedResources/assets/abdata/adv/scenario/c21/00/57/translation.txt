@@ -1,13 +1,13 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「あ、やっほー…えと、今日の服、変じゃないかな？」=
-//「え？　全然…むしろ、すごく似合ってるよ」=
-//「えへへ、よかった♪　今日はぜんぶお任せでいいんだよね？」=
-//「うん、任せて」=
-//「お昼、おいしかったね～…あっ！　ねね、あのお店に入っていい？」=
-//「いいよ。時間はたっぷりあるから、行きたいところ全部行こう！」=
-//「うん！　えへへ、最初は緊張したけど、デートってすごく楽しいね！」=
-//（よし、好感触だ。このまま目いっぱい楽しんでもらおう！）=
-//「すごい…時間があ～っという間に過ぎちゃった」=
-//「まだ帰りたくないけど…また行けるよね？　それじゃ、バイバイ♪」=
+「あ、やっほー…えと、今日の服、変じゃないかな？」=“Ah, yahho~... erhm, my outfit isn't weird, is it?”
+「え？　全然…むしろ、すごく似合ってるよ」=“Eh? Not at all... if anything, you look adorable in it.”
+「えへへ、よかった♪　今日はぜんぶお任せでいいんだよね？」=“Eheheh, great♪ I can just leave it all to you today, right?”
+「うん、任せて」=“Yep, I'll escort you the whole time.”
+「お昼、おいしかったね～…あっ！　ねね、あのお店に入っていい？」=“That was delicious, wasn't it~... ah--! Hey hey, could we go check out that store?”
+「いいよ。時間はたっぷりあるから、行きたいところ全部行こう！」=“Sure. We've got lots of time so, let's go everywhere you want to!”
+「うん！　えへへ、最初は緊張したけど、デートってすごく楽しいね！」=“Okay! Eheheh, I was nervous at first but, dates are really fun, aren't they!”
+（よし、好感触だ。このまま目いっぱい楽しんでもらおう！）=(Alright, she likes it so far. Gonna make sure to show her a good time till the end!)
+「すごい…時間があ～っという間に過ぎちゃった」=“Amazing... the time flew by so~ fast.”
+「まだ帰りたくないけど…また行けるよね？　それじゃ、バイバイ♪」=“I don't want to go back home just yet but... we can just go on another date soon, right? See you later, byebye~♪”

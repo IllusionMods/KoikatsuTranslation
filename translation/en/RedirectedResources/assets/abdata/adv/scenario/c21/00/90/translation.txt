@@ -1,16 +1,16 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「ねね、キミと私がもっと仲良くなれる方法を思いついたんだけど、聞きたい？」=
-//「エッチなこと？」=
-//「も～、何でもそっちに結び付けるの禁止！　愛称、二人で呼び合うの」=
-//「あ、いいね！」=
-//「私はもう考えてきたんだ～。彼女が愛情たっぷりに呼んであげるね」=
+「ねね、キミと私がもっと仲良くなれる方法を思いついたんだけど、聞きたい？」=“Hey hey, I just came up with the best way for us to get more intimate, wanna hear it?”
+「エッチなこと？」=“Sex?”
+「も～、何でもそっちに結び付けるの禁止！　愛称、二人で呼び合うの」=“Jeez~, no more leading anything and everything to sex, you're forbidden! We're gonna call each other by nicknames instead.”
+「あ、いいね！」=“Ah, that sounds nice!”
+「私はもう考えてきたんだ～。彼女が愛情たっぷりに呼んであげるね」=“I've already thought of one for you~. Your cute girlfriend will call you it with tons of love packed in.”
 「[Pあだ名]」=[Pあだ名]
-//「おお……なんかいいね。あとすごく照れる」=
-//「ホント？　私のことも愛称で呼んでみて！」=
+「おお……なんかいいね。あとすごく照れる」=“Ooh... it feels kinda nice. And really embarrassing.”
+「ホント？　私のことも愛称で呼んでみて！」=“Really? Call me by one too!”
 「それじゃあ……[Hあだ名]」=“Well then... [Hあだ名]”
-//「あぅ……たしかに呼ばれるのもけっこう恥ずかしいね」=
-//「だけど、もっと仲良くなれた気がするね」=
-//「あ、うん……えへへ♪　キミさえよければ、また呼んでみてもいい？」=
-//「もちろん。たまに呼んだりしたら、ドキッとするかもね」=
+「あぅ……たしかに呼ばれるのもけっこう恥ずかしいね」=“Auu... for sure, being called by one feels pretty embarrassing too, huh?”
+「だけど、もっと仲良くなれた気がするね」=“But, it does feel like we got closer, doesn't it?”
+「あ、うん……えへへ♪　キミさえよければ、また呼んでみてもいい？」=“Ah, yep... eheheh♪ If it's alright with you, could we call each other that more?”
+「もちろん。たまに呼んだりしたら、ドキッとするかもね」=“Of course. If we call each other that every so often, we could make each other's hearts skip a beat.”

@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「見られながらでもシちゃうなんて……もう、こんな女の子にしたのはキミなんだからね……？」=
+「見られながらでもシちゃうなんて……もう、こんな女の子にしたのはキミなんだからね……？」=“To think I'd do it anyway even though you were looking... jeez, it's your fault that I'm like this, you know...?”

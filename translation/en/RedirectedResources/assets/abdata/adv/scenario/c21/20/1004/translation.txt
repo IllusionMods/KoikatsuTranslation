@@ -2,16 +2,16 @@
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
 モブ=Mob
-//「お疲れ様でした。ふふっ、素敵な式でしたよ」=
-//「本番の結婚式も、是非、私どもの式場で挙げてくださいね！」=
-//「えっと、前向きに考えさせてもらいます」=
-//「お願いします！　今日はお引き受けいただいて、ありがとうございました」=
-//「[H名]、お疲れ！　いやー、緊張したね」=
-//「本当？　私にはどっしりと構えた、素敵な旦那様に見えたよ♪」=
-//「それに……綺麗って言ってくれたから、自信ついちゃった……あっ、本当に信じていいんだよね？」=
-//「あははっ、バチがあたるからね。信じていいよ」=
-//「うん！　じゃあ、これは大きな大きな貸しね！」=
-//「貸し？」=
-//「うん、いつか、キミに大きな大きな恩返しをするから、楽しみにしててね！　それぐらい、嬉しかったの♪」=
-//「おぉ、じゃあ、楽しみにしてるよ」=
-//（最初はどうなることかと思ったけど、[H名]の自信に繋がったなら、よかった……）=
+「お疲れ様でした。ふふっ、素敵な式でしたよ」=“Good work today. Fufu~ It was a lovely ceremony.”
+「本番の結婚式も、是非、私どもの式場で挙げてくださいね！」=“For your actual wedding as well, please, do call upon us!”
+「えっと、前向きに考えさせてもらいます」=“Erhm, if we get to that point, sure.”
+「お願いします！　今日はお引き受けいただいて、ありがとうございました」=“Thank you! And for helping us out so much today as well, thank you very much!”
+「[H名]、お疲れ！　いやー、緊張したね」=“Good job hanging in there, [H名]! Man, that was very nerveracking, wasn't it?”
+「本当？　私にはどっしりと構えた、素敵な旦那様に見えたよ♪」=“Really? To me you were the very image of a composed, lovely husband~♪”
+「それに……綺麗って言ってくれたから、自信ついちゃった……あっ、本当に信じていいんだよね？」=“Not to mention... since you called me beautiful, I think I feel more confident now... ah--, I really can believe in that, right?”
+「あははっ、バチがあたるからね。信じていいよ」=“Ahahah--, I'd have gotten struck by lightning if it wasn't the truth. You can believe in it.”
+「うん！　じゃあ、これは大きな大きな貸しね！」=“Okay! I'll count it as a very, very big debt then!”
+「貸し？」=“A debt?”
+「うん、いつか、キミに大きな大きな恩返しをするから、楽しみにしててね！　それぐらい、嬉しかったの♪」=“Yep, one day, I'll repay it with tons and tons of interest so, look forward to it! That's just how happy it made me~♪”
+「おぉ、じゃあ、楽しみにしてるよ」=“Ooh, I'll do just that then.”
+（最初はどうなることかと思ったけど、[H名]の自信に繋がったなら、よかった……）=(It sounded a bit dodgy at first but, I'm glad, it helped her grow more confident...)

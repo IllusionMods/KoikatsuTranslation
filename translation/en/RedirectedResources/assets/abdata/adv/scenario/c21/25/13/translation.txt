@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「う、うん。いいよ……えへへ、何だか、照れるね」=
-//「じゃあ、色々考えておくね」=
-//「うん！　私も色々……準備しておかなくっちゃ♪」=
+「う、うん。いいよ……えへへ、何だか、照れるね」=“O-Okay. Sure... eheheh, I'm blushing, aren't I?”
+「じゃあ、色々考えておくね」=“I'll think of a bunch of stuff then.”
+「うん！　私も色々……準備しておかなくっちゃ♪」=“Okay! I also... gotta get a bunch of stuff ready♪”

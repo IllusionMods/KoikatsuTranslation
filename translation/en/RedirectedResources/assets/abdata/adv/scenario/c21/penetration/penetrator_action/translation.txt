@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「ごめんねっ、お邪魔だっていうのは分かってたんだけど、見てたら……我慢できなくてっ」=
+「ごめんねっ、お邪魔だっていうのは分かってたんだけど、見てたら……我慢できなくてっ」=“I'm sorry--, I know that I'm just getting in your way but, I just couldn't... hold it in after seeing you guys--”

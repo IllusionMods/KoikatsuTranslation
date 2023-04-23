@@ -1,14 +1,14 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「ねね、途中から隣りの人の歌声が聞こえなくなったんだけど、エッチしてたの気づかれちゃったかな」=
-//「普通に出ていっただけだと思うけど……心配ないよ」=
-//「そうだよね……あっ、電話鳴ってる！　もしもし――」=
-//「もう時間か。じゃあ帰る仕度をしないとな」=
-//（シた痕跡は……残ってない、大丈夫だ。忘れ物も……ないな。じゃあ後はお金を用意して、と）=
-//「よし、仕度できたよ……って、どうしたの？　少し顔赤いけど？」=
-//「えっと……電話の相手が、さっきの友達だったんだけど……」=
-//「黝子ちゃんだっけ？　ってことは……」=
-//「たぶん……お察しの通りです、はい……」=
-//「あはは……」=
-//（バレちゃってたか……）=
+「ねね、途中から隣りの人の歌声が聞こえなくなったんだけど、エッチしてたの気づかれちゃったかな」=“Hey hey, the sounds of music coming from the next room stopped while we were doing it, do you think they noticed us having sex?”
+「普通に出ていっただけだと思うけど……心配ないよ」=“I'm pretty sure they just left normally... don't worry.”
+「そうだよね……あっ、電話鳴ってる！　もしもし――」=“You're probably right... ah--, the phone's ringing! Hello--”
+「もう時間か。じゃあ帰る仕度をしないとな」=“Out of time, huh? Gotta get things cleaned up and head out then.”
+（シた痕跡は……残ってない、大丈夫だ。忘れ物も……ないな。じゃあ後はお金を用意して、と）=(Traces... none, we're good. Anything we're forgetting... nothing. Alright, all that's left is to take out the money.)
+「よし、仕度できたよ……って、どうしたの？　少し顔赤いけど？」=“Alright, we're good to go... hm, what's up? Your face's kind of red?”
+「えっと……電話の相手が、さっきの友達だったんだけど……」=“Erhm... that was my friend, who just called us...”
+「黝子ちゃんだっけ？　ってことは……」=“Youko-chan, was it? So you're saying...”
+「たぶん……お察しの通りです、はい……」=“Probably... it is as you have guessed, indeed...”
+「あはは……」=“Ahahah...”
+（バレちゃってたか……）=(Got caught, huh...)

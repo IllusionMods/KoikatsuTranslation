@@ -4,6 +4,6 @@
 ………………=.........
 …………=......
 ……=...
-//「あれ、もう着いちゃった。キミといると時間が早く過ぎちゃうね～」=
-//「そう言ってもらえると誘った甲斐があったよ。それじゃ俺、こっちだから」=
-//「うん！　また一緒に帰ろうね～♪」=
+「あれ、もう着いちゃった。キミといると時間が早く過ぎちゃうね～」=“Huh? We're already here. When I'm with you, time sure flies~”
+「そう言ってもらえると誘った甲斐があったよ。それじゃ俺、こっちだから」=“It was worth asking you to walk home with me then. Well then, I'm this way, so.”
+「うん！　また一緒に帰ろうね～♪」=“Yep! Let's walk home together again sometime~♪”

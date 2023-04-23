@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「ええっ、もう終わっちゃうの？　ちゃんと最後までしてほしかったな」=
+「ええっ、もう終わっちゃうの？　ちゃんと最後までしてほしかったな」=“Eeh--, are we already stopping? I wanted you to finish it properly.”

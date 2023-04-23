@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「ええっ？　いつもの冗談～……じゃ、ない……のかな。私何かしちゃった？」=
-//「ごめん……」=
-//「どうしてキミが謝るの？　イヤなことしちゃったなら謝るよ？　気に入らない所があったら直すし……」=
-//「……」=
-//「そっか……私……キミに嫌われちゃったんだね……ぐすっ、至らない彼女でごめんね……バイバイ」=
+「ええっ？　いつもの冗談～……じゃ、ない……のかな。私何かしちゃった？」=“Eeeh--? You're not joking like usual~... are, you... are you? Did I do something?”
+「ごめん……」=“Sorry...”
+「どうしてキミが謝るの？　イヤなことしちゃったなら謝るよ？　気に入らない所があったら直すし……」=“Why're you apologizing? If I did something you don't like, I can apologize, you know? If you don't like something, I can change too...”
+「……」=“...”
+「そっか……私……キミに嫌われちゃったんだね……ぐすっ、至らない彼女でごめんね……バイバイ」=“I see... you... you hate me now, don't you... *sob*, I'm sorry for being such a worthless girlfriend... byebye.”

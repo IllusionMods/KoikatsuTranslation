@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「きゃっ！　ってキミなの～？　もぉ、覗きはダ～メ♪」=
+「きゃっ！　ってキミなの～？　もぉ、覗きはダ～メ♪」=“Kyah--! Wuh, it's you~? Jeez, you shouldn't peep~♪”

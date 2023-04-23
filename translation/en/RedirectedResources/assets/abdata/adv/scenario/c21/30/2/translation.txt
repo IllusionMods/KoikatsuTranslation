@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「最初は緊張してたけど、キミと話すのが楽しくなってきちゃった」=
-//「お互いを理解すると、話したい話題が増えて楽しいよね」=
-//「うんうん。これからもっと仲良くなれたらいいなー」=
-//「ケンカもするかもしれないけど、うまく分かり合えたらいいな」=
-//「きっとできるよ。これからもよろしくね」=
-//「うんっ、よろしくね」=
-//「それじゃもう時間だね。また話そ、バイバイ♪」=
+「最初は緊張してたけど、キミと話すのが楽しくなってきちゃった」=“At first it made me nervous but, chatting with you has become a lot of fun lately.”
+「お互いを理解すると、話したい話題が増えて楽しいよね」=“When you understand each other, the way the things you can talk about increase so much so fast is fun, isn't it?”
+「うんうん。これからもっと仲良くなれたらいいなー」=“Yepyep. I hope we get even closer~”
+「ケンカもするかもしれないけど、うまく分かり合えたらいいな」=“We'll probably get into a bunch of arguments but, I hope we can get to know each other well.”
+「きっとできるよ。これからもよろしくね」=“I'm sure we will. Let's have a grand old time, eh?”
+「うんっ、よろしくね」=“Yep--, let's.”
+「それじゃもう時間だね。また話そ、バイバイ♪」=“Well then, I'm out of time. Let's chat again, byebye♪”

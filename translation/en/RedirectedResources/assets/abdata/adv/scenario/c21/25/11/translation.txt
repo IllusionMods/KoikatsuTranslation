@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「ねえ、キミが私のこと好きなのかもうわかんないよ。もう話したくない」=
-//「え……」=
-//「ごめんね。私の心が狭いのかな。男の子のこと理解できてないのかな」=
-//「ちょ、ちょっと待って」=
-//「勝手なことばっかり言ってごめんね。もう、話しかけないで。バイバイ」=
+「ねえ、キミが私のこと好きなのかもうわかんないよ。もう話したくない」=“Hey, I can't tell at all anymore, if you still love me. I don't want to talk any more.”
+「え……」=“Eh...”
+「ごめんね。私の心が狭いのかな。男の子のこと理解できてないのかな」=“I'm sorry. Maybe I'm just too narrow minded. Or maybe I just don't get guys.”
+「ちょ、ちょっと待って」=“W-Wait a sec.”
+「勝手なことばっかり言ってごめんね。もう、話しかけないで。バイバイ」=“Sorry for being so selfish. Don't come talk to me anymore. Byebye.”

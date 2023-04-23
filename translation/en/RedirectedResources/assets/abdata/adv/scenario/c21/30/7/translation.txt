@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「ええ！？　ドッキリ、じゃないよね？」=
-//「こんなことドッキリで言ったら怒られるよ、普通」=
-//「う、うん、怒るよ？　だって、私もキミのこと……好き、だし」=
-//「俺もきみのことが好きなんだ。付き合ってくれる？」=
-//「両想いだったんだ……うん、私でよければ、是非付き合ってください！」=
+「ええ！？　ドッキリ、じゃないよね？」=“Eeh?! It's not a prank or anything, is it?”
+「こんなことドッキリで言ったら怒られるよ、普通」=“A prank like this would normally offend people pretty bad, normally.”
+「う、うん、怒るよ？　だって、私もキミのこと……好き、だし」=“Y-Yep, me too, you know? Since, I mean, I do kinda, you know... love, you.”
+「俺もきみのことが好きなんだ。付き合ってくれる？」=“I love you too. Will you go out with me?”
+「両想いだったんだ……うん、私でよければ、是非付き合ってください！」=“So we both loved each other this whole time... yep, if you're fine with me then, please go out with me!”

@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「へぇ、体育館って一般の生徒にも開放してるスペースがあるんだ」=
-//「うん！　前にバスケ部の友達に教えてもらったんだ。ほら、パース！」=
-//「おっと。バスケボールも自由に使えるんだ。じゃあ、どっちが沢山シュートできるか、勝負だ！」=
-//「おっ、いいね～！　負けないよ～♪」=
+「へぇ、体育館って一般の生徒にも開放してるスペースがあるんだ」=“Hoh, so they have space for even just run of the mill students like us at the gymnasium, huh?”
+「うん！　前にバスケ部の友達に教えてもらったんだ。ほら、パース！」=“Yep! A friend from the basketball club told me about it. C'mon, take this!”
+「おっと。バスケボールも自由に使えるんだ。じゃあ、どっちが沢山シュートできるか、勝負だ！」=“Woah. We can use the basketballs freely too. Alright then, time to see just which one of us can get more shots in!”
+「おっ、いいね～！　負けないよ～♪」=“Oh--, that sounds nice~! I'm not gonna lose~♪”

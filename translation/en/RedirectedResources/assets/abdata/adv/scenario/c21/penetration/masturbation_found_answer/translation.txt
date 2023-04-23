@@ -1,5 +1,5 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「見てるだけじゃ我慢できなくなっちゃったってこと……？」=
-//「……こ、断る理由ないし……なんて、今のなし、可愛くないから……だから、えっと……私も、したいな……えへへ、照れちゃう」=
+「見てるだけじゃ我慢できなくなっちゃったってこと……？」=“You mean just watching isn't enough anymore...?”
+「……こ、断る理由ないし……なんて、今のなし、可愛くないから……だから、えっと……私も、したいな……えへへ、照れちゃう」=“...I-I don't have any reason to turn you down... no, please, ignore that, I really didn't mean it that way... what I mean is, erhm... I want to, do it too... eheheh, I'm blushing.”

@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「キミが部長なら入ってもいいかな。うん、よろしくね」=
-//「いいの？　やったぁ」=
-//「今までみたいにキミとお喋りする部活なんだよね？」=
-//「うん。あとは、スキンシップとか」=
-//「スキンシップ？　それってもしかしてエッチなこと？」=
-//「いやっ、それは……追々、というか」=
-//「え～？　でもきっとキミとなら平気かな？　これからよろしくね」=
+「キミが部長なら入ってもいいかな。うん、よろしくね」=“Since you're the president, I guess I'll join. Yeah, I will.”
+「いいの？　やったぁ」=“You sure? Yay~”
+「今までみたいにキミとお喋りする部活なんだよね？」=“It's a club where we can keep chatting just like we always have, right?”
+「うん。あとは、スキンシップとか」=“Yeah. Also some skinship and stuff.”
+「スキンシップ？　それってもしかしてエッチなこと？」=“Skinship? You mean lewd stuff?”
+「いやっ、それは……追々、というか」=“No--, that's... well, not right from the start, like--”
+「え～？　でもきっとキミとなら平気かな？　これからよろしくね」=“Eh~? But I wouldn't mind it that much if it's you, you know? Let's have a fun time.”

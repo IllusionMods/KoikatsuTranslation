@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「[H姓]さん、今時間ある？　出来れば話したいなって」=
-//「うん、大丈夫だよ。何か面白いことでもあったのかな？」=
-//「いや、普通に、あまり話したことなかったからだよ」=
-//「えへへ、そういうことなら大歓迎ー」=
-//「よかった、それじゃ……」=
+「[H姓]さん、今時間ある？　出来れば話したいなって」=“[H姓]-san, got some time right now? I'd like to chat with you, if possible.”
+「うん、大丈夫だよ。何か面白いことでもあったのかな？」=“Yep, sure. Did something interesting happen?”
+「いや、普通に、あまり話したことなかったからだよ」=“No, just a normal chat, since we've never really talked much.”
+「えへへ、そういうことなら大歓迎ー」=“Eheheh, if it's something like that then I'm always down~”
+「よかった、それじゃ……」=“Great, then...”

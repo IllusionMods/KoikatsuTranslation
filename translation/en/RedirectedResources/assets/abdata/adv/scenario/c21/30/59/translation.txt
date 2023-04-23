@@ -1,5 +1,5 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「ねね、今日のデート、友達に話してもいい？」=
-//「すっごく楽しかったから♪　あ、でも、みんなも行きたがっちゃうかな。やっぱり言ーわない♪　それじゃ、またね」=
+「ねね、今日のデート、友達に話してもいい？」=“Hey hey, do you mind if I tell my friends, about our date today?”
+「すっごく楽しかったから♪　あ、でも、みんなも行きたがっちゃうかな。やっぱり言ーわない♪　それじゃ、またね」=“I mean, it was super fun, you know♪ Ah, but, I guess that'll make them wanna tag along too. So I won't afterall~♪ Alright, see you later then~”

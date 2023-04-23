@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「うん？　いいけど、どこ行くの？」=
-//「まだナイショ」=
-//「えー、どこだろう。変なところはダメだよ？」=
+「うん？　いいけど、どこ行くの？」=“Hm? Sure but, where?”
+「まだナイショ」=“That's a secret for now.”
+「えー、どこだろう。変なところはダメだよ？」=“Eeh~, where is it~? Don't make it anywhere weird, okay?”
