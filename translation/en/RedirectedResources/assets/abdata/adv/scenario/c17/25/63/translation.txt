@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「お邪魔するわ。ここが[P]くんの部屋ね……」=
-//「男の人の、彼氏の部屋なんて初めて入るから……緊張するわ」=
-//「ええと、これからその……するのよね、エッチ。なんだかドキドキするわ……」=
+「お邪魔するわ。ここが[P]くんの部屋ね……」=“I'm coming in. So this is your room, huh...”
+「男の人の、彼氏の部屋なんて初めて入るから……緊張するわ」=“It's my first time being in a boy's room, of a guy I love so... I'm a bit nervous.”
+「ええと、これからその……するのよね、エッチ。なんだかドキドキするわ……」=“Eerhm, we're going to... do it now, aren't we? Sex, I mean. My heart's pounding...”

@@ -10,7 +10,7 @@
 「そ、そう……ならよかった」=“I-I see...that's fine then.”
 「今日は楽しかったわ、ありがとう[P]くん」=“Today was fun. Thank you [P]-kun.”
 CHOICE:「まだもう少し一緒にいたいな」=“I still want to be together for a little while.”
-//CHOICE:「俺も楽しかったよ、それじゃあね」=
+CHOICE:「俺も楽しかったよ、それじゃあね」=I had a lot of fun too. See you then.
 「まだもう少し一緒にいたいな」=“I still want to be together for a little while.”
 「えっ……も、もう、わがままなんだから。……いいわよ」=“「Eh? Y-You're already being so greedy...It's fine though.”
 「俺も楽しかったよ。それじゃあね」=“I also really enjoyed it. I'll see you later.”

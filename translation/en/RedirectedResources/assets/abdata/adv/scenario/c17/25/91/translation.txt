@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「[Pあだ名]、おはよう」=
-//「……おはよう、[Hあだ名]」=
-//「……そんなに驚いた顔しなくてもいいでしょ」=
+「[Pあだ名]、おはよう」=“[Pあだ名], good morning.”
+「……おはよう、[Hあだ名]」=“...Morning, [Hあだ名].”
+「……そんなに驚いた顔しなくてもいいでしょ」=“...You don't need to be that surprised about it.”

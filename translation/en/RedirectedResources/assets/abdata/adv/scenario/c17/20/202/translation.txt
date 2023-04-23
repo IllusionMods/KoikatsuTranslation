@@ -1,25 +1,25 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「うーん……食べ過ぎて吐きそう……」=
-//「ちょっと、大丈夫なの？」=
-//「冗談だよ。でも、揺れが激しいのは勘弁してほしいかも」=
-//「じゃあ、次はジェットコースターにしましょう」=
-//「吐くよ！？」=
-//「ふふっ、冗談よ、冗談……それなら、あれにしない？」=
-//「コーヒーカップか……」=
-//（ゆっくり回ればのんびりできるかな）=
-//「うん、いいよ。じゃあ、列に並ぼうか」=
+「うーん……食べ過ぎて吐きそう……」=“Nnn... I ate so much, I feel like vomitting...”
+「ちょっと、大丈夫なの？」=“Hey, are you sure you're okay?”
+「冗談だよ。でも、揺れが激しいのは勘弁してほしいかも」=“Just joking. But, I think I wanna pass on anything too intense.”
+「じゃあ、次はジェットコースターにしましょう」=“Then, let's ride on the roller coaster next.”
+「吐くよ！？」=“I really will puke, you know?!”
+「ふふっ、冗談よ、冗談……それなら、あれにしない？」=“Fufu--, I'm joking, joking... in that case, how about that?”
+「コーヒーカップか……」=“The coffee cup, huh...”
+（ゆっくり回ればのんびりできるかな）=(If it moves slowly, I should be fine.)
+「うん、いいよ。じゃあ、列に並ぼうか」=“Yeah, okay. Then, let's line up.”
 ………………=.........
-//「ふ、ふ、ふ。かかったわね？」=
-//「え？　ちょ、ちょっと、[H名]さん？」=
-//「私、コーヒーカップを開始直後からフルスピードで回す達人なのよ」=
-//「なにその無駄な特技！？」=
-//「と、というか、ダメだよ？　本当に今、気持ち悪いから……」=
-//「私と一緒に列に並んでしまったことを後悔するのね」=
-//「い、いやだ！　それなら俺は乗らない！」=
-//「もう遅いわ。逃がさないんだから」=
-//「は、放してくれ！」=
-//「ふふふ、観念なさい」=
-//「だ、誰か助けてくれー！」=
-//「ふふふ、もうすぐ順番。楽しみね」=
+「ふ、ふ、ふ。かかったわね？」=“Fu, fu, fu. Fell right into my trap, huh?”
+「え？　ちょ、ちょっと、[H名]さん？」=“Eh? H-Hey, [H名]-san?”
+「私、コーヒーカップを開始直後からフルスピードで回す達人なのよ」=“I'm an expert on getting the coffee cup to move at full speed right from the start.”
+「なにその無駄な特技！？」=“What's with that utterly pointless skill?!”
+「と、というか、ダメだよ？　本当に今、気持ち悪いから……」=“H-Heck, don't, okay? I really do, feel awful right now...”
+「私と一緒に列に並んでしまったことを後悔するのね」=“You're going to regret lining up for this with me.”
+「い、いやだ！　それなら俺は乗らない！」=“N-No! I'm not gonna ride it then!”
+「もう遅いわ。逃がさないんだから」=“It's too late now. I'm not letting you run away.”
+「は、放してくれ！」=“L-Let me go!”
+「ふふふ、観念なさい」=“Fufufu, just give up.”
+「だ、誰か助けてくれー！」=“S-Someone save me!”
+「ふふふ、もうすぐ順番。楽しみね」=“Fufufu, it's almost our turn. I'm excited.”

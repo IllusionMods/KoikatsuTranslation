@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「誰にも見られてないわよね？」=
-//「大丈夫大丈夫、心配ないよ」=
-//「もう、適当なんだから」=
-//「気にしすぎてもしょうがないからね。よしっ、そろそろ帰ろうか」=
-//「あなたくらい、気楽になってみたいものだわ」=
+「誰にも見られてないわよね？」=“Nobody saw us, right?”
+「大丈夫大丈夫、心配ないよ」=“It's alright, all good, don't worry.”
+「もう、適当なんだから」=“Jeez, that's so half baked.”
+「気にしすぎてもしょうがないからね。よしっ、そろそろ帰ろうか」=“Not like we can do anything about it even if someone did see us. Alright--, let's go home, shall we?”
+「あなたくらい、気楽になってみたいものだわ」=“What I wouldn't give to be as easygoing as you.”

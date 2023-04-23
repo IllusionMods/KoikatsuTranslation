@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「名残惜しいけど、そろそろ帰ろうか」=
-//「あら。私は全然名残惜しくなんかないわよ？」=
-//「え？　そうなの？　どうしてか聞いてもいい？」=
-//「……だって、また一緒に来てくれるんでしょう？」=
-//「[H名]さん！　……うん、もちろんだよ！」=
+「名残惜しいけど、そろそろ帰ろうか」=“It's a bit sad but, let's go home, shall we?”
+「あら。私は全然名残惜しくなんかないわよ？」=“Oh. But I'm not sad at all, you know?”
+「え？　そうなの？　どうしてか聞いてもいい？」=“Eh? That so? Mind if I ask why?”
+「……だって、また一緒に来てくれるんでしょう？」=“...I mean, we'll come here again together, no?”
+「[H名]さん！　……うん、もちろんだよ！」=“[H名]-san! ...Yeah, of course!”

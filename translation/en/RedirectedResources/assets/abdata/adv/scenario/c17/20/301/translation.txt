@@ -1,24 +1,24 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「ここがカラオケルーム……案外狭く感じるわね」=
-//「そんな初めて来た人みたいなこと言ってどうしたのさ。友達と来たことくらいあるでしょ？」=
-//「ないわよ。一緒に来る友達もいないし、来る理由がないわ」=
-//「あっ、そ、そうなんだ……ごめん、無神経なこと言ったね」=
-//「別に気にしなくていいわよ……裏を返せば、初めてのカラオケをあなたと体験できる、ということなのだし」=
-//「[H名]さん……」=
-//「よ～し、それじゃあ今日は二人でいっぱい歌おうよ」=
-//「それは遠慮するわ」=
-//「……え？　歌わないの？」=
-//「えぇ。私はあなたが歌うのを聞いているだけでいいわ。歌はあまり得意じゃないもの」=
-//「いやいや、そんなこと言わずに[H名]さんも歌おうよ」=
-//「いいから、あなたが歌いなさいよ」=
-//「お願いだよ。[H名]さんの歌が聞けなかったら、カラオケの楽しさが半減しちゃうよ」=
-//「……そんなに言うなら……いえ、やっぱりだめ。本当に得意じゃないんだもの」=
-//「上手かどうかなんて関係ないよ」=
-//「俺は[H名]さんの歌が聞きたいんだ」=
-//「……本当にうまくないわよ？」=
-//「大丈夫だよ。ほら、曲を選んで？」=
-//「……仕方ないわね。そこまで言われたら、歌うしかないじゃない」=
-//『小さな手の平 掴める物は きっと限られているけど～♪』=
-//（……うん。思った以上にノリノリだな、[H名]さん）=
+「ここがカラオケルーム……案外狭く感じるわね」=“So this is a karaoke box... it's actually pretty small, huh?”
+「そんな初めて来た人みたいなこと言ってどうしたのさ。友達と来たことくらいあるでしょ？」=“What's gotten into you, talking like it's your first time at karaoke? You must have come here before with friends atleast, no?”
+「ないわよ。一緒に来る友達もいないし、来る理由がないわ」=“I haven't. I don't have any friends that would come with me, nor a reason to come.”
+「あっ、そ、そうなんだ……ごめん、無神経なこと言ったね」=“Ah--, I-I see... Sorry, was being pretty insensitive there, wasn't I?”
+「別に気にしなくていいわよ……裏を返せば、初めてのカラオケをあなたと体験できる、ということなのだし」=“You don't need to mind it... looking at it another way, my first time at karaoke will be with you, and whatnot.”
+「[H名]さん……」=“[H名]-san...”
+「よ～し、それじゃあ今日は二人でいっぱい歌おうよ」=“Alright~, let's sing up a storm together today then.”
+「それは遠慮するわ」=“I'm gonna pass on that.”
+「……え？　歌わないの？」=“...Eh? Not gonna sing?”
+「えぇ。私はあなたが歌うのを聞いているだけでいいわ。歌はあまり得意じゃないもの」=“Yes. I'm fine with just listening to you sing. I'm not all that good at singing.”
+「いやいや、そんなこと言わずに[H名]さんも歌おうよ」=“Not at all, don't worry about that stuff and just sing, [H名]-san.”
+「いいから、あなたが歌いなさいよ」=“It's fine, so just sing.”
+「お願いだよ。[H名]さんの歌が聞けなかったら、カラオケの楽しさが半減しちゃうよ」=“Please. If I don't get to listen to you sing, half the fun of Karaoke would be ruined for me.”
+「……そんなに言うなら……いえ、やっぱりだめ。本当に得意じゃないんだもの」=“...When you put it like that... No, it's a no afterall. I really am not any good at it.”
+「上手かどうかなんて関係ないよ」=“Whether you're good or not doesn't matter.”
+「俺は[H名]さんの歌が聞きたいんだ」=“I want to hear you sing, in your own voice.”
+「……本当にうまくないわよ？」=“...I really am no good, okay?”
+「大丈夫だよ。ほら、曲を選んで？」=“That's fine. C'mon, pick a song?”
+「……仕方ないわね。そこまで言われたら、歌うしかないじゃない」=“...Suppose it can't be helped. If you're gonna go that far, I have no choice but to sing, now do I?”
+『小さな手の平 掴める物は きっと限られているけど～♪』=『This small hand, the things it can grasp, they are surely limited, but~』
+（……うん。思った以上にノリノリだな、[H名]さん）=(...Yeah. She's way more into it than I expected.)

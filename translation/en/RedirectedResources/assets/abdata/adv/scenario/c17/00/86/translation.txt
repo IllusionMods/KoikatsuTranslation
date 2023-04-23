@@ -1,11 +1,11 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「ねえ、部長さん、ここを見てほしいのだけれど」=
-//「[H]さんのスマホがどうしたの？　何々、『キスのいろは講座』……？」=
-//「ええ、昨夜この記事を見つけて……勉強してみない？」=
-//「うん、もちろんいいよ。やってみよう」=
-//「んんっ……ちゅっ……」=
-//「えっと、これがプレッシャーキスだって」=
-//「……これ、すごくいいわね。もう一回しない？」=
-//「りょうかい。じゃ、いくよ」=
+「ねえ、部長さん、ここを見てほしいのだけれど」=“Hey, Mr. Prez, could you take a look here?”
+「[H]さんのスマホがどうしたの？　何々、『キスのいろは講座』……？」=“Look at your smartphone? Let's see, 「Kissing 101: A practical guide to making out」...?”
+「ええ、昨夜この記事を見つけて……勉強してみない？」=“Yes, I found this article last night, you see... want to try it?”
+「うん、もちろんいいよ。やってみよう」=“Yeah, of couse. Let's do it.”
+「んんっ……ちゅっ……」=“Nn--... *kiss*...”
+「えっと、これがプレッシャーキスだって」=“Erhm, this one's a "pressure kiss", apparently.”
+「……これ、すごくいいわね。もう一回しない？」=“...This one is, actually really nice, isn't it? One more?”
+「りょうかい。じゃ、いくよ」=“Roger. Here I come then.”

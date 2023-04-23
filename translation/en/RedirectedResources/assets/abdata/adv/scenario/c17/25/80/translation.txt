@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「あなた、本当においしそうにご飯食べるわね」=
-//「そう？　逆に[H姓]さんは今食べてるそれ、おいしくないの？」=
-//「えっ？　い、いや、……普通においしいけれど」=
-//「よかった。[H姓]さんと一緒に食べる時間、楽しみたかったから」=
+「あなた、本当においしそうにご飯食べるわね」=“You sure do eat your food deliciously.”
+「そう？　逆に[H姓]さんは今食べてるそれ、おいしくないの？」=“You think so? What about you? Is what you're having that bland?”
+「えっ？　い、いや、……普通においしいけれど」=“Eh--? N-No... it's pretty tasty.”
+「よかった。[H姓]さんと一緒に食べる時間、楽しみたかったから」=“Great. It wouldn't be very nice, if just one of us wasn't enjoying themselves, afterall.”

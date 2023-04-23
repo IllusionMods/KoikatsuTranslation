@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「何かいいシチュエーションってないかしら」=
-//「うーん。何かあるかなぁ……」=
-//「２人きりの部室、そこで部屋の隅に女の子を追い詰めて壁ドンとか、どうかな？」=
-//「……いいかもしれないわね。やってみましょうか」=
-//「……こ、これは思ってたより、恥ずかしいというか、刺激が強いわね」=
-//「そうだね。ちょっと恥ずかしいけど、やる側はすごい楽しいかも、これ」=
+「何かいいシチュエーションってないかしら」=“What's something nice we could try?”
+「うーん。何かあるかなぁ……」=“Mmm. I wonder~...”
+「２人きりの部室、そこで部屋の隅に女の子を追い詰めて壁ドンとか、どうかな？」=“How about trying out something like, a girl and a boy, together in one room, with the guy pushing the girl against the wall?”
+「……いいかもしれないわね。やってみましょうか」=“...That might be nice. Let's try it.”
+「……こ、これは思ってたより、恥ずかしいというか、刺激が強いわね」=“...T-This is, more embarrassing than I expected, or rather, it's pretty simulating, isn't it?”
+「そうだね。ちょっと恥ずかしいけど、やる側はすごい楽しいかも、これ」=“Yeah. It's a bit embarrassing but, being the one doing it, seems kinda fun.”

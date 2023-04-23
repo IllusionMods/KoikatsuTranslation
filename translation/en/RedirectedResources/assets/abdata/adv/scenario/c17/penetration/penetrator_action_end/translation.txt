@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「ふん、当然よね。　……まぁ、混ぜさせてもらった分くらいは仕事してあげるわよ」=
+「ふん、当然よね。　……まぁ、混ぜさせてもらった分くらいは仕事してあげるわよ」=“Fuhn, naturally. ...Well, not that I won't do my part, you let me join, afterall.”

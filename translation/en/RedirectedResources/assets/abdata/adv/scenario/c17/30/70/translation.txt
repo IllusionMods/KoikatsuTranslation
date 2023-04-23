@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「ふう……これでとりあえずひと段落ね」=
-//「えっ、出されてた課題、もう終わったの？」=
-//「ええ。今回の量なら、このぐらいの時間で終わらせるものでしょ？」=
-//「そ、そうなのかな？　ははは……」=
+「ふう……これでとりあえずひと段落ね」=“Fuu... alright, that's that dealt with.”
+「えっ、出されてた課題、もう終わったの？」=“Eh--, are you already done, with today's work?”
+「ええ。今回の量なら、このぐらいの時間で終わらせるものでしょ？」=“Yes. With how much they gave out today, shouldn't take more than this really, no?”
+「そ、そうなのかな？　ははは……」=“Y-You think so? Hahaha...”

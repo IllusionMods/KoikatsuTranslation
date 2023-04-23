@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「えっと、ここは……」=
-//「これもわからないの？　ここはこうして……」=
-//「なるほど！　勉強教えるのうまいね」=
-//「べ、別に上手くなんか……。こんなの普通よ」=
-//「そんなことないと思うけどな～」=
+「えっと、ここは……」=“Erhm, this is...”
+「これもわからないの？　ここはこうして……」=“You don't get that either? You do it like this...”
+「なるほど！　勉強教えるのうまいね」=“I see! You're great at teaching.”
+「べ、別に上手くなんか……。こんなの普通よ」=“I-It's not like tha... This much is normal.”
+「そんなことないと思うけどな～」=“I dunno about that~”

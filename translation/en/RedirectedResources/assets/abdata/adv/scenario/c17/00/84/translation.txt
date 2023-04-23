@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「ええと、コイカツ部って、具体的にどのようなことをするのかしら？」=
-//「恋人たちがどんなことをするか勉強する感じだね。何か要望とかってある？」=
-//「そ、そうね。じゃあ……頭を撫でてほしいの」=
-//「わかった。こう……かな？」=
-//「え、ええ。……ありがとう。勉強になったわ」=
+「ええと、コイカツ部って、具体的にどのようなことをするのかしら？」=“Eerm, so what is this club all about, exactly?”
+「恋人たちがどんなことをするか勉強する感じだね。何か要望とかってある？」=“The goal is to study exactly what sort of stuff couples get up to. Got any requests?”
+「そ、そうね。じゃあ……頭を撫でてほしいの」=“H-Hmm, right. Then... I want you to stroke my head.”
+「わかった。こう……かな？」=“Got it. Like... this?”
+「え、ええ。……ありがとう。勉強になったわ」=“Y-Yes. ...Thank you. It was illuminating.”

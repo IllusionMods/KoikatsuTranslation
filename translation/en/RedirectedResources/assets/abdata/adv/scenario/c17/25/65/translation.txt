@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「いつもと同じ帰り道なのに、今日は少し違って感じるわ」=
-//「え？　どうして？」=
-//「……なんででしょうね。あなたが気づいていないならいいわ」=
+「いつもと同じ帰り道なのに、今日は少し違って感じるわ」=“Even though it's the same road as always, it feels a bit different today.”
+「え？　どうして？」=“Eh? Why?”
+「……なんででしょうね。あなたが気づいていないならいいわ」=“...Wonder why indeed. The rest is left as an exercise for the reader.”
