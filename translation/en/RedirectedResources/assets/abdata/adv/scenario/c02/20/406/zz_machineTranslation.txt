@@ -1,6 +1,0 @@
-「まあ、もうこんな時間ですわ。少し長居をしすぎたかしら」=“Well, it's getting late. I think I overstayed my welcome a little.”
-「話が盛り上がってたもんね」=“You were so talkative.”
-「もう少し、お話したい気分ですけど……でも遅くなるわけにはいきませんわ」=“I'd love to talk to you a little longer, but I can't be ... too late.”
-「そうだね、確かに、ここに長居しすぎたかも」=“Yeah, you're right. We've been here too long.”
-「では、ここを出ることにいたしましょう。いいお店でしたわ」=“Well, then, let's get out of here. It's a nice shop.”
-「オッケー、じゃ、行こっか」=“Okay, let's go.”

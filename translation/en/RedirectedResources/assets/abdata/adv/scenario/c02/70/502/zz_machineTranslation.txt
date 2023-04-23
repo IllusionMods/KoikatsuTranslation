@@ -1,4 +1,0 @@
-「さて……と、約束の時間を過ぎた。今日も待たされるのかな…………あ、来た来た、おーい！」=“Well... and it's past the appointed time. I wonder if I'll have to wait again today... Oh, here he comes. Hey!”
-「……相変わらず、ゆっくり歩いてるなぁ」=“... You're still walking slowly.”
-「ごきげんよう。お待たせしてしまいましたわね」=“Hello, [Pあだ名]. Hello. I'm sorry to keep you waiting.”
-「いやいや、それほど待ってないし、気にしてないよ。さあ行こうか！」=“No, no, no, I'm not waiting that long. I don't care. No, I don't mind. Let's go!”
