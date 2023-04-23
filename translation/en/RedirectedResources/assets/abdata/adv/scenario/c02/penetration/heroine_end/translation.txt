@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「流石に三人となると疲れますわね……でも、お陰様で良い経験が出来ましたわ」=
+「流石に三人となると疲れますわね……でも、お陰様で良い経験が出来ましたわ」=“It truly is tiring, to do it with multiple people... but, that was a very nice experience to get under my belt.”

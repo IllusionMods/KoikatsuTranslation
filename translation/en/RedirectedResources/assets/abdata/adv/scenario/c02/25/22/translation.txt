@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「おーっほっほっほ、お待ちなさい。これをどうぞ」=
-//「ん？　なんなんだ、これ？　んー、いい匂いがする」=
-//「家庭科の実習で作った、わたくしお手製のクッキーですわ！　さあ、ありがたく頂戴なさい！」=
-//「う、うん……ありがとう。いただくよ」=
+「おーっほっほっほ、お待ちなさい。これをどうぞ」=“Ohohohoh, wait, you. Take this.”
+「ん？　なんなんだ、これ？　んー、いい匂いがする」=“Nn? What is this? Nnn, smells nice.”
+「家庭科の実習で作った、わたくしお手製のクッキーですわ！　さあ、ありがたく頂戴なさい！」=“They are cookies that I made during home economics practice! Now then, be thankful and partake!”
+「う、うん……ありがとう。いただくよ」=“O-Okay... thanks. I'll do just that.”

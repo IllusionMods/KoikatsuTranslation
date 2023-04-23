@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「少々忙しいものですわね。たまになら、楽しいかもしれませんわ」=
+「少々忙しいものですわね。たまになら、楽しいかもしれませんわ」=“Quite the hectic thing, isn't it? It may be fun, every so often.”

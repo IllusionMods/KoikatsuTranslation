@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「ごきげん麗しゅう。ほら、襟が曲がっていますわ。それにおぐしに寝癖が……」=
-//「え？　あ、ホント……？　うっかりしてた」=
-//「もう、しょうがないお人。わたくしの見込んだ男性なのですから、しっかりしてくださいませね！」=
-//「うん、ありがとう。気をつけるよ」=
+「ごきげん麗しゅう。ほら、襟が曲がっていますわ。それにおぐしに寝癖が……」=“A good day to you. Look, your collar is bent. And your hair is a mess...”
+「え？　あ、ホント……？　うっかりしてた」=“Eh? Ah, seriously...? I completely missed it.”
+「もう、しょうがないお人。わたくしの見込んだ男性なのですから、しっかりしてくださいませね！」=“Jeez, what am I to do with you? You are the man I have set my eyes upon, so please do get a grip!”
+「うん、ありがとう。気をつけるよ」=“Yep, thanks. I'll be more careful.”

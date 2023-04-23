@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「──というわけで、その時こう思いましたの。わたくしに釣り合う人なんて、一人もいないのかしら？　とね」=
-//「う、うん、だよねー、そう思うよ」=
-//（ずーっと、自分語りしてるぞ……俺は何かを言う隙がないっ！！）=
-//「本当に、世の中つまらない人ばかりですわ。まったく困ったものね……おーっほっほっほ！！」=
-//「うんうん、まったくだよ」=
-//（テンション高いなぁ……とりあえず、頷いておこう……）=
+「──というわけで、その時こう思いましたの。わたくしに釣り合う人なんて、一人もいないのかしら？　とね」=“--And so, I thought at the time. Whether there was truly not a single man, worthy of me?”
+「う、うん、だよねー、そう思うよ」=“Y-Yeah, right, of course.”
+（ずーっと、自分語りしてるぞ……俺は何かを言う隙がないっ！！）=(She keeps going on and on about herself... I can't find even a single opening to slide in--!!)
+「本当に、世の中つまらない人ばかりですわ。まったく困ったものね……おーっほっほっほ！！」=“Truly, the world is full of the most dull people. How bothersome... ohohohoh!!”
+「うんうん、まったくだよ」=“Yep, yep, bothersome it is.”
+（テンション高いなぁ……とりあえず、頷いておこう……）=(She's really into it... well, I guess I'll just go along with it...)

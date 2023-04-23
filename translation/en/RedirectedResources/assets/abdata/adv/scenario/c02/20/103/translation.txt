@@ -1,16 +1,16 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「ふぅ、もうこんな時間ですわね。今日一日たっぷり楽しむことができましたわ」=
-//CHOICE:『まだ時間ある？』=
-//CHOICE:『俺も楽しかった』=
-//「あのさ、もう少し時間ある？　ちょっとだけ連れていきたい場所があるんだけど」=
-//「おほほほ、よほど自信があるようですわね。よくってよ……わたくしを本当に喜ばせることが出来るかどうか、見極めて差し上げますわ」=
-//「オッケー。そう言われると少し緊張するけど、でも頑張って喜ばせてみせるよ」=
-//「オホホホホ、楽しみですわ！　ではしっかりわたくしをエスコートなさい」=
-//「わかったよ。じゃあ、行こう──」=
-//「俺も楽しかった。でもデートはもうちょっとだけ続くよ」=
-//「ええ、わたくしの背中を見送り、寂しさのあまり一句読むまでがデートですわ」=
-//「う、うん……一句読みはしないと思うけど、きっと別れる時は名残惜しいだろうね」=
-//「でしょう？　おーっほっほっほ！　では最後までしっかりわたくしをエスコートなさい！」=
-//「わかってるよ。さあ、行こう」=
+「ふぅ、もうこんな時間ですわね。今日一日たっぷり楽しむことができましたわ」=“Fuuh, it's already this late, huh? I enjoyed myself thoroughly today.”
+CHOICE:『まだ時間ある？』=Still got time?
+CHOICE:『俺も楽しかった』=I had fun too.
+「あのさ、もう少し時間ある？　ちょっとだけ連れていきたい場所があるんだけど」=“Listen, do you still have some time? There's a place I'd like to take you still.”
+「おほほほ、よほど自信があるようですわね。よくってよ……わたくしを本当に喜ばせることが出来るかどうか、見極めて差し上げますわ」=“Ohohohoh, you must have quite the confidence in it. Alright... I shall see for myself, whether you truly have what it takes to make me happy.”
+「オッケー。そう言われると少し緊張するけど、でも頑張って喜ばせてみせるよ」=“Sure. It makes me a bit nervous when you say it like that, but I'll do my best and definitely manage it.”
+「オホホホホ、楽しみですわ！　ではしっかりわたくしをエスコートなさい」=“Ohohohohoh, I'm quite looking forward to this! Well then, do give me a proper escort.”
+「わかったよ。じゃあ、行こう──」=“Got it. Let's go then--”
+「俺も楽しかった。でもデートはもうちょっとだけ続くよ」=“I had fun too. But our date's gonna go on a bit longer.”
+「ええ、わたくしの背中を見送り、寂しさのあまり一句読むまでがデートですわ」=“Yes, it is a date until you see my back off, and recite a love filled haiku at the parting.”
+「う、うん……一句読みはしないと思うけど、きっと別れる時は名残惜しいだろうね」=“Y-Yeah... I don't think there's gonna be a haiku but, I'm sure it'll be sad to say goodbye.”
+「でしょう？　おーっほっほっほ！　では最後までしっかりわたくしをエスコートなさい！」=“Wouldn't it though? Ohohohoh! Well then, do give me a proper escort till the end!”
+「わかってるよ。さあ、行こう」=“I know. Let's go then.”

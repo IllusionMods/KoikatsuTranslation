@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「うふふ、味気ないランチも、テーブルを囲む相手次第でごちそうに変わりますわよね」=
-//「味気ない、かなぁ……美味しいけど」=
-//「もう、話の要点はそこじゃありませんわ。本当にニブいお方っ」=
-//「ふふふ、わかってるよ。一緒に食べると美味しいよね～。やっぱり相手次第だよ」=
-//「おーっほっほっほ、当然ですわ！　なにせ、このわたくしと一緒なんですもの！」=
-//「……食事中に高笑いはちょっと…………」=
+「うふふ、味気ないランチも、テーブルを囲む相手次第でごちそうに変わりますわよね」=“Ufufuh, even such a dull lunch, turns into a hearty feast depending upon your table partner, doesn't it?”
+「味気ない、かなぁ……美味しいけど」=“Dull?... I mean it's pretty delicious to me.”
+「もう、話の要点はそこじゃありませんわ。本当にニブいお方っ」=“Jeez, that was not the point I was emphasizing. Truly a dull man--”
+「ふふふ、わかってるよ。一緒に食べると美味しいよね～。やっぱり相手次第だよ」=“Fufufuh, no, I know. Eating it together makes it delicious, doesn't it?~ It really does depend on the partner.”
+「おーっほっほっほ、当然ですわ！　なにせ、このわたくしと一緒なんですもの！」=“Ohohohoh, of course! Afterall, it is none other than me you are eating with!”
+「……食事中に高笑いはちょっと…………」=“...If you could give that laughter a rest while we're eating atleast...”

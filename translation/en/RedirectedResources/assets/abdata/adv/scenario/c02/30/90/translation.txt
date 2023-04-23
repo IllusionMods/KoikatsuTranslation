@@ -1,16 +1,16 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「少し、あなたにお願いしたいことがありますの。もちろん聞いていただけますわよね？」=
-//「う、うん……相変わらず問答無用だね。で、どうしたの？」=
-//「お互いを愛称で呼び合うのはいかがかしら？　きっと素晴らしいことになりますわよ」=
-//「へえ、面白そうだね。やってみようよ」=
-//「おほほほほ！　さすがはわたくしの提案ですわ。では早速呼ばせていただきますわね」=
+「少し、あなたにお願いしたいことがありますの。もちろん聞いていただけますわよね？」=“There's something I would like to request from you. Of course, you will assent, yes?”
+「う、うん……相変わらず問答無用だね。で、どうしたの？」=“S-Sure... No point in arguing about it. So, what's up?”
+「お互いを愛称で呼び合うのはいかがかしら？　きっと素晴らしいことになりますわよ」=“What do you say to calling each other with nicknames? I'm sure it'll be absolutely wonderful.”
+「へえ、面白そうだね。やってみようよ」=“Hoh, sounds fun. Let's try it.”
+「おほほほほ！　さすがはわたくしの提案ですわ。では早速呼ばせていただきますわね」=“Ohohohohoh! It is only natural for an idea of mine to have merit. Well then, here I go, alright?”
 「……[Pあだ名]」=“...[Pあだ名]”
-//「……うん、悪くないね」=
-//「おほほほ。当然ですわ。ではあなたもわたくしを愛称で呼ぶことを許します」=
-//「はは……ありがとう。それじゃ、えーっと……[Hあだ名]」=
-//「おーっほっほっほ！　二人の仲がより深まったような気分ですわ。あなたも同じ気持ちでしょう？」=
-//「そうだね。なんだか、特別な関係って感じだよね」=
-//「そうでしょうそうでしょう。まあ、また気が向けば、愛称で呼んで差し上げます」=
-//「うん、楽しみにしてるよ」=
+「……うん、悪くないね」=“...Yep, not bad.”
+「おほほほ。当然ですわ。ではあなたもわたくしを愛称で呼ぶことを許します」=“Ohohohoh. Of course. Well then, I shall allow you to call me by one such nickname as well.”
+「はは……ありがとう。それじゃ、えーっと……[Hあだ名]」=“Hahah... thanks. Well then, erhm... [Hあだ名].”
+「おーっほっほっほ！　二人の仲がより深まったような気分ですわ。あなたも同じ気持ちでしょう？」=“Ohohohoh! It almost feels as though our relationship got stronger. You feel the same, do you not?”
+「そうだね。なんだか、特別な関係って感じだよね」=“Yeah. Feels almost like it became more special, doesn't it?”
+「そうでしょうそうでしょう。まあ、また気が向けば、愛称で呼んで差し上げます」=“Right, right? Well, if the mood strikes me, I shall call you that again.”
+「うん、楽しみにしてるよ」=“Yeah, I'll be waiting.”

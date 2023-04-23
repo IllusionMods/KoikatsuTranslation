@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「………………静かだね」=
-//「……ええ、静かですわね。こういう時は勉強以外のことも捗りそうですわ」=
-//「勉強以外って？　恋人同士でするようなこと？」=
-//「おーっほっほっほ、そんなこと、ここでは言えませんわ」=
-//「シーッ……高笑いは控えて。ここ図書室だから……」=
+「………………静かだね」=“...Quiet, huh?”
+「……ええ、静かですわね。こういう時は勉強以外のことも捗りそうですわ」=“...Yes, very. At times such as these, we could make quite the headway in other matters as well.”
+「勉強以外って？　恋人同士でするようなこと？」=“Other matters? Matters between us lovers?”
+「おーっほっほっほ、そんなこと、ここでは言えませんわ」=“Ohohohoh, you cannot say such things here.”
+「シーッ……高笑いは控えて。ここ図書室だから……」=“Shhhh... hold in that laugh. We're in the library...”

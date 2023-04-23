@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「ごきげんよう、[Pあだ名]」=
-//「あ、ごきげんよう。[Hあだ名]」=
-//「おほほほ、たまにはいいですわね、こうして愛称で呼び合うというのも」=
+「ごきげんよう、[Pあだ名]」=“Good day, [Pあだ名].”
+「あ、ごきげんよう。[Hあだ名]」=“Ah, good day to you, [Hあだ名].”
+「おほほほ、たまにはいいですわね、こうして愛称で呼び合うというのも」=“Ohohohoh, it is nice every so often, isn't it? To call each other by nicknames in this manner.”

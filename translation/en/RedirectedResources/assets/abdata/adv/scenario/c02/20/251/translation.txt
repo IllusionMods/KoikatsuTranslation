@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//（ふぅ、もうすぐ駅か……うん、今日のデートも良い思い出が作れた……よな？）=
-//（特に最後の観覧車……二人きりになれて、いい雰囲気だった）=
-//（……思い出すと、ちょっとにやけちゃうな）=
-//（……よしっ！　次も、そのまた次も絶対[H名]さんを楽しませるデートにしよう！）=
+（ふぅ、もうすぐ駅か……うん、今日のデートも良い思い出が作れた……よな？）=(Fuuh, almost at the station, huh... yep, today's date made for some great memories too... I hope?)
+（特に最後の観覧車……二人きりになれて、いい雰囲気だった）=(Especially that ferris wheel ride at the end... we had such a nice mood going there.)
+（……思い出すと、ちょっとにやけちゃうな）=(...Can't help but grin a bit, thinking back to it.)
+（……よしっ！　次も、そのまた次も絶対[H名]さんを楽しませるデートにしよう！）=(...Alright--! Let's make the next date, and the one after that, even more enjoyable for [H名]-san--!)

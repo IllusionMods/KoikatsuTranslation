@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「本気でおっしゃってるの？　このわたくしと別れたいなどと……冗談ですわよね？」=
-//「……本気だよ。ちゃんと考えたんだ」=
-//「そう、わたくしとは違う考えを持っているようね……残念ですわ」=
-//「俺も残念だよ」=
-//「まあ、所詮はわたくしに見合う人ではなかった、ということですわね。それではごきげんよう」=
+「本気でおっしゃってるの？　このわたくしと別れたいなどと……冗談ですわよね？」=“Are you being serious? Wanting to part with one such as me... surely that's a joke?”
+「……本気だよ。ちゃんと考えたんだ」=“...I'm serious. I thought it over for a long time.”
+「そう、わたくしとは違う考えを持っているようね……残念ですわ」=“I see, you hold a different opinion from me, do you... a shame.”
+「俺も残念だよ」=“Yep, it's very much a shame.”
+「まあ、所詮はわたくしに見合う人ではなかった、ということですわね。それではごきげんよう」=“Well, it simply means that you aren't a man fitting for me, and nothing more. Good day to you.”
