@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「あっ、おはよう。朝から会えるなんて。フフッ、今日はいっぱい頑張れそうよ」=
+「あっ、おはよう。朝から会えるなんて。フフッ、今日はいっぱい頑張れそうよ」=“Ah--, morning. To think we'd see each other right in the morning. Fufuh--, I think I'm gonna get a lot done today.”

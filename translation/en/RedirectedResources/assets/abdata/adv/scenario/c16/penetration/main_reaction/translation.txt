@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「なぁっ！？　えっと……女性同士でこういう事をするのも、おかしくはないと思うでしょ？」=
+「なぁっ！？　えっと……女性同士でこういう事をするのも、おかしくはないと思うでしょ？」=“Wha--?! Erhm... women doing these sorts of things together, isn't that strange, is it?”

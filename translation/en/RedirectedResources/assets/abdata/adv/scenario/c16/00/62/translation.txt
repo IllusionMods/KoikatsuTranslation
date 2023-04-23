@@ -4,10 +4,10 @@
 ………………=.........
 …………=......
 ……=...
-//「そろそろお別れね。フフッ、楽しい時間はあっという間って実感させられるわ」=
-//CHOICE:「時間があればもう少し俺の家で話さない？」=
-//CHOICE:「そうだね。また会えるの、楽しみにしてるよ」=
-//「ホントだね。あーその、時間があればなんだけど……もう少し俺の家で話さない？」=
-//「えぇ、彼氏さんからのお誘いなら断れないものね。じゃあ、行きましょっ」=
-//「そうだね。また会えるの、楽しみにしてるよ」=
-//「うん、私も楽しみにしてるわ。それじゃ、また」=
+「そろそろお別れね。フフッ、楽しい時間はあっという間って実感させられるわ」=“It's almost time for us to say goodbye. Fufuh--, days like this make you realize just what it means for time to fly.”
+CHOICE:「時間があればもう少し俺の家で話さない？」=If you've got time, wanna go to my place to continue our chat?
+CHOICE:「そうだね。また会えるの、楽しみにしてるよ」=For real. I'm looking forward, to seeing you again soon.
+「ホントだね。あーその、時間があればなんだけど……もう少し俺の家で話さない？」=“Seriously. Ah, uhm, if you still have some time on your hands... wanna go up to my place? We could continue our chat there.”
+「えぇ、彼氏さんからのお誘いなら断れないものね。じゃあ、行きましょっ」=“Sure, it's not like I can say no when it's my boyfriend asking. Let's go then--”
+「そうだね。また会えるの、楽しみにしてるよ」=“For real. I'm looking forward, to seeing you again soon.”
+「うん、私も楽しみにしてるわ。それじゃ、また」=“Yep, me too. See you then.”

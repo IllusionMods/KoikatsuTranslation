@@ -1,17 +1,17 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「さぁ、今日は思い切り楽しみましょう。色々予定も考えてきてあるの」=
-//「おっけー！　じゃあ早速行こうか！　（俺も考えてきたけど、彼女に任せた方がよさそうかな）」=
-//「ねぇ知ってる？　あそこのケーキ、雑誌で紹介されててね」=
-//「知ってるよ。実は俺も下調べしてて、一緒に行きたいなって思ってたんだ」=
-//「へぇ、そうだったのね。フフッ、アナタも下調べしてくれてたんだ……ちょっと嬉しい」=
-//「彼女とデートだからね。そりゃ気合も入れるよ」=
-//「彼女……ね。そう呼ばれると、なんだかくすぐったい。ふふっ、ケーキ食べに行きましょ♪」=
-//「ふぅ、ちょっとはしゃぎ過ぎたかしら……もうこんな時間。最後にどこか行きたいところはある？」=
-//CHOICE:「……よければ家に来ない？　もうちょっと一緒にいたいな」=
-//CHOICE:「特にないかな」=
-//「行きたいところっていうか……よければ家に来ない？　もうちょっと一緒にいたいな……」=
-//「えっ、あ、アナタの家？　ぁ……うん。いいわよ。私も……もう少し一緒にいたいし」=
-//「うーん、特にないかな。もう遅いし、送っていくよ」=
-//「そう……うん、そうね。家に帰るまでがデートよ。最後までエスコートしてね」=
+「さぁ、今日は思い切り楽しみましょう。色々予定も考えてきてあるの」=“Now then, let's enjoy ourselves thoroughly today. I've already thought of all sorts of stuff for us to do.”
+「おっけー！　じゃあ早速行こうか！　（俺も考えてきたけど、彼女に任せた方がよさそうかな）」=“Okay! Let's go then! (I planned a bunch of stuff too, but I guess leaving it to my girlfriend isn't such a bad idea either.)”
+「ねぇ知ってる？　あそこのケーキ、雑誌で紹介されててね」=“Hey, did you know? The cake from that place, it's been featured in a local magazine.”
+「知ってるよ。実は俺も下調べしてて、一緒に行きたいなって思ってたんだ」=“Yep, I did. I actually checked it before too, and wanted to visit the place with you today.”
+「へぇ、そうだったのね。フフッ、アナタも下調べしてくれてたんだ……ちょっと嬉しい」=“Hoh, I see. Fufuh--, so you planned stuff too... that makes me kinda happy.”
+「彼女とデートだからね。そりゃ気合も入れるよ」=“Of course, it's a date with my girlfriend. I'm not gonna slack off.”
+「彼女……ね。そう呼ばれると、なんだかくすぐったい。ふふっ、ケーキ食べに行きましょ♪」=“Girlfriend... huh? It feels a bit ticklish, when you call me that. Fufuh--, let's go eat that cake then♪”
+「ふぅ、ちょっとはしゃぎ過ぎたかしら……もうこんな時間。最後にどこか行きたいところはある？」=“Fuh, I wonder if we ran around a bit too much... it's already this late. Is there any place you would like to go before we say goodbye?”
+CHOICE:「……よければ家に来ない？　もうちょっと一緒にいたいな」=...Won't you come over to my place? I wanna be with you more.
+CHOICE:「特にないかな」=Not really.
+「行きたいところっていうか……よければ家に来ない？　もうちょっと一緒にいたいな……」=“Well, I guess it'd count as that... hey, won't you come over to my place? I wanna be with you a bit more...”
+「えっ、あ、アナタの家？　ぁ……うん。いいわよ。私も……もう少し一緒にいたいし」=“Eh--, y-your home? Ah... yep. Sure. I want to... be with you a bit longer too.”
+「うーん、特にないかな。もう遅いし、送っていくよ」=“Nnnn, not really. It's gotten pretty late, I'll drop you off.”
+「そう……うん、そうね。家に帰るまでがデートよ。最後までエスコートしてね」=“I see... yep, you're right. Our date's still on until we get home. So escort me till the end, okay?”

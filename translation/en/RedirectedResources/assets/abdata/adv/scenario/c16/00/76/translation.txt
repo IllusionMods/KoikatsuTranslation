@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「あー、学園で[H]の水着が見れるなんて幸せ……」=
-//「もう、アナタね……そういう事は思っていても言わないものよ」=
-//「いや、恋人には正直にありたいと思って」=
-//「そこで開き直られてもね……。まぁいいわ、準備運動しましょ。変なとこ触らないでね？」=
+「あー、学園で[H]の水着が見れるなんて幸せ……」=“Aah, I'm so blessed, to think I get to see you in your swimsuit at school...”
+「もう、アナタね……そういう事は思っていても言わないものよ」=“Jeez, you're... even if you feel that way, you shouldn't say it outloud.”
+「いや、恋人には正直にありたいと思って」=“No well, I wanted to be honest with you, since you're my girlfriend.”
+「そこで開き直られてもね……。まぁいいわ、準備運動しましょ。変なとこ触らないでね？」=“That's the hill you're choosing to die on?... Well, whatever, let's do some warm-up exercises. Don't touch me somewhere weird, okay?”

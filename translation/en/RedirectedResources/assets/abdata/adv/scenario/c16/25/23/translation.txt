@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「お菓子を作る授業があってね。クッキーを焼いてみたの」=
-//「ほら、こういうのって客観的な意見が必要じゃない？　だからその……食べてみてくれるかしら」=
-//「ど、どう？　って、まだ食べてるわね。あ、それ……美味しそうな顔……よね？」=
+「お菓子を作る授業があってね。クッキーを焼いてみたの」=“They had us making some sweets in class today. So I tried baking some cookies.”
+「ほら、こういうのって客観的な意見が必要じゃない？　だからその……食べてみてくれるかしら」=“C'mon, you need an objective opinion at times like these, no? So uhm... will you try them?”
+「ど、どう？　って、まだ食べてるわね。あ、それ……美味しそうな顔……よね？」=“H-How are they? Ah, you're still eating, sorry. Ah, your face says... you like them... right?”

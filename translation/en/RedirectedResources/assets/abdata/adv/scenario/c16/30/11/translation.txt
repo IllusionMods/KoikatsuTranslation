@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「あのね……突然だけど、別れましょう私達……」=
-//「そんなっ！　どうして！」=
-//「色々考えたの。それで、このままじゃお互いにとってよくないって思ったのよ……」=
-//「そんな……一方的だよ！」=
-//「わかってる。でもアナタのためでもあるの。今までありがとう。でも、もうさよなら……」=
+「あのね……突然だけど、別れましょう私達……」=“Hey, listen... it's a bit sudden but, let's split up...”
+「そんなっ！　どうして！」=“Wha--! Why!”
+「色々考えたの。それで、このままじゃお互いにとってよくないって思ったのよ……」=“I've thought about it a bunch. And I realized that the way things are, it's not good for either of us...”
+「そんな……一方的だよ！」=“But... that's so one-sided!”
+「わかってる。でもアナタのためでもあるの。今までありがとう。でも、もうさよなら……」=“I know. But it's for your sake too. Thanks for everything till now. But, it's goodbye now...”

@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「ねぇ、私の何が悪かったの？　私、これでも一生懸命やってきたつもりよ！」=
-//「わかってる……感謝もしてるよ。でも、もう無理なんだ」=
-//「ふっ……ふふっ……何よそれ……あーあ、何なのよもう……私……バカみたい」=
-//「…………ごめん」=
-//「謝らないで！　結局、私が何もわかっていなかっただけでしょう？　もういいわ、さようなら」=
+「ねぇ、私の何が悪かったの？　私、これでも一生懸命やってきたつもりよ！」=“Hey, just what didn't you like? It may not have looked like it, but I've been putting my all into this!”
+「わかってる……感謝もしてるよ。でも、もう無理なんだ」=“I get that... and I'm grateful. But, I can't do it anymore.”
+「ふっ……ふふっ……何よそれ……あーあ、何なのよもう……私……バカみたい」=“Fuh--... fufuh--... what the heck is that... aaaah, just what the heck... I... I feel like an idiot.”
+「…………ごめん」=“...Sorry.”
+「謝らないで！　結局、私が何もわかっていなかっただけでしょう？　もういいわ、さようなら」=“Don't apologize! In the end, I was the one who didn't understand anything, no? It's fine, goodbye.”

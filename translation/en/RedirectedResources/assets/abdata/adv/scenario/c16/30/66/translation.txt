@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「あっ、ちょっと寄りたい所があるのだけれど……いいかしら？」=
-//「いいよ。どこの店？」=
-//「ん？　普通の本屋さんよ。そうそう、昨日の新刊でアナタにオススメの本があったのよ」=
-//「へぇ、どんなの？」=
-//「経営学の本なんだけどね、読んでおいて損はないから。フフッ、きっと気に入ると思うの♪」=
+「あっ、ちょっと寄りたい所があるのだけれど……いいかしら？」=“Ah--, there's a place I'd like to stop by at... could we?”
+「いいよ。どこの店？」=“Sure. What shop is it?”
+「ん？　普通の本屋さんよ。そうそう、昨日の新刊でアナタにオススメの本があったのよ」=“Nn? Just a regular bookstore. Right, there was a book on the new releases list yesterday, that I'd recommend for you.”
+「へぇ、どんなの？」=“Hoh, what sort?”
+「経営学の本なんだけどね、読んでおいて損はないから。フフッ、きっと気に入ると思うの♪」=“It's a book on business administration but, it's not like you'll lose anything by reading it. Fufuh--, I'm sure you'll like it♪”

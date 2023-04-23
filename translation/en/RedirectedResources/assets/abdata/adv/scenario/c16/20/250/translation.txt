@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「はぁ、楽しかった時間が過ぎ去っていく……さらば遊園地……」=
-//「もう、恥ずかしいからそういうのやめて？　皆に見られてるわよ？」=
-//「うぅ、だって……夢のような時間から現実に帰るのが辛くて」=
-//「現実があるから夢が見れるのよ。まずはしっかり地に足をつけないとね」=
-//「ごもっとも……[H名]はいつもいいこと言うね」=
+「はぁ、楽しかった時間が過ぎ去っていく……さらば遊園地……」=“Haah, and thusly the fun times pass away... goodbye, amusement park...”
+「もう、恥ずかしいからそういうのやめて？　皆に見られてるわよ？」=“Jeez, it's embarrassing so could you stop that? Everyone's staring, you know?”
+「うぅ、だって……夢のような時間から現実に帰るのが辛くて」=“Uu, I can't help it... it hurts to return to reality from that dreamy place.”
+「現実があるから夢が見れるのよ。まずはしっかり地に足をつけないとね」=“There's no dream without reality. We gotta start by having out feet firmly on the ground.”
+「ごもっとも……[H名]はいつもいいこと言うね」=“Indeed, it is as you say... you always say such nice things.”

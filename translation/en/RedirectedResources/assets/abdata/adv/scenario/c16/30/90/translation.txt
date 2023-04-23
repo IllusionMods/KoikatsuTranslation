@@ -1,17 +1,17 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「あー、その……私達って、付き合ってるじゃない？」=
-//「そうだけど、急にどうしたの？」=
-//「えっとね……なんていうか、ならそれ相応の呼び方というか……愛称で呼び合うって良いと思わない？」=
-//「あー、そういう事ね。うん、全然オッケーだよ！」=
-//「はぁ、良かった……。じゃあ、早速だけど……呼んでみるわね」=
+「あー、その……私達って、付き合ってるじゃない？」=“Aah, uhm... we're dating, aren't we?”
+「そうだけど、急にどうしたの？」=“We are but, what's this about?”
+「えっとね……なんていうか、ならそれ相応の呼び方というか……愛称で呼び合うって良いと思わない？」=“Eerhm, you see... I just thought that, maybe we could call each other something fitting... like, don't you think it'd be nice to have nicknames for each other?”
+「あー、そういう事ね。うん、全然オッケーだよ！」=“Aah, I see, I get the gist. Yep, I'm completely fine with it!”
+「はぁ、良かった……。じゃあ、早速だけど……呼んでみるわね」=“Haah, thank god... Then, I'll just... go ahead and do it, okay?”
 「……[Pあだ名]」=“...[Pあだ名]”
-//「っ！　こ、これは……凄いね。照れるっていうか……あ、俺も愛称で呼んでいい、んだよね？」=
-//「え、えぇ、もちろんよ。好きなように呼んでみて」=
-//「わかった。じゃあいくよ……[Hあだ名]」=
-//「んっ……確かに、凄いわね。やっぱり呼び方っていうのは個を表す上でかなり重要な要素だと……」=
-//「はは、そんなに小難しく言わなくても。でも、[Hあだ名]のそういうとこ可愛いよね」=
-//「かわっ！？　うぅぅ……そうやってからかうなら、この話は無しにします！」=
-//「ちょ、待って！　今のなし！　謝るから！　たまにでもいいから愛称で呼び合おうよ」=
-//「むぅぅ……はぁ、まぁいいわ。私から言い出したわけだし……割と気に入ったし」=
+「っ！　こ、これは……凄いね。照れるっていうか……あ、俺も愛称で呼んでいい、んだよね？」=“--! T-That's... amazing. I can feel myself blushing... ah, I can call you, one too, right?”
+「え、えぇ、もちろんよ。好きなように呼んでみて」=“Y-Yes, of course. Try calling me whatever you think fits.”
+「わかった。じゃあいくよ……[Hあだ名]」=“Got it. Then, here I go... [Hあだ名].”
+「んっ……確かに、凄いわね。やっぱり呼び方っていうのは個を表す上でかなり重要な要素だと……」=“Nn--... certainly, it's amazing. The way you refer to someone really is a very important part of expressing your own individuality...”
+「はは、そんなに小難しく言わなくても。でも、[Hあだ名]のそういうとこ可愛いよね」=“Hahah, you don't need to overthink it that much. But you look cute when you do, you know? [Hあだ名].”
+「かわっ！？　うぅぅ……そうやってからかうなら、この話は無しにします！」=“Cut--!? Uuu... if you're going to tease me like that, I shall forget this conversation ever happened!”
+「ちょ、待って！　今のなし！　謝るから！　たまにでもいいから愛称で呼び合おうよ」=“Hey--, wait! Forget what I said! I'm sorry! Let's call each other that, even if it's just every so often.”
+「むぅぅ……はぁ、まぁいいわ。私から言い出したわけだし……割と気に入ったし」=“Muuh... haah, well whatever. I was the one who suggested it... and I like them quite a bit anyway.”

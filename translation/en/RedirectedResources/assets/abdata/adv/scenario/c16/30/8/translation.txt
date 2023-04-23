@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「ぇっ……ず、随分ストレートに言うのね……でも私達、まだそういう関係じゃ……」=
-//「たしかに恋人とかじゃないけど。でも、きみとしたいんだ」=
-//「よく言えば情熱的、悪く言えば無鉄砲。どちらにせよ、そこまで求められて悪い気はしないわね……」=
-//「いいわ。私も興味があったし。でも勘違いしないでね？　私の目が節穴だったと思わせないで頂戴」=
+「ぇっ……ず、随分ストレートに言うのね……でも私達、まだそういう関係じゃ……」=“Eh--... y-you're quite direct, aren't you... but we're, not in that sort of a relation...”
+「たしかに恋人とかじゃないけど。でも、きみとしたいんだ」=“For sure, we're not a couple or anything. But I want to do it with you.”
+「よく言えば情熱的、悪く言えば無鉄砲。どちらにせよ、そこまで求められて悪い気はしないわね……」=“Not sure if you're passionate, or just rash. Either way, being wanted that much doesn't feel bad...”
+「いいわ。私も興味があったし。でも勘違いしないでね？　私の目が節穴だったと思わせないで頂戴」=“Sure. I was interested in this too. But don't misunderstand, alright? You've a job to not make me think I messed up.”

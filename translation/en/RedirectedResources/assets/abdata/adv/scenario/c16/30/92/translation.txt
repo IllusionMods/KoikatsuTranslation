@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「ん……我がままを聞いてくれてありがとう」=
+「ん……我がままを聞いてくれてありがとう」=“Nn... thanks, for listening to my selfishness.”

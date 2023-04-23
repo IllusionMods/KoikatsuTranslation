@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「あっ、これ……いつもベストなものをくれるのね。気持ちだけでも嬉しいのに、最高よ」=
+「あっ、これ……いつもベストなものをくれるのね。気持ちだけでも嬉しいのに、最高よ」=“Ah--, this... you always just give me the most perfect things, don't you? Even though I'd appreciate just the effort alone, this is the best.”

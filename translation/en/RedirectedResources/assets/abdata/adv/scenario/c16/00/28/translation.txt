@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「わぁ……私の好み、調べてくれたのね。フフッ、ありがとう。大切にするわね」=
+「わぁ……私の好み、調べてくれたのね。フフッ、ありがとう。大切にするわね」=“Wah... so you figured out what I like, huh? Fufuh--, thanks. I'll treasure it.”

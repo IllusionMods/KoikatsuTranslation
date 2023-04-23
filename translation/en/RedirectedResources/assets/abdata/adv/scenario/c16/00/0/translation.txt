@@ -1,12 +1,12 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「今いいかな？　出来れば君と話してみたいんだけど」=
-//「えぇ、いいわよ。私もアナタには興味があったの」=
-//「そっか、それはちょっと嬉しいかな。俺は[P名前]って言うんだ。よろしく」=
-//「勘違いしないでね？　あくまで一人の男性として気になるという事よ」=
-//「えっ、それってまさか……いきなり告白？」=
-//「ち、違うわ！　な、何でそうなるのよ……男を知るためのサンプルとして興味があるという事！」=
-//「あー、ここ女子校だったもんね、男に関心はあるけど僕個人にはまだないって感じかな？」=
-//「最初からそう言ってるでしょ。男は理解力が低いの？」=
-//「あはは……人それぞれって感じかな。次からはすぐ理解できるように頑張るよ」=
+「今いいかな？　出来れば君と話してみたいんだけど」=“Is now a good time? I'd like to chat with you, if that's okay.”
+「えぇ、いいわよ。私もアナタには興味があったの」=“Yes, sure. I had some interest in you as well.”
+「そっか、それはちょっと嬉しいかな。俺は[P名前]って言うんだ。よろしく」=“I see, that makes me kinda happy. I go by [P名前]. Nice to meetcha.”
+「勘違いしないでね？　あくまで一人の男性として気になるという事よ」=“Don't misunderstand, okay? At the end of the day, I'm only curious since you're a man, and not beyond that.”
+「えっ、それってまさか……いきなり告白？」=“Eh--, is that a sudden... love confession?”
+「ち、違うわ！　な、何でそうなるのよ……男を知るためのサンプルとして興味があるという事！」=“I-It's not! H-How do you even come to that conclusion... I meant to say that I'm only curious about you as a sample via which to come to know of the other gender.”
+「あー、ここ女子校だったもんね、男に関心はあるけど僕個人にはまだないって感じかな？」=“Aah, well it is an all-girls school so, I guess you're interested in men but not me personally, I take it?”
+「最初からそう言ってるでしょ。男は理解力が低いの？」=“I've been saying that from the start. Do men simply lack comprehension ability?”
+「あはは……人それぞれって感じかな。次からはすぐ理解できるように頑張るよ」=“Ahahah... well, that depends upon the person. I'll try harder to understand you right away, next time.”

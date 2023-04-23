@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「コイカツ部に入ると私に何かメリットがあるのかしら？」=
-//「コイカツができる！」=
-//「全然説明になってないわ。もっと具体的に言って」=
-//「うーん、恋愛の練習ができる？　ほら、何事にも練習は必要でしょ？」=
-//「プッ、それ、私の真似をしてるつもり？」=
-//「あはは……ごめん。それで、どうかな？　コイカツ部、入ってくれる？」=
-//「そうね。何事にも練習は必要だもの。色々経験させてもらうわ。よろしくね」=
+「コイカツ部に入ると私に何かメリットがあるのかしら？」=“And what do I gain from joining this Koikatsu club of yours?”
+「コイカツができる！」=“You'll get to do love activities!”
+「全然説明になってないわ。もっと具体的に言って」=“That's not an explanation at all. Be more clear.”
+「うーん、恋愛の練習ができる？　ほら、何事にも練習は必要でしょ？」=“Nnn, you'll get to do some romance practice? I mean, practice makes perfect, no?”
+「プッ、それ、私の真似をしてるつもり？」=“Puh--, pretending to be me, are you?”
+「あはは……ごめん。それで、どうかな？　コイカツ部、入ってくれる？」=“Ahahah... sorry. So, how about it? Will you join the club?”
+「そうね。何事にも練習は必要だもの。色々経験させてもらうわ。よろしくね」=“Well, practice does make perfect. I'll have you show me all sorts of things. So sure.”

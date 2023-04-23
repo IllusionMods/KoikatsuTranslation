@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「ここの日替わりランチ、美味しいのよね。お気に入りなの」=
-//「そうなんだ。じゃあ今日は俺もそれにしようかな」=
-//「日替わりだから、一週間来ないと全部制覇できないわよ。ふふっ、また来る理由が出来たわね」=
+「ここの日替わりランチ、美味しいのよね。お気に入りなの」=“The daily lunch special here's really good, isn't it? It's one of my favourites.”
+「そうなんだ。じゃあ今日は俺もそれにしようかな」=“I see. Guess I'll go with that myself too, today.”
+「日替わりだから、一週間来ないと全部制覇できないわよ。ふふっ、また来る理由が出来たわね」=“It changes daily so, if you don't visit every single day of the week, you can't conquer it all. Fufuh--, and there's another reason to do this again.”

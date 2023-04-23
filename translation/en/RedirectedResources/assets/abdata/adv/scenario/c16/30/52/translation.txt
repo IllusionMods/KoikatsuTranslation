@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「一人だけ満足っていうのはセックスとは言わないのよ？　ほら、ちゃんと満足させて」=
+「一人だけ満足っていうのはセックスとは言わないのよ？　ほら、ちゃんと満足させて」=“Just satisfying yourself doesn't make it sex, you know? C'mon, satisfy me too.”

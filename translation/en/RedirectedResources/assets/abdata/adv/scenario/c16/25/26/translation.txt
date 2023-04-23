@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「あら、私にプレゼント？　そう、嬉しいわ。うん、素直に嬉しい。本当よ」=
+「あら、私にプレゼント？　そう、嬉しいわ。うん、素直に嬉しい。本当よ」=“My, a present for me? I see, I'm thankful. Yep, I'll admit that. I'm happy right now, it's true.”

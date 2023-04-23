@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「アナタ……目的地も告げずに、異性が付いてくると思っているの？」=
-//「いやその……怪しい事考えてるわけじゃなくて……」=
-//「ふぅん。ではその言葉を信用しましょう。裏切ったら……わかるわね？」=
+「アナタ……目的地も告げずに、異性が付いてくると思っているの？」=“You... do you really think someone from the other gender will follow you willingly, without you telling them the destination?”
+「いやその……怪しい事考えてるわけじゃなくて……」=“No well... it's nothing suspicious, trust me...”
+「ふぅん。ではその言葉を信用しましょう。裏切ったら……わかるわね？」=“Hmmm. Well, I suppose I will. If you betray me... you understand, right?”

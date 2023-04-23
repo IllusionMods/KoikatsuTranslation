@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「…………うーん」=
-//「どうしたの？　何かわからない事？」=
-//「うん……ここが何回読んでもわからなくて……」=
-//「あぁそれね。確かにわかりにくいかも。うーん、これは書き方が悪いのよ。教えてあげるわね」=
-//「あっ、う、うん！　ありがとう……」=
-//（うわっ……顔が近くて……ドキドキする……）=
+「…………うーん」=“...Nnn.”
+「どうしたの？　何かわからない事？」=“What's wrong? A part that you don't get?”
+「うん……ここが何回読んでもわからなくて……」=“Yeah... No matter how much I read this I just don't get it...”
+「あぁそれね。確かにわかりにくいかも。うーん、これは書き方が悪いのよ。教えてあげるわね」=“Ah, that. It's certainly worded a bit convoluted. Nnn, I'll simplify it for you, since the author didn't.”
+「あっ、う、うん！　ありがとう……」=“Ah--, o-okay! Thanks...”
+（うわっ……顔が近くて……ドキドキする……）=(Uwah--... her face is so close... my heart's pounding...)

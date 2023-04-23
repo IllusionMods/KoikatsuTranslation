@@ -1,16 +1,16 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「そろそろ閉園時間も迫ってきたわね。皆帰り始めているようだけど、私達はどうしましょうか？」=
-//CHOICE:『最後に観覧車に乗りたいな』=
-//CHOICE:『俺達も帰った方がよさそうかな』=
-//「最後に観覧車に乗ろうよ。今日のシメって感じでさ」=
-//「そうね。ゆっくりできて丁度いいかも」=
-//「そうそう、最後にゆっくり、今日のデートを振り返る的な感じで」=
-//「それなら、上から見るのは効率的ね。園内全部を見渡せれば、次に来た時に行きたい場所も見つかるだろうし」=
-//「うんうん、じゃあ早速行こうか！　人が少ないから、並ばないで乗れそうだよ」=
-//「右へならえってわけじゃないけど、俺達も帰ろうか」=
-//「群衆心理というやつね。まぁ、十分楽しんだし、もう帰るのには賛成よ」=
-//「うん、ギリギリで遊んで疲れちゃうよりは、余力を残して帰った方がいいよね」=
-//「ごもっとも。はしゃぎ過ぎて、明日動けなくなりましたでは、話にならないもの」=
-//「はは、確かにね。それじゃあ、最後にお土産くらいは見ていこうか」=
+「そろそろ閉園時間も迫ってきたわね。皆帰り始めているようだけど、私達はどうしましょうか？」=“Closing time's just about snuck up on us. Seems like everyone's just about starting to head home, what shall we do?”
+CHOICE:『最後に観覧車に乗りたいな』=I wanna ride the ferris wheel to close things off.
+CHOICE:『俺達も帰った方がよさそうかな』=Maybe we should go home too.
+「最後に観覧車に乗ろうよ。今日のシメって感じでさ」=“Let's go ride the ferris wheel. You know, to close the date off.”
+「そうね。ゆっくりできて丁度いいかも」=“Yeah. It might be just perfect, with how nice and slow it is.”
+「そうそう、最後にゆっくり、今日のデートを振り返る的な感じで」=“Exactly, a nice ride to look back on the day we had today, and all.”
+「それなら、上から見るのは効率的ね。園内全部を見渡せれば、次に来た時に行きたい場所も見つかるだろうし」=“In that case, it really would be efficient to look down from up above. It'll be easier to plan our route for the next time we come here too, if we can see the whole park.”
+「うんうん、じゃあ早速行こうか！　人が少ないから、並ばないで乗れそうだよ」=“Yep yep, let's go then! There's not many people so, I don't think we'll have to line up.”
+「右へならえってわけじゃないけど、俺達も帰ろうか」=“I mean, not to follow exactly what everyone else's doing but, we should go home too.”
+「群衆心理というやつね。まぁ、十分楽しんだし、もう帰るのには賛成よ」=“Group psychology coming into play, huh? Well, we did have our fun, plenty of it, so I agree that we should go home.”
+「うん、ギリギリで遊んで疲れちゃうよりは、余力を残して帰った方がいいよね」=“Yep, rather than running ourselves ragged till the last minute, it'd be better to go home with some energy to spare, wouldn't it?”
+「ごもっとも。はしゃぎ過ぎて、明日動けなくなりましたでは、話にならないもの」=“Indeed, as you say. An excuse like "I couldn't get out of bed because I couldn't move" isn't gonna fly in anywhere, least of all at school.”
+「はは、確かにね。それじゃあ、最後にお土産くらいは見ていこうか」=“Hahah, yeah. Well then, let's atleast go look at some souvenirs or something before we head out.”

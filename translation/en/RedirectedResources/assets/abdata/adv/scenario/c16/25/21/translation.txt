@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「昨日はよく眠れた？　課題はきちんとやってきてあるわよね？」=
-//「ははっ、なんかお母さんみたいだ」=
-//「おかっ！　ち、違うわよ……私はアナタの彼女……お母さんになるのは……もうちょっと先よ……」=
+「昨日はよく眠れた？　課題はきちんとやってきてあるわよね？」=“Did you sleep well last night? You made sure to do the assignment, right?”
+「ははっ、なんかお母さんみたいだ」=“Haha--, you're kinda like a mom, you know?”
+「おかっ！　ち、違うわよ……私はアナタの彼女……お母さんになるのは……もうちょっと先よ……」=“Mo--! I-I'm not... I'm your girlfriend right now... becoming a mom is... still a bit ways away...”

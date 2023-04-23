@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「ちょ、ちょっと待ってね。顔がその……ふにゃふにゃになっちゃって……うぅ、あっち向いてて」=
+「ちょ、ちょっと待ってね。顔がその……ふにゃふにゃになっちゃって……うぅ、あっち向いてて」=“H-Hang on a sec, okay? My face is... it's kinda going all limp and loose... uuu, turn around, dummy.”

@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「へぇ、思い切ったわね。何か勝算が？」=
-//「特にないよ。強いていうなら勢いかな」=
-//「プッ、何よそれ……でも気に入ったわ。予定を決めましょ」=
+「へぇ、思い切ったわね。何か勝算が？」=“Hoh, that's bold of you. What makes you think you have a chance?”
+「特にないよ。強いていうなら勢いかな」=“Nothing in particular. If I had to say, I thought my energy would get through to you.”
+「プッ、何よそれ……でも気に入ったわ。予定を決めましょ」=“Pfft--, what's with that... but I don't hate that. Let's decide on the plan.”
