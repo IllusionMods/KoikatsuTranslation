@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「すっかり暗くなったし、そろそろ帰らないと……」=
-//「残念ですわ。でも、仕方ありませんわね」=
-//「帰って、ベッドの中とかに入ると……なんか乗り物に乗ってる感覚が蘇ってこない？」=
-//「おほほほ、帰ってからも、遊園地の余韻を楽しめますわね。ベッドに入るのが楽しみですわ」=
-//「ははは、俺も楽しみになって来たよ！」=
+「すっかり暗くなったし、そろそろ帰らないと……」=“It's gotten pitch dark out, we gotta head home...”
+「残念ですわ。でも、仕方ありませんわね」=“A shame. But, it cannot be helped, can it?”
+「帰って、ベッドの中とかに入ると……なんか乗り物に乗ってる感覚が蘇ってこない？」=“After a day like this, when you get home, and get back into bed... doesn't it feel like you've gotten right back into a ride again?”
+「おほほほ、帰ってからも、遊園地の余韻を楽しめますわね。ベッドに入るのが楽しみですわ」=“Ohohohoh, even at home, we can enjoy a bit of the feeling, huh? I cannot wait to get into bed.”
+「ははは、俺も楽しみになって来たよ！」=“Hahahah, now I'm looking forward to it too!”

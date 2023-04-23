@@ -1,24 +1,24 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「この待っている間が、ドキドキいたしますわね。素敵な時間の始まりを予感させますわ」=
-//「うう、ハードルあがるなぁ……」=
-//「この程度でプレッシャーを感じてしまうようでは、わたくしのお相手は務まりませんですわよ」=
-//「うん、大丈夫。緊張はしてるけど、ビビっちゃいないよ」=
-//「男らしくて結構なお言葉ですわね。これは期待できそうですわ……おーっほっほっほ」」=
-//「た、高笑いは止めて……他の人の迷惑になるから」=
-//「失敬。この高笑いをするクセ、困ったものですわ」=
-//「いや、いいと思うけどね。むしろ高笑いしないなんて、似合わないよ……時と場所さえ選んでくれるならね」=
-//「[H名]さんは基本目立つの好きだよね。おしゃれとか、すっごくこだわり感じるし」=
-//「もちろんですわ！　おーっほっほっほ！」=
-//「オホン……ＴＰＯを考えて」=
-//「オ、オホホホ……失敬。ですが、こうして目立つこと、人に関心を持ってもらうことが、本当に大好きですわ」=
-//「うん……俺もそう思うよ」=
-//「でしょう？　あなたも、わたくしのように注目を浴びてみるとよろしくてよ」=
-//「う、うん……そうなれるよう頑張ってみるよ」=
-//「どうなのでしょうね？　目立つことは好きですが、オシャレにはあまり興味はありませんでしてよ」=
-//「そうなの？　いつもステキだなーって思ってんだけどな。実際目立ってるし」=
-//「おほほほ、目立つのはわたくし本人の資質ゆえですもの！　衣服などに頼らずとも、生まれたままの姿でも目立ってみせますわ！」=
-//「う、うん……生まれたまま……違う意味で目立つね、それ……」=
-//「おーっほっほっほ！　目立つことに、意味など求めませんわ！」=
-//「オホン…………だから……静かに、ね？」=
+「この待っている間が、ドキドキいたしますわね。素敵な時間の始まりを予感させますわ」=“This time spent waiting, really makes your heart pound, doesn't it? It almost forebodes the start of a wonderful experience.”
+「うう、ハードルあがるなぁ……」=“Uuu, that really raises the bar, you know...”
+「この程度でプレッシャーを感じてしまうようでは、わたくしのお相手は務まりませんですわよ」=“Feeling pressure from something this minor, is not fitting for any partner of mine, you know?”
+「うん、大丈夫。緊張はしてるけど、ビビっちゃいないよ」=“Yep, I'm alright. A bit nervous but, this won't spook me.”
+「男らしくて結構なお言葉ですわね。これは期待できそうですわ……おーっほっほっほ」」=Quite the fine, manly words. I can expect good things from you... ohohohoh--
+「た、高笑いは止めて……他の人の迷惑になるから」=“R-Rein in that laughter... we're gonna be a bother to others.”
+「失敬。この高笑いをするクセ、困ったものですわ」=“Apologies. It is troubling, this laughing habit of mine.”
+「いや、いいと思うけどね。むしろ高笑いしないなんて、似合わないよ……時と場所さえ選んでくれるならね」=“No, I think it's fine. If anything, you wouldn't be you, if you didn't laugh like that... as long as you pay attention to the time and place, that is.”
+「[H名]さんは基本目立つの好きだよね。おしゃれとか、すっごくこだわり感じるし」=“At your core, you like standing out, don't you? The way you dress, I bet you put a lot of care into that too.”
+「もちろんですわ！　おーっほっほっほ！」=“Of course! Ohohohoh!”
+「オホン……ＴＰＯを考えて」=“*Cough*... Think of where we are.”
+「オ、オホホホ……失敬。ですが、こうして目立つこと、人に関心を持ってもらうことが、本当に大好きですわ」=“O-Ohohohoh... apologies. However, standing out like this, and getting people interested in me, is something that I truly love deeply.”
+「うん……俺もそう思うよ」=“Yep... I like it too.”
+「でしょう？　あなたも、わたくしのように注目を浴びてみるとよろしくてよ」=“Right? You'd do well to try and attract the limelight as I do as well.”
+「う、うん……そうなれるよう頑張ってみるよ」=“S-Sure... I'll try my best, to be like that too.”
+「どうなのでしょうね？　目立つことは好きですが、オシャレにはあまり興味はありませんでしてよ」=“I wonder? I do like standing out but, I do not have all that much of an interest in fashion.”
+「そうなの？　いつもステキだなーって思ってんだけどな。実際目立ってるし」=“Really? You always look super lovely to me though. You seriously just stand out.”
+「おほほほ、目立つのはわたくし本人の資質ゆえですもの！　衣服などに頼らずとも、生まれたままの姿でも目立ってみせますわ！」=“Ohohohoh, that is simply due to my very nature! I need no clothes to rely on, I could stand out even in my birthday suit!”
+「う、うん……生まれたまま……違う意味で目立つね、それ……」=“Y-Yeah... your birthday suit... you'll certainly stand out, that way...”
+「おーっほっほっほ！　目立つことに、意味など求めませんわ！」=“Ohohohoh! The why of it matters not!”
+「オホン…………だから……静かに、ね？」=“*Cough*... I told you... quiet, okay?”

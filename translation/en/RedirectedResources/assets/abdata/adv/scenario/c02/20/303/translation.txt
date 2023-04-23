@@ -1,17 +1,17 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「ふぅ……堪能いたしましたわ。あら、もうこんな時間ですわね」=
-//CHOICE:『延長して、もうちょっと歌おうよ』=
-//CHOICE:『帰る仕度をしよっか』=
-//「んー、もうちょっと[H名]さんの歌を聞きたいな」=
-//「おーっほっほっほ、よろしくてよ！　まだまだ喉は絶好調ですもの！」=
-//「う、うん……高笑いが耳に響いて、痛いぐらいだったよ……それじゃ延長決定だね」=
-//「歌はこれぐらいにしておこうか。喉、大丈夫？」=
-//「おーっほっほっほ……オホンゴホン……少し、張り切り過ぎたかもしれませんわね」=
-//「喉のケア、しっかりね」=
-//「そろそろ出よっか」=
-//「お待ちになって。一曲歌える時間はありますわ」=
-//「それじゃあ、あと一曲歌って帰ろう。そうだ。せっかくならデュエットで――」=
-//「小さな手の平 掴める物は きっと限られているけど──」=
-//「もう入れてる……」=
+「ふぅ……堪能いたしましたわ。あら、もうこんな時間ですわね」=“Fuu... I've thoroughly enjoyed myself. Oh my, it's already so late.”
+CHOICE:『延長して、もうちょっと歌おうよ』=Let's extend it, and sing a bit longer.
+CHOICE:『帰る仕度をしよっか』=Let's get ready to head home.
+「んー、もうちょっと[H名]さんの歌を聞きたいな」=“Nnn, I wanna hear you sing some more, [H名]-san.”
+「おーっほっほっほ、よろしくてよ！　まだまだ喉は絶好調ですもの！」=“Ohohohoh, alright! My throat is still in perfect condition still!”
+「う、うん……高笑いが耳に響いて、痛いぐらいだったよ……それじゃ延長決定だね」=“Y-Yeah... I could tell, what with your laughs almost making my ears hurt... well then, that's an extension then.”
+「歌はこれぐらいにしておこうか。喉、大丈夫？」=“Let's stop it here for today. Is your throat alright?”
+「おーっほっほっほ……オホンゴホン……少し、張り切り過ぎたかもしれませんわね」=“Ohohohoh... *cough cough*... I may have overdone it a bit.”
+「喉のケア、しっかりね」=“You gotta take good care of your throat.”
+「そろそろ出よっか」=“Let's head out.”
+「お待ちになって。一曲歌える時間はありますわ」=“Wait. There is enough time for one more song.”
+「それじゃあ、あと一曲歌って帰ろう。そうだ。せっかくならデュエットで――」=“Well then, let's sing that song and go home. Right. Since it's the last song how about we go for a due--”
+「小さな手の平 掴める物は きっと限られているけど──」=“「This small hand, the things it can grasp, they are surely limited, but--」”
+「もう入れてる……」=“She already put it in...”

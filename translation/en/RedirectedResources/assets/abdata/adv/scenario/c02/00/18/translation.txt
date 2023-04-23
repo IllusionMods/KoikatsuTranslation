@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「おーっほっほっほ、ごきげんよう。その調子で、毎朝わたくしに挨拶なさい。よろしくてね？」=“Ohohoho, how do you do? Greet me like that every morning. Understand?”
+「おーっほっほっほ、ごきげんよう。その調子で、毎朝わたくしに挨拶なさい。よろしくてね？」=“Ohohohoh, good day. Greet me like that every morning, understand?”

@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「イマイチですわね……わたくしのレベルについて来れなくなったのかしら？」=
+「イマイチですわね……わたくしのレベルについて来れなくなったのかしら？」=“Quite the pitiful showing... cannot keep up with my level anymore?”

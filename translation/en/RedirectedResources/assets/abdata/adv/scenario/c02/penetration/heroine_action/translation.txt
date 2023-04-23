@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「えっと……混ざりたいの？　……どうする？」=“Erhm... You wanna join us? What do you wanna do?”
-//「わたくし達に混ざりたいだなんて……その心意気、買って差し上げますわ」=
-//「うふふ、こんな状況、逃がすと思って？　むしろ絶好のチャンスですわ！」=
+「えっと……混ざりたいの？　……どうする？」=“Eerhm... you wanna join us? ...What do you say?”
+「わたくし達に混ざりたいだなんて……その心意気、買って差し上げますわ」=“Wanting to join us... I shall value that spirit of yours.”
+「うふふ、こんな状況、逃がすと思って？　むしろ絶好のチャンスですわ！」=“Ufufuh, you think I will let this opportunity go? If anything, it is the perfect chance!”

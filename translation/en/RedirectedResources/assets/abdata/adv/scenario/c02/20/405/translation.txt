@@ -1,23 +1,23 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「んー、そのオムライス、いい匂い。卵とケチャップの香りがする……」=
-//「ふふ、まずは見た目と香りを味わう……料理を楽しむ作法ですわね」=
-//「このお店の人気メニューなんだってさ」=
-//「さすが、わたくし。いいチョイスでしたわね……さてと、それでは早速いただきますわ」=
-//「待って待って！　俺に一口！」=
-//「おほほほ、お断りいたします。栄誉ある一口目はわたくしにこそふさわしいですもの……もぐ、もぐもぐ……」=
-//「微かに甘い味付けの卵……それに、コンソメの香りと、ケチャップの酸味……ふふ、このお店のシェフはいい仕事をしておりますわね」=
-//「あっ、いいなぁ……ねえねえ、じゃ、二口目は俺にちょーだい！　はい、あーん……」=
-//「……はぁ、餌をねだる小鳥のように、口を開けてこちらを見ないでちょうだい」=
-//「小鳥のように可愛いってこと？」=
-//「あなたのハートの強さには、呆れるのを通り越して、本当に感心してしまいますわ」=
-//「でしょう？　さあ、俺の口に、その美味しそうなオムライス、ドカッと放り込んで……あ～～～ん……」=
-//「はぁ……あなたの口を閉ざすためには、一つしか方法がないようですわね……」=
-//「ほら、どうぞ……あーん……」=
-//「あ～～～ん……」=
-//「モグモグ……ゴクン……うん、美味しいね！　卵はフワフワだし、チキンライスも美味しい！」=
-//「今まで食べたオムライスの中で最高の美味しさだよ！　はい、じゃ、もう一口！　あ～～～ん……」=
-//「ちょっと！　あなた、その調子で全部食べてしまうおつもりですの？」=
-//「まさか、冗談だよ。ありがとう、美味しかったよ！」=
-//「ふふ、よかったですわ。喜んでいただけて」=
+「んー、そのオムライス、いい匂い。卵とケチャップの香りがする……」=“Nnn, that omurice smells really nice. The aroma of eggs and ketchup...”
+「ふふ、まずは見た目と香りを味わう……料理を楽しむ作法ですわね」=“Fufuh, first, one must savour the appearance and the arouma... it is only the basic ettiquete of enjoying the food.”
+「このお店の人気メニューなんだってさ」=“Apparently it's the most popular dish here.”
+「さすが、わたくし。いいチョイスでしたわね……さてと、それでは早速いただきますわ」=“I truly am amazing. Truly the perfect choice... now then, I shall dig in.”
+「待って待って！　俺に一口！」=“Wait, wait! Give me a bite!”
+「おほほほ、お断りいたします。栄誉ある一口目はわたくしにこそふさわしいですもの……もぐ、もぐもぐ……」=“Ohohohoh, I must refuse. The honour of the first bite is mine and mine alone... *chew, chew chew*...”
+「微かに甘い味付けの卵……それに、コンソメの香りと、ケチャップの酸味……ふふ、このお店のシェフはいい仕事をしておりますわね」=“The fainly sweet eggs... and the aroma of the consomme, and the acridity of the ketchup... fufuh, the chef truly is one skilled individual.”
+「あっ、いいなぁ……ねえねえ、じゃ、二口目は俺にちょーだい！　はい、あーん……」=“Ah--, must be nice... hey so, lemme have the second bite atleast! C'mon, aaahn...”
+「……はぁ、餌をねだる小鳥のように、口を開けてこちらを見ないでちょうだい」=“...Haah, do not look at me with an open mouth like that, as if you are a little birdie asking to be fed.”
+「小鳥のように可愛いってこと？」=“A birdie huh? A cute one?”
+「あなたのハートの強さには、呆れるのを通り越して、本当に感心してしまいますわ」=“The strength of mind you possess is so appallingly deep, I am truly beyond amazed.”
+「でしょう？　さあ、俺の口に、その美味しそうなオムライス、ドカッと放り込んで……あ～～～ん……」=“Isn't it though? Come now, toss some of that delicious looking omurice, right into my mouth... aaaaaaaaaahn...”
+「はぁ……あなたの口を閉ざすためには、一つしか方法がないようですわね……」=“Haah... there really is only but one way for me to get you to close that mouth, isn't it...”
+「ほら、どうぞ……あーん……」=“Come on, here you go... aaahn...”
+「あ～～～ん……」=“Aaaaaaaahn...”
+「モグモグ……ゴクン……うん、美味しいね！　卵はフワフワだし、チキンライスも美味しい！」=“*Chew chew*... *gulp*... yep, it's delicious! The egg's super fluffy, and the chicken rice is delicious too!”
+「今まで食べたオムライスの中で最高の美味しさだよ！　はい、じゃ、もう一口！　あ～～～ん……」=“I would go so far as to say it's the best omurice I've ever had! Alright, then, one more bite! Aaaaaaahn...”
+「ちょっと！　あなた、その調子で全部食べてしまうおつもりですの？」=“Hey! Do you intend to consume the entire dish like that?”
+「まさか、冗談だよ。ありがとう、美味しかったよ！」=“As if, I'm just joking. Thanks, it really was good!”
+「ふふ、よかったですわ。喜んでいただけて」=“Fufuh, I'm glad that you liked it.”

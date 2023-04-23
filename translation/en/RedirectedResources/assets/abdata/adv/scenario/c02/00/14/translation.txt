@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「……あら、もう起きてしまわれたの？」=“...Oh, you're already up?”
-「ごきげんよう」=“How do you do?”
-「ごきげんよう……ふふ、先に言われてしまいましたわね。わたくしが一番に言おうと思っていたのに……」=“How do you do... fufu, I see you got one over me. I was planning on being the first to greet you...”
+「……あら、もう起きてしまわれたの？」=“...Oh my, already awake?”
+「ごきげんよう」=“Good day.”
+「ごきげんよう……ふふ、先に言われてしまいましたわね。わたくしが一番に言おうと思っていたのに……」=“Good day... fufuh, I see you got one over me. Here I was planning on saying it to you first...”

@@ -1,22 +1,22 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「お嬢様育ちだと、普通の喫茶店に来る機会ってないのかな？」=
-//「この学園に入学するまでは、ありませんでしたわ。お茶もケーキも、自宅で用意していただけましたもの」=
-//「へえ、やっぱりそうなんだね。どう？　こういうお店も気に入ってくれた？」=
-//「素敵ですわ。お茶もケーキも、自室やリビングで一人で頂いてましたもの」=
-//「いくら高級品であっても、雰囲気までは味わわせてくれませんものね……ふふ、大好きですわ」=
-//「へえ、それはよかった。連れてこられて嬉しいよ」=
-//「それしても……一人で過ごすことが多かったんだね」=
-//「ええ、両親は忙しい方ですし……それに、わたくしに釣り合うようなお友達もあまりおりませんでしたわ」」=
-//「この学園じゃ、そんなことなさそうだね」=
-//「ええ、おかげさまで、楽しく過ごしておりますわ。昔は、何も自由な時間がありませんでしたもの」=
-//「家庭教師や、習い事の先生が、毎日、入れ替わり立ち替わりわたくしの時間を奪っていくのです……今思い出してもウンザリですわ」=
-//「そ、それは大変だったねぇ……。よかったね、この学園に入学して」=
-//「ええ、本当によかったですわ。入学しなければ、あなたのような殿方にも出会えなかったことでしょうし」=
-//「……まあ、もっと立派で素敵な人と出会えた可能性があったね」=
-//「ふふふ、その通りですわ。まあ結婚をするなら、家柄や学歴、年収が大切な要素となるでしょう」=
-//「でも、わたくしはまだ学生ですもの。もっと自由を楽しませていただきたいものですわ」=
-//「だよね～。はは、よかった。[H名]さんとお知り合いになれて！　こんな素敵な人と出会えないなんて寂しいもんね」=
-//「……もう、恥ずかしいですわ。そういうことを大声で言わないでちょうだい。でも、ありがとう……今のその言葉、嬉しかったですわ」=
-//「へへへ……」=
+「お嬢様育ちだと、普通の喫茶店に来る機会ってないのかな？」=“Since you were raised like a princess, I'm guessing you probably didn't have many chances to come to cafes like this?”
+「この学園に入学するまでは、ありませんでしたわ。お茶もケーキも、自宅で用意していただけましたもの」=“Not many, no, not until I transferred to this school. Tea and cake and whatnot were prepared at our home for us.”
+「へえ、やっぱりそうなんだね。どう？　こういうお店も気に入ってくれた？」=“Hoh, so I was right. So, what's the verdict? Like these sorts of places?”
+「素敵ですわ。お茶もケーキも、自室やリビングで一人で頂いてましたもの」=“They're lovely. All that tea and cake but, I would only partake in them in my own room or the living room, on my lonesome.”
+「いくら高級品であっても、雰囲気までは味わわせてくれませんものね……ふふ、大好きですわ」=“No matter how high class the items, they can't let you savour the very atmosphere... fufuh, I truly do love these shops.”
+「へえ、それはよかった。連れてこられて嬉しいよ」=“Hoh, I'm glad to hear that. And glad that I brought you here.”
+「それしても……一人で過ごすことが多かったんだね」=“Even so... you spent a lot of time alone, huh?”
+「ええ、両親は忙しい方ですし……それに、わたくしに釣り合うようなお友達もあまりおりませんでしたわ」」=Yes, my parents are quite the busy people... not to mention, I didn't have all that many friends that were my equals.
+「この学園じゃ、そんなことなさそうだね」=“I'm guessing that things are different now that you're in this school?”
+「ええ、おかげさまで、楽しく過ごしておりますわ。昔は、何も自由な時間がありませんでしたもの」=“Yes, thanks to it, I have quite the enjoyable days indeed. In the past, I didn't have any free time to myself whatsoever, afterall.”
+「家庭教師や、習い事の先生が、毎日、入れ替わり立ち替わりわたくしの時間を奪っていくのです……今思い出してもウンザリですわ」=“Private tutors, in both studies and various arts, taking turns daily to steal every shred of time I had... even just thinking back to it is dreadful.”
+「そ、それは大変だったねぇ……。よかったね、この学園に入学して」=“T-That must have been quite something... Well, good thing you joined this school then, huh?”
+「ええ、本当によかったですわ。入学しなければ、あなたのような殿方にも出会えなかったことでしょうし」=“Yes, it truly was a good thing. If I didn't, I likely wouldn't have gotten to meet a man such as you either.”
+「……まあ、もっと立派で素敵な人と出会えた可能性があったね」=“...Well, I guess you'd have been more likely to meet a more wonderful man instead.”
+「ふふふ、その通りですわ。まあ結婚をするなら、家柄や学歴、年収が大切な要素となるでしょう」=“Fufufuh, exactly. Well, pedigree, academics, success and the like are very important factors when it comes time for marriage, I imagine.”
+「でも、わたくしはまだ学生ですもの。もっと自由を楽しませていただきたいものですわ」=“But, I am still a student. I would like to enjoy my freedom while I can some more.”
+「だよね～。はは、よかった。[H名]さんとお知り合いになれて！　こんな素敵な人と出会えないなんて寂しいもんね」=“Right~. Hahah, I'm glad, to have met and gotten to know you, [H名]-san! It'd be pretty sad if I never got to meet such a lovely person as you.”
+「……もう、恥ずかしいですわ。そういうことを大声で言わないでちょうだい。でも、ありがとう……今のその言葉、嬉しかったですわ」=“...Jeez, that's very embarrassing. Don't say such things out so loudly, will you? But, thank you... those words made me very happy.”
+「へへへ……」=“Heheheh...”

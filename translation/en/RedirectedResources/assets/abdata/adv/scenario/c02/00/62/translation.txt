@@ -1,13 +1,13 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-………………=.........
-…………=......
+………………=...
+…………=...
 ……=...
-//「さてと、ここまでで結構ですわ。それではごきげんよう」=
-//CHOICE:「……この後、家にこれないかな？」=
-//CHOICE:「そうだね、ばいばい」=
-//「……この後、家にこれないかな？　もっとご機嫌な気分になれるかもよ？」=
-//「まあ、品のない誘い方ですわね！　ですが……興味はありますわ！　参りましょう」=
-//「そうだね。それじゃあまたね！　ばいばい」=
-//「ええ、ごきげんよう。おやすみなさいませ」=
+「さてと、ここまでで結構ですわ。それではごきげんよう」=“Now then, this shall be fine. Good day to you then.”
+CHOICE:「……この後、家にこれないかな？」=...Won't you come over to my place?
+CHOICE:「そうだね、ばいばい」=Yeah. Byebye.
+「……この後、家にこれないかな？　もっとご機嫌な気分になれるかもよ？」=“...Won't you come over to my place? You might get to have an even better day, you know?”
+「まあ、品のない誘い方ですわね！　ですが……興味はありますわ！　参りましょう」=“My, what a crude invitation! However... I am interested! Let us go.”
+「そうだね。それじゃあまたね！　ばいばい」=“Yeah. See ya later then! Byebye.”
+「ええ、ごきげんよう。おやすみなさいませ」=“Yes, good day. And a good night as well.”

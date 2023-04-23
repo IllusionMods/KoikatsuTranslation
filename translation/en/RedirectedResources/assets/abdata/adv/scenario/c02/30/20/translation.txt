@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「ふふふ、ごきげん麗しゅう……今日も一日わたくしをエスコートさせてあげますわね」=
+「ふふふ、ごきげん麗しゅう……今日も一日わたくしをエスコートさせてあげますわね」=“Fufufuh, a good day to you... I shall have to escort me the whole day today as well.”
