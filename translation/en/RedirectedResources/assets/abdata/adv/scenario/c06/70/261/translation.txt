@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「えっと……[H名]、最高だったよ」=
-//「この上ないお褒めの言葉、ありがたく存じます」=
-//（やっぱり[H名]って、とんでもなくエッチな女の子だよなぁ）=
+「えっと……[H名]、最高だったよ」=Erhm... [H名], you were just the best.
+「この上ないお褒めの言葉、ありがたく存じます」=Thank you for such high praise.
+（やっぱり[H名]って、とんでもなくエッチな女の子だよなぁ）=(She really is an absurdly lewd girl inside, isn't she~)

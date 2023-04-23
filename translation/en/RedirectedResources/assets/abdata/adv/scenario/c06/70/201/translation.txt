@@ -1,23 +1,23 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「遊園地、到着！　[H名]、何か行きたいところとか、乗りたいアトラクションある？」=
-//「あの、実は私、この遊園地について下調べをしておりまして」=
-//「え、下調べ！？」=
-//「はい、混んでいた観覧車以外はほぼ全て体験いたしました。貴方とお付き合いさせていただくまで、このような場所にあまり縁がなかったので、失礼のないようにと」=
-//「そんなの気にしなくていいのに……ん？　それってつまり、友達と一緒に来たってこと？」=
-//「いえ、時には同じ場所を何度も回ることになると思ったので、一人で済ませました。お陰様でこの遊園地の楽しみ方などは大体理解できているかと存じます」=
-//「も、もったいない！」=
+「遊園地、到着！　[H名]、何か行きたいところとか、乗りたいアトラクションある？」=We're finally here! Got any place you'd like to check out or a ride you'd like to try out, [H名]?
+「あの、実は私、この遊園地について下調べをしておりまして」=Uhm, I've actually already done a bit of research, about this amusement park.
+「え、下調べ！？」=Eh, really?!
+「はい、混んでいた観覧車以外はほぼ全て体験いたしました。貴方とお付き合いさせていただくまで、このような場所にあまり縁がなかったので、失礼のないようにと」=Yes. Aside from the ferris wheel, which was crowded when I got to it, I have ridden just about every ride here. I'd never had the chance to come to such a place, until we started our relationship, so it was in an effort to not show you something unsightly.
+「そんなの気にしなくていいのに……ん？　それってつまり、友達と一緒に来たってこと？」=You really don't need to worry about that stuff though... Hm? Does that mean you came here with friends?
+「いえ、時には同じ場所を何度も回ることになると思ったので、一人で済ませました。お陰様でこの遊園地の楽しみ方などは大体理解できているかと存じます」=No, I thought that if I did that, I'd end up having to ride the same attraction multiple times, so I did it by myself. Thanks to that, I do believe I know the right way to enjoy this amusement park, more or less.
+「も、もったいない！」=T-That's such a waste!
 「え……？」=“Eh...?”
-//「いや、もったいないよ。慣れない遊園地で戸惑う[H名]、見たかったなぁ。俺が手取り足取り教えてあげたかった……」=
-//「そ、それは……失礼いたしました。そのような私は煩わしいかと……」=
-//「そんなことないよ、初々しくて可愛いじゃないか。次から、初めてのプレイスポットに行くときは俺と一緒についてきてもらうからね」=
-//「かしこまりました。では、次から初々しい私をお目にかけますので、どうぞお手柔らかにお願いいたしますね」=
-//「申し訳ございません。そもそも私、遊園地という場所自体、慣れておらず……どのような乗り物があるのでしょうか？」=
-//「そっか……とはいっても色々あるかな。何から説明しよう……」=
-//「あの宙に浮いた線路を走る電車のようなものは何ですか？」=
-//「あれはジェットコースターって言って、見た目通りスリル満点の乗り物だよ。気になる？」=
-//「やはりあちらに乗っているのは人なのですね……スリル満点どころの話では済まないような気もいたしますが……気になります」=
-//「よし、じゃあ、試しに乗ってみよう！　今日は俺が遊園地を案内してあげるからね」=
-//「はい、貴方について行きます。どうか、ここの楽しみ方を手取り足取り教えてくださいませ」=
-//「うん、任せて！」=
+「いや、もったいないよ。慣れない遊園地で戸惑う[H名]、見たかったなぁ。俺が手取り足取り教えてあげたかった……」=Man, what a waste. I'd have loved to see you going around like an adorable headless chick. I'd have shown you around every which way...
+「そ、それは……失礼いたしました。そのような私は煩わしいかと……」=T-That's... I apologize. I thought I would just end up being an annoyance that way...
+「そんなことないよ、初々しくて可愛いじゃないか。次から、初めてのプレイスポットに行くときは俺と一緒についてきてもらうからね」=Not at all. Your innocent side's adorable. Next time, if there's any sort of place like this that you've not gone to, I'm gonna tag along with you.
+「かしこまりました。では、次から初々しい私をお目にかけますので、どうぞお手柔らかにお願いいたしますね」=I understand. Well then, I shall do my best so show you my innocent side next time, so please go easy on me.
+「申し訳ございません。そもそも私、遊園地という場所自体、慣れておらず……どのような乗り物があるのでしょうか？」=I apologize. To begin with, I am not at all familiar with amusement parks in themselves... what sort of rides are there for us to ride?
+「そっか……とはいっても色々あるかな。何から説明しよう……」=I see... there are quite a few. Where should I start...
+「あの宙に浮いた線路を走る電車のようなものは何ですか？」=Exactly what is that floating railway track, with the train-looking object crossing it?
+「あれはジェットコースターって言って、見た目通りスリル満点の乗り物だよ。気になる？」=It's called a roller coaster, and it's just as thrilling as it looks. Caught your attention?
+「やはりあちらに乗っているのは人なのですね……スリル満点どころの話では済まないような気もいたしますが……気になります」=So those really are people on it, aren't they... I do feel that it's going to be more than just a 'thrill'... but I am curious.
+「よし、じゃあ、試しに乗ってみよう！　今日は俺が遊園地を案内してあげるからね」=Alright, let's try it out then! I'll show you around the whole place today.
+「はい、貴方について行きます。どうか、ここの楽しみ方を手取り足取り教えてくださいませ」=Yes, I shall follow you. Please teach me exactly how to best enjoy a place like this, with all your attention on me.
+「うん、任せて！」=Okay, leave it to me!

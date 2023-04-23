@@ -1,24 +1,24 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//（注文も済ませたし、[H名]と何か面白い話でもしたいな……何か話題……ん？）=
-//「……？　私の顔に何かついておりますか？　そんなにまじまじと見つめられては、困ります……」=
-//「ああ、ごめん。いや……俺が鈍感なだけなんだけど、今日は化粧してたんだね。今気づいたよ」=
-//「まあ、お気づきになられたのですか？　お粉を薄くはたいて整えているのですが、見る人が見れば分かるものなのですね。心嬉しく存じます」=
-//「なんて言ったらいいのかな。いつもより、キレイだなって……」=
-//「うふふ、流石は恋活部の長を務めていらっしゃる方。女性のちょっとした変化にも敏感なのですね」=
-//「あはは、買いかぶり過ぎだよ。でも、学園では化粧してないよね？」=
-//「はい。我が校は自由な校風を掲げており、お化粧を施しでも先生にお叱りを受けることはございませんが、校則にはしっかりお化粧禁止と記してありますから」=
-//「ですが、お外で貴方に会うときは別でございます」=
-//「私は派手なお化粧が映える女ではございませんが、貴方の隣りを歩く者として恥ずかしくないよう、気を遣っております」=
-//「俺のために化粧してくれるなんて、嬉しいなぁ……ありがとう[H名]」=
-//（女の子の化粧ってドキドキするよな……[H名]みたいな大和撫子だと特に……）=
-//「まさかお気づきになられるなんて……面映ゆい心地にございます」=
-//「面映ゆいって、照れくさいって意味だったよね？　どうして？」=
-//「その……実は私、お化粧が苦手で、今日は祖母に頼み込んで整えてもらったのです。そのときに……」=
-//「お化粧も満足に出来ない女は殿方を楽しませることは出来ないと言われてしまって……」=
-//「その言い方はちょっと極端だと思うけど、出来た方がいいんじゃないかな。実際、おばあちゃんが整えてくれた[H名]は綺麗だし」=
-//「まあ。綺麗だなんて……そのように仰っていただけるのでしたら、頑張ってお化粧を覚えます」=
-//「貴方好みの女になるために、日々邁進して参ります。どうかこれからもご指導ご鞭撻のほど、宜しくお願い申し上げますね」=
-//「わかった。俺でよかったら何でも聞いてね」=
-//（俺のために化粧を覚えるなんて、やっぱり[H名]は古風な子だよなぁ）=
+（注文も済ませたし、[H名]と何か面白い話でもしたいな……何か話題……ん？）=(We put in our orders and everything, now if only we could have a fun chat... something fun we can talk ab...nn?)
+「……？　私の顔に何かついておりますか？　そんなにまじまじと見つめられては、困ります……」=...? Is there something on my face? If you stare so much at my face, I won't know where to look...
+「ああ、ごめん。いや……俺が鈍感なだけなんだけど、今日は化粧してたんだね。今気づいたよ」=Aah, sorry. It's just... I'm pretty like, dense and stuff but, you wore make-up today, huh? I only just realized.
+「まあ、お気づきになられたのですか？　お粉を薄くはたいて整えているのですが、見る人が見れば分かるものなのですね。心嬉しく存じます」=My, you noticed? I only very lightly dusted my face with some powder, but I see I cannot hide it from someone with a trained eye. It makes me very happy.
+「なんて言ったらいいのかな。いつもより、キレイだなって……」=How do I even describe it? You just look, more beautiful than usual...
+「うふふ、流石は恋活部の長を務めていらっしゃる方。女性のちょっとした変化にも敏感なのですね」=Ufufuh, as can be expected from the head of such an esteemed club. Even such a minor change cannot slip past your eye, can it?
+「あはは、買いかぶり過ぎだよ。でも、学園では化粧してないよね？」=Ahahah, you're giving me too much credit here. But, you don't use make-up at school, do you?
+「はい。我が校は自由な校風を掲げており、お化粧を施しでも先生にお叱りを受けることはございませんが、校則にはしっかりお化粧禁止と記してありますから」=Yes. Our school has quite the liberal culture, so even if one lays it on quite thick, the teachers will not say anything, but the school rulebook does state that make-up is forbidden.
+「ですが、お外で貴方に会うときは別でございます」=However, it is a different matter when I am meeting up with you outside.
+「私は派手なお化粧が映える女ではございませんが、貴方の隣りを歩く者として恥ずかしくないよう、気を遣っております」=I am not a woman that can shine even with flashy make-up, however I do what I can, so as to not be an embarrassment to you.
+「俺のために化粧してくれるなんて、嬉しいなぁ……ありがとう[H名]」=You do it for me? That makes me so happy... Thank you, [H名].
+（女の子の化粧ってドキドキするよな……[H名]みたいな大和撫子だと特に……）=(A girl with some tasteful make-up on can really make your heart race... especially a yamato nadeshiko like [H名]...)
+「まさかお気づきになられるなんて……面映ゆい心地にございます」=To think you would notice... I cannot help but be abashed.
+「面映ゆいって、照れくさいって意味だったよね？　どうして？」=Abashed means 'to blush', right? Why?
+「その……実は私、お化粧が苦手で、今日は祖母に頼み込んで整えてもらったのです。そのときに……」=Uhm... the truth is, I have no ability with it myself, so I implored my grandmother to put it on me instead. At that time...
+「お化粧も満足に出来ない女は殿方を楽しませることは出来ないと言われてしまって……」=I was told that a woman who cannot even satisfactorily put make-up on herself cannot entertain her man...
+「その言い方はちょっと極端だと思うけど、出来た方がいいんじゃないかな。実際、おばあちゃんが整えてくれた[H名]は綺麗だし」=I mean, that certainly is a pretty extreme way of putting it, but I think it was good that you had her do it. She made you look really beautiful, afterall.
+「まあ。綺麗だなんて……そのように仰っていただけるのでしたら、頑張ってお化粧を覚えます」=My, beautiful... if you think so then, I shall do my best and learn to do it myself as well.
+「貴方好みの女になるために、日々邁進して参ります。どうかこれからもご指導ご鞭撻のほど、宜しくお願い申し上げますね」=Every day, I endeavour to become more the woman you desire. Please do keep guiding and encouraging me in the right direction.
+「わかった。俺でよかったら何でも聞いてね」=Got it. If it's my opinion you want, then feel free to ask anything.
+（俺のために化粧を覚えるなんて、やっぱり[H名]は古風な子だよなぁ）=(Learning make-up for my sake, she really is a traditional "woman"~)

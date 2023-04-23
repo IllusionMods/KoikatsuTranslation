@@ -1,23 +1,23 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//プルルル……=
-//「あら、お電話が……私がお取りいたします……もしもし……はい、はい、少々お待ちください」=
-//「終了のお時間十分前とのことですが……延長の有無をお尋ねされました」=
-//CHOICE:『延長して、もうちょっと歌おうよ』=
-//CHOICE:『延長はしなくていい』=
-//「[H名]さえよかったら、延長してもいいかな？　もう少し歌いたくない？」=
-//「はい、歌いとう御座います。では、そのようにお申し付けいたしますね」=
-//「延長はしなくていいかな。帰る仕度をしよう」=
-//「はい、そのようにお伝えいたします」=
-//「……お待たせいたしました。折角のお申し出ですが、お気持ちだけ有難く頂戴します。ご好意にお応えできず、誠に申し訳ございません」=
-//（あはは、丁寧すぎて、店員さんもかしこまっちゃいそうだな……よし、それじゃ荷物をまとめようかな）=
-//「延長はしなくていいかな。時間まで歌ったら今日は帰ろっか」=
-//（あはは、丁寧すぎて、店員さんもかしこまっちゃいそうだ）=
-//「さて、それじゃあ[H名]が曲を入れてよ」=
-//「よろしいのですか？　これが最後になるかと存じますが……」=
-//「うん。最後に[H名]の歌声を聴きたいんだ」=
-//「そういうことでしたら……この曲に致しますね」=
-//「うん、お願い」=
-//『小さな手の平 掴める物は　きっと限られているけど～♪』=
-//（やっぱいい声してるな～）=
+プルルル……=*ring ring ring*...
+「あら、お電話が……私がお取りいたします……もしもし……はい、はい、少々お待ちください」=Oh my, a phonecall... I shall pick it up... hello... yes, yes, please wait a few moments.
+「終了のお時間十分前とのことですが……延長の有無をお尋ねされました」=It seems there are ten minutes left on our slot... they are inquiring whether we will be extending or not.
+CHOICE:『延長して、もうちょっと歌おうよ』=Let's extend and sing a bit more.
+CHOICE:『延長はしなくていい』=We don't need to extend.
+「[H名]さえよかったら、延長してもいいかな？　もう少し歌いたくない？」=If you're fine with it, we could extend it. Don't you wanna sing a bit more?
+「はい、歌いとう御座います。では、そのようにお申し付けいたしますね」=Yes, I would like to. Well then, I shall instruct them thusly.
+「延長はしなくていいかな。帰る仕度をしよう」=I don't think we need to extend, let's gather our stuff and head out.
+「はい、そのようにお伝えいたします」=Yes, I shall let them know then.
+「……お待たせいたしました。折角のお申し出ですが、お気持ちだけ有難く頂戴します。ご好意にお応えできず、誠に申し訳ございません」=...Thank you for waiting. We would like to express our sincere apologies for not being able to respond affirmatively, though we are very grateful for the offer.
+（あはは、丁寧すぎて、店員さんもかしこまっちゃいそうだな……よし、それじゃ荷物をまとめようかな）=(Ahahah, she's being so polite, I bet the receptionist is pretty caught off-guard too... alright, guess I'll gather up our stuff.)
+「延長はしなくていいかな。時間まで歌ったら今日は帰ろっか」=I don't think we need to extend. Let's sing until the end and then head home.
+（あはは、丁寧すぎて、店員さんもかしこまっちゃいそうだ）=(Ahahah, she's being so polite, I bet the receptionist got caught off-guard.)
+「さて、それじゃあ[H名]が曲を入れてよ」=Well then, you can put in the next song.
+「よろしいのですか？　これが最後になるかと存じますが……」=Is that alright? I do believe this will be the last song...
+「うん。最後に[H名]の歌声を聴きたいんだ」=Yep. I wanna hear you sing one last time before we head out.
+「そういうことでしたら……この曲に致しますね」=I see, so that was it... I shall go with this song then.
+「うん、お願い」=Yep, please do.
+『小さな手の平 掴める物は　きっと限られているけど～♪』=『This small hand, the things it can grasp, they are surely limited, but~♪』
+（やっぱいい声してるな～）=(Her voice really is so nice~)

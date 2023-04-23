@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「よし、１０分前行動っと……って、[H名]！？　待たせちゃった！？」=
-//「いえいえ、私も今来たばかりですから、お気になさらず」=
-//「いや、そこは男として気にするよ。絶対に挽回するようなデートにするから」=
-//（ということで、行先は……どこがいいかな？）=
+「よし、１０分前行動っと……って、[H名]！？　待たせちゃった！？」=Alright, I got here 10 minu... wuh, [H名]!? Did I make you wait?!
+「いえいえ、私も今来たばかりですから、お気になさらず」=Not at all, I myself only just got here, so please do not mind it.
+「いや、そこは男として気にするよ。絶対に挽回するようなデートにするから」=No, I gotta mind it, as the man. I'll just have to make it up to you with our date today.
+（ということで、行先は……どこがいいかな？）=(So with that, where... should we go?)

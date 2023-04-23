@@ -1,17 +1,17 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「もう夕暮れですね。遊園地という名の通り、時間を忘れて遊び尽くしてしまいました」=
-//「だね。そろそろ帰る人が多くなってきたみたいだけど……」=
-//CHOICE:『最後に観覧車に乗ってかない？』=
-//CHOICE:『暗くなる前に帰ろうか』=
-//「まだ時間大丈夫だよね？　よかったら観覧車に乗っていかない？」=
-//「はい、私もそう思っておりました」=
-//「もうそろそろしたら、綺麗な夜景が見える時間になりそうだね」=
-//「素敵ですね。では、参りましょうか」=
-//（あんまり[H名]を連れまわすのもよくないかな）=
-//「一日中遊び通しで疲れたでしょ。暗くなる前に帰ろうか」=
-//「ふふ、今宵はよく眠れそうですね。本日も素敵な思い出を作っていただき、誠にありがとうございました」=
-//「こちらこそ。でも、駅に帰るまでがデートだから、ギリギリまでいっぱい話してもいいかな？」=
-//「もちろんでございます。今日乗った乗り物や入った建物のこと、いただいた料理のこと、貴方とお話したいことがたくさんございます」=
-//「また話題が尽きないやつだね、これ」=
+「もう夕暮れですね。遊園地という名の通り、時間を忘れて遊び尽くしてしまいました」=It's already evening, isn't it? True to its name, we truly lost ourselves in the amusement.
+「だね。そろそろ帰る人が多くなってきたみたいだけど……」=Yeah. I feel like more and more people are starting to head home now...
+CHOICE:『最後に観覧車に乗ってかない？』=Wanna go ride on the ferris wheel?
+CHOICE:『暗くなる前に帰ろうか』=Let's go home before it gets dark, shall we?
+「まだ時間大丈夫だよね？　よかったら観覧車に乗っていかない？」=You've still got time though, right? Wanna go have a ride on the ferris wheel together?
+「はい、私もそう思っておりました」=Yes, I was just thinking the same as well.
+「もうそろそろしたら、綺麗な夜景が見える時間になりそうだね」=If we go now, I bet we'd get on right in time for a sweet view.
+「素敵ですね。では、参りましょうか」=That sounds wonderful. Let us go then.
+（あんまり[H名]を連れまわすのもよくないかな）=(I don't really wanna drag her around too much either.)
+「一日中遊び通しで疲れたでしょ。暗くなる前に帰ろうか」=You should be tired after a whole day of 'amusement', no? Let's go home before it gets dark, shall we?
+「ふふ、今宵はよく眠れそうですね。本日も素敵な思い出を作っていただき、誠にありがとうございました」=Fufuh, tonight I shall certainly sleep well. Thank you very much, truly, for letting me make such wonderful memories again.
+「こちらこそ。でも、駅に帰るまでがデートだから、ギリギリまでいっぱい話してもいいかな？」=You're very welcome. But, our date's on until we get to the station, so do you mind having a nice long chat as we go?
+「もちろんでございます。今日乗った乗り物や入った建物のこと、いただいた料理のこと、貴方とお話したいことがたくさんございます」=Not at all. All the rides we rode, all the buildings we entered, even the various dishes we sampled, there is so much I'd love to chat with you about.
+「また話題が尽きないやつだね、これ」=We really do never run out of things to talk about, don't we?

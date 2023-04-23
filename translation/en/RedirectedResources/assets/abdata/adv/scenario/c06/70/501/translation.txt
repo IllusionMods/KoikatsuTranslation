@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//（今日は[H名]とデート。楽しみだなぁ……どこへ行こうかな？　おっ、[H名]だ！）=
-//「おーい、[H名]！　こっちこっち！」=
-//「あ……お早うございます。ちゃんと落ち合えて、安心いたしました。本日は宜しくお願いいたします」=
-//「うん、こちらこそよろしくね！」=
-//「うふふ。本日は良い所に連れていってくださるとのことで、とても楽しみにして参りました。早速、向かわれるのでしょうか」=
-//「うん、行こうか。俺も楽しみだよ」=
-//（さあ、今日はどこに[H名]を連れて行こうかな）=
+（今日は[H名]とデート。楽しみだなぁ……どこへ行こうかな？　おっ、[H名]だ！）=(I've a date today with [H名]. Man, I'm excited~... where should we go? Oh--, it's her!)
+「おーい、[H名]！　こっちこっち！」=Ooii~, [H名]! Over here!
+「あ……お早うございます。ちゃんと落ち合えて、安心いたしました。本日は宜しくお願いいたします」=Ah... good morning. What a relief, that we managed to meet up without issues. I entrust myself to you for today.
+「うん、こちらこそよろしくね！」=Yep, I won't disappoint!
+「うふふ。本日は良い所に連れていってくださるとのことで、とても楽しみにして参りました。早速、向かわれるのでしょうか」=Ufufuh. The idea of you taking me some place nice today has kept me excited for the longest time. Could we please go right away?
+「うん、行こうか。俺も楽しみだよ」=Yep, let's go. I'm excited too.
+（さあ、今日はどこに[H名]を連れて行こうかな）=(Now then, where should I take her today?)
