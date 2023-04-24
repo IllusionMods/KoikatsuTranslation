@@ -1,21 +1,21 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「うーん、タキシードって、ちょっと窮屈だな……」=
-//「でもウェディングドレスの方が締め付け、きついだろうな」=
-//「……[H名]さんは大丈夫かな？」=
-//（いよいよ出番か……）=
-//（[H名]さんの新郎役として、しっかりしないとな）=
-//（よし気合を入れて頑張ろう！）=
-//（ふぅ……お、思ってた以上に緊張するぅ……汗がびっしょりだ）=
+「うーん、タキシードって、ちょっと窮屈だな……」=“Nnn, tuxedos are pretty tight...”
+「でもウェディングドレスの方が締め付け、きついだろうな」=“But a wedding dress is probably tighter than even this.”
+「……[H名]さんは大丈夫かな？」=“...Wonder if she's alright?”
+（いよいよ出番か……）=(Showtime, huh...)
+（[H名]さんの新郎役として、しっかりしないとな）=(Gotta do a proper job, as her supposed groom here.)
+（よし気合を入れて頑張ろう！）=(Alright, let's fucking do this!)
+（ふぅ……お、思ってた以上に緊張するぅ……汗がびっしょりだ）=(Fuu... W-Way more nerveracking than I expected... I'm positively drenched in sweat)
 モブ=Mob
 「これより新婦が入場致します。後方の扉口をご覧ください」=“And now, the bride will make her entrance. Please pay attention to the main door.”
-//「あ……」=
-//目を向けると、純白のドレスに身を包んだ[H名]さんが静かに佇んでいた。=
-//美しい、そんな陳腐な言葉しか浮かんでこないほどに、[H名]さんのウェディング姿は素敵で、華やいでいた。=
-//あんな綺麗な人が本当に俺の彼女なのだろうか？　なんてくだらない疑問が出てくるほど、俺の心は浮ついてしまう。=
-//（……すごく、きれいだ）=
+「あ……」=“Ah...”
+目を向けると、純白のドレスに身を包んだ[H名]さんが静かに佇んでいた。=Turning my eyes, I saw [H名]-san quietly standing there, clad in a pure white dress.
+美しい、そんな陳腐な言葉しか浮かんでこないほどに、[H名]さんのウェディング姿は素敵で、華やいでいた。=The sight of her in that dress was so lovely, so brilliant, I could not think of a word aside from "beautiful", cliched though it is.
+あんな綺麗な人が本当に俺の彼女なのだろうか？　なんてくだらない疑問が出てくるほど、俺の心は浮ついてしまう。=Was such a beautiful woman really my girlfriend? My heart became restless, echoing out such pointless questions.
+（……すごく、きれいだ）=(...Seriously, beautiful)
 「…………」=“......”
-//「……ちょっと。黙ってないでなにか言ってよ」=
-//「あ、あぁ……きれいだよ。言葉にならないくらい、きれいだ」=
-//「っ！　……そ、そう。あ、あなたも、その……格好いいわよ」=
+「……ちょっと。黙ってないでなにか言ってよ」=“...Hey. Don't just stare silently, say something.”
+「あ、あぁ……きれいだよ。言葉にならないくらい、きれいだ」=“A-Aah... you're beautiful. Beautiful to the point, that I have no words.”
+「っ！　……そ、そう。あ、あなたも、その……格好いいわよ」=“--! ...I-I see. Y-You're, uhm... you look cool too.”

@@ -1,21 +1,21 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「すー、はー。この公園は草木が多くていいね……深呼吸すると、本当に気持ちがいい」=
-//「自然が多いのはいいけれど、虫も多そうね」=
-//「そんなこともあろうかと……じゃーん」=
-//「じゃーんって、古いんじゃないかしら？」=
-//「うぐっ……と、とにかく。ほら、虫よけスプレーを持ってきたよ」=
-//「あら。あなたにしては気が利くわね。ありがたく使わせてもらうわ」=
-//「あなたにしては、は余計じゃないかな」=
-//「そうかしら？　……それにしても日差しが強くなってきたわね。日陰に入らない？」=
-//「そんなこともあろうかと……日焼け止めを持ってきたよ。はい」=
-//「……ずいぶんしっかり準備をしてきたのね？」=
-//「[H名]さんはどんなことでへそを曲げるかわからないからね。これくらいの準備は当然だよ」=
-//「ふーん、言ってくれるじゃない。……そうね、なんだか唇がかわいてきちゃったかも」=
-//「そんなこともあろうかと……はい、リップクリーム」=
-//「いくらなんでも準備が良すぎるわよ！？」=
-//「流石の私もそこまでへそ曲がりじゃないわよ」=
-//「……はぁ。もういいわ。興奮しすぎて喉が渇いちゃったから、飲み物をもらえないかしら？」=
-//「あ、それは持ってきてない」=
-//「それだけ準備しておいて、なんで飲み物はないのよ！」=
+「すー、はー。この公園は草木が多くていいね……深呼吸すると、本当に気持ちがいい」=*inhale* *exhale* “This park's great, with all these trees, isn't it?... Taking a deep breath feels so nice.”
+「自然が多いのはいいけれど、虫も多そうね」=“Not that I don't enjoy nature but, there's lots of bugs around too, aren't there?”
+「そんなこともあろうかと……じゃーん」=“I thought you'd say that, that's why... tada~.”
+「じゃーんって、古いんじゃないかしら？」=“Are you a kid? Going "Tada" at your age.”
+「うぐっ……と、とにかく。ほら、虫よけスプレーを持ってきたよ」=“Uguh--... A-Anyways. Here, I brought some insect repellant spray.”
+「あら。あなたにしては気が利くわね。ありがたく使わせてもらうわ」=“My. That's pretty thoughtful, for you anyway. I'll gladly accept it.”
+「あなたにしては、は余計じゃないかな」=“For you anyway, that's a bit too much.”
+「そうかしら？　……それにしても日差しが強くなってきたわね。日陰に入らない？」=“That so? ...In any case, the sun's started getting stronger. How about we go into the shade?”
+「そんなこともあろうかと……日焼け止めを持ってきたよ。はい」=“I thought this would happen so... I brought some sunscreen. Here.”
+「……ずいぶんしっかり準備をしてきたのね？」=“...You're pretty well prepared.”
+「[H名]さんはどんなことでへそを曲げるかわからないからね。これくらいの準備は当然だよ」=“Can never tell what sort of thing would get you ticked off, you know? Preparing this much is just par for the course.”
+「ふーん、言ってくれるじゃない。……そうね、なんだか唇がかわいてきちゃったかも」=“Hmmm, big words. ...Right, my lips feel a bit dry.”
+「そんなこともあろうかと……はい、リップクリーム」=“I thought you'd say that so... here, lip balm.”
+「いくらなんでも準備が良すぎるわよ！？」=“Aren't you a bit too well prepared?!”
+「流石の私もそこまでへそ曲がりじゃないわよ」=“Even I won't get ticked off over something like that.”
+「……はぁ。もういいわ。興奮しすぎて喉が渇いちゃったから、飲み物をもらえないかしら？」=“...Haah. Whatever. My throat's all dry from all that excitement, could I have something to drink?”
+「あ、それは持ってきてない」=“Ah, I didn't bring that.”
+「それだけ準備しておいて、なんで飲み物はないのよ！」=“You brought all that, why not something to drink too!”

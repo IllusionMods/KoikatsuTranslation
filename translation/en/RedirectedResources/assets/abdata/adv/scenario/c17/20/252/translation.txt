@@ -1,19 +1,19 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「だいぶ混んできたね……」=
-//「こっちに少し余裕があるから、詰めていいわよ」=
-//「ありがと……うわっ！　とと……ご、ごめん、押されちゃって」=
-//（こ、股間が[H名]さんに……身体、柔らかすぎ……）=
-//CHOICE:『柔らかさを堪能する』=
-//CHOICE:『我慢する』=
-//（少しだけ、この感触を味わっても……）=
-//「ちょっと……なんで、その、股間がそんなことになっているのよ」=
-//「ごめん。密着した[H名]さんの身体が柔らかくて、つい……」=
-//「つい、じゃないわよ、つい、じゃ」=
-//「[H名]さん、だめだ。我慢できない」=
-//「ちょ、ちょっと待って！　まさか……」=
-//「ごめん、少しだけだから……」=
-//（って、何考えてるんだ俺は！）=
-//（こんな所で勃起させたら、絶対[H名]さんに怒られるぞ！）=
-//（我慢、我慢だ俺……柔らかい感触なんて何もあたってない……）=
+「だいぶ混んできたね……」=“Started getting quite packed, hasn't it...”
+「こっちに少し余裕があるから、詰めていいわよ」=“I've got some space here, so feel free to squeeze in.”
+「ありがと……うわっ！　とと……ご、ごめん、押されちゃって」=“Thank y... uwah--! Damn... S-Sorry, I got pushed from behind.”
+（こ、股間が[H名]さんに……身体、柔らかすぎ……）=(M-My crotch is pushing into... her body is, way too damn soft...)
+CHOICE:『柔らかさを堪能する』=Savour the softness.
+CHOICE:『我慢する』=Endure it.
+（少しだけ、この感触を味わっても……）=(Savouring this sensation for a bit, shouldn't...)
+「ちょっと……なんで、その、股間がそんなことになっているのよ」=“Hey... why is, uhm, your crotch getting like that?”
+「ごめん。密着した[H名]さんの身体が柔らかくて、つい……」=“Sorry. Your body's just so soft, I just...”
+「つい、じゃないわよ、つい、じゃ」=“I just, what's with that, you just--”
+「[H名]さん、だめだ。我慢できない」=“[H名]-san, it's no good. I can't hold it in anymore.”
+「ちょ、ちょっと待って！　まさか……」=“H-Hey, wait a sec! You aren't...”
+「ごめん、少しだけだから……」=“Sorry, it'll be just for a bit...”
+（って、何考えてるんだ俺は！）=(Wuh, what am I thinking!)
+（こんな所で勃起させたら、絶対[H名]さんに怒られるぞ！）=(If I pop a chub here, she's definitely going to get mad at me!)
+（我慢、我慢だ俺……柔らかい感触なんて何もあたってない……）=(Endure, you gotta endure, dude... there's nothing soft against your body, nothing at all...)

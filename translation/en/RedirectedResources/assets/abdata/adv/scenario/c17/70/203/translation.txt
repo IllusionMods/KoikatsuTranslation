@@ -1,15 +1,15 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「いくつになっても、遊園地は楽しめるものね」=
-//「うん、そうだね……っと、もうこんな時間か……」=
-//CHOICE:『最後に観覧車に乗ってかない？』=
-//CHOICE:『暗くなる前に帰ろうか』=
-//「ねえ、最後に観覧車に乗ってかない？　夜景を見たいと思うんだけど」=
-//「ふふっ、まだ遊び足りないの？」=
-//「それもあるけど……[H名]さんと一緒に、空の上から綺麗な景色を見ておきたいんだ」=
-//「そう……。あなたがどうしてもと言うなら……えぇ、私もやぶさかではないわ」=
-//「そろそろ帰ろうか。辺りも暗くなってきたし」=
-//「私はそれでもいいけど、あなたはまだ遊び足りないのかと思っていたわ」=
-//「まぁ、そうなんだけど。でも、また二人で来たときの楽しみにとっておくから今は良いよ」=
-//「そ、そうね。私もあなたとまた来るのが楽しみよ」=
+「いくつになっても、遊園地は楽しめるものね」=No matter how old you get, the amusement park is always fun, isn't it?
+「うん、そうだね……っと、もうこんな時間か……」=Yeah, it is... oh, it's already this late, huh...
+CHOICE:『最後に観覧車に乗ってかない？』=Wanna go ride on the ferris wheel together?
+CHOICE:『暗くなる前に帰ろうか』=Let's go home before it gets dark.
+「ねえ、最後に観覧車に乗ってかない？　夜景を見たいと思うんだけど」=Hey, wanna go ride on the ferris wheel together? I want to look at the night sky together.
+「ふふっ、まだ遊び足りないの？」=Fufu--, still haven't had enough fun?
+「それもあるけど……[H名]さんと一緒に、空の上から綺麗な景色を見ておきたいんだ」=I mean, of course not, but also... I want to enjoy the beautiful scenery from above the clouds, together with you.
+「そう……。あなたがどうしてもと言うなら……えぇ、私もやぶさかではないわ」=I see... If you want to do it so badly then... yes, I'm all for it too.
+「そろそろ帰ろうか。辺りも暗くなってきたし」=Let's head home, shall we? It's starting to get dark out too.
+「私はそれでもいいけど、あなたはまだ遊び足りないのかと思っていたわ」=I'm fine with that, but I thought you still hadn't had enough running around for today.
+「まぁ、そうなんだけど。でも、また二人で来たときの楽しみにとっておくから今は良いよ」=Well, of course. But, we can save that for the next time we come here, so now's the best time to go.
+「そ、そうね。私もあなたとまた来るのが楽しみよ」=R-Right. I'm looking forward to coming here again with you too.

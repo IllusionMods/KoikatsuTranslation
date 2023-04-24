@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「この辺を狙って……っと」=
-//「なかなかやるわね……さすが男子といったところかしら」=
-//「次は[H姓]さんがやってみたら？　はい、これ」=
-//「そ、そうね。私も負けてられないわ」=
+「この辺を狙って……っと」=“Let's see, from here... there.”
+「なかなかやるわね……さすが男子といったところかしら」=“You're pretty good... I suppose a boy's a boy at the end of the day.”
+「次は[H姓]さんがやってみたら？　はい、これ」=“Why don't you try it next, [H姓]-san? Here, take it.”
+「そ、そうね。私も負けてられないわ」=“G-Guess I will. I'm not gonna lose to you.”

@@ -1,19 +1,19 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「ふふふ、やっぱりこの歌いいわね」=
-//「毎回この曲入れてるよね。こういうジャンルの曲が好きなんだ？」=
-//「曲のジャンルにはあまりこだわっていないわ……曲よりも歌詞のほうが大事ね」=
-//「第一、曲の良し悪しなんてよくわからないわ」=
-//「へぇ。それじゃ、どんな歌詞が好みなの？」=
-//「う～ん、一言では表しづらいのだけど……」=
-//「強いて言うなら……最近は、その、恋愛をモチーフにした歌なんかが好きよ」=
-//「へぇ……なんで恋の歌が好きになったの？」=
-//「そ、それは……その……」=
-//「それは、なに？」=
-//「それは……そう、あなたが知らなくてもいいことよ！　別に教える必要なんてないでしょう？」=
-//「いや、コイカツ部の活動に有益かもしれないし。是非教えてほしいな」=
-//「うっ……あ、あなた、絶対にわざとよね！？」=
-//「え？　なんのことかな？　それより早く教えてよ」=
-//「～～～っ！　も、もう知らない！　次の曲を選ぶわ！」=
-//（恥ずかしがってる[H名]さん、かわいいなぁ……）=
+「ふふふ、やっぱりこの歌いいわね」=“Fufufu, this song really is nice.”
+「毎回この曲入れてるよね。こういうジャンルの曲が好きなんだ？」=“You put this song in everytime we come, don't you? You like this sort of genre?”
+「曲のジャンルにはあまりこだわっていないわ……曲よりも歌詞のほうが大事ね」=“I don't really fuss over the genre or whatever all that much... to me, the lyrics are more important.”
+「第一、曲の良し悪しなんてよくわからないわ」=“To begin with, I don't really understand what makes a song good or bad.”
+「へぇ。それじゃ、どんな歌詞が好みなの？」=“Hoh. Well then, what sort of lyrics do you like?”
+「う～ん、一言では表しづらいのだけど……」=“Mmm~, it's kinda hard to describe but...”
+「強いて言うなら……最近は、その、恋愛をモチーフにした歌なんかが好きよ」=“If I had to say... recently, uhm, I've been really into songs that talk about love and stuff.”
+「へぇ……なんで恋の歌が好きになったの？」=“Hoh... and why is that?”
+「そ、それは……その……」=“T-That's... uhm...”
+「それは、なに？」=“That's?”
+「それは……そう、あなたが知らなくてもいいことよ！　別に教える必要なんてないでしょう？」=“That's... right, you don't need to know! It's not like I need to go out of my way to tell you, no?”
+「いや、コイカツ部の活動に有益かもしれないし。是非教えてほしいな」=“No, it might help me with the Koikatsu club. I'd love it if you could tell me.”
+「うっ……あ、あなた、絶対にわざとよね！？」=“Uu--... y-you're doing this on purpose, aren't you!?”
+「え？　なんのことかな？　それより早く教えてよ」=“Eh? I don't know what you're talking about. Rather, tell me, I wanna know.”
+「～～～っ！　も、もう知らない！　次の曲を選ぶわ！」=“~~~! I-I don't know! I'm queuing up the next song!”
+（恥ずかしがってる[H名]さん、かわいいなぁ……）=(She's so adorable when she's shy like that...)

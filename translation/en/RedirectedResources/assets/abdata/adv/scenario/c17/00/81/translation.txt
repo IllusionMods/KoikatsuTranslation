@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「あなたのそれ、私にも一口ちょうだい？　私のもあげるから」=
-//「うん、もちろんいいよ。はい、あーん」=
-//「……あーん。うん、おいしいわ」=
-//「ははっ、よかった。食べてるときの[H]さんもかわいいね」=
-//「……恥ずかしいこと言わないでよ。ほら、次はあなたの番ね。あーん」=
+「あなたのそれ、私にも一口ちょうだい？　私のもあげるから」=“Give me a bite of that? I'll give you a bite of this too.”
+「うん、もちろんいいよ。はい、あーん」=“Yeah, of course. Here, open your mouth.”
+「……あーん。うん、おいしいわ」=“...Aaaahn. Yeah, it's delicious.”
+「ははっ、よかった。食べてるときの[H]さんもかわいいね」=“Haha--, great. You look adorable when you're eating too, [H]-san.”
+「……恥ずかしいこと言わないでよ。ほら、次はあなたの番ね。あーん」=“...Don't say such embarrassing things. C'mon, it's your turn now. Open up.”

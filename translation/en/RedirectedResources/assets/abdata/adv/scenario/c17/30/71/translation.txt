@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「あなた、勉強してる時いつも眠そうよね」=
-//「え？　そ、そうかな……？」=
-//「ええ。本当に眠いのなら……ふふっ、私があなたの目、覚ましてあげようかしら？」=
-//「えっ、ちょっと[H]さんどうしたの急に？　ここじゃまずいよ……！？」=
+「あなた、勉強してる時いつも眠そうよね」=“You're always sleepy during study time, aren't you?”
+「え？　そ、そうかな……？」=“Eh? Y-You think so...?”
+「ええ。本当に眠いのなら……ふふっ、私があなたの目、覚ましてあげようかしら？」=“Yes. If you're really so sleepy... fufu--, shall I wake you up, right and proper?”
+「えっ、ちょっと[H]さんどうしたの急に？　ここじゃまずいよ……！？」=“Eh--, what's gotten into you all of a sudden, [H]-san? This really isn't the place, you know...?!”

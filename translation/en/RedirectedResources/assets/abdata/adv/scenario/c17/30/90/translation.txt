@@ -1,19 +1,19 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「……ねえ、私たちって愛称で呼び合わないけど、仲悪いのかしら？」=
-//「いや、そういうことはないと思うけど……どうしたの？」=
-//「……雑誌に、恋人は愛称で呼び合うものだ、って書いてたから」=
-//「はは、そんなこと気にしてたんだ」=
-//「むっ、そんなことって……私、一生懸命あなたの愛称を考えたのに……」=
-//「えっ、考えてくれたの？　なになに、呼んでみてよ！」=
-//「き、期待されると困るのだけれど……。えっと……[Pあだ名]」=
-//「おお……なんか恋人同士っぽい呼び方だね」=
-//「だって恋人同士だもの。……ほら、そっちも呼んでみてよ」=
-//「わ、わかった……えーと……[Hあだ名]」=
-//「……まあまあってところね」=
-//「……顔が赤いよ？　[Hあだ名]」=
-//「あなただって……ああもう、柄でもないことをするものじゃないわね……」=
-//「ちょっと照れくさかったけど、俺は嬉しかったよ」=
-//「……それじゃあ、また呼んでみてもいいかしら？」=
-//「うん、もちろんだよ」=
+「……ねえ、私たちって愛称で呼び合わないけど、仲悪いのかしら？」=“...Hey, we don't even use nicknames for each other. Are we that distant to each other?”
+「いや、そういうことはないと思うけど……どうしたの？」=“No, I think we're pretty close, personally... what's the matter?”
+「……雑誌に、恋人は愛称で呼び合うものだ、って書いてたから」=“...I read in a magazine, that couples calling each other by nicknames is just basic.”
+「はは、そんなこと気にしてたんだ」=“Haha, and something like that's been on your mind, huh?”
+「むっ、そんなことって……私、一生懸命あなたの愛称を考えたのに……」=“Muh--, brushing it off like that... I spent all night thinking of one for you too...”
+「えっ、考えてくれたの？　なになに、呼んでみてよ！」=“Eh--, you did? Now I'm curious, try calling me it!”
+「き、期待されると困るのだけれど……。えっと……[Pあだ名]」=“D-Don't get your expectations up... Erhm... [Pあだ名].”
+「おお……なんか恋人同士っぽい呼び方だね」=“Ooh... sounds perfect for couples.”
+「だって恋人同士だもの。……ほら、そっちも呼んでみてよ」=“I mean, we're a couple. ...C'mon, try calling me one too.”
+「わ、わかった……えーと……[Hあだ名]」=“G-Got it... Erhm... [Hあだ名].”
+「……まあまあってところね」=“...It's alright, I guess.”
+「……顔が赤いよ？　[Hあだ名]」=“...You're red as a tomato, you know? [Hあだ名].”
+「あなただって……ああもう、柄でもないことをするものじゃないわね……」=“But you are t... aaah, jeez, I knew it, I shouldn't have done this, it doesn't fit me.”
+「ちょっと照れくさかったけど、俺は嬉しかったよ」=“It was a bit embarrassing but, it made me really happy.”
+「……それじゃあ、また呼んでみてもいいかしら？」=“...Well then, do you mind if I call you that again?”
+「うん、もちろんだよ」=“No, not at all, feel free.”

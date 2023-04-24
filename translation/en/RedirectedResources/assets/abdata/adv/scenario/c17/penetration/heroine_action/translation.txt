@@ -2,6 +2,6 @@
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
 「えっと……混ざりたいの？　……どうする？」=“Erhm... You wanna join us? What do you wanna do?”
-//「三人でって……ま、まぁ、いいわよ？　私は」=
-//「えっと……３人でするってこと？　……どうする？」=
-//「あら、あなたも交ざりたかったのね？　ふふふ、私は構わないわよ？」=
+「三人でって……ま、まぁ、いいわよ？　私は」=“A threesome... w-well, I don't really mind, you know?”
+「えっと……３人でするってこと？　……どうする？」=“Erhm... you mean a threesome? ...What do you say?”
+「あら、あなたも交ざりたかったのね？　ふふふ、私は構わないわよ？」=“Oh, you wanted to join us too, huh? Fufufu, I don't mind at all, you know?”

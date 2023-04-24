@@ -1,24 +1,24 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「さあ、果たして私を満足させるものが出てくるのかしら？」=
-//「あはは。ずいぶん上から目線なんだね」=
-//「当たり前でしょう？　お金を払っているのだから、それ相応のクオリティを期待して当然よ」=
-//「それは、確かに」=
-//「やっぱり[H名]さんは料理とかできるの？」=
-//「やっぱりってなによ？」=
-//「いや、なんでもそつ無くこなせそうだからさ」=
-//「当然じゃない。料理くらいはするわ」=
-//「へぇ、すごいな」=
-//「ちなみにどんな料理を作るの？」=
-//「そうね。最近は洋食に凝ってて、ココットをよく作るわ」=
-//「こ、ココット？　思ったより本格派だ……」=
-//「慣れれば簡単よ。……今度料理を教えてあげましょうか？」=
-//「是非、教えてほしいな」=
-//「ま、まあ……たまに作るぐらいね」=
-//「え、なになに？　どんなものつくるの？」=
-//「どうしてテンション上がってるのよ……」=
-//「だって、このまま[H名]さんとずっといれば、いつかそれが食べられるかもと思って」=
-//「そ、そう……食べたいなら、今度作ってあげてもいいわ。ただし、時間は貰うけど……」=
-//「本当！　楽しみ待ってるよ！」=
-//「……ちゃんと作れるように練習しておかないと」=
+「さあ、果たして私を満足させるものが出てくるのかしら？」=Now then, will they be able to come up with something that'll satisfy my great self?
+「あはは。ずいぶん上から目線なんだね」=Ahaha. That sure is some attitude.
+「当たり前でしょう？　お金を払っているのだから、それ相応のクオリティを期待して当然よ」=And why not? We're paying for it, it's only natural to expect something befitting the value of it.
+「それは、確かに」=You're not wrong.
+「やっぱり[H名]さんは料理とかできるの？」=You must be a mean cook then, [H名]-san?
+「やっぱりってなによ？」=Where did that come from?
+「いや、なんでもそつ無くこなせそうだからさ」=No, well, since you seem like you can get just about anything done.
+「当然じゃない。料理くらいはするわ」=Of course. Cooking's nothing much to me.
+「へぇ、すごいな」=Hoh, amazing.
+「ちなみにどんな料理を作るの？」=Incidentally, what sort of things do you cook?
+「そうね。最近は洋食に凝ってて、ココットをよく作るわ」=Let's see. I've been really into western cooking recently, so I've been making Ouef en Cocotte a lot.
+「こ、ココット？　思ったより本格派だ……」=O-Ouef en Cocotte? Sounds like a hard dish...
+「慣れれば簡単よ。……今度料理を教えてあげましょうか？」=It's easy once you get used to it. ...Want me to teach you how to cook sometime?
+「是非、教えてほしいな」=I'd love that.
+「ま、まあ……たまに作るぐらいね」=W-Well... I cook sometimes.
+「え、なになに？　どんなものつくるの？」=Oh? What sort of stuff?
+「どうしてテンション上がってるのよ……」=Why're you getting so excited about it...
+「だって、このまま[H名]さんとずっといれば、いつかそれが食べられるかもと思って」=I mean, I was thinking that if we keep this relationship going, I'd get to try it someday, you know?
+「そ、そう……食べたいなら、今度作ってあげてもいいわ。ただし、時間は貰うけど……」=I-I see... if you want to try it, I don't mind making it for you sometime. But, give me some time...
+「本当！　楽しみ待ってるよ！」=Really!? I'm really looking forward to it!
+「……ちゃんと作れるように練習しておかないと」=...Guess I gotta practice some then.

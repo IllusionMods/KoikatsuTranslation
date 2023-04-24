@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「……まったく、こんなのカラオケボックスの使い方として間違っているわ」=
-//「そんなに嫌だった？　だったら、ごめん」=
-//「それは……嫌ではないけれど……」=
-//「え？　なに？」=
-//「……もう！　さっさと部屋を出るわよ」=
-//「え？　あ、ちょっと待ってよ！」=
+「……まったく、こんなのカラオケボックスの使い方として間違っているわ」=...Jeez, this really isn't the way a karaoke box is meant to be used.
+「そんなに嫌だった？　だったら、ごめん」=Did you hate it that much? If so, I'm sorry.
+「それは……嫌ではないけれど……」=That's... I didn't hate it...
+「え？　なに？」=Eh? What?
+「……もう！　さっさと部屋を出るわよ」=...Jeez! We're heading out, now.
+「え？　あ、ちょっと待ってよ！」=Eh? Ah, wait a sec!

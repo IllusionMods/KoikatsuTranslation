@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「ねえ、もう少しそっちに寄ってもいいかしら？」=
-//「あ、うん。全然いいよ」=
-//「ふふっ、じゃ遠慮なく」=
-//「はは、校門前でこれは少し恥ずかしいね」=
+「ねえ、もう少しそっちに寄ってもいいかしら？」=“Hey, do you mind if I get a bit closer to you?”
+「あ、うん。全然いいよ」=“Ah, no. As close as you want.”
+「ふふっ、じゃ遠慮なく」=“Fufu--, then I won't hold back.”
+「はは、校門前でこれは少し恥ずかしいね」=“Haha, bit embarrassing to do this right in front of the school gate.”

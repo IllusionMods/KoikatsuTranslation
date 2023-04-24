@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「あ、来た。おーい、[H名]さん。こっちだよ」=
-//「あら、随分早いのね。なにかいいことでもあったのかしら？」=
-//「今日のデートが楽しみだったからだよ……って、その顔はわかってて言ってるね？」=
-//（さて、今日はどこに行こうか……）=
+「あ、来た。おーい、[H名]さん。こっちだよ」=Ah, she's here. Hey, [H名]-san. Over here.
+「あら、随分早いのね。なにかいいことでもあったのかしら？」=My, you sure got here early. Did something good happen?
+「今日のデートが楽しみだったからだよ……って、その顔はわかってて言ってるね？」=It's just that I was really excited for our date. ...That expression, you already knew that, didn't you?
+（さて、今日はどこに行こうか……）=(Now then, where shall we go today...)

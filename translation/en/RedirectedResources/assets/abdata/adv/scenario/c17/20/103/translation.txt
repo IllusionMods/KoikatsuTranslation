@@ -1,16 +1,16 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「もう夕方ね……今日も、まぁ、悪くはなかったわ」=
-//CHOICE:『まだ時間ある？』=
-//CHOICE:『俺も楽しかった』=
-//「ねえ、まだ時間はあるかな？」=
-//「あるけれど、どうしたの？」=
-//「このまま二人で夜景を見ない？　いい場所を知ってるんだ」=
-//「わかったわ。どうせ帰ってからやることもないのだし……付き合ってあげる」=
-//「ありがとう。こっちだよ」=
-//「そう言ってくれてありがとう。俺も[H名]さんとの思い出が増えて嬉しいよ」=
-//「そ、そんなにストレートに言われたら、照れるじゃないのよ……もう」=
-//「ふふっ、あっ、そうだ……ねぇ、手、繋がない？」=
-//「……まぁ、いいわよ。言っておくけれど、今日は特別よ？」=
-//「うん、ありがとう」=
+「もう夕方ね……今日も、まぁ、悪くはなかったわ」=“It's already evening, huh... today was, well, it wasn't bad today either.”
+CHOICE:『まだ時間ある？』=Still got some time?
+CHOICE:『俺も楽しかった』=I had a blast too.
+「ねえ、まだ時間はあるかな？」=“Hey, do you still have time?”
+「あるけれど、どうしたの？」=“I do but, what's up?”
+「このまま二人で夜景を見ない？　いい場所を知ってるんだ」=“Won't you come view the nightscape with me? I know a really good place.”
+「わかったわ。どうせ帰ってからやることもないのだし……付き合ってあげる」=“Got it. It's not like I've anything to do once I get back home anyway... I'll go along with you.”
+「ありがとう。こっちだよ」=“Thank you. It's over this way.”
+「そう言ってくれてありがとう。俺も[H名]さんとの思い出が増えて嬉しいよ」=“It makes me happy you feel that way. I'm also happy, we made some more great memories together.”
+「そ、そんなにストレートに言われたら、照れるじゃないのよ……もう」=“I-If you say it so directly, I'm gonna blush... dummy.”
+「ふふっ、あっ、そうだ……ねぇ、手、繋がない？」=“Fufu--, ah--, right... hey, wanna hold hands?”
+「……まぁ、いいわよ。言っておくけれど、今日は特別よ？」=“...Well, sure. But I'm letting you do it just this once, okay?”
+「うん、ありがとう」=“Yeah, thanks.”

@@ -1,24 +1,24 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「……ちょっと疲れてきたわね」=
-//「確かに。時間は余ってるけど、どうする？　帰る？」=
-//「あなたも疲れているなら帰ったほうがいいかもね……もう少し一緒にいたいけれど」=
-//「うん？　ごめん、聞こえなかった」=
-//「な、なんでもないわ、なんでも！」=
-//「そう？　それじゃあ……」=
-//CHOICE:『最後までいようか』=
-//CHOICE:『今日はもう帰ろうか』=
-//「……最後までいようか」=
-//「え？　いいの？」=
-//「……って、なんか悔しいわね」=
-//「え？　嫌だった？」=
-//「そうじゃないけれど……もっと一緒にいたいって……あなたに本心を読まれた気がして、ちょっと悔しいの」=
-//（す、素直なのか素直じゃないのかわからないけど、かわいい！）=
-//「……あのさ、前にしたこと、またしない？」=
-//「前のって、つまり……エッチなこと？」=
-//「うん。なんかすごい、どきどきしちゃって」=
-//「……はぁ。もう、あなたって人は……途中で延長タイムが切れなければいいけれど……」=
-//「今日はもう帰ろうか」=
-//「う、うん……そう、ね」=
-//「……鈍感」=
+「……ちょっと疲れてきたわね」=...Starting to get pretty tired here.
+「確かに。時間は余ってるけど、どうする？　帰る？」=For sure. We've still got some time on the clock, but what do you wanna do? Wanna go home?
+「あなたも疲れているなら帰ったほうがいいかもね……もう少し一緒にいたいけれど」=If you're tired too, it probably would be best for us to head home... but I want to stay with you a bit longer.
+「うん？　ごめん、聞こえなかった」=Hm? Sorry, I didn't catch that.
+「な、なんでもないわ、なんでも！」=I-It's nothing, nothing at all!
+「そう？　それじゃあ……」=That so? Well then...
+CHOICE:『最後までいようか』=Let's stay until the end.
+CHOICE:『今日はもう帰ろうか』=Let's go home for today.
+「……最後までいようか」=...Let's stay until the end then.
+「え？　いいの？」=Eh? You sure?
+「……って、なんか悔しいわね」=...Kinda frustrating.
+「え？　嫌だった？」=Eh? You'd rather we left?
+「そうじゃないけれど……もっと一緒にいたいって……あなたに本心を読まれた気がして、ちょっと悔しいの」=No, but... it feels like you read my heart, that I want to be together a bit longer and... it's a bit frustrating.
+（す、素直なのか素直じゃないのかわからないけど、かわいい！）=(I-I don't get whether she's being docile or not but, that's so adorable!)
+「……あのさ、前にしたこと、またしない？」=...Hey, listen, wanna do the stuff, that we did before?
+「前のって、つまり……エッチなこと？」=The stuff we did before, you mean... sex?
+「うん。なんかすごい、どきどきしちゃって」=Yeah. My heart's kinda pounding, real hard.
+「……はぁ。もう、あなたって人は……途中で延長タイムが切れなければいいけれど……」=...Haah. You're such a... hopefully the clock won't go off while we're doing it...
+「今日はもう帰ろうか」=Let's go home for today.
+「う、うん……そう、ね」=O-Okay... that's, fair.
+「……鈍感」=...Blockhead.

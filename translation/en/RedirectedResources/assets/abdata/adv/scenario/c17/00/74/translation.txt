@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「じゃ、準備体操から始めましょうか」=
-//「うん。それじゃ、先に背中押してあげるよ」=
-//「ええ、お願い。……んっ、いっ、痛い……」=
-//「えっ！？　強く押してるつもりはなかったんだけど、ごめん」=
-//「え、ええ、いいのよ……。私に構わず続けてもらっていいから……」=
+「じゃ、準備体操から始めましょうか」=“Let's start with some stretches then, shall we?”
+「うん。それじゃ、先に背中押してあげるよ」=“Yeah. Well then, I'll push your back for you.”
+「ええ、お願い。……んっ、いっ、痛い……」=“Yes, please do. ...Nn--, t-that hurts...”
+「えっ！？　強く押してるつもりはなかったんだけど、ごめん」=“Eh--?! I really wasn't trying to do it too hard, sorry.”
+「え、ええ、いいのよ……。私に構わず続けてもらっていいから……」=“I-It's fine, don't worry... Just keep going, don't mind me...”

@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「ねぇ……」=
+「ねぇ……」=“Hey...”
 「ん……」=“Nn...”
-//「ん、ん……んっ」=
-//「っ……もう、がっつき過ぎよ」=
-//「[H名]さんはしたくないの？」=
-//「それは……したいけれど」=
-//「じゃあ、いいよね……？」=
+「ん、ん……んっ」=“Nn, nn... nn--”
+「っ……もう、がっつき過ぎよ」=“--...Jeez, you're being too greedy.”
+「[H名]さんはしたくないの？」=“You don't wanna do it?”
+「それは……したいけれど」=“I didn't... say that.”
+「じゃあ、いいよね……？」=“Then, it's fine, right...?”

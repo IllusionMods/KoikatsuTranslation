@@ -2,17 +2,17 @@
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
 モブ=Mob
-//「お疲れ様でした。ふふっ、素敵な式でしたよ」=
-//「本番の結婚式も、是非、私どもの式場で挙げてくださいね！」=
-//「えっと、前向きに考えさせてもらいます」=
-//「お願いします！　今日はお引き受けいただいて、ありがとうございました」=
-//「[H名]さん、お疲れ様」=
-//「えぇ、お疲れ様……」=
-//「本番もよろしくね？」=
-//「え、本番？」=
-//「最初に来たときに言ってたよね？」=
-//「それとも、俺とは本番、するつもりない？」=
-//「そ、それは……もう、いじわるね。わかっているでしょう？」=
-//「ちゃんと答えてほしいなぁ」=
-//「絶対わざとよね……意地悪な人には答えてあげない！　さ、もう行くわよ！」=
-//「あ、ちょっと、待ってよ！」=
+「お疲れ様でした。ふふっ、素敵な式でしたよ」=“Good work today. Fufu~ It was a lovely ceremony.”
+「本番の結婚式も、是非、私どもの式場で挙げてくださいね！」=“For your actual wedding as well, please, do call upon us!”
+「えっと、前向きに考えさせてもらいます」=“Uhm, sure, if we get to that point.”
+「お願いします！　今日はお引き受けいただいて、ありがとうございました」=“Thank you! And for helping us out so much today as well, thank you very much!”
+「[H名]さん、お疲れ様」=“Great job, [H名].”
+「えぇ、お疲れ様……」=“Yes, you too...”
+「本番もよろしくね？」=“Fingers crossed for our real one someday too, hm?”
+「え、本番？」=“Eh, real one?”
+「最初に来たときに言ってたよね？」=“You said that when we first got here, no?”
+「それとも、俺とは本番、するつもりない？」=“Or do you not want to marry me someday?”
+「そ、それは……もう、いじわるね。わかっているでしょう？」=“T-That's... jeez, you meanie. You already know, no?”
+「ちゃんと答えてほしいなぁ」=“I'd love to hear a proper answer~”
+「絶対わざとよね……意地悪な人には答えてあげない！　さ、もう行くわよ！」=“You're definitely doing it on purpose... I don't give meanies any answers! Come, we're going!”
+「あ、ちょっと、待ってよ！」=“Ah, hey, wait for me!”

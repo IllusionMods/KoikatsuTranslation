@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「……初めて入ったわ。ラブホテル」=
-//「……[H名]さん」=
-//「ちょっと待って。シャワーは？」=
-//「もうそんな時間も惜しいよ。一刻も早く、[H名]さんが欲しい」=
-//「……わ、わかったわ。そう言うなら……今すぐ、私を抱きしめて」=
+「……初めて入ったわ。ラブホテル」=...It's my first time, entering a love hotel.
+「……[H名]さん」=...[H名]-san.
+「ちょっと待って。シャワーは？」=Wait a moment. What about showering?
+「もうそんな時間も惜しいよ。一刻も早く、[H名]さんが欲しい」=Who's got the time to waste on that? I want you, right now, right this moment.
+「……わ、わかったわ。そう言うなら……今すぐ、私を抱きしめて」=...I-I got it. If that's how you feel... then take me, right now.

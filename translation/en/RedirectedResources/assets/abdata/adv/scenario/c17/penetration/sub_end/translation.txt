@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「どうかしら？　あなたは満足……したわよね。二人も相手にしたんだもの」=
+「どうかしら？　あなたは満足……したわよね。二人も相手にしたんだもの」=“How was it? You did... get satisfied, right? You were doing two girls at once, afterall.”

@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「どう？　気持ちよかったかしら？」=
-//「はい、とても」=
-//「……真顔で言うのはやめなさい」=
+「どう？　気持ちよかったかしら？」=How is it? Did it feel good?
+「はい、とても」=Yes, very good.
+「……真顔で言うのはやめなさい」=...Don't say it with such a straight face.

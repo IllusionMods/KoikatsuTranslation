@@ -1,24 +1,24 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「あら、このハンバーグ美味しいわね」=
-//「うん。肉汁がしっかり閉じ込められていて、旨味が逃げてない」=
-//「そうね。加えて言うならこのふわふわ感、かなり頑張って手ごねを……」=
-//「……って、なに私のハンバーグ食べてるのよ。あなたのは、そっちのオムライスでしょう？」=
-//「あれ？　ダメだった？」=
-//「ダメではないけれど、許可を取りなさい、許可を」=
-//「それじゃ、改めて……少し分けてくれる？」=
-//「はぁ……いいわよ。食べても」=
-//「やった！　……あーん」=
-//「……もしかして、あーん、ってやってほしいのかしら？」=
-//「そ、そんなに白い目で見なくても」=
-//「ごめんなさい、調子に乗りました」=
-//「ダメとは言ってないわ」=
+「あら、このハンバーグ美味しいわね」=Oh, this hamburg steak's pretty good.
+「うん。肉汁がしっかり閉じ込められていて、旨味が逃げてない」=Yeah. The juices are sealed in perfectly, keeping the flavour locked inside.
+「そうね。加えて言うならこのふわふわ感、かなり頑張って手ごねを……」=Yeah. Not to mention, this fluffiness, must have taken quite a lot of eff...
+「……って、なに私のハンバーグ食べてるのよ。あなたのは、そっちのオムライスでしょう？」=...What are you pawing at my steak for? You've got your own omurice there, no?
+「あれ？　ダメだった？」=Huh? No good?
+「ダメではないけれど、許可を取りなさい、許可を」=I didn't say that but, ask for permission first, permission.
+「それじゃ、改めて……少し分けてくれる？」=Well then, I will... will you share some with me?
+「はぁ……いいわよ。食べても」=Haah... Sure. Go ahead.
+「やった！　……あーん」=Yay! ...Aahn.
+「……もしかして、あーん、ってやってほしいのかしら？」=...Do you want me to feed it to you, or something?
+「そ、そんなに白い目で見なくても」=I-I don't think I deserve such a cold stare for that.
+「ごめんなさい、調子に乗りました」=I'm sorry, I got carried away.
+「ダメとは言ってないわ」=I didn't say no.
 「え？」=“Eh?”
-//「はい、あーん」=
-//「あ、ちょっと待っ……」=
-//「あむっ……ん、ん……」=
-//「どう？　私にあーんしてもらえたんだから……さぞ、美味しかったでしょ？」=
-//「うん！　二割り、いや、三割り増しだったよ」=
-//「そ、そう……だったら、もう一口いる？　はい、あーん」=
-//「えっ、いいの？　ありがとう！」=
+「はい、あーん」=Here, open wide.
+「あ、ちょっと待っ……」=Ah, wait a se--...
+「あむっ……ん、ん……」=*Chew*... nn, nn...
+「どう？　私にあーんしてもらえたんだから……さぞ、美味しかったでしょ？」=How is it? You got me to feed it to you so... it's surely delicious, no?
+「うん！　二割り、いや、三割り増しだったよ」=Yeah! Twice as much, no, three times as delicious.
+「そ、そう……だったら、もう一口いる？　はい、あーん」=I-I see... in that case, want another bite? Here, open up.
+「えっ、いいの？　ありがとう！」=Eh--, you sure? Thank you!

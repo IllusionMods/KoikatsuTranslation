@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「ふぅ。ちょっと疲れたから、休憩にしない？」=
-//「えぇ、そうね。私も少し汗かいちゃったわ」=
-//「そ、そう……」=
-//「目線がいやらしいとこに行ってるわよ？　ふふっ、今はダメ。あとで……ね？」=
+「ふぅ。ちょっと疲れたから、休憩にしない？」=“Fuu. I'm a bit tired so, how about a break?”
+「えぇ、そうね。私も少し汗かいちゃったわ」=“Yes, about time for one. I've worked up a fair bit of sweat too.”
+「そ、そう……」=“I-I see...”
+「目線がいやらしいとこに行ってるわよ？　ふふっ、今はダメ。あとで……ね？」=“I can see that those lewd eyes aren't pointing at my face, you know? Fufu--, not right now. Later... okay?”

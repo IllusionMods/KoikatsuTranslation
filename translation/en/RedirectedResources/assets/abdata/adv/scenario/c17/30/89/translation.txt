@@ -2,18 +2,18 @@
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
 「あのさ、ちょっとお願いがあるんだけど……」=“Um, so, I have a little request for you...”
-//「内容によるけど、聞くだけは聞いてあげるわよ」=
-//「なら大丈夫かな。その、俺たち、そろそろ愛称で呼び合うのはどうかなって」=
-//「そういえば、考えたこともなかったわね」=
-//「うん。でさ、二人の愛称を考えてみたんだ。それで是非呼んでほしいのがあるんだけど」=
-//「へぇ……なんて呼び方なの？」=
+「内容によるけど、聞くだけは聞いてあげるわよ」=“It'll depend on the contents but, I'll hear you out.”
+「なら大丈夫かな。その、俺たち、そろそろ愛称で呼び合うのはどうかなって」=“It's nothing big. Uhm, I was just thinking that, maybe we could start using nicknames for one another.”
+「そういえば、考えたこともなかったわね」=“Now that I think about it, we could, couldn't we?”
+「うん。でさ、二人の愛称を考えてみたんだ。それで是非呼んでほしいのがあるんだけど」=“Yeah. So, I thought up some nicknames for us. I'd love it if you could use mine and call me that.”
+「へぇ……なんて呼び方なの？」=“Hoh... and what is it, exactly?”
 「[Pあだ名]」=[Pあだ名]
-//「……それ、完全にあなたの趣味よね？」=
-//「まあ、否定はしないけど……ダメ？」=
-//「別に嫌じゃないけど、私だけ恥ずかしい目に合うのは……。……私の愛称も考えてるんでしょ？　だったらそれを呼んでちょうだい」=
-//「わかったよ。……[Hあだ名]」=
-//「えっと、その……[Pあだ名]」=
-//「……うん、恥ずかしいね、これ……」=
-//「私はその何倍も恥ずかしいわよ……」=
-//「はは、ごめん……でも、せっかくなら、また呼んで欲しいんだけど……」=
-//「……気が向いたらね」=
+「……それ、完全にあなたの趣味よね？」=“...And you like that, do you?”
+「まあ、否定はしないけど……ダメ？」=“Well, I won't deny that... no dice?”
+「別に嫌じゃないけど、私だけ恥ずかしい目に合うのは……。……私の愛称も考えてるんでしょ？　だったらそれを呼んでちょうだい」=“Not that I really mind but, I'm not going to do something so embarrassing alone. ...You thought of one for me too, no? Call me by that.”
+「わかったよ。……[Hあだ名]」=“Got it. ...[Hあだ名].”
+「えっと、その……[Pあだ名]」=“Erhm, uhm... [Pあだ名].”
+「……うん、恥ずかしいね、これ……」=“...Yeah, pretty embarrassing, isn't it...”
+「私はその何倍も恥ずかしいわよ……」=“It's even more embarrassing for me...”
+「はは、ごめん……でも、せっかくなら、また呼んで欲しいんだけど……」=“Haha, sorry... but, I'd love it if you could call me that again...”
+「……気が向いたらね」=“...If I feel like it.”

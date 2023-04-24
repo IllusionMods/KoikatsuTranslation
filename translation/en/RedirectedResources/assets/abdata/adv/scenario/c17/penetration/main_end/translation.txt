@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「思ったよりも刺激的でよかったわ。またしてあげてもいいわよ？」=
+「思ったよりも刺激的でよかったわ。またしてあげてもいいわよ？」=“It was a lot more stimulating than usual, it was great. I don't mind doing this again, you know?”

@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「私も構わないわよ？　……ちゃんと二人とも気持ちよくしてくれるのなら、だけど」=
+「私も構わないわよ？　……ちゃんと二人とも気持ちよくしてくれるのなら、だけど」=“I don't mind either, you know? ...As long as you pleasure us both, that is.”
