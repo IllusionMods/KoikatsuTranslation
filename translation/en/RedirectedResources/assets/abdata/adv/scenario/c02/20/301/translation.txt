@@ -1,21 +1,21 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「さあ、歌うぞー！　ふふ、楽しみだなー。どんな歌を聞かせてくれるんだろう？」=
-//「おーっほっほっほ。歌には自信がありますわ！」=
-//「うう、すごい声……。マイクを通さず、部屋の中に響き渡ってる……」=
-//「おほほほ、人の上に立つものとして、美声と声量は不可欠ですもの。歌も当然得意ですわ！」=
-//「ただ、あまりカラオケで歌うような曲を知りませんの。それに……実はカラオケに来るのは初めてですわ」=
-//「そうだったんだ……。じゃあ、俺が初めて[H名]さんのカラオケを聞く男になれるんだね！　光栄だよ」=
-//「おほほほほ……期待が高まり過ぎて、若干緊張してきましたわ！　でも緊張など、声を出せばほぐれるものですわ」=
-//「楽しみだよ。俺、あんまり歌が上手じゃないからさ、勉強させてもらうね。はい、リモコン」=
-//「……どうすればいいのかしら。ええっと……マニュアルはどこかしら……」=
-//「どうしたの？　ひょっとして使い方が判らない？」=
-//「お、おほほほほっ、バカなことをおっしゃらないでちょうだい！　このような些末なこと、わたくし自らやれとおっしゃるの？」=
-//「あなたが入力なさい。『青空アドベンチャー』はご存知かしら？」=
-//「え？　あれ歌ってくれるの？　大好きな曲だよ！　ええっと、はい入力完了……はい、マイク持って」=
-//「ええっと、マイクマイク……スイッチは？　ああ、こ、これですわね……」=
-//「落ち着いて……一旦停止しようか？」=
-//「結構ですわ……さあ、行きますわよ！」=
-//「小さな手の平 掴める物は きっと限られているけど──」=
-//「お、おお……マジで上手い……」=
+「さあ、歌うぞー！　ふふ、楽しみだなー。どんな歌を聞かせてくれるんだろう？」=“Alright, I'm gonna sing my heart out~! Fufuh, I'm so excited. What sort of singing am I gonna get to hear today?”
+「おーっほっほっほ。歌には自信がありますわ！」=“Ohohohoh. I have quite some confidence in my own singing!”
+「うう、すごい声……。マイクを通さず、部屋の中に響き渡ってる……」=“Uu, your voice is so amazing... Even without a mic, it's still echoing through the room...”
+「おほほほ、人の上に立つものとして、美声と声量は不可欠ですもの。歌も当然得意ですわ！」=“Ohohohoh, as someone above others, a beautiful and voluminous voice is truly indispensable. Naturally, I'm quite skilled at singing too!”
+「ただ、あまりカラオケで歌うような曲を知りませんの。それに……実はカラオケに来るのは初めてですわ」=“It is just, I do not know all that many songs that one would sing at Karaoke. Not to mention... it is actually my first time coming to karaoke.”
+「そうだったんだ……。じゃあ、俺が初めて[H名]さんのカラオケを聞く男になれるんだね！　光栄だよ」=“Really... then, I'mma be the first man who gets to hear you sing karaoke, huh! What an honour.”
+「おほほほほ……期待が高まり過ぎて、若干緊張してきましたわ！　でも緊張など、声を出せばほぐれるものですわ」=“Ohohohohoh... your expectations are leaving me a twinge nervous! But that's simply a matter of letting my voice out and the nervousness along with it.”
+「楽しみだよ。俺、あんまり歌が上手じゃないからさ、勉強させてもらうね。はい、リモコン」=“I'm looking forward to it. I'm not really all that good at singing myself so, I'm gonna have you teach me, alright? Here, the remote.”
+「……どうすればいいのかしら。ええっと……マニュアルはどこかしら……」=“...How does one operate this? Eerhm... where might the manual be...”
+「どうしたの？　ひょっとして使い方が判らない？」=“What's up? You don't know how to use it?”
+「お、おほほほほっ、バカなことをおっしゃらないでちょうだい！　このような些末なこと、わたくし自らやれとおっしゃるの？」=“O-Ohohohohoh--. Don't be silly! You are asking me to handle something so trivial myself?”
+「あなたが入力なさい。『青空アドベンチャー』はご存知かしら？」=“Put it in for me. Do you know of the song "Blue sky adventure"?”
+「え？　あれ歌ってくれるの？　大好きな曲だよ！　ええっと、はい入力完了……はい、マイク持って」=“Eh? You'll sing that for me? I love that song! Eerhm, alright there we go... here, take the mic.”
+「ええっと、マイクマイク……スイッチは？　ああ、こ、これですわね……」=“Eerhm, the mic... and the switch? Aah, i-it must be this...”
+「落ち着いて……一旦停止しようか？」=“Calm down... want to take a short break?”
+「結構ですわ……さあ、行きますわよ！」=“That's quite alright... now then, here I go!”
+「小さな手の平 掴める物は きっと限られているけど──」=“「This small hand, the things it can grasp, they are surely limited, but--」”
+「お、おお……マジで上手い……」=“O-Ooh... she's seriously so good...”

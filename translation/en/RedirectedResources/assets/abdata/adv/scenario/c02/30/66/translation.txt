@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「おーほっほっほ、あなたは見込みありますわ」=
-//「そうなの？」=
-//「ええ、わたくしを退屈させないよう、頑張っていますから」=
-//「ああ、そういうところ、見てくれてるんだね。ありがとう」=
-//「そんなこと、人の上に立つならば当然のことですわ！　おーっほっほっほ！　もっと感謝なさい」=
-//「う、うん……」=
+「おーほっほっほ、あなたは見込みありますわ」=“Ohohohoh, you have promise.”
+「そうなの？」=“Really?”
+「ええ、わたくしを退屈させないよう、頑張っていますから」=“Yes, since you are putting in effort, to make sure I do not get bored.”
+「ああ、そういうところ、見てくれてるんだね。ありがとう」=“Aah, so you do take notice of that. Thanks.”
+「そんなこと、人の上に立つならば当然のことですわ！　おーっほっほっほ！　もっと感謝なさい」=“As someone above others, it is only natural I would notice it! Ohohohoh! Be more grateful.”
+「う、うん……」=“O-Okay...”

@@ -1,25 +1,25 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「爽やかな天気だね！　熱くもないし、寒くもないし……」=
-//「ええ、いい気分ですわ。広々として、素敵な公園ですわね」=
-//「うん、ジョギングや、犬の散歩をしている人がいっぱいいるよ。みんな、なんとなく楽しそうだ」=
-//「おーっほっほっほ！　健康的で結構なことですわ！」=
-//（……皆、こっち見てる。やっぱ公園で高笑いしながら練り歩くカップルって、珍しいもんなぁ……）=
-//「芝生も青々としているし、並木道もすごく綺麗だね。なんだか、こういう光景を見ると、走りたくなっちゃわない？」=
-//「おほほほほ、なんだか、あなたを散歩しているような気分になりますわ」=
-//「ははは、犬みたいに、走り回れたら楽しいだろうね」=
-//「走っても構いませんけど、ちゃんと名前を呼んだら帰ってらっしゃいね？　しつけの出来ていない飼い主と思われたくありませんもの」=
-//「一緒に走ろうよ。今日は運動日和だしさぁ」=
-//「よろしくてよ！　おほほほほ！　わたくしの自慢の足、披露させていただきますわ！」=
-//「お、やる気まんまんだね……こりゃ負けられないな。じゃ、負けた方がジュース奢るってのはどうかな？」=
-//「よくってよ！　浴びるほど飲んで、あなたを破産させて差し上げますわ！」=
-//「よーし、じゃあ、この並木道の向こうまで先に付いた方が勝ちってことで──」=
-//「よーいどん！　おほほほほ、お先に～！」=
-//「あ、ずるい！　待てー！」=
-//「遠慮しておきますわ。汗をかきたくありませんもの」=
-//「ああ、うん、まあそうだよね」=
-//「ここで応援させていただきますわ。さあ、この並木道の向こうまで全力疾走なさい！」=
-//「そんなっ、犬の放し飼いじゃないんだから……」=
-//「ほら、行ってらっしゃい！　後でおやつを差し上げますわ！」=
-//「うわぁぁん、犬扱いやめてよぉ～～」=
+「爽やかな天気だね！　熱くもないし、寒くもないし……」=“Refreshing out today, isn't it! Neither hot, nor cold...”
+「ええ、いい気分ですわ。広々として、素敵な公園ですわね」=“Yes, it feels quite nice. Such a spacious, lovely park.”
+「うん、ジョギングや、犬の散歩をしている人がいっぱいいるよ。みんな、なんとなく楽しそうだ」=“Yeah, there's lots of people jogging around or walking there dogs. Everyone seems to be having fun.”
+「おーっほっほっほ！　健康的で結構なことですわ！」=“Ohohohoh! How wholesome and wonderful!”
+（……皆、こっち見てる。やっぱ公園で高笑いしながら練り歩くカップルって、珍しいもんなぁ……）=(...Everyone's looking at us. A couple like us, that parades around and laughs like this, is probably pretty rare...)
+「芝生も青々としているし、並木道もすごく綺麗だね。なんだか、こういう光景を見ると、走りたくなっちゃわない？」=“The grass looks so lush, and the treeline is so pretty too. Doesn't a sight like this just make you want to break out into a run?”
+「おほほほほ、なんだか、あなたを散歩しているような気分になりますわ」=“Ohohohohoh, it almost feels as if I'm walking you.”
+「ははは、犬みたいに、走り回れたら楽しいだろうね」=“Hahahah, I bet it'd be pretty fun to run around like a dog.”
+「走っても構いませんけど、ちゃんと名前を呼んだら帰ってらっしゃいね？　しつけの出来ていない飼い主と思われたくありませんもの」=“I wouldn't mind if you did that, but you must come back when I call your name, alright? I wouldn't want to be thought of as an owner that doesn't know how to discipline.”
+「一緒に走ろうよ。今日は運動日和だしさぁ」=“Let's run together. It's just the perfect weather for some exercise too.”
+「よろしくてよ！　おほほほほ！　わたくしの自慢の足、披露させていただきますわ！」=“Very well! Ohohohohoh! Time for me to show off these legs I am so proud of!”
+「お、やる気まんまんだね……こりゃ負けられないな。じゃ、負けた方がジュース奢るってのはどうかな？」=“Oh, someone's raring to go... I can't lose here now. Then, how about the loser treats the other to some juice?”
+「よくってよ！　浴びるほど飲んで、あなたを破産させて差し上げますわ！」=“Alright! I shall drink enough to drown myself in it, and make you go bankrupt!”
+「よーし、じゃあ、この並木道の向こうまで先に付いた方が勝ちってことで──」=“Alright, then, the first one who makes it across this tree line first win--”
+「よーいどん！　おほほほほ、お先に～！」=“Here I go! Ohohohohoh, see you later~!”
+「あ、ずるい！　待てー！」=“Ah, that's unfair! Wait~!”
+「遠慮しておきますわ。汗をかきたくありませんもの」=“I'd rather not. I do not want to be sweaty.”
+「ああ、うん、まあそうだよね」=“Aah, yeah, that's fair enough.”
+「ここで応援させていただきますわ。さあ、この並木道の向こうまで全力疾走なさい！」=“I shall cheer you on from here. Now go, sprint to the other side of this tree line!”
+「そんなっ、犬の放し飼いじゃないんだから……」=“Hey--, I'm not a dog without a leash, you know...”
+「ほら、行ってらっしゃい！　後でおやつを差し上げますわ！」=“Come on, go! I shall give you a treat later!”
+「うわぁぁん、犬扱いやめてよぉ～～」=“Uwaahn~, I'm not a dog~~”

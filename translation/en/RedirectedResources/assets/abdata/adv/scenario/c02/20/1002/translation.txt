@@ -1,19 +1,19 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「改めて見てもすごいなー……結婚式って、こんなにかしこまった格好をするのか……」=
-//（……[H名]さんは、俺と違って、堂々と着こなしてるんだろうなぁ）=
-//（ゴージャスでファビュラスな彼女に並ぶと、俺、すっげー貧相に見えるんだろうなぁ……でも、絶対綺麗だから、楽しみだ）=
-//（いよいよ出番か……）=
-//（おぉ、立派な式場だ…………って、雰囲気に呑まれてる場合じゃない）=
-//（[H名]さんの新郎役に見えるよう、せめて堂々としなきゃな！　卑屈な態度は彼女の前じゃ厳禁だからな）=
-//（き、緊張したぁ……ただ歩くだけで、こんなに手汗をかくなんて……うぅ、もっと気を引き締めないと！）=
+「改めて見てもすごいなー……結婚式って、こんなにかしこまった格好をするのか……」=“Looking at it all again, it's sure amazing... a wedding hall is such a formal place, huh...”
+（……[H名]さんは、俺と違って、堂々と着こなしてるんだろうなぁ）=(...I imagine she's wearing that dress with all the dignity it possesses, unlike me.)
+（ゴージャスでファビュラスな彼女に並ぶと、俺、すっげー貧相に見えるんだろうなぁ……でも、絶対綺麗だから、楽しみだ）=(Next to her gorgeous and fabulous self, I imagine I'll probably look super inferior... but, she's definitely gonna look beautiful, so I can't wait.)
+（いよいよ出番か……）=(Showtime, huh...)
+（おぉ、立派な式場だ…………って、雰囲気に呑まれてる場合じゃない）=(Oh, what a lovely place... wuh, I can't let myself get swallowed up by the atmosphere.)
+（[H名]さんの新郎役に見えるよう、せめて堂々としなきゃな！　卑屈な態度は彼女の前じゃ厳禁だからな）=(I gotta atleast put on a dignified sight, else I won't be much of a groom to her! She's banned me from looking at all servile in front of her, afterall.)
+（き、緊張したぁ……ただ歩くだけで、こんなに手汗をかくなんて……うぅ、もっと気を引き締めないと！）=(T-That made me so nervous... to think I'd sweat so much, just from walking a little bit... uuu, I gotta get a grip!)
 モブ=Mob
 「これより新婦が入場致します。後方の扉口をご覧ください」=“And now, the bride will make her entrance. Please pay attention to the main door.”
-//（[H名]さん……）=
+（[H名]さん……）=([H名]-san...)
 両開きの大きな扉が開くと、純白のドレスをまとった花嫁が佇んでいた。=The giant double doors gave way to a bride, standing there, in a snow white wedding dress.
-//言葉を失うほどの美しさに俺はただただ見惚れてしまう。=
-//バージンロード、荘厳な扉、純白のドレス……そして俺の彼女──この光景を、絶対忘れないようにしよう……固くそう思った。=
-//「おおー……すごい……なんて言っていいかわからないや……」=
-//「……最高の花嫁だね。ドレスも最高に似合ってるよ」=
-//「おーほっほっほっほ！　でしょう？　さあ、このもっとも美しい新郎新婦の存在を、満天下に知らしめてやりましょう！」=
+言葉を失うほどの美しさに俺はただただ見惚れてしまう。=I simply lost my breath at the sight of such beauty.
+バージンロード、荘厳な扉、純白のドレス……そして俺の彼女──この光景を、絶対忘れないようにしよう……固くそう思った。=The aisle, the solemn doors and the pure white dress... and my girlfriend at the center of it all-- Let's never forget this sight... that's what I promised myself.
+「おおー……すごい……なんて言っていいかわからないや……」=“Oooh... amazing... I don't even know what to say...”
+「……最高の花嫁だね。ドレスも最高に似合ってるよ」=“...And now you're the best bride too. The dress looks just perfect on you too.”
+「おーほっほっほっほ！　でしょう？　さあ、このもっとも美しい新郎新婦の存在を、満天下に知らしめてやりましょう！」=“Ohohohohoh! Doesn't it, though? Now then, let us make our existence as the most beautiful bride and groom, known to the whole world!”

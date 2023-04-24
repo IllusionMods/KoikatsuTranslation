@@ -1,11 +1,11 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「わたくしが望む恋人……それは紳士ですわ。おわかり？」=
-//「うん、それはわかってるんだけど……紳士ねえ。イメージが難しいんだよな」=
-//「何かお手本はないかな？　例えば、映画とか」=
-//「なるほど、たしかにお手本があれば理解が深まりますわね。では今日は一緒に紳士のお勉強をいたしましょう！」=
-//「うん、何を見よっか……ふふ、なんだか楽しみだね──」=
-//「……ふぅ、面白かった。でもまさか銃撃戦やカーチェイスをしまくりの、英国スパイ映画を見させられるとはね」=
-//「おほほ、彼こそがもっとも素敵な紳士ですわ。頼りがいがあり、知性もユーモアも、女性の扱いも一級品ですもの」=
-//「うん……目指すのは大変だけど、頑張ってみるよ」=
+「わたくしが望む恋人……それは紳士ですわ。おわかり？」=“The man of my dreams... is a gentleman. Understand?”
+「うん、それはわかってるんだけど……紳士ねえ。イメージが難しいんだよな」=“Yep, I get that but... a gentleman, huh. It's kinda hard to imagine in my head.”
+「何かお手本はないかな？　例えば、映画とか」=“Is there any sort of example I can base it off of? Like a film or the like.”
+「なるほど、たしかにお手本があれば理解が深まりますわね。では今日は一緒に紳士のお勉強をいたしましょう！」=“I see, certainly your understanding will deepen with a proper example. Well then, let us study what it is to be a gentleman today!”
+「うん、何を見よっか……ふふ、なんだか楽しみだね──」=“Nn, what should we go with... fufuh, now I'm excited.”
+「……ふぅ、面白かった。でもまさか銃撃戦やカーチェイスをしまくりの、英国スパイ映画を見させられるとはね」=“...Fuuh, that was fun. But to think you'd make me watch an English spy movie with all those gun fights and car chases and nothing else.”
+「おほほ、彼こそがもっとも素敵な紳士ですわ。頼りがいがあり、知性もユーモアも、女性の扱いも一級品ですもの」=“Ohohoh, that in itself is a lovely example of a gentleman. A reliable man, with intelligence, humour and care for a lady overflowing from the seams.”
+「うん……目指すのは大変だけど、頑張ってみるよ」=“Okay... sounds like a hard target to emulate but, I'll try.”

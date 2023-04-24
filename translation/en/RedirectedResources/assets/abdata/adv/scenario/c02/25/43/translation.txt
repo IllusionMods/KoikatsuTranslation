@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「もう、見つかったのがわたくしでなければ大変なことになりましたわよ？　おーっほっほっほ……感謝なさい」=
+「もう、見つかったのがわたくしでなければ大変なことになりましたわよ？　おーっほっほっほ……感謝なさい」=“Jeez, if it wasn't me you came upon, this would have turned out quite differently, you know? Ohohohoh... be thankful.”

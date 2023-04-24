@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「少し、人恋しい気分ですわね」=
-//「……横に俺がいるんですが」=
-//「横にいるだけでは、満たされませんの。さあ、ハグなさい……よくって？」=
-//「う、うん……じゃ、失礼して……ギュッ」=
-//「おーっほっほっほ、よくってよ。その調子ですわ！　おーっほっほっほ」=
-//（うう、耳元で高笑いされると、鼓膜がやばい……）=
+「少し、人恋しい気分ですわね」=“I hunger for a bit of love.”
+「……横に俺がいるんですが」=“...I mean, I'm right here.”
+「横にいるだけでは、満たされませんの。さあ、ハグなさい……よくって？」=“Just having you next to me, is not satisfying enough. Come now, hug me... alright?”
+「う、うん……じゃ、失礼して……ギュッ」=“O-Okay... then, excuse me... *squeeze*”
+「おーっほっほっほ、よくってよ。その調子ですわ！　おーっほっほっほ」=“Ohohohoh, very good. Keep that up! Ohohohoh--”
+（うう、耳元で高笑いされると、鼓膜がやばい……）=(Uuu, when she laughs like that right next to my ears...)

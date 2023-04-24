@@ -1,12 +1,12 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「さあ、どのようにしてわたくしを楽しませてくれるのかしら。期待させてもらいますわ！」=
-//「ははは、精一杯努力するよ。でも、肩肘はらず気軽に楽しめるのが理想かな」=
-//「おーっほっほっほ！　わたくしは、常にリラックスしておりますわ！」=
-//「ははは……ま、まあ、俺なりに頑張るから、あんまりプレッシャー掛けないでね──」=
-//「ふむ、悪くありませんわね。あなた、エスコートが上手ですわ」=
-//「そう、よかった……」=
-//「ただ、改善すべき点がいくつかありますわ。次は、今回よりも楽しませていただけますわね？」=
-//「う、うん……心しておくよ。とりあえず、今日はまだ時間あるし、もうちょっと付き合ってね──」=
-//「ふう、くたびれましたわ。でも時間の無駄ではありませんでした。次、期待してますわね……おーっほっほっほ」=
+「さあ、どのようにしてわたくしを楽しませてくれるのかしら。期待させてもらいますわ！」=“Now then, how shall you entertain me today? I expecting quite the showing!”
+「ははは、精一杯努力するよ。でも、肩肘はらず気軽に楽しめるのが理想かな」=“Hahahah, I'll do my very best. But, I'd much rather we just simply enjoyed ourselves without getting to stiff about it.”
+「おーっほっほっほ！　わたくしは、常にリラックスしておりますわ！」=“Ohohohoh! There is never a time when I am not relaxed!”
+「ははは……ま、まあ、俺なりに頑張るから、あんまりプレッシャー掛けないでね──」=“Hahahah... w-well, I'll do my best in my own way so, don't lay on the pressure too thick, alright?”
+「ふむ、悪くありませんわね。あなた、エスコートが上手ですわ」=“Fumuh, not bad. You're quite good at escorting ladies.”
+「そう、よかった……」=“I see, thank god...”
+「ただ、改善すべき点がいくつかありますわ。次は、今回よりも楽しませていただけますわね？」=“However, there's quite a few places where you must better yourself. Make sure to show me an even better time next time, alright?”
+「う、うん……心しておくよ。とりあえず、今日はまだ時間あるし、もうちょっと付き合ってね──」=“O-Okay... I'll try. For the time being though, we still have some time so, let me take you around some more--”
+「ふう、くたびれましたわ。でも時間の無駄ではありませんでした。次、期待してますわね……おーっほっほっほ」=“Fuuh, I'm worn out. But that was not a waste of time. I shall be waiting, for the next one... ohohohoh--”

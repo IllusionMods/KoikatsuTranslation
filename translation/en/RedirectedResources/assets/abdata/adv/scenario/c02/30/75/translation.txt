@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「ふう、なかなかやりますわね！　このわたくしをここまで追い詰めるとは……」=
-//（そんなにハイレベルなことしてないんだけどなぁ……）=
-//「ははは、小さい頃、ちょっとだけ習ってたんだ。そのせいかな？」=
-//「おほほほ、よろしくてよ。あなたをライバル認定いたしますわ！　さあ、尋常に勝負いたしますわよ！」=
-//（……めちゃくちゃ熱くなってるなぁ。まあ、楽しんでくれてるみたいだけど）=
-//「よーし、望むところだ！」=
+「ふう、なかなかやりますわね！　このわたくしをここまで追い詰めるとは……」=“Fuuh, you've got quite the moves! To think you'd push me so far...”
+（そんなにハイレベルなことしてないんだけどなぁ……）=(I'm not using anything that high level though...)
+「ははは、小さい頃、ちょっとだけ習ってたんだ。そのせいかな？」=“Hahaha, I actually got some lessons in this, as a kid. Wonder if it's cuz of that?”
+「おほほほ、よろしくてよ。あなたをライバル認定いたしますわ！　さあ、尋常に勝負いたしますわよ！」=“Ohohohoh, good. I recognize you as my rival! Now then, let us have a fair and square match!”
+（……めちゃくちゃ熱くなってるなぁ。まあ、楽しんでくれてるみたいだけど）=(...She's getting really passionate about this. Well, as long as she's enjoying it.)
+「よーし、望むところだ！」=“Alright, bring it on!”

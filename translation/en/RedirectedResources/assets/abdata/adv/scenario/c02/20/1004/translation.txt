@@ -2,16 +2,16 @@
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
 モブ=Mob
-//「お疲れ様でした。ふふっ、素敵な式でしたよ」=
-//「本番の結婚式も、是非、私どもの式場で挙げてくださいね！」=
-//「えっと、前向きに考えさせてもらいます」=
-//「お願いします！　今日はお引き受けいただいて、ありがとうございました」=
-//「ふぅ、[H名]さん……なんだか、変なことになっちゃったね」=
-//「おほほほほ、良い予行演習になりましたわ！」=
-//「盛大でゴージャスな式もいいのですが、こじんまりとした静粛な式というのも選択肢に入れておくべきかもしれませんわね！」=
-//「[H名]さん、今日、真剣だったよね。やっぱ、それだけ思い入れがあるってことなんだよね=
-//「もちろんですわ！　今は式をあげるための準備期間のようなものです。本番では、必ず、誰しもが羨む素晴らしい式を挙げてみせますわ！=
-//「そ、そうなんだね……じゃ、俺も真剣に取り組まなきゃ……」=
-//「さて、と……デートの最中だったけど、流石に今から仕切り直しが無理だな」=
-//「いいえ、本当に、素晴らしい、実りあるデートでしたわ！　おーっほっほっほ！」=
-//「はは、そう言ってくれて嬉しいよ」=
+「お疲れ様でした。ふふっ、素敵な式でしたよ」=“Good work today. Fufu~ It was a lovely ceremony.”
+「本番の結婚式も、是非、私どもの式場で挙げてくださいね！」=“For your actual wedding as well, please, do call upon us!”
+「えっと、前向きに考えさせてもらいます」=“Uhm, sure, if we get to that point.”
+「お願いします！　今日はお引き受けいただいて、ありがとうございました」=“Thank you! And for helping us out so much today as well, thank you very much!”
+「ふぅ、[H名]さん……なんだか、変なことになっちゃったね」=“Fuh, [H名]-san... that kinda took a weird turn, didn't it?”
+「おほほほほ、良い予行演習になりましたわ！」=“Ohohohohoh, it was a good dry run of things!”
+「盛大でゴージャスな式もいいのですが、こじんまりとした静粛な式というのも選択肢に入れておくべきかもしれませんわね！」=“A gorgeous and magnificent ceremony would be nice as well but, there might be merit to having such a cozy and quiet one as well!”
+「[H名]さん、今日、真剣だったよね。やっぱ、それだけ思い入れがあるってことなんだよね=You were real serious today, weren't you, [H名]-san? I guess that's just how much the idea appeals to you, huh?
+「もちろんですわ！　今は式をあげるための準備期間のようなものです。本番では、必ず、誰しもが羨む素晴らしい式を挙げてみせますわ！=Of course! We have entered the preparatory phase for our eventual wedding at this point. For the real one, we shall have one so splendid no onlooker would be able to help their envy!
+「そ、そうなんだね……じゃ、俺も真剣に取り組まなきゃ……」=“R-Right... guess I'll have to take it seriously too then...”
+「さて、と……デートの最中だったけど、流石に今から仕切り直しが無理だな」=“Now, then... we were in the middle of our date there but, I guess there's no restarting it now.”
+「いいえ、本当に、素晴らしい、実りあるデートでしたわ！　おーっほっほっほ！」=“No, it was a truly wonderful, fruitful date! Ohohohoh!”
+「はは、そう言ってくれて嬉しいよ」=“Haha, well I'm glad then.”

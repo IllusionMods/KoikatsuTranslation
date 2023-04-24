@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「なっ……いきなりなんですの！？　いったいいつから……っ」=
+「なっ……いきなりなんですの！？　いったいいつから……っ」=“Wha--... just what in the world?! Since when have you...--”
