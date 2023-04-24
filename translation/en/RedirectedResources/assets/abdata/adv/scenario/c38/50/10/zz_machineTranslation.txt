@@ -1,7 +1,0 @@
-「そうですね。貴方とは色々お話をさせて頂いて、とても好感の持てる方だと分かりましたので……」=“Yes, it is. I'm glad to get to know a girl like you! - Well, I've talked to you and found you to be a very likable person.”
-「じゃあ……ＯＫってことで？」=“So you're okay with ...?”
-「はい、よろしくお願いします。誘って頂けるなんて思いもしなかったので、本当に嬉しいです」=“Yes, thank you very much. I never thought I'd be invited, so I'm really happy.”
-「おお、なら誘って良かった。これから[H名]と本格的にコイカツできると思うと、楽しみだよ」=“Oh, then I'm glad I invited you. I'm looking forward to having a full-fledged coikatsu with [H名].”
-「本格的なコイカツ……差支えなければ、それはどんなものか聞かせて頂いてもよろしいですか？」=“If you don't mind, may I ask what it's like to have a real coitus ...?”
-「うん、いいよ。でも、そんな大層なものじゃなくて、少しスキンシップとかが増えるくらいかな？」=“Yes, you may. But it's not that big of a deal, just a little more skinship and stuff.”
-「す、スキンシップ……それは確かに本格的ですね……んっ、ご期待に沿えるよう、全力で取り組みます」=“I'll do my best to live up to your expectations.”

@@ -1,7 +1,0 @@
-（今日は[H名]とデート。楽しみだなぁ……どこへ行こうかな？　おっ、[H名]だ！）=(I have a date with [H名] today. I'm looking forward to it... Where shall we go?　Whoa, there's [H名]!)
-「おーい、[H名]！　こっちこっち！」=“Hey, [H名]!”
-「あ……お早うございます。ちゃんと落ち合えて、安心いたしました。本日は宜しくお願いいたします」=“Good morning, [Hあだ名]. I'm so glad you could meet up with us. I hope you have a good day.”
-「うん、こちらこそよろしくね！」=“Yeah, it's nice to meet you too!”
-「うふふ。本日は良い所に連れていってくださるとのことで、とても楽しみにして参りました。早速、向かわれるのでしょうか」=“Mmmm. I've been looking forward to it so much because you said you were taking me to a nice place today. Will you be heading there right away?”
-「うん、行こうか。俺も楽しみだよ」=“Yeah, let's go. I'm looking forward to it too.”
-（さあ、今日はどこに[H名]を連れて行こうかな）=(Now, where should I take [H名] today?)

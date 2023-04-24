@@ -1,6 +1,0 @@
-「ところで、何をすればよろしいの？」=“Where are you taking me? What am I supposed to do?”
-「なんでもいいんだよ。恋人がするようなことをやる部活なんだから」=“Whatever. It's just a club where we do what lovers do.”
-「おーほっほっほ！　では、あなたはわたくしをレディとして扱いなさい。それが紳士の証ですからね」=“Oh-ho-ho!　Then you will treat me like a lady. That's the sign of a gentleman.”
-「し、紳士……それがキミの恋人スタイルなんだね」=“Well, gentleman ..., that's your style of lover.”
-「そのとおりですわ！　コイカツを通じて、わたくしがあなたを立派な紳士に仕立て上げてみせます！　おーっほっほっほ」=“You're right!　Through Koikatsu, I will make you into a fine gentleman!　Oh-ho-ho!”
-（これは頑張らなきゃいけないっぽいな……）=(This looks like I'm gonna have to work hard ...)

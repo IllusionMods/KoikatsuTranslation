@@ -1,3 +1,0 @@
-「かしこまりました。どちらに向かわれるのですか？」=“Yes, sir. Where are you headed?”
-「まだナイショ」=“That's still a secret.”
-「何やら嫌な予感しかいたしませんが、貴方を信じて付いて行きます」=“I have a bad feeling about this, but I trust you and I'll follow you.”

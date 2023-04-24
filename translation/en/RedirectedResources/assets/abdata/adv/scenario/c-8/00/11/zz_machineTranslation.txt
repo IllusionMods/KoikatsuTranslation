@@ -7,12 +7,12 @@
 「おお、ちょうど良かった。俺も今から昼飯にするところだったんだ。どこで食べようか？」=“Oh, just as well. Oh, just in time. I was just about to have lunch too. Where shall we eat?”
 「えっと……では、屋上で」=“Um... ..., on the rooftop...”
 「いいね。天気も良いし、気持ちよさそう」=“It's nice. It's a nice day. You look nice.”
-「はい！」=“Yes!”
+「はい！」=“Okay!”
 このみの提案に乗って、二人で購買へと行く。=I take Konomi's suggestion and we go to the store together.
 そしていつかこのみと一緒に食べたサンドイッチを購入して、屋上へと上った。=And one day I bought a sandwich that I ate with Konomi and went up to the rooftop.
 「本当に晴れてるなぁ」=“It's really sunny.”
 「気持ちいいですね」=“It feels good.”
-「うん」=“Yeah.”
+「うん」=“Sure.”
 屋上の適当な場所へ腰を下ろし、二人で昼食。=We sat down at a suitable place on the rooftop and had lunch together.
 屋上は意外と穴場で、昼休みといえど、それほど人は多くない。=The rooftop is a surprisingly secluded spot, and even though it is lunchtime, there are not that many people there.
 「今日はこのみもサンドイッチなんだ？」=“Is Konomi having a sandwich today?”

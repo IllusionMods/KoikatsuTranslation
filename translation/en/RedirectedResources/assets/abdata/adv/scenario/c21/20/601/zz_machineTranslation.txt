@@ -1,6 +1,0 @@
-「わぁ……ここが噂のラブホテル……」=“Wow... this is the love hotel of rumors...”
-「噂って？」=“Rumors?”
-「あ、えっと……友達からちょっと話を聞いたりしてて……」=“I've heard a little bit about you from a friend of mine...”
-「そうだったんだ。もしかして、けっこう前から来たかった？」=“Oh, that's right. Have you been wanting to come here for a long time?”
-「えっ、いや、えーと……えへへ、き、来たかった♡　今日みたいに、キミとラブラブなデートした後に、こそこそっと入ってみたかったの♡」=“No, no, I wanted to come over to ... and sneak in after a lovey-dovey date with you, like today.”
-「そ、そんなこと言われたらもう我慢できないよ、[H名]……！」=“I can't take it anymore, [H名]...!”

@@ -1,7 +1,0 @@
-「[H名]っ……その、もういい？」=“[H名]... can I go now?”
-「えっ、あっ、は、はいっ！　ですがその……先にお風呂に……」=“Yes, yes, yes!　But I'm going to ... take a bath first.”
-「そういうの後でいいから。俺もう、限界なんだ……！」=“You can do that later. I'm at my wits' end...!”
-「しょ、承知いたしました！　で、では……あまりその、匂いなどは嗅がないで頂けると……」=“I'm at my wits end.　So... if you don't smell me too much ...”
-「あー、それは無理かも……ごめんね？」=“Oh, that's not possible... Sorry?”
-「い、いえ、こちら側の問題というだけですので……お気になさらず」=“No, no, it's just a problem on our end... Don't worry about it.”
-「ほんとごめん……でも、ありがと」=“I'm really sorry... But thank you.”

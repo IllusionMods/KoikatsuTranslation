@@ -1,4 +1,0 @@
-「あなた、本当においしそうにご飯食べるわね」=“You really look like you enjoy your food.”
-「そう？　逆に[H姓]さんは今食べてるそれ、おいしくないの？」=“Really?　On the contrary, [H姓], that thing you're eating right now, doesn't it taste good?”
-「えっ？　い、いや、……普通においしいけれど」=“What?　No, no, it's ... just delicious, but...”
-「よかった。[H姓]さんと一緒に食べる時間、楽しみたかったから」=“I wanted to spend some quality time with you, [H姓].”

@@ -1,4 +1,0 @@
-「立ってるのつらくない？　疲れたよね」=“It's hard to stand up, isn't it?　You must be exhausted.”
-「ええ、立つことは慣れておりますので」=“Yes, I'm used to standing up.”
-「あはは、俺より[H名]の方が足腰しっかりしてそうだよね」=“[H名] seems to have stronger legs and feet than me.”
-「ふふ、逞しい身体付きをされている殿方には敵いません」=“I can't compete with a man with such a strong body.”

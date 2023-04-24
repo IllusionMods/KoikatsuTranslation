@@ -1,4 +1,0 @@
-「……構いませんが、どこでされるのですか？」=“...I don't mind, but where are you going to do it?”
-「い、いいの？　付き合ってないから駄目って言われるかと思った……」=“No, no, no, no!　I thought you'd say no because we're not dating...”
-「私のことをよくご存じなんですね。でも、私だって貴方のことを深く理解しているつもりです」=“You know me very well, don't you? I'm sure you know a lot about me, but I'm sure I know a lot about you too.”
-「だから、構わないと応えました……それが私の精一杯の、貴方への気持ちです」=“So I said yes... and that's the best I can do for you.”

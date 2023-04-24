@@ -1,9 +1,0 @@
-「今日はその……よ、よろしくお願いします！　初めてのデート、た、楽しみましょう！」=“I'll see you today at ...!　Let's have fun on our first date!”
-「うん、こっちこそよろしく……てか、俺達『よろしく』って言い過ぎだね」=“Yeah, it's nice to meet you too... but we say nice to meet you too much.”
-「初めてのことですので、仕方ないことかと。とにかくデート開始……で、よろしいですか？」=“It's our first time, so I guess it can't be helped. Anyway, let's start the date at ... Is that okay?”
-「うん、オッケー！　それじゃ、まずはどうしようかな……」=“Yeah, okay!　Well, what should we do first? ...”
-「んっ、デート、楽しめていますか？　私は、上手くできているでしょうか？」=“Hmm, are you enjoying the date?　I hope I'm doing well.”
-「俺は楽しいよ。やっと緊張が少し抜けてきたかな。[H名]はどうなの？　楽しめてる？」=“I'm having fun. I think I'm finally losing some of my nerves. How about you, [H名]?　Are you having fun?”
-「わ、私ですか？　楽しめていると、思います。この、緊張した感じも含めて、なんだか幸せで……」=“Oh, me?　I think I'm enjoying it. I'm kind of happy, even with this tense feeling...”
-「それわかる。嫌なドキドキじゃないっていうか……これぞデートって感じ」=“I know what you mean. It's not an unpleasant nervousness... It's like a date.”
-「本日は、素敵なお時間をありがとうございました。気を付けて、お帰りくださいね」=“Thank you for a wonderful time today. Please have a safe trip home.”

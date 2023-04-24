@@ -1,5 +1,0 @@
-「へえ、色々あるんだね」=“Hoh, so many different spots...”
-「あ、あちらのお店なんていかがでしょう？　少し興味があります」=“Oh, how about that store over there?　I'm a little curious.”
-「うん、いいよ」=“Yeah, it's fine.”
-「素敵なお店でしたね。またいつか、ご一緒できると嬉しいです」=“It's a nice place. I hope we can meet again sometime.”
-（よかった、喜んでもらえたみたいだ）=(I'm glad, looks like she had a good time)

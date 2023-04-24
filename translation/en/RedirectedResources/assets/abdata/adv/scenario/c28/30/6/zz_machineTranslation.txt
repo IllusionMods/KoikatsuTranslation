@@ -1,3 +1,0 @@
-「ん？　わしはよいが、どこに行くのじゃ？」=“Hmm?　I'm all right, but where are you going?”
-「それは着いてからのお楽しみだよ」=“That's something you'll have to wait for when you get there.”
-「お主にわしを楽しませることができるか見ものじゃな」=“Let's see if you can entertain me.”

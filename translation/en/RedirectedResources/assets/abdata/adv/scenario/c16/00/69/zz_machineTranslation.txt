@@ -1,6 +1,0 @@
-「…………うーん」=“... Hmmm”
-「どうしたの？　何かわからない事？」=“What's wrong?　What do you mean, you don't know how to use it?”
-「うん……ここが何回読んでもわからなくて……」=“Yeah... I couldn't figure this part out no matter how many times I read it...”
-「あぁそれね。確かにわかりにくいかも。うーん、これは書き方が悪いのよ。教えてあげるわね」=“I'm not sure what to say. I'm sure it's not easy to understand. I'll tell you what. I'll show you.”
-「あっ、う、うん！　ありがとう……」=“Oh, uh-huh!　Thank you ...”
-（うわっ……顔が近くて……ドキドキする……）=(Wow... his face is so close to mine, I feel ... nervous...)

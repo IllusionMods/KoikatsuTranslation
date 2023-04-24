@@ -1,6 +1,0 @@
-「そろそろ閉園時間だね。帰ろうか」=“It's almost closing time. Let's go home.”
-「はい、真っ暗になるまで遊んでいただき、感謝いたします」=“Yes, thank you for playing with me until it was dark.”
-「こちらこそ、楽しい時間を共有してくれて嬉しいよ」=“I'm glad you had a good time with us.”
-「本当なら、ずっとここで遊んでいたいのですが……」=“If it's true, I'd like to stay here forever...”
-「あはは、わかる。でも、終わりがあるからまた来たくなるんだよね」=“I know. But it's the end that makes me want to come back.”
-「ふふ、そうですね。いずれ、また二人で参りましょう」=“I'm sure you're right. I'm sure you're right.”

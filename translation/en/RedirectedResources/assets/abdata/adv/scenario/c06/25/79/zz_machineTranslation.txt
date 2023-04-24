@@ -1,5 +1,0 @@
-「お待たせいたしました」=“Thank you for waiting.”
-「これ、本当に今作ってきたの？　すごいな、弁当でも学食でもなくて、学園で自炊……？」=“Did you really just make this?　Wow, you didn't get a bento or a cafeteria lunch, you cooked it yourself at school...?”
-「これも花嫁修業の一環です。今日は貴方が召し上がってくださるので、腕によりをかけました」=“I'm not sure if I'm going to be able to do it. I'm not sure how much I'm going to be able to do.”
-「いただきます！　……うわあ、美味しい！」=“Bon appétit!　... Wow, it's delicious!”
-（きっと今すぐ嫁いでも大丈夫だろうなぁ）=(I'm sure she'd make a great wife right now.)

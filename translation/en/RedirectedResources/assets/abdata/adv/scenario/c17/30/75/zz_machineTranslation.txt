@@ -1,4 +1,0 @@
-「この辺を狙って……っと」=“Aiming for this area...”
-「なかなかやるわね……さすが男子といったところかしら」=“You're pretty good... I guess that's what boys are for.”
-「次は[H姓]さんがやってみたら？　はい、これ」=“Why don't you try it next time, [H姓]?　Okay, here we go.”
-「そ、そうね。私も負けてられないわ」=“Oh, yeah. I can't lose.”

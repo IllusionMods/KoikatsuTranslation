@@ -1,3 +1,0 @@
-「ごきげんよう、[Pあだ名]」=“Have a good day, [Pあだ名].”
-「あ、ごきげんよう。[Hあだ名]」=“Hi, [Hあだ名].”
-「おほほほ、たまにはいいですわね、こうして愛称で呼び合うというのも」=“Oh-ho-ho, it's nice sometimes to call each other by your nicknames.”

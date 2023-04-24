@@ -1,3 +1,0 @@
-「ここの日替わりランチ、美味しいのよね。お気に入りなの」=“The daily lunch here is delicious. It's my favorite.”
-「そうなんだ。じゃあ今日は俺もそれにしようかな」=“That's very [H名]. That's what I'm going to do today.”
-「日替わりだから、一週間来ないと全部制覇できないわよ。ふふっ、また来る理由が出来たわね」=“It changes every day, so you'll have to come back for a week to see it all. Hmm. Well, now I have a reason to come back.”

@@ -1,5 +1,0 @@
-「お、いたいた。おはよう、[H名]」=“Oh, there you are. Good morning, [H名].”
-「おはようございます。ほ、本日はお日柄もよろしく……」=“Good morning. Good morning, [H名].”
-「はは、最初からそんなに硬くなってちゃ、疲れちゃうよ？」=“Ha, you'll get tired if you start out so hard.”
-「そ、そうですね……以後、気を付けます……ふふっ」=“Yes, you're right... I'll be careful ... later.”
-「うーん、まだちょっと硬いけど……ま、とにかく行こっか！」=“Hmm, I'm still a little hard... Well, let's just go!”

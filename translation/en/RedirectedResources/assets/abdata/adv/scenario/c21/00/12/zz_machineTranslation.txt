@@ -1,4 +1,0 @@
-「……うん」=“...Okay.”
-「本当にいいの？」=“You really sure?”
-「キミのこと、大好きだから……大切な人だから、いいよ」=“I love you so much... I love you so much.”
-「私の初めて……もらってください」=“Please let me have my first ...”

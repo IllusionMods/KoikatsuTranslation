@@ -1,6 +1,0 @@
-「祖母から禁止されていたので、街に寄り道をするなんて初めてです」=“My grandmother forbade it. I've never been one to make a detour into the city.”
-「え……じゃあ、お祖母ちゃんにはナイショなの？」=“Eh... so you don't tell your grandmother?”
-「いえ、ちゃんと相談いたしました。信頼できる殿方と一緒なら良いとのことです」=“No, we've discussed this. No, no, no. I've discussed it with my Lord, and he says it's fine, as long as it's with a man I can trust.”
-「い、いいのかなぁ」=“I don't know if it's okay.”
-「うふふ、貴方なら良いんです♪　ところで私、くれえぷ屋に行きたいのですが、どこにあるのでしょう」=“I'm sure you'll be fine. By the way, I'd like to go to the shop. Where is it?”
-「あ、駅前の通りにあるよ。案内するね」=“Oh, it's just down the street from the station. I'll show you.”

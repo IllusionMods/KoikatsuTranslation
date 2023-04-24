@@ -1,3 +1,0 @@
-「おはようございますっ♪　教室まで、ご一緒させて頂いてもよろしいですか？」=“Good morning. May I join you to the classroom?”
-「おはよっ。うん、もちろん！」=“Good morning. Yes, of course!”
-「ふふ、ありがとうございます。朝から貴方と一緒なんて、良い一日になりそうです」=“Thank you very much. It's going to be a good day with you in the morning.”

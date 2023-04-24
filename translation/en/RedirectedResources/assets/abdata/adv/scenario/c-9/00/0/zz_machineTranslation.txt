@@ -55,7 +55,7 @@
 「でも、苦しい場面こそ笑顔で。そうよね？　桜ちゃん」=“But smile through the tough times. Right?　Sakura.”
 「桜ちゃんじゃないけど、そういうこと」=“I know it's not you, but...”
 「次の全体練習には私も加わるから、最後まで頑張ってみましょ？」=“I'll join you for the next round of practice, so let's try to finish it, shall we?”
-「はい！」=“Yes!”
+「はい！」=“Okay!”
 「笑顔を絶やさず、やってみます！！」=“Keep smiling, I'll try!”
 その後も続く練習の間、俺は彼女たちから目が離せなかった。=During the rest of the practice session, I couldn't take my eyes off the girls.
 休憩時間になったのだろうか。=I wonder if it is time for a break.
@@ -68,7 +68,7 @@
 「えっと、そういうつもりじゃなかったんだけど、つい見入っちゃって」=“Well, I didn't mean it like that, but I just couldn't help myself.”
 「君……じゃない、あなたは……」=“You're not ..., you're ...”
 「別にかしこまらなくて良いわよ。あんたと同じ２年生だから」=“You don't have to be so formal. I'm a sophomore like you.”
-「そうなの？」=“Is that so?”
+「そうなの？」=“Really? First time?”
 「ええ。私は結城桜。このチアリーディング部の部長をやってるわ」=“Yeah. I'm Sakura Yuki. I'm the head of this cheerleading squad.”
 「あっ、みんなってチアリーディング部だったんだ」=“Oh, you guys were on the cheerleading squad?”
 「え？　知らずに見てたの……？」=“What?　I didn't know you were watching ...?”
@@ -81,7 +81,7 @@
 「呼び捨てで良いってば。変な所で堅いのね、あんた」=“I don't mind if you call me that. You're a little uptight in a weird way, aren't you?”
 「ご、ごめん。でも呼び捨てか。んーっと……桜？」=“I'm sorry. I'm sorry, but you're calling me that. I'm sorry, I'm sorry... cherry blossoms?”
 「――っ！？」=“I'm sorry, I didn't mean to wake you.”
-「……」=“...”
+「……」=...
 「こほん。な、なんでもないわ」=“Oh, my gosh. Nah, it's nothing.”
 いきなり下の名前はまずかったかな。=I wonder if the name below was bad.
 「じゃあ……結城？」=“Then ... Yuki?”

@@ -1,7 +1,0 @@
-「うわ、もう夕暮れか……随分話し込んじゃったね」=“Wow, it's already dusk... We've been talking a lot.”
-「そうですね。貴方といると、時間が経つのが早いです」=“You're right. Time flies when you're with me.”
-「それ、俺も……でも流石に、これ以上座ってたら迷惑かな？」=“Well, I'm ... wondering if I'd be bothered if I sat there any longer.”
-「ふふ、そこは否定できませんね。それでは、そろそろ……」=“Well, I can't deny that. Well then, it's time to go to ...”
-「うん。じゃあ会計してくるから、[H名]は出る準備しといて」=“I'll go pay the bill. I'll go pay the bill, and you get ready to leave.”
-「あっ、お待ちください。いつもご厚意に甘えてばかりなので、本日は私がっ……」=“Oh, please wait. I'm always taking advantage of your kindness, so today I'll be ...”
-「いいって。ほら俺達、パートナーだし？」=“No problem. We're partners, remember?”

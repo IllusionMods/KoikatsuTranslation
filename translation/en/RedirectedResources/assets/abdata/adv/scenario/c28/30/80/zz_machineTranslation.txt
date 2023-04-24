@@ -1,4 +1,0 @@
-「お主は苦手なものはあるのか？」=“I'm sure you'll be able to find something to suit your taste.”
-「いやぁ、特にこれってものはないかなー」=“Well, I don't have anything special.”
-「だったらわしが苦手なもの食べてくれぬか？　あとでこっそり」=“I'm not sure what to do with the money.　I'll sneak it in later.”
-「あはは。いいよ。俺の皿に置いといて」=“I'll do my best. I'm not sure what you mean by that. You can leave it on my plate.”

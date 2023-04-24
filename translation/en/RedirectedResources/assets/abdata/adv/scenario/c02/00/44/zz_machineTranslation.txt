@@ -1,5 +1,0 @@
-「へえ、色々あるんだね」=“Hoh, so many different spots...”
-「あらあら、思ったよりもいいセンスですわね。あちらのお店、見させていただいても構わなくて？」=“Oh, you have better taste than I thought. May I take a look at your shop?”
-「うん、いいよ」=“Yeah, it's fine.”
-「ふふふ……買いすぎてしまいましたわ。でも荷物持ちがいてくれて助かりましたわ！　おーっほっほっほ！！」=“I've bought too much ... But thank goodness we have baggage handlers!　Oh-ho-ho!”
-（よかった、喜んでもらえたみたいだ）=(I'm glad, looks like she had a good time)
