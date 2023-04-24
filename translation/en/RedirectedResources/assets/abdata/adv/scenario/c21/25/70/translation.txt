@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「……じゃあ、答え合わせしてみよっか」=
-//「うん！　あっ、昨日ママに教えてもらったところ、正解してる！」=
-//「お母さんに勉強見てもらってるの？」=
-//「たま～にね。私と違ってママは優秀だからね！　エッヘン！」=
-//「そこは自慢するところじゃないような……うん？　これ、間違ってるよ？」=
-//「え”……？」=
+「……じゃあ、答え合わせしてみよっか」=“...Alright, time for us to match answers then.”
+「うん！　あっ、昨日ママに教えてもらったところ、正解してる！」=“Yep! Ah--, I got the part that my mommy taught me yesterday right!”
+「お母さんに勉強見てもらってるの？」=“You have your mom look at your homework?”
+「たま～にね。私と違ってママは優秀だからね！　エッヘン！」=“Sometimes~. Unlike me, my mommy's very capable, you know! Ahehm~!”
+「そこは自慢するところじゃないような……うん？　これ、間違ってるよ？」=“I'm not sure that's something to be that proud of... hm? You got this wrong, you know?”
+「え”……？」=“Egh...?”

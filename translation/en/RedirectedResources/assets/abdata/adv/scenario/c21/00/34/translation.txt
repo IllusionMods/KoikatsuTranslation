@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「わぁ、ありがとう！　大事にするね！」=
+「わぁ、ありがとう！　大事にするね！」=“Wah, thanks! I'll treasure it!”

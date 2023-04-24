@@ -1,19 +1,19 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「ねね、さっき頼んだメニュー、キミの好きな食べ物？」=
-//「ん？　そうだけど」=
-//「じゃあ、今度私が作ってあげよっか♡」=
-//「えっ、いいの！？　そっか、そういえば[H名]って料理が得意だったね」=
-//「専業主婦のママにみっちり仕込まれたからね！　彼氏くんが出来たときにごちそうを振舞って胃袋を掴めって！」=
-//「あははっ、なるほどね。じゃあ、今度うちに来て作ってもらおうかな」=
-//「えへへ、彼氏くんの家で彼女ご飯だね♡　ママが作ってくれたエプロン持って遊びにいくよ」=
-//「そのとき、ついでに裸エプロン姿なんかも披露してもらっちゃって……」=
-//「こらっ、ちゃんと私の料理を楽しみにしててよ。でも、食べたあとに雰囲気がよくなっちゃったら、まあ、考えなくもないけど♪」=
-//「そ、そうなんだ。えっと……じゃあ、今度、私が作ってあげよっか？」=
-//「え”……それは嬉しいけど……[H名]ってたしか、料理だめだったよね？」=
-//「う、うん。でも、キミと付き合い始めた時から、『料理下手なんて絶対に許さない』ってママが言うの。だから練習してて……」=
-//「その毒見……じゃなかった、味見役を俺にってことだね？　い、いいよ」=
-//「そんな何かを覚悟した顔にならないでよ～。ちゃんと頑張って、克服するから！」=
-//「もし、もしもの話だけど……わ、私が将来、キミの奥さんになったとき、料理のおいしい奥さんの方がいいでしょ？　苦手を克服した奥さんの方が絶対いいよ！」=
-//「うん、それもそうだね。わかった、じゃあ、[H名]との将来のために……まずは頼んだ料理を食べて研究しよう！」=
+「ねね、さっき頼んだメニュー、キミの好きな食べ物？」=“Hey, the stuff you ordered just then, do you like it?”
+「ん？　そうだけど」=“Hm? Yeah, I guess so.”
+「じゃあ、今度私が作ってあげよっか♡」=“I'll make it for you sometime then♡”
+「えっ、いいの！？　そっか、そういえば[H名]って料理が得意だったね」=“Eh--, you sure?! I see, you are pretty good at cooking, aren't you?”
+「専業主婦のママにみっちり仕込まれたからね！　彼氏くんが出来たときにごちそうを振舞って胃袋を掴めって！」=“My housewife mommy taught me all her tricks, you see! The main one being to make lots of meals for any guy I date and grab a hold of him by his belly!”
+「あははっ、なるほどね。じゃあ、今度うちに来て作ってもらおうかな」=“Ahahah--, I see. Guess I'll have you come over sometime and use my kitchen then.”
+「えへへ、彼氏くんの家で彼女ご飯だね♡　ママが作ってくれたエプロン持って遊びにいくよ」=“Eheheh, the girlfriend cooking at her boyfriend's place♡ I'll grab the apron my mom made me and come over.”
+「そのとき、ついでに裸エプロン姿なんかも披露してもらっちゃって……」=“At that time, you could also show me how you look in a nude apron...”
+「こらっ、ちゃんと私の料理を楽しみにしててよ。でも、食べたあとに雰囲気がよくなっちゃったら、まあ、考えなくもないけど♪」=“Hey--, dream of the food I'll make, not me in lewd situations~. But, if the mood after dinner is good, well, I wouldn't mind giving it another thought, you know♪”
+「そ、そうなんだ。えっと……じゃあ、今度、私が作ってあげよっか？」=“I-I see. Erhm... then, should I make it for you next time?”
+「え”……それは嬉しいけど……[H名]ってたしか、料理だめだったよね？」=“Eh... I'd love that but... you're not the best cook, if I'm remembering right, are you?”
+「う、うん。でも、キミと付き合い始めた時から、『料理下手なんて絶対に許さない』ってママが言うの。だから練習してて……」=“Y-Yep. But, ever since we started dating, my mom's always been me to the kitchen, all "Like hell a daughter of mine's gonna be a bad cook". So I've been getting some practice in...”
+「その毒見……じゃなかった、味見役を俺にってことだね？　い、いいよ」=“So you're gonna have me be your poi--... err, taste tester, huh? S-Sure.”
+「そんな何かを覚悟した顔にならないでよ～。ちゃんと頑張って、克服するから！」=“Don't say that with a severe expression~. I'm gonna do my best, and conquer this, you know!”
+「もし、もしもの話だけど……わ、私が将来、キミの奥さんになったとき、料理のおいしい奥さんの方がいいでしょ？　苦手を克服した奥さんの方が絶対いいよ！」=“If, and this is a big if... I-If I become, your wife in the future, wouldn't you prefer a wife who doesn't make horrible food yourself? You can't tell me that you wouldn't!”
+「うん、それもそうだね。わかった、じゃあ、[H名]との将来のために……まずは頼んだ料理を食べて研究しよう！」=“Yep, I guess there's that too. Got it, then, for our future together... let's savour this food that we've ordered and do some field research!”

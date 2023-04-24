@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「プレゼント？　何だろう、楽しみ～！」=
+「プレゼント？　何だろう、楽しみ～！」=“A present? I wonder what it is, so exciting~!”

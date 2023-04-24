@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「友達をコイカツ部に誘いたくなくなった？」=
-//「うん……最近キミとお話するのが楽しすぎて、これ以上他の子と喋ってほしくないなーって……私、いやな子かな？」=
-//「ぜ、全然いやな子じゃないよ！　じゃあ今日は、どうしてそういう気持ちになっちゃうのか考えてみようよ」=
-//「そっか、私、嫉妬しちゃってたんだね。これが嫉妬かぁ、もしかしたら初めて感じたかも…わぁ、嫉妬だコレ…」=
-//「だから、無理して友達を誘わなくていいと思うよ。それで辛くなったら本末転倒だから」=
+「友達をコイカツ部に誘いたくなくなった？」=“Don't want to invite your friends into the club anymore?”
+「うん……最近キミとお話するのが楽しすぎて、これ以上他の子と喋ってほしくないなーって……私、いやな子かな？」=“Yeah... chatting with you's gotten so much fun lately, that I don't wanna let other girls chat you up, and stuff... am I a bad girl?”
+「ぜ、全然いやな子じゃないよ！　じゃあ今日は、どうしてそういう気持ちになっちゃうのか考えてみようよ」=“N-Not at all! For today then, let's go over why you feel the way that you do.”
+「そっか、私、嫉妬しちゃってたんだね。これが嫉妬かぁ、もしかしたら初めて感じたかも…わぁ、嫉妬だコレ…」=“I see, I was jealous this whole time, huh? So this is jealousy, huh~, I think this is the first time I've ever felt this... wah, it really is jealousy...”
+「だから、無理して友達を誘わなくていいと思うよ。それで辛くなったら本末転倒だから」=“That's why, no need to force yourself to invite your friends. If it just makes things more painful for you, that'd be putting the cart before the horse.”

@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「えへへ、おじゃましまーす…あれ、案外片付いてるね」=
-//「まあ、恋人が来るんだから、掃除ぐらいするよ」=
-//「ふぅん、私のために掃除してくれたんだ…それとも、その、Hするからかな？」=
-//「うっ…下心がバレバレすぎて恥ずかしい…その…ダメかな？」=
-//「キミのこと、大好きだから…大切な人だから、いいよ」=
-//「お話もいいけど、Hでも、大丈夫だよ。えへへ、初めてのお家Hだね♡」=
+「えへへ、おじゃましまーす…あれ、案外片付いてるね」=“Eheheh, I'm coming in~... huh, it's pretty neat and tidy.”
+「まあ、恋人が来るんだから、掃除ぐらいするよ」=“Well, even I'm not so much of a pig to not clean up when my girlfriend might come over.”
+「ふぅん、私のために掃除してくれたんだ…それとも、その、Hするからかな？」=“Fuhn, you cleaned up just for me... or is it because, uhm, because we'll have sex?”
+「うっ…下心がバレバレすぎて恥ずかしい…その…ダメかな？」=“Uu--... it's embarrassing to know that it was so obvious... uhm... are you against it?”
+「キミのこと、大好きだから…大切な人だから、いいよ」=“I love you lots so... you're my precious boyfriend so, I don't mind.”
+「お話もいいけど、Hでも、大丈夫だよ。えへへ、初めてのお家Hだね♡」=“Chatting is fine too, but sex is also fine. Eheheh, it'll be our first time having sex at home♡”

@@ -1,12 +1,12 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「ね…ねね、なんかさ、暑くない？　ムラムラ…じゃなくて、ムシムシするっていうか……♡」=
-//（なんだ？　……ハッ、[H]って今、生理前だったっけ）=
-//「え？　そうかな。俺は平気だけど」=
-//「そ、そぉ？　服、一枚脱いじゃおっかなぁ……でも、恋人の前で脱ぐの恥ずかしいなぁ」=
-//「クーラー入れる？」=
-//「そういう問題じゃないっていうか、えーと、だからそのー、わ、わからない？　したいことがある、んだけどぉ……♡」=
-//「？　？？」=
-//「も、も～っ！　いじわる♡　え、エッチ、したいってことだよ♡　絶対にわかってやってるぅ」=
-//「あはは、ごめんごめん。じゃあお詫びに、今日の活動内容は……」=
+「ね…ねね、なんかさ、暑くない？　ムラムラ…じゃなくて、ムシムシするっていうか……♡」=“H... Hey hey, isn't it like, kinda hot? I feel kinda horn... no, more like hot and bothered and stuff...♡”
+（なんだ？　……ハッ、[H]って今、生理前だったっけ）=(What? ...Hah--, I guess her period must be right around the corner.)
+「え？　そうかな。俺は平気だけど」=“Eh? You think so? I'm fine over here.”
+「そ、そぉ？　服、一枚脱いじゃおっかなぁ……でも、恋人の前で脱ぐの恥ずかしいなぁ」=“T-That so~? Maybe I'll take off a layer... but, undressing in front of my boyfriend feels kinda embarrassing~”
+「クーラー入れる？」=“Want me to turn up the aircon?”
+「そういう問題じゃないっていうか、えーと、だからそのー、わ、わからない？　したいことがある、んだけどぉ……♡」=“That's not it~, like, erhm, you know, it's like~, y-you don't get it? There's something, I really wanna do...♡”
+「？　？？」=“? ???”
+「も、も～っ！　いじわる♡　え、エッチ、したいってことだよ♡　絶対にわかってやってるぅ」=“J-Jeez~! Meanie♡ I-I mean I wanna, have sex, and stuff♡ I know you're doing it on purpose~”
+「あはは、ごめんごめん。じゃあお詫びに、今日の活動内容は……」=“Ahahah, sorry, sorry. As an apology, for today's activity, we can...”

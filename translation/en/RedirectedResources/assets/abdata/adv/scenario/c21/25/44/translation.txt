@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「へえ、色々あるんだね」=
-//「あっ、あのストラップかわいい～。あのお店に入ろうよ！」=
-//「うん、いいよ」=
-//「えへへ、お揃いー。買ってくれてありがと、大切にするね」=
-//（よかった、喜んでもらえたみたいだ）=
+「へえ、色々あるんだね」=“Hoh, there's all sorts, huh?”
+「あっ、あのストラップかわいい～。あのお店に入ろうよ！」=“Ah--, that strap is really cute~. Let's go into that shop!”
+「うん、いいよ」=“Okay, sure.”
+「えへへ、お揃いー。買ってくれてありがと、大切にするね」=“Eheheh, we match. Thanks for buying it for me, I'll treasure it.”
+（よかった、喜んでもらえたみたいだ）=(Great, looks like she enjoyed herself.)

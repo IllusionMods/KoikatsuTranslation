@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「なんか、二人の違う一面を見ちゃったって感じだったよ」=
+「なんか、二人の違う一面を見ちゃったって感じだったよ」=“I feel like, I just got to see different sides of both of you.”

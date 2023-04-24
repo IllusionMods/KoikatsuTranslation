@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「なんか恥ずいけど、みんなが賛成ならいいよ？　私も興味あるし……」=
+「なんか恥ずいけど、みんなが賛成ならいいよ？　私も興味あるし……」=“It's kinda embarrassing but, if you both want to, I don't mind, you know? I'm interested in it too...”

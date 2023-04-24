@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「あ、また会ったね。おはよう～」=
+「あ、また会ったね。おはよう～」=“Ah, we meet again. Morning~”

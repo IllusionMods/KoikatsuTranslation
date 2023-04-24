@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「いきなりですが問題です。今日の私は普段の私とどこが違うでしょうか？」=
-//「お…じゃあ、デート中に全部当ててみせるよ」=
-//「あ、このクレープ美味しいな」=
-//「でしょ！？　私のおススメなんだ～！　こっちの味も食べてみて♪」=
+「いきなりですが問題です。今日の私は普段の私とどこが違うでしょうか？」=“Sudden though it may be, but I have a question for you, mister. In what way do I differ today, from my usual self?”
+「お…じゃあ、デート中に全部当ててみせるよ」=“Oh... don't you worry, I'll guess every single thing one by one today as we're going along.”
+「あ、このクレープ美味しいな」=“Ah, this crepe's damn good.”
+「でしょ！？　私のおススメなんだ～！　こっちの味も食べてみて♪」=“Isn't it though!? I always recommend it to people~! Try this too♪”

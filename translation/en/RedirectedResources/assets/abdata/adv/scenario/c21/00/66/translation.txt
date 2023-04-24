@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「あっ、ジャングルジムあるよ！　昔を思い出さない？　どっちが先に登れるか、競争しよ♪」=
-//「え…わあっ！　ぱ、パンツ見えてるよ！」=
-//「ひゃっ！　え、エッチー！　って言ったら、言い出しっぺの私がエッチになっちゃうのか」=
-//「と、とりあえず、目のやり場に困るから降りようか」=
-//「ごめんごめん。キミと一緒に帰れるなんて思ってなかったから、舞い上がりすぎちゃってた…あはは」=
+「あっ、ジャングルジムあるよ！　昔を思い出さない？　どっちが先に登れるか、競争しよ♪」=“Ah--, it's a jungle gym! Doesn't it take you back? Let's see who can get to the top the fastest♪”
+「え…わあっ！　ぱ、パンツ見えてるよ！」=“Eh... waah--! I-I can see your panties!”
+「ひゃっ！　え、エッチー！　って言ったら、言い出しっぺの私がエッチになっちゃうのか」=“Hyah--! Y-You perv--! Well, I mean, if I call you a perv, what would that make me for suggesting this in the first place?”
+「と、とりあえず、目のやり場に困るから降りようか」=“F-For the time being, come back down, I don't even know where to look at you.”
+「ごめんごめん。キミと一緒に帰れるなんて思ってなかったから、舞い上がりすぎちゃってた…あはは」=“Sorry, sorry. I didn't think that we'd walk home together today so, I got a bit too excited... ahahah~”

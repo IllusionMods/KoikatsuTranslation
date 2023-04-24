@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「いいよ～。えへへ、男の子と下校するなんて初めて」=
-//「ドキドキするよね」=
-//「うん！　あ、どうせならちょっと寄り道していかない？」=
+「いいよ～。えへへ、男の子と下校するなんて初めて」=“Sure~. Eheheh, it's gonna be my first time walking home with a boy.”
+「ドキドキするよね」=“Makes your heart pound, doesn't it?”
+「うん！　あ、どうせならちょっと寄り道していかない？」=“Yep! Ah, wanna take a detour while we're at it?”

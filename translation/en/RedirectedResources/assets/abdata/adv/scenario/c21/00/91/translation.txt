@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「あ、おはよっ、[Pあだ名]」=
-//「あ……おはよう、[Hあだ名]」=
-//「えへへ……照れちゃうけど、恋人同士って感じがして、いいね♪」=
+「あ、おはよっ、[Pあだ名]」=“Ah, morning--, [Pあだ名].”
+「あ……おはよう、[Hあだ名]」=“Ah... morning, [Hあだ名].”
+「えへへ……照れちゃうけど、恋人同士って感じがして、いいね♪」=“Eheheh... it's really making me blush but, it feels kinda nice, all romantic♪”

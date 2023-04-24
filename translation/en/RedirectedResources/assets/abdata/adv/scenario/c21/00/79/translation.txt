@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「ええっ！？　今日のスペシャルランチって、鶏づくし定食だったの！？　そっちにすればよかったぁ」=
-//「もしよかったら交換する？」=
-//「ぬぬぬ……ううん、大丈夫！　私の頼んだうどんが『俺、望まれない子供だったのか』ってグレちゃったら可哀想だもん」=
+「ええっ！？　今日のスペシャルランチって、鶏づくし定食だったの！？　そっちにすればよかったぁ」=“Eeeh--?! Today's special lunch set is the chicken combo!? I should have gone with that~”
+「もしよかったら交換する？」=“Wanna swap then? I don't mind.”
+「ぬぬぬ……ううん、大丈夫！　私の頼んだうどんが『俺、望まれない子供だったのか』ってグレちゃったら可哀想だもん」=“Nununuh... no, it's fine! I wouldn't want the udon I ordered to think it's the unwanted child and go delinquient, that'd be so sad~!”

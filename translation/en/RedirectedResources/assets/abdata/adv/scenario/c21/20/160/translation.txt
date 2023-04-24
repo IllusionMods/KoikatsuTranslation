@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「そろそろ落ち着いた？」=
-//「……うん、ごめんね。もう大丈夫だよ。えへへ、待っててくれてありがと、大好き♪」=
-//「うん、俺も……好きだよ、[H名]」=
-//「私も好き……大好き♡」=
-//「あはは、照れるなぁ……もうしばらく夜景を見たら、駅に行こうか」=
+「そろそろ落ち着いた？」=“You feel calmer now?”
+「……うん、ごめんね。もう大丈夫だよ。えへへ、待っててくれてありがと、大好き♪」=“...Yep, sorry. I'm fine now. Eheheh, thanks for waiting for me, I love you♪”
+「うん、俺も……好きだよ、[H名]」=“Yep, I... love you too, [H名].”
+「私も好き……大好き♡」=“I love you too... I love you so much♡”
+「あはは、照れるなぁ……もうしばらく夜景を見たら、駅に行こうか」=“Ahahah, you're gonna make me blush... Let's appreciate the view a little bit more, and then head back to the station, okay?”

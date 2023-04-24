@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「あ、おはよ～♪　ねね、今日の宿題やってきた？」=
-//「おはよー……宿題？　あっ」=
-//「えへへ、だと思った。こっそり見せてあげるから早く教室いこっ」=
+「あ、おはよ～♪　ねね、今日の宿題やってきた？」=“Ah, morning~♪ Hey hey, did you do the assignment from yesterday?”
+「おはよー……宿題？　あっ」=“Morning... assignment? Ah--”
+「えへへ、だと思った。こっそり見せてあげるから早く教室いこっ」=“Eheheh, I knew it. I'll let you copy mine so let's dash to class--”

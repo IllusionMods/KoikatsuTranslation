@@ -1,25 +1,25 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「そういえば[H名]って……」=
-//「たくさん食べる方だったよね。さっき頼んだのじゃ足りないんじゃない？」=
-//「え……そ、そんなことな～……い、って言ったら嘘になっちゃうかな。でも、今日はいいの」=
-//「？　どうして？」=
-//「うう……キミはもしかしたら『気にしない』って言ってくれるかもしれないけど、デートで……しかも喫茶店であまりバクバク食べるわけにはいかないもん」=
-//「ああ……ごめん、乙女心がわかってなくて」=
-//「わ、私が勝手に気にしてることなんだから謝らないでよ～。それに、デートの時ぐらい普通の女の子が食べる量にしたって問題な――」=
-//ぐぅ～……=
-//「あ……えへへ、お腹鳴っちゃった。でも大丈夫だよ、さっき頼んだのを食べれば、おとなしくなると思――」=
-//「念の為に追加注文いっとく？　今から頼むとけっこう遅くなっちゃうと思うけど、絶対にさっきの注文じゃ満足しない感じだよね。時間はたっぷりあるから……」=
-//「うう……せめて、たくさん食べる私を好きになってもらえるように頑張るからね……！」=
-//「少食だったよね。さっき頼んだのでもけっこう量多いんじゃない？」=
-//「あ、気付いた？　出来るだけ少ないメニューにしたんだけど、それでも多そう……あ、でも安心して。残したりしないから」=
-//「大丈夫？　きつかったら、俺も一緒に食べるから安心して」=
-//「ええ～、そんなの……そんなの、間接キスになっちゃうから……」=
-//「あ、そっか……それもそうだね、あはは……」=
-//（なんか、間接キスって聞くと、普通のキスよりドキドキするのは何でなんだろう）=
-//「……でっ、でも！　もし本当に無理だったら、間接キスを気にして残すより、食べてもらった方がいいかも？　作ってくれた人に悪いし、げ、原料？　にも悪いし」=
-//「う、うん、それはたしかに！」=
-//「だから、そのときは食べてもらおうかな……あっ、でも安心して、朝出てくる時にちゃんと歯磨きしたし、この前歯医者さんに行ったときに虫歯ゼロって言われたから！」=
-//「俺もこの前歯医者行ったばっかりで虫歯ゼロだったから、万が一の時は任せて！」=
-//「これで間接キスもどんとこいだね！　あ、万が一の時はだから！　備えあれば憂いなし！」=
+「そういえば[H名]って……」=“Reminds me, [H名]...”
+「たくさん食べる方だったよね。さっき頼んだのじゃ足りないんじゃない？」=“You're a big eater, aren't you? You sure the amount you ordered's gonna be enough?”
+「え……そ、そんなことな～……い、って言ったら嘘になっちゃうかな。でも、今日はいいの」=“E... t-that's not tr~... ue, no, that would be a lie, wouldn't it? But, I'm fine today.”
+「？　どうして？」=“? Why?”
+「うう……キミはもしかしたら『気にしない』って言ってくれるかもしれないけど、デートで……しかも喫茶店であまりバクバク食べるわけにはいかないもん」=“Uu... I mean, you might not mind, maybe, but we're on a date... and I can't exactly stuff myself at a cafe, you know.”
+「ああ……ごめん、乙女心がわかってなくて」=“Aah... sorry, I wasn't sympathetic enough to a woman's plight.”
+「わ、私が勝手に気にしてることなんだから謝らないでよ～。それに、デートの時ぐらい普通の女の子が食べる量にしたって問題な――」=“I-I'm the one who's got a complex about this, so you don't need to apologize~. Not to mention, I can do with the amount a normal girl eats just for one dat--”
+ぐぅ～……=*Guuh*~...
+「あ……えへへ、お腹鳴っちゃった。でも大丈夫だよ、さっき頼んだのを食べれば、おとなしくなると思――」=“Ah... eheheh, my belly just growled. But it's fine, it should calm down once our food safely makes its way to i--”
+「念の為に追加注文いっとく？　今から頼むとけっこう遅くなっちゃうと思うけど、絶対にさっきの注文じゃ満足しない感じだよね。時間はたっぷりあるから……」=“Let's just add more to our order, just in case? If we order now it's definitely gonna come out much later but, you're not gonna be satisfied by what you ordered just then, are you? We've got lots of time here so...”
+「うう……せめて、たくさん食べる私を好きになってもらえるように頑張るからね……！」=“Uuu... atleast, I'll do my very best so that you can come to love this idiot who can't help but stuff herself...!”
+「少食だったよね。さっき頼んだのでもけっこう量多いんじゃない？」=“You don't eat much, do you? Won't the food you ordered be too much for you?”
+「あ、気付いた？　出来るだけ少ないメニューにしたんだけど、それでも多そう……あ、でも安心して。残したりしないから」=“Ah, you noticed? I tried to get the lightest dish possible but, even that might be too much... ah, but don't worry. I won't waste any, I'll eat it all.”
+「大丈夫？　きつかったら、俺も一緒に食べるから安心して」=“You sure? If it gets too much, I can eat the rest so you don't need to worry.”
+「ええ～、そんなの……そんなの、間接キスになっちゃうから……」=“Eeh~, that's... that's gonna be an indirect kiss...”
+「あ、そっか……それもそうだね、あはは……」=“Ah, right... that's true as well, ahahah...”
+（なんか、間接キスって聞くと、普通のキスよりドキドキするのは何でなんだろう）=(Why does the idea of an indirect kiss make my heart pound more than a normal one? I have no idea.)
+「……でっ、でも！　もし本当に無理だったら、間接キスを気にして残すより、食べてもらった方がいいかも？　作ってくれた人に悪いし、げ、原料？　にも悪いし」=“...B-But! If it really is too much, rather than worrying about pointless things and leaving some on the plate, I really might have you eat it? Like I'd feel bad for the chef who made it, and uhm, t-the ingredients too, I guess?”
+「う、うん、それはたしかに！」=“Y-Yep, can't disrespect those!”
+「だから、そのときは食べてもらおうかな……あっ、でも安心して、朝出てくる時にちゃんと歯磨きしたし、この前歯医者さんに行ったときに虫歯ゼロって言われたから！」=“So, maybe I really will have you eat it... ah--, but don't worry, I brushed my teeth really well before I left home today, and my dentist told me that my mouth is entirely free of cavities the other day too!”
+「俺もこの前歯医者行ったばっかりで虫歯ゼロだったから、万が一の時は任せて！」=“Mine did the same so, leave it to me!”
+「これで間接キスもどんとこいだね！　あ、万が一の時はだから！　備えあれば憂いなし！」=“With this, an indirect kiss's gonna be a slam dunk! Ah, just in case though! Afterall, you never know!”

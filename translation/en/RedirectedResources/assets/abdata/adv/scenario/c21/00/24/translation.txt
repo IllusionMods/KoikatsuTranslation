@@ -1,5 +1,5 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「あ、いたいた！　授業でアップルパイ作ってきたよ～はいっ焼きたて♪」=
-//「キミのために心を込めて作ったから、きっと美味しいよ♪　それじゃ、バイバイっ」=
+「あ、いたいた！　授業でアップルパイ作ってきたよ～はいっ焼きたて♪」=“Ah, found you! I made some apple pie during class~, here--, it's still hot and fresh♪”
+「キミのために心を込めて作ったから、きっと美味しいよ♪　それじゃ、バイバイっ」=“I poured all my heart into it just for you so, I'm sure it'll taste good♪ See you later, byebye--”

@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//（ふぅ……そろそろ降りる準備しとかないと）=
-//（……今日のデートは、二人で目一杯遊べたな）=
-//（観覧車ではゆっくりと色々話すこともできたし……満足度の高いデートだった）=
-//（……この次はどんなことをしよう？　今から色々考えておこう）=
+（ふぅ……そろそろ降りる準備しとかないと）=(Fuuh... gotta get ready to get off soon.)
+（……今日のデートは、二人で目一杯遊べたな）=(...We really did enjoy ourselves today, didn't we?)
+（観覧車ではゆっくりと色々話すこともできたし……満足度の高いデートだった）=(We got to chat about all sorts of things in the ferris wheel too... what a satisfactory date that was.)
+（……この次はどんなことをしよう？　今から色々考えておこう）=(...What should we do next time? Let's just start planning for it now.)

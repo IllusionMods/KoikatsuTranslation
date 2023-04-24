@@ -1,5 +1,5 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「やっほ～、今日の家庭科でクッキー作ったから、キミにあげようと思って」=
-//「みんなに冷やかされちゃったけど、他にあげる人もいないしいいよね？　後で味の感想聞かせてね！」=
+「やっほ～、今日の家庭科でクッキー作ったから、キミにあげようと思って」=“Hey~, I made some cookies during home ec today so, I thought I'd give them to you.”
+「みんなに冷やかされちゃったけど、他にあげる人もいないしいいよね？　後で味の感想聞かせてね！」=“Nobody was really interested in trying them but, I don't really know anyone else to give them to so, you'll take them, right? Let me know how you like them later!”

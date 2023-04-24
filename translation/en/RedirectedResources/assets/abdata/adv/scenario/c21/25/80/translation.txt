@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「は～、屋上で食べるお昼ご飯って、どうしてこんなに美味しいんだろうね～」=
-//「本当だね。つい食べすぎちゃいそう」=
-//「……実は、そうならないために、そこに体重計が置いてあるんだよ……」=
-//「さ、さすが女子校？」=
+「は～、屋上で食べるお昼ご飯って、どうしてこんなに美味しいんだろうね～」=“Hah~, I wonder why lunch tastes so much better when we eat on the roof~”
+「本当だね。つい食べすぎちゃいそう」=“Yeah. You start digging in and before you know it you're patting your overfilled belly.”
+「……実は、そうならないために、そこに体重計が置いてあるんだよ……」=“...Actually, there's a scale over there, just to make sure that doesn't happen...”
+「さ、さすが女子校？」=“I-I guess that's an all girls' school for you?”

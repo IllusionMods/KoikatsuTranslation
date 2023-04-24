@@ -1,21 +1,21 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「カラオケ♪　カラオケ～♪　ねね、どっち先歌う？　ジャンケンで決めよっか♪」=
-//「あはは、そんなに歌いたいなら、[H名]が先に歌っていいよ。はい、マイク」=
-//「え、いいの？　友達と来るときはいつも取り合いになるんだよ～」=
-//「そんなに？　だからいつもジャンケンで決めることになるんだね」=
-//「そういうこと！　でも結局、デュエったりしちゃうんだけど……あ、二人で歌うのもアリだね！」=
-//「おお、なんかカップルっぽいね。そうする？」=
-//「うん、するする！　じゃあ、曲はどうしようかなぁ。『青空アドベンチャー』知ってる？」=
-//「ああ、うん、知ってるよ」=
-//「じゃあ、私たちの記念すべき一曲目は決まりだね！」=
-//「でも、この曲パートが分かれてるわけじゃないよね？」=
-//「うん、だから代わりばんこで歌お♪　最初は私でいい？」=
-//「オッケー、二人のコンビネーションが試されるね」=
-//「えへへ、彼氏くんと歌うのって、ちょっと憧れてたんだよね～……オッケー、曲入れたよ♪」=
-//「よーし、がんばるぞ」=
-//『小さな手の平 掴める物は～♪　きっと限られているけど♪』=
-//『胸の中溢れだす言葉にも♪』=
-//「えへへ、どうしようこれ、普通に照れちゃうね！」=
-//（確かに照れるけど、恋人と同じ歌を代わりばんこで歌うのってドキドキして楽しいなぁ）=
+「カラオケ♪　カラオケ～♪　ねね、どっち先歌う？　ジャンケンで決めよっか♪」=Karaoke♪ Karaoke~♪ Hey hey, who's gonna go first? Let's do rock paper scissors for it♪
+「あはは、そんなに歌いたいなら、[H名]が先に歌っていいよ。はい、マイク」=Ahahah, if you want to sing that much, you can go first. Here, take the mic.
+「え、いいの？　友達と来るときはいつも取り合いになるんだよ～」=Eh, you sure? Whenever I come with my friends, it always turns into a real scramble~
+「そんなに？　だからいつもジャンケンで決めることになるんだね」=That much? That's what the rock paper scissors is for, I see.
+「そういうこと！　でも結局、デュエったりしちゃうんだけど……あ、二人で歌うのもアリだね！」=Yep! But in the end, it always come down to a duel... ah, but we sometimes go for duets too!
+「おお、なんかカップルっぽいね。そうする？」=Ooh, that sounds downright lovey-dovey. Wanna do that?
+「うん、するする！　じゃあ、曲はどうしようかなぁ。『青空アドベンチャー』知ってる？」=Yep, let's do that! What sound should we go with then~? Do you know「Blue Sky Raphsody」?
+「ああ、うん、知ってるよ」=Aah, yep, I do.
+「じゃあ、私たちの記念すべき一曲目は決まりだね！」=Guess that decides the first song that we'll always remember then!
+「でも、この曲パートが分かれてるわけじゃないよね？」=But, this song's not divided in parts, is it?
+「うん、だから代わりばんこで歌お♪　最初は私でいい？」=Yep, so let's sing alternating lines instead♪ Could I take the first line?
+「オッケー、二人のコンビネーションが試されるね」=Okay, our synergy's gonna be put to a real test, huh?
+「えへへ、彼氏くんと歌うのって、ちょっと憧れてたんだよね～……オッケー、曲入れたよ♪」=Eheheh, I've always kinda dreamed of this, you know? Singing with my boyfriend and all~... okay, I put it in♪
+「よーし、がんばるぞ」=Alright, time to do this.
+『小さな手の平 掴める物は～♪　きっと限られているけど♪』=『This small hand, the things it can grasp, they are surely limited, but~♪』
+『胸の中溢れだす言葉にも♪』=『The words, overflowing from my chest~♪』
+「えへへ、どうしようこれ、普通に照れちゃうね！」=Eheheh, this just kinda makes you blush, doesn't it!
+（確かに照れるけど、恋人と同じ歌を代わりばんこで歌うのってドキドキして楽しいなぁ）=(It does for sure but, singing the same song as my girlfriend in turns sure makes my heart pound~)

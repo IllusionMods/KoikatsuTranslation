@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「この部屋、ずーっと閉まってるから、いろんな噂が流れてるんだよね～。キミも聞いたことない？」=
-//「だからすっごくワクワクしてたんだけど……どう見てもただの物置だよね。ちょっとガッカリ」=
-//「あ、でも面白いものがあるかも！　ねぇ、探して……ん？　どうしたの？　なんか目、怖いよ？」=
-//「キャッ……！　だ、誰！？」=
+「この部屋、ずーっと閉まってるから、いろんな噂が流れてるんだよね～。キミも聞いたことない？」=“This room's been closed up for ages~ so, there's all sorts of rumours floating around, you know~? You've not heard of them?”
+「だからすっごくワクワクしてたんだけど……どう見てもただの物置だよね。ちょっとガッカリ」=“So it got my heart racing real hard but... No matter how you slice it, this is just a regular old store room. Shame~”
+「あ、でも面白いものがあるかも！　ねぇ、探して……ん？　どうしたの？　なんか目、怖いよ？」=“Ah, but I think there might be some interesting stuff here! Hey, let's find i... Nn? What's wrong? Your eyes are, kinda scary, you know?”
+「キャッ……！　だ、誰！？」=“Kyah--...! W-Who's there?!”

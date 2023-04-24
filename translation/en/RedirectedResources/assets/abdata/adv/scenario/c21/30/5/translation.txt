@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「いいよー。でも何するの？　かくれんぼ？　それとも鬼ごっこかな？」=
-//「２人で鬼ごっこっていうのもね……まずは何やるかを考えよう」=
-//「２人でできる運動……うーん、なんだろうねー」=
+「いいよー。でも何するの？　かくれんぼ？　それとも鬼ごっこかな？」=“Sure~. But what are we doing? Hide and seek? Or a game of tag?”
+「２人で鬼ごっこっていうのもね……まずは何やるかを考えよう」=“Not much of a game of tag with just two people... let's just think of something together first.”
+「２人でできる運動……うーん、なんだろうねー」=“An exericse two people can do... Nnn~, I wonder~”

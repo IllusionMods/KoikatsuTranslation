@@ -1,18 +1,18 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「ちょっと呼んでもらいたいあだ名、というか愛称？　があるんだ」=
-//「なんだか嫌な予感がするんだけど、気のせい？」=
-//「気のせいだと思うよ。で、俺のことは[Pあだ名]って呼んでくれないかな？」=
-//「やっぱり気のせいじゃないよね？　何その変な呼び方……」=
-//「どうしても[H]にそう呼んで欲しいんだ。お願い、この通り！」=
-//「その情熱はどこから来るの？　……あーもう、土下座しようとしなくていいから。わかったってば」=
-//「やった！　その代わり、[H]のことも愛称で呼ぶから」=
-//「変なのつけないでね？」=
-//「自分の彼女を変な名前で呼ばないよ。それじゃあ、俺から呼ぶね」=
+「ちょっと呼んでもらいたいあだ名、というか愛称？　があるんだ」=“There's like a pet name, err, nickname? That I'd like you to call me.”
+「なんだか嫌な予感がするんだけど、気のせい？」=“I have a bad feeling about this one but, is it just in my head?”
+「気のせいだと思うよ。で、俺のことは[Pあだ名]って呼んでくれないかな？」=“I think so. So, won't you call me [Pあだ名]?”
+「やっぱり気のせいじゃないよね？　何その変な呼び方……」=“Alright, it wasn't just in my head, now was it? What's with that weird name...”
+「どうしても[H]にそう呼んで欲しいんだ。お願い、この通り！」=“I really want to hear you call me that, no matter what, [H]. Please, I beg thee!”
+「その情熱はどこから来るの？　……あーもう、土下座しようとしなくていいから。わかったってば」=“Just where's all that passion coming from? ...Ah, jeez, you don't need to get on your knees. Stop it, I got it, dummy.”
+「やった！　その代わり、[H]のことも愛称で呼ぶから」=“Yay! In return, I'll give you a nice one too.”
+「変なのつけないでね？」=“A nice one, okay? Not anything weird.”
+「自分の彼女を変な名前で呼ばないよ。それじゃあ、俺から呼ぶね」=“I won't call my own girlfriend something weird. Well then, I'll start.”
 「[Hあだ名]」=[Hあだ名]
-//「今まさに変わった名前で呼ばせようとしてるのに……。えっと……[Pあだ名]」=
-//「すごくいいよ……やっぱり恋人に言ってもらうのはいいね」=
-//「よくわからないけど、キミがいいなら、これからも呼んであげる」=
-//「え、毎日？」=
-//「た、たまに。変なカップルだと思われちゃうでしょ、もうっ」=
+「今まさに変わった名前で呼ばせようとしてるのに……。えっと……[Pあだ名]」=“Even though you're trying to make me call you something so weird yourself... erhm... [Pあだ名.”
+「すごくいいよ……やっぱり恋人に言ってもらうのはいいね」=“It feels amazing... having the girl you love call you that really does feel the best, huh?”
+「よくわからないけど、キミがいいなら、これからも呼んであげる」=“I don't really get it but, if it makes you happy then, I'll call you that from now on.”
+「え、毎日？」=“Eh, everyday?”
+「た、たまに。変なカップルだと思われちゃうでしょ、もうっ」=“J-Just sometimes. People are gonna start calling us that weird couple, dummy--”

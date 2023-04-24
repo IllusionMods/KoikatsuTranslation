@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「あっ、えへ、えへへ……」=
-//「？　どうしたの？」=
-//「友達と目が合っちゃって…やっぱりキミと一緒に帰ると注目を浴びちゃうね」=
-//「あ…嫌だったかな」=
-//「ううん、その逆♪　彼氏彼女やってるな～って。えへへ、腕組んじゃお～っと♪」=
+「あっ、えへ、えへへ……」=“Ah--, eheh, eheheh...”
+「？　どうしたの？」=“? What's wrong?”
+「友達と目が合っちゃって…やっぱりキミと一緒に帰ると注目を浴びちゃうね」=“I just noticed a friend looking at me... I sure draw attention walking home with you like this, huh?”
+「あ…嫌だったかな」=“Ah... I'm sorry.”
+「ううん、その逆♪　彼氏彼女やってるな～って。えへへ、腕組んじゃお～っと♪」=“You don't need to be♪ I love it, since it shows that we're a couple~. Eheheh, let's link arms together~♪”

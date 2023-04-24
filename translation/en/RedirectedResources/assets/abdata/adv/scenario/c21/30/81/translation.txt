@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「じゃーん！　今日は私の手作り弁当だよ～♪　ママと一緒に作りました！」=
-//「おぉ、いただきまーす！　……んんっ！　このコレおいしい！」=
-//「あ、それはママが作ったやつで～、私が作ったのはこっち！」=
-//「どれどれ……う”っ……せ、青春の味が、するなぁ」=
-//「お、おいしくなかった？　ぱくっ！　うげっ……ご、ごめん！　精進します！」=
-//「だ、大丈夫！　次はきっとうまくできるよ……あはは」=
+「じゃーん！　今日は私の手作り弁当だよ～♪　ママと一緒に作りました！」=“Tada~! Today's menu is my handmade lunchbox~♪ I made it with my mommy!”
+「おぉ、いただきまーす！　……んんっ！　このコレおいしい！」=“Ooh, time to dig in~! ...Nnn--! This one's great!”
+「あ、それはママが作ったやつで～、私が作ったのはこっち！」=“Ah, my mommy made that one~, this one's mine though!”
+「どれどれ……う”っ……せ、青春の味が、するなぁ」=“Lemme see... uugh--... I-I can taste, the youth~”
+「お、おいしくなかった？　ぱくっ！　うげっ……ご、ごめん！　精進します！」=“I-It's not any good? *bite*! Ugeh--... s-sorry! I'll learn, I promise!”
+「だ、大丈夫！　次はきっとうまくできるよ……あはは」=“I-It's fine! I'm sure it'll come out better next time... ahahah.”

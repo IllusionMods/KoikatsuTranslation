@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「……うん」=
-//「本当にいいの？」=
-//「キミのこと、大好きだから……大切な人だから、いいよ」=
-//「私の初めて……もらってください」=
+「……うん」=“...Okay.”
+「本当にいいの？」=“Are you really sure?”
+「キミのこと、大好きだから……大切な人だから、いいよ」=“I seriously love you so... you're very important to me, so sure.”
+「私の初めて……もらってください」=“Please take... my virginity.”

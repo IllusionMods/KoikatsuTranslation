@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「あっ、おはよっ、朝から会えて嬉しいな♪」=
+「あっ、おはよっ、朝から会えて嬉しいな♪」=“Ah--, morning--, I'm so happy to see you first thing♪”

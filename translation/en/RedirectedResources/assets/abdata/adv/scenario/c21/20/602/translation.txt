@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「[H名]、今日もいっぱいエッチしようね」=
-//「もう、恥ずかしいこと言わないでよ……」=
-//「でも、ラブホテルに来ると、普段よりずっとそういう気持ちになるから……ならない？」=
-//「……な、なるけど……」=
-//「だよね。でも、ごめん。ちょっとムードなかったね」=
-//「えへへ、平気。ちょっと緊張してるだけだから。でも、今のでほぐれた」=
-//「ならよかった。じゃあ、しようか……」=
+「[H名]、今日もいっぱいエッチしようね」=“Let's have lots of sex today too, okay, [H名]?”
+「もう、恥ずかしいこと言わないでよ……」=“Jeez, don't say such embarrassing things...”
+「でも、ラブホテルに来ると、普段よりずっとそういう気持ちになるから……ならない？」=“But, I just can't help feeling like that, when we come to love hotels... can you?”
+「……な、なるけど……」=“...I-I can't either...”
+「だよね。でも、ごめん。ちょっとムードなかったね」=“Knew it. But, sorry. the mood wasn't right, was it?”
+「えへへ、平気。ちょっと緊張してるだけだから。でも、今のでほぐれた」=“Eheheh, it's fine. I'm just a bit nervous. But that helped me loosen up.”
+「ならよかった。じゃあ、しようか……」=“Great. Let's do it then...”

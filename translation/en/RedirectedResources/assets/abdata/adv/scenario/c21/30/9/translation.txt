@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「デート！？　おお～、私たちもそんな間柄になりましたか」=
-//「ダメかな」=
-//「ううん、私からもお願いします！　えへへ、楽しみにしてるからね」=
+「デート！？　おお～、私たちもそんな間柄になりましたか」=“A date?! Ooh~, even we've gotten that intimate, huh?”
+「ダメかな」=“No good?”
+「ううん、私からもお願いします！　えへへ、楽しみにしてるからね」=“Nope, I want to go too! Eheheh, I'm looking forward to it, okay~?”

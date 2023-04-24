@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「あのー、今いいかな。出来れば君と話したいんだけど」=
-//「あ、噂の男の子だ。はじめましてー大丈夫だよ」=
-//「俺は[P名前]って言うんだ。どんな噂かは聞かないでおくよ……」=
-//「あはは、そんな悪い噂ばっかりじゃないから安心してね」=
-//「はは、それならいいんだけど……」=
-//「だって悪い人には見えないもん。ところで話ってなーに？」=
-//（なんだか親しみやすそうな子だな。どんな話をしよう……？）=
+「あのー、今いいかな。出来れば君と話したいんだけど」=“Uhm, do you have a moment? I'd like to chat with you a bit if possible.”
+「あ、噂の男の子だ。はじめましてー大丈夫だよ」=“Ah, the boy from the rumours. Nice to meet you. Sure, let's chat.”
+「俺は[P名前]って言うんだ。どんな噂かは聞かないでおくよ……」=“I go by [P名前]. I won't dig into what sort of rumours they exactly are...”
+「あはは、そんな悪い噂ばっかりじゃないから安心してね」=“Ahahah, it's not all bad stuff so relax.”
+「はは、それならいいんだけど……」=“Hahah, I hope so...”
+「だって悪い人には見えないもん。ところで話ってなーに？」=“I mean, you don't look like a bad person to me. By the way, what did you want to chat about?”
+（なんだか親しみやすそうな子だな。どんな話をしよう……？）=(What a friendly and easy to get along with girl. What should we talk about...?)

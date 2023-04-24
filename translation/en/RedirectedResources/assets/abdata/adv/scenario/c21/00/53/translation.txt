@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「あれ、もういいの？　私はいいんだけど……もしかして調子わるかった？」=
+「あれ、もういいの？　私はいいんだけど……もしかして調子わるかった？」=“Huh, you sure? I mean I don't mind but... are you not feeling good today?”

@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「えへへ、気持ち良かったね～♪　二人共、これからもよろしくね♪」=
+「えへへ、気持ち良かったね～♪　二人共、これからもよろしくね♪」=“Eheheh, that felt great, didn't it~♪ Let's have more fun together sometime, okay?~♪”
