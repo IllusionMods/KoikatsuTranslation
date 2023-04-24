@@ -4,10 +4,10 @@
 ………………=.........
 …………=......
 ……=...
-//「……そろそろ、時間じゃな。名残惜しいが……」=
-//CHOICE:「俺も、今日は離れたくない」=
-//CHOICE:「時間だから、仕方ないよ」=
-//「……俺も、今日は[H]と離れたくない。だからその、家に来ないか？」=
-//「……家に……よいのか？　ふふっ、ではお言葉に甘えるとするかのう」」=
-//「時間だからね……仕方ないよ」=
-//「うむ、そうじゃな……また一緒に出掛けようぞ！」=
+「……そろそろ、時間じゃな。名残惜しいが……」=“...It is almost, time. It is saddening, however...”
+CHOICE:「俺も、今日は離れたくない」=I don't want to let you go either.
+CHOICE:「時間だから、仕方ないよ」=Our time's almost up, it can't be helped.
+「……俺も、今日は[H]と離れたくない。だからその、家に来ないか？」=“...I don't want to, let you go either, today. So uhm, won't you come to my place?”
+「……家に……よいのか？　ふふっ、ではお言葉に甘えるとするかのう」」=...Your place... could I? Fufuh--, perhaps I will take you up on that.
+「時間だからね……仕方ないよ」=“It is almost up, yeah... it can't be helped.”
+「うむ、そうじゃな……また一緒に出掛けようぞ！」=“Umu, indeed... let us go out again soon!”

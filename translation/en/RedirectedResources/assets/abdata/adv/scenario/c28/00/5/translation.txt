@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「うむ、かまわないのじゃ。それで二人で何をするのじゃ？」=
-//「そうだなぁ。どんな運動をするか一緒に考えてみようか」=
-//「わしはなるべく無理せず運動したいのじゃが、何がいいかのう」=
+「うむ、かまわないのじゃ。それで二人で何をするのじゃ？」=“Umu, I do not mind. So what is it that we shall be doing together?”
+「そうだなぁ。どんな運動をするか一緒に考えてみようか」=“Good question~. Let's think on it together.”
+「わしはなるべく無理せず運動したいのじゃが、何がいいかのう」=“I would like a workout that pushes me to my limit, yet no further than that. I wonder what could work?”

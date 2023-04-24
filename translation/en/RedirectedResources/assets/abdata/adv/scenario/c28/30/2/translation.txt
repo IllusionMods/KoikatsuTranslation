@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「お主とはなかなか話が合うのう。わしとこうまで語れる者がおるとは」=
-//「俺もそう思うよ。話しても話し足りないくらいだね」=
-//「また時間があったらこれからもわしのところへ来るがよい」=
-//「お主との談笑も悪くない。わしがそう言っているのだから来るのじゃぞ」=
-//「俺も、[H姓]さんと話すのは楽しいし、喜んで来させてもらうよ」=
-//「うむ、待っておるぞ」=
-//「……おぉ、もうこんな時間か。それではさらばじゃ」=
+「お主とはなかなか話が合うのう。わしとこうまで語れる者がおるとは」=“You are quite an easy fellow to get along with. I never thought I'd see the day, to meet such a chap.”
+「俺もそう思うよ。話しても話し足りないくらいだね」=“I feel the same way. We sure don't seem to run out of things to chat about, do we?”
+「また時間があったらこれからもわしのところへ来るがよい」=“If you find the time again, come see me. To you, I am always available.”
+「お主との談笑も悪くない。わしがそう言っているのだから来るのじゃぞ」=“Banter with you is not so bad. You must come, as I am the one telling you to do so.”
+「俺も、[H姓]さんと話すのは楽しいし、喜んで来させてもらうよ」=“I have fun chatting with you too, so I'll gladly take you up on that, [H姓]-san”
+「うむ、待っておるぞ」=“Umu, I shall be waiting.”
+「……おぉ、もうこんな時間か。それではさらばじゃ」=“...Ooh, it is already this time. Fare thee well, then.”

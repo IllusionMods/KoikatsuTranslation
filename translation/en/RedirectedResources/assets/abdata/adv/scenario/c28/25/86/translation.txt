@@ -1,11 +1,11 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「……恋をすると女子は綺麗になると聞いたんじゃが……わしは、どうじゃ？」=
-//「前よりももっと、綺麗になってると思うよ」=
-//「本当か！？　……それも全部、おぬしのおかげじゃな……感謝の印に……キス、したいのじゃ……」=
-//「うん。しようか」=
-//「……んっ……んんっ……はぁ……もっと、してもよいか……？」=
-//「もちろんいいよ。そんなに感謝してくれてるの？」=
-//「……してもしても足りないくらいなのじゃ。お主のことが好きすぎて……」=
-//「俺も[H]のことが、好きだよ。だから、いっぱいキスしよう」=
+「……恋をすると女子は綺麗になると聞いたんじゃが……わしは、どうじゃ？」=“...I'd heard that girls truly bloom when they fall in love but... have I grown beautiful?”
+「前よりももっと、綺麗になってると思うよ」=“Personally, I think you're definitely more beautiful than before.”
+「本当か！？　……それも全部、おぬしのおかげじゃな……感謝の印に……キス、したいのじゃ……」=“Truly?! ...All of that, is thanks to you as well... as a token of my gratitude... I would like to, kiss you...”
+「うん。しようか」=“Okay. Sure.”
+「……んっ……んんっ……はぁ……もっと、してもよいか……？」=“...Nn-- ...Nnn--... haah... do you mind, if we do it more...?”
+「もちろんいいよ。そんなに感謝してくれてるの？」=“Not at all, go ahead. Are you that grateful?”
+「……してもしても足りないくらいなのじゃ。お主のことが好きすぎて……」=“...So much so, no amount of kisses is enough. I just love you so much...”
+「俺も[H]のことが、好きだよ。だから、いっぱいキスしよう」=“I love you too, [H]. So let's kiss lots.”

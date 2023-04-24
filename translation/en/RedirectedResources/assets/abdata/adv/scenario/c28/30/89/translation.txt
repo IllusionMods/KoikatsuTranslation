@@ -1,17 +1,17 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「愛称で呼び合ってみたいな」=
-//「唐突じゃな……何かあったのか？」=
-//「この前、愛称で呼び合ってるカップルを見て羨ましいと思って」=
-//「なるほど、そういうわけか。確かにわしらにはなかったのう。うむ、物は試しじゃ、やってみるか」=
-//「ありがとう。それじゃあ、俺の事は[Pあだ名]って呼んでくれる？」=
-//「……なんかわしの知ってるのと違う気がするが……まぁいいじゃろ」=
-//「ちゃんとわしの愛称も考えておるんじゃろな？」=
-//「もちろん、この日の為にしっかり考えてあるよ」=
-//「用意周到じゃのう……。ごほん……では、参るぞ！」=
+「愛称で呼び合ってみたいな」=“I wanna try calling each other by nicknames.”
+「唐突じゃな……何かあったのか？」=“That's quite abrupt... did something happen?”
+「この前、愛称で呼び合ってるカップルを見て羨ましいと思って」=“The other day, I saw this couple calling each other by nicknames and it made me jealous.”
+「なるほど、そういうわけか。確かにわしらにはなかったのう。うむ、物は試しじゃ、やってみるか」=“I see, so that's why. Certainly, we have not picked out any for each other. Umu, the proof is in the pudding, so let us eat it indeed.”
+「ありがとう。それじゃあ、俺の事は[Pあだ名]って呼んでくれる？」=“Thanks. Well then, will you call me [Pあだ名]?”
+「……なんかわしの知ってるのと違う気がするが……まぁいいじゃろ」=“...That is quite different from the nicknames I know of... well, no matter.”
+「ちゃんとわしの愛称も考えておるんじゃろな？」=“I assume you have thought of one for me as well?”
+「もちろん、この日の為にしっかり考えてあるよ」=“Of course, I thought of one long ago, just in case.”
+「用意周到じゃのう……。ごほん……では、参るぞ！」=“You sure are well prepared... *cough*... well then, here I go!”
 「……[Pあだ名]」=“...[Pあだ名]”
 「[Hあだ名]」=[Hあだ名]
-//「お、思ったより恥ずかしいのぅ……これ」=
-//「そんな[Hあだ名]の顔が見れるなら、またやってもらおうかな」=
-//「そ、そういう意地悪な理由ならやらんぞ！　そんな顔をしてもダメじゃ！　ダメ、じゃぞ？」=
+「お、思ったより恥ずかしいのぅ……これ」=“M-More embarrassing than I expected... this.”
+「そんな[Hあだ名]の顔が見れるなら、またやってもらおうかな」=“Man, if I can get to see you turn that red everytime, maybe I'll have you call me that again, [Hあだ名].”
+「そ、そういう意地悪な理由ならやらんぞ！　そんな顔をしてもダメじゃ！　ダメ、じゃぞ？」=“I-I shall not go along with it if you are going to be such a meanie about it! Even if you show me such a sad expression! I shan't, okay?”

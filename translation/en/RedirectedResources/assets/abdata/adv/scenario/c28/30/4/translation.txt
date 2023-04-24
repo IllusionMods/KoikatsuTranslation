@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「おお、よいな。ちょうど授業の復習をしようと思ってたのじゃ」=
-//「わかった。覚えているうちに始めようか」=
-//「そうじゃな。さて、どこで勉強するかのう……」=
+「おお、よいな。ちょうど授業の復習をしようと思ってたのじゃ」=“Oooh, very well. I was just thinking of getting some revision in myself.”
+「わかった。覚えているうちに始めようか」=“Got it. Let's start while we still remember the contents.”
+「そうじゃな。さて、どこで勉強するかのう……」=“Indeed. Now then, where shall we do it...”

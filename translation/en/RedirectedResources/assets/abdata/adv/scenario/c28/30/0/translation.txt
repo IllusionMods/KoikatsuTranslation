@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「少しだけ時間もらってもいいかな。ちょっと君と話したくてさ」=
-//「おぉっ！　お主が噂の男子じゃな！　わしも話したいと思っていたのじゃ」=
-//「そ、そうなんだ……それなら話が早くて助かるよ」=
-//「うむ。こちらこそ、よろしく頼むぞ！　困ったことがあれば何でも聞くがよい」=
-//「あ、ありがとう。いざって時は頼りにさせてもらうよ」=
-//「うむうむ。……では、談笑の方をはじめるのじゃ！」=
-//（か、変わった喋り方だな……でも、すごく話しやすい子だし、たくさん話が出来そうだ）=
+「少しだけ時間もらってもいいかな。ちょっと君と話したくてさ」=“Could I have some of your time? I'd like to chat a bit, if possible.”
+「おぉっ！　お主が噂の男子じゃな！　わしも話したいと思っていたのじゃ」=“Ooh--! The man of the hour! I wanted to have a bit of a chat with you as well.”
+「そ、そうなんだ……それなら話が早くて助かるよ」=“I-I see... I guess that'll make things quick then.”
+「うむ。こちらこそ、よろしく頼むぞ！　困ったことがあれば何でも聞くがよい」=“Umu. Please, do go on! If there's anything troubling you, be not afraid of asking me.”
+「あ、ありがとう。いざって時は頼りにさせてもらうよ」=“T-Thanks. I will do just that, if it comes to that.”
+「うむうむ。……では、談笑の方をはじめるのじゃ！」=“Umu umu. ...Well then, time for some banter!”
+（か、変わった喋り方だな……でも、すごく話しやすい子だし、たくさん話が出来そうだ）=(W-What a weird way of talking... but, she seems easy to get along with, I think I could make it work with her.)

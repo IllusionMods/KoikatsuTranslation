@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「うぅっん……」=
-//「大丈夫？」=
-//「歌った後にしたからか、少し疲れてしまったかのう」=
-//「時間だから出ないといけないけど、その前に水飲んでおいたほうがよさそうだね」=
-//「そうじゃな」=
-//「焦らなくても大丈夫だよ。先に帰る準備だけしとくから」=
+「うぅっん……」=“Nnnn...”
+「大丈夫？」=“You okay?”
+「歌った後にしたからか、少し疲れてしまったかのう」=“Perhaps due to doing it right after we sang so much, I feel quite knackered indeed.”
+「時間だから出ないといけないけど、その前に水飲んでおいたほうがよさそうだね」=“We gotta head out since our time's up but, let's just drink some water before we do, okay?”
+「そうじゃな」=“Indeed.”
+「焦らなくても大丈夫だよ。先に帰る準備だけしとくから」=“You don't need to rush it either. I'll clean up while you take a breather.”

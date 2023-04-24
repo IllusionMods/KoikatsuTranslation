@@ -2,5 +2,5 @@
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
 「えっと……混ざりたいの？　……どうする？」=“Erhm... You wanna join us? What do you wanna do?”
-//「３人で？　……そうじゃのう、わしは別に構わぬぞ……？」=
-//「ほほう、わし達を相手にしたいとは、随分と殊勝な心がけじゃな。これで断るのも粋ではなかろうて♪」=
+「３人で？　……そうじゃのう、わしは別に構わぬぞ……？」=“All three of us? ...Right, I do not particularly mind, you know...?”
+「ほほう、わし達を相手にしたいとは、随分と殊勝な心がけじゃな。これで断るのも粋ではなかろうて♪」=“Hohoh, what an admirable spirit, willing to take on the both of us. It would be quite churlish of me to turn it down♪”

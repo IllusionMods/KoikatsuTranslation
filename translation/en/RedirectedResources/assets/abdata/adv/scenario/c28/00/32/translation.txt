@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「お主ならわしの好みをわかってくれると思っておったが。違うようじゃな」=
+「お主ならわしの好みをわかってくれると思っておったが。違うようじゃな」=“I did think that you would understand what sort of things I like. I see I was mistaken.”

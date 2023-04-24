@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「おはようなのじゃ！　今日も元気そうじゃな」=
+「おはようなのじゃ！　今日も元気そうじゃな」=“Good morning! You sure do seem energetic today.”

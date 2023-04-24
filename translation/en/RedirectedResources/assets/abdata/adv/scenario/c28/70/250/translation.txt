@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「ふぅ……遊んだ分だけ、疲れたのじゃ……」=
-//「はは、俺もだよ。遊園地って、ついテンションが上がりすぎちゃうよね」=
-//「あの遊具の数々を見ていると、童心に返ってしまうからのう。はしゃぐのは仕方ないことじゃ」=
+「ふぅ……遊んだ分だけ、疲れたのじゃ……」=Fuuh... for all that we ran around, that was quite tiring...
+「はは、俺もだよ。遊園地って、ついテンションが上がりすぎちゃうよね」=Hahah, same here. You just can't help but go a bit too all out at the park, can ya?
+「あの遊具の数々を見ていると、童心に返ってしまうからのう。はしゃぐのは仕方ないことじゃ」=The moment I see all those attractions, I feel myself returning to a simpler time. Going all out really is something one cannot help.

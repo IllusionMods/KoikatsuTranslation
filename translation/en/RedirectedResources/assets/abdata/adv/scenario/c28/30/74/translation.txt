@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「準備運動はっ、大事じゃと聞くがっ、いつまでっ、続けるのじゃっ？」=
-//「こうやって引っ張り合って伸ばしておかないとケガしちゃうだろ？」=
-//「さてはお主、わしの手が握りたいだけなのではないじゃろうな」=
-//「そ、そんなことないよ～」=
-//「怪しいのう。まあ、今日のところはお主に従おう」=
+「準備運動はっ、大事じゃと聞くがっ、いつまでっ、続けるのじゃっ？」=“Warm up exercises--, are certainly important but--, how long are we--, do to them?”
+「こうやって引っ張り合って伸ばしておかないとケガしちゃうだろ？」=“If we don't pull and stretch like this, we're gonna injure ourselves, no?”
+「さてはお主、わしの手が握りたいだけなのではないじゃろうな」=“I sure do hope this is not just an excuse to hold my hand for longer.”
+「そ、そんなことないよ～」=“N-Not at all~”
+「怪しいのう。まあ、今日のところはお主に従おう」=“Somehow, I have doubts. Well, I shall do as you say regardless for now.”

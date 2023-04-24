@@ -1,5 +1,5 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「エッチしたい？　ふふっ、お主ならそう言い出すのではないかと思っておったぞ……♪」=
-//「そうと決まれば早速しようぞ。わしもまだまだ気持ちよくなりたいのじゃ……♪」=
+「エッチしたい？　ふふっ、お主ならそう言い出すのではないかと思っておったぞ……♪」=“You want to have sex? Fufuh--, I did think that's what you would propose...♪”
+「そうと決まれば早速しようぞ。わしもまだまだ気持ちよくなりたいのじゃ……♪」=“Since that is settled, let us do it right away. I want to enjoy this much, much more...♪”

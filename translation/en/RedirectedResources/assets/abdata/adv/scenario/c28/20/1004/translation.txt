@@ -2,19 +2,19 @@
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
 モブ=Mob
-//「お疲れ様でした。ふふっ、素敵な式でしたよ」=
-//「本番の結婚式も、是非、私どもの式場で挙げてくださいね！」=
-//「えっと、前向きに考えさせてもらいます」=
-//「お願いします！　今日はお引き受けいただいて、ありがとうございました」=
-//「ふぅー、緊張したね」=
-//「すごく緊張したが、こんな経験はそう簡単にできるものじゃないからのう。楽しかったのじゃ」=
-//「そうだね!　本当にただのデートのつもりが、貴重な経験したなぁ」=
-//「これでいつ本番が来ても安心なのじゃ」=
-//「だったら……今すぐ本番する？」=
-//「なっ……お主はまた！　……それにまだわしらは学生じゃぞ」=
-//「ははっ、冗談だよ」=
-//「お主の冗談は時々タチが悪いのじゃ！」=
-//「でも、いつかきっと……」=
-//「うむ……そうじゃな…………今日は本当に最高の思い出ができたのう」=
-//「そうだね。一生忘れられない思い出だ」=
-//「この思い出に浸ったまま、今日は帰ろうか」=
+「お疲れ様でした。ふふっ、素敵な式でしたよ」=“Good work today. Fufu~ It was a lovely ceremony.”
+「本番の結婚式も、是非、私どもの式場で挙げてくださいね！」=“For your actual wedding as well, please, do call upon us!”
+「えっと、前向きに考えさせてもらいます」=“Uhm, sure, if we get to that point.”
+「お願いします！　今日はお引き受けいただいて、ありがとうございました」=“Thank you! And for helping us out so much today as well, thank you very much!”
+「ふぅー、緊張したね」=“Fuuh~, that was quite nerveracking, wasn't it?”
+「すごく緊張したが、こんな経験はそう簡単にできるものじゃないからのう。楽しかったのじゃ」=“It was, however, this sort of thing isn't something you can experience so easily. I enjoyed it quite a bit.”
+「そうだね!　本当にただのデートのつもりが、貴重な経験したなぁ」=“Yeah! We went in as mere models, but it became such a precious memory.”
+「これでいつ本番が来ても安心なのじゃ」=“With this, our real wedding will be effortless as well.”
+「だったら……今すぐ本番する？」=“In that case... wanna do it right now?”
+「なっ……お主はまた！　……それにまだわしらは学生じゃぞ」=“Wha--... again with such jesting! ...Not to mention, we are still students.”
+「ははっ、冗談だよ」=“Hahah--, I'm just joking.”
+「お主の冗談は時々タチが悪いのじゃ！」=“Your 'jokes' go a bit too far sometimes!”
+「でも、いつかきっと……」=“But, someday...”
+「うむ……そうじゃな…………今日は本当に最高の思い出ができたのう」=“Umu... indeed... we really did make quite some memories today.”
+「そうだね。一生忘れられない思い出だ」=“Yeah. Unforgettable ones.”
+「この思い出に浸ったまま、今日は帰ろうか」=“Let's go home while savouring them, alright?”

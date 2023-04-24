@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「[H名]！　ごめん、もしかして結構待たせちゃった？」=
-//「何を言っておる。お主も待ち合わせ時間に間に合っておるじゃろ、気にするでない」=
-//「ははっ、ありがとう」=
-//「それじゃあさっそく行こうか」=
+「[H名]！　ごめん、もしかして結構待たせちゃった？」=“[H名]! Sorry, did I make you wait? Probably, didn't I?”
+「何を言っておる。お主も待ち合わせ時間に間に合っておるじゃろ、気にするでない」=“What are you saying? You are just in time yourself. Pay it no heed.”
+「ははっ、ありがとう」=“Haha--, thanks.”
+「それじゃあさっそく行こうか」=“Let's go then.”

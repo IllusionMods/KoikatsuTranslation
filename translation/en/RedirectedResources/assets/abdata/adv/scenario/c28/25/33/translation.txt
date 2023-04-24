@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「ちょっと期待外れなのじゃ。次はちゃんと選ぶのじゃぞ」=
+「ちょっと期待外れなのじゃ。次はちゃんと選ぶのじゃぞ」=“It is a bit of a let-down. You must pick better next time.”

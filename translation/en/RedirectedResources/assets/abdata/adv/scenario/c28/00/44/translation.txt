@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「へえ、色々あるんだね」=
-//「今はこういう物が流行っておるのか。この店に入ってもよいか？」=
-//「うん、いいよ」=
-//「おごってくれてありがとうなのじゃ。感謝しておるぞ」=
-//（よかった、喜んでもらえたみたいだ）=
+「へえ、色々あるんだね」=“Hoh, there's all sorts, huh?”
+「今はこういう物が流行っておるのか。この店に入ってもよいか？」=“So this is what's popular with people these days, is it? Do you mind if we go in here?”
+「うん、いいよ」=“Sure, let's go.”
+「おごってくれてありがとうなのじゃ。感謝しておるぞ」=“Thank you, for buying it for me. I am grateful.”
+（よかった、喜んでもらえたみたいだ）=(Great, looks like she enjoyed it.)

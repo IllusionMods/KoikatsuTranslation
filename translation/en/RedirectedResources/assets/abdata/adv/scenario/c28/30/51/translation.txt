@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「……えっ？　お、終わってしまったのか？　わしはもう少ししてほしいのじゃ」=
+「……えっ？　お、終わってしまったのか？　わしはもう少ししてほしいのじゃ」=“...Eh--? I-Is it over? I would like a bit more myself.”

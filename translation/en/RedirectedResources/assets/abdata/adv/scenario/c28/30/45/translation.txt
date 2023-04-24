@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「……は、初めてがお主とで……よかったのじゃ」=
+「……は、初めてがお主とで……よかったのじゃ」=“...I-I am glad that... you were my first.”

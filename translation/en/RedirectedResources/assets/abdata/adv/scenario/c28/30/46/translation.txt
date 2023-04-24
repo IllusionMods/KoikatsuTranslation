@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「……気持ちよかったか？　……まだ不慣れでどうすればよいかわからないのじゃ」=
-//「気持ちよかったよ」=
-//「そうか。ならばよいのじゃ」=
+「……気持ちよかったか？　……まだ不慣れでどうすればよいかわからないのじゃ」=“...Did it feel good? ...I am still not used to this, so I do not yet comprehend what would be correct to do.”
+「気持ちよかったよ」=“It felt great, don't worry.”
+「そうか。ならばよいのじゃ」=“I see. That's good then.”

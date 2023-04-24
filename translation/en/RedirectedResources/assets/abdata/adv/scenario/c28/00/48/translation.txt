@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「すごくよかったのじゃ。お主もそうであろう？　ならば、またしたいのじゃ」=
+「すごくよかったのじゃ。お主もそうであろう？　ならば、またしたいのじゃ」=“That was amazing. It was for you as well, no? Let us do it again sometime then, I sure do want to myself.”

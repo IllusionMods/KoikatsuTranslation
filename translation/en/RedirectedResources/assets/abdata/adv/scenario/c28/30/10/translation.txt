@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「お主がやっている珍妙な部活じゃな。わしも、ちと興味があってな」=
-//「ち、珍妙って……確かに珍しいとは思うけど、おかしい部活ではないよ？」=
-//「ほう……して、どのような部活なのじゃ？　お主と話せばよいだけなのか？」=
-//「まあ、それもあるんだけど、あとはスキンシップとかかな」=
-//「スキンシップじゃと？　それは……お主と、ということか？」=
-//「もちろん、無理にとは言わないけど……キミさえよければ、どうかな？」=
-//「……まぁ、わしもやぶさかではないが。お主がそう言うのであれば……喜んで入るのじゃ」=
+「お主がやっている珍妙な部活じゃな。わしも、ちと興味があってな」=“The peculiar club you seem to be managing. I have, a slight interest in it as well.”
+「ち、珍妙って……確かに珍しいとは思うけど、おかしい部活ではないよ？」=“P-Peculiar... I mean, it's certainly unusal but, it's not anything 'weird', you know?”
+「ほう……して、どのような部活なのじゃ？　お主と話せばよいだけなのか？」=“Hoh... what sort of a club is it then, pray tell? Do we just talk with you, is that all?”
+「まあ、それもあるんだけど、あとはスキンシップとかかな」=“Well, there is a fair bit of talking, but some skinship and stuff as well.”
+「スキンシップじゃと？　それは……お主と、ということか？」=“Skinship, you say? ...With you, you mean?”
+「もちろん、無理にとは言わないけど……キミさえよければ、どうかな？」=“Of course, you don't need to force yourself... but if you're game, maybe?”
+「……まぁ、わしもやぶさかではないが。お主がそう言うのであれば……喜んで入るのじゃ」=“...Well, I suppose I am willing as well. If you desire it so... then I shall join gladly.”

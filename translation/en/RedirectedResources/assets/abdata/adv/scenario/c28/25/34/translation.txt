@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「ありがとうなのじゃ。お主の気持ちに感謝するぞ」=
+「ありがとうなのじゃ。お主の気持ちに感謝するぞ」=“Thank you. I appreciate the thought.”

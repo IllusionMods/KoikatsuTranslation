@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「うむ、よいぞ。男子と下校するのは滅多にないことじゃな」=
-//「なんだか緊張するけどね」=
-//「そうじゃな。少し……ほんの少しだけどきどきするのじゃ」=
+「うむ、よいぞ。男子と下校するのは滅多にないことじゃな」=“Umu, very well. It is not often one gets the chance to walk home with a boy.”
+「なんだか緊張するけどね」=“It does do a number on your nerves though, doesn't it?”
+「そうじゃな。少し……ほんの少しだけどきどきするのじゃ」=“Indeed. I feel... my heart pounding, if only just a bit.”

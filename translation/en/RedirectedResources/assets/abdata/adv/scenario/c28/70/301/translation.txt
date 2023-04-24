@@ -1,24 +1,24 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「お主はカラオケにはよく来るのか？」=
-//「俺は結構来るよ」=
-//「そうなのか……」=
-//「こういう時、どんな歌を歌えばお主が喜ぶのかわからんのう」=
-//「どんな歌でも大丈夫だよ。[H名]の好きな歌を歌って欲しいから」=
-//「わしはあまり最近の歌がわからんのじゃ……」=
-//「そうか……これとかは？　最近テレビでも良く流れてるし」=
-//「なんという曲じゃ？」=
-//「青空アドベンチャー」=
-//「おぉ！　わしもその曲なら知っておる！」=
-//「本当？　俺この曲好きだから、歌って欲しいな」=
-//「うむ……お主がそう言うなら、緊張するけど歌ってみるのじゃ」=
-//「やった！　それじゃあ入れるよ」=
-//『小さな手の平 掴める物は きっと限られているけど～♪』=
-//（演歌みたいだけど上手だな……[H名]らしい）=
+「お主はカラオケにはよく来るのか？」=Do you come often, to Karaoke?
+「俺は結構来るよ」=Yeah, a fair bit.
+「そうなのか……」=Is that so...
+「こういう時、どんな歌を歌えばお主が喜ぶのかわからんのう」=It is not an easy thing to divine, exactly what sort of songs would please your ears.
+「どんな歌でも大丈夫だよ。[H名]の好きな歌を歌って欲しいから」=Any song is fine. I want you to sing the stuff you like, [H名].
+「わしはあまり最近の歌がわからんのじゃ……」=My knowledge of contemporary music is fairly lacking...
+「そうか……これとかは？　最近テレビでも良く流れてるし」=Is that so... what about this? They've been playing it a lot on TV recently too.
+「なんという曲じゃ？」=What is it called?
+「青空アドベンチャー」=Blue Sky Adventure.
+「おぉ！　わしもその曲なら知っておる！」=Ooh! Even I am aware of that one!
+「本当？　俺この曲好きだから、歌って欲しいな」=Really? I love this song so, I'd love to hear you sing it.
+「うむ……お主がそう言うなら、緊張するけど歌ってみるのじゃ」=Umu... if that is how you feel, I shall power through my nervousness and do just that for you.
+「やった！　それじゃあ入れるよ」=Yay! I'mma put it in then.
+『小さな手の平 掴める物は きっと限られているけど～♪』=『This small hand, the things it can grasp, they are surely limited, but--』
+（演歌みたいだけど上手だな……[H名]らしい）=(It's kinda like enka but it's really nice... it's so like her.)
 ………………=.........
 …………=......
 ……=...
-//「……どうじゃった？」=
-//「すっごく上手だったよ！」=
-//「そうかのう……そう言ってもらえると嬉しいのじゃ」=
+「……どうじゃった？」=...How was it?
+「すっごく上手だったよ！」=You were amazing!
+「そうかのう……そう言ってもらえると嬉しいのじゃ」=You think so?... That does make me happy.

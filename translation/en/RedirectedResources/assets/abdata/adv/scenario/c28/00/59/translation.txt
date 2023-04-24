@@ -1,5 +1,5 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「今日はすごく楽しかったのじゃ！」=
-//「次はどこに行くか考えておくのじゃぞ。そのときは、かの……いや、何でもないのじゃ」=
+「今日はすごく楽しかったのじゃ！」=“Today was a lot of fun!”
+「次はどこに行くか考えておくのじゃぞ。そのときは、かの……いや、何でもないのじゃ」=“You must start planning for our next date already. As by that time, I shall be your gir... no, it is nothing, pay it no mind.”

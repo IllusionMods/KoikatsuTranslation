@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「う、うむ……よいぞ。そういう関係なのじゃからな」=
-//「そうだな。楽しみにしてるよ」=
-//「……わしも、楽しみなのじゃ。それで、わしをどこに連れていってくれるのかのう」=
+「う、うむ……よいぞ。そういう関係なのじゃからな」=“U-Umu... very well. That is the sort of relationship we have, afterall.”
+「そうだな。楽しみにしてるよ」=“Yeah. I'm looking forward to it.”
+「……わしも、楽しみなのじゃ。それで、わしをどこに連れていってくれるのかのう」=“...I as well. So then, I wonder where exactly you are going to ferry me to~”

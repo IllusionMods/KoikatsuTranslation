@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「あー、お腹一杯だね」=
-//「そうじゃのう。たくさん食べたのじゃ」=
-//「随分長居しちゃったし、そろそろ出ようか？」=
-//「うむ、そうしようかのう。もうこんな時間になっておったとは、気付かなかったのじゃ」=
-//「こうしてご飯を食べて話をしただけなのに、好きな人と一緒だと楽しいものじゃな」=
-//「俺も今同じこと考えてたよ。以心伝心で嬉しいな」=
+「あー、お腹一杯だね」=Aah~, I'm stuffed.
+「そうじゃのう。たくさん食べたのじゃ」=Indeed. We did eat a lot.
+「随分長居しちゃったし、そろそろ出ようか？」=We've stayed for pretty long already, shall we head out?
+「うむ、そうしようかのう。もうこんな時間になっておったとは、気付かなかったのじゃ」=Umu. Let us do that. I did not realize just how late it had gotten.
+「こうしてご飯を食べて話をしただけなのに、好きな人と一緒だと楽しいものじゃな」=Even though we were simply chatting while enjoying our meals, the partner being the one you love changes quite a bit, huh?
+「俺も今同じこと考えてたよ。以心伝心で嬉しいな」=I was just thinking the same thing. We really are in sync, aren't we?

@@ -1,17 +1,17 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「たくさん歌ったのう！　そろそろ時間みたいじゃ」=
-//CHOICE:『もう少し延長して歌ってかない？』=
-//CHOICE:『帰ろうか』=
-//「もう少し延長して歌ってかない？　まだ歌いたい歌とかあるし」=
-//「そうじゃのう。わしもまだ少し歌い足りないと思ってたのじゃ」=
-//「よしっ、それじゃあ延長するね」=
-//「結構歌ったし、延長はせずに出ようか」=
-//「うむ。カラオケというのはすっきりするもんじゃな！」=
-//「そうだね！　たまにはこうして大声で歌うのもいいよね」=
-//「それじゃあ帰る仕度を……あっ、でもあと一曲なら歌える時間あるよ」=
-//「せっかくだし、何か歌ったら？」=
-//「そうか？　じゃあ……これを歌うのじゃ！」=
-//『小さな手の平 掴める物は きっと限られているけど～♪』=
-//「Ｆｕ、Ｆｕ～♪」=
+「たくさん歌ったのう！　そろそろ時間みたいじゃ」=We sure sang a lot! Seems that our time is almost up.
+CHOICE:『もう少し延長して歌ってかない？』=Wanna extend it a bit and sing a bit more?
+CHOICE:『帰ろうか』=Let's go home.
+「もう少し延長して歌ってかない？　まだ歌いたい歌とかあるし」=Wanna extend it a bit and sing a bit more? I've still got songs I wanna sing.
+「そうじゃのう。わしもまだ少し歌い足りないと思ってたのじゃ」=Indeed. I still felt a slight bit unfulfilled myself.
+「よしっ、それじゃあ延長するね」=Alright--, I'mma put in the call then.
+「結構歌ったし、延長はせずに出ようか」=We've sung a fair bit, let's not extend it anymore and go.
+「うむ。カラオケというのはすっきりするもんじゃな！」=Umu. Karaoke is something you should only leave once you have truly satisfied your heart!
+「そうだね！　たまにはこうして大声で歌うのもいいよね」=Yeah! Sometimes going all out singing like this is pretty nice too.
+「それじゃあ帰る仕度を……あっ、でもあと一曲なら歌える時間あるよ」=Well then, let's get our stuff and... ah--, there's still enough time for one more song on the clock.
+「せっかくだし、何か歌ったら？」=Why don't you take the last song? We came all the way here, we might as well use up our slot.
+「そうか？　じゃあ……これを歌うのじゃ！」=Are you sure? Well then... I shall sing this!
+『小さな手の平 掴める物は きっと限られているけど～♪』=『This small hand, the things it can grasp, they are surely limited, but--』
+「Ｆｕ、Ｆｕ～♪」=Fuh, fuh~♪

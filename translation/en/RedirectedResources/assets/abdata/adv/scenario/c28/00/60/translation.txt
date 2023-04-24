@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「今日はありがとうなのじゃ。また付き合ってあげてもいいのじゃ。では、またな」=
+「今日はありがとうなのじゃ。また付き合ってあげてもいいのじゃ。では、またな」=“Thanks for today. I would not mind keeping you company again. See you then.”

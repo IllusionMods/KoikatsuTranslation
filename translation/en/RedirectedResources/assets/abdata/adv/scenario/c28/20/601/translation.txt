@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「初めて来たが、なんだかすごいところじゃのう……」=
-//「緊張してる？」=
-//「……少しだけ緊張しておる」=
-//「そんな[H名]もカワイイ」=
-//「……むぅ、からかいおって……優しくするんじゃぞ？」=
-//「大丈夫だよ。任せて」=
+「初めて来たが、なんだかすごいところじゃのう……」=“It is my first time here, but it sure is quite the place...”
+「緊張してる？」=“You nervous?”
+「……少しだけ緊張しておる」=“...A small bit.”
+「そんな[H名]もカワイイ」=“You're cute that way too.”
+「……むぅ、からかいおって……優しくするんじゃぞ？」=“...Muh, teasing me... you must be gentle, you understand?”
+「大丈夫だよ。任せて」=“Don't worry. Trust me.”

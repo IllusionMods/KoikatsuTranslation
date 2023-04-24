@@ -1,19 +1,19 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「わっ、だんだんと混んで来たね……少し詰めてくれる？」=
-//「う、うむ……こうも距離が近いと、落ち着かんの……」=
-//「もっと余裕があればいいんだけど……うぉっ」=
-//（やばい……[H名]とくっつき過ぎて身体が反応する！）=
-//CHOICE:『欲望に少し抵抗する』=
-//CHOICE:『鉄の自制心を持って抵抗する』=
-//（で、電車の中で勃たせるわけには……俺なら、己が欲望に抵抗できるはずっ！）=
-//（……やっぱ無理！　せ、せめて[H名]に気づかれないようにしないと――）=
-//「お主のが……当たっておるぞ」=
-//「ごめん……でもこの状況だと……どうにもならなくて」=
-//「仕方ないのう……わしが落ち着かせてあげるのじゃ…………」=
-//「うっ……そんなことしたら落ち着くどころじゃなくなるって……」=
-//「……射精すればよかろう。わしに任せるのじゃ…………」=
-//（いや、こんな所で勃起なんて、絶対するわけにはいかないっ！）=
-//（うぅ……耐え難い誘惑だけど……我慢我慢）=
-//（少しの間堪えれば……俺の自制心、壊れてくれるなよ……）=
+「わっ、だんだんと混んで来たね……少し詰めてくれる？」=Wah--, it's starting to get pretty packed, huh... could I squeeze in a bit?
+「う、うむ……こうも距離が近いと、落ち着かんの……」=U-Umu... with us this close, I cannot calm down...
+「もっと余裕があればいいんだけど……うぉっ」=If only we had some more space to work with... uwoh--
+（やばい……[H名]とくっつき過ぎて身体が反応する！）=(Damn... we're so close together my body's reacting!)
+CHOICE:『欲望に少し抵抗する』=Resist your desires a little bit.
+CHOICE:『鉄の自制心を持って抵抗する』=Brandish your iron will and resist.
+（で、電車の中で勃たせるわけには……俺なら、己が欲望に抵抗できるはずっ！）=(P-Popping a chub on a train would be... I should be able to, no, I can resist this much temptation--!)
+（……やっぱ無理！　せ、せめて[H名]に気づかれないようにしないと――）=(...It's no use afterall! I-I gotta atleast make sure she doesn't notice--)
+「お主のが……当たっておるぞ」=Your... rod is poking into me.
+「ごめん……でもこの状況だと……どうにもならなくて」=Sorry... but in this situation... I just can't help it.
+「仕方ないのう……わしが落ち着かせてあげるのじゃ…………」=I suppose it cannot be helped... I shall calm it down...
+「うっ……そんなことしたら落ち着くどころじゃなくなるって……」=Uu--... that's gonna do everything except calm it down...
+「……射精すればよかろう。わしに任せるのじゃ…………」=...Ejaculating once should take care of it. Leave it to me...
+（いや、こんな所で勃起なんて、絶対するわけにはいかないっ！）=(No, I definitely can't get an erection, not in this situation--!)
+（うぅ……耐え難い誘惑だけど……我慢我慢）=(Uuu... what alluring temptation indeed... but I gotta endure, endure.)
+（少しの間堪えれば……俺の自制心、壊れてくれるなよ……）=(I just need to hold out for a bit... don't break, my self-control...)

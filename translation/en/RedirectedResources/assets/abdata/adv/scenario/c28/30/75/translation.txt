@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「それじゃあ、続いてダッシュ十本ね」=
-//「……ま、まだ走り込むつもりでおるのか？」=
-//「どんな運動も基本は走り込むことだからな」=
-//「……わしはその前に休憩したいのじゃ～」=
+「それじゃあ、続いてダッシュ十本ね」=“Well then, next up, we're gonna do a set of 10 dashes.”
+「……ま、まだ走り込むつもりでおるのか？」=“...T-There's yet more sprinting still?”
+「どんな運動も基本は走り込むことだからな」=“It is the base of basically all exercise routines, afterall.”
+「……わしはその前に休憩したいのじゃ～」=“...I would like a break first~”

@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「お主は苦手なものはあるのか？」=
-//「いやぁ、特にこれってものはないかなー」=
-//「だったらわしが苦手なもの食べてくれぬか？　あとでこっそり」=
-//「あはは。いいよ。俺の皿に置いといて」=
+「お主は苦手なものはあるのか？」=“Are there any things you do not like to eat in particular?”
+「いやぁ、特にこれってものはないかなー」=“Not really~, nothing I can point to specifically anyway, I'd say?”
+「だったらわしが苦手なもの食べてくれぬか？　あとでこっそり」=“Won't you eat the things I do not like for me then? Secretly, when nobody is looking.”
+「あはは。いいよ。俺の皿に置いといて」=“Ahahah, sure. Just push it onto my plate.”

@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「あっ……ありがとう」=
-//「あんな状態のお主を放っておけなかったのじゃ」=
-//「気持ち……よかったかのう？」=
-//「あぁ……すっごく気持ちよかった」=
+「あっ……ありがとう」=“Ah--... thanks.”
+「あんな状態のお主を放っておけなかったのじゃ」=“I couldn't just leave you that way.”
+「気持ち……よかったかのう？」=“Did it... feel good?”
+「あぁ……すっごく気持ちよかった」=“Yeah... it felt amazing.”

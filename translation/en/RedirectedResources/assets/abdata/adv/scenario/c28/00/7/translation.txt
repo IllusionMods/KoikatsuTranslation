@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「なっ！？　きゅ、急に何を言い出すのじゃ！　驚くではないか！」=
-//「びっくりさせるつもりはないんだ。本当の気持ちだよ」=
-//「わ、わしのことをそんな……ほ、本当に本当か？」=
-//「ああ。俺はきみのことが好きだ。付き合ってほしい」=
-//「……わしも、お主のことが好きなのじゃ。わしでいいなら、付き合ってやってもよいぞ？」=
-//「本当かい？　よかった……改めて、これからもよろしくね」=
+「なっ！？　きゅ、急に何を言い出すのじゃ！　驚くではないか！」=“Wha--?! W-What are you saying, so abruptly! It is quite startling, you realize!”
+「びっくりさせるつもりはないんだ。本当の気持ちだよ」=“I didn't mean to do that. It's just how I feel.”
+「わ、わしのことをそんな……ほ、本当に本当か？」=“Y-You cannot possibly... d-do you seriously mean it?”
+「ああ。俺はきみのことが好きだ。付き合ってほしい」=“Yeah. I love you. Go out with me.”
+「……わしも、お主のことが好きなのじゃ。わしでいいなら、付き合ってやってもよいぞ？」=“...I am in love with you as well. If you will truly have me, I do not mind, you know?”
+「本当かい？　よかった……改めて、これからもよろしくね」=“Really? Great... alright, we're a couple then.”

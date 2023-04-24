@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「こんなに気持ちいいとは思わなかったのじゃ。……また３人でというのも悪くないかもしれん」=
+「こんなに気持ちいいとは思わなかったのじゃ。……また３人でというのも悪くないかもしれん」=“I never thought it would feel that good. ...Doing that again sometime may not be so bad.”

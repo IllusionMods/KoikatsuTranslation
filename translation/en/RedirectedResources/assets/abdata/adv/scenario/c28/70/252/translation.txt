@@ -1,19 +1,19 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「わっ、だんだんと混んで来たね……少し詰めてくれる？」=
-//「う、うむ……こうも距離が近いと、落ち着かんの……」=
-//「もっと余裕があればいいんだけど……うぉっ」=
-//（こ、股間が[H名]にあたって……うっ、気持ちいい……）=
-//CHOICE:『欲望に身を任せる』=
-//CHOICE:『鉄の自制心で堪える』=
-//（本当は、我慢しなきゃいけないけど……でも、俺には無理だ……）=
-//「ちょ、お主……どうして大きくしておるのじゃ……」=
-//「それは……気持ちいいから、です……」=
-//「……あのさ、もし[H名]が許してくれるなら、エッチしたいんだけど……」=
-//「のじゃっ……！？　お主、本気で言っておるのか……？」=
-//「悪いとは思ってるけど……ごめん、我慢できなく……」=
-//「うぅ……仕方のないやつじゃ……」=
-//（だ、駄目だ！　欲望に流されちゃ！）=
-//（ここで流されたら、せっかくのデートが台無しになるぞ！）=
-//（我慢……我慢だ俺！　しばらくの辛抱だ……！）=
+「わっ、だんだんと混んで来たね……少し詰めてくれる？」=Wah--, it's starting to get pretty packed, huh... could I squeeze in a bit?
+「う、うむ……こうも距離が近いと、落ち着かんの……」=U-Umu... with us this close, I cannot calm down...
+「もっと余裕があればいいんだけど……うぉっ」=If only we had some more space to work with... uwoh--
+（こ、股間が[H名]にあたって……うっ、気持ちいい……）=(M-My crotch is poking into her... uuu--, feels so good...)
+CHOICE:『欲望に身を任せる』=Give in to your desires.
+CHOICE:『鉄の自制心で堪える』=Bear it with your iron will.
+（本当は、我慢しなきゃいけないけど……でも、俺には無理だ……）=(I gotta hold it in here, I gotta... but, I'm too weak...)
+「ちょ、お主……どうして大きくしておるのじゃ……」=Wha, you... why are you getting bigger...
+「それは……気持ちいいから、です……」=That's... because it feels good...
+「……あのさ、もし[H名]が許してくれるなら、エッチしたいんだけど……」=...Listen, if you wouldn't utterly hate me for it, I want to have sex here...
+「のじゃっ……！？　お主、本気で言っておるのか……？」=Wha--...?! Are you being serious right now...?
+「悪いとは思ってるけど……ごめん、我慢できなく……」=I do feel bad about it but... sorry, I just can't hold it in...
+「うぅ……仕方のないやつじゃ……」=Uuu... there really is no helping you...
+（だ、駄目だ！　欲望に流されちゃ！）=(I-I can't! No getting carried away by my horniness!)
+（ここで流されたら、せっかくのデートが台無しになるぞ！）=(If I do, all that effort today would amount to nothing!)
+（我慢……我慢だ俺！　しばらくの辛抱だ……！）=(Endure... I'm gonna endure! It's only temporary...!)
