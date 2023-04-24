@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「うん、恋人になってからもこういう気配りができるって素敵だと思うわ。お返ししなくちゃね」=
+「うん、恋人になってからもこういう気配りができるって素敵だと思うわ。お返ししなくちゃね」=“Yep, I think it's wonderful that you're still putting so much care into things even now, now that we're a couple. I'll have to make it up to you.”

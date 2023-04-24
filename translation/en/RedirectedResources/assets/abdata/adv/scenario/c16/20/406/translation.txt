@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「うわ、外が暗くなってきてる。かなり話し込んじゃったみたいだね」=
-//「そうね、そろそろ出ないと、お店の迷惑になりそうだわ」=
-//「うん、じゃあ俺が先に会計してきちゃうね」=
-//「ええ、お願いするわ。後で私の分は払うから」=
-//「いいって、いつもお世話になってる分、ここは俺が奢るよ」=
-//「んぅ……男の人にそう言われたら、素直に引き下がる方がいいとは聞いたけど……本当にいいの？」=
-//「うん、その噂通りだよ。男が奢るって言った時は、一言お礼だけくれれば十分！」=
+「うわ、外が暗くなってきてる。かなり話し込んじゃったみたいだね」=“Uwah, it's starting to get really dark outside. Seems like we really got into our chat.”
+「そうね、そろそろ出ないと、お店の迷惑になりそうだわ」=“Yeah, we should head out soon, we wouldn't want to keep holding this table.”
+「うん、じゃあ俺が先に会計してきちゃうね」=“Yep, I'll go ahead and settle the bill first then.”
+「ええ、お願いするわ。後で私の分は払うから」=“Yes, please do. I'll pay you my share after.”
+「いいって、いつもお世話になってる分、ここは俺が奢るよ」=“It's fine, you're always helping me out, let me treat you for once.”
+「んぅ……男の人にそう言われたら、素直に引き下がる方がいいとは聞いたけど……本当にいいの？」=“Nnn... I've heard before that if a man offers that, I should just obediently accept but... are you really sure?”
+「うん、その噂通りだよ。男が奢るって言った時は、一言お礼だけくれれば十分！」=“Yep, you heard correct. When a guy says he's gonna treat you, just saying thanks is more than enough!”

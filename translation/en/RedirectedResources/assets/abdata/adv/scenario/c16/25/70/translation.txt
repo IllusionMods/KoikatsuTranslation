@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「ねぇ、ここわかる？　これって絶対、問題がおかしいわよね？」=
-//「あ、それね。この前先生に聞いたら……って、ち、近いよ？　皆見てるから……」=
-//「えっ？　あっ！　ご、ごめんなさい！　私……つい夢中になって……うぅ、ほんとに、ごめんね」=
-//「はは、そんなに謝らなくていいって。皆もきみが真面目なの知ってるしさ。大丈夫だよ」=
+「ねぇ、ここわかる？　これって絶対、問題がおかしいわよね？」=“Hey, you get this one? It's not me, is it? Surely this question's just broken?”
+「あ、それね。この前先生に聞いたら……って、ち、近いよ？　皆見てるから……」=“Ah, that one. I asked the teacher last time and... wuh, y-you're pretty close, you know? Everyone's looking...”
+「えっ？　あっ！　ご、ごめんなさい！　私……つい夢中になって……うぅ、ほんとに、ごめんね」=“Eh--? Ah--! I-I'm sorry! I... always get lost in things... uuu, I really am sorry.”
+「はは、そんなに謝らなくていいって。皆もきみが真面目なの知ってるしさ。大丈夫だよ」=“Hahah, you don't need to apologize that much. Everyone knows you're just serious about this stuff too. So don't worry.”

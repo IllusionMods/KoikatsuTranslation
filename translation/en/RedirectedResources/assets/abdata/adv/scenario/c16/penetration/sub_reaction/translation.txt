@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「何よ、邪魔するだけならさっさと出ていってほしいんだけど」=
+「何よ、邪魔するだけならさっさと出ていってほしいんだけど」=“What? If you're just going to get in the way, could you leave?”

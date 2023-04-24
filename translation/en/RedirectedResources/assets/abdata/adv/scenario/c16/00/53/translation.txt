@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「えっ、もういいの？　イッてない……わよね？　調子が悪いなら、少し休憩してからでもいいからね」=
+「えっ、もういいの？　イッてない……わよね？　調子が悪いなら、少し休憩してからでもいいからね」=“Eh--, already? You haven't... cum, right? If you just don't feel good, we can take a break for now and get back into it later too, okay?”

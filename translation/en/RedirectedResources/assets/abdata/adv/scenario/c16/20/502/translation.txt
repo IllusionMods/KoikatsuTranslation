@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「お待たせ[H名]。喉乾いてるかなと思って、飲み物買ってきた」=
-//「暑いから、とりあえずスポーツドリンクにしたけど、良かったかな？」=
-//「大丈夫よ、ありがとう。ちなみに、運動した後はミルクを飲むといいのよ。回復と体づくり、両方に効果があるわ」=
-//「へぇ、そうなんだ。じゃあ、デートの後はミルクを買って、二人で飲もうか」=
+「お待たせ[H名]。喉乾いてるかなと思って、飲み物買ってきた」=“Sorry for the wait, [H名]. I thought you'd have gotten pretty thirsty, so I brought you a drink.”
+「暑いから、とりあえずスポーツドリンクにしたけど、良かったかな？」=“It's hot so, I got a regular old energy drink but, should I have gone with something else?”
+「大丈夫よ、ありがとう。ちなみに、運動した後はミルクを飲むといいのよ。回復と体づくり、両方に効果があるわ」=“No, it's fine, thanks. By the way, you should consume milk after exercise, rather than anything else. It helps with both recovery and muscle repair.”
+「へぇ、そうなんだ。じゃあ、デートの後はミルクを買って、二人で飲もうか」=“Hoh, I see. Then, let's buy milk together at the end of our date and drink it together.”

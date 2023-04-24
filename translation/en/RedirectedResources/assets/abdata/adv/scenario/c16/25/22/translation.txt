@@ -1,5 +1,5 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「家庭科でサラダを作ったのよ。少し取り分けてきたから、よかったらどう？」=
-//「旬の野菜を使っているから、味はいいと思うのだけど。食べたら感想を聞かせてね」=
+「家庭科でサラダを作ったのよ。少し取り分けてきたから、よかったらどう？」=“I made salad at home ec. I saved a share so, how about trying it?”
+「旬の野菜を使っているから、味はいいと思うのだけど。食べたら感想を聞かせてね」=“I only used seasonal vegetables so, it tastes pretty nice, in my opinion. Let me know how you like it later, okay?”

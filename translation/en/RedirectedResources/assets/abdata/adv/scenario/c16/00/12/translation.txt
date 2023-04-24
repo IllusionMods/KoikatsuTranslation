@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「あっ、うっ……えっと、ごめんなさい……」=
-//「ダメかな？　俺、本気で[H]の事好きだよ」=
-//「あっ、違っ、するのは……いいの。ただちょっと、いざってなったら息が詰まってしまって……」=
-//「私ね、初めてなのよ……できるだけ優しくしてくれると……嬉しい……な……」=
+「あっ、うっ……えっと、ごめんなさい……」=“Ah--, uu--... ehm... sorry...”
+「ダメかな？　俺、本気で[H]の事好きだよ」=“Is it really not possible? I really do love you, [H].”
+「あっ、違っ、するのは……いいの。ただちょっと、いざってなったら息が詰まってしまって……」=“Ah--, that's no--, I mean that... yes, yes I want to. I'm just, having trouble breathing here...”
+「私ね、初めてなのよ……できるだけ優しくしてくれると……嬉しい……な……」=“I'm a virgin, you know?... I hope you'll... be gentle... with me...”

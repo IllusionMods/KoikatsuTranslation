@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「[H姓]さん、今大丈夫？　その、出来れば話したいなって」=
-//「ふぅん、噂通りね。そうして色々な女の子に声をかけて回っているわけ？」=
-//「あー、まぁそうなんだけど。ごめん、気分悪くさせちゃってたかな？」=
-//「何故謝るの？　私は事実を言っただけ。そこに特別な感情を込めたつもりはないわ」=
-//「そっか、ごめん。俺の勘違い。じゃあその、話を続けてもいいかな？」=
+「[H姓]さん、今大丈夫？　その、出来れば話したいなって」=“[H姓]-san, is now a good time? I uhm, I'd like to chat with you, if possible.”
+「ふぅん、噂通りね。そうして色々な女の子に声をかけて回っているわけ？」=“Fuhn~, exactly as the rumours said. Going around calling to all the different girls here, are you?”
+「あー、まぁそうなんだけど。ごめん、気分悪くさせちゃってたかな？」=“Aah, well I guess so. Sorry, I take it it rubbed you the wrong way?”
+「何故謝るの？　私は事実を言っただけ。そこに特別な感情を込めたつもりはないわ」=“Why're you apologizing? I just stated the reality of things. Wasn't my intent to put any special feelings in there.”
+「そっか、ごめん。俺の勘違い。じゃあその、話を続けてもいいかな？」=“I see, sorry. I misunderstood. So, mind if we have that chat?”

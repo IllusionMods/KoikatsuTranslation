@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「ぐぁっ！　砂が目に入った！」=
-//「えっ、大丈夫？　ほら、ちょっと見せて……」=
-//「あー、大丈夫だよ。涙と一緒に出ちゃうと思うし……」=
-//「だめよ。失明したらどうするの？　少しじっとしてて」=
-//「（うわぁ……[H姓]さんの汗の匂いで……頭クラクラしてきた……）」=
+「ぐぁっ！　砂が目に入った！」=“Guah--! There's sand in my eyes!”
+「えっ、大丈夫？　ほら、ちょっと見せて……」=“Eh--, you okay? C'mon, lemme take a look...”
+「あー、大丈夫だよ。涙と一緒に出ちゃうと思うし……」=“Aah, I'm fine. I think my tears flushed it out...”
+「だめよ。失明したらどうするの？　少しじっとしてて」=“Bad boy. What if your eyes go bad because of this? Stay still for a bit.”
+「（うわぁ……[H姓]さんの汗の匂いで……頭クラクラしてきた……）」=“(Uwah... the scent of her sweat... it's making my head spin...)”

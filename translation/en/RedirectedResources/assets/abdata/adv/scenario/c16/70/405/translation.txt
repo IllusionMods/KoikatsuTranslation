@@ -1,23 +1,23 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「こういう所のハンバーグってやっぱり冷凍食品なのかな？」=
-//「こら、そういう事を店内で言わないの。今の冷凍食品は凄いのよ？　普通に作るより、手間がかかってたりするんだから」=
-//「あー、たまに冷凍食品工場を見学みたいなやつテレビでやってるよね。俺、結構好きで見てるよ」=
-//「そういうもの見ているなら、何で冷凍食品を馬鹿にするような事を言ったのかしら？　ちょっと悲しくなるわ」=
-//「いやっ、それはっ……ただの好奇心だよ！　別に馬鹿にしようとしたわけじゃないんだ！」=
-//「んっ、じゃあ今回はそういう事にしておきましょ。同じミスはしないようにね？」=
-//「はい、善処します……」=
-//「もう、そんなに縮こまられたら、私が悪者みたいなじゃない。仲直りってわけじゃないけど……アレ、やってあげましょうか？」=
-//「アレってまさか……あーん？」=
-//「そうよ、わざとぼかしたのに。直接言われたら恥ずかしいでしょ……ほら、早く口を開けて」=
-//「やった！　[H名]のあーんだ、あ～～～ん」=
-//「声が大きいわよ……うぅ、悪目立ちしてるじゃない……」=
-//「はむっ、んく……アツっ！」=
-//「らいじょぶ、みんあそこまできにしてないお、アツ！」=
-//「あっ、ごめんなさい……ふーふーしてからあげれば良かったわね……」=
-//「んくっ、はぁっ……気にしないで、アツアツジューシーで美味しかったよ」=
-//「そう、ならよかった。ね？　私の言った通り、冷凍食品だって美味しいでしょ？」=
-//「うん、俺が間違ってた。冷凍食品最高！」=
-//「まったく現金なんだから。じゃあもう一口食べる？　今度はちゃんと、ふーふーしてあげる」=
-//「はは、そんなに食べたら[H名]のが無くなっちゃうよ。俺に気を使わず、自分で食べて」=
+「こういう所のハンバーグってやっぱり冷凍食品なのかな？」=You think the hamburg steaks they serve in places like these are just reheated from frozen?
+「こら、そういう事を店内で言わないの。今の冷凍食品は凄いのよ？　普通に作るより、手間がかかってたりするんだから」=Hey, don't ask stuff like that inside the restaurant. Frozen foods are pretty amazing these days, you know? It saves so much time over doing it normally too.
+「あー、たまに冷凍食品工場を見学みたいなやつテレビでやってるよね。俺、結構好きで見てるよ」=Aah, they sometimes air those tours of frozen food processing factories on TV sometimes, don't they? I really like watching those.
+「そういうもの見ているなら、何で冷凍食品を馬鹿にするような事を言ったのかしら？　ちょっと悲しくなるわ」=Then why'd you make fun of frozen foods just then? I feel quite saddened right now.
+「いやっ、それはっ……ただの好奇心だよ！　別に馬鹿にしようとしたわけじゃないんだ！」=No--, that's--... it was just curiosity! I wasn't trying to make fun of it or anything!
+「んっ、じゃあ今回はそういう事にしておきましょ。同じミスはしないようにね？」=Nn--, I suppose I'll let you off with that then, just this once. Don't make the same mistake twice, okay?
+「はい、善処します……」=Yes, I shall act with more prudence next time...
+「もう、そんなに縮こまられたら、私が悪者みたいなじゃない。仲直りってわけじゃないけど……アレ、やってあげましょうか？」=Jeez, don't curl up like that, now you're making me look like the bad person here. I mean, not that I'm trying to make it up for anything but... want me to, do that?
+「アレってまさか……あーん？」=That, you mean... aaahn?
+「そうよ、わざとぼかしたのに。直接言われたら恥ずかしいでしょ……ほら、早く口を開けて」=That's right, but why'd you go and say it directly, I hinted at it because it's embarrassing... c'mon, open your mouth for me.
+「やった！　[H名]のあーんだ、あ～～～ん」=Yay! [H名]'s gonna feed me, aaahn~
+「声が大きいわよ……うぅ、悪目立ちしてるじゃない……」=You're being too loud... uuu, now we stand out...
+「はむっ、んく……アツっ！」=*Bite*, nnkuh... so hot--!
+「らいじょぶ、みんあそこまできにしてないお、アツ！」=It's awright, nobody riari mindsh it that much, hot--!
+「あっ、ごめんなさい……ふーふーしてからあげれば良かったわね……」=Ah--, I'm sorry... I should have blown on it...
+「んくっ、はぁっ……気にしないで、アツアツジューシーで美味しかったよ」=Nnkuh--, haah--... don't mind it, it was delicious piping hot and juicy like that.
+「そう、ならよかった。ね？　私の言った通り、冷凍食品だって美味しいでしょ？」=I see, that's good then. Hey, just like I said, even frozen food is delicious, no?
+「うん、俺が間違ってた。冷凍食品最高！」=Yep, I was wrong. Frozen foods are the best!
+「まったく現金なんだから。じゃあもう一口食べる？　今度はちゃんと、ふーふーしてあげる」=Truly self-serving to the core. Want another bite then? This time I'll properly blow on it too.
+「はは、そんなに食べたら[H名]のが無くなっちゃうよ。俺に気を使わず、自分で食べて」=Hahah, you're gonna have nothing left to eat if I do. Don't mind me, just eat it.

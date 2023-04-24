@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「いい天気ね。ちょっと休憩していきましょうか」=
-//「いいね。あそこのベンチに座ろう」=
-//「フフッ、どうしたの？　もう少し近くに座ってもいいのよ？」=
+「いい天気ね。ちょっと休憩していきましょうか」=“Nice weather, isn't it? Shall we take a bit of a break?”
+「いいね。あそこのベンチに座ろう」=“Sounds nice. Let's go rest at that bench.”
+「フフッ、どうしたの？　もう少し近くに座ってもいいのよ？」=“Fufuh--, what's wrong? You can scoot a bit closer, you know?”

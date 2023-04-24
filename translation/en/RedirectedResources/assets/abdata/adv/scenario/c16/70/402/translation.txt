@@ -1,23 +1,23 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「[H名]……隣の人、さっきの注文の時、なんか呪文みたいな事言ってたけど……アレ何？」=
-//「ああ、普通にコーヒーを頼んだだけよ。サイズとかトッピングとか、色々注文を付けていたのね」=
-//「それってつまり……ニンニクマシマシとかそういう感じ？」=
-//「まぁ、やっている事は同じね。コーヒーの方が、かなり長文になる事が多いけど」=
-//「マジで何言ってるかわからなかったよ？　[H名]はわかった？」=
-//「ラ―ジノンファットミルクノンホイップチョコチップバニラクリームラテ……ね」=
-//「はぇ？　やばい……何回聞いてもわからない……ていうか、覚えてる[H名]が凄い……」=
-//「文法さえ覚えればあとは簡単よ。まずサイズを指定するの。さっきの人はラージ、大きい方から数えて二番目ね」=
-//「そこは何となくわかるけど……その後がちょっと……」=
-//「うーん、要約すると……甘いものが飲みたいけど、脂肪分はなるべく取りたくないって事よ」=
-//「甘いものは好きだけどダイエットにも気を使ってるみたいな？」=
-//「そう、その通り。細かい文法は、今度機会があったら教えてあげるわ」=
-//「よし、なんとか覚えて、[H名]と一緒に呪文を唱えられるようにするよ」=
-//「私はそこまでこだわって注文しないわよ？　一時期興味が湧いたから調べてみただけだもの」=
-//「えっ、そこは拘ろうよ。俺が覚える意味ないじゃん……」=
-//「だから、そもそも覚えなくてもいいのよ。ちょっとしたお洒落気分を楽しむためのものなんだから」=
-//「本当に通い慣れている人は案外『ブラック』の一言で終わったりするものよ。それはそれでカッコイイでしょ？」=
-//「確かに……でも気になるなぁ……一回呪文で注文してみたい」=
-//「そこまで言うなら、きちんと教えてあげるわ。頼んだものが来るまで、まだ時間がかかりそうだし」=
-//「やった！　[H名]先生、お願いします！」=
+「[H名]……隣の人、さっきの注文の時、なんか呪文みたいな事言ってたけど……アレ何？」=[H名]... the person on the next table, they kinda said a lot of spell-like gibberish when they placed their order... what was that about?
+「ああ、普通にコーヒーを頼んだだけよ。サイズとかトッピングとか、色々注文を付けていたのね」=Aah, it was just an order for a coffee. They really went all out, specifying the size, the topping, and all bunch of other stuff too.
+「それってつまり……ニンニクマシマシとかそういう感じ？」=So basically... like how you ask for extra toppings on a pizza?
+「まぁ、やっている事は同じね。コーヒーの方が、かなり長文になる事が多いけど」=Well, in principle, yes. But with coffee, the list can get quite long.
+「マジで何言ってるかわからなかったよ？　[H名]はわかった？」=I seriously didn't get what they were saying, you know? Did you catch it?
+「ラ―ジノンファットミルクノンホイップチョコチップバニラクリームラテ……ね」=「A large low-fat milk non whipped choco chip vanilla cream latte」... was it?
+「はぇ？　やばい……何回聞いてもわからない……ていうか、覚えてる[H名]が凄い……」=Haeh? Damn... I can't make sense of it no matter how many times I hear it... heck, you're amazing for remembering it...
+「文法さえ覚えればあとは簡単よ。まずサイズを指定するの。さっきの人はラージ、大きい方から数えて二番目ね」=Once you know your grammar, the rest is easy. You first go with the size. That person went with a large, the 2nd largest size this place serves.
+「そこは何となくわかるけど……その後がちょっと……」=I mean I got that much but... the bit after that...
+「うーん、要約すると……甘いものが飲みたいけど、脂肪分はなるべく取りたくないって事よ」=Nnnn, basically to sum it up... they wanted a sweet coffee, but with the least amount of fat possible.
+「甘いものは好きだけどダイエットにも気を使ってるみたいな？」=So the sort of person who loves sweet stuff but is trying to go lean?
+「そう、その通り。細かい文法は、今度機会があったら教えてあげるわ」=Yeah, exactly. As for the rest of the grammar, I'll teach it to you if we get another chance.
+「よし、なんとか覚えて、[H名]と一緒に呪文を唱えられるようにするよ」=Alright, I'll try to remember it, so that we can cast the spell together.
+「私はそこまでこだわって注文しないわよ？　一時期興味が湧いたから調べてみただけだもの」=I'm not the type to go that much in detail with my order, you know? I just got curious one time so I looked it up, that's all.
+「えっ、そこは拘ろうよ。俺が覚える意味ないじゃん……」=Eh--, why wouldn't you--? There's no point in me learning it like that...
+「だから、そもそも覚えなくてもいいのよ。ちょっとしたお洒落気分を楽しむためのものなんだから」=I told you, you don't really need to remember it. It's just something people do to make themselves feel a bit more trendy.
+「本当に通い慣れている人は案外『ブラック』の一言で終わったりするものよ。それはそれでカッコイイでしょ？」=People who actually travel a lot oftentimes just place their order by saying "black" and nothing else. Doesn't that sound pretty cool in its own way?
+「確かに……でも気になるなぁ……一回呪文で注文してみたい」=For sure... but I can't help it~... I wanna try ordering it like that once.
+「そこまで言うなら、きちんと教えてあげるわ。頼んだものが来るまで、まだ時間がかかりそうだし」=Well if you're sure then, I'll teach it to you properly. I mean it's not like our food's about to come out anytime soon.
+「やった！　[H名]先生、お願いします！」=Yay! Please guide me, [H名]-sensei!

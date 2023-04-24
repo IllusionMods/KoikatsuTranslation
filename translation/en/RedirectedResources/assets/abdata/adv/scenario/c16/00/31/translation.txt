@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「へ、へぇ……こういうのも……たまにはいいんじゃないかしらね……あはは」=
+「へ、へぇ……こういうのも……たまにはいいんじゃないかしらね……あはは」=“H-Hoh... something like this... I suppose it's fine, every so often... ahahah.”

@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「私……初めてなのに凄く幸せな気分。いえ、初めてだからかしらね。アナタはどうだった？」=
+「私……初めてなのに凄く幸せな気分。いえ、初めてだからかしらね。アナタはどうだった？」=“I... feel so happy right now, even though it was my first time. No, I suppose it's because it was my first time. How was it for you?”

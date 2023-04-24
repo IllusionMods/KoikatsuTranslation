@@ -1,5 +1,5 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「ふぅ、デートって大変なのね。でも新鮮で……何もかも全部楽しかった。本当にありがとう」=
-//「恋人になったら……また違うのかしら？　フフッ、次のお誘い、期待して待ってるわ」=
+「ふぅ、デートって大変なのね。でも新鮮で……何もかも全部楽しかった。本当にありがとう」=“Fuuh, dates aren't as easy as they look, huh? But it was so novel... I enjoyed just about everything. Thank you, really.”
+「恋人になったら……また違うのかしら？　フフッ、次のお誘い、期待して待ってるわ」=“If we become a couple... would it feel different? Fufuh--, I'll be waiting for you, to ask me out again soon.”

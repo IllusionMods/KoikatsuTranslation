@@ -1,23 +1,23 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「[H名]って喫茶店が似合うよね。将来はスーツを着て仕事してそう」=
-//「本当のノマドワーカーだったら、スーツは着ないんじゃないかしら。もっとラフな格好でいると思うけど」=
-//「ノマ？　なに？　窓枠の話？」=
-//「ノマドワーカーって言ったのよ。ノマドは英語で遊牧民、ワーカーは働く人。合わせてノマドワーカー」=
-//「ぇ？　遊牧民って喫茶店に来たりするの？」=
-//「プッ、違うわよ。特定のオフィスとかで働かずに、仕事場を自分で決めて自由に移動する人って意味。わかる？」=
-//「あぁ、それで遊牧民！　理解した！」=
-//「なら良かったわ。喫茶店が遊牧民の人達で溢れかえったら、大変そうですもの、プフッ」=
-//「ちょっと、笑い過ぎだよ？　俺は[H名]みたいに知識人じゃないんだから……」=
-//「ほら、拗ねないで？　アナタの言う通り、知らない方が普通なのかもしれないわ」=
-//「うぅ……結局上から見られてる気がする……」=
-//「そこは仕方ないでしょ？　知識量は私の方が上だったのだから」=
-//「それはそうだけど……なんか納得いかない……」=
-//「あらら、これは重症ね。どうしたら許してくれるのかしら？」=
-//「うぅ、ごめん……なんか変に意固地になってた。[H名]の方が、やっぱり大人だね」=
-//「私も煽るような事を言ったし、お互い様という事にしましょう？　ね？」=
-//「うん、そうしようか。折角デートしてるのに、喧嘩とかしたくないからね」=
-//「ええ、私も同感よ。ちょっとすれ違ってしまった分、この後たっぷりイチャイチャしましょっ♪」=
-//「賛成！　皆が引くくらい、イチャついちゃおう」=
-//「えぇっと……程々にね？　また変な方向にすれ違いそうだから……」=
+「[H名]って喫茶店が似合うよね。将来はスーツを着て仕事してそう」=You really fit the cafe vibe, you know, [H名]? I can just imagine you sitting there in a suit doing work.
+「本当のノマドワーカーだったら、スーツは着ないんじゃないかしら。もっとラフな格好でいると思うけど」=If I was a real digital nomad, I don't think I'd wear a suit really. I think I'd probably go with something more rough and casual.
+「ノマ？　なに？　窓枠の話？」=Digital what now?
+「ノマドワーカーって言ったのよ。ノマドは英語で遊牧民、ワーカーは働く人。合わせてノマドワーカー」=A digital nomad. Digital obviously meaning tech is involved, and nomad means drifter. A digital nomad.
+「ぇ？　遊牧民って喫茶店に来たりするの？」=Eh? And those people, work at cafes?
+「プッ、違うわよ。特定のオフィスとかで働かずに、仕事場を自分で決めて自由に移動する人って意味。わかる？」=Pfft--, not just cafes. They don't really work in one specific place, rather they're all about moving around from place to place, working from wherever they want to. You get it now?
+「あぁ、それで遊牧民！　理解した！」=Aah, and that's why they're nomads! I understand now!
+「なら良かったわ。喫茶店が遊牧民の人達で溢れかえったら、大変そうですもの、プフッ」=Good. If all the digital nomads out there started piling up in cafes, that's gonna get annoying real fast, fufuh--
+「ちょっと、笑い過ぎだよ？　俺は[H名]みたいに知識人じゃないんだから……」=Hey, aren't you laughing a bit too much? I mean, I'm not as smart as you so...
+「ほら、拗ねないで？　アナタの言う通り、知らない方が普通なのかもしれないわ」=C'mon, don't sulk? I mean, it may be just as you said, maybe not knowing about this is more normal.
+「うぅ……結局上から見られてる気がする……」=Uuu... I feel like either way I'm being looked down upon...
+「そこは仕方ないでしょ？　知識量は私の方が上だったのだから」=There's no helping that. If I know more than you then I know more than you.
+「それはそうだけど……なんか納得いかない……」=You're not wrong but... I can't say I'm fully on board with that logic...
+「あらら、これは重症ね。どうしたら許してくれるのかしら？」=Oh dearie, this is a serious case. What can I do to make you forgive me?
+「うぅ、ごめん……なんか変に意固地になってた。[H名]の方が、やっぱり大人だね」=Uu, sorry... I kinda started digging in there. You really are more mature than me.
+「私も煽るような事を言ったし、お互い様という事にしましょう？　ね？」=I didn't exactly help it either so, let's just call it even? Hm?
+「うん、そうしようか。折角デートしてるのに、喧嘩とかしたくないからね」=Yeah, let's do that. We're on a date, I don't want to have a fight.
+「ええ、私も同感よ。ちょっとすれ違ってしまった分、この後たっぷりイチャイチャしましょっ♪」=Yes, me too. Let's make up for that little argument with lots of flirting♪
+「賛成！　皆が引くくらい、イチャついちゃおう」=I agree! Let's flirt so much, everyone looks at us weird.
+「えぇっと……程々にね？　また変な方向にすれ違いそうだから……」=Eerhm... let's not overdo it, okay? I feel like that's just gonna lead to another weird argument...

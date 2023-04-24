@@ -1,19 +1,19 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「ねぇ、お互い愛称で呼んでみない？　とりあえず提案って感じなんだけど」=
-//「へぇ、いいんじゃない。面白そうね」=
-//「やった！　じゃあ、俺のことはさ……[Pあだ名]って、呼んでくれる？」=
-//「えっ！？　ちょっと待って。それ、本気で言ってる？　愛称っていうのはこう……名前を縮めたりとか」=
-//「あー、やっぱ変かな？　どうしても[H]に呼んで欲しかったんだけど……」=
-//「うっ、別に……嫌とは言ってないわ。ちょっとびっくりしただけよ」=
-//「じゃあじゃあ！　俺は[H]の事、[Hあだ名]って呼んでいい？」=
-//「い、いいんじゃない。好きになさい」=
-//「よしっ！　では早速。ねぇ……[Hあだ名]」=
-//「うっ、な、なぁに…………[Pあだ名]」=
-//「おおぉ！　いい！　最高だよ！　ありがとう！」=
-//「はぁ……たまに無茶振りしてくるのだから。付き合う身にもなりなさい」=
-//「あはは……ほら、そこは実際に付き合ってる仲って事で」=
-//「調子に乗らないっ。今回だけよ」=
-//「えぇ～っ、そこをなんとか！　お願いします！」=
-//「もぅ、情けない声出さないの。変な所だけ熱心なんだから。わかったわよ、前向きに考えておきます」=
+「ねぇ、お互い愛称で呼んでみない？　とりあえず提案って感じなんだけど」=“Hey, wanna try calling each other by nicknames? I mean, it's just a suggestion.”
+「へぇ、いいんじゃない。面白そうね」=“Hoh, why not? Sounds fun.”
+「やった！　じゃあ、俺のことはさ……[Pあだ名]って、呼んでくれる？」=“Yay! Then, will you call me... [Pあだ名]?”
+「えっ！？　ちょっと待って。それ、本気で言ってる？　愛称っていうのはこう……名前を縮めたりとか」=“Eh--?! Hang on a second. Are you being serious there? Nicknames are more... like shortened names and whatnot.”
+「あー、やっぱ変かな？　どうしても[H]に呼んで欲しかったんだけど……」=“Aah, I guess it's weird afterall? I really wanted to hear you call me that though, you know...”
+「うっ、別に……嫌とは言ってないわ。ちょっとびっくりしただけよ」=“Uu--, I didn't... say no. It just surprised me, that's all.”
+「じゃあじゃあ！　俺は[H]の事、[Hあだ名]って呼んでいい？」=“Then, then! Mind if I call you [Hあだ名] too?”
+「い、いいんじゃない。好きになさい」=“W-Why not? Do as you like.”
+「よしっ！　では早速。ねぇ……[Hあだ名]」=“Alright--! Well then, no time like the present. Hey... [Hあだ名].”
+「うっ、な、なぁに…………[Pあだ名]」=“Uu--, w-what is it... [Pあだ名]?”
+「おおぉ！　いい！　最高だよ！　ありがとう！」=“Oooh! So good! It's the best! Thanks!”
+「はぁ……たまに無茶振りしてくるのだから。付き合う身にもなりなさい」=“Haah... you always ask for such unreasonable things. Try putting yourself in my shoes for once.”
+「あはは……ほら、そこは実際に付き合ってる仲って事で」=“Ahahah... I mean, you know, we're dating so it's fine.”
+「調子に乗らないっ。今回だけよ」=“Don't get carried away--. It was just this once.”
+「えぇ～っ、そこをなんとか！　お願いします！」=“Eeh~, please, anything but that! I beg of thee!”
+「もぅ、情けない声出さないの。変な所だけ熱心なんだから。わかったわよ、前向きに考えておきます」=“Jeez, don't make yourself look so pathetic. Always getting so earnest over the weirdest stuff. I got it, I'll consider it.”

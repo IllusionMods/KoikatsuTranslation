@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「お待たせ。あー、５分前じゃ遅かったかな？　結構待った？」=
-//「いえ、敢えて言う程の時間は待ってないわよ。アナタは遅刻しなかったんだし、変な負い目も感じる必要はないわ」=
-//（うわ、これ絶対かなり待ってたやつだ……）=
-//「さ、参考までに何分前から居たのか教えてもらっていい？」=
-//「時間の価値観を共有しておくのは良い事だと思うけど……恥ずかしいから言わないわ。本当に気にしなくていいから」=
-//「そ、そう？　なら、早速デートを始めようか」=
-//（恥ずかしくて言えないって……予想の倍くらいは待ってそうだなぁ……）=
+「お待たせ。あー、５分前じゃ遅かったかな？　結構待った？」=“Sorry for the wait. Ah, I guess 5 minutes early is late afterall? Did you wait long?”
+「いえ、敢えて言う程の時間は待ってないわよ。アナタは遅刻しなかったんだし、変な負い目も感じる必要はないわ」=“No, not so long as to nag at you for it. You weren't late anyway, so no need to feel guilty about it.”
+（うわ、これ絶対かなり待ってたやつだ……）=(Uwah, she definitely waited a lot...)
+「さ、参考までに何分前から居たのか教えてもらっていい？」=“D-Don't suppose you'll tell me how long you've been here for, just for reference?”
+「時間の価値観を共有しておくのは良い事だと思うけど……恥ずかしいから言わないわ。本当に気にしなくていいから」=“I think it's good that you also value my time but... it's embarrassing so I'm not telling. You really don't need to mind it.”
+「そ、そう？　なら、早速デートを始めようか」=“T-That so? In that case, let's start our date asap.”
+（恥ずかしくて言えないって……予想の倍くらいは待ってそうだなぁ……）=(Can't say it because it's embarrassing... I bet it's atleast double of whatever I'm imagining...)

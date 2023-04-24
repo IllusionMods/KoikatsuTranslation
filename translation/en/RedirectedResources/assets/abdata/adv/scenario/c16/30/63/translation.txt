@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「お邪魔します。ふーん、予想より綺麗にしてるのね」=
-//「男の人の部屋に入るのって初めてだから、なんかキョロキョロしちゃうわね……ごめんなさい」=
-//「なんか、無言になっちゃうわね……その……部屋に誘われた時から、覚悟はできてるから……」=
-//「うん、はしたないって思わないでね。こんな事許すの……アナタだけだから……」=
+「お邪魔します。ふーん、予想より綺麗にしてるのね」=“I'm coming in. Hmm, it's cleaner than I expected.”
+「男の人の部屋に入るのって初めてだから、なんかキョロキョロしちゃうわね……ごめんなさい」=“It's my first time in a man's place so, I can't help but kinda stare at everything... I'm sorry.”
+「なんか、無言になっちゃうわね……その……部屋に誘われた時から、覚悟はできてるから……」=“Kind of quiet, isn't it... uhm... I've been ready, since you asked me to come over so...”
+「うん、はしたないって思わないでね。こんな事許すの……アナタだけだから……」=“Yep, don't think of me as a slut, okay? You're the only one... who gets to do this to me...”

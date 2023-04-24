@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「プレゼントというだけで嬉しいわ。女心ってそういうものよ」=
+「プレゼントというだけで嬉しいわ。女心ってそういうものよ」=“Just the fact that you gave me a present makes me happy. That's just how girls are.”

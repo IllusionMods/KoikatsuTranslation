@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「へえ、色々あるんだね」=
-//「あら、あそこのお店、お洒落な感じね。少し入ってみない？」=
-//「うん、いいよ」=
-//「品揃えが良くて、価格も手ごろで。うん、悪くないお店だったわね。また来ましょ」=
-//（よかった、喜んでもらえたみたいだ）=
+「へえ、色々あるんだね」=“Hoh, there's all sorts around here, huh?”
+「あら、あそこのお店、お洒落な感じね。少し入ってみない？」=“Oh my, that shop over there, looks pretty trendy. How about we check it out?”
+「うん、いいよ」=“Sure, let's go.”
+「品揃えが良くて、価格も手ごろで。うん、悪くないお店だったわね。また来ましょ」=“All sorts of things, and at all price points. Yep, not a bad little shop. Let's come here again.”
+（よかった、喜んでもらえたみたいだ）=(Great, looks like she enjoyed herself)

@@ -1,12 +1,12 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「今日は私からリクエストいい？　色々考えてきたの」=
-//「おっ、いいね。全部やっちゃおうよ！」=
-//「そうね。じゃあまずは後ろからハグでしょ、顎クイ、頭なでなで、それと、不意打ちで……っちゅ」=
-//「んっ！　んぅっ！　んぅぅ～～！？」=
-//「……ちゅぷっ……フフッ、これが一番やりたかった事よ……不意打ちで……キス……」=
-//「うぅ……さっきは完全にやられたなぁ……」=
-//「アナタの驚いた顔、可愛かったわよ。フフッ、またやっちゃおうかしら」=
-//「勘弁して、あれは心臓に悪いよ」=
-//「んふっ、ホントに？　嫌よ嫌よもってやつでしょ？　私、アナタの事は理解してるつもりよ」=
+「今日は私からリクエストいい？　色々考えてきたの」=“Do you mind if I ask for something today? I've actually thought of some stuff.”
+「おっ、いいね。全部やっちゃおうよ！」=“Oh--, why not. Let's do it all!”
+「そうね。じゃあまずは後ろからハグでしょ、顎クイ、頭なでなで、それと、不意打ちで……っちゅ」=“Yeah. Then, first thing I want is a hug from behind, for you to hold my face by my chin, stroke my head and, then lastly a surprise... *kiss*”
+「んっ！　んぅっ！　んぅぅ～～！？」=“Nn--! Nnn--! Nnnn~~?!”
+「……ちゅぷっ……フフッ、これが一番やりたかった事よ……不意打ちで……キス……」=“...*kiss*... Fufuh--, this is what I wanted to do the most... a surprise... kiss...”
+「うぅ……さっきは完全にやられたなぁ……」=“Uuu... you completely got me...”
+「アナタの驚いた顔、可愛かったわよ。フフッ、またやっちゃおうかしら」=“Your shocked face was, really cute. Fufuh, maybe I'll do that again sometime.”
+「勘弁して、あれは心臓に悪いよ」=“Spare me, that's bad for my heart.”
+「んふっ、ホントに？　嫌よ嫌よもってやつでしょ？　私、アナタの事は理解してるつもりよ」=“Nnfuh--, really? You say that but you actually love it, don't you? I know exactly how you are.”

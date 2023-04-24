@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「うぅ、嘘でしょ……本当に電車の中でするなんて……アナタの常識はどうなってるのよ……」=
-//「いやーでも、それが現実というか……実際起こってしまったわけで……」=
-//「んもうっ、何で反省の色が一つもないのよっ。ちょっとお説教が必要ね！」=
+「うぅ、嘘でしょ……本当に電車の中でするなんて……アナタの常識はどうなってるのよ……」=Uuu, this can't be real, right?... to think we'd really do it on a train... there's something wrong with your head...
+「いやーでも、それが現実というか……実際起こってしまったわけで……」=No but well, that's just how things are... we already did it so...
+「んもうっ、何で反省の色が一つもないのよっ。ちょっとお説教が必要ね！」=Jeez--, why do I not see even the slightest hint of remorse from you--? I see you're in need of a lecture!

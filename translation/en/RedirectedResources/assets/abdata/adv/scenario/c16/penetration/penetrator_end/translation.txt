@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「ありがとう……私、上手くできてたかしら？　アナタ達の邪魔になってなかった？」=
+「ありがとう……私、上手くできてたかしら？　アナタ達の邪魔になってなかった？」=“Thanks... did I, do a good job? I didn't get in you guys' way, did I?”

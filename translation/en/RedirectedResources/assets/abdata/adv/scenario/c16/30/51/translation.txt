@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「えっと……ごめんなさい。私、あまり気持ちよくなれてなくて……もうちょっとだと思うから、ね？」=
+「えっと……ごめんなさい。私、あまり気持ちよくなれてなくて……もうちょっとだと思うから、ね？」=“Eerhm... I'm sorry. I didn't really get to enjoy myself there... just keep it up for a bit longer, okay?”

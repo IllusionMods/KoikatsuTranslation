@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「ふぅ……ちょっと、このまま見てるだけ、なんてことはないでしょうね？」=
+「ふぅ……ちょっと、このまま見てるだけ、なんてことはないでしょうね？」=“Fuh... hey, you're not really gonna just stop at looking, are you?”

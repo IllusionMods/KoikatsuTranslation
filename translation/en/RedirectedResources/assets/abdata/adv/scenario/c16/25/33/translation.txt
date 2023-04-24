@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「嬉しいのよ。気持ちは嬉しいのだけれど……これはその……どうしてこれにしようって思ったの？」=
+「嬉しいのよ。気持ちは嬉しいのだけれど……これはその……どうしてこれにしようって思ったの？」=“I'm really happy. Really happy that you thought to give me a present... but this is... why'd you go with this, could you tell me?”

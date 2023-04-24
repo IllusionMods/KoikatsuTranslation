@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「あ、ありがと……これは、期待に添えられるよう頑張るしかないわね……！」=
+「あ、ありがと……これは、期待に添えられるよう頑張るしかないわね……！」=“T-Thanks... I'll just have to do my best, to live up to expectations...!”

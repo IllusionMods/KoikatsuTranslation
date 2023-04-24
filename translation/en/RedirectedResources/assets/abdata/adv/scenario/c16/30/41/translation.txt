@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「なっ！　何なのよアナタ！　み、見ないでっ！」=
+「なっ！　何なのよアナタ！　み、見ないでっ！」=“Wha--! What the heck are you! D-Don't look--!”

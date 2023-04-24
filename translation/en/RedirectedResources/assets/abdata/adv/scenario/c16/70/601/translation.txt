@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「へぇ、これがラブホテルなのね。ちょっとだけでもいいから、する前に色々見させて？」=
-//「い、いいけど……もうちょっと恥ずかしがったりするかと思った」=
-//「心臓はもう痛いくらいに鳴ってるわよ。でも、それ以上に色々見ておきたくて」=
-//「わかった。[H名]の気が済むまでしていいよ。俺はベッドの上で待ってるね」=
-//「あっ、先にシャワーを浴びていてもいいわよ？　少し時間がかかりそうだから」=
-//（うぅ……お得意の意識の高さが……俺を焦らしまくっている事に気付いてるのかな？）=
+「へぇ、これがラブホテルなのね。ちょっとだけでもいいから、する前に色々見させて？」=Hoh, so this is a love hotel, huh? Could I look around a bit before we do it? Just for a bit.
+「い、いいけど……もうちょっと恥ずかしがったりするかと思った」=S-Sure but... I really thought you'd feel a bit more embarrassed than that.
+「心臓はもう痛いくらいに鳴ってるわよ。でも、それ以上に色々見ておきたくて」=My heart's pounding so much it actually hurts a bit. But, I still want to see a bit of this place.
+「わかった。[H名]の気が済むまでしていいよ。俺はベッドの上で待ってるね」=Got it. You can do it as much as you want, until your curiosity is satisfied. I'll be waiting on the bed.
+「あっ、先にシャワーを浴びていてもいいわよ？　少し時間がかかりそうだから」=Ah--, feel free to go and take a shower and stuff if you want, okay? It's gonna take me some time here atleast.
+（うぅ……お得意の意識の高さが……俺を焦らしまくっている事に気付いてるのかな？）=(Uu... does she realize that her senseless amounts of curiosity... have me losing my mind here?)

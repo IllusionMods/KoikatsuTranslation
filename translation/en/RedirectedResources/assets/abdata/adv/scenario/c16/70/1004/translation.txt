@@ -2,16 +2,16 @@
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
 モブ=Mob
-//「お疲れ様でした。ふふっ、素敵な式でしたよ」=
-//「本番の結婚式も、是非、私どもの式場で挙げてくださいね！」=
-//「えっと、前向きに考えさせてもらいます」=
-//「お願いします！　今日はお引き受けいただいて、ありがとうございました」=
-//「[H名]、大丈夫？　疲れてるだろうから、すぐに動かなくていいからね」=
-//「大丈夫よ。フフッ、私達、今日何回こうして大丈夫って言い合ったのかしらね」=
-//「覚えきれないくらいは言ったね。[H名]があんなに不安になっちゃうなんて、驚いたよ」=
-//「ごめんなさい……婚期を逃すなんて、ただの風説なのに……あんなに取り乱すなんて私も思わなかった」=
-//「それだけ真剣に考えてたって事だよね……」=
-//「こんな重い女、嫌よね……自分でもつくづく嫌になったわ……アナタに嫌われても仕方ないって……」=
-//「うーん、これはまた大丈夫って言わなきゃダメかな？」=
-//「そうだ、これでどう？　……[H名]、俺と結婚を前提にして、お付き合いしてください」=
-//「ぇっ……ぁっ、は、はいっ！　よ、よろしくお願いします！」=
+「お疲れ様でした。ふふっ、素敵な式でしたよ」=Good work today. Fufu~ It was a lovely ceremony.
+「本番の結婚式も、是非、私どもの式場で挙げてくださいね！」=For your actual wedding as well, please, do call upon us!
+「えっと、前向きに考えさせてもらいます」=Uhm, sure, if we get to that point.
+「お願いします！　今日はお引き受けいただいて、ありがとうございました」=Thank you! And for helping us out so much today as well, thank you very much!
+「[H名]、大丈夫？　疲れてるだろうから、すぐに動かなくていいからね」=[H名], you alright? You're probably tired so, don't feel like we have to get going right away, okay?
+「大丈夫よ。フフッ、私達、今日何回こうして大丈夫って言い合ったのかしらね」=I'm alright. Fufuh--, I wonder how many times we've said the world "alright" to each other today.
+「覚えきれないくらいは言ったね。[H名]があんなに不安になっちゃうなんて、驚いたよ」=More times that I can remember, atleast. I didn't think you'd get so anxious, [H名].
+「ごめんなさい……婚期を逃すなんて、ただの風説なのに……あんなに取り乱すなんて私も思わなかった」=I'm sorry... that myth really is, just a myth but... I didn't think I'd lose my cool that severely either.
+「それだけ真剣に考えてたって事だよね……」=You were just that serious about it, weren't you...
+「こんな重い女、嫌よね……自分でもつくづく嫌になったわ……アナタに嫌われても仕方ないって……」=You probably hate heavy women like men, don't you... I hate myself too now, honestly... so it can't be helped that you hate me too...
+「うーん、これはまた大丈夫って言わなきゃダメかな？」=Nnnn, do I really have to bring out the world "alright" again?
+「そうだ、これでどう？　……[H名]、俺と結婚を前提にして、お付き合いしてください」=Right, how about this? ...[H名], please go out with me, with marriage in mind, rather than just dating.
+「ぇっ……ぁっ、は、はいっ！　よ、よろしくお願いします！」=Eh--... ah--, y-yes--! O-Okay!

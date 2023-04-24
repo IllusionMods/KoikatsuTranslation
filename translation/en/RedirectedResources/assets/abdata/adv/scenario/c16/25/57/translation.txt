@@ -1,14 +1,14 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「おはよう。集合５分前に来るとは感心……んぅ？　ちょっと眠そうね？」=
-//「ふぁ……ごめん。今日の事考えてたら……全然寝れなくて」=
-//「フフッ、そんなに楽しみにされていたなら光栄ね。でも、デート中に寝たら怒るわよ？」=
-//「わかってるって。絶対寝たりしないよ！」=
-//「……んっ……すぅ……んぅぅっ……えっ！？　あっ！　わ、私！　寝ちゃって……」=
-//「おはよ。もしかして、俺と一緒で昨日は寝れなかった？」=
-//「うっ……実は……そうなの。ごめんなさい……自分で寝たら怒るなんて言ってたのに……」=
-//「いいって。気にしてないよ。それに、寝顔可愛かったし」=
-//「もう、からかわないで……って！　えぇ！　もうこんな時間！　予定……全然残ってるのに……」=
-//「はは、今日はもうゆっくりしようよ。予定とか気にしないでさ」=
-//「今日はありがとう。あと、色々ごめんなさい。つ、次はきちんとするから！　また誘ってね？」=
+「おはよう。集合５分前に来るとは感心……んぅ？　ちょっと眠そうね？」=“Good morning. I'm impressed you got here 5 minutes before our meet... Nnn? You seem a bit sleepy, huh?”
+「ふぁ……ごめん。今日の事考えてたら……全然寝れなくて」=“Fuah... sorry. When I started thinking about today... I couldn't sleep at all.”
+「フフッ、そんなに楽しみにされていたなら光栄ね。でも、デート中に寝たら怒るわよ？」=“Fufuh--, I'm honoured that you looked forward to it so much. But, I'm gonna get mad if you fall asleep in the middle of our date, okay?”
+「わかってるって。絶対寝たりしないよ！」=“I get that. I definitely won't!”
+「……んっ……すぅ……んぅぅっ……えっ！？　あっ！　わ、私！　寝ちゃって……」=“...Nn--... *zzz*... nnnn--... eeh--?! Ah--! I-I! Fell asleep...”
+「おはよ。もしかして、俺と一緒で昨日は寝れなかった？」=“Morning. Were you awake the whole time last night too?”
+「うっ……実は……そうなの。ごめんなさい……自分で寝たら怒るなんて言ってたのに……」=“Uu--... the truth is... I was. I'm sorry... I told you I'd get mad at you, and then I...”
+「いいって。気にしてないよ。それに、寝顔可愛かったし」=“It's fine. I don't mind it. Not to mention, you looked cute sleeping.”
+「もう、からかわないで……って！　えぇ！　もうこんな時間！　予定……全然残ってるのに……」=“Jeez, don't poke fun at me...Wuh! Eeh! It's already so late! We haven't... done anything we were planning on though...”
+「はは、今日はもうゆっくりしようよ。予定とか気にしないでさ」=“Hahah, let's take it easy for the rest of the day. Don't worry about the plan.”
+「今日はありがとう。あと、色々ごめんなさい。つ、次はきちんとするから！　また誘ってね？」=“Thanks for today. And, I'm sorry, for what I did. I-I'll do a proper job next time! So ask me out again, okay?”

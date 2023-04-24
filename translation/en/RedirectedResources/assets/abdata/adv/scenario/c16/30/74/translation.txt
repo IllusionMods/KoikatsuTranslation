@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「それっ！　トスあげるわよ！」=
-//「ナイストス！　しゃッ、これなら！」=
-//「わっ、ナイススパイク！　アナタ、バレー上手なのね」=
-//「今のはトスが良かったんだよ。俺達いいコンビかもね」=
-//「ふふっ、えぇ、そうかも。でも男女じゃチームを組めないのよね。ちょっと惜しいわ」=
+「それっ！　トスあげるわよ！」=“There--! Toss incoming!”
+「ナイストス！　しゃッ、これなら！」=“Nice toss! Alright--, in that case!”
+「わっ、ナイススパイク！　アナタ、バレー上手なのね」=“Wah--, nice spike! You're pretty good at volleyball, huh?”
+「今のはトスが良かったんだよ。俺達いいコンビかもね」=“Your toss was just that good. We might make for good partners.”
+「ふふっ、えぇ、そうかも。でも男女じゃチームを組めないのよね。ちょっと惜しいわ」=“Fufuh--, yes, we might. But men and women can't form teams together, you know? Pretty disappointing.”

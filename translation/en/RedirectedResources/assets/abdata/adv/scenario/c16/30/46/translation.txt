@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「んぅっ、まだちょっと……ふわふわしちゃってる。アナタ、上手いのね」=
-//「そうでもないよ。ずっと必死だったから」=
-//「必死だった……ね。そんなに頑張ってくれてたんだ……フフッ、ありがとう。嬉しい……」=
+「んぅっ、まだちょっと……ふわふわしちゃってる。アナタ、上手いのね」=“Nnnn--, I still feel a bit... like I'm on clouds. You're really good at this, you know.”
+「そうでもないよ。ずっと必死だったから」=“Not at all. I was really giving it my all there, and then some.”
+「必死だった……ね。そんなに頑張ってくれてたんだ……フフッ、ありがとう。嬉しい……」=“Were you... now. You did all that, for me... fufuh--, thanks. I'm really happy...”

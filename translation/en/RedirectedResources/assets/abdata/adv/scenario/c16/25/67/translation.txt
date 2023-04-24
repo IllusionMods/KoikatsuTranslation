@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「ごめんなさい。大分待たせちゃったわね……」=
-//「気にしてないよ。なんか待ってる時間も幸せでさ」=
-//「そ、そう……ならよかっ……うーん、よくはない……わよね？　待たせた事には変わりないんだし」=
-//「ははっ、難しく考え過ぎだよ。さ、帰ろっか」=
+「ごめんなさい。大分待たせちゃったわね……」=“I'm sorry. I made you wait a lot, didn't I...”
+「気にしてないよ。なんか待ってる時間も幸せでさ」=“I don't mind it. Just waiting for you makes me happy too.”
+「そ、そう……ならよかっ……うーん、よくはない……わよね？　待たせた事には変わりないんだし」=“I-I see... that's goo--... nnn, it's still not good... is it? It doesn't change the fact that I made you wait.”
+「ははっ、難しく考え過ぎだよ。さ、帰ろっか」=“Hahah--, you're thinking too much. Come on, let's go home.”

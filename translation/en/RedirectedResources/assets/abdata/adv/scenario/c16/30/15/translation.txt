@@ -1,5 +1,5 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「おはよう♪　シャワー先に借りたわよ。アナタも入った方がいいわ」=
-//「ほらぐずぐずしないで……あっ……えと……朝から元気なのね……」=
+「おはよう♪　シャワー先に借りたわよ。アナタも入った方がいいわ」=“Morning♪ I borrowed your shower. You should get in too.”
+「ほらぐずぐずしないで……あっ……えと……朝から元気なのね……」=“C'mon, don't dawdle... ah--... erhm... I see you're lively first thing...”

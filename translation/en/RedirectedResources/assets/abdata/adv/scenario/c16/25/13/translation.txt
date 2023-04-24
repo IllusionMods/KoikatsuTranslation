@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「うん。デートね。恋人なんだし、どんどんしていきましょう」=
-//「あはは、ノリノリだね。嬉しいよ」=
-//「それはそうよ。恋人になったらしてみたかった事が、まだ山ほどあるんですものっ」=
+「うん。デートね。恋人なんだし、どんどんしていきましょう」=“Yep. A date, huh? We're a couple so, let's have lots of them.”
+「あはは、ノリノリだね。嬉しいよ」=“Ahahah, I see you're real into it. I'm glad.”
+「それはそうよ。恋人になったらしてみたかった事が、まだ山ほどあるんですものっ」=“Of course I am. There's so many things I've always wanted to do if I got a boyfriend, so many things we haven't done yet--”

@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「アナタって凄いのね……二人を同時に相手なんて、性豪ってやつかしら？」=
+「アナタって凄いのね……二人を同時に相手なんて、性豪ってやつかしら？」=“You're amazing... taking on two girls at once, are you actually like a proper stud?”

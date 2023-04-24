@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「うぅ、もうへとへとよ……動けないわ……ずっと体ビクビクしてるし。もう、少し甘えさせなさいっ」=
+「うぅ、もうへとへとよ……動けないわ……ずっと体ビクビクしてるし。もう、少し甘えさせなさいっ」=“Uuu, I'm beat... I can't move... my body won't stop twitching either--. Jeez, let me act a bit spoiled here--”

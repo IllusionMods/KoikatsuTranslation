@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「良い汗って……また変わった誘い方ね」=
-//「はは、ありきたりじゃ何かダメかなって」=
-//「いいわ。少しでも私に合わせようとしてくれたという事でしょう？　なら悪い気はしないし」=
+「良い汗って……また変わった誘い方ね」=“Work up some sweat... you sure know how to come up with weird ways of asking things, everytime.”
+「はは、ありきたりじゃ何かダメかなって」=“Hahah, I thought it would have been boring if I just asked normally.”
+「いいわ。少しでも私に合わせようとしてくれたという事でしょう？　なら悪い気はしないし」=“It's fine. You did it that way because you thought I'd like it, no? So I can't really take it badly either.”

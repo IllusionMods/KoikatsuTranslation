@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「フフッ、ここなら人目を気にせず集中できるわ。やっぱり環境って大事よね」=
-//「そうだね。皆静かに勉強してるし、これなら多少くっついても……」=
-//「んぅ？　アナタは何に集中するつもりなのかしら？　そういう勉強は……また後でね」=
-//「あっ……うん。ごめん、今は勉強に集中……します」=
+「フフッ、ここなら人目を気にせず集中できるわ。やっぱり環境って大事よね」=“Fufuh--, we can concentrate here without worrying about people's eyes. The environment really is important, isn't it?”
+「そうだね。皆静かに勉強してるし、これなら多少くっついても……」=“Yeah. Everyone's quietly studying too, so clinging together a little bit shouldn't be...”
+「んぅ？　アナタは何に集中するつもりなのかしら？　そういう勉強は……また後でね」=“Nnn? Exactly what are you here to focus on? We can study the human body... later, okay?”
+「あっ……うん。ごめん、今は勉強に集中……します」=“Ah--... okay. Sorry, I'll focus... on studying.”

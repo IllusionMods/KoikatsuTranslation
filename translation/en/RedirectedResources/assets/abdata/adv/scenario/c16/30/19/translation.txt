@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「おはよ。うん、今日はちゃんとしてるわね。大分アナタ、良くなってきてると思うわよ」=
+「おはよ。うん、今日はちゃんとしてるわね。大分アナタ、良くなってきてると思うわよ」=“Morning. Yep, I see your hair isn't a mess today. You're starting to get a handle on things, keep it up.”
