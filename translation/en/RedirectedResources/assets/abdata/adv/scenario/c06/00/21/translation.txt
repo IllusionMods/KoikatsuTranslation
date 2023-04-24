@@ -2,5 +2,5 @@
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
 「お早う御座います。宜しければ教室までご一緒にいかがですか？」=“Good morning. How about walking to the classroom together with me?”
-「おはよう、[H]。もちろんいいよ。朝から[H]を見ると気持ちがシャキッとしていいね」=“”
+「おはよう、[H]。もちろんいいよ。朝から[H]を見ると気持ちがシャキッとしていいね」=“Good morning, [H]. I'd love to. Seeing you in the morning brightens my day.”
 「うふふ。私は貴方を見ると顔がほころんでしまって……危うく下品な笑みが漏れないようにするので精一杯です」=“Ufufuh. And seeing your face puts a smile on mine... it takes my all for me to keep it from breaking out into an unseemingly grin.”
