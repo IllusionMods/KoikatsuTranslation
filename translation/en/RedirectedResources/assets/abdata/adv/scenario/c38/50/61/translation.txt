@@ -1,17 +1,17 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「本日はよろしくお願いします。その、人が多いので……手を、繋いで歩きませんか？」=
-//「お、いいね！　[H名]から積極的になってくれるなんて嬉しいな」=
-//「私達、きちんとカップルに見えているでしょうか？　なんだか、気になってしまって……」=
-//「手まで繋いでるんだし、誰が見てもカップルだよ」=
-//「そ、そうだと嬉しいのですが……もっと恋人らしいことを、したいです……よね？」=
-//「うん、したい！　もう周りの目なんて気にしないで、イチャつきたい！」=
-//「えっ、そんなにですか？　でしたら、二人きりになれる場所へ……どうでしょうか？」=
-//「なんだか、楽し過ぎて怖いくらいです。でも、一緒に居られるのは後わずか……ですね？」=
-//CHOICE:「いや、もう少し一緒にいたいな」=
-//CHOICE:「うん、俺も楽しかったよ。それじゃあね」=
-//「いや、もう少し一緒にいたいな。よかったら、家にこない？」=
-//「あ……貴方も同じように考えていてくれたのですね。それでは、お言葉に甘えてお邪魔させていただきます」=
-//「うん、俺も楽しかったよ、それじゃあね」=
-//「本当にありがとうございました。帰ってからも、きっと貴方のことを考えてしまうと思います……」=
+「本日はよろしくお願いします。その、人が多いので……手を、繋いで歩きませんか？」=“Please take care of me for today. Uhm, since there's quite a few people around... won't you, hold my hand as we walk?”
+「お、いいね！　[H名]から積極的になってくれるなんて嬉しいな」=“Oh, that sounds nice! Seeing you be that assertive makes me kinda really happy.”
+「私達、きちんとカップルに見えているでしょうか？　なんだか、気になってしまって……」=“Do we, look like a proper couple? I can't help but, have it on my mind...”
+「手まで繋いでるんだし、誰が見てもカップルだよ」=“We're even holding hands, there's nobody who wouldn't think of us as one.”
+「そ、そうだと嬉しいのですが……もっと恋人らしいことを、したいです……よね？」=“I-I hope so... you want to do more, lovey-dovey stuff, don't you?... I do.”
+「うん、したい！　もう周りの目なんて気にしないで、イチャつきたい！」=“Yep, I do! I want to flirt with you, even make out, public decency be damned!”
+「えっ、そんなにですか？　でしたら、二人きりになれる場所へ……どうでしょうか？」=“Eh--, really? In that case, how about we go somewhere more... private?”
+「なんだか、楽し過ぎて怖いくらいです。でも、一緒に居られるのは後わずか……ですね？」=“That was so fun, it was almost scary. But, we can't be together for much longer... can we?”
+CHOICE:「いや、もう少し一緒にいたいな」=No, I definitely wanna be with you more.
+CHOICE:「うん、俺も楽しかったよ。それじゃあね」=Yep, I had fun too. See ya then.
+「いや、もう少し一緒にいたいな。よかったら、家にこない？」=“No, I definitely wanna be with you more. Wanna come over to my place?”
+「あ……貴方も同じように考えていてくれたのですね。それでは、お言葉に甘えてお邪魔させていただきます」=“Ah... you were thinking the same way then. I shall take you up on that then, and intrude upon your abode.”
+「うん、俺も楽しかったよ、それじゃあね」=“Yep, I had fun too. See ya then.”
+「本当にありがとうございました。帰ってからも、きっと貴方のことを考えてしまうと思います……」=“Thank you very much, truly. I'm sure I'm going to think about you for the rest of the day, even at home...”

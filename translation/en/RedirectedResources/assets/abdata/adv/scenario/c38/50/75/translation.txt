@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「やー、晴れた空の下で運動するのは最高だね、[H名]の汗も光ってるよ」=
-//「やっ、ど、どこを見ているのですか？　それ以上、近付かないでください」=
-//「あー、うそうそ、ごめんて！　ほら、運動後の整理体操をしよう」=
-//「うぅ、匂いとか、嗅がないでくださいね？　ほ、本当に怒りますよ？」=
+「やー、晴れた空の下で運動するのは最高だね、[H名]の汗も光ってるよ」=“Man~, exercising underneath a wide open sky like this is just the best, isn't it? Your sweat's glistening too.”
+「やっ、ど、どこを見ているのですか？　それ以上、近付かないでください」=“Wha--, w-where are you looking? Please do not, come any closer.”
+「あー、うそうそ、ごめんて！　ほら、運動後の整理体操をしよう」=“Aah, I'm kidding, kidding, I'm sorry! C'mon, let's do some cooldown exercises.”
+「うぅ、匂いとか、嗅がないでくださいね？　ほ、本当に怒りますよ？」=“Uuu, please do not, sniff me or anything, okay? I-I really will get mad, you know?”

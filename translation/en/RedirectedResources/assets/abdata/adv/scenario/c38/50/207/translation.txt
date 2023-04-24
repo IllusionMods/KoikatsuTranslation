@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「うわ、外もう真っ暗。流石に帰らないとだね……」=
-//「そうですね。閉園時間も迫っていますし、これ以上はスタッフさん達の迷惑になってしまいますから」=
-//「はぁ、２４時間営業の遊園地とか作ったらいいのに……」=
-//「斬新なアイディアですが……アトラクションのメンテナンス等もあるでしょうし、問題は山積みになりそうですね」=
-//「そこはほら、上手い事ローテーションしてさ……うん、なんか考えてたら楽しくなってきたな」=
-//「ふふっ。でしたら、その楽しい気持ちのまま、遊園地を出ましょうか」=
+「うわ、外もう真っ暗。流石に帰らないとだね……」=“Uwah, it's pitch dark outside already. We really gotta get home...”
+「そうですね。閉園時間も迫っていますし、これ以上はスタッフさん達の迷惑になってしまいますから」=“Indeed. The closing time is also almost upon us, we're just going to be a bother to the staff if we stay any longer.”
+「はぁ、２４時間営業の遊園地とか作ったらいいのに……」=“Haah, why's there no 24 hour amusement park out there...”
+「斬新なアイディアですが……アトラクションのメンテナンス等もあるでしょうし、問題は山積みになりそうですね」=“While that's quite the novel idea... there's maintenance work to be done and whatnot as well, there really is no way to resolve such things cleanly.”
+「そこはほら、上手い事ローテーションしてさ……うん、なんか考えてたら楽しくなってきたな」=“I mean, for that, you could just have a revolving set of rides open at a time... yep, that's actually not half a bad idea, kinda fun to think about.”
+「ふふっ。でしたら、その楽しい気持ちのまま、遊園地を出ましょうか」=“Fufuh--. In that case, why don't we head out while we're still enjoying ourselves?”

@@ -1,16 +1,16 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「[H名]がよければなんだけど……俺達、愛称で呼び合ってみない？」=
-//「愛称……ですか？　なんだか照れ臭いですが、面白いかもしれませんね」=
-//「よしっ、じゃあ俺のこと……[Pあだ名]って呼んでみて？」=
-//「えっ、愛称ってそういうことですか？　もっと違うものを想像していました」=
-//「うーん、やっぱりダメ？　一回だけでも呼んでくれない？」=
-//「嫌とは言っていませんよ。その、少し恥ずかしいですが、貴方のお願いですから……」=
-//「やった！　じゃあ……よろしくお願いします！」=
-//「ふふ、そんなに改まれると、逆に言い辛いですが……[Pあだ名]。これで、よろしいですか？」=
-//「ッ……よろしい！　よろしいよ！　あー、なんかヤバい！　ありがとう、[Hあだ名]」=
-//「んぇっ！？　わ、私は……これからそう呼ばれてしまうのですか？」=
-//「いや、愛称で呼んでくれたお礼って言うか……でも、たまにはこういう感じで呼び合うのもいいよね」=
-//「そうですね。私は堅苦しくなりがちなので、呼び方を変えるだけで、大分新鮮でした」=
-//「他の方もいる時は恥ずかしいですが、貴方が呼びたいときは、遠慮なく愛称で呼んでくださいね」=
+「[H名]がよければなんだけど……俺達、愛称で呼び合ってみない？」=“Hey, wanna try calling each other by... nicknames? If you're alright with it.”
+「愛称……ですか？　なんだか照れ臭いですが、面白いかもしれませんね」=“Nicknames... you say? It sounds quite embarrassing but, it may also be quite nice.”
+「よしっ、じゃあ俺のこと……[Pあだ名]って呼んでみて？」=“Alright--, how about you try calling me... [Pあだ名] then?”
+「えっ、愛称ってそういうことですか？　もっと違うものを想像していました」=“Eh--, is that what you meant by nicknames? I was imagining something different.”
+「うーん、やっぱりダメ？　一回だけでも呼んでくれない？」=“Nnn, is it a no go afterall? Won't you call me that, atleast just once, please?”
+「嫌とは言っていませんよ。その、少し恥ずかしいですが、貴方のお願いですから……」=“I didn't say I don't want to. It's uhm, it's a bit embarrassing but, you're the one asking so...”
+「やった！　じゃあ……よろしくお願いします！」=“Yay! Then... please do it, ma'am!”
+「ふふ、そんなに改まれると、逆に言い辛いですが……[Pあだ名]。これで、よろしいですか？」=“Fufuh, it's a bit hard to say it, when you get so formal about it... [Pあだ名]. Is that, alright?”
+「ッ……よろしい！　よろしいよ！　あー、なんかヤバい！　ありがとう、[Hあだ名]」=“--... Alright! Very alright! Aah, damn, it's kinda dangerous! Thanks, [Hあだ名].”
+「んぇっ！？　わ、私は……これからそう呼ばれてしまうのですか？」=“Nneh--?! A-Am I... going to be called that, from now on?”
+「いや、愛称で呼んでくれたお礼って言うか……でも、たまにはこういう感じで呼び合うのもいいよね」=“No, that was just my way of saying thanks for you doing it for me... but, calling each other this way every so often might be nice too.”
+「そうですね。私は堅苦しくなりがちなので、呼び方を変えるだけで、大分新鮮でした」=“It may be. I really can't help my stiffness so, just a change in how I call out to you, felt very fresh.”
+「他の方もいる時は恥ずかしいですが、貴方が呼びたいときは、遠慮なく愛称で呼んでくださいね」=“It's embarrassing when others are around but, please call me that whenever you feel the desire to, okay?”

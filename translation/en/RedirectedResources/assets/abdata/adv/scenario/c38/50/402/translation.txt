@@ -1,24 +1,24 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「お一人暮らしをされていると、やはり外食は贅沢……という感じなのでしょうか？」=
-//「そうでもないよ。そこまで生活に困ってるってわけでもないしね」=
-//「そうでしたか。それなら良かったです。私に付き合って、無理をされているのではと心配してしまって……」=
-//「そこはまぁ、もしそうだったとしても見栄を張らせてよ。一応カレシなんだしさ」=
-//「えっ、本当はどちらなのですか？　私だって、か、カノジョなのですから……気を使わずに、本当の事を言ってください」=
-//「はは、最初に言ったのが本当だよ。家で餓死したりすることはないから、大丈夫」=
-//「本当ですか？　本当に本当ですか？　私達はパートナーなのですから、嘘は厳禁ですよ？」=
-//「うーん、[H名]は心配性だなぁ。そんなに俺の食生活が心配なら、今度[H名]の手料理でも食べさせてよ」=
-//「承知いたしました。私の全身全霊を持って、取り組ませて頂きますっ！」=
-//「ちょ、そんな壮大なプロジェクトみたいな……俺が言うのも失礼だけど、ただ俺の家に来て料理してもらうだけだよ？」=
-//「それは、私にとっては一大プロジェクトです。貴方の家で、貴方のために手料理を作る。正に女の晴れ舞台です！」=
-//「わ、わかった……それじゃあ俺は……部屋を綺麗に掃除しておくよ……」=
-//「いいえ、そちらも私がさせて頂きますので、お構いなく。これでも私、家事全般は得意だと思っていますので」=
-//「す、凄いね……じゃあ、全部おまかせで。俺は余計な事しない方がよさそうだし……」=
-//「うっ……お料理……ですか？　それはその……少々お時間を頂いても、よろしいでしょうか？」=
-//「あ、ごめん。俺も無理してやって欲しいわけじゃないから。手料理の話はなかったことで……」=
-//（[H名]が料理得意じゃないの忘れてた……これはミスったなぁ……）=
-//「い、いえ、頑張ります！　今、出来ないだけですから。努力をすれば、私でも普通の料理くらいは……」=
-//「いや、俺には無理するなって言っておいて、[H名]が無理しちゃダメじゃない？　そんなに気にしなくていいから、ね？」=
-//「んぅ、矛盾は承知です。ですが……貴方に相応しいパートナーになるためには必要な事なのです。どうか、止めないでください」=
-//「うーん、そこまで言うなら任せるけど……あんまり無茶はしないって約束してね？」=
+「お一人暮らしをされていると、やはり外食は贅沢……という感じなのでしょうか？」=“Since you're living alone, is eating out... too indulgent for you?”
+「そうでもないよ。そこまで生活に困ってるってわけでもないしね」=“Not really. My wallet's not hurting that much here.”
+「そうでしたか。それなら良かったです。私に付き合って、無理をされているのではと心配してしまって……」=“Is that so? I'm glad to hear that. I just couldn't help but worry, that you were forcing yourself to do it because of me...”
+「そこはまぁ、もしそうだったとしても見栄を張らせてよ。一応カレシなんだしさ」=“That's well, even if I was, let me. I'm your boyfriend, I want to show off too.”
+「えっ、本当はどちらなのですか？　私だって、か、カノジョなのですから……気を使わずに、本当の事を言ってください」=“Eh--, which is it really? I'm your, g-girlfriend too so... please tell me the truth, without sugarcoating it.”
+「はは、最初に言ったのが本当だよ。家で餓死したりすることはないから、大丈夫」=“Hahah, I meant it when I said I'm fine. I'm not starving myself at home or anything, so don't worry.”
+「本当ですか？　本当に本当ですか？　私達はパートナーなのですから、嘘は厳禁ですよ？」=“You mean it? You really mean it? We're partners so, lying is strictly banned, okay?”
+「うーん、[H名]は心配性だなぁ。そんなに俺の食生活が心配なら、今度[H名]の手料理でも食べさせてよ」=“Nnnn, you really are a worrywart, aren't you? If you're that worried about me eating properly, feed me your home cooking one of these days.”
+「承知いたしました。私の全身全霊を持って、取り組ませて頂きますっ！」=“I understand. I shall devote my body and soul, to serve you--!”
+「ちょ、そんな壮大なプロジェクトみたいな……俺が言うのも失礼だけど、ただ俺の家に来て料理してもらうだけだよ？」=“Hey--, it's not such a grand project or anything... I mean, I know it sounds like I'm making light of it but, I just meant having you come over and cooking a meal for me, you know?”
+「それは、私にとっては一大プロジェクトです。貴方の家で、貴方のために手料理を作る。正に女の晴れ舞台です！」=“To me, that is a grand project. Cooking for you, in your own home. Truly, a woman's stage!”
+「わ、わかった……それじゃあ俺は……部屋を綺麗に掃除しておくよ……」=“I-I got it... well then I'll... clean up and stuff, I guess...”
+「いいえ、そちらも私がさせて頂きますので、お構いなく。これでも私、家事全般は得意だと思っていますので」=“No, I shall handle that as well so please, do not worry. I mean, I'd like to think I can do any and all chores, ideally to perfection.”
+「す、凄いね……じゃあ、全部おまかせで。俺は余計な事しない方がよさそうだし……」=“A-Amazing... then, I guess I'll leave it to you. Since it kinda seems like I shouldn't get in the way anyway...”
+「うっ……お料理……ですか？　それはその……少々お時間を頂いても、よろしいでしょうか？」=“Uuu--... home cooking... you say? Could that uhm... could I get some time, please?”
+「あ、ごめん。俺も無理してやって欲しいわけじゃないから。手料理の話はなかったことで……」=“Ah, sorry. I don't want you to force yourself either. Just forget I mentioned it...”
+（[H名]が料理得意じゃないの忘れてた……これはミスったなぁ……）=(I forgot that she's not a good cook... I messed up...)
+「い、いえ、頑張ります！　今、出来ないだけですから。努力をすれば、私でも普通の料理くらいは……」=“N-No, I will do my best! I just can't do it right now. If I put in the effort, even I should be able to learn...”
+「いや、俺には無理するなって言っておいて、[H名]が無理しちゃダメじゃない？　そんなに気にしなくていいから、ね？」=“What's the point of telling me not to force myself and then forcing yourself instead? You don't need to worry about it so much.”
+「んぅ、矛盾は承知です。ですが……貴方に相応しいパートナーになるためには必要な事なのです。どうか、止めないでください」=“Nn, I realize I'm contradicting myself. However... it's important for me to do this, to become a fitting partner for you. Please, do not stop me.”
+「うーん、そこまで言うなら任せるけど……あんまり無茶はしないって約束してね？」=“Nnnn, since you're that serious, I'll let you but... promise me you won't overdo it, okay?”

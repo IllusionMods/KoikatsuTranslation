@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「その、初めてだったのですが……ご満足、頂けましたか？」=
+「その、初めてだったのですが……ご満足、頂けましたか？」=“Uhm, that was my first time but... did I, satisfy you?”

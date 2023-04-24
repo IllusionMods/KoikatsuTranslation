@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「はぁ、こんなに気持ちいいなんて……正直、想像以上です」=
-//「良かった。[H名]にそう言ってもらえると、俺も嬉しいよ」=
-//「あ、すみません、自分のことばかり……貴方は気持ちよくなれましたか？」=
+「はぁ、こんなに気持ちいいなんて……正直、想像以上です」=“Haah, to think it'd feel this good... I honestly, did not expect it.”
+「良かった。[H名]にそう言ってもらえると、俺も嬉しいよ」=“Great. Hearing you say that, makes me happy too, [H名].”
+「あ、すみません、自分のことばかり……貴方は気持ちよくなれましたか？」=“Ah, I'm sorry, all I think is me-me-me... did you enjoy it?”

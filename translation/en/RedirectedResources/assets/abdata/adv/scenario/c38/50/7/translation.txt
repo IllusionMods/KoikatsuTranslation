@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「そ、それは、私を正式なパートナーにしたいという事ですか？　ほ、本当に、私でよろしいのですか？」=
-//「うん、本当に本気。俺と付き合って欲しい」=
-//「は、はい！　承知いたしました！　私なんかでよろしければ、喜んでお付き合いさせて頂きますっ」=
-//「ありがとう。でも、私なんか、なんて言わないで。[H名]は俺にとって最高の女の子なんだから」=
-//「はいっ、善処します！　貴方の理想のパートナーになれるように、誠心誠意、頑張ります」=
+「そ、それは、私を正式なパートナーにしたいという事ですか？　ほ、本当に、私でよろしいのですか？」=“T-That's, you mean to say you want to make me your formal partner? A-Are you, seriously sure you're alright with me?”
+「うん、本当に本気。俺と付き合って欲しい」=“Yep, I'm seriously serious. I want you to be my girlfriend.”
+「は、はい！　承知いたしました！　私なんかでよろしければ、喜んでお付き合いさせて頂きますっ」=“Y-Yes! I understand! If you're fine with someone like me then, I'll gladly be yours--”
+「ありがとう。でも、私なんか、なんて言わないで。[H名]は俺にとって最高の女の子なんだから」=“Thanks. But, don't say "someone like me" or whatever. In my eyes, there's no other girl as fitting as you.”
+「はいっ、善処します！　貴方の理想のパートナーになれるように、誠心誠意、頑張ります」=“Yes--, I understand, I'll try! I'll do my very best, with all my heart, to become your ideal partner.”

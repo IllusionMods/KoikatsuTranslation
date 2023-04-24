@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「[H名]さん。今大丈夫？　ちょっと話したいなって」=
-//「あっ、はい、大丈夫ですよ。私でよければ、何でもお伺いします」=
-//「わぁ、[H名]さんて、すっごい丁寧な感じなんだね。大人っぽくて、尊敬しちゃうな」=
-//「そうですか？　堅苦しいと思われてしまうかと、心配だったのですが……」=
-//「うーん、そう言う人もいるかもしれないけど。俺は全然ＯＫだから、仲良くしてくれると嬉しいな」=
-//「そう言って頂けると、とても嬉しいです。こちらこそ、よろしくお願いいたします」=
-//「うんうん、よろしく！　俺もキミみたいな子と知り合いになれて嬉しいよ！」=
+「[H名]さん。今大丈夫？　ちょっと話したいなって」=“[H名]-san, got a moment? I wanna chat with you a bit.”
+「あっ、はい、大丈夫ですよ。私でよければ、何でもお伺いします」=“Ah--, yes. I'm free. If you'll have me, please ask for anything.”
+「わぁ、[H名]さんて、すっごい丁寧な感じなんだね。大人っぽくて、尊敬しちゃうな」=“Wah, you're sure a polite girl, [H名]-san. So mature, can't help but respect you.”
+「そうですか？　堅苦しいと思われてしまうかと、心配だったのですが……」=“Is that so? I was worried that I may have come off too stiff there...”
+「うーん、そう言う人もいるかもしれないけど。俺は全然ＯＫだから、仲良くしてくれると嬉しいな」=“Nnnn, to some people, probably. But it's perfectly fine in my book, so don't feel put off by it. Really, I'd appreciate it if we could get along.”
+「そう言って頂けると、とても嬉しいです。こちらこそ、よろしくお願いいたします」=“Hearing that makes me really happy. Please, let's get along.”
+「うんうん、よろしく！　俺もキミみたいな子と知り合いになれて嬉しいよ！」=“Yeah, let's! I'm glad to get to know a girl like you as well.”

@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「お、いたいた。おはよう、[H名]」=
-//「おはようございます。ほ、本日はお日柄もよろしく……」=
-//「はは、最初からそんなに硬くなってちゃ、疲れちゃうよ？」=
-//「そ、そうですね……以後、気を付けます……ふふっ」=
-//「うーん、まだちょっと硬いけど……ま、とにかく行こっか！」=
+「お、いたいた。おはよう、[H名]」=“Oh, found you. Morning, [H名].”
+「おはようございます。ほ、本日はお日柄もよろしく……」=“Good morning. I-I hope we have a good...”
+「はは、最初からそんなに硬くなってちゃ、疲れちゃうよ？」=“Hahah, you're gonna get tired out fast if you start the day off all stiff like that, you know?”
+「そ、そうですね……以後、気を付けます……ふふっ」=“Y-You're right... I shall be, more careful... fufuh--”
+「うーん、まだちょっと硬いけど……ま、とにかく行こっか！」=“Nnnn, still a bit stiff but... well, anyways, let's go!”

@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「あら？　口の端にご飯粒が付いていますよ。とってあげますので、動かないでください」=
-//「えっ、う、うん……お、おねがい」=
-//「ふふ、お顔が真っ赤です。貴方でも、そんな風になることがあるのですね」=
-//「そ、そりゃあね。俺だって照れることくらいあるよ？」=
+「あら？　口の端にご飯粒が付いていますよ。とってあげますので、動かないでください」=“Oh? There's a grain of rice on your cheek. I shall take it off so, please do not move.”
+「えっ、う、うん……お、おねがい」=“Eh--, o-okay... t-thanks.”
+「ふふ、お顔が真っ赤です。貴方でも、そんな風になることがあるのですね」=“Fufuh, your face is all red. Even you, have times when you're like that, huh?”
+「そ、そりゃあね。俺だって照れることくらいあるよ？」=“W-Well, yeah. I blush too, you know?”

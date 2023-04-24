@@ -1,5 +1,5 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「貴方とした後は、気持ちいいだけでなく、幸せな気持ちになります」=
-//「当たり前ですが、体を重ねるというのは、愛を確かめ合うことなのだと……とても、実感できるんです」=
+「貴方とした後は、気持ちいいだけでなく、幸せな気持ちになります」=“Doing it with you, feels nice only good but, fills me with happiness as well.”
+「当たり前ですが、体を重ねるというのは、愛を確かめ合うことなのだと……とても、実感できるんです」=“I realize it's obvious but, it truly allows me to realize, that sleeping together is... an act of love.”

@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「なんか……ごめんね？　俺の我儘に付き合ってもらっちゃって……」=
-//「いえ、我儘ではありませんよ。貴方に求められるのは嬉しいので、私もその……少し期待はしていますし」=
-//「……[H名]って、もしかして……結構むっつり？」=
-//「なっ！？　何故そうなるのですか？　ぅぅぅ、そういう事を仰られるのでしたら、もういたしませんよ？」=
-//「うわっ、ごめん！　それは……それだけはご勘弁をっ！」=
-//「ふふ、貴方の弱点を発見してしまいましたね……さて、どういたしましょうか？」=
-//「えぇぇ……[H名]、やっぱり外でシたの……怒ってる？」=
+「なんか……ごめんね？　俺の我儘に付き合ってもらっちゃって……」=“Uhm... I'm sorry, alright? For making you go along with that...”
+「いえ、我儘ではありませんよ。貴方に求められるのは嬉しいので、私もその……少し期待はしていますし」=“No, you didn't make me do it. Being wanted by you makes me really happy so, I uhm... hope for it as well.”
+「……[H名]って、もしかして……結構むっつり？」=“...[H名], are you, by any chance... a perv under all that?”
+「なっ！？　何故そうなるのですか？　ぅぅぅ、そういう事を仰られるのでしたら、もういたしませんよ？」=“Wha--?! Why must you go all the way there? Uuuu, if you're going to say stuff like that, I won't do it anymore, you know?”
+「うわっ、ごめん！　それは……それだけはご勘弁をっ！」=“Uwah--, sorry! Just not that... please spare me that!”
+「ふふ、貴方の弱点を発見してしまいましたね……さて、どういたしましょうか？」=“Fufuh, I see I've found one of your weaknesses... now then, whatever shall I do?”
+「えぇぇ……[H名]、やっぱり外でシたの……怒ってる？」=“Eeeh... are you, like... mad afterall?”

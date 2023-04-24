@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「皆さんがよろしければ……私も問題ありません……」=
+「皆さんがよろしければ……私も問題ありません……」=“If everyone is alright with it... I do not mind it either...”

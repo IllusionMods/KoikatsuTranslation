@@ -1,5 +1,5 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「私が言うのもおかしいですが……貴方は、変態ですね」=
-//「ですが、貴方に求められて興奮しているのも事実です……エッチ、いたしましょう」=
+「私が言うのもおかしいですが……貴方は、変態ですね」=“I realize it is strange for me to say this... but you're, quite the pervert.”
+「ですが、貴方に求められて興奮しているのも事実です……エッチ、いたしましょう」=“However, it is true that being wanted by you has also aroused me very much... let us, have sex.”

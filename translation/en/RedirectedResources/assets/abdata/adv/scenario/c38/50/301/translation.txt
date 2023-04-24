@@ -1,21 +1,21 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「はい、こちらがマイクとリモコンです。どうぞ、お使いください」=
-//「お、手際がいいね。結構カラオケとか来てたり？」=
-//「友達に誘われて、何度か……あ、友達と言っても、女友達ですよ？　男の方と一緒に来たのは、貴方が初めてです」=
-//「マジで？　それは光栄だな。[H名]はいつも、どんな曲歌ってるの？」=
-//「私……ですか？　歌いませんよ？」=
-//「へ？　でも友達と一緒に来たことあるって……その時はどうしてたの？」=
-//「マラカスやタンバリンなどを振っていました。リズムに合わせるのが上手いと、褒められた事もありますよ」=
-//「へぇ……でも、[H名]の歌が聞けるって思って、今日は楽しみにしてきたんだけどな……」=
-//「んぅ……左様でしたか。ですが、人前で歌うなんて……私、上手くできる自信が……」=
-//「誰でも最初はそうだって。ほら、この辺りとか最近流行ってる曲だし、知らない？」=
-//「その曲、知ってはいます。良く聞く曲でもありますが……自分で歌うとなると……」=
-//「よし、じゃあとりあえず最初の曲はこれでいこう！　はい、マイクをどうぞっと」=
-//「い、いりませんっ、貴方が歌ってください。私の歌なんて、聞いても面白くないですよ？」=
-//「面白いかを決めるのは俺。ほら、もう予約入れちゃったし、覚悟を決めてっ」=
-//「あ、あぁ……なんてことを……うぅぅ、仕方ありません、１曲だけですよ？」=
-//「オーケオーケー！　とりあえず一曲歌って、盛り上がってこー！」=
-//『もしも今 背中に羽が生えて 大空自由に 飛び回れたら～♪』=
-//「おおっ！　普通に上手いじゃん！　これは、次に歌ってもらう曲も考えておかないと……」=
+「はい、こちらがマイクとリモコンです。どうぞ、お使いください」=“Here, the mic and the remote. Please use them as you see fit.”
+「お、手際がいいね。結構カラオケとか来てたり？」=“Oh, I see you know your way around the place. You come here often?”
+「友達に誘われて、何度か……あ、友達と言っても、女友達ですよ？　男の方と一緒に来たのは、貴方が初めてです」=“Many times, when my friends ask me to... ah, please understand, I meant girl friends, okay? This is my first time, coming here with a man.”
+「マジで？　それは光栄だな。[H名]はいつも、どんな曲歌ってるの？」=“Seriously? I'm honoured. What sort of songs do you usually sing, [H名]?”
+「私……ですか？　歌いませんよ？」=“Me...? I don't sing, you know?”
+「へ？　でも友達と一緒に来たことあるって……その時はどうしてたの？」=“Heh? But you said you've come with friends before... what did you do those times?”
+「マラカスやタンバリンなどを振っていました。リズムに合わせるのが上手いと、褒められた事もありますよ」=“I just played the maracas and the tambourine and whatnot. My ability to match the rhythm is pretty good apparently, you know?”
+「へぇ……でも、[H名]の歌が聞けるって思って、今日は楽しみにしてきたんだけどな……」=“Hoh... but, I was really excited for today, you know? I thought I'd get to hear you sing...”
+「んぅ……左様でしたか。ですが、人前で歌うなんて……私、上手くできる自信が……」=“Nn... is that so? However, singing with an audience... I do not, have the confidence...”
+「誰でも最初はそうだって。ほら、この辺りとか最近流行ってる曲だし、知らない？」=“Everyone's like that at first. C'mon, look at this, all these songs are currently popular, know any of them?”
+「その曲、知ってはいます。良く聞く曲でもありますが……自分で歌うとなると……」=“I know that one. I even listen to it quite often but... I don't know if I...”
+「よし、じゃあとりあえず最初の曲はこれでいこう！　はい、マイクをどうぞっと」=“Alright, let's go with this for now then! Here, take the mic.”
+「い、いりませんっ、貴方が歌ってください。私の歌なんて、聞いても面白くないですよ？」=“I-I do not need it--, please sing yourself. You don't really want to hear me sing, it's not going to be any fun, please trust me.”
+「面白いかを決めるのは俺。ほら、もう予約入れちゃったし、覚悟を決めてっ」=“I'm the one who decides whether it's fun for me or not. C'mon, I've already queued it up, so just make up your mind--”
+「あ、あぁ……なんてことを……うぅぅ、仕方ありません、１曲だけですよ？」=“A-Aah... what have you... uuuu, it can't be helped, just this one, okay?”
+「オーケオーケー！　とりあえず一曲歌って、盛り上がってこー！」=“Heard you loud and clear! Let's start with this one for now, and get fired up~!”
+『もしも今 背中に羽が生えて 大空自由に 飛び回れたら～♪』=『If only I could, sprout wings from my back, and fly freely, in this wide open sky~♪』
+「おおっ！　普通に上手いじゃん！　これは、次に歌ってもらう曲も考えておかないと……」=“Ooh--! What were you even talking about, you're great! I'm gonna have to think of a song for you to sing after this now...”

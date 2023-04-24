@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「私でよろしいのですか？　男子と女子では、少し体力が変わってくるかと思いますが……」=
-//「全然オッケー！　運動がしたいんじゃなくて、[H名]と運動がしたいから」=
-//「ふふ、違いがよくわかりませんが。それでは、二人でも楽しめる運動がいいですね」=
+「私でよろしいのですか？　男子と女子では、少し体力が変わってくるかと思いますが……」=“Are you sure you're fine with me? I do believe boys and girls have quite the difference in stamina...”
+「全然オッケー！　運動がしたいんじゃなくて、[H名]と運動がしたいから」=“No, that's fine! I don't want to just do exercise, I want to do it with you, [H名].”
+「ふふ、違いがよくわかりませんが。それでは、二人でも楽しめる運動がいいですね」=“Fufuh, I don't quite understand the difference, but alright. In that case, something we can both enjoy would be nice.”

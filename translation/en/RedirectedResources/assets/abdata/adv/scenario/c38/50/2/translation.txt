@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「段々と貴方のことがわかってきました。最近は、もっと知りたいと思うようになってしまって」=
-//「ほんとに！　そういうのなら大歓迎！　俺のことなら、何でも聞いていいよ？」=
-//「ふふ、それでは少しずつ。一気に聞いてしまったら、楽しみが無くなってしまいますから」=
-//「そういうことなら、俺も[H名]のこと、色々聞いていい？」=
-//「はい、遠慮なく聞いてください。私に興味を持って頂けるなんて、嬉しいです」=
-//「やった！　もう俺、[H名]に興味津々だからっ！」=
-//「あ、そこまで言われてしまうと、照れてしまいますので……貴方も少しずつで、お願いいたします」=
+「段々と貴方のことがわかってきました。最近は、もっと知りたいと思うようになってしまって」=“I've started understanding you more and more. And lately, I've started wanting to know you even more.”
+「ほんとに！　そういうのなら大歓迎！　俺のことなら、何でも聞いていいよ？」=“Really! I'll gladly help with that! Feel free to ask me anything you want, alright?”
+「ふふ、それでは少しずつ。一気に聞いてしまったら、楽しみが無くなってしまいますから」=“Fufuh, I shall do that, but slowly. I wouldn't want to ruin my own enjoyment by asking everything all at once.”
+「そういうことなら、俺も[H名]のこと、色々聞いていい？」=“Then, mind if I ask you stuff about yourself too?”
+「はい、遠慮なく聞いてください。私に興味を持って頂けるなんて、嬉しいです」=“No, please ask without any reservations. I'm so happy, that you're interested in me.”
+「やった！　もう俺、[H名]に興味津々だからっ！」=“Yay! Great, cuz I'm already way too into you--!”
+「あ、そこまで言われてしまうと、照れてしまいますので……貴方も少しずつで、お願いいたします」=“Ah, if you exaggerate it so much, you're going to make me blush... please do it slowly, yourself.”

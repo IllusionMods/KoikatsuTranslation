@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「うぅ、どこかその……汚れたままになっていたりしませんよね？」=
-//「大丈夫だと思うよ？　まぁ、もし何か残ってても、何してたかまではわからないでしょ」=
-//「それは……お言葉ですが、少し楽観的過ぎるかと思います……」=
-//「そうかなぁ……[H名]は気にし過ぎだと思うけどなぁ……」=
-//「んぅ……お気を悪くしてすみません……でも、どうしても気になってしまって……」=
-//「あぁいや、こっちこそごめん。少しデリカシーがなかったね」=
-//「俺も部屋のチェック手伝うよ。二人でやれば、すぐに終わるでしょ」=
+「うぅ、どこかその……汚れたままになっていたりしませんよね？」=“Uuu, there's no... filthy spots that I've missed, are there?”
+「大丈夫だと思うよ？　まぁ、もし何か残ってても、何してたかまではわからないでしょ」=“I think it's fine? Well, even if there's some stains or the like left that we can't see, they probably won't be able to tell what we did.”
+「それは……お言葉ですが、少し楽観的過ぎるかと思います……」=“That's... with all due respect, I think that's a bit too optimistic...”
+「そうかなぁ……[H名]は気にし過ぎだと思うけどなぁ……」=“You think so~?... I think you're just too much of a worrywart, [H名]...”
+「んぅ……お気を悪くしてすみません……でも、どうしても気になってしまって……」=“Nnn... I'm sorry for causing offense... but I just can't help but worry...”
+「あぁいや、こっちこそごめん。少しデリカシーがなかったね」=“Aah, no, I'm sorry myself. I should have picked my words better.”
+「俺も部屋のチェック手伝うよ。二人でやれば、すぐに終わるでしょ」=“I'll help you check too.”

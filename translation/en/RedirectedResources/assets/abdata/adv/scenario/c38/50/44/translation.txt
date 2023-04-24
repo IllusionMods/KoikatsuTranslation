@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「へえ、色々あるんだね」=
-//「あ、あちらのお店なんていかがでしょう？　少し興味があります」=
-//「うん、いいよ」=
-//「素敵なお店でしたね。またいつか、ご一緒できると嬉しいです」=
-//（よかった、喜んでもらえたみたいだ）=
+「へえ、色々あるんだね」=“Hoh, there's all sorts, huh?”
+「あ、あちらのお店なんていかがでしょう？　少し興味があります」=“Ah, how about the store over there? I'm a bit curious”
+「うん、いいよ」=“Yep, sure.”
+「素敵なお店でしたね。またいつか、ご一緒できると嬉しいです」=“It was a lovely place, wasn't it? I hope we can go there together again someday.”
+（よかった、喜んでもらえたみたいだ）=(Great, looks like she enjoyed herself)

@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「ぁぁ、凄く気持ち良かったです……これは、クセになってしまいそうですね……」=
+「ぁぁ、凄く気持ち良かったです……これは、クセになってしまいそうですね……」=“Aah, that felt amazing... I might get addicted to this...”

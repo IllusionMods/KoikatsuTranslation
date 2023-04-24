@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「は、はいっ！　喜んでご一緒させて頂きますっ」=
-//「よかった。でも、もしかして……緊張してる？」=
-//「す、少しだけ……男の方と一緒に帰る機会なんて、これまでありませんでしたから」=
+「は、はいっ！　喜んでご一緒させて頂きますっ」=“Y-Yes--! Gladly--”
+「よかった。でも、もしかして……緊張してる？」=“Great. But, are you... nervous, by any chance?”
+「す、少しだけ……男の方と一緒に帰る機会なんて、これまでありませんでしたから」=“J-Just a bit... I've never had the opportunity to walk home with a boy before, afterall.”

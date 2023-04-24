@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「たくさん、考えました……貴方のことをずっと考えて……もう一緒に居られないと、決断いたしました」=
-//「え……？　一緒に居られないって……どういうこと？」=
-//「すみません、突然のことで混乱されるのも無理のない事だと思います。ですが、これ以上は、もう……」=
-//「ま、待って！　それ以上言わないで！　俺が悪かった！　何か気に障る事があるなら直すから！」=
-//「いいえ、もう私をお気遣い頂く必要はありません。沢山の素敵な経験を……ありがとう、ございました」=
+「たくさん、考えました……貴方のことをずっと考えて……もう一緒に居られないと、決断いたしました」=“I have, thought a lot... thought so much, about you... decided that, I cannot be with you anymore.”
+「え……？　一緒に居られないって……どういうこと？」=“Eh...? Can't be with me anymore... what do you mean?”
+「すみません、突然のことで混乱されるのも無理のない事だと思います。ですが、これ以上は、もう……」=“I'm sorry, I understand that it's very sudden and very confusing. However, I don't, think I can take it any longer...”
+「ま、待って！　それ以上言わないで！　俺が悪かった！　何か気に障る事があるなら直すから！」=“W-Wait! Don't say anymore! It was my fault! If I did anything to rub you the wrong way, tell me and I'll change!”
+「いいえ、もう私をお気遣い頂く必要はありません。沢山の素敵な経験を……ありがとう、ございました」=“No, you need not be so considerate to me anymore. Thank you very much... for all the lovely memories.”

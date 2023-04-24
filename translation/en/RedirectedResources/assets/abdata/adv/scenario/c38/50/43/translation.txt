@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「きゃう！？　って、貴方でしたか……うぅ、褒められた事ではありませんよ？」=
+「きゃう！？　って、貴方でしたか……うぅ、褒められた事ではありませんよ？」=“Kyau?! Wuh, it's you... uuu, you're not going to get praise from me for this, you know?”

@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「大変気持ちよかったです……今日はお付き合いいただき、ありがとうございました」=
+「大変気持ちよかったです……今日はお付き合いいただき、ありがとうございました」=“That felt very splendid... thank you very much, for keeping me company today.”

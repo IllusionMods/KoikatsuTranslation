@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「きゃっ！？　えっ……の、覗いていたのですか？」=
+「きゃっ！？　えっ……の、覗いていたのですか？」=“Kyah--!? Eh--... w-were you peeping?”

@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「あの、お弁当を作ってきたのですが……ご迷惑でなければ、食べて頂けませんか？」=
-//「えっ、マジで！　うわっ、嬉しいな！　迷惑とか、全然ないよ！」=
-//「良かった……ありがとうございます。そこまで喜んで頂けるなんて、早起きした甲斐がありました」=
-//「憧れてたんだよね、屋上で彼女の手作り弁当を食べるの……はぁ、いい人生だったなぁ……」=
-//「もう、少し大袈裟ではありませんか？　褒められ過ぎると、お世辞のように聞こえますよ？」=
-//「いやいや、本気で嬉しいって！　と、とにかく……お弁当、もらっていい？」=
+「あの、お弁当を作ってきたのですが……ご迷惑でなければ、食べて頂けませんか？」=“Uhm, I made lunch for you... if it's not any trouble, won't you eat it?”
+「えっ、マジで！　うわっ、嬉しいな！　迷惑とか、全然ないよ！」=“Eh--, seriously!? Damn--, I'd love to! Why would it be any trouble at all!”
+「良かった……ありがとうございます。そこまで喜んで頂けるなんて、早起きした甲斐がありました」=“Thank god... and thank you. I'm glad I woke up early this morning to make it, it's made you so happy afterall.”
+「憧れてたんだよね、屋上で彼女の手作り弁当を食べるの……はぁ、いい人生だったなぁ……」=“I've always dreamed of this, you know, eating my girlfriend's handmade lunch, on the roof... haah, I can die happy now...”
+「もう、少し大袈裟ではありませんか？　褒められ過ぎると、お世辞のように聞こえますよ？」=“Jeez, aren't you exaggerating it a bit too much? Too much praise and it starts sounding like flattery, you know?”
+「いやいや、本気で嬉しいって！　と、とにかく……お弁当、もらっていい？」=“Not at all, I really am super happy! A-Anyways... could I have it, my dear?”

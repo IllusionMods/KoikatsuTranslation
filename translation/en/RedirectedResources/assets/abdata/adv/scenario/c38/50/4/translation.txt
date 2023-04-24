@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「はい、お誘い頂きありがとうございます。丁度復習したいところがありまして」=
-//「お、どこどこ？　俺もわかんないところがあるんだよね」=
-//「二人で教え合えると良いですね。わからなくても、二人で考えればきっと大丈夫です」=
+「はい、お誘い頂きありがとうございます。丁度復習したいところがありまして」=“Yes, thank you for asking me. Just as I wanted to get some review in over some things as well.”
+「お、どこどこ？　俺もわかんないところがあるんだよね」=“Oh, what things? So many things I don't get myself either, you know?”
+「二人で教え合えると良いですね。わからなくても、二人で考えればきっと大丈夫です」=“I hope we can teach each other the parts we don't understand. As long as we can think on them together, I'm sure we'll be fine.”

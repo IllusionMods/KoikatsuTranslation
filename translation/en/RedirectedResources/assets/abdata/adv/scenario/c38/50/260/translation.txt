@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「ぅぅぅ……誰にも気づかれていませんよね？　恥ずかし過ぎて、顔がずっと熱いままで……」=
-//「だ、大丈夫だと……思う。本当にありがとうね……[H名]」=
-//「お礼はいいですから……電車から降りたら、とにかく少し休ませて頂けますか？　はぁっ……」=
+「ぅぅぅ……誰にも気づかれていませんよね？　恥ずかし過ぎて、顔がずっと熱いままで……」=“Uuuu... we haven't been noticed by anyone, have we? I'm so embarrassed, my face won't stop burning...”
+「だ、大丈夫だと……思う。本当にありがとうね……[H名]」=“W-We're fine... I think. Thank you, really... [H名].”
+「お礼はいいですから……電車から降りたら、とにかく少し休ませて頂けますか？　はぁっ……」=“You needn't thank me... Once we get off the train, could we rest for a bit? Haah--...”

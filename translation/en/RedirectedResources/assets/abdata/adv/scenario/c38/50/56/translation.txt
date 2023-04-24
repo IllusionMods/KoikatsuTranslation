@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「そ、そんなっ……私に何か至らない点がございましたか？　すぐに改善いたしますので、どうか……」=
-//「ごめん……そういうことじゃないんだ」=
-//「で、では、どういうことなのでしょう？　私にはもう、出来る事は無いのでしょうか？」=
-//「うん、いきなりで悪いと思ってる。けど、もう……」=
-//「……わかりました。んっ、貴方と一時でもパートナーでいれた事、光栄でした……さようなら」=
+「そ、そんなっ……私に何か至らない点がございましたか？　すぐに改善いたしますので、どうか……」=“T-That can't--... is there something I'm lacking? I will improve any such part right away so, please...”
+「ごめん……そういうことじゃないんだ」=“Sorry... it's not that.”
+「で、では、どういうことなのでしょう？　私にはもう、出来る事は無いのでしょうか？」=“T-Then, what is it? Is there nothing, I can do?”
+「うん、いきなりで悪いと思ってる。けど、もう……」=“Yep, I do feel bad for springing this on you out of nowhere. But, I...”
+「……わかりました。んっ、貴方と一時でもパートナーでいれた事、光栄でした……さようなら」=“...I understand. Nn--, it was a great honour, to be your partner, even temporarily... goodbye.”

@@ -1,12 +1,12 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「恋とは、何なのでしょうか？　貴方なら、知っていますか？」=
-//「えっ、またいきなり、哲学的な質問だね……うーん、そうだなぁ……」=
-//「すぐに答えは出なそうだから、それを考えるのを今日のコイカツにしようか」=
-//「あ、いえ……私から言っておいてなんですが、考えて結論が出ることでも、ないのかなと……」=
-//「うーん、それもそうかも。じゃあどうしよっか？　考えても無駄なら行動あるのみ？」=
-//「確かに、それしか無さそうですね。それでは、二人でしたいことを交互にしていくという事で……」=
-//「よしっ、じゃあ……胸、触っていい？」=
-//「えぇっ！？　いきなりそれは……恋ではなくて、変です！　変態です！　もう、真面目にやってください」=
-//「いやー、真面目に考えたつもりだったんだけどなぁ……ごめん、[H名]のしたい事が先でいいよ」=
+「恋とは、何なのでしょうか？　貴方なら、知っていますか？」=“What is love? Do you know?”
+「えっ、またいきなり、哲学的な質問だね……うーん、そうだなぁ……」=“Eh--, you love those philosophical questions, don't you... nnn, let's see~...”
+「すぐに答えは出なそうだから、それを考えるのを今日のコイカツにしようか」=“It's hard to come up with an answer just like that, so why don't we make figuring that out today's love activity?”
+「あ、いえ……私から言っておいてなんですが、考えて結論が出ることでも、ないのかなと……」=“Ah, no... I am the one who asked but, I'm not sure if thinking will get us anywhere...”
+「うーん、それもそうかも。じゃあどうしよっか？　考えても無駄なら行動あるのみ？」=“Nnnn, you may be right. What should we do then? Since thinking's no good, is just figuring out practically all that's left?”
+「確かに、それしか無さそうですね。それでは、二人でしたいことを交互にしていくという事で……」=“Indeed, it doesn't seem like we have any other way. Well then, let's take turns doing the things each of us wants to do...”
+「よしっ、じゃあ……胸、触っていい？」=“Alright--, then... mind if I touch your chest?”
+「えぇっ！？　いきなりそれは……恋ではなくて、変です！　変態です！　もう、真面目にやってください」=“Eeeh--?! Starting off with that is... not love, it is strange! It is perversion! Jeez, please take this seriously.”
+「いやー、真面目に考えたつもりだったんだけどなぁ……ごめん、[H名]のしたい事が先でいいよ」=“I mean, I was being pretty serious there, doe~... sorry, we can start with whatever you wanna do first.”

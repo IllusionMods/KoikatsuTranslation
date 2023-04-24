@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「デートですか！？　それは大変光栄ですが、恐縮で……えぇと、そのっ……」=
-//「ちょ、落ち着いて？　一度深呼吸しようか？」=
-//「は、はいっ！　すー、ふぅー……今からこれでは、先が思いやられますね……あはは」=
-//「はは、実は俺も緊張してる……当日はよろしくね」=
+「デートですか！？　それは大変光栄ですが、恐縮で……えぇと、そのっ……」=“A date?! I am very honoured but, I would hate to... eerhm, uhm--...”
+「ちょ、落ち着いて？　一度深呼吸しようか？」=“Hey, calm down? Let's take a deep breath?”
+「は、はいっ！　すー、ふぅー……今からこれでは、先が思いやられますね……あはは」=“Y-Yes--! *inhale*, *exhale*... I can't help but worry about the day itself, when I'm already like this... ahahah.”
+「はは、実は俺も緊張してる……当日はよろしくね」=“Hahah, I'm actually pretty nervous too... Alright, see you on that day, okay?”

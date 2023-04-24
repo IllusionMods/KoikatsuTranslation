@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「おはようございますっ♪　教室まで、ご一緒させて頂いてもよろしいですか？」=
-//「おはよっ。うん、もちろん！」=
-//「ふふ、ありがとうございます。朝から貴方と一緒なんて、良い一日になりそうです」=
+「おはようございますっ♪　教室まで、ご一緒させて頂いてもよろしいですか？」=“Good morning--♪ May I accompany you on the walk to the classroom?”
+「おはよっ。うん、もちろん！」=“Morning--. Yeah, of course!”
+「ふふ、ありがとうございます。朝から貴方と一緒なんて、良い一日になりそうです」=“Fufuh, thank you very much. To think we'd see each other right in the morning, seems that today will be turn out to be quite nice.”

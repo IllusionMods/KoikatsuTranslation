@@ -1,12 +1,12 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「今日はその……よ、よろしくお願いします！　初めてのデート、た、楽しみましょう！」=
-//「うん、こっちこそよろしく……てか、俺達『よろしく』って言い過ぎだね」=
-//「初めてのことですので、仕方ないことかと。とにかくデート開始……で、よろしいですか？」=
-//「うん、オッケー！　それじゃ、まずはどうしようかな……」=
-//「んっ、デート、楽しめていますか？　私は、上手くできているでしょうか？」=
-//「俺は楽しいよ。やっと緊張が少し抜けてきたかな。[H名]はどうなの？　楽しめてる？」=
-//「わ、私ですか？　楽しめていると、思います。この、緊張した感じも含めて、なんだか幸せで……」=
-//「それわかる。嫌なドキドキじゃないっていうか……これぞデートって感じ」=
-//「本日は、素敵なお時間をありがとうございました。気を付けて、お帰りくださいね」=
+「今日はその……よ、よろしくお願いします！　初めてのデート、た、楽しみましょう！」=“For today, uhm... p-please take care of me! Let's enjoy our, f-first date together!”
+「うん、こっちこそよろしく……てか、俺達『よろしく』って言い過ぎだね」=“Yep, take care of me too... hey, don't we say that a lot to each other? A bit too much, almost?”
+「初めてのことですので、仕方ないことかと。とにかくデート開始……で、よろしいですか？」=“It's our first date, so it can't be helped. Anyways, could we, uhm... s-start?”
+「うん、オッケー！　それじゃ、まずはどうしようかな……」=“Yep, got it! Let's see, what should we do first...”
+「んっ、デート、楽しめていますか？　私は、上手くできているでしょうか？」=“Nn--, are you, enjoying this? Am I, doing a good job?”
+「俺は楽しいよ。やっと緊張が少し抜けてきたかな。[H名]はどうなの？　楽しめてる？」=“I am. Think my nervousness is finally disappearing. What about you, [H名]? Are you enjoying this?”
+「わ、私ですか？　楽しめていると、思います。この、緊張した感じも含めて、なんだか幸せで……」=“M-Me? I think I, am. This sense of, nervousness included, it all feels so blissful...”
+「それわかる。嫌なドキドキじゃないっていうか……これぞデートって感じ」=“I feel you. Like your heart's throbbing but it doesn't feel bad... precisely what a date should be, and all.”
+「本日は、素敵なお時間をありがとうございました。気を付けて、お帰りくださいね」=“Thank you so much, for showing me such a wonderful time today. Please be careful, on your way home, okay?”
