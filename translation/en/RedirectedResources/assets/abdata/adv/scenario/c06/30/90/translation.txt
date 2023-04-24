@@ -1,16 +1,16 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「本日は、折り入ってお願いがございます」=
-//「お願い？　何かな？」=
-//「あなたのことを、お名前でお呼びしてもよろしいでしょうか」=
-//「名前？　いいけど、俺の許可はいらないんじゃ……恋人同士だし」=
-//「それでも確認を取っておきたかったのです。では、ご承諾いただいたので……」=
+「本日は、折り入ってお願いがございます」=“Today, I have an earnest request.”
+「お願い？　何かな？」=“A request? What is it?”
+「あなたのことを、お名前でお呼びしてもよろしいでしょうか」=“Could I perhaps call you, by name?”
+「名前？　いいけど、俺の許可はいらないんじゃ……恋人同士だし」=“By name? Sure but, do you really need my permission... I mean, we're a couple.”
+「それでも確認を取っておきたかったのです。では、ご承諾いただいたので……」=“Nevertheless, I wanted to get it regardless. Well then, since I have gotten your consent...”
 「……[Pあだ名]」=“...[Pあだ名]”
-//「！？　す、すごくいいね……[H]が言うと、すごく色っぽいし」=
-//「色気はわかりませんが……貴方も、いかがですか？　愛称か何かでも」=
-//「それじゃあ……[Hあだ名]……なんてどう？」=
-//「……とてもいい響きかと存じます」=
-//「なんだか呼び方を変えるって新鮮でいいね」=
-//「はい……貴方さえ宜しければ、またお呼びしてもいいですか？」=
-//「もちろん！　いっぱい呼んでほしいな。すごく気に入ったからさ」=
+「！？　す、すごくいいね……[H]が言うと、すごく色っぽいし」=“!? T-That felt really nice... it sounds so sexy, when you say it.”
+「色気はわかりませんが……貴方も、いかがですか？　愛称か何かでも」=“I do not understand such things but... how about, you as well? Won't you call me by a 'nickname' as well?”
+「それじゃあ……[Hあだ名]……なんてどう？」=“Alright then... [Hあだ名]... how's that?”
+「……とてもいい響きかと存じます」=“...I do think it has a very sweet ring to it.”
+「なんだか呼び方を変えるって新鮮でいいね」=“Calling each other by different names feels kinda nice and fresh, doesn't it?”
+「はい……貴方さえ宜しければ、またお呼びしてもいいですか？」=“Yes... if it's alright with you, could I use that name more, please?”
+「もちろん！　いっぱい呼んでほしいな。すごく気に入ったからさ」=“Of course! I'd love to hear you call me that more. I love it, really.”

@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「単刀直入に伺います。私と子作りに励みたいとお思いになりますか？」=
-//「ぶーっ！　い、いきなり何を……そういうことは単刀直入に聞いちゃ駄目だよ」=
-//「祖母から自分の意見ははっきりと相手に伝えることと教わったので……難しいですね」=
-//（男性に対する免疫云々より、浮世離れしてるところがあるよな……）=
+「単刀直入に伺います。私と子作りに励みたいとお思いになりますか？」=“I will come straight to the point. Do you have the desire to make children with me?”
+「ぶーっ！　い、いきなり何を……そういうことは単刀直入に聞いちゃ駄目だよ」=“Bfft--! W-What are you even... you shouldn't come straight to the point about that sort of stuff.”
+「祖母から自分の意見ははっきりと相手に伝えることと教わったので……難しいですね」=“My grandmother has always taught me to make my opinion and intentions clear to others so... it is quite the difficult ask.”
+（男性に対する免疫云々より、浮世離れしてるところがあるよな……）=(Forget getting accustomed to men or whatever, first I gotta drag her down to this world that we live in...)

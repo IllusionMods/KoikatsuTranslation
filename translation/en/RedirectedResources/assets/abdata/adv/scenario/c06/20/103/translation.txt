@@ -1,18 +1,18 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「綺麗な夕空でございますね……」=
-//「ああ、そうだね」=
-//（そろそろ駅に送らないと家族が心配するかな？　まだ一緒にいたいけど……どうしよう）=
-//CHOICE:『まだ時間ある？』=
-//CHOICE:『そろそろ駅まで送るよ』=
-//「[H名]、時間が迫ってきてるのは分かってるんだけど、もう少し一緒にいてもいいかな」=
-//「貴方の望みは私の望みでございますから、否やはございません。お時間のことも、気になさらないでください」=
-//「いいの？　じゃあ[H名]と一緒に見たいものがあるんだ。ちょっと付いて来て」=
-//「そろそろ時間だね。駅まで送るよ」=
-//「まあ、貴方にそのようなご足労をおかけするわけには参りません。一人で帰れますので、どうか家で一日の疲れを癒してください」=
-//「そういう訳にはいかないよ。彼氏としてちゃんとお見送りさせてほしいな」=
-//「では……お言葉に甘えさせていただきます。お優しいのですね」=
-//「これぐらい当然だよ。それじゃ、行こうか」=
-//「はい。今日も素敵なお時間を過ごさせていただき、誠にありがとうございました」=
-//「こちらこそ、楽しかったよ。それに、デートは駅につくまでだからね」=
+「綺麗な夕空でございますね……」=“What a beautiful evening...”
+「ああ、そうだね」=“Yeah, it sure is.”
+（そろそろ駅に送らないと家族が心配するかな？　まだ一緒にいたいけど……どうしよう）=(Is her family gonna get worried if I don't see her off back home now? I wanna be with her a bit longer, if I can... what do I do?)
+CHOICE:『まだ時間ある？』=Still got some time?
+CHOICE:『そろそろ駅まで送るよ』=I'll drop you off at the station, come.
+「[H名]、時間が迫ってきてるのは分かってるんだけど、もう少し一緒にいてもいいかな」=“[H名], I know there's not much time left for us to spend together but, do you mind being with me just a bit longer?”
+「貴方の望みは私の望みでございますから、否やはございません。お時間のことも、気になさらないでください」=“Your wishes are my wishes, so I couldn't possibly say no. Please do not worry about the time either.”
+「いいの？　じゃあ[H名]と一緒に見たいものがあるんだ。ちょっと付いて来て」=“You sure? There's something I wanna see with you then. Come with me.”
+「そろそろ時間だね。駅まで送るよ」=“It's almost time, isn't it? I'll see you off at the station.”
+「まあ、貴方にそのようなご足労をおかけするわけには参りません。一人で帰れますので、どうか家で一日の疲れを癒してください」=“My, there is no need for you to go out of your way for me in that way. I can go back home by myself so, please rest and recharge yourself at home.”
+「そういう訳にはいかないよ。彼氏としてちゃんとお見送りさせてほしいな」=“I can't just let you do that. I'm your boyfriend, let me see you off atleast.”
+「では……お言葉に甘えさせていただきます。お優しいのですね」=“Well then... I shall take you up on that offer then. You're very sweet.”
+「これぐらい当然だよ。それじゃ、行こうか」=“This much is just obvious. Let's go then.”
+「はい。今日も素敵なお時間を過ごさせていただき、誠にありがとうございました」=“Yes. Thank you very much, truly, for showing me such a great time today.”
+「こちらこそ、楽しかったよ。それに、デートは駅につくまでだからね」=“Same here, I had a blast. Also, our date's not over until we get to the station, got it?”

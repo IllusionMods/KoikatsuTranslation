@@ -1,5 +1,5 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「このように一人で無聊を慰めていた私をお求めいただけるのですね……」=
-//「……かしこまりました。貴方にご鑑賞いただいた感謝の意と共に、お相手していただきます」=
+「このように一人で無聊を慰めていた私をお求めいただけるのですね……」=“You can come to want even a woman so full of ennui that she started touching herself, huh...”
+「……かしこまりました。貴方にご鑑賞いただいた感謝の意と共に、お相手していただきます」=“...I understand. I shall keep you company, partly as gratitude for your audience.”

@@ -1,11 +1,11 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「[H名]……好きだよ」=
-//「私も、愛しております……」=
-//「これからもずっと、俺の側にいてくれる？」=
-//「はい。陰ながらお支えいたします」=
-//「もし俺が浮気しても？」=
-//「浮ついた気持ちと書いて浮気と読みますが、人なら誰しも心が浮ついてしまうことがございます。必ず私の元へ帰ってきてくださるなら、構いません」=
-//「冗談のつもりだったんだけど……そんな真剣に受け止めてもらったら、[H名]一筋を貫かないわけにはいかないなぁ……」=
-//「さて、そろそろ駅まで戻ろうか」=
+「[H名]……好きだよ」=[H名]... I love you.
+「私も、愛しております……」=I love you, as well...
+「これからもずっと、俺の側にいてくれる？」=Will you be with me, forever?
+「はい。陰ながらお支えいたします」=Yes. I shall support you from behind, always.
+「もし俺が浮気しても？」=Even if I cheat on you?
+「浮ついた気持ちと書いて浮気と読みますが、人なら誰しも心が浮ついてしまうことがございます。必ず私の元へ帰ってきてくださるなら、構いません」=To cheat is to be fickle. Yet, who does not possess a fickle heart? As long as you always come back home to me, I do not mind.
+「冗談のつもりだったんだけど……そんな真剣に受け止めてもらったら、[H名]一筋を貫かないわけにはいかないなぁ……」=I kinda meant it as a joke but... when you're that serious about it all, I can't not love just you and only you...
+「さて、そろそろ駅まで戻ろうか」=Now then, let's go back to the station, shall we?

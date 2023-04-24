@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「[H]？　うなぎと牡蠣とニンニクって……これ、全部精力が増しちゃうやつだよね？」=
-//「気付いてくださいましたか？　祖母から、このようにして合図を送るのだと教わりまして……」=
-//（お祖母ちゃん、なんてことを……ありがとうございます！）=
-//「お味はいかがですか？　お肉の焼き加減と、効能も……♡」=
-//「もう全部完璧だよ。[H]はいつでもお嫁さんに行けちゃうね」=
-//「では、私のことも召し上がっていただけますか？　そろそろ良い塩梅になっておりますから……♡」=
-//「じゃ、じゃあ、いただきます！」=
+「[H]？　うなぎと牡蠣とニンニクって……これ、全部精力が増しちゃうやつだよね？」=“[H]? There's eel in this, as well as oyster, garlic and... all of these increase one's libido, don't they?”
+「気付いてくださいましたか？　祖母から、このようにして合図を送るのだと教わりまして……」=“You noticed? My grandmother taught me that this is how a woman sends her man a signal...”
+（お祖母ちゃん、なんてことを……ありがとうございます！）=(Grams, that's... thank you very much!)
+「お味はいかがですか？　お肉の焼き加減と、効能も……♡」=“Is the taste to your liking? How's the sear on the meat, and the efficacy of...♡”
+「もう全部完璧だよ。[H]はいつでもお嫁さんに行けちゃうね」=“It's all perfect. You're more than the perfect bride already.”
+「では、私のことも召し上がっていただけますか？　そろそろ良い塩梅になっておりますから……♡」=“Well then, will you eat me up as well? I do believe my body should be seasoned quite well by now...♡”
+「じゃ、じゃあ、いただきます！」=“A-Alright, I'm digging in!”

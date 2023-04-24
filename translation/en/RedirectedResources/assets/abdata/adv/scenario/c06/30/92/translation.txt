@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「素敵な一時でした。ありがとうございます」=
+「素敵な一時でした。ありがとうございます」=“That was truly wonderful. Thank you.”

@@ -4,8 +4,8 @@
 ………………=.........
 …………=......
 ……=...
-//「本日は一緒に歩いていただき、誠に有難く存じます」=
-//「お、大げさだよ……でも、すごく楽しかったよ」=
-//「もし嫌じゃなかったら、また送るから」=
-//「はい。その時は宜しくお願いいたします。それでは、失礼いたします」=
-//（まだちょっと固いけど、段々と笑顔が見られるようになってきたな。いい感じだぞ）=
+「本日は一緒に歩いていただき、誠に有難く存じます」=“I truly am grateful, for being able to spend that time with you.”
+「お、大げさだよ……でも、すごく楽しかったよ」=“Y-You're exaggerating now... but, it was a lot of fun.”
+「もし嫌じゃなかったら、また送るから」=“If it's not asking for too much, I'll drop you off again.”
+「はい。その時は宜しくお願いいたします。それでは、失礼いたします」=“Yes. At that time, please. Well then, do excuse me.”
+（まだちょっと固いけど、段々と笑顔が見られるようになってきたな。いい感じだぞ）=(She's a bit stiff still but, she's smiling more and more around me. Feels nice.)

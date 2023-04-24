@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「では、準備体操をいたしましょう」=
-//「きみは運動得意？」=
-//「運動系の習い事もしておりますので。では、向かいましょう」=
+「では、準備体操をいたしましょう」=“Well then, let us start with warm-up exercises.”
+「きみは運動得意？」=“You good at physical stuff?”
+「運動系の習い事もしておりますので。では、向かいましょう」=“My training includes quite a bit of physical activity as well, so in a way. Well then, let us get to it.”

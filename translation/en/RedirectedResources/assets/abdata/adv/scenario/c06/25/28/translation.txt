@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「私の嗜好をよくご存知なのですね。有難く存じます」=
+「私の嗜好をよくご存知なのですね。有難く存じます」=“You know my tastes really quite well, don't you? I am grateful.”

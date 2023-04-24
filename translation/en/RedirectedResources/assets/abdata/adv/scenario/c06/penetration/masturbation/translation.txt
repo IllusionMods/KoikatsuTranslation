@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「ひっ、も、申し訳ございません……このようなはしたない真似を……」=
+「ひっ、も、申し訳ございません……このようなはしたない真似を……」=“Hih--, m-my apologies... I did not mean to bare such a vulgar sight to y...”

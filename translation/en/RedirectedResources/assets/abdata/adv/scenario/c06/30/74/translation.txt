@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「体育の授業で創作舞踊をしているのですが、振り付けの練習に付き合っていただけますか？」=
-//（創作舞踊？　ああ、創作ダンスのことか！）=
-//「いいけど、協力できることあるかな」=
-//「二人一組の舞踊なので、是非協力してください。こちらが躍る手順になります」=
-//「なるほど。なんだか、女の子っぽい踊りで恥ずかしいけど……よし、一肌脱ぐか！」=
+「体育の授業で創作舞踊をしているのですが、振り付けの練習に付き合っていただけますか？」=“I shall be doing a creative waltz for our physical education class, could you perhaps help me with the choreography?”
+（創作舞踊？　ああ、創作ダンスのことか！）=(A creative waltz? Aah, so a dance!)
+「いいけど、協力できることあるかな」=“Sure but, can I really help you with that?”
+「二人一組の舞踊なので、是非協力してください。こちらが躍る手順になります」=“The dance does require a pair, so your help would be much appreciated. This is the basic outline.”
+「なるほど。なんだか、女の子っぽい踊りで恥ずかしいけど……よし、一肌脱ぐか！」=“I see. It's kind of a girly dance but... welp, guess I'll lend you a hand!”

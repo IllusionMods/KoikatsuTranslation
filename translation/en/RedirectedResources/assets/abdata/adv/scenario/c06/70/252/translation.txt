@@ -1,18 +1,18 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「おっと……混んできたね」=
-//「皆様、ご帰宅される時間なのですね」=
-//「そうだね……うおっと」=
-//（うおぉ、この体勢はやばいっ、股間が[H名]に……）=
-//CHOICE:『欲望に身を任せる』=
-//CHOICE:『必死に我慢する』=
-//（情けないけど、この快感を我慢できない……）=
-//「……まぁ。あんなに遊んだのに、お元気ですね」=
-//「面目ない」=
-//「貴方が恥じる必要はございません。どのような場所でも子を残せる準備が出来るというのは、美点でしょうから」=
-//「……じゃあ、こんなことしてもいいのかな」=
-//「まさか……ここで致す、という意思表示でございますか？」=
-//「なんていうか、辛抱たまらんってやつみたいで……」=
-//（っ、気持ちいいけど、ここは我慢しないと……！）=
-//（うぅ……好きな女の子がすぐ傍にいるのに何もできないなんて、ひどい生殺しもあったもんだ……）=
+「おっと……混んできたね」=Oh boy... it's started getting pretty packed, huh?
+「皆様、ご帰宅される時間なのですね」=It's time for everyone to go home, afterall.
+「そうだね……うおっと」=Yeah... woah--
+（うおぉ、この体勢はやばいっ、股間が[H名]に……）=(Uwoh, this position is bad, my crotch is sticking into [H名]...)
+CHOICE:『欲望に身を任せる』=Give in to your desires.
+CHOICE:『必死に我慢する』=Desperately endure.
+（情けないけど、この快感を我慢できない……）=(It's pathetic but, I can't endure this pleasure...)
+「……まぁ。あんなに遊んだのに、お元気ですね」=...My. You sure are energetic, even though we ran around so much today.
+「面目ない」=I am ashamed.
+「貴方が恥じる必要はございません。どのような場所でも子を残せる準備が出来るというのは、美点でしょうから」=There is no reason for you to be so. Since being prepared to bear a child, anywhere at any time, is a virtue.
+「……じゃあ、こんなことしてもいいのかな」=...Then, do you mind if I do this?
+「まさか……ここで致す、という意思表示でございますか？」=You couldn't... are you suggesting we do it right here?
+「なんていうか、辛抱たまらんってやつみたいで……」=I don't know how to say this, I don't think I can keep it inside...
+（っ、気持ちいいけど、ここは我慢しないと……！）=(--, it feels great but, I gotta endure it here...!)
+（うぅ……好きな女の子がすぐ傍にいるのに何もできないなんて、ひどい生殺しもあったもんだ……）=(Uuu... not being able to do anything, even with the girl you love right next to you, are there blue balls worse than this...)

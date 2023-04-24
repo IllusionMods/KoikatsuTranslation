@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「貴方が喜んでいたようで、ほっといたしました……私ですか？　その、とても、気持ちようございました……」=
+「貴方が喜んでいたようで、ほっといたしました……私ですか？　その、とても、気持ちようございました……」=“I feel quite relieved, since you seem to have enjoyed it... me? Uhm, it felt, very amazing...”

@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「お待たせいたしました」=
-//「これ、本当に今作ってきたの？　すごいな、弁当でも学食でもなくて、学園で自炊……？」=
-//「これも花嫁修業の一環です。今日は貴方が召し上がってくださるので、腕によりをかけました」=
-//「いただきます！　……うわあ、美味しい！」=
-//（きっと今すぐ嫁いでも大丈夫だろうなぁ）=
+「お待たせいたしました」=“I'm sorry for making you wait.”
+「これ、本当に今作ってきたの？　すごいな、弁当でも学食でもなくて、学園で自炊……？」=“Did you seriously make this just now? Amazing, not cafeteria food, nor a packed lunch, but rather straight up cooking at school...”
+「これも花嫁修業の一環です。今日は貴方が召し上がってくださるので、腕によりをかけました」=“This is just another part of learning to become a good wife. Since I am serving you today, I put my all into it.”
+「いただきます！　……うわあ、美味しい！」=“Alright, I'm digging in! ...Uwah, it's delicious!”
+（きっと今すぐ嫁いでも大丈夫だろうなぁ）=(I don't think she needs to learn more, she'd make a splendid wife as she is~)

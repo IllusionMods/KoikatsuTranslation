@@ -1,17 +1,17 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「おっと……混んできたね」=
-//「皆様、ご帰宅される時間なのですね」=
-//「そうだね……うおっと」=
-//（うあっ……[H名]がすぐ傍に……こ、こんなの勃起しちゃう……！）=
-//CHOICE:『いちおう我慢してみる』=
-//CHOICE:『何が何でも我慢する』=
-//（っぐ、抑えなきゃだけど……[H名]がこんな近くに居るのに、我慢なんてっ……）=
-//「……こちらの、固く、雄々しく、元気なモノは……貴方のおちんちん、ですか？」=
-//「ま、待って。触れたりしたら……我慢できなくなるよ」=
-//「お任せください、うまく……処理させていただきます」=
-//「えっ、処理？」=
-//「このような状況下においても、殿方の一番求めることを成すのが女の務め……どうか、ご協力くださいませ」=
-//（さ、さすがにそれはマズイっ！　絶対我慢しないと……！）=
-//（うぅ……好きな女の子がすぐ傍にいるのに何もできないなんて、ひどい生殺しもあったもんだ……）=
+「おっと……混んできたね」=Oh boy... it's started getting pretty packed, huh?
+「皆様、ご帰宅される時間なのですね」=It's time for everyone to go home, afterall.
+「そうだね……うおっと」=Yeah... woah--
+（うあっ……[H名]がすぐ傍に……こ、こんなの勃起しちゃう……！）=(Uwah--... she's right up against me... I-I'm gonna get erect...!)
+CHOICE:『いちおう我慢してみる』=Try enduring for the sake of it.
+CHOICE:『何が何でも我慢する』=Endure it no matter what happens.
+（っぐ、抑えなきゃだけど……[H名]がこんな近くに居るのに、我慢なんてっ……）=(--Guh, I gotta endure it but... she's right next to me, how am I supposed to--...)
+「……こちらの、固く、雄々しく、元気なモノは……貴方のおちんちん、ですか？」=...Is this, hard, manly, energetic rod is... your cock?
+「ま、待って。触れたりしたら……我慢できなくなるよ」=W-Wait. Don't touch it... I won't be able to control myself.
+「お任せください、うまく……処理させていただきます」=Please leave it to me, I shall... deal with it for you.
+「えっ、処理？」=Eh--, deal with it?
+「このような状況下においても、殿方の一番求めることを成すのが女の務め……どうか、ご協力くださいませ」=It is a woman's duty to fulfill the desires of her man, no matter the situation... please, do go along with it.
+（さ、さすがにそれはマズイっ！　絶対我慢しないと……！）=(T-That really would be too much! I definitely gotta endure...!)
+（うぅ……好きな女の子がすぐ傍にいるのに何もできないなんて、ひどい生殺しもあったもんだ……）=(Uuu... not being able to do anything, even with the girl you love right next to you, are there blue balls worse than this...)

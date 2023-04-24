@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「立ってるのつらくない？　疲れたよね」=
-//「ええ、立つことは慣れておりますので」=
-//「あはは、俺より[H名]の方が足腰しっかりしてそうだよね」=
-//「ふふ、逞しい身体付きをされている殿方には敵いません」=
+「立ってるのつらくない？　疲れたよね」=It's not hard for you to stand? You're tired, no?
+「ええ、立つことは慣れておりますので」=I am fine, I am used to standing.
+「あはは、俺より[H名]の方が足腰しっかりしてそうだよね」=Ahahah, almost feels like you have stronger legs than I do.
+「ふふ、逞しい身体付きをされている殿方には敵いません」=Fufuh, I could never match up to a man such as you, with such a manly body.

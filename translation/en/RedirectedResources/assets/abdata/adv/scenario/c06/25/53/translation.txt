@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「体調が優れないのですか？　性欲の権化のような貴方が途中でおやめになるなんて……」=
+「体調が優れないのですか？　性欲の権化のような貴方が途中でおやめになるなんて……」=“Are you feeling unwell today? I cannot simply believe a man such as you, the very personification of lust, would just stop midway for no reason...”

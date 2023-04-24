@@ -1,5 +1,5 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「あ……お早う御座います。お風呂をいただいておりました」=
-//「……こちらの布ですか？　その……貴方がお好きかと思いまして……ど、どうでしょう」=
+「あ……お早う御座います。お風呂をいただいておりました」=“Ah... good morning. I helped myself to your bath.”
+「……こちらの布ですか？　その……貴方がお好きかと思いまして……ど、どうでしょう」=“...This? Uhm... I thought you'd enjoy seeing me wear it... h-how is it?”

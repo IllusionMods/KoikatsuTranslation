@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「英語が……というより、横文字全般が苦手です」=
-//「もしかしてだけど、家の人って、全員英語だめ？」=
-//「いえ、私の英語嫌いは完全に祖母の受け売りかと……」=
-//「そっか。お祖母ちゃんの影響が強そうだもんね。ちょっと発音してみようか」=
-//「ひー、いず、と、とむ。はろー、まいねーむいず……も、申し訳ございません」=
-//（ど、どうしてこんなになるまで放っておいたんだ！？）=
+「英語が……というより、横文字全般が苦手です」=“My English is... rather, I am bad at anything that uses horizontal script, simply put.”
+「もしかしてだけど、家の人って、全員英語だめ？」=“Wild guess here but, is everyone at your home bad at English?”
+「いえ、私の英語嫌いは完全に祖母の受け売りかと……」=“No, I do believe I have inherited the dislike for it from my grandmother...”
+「そっか。お祖母ちゃんの影響が強そうだもんね。ちょっと発音してみようか」=“I see. You do seem like you take after your grandmother a lot. Let's try some pronounciation then.”
+「ひー、いず、と、とむ。はろー、まいねーむいず……も、申し訳ございません」=“Hiih, izu, t-tomu. Harow, mai neimu izu... F-Forgive me.”
+（ど、どうしてこんなになるまで放っておいたんだ！？）=(T-They let her English rot this much?!)

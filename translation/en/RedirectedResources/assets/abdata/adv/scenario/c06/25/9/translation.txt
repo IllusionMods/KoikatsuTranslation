@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「逢引きのことですね……わかりました。準備はしておりました」=
-//「え、準備？　覚悟じゃなくて？」=
-//「もちろん覚悟も準備の内です。女には他にも色々あるのです」=
+「逢引きのことですね……わかりました。準備はしておりました」=“You mean to say a tryst, do you not... I understand. I shall prepare in various ways.”
+「え、準備？　覚悟じゃなくて？」=“P-Prepare? Your heart, you mean?”
+「もちろん覚悟も準備の内です。女には他にも色々あるのです」=“Of course, that too is included. A woman has quite a lot of things she must get ready.”

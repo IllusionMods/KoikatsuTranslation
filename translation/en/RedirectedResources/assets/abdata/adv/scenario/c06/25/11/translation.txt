@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「……私が貴方にお伝えしたいこと……わかりますか？」=
-//「……えっと……」=
-//「貴方とは再三、話し合いの場を設けてきたつもりです。苦言も呈しました」=
-//「それでも貴方は応えてくれませんでした。私は、貴方をもう、信頼できません……」=
-//「……」=
-//「それでも、貴方との時間を無駄だとは思いません」=
-//「私に殿方というものを教えていただき、ありがとうございました。それでは失礼いたします」=
+「……私が貴方にお伝えしたいこと……わかりますか？」=“...I have something to tell you... can you tell what it is?”
+「……えっと……」=“...Erhm...”
+「貴方とは再三、話し合いの場を設けてきたつもりです。苦言も呈しました」=“Time and time again, I have tried to sit down and have a heart-to-heart chat with you. To air my grievances.”
+「それでも貴方は応えてくれませんでした。私は、貴方をもう、信頼できません……」=“But you never consider them. I cannot, trust in you, anymore...”
+「……」=“...”
+「それでも、貴方との時間を無駄だとは思いません」=“Even so, I do not think our time together was meaningless.”
+「私に殿方というものを教えていただき、ありがとうございました。それでは失礼いたします」=“Thank you very much, for showing to me, what a man really is. Do excuse me then.”

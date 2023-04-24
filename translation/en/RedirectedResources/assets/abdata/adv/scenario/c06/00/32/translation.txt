@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「どうしてこちらを私に？　いえ、贈り物をしてくださるのは嬉しいのですが……」=
+「どうしてこちらを私に？　いえ、贈り物をしてくださるのは嬉しいのですが……」=“Why have you given this to me? No, it is not that I am questioning the act itself, it makes me very happy...”

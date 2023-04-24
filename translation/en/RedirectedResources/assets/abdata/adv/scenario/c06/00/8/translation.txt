@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「……構いませんが、どこでされるのですか？」=
-//「い、いいの？　付き合ってないから駄目って言われるかと思った……」=
-//「私のことをよくご存じなんですね。でも、私だって貴方のことを深く理解しているつもりです」=
-//「だから、構わないと応えました……それが私の精一杯の、貴方への気持ちです」=
+「……構いませんが、どこでされるのですか？」=“...I do not mind but, where shall we be doing it?”
+「い、いいの？　付き合ってないから駄目って言われるかと思った……」=“Y-You sure? I really thought you'd shoot me down, since we're not even going out or anything...”
+「私のことをよくご存じなんですね。でも、私だって貴方のことを深く理解しているつもりです」=“I see you know me quite well. However, I do try to comprehend you in the same way, you realize.”
+「だから、構わないと応えました……それが私の精一杯の、貴方への気持ちです」=“That's why, I said I do not mind... that is how I feel towards you, the very utmost I can do for you.”

@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「お休みのところ申し訳ございません。少々お時間をいただけますか？」=
-//「実は……その、家庭科の授業でくれえぷをこしらえたのですが、是非、貴方に召し上がっていただきたくて……」=
-//「お世辞にも見てくれが良いとは言えないのですが、貴方への気持ちはしっかりと込めたつもりです」=
+「お休みのところ申し訳ございません。少々お時間をいただけますか？」=“I am sorry for bothering you, during your rest. Could I have some of your time?”
+「実は……その、家庭科の授業でくれえぷをこしらえたのですが、是非、貴方に召し上がっていただきたくて……」=“The truth is... uhm, I made these "crepes" during our home economics class just then, and I wanted nothing more than to see you trying them...”
+「お世辞にも見てくれが良いとは言えないのですが、貴方への気持ちはしっかりと込めたつもりです」=“One could not call them "good" as they look, even as flattery, however I have packed them full of my feelings for you.”

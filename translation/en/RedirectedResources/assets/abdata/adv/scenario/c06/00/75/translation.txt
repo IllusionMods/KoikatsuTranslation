@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「やはり、殿方は力が強いのですね」=
-//「そうかな？」=
-//「はい。腕も逞しくて、私とは全然違います」=
-//（じっと見られると恥ずかしい……）=
+「やはり、殿方は力が強いのですね」=“Men truly are quite powerful, aren't they?”
+「そうかな？」=“You think so?”
+「はい。腕も逞しくて、私とは全然違います」=“Yes. Such strong, robust arms, completely different from my own.”
+（じっと見られると恥ずかしい……）=(It's kinda embarrassing being stared at like that...)

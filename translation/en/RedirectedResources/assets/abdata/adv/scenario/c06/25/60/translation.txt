@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「貴方と出かけると私の見識の狭さに痛感させられます」=
+「貴方と出かけると私の見識の狭さに痛感させられます」=“Going on outings with you truly makes it set in just how little I know of this world.”

@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「きみは電車通学なんだね」=
-//「ええ。県外から一時間ほどかけて通っております」=
-//「県外？　すごいね、この学園に思い入れでもあったの？」=
-//「祖母の母校なので。私も祖母と同じ土地の空気を吸い、郷に従いたかったのです」=
-//「そっか。お祖母ちゃんが好きなんだね」=
-//「はい。私に背筋を伸ばして生きることを教えてくれた、人生の師匠です」=
+「きみは電車通学なんだね」=“You commute by train, right?”
+「ええ。県外から一時間ほどかけて通っております」=“Yes. I commute from the next prefecture over, it is about one hour one way.”
+「県外？　すごいね、この学園に思い入れでもあったの？」=“From the next prefecture? Amazing, any specific reason? Got emotional attachments to this school?”
+「祖母の母校なので。私も祖母と同じ土地の空気を吸い、郷に従いたかったのです」=“It is the alma mater of my grandmother. I wanted to savour the same air as my grandmother once did, and follow the traditions of my hometown.”
+「そっか。お祖母ちゃんが好きなんだね」=“I see. You must really love your grandma, huh?”
+「はい。私に背筋を伸ばして生きることを教えてくれた、人生の師匠です」=“Yes. She is the one who taught me how to live with my held up high, my mentor.”

@@ -2,8 +2,8 @@
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
 「んーっ、よく寝た。……あれ？　メモがある。なになに――」=“Mmm, I slept well. ...Oh? There's a letter. What's it say...?”
-//『拝啓　逢瀬の残炎くすぶる朝、心地よい疲れに充足感を味わっていることと存じます』=
-//『さて、私は外泊の報告のため、お暇させていただきます』=
-//『外泊は予め伝えてあることですから、ご心配には及びません。本日も変わらず登校いたします』=
-//『つかの間のお別れとなりますが、お慕いする貴方様のお顔を学園で拝見する時を心待ちにしております』=
-//『敬具　[H]』=
+『拝啓　逢瀬の残炎くすぶる朝、心地よい疲れに充足感を味わっていることと存じます』=『Dear, I hope you are savouring the lingering afterglow, of our little tryst.』
+『さて、私は外泊の報告のため、お暇させていただきます』=『I shall be heading home myself, in order to report to my parents.』
+『外泊は予め伝えてあることですから、ご心配には及びません。本日も変わらず登校いたします』=『I had informed them earlier of my stay with you last night, so you need not worry. I shall attend our classes as usual.』
+『つかの間のお別れとなりますが、お慕いする貴方様のお顔を学園で拝見する時を心待ちにしております』=『We shall have to be apart for a little, but I am deeply looking forward to seeing your face at school, my beloved.』
+『敬具　[H]』=『Sincerely yours, [H]』

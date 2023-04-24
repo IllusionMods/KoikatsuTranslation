@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「へえ、色々あるんだね」=
-//「くれえぷを一緒に食べていただいても、よろしいですか？」=
-//「うん、いいよ」=
-//「くれえぷは、一緒に食べると甘酸っぱい味がするのですね……ぽっ」=
-//（よかった、喜んでもらえたみたいだ）=
+「へえ、色々あるんだね」=“Hoh, there's all sorts, huh?”
+「くれえぷを一緒に食べていただいても、よろしいですか？」=“Would it be alright if we get one of those crepes to share?”
+「うん、いいよ」=“Of course.”
+「くれえぷは、一緒に食べると甘酸っぱい味がするのですね……ぽっ」=“Crepes taste all the sweeter when you share them, huh... *nom*”
+（よかった、喜んでもらえたみたいだ）=(Great, looks like she's enjoying herself.)

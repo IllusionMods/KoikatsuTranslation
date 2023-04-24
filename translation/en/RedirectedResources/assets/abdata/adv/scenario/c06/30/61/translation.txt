@@ -1,24 +1,24 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「貴方と街を練り歩くのは妙妙たるお時間ですが、こうして緑に囲まれて過ごすのも格別ですね」=
-//「気に入ってくれたみたいでよかった」=
-//「不思議ですね。貴方といるだけで、何の変哲もない緑が輝きを増しているようです」=
-//「俺も[H]と一緒だと、普通の公園でも楽しいよ」=
+「貴方と街を練り歩くのは妙妙たるお時間ですが、こうして緑に囲まれて過ごすのも格別ですね」=“Walking around the town with you is nothing short of wonderful, yet spending time surrounded by greenery like this is quite special as well.”
+「気に入ってくれたみたいでよかった」=“I'm glad you're enjoying yourself.”
+「不思議ですね。貴方といるだけで、何の変哲もない緑が輝きを増しているようです」=“It really is strange. Just being with you, makes this everyday greenery seem downright radiant.”
+「俺も[H]と一緒だと、普通の公園でも楽しいよ」=“For me, having you by my side makes this park seem fun too, [H].”
 ………………=.........
-//「……あれっ？　俺、もしかして寝ちゃってた？」=
-//「お早う御座います。麗らかな陽気に誘われてしまいましたね」=
-//「ごめんっ！　話してる途中に寝ちゃうなんて酷いこと……」=
-//「いいえ。貴方の寝顔を拝見出来るなんて、奇蹟の如き僥倖で御座いました。私としましては大満足です♪」=
-//「そ、それならよかったけど……」=
-//「うふふ。恋活部や普段の生活でお疲れなのですね。どうぞ、私の膝枕で夢の続きをご覧ください……」=
-//「今日は何だか、息抜きみたいになっちゃったね」=
-//「想いを寄せる人とゆっくり過ごせるのは、幸せの証拠です。またこのような時間を過ごしましょう」=
-//「また……うん、そうだね……またゆったりとしたいよね……」=
-//（どうしよう。家に誘ってみようかな？）=
-//CHOICE:「もう少し一緒にいたいな」=
-//CHOICE:「俺も楽しかったよ、それじゃあね」=
-//「[H]さえ良ければ、もう少し一緒にいたいな」=
-//「……はい。貴方がそう望むのなら、私も覚悟を決めます」=
-//「俺も楽しかったよ、それじゃあね」=
-//「ええ。また学園でお会いしましょう」=
+「……あれっ？　俺、もしかして寝ちゃってた？」=“...Huh--? Did I fall asleep, or something?”
+「お早う御座います。麗らかな陽気に誘われてしまいましたね」=“Good morning. I see the weather managed to enchant you.”
+「ごめんっ！　話してる途中に寝ちゃうなんて酷いこと……」=“Sorry--! Falling asleep in the middle of a chat is the worst thin--...”
+「いいえ。貴方の寝顔を拝見出来るなんて、奇蹟の如き僥倖で御座いました。私としましては大満足です♪」=“No. Being able to savour your sleeping face like this, it was almost miraculous fortune. As far as I'm concerned, I couldn't have enjoyed myself more♪”
+「そ、それならよかったけど……」=“I-I mean, I guess it's fine then but still...”
+「うふふ。恋活部や普段の生活でお疲れなのですね。どうぞ、私の膝枕で夢の続きをご覧ください……」=“Ufufuh. It must be the fatigue from all the hard work you do for the club and in your life. Please, do rest your head on my lap and continue your dreams...”
+「今日は何だか、息抜きみたいになっちゃったね」=“Today kinda turned into just a bit of relaxation, didn't it?”
+「想いを寄せる人とゆっくり過ごせるのは、幸せの証拠です。またこのような時間を過ごしましょう」=“Spending such time with the one you have given your heart to, is the very definition of happiness. Let us do this again sometime.”
+「また……うん、そうだね……またゆったりとしたいよね……」=“Again... yeah, you're right... wouldn't it be nice to do that again...”
+（どうしよう。家に誘ってみようかな？）=(What to do? Should I try inviting her over?)
+CHOICE:「もう少し一緒にいたいな」=I wanna spend some more time together.
+CHOICE:「俺も楽しかったよ、それじゃあね」=I had fun too. See you later.
+「[H]さえ良ければ、もう少し一緒にいたいな」=“If it's alright with you, I wanna spend some more time together.”
+「……はい。貴方がそう望むのなら、私も覚悟を決めます」=“...Yes. If that is your desire, I shall make up my heart as well.”
+「俺も楽しかったよ、それじゃあね」=“I had fun too. See you later.”
+「ええ。また学園でお会いしましょう」=“Yes. Let us see each other at school.”

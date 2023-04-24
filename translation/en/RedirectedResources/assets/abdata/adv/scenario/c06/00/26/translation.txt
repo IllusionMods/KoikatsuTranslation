@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「まあ、何でしょう。ここで開封してもよろしいですか？」=
+「まあ、何でしょう。ここで開封してもよろしいですか？」=“My, I wonder what it is. Is it alright if I unpack it right here?”

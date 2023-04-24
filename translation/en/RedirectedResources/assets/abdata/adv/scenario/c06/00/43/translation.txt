@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「うふふ、そんなに私の身体を確かめたいなら、直接触ってみてはいかがです？」=
+「うふふ、そんなに私の身体を確かめたいなら、直接触ってみてはいかがです？」=“Ufufuh, if you desire my body so much, why not touch it and feel it directly?”

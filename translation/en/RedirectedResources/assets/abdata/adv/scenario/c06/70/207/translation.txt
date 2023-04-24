@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「そろそろ閉園時間だね。帰ろうか」=
-//「はい、真っ暗になるまで遊んでいただき、感謝いたします」=
-//「こちらこそ、楽しい時間を共有してくれて嬉しいよ」=
-//「本当なら、ずっとここで遊んでいたいのですが……」=
-//「あはは、わかる。でも、終わりがあるからまた来たくなるんだよね」=
-//「ふふ、そうですね。いずれ、また二人で参りましょう」=
+「そろそろ閉園時間だね。帰ろうか」=It's almost closing time, isn't it? Let's go home.
+「はい、真っ暗になるまで遊んでいただき、感謝いたします」=Yes, I am very grateful, that you let us run around today until it got pitch dark out.
+「こちらこそ、楽しい時間を共有してくれて嬉しいよ」=Same here, I'm really glad I got to share this with you today.
+「本当なら、ずっとここで遊んでいたいのですが……」=Honestly, if possible, I would have liked to stay here forever with you...
+「あはは、わかる。でも、終わりがあるからまた来たくなるんだよね」=Ahahah, I feel you. But, only by there being an end can we look forward to coming next time, no?
+「ふふ、そうですね。いずれ、また二人で参りましょう」=Fufuh, indeed. Let us come here together again, someday.

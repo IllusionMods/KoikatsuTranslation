@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-//「どうやら、周りの方々に見つかってはいないようですね」=
-//「ごめんね[H名]、こんなところで……」=
-//「女の出来は、このような緊急事態にこそ試されます。貴方のとめどない感情を受け止めることが出来て、安心しております」=
+「どうやら、周りの方々に見つかってはいないようですね」=“It seems as though we have gone unnoticed by others.”
+「ごめんね[H名]、こんなところで……」=“I'm sorry, [H名], making you do that here...”
+「女の出来は、このような緊急事態にこそ試されます。貴方のとめどない感情を受け止めることが出来て、安心しております」=“It is only during emergency situations such as this, that a woman's worth is thoroughly tested. The fact that I have the ability to accept your overflowing emotions, provides me endless relief.”

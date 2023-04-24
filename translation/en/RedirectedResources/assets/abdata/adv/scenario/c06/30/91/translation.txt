@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-//「お早う御座います、[Pあだ名]」=
-//「あ……おはよう、[Hあだ名]。何だか元気をもらえたかも」=
-//「うふふ、喜んでいただけたなら、何よりです」=
+「お早う御座います、[Pあだ名]」=“Good morning, [Pあだ名].”
+「あ……おはよう、[Hあだ名]。何だか元気をもらえたかも」=“Ah... morning, [Hあだ名]. Man, that really energized me up.”
+「うふふ、喜んでいただけたなら、何よりです」=“Ufufuh, I am glad to hear that.”
