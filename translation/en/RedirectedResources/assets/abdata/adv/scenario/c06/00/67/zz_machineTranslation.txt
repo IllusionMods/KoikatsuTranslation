@@ -1,5 +1,0 @@
-「申し訳ございません、無理を言って寄り道させていただいて……」=“I'm sorry I insisted on making the detour...”
-「そんな大げさなことじゃないよ。むしろ、公園でよかったの？　何もないけど」=“It's not that big of a deal. You're rather glad we're in the park?　Not that there's anything to it.”
-「ええ。子供や主婦の伸びやかな声に耳を傾けながら、ゆったりと流れる時間に身を任せるのが好きなんです」=“You can accompany her if you're worried. I like to listen to the children and the housewives and just relax and let the time pass.”
-「常に礼儀やお作法などに気を張っているので、何もしないで素の自分でいることが心のお洗濯になります」=“You're always so concerned about etiquette and manners that it's a great way to wash your mind and body by just being yourself.”
-（素の[H]か……そんなところを見せるぐらい、俺に気を許してくれているんだな……）=(I'm not sure if it's just me or if it's [H], but I'm sure she's allowed me enough time to show it...)

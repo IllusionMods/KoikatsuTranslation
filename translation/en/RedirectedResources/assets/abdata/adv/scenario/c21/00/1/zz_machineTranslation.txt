@@ -1,5 +1,0 @@
-「[H姓]さん、今時間ある？　出来れば話したいなって」=“[H姓], are you free right now?　I'd like to talk to you if I can.”
-「うん、大丈夫だよ。何か面白いことでもあったのかな？」=“Yeah, I'm fine. Did something funny happen?”
-「いや、普通に、あまり話したことなかったからだよ」=“No, it's just that we haven't really talked much.”
-「えへへ、そういうことなら大歓迎ー」=“Heh heh, I'd be happy to help you with that.”
-「よかった、それじゃ……」=“Great, then...”

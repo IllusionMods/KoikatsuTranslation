@@ -16,7 +16,7 @@
 「えっ？」=“Eh--?”
 「なにかに――誰かに、あんなに元気を貰ったのって初めてかもしれない」=“I don't think I've ever felt so much energy from something or someone.”
 「それくらい凄い演技だったと思うんだ」=“I think it was such a great performance.”
-「……」=“...”
+「……」=...
 素直な感想を告げたところ、桜は黙り込んでしまった。=When I told her my honest impression, Sakura fell silent.
 （なにか余計なこと言っちゃったかな……？）=(I'm sorry, did I say something I shouldn't have ...?)
 俺がそんなことを考えていると、桜の小さな唇が動く。=The first thing to do is to make sure that you have a good idea of what you are looking for.

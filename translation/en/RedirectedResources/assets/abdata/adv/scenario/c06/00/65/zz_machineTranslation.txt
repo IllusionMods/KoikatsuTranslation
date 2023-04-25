@@ -1,6 +1,0 @@
-「きみは電車通学なんだね」=“You go to school by train.”
-「ええ。県外から一時間ほどかけて通っております」=“Yeah. Yeah. I commute an hour from out of state.”
-「県外？　すごいね、この学園に思い入れでもあったの？」=“Outside the prefecture? "That's amazing, did you have a fondness for this school?"”
-「祖母の母校なので。私も祖母と同じ土地の空気を吸い、郷に従いたかったのです」=“It's my grandmother's alma mater. I wanted to breathe the same local air as my grandmother and follow my hometown!”
-「そっか。お祖母ちゃんが好きなんだね」=“I see. You like my grandmother, don't you?”
-「はい。私に背筋を伸ばして生きることを教えてくれた、人生の師匠です」=“Yes. He's the man who taught me to stand up straight. He's my mentor.”

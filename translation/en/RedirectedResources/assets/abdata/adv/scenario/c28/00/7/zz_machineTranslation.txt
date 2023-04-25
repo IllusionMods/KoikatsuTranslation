@@ -1,6 +1,0 @@
-「なっ！？　きゅ、急に何を言い出すのじゃ！　驚くではないか！」=“Huh?　What are you talking about all of a sudden?　You startled me!”
-「びっくりさせるつもりはないんだ。本当の気持ちだよ」=“I don't mean to startle you. I'm not trying to freak you out. I'm just trying to be real.”
-「わ、わしのことをそんな……ほ、本当に本当か？」=“I'm not a child.”
-「ああ。俺はきみのことが好きだ。付き合ってほしい」=“Yeah. I like you. I want you to go out with me.”
-「……わしも、お主のことが好きなのじゃ。わしでいいなら、付き合ってやってもよいぞ？」=“...I like you too. If it's okay with me, I'll go out with you.”
-「本当かい？　よかった……改めて、これからもよろしくね」=“Really?　I'm glad ... to hear it, and I look forward to working with you again.”

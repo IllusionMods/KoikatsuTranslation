@@ -1,6 +1,0 @@
-「へぇ、これがラブホテルなのね。ちょっとだけでもいいから、する前に色々見させて？」=“So this is a love hotel. Can I just take a look around before I do it?”
-「い、いいけど……もうちょっと恥ずかしがったりするかと思った」=“I thought you might be ... a little shy.”
-「心臓はもう痛いくらいに鳴ってるわよ。でも、それ以上に色々見ておきたくて」=“My heart is already thumping painfully. But I wanted to see more than that.”
-「わかった。[H名]の気が済むまでしていいよ。俺はベッドの上で待ってるね」=“Okay, you can do whatever you want until [H名]'s satisfied. I'll be on the bed.”
-「あっ、先にシャワーを浴びていてもいいわよ？　少し時間がかかりそうだから」=“Oh, you can take a shower first, okay?　It's gonna take me a little while.”
-（うぅ……お得意の意識の高さが……俺を焦らしまくっている事に気付いてるのかな？）=(Ugh... you realize that your special awareness is making me impatient...?)

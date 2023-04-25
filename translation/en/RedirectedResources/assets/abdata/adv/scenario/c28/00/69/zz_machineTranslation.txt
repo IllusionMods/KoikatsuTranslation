@@ -1,6 +1,0 @@
-「あ、ねえ、ここなんだけどわかる？」=“Oh, hey, you know what? This is the place.”
-「……ん？　あ、それはここの問題の応用じゃな」=“... hmm?　Oh, that's an application of the problem here.”
-「あー、なるほどね。ありがと」=“Oh, I see. Thanks.”
-「……ん？　なんかニヤニヤしてるけどどうした？」=“...?　What's with the grin?”
-「いや、お主と勉強するとはかどるのう、と思ってな」=“I'm just thinking that studying with you would be a good way to get started.”
-「２人で勉強するのもいいよね」=“I don't know... studying together would be nice.”

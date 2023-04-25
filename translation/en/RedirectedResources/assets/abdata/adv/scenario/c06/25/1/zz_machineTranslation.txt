@@ -1,5 +1,0 @@
-「あ、今ちょっといいかな」=“Ah, do you have a moment?”
-「初めまして。お噂はかねがね伺っております」=“Nice to meet you. I've heard so much about you.”
-「じゃあ、話が早いかな。よかったら、俺とお話してもらいたいんだ」=“I'll think of something then. I've got a lot on my mind.”
-「学園長が発案されたと聞いています。私でよろしければ協力させてください」=“I heard it was the Dean's idea. If it's all right with me, I'd be happy to help.”
-「ありがとう！　それじゃあ早速……」=“Thank you!　I'll see you soon then...”

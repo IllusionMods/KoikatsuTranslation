@@ -1,4 +1,0 @@
-「やー、晴れた空の下で運動するのは最高だね、[H名]の汗も光ってるよ」=“Hey, it's great to work out under a sunny sky, [H名]'s sweat is glistening.”
-「やっ、ど、どこを見ているのですか？　それ以上、近付かないでください」=“What are you looking at?　Don't come any closer.”
-「あー、うそうそ、ごめんて！　ほら、運動後の整理体操をしよう」=“Oh, no, no, no. Sorry!　Come on, let's do some post-workout exercises.”
-「うぅ、匂いとか、嗅がないでくださいね？　ほ、本当に怒りますよ？」=“Ugh, don't smell me or anything, okay?　I'll be really angry.”

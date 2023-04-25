@@ -1,7 +1,0 @@
-「あ、それじゃあ私、こっちだから……」=“Oh, I'm over here then...”
-CHOICE:「……この後、家にこれないかな？」=...Wanna come to my place?
-CHOICE:「じゃあ、またね」=CHOICE: "Okay, I'll see you later."
-「あのさ、よかったら家に来ない？　まだ[H]といたいんだ」=“You know, you can come over to my house if you want.　I'd still like to hang out with [H].”
-「え、いいの？　うん、行く行く！　私もまだ一緒にいたかったから、すっごく嬉しい♪」=“Oh, you don't mind?　Yeah, I'm coming!　I'm so glad we're still together.”
-「あ、そっか。じゃあまたね！」=“Oh, I see. See you later!”
-「キミといると本当に時間がすぐ過ぎちゃう♪　またね、バイバイ♪」=“Time really flies when I'm with you. See you later, bye-bye.”

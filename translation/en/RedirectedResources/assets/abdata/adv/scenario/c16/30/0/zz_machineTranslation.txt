@@ -1,9 +1,0 @@
-「今いいかな？　出来れば君と話してみたいんだけど」=“Is this a good time?　I'd like to talk to you if I could.”
-「えぇ、いいわよ。私もアナタには興味があったの」=“Yeah, sure. You know, I've always been interested in you.”
-「そっか、それはちょっと嬉しいかな。俺は[P名前]って言うんだ。よろしく」=“Well, that would be kind of nice. My name's [P名前]. Nice to meet you.”
-「勘違いしないでね？　あくまで一人の男性として気になるという事よ」=“Don't get me wrong.　It's just that I'm interested in you as a man, that's all.”
-「えっ、それってまさか……いきなり告白？」=“What, does that mean ... you suddenly confessed?”
-「ち、違うわ！　な、何でそうなるのよ……男を知るためのサンプルとして興味があるという事！」=“No, no!　What are you saying? ... that you're interested in me as a sample to get to know the guy!”
-「あー、ここ女子校だったもんね、男に関心はあるけど僕個人にはまだないって感じかな？」=“Uh, this was an all-girls school, so it's like you're interested in guys, but not me personally yet?”
-「最初からそう言ってるでしょ。男は理解力が低いの？」=“I've been saying that from the beginning. Are men so hard to understand?”
-「あはは……人それぞれって感じかな。次からはすぐ理解できるように頑張るよ」=“I'm sure you'll be able to find something that you like. I'll do my best to understand it right away next time.”

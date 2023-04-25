@@ -1,5 +1,0 @@
-「誰にも見られてないわよね？」=“No one saw you, right?”
-「大丈夫大丈夫、心配ないよ」=“It's okay. It's okay. Don't worry.”
-「もう、適当なんだから」=“I'll hide you if I have to.”
-「気にしすぎてもしょうがないからね。よしっ、そろそろ帰ろうか」=“I don't care too much about you. All right, I'd better be getting home.”
-「あなたくらい、気楽になってみたいものだわ」=“I'd like to be as comfortable as you are.”

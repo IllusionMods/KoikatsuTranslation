@@ -1,3 +1,0 @@
-「はい、お誘い頂きありがとうございます。丁度復習したいところがありまして」=“Yes, thank you for inviting me. I just have a few things I need to review.”
-「お、どこどこ？　俺もわかんないところがあるんだよね」=“Oh, where is it?　There's something I don't understand, too.”
-「二人で教え合えると良いですね。わからなくても、二人で考えればきっと大丈夫です」=“It's good if we can teach each other. If you don't understand something, you can figure it out together and you'll be fine.”

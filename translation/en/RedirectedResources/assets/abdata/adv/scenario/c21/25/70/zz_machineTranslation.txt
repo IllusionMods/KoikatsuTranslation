@@ -1,6 +1,0 @@
-「……じゃあ、答え合わせしてみよっか」=“... then, let's try to answer the question.”
-「うん！　あっ、昨日ママに教えてもらったところ、正解してる！」=“Yeah!　Oh, I'm right where my mom showed me yesterday!”
-「お母さんに勉強見てもらってるの？」=“Do you have your mom watching you study?”
-「たま～にね。私と違ってママは優秀だからね！　エッヘン！」=“Sometimes. Unlike me, you're a good mom!　Ahem!”
-「そこは自慢するところじゃないような……うん？　これ、間違ってるよ？」=“I don't think that's something to brag about... Yeah?　I'm not proud of it.”
-「え”……？」=“What? "..."?”

@@ -1,4 +1,0 @@
-「ふぅ。ちょっと疲れたから、休憩にしない？」=“I'm not sure what to do with it. I'm a little tired, so why don't we take a break?”
-「えぇ、そうね。私も少し汗かいちゃったわ」=“Yeah, sure. I'm sweating a little too.”
-「そ、そう……」=“Yeah, that's right...”
-「目線がいやらしいとこに行ってるわよ？　ふふっ、今はダメ。あとで……ね？」=“Your eyes are going to the most disgusting places, okay?　Not now. I'll see you later at ..., okay?”

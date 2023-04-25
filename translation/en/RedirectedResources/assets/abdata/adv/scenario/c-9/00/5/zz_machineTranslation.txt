@@ -36,7 +36,7 @@
 「あ、あのさ、桜」=“Oh, you know, Sakura.”
 「なに？」=“What is it?”
 「その……この前はごめん。桜の気も知らないで、勝手なこと言って」=“I'm sorry about the ... other day. I'm not sure what you're talking about, but I'm sure it's something you'd like to hear.”
-「……」=“...”
+「……」=...
 「……ふぅ」=“...Fuu”
 「ううん。あの時は私も言い過ぎたわ。ごめん……」=“I'm sorry. I was out of line at the time. I'm sorry...”
 「『私のことなんてなにも分からないでしょ？』って、そりゃ分からないわよね。なにも話してないんだから」=“You don't know anything about me, do you? I don't know anything about you. You don't know anything about me. I haven't told you anything.”

@@ -128,7 +128,7 @@
 「いやよ。豚の餌を食べる趣味はないの」=“No. I have no taste for pig food.”
 「は？　お断りよ。前から思っていたけど、何なのそれ？」=“What?　No, thank you. I've always wondered what that was all about.”
 「そうやって貴方は、これからもチャンスを逃していくのでしょうね」=“I'm sure that's how you'll continue to miss out on opportunities.”
-「一緒に帰らない？」=“How about we walk home together?”
+「一緒に帰らない？」=“Won't you walk home together with me?”
 「あら、珍しくタイミングがいいじゃない。丁度荷物持ちが欲しかったの」=“Well, your timing is unusually good. I was just looking for a baggage handler.”
 「嫌よ。豚と一緒に歩いていたら、飼い主だと思われるかもしれないもの」=“No. I don't want to be walking around with a pig that might think I'm its owner.”
 「あの、[H名]さん。もしよかったら、デートしない？」=“Um, Mr. [H名]. Would you like to go out on a date?”

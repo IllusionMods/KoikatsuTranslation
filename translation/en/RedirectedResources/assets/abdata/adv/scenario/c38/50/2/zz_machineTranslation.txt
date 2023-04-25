@@ -1,7 +1,0 @@
-「段々と貴方のことがわかってきました。最近は、もっと知りたいと思うようになってしまって」=“I'm getting to know you better and better. Lately, I've been wanting to know more about you.”
-「ほんとに！　そういうのなら大歓迎！　俺のことなら、何でも聞いていいよ？」=“Really!　You're welcome to it!　You can ask me anything you want about me, okay?”
-「ふふ、それでは少しずつ。一気に聞いてしまったら、楽しみが無くなってしまいますから」=“You can ask me anything about me. If you ask me everything at once, I won't be able to enjoy it.”
-「そういうことなら、俺も[H名]のこと、色々聞いていい？」=“In that case, can I ask you some questions about [H名]?”
-「はい、遠慮なく聞いてください。私に興味を持って頂けるなんて、嬉しいです」=“Yes, feel free to ask. I'm glad you're interested in me.”
-「やった！　もう俺、[H名]に興味津々だからっ！」=“Yes!　I'm already very interested in [H名]!”
-「あ、そこまで言われてしまうと、照れてしまいますので……貴方も少しずつで、お願いいたします」=“Oh, I'm so embarrassed to hear you say that, so please ... take your time.”

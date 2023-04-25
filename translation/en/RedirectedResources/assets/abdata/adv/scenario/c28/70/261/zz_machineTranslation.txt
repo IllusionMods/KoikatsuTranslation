@@ -1,4 +1,0 @@
-「あっ……ありがとう」=“Oh ... thank you”
-「あんな状態のお主を放っておけなかったのじゃ」=“I couldn't leave you like that.”
-「気持ち……よかったかのう？」=“It feels ... good?”
-「あぁ……すっごく気持ちよかった」=“Oh ... that felt so good!”

@@ -1,4 +1,0 @@
-「お待たせ[H名]。喉乾いてるかなと思って、飲み物買ってきた」=“Hey, [H名], I thought you might be thirsty, so I got you a drink.”
-「暑いから、とりあえずスポーツドリンクにしたけど、良かったかな？」=“It's hot, so I made a sports drink anyway. I hope that's okay.”
-「大丈夫よ、ありがとう。ちなみに、運動した後はミルクを飲むといいのよ。回復と体づくり、両方に効果があるわ」=“I'm fine, thanks. By the way, you should drink milk after a workout. It's good for both recovery and bodybuilding.”
-「へぇ、そうなんだ。じゃあ、デートの後はミルクを買って、二人で飲もうか」=“Oh, I see. Well, after our date, I'll get us some milk and we can drink it together.”

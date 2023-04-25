@@ -37,7 +37,7 @@
 「ううん、何だか……その……私のこと、すごくよく見てくれているみたい」=“I'm not sure if it's me, but it seems like ... that ... you're really paying attention to me.”
 「あ……えっと……まぁ、見ていると言えば見ているけど……」=“Ah... eh... well, I'd say I'm looking at it, but I'm looking at it...”
 「そ、そうなんだ？」=“T-That so?”
-「う、うん……」=“Y-Yeah...”
+「う、うん……」=“K-Kay...”
 何気ない会話の流れから、なぜかとてつもなく恥ずかしい空気になる。=The casual flow of conversation somehow leads to an incredibly embarrassing atmosphere.
 でもだからと言って、こんな様子の姫川さんを見過ごすわけにはいかない。=But that doesn't mean I can't let Himekawa-san look like this.
 「だから……なんて言うか、今日はちょっと元気がないなぁって感じちゃって」=“So ... I don't know what to say, I just feel a little down today.”
@@ -48,7 +48,7 @@
 そうしてどこか寂しそうに視線を落とした。=The first thing to do is to make sure that you have a good time.
 「ちょっとお仕事のことで悩んでるの」=“I'm having a little problem with my job.”
 「仕事のこと……聞いてもいい？」=“Can I ask you about your work ...?”
-「うん」=“Yeah.”
+「うん」=“Sure.”
 少しだけ身体を斜めにして、自分の足先を見るような仕草。=A gesture as if looking at her own toes, slanting her body a little.
 手持ち無沙汰なのか、両手の指をお互いに組んだり外したりする。=The fingers of both hands are interlocked and unclasped, as if they are bored.
 「新しい曲を作ってもらったんだけどね。それが上手に歌えないの」=“I've got a new song I've been working on. I can't sing it very well.”
@@ -73,8 +73,8 @@
 「あはは、違うよ。ここ女子校だし……何より姫川さん、すごく忙しいし……仕方ないよね」=“Haha, no. It's an all-girls school, so Himekawa-san is really busy, so it can't be helped.”
 「本当にそう思ってる？　バカにしてない？」=“You really think so?　Don't you think I'm an idiot?”
 「してないって。というか、俺達くらいの年齢だったら、恋愛経験ない人もたくさんいるよ」=“I didn't. I mean, there are a lot of people our age who have never been in love.”
-「そ、そうかな？」=“Y-You think so?”
-「そうだよ」=“That's right.”
+「そ、そうかな？」=“Y-you think so?”
+「そうだよ」=“Yes, it is.”
 いつか姫川さんが言い切ってくれたように、今度は俺がはっきりと言い切る。=Just as Himekawa-san said it out loud to me one day, this time I'm going to say it out loud and clear.
 その言葉で納得してくれたのか、姫川さんはまた笑顔を浮かべながら……。=The words convinced me, and Himekawa-san smiled again...
 「[P姓]君の言う通り、女子校で出会いもないし、忙しいから恋愛する時間もないの」=“[P姓]-kun's right, I can't meet anyone at an all-girls school, and I'm so busy that I don't have time for romance.”

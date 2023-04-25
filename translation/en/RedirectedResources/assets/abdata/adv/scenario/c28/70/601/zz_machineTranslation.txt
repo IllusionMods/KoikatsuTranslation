@@ -1,6 +1,0 @@
-「初めて来たが、なんだかすごいところじゃのう……」=“I've never been here before, but it's kind of an amazing place ...”
-「緊張してる？」=“You nervous?”
-「……少しだけ緊張しておる」=“... I'm a little nervous.”
-「そんな[H名]もカワイイ」=“I'm not sure I'd like to see [Hあだ名]'s face like that.”
-「……むぅ、からかいおって……優しくするんじゃぞ？」=“...Mmm, you're teasing me...Be nice to me, okay?”
-「大丈夫だよ。任せて」=“It's okay. I got it.”

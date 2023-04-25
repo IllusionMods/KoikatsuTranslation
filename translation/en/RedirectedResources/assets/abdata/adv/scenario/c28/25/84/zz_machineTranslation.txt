@@ -1,5 +1,0 @@
-「この珍妙な部活は基本的にどんなことをするのじゃ？」=“What's the basic plan for this curious club?”
-「まあ、普通の恋人たちがすることを、実践していくってところかな」=“Do you do a lot of running, [H名]? Well, I do what most couples do.”
-「恋人たち、のう……それならば、お主がわしと、手をつなぐ……とかかのう？」=“Lovers, eh ... then, you could hold hands ... with me, couldn't you?”
-「そうだね、まずは手をつないでみようか？」=“I know, let's just hold hands first.”
-「うむ……。しかし、なんじゃ……こう改まってすると、必要以上に照れるのう……」=“Yes... But what ... is it? I'm a little more embarrassed than I should be when I'm in a formal situation like this...”

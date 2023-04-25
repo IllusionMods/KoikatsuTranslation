@@ -1,3 +1,0 @@
-「いい天気ね。ちょっと休憩していきましょうか」=“It's a beautiful day. Let's take a break.”
-「いいね。あそこのベンチに座ろう」=“Nice. Let's sit on that bench over there.”
-「フフッ、どうしたの？　もう少し近くに座ってもいいのよ？」=“What's wrong?　You don't mind if I sit a little closer?”

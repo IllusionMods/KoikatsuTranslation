@@ -1,4 +1,0 @@
-「あ、来た。おーい、[H名]さん。こっちだよ」=“Oh, here she comes. Oh, hey, [H名]. Over here.”
-「あら、随分早いのね。なにかいいことでもあったのかしら？」=“Oh, you're up early. Oh, you're up early.”
-「今日のデートが楽しみだったからだよ……って、その顔はわかってて言ってるね？」=“Because I was looking forward to today's date..., you know that look on your face, don't you?”
-（さて、今日はどこに行こうか……）=(So, where shall we go today? ...)

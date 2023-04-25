@@ -72,7 +72,7 @@
 「私もばっちり聞きましたよ！　部長の告白！」=“I heard it all too!　Confession of a boss!”
 「なんだか、私の方がドキドキしちゃってます！」=“I'm a little more nervous than you are!”
 「ふふっ。でも、一番ドキドキなのは、やっぱり本人よね」=“Hmm... But the most exciting part is you, isn't it?”
-「うん……」=“Yeah...”
+「うん……」=“Okay...”
 桜は、とても良い子だと思う。=I think Sakura is a very good girl.
 素直になれない部分もあるけど、根は真っ直ぐで、一生懸命で。=She may not be honest in some ways, but her roots are straight and she tries her best.
 仲間を思いやる優しさも持っている。=She has the kindness to think of her friends.

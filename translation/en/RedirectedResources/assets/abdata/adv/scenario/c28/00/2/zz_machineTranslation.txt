@@ -1,7 +1,0 @@
-「お主とはなかなか話が合うのう。わしとこうまで語れる者がおるとは」=“You and I get along very well. I never thought I'd find someone with whom I could talk so much.”
-「俺もそう思うよ。話しても話し足りないくらいだね」=“I think so too. I can't talk about it enough.”
-「また時間があったらこれからもわしのところへ来るがよい」=“If you still have time, come to me again in the future.”
-「お主との談笑も悪くない。わしがそう言っているのだから来るのじゃぞ」=“I'm not going to have this conversation with you. You're coming because I say so.”
-「俺も、[H姓]さんと話すのは楽しいし、喜んで来させてもらうよ」=“I love you too, [H名]. I love talking to you too, [H姓].”
-「うむ、待っておるぞ」=“I'll be waiting for you.”
-「……おぉ、もうこんな時間か。それではさらばじゃ」=“... Oh, is it that time already? Well then, goodbye.”

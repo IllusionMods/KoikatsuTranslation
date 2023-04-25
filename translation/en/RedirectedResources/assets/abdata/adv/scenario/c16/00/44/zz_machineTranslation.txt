@@ -1,5 +1,0 @@
-「へえ、色々あるんだね」=“Hoh, so many different spots...”
-「あら、あそこのお店、お洒落な感じね。少し入ってみない？」=“I'm not sure if it's a good idea to go to the store. You want to come in for a bit?”
-「うん、いいよ」=“Yeah, it's fine.”
-「品揃えが良くて、価格も手ごろで。うん、悪くないお店だったわね。また来ましょ」=“I'm sure you'll be able to find something you like. Yeah, it's not a bad place. Let's come back.”
-（よかった、喜んでもらえたみたいだ）=(I'm glad, looks like she had a good time)

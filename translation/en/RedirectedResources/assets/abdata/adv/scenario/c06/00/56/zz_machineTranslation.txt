@@ -1,5 +1,0 @@
-「…………わかりました」=“...Okay!”
-「ごめん……」=“Sorry...”
-「いえ、どのような理由であろうと、至らぬ私に非がございます」=“No, I'm afraid, whatever the reason, it's my fault.”
-「短い間ではございましたが、貴方との日々を貴重な糧にして、さらに邁進してまいります」=“I know it's been a short time, but I will use my time with you as valuable nourishment and push forward even further.”
-「それでは…………失礼いたします」=“Now, if you'll excuse me, I have to go to ...”

@@ -1,4 +1,0 @@
-「それで、今日はどこへ行くのじゃ？」=“So, what can I do for you?”
-「今日はそうだな……喫茶店にでも行こうか」=“Let's go to a coffee shop ... today.”
-「ふふっ、緑茶も悪くないが、こうしてお主と飲む紅茶やコーヒーも悪くないのう」=“Green tea is not bad, but drinking tea or coffee with you like this is not bad either.”
-「そうだね。俺もこうして二人でのんびりしてる時間、好きだよ」=“Yeah, I know. I love our time together like this.”

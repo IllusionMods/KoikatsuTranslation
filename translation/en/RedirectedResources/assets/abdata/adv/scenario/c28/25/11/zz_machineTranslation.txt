@@ -1,5 +1,0 @@
-「のう、お主とわしは恋人じゃよな？　付き合うとはこういうものなのか？」=“You and I are lovers, aren't we?　Is this what being in a relationship is all about?”
-「どうしたの、改まって……何かあったの？」=“What's wrong? What's wrong?”
-「……もう前からなのじゃ。お主が好きなのかわからぬ。話していても楽しくないのじゃ」=“...It's been a while now. I don't know if I like you. I don't enjoy talking to you.”
-「待ってって。いきなりそんな話されても……」=“Wait. I'll wait for you. I'll think it over...”
-「わしのことはもう放っておいてくれんか？　お主とも話とうない。さらばなのじゃ」=“I'm not afraid of anything, am I?　I don't want to talk to you either. I don't want to talk to you either.”
