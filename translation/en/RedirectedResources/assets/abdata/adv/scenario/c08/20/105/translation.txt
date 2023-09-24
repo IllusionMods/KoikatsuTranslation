@@ -11,7 +11,7 @@
 「あ……ほんとだ！　えへへ、おかしいな……私ちょっと……本当に感動しちゃったみたい……」=“Ah... you're right! Ehehe, man... looks like I really got a bit... too moved...”
 「なんか、そう言ってくれるとすごくうれしいな……」=“Hearing you say that makes me so incredibly happy...”
 「うれしいのは私の方だよ……ここ……本当にいい場所だね……」=“I'm the one who's happy... this place... it really is such a nice place...”
-「[P名]君と一緒にこんな素敵な場所に居られて私、幸せだよ」=“Being able to be in a place like this with you, [P]-kun, I feel blessed.”
+「[P名]君と一緒にこんな素敵な場所に居られて私、幸せだよ」=“Being able to be in a place like this with you, [P名]-kun, I feel blessed.”
 「俺も……幸せだ」=“I feel... blessed too.”
 「ねぇ、キス……しよ？」=“Hey, let's... kiss?”
 「ああ」=“Okay.”
@@ -20,7 +20,7 @@
 「ねぇ……もっと……強くして欲しい……」=“Hey... I want you... to be greedier...”
 「あ、ああ……」=“S-Sure...”
 「んん……」=“Nn...”
-「チュッ……んん……、んっ……」=*kiss*... nn... nn......
+「チュッ……んん……、んっ……」=“*kiss*... nn... nn...”
 「……すごく体が熱くなって来てる」=“...My body's starting to burn up.”
 「なんか……俺、もう、我慢できない……」=“I kinda... can't seem to, hold it in...”
 「なぁ、このまましちゃっても……いいかな？」=“Hey, could we... do it?”

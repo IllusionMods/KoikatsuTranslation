@@ -10,11 +10,11 @@
 「な、なんかちょっと照れるな……」=“M-Man, this is pretty embarrassing...”
 「……あーん」=“...Aahn.”
 「ほら、卵焼きだよ、あーん♪」=“Here, it's an egg role, here it comes~♪”
-「むぐぅっ……ふんふん！　こ、これはおいしい！」=*chew*... Hmmmm! T-This is amazing!
+「むぐぅっ……ふんふん！　こ、これはおいしい！」=“*chew*... Hmmmm! T-This is amazing!”
 「やった～♪　じゃあ、次はこれ！　はい、あ～ん！」=“Yay~♪ Then, the next one is this! Here, open wide~!”
 「ありがとう。おいしいよ」=“Thanks. It's really good.”
 「ねぇ。これって[H名]が作ったの？」=“Hey, did you make this, [H名]?”
-「な、なんてこと言うの～。私が一人で……ごにょごにょ」=W-What are you saying~. By myself, I could never... *mumbling*
+「な、なんてこと言うの～。私が一人で……ごにょごにょ」=“W-What are you saying~. By myself, I could never... *mumbling*”
 「え？　最後なんて言ったの？」=“Eh? What did ya say just then? I couldn't catch it.”
 「そ、そんなことより！　これもおいしいよ、はい、あ～ん！！」=“F-Forget that! This is tasty too, here, open up~!!”
 「んぐっ！　いや、俺の質問に……」=“Nnguh--! No, but I was asking if...”

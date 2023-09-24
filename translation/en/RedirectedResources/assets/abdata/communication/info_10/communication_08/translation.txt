@@ -280,7 +280,7 @@
 「あなたのことはとても信頼してるんだぁ。これからもよろしくね♪」=“I trust you a whole lot. Take care of me in the future too, okay?♪”
 「もっといろんなことを教えてほしいのだけど……ダメかな？」=“I'd love if you taught me a whole lot more... no good?”
 「あなたのお話、とっても面白かったよ」=“That was really interesting.”
-「…………今日も良い天気だなぁ」=“......Really nice weather out today too.”
+「…………今日も良い天気だなぁ」=“...Really nice weather out today too.”
 「…………えっと、どうしたのかな？」=“...Erhm, what's the matter?”
 「怒ってない。ただ哀しくなっただけだよ」=“I'm not mad. It just made me sad, that's all.”
 「もうずっと哀しいままなんだよ」=“I've been really sad, for a good while now.”
@@ -337,7 +337,7 @@
 「えっと……デートがしたいんだけど、どうかな？」=“Erhm... I wanna go out on a date with you, how about it?”
 「いいよぉ♪　えへへっ。デートってワクワクするよね」=“Sure♪ Ehehe--, dates make you really excited, don't they?”
 「最近はちょっと忙しくて……ごめんなさい」=“I've been a bit busy lately... I'm sorry.”
-「じ～…………で、デート……しよ？」=*stare*... w-wanna go on... a d-date?
+「じ～…………で、デート……しよ？」=“*stare*... w-wanna go on... a d-date?”
 「えへへっ、断られたらどうしようかなぁってドキドキだったんだよぉ」=“Ehehe--, I was really worried about what I'd do if you said no.”
 「そっかぁ……残念だなぁ。じゃあまた今度誘ってみるね」=“I see... what a shame. Well then, I'll try again some other time.”
 「一緒に勉強しない？」=“Won't you study with me?”
@@ -465,7 +465,7 @@
 「どうして嬉しそうに、二の腕をぷにぷにするの？　や、やめてほしいなぁ」=“Why'd you start poking my arm so happily all of a sudden? P-Please stop.”
 「普通が一番良いの？　本当？　特徴なにもないのになぁ……でも、ありがとぉ♪」=“You like a normal figure the best? Really? I've got nothing for you to write home about though... but, thanks♪”
 「貧相な身体だけれど、愛してくれてありがとぉ。えへへっ、幸せだなぁ」=“I've got a pretty seedy figure but, thanks for loving me all the same. Ehehe--, I'm so blessed.”
-「ええっ！　こんなのでも、あなたの彼女なのになぁ……ぐすん」=Eeh--! Even if I'm like this, I'm your girlfriend, you know... *sob*
+「ええっ！　こんなのでも、あなたの彼女なのになぁ……ぐすん」=“Eeh--! Even if I'm like this, I'm your girlfriend, you know... *sob*”
 「……私が、そんな風にさせてるんだね……ごめんなさい」=“...I'm the one, who's making you feel that way, aren't I... I'm sorry.”
 「はぁ……良かったぁ。やっと仲良しに戻れた」=“Haa... I'm glad. We finally made up.”
 「本当はあなたとケンカなんてしたくないんだよ。仲良くしていたいんだよ」=“It's not like I want to pick a fight with you, you know? I want us to be happy and close.”
@@ -475,7 +475,7 @@
 「ふふっ、おっぱいじっと見てどうしたの？」=“Fufu--, what's got you staring at my boobs?”
 「そんなに熱心に見られたら、私……」=“If you stare at them with such a hot gaze, I'll...”
 「……見てるだけでいいの？」=“...Satisfied with just looking?”
-「…………悲しいなぁ」=“......I'm so sad.”
+「…………悲しいなぁ」=“...I'm so sad.”
 「あっ……♪　ちょっと寂しくなってたの。だから手を握ってくれて……落ち着いた」=“Ah--...♪ I was feeling a bit lonely. So you holding my hand... really calmed me down.”
 「そ、その繋ぎ方はダメぇ。恥ずかしくて頭がクラクラしちゃうからダメぇ」=“N-No holding me like that. It makes my head go dizzy from embarrassment, so just no.”
 「やっぱり手を繋ぐのは恥ずかしいよ。今は顔見ないで……！」=“Holding hands really is embarrassing. Don't look at my face for now...!”
@@ -527,9 +527,9 @@
 「もちろん♪　早速行こぉ。えっすぐじゃないの？　じゃあ何回寝たらデートの日？」=“Of course♪ Let's go now. Eh--, not right now? How many times do I need to sleep before its our date?”
 「じ～…………（デートに行きたいなぁ）」=“Stare~... (I wanna go on a date)”
 「ええっ、デートのお誘い？　行こう行こう♪　私たち、心が通じ合ってるね♪」=“Eeh--, are you asking me out on a date? Let's go, let's go~♪ Our hearts are connected, aren't they?♪”
-「……な、なんにも言ってませんよ～だ」=......I-I didn't say anything, *pout*
+「……な、なんにも言ってませんよ～だ」=“...I-I didn't say anything, *pout*”
 「うん♪　二人で勉強した方が捗るものね。今準備するから待っててぇ」=“Yeah♪ We'll get done a lot faster if we study together. I'll go get my things so just wait, okay?”
-「じ～…………（テスト勉強手伝って）」=“Stare~...... (Help me study for the test)”
+「じ～…………（テスト勉強手伝って）」=“Stare~... (Help me study for the test)”
 「心が通じたぁ♪　救世主彼氏様ぁ、ありがとぉ♪」=“You read my mind♪ Thank you for saving my butt, Mr. Boyfriend♪”
 「ううっ……彼女が赤点でもいいのかなぁ」=“Uuu--... Are you sure you're fine with your girlfriend failing all her tests?”
 「うん。ちゃんとした運動だよね？　エッチなことはしちゃダメだよ」=“Yeah. You mean actual exercise, right? No doing lewd stuff.”

@@ -6,7 +6,7 @@
 「突然だけど、俺のことを愛称で呼んでほしいんだ！」=“I know it's sudden but, I want you to call me by a nickname!”
 「なぁんだ、そんなことか！　いいよー！　そうだ、せっかくだし、愛称、付け合いっこしようよー！」=“What, just that sort of thing? Sure! Right, since we're doing this, let's give each of us a nickname!”
 「ありがとう。でも二人の愛称はもう考えてるんだ。俺のは[Pあだ名]っていうんだけど」=“Thanks. But, I've already got nicknames in mind for both of us. Mine would be [Pあだ名].”
-「……あれ？　なにか違うような？」=“......Huh? Why does that sound a bit iffy to me, for some reason?”
+「……あれ？　なにか違うような？」=“...Huh? Why does that sound a bit iffy to me, for some reason?”
 「その……普通じゃないかもだけど、どうしても呼んでほしいんだ」=“That's... I know it's not the normal sort of nickname but, I really want to hear you call me that.”
 「そっかぁ。うん、私に任せてよー！」=“I see. Yeah, leave it to me!”
 「じゃあ早速～……[Pあだ名]♪」=“Well then, let's see~... [Pあだ名]♪”

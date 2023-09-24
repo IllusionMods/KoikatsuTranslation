@@ -16,12 +16,12 @@
 「ぷはぁ……！」=“Puhaa...!”
 「いきなりどうしたんだ？」=“What's the matter, all of a sudden?”
 「えっと……その……始まった時からずっと緊張しちゃってて……」=“Erhm... how do I say this... I've been nervous this whole time...”
-「でも、[P名]君の顔をしっかり見たら緊張が解けちゃった」=“But, now that I got to look at your face up close again, all my nervousness melted away, [P]-kun.”
+「でも、[P名]君の顔をしっかり見たら緊張が解けちゃった」=“But, now that I got to look at your face up close again, all my nervousness melted away, [P名]-kun.”
 「そりゃよかった。ほら、もっと見ていいよ？」=“I'm glad to hear that. Come on, you can stare some more, you know?”
 「も、も～っ！　ほら、牧師さん見てるよ？　キス……しようよぉ……」=“J-Jeez~! C'mon, the priest's staring at us, you know? Let's... kiss...”
 「まぁ、急かすなって。この時間をもっと大切にしたいんだよ……」=“Well, don't rush me. I want to treasure this moment for a bit longer...”
 「これは本当の結婚式じゃないけど、俺にとっては本物と同じなんだ」=“This isn't a real wedding, but to me, it's no different from the real thing.”
-「ふふっ、[P名]君も私と一緒だったんだね」=“Fufu--, you feel the same way about it, huh, [P]-kun?”
+「ふふっ、[P名]君も私と一緒だったんだね」=“Fufu--, you feel the same way about it, huh, [P名]-kun?”
 「……私も、この式は本物だと思ってるよ」=“...I'm thinking of this as the real thing too.”
 「だって、こんなこと一生にあるかないかだもん」=“I mean, this sort of thing doesn't exactly happen all that often.”
 「ああ、一生に一度あるかどうかだ」=“Yeah, it's a once in a lifetime thing.”
@@ -30,7 +30,7 @@
 「当たり前だ。絶対に忘れない」=“Of course. I won't ever forget.”
 「私も今日のことは絶対に忘れないよ」=“I will never forget about today either.”
 「んんっ……」=“Nnnn--...”
-………………=.........
-…………=......
+………………=...
+…………=...
 ……=...
 「ありがとう……大好きだよ……[P名]君」=“Thank you... I love you... [P名]-kun.”

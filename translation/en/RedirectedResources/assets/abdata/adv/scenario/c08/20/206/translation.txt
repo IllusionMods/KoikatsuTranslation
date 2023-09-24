@@ -4,8 +4,8 @@
 「やっと乗れたね」=“We finally got to go on.”
 「なんだか今日は行列に並んでばっかりいたような気がするよ……」=“I feel like we've done nothing but line up for rides all day today...”
 「そうだね……やっと、座って休めるよぉ……」=“Yeah... we can finally, sit and catch a breather...”
-「今日も[P名]君の隣に座る！」=“[P]-kun, I'll sit right next to you today too!”
-「[H名]ちょっと暑苦しいよ……」=“[H], it's like way too hot right now for this...”
+「今日も[P名]君の隣に座る！」=“[P名]-kun, I'll sit right next to you today too!”
+「[H名]ちょっと暑苦しいよ……」=“[H名], it's like way too hot right now for this...”
 「そんなこと言わないでよぉ、ちょっとくらい暑くたって隣同士がいいの！」=“Don't say that, even if it's a bit hot, I want us to be together!”
 「あ、あそこ！　さっき私たちがいたとこだよね」=“Ah, look! That's where we were just then, isn't it?”
 「ほら、人があんなに小っちゃく見える！　ごまみたい！」=“Look, everyone looks so small from here! Like a bunch of rice grains!”

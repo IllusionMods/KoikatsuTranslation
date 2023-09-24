@@ -5,4 +5,4 @@
 「……わからないの」=“...I don't get it.”
 「教えてあげるよ。どこが分からないんだ？」=“I'll help you. What part don't you get?”
 「えっとねぇ……どこがわからないのか、わからないの」=“Erhm, you see... I don't get which part I don't get.”
-「…………」=“......”
+「…………」=“...”

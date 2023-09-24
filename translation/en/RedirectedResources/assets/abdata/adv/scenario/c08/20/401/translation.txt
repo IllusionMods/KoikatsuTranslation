@@ -8,7 +8,7 @@
 「えぇ～！　テレビでもやったんだぁ！　知らなかったよ」=“Eeh~! Even the telly, huh! I didn't know that.”
 「でも、私が調べてここに決めてなかったら、[P名]君絶対来てないでしょ」=“But, if I didn't check it out beforehand and decide on this place, you'd never have come here, right?”
 「そうかも。テレビで紹介されてる店って意外に行かないんだよな」=“Yeah, maybe. You don't really go to places that show up on TV all that often, do you? I certainly don't.”
-「[P名]君って噂の有名店とかに興味ないんだね」=“You don't really care all that much about the popular stores and whatnot, do you, [P]-kun?”
+「[P名]君って噂の有名店とかに興味ないんだね」=“You don't really care all that much about the popular stores and whatnot, do you, [P名]-kun?”
 「私は、『お昼時には大行列が！』とか、『限定３０個が即完売！』みたいなのはすぐ行っちゃうな～」=“I always end up rushing out whenever I hear things like『People line up all the way to the intersection to get lunch here!』or『The daily limited runs sell out immediately!』and whatnot~”
 「そっか。じゃあ、いつかそういうお店でもデートしてみる？」=“I see. Then, wanna try having a date in one of those places one of these days?”
 「いいね～、すごく楽しそう♪」=“Sounds like a ton of fun~, let's do that♪”
