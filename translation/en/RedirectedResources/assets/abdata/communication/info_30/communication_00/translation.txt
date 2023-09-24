@@ -297,7 +297,7 @@
 「本当！？　嬉しすぎてもう死んじゃいそうだわ」=“Really?! I feel like I'm going to die from happiness.”
 「そ、そうよね、まだ早いわよね……ごめんなさい、今のは忘れて」=“O-Of course, you're right, it's still too early for us, isn't it... I'm sorry, forget I said anything.”
 「やっぱり君のこと諦められなくて……もう一度聞かせて。私が彼女じゃダメ？」=“I really can't give up on you... Please let me ask again. Am I not worthy of you, of being your girlfriend?”
-「嘘……じゃないわよね。ありがとう……！」=“No way... you're not joking, right? Thank you......!”
+「嘘……じゃないわよね。ありがとう……！」=“No way... you're not joking, right? Thank you...!”
 「そう……残念。でも、これからもいいお友達でいてね」=“I see... shame. But, let's stay good friends still, okay?”
 「あ、あのさ、きみとHしたいなって」=“H-Hey, I was just thinking, if we could have sex.”
 「ごめんなさいね。私、そこまで軽い女じゃないの」=“I'm sorry. I'm not that easy a woman.”
@@ -549,7 +549,7 @@
 「ねぇ」「ちょっといい？」「あのね」「実は……」=[Hey] [Got a moment?] [Listen] [Actually...]
 「ねぇ、[Hあだ名]」=“Hey, [Hあだ名].”
 「ふふっ、どうしたの？　[Pあだ名]。もう、君が照れてどうするのよ」=“Fufu--, what's up, [Pあだ名]? Jeez, what are you blushing for?”
-「……今、そう呼ばれても嬉しくないわ」=“......Right now, hearing you call me that doesn't make me happy.”
+「……今、そう呼ばれても嬉しくないわ」=“...Right now, hearing you call me that doesn't make me happy.”
 「ねーえ……[Pあだ名]」=“Heeey~... [Pあだ名].”
 「どうしたの？　[Hあだ名]」=“What's up, [Hあだ名]?”
 「ううん、何でもないわ。ちょっと呼んでみたかっただけ♪」=“It's nothing. I just wanted to call you that, that's all♪”

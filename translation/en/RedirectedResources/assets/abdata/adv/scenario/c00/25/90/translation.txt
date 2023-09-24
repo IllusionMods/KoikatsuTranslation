@@ -8,7 +8,7 @@
 「ほーら、私のことは？」=“Come on, what about me?”
 「あ……えっと、[Hあだ名]……」=“Ah... erhm, [Hあだ名]...”
 「あーん、いいわいいわ～♪　すっごくキュンキュンしちゃう。ね、もっと呼んで？」=“Aaahn, nice nice~♪ Makes my heart throb real fast. Hey, call me that more?”
-「……[Hあだ名]？」=“......[Hあだ名]?”
+「……[Hあだ名]？」=“...[Hあだ名]?”
 「ふぅ……すっごくイイ……君の特別になれたって感じ……」=“Fuu... feels amazing... feels like I became special to you...”
 「そんなにいいなら……また呼んであげるよ」=“If it feels that good... then I'll call you that again sometime.”
 「ありがと♪　私もまた呼んであげるわね……[Pあだ名]って」=“Thanks♪ I'll call you that too... [Pあだ名].”
