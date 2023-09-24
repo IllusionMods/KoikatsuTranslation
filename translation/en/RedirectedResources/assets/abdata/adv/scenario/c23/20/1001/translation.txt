@@ -11,7 +11,7 @@
 「別のスタッフがお支度部屋までご案内しますので、少々お待ちください」=“There is other staff coming that will guide you to the changing rooms and help you get into the clothes, so please wait here for a bit.”
 「そっか……モデルをやるんだから着替えるのは当たり前か」=“I see... we're going to be modelling, I guess changing outfits is par for the course.”
 「ま、まさかワタシがウェディングドレスを着ることになるとは……あわわ……」=“I-I can't believe I'm going to be wearing a wedding dress... awawah...”
-「ん？　[H名]？　大丈夫？」=“Nn? [H]? You alright?”
+「ん？　[H名]？　大丈夫？」=“Nn? [H名]? You alright?”
 「だ、大丈夫。ただこんな趣味だから、一生ウェディングドレスなんて着ることないと思ってたので驚きで……」=“I-I am. I mean, you know the sort of hobbies I have, I really thought that I'd never get to wear a real wedding dress, so I'm just a bit shocked...”
 「趣味なんて関係ないさ。それに近い将来、モデルじゃなくて本番で着ることになると思うよ？」=“Who cares about your hobbies? Not to mention, I'd bet real money on you wearing a real wedding dress real soon, you know?”
 「なっ！？　そ、それって、ワタシとけっこ――」=“Wha--!? I-Is that, is that a propo--”
@@ -19,8 +19,8 @@
 「式の流れなどは、お支度部屋にてご説明させていただきますね」=“Things like flow of the ceremony and how to do things will be explained inside the changing room itself.”
 「あっ、はい。それじゃあ、また後でね」=“Ah--, yes. Well then, see you in a bit.”
 「え、えぇ……」=“Y-Yes...”
-………………=.........
-…………=......
+………………=...
+…………=...
 ……=...
 （……着替えてみたけど、服に着られてる感がすごい）=(...Well I got changed. These clothes feel amazing tho. Almost too amazing.)
 （っと、スタッフさんが呼んでる。さっきの所に戻るのかな？）=(Oh, the staff is calling me. Suppose I should go back?)

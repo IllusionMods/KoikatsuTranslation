@@ -2,7 +2,7 @@
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
 「席が空いてないとか……ついてないな」=“No seats... pretty bad RNG, not gonna lie.”
-「[H名]、大丈夫？　立ってるの辛くない？」=“You okay, [H]? Sure you're okay standing?”
+「[H名]、大丈夫？　立ってるの辛くない？」=“You okay, [H名]? Sure you're okay standing?”
 「た、立ったまま死んでる……ッ」=“I-I've got one foot in the grave here...--”
 「そんなネタをやる余裕があるなら平気だね」=“If you've still enough energy to crack jokes like that then you're probably fine.”
 「い、言ってみたかっただけなんだなぁ……」=“I-I just wanted to try saying it~...”

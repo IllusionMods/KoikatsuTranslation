@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「さて初めてのデート。ゲームでは練習してきたけれど（汗）」=“Now then, our first date. I did practice for it with a game, for what it's worth.(;^ω^)”
+「さて初めてのデート。ゲームでは練習してきたけれど（汗）」=“Now then, our first date. I did practice for it with a game, for what it's worth.（；^ω^）”
 「俺もドキドキしてる。初めてのデートだし、今日はいっぱい思い出作ろうね」=“My heart's pounding too. It's our first date, so let's make lots of memories today, okay?”
 「えぇ、それでは出陣と参ろうか～」=“Yes, well then, shall we head out for the front lines~?”
 「うん、行こう」=“Yeah, let's go.”

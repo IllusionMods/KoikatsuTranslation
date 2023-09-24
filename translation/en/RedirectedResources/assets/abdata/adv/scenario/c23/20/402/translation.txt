@@ -16,5 +16,5 @@
 「えー、そんな～……私、お腹ペコりんこで死んじゃうよ（悲）」=“Eeh~, no way~... I'm so hungry I'mma die~”
 「あー……うん……」=“Ah~... yeah...”
 「……モノマネ、結構似てるんだけど、なんか落ち着かないかも」=“...It does resemble her pretty good but, it's kinda putting me off.”
-「俺はいつもの[H名]と話したいから、口調を戻してくれる？」=“I'd much rather talk to the normal you, [H], so could you go back to being the real you?”
+「俺はいつもの[H名]と話したいから、口調を戻してくれる？」=“I'd much rather talk to the normal you, [H名], so could you go back to being the real you?”
 「う、うん……戻すよ。自分でやってて、恥ずかしかったし……」=“O-Okay... I will. It was pretty embarrassing, to do that on the spot too...”

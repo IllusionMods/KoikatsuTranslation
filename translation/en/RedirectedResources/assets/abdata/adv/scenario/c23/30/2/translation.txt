@@ -6,5 +6,5 @@
 「そうだね。もっと仲良くなれたらいいね」=“Yeah. I hope we do.”
 「ゲームやアニメの話もまだ話したいことあるんだ。二次元は奥深くて」=“I still wanna talk lots about anime and games. The second dimension is so deep and profound.”
 「また聞きたいよ。これからもよろしくね」=“I'd love to talk more about it. Let's keep chatting lots and lots, alright?”
-「えぇ、よろしく（照）」=“Yes, let's ^_^”
+「えぇ、よろしく（照）」=“Yes, let's. ^_^”
 「また話せると、うれしいなぁ。では、また」=“I hope you, come chat with me again. See you later.”

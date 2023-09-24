@@ -11,7 +11,7 @@
 「ええ！　ファンとして絶対に手に入れないと！　……ダメかなぁ？」=“Yes! As a fan, I absolutely must have it! ...Could we please?”
 「ダメじゃないよ。数量限定みたいだし、急ごうか」=“We sure can. Seems like there's limited stock, let's get it done quickly.”
 「ありがとう！　早速出撃だー！」=“Thank you! Let's sortie!”
-………………=.........
+………………=...
 「はぁ……はぁ……ゴールか？」=“Haah... haah... are we at the finish line?”
 「み……みたいだね……ふぅ……」=“L... Looks like it... fuuuh...”
 「間に合ったみたいだけど、何か問題が出題されてるね」=“We made it in time but, looks like there's some sort of task or problem you gotta solve.”
