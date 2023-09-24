@@ -14,6 +14,6 @@
 「わかりました、観念します。口を開けてください」=“Understood. I'll give in. Please open your mouth.”
 「やった。……あーん」=“Yay. ...Aaahn.”
 「はい、どうぞ」=“Here you go.”
-「あむっ……」=*bite*--...
+「あむっ……」=“*bite*--...”
 「……ん、美味しいね。[H名]にあーんしてもらったから余計に」=“...Nn, it's delicious. Almost too much so, because you fed it to me.”
 「それは、その……ありがとうございます」=“That's, uhm... thank you very much.”

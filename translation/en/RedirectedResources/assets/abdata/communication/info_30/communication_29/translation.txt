@@ -230,7 +230,7 @@
 「あっ、そうだ。この前、夜に隣の部屋から――」=“Ah--, right. The other night, from the next apartment over--”
 「ま、窓が開けっ放しだったのでしょうか……」=“D-Did they leave their window open...”
 「あなたとしては、冷静沈着な人はどうですか？　付き合いやすいですか？」=“What do you think of people who are always calm and collected? Do you think they're easy to be around?”
-「くすっ、良かったです……あっ、いえ、なんでも……ありません」=*giggle*--, I'm glad... ah--, no, it's... nothing.
+「くすっ、良かったです……あっ、いえ、なんでも……ありません」=“*giggle*--, I'm glad... ah--, no, it's... nothing.”
 「なるほど。では、もっと精進します」=“I see. Well then, I'll try even harder.”
 「コーヒーはブラックで飲みますか？」=“Do you drink your coffee black?”
 「やっぱりブラックが一番ですよね。香りも味も、しっかり楽しめますから」=“Black coffee truly is the best, isn't it? You can easily savour both the aroma and the taste, afterall.”
@@ -413,9 +413,9 @@
 「……そのような直球を投げてくることでしょうか」=“...I'd say the way you ask such things so directly.”
 「今のところは特に……。り、理想の彼氏ですよ、あなたは」=“Nothing stands out to me at the moment... Y-You're my ideal boyfriend, you know?”
 「は、恥ずかしいですね……話題を変えましょう」=“I-It's rather embarrassing... let's talk about something else.”
-「最近、ずっと[H]のことを考えてるんだ」=“I've been thinking about you a lot recently, [H名].”
+「最近、ずっと[H]のことを考えてるんだ」=“I've been thinking about you a lot recently, [H].”
 「そ、そうですか…………私も、あなたのことを思っていますよ」=“I-Is that so... I always think of you too.”
-「[H]なしの人生って考えられないなぁ」=“Can't think of a life without you anymore, [H名].”
+「[H]なしの人生って考えられないなぁ」=“Can't think of a life without you anymore, [H].”
 「お、大げさすぎではありませんか？…………うれしいですけど」=“A-Aren't you exaggerating a bit too much? ...I'm really happy though.”
 「お風呂では腕から洗う方？」=“When you take a bath, do you start with washing your arms first?”
 「いきなりなにを聞くんですか？　その……一応正解です」=“Just what are you asking me all of a sudden? For what it's worth, uhm... you're on the money.”

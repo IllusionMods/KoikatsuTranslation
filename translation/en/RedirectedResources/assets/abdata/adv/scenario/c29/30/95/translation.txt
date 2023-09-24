@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「すぅ……すぅ…………ん、んん……」=*snore... *snore*... Nnn, nnnn...
+「すぅ……すぅ…………ん、んん……」=“*snore... *snore*... Nnn, nnnn...”
 （んぅ……すごく気持ちいいような……いったい、何が……？）=(Nn... Something feels amazing... just what, is it...?)
-「…………」=“......”
+「…………」=“...”
 「って……え？　え？」=“...Eh? Eh?”
 「お目覚めですか。それでは、激しくしちゃいますね♪」=“Are you awake? Well then, I'll do it more intensely♪”
 「ちょっ、待って――」=“Wai--, just wait--”
