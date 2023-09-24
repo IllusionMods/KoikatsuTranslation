@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-………………=.........
+………………=...
 「ふぅ……いったん休憩にしよ～？　ちょっと疲れたっす」=“Fuu... wanna take a small break~? I'm a bit tired.”
 「だね。のどを休めよっか」=“Sounds good. Let's rest our throats.”
 「せっかくメニューがあるし、なにか注文でもしようよ？　なに頼む？」=“We have a menu here and everything so, let's order something, shall we? What'cha wanna get?”
@@ -20,6 +20,6 @@
 「……届いた飲み物の数、やけに多くないっすか？」=“...Isn't this like, too much?”
 「ごめん。俺が注文し間違えたみたい……」=“Sorry. Looks like I messed up the order...”
 「だけど、任せて！　注文したからには、全部飲み干すから！」=“But, leave it to me! Since I ordered it, I'll gulp it all down!”
-「ごくごく、ごくごく…………うぐっ、もう限界。お腹たぷたぷだ……」=*gulp gulp*, *gulp gulp*... uguh-, I can't anymore. I feel like a waterballoon...
+「ごくごく、ごくごく…………うぐっ、もう限界。お腹たぷたぷだ……」=“*gulp gulp*, *gulp gulp*... uguh-, I can't anymore. I feel like a waterballoon...”
 「別に全部を、一気に飲もうとしなくても……」=“It's not like you have to drink it all in one go...”
 「確かにそうだ……」=“You're not wrong...”

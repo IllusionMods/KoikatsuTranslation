@@ -20,7 +20,7 @@
 「う、うん…………なんか……お互いに見つめ合うと、ドキドキするね～……」=“Y-Yeah... looking at... each other like this, it makes your heart throb, doesn't it~...”
 「……[H名]」=“...[H名].”
 「んっ……」=“Nn--...”
-「んっ……んんっ……」=“Nn--.........nnn---...”
+「んっ……んんっ……」=“Nn--...nnn---...”
 「ちょ、ちょっと～、なんで急にキスを……」=“H-Hey~, why'd you kiss me so sudde...”
 「ごめん……嫌だった……？」=“Sorry... did you hate it...?”
 「……嫌じゃないよ。でも、突然だったからビックリしたよ～……」=“...No, I didn't. But, it was really sudden, so it was really surprising~...”
