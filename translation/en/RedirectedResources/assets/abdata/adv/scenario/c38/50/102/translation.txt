@@ -11,7 +11,7 @@
 「はは、それならそれで面白いんじゃない？　[H名]って辛いの大丈夫だっけ？」=“Hahah, that'd be pretty fun in its own way, no? What about you, were you the spicy food type, [H名]?”
 「はい、私は辛い方が好きなくらいなので。二人で食べてみましょうか」=“Yes, I almost like things better the spicier they are. Let's try it together.”
 「よし決定！　じゃあ、俺が買ってくるね」=“Alright then! I'll go buy it then, okay?”
-………………=.........
+………………=...
 「ぐっ……これ、[H名]が言った通り、涙が出るくらい辛い……」=“Guh--... this really is, making me tear up, just like you said...”
 「あら、そうですか？　確かに辛めですが、私は美味しいと思いますよ？」=“My, is that so? It is quite spicy indeed but, I personally find it very delicious, you know?”
 「最初は俺もそう思ってたんだけど……段々舌がヒリヒリしてきて、そろそろ限界かも……」=“I thought the same at first but... my tongue's been stinging more and more by the moment, I think I'm almost at my limit...”
