@@ -6,7 +6,7 @@
 「きちんとセットしてくれてたんだ。ありがとう。えーっとそれじゃ……」=“You set an alarm up? Thanks. Erm, well then...”
 CHOICE:『もう少し延長しない？』=Wanna extend it a bit?
 CHOICE:『帰り支度しよう』=Let's get ready to leave.
-「せっかくだし、もう少し延長しない？　もっと[H名]の歌、聞きたいな」=“Well, we came here and all, why not stay a bit longer? I wanna hear you sing some more, [H].”
+「せっかくだし、もう少し延長しない？　もっと[H名]の歌、聞きたいな」=“Well, we came here and all, why not stay a bit longer? I wanna hear you sing some more, [H名].”
 「はいですーっ！　私ももっともっとあなたのお歌聞きたいですよ！」=“Yes--! I want to hear you sing lots more as well!”
 「うん、まだまだ盛り上がっていこう！」=“Yeah, let's keep going just like this!”
 「そろそろ帰り支度を始めよっか。遅れないようにしなきゃ」=“Let's get ready to set off. Gotta make sure we don't overshoot the slot.”

@@ -1,17 +1,17 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「あの……実はお願いがあるのですが、良いですか？」=“Um... you know, would it be okay if I asked you a favor?”
-「お願い？　うん、いいよ、なに？」=“Favor? Yeah, that's okay, what is it?”
-「はいー、私、あなたのことを愛称で呼んでみたいのですよ。それだけで新鮮な気分になれる気がするです」=“Yes- I would like to call you by a nickname. I think that's all it would take to make things feel fresh again.”
-「愛称かぁ。うん、もちろんいいよ」=“A nickname. Yeah, I don't see why not.”
-「やったぁ！　では早速失礼して……呼ぶですよ！」=“Alright! Now, if you'll excuse me, I'll try it out!”
-「……[Pあだ名]」=“...[Pあだ名]”
-「おおお、確かに新鮮だ……ちょっとドキッとしたよ。俺も呼んでいい？」=“Ooooh, that's definitely fresh. kinda skipped a beat there. Can I call you by one, too?”
-「もちろんです！　お願いするですよ！」=“Absolutely! Please, go ahead!”
-「えーっと……[Hあだ名]」=“Er, um... [Hあだ名].”
-「ひあぁ、私もドキッとしたです！　破壊力抜群なのです！」=“Hyyya, I skipped a beat too! That was a real kicker!”
-「あはは、[Hあだ名]の反応、可愛い。照れてるの？」=“Ahaha, your reaction is so cute, [Hあだ名]. Are you embarrassed?”
-「はぅっ……て、照れるに決まってるのです……あなたは平気なのですか？」=“Wauuu... of course I'm embarrassed... you're really good with this?”
-「もちろん照れてるよ。でも……距離が近くなったみたいで嬉しいんだ。これからはいつもこうやって呼んでいい？」=“Well, of course I'm embarrassed. But... I'm glad that we're getting closer. Call I keep calling you this from now on?”
-「う、嬉しいですけど、いつもはダメなのです！　私の身体が保たないのですよ！　時々……こっそり呼び合いたいのですー！」=“Uuu... that's flattering, but not all the time! My body couldn't take it! Just sometimes, okay... we can use them in secret!”
+「あの……実はお願いがあるのですが、良いですか？」=“Uhm... I've actually got a request, could I?”
+「お願い？　うん、いいよ、なに？」=“A request? Sure, shoot, what is it?”
+「はいー、私、あなたのことを愛称で呼んでみたいのですよ。それだけで新鮮な気分になれる気がするです」=“Alright, I want to try calling you by a nickname. I feel like that alone would be enough to bring some freshness to our relationship.”
+「愛称かぁ。うん、もちろんいいよ」=“Nicknames, huh? Yeah, of course, go ahead.”
+「やったぁ！　では早速失礼して……呼ぶですよ！」=“Yay! Well then, without further ado... here goes!”
+「……[Pあだ名]」=“...[Pあだ名].”
+「おおお、確かに新鮮だ……ちょっとドキッとしたよ。俺も呼んでいい？」=“Oooh, for sure, that feels 'fresh' for sure... it made my heart skip a beat. Mind if I call you one too?”
+「もちろんです！　お願いするですよ！」=“Not at all! Please do!”
+「えーっと……[Hあだ名]」=“Eerhm... [Hあだ名].”
+「ひあぁ、私もドキッとしたです！　破壊力抜群なのです！」=“Hyaah, my heart skipped a beat too! Truly awe inspiring, this power!”
+「あはは、[Hあだ名]の反応、可愛い。照れてるの？」=“Ahaha, you're so adorable, [Hあだ名]. Did it make you blush that much?”
+「はぅっ……て、照れるに決まってるのです……あなたは平気なのですか？」=“Hauuu--... o-of course it did... do you not feel embarrassed?”
+「もちろん照れてるよ。でも……距離が近くなったみたいで嬉しいんだ。これからはいつもこうやって呼んでいい？」=“Of course I do. But... I'm happy since it feels like we've gotten even closer. Mind if I start calling you that from now on?”
+「う、嬉しいですけど、いつもはダメなのです！　私の身体が保たないのですよ！　時々……こっそり呼び合いたいのですー！」=“I-I'd love that but, not always! My heart won't be able to take it! I'd rather... we called each other those, secretly, in private!”

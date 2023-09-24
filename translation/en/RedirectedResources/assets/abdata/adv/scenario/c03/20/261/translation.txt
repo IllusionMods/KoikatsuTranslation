@@ -2,4 +2,4 @@
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
 「はぅ……ごめんなさい……私、ちょっと大胆になってしまってたです……恥ずかしい……」=“Hauu... I'm sorry... I became a bit bold there... so embarrassing...”
-「ううん、すごく嬉しかったよ。[H名]、ありがとう」=“No, it made me really happy. Thank you, [H].”
+「ううん、すごく嬉しかったよ。[H名]、ありがとう」=“No, it made me really happy. Thank you, [H名].”

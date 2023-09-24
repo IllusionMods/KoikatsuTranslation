@@ -15,13 +15,13 @@
 「どうですか？　私史上、最高のハンバーグだと思うですけど！」=“How is it? I personally think it's the best steak I've ever had!”
 「もぐ……うんっ、美味しい！　確かに最高のハンバーグかも」=“*Chew*... yeah--, it's great! It really might be the best steak I've ever had.”
 「えへへ、良かったですっ！　味の好みが同じなのって嬉しいですよー」=“Ehehe, I'm glad--! I'm really happy that we enjoy the same tastes~”
-「あはは、味もそうだけど……[H名]が食べさせてくれたから余計に美味しいのかも」=“Ahaha, it tasted great too, of course, but... I think it tasted that ridiculously good partly because you fed it to me, [H].”
+「あはは、味もそうだけど……[H名]が食べさせてくれたから余計に美味しいのかも」=“Ahaha, it tasted great too, of course, but... I think it tasted that ridiculously good partly because you fed it to me, [H名].”
 「わわっ……そ、そうでしたかっ！　だ、だったら……私も……その……あなたからして欲しいです……ハンバーグのあーん……」=“Wawah--... i-is that so--! I-In that case... I want... uhm... you to feed it to me too... a bite...”
 「え？　だってハンバーグは[H名]の……」=“Eh? I mean, it's your meal...”
 「で、ですから……こうやって……フォークごとお渡しするですので……」=“I-It's not that hard... just... take this fork, a piece on it and all...”
 「あ、あはは……これ……周りから見たら完全にバカップルじゃない？」=“A-Ahaha... this... I bet we look like a pair of real lovebirds.”
 「はぅっ……で、でもっ……そのっ……嫌……ですか？」=“Hauu--... b-but--... uhm... do you... not want to?”
-「ううん、嫌じゃないよ。それじゃ[H名]……はい、あーん」=“Not at all, I'd love to. Well then, [H]... here you go, open wide for me.”
+「ううん、嫌じゃないよ。それじゃ[H名]……はい、あーん」=“Not at all, I'd love to. Well then, [H名]... here you go, open wide for me.”
 「えへへ、頂くですっ！　あーん……はむっ！」=“Ehehe, okay--! Aahn... *bite*!”
 「ふおおお！　さっきの百倍は美味しいですよーっ！」=“Fuuooohhh! It tastes a hundred times as good--!”
 「良かった！」=“Great!”
