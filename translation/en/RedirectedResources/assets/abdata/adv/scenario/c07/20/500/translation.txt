@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-………………=.........
-…………=......
+………………=...
+…………=...
 ……=...
 「今日は[H名]と過ごせて本当に楽しかったよ」=“I really enjoyed our time together today, [H名].”
 「ああ、私も、[P名]といられてよかったよ」=“Yeah, me too, I'm glad I spent the day with you.”
@@ -10,7 +10,7 @@
 「帰り際になると、いつも名残惜しくて、どうしても粘っちゃうんだよね」=“When it comes time for us to go our own ways, it always feel so lonely, it really makes you want to cling together, doesn't it?”
 「ははっ、またすぐに会えるだろ」=“Haha--, we'll see each other again in no time.”
 「つっても……私も本当は帰りたくないんだけどな……」=“Though I say that but... I don't really wanna go home either...”
-「[H名]……」=“[H名].........”
+「[H名]……」=“[H名]...”
 CHOICE:『自宅に誘う』=『Invite to your place』
 CHOICE:『ラブホに誘う』=『Invite to love hotel』
 CHOICE:『さよならする』=『Say goodbye』

@@ -11,7 +11,7 @@
 「この人を守り、笑顔を絶やすことなく幸せにすることを誓いますか？」=“protect this woman, and vow to become her happiness?”
 「はい、誓います」=“Yes, I vow.”
 「[H名]さん、あなたはこの男性とお付き合いし、より親密な関係になろうとしております」=“Miss [H名], You have been going out with your groom for a while now. And now you are proceeding towards an even closer relationship.”
-「……はい、誓います」=“.........Yes, I vow.”
+「……はい、誓います」=“...Yes, I vow.”
 「それでは、二人の愛の証として、誓いのキスをお願いします」=“Then, without further ado, as the proof of your love, seal these vows with a kiss.”
 「……ごめんね。無理に連れて来ちゃったみたいで」=“...Sorry. I feel like I dragged you into this.”
 「無理にって、別に……嫌々ってわけじゃねーから」=“It's not like you "dragged" me... I'm not doing this unwillingly, you know.”
@@ -30,8 +30,8 @@
 「あ、う、うん……」=“Ah, y-yeah...”
 「す、好きだよ。[P名]のこと……世界で一番な」=“I-I love you. [P名]... The most in the world.”
 「[H名]……ありがとう……もちろん、俺も好きだよ……」=“[H名]... Thank you... of course, I love you too...”
-「んん……」=“Nnn......”
-………………=.........
-…………=......
+「んん……」=“Nnn...”
+………………=...
+…………=...
 ……=...
 「いつかまた……今度は真似事じゃなくてほんとの式で着させろよ、ドレス……」=“Some day... let me wear this dress again, not in a mock ceremony, but a real one...”

@@ -6,7 +6,7 @@
 「あーもう、ちょっとどいてくれ！」=“Aah jeez, move aside!”
 「んだよ……！」=“Fuck you want...!”
 「わるい！　急いでるんだ」=“Sorry! I'm in a rush.”
-「うぅ～ん……むにゃ」=Nnnnn~... *munyaa~*
+「うぅ～ん……むにゃ」=“Nnnnn~... *munyaa~*”
 「わっ！　ちょっとまて！　こ、こっちみるなよ？！」=“Wah--! Stop right there! D-Don't look over here, okay!?”
 「あんま、ジロジロみるなよなー……」=“Don't stare too much...”
 「あっれ～？　ひょっとしてお前も保健室好きか？」=“Huh~? By any chance, do you like slacking off at the infirmary too?”
@@ -290,7 +290,7 @@
 「わりぃ、つい話し込んじゃったな！　でも楽しかったぜ！」=“Sorry, we really got into it there for a moment, didn't we! But it was fun!”
 「ん？　いいのか？　んじゃあな」=“Hm? You sure? Well then, see ya.”
 「あのさ、俺と付き合ってくれないか？」=“Hey, won't you go out with me?”
-「そ、そう言うのってまだ早いんじゃないか？……。悪いな……」=“I-Isn't that still too fast for us? ...... Sorry...”
+「そ、そう言うのってまだ早いんじゃないか？……。悪いな……」=“I-Isn't that still too fast for us? ... Sorry...”
 「やっぱり、きみのことが好きなんだ」=“I really do love you.”
 「私もそれを言おうと思ってた……いっ、いいぜ？　よろしくな！」=“I was just about to say the same thing... S-Sure. I don't mind dating you. Take care of me!”
 「どうしても、付き合うってまだ想像つかない。ごめんな」=“I really can't see us going out together just yet. Sorry.”
@@ -300,7 +300,7 @@
 「しつこいようだけど……私、[P]と付き合いたいんだ！」=“I know I'm being real obstinate but... I really wanna go out with you!”
 「や、やったぁ！　はぁ～！　いま私、死んでもいいぞぉ！」=“Y-Yay! Haa~! If I were to die right now, I'd die happy!”
 「だ、だよなあ！　他にイイ女子がいるのに、私なんかじゃ、なぁ……」=“O-Of course! When there's already so many good girls here, someone like me is...”
-「……俺、二人でHなことしたいんだ」=“......I wanna have sex with you.”
+「……俺、二人でHなことしたいんだ」=“...I wanna have sex with you.”
 「な、なーに言ってんだか！　マジな顔しちゃって。ハハ」=“W-What the heck are you saying! With such a serious face too. Haha.”
 「俺、きみとエッチしたいんだ」=“I wanna do it with you.”
 「い、いいぞ。私もその、うずうずしてたしな……や、やるか！」=“S-Sure. I was feeling, uhm, real itchy to do it too... T-Then let's get to it!”
@@ -481,7 +481,7 @@
 「ちょっ……私、我慢できなくなるから……」=“Hey--... I won't be able to hold myself back, if you keep this up...”
 「だから！　発情しちゃうって～の！」=“I told you! I'll start getting into the mood!”
 「せ、責任とれるのか？　これ以上気持ちよくして……」=“C-Can you take responsibility? Huh? If you make me feel any more of this...”
-「二ャ～……。クゥ～ン……。どっちが好みだ？」=“Nyah~...... Kuun~... Which one of those do you like the best?”
+「二ャ～……。クゥ～ン……。どっちが好みだ？」=“Nyah~... Kuun~... Which one of those do you like the best?”
 「このまま眠っちゃいそうだ……ってそれは困る。やめようぜっ」=“I feel like I could just take a nap right here... No, that'd be bad. Let's stop there--.”
 「そりゃ私だって、この場で甘えまくりたいさ……でも止められなくなるから、ここまでな！」=“Even I want to just get crazy spoiled by you too... but that's a train that won't stop once it gets going, so let's leave it at that!”
 「その指、舐めちゃうぞ？　ペロペロって……」=“I'll lick that finger of yours, you know? *slurp* and all...”
@@ -556,7 +556,7 @@
 「……どうしたの？　[Hあだ名]」=“...What's up? [Hあだ名].”
 「いや、深い意味はない……愛称で呼びたい気分だったんだ」=“No, well, I didn't mean anything by it... I just felt like calling you that.”
 「……いいぞ。[Pあだ名]……私を抱いてくれ」=“...Sure. [Pあだ名]... embrace me.”
-「あのさ、さっきから疼いて仕方ないんだ。……[Pあだ名]……しないか？」=“Hey, I've been throbbing so bad down there for a while now, I can't endure it anymore. ......[Pあだ名]... do you feel like it too?”
+「あのさ、さっきから疼いて仕方ないんだ。……[Pあだ名]……しないか？」=“Hey, I've been throbbing so bad down there for a while now, I can't endure it anymore. ...[Pあだ名]... do you feel like it too?”
 「おっす！　暇ならちょっと話そーぜ」=“Sup! If you're free, let's chat.”
 「おっす！　[Pあだ名]。暇ならちょっと話そーぜ」=“Sup, [Pあだ名]! If you're free, let's chat.”
 「ちょっ……何でここに来てるんだよっ」=“Hey--... Why are you coming in here--.”

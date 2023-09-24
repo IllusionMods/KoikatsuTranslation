@@ -10,7 +10,7 @@
 「ほら早くしろよ。クリームがこぼれちゃうだろ」=“Come on, open it up. The cream's gonna fall off, you know?”
 「わかったよ……あ、あーん……」=“Got it... A-Aahn...”
 「はい、あーん……と見せかけて……はむっ、もぐもぐ……へへっ、引っかかったー！」=“Here you go... as if... *bite*, *chew chew*... hehe--, I got you!”
-「ぐぬぬ、やったな、このいたずら娘め……！」=*fume*, you've done it now, you naughty girl...!
+「ぐぬぬ、やったな、このいたずら娘め……！」=“*fume*, you've done it now, you naughty girl...!”
 「ははっ、冗談だよ冗談！　今度はちゃんとやるからさ。ほら、あーん」=“Haha--, it was a joke, a joke! I'll do it properly this time. Come on, open up.”
 「次も騙したらひどいぞ……あーん」=“You're gonna get stuck by lightning if you do it again... Aaahn.”
 「……あむ、んぐんぐ……うん、こりゃうまい！」=“...*bite*, *chew chew*... yeah, this is really good!”
@@ -23,7 +23,7 @@
 「一口、もらってもいい？」=“Can I have bite?”
 「ほいよ、食え食え。あーん」=“Here, have some. Open up.”
 「あーん……」=“Aaahn...”
-「んむ。ほんとだ、そんなに甘くない……けどおいしい」=*Chew*. You were right, it's not all that sweet... but it's tasty.
+「んむ。ほんとだ、そんなに甘くない……けどおいしい」=“*Chew*. You were right, it's not all that sweet... but it's tasty.”
 「だろ？　って……ん、あれ……？　今のって……なんかカップルっぽくなかったか……？」=“Right? Wait... nn, huh...? That, just now... wasn't that like super lovey-dovey...?”
 「あ、言われてみれば……でもいいんじゃない？　実際、カップルなんだし、気にするようなことでもないよ」=“Ah, now that you say it... but, isn't it fine? We're a lovey-dovey couple afterall, I don't think you need to pay that much mind to it.”
 「ほら、周りのお客さんだって別に……って、あれ……みんなにやにやしながらこっちみてるな……」=“Look, even the other customers don't find it all that... wuh... everyone's kinda grinning at us...”

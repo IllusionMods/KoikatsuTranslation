@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「すぅ……すぅ…………ん、んん……」=*snore*... *snore*... nn, nnnn...
+「すぅ……すぅ…………ん、んん……」=“*snore*... *snore*... nn, nnnn...”
 （んぅ……すごく気持ちいいような……いったい、何が……？）=(Nn... Something feels really good... just, what is it...?)
-「…………」=“......”
+「…………」=“...”
 「って……え？　え？」=“Wuh... Eh? Eh?”
 「どう、興奮しちゃうか？　この起こされ方は？」=“How is it, does it make you horny? To get woken up like this?”
 「えっと……若干戸惑いの方が大きいかも」=“Erhm... It's more bewildering than anything else, quite honestly.”
