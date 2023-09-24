@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「すぅ……すぅ…………ん、んん……」=*snore... *snore*... Nnn, nnnn...
-（ん、んん……何だか下半身に違和感が……？）=(Nn, nnnn... there's this weird feeling in my lower half...?)
-「…………」=“......”
+「すぅ……すぅ…………ん、んん……」=“*snore... *snore*... Nnn, nnnn...”
+（ん、んん……何だか下半身に違和感が……？）=(Nnnnn... my crotch feels kinda...?)
+「…………」=“...”
 「って……え？　え？」=“...Eh? Eh?”
 「はぁ、味と匂いがたまりませんわ……わたくし、病み付きです」=“Haah, both the taste and the scent are irresistible... I am addicted.”
 「あの……何をして……？」=“Uhm... what are you...?”

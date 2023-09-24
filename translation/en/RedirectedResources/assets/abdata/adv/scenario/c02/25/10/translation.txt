@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「ふふふ、わかってますわ……わたくしの力が必要なのでしょう。当然ですわ！」=“Fufufu, I understand... you need me to assist you, no? Very well!”
-「え？　入ってくれるの？　そういうの嫌いそうなイメージがあったら意外だよ」=“What?　You're joining?　I thought you'd dislike that sort of thing, so that was surprising.”
-「本来なら、鼻で笑ったことでしょう。でも他ならぬあなたのお願いなんですもの。仕方ありませんわ！」=“Normally, I would have scoffed. But that request came from you and no one else. It cannot be helped!”
-「……一応聞くけど、活動内容知ってる？」=“...I'll ask just in case, do you know what the club is about?”
-「存じませんが、このわたくしが入部するのです。半年で全国を狙えるレベルに引き上げてみせますわ！」=“I do not, but I shall join your club. I shall raise it to a nationwide level in six months' time.”
-「いや……まあ、その……う、うん……楽しみにしてるよ」=“Why... just, that... o-okay... I'm looking forward to it.”
-「おーっほっほっほ！！　おまかせなさい！」=“Ohohoho!!　Leave it to me!”
+「ふふふ、わかってますわ……わたくしの力が必要なのでしょう。当然ですわ！」=“Fufufuh, I understand... You need my aid, do you not? Of course you do!”
+「え？　入ってくれるの？　そういうの嫌いそうなイメージがあったら意外だよ」=“Eh? You'll join? I'm surprised, I thought you'd definitely turn your nose up at it.”
+「本来なら、鼻で笑ったことでしょう。でも他ならぬあなたのお願いなんですもの。仕方ありませんわ！」=“Any other time, I would do much more than just that, even laugh at the thought perhaps. However, it is a request from you, rather than anybody else. So it simply cannot be helped!”
+「……一応聞くけど、活動内容知ってる？」=“...I'm gonna ask just in case but, do you know what the club is about?”
+「存じませんが、このわたくしが入部するのです。半年で全国を狙えるレベルに引き上げてみせますわ！」=“I do not but, I shall join regardless. I shall raise it to a level enough to take on the whole country in but six months with my own hands.”
+「いや……まあ、その……う、うん……楽しみにしてるよ」=“No... well, I mean... o-okay... I'm looking forward to that.”
+「おーっほっほっほ！！　おまかせなさい！」=“Ohohohoh! Leave it to me!”

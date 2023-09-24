@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「………………」=“.........”
+「………………」=“...”
 （……股間がムズムズする。あ、これ……ひょっとして、イタズラされてる……？）=(...My crotch feels weird. Ah, is this... am I being pranked right now...?)
 「まあ、はしたない……昨晩、あんなに愛し合ったというのに……ふふふ、あらあら、こんなにさせて……おーっほっほっほ……」=“My, how obscene... even though we made so much love last night... fufufuh, oh dearie, getting like this... ohohohoh...”
 「……あの、何してるの？」=“...Uhm, what are you doing?”

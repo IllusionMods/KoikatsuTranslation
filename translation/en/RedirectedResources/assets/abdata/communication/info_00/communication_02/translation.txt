@@ -1,13 +1,13 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「あら、ここは殿方用ではありませんわ。出ていっていだけて？」=“Oh, this is no place for gentlemen. Would you care to leave?”
-「ここは女性専用ですわ！　出ていってちょうだい！」=“This is a ladies-only area!　Get out of here!”
-「失敬。今時間がありませんの。ごめんあそばせ」=“Apologies. I have no time right now. I beg your pardon.”
-「よくもまあ、わたくしの前に顔を出せたものですわねぇ……呆れますわ」=“How dare you show your face to me... it is appalling.”
-「失礼、またのちほどお伺いいたしますわ」=“Excuse me, I shall come back to it later.”
-「すー……すー……くふふ、皆わたくしにひれ伏しなさい……」=*snore*... *snore*... “Kufufu, bow to me, all of you...”
-「今、お召し替えの最中ですの。ごめんあそばせ」=“I am in the middle of a change of clothes now. I beg your pardon.”
+「あら、ここは殿方用ではありませんわ。出ていっていだけて？」=“Oh my, this washroom is not for men. Could you leave?”
+「ここは女性専用ですわ！　出ていってちょうだい！」=“This washroom is for ladies' only! Get out, will you!”
+「失敬。今時間がありませんの。ごめんあそばせ」=“Apologies. I do not have the time. Do excuse me.”
+「よくもまあ、わたくしの前に顔を出せたものですわねぇ……呆れますわ」=“You have quite the stones, to show your face in front of me... truly astounding.”
+「失礼、またのちほどお伺いいたしますわ」=“Do excuse me, I shall listen to whatever it is in just a bit.”
+「すー……すー……くふふ、皆わたくしにひれ伏しなさい……」=“*Zzz*... *zzz*... kufufuh, prostrate before me...”
+「今、お召し替えの最中ですの。ごめんあそばせ」=“I am in the middle of changing my clothes. Do excuse me.”
 「おーっほっほっほ、似合うでしょう？　褒めてよろしくてよ」=“Ohohohoh, does it suit me? Feel free to compliment me.”
 「ここ、素敵な場所でしょう？　わたくしに相応しいわ！」=“This is a lovely place, no? Fitting for one such as me!”
 「おーっほっほっほ、わたくしに何か御用かしら？」=“Ohohohoh, is there something you require of me?”
@@ -510,7 +510,7 @@
 「ここできみとHしたいな！」=“I wanna have sex with you here!”
 「おーっほっほっほ、わたくしの魅力に我慢できなくなったのね。恥ずかしいけど、よろしくてよ！」=“Ohohohoh, against my charm, you simply could not hold out, could you? It is embarrassing but, very well!”
 「おほほほ、わたくしの魅力のとりこですわね……でも、ここでは駄目。当然でしょう？」=“Ohohohoh, you truly are a slave to my charm... but, we cannot here. Is that not obvious?”
-「ここできみとHしたい」=“I wanna do it here with you.”
+「ここできみとHしたい」=“I wanna have sex with you here.”
 「周りに見られながらする、ということですの……？　それは興奮しそうですわね！　おほほほほ！」=“You mean to say we must do it, while being watched...? That sounds truly arousing! Ohohohohoh!”
 「おほほほほ、楽しそうな試みですわね。でも駄目よ」=“Ohohohohoh, a thrilling invite, yet we cannot.”
 「よろしくてよ。エスコートしていただけて？」=“Very well. Escort me?”

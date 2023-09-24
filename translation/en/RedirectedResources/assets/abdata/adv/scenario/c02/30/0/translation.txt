@@ -6,7 +6,7 @@
 「あ、ああ……ええっと、[P名前]って言うんだけど……」=“Y-Yeah... eerhm, I go by [P名前], for what it's worth...”
 「あら、名前までは結構よ！　でも積極的なのは悪いことじゃないわね」=“Oh, I didn't quite ask! But being assertive is not a bad quality to have.”
 「え？　でも、初対面なんだし、自己紹介ぐらい、ちゃんとさせてくれよ」=“Eh? But, this is the first time we're metting, atleast let me introduce myself properly.”
-「…………」=“......”
+「…………」=“...”
 「ふふ、あなたは見込みがありそうね。いいわ、忘れるまで、その名前憶えておいてあげる。感謝なさい」=“Fufuh, seems that you have some potential indeed. Very well, I shall keep that name in my mind, until I forget it. Be grateful.”
 「あ、ありがとう」=“T-Thanks.”
 「どういたしまして。でも勘違いしないでね。あなたのためにあまり長い時間は割いてあげられませんから」=“You are very welcome. But do not misunderstand. For I cannot make all that much time for you.”

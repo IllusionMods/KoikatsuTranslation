@@ -6,7 +6,7 @@
 「お互いを愛称で呼び合うのはいかがかしら？　きっと素晴らしいことになりますわよ」=“What do you say to calling each other with nicknames? I'm sure it'll be absolutely wonderful.”
 「へえ、面白そうだね。やってみようよ」=“Hoh, sounds fun. Let's try it.”
 「おほほほほ！　さすがはわたくしの提案ですわ。では早速呼ばせていただきますわね」=“Ohohohohoh! It is only natural for an idea of mine to have merit. Well then, here I go, alright?”
-「……[Pあだ名]」=“...[Pあだ名]”
+「……[Pあだ名]」=“...[Pあだ名].”
 「……うん、悪くないね」=“...Yep, not bad.”
 「おほほほ。当然ですわ。ではあなたもわたくしを愛称で呼ぶことを許します」=“Ohohohoh. Of course. Well then, I shall allow you to call me by one such nickname as well.”
 「はは……ありがとう。それじゃ、えーっと……[Hあだ名]」=“Hahah... thanks. Well then, erhm... [Hあだ名].”

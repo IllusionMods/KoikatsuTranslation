@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「まあ、貢ぎ物？　あまり期待はしておりませんが、頂いておきますわ」=“Oh, a tribute?　I do not expect much, but I shall take it.”
+「まあ、貢ぎ物？　あまり期待はしておりませんが、頂いておきますわ」=“My, a tribute? I shall accept it, not that I am hoping for much here.”
