@@ -20,6 +20,6 @@ CHOICE:『今日はもう帰ろうか』=『Let's go home for today』
 「今日はもう帰ろっか。十分楽しんだしね」=“Shall we go home for today? We've enjoyed ourselves plenty, I think.”
 「ヤリ残した事がないのであれば出ましょうか」=“If you have nothing left that you wanted to do, then let's go.”
 「うん、歌うもんは歌ったしなー」=“Yeah, I've sang all the songs I wanted to sing~”
-「……そうですね」=“......Indeed.”
+「……そうですね」=“...Indeed.”
 「……？　ほら、出るよ？」=“.........? Come on, aren't you coming?”
 「……はい、只今準備します」=“...Yes, give me a moment to get my things.”

@@ -9,7 +9,7 @@
 「そう思ってくれると嬉しいよ」=“I'm glad you feel that way.”
 「あなたも……私と居て幸せですか？」=“Does being with me... make you feel happy too?”
 「勿論。[H名]の恋人で良かったと思ってるよ」=“Of course. I can't help but think about how glad I am, that you're my girlfriend, [H名].”
-「……ありがとう、ございます」=“......Thank you, very much.”
+「……ありがとう、ございます」=“...Thank you, very much.”
 「もしよろしければ、この後はあなたの部屋で過ごしたいと思うのですが……いかがでしょう？」=“If it's alright with you, I really want to spend time with you at your place after this... Can I?”
 CHOICE:「……うん、歓迎するよ」=...Yeah, you're welcome to.
 CHOICE:「ごめん、今日はちょっと……」=Sorry, today's a bit...

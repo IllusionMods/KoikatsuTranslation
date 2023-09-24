@@ -1,14 +1,14 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-………………=.........
-…………=......
+………………=...
+…………=...
 ……=...
 「このあたりでお別れですね」=“We're going to go our separate ways here, aren't we?”
 「うん。今日は一日ありがとう、[H名]。すごく楽しかったよ」=“Yeah. Thanks for being with me today, [H名]. I had a blast.”
 「私も、楽しかったです」=“I had a lot of fun too.”
 「……」=“...”
-「…………」=“......”
+「…………」=“...”
 「なんか、このままさよならするのってちょっと寂しいよね」=“It feels kinda lonely just saying goodbye like this, doesn't it?”
 「はい。不思議です」=“Yes. It's strange.”
 CHOICE:『自宅に誘う』=『Invite to your place』
@@ -18,7 +18,7 @@ CHOICE:『それでもさよならする』=『Or say goodbye』
 「デート後に彼女を自宅へ招き入れる、と。……なるほど、了解しました」=“Inviting your girlfriend to your place after the date, Hm.I see, alright, I understand.”
 （……何かを了解されてしまった）=(...I think she just gave me the permission to do something.)
 「じゃ、じゃあ歓迎するよ」=“T-Then, do come to my place.”
-「……んー、ダメだな……俺、まだ[H名]と一緒に居たいや」=“.........Mmmm, It's no good, isn't it... I wanna be with you for even longer, [H名].”
+「……んー、ダメだな……俺、まだ[H名]と一緒に居たいや」=“...Mmmm, It's no good, isn't it... I wanna be with you for even longer, [H名].”
 「奇遇ですね、私もです」=“What a coincidence, me too.”
 「とは言え、それなりに遊び疲れているのが現状ですので、無理にとは……」=“That said, we're both pretty tired from playing around all day so, I don't think...”
 「あ……休憩ついでなら丁度いい所があるな」=“Ah... I think I know the perfect place for us to take a break.”
@@ -30,6 +30,6 @@ CHOICE:『それでもさよならする』=『Or say goodbye』
 「最後に、キスだけいいかな？」=“Can I have just a small kiss before we part ways?”
 「どうぞ」=“Go ahead.”
 「んっ……」=“Nn--...”
-「ちゅ、ん……」=*Kiss*, Nn...
+「ちゅ、ん……」=“*Kiss*, Nn...”
 「ありがと。じゃあ、またね」=“Thanks. Then, see ya later.”
 「ええ。それではまた」=“Yes. Till next time.”

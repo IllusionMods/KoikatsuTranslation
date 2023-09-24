@@ -8,10 +8,10 @@
 「ほんと？　やった。じゃあ前みたいに『あーん』で食べさせてくれるかな」=“Really? Yay. Then, will you feed me it while going "Aaaahn" like last time?”
 「わかりました」=“Understood.”
 「それでは……あーん」=“Well then... Aaahn.”
-「もぐもぐもぐ……」=*Chew Chew Chew*...
+「もぐもぐもぐ……」=“*Chew Chew Chew*...”
 「……うん、美味しい！　肉は柔らかいし、ソースもいいね」=“......Yeah, it's great! The meat is soft, and the sauce is great too.”
 「はい、あーん」=“Here, Aaahn.”
-「もぐ……」=*Chew*...
+「もぐ……」=“*Chew*...”
 「んん、まだ口の中に……」=“Nnn, I still have some in my mouth...”
 「あーん」=“Aaahn.”
 「待っ、もぐ、うぅ……」=“Wai--, *chew*, Uu...”

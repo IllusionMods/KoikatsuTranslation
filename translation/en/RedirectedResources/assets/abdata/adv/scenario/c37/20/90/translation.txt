@@ -6,7 +6,7 @@
 「その方が互いに親密に見えるからです」=“Because it'll make us a bit more intimate with each other.”
 「まぁ構わないよ。で、俺の事はなんて呼ぶの？」=“Well, I don't mind. Then, what are you going to call me?”
 「―――[Pあだ名]」=“----[Pあだ名]”
-「……キミに言われると何だか照れるね」=“......Hearing you call me that kinda makes me shy.”
+「……キミに言われると何だか照れるね」=“...Hearing you call me that kinda makes me shy.”
 「じゃあ俺も……[Hあだ名]」=“Then, me too... [Hあだ名]”
 「……確かに、顔が少し熱くなります」=“...Certainly, it does make my face a bit flushed.”
 「はは、たまにはこういうやり取りも良いかな」=“Haha, calling each other like this is nice too, from time to time, don't you think?”
