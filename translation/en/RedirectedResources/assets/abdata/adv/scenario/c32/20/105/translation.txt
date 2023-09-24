@@ -12,11 +12,11 @@
 「……ふふ、あははは、ああ、そういう意味ね。うんうん、大丈夫、ただの冗談だから」=“... Fufu, Ahahaha, Aaah, that's what you meant, huh? Yeah, Yeah, it's alright, I was just joking.”
 「そ、そうですか。まあ、それはともかく、ですね……今夜は、この夜景を見るだけで、お仕舞いなのですか？」=“I-Is that so? Well, be that as it may... Are we going to end the day, by just enjoying this night view?”
 「……ううん、違うよ。できれば、もっと違うこともしてみたいかな。[H名]が嫌じゃなければ、だけど」=“...No, Not at all. I do have something else in mind that I'd like to try, but only if you're up for it, [H名].”
-「……多分嫌じゃないと思います。でも一応伺いたいですね……一体、私に、どんなことしてくれるんですか？」=“......I probably won't mind. But, I'd like to ask, just in case... Just what sort of stuff are you going to do to me?”
+「……多分嫌じゃないと思います。でも一応伺いたいですね……一体、私に、どんなことしてくれるんですか？」=“...I probably won't mind. But, I'd like to ask, just in case... Just what sort of stuff are you going to do to me?”
 「そうだね、じゃあ、まず、こういうのはどう？」=“Indeed, let's see, for starters, how's this?”
 「ん……」=“Nn...”
-「ん…………んん……」=“Nnn...... Nnn...”
-「……素敵なキス、です」=“......That was an amazing kiss.”
+「ん…………んん……」=“Nnn... Nnn...”
+「……素敵なキス、です」=“...That was an amazing kiss.”
 「この素晴らしい夜景の中、最高のキスをいただけました。点数をつけるなら、一万点ぐらいですね」=“I got to have such an amazing kiss, under this wonderful night sky. If I had to give it points, it would be no less than ten thousand.”
 「い、一万点？　ビックリの高得点だね……じゃ、これからすることは、何点ぐらいになるんだろう？」=“T-Ten thousand? That sure is a surprisingly high score... Then, I wonder how many points you'll give, to what I'm about to do next?”
 「……私の予想が当たっているのなら、きっと満点だと思います」=“...If my guess is correct, it'll definitely get full marks.”
@@ -31,7 +31,7 @@
 「は、はい……とうとう、この時が来てしまったのですね……ふぅ、ちょっと呼吸を整えさせて下さい……すー……はー…………」=“Y-Yes... Finally, the time has finally come, hasn't it... Fuu, please let me get my breathing in order a bit... *inhale*... *exhale*...”
 「よし……では、始めましょうか。私ならいつでも構いません」=“Alright... Well then, let's start. I'm ready to go at any time.”
 「い、いや、流石にここではしないよ？」=“N-No, well, even for me, this place is a bit much, you know?”
-「あ、あぁ……よかったです。人に見られるかもしれないところでは、やっぱり抵抗がありましたので」=“Ah, Aaaaah...... what a relief. I really did have some misgivings, about doing it in a place where we could be seen by others.”
+「あ、あぁ……よかったです。人に見られるかもしれないところでは、やっぱり抵抗がありましたので」=“Ah, Aaaaah... what a relief. I really did have some misgivings, about doing it in a place where we could be seen by others.”
 「はは、だよね。大丈夫……初めては良い思い出になるよう、俺、努力するよ」=“Haha, of course. Don't worry... I'll do my best, to make sure your first time is worth remembering for you.”
 「あ、ありがとうございます。あなたに全てを委ねます」=“T-Thank you very much. I'll leave everything to you.”
 「それじゃあ行こうか」=“Well then, let's go.”

@@ -16,6 +16,6 @@
 「大丈夫、覚悟の上だよ」=“It's alright, I've prepared myself.”
 「そこまでの決意があるとは……素晴らしいです。ではいきますよ」=“The fact that you're so determined... It's wonderful. Well then, here I come.”
 「はい、あ～～～ん」=“Here, Aaahn~~”
-「あ～～～～ん…………」=“Aaaahhhnnn~~......”
+「あ～～～～ん…………」=“Aaaahhhnnn~~...”
 「んぐっ、熱い……っ、熱いけどっ、美味い！！　はふはふ……っ」=“nnguh--, so hot... It's hot, but--, delicious!! phoo, haa...--”
 「……私は、少し冷ましてから、いただくことにしますね」=“...Personally, I'll let it cool down a bit before I dig in.”
