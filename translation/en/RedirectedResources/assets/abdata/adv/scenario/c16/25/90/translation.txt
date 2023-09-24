@@ -6,7 +6,7 @@
 「えっとね……なんていうか、ならそれ相応の呼び方というか……愛称で呼び合うって良いと思わない？」=“Eerhm, you see... I just thought that, maybe we could call each other something fitting... like, don't you think it'd be nice to have nicknames for each other?”
 「あー、そういう事ね。うん、全然オッケーだよ！」=“Aah, I see, I get the gist. Yep, I'm completely fine with it!”
 「はぁ、良かった……。じゃあ、早速だけど……呼んでみるわね」=“Haah, thank god... Then, I'll just... go ahead and do it, okay?”
-「……[Pあだ名]」=“...[Pあだ名]”
+「……[Pあだ名]」=“...[Pあだ名].”
 「っ！　こ、これは……凄いね。照れるっていうか……あ、俺も愛称で呼んでいい、んだよね？」=“--! T-That's... amazing. I can feel myself blushing... ah, I can call you, one too, right?”
 「え、えぇ、もちろんよ。好きなように呼んでみて」=“Y-Yes, of course. Try calling me whatever you think fits.”
 「わかった。じゃあいくよ……[Hあだ名]」=“Got it. Then, here I go... [Hあだ名].”
