@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「すぅ……すぅ……ん、んん……」=*snore... *snore*... Nnn, nnnn...
+「すぅ……すぅ……ん、んん……」=“*snore... *snore*... Nnn, nnnn...”
 （ううん、何だか下半身に違和感が……？）=(Nnnnn... my crotch feels kinda...?)
-「…………」=“......”
+「…………」=“...”
 「って……え？　え？」=“...Eh? Eh?”
 「この味、好きぃっ……もっと食べてもいいだろぉ？」=“I love, this flavour--... you don't mind if I eat you up a bit more, right?”
 「えっと、それは……」=“Erhm, that's...”

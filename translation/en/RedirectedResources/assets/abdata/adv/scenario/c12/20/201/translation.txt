@@ -18,7 +18,7 @@
 「それ賛成。ゲームセンターは逆に家族連れが少ないからね。今遊ぶには丁度いいと思う」=“Exactly. And those sorts of groups avoid the arcade like the plague. I think it's the perfect arrangement.”
 「おっ、クレーンゲームがあるぞ。どっちが早く取れるか、勝負するか？」=“Oh--, they've got a claw machine. Wanna have a little bet, on who's gonna get it first?”
 「クレーンゲームで勝負か。それも面白そうだね。じゃあ、早速やってみようか」=“A claw game match, huh? Sounds interesting. Let's try it.”
-………………=.........
+………………=...
 「よしっ！　取れた！　[H名]は……って、全然景品動いてないね……」=“Aight--! I got it! What about y... it's not moved even a bit, has it...”
 「うぅ……全然とれにゃい……なんでおまえはそんな簡単に取っちゃうんだよぉ……もう少し勝負させろよぉ」=“Uuu... I can't get it at all~... why're you so good at this, dummy~... let me put up a better fight~”
 「ご、ごめん……なんか思ったより簡単に取れちゃって……俺がウサギのぬいぐるみ持ってても仕方ないし、これあげるよ」=“S-Sorry... I got it way easier than I expected... Well, not like I'm gonna walk around with a rabbit plushie held in my arms, so you can have it.”

@@ -13,11 +13,11 @@
 「[H名]さん、あなたはこの男性とお付き合いし、より親密な関係になろうとしております」=“Miss [H名], You have been going out with this man for a while now. And now you are proceeding towards an even closer relationship.”
 「……はい、誓います」=“...Yes, I vow.”
 「それでは、二人の愛の証として、誓いのキスをお願いします」=“Then, without further ado, as the proof of your love, seal these vows with a kiss.”
-「はぁ、[H名]、綺麗過ぎる。もうずっとそのままの姿でいればいいのに」=“Haah, [H]. You're too stunning. If only you could stay in that dress forever.”
+「はぁ、[H名]、綺麗過ぎる。もうずっとそのままの姿でいればいいのに」=“Haah, [H名]. You're too stunning. If only you could stay in that dress forever.”
 「無茶を言うなよ。これ、少し動くだけでも大変なんだぞ？」=“Don't be unreasonable. Do you know how hard it is to move in this?”
 「なら、せめてこの瞬間をずっと忘れないようにする。俺、絶対忘れないよ」=“Then, I'll just have to remember this moment forever. I definitely won't forget.”
 「そんなに必死にならなくたって、いつかもう一度見れるかもしれぞ？　なぁ、そうだろ？」=“You don't need to be so serious about that, you might get to see it again someday, you know? Right? Tell me?”
-「う、うんっ。俺、今日で再確認したよ。[H名]の事、愛してるって」=“Y-Yeah--. I realized it yet again today. I really do love you, [H].”
+「う、うんっ。俺、今日で再確認したよ。[H名]の事、愛してるって」=“Y-Yeah--. I realized it yet again today. I really do love you, [H名].”
 「うん、あたしも愛してる。おまえのタキシード姿も、まぁまぁイケてるじゃないか」=“I love you too. That tuxedo looks pretty cool on you too.”
 「はは、[H名]まではいかないけど。俺も着慣れなくて動きづらいよ」=“Haha, not as good as that dress on you. It's hard to move in this too, not used to wearing something so formal.”
 「おいおい、ちゃんとキスはしてくれよ？　一応モデルなんだ。きっちりやらないとな」=“Oi oi, make sure to kiss me properly, okay? We're models, right now. You gotta do a good job.”
@@ -31,8 +31,8 @@
 「そうか、そりゃ似るわけだ……さて、少し長話をし過ぎたな。あたし達のキスを、見せてやるとするか」=“I see, no wonder... now then, we've chatted for a bit too long, I think. Let's put on a good show for everyone.”
 「うん、愛し合ってる俺達のキス、しっかり見てもらおう」=“Yeah, let's make a grand display, a true lover's kiss.”
 「んんっ……」=“Nnnn--...”
-………………=.........
-…………=......
+………………=...
+…………=...
 ……=...
 「……ダメだ、幸せ過ぎて、力抜けそう……」=“...Damn, this isn't good, I'm too happy, my body's going limp...”
 「……次は、本番で頼むぞ？」=“...I'll be waiting for the real thing, okay?”

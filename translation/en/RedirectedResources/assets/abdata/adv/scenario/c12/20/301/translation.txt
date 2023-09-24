@@ -1,14 +1,14 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「うーん、初めて[H名]とカラオケに来たから、何を歌っていいか悩むね」=“Nnnn, it's my first time here with you, [H], so I'm not sure what I should even go with.”
+「うーん、初めて[H名]とカラオケに来たから、何を歌っていいか悩むね」=“Nnnn, it's my first time here with you, [H名], so I'm not sure what I should even go with.”
 「ん？　あたしに気を使う必要はないぞ。おまえが好きな歌を歌えばいいんだよ」=“Nn? You don't need to mind me. Just sing whatever songs you like.”
 「そう？　でも、できるなら二人で盛り上がれた曲の方がいいし、だったらやっぱり二人が知ってる曲がいいかなって」=“You sure? But, I'd rather sing something we both like if I can, so I was wondering if I should try to go with something that we both might know.”
 「確かにそうだけど。最初なんだし仕方ないだろ？　今日はまず、お互いの好きな歌を発表する会でいいんじゃないか？」=“For sure but, it's our first time so there's no helping it, no? Why not just make today that sort of thing, a day where we let each other know our tastes?”
 「そうだね。いつまで悩んでても時間が勿体ないし。とりあえず一曲入れちゃうね」=“Right. Overthinking any more would just be a waste of time anyway. I'll just put something in.”
 「そうだそうだ、それでいいんだよ。変に緊張する事なんかない、バーンと一曲ぶちかませ！」=“Good boy, that's just fine. No need to worry about weird stuff, just sing your heart out!”
 「よーし！　じゃあ、今一番お気に入りの一曲！　いくよっ！」=“Alright! I'mma put in the song I've been most into recently then! Here I go--!”
-………………=.........
+………………=...
 「ふぅ……ど、どうだった？　結構盛り上がってくれてたみたいだけど、知ってる曲だった？」=“Fuh... h-how was it? I saw you got pretty into it, you know the song?”
 「いや、実は知らなかった。でも、ノリがいい曲だったから、自然に体が動いたって感じかな」=“No, I actually didn't. But, it was a really hype song, so I couldn't help moving my body a bit, you know?”
 「ならよかった。じゃあ、次は[H名]の番だね。期待してるよ」=“Good then. It's your turn next, isn't it? I'm excited.”

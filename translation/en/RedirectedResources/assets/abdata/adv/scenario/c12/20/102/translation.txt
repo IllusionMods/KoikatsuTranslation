@@ -4,12 +4,12 @@
 「おっ、あそこに屋台があるじゃないか。ああいうとこって、結構美味いものあったりするんだよな」=“Oh--, isn't that a food stand? They always tend to have some pretty tasty stuff, don't they?”
 「わかる。なんか特別感あるよね。今ならすぐ買えそうだし、何か食べる？」=“I feel you. Feels kinda special, doesn't it? Seems like they'd serve up our order right away too, you wanna eat anything?”
 「あぁ、そうだな。丁度昼時だし、ランチタイムにするか」=“Aah, right. It's just about noon too, so let's have lunch.”
-「オッケー。結構メニューの種類があるみたいだけど、[H名]はどれにする？」=“Okay. Seems like they've got quite the menu, what do you want to go with, [H]?”
+「オッケー。結構メニューの種類があるみたいだけど、[H名]はどれにする？」=“Okay. Seems like they've got quite the menu, what do you want to go with, [H名]?”
 「あたしはこれだな。ウルトラホットドッグ！　このボリューム感、たまらないな」=“Gotta be this Ultra Hot Dog thing for me! Looks so hearty, I just gotta.”
 「ソーセージがめちゃくちゃ長いね。俺もそれにしようかな」=“It really is a big sausage, isn't it? Maybe I'll go with that too.”
 「おっ、あたしに張り合って、食いきれなくても知らないぞぉ？」=“Oh--, I know what you're trying at, don't blame me if you can't finish it, alright?”
 「これくらいなら大丈夫だよ。俺も結構食べる方だし」=“This much is no sweat. I can take my spice.”
-………………=.........
+………………=...
 「うぅ、予想以上のボリュームだな……食い切れるとは思うけど、味が単調で飽きてきた……」=“Uuuu, it really is way too big... I can probably finish it, but the flavour is just too bland...”
 「だね……お互い半分くらいずつ残ってるし、どうしようかコレ……」=“Yeah... we've both got half left, what do we even do with this much...”
 「そうだ！　交換しよう！　おまえが食べたものだって思えば、一気に食えるかもしれない！」=“Right! Let's exchange them! I think I might be able to down it, if I focus on how it's something you ate too!”
