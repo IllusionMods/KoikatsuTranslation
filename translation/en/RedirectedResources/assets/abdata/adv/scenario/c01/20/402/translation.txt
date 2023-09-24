@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「そういえば、言い忘れてたわけじゃないんだけど、今日の[H名]の恰好、可愛いよね」=“Reminds me, not that I just remembered to say it but, you look adorable today, [H].”
+「そういえば、言い忘れてたわけじゃないんだけど、今日の[H名]の恰好、可愛いよね」=“Reminds me, not that I just remembered to say it but, you look adorable today, [H名].”
 「そうですか？　ありがとうございます、早起きしてひとりファッションショーをして決めたんです」=“Do I? Thank you very much, I got up early and held a mini-fashion show for myself to pick it out.”
 「ひとりファッションショー？」=“A mini-fashion show?”
 「あ……小さい頃からしている遊びなんです。ワードローブから服を全て出して、何度も着替えては姿見の前でポーズを取るという……」=“Ah... it's a fun little thing I've been doing ever since I was a child. I just take out everything from my wardrobe, and take poses in every combination I can think of, in front of the dresser...”
@@ -15,7 +15,7 @@
 「はい。男性はこのような恰好だと喜んでくださると」=“Yes. She told me that men prefer this sort of thing.”
 「いやぁ……うん、まったくその通りだよ」=“Man~... yeah, she's right on the money.”
 「では、これからも母に選んでもらいますね」=“Well then, I'll keep having her pick my future outfits too.”
-「あ、でも、[H名]が自分で選んだのも見てみたいかな」=“Ah, but, I'd love to see what you'd pick out as well, [H].”
+「あ、でも、[H名]が自分で選んだのも見てみたいかな」=“Ah, but, I'd love to see what you'd pick out as well, [H名].”
 「私は……あまり、そのようなセンスを受け継がなかったので……」=“I... didn't really inherit much of that sense at all so...”
 「構わないよ。[H名]が自分に似合うって思うファッションを見たいんだよ」=“Doesn't matter. I wanna see exactly what sort of fashion you like, what you think you look good in.”
 「……では、機会がありましたら、自分で選んでみますけど……笑わないでくださいね」=“...Well then, I'll pick it out myself, if I get the chance but... don't laugh, okay?”

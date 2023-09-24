@@ -4,4 +4,4 @@
 「えっと……混ざりたいの？　……どうする？」=“Erhm... you wanna join us? ...What do you say?”
 「私は……構いませんけど……」=“I don't... mind, but...”
 「それはもう願ったり叶ったりですが……本当によろしいのですか？」=“I would personally like nothing more but... are you sure?”
-「[H名]がいいなら、俺はＯＫだよ」=“If you're fine with it, [H], I'm all good with it too.”
+「[H名]がいいなら、俺はＯＫだよ」=“If you're fine with it, [H名], I'm all good with it too.”

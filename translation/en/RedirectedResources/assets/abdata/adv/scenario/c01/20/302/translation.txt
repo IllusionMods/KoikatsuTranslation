@@ -4,7 +4,7 @@
 「[H名]の青空アドベンチャーは何度聞いても癒されるなぁ……あ、飲み物なくなってるね。俺、取って来るよ」=“No matter how many times I hear you sing Blue Sky Adventure, it's always so soothing~... ah, we're starting to run out of drinks. I'll go grab some.”
 「歌い終わりましたし、私が取ってきましょうか？」=“I already finished the song so, shall I go grab them instead?”
 「大丈夫、俺に任せて。ちょっと休憩にしようよ」=“It's alright, leave it to me. Just take a break for now.”
-………………=.........
+………………=...
 「ただいまー……ん？」=“I'm back... nn?”
 （[H名]が食い入るように画面を見てるぞ……？）=(She almost looks like she's going to devour that tablet whole...)
 「なに見てるの？　……ってあれ、また身長の高いアイドルと低いアイドルがユニットを組んだんだ。多いね、最近」=“What're you looking at? ...Huh, they put together another unit with a tall and short idol. There's been a lot of those recently, haven't they?”
@@ -21,6 +21,6 @@
 「背の高い男みたいなものだよね。それだけでステータスっていうか……」=“Like a tall guy, right? You get status just from that, like...”
 「私も小柄なほうですから、蝶よ花よと言われて育ちましたが……」=“I tend towards the short side as well so, I've always been raised like 'a little princess' but...”
 「私が本当に自分の強みにしたいところや見て欲しいところが霞んでしまうような気がして……なんて、嫌な物言いをしてしまいましたね……」=“I always wonder if it's really what I want to polish as my forte, if it's really what I want to make into my main appeal... that was quite a nasty way of saying it, wasn't it?...”
-「いや、いいと思うよ。[H名]は品行方正な女の子だから、そういう風に思うのは当たり前だと思う」=“No, I think it's fine. You're a very morally upright person, [H], so thinking that way is perfectly reasonable, in my opinion.”
+「いや、いいと思うよ。[H名]は品行方正な女の子だから、そういう風に思うのは当たり前だと思う」=“No, I think it's fine. You're a very morally upright person, [H名], so thinking that way is perfectly reasonable, in my opinion.”
 「いつもそのように仰っていただいて、ありがとうございます」=“Thank you very much, for always reassuring me like that.”
 「あなたは私を性別と身長だけで判断しない方なので、いつも助かっています。これからもどうぞよろしくお願いいたします」=“You never judge me based purely on my height, or my gender so, it's always a blessing. Please keep doing that.”

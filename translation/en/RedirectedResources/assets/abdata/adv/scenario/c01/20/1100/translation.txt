@@ -11,11 +11,11 @@
 「それではこれより、式を執り行います」=“Then without further ado, let's start the ceremony.”
 「新たなご出発の証として、お二人には誓いの言葉を立てていただきます」=“As the proof of a fresh departure, you both have to make certain vows.”
 牧師=Pastor
-「[P名]さん、あなたは今、この女性を妻とし夫婦になろうとしています」=“Mr. [P名], you are now about to take this woman to be your wife.”
+「[P名]さん、あなたは今、この女性を妻とし夫婦になろうとしています」=“Mr. [P名], Right now, you are about to become a married couple, with this woman as your wife.”
 「汝、健やかなるときも、病めるときも、喜びのときも、悲しみのときも、富めるときも、貧しいときも」=“Do you promise, in times of sickness or in health, in times of happiness or sadness, whether you are rich or poor,”
 「これを愛し、これを敬い、これを慰め、これを助け、その命ある限り、真心を尽くすことを誓いますか？」=“to love her, to respect her, to comfort her, to support her, till the end of days, to the full extent of your abilities?”
-「はい、誓います」=“Yes, I vow.”
-「[H名]さん、あなたは今、この男性を夫とし夫婦になろうとしています」=“Miss [H名], you are now about to take this man as your husband.”
+「はい、誓います」=“Yes, I do.”
+「[H名]さん、あなたは今、この男性を夫とし夫婦になろうとしています」=“Miss [H名], Right now, you are about to become a married couple, with this man as your husband.”
 「では、二人の誓いの印として、指輪の交換を致します」=“Then, as the proof of your vows, you may now exchange the rings.”
 「初めに新郎から新婦へ」=“First from the groom to the bride.”
 「素敵です……」=“You look wonderful...”
@@ -24,7 +24,7 @@
 「あはは、それは嬉しいな。[H名]と釣り合うためにガムシャラやったよ。そうしたら、今、[H名]の薬指に指輪をはめようとしてる」=“Ahaha, glad to hear that. I really went at it dogged hard, just to be a good match for you, you know? Thanks to all that effort, I'm getting to put this ring on your finger right now.”
 「新婦から新郎へ」=“Now from the bride to the groom.”
 「頑張っているところをずっと見てました。あなたは私と釣り合うためと言ってくれますが、私もあなたを追いかけるので精いっぱいだったんですよ？」=“I watched you do your best the whole time. You say you did it to be a good match for me but, it was all I could do, to just chase after you myself, you know?”
-「[H名]はいつだってそうやって俺を立ててくれる。だから俺も今日まで頑張ってこられたんだよ」=“You always raise me up like that, [H]. That's why I was able to hold on till now.”
+「[H名]はいつだってそうやって俺を立ててくれる。だから俺も今日まで頑張ってこられたんだよ」=“You always raise me up like that, [H名]. That's why I was able to hold on till now.”
 「最後に、愛の証としてキスをしていただきます」=“Lastly, as the proof of your love, you may now kiss each other.”
 「……学園時代はコイカツ部で楽しくやってたけど、そのあとが大変だったよね。身分違いの恋を体験したよ」=“...Our Koikatsu club days were great fun but, things got pretty tough after that, didn't they? Our differences in status got in our way too.”
 「私のせいで、あなたには大変なご苦労を……あ、これは言わないルールでしたね」=“Because of me, you had to do so... ah, we made a rule to never mention that, didn't we?”
@@ -37,8 +37,8 @@
 「新しい生活が始まるね。俺と[H名]の新婚生活が……このキスは、その第一歩だね」=“Our new life's going to begin. Our married life, together... this kiss is, the first step towards that, isn't it?”
 「ん……」=“Nn...”
 「ん、ん……」=“Nn, nnn...”
-………………=.........
-…………=......
+………………=...
+…………=...
 ……=...
 「ぐすっ……うっ……好き、です……愛してます……」=“*sob*... uu--... I love, you... I love you so much...”
 「ここに二人の愛は結ばれました」=“Here, these two have been bound in a union of love.”
