@@ -12,7 +12,7 @@
 「あ、いや、別にいいって……」=“Ah, no, it's fine, we don't need to...”
 「俺がお金出すからさ。一緒に食べてみようよ」=“I'll pay for it, don't worry. C'mon, let's eat them together.”
 「むむ……分かった、乗ってやるよ。まったく、こういう時だけ押しが強いんだな」=“Mumu... I got it, I'll go along with it. Jeez, it's only at times like these that you grow a backbone.”
-………………=.........
+………………=...
 「おっ、もう持ってきた。じゃあ早速、いただきまーす」=“Oh--, they're already here. Then, let's dig in already~”
 「う……うめぇ……この甘さ、癖になりそうだ……！」=“S... So good... this sweetness, it's so addicting...!”
 「[H名]、とってもとろけた顔になってる……」=“That's such a melty face, [H名]...”

@@ -10,7 +10,7 @@
 「なんなら私が食ってやろうか？」=“Want me to go for it?”
 「えっ、[H名]は辛いもの、平気だったっけ……？」=“Eh--, were you fine with spicy stuff, [H名]...?”
 「これでも、結構イケる口なんだぜ？　早速注文だ！　おじさん、これ一本！」=“I've got a pretty good mouth on me, you know? Alright, I'mma go for it! Hey, mister, one of these please!”
-「はむはむっ……おおっ、これイイねえ。いい感じにメラっとくるぜ！」=*Chew chew*... ooh--, this is pretty nice. Really wakes you up, this!
+「はむはむっ……おおっ、これイイねえ。いい感じにメラっとくるぜ！」=“*Chew chew*... ooh--, this is pretty nice. Really wakes you up, this!”
 「むむっ……見てたらこっちまで欲しくなってきた……！　俺も注文してみようっと」=“Mmm--... seeing you eat it like that's made me want some too...! I'll order it too.”
 「いただきまーす！　……って辛っ！　辛すぎて口の中が痛くなってきたぞ……！」=“I'm digging in~! ...Hot--! It's so hot my mouth's starting to fucking hurt...!”
 「も、もう無理だ……このホットドッグ、予想以上に辛すぎる……」=“I-I can't... this hot dog is seriously way too spicy, way more than I expected...”

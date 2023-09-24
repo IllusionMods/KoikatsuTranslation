@@ -16,7 +16,7 @@
 「ん……」=“Nn...”
 「へへっ、私のキス、上手くなってるだろ……？」=“Hehe--, I'm getting better at kissing, no...?”
 「うん、上手だよ、[H名]……」=“Yeah, you're amazing at it, [H名]...”
-「…………」=“......”
+「…………」=“...”
 CHOICE:『前はここからエッチまでしたよね』=『We even had sex last time, didn't we?』
 CHOICE:『また、ここに来ようね』=『Let's come here again sometime, okay?』
 「……前はキスだけじゃなくて、エッチまでしちゃったよね」=“...We didn't just stop at kissing last time, did we? We even had sex.”
