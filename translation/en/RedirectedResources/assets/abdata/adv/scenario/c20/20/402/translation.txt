@@ -7,7 +7,7 @@
 「ですねぇ……。でも、メニューを見た感じですと、調理自体はそこまで複雑ではない、と思います」=“Probably... But, looking at the menu, the actual food's probably not going to be all that complex, I think.”
 「え、わかるの？」=“Eh, you can tell?”
 「は、はい……このメニューも簡単な部類なので、分量と手順さえ間違えなければ作れると思います。あとは見た目をなんとかできれば」=“Y-Yes... this menu's pretty simple, overall. As long as you don't mess up the amounts and the basic instructions, it'll come out well. After that, it's just a matter of making it look good.”
-「そうだったんだ……[H名]の料理、食べてみたいなぁ」=“I see... I wanna try your cooking someday, [H].”
+「そうだったんだ……[H名]の料理、食べてみたいなぁ」=“I see... I wanna try your cooking someday, [H名].”
 「え！？　わ、私のですか？　……じゃ、じゃあ、今度……作りましょうか？」=“Eh!? M-Mine? ...T-Then, next time... want me to make you something?”
 「ほんと！？　ぜひお願いしたい！　すっごい楽しみにしてるよ」=“You will!? I'd love it! Please do, I'm super excited.”
 「ふふっ、そんなに期待しないでくださいよ？　それじゃあ、好き嫌いがあったら教えてくださいね」=“Fufu--, don't expect the moon, okay? Well then, if there's something you don't like in particular, please let me know, okay?”
@@ -18,5 +18,5 @@
 「えっと……あなたの好きな料理、作りたいんですけど……いいですか？」=“Erhm... I want to try making something, that you love... could we?”
 「お、だったら俺も[H名]が好きなもの作りたいな」=“Oh, in that case, I wanna make something you love too.”
 「でしたら、お互いの好きなものを一品ずつ、一緒に作りませんか？」=“In that case, how about we cook something each of us loves, one after the other, together?”
-「お、それいいね。じゃあ早速聞くけど、[H名]が好きなものって何？」=“Oh, that sounds great. Then, let's plan this out, what kinda stuff do you love, [H]?”
+「お、それいいね。じゃあ早速聞くけど、[H名]が好きなものって何？」=“Oh, that sounds great. Then, let's plan this out, what kinda stuff do you love, [H名]?”
 「えっと、いろいろありますけど、一番は……」=“Erhm, lots of stuff but, the thing I love the most is...”

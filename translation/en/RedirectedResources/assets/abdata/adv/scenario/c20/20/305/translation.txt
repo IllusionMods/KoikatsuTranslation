@@ -11,11 +11,11 @@
 「な、なんか、部屋、暑いですね！　たくさん歌ったからでしょうか……なんて」=“I-It's gotten, quite hot in here, hasn't it! I wonder if it's because we sang so much... heh.”
 「そうだね……ちょっと空調入れようか。えっと、リモコン……」=“Right... let's turn the aircon on. Erhm, the remote's...”
 「あ、あそこのパネルで操作するみたいです。ちょっと、失礼しますね」=“S-Seems that you operate it with that panel over there. I'll go take a look.”
-「くんくん……」=*sniff sniff*...
+「くんくん……」=“*sniff sniff*...”
 「って、な、なにしてるんですか！？」=“Wuh, w-what are you doing?!”
 「いや、[H名]の汗の匂いがしたから……もっと嗅ぎたいなって」=“No, I just caught the scent of your sweat and... felt like taking a sniff.”
 「は、恥ずかしいですよ……」=“T-That's really embarrassing...”
-「いい匂いだよ、[H名]の汗……すごく興奮する……」=“It's a really nice scent, [H]... so arousing...”
+「いい匂いだよ、[H名]の汗……すごく興奮する……」=“It's a really nice scent, [H名]... so arousing...”
 「ねえ……ここでしてもいい？」=“Hey... mind if we do it here?”
 「こ、ここで、ですか……。二人っきりですし、そういう気分になるのは………ちょっと、わかります」=“H-Here, you say?... It's just the two of us, so I can... understand, why you'd get into the mood.”
 「なので……するのは、いいですけど……嗅ぐのはダメです！」=“So... I don't, mind but... no sniffing!”
