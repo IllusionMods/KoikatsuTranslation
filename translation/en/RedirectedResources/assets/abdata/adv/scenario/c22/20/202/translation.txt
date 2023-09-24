@@ -6,7 +6,7 @@
 「うん、そうしよう！　えーっとまずはどこから……」=“Yeah, let's do that! Erhm, where should we...”
 「あっ、見て見て！　あそこでピエロの格好した人がバルーンアートやってる！　ちょっと行ってみない？」=“Ah, look look! That guy in a clown suit is doing balloon art! Wanna go take a look?”
 「お、本当だ。こういうのってなかなか見る機会ないし、楽しそう！　行ってみよう！」=“Oh, you're right. You don't often get to see stuff like this, seems fun! Let's go!”
-………………=.........
+………………=...
 「ありがとうございます！　えへへ、カップルだからって一つもらっちゃった！」=“Thank you very much! Ehehe, he gave us one since we're a couple!”
 「良かったね。えーっと、その風船は何の形？」=“Ain't that nice. Erhm, what's it shaped as?”
 「これは……ウサギさんだね。ここがお耳で……ここが尻尾だよ」=“This is... gotta be a rabbit. These are its ears and... this is its little tail.”

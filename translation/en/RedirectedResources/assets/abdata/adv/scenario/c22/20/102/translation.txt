@@ -5,14 +5,14 @@
 「うん、みんなデートしてるんだねー。にこにこしてて楽しそう」=“Yeah, everyone's out on a date, huh~? They all look like they're having so much fun.”
 「そうだね。それにみんなくっついて……本当に幸せそうだ」=“They sure do. They're also all clinging to each other... they really do look happy.”
 「あはは、だったらー……私たちも負けないようにくっついちゃお？　こうやって……」=“Ahaha, in that case... we can't lose, now can we? Wanna cling to each other? Like this...”
-「……ぺたり」=...*cling*
-「わわっ……[H名]、ちょっと大胆だね」=“Wawah--... You're quite daring today, [H].”
+「……ぺたり」=“...*cling*”
+「わわっ……[H名]、ちょっと大胆だね」=“Wawah--... You're quite daring today, [H名].”
 「えへへ……デートだもん。ちょっとくらい大胆になるよ。それにほら……他のカップルはもっとくっついてるもん」=“Ehehe... it's a date. Of course I'm a little bit daring. Also, you know... everyone's clinging to each other more than this.”
 「あ、本当だ……みんな距離近いな……あのカップルとかすごい……」=“Ah, you're right... everyone's super close... especially that couple over there...”
 「あっ……ねぇねぇ、今突然気付いたんだけど……カップルって……服装の雰囲気が似てると思わない？」=“Ah--... hey, I just realized this but... couples... don't they tend to dress kinda similarly?”
 「そうかな？　あ……本当だね。色合いとか似てるかも……」=“You think so? Ah... you're right. Everyone's wearing kinda matching colors...”
 「ね。やっぱり長く付き合ってくると好みも似てくるのかな？　それとも好みが似てるから長く付き合えるのかな？」=“Hey. Do you think your likes and dislikes kinda start melding together too, when you date someone for a while? Or is it that having matching tastes is what keeps you together to begin with?”
-「どっちだろう……？　[H名]はどっちだと思う？」=“Wonder which one it is...? What do you think, [H]?”
+「どっちだろう……？　[H名]はどっちだと思う？」=“Wonder which one it is...? What do you think, [H名]?”
 「私？　うーん……私はね、好きな人の好みに合わせちゃうタイプかなぁ……だから、付き合っているうちに似ていく方かも」=“Me? Mm... I guess I'd be the type to dress according to how my boyfriend dresses... so I guess my tastes would change over time to match yours.”
 「あはは、そう言われると……俺、ちょっと責任重大じゃない？　おしゃれに気を付けないと」=“Ahaha, if you say that... doesn't that kinda give me a big responsibility? Gotta watch how I dress.”
 「ふふっ、うんっ、責任重大だよ♪　これからちょっとずつ……君色に染めてください……なんて。えへへ」=“Fufu--, yeah--, it's a very important responsibility♪ Please paint me in your colors... little by little, everyday... heh, so cliche. Ehehe~”

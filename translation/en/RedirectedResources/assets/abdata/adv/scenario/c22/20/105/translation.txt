@@ -26,7 +26,7 @@
 「……わ、私のお顔、あんまり見ないでよぉ。夜景に集中できないから……」=“...D-Don't look at my face, overmuch. I can't focus on the night sky if you do...”
 「ごめん」=“Sorry.”
 「も、もう……そんなこと言って、まだこっちを見続けて……いいもんっ。私だって……君のお顔見るもんっ」=“J-Jeez... you say that, but your eyes are still on me... Fine then--. I'll... look at yours too--”
-「じー……」=*stare*...
+「じー……」=“*stare*...”
 「[H名]……」=“[H名]...”
 「は、はいっ……！？」=“Y-Yes--...!?”
 「俺……やっぱり[H名]のことが好きだ」=“I... really do love you.”
