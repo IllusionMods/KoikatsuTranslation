@@ -9,7 +9,7 @@
 「現在、私どもの式場にてブライダルフェアを行っておりまして、模擬挙式のモデルをお願いできる方を探していたのですが……」=“Right now, at our hall, there's currently a Wedding Fair being held. So I have been out searching for couples who could model for us in a mock wedding ceremony...”
 「……もしかして、そのモデルをあたしたちに？」=“...Are you asking us, to be those models?”
 「はい！　すごくお似合いで素敵なカップルさんでしたので、是非にと声をかけさせていただきました！　いかがでしょうか？」=“Yes, I am! You guys just look so good together, such a lovely couple, I just had to call out to you. How about it?”
-「えーっ……と、[H名]どうする？」=“Eeh--... so, what say you, [H]?”
+「えーっ……と、[H名]どうする？」=“Eeh--... so, what say you, [H名]?”
 （……って、聞くまでもないかな。こんなに目を輝かせてたら）=(...I guess I needn't have asked. Her eyes are basically sparkling.)
 「……やってもいいと思うけど、どうかな？」=“...I don't mind trying it out, how about you?”
 「や、やる！　こんなチャンス、めったにないもん」=“I-I want to! A chance like this doesn't come often!”

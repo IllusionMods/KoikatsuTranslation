@@ -4,7 +4,7 @@
 「わぁ、すっごく綺麗……」=“Waah, it's so pretty...”
 「よかった。喜んでくれたみたいだね」=“Great. Seems like you like it, huh?”
 「もちろんよ。公園にこんな所があったなんて」=“Of course I like it. To think there was a place like this in this park.”
-「カップルに評判だったから、[H名]と一緒に見に来たかったんだ」=“It's pretty popular amongst couples around here so, I really wanted to come and see this with you, [H].”
+「カップルに評判だったから、[H名]と一緒に見に来たかったんだ」=“It's pretty popular amongst couples around here so, I really wanted to come and see this with you, [H名].”
 「そうなの？　ありがとう、ホント嬉しい！」=“Really? Thank you, I'm really happy!”
 「それに、ここでなら二人きりにもなれそうだったし」=“Not to mention, I thought we'd get some real alone time here, together.”
 「……そういえば、ひと気が少ないわね」=“...Now that you mention it, doesn't seem like there's that many people around.”
@@ -16,11 +16,11 @@
 「ふぅん……あんたもちゃんと活動してるんだ」=“Fuuhn... so you do your club activities properly too, huh?”
 「うっ、ひどいなぁ」=“Uu--, so harsh~”
 「ふふ、ごめんね。わざわざあたしのために調べてくれたんでしょ？　感謝してるわよ」=“Fufu, I'm sorry. You went out of your way to look for this place for me, no? I really am thankful, you know.”
-「[H名]……」=“[H]...”
+「[H名]……」=“[H名]...”
 「だけど……あんまりひと気が無いのもちょっと怖いかな……」=“But... deserted places like these are kinda scary to me...”
 「大丈夫だよ。俺が君をちゃんと守るから」=“It's alright. I'll protect you, don't worry.”
 「……うん」=“...Yeah, you will.”
-「[H名]……好きだよ」=“[H]... I love you.”
+「[H名]……好きだよ」=“[H名]... I love you.”
 「わ、私も……好き」=“M-Me too... I love you.”
 「ん……」=“Nn...”
 「んっ……んんっ……」=“Nn--... nnn--...”

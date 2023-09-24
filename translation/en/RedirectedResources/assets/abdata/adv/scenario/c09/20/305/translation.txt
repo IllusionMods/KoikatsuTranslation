@@ -17,7 +17,7 @@
 「でも、こんな誰か来るかもしれない所で？」=“But, in such a public place? Where someone might walk in at any time?”
 「けっこうエッチしちゃうカップル多いみたいだよ」=“Seems like there's lots of couples that have sex here.”
 「えっ、そうなの？　で、でも……」=“Eh--, really? B-But...”
-「無理にとは言わないけどさ……俺は[H名]とシタいな……」=“I won't force you, of course, but... I wanna do it with you, [H]...”
+「無理にとは言わないけどさ……俺は[H名]とシタいな……」=“I won't force you, of course, but... I wanna do it with you, [H名]...”
 「……あたしも、あんたとイチャイチャするのは……好き」=“...I love... making out with you too.”
 「それじゃあ、そういうことで……ね」=“Well then, with all that... shall we?”
 「……ほんのちょっとだけだからね」=“...Just for a little bit, okay?”

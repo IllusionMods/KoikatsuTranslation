@@ -5,6 +5,6 @@
 「そうね。ちょっと長居しすぎたかも」=“Yeah. I think we overstayed a bit too much.”
 「[H名]といると退屈しないから、ついつい話しこんじゃってたよ」=“I really don't get bored when I'm with you, so it's no wonder we ended up talking so much.”
 「ふふ、嬉しいこと言ってくれるわね」=“Fufu, you sure know how to sweet talk a girl.”
-「[H名]はリアクションがいいからね～」=“It's because your reactions are so good, [H]~”
+「[H名]はリアクションがいいからね～」=“It's because your reactions are so good, [H名]~”
 「ちょ、それどういう意味よ！」=“Hey--, just what do you mean by that!”
 「ははは」=“Hahaha.”
