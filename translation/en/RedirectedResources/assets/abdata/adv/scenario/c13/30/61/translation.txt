@@ -8,7 +8,7 @@
 「そ、そんなこと面と向かって言われたら照れるじゃん……」=“I-If you say that to me so directly, I'll blush...”
 「お、俺も急に何言ってんだろ……」=“W-Why did I even say that all of a sudden...”
 「さっ、さっ、お互い顔が熱くなったところで、ジェラートでクールダウンしよ！」=“W-Well--, now that we've both our faces burning up, let's cooldown with some of this gelato!”
-「はぁ～。今日マジで楽しかった。それにアタシ……[P]くんのこと、もっと好きになった」=“Haa~. Today was a ton of fun. I also... fell even more for you, [P名]-kun.”
+「はぁ～。今日マジで楽しかった。それにアタシ……[P]くんのこと、もっと好きになった」=“Haa~. Today was a ton of fun. I also... fell even more for you, [P]-kun.”
 CHOICE:「俺もだよ……もう少し一緒にいたいな」=Me too. Listen... I want to be with you for a bit longer.
 CHOICE:「俺も同じ気持ちだよ……それじゃあ、また」=I feel the same way... Well then, see ya later.
 「俺もだよ。その……もう少し[H]と一緒にいたい」=“Me too. Listen... I want to be with you for a bit longer.”

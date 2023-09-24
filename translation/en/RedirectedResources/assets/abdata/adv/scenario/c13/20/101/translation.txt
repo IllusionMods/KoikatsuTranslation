@@ -9,7 +9,7 @@
 「ど、どしたの急に？　ずっごい照れくさいじゃん」=“W-What's up, all of a sudden? That's super embarrassing.”
 「ははは……デートだから浮かれちゃってるのかも」=“Hahaha... I might be getting a bit too into it, since we're on a date and stuff.”
 「そっかぁ。じゃあ……もっと浮かれちゃうこと、してみる？」=“I see. Well then... wanna try doing something that'll make you get even more into it?”
-「ゴクリ……そ、それは、どんなこと？」=*Gulp*... W-What "something" would that be?
+「ゴクリ……そ、それは、どんなこと？」=“*Gulp*... W-What "something" would that be?”
 「あっ、エッチな顔してる～♪　そーゆーのじゃなくて、今はこっち」=“Ah--, you're making a lewd face~♪ Not that sort of thing, I mean this.”
 「ほら、手を繋ごっ？」=“Come on, let's hold hands?”
 「あぁ、そっちか。えーとじゃ、失礼して……恋人繋ぎを！」=“Aah, that, huh? Erhm, then, here we go... a lover's grip!”

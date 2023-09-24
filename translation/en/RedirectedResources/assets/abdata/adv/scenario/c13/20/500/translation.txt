@@ -1,13 +1,13 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-………………=.........
-…………=......
+………………=...
+…………=...
 ……=...
 「……もう、着いちゃったね」=“...We're already here, huh?”
 「そうだね……[P名]くん、今日はすごく楽しかったよ。ほんとにありがと」=“Yeah... [P名]-kun, today was an absolute blast. Thank you, for real.”
 「いや、お礼を言うのは俺の方だよ」=“No, I should be the one saying thanks.”
-「…………」=“......”
+「…………」=“...”
 「ねぇ、[P名]くん……？　どうしたの？」=“Hey, [P名]-kun...? What's the matter?”
 CHOICE:『自宅に誘う』=『Invite to your place』
 CHOICE:『ラブホに誘う』=『Invite to love hotel』
@@ -20,7 +20,7 @@ CHOICE:『さよならする』=『Say goodbye』
 「えっ？　……別にいいけど……どこ行くの？」=“Eh--? ...I don't really mind but... where are we going?”
 「その……いいところだよ」=“That's... it's a good place.”
 「それって……うん、わかった」=“By that... yeah, got it.”
-「……別れるのが、ちょっと寂しくて」=“......Saying goodbye like this, feels pretty lonely.”
+「……別れるのが、ちょっと寂しくて」=“...Saying goodbye like this, feels pretty lonely.”
 「[P名]くん、今日は楽しかったんでしょ？」=“[P名]-kun, today was fun, right?”
 「ああ、もちろんだよ！」=“Yeah, of course!”
 「だったらそれでいいじゃん！　また、手繋いだり、色んなお話したり……そーゆーこと、いっぱいしようね！」=“Then that's fine enough! Let's do stuff like holding hands, chatting about random stuff... lots of stuff like that, again sometime! Okay?”

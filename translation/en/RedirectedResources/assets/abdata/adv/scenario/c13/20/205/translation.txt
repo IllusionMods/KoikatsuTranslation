@@ -24,7 +24,7 @@
 「ねえ、[H名]……」=“Hey, [H名]...”
 「なぁに？　って、ちょ、顔近いって！」=“What is it~? Hey--, your face's too close!”
 「んんっ……！　んぅ、ちゅ……ん……」=“Nnnn--...! Nnn, *kiss*... nn...”
-「ん……」=“Nnn......”
+「ん……」=“Nnn...”
 「うぅ……いきなりすぎだって……」=“Uuu... that was way too sudden, dummy...”
 「[H名]への想いが溢れて、つい」=“My feelings for you just kinda overflowed, I couldn't help myself.”
 「も～、そんなこと言われたら、許すに決まってるじゃん……」=“Jeez~, how am I supposed to stay mad, when you say stuff like that...”

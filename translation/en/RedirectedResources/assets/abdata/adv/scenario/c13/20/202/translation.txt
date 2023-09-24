@@ -12,7 +12,7 @@
 「い、いやぁ、意気込んだ直後だったから、恥ずかしくて……」=“N-No~, it's just that it happened right after all that gusto and, I was just embarrassed...”
 「えっと、アトラクションの前にお昼にしていいかな？」=“Erhm, could we get something to eat before we ride anything!”
 「もちろん！　そうと決まればレッツゴー！」=“Of course! Now that we've settled on that, let's go!”
-………………=.........
+………………=...
 「お待たせ～。色々買ってきたよ」=“Sorry for the wait~. I bought a bunch of stuff.”
 「わわっ、めっちゃたくさん！　そんなに腹ペコだったの～？」=“Wawah--, that's a ton! You were that hungry~?”
 「あはは……自分で思ってたよりお腹が空いてたみたいで……いつもより早い時間に朝ご飯を食べたからかな？」=“Ahaha... I was hungrier than even I realized... I wonder if it's because I got breakfast way earlier today?”

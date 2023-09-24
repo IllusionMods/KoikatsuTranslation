@@ -13,6 +13,6 @@ CHOICE:『そろそろ時間だし帰ろうか』=『We're almost out of time, w
 「そうだね。っと、そろそろ時間だし、あと一曲歌ったたら帰ろうか」=“Yeah. Oh, our time's almost up, let's sing one more song then go home.”
 「もう時間か～……じゃあ、最後はデュエットで歌おうよ！」=“Time's already up, huh~... well then, let's sing a duet for the last one!”
 「デュエットってことは、あの曲だね！　よーし！」=“Gotta be that song then! Alright!”
-[P名]＆[H名]=[P名]&[H名]
+[P名]＆[H名]=[P名]＆[H名]
 『もしも今 背中に羽が生えて 大空自由に 飛び回れたら～♪』=『If only I could, sprout wings from my back, and fly freely, in this wide open sky~♪』
 （一緒に歌うのって、やっぱ気持ちいいな）=(Singing together really does feel so good)
