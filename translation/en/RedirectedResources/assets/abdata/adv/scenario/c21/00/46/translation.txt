@@ -2,5 +2,5 @@
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
 「どう……だった？　まだあまり慣れてないから、ちゃんと出来たかなって……」=“How... was I? I'm still not used to this at all so, I dunno if I did a good job...”
-「すごく良かったよ」=“It was great.”
+「すごく良かったよ」=“You were amazing.”
 「そう？　うふふっ、よかった♪」=“Was I? Ufufuh--, great♪”

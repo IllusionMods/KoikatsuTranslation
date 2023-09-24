@@ -6,10 +6,10 @@
 「も～、何でもそっちに結び付けるの禁止！　愛称、二人で呼び合うの」=“Jeez~, no more leading anything and everything to sex, you're forbidden! We're gonna call each other by nicknames instead.”
 「あ、いいね！」=“Ah, that sounds nice!”
 「私はもう考えてきたんだ～。彼女が愛情たっぷりに呼んであげるね」=“I've already thought of one for you~. Your cute girlfriend will call you it with tons of love packed in.”
-「[Pあだ名]」=[Pあだ名]
+「[Pあだ名]」=“[Pあだ名].”
 「おお……なんかいいね。あとすごく照れる」=“Ooh... it feels kinda nice. And really embarrassing.”
 「ホント？　私のことも愛称で呼んでみて！」=“Really? Call me by one too!”
-「それじゃあ……[Hあだ名]」=“Well then... [Hあだ名]”
+「それじゃあ……[Hあだ名]」=“Alright, then... [Hあだ名].”
 「あぅ……たしかに呼ばれるのもけっこう恥ずかしいね」=“Auu... for sure, being called by one feels pretty embarrassing too, huh?”
 「だけど、もっと仲良くなれた気がするね」=“But, it does feel like we got closer, doesn't it?”
 「あ、うん……えへへ♪　キミさえよければ、また呼んでみてもいい？」=“Ah, yep... eheheh♪ If it's alright with you, could we call each other that more?”

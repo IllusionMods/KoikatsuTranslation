@@ -5,7 +5,7 @@
 「あ、やっぱり場所自体は知ってた？」=“Ah, so you knew of the place afterall?”
 「うん。ここでもよく遊んだし、家族でピクニックにきたときは、いつもここでお弁当食べてたんだ。でも、夜は一回も来たことなかったから……すごくビックリ」=“Yep. I used to play here a lot, and whenever we would come for picnics, we'd always set down our sheet here. But, I've never come here at night so... I didn't expect this.”
 「よかった。ここからの夜景が綺麗だって知ってから、[H名]と一緒に見たかったんだ」=“Great. Ever since I found out that the view from here was this nice, I just couldn't help but want to see it with you.”
-「…………」=“......”
+「…………」=“...”
 「[H名]？」=“[H名]?”
 「……あ、ごめん。なんか、すごく感動しちゃって……私、この公園も、街全体もよく知ってるつもりだったけど……」=“...Ah, sorry. That just, kinda made me emotional... I thought I knew this park, this entire city, like the back of my hand but...”
 「ここからの景色、なんだか私の住んでる街じゃないみたいで……それが、とっても不思議な感じで……ごめんね、うまく言えない」=“But the view from here, feels like it's not part of the same town I grew up in... it felt, so weird... sorry, I can't express it properly.”

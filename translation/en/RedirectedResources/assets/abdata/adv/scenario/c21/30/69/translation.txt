@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「じゃあ、さっそく始めようか」=“Then, let's start right away.”
+「じゃあ、さっそく始めようか」=“Not at all, let's start then.”
 「あ……いきなりだけど、教えてもらいたい所があって。聞いてもいい？」=“Ah... I know it's a bit sudden but, there's something I want help with. Could I?”
 「いいよ。問題はうまく教えられるかどうかだけど……」=“Sure. I'm not sure if I'll be able to help all that well but go on...”
 「キミならきっと大丈夫だよ♪　ここなんだけど～…先生、お願いします！」=“I'm sure you'll manage♪ It's this part here~... please teach me, sensei!”

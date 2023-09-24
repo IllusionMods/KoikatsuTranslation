@@ -10,7 +10,7 @@
 「やった！　その代わり、[H]のことも愛称で呼ぶから」=“Yay! In return, I'll give you a nice one too.”
 「変なのつけないでね？」=“A nice one, okay? Not anything weird.”
 「自分の彼女を変な名前で呼ばないよ。それじゃあ、俺から呼ぶね」=“I won't call my own girlfriend something weird. Well then, I'll start.”
-「[Hあだ名]」=[Hあだ名]
+「[Hあだ名]」=“[Hあだ名].”
 「今まさに変わった名前で呼ばせようとしてるのに……。えっと……[Pあだ名]」=“Even though you're trying to make me call you something so weird yourself... erhm... [Pあだ名.”
 「すごくいいよ……やっぱり恋人に言ってもらうのはいいね」=“It feels amazing... having the girl you love call you that really does feel the best, huh?”
 「よくわからないけど、キミがいいなら、これからも呼んであげる」=“I don't really get it but, if it makes you happy then, I'll call you that from now on.”

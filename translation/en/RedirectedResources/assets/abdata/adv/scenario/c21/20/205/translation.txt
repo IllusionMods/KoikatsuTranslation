@@ -22,7 +22,7 @@
 「な、なんでわかるの！？　しょっちゅう言われてる！」=“H-How'd you know?! They always do!”
 「そういうの、あまり主張しないタイプだからね、[H名]は」=“That's because you're not much of an assertive girl, [H名].”
 「友達にもママにも言われるよ～。パパは気になってるみたいだけど、何も言ってこないかな」=“Not just my friends, my mommy always asks me that too~. I feel like my daddy wants to know too, but he never says anything.”
-（パパさん……なんだか、ごめんなさい……）=([H名]'s father... I'm kinda, really sorry...)
+（パパさん……なんだか、ごめんなさい……）=([H]'s father... I'm kinda, really sorry...)
 「……もっと、キミとのこと、話してもいいのかな？」=“...Do you mind if I, talk more about you?”
 「[H名]としては、話したいの？」=“Do you want to talk about me to them?”
 「そりゃ、話したいよ～！　だって、初めて出来た彼氏くんがこんな理想的でいいのかなって、私いつも思ってるもん。みんなに主張したいこと、堂々のナンバー１！」=“Of course I do~! I mean, I'm always thinking, whether it's really okay for my first boyfriend to be so perfect and so good to me. If there's one thing I'd want to insist upon, it's that!”
@@ -43,7 +43,7 @@
 「…………そういうところも好き」=“...I love that side too.”
 「えっ？」=“Eh--?”
 「エッチな話でニヤニヤしてたと思ったら、観覧車からの景色を見て、本当にキレイだって感動してるところ」=“The way you go from grinning ear to ear over lewd stuff, to suddenly honestly appreciating the view and being moved.”
-「…………」=“......”
+「…………」=“...”
 「漫画とかアニメで出てくる超理想的なイケメンじゃないし、欠点あるし、たまに言ってること矛盾してるし、女の子のお尻ばっかり追いかけてるし……」=“You're not a super perfect hunk of a man like they are in anime or manga, you're got a lot of flaws, and sometimes you say very contradictory stuff, and you're always chasing tail...”
 「でも、私のことをちゃんと知ろうとしてくれるし、一緒に遊んでくれるし、恋人として愛してくれてる……そんなキミが、私は好き。好きになったの、キミのこと……」=“But, you always try to hear me out and pay attention to me, you're always make time for me, and you give me so much love... that's the man, I fell in love with. You're that man...”
 「[H名]……」=“[H名]...”
