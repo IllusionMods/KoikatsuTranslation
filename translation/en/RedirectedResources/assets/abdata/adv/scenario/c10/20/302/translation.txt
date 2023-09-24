@@ -2,10 +2,10 @@
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
 「いえーい！」=“Yay~!”
-「いいぞー、[H名]ー！　最高ー！　声きれいー！」=“You're great, [H]! The best! Love your voice!”
+「いいぞー、[H名]ー！　最高ー！　声きれいー！」=“You're great, [H名]! The best! Love your voice!”
 「そ、そう？　えへへ……」=“R-Really? Eheheh...”
 「はっ！　ふ、ふふん、当然だ。我にとってはこの程度、遊びに過ぎぬ」=“Hah--! F-Fufuhn~, of course. This is naught but play to someone of my league.”
-「俺、[H名]の歌すごく好きだよ。どこで練習してるの？」=“I really do love your voice, [H]. Do you go somewhere for practice?”
+「俺、[H名]の歌すごく好きだよ。どこで練習してるの？」=“I really do love your voice, [H名]. Do you go somewhere for practice?”
 「ん？　我が城の浴場にて身を清める際に、よく訓練しているな」=“Nn? When I feel the need to cleanse myself, I go to the bath, and practice at that time.”
 （えっと、つまりお風呂に入ってる時ってことか。お風呂で歌う[H名]、か……）=(Erhm, so basically when she's taking a bath, huh? Singing while taking a bath, huh...)
 「ふ、ふふっ、それは、いいね、ぷふぅっ」=“F-Fufuh--, that sounds, nice, pff--”

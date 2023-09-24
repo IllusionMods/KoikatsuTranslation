@@ -10,10 +10,10 @@
 （ふぅ、思ったより緊張したぁ……でも、不恰好ではなかった、はず。大丈夫だよな？）=(Fuu, that was more nerveracking than I expected... but, I wasn't uncool. Probably. Should have been fine, right?)
 モブ=Mob
 「これより新婦が入場致します。後方の扉口をご覧ください」=“And now, the bride will make her entrance. Please pay attention to the main door.”
-（[H名]……）=([H]...)
-闇の住人だと自称する[H名]が、純白のウェディングドレスに身を包んでいる。=[H], the self-proclaimed denizen of the dark, was standing there clad in a snow white wedding dress.
+（[H名]……）=([H名]...)
+闇の住人だと自称する[H名]が、純白のウェディングドレスに身を包んでいる。=[H名], the self-proclaimed denizen of the dark, was standing there clad in a snow white wedding dress.
 普段の言動とのギャップが少しだけおかしくて、でも、ドレス姿は驚くくらいに似合っていて――。=The difference from her usual self almost enough to elicit a chuckle, yet, the dress suited her so well--
 どこか幻想的で美しい彼女に、俺は目を離せないでいた。=It was a fantastical, beautiful sight, and I could not take my eyes over her.
 「なんていうか……うん、綺麗だ」=“How do I say this... yeah, she's just beautiful.”
-「その、えっと……似合ってるよ、[H名]」=“Uhm, erhm... you look lovely, [H].”
+「その、えっと……似合ってるよ、[H名]」=“Uhm, erhm... you look lovely, [H名].”
 「う、うん……あ、ありがと……」=“I-I see... t-thanks...”

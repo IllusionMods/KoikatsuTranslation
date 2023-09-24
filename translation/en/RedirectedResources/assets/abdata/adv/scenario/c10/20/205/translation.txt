@@ -10,11 +10,11 @@
 「あはは、そうだね」=“Ahaha, yeah.”
 「でもよかった、[H名]も楽しんでくれてて。俺、小さい時はこの高さがダメでさ」=“But I'm glad, that you're enjoying this, I mean. I really couldn't bear being this high up as a kid.”
 「へ～、そうであったのか……」=“Hoh~, is that so...”
-「[H名]は高いところは怖くない？」=“Do heights not scare you, [H]?”
+「[H名]は高いところは怖くない？」=“Do heights not scare you, [H名]?”
 「ふんっ、我はいずれ世界を征服する者だぞ？　むしろ高いところは……」=“Fuhn--, I will be conquering this entire world one day, you realize? If anything, heights like these are...”
 ガタガタッ！！=*shake shake*
 「きゃっ！？」=“Kyah--!?”
-「……[H名]、すごく震えているけど大丈夫？」=“...[H], you're shaking, are you okay?”
+「……[H名]、すごく震えているけど大丈夫？」=“...[H名], you're shaking, are you okay?”
 「だ、大丈夫に決まっているだろっ！　我に恐怖心などあるわけ……」=“O-Of course I am! Terror is an emotion unknown to...”
 「本当に？　無理してない？」=“Really? Are you sure you're not forcing yourself?”
 「当然だ！　ただ、敵襲かと思って驚いてしまっただけで私は別に怖くなんて……ごにょごにょ」=“Of course! I just thought it was an enemy attack or some such so I just got caught off guard, I wasn't afraid in the... *mumble mumble*.”

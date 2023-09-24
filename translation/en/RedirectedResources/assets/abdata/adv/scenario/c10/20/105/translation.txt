@@ -12,8 +12,8 @@
 「当たり前だと思うか？　我はな、そんなことにも気づかずこれまで生きてきたのだ」=“Do you think it obvious? I have lived my entire life, never once realizing that fact.”
 「ああ、なるほど……」=“Aah, I see...”
 「汝と一緒でなければ、こんな風に思うこともなかった……えへへ、ありがとう、我が同士よ」=“If thou wert not by my side, I would have never been able to think in this way... ehehe, thank you, o comrade.”
-（[H名]が笑ってる……こんな笑顔を見たら俺……）=(She's laughing... [H], if you show me such a smile...)
-「[H名]」=“[H].”
+（[H名]が笑ってる……こんな笑顔を見たら俺……）=(She's laughing... [H名], if you show me such a smile...)
+「[H名]」=“[H名].”
 「あっ！？　ふぇっ……」=“Ah--!? Fueh--...”
 「ん……」=“Nn...”
 「んん……ちゅ、ちゅる……」=“Nnn... *kiss*, *shlurp*...”
@@ -39,9 +39,9 @@
 「こ、こんな場所で……汝はしたいのか……」=“T-Thou wantst... to do it here...”
 「さすがにこの場ではしないよ！」=“Even I wouldn't do it right here!”
 「で、でも……したいことに変わりはないのだろう……？　そういうの、私たちには、まだ早いような……」=“B-But... thou still wantst to do it, right...? I feel as if, it's still a bit, too early for us...”
-「……大事なのは互いの気持ちだと思うんだ。[H名]は俺のこと、どう思ってるのかな？」=“...I think what's important is how we feel about each other. How do you feel about me, [H]?”
+「……大事なのは互いの気持ちだと思うんだ。[H名]は俺のこと、どう思ってるのかな？」=“...I think what's important is how we feel about each other. How do you feel about me, [H名]?”
 「それは……」=“That's...”
 「……我も……汝と同じ気持ちだ……」=“...I feel... the same as thee...”
 「汝と、愛し合いたい……」=“I want to, make love with thee...”
-「[H名]……！」=“[H]...!”
+「[H名]……！」=“[H名]...!”
 「それじゃ……場所をかえようか」=“Well then... let's change locations.”

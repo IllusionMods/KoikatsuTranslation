@@ -2,7 +2,7 @@
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
 「うぅ……む、むぅ……う～ん……ふぅぅぅ……」=“Uuu... m-muuh... nnnn~... fuuuuu...”
-「[H名]？　どうかした？」=“[H]? What's wrong?”
+「[H名]？　どうかした？」=“[H名]? What's wrong?”
 「う、うむ……店内が落ち着かなくて……少し、羞恥を感じているのだ」=“U-Umu... I can't calm down... I feel, a bit shy.”
 「えっと、なんでまた？」=“Erhm, what now?”
 「周囲にいる他の者どもが、皆男女の二人組ばかりではないか。それに、その……こういう、いかにもカップルで来る場所、という雰囲気にも、違和感があるのだ」=“Isn't every single table around us, being used by a pairing of man and woman? Not to mention, uhm... this sort of, lovey-dovey couple atmosphere, feels really alien.”

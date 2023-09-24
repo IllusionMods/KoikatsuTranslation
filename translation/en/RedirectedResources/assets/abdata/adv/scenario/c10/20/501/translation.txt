@@ -1,11 +1,11 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-（待ち合わせ時間ギリギリになっちゃったな。[H名]は……）=(I just barely made it in time. [H] is...)
+（待ち合わせ時間ギリギリになっちゃったな。[H名]は……）=(I just barely made it in time. [H名] is...)
 （あぁ！？　もう来てるっ！）=(Aaah!? She's already here--!)
 「はぁっ……はぁっ……お、お待たせっ！」=“Haaah--... haah... s-sorry for the wait--!”
 「むぅ……汝よ。この我を、魔界の支配者たる我を待たせるとは、いい度胸ではないか」=“Muh... Thou do have some gall. Making this sovereign, of the entire seven hells, wait for thee, some gall indeed.”
-「あ、あはは、ごめんごめん。いやー、まさか[H名]が先に来てくれるなんて思わなかったから」=“A-Ahahah, sorry, sorry. Man, I didn't think you'd show up early, [H].”
+「あ、あはは、ごめんごめん。いやー、まさか[H名]が先に来てくれるなんて思わなかったから」=“A-Ahahah, sorry, sorry. Man, I didn't think you'd show up early, [H名].”
 「そ、それは……だって、今日、すごく楽しみだったから……」=“T-That's... I mean, I was really excited for our date so...”
 （っ！　か、かわいいっ！）=(--! S-So cute--!)
 「そっか、嬉しいな。あはは……よし、それじゃあさっそく行こうか」=“I see, that makes me happy. Ahahah... alright, let's go, shall we?”
