@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「遅い、主をいつまで待たせるつもり？　下僕としての意識が足りないのではないかしら」=“You're late! How long are you going to make your master wait?”
-「ごめん、ちょっと他の子に捉まっちゃって……」=“I'm sorry, I got caught up with another classmate...”
-「は？　他の子？　貴方、主を待たせておいて、他の女と遊んでいたの？　良いご身分ね」=“Huh? Another classmate? You left your master waiting so you could play with other girl?”
-「いやっ、ちが……えっと、あれ？　ていうか……もしかして、嫉妬してくれてる？」=“No, that's wron... Umm, are you perhaps jealous?”
-「嫉妬？　誰が？　誰に？　はぁ、まったく、思い上がるのもいい加減にしなさい。ほら、帰るわよ」=“Jealous? Who? For whom? Hah, don't be conceited! Come on, get going.”
+「遅い、主をいつまで待たせるつもり？　下僕としての意識が足りないのではないかしら」=“You're late, how long did you plan on making your master wait? Aren't you lacking awareness of your status as my manservant?”
+「ごめん、ちょっと他の子に捉まっちゃって……」=“Sorry, I got held up by another girl...”
+「は？　他の子？　貴方、主を待たせておいて、他の女と遊んでいたの？　良いご身分ね」=“Hah? Another girl? You left your master waiting, and were busy playing around with another girl? Pretty cushy life, huh?”
+「いやっ、ちが……えっと、あれ？　ていうか……もしかして、嫉妬してくれてる？」=“No--, It's not lik--... Uhm, Huh? [H名]-san... are you perhaps, jealous?”
+「嫉妬？　誰が？　誰に？　はぁ、まったく、思い上がるのもいい加減にしなさい。ほら、帰るわよ」=“Jealous? Who's jealous? Of whom? Haa, Good Grief, get a handle on that conceit of yours. Come on, we're going home.”

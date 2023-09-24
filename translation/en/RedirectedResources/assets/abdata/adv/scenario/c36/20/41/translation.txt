@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「はぁ、本当に家畜に成り下がるとはね。今すぐ去勢してあげましょうか？」=“Ehh, you've certainly gone back to being livestock. I should just castrate you on the spot.”
+「はぁ、本当に家畜に成り下がるとはね。今すぐ去勢してあげましょうか？」=“Haa, you really are degrading back to livestock, aren't you? Shall I castrate you right now?”

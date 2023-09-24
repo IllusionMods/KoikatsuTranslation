@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「あぁ……さらば愛しき遊園地……また来るからね」=“Farewell, dear amusement park... I'll come back someday!”
-「はぁ、私から少し離れなさい。こんな気持ち悪いのと一緒にされたら困るわ」=“*Sigh* Stay away from me a bit. You're grossing me out.”
-「そんなぁ……[H名]さんだって、遊園地また来たいって思ってるでしょ？」=“No way... But Miss [H名], you'd also want to visit it again, right?”
-「思っていても、貴方みたいにみっともない真似はしないわ。シッシッ、こっちに寄ってこないで」=“Even if I did, I wouldn't do it with someone as shameful as you. Shoo! Don't come near me.”
-「うぅ、わかったよ。大人しくしてるから、傍にはいさせて」=“Uu, I got it. I'll be quiet, so please let me be close.”
+「あぁ……さらば愛しき遊園地……また来るからね」=“Aaah... Farewell, beloved Amusement Park... We'll come back one day.”
+「はぁ、私から少し離れなさい。こんな気持ち悪いのと一緒にされたら困るわ」=“Haa, maintain some distance from me. I don't want to be lumped together with you when you're being this gross.”
+「そんなぁ……[H名]さんだって、遊園地また来たいって思ってるでしょ？」=“Don't say that... Don't you also want to come back again to the amusement park, [H名]-san?”
+「思っていても、貴方みたいにみっともない真似はしないわ。シッシッ、こっちに寄ってこないで」=“Even if I do, I certainly wouldn't act in that unseemly manner, unlike you. Shoo, Shoo, Don't come closer.”
+「うぅ、わかったよ。大人しくしてるから、傍にはいさせて」=“Uuu, Fine, I get it. I'll be quiet, so let me be close to you.”

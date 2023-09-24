@@ -1,17 +1,17 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「あら、少し暗くなってきたわね。何かするにしても、次で最後かしら？」=“Oh, it's gotten dark. Whatever we choose next, it's going to be the last one.”
-CHOICE:『じゃあ、最後に観覧車に乗ろうよ』=For the finale, let's ride the Ferris wheel
-CHOICE:『暗くなる前に帰った方がいいかな？』=Should we go home before it gets dark?
-「実は、最後は観覧車に乗りたいって、ずっと思ってたんだよね……」=“Actually, I've been thinking that I'd like to ride Ferris wheel at the end.”
-「そんなに顔色を窺わなくても、別に断らないわよ。観覧車くらい、一緒に乗ってあげるわ」=“You don't have to check my reaction, I'm not going to refuse. I can ride the Ferris wheel with you at least.”
-「よかった。ここの観覧車から見る夜景、凄く綺麗だって評判だから」=“Great, because there's a rumour that the night view from this Ferris wheel is extremely beautiful.”
-「フフッ、綺麗な夜景で喜ばせようだなんて、何かご褒美でも期待しているのかしら？」=“Fufu, are you expecting a reward for showing me that beautiful night skyline?”
-「い、いやぁ～、俺はただ、[H名]さんと綺麗な夜景を見たいだけだよ？」=“N-no way~, I just want to see see it with Miss [H名], that's it.”
-（うぅ、全部見透かされてる気がするけど、ここはいい感じに持っていきたいな……）=(Ugh, I have a feeling she's seen right through me, but I want to believe she'll have a good time...)
-「油断してるとすぐに暗くなっちゃいそうだし。また来ればいいよね？」=“When you mess around, it gets dark quickly. Wouldn't it be nice to come here again?”
-「いいよね？　じゃなくて、私は貴方に聞いているのよ？　はっきりなさい」=“Don't 'Wouldn't that be nice?' me, I'm the one asking you. Speak clearly”
-「えーっと、それじゃあ。最後にお土産だけでも見ていく？」=“Umm, then as our last stop let's maybe look at some souvenirs?”
-「だから何故疑問形なの？　終わり悪ければ、全て悪しよ？」=“Why the question mark again? All's bad that ends bad you know!”
-「ぐっ、仰る通りです……そうだ！　何かプレゼントするよ！　行こう！　そうしよう！」=“Guh, it's as you say... I know! I'll give you a present! Let's go! Let's do that!”
+「あら、少し暗くなってきたわね。何かするにしても、次で最後かしら？」=“Oh my, It's become pretty dark out, hasn't it. Even if we decide to stay a bit longer, I think the next one will be the last.”
+CHOICE:『じゃあ、最後に観覧車に乗ろうよ』=『Then, Let's ride the Ferris Wheel to end the day』
+CHOICE:『暗くなる前に帰った方がいいかな？』=『Would it be better to go home before it becomes dark?』
+「実は、最後は観覧車に乗りたいって、ずっと思ってたんだよね……」=“Actually, I've been thinking of trying out the ferris wheel at the end this whole time...”
+「そんなに顔色を窺わなくても、別に断らないわよ。観覧車くらい、一緒に乗ってあげるわ」=“You don't have to check my expression that much, It's not like I'd refuse. I don't mind riding the ferris wheel with you.”
+「よかった。ここの観覧車から見る夜景、凄く綺麗だって評判だから」=“I'm glad. The ferris wheel here has quite the reputation for having a really nice view of the nightscape, afterall.”
+「フフッ、綺麗な夜景で喜ばせようだなんて、何かご褒美でも期待しているのかしら？」=“Fufu--, Trying to make me happy with a pretty night sky, are you fishing for a reward?”
+「い、いやぁ～、俺はただ、[H名]さんと綺麗な夜景を見たいだけだよ？」=“N-Nah~, I just want to look at the pretty night sky with you, [H名]-san.”
+（うぅ、全部見透かされてる気がするけど、ここはいい感じに持っていきたいな……）=(Uuu, I feel like she can see through the whole thing, but I want to end the day on a good note...)
+「油断してるとすぐに暗くなっちゃいそうだし。また来ればいいよね？」=“If we mess around, it'll be dark before we know it. It's fine if we come again to this place, right?”
+「いいよね？　じゃなくて、私は貴方に聞いているのよ？　はっきりなさい」=“Don't give me such a wishy washy reply. I'm listening to you for once, so say it clearly.”
+「えーっと、それじゃあ。最後にお土産だけでも見ていく？」=“Uhhmm, then. Wanna go have a look at some souvenirs or something?”
+「だから何故疑問形なの？　終わり悪ければ、全て悪しよ？」=“Again, what's with the wishy washy replies? If the ending is wishy washy, it'll leave a bad taste in our mouths, no?”
+「ぐっ、仰る通りです……そうだ！　何かプレゼントするよ！　行こう！　そうしよう！」=“Guh--, You're right... That's right! I'll buy you something! We'll do that! Let's go!”

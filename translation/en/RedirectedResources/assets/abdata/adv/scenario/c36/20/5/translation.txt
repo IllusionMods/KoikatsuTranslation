@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「無駄に爽やかね。で、運動って何をする気なの？」=“You sound awfully cheerful. So, this exercise of yours, what do you want to do?”
-「おっ、という事は返事はＯＫ？」=“Oh, can I take it for an OK?”
-「その返しでＮＯと言いたくなったけど、まぁいいわ。何をするか早く決めなさい」=“I wanted to say no, but I whatever. Quickly decide what we'll do.”
+「無駄に爽やかね。で、運動って何をする気なの？」=“You sure are pointlessly invigorating right now. So, what kind of exercise do you want to do?”
+「おっ、という事は返事はＯＫ？」=“Oh--, does that mean you're up for it?”
+「その返しでＮＯと言いたくなったけど、まぁいいわ。何をするか早く決めなさい」=“I actually did feel like refusing, but, well, whatever. Hurry up and decide what we're going to do.”
