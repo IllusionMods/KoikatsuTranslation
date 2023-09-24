@@ -6,7 +6,7 @@
 「普通そうだと思う。うーん、だからと言って俺達が絡みにいくのもなぁ……」=“Normally, I'd think so too. Um, even if you say that, I don't think we should get involved...”
 「いいじゃない。ふふ、面白そうだし、ちょっと行ってみましょうよ」=“Isn't it fine? Fufu, seems interesting, let's go take a quick look.”
 「えっ、ちょ、待って[H名]！　あぁ……行っちゃったか、仕方ない……」=“Eh, wait a minute, [H名]! Aahh... She already left, well, it can't be helped...”
-………………=.........
+………………=...
 「キミ、そうそこの着ぐるみのキミ、一人で寂しそうね？　あんまり人気、ないのかな？」=“Hey, you, the one in the costume, aren't you feeling lonely all by yourself? I guess you're not very popular?”
 「うわ、聞き方がストレート過ぎだよ……もう少しオブラートに包んで……」=“Uwaah, you're being way too blunt... At least sugarcoat it a bit...”
 「あら、ごめんなさい。ん？　風船をくれるの？　私に？　ふふ、ありがとう」=“Oh, I'm sorry about about that. Hm? A balloon? For me? Fufu, thank you.”
