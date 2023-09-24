@@ -2,9 +2,9 @@
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
 「さあ、お待ちかねの観覧車タイムだ」=“Now then, it's the ferris wheel time we've all been waiting for!”
-「ふふっ、[P名]君ってばそんなに観覧車に乗りたかったの？」=“Fufu--, did you want to ride the ferris wheel that badly, [P]-kun?”
+「ふふっ、[P名]君ってばそんなに観覧車に乗りたかったの？」=“Fufu--, did you want to ride the ferris wheel that badly, [P名]-kun?”
 「実はちょっとだけ足が疲れてきてさ。少しゆっくりしたいなって。[H名]は大丈夫？　疲れてない？」=“My legs are actually a bit tired, so I just wanted to take it easy for a bit. What about you, [H名]? You okay? Not tired out or anything?”
-「そう言われてみると、私もなんだか足が痛いような……すごく楽しくて全然気づいてなかったみたい。ふふっ、今日は誘ってくれてありがとう、[P名]君」=“Now that you say it, my legs do kinda hurt... It was all so fun I didn't notice until now. Fufu--, thanks for taking me out on a date today, [P]-kun.”
+「そう言われてみると、私もなんだか足が痛いような……すごく楽しくて全然気づいてなかったみたい。ふふっ、今日は誘ってくれてありがとう、[P名]君」=“Now that you say it, my legs do kinda hurt... It was all so fun I didn't notice until now. Fufu--, thanks for taking me out on a date today, [P名]-kun.”
 「そんな、お礼なんていいって。俺も楽しかったから。[H名]の今まで知らなかった側面も見れたことだし」=“You don't need to thank me. I had a blast too. I also got to see a new side of you, [H名].”
 「えっと……私そんなにはしゃいじゃってた？」=“Erhm... did I run around that much?”
 「いつも静かに本を読んでる[H名]からは、ちょっと想像できない感じで面白かったよ」=“You're always just quietly reading books so, it was a side I never imagined you could have, it was pretty fun.”
@@ -26,21 +26,21 @@
 「ああ……」=“Come here...”
 「ん、ちゅっ、んむっ……」=“Nn, *kiss*, *suck*...”
 「ん……」=“Nn...”
-「……ふあ。私、本当に[P名]君と観覧車で……キス、しちゃったんだね」=“...Fuah. I really kissed you, [P]-kun... on a ferris wheel, huh.”
+「……ふあ。私、本当に[P名]君と観覧車で……キス、しちゃったんだね」=“...Fuah. I really kissed you, [P名]-kun... on a ferris wheel, huh.”
 「うん、そうだね……」=“Yeah, you did...”
-「[P名]君のおかげで私、物語の中のヒロインになったみたい。好きな人と遊園地でデートして、観覧車で素敵なキスをするなんて……」=“Thanks to you, [P]-kun, it feels like I've become a heroine from the novels I read. Coming out on an amusement park date with the person I love, and having such a wonderful kiss on the ferris wheel...”
+「[P名]君のおかげで私、物語の中のヒロインになったみたい。好きな人と遊園地でデートして、観覧車で素敵なキスをするなんて……」=“Thanks to you, [P名]-kun, it feels like I've become a heroine from the novels I read. Coming out on an amusement park date with the person I love, and having such a wonderful kiss on the ferris wheel...”
 「こんな素敵な時間を体験できるなんて思わなかった……」=“I never thought I'd be able to experience something so lovely...”
 「なんだか……夢でも見てるみたい。身体が宙に浮いてるみたいでふわふわしてるの」=“It kinda... feels like I'm dreaming. Feels like my body's floating around in the air.”
 「夢なんかじゃないし、[H名]は俺にとってヒロインそのものだよ」=“It's not a dream, and to me, you are my heroine, [H名].”
 「はう……。そ、そんな風に言われるとすごく恥ずかしい……けど……。とっても嬉しい……」=“Haauu... I-It's really embarrassing when you say it like that... but... I'm so happy...”
 「……観覧車って動き出してから、まだ半分も過ぎてないのね」=“...The ferris wheel's not yet even halfway through, is it?”
 「そうだね……。せっかく乗ったんだし外の景色も楽しまないと……」=“Yeah... We went through the trouble to get on it, so we better enjoy the view too...”
-「[P名]君……私、それよりもっと見ていたいものがあるの」=“[P]-kun... there's something else I'd much more rather keep watching.”
+「[P名]君……私、それよりもっと見ていたいものがあるの」=“[P名]-kun... there's something else I'd much more rather keep watching.”
 「見ていたいものって、なに？　ここから見えるもの？」=“What in particular? Something you can see from up here?”
 「うん。今このときの、[P名]君との甘い夢……」=“Yeah. A sweet dream we can only have right here, right now...”
-「私もっと、[P名]君だけのヒロインになりきりたい……。だからもう一度、ね？」=“I want to completely become your heroine, only yours, [P]-kun... So do it one more time, please?”
+「私もっと、[P名]君だけのヒロインになりきりたい……。だからもう一度、ね？」=“I want to completely become your heroine, only yours, [P名]-kun... So do it one more time, please?”
 「うん、わかった……。おいで、[H名]。キス、してあげる」=“Yeah, got it... Come here, [H名]. I'll kiss you.”
 「ふふっ、素敵なキスで……私をもっと[P名]君の特別なヒロインにしてね……」=“Fufu--, make me a special heroine, just for you... with a lovely kiss, okay?...”
-………………=.........
-…………=......
+………………=...
+…………=...
 ……=...

@@ -13,7 +13,7 @@
 「うん。もう、夜景といえばこの景色って、私の意識に刷り込まれちゃったみたい」=“Yeah. At this point, this place is stuck in my head so vividly, it's what pops up when I think "nightscape".”
 「景色だけじゃなくって吹き抜けていく風も、まるで目の前にあるかのように思い出して……」=“It's not just the view either, the breeze too, I could remember it, as if I was right here all over again...”
 「それだけ、ここは私にとってもとても大切な場所になったんだなって思ったの」=“It made me realize, just how precious this place had become to me.”
-「[H名]……」=“[H]...”
+「[H名]……」=“[H名]...”
 CHOICE:『エッチしたことも思い出した？』=Remembered how we had sex here too?
 CHOICE:『……そろそろ帰ろうか』=...Let's go home.
 「それで、エッチしちゃったことも一緒に思い出しちゃった？」=“So, did you remember how we had sex here too, along with the rest?”
@@ -30,5 +30,5 @@ CHOICE:『……そろそろ帰ろうか』=...Let's go home.
 「小説を読んでここの景色を思い出した時、あなたと過ごした時間も思い出したいの」=“When I read something in a novel that reminds me of this place again, I want to remember the time we just spent here too.”
 「じゃあ、もうちょっとだけここに居ようか」=“Then, let's stay here for a bit longer.”
 「……ううん、ありがとう、今日はこのくらいで大丈夫」=“...No, thank you. I'm happy with this much for today.”
-「ねえ、またここに連れてきてね、[P名]君」=“Hey, bring me out here again sometime, okay? [P]-kun.”
+「ねえ、またここに連れてきてね、[P名]君」=“Hey, bring me out here again sometime, okay? [P名]-kun.”
 「もちろんだよ、約束する」=“Of course, I promise you that.”
