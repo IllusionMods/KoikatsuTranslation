@@ -7,4 +7,4 @@
 「ん……んんっ……」=“Nn... nnn--...”
 「……えへへ、びっくりした？」=“...Ehehe, did I surprise you?”
 「あなたを通して、大きな存在を感じるの……もっと、していい？」=“I can feel a great presence, through you... mind if I, go for more?”
-「[H名]……！」=“[H]...!”
+「[H名]……！」=“[H名]...!”

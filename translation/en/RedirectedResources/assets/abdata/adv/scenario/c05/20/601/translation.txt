@@ -8,4 +8,4 @@
 「わたしを思ってのこと、なんだね……」=“You were thinking of me, huh...”
 「まあ、そういうこと」=“Well, more or less.”
 「嬉しい……えっと、じゃあ……受信する準備はできてるから……」=“I'm glad... erhm, then... I'm already ready to go, for our communication so...”
-「[H名]……」=“[H]...”
+「[H名]……」=“[H名]...”

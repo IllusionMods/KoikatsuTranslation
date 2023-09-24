@@ -12,12 +12,12 @@
 「あなたと一緒に見ているからだよ」=“It's because I'm here with you.”
 「あなたとここにいると、嬉しさとか、懐かしさとか、いろんな気持ちで胸がいっぱいになるの」=“When we're here together, my chest fills up with so many emotions, happiness, nostalgia, everything.”
 「え？　あ……そ、そうなんだ……」=“Eh? Ah... I-I see...”
-「[P名]くん、どうかした？」=“[P]-kun, is something wrong?”
+「[P名]くん、どうかした？」=“[P名]-kun, is something wrong?”
 「あ、いや……別に……」=“Ah, no... not parti...”
 （ま、マズいな……完全に油断してたよ）=(D-Damn... I wasn't expecting that.)
 （いつもクサいことを言うのは俺の役目なのに……ああ、これじゃ[H名]の顔をまともに見れないよ……）=(It's my job to be the one who always says such corny lines... aaah, at this rate, I won't be able to look her straight in the eyes...)
 「あっ、ほら、もうこんな高さだよ。案外、早いんだね」=“Ah--, look, we're up so high already. This ride's pretty fast, huh?”
-「どうしたの、[P名]くん？　顔……赤いよ？」=“Is something wrong, [P]-kun? Your face... it's all red, you know?”
+「どうしたの、[P名]くん？　顔……赤いよ？」=“Is something wrong, [P名]-kun? Your face... it's all red, you know?”
 「えっ！？　そ、そんなことないと思うけど……気のせいじゃない？」=“Eh--?! I-I don't think it is though... you sure you're not imagining it?”
 「そう？　なら、そういうことにしておいてあげる」=“You think so? I'll chalk it up to that then, just for you.”
 「あなたが慌てるなんて、珍しいことも起きるんだね。ここが特別だからかな？」=“You of all people getting flustered, strange things really do happen. I'm only letting it slide just this once, okay?”

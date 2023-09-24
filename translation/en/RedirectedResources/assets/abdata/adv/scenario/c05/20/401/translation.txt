@@ -3,9 +3,9 @@
 //
 「実はさ……最近、たまにオカルト雑誌に目を通したりするんだ」=“The truth is... recently, I've been looking at some occult magazines recently.”
 「え！　本当にっ！？」=“Eh! Really--?!”
-「お、おお……すごい食いつき……。[H名]はいつも“かれら”と交信しているけど、ああいう雑誌はよく読むの？」=“O-Ooh... that's a bite if I've ever seen one... You're always communicating with "them" but, do you read magazines like that too, [H]?”
+「お、おお……すごい食いつき……。[H名]はいつも“かれら”と交信しているけど、ああいう雑誌はよく読むの？」=“O-Ooh... that's a bite if I've ever seen one... You're always communicating with "them" but, do you read magazines like that too, [H名]?”
 「読むっ。オカルトっていうジャンルでくくられるのはシャクだけど、昔からああいうのは大好き」=“I do--. I hate it when people bundle "them" together with "the occult" but, I've always loved that sort of stuff too.”
-「そっか……[P名]くんも、やっと“かれら”のことがわかるようになったんだね」=“I see... you've started to realize "their" existence too, haven't you, [P]-kun?”
+「そっか……[P名]くんも、やっと“かれら”のことがわかるようになったんだね」=“I see... you've started to realize "their" existence too, haven't you, [P名]-kun?”
 「い、いや。残念ながら、“かれら”と交信できたりはしてないんだけど……」=“N-No. Unfortunately, I've not had the chance to be in any contact with "them" just yet...”
 「そういえば……あの手の雑誌に、“かれら”は映ってたりするの？」=“Reminds me... do magazines like that, have pictures of "them" in them too?”
 「……あんまり口に出しちゃいけないんだけど」=“...For the record, this really isn't something I should be saying out loud, but.”
