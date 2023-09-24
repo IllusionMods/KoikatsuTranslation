@@ -380,7 +380,7 @@
 「あんた、ほんと熱心よね～。……私も協力してあげよっか？」=“You're really passionate, aren't you~. ...Want my help too?”
 「もうダメ、お腹空きすぎて死んじゃう……」=“I can't no more, I'm gonna starve to death...”
 「あのさ、この後時間ある？　それとも予定あるかな……」=“Listen, do you have time after this? Or do you already have plans...”
-「あ♡　……コホン。な、何か用？」=“Ah♡ ....*cough*. N-Need something?”
+「あ♡　……コホン。な、何か用？」=“Ah♡ ...*cough*. N-Need something?”
 「もー、話しかけるの遅い。……待ってたんだから」=“Jeez, you're so late. ...I've been waiting this whole time.”
 「突然フラッと散歩したくなっちゃうんだよね」=“Sometimes you get an urge to just go and take a walk, don't you?”
 「わかる！　ねぇ、今度、街を探索しに行かない？」=“I feel you! Hey, wanna go explore the town sometime?”
@@ -412,9 +412,9 @@
 「聞かれたら答えるけど……でもみんな、相談っていうより、あんたとのこと聞きたがるのよね」=“I won't turn away someone asking me for help but... rather than asking for advice, everyone just wants to hear more about you.”
 「できるわけないじゃない。私、あんたとの経験しかないんだし……」=“Do you really think I can? I don't have any experience with this stuff, aside from us...”
 「そういう話、あんまり得意じゃないの……恥ずかしいし」=“I'm not really good at that sort of topic... It's embarrassing too.”
-「[H]、好きだよ」=“I love you, [H名].”
+「[H]、好きだよ」=“I love you, [H].”
 「へぇ、そうなんだ……って、いきなりなに告白してるワケ！？　う、嬉しいけどっ」=“Huh, I see... wuh, why are you confessing to me all of a sudden though!? N-Not that I'm not happy--”
-「[H]とのことを友達に話したら……」=“When I told my friends about you, [H名]...”
+「[H]とのことを友達に話したら……」=“When I told my friends about you, [H]...”
 「待って、なに話したの！？　詳しく言いなさいよっ」=“Wait, just what did you tell them!? Tell me everything--”
 「ひとりでエッチしたりする？」=“Do you fap?”
 「……やり方はあんたが教えてくれたんじゃない。それからは……わかるでしょ」=“...You're the one who taught me how to, no? You should... know the answer.”
@@ -505,7 +505,7 @@
 「ねぇ、なんだか寂しいの……あんたが体であっためてくれたら、マシになるかも」=“Hey, I've been feeling all cold since this morning... I might get better, if you warm me up with your body.”
 「ホント？　……エヘヘ。じゃあ、どこでやろっか？」=“Really? ...Ehehe. Then, where should we do it?”
 「ひとりでどうにかしろって言うの？　……無理だよぉ」=“You want me to handle it myself somehow? ...I can't~”
-「ここで[H]とHしたい」=“I wanna have sex with you here, [H名].”
+「ここで[H]とHしたい」=“I wanna have sex with you here, [H].”
 「い、いいわ……ここでしましょう。た、楽しんでなんかないわよぅ」=“S-Sure... let's do it here. I-I'm not enjoying this at all, dummy.”
 「……やだ。するなら、二人きりがいい」=“...Nuh. If we're gonna, I'd rather we were alone.”
 「はぅぅ、緊張する～っ！　……なんかイイかも」=“Hauu, so nervous~! ...It might be nice.”

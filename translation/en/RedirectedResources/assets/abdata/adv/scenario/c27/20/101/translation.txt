@@ -9,7 +9,7 @@
 「[H名]のお腹は、今すぐ！　って訴えてるみたいだけど？」=“I feel like I heard your belly protest "No, right now!" just then?”
 「うくっ……お、お昼にしましょうか」=“Ukuh--... l-let's get lunch.”
 「ははは、了解。ちょうどお店が空いてるみたいだし、ぱぱっと買っちゃおう」=“Hahaha, roger. There's nobody in line either right now, so let's quickly grab something.”
-………………=.........
+………………=...
 「へー、色々種類があるね。サイドメニューも充実してるし、何にするか迷うなぁ」=“Heh, they've got all sorts, huh? They've got quite the sides menu too, can't decide on what to get.”
 「[H名]は決まった？」=“Have you settled on something, [H名]?”
 「チーズにチリにたまご……どれも美味しそう」=“Eggs dipped in cheese and chilly sauce... all of these look so good.”
