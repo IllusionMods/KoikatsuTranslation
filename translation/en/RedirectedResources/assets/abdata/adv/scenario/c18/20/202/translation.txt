@@ -6,7 +6,7 @@
 「ね。アトラクションに乗らなくったって、みんな楽しそうにしてるからこっちも楽しい気分になる」=“Right? Even if we can't ride any attractions, everyone's having so much fun, it's fun to just enjoy the mood.”
 「うん？　あれは……屋台でしょうか？」=“Huh? Is that a... food stand?”
 「ポップコーンを売ってるみたいだね。ちょっと覗いてみようか」=“Looks like a popcorn stand. Let's go take a look.”
-………………=.........
+………………=...
 「キャラメル味、売ってますね。よかったあ」=“Looks like they've caramel flavoured stuff. I'm glad.”
 「はは、目を輝かせてるね。好きなんだ？」=“Haha, your eyes sure are sparkling. You like caramel?”
 「はいっ、甘いものに目がなくて……私、キャラメル味がほしいです」=“Yes! I'm a sucker for sweet stuff... I want the caramel flavoured popcorn.”
@@ -29,6 +29,6 @@
 「ありがとうございます。それじゃあ、さっそくいただきますっ」=“Thank you very much. Well then, I'm going to dig in right away--”
 「ん～、やっぱりこの味が一番ですね♪　どんどん食べ進めちゃいます」=“Nn~, this taste really is the best♪ I could eat these all day.”
 「はは、ゆっくり食べないと喉に詰まるよ」=“Haha, slow down or you're gonna choke.”
-「んくっ、んん……んぅ～……」=“Nnkuh--, nn...... nnn~...”
+「んくっ、んん……んぅ～……」=“Nnkuh--, nn... nnn~...”
 「ちょ、言ってるそばから！　ほら、お水、お水！」=“Hey--, right as I said it too! Here, water, drink some water!”
 （[H名]の不幸って、[H名]がちょっとおっちょこちょいなのも関係してそうだな……）=(I feel like part of her bad luck is just her being really scatterbrained...)

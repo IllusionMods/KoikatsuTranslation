@@ -3,7 +3,7 @@
 //
 （よしっ、今日はかなり早めにこれたぞ）=(Alright--, I got here pretty early today.)
 （[H名]は……まだ着いてないみたいだな）=(As for [H名]... seems like she hasn't gotten here yet.)
-………………=.........
+………………=...
 「ご、ごめんなさいっ。家にある目覚まし時計が全部壊れて寝坊して……」=“I-I'm sorry! All the alarm clocks I have at home broke down at the same time, so I overslept...”
 「大丈夫だよ、[H名]とデートできるって考えてたらいくらでも待てるから」=“It's alright, when I think about how I get to go on a date with you, time really is no object.”
 「お、大げさに言いすぎじゃないですか？　嬉しいですけれどっ」=“A-Aren't you exaggerating too much? It makes me really happy though--”
