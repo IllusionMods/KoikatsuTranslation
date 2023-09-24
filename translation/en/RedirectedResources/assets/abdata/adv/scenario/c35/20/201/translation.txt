@@ -10,7 +10,7 @@
 「うんっ、やけん私、ジェットコースターとかも平気なんよ。続けて色々乗ってもいい？」=“Yeah--, I'm fine with roller coasters and the like too. Can we ride all of them one after another?”
 「もちろん。それじゃ今日は、[H名]が乗りたい物、全部乗っていこう」=“Of course. Then, for today, let's ride all the rides that you want to ride, [H名].”
 「えへへ、ありがとう！　いっぱい声出して楽しむんっ！」=“Ehehe, thanks! I'll scream my heart out--!”
-………………=.........
+………………=...
 「はぁぁ、めっちゃ楽しいん！　私、こげん楽しい思いしたの久しぶりかもしれんよー」=“Haa, so fun! It's been a while since I've done something so fun, you know?”
 「あ、あはは……そう？　だったら良かった……」=“A-Ahaha... That so? That's great then...”
 （[H名]、本当に絶叫系が好きなんだな。立て続けに五台も……）=(She really does love those sorts of scream inducing rides, huh? This is the 5th time in a row...)

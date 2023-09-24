@@ -11,5 +11,5 @@
 「うん、呼んでる俺も特別な感じがするよ。[Hあだ名]……これからもよろしくね」=“Yeah, calling you that made me feel the same way. [Hあだ名]... take care of me in the future too.”
 「うんっ！　こちらこそ……これからも仲良くして欲しいん」=“Yeah--! Same here... Get along with me in the future too.”
 「あはは、約束するよ。でも……みんなの前でもずっとこの呼び方にするの？」=“Ahaha, I promise you that. But... are we going to always use these nicknames, in front of everyone?”
-「はぅっ……そ、それはちょっと恥ずかしいかもしれんね。やけん……んー、時々、この呼び方にしよ？　特別感が出て嬉しいん。いいかいな、[Pあだ名]♪」=“Hauu--... T-That might be a bit embarrassing. So... nnn, let's use it every once in a while, okay? It'll keep its special feeling too, which'd be really nice. That okay, [Pあだな]?♪”
+「はぅっ……そ、それはちょっと恥ずかしいかもしれんね。やけん……んー、時々、この呼び方にしよ？　特別感が出て嬉しいん。いいかいな、[Pあだ名]♪」=“Hauu--... T-That might be a bit embarrassing. So... nnn, let's use it every once in a while, okay? It'll keep its special feeling too, which'd be really nice. That okay, [Pあだ名]?♪”
 「もちろんいいよ。[Hあだ名]」=“Of course it's okay. [Hあだ名].”

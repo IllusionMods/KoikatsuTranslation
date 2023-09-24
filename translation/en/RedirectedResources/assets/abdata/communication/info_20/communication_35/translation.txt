@@ -6,7 +6,7 @@
 「なん？　今忙しいっちゃけど？」=“What? I'm busy right now.”
 「……なんなん？」=“...What?”
 「ごめん、今ね、ちょっと時間ないっちゃん」=“Sorry, I don't have all that much time right now.”
-「むにゅ……んん……もうすぐ、お祭りやけん……むにゃ……」=*munyuu*... nnn... the festival, is almost about to start... *munyaa*...
+「むにゅ……んん……もうすぐ、お祭りやけん……むにゃ……」=“*munyuu*... nnn... the festival, is almost about to start... *munyaa*...”
 「わぁっ、こげなとこ見らんどって！　恥ずかしいって！」=“Waah--, don't look at me right now! It's really embarrassing!”
 「うぅ……や、やっぱり男子に見られるのは恥ずかしい……」=“Uuu... I-It really is embarrassing, to be seen by a boy like this...”
 「はぁぁ……この向こうに私の故郷があるっちゃんね……って、冗談よ？」=“Haa... there's my hometown in here, you see... that was a joke, you know?”
@@ -289,7 +289,7 @@
 「じゃ、私はそろそろ行くね。次も楽しみにしとるけんね」=“Then, I'mma go, okay? I'm looking forward to our next chat already.”
 「あ、うん、それじゃここまでにしよ。また君と話せるの、楽しみにしとるけんね」=“Ah, yeah, then let's leave it at that. I'm looking forward to our next chat already.”
 「うん、またねー」=“Yeah, till next time.”
-「[H]のことが好きなんだ」=“I love you, [H名].”
+「[H]のことが好きなんだ」=“I love you, [H].”
 「あ……ご、ごめん……私、まだそういうのは考えられんっちゃん……」=“Ah... s-sorry... I can't really wrap my head around those feelings just yet...”
 「えへへ、ありがとう……私もね……君のこと……す……好いとうよ」=“Ehehe, thanks... you know... I l--... love you too.”
 「本当にごめんなんやけど……そういうのはまだ……ごめんね」=“I really am sorry but... I'm not ready for that sort of thing just yet... sorry.”
@@ -304,7 +304,7 @@
 「[H]とHしたい」=“I wanna have sex with you.”
 「はぅぅ……そ、そんなに押されたら断れんくなる……私だって……君のこと、嫌いやないっちゃもん……」=“Hauu... I-I can't really say no if you press for it that much... I don't exactly... hate you either, you know...”
 「ごめんね……そういうことは、やっぱり恋人同士ですることやけん」=“I'm sorry... I really think that's something only a couple should do.”
-「ここで[H]とHしたい」=“I want to do it here with you, [H名].”
+「ここで[H]とHしたい」=“I want to do it here with you, [H].”
 「う、うそやろ。だって人おるよ？　え、えっと……どうしても？　うぅ……どうしてもなら……いいよ？」=“Y-You're kidding, right? I mean, there are people here, you know? E-Erhm... do we really have to? Uuu... in that case... go ahead.”
 「ダメダメ！　だって友達もおるっちゃもん！　そげん恥ずいこと出来んってばー」=“We can't! There's my friends here! I can't do something so embarrassing in front of them.”
 「だ、誰か来たら大変やない？　もしかしてそれがいいとか思っとるやろ？　うぅ、わ、私もやけど……えへへ……」=“W-Won't we be in trouble if someone finds us? By any chance, does that just make you more aroused? Uuu, w-well, same here... ehehe...”
@@ -332,7 +332,7 @@
 「残念……また誘うけん、その時はよろしくね」=“Shame... I'll ask again next time, so let's do it then.”
 「もしよかったら、今度一緒に出かけない？」=“If you have the time, wanna go out on a date sometime?”
 「デートっ……うーん、えっと……ごめんね。まだ少し早いっちゃない？」=“A date--... well, erhm... I'm sorry. Isn't that still a bit too fast for us?”
-「[H]とデートしたいんだけど、どうかな」=“I wanna go out on a date with you, [H名], how about it?”
+「[H]とデートしたいんだけど、どうかな」=“I wanna go out on a date with you, [H], how about it?”
 「えへへ、いいよー。せっかくのデートやけん、いっぱい楽しもうね！」=“Ehehe, sure. Let's enjoy ourselves lots!”
 「うぅ……今は無理かも……色々とやることがあって、いっぱいいっぱいなんよ」=“Uuu... I can't for now... I'm completely swamped with things to take care of, for the next little while.”
 「あ、あのっ……もし良かったら、今度……デートしてみらん？」=“H-Hey--... I-If it's alright, wanna... go out on a date sometime?”
@@ -350,7 +350,7 @@
 「君さえ良ければ、これから一緒に身体動かさん？　なんか汗かきたい気分なんやけど……」=“If it's alright with you, wanna move bodies together? I really feel like sweating up a storm...”
 「やったね！　それじゃ早速、準備運動から始めっか」=“Yay! Then, let's not dilly-dally and start with the warm up exercises already.”
 「あ、そういう気分じゃなかったん？　ううん、また今度、よろしくね」=“Ah, not in the mood? No, it's fine, some other time then.”
-「[H]はコイカツ部に興味ない？　よかったら入ってほしいな」=“Do you have any interest in the Koikatsu club, [H名]? I'd love it if you joined.”
+「[H]はコイカツ部に興味ない？　よかったら入ってほしいな」=“Do you have any interest in the Koikatsu club, [H]? I'd love it if you joined.”
 「もう少しだけ悩んでもいいん？　別に嫌なわけじゃないんやけど……まだ踏ん切りがつかんと……ごめんね」=“Can I think over it a bit more? It's not like I hate the idea of it but... I can't really make a decision one way or the other... Sorry.”
 「あのね、私、君と一緒にコイカツしてみたいと！　やけん、コイカツ部に入部させてもらえんかな？」=“You know, I really wanna try doing some love activities with you! So, will you let me join your club?”
 「ちょっと付いてきて」=“Come with me for a bit.”
