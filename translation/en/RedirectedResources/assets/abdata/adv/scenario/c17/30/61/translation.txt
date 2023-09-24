@@ -1,17 +1,17 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「あっ……もう来てたんだ、待たせちゃった？」=“Ah...You're already here. Did I keep you waiting?”
-「い、いいえ、今来たところよ。それじゃ、行きましょう」=“N-No, I just got here. Well then, lets go.”
-「……[H]さんって、やっぱりこういう静かな所好きだよね」=“[H]-san, you really like quiet places like this don't you?”
-「ええ、それもあるけど。……こうやってゆっくり、あなたと話すのが好きなの」=“Yes, that's true too. However, taking it slowly and talking to you, it's also soothing.”
-「……やっぱりこういう女って、退屈かしら？」=“That was really girly, am I boring?”
-「ううん、そんなことないよ、俺もこうして[H]さんとゆっくりする時間、好きだし」=“No, that's not true. I also like spending time relaxing with you as well.”
-「そ、そう……ならよかった」=“I-I see...that's fine then.”
-「今日は楽しかったわ、ありがとう[P]くん」=“Today was fun. Thank you [P]-kun.”
-CHOICE:「まだもう少し一緒にいたいな」=“I still want to be together for a little while.”
+「あっ……もう来てたんだ、待たせちゃった？」=“Ah--... you were already here, did I make you wait?”
+「い、いいえ、今来たところよ。それじゃ、行きましょう」=“N-Not at all, I got here just now myself. Well then, let's go.”
+「……[H]さんって、やっぱりこういう静かな所好きだよね」=“...You really like quiet places like these, don't you, [H]-san?”
+「ええ、それもあるけど。……こうやってゆっくり、あなたと話すのが好きなの」=“Yes, there's that too, but also... I love slowly chatting with you, like this.”
+「……やっぱりこういう女って、退屈かしら？」=“...A girl like me must really bore you, right?”
+「ううん、そんなことないよ、俺もこうして[H]さんとゆっくりする時間、好きだし」=“No, not at all. I love spending time, slowly, like this with you too, [H]-san.”
+「そ、そう……ならよかった」=“I-I see... that's good then.”
+「今日は楽しかったわ、ありがとう[P]くん」=“I really enjoyed that. Thank you, [P]-kun.”
+CHOICE:「まだもう少し一緒にいたいな」=I wanna be with you a bit longer.
 CHOICE:「俺も楽しかったよ、それじゃあね」=I had a lot of fun too. See you then.
-「まだもう少し一緒にいたいな」=“I still want to be together for a little while.”
-「えっ……も、もう、わがままなんだから。……いいわよ」=“「Eh? Y-You're already being so greedy...It's fine though.”
-「俺も楽しかったよ。それじゃあね」=“I also really enjoyed it. I'll see you later.”
-「あっ……うん、じゃあ、またね」=“Ah...Yes, see you.”
+「まだもう少し一緒にいたいな」=“I wanna be with you a bit longer.”
+「えっ……も、もう、わがままなんだから。……いいわよ」=“Eh--... j-jeez, you're so spoilt. ...Sure.”
+「俺も楽しかったよ。それじゃあね」=“I had a lot of fun too. See you then.”
+「あっ……うん、じゃあ、またね」=“Ah--... yeah, see you, later.”

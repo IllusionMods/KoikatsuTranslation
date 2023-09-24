@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「もういいの？　私は構わないけれど、その、あなたがまだ……」=“Was that enough? I don't mind, but you still...”
+「もういいの？　私は構わないけれど、その、あなたがまだ……」=“You sure? I don't mind, but uhm, you still haven't...”

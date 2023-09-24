@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「ほんと猿みたいにヤりまくって……ま、まぁ、どうしてもって言うのなら、私も混ざってあげてもいいけど……？」=“You're really going at it like baboons... w-well, if you insist, I'd be happy to join you if you'd like...?”
+「ほんと猿みたいにヤりまくって……ま、まぁ、どうしてもって言うのなら、私も混ざってあげてもいいけど……？」=“Just going at it like rabbits, aren't you... w-well, if you really insist then, I don't mind joining too, you know...?”

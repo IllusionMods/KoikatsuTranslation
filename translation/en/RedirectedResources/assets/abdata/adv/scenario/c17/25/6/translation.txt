@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「行き先も告げずについて来いって……どこに行くのよ？」=“You want me to follow you without telling me where... just where are we going?”
-「まぁまぁ、いいからついてきてよ」=“C'mon, it'll be fine. Just follow me.”
-「変なところに連れて行ったら許さないわよ」=“I won't forgive you if you take me somewhere weird.”
+「行き先も告げずについて来いって……どこに行くのよ？」=“Telling me to follow you without saying where... just where are we going?”
+「まぁまぁ、いいからついてきてよ」=“Don't worry about it, just follow me.”
+「変なところに連れて行ったら許さないわよ」=“You won't get off easy if you take me somewhere weird.”

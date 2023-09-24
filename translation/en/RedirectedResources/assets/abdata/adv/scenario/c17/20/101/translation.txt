@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「すー、はー。この公園は草木が多くていいね……深呼吸すると、本当に気持ちがいい」=*inhale* *exhale* “This park's great, with all these trees, isn't it?... Taking a deep breath feels so nice.”
+「すー、はー。この公園は草木が多くていいね……深呼吸すると、本当に気持ちがいい」=“*inhale*, *exhale*. This park's great, with all these trees, isn't it?... Taking a deep breath feels so nice.”
 「自然が多いのはいいけれど、虫も多そうね」=“Not that I don't enjoy nature but, there's lots of bugs around too, aren't there?”
 「そんなこともあろうかと……じゃーん」=“I thought you'd say that, that's why... tada~.”
 「じゃーんって、古いんじゃないかしら？」=“Are you a kid? Going "Tada" at your age.”

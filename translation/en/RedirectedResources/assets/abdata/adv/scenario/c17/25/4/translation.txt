@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「私は予習しなくても問題ないけれど……まぁ、いいわ」=“I don't have to study that much... well, sure.”
-「それじゃあお願いします」=“In that case, please do.”
-「誰かと勉強するのなんて、初めてで少し新鮮ね」=“Studying with someone else for the first time, it's kind of refreshing.”
+「私は予習しなくても問題ないけれど……まぁ、いいわ」=“I mean, I personally don't need to study that much... well, sure.”
+「それじゃあお願いします」=“Please, thank you.”
+「誰かと勉強するのなんて、初めてで少し新鮮ね」=“It'd be my first time studying with someone, so it's a bit refreshing.”
