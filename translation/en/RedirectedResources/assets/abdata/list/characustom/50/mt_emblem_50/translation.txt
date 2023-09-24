@@ -1,25 +1,25 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-背番号00="Jersey Number $1"
-背番号01="Jersey Number $1"
-背番号02="Jersey Number $1"
-背番号03="Jersey Number $1"
-背番号04="Jersey Number $1"
-背番号05="Jersey Number $1"
-背番号06="Jersey Number $1"
-背番号07="Jersey Number $1"
-背番号08="Jersey Number $1"
-背番号09="Jersey Number $1"
-背番号10="Jersey Number $1"
-背番号11="Jersey Number $1"
-背番号12="Jersey Number $1"
-背番号13="Jersey Number $1"
-背番号14="Jersey Number $1"
-背番号15="Jersey Number $1"
-背番号16="Jersey Number $1"
-背番号17="Jersey Number $1"
-背番号18="Jersey Number $1"
-背番号19="Jersey Number $1"
-背番号20="Jersey Number $1"
+背番号00=Jersey Number 00
+背番号01=Jersey Number 01
+背番号02=Jersey Number 02
+背番号03=Jersey Number 03
+背番号04=Jersey Number 04
+背番号05=Jersey Number 05
+背番号06=Jersey Number 06
+背番号07=Jersey Number 07
+背番号08=Jersey Number 08
+背番号09=Jersey Number 09
+背番号10=Jersey Number 10
+背番号11=Jersey Number 11
+背番号12=Jersey Number 12
+背番号13=Jersey Number 13
+背番号14=Jersey Number 14
+背番号15=Jersey Number 15
+背番号16=Jersey Number 16
+背番号17=Jersey Number 17
+背番号18=Jersey Number 18
+背番号19=Jersey Number 19
+背番号20=Jersey Number 20
 一角獣=Unicorn
