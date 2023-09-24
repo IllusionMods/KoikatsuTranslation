@@ -14,7 +14,7 @@
 「本当に？　言ってみるもんだね」=“You sure? Glad I asked.”
 「おすそわけしてあげるわ。はい、あーん……」=“I don't mind sharing at all. Here, open up~...”
 「えっ？　あーん……」=“Eh--? Aaaahn...”
-「もぐもぐ……」=*chew chew*...
+「もぐもぐ……」=“*chew chew*...”
 「どう？　美味しいでしょ？」=“So? It's delicious, no?”
 「……うん、美味しい。卵が口の中で溶けていくみたいだ……」=“...Yeah, it is. It feels like the egg's just melting in my mouth...”
 「ふふ……あなたも虜になったわね」=“Fufu... it's gotten you falling for it too.”
