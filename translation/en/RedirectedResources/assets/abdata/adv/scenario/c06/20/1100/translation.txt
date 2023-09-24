@@ -11,11 +11,11 @@
 「それではこれより、式を執り行います」=“Then without further ado, let's start the ceremony.”
 「新たなご出発の証として、お二人には誓いの言葉を立てていただきます」=“As the proof of a fresh departure, you both have to make certain vows.”
 牧師=Pastor
-「[P名]さん、あなたは今、この女性を妻とし夫婦になろうとしています」=“Mr. [P名], you are now about to take this woman to be your wife.”
+「[P名]さん、あなたは今、この女性を妻とし夫婦になろうとしています」=“Mr. [P名], Right now, you are about to become a married couple, with this woman as your wife.”
 「汝、健やかなるときも、病めるときも、喜びのときも、悲しみのときも、富めるときも、貧しいときも」=“Do you promise, in times of sickness or in health, in times of happiness or sadness, whether you are rich or poor,”
 「これを愛し、これを敬い、これを慰め、これを助け、その命ある限り、真心を尽くすことを誓いますか？」=“to love her, to respect her, to comfort her, to support her, till the end of days, to the full extent of your abilities?”
-「はい、誓います」=“Yes, I vow.”
-「[H名]さん、あなたは今、この男性を夫とし夫婦になろうとしています」=“Miss [H名], you are now about to take this man as your husband.”
+「はい、誓います」=“Yes, I do.”
+「[H名]さん、あなたは今、この男性を夫とし夫婦になろうとしています」=“Miss [H名], Right now, you are about to become a married couple, with this man as your husband.”
 「では、二人の誓いの印として、指輪の交換を致します」=“Then, as the proof of your vows, you may now exchange the rings.”
 「初めに新郎から新婦へ」=“First from the groom to the bride.”
 「[H名]」=“[H名].”
@@ -41,9 +41,9 @@
 「[H名]……こんなこと言ったら世の中の女の人にボコボコにされるかもしれないけど……」=“[H名]... women over the world would probably beat me up black and blue for saying this but...”
 「俺は……俺に完全服従な[H名]のことが大好きだよ。すっかり俺色に染まって、何も言わなくたって気配で察知して、顔を赤らめながら服を脱ぐ[H名]が好きだよ」=“I... I love my completely submissive [H名]. The way you're fully dyed in my colors, the way you realize everything without me even needing to say anything, and take off your clothes while blushing.”
 「そこまで俺に尽くしてくれる[H名]にふさわしい、男の中の男になる。それが俺の一生涯の目標だ」=“I'll become a manly man, a man amongst men, to be a fitting husband to you, my devoted bride. That's my one target, in life.”
-「ん、ん……」=“Nn, nnn...”
-………………=.........
-…………=......
+「ん、ん……」=“Nn, nn...”
+………………=...
+…………=...
 ……=...
 「たとえ他の女性が何と言おうと、私を産んでくれた母や大和撫子に育て上げてくれた祖母がどう言おうと、私は貴方に従います。貴方の妻として、人生を全ういたします」=“No matter what other women say, no matter what my mother, who birthed me, or my grandmother, who raised me into the woman I am say, I will always obey you. I will lead my life, forever as your wife.”
 「ここに二人の愛は結ばれました」=“Here, these two have been bound in a union of love.”

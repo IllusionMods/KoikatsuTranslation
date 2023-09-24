@@ -6,7 +6,7 @@
 「あなたのことを、お名前でお呼びしてもよろしいでしょうか」=“Could I perhaps call you, by name?”
 「名前？　いいけど、俺の許可はいらないんじゃ……恋人同士だし」=“By name? Sure but, do you really need my permission... I mean, we're a couple.”
 「それでも確認を取っておきたかったのです。では、ご承諾いただいたので……」=“Nevertheless, I wanted to get it regardless. Well then, since I have gotten your consent...”
-「……[Pあだ名]」=“...[Pあだ名]”
+「……[Pあだ名]」=“...[Pあだ名].”
 「！？　す、すごくいいね……[H]が言うと、すごく色っぽいし」=“!? T-That felt really nice... it sounds so sexy, when you say it.”
 「色気はわかりませんが……貴方も、いかがですか？　愛称か何かでも」=“I do not understand such things but... how about, you as well? Won't you call me by a 'nickname' as well?”
 「それじゃあ……[Hあだ名]……なんてどう？」=“Alright then... [Hあだ名]... how's that?”

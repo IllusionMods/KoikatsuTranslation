@@ -17,7 +17,7 @@
 「ええ、いつ見ても素敵ですね……」=“Yes, the view is always wonderful, isn't it...”
 「また来ようね、遊園地」=“Let's come here again, alright?”
 「はい……きっと、必ず……」=“Yes... definitely, for sure...”
-「…………」=“......”
+「…………」=“...”
 （[H名]と見る観覧車からの夜景……ロマンチックだなぁ）=(The view from a ferris wheel ridden together with her... sure looks romantic.)
 「……すー……すー……」=“...Zzzz... Zzz...”
 （あれ？　寝息？）=(Huh? "Zzz"?)

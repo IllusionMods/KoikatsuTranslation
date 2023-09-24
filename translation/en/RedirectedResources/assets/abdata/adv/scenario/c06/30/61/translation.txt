@@ -5,7 +5,7 @@
 「気に入ってくれたみたいでよかった」=“I'm glad you're enjoying yourself.”
 「不思議ですね。貴方といるだけで、何の変哲もない緑が輝きを増しているようです」=“It really is strange. Just being with you, makes this everyday greenery seem downright radiant.”
 「俺も[H]と一緒だと、普通の公園でも楽しいよ」=“For me, having you by my side makes this park seem fun too, [H].”
-………………=.........
+………………=...
 「……あれっ？　俺、もしかして寝ちゃってた？」=“...Huh--? Did I fall asleep, or something?”
 「お早う御座います。麗らかな陽気に誘われてしまいましたね」=“Good morning. I see the weather managed to enchant you.”
 「ごめんっ！　話してる途中に寝ちゃうなんて酷いこと……」=“Sorry--! Falling asleep in the middle of a chat is the worst thin--...”
