@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-………………=.........
-…………=......
+………………=...
+…………=...
 ……=...
 「……もう着いちゃったね」=“...We're already here, huh.”
 「ふふ、なあにその言い方。まだ別れたくないの？　私はもっと一緒にいたいけど」=“Fufu, what's with that tone? Don't want to part just yet? I personally want to be together for longer.”
@@ -22,7 +22,7 @@ CHOICE:『さよならする』=『Say goodbye』
 「そうなの。ほら、相思相愛の熱愛カップルはホテル街に消えちゃいましょ♡」=“Yep. Come on, time for the two passionate lovebirds to vanish in the love-hotel district ♡”
 「……今日は、ここでさよならしようかな」=“...Maybe we should call it a day here.”
 「あら、あえて？」=“Oh, you sure you wanna do that?”
-「ん……」=“Nn......”
+「ん……」=“Nn...”
 「っ……駅前でいきなりキスするのに、今日はおわかれなの？」=“--...The way you kissed me out of the blue in front of the station, you sure you wanna part here for today?”
 「[H名]さんをヤキモキさせたくて」=“I wanted to make you anxious, [H名]-san.”
 「あら、意外とイジワルなのね。いいわ、あなたのお望みどおり、とってもヤキモキして帰っちゃう。その代わり、次のデートは大変なことになっちゃうから」=“Oh, you sure are quite the bully today. Alright then, just as you want, I'll go home while being super anxious. In turn though, I'll give you one hell of a hard time on our next date, alright?”

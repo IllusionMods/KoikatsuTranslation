@@ -19,8 +19,8 @@
 「いただきます！」=“Please!”
 「ふふ、いい返事ね」=“Fufu, good response.”
 「はい、あ～ん」=“Here, Aaahn~”
-「あーん……」=“Aaahn......”
-「もぐっ……もぐ、もぐ……」=*Chew*--... *Chew*. *Chew*...
+「あーん……」=“Aaahn...”
+「もぐっ……もぐ、もぐ……」=“*Chew*--... *Chew*. *Chew*...”
 （気のせいかもしれないけど、なんかいいにおいがする、気がする～！）=(It might just be my imagination, but it has a nice scent. It sure feels like it~!)
 「ハッ、ごめん。なんか気持ち悪かったよね」=“Ha--, Sorry. That was kinda creepy, wasn't it?”
 「そうかしら。『あ～ん』して食べさせてあげるだけで、とっても幸せそうにしてくれるあなたを見るの、好きよ？　可愛いもの♡」=“You think so? Personally, I love watching you feel so happy just from me going "Aahn~" and feeding you food, you know? It's super cute♡”

@@ -2,18 +2,18 @@
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
 （ジェットコースター、お化け屋敷、コーヒーカップ……全部、ここから見えるな……今日もめいっぱい遊んだなぁ）=(The roller coaster, the haunted house, the coffee shop... They're all visible from here... We had an absolute blast today as well.)
-「…………」=“......”
+「…………」=“...”
 「…………あなたの考えてること、当ててあげましょうか」=“...Shall I try guessing what you're thinking?”
 「え？　わかるの？」=“Eh? You can tell?”
 「ずっと目線を追ってたから。今日行ったアトラクションのこと、思い出してた？」=“It's because I've been following your gaze for a while. Remembering all the attractions we went through today?”
 「あたり。観覧車って全部見えるから」=“Correct. It's because they're all visible from here.”
 「今日もめいっぱい遊んだって気持ちになるのよね……じゃあ、私の気持ちはわかる？」=“Feeling like we had an absolute blast today, right?... Then, do you know what I feel like, right now?”
-「え……うーん……」=“Eh... Well......”
+「え……うーん……」=“Eh... Well...”
 「キスしたい……？」=“You want to kiss...?”
 「全然違うけど、好きな人にそう言われるとしたくなっちゃうのが女の子よね……」=“While you're super off the mark, the being known as a girl is one that can't help but want to do it when a person they love asks them that, isn't it...”
 「じゃあ、[H名]さんからキスして」=“Then, kiss me, [H名]-san.”
 「もう、甘えん坊なんだから……」=“Jeez, what a pampered child you are...”
-「ちゅっ。ん……んん……ちゅっ、ちゅっ……」=*Kiss*. Nn...Nn...*Kiss*, *Kiss*......
+「ちゅっ。ん……んん……ちゅっ、ちゅっ……」=“*Kiss*. Nn...Nn...*Kiss*, *Kiss*...”
 「んん……」=“Nn...”
 「ぷぁ……どう？　満足した？」=“Puah... How was it? Satisfied?”
 「ムラムラしてきてしまいました」=“I've become horny.”
@@ -21,11 +21,11 @@
 「それは避けたいな～、チラッ？」=“That I'd like to avoid~ *peek*?”
 「ふふ、したい？」=“Fufu, wanna do it?”
 「う～～～～～～～～ん」=“Weeeeeelllll~~~”
-「……やめておくよ」=“......Nah. Let's not.”
+「……やめておくよ」=“...Nah. Let's not.”
 「ふふふ、ずいぶん悩んでたけど、それでいいの？」=“Fufufu, you've thought a lot about it but, you sure?”
-「うっ……その……なんていうか、遊園地って童心に返って楽しむ場所だし……邪な思いは控えようかなって」=“Uuh--... That's......How do I say this, an amusement park is a place where you return to the days of childlike innocence... I was thinking that I'd hold back my perverse thoughts.”
+「うっ……その……なんていうか、遊園地って童心に返って楽しむ場所だし……邪な思いは控えようかなって」=“Uuh--... That's...How do I say this, an amusement park is a place where you return to the days of childlike innocence... I was thinking that I'd hold back my perverse thoughts.”
 「だから……今はキスだけにするよ」=“That's why... Let's just make do with kissing for now.”
 「ん……」=“Nn...”
-「ん……ちゅ、んんっ……」=“Nn...*Kiss*, Nnn--......”
+「ん……ちゅ、んんっ……」=“Nn...*Kiss*, Nnn--...”
 「……ふふ、でも今のキスで益々興奮したんじゃない？　本当に我慢できる？」=“......Fufu, but aren't you getting increasingly aroused from that kissing just now? Can you really endure the urge?”
 「あ、煽らないで……本当に理性とんじゃうから……！」=“D-Don't fan the flames... I really will lose my reason...!”

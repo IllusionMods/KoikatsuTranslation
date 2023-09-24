@@ -4,7 +4,7 @@
 「おぉ、[H名]さんが頼んだ奴、おいしそう！　さすが常連さんだね」=“Ooh, what you ordered looks delicious, [H名]-san! As expected from a regular.”
 「ふふ、どっちも新作のスイーツだから、私も初めて食べるわ。せっかくだから、シェアしましょうか」=“Fufu, both of them are new menu items, so I'm also eating this for the first time. This kind of stuff is rare, so shall we share?”
 「いいね！」=“Sounds good!”
-「……あ、ごめんなさい。私ったら、柄にもなく色気のないことを言っちゃったわね」=“......Ah, I'm sorry. I'm such a blockhead, I went and said something so uncharacteristically charmless.”
+「……あ、ごめんなさい。私ったら、柄にもなく色気のないことを言っちゃったわね」=“...Ah, I'm sorry. I'm such a blockhead, I went and said something so uncharacteristically charmless.”
 「へ？」=“Eh?”
 「カップルでこの状況なら、やっぱり『あ～ん』はしないとね？」=“A couple, in such a situation, definitely has to do the "Aahnn~" thing, don't they?”
 「あ～ん！？」=“Aaahn~!?”
@@ -19,7 +19,7 @@
 「こっちが恥ずかしくなるぐらい褒めなくていいのよ。照れちゃうから、その口ふさいじゃう」=“You don't need to lay it on so thick. I'll become shy, so Imma plug up that mouth of yours.”
 「あ～ん♡」=“Say "Aaaahn~"♡”
 「あ～ん」=“Aaaahn~”
-「ぱくっ……んん……クリームたっぷりパンケーキの甘酸っぱさ」=*Gulp*... Nn... the bittersweetness of cream-topped pancakes.
+「ぱくっ……んん……クリームたっぷりパンケーキの甘酸っぱさ」=“*Gulp*... Nn... the bittersweetness of cream-topped pancakes.”
 「もう、今あげたものに甘酸っぱいもの入ってないでしょ。相変わらず可愛いんだから……♡」=“Jeez, the piece I just fed you had no bittersweet stuff on it, no? Adorable as always...♡”
 「あら？　ほろ苦いのは嫌い？」=“Oh, do you not like bittersweetness?”
 「いやっ好きです！　今好きになりました！」=“No--, I love it! I fell in love with it just now!”

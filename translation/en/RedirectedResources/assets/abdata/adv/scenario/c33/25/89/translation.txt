@@ -14,6 +14,6 @@
 「[Hあだ名]」=[Hあだ名]
 「なあに、[Pあだ名]」=“What is it, [Pあだ名]?”
 「おぉ……[H名]さんが言うと破壊力がすごいよ」=“Oooh... When you say it, the destructive power is amazing, [H名]-san.”
-「くすくす、こういう願望があったならもっと早く言ってくれてもよかったのよ？」=*Giggle*, if you had this kind of a desire, you could have told me sooner, you know?
+「くすくす、こういう願望があったならもっと早く言ってくれてもよかったのよ？」=“*Giggle*, if you had this kind of a desire, you could have told me sooner, you know?”
 「う、うん。次からは思いついたらすぐに言うよ」=“Y-Yeah. Next time, I'll tell you as soon as I think of something.”
 「そうしてね。じゃないと私みたいな女の価値がなくなるもの。じゃあ、これからはたまにプレイしましょうね」=“Do that. Otherwise, the value of a girl like me would dissipate into thin air. Then, let's do some plays every now and then, shall we?”
