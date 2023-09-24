@@ -42,7 +42,7 @@
 「ってことは……」=“That means...”
 「ええ、あなとならいいわ。……ううん、違うわね」=“Yes, I don't mind if it's you. ...No, that's not it.”
 「あなたとじゃなないと、嫌だわ……」=“I don't want it to be anyone else...”
-「[H名]……！　ありがとう」=“[H]...! Thank you.”
+「[H名]……！　ありがとう」=“[H名]...! Thank you.”
 「お礼なんて必要ないわ。本当は……私もずっと望んでいたことだから」=“There's no need for you to say that. I've always... wanted this too, afterall.”
 「……でも、この近くにエッチできる場所なんてあるのかしら？」=“...But, is there a place nearby where we can do it?”
 「この奥にちょうどいい場所があるんだ。ちょっと付いて来て」=“There's just the perfect place a bit deeper in. Follow me a sec.”
