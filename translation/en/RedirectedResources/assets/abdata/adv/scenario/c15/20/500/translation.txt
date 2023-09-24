@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-………………=.........
-…………=......
+………………=...
+…………=...
 ……=...
 「今日は本当に楽しかったよ」=“Today really was a blast.”
 「あたしも、キミと過ごせて楽しかったぞ！」=“I really enjoyed getting to spend the whole day with you too!”
@@ -19,7 +19,7 @@ CHOICE:『さよならする』=Say goodbye.
 「いや、ダメじゃないよ。むしろ、ぜひ来てよ！」=“No, not at all. If anything, please do!”
 「それなら、ラブホとか……どうかな？」=“In that case, how about we go to a... love hotel?”
 「えっ、ラブホ……？　……うん。キミが行きたいなら、あたしはいいぞ」=“Eh--, a love hotel...? ...Okay. If you wanna go, then I'm up for it.”
-「[H名]……」=“[Hな]...”
+「[H名]……」=“[H名]...”
 「もしかして、[H名]も最初からその気だったりして？」=“By any chance, were you hoping for this, this whole time?”
 「そんなこと……！　もう、イジワル言わないでほしいぞ！」=“Why wou...! Jeez, don't be a meanie!”
 「はは、ごめん。つい、照れ隠しで」=“Haha, sorry. I just didn't expect you to say yes. Got a bit embarrassed.”
