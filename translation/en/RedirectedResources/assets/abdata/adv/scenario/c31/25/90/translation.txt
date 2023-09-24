@@ -12,4 +12,4 @@
 「おまえにしては冴えた意見だな……あ、普段通り呼んでしまった」=“That's quite the apt comment, considering it's you, [P名]... Ah, I slipped.”
 「はは、無理に使う必要はないよ。でも、たまにはこうして呼び合うのもいいかもね」=“Haha, you don't need to force yourself to use it. But, calling each other like this every once in a while might be nice, don't you think?”
 「そうだな……では、もう一度私の事も呼んでくれるか？　今回はそれで最後にしよう」=“You're right... then, will you call me by my nickname one more time too? Let's end it with that.”
-「うん、いいよ。……[Hあだ名]……あはは、やっぱり照れるね」=“Yeah, alright.[Hあだ名]... Ahaha, it really does make me blush.”
+「うん、いいよ。……[Hあだ名]……あはは、やっぱり照れるね」=“Yeah, alright.[$3 $4Hあだ名]... Ahaha, it really does make me blush.”

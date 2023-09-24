@@ -7,4 +7,4 @@
 「いや、そういうわけじゃないけど。デートが楽しみで早く出てきちゃったんだ」=“No, not really. I was really looking forward to our date so I left early.”
 「そ、そうか……私も、だいたい同じだ。用事があるわけでないなら……もう行くか？」=“I-I see... It was basically the same for me. Since you have nothing you need to take care of... shall we go?”
 「そうだね。早く着いた分、長くデートを楽しもう！」=“Yeah. Since we came early, let's have an even longer date!”
-（よーし、まずはどこに行こうかな……）=(Alright, where shall we go first......)
+（よーし、まずはどこに行こうかな……）=(Alright, where shall we go first...)
