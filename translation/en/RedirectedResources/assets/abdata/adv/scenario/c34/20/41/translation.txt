@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「Ｗｅｉｔ！　ナンデココ居るネ！？　み、見るヤメテクダサーイ」=“<Wait>! Why are you here!? S-Stop looking.”
+「Ｗｅｉｔ！　ナンデココ居るネ！？　み、見るヤメテクダサーイ」=“Wait! Why are you here?! S-Stop looking.”

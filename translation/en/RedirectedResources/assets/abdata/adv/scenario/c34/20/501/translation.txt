@@ -2,7 +2,7 @@
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
 （ん？　[H名]からメールが来たぞ……えっ！？　道に迷った！？　よし、近くに何があるか聞いて、迎えに行こう！）=(Nn? There's an email from [H名]... Eh--!? She's lost!? Alright, I'll ask about nearby landmarks and go to her myself!)
-………………=.........
+………………=...
 「Ｉ’ｍ　ｒｅａｌｌｙ　ｓｏｒｒｙ……本当、ゴメンネ！　ゴメンナサーイ！！」=“I'm really sorry... I really am! I'm sorry!!”
 「謝らなくて大丈夫だよ。というか、[H名]はこの街に慣れてないんだし、駅の改札口で待ち合わせすれば良かったね。謝るのは俺の方だ」=“You don't need to apologize. Rather, you're not used to this city yet, so we should have met up at the station. If anything, I'm the one who should be apologizing.”
 「Ｎｏ　ｗａｙ！　そんなコト、ナイヨ。見つけてくれた時、トテモ安心シタノ。ダカラ、謝らないでほしいナ♡」=“No way! That's not true. When you found me, I felt really safe and relieved. That's why, I'd rather you didn't apologize♡”

@@ -227,7 +227,7 @@
 「ドウイウ展開デスカ……デモ、アナタに言われたらシチャイソウなワタシ、怖いデース……」=“What sort of development is that... But, I'm scared that I just might, if you told me to...”
 「常識、考えてクダサイ……デモ、本気でお願いサレタラ……一応、考えマスケド」=“Please use some common sense... But, if you really were to beg me... I would think over it, for what it's worth.”
 「き、緊張シテ……ゴメンナサーイ……」=“I-I'm getting nervous... I'm sorry...”
-「俺のことが好きな[H]には、どんなエッチな話も出来るなぁ。たとえば……」=“With how much you love me, I can talk about any sort of pervert stuff with you, [H名]. For example...”
+「俺のことが好きな[H]には、どんなエッチな話も出来るなぁ。たとえば……」=“With how much you love me, I can talk about any sort of pervert stuff with you, [H]. For example...”
 「や、ヤメテクダサーイ！　嫌いになりマスヨ、モ～♡」=“S-Stop it! I'll grow to hate you, jeez~♡”
 「モシモ、ワタシが引っ越ししなかっタラ、アナタと普通に出会えタラ……他の子ミタイニ、言葉の壁、ココロの距離、遠くなかったデショウカ？」=“If, if I didn't get dragged back to Japan like this, and if we met under more normal circumstances... Without a language barrier, would our hearts be closer, like you are with other girls?”
 「デスヨネ……デモ、こうして出会えたダケデ、ワタシは幸せデス♡　アナタのコト、やっぱり好きデスヨ」=“Right... But, even though we met like this, I still feel happy♡ I really do love you.”
@@ -289,15 +289,15 @@
 「Ｐｒｅｃｉｏｕｓ　ｔｉｍｅをアリガトダヨー♡」=“Thank you for your precious time♡”
 「ご、ゴメンナサイ、ワタシ、楽しすぎてぺらぺら喋ってマシタ。マタ、お喋りしてクダサイ！」=“S-Sorry. I was just having so much fun, I kept going on and on. Please chat me up again sometime!”
 「Ｂｙｅ♡」=“Bye♡”
-「[H]のことが好きなんだ」=“I love you, [H名].”
+「[H]のことが好きなんだ」=“I love you, [H].”
 「アノ……アナタのコト、好きデス！　デモ、スミマセン、ココロの準備出来た時、マタオネガイシマス……！」=“Uhm... I love you too! But, I'm sorry, my heart is not ready yet, please ask again next time...!”
 「Ｉ　ｌｏｖｅ　ｙｏｕ　ｔｏｏ♡　今度コソ、ヨロシクオネガイシマス♡　オネガイネ♡」=“I love you too♡ This time for sure, I'll be in your care♡ Please take care of me♡”
 「エット……もう少し時間クダサイ！」=“Erhm... Please give me some more time!”
 「……アナタのコトが好きデス。ワタシのｂｏｙ　ｆｒｉｅｎｄに、ナッテクダサイ！」=“...I love you. Please be my boyfriend!”
-「……エッ！？　イイ、デスカ？　……ヤッター！　ワーイ、ワーイ、嬉しいナ♡　アナタのカノジョにナレタヨ♡」=“......Eh--!? Is it, really okay? ...I did it! Yay, Yay, I'm so happy♡ I became your girlfriend♡”
+「……エッ！？　イイ、デスカ？　……ヤッター！　ワーイ、ワーイ、嬉しいナ♡　アナタのカノジョにナレタヨ♡」=“...Eh--!? Is it, really okay? ...I did it! Yay, Yay, I'm so happy♡ I became your girlfriend♡”
 「アゥ……ソウデスカ……デモ、好きでイテモ、イイデスカ？　本当に、好きデスカラ……」=“Aauu... Is that so... But, can I still love you? I really do love you, after all...”
 「アノ……迷惑、分かってマス。デモ、アナタのコト、好きダカラ言わせてクダサイ……付き合って、くれませんカ？」=“Uhm... I know, I'm being a bother. But, I love you, so please let me say this... Won't you go out with me?”
-「……アリガトデス♡　チョット、諦めてタカラ、嬉しくて……アリガトーッ♡」=“......Thank you♡ I had given up a bit there so, I'm so happy... Thank you~♡”
+「……アリガトデス♡　チョット、諦めてタカラ、嬉しくて……アリガトーッ♡」=“...Thank you♡ I had given up a bit there so, I'm so happy... Thank you~♡”
 「ウン……断ってクレテ、アリガトデス……ワタシ、マダマダってコト、デスネ！　頑張りマス♪」=“Yeah... Thank you, for turning me down... I still have ways to go, don't I! I'll do my best♪”
 「あ、あのさ、[H]とHしたいなって」=“H-Hey, listen, I was thinking, I wanna have sex with you.”
 「エット……ゴメンナサイ！　デモ……アナタと、Ｈなお話シタラ、ココロ決まるカモ、デス……！」=“Erhm... I'm sorry! But... If I talk about lewd stuff with you, my heart might get swayed...!”
@@ -410,7 +410,7 @@
 「アナタはｐｅｒｆｅｃｔダヨ♡　デモ、ナニカあったら言うし、アナタもナンデモ言ってネ♡」=“You're perfect♡ But, if I ever come across something, I'll tell you, so you should tell me too, okay?♡”
 「俺が初恋の相手でよかった？」=“Is it a good thing that I'm your first love?”
 「ウン♡　広い世界デ、アナタに会えたコト、ワタシの人生で一番ｈａｐｐｙな出来事ダヨ♡」=“Yes♡ The fact that we met each other, in this wide world, is the happiest thing that has ever happened to me♡”
-「……フフ♡　それはアナタが決めるコトダヨ♡　もっと自分に自信持っテ♡」=“......Fufu♡ That's something you should decide for yourself♡ Have a bit more confidence in yourself♡”
+「……フフ♡　それはアナタが決めるコトダヨ♡　もっと自分に自信持っテ♡」=“...Fufu♡ That's something you should decide for yourself♡ Have a bit more confidence in yourself♡”
 「も、モウチョット落ち着いたラ、答えマス……スー、ハー……あードキドキ止まらないヨ～」=“I-I'll answer you, once I calm down a bit... *inhale*, *exhale*... Aah, my heart won't stop racing~”
 「この前、相性占いの本を立ち読みしたんだけど……」=“The other day, I was reading this love horoscope book at a bookstore...”
 「……ギャー！？　最悪、ナノ！？　ウソだよ～こんなにｌｏｖｅｌｏｖｅナノニ～！」=“...Gyah?! It's the worst!? That's gotta be a lie~ Even though we're so lovey-dovey~!”
@@ -487,7 +487,7 @@
 「ンッ♡　ココ、ｌｉｐｓにシテ♡」=“Nn--♡ Put your lips here instead♡”
 「もうワタシが奪っちゃうヨ？」=“I'll snatch one from you instead, you know?”
 「ちゃんと話し合って欲しいノ。ココロの溝、深いのダメダカラ」=“I want to have a nice chat with you instead. It wouldn't do to have our hearts spread further apart.”
-「………………フフ♡　アナタとの時間が永遠になるようニ、神様にお願いシテタヨ♡」=“.........Fufu♡ I wished to god, that our time together would stretch out forever♡”
+「………………フフ♡　アナタとの時間が永遠になるようニ、神様にお願いシテタヨ♡」=“...Fufu♡ I wished to god, that our time together would stretch out forever♡”
 「ワタシ、ハズカシガリ、ダケド……今日は、イッパイイイヨ？　……シテ♡」=“I'm a really shy girl but... You can do lots today, you know? ...Do it♡”
 「マダ時間平気？　モット、モット、アナタとこうしてたいノ♡」=“Do you still have time? I want to stay like this with you, the whole time♡”
 「無言も苦しいならない関係ダネ♡」=“Even the times we don't talk don't feel boring anymore♡”

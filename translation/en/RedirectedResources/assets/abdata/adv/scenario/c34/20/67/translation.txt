@@ -6,4 +6,4 @@
 「ほ、本当？　でも、家族が散り散りになっちゃうのは、よくないんじゃない……？」=“R-Really? But, it's not good to have your family split apart everywhere, no...?”
 「フフフ♡　ワタシ、ＭａｍａもＰａｐａも大事ダケド、一番はアナタダカラ♡」=“Fufufu♡ To me, both my Mama and Papa are very important but, you're my number one♡”
 「アナタみたいに一人暮らしシテ、ｐａｒｔ－ｔｉｍｅシテ……ネ？　二人、ズット仲良しダヨ♡」=“I'll live alone like you, and work part time... okay? We'll always be close♡”
-「[H]……そうだね、ずっと仲良しでいたいよ」=“[H名]... You're right, I want to always be close with you.”
+「[H]……そうだね、ずっと仲良しでいたいよ」=“[H]... You're right, I want to always be close with you.”

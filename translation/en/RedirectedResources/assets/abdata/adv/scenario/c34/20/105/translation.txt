@@ -28,7 +28,7 @@
 「Ｗｏｗ♡　お揃いダネ♡　そんなお揃いの二人はネ……」=“Wow♡ We match♡ You know, when two people match so much...”
 「ン……！」=“Nnn...!”
 「ンン……♡　チュ……♡　チュッ、ン……♡」=“Nnn...♡ *kiss*...♡ *kiss*, nn... ♡”
-（[H名]……！）=([H名]......!)
+（[H名]……！）=([H名]...!)
 「ぷぁ……ｋｉｓｓ♡　唇、合わせるノ……ココロと一緒に、合わせたヨ……♡」=“Puah... Kissing♡ Joining our lips together... joined together with our hearts... ♡”
 「[H名]……俺……」=“[H名]... I...”
 「……♡　エッチな目……♡　唇とココロと、カラダも合わせたいノ？」=“...♡ Such lewd eyes... ♡ Along with our lips and hearts, do you want to join bodies as well?”

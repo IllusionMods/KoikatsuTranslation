@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「Ｙｅｓ♪　ＫＯＩ－ＫＡＴＳＵ、ズットしてみたかったヨー♡」=“<Yes>♪ <Koi-katsu>, I've always wanted to do that♡”
+「Ｙｅｓ♪　ＫＯＩ－ＫＡＴＳＵ、ズットしてみたかったヨー♡」=“Yes♪ I've been curious about these love-activities for a while now~♡”
 「本当？　嬉しいなぁ」=“Really? I'm glad.”
-「フフフ、Ｃｌａｓｓｍａｔｅに聞いたヨ。“ソーユーコト”も、スルネ？」=“Fufufu, <classmate> told me. You do "that" sort of stuff too, right?”
-「こ、コイカツ部の活動自体は健全だよ！？」=“Th-the Koikatsu club activities are wholesome!”
-「Ｏｈ，ｓｏｒｒｙ♡　デモ、ワタシはＮｏ　ｐｒｏｂｌｅｍ♡」=“<Oh, sorry>♡ But, I have <no problem>♡”
+「フフフ、Ｃｌａｓｓｍａｔｅに聞いたヨ。“ソーユーコト”も、スルネ？」=“Fufufu, I heard it from a classmate. You do that" sort of stuff too, don't you?”
+「こ、コイカツ部の活動自体は健全だよ！？」=“I-It's a family-friendly club!”
+「Ｏｈ，ｓｏｒｒｙ♡　デモ、ワタシはＮｏ　ｐｒｏｂｌｅｍ♡」=“Oh, sorry♡ But, I have no problems with that♡”
 「逆にこっちがドキドキしちゃうけど、これからよろしくね」=“I'm the one who's got my heart racing here, but anyways, take care of me from now on.”
-「ドキドキはｌｏｖｅのｆｉｒｓｔ　ｓｔｅｐ♡　ワタシも、ドキドキしてるヨ♡」=“A racing heart is <love>'s <first step>♡ My heart is racing too, you know♡”
+「ドキドキはｌｏｖｅのｆｉｒｓｔ　ｓｔｅｐ♡　ワタシも、ドキドキしてるヨ♡」=“A racing heart is the first step on the stairs of love♡ My heart is racing too, you know♡”
