@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「すぅ……すぅ……ん、んん……」=*snore*... *snore*... nn, nnnn...
+「すぅ……すぅ……ん、んん……」=“*snore*... *snore*... nn, nnnn...”
 （んぅ……ん……なんか、下半身に違和感が……？）=(Nnn... nnn... there's this weird sensation, near my crotch...?)
-「…………」=“......”
+「…………」=“...”
 「って……え？　え？」=“Wuh... Eh? Eh?”
 「うふふ、おはようございます♡　ぐっすり眠られていましたね♡」=“Ufufu, good morning♡ Someone slept really well today♡”
 「……もしかして、ずっとこうしてたの？」=“...Have you been at this for a while?”
