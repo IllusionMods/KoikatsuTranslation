@@ -7,14 +7,14 @@
 「……どうしたの？　もしかして……思い出してたの？」=“...What's up? Were you... remembering?”
 「思い出す？　……初めて来た時のこと？」=“Remember? ...You mean the first time we came here?”
 「……うん。私は、思い出してたから、あなたもそうなのかなって？」=“...Yeah. I was, so I was wondering if, you were too?”
-「そうなんだ。うん、俺も丁度[H名]と来たときのこと思い出してたよ」=“I see. Yep, I was just thinking back to the first time we came here, [H].”
+「そうなんだ。うん、俺も丁度[H名]と来たときのこと思い出してたよ」=“I see. Yep, I was just thinking back to the first time we came here, [H名].”
 「ふふ……同じこと思い出してたなんて……嬉しい」=“Fufu... we were remembering the same thing... I'm happy.”
 「忘れられない思い出だからね……ここにくるといつも思い出すよ」=“They're unforgettable memories, afterall... I always remember that day, whenever I come here.”
 「[H名]の、表情、言葉、体温、匂い……」=“Your expression, your words, your warmth, your scent...”
 「や、やめて……聞いてると恥ずかしくなるから」=“S-Stop... it's embarrassing to hear you list them.”
 「あはは、ごめんごめん」=“Ahaha, sorry sorry.”
 「でも……そんなに覚えて、くれてるなんて……その、ありがとう」=“But... you remember, so much... uhm, thank you.”
-「どういたしまして。ちなみに[H名]はどうなの？」=“My pleasure. Incidentally, what about you, [H]?”
+「どういたしまして。ちなみに[H名]はどうなの？」=“My pleasure. Incidentally, what about you, [H名]?”
 「全部、覚えてる……あなたとの思い出を忘れるわけない」=“I remember, it all... I could never forget memories with you in them.”
 「……ありがとう」=“...Thank you.”
 「それじゃあ……」=“Well then...”

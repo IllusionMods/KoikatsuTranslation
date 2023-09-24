@@ -16,7 +16,7 @@
 「……そう。ならよかった」=“...I see. I'm glad.”
 「……」=“...”
 「……なに？」=“...What?”
-「いや、花も綺麗だけど……[H名]も綺麗だなと思って」=“No, the flowers are beautiful and all but... I was just thinking that you're very beautiful too, [H].”
+「いや、花も綺麗だけど……[H名]も綺麗だなと思って」=“No, the flowers are beautiful and all but... I was just thinking that you're very beautiful too, [H名].”
 「……私じゃなくて……花を見てよ」=“...Don't look at me... look at the flowers.”
 「せっかく、調べたんだから……それに……ずっと見つめられると、なんだかムズかゆい」=“I went out of my way, to look for them so... not to mention... when you stare at me, it feels tickly.”
 「はは、わかったよ。せっかくだし、もっと近くに行って見に行こうか」=“Haha, I got it. Well then, why don't we go and take a closer look?”

@@ -6,7 +6,7 @@
 「今日は……いつもよりも……歌った気がする」=“I feel like... I sang a lot more... than usual today.”
 「喉の調子は大丈夫？　声量は抑え気味だったけど、歌って負担かかるしさ」=“Your throat okay? You were keeping your voice low but, singing stresses your throat all the same.”
 「私は……大丈夫。あなたは？」=“I am... okay. You?”
-「俺も大丈夫かな。それよりも、[H名]、次歌っていいよ」=“I'm okay too, I think? Forget that, feel free to put in the next song, [H].”
+「俺も大丈夫かな。それよりも、[H名]、次歌っていいよ」=“I'm okay too, I think? Forget that, feel free to put in the next song, [H名].”
 「……もう、いい、かな。歌いたい曲は、ほとんど、歌った」=“...I've, had, enough. I've sung, most of the ones, I wanted to sing.”
 「そっか……でも、時間はまだあるし……」=“I see... but, we still have time so...”
 CHOICE:『歌わずに休む』=Stop singing and rest.

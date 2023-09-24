@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「おはよう、[P]……その……また後でね」=“Good morning, [P]... I'll see you around.”
+「おはよう、[P]……その……また後でね」=“Morning, [P]... uhm... talk to you, later, okay?”

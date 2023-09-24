@@ -7,7 +7,7 @@
 「料理が来るまでの時間つぶしだから、細かなことは気にしない気にしない」=“It's just to kill some time till our food arrives anyway, don't sweat the small stuff.”
 「わかった……で、おみくじ回すの？」=“Got it... then, you gonna try it?”
 「もちろん！　大吉出して、ハッピーだよ」=“Of course! Reading a good fortune's bound to make your day.”
-「それじゃあ回すよ。それとも[H名]が回す？」=“I'mma turn it, then. Or do you wanna, [H]?”
+「それじゃあ回すよ。それとも[H名]が回す？」=“I'mma turn it, then. Or do you wanna, [H名]?”
 「私は……いい。あなたが、回して」=“I'm... fine. You do it.”
 「いいのが出ますように……あれ？　固いぞ」=“I hope a good one comes out... huh? It's pretty stiff.”
 「どう……したの？」=“What's... wrong?”

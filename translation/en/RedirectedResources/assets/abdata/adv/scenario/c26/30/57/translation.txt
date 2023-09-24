@@ -1,12 +1,12 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「少し……緊張してきた……」=“I'm... a bit nervous...”
-「大丈夫？　もうちょっと肩の力を抜いていいんだよ」=“You doing OK? Just try to relax a bit...”
-「手、つないでくれたら……リラックスできるかも……」=“If you clench your hands together, it's a good way to relieve some stress...”
-「そ、そうか、わかった。じゃあ、手をかして」=“I see. Then, give me your hand.”
-「ありがとう……だんだん落ち着いてきた。こうしてると、安心する……」=“Thank you... I feel a bit better now. Sweet relief...”
-「よかった……。だいぶほぐれてきたかな？　じゃあこの調子で楽しもう！」=“That was good... Do you feel more relaxed? Now then, let's enjoy ourselves!”
-「うん、手……このまま離さないでね……」=“D-don't let go of my hand...”
-（……よかった、喜んでもらえて。この調子で最後まで頑張ろう！）=(...I'm glad you're happy. Let's do our best, to the bitter end!)
-「……今日はありがとう。本当に、楽しかった」=“...Thanks for helping me today. It was really fun.”
+「少し……緊張してきた……」=“I'm starting to... get nervous...”
+「大丈夫？　もうちょっと肩の力を抜いていいんだよ」=“You okay? Don't take things too seriously, relax.”
+「手、つないでくれたら……リラックスできるかも……」=“I might be able to... if you hold my hand...”
+「そ、そうか、わかった。じゃあ、手をかして」=“I-I see, got it. Give me your hand.”
+「ありがとう……だんだん落ち着いてきた。こうしてると、安心する……」=“Thank you... I'm starting to feel calm. It's so, relieving...”
+「よかった……。だいぶほぐれてきたかな？　じゃあこの調子で楽しもう！」=“Great... You seem a lot more relaxed now, I'd wager? Let's have some more fun then!”
+「うん、手……このまま離さないでね……」=“Yeah, don't... let go, okay?...”
+（……よかった、喜んでもらえて。この調子で最後まで頑張ろう！）=(...Great, she seems happy. Let's keep going like this till the end!)
+「……今日はありがとう。本当に、楽しかった」=“...Thanks for today. It really was, a blast.”

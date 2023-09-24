@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「大きな駅だけあって、人が増えたね……[H名]、大丈夫？」=“With big stations, come big crowds... You okay, [H]?”
+「大きな駅だけあって、人が増えたね……[H名]、大丈夫？」=“With big stations, come big crowds... You okay, [H名]?”
 「……ちょっと狭いけど、大丈夫」=“...It's a bit tight but, I'm okay.”
 「うおっ、人が……！」=“Uwoh--, I'm being...!”
 「ご、ごめん……密着する形になってるけど……しばらく我慢してて」=“S-Sorry... we're being squeezed together but... just bear with it for a bit.”
@@ -10,9 +10,9 @@
 （うっ……電車が揺れるたびに……どうしよう）=(Uu--... everytime the train shakes... what do I do?)
 CHOICE:『Ｈをお願いする』=Plead for sex.
 CHOICE:『ひたすら我慢する』=Endure it with all your will.
-「ごめん、助けて。このままだと、爆発しそうなんだ……[H名]、いいかな？」=“Sorry, help me. At this rate, I feel like I'm gonna explode... do you mind, [H]?”
+「ごめん、助けて。このままだと、爆発しそうなんだ……[H名]、いいかな？」=“Sorry, help me. At this rate, I feel like I'm gonna explode... do you mind, [H名]?”
 「言ってる意味が……あっ……ここでってこと？　電車、だよ？」=“I don't get what you're... ah--... here, you mean? We're on, a train, you know?”
-「うん、ここで。こんだけ混みあってたら、気づかれないと思う。[H名]しか頼れないんだ」=“Yeah, here. With this much of a crowd, I don't think anybody will notice. You're the only one I can ask, [H].”
+「うん、ここで。こんだけ混みあってたら、気づかれないと思う。[H名]しか頼れないんだ」=“Yeah, here. With this much of a crowd, I don't think anybody will notice. You're the only one I can ask, [H名].”
 「……それがあなたの、為になるなら……」=“...If it's for you, then I...”
 （……ひたすら、我慢するしかないか。こんなとこで、勃たせたら……[H名]を失望させちゃうからな）=(...Guess there's nothing, but to endure it. If I pop a chub here, of all places... she's going to lose hope in me.)
 （せめて空いてるスペースができれば、密着せずに済むんだけど……）=(If only I had some space to work with, as long as we weren't being squeezed together...)

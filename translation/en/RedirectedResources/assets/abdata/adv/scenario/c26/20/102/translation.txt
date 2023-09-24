@@ -10,7 +10,7 @@
 「そうなんだ……で、何を考えてたの？」=“I see... so, what were you thinking?”
 （流石に君にみとれてた、とは言えない……）=(Can't exactly say that I was lost in you, can I...)
 「えっと、それは……オシャレなカップルが多いなー……って」=“Erhm, that's... just that there's lots of fashionable couples here... and all.”
-「[H名]はオシャレとかって興味ある？」=“Do you have any interest in fashion, [H]?”
+「[H名]はオシャレとかって興味ある？」=“Do you have any interest in fashion, [H名]?”
 「……ある、つもり。今日、デートだから意識はしてきた」=“...Yeah, I try. We're on a date today so, I put effort in it.”
 「そうなんだ。確かにいつもより可愛いね」=“I see. You do look more adorable than usual today, for sure.”
 「……ファッション雑誌とか、よく読むから」=“...I read fashion mags a lot, and stuff.”

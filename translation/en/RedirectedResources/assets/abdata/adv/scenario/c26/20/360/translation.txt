@@ -3,7 +3,7 @@
 //
 「……声、漏れて、ない？」=“...Our moans, didn't, leak out?”
 「まぁ、気になるよね。でも、大丈夫だよ。横切る影はなかったと思うし」=“Well, can't blame you for minding that. But, it's alright. I don't think they did.”
-「空調が聞いてるとはいえ、少し体が火照ったよ。[H名]も温かったし」=“Even with the air conditioning going, that got a bit steamy. You were so warm too, [H].”
+「空調が聞いてるとはいえ、少し体が火照ったよ。[H名]も温かったし」=“Even with the air conditioning going, that got a bit steamy. You were so warm too, [H名].”
 「いやらしい。……ねぇ、もう時間、だよ」=“You're lewd. ...Hey, we're out of, time.”
 「もうか。いや、丁度良かったのかも。それじゃ、支度して出ようか」=“Already, huh? No, might have been just perfect actually. Well then, let's get our stuff and go.”
 「私……トイレ行ってる」=“I'mma... go to the toilet.”

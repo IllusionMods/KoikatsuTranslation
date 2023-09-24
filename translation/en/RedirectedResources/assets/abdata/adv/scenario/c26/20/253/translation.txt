@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「大きな駅だけあって、人が増えたね……[H名]、大丈夫？」=“With big stations, come big crowds... You okay, [H]?”
+「大きな駅だけあって、人が増えたね……[H名]、大丈夫？」=“With big stations, come big crowds... You okay, [H名]?”
 「……ちょっと狭いけど、大丈夫」=“...It's a bit tight but, I'm okay.”
 「うおっ、人が……！」=“Uwoh--, I'm being...!”
 「ご、ごめん……密着する形になってるけど……しばらく我慢してて」=“S-Sorry... we're being squeezed together but... just bear with it for a bit.”
