@@ -16,7 +16,7 @@
 「歩くのもいいが、昼寝とかもいいんじゃないか？　青空を見上げながら……こう、大の字でな」=“Walking is nice but, won't a nap be good too? While looking at the blue sky... sprawled out like this.”
 「おお、いいねそれ！　なんかすっごく癒されそう！」=“Ooh, sounds great! Feels really soothing, that!”
 「だろ？　おまえならノってくると思ったよ。それじゃあ、芝生のある所に移動だな」=“Right? I knew you'd be up for it. Well then, let's go to a spot with a patch of grass.”
-………………=...
+………………=.........
 「は～、最高～！　木漏れ日が気持ち良くて、隣には[H名]がいて、こんな贅沢な昼寝はないね！」=“Haa~, this is the life~! The pleasant sunlight peeking through the leaves, and with you by my side, this truly is pure luxury!”
 「こら、私が言おうと思っていた事を全部言うな。まったく……」=“Hey, don't steal my lines. Jeez...”
 「あっはは、同じ事を考えてたなんて、カップルみたいでいいね」=“Ahhaha, to think we were thinking the same way, how nice and couple-like.”
