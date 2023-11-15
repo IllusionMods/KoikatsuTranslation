@@ -3,7 +3,7 @@
 //
 「すぅ……すぅ…………ん、んん……」=“*snore... *snore*... Nnn, nnnn...”
 （んぅ……ん……なにか、やわらかいものが……あたって……？）=(Nn... nn... I can feel... something soft...?)
-「…………」=“...”
+「…………」=“......”
 「ぬぉっ！？　えっ！？　一体何がっ！？」=“Nnuoh--?! Eh--?! What are you--?!”
 「あっ、暴れないでください……上手く、できなくなってしまいます」=“Ah--, please do not go wild... I won't be able to, do it well.”
 「えっ、ごめん……って、ちょっと待って[H名]……これ、このまま続ける気？」=“Eh--, sorry... wait, just hang on... are you planning on, continuing this?”

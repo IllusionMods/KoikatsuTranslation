@@ -31,8 +31,8 @@
 「ぅく……少しこちらを見ないで頂けますか？　また感情が昂って……ぅっ、少し、その……」=“Ukuh... could you not look here for a bit? I'm still a bit... uu, uhm, a bit...”
 「わかった。俺は少し夜景を見てるから、心の準備……できたら言って？」=“Got it. I'll just savour the view so, once you're ready... let me know?”
 「はい、なるべく急ぎますので……どうか、少しばかりお待ちください……」=“Yes, I'll try to do it as fast as I can... please wait, just a little bit...”
-………………=...
-…………=...
+………………=.........
+…………=......
 ……=...
 「……どう？　少しは落ち着いた？　あぁいや、急かしてるわけじゃないよ？　ゆっくり、[H名]のペースでいいから」=“...How do you feel? Calmed down yet? Aah, no, not that I'm trying to rush you, okay? Take as much time as you need, [H名].”
 「だ、大丈夫です……はぁ、本当に申し訳ございません。ですが、心の準備……できましたっ」=“I-I'm fine... haah, I really am sorry. But, my heart is... ready--”
@@ -40,7 +40,7 @@
 「ど、どうぞ……私はその、目を瞑っていればよいですか？」=“G-Go ahead... is it okay if I, uhm, close my eyes?”
 「う、うん……それで大丈夫。あとはその……任せて？」=“S-Sure... that's just fine. Leave the rest to... me?”
 「はい……お任せいたします。今度は私が待つ番ですね。よ、よろしく、お願いいたします」=“Yes... I shall. It's my turn to wait, isn't it? P-Please go, ahead.”
-「………」=“...”
+「………」=“......”
 「ん……」=“Nn...”
 「んんっ……」=“Nnn--...”
 「はは、キス、しちゃったね……」=“Haha, we kissed, huh?...”

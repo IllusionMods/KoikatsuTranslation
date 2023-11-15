@@ -4,7 +4,7 @@
 「見て見て、なんかウサギの着ぐるみがカードくれた」=“Look look, that bunny mascot gave this to me.”
 「ふふ、良かったですね。あ、裏面はスタンプラリーになっているようですよ。やってみますか？」=“Fufuh, how nice. Ah, seems like it's a stamp card on the back. Would you like to try it?”
 「お、いいね！　とりあえず近場からだと……ゲームセンターだね。行ってみよう」=“Oh, sounds good! The nearest one should be... the arcade, I guess. Let's go.”
-………………=...
+………………=.........
 「あっ、スタンプがありましたよっ！　早速一つ目ですねっ♪」=“Ah--, there's the first stamp counter--! So quickly too♪”
 「うん、幸先いいね！　でも、家族連れがクレーンゲームしてて……通路が塞がれちゃってる。どこか、回り道はっと……」=“Yeah, it's a good omen! But, there's an entire family on that claw game... our path's blocked. Is there, no other path...”
 「ぁ、待ってください。あの子、泣いていませんか？」=“Ah, please wait. Is that child not crying?”
