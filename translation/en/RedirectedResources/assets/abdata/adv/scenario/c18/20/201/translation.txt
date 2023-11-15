@@ -11,7 +11,7 @@
 「なるほど……絶叫系は確かに考えだしたら負の連鎖に入っちゃうかもね……じゃあ、コーヒーカップとかどう？」=“Makes sense... If you start thinking heavily about the screamy rides, it can certainly result in a spiral of negativity... then, how about the coffee cup rides and such?”
 「……確かに危険は低そうですね。はい、コーヒーカップに乗りましょう」=“...Certainly, they don't seem all that dangerous. Okay, let's ride a coffee cup.”
 「じゃあ、さっそく行こうか」=“Then, let's go.”
-………………=...
+………………=.........
 「どう？　大丈夫そう？」=“How is it? Feel alright?”
 「ええ、これなら大丈夫そうです」=“Yes, I'm fine with this.”
 「よかった。じゃあちょっと回転を足してみようかな？」=“I'm glad. Wanna try making it rotate faster then?”

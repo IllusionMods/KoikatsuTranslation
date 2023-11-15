@@ -10,7 +10,7 @@
 「はい。ありがとうございます。」=“Yes. Thank you very much.”
 「よかった。じゃあ曲入れよっか。リモコンどうぞ。」=“I'm glad. Let's put in some songs then. Here's the remote.”
 「あ、ありがとうございます。えっと、曲は何を入れて……」=“Ah, thank you very much. Erhm, what should I...”
-「…………」=“...”
+「…………」=“......”
 「あ、あのー……じっと見られると選びにくいんですけど……」=“U-Uhm... please don't stare so much, it's hard to pick one like this...”
 「ごめんごめん、なに選ぶのかなって気になっちゃって……」=“My bad, sorry, I just got curious about what song you were gonna pick...”
 「そういうことでしたか。有名な曲も一番しかわからないので、迷ってました」=“I see. I was just puzzled, because aside from the most popular songs, I don't really know any all that well.”
