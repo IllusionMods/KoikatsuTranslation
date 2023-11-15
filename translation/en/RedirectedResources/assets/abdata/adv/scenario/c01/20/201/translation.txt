@@ -4,7 +4,7 @@
 「[H名]、大丈夫？　フラフラしてるけど……」=“[H名], you okay? You're looking a bit dizzy...”
 「す、すみません……少し、はしゃぎすぎてしまったみたいで……」=“I-I'm sorry... it seems I, ran around too much...”
 「それはまずいかも。ちょっとベンチで休憩しよう」=“That doesn't sound good. Let's sit on a bench and take a break.”
-………………=...
+………………=.........
 「落ち着いた？」=“Feeling better?”
 「はい……すみません、ご迷惑をおかけして……」=“Yes... I'm sorry, I caused you so much trouble...”
 「そんなの気にしなくていいんだよ。でもいつも元気な[H名]がこんな風になるの珍しいね」=“You don't need to worry about that stuff. But seeing you like this, when you're usually so energetic, is a bit unusual.”

@@ -3,7 +3,7 @@
 //
 「すぅ……すぅ…………ん、んん……」=“*snore... *snore*... Nnn, nnnn...”
 （んぅ……すごく気持ちいいような……いったい、何が……？）=(Nn... Something feels amazing... just what, is it...?)
-「…………」=“...”
+「…………」=“......”
 「って、え？　何をして……」=“Wuh, eh? What are you...”
 「あ、ううぅ……その、寝ているあなたを……襲っちゃいました」=“Ah, uuu... uhm, I assaulted you... in your sleep.”
 「そうなんだ……大胆なことするね」=“I see... you're pretty bold today.”
