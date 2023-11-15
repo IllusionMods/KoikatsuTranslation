@@ -3,7 +3,7 @@
 //
 「すぅ……すぅ…………ん、んん……」=“*Snore*... *Snore*... Nn, Nnn...”
 （ん、んん……何だか下半身に違和感が……？）=(Nn, nnnn... there's this weird feeling in my lower half...?)
-「…………」=“...”
+「…………」=“......”
 「って……え？　え？」=“Uh... Eh? Eh?”
 「どうですか、気持ちいいですか？」=“How is it, does it feel good?”
 「あの、何をして……？」=“Uhm, what are you...?”
