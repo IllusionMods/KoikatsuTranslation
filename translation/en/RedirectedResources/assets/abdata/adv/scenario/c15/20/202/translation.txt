@@ -15,7 +15,7 @@
 「お、いよいよ落ちるよ……！」=“Oh, any moment now...!”
 ガガガガガガガガガ……！=*Claclaclaclacla*
 「あはははは！　楽しいぞ～！」=“AHAHAHAHA! This is so fun~!”
-………………=...
+………………=.........
 「ふー、いっぱい声上げた～！　[H名]も堪能できたかな？」=“Fuu~, man, I screamed my heart out~! Did you enjoy yourself too, [H名]?”
 「んー、楽しかったけど、まだまだ満足できてないな」=“Nn, it was fun but, I'm still not satisfied yet.”
 「もう一回乗りにいくぞ！」=“We're gonna go on one more time!”

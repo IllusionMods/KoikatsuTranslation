@@ -11,7 +11,7 @@
 「……喜ばないわけないじゃない」=...Do you really think I would not be happy?
 「え？」=“Eh?”
 「こんなに綺麗で……しかもあなたが私のために選んでくれた場所だなんて。喜ばないわけ、ないじゃない」=It's so beautiful... and you picked it out just for me. There's no way, I wouldn't be happy.
-「……」=...
+「……」=“...”
 「なにか言いなさいよ」=Say something.
 「……なんていうか、いつもより凄い素直だね。君、本当に[H名]さん？」=...You're being way more honest than usual today. Are you really [H名]-san?
 「……あなたは私のこと、なんだと思っているの？」=...Just what do you see me as?
