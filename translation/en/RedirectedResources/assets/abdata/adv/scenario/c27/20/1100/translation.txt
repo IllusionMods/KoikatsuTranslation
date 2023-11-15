@@ -27,7 +27,7 @@
 「あんたが隣にいるから、私は平気よ」=“You're next to me, so I'm fine.”
 「そっか……俺、さっきから照れくさいことばっかり言われてるな」=“I see... man, feels like I keep getting hit by one embarrassing line after another.”
 「最後に、愛の証としてキスをしていただきます」=“Lastly, as the proof of your love, you may now kiss each other.”
-「…………」=“...”
+「…………」=“......”
 「キスの前に、ちょっとだけいい？」=“Mind if I say something, before we kiss?”
 「うん」=“Go ahead.”
 「……ありがとう。私を好きになってくれて、愛してくれて――結婚してくれて」=“...Thanks. For falling for me, for loving me --- for marrying me.”
@@ -39,8 +39,8 @@
 「こうして今、ここに[H名]と一緒にいられることが、とっても幸せだ」=“Being able to be with you like this, [H名], right here, is just pure bliss for me.”
 「[H名]のことを守っていけるように、もっと頼りがいのある男になるから――これからも隣で笑っていてください」=“I'll become an even more reliable man for you, a man that can protect you-- so please stay by my side, forevermore, always laughing.”
 「ん、ん……」=“Nn, nnnn...”
-………………=...
-…………=...
+………………=.........
+…………=......
 ……=...
 「ありがとう……大好きよ」=“Thank you... I love you.”
 「ここに二人の愛は結ばれました」=“Here, these two have been bound in a union of love.”

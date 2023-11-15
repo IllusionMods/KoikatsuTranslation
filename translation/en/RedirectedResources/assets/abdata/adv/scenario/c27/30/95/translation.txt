@@ -3,7 +3,7 @@
 //
 「すぅ……すぅ…………ん、んん……」=“*snore... *snore*... Nnn, nnnn...”
 （んぅ……すごく気持ちいいような……いったい、何が……？）=(Nn... Something feels amazing... just what, is it...?)
-「…………」=“...”
+「…………」=“......”
 「って……え？　何して？」=“...Eh? Eh?”
 「あんたはそのまま、リラックスしていいわよ。私が勝手に動くから」=“You can just relax, just as you are. I'll move on my own, however I like.”
 「リラックスしていいって……」=“Even if you tell me to "just relax"...”
