@@ -20,7 +20,7 @@
 「ん、んん……」=“Nn, nnn...”
 「……情熱的なキスだったね」=“...Such a passionate kiss.”
 「自分で思っていた以上に、気持ちが昂ぶってたみたいで……えへ、へ……」=“Seems like I'm way more into it right now, than I thought... eheh, heh...”
-「…………」=“...”
+「…………」=“......”
 CHOICE:『じゃあ、エッチしない？』=Then, wanna have sex?
 CHOICE:『そろそろ帰ろうか』=Let's go home.
 「じゃあ、エッチしない？　前にした、あの場所でさ」=“Then, how about we have sex? You know, where we did it last time?”
