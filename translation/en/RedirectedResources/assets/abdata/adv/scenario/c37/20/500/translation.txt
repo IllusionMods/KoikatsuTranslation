@@ -1,14 +1,14 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-………………=...
-…………=...
+………………=.........
+…………=......
 ……=...
 「このあたりでお別れですね」=“We're going to go our separate ways here, aren't we?”
 「うん。今日は一日ありがとう、[H名]。すごく楽しかったよ」=“Yeah. Thanks for being with me today, [H名]. I had a blast.”
 「私も、楽しかったです」=“I had a lot of fun too.”
 「……」=“...”
-「…………」=“...”
+「…………」=“......”
 「なんか、このままさよならするのってちょっと寂しいよね」=“It feels kinda lonely just saying goodbye like this, doesn't it?”
 「はい。不思議です」=“Yes. It's strange.”
 CHOICE:『自宅に誘う』=『Invite to your place』

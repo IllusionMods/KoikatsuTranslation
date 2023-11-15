@@ -3,7 +3,7 @@
 //
 「すぅ……すぅ……ん、んん……」=“*Snore*... *Snore*... Nn, Nnnnn...”
 （ううん、何だか下半身に違和感が……？）=(Mmmm, my lower half feels kinda weird...?)
-「…………」=“...”
+「…………」=“......”
 「なんで上に乗って……く、ぁああっ……」=“Why are you on top of... kuh, aaAaahh--...”
 「こんなところで寝てるのが悪いんです」=“It's your fault for sleeping in a place like this.”
 「火照った身体、鎮めてください」=“Please calm down your burning body.”

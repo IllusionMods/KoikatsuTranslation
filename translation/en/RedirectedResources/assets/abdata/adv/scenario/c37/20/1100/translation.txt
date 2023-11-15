@@ -30,7 +30,7 @@
 「あなたと一緒、ですから」=“Since I'm with you.”
 「そういう風に言われると照れるけど……でも嬉しいよ」=“Hearing you say it like that makes me feel kinda shy but... also really happy.”
 「最後に、愛の証としてキスをしていただきます」=“Lastly, as the proof of your love, you may now kiss each other.”
-「…………」=“...”
+「…………」=“......”
 「[H名]……」=“[H名]...”
 「ありがとうございます、[P名]」=“Thank you very much, [P名].”
 「私と出会ってくれたこと、好きになってくれたこと――」=“For having met me, for having fallen in love with me--”
@@ -40,8 +40,8 @@
 「[H名]をずっと幸せに……ううん、二人で幸せでいられるように頑張るから、これからも俺の一番近くにいてください」=“I'll definitely make you... No, I'll do my best so we can be happy together forever, so please keep staying by my side.”
 「ん……」=“Nn...”
 「んっ……」=“Nn--...”
-………………=...
-…………=...
+………………=.........
+…………=......
 ……=...
 「ありがとうございます。大好きです――」=“Thank you very much. I love you--.”
 「これまでも、これからも、ずっと」=“Always have, always will, forever.”
