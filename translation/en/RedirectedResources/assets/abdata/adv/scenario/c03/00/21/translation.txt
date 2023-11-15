@@ -6,7 +6,7 @@
 「わぁぁ、まさかのど忘れですかっ！？」=“Waah, did you really forget!?”
 「冗談冗談。しっかりやってきたよ。[H]は？」=“I'm kidding, I'm kidding. I did it, the whole thing. You, [H]?”
 「あ、あの……もしよろしければ……う、うう、写させてほしーです……」=“U-Uhm... if it's okay... u-uuu, could you please let me copy it...”
-「…………」=“...”
+「…………」=“......”
 「そ、そんな目で見ないでくださいですーっ！」=“P-Please don't look at me with those eyes~!”
 「昨日……あなたのこと考えて日記書いてたら……つい夢中になっちゃって、宿題が出来なかったのです……」=“Last night... I was lost in thought thinking about you, and writing about it in my diary that... I couldn't get it finished...”
 「日記……」=“A diary...”
