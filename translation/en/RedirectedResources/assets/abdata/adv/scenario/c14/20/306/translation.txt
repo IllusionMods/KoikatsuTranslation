@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-……………………=...
+……………………=............
 「ふう……これだけ歌えれば、私はもう満足だな」=“Fuu... we've sung so much today, I've had my fill.”
 「うん、俺もだよ。でも、まだ時間あるんだよね。延長時間取り過ぎちゃったなぁ」=“Yeah, me too. But, we've still got some time on our slot. We extended it too much~”
 「う～ん。でもよ、私はもう歌いきりました、って気分だぜ」=“Nnn~. But, you know, I've already sung all that I felt like singing today.”

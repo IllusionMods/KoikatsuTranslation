@@ -30,7 +30,7 @@
 「そうだよね。せっかくの晴れ舞台だもんね」=“Right. It's our big moment, afterall.”
 「ま、でもお前が隣にいれば、ちょっとはマシに感じるよ」=“But, well, you're right next to me so, it's not that bad.”
 「最後に、愛の証としてキスをしていただきます」=“Lastly, as the proof of your love, you may now kiss each other.”
-「…………」=“...”
+「…………」=“......”
 「……ちょっと、言わせてもらってもいいか？」=“...Mind if I say some stuff first?”
 「うん。なに、[H名]」=“Go ahead, what is it?”
 「私は、強がってることも多いけどなあ……」=“I always, try to put on a strong front...”
@@ -44,8 +44,8 @@
 「そんなこと言う[H名]だって、笑ってるじゃないか」=“You're laughing too, and you're the one who said it.”
 「ふふっ、今のこの笑顔を絶やさないよう、このキスに誓うよ」=“Fufu--, I swear on this kiss, that I will never let that smile die out.”
 「ん、ん……」=“Nn, nn...”
-………………=...
-…………=...
+………………=.........
+…………=......
 ……=...
 「誓い、破ったら承知しねえからな」=“You'd better not break that vow, you hear me?”
 「うん。肝に銘じておく」=“Yeah. I'll carve it into my heart.”

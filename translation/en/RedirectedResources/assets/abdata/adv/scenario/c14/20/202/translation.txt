@@ -11,7 +11,7 @@
 「へえ、そうなのか。だったら、なおさら乗ってみたくなったぜ」=“Hoh, is it now? In that case, I wanna ride it more than ever now.”
 「なあに、ただの度胸試しだよ。ほら、お前も一緒に来いよ！」=“Nothing to get scared about, it's just a test of courage. C'mon, you're coming with me too!”
 「う、うん……」=“K-Kay...”
-………………=...
+………………=.........
 （う、うう……。評判以上のキツさだった……結構身に応えるな……）=(U-Uuu... That was even rougher than what I'd heard... really did a number on me...)
 「た、た、大したことなかったな！」=“T-That was nothing, not a big deal at all!”
 「[H名]……俺の手をそんなに握りしめて、どうしたの？」=“[H名]... why've you got my hand in a deathgrip then?”
