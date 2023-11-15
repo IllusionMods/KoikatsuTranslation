@@ -280,7 +280,7 @@
 「破廉恥なことでも大丈夫ですから、もっと私とお話していただけますか？」=“I do not mind if it ends up being only lewd things, but won't you chat with me more?”
 「今日はあまり破廉恥ではありませんね。お気遣いは無用に願います」=“I see you haven't been all that lewd today. You need not mind me.”
 「次はどのようなお話にいたしましょう」=“What shall we chat about next?”
-「…………」=“...”
+「…………」=“......”
 「恐れ入りますが、そろそろ失礼させていただきます」=“I beg your pardon, but I shall be excusing myself.”
 「そろそろ失礼させていただきます」=“I shall be excusing myself.”
 「貴方とお話していると、時の流れを忘れてしまいます。またお話してくださいね」=“When you are chatting with me, I feel as though I lose all track of time. Please come chat with me again, okay?”
