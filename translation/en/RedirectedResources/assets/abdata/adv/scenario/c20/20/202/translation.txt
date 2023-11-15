@@ -6,7 +6,7 @@
 「それもそうか……じゃあ最初はゆったりしたもの……コーヒーカップとかどう？」=“That's true as well... then, something easygoing for now... how about the coffee cup?”
 「あ、そ、それなら……ゆっくり出来ますし、いいかもしれません」=“Ah, t-that... we'll be able to relax as well, it might be nice.”
 「よし、じゃあ行こうか」=“Alright, let's go then.”
-………………=...
+………………=.........
 「コーヒーか……」=“Coffee, huh...”
 「あの、コーヒーがどうかしましたか？」=“Uhm, what about it?”
 「いや、なんかコーヒーにまつわる色々なことを思い出してさ」=“No, I just ended up recalling some coffee related stuff.”

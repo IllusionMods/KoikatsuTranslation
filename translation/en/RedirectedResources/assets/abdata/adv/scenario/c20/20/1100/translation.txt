@@ -26,7 +26,7 @@
 「もちろん覚えてるよ。とても嬉しかった」=“Yep, I remember them. They made me really happy.”
 「あの時は誓いの言葉というか、感謝の言葉みたいになってましたけど……」=“They came off more as words of gratitude, than vows back then but...”
 「最後に、愛の証としてキスをしていただきます」=“Lastly, as the proof of your love, you may now kiss each other.”
-「…………」=“...”
+「…………」=“......”
 「……今でも、私の気持ちはあの時と変わっていません。ううん、それどころかもっと強くなっています」=“...Even now, my feelings are no different from that time. No, if anything, they've gotten stronger.”
 「引っ込み思案な私の手をひいてくれてありがとう」=“Thank you, for pulling such a withdrawn girl like me, by the hand.”
 「話すことが苦手な私とたくさんお話してくれてありがとう」=“Thank you, for talking so much to such an unsociable girl like me.”
@@ -40,8 +40,8 @@
 「俺も愛してる」=“I love you too.”
 「[H名]……」=“[H名]...”
 「んっ……」=“Nn--...”
-………………=...
-…………=...
+………………=.........
+…………=......
 ……=...
 「俺の方こそ、[H名]と一緒に居れていつも幸せだ。これからも、よろしくお願いします」=“If anything, I'm the one who's happy, having you always stay by my side. Please stay by me, in the future too.”
 「ここに二人の愛は結ばれました」=“Here, these two have been bound in a union of love.”
