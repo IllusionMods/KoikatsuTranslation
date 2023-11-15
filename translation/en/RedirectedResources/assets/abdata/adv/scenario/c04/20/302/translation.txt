@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-………………=...
+………………=.........
 「ふう……思い切り歌うと気持ちがいいわ」=“Fuu... it feels good to sing your heart out.”
 「相変わらず歌が上手いね」=“As usual, you're great at singing.”
 「ふふ、ありがと。自分の歌う曲はもう入力した？」=“Fufu, thank you. Have you put in the songs you're gonna sing?”

@@ -13,7 +13,7 @@
 「ふっ、調子がいいんだから……」=“Pfft--, I'd like to see you try...”
 「ねぇ、約束、覚えてる？」=“Hey, that promise we made, do you remember it?”
 「もちろんだよ。観覧車に乗ったらキスをする……でしょ？」=“Of course. We promised we'd kiss each other everytime we rode one of these... no?”
-「…………」=“...”
+「…………」=“......”
 「んんっ……」=“Nnn--...”
 「ん……」=“Nn...”
 「ちゃんと覚えて……くれていたのね」=“So you did remember it... afterall, huh?”
@@ -38,6 +38,6 @@
 「[H名]に協力出来たみたいで嬉しいよ」=“I'm glad I was able to lend you a hand.”
 「ふふっ、まだまだよ」=“Fufu--, this is nothing.”
 「今からもっと、幸せにしてちょうだい」=“I'm going to have you make me an even happier girl.”
-………………=...
-…………=...
+………………=.........
+…………=......
 ……=...
