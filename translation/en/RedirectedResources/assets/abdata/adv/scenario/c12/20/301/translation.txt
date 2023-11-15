@@ -8,7 +8,7 @@
 「そうだね。いつまで悩んでても時間が勿体ないし。とりあえず一曲入れちゃうね」=“Right. Overthinking any more would just be a waste of time anyway. I'll just put something in.”
 「そうだそうだ、それでいいんだよ。変に緊張する事なんかない、バーンと一曲ぶちかませ！」=“Good boy, that's just fine. No need to worry about weird stuff, just sing your heart out!”
 「よーし！　じゃあ、今一番お気に入りの一曲！　いくよっ！」=“Alright! I'mma put in the song I've been most into recently then! Here I go--!”
-………………=...
+………………=.........
 「ふぅ……ど、どうだった？　結構盛り上がってくれてたみたいだけど、知ってる曲だった？」=“Fuh... h-how was it? I saw you got pretty into it, you know the song?”
 「いや、実は知らなかった。でも、ノリがいい曲だったから、自然に体が動いたって感じかな」=“No, I actually didn't. But, it was a really hype song, so I couldn't help moving my body a bit, you know?”
 「ならよかった。じゃあ、次は[H名]の番だね。期待してるよ」=“Good then. It's your turn next, isn't it? I'm excited.”
