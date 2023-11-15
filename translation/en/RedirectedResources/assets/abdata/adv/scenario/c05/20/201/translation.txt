@@ -12,7 +12,7 @@
 「メリーゴーラウンドが空中に浮いたようなアトラクションのことだよ」=“The one that's like a carousel but in mid-air.”
 「ほら……あそこにある」=“Look... that one, there.”
 「ああ、あの乗り物か。ここから見た限り、あんまり並んでいないみたいだし、早速乗りに行こうか」=“Aah, that one, huh? Doesn't seem like many people have queued up for it, not from here anyway, so let's go ride it while we can.”
-………………=...
+………………=.........
 「はー、楽しかった……！　子どもに戻ったみたいだったよ♪」=“Haah, that was so much fun...! I felt like I went back to being a little kid♪”
 「俺も驚いたよ。まさか、あんなに楽しんでくれるとは思っていなかったからさ」=“I was surprised too. Didn't think you'd enjoy it that much.”
 「うん。遊園地は好きだけど、気軽に一人で来れる所じゃないから、久しぶりで楽しかった」=“Yeah. I love amusement parks but, it's not exactly the sort of place you visit by yourself so, it's been a while since I've gotten to enjoy it.”
