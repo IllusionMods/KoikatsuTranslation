@@ -6,7 +6,7 @@
 「アベレージ９０点ならすごいことだよ。自信をもって」=“An average of 90 is amazing. You should be more confident.”
 「……ありがとう。　今度は、あなたが歌って」=“...Thank you. You sing, this time.”
 「そうだな……せっかくだし、まだ歌ったことない曲にしてみようかな」=“Right... well, I might as well try some songs I've not tried before.”
-………………=...
+………………=.........
 「……ふー。ところどころあやふやだったけど、勢いでごまかせたかな」=“...Fuuh. I messed up some parts here and there but, I think I managed to cover it up with raw spirit?”
 「そんなこと、ない。良かった。……得点が、出る」=“You didn't, mess it up. It was good. ...You'll definitely, get a good score.”
 「うーん、微妙だな。やっぱり初めて挑戦する歌はこんなもんだよな」=“Nnn, it's not the best score. Guess that's how it's gonna end up, when you do a new song for the first time.”

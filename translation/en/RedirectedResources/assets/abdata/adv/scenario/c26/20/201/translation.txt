@@ -13,7 +13,7 @@
 カシャッ=*Shutter*
 「ありがとうございました。――えっ、あっちの方？　向こうに何かあるんですか？」=“Thank you very much. ---Eh--, over there? Is there something there?”
 「わかりました。行ってみます。ありがとうございます」=“Got it. We'll check it out. Thank you very much.”
-………………=...
+………………=.........
 「親切だったね。多分ジェスチャー的にこの方角であってると思うけど……お」=“Pretty friendly, weren't they? I think this was where they were pointing at... oh.”
 「このジェットコースターか？　メインのコースターと比べてすごい空いてるけど……」=“So it was this roller coaster, huh? There's barely anyone here, compared to the main one...”
 「……古くて、壊れそう」=“...It looks old, and flimsy.”
