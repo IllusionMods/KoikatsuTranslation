@@ -3,7 +3,7 @@
 //
 「すぅ……すぅ…………ん、んん……」=“*Snore*... *Snore*... Nn, Nnnnn...”
 （んぅ……すごく気持ちいいような……いったい、何が……？）=(Nnn... It feels really good... Just what...?)
-「…………」=“...”
+「…………」=“......”
 「って……え？　え？」=“--...Eh? Eh?”
 「あら、おはよ。よく眠れたかしら？」=“Oh, Morning. Did you sleep well?”
 「えっと……そうだね？」=“Erhm... Seems like it?”

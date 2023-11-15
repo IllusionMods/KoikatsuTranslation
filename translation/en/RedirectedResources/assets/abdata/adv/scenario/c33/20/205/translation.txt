@@ -32,7 +32,7 @@
 「どういうところが？」=“Which part of me?”
 「そうね……女の子の魅力を引き出すのがうまいところかしら。あ、これは本音よ。コイカツ部に入った女の子はみんな前より活き活きしているから」=“Let's see... The part of you that's good at drawing out a girl's charm, I suppose. Ah, I'm not joking this time. The girls who've entered the Koikatsu club are all way more lively than before.”
 「じゃあ、俺との将来のことを考えたことある？　あるなら、どんなことを考えた？」=“Then, have you ever thought about our future together? If you have, what was it about?”
-「…………」=“...”
+「…………」=“......”
 「[H名]さん？」=“[H名]-san?”
 「……子供の名前、あなたとの」=“...The names of our kids.”
 「えっ、子供？」=“Eh--, Kids?”
