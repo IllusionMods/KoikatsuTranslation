@@ -8,7 +8,7 @@
 「よし、じゃあ最初はクレーンゲームで遊んでみよう」=“Alright, let's try out the arcade here for now.”
 「でも、ただ遊ぶだけじゃつまらないから……どっちが先に、あのぬいぐるみを取れるか勝負してみない？」=“But, just playing the games is kinda boring so... wanna have a match over who can get that plushie first?”
 「それ面白そう～。よ～し、負けないからね～」=“That sounds fun~. Alright~, I'm not gonna lose, you know~”
-………………=...
+………………=.........
 「……くっ！　結構、難しいなこれ……」=“...Kuh--! This is pretty hard...”
 「おっ、キャッチした～。そうそう、そのまま穴へ……」=“Oh--, I've got it~. Yes, just like that, go towards the hole...”
 「やった～！　ぬいぐるみゲットしたよ～」=“Yay~! One plushie, scored~”

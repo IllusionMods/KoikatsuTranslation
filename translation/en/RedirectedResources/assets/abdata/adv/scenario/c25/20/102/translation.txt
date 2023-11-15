@@ -12,7 +12,7 @@
 「あのさ、[H名]は辛いもの好き？」=“Hey, do you like spicy stuff, [H名]?”
 「ん～？　好きだよ～。七味とか食べ物にバンバンかけちゃうからね～」=“Nn~? I do~. I put this super spicy mix I have on all sorts of food~”
 「そっか。なら、ちょっと待ってて」=“I see. Well then, wait here for a moment.”
-………………=...
+………………=.........
 「はい、これ。激辛ホットドッグ。そこのお店で買って来たんだ」=“Here. A super spicy hot dog. I went and bought it from that truck over there.”
 「わぁ～、ありがとう。気が利くっすね。さっそく、いただきま～す」=“Wah~, thanks. You're really thoughtful. Well then, Imma not waste any time, and dig in~”
 「……う～ん、美味しい～。ほっぺが落ちちゃいそう～」=“...Yeah, it's tasty~. Super delish~”

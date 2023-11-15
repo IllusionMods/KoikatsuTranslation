@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-………………=...
+………………=.........
 「ふぅ……いったん休憩にしよ～？　ちょっと疲れたっす」=“Fuu... wanna take a small break~? I'm a bit tired.”
 「だね。のどを休めよっか」=“Sounds good. Let's rest our throats.”
 「せっかくメニューがあるし、なにか注文でもしようよ？　なに頼む？」=“We have a menu here and everything so, let's order something, shall we? What'cha wanna get?”

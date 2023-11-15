@@ -17,7 +17,7 @@
 「ん……」=“Nn...”
 「……っ。嬉しいよ、大好きだ」=“...I'm really happy. I love you.”
 「うん……私も、大好き……」=“Yeah... I love you too...”
-「…………」=“...”
+「…………」=“......”
 CHOICE:『エッチしようと誘ってみる』=『Try asking for sex.』
 CHOICE:『そろそろ切り上げる』=『Cut the night short.』
 「……あのさ。また……エッチしない？」=“...Hey, listen. Wanna... have sex again?”
