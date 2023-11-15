@@ -3,7 +3,7 @@
 //
 「すぅ……すぅ…………ん、んん……」=“Zzz...Zzz...N, nn...”
 （んぅ……ん……なにか、やわらかいものが……あたって……？）=(Nnn... Nn... I feel something... soft...?)
-「…………」=“...”
+「…………」=“......”
 「って、なにして……んんっ……」=“Eh--, What are you... Nnn--...”
 「何って、寝てても大きくなる節操のないモノに、お仕置き中よ」=“What", you say, I'm punishing this honourless thing that gets up even when you're sleeping.”
 「えっ、それは生理現象だよっ……俺の意思じゃないからっ」=“Eh--, that's a physiological phenomenon--... It's not something I intended--”

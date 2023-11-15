@@ -3,7 +3,7 @@
 //
 「すぅ……すぅ……ん、んん……」=“Zzz...Zzz...N, nn...”
 （ううん、何だか下半身に違和感が……？）=(Uuunnn, it feels kinda weird down there...)
-「…………」=“...”
+「…………」=“......”
 「って……え？　え？ [H名]さん？」=“...Eh? Eh? [H名]-san?”
 「あら、ようやく起きたのね。寝ていてもピクピク反応する貴方、面白かったわよ」=“Oh my, finally awake, huh? It was amusing to see you twitching down here even when sleeping.”
 「面白いって……また何でこんな事を……」=“Amusing, huh--... But why are you doing...”
