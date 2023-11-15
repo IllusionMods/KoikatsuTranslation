@@ -33,7 +33,7 @@
 「私ってひねくれ者で面倒くさいでしょう？　出会ったときも、突き放すようなことを言った気がするし……」=“I'm really difficult and annoying to deal with, no? I feel like I pushed you away really harshly too, when we first met...”
 「あはは……そうだったかも」=“Ahaha... you might have, yeah.”
 「ねぇ。どうして、こんな私なんかと結婚してくれるの？」=“Hey. Why would you, marry a girl like me?”
-「…………」=“...”
+「…………」=“......”
 「……私なんか、なんて言わないでくれよ」=“...Don't say that. Especially not like that. Please.”
 「え？」=“Eh?”
 「確かに君はちょっとひねくれてて、ちょっといじわるで……」=“Certainly, you're a bit difficult, and a bit mean...”
@@ -44,8 +44,8 @@
 「わた、わたしっ……あなた、に、会えて……ほ、本当に……」=“I-I--... I-I'm, r-really glad... t-that I met...”
 「一緒に、幸せになろう」=“Let's become happy together.”
 「ん……」=“Nn...”
-………………=...
-…………=...
+………………=.........
+…………=......
 ……=...
 「大好きよ。あなた」=“I love you. Dear.”
 「ここに二人の愛は結ばれました」=“Here, these two have been bound in a union of love.”

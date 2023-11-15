@@ -3,7 +3,7 @@
 //
 「あなたが部長をしてるのよね？　少しだけ、考えさせてくれないかしら……」=“You're the club president, right? Could you let me, think on it a little?...”
 「うん、全然待つよ」=“Sure, take as much time as you need.”
-………………=...
+………………=.........
 「……そうね。時間は余ってるし、入ってみてもいいわよ」=“...Right. I do have some free time, I don't mind joining.”
 「よしっ、ありがとう！」=“Aight--, thanks!”
 「ところでどんなことをする部活なのかしら？」=“By the way, what do you do in that club, exactly?”

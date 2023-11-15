@@ -10,7 +10,7 @@
 「コーヒーカップか……」=“The coffee cup, huh...”
 （ゆっくり回ればのんびりできるかな）=(If it moves slowly, I should be fine.)
 「うん、いいよ。じゃあ、列に並ぼうか」=“Yeah, okay. Then, let's line up.”
-………………=...
+………………=.........
 「ふ、ふ、ふ。かかったわね？」=“Fu, fu, fu. Fell right into my trap, huh?”
 「え？　ちょ、ちょっと、[H名]さん？」=“Eh? H-Hey, [H名]-san?”
 「私、コーヒーカップを開始直後からフルスピードで回す達人なのよ」=“I'm an expert on getting the coffee cup to move at full speed right from the start.”
