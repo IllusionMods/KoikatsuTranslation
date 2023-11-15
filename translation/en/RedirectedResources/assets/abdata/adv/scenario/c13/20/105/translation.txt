@@ -13,7 +13,7 @@
 「おかげで、一日がすごく早く感じちゃった」=“Because of that, the day just flew by.”
 「そんなに喜んで貰えたなら良かったよ……ありがとう」=“I'm glad you liked it that much... Thanks.”
 「あはは、なんで[P名]くんがお礼を言ってんの？　お礼を言うのはアタシの方だよ。ほんとにありがとー♪」=“Ahaha, why are you saying thanks to me? I'm the one who should be saying it. Thank you so much, [P名]-kun♪”
-「…………」=“...”
+「…………」=“......”
 「[H名]ってさ、この綺麗な夜景みたいだなって思うんだ」=“You know, in my eyes, you seem like this beautiful night sky.”
 「ん～？　どーゆー意味？」=“Nn~? In what way?”
 「何より明るくて、元気で、一緒にいてとても居心地が良くて、その綺麗な髪、瞳、でも、明るいだけじゃなくて……」=“Brighter than anyone else, lively as hell, just being with you makes me feel so comfortable, that beautiful hair, those eyes, but I don't mean just brightness, like...”

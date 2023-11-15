@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-………………=...
+………………=.........
 「う～ん、アタシ歌い疲れちゃった……」=“Mmm~, I'm a bit tired from all the singing...”
 「そっか……」=“I see...”
 「ん？　どうしたの、[P名]くん……」=“Nn? What's up, [P名]-kun...”

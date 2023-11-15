@@ -13,7 +13,7 @@
 「……あっ、ちょっと、先に並んでてくれない？」=“...Ah--, hey, could you line up first without me?”
 「えっ？　[P名]くん、どこ行くの～？」=“Eh--? Where are you going, [P名]-kun~?”
 「大丈夫、すぐに戻ってくるから！」=“It's alright, I'll be back real soon!”
-………………=...
+………………=.........
 「アイス買ってきたよ。食べる？」=“I bought some ice cream. Want some?”
 「えっ、マジで！　ありがとー！」=“Eh--, for real?! Thanks!”
 「いえいえ～。それと、他にも退屈をしのげるものをいろいろ買ってきたんだ」=“Not at all~. Not just that, I also bought a bunch of knick knacks to help pass the time.”

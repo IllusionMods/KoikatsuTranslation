@@ -12,7 +12,7 @@
 「あ、はは、えと……なんか頭の先から抜けちゃったというか……」=“Ah, haha, erhm... It kinda slipped out of my mind...”
 「じゃぁさ、先にアタシの好きな曲の話を聞いてよ！」=“Well then, I'll tell you about all my favourite songs instead~!”
 「あ、うん！　聞きたいな」=“Ah, yeah! I'd love to hear about that.”
-……………=...
+……………=.........
 「へ～、色々レパートリーがあるんだね」=“Heh~, you know quite a lot of songs.”
 「じゃあさ、今話してくれた曲の中からリクエストしてみてもいい……？」=“Well then, is it alright if I request a song from one of those that you mentioned just now...?”
 「なになに！？　[P名]くんのリクエストなら、なんだって聞くよ！」=“What?! A request from you, [P名]-kun, of course I'll hear you out!”
