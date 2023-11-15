@@ -3,7 +3,7 @@
 //
 「すぅ……すぅ…………ん、んん……」=“*snore... *snore*... Nnn, nnnn...”
 （んぅ……ん……なにか、やわらかいものが……あたって……？）=(Nn... nn... I can feel... something soft...?)
-「…………」=“...”
+「…………」=“......”
 「……って、え？　え？」=“...Eh? Eh?”
 「ふふ、すっかり目が覚めたみたい。お顔がトロンとしてきたわね」=“Fufu, seems that you've finally woken up. Your face just jolted to life.”
 「何をして……んんっ……」=“What are you... Nnn--...”
