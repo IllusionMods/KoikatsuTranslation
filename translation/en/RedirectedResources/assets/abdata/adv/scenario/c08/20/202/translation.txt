@@ -6,7 +6,7 @@
 「[H名]は何が欲しい？」=“What would you like, [H名]?”
 「何でもいいよぉ。[P名]君に任せる」=“I'm fine with anything. I'll leave it to you, [P名]-kun.”
 「それじゃ、適当に選んで買ってくるよ」=“Well then, I'll go pick something for both of us then.”
-………………=...
+………………=.........
 「おまたせ。けっこう空いてたからすぐ買えたよ」=“Sorry for the wait. There was almost no one there, so I was able to get it pretty quickly.”
 「ありがとう。何を買ってきてくれたの？」=“Thanks. What did you get me?”
 「フライドポテトにした」=“I got us some fries.”
