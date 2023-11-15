@@ -10,7 +10,7 @@
 「そ、そうなんだ……。あ、じゃあ、適当に空いているアトラクションから乗ろうよ」=“I-I see... Ah, then, let's start with some of the less popular attractions first.”
 「ええ、とりあえず、遊園地の中をブラブラと歩きましょうか」=“Yes, for now, let's just wander around the park for a bit, shall we?”
 「うん、そうしよう」=“Yeah, let's do that.”
-…………=...
+…………=......
 「ふふふ……あー、疲れたー。なんだかんだで、結構楽しめたわね～」=“Fufufu... aah, so tired. It was pretty enjoyable, one way or another, wasn't it?~”
 「うん、空いてるアトラクションって結構あるんだね」=“Yeah, there's quite a lot of pretty vacant attractions here.”
 「いろいろ回って、疲れちゃったわ。少しどこかで休憩しましょ」=“I'm a tired out from riding all of them. Let's take a break somewhere.”
