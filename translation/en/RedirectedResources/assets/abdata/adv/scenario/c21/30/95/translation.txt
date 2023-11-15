@@ -3,7 +3,7 @@
 //
 「すぅ……すぅ…………ん、んん……」=“*snore... *snore*... Nnn, nnnn...”
 （んぅ……すごく気持ちいいような……いったい、何が……？）=(Nn... Something feels amazing... just what, is it...?)
-「…………」=“...”
+「…………」=“......”
 「へっ！　ど、どうして俺の上に……？」=“Eh--! W-Why are you on top of...?”
 「あっ、ごめんね。起きるまで待てなくて、襲っちゃった♪」=“Ah--, I'm sorry. I couldn't hold on until you woke up, so I ended up assaulting you♪”
 「襲っちゃった♪　って……まあ、悪い気はしないけどね」=“Assaulting♪, huh... well, not that I mind it.”

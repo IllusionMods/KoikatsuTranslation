@@ -43,7 +43,7 @@
 「…………そういうところも好き」=“...I love that side too.”
 「えっ？」=“Eh--?”
 「エッチな話でニヤニヤしてたと思ったら、観覧車からの景色を見て、本当にキレイだって感動してるところ」=“The way you go from grinning ear to ear over lewd stuff, to suddenly honestly appreciating the view and being moved.”
-「…………」=“...”
+「…………」=“......”
 「漫画とかアニメで出てくる超理想的なイケメンじゃないし、欠点あるし、たまに言ってること矛盾してるし、女の子のお尻ばっかり追いかけてるし……」=“You're not a super perfect hunk of a man like they are in anime or manga, you're got a lot of flaws, and sometimes you say very contradictory stuff, and you're always chasing tail...”
 「でも、私のことをちゃんと知ろうとしてくれるし、一緒に遊んでくれるし、恋人として愛してくれてる……そんなキミが、私は好き。好きになったの、キミのこと……」=“But, you always try to hear me out and pay attention to me, you're always make time for me, and you give me so much love... that's the man, I fell in love with. You're that man...”
 「[H名]……」=“[H名]...”
