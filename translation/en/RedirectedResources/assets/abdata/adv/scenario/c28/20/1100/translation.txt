@@ -26,7 +26,7 @@
 「その言葉、すごく嬉しいよ。俺も同じ気持ちだから」=“That makes me really happy. Since it's the same for me.”
 「わしらはずっと同じ気持ちで歩んでいた気がするのう」=“I feel as though we have always walked next to each other, always harbouring the same feelings.”
 「最後に、愛の証としてキスをしていただきます」=“Lastly, as the proof of your love, you may now kiss each other.”
-「…………」=“...”
+「…………」=“......”
 「お主に伝えたい事があるのじゃ」=“I have something I must tell you.”
 「伝えたいこと？」=“Something you must tell me?”
 「わしはお主のおかげでおなごとしての自信を持つことができた」=“Because of you, I was able to become confident in myself, as a woman.”
@@ -36,8 +36,8 @@
 「お主に心から感謝しておる。ありがとう」=“I am grateful to you, from the bottom of my heart. Thank you.”
 「俺もだよ。俺も[H名]のおかげで、今本当に幸せなんだ……[H名]、ありがとう」=“Me too. Thanks to you, I am truly in bliss today... [H名], thank you.”
 「んぅ…………んっ……」=“Nn... nnn--...”
-………………=...
-…………=...
+………………=.........
+…………=......
 ……=...
 「わしは、お主を愛しておる」=“I love you, dearly.”
 「ここに二人の愛は結ばれました」=“Here, these two have been bound in a union of love.”

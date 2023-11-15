@@ -5,7 +5,7 @@
 「人に見られたら少し恥ずかしいのじゃが……」=“It'd be quite embarrassing if we were seen by others...”
 「ほら、手を貸して」=“C'mon, your hand.”
 「……わかったのじゃ」=“...Got it.”
-………………=...
+………………=.........
 「ここの広場は広いね！」=“The plaza here is pretty big, huh!”
 「花壇も綺麗じゃのう」=“The flowers sure are pretty as well.”
 「おぉ、あそこにあるのはなんじゃっ？」=“Ooh, what is that over there--”

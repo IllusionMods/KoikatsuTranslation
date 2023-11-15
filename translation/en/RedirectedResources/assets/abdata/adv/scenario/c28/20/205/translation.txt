@@ -25,7 +25,7 @@
 「ダメかな？」=“You want me to stop?”
 「……駄目では……ない……」=“...I never... said that...”
 「はは、よかった」=“Haha, great.”
-「…………」=“...”
+「…………」=“......”
 「……今、お主が考えてること……わかっておるぞ……その、わしは構わない」=“...I understand... what you are thinking, right now, you know... it is, uhm, I do not mind.”
 「[H名]……」=“[H名]...”
 「んんっ……………あっ……ん…………」=“Nnn--... ah--... nn...”
