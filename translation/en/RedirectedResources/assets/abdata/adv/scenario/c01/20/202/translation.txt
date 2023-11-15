@@ -11,7 +11,7 @@
 「いえ、このスタンプカードに書いてありますから」=“No, it's written right here, on the stamp card.”
 「あ、そっか」=“Ah, I see.”
 「是非、もらいましょう。あ、あそこにさっそく一つ目がありますよ」=“Let's go for it, why not? Ah, the first one's right over there.”
-「[H名]、こういう遊び好きなの？」=“You like this sort of thing, [H]?”
+「[H名]、こういう遊び好きなの？」=“You like this sort of thing, [H名]?”
 「はい。小さい頃は宝探しゲームが大好きでした」=“Yes. I've always loved doing scavenger hunts, ever since I was a little child.”
 「いい趣味だね。じゃあ、はりきって行こうか！」=“Pretty good hobby, that. Let's pull out all the stops then!”
 「はいっ」=“Yes--”

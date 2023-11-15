@@ -11,7 +11,7 @@
 「ふふ、お互いに良い経験になりましたね。でも私は、魔法が解けてしまった童話のお姫様のような気分です」=“Fufu, quite the experience for both of us, wasn't it? But personally, I feel like a princess, from one of those fairy tales, after the magic melts away.”
 「魔法？」=“Magic?”
 「はい。刻限が来て、普通の女の子に戻ってしまいました」=“Yes. The appointed time came, and I turned back into a normal girl.”
-「そんなことない。[H名]はドレスを着てなくても俺のお姫様だよ」=“Not at all. Even without a dress, you're still my very own princess, [H].”
+「そんなことない。[H名]はドレスを着てなくても俺のお姫様だよ」=“Not at all. Even without a dress, you're still my very own princess, [H名].”
 「ふふ。運命の王子様にずっとそう思ってもらえるように、これからもお姫様な私でいないといけませんね」=“Fufu. I'll have to work hard then, so that I can forever stay a princess, to my very own destined prince.”
 「[H名]にそんなこと言ってもらえるなんて、畏れ多いなぁ。俺はその三倍は頑張らないとだね」=“Having you say that about me, is quite something, you know~? I'm gonna have to put in 3 times that effort.”
-（そうしたら、いつか[H名]と結婚できるのかな？　[H名]と釣り合うような王子様になりたいな……）=(Will I be able to marry her then, if I do that? Man, wouldn't it be nice to be a prince worthy of [H]...)
+（そうしたら、いつか[H名]と結婚できるのかな？　[H名]と釣り合うような王子様になりたいな……）=(Will I be able to marry her then, if I do that? Man, wouldn't it be nice to be a prince worthy of [H名]...)
