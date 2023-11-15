@@ -27,7 +27,7 @@
 「んっ……」=“Nn--...”
 「……っはぁ」=“...--haa.”
 「ん、んんんっ……」=“Nn, nnnnn--...”
-「…………」=“...”
+「…………」=“......”
 「…………に、二回するとは聞いていません」=“...N-Nobody told me that we were going to do it twice.”
 「いや、一回離した時まだ頂上だったから、もうちょっとしてないと勿体無いと思って」=“No, well, we were still at the peak when we finished the first one, so I just thought that it would have been too wasteful to not keep it going for a bit longer.”
 「なんですかその理屈は……」=“What's with that logic...”
