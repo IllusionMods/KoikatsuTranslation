@@ -12,7 +12,7 @@
 「え？　あ、あれは……ゲームセンター！？」=“Eh? T-That's... an arcade?!”
 「こういう所って、懐かしいのが置いてあるんじゃないかな？　昔のゲームとか、クレーンゲームとかしてみようよ」=“Since it's in an amusement park, don't you think it'll have some really nostalgic stuff? Why don't we play some old videogames, or try the claw game?”
 「いいわね、やりましょ！」=“Sounds fun, let's do it!”
-………………=...
+………………=.........
 「んー……故障中の張り紙がついているのが多いわね……」=“Nn... Quite a lot of them seem to be out of order, don't they...”
 「でもクレーンゲームはそろってるよ。これなんかオリジナルじゃないかな」=“But the claw game seems to be in working order. Doesn't this one seem original?”
 「……遊園地のオリジナルぬいぐるみ！」=“...The amusement park's own original stuffed toy!”

@@ -14,7 +14,7 @@
 「ん？　ああ、あそこにあるやつ？　……なんか、移動販売のお店っぽいね」=“Hm? Aah, you mean that? ...Looks kinda like a food truck.”
 「カフェ、かな？　近くに座るスペースあるし、あそこでお昼にしない？」=“A cafe on wheels, you think? There's some benches to sit at nearby too, how about we do lunch there?”
 「いいわよ。あの雰囲気はちょっと期待できそうな感じがするわ」=“Sure. The vibe they've got going on's making me kinda curious too.”
-………………=...
+………………=.........
 「色々メニューがあるなぁ……ランチも充実してる」=“They've got all sorts of things, don't they... so many options for lunch too.”
 「どう？　[H名]、何頼むか決めた？」=“So, [H名], decided what you're getting yet?”
 「ちょっと待ってよ。今、大事な選択してる最中なんだから」=“Hang on a sec. I'm in the middle of making a really important choice.”

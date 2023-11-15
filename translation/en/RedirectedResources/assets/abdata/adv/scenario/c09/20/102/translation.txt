@@ -4,7 +4,7 @@
 「いい天気！　ここまで晴れてると、気持ちいいわね」=“Such good weather! When it's this clear out, it just so feels good, doesn't it?”
 「本当だね、でもさすがに天気良すぎて……ねえ、ちょっと木陰で休まない？」=“Yeah, but it's a bit too good... hey, can we rest under the tree's shade a bit?”
 「確かに日差しが強烈ね……ちょっとそこのベンチに避難しましょうか」=“The sunlight is pretty harsh, yeah... let's take shelter at that bench.”
-………………=...
+………………=.........
 （ハトがいっぱい寄ってきた……ここって、いつもハトがエサもらってる場所なのかな？）=(So many pigeons... do they always get food from people sitting here?)
 「……ハトは、こんなに暑いのに、倒れたりしないのかなぁ」=“...It's so hot out today, do you think pigeons get heatstroke too?~”
 「あんた、変なこと気にするわね。そんなこといいから、何かこの子達にあげられるものない？」=“You sure think about some weird things. Forget about that, do you have anything we could feed them?”
