@@ -14,7 +14,7 @@
 「……って、あれ。あそこにサンドイッチを売ってるバンが止まってるね」=“...Huh, over there. Seems like there's a food truck serving sandwiches there, huh?”
 「へぇ……キューバサンドイッチ……か。[P名]君、これにしない？　あなたさえ良ければだけど」=“Hoh... cuban sandwiches... huh? How about we go with those, [P名]-kun? Only if you're okay with it.”
 「いいね、これにしてみよう。あの、すみません。えーっと……」=“Sounds good, let's try them. Uhm, Excuse me. Erhm...”
-………………=...
+………………=.........
 「はい、おまたせ。とりあえずノーマルのにしてみたよ」=“Here, sorry for the wait. I had them make normal ones for us.”
 「わぁ、すごい。チーズとお肉がこんなにいっぱいっ。それにパンもトーストしたてでアツアツね」=“Wah, amazing. It's packed with so much cheese and meat--. The bread's all toasted and piping hot too.”
 「すごく食べごたえがありそうだね。[H名]、食べ切れそう？」=“Bet it's gonna be real filling. Think you can eat it all, [H名]?”
