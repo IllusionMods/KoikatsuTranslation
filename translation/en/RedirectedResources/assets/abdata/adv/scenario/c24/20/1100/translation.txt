@@ -26,7 +26,7 @@
 「あなたは昔から何も変わらないです。私のことを一番理解してくれてる、いつまでも私の理想でいてくれる人……」=“You haven't changed a bit. You're still the one person who understands me the best, someone who's always stayed my ideal man...”
 「そうなろうって誓ったからね。あの、模擬挙式の日に……」=“Well, I did pledge to you that I would stay that way, afterall. You know, at that mock ceremony...”
 「最後に、愛の証としてキスをしていただきます」=“Lastly, as the proof of your love, you may now kiss each other.”
-「…………」=“...”
+「…………」=“......”
 「綺麗だよ」=“You're beautiful.”
 「あなたは毎日……文字通り、毎日、そう言ってくれました。だから、綺麗な花が咲いたんです」=“You say that everyday... literally, every day. That's why I've grown into such beautiful woman. Because of those words.”
 「色々な付き合いもあるのに、毎日しっかり帰ってきてくれて、女の人とも極力会わないようにしてくれて……」=“Even though you had so much going on, you always came back home to me everyday, and always did your best to keep other women at a distance for my sake...”
@@ -39,8 +39,8 @@
 「[H名]……」=“[H名]...”
 「ん……」=“Nn...”
 「ん、ん……」=“Nn, nn...”
-………………=...
-…………=...
+………………=.........
+…………=......
 ……=...
 「あんな私でも、あなたの宝物になれるなんて、幸せです」=“To think that even that side of me, can be something you treasure, I'm so happy.”
 「ここに二人の愛は結ばれました」=“Here, these two have been bound in a union of love.”

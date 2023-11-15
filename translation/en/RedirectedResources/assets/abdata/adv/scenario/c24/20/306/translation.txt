@@ -5,7 +5,7 @@
 「…………あの、もしかして、私に飽きちゃいましたか……？」=“...Uhm, by any chance, have you gotten bored of me...?”
 「えっ！？　急にどうしたの？」=“Eh--!? Where did that come from?”
 「今日は誘ってくれないので……」=“You haven't asked for it today, so...”
-「…………」=“...”
+「…………」=“......”
 CHOICE:『実は焦らしてたんだ』=『I was actually trying to tease you.』
 CHOICE:『純粋に歌を楽しみたいんだ』=『I just want to have a good time singing today.』
 「実は、焦らしてたんだ。[H名]がしびれを切らしてそう言ってくるところが見たくて」=“I was actually trying to tease you. I just wanted to see you get more and more impatient.”
