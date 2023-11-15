@@ -8,7 +8,7 @@
 「ばっちりとね」=“Loud and clear.”
 「ぬわーん！　だ、だってそろそろ昼飯の時間だろ？　こんないい匂いがしてきたら、そりゃ腹も減るだろ？」=“But--! I-I mean, it's almost lunch time, no? Just about anyone's gonna have their stomach growl when they smell something this good so close to lunch.”
 「そんな必死になって弁解しなくても……。俺も腹減ったし、お昼にしようか」=“You don't need to justify it so frantically... I'm pretty hungry myself anyway, so let's just have lunch here.”
-………………=...
+………………=.........
 「うーん、ホットドッグっていっても、結構種類があるんだなー」=“Hmmm, even amongst hot dogs, there's all sorts, huh?”
 「私、これ食べてみたい」=“I wanna try this.”
 「ん？　『辛すぎてごめんねっ！！　激辛チリソースホットドッグ』だって？」=“Hm? 『Sorry if it's too spicy--!!　Super Spicy Chilly Sauce Hot Dog』”
