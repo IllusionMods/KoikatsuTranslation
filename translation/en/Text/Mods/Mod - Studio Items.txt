@@ -373,3 +373,6 @@ r:"セキュリティーキャップ([０-９0-9]+).HS.$"=r:"Security Cap $1 (HS
 
 // 2D Effects / Text (jim's plugin)
 文字Text=Text
+
+// AccessoriesToStudioItems
+アクセサリー=Accessories
