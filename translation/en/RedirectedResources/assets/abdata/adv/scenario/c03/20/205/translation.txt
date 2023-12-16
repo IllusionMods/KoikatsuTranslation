@@ -19,9 +19,9 @@
 「はは、近づき過ぎちゃったんだね」=“Haha, guess you got way too close to it.”
 「はいです……んっ……っと……こうして綺麗に拭いて……っと……」=“Yes... nn--... wipe it off... like this... there...”
 「今度こそ、あの一直線になってる道路の信号を……ふぁぁっ、また曇っちゃったですーっ！」=“This time for sure, I'll definitely watch those lights change all at... fuaaah--, it fogged up again--!”
-「あはは、[H名]って……そういうところ可愛いよね」=“Ahaha, [H]... you're so adorable.”
+「あはは、[H名]って……そういうところ可愛いよね」=“Ahaha, [H名]... you're so adorable.”
 「えっ……か、可愛い……ですか？」=“Eh--... a-adorable... am I?”
-「うん、純粋で素直で……真っ直ぐで可愛い。俺、[H名]のそういうところ、好きだな」=“Yeah, so pure and innocent... just straight up adorable. I love that side of yours, [H].”
+「うん、純粋で素直で……真っ直ぐで可愛い。俺、[H名]のそういうところ、好きだな」=“Yeah, so pure and innocent... just straight up adorable. I love that side of yours, [H名].”
 「はぅぅ……と、突然……そんなこと……は、恥ずかしくなっちゃうですよ……」=“Hauuu... d-don't say that... so out of the blue... I-I'm going to blush...”
 「ごめんごめん。ほら、曇ってるとこ拭かなきゃ。信号は見なくていいの？」=“Sorry, sorry. C'mon, you gotta wipe the window. Sure you don't wanna watch the signal change?”
 「あ……ぅ……ふ……拭くです……こ、こうやって……」=“Ah... uu... I... I'll wipe it... l-like this...”
@@ -29,7 +29,7 @@
 （ん……？　拭くんじゃなくて指先で何か文字を……）=(Nn...? Rather than wiping it, she's writing something with her finger...)
 「す……き？」=“Lo... ve?”
 「わぁっ……こ、声に出しちゃダメですよ……恥ずかしいから書いたのに……」=“Wah--... y-you can't say it... I wrote it and everything since it's so embarrassing...”
-「[H名]……」=“[H]...”
+「[H名]……」=“[H名]...”
 「あ……ん……ちゅっ……」=“Ah... nn... *kiss*...”
 「ん……やっぱり可愛いよ」=“Nn... you really are adorable.”
 「んっ、ふぅ……恥ずかしいですよぉ……」=“Nn--, fuu... this is really embarrassing, you know~...”
@@ -39,6 +39,6 @@
 （ん？　もう一度窓ガラスを曇らせて……また文字を……）=(Nn? She fogged up the window again... and is writing something again...)
 「だ……い……す……き？」=“Lo... ve... you... lots?”
 「えへへ、はいっ！　大好きなのですっ！」=“Ehehe, yes--! I love you lots--!”
-「[H名]っ……んっ……」=“[H]... nn--...”
+「[H名]っ……んっ……」=“[H名]... nn--...”
 「はふっ……んっ、ちゅっ……ふぅっ……んんっ……」=“*pant*... nn--, *kiss*... fuuh--... nnn--...”
 「ん……もう……唇離したくない……んん……降りるまでずっと……キスしててくださいです……ふぅ……ちゅっ……だいすき……」=“Nn... I don't... wanna stop anymore... nnn... please keep kissing me... until we get down again... fuuu... *kiss*... I love you so much...”

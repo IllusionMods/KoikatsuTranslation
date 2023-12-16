@@ -26,4 +26,4 @@
 「あぅぅ……」=“Auuu...”
 「わわっ、ごめんっ！　俺、つい変なことっ……」=“Wawah--, sorry--! Ignore me, what the hell am I even sayi...”
 「い……いいですよ……私も……その……したいかしたくないかで言えばっ、したいっ……ですもん。あの……優しくしてくれるですか……」=“I... I don't mind... if I had to... uhm... answer that question too--, I--... wanna. Uhm... will you be gentle...”
-「[H名]……ありがとう、約束する。最後まで優しくするよ」=“[H]... thanks. I promise you. I'll be gentle till the very end.”
+「[H名]……ありがとう、約束する。最後まで優しくするよ」=“[H名]... thanks. I promise you. I'll be gentle till the very end.”

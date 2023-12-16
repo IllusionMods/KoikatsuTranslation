@@ -13,7 +13,7 @@
 「それは……その……歌い出すと何も考えられなくなって……えへへ」=“That's... uhm... when I sing, my head just goes blank and... eheheh.”
 「あはは、[H名]、本当に歌うのが好きなんだね」=“Ahahah, you really do love singing, don't you?”
 「はいです！　あ、そーだ。私、ドリンクバーに行ってくるですけど、何か飲みますか？　一緒に取ってくるですよ」=“I do! Ah, right. I'mma go make a quick trip to the drink bar, do you want anything? I'll grab it for you.”
-「ありがとう。それじゃ……うーん……[H名]は何にするの？」=“Thanks. Well then... nnn... what're you going for, [H]?”
+「ありがとう。それじゃ……うーん……[H名]は何にするの？」=“Thanks. Well then... nnn... what're you going for, [H名]?”
 「私はですねぇ、メロンソーダにウーロン茶をブレンドするです」=“Well, for me, I'm gonna get a glass of oolong tea blended with some melon soda.”
 「……え？」=“...Eh?”
 「メロンソーダにウーロン茶をブレンドするです」=“A glass of oolong tea blended with some melon soda.”

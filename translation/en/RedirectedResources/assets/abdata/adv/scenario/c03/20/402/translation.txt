@@ -4,13 +4,13 @@
 「このお店って雰囲気もよくて……つい長居しちゃいそうですね」=“The mood in this place is so nice... I feel like a few hours could fly by and I wouldn't even notice.”
 「うん、のんびり出来るよね。学園の帰りに寄ってみたりとかしてもいいかも」=“Yeah, pretty easy to relax here, isn't it? Might be a nice stop to add to our walks back home from school.”
 「ですです。二人でこっそり寄り道……いいですね！　青春って感じです！」=“Exactly. A nice little detour... sounds nice! Feels like youth!”
-「あはは、[H名]はそういうのに憧れるの？」=“Ahahah, you like that sort of stuff, [H]?”
+「あはは、[H名]はそういうのに憧れるの？」=“Ahahah, you like that sort of stuff, [H名]?”
 「はいです！　恋人同士って言ったら……やっぱり放課後は大切だと思うですよ。毎日作れる二人きりの時間なのです」=“Yes! I mean, as a couple... afterschool time is very important, in my opinion. It's time we can both spend on each other, everyday.”
 「確かにそうかも。学園の中だと何だかんだで勉強のこととか考えなきゃいけないもんね」=“Yeah, you're not wrong. At school, you're kinda forced to focus on your studies and whatnot.”
 「あはは、ダメですよ。寄り道しても、一緒にお勉強するです」=“Ahaha, that's no good. Even if we take a detour, we're still going to study together.”
 「え？　そうなの？　てっきり二人きりで話したりするものだとばかり……」=“Eh? Really? And here I thought we were gonna spend that time chatting...”
 「違うですよー。青春と言えば、二人きり、喫茶店でお勉強なのです！」=“Not at all. Youth is all about studying together at a cafe while drinking tea!”
-「えー……まぁ、学生なんだから間違ってはいないけど……[H名]って、そういうところ、意外と真面目だよね」=“Eh~... well, we are students so it's not like you're wrong but... you're surprisingly diligent, [H].”
+「えー……まぁ、学生なんだから間違ってはいないけど……[H名]って、そういうところ、意外と真面目だよね」=“Eh~... well, we are students so it's not like you're wrong but... you're surprisingly diligent, [H名].”
 「むぅぅ……意外じゃなくても真面目ですよー。二人で向かいあってお勉強……そして宿題はあなたに解いてもらうです」=“Muuh... surprising or not, I am very diligent. We're going to sit face to face and study... and I'm gonna have you fill out my answers.”
 「全然真面目じゃなかった！！」=“What's diligent about that?!”
 「そうですよね。お勉強のことなんて、学園から出た瞬間、綺麗さっぱり忘れるです！」=“Right? Who cares about studying, my brain automatically stuffs it all in the recycle bin the moment I'm out the gates!”

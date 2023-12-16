@@ -16,7 +16,7 @@
 「あ、待って待って。走ると危ないよ」=“Ah, slow down. You'll trip if you run.”
 （こういうストレートなところ……やっぱり可愛いんだよな）=(This singleminded side of hers... it really is adorable.)
 「うぅ……気にはなるですけど……残念ながら、今はお腹いっぱいなのです……」=“Uuu... I am curious but... sadly, my belly is full right now...”
-「あはは、まだ食事には早い時間だもんね。そういえば[H名]って小食だったっけ？」=“Ahahah, it is pretty early for lunch time still, yeah. Reminds me, were you a small eater, [H]?”
+「あはは、まだ食事には早い時間だもんね。そういえば[H名]って小食だったっけ？」=“Ahahah, it is pretty early for lunch time still, yeah. Reminds me, were you a small eater, [H名]?”
 「はいなのです……食べたいものはたくさんあるですけど……いつも食べられず……残念なのですよ……」=“Yes. ...There's so many things I want to try out but... I always miss out... it's really depressing...”
 「なるほど……それじゃ、こうしない？　せっかく二人でいるんだから、一つを買って分ければどうかな？　食べきれない分は俺が全部食べるからさ」=“I see... well then, how about this? We're out on a date together so, how about we buy one and share? I'll finish whatever you can't.”
 「はわっ……いいのですか？　だったらぜひっ……こんなに良い香りのクレープ、すごく気になるですよ」=“Hawah--... could we really? I'd love you... it smells so nice, I'm dying to try it.”

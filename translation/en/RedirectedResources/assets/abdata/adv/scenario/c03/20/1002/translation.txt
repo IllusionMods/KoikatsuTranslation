@@ -10,8 +10,8 @@
 （ふぅ……一応、モデルらしくできたかな？）=(Fuu... did I do a good job, for a model?)
 モブ=Mob
 「これより新婦が入場致します。後方の扉口をご覧ください」=“And now, the bride will make her entrance. Please pay attention to the main door.”
-（[H名]……）=([H]...)
-いつも元気で少し子供っぽい[H名]が、純白のウェディングドレスを見事に着こなしている。=[H], the girl that's always so lively, and a little bit childish, was pulling off the wedding dress so splendidly.
+（[H名]……）=([H名]...)
+いつも元気で少し子供っぽい[H名]が、純白のウェディングドレスを見事に着こなしている。=[H名], the girl that's always so lively, and a little bit childish, was pulling off the wedding dress so splendidly.
 気のせいか大人びて見えて、ギャップにちょっとクラッときてしまう。=Wondering if it's just my imagination, I tried to get my bearings, as the gap between this mature sight and her usual attitude was too large for my mind to connect them properly.
 ――いつの日か。模擬挙式ではなく本当の結婚式で、[H名]のドレス姿を見たいと、心から思った。=---I wanted to get married to this woman someday, not just in a mock ceremony, but a real one. I thought that from the bottom of my heart.
 「おお……」=“Ooh...”

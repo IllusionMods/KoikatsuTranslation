@@ -4,7 +4,7 @@
 「えへへ、エアコンが効いた場所ってホッとするですね」=“Eheheh, places with the aircons on let you breathe a lot easier, don't they?”
 「うん、分かる……ちょうど良い気温って落ち着くよね」=“Yeah, I feel you... the temp's just right, it's so calming.”
 「はいです……それにあなたと一緒にいるからか……ちょっと安心して……」=“Yes... on top of that, I don't know if it's because you're here... I feel so relaxed and...”
-「あはは、もしかして[H名]、眠いの？」=“Ahahah, are you sleepy, [H]?”
+「あはは、もしかして[H名]、眠いの？」=“Ahahah, are you sleepy, [H名]?”
 「ふぁっ！　ち、違うですよ！　全然眠くないのです！　美味しい物食べるの楽しみなのですよ！」=“Fuah--! N-Not at all! I'm not sleepy at all! I'm very excited to eat the very nice food they're going to serve!”
 「無理しなくていいよ。昨日、夜更かしでもしたの？」=“You don't need to force yourself. Did you stay up till late last night?”
 「はぅ……ごめんなさい。夜更かしというか……夜中に何度か目が覚めたですよ……」=“Hauu... I'm sorry. Not exactly stay up... I woke up from sleep so many times...”
