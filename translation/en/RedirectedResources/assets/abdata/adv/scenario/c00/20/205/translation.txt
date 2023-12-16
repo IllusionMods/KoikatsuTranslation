@@ -11,7 +11,7 @@
 「うんうん、俺も見習いたいなぁ」=“Yeah, I'd love to learn a thing or two from you.”
 「ふふ、見習いたいなら、もっと近くにおいで。人生を楽しむ極意、教えちゃうから♪」=“Fufu, if you do, then come closer. I'll teach you the secret to enjoying life♪”
 「うーん、危ないよ。係員に注意されたでしょ？　立ったり、動いたりしちゃ駄目ってさ」=“Mmm, that's dangerous. Didn't the staff warn us? To not stand up and move around and stuff.”
-「あぁん、残念ね……ここが、普通のベンチなら……ふふ、きっとお楽しみが始まってたかも……？」=“Aahn, shame... if this was a regular bench... fufu, I'm sure we'd have already started enjoying ourselves......”
+「あぁん、残念ね……ここが、普通のベンチなら……ふふ、きっとお楽しみが始まってたかも……？」=“Aahn, shame... if this was a regular bench... fufu, I'm sure we'd have already started enjoying ourselves...”
 「は、はは……あ、結構上がってきたよ」=“H-Haha... Ah, we've gotten pretty high up.”
 「ええ、遊園地の景色……すごく綺麗ね。どこもかしこもキラキラ光ってる」=“Yes, the scenery of the amusement park... It's stunning. It's all glittering, as far as the eye can see.”
 「ねえ、まだまだ上に登るのよね？　これって、なんだか今の私達みたいじゃない？」=“Hey, we're still not at the top yet, right? Doesn't it remind you of us?”
@@ -27,9 +27,9 @@
 「わぁ、素敵な景色……ほらほら、星が見える。それにお月さまも……ふふ、この遊園地も、街も全部……」=“Wah, it really is... look, look, you can even see the stars. The moon too... fufu, the park too, as well as the entire city...”
 「この景色……見せたかったんだ」=“This scenery... this is what I wanted to show you.”
 「ふふ、ねえ、今ここでキスしたら、最高の思い出になると思わない？」=“Fufu, hey, don't you think that it'd make for the best memory ever, if we kissed right now?”
-「そ、そうだね。間違いないよ……じゃ、んー……」=“Y-Yeah. For sure... then, nnn......”
+「そ、そうだね。間違いないよ……じゃ、んー……」=“Y-Yeah. For sure... then, nnn...”
 「ん……」=“Nn...”
-「んん……」=“Nnnn......”
+「んん……」=“Nnnn...”
 「ふふ、思った通り、素敵なキス……うっとりしちゃった」=“Fufu, that was even more lovely, than I expected... I nearly lost my head there.”
 「この思い出を、また二人で語り合う時がくるのかな？」=“Will there ever come a time, when we'll be able to look back to this, and chat about it?”
 「そんなの当たり前じゃない。次、教室で出会った時とか……お昼休みの時とか……」=“That's obvious, no? When we next see each other in class... or during lunch break...”

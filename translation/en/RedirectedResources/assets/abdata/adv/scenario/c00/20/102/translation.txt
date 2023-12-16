@@ -12,7 +12,7 @@
 「え？　いいの！　食べる食べる！」=“Eh? For real!? I do, I wanna eat!”
 「はい、お手製サンドイッチよ。お口に合うといいんだけど……」=“Here, a handmade sandwich. I hope you like it...”
 「わ！　超美味しそう！　絶対口に合うよ。じゃ、いただきまーす！」=“Wah! It looks super delish! I'll definitely like it. Well then, I'm digging in!”
-「もぐ、もぐもぐ……う～ん、美味しい！　最高だね！」=*Chew*, *chew chew*... Mmmm, delicious! It's the best!
+「もぐ、もぐもぐ……う～ん、美味しい！　最高だね！」=“*Chew*, *chew chew*... Mmmm, delicious! It's the best!”
 「うふふ、このピクルスも自家製なのよ。どう？」=“Ufufu, I made these pickles at home too. How are they?”
 「うんっ、酸っぱくて、ポリポリしてて……超サイコー！」=“Yeah--, they're really sour and crunchy... the best!”
 「そう、良かった～。いっぱい食べてね♪」=“I see, I'm glad~. Eat lots, okay?♪”
