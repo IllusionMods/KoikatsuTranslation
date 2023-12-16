@@ -2,7 +2,7 @@
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
 「やっぱり綺麗ね……」=“It really is beautiful...”
-「そうだね……それに、[H名]も綺麗だよ」=“Yeah... you're beautiful too, [H].”
+「そうだね……それに、[H名]も綺麗だよ」=“Yeah... you're beautiful too, [H名].”
 「な、なに言ってんの。急に……恥ずかしいじゃない」=“W-What're you saying, all of a sudden. That's... super embarrassing.”
 「思っていることを、そのまま口にしているだけなんだけどな」=“I just said what came to my mind, without any filter.”
 「あんたって……そんなキザなこと言う人だっけ？」=“You... were you that sort of a corny guy this whole time?”

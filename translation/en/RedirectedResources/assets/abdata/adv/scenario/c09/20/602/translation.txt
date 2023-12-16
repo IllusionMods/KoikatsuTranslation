@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「[H名]っ……」=“[H]--...”
-「もうっ！　[P名]ったら、そんなに急に……びっくりするじゃないの」=“Jeez--! [P], always rushing like that... you made me jump, see?”
+「[H名]っ……」=“[H名]--...”
+「もうっ！　[P名]ったら、そんなに急に……びっくりするじゃないの」=“Jeez--! [P名], always rushing like that... you made me jump, see?”
 「だって……俺、もう我慢できないんだ」=“I mean... I just can't hold it in anymore.”
 「そんなに焦んなくても、大丈夫よ」=“You don't need to rush so much, you know? I'm right here.”
 「分かってるけどさ……」=“I get that, but...”

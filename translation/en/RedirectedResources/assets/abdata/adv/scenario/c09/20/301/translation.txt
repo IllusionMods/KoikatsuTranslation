@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「[H名]は、よくカラオケ行ったりするの？」=“Do you often go to Karaoke, [H]?”
+「[H名]は、よくカラオケ行ったりするの？」=“Do you often go to Karaoke, [H名]?”
 「あたし、カラオケはあんまり……ゲームセンターには良く行くんだけど」=“Not really... I'm more home at arcades.”
 「そうなんだ。……ひょっとして、歌うの苦手だった？」=“I see. ...By any chance, are you bad at singing?”
 「苦手という程でもないんだけどね。得意ではないかな」=“Wouldn't really say "bad". I'm just not that good at it.”
@@ -9,7 +9,7 @@
 「ん、そうね……」=“Nn, yeah...”
 「あれ……？　なんか緊張してる？」=“Huh...? You nervous?”
 「ちょっと……あんたと、個室で二人きりだし」=“A bit... we're alone here, together, afterall.”
-「まあまあ、あんまり深く考えるなって。俺、[H名]の歌声を聞かせて欲しいな」=“It's fine, no need to think about it so deeply. I wanna hear you sing, [H].”
+「まあまあ、あんまり深く考えるなって。俺、[H名]の歌声を聞かせて欲しいな」=“It's fine, no need to think about it so deeply. I wanna hear you sing, [H名].”
 「……で、何歌うか決まった？」=“...So, picked a song yet?”
 「曲がありすぎて、迷っちゃうわね……」=“There's so many, I can't decide...”
 「なんでも好きなの入れちゃえば？　時間かけて選んでもいいから」=“Why not just put in something you like? You can take your time too.”
