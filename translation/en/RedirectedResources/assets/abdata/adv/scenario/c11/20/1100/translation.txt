@@ -29,7 +29,7 @@
 「うん……俺もこの瞬間、待ち遠しかったよ」=“Yeah... I've been waiting for this moment, for so long too.”
 「さあ、手を出して…………」=“Come now, hold out your hand...”
 「ふふふ、素敵……今日のあなたのためにデザインされたみたいな指輪ね」=“Fufufu, it's lovely... feels like it was designed just for your hand.”
-「[H名]の方だって、最高に似合ってるよ。綺麗過ぎて、まともに見られないぐらいだもの」=“Same goes for yourself, it looks absolutely fantastic on you. You look so beautiful, it's almost hard to stare directly at you.”
+「[H名]の方だって、最高に似合ってるよ。綺麗過ぎて、まともに見られないぐらいだもの」=“Same goes for you, it looks absolutely fantastic on you. You look so beautiful, it's almost hard to stare directly at you.”
 「あらあら、大げさなんだから……ふふふ……ああ、どうしよう。顔が勝手にほころんじゃう……厳粛な儀式の最中なのに……」=“Dearie me, you always exaggerate like that... fufufu... aah, what do I do? I can't help but smile... even though we're in the middle of such an important ceremony...”
 「最後に、愛の証としてキスをしていただきます」=“Lastly, as the proof of your love, you may now kiss each other.”
 「……ホントだ。すっごい笑顔」=“...Really. What a smile.”
