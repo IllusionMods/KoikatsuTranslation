@@ -447,7 +447,7 @@
 「あ、いま、他の子見てただろー？」=“Ah, just now, you were looking at another girl, weren't you?”
 「いや、見てないって」=“No way, I wasn't.”
 「あの子よりも、あたしのほうがスゴいんだからなー」=“Good, because she's got nothing on me.”
-「くんくん……におう、におうぞー」=“*sniff sniff*... I can smell it, I can smell it clear as day.”
+「くんくん……におう、におうぞー」=“*sniff*... I can smell it, I can smell it clear as day.”
 「え、なんのにおい？」=“Eh, smell what?”
 「ヤラしーこと考えてるにおいだぞ。へへー、あとでいっぱいヤろうな？」=“The fact that you're thinking about lewd stuff. Hehe, let's do it lots later, okay?”
 「なーなー、あたしのおっぱい、好きか？」=“Hey, question, do you like my boobs?”
