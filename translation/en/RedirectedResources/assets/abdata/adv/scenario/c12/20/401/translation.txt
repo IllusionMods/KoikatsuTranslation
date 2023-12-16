@@ -20,4 +20,4 @@
 「はぁっ……よかったぁ……このまま喧嘩別れになったらとか、色々想像しちゃって不安だったよ」=“Haah--... I really was worried there. For a second I thought we were going to fight and break up on the spot.”
 「ばか、あたしがそんな小さい女に見えるか？　お互いの距離が近付けば、噛み合わない事だって出てくるさ……」=“Dummy, do you think I'm that immature? When you get close to someone, there are bound to be one or two things you disagree on...”
 「でも、それを少しずつ噛み合わせていくのが恋人ってもんだろ？　あたし達も、そういう風になれたらいいなって思う」=“But, being a couple is all about coming to compromises over those very things, no? We should be like that too.”
-「[H名]……ありがとう。やっぱり[H名]には頭が上がらないね」=“[H]... thanks. I really am no match for you.”
+「[H名]……ありがとう。やっぱり[H名]には頭が上がらないね」=“[H名]... thanks. I really am no match for you.”

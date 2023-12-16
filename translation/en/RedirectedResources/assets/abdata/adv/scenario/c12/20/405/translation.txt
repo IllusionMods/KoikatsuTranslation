@@ -18,5 +18,5 @@
 「やった！　あ～～ん」=“Yay! Aaaahn~”
 「まだちょっと熱いから、気を付けて食べろよ？　口の中、火傷したりしないようにな」=“It's still a bit hot so, be careful, okay? Don't burn yourself.”
 「はむっ……」=“*Bite*...”
-「うんっ、大丈夫……んくっ、すっごい美味い！　[H名]大好き！」=“Yeah--, it's fine... nnkuh--, it's super good! I love you, [H]~!”
+「うんっ、大丈夫……んくっ、すっごい美味い！　[H名]大好き！」=“Yeah--, it's fine... nnkuh--, it's super good! I love you, [H名]~!”
 「取って付けたように言うなって……まぁ、嬉しいけどさ。へへっ、あたしも大好きだよ」=“Don't say it so frivolously... well, not that it doesn't make me happy. Heheh--, I love you too.”

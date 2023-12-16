@@ -5,7 +5,7 @@
 「そうだな。長く遊ぶためにも適度な休憩は必要だ。まだまだ遊び足りないからな」=“Sounds good. Gotta rest if we're to have fun the whole day. And I certainly plan to.”
 「じゃあ、あの出店でポップコーンでも買って、ベンチで休憩しようか」=“Well then, let's buy some popcorn from that stall, and chill at a bench or something.”
 「うん、いいと思うぞ。味の種類が結構あるみたいだな。定番の塩に、キャラメルとか、カレーなんていうのもあるぞ」=“Yeah, I think that's fine. Seems like they've got all sorts of flavours. Regular salted, caramel and even curry flavoured, however that works.”
-「[H名]はどれにする？　俺は[H名]と違うのにするから、ちょっとずつ交換して、味比べしようよ」=“What are you gonna go with, [H]? I'll go with something different, so that we can try out both.”
+「[H名]はどれにする？　俺は[H名]と違うのにするから、ちょっとずつ交換して、味比べしようよ」=“What are you gonna go with, [H名]? I'll go with something different, so that we can try out both.”
 「おっ、それいいな。うーん、じゃあ、あたしはっと……」=“Oh--, that sounds nice. Nnnn, then, I guess I'll...”
 ………………=.........
 「キャラメル味にしてみた。ほら、サービスでたくさんキャラメルかけてくれたぞ。んへへっ」=“I went with Caramel. Look, they heaped on so much extra just for me. Nnheheh--”

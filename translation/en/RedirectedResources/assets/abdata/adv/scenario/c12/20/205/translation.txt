@@ -21,7 +21,7 @@
 「うぅっ、なんか凄くそれっぽい文章だな……女の方と違って、欲望に忠実というか……ぁはは……」=“Uuuu--, that basically screams... unlike the female version, it sure is more honest with its desires... ahahah...”
 「まぁ、男はそういう生き物だからね……幻滅した？」=“Well, that's just how men are... disillusioned?”
 「んふっ、してないよ。とりあえず、本の話はこれくらいにして……よいしょっと……」=“Nnfuh--, not at all. Anyways, forget about those books and... here we go...”
-「あっ……[H名]、す、凄く近いね……」=“Ah--... Y-You sure are close, [H]...”
+「あっ……[H名]、す、凄く近いね……」=“Ah--... Y-You sure are close, [H名]...”
 「そ、そうだな、近いな……おまえの体温がじわって伝わってきて……なんか頭がふわふわする」=“Y-Yeah, I sure am... your warmth is seeping into me... my head feels so light.”
 「俺も同じ感じ……ふわふわし過ぎて、頭沸騰しそう」=“Same here... so light, I feel like it's gonna boil over.”
 「ちょ、ちょっと夜景でも見て、ゆっくりしよう。元々、そのために乗ったんだし」=“L-Let's look at the view, and take it easy. That's why we got on, afterall.”
@@ -48,7 +48,7 @@
 「だな。少しすれば、お互い落ち着くと思うから……それまでは目を合わせるの禁止な？　今はその……色々まずい」=“Yeah. I think we'll both feel more calm, after a bit so... no looking into each other's eyes until then, okay? It's gonna... not end well.”
 「わかった……落ち着くまでは、景色を見ているという事で……」=“Got it... let's just savour the view, until we both settle down...”
 ………………=.........
-「……[H名]、落ち着いた？」=“...[H], feel better?”
+「……[H名]、落ち着いた？」=“...[H名], feel better?”
 「ぅ、うん……ちょっとはな……おまえはどうなんだ？」=“Y-Yeah... a little bit... what about you?”
 「俺もちょっとだけ……でも、さっきよりはかなりマシだと思う」=“Same here... but, it's a lot better than before.”
 「あはっ、なんか無駄にドタバタして……普通のカップルから見たら笑われるかもしれないけど、あたし達らしいな」=“Ahah--, we're such a mess... any other couple looking at us would probably laugh but, this is perfectly on-brand for us, isn't it?”
