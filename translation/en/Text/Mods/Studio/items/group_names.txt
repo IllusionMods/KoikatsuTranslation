@@ -1,5 +1,5 @@
 //
-// Dumped for Koikatsu v5.1 (CharaStudio) by KK_ModTextDump v0.7.0.1
+// Dumped for Koikatsu v5.0 (CharaStudio) by KK_ModTextDump v0.7.0.1
 //
 
 #set exe CharaStudio
@@ -8,3 +8,4 @@
 [ymd] 演出=[ymd] Effects
 [ymd] 大道具=[ymd] Large Props
 [ymd] 小道具=[ymd] Small Props
+//アクセサリー=

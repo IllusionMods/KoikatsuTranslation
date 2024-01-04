@@ -1,0 +1,9 @@
+//
+// Dumped for Koikatsu v5.0 (CharaStudio) by KK_ModTextDump v0.7.0.1
+//
+
+#set exe CharaStudio
+
+机=Desk
+椅子=Chair
+仕切り=Dividers

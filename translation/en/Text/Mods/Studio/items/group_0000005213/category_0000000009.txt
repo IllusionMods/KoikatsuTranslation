@@ -1,0 +1,22 @@
+//
+// Dumped for Koikatsu v5.0 (CharaStudio) by KK_ModTextDump v0.7.0.1
+//
+
+#set exe CharaStudio
+
+
+// studio/sui/TD_daoju1.unity3d
+//BH_希儿镰=BH_ rare 镰
+//BH_魔法球=
+//TD_可可利亚枪=
+//TD_吉他=
+//TD_呜呜=Td_ 呜呜
+//TD_呜呜2=Td_ 呜呜 2
+//TD_呜呜3=Td_ 呜呜 3
+//TD_幻扇=
+//TD_纸鸾=Td_ 纸鸾
+//TD_镜流剑1=TD_ 镜 镜 剑 1
+//TD_镜流剑2=TD_ 镜 镜 镜 剑 2
+//TD_驭空弓=TD_ 驭 Sky bow
+//TD_驭空箭=TD_ 驭 Hanagiya
+//TD_鸭枪=Td_ 鸭枪

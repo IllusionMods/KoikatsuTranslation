@@ -1,0 +1,665 @@
+//
+// Dumped for Koikatsu v5.0 (CharaStudio) by KK_ModTextDump v0.7.0.1
+//
+
+#set exe CharaStudio
+
+
+// chara/08/ao_face_08.unity3d
+バフォメットの仮面=Mask of Baphomet
+モノクル(右)=Monocle (R)
+モノクル(左)=Monocle (L)
+
+// chara/anse/anse_side_tail_hair_f.unity3d
+//あんせ ルーズサイドテール(前髪)=
+
+// chara/bang_m.unity3d
+M字バング=M-Shaped Bangs
+M字バング(両外)=M-Shaped Bangs (Both Sides)
+M字バング(中央)=M-Shaped Bangs (Center)
+M字バング(前)=M-Shaped Bangs (Front)
+M字バング(右内)=M-Shaped Bangs (Innner R)
+M字バング(右外)=M-Shaped Bangs (Outter R)
+M字バング(左内)=M-Shaped Bangs (Inner L)
+M字バング(左外)=M-Shaped Bangs (Outter L)
+
+// chara/curve_kinoko.unity3d
+カーブきのこ=Curved Mushroom
+カーブきのこ(両側)=Curved Mushroom (Both Sides)
+カーブきのこ(中央)=Curved Mushroom (Center)
+カーブきのこ(右側)=Curved Mushroom (R)
+カーブきのこ(左側)=Curved Mushroom (L)
+
+// chara/deathweasel/acc_bo_hair_f_00.unity3d
+M字バング(右)=M-Shaped Bangs (R)
+M字バング(左)=M-Shaped Bangs (L)
+M字バングストレート(右)=M-Shaped Straight Bangs (R)
+M字バングストレート(左)=M-Shaped Straight Bangs (L)
+おかっぱ(右)=Bobbed (R)
+おかっぱ(右) A=Bobbed (R) A
+おかっぱ(右) B=Bobbed (R) B
+おかっぱ(右) C=Bobbed (R) C
+おかっぱ(右) D=Bobbed (R) D
+おかっぱ(右) E=Bobbed (R) E
+おかっぱ(右) F=Bobbed (R) F
+おかっぱ(右) G=Bobbed (R) G
+おかっぱ(左)=Bobbed (L)
+おかっぱ(左) A=Bobbed (L) A
+おかっぱ(左) B=Bobbed (L) B
+おかっぱ(左) C=Bobbed (L) C
+おかっぱ(左) D=Bobbed (L) D
+おかっぱ(左) E=Bobbed (L) E
+おかっぱ(左) F=Bobbed (L) F
+おかっぱ(左) G=Bobbed (L) G
+お嬢様分け(右)=Ojousama Parted (R)
+お嬢様分け(右) A=Ojousama Parted (R) A
+お嬢様分け(右) B=Ojousama Parted (R) B
+お嬢様分け(右) C=Ojousama Parted (R) C
+お嬢様分け(右) D=Ojousama Parted (R) D
+お嬢様分け(右) E=Ojousama Parted (R) E
+お嬢様分け(右) F=Ojousama Parted (R) F
+お嬢様分け(左)=Ojousama Parted (L)
+お嬢様分け(左) A=Ojousama Parted (L) A
+お嬢様分け(左) B=Ojousama Parted (L) B
+お嬢様分け(左) C=Ojousama Parted (L) C
+お嬢様分け(左) D=Ojousama Parted (L) D
+お嬢様分け(左) E=Ojousama Parted (L) E
+お嬢様分け(左) F=Ojousama Parted (L) F
+きのこヘア(右)=Mushroom (R)
+きのこヘア(左)=Mushroom (L)
+くせストレート(右)=Curled Straight (R)
+くせストレート(左)=Curled Straight (L)
+でこだし=Forehead-Showing
+でこだしウェーブ=Wavy Forehead-Showing
+でこだし横流し(右)=Forehead-Showing Sideswept (R)
+でこだし横流し(左)=Forehead-Showing Sideswept (L)
+アイドルカット(左)=Idol Cut (L)
+アイドルカット（右)=Idol Cut (R)
+ウェーブロング(右)=Wavy Long (R)
+ウェーブロング(右) A=Wavy Long (R) A
+ウェーブロング(右) B=Wavy Long (R) B
+ウェーブロング(右) C=Wavy Long (R) C
+ウェーブロング(右) D=Wavy Long (R) D
+ウェーブロング(右) E=Wavy Long (R) E
+ウェーブロング(右) F=Wavy Long (R) F
+ウェーブロング(右) G=Wavy Long (R) G
+ウェーブロング(左)=Wavy Long (L)
+ウェーブロング(左) A=Wavy Long (L) A
+ウェーブロング(左) B=Wavy Long (L) B
+ウェーブロング(左) C=Wavy Long (L) C
+ウェーブロング(左) D=Wavy Long (L) D
+ウェーブロング(左) E=Wavy Long (L) E
+ウェーブロング(左) F=Wavy Long (L) F
+ウェーブロング(左) G=Wavy Long (L) G
+ショートヘア(右)=Short Hair (R)
+ショートヘア(左)=Short Hair (L)
+ストレート(右)=Straight (R)
+ストレート(右) A=Straight (R) A
+ストレート(右) B=Straight (R) B
+ストレート(右) C=Straight (R) C
+ストレート(左)=Straight (L)
+ストレート(左) A=Straight (L) A
+ストレート(左) B=Straight (L) B
+ストレート(左) C=Straight (L) C
+ボーイッシュ(右)=Tomboy (R)
+ボーイッシュ(左)=Tomboy (L)
+中分ヘア(右)=Even Split (R)
+中分ヘア(右) A=Even Split (R) A
+中分ヘア(右) B=Even Split (R) B
+中分ヘア(右) C=Even Split (R) C
+中分ヘア(右) D=Even Split (R) D
+中分ヘア(右) E=Even Split (R) E
+中分ヘア(左)=Even Split (L)
+中分ヘア(左) A=Even Split (L) A
+中分ヘア(左) B=Even Split (L) B
+中分ヘア(左) C=Even Split (L) C
+中分ヘア(左) D=Even Split (L) D
+中分ヘア(左) E=Even Split (L) E
+切りっぱなし(右)=Untrimmed (R)
+切りっぱなし(右) A=Untrimmed (R) A
+切りっぱなし(右) B=Untrimmed (R) B
+切りっぱなし(右) C=Untrimmed (R) C
+切りっぱなし(右) D=Untrimmed (R) D
+切りっぱなし(右) E=Untrimmed (R) E
+切りっぱなし(左)=Untrimmed (L)
+切りっぱなし(左) A=Untrimmed (L) A
+切りっぱなし(左) B=Untrimmed (L) B
+切りっぱなし(左) C=Untrimmed (L) C
+切りっぱなし(左) D=Untrimmed (L) D
+切りっぱなし(左) E=Untrimmed (L) E
+前おさげ(右)=Twintail Bangs (R)
+前おさげ(左)=Twintail Bangs (L)
+前下がりボブ(右)=Low Parted Bob (R)
+前下がりボブ(右) A=Low Parted Bob (R) A
+前下がりボブ(右) B=Low Parted Bob (R) B
+前下がりボブ(右) C=Low Parted Bob (R) C
+前下がりボブ(右) D=Low Parted Bob (R) D
+前下がりボブ(右) E=Low Parted Bob (R) E
+前下がりボブ(左)=Low Parted Bob (L)
+前下がりボブ(左) A=Low Parted Bob (L) A
+前下がりボブ(左) B=Low Parted Bob (L) B
+前下がりボブ(左) C=Low Parted Bob (L) C
+前下がりボブ(左) D=Low Parted Bob (L) D
+前下がりボブ(左) E=Low Parted Bob (L) E
+姫カット(右)=Princess Cut (R)
+姫カット(右) A=Princess Cut (R) A
+姫カット(右) B=Princess Cut (R) B
+姫カット(右) C=Princess Cut (R) C
+姫カット(右) D=Princess Cut (R) D
+姫カット(右) E=Princess Cut (R) E
+姫カット(左)=Princess Cut (L)
+姫カット(左) A=Princess Cut (L) A
+姫カット(左) B=Princess Cut (L) B
+姫カット(左) C=Princess Cut (L) C
+姫カット(左) D=Princess Cut (L) D
+姫カット(左) E=Princess Cut (L) E
+横はねカール(右)=Swept-Out Curl (R)
+横はねカール(右) A=Swept-Out Curl (R) A
+横はねカール(右) B=Swept-Out Curl (R) B
+横はねカール(右) C=Swept-Out Curl (R) C
+横はねカール(右) D=Swept-Out Curl (R) D
+横はねカール(左)=Swept-Out Curl (L)
+横はねカール(左) A=Swept-Out Curl (L) A
+横はねカール(左) B=Swept-Out Curl (L) B
+横はねカール(左) C=Swept-Out Curl (L) C
+横はねカール(左) D=Swept-Out Curl (L) D
+横分けぱっつん(右)=Parted Trimmed Bangs (R)
+横分けぱっつん(左)=Parted Trimmed Bangs (L)
+横分けヘア(右)=Sideswept Parted (R)
+横分けヘア(左)=Sideswept Parted (L)
+横流しヘア(左)=Sideswept (L)
+横流しヘア（右)=Sideswept (R)
+片目隠し(右)=Covering Eye (R)
+片目隠し(左)=Covering Eye (L)
+縦巻きロール(右)=Drill Rolls (R)
+縦巻きロール(左)=Drill Rolls (L)
+
+// chara/deathweasel/acc_bo_hair_f_06.unity3d
+ハネぱっつん=Straight Bangs, Swept Up
+
+// chara/deathweasel/acc_bo_hair_f_08.unity3d
+ぱっつんエアインテーク=Straight-Cut, Air Intake
+
+// chara/deathweasel/acc_bo_hair_f_09.unity3d
+ナイトバング=Knight Bangs
+
+// chara/deathweasel/acc_bo_hair_f_10.unity3d
+くせっ毛ショート前=Short, Curled Bangs
+ゆるふわボブ前=Loose Fluffy Bobbed Bangs
+中分けぱっつん=Medium Straight-Cut Bangs
+中分けぱっつん A=Medium Straight-Cut Bangs A
+中分けぱっつん B=Medium Straight-Cut Bangs B
+
+// chara/deathweasel/acc_bo_hair_f_11.unity3d
+アップバング=Upward Swept Bangs
+ウェーブショート=Wavy Short
+
+// chara/deathweasel/acc_bo_hair_f_12.unity3d
+でこジャギー=Jagged Forehead
+でこジャギー A=Jagged Forehead A
+でこジャギー B=Jagged Forehead B
+でこジャギー C=Jagged Forehead C
+でこジャギー D=Jagged Forehead D
+でこジャギー E=Jagged Forehead E
+でこジャギー F=Jagged Forehead F
+でこジャギー G=Jagged Forehead G
+ふわカール=Fluffy Curled
+ふわカール A=Fluffy Curled A
+ふわカール B=Fluffy Curled B
+ふわカール C=Fluffy Curled C
+ふわカール D=Fluffy Curled D
+ハネミディアム=Medium Bangs, Swept Up
+ハネミディアム A=Medium Bangs, Swept Up A
+ハネミディアム B=Medium Bangs, Swept Up B
+ハネミディアム C=Medium Bangs, Swept Up C
+ハネミディアム D=Medium Bangs, Swept Up D
+ハネミディアム E=Medium Bangs, Swept Up E
+斜めぱっつん(右)=Slanting Straight-Cut Bangs (Right)
+斜めぱっつん(左)=Slanting Straight-Cut Bangs (Left)
+
+// chara/deathweasel/acc_bo_hair_f_13.unity3d
+ウェーブロング=Wavy Long
+ウェーブロング A=Wavy Long A
+ウェーブロング B=Wavy Long B
+ウェーブロング C=Wavy Long C
+ウェーブロング D=Wavy Long D
+サイドカール=Side Curl
+スパイキー前=Spiky Bangs
+スパイキー前 A=Spiky Bangs A
+スパイキー前 B=Spiky Bangs B
+スパイキー前 D=Spiky Bangs D
+スパイキー前 E=Spiky Bangs E
+中分けミディアム=Medium, Middle Parted
+中分けミディアム A=Medium, Middle Parted A
+中分けミディアム B=Medium, Middle Parted B
+中分けミディアム C=Medium, Middle Parted C
+中分けミディアム D=Medium, Middle Parted D
+
+// chara/deathweasel/acc_bo_hair_f_20.unity3d
+ストレートカール前=Straight, Curled Bangs
+撫でつけ(右)=Smoothed Down (Right)
+撫でつけ(左)=Smoothed Down (Left)
+横ハネ=Horizontal Wings
+横ハネ A=Horizontal Wings A
+横ハネ B=Horizontal Wings B
+横ハネ C=Horizontal Wings C
+横ハネ D=Horizontal Wings D
+横ハネ E=Horizontal Wings E
+横ハネ F=Horizontal Wings F
+横ハネ G=Horizontal Wings G
+横長くせっ毛=Horizontal Frizzy Hair
+横長くせっ毛 A=Horizontal Frizzy Hair A
+横長くせっ毛 B=Horizontal Frizzy Hair B
+横長くせっ毛 C=Horizontal Frizzy Hair C
+横長くせっ毛 D=Horizontal Frizzy Hair D
+横長くせっ毛 E=Horizontal Frizzy Hair E
+横長くせっ毛 F=Horizontal Frizzy Hair F
+横長くせっ毛 G=Horizontal Frizzy Hair G
+横長くせっ毛 H=Horizontal Frizzy Hair H
+横長くせっ毛 I=Horizontal Frizzy Hair I
+横長くせっ毛 J=Horizontal Frizzy Hair J
+横長くせっ毛 K=Horizontal Frizzy Hair K
+横長くせっ毛 L=Horizontal Frizzy Hair L
+横長くせっ毛 M=Horizontal Frizzy Hair M
+横長くせっ毛 N=Horizontal Frizzy Hair N
+横長くせっ毛 O=Horizontal Frizzy Hair O
+横長ぱっつん=Oblong Straight-Cut Bangs
+横長ぱっつん A=Oblong Straight-Cut Bangs A
+横長ぱっつん B=Oblong Straight-Cut Bangs B
+横長ぱっつん C=Oblong Straight-Cut Bangs C
+横長ぱっつん D=Oblong Straight-Cut Bangs D
+横長ぱっつん E=Oblong Straight-Cut Bangs E
+
+// chara/deathweasel/acc_bo_hair_f_50.unity3d
+つんショート前=Short, Spiky Bangs
+アシンメトリー前=Asymmetrical Bangs
+アシンメトリー前 A=Asymmetrical Bangs A
+アシンメトリー前 B=Asymmetrical Bangs B
+アシンメトリー前 C=Asymmetrical Bangs C
+アシンメトリー前 D=Asymmetrical Bangs D
+アシンメトリー前 E=Asymmetrical Bangs E
+エアリーボブ前(右)=Airy Bob Bangs (R)
+エアリーボブ前(右) A=Airy Bob Bangs (R) A
+エアリーボブ前(右) B=Airy Bob Bangs (R) B
+エアリーボブ前(右) C=Airy Bob Bangs (R) C
+エアリーボブ前(右) D=Airy Bob Bangs (R) D
+エアリーボブ前(右) E=Airy Bob Bangs (R) E
+エアリーボブ前(左)=Airy Bob Bangs (L)
+エアリーボブ前(左) A=Airy Bob Bangs (L) A
+エアリーボブ前(左) B=Airy Bob Bangs (L) B
+エアリーボブ前(左) C=Airy Bob Bangs (L) C
+エアリーボブ前(左) D=Airy Bob Bangs (L) D
+エアリーボブ前(左) E=Airy Bob Bangs (L) E
+カーリーショート前=Curly, Short Bangs
+シトリーフロント=Sitri Front
+シトリーフロント A=Sitri Front A
+シトリーフロント B=Sitri Front B
+シトリーフロント C=Sitri Front C
+シトリーフロント D=Sitri Front D
+シトリーフロント E=Sitri Front E
+シトリーフロント F=Sitri Front F
+シトリーフロント G=Sitri Front G
+シトリーフロント H=Sitri Front H
+シトリーフロント I=Sitri Front I
+ドッグイヤー=Dog-Eared
+ミディアムストレート=Medium Straight
+ミディアムストレート A=Medium Straight A
+ミディアムストレート B=Medium Straight B
+ミディアムストレート C=Medium Straight C
+ミディアムストレート D=Medium Straight D
+ミディアムストレート E=Medium Straight E
+中分けデコ出し=Divided, Forehead-Exposing
+中分けデコ出し A=Divided, Forehead-Exposing A
+中分けデコ出し B=Divided, Forehead-Exposing B
+中分けデコ出し C=Divided, Forehead-Exposing C
+中分けデコ出し D=Divided, Forehead-Exposing D
+中分けデコ出し E=Divided, Forehead-Exposing E
+中分けデコ出し F=Divided, Forehead-Exposing F
+中分けデコ出し G=Divided, Forehead-Exposing G
+横分けショート前=Horizontal Divided, Short
+
+// chara/deathweasel/acc_bo_hair_f_ryl.unity3d
+すまいるアシメ(右)=Sumire Asime (R)
+すまいるアシメ(左)=Sumai Asime (L)
+ぷらいどショート=Puraidoh Short
+りりっくショート=Rikku Short
+
+// chara/deathweasel/acc_bo_hair_s.unity3d
+おさげ=Twintails
+おさげ L=Twintails L
+おさげ R=Twintails R
+はねロング=Feathered Long
+はねロング L=Feathered Long L
+はねロング R=Feathered Long R
+ふとロング=Thick And Long
+ふとロング L=Thick And Long L
+ふとロング R=Thick And Long R
+ほそロング=Fine And Long
+ほそロング L=Fine And Long L
+ほそロング R=Fine And Long R
+ウェーブロング L=Wavy Long L
+ウェーブロング R=Wavy Long R
+太い=Thick
+太い L=Thick L
+太い R=Thick R
+
+// chara/flipped_patsun.unity3d
+ハネぱっつん(両外)=Straight Bangs, Swept Up (Both Sides)
+ハネぱっつん(両外前)=Straight Bangs, Swept Up (In Front Of Both Sides)
+ハネぱっつん(両外後)=Straight Bangs, Swept Up (After Both Sides)
+ハネぱっつん(中央)=Straight Bangs, Swept Up (Center)
+ハネぱっつん(前)=Straight Bangs, Swept Up (Previous)
+ハネぱっつん(前右)=Straight Bangs, Swept Up (Front R)
+ハネぱっつん(前左)=Straight Bangs, Swept Up (Front L)
+ハネぱっつん(右外前上)=Straight Bangs, Swept Up (R Outer Front Upper)
+ハネぱっつん(右外前下)=Straight Bangs, Swept Up (R Outer Front Lower)
+ハネぱっつん(右外後)=Straight Bangs, Swept Up (R Lateral Posterior)
+ハネぱっつん(左外前上)=Straight Bangs, Swept Up (L Outer Front Upper)
+ハネぱっつん(左外前下)=Straight Bangs, Swept Up (L Outer Front Lower)
+ハネぱっつん(左外後)=Straight Bangs, Swept Up (L Lateral Rear)
+
+// chara/idol_cut.unity3d
+アイドルカット(左両外)=Idle Cut (L Both Sides)
+アイドルカット(左前)=Idle Cut (L Front)
+アイドルカット(左外右)=Idle Cut (L Outside R)
+アイドルカット(左外左)=Idle Cut (L Out L)
+
+// chara/idol_cut_i.unity3d
+アイドルカット(右)=Idle Cut (R)
+アイドルカット(右両外)=Idle Cut (R Outside)
+アイドルカット(右前)=Idle Cut (Front R)
+アイドルカット(右外右)=Idle Cut (R Outside R)
+アイドルカット(右外左)=Idle Cut (R Outside L)
+
+// chara/kinoko_hair.unity3d
+きのこヘア=Mushroom
+きのこヘア(両外)=Mushroom (Both Sides)
+きのこヘア(前)=Mushroom (Previous)
+きのこヘア(外右)=Mushroom (Outside R)
+きのこヘア(外左)=Mushroom (Outside L)
+
+// chara/kinoko_hair_i.unity3d
+きのこヘア(逆)=Mushroom (Reverse)
+きのこヘア(逆両外)=Mushroom (Reverse Both Sides)
+きのこヘア(逆前)=Mushroom (Reverse)
+きのこヘア(逆前右)=Mushroom (Reverse Front R)
+きのこヘア(逆前左)=Mushroom (Reverse Front L)
+きのこヘア(逆外右)=Mushroom (Reverse R)
+きのこヘア(逆外左)=Mushroom (Reverse L)
+
+// chara/knight_bang.unity3d
+//ナイトバング(横両)=
+//ナイトバング(横右)=
+//ナイトバング(横左)=
+//ナイトバング(頂全)=
+//ナイトバング(頂内)=
+//ナイトバング(頂内中)=
+//ナイトバング(頂内右)=
+//ナイトバング(頂内左)=
+//ナイトバング(頂外両)=
+//ナイトバング(頂外右)=
+//ナイトバング(頂外左)=
+
+// chara/koi_ao_face_00.unity3d
+狐の面=Fox Mask
+
+// chara/mod_zmr/mf_acchairF_zmr.unity3d
+でこだしA=Forehead A
+ぱっつんA=Parted Hair A
+ぱっつんB=Flat Hair B
+
+// chara/mod_zmr/mf_acchairS_zmr.unity3d
+サイドA=Side A
+
+// chara/patsun_air_intake.unity3d
+ぱっつんエアインテーク(両外)=Straight-Cut, Air Intake (Both Sides)
+ぱっつんエアインテーク(両外伸)=Straight-Cut, Air Intake (Both Outside Extension)
+ぱっつんエアインテーク(内)=Straight-Cut, Air Intake (Inner)
+ぱっつんエアインテーク(前)=Straight-Cut, Air Intake (Previous)
+ぱっつんエアインテーク(右外)=Straight-Cut, Air Intake (Outer R)
+ぱっつんエアインテーク(右外伸)=Straight-Cut, Air Intake (R Extension)
+ぱっつんエアインテーク(左外)=Straight-Cut, Air Intake (Outer L)
+ぱっつんエアインテーク(左外伸)=Straight-Cut, Air Intake (L Extension)
+
+// chara/short_hair.unity3d
+ショートヘア=Short Hair
+ショートヘア(両外)=Right Short, Long Left (Both Sides)
+ショートヘア(中央)=Right Short, Long Left (Center)
+ショートヘア(前)=Right Short, Long Left (Previous)
+ショートヘア(右中)=Right Short, Long Left (Middle R)
+ショートヘア(右内)=Right Short, Long Left (Inner R)
+ショートヘア(右外)=Right Short, Long Left (Outer R)
+ショートヘア(左中)=Right Short, Long Left (Middle L)
+ショートヘア(左内)=Right Short, Long Left (Inner L)
+ショートヘア(左外)=Right Short, Long Left (Outer L)
+
+// chara/short_hair_i.unity3d
+ショートヘア(逆)=Right Short, Long Left (Reverse)
+ショートヘア(逆両外)=Right Short, Long Left (Reverse Both Sides)
+ショートヘア(逆中央)=Right Short, Long Left (Reverse Center)
+ショートヘア(逆前)=Right Short, Long Left (Reverse)
+ショートヘア(逆右中)=Right Short, Long Left (Reverse R Center)
+ショートヘア(逆右内)=Right Short, Long Left (Reverse R Inside)
+ショートヘア(逆右外)=Right Short, Long Left (Reverse R Outside)
+ショートヘア(逆左中)=Right Short, Long Left (Reverse L Middle)
+ショートヘア(逆左内)=Right Short, Long Left (Reverse L Inside)
+ショートヘア(逆左外)=Right Short, Long Left (Reverse L Out)
+
+// chara/side_curl.unity3d
+サイドカール(両側)=Side Curl (Both Sides)
+サイドカール(前)=Side Curl (Previous)
+サイドカール(右側)=Side Curl (R Side)
+サイドカール(左側)=Side Curl (L)
+
+// chara/slant_patsun.unity3d
+斜めぱっつん(右両外)=Cropped at Sides (R Outside)
+斜めぱっつん(右前)=Cropped at Sides (Front R)
+斜めぱっつん(右前中)=Cropped at Sides (R Front Middle)
+斜めぱっつん(右前右)=Cropped at Sides (R Front R)
+斜めぱっつん(右前左)=Cropped at Sides (R Front L)
+斜めぱっつん(右外右)=Cropped at Sides (R Outside R)
+斜めぱっつん(右外左)=Cropped at Sides (R Outside L)
+
+// chara/slant_patsun_i.unity3d
+斜めぱっつん(左両外)=Cropped at Sides (L Both Sides)
+斜めぱっつん(左前)=Cropped at Sides (L Front)
+斜めぱっつん(左前中)=Cropped at Sides (L Front Center)
+斜めぱっつん(左前右)=Cropped at Sides (L Front R)
+斜めぱっつん(左前左)=Cropped at Sides (L Front L)
+斜めぱっつん(左外右)=Cropped at Sides (L Outside R)
+斜めぱっつん(左外左)=Cropped at Sides (L Out L)
+
+// chara/soft_bob_front.unity3d
+ゆるふわボブ前(中)=Loose Fluffy Bobbed Bangs (During)
+ゆるふわボブ前(中全)=Loose Fluffy Bobbed Bangs (Center Full)
+ゆるふわボブ前(中右)=Loose Fluffy Bobbed Bangs (Center R)
+ゆるふわボブ前(中左)=Loose Fluffy Bobbed Bangs (Center L)
+ゆるふわボブ前(内両)=Loose Fluffy Bobbed Bangs (Inner Both)
+ゆるふわボブ前(内全)=Loose Fluffy Bobbed Bangs (Internal)
+ゆるふわボブ前(内右)=Loose Fluffy Bobbed Bangs (Inner R)
+ゆるふわボブ前(内左)=Loose Fluffy Bobbed Bangs (Inner L)
+ゆるふわボブ前(外両)=Loose Fluffy Bobbed Bangs (Outer Car)
+ゆるふわボブ前(外右)=Loose Fluffy Bobbed Bangs (Outside R)
+ゆるふわボブ前(外左)=Loose Fluffy Bobbed Bangs (Outside L)
+
+// chara/straight_curl_front.unity3d
+ストレートカール前(両外)=Straight, Curled Bangs (Both Sides)
+ストレートカール前(前)=Straight, Curled Bangs (Previous)
+ストレートカール前(外右)=Straight, Curled Bangs (Outside R)
+ストレートカール前(外左)=Straight, Curled Bangs (Outside L)
+
+// chara/wave_short.unity3d
+//ウェーブショート(前両)=
+//ウェーブショート(前右)=
+//ウェーブショート(前左)=
+//ウェーブショート(撥右内)=
+//ウェーブショート(撥右外)=
+//ウェーブショート(撥左内)=
+//ウェーブショート(撥左外)=
+//ウェーブショート(横両)=
+//ウェーブショート(横右)=
+//ウェーブショート(横左)=
+
+// chara/wind_roll.unity3d
+縦巻きロール=Drill Rolls
+縦巻きロール(両外)=Drill Rolls (Both Sides)
+縦巻きロール(中央)=Drill Rolls (Center)
+縦巻きロール(前)=Drill Rolls (Previous)
+縦巻きロール(前右)=Drill Rolls (Front R)
+縦巻きロール(前左)=Drill Rolls (Front L)
+縦巻きロール(右外)=Drill Rolls (Outer R)
+縦巻きロール(左外)=Drill Rolls (Outer L)
+
+// chara/wind_roll_i.unity3d
+縦巻きロール(逆)=Drill Rolls (Reverse)
+縦巻きロール(逆両外)=Drill Rolls (Reverse Both Sides)
+縦巻きロール(逆中央)=Drill Rolls (Reverse Center)
+縦巻きロール(逆前)=Drill Rolls (Reverse)
+縦巻きロール(逆前右)=Drill Rolls (Reverse Front R)
+縦巻きロール(逆前左)=Drill Rolls (Reverse Front L)
+縦巻きロール(逆右外)=Drill Rolls (Reverse R Outside)
+縦巻きロール(逆左外)=Drill Rolls (Reverse L Out)
+
+// chara/xne/xne_ao_accmask.unity3d
+マスク改=Mask revision
+マスク改（open）=Mask Revision (Open)
+マスク改（フェラ）=Mask Revision (Blow)
+
+// chara/ymd/mf_acchairF.unity3d
+付け毛 おかっぱ 前=Hairpiece Okappa Front
+付け毛 おかっぱ 前逆=Hairpiece Okappa Front Reverse
+付け毛 おかっぱ 横=Hairpiece Okappa Side
+付け毛 ナイトバング=Hairpiece Night Bang
+
+// chara/ymd/mf_acchairF2.unity3d
+付け毛 01A=Hairpiece 01A
+付け毛 01B=Hairpiece 01B
+付け毛 05=Hairpiece 05
+付け毛 06A=Hairpiece 06A
+付け毛 06B=Hairpiece 06B
+付け毛 07A=Hairpiece 07A
+付け毛 07B=Hairpiece 07B
+付け毛 08=Hairpiece 08
+付け毛 09A=Hairpiece 09A
+付け毛 09B=Hairpiece 09B
+付け毛 09C=Hairpiece 09C
+付け毛 102A=Hairpiece 102A
+付け毛 102B=Hairpiece 102B
+付け毛 102C=Hairpiece 102C
+付け毛 103=Hairpiece 103
+付け毛 105A=Hairpiece 105A
+付け毛 106A=Hairpiece 106A
+付け毛 107A=Hairpiece 107A
+付け毛 107B=Hairpiece 107B
+付け毛 10A=Hairpiece 10A
+付け毛 10B=Hairpiece 10B
+付け毛 10C=Hairpiece 10C
+付け毛 13A=Hairpiece 13A
+付け毛 13B=Hairpiece 13B
+付け毛 13C=Hairpiece 13C
+付け毛 13D=Hairpiece 13D
+付け毛 13E=Hairpiece 13E
+付け毛 13F=Hairpiece 13F
+付け毛 14=Hairpiece 14
+付け毛 18A=Hairpiece 18A
+付け毛 18B=Hairpiece 18B
+付け毛 19A=Hairpiece 19A
+付け毛 19B=Hairpiece 19B
+付け毛 20A=Hairpiece 20A
+付け毛 20Ainv=Hairpiece 20Ainv
+付け毛 20B=Hairpiece 20B
+付け毛 20C=Hairpiece 20C
+付け毛 21A=Hairpiece 21A
+付け毛 21B=Hairpiece 21B
+付け毛 22A=Hairpiece 22A
+付け毛 22B=Hairpiece 22B
+付け毛 22C=Hairpiece 22C
+付け毛 23A=Hairpiece 23A
+付け毛 23B=Hairpiece 23B
+付け毛 23C=Hairpiece 23C
+付け毛 23D=Hairpiece 23D
+付け毛 24B=Hairpiece 24B
+付け毛 24C=Hairpiece 24C
+付け毛 25A=Hairpiece 25A
+付け毛 25B=Hairpiece 25B
+付け毛 25C=Hairpiece 25C
+付け毛 26A=Hairpiece 26A
+付け毛 26B=Hairpiece 26B
+付け毛 26C=Hairpiece 26C
+付け毛 33A=Hairpiece 33A
+付け毛 33B=Hairpiece 33B
+付け毛 33C=Hairpiece 33C
+付け毛 33D=Hairpiece 33D
+付け毛 33E=Hairpiece 33E
+付け毛 33F=Hairpiece 33F
+付け毛 33G=Hairpiece 33G
+付け毛 33H=Hairpiece 33H
+
+// chara/ymd/mf_acchairS.unity3d
+付け毛 ナイトバングs=Hairpiece Night Bangs
+
+// chara/ymd/mf_acchairS2.unity3d
+付け毛 ナイトバングs L=Hairpiece Night Bangs L
+付け毛 ナイトバングs R=Hairpiece Night Bangs R
+
+// chara/ymgpt/ymgpt_ao_face_earrings_top.unity3d
+クローバー(トップ)=Clover (Top)
+スター(トップ)=Star (Top)
+スペード(トップ)=Spade (Top)
+ソードスカル(トップ)=Sword Skull (Top)
+ダイア(トップ)=Diamond (Top)
+ハートA(トップ)=Heart A (Top)
+ハートB(トップ)=Heart B (Top)
+ビッグスター(トップ)=Big Star (Top)
+ムーン(トップ)=Moon (Top)
+土星(トップ)=Saturn (Top)
+雫(トップ)=Drops (Top)
+
+// chara/zeta/sunshineacc.unity3d
+Sunshine FH 2 - �؂葵���A�V�����g���o���O=Sunshine FH 2 - ???
+Sunshine FH 6 - �؂葵���T�C�h�J�[��=Sunshine FH 6 - ???
+
+// chara/_mods/chloe5.unity3d
+ヘルメット=Baseball Helmet
+
+// chara/_mods/chloe8.unity3d
+//ヘルメット2=
+
+// chara/_mods/ituki3.unity3d
+いつき髪 前横=Mitsuki Hair Front Side
+
+// chara/_mods/ituki4.unity3d
+いつき髪 前=Itsuki Hair Front
+
+// chara/_mods/lunamaria3.unity3d
+//ザフトヘルメット=
+
+// chara/_mods/makinami2.unity3d
+真希波アンダーリム=Makinami Underlimb
+
+// chara/_mods/Mine4.unity3d
+マインイヤリング=Mine Earring
+
+// chara/_mods/muvluv05.unity3d
+99式衛士強化装備顔=Type 99 Pilot Fortified Suit (Face)
+
+// chara/_mods/muvluv06.unity3d
+冥夜インテーク=Underworld Intake
+
+// chara/_mods/muvluv07.unity3d
+ぱっつんポニーテール=Ponytail
+
+// chara/_mods/natumi6.unity3d
+ゴーグル=Goggles
+
+// chara/_mods/rider.unity3d
+ライダーマスク=Rider Mask
+
+// chara/_mods/shy08.unity3d
+//SHYアイマスク=
+
+// chara/_mods/takamura4.unity3d
+衛士強化装備顔=Pilot Fortified Suit (Face)
+
+// chara/_mods/watanabe2.unity3d
+付け毛 ヨーソロー前=Hairpiece Before Yozora

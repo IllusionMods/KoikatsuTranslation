@@ -1,9 +1,12 @@
 //
-// Dumped for Koikatsu v5.1 (CharaStudio) by KK_ModTextDump v0.7.0.1
+// Dumped for Koikatsu v5.0 (CharaStudio) by KK_ModTextDump v0.7.0.1
 //
 
 #set exe CharaStudio
 
+
+// studio/illusionmods/map/jinse.unity3d
+//金色暖阳-stage-55=
 
 // studio/illusionmods/map/xiarizixun1.unity3d
 夏日咨询-天气晴=Summer Advisory - Sunny Weather

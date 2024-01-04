@@ -1,0 +1,104 @@
+//
+// Dumped for Koikatsu v5.0 (CharaStudio) by KK_ModTextDump v0.7.0.1
+//
+
+#set exe CharaStudio
+
+
+// chara/07/ao_neck_07.unity3d
+盗賊のマフラー =Thieves' scarf
+聖女の首飾り =Saint's necklace
+
+// chara/08/ao_neck_08.unity3d
+スカルブローチ=Skull brooch
+
+// chara/anse/anse_dogtag.unity3d
+//あんせ ドッグタグ=
+
+// chara/anse/anse_sailor_cheer_scarf_acs.unity3d
+セーラーチアスカーフ=Sailor Cheerleader Scarf
+
+// chara/anse/anse_sailor_dress_scarf_acs.unity3d
+セーラーワンピスカーフ(タイのみ)=Sailor One-piece Scarf (Thailand Only)
+
+// chara/ao_neck_nkt01.unity3d
+ルーズネクタイ=Loose necktie
+ルーズネックリボン１=Loose neck ribbon 1
+ルーズネックリボン２=Loose neck ribbon 2
+
+// chara/ao_neck_xmas.unity3d
+クリスマスベル=Christmas Bells
+
+// chara/gray/F_neck00_a.unity3d
+エキゾチックネックレス=Exotic necklace
+
+// chara/idol_onepiece.unity3d
+//アイドルワンピカラー=
+//アイドルワンピネクタイ=
+//アイドルワンピネクタイ(柄抜)=
+//アイドルワンピネクタイ(柄抜肩乗せ)=
+//アイドルワンピネクタイ(肩乗せ)=
+//アイドルワンピハート(右)=
+//アイドルワンピハート(左)=
+
+// chara/mf_alice.unity3d
+ネックレス[アリス]=Necklace [Alice].
+騎士のマント[アリス]=Knight's cloak [Alice].
+
+// chara/mf_alice_v2.unity3d
+ネックレス[アリス][SAO]=Necklace [Alice][SAO].
+整合騎士のマント[アリス][SAO]=Matching knight's cloak [Alice][SAO].
+
+// chara/mf_sinon.unity3d
+太陽神ソルス[SAO]=Solus, God of the Sun[SAO].
+
+// chara/mf_vladilena_milize_neck.unity3d
+レーナ[86-EIGHTY SIX-]=Raina [86-EIGHTY SIX-]
+
+// chara/mio.unity3d
+大神ミオ necktie=Ookami Mio necktie
+
+// chara/nin/nin_acs.unity3d
+えり巻き=necktie wrap
+くび巻き=Neck Wrap
+
+// chara/nin/nin_acs_01.unity3d
+えり巻き(調整2有)=necktie wrap (Adj 2)
+
+// chara/onepiece.unity3d
+ワンピースリボン(両肩)=One-piece Ribbon (Both Shoulders)
+ワンピースリボン(前)=One-piece Ribbon (Previous)
+ワンピースリボン(右肩)=One-piece Ribbon (R. Shoulder)
+ワンピースリボン(左肩)=One-piece Ribbon (L. Shoulder)
+ワンピースリボン(後)=One-piece Ribbon (Rear)
+
+// chara/roie/roie_accessories.unity3d
+マフラー無地（WBAccs）=Scarf plain (WBAccs)
+
+// chara/umy2.unity3d
+呜米Umy2公式服 neckwear=MeUmy 2 Official neckwear
+
+// chara/ymd/mf_accneckP.unity3d
+タイ=Tie
+チョーカー=Choker
+ドッグタグ=Dog tag
+リボンタイ=Ribbon Tie
+ルーズタイ=Loose Ties
+付けフード=Attached hood
+付けマント=attached cape
+十字架=Crucifix
+
+// chara/_mods/Gal_04.unity3d
+ロングリボン=Long ribbon
+
+// chara/_mods/sinon05.unity3d
+シノン腰のヤツ=Sinon waist guy
+
+// chara/_mods/sinon07.unity3d
+シノンマフラー=Sinon scarf
+
+// chara/_mods/takamura3.unity3d
+衛士強化装備首=Pilot Fortified Suit (Neck)
+
+// list/characustom/00_vkat02.unity3d
+エトワールブローチ=Star Choker

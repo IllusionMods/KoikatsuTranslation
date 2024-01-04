@@ -1,9 +1,15 @@
 //
-// Dumped for Koikatsu v5.1 (CharaStudio) by KK_ModTextDump v0.7.0.1
+// Dumped for Koikatsu v5.0 (CharaStudio) by KK_ModTextDump v0.7.0.1
 //
 
 #set exe CharaStudio
 
+
+// chara/_mods/chloe6.unity3d
+ヘルメット=Baseball Helmet
+
+// chara/_mods/chloe9.unity3d
+//ヘルメット2=
 
 // chara/_mods/mash3.unity3d
 ロード・カルデアス=Lord Chaldeans
