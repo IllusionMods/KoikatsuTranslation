@@ -2,7 +2,7 @@
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
 「ふぅ、だんだん、喉の調子が上がってきたわ。さ、次の曲は、何にしようかしら？」=“Fuu, my throat's finally warmed up. Now then, what song should I go with next?”
-「それにしても[H名]って歌、上手だねー。普段、練習とかしてるの？」=“You're pretty darn good at singing, huh, [H]? Do you do any practice or...?”
+「それにしても[H名]って歌、上手だねー。普段、練習とかしてるの？」=“You're pretty darn good at singing, huh, [H名]? Do you do any practice or...?”
 「ううん。でも家事とか勉強とか、何か作業をしてる時に、鼻歌をよく歌ってるって言われた事があるの」=“Nope. But people do tell me that whenever I'm doing chores at home, or studying or really just anything, I start singing songs.”
 「もしかしたら、それが関係してるかもしれないわね～」=“Maybe that has something to do with it~”
 「へー、そうなんだ」=“Hoh, I see.”

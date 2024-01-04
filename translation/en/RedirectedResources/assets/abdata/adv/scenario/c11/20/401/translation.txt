@@ -2,9 +2,9 @@
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
 「素敵な喫茶店ね～。すごく落ち着くわ」=“What a lovely cafe~. Such a calm atmosphere.”
-「うん、[H名]の大人びた雰囲気によく似合ってるよ」=“Yeah, it fits your mature air well, [H].”
+「うん、[H名]の大人びた雰囲気によく似合ってるよ」=“Yeah, it fits your mature air well, [H名].”
 「あらあら、ふふふ……そんなこと言われたら照れちゃうわね。お世辞じゃないといいけど……」=“My, fufufu... you're gonna make me blush, you know. Hopefully, that wasn't just some flattery...”
-「お世辞なんかじゃないよ。似合ってるって思うよ。けどさ、どうして[H名]ってそんなに大人っぽいの？」=“Not at all. I really do think it fits you. But, just why are you that mature anyway, [H]?”
+「お世辞なんかじゃないよ。似合ってるって思うよ。けどさ、どうして[H名]ってそんなに大人っぽいの？」=“Not at all. I really do think it fits you. But, just why are you that mature anyway, [H名]?”
 「んー……どうしてかしら？　最初から大人っぽかったわけじゃないと思うの」=“Hm... I wonder? I don't think I've always been this way, from the start.”
 「きっと大人っぽい人って思われたかったんじゃないかしら」=“I suppose because I must have wanted to seem more mature?”
 「どうして。そう思われたかったの？」=“And why's that? Why'd you want to seem more mature?”

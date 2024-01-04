@@ -11,7 +11,7 @@
 「へぇ、そうなんだね……それじゃあ」=“Hoh, that so... well then.”
 CHOICE:『セクシーな声を出す』=Bring out your sexy side.
 CHOICE:『疲れて声は出せないと伝える』=Tell her that your throat's done for.
-「……ねえ、[H名]、今日のキミは素敵だよ。こうして、同じ空間にいられることが嬉しくてしょうがなんだ」=“...Hey, [H]. You're absolutely lovely today. Just being able to spend time next to you like this, makes me so happy, I can't help it.”
+「……ねえ、[H名]、今日のキミは素敵だよ。こうして、同じ空間にいられることが嬉しくてしょうがなんだ」=“...Hey, [H名]. You're absolutely lovely today. Just being able to spend time next to you like this, makes me so happy, I can't help it.”
 「あらあら、まぁ……うふふ、予想してたより、ずっと素敵だわ」=“Oh, dearie me... Ufufu, this is even more wonderful, than I imagined.”
 「そうかな？　俺は、いつだって、こうしてるつもりなんだけどね」=“You think so? I'm always trying to show this side of myself to you though.”
 「あら、そうだったかしら？　いつも子供っぽくはしゃぎまわっているような気がするけど？」=“My, is that so? I feel like you spend most of your time with me running around like a little boy though?”
