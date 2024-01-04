@@ -28,7 +28,7 @@
 「夜景が綺麗なスポットなんて、彼女がいなければ調べなかったと思う。正直、慣れなくて苦労したよ」=“I don't think I'd have gone out of my way to look for this spot, unless I had a girlfriend. Honestly, I've never done something like this before, it was hard work.”
 「そうか、それは手間をかけたな。なら、それなりのご褒美が欲しいだろう？　ほら、こっちに来い」=“I see, looks like I made trouble for you. In that case, you probably want a reward, right? Come on, come closer.”
 「ご褒美って……あっ、[H名]……」=“By reward... Ah--, [H名]...”
-「ん……」=“Nnn......”
+「ん……」=“Nnn...”
 「っちゅ……どうだ？　これでご褒美は足りるか？」=*kiss*... How is it? Is that enough of a reward?
 「も、もちろん！　いきなりで照れたけど、足り過ぎて、色々凄い事になりそう！」=“O-Of course! You caught me off guard but, it was almost too much of a reward, I feel like everything's going to be amazing!”
 「フッ、なんだそれは……あまり騒ぐな、折角のムードが台無しだろう？」=“Pfft, what's all that about... don't get too excited, this mood's gonna get ruined, no?”
