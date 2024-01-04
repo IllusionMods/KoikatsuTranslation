@@ -7,4 +7,4 @@
 「こちらこそよろしく。キミ、女子との会話にずいぶん慣れてるのね」=“The pleasure is all mine. You sure are used to talking to girls, aren't you?”
 「そんなことないって。こう見えて結構頑張ってるんだよ？　今だってドキドキしてるんだから」=“That's not the case. Even if I look confident, Im really trying my best here you know? My heart is going a thousand beats per minute right now”
 「えー、そうなのかしら？　でも……ふふっ、いいわ、お姉さん信じちゃう。それで……お話ってなにかしら？」=“Ehh, Is that really true? ... Fufu, Alright. Onee-san will believe you. So, what did you want to talk about?”
-（大人っぽくて優しそうな娘だな。まずはどんな話をしよう……？）=( Looks like she's a kind mature woman. So, what should I talk about? )
+（大人っぽくて優しそうな娘だな。まずはどんな話をしよう……？）=(Looks like she's a kind mature woman. So, what should I talk about?)

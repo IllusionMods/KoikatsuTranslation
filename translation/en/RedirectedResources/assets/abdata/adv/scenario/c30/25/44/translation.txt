@@ -5,4 +5,4 @@
 「あら、あれって新しい……雑貨屋さんね。行ってみてもいいかしら？」=“Oh, look at that, isn't that the new general store that opened just recently? Wanna go take a look?”
 「うん、いいよ」=“Sure, let's go.”
 「輸入品が多くて素敵なお店だったわね。時々覗いてみたいわ」=“Lots of imported items, it sure is a lovely shop, isn't it? Should take a look from time to time”
-（よかった、喜んでもらえたみたいだ）=( I'm glad, looks like she enjoyed it )
+（よかった、喜んでもらえたみたいだ）=(I'm glad, looks like she enjoyed it)

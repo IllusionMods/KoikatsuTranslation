@@ -17,8 +17,8 @@
 「いや、そうじゃなくて……ふーふーしてる[H名]が……可愛かったから……」=“No, that's not the point... When you were blowing on it.. I thought you looked really cute, [H名]...”
 「えっ、それは……うぅ、お姉さんをからかわないのっ！」=“Eh, that's... Uuuu, Don't tease your onee-san!”
 「ほら、早く食べちゃいなさいっ」=“Here, eat it quickly.”
-「あむっ、あぐっ！」=*Munch* *Munch*!
-「んむっ……食べたっ！　もう食べたからっ！　フォーク引いてっ！」=*Gulp*... I ate it! I already ate it! So please put away the fork!
+「あむっ、あぐっ！」=“*Munch* *Munch*!”
+「んむっ……食べたっ！　もう食べたからっ！　フォーク引いてっ！」=“*Gulp*... I ate it! I already ate it! So please put away the fork!”
 「ぁはは……ごめんなさい。でも、キミがいけないのよ？　お姉さんのこと、いきなり可愛いなんて言うから……」=“Ahaha... I'm sorry. But, you musn't do that, okay? Calling your onee-san cute all of a sudden...”
 「う、うん……今度からは、言うタイミングを気を付けるよ……フォーク、ちょっと刺さったし……」=“Y-yeah... Next time, I'll try to keep the timing in mind... I think I got pierced a bit by the fork...”
 「えぇっ、ほんとに？　あぁ、ちょっと見せて？　血とか出てない？　うぅ、やっちゃったわ……」=“Eeh, really? Aahh, let me have a look. Is any blood coming out? Uuuu, now I've done it...”

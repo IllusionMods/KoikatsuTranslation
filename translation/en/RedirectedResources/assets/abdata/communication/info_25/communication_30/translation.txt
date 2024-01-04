@@ -15,7 +15,7 @@
 「付いていくのは構わないけど、どこまで行くのかな？」=“I don't mind following you, but where are we going, exactly?”
 「ちょっ、どこに入ろうとしてるの！　ダメよっ！」=“Hey, you mustn't go in there!”
 「あっ……ふふっ、キミと話せると思うと何だか楽しくなっちゃうな」=“Ah... Fufu... Just thinking about having a chat with you makes me happy.”
-「そういえば……キミって男の子なのよね……あ、ううん、深い意味はないわよ」=“Speaking of that... You really are a boy, aren't you?...... Ah, no, I didn't mean anything super deep by that.”
+「そういえば……キミって男の子なのよね……あ、ううん、深い意味はないわよ」=“Speaking of that... You really are a boy, aren't you?... Ah, no, I didn't mean anything super deep by that.”
 「キミも一緒にやってみる？　運動不足の解消になるわよ」=“Wanna try it with me? It'll make up for your lack of exercise.”
 「あら……もしかして、うちの部に興味あるの？」=“Oh... Are you perhaps interested in our club?”
 「コイカツ部の活動中？　いいねぇ、青春だねぇ！」=“In the middle of Koikatsu Club Activities? That's great, youth is the springtime of life afterall.”
