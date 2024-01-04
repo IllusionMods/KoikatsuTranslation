@@ -17,6 +17,10 @@
 魔力の砂時計=Hourglass of Magic
 魔術師のポーチ=Sorcerer's Pouch
 
+// chara/airis accs common1.unity3d
+//NW アイリス earing1=
+//WE アイリス RIBBON_CM=
+
 // chara/ao_creamset_nkt.unity3d
 イチゴ=Strawberries
 クリーム1=Cream 1
@@ -41,6 +45,9 @@
 ソリ=Sled
 トナカイ=Reindeer
 
+// chara/cdpsb0/iori_acs_tail.unity3d
+//銀鏡イオリ しっぽ=
+
 // chara/choco.unity3d
 癒月ちょこ tail=Yuzuki Choco tail
 
@@ -59,6 +66,15 @@
 ジェム3=Gem 3
 ジェム4=Gem 4
 ジェム5=Gem 5
+
+// chara/idol_onepiece.unity3d
+//アイドルワンピサスペンダー(右)=
+//アイドルワンピサスペンダー(左)=
+//アイドルワンピリボン=
+//アイドルワンピリボン(短)=
+//アイドルワンピ紐1=
+//アイドルワンピ紐2=
+//アイドルワンピ紐3=
 
 // chara/kaguranana.unity3d
 カグラナナ アーティストver. tail=Karuga Nana Artist ver. tail
@@ -197,6 +213,12 @@ V字=V-shape
 サイドドレープ [マスク変更]=side drape [mask change].
 サイドドレープ [リボンなし]=side drape [without ribbon]
 サイドドレープ[白透過]=Side drape [white transparent].
+
+// chara/_mods/shy05.unity3d
+//SHYテール1=
+
+// chara/_mods/shy06.unity3d
+//SHYテール2=
 
 // chara/_mods/sinon06.unity3d
 ポーチ=Pouch

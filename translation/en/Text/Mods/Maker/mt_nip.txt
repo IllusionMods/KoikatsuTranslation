@@ -2,6 +2,13 @@
 // Dumped for Koikatsu v5.1 (Koikatu) by KK_ModTextDump v0.7.0.1
 //
 
+// chara/a-fan/a-fan_nip.unity3d
+//ねろましん 1 [A-fan]=
+//アサ inverted [A-fan]=
+
+// chara/abceefg/abceefg_nip.unity3d
+//ねろましん 2 [ABCEEFG]=
+
 // chara/etc.unity3d
 なし=None
 

@@ -5,11 +5,27 @@
 // chara/07_kumbhira/co_bra_07_kumbhira.unity3d
 聖女のビスチェ-kumbhira=Saint's Bustier - kumbhira
 
+// chara/anse/anse_curtain_sailor.unity3d
+乳カーテンセーラー=Breast Curtain Sailor
+
+// chara/anse/anse_curtain_sailor_l.unity3d
+乳カーテンセーラー巨乳=Breast Curtain Sailor \w Big Breasts
+
+// chara/anse/anse_curtain_sailor_s.unity3d
+乳カーテンセーラー貧乳=Breast Curtain Sailor \w Small Breasts
+
+// chara/anse/anse_toa_school_uniform_blouse.unity3d
+//あんせ柊杏学園ブラウス=
+
 // chara/anse/anse_turtleneck_sleeveless_long.unity3d
 ハイネック ノースリーブ ロング=High-neck Sleeveless Long
 
 // chara/anse/anse_turtleneck_sleeveless_short.unity3d
 ハイネック ノースリーブ ショート=High Neck Sleeveless Short
+
+// chara/cdpsb0/iori_top_inner.unity3d
+//銀鏡イオリ シャツ=
+//銀鏡イオリ シャツ+腕章=
 
 // chara/co_shoes.unity3d
 贵族短风衣=Short-Sleeved Shirt
@@ -60,6 +76,10 @@ Tシャツ(無地)=T-Shirt (Plain)
 // chara/etc.unity3d
 なし=None
 なし(互換)=None (Compatible)
+
+// chara/idol_onepiece.unity3d
+//アイドルワンピ(胸当て)=
+//アイドルワンピ(胸当てブラ消)=
 
 // chara/JK/idol - sarashi.unity3d
 アイドル胸当て=Idol Breastplate
@@ -189,6 +209,9 @@ HS2男马甲=HS2 men's marsupial
 NBY上1=NBY Top 1
 NBY上2=NBY Top 2
 
+// chara/nw airis top bot1.unity3d
+//NW アイリス inner=
+
 // chara/oyd_hoodie.unity3d
 パーカー=Hoodie
 
@@ -207,6 +230,11 @@ NBY上2=NBY Top 2
 // chara/sleeveless_top.unity3d
 ノースリーブ1=Sleeveless 1
 ノースリーブ2=Sleeveless 2
+
+// chara/white_shirt_vest_open.unity3d
+//ワイシャツベスト(単色)=
+//ワイシャツベスト襟開け=
+//ワイシャツベスト襟開け(単色)=
 
 // chara/xne/xne_co_top_altbunny.unity3d
 マジシャン風シャツ（襟のみ）=Magician-style shirt (Collar only)

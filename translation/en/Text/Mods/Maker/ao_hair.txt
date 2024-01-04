@@ -11,6 +11,9 @@
 // chara/ao_hair_xmas.unity3d
 ジンジャーマンクッキー=Gingerbread Cookie
 
+// chara/cdpsb0/iori_acs_hair.unity3d
+//銀鏡イオリ リボン=
+
 // chara/dak/ao_hair_00.unity3d
 [dak]花のみ=[dak]Flower only
 

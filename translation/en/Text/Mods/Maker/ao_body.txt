@@ -145,3 +145,9 @@ AI翼=AI Wings
 
 // chara/_kero/ao_koopa.unity3d
 クッパのこうら=Bowser's Shell
+
+// chara/_mods/chloe2.unity3d
+//バックパック=
+
+// chara/_mods/lunamaria2.unity3d
+//ザフトバックパック=

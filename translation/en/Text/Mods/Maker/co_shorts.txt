@@ -8,6 +8,14 @@
 // chara/anse/anse_chichinoren_shorts_s.unity3d
 あんせ 乳のれん ショーツ(きらきらver)=Anse Breast Curtains Underwear (Glitter ver)
 
+// chara/anse/anse_toa_school_uniform_shorts.unity3d
+//あんせ柊杏学園リブショーツ=
+
+// chara/anse_sailor_bikini_shorts.unity3d
+//あんせセーラービキニ (フリル)=
+//あんせセーラービキニ(セーラー襟)=
+//あんせセーラービキニ(ローライズ)=
+
 // chara/choco.unity3d
 癒月ちょこ under=Yuzuki Choco under
 

@@ -2,6 +2,9 @@
 // Dumped for Koikatsu v5.1 (Koikatu) by KK_ModTextDump v0.7.0.1
 //
 
+// chara/mt_dionel_ive_eyeline_down.unity3d
+//イヴのアイライン下=
+
 // chara/xne/xne_mt_eyeline_down_dancho.unity3d
 ちょいギャル風=A little gal style
 

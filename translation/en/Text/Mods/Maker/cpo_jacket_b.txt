@@ -17,6 +17,11 @@
 // chara/anse/anse_suspenders_mid.unity3d
 あんせサスペンダー ショート=Safety suspenders short
 
+// chara/anse/anse_toa_school_uniform_jacket.unity3d
+//あんせ柊杏学園ボレロ=
+//あんせ柊杏学園ボレロ(前開き)=
+//あんせ柊杏学園ボレロ(巨乳)=
+
 // chara/co_shoes.unity3d
 贵族短风衣=Short-Sleeved Shirt
 
@@ -50,8 +55,17 @@
 // chara/cpo_jacket_b_00.unity3d
 ブレザーC(inmab改)=Blazer C (Inmab modified)
 
+// chara/idol_onepiece.unity3d
+//アイドルワンピ(ジャケット)=
+//アイドルワンピ(ジャケット柄抜)=
+//アイドルワンピ(ジャケット紐無)=
+//アイドルワンピ(ジャケット紐無柄抜)=
+
 // chara/JK/idol - onaka.unity3d
 アイドルおなか=Idol Tummy
+
+// chara/leomiku_jacket_chara.unity3d
+//レオミクジャケット=
 
 // chara/ltz/reverse_bunny.unity3d
 逆バニーブレザー=Reverse Bunny Blazer
@@ -125,6 +139,9 @@ HS2男马甲=HS2 men's marsupial
 ロングカーディガン=Long Cardigans
 乳袋ジャケット=breast bag jacket
 乳袋ジャケット 袖無し=breast bag jacket without sleeves
+
+// chara/nw airis top bot1.unity3d
+//NW アイリス top jacket=
 
 // chara/onepiece.unity3d
 ワンピース(袖なし)=Dress (Sleeveless)

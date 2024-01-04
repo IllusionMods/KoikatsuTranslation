@@ -14,11 +14,22 @@
 // chara/373.unity3d
 美波七海 top=Minami Nanami top
 
+// chara/anse/anse_armydress.unity3d
+//あんせ軍服ワンピ=
+//あんせ軍服ワンピ ノースリーブ=
+//あんせ軍服ワンピ ノースリーブ(タイトSK)=
+//あんせ軍服ワンピ(キュロット)=
+//あんせ軍服ワンピ(タイトSK)=
+
 // chara/anse/anse_chichinoren.unity3d
 あんせ 乳のれん=Anse Breast Curtains
 
 // chara/anse/anse_chichinoren_s.unity3d
 あんせ 乳のれん(キラキラver)=Anse Breast Curtains (Sparkles ver)
+
+// chara/anse/anse_graffiti_tshirt.unity3d
+//あんせグラフティTシャツ(long)=
+//あんせグラフティTシャツ(short)=
 
 // chara/anse/anse_loose_tanktop.unity3d
 あんせ ゆるゆるタンクトップ=Anse Loose Tank Top
@@ -26,8 +37,25 @@
 // chara/anse/anse_loose_tanktop_short.unity3d
 あんせ ゆるゆるタンクトップ(ショート)=Anse Loose Tank Top (Short)
 
+// chara/anse/anse_nosleeve_dress_with_cardigan.unity3d
+//あんせノースリーブwithカーディガン=
+
+// chara/anse/anse_nuns_habit.unity3d
+//あんせ修道服 スプリット(半袖)=
+//あんせ修道服 スプリット(長袖)=
+//あんせ修道服 ミニ(半袖)=
+//あんせ修道服 ミニ(長袖)=
+
+// chara/anse/anse_racing_swimsuits.unity3d
+//あんせメッシュ競泳水着=
+//あんせレース競泳水着=
+//あんせ競泳水着2023=
+
 // chara/anse/anse_sailor_cheer_tops.unity3d
 あんせセーラーチア=Anse Sailor Cheerleader
+
+// chara/anse/anse_sailor_swimsuits.unity3d
+//あんせセーラースク水=
 
 // chara/anse/anse_square_dress.unity3d
 あんせスクエアーネックワンピース=Anse Square Neck Dress
@@ -55,6 +83,20 @@
 
 // chara/anse/anse_swimsuits_s.unity3d
 あんせ競泳水着(S)=Anse Racing Swimsuit (S)
+
+// chara/anse_mesh_tshirt.unity3d
+//あんせ網Tシャツ=
+//あんせ網レースT=
+
+// chara/anse_oblique_neck_dress.unity3d
+//あんせオブリークネックドレス=
+
+// chara/anse_offshoulder.unity3d
+//あんせオフショルダー=
+//あんせオフショルダー(タイトSK)=
+
+// chara/anse_sailor_bikini_top.unity3d
+//あんせセーラービキニ=
 
 // chara/bot_makoto.unity3d
 衬衣牛仔裤=Shirt polo
@@ -145,6 +187,32 @@ DALI临时MOD=DALI Temporary MOD
 
 // chara/hime_concert_top1.unity3d
 姫様 concert top ep5=Hime Concert Top ep5
+
+// chara/idol_onepiece.unity3d
+//アイドルワンピ(上)=
+//アイドルワンピ(上ブラ消)=
+//アイドルワンピ(上柄抜)=
+//アイドルワンピ(上柄抜ブラ消)=
+//アイドルワンピ(上襟ハート無)=
+//アイドルワンピ(上襟ハート無ブラ消)=
+//アイドルワンピ(上襟ハート無柄抜)=
+//アイドルワンピ(上襟ハート無柄抜ブラ消)=
+//アイドルワンピ(上襟無)=
+//アイドルワンピ(上襟無ブラ消)=
+//アイドルワンピ(上襟無柄抜)=
+//アイドルワンピ(上襟無柄抜ブラ消)=
+//アイドルワンピ(上追加色)=
+//アイドルワンピ(上追加色ブラ消)=
+//アイドルワンピ(上追加色柄抜)=
+//アイドルワンピ(上追加色柄抜ブラ消)=
+//アイドルワンピ(上追加色襟ハート無)=
+//アイドルワンピ(上追加色襟ハート無ブラ消)=
+//アイドルワンピ(上追加色襟ハート無柄抜)=
+//アイドルワンピ(上追加色襟ハート無柄抜ブラ消)=
+//アイドルワンピ(上追加色襟無)=
+//アイドルワンピ(上追加色襟無ブラ消)=
+//アイドルワンピ(上追加色襟無柄抜)=
+//アイドルワンピ(上追加色襟無柄抜ブラ消)=
 
 // chara/JK/jk_tops.unity3d
 キャミソール(maskless)=Camisole (Maskless)
@@ -377,6 +445,9 @@ Vネックニットワンピース=V-Neck Knit Dress
 
 // chara/Sen3_hair.unity3d
 闪轨军装=Flashback Channel
+
+// chara/sheryl top2.unity3d
+//シェリル idol top=
 
 // chara/sunshine/co_top_00/p_cf_top_afshirts.unity3d
 アロハ服A=Aloha Shirt A
@@ -659,6 +730,18 @@ HMナース服 verB=HM nurse suit verB
 // chara/_mods/chirai_01.unity3d
 チライトップス=Chillie Tops
 
+// chara/_mods/chloe.unity3d
+//クロエ用ノーマルスーツ=
+
+// chara/_mods/chloe7.unity3d
+//クリス用ノーマルスーツ=
+
+// chara/_mods/chloeb.unity3d
+//クリス用ノーマルスーツ2=
+
+// chara/_mods/chloec.unity3d
+//クロエ用ノーマルスーツ2=
+
 // chara/_mods/eva2.unity3d
 ジャージ2(スカート)=Jersey 2 (Skirt)
 ジャージ2(フィット)=Jersey 2 (Fitted)
@@ -672,6 +755,18 @@ HMナース服 verB=HM nurse suit verB
 
 // chara/_mods/ishizawa.unity3d
 逗子総合=Zushi General
+
+// chara/_mods/kallen03.unity3d
+//ギアスパイスー2-1=
+
+// chara/_mods/kallen04.unity3d
+//ギアスパイスー2-2=
+
+// chara/_mods/lunamaria.unity3d
+//ザフトノーマルスーツ=
+
+// chara/_mods/lunamaria8.unity3d
+//ザフトノーマルスーツ2=
 
 // chara/_mods/makinon01.unity3d
 マキノジャケット=Makino Jacket
@@ -690,6 +785,12 @@ HMナース服 verB=HM nurse suit verB
 
 // chara/_mods/rider.unity3d
 ライダーワンピース=Rider Dress
+
+// chara/_mods/run03.unity3d
+//ゼッケン=
+
+// chara/_mods/shy01.unity3d
+//SHYフード=
 
 // chara/_mods/sinon02.unity3d
 シノンジャケット=Sinon Jacket
