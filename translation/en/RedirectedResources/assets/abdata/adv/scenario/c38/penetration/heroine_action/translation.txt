@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「えっと……混ざりたいの？　……どうする？」=“Erhm... You wanna join us? What do you wanna do?”
+「えっと……混ざりたいの？　……どうする？」=“Erhm... you wanna join us? ...What do you say?”
 「……少し恥ずかしいですが……３人でするというのは中々ない機会だと思いますので、やらせていただきます」=“...It is a bit embarrassing but... I do think this is quite the rare opportunity so please, let's do it.”
-「えっと……混ざりたいの？　俺はいいけど……」=“Erhm... you wanna join us? I'm fine with it but...”
+「えっと……混ざりたいの？　俺はいいけど……」=“Erhm... you wanna join us? I don't really mind but...”
 「あら、魅力的なご提案ですね。もちろん、断る理由はございませんよ」=“Oh my, what a lovely idea. Of course, I have no reason to refuse.”
