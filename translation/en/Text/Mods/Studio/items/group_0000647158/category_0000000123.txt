@@ -1,6 +1,9 @@
 //
-// Dumped for Koikatsu v5.1 (Koikatu) by KK_ModTextDump v0.7.0.1
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_ModTextDump v0.7.0.1
 //
+
+#set exe CharaStudio
+
 
 // chara/08/ao_face_08.unity3d
 バフォメットの仮面=Mask of Baphomet
@@ -617,7 +620,7 @@ Sunshine FH 2 - �؂葵���A�V�����g���o���O=Sunsh
 Sunshine FH 6 - �؂葵���T�C�h�J�[��=Sunshine FH 6 - ???
 
 // chara/_mods/chloe5.unity3d
-//ヘルメット=
+ヘルメット=Helmet
 
 // chara/_mods/chloe8.unity3d
 //ヘルメット2=

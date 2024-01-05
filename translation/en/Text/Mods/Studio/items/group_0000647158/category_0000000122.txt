@@ -1,6 +1,9 @@
 //
-// Dumped for Koikatsu v5.1 (Koikatu) by KK_ModTextDump v0.7.0.1
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_ModTextDump v0.7.0.1
 //
+
+#set exe CharaStudio
+
 
 // chara/08/ao_head_08.unity3d
 サキュバスの角=Horns of Succubus
@@ -92,9 +95,6 @@ C酱 hair=Shiyuu Chishiki hair
 
 // chara/choco.unity3d
 癒月ちょこ hair=Yuzuki Choco hair
-
-// chara/ciela_1st_veil.unity3d
-シエラ 蒼空  1st ウェディングヴェール=Sierra 1st  Wedding Veil
 
 // chara/dak/ao_head_00.unity3d
 [dak]コロネ右(揺れ)=[dak]Coronet R (Shaking)
@@ -316,18 +316,18 @@ C酱 hair=Shiyuu Chishiki hair
 外はねロング(伸)=Long, Feathered Out (Extension)
 
 // chara/giuls/sunshine3.unity3d
-//付け毛20=
-//付け毛21=
-//付け毛22=
-//付け毛23=
-//付け毛24=
-//付け毛25=
-//付け毛26=
-//付け毛27=
-//付け毛28=
-//付け毛29=
-//付け毛30=
-//付け毛31=
+付け毛20=Hairpiece 20
+付け毛21=Hairpiece 21
+付け毛22=Hairpiece 22
+付け毛23=Hairpiece 23
+付け毛24=Hairpiece 24
+付け毛25=Hairpiece 25
+付け毛26=Hairpiece 26
+付け毛27=Hairpiece 27
+付け毛28=Hairpiece 28
+付け毛29=Hairpiece 29
+付け毛30=Hairpiece 30
+付け毛31=Hairpiece 31
 
 // chara/halfup.unity3d
 ハーフアップ(バンド)=Half-Up (Band)
@@ -674,7 +674,7 @@ AI耳=AI Ears
 Sunshine BH 2 - �؂肻�낦�A�V�����g��=Sunshine BH 2 - ???
 
 // chara/_kero/ao_extePack_NT_01.unity3d
-HM付け毛[b08] (左右調整）=HM Hairpiece [b08] (L/R adjustment)
+//HM付け毛[b08](左右調整）=
 HM付け毛[b45_L]=HM Hairpiece [b45_L] (L/R adjustment)
 HM付け毛[b45_R]=HM Hairpiece [b45_R]
 HM付け毛[o09]=HM Hairpiece [o09]
@@ -688,7 +688,7 @@ HM付け毛[s04_R]=HM Hairpiece [s04_R] (L/R adjustment)
 
 // chara/_kero/ao_extePack_NT_02.unity3d
 HM付け毛[f47]=HM Hairpiece [f47]
-HM付け毛[f47] (左右調整）=HM Hairpiece [f47] (L/R adjustment)
+//HM付け毛[f47](左右調整）=
 HM付け毛[o03]=HM Hairpiece [o03]
 HM付け毛[o17]=HM Hairpiece [o17]
 HM付け毛[o17]（揺れなし 左右調整）=HM Hairpiece [o17] (No shaking, L/R adjustment)

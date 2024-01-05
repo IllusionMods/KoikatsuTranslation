@@ -8,6 +8,11 @@
 // chara/08/co_bra_08.unity3d
 サキュバスビスチェ=Succubus Bustier
 
+// chara/anse/anse_racing_swimsuits.unity3d
+//あんせメッシュ競泳水着=
+//あんせレース競泳水着=
+//あんせ競泳水着2023=
+
 // chara/anse/anse_raincoat_b.unity3d
 あんせレインコート=Safety Raincoat
 
@@ -22,6 +27,9 @@
 
 // chara/anse/anse_swimsuits_s.unity3d
 あんせ競泳水着(S)=Anse Racing Swimsuit (S)
+
+// chara/anse/anse_toa_school_uniform_bra.unity3d
+//あんせ柊杏学園ブラ=
 
 // chara/ao_head_01.unity3d
 偶像肩章改=Idol epaulettes corrected
@@ -49,7 +57,7 @@
 逆バニー上(柄B)=Reverse Bunny Top (Pattern B)
 
 // chara/luci7/microbikini_bra.unity3d
-超マイクロビキニ=Ultra-Micro Bikini
+超マイクロビキニ=Ultra-micro Bikini
 
 // chara/m14/m14_small_swim.unity3d
 スクール水着_small =School swimsuit_small
@@ -362,6 +370,12 @@ Qテクター(ツヤ)=Q-techter (Tsuya)
 // chara/_mods/makinami3.unity3d
 式波用ヴィレプラグスーツ=Vire Plug Suit for Shikinami
 
+// chara/_mods/makinami4.unity3d
+//真希波用深々度ダイブ用耐圧試作プラグスーツ=
+
+// chara/_mods/makinami5.unity3d
+//式波用深々度ダイブ用耐圧試作プラグスーツ=
+
 // chara/_mods/makinon02.unity3d
 マキノレオタード=Makino Leotard
 
@@ -383,6 +397,9 @@ Qテクター(ツヤ)=Q-techter (Tsuya)
 // chara/_mods/racingmiku.unity3d
 レーシングミク2019=Racing Miku 2019
 
+// chara/_mods/run01.unity3d
+//三ズノランニングウェア=
+
 // chara/_mods/shiny_plug_suit1.unity3d
 テカテカ真希波プラグスーツ=Tekateka Makinami Plug Suit
 
@@ -391,6 +408,9 @@ Qテクター(ツヤ)=Q-techter (Tsuya)
 
 // chara/_mods/shiny_plug_suit3.unity3d
 テカテカ黒波プラグスーツ=Techa Techa Black Wave Plug Suit
+
+// chara/_mods/shy02.unity3d
+//SHYスーツ=
 
 // chara/_mods/sinon01.unity3d
 シノンインナー=Sinon Innerwear

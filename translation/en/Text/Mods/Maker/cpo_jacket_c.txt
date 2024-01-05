@@ -2,6 +2,16 @@
 // Dumped for Koikatsu v5.1 (Koikatu) by KK_ModTextDump v0.7.0.1
 //
 
+// chara/anse/anse_toa_school_uniform_ribbon.unity3d
+//あんせ柊杏学園リボン=
+
+// chara/anse/anse_toa_school_uniform_tie.unity3d
+//あんせ柊杏学園ナロータイ=
+
+// chara/cdpsb0/iori_top_deco.unity3d
+//銀鏡イオリ ネクタイ=
+//銀鏡イオリ ネクタイ+アクセ=
+
 // chara/co_shoes.unity3d
 HS2贵族风衣=HS2 Dress
 

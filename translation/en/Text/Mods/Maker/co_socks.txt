@@ -17,13 +17,24 @@
 // chara/anse/anse_ribbon_knee_socks.unity3d
 あんせリボンニーソックス=Anse Ribbon Kneesocks
 
-// chara/AntY/co_panst_00.unity3d
+// chara/anse/anse_toa_school_uniform_socks.unity3d
+//あんせ柊杏学園クルーソックス(20cm丈)=
+//あんせ柊杏学園ハイソックスH(32cm丈)=
+//あんせ柊杏学園ハイソックスknee(38cm丈)=
+
+// chara/AntY/meow.socks.unity3d
 アラストル Ant Y Meow Socks 1=Alastor Ant Y Meow Socks 1
 アラストル Ant Y Meow Socks 2=Alastor Ant Y Meow Socks 2
 アラストル Ant Y Meow Socks 3=Alastor Ant Y Meow Socks 3
+//アラストル Ant Y Meow Socks 4=
+//アラストル Ant Y Meow Socks 5=
+//アラストル Ant Y Meow Socks 6=
 
 // chara/c.unity3d
 C酱 socks=Shiyuu Chishiki socks
+
+// chara/cdpsb0/iori_socks_high.unity3d
+//銀鏡イオリ ソックス=
 
 // chara/cdpsb0/smith_loose.unity3d
 E.G.SMITH ルーズソックス=E.G.SMITH  Loose Socks

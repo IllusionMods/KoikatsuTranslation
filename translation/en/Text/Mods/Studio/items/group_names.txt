@@ -8,3 +8,4 @@
 [ymd] 演出=[ymd] Effects
 [ymd] 大道具=[ymd] Large Props
 [ymd] 小道具=[ymd] Small Props
+//アクセサリー=

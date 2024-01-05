@@ -1,6 +1,9 @@
 //
-// Dumped for Koikatsu v5.1 (Koikatu) by KK_ModTextDump v0.7.0.1
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_ModTextDump v0.7.0.1
 //
+
+#set exe CharaStudio
+
 
 // chara/07/ao_arm_07.unity3d
 ヴァルキリーショルダー右用=Valkyrie shoulder R

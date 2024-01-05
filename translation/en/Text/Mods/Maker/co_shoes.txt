@@ -14,8 +14,14 @@
 // chara/373.unity3d
 美波七海 shoes=Minami Nanami shoes
 
+// chara/anse/anse_armyboots.unity3d
+//あんせ厚底ロングブーツ=
+
 // chara/anse/anse_blucher.unity3d
 プレーントゥ外羽根=Plain toe outer feather
+
+// chara/anse/anse_fringe_boots.unity3d
+//あんせショート フリンジブーツ=
 
 // chara/anse/anse_half_boots.unity3d
 あんせハーフブーツ=Anse Half Boot
@@ -32,8 +38,15 @@
 // chara/anse/anse_sneakers.unity3d
 あんせ スニーカー=Anse Sneakers
 
+// chara/anse_chunkyhell_pumps.unity3d
+//あんせチャッキーヒールパンプス=
+
 // chara/c.unity3d
 C酱 shoes=Shiyuu Chishiki shoes
+
+// chara/cdpsb0/iori_shoes_boots.unity3d
+//銀鏡イオリ ブーツ=
+//銀鏡イオリ ブーツ(No Stiletto)=
 
 // chara/choco.unity3d
 癒月ちょこ shoes=Yuzuki Choco shoes
@@ -106,6 +119,9 @@ AI牛津皮鞋=AI leather shoes
 
 // chara/mt_pattern_ZZ.unity3d
 HS2护腿靴=HS2 legging shoes
+
+// chara/nw airis shoes1.unity3d
+//nw アイリス shoes2=
 
 // chara/qinxiezi.unity3d
 琴鞋子=Piano shoes
@@ -182,6 +198,9 @@ HS2护腿靴=HS2 legging shoes
 // chara/_mods/chirai_05.unity3d
 チライブーツ=Chillai boots
 
+// chara/_mods/eva5.unity3d
+//長靴=
+
 // chara/_mods/fumina01.unity3d
 フミナ=Fumina
 
@@ -214,6 +233,9 @@ HS2护腿靴=HS2 legging shoes
 
 // chara/_mods/rider3.unity3d
 ライダーパンプス=Rider Pumps
+
+// chara/_mods/shy03.unity3d
+//SHYブーツ=
 
 // list/characustom/00_vkat02.unity3d
 リングブーツ=Ring Boots

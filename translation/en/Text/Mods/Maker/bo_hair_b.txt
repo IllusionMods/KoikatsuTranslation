@@ -10,6 +10,9 @@
 ツインテール=Twintails
 ロング=Long
 
+// chara/cdpsb0/iori_hair_b.unity3d
+//銀鏡イオリ ツインテール=
+
 // chara/dak/bo_hair_b_00.unity3d
 [dak]ウエーブロング広い=[dak] wavy long wide
 [dak]ツインロングおさげ(改)=[dak] twin long pigtails (Modified)
