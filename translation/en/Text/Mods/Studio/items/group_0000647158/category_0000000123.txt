@@ -214,8 +214,8 @@ M字バングストレート(左)=M-Shaped Straight Bangs (L)
 ハネミディアム C=Medium Bangs, Swept Up C
 ハネミディアム D=Medium Bangs, Swept Up D
 ハネミディアム E=Medium Bangs, Swept Up E
-斜めぱっつん(右)=Slanting Straight-Cut Bangs (Right)
-斜めぱっつん(左)=Slanting Straight-Cut Bangs (Left)
+斜めぱっつん(右)=Slanting Straight-Cut Bangs (R)
+斜めぱっつん(左)=Slanting Straight-Cut Bangs (L)
 
 // chara/deathweasel/acc_bo_hair_f_13.unity3d
 ウェーブロング=Wavy Long
@@ -237,8 +237,8 @@ M字バングストレート(左)=M-Shaped Straight Bangs (L)
 
 // chara/deathweasel/acc_bo_hair_f_20.unity3d
 ストレートカール前=Straight, Curled Bangs
-撫でつけ(右)=Smoothed Down (Right)
-撫でつけ(左)=Smoothed Down (Left)
+撫でつけ(右)=Smoothed Down (R)
+撫でつけ(左)=Smoothed Down (L)
 横ハネ=Horizontal Wings
 横ハネ A=Horizontal Wings A
 横ハネ B=Horizontal Wings B
@@ -620,7 +620,7 @@ Sunshine FH 2 - �؂葵���A�V�����g���o���O=Sunsh
 Sunshine FH 6 - �؂葵���T�C�h�J�[��=Sunshine FH 6 - ???
 
 // chara/_mods/chloe5.unity3d
-ヘルメット=Baseball Helmet
+ヘルメット=Helmet
 
 // chara/_mods/chloe8.unity3d
 //ヘルメット2=

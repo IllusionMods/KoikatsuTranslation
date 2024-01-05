@@ -165,7 +165,7 @@ DALI临时MOD=DALI Temporary MOD
 悪魔のハイレグ(Gloss)=High-Legged Devil (Gloss)
 
 // chara/escargot_003_01C_co_top_10.unity3d
-ロングTシャツ(opt①or②)=Long T-Shirt (opt ① or ②)
+ロングTシャツ(opt①or②)=Long T-Shirt (opt ①/②)
 
 // chara/escargot_003_03_co_bra_01.unity3d
 カスタムバニー=Custom Bunny
@@ -586,10 +586,10 @@ Aラインワンピース=A-Line One-Piece
 ダボＴシャツ（透け柄）=Dabo T-shirt (Transparent pattern)
 
 // chara/xne/xne_co_top_dksweater.unity3d
-童殺セーター（巨乳）=Child killer sweater (Big tits)
-童殺セーター（～普乳）=Child killer sweater (~normal tits)
-童殺セーターＨ（巨乳）=Child killer sweater H (Big tits)
-童殺セーターＨ（～普乳）=Sweater H（Big Tits
+童殺セーター（巨乳）=Child killer sweater (Big Tits)
+童殺セーター（～普乳）=Child killer sweater (Normal Tits)
+童殺セーターＨ（巨乳）=Child killer sweater H (Big Tits)
+童殺セーターＨ（～普乳）=Sweater H (Big Tits)
 
 // chara/xne/xne_co_top_egyptian01.unity3d
 エジプト風胸飾り=Egyptian-style chest ornament
@@ -602,11 +602,11 @@ Aラインワンピース=A-Line One-Piece
 前垂れセーター（胸張り大）=Sweater with drooping front (Large chest)
 
 // chara/xne/xne_co_top_minichina.unity3d
-ミニチャイナ（裾色変え可）=Mini China (Hem Color Changeable)
+ミニチャイナ（裾色変え可）=Mini China (Colorable Hem)
 ミニチャイナＨ=Mini China H
-ミニチャイナＨ（裾色変え可）=Mini China H (Hem color can be changed)
+ミニチャイナＨ（裾色変え可）=Mini China H (Colorable Hem)
 ミニチャイナＳｅｐ=Mini China Sep
-ミニチャイナＳｅｐ（裾色変え可）=Mini China Sep (Hem color changeable)
+ミニチャイナＳｅｐ（裾色変え可）=Mini China Sep (Colorable Hem)
 
 // chara/xne/xne_co_top_saitosyatu.unity3d
 ジムリーダー風シャツ=Gym Leader Style Shirt

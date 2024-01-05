@@ -57,7 +57,7 @@
 逆バニー上(柄B)=Reverse Bunny Top (Pattern B)
 
 // chara/luci7/microbikini_bra.unity3d
-超マイクロビキニ=Ultra-Micro Bikini
+超マイクロビキニ=Ultra-micro Bikini
 
 // chara/m14/m14_small_swim.unity3d
 スクール水着_small =School swimsuit_small
