@@ -4,7 +4,7 @@
 「えへへ、これからどうしよっか？」=“Ehehe, where should we go from here?”
 「そうだな……小腹も空いたし売店で何か買って食べるか」=“Good question... I'm starting to get a bit hungry myself, so maybe we should grab a bite to eat from a stand.”
 「[H名]は何が欲しい？」=“What would you like, [H名]?”
-「何でもいいよぉ。[P名]君に任せる」=“I'm fine with anything. I'll leave it to you, [P]-kun.”
+「何でもいいよぉ。[P名]君に任せる」=“I'm fine with anything. I'll leave it to you, [P名]-kun.”
 「それじゃ、適当に選んで買ってくるよ」=“Well then, I'll go pick something for both of us then.”
 ………………=.........
 「おまたせ。けっこう空いてたからすぐ買えたよ」=“Sorry for the wait. There was almost no one there, so I was able to get it pretty quickly.”
@@ -14,13 +14,13 @@
 「ふたりで食べるから、大きいサイズ買ってきたんだけど食べれそう？」=“We're gonna be eating it together, so I got the biggest size they had but, sure it isn't too much?”
 「えへへ、こんなの余裕だよ♪　いただきまーす」=“Ehehe, this much is nothing♪ I'mma dig in.”
 「良かった。普通のサイズと迷ったんだけど……って！？　ちょっ、[H名]！？」=“I'm glad. I had a hard time picking between this and the normal size... eh!? Hey--, [H名]?!”
-「モグモグ……うん、なに？　とっても美味しから、[P名]君も早く食べた方がいいよ？　……モグモグ」=*chew chew*... yeah, what is it? It's really good so, you really ought to dig in too, you know? ...*chew chew*.
+「モグモグ……うん、なに？　とっても美味しから、[P名]君も早く食べた方がいいよ？　……モグモグ」=“*chew chew*... yeah, what is it? It's really good so, you really ought to dig in too, you know? ...*chew chew*.”
 「いや……もう、全然残ってないじゃん……」=“I can't... there's not any left...”
 「わぁ……すごい、山盛りのポテト……」=“Wah... what a heap...”
 「ふたりだから、大きいサイズ選んだんだ」=“I went for a large serving since there's two of us.”
 「私、そんなに食べれない……かな」=“I don't think... I could eat that much.”
 「そうか……でも、うん。俺が食べるから大丈夫！」=“I see... But, mm. I can, so don't worry!”
-「それじゃ、いただきまーす。……モグモグ」=Well then, I'mma dig in. ...*chew chew*
-「えへへ……すごく、美味しそうに食べるね、[P名]君は」=“Ehehe... you look so happy eating them, [P]-kun.”
+「それじゃ、いただきまーす。……モグモグ」=“Well then, I'mma dig in. ...*chew chew*”
+「えへへ……すごく、美味しそうに食べるね、[P名]君は」=“Ehehe... you look so happy eating them, [P名]-kun.”
 「なんだか私も、これぐらいならぺろっといけちゃう気がするよ♪」=“Looking at you, I feel like I could go through them in no time too♪”
 「それはよかった。さぁ、好きなだけ食べて♪」=“That's great. Go on then, eat as many as you like♪”

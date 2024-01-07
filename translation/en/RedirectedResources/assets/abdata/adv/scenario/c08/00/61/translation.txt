@@ -11,7 +11,7 @@
 「デートの終わりは、いつも寂しくなるね」=“When it comes time to wrap things up, it always makes you feel sad, doesn't it?”
 CHOICE:「……良かったら、俺の家に来ない？」=If it's alright, won't you come to my place?
 CHOICE:「またすぐ学園で会えるよ」=We'll see each other at school again real soon.
-「……良かったら、俺の家でデートの続きをしないか？」=“......If it's alright, won't you continue our date with me at my place?”
+「……良かったら、俺の家でデートの続きをしないか？」=“...If it's alright, won't you continue our date with me at my place?”
 「ええっ、本当に？　私もこのままバイバイしたくなかったの……」=“Eeh--, really? I didn't want to just say goodbye like this either...”
 「そうだな。でもまたすぐ学園で会えるよ」=“Yeah, it does. But, we'll see each other at school again real soon.”
 「そうだね。また学園で、バイバイ！」=“You're right. See ya at school, byebye!”
