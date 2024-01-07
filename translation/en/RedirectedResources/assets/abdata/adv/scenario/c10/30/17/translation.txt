@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「んーっ、よく寝た。……あれ？　メモがある。なになに――」=“Mmm, I slept well. ...Oh? There's a letter. What's it say...?”
-『眠ってたから、起こさないで先に学園いってくる！』=“You were still sleeping, so I'll be leaving first for school!”
-『なぜ悪魔の落とし子である我が、日直なんかしなくちゃならないのか……』=“Even though I am the devil's fallen child... I don't want to do day duty...”
-『学園で汝と会えるのを楽しみにしておるぞ』=“I'm looking forward to seeing you at school!”
+「んーっ、よく寝た。……あれ？　メモがある。なになに――」=“Nnn, I slept well. ...Huh? There's a note. Let's see---”
+『眠ってたから、起こさないで先に学園いってくる！』=『Thou wert sleeping, so I shall be leaving for school ahead of thee!』
+『なぜ悪魔の落とし子である我が、日直なんかしなくちゃならないのか……』=『Why do I, the very spawn of Satan himself, have to bear with the banal task of day duty...』
+『学園で汝と会えるのを楽しみにしておるぞ』=『I shall be waiting for thee at school, come see me.』

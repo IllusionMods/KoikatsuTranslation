@@ -3,7 +3,7 @@
 //
 「フンフンフンフフーンフンフフーン♪」=“Fuhn, fuhn, fuhn, fufuhn, fuhn, fufuhn~♪”
 （気のせいか、今日の[H名]はいつもよりテンションが高い気がするな）=(Is it just my imagination, or is she more excited than usual today?)
-「[H名]ってカラオケ好きなの？」=“Do you like Karaoke, [H]?”
+「[H名]ってカラオケ好きなの？」=“Do you like Karaoke, [H名]?”
 「うむ！　歌うことは好きだ。なにせ、ほら、魔術には詠唱が欠かせぬからな」=“Umu! I love singing. Afterall, one can never have too much chanting for any given spell.”
 「ははは、そっか」=“Hahaha, I see.”
 「だが、カラオケは中々来る機会がなくてな……あまり慣れてはいないのだ」=“However, the chances for me to visit places like these do not show themselves often... so I am not very used to it.”

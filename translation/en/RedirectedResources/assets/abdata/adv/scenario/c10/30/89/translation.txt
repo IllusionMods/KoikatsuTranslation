@@ -10,7 +10,7 @@
 「それはわかってる。だけど、どうしても呼んでほしくてさ」=“I get that. But, I just really want to hear you call me that.”
 「くっ……よ、よかろう、だが代償として、我にも名を与えよ！　良いな！？」=“Kuh--... v-very well, however, thou must give me one such name as well, it is only right! Do we have an understanding!?”
 「いいよ、じゃあ契約成立だ。俺が呼びかけるから、返事してほしいな」=“Sure, that's that contract signed then. I'll call you first so, return the favour, please.”
-「……[Hあだ名]」=“...[Hあだ名]”
+「……[Hあだ名]」=“...[Hあだ名].”
 「な、なんだ……[Pあだ名]」=“W-What is it... [Pあだ名].”
 「……う、うぅ……恥ずかしすぎるよぉ……」=“...U-Uuu... this is ridiculously embarrassing...”
 「呼んでくれてありがとう。……よかったら、また呼んでくれると嬉しいなー、なんて」=“Thanks for calling me that. ...I'd love it if you could call me that again, heheh, or is that too much?”
