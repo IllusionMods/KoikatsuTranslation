@@ -2,7 +2,7 @@
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
 「きゃっ！　こ、ここは女性専用です、よく表示を見てから入るようにしてください」=“Kyah--! T-This one is for ladies only, please look at the sign before entering.”
-「！？　女子更衣室に入ってくるなんて……間違えたのでしたら、すぐに退出してください」=“?! I cannot believe you'd walk straight into the girls' locker room... If you just got the wrong door, please leave right away.”
+「！？　女子更衣室に入ってくるなんて……間違えたのでしたら、すぐに退出してください」=“Wha?! I cannot believe you'd walk straight into the girls' locker room... If you just got the wrong door, please leave right away.”
 「もっと節度のある行動をお心がけください。それでは失礼いたします」=“Please strive to be better. Now, if you'll excuse me.”
 「ご自分が知り合って間もない異性に何をしたのか……胸に手をあてて考えてみてください」=“Please put a hand on your chest... and think about just what you've subjected a lady to.”
 「今はお話する時間がありませんね。また後程お会いしましょう」=“I do not have time to stay and chat at the moment. Let us meet again very soon.”
