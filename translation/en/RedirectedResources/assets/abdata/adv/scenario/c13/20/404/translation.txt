@@ -3,7 +3,7 @@
 //
 「うわぁ、おいしそ～！　いっただきま～す！」=“Uwah, it looks delicious~! I'm digging in~!”
 「うん、いただきます！」=“Yeah, I'm digging in!”
-「あむっ。ん～！　マジ、サイコーだよ～！」=*Bite*--, Nnn~! It's super good, really~!
+「あむっ。ん～！　マジ、サイコーだよ～！」=“*Bite*--, Nnn~! It's super good, really~!”
 （……とても良い顔をしてるなぁ）=(...She's got such a nice expression on)
 「どう？　美味しい？」=“How is it? Tasty?”
 「うん！　マジおいしーよ、これ！」=“Yeah! This stuff is super delicious!”
@@ -14,7 +14,7 @@
 「えっ！　えーと、その……いいのかな？」=“Eh--! Erhm, that's... can I?”
 「もう～、仕方ないな～！　じゃあ、アタシが食べさせてあげる。はいっ、あーん！」=“Jeez~, there's no helping you~! Well then, I'll feed it to you. Here--, aahn!”
 「あ、あーん……」=“A-Aahn...”
-「あむっ……わっ、甘くて美味しいね、これ」=*Bite*--... wah--, it's so sweet and tasty.
+「あむっ……わっ、甘くて美味しいね、これ」=“*Bite*--... wah--, it's so sweet and tasty.”
 （本当に美味しい。あぁ……俺はなんて……）=(It really is delicious. Aah... Is it really...)
 「俺はなんて幸せ者なんだろう……」=“Is it really possible, for one man to be this blessed...”
 「ちょ、ちょっと～！　マジ大げさ～！」=“H-Hey, come on~! Stop exaggerating~!”
