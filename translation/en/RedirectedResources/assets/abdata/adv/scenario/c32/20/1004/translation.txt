@@ -10,6 +10,6 @@
 「う、うん……俺もびっくりだよ。で、あれは……雰囲気に流された、ただのうわ言としておいた方がいいのかな？」=“Y-Yeah... I'm surprised too. So, uh, that... would it be better to just think of that as rambling, as the two of us getting swept away by the atmosphere?”
 「何言ってるんですか。口約束でも合意があれば、正式な契約です。今回は立会人もいますからね」=“What are you saying? Even a verbal promise, if there's consent from both parties, becomes formally binding. We had lots of witnesses there too, you know?”
 「う、うん……わかった。必ず、憶えておくよ」=“Y-Yeah... I got it. I'll definitely remember it.”
-「……ま、まあ、その……えっと、すみません。言い過ぎました。忘れてくれてかまいません……でも、忘れないで欲しいですけど……」=“......W-Well, that's... Erhm, I'm sorry. I said too much. I don't mind, if you forget it... but, I don't want you to forget it though...”
+「……ま、まあ、その……えっと、すみません。言い過ぎました。忘れてくれてかまいません……でも、忘れないで欲しいですけど……」=“...W-Well, that's... Erhm, I'm sorry. I said too much. I don't mind, if you forget it... but, I don't want you to forget it though...”
 「うん、忘れないよ。大丈夫、心配しないで」=“Yeah, I won't forget. It's alright, don't worry, okay?”
 （思わぬことになったけど、うん……いいデートになったな）=(It took a really unexpected turn there but, mmm... It ended up being a good date.)

@@ -162,7 +162,7 @@
 「あの、他の利用者も驚きますので……すみませんがご退出を」=“Uhm, the others will be surprised as well so... I'm sorry but, please leave.”
 「入るなと言われると入りたくなる気持ちはわからなくもないですが……やはり、ダメです」=“It's not like I don't understand the feeling of wanting to enter a place you're told not to enter but... You really musn't.”
 「その好奇心は別のことに向けてください。はい、出口はあちらですよ」=“Please focus that curiousity on something else. The exit is over there.”
-「……今のあなたのために割ける時間はありません」=“......The way you are right now, I don't have any time to spare for you.”
+「……今のあなたのために割ける時間はありません」=“...The way you are right now, I don't have any time to spare for you.”
 「……有意義な時間になればいいですが」=“...Hopefully, this will be worth my time.”
 「すみません、他の用事がありまして……また今度、お話しましょう」=“I'm sorry, I have other things to take care of... Let's chat another time.”
 「……そんなに見つめないでください」=“...Don't stare at me so much.”
@@ -211,7 +211,7 @@
 「結婚を前提にお付き合いする？」=“If you were to date someone, would you do it with marriage in mind?”
 「もちろんそのつもりです。私は何にだって真剣ですから」=“Of course. I'm always serious, no matter what it is.”
 「そう身構えすぎると相手も大変だと思いますので……」=“If I prepare for something that far ahead, I think my partner would just be troubled so...”
-「……今だけは黙秘権を行使してもよろしいでしょうか」=“......Is it alright if I exercise my right to remain silent for now?”
+「……今だけは黙秘権を行使してもよろしいでしょうか」=“...Is it alright if I exercise my right to remain silent for now?”
 「どうやったら女の子と一歩進んだ関係になれるんだろう」=“Just how do I take my relationship with a girl one step further?”
 「難しい問題ですね……一緒に考えてみましょうか」=“What a difficult question... Let's brainstorm it together.”
 「エッチな妄想ってする？」=“Do you have lewd fantasies?”
@@ -282,7 +282,7 @@
 「おしゃべりにも慣れてきたようで、何よりです」=“It seems you've gotten used to chatting with the girls, it's a wonderful thing.”
 「どうぞ、ゆっくり考えてからお話し下さい」=“There's no rush, take your time to think before we talk.”
 「……あの。私もそこまで暇ではないのですが」=“...Uhm. I don't have that much free time so...”
-「お話はもうこの辺で……。理由はお察し下さい」=“Let's end the chat here...... Figure out the reason yourself.”
+「お話はもうこの辺で……。理由はお察し下さい」=“Let's end the chat here... Figure out the reason yourself.”
 「お互いもっと有意義な時間の使い方をしましょう。それでは」=“We both ought to use our time better. Be seeing you.”
 「もう時間ですか……時が経つのは早いですね。では、失礼」=“I'm already out of time, huh... The time sure flew by. Well then, excuse me.”
 「あなたにはお聞きしたいことがあったんですが……残念、時間です」=“There's so much stuff I want to talk to you about but... sadly, I'm out of time.”
@@ -473,7 +473,7 @@
 「やはりそちらに目が行ってしまいますか」=“As I thought, your eyes are attracted to that spot, aren't they?”
 「なんだかムズムズするので、そろそろ……」=“It's making me feel kind of impatient so if you could...”
 「恥ずかしいのでやめて下さい……！」=“It's embarrassing so please cut that out...!”
-「……ふざけているのですか？」=“......Are you messing around?”
+「……ふざけているのですか？」=“...Are you messing around?”
 「あなたの手の温もり、私も感じたいです……」=“I want to feel the warmth of your hand too...”
 「少し恥ずかしくなってきました」=“I feel a bit embarrassed.”
 「ああ、手に汗が……もうダメですごめんなさい」=“Aaah, my hands, they're sweating... I can't anymore, I'm sorry.”
@@ -505,7 +505,7 @@
 「あなたに身も心も愛して頂きたいのですが……よろしいですか」=“I want you to make love to me, both body and soul... Is ito okay?”
 「あなたに愛して頂けるかと思うと……胸が高鳴ります」=“When I think about being loved by you... My heart throbs so much.”
 「時と場所をわきまえるべきでした。すみません」=“I ought to have known to mind the time and place. I'm sorry.”
-「ここで[H]とHしたいな」=“Man, I wanna have sex with you here, [H名]”
+「ここで[H]とHしたいな」=“Man, I wanna have sex with you here, [H]”
 「あなたにはいつもドキドキさせられてばかりです。嫌いじゃないですよ」=“You always find ways to make my heart beat from nervousness. I don't hate it though, you know?”
 「幸せは他人に見せつけるものではありません」=“Happiness is not something you make a show out of for others.”
 「たまにはスリルを味わってみるのも良いかもしれませんね」=“It might not be bad to experience a thrill every once in a while.”
@@ -544,7 +544,7 @@
 「まあ……！」「ふふっ」「いいですね」=[Well...!] [Fufu--] [Sounds good]
 「あの……！」「……はぁ」「……最悪」「何故……」=[Uhm...!] [...Haa] [...This is the worst] [Why...]
 「うっ……」「くっ……」「なんと……」「はぁ……」=[Uuh--...] [Kuh--...] [What...] [Haa...]
-「ふふん」「はぁ～」「……いい」=[Fufun~] [Haa~] [......It's good]
+「ふふん」「はぁ～」「……いい」=[Fufun~] [Haa~] [...It's good]
 「あの……」「ちょっと……」「すみません……」=[Uhm...] [That's a bit...] [I'm sorry...]
 「あの」「ところで」「少しよろしいですか」=[Uhm] [By the way] [Can I have a moment?]
 「ねぇ、[Hあだ名]」=“Hey, [Hあだ名]”

@@ -7,12 +7,12 @@
 「んー……じゃあ、疲労回復のため、小休止をしよう」=“Mmm... then, let's take a breather in order to recover our energy. How's that?”
 「それなら納得です。でも、疲労回復の効果を少しでも高めたいですね。何かアイデアはありませんか？」=“I can go along with that. But, it would be great to increase the efficacy of the recovery as much as possible. Do you have any ideas?”
 「じーっとしてるのが一番じゃない？」=“Wouldn't it be best to just stay still?”
-「……まあ、そうですけどね」=“......Well, yeah, I suppose.”
+「……まあ、そうですけどね」=“...Well, yeah, I suppose.”
 （うーん、疲れてるなら……）=(Well, If she's tired...)
 CHOICE:『マッサージしてあげようか？』=『Shall I give you a massage?』
 CHOICE:『今日はもう帰ろう』=『Let's go home for today』
 「じゃあ、マッサージ、してあげよっか？　これなら疲労回復につながるし」=“Then, shall I give you a massage? Ought to help with the fatigue as well.”
-「……それは、つまり…………わかりました。疲労回復効果には疑問がありますが、恋人としての営みは大切ですからね」=“...That's, in other words...... Understood. The recovery effects seem dubious to me but, it's important for us to do things as lovers as well.”
+「……それは、つまり…………わかりました。疲労回復効果には疑問がありますが、恋人としての営みは大切ですからね」=“...That's, in other words... Understood. The recovery effects seem dubious to me but, it's important for us to do things as lovers as well.”
 「え？　あ、あの……俺、ほんとにマッサージをするつもりだったんだけど……」=“Eh? Ah, Uhm... I really was planning on giving you a massage though...”
 「もう一度いいます。恋人としての営みはとてもとても大切ですからね」=“I'll say it once again. It's really really important for us to do lovey-dovey stuff too.”
 「う、うん。俺もそう思ってたんだ。じゃあ、マッサージ的なアレのアレで、えーっと、つまりエッチしたいんだ」=“Y-Yeah. I was thinking the same thing. Then, with the excuse of doing a massage, erhm, basically, let's have sex.”

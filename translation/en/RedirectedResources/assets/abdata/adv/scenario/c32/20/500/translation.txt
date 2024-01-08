@@ -9,7 +9,7 @@
 「そうなの？　はは、そう思ってもらえて嬉しいよ」=“That so? Haha, I'm glad you feel that way.”
 「私もです。こういう気持ちは、きっとあなたのことを大切に感じているからなのだと思います」=“Same here. This feeling, I'm sure it's because you're very precious to me.”
 「今日は本当にありがとうございました。またデートをできたら、嬉しく思います」=“Truly, thank you very much for today. It'd make me really happy if you were to invite me out on a date again.”
-「[H名]……」=“[H名]......”
+「[H名]……」=“[H名]...”
 CHOICE:『自宅に誘う』=『Invite to home』
 CHOICE:『ラブホに誘う』=『Invite to love hotel』
 CHOICE:『さよならする』=『Say Goodbye』
