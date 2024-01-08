@@ -1,11 +1,11 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「こんにちは。えっと……[H姓]さんだよね。俺は[P名前]」=“Hello. Err... you're [H姓]-san, right? I'm [P名前].”
-「お噂はかねがね伺っております。私のことをご存じなのですか？」=“I've heard quite a lot about you. You know of me?”
-「うん、名前だけね。おしとやかだって有名だよ」=“Yeah, but only your name. You're pretty well-known for being graceful, after all.”
-「うふふ、人の噂は倍になるとはよく言ったものです。あなたの悪い噂にも、きっと尾ひれが付いているのでしょうね」=“Ufufu, rumors about others are said to grow very quickly. I am sure that the nastier rumors about you also have been greatly exaggerated.”
-「悪い噂って、コイカツ部の……？」=“Nasty rumors, about the Koikatsu club...?”
-「ええ。ですが、貴方は噂よりもずっと心の綺麗な方のようです。私は自分の目と耳を信じます」=“That is correct. However, you seem to have a much nobler heart than the rumors suggest. And I'd trust my own eyes and ears.”
-「！　ありがとう。じゃあ、ちょっとお話をさせてもらってもいいかな」=“--!　Thank you. Well then, may I talk with you for a bit?”
-（落ち着いている上に、しっかりと芯の通った女の子だな。まさに大和撫子って感じだ）=(Not only is she calm and collected, but she's also a well-centered girl. She truly is a Yamato Nadeshiko.)
+「こんにちは。えっと……[H姓]さんだよね。俺は[P名前]」=“Hello. Erhm... it's [H姓]-san, right? I'm [P名前]”
+「お噂はかねがね伺っております。私のことをご存じなのですか？」=“I've heard quite a lot about you. Do you know of me?”
+「うん、名前だけね。おしとやかだって有名だよ」=“Yeah, just your name. You're pretty famous, known as the most graceful girl around, and all.”
+「うふふ、人の噂は倍になるとはよく言ったものです。あなたの悪い噂にも、きっと尾ひれが付いているのでしょうね」=“Ufufuh, rumours oftentimes take lives of their own, don't they? I imagine some of the nastier rumours surrounding you are probably quite exaggerated as well.”
+「悪い噂って、コイカツ部の……？」=“Nasty rumours? About my club...?”
+「ええ。ですが、貴方は噂よりもずっと心の綺麗な方のようです。私は自分の目と耳を信じます」=“Yes. However, to my eyes you seem of much purer heart than the rumours suggest. And I'd sooner believe my own eyes.”
+「！　ありがとう。じゃあ、ちょっとお話をさせてもらってもいいかな」=“--! Thanks. Well then, mind if we chat for a bit?”
+（落ち着いている上に、しっかりと芯の通った女の子だな。まさに大和撫子って感じだ）=(She's a composed one, with a cool head to boot. Truly the ideal Japanese woman.)

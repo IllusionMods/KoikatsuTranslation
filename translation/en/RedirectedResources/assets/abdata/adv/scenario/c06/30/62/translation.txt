@@ -5,7 +5,7 @@
 …………=......
 ……=...
 「それでは、私はここで失礼いたします。本日も送っていただき有難う御座いました」=“Well then, I will have to excuse myself here. Thank you very much, inviting me again today.”
-（時間的にはまだ余裕があるし、[H]を家に誘ってもいいな……）=(There's still lots of daylight, I could invite her over...)
+（時間的にはまだ余裕があるし、[H]を家に誘ってもいいな……）=(There's still lots of daylight, I could invite her over..)
 CHOICE:「家に誘う」=Invite her over.
 CHOICE:「誘わない」=Don't invite her over.
 「もしよかったら、うちに寄っていかない？」=“If you'd like, wanna stop by my place for a bit?”
