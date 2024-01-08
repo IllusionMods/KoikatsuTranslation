@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「……ま、混ざりたいの？　……どうする？」=“.........Y-You wanna join us? ...What do you wanna do?”
+「……ま、混ざりたいの？　……どうする？」=“...Y-You wanna join us? ...What do you wanna do?”
 「えっと、その……ここですれば、えっちしてたことは見逃してくれますか……？」=“Erhm, that's... if I say yes, will you overlook the fact that we were having sex...?”
 「あはは……」=“Ahaha...”
 「え、それだけでいいんですか？　もっと酷い要求をされると思ってました……」=“Eh, are you really fine with just that? I thought you'd have a much more cruel demand...”

@@ -20,4 +20,4 @@
 「じゃあ次きたとき、私は別のものをたのみます。そうすれば、またこうして分け合えますからね」=“Then I'll order something different myself, next time. Then we'll be able to share our food with each other like this again.”
 「いいね。他にオススメなメニューとかあるの？」=“Sounds great. Is there something else on the menu here that's real popular?”
 「うーん……他だとオムライスとかですかね」=“Mmm... I suppose that'd be the omurice.”
-「次はハンバーグとオムライスが同時にたべられるのか……じゅるり」=Next time, I'll get to eat the steak and omurice at the same time, huh... *gulp*
+「次はハンバーグとオムライスが同時にたべられるのか……じゅるり」=“Next time, I'll get to eat the steak and omurice at the same time, huh... *gulp*”

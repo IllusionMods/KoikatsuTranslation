@@ -29,6 +29,6 @@
 「ありがとうございます。それじゃあ、さっそくいただきますっ」=“Thank you very much. Well then, I'm going to dig in right away--”
 「ん～、やっぱりこの味が一番ですね♪　どんどん食べ進めちゃいます」=“Nn~, this taste really is the best♪ I could eat these all day.”
 「はは、ゆっくり食べないと喉に詰まるよ」=“Haha, slow down or you're gonna choke.”
-「んくっ、んん……んぅ～……」=“Nnkuh--, nn...... nnn~...”
+「んくっ、んん……んぅ～……」=“Nnkuh--, nn... nnn~...”
 「ちょ、言ってるそばから！　ほら、お水、お水！」=“Hey--, right as I said it too! Here, water, drink some water!”
 （[H名]の不幸って、[H名]がちょっとおっちょこちょいなのも関係してそうだな……）=(I feel like part of her bad luck is just her being really scatterbrained...)

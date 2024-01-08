@@ -296,7 +296,7 @@
 「あの、あのですね。私……あなたが好き、好きなんです！」=“Uhm, you see. I... love you, I love you!”
 「嬉しい、です。これからはこ、恋人同士、ですね。えへへ……」=“I'm so, happy. We're going to be a c-couple, from now on, aren't we. Ehehe...”
 「あ、あはは、ですよね……。ごめんなさい、変な事言って」=“A-Ahaha, of course... I'm sorry, for saying something so weird.”
-「……ごめんなさい。あなたの事が好きな気持ちが全然消えないんです」=“......I'm sorry. My love for you refuses to vanish.”
+「……ごめんなさい。あなたの事が好きな気持ちが全然消えないんです」=“...I'm sorry. My love for you refuses to vanish.”
 「い、良いんですか？　あ、あはは、嬉しくて、つい涙が……」=“A-Are you sure? A-Ahaha, I'm so happy, my tears...”
 「未練がましくてごめんなさい。いつかはちゃんと気持ちの折り合いをつけますから……」=“I'm sorry for being so stubborn. I'll come to terms with my feelings eventually...”
 「あ、あのさ……きみとＨしたいなって」=“H-Hey... I was thinking that maybe we could have sex...”
@@ -360,10 +360,10 @@
 「流石にこんなところまで会いに来ちゃダメですよ」=“No matter how much you want to see me, you cannot enter this place.”
 「んー……長話には向かない場所だと思いますよ」=“Nn... I don't think this is the best place to have a proper chat.”
 「めっですよ。ほら、外で待っててください」=“Bad. Come on, please wait outside for me.”
-「つーん、です」=*pout*, I'm mad.
+「つーん、です」=“*pout*, I'm mad.”
 「むー……」=“Muu...”
 「ごめんなさい。今は時間が無いので……。また後でお話しましょう」=“I'm sorry. I don't have time right now... Let's chat later.”
-「……見てるだけで満足ですか？」=“......Are you satisfied with just looking?”
+「……見てるだけで満足ですか？」=“...Are you satisfied with just looking?”
 「もう……見たいなら今度見せてあげますから」=“Jeez... if you want to stare so badly, I'll give you some private time later.”
 「水着、そんなに好きなんですか？」=“Do you like my swimsuit that much?”
 「他の人をそんな目で見ちゃイヤですよ」=“Please never look at other girls with eyes like that.”
@@ -444,7 +444,7 @@
 「まだまだこんなものじゃない、ですか。なるほど、その通りですね！」=“This is just the beginning, you say? I see, of course!”
 「ちょっと、目を瞑ってもらっていいですか？」=“Could I get you to close your eyes for a bit?”
 「？　こう？」=“? Like this?”
-「チュ。えへへ、ごめんなさい、どうしてもしたくなっちゃって」=*kiss*. Ehehe, I'm sorry, I just couldn't help myself.
+「チュ。えへへ、ごめんなさい、どうしてもしたくなっちゃって」=“*kiss*. Ehehe, I'm sorry, I just couldn't help myself.”
 「昨晩はあなたの夢を見ました」=“I had a dream about you last night.”
 「どんなだった？」=“How was it?”
 「それは……えへ、えへへへ」=“That's... ehe, ehehehe”
@@ -463,7 +463,7 @@
 「あら、ダイエットの準備は必要なかったみたいですね。嬉しいです」=“Oh my, looks like I don't need to go on a diet. I'm glad.”
 「はい。これからもたくさん愛してくださいね」=“Yes. Please keep loving me lots, okay?”
 「少し細っこい体ですけど、遠慮せずに愛でてくださいね」=“My body's pretty skin and bones but, please pour all your love onto me without holding any back, okay?”
-「むむむ……好きになってもらえるように努力します！」=*pout*... I'll do my best to make you fall for me!
+「むむむ……好きになってもらえるように努力します！」=“*pout*... I'll do my best to make you fall for me!”
 「その前に、何かありませんか？」=“Before that, isn't there something you should be saying to me?”
 「こちらこそごめんなさい！　うぅ、くっつけないの辛かったです……」=“I'm very sorry too! Uu, not being able to cling to you was so hard...”
 「イヤです。まだ許してあげません。」=“No way. I'm not going to forgive you that easily.”
@@ -536,13 +536,13 @@
 「あら、残念です……次はぜひお願いしますね」=“Oh my, a shame... We definitely have to do it next time, okay?”
 「付いてきてもらってもいい？」=“Could I get you to follow me for a bit?”
 「はい、どこにでもお供しますよ」=“Yes, I'll follow you anywhere.”
-「つーん。そんな必要、無いと思います」=*pout*. I don't think there's a need for that.
+「つーん。そんな必要、無いと思います」=“*pout*. I don't think there's a need for that.”
 「そうですね」「ですね」「はい」「もっともですね」「私もです」=[Indeed] [Of course] [Yes] [Of course] [Me too]
 「そうでしょうか？」「どうでしょう？」「残念ですけど……」「んー……」「むむ……」=[Is that really so?] [I wonder?] [Unfortunately...] [Nnn...] [Mumuu...}
 「なるほど」「ふむ」「ふむふむ」「へぇ」「そうなんですか」=[Makes sense] [Humu] [Humuhumu] [Hoh] [I see.]
 「びっくりです」「えっ」「そんなっ」「ええっ」「驚きました」=[That's surprising] [Eh--] [No way--] [Eeh--] [That was surprising]
 「嬉しいです」「えへへ」「幸せです」「あはは」「それは良かったです」=[I'm happy] [Ehehe] [So happy] [Ahaha] [I'm glad to hear that]
-「むぅ」「カチンときました」「むっ」「モヤモヤします」「…………」=[Muu] [I'm getting annoyed] [Muh--] [I feel gloomy] [.........]
+「むぅ」「カチンときました」「むっ」「モヤモヤします」「…………」=[Muu] [I'm getting annoyed] [Muh--] [I feel gloomy] [...]
 「残念です」「そうですか……」「しょんぼりです」「……むぅ」「不幸です……」=[Shame] [I see...] [I feel down] [...Muu] [Darn my luck...]
 「楽しいです」「えへへ」「幸せです」「ふふっ」「あはは」=[This is fun] [Ehehe] [I'm so happy] [Fufu--] [Ahaha]
 「うぅ……」「恥ずかしいです……」「頬が熱いです……」「～～～っ」「照れちゃいます……」=[Uuu...] [It's embarrassing...] [My cheeks feel hot...] [~~~--] [It's embarrassing...]
