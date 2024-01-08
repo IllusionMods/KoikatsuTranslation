@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「うぅ～～んっ！　凄く解放的ね。ここで食べたら何でも美味しそう」=“Nnnnnn~--! So liberating, isn't it? Just about anything would taste good if eaten here, I feel./”
+「うぅ～～んっ！　凄く解放的ね。ここで食べたら何でも美味しそう」=“Nnnnnn~--! So liberating, isn't it? Just about anything would taste good if eaten here, I feel.”
 「ホントだね。今日は購買だったけど、お弁当とか作ってきたら最高だろうね」=“Yeah. We bought stuff from the school store today but, if we had some homemade lunch this would be just perfect.”
 「あら？　それはリクエスト？　仕方ないわね。今度気が向いたら作って来てあげる」=“Oh? Is that a request? It can't be helped. I'll make you something homemade if I feel like it, sometime.”
 「えっ！　ほ、ホントに！　楽しみだなぁ……」=“Eh--! R-Really? Man I'm excited...”
