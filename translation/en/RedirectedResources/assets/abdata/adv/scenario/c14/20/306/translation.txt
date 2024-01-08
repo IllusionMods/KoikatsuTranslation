@@ -5,7 +5,7 @@
 「ふう……これだけ歌えれば、私はもう満足だな」=“Fuu... we've sung so much today, I've had my fill.”
 「うん、俺もだよ。でも、まだ時間あるんだよね。延長時間取り過ぎちゃったなぁ」=“Yeah, me too. But, we've still got some time on our slot. We extended it too much~”
 「う～ん。でもよ、私はもう歌いきりました、って気分だぜ」=“Nnn~. But, you know, I've already sung all that I felt like singing today.”
-「ま、ここでのんびり時間潰すのも悪くねえかもしれないな。どうするよ、[P名]？」=“Well, just taking it easy and chilling out here might not be so bad either. What do you wanna do, [P]?”
+「ま、ここでのんびり時間潰すのも悪くねえかもしれないな。どうするよ、[P名]？」=“Well, just taking it easy and chilling out here might not be so bad either. What do you wanna do, [P名]?”
 CHOICE:『それじゃ、最後までいようか』=Well then, let's stay till the end.
 CHOICE:『今日はもう帰ろうか』=Let's just go home.
 「それじゃあ、最後までここにいようよ」=“Well then, let's stay here till the end.”
