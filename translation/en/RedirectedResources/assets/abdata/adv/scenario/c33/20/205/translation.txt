@@ -38,8 +38,8 @@
 「えっ、子供？」=“Eh--, Kids?”
 「別に、せがんでるわけじゃないわ。あなたが答えてほしいって言ったから、正直に答えただけ」=“I didn't say it to pester you or anything. You wanted me to answer, so I gave you an honest answer, that's all.”
 「子供は何人とかじゃなくて、名前？」=“Not how many kids we'll have, but their names instead?”
-「……私の名前を呼んでくれる？」=“.........Will you call out my name?”
-「え……[H名]さん……？」=“Eh... [H名]-san......?”
+「……私の名前を呼んでくれる？」=“...Will you call out my name?”
+「え……[H名]さん……？」=“Eh... [H名]-san...?”
 「私は、その名前が好きなの。私を生み出してくれた人がつけてくれた名前……だから、名前を考えていたわ」=“I love that name. It's a name given to me by the people who brought me into this world... That's why, I was thinking of names.”
 「決まったの？」=“Have you settled on any?”
 「この名前っていうのはまだないけど……『恋』という漢字は使いたいと思ってるわ」=“I haven't decided on the reading just yet but... I'm thinking that I want to use the character for "love",『恋』”

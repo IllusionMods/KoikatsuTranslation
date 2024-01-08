@@ -11,7 +11,7 @@
 「なあに？　お姉さんは今、彼氏くんとデート中よ」=“What is it? Onee-san's busy right now, she's on a date with her boyfriend, you know?”
 にゃーお=Nyaaoo
 「お腹を撫でてほしいのね。こうかしら？」=“Looks like it wants me to rub it's belly. Like this?”
-ごろごろ……=*Nuzzle*......
+ごろごろ……=*Nuzzle*...
 「すごい、一瞬で手懐けちゃった」=“Amazing, you tamed it with a single move.”
 「たまに、こうやって動物と波長が合うときがあるのよ」=“Every once in a while, there are times when I get along with animals really well, like this.”
 ごろごろ♪=*Nuzzle*♪
@@ -33,6 +33,6 @@
 にゃー！=Nyaa!
 「きゃーーーーっ！　もう、イジワルっ！　イジワルイジワルっ！」=“Kyaaaaaaaaaaaaa! Jeez, you're mean--! Nasty, Evil--!”
 「ご、ごめん、もうしないから。カモン、猫！」=“S-Sorry, I won't do it again. Come on, Cat!”
-「ハァ……ハァ……いきなりだったから、取り乱しちゃったじゃない。ああもう、恥ずかしいったらないわ、不意打ちは卑怯よ」=“Haa...... Haa... You did it so suddenly, of course I lost my cool. Aaah, jeez, that was so shameful, surprise attacks are dirty and unfair, you know.”
+「ハァ……ハァ……いきなりだったから、取り乱しちゃったじゃない。ああもう、恥ずかしいったらないわ、不意打ちは卑怯よ」=“Haa... Haa... You did it so suddenly, of course I lost my cool. Aaah, jeez, that was so shameful, surprise attacks are dirty and unfair, you know.”
 「ごめんごめん。もうしないよ」=“Sorry, Sorry. I won't do it again.”
 （[H名]さんって、焦ると顔を真っ赤にして饒舌になるんだな。あんまり見れないと思うけど、可愛いな……）=([H名]-san, when she loses her calm, her face goes completely red and she becomes really talkative, huh. I don't think I'll get to see it often, but it's so cute...)

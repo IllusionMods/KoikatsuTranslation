@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-プルルル……=*Ring Ring*......
+プルルル……=*Ring Ring*...
 「きっと１０分前の延長確認の電話ね。どうする？　私はどっちでも大丈夫よ」=“I bet that's the call to ask if we want to extend the slot. What do you want to do? I'm fine either way myself.”
 CHOICE:『延長したいな』=『I want to extend it』
 CHOICE:『延長はいいかな』=『I think we should call it a day』
