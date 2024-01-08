@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「……一応、誰にも見つかってないみたいだね」=“......For what it's worth, I don't think anyone noticed.”
+「……一応、誰にも見つかってないみたいだね」=“...For what it's worth, I don't think anyone noticed.”
 「アゥ～……ワタシ、声大きかったカモ……♡」=“Aauu~... I might have been a bit too loud... ♡”
 「それだけ[H名]が興奮してくれたってことかな？　俺もカラオケでするなんて、めちゃくちゃ興奮したよ」=“That's just how much you got into it, I suppose. I got really into it too, since we did it in a karaoke box and everything.”
 「モ～、ハズカシ事言うのヤメテヨ～♡　デモ……アナタも興奮してくれたナラ、嬉しいナ♡」=“Jeez~, stop saying embarrasing things~♡ But... If you had fun too, then I'm glad♡”

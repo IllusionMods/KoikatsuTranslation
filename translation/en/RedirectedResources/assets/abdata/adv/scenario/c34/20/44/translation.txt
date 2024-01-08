@@ -2,7 +2,7 @@
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
 「へえ、色々あるんだね」=“Heh, there's quite the variety.”
-「Ｈｅｙ，ｌｏｏｋ♪　ニッポン茶ｓｔｏｒｅ、アリマース♡　オミヤゲ、イイデスカ？」=“<Hey, look>♪ There's a Japanese tea <store>♡ May we buy some souvenirs?”
+「Ｈｅｙ，ｌｏｏｋ♪　ニッポン茶ｓｔｏｒｅ、アリマース♡　オミヤゲ、イイデスカ？」=“Hey, look♪ There's a Japanese teahouse♡ Can we buy some souvenirs?”
 「うん、いいよ」=“Yeah, sure.”
-「Ａｗｗ♡　ニッポン茶、イイ香りデース♡」=“<Aww>♡ Japanese tea, it has such a nice scent desu♡”
-（よかった、喜んでもらえたみたいだ）=(I'm glad, looks like she enjoyed it.)
+「Ａｗｗ♡　ニッポン茶、イイ香りデース♡」=“Ahh♡ Japanese tea, it has such a nice scent♡”
+（よかった、喜んでもらえたみたいだ）=(I'm glad, looks like she enjoyed it)

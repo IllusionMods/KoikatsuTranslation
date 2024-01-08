@@ -8,7 +8,7 @@
 CHOICE:『欲望に身を任せる』=『Give in to your desires』
 CHOICE:『鉄の自制心で堪える』=『Bear with an Iron Will』
 （あぁ、ダメだ……気持ちよすぎる……勃起をとめられないっ）=(Aah, no good... It feels way too good... I can't stop my erection--)
-「……！　ア、エット……気にしないでネ♡　ホラ、疲れたカラ……そういう、アレダヨネ？」=“......! Ah, erhm... Don't worry about it♡ I mean, you're tired... it's that sort of a thing, isn't it?”
+「……！　ア、エット……気にしないでネ♡　ホラ、疲れたカラ……そういう、アレダヨネ？」=“...! Ah, erhm... Don't worry about it♡ I mean, you're tired... it's that sort of a thing, isn't it?”
 「……[H名]、ゴメン、我慢できない……」=“...[H名], sorry, I can't endure it...”
 「Ｗｈａｔ……！？　モシカシテ……」=“What...!? By any chance...”
 「バレないようにするから……」=“I'll make sure we don't get caught...”
