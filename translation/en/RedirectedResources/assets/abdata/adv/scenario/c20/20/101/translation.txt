@@ -10,7 +10,7 @@
 「この時間、結構子供が多いんですね……」=“There's lots of kids around here at this time, aren't there...”
 「そうだね。ははっ、元気だなー」=“Yeah. Haha--, they're sure energetic.”
 「子供たちが、楽しそうに遊んでいるのを眺めるのも……いいものですね」=“Looking at kids playing around like this... is also pretty nice, isn't it?”
-「はしゃぐ姿がかわいいよね。[H名]は子供が好きなの？」=“They're so adorable when they're rowdy like that. Do you like kids, [H]?”
+「はしゃぐ姿がかわいいよね。[H名]は子供が好きなの？」=“They're so adorable when they're rowdy like that. Do you like kids, [H名]?”
 「はい……好きです。無邪気なところとか、小さな手足とか……か、かわいいと思います」=“Yes... I do. Their innocence, their tiny little hands and feet... I-I think they're cute.”
 「あの可愛さは子供特有のものだよね」=“That cuteness is pretty unique to kids, isn't it?”
 「そうなんです。男の子でも女の子でも、みんな元気で……元気すぎるとちょっと困りますけど……。そ、それに……」=“Indeed. Both boys and girls, all of them are so lively... sometimes a bit too lively but... n-not to mention...”

@@ -11,7 +11,7 @@
 「あ、そうだっ。今度は私が、あなたが食べてるところをじっくり見てあげます！　仕返しです！」=“Ah, right--. This time, I'll stare at you while you eat! As my little revenge!”
 「そう？　じゃあせっかくだからいただこうかな。あーん……」=“That so? I won't say no to that. Aaahn...”
 「一口だけですよ？　……あ、あ－ん」=“It's just one bite, okay? ...H-Here you go.”
-「はむっ……」=*Chew*...
+「はむっ……」=“*Chew*...”
 「……うん、美味しい！　これは[H名]が至福の表情になるのも頷けるなぁ」=“...Yep, it's great! When it tastes so good, no wonder you were eating it so happily.”
 「で、ですよね！　美味しくて……もう、やみつきです」=“R-Right! It's so good... I'm just, addicted to it.”
 「良かったらもう一口……」=“How about another bite...”

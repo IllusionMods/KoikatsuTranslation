@@ -3,8 +3,8 @@
 //
 「これは……すっごく……綺麗、です」=“This is... really... beautiful.”
 「街の明かりが星々のように輝いて……地上まで夜空が、広がってるみたい」=“The city lights, glimmering like stars... it almost looks like the sky's extending down to the ground.”
-「ここから見える夜景が綺麗だって聞いてさ、[H名]と一緒に見たいなって思ってたんだ。……よかった、一緒に来れて」=“I'd heard that the view from this place was beautiful, so I really wanted to see it with you, [H]. ...I'm glad, that we came here together.”
-「そ、そうだったんですね……私と一緒に……ぐすっ」=I-I see, so that's how it was... together with me... *sob*
+「ここから見える夜景が綺麗だって聞いてさ、[H名]と一緒に見たいなって思ってたんだ。……よかった、一緒に来れて」=“I'd heard that the view from this place was beautiful, so I really wanted to see it with you, [H名]. ...I'm glad, that we came here together.”
+「そ、そうだったんですね……私と一緒に……ぐすっ」=“I-I see, so that's how it was... together with me... *sob*”
 「ど、どうしたの？　泣いて……」=“W-What's the matter? You're crying...”
 「す、すみません……私、う、嬉しくって……」=“I-I'm sorry... I was, j-just so happy...”
 「今日は、デート出来るってだけでも十分なのに……とっても綺麗な夜景まで……」=“Even though, just the date was more than enough for me... you even showed me such a beautiful sight...”
@@ -13,7 +13,7 @@
 「なんで……ですか？」=“Why... did you?”
 「それは[H名]に喜んでもらいたいから！　せっかくのデートなんだし、最大限喜んでほしいって思うのは当然でしょ？」=“Because I wanted to make you happy, of course! We don't go out on dates everyday, isn't it obvious that I'd want to make you as happy as I can?”
 「だからさ、そんなに感動してくれて、俺もとっても嬉しいよ」=“So, you know, seeing you be so moved, made me happy too.”
-「[P名]さん……はい、今日のデート、とっても、素敵な一日でした。本当に……ありがとうございます！」=“[P]-san... yes, it was, truly, a lovely date. Thank you... so much!”
+「[P名]さん……はい、今日のデート、とっても、素敵な一日でした。本当に……ありがとうございます！」=“[P名]-san... yes, it was, truly, a lovely date. Thank you... so much!”
 「よかったらさ、また一緒にここに来ない？」=“If you'd like, how about we come here again sometime?”
 「は、はい！　私も来たいです。一度だけじゃなくて、何度でも……あ、あなたと一緒に……」=“Y-Yes! I want to come too. Not just once, many, many times... t-together with you...”
 「[H名]が望んでくれるなら、何度でも一緒に来れるよ。俺たちは恋人だからさ」=“We can do it as many times as you want. We're a couple, afterall.”
@@ -23,7 +23,7 @@
 「それって、もしかして……」=“By that, do you mean...”
 「うん……いいかな？」=“Yeah... could we?”
 「……は、はい。私も……したい、です……」=“...O-Okay. I want to... do it, too...”
-「[H名]……」=“[H]...”
+「[H名]……」=“[H名]...”
 「んっ……んん……ん……」=“Nn--... nn... nn...”
 「ん……」=“Nn...”
 「……なんだか少し、強引な感じがしました……」=“...That was, a bit greedy of you...”

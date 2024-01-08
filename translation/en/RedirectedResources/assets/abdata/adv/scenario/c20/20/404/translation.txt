@@ -3,7 +3,7 @@
 //
 「こういうのってメニューより小さかったりするけどさ……」=“Usually, stuff like this ends up being smaller than in the menu, but...”
 「メニューよりも……大きいくらいですね……うれしい誤算です！　それじゃあ、いただきますね」=“It's even bigger... than the picture, isn't it... what a happy miscalculation! Well then, I'm going to dig in~”
-「あむっ……あっ、お、美味しいです！」=*chew*... ah--, i-it's delicious!
+「あむっ……あっ、お、美味しいです！」=“*chew*... ah--, i-it's delicious!”
 「気に入った？」=“You like it?”
 「はい！　えっと、滑らかで、舌触りも良くて……」=“Yes! Erhm, it's so velvety, the texture's really nice too...”
 「ははっ、食レポみたいになってるよ。いいからゆっくり食べな」=“Haha--, you're talking like a food columnist. It's fine, just enjoy yourself.”
@@ -16,7 +16,7 @@
 「えぇっ！？　そ、それは……わかりました。……さ、さっきより恥ずかしいですけど……」=“Eeeh--!? T-That's... Okay. ...I-It's even more embarrassing than you staring at me though...”
 「あ、あーん……」=“O-Open wide...”
 「あーん……」=“Aahn...”
-「あむっ……うん、これは美味しい！　[H名]が夢中になるのもわかるよ」=*bite*... yeah, it's really good! I can understand why you were so into it.
+「あむっ……うん、これは美味しい！　[H名]が夢中になるのもわかるよ」=“*bite*... yeah, it's really good! I can understand why you were so into it.”
 「ですよね！　しつこくない甘さで、食べやすいですし、苺のボリュームもあって……」=“Right! It's such a mellow flavour, it's easy to eat too, and there's so many strawberries...”
 「じゃあ次は、その苺をあーんしてもらおうかな？」=“Then, could I get you to feed me one of those strawberries next too?”
 「苺、ですか？　ふふっ、それはあなたとはいえ、そう簡単には……あげられません」=“The strawberries? Fufu--, even if it's you, I'm not... letting those go so easily.”
@@ -26,7 +26,7 @@
 「うーん……苦いと言うより、渋いですね。でも……この渋さが病みつきになるんです」=“Mmm... rather than bitter, it's more astringent. But... this astringency is what's so addicting.”
 「へー、そうなんだ」=“Hoh, I see.”
 「もし良かったら……一口、どうですか？」=“If you'd like... how about a bite?”
-「ふふ、じゃあ……あーん」=Huhu, then... *aahn*
+「ふふ、じゃあ……あーん」=“Huhu, then... *aahn*”
 「え！？　わ、私が食べさせるんですか！？　恥ずかしいですよ！」=“Eh!? Y-You'll make me feed you!? That's really embarrassing!”
 「せっかくのデートだしさ、お願い！」=“C'mon, we're out on a date, please!”
 「……わかりました。恥ずかしいですけど、ちょっと興味ありますし……」=“...Got it. It's embarrassing but, I am a little bit interested in it myself...”

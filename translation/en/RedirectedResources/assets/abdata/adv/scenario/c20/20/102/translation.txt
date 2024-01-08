@@ -14,7 +14,7 @@
 「よかった。それでなんだけど……俺の服選んで欲しいな、なんて」=“Great. And so... if you could help me pick out some clothes, haha, not happening, right?”
 「わ、私で良ければ力になりますが……あなたはそれでいいんですか？」=“I-If you'll let me then I'd love nothing more but... are you sure?”
 「うん、頼むよ。やっぱり女の子のセンスに任せた方が、モテ服って言うのかな？　女の子うけしそうだし」=“Yeah, please. Leaving them to a girl's sense would come out better, no? Would be more popular with girls than something I pick out myself.”
-「むっ……そういう、ことならお断りします」=*pout*... in, that case, I'd rather not, thank you.
+「むっ……そういう、ことならお断りします」=“*pout*... in, that case, I'd rather not, thank you.”
 「えっ、なんで！？」=“Eh--, why!?”
 「いえ、そういわけでは……」=“No, that's not...”
 「私が考え込んじゃうのは、何を着たらいいのか分からないからなんです。服の組み合わせとか、色合いとか……難しくて」=“The reason I spend so much time picking out clothes, is more because I don't understand fashion to begin with. Which clothes go together, which colors go together... it's all so difficult.”
