@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「あっ、日が落ちてきちゃったね。いつの間にか話し込んでたみたい」=“Ah--, Looks like the sun already went down. We kept on talking for so long that we didn't notice.”
+「あっ、日が落ちてきちゃったね。いつの間にか話し込んでたみたい」=“Ah-- Looks like the sun already went down. We kept on talking for so long that we didn't notice.”
 「貴方の話が長すぎるのよ。もう少し要点を絞ってから話しなさい」=“It's because you stretch things out too far. Get to the point faster when talking with others.”
 「ぁはは……それはあるかも。じゃあ、そろそろ出ようか？」=“Ahaha... That might be true. Then, shall we get going?”
 「そうね。あまり長居しても迷惑になるし、行きましょ」=“Yes. We'll be a bother if we stay for too long, let's go.”

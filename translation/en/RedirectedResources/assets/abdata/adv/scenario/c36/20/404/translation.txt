@@ -21,8 +21,8 @@
 「ところで気になってたんだけど、それってチョコケーキだよね？　[H名]さんて甘いの嫌いじゃなかった？」=“By the way, I'm a bit curious. That's a chocolate cake, isn't it? Didn't you hate sweet stuff?”
 「確かに好んでは食べないわね。でも、これはチョコモカブラウニーよ。コーヒー風味の強い、ビタースイーツね」=“Certainly, I don't go out of my way to eat sweet stuff. But this is Choco-Mocha-Brownie, you know? It has a heavy coffee flavour, essentially bitter-sweet.”
 「おぉ！　なんかすっごい[H名]さんにぴったりな感じ！」=“Oooh! That's like a perfect match for you, [H名]-san!”
-「ぴったりかどうかは知らないけど、ぁむっ……うん、美味しいわね」=“Perfect match" or whatever doesn't really matter to me, but *Bite*... Yeah, it's really delicious.”
-「へぇ、なんかいいなぁ、大人な感じがする。俺も一口、食べさせてもらっていい？」=“Heh, It's looks great, has that kind of "mature" feel to it. Can I have a bite as well?”
+「ぴったりかどうかは知らないけど、ぁむっ……うん、美味しいわね」=“‘Perfect match’ or whatever doesn't really matter to me, but *bite*... Yeah, it's really delicious.”
+「へぇ、なんかいいなぁ、大人な感じがする。俺も一口、食べさせてもらっていい？」=“Heh, it's looks great, has that kind of "mature" feel to it. Can I have a bite as well?”
 「嫌よ。と、いつもなら即答するところだけど。主人の好みを覚えていたご褒美よ、口を開けなさい」=“No way, Or, I would usually say that but, as a reward for remembering your master's preferences, here, open your mouth.”
 「えっと、量が少なくない？　流石にそれじゃ、味がわからない気がするんだけど……」=“Erm, isn't that too little? I don't think I'd be able to actually taste it with just that much...”
 「もらえるだけありがたいと思いなさい。ほら、さっさと口を開ける」=“Be grateful that you get any to begin with. Come on, quickly open your mouth.”
