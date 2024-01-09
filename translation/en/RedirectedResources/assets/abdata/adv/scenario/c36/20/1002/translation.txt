@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「あぁダメだ、慣れない格好で落ち着かない。[H名]さんにまた怒られそうだなぁ……」=“Aaah, It's no use. I can't calm down in this outfit. Looks like I'll make [H名]-san mad at me again...”
+「あぁダメだ、慣れない格好で落ち着かない。[H名]さんにまた怒られそうだなぁ……」=“Aaah, it's no use. I can't calm down in this outfit. Looks like I'll make [H名]-san mad at me again...”
 （でも、ウェディングドレス姿の[H名]さんか……めちゃくちゃ綺麗なんだろうな）=(But, [H名]-san in a wedding dress, huh... I bet she'd look real good in one)
 （あくまでモデルだけど、下僕から恋人を飛ばして一気に結婚だもんな、大出世だよ俺……）=(Even though it is just modeling in the end, I suddenly went from a manservant to a lover, and now we're having a wedding ceremony, looks like I've made it in life...)
 （い、いよいよ出番か……）=(S-Showtime, huh?...)
