@@ -10,7 +10,7 @@
 「はい！　これからお二人には、ウェディングドレスとタキシードにお召し替えいただきます」=“Yes! You will have to change into a wedding dress and a tuxedo after this.”
 「別のスタッフがお支度部屋までご案内しますので、少々お待ちください」=“There is other staff coming that will guide you to the changing rooms and help you get into the clothes, so please wait here for a bit.”
 「……だって。着替えまでさせてくれるんだ！　至れり尽くせりだね！」=“...So she says. They'll even help us get into the clothes! So thorough!”
-「はぁ、少し落ち着きなさい。モデルとして頼まれてるんだから当然でしょ」=“Haa, Calm down. They're asking us to model for them, so that's par for the course.”
+「はぁ、少し落ち着きなさい。モデルとして頼まれてるんだから当然でしょ」=“Haa, calm down. They're asking us to model for them, so that's par for the course.”
 「いやでも、いきなり結婚式だよ？　落ち着けって方が無理だよ」=“Yeah but, It's a wedding ceremoy, out of nowhere! There's no way I could calm down!”
 「結婚式と言っても、あくまでモデルよ。浮かれ過ぎて、足元を見られないようにしなさい」=“Even if it's a wedding ceremony, in the end, it's a mock one, and we're just models. Don't get too carried away!”
 「うーん。[H名]さん、もしかしてウェディングドレス着たくない？　ほら、結婚前に着ると婚期が遅れるって言うし」=“Hmm. [H名]-san, perhaps, do you not want to wear a wedding dress? They do say that your wedding will be delayed if you wear a wedding dress before the event.”
