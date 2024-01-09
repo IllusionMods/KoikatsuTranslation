@@ -11,7 +11,7 @@
 「そうそう。こうやって、二人だけの思い出が増えていくのって嬉しいね」=“Exactly. Like this, making new memories with each other also makes me really happy.”
 「プッ、貴方こそロマンチックなんじゃない？　似合わなわいからやめておきなさい」=“Pfft, Aren't you being pretty romantic yourself? It doesn't suit you at all though, so stop it.”
 「うん、やめとく。俺には本当に似合わなそうだし」=“Yeah, I'll stop. Looks like it really doesn't suit me.”
-「あら、今日は素直ね。フフッ、どうせまた何か企んでいるのでしょう？」=“Oh my, you're sure docile today. Fufu--, Aren't you planning something again?”
+「あら、今日は素直ね。フフッ、どうせまた何か企んでいるのでしょう？」=“Oh my, you're sure docile today. Fufu... Aren't you planning something again?”
 「いやぁ……」=“Nah...”
 CHOICE:『実は、またここでエッチしたいなって……』=『To be honest, I wanted to have sex with you again here...』
 CHOICE:『この景色をまた二人で見たいなって思ってただけだよ』=『I was just thinking that I wanted to see this scenery together again, that's all.』

@@ -1,14 +1,14 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「んっ、観覧車の中って、こんなに小さかったかしら？」=“Nn--, Was it always this cramped inside the ferris wheel?”
+「んっ、観覧車の中って、こんなに小さかったかしら？」=“Nn-- Was it always this cramped inside the ferris wheel?”
 「[H名]さん、もしかして観覧車は久しぶり？」=“[H名]-san, has it perhaps been a while since you've ridden one?”
 「日常的に観覧車に乗る人なんていないでしょ。小さい頃に数回乗っただけよ」=“Who even rides one of these in an everyday setting? I only got on one a few times as a kid.”
 「へぇ、小さい頃の[H名]さんかぁ……可愛かったんだろうなぁ」=“Heh, A young [H名]-san, huh... You must have been quite cute back then.”
 「背丈が小さかっただけで、今と大して変わらないわよ？」=“I was just smaller in height, other than that I wasn't much different than now, I'd say?”
 「だと、小さい頃からいじめっ子だったの？」=“Then, you were a bully even as a kid?”
-「フフッ、どういう意味かしら？　ここじゃ逃げる事も出来ないわよ？」=“Fufu--, Now, what exactly do you mean by that? You can't run from here, you know?”
-「わぁっ、暴れたら危ないって！　あっ、ほら夜景！　すっごい綺麗だよ！」=“Waa--, It'll be dangerous if you go wild here! Ah--, Look, the night sky! It's really pretty!”
+「フフッ、どういう意味かしら？　ここじゃ逃げる事も出来ないわよ？」=“Fufu-- Now, what exactly do you mean by that? You can't run from here, you know?”
+「わぁっ、暴れたら危ないって！　あっ、ほら夜景！　すっごい綺麗だよ！」=“Waa-- It'll be dangerous if you go wild here! Ah-- Look, the night sky! It's really pretty!”
 「ん？　あっ……ホントね。正直、これは想像以上だわ……」=“Hmm? Ah--... You're right. Honestly, It's way beyond what I imagined...”
 「よかった。気に入ってくれたみたいだね……」=“Great. Looks like it was a success...”
 「そうね。さっきのくだらないやり取りを忘れる程には……綺麗だわ」=“Indeed. Beautiful enough to forget that stupid exchange from before...”

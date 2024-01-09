@@ -2,8 +2,8 @@
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
 「さて、そろそろ時間かしら。今日もそれなりに楽しめたわ」=“Now then, it's about time to wrap this up. I had fun today as well.”
-CHOICE:『まだ時間ある？』=『Do you still have some time?』
-CHOICE:『俺も楽しかった』=『I had a blast too』
+CHOICE:『まだ時間ある？』=“Do you still have some time?”
+CHOICE:『俺も楽しかった』=“I had a blast too”
 「ここの夜景、綺麗だからさ。よければ一緒に見ていきたいんだけど……」=“I wanted to stay together for a bit longer, if it's alright with you. I mean, the nightscape is so pretty...”
 「ふぅん、汚い下僕と綺麗な夜景を見るというのも、ギャップがあって面白そうね」=“Hmm, well, looking at this beautiful night sky with a dirty manservant, the gap in itself sounds pretty interesting.”
 「やった、一緒に来てくれるって事でいいんだよね？　じゃあ、一番いい場所に案内するよ！」=“Yay, then that means you're up for it, yeah? Then, Ill take you to the best spot that I know of!”
