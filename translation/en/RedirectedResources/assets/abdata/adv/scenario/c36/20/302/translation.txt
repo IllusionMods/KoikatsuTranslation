@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-『明日の僕達なら♪　夢に見たあの宝の場所　辿りつけるさ～～♪ さあ手を伸ばして♪』=『 If it's the us of tomorrow ♪ We'll certainly be able to reach the place full of treasure, that we saw in our dreams ~~~♪ Come now, reach out your hand ♪ 』
+『明日の僕達なら♪　夢に見たあの宝の場所　辿りつけるさ～～♪ さあ手を伸ばして♪』=“If it's the us of tomorrow ♪ We'll certainly be able to reach the place full of treasure, that we saw in our dreams ~~~♪ Come now, reach out your hand ♪ ”
 「ひゅ～～！　[H名]さん最高ー！　あ、最後のアレやって、アレ！」=“Hyuu~~! [H名]-san's the best! Ah, do the thing at the end, the thing!”
 「は？　アレって何よ？　気持ち良く歌い切ったのだから、水を差さないでちょうだい」=“Hah? What is "the thing"? I was singing my heart out, all happy and stuff, so don't go raining on my parade.”
 「あぁ～、終わっちゃった。アレはほら、歌い終わって最後にピースするやつ。知らない？」=“Aaah~, it's over. By that "thing", I meant the peace sign you do at the end of that song. You don't know?”
