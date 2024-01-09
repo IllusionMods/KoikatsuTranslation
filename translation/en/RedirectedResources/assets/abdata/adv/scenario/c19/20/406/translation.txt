@@ -5,4 +5,4 @@
 「そろそろお店をでよっか。ちょっと会計してくるね」=“We should head out. I'll go settle the bill, okay?”
 「あ、自分の分は自分で……」=“Ah, it's alright, I'll pay for my own...”
 「いやいや、大丈夫だよ。俺が払うから。代わりに俺が金欠の時にでもおごってよ」=“Not at all, it's fine. I'll pay. In return, treat me if I'm ever out of money instead.”
-「それじゃあ……お言葉に甘えて。ありがとう、[P名]君」=“Well then... if you say so. Thank you, [P]-kun.”
+「それじゃあ……お言葉に甘えて。ありがとう、[P名]君」=“Well then... if you say so. Thank you, [P名]-kun.”

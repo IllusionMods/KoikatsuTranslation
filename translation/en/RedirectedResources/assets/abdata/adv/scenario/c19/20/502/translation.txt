@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「あれ……？　[P名]君、もう来てたんだ。暇つぶしの小説は必要なかったね」=“Huh...? [P]-kun, you already got here, huh? Looks like I didn't need to bring a novel to kill time afterall.”
+「あれ……？　[P名]君、もう来てたんだ。暇つぶしの小説は必要なかったね」=“Huh...? [P名]-kun, you already got here, huh? Looks like I didn't need to bring a novel to kill time afterall.”
 「こんな落ち着かないところで小説を読ませた挙げ句、中途半端なところで区切らせるわけにはね」=“Couldn't exactly have you read a novel in such a noisy place, only to have to stop midway through, now could we?”
 「せっかくなら静かなところで落ち着いて読んでほしいから……なんて」=“I'd much rather we went somewhere where you could relax and read at your own pace... heh.”
 「それはともかく、早速行こうか」=“Anyways, that aside, let's go.”

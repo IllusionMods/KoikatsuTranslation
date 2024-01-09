@@ -11,4 +11,4 @@
 「うん……一瞬だけのお嫁さん役……だったね」=“Yeah... I was a bride... for just a moment.”
 「いつか……今度は本物のお嫁さんとしてあのドレスを着て、あなたと一緒に……」=“One day... wearing that dress, as a real bride, your bride...”
 「えっ？　なんだって？　小声で聞き取れなかったよ」=“Eh--? You say something? I couldn't hear it, it was too quiet.”
-「な、なんでもない！　行こ、[P名]君！」=“I-It's nothing! Let's go, [P]-kun!”
+「な、なんでもない！　行こ、[P名]君！」=“I-It's nothing! Let's go, [P名]-kun!”

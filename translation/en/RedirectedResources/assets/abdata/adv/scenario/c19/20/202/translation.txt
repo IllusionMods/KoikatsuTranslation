@@ -12,7 +12,7 @@
 「ちょっと恥ずかしいけど、絵に描いたようなカップルみたいにデートするのも楽しそうだね」=“It'd be a bit embarrassing, but it does pretty fun to go around on our date like one of those couples from the movies.”
 「ふふっ、でしょ？　……あ、こんなのもあるんだ。ほら、見て。ペアリングだって」=“Fufu--, right? ...Ah, they've even got stuff like this. Here, look. A set of couple's rings.”
 「あ、本当だ。こんなのもあるんだ。デザインも凝ってるね」=“Ah, you're right. They've even got stuff like this, huh? The design's pretty intricate too.”
-「[P名]くんとの……ペアリング…………ちょっと、ドキドキしちゃった」=“A paired ring... with [P]-kun... my heart's, started racing a bit.”
+「[P名]くんとの……ペアリング…………ちょっと、ドキドキしちゃった」=“A paired ring... with [P名]-kun... my heart's, started racing a bit.”
 「お、俺も……よし！　じゃあ頑張ってこれを取ってみるよ！」=“M-Mine too... Alright! I'll do my best and try to go for those!”
 「あ、待って……やっぱり……今はやめとこ」=“Ah, wait... maybe we should... not bother afterall.”
 「え、なんで？　……ああ、やっぱりペアリングってちょっと恥ずかしい？」=“Eh, why? ...Aah, would it be too embarrassing afterall?”
