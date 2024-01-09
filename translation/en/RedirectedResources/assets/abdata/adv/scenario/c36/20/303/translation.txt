@@ -2,8 +2,8 @@
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
 「ふぅ、大分歌ったわね。そろそろ時間かしら」=“*Deep Breath*, We sure sang a lot. I think our time's almost over.”
-CHOICE:『延長して、もうちょっと歌おうよ』=『Extend it, let's sing a bit more』
-CHOICE:『そうだね。帰る仕度をしよっか』=『You're right, then let's prepare to head back home.』
+CHOICE:『延長して、もうちょっと歌おうよ』=“Extend it, let's sing a bit more.”
+CHOICE:『そうだね。帰る仕度をしよっか』=“You're right, then let's prepare to head back home.”
 「延長しようよ。俺、歌いたい曲がまだ残っててさ」=“Let's extend it. There are still some songs left that I wanna sing.”
 「そうね。私も、もう少し歌いたい気分よ。延長なさい」=“I agree. I still want to sing a bit more. Extend it.”
 「やった。じゃあ、延長の電話を入れるね」=“Great. Then, I'll put in the call for the extension.”
