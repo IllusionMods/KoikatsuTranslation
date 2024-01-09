@@ -4,9 +4,9 @@
 モブ=Mob
 「これより新婦が入場致します。後方の扉口をご覧ください」=“And now, the bride will make her entrance. Please pay attention to the main door.”
 （[H名]さん……）=([H名]-san...)
-俺の事を下僕と言って、どんな時も罵る事を忘れなかった[H名]さん。=`[H名]-san, who always called me her manservant, who verbally abused me at every opportunity she got.`
-そんな彼女が、俺の花嫁として、純白のウェディングドレスを着ている。=`That woman is now wearing a pure white wedding dress, as my bride.`
-誰にも染められない筈の[H名]さんが、あなた色に染まりますという意味のドレスを着ているんだ。=`[H名]-san, who refuses to let herself be stained by anyone else's colors, is now wearing such a dress, as if asking me to stain her with mine. `
+俺の事を下僕と言って、どんな時も罵る事を忘れなかった[H名]さん。=[H名]-san, who always called me her manservant, who verbally abused me at every opportunity she got.
+そんな彼女が、俺の花嫁として、純白のウェディングドレスを着ている。=That woman is now wearing a pure white wedding dress, as my bride.
+誰にも染められない筈の[H名]さんが、あなた色に染まりますという意味のドレスを着ているんだ。=[H名]-san, who refuses to let herself be stained by anyone else's colors, is now wearing such a dress, as if asking me to stain her with mine.
 （ヤバイ……もう泣いちゃいそうだ……でも、絶対[H名]さんにどやされるよなぁ……）=(Not good... I feel like crying already... But [H名]-san will surely beat me up if I do...)
 「それではこれより、式を執り行います」=“Then without further ado, let's start the ceremony.”
 「新たなご出発の証として、お二人には誓いの言葉を立てていただきます」=“As the proof of a fresh departure, you both have to make certain vows.”
