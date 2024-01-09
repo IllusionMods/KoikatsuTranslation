@@ -8,8 +8,8 @@
 「えぇぇ……じゃあ、もう出る？」=“Eeeeeh... then, should we leave now?”
 「フフッ、その曇った顔が見たかっただけよ。残った時間は、ずっと貴方を苛めてようかしら」=“Fufu--, I just wanted to see your gloomy expression, that's all. Maybe I should spend the remaining time just bullying you.”
 「いやぁ……」=“Well...”
-CHOICE:『一緒にいられるなら、それでもいいかな』=『If we can be together, I think I'm fine with that』
-CHOICE:『心が折れそうだから、今日はもう帰ろう』=『My heart feels like it's going to break, so let's just go home for today.』
+CHOICE:『一緒にいられるなら、それでもいいかな』=“If we can be together, I think I'm fine with that.”
+CHOICE:『心が折れそうだから、今日はもう帰ろう』=“My heart feels like it's going to break, so let's just go home for today.”
 「苛められるのはいつもの事だし、[H名]さんと一緒にいられるなら構わないよ」=“Not like you don't bully me everyday. I don't mind as long as I can be with you, [H名]-san.”
 「あら、そういう反応されると、逆につまらないのよね」=“Oh my, if you react like that, it becomes rather boring and uninteresting.”
 「わかってる。でも、それが俺の本心だから」=“I get that. But those are my true feelings.”
