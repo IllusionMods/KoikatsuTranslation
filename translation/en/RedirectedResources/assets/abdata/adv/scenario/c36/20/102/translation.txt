@@ -2,7 +2,7 @@
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
 「下僕、さっきから私達の後を付いてくる、アレは何？」=“Manservant, what's that, that thing that has been following us for a while now?”
-「何って、犬だと思うけど……小型犬、ポメラニアンかな？」=“What", you say, It's a dog I think... A small breed, Pomeranian, maybe?”
+「何って、犬だと思うけど……小型犬、ポメラニアンかな？」=“What," you say? It's a dog I think... A small breed, Pomeranian, maybe?”
 わん=Woof!
 「そんな事はわかっているわ、何で付いてくるのかと聞いているのよ」=“I know that, what I want to know is why it's following us?”
 「さ、さぁ……[H名]さんのこと、好きなんじゃない？」=“W-Who knows... It probably likes you, [H名]-san.”
