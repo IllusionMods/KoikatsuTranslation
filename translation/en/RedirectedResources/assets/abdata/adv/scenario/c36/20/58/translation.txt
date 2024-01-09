@@ -4,4 +4,4 @@
 「デートで公園ね。定番と言えば定番だけど。それで、ここで何をするのかしら？」=“A date at the park, huh. This is as basic as it gets. So, what are we going to do here?”
 「えっ、それは散歩とか……話とか。あー、ほら！　出店が出てる！　行ってみようよ！」=“Um... take a stroll... talk... Aah, Look! A food stand! Let's go take a look!”
 「クレープ、美味しかったね」=“That crêpe was pretty delicious, wasn't it?”
-「フフッ、クレープに救われたわね。おかげで少しは楽しめたわ。後でお礼を言っておきなさい」=“Fufu--, you were saved by that crêpe. Thanks to it, I was able to enjoy myself a bit. Make sure to properly show your gratitude later.”
+「フフッ、クレープに救われたわね。おかげで少しは楽しめたわ。後でお礼を言っておきなさい」=“Fufu-- You were saved by that crêpe. Thanks to it, I was able to enjoy myself a bit. Make sure to properly show your gratitude later.”
