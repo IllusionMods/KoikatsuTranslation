@@ -1,25 +1,25 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「この公園、色んな花が咲いてるね」=“There are different flowers blooming here in this park huh.”
-「そうね。種類が多い事もだけど、きちんと手入れも行き届いている。いい公園だと思うわ」=“Yeah, there are a lot of types too. You can tell they're being taken good care of. I think it's a great park.”
-「へぇ、[H名]さんって花とか好きなんだ？　意外な一面を発見だね」=“Really? You like flowers, Miss [H名]? That's quite an unexpected discovery.”
-「失礼ね。貴方みたいに肉欲だけで生きてはいないの。私が花を愛でるのが、そんなにおかしい？」=“How rude. I'm unlike you, who only has carnal desires.”
-「いやいや、おかしくないよ。むしろ可愛いなって……思って」=“No, no, it's not strange at all. It's rather cute... I think.”
-「見え透いたお世辞で誤魔化そうとしても無駄よ。貴方にはそうね、あの辺りに生えているのがお似合いかしら」=“It's useless to try and tamper me with your obvious flattery, you bean sprout.”
-「お世辞じゃないよ。本当に可愛いと思って……って、あれは雑草じゃ……」=“It's not a flattery! I'm seriously thinking you're cute... Um, I'm not a bean spro...”
-「……やっぱり、どう見ても雑草だよね？」=“... As I thought, just a weed right?”
-「ブタクサという雑草よ。花粉症の原因にもなる嫌われ者ね」=“To say precisely, a ragweed. As the cause of hay fever it's also disliked by people.”
-「そ、そうなんだ……詳しいんだね……」=“I-is that so... You're pretty knowledgeable...”
-「名前はもちろん、所構わず繁殖しようとするところなんか、貴方にぴったりでしょ？」=“The name indiscriminately multiplies just how perfectly it fits you. (tl. note: A ragweed 豚草 is written with characters for pig and weed.)”
-「ぅぅ……まさかデート中に雑草扱いされるとは思ってなかったよ……」=“Ugh... I didn't think I would be treated like a weed on a date...”
-「あら、雑草だって馬鹿にしたものじゃないわよ？　貴方に例えた時は馬鹿にしていたけど」=“Ah, but weeds also shouldn't be made fun of. But they were just being looked down on, being compared to you.”
-「ど、どっちなの！？」=“Which one is it then!?”
-「フフッ、良く言うでしょ、雑草根性って。私が好きなのは、綺麗な花だけじゃないわ」=“Fufu, well said. You've got weedguts. I don't like only beautiful flowers.”
+「この公園、色んな花が咲いてるね」=“This part has quite the variety of flowers, doesn't it?”
+「そうね。種類が多い事もだけど、きちんと手入れも行き届いている。いい公園だと思うわ」=“Seems so. There's certaintly lots of variety, but they're also very well looked after. I think this is a good park.”
+「へぇ、[H名]さんって花とか好きなんだ？　意外な一面を発見だね」=“Heh, You like flowers, huh, [H名]-san? What an unexpected side of yours.”
+「失礼ね。貴方みたいに肉欲だけで生きてはいないの。私が花を愛でるのが、そんなにおかしい？」=“How rude. Unlike you, I don't live off of lust alone. Is it really that strange, for me to love flowers?”
+「いやいや、おかしくないよ。むしろ可愛いなって……思って」=“Not at all. It's not strange at all. If anything... I thought it was very cute.”
+「見え透いたお世辞で誤魔化そうとしても無駄よ。貴方にはそうね、あの辺りに生えているのがお似合いかしら」=“You can't hide behind that obvious flattery. For you, hmm. I wonder if that thing growing there would suit you.”
+「お世辞じゃないよ。本当に可愛いと思って……って、あれは雑草じゃ……」=“It wasn't flattery. I really did think it was cute... Hey, that's just a weed...”
+「……やっぱり、どう見ても雑草だよね？」=“... As expected, no matter how you look at it, that's just a weed isn't it.”
+「ブタクサという雑草よ。花粉症の原因にもなる嫌われ者ね」=“It's a weed called ragweed, to be precise. It's quite an unpopular one too, as one of the causes of hayfever.”
+「そ、そうなんだ……詳しいんだね……」=“I-Is that so... You sure know a lot about it...”
+「名前はもちろん、所構わず繁殖しようとするところなんか、貴方にぴったりでしょ？」=“The name is a given, but the fact that it indiscriminantly reproduces on any occasion, don't you think it fits you perfectly?”
+「ぅぅ……まさかデート中に雑草扱いされるとは思ってなかったよ……」=“Uuu... I didn't think I'd be compared to a weed in the middle of a date...”
+「あら、雑草だって馬鹿にしたものじゃないわよ？　貴方に例えた時は馬鹿にしていたけど」=“Oh, but weeds aren't something to be ridiculed, you know? Ah but I was ridiculing them when comparing them to you though.”
+「ど、どっちなの！？」=“W-Which one is it!?”
+「フフッ、良く言うでしょ、雑草根性って。私が好きなのは、綺麗な花だけじゃないわ」=“Fufu, don't they say it a lot, "as tenacious as a weed" and all? I don't like only beautiful flowers, you know?”
 「……じゃあ、どういう花が好きなの？」=“... Then, what kind of flowers do you like?”
-「踏みつけても簡単に枯れたりしない花ね。生命力に溢れた雑草なんて、その点最高じゃない？」=“Flowers that don't wither even if I trample them down. In that respect, a weed that's brimming with vitality is the best, right?”
-「えっ、それって……遠回りに俺の事、好きって言ってくれてる？」=“Huh? Does that mean... Is that a roundabout way of saying that you like me?”
-「さぁ、どうかしらね？　少なくとも、私は綺麗なだけの花になんて興味はないわ」=“I wonder... At least I'm saying that I'm not only interested in beautiful flowers.”
-「お、俺っ、雑草根性で頑張るよ！　雑草っていいね！　最高だね！」=“I...I'll do my best with my weed's willpower! Weeds are awesome right! They're the best!”
-「あら、何を一人で盛り上がっているのかしら？　そんなに踏みつけられたいの？」=“Oh, what are you getting excited about, all alone? Do you want to be trampled so badly?”
-「い、いやぁ……ここだと目立ち過ぎるし……遠慮しておきます」=“Well... I think it would stand out here... I'll have to decline.”
+「踏みつけても簡単に枯れたりしない花ね。生命力に溢れた雑草なんて、その点最高じゃない？」=“Flowers that don't wither easily even when I trample them. The fact that weeds have overflowing vitality, isn't that the most amazing trait?”
+「えっ、それって……遠回りに俺の事、好きって言ってくれてる？」=“Eh, By that... Are you saying that you like me, in a roundabout way?”
+「さぁ、どうかしらね？　少なくとも、私は綺麗なだけの花になんて興味はないわ」=“Who knows? At the very least, I'm saying that I have no interest in flowers who have no claim to fame other than their beauty.”
+「お、俺っ、雑草根性で頑張るよ！　雑草っていいね！　最高だね！」=“I-I'll do my best, with my weed-like tenacity! Weeds are great! Truly, the best!”
+「あら、何を一人で盛り上がっているのかしら？　そんなに踏みつけられたいの？」=“Oh my, what are you getting all fired up for, all by yourself? Do you want me to trample you that much?”
+「い、いやぁ……ここだと目立ち過ぎるし……遠慮しておきます」=“W-Well... We'll stand out a lot here so uh... I'll take a rain check on that.”

@@ -1,19 +1,19 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「うわ、どんどん人が乗ってくるね……ごめん[H名]さん、少し詰められる？」=“Wow, more and more people are getting on.”
-「無理よ、寄るなと言ったでしょ。こらっ、いくらなんでも近付き過ぎよ」=“I just told you 'don't come near me', didn't I? Say what you like, but you're getting too close.”
-「そんな事言ったって、この混雑じゃ仕方ないよっ……あぁっ」=“Even if you did tell me that, I can't stop people from flowing in... Ah.”
-（[H名]さんの体、熱くなってる？　ヤバっ、意識したら股間が……）=(The body of Miss [H名], isn't it getting hot? This is bad, it's getting big down there...)
-CHOICE:『欲望に少し抵抗する』=Resist the desire a little
-CHOICE:『鉄の自制心を持って抵抗する』=Resist with iron self-control
-（が、我慢しなきゃ……でも、どんどん[H名]さんの身体が……）=(I-I have to control myself... But Miss [H名]'s body is...)
-（うっ、しまった……勃起して……あぁぁ、また怒られるっ）=(Damn it... The boner is... Aah, she'll get angry with me again.)
-「ふぅん、コレは何？　かなり恥ずかしい事になっているみたいだけど」=“Huh, what is that? Looks like it's getting shameless.”
-「ごめんなさいっ……んぅっ、[H名]さん、今そこは……色々マズイ事にっ……」=“I'm sorry... Uh, Miss [H名], it's getting worse...”
-「へぇ、マズイ事って何かしら？　私にそんな事を言ったら、余計やめなくなるの、わかってるでしょ？」=“Oh? What is getting worse? You know that if you tell me that, you won't stop it right?”
-「ぐっ、そ、そうでした……でもホントに、今はマズイからっ……」=“Guh, i-is that so... But seriously, this is bad...!”
-「はぁっ、いいわぁその顔。ここで射精させたら、もっと情けない顔を見せてくれるのかしら？　フフッ、楽しみね」=“Ah, I like that face! Will you show me even more pathetic look on your face if you ejaculate? Fufu, sounds fun.”
-（勃起したら絶対に[H名]さんから変態だなんだって言われてしまう！）=(Miss [H名] will definitely call me a pervert if I get a boner now!)
-（せっかく遊園地で楽しく過ごせたんだから、そんな失態は晒せないっ）=(We've had so much fun in an amusement park, I won't let it end with a blunder by humiliating myself in public.)
-（クールになるんだ、俺……俺なら堪えられる……）=(Stay cool... I can endure it!)
+「うわ、どんどん人が乗ってくるね……ごめん[H名]さん、少し詰められる？」=“Uwah, more and more people keep getting on... Sorry, [H名]-san, Can I move a bit closer?”
+「無理よ、寄るなと言ったでしょ。こらっ、いくらなんでも近付き過ぎよ」=“No way, I told you to not come closer than that, no? Hey--, No matter how you look at it, that's way too close.”
+「そんな事言ったって、この混雑じゃ仕方ないよっ……あぁっ」=“Even if you say that, It can't be helped, in this crowd... Aaah--”
+（[H名]さんの体、熱くなってる？　ヤバっ、意識したら股間が……）=([H名]-san's body, I feel like it's getting hotter. No good, if I get conscious of it, my lower part will...)
+CHOICE:『欲望に少し抵抗する』=『Resist your desires a bit』
+CHOICE:『鉄の自制心を持って抵抗する』=『Resist with your Iron will』
+（が、我慢しなきゃ……でも、どんどん[H名]さんの身体が……）=(I-I have to endure it... But, [H名]-san's body is steadily...)
+（うっ、しまった……勃起して……あぁぁ、また怒られるっ）=(Uu--, Damn... I ended up popping a boner... Aah, She's going to be mad at me again--)
+「ふぅん、コレは何？　かなり恥ずかしい事になっているみたいだけど」=“Hmmm, What's this? Looks like It's become rather disgraceful, hasn't it?”
+「ごめんなさいっ……んぅっ、[H名]さん、今そこは……色々マズイ事にっ……」=“I'm really sorry--... Nnuu--, [H名]-san, that place, right now... it's turning quite problematic--...”
+「へぇ、マズイ事って何かしら？　私にそんな事を言ったら、余計やめなくなるの、わかってるでしょ？」=“Heh, what do you mean by "problematic", exactly? If you say that to me, you know I won't be able to stop myself, you know that, right?”
+「ぐっ、そ、そうでした……でもホントに、今はマズイからっ……」=“Guh--, I-I see... But, really, right now's really not a good time so...”
+「はぁっ、いいわぁその顔。ここで射精させたら、もっと情けない顔を見せてくれるのかしら？　フフッ、楽しみね」=“Haa--, That expression is great. If you cum here, will I get to see an even more pathetic expression on your face? Fufu--, I can't wait.”
+（勃起したら絶対に[H名]さんから変態だなんだって言われてしまう！）=(If I pitch a tent here, [H名]-san's definitely going to label me a pervert!)
+（せっかく遊園地で楽しく過ごせたんだから、そんな失態は晒せないっ）=(We were finally able to enjoy ourselves at the amusement park, I can't risk ruining the entire day--)
+（クールになるんだ、俺……俺なら堪えられる……）=(I've gotta stay cool... I can bear it, for sure...)

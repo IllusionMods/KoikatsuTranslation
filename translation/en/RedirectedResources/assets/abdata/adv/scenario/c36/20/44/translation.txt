@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「へえ、色々あるんだね」=“Hoh, so many different spots...”
-「そうね、なかなか面白そうな所もあるじゃない。付いてきなさい」=“Right, there are some quite interesting places. Come with me.”
-「うん、いいよ」=“Yeah, sure.”
-「フフッ、くだらない所ばかりかと思っていたけど、それなりに楽しめるじゃない」=“Fufu, I thought there would be only worthless ones.”
-（よかった、喜んでもらえたみたいだ）=(Great, looks like she's pleased)
+「へえ、色々あるんだね」=“Heh, there sure are a lot of varieties.”
+「そうね、なかなか面白そうな所もあるじゃない。付いてきなさい」=“Seems like it, there's quite a few interesting places as well. Come with me.”
+「うん、いいよ」=“Yeah, okay.”
+「フフッ、くだらない所ばかりかと思っていたけど、それなりに楽しめるじゃない」=“Fufu--, I thought they'd all be worthless, but I'm enjoying myself quite a bit.”
+（よかった、喜んでもらえたみたいだ）=(I'm glad, looks like she took it well)
