@@ -10,7 +10,7 @@
 モブ=Mob
 「これより新婦が入場致します。後方の扉口をご覧ください」=“And now, the bride will make her entrance. Please pay attention to the main door.”
 （[H名]……）=([H名]...)
-両開きの大きな扉が開くと、純白のドレスをまとった花嫁が佇んでいた。=The giant double doors gave way to a bride, standing there, in a snow white wedding dress.
+両開きの大きな扉が開くと、純白のドレスをまとった花嫁が佇んでいた。=When the two wide doors opened up, a bride appeared in my line of sight, clad in a white dress.
 さすがというか、意外にもというべきか……[H名]の所作は完璧で、思わず見惚れてしまう。=Not being sure if I should be proud or surprised... I just stared at her perfect conduct, utterly charmed.
 少しだけ頬を赤く染めているところが[H名]らしくて可愛く、とても愛おしい気持ちで満たされる。=Love filled my heart, at the way her cheeks were slightly blushing, at the sight of my adorable girl.
 （[H名]、すっごく綺麗だ）=(You look beautiful, [H名].)
