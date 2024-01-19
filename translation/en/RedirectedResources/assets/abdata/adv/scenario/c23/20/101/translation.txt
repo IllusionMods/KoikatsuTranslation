@@ -7,7 +7,7 @@
 「えっ、そうなの？　どこが使われてるの？」=“Eh--, really? Which part?”
 「ふふ、あれは告白シーンに使われた噴水。あっちはプロポーズシーンに使われた木……」=“Fufu, that over there's the fountain he often uses for confession scenes. That's the tree he uses for proposals...”
 「そして最後のキスシーンに使われた高台……あそこはキャプチャーしたみたいにそのままなんですぞ」=“And, the hill he uses for kiss scenes... that whole spot, as-is.”
-「へー、そうなんだ。やっぱり[H名]は詳しいね」=“Hoh, I see. You really do know your stuff, [H].”
+「へー、そうなんだ。やっぱり[H名]は詳しいね」=“Hoh, I see. You really do know your stuff, [H名].”
 「いや、大したことでは……」=“No, it's nothing that impressive...”
 「そうだ！　せっかくだから、その、アニメのシーンをふたりで再現してみない？」=“Right! We're here anyway so, uhm, how about we try to recreate those scenes from those anime?”
 「いいのかい！？」=“YOU SURE?!”
