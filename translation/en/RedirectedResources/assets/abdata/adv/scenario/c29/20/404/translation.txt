@@ -18,7 +18,7 @@
 「し、仕方ないですね……」=“Y-You're so hopeless...”
 「……あーん」=“...Open wide. aahn.”
 「あーーん……」=“Aaahn...”
-「あむっ……もぐもぐもぐ…………うん、[H名]が言うように、くどくない甘さだね」=*bite*--... *chew chew chew*... yeah, just as you said, [H名], it's quite the mellow sweetness.
+「あむっ……もぐもぐもぐ…………うん、[H名]が言うように、くどくない甘さだね」=“*bite*--... *chew chew chew*... yeah, just as you said, [H名], it's quite the mellow sweetness.”
 「甘いけど、不思議ともうひとくち食べたくなるっていうか」=“It's sweet but, I can't help but want to go for another bite.”
 「次は自分で食べてくださいね……」=“Please eat it by yourself next...”
 「でも、[H名]って甘いの苦手だったよね？　大丈夫なの？」=“But, you didn't have much of a sweet tooth, right? You alright with that?”
@@ -31,7 +31,7 @@
 「……普通に食べるのではダメなのですか？」=“...Can you not eat it normally?”
 「できれば[H名]に食べさせてほしいなー」=“I'd love it if you fed it to me, [H名].”
 「そ、そうですか…………わかりました」=“I-I see... Understood.”
-「あむっ……」=*bite*--...
-「もぐもぐ……うん、美味しい！　甘味と苦味がベストマッチって感じだね」=*chew chew*... yeah, it's delicious! Sweetness and bitterness are truly a match made in heaven, aren't they?
+「あむっ……」=“*bite*--...”
+「もぐもぐ……うん、美味しい！　甘味と苦味がベストマッチって感じだね」=“*chew chew*... yeah, it's delicious! Sweetness and bitterness are truly a match made in heaven, aren't they?”
 「それは良かったです。これで気に入ってもらえなかったら、あーん損になってしまいますから」=“I'm glad to hear that. If you didn't end up liking it after the way I fed you, it truly would have been a loss.”
 （あーん損って……可愛い言い方だな）=("A loss"... what an adorable way of putting it.)
