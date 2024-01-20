@@ -11,7 +11,7 @@
 「あはは、分かってるよ。さすがに女子同士の秘密を聞くわけにはいかないよね」=“Ahaha, I know. Wouldn't do to grill you over girl secrets.”
 （ものすごく気になるけど……）=(I'm super curious though...)
 「でも本当に……カラオケで二人きりって……その……いつもよりずいぶん距離が近い気がするね」=“But really... being together alone like this... it's... you feel closer than ever.”
-「[H名]……」=“[H]...”
+「[H名]……」=“[H名]...”
 （女の子同士のことを話してる時の[H名]も、こうやってちょっと照れた[H名]も……どっちも可愛いよな）=(When she talks about girl stuff, and when she blushes like this... she's always so adorable)
 「……？　どうしたの？」=“...? What's up?”
 「あ、ううん。その……本当に距離感近いなって思ったら……俺、ちょっと……」=“Ah, no. It's... when I started thinking about how close we really are... I...”
@@ -27,4 +27,4 @@
 「う、ううん……平気だよっ……その……私も、したい……というか、えっと……私も！　がっついてます！」=“N-No... it's fine--... it's... I want, to do it too... rather, erhm... I feel! Horny too!”
 「えっ……」=“Eh--...”
 「恥ずかしいけど……私もしたいからっ……君の好きなようにしてくださいっ！」=“It's embarrassing but... I wanna do it too so--... please have your way with me--!”
-「あっ……う、うんっ！　ありがとう、[H名]！」=“Ah--... o-okay! Thanks, [H]!”
+「あっ……う、うんっ！　ありがとう、[H名]！」=“Ah--... o-okay! Thanks, [H名]!”

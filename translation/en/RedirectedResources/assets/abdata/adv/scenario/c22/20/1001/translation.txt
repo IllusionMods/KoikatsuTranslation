@@ -17,7 +17,7 @@
 「将来の練習っ！？　え……あの……それって……もしかして、いつか本番があるってこと――」=“Practice for the future?! Eh... uhm... are you saying... that we'll marry someday for real--”
 「お待たせしました！　それではご案内致します」=“Sorry for the wait! Well then, I'll be guiding you inside.”
 「式の流れなどは、お支度部屋にてご説明させていただきますね」=“Things like flow of the ceremony and how to do things will be explained inside the changing room itself.”
-「了解です。また後でね。[H名]」=“Got it. See ya in a bit, [H].”
+「了解です。また後でね。[H名]」=“Got it. See ya in a bit, [H名].”
 「あ、う、うん……練習か……えへへ、一生懸命頑張るね！」=“Ah, o-okay... practice, huh... ehehe, I'll do it like my life depends on it!”
 ………………=.........
 …………=......

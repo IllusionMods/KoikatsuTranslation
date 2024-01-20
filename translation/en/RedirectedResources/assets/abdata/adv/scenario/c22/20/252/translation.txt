@@ -2,7 +2,7 @@
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
 「……ちょっと予想以上に混んできたね」=“...It's gotten more packed than I expected.”
-「[H名]、平気？　苦しくない？」=“[H], you fine? Not hard on you, is it?”
+「[H名]、平気？　苦しくない？」=“[H名], you fine? Not hard on you, is it?”
 「私は大丈夫だけど……君、結構きつくない？　私のことだったら気にしなくていいから、もっとくっついていいよ」=“I'm fine but... aren't you having a hard time? You don't need to mind me, you can squeeze closer.”
 「ありがと、そうさせてもら……っ」=“Thanks, I'll do just tha--...”
 （うぐっ、押されて必要以上に[H名]の近くにっ……あぁ、[H名]の良い匂いと体温で……クラッとくる……）=(Uguh--, I got pushed way closer than I was going for... aah, her scent and her warmth... I'm going dizzy...)

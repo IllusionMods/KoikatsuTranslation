@@ -23,13 +23,13 @@
 「あ、うん、もし良かったらぜひ！」=“Ah, yeah, I'd love to, if you don't mind!”
 「えーっと……ちょっと恥ずかしいけど……こういう時は……」=“Eerhm... it's a bit embarrassing to do this but... at times like this...”
 「うん、あーん……」=“Yeah, aaahn...”
-「あむっ！　ん……もぐもぐ……」=*chew*! Nn... *chew chew*...
+「あむっ！　ん……もぐもぐ……」=“*chew*! Nn... *chew chew*...”
 「どうかな？　美味しいよね？」=“How is it? It's delicious, isn't it?”
 「うん、美味しい……けど、[H名]にあーんしてもらえたことが嬉しくて、そっちに気が向いちゃった」=“Yeah, it is... but, being fed by your hand made me so happy, I got distracted and couldn't savour it.”
 「あー、もー……ふふっ、でも分かる。私も結構恥ずかしかったもん」=“Ah, jeez~... fufu--, I feel you though. I was pretty embarrassed too.”
 「あはは。これはちょっと……慣れが必要かも」=“Ahaha. Seems that we... need to get used to this.”
 「うん、それじゃ、お互い慣れるようにもう一度……」=“Yeah, well then, let's do it again then...”
-「はむっ！　ん、もぐもぐ……」=*chew*! Nn, *chew chew*...
+「はむっ！　ん、もぐもぐ……」=“*chew*! Nn, *chew chew*...”
 「どう？　今度は味わえたかな？」=“How is it? Did you manage to savour it this time?”
 「うん！　ほろ苦くて美味しい！　でも……[H名]があーんしてくれたら、どんな食べ物でも美味しいかも」=“Yeah! It's really bittersweet and delicious! But... I think just about anything would taste delicious, if you were the one feeding me.”
 「も、もー、こんな場所でそんなこと言っちゃ恥ずかしいよー」=“J-Jeez~, don't say such stuff here, it's embarrassing~”

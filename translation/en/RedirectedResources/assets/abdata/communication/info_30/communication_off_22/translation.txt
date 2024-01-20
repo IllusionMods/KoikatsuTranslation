@@ -20,7 +20,7 @@
 「しー！　ここじゃ静かにしなきゃダメだよ？」=“Shhh! You gotta be quiet in here, you know?”
 「噂のコイカツ部活動中だね。ちょっと気になるなー」=“Doing those Koikatsu club activities that everyone's been talking about, aren't you? Now I'm a bit curious.”
 「ようやく……ようやくご飯です！」=“Finally... it's finally lunch time!”
-「はふー、今日も無事に終わりました！　伸び伸びー！」=*phew*, and that's another day done and dusted! Finally free!
+「はふー、今日も無事に終わりました！　伸び伸びー！」=“*phew*, and that's another day done and dusted! Finally free!”
 「ひゃあっ！　びっくりしたー。おどかさないでよー」=“Hyah--! You scared me. Don't do that~”
 「どーしたのかな？」=“What is it?”
 「流行に詳しくなるコツを教えて欲しいんだけど……」=“I really wanna know how you stay on top of all the latest trends like that...”
@@ -471,7 +471,7 @@
 「ど、どこ見てるのかな？　もしかして……お……おっぱい……？」=“W-Where are you looking? Is it... m... my boobs...?”
 「どうしてそんなに見てるのー！？　もしかして触りたいの！？」=“Why're you staring so much?! Do you want to touch them!?”
 「もう見るの終わり！　こ、ここじゃなかったらいいんだけど……はぅ……」=“No more! N-Not that I mind, just not here... hauu...”
-「私、こう見えて怒ってるんだよ。もう、ぷんぷん！」=It may not seem like it, but I'm pretty mad, you know? Very mad! *pout*
+「私、こう見えて怒ってるんだよ。もう、ぷんぷん！」=“It may not seem like it, but I'm pretty mad, you know? Very mad! *pout*”
 「わぁっ、手、繋いでくれるの？　嬉しい♪」=“Waah--, you'll hold my hand? I'm so happy♪”
 「そんなににぎにぎされたら恥ずかしいよ、もう」=“It's pretty embarrassing when you squeeze it so much, dummy.”
 「こんなところ誰かに見られたらバカップルだよー！」=“People will think we're a bunch of stupid lovebirds~!”
