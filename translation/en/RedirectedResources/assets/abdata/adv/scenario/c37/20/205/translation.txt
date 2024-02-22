@@ -47,7 +47,7 @@
 「まあまあ。それでも頂上に近いわけだから。今のうちに、ね？」=“Now, now, isn't it fine? We're still close to the summit, so let's do it while we have the chance, please?”
 「あなたが良いなら、どうぞ」=“If you want, go ahead.”
 「ありがとう。じゃあ……」=“Thank you. Then...”
-「んっ……」=“Nn--.........”
+「んっ……」=“Nn--...”
 「……どう？　これも記憶に残りそうかな」=“......How was it? Will that one become a lasting memory too?”
 「よくわかりません」=“I can't say for sure.”
 「あれ……？」=“Erhm...?”

@@ -21,6 +21,10 @@
 スタッズレザーアーム右用=Studded leather arm R
 スタッズレザーアーム左用=Studded leather arm L
 
+// chara/idol_onepiece.unity3d
+//アイドルワンピ袖口(右)=
+//アイドルワンピ袖口(左)=
+
 // chara/JK/BB_acc.unity3d
 ＢＢ=BB
 
@@ -100,6 +104,9 @@ Qテクターパーツ=Q-Tector Parts
 99式手首のヤツ右=Type 99 Wrist (R)
 99式手首のヤツ左=Type 99 Wrist (L)
 99式衛士強化装備肩=Type 99 Pilot Fortified Suit (Shoulder)
+
+// chara/_mods/shy07.unity3d
+//転心輪=
 
 // chara/_mods/takamura2.unity3d
 衛士強化装備肩=Pilot Fortified Suit (Shoulder)

@@ -15,6 +15,9 @@
 // chara/123_excalibur.unity3d
 EX咖喱棒=EX Curry stick
 
+// chara/airis accs common1.unity3d
+//アイリス 指輪=
+
 // chara/ao_hand_halloween.unity3d
 かぼちゃカバン=Pumpkin Bag
 魔法のホウキ=Magic broom
@@ -34,6 +37,10 @@ EX咖喱棒=EX Curry stick
 // chara/ao_hand_valentine.unity3d
 ハートチョコ=Heart chocolate
 ラブレター=love letter
+
+// chara/deathweasel/nailsg.unity3d
+//Fingernails Long（分け）=
+//Fingernails Short（分け）=
 
 // chara/koikoi/ao_hand_42.unity3d
 AI杵=AI pestle

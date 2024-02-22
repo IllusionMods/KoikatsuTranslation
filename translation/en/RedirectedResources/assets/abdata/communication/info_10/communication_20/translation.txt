@@ -6,7 +6,7 @@
 「その……急いでいるので失礼します」=“Uhm... I'm in a rush, so please do excuse me.”
 「……なんですか？」=“...What is it?”
 「ご、ごめんなさい……今、友達に呼ばれていて……し、失礼します」=“I-I'm sorry... A friend's calling me, right now so... e-execuse me.”
-「すー……すー……」=*zzz*... *zzz*...
+「すー……すー……」=“*zzz*... *zzz*...”
 「えっ！？　……あ。そ、そっち向いてください！」=“Eh--?! ...Ah. P-Please turn around!”
 「うぅ、あの、あんまり見ないでください」=“Uuu, uhm, please don't look too much.”
 「あ、どうも……あなたも、屋上が好きなんですか？」=“Ah, hello... do you, like the rooftop too?”

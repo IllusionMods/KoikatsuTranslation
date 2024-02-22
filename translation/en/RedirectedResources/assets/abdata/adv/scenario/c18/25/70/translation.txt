@@ -2,6 +2,6 @@
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
 「これとそれ、あれも多分テストに出ますよ」=“This and that, and that as well, all of these will probably be on the test.”
-「ふむふむ。もう予習済みなのかな？」=*humuhumu*. Already did your prep?
+「ふむふむ。もう予習済みなのかな？」=“*humuhumu*. Already did your prep?”
 「いえ、ノータッチだからです。だから出ます」=“No, I've not touched these areas at all. That's why they'll be on the test.”
 「……難儀してるね」=“...You've had a hard life, huh?”

@@ -7,6 +7,9 @@
 モノクル(右)=Monocle (R)
 モノクル(左)=Monocle (L)
 
+// chara/anse/anse_side_tail_hair_f.unity3d
+//あんせ ルーズサイドテール(前髪)=
+
 // chara/bang_m.unity3d
 M字バング=M-Shaped Bangs
 M字バング(両外)=M-Shaped Bangs (Both Sides)
@@ -381,6 +384,19 @@ M字バングストレート(左)=M-Shaped Straight Bangs (L)
 きのこヘア(逆外右)=Mushroom (Reverse R)
 きのこヘア(逆外左)=Mushroom (Reverse L)
 
+// chara/knight_bang.unity3d
+//ナイトバング(横両)=
+//ナイトバング(横右)=
+//ナイトバング(横左)=
+//ナイトバング(頂全)=
+//ナイトバング(頂内)=
+//ナイトバング(頂内中)=
+//ナイトバング(頂内右)=
+//ナイトバング(頂内左)=
+//ナイトバング(頂外両)=
+//ナイトバング(頂外右)=
+//ナイトバング(頂外左)=
+
 // chara/koi_ao_face_00.unity3d
 狐の面=Fox Mask
 
@@ -468,6 +484,18 @@ M字バングストレート(左)=M-Shaped Straight Bangs (L)
 ストレートカール前(前)=Straight, Curled Bangs (Previous)
 ストレートカール前(外右)=Straight, Curled Bangs (Outside R)
 ストレートカール前(外左)=Straight, Curled Bangs (Outside L)
+
+// chara/wave_short.unity3d
+//ウェーブショート(前両)=
+//ウェーブショート(前右)=
+//ウェーブショート(前左)=
+//ウェーブショート(撥右内)=
+//ウェーブショート(撥右外)=
+//ウェーブショート(撥左内)=
+//ウェーブショート(撥左外)=
+//ウェーブショート(横両)=
+//ウェーブショート(横右)=
+//ウェーブショート(横左)=
 
 // chara/wind_roll.unity3d
 縦巻きロール=Drill Rolls
@@ -588,11 +616,20 @@ M字バングストレート(左)=M-Shaped Straight Bangs (L)
 Sunshine FH 2 - �؂葵���A�V�����g���o���O=Sunshine FH 2 - ???
 Sunshine FH 6 - �؂葵���T�C�h�J�[��=Sunshine FH 6 - ???
 
+// chara/_mods/chloe5.unity3d
+//ヘルメット=
+
+// chara/_mods/chloe8.unity3d
+//ヘルメット2=
+
 // chara/_mods/ituki3.unity3d
 いつき髪 前横=Mitsuki Hair Front Side
 
 // chara/_mods/ituki4.unity3d
 いつき髪 前=Itsuki Hair Front
+
+// chara/_mods/lunamaria3.unity3d
+//ザフトヘルメット=
 
 // chara/_mods/makinami2.unity3d
 真希波アンダーリム=Makinami Underlimb
@@ -614,6 +651,9 @@ Sunshine FH 6 - �؂葵���T�C�h�J�[��=Sunshine FH 6 - ???
 
 // chara/_mods/rider.unity3d
 ライダーマスク=Rider Mask
+
+// chara/_mods/shy08.unity3d
+//SHYアイマスク=
 
 // chara/_mods/takamura4.unity3d
 衛士強化装備顔=Pilot Fortified Suit (Face)

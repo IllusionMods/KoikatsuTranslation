@@ -27,7 +27,7 @@
 「えっと、ここで改めてっていうのも変かもしれないけど……大好きだよ[H名]」=“Erhm, it might be weird for me to say it again like this but... I really love you, [H名].”
 「私もです」=“Me too.”
 「んっ……」=“Nn--...”
-「ん…………はぁ……」=“Nn............ Haa...”
+「ん…………はぁ……」=“Nn... Haa...”
 「[H名]、君の事、もっともっと欲しい……」=“[H名], I want you, so badly...”
 「はい……私も、あなたが欲しくてたまりません」=“Yes... I want you so much too, I can't stand it.”
 「いい……かな？」=“Is it... alright?”

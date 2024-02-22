@@ -14,7 +14,7 @@
 「いいの？　欲しい欲しい」=“You sure? I do, I'd love to.”
 「じゃあお口を開けてください。はい、あーん」=“Then open your mouth for me, please. Here, aaahn.”
 「ありがと！　あーん」=“Thanks! Aaahn~”
-「モグモグ……」=*chew chew*...
+「モグモグ……」=“*chew chew*...”
 「もう、そんなに慌てなくても大丈夫ですよっ」=“You don't need to rush so much, you know--”
 「だって、早く[H名]と間接キスをしたくって……」=“I couldn't help it, I wanted that indirect kiss with you so bad, [H名]...”
 「なっ、なんですかそれ！」=“C-Come off it!”

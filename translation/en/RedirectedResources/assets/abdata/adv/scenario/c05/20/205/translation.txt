@@ -1,14 +1,14 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「ねえねえ[P名]くん、下があんなに小さく見えるよっ」=“Hey, hey, [P]-kun, look, everything down there looks so tiny--”
+「ねえねえ[P名]くん、下があんなに小さく見えるよっ」=“Hey, hey, [P名]-kun, look, everything down there looks so tiny--”
 「あはは、楽しそうでなにより。来てよかったね」=“Ahaha, I'm glad you're enjoying yourself. Good thing we came.”
 「そういや、[H名]は遊園地にはあんまり来たことがないみたいだったけど……最後に観覧車に乗ったのって、いつ？」=“Reminds me, doesn't seem like you come to amusement park all that often... when was the last time you rode on the ferris wheel?”
 「いつだろう……とっても小さい頃だと思うんだけど、あんまり覚えてないよ」=“When indeed... I think when I was really tiny. I don't really remember all that well.”
 「観覧車自体はとっても好きなんだけど、ひとりで乗りに行くには勇気が足りなくって……」=“I actually really like ferris wheels but, the idea of riding it alone always gave me cold feet so...”
 「気づいたら……憧れを抱いて眺めるような、遠いアトラクションになってたの」=“Before I noticed... it became an attraction that I could only dreamily look up to from far away.”
 「だから、今こうしてあなたと一緒に乗ることができて……わたしはすっごく嬉しいの」=“So, right now, I'm really happy... that I get to ride it, with you.”
-「[H名]……」=“[H]...”
+「[H名]……」=“[H名]...”
 「まだ上がっていく……どこまで行くんだろう？」=“We're still going up... how far up are we gonna go?”
 「まだ一番上じゃないから、もう少し高くはなるだろうね」=“We're still not at the top yet so, it'll still go a bit higher than this.”
 「宇宙まで、行けたらいいのにな」=“If only, we could go all the way to space.”
@@ -33,10 +33,10 @@
 「んっ……んん……」=“Nn--... nnn...”
 「ん……」=“Nn...”
 （[H名]の唇、やわらかいな……）=(Her lips, are so soft...)
-「んぅ……ありがと……[P名]くん」=“Nnn... thank you... [P]-kun...”
+「んぅ……ありがと……[P名]くん」=“Nnn... thank you... [P名]-kun...”
 「仲間がいつ来てくれるのか……あなたと一緒にここを出られるのかどうか……」=“When will my comrades show up... whether I'll be able to leave this place together with you...”
 「でも、今は胸の奥が温かくて……安心してる」=“I always worry so much but, right now, my chest feels so warm... I feel relaxed.”
 「好きな観覧車の中で、好きな宇宙に一番近い高さで、好きな[P名]くんとキスができて……」=“Being able to kiss the person I love so much, on the ride I love so much, while being as close as I can be to the place I love so much...”
 「言い表すのが難しいけど……とっても、幸せだよ」=“I don't know how to put it into words but... I am, really happy.”
-「[H名]……俺もだよ。乗る前までは普通の観覧車だって思ってたけど……今はすごく、特別だ」=“[H]... me too. I didn't think all that much of this ride before we got on here but... right now, it's really special to me.”
+「[H名]……俺もだよ。乗る前までは普通の観覧車だって思ってたけど……今はすごく、特別だ」=“[H名]... me too. I didn't think all that much of this ride before we got on here but... right now, it's really special to me.”
 「えへへ……いつか、本当に宇宙に行きながらキスをしようね」=“Ehehe... someday, let's kiss while making our way to space, okay?”

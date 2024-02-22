@@ -9,7 +9,7 @@
 「あはは、やっぱり緊張したよね」=“Ahahah, that really was nerveracking, wasn't it?”
 「はいですっ……でも……その分、すごく貴重な経験が出来たですよ！」=“Yes--... but... in return, we got to have such a valuable experience!”
 「なんて言うか……自分の気持ちに素直になれたというか……いっぱい嬉しくて、いっぱい恥ずかしかったです、えへへっ！」=“How do I say this... I feel like I became more honest with my feelings, like... it made me so happy, and so embarrassed, eheheh!”
-「うん、さっきの[H名]、すごく輝いてた。やっぱり結婚式って……新婦さんが主役なんだね」=“Yeah, you were shining so bright, [H]. The bride really is... the main actress, of any wedding ceremony.”
+「うん、さっきの[H名]、すごく輝いてた。やっぱり結婚式って……新婦さんが主役なんだね」=“Yeah, you were shining so bright, [H名]. The bride really is... the main actress, of any wedding ceremony.”
 「うーん、私からすれば……あなたが主役だなって思ったですよ。世界で一番格好いい彼氏さんだったのです」=“Nnn, from my point of view... you had the lead role. You were the coolest boyfriend anyone could ask for, in this entire world.”
 「あはは、ありがとう。実際の式の時にもそう思ってもらえるように、これからも頑張っていかなきゃね」=“Ahahah, thanks. Guess I'll have to work even harder, so that you feel the same way on the day of our real wedding too.”
 「じ、実際の式……！　あ、あの……それって……私……」=“O-Our real wedding...! U-Uhm... is that... are you...”

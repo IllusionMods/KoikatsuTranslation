@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「ハァハァ……まさか、[H名]がこんなに飢えてたなんて……」=“Haah, haah... I didn't know you were that thirsty, [H]...”
+「ハァハァ……まさか、[H名]がこんなに飢えてたなんて……」=“Haah, haah... I didn't know you were that thirsty, [H名]...”
 「がるるっ、あたしにだって性欲はあるからな。女だからと、変に美化しない方がいいぞ？」=“Grr~, even I have a sex drive, you know? The earlier you get rid of that idolized image of me, the better, for your own sake, alright?”
 「うぅ……羊だって、群の中にいれば安全だと思うよ。まさか襲ってくるなんて、予想外過ぎる……」=“Uuu... even sheep are safe in packs, you know. To think you'd assault me anyway, I never expected that...”

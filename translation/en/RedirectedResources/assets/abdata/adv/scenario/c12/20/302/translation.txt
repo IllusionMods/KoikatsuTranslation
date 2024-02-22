@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「おー！　[H名]、超良かったよー！」=“Oooh! That was super awesome, [H]!”
+「おー！　[H名]、超良かったよー！」=“Oooh! That was super awesome, [H名]!”
 「はは、褒め過ぎだって。たぶん採点とか付けたら、そんなでもないと思うぞ？」=“Hahah, you're laying it on too thick. It'd probably get middling score from the thing, you know?”
 「じゃあ、次は採点機能付きで歌ってみる？　[H名]なら絶対いい点数とれると思うけど」=“Wanna do it with the scoring on for the next one then? You'd score pretty high, atleast I think so.”
 「いいって、あたし採点機能苦手なんだよ。なんか凄い歌い難くなるんだ」=“It's fine, I don't like stuff like that. It kinda puts me on the spot, makes it hard to sing.”

@@ -17,6 +17,9 @@
 // chara/373.unity3d
 美波七海 gloves=Minami Nanami gloves
 
+// chara/anse/anse_toa_school_uniform_armlet.unity3d
+//あんせ柊杏学園腕輪(学年章)=
+
 // chara/AntY/co_gloves_00.unity3d
 アラストル Ant Y Long Gloves=Arastole Ant Y Long Gloves
 アラストル Ant Y Long Gloves Fingerless=Arastole Ant Y Long Gloves Fingerless
@@ -29,6 +32,9 @@
 
 // chara/c.unity3d
 C酱 gloves=Shiyuu Chishiki gloves
+
+// chara/cdpsb0/iori_glove.unity3d
+//銀鏡イオリ グローブ=
 
 // chara/co_gloves_xmas.unity3d
 サンタ=Santa Claus
@@ -160,11 +166,17 @@ C酱 gloves=Shiyuu Chishiki gloves
 // chara/_mods/chirai_02.unity3d
 チライグローブ=Chillai glove
 
+// chara/_mods/eva6.unity3d
+//軍手と腕カバー=
+
 // chara/_mods/gantz_suit3.unity3d
 ガンツグローブ=Gantz Glove
 
 // chara/_mods/gantz_suit7.unity3d
 ガンツグローブ2=Gantz glove 2
+
+// chara/_mods/kallen01.unity3d
+//ギアスパイスー2袖=
 
 // chara/_mods/makinon04.unity3d
 マキノグローブ=Makino glove
@@ -186,6 +198,9 @@ C酱 gloves=Shiyuu Chishiki gloves
 
 // chara/_mods/rider2.unity3d
 ライダー手袋=Rider Gloves
+
+// chara/_mods/shy04.unity3d
+//SHYグローブ=
 
 // list/characustom/00_vkat02.unity3d
 ショートグローブ(指ぬき)=Short Gloves (Fingerless)

@@ -6,7 +6,7 @@
 「邪魔だ、失せろ」=“Fuck off, you're in my way.”
 「どけよ、邪魔なんだよ」=“Move, you're in the way.”
 「んだよ、こっちは忙しいんだよ」=“The heck you want, I'm busy here.”
-「むにゃむにゃ……」=*mumble~*...
+「むにゃむにゃ……」=“*mumble~*...”
 「おい！　てめぇ！　何見てんだ！」=“Hey! Bastard! What'cha lookin' at!”
 「なにじろじろ見てんだてめぇ！」=“The heck do you think you're staring at, you bitch!”
 「なんで、ここにいんだよ……」=“Why are you, here...”
@@ -443,7 +443,7 @@
 「……なんでそんなイジワルすんだよ！　泣くぞっ！」=“...Why're you such a meanie! I'mma cry--!”
 「ちょっと目つぶれ」=“Shut your eyes for a bit.”
 「？　こう？」=“? Like this?”
-「チュッ。隙あり！　ざまぁねぇな！」=*Smooch*. Got you! Never saw it coming, did ya!
+「チュッ。隙あり！　ざまぁねぇな！」=“*Smooch*. Got you! Never saw it coming, did ya!”
 「昨日夢にお前が出てきたぞ」=“You showed up in my dream yesterday.”
 「どんなだった？」=“And, how was I?”
 「夢の中でも相変わらずかっこよかったぞ！」=“Even in my dream, you were just as cool as usual!”
@@ -481,7 +481,7 @@
 「ちょっ！　ここも立派な性感帯なんだからな！」=“Hey--! This is a sensitive spots too, on girls' bodies, you know!”
 「お前にこうされると落ち着くんだよなぁ」=“When you do that, it really calms me down.”
 「お～い。このまま寝ちまうぞ～？　いいのか～？」=“Ooi~. I'm gonna drop dead asleep right on ya at this rate~. Sure you want that~?”
-「むにゃむにゃ……なんだか眠くなってきちまった……」=*yawn*... man, I'm getting sleepy...
+「むにゃむにゃ……なんだか眠くなってきちまった……」=“*yawn*... man, I'm getting sleepy...”
 「え……！　なんだよ……。ビックリするだろ？」=“Eh...! What is it... You know that surprises the bejesus out of me.”
 「おい！　チューしろよ、チュー！　ったく、焦らしやがって！」=“Oi! Kiss me, c'mon! Jeez, always such a tease!”
 「なんだよ、チューするんじゃねぇのかよ……」=“The heck, not gonna kiss me...?”

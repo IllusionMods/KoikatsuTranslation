@@ -28,7 +28,7 @@
 「今度はゆっくり、じっくりとだ。なんなら背中に手も回せ」=“Slowly and thoroughly, this time. If you feel like it, rub my back too.”
 「はは、注文が多いな……わかったよ」=“Haha, someone has a lot of orders today... Got it.”
 「んっ……」=“Nn--...”
-「んんっ……ぁ……」=“Nnnn---... ah......”
+「んんっ……ぁ……」=“Nnnn---... ah...”
 「[H名]……これでいい？」=“[H名]... was that fine?”
 「……ま、まあまあだな」=“...I-It was so-so.”
 「はは、厳しいなぁ……ねぇ、[H名]」=“Haha, that's pretty harsh... hey, [H名].”
@@ -36,7 +36,7 @@
 「もうちょっと、このままでいてもいい？」=“Can we stay like this, just for a bit longer?”
 「……せっかくの夜景が見えないぞ」=“...We won't be able to see the beautiful night sky, you know?”
 「俺は夜景よりも、[H名]とこうしていたいんだよ」=“Forget the night sky, I want to stay with you like this, [H名].”
-「……し、しゃーないな。ちょっとだけだぞ」=“......G-Guess it can't be helped. Just for a bit, okay?”
+「……し、しゃーないな。ちょっとだけだぞ」=“...G-Guess it can't be helped. Just for a bit, okay?”
 「[H名]……俺も[H名]と一緒にいられるのは、すごく不思議な感じがするよ」=“[H名]... It feels really incredible for me too, you know, to be together with you like this.”
 「そう……なのか？」=“Is that... so?”
 「ああ、だってこんなに幸せだ……」=“Yeah, I mean, I feel so happy right now...”

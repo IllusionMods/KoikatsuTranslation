@@ -11,10 +11,10 @@
 CHOICE:『自宅に誘う』=Take to your place.
 CHOICE:『ラブホに誘う』=Take to love hotel.
 CHOICE:『さよならする』=Say goodbye.
-「[H名]……もし、時間が作れるなら、俺の家に来て欲しいんだ」=“[H]... if it's possible, for you to make some time, I want you to come to my place.”
+「[H名]……もし、時間が作れるなら、俺の家に来て欲しいんだ」=“[H名]... if it's possible, for you to make some time, I want you to come to my place.”
 「……ふふ、誘ってもらえて嬉しいです。実はもう、外泊することは伝えてあるんです。申し訳ありません、カマをかけてしまいました」=“...Fufu, I'm really happy that you asked. I've actually already informed my parents, that I'll be staying over tonight. I'm sorry, I tricked you into inviting me first.”
 「えっ、そうだったんだ。あはは、まんまと引っ掛かっちゃったかな。でも、嬉しいよ、行こうか」=“Eh--, I see. Ahaha, guess I feel right into that one. But, I'm glad, let's go.”
-「あのさ、[H名]。実は……一緒に行きたいところがあるんだ」=“Hey, listen, [H]. There's actually... a place I want to go with you.”
+「あのさ、[H名]。実は……一緒に行きたいところがあるんだ」=“Hey, listen, [H名]. There's actually... a place I want to go with you.”
 「これからですか？　はい、構いませんよ」=“Right now? Yes, I don't mind.”
 「いいの？」=“You sure?”
 「ええ。あんまり遅くなるようでしたら、実家に連絡しますから」=“Yes. If it gets late out, I'll just call my parents.”

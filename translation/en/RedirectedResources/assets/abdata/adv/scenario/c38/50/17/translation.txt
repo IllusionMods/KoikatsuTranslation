@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-『[P名]さんへ。おはようございます。起こしてしまうのは忍びなかったので、先に行かせて頂きます』=「To [P]-san. Good morning. I couldn't bear the thought of disturbing your sleep, I shall head out first.」
+『[P名]さんへ。おはようございます。起こしてしまうのは忍びなかったので、先に行かせて頂きます』=「To [P名]-san. Good morning. I couldn't bear the thought of disturbing your sleep, I shall head out first.」
 『お食事とお着換えは用意してありますので、よろしければご利用ください』=「I have prepared breakfast as well as your change of clothes, so please do make good use of both.」
 『それでは、学園でお待ちしております。昨晩のことは、二人の秘密でお願いします。[H名]より』=「I shall be waiting for you at school. Please keep our tryst last night, a secret from others. From [H名]」

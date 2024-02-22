@@ -1,23 +1,23 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「[H名]さんのハンバーグ、美味しそうだね」=“Miss [H名], your Hamburg steak looks delicious.”
-「すぐそうやって、人のものを食べたがるのやめなさい。意地汚いわよ」=“Stop talking like you want to eat other people's food, you glutton.”
-「えぇ、まだ何も言ってないのに……」=“Eeh, but I didn't say anything yet...”
-「どうせ、あと１分もしないうちに言うでしょ？　だから先に釘を刺しておいたのよ」=“But you'd say it a minute later, right? That's why I've given you a warning.”
-「うぅ、俺の行動パターンがバレてる……」=“Uu, you know me too well...”
-「行動が単純過ぎるからよ。幼稚とも言えるわね」=“You're just too simple, like a baby.”
-「うぅぅ……そこまで言われたら開き直るしかない！　ハンバーグ一口ちょうだい！」=“Uuh... If you say it this far, then I'll be blunt.  Let me have a taste of your steak please!”
-「いいわよ。ほら、食べてみなさいっ」=“Okay. Here, eat it!”
-「あづっ！　ハンバーグ熱い！　[H名]さん、ちょっとずれてる！　そこ口じゃなくて頬！」=“Id'z hod! Agh, it's hot! Miss [H名], I think you've missed. It's my cheek, not my mouth!”
-「フフッ、なかなかいい反応をするじゃない。ご褒美よ、そのまま口をずらして食べなさい」=“Fufu, a nice retort. Here's a reward, shift your mouth and eat.”
-「うぅ、カップルの『あーん』て、こんな熱くて痛いものだっけ……」=“Uu, was couple's 'aah' feeding always this hot and painful...?”
-「なに？　文句があるなら、このままフォークで刺してあげましょうか？」=“What? If you want to complain, maybe I should stab you with this fork?”
-「いえ！　何でもないです！　あーん！」=“No! It's nothing! Aah!”
-「はむっ、んぐっ……はい！　美味しいです！」=“Om nom, *gulp*... Yeah! It's delicious!”
-「ンフッ、よろしい。いつもそうやって素直でいなさい。餌がたくさん貰えるかもしれないわよ？」=“Very well. Always be honest like this. My pet might get even more food.”
-「それは嬉しいけど……いつか口を火傷しそう……」=“I'm happy about it, but... My mouth will eventually get burned...”
-「ん？　火傷してないの？　しまったわね……私とした事が」=“Nn? I'm burning you? Oh no... Me of all people...”
-「いやっ、普通火傷させるものじゃないからね？　周りの『あーん』を見てよっ」=“Nah, it's just a normal burn. Watch other people do 'aah'.”
-「……誰も『あーん』なんてしてないわよ？　参考にしようがないわね」=“... Nobody else's doing it, you know? There's nobody to use as a reference.”
-「そ、そうですね……はい……」=“T-that's true... Yeah...”
+「[H名]さんのハンバーグ、美味しそうだね」=“Your hamburg steak sure looks delicious, [H名]-san.”
+「すぐそうやって、人のものを食べたがるのやめなさい。意地汚いわよ」=“Stop always having your eye on others' food, it really makes you look like a greedy pig.”
+「えぇ、まだ何も言ってないのに……」=“Eeh, I haven't said anything yet though...”
+「どうせ、あと１分もしないうちに言うでしょ？　だから先に釘を刺しておいたのよ」=“At best it'll take a minute before you do. So I thought to give you a warning in advance.”
+「うぅ、俺の行動パターンがバレてる……」=“Uuu, you've got me figured out too well...”
+「行動が単純過ぎるからよ。幼稚とも言えるわね」=“There's nothing to figure out. You're like but a child.”
+「うぅぅ……そこまで言われたら開き直るしかない！　ハンバーグ一口ちょうだい！」=“Uuu... If you go that far, then I have no choice but to be blunt. Let me have a bite of your steak!”
+「いいわよ。ほら、食べてみなさいっ」=“No problem. Here, try some.”
+「あづっ！　ハンバーグ熱い！　[H名]さん、ちょっとずれてる！　そこ口じゃなくて頬！」=“Hot--! It's really hot! [H名]-san, you're off the mark! That's not my mouth, but rather my cheek!”
+「フフッ、なかなかいい反応をするじゃない。ご褒美よ、そのまま口をずらして食べなさい」=“Fufu--, quite the nice reaction. For your reward, shift your mouth a bit and eat.”
+「うぅ、カップルの『あーん』て、こんな熱くて痛いものだっけ……」=“Uuu, Is the act of a couple feeding each other really supposed to be this hot and painful?”
+「なに？　文句があるなら、このままフォークで刺してあげましょうか？」=“What? If you have any objections, shall I stab you with the fork like this?”
+「いえ！　何でもないです！　あーん！」=“Nope! It was nothing! Aaahn!”
+「はむっ、んぐっ……はい！　美味しいです！」=“*Chew*--, *Gulp*... Indeed, it's really tasty!”
+「ンフッ、よろしい。いつもそうやって素直でいなさい。餌がたくさん貰えるかもしれないわよ？」=“nnfu--, Good. Always be docile like this. If you do, who knows, maybe you'll receive a lot more fodder in the future.”
+「それは嬉しいけど……いつか口を火傷しそう……」=“That makes me happy but uh... My mouth will eventually end up burnt like this...”
+「ん？　火傷してないの？　しまったわね……私とした事が」=“Hm? You didn't get burnt? Oh my... I screwed up, me of all people.”
+「いやっ、普通火傷させるものじゃないからね？　周りの『あーん』を見てよっ」=“No, in the first place, you're not supposed to burn the other person, you know? Look at the other people feeding each other.”
+「……誰も『あーん』なんてしてないわよ？　参考にしようがないわね」=“...Nobody else is doing it, you know? I have nothing to use as reference, so it can't be helped.”
+「そ、そうですね……はい……」=“O-Of course... You're right... Yes...”

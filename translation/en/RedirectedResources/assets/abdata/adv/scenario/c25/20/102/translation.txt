@@ -18,11 +18,11 @@
 「……う～ん、美味しい～。ほっぺが落ちちゃいそう～」=“...Yeah, it's tasty~. Super delish~”
 「汗一つかいてない……ほ、本当に激辛好きなんだね……」=“Not a single drop of sweat... y-you really do like spicy stuff, huh?...”
 「……あれ？　頬にソースが付いてるよ？」=“...Huh? There's some sauce on your cheek, you know?”
-「ちょっと、じっとしてて……よし、これで大丈夫……ペロッ」=Here, sit still for a moment... alright, this ought to be fine... *lick*
+「ちょっと、じっとしてて……よし、これで大丈夫……ペロッ」=“Here, sit still for a moment... alright, this ought to be fine... *lick*”
 「あっ……舐めるんすね、それ……」=“Ah--... you're gonna lick it off, huh...”
-「……ん？　んんっ！？　ゴホッ、ゴホッ！　ちょっと、[H名]！　このソース辛過ぎじゃない！？」=“......nn? nnn--!? *cough*, *cough*--! Hey, [H名]! Isn't this sauce way too damn spicy?!”
+「……ん？　んんっ！？　ゴホッ、ゴホッ！　ちょっと、[H名]！　このソース辛過ぎじゃない！？」=“...nn? nnn--!? *cough*, *cough*--! Hey, [H名]! Isn't this sauce way too damn spicy?!”
 「そう？　いつも私これぐらいだからわかんないな～」=“Is it? I always eat stuff this spicy so I couldn't really tell~”
-「ゴホッ、ゴホッ！　ダメだ！　ちょっと飲み物買ってくる！！」=*cough*, *cough*! I can't! I'mma go buy something to wash it down!!
+「ゴホッ、ゴホッ！　ダメだ！　ちょっと飲み物買ってくる！！」=“*cough*, *cough*! I can't! I'mma go buy something to wash it down!!”
 「辛いのは苦手かな～、すぐに胃が痛くなっちゃうんだよね～」=“I'm pretty bad with spicy stuff, actually~, makes my stomach ache right away~”
 「って、急になんすか～？」=“--Why'd you wanna know that so suddenly though~?”
 「いや、ちょっと確認しておきたくて。ありがと、ちょっと待ってて」=“No, well, I just wanted to confirm something. Thanks, wait just a moment.”

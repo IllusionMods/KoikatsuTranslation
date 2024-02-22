@@ -2,6 +2,10 @@
 // Dumped for Koikatsu v5.1 (Koikatu) by KK_ModTextDump v0.7.0.1
 //
 
+// chara/deathweasel/nailsg.unity3d
+//Toenails Long（分け）=
+//Toenails Short（分け）=
+
 // chara/kaguranana.unity3d
 カグラナナ アーティストver. frills=Karuga Nana Artist ver. frills
 

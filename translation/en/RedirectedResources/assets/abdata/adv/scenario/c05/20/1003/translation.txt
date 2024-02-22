@@ -31,7 +31,7 @@
 「安心？」=“You're not?”
 「さっき、あなたは言ってくれたでしょ？　ずっと一緒にいたい、って」=“You said it just then, didn't you? That you want to stay by me forever.”
 「すっごく嬉しかった……不安も全部、どこかへ飛んでいっちゃったよ」=“That made me really happy... all my anxiety, got blown away too.”
-「あなたが彼氏でよかった……ありがとうね、[P名]くん」=“I'm glad you're my boyfriend... thank you, [P]-kun.”
+「あなたが彼氏でよかった……ありがとうね、[P名]くん」=“I'm glad you're my boyfriend... thank you, [P名]-kun.”
 「……こちらこそ。[H名]が彼女だったから、俺は大切なことに気づけたんだ」=“...Same here. It's because you're my girlfriend, that I got to realize something very important to me.”
 「[H名]が彼女でいてくれて……本当によかった」=“I really am thankful... that you're my girlfriend.”
 「えへへ……地球でも、宇宙でも、ずっと一緒にいようね」=“Ehehe... whether on Earth, or in space, let's stay together forever, okay?”

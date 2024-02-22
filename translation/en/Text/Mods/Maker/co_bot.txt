@@ -40,6 +40,13 @@
 // chara/anse/anse_sayoko_skirt.unity3d
 二段フリルスカート=Two-tiered Frilled Skirt
 
+// chara/anse/anse_toa_school_uniform_bottm.unity3d
+//あんせ柊杏学園キュロット=
+//あんせ柊杏学園スカート=
+
+// chara/anse_sailor_bikini_skirt.unity3d
+//あんせセーラービキニ スカート=
+
 // chara/ao_head_01.unity3d
 宽松礼服长裤=Long pants for formal wear
 
@@ -48,6 +55,9 @@
 
 // chara/c.unity3d
 C酱 gloves2=Shiyuu Chishiki gloves2
+
+// chara/cdpsb0/iori_bot_skirt.unity3d
+//銀鏡イオリ スカート=
 
 // chara/chivic/addcloth05.unity3d
 スカート05_cloth=Skirt 05_cloth
@@ -83,6 +93,9 @@ C酱 gloves2=Shiyuu Chishiki gloves2
 // chara/exe/miku.unity3d
 ミクスカート=Mini skirt
 
+// chara/gradation_hakama.unity3d
+//弓道袴(グラデーション)=
+
 // chara/Hayashi/hayashi_bot_open.unity3d
 前開きスカートA=Front-opening skirt A
 前開きスカートB=Front-open skirt B
@@ -105,6 +118,12 @@ C酱 gloves2=Shiyuu Chishiki gloves2
 
 // chara/hime_co_bot_03.unity3d
 姫様 concert skirt ep5=Hime Concert Skirt ep5
+
+// chara/idol_onepiece.unity3d
+//アイドルワンピ(下)=
+//アイドルワンピ(下柄抜)=
+//アイドルワンピ(下追加色)=
+//アイドルワンピ(下追加色柄抜)=
 
 // chara/jeans/rollup_jeans.unity3d
 ジーンズ(ロールアップ)=Jeans (Roll-up)
@@ -255,6 +274,9 @@ NBYパンツ=NBY Pants
 // chara/onepiece.unity3d
 ワンピース(下だけ)=One-Piece (Bottom Only)
 
+// chara/r_shortjeans/rollup_shorts.unity3d
+//デニムショーツ(ロールアップ)=
+
 // chara/sage/sagesk.unity3d
 ボックススカートAへそ出し=Box skirt A Navel-baring
 
@@ -267,6 +289,9 @@ NBYパンツ=NBY Pants
 
 // chara/Sen3_rean.unity3d
 黎恩服饰=Beach Beach Clothing
+
+// chara/sheryl top2.unity3d
+//シェリル skirt=
 
 // chara/shortjeans/ripped_shortjeans.unity3d
 デニムショートパンツ=Denim Shorts
@@ -430,6 +455,9 @@ PCゴシックロリータ スカート=PC Gothic Lolita Skirt
 
 // chara/_mods/otokura.unity3d
 乙倉パンツ=Otokura Pants
+
+// chara/_mods/run02.unity3d
+//三ズノランニングショーツ=
 
 // chara/_mods/sinon03.unity3d
 シノンチャップス=Chinon Chaps

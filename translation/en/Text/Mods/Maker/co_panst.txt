@@ -5,6 +5,13 @@
 // chara/07/co_panst_07.unity3d
 サイドレースレギンス=Side Lace Leggings
 
+// chara/anse/anse_pantyhose.unity3d
+//あんせ パンスト=
+//あんせ パンスト(伝線)=
+
+// chara/anse/anse_toa_school_uniform_petticoat.unity3d
+//あんせ柊杏学園ペチコート=
+
 // chara/AntY/co_panst_00.unity3d
 アラストル Ant Y Meow Socks 1=Alastor Ant Y Meow Socks 1
 アラストル Ant Y Meow Socks 2=Alastor Ant Y Meow Socks 2
@@ -21,6 +28,14 @@
 アラストル Ant Y Stockings Transparent 2 (Garter Belt)=Arastru Ant Y Stockings Transparent 2 (Garter Belt)
 アラストル Ant Y Stockings Transparent 3=Arastru Ant Y Stockings Transparent 3
 アラストル Ant Y Stockings Transparent 3 (Garter Belt)=Arastre Ant Y Stockings Transparent 3 (Garter Belt)
+
+// chara/AntY/meow.socks.unity3d
+アラストル Ant Y Meow Socks 1=Alastor Ant Y Meow Socks 1
+アラストル Ant Y Meow Socks 2=Alastor Ant Y Meow Socks 2
+アラストル Ant Y Meow Socks 3=Alastor Ant Y Meow Socks 3
+//アラストル Ant Y Meow Socks 4=
+//アラストル Ant Y Meow Socks 5=
+//アラストル Ant Y Meow Socks 6=
 
 // chara/bot_makoto.unity3d
 休闲口袋=Casual Bag
@@ -53,6 +68,9 @@ C酱 jacket=Shiyuu Chishiki jacket
 
 // chara/escargot_003_06_co_panst_01.unity3d
 網タイツ(ハイレグ対応)(opt①or②)=Mesh Tights (for High Legged) (opt ①/②)
+
+// chara/IchikaSailor_collar_chara.unity3d
+//一歌セーラー=
 
 // chara/JK/BB_socks.unity3d
 アイドルニーソックス2=Idol Knee Socks 2
@@ -241,6 +259,9 @@ C酱 jacket=Shiyuu Chishiki jacket
 
 // chara/_mods/fumina02.unity3d
 フミナ2=Fumina 2
+
+// chara/_mods/kallen02.unity3d
+//ギアスパイスー2足=
 
 // chara/_mods/makinon05.unity3d
 マキノガーター=Makino Garter

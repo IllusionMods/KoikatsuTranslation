@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「あ、今ちょっといいかな」=“Ah, do you have a moment?”
-「初めまして。お噂はかねがね伺っております」=“Nice to meet you. I've heard quite a lot about you.”
-「じゃあ、話が早いかな。よかったら、俺とお話してもらいたいんだ」=“Well, that was quite fast. If you'd like, I want to chat with you.”
-「学園長が発案されたと聞いています。私でよろしければ協力させてください」=“I'm told this was the principal's idea. Let me help you if I may.”
-「ありがとう！　それじゃあ早速……」=“Thank you!　Well now...”
+「あ、今ちょっといいかな」=“Ah, got a moment?”
+「初めまして。お噂はかねがね伺っております」=“Well met. I've heard quite a lot about you.”
+「じゃあ、話が早いかな。よかったら、俺とお話してもらいたいんだ」=“That'll make this quick then. I'd like to chat with you, if possible.”
+「学園長が発案されたと聞いています。私でよろしければ協力させてください」=“I did hear about the principal sending you off on such a task. If you'll have me, then gladly.”
+「ありがとう！　それじゃあ早速……」=“Thanks! Well then...”

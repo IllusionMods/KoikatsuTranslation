@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「天気がいいから俺たち以外にも歩いてる人が結構いるね。[H名]はよく散歩したりする？」=“With how nice the weather this, there's all sorts of people about, huh? Do you go on walks often, [H]?”
+「天気がいいから俺たち以外にも歩いてる人が結構いるね。[H名]はよく散歩したりする？」=“With how nice the weather this, there's all sorts of people about, huh? Do you go on walks often, [H名]?”
 「いや、我は通学する道行き以外はあまり行かぬのだ」=“No, I do not tread much ground apart from the march to school and back.”
 「そもそも、我は漆黒満ちる魔界の者だ。魔界とは闇に溢れる静寂の世界」=“To begin with, I am a denizen of the dark. The demon world is a place overflowing with naught but darkness and silence.”
 「そうなの？」=“That so?”

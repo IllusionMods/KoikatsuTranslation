@@ -26,8 +26,8 @@
 「ほんとにほんとに、マジ嬉しかったんだ」=“Your words really did make me super happy, really.”
 「そっか。正直まだまだ……全然言い足りないんだけど、……好きだよ、[H名]」=“I see. Honestly I... still haven't said all that I wanted to say but,... I love you, [H名].”
 「マジずるい……アタシも、大好きだよっ！」=“That's super unfair... me too, I love you too--!”
-「んんっ……んぅ……」=“Nnn--... nnn......”
-「んっ……」=“Nn--......”
+「んんっ……んぅ……」=“Nnn--... nnn...”
+「んっ……」=“Nn--...”
 「……っぱっ……はぁ、はぁ……」=“...--pah--... haaa, haa...”
 「もう、我慢できない……キスだけじゃ足りないや」=“I can't, endure it anymore... Kissing isn't enough.”
 「えっ、キスだけじゃ足りないって……シたいってこと？」=“Eh--, "kissing isn't enough"... does that mean you wanna do it?”

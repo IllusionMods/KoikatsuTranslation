@@ -5,7 +5,7 @@
 「えへへ、すごく嬉しいです！　私もちょうどこういう賑やかなところへ来たかったですよ！」=“Eheheh, I'm super happy! I wanted to come and spend some time in such a bustling place myself!”
 「良かった。それじゃ早速、何か乗ってみる？」=“Great. Well then, let's not waste time. What should we start with?”
 「はいです！　えーっと……どんなものでも平気ですか？　苦手なものとかあれば言ってくださいです」=“Yes! Erhm... is anything fine? If there are any rides you don't like, please tell me.”
-「俺？　俺はなんでも平気だよ。むしろ[H名]は大丈夫なの？」=“Me? I'm fine with anything. If anything, are you fine with anything, [H]?”
+「俺？　俺はなんでも平気だよ。むしろ[H名]は大丈夫なの？」=“Me? I'm fine with anything. If anything, are you fine with anything, [H名]?”
 「ええ、どれも大好きですよ！　さっきパンフレットを見て、ちょっと気になるものがあったから……行っていいですか？」=“Yes, I love them all! The pamphlet from earlier got me really interested in a specific one... could we go there?”
 「もちろん！　どんな乗り物？」=“Of course! What ride is it?”
 「あそこに見えている……逆バンジーなのです！」=“It's that one over there... the reverse bungee!”

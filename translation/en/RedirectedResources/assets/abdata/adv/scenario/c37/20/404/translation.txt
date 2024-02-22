@@ -18,7 +18,7 @@
 「ん、確かに、イチゴの酸っぱさとクリームの甘さがマッチしてるね。[H名]があーんしてくれたから、さらに美味しくなったかも」=“Hmm, for sure, the sourness of the strawberries and the sweetness of the cream are battling it out. And since you fed me it while going "Aaahn", I think it tastes even better.”
 「ふむ、私の羞恥心が味を増した、という事でしょうか？」=“Hmm, so you're trying to say that my embarrassment increased the flavour?”
 「あれ、恥ずかしがってたの？」=“Huh? Did you get embarrassed?”
-「……パフェ、美味しいですね」=“......The parfait, it's delicious, isn't it.”
+「……パフェ、美味しいですね」=“...The parfait, it's delicious, isn't it.”
 （あ、誤魔化した……）=(Ah, she dodged it...)
 「控えめな甘さが丁度いいです」=“The mild amount of sweetness is just perfect.”
 「[H名]、甘い物あんまり得意じゃないもんね」=“You don't really like sweet stuff, do you, [H名]?”
@@ -26,7 +26,7 @@
 「構いませんよ」=“I don't mind.”
 「ありがとう。じゃあ、あーん」=“Thanks. Then, "Aaahn".”
 「どうぞ……あーん」=“Here you go... Aaaahn.”
-「あむっ……」=*Bite*...
-「……うん、確かに甘さはそんなに強くないね。これならいくらでも食べられそうだよ」=“......Yeah, it's really not all that sweet, is it? With only this much sweetness, I feel like I could scarf down absolutely tons of the stuff.”
+「あむっ……」=“*Bite*...”
+「……うん、確かに甘さはそんなに強くないね。これならいくらでも食べられそうだよ」=“...Yeah, it's really not all that sweet, is it? With only this much sweetness, I feel like I could scarf down absolutely tons of the stuff.”
 「……これが餌付けをしている親鳥の気分でしょうか。もっと食べますか？」=“...I wonder if this is what it feels like when a mother bird feeds her hatchlings. Would you like some more?”
 「あははは、[H名]のがなくなっちゃうって。今度来た時頼んでみるよ」=“Ahahaha, then your portion will disappear, no? I'll order some for myself the next time we come here.”

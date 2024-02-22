@@ -15,7 +15,7 @@
 「うん、ありがとう。これは私からのお礼……」=“Yeah, thanks. Here's is a little present, from me...”
 「んっ、んんっ……」=“Nn--, nnnn--...”
 「ん……」=“Nn...”
-「……っ。嬉しいよ、大好きだ」=“......I'm really happy. I love you.”
+「……っ。嬉しいよ、大好きだ」=“...I'm really happy. I love you.”
 「うん……私も、大好き……」=“Yeah... I love you too...”
 「…………」=“......”
 CHOICE:『エッチしようと誘ってみる』=『Try asking for sex.』

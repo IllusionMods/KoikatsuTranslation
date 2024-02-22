@@ -2,12 +2,18 @@
 // Dumped for Koikatsu v5.1 (Koikatu) by KK_ModTextDump v0.7.0.1
 //
 
+// chara/cdpsb0/iori_face.unity3d
+//銀鏡イオリ アイライン=
+
 // chara/dak/mt_eyeline_up_00.unity3d
 タイプ18改=Type 18 Revision
 タイプ48改=Type 48 Kai
 タイプ50改=Type 50 Kai
 タイプ50改2=Type 50 Kai2
 タイプ52改=Type 52 Kai
+
+// chara/dionel_sugiura_sakura_eyeline_up.unity3d
+//杉浦咲良アイライン上=
 
 // chara/Hiro/hiro_eyeline_up_00.unity3d
 タイプ２１改（一重）=Type 21 Kai (Single Eyelid)
@@ -30,8 +36,14 @@
 // chara/mod/mod_ranrin_acm.unity3d
 アイライン上_嵐燐結騎=On the eyeliner_Arashi Rin Yuki
 
+// chara/mt_dionel_ive_eyeline_up.unity3d
+//イヴのアイライン上=
+
 // chara/noa/noa_eyeline_up.unity3d
 乃愛=Noa
+
+// chara/proseka_miku_eyeline_chara.unity3d
+//プロセカミク=
 
 // chara/sagiri/sagiri_eyeline_up.unity3d
 紗霧=Sagiri

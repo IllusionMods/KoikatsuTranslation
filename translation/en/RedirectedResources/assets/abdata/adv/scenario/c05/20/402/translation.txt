@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「こうやって、[H名]とふたりで喫茶店に来てるだけでたのしいよ」=“It's just fun to just come and relax at a cafe with you like this, [H].”
+「こうやって、[H名]とふたりで喫茶店に来てるだけでたのしいよ」=“It's just fun to just come and relax at a cafe with you like this, [H名].”
 「うん。いろんなところで遊ぶのもいいけれど、あなたとゆったり喋るのも好き」=“Yeah. Having fun in all sorts of places is nice too but, I love chatting with you like this too.”
 「気に入ってもらえているようでなによりだよ」=“I'm glad you're enjoying yourself.”
-「[H名]は、オシャレな喫茶店とかよく来たりするの？」=“Do you go to trendy shops like these often, [H]?”
+「[H名]は、オシャレな喫茶店とかよく来たりするの？」=“Do you go to trendy shops like these often, [H名]?”
 「ううん、あんまり来ないよ」=“No, not really.”
 「本当はこういうオシャレな場所に、もっと来たいと思ってるんだけど……」=“I actually do want to come to places like this more often but...”
 「とはいえ、学生の身分でやたら散財するわけにもいかないからね」=“but I suppose we can't go around just recklessly burning through our wallets, especially as students.”
@@ -15,7 +15,7 @@
 「わかるなぁ、それ。でも、そう言う割には結構くつろいでない？」=“I feel that. Though, you say that, but it doesn't seem to me like you're all that stiff right now.”
 「今は大丈夫。わたしには大いなる存在がついてるから」=“Right now, I'm fine. Since a great existence is shielding me.”
 「ああ……それって、“かれら”――」=“Aah... you mean "the--”
-「違う。[P名]くんのこと……」=“No. I'm talking about you, [P]-kun...”
+「違う。[P名]くんのこと……」=“No. I'm talking about you, [P名]-kun...”
 「あなたと一緒なら、どこに行っても怖くないの」=“When you're with me, I don't feel scared, no matter where I am.”
-「[H名]……」=“[H]...”
+「[H名]……」=“[H名]...”
 「ありがとう。ちょっと照れ臭いけど、そう言ってもらえると嬉しいよ」=“Thank you. It's a bit embarrassing but, I'm really happy you feel that way.”

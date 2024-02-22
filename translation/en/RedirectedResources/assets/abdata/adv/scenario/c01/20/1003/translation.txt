@@ -12,7 +12,7 @@
 「はい、誓います」=“Yes, I vow.”
 「[H名]さん、あなたはこの男性とお付き合いし、より親密な関係になろうとしております」=“Miss [H名], You have been going out with this man for a while now. And now you are proceeding towards an even closer relationship.”
 「それでは、二人の愛の証として、誓いのキスをお願いします」=“Then, without further ado, as the proof of your love, seal these vows with a kiss.”
-「[H名]、びっくりするぐらい綺麗だね」=“You look shockingly beautiful, [H].”
+「[H名]、びっくりするぐらい綺麗だね」=“You look shockingly beautiful, [H名].”
 「ヘアセットさんやメイクさんのお陰です。ドレスの着付けもしていただいて……だから私はなにもしてませんよ」=“It's all thanks to the lovely hairstylist and makeup-artist. They even helped me into this dress... so really, I didn't do much of anything at all.”
 「それでこんなに綺麗になるのは、[H名]が普段から自分を磨いてる証拠だよ」=“Being able to look this lovely just from that much, is proof of just how much effort you put into yourself.”
 「ふふ、お上手ですね。あなたのタキシード姿も、とっても素敵です」=“Fufu, good with your words as usual. You look wonderful too, in that tuxedo.”
@@ -21,7 +21,7 @@
 「普段からコイカツ部の部長を立派に務めている男性の……色香、のようなものです」=“As the hardworking president of the Koikatsu club, it's a sort of... charm, that you exude.”
 「いや、俺に一番似合わない言葉のような……」=“No, words like that don't fit me at all...”
 「自覚がないのですね。あなたは、あなたが思っている以上に、すごい男性なんですよ」=“You've no self-awareness, do you? You are a manlier, a more amazing man, than you realize, you know?”
-「えっと……[H名]こそお上手だよ」=“Erhm... you're pretty good with your words too, [H].”
+「えっと……[H名]こそお上手だよ」=“Erhm... you're pretty good with your words too, [H名].”
 「ふふ、当然です。これでも、あなたの恋人ですから……自分が愛する男性を立てない女性はいません。自分が恋した男性に嘘をつく女性もいません」=“Fufu, of course. I'm your girlfriend, afterall... there are no women out there that would not support the man they love. Nor are there any women that would lie to the men they've fallen in love with.”
 「少なくとも私はそのような女性であろうと、日々心掛けてます。常に誇りを胸に生きよとは、母の言葉です」=“At the very least, I try my best everyday, in order to not be such a woman. 'Always live with your head held high', as my mother once told me.”
 「俺は信じるよ、[H名]の言葉。というか、今までだって疑ったことはないよ」=“I believe you, believe in your words. Or rather, I've never doubted you, not once.”

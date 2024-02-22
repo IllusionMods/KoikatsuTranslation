@@ -14,7 +14,7 @@
 「そうそう、だからくっついてるくらいで丁度いいんだよ。おまえは満足できないって顔してるけどっ」=“Exactly, so just clinging is enough for me. You seem unsatisfied by it though--”
 「いや、俺だってこうやってくっついてるの好きだよ。頬を撫でるくらいなら、していい？」=“No, I love snuggling up to you like this too. Stroking your cheek should be fine atleast, right? Can I?”
 「どうぞぉ～、えへっ、おまえの手、あったかい……」=“Go ahead~, eheh~, your hand is so warm...”
-「[H名]のほっぺもあったかいよ。赤くなって、凄く可愛い」=“Your cheek is really warm too, [H]. Red as a tomato too, so adorable.”
+「[H名]のほっぺもあったかいよ。赤くなって、凄く可愛い」=“Your cheek is really warm too, [H名]. Red as a tomato too, so adorable.”
 「お世辞を言ってもキスはさせてやらないぞ～。んっふふ」=“Flattery won't get you a kiss out of me~. Nnfufuh.”
 「違うって。本当にもう、俺の彼女は可愛いぞって、ここから叫びたいくらい」=“It's not flattery. Seriously, you're so adorable, I almost wanna shout to the world, just how adorable you are to me.”
 「んぇっ！？　ちょっ、やめっ、本気でやったら、怒るからな？」=“Nneh--!? Hey--, don'---, if you really do it, I'll get mad, okay?”
@@ -24,7 +24,7 @@
 「ううぅ、わかった、わかったから……もうやめてくれぇ……」=“Uuuu, I do, I got it so... stop it~...”
 「わぁ、[H名]の顔、蕩けきってるよ？　今なら何しても怒られなそう」=“Waah, your expression is really melty right now, you know? I bet you won't have it in you to get mad at me, no matter what I do.”
 「んぅっ、卑怯だぞぉっ……いつもはナヨナヨしてるくせに……こういう時だけ強引になってぇ……」=“Nnnn--, that's unfair, you know--... you're always such a pushover... yet at times like these, you get so assertive~...”
-「[H名]がギャップに弱いのは知ってるからね。その辺りは付き合う前から調査済み」=“Because I know you're weak to that gap, [H]. I knew that much before we even started dating.”
+「[H名]がギャップに弱いのは知ってるからね。その辺りは付き合う前から調査済み」=“Because I know you're weak to that gap, [H名]. I knew that much before we even started dating.”
 「あぁもぅ、あたしの負けっ……もう好きにすればいいだろぉ……」=“Aah, jeez, I lose--... just have your way with me~...”
 「はは、自重しとくよ。ここで変に手を出すと、後で怒られるのもわかってるしね」=“Hahah, I'll restrain myself for now. If I pull anything weird, you won't get mad at me now, but you certainly will later.”
 「ぅ……そうだけど……ほ、本当に何もしないのか？　ちゃ、チャンスだぞ？」=“Uu... I would but... a-are you really not gonna do anything? I-It's your chance, you know?”

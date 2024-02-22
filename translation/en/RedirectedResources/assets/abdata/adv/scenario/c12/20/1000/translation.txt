@@ -9,7 +9,7 @@
 「現在、私どもの式場にてブライダルフェアを行っておりまして、模擬挙式のモデルをお願いできる方を探していたのですが……」=“Right now, at our hall, there's currently a Wedding Fair being held. So I have been out searching for couples who could model for us in a mock wedding ceremony...”
 「もっ、模擬挙式！？　それってあたし達が結婚式をするって事で……い、いいんだ……です、よね？」=“A-A mock wedding?! That means you want us to have a wedding ceremony... t-together... right?”
 「はい！　すごくお似合いで素敵なカップルさんでしたので、是非にと声をかけさせていただきました！　いかがでしょうか？」=“Yes! You guys look like a lovely couple that gets along really well, I just had to call out to you. How about it?”
-「うそっ、俺達が結婚！　結婚だってよ[H名]！」=“No way--, she said wedding, [H]! A wedding!”
+「うそっ、俺達が結婚！　結婚だってよ[H名]！」=“No way--, she said wedding, [H名]! A wedding!”
 「あぁっ、少し落ち着けっ、結婚って言っても模擬だよ模擬っ。あたしは……してもいいと、思うけど……」=“Aah--, calm down, calm down--, she did say wedding but she also said "mock"--. I... don't mind, doing it...”
 「俺も賛成。折角の機会だし、やらせてもらおうよ！」=“I'm in too. A chance like this doesn't come often, we're gonna take you right up on that!”
 「……というわけなので、モデルの話、俺達でよければ喜んで」=“...Well, that's about it. If you'll have us, please let us do it.”

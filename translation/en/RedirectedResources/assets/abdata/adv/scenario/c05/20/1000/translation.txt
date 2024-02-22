@@ -10,7 +10,7 @@
 「きょ、挙式のモデルっ？　もしかして……わたしたちに？」=“M-Models for a ceremony? Are you... asking us to be those models?”
 「はい！　すごくお似合いで素敵なカップルさんでしたので、是非にと声をかけさせていただきました！　いかがでしょうか？」=“Yes, I am! You guys just look so good together, such a lovely couple, I just had to call out to you. How about it?”
 「お似合いで素敵……えへへ」=“A lovely couple... ehehe.”
-「ねえ、[P名]くん。か……“かれら”は、引き受けたほうがいいって言ってるんだけど……どう思う？」=“Hey, [P]-kun. T... "They" are saying that we should go for it... what do you say?”
+「ねえ、[P名]くん。か……“かれら”は、引き受けたほうがいいって言ってるんだけど……どう思う？」=“Hey, [P名]-kun. T... "They" are saying that we should go for it... what do you say?”
 「あはは、“かれら”も[H名]のドレス姿が見たいのかな？」=“Ahaha, "They" must want to see you in a dress too, huh?”
 「よし、わかった！　……あの、俺たちでよければ、ぜひモデルをやらせてください！」=“Alright, got it! ...Uhm, if you'll have us, then please let us model for you!”
 「ありがとうございます！　それでは、さっそく式場までご案内いたしますね！」=“Thank you very much! Then, I'll take you both to the wedding hall!”

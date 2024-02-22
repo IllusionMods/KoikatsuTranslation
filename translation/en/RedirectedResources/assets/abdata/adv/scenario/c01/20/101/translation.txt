@@ -12,7 +12,7 @@
 「ふふ、ゆっくりと流れる雲を見上げていると、そんな気持ちになりますね……」=“Fufu, indeed, can't help but feel that way, when looking at the clouds passing us by slowly...”
 「……ふぁ……なんだか、眠くなってきちゃった」=“...Fuah... I'm starting to, get kinda sleepy.”
 「あら。お昼寝の時間にしますか？」=“Oh. How about you take a nap then?”
-「[H名]は眠くない？」=“You're not sleepy, [H]?”
+「[H名]は眠くない？」=“You're not sleepy, [H名]?”
 「はい、私はあまり……」=“Yes, not all that much...”
 「じゃあ、膝枕、してもらってもいい？」=“Then, mind if I borrow your lap?”
 「今日は甘えん坊さんなんですね。いいですよ……私のお膝でよかったら、つかってください……」=“Feeling spoilt today, aren't we? Sure... if you're fine with my lap, then use it worry free...”

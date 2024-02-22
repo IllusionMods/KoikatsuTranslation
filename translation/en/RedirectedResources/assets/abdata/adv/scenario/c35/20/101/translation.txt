@@ -22,5 +22,5 @@
 「[H名]と一緒ならお昼寝も楽しいし……せっかくだから、もう少し休んでいこっか？」=“If it's with you, even just taking a nap is fun enough for me... Since we're out here, shall we relax for a bit longer?”
 「いいと？　えへへ……君って……やっぱり優しいっちゃんね。君とデート出来て良かった……私、幸せなん」=“You sure? Ehehe... you really are... so sweet. I'm glad I came on a date with you... I'm really happy right now.”
 （良かった。どうやら楽しんでくれてるみたいだ。まぁ、たまにはこういうデートも悪くないしな）=(I'm glad. Looks like she's enjoying it, one way or another. Well, this sort of thing isn't bad either, every once in a while.)
-「すやぁ……んぅ……辛子……明太子……」=*suyaa~*... *nnn*... mustard... on pollack...
+「すやぁ……んぅ……辛子……明太子……」=“*suyaa~*... *nnn*... mustard... on pollack...”
 「もう寝てる！？」=“You're already asleep!?”

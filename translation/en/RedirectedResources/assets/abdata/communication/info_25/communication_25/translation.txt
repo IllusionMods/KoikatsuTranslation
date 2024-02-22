@@ -6,13 +6,13 @@
 「……ダルいんで無理っす」=“...It's a pain so I can't.”
 「……なんなんすか？」=“...What is it?”
 「今はよくないので～では～」=“I don't feel so well right now~, later~”
-「くぅ……くぅ……むにゃ……」=*kuh*... *kuh*... *munyah~*...
+「くぅ……くぅ……むにゃ……」=“*kuh*... *kuh*... *munyah~*...”
 「うぉっ！？　み、見るな～！」=“Uwoh--!? D-Don't look~!”
-「ぐで～……あ、来たの～？」=*sleepy*~... ah, you're here~?
+「ぐで～……あ、来たの～？」=“*sleepy*~... ah, you're here~?”
 「は～……私はお疲れだよ～」=“Hah~... I'm tired~”
 「『お静かに』って言葉、なんか好き～」=“I kinda like the word "Hush" a lot~”
 「え～どこいくの～？」=“Eh~, where are we going~?”
-「……どこ行こうとしてるんすか？」=“......Where are you trying to go?”
+「……どこ行こうとしてるんすか？」=“...Where are you trying to go?”
 「お～？　私？」=“Oh~? Me?”
 「ん～？　なにかな？」=“Nn~? What is it?”
 「も～疲れた～」=“I'm~ tired~”
@@ -80,7 +80,7 @@
 「はぁ……誰でも知ってるっすよ。小さな子供かっての～」=“Haa... Just about everyone does. Are you a kid~?”
 「エッチな本って見たことあるの？」=“Have you ever seen porn mags?”
 「程度の低い質問っすねぇ……エッチに興味でたばかりの子供じゃあるまいし……」=“What a vulgar question... I didn't just hit puberty, you know...”
-「……エロマンガくらいならみんなあるんじゃないんすか？」=“......Hasn't just about everyone read atleast an eromanga?”
+「……エロマンガくらいならみんなあるんじゃないんすか？」=“...Hasn't just about everyone read atleast an eromanga?”
 「……キミさ、そういうこと言うの止めた方がいいっすよ？」=“...You'd be better off not mouthing off about that stuff, you know?”
 「こういうこと聞いてもいいのか、わからないんだけどさ……」=“I don't really know if it'd be okay for me to ask this but...”
 「それ、ダメなヤツっすよ……ドン引きっす」=“That's really bad... like, I'm actually speechless.”
@@ -112,7 +112,7 @@
 「あ～私も面倒だからそんな感じ～」=“Ah~, it's a pain so I'm the same way~”
 「ふ～ん、別にいいけどね～」=“Hmmm, well alright, not that I care~”
 「……キミさ、神経図太いって言われないっすか？」=“...Do people ever tell you that you're way too shameless?”
-「……ま～、反省してるみたいだし、いいよ～」=“......Well~, since you seem to be reflecting on it, it's alright~”
+「……ま～、反省してるみたいだし、いいよ～」=“...Well~, since you seem to be reflecting on it, it's alright~”
 「あ～はいはい。も～いいよ～」=“Ah~, yeah yeah. It's fine, I don't care anymore~”
 「えっと……な～に～？」=“Erhm... What is it~?”
 「ちょっと～見すぎじゃないっすかね」=“Hey~, aren't you staring a bit much?”
@@ -136,7 +136,7 @@
 「……気持ち悪いので、触らないでほしいっす」=“...It feels disgusting so, I'd prefer it if you didn't do that.”
 「も～……しょうがないな～」=“Jeez~... Guess it can't be helped~”
 「話すのも疲れるっす」=“Talking is tiring too.”
-「だる～ん……」=*listless*~...
+「だる～ん……」=“*listless*~...”
 「はぁ……ダルいんでもう終わりってことで、いい～？」=“Haa... This is really tiring so I'm out, kay~?”
 「は～もう話すのもダルいんで～、じゃ」=“Hah~, Already feels like a pain to talk anymore~, later.”
 「は～ほんと～に面倒な人だな～」=“Hah~, you really are~, such a troublesome guy~”
@@ -158,7 +158,7 @@
 「あ～はいはい。なにすんの～？」=“Ah~, sure. Whatcha doing~?”
 「気が向かないからパース」=“Don't feel like it, so pass.”
 「き、キミね～。他の子だったら……いや、私もぶん殴るけどさ～」=“I-It's you, huh~. If it was any other girl... No, even I'm gonna sock you in the face for this~”
-「……へ、変態は出てって～！」=“......G-Get out of here, pervert~!”
+「……へ、変態は出てって～！」=“...G-Get out of here, pervert~!”
 「うぉっ！？　ここにいたのが私でよかったっすね……変態さん」=“Uwoh--!? Good thing I was the only one in here, huh... Mister Pervert?”
 「な、なに考えてるんすか……早く出ていけ～！」=“W-What are you even thinking... Get out of here already~!”
 「あ～も～、ダルいからおわりおわり～」=“Ah~, jeez~, it's a pain so that's as far as we go~”
@@ -168,7 +168,7 @@
 「ちょっ……殴られたくなかったら出ていくっす！」=“Hey--... I'd beat it if I were you, if you don't want to get socked in the face that is!”
 「ん～私の水着姿が気になるんすか～？」=“Nn~, like how I look in this swimsuit~?”
 「ふ～ん？　誰の水着が気になるのかな～？」=“Hmm~? Who're you looking to see the swimsuit of~?”
-「だる～ん……あ～いらっしゃい～」=*Listless*... Ah~, welcome~
+「だる～ん……あ～いらっしゃい～」=“*Listless*... Ah~, welcome~”
 「今日も今日とて私はお疲れだよ～」=“I'm tired as hell, just like usual~”
 「『お静かに』というワードは私に安寧をもたらす～」=“The word "Hush" brings inner peace to me~”
 「ん～どしたの～？」=“Nn~, what's up~?”
@@ -368,7 +368,7 @@
 「ん～？　そんなに私の水着姿がイイんすか～？　んふふ～」=“Nn~? Do I look that nice in a swimsuit~? Nnfufu~”
 「こら～。キミはおとなしく、私の水着を見てればいいんすよ～？」=“Hey~. All you need to do is just quietly look at me and only me, you know~?”
 「や～、そろそろ来る気がしてたよ～」=“Hey~, I thought you'd show up any minute~”
-「だる～ん……一緒にだらけよ～」=*listless*~... Let's laze around together~
+「だる～ん……一緒にだらけよ～」=“*listless*~... Let's laze around together~”
 「たまにはふたりで黙々と読書も、いいかもね～」=“Might be nice to read a book quietly together, sometime~”
 「ねえねえ、どこに行くつもり～、遠い所はイヤだよ～？」=“Hey, where are we going~, I ain't going any place too far away, okay~?”
 「いやいや～、キミは入っちゃダメに決まってるじゃ～ん」=“No way~, you obviously can't go in there~”
@@ -450,9 +450,9 @@
 「んふふ～、ちょっと触りたかっただけだよ～」=“Nnfufu~, I just wanted to touch you a bit, that's all~”
 「あ～、ちょっとそこに立ってて～？」=“Ah~, stand still there for a bit~?”
 「え？　どうしたの、急に寄りかかって……」=“Eh? What's the matter, suddenly leaning on me...”
-「だる～ん、私専用の休憩スペース～……なんてね～」=*listless*, you're my personal relaxation spot~... heh~
+「だる～ん、私専用の休憩スペース～……なんてね～」=“*listless*, you're my personal relaxation spot~... heh~”
 「ねえねえ、私のおっぱい好き～？」=“Hey, hey, do you like my boobs~?”
-「ふふ～ん、キミのために育ちましたので～」=*Fufuhn~*, I raised them like this just for you~
+「ふふ～ん、キミのために育ちましたので～」=“*Fufuhn~*, I raised them like this just for you~”
 「ちょうどいいってどういうことだか～？　ま、いいや、キミのものだし」=“What do you mean by "Just right" anyway~? Well, it doesn't matter, they're yours anyway.”
 「そっか～。ちょっとは気にしてたけど、キミが好きならいっか～」=“I see~. I was a bit worried but, I guess it's fine since you like them~”
 「キミの彼女さんの身長って問題ない～？」=“Is your girlfriend's height to your liking~?”

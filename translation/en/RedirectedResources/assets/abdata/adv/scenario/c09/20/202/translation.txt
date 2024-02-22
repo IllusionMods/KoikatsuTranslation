@@ -22,7 +22,7 @@
 「早いもの勝ちだからね。お先～」=“The early bird catches the worm, sucker~”
 「……あ、あれ？　おかしいわね」=“...H-Huh? That's weird, I can't seem to get it.”
 （だいぶ、苦戦してるな……よし、ここはいいところ見せるチャンス）=(Looks like quite the hard fight... alright, this is my chance to look cool.)
-「[H名]。俺がとってやるから、見てなよ」=“[H]. I'll grab it for you, so just watch me.”
+「[H名]。俺がとってやるから、見てなよ」=“[H名]. I'll grab it for you, so just watch me.”
 （結構、むずかしい……でも取れるまでやるぞ）=(It's pretty, hard... but I'mma go until I get it.)
 「よし、取れた……はい、どうぞ」=“Alright, I got it... here you go.”
 「ありがとう。うぅ……でも、ちょっと悔しい……まぁ、勝負に負けたけど、あたしのものになったからいいか」=“Thank you. Uuu... but, it's a bit frustrating... well, I lost the match but, I got it in the end so who cares.”

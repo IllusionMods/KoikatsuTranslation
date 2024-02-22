@@ -9,7 +9,7 @@
 「あるにはあるけど……ラブコメというジャンルではありませぬ」=“Yeah, there is, for what it's worth... not within romantic comedies as a genre though.”
 「ですよね……」=“Right...”
 「まあ、それは置いといて。人気のシチュといわれても……うーん、それこそ好みの範疇ですな」=“Well, leaving that aside. "Popular events"... nnn, everyone has stuff they like more.”
-「じゃあ、[H名]が好きなシチュエーションは？　教えてほしいな」=“Then, what do you like, [H]? I'd love to hear it.”
+「じゃあ、[H名]が好きなシチュエーションは？　教えてほしいな」=“Then, what do you like, [H名]? I'd love to hear it.”
 「ワタシのかい？　フフ……当ててみせたまえ」=“Me? Fufuh... try guessing.”
 「そうきたか……えっとじゃあ……一緒に夜景をみたり、隣に行って良いか訊いたりするシーンとか？」=“Not gonna be that easy, huh... erhm, then... is it stuff like, looking at the view together and, asking 'Mind if I come closer', and whatnot?”
 「確かにそういうのもいいですな、王道である」=“For sure, that sort of stuff is nice too. It's very standard.”

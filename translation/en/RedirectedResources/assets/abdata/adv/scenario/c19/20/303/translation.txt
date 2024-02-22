@@ -2,7 +2,7 @@
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
 「……ふう、いやぁ、ちょっと熱い曲を入れ過ぎちゃったかな」=“...Fuu, man, maybe I put in a few too many exciting songs in there.”
-「ふふっ。[P名]君、ずいぶん熱唱してたけど喉は大丈夫？」=“Fufu--, you really got fired up there, [P]-kun, is your throat alright?”
+「ふふっ。[P名]君、ずいぶん熱唱してたけど喉は大丈夫？」=“Fufu--, you really got fired up there, [P名]-kun, is your throat alright?”
 CHOICE:『大丈夫。歌い足りないから延長していい？』=In perfect condition. Mind if we extend our slot? I wanna sing more.
 CHOICE:『ちょっと疲れたかも……』=Starting to get tired...
 「全然大丈夫だよ。むしろ歌い足りないから時間延長してもいい？」=“In perfect condition. If anything, I've not had enough yet so mind if we extend our slot?”
@@ -11,7 +11,7 @@ CHOICE:『ちょっと疲れたかも……』=Starting to get tired...
 「それじゃあ、もうすぐ時間だし仕度をして出よっか。また、あなたの歌を聴ける日を楽しみにしてるね」=“Well then, our slot's almost up so let's get our stuff and head out. I'm looking forward to the next time I can hear your sweet voice again.”
 「さすがに疲れてきたかも……」=“It's really starting to get tired...”
 「ふふ、たくさん気持ちを込めて歌ってたもんね。それじゃあ、延長せずにお店を出る？」=“Fufu, you were singing with all your heart, afterall. Well then, want to head home without extending out slot?”
-「そうする。あっ、でももう少し時間あるし、最後に[H名]が歌ったら？」=“Let's do that. Ah--, but we do have some more time, how about you take the last one, [H]?”
+「そうする。あっ、でももう少し時間あるし、最後に[H名]が歌ったら？」=“Let's do that. Ah--, but we do have some more time, how about you take the last one, [H名]?”
 「私が？　えっと……じゃあ、この曲を入れようかな」=“Me? Erhm... well then, maybe this song then.”
 『小さな手の平 掴める物は きっと限られているけど～♪』=『This small hand, the things it can grasp, they are surely limited, but~』
 （歌ってる[H名]の姿って、なんか、こう……惹かれるものがあるんだよなぁ）=(The way she looks when singing, how do I say this... she's just overflowing with charm.)

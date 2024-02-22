@@ -13,7 +13,7 @@
 「俺の目をよく見て」=“Look at my eyes. Hard.”
 「は、はいっ」=“O-Okay--”
 「そして、深呼吸をしてみて」=“Now, take a deep breath.”
-「すー、はー……すー、はー……」=*inhale*, *exhale*... *inhale, exhale*...
+「すー、はー……すー、はー……」=“*inhale*, *exhale*... *inhale, exhale*...”
 「どう？　少しは落ち着いたかな？」=“Feel a bit better now?”
 「はい…………落ち着いてきました。ありがとうございます」=“Yes... I feel a bit more calm. Thank you very much.”
 「それはよかった。外見れるかな？　とっても綺麗だよ」=“I'm glad to hear that. Can you look outside? It's a beautiful sight.”

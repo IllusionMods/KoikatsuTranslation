@@ -24,6 +24,9 @@
 横分け=Side Parting
 Ｍ字カット=M-Shaped Cut
 
+// chara/cdpsb0/iori_hair_f.unity3d
+//銀鏡イオリ 前髪=
+
 // chara/dak/bo_hair_f_00.unity3d
 [dak]M字バングストレート改(右)=[dak]Straight M-Shaped Bangs (R)
 [dak]M字バングストレート改(左)=[dak]Straight M-Shaped Bangs Kai (L)

@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「……[H名]、すごかった……」=“...[H], that was amazing...”
+「……[H名]、すごかった……」=“...[H名], that was amazing...”
 「は、恥ずかしいです……でも、褒めてもらえるのは……少し、嬉しいです」=“S-So embarrassing... but, being praised... makes me feel, nice.”
 （[H名]、エッチな子になったなぁ……）=(She's become so dirty~...)

@@ -11,11 +11,11 @@
 「それではこれより、式を執り行います」=“Then without further ado, let's start the ceremony.”
 「新たなご出発の証として、お二人には誓いの言葉を立てていただきます」=“As the proof of a fresh departure, you both have to make certain vows.”
 牧師=Pastor
-「[P名]さん、あなたは今、この女性を妻とし夫婦になろうとしています」=“Mr. [P名], you are now about to take this woman to be your wife.”
+「[P名]さん、あなたは今、この女性を妻とし夫婦になろうとしています」=“Mr. [P名], Right now, you are about to become a married couple, with this woman as your wife.”
 「汝、健やかなるときも、病めるときも、喜びのときも、悲しみのときも、富めるときも、貧しいときも」=“Do you promise, in times of sickness or in health, in times of happiness or sadness, whether you are rich or poor,”
 「これを愛し、これを敬い、これを慰め、これを助け、その命ある限り、真心を尽くすことを誓いますか？」=“to love her, to respect her, to comfort her, to support her, till the end of days, to the full extent of your abilities?”
-「はい、誓います」=“Yes, I vow.”
-「[H名]さん、あなたは今、この男性を夫とし夫婦になろうとしています」=“Miss [H名], you are now about to take this man as your husband.”
+「はい、誓います」=“Yes, I do.”
+「[H名]さん、あなたは今、この男性を夫とし夫婦になろうとしています」=“Miss [H名], Right now, you are about to become a married couple, with this man as your husband.”
 「では、二人の誓いの印として、指輪の交換を致します」=“Then, as the proof of your vows, you may now exchange the rings.”
 「初めに新郎から新婦へ」=“First from the groom to the bride.”
 「……あんまり、緊張してなさそうだね？」=“...Not that nervous, are you?”
@@ -24,7 +24,7 @@
 「そりゃ、アタシ、今日の為に生きてきたからさ」=“Well, of course, I've been living till now for this day, afterall.”
 「そっか……[H名]はここぞって時にしっかりしてるね。ずっとそう思ってた」=“I see... You're always dependable when it push comes to shove, [H名]. I've always felt that way.”
 「新婦から新郎へ」=“Now from the bride to the groom.”
-「[P名]くんは、いつでも優しくて、カッコよかったよ」=“[P名], you're always really sweet and cool too, you know.”
+「[P名]くんは、いつでも優しくて、カッコよかったよ」=“[P名]-kun, you're always really sweet and cool too, you know.”
 「……恋人として好きで、人としてすごい憧れてた」=“...I've always loved you as my lover, and always looked up to you as a person.”
 「最後に、愛の証としてキスをしていただきます」=“Lastly, as the proof of your love, you may now kiss each other.”
 「ありがとう。アタシを選んでくれて、アタシをアタシでいさせてくれて」=“Thanks. For picking me, for letting me be myself.”
@@ -38,9 +38,9 @@
 「あの時から二人の時間をどんどん積み重なってきた結果が……今、この瞬間だね」=“The result of us piling up one memory together after another since that day... is this moment, isn't it?”
 「……この先も、二人の時間を重ねていこうね」=“...Let's pile up lots more memories together in the future too, okay?”
 「うん……アタシ、これからもずっとずーっと一緒にいるから！」=“Yeah... because I'mma be with you forever and ever!”
-「[P名]くん……ほんっとーに大好きだよっ！」=“[P名]... I really do love you, so much--!”
+「[P名]くん……ほんっとーに大好きだよっ！」=“[P名]-kun... I really do love you, so much--!”
 「俺も、俺もだ！」=“Me too, me too!”
-「んっ……んん……」=“Nn--... Nnn......”
+「んっ……んん……」=“Nn--... Nnn...”
 ………………=.........
 …………=......
 ……=...

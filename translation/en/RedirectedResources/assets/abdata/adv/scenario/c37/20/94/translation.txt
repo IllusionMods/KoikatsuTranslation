@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「すぅ……すぅ……ん、んん……」=*Snore*... *Snore*... Nn, Nnnnn......
+「すぅ……すぅ……ん、んん……」=“*Snore*... *Snore*... Nn, Nnnnn...”
 （ううん、何だか下半身に違和感が……？）=(Mmmm, my lower half feels kinda weird...?)
 「…………」=“......”
 「えええっ？　なになに？」=“EEEEEEE--? What in the--?”

@@ -13,7 +13,7 @@
 「えーっと……それって……」=“Erhm... by that...”
 「はい、あーん、なん」=“Here, open your mouth, aaahn.”
 「あ、あはは……少し照れるけど……うん、あーん……」=“A-Ahaha... I feel a bit embarrassed but... yeah, aaaaahn...”
-「あむっ……もぐもぐ……」=*Bite*--... *chew chew*...
+「あむっ……もぐもぐ……」=“*Bite*--... *chew chew*...”
 「どう？　めっちゃ美味しいやろ？」=“What do you think? It's super tasty, no?”
 「うん、美味しい！」=“Yeah, it is!”
 「美味しい……のは……間違いないんだけど……ちょっとだけ周囲の視線が気になるかも……」=“It's definitely... tasty... but... everyone's kinda gazing at us...”

@@ -2,7 +2,7 @@
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
 （それにしても、ちょっと暑いな。なんだか喉が渇いてきた……）=(Even so, it's pretty damn hot. My throat feels so dry...)
-「ねぇ[H名]、そろそろここで水分補給を……って、ええ！？」=“Hey, [H]. I think we really should take a break here, and go for some refresh... wuh, eeeeh!?”
+「ねぇ[H名]、そろそろここで水分補給を……って、ええ！？」=“Hey, [H名]. I think we really should take a break here, and go for some refresh... wuh, eeeeh!?”
 「はぁ……はぁ……ふら、ふらぁ……」=“Haah... haah... so, dizzy...”
 「だ、大丈夫！？　まっすぐ歩けてないよ！？」=“Y-You okay!? You're not walking straight, you know?!”
 「はぁ……はぁ……汝よ。わ、我はもう、駄目だ……今すぐ休まないと、し、死ぬ……」=“Haah... haah... good sir, I cannot, go on... I must rest, else I-I shall perish...”
@@ -28,6 +28,6 @@
 「い、いや……ブラックは苦手だが、憧れていたのだ……この黒さと苦みが、闇っぽい……」=“N-No... I cannot handle black, but this is just as well... this blackness and bitterness, it's so dark...”
 「え？　で、でも……」=“Eh? B-But...”
 「こく……んへぇぇ……こく……うぅぅ……」=“*gulp*... nnheeeh... *gulp*... uuuu...”
-「[H名]……」=“[H]...”
+「[H名]……」=“[H名]...”
 （偉いなぁ、苦手なものでも頑張って克服しようとするだなんて……）=(What a good girl, she doesn't like it but she's still overcoming her dislike like a champ...)
 「うん。それじゃ俺も飲むから、一緒にこの暑さを乗り切ろう！」=“Well then, I'mma drink it too so, let's overcome this heat together!”

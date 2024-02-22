@@ -11,11 +11,11 @@
 「それではこれより、式を執り行います」=“Then without further ado, let's start the ceremony.”
 「新たなご出発の証として、お二人には誓いの言葉を立てていただきます」=“As the proof of a fresh departure, you both have to make certain vows.”
 牧師=Pastor
-「[P名]さん、あなたは今、この女性を妻とし夫婦になろうとしています」=“Mr. [P名], you are now about to take this woman to be your wife.”
+「[P名]さん、あなたは今、この女性を妻とし夫婦になろうとしています」=“Mr. [P名], Right now, you are about to become a married couple, with this woman as your wife.”
 「汝、健やかなるときも、病めるときも、喜びのときも、悲しみのときも、富めるときも、貧しいときも」=“Do you promise, in times of sickness or in health, in times of happiness or sadness, whether you are rich or poor,”
 「これを愛し、これを敬い、これを慰め、これを助け、その命ある限り、真心を尽くすことを誓いますか？」=“to love her, to respect her, to comfort her, to support her, till the end of days, to the full extent of your abilities?”
-「はい、誓います」=“Yes, I vow.”
-「[H名]さん、あなたは今、この男性を夫とし夫婦になろうとしています」=“Miss [H名], you are now about to take this man as your husband.”
+「はい、誓います」=“Yes, I do.”
+「[H名]さん、あなたは今、この男性を夫とし夫婦になろうとしています」=“Miss [H名], Right now, you are about to become a married couple, with this man as your husband.”
 「では、二人の誓いの印として、指輪の交換を致します」=“Then, as the proof of your vows, you may now exchange the rings.”
 「初めに新郎から新婦へ」=“First from the groom to the bride.”
 「本当にこんな日が来るなんて……夢みたい……」=“I can't believe this day actually came... it feels like a dream...”
@@ -26,7 +26,7 @@
 「うん……すっっごく、緊張してる……」=“Yeah... super nervous...”
 「大丈夫。俺が傍にいるから」=“It's alright. I'm right here with you.”
 「最後に、愛の証としてキスをしていただきます」=“Lastly, as the proof of your love, you may now kiss each other.”
-「ねぇねぇ[P名]君、後でお姫様抱っこしてくれないかなぁ？」=“Hey, [P名], after this, will you carry me in your arms? Like a princess carry.”
+「ねぇねぇ[P名]君、後でお姫様抱っこしてくれないかなぁ？」=“Hey, [P名]-kun, after this, will you carry me in your arms? Like a princess carry.”
 「な、なんだよ、急に！　こんなとこでおねだりするなよ」=“W-What's that all of a sudden now! Don't pester me with that stuff right now.”
 「それに、なんでお姫様抱っこ？」=“Not to mention, why a princess carry?”
 「ずっと前から夢だったの」=“It's been a dream of mine since forever.”
@@ -42,7 +42,7 @@
 「なんだ……俺が言いたかったこと、全部言われちゃったな……」=“Man... you stole all my lines...”
 「とりあえず、一番大事なことだけ言っておくよ」=“Well then, I'll just say the most important one.”
 「愛してるよ、[H名]……」=“I love you, [H名]...”
-「ん、ん……」=“Nn, nnn...”
+「ん、ん……」=“Nn, nn...”
 ………………=.........
 …………=......
 ……=...

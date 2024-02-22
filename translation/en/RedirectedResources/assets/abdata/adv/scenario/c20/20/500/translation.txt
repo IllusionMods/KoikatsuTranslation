@@ -10,7 +10,7 @@
 「ふふっ、分かります、その気持ち。私もまだ……」=“Fufu--, I understand that feeling. I still don't want to...”
 「……眠りにつく前に、きっと今日のことを、思い返すと思います。楽しかったなぁ、とか、もっと一緒に……」=“...I'm sure I'll think right back to this date, before I fall asleep today. About how fun it was, or how I wanted to stay together just a little bit mo...”
 「す、すみません、帰ろうとしているのにこんな話……」=“I-I'm sorry, even though we're trying to break it off here, I'm saying stuff like this...”
-「[H名]……」=“[H]...”
+「[H名]……」=“[H名]...”
 CHOICE:『自宅に誘う』=Take to your place.
 CHOICE:『ラブホに誘う』=Take to love hotel.
 CHOICE:『さよならする』=Say goodbye.

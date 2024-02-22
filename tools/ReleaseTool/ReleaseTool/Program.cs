@@ -332,8 +332,8 @@ namespace ReleaseTool
                 // Don't count MTL
                 if (file.Name != "zz_machineTranslation.txt")
                 {
-                    folderPercentage.Total += lines.Count(x => x.Contains('=') && !x.EndsWith("=---"));
-                    folderPercentage.Translated += lines.Count(x => x.Contains('=') && !x.StartsWith("//") && !x.EndsWith("=---"));
+                    folderPercentage.Total += lines.Count(x => !x.EndsWith("=---") && x.Replace("\\=", "").Contains('='));
+                    folderPercentage.Translated += lines.Count(x => !x.StartsWith("//") && !x.EndsWith("=---") && x.Replace("\\=", "").Contains('='));
                 }
             }
 

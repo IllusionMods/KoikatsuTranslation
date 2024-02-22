@@ -16,7 +16,7 @@
 「うん、幸せだ……」=“Yeah, it is...”
 「……ねぇ、キスして？」=“...Hey, kiss me?”
 「んっ……んんっ……」=“Nn--... nnn--...”
-「ん……」=“Nn......”
+「ん……」=“Nn...”
 「……[H名]の唇って、すごくふんわりしてるから……キスをするたび好きになっちゃうよ」=“...Your lips, [H名], they're so soft... everytime I kiss you, I fall even more for you.”
 「んふふ～、本当にそう思ってくれてるっすか～？」=“Nnfufu~, do you really feel that way~?”
 「本心から思ってるよ！」=“I do, from the bottom of my heart!”

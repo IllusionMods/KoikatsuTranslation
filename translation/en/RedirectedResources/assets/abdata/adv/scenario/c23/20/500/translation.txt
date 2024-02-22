@@ -9,7 +9,7 @@
 「……二次元には色んなヒロインたちがいるけど……デートの別れ際には、みんな同じ気持ちになるのかな？」=“...There's all sorts of heroines, in the world of 2D but... do all of them, feel this exact way, at the end of a date?”
 「そうだと思うよ。男のほうもたぶん同じだと思う」=“Personally, I think so. I think men are the same way.”
 「そっか……いや、きっとそうなんだろうね」=“I see... you're probably right, yeah.”
-「[H名]……」=“[H]...”
+「[H名]……」=“[H名]...”
 CHOICE:『自宅に誘う』=Take to your place.
 CHOICE:『ラブホに誘う』=Take to love hotel.
 CHOICE:『さよならする』=Say goodbye.
@@ -18,7 +18,7 @@ CHOICE:『さよならする』=Say goodbye.
 （[H名]に寂しい思いをさせてしまってる……そんな[H名]を見ていると愛おしい気持ちが溢れてくる……！）=(She's feeling lonely, because of having to say goodbye to me... I can't help but love her more...!)
 「あのさ……俺、今すぐ[H名]を感じたい」=“Hey, listen... I want to feel you, right now.”
 「直球ですな……でも……ワタシも、あなたのことを感じたいんだなぁ……」=“So direct... but... I want to, feel you too...”
-「嬉しいよ、[H名]……それじゃあ、こっちに付いて来てくれる？」=“That makes me so happy, [H]... well then, will you come with me?”
+「嬉しいよ、[H名]……それじゃあ、こっちに付いて来てくれる？」=“That makes me so happy, [H名]... well then, will you come with me?”
 「もちろん……あぁ、ビターな匂いがする……」=“Of course... aah, I smell something bitter...”
 「最後に抱きしめていい？」=“Mind if I hug you?”
 「……こういうときは、何も言わず抱きしめるものですぞ。まあ、乙女ゲーの話ですが」=“...At times like these, you should just do it, without asking me. Well, that's what they do in otome games.”

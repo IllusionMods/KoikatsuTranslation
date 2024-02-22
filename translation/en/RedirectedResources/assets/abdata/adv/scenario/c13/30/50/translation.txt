@@ -1,5 +1,5 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「[P]くんとエッチしてる時が一番幸せ。やっぱりアタシ、[P]くんの事大好きみたい」=“I'm the most happy when having sex with you, [P名]-kun. Looks like I really do love you, [P名]-kun.”
+「[P]くんとエッチしてる時が一番幸せ。やっぱりアタシ、[P]くんの事大好きみたい」=“I'm the most happy when having sex with you, [P]-kun. Looks like I really do love you, [P]-kun.”
 「もう[P]くんのこと、ぜ～ったいに離してあげないから、覚悟してよね？」=“I'm never ever letting you go, ever again~, so prepare yourself, okay?”

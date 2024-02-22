@@ -2,10 +2,10 @@
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
 「ちょっと小腹が空いてきたね」=“I'm starting to feel a little peckish.”
-「[H名]も、あんまり長時間歌いつづけていたら疲れない？」=“You too, [H], aren't you tired after singing for so long?”
+「[H名]も、あんまり長時間歌いつづけていたら疲れない？」=“You too, [H名], aren't you tired after singing for so long?”
 「うん……この交信方法はいつもと違って声を出すから、力を補充しないと」=“Yeah... unlike normally, this communication method requires for me to actually use my voice so, energy replenishment is a must.”
 「はは、そうだね。せっかくだし、何か注文しようよ」=“Haha, right. Well then, how about we order something?”
-「俺はとりあえずドリンクとナゲットを頼もうと思うけど、[H名]はどれにする？」=“I'm personally feeling like some chicken nuggets and a drink, but what about you, [H]?”
+「俺はとりあえずドリンクとナゲットを頼もうと思うけど、[H名]はどれにする？」=“I'm personally feeling like some chicken nuggets and a drink, but what about you, [H名]?”
 「えっと、それじゃあ……このパスタと、ピザと……あとパフェを……」=“Erhm, well then... this pasta, the pizza and... a parfait...”
 「そ、そんなに頼んで大丈夫？」=“Y-You sure you can eat that much?”
 「いつもより体力を使うからかな？　メニューを見てたら、急にお腹がペコペコになってきちゃって」=“Wonder if it's because I've used up a lot more energy than usual? Looking at the menu made me belly go all empty all of a sudden.”

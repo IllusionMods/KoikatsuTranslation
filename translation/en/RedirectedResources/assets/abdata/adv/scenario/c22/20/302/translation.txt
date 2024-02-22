@@ -7,7 +7,7 @@
 …………=......
 ……=...
 「ふぅ……今日も思いっきり歌っちゃった。声出すのってすごく楽しいよね！」=“Fuu... I sang my heart out today too. It's really fun to just let out your voice, no?”
-「うん、俺も一緒に歌っちゃったよ。[H名]、本当に歌上手だよね」=“Yeah, I was singing right along with you there. You're really good at this, [H].”
+「うん、俺も一緒に歌っちゃったよ。[H名]、本当に歌上手だよね」=“Yeah, I was singing right along with you there. You're really good at this, [H名].”
 「えへへ、実はね、また君と一緒にカラオケ行くかもと思って……密かに練習していたのです！」=“Ehehe, actually, you know, thinking about how we might come karaokeing again together... I ended up doing a little bit of practice in secret!”
 「ええー、本当に！？　ただでさえ上手なのに、練習まで……あれ、それって友達と？」=“Eeh, really!? You're already so good just as you are, but you even practiced... huh, with your friends?”
 「ううん。ちょこっと時間あるときに、一人でカラオケ行って歌ってたの」=“No. Whenever I found myself with a little bit of time, I'd just go to a karaoke box and sing by myself.”

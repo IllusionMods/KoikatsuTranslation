@@ -51,5 +51,5 @@
 「ねぇ……頂上についたら、もう一度キスしない？」=“Hey... once we get to the top, won't you kiss me again?”
 「もちろんいいよ！　でも、どうして？　今でもいいよ？」=“Sure, of course! But, why? We could kiss right now too, you know?”
 「いや、丁度頂上がいいの……。そこでキスをしたら、その……恋のおまじないって言うか……」=“No, I wanna do it at the top... If we do it there, it's uhm... it's like a good luck charm, for love, and you know...”
-「[P名]と……これからもずっと一緒に居られる気がするから」=“I feel like... it'll make us stay together forever, [P].”
+「[P名]と……これからもずっと一緒に居られる気がするから」=“I feel like... it'll make us stay together forever, [P名].”
 「おまじないか……それはいいね。じゃあ……もう頂上だから……」=“A good luck charm, huh... that sounds nice. Well then... since we're already there now...”

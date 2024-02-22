@@ -1,5 +1,5 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「いい所にいたわね。家庭科でクッキーを作ったのだけれど、最初に失敗してしまってね」=“Oh, great that you're here. I've made cookies in home economics, but they didn't come out right on first try.”
-「捨てるのも勿体なかったから、あげるわ。黒コゲだけど、貴方が食べている餌よりはマシでしょう？」=“It'd be a waste to throw them away, so here. It's better than the fodder you usually eat, right?”
+「いい所にいたわね。家庭科でクッキーを作ったのだけれど、最初に失敗してしまってね」=“You picked a nice place to loiter around. I made cookies in Home-Ec today, but the first batch came out pretty bad.”
+「捨てるのも勿体なかったから、あげるわ。黒コゲだけど、貴方が食べている餌よりはマシでしょう？」=“It'd be a waste to just throw them away, so I'll give them to you. They're basically burnt but well, it's better than the fodder you usually eat, no?”

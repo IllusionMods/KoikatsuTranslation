@@ -10,7 +10,7 @@
 （ふぅ……心臓はバクバクいってるけど……ちゃんと出来てたはず……）=(Fuu... my heart's trying to explode but... I'm sure I did it properly...)
 モブ=Mob
 「これより新婦が入場致します。後方の扉口をご覧ください」=“And now, the bride will make her entrance. Please pay attention to the main door.”
-（[H名]……）=([H]...)
+（[H名]……）=([H名]...)
 真っ白なウェディングドレスをまとった[H名]は、いつもより一層輝いていて見えた。=She was shining even brighter than her usual self, clad in that snow white wedding dress.
 いつも元気でにこやかに笑う[H名]に、純白のドレスはよく似合っていて――=On her, the always-sunny girl, the girl who never once let go of her smile, the wedding dress looked so good--
 正直、模擬とかモデルとか言わず、今すぐ本当に結婚したいくらいだ。=Honestly, forget modelling, forget mock ceremonies, I wanted to marry her on the spot.

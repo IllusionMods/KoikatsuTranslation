@@ -4,7 +4,7 @@
 「ふぅ……少し休憩にしませんか？　……と思ったら、もうすぐ時間ですね」=“Fuu... how about a small break? ...Oh, on that note, seems that our time's almost up.”
 CHOICE:『延長して、もうちょっと歌おうよ』=Let's extend it, and sing a bit more.
 CHOICE:『そろそろ帰ろうか』=Let's head home.
-「延長しない？　俺、もう少し[H名]と一緒に歌いたいんだけど……」=“Wanna extend it? I still wanna sing some more with you, [H]...”
+「延長しない？　俺、もう少し[H名]と一緒に歌いたいんだけど……」=“Wanna extend it? I still wanna sing some more with you, [H名]...”
 「わかりました……私も、まだ歌えるので……」=“Okay... I can, keep going too so...”
 「決まりだね、じゃあ延長タイムに突入！」=“That's settled then, let's steamroll into our extension!”
 「時間がオーバーしないうちに帰ろうか」=“Let's head home before we go past the slot.”

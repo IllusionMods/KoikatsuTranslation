@@ -14,7 +14,7 @@
 「……たまにな、その……我の言うことをバカにする者がいるのだ」=“...Sometimes, uhm... I get made fun of, for the way I phrase things.”
 「しかも、その者たちは、我に聞こえるようで聞こえないぐらいの小声で話すから文句も言えない」=“And they do it in such a way, that I can make it out that I'm being made fun of, yet I am left with no room to complain, with how quietly they whisper.”
 「別に我が何を好きだって……その者たちに迷惑かけてないし……私の自由にさせてくれって思うの」=“What doth it matter to them, what sort of tastes I have... it's not like I'm bothering anyone... can't they just leave me be?”
-「[H名]……」=“[H]...”
+「[H名]……」=“[H名]...”
 「わ、我の考え方は……そんなにおかしいだろうか？」=“I-Is my thought process... that strange a thing?”
 「おかしいなんて思わないよ。むしろ、俺にはない素敵な考え方だと思うよ」=“Not at all. If anything, I think it's wonderful.”
 「……本当か？」=“...Truly?”
@@ -25,6 +25,6 @@
 「へへ……うん。やはり、そうなんだな」=“Heheh... yeah. Indeed, it is true.”
 「あ、え？　何が？」=“Ah? Eh? What is?”
 「我は、汝が好きだ。我の考え方を笑わず、まっすぐ受け止めてくれる汝が、好きだ」=“I love thee. The one man that laughs not at my way of thinking, and takes me head on. I love thee.”
-「っ！　[H名]っ！」=“--! [H]!”
-「俺も、俺も[H名]のことが大好きだ！」=“I love you, I love you too, [H]!”
+「っ！　[H名]っ！」=“--! [H名]!”
+「俺も、俺も[H名]のことが大好きだ！」=“I love you, I love you too, [H名]!”
 「そうか……嬉しいな。へへ……」=“Is that so... that makes me so happy. Eheheh...”

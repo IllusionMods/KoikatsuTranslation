@@ -5,7 +5,7 @@
 「運がよかったよ」=“We got really lucky.”
 「日頃の行いが良い結果だね♪」=“It's because we're always nice to others♪”
 「あはは……その理論なら、ずっと運がいいはずなんだけどな」=“Ahaha... by that logic, our luck ought to always be good, when it isn't.”
-「う～ん、なんでだろうね。[P名]君はいつもみんなに優しいから、ずっと運がいいはずなんだけど……う～ん」=“Mmm~, I wonder why that is. You're always so nice to others, [P]-kun, so your luck should always be good... mmm~”
+「う～ん、なんでだろうね。[P名]君はいつもみんなに優しいから、ずっと運がいいはずなんだけど……う～ん」=“Mmm~, I wonder why that is. You're always so nice to others, [P名]-kun, so your luck should always be good... mmm~”
 （冗談で言ったつもりだったけど……[H名]にとって俺そう見えてるのか……ふふ、なんだか嬉しいな）=(I said it as a joke but... so that's how she sees me, huh... fufu, man, that makes me happy)
 「……あっ、あれ見て！　いい景色だね♪」=“...Ah--, look at that! What a view♪”
 「うんうん、いい眺めだ……」=“Yeah, what a view indeed...”
@@ -28,14 +28,14 @@
 「ん……」=“Nn...”
 「んっ……はぁ、はぁ……んぅ…………」=“Nn--... haa, haa... nnn...”
 （[H名]……）=([H名]...)
-「……あのね、[P名]君に聞いて欲しいことがあるの」=“...Listen, there's something I want you to tell you, [P]-kun.”
+「……あのね、[P名]君に聞いて欲しいことがあるの」=“...Listen, there's something I want you to tell you, [P名]-kun.”
 「なに、かな？」=“What, is it?”
 「今日は[P名]君と観覧車に乗れて本当に良かった。それに……こんなにいっぱいキスもしてくれて……とってもいい思い出になっちゃったよ」=“I'm really glad we got to ride on this ferris wheel today. Also... giving me so many kisses... it's been such a memorable day.”
 「本当にありがとう♪」=“Really, thank you♪”
 「いや……俺の方こそ、いっぱいいい思い出作らせてもらったよ。ありがとう」=“No... if anything, you were the one who made the day so memorable for me. Thank you.”
 「えへへ……そう言ってもらえると嬉しいなぁ。さっ、せっかく観覧車に乗ったんだし、景色も堪能……」=“Ehehe... hearing you say that makes me so happy. Now then--, we got on this ferris wheel and everything, let's enjoy the view too...”
 「ん？　あっ、もう頂上過ぎちゃってるね……」=“Nn? Ah--, we've already started going down, it seems...”
-「そんなぁ、[P名]君と一緒に頂上の景色みたかったな」=“Darn, I wanted to see the scenery from the top with you, [P]-kun.”
+「そんなぁ、[P名]君と一緒に頂上の景色みたかったな」=“Darn, I wanted to see the scenery from the top with you, [P名]-kun.”
 「それなら……二週目突入しちゃう？」=“In that case... wanna keep going for another lap?”
 「うん、そうしよっ♪　でも……二週目もキスしたくなるなぁ……きっと」=“Yeah, let's do that--♪ But... we'll probably start going at it again the second time around too... I'm sure of it.”
 「ふふっ、それで二週目も景色が見れなかったら、三周、四週と行けばいいよ」=“Fufu--, if we still don't get to appreciate the scenery, then we can just go for a third, or even a fourth lap.”

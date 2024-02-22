@@ -2,12 +2,12 @@
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
 「クックック、下等生物どもめ……」=“Kuh kuh kuh, insects, the lot of them...”
-「[H名]……また変なこと考えてるの？」=“[H]... thinking weird stuff again?”
+「[H名]……また変なこと考えてるの？」=“[H名]... thinking weird stuff again?”
 「ふっ、我が世界征服を果たせば、ここから見える景色全てが我のものになる……そう思うと気が昂ぶってしまったのだ」=“Fuh--, once I conquer the world, this whole scenery will come under my domain... thinking of that made me incredibly excited.”
 「……この思い出の場も、我のものになるのだから……大切に愛でねばな」=“...This place of memories, will come under it as well... so I must cherish it properly.”
 「っぷ！　ふふふ、そっか。そうだよな……」=“Puh! Fufufuh, I see. Of course...”
 「む～、何を笑っているのだ」=“Muh~, what art thou laughing for?”
-「いや、確かに[H名]の言う通りだと思うよ！　思い出は大事にしないとね」=“Nothing, I think it's exactly as you say, [H]! We gotta treasure our memories.”
+「いや、確かに[H名]の言う通りだと思うよ！　思い出は大事にしないとね」=“Nothing, I think it's exactly as you say, [H名]! We gotta treasure our memories.”
 CHOICE:『特にここは、エッチした場所だから大事にしないと』=Especially this place, since we had sex here.
 CHOICE:『これからもこういう場所を増やそう』=Let's keep finding more places to cherish together.
 「特にここは、エッチした場所だから他のとこより大事にしないと」=“Especially this place, we gotta cherish it a lot more, since we had sex here.”
@@ -21,7 +21,7 @@ CHOICE:『これからもこういう場所を増やそう』=Let's keep finding
 「[H名]のことが好きだから、その気持ちが溢れてくるから求めてしまうんだ」=“The love I have for you overflows out sometimes, that's why I can't help but want you.”
 「すっ！？　そ、そんな、はっきり言わないでよ～……」=“Lo--!? D-Don't say it, so directly~...”
 「曖昧に濁すよりかは、ストレートのがいいかなと」=“I thought it'd be better if I just directly spat it out, instead of beating around the bush.”
-「また、ここで[H名]したいんだ。いいかな？」=“I wanna do it with you here, again. Do you mind, [H]?”
+「また、ここで[H名]したいんだ。いいかな？」=“I wanna do it with you here, again. Do you mind, [H名]?”
 「うぅ～、しょうがない奴だ……」=“Uuu~, there's no helping thee...”
 「これからも、こういう思い出の場所を増やしていこうね！」=“Let's keep looking for more places to cherish together, okay?”
 「えへへ～……うんっ！」=“Eheheh~... okay!”

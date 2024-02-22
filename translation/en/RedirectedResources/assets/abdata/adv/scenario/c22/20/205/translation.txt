@@ -8,7 +8,7 @@
 「うん。でもね、それだけじゃないの。今日はある意味……初めての観覧車……なんだ」=“Yeah. But, you know, it's not just that. Today's the first time I've ridden this... in a way... or two.”
 「……どういう意味？」=“...In what way?”
 「えっとね……す、好きな人と二人きりで乗る……初めての観覧車」=“Erhm, you see... i-it's my first time riding it... with the person I love.”
-「[H名]……」=“[H]...”
+「[H名]……」=“[H名]...”
 「はぅっ……ご、ごめんね……こんなこと考えるのって……変かな……？」=“Hauu--... I-I'm sorry... is it weird... that I'm thinking stuff like this...?”
 「そんなことないよ。俺だって同じだ。大好きな[H名]と乗る、初めての観覧車だよ」=“Not at all. I was thinking the same thing. It's my first time getting on this ride, with the girl I love so much.”
 「あ……えへへ、ありがとう。すごく嬉しい。まさか自分が……こんな風に好きな人の隣で観覧車に乗る日が来るなんて……考えたこともなかったよー」=“Ah... ehehe, thanks. I'm really happy. I never thought that... a day would come, when I would get to... ride the ferris wheel with my beloved, like this.”
@@ -18,7 +18,7 @@
 「そう言ってもらえると嬉しいな。この観覧車のこと、ずっと覚えててくれる？」=“Hearing you say that makes me so happy. Will you remember this ride forever?”
 「もちろん！　こうやって伝わってくる君の体温も、すごく綺麗な夜景も、夜空が反射してオレンジ色になってることも……」=“Of course! Your warmth, this beautiful view, and the way the sky's got an orange glow to it...”
 「全部全部、しっかり記憶の宝箱にしまっちゃうよ。こんなに素敵な時間……一瞬でも忘れたくないもん」=“I'll lock it all up, inside the safe in my head. I don't want to forget such a lovely time... even for a bit.”
-「[H名]……うん、俺も。一瞬でも忘れないようにする」=“[H]... yeah, me too. I'll do my best, to not forget it, even for a bit.”
+「[H名]……うん、俺も。一瞬でも忘れないようにする」=“[H名]... yeah, me too. I'll do my best, to not forget it, even for a bit.”
 「あはは、ありがとう。約束だよー。今日の思い出は……二人でいつまでも大切にしたいな」=“Ahaha, thanks. That's a promise, okay? I wanna cherish these memories... together forever.”
 「うん、約束だ」=“Yeah, it's a promise.”
 「ふふっ、でも……観覧車って本当に不思議……こうやって好きな人と乗っていると、まるでそのためだけに作られたみたいな気がしてくるよ」=“Fufu--, but... ferris wheels really are incredible... riding it with the guy I love so much like this, I feel like they were invented just for this.”
@@ -30,7 +30,7 @@
 「俺たちだけの特別な空間……みたいな」=“A space just for us... in a way.”
 「うん……きっと……そうなんだよ。そうじゃなきゃ、こんなに近い距離で君とお話出来ないもん」=“Yeah... I'm sure... it is just that. If not, there's no way I'd be able to chat with you from so up close.”
 「私……君のこと……大好き……すごく……すごく好きだよ……」=“I... really... love you... so much... I love you so much...”
-「[H名]……うん、俺も好きだ」=“[H]... I love you too.”
+「[H名]……うん、俺も好きだ」=“[H名]... I love you too.”
 「あっ……んっ……んん……ちゅっ……」=“Ah--... nn--... nnn... *kiss*...”
 「ん……」=“Nn...”
 「え、えへへ……特別な空間で……自分からキス……おねだりしちゃった……」=“E-Ehehe... I went and... coaxed you into kissing me... inside this special place...”

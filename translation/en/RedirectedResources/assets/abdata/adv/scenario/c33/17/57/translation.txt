@@ -13,9 +13,9 @@
 「迷惑なんて……嬉しいよ！」=“It wasn't a bother... I'm super happy!”
 「うふふ、よかった。あなたとの初デートだから、私の一番好きな映画を観てほしかったの」=“Ufufu, I'm glad. It's our first date, so I wanted to show you my favourite movie.”
 「主人公の刑事を翻弄する女怪盗さ、何枚も上手のお姉さんって感じで、[H名]さんに似てたよね」=“The phantom thief lady that played around with the detective protagonist, she played every role to perfection, I felt like she took after you, [H名]-san.”
-「くす、私が似てるのよ。小さい頃に観てから、ずっと憧れの女性像なの」=*Giggle*, I'm the one who takes after her. Ever since I saw that movie as a kid, I've aspired to be like that.
+「くす、私が似てるのよ。小さい頃に観てから、ずっと憧れの女性像なの」=“*Giggle*, I'm the one who takes after her. Ever since I saw that movie as a kid, I've aspired to be like that.”
 「女の武器は何でも使う、ズルくてエッチな女怪盗。でも、主人公の刑事に恋をして、わざとミスをする乙女心がいいのよ」=“Using every trick up her sleeve to get what she wants, a crafty, sexy phantom thief. But my favourite part was her maiden's hard, messing up on purpose after falling in love with the detective.”
 （そっか……だから[H名]さんは、こんなに色っぽいんだな）=(I see... So that's why [H名]-san's so sexy)
 「今日は楽しかったわ。付き合ってくれてありがと」=“I had a lot of fun today. Thanks for inviting me out.”
 「こちらこそ。[H名]さんのオリジンっていうのかな。そういうのが知れてよかった」=“Same here. Wonder if it would fit to call it your origin, [H名]-san. I'm glad I got to know about it”
-「くすっ。よかったって言われて私もよかったって思ったの、初めてよ。それじゃ、またね」=*Giggle*, It's the first time I've felt so happy after being told "I'm glad" by someone. Well then, till next time~
+「くすっ。よかったって言われて私もよかったって思ったの、初めてよ。それじゃ、またね」=“*Giggle*, It's the first time I've felt so happy after being told "I'm glad" by someone. Well then, till next time~”

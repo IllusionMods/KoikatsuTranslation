@@ -1,0 +1,69 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_ModTextDump v0.7.0.1
+//
+
+#set exe CharaStudio
+
+
+// chara/ao_hair_halloween.unity3d
+こうもり=bat
+クモ=Spider
+ハロウィンバッジ=Halloween Badge
+三日月=Crescent Moon
+
+// chara/ao_hair_xmas.unity3d
+ジンジャーマンクッキー=Gingerbread Cookie
+
+// chara/cdpsb0/iori_acs_hair.unity3d
+//銀鏡イオリ リボン=
+
+// chara/dak/ao_hair_00.unity3d
+[dak]花のみ=[dak]Flower only
+
+// chara/dak/ao_head_00.unity3d
+[dak]コロネ右(揺れ)=[dak]Coronet R (Shaking)
+[dak]コロネ左(揺れ)=[dak]Coronet L (Shaking)
+
+// chara/lamy.unity3d
+雪花ラミィ hat=Yukihana Lamy hat
+
+// chara/mod/mod_aurora_al.unity3d
+髪飾り_オーロラAL=Hair ornament_Aurora AL
+
+// chara/mod/mod_ranrin_acm.unity3d
+髪リボン_嵐燐結騎=Hair ribbon_Arashi Rin Kuki
+
+// chara/suzukihina.unity3d
+鈴木ヒナ hat=Suzuki Hina hat
+
+// chara/valletta_flower.unity3d
+花だけ=Just Flowers
+花だけ(色指定)=Just Flowers (Color Specified)
+葉だけ=Just Leaves
+葉だけ(色指定)=Just Leaves (Color Specified)
+
+// chara/xne/xne_ao_accZ46.unity3d
+ドイツ風クロス=German style cross
+ドイツ風紋章=German Crest
+
+// chara/_mods/ayanami2.unity3d
+綾波の頭のヤツ=The one on Ayanami's head
+
+// chara/_mods/fumina01.unity3d
+フミナ=Fumina
+
+// chara/_mods/otokura2.unity3d
+乙倉ロープ=Otokura rope
+
+// chara/_mods/racingmiku2.unity3d
+レーミクリボン=Raymic ribbon
+
+// chara/_mods/sinon04.unity3d
+シノン髪飾り=Sinon hair ornament
+
+// chara/_mods/sweet_patissiere2.unity3d
+くるくるリボン=Kuru Kuru Ribbon
+結び目=Knot
+
+// list/characustom/00_vkat02.unity3d
+テントウムシ=Ladybug

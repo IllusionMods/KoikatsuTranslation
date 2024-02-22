@@ -11,7 +11,7 @@
 「そうだねぇ……いちオタクとしてその気持ちはすっごくわかるんだけど……」=“Well~... as an otaku, I do sympathize, quite a bit actually, but...”
 「どうしても[H]じゃなきゃダメなんだ！　おねがい！」=“Please, [H]! You're the only one who can make this dream come true! Please!”
 「わ、わかったよぉ……そこまで言うなら……」=“I-I got it... if you insist that much...”
-「……[Pあだ名]」=“...[Pあだ名]”
+「……[Pあだ名]」=“...[Pあだ名].”
 「……うん、すごくいい。ありがとう、[Hあだ名]」=“...Yeah, it feels amazing. Thanks, [Hあだ名].”
 「そんな親指立てられても……こっちは顔が噴火したくらいに熱いし、愛称あっさり呼ばれたりで、てんやわんやだよぉ」=“Even if you give me a casual thumbs up like that... my face feels like it's going to erupt, with how hot it is, you called me that so easily, I don't even--”
 「まぁまぁ……でも、悪くなかったでしょ？　よかったらまた呼んでほしいな」=“Relax, relax... it didn't feel bad, right? I'd love it if you could call me that again sometime.”

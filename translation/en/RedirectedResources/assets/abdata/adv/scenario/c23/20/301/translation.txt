@@ -19,5 +19,5 @@
 「うんっ。あ、お先にどうぞ」=“Okay--. Ah, feel free to go first.”
 「よぉし、いくぞぉ……」=“Alright, here I go...”
 「いえーい！」=“Yay-!”
-『小さな手の平 掴める物は きっと限られているけど～♪』=『This small hand, the things it can grasp, they are surely limited, but~♪』
+『小さな手の平 掴める物は きっと限られているけど～♪』=『This small hand, the things it can grasp, they are surely limited, but～♪』
 （……感情が込められてて……凄く綺麗だ）=(...What a lovely voice... so packed with emotion)

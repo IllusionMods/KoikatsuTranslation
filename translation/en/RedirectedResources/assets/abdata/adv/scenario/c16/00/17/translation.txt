@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「んーっ、よく寝た。……あれ？　メモがある。なになに――」=“Mmm, I slept well. ...Oh? There's a letter. What's it say...?”
+「んーっ、よく寝た。……あれ？　メモがある。なになに――」=“Nnnn--, I slept well. ...Huh? There's a note. Let's see--”
 『おはよう。お寝坊さんに付き合っていたら遅刻してしまうから、先に行くわね』=「Morning. I'd be late as well if I just keep laying in bed along with a certain sleepyhead so, I'm gonna go ahead first.」
 『昨日はありがとう。とっても気持ち良かったわ。あ、思い出して一人でしたりしちゃダメよ？』=「Thanks for yesterday. It felt amazing. Ah, no thinking back to it and masturbating by yourself, okay?」
 『着替えと朝食は準備しておいたから、シャワーを浴びて早く来る事。遅刻は厳禁よ　[H]』=「I made you breakfast and laid out your change of clothes so, take a shower and come quickly. You're not allowed to be late. --[H].」

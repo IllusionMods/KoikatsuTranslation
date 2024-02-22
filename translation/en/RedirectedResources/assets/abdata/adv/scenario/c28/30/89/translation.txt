@@ -10,8 +10,8 @@
 「ちゃんとわしの愛称も考えておるんじゃろな？」=“I assume you have thought of one for me as well?”
 「もちろん、この日の為にしっかり考えてあるよ」=“Of course, I thought of one long ago, just in case.”
 「用意周到じゃのう……。ごほん……では、参るぞ！」=“You sure are well prepared... *cough*... well then, here I go!”
-「……[Pあだ名]」=“...[Pあだ名]”
-「[Hあだ名]」=[Hあだ名]
+「……[Pあだ名]」=“...[Pあだ名].”
+「[Hあだ名]」=“[Hあだ名].”
 「お、思ったより恥ずかしいのぅ……これ」=“M-More embarrassing than I expected... this.”
 「そんな[Hあだ名]の顔が見れるなら、またやってもらおうかな」=“Man, if I can get to see you turn that red everytime, maybe I'll have you call me that again, [Hあだ名].”
 「そ、そういう意地悪な理由ならやらんぞ！　そんな顔をしてもダメじゃ！　ダメ、じゃぞ？」=“I-I shall not go along with it if you are going to be such a meanie about it! Even if you show me such a sad expression! I shan't, okay?”

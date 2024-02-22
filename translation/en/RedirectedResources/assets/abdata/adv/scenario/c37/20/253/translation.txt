@@ -10,7 +10,7 @@
 CHOICE:『我慢しようとしてみる』=『Make an attempt at enduring it』
 CHOICE:『必死に我慢する』=『Desperately endure it』
 （こ、こんなところで勃たせるわけには……あぁ、でも……気持ちいい……）=(I-I can't get an erection in a place like this... Aaah, but... It feels so good...)
-「……大きく、なってますね」=“......It's getting pretty big, isn't it?”
+「……大きく、なってますね」=“...It's getting pretty big, isn't it?”
 「ご、ごめん、密着してると、[H名]の匂いが……」=“S-Sorry, when we're glued together like this, your scent, [H名]...”
 「……そのままじっと、声は出さないようお願いします」=“...Keep staying still like that, and try not to make a sound.”
 「えっ、ちょっ……！？」=“Eh--, Wai--... !?”

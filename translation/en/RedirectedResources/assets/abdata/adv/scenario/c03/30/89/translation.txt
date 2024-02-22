@@ -1,17 +1,17 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「ちょっと提案があるんだけど……お互いのこと愛称で呼んでみない？」=“I've got a little suggestion... let's call each other by our nicknames, alright?”
-「ふぇ……？　愛称ですか？　ぜひ、ぜひ！　私も呼びたいのです！」=“Fweh...? Nicknames? Please, please! I'd like to call you one, too!”
-「やったね！　それじゃまずは……俺のこと、[Pあだ名]って呼んでみて？」=“Let's do it! Alright then... why not call me [Pあだ名]?”
-「えぇーっ、それのどこが愛称なのですか！？　私はもっとこう……普通な感じのを想像してたです！」=“Ehhh-! How is that a nickname!? I was imagining something more... normal than that!”
-「確かに普通じゃないかもだけど……[H]からはそう呼ばれたいんだ。嫌、だったかな？」=“Well, yeah, I guess it's not normal... but that's what I'd like you to call me,  [H]. Don't you like it?”
-「ふふーっ、あなたがしたいことで、嫌なことなんてあるはずないです♪　どんな呼び方でも平気なのですよ」=“Fufu-! There's nothing you could do that I wouldn't like♪ It doesn't matter what you want me to call you.”
-「ありがとう！　それじゃまずは俺から呼んでみるから」=“Thank you! Okay, now I'll call you by something.”
-「は、はいっ！　ど、ドキドキするですっ！」=“Y-yes! I-I'm super excited!”
-「……[Hあだ名]」=“...[Hあだ名]”
-「わぁぁっ！　え、えっとっ……では、私もっ。……[Pあだ名]」=“Waaaa! E-er, um...my turn I guess... [Pあだ名].”
-「おお、新鮮！　こうやって呼び合うの、いいね。[Hあだ名]!」=“Oooh, so fresh! It's great to call each other by nicknames, [Hあだ名]!”
-「はいー、恥ずかしいですけど……呼ばれるだけでドキドキするなんて嬉しいです」=“Yes- but it's embarrassing... I'm happy that it excites you to be called by a nickname.”
-「そうだね。ね、これからもこうやって呼び合ってもいいかな？」=“Yeah, I know. Hey, can we keep calling each other by our nicknames?”
-「いいですよ。でも……毎回この呼び方はさすがに恥ずかしいですから……ここぞという時だけにするです！」=“Oke-dokey. But... I'd be embarrassed if I called you by it, all the time so... I'll save it for special occasions!”
+「ちょっと提案があるんだけど……お互いのこと愛称で呼んでみない？」=“Hey, so, listen, I've a suggestion... wanna try calling each other by nicknames?”
+「ふぇ……？　愛称ですか？　ぜひ、ぜひ！　私も呼びたいのです！」=“Fueh...? Nicknames? Let's, lets! I want to call you by a nickname too!”
+「やったね！　それじゃまずは……俺のこと、[Pあだ名]って呼んでみて？」=“Great! Well then... try calling me [Pあだ名]?”
+「えぇーっ、それのどこが愛称なのですか！？　私はもっとこう……普通な感じのを想像してたです！」=“Eeeh--, what part of that is a 'nickname'?! I was thinking of something... more normal!”
+「確かに普通じゃないかもだけど……[H]からはそう呼ばれたいんだ。嫌、だったかな？」=“For sure, it's not very 'normal', but... that's what I want you to call me, [H]. I mean, if you don't like it...”
+「ふふーっ、あなたがしたいことで、嫌なことなんてあるはずないです♪　どんな呼び方でも平気なのですよ」=“Fufuh~, there's no way I wouldn't like it, when it's something you want♪ I'll call you whatever you want me to call you.”
+「ありがとう！　それじゃまずは俺から呼んでみるから」=“Thank you! Well then, I'll start with yours, alright?”
+「は、はいっ！　ど、ドキドキするですっ！」=“Y-Yes--! M-My heart's pounding--!”
+「……[Hあだ名]」=“...[Hあだ名].”
+「わぁぁっ！　え、えっとっ……では、私もっ。……[Pあだ名]」=“Waaah--! E-Erhm... well then, me too-. ...[Pあだ名].”
+「おお、新鮮！　こうやって呼び合うの、いいね。[Hあだ名]!」=“Ooh, that's so nice! Calling each other these names, it's pretty fun, isn't it, [Hあだ名]!”
+「はいー、恥ずかしいですけど……呼ばれるだけでドキドキするなんて嬉しいです」=“Yes~, it is a bit embarrassing but... just being called that by you makes me so happy and makes my heart pound so much.”
+「そうだね。ね、これからもこうやって呼び合ってもいいかな？」=“It does, doesn't it? Hey, do you mind if we call each other these names again?”
+「いいですよ。でも……毎回この呼び方はさすがに恥ずかしいですから……ここぞという時だけにするです！」=“Not at all. But... I'd die from my face burning up too hot if we completely shift to using them so... let's use them only at important moments!”

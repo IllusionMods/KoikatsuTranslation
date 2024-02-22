@@ -8,7 +8,7 @@
 CHOICE:『一応我慢してみる』=『Try holding back a bit』
 CHOICE:『必死に我慢する』=『Desperately endure』
 （うっ……我慢しなきゃだけど……ダメだ、抑えられそうにない……）=(Uuh--... I need to endure it but... Ah, damn, I don't think I can control it...)
-「……そのままじっとしていて。下手に騒いだらバレちゃうから」=“......Just stay still like that. If we make a carelessly make a racket then we'll get caught.”
+「……そのままじっとしていて。下手に騒いだらバレちゃうから」=“...Just stay still like that. If we make a carelessly make a racket then we'll get caught.”
 「ちょ、[H名]さん……こんなところで」=“Wai--, [H名]-san... In a place like this--”
 「あら、あなたなら興奮する、なんて言うと思ったのに。なんだか興ざめね」=“Oh my, I thought you'd get excited. What a kill-joy.”
 「ああっ、うそうそ、興奮するよ。ちょっと驚いただけ」=“Aaah--, I was joking. I'm excited. Definitely. I was just a bit surprised, that's all.”

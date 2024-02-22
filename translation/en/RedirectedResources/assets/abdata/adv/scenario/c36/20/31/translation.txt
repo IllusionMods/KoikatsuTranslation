@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「何、これ？　人を不快にさせるプレゼントなんて、聞いた事ないわよ？」=“What is this? I've never heard of a present this unpleasant.”
+「何、これ？　人を不快にさせるプレゼントなんて、聞いた事ないわよ？」=“What is this supposed to be? I've never heard of a present so bad it could actually make someone uncomfortable.”

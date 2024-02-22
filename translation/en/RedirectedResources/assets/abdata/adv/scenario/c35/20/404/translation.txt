@@ -27,7 +27,7 @@
 「へぇ、大人の味ね……ちょっと気になるかも」=“Heh, adult-like, huh... I'm a bit curious now.”
 「あ、せっかくやけん、君も食べてみて。こうして……」=“Ah, you should try some too then. I'll...”
 「ありがとう。それじゃ、あーん……」=“Thanks. Well then, aaaahn...”
-「あむっ……んんっ！　苦みが効いてていいかも。確かに癖になる」=*Bite*--... Nnn--! The bitterness works really well. I can see why you like this.
+「あむっ……んんっ！　苦みが効いてていいかも。確かに癖になる」=“*Bite*--... Nnn--! The bitterness works really well. I can see why you like this.”
 「やろやろー！　大人の味って感じなん！」=“I know, right?! It tastes really mature!”
 「うん。理解出来たってことは、俺もようやく大人になれたってことだよね」=“Yeah. The fact that I understand it, means that I too have become an adult, huh?”
 「うんうんっ！　二人で一緒に大人への階段を上っていくん！　んーっ、大人への階段、美味しー♪」=“Yeah, yeah--! We're climbing the stairway to adulthood together! Nnn--, the stairway to adulthood, so darn tasty♪”

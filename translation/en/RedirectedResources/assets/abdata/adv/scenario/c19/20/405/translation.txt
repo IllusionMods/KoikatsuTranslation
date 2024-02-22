@@ -2,7 +2,7 @@
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
 「すごい……玉子がふわふわ」=“Amazing... the egg's so fluffy.”
-「……ねえ、[P名]君はオムライスを頼むのって、子供っぽいと思う？」=“...Hey, do you think it's childish of me, to get the omurice, [P]-kun?”
+「……ねえ、[P名]君はオムライスを頼むのって、子供っぽいと思う？」=“...Hey, do you think it's childish of me, to get the omurice, [P名]-kun?”
 「そんな事無いよ。お子様ランチのイメージもあるけど、オムライス専門のお店も多いくらいだし」=“Not at all. It does have the image of belonging to the kids' menu but, there's lots of shops out there that have their omurice as the featured dish too.”
 「良かった。そういえば本で読んだんだけど、オムライスって、お腹の弱い常連のお客さん向けに作った料理が発祥のひとつなんだって」=“Thank goodness. That reminds me, I read in a book once, that one of the suspected origins of omurice is that it was initially made by a restaurant specifically for regulars with weak stomachs.”
 「そうだったんだ。だからお子様ランチでも定番なのかな」=“I see. Maybe that's why it's so standard on kids' menus.”
@@ -17,5 +17,5 @@
 「それじゃあ……あ～んして？」=“Well then... open wide~?”
 「うん。あ～ん……」=“Okay. Aaahn~...”
 「……おお、これは美味しい。玉子は完熟なのにふわふわしてるし、チキンライスも濃すぎず……食べやすいね」=“...Ooh, it's delicious. The egg's so soft and fluffy even though it's fully cooked, and the chicken rice is full of flavour too... goes down real easy.”
-「でしょ？　ふふっ、[P名]君と感動を共有できてよかった」=“Right? Fufu--, I'm glad I was able to share this sensation with you, [P]-kun.”
+「でしょ？　ふふっ、[P名]君と感動を共有できてよかった」=“Right? Fufu--, I'm glad I was able to share this sensation with you, [P名]-kun.”
 「でも……やっぱり、同じスプーンを共有するのは照れくさいね。どんなお料理も美味しすぎるくらいになっちゃいそう……」=“But... sharing the same spoon too, is really quite embarrassing, isn't it? Feel like it could make just about anything taste phenomenal...”

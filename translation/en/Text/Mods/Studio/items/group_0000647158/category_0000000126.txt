@@ -1,0 +1,224 @@
+//
+// Dumped for Koikatsu v5.1 (CharaStudio) by KK_ModTextDump v0.7.0.1
+//
+
+#set exe CharaStudio
+
+
+// chara/07/ao_waist_07.unity3d
+バゼラードの鞘=Bazelard's Sheath
+盗賊のベルト =Bandit's Belt
+盗賊のポーチ =Thief's Pouch
+聖女の腰飾り =Saint's Waistcoat
+
+// chara/08/ao_waist_08.unity3d
+サキュバスのランタン=Succubus Lantern
+サキュバス尻尾=Succubus Tail
+ネクロマンサーの腰飾り=Necromancer's Waistcoat
+ネクロマンサーベルト =Necromancer Belt
+闇の守り=Charm of Darkness
+魔力の砂時計=Hourglass of Magic
+魔術師のポーチ=Sorcerer's Pouch
+
+// chara/airis accs common1.unity3d
+//NW アイリス earing1=
+//WE アイリス RIBBON_CM=
+
+// chara/ao_creamset_nkt.unity3d
+イチゴ=Strawberries
+クリーム1=Cream 1
+クリーム2=Cream 2
+
+// chara/ao_waist_103.unity3d
+温泉ルウシェ HAT=Onsen Rouche HAT
+
+// chara/ao_waist_104.unity3d
+温泉ルウシェ mark=Onsen Rouche mark
+
+// chara/ao_waist_105.unity3d
+ミラクル Hat=Miracle Hat
+
+// chara/ao_waist_106.unity3d
+マジカル hair=Magical hair
+
+// chara/ao_waist_xmas.unity3d
+ソリ=Sled
+トナカイ=Reindeer
+
+// chara/cdpsb0/iori_acs_tail.unity3d
+//銀鏡イオリ しっぽ=
+
+// chara/choco.unity3d
+癒月ちょこ tail=Yuzuki Choco tail
+
+// chara/co_shoes.unity3d
+贵族风衣腰饰=Necromancer's waistcoat
+
+// chara/gray/F_bbelt_a.unity3d
+メタルベルト=Metal belt
+
+// chara/gray/F_devil00_a.unity3d
+小悪魔尻尾(リボンなし)=Little devil tail (Without ribbon)
+
+// chara/gray/F_gems_a.unity3d
+ジェム1=Gem 1
+ジェム2=Gem 2
+ジェム3=Gem 3
+ジェム4=Gem 4
+ジェム5=Gem 5
+
+// chara/idol_onepiece.unity3d
+//アイドルワンピサスペンダー(右)=
+//アイドルワンピサスペンダー(左)=
+//アイドルワンピリボン=
+//アイドルワンピリボン(短)=
+//アイドルワンピ紐1=
+//アイドルワンピ紐2=
+//アイドルワンピ紐3=
+
+// chara/kaguranana.unity3d
+カグラナナ アーティストver. tail=Karuga Nana Artist ver. tail
+
+// chara/korone.unity3d
+戌神ころね tail=Inugami Korone tail
+
+// chara/mf_alice.unity3d
+金木犀の剣(納刀)[アリス]=Sword of the Golden Rhinoceros [Alice][SAO]
+金木犀の剣の鞘[アリス]=Scabbard of the Sword of the Golden Rhinoceros [Alice]
+
+// chara/mf_alice_v2.unity3d
+金木犀の剣(納刀)[アリス][SAO]=Sword of the Golden Rhinoceros [Alice][SAO].
+金木犀の剣の鞘[アリス][SAO]=Scabbard of the Sword of the Golden Rhinoceros [Alice][SAO]
+
+// chara/mf_asuna.unity3d
+ラディアントライト(納刀)[SAO]=Radiant Light (sword)[SAO][SAO
+ラディアントライトの鞘[SAO]=Radiant Light Scabbard [SAO][Alice
+
+// chara/mf_leafa.unity3d
+ヴァーデュラス・アニマ(納刀)[SAO]=Verdurus Anima (sword)[SAO][SAO
+ヴァーデュラス・アニマの鞘[SAO]=Verdurus Anima Scabbard [SAO]
+
+// chara/mf_sinon_CaitSith.unity3d
+シノン(ケットシー)[SAO]=Sinon(Ketsee)[SAO][SAO
+
+// chara/mf_vladilena_milize_waist.unity3d
+レーナ[86-EIGHTY SIX-]=Raina [86-EIGHTY SIX-]
+
+// chara/mm/mmepuron.unity3d
+エプロン=Apron
+
+// chara/mod/mod_eden_vb.unity3d
+尻尾_エデンVB=Tail_Eden VB
+尻尾_エデンVB_アニメ無=Tail_Eden VB_without animation
+
+// chara/nakay/ao_waist_osk00.unity3d
+オーバースカート・プリーツロングＡ=Overskirt Pleated Long A
+オーバースカート・プリーツＡ=Overskirt Pleats A
+
+// chara/roie/roie_accessories.unity3d
+コートベルト=Coat Belt
+
+// chara/umy.unity3d
+呜米Umy tail=MeUmy tail
+
+// chara/umy2.unity3d
+呜米Umy公式服 tail=MeUmy Official tail
+
+// chara/ymd/mf_accprim.unity3d
+V字=V-shape
+ひょうたん平面=Gourd plane
+ひょうたん立体=Gourd
+カプセル=Capsule
+キューブ=Cube
+クリスタル=Crystals
+コーン=cone
+シリンダー=Cylinder
+スフィア=Sphere
+ディストーション 平面=Distortion Plane
+ディストーション 球=Distortion Sphere
+ドロップ平面=Drop plane
+ドロップ立体=Drop solid
+ハート１=Heart 1
+ハート２=Heart 2
+パイプ１=Pipe 1
+パイプ２=Pipe 2
+ヒレ型=Fin-shaped
+ピラミッド=Pyramid
+マウス型右=Mouse-type R
+マウス型左=Mouse-type L
+リング=Ring
+三日月１=Crescent1
+三日月２=Crescent 2
+三日月３=Crescent 3
+三角=Triangle
+三角横台形=Triangular trapezoid
+二対多角形=Two-pair polygon
+五角形=Pentagon
+五角横台形=Pentagonal horizontal trapezoid
+先尖り棒=Pointed bar
+八角形=Octagon
+六角形=Hexagon
+円形横台形=Round horizontal trapezoid
+十字=Cross
+半円=Semicircle
+台形１=Trapezoid 1
+台形２=Trapezoid 2
+四分円=Quarter circle
+山型多角形1=Mountain polygon 1
+山型多角形2=Mountain polygon 2
+平面=Plane
+弧１=Arc 1
+弧２=Arc 2
+弧３=Arc 3
+斜ひし形=Oblique rhombus
+星１=Star 1
+星２=Star 2
+星３=Star 3
+星４=Star 4
+欠け四角=Missing square
+正台形=regular trapezoid
+歪み三角柱=Distorted triangular prism
+歪み台形=Distortion trapezoid
+歪み多角形=Distortion polygon
+爪=Claw
+直角形=Rectangle
+直角１=Right angle 1
+直角２=Right angle 2
+直角３=Right angle 3
+矢印１=Arrow 1
+矢印２=Arrow 2
+矢印３=Arrow 3
+穴あきキューブ=Cube with holes
+穴あき三角=Perforated triangle
+穴あき六角形=Hexagon with hole
+穴あき楕円=Oval with hole
+立体半円=Three-dimensional semicircle
+立体四半円=3D semicircle
+筒四分=Cylinder quadrant
+筒１=Tube 1
+筒２=Tube2
+角なし三角=Triangle without corners
+角なし四角=Quadrilaterals without corners
+角なし四角錐=Quadrilateral pyramid without corners
+角なし斜ひし形=Diagonal rhombus without corners
+角なし歪み台形=Cornerless distorted trapezoid
+角リング=Square ring
+角型=Square shape
+輪=Ring
+長五角形=Long pentagon
+長六角形=Long hexagon
+頭=Head
+
+// chara/ymd/mf_texchange.unity3d
+サイドドレープ [マスク変更]=side drape [mask change].
+サイドドレープ [リボンなし]=side drape [without ribbon]
+サイドドレープ[白透過]=Side drape [white transparent].
+
+// chara/_mods/shy05.unity3d
+//SHYテール1=
+
+// chara/_mods/shy06.unity3d
+//SHYテール2=
+
+// chara/_mods/sinon06.unity3d
+ポーチ=Pouch

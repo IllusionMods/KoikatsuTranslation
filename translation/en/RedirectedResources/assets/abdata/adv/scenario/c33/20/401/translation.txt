@@ -9,7 +9,7 @@
 「ギャップねぇ……なら、あなたのことを楽しませるために、私の素顔にかぶせてる仮面を取るのは、もう少し先延ばしにしてあげる」=“Gap moe, huh... If so, I'll put off taking off this mask that I have on my true face for a bit, so that you can enjoy yourself for a bit more.”
 「え、仮面？　今が[H名]さんの素顔じゃないの？　とってもいいのに」=“Eh, Mask? Is this not your real face, [H名]-san? Even though it's so nice.”
 「さあ、どうしようかしら」=“Let's see, what should I do?”
-「き、気になる……！」=“I-I'm curious......!”
+「き、気になる……！」=“I-I'm curious...!”
 「うふふ、辛いものが好きな女の、ただの照れ隠しよ。気にしないの」=“Ufufu, all of that was just a girl trying to hide her embarrassment at her love for spicy food. I don't mind it.”
 「ふふ、それなら残念ね。私、辛いもの嫌いだし、なかなか見られないわね」=“Fufu, in that case, too bad. I hate spicy food, so you won't get to see it often.”
 「あれ？　でも、前に食べてなかった？」=“Huh? But, didn't you eat some the other day?”

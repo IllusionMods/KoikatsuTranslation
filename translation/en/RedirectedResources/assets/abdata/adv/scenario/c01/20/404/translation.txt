@@ -10,7 +10,7 @@
 「そんなに感動してくれるなら、連れてきた甲斐があったよ」=“Guess it was worth bringing you here then.”
 「舌の上でとろけます……それに、とても私好みの味で……ぱくっ……ぱくっ……止まりません……」=“It's melting on my tongue... not to mention, it's exactly the sort of taste I love... *bite*... *bite*... I cannot stop...”
 （テーブルマナーのしっかりしてる[H名]が、すごいスピードで食べている……そんなに美味しいのか！？）=(She's going at mach speed, with her usual perfect table manners... is it that good?!)
-「ねえ[H名]、そんなに美味しいなら、俺にも一口ちょうだい。あーんして食べさせてよ」=“Hey, [H], if it's that good, let me have a bite too. Feed it to me.”
+「ねえ[H名]、そんなに美味しいなら、俺にも一口ちょうだい。あーんして食べさせてよ」=“Hey, [H名], if it's that good, let me have a bite too. Feed it to me.”
 「こんな他のお客さんがいる中、あーん、ですか…………いえ、あなたにもこの素晴らしい味を知っていただきたいですし……」=“Feed it to you, in such a, public place... no, I want you to savour this wonderful flavour as well, so I suppose...”
 「あ、あーん……」=“A-Aaahn...”
 「あーん……ぱくっ」=“Aahn... *bite*”

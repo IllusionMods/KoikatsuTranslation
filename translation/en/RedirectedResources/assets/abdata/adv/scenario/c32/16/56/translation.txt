@@ -5,4 +5,4 @@
 「引き留めたりしないの……？」=“Are you not going to try and stop me...?”
 「そりゃあ引き留めたいです！　でも、そうすると困るのはあなたでしょう」=“Well, yes, of course I want to! But, if I do that, you'll be troubled, no?”
 「これ以上私のことで心を痛めて頂きたくはないのです。……私にとって、あなたはまだ大切な人ですから」=“I don't want you to feel agonized over me any more than this.To me, you're still a precious person, after all.”
-「……さようなら。良い思い出をありがとうございました」=“.........Goodbye. Thank you, for all the good memories.”
+「……さようなら。良い思い出をありがとうございました」=“...Goodbye. Thank you, for all the good memories.”

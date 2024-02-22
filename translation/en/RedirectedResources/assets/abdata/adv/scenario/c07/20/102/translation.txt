@@ -4,7 +4,7 @@
 「緑の中を歩くのは気持ちいいなー」=“It sure feels great to walk amongst greenery~”
 「そうだな。風も穏やかで涼しくて、街なかとはやっぱ違うよ」=“Yeah. The wind's nice and refreshing too, feels completely different from the city center.”
 「そうそう。そんで匂いも違うんだよね。こう、森の香りというか、大地の芳香というか……」=“Exactly. The smell is different too, innit? The aroma of forestry, the smell of the earth...”
-「……ん、あれ？　このおいしそうな匂いは……？　お、もしかしてあれかな？」=“......Nn, huh? What's this appetizing smell...? Oh, is it that?”
+「……ん、あれ？　このおいしそうな匂いは……？　お、もしかしてあれかな？」=“...Nn, huh? What's this appetizing smell...? Oh, is it that?”
 「あっ、移動販売車だ。何売ってんだろ」=“Ah--, it's a food stall. Wonder what they're selling.”
 「おお、ケバブだ。どうりでいい匂いがするわけだ」=“Ooh, it's a doner kebab stall. No wonder it smells so good.”
 「せっかくだし、食べていこうよ」=“Since we're here anyway, let's grab some.”
@@ -12,7 +12,7 @@
 「え～、食べたいな～。ほら、見なよあの肉。うまそ～だな～」=“Eh~, I wanna try it though~. Look, Look at that meat. It looks so damn good~”
 「……じゅるっ。い、いやっ、うまそうじゃない！　全然うまそうじゃない！」=“...*drool*--. N-No--, it doesn't look good! It doesn't look good at all!”
 「こ、これは違うぞ！　食べたいわけじゃないからな！」=“Y-You've got it wrong! I definitely don't want any!”
-「[H名]……。本当は食べたいんだろう？　正直に言ってくれよ」=“[H名]...... You actually really want some, right? Be honest with me.”
+「[H名]……。本当は食べたいんだろう？　正直に言ってくれよ」=“[H名]... You actually really want some, right? Be honest with me.”
 「うう……食べたい、けど……[P名]の前でがっついたらみっともないだろ」=“Uuu... I do, but... It'd look so bad if I just started stuffing myself in front of you, [P名.”
 「お前も、そんな女は嫌だろ？　ケバブってきれいに食べられそうもないし……」=“You don't like those sorts of girls either, do you? I don't think I could eat a doner kebab all prettily either...”
 「そんなこと気にするわけないだろ。むしろ、たくさん食べてくれたほうが俺は嬉しいよ」=“You don't need to bother over stuff like that. If anything, I'd be real happy to see you stuff yourself.”

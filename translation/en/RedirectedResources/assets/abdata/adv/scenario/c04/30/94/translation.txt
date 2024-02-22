@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「すぅ……すぅ……ん、んん……」=*snore... *snore*... Nnn, nnnn...
+「すぅ……すぅ……ん、んん……」=“*snore... *snore*... Nnn, nnnn...”
 （ううん、何だか下半身に違和感が……？）=(Nnnnn... my crotch feels kinda...?)
 「…………」=“......”
 「って……え？　え？」=“...Eh? Eh?”

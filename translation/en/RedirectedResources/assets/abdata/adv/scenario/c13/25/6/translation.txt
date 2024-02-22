@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「うん。でも[P]くん、アタシをどこに連れていくつもりなの？」=“Yeah. But [P名]-kun, where do you plan on taking me?”
+「うん。でも[P]くん、アタシをどこに連れていくつもりなの？」=“Yeah. But [P]-kun, where do you plan on taking me?”
 「うーん。それは到着するまでのお楽しみってことで」=“Mmm. You'll just have to wait until we get there to find out.”
 「[P]くんがそういうなら……あ、でもいやらしい所はダメだからね！」=“If you say so... ah, but you can't take me to any lewd places, got it?!”

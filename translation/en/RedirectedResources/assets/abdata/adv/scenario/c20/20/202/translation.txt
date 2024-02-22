@@ -12,7 +12,7 @@
 「いや、なんかコーヒーにまつわる色々なことを思い出してさ」=“No, I just ended up recalling some coffee related stuff.”
 「テスト前に眠気覚ましに一気飲みしたり……」=“Like how I once gulped down a whole cup in one go, to keep myself awake the night before a test...”
 「ちょっと背伸びして……ブラック頼んでみたり、ですか？」=“Did you overextend yourself and... order black, by any chance?”
-「そうそう！　よくわかったね。ちなみに[H名]はブラック飲めるの？」=“Yeah, black! Figured that out quickly, didn't you? Incidentally, can you drink black coffee, [H]?”
+「そうそう！　よくわかったね。ちなみに[H名]はブラック飲めるの？」=“Yeah, black! Figured that out quickly, didn't you? Incidentally, can you drink black coffee, [H名]?”
 「はい……結構好き、ですね。苦味が癖になるんですよね」=“Yes... I actually like it, quite a bit. That bitterness is quite addicting, isn't it?”
 「そうなんだ？　そんなに好きなら……これから乗るコーヒーカップいっぱいに注いだブラックコーヒー、飲みたかったりするんじゃない？」=“That so? If you like it that much... wouldn't you just love to drink enough black coffee to fill up that whole coffee cup that we're about to ride?”
 「え！？　あ、あの……そんなにたくさんは……飲めませんよ？」=“Eh!? U-Uhm... I can't... drink that much of it, you know?”

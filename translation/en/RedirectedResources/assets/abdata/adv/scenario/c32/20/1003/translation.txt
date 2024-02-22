@@ -23,11 +23,11 @@
 「あなた以外に、いったい誰がいるっていうんですか？」=“Aside from you, just who else do you think is there?”
 「ここまでお膳立てが済んでるんです。あとは数年待つだけじゃありませんか」=“The groundwork is already laid. Now all that's left is to wait a few years, no?”
 「はは、今すぐじゃないのがちょっともどかしいね」=“Haha, it feels a bit frustrating, that I can't do it immediately.”
-「……私、待たされるのは嫌いじゃありません。でも、待ちぼうけを食らうのは御免です」=“......I don't hate being made to wait, you know? But, please just don't make me wait in vain.”
+「……私、待たされるのは嫌いじゃありません。でも、待ちぼうけを食らうのは御免です」=“...I don't hate being made to wait, you know? But, please just don't make me wait in vain.”
 「必ず……必ず、この式の続きをしましょうね？」=“Definitely... We definitely have to take the next step of this ceremony someday, alright?”
 「うん、絶対約束するよ……[H名]」=“Yeah, I promise you that... [H名].”
 「ん……」=“Nn...”
-「……ん……んん……」=“...Nn......Nnnn......”
+「……ん……んん……」=“...Nn...Nnnn...”
 ………………=.........
 …………=......
 ……=...
