@@ -2,4 +2,4 @@
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
 「あら、おはよう。あ、シャワー借りたわよ」=“Oh, good morning. Ah, I borrowed your shower.”
-「な、なに？　そんなにジロジロ見られると恥ずかしいのだけど……」=“W-What? It's embarassing when you stare at me like that...”
+「な、なに？　そんなにジロジロ見られると恥ずかしいのだけど……」=“W-What? It's embarrassing when you stare so much...”

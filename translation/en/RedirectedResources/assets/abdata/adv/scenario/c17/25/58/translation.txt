@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「ほら、何してるのよ。時間がもったいないわ、はやく行くわよ」=“Hey, what are you doing? We're wasting time, let's hurry and go.”
-「あっ、そんな急がなくても大丈夫だよ」=“Oh, you don't need to feel so rushed it'll be fine.”
-「ここの喫茶店、落ち着いた雰囲気でいいわね」=“This cafe's atmosphere is really relaxing.”
-「そうだね。ゆっくりとコーヒーを飲みながら、話すのも楽しいね」=“You're right. Casually drinking coffee and talking is quite fun.”
+「ほら、何してるのよ。時間がもったいないわ、はやく行くわよ」=“C'mon, what're you doing? We're wasting time, let's go, come on.”
+「あっ、そんな急がなくても大丈夫だよ」=“Ah--, you don't need to rush so much.”
+「ここの喫茶店、落ち着いた雰囲気でいいわね」=“The coffee shop here has a really relaxing atmosphere, don't you think?”
+「そうだね。ゆっくりとコーヒーを飲みながら、話すのも楽しいね」=“Yeah. Chatting while sipping coffee like this is pretty fun too.”

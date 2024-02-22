@@ -2,7 +2,7 @@
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
 「ねえ、別れてほしいの」=“Hey, I want to break up.”
-「え、それってどういう……」=“Huh, what does that mean...?”
+「え、それってどういう……」=“Eh, just what...”
 「言葉のままの意味よ、冷めちゃったの……」=“It means exactly what it means. I just don't feel it anymore...”
-「ちょっと待って。俺の何がいけなかったのかな」=“Wait a minute. What did I do wrong?”
-「自分の胸にでも聞いてみたら？　……さようなら」=“Why don't you ask yourself? ...Goodbye.”
+「ちょっと待って。俺の何がいけなかったのかな」=“Hold up. Just what is it that you don't like about me?”
+「自分の胸にでも聞いてみたら？　……さようなら」=“Why not look inwards? ...Goodbye.”

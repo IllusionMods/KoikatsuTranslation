@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「これを私に……？　い、一応貰っておくわ」=“This is for me...? W-Well, I'll accept it.”
+「これを私に……？　い、一応貰っておくわ」=“This, for me...? I-I'll accept it, I guess.”

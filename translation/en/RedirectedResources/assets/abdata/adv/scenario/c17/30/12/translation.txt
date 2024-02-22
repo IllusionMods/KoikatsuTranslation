@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「……いいわよ」=“...We can.”
-「本当にいいの？」=“Is it really fine?”
-「ええ、私の大好きで、大切な恋人だもの」=“Yes, you're my lover and a very dear person to me.”
-「だから、私の初めて、もらってほしい」=“So, I want you to take my first time.”
+「……いいわよ」=“...Sure.”
+「本当にいいの？」=“Are you really sure?”
+「ええ、私の大好きで、大切な恋人だもの」=“Yes, you're my boyfriend, the person I love so much, afterall.”
+「だから、私の初めて、もらってほしい」=“So, I want you to have it, have my virginity.”

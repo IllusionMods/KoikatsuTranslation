@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「いいけれど、何をするのかしら。私、運動はあまり得意じゃなくて……」=“Sure, but what will we be doing? I'm not very good at exercising...”
-「そっか。なら誰にでもできるような簡単なものがいいね」=“I see. Then something simple that anyone would be nice.”
-「そうして貰えると助かるわ。なにかいいものがあるかしら」=“That'd be great. Let's see if there's something like that.”
+「いいけれど、何をするのかしら。私、運動はあまり得意じゃなくて……」=“Sure but, what are we going to do? I'm not really, all that good at exercise so...”
+「そっか。なら誰にでもできるような簡単なものがいいね」=“I see. Then something easy that anybody can do would be alright, yeah?”
+「そうして貰えると助かるわ。なにかいいものがあるかしら」=“That'd be great. Do you know of something like that?”

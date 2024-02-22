@@ -4,10 +4,10 @@
 ………………=.........
 …………=......
 ……=...
-「まだ話してたいけれど、ここでお別れね」=“I still want to talk, but we leave in separate directions here.”
+「まだ話してたいけれど、ここでお別れね」=“I want to keep chatting some more but, guess it's goodbye here.”
 CHOICE:「これから、俺の家にこれないかな？」=Don't suppose you could come to my place?
-CHOICE:「そうだね、じゃあまたね」=“That's true, see you again.”
-「これから、俺の家に来られないかな？　まだ[H]さんと一緒にいたくて」=“In that case, how about coming over to my place? I still want to be with [H]-san.”
-「ええ、全然構わないわよ。私も、まだ一緒にいたいって思ってたから」=“Yes, I don't mind at all. I was also thinking that I still want to be with you.”
-「そうだね、じゃあまたね」=“That's true, see you again.”
-「ええ、それじゃあまた」=“Yes, see you soon.”
+CHOICE:「そうだね、じゃあまたね」=Right, see you then.
+「これから、俺の家に来られないかな？　まだ[H]さんと一緒にいたくて」=“Don't suppose you could come to my place? I wanna be with you some more, [H]-san.”
+「ええ、全然構わないわよ。私も、まだ一緒にいたいって思ってたから」=“Yes, I don't mind at all. I wanted to be with you some more myself.”
+「そうだね、じゃあまたね」=“Right, see you then.”
+「ええ、それじゃあまた」=“Yes, see you later.”

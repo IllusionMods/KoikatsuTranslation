@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「はじめは鬱陶しかったけれど、あなたと話すのもいい暇つぶしにはなるわね」=“At first I thought you were annoying, but talking with you is a good way to kill time.”
-「それって……いい意味にとっていいのかな？」=“That's...a compliment right?”
-「さあ、どうかしらね」=“Hmm... Who knows?”
-「でも、私なんかと話していてあなた楽しいの？」=“But, you're having fun while talking with me?”
-「うん、楽しいよ、とても」=“Yes, it's fun, really.”
-「はぁ……あなたがそれでいいのならいいけれど」=“Sigh... Well if it's ok with you.”
-「じゃ、私はもういくわ。さようなら」=“Well, I'm going to go. See you.”
+「はじめは鬱陶しかったけれど、あなたと話すのもいい暇つぶしにはなるわね」=“It was a bit irritating at first but, chatting with you's a pretty good way to kill time too.”
+「それって……いい意味にとっていいのかな？」=“Is that... a compliment?”
+「さあ、どうかしらね」=“Who can say?”
+「でも、私なんかと話していてあなた楽しいの？」=“But, is it fun for you, to chat with a girl like me?”
+「うん、楽しいよ、とても」=“Yeah, it is, very.”
+「はぁ……あなたがそれでいいのならいいけれど」=“Haah... if you're fine with that, then I suppose it's alright.”
+「じゃ、私はもういくわ。さようなら」=“Then, I'mma go. Goodbye.”

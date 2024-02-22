@@ -2,7 +2,7 @@
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
 気持ちいいかしら？=Does it feel good?
-どう？　気持ちいい？=How's this? Feeling good?
+どう？　気持ちいい？=How is it? Does it feel good?
 どう？　ゾワゾワするでしょ？=How is it? Feels tingly, doesn't it?
 気持ちよくなってきたんじゃない？=Haven't you started feeling good?
 れろっ、れろっ……綺麗にしてあげる=I'll lick it clean.

@@ -1,5 +1,5 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「えっと、今日家庭科の授業でパンケーキを作ったから、あなたにあげるわ」=“Um, Today we made some pancakes in Home Economics, I'll give you some.”
-「あなたの口に合えばいいけど……食べたら感想を聞かせてちょうだい」=“If you're ok with eating them...I'd like to know what you think afterwards.”
+「えっと、今日家庭科の授業でパンケーキを作ったから、あなたにあげるわ」=“Erhm, I made some pancakes during home-ec so, you can have them.”
+「あなたの口に合えばいいけど……食べたら感想を聞かせてちょうだい」=“I hope they're to your liking... let me know later how you like them, okay?”

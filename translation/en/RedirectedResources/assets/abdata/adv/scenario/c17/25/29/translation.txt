@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「これを私に……？　せっかくだし貰っておくわ。その……ありがとう」=“This is for me...? I'll gladly accept it. Um...Thank you.”
+「これを私に……？　せっかくだし貰っておくわ。その……ありがとう」=“This, for me...? Well, I'll accept it, since you gave it to me. It's, uhm... thanks.”

@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「おはよう。ジロジロ見て何か私についているのかしら？」=“Morning. You're staring a whole lot, is there something stuck to me?”
+「おはよう。ジロジロ見て何か私についているのかしら？」=“Good morning. You're staring a whole lot, is there something on my face?”

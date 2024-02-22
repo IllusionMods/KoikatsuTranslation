@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「えっと、もう終わりなのかしら？　私まだ全然満足できていないのだけれど」=“Um, that's it? I'm not satisfied at all though.”
+「えっと、もう終わりなのかしら？　私まだ全然満足できていないのだけれど」=“Erhm, are we stopping there? You haven't satisfied me at all yet though.”

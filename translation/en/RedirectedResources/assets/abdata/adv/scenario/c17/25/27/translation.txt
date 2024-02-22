@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「プレゼントがある？　ふふっ、なにかしら。楽しみだわ」=“A present? Fufu, I wonder what it is. I'm looking forward to it.”
+「プレゼントがある？　ふふっ、なにかしら。楽しみだわ」=“A present? Fufu--, wonder what it is. I'm excited.”
