@@ -2,6 +2,6 @@
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
 「あ、賛成！　今日の数学の授業、復習しなきゃって思ってたんだ」=“Ah, I'm down! I did want to get revisions in, for the stuff they taught us in math class today.”
-「あ、私ちょうど解らないところがあったんだ。聞いてもいい？」=“Ah, I'm stuck on a bit myself too. Do you mind helping?”
+「あ、私ちょうど解らないところがあったんだ。聞いてもいい？」=“Ah, I'm stuck on a problem right now myself. Could you help?”
 「じゃあ、さっそく始めようか」=“Not at all, let's start then.”
 「こういうことしたことないから、ちょっとドキドキ♪」=“I've never done this before, so it's kinda exciting♪”

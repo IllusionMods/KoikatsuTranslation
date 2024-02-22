@@ -22,7 +22,7 @@
 「な、なんでわかるの！？　しょっちゅう言われてる！」=“H-How'd you know?! They always do!”
 「そういうの、あまり主張しないタイプだからね、[H名]は」=“That's because you're not much of an assertive girl, [H名].”
 「友達にもママにも言われるよ～。パパは気になってるみたいだけど、何も言ってこないかな」=“Not just my friends, my mommy always asks me that too~. I feel like my daddy wants to know too, but he never says anything.”
-（パパさん……なんだか、ごめんなさい……）=([H名]'s father... I'm kinda, really sorry...)
+（パパさん……なんだか、ごめんなさい……）=([H]'s father... I'm kinda, really sorry...)
 「……もっと、キミとのこと、話してもいいのかな？」=“...Do you mind if I, talk more about you?”
 「[H名]としては、話したいの？」=“Do you want to talk about me to them?”
 「そりゃ、話したいよ～！　だって、初めて出来た彼氏くんがこんな理想的でいいのかなって、私いつも思ってるもん。みんなに主張したいこと、堂々のナンバー１！」=“Of course I do~! I mean, I'm always thinking, whether it's really okay for my first boyfriend to be so perfect and so good to me. If there's one thing I'd want to insist upon, it's that!”
