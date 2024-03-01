@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「……コイカツって、何をやるの？」=“...What are love activities, anyway?”
+「……コイカツって、何をやるの？」=“...What is Koikatsu, anyway?”
 「えっと、ざっくり言えば恋愛の研究……ってところかな」=“Erhm, research of romance, in a sense... basically.”
 「……私、鯉に勝つ部活だと思ってた」=“...I thought we were going to be battling koi carps.”
 「そ、それはそれで興味があるような……」=“T-That sounds interesting in its own way, somehow...”
