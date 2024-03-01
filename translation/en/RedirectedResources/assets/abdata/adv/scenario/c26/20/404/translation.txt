@@ -34,7 +34,7 @@
 「……そういう、ことなら。やってもいい」=“...If that's, how it is then, I don't mind it.”
 「うんうん。じゃあお願いします！」=“Yeah, exactly. Please!”
 「あ～ん……」=“Aahn~...”
-「んん、すっごくおいしいよ、これ。きっと[H名]が食べさせてくれたからだね。ありがとう」=“Nnn, it's delicious. It's all because you fed it to me, isn't it? Thank you, [H].”
+「んん、すっごくおいしいよ、これ。きっと[H名]が食べさせてくれたからだね。ありがとう」=“Nnn, it's delicious. It's all because you fed it to me, isn't it? Thank you, [H名].”
 「ん？　このお皿どうしたの？」=“Nn? What about the plate?”
 「あなたが食べる姿を、見たら……なんだか、胸がいっぱいになった。だから、これも、食べて」=“When I watched you, eat... it kinda, made my chest, all full. So, eat this, too.”
 「ありがとう。たくさん食べるから、見ててね」=“Thanks. I'll eat lots so, watch me.”

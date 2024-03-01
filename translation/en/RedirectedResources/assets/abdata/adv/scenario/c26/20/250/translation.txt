@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「ふぅ……たくさん遊んだから、疲れちゃった。[H名]は大丈夫？」=“Fuu... we ran around lots so, I'm tired now. You holding up okay, [H]?”
+「ふぅ……たくさん遊んだから、疲れちゃった。[H名]は大丈夫？」=“Fuu... we ran around lots so, I'm tired now. You holding up okay, [H名]?”
 「ん……平気。まだ遊ぶ元気、あるくらい」=“Nn... I'm fine. I still feel like, running around more.”
-「ははは、[H名]は逞しいなぁ」=“Hahaha, you're pretty strong, [H].”
+「ははは、[H名]は逞しいなぁ」=“Hahaha, you're pretty strong, [H名].”
 「……あなたが、だらしないだけ。もっと、しっかりしなきゃ、たくさん遊べない」=“...You're just, weak. You gotta, get a grip, else we won't be able to run around lots.”
 「うっ、反省するよ……」=“Uu--, I'll be better...”

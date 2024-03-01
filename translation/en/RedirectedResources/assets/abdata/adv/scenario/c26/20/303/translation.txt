@@ -16,4 +16,4 @@ CHOICE:『帰る仕度をしよっか』=Let's get ready to head out.
 「最後に[H名]が歌ったら？」=“Why don't you take the last one?”
 「ん、それなら……」=“Nn, in that case...”
 「初めて感じた　胸の痛みは　絆深くなる証～♪」=“This novel pain in my heart, that I'm feeling, is proof of our bond~♪”
-「いいぞっ、[H名]～！」=“You're doing great--, [H]~!”
+「いいぞっ、[H名]～！」=“You're doing great--, [H名]~!”

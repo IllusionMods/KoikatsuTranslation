@@ -32,7 +32,7 @@
 「……ああ」=“...Yeah.”
 「……いいよ。わかった」=“...Sure. Go ahead.”
 「んっ……」=“Nn--...”
-「……好きだよ、[H名]」=“...I love you, [H].”
+「……好きだよ、[H名]」=“...I love you, [H名].”
 「……うん、私も好き」=“...I love, you too.”
 「あの、さ。エッチしないか？　というか、その……したい」=“Hear me, out. Wanna have sex? or rather, uhm... I wanna have sex.”
 「……ここで？　あなたの気持ちもわかる、けど……危険すぎる」=“...Here? I understand your feelings too, but... it's too risky.”

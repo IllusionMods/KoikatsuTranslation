@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「運動……？　何するの？」=“Exercise? What are you doing?”
-「まだ決めてないけど、そんなに激しいことはしないつもりだよ」=“I'm not sure yet, but I won't push myself too hard.”
-「そう……わかった……それなら、いいよ」=“Yeah... okay... that's all right.”
+「運動……？　何するの？」=“Exercise...? What're we gonna do?”
+「まだ決めてないけど、そんなに激しいことはしないつもりだよ」=“I've still not decided on that, but it won't be anything strenuous.”
+「そう……わかった……それなら、いいよ」=“I see... got it... well then, sure.”

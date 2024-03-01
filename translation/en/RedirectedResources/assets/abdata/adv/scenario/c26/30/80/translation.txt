@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「……今日は、それだけ？」=“...You're having only this much today?”
-「う、うん！　あんまりお腹が空いてなくて……」=“Y-yeah! I don't feel very hungry...”
-「……本音は？」=“...What is it really?”
-「……少しお金を使い過ぎました」=“...I spent a bit too much money.”
+「……今日は、それだけ？」=“...Is that, all?”
+「う、うん！　あんまりお腹が空いてなくて……」=“Y-Yeah! I'm not that hungry today...”
+「……本音は？」=“...And the truth?”
+「……少しお金を使い過ぎました」=“...I spent too much money last week.”

@@ -5,7 +5,7 @@
 「……そう思う。どこ見ても、行列ばかり」=“...Yeah. Lines, no matter where you look.”
 「しょうがないって割り切るしかないか。人気アトラクションはみんな乗りたいからさ」=“Nothing but to accept it, I guess. Everyone wants to ride the popular attractions, afterall.”
 「アトラクションとは違うけど、マスコットがあっちにいるし、写真撮りに行こう」=“It's not the same as a ride but, there's the mascot over there, let's go take some pictures with it.”
-「すみませーん、写真いいですか？　ほら、[H名]も横に来て」=“Excuse me, could we take a picture? C'mon, you get in shot too, [H].”
+「すみませーん、写真いいですか？　ほら、[H名]も横に来て」=“Excuse me, could we take a picture? C'mon, you get in shot too, [H名].”
 「……知らない人のそばにいるのは、苦手」=“...I don't like, standing next to people I don't know.”
 「あはは……ほら、一応妖精だからこれは」=“Ahaha... c'mon, it's not a person but a fairy.”
 「それじゃ撮るよ」=“Well then, I'm taking it.”
@@ -22,7 +22,7 @@
 「そうだね。きっとなにか面白いことがあるんだよ、きっと。確かめてみよう」=“Yeah. I'm sure there's gonna be something fun, for sure. Let's check it out ourselves.”
 ガタガタ　ガタガタ=*clack clack clack*
 （わぁ、レールも揺れてて、今にも壊れそうだ……）=(Wah, even the rails are shaking, feels like they're gonna snap at any time...)
-「[H名]は大丈夫、怖くない？」=“You alright, [H]? Are you scared?”
+「[H名]は大丈夫、怖くない？」=“You alright, [H名]? Are you scared?”
 「……前が見れない……怖い」=“...I can't see ahead of me... I'm scared.”
 「あっ、もうすぐ頂上だよ」=“Ah--, we're almost at the top.”
 ガタッ=*clack*

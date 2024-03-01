@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「……ねえ、この問題、覚えてる？」=“...Hey do you remember how I do this?”
-「ん？　あ～えっと、ここは……こうするんだよ」=“Hm? Oh, that. Here's what I do...”
-「……そう、ありがとう……って、何で笑ってるの？」=“...Thank you... Why are you laughing?”
-「ううん。前は俺が教えてもらってたから、なんか新鮮だなって」=“It's nothing. It's just funny how I forgot it for a second too.”
+「……ねえ、この問題、覚えてる？」=“...Hey, do you remember this problem?”
+「ん？　あ～えっと、ここは……こうするんだよ」=“Nn? Aah~, erhm, you do... this, here.”
+「……そう、ありがとう……って、何で笑ってるの？」=“...I see, thanks... why're you laughing?”
+「ううん。前は俺が教えてもらってたから、なんか新鮮だなって」=“I'm not laughing. It just felt a bit fresh, since I'm always the one asking you.”

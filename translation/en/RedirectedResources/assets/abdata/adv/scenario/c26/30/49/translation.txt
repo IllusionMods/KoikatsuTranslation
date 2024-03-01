@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「……すごく、激しかったね……私もう、立てない……かも」=“...That was too intense... I can't get up.”
+「……すごく、激しかったね……私もう、立てない……かも」=“...That was super, intense... I don't think I can... stand.”

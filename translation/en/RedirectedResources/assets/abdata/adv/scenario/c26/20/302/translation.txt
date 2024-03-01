@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「[H名]って、けっこう上手だよね」=“You're pretty good at this, huh? [H].”
+「[H名]って、けっこう上手だよね」=“You're pretty good at this, huh? [H名].”
 「……でも、９０点どまり」=“...But, I never went past 90 points.”
 「アベレージ９０点ならすごいことだよ。自信をもって」=“An average of 90 is amazing. You should be more confident.”
 「……ありがとう。　今度は、あなたが歌って」=“...Thank you. You sing, this time.”
@@ -12,7 +12,7 @@
 「うーん、微妙だな。やっぱり初めて挑戦する歌はこんなもんだよな」=“Nnn, it's not the best score. Guess that's how it's gonna end up, when you do a new song for the first time.”
 「音程……以外はいい。特に、感情の部分。……聞いていて気持ちが伝わる。……それっていいことだと、思う」=“Aside from the pitch... it was all good. Especially, the emotional bits. ...I felt your feelings. ...I think that's good too.”
 「そっか。ありがとう。褒められると嬉しいよ……」=“I see. Thanks. Hearing you say that makes me happy...”
-「……そうだ。[H名]、今の曲歌える？」=“...Right. [H], can you sing that song?”
+「……そうだ。[H名]、今の曲歌える？」=“...Right. [H名], can you sing that song?”
 「歌えるけど……？」=“I can, but...?”
 「じゃあお手本見せてくれない？　俺の勢いと、[H名]の正確性を合わせればうまく歌えるよ」=“Will you show me how it's done then? If we match my spirit and your accuracy, I'm sure it'll come out well.”
 「そう、かも。……がんばって歌うね」=“May, be. ...I'll try my best, okay?”
@@ -23,4 +23,4 @@
 「……さっきよりも、良かった。これなら、いける、はず」=“...It was better, than before. It should, work, this time.”
 「やったー！　出た出た９０点オーバー。高得点だ！」=“Got it--! It's over 90! A new highscore!”
 「おめでとう……良かった」=“Congrats... I'm glad.”
-「[H名]のおかげだよ。ありがとう」=“It's thanks to you. Thank you, [H].”
+「[H名]のおかげだよ。ありがとう」=“It's thanks to you. Thank you, [H名].”
