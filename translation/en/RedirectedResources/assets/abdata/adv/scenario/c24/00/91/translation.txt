@@ -2,5 +2,5 @@
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
 「おはようございます。[Pあだ名]♡」=“Good morning, [Pあだ名]♡”
-「あ……おはよう、[Hあだ名]」=“Ah... good morning, [Hあだ名].”
-「うふふ♡　愛称で呼び合うと、幸せな一日が始まった感じがしますね♡」=“Ufufu♡ When we call each other by our nicknames, it really does feel like the day's begun in just the right way♡”
+「あ……おはよう、[Hあだ名]」=“Ah... Morning, [Hあだ名].”
+「うふふ♡　愛称で呼び合うと、幸せな一日が始まった感じがしますね♡」=“Ufufu♡ When we call each other by nicknames, it really does feel like the day's began in just the right way♡”

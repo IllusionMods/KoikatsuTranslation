@@ -2,5 +2,5 @@
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
 「はい、どこにでも連れていってください♡」=“Yes, take me wherever you want♡”
-「時間大丈夫？」=“Are you okay at this time?”
-「大丈夫じゃなくても付いていきます♡　あなたと私は一心同体ですから♡」=“Even if I wasn't, I'd still go with you♡ We're one, in body and spirit, after all♡”
+「時間大丈夫？」=“Is now okay?”
+「大丈夫じゃなくても付いていきます♡　あなたと私は一心同体ですから♡」=“Even if it wasn't, I'd still go with you♡ We're one, in body and spirit, after all♡”

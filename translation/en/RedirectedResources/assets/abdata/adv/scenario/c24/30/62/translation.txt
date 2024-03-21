@@ -5,8 +5,8 @@
 …………=......
 ……=...
 「本当はまだ一緒にいたいんですけど、あまり遅くまでいても迷惑ですよね？」=“I'd honestly love to spend some more time with you, but if I held you up any longer, I'd just be a bother, wouldn't I?”
-CHOICE:「そんなことないよ」=“That's not true at all.”
-CHOICE:「家族も心配しちゃうよ」=“Your family's gonna get worried.”
+CHOICE:「そんなことないよ」=That's not true at all.
+CHOICE:「家族も心配しちゃうよ」=Your family's gonna get worried.
 「そんなことないよ。[H]さえよければ、家に来ない？」=“That's not true at all. If you'd like, wanna come to my place?”
 「あ……はい♡　それでは、私たちの愛の巣に行きましょう♡　なんて、付き合う前の私なら言ってそうですよね♡」=“Ah... yes♡ Well then, let's go to our love nest♡ Heh, that sounds like something the me from before we started going out together would have said♡”
 「あははっ、すごく言ってそう！」=“Ahaha--, for real!”
