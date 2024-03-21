@@ -12,6 +12,6 @@
 「じゃあ……[Hあだ名]」=“Then... [Hあだ名].”
 「[Pあだ名]♡」=“[Pあだ名]♡”
 「おおぉ、さすが！　俺のことわかってるね」=“Oooooh, amazing! You really do know how to get me in the mood.”
-「うふふ♡　元ストーカーですもの♡　私もキュンキュンしちゃいました♡」=“Ufufu♡ I did used to stalk you, afterall♡ It made my heart skip a beat too♡”
+「うふふ♡　元ストーカーですもの♡　私もキュンキュンしちゃいました♡」=“Ufufu♡ I did used to stalk you, after all♡ It made my heart skip a beat too♡”
 「じゃあ、また呼んでもらってもいいかな？」=“Then, could I get you to call me that again sometime?”
 「もちろんです♡　[Pあだ名]♡」=“Of course♡ [Pあだ名]♡”

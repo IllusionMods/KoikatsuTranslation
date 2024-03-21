@@ -5,8 +5,8 @@
 「ん？　何やってるの、[H名]」=“Hm? What are you doing, [H名]?”
 「あ、すみません♡　テープレコーダーがちゃんと動いてるかチェックしてました♡　今日一日のあなたとの会話、全部録音できてます♡」=“Ah, I'm sorry♡ I was just checking if the tape recorder was working properly♡ I've been recording all our conversations today for later♡”
 「相変わらず手厚いね。じゃあ……」=“You're always so sincere about that stuff. Then...”
-CHOICE:『もっといい会話を録れる所に行こう』=『Let's go somewhere where you can get some more spicy stuff』
-CHOICE:『録れ高は十分だね』=『You must have recorded enough by now, right?』
+CHOICE:『もっといい会話を録れる所に行こう』=‘Let's go somewhere where you can get some more spicy stuff’
+CHOICE:『録れ高は十分だね』=‘You must have recorded enough by now, right?’
 「もっといい会話を録れる所に行こうよ。一応公園内にあるんだけど、時間あるかな？」=“Let's go somewhere where you can get some more spicy stuff. It's a ways in into this place, do you still have time?”
 「はい♡　なくても作れますから安心してください♡」=“Yes♡ Even if I didn't, I would make some for you, so don't worry♡”
 「いや、無理はしなくていいから……って、[H名]に言っても聞かないよね。いいよ、じゃあ行こうか」=“No, you don't need to force yourself... Well, not like you'd listen no matter what I say. It's fine, let's go.”

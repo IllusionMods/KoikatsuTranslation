@@ -12,5 +12,5 @@
 「それじゃあ……[Hあだ名]」=“Well then... [Hあだ名]”
 「あぁん♡　あの、もう一回言ってください。録音しますから♡」=“Aaahn♡ Uhm, please say it one more time. I'll record it♡”
 「何かよからぬことに使うんでしょ」=“You're just gonna end up using it for naughty things, aren't you?”
-「うふふ♡　わかってるくせに♡　でもたまには呼んでくれますよね？」=“Ufufu♡ You know me so well♡ But you'll atleast call me that every once in a while, right?”
+「うふふ♡　わかってるくせに♡　でもたまには呼んでくれますよね？」=“Ufufu♡ You know me so well♡ But you'll at least call me that every once in a while, right?”
 「うん、いいよ。俺のことも気軽に呼んでいいからね」=“Yeah, alright. Feel free to call me by mine anytime too.”

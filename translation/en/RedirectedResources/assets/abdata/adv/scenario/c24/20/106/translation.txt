@@ -5,7 +5,7 @@
 「あ、あの時はごめん。俺も興奮してて……」=“S-Sorry for that. I got a bit agitated back then...”
 「いいんです♡　このズキズキは嬉しいズキズキですから♡　あなたに傷つけてもらった、一生消えない記憶で……あなたに愛されてる証なんです♡」=“It's alright♡ I love this pain♡ This everlasting memory, of you hurting me... It's a reminder of your love for me♡”
 「ありがとう、そんな風にとらえてくれて」=“Thanks, for taking it that way.”
-「それが私の個性ですから♡」=“That's what my personality, my individuality is, afterall♡”
+「それが私の個性ですから♡」=“That's what my personality, my individuality is, after all♡”
 「あのときは夜景どころじゃなかったけど、今なら落ち着いて眺められるかな」=“Last time we were here, appreciating this view was the last thing on our minds but, maybe we can do it this time.”
 「はい♡　あなたと見る夜景……♡　何度見ても、綺麗です♡　今の私みたいにキラキラしてます♡」=“Yes♡ Appreciating this with you...♡ No matter how many times I look at it, it's so beautiful♡ It's sparkling, like I am right now♡”
 （もし、[H名]のことを知らない人が聞いたら『自分でキラキラしてるって言うか？』と思うかな）=(If someone who didn't know what she was like heard her, I wonder if they'd go You're sparkling?)

@@ -8,7 +8,7 @@
 CHOICE:「そんなことないよ」=That's not true at all.
 CHOICE:「家族も心配しちゃうよ」=Your family's gonna get worried.
 「そんなことないよ。[H]さえよければ、家に来ない？」=“That's not true at all. If you'd like, wanna come to my place?”
-「あ……はい♡　それでは、私たちの愛の巣に行きましょう♡　なんて、付き合う前の私なら言ってそうですよね♡」=“Ah... yes♡ Well then, let's go to our lovenest♡ Heh, that sounds like something the me from before we started going out together would have said♡”
+「あ……はい♡　それでは、私たちの愛の巣に行きましょう♡　なんて、付き合う前の私なら言ってそうですよね♡」=“Ah... yes♡ Well then, let's go to our love nest♡ Heh, that sounds like something the me from before we started going out together would have said♡”
 「あははっ、すごく言ってそう！」=“Ahaha--, for real!”
 「家族も心配しちゃうよ。また誘うから」=“Your family's gonna get worried. I'll ask you out again, don't worry.”
 「気を遣ってくれてありがとうございます♡　では、また学園で会いましょうね♡」=“Thank you for always looking out for me♡ Well then, let's see each other at school later♡”

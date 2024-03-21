@@ -6,4 +6,4 @@
 「い、インターホン押してくれてよかったんだよ？」=“Y-You could have just rung the bell, you know? I would have let you in.”
 「あなたの睡眠リズムを崩してデートに支障が出るといけないと思ったので……♡」=“Well, I didn't want to disrupt your sleep rhythm, it might have gotten into the way of our date...”
 「あはは、[H名]らしいなぁ。じゃあ、ぐっすり眠らせてくれてお礼に、今日は楽しいところに連れていってあげるね」=“Ahaha, that's just like you, [H名]. Well then, since you let me sleep tight the whole time, I'll have to take you somewhere really fun today.”
-（すごく楽しみにしてくれてたんだな。ちょっと極端だけど、そういうところも可愛いんだよね）=(She was really looking forward to it, huh? That was a bit extreme but, that side of her is really cute too.)
+（すごく楽しみにしてくれてたんだな。ちょっと極端だけど、そういうところも可愛いんだよね）=(She was really looking forward to it, huh? That was a bit extreme, but that side of her is really cute too.)

@@ -18,7 +18,7 @@
 「あ、いえ、それは、き、気持ち悪いですよね……えっと、えっと……とにかく、私はあなたがどんなことをしても嫌いになんてならないです♡」=“Ah, no, that's a bit, r-revolting, isn't it... Erhm, erhm... anyways, I could never come to hate you, no matter what you were to do♡”
 「いや、嫌われて当然だから」=“No, it's natural that you'd hate me.”
 「っ！？」=“--!?”
-「って、俺が譲らなかったら、[H名]困っちゃうでしょ？　こっちは好きなのに、気持ちが伝わらないのはつらいよね？」=“and if I didn't let up when that happened, you'd be in a bind, no? Even though you love me so much, it'd hurt when your feelings wouldn't get through to me, no?”
+「って、俺が譲らなかったら、[H名]困っちゃうでしょ？　こっちは好きなのに、気持ちが伝わらないのはつらいよね？」=“And if I didn't let up when that happened, you'd be in a bind, no? Even though you love me so much, it'd hurt when your feelings wouldn't get through to me, no?”
 「あ……私……吐いちゃって、デートを中断させて、ただでさえ迷惑かけてるのに、またあなたに迷惑、かけてたんですね……」=“Ah... I... even though I caused so much trouble already, by putting a roadblock on our date like that, I caused you so much trouble again, didn't I...”
 「わかってくれた？　俺は、[H名]が吐いちゃったぐらいで嫌いにならないし、女の子に吐かせちゃって、本当に悪かったと思ってるよ」=“You understand now? I would never come to hate you over something like puking, I'm the one at fault here, for making you puke.”
 「あ、あなたは悪くないです……」=“Y-You didn't do anything wrong...”
