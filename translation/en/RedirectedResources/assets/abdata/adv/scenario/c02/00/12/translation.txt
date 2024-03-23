@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「ええ、よろしくてよ」=“Yes, certainly.”
-「え？　あっさりだね……」=“Oh?　That was easy...”
-「当然ですわ。だって、わたくし達はそろそろステップアップする段階です。そうおっしゃってくれるのを待っておりましたわ」=“Of course. After all, it is time for us to step up our relationship. I've been waiting for you to say that.”
-「そうなんだ……だったら自分から言ってくれても……」=“I see... Then you could have told me yourself too...”
-「エスコートは殿方の役割でしょう？　わたくしの初めてを差し上げるのですから、しっかり紳士的に振る舞ってくださいまし」=“Isn't it the role of a gentleman to be an escort?　I'm offering you my virginity, so please conduct yourself as a gentleman would.”
-「う、うん……ごめん。ともかく……その、あの……お願いします」=“R-right... Pardon me. Anyway... well, umm... let's do it!”
+「ええ、よろしくてよ」=“Yes, alright.”
+「え？　あっさりだね……」=“Eh? That didn't take long...”
+「当然ですわ。だって、わたくし達はそろそろステップアップする段階です。そうおっしゃってくれるのを待っておりましたわ」=“Of course. Afterall, it is time for us to step up our relationship, if you well. I have been waiting for you to propose such a thing.”
+「そうなんだ……だったら自分から言ってくれても……」=“I see... You could have brought it up yourself too...”
+「エスコートは殿方の役割でしょう？　わたくしの初めてを差し上げるのですから、しっかり紳士的に振る舞ってくださいまし」=“It is the role of the gentleman, to escort the lady, is it not? I shall be giving you my virginity, so please do conduct yourself as a proper gentleman.”
+「う、うん……ごめん。ともかく……その、あの……お願いします」=“O-Okay... sorry. Anyways... uhm, err... let's do it, please.”

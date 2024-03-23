@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「ふふふ、ごきげん麗しゅう……今日も一日わたくしをエスコートさせてあげますわね」=“Fufufu, a good day to you... I shall let you escort me all day today.”
+「ふふふ、ごきげん麗しゅう……今日も一日わたくしをエスコートさせてあげますわね」=“Fufufuh, a good day to you... I shall have to escort me the whole day today as well.”

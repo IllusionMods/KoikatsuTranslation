@@ -92,7 +92,7 @@
 「わたくし、変わり者と言われることがありますの。あなた、どう思われて？」=“People tend to call me an eccentric woman. How do you feel on the matter?”
 「おーっほっほっほ、そう言われることには慣れておりますわ」=“Ohohohoh, I am quite used to such words.”
 「あら、そう。気遣っていただかなくてもよろしいのに」=“Oh, I see. So considerate, when there is no need for you to be.”
-//「あら、どうかいたしまして？　変な顔なさってましたわよ」=
+「あら、どうかいたしまして？　変な顔なさってましたわよ」=“Oh my, what is the matter? You made quite the strange face there, you know?”
 「動物ってお好き？」=“Do you like animals?”
 「わたくしは、タカやライオンが好きですわ。でもペットにするのは大変そうですわね」=“I quite like falcons and lions. But having one as a pet would be quite the uphill battle, wouldn't it?”
 「同じですわね。動物の匂いが苦手で……」=“You share my opinion. I cannot handle the stench...”
@@ -509,7 +509,7 @@
 「ここできみとHしたいな！」=“I wanna have sex with you here!”
 「おーっほっほっほ、わたくしの魅力に我慢できなくなったのね。恥ずかしいけど、よろしくてよ！」=“Ohohohoh, against my charm, you simply could not hold out, could you? It is embarrassing but, very well!”
 「おほほほ、わたくしの魅力のとりこですわね……でも、ここでは駄目。当然でしょう？」=“Ohohohoh, you truly are a slave to my charm... but, we cannot here. Is that not obvious?”
-「ここできみとHしたい」=“I wanna do it here with you.”
+「ここできみとHしたい」=“I wanna have sex with you here.”
 「周りに見られながらする、ということですの……？　それは興奮しそうですわね！　おほほほほ！」=“You mean to say we must do it, while being watched...? That sounds truly arousing! Ohohohohoh!”
 「おほほほほ、楽しそうな試みですわね。でも駄目よ」=“Ohohohohoh, a thrilling invite, yet we cannot.”
 「よろしくてよ。エスコートしていただけて？」=“Very well. Escort me?”

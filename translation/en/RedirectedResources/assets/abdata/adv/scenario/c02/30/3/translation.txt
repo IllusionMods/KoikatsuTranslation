@@ -2,6 +2,6 @@
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
 「あら、わたくしと一緒に？　ふーん、まあよろしくてよ」=“Oh my, with me? Fuhn, well, why not?”
-「ありがとう」=“Thank you.”
+「ありがとう」=“Thanks.”
 「いいこと？　決してわたくしを退屈させないようになさってね。よろしくて？」=“But, do not bore me, not even the slightest bit. Understand?”
 「うん、頑張る」=“Yep, I'll try.”

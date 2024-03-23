@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「あら、贈り物？　ふふ、あなたのことですもの、きっとステキなものなのでしょうね」=“Oh, a gift? Fufu, it is from you, so I am sure it is something wonderful.”
+「あら、贈り物？　ふふ、あなたのことですもの、きっとステキなものなのでしょうね」=“Oh my, a gift? Fufuh, it is from you, so I'm sure it'll be something wonderful.”

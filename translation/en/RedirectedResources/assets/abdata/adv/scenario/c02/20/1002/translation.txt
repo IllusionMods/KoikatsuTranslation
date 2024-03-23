@@ -11,7 +11,7 @@
 モブ=Mob
 「これより新婦が入場致します。後方の扉口をご覧ください」=“And now, the bride will make her entrance. Please pay attention to the main door.”
 （[H名]さん……）=([H名]-san...)
-両開きの大きな扉が開くと、純白のドレスをまとった花嫁が佇んでいた。=The giant double doors gave way to a bride, standing there, in a snow white wedding dress.
+両開きの大きな扉が開くと、純白のドレスをまとった花嫁が佇んでいた。=When the two wide doors opened up, a bride appeared in my line of sight, clad in a white dress.
 言葉を失うほどの美しさに俺はただただ見惚れてしまう。=I simply lost my breath at the sight of such beauty.
 バージンロード、荘厳な扉、純白のドレス……そして俺の彼女──この光景を、絶対忘れないようにしよう……固くそう思った。=The aisle, the solemn doors and the pure white dress... and my girlfriend at the center of it all-- Let's never forget this sight... that's what I promised myself.
 「おおー……すごい……なんて言っていいかわからないや……」=“Oooh... amazing... I don't even know what to say...”
