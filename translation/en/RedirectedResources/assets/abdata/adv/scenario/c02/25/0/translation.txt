@@ -1,14 +1,14 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「やあ、初めまして」=“Hello, a pleasure to meet you.”
-「おーっほっほっほ、わざわざ挨拶に来たのね！　いい心がけですわ！」=“Ohohoho, I see you've come all the way to greet me!　How thoughtful of you!”
-「あ、ああ……ええっと、[P名前]って言うんだけど……」=“A-ah... umm, my name's [P名前]...”
-「あら、名前までは結構よ！　でも積極的なのは悪いことじゃないわね」=“Oh, I did not ask for your name!　Though, there's nothing wrong with being proactive.”
-「え？　でも、初対面なんだし、自己紹介ぐらい、ちゃんとさせてくれよ」=“Huh?　But this is the first we've met, so please allow me to introduce myself, at least.”
+「やあ、初めまして」=“Hi, how do you do?”
+「おーっほっほっほ、わざわざ挨拶に来たのね！　いい心がけですわ！」=“Ohohohoh, I see you've come to greet me! That's a good attitude to have!”
+「あ、ああ……ええっと、[P名前]って言うんだけど……」=“Y-Yeah... eerhm, I go by [P名前], for what it's worth...”
+「あら、名前までは結構よ！　でも積極的なのは悪いことじゃないわね」=“Oh, I didn't quite ask! But being assertive is not a bad quality to have.”
+「え？　でも、初対面なんだし、自己紹介ぐらい、ちゃんとさせてくれよ」=“Eh? But, this is the first time we've met, at least let me introduce myself properly.”
 「…………」=“......”
-「ふふ、あなたは見込みがありそうね。いいわ、忘れるまで、その名前憶えておいてあげる。感謝なさい」=“Fufu, you look promising. Very well, I shall remember your name until I forget it. You should be grateful for that.”
-「あ、ありがとう」=“Oh, thank you.”
-「どういたしまして。でも勘違いしないでね。あなたのためにあまり長い時間は割いてあげられませんから」=“You're welcome. But make no mistake about it. I cannot devote too much time to you.”
-「う、うん……」=“Y-yeah...”
-（変なのに、関わっちゃったかな、これ……）=(How did I get caught up in this mess...?)
+「ふふ、あなたは見込みがありそうね。いいわ、忘れるまで、その名前憶えておいてあげる。感謝なさい」=“Fufuh, seems that you have some potential indeed. Very well, I shall keep that name in my mind, until I forget it. Be grateful.”
+「あ、ありがとう」=“T-Thanks.”
+「どういたしまして。でも勘違いしないでね。あなたのためにあまり長い時間は割いてあげられませんから」=“You are very welcome. But do not misunderstand. For I cannot make much time for you.”
+「う、うん……」=“O-Okay...”
+（変なのに、関わっちゃったかな、これ……）=(I'm too deep in to back out now, aren't I...)

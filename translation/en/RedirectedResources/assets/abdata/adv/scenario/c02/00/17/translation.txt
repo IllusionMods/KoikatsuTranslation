@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「……あれ？　メモがある。なになに──」=“...Hmm?　There's a note. Let's see...”
-『ごきげんよう。目覚めはいかがかしら？　わたくし、用事がありますので、先に出ることにいたします』=“How do you do? How was your sleep?　I have some business to attend to, so I shall set out first.”
-『きっとわたくしが傍にいなくて、寂しく思っているでしょう。寝ている間、あなたの身体の目立たない箇所にキスマークを付けておきました』=“I'm sure you feel quite lonely, not having me by your side. While you were sleeping, I left a hickey on a inconspicuous spot on your body.”
-『これでわたくしを思い出しなさい。ではまたのちほど」=“Remember me with this. I'll see you later.”
-「…………あ、こんなところに……ふふ、まったく、困った子だなぁ」=“...Oh, here of all... fufu, what a puzzling girl.”
+「……あれ？　メモがある。なになに──」=“...Huh? There's a note. Let's see--”
+『ごきげんよう。目覚めはいかがかしら？　わたくし、用事がありますので、先に出ることにいたします』=「Good day to you. How was your sleep? I have tasks to deal with, so I shall be leaving ahead of you.」
+『きっとわたくしが傍にいなくて、寂しく思っているでしょう。寝ている間、あなたの身体の目立たない箇所にキスマークを付けておきました』=「I'm sure you feel quite lonely indeed, not having me by your side. While you were asleep, I left a hickey on a more inconspicuous part of your body.」
+『これでわたくしを思い出しなさい。ではまたのちほど」=「Use that to remember me fondly by. See you soon then」
+「…………あ、こんなところに……ふふ、まったく、困った子だなぁ」=“...Ah, here of all... fufuh, good lord, what am I to do with her?”

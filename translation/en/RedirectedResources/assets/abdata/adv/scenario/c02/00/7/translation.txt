@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「ふふ……うふふ……おーっほっほっほ！　やっと、わたくしに見合う殿方が表れたみたいね！」=“Fufu... ufufu... ohohoho! At last, a gentleman worthy of me has come!”
-「う、うん……そう言ってくれて嬉しいよ」=“Y-yeah... I'm glad you said that.”
-「でも油断なさらないでね？　自らの価値を落とすような言動は慎むこと。よろしくて？」=“But do not let your guard down.　You must never do or say anything that will diminish your value. Understand?”
-「わかってるよ。きみに嫌われたくないし……」=“Understood. I don't want you to hate me...”
-「いい心がけですわ。もちろん、わたくしも努力し続けます！　あなたにもっと関心をもってもらえるように」=“An admirable mindset. Of course, I shall also make an effort to keep you more interested in me.”
-「うん……」=“Right...”
-（なんだかんだ言ってるけど、ちゃんと好きになってくれてるんだな……）=(I have no idea what she's talking about, but I'm sure she likes me...)
+「ふふ……うふふ……おーっほっほっほ！　やっと、わたくしに見合う殿方が表れたみたいね！」=“Fufuh... ufufuh... ohohohoh! Finally, it seems that a man worthy of me has finally appeared!”
+「う、うん……そう言ってくれて嬉しいよ」=“Y-Yeah... hearing you say that does make me happy.”
+「でも油断なさらないでね？　自らの価値を落とすような言動は慎むこと。よろしくて？」=“But do not become negligent, understand? You must refrain from conduct that will diminish your own value. Understand?”
+「わかってるよ。きみに嫌われたくないし……」=“I know. I don't want you to come to hate me, afterall...”
+「いい心がけですわ。もちろん、わたくしも努力し続けます！　あなたにもっと関心をもってもらえるように」=“A good attitude. Of course, I shall continue my efforts as well! So that you stay interested in me.”
+「うん……」=“Yeah...”
+（なんだかんだ言ってるけど、ちゃんと好きになってくれてるんだな……）=(She's saying a bunch of stuff but, she does reciprocate my feelings, huh...)
