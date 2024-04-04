@@ -11,7 +11,7 @@
 「はは、幸せそうに食べるなぁ。[H名]を見てると、俺もいちごパフェが気になってきたよ」=“Haha, you're sure eating it happily. Now I'm curious about trying that strawberry parfait too.”
 「ふぇ？　だったら一口、食べてみるですか？」=“Fueh? In that case, would you like a bite?”
 「いいの？　それじゃお願いしようかな」=“You sure? Well then, guess I'll take you up on that.”
-「はい。それじゃ……あなたにも、大きないちごを一口で……の贅沢をお裾分けするです♪」=“Yes. Well then... I'll pack in a whole strawberry, for you too... happiness must be shared, afterall♪”
+「はい。それじゃ……あなたにも、大きないちごを一口で……の贅沢をお裾分けするです♪」=“Yes. Well then... I'll pack in a whole strawberry, for you too... happiness must be shared, after all♪”
 「いちごもジャムもクリームもたっぷりで……」=“Lots of jam and cream too...”
 「えへへ、はい、あーん……です」=“Ehehe, here, aaahn~... open wide~”
 「あーん……」=“Aaahn...”

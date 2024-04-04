@@ -27,7 +27,7 @@
 「それほどでもないですが、人間観察が趣味みたいなものなので」=“It's not to that degree but, I do enjoy simply observing people.”
 「それは過大評価ですね。名簿に載っていることくらいしか、わかりませんし」=“You think too highly of me. I only know as much as is in the role register, really.”
 「[H名]って、忘れ物とかしたことなさそうだよね」=“You don't seem like the type to ever just forget something behind, you know?”
-「きちんと準備を行うのは、当たり前のことですから」=“Preparing for things properly is the most basic thing, afterall.”
+「きちんと準備を行うのは、当たり前のことですから」=“Preparing for things properly is the most basic thing, after all.”
 「……確かにしないかもしれません。あまり意識はしてませんでした」=“...You may be right. I have never paid much attention to it.”
 「[H名]って、誰に対しても敬語なの？」=“Are you that polite to everyone you talk to?”
 「そうですね。堅苦しいとは思うのですが、一番落ち着くので……」=“Indeed. I do realize it makes me come off as stiff but, it's the only way I can feel calm...”
@@ -40,11 +40,11 @@
 「女の子同士って、いつもどんな話してるの？」=“What sort of things do girls talk about between themselves?”
 「その時々ですが、髪型や服装の話が多いかもしれませんね」=“It depends but, more or less just about our hair or about our clothes, I'd say.”
 「恋人が欲しいって思ったことある？」=“Ever wanted to have a boyfriend?”
-「憧れのようなものはありますね。私も、女の子ですから」=“I have dreamed of it, yes. I'm a girl too, afterall.”
+「憧れのようなものはありますね。私も、女の子ですから」=“I have dreamed of it, yes. I'm a girl too, after all.”
 「あまり思ったことは……興味がないわけではないのですが」=“I've never really given it much thought... not that I'm not interested in such things, mind you.”
 「いきなり恋愛しろって言われても、難しいよね？」=“Even if you were told to suddenly fall in love, it'd be hard to achieve, right?”
 「はい、理想のパートナーを見つけるのは、とても大変なことだと思います」=“Yes, I'd say it's quite the challenging thing, to find one's ideal partner.”
-「相手がいることですからね。一歩踏み出す勇気がなかなか……」=“Yes, you cannot clap with just one hand, afterall. And taking the first step requires a lot of courage...”
+「相手がいることですからね。一歩踏み出す勇気がなかなか……」=“Yes, you cannot clap with just one hand, after all. And taking the first step requires a lot of courage...”
 「好きな男のタイプってある？」=“Got a type of guy that you like?”
 「勤勉な方、でしょうか……選り好みなんて、できる立場ではありませんが」=“A studious guy, perhaps... I'm not really in a position to be fussy about it, really.”
 「好きになった人……というのは、少しズルい答えでしょうか？」=“A man that I'd fall in love with... is that too much of a cheat answer?”
@@ -96,7 +96,7 @@
 「動物はお好きですか？　犬や猫や、その他にも色々」=“Do you like animals? Dogs, cats, any and all sorts.”
 「わぁっ、良かったです。実は私も、動物は大好きなので」=“Wah--, I'm glad. I love animals too, you see.”
 「あ、わかります。言葉が通じないのは、少し怖いですよね」=“Ah, I feel you. They're a bit scary, aren't they? Since words don't get through to them.”
-「男の人は、やはりよく食べるのでしょうか？」=“Do men eat lots of food afterall?”
+「男の人は、やはりよく食べるのでしょうか？」=“Do men eat lots of food after all?”
 「ふふ、私もそれなりに食べる方ですが、きっと負けてしまいますね」=“Fufuh, I eat quite a bit myself but, I'm sure I'd be no match for you.”
 「なら、私と一緒ですね。これで、お食事にも誘いやすくなりました」=“In that case, you're the same as me. I can invite you to meals freely then.”
 「お料理はお作りになりますか？　一人暮らしなのですよね？」=“Do you cook your own food often? You live by yourself, right?”
@@ -118,7 +118,7 @@
 「あの……私の顔に、なにか？」=“Uhm... is there something, on my face?”
 「すみません。恥ずかしいので、あまり見ないで頂けると……」=“I'm sorry, it's a bit embarrassing so, if you could not stare so much...”
 「そんなに見つめられても困ります……やめて頂けませんか？」=“I won't know where to look if you keep staring... won't you cut it out?”
-「うぅ、やはり男の方なのですね……そんなに気になりますか？」=“Uuu, you are a man afterall... are they that interesting?”
+「うぅ、やはり男の方なのですね……そんなに気になりますか？」=“Uuu, you are a man after all... are they that interesting?”
 「あまり露骨に見られると……私も、困ってしまいますので……」=“If you stare at them so openly... I won't know, what to do so...”
 「そのぉ……胸ばかり見ているなら、私ではなくても……」=“Uhm... if you simply need a pair to look at, they need not be mine...”
 「デリカシーのない人は、嫌われても仕方ありませんよ？」=“You can't blame a woman for coming to hate such a tactless man, alright?”
@@ -306,7 +306,7 @@
 「そこまで必死に頼まれては、断り辛いですね。仕方ありません……いいですよ」=“It's hard for me to refuse you, when you are so desperate for it. It can't be helped... please go ahead.”
 「困ります。そういった事は、本当のパートナーの方とするものです」=“I don't know what to say. Such things should only be done with one's partner.”
 「あのさ、ここで[H名]とHしたいな」=“Listen, I wanna have sex here.”
-「じょ、冗談ですよね？　うぅ、わかりました……貴方のお願い、ですものね」=“T-That's a joke, yes? Uu, I understand... you're the one asking, afterall.”
+「じょ、冗談ですよね？　うぅ、わかりました……貴方のお願い、ですものね」=“T-That's a joke, yes? Uu, I understand... you're the one asking, after all.”
 「な、何を言っているのですか？　ダメです、周りに迷惑がかかります」=“W-What are you saying? We cannot, we'd be a bother to everyone else.”
 「ねぇ、ここで[H名]とHしたくなっちゃった」=“Hey, I really wanna have sex here with you now.”
 「えぇっ！　どうしてそうなるのですか？　うぅ、早めに済ませてくださいね？」=“Eeh--! Why does it always come to that? Uuu, please get done with it quick, okay?”
@@ -385,11 +385,11 @@
 「きゃっ！　もう、悪戯は程々に……ですよ？」=“Kyah--! Jeez, please keep the pranks... under control, okay?”
 「パートナーとして、貴方のことをもっと知りたいです」=“As your partner, I want to know more about you.”
 「運命ってあると思う？」=“Do you think destiny exists?”
-「はい、運命的な出会いをしましたから……もちろん、貴方のことですよ」=“Yes, afterall, I've already met my destined... of course, I'm talking about you.”
+「はい、運命的な出会いをしましたから……もちろん、貴方のことですよ」=“Yes, after all, I've already met my destined... of course, I'm talking about you.”
 「少し浪漫が無いかもしれませんが、単に選択した行動の結果だと思います」=“Perhaps it may come off as a bit unromantic, but I think everything is just a product of every decision building on the last.”
 「毎日してる事とかある？」=“Is there anything you make sure to do daily?”
 「最近は、体のお手入れが日課ですね。色々と、大変なのですよ？」=“Recently, I've made it a routine to thoroughly cleanse my body at least once a day. It's a lot of work, you know? In many ways.”
-「特にはありませんね。その、毎晩電話したりしたら、やはり迷惑でしょうか？」=“Nothing in particular, really. Uhm, if I were to call you every night, would that be a bother to you afterall?”
+「特にはありませんね。その、毎晩電話したりしたら、やはり迷惑でしょうか？」=“Nothing in particular, really. Uhm, if I were to call you every night, would that be a bother to you after all?”
 「寝るときはパジャマ派？」=“You the type to wear pajamas when you sleep, [H]?”
 「はい、パジャマですよ。今度写真を撮って、お見せしますね？」=“Yes, I am. I'll take a picture for you tonight, okay?”
 「違いますよ。どんなものかは、ご想像にお任せします」=“No. As to what it is, I will simply leave that to your imagination.”
@@ -426,9 +426,9 @@
 「ふ、普通ですっ……特に感じやすいなどは、ありませんよ？」=“T-They're normal--... they're not any more sensitive than, any other girl's, you know?”
 「人に言えないような、エッチな秘密ってある？」=“Got any lewd secrets, that you can't tell anyone?”
 「ひ、人に言えないような……？　そ、そんな秘密はありませんっ」=“T-The sort that I can't tell anyone...? I-I don't, of course--”
-「その、最近まで……や、やっぱり話せませんっ」=“Uhm, till recently, I've... n-nevermind, I'm not saying it afterall--”
+「その、最近まで……や、やっぱり話せませんっ」=“Uhm, till recently, I've... n-nevermind, I'm not saying it after all--”
 「やっぱり股間は感じやすいの？」=“So I'm guessing your crotch is your most sensitive spot?”
-「う、はい……そのための場所、ですからね……仕方ないです」=“Uuu, yes... it exists for that reason, afterall... so I can't help it.”
+「う、はい……そのための場所、ですからね……仕方ないです」=“Uuu, yes... it exists for that reason, after all... so I can't help it.”
 「そ、そんなに気になるのでしたら……お試しに、なりますか？」=“I-If you're that curious... how about, seeing for yourself?”
 「そういう話題は、時と場所を考えて頂けないと、困ります」=“Please, you need to start thinking about the time and place, when talking about such things.”
 「体の相性って大切だと思う？」=“Do you think body compatibility is important too?”
@@ -464,7 +464,7 @@
 「体型の理想を教えてください、なるべく合わせますので」=“Please tell me what sort of a figure you love, I will do my best to obtain it.”
 「ぷにぷにですよ？　色々と……でも、貴方の好みなら問題ありません」=“I'm very squishy, you know? It's not very... but, as long as you like it, it's not a problem at all.”
 「貴方に気に入って頂けた体型、絶対維持いたしますっ」=“Since you've said you like it, I shall definitely maintain it as well--”
-「貴方がいるのですもの、私が力強くなる必要はありませんよね」=“There's no need for me to be strong, is there? Afterall, you're right here.”
+「貴方がいるのですもの、私が力強くなる必要はありませんよね」=“There's no need for me to be strong, is there? After all, you're right here.”
 「うぅ、貴方の理想に近付けるよう、努力いたします」=“Uuu, I shall do my best, to become more aligned with your ideal.”
 「まず最初に、私に言うべきことがありませんか？」=“Is there not something you should be saying to me, first?”
 「はい、これで仲直りです。はぁ……本当に良かった」=“Yes, it's alright now. Haah... thank god, truly.”
@@ -506,7 +506,7 @@
 「は、はい！　いつお誘いされてもと備えていましたので、お相手させて頂きます」=“Y-Yes! I am already prepared, as I'm always ready for it, so I shall keep you company.”
 「あ、あの、もしよろしければ、私とご一緒、しませんか？　その、Ｈなことを……」=“U-Uhm, if it's alright, won't you, do it with me? I mean, uhm, sex...”
 「あ、ありがとうございます！　それでは、精一杯頑張らせて頂きますね」=“T-Thank you very much! I shall do my very utmost then.”
-「うぅ、やはりはしたなかったでしょうか？　嫌いに、ならないでくださいね？」=“Uuu, I suppose it was vulgar of me afterall? Please don't, come to hate me, okay?”
+「うぅ、やはりはしたなかったでしょうか？　嫌いに、ならないでくださいね？」=“Uuu, I suppose it was vulgar of me after all? Please don't, come to hate me, okay?”
 「ねぇ、ここで[H名]とHしたいな」=“Hey, I wanna have sex with you here, [H名].”
 「んっ、見せつけろとおっしゃりたいわけですね……わかりました」=“Nn--, you want me to show off my body, don't you... I understand.”
 「ここではその、人目がありますので……どうか、許してください」=“There's a lot of, eyes here so... please, have mercy.”

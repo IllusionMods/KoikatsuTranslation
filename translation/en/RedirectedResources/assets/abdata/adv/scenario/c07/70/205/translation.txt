@@ -11,7 +11,7 @@
 「そっか……ありがとう。……ふふ、なんか不思議だな」=“I see... thanks. ...Fufu, it's still so incredible to me.”
 「不思議、って？」=“What is?”
 「ほら、私っていつもこんなんだろ？　そのせいか、女子からしか告白されたことがないんだよ」=“I mean, you know, I'm always like this, right? I wonder if it's because of that or what but, I've never been confessed to by anyone except girls.”
-「モテモテだもんね、[H名]は」=“You're very popular, afterall.”
+「モテモテだもんね、[H名]は」=“You're very popular, after all.”
 「コラ、茶化すな。……まあ、んなわけでさ、男とはずーっと無縁だったんだよ」=“Come on, don't poke fun at me. ...Well, because of that, me and boys were completely separate existences, never to meet.”
 「……これから先も、ずっとずーっと無縁なんだと思ってた……」=“...I thought things would forever stay like that...”
 「[P名]と出会うまでは、な……」=“Until I met you, that is...”

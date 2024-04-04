@@ -3,7 +3,7 @@
 //
 「わぁ、マジたか～い！」=“Wah, it's super tall~!”
 「[H名]って、意外と高いのは平気なんだね」=“You're pretty good with tall places, huh? I didn't expect that.”
-「うん！　だってほら、こんなにも綺麗な夜景が見れるんだから！」=“Yeah! Afterall, you can see such a beautiful view!”
+「うん！　だってほら、こんなにも綺麗な夜景が見れるんだから！」=“Yeah! After all, you can see such a beautiful view!”
 「はは、そう言ってもらえるなら、来た甲斐があったな」=“Haha, it was worth coming here, just to hear you say that.”
 「アタシも！　マジ良かったって思う」=“Me too! I think it was worth it too.”
 「ジェットコースターも好きだけど、こういうゆっくりしたのもいいよね～」=“I love the Roller Coaster too but, just taking it easy like this is nice too, isn't it~?”

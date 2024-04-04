@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「勉強は大事ですね。やはり、学生の本分ですから」=“Studying is important, isn't it? It's our job as students, afterall.”
+「勉強は大事ですね。やはり、学生の本分ですから」=“Studying is important, isn't it? It's our job as students, after all.”
 「あははは……そうだよね、うん……。俺も頑張らなきゃ」=“Ahahaha... indeed, yeah... I gotta do my best too.”
 「早速始めましょう」=“Let's start right away.”

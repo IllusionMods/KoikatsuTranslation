@@ -17,7 +17,7 @@
 「面映ゆいって、照れくさいって意味だったよね？　どうして？」=“Abashed means 'to blush', right? Why?”
 「その……実は私、お化粧が苦手で、今日は祖母に頼み込んで整えてもらったのです。そのときに……」=“Uhm... the truth is, I have no ability with it myself, so I implored my grandmother to put it on me instead. At that time...”
 「お化粧も満足に出来ない女は殿方を楽しませることは出来ないと言われてしまって……」=“I was told that a woman who cannot even satisfactorily put make-up on herself cannot entertain her man...”
-「その言い方はちょっと極端だと思うけど、出来た方がいいんじゃないかな。実際、おばあちゃんが整えてくれた[H名]は綺麗だし」=“I mean, that certainly is a pretty extreme way of putting it, but I think it was good that you had her do it. She made you look really beautiful, afterall.”
+「その言い方はちょっと極端だと思うけど、出来た方がいいんじゃないかな。実際、おばあちゃんが整えてくれた[H名]は綺麗だし」=“I mean, that certainly is a pretty extreme way of putting it, but I think it was good that you had her do it. She made you look really beautiful, after all.”
 「まあ。綺麗だなんて……そのように仰っていただけるのでしたら、頑張ってお化粧を覚えます」=“My, beautiful... if you think so then, I shall do my best and learn to do it myself as well.”
 「貴方好みの女になるために、日々邁進して参ります。どうかこれからもご指導ご鞭撻のほど、宜しくお願い申し上げますね」=“Every day, I endeavour to become more the woman you desire. Please do keep guiding and encouraging me in the right direction.”
 「わかった。俺でよかったら何でも聞いてね」=“Got it. If it's my opinion you want, then feel free to ask anything.”

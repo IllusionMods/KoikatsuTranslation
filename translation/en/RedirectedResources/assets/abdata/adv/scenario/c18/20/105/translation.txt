@@ -11,7 +11,7 @@
 「この街の夜景って、こんなにキレイなんですね……」=“The nightscape in this city, can be this beautiful, huh...”
 「そうだね……」=“Yeah...”
 「[P名]さん、どうやってこの場所を知ったんですか？」=“[P名]-san, just how did you find out about this place?”
-「コイカツ部だからね。デートスポットの１つや２つ簡単に調べられるさ」=“I'm the president of the Koikatsu club, afterall. Looking up some date spots are no sweat at all.”
+「コイカツ部だからね。デートスポットの１つや２つ簡単に調べられるさ」=“I'm the president of the Koikatsu club, after all. Looking up some date spots are no sweat at all.”
 「コイカツ部も役立つ時があるんですね」=“Even the Koikatsu club has its perks, huh?”
 「捨てたもんじゃないだろ？」=“Nothing to sneeze at, no?”
 「ふふ、そうですね……コイカツ部がなければ、[P名]さんとこうしていることもなかったかもしれないですし」=“Fufu, indeed... without the Koikatsu club, we probably would have never gotten to spend our time together like this either.”

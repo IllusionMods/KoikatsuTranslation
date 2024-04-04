@@ -5,7 +5,7 @@
 …………=......
 ……=...
 「ん～っ、今日は良き日であった。楽しかったぞ！」=“Nnn~, today was a good day. I had fun!”
-「俺も楽しかったよ！　なにより、[H名]の新しい一面も見られたしね」=“Me too! More than anything, I got to see a whole new side of you, afterall.”
+「俺も楽しかったよ！　なにより、[H名]の新しい一面も見られたしね」=“Me too! More than anything, I got to see a whole new side of you, after all.”
 「へ、へへへ……それなら、その、もっと違う一面も、見てみたくはない、か……？」=“H-Heheheh... in that case, uhm, don't thee want to, see yet another side, of me...?”
 「え……？」=“Eh...?”
 CHOICE:『自宅に誘う』=Take to your place.

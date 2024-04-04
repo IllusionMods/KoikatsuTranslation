@@ -16,10 +16,10 @@
 「えぇっ、最後にジェットコースターは、疲れて帰れなくなりそうかなぁ……」=“Eeeh--, going on the roller coaster at the end, I feel like we'll be so tired, we won't be able to go home...”
 「フフッ、違いない。だからと言ってゲームコーナーとかだと味気ないしな」=“Fufu--, no doubt. And going on the arcade would just be tasteless.”
 「それはあるね。ていうかさ、俺達かなりここの遊園地に詳しくなってきたよね」=“Yeah. We've gotten pretty knowledgable about this amusement park, haven't we?”
-「それはまぁ、たびたび足を運んでいるからな。最初の新鮮さは無くなったが、楽しい事に変わりは無い」=“Well, yeah, we come here a lot, afterall. It doesn't feel as fresh as it did the first time we came here but, it's still just as fun.”
+「それはまぁ、たびたび足を運んでいるからな。最初の新鮮さは無くなったが、楽しい事に変わりは無い」=“Well, yeah, we come here a lot, after all. It doesn't feel as fresh as it did the first time we came here but, it's still just as fun.”
 「[H名]はどのアトラクションが一番好き？　やっぱりジェットコースター？」=“Which attraction do you like the best, [H名]? The roller coaster?”
 「最後は観覧車で決まりだが……そうだな、普通に遊ぶ分には、やはりジェットコースターが一番か」=“While the Ferris Wheel takes the crown at the end of the day... In terms of raw fun, I would pick the roller coaster, yeah.”
-「来たら必ず乗るもんね。どうせなら、季節毎のイベントとか全部制覇してみようか？」=“It's the first thing you ride everytime we come, afterall. If we're going to do it anyway, shall we try conquering every single seasonal event?”
+「来たら必ず乗るもんね。どうせなら、季節毎のイベントとか全部制覇してみようか？」=“It's the first thing you ride everytime we come, after all. If we're going to do it anyway, shall we try conquering every single seasonal event?”
 「それはアリだな。この先ずっと、おまえと一緒にここに来れるといいな」=“That sounds good. I hope I can keep coming here with you, for the rest of our lives.”
 「うん、来ようよ。ずっとずっと、十年後も二十年後も」=“Yeah, let's keep doing so. Ten years from now, twenty years, forever and ever.”
 「なっ……そ、それは……も、もしや……プロポーズ……か？」=“Wha--... I-Is that... b-by any chance... a... proposal?”

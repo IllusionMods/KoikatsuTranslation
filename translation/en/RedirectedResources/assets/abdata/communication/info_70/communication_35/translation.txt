@@ -24,7 +24,7 @@
 「なんっ！？　あっ、君……あはは、びっくりしたやんもー！」=“Wha--!? Ah--, it's you... ahaha, you surprised me, jeez!”
 「ん？　どーしたと？」=“Hm? What's the matter?”
 「やっぱり前に住んでたところの方が暮らしやすい？」=“Was your daily life easier back where you're from?”
-「うん……慣れもあるっちゃろうけど。でもでも、こっちにもすぐ慣れるけんね」=“Yeah... I was used to it, afterall. But, that's not to say I can't used to living here.”
+「うん……慣れもあるっちゃろうけど。でもでも、こっちにもすぐ慣れるけんね」=“Yeah... I was used to it, after all. But, that's not to say I can't used to living here.”
 「あはは、もうこっちに馴染んどうけん。こっちの方が好きよ。私、薄情なんかいな？」=“Ahaha, I've already gotten used to life here. I like it here better. Do you think that makes me heartless?”
 「こっちに来て何か美味しい物とか見つけた？」=“Have you found something particularly delicious, having come to this city?”
 「駅にあるベイクドチーズケーキのお店！　あれ、ばり美味しいけん、全国展開して欲しい！」=“Yes, the baked cheesecake from the store at the station! That thing is really amazing, I want it to become a nationwide sensation!”
@@ -41,7 +41,7 @@
 「わぁ、猫の集会って本当にあるんやね！」=“Waa, cats really do have gatherings, huh!”
 「前に住んでたところの男子とこっちの男子、やっぱり性格とか違うの？」=“Have you noticed any differences in temperament and personality between boys here and boys back where you're from?”
 「そうやねぇ……多分違うと思うっちゃけど、私……あんまり男友達おらんかったけん、よく分からんっちゃん」=“That's a good question... They probably do have differences but I... didn't really have all that many guy friends so, I don't really know.”
-「どうなんやろ？　男の人にも色んなタイプの人がおるけんね」=“Who knows? There's all kinds of boys out there afterall.”
+「どうなんやろ？　男の人にも色んなタイプの人がおるけんね」=“Who knows? There's all kinds of boys out there after all.”
 「周りの子ってみんな恋人いたりする？」=“Did the girls around you all have boyfriends?”
 「前の学園の娘は結構恋愛しとったかも……あ、でも……私はおらんかったよー」=“I think they did at my previous school... Ah, but... I didn't, just so you know.”
 「それが意外と少ないとよ。恋愛の話はよくするけど、みんな憧れ止まりやけん」=“Unexpectedly, it was very uncommon. Everyone loved to talk about romance but, it didn't really go much past longing for love.”
@@ -52,7 +52,7 @@
 「色々聞きたいことはあるんだけど……うーん、これは少し恥ずかしいからやめておこうかな」=“There's something I'm really curious about... Well, it's a bit embarrassing so nevermind.”
 「ふぇぇっ！？　い、一体何聞くつもりやったん！？」=“Fueeeh--!? J-Just what where you planning on asking me!?”
 「コイカツ部ってなんだか範囲が広すぎるよね」=“The scope of the Koikatsu club is kinda way too big, don't you think?”
-「そうやねぇ。コイカツ自体、人それぞれで違うもんね」=“Yah. The idea of romance itself differs from person to person, afterall.”
+「そうやねぇ。コイカツ自体、人それぞれで違うもんね」=“Yah. The idea of romance itself differs from person to person, after all.”
 「実はこの間、再放送ですごい恋愛ドラマ見てさ……」=“Actually, the other day, I saw this amazing romance TV drama rerun...”
 「あっ、知っとる知っとる！　私、それリアルタイムで見とったよ！　感動するよね！」=“Ah--, I know of that one! I saw it when it was airing! It was really moving, wasn't it?”
 「積極的な男性とかどうかな？」=“You like assertive boys?”
@@ -100,7 +100,7 @@
 「あ、やっぱりー。実は私も結構食べるっちゃん。女子やけどね！」=“Ah, I knew it. I eat a lot too myself. I'm a girl though!”
 「えー、そうなん？　私と同じやね。二人で外食したらたくさん残しそう」=“Eh, that so? Same as me then. Feel like if we went out to eat together, there'll be lots of leftovers.”
 「何となくやけど、君って料理上手そうよね。自分で作ったりするん？」=“It's a bit random but, you look like you're pretty good at cooking. Do you cook your own food?”
-「さすが一人暮らしやね！　私もお手伝いで作ったりはするよ」=“You live alone afterall! I help out with dinner myself too.”
+「さすが一人暮らしやね！　私もお手伝いで作ったりはするよ」=“You live alone after all! I help out with dinner myself too.”
 「わわ、逆に意外ー。え？　私？　私は見たまま……料理なんて出来んよ？　あ、あははー、意外でも何でもなかろ？」=“Wawah, I didn't really expect that. Eh? Me? As you'd imagine... I can't cook at all, you know? A-Ahaha, even it's surprising, does it really matter?”
 「ねぇ、君ってさ、運動って得意なん？」=“Hey, are you like, any good at physical stuff?”
 「おお、私と同じやん！　身体動かすのって気持ちいいもんね！」=“Oooh, same as me! Getting a workout feels amazing, doesn't it!”
@@ -194,7 +194,7 @@
 「見る見る。政治のこととかスポーツのこととか、色々気になるけんね」=“I do. I'm pretty interested in things like sports and politics.”
 「あんまり見とらんねぇ……ニュースの時間は他のことしとるけん」=“Not really... I usually spend my time doing other stuff instead.”
 「文房具とか凝っちゃうタイプ？」=“Are you the type to get really absorbed in things like stationary?”
-「よく分かったね、めっちゃ凝るよー。だって、こっちに来たら最新の文具がたくさんあるっちゃもん」=“So you noticed. I do get really absorbed in it. Afterall, there's all sorts of new types of stationary here, that I've never seen before.”
+「よく分かったね、めっちゃ凝るよー。だって、こっちに来たら最新の文具がたくさんあるっちゃもん」=“So you noticed. I do get really absorbed in it. After all, there's all sorts of new types of stationary here, that I've never seen before.”
 「あんまりこだわりはないかなぁ……使えればいいって感じやね」=“Not really... As long as it's usable, I don't care.”
 「んーと……もし良かったら他の話せん？」=“Mmm... Can we talk about something else?”
 「この間、すごい派手な自転車に追い抜かれて……」=“The other day, someone passed by me on this really gaudy cycle...”
@@ -256,7 +256,7 @@
 「ふーん、そうなんやね」=“Hmmmm, of course.”
 「あのね、話をする前に……まず一つ、解決せないかんことがあるやろ？」=“Hey, before we talk... there's something that needs to be settled between us first, no?”
 「えへへ、こちらこそごめんね。そうやって謝ってくれただけで嬉しいん」=“Ehehe, I'm sorry too. I'm just happy that you were willing to apologize like that.”
-「私、まだまだ怒っとうよ。だって君、適当なんやもん……」=“I'm still angry. You're so half-hearted afterall...”
+「私、まだまだ怒っとうよ。だって君、適当なんやもん……」=“I'm still angry. You're so half-hearted after all...”
 「んー、どしたん？　ふふっ、もしかして……可愛いって思ってくれてるん？」=“Hm? What's the matter? Fufu--, by any chance... are you thinking about just how cute I am?”
 「やっ……もー、そげん見たら赤くなるって！」=“Ya--... jeez, if you stare at me that much, I'll go beet red!”
 「やぁん、もー、降参するけん終わりにして？　見られるの苦手になるやん！」=“Iyaan, jeez, I give in so please stop? I won't be able to handle being looked at anymore!”
@@ -356,7 +356,7 @@
 「ちょっと付いてきて」=“Come with me for a bit.”
 「あはは、突然どーしたと？」=“Ahaha, what's the matter, all of a sudden?”
 「わぁ、今は無理！　この後ちょっと用事があるっちゃもん！」=“Wah, I can't right now! I need to take care of something in a bit!”
-「もー、君、度胸ありすぎよ。ま、まぁ、私しかおらん時はいいけど……って、よくないよくない！　ここ女子トイレやから！」=“Jeez, you have quite the guts. W-Well, I suppose it's fine when I'm the only one here...--what am I saying, it's not fine, it's not fine at all! This is the girls' toilet afterall!”
+「もー、君、度胸ありすぎよ。ま、まぁ、私しかおらん時はいいけど……って、よくないよくない！　ここ女子トイレやから！」=“Jeez, you have quite the guts. W-Well, I suppose it's fine when I'm the only one here...--what am I saying, it's not fine, it's not fine at all! This is the girls' toilet after all!”
 「な、なんしようと！？　ここはいかんってば！　付き合っとる私まで変な目で見られるやん」=“W-What are you doing!? I told you, don't come in here! People will start looking at me weird too.”
 「わ、入ってきたん？　たまたま人がおらんけん、いいけど……それ、結構危ないとよ？　分かっとる？」=“Y-You came in? There's no one here right now, so I guess it's fine... But, you know this is really dangerous, right? Right?”
 「こんなところ、男の子が入ったらいかんよ。恋人として、きちんと正すけんね！」=“Boys shouldn't enter this place. As your girlfriend, I'll have to straighten you out!”
@@ -384,7 +384,7 @@
 「君とやったら、どんなお話しても楽しいとよ。だって……好いとうっちゃもん……」=“Chatting with you is really fun, no matter about what. I can't help it... I just love you so much...”
 「幼馴染みとかいる？」=“Do you have any childhood friends?”
 「うん、今でも連絡取りようよ。小っちゃい頃、家が隣で……って、女の子やけんね？」=“Yeah, we still chat every so often, even to this day. When we were kids, my house was next door to...--so you know, it's a girl, alright?”
-「ううん、特にはおらんかなぁ。近所に同い年くらいの娘が住んどらんかったけんね」=“Nah, not really. There were no girls my age in the neighbourhood I lived in, afterall.”
+「ううん、特にはおらんかなぁ。近所に同い年くらいの娘が住んどらんかったけんね」=“Nah, not really. There were no girls my age in the neighbourhood I lived in, after all.”
 「学園のメインイベントといえば何だと思う？」=“What do you think is the main event of someone's highschool life?”
 「……恋、やと思う。好きな人と一緒なら普通の一日もばり楽しいけん！」=“...I think it's love. Even an ordinary day becomes so fun when you spend it with your lover!”
 「学園祭とかの行事かな？　二人で楽しく周ろーね、約束よ！」=“I guess something like a school festival? Let's go around together when our school has one, it's a promise!”
@@ -470,7 +470,7 @@
 「見つめ合うん？　ふふっ、君、格好いいよ♪」=“We gonna look each other in the eyes? Fufu--, you're so cool♪”
 「やだっ、ちょっとドキドキしてくる……」=“Gosh--, my heart's throbbing so much...”
 「もう見たらいかんって。ばり恥ずかしいもん」=“Don't look at me anymore, it's really embarrassing.”
-「ふふっ、そんなに私の胸が気になるん？　まぁ、男の子にはないものやもんね」=“Fufu--, are you that curious about my chest? Well, I guess that's to be expected, boys don't have any afterall.”
+「ふふっ、そんなに私の胸が気になるん？　まぁ、男の子にはないものやもんね」=“Fufu--, are you that curious about my chest? Well, I guess that's to be expected, boys don't have any after all.”
 「ちょっと見過ぎやない？　あっ、ううん、別に嫌なわけじゃないとよ？」=“Aren't you staring too much? Ah--, no, not to say I hate it, okay?”
 「君、もしかして私におっぱいって言わせたいだけやろ？　言っちゃーけん、これ以上見たらいかんよ？　はい、おっぱい♪　おっぱい♪」=“You just want me to say "Boobs", don't you? I'll say it, so don't look at them so much, okay? Here, Boobs♪ Boobs♪”
 「もう……彼女が拗ねとるのくらい分かるやろ？」=“Jeez... you should be able to tell when your girlfriend is sulking, no?”

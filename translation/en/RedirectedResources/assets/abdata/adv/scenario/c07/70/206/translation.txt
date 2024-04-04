@@ -23,7 +23,7 @@
 「当たり前だろ。全部かわいいんだから」=“That should be obvious. All your sides are cute to me.”
 「ふふっ……一応、ありがとうと言っておくよ」=“Fufu--... Well, I will say thanks, for what it's worth.”
 「ん？　信じてないな？」=“Hm? You don't believe me, do you?”
-「信じてるって。私も似たようなこと、思ってるから」=“I do, I do. I feel the same way, afterall.”
+「信じてるって。私も似たようなこと、思ってるから」=“I do, I do. I feel the same way, after all.”
 「似たようなことって？」=“The same way?”
 「子供っぽいところがあるけど、いざとなったら頼れる感じとか、ダサいかと思ったら、急にかっこよくなるとか……」=“Full of immaturity, but reliable when push comes to shove. Uncool seeming at one moment, but suddenly cool as all heck...”
 「それって、俺のこと？」=“Are you uh, talking about me?”

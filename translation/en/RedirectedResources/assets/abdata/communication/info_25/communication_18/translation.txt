@@ -44,13 +44,13 @@
 「いえ、残念ながら。恋愛運にも見放されてそうです」=“No, unfortunately. Looks like even the mighty cupid has abandoned me.”
 「恋愛に憧れはある？」=“Do you dream of love?”
 「人並みには。いつか幸せな恋愛、してみたいです」=“As much as the next girl. I do want to experience the happiness of love someday.”
-「ありますよ。恋に恋するお年頃ですから」=“I do. I'm just about at that age too, to fall in love with the ideal of love, afterall.”
+「ありますよ。恋に恋するお年頃ですから」=“I do. I'm just about at that age too, to fall in love with the ideal of love, after all.”
 「好きな男性のタイプってある？」=“Do you have a type, in terms of guys?”
 「うーん……真面目な人でしょうか。その、私の不幸体質とも真摯に向き合ってくれそうですし……」=“Mmmm... I suppose an earnest, serious type? You know, it feels like they'd be able to weather pretty well against my unlucky disposition...”
 「んー、経験が無いものでなんとも……」=“Nnn, I don't have any experience so I couldn't say...”
 「恥ずかしいので、ノーコメントでもいいですか……？」=“It's embarrassing so, could I get away with a 'no-comment'...?”
 「コイバナ……コイバナ……うーん、ホットな話題がないなぁ」=“Gossip... dirty, sexy gossip... mmmm, can't seem to find anything juicy.”
-「女学園ですからね。そこはどうしても」=“It's an all-girls' school, afterall. Nothing much to be done about it.”
+「女学園ですからね。そこはどうしても」=“It's an all-girls' school, after all. Nothing much to be done about it.”
 「うーん……コイカツ部の活動をちゃんとできてるか不安だなぁ」=“Mmmm... I'm anxious about whether I'm doing this club-leader thing properly or not.”
 「何かお手伝い出来る事があれば、言ってくださいね」=“If there's ever something I could help with, please let me know, okay?”
 「そういえばこの前、偶然耳にしちゃったんだけど……」=“Reminds me, the other day, I ended up hearing this by completely coincidence but...”
@@ -246,7 +246,7 @@
 「平均的、普通が一番ですよね。意見が一致して嬉しいです」=“Averageness, normality is the best, isn't it? I'm glad we see eye-to-eye.”
 「気を遣ったりしてません？　してない？　なら良かったです」=“You're not just trying to be mindful of my feelings? You aren't? I'm glad then.”
 「女子の身長についての所見を伺いたいです。えっと、参考までに」=“I would like to know your preferences as far as girls' heights are concerned. Erhm, just as a reference of sorts.”
-「安心しました。縮むのは伸ばすより難しいですからね」=“I'm relieved. It's significantly harder to shorten down than become taller, afterall.”
+「安心しました。縮むのは伸ばすより難しいですからね」=“I'm relieved. It's significantly harder to shorten down than become taller, after all.”
 「無難な趣味ですね。その無難さに感謝です」=“You've pretty inoffensive tastes. I'm grateful for that.”
 「それは良かった。無理しなくて済みそうですから」=“I'm glad to hear that, since I don't have to try to force anything.”
 「少し気になったのですけど、女子の体型に理想はありますか？」=“I've become a bit curious, do you have an ideal figure in mind, when it comes to girls?”
@@ -407,7 +407,7 @@
 「難しいです……。どっちも、はダメですか……？」=“That's a tough one... Can I really not pick both...?”
 「今の彼氏と結婚したい？」=“Do you want to marry your boyfriend?”
 「はい、もちろん！　私と結婚してくれますか？」=“Yes, of course! Will you really marry me?”
-「ナイショ、です。催促はしたくありませんから」=“That's a secret. I don't want to pressure you, afterall.”
+「ナイショ、です。催促はしたくありませんから」=“That's a secret. I don't want to pressure you, after all.”
 「彼氏がデートに遅れてきたら待てる？」=“Would you wait if your boyfriend was late to a date?”
 「多分顔を見たら許しちゃうと思いますけど、遅れないでください」=“I'll probably forgive you the moment I see your face, but please do not be late.”
 「むー……、そんな事されたら泣いちゃうかもしれませんよ」=“Muu... If you do that to me, I might break down crying on the spot, you know?”
@@ -427,7 +427,7 @@
 「幸せなんですが……たまに幸せすぎて怖くなることがあります。不安な時は強く抱きしめて欲しいです」=“I do feel happy but... sometimes I feel so happy, it makes me scared. At those times, I'd love it if you could hug me tight.”
 「やっぱり股間が一番感じる？」=“I've already got a hunch but, is your crotch the most sensitive part on your body?”
 「……はい。だから、いっぱいイジメてくださいね……？」=“...Yes. So, please bully it lots, okay...?”
-「知ってるから、いつもあんなに意地悪するんでしょう？」=“You already know the answer, no? That's why you always torment me there, afterall.”
+「知ってるから、いつもあんなに意地悪するんでしょう？」=“You already know the answer, no? That's why you always torment me there, after all.”
 「恥ずかしいからノーコメントです！」=“It's embarrassing, so no comment!”
 「押し倒すのと押し倒されるのどっちが好き？」=“Which do you like better, being pushed down or being the one doing the pushing?”
 「むさぼられるのも奉仕するのも、どちらも捨てがたいですね」=“It's hard to pick a favourite between being devoured and serving you.”

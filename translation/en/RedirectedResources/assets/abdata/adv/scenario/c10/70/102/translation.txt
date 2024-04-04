@@ -14,7 +14,7 @@
 「お待たせ！　はい、これ飲んで」=“Here you go! Drink this.”
 「んっ……ごくっごくっごくっ……っぷはぁ！」=“Nn--... *gulp gulp gulp*... puhaaah!”
 「おぉ、一気に飲み干した……だ、大丈夫？」=“Oooh, in one swig... y-you okay?”
-「うむ、助かった！　やはりコーヒーはブラックに限る。この悪魔的な苦みで、脳が冴えわたるのを感じるぞ！」=“Umu, I am saved! Indeed, coffee must be black afterall. The taste, it is so demonic, it is lifting the fog from my head!”
+「うむ、助かった！　やはりコーヒーはブラックに限る。この悪魔的な苦みで、脳が冴えわたるのを感じるぞ！」=“Umu, I am saved! Indeed, coffee must be black after all. The taste, it is so demonic, it is lifting the fog from my head!”
 「そう、それならよかった……」=“I see, I'm glad then...”
 「ふぅ……だが、まだ体は疲れている。できればもう少し休みたいのだが」=“Fuuh... however, my body is still tired. I would like to rest a bit more.”
 「うん。俺も疲れてたし、一緒に休憩しよう」=“Yeah. I'm tired out too, so let's take a break together.”

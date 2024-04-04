@@ -8,7 +8,7 @@
 CHOICE:『そのままでいる』=Stay like that.
 CHOICE:『少しスペースを空ける』=Make some space.
 （……でも、ちょっとくっついても気にしないって言ってくれたし……いいよな？）=(...But, she did say that she doesn't mind if I snuggle up to her a bit so... it should be fine, right?)
-（うん、いいことにしよう……！　気持ちいいし！）=(Yeah, probably...! It feels good too, afterall!)
+（うん、いいことにしよう……！　気持ちいいし！）=(Yeah, probably...! It feels good too, after all!)
 「ちょっ……ああん、そんなに硬いもの押し当てちゃダメよ……変な気分になっちゃう」=“Hey--... aaahn, don't poke such a hard rod into me... I'll get into a weird mood.”
 「……なってほしいな。正直、俺……我慢できそうにないから」=“...Could you? Honestly, my self-control is... evaporating here.”
 「……本気なの？　もう、しょうがないんだから。周りの人に内緒でやってちょうだいね？」=“...Are you being serious? Jeez, there's no helping you. Just make sure to do it silently, okay?”

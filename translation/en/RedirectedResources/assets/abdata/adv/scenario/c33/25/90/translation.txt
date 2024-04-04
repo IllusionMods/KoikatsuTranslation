@@ -16,7 +16,7 @@
 「あーん、いいわいいわ～♪　すっごくキュンキュンしちゃう」=“Aaahn, so good, it's great~♪ It really makes my heart flutter.”
 「……[Pあだ名]」=“...[Pあだ名]”
 「これ、いいね」=“This is pretty cool.”
-「このまま身体の距離も縮めちゃう？　期待させちゃったものね？」=“Shall we keep going and close up the distance between our bodies as well? I made you anticipate it afterall, no?”
+「このまま身体の距離も縮めちゃう？　期待させちゃったものね？」=“Shall we keep going and close up the distance between our bodies as well? I made you anticipate it after all, no?”
 「こ、このタイミングはまずいよ」=“T-The timing is not super great.”
 「ふふふ、そうね。今しちゃったら朝になっても止まらないかもしれないものね……また今度ね」=“Fufufu, Indeed. If we do it now, we might not be able to split apart even when morning dawns... Next time then.”
 （[H名]さんと愛称で呼び合うと理性がふっとんじゃいそうだ。たまににしよう！）=(Calling each other nicknames with [H名]-san makes me feel like my reason is going to fly out the window. Let's do it every now and then!)

@@ -11,7 +11,7 @@
 「自分のことがおろそかになったりしない？」=“You sure you don't end up putting yourself aside for that?”
 「ふふ、大丈夫。ちゃんと自分でやるべきことをしっかりやってるわ。だからね、他の人には、いっぱい私に甘えて欲しいの」=“Fufu, I'm fine. I take care of the things I need to take care of myself. So, you know, I want others to rely on me, so that I can dote on them.”
 「へー、だったらお言葉に甘えちゃおっかなー……なーんてね」=“Hoh, maybe I'll take you up on that... kidding.”
-「いいわよ。あなたは筆頭困ったちゃんだもの」=“I don't mind. You worry me the most, afterall.”
+「いいわよ。あなたは筆頭困ったちゃんだもの」=“I don't mind. You worry me the most, after all.”
 「俺って、そんなに困ったやつなの？」=“Am I really that bad?”
 「ふふふ、自覚がないのね。私、あなたから目が離せないの……ずーっと見てなくちゃいけないって気持ちにさせられるのよね」=“Fufufu, no self-awareness, huh? I can't take my eyes off you... You make it so that I just have to keep my eye on you at all times.”
 「へへへ。それって、なんだか照れるなぁ…………っとぉ！？」=“Hehehe. Now you're making me blush... woah!?”

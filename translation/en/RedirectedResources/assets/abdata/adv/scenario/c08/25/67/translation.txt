@@ -3,5 +3,5 @@
 //
 「[P]君と一緒に帰るの楽しいの。また一緒に帰ってくれる？」=“It's fun to walk home with you, [P]-kun. Will you walk home with me again?”
 「彼氏なんだからいつでも一緒に帰ってあげるよ」=“I'm your boyfriend so, I'll walk home with you whenever you want.”
-「えへへ♪　彼氏って凄いんだなぁ。私にたくさんの幸せをくれるんだもの」=“Ehehe♪ Boyfriends are amazing. Mine's always showering me in so much happiness, afterall.”
+「えへへ♪　彼氏って凄いんだなぁ。私にたくさんの幸せをくれるんだもの」=“Ehehe♪ Boyfriends are amazing. Mine's always showering me in so much happiness, after all.”
 「俺も[H]からたくさんの幸せをもらってるよ」=“You always shower me in happiness too, [H].”

@@ -10,7 +10,7 @@
 「それしても……一人で過ごすことが多かったんだね」=“Even so... you spent a lot of time alone, huh?”
 「ええ、両親は忙しい方ですし……それに、わたくしに釣り合うようなお友達もあまりおりませんでしたわ」」=Yes, my parents are quite the busy people... not to mention, I didn't have all that many friends that were my equals.
 「この学園じゃ、そんなことなさそうだね」=“I'm guessing that things are different now that you're in this school?”
-「ええ、おかげさまで、楽しく過ごしておりますわ。昔は、何も自由な時間がありませんでしたもの」=“Yes, thanks to it, I have quite the enjoyable days indeed. In the past, I didn't have any free time to myself whatsoever, afterall.”
+「ええ、おかげさまで、楽しく過ごしておりますわ。昔は、何も自由な時間がありませんでしたもの」=“Yes, thanks to it, I have quite the enjoyable days indeed. In the past, I didn't have any free time to myself whatsoever, after all.”
 「家庭教師や、習い事の先生が、毎日、入れ替わり立ち替わりわたくしの時間を奪っていくのです……今思い出してもウンザリですわ」=“Private tutors, in both studies and various arts, taking turns daily to steal every shred of time I had... even just thinking back to it is dreadful.”
 「そ、それは大変だったねぇ……。よかったね、この学園に入学して」=“T-That must have been quite something... Well, good thing you joined this school then, huh?”
 「ええ、本当によかったですわ。入学しなければ、あなたのような殿方にも出会えなかったことでしょうし」=“Yes, it truly was a good thing. If I didn't, I likely wouldn't have gotten to meet a man such as you either.”

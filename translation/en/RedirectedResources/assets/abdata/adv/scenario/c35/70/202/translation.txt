@@ -31,5 +31,5 @@
 「ひやあぁっ！　お、思い出させんどってっ……本当にこわっ……怖すぎっ……まさかあんな怖いところがっ……ひゃああぁっ！」=“Hyaaah--! D-Don't remind me--... It really was way too--... way too scary--... to think such a scary place exi--... HYAAAAAAAA--!”
 「あっ、[H名]。今、顔に当たったのは植木の枝だよ。大丈夫？　俺がそっち側歩こうか？」=“Ah--, [H名]. That's just a tree branch, just a branch. You alright? Want me to walk on that side?”
 「う、うん……ありがとう。はぅ……わ、私はもうダメなん……今日は一日、ずーっとこうやって君にくっついて歩くん……いい？」=“Y-Yeah... Thanks. Hauu... I-I'm done for... I'm going to spend the whole day, just clinging to you like this... Can I?”
-「はは、もちろん！　デートだしね！」=“Haha, of course! It's a date afterall!”
+「はは、もちろん！　デートだしね！」=“Haha, of course! It's a date after all!”
 （[H名]、こんなに怖がって……いや、俺もすごく怖かったけど……。こうやって距離が近づけたのなら、結果オーライだよな）=(She got so scared... No, well, I got super scared too but... Since the distance between us shrunk so much, alls well that ends well, I guess.)

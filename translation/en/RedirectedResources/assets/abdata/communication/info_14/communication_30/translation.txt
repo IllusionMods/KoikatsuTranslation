@@ -50,7 +50,7 @@
 「うーん、タイプって言われても……自分に合う人？　かしら？」=“Well, even if you say type... a person that fits me? I guess?”
 「こういう話ってちょっと難しいというか、恥ずかしいというか……別の話題にしましょ？」=“Talking about this kind of stuff, it's kinda hard, or rather, it's sort of embarrassing... Can we talk about something else?”
 「コイバナかぁ……うーん、女子と恋愛のことを話すって難しいなぁ」=“Love talk, huh... Well, talking with girls about love and stuff is pretty difficult.”
-「うんうん、分かるよ。異性だもんね」=“Yeah, yeah, I totally get you. It's with the opposite sex afterall.”
+「うんうん、分かるよ。異性だもんね」=“Yeah, yeah, I totally get you. It's with the opposite sex after all.”
 「コイカツ部部長としては、恋愛に詳しくないといけないんだよね」=“As the president of the Koikatsu club, I need to be familiar with things related to romance, right?”
 「活動しながら徐々に詳しくなればいいんじゃない？　焦ることないわよ」=“Isn't it fine to become familiar with that kind of stuff while doing club activities over time? There's no need to be impatient.”
 「この学園って、女子同士の恋愛とかは……」=“At this school, are there lesbian couples...?”
@@ -90,7 +90,7 @@
 「あのね、この間、近所の猫がすっごい交尾してて……」=“You know, the other day, the neighbourhood cat was really going at it with another cat...”
 「あははっ、もーっ、それで笑っちゃったら、私が下ネタ好きみたいになるじゃないー」=“Ahaha, geez, if someone saw me, they'll think I love dirty jokes.”
 「私ってそんなにサバサバしてるように見えるかしら？」=“Do I really seem that easy-going and laid-back?”
-「そっかぁ。やっぱりそういう風に見られちゃうのね。まぁ、間違ってはないけど、ふふっ」=“I see. So that's what I seem like to others afterall. Well, it's not like it's incorrect, fufu.”
+「そっかぁ。やっぱりそういう風に見られちゃうのね。まぁ、間違ってはないけど、ふふっ」=“I see. So that's what I seem like to others after all. Well, it's not like it's incorrect, fufu.”
 「おお、キミはそういう風に見てくれるんだ。男子からの意見は貴重だね」=“Ooh, so that's how you see me. A guy's opinion is pretty valuable.”
 「自分で考えるイメージと違うのかしら……？」=“I wonder if the image I try to maintain is acutally different...?”
 「ねぇ、キミは動物とか好きな方かな？」=“Hey, do you like animals?”
@@ -206,7 +206,7 @@
 「そうね。ちょっと強引に……って、なに恥ずかしいこと言わせてるのよー」=“That's right. Being a bit pushy is... Hey, what kind of embarrassing things are you even making me say?”
 「たまには私からしたい……かな。なーんて。あ、こら、変な目で見ないの！」=“Sometimes I wanna be the one who initiates them... I guess. Just kidding. Ah, hey, don't look at me weird like that!”
 「結婚するとしたら、式って挙げたい？」=“If you ever get married, would you want a full blown wedding?”
-「もちろん。私だって女の子ですからね。一生に一度くらいウエディングドレスを着てみたいわ」=“Of course. I'm still a girl afterall. I want to wear a wedding dress at least once in my life.”
+「もちろん。私だって女の子ですからね。一生に一度くらいウエディングドレスを着てみたいわ」=“Of course. I'm still a girl after all. I want to wear a wedding dress at least once in my life.”
 「うーん、恥ずかしいから別に……あ、でもドレスは着たいから写真だけは撮りたいかな」=“Well, it's embarrassing so not really... Ah, but I do want to take a picture in a wedding dress if possible.”
 「好きな人には積極的にアタックする？」=“Would you be proactive with the person you liked?”
 「もちろん！　当たって砕けろが信条！　と言いたいところだけど……そう簡単にはいかないわよね」=“Of course! It's my belief to not beat around the bush! Or so I'd like to say but... it's easier said than done.”
@@ -527,7 +527,7 @@
 「ふふっ、ありがとう。誘うのって結構勇気いるのよ。だから……余計に嬉しいかも」=“Fufu, Thanks. You know, it takes a lot of courage to invite someone on a date. That's why... I think I'm way too happy right now.”
 「もうー、せっかく勇気を出して誘ったのにー。でもいいわ。その日は一人で時間潰すもん」=“Jeez, Even though I gathered up my courage to ask you out and everything. But fine, I'll just kill time by myself on that day.”
 「いいわよ。もしかして、お姉さんに頼りたくなっちゃった？　なーんて、頼るのは私の方かも」=“Alright. By any chance, did you start feeling like wanting to rely on onee-san? Heh, as if, I'm probably the one relying on you”
-「ねぇねぇ、たまには一緒に勉強なんてどうかしら？　学生なんだし、必要よね？」=“Hey, Listen, How about we study together from time to time? It's important to study, isn't it, we're students afterall.”
+「ねぇねぇ、たまには一緒に勉強なんてどうかしら？　学生なんだし、必要よね？」=“Hey, Listen, How about we study together from time to time? It's important to study, isn't it, we're students after all.”
 「ありがとう。一人だとつまんなくて……キミと一緒の方が絶対楽しいんですもの」=“Thank you. It's boring studying alone... Studying together will definitely be tons of fun.”
 「あら、そうなの？　もしかしてサボりたいだけじゃないわよね？」=“Oh, really? You sure you're not just looking to skip school instead?”
 「あら、いいわね。ちょうど身体動かしたいなって思ってたの」=“Oh, that sounds great. I was just thinking about getting a workout myself.”

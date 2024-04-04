@@ -292,7 +292,7 @@
 「……私、あなたのことが……好き」=“...I, love... you.”
 「……！　そ、そう。じゃあ……これからも、よろしく」=“...! I-I see. Then... let's uhm, get along.”
 「……そう……わかった。ごめんね、この話は……忘れて？」=“...I see... Okay. I'm sorry, please... forget this?”
-「……あのね、やっぱり私……あなたが、好き……っ」=“... Listen, I really... do love you, afterall...--”
+「……あのね、やっぱり私……あなたが、好き……っ」=“... Listen, I really... do love you, after all...--”
 「……本当？　冗談じゃ、ない……よね？　……ありがとう」=“...Really? That's not a, joke... right? ...Thank you.”
 「……そっか。……うん、そうだよ、ね……じゃあ、また……」=“...I see. ...Yeah, of, course... then, see you...”
 「その、さ……きみと、エッチしたいなって」=“Uhm, listen... I want to, have sex with you.”

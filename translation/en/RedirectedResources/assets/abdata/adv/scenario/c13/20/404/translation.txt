@@ -19,7 +19,7 @@
 「俺はなんて幸せ者なんだろう……」=“Is it really possible, for one man to be this blessed...”
 「ちょ、ちょっと～！　マジ大げさ～！」=“H-Hey, come on~! Stop exaggerating~!”
 「はっ……！　嬉しすぎてつい……」=“Hah--...! I was just so happy, I...”
-「もう、これぐらいだったらいつでもやるよ！　アタシ達、デートしてるんだから……」=“Jeez, if it's only something like feeding it to you by hand, I'll do it anytime! We're dating and stuff, afterall...”
+「もう、これぐらいだったらいつでもやるよ！　アタシ達、デートしてるんだから……」=“Jeez, if it's only something like feeding it to you by hand, I'll do it anytime! We're dating and stuff, after all...”
 「うん、そうだね！　滅茶苦茶嬉しいよ。ありがとう」=“Yeah, you're right! I'm super happy. Thank you.”
 「えへへ、どーいたしまして！」=“Ehehe, you're welcome!”
 「そのチョコケーキって甘いやつ？」=“Is that chocolate cake the sweet sort?”

@@ -6,5 +6,5 @@
 「うん、俺もそうだなって思ってたんだ」=“Yeah, I was thinking the same thing.”
 「そうですか……！　私の思い過ごしでなくて安心しました」=“Is that so...! I'm relieved, that I wasn't just imagining things.”
 「だからこれからはもっとラフにいこうよ。敬語はやめるとか」=“That's why, let's be more casual with each other from now on. Like, you could drop the formal language, you know?”
-「いえ、それはできません。これは私のアイデンティティでもありますので」=“No, I can't do that. This is part of who I am, afterall, my identity.”
+「いえ、それはできません。これは私のアイデンティティでもありますので」=“No, I can't do that. This is part of who I am, after all, my identity.”
 「あ……そうなんだ。まあ君がそうしたいなら、いいよ。これからもよろしくね」=“Ah... I see. Well, if you want to, it's fine. Take care of me from now on as well.”

@@ -3,7 +3,7 @@
 //
 「っと。さて次、[H名]は何を歌う？」=“So then, what are you gonna sing, [H名]?”
 「私、もう知ってる歌はほとんど歌ってるの。あとはあなたがずっとマイク持っていていいよ」=“I've already sung most of the songs I knew. You can keep holding onto the mic for the rest.”
-「あなたの歌に耳を傾けるの、好きだから」=“I love listening to you sing, afterall.”
+「あなたの歌に耳を傾けるの、好きだから」=“I love listening to you sing, after all.”
 「うーん……」=“Mmm...”
 CHOICE:『二人で歌おう』=Let's sing together.
 CHOICE:『帰ろうか』=Let's go home.

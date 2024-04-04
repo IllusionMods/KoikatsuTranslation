@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「デート？　そうね、恋人だものね……い、いいわよ、付き合ってあげる」=“A date? Right, we're a couple, afterall... s-sure, I don't mind.”
+「デート？　そうね、恋人だものね……い、いいわよ、付き合ってあげる」=“A date? Right, we're a couple, after all... s-sure, I don't mind.”
 「よかった！　行先はまだ決まってないから、これから考えておくよ」=“Great! I've still not decided where we're gonna go so, I'll start preparing now.”
 「ええ、わかったわ。……今から楽しみにしておくわね」=“Yes, got it. ...I'm already looking forward to it, okay?”

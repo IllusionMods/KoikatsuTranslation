@@ -13,7 +13,7 @@
 …………=......
 「んっ……キスは何度してもいいな。特にこんな綺麗な夜景だと、気持ち良すぎて怖いくらいだ」=“Nn--... No matter how many times we kiss, it still feels just as nice. And with this night-view as the backdrop, it feels so good, it's almost scary.”
 「なんか、ここに来たらキスっていうのが習慣になってるね」=“It's becoming kind of a tradition for us to kiss whenever we come here, isn't it?”
-「最初のインパクトというのは大きいからな。それで……続きはするのか？」=“The first one's impact was so big, afterall. So, now then... are you going to take the next step?”
+「最初のインパクトというのは大きいからな。それで……続きはするのか？」=“The first one's impact was so big, after all. So, now then... are you going to take the next step?”
 「あぁ、えっとそれは……」=“Aah, erhm, that's...”
 CHOICE:『是非、お願いします』=『Yes, please』
 CHOICE:『もうかなり暗いし、今日は帰ろうか』=『It's already gotten quite dark, shall we go home for today?』

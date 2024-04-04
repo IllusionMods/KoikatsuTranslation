@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「なんと言いますか、ドキドキしますね。デート……ですものね」=“How do I say this, this is quite exciting, isn't it? It's a... date, afterall, isn't it?”
+「なんと言いますか、ドキドキしますね。デート……ですものね」=“How do I say this, this is quite exciting, isn't it? It's a... date, after all, isn't it?”
 「うん。俺もドキドキしてる。一緒に楽しめるように頑張るから、今日はよろしくね」=“Yeah. My heart's racing too. I'll do my best so that we can both enjoy ourselves together, so let's have a good day out today, okay?”
 「お、お願いいたします……！……はぁ……心臓がはち切れそうです……」=“P-Please...! ...Haah... it feels like my heart's going to burst...”
 「満足してもらえるようにエスコートするよ」=“I'll definitely show you a good time, you won't be unsatisfied.”

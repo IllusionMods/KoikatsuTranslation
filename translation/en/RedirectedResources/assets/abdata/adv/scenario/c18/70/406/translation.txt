@@ -4,6 +4,6 @@
 「こんな時間まで話し込んじゃったな」=“We ended up chatting through the whole day, huh?”
 「たまには時間を忘れて、ゆっくりおしゃべりするのもいいですね」=“Chatting while forgetting the time like this is pretty nice every so often, isn't it?”
 「[H名]はこういう落ち着いた雰囲気の方がリラックスできるのかな？」=“Does this sort of calm atmosphere let you relax better, [H名]?”
-「そうですね……あまり気を配らずに済むので。でも、あなたが一緒だから一人の時よりずっと気が楽でしたよ」=“Indeed... I don't need to keep that much of a lookout, afterall. But, because you're here with me, I got to relax way more than usual, you know?”
+「そうですね……あまり気を配らずに済むので。でも、あなたが一緒だから一人の時よりずっと気が楽でしたよ」=“Indeed... I don't need to keep that much of a lookout, after all. But, because you're here with me, I got to relax way more than usual, you know?”
 「じゃあまた今度、このお店でデートしようか」=“In that case, let's come here on a date again sometime.”
 「ふふ、喜んでご一緒します」=“Fufu, I'll gladly accompany you.”

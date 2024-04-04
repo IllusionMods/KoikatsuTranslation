@@ -68,7 +68,7 @@
 「き、嫌いではないと思う。お互い自然体で接していけそうだし……」=“I-I don't hate them, I think. I feel like I'd get along with such a guy, with me being a pretty free spirit too...”
 「あ、あんまり振り回されるのは……苦手、かな？」=“I-I don't really like being... pushed around, you know?”
 「優しい男性ってどう思う？」=“What do you think of gentle, kind guys?”
-「私は、良いと思う……紳士な人だと、あまり怖くはならないから」=“I think, they're nice... the gentlemen sort of guys, don't scare me that much, afterall.”
+「私は、良いと思う……紳士な人だと、あまり怖くはならないから」=“I think, they're nice... the gentlemen sort of guys, don't scare me that much, after all.”
 「うーん、裏があるかもって思えて……信用はできないかな？」=“Mmm, they're hard to trust... feel like they're always hiding something behind that mask, you know?”
 「クールな男性ってどう思う？」=“What do you think of aloof guys?”
 「う、うん。周りに流されない人って、頼りになりそうかな……」=“W-Well. A guy that wouldn't get swept away by the crowd, does seem pretty reliable...”
@@ -96,7 +96,7 @@
 「えっと、動物とかは……好き？」=“Erhm, do you... like animals and stuff?”
 「そうなんだ。私も、小説とかの物語でもよく見るから……」=“I see. I like them too, they often show up in the novels I read so...”
 「うん、実物を見ると、ニオイとかが思ったよりね……」=“Yeah. When face to face with a real one, the smell and stuff is just...”
-「お、男の子って、やっぱり食事の量も多いの？」=“D-Do boys eat a whole lot afterall?”
+「お、男の子って、やっぱり食事の量も多いの？」=“D-Do boys eat a whole lot after all?”
 「そ、そうなの？　確かに体格から変わってくるし、納得かも」=“R-Really? Our physiques are different, so I could buy it, yeah.”
 「そ、そうなんだ。草食系……とはちょっと違う、よね」=“I-I see. A herbivore type... well, not exactly, right?”
 「あ、あの……料理とかは、毎日どうしてるの？」=“U-Uhm... what do you do for your daily meals, do you cook and stuff?”
@@ -187,7 +187,7 @@
 「小説とかを好んで読んでる印象だけど、漫画とかは読む？」=“I get that you love reading books and novels, but do you read manga too?”
 「うん。書店で目についたり、友達に推薦されたものとかなら」=“Yeah. Usually stuff that catches my eye at the bookstore, or stuff my friends recommend to me.”
 「漫画はあまり読まないかな。ライトノベルあたりなら読むけれど」=“Not really, I'd say? I don't mind reading light novels though.”
-「お気に入りの場所ってある？　やっぱり図書室とか？」=“Any place you'd call your favourite? Is it the library afterall?”
+「お気に入りの場所ってある？　やっぱり図書室とか？」=“Any place you'd call your favourite? Is it the library after all?”
 「そうだね、本に囲まれてると落ち着くんだ」=“Yeah, I feel relaxed with books all around me.”
 「図書館だけじゃないよ。屋上とか中庭にも、たまに足を運ぶの」=“Not just the library, you know? Sometimes I drag my feet to the roof or the ground too.”
 「音楽とかには興味ある？」=“Got any interest in music?”
@@ -242,7 +242,7 @@
 「わかるわ。私もティータイムのお菓子には目がないの」=“I feel you. I can't pass on sweets during tea time myself either.”
 「あ、やっぱり？　男性って、甘いものが苦手な人が多いよね」=“Ah, really? I guessed as much. A whole lot of boys out there don't like sweet stuff all that much, do they?”
 「大雑把でいいんだけど……理想のバストサイズって、どのくらい？」=“I'll be fine with rough figures, but uhm... what's your ideal bust size?”
-「そう、よね。確かに胸は母性の象徴とも言うし……」=“Of, course. They do say a woman's chest is the symbol of motherhood, afterall...”
+「そう、よね。確かに胸は母性の象徴とも言うし……」=“Of, course. They do say a woman's chest is the symbol of motherhood, after all...”
 「ふふっ、大きさより形にこだわるのね」=“Fufu--, you care more about their shape, rather than their size, huh?”
 「そ、そうよね。着物とかは慎ましい方が似合うしね……」=“O-Of course. A kimono looks better with a chest like this too...”
 「えっとね……女性の背丈に好みとかはあったりする？」=“Erhm, listen... do you have a preference when it comes to girls' heights?”
@@ -358,7 +358,7 @@
 「ごめんなさい、今は忙しくて……アリスにはなれそうにないの」=“I'm sorry, I'm busy right now... don't think I can be your Alice for today.”
 「もう、また入ってきたの？　ほら、周りの目がないうちに……」=“Jeez, you came in here again? Come on, leave before the others notice...”
 「ダメだよ入ってきちゃ。私はともかく他の子が許さないのよ？」=“You can't come in here. Me aside, the other girls won't forgive you, you know?”
-「やっぱり来ちゃったのね……覗いていいのは、私だけだよ？」=“You came here afterall, huh... I'm the only one, you're allowed to peep on, okay?”
+「やっぱり来ちゃったのね……覗いていいのは、私だけだよ？」=“You came here after all, huh... I'm the only one, you're allowed to peep on, okay?”
 「もう、男子禁制って言ってるのに。私以外の子の着替えは覗かないこと！」=“Jeez, I always tell you that boys aren't allowed here too. No peeking on other girls changing!”
 「……もう、知らない」=“...Jeez, don't talk to me.”
 「……何？　私今、ちょっと機嫌が悪いの」=“...What? I'm in a bad mood right now.”
@@ -403,7 +403,7 @@
 「私はいつまでも待つ方かな。その間に読書で暇つぶしもできるし」=“I could wait all day. I can always kill time with a book or two.”
 「そうね……持ってきた本を読み終わるまでがタイムリミットかな」=“Let's see... you'd have a time limit, all the way up until I finish reading the book I brought.”
 「友達と彼氏だったら、彼氏の方が優先？」=“If you had to pick between your friends and your boyfriend, would your boyfriend come out on top?”
-「それは、そうね。恋人って、友達の次のステップだと私は思うから」=“That's, I guess so. I personally believe that being a couple is just an upgraded tier of friendship, afterall.”
+「それは、そうね。恋人って、友達の次のステップだと私は思うから」=“That's, I guess so. I personally believe that being a couple is just an upgraded tier of friendship, after all.”
 「えっと……どうしよう。LikeとLoveの区別の付け方に困っちゃうわ」=“Erhm... I dunno. I wouldn't know how to pick between "Like" and "Love".”
 「今の彼氏と結婚したい？」=“Would you like to marry your current boyfriend?”
 「えっと、それは……不束者だけど、よろしくお願いします……？」=“Erhm, that's... I may be a handful, but please take care of me...?”
@@ -422,7 +422,7 @@
 「官能小説って、持ってたりする？」=“Do you carry around eroticas?”
 「その……勉強のためにと思って……」=“That's... purely as reference material...”
 「……描写がある本は持ってるけど、それ自体がメインの本はないかな」=“...I do have some books that have some illustrations like that, but none that are really 'about' being an erotica.”
-「やっぱり股間が一番感じる？」=“Is your crotch your most sensitive part afterall?”
+「やっぱり股間が一番感じる？」=“Is your crotch your most sensitive part after all?”
 「もう……そ、そんなこと聞かれても……うぅ……か、感じる、これでいいでしょ？」=“Jeez... a-asking me such a question... uuu... i-it is, happy?”
 「その……刺激が強いのは事実だけど……その……い、言わせないで……！」=“That's... it's true that I feel a lot of stimulation there but... uhm... d-don't make me say it...!”
 「も、もうこの話題はダメっ！不埒です、破廉恥ですっ！」=“N-No more of this topic--! It's wicked, shameless--!”
@@ -451,11 +451,11 @@
 「本当？　小説でも大抵まな板とか弄られるから……嬉しい」=“Really? Even in novels, girls like me are usually called things like "flatboards" and such... so I'm really happy.”
 「私の身長の事だけど、あなたはどう思う？」=“What do you think, about my height?”
 「昔は自分でうどの大木だと思ってたけど、やっと自信が持てそう」=“I always thought of myself as way too overgrown but, feel like I can have some confidence in myself now.”
-「ふふっ、元々どんぐりの背比べって感じてたから……選んで貰えて嬉しい」=“Fufu--, average is average afterall so... I'm glad you chose me.”
+「ふふっ、元々どんぐりの背比べって感じてたから……選んで貰えて嬉しい」=“Fufu--, average is average after all so... I'm glad you chose me.”
 「もう、好きだからってすぐ頭をなでるんだから……でも、私も好き」=“Jeez, you always start stroking my head out of nowhere... not that I hate it.”
 「前々から思ってたんだけど……私の体型、醜くない？」=“It's been on my mind for a while but... my figure, it's not ugly to you, is it?”
 「うふふ、そう言って貰えて、いっぱい食べる私が好きになれたわ」=“Ufufu, it's because you always say that, that I've become to like myself more for my big appetite.”
-「ありがとう。ちょっと似通ってても、元々特別なオンリーワンだものね」=“Thank you. I may look as average as they come but, there's really only one of me in this world, afterall.”
+「ありがとう。ちょっと似通ってても、元々特別なオンリーワンだものね」=“Thank you. I may look as average as they come but, there's really only one of me in this world, after all.”
 「妖精みたい……？　そんなこと言われたら、ますます懐いちゃうよ……」=“I'm like an elf...? If you keep saying that stuff to me, I'll end up falling for you even harder...”
 「どこか、物足りない？　もっと頑張って、あなたを虜にしてあげるから」=“Am I lacking, somewhere? I'll try harder, and make you crazy for me.”
 「……今のあなたと、そういう話はしたくないの」=“...I don't want to talk to you, not as you are.”

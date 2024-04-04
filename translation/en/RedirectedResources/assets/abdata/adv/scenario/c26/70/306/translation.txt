@@ -12,7 +12,7 @@
 CHOICE:『歌わずに休む』=Stop singing and rest.
 CHOICE:『今日はもう帰ろうか』=Go home.
 「ちょっと喉休ませようかな」=“Guess we'll take a break. I wanna rest my throat too.”
-「大丈夫？　……やっぱり痛い？」=“You okay? ...Does it hurt afterall?”
+「大丈夫？　……やっぱり痛い？」=“You okay? ...Does it hurt after all?”
 「そういう意味じゃないんだ。大丈夫だよ」=“Don't worry, that's not why. I'm fine.”
 「……不思議だよね。こうして黙ってても話してても、外の人には同じように見えてると思うと」=“...It kind of a weird feeling, isn't it? Even if we chat, or stay quiet like this, to the people outside, it wouldn't make a difference.”
 「うん。確かに……不思議」=“Yeah. It does... feel strange, in a way.”

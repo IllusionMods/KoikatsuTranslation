@@ -20,13 +20,13 @@
 「ううん、きれいだよ……世界で一番」=“No, you really are beautiful... the most beautiful in the world.”
 「は、恥ずかしいこと言うなよ……」=“D-Don't say such embarrassing things...”
 「まあ……[P名]も、なんつーか……かっこいいよ……その格好」=“Well... you too, you know... look cool... in those clothes.”
-「ホント？　よかった。おかしくないかな～って不安だったんだよ。普段こんな格好しないからさ」=“Really? I'm glad. I was really worried, you know, whether I looked strange or not. I normally don't dress up like this, afterall.”
+「ホント？　よかった。おかしくないかな～って不安だったんだよ。普段こんな格好しないからさ」=“Really? I'm glad. I was really worried, you know, whether I looked strange or not. I normally don't dress up like this, after all.”
 「私だって……不安だったよ……。こんなすごいドレスごてごて着込んどいて、似合ってなかったらどうしようって」=“I was... worried too, you know... putting on such lavish clothes, I was wondering whether they'd look like pearls on a pig.”
 「[H名]……」=“[H名]...”
 「私はほら、ずぼらだし、全然女の子らしくないしさ……」=“I mean, you know me, I don't really take good care of myself, I'm not girly at all...”
 「何言ってんだよ。そんなことないって」=“What are you saying? I keep telling you, that's not true at all.”
 「でも、[P名]はそんな私を好きって言ってくれたんだよな」=“But, you always keep saying how much you like me, despite everything, [P名].”
-「だから私もちゃんと言うよ、こんな機会だし……」=“That's why, I'll say it too, we're in this place afterall...”
+「だから私もちゃんと言うよ、こんな機会だし……」=“That's why, I'll say it too, we're in this place after all...”
 「あ、う、うん……」=“Ah, y-yeah...”
 「す、好きだよ。[P名]のこと……世界で一番な」=“I-I love you. [P名]... The most in the world.”
 「[H名]……ありがとう……もちろん、俺も好きだよ……」=“[H名]... Thank you... of course, I love you too...”

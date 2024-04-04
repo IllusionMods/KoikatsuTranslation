@@ -10,7 +10,7 @@
 「ついでに何か食べたいものがあれば、頼んでおこうか。電話注文もできるし、端末からでもＯＫだからね、ここ」=“While we're at it, if there's something you wanna eat, let's order that as well. We can order by phone here, or even through the terminal if we so please.”
 「この端末はそんなことが出来るんですね。えっと、マニュアルはありますか？」=“Huh, this terminal sure is multi-purpose. Erhm, is there a manual?”
 「マニュアル？　端末の？」=“A manual? For the terminal?”
-「そうです。操作を間違ってしまったりしては大変なことになってしまいますから」=“Yes. It'll cause quite a bit of trouble if I mess up while using it, afterall.”
+「そうです。操作を間違ってしまったりしては大変なことになってしまいますから」=“Yes. It'll cause quite a bit of trouble if I mess up while using it, after all.”
 「いやいや、別に大変なことにはならないと思うけど」=“No, I don't think it's that big a deal.”
 「いいえ、歌ってる途中に、間違って曲のキーを変えてしまったり……」=“I disagree, what if I accidentally change the key of the song while in the middle of singing or...”
 「それに、私が変顔して歌ってる時に、店員さんが注文の品を持ってきたりしたらどうするんですか？」=“Furthermore, what will we do if the staff brings in our ordered food while I'm singing while making a strange face?”

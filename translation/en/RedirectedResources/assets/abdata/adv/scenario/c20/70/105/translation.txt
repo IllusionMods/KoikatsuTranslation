@@ -16,8 +16,8 @@
 「[P名]さん……はい、今日のデート、とっても、素敵な一日でした。本当に……ありがとうございます！」=“[P]-san... yes, it was, truly, a lovely date. Thank you... so much!”
 「よかったらさ、また一緒にここに来ない？」=“If you'd like, how about we come here again sometime?”
 「は、はい！　私も来たいです。一度だけじゃなくて、何度でも……あ、あなたと一緒に……」=“Y-Yes! I want to come too. Not just once, many, many times... t-together with you...”
-「[H名]が望んでくれるなら、何度でも一緒に来れるよ。俺たちは恋人だからさ」=“We can do it as many times as you want. We're a couple, afterall.”
-「は、はい……そうです、よね。こ、恋人、ですから……」=“Y-Yes... you're, right. W-We're a couple, afterall...”
+「[H名]が望んでくれるなら、何度でも一緒に来れるよ。俺たちは恋人だからさ」=“We can do it as many times as you want. We're a couple, after all.”
+「は、はい……そうです、よね。こ、恋人、ですから……」=“Y-Yes... you're, right. W-We're a couple, after all...”
 「えへへ……デートの最後に夜景を見てるのって……まさに、恋人同士って、感じ……ですね」=“Ehehe... watching the night sky together at the end of a date... it just makes you feel, "Ah, we really are a couple"... doesn't it?”
 「そうだね……それじゃあさ、さらに恋人らしいことしてみない？」=“Yeah... well then, how about we do something even more couple-like?”
 「それって、もしかして……」=“By that, do you mean...”

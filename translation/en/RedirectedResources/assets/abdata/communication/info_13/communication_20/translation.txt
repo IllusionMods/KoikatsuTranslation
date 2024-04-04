@@ -54,7 +54,7 @@
 「例えばの話なんだけど、[H姓]さんに彼氏がいて……」=“Alright, just as a hypothetical, suppose you had a boyfriend...”
 「わ、私に彼氏……！　うぅ～、想像ができないです」=“M-Me, a boyfriend...! Uu~, I can't imagine it at all.”
 「恋愛ソングの歌詞って……」=“The lyrics on some of these romance songs...”
-「共感できるかは、分からないです……経験、ありませんから」=“I don't know if I can, relate... I don't have any, experience afterall.”
+「共感できるかは、分からないです……経験、ありませんから」=“I don't know if I can, relate... I don't have any, experience after all.”
 「積極的な男性ってどう思う？」=“What do you think of assertive guys?”
 「私にはできないことなので、そういう人は尊敬します」=“I really can't be like that myself so, I respect those sorts of people.”
 「そういう人、ちょっと苦手です」=“I can't handle, those sorts of people.”
@@ -220,7 +220,7 @@
 「あ、ありますけど……内容は秘密ですよ？」=“I-I have but... I'm not telling you, you know?”
 「いえ、聞いたことないです。……少しだけ、興味はあります」=“No, never. ...I am interested in them, though.”
 「ドラマとかでエッチな場面があるとき、結構見ちゃう？」=“When a sex scene starts playing on TV, do you watch it?”
-「それはまぁ見ますね。見なかったら、お話の内容が分からなくなりますし」=“Well, yeah, I do. I wouldn't be able to understand the story if I just turned it off, afterall.”
+「それはまぁ見ますね。見なかったら、お話の内容が分からなくなりますし」=“Well, yeah, I do. I wouldn't be able to understand the story if I just turned it off, after all.”
 「いえ。恥ずかしくなって、途中で番組を変えちゃうときとかあります……」=“No. Sometimes, I get too embarrassed, and switch the channel...”
 「エッチな知識は豊富？」=“Know a whole lot about sex?”
 「たぶん人並には……って、こんなこと言わせないでくださいよぉ……。恥ずかしいです……」=“About as much as the next... wuh, please don't ask me this sort of stuff... it's embarrassing...”
@@ -436,7 +436,7 @@
 「よかった……あなたのためにも私……もっと女の魅力……磨きますからね……」=“Thank god... for you... I'll try to... become an even more charming girl...”
 「そ、そうですよね……やっぱりもっと女らしくしないとですね……」=“R-Right... I need to become a more girly girl...”
 「恋愛って……難しいものだと思いますか……？」=“Do you think... that love is hard...?”
-「やっぱり……難しいですよね……ちゃんとした正解のないことですから……」=“You... think so too, huh... there's no right answer, afterall...”
+「やっぱり……難しいですよね……ちゃんとした正解のないことですから……」=“You... think so too, huh... there's no right answer, after all...”
 「そ、そうですか……？　私はけっこう……難しいなって思ってました……」=“Y-You think so...? To me... it's always been pretty hard...”
 「私と付き合って……何か変わりましたか……？」=“Has anything changed for you... since we started going out...?”
 「本当ですか……！？　うれしいです！　どんなことだろう……」=“Really...!? I'm so happy! I wonder what it is...”

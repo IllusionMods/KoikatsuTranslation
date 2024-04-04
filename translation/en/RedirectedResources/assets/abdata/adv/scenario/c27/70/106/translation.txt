@@ -7,7 +7,7 @@
 「また、あんたはそういうこと言って……」=“Always with that stuff...”
 「嫌、だった？」=“You don't, like it?”
 「……別に、嫌とは言ってないわ」=“...I didn't say that.”
-「あんたが心からそう思ってるってことは、ちゃんと分かってるつもりよ。だって私は……あんたの、恋人だから」=“I understand that you really do mean that, from the bottom of your heart. Afterall, I'm... your girlfriend.”
+「あんたが心からそう思ってるってことは、ちゃんと分かってるつもりよ。だって私は……あんたの、恋人だから」=“I understand that you really do mean that, from the bottom of your heart. After all, I'm... your girlfriend.”
 「ふふ、そっか」=“Fufu, I see.”
 「うぅ、あんたに当てられて、私まで恥ずかしいこと口にしちゃったじゃない」=“Uuu, you're a bad influence, even I'm starting to say embarrassing stuff, see?”
 「ごめんごめん。俺もここの雰囲気に流されてたよ」=“Sorry, sorry. I got a bit carried away by the mood here too.”

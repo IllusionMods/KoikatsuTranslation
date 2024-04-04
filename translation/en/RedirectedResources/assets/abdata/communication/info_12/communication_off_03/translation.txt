@@ -26,7 +26,7 @@
 「女子が好きそうな話題に詳しそうだよね？」=“You're pretty in the know when it comes to things girls like talking about, right?”
 「はいです！　雑誌での情報収集は欠かさないですよ！」=“Yes! I never miss a chance to gather information from magazines!”
 「んー、自分ではそういうつもりはないんですけど……」=“Nn, not that I try to be that way...”
-「やっぱり甘い物とか好きなの？」=“So, you like sweet stuff afterall?”
+「やっぱり甘い物とか好きなの？」=“So, you like sweet stuff after all?”
 「もちろん大好きですよ！　和洋中問わず、なんでもＯＫです！」=“Of course, I love it! I dig everything, whether Japanese or Western!”
 「んー、嫌いじゃないですけど、結構限られてるですよ。甘すぎるのはＮＧですー」=“Nnn, I don't exactly hate it but, I'm a bit picky about it. If it's too sweet I just can't~”
 「自分のこと、どんな娘だって思ってる？」=“How do you see yourself?”
@@ -100,10 +100,10 @@
 「ふふー、こう見えて私も大食いなのです。大飯食らいなのです！」=“Fufu~, I'm a pretty big eater myself, you know? An absolute glutton, really!”
 「ほぇー、小食ですか。それじゃ私と一緒です！」=“Hoeh~, is that so? The same as me then!”
 「さてはあなた、お料理得意だったりしませんか？」=“So then, are you actually like a pretty good cook?”
-「やっぱり！　見た目で分かるですよ！　私もよく作るですから！」=“I knew it! I can tell just by looking! I cook a lot myself, afterall!”
+「やっぱり！　見た目で分かるですよ！　私もよく作るですから！」=“I knew it! I can tell just by looking! I cook a lot myself, after all!”
 「お料理はダメでしたか……ふむー、私と同じですね……あはは」=“Not much of a cook, huh... fumuh~, same as me, huh... ahaha.”
 「運動とかよくする方ですか？」=“Do you exercise often?”
-「おお、さすが男子です！　私も頑張ってるですよ！　一応……一応ですけど……」=“Ooh, a man's a man afterall! I try my best too! "Try"... "try" being the key word...”
+「おお、さすが男子です！　私も頑張ってるですよ！　一応……一応ですけど……」=“Ooh, a man's a man after all! I try my best too! "Try"... "try" being the key word...”
 「時間取るのが大変ですよね。分かる……分かるですよー！」=“It's hard to set aside the time for it, isn't it? I feel you... I feel you~!”
 「もしかしてあなた、意外と勉強好きな人ですか？」=“By any chance, do you actually love studying, deep down?”
 「わぁ、自信満々に答えるところが本物っぽいです！　こう見えて、実は私も結構好きなのです」=“Waah, sounds so real when you say it with that much confidence! It may not seem like it, but I like studying a fair bit too.”
@@ -190,11 +190,11 @@
 「実はすごく頭が良かったりする？」=“Are you actually super smart, behind all that?”
 「ふっふっふー、気付いてしまったですか……さすがなのです。でも成績は教えられないですよ？」=“Fufufu~, so you've realized it, have you... as expected from one so great. But I'm not telling you my grades, you know?”
 「ぐぬぬ……もしかしてそれは嫌味で言ってるですか？」=“Gununu... what do you mean "behind all that"!”
-「やっぱりお洒落には気を遣ってるのかな？」=“Do you pay attention to how you look afterall then?”
+「やっぱりお洒落には気を遣ってるのかな？」=“Do you pay attention to how you look after all then?”
 「どーですかね？　人並みだと思うですけど……あなたがお洒落だと思ってくれればそれでいーです♪」=“I don't know. I think I only do it as much as just about anyone else but... as long as you think I look cute, that's enough for me♪”
 「あんまり気にしてないですよ。あ、でも……気になる人の前だとやっぱり……あははー」=“Not really. Ah, but... if I'm going to be with someone I love then... ahaha~”
 「異性の気持ちを惹く方法とかあるの？」=“Know any ways to get the attention of the opposite sex on you?”
-「それは私にとっても永遠のテーマです。なにせここは女学園ですので！」=“That's an eternal mystery to me as well. Afterall, this is an all girls school!”
+「それは私にとっても永遠のテーマです。なにせここは女学園ですので！」=“That's an eternal mystery to me as well. After all, this is an all girls school!”
 「私も知りたいですよー。どーやったら男子にモテるですか！？」=“I wanna know that too. Just how do I go about being popular with boys!?”
 「ごめんなさいです。こーいうお話したいわけじゃないですよ……」=“I'm sorry. I don't really want to talk about this...”
 「駅前の新しい商業ビル、何が入ってたら嬉しい？」=“There's that new commercial building out in front of the station, right? What sort of shop would you love to see open there?”
@@ -240,7 +240,7 @@
 「ですよねー！　辛いと食べることに集中出来ないですもんね！」=“Of course~! It's hard to focus on eating when it's so spicy, isn't it!”
 「男の人でも甘い食べ物が好きだったりするですか？」=“Do boys like eating sweet stuff too?”
 「えへへ、良かった。私もなのです。いつでもどこでも食べたいですよね、お菓子」=“Ehehe, I'm glad. Me too, actually. I just can't help myself from craving sweets, no matter the time or place.”
-「あ、やっぱりそーでしたか。実は私もそれほど得意じゃないのです。塩系のお菓子の方が好きなのですよ」=“Ah, is that so afterall? I don't have much of a sweet tooth either, actually. Savoury sweets are more my jam.”
+「あ、やっぱりそーでしたか。実は私もそれほど得意じゃないのです。塩系のお菓子の方が好きなのですよ」=“Ah, is that so after all? I don't have much of a sweet tooth either, actually. Savoury sweets are more my jam.”
 「あなた的には……女子の胸ってどういうサイズが好みなのですか？」=“According to you... what sort of a bust size is the best?”
 「えへへっ、やったですっ！　私って大きい方……ですよね？　ね？」=“Ehehe--, yay--! Mine is big... right? Right?”
 「わ、私の胸は普通サイズ……ですか？　良かったー！　それじゃ好みのサイズなのですね！」=“I-Is my chest... average? Yay! It's the size you like then, isn't it!”
@@ -393,7 +393,7 @@
 「はいです。実は私、神経質なタイプでして……先に片付けておかないと気になっちゃうですよ」=“Yes. You'd never guess but, I'm actually a very highly strung person... if I don't take care of it right away, I think about it all day.”
 「全然です。後回し出来るものは何でも後回しですよ。えへへー」=“Not at all. I procrastinate on everything as much as I can. Eheheh~”
 「[H]って夏が好きそうだね」=“You seem like the type to love summers.”
-「えへへ、やっぱりそういうイメージですか？　夏、大好きですよ！」=“Ehehe, does that come through afterall? I love summers!”
+「えへへ、やっぱりそういうイメージですか？　夏、大好きですよ！」=“Ehehe, does that come through after all? I love summers!”
 「残念……私、春が好きなのです……春って眠くって気持ちいいのです……」=“Sorry to disappoint... I prefer spring, actually... spring is so slow and stuff and feels so nice...”
 「何か他のお話したいですよ」=“I want to chat about something else.”
 「最近さ、雨が多くない？」=“Hasn't it been raining a lot lately?”

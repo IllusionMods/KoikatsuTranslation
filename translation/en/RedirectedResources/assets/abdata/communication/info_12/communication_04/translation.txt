@@ -50,7 +50,7 @@
 「あなたみたいな人って言ったらどうする？　ふふっ」=“What'd you do if I said you were the perfect example? Fufu--”
 「うーん、あんまり考えたことがないわ、ごめんなさい」=“Nnn, I've never really thought about it, I'm sorry.”
 「この学園ってあんまりコイバナを聞かないよね」=“It's really hard to come across juicy love gossip in this school, isn't it?”
-「当たり前よ。だって男の人がいないんだから」=“Of course. There's no boys around here, afterall.”
+「当たり前よ。だって男の人がいないんだから」=“Of course. There's no boys around here, after all.”
 「うーん……コイカツ部の活動をちゃんとできてるか不安だなぁ」=“Nnn... I'm worried about whether I'm running the club well or not.”
 「あなたなら大丈夫よ、私も応援してるから、ね？」=“Have some faith in yourself, you're doing fine. I'm there supporting you too, no?”
 「そういえばこの前、偶然耳にしちゃったんだけど……」=“Reminds me, I ended up overhearing this the other day...”
@@ -74,7 +74,7 @@
 「強い心の持ち主なんだろうなって、尊敬するわ」=“Guys like that have pretty strong will, I can respect that.”
 「嫌いではないけれど……付き合うのは大変そうね」=“I don't hate them but... it wouldn't be easy to go out with a guy like that.”
 「女の子同士でエッチな話ってするの？」=“Do girls ever talk about lewd stuff between them?”
-「けっこうするわよ？　ここは女の子だけだし、自然と言えば自然よね」=“We do, you know? It's natural, there's only girls here afterall.”
+「けっこうするわよ？　ここは女の子だけだし、自然と言えば自然よね」=“We do, you know? It's natural, there's only girls here after all.”
 「女子だってするわよ？　……でも、恥ずかしいから、今日の事は内緒ね？」=“Girls are people too, you know? ...But, it's embarrassing so, keep that between you and me, okay?”
 「エッチの経験とか知識ってある？」=“Got any experience or know anything about sex?”
 「経験の話は置いといて、知識はあるわよ？」=“Putting experience aside, I do know what sex is, you know?”
@@ -95,7 +95,7 @@
 「えっと……変なことを聞いてごめんなさいね」=“Erhm... I'm sorry, that was a weird question.”
 「ねえ、あなたって動物好き？」=“Hey, do you like animals?”
 「いいわよね。私はフクロウなんかが好きよ。あのしぐさとかね」=“They're nice, aren't they? I like owls. Especially the way they just, you know, move.”
-「そう。実は私も……動物は、何を考えてるかわからないから」=“I see. Me too, honestly... it's hard to tell exactly what they're thinking, afterall.”
+「そう。実は私も……動物は、何を考えてるかわからないから」=“I see. Me too, honestly... it's hard to tell exactly what they're thinking, after all.”
 「ねえ、あなたってたくさん食べる人？」=“Hey, do you eat lots?”
 「そうなんだ……私も良く食べるねって言われるの、ふふっ」=“I see... people tell me that I eat a lot too, fufu--”
 「私もなの、必要最低限というか、食べられればいいのよね」=“Me too, as long as you get the bare minimum amount of nutrition, who cares, right?”
@@ -111,7 +111,7 @@
 「あなたって、おしゃれには気を遣うほう？」=“Do you pay attention to fashion and things?”
 「私も。おしゃれにはうるさいわよー？　今度チェックさせてね？」=“Me too. I'm a pretty picky girl, you know? Let me check your wardrobe sometime, okay?”
 「よかったー、私もあんまり……学園のみんなには内緒にしてね？」=“Thank goodness, me too... keep it a secret from everyone, okay?”
-「まぁ、好みは人それぞれ、よね」=“Well, everyone's different, afterall.”
+「まぁ、好みは人それぞれ、よね」=“Well, everyone's different, after all.”
 「……それよりも、私に言うことがあると思うけど？」=“...Before that, I do think there's something you should be saying to me?”
 「うん、許してあげる……もう、あんまり怒らせないでね？」=“Yes, I forgive you... Please don't, make me that mad again, okay?”
 「……ごめんなさい、まだあなたを許せそうないの」=“...I'm sorry, I don't think I can forgive you just yet.”
@@ -156,7 +156,7 @@
 「いいわよ。じゃあ着替えてくるから、少し待っていてね？」=“Sure. Well then, I'll go get changed so, wait a little bit, okay?”
 「ごめんなさい、今はちょっとそういう気分じゃないのよね……」=“I'm sorry, I'm really not feeling in the mood for that right now...”
 「ちょっと、一緒に来てくれる？」=“Hey, could you cum with me for a bit?”
-「いいわよ。あなたと歩くのは退屈しないしね」=“Sure. It's never boring to walk together with you, afterall.”
+「いいわよ。あなたと歩くのは退屈しないしね」=“Sure. It's never boring to walk together with you, after all.”
 「人と待ち合わせしてるの……ごめんね」=“I'm waiting on someone... I'm sorry.”
 「きゃっ……わ、私じゃなかったら大事件よ、もう……ほら出て……」=“Kyah--... i-if it was someone else here, it'd have been a real big incident, jeez... c'mon, leave...”
 「ち、ちょっと、どうしてここに居るの……早く出なさいったら」=“H-Hey, why are you in here... leave already, blockhead.”
@@ -243,7 +243,7 @@
 「実は私もなの……。あんまり甘ったるい物を食べると、舌がおかしくなるものね……」=“Actually, me too... Your tongue feels all weird, when you eat too much of it, doesn't it?...”
 「ねえ、聞きたいのだけど……理想的な胸の大きさってある？」=“Hey, I wanted to know... do you have an ideal bust size, in your mind?”
 「私は大きすぎてって思ってたけど……あなたがそう言うなら」=“I thought mine were a bit too big but... if that's how you feel, then~.”
-「そ、そうよね……やっぱり、何事もほどほどよね」=“R-Right... everything in moderation, afterall.”
+「そ、そうよね……やっぱり、何事もほどほどよね」=“R-Right... everything in moderation, after all.”
 「小さい方がいいのね……そう言ってくれたら、自信、持てるかな」=“You prefer them small, don't you... I think I can be more confident about my own, hearing you say that.”
 「ねえ、あなたって身長が高い人が好き？　それとも、低い人が好き？」=“Hey, do you like tall girls? Or do you prefer short girls?”
 「そ、そう……身長の高い女って、どうかなって思ってたから……よかった」=“I-I see... I was wondering, what you thought of tall girls... thank goodness.”
@@ -399,7 +399,7 @@
 「この前の夜、空にUFOが飛んでてさ……」=“The other night, I saw this UFO flying across the sky...”
 「実はそのUFOに乗ってた宇宙人、私なの……なんてね。ふふっ」=“In all honesty, the alien on that UFO was me all along... Kidding. Fufu~”
 「男の浮気って許せる？」=“Would you forgive a guy for cheating?”
-「……私は許しちゃうかな……その時はきっと私にも原因はあるし、ね」=“...I probably would... It'd probably be partly my fault too, afterall.”
+「……私は許しちゃうかな……その時はきっと私にも原因はあるし、ね」=“...I probably would... It'd probably be partly my fault too, after all.”
 「……私はダメかな。あなたが他の誰かを好きだなんて、考えたくないもの」=“...I don't think I could. The idea of you loving someone else, I don't even want to think about it.”
 「彼氏には男らしくしてほしい？」=“Would you rather your boyfriend was a manly man?”
 「そうね……でも、今ももう充分男らしいとは思ってるわよ……？」=“Yeah... but, you're already manly enough, you know...?”
@@ -415,7 +415,7 @@
 「も、もう……私も、大好きよ。ふふっ」=“D-Dummy... I love you lots too. Fufu~”
 「世界で一番愛してる！」=“I love the most in the world!”
 「も、もうわかったから……恥ずかしいわ……！」=“I-I got it... it's embarrassing...!”
-「やっぱり、優しいセックスが好き？」=“Do you like gentle sex afterall?”
+「やっぱり、優しいセックスが好き？」=“Do you like gentle sex after all?”
 「……そ、そうね。あなたの愛を感じられるから、好きよ……」=“...Y-Yes. I love it, since I can feel clearly just how much you love me...”
 「そ、そんなこと……どうどうと訊かないでちょうだい……」=“D-Don't ask me that... so openly...”
 「自分は感じやすいタイプだと思う？」=“Do you think you're more sensitive than average? Physically.”
@@ -528,7 +528,7 @@
 「うん、いいわ。一緒に勉強しましょう」=“Okay, sure. Let's study together.”
 「もしよければだけど、一緒に勉強しない？」=“If it's alright with you, won't you study with me?”
 「ありがとう……ふふっ、あなたと一緒に勉強するの、すごく楽しいから」=“Thank you... fufu~, studying together with you, is a whole lot of fun.”
-「そ、そっか……ううん、いいのよ。あなたの都合もあるものね」=“I-I see... No, it's fine. You're a busy man too, afterall.”
+「そ、そっか……ううん、いいのよ。あなたの都合もあるものね」=“I-I see... No, it's fine. You're a busy man too, after all.”
 「うん、いいわよ。よろしくね、コーチ？」=“Yeah, okay. Take care of me, okay? Coach~”
 「ふふっ、コーチ、一緒に汗を流しませんか？」=“Fufu~, coach, won't you work up a sweat with me?”
 「ありがとう。それじゃあコーチ、さっそく運動しましょう？」=“Thank you. Well then, coach, let's get exercising?”

@@ -2,7 +2,7 @@
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
 「えっと……実は憧れてる事が一つあって……」=“Erhm... there's something I have actually dreamed about...”
-「何かしら？　遠慮しないで言ってみて。ここはそういう事をする部活なんだから」=“What is it? Don't hold back, try telling me. That's what this activities are all about afterall.”
+「何かしら？　遠慮しないで言ってみて。ここはそういう事をする部活なんだから」=“What is it? Don't hold back, try telling me. That's what this activities are all about after all.”
 「ひ、引かないでね？　その……膝枕とか……してもらいたいなって……」=“D-Don't get creeped out, alright? I uhm... I'd love to... try out the lap pillow thing...”
 「ひっ、ひざっ！？　あっ、うん……いいのよ……膝枕ね……ちょっと待って……すーはー」=“L-Lap--?! Ah--, okay... sure... lap pillow, huh... hang on a sec... *deep breath*”
 「うっ、やっぱ無理だよね。ごめん、ちょっと言ってみただけって事で……」=“Uu--, it really is too much, isn't it? Sorry, I just threw it out there since no harm in it...”

@@ -14,7 +14,7 @@
 「授業以外でも適度な運動は必要ですよね」=“Aside from just gym class, a moderate amount of exercise is important, isn't it?”
 「あの、どこへ向かわれているんですか？」=“Uhm, where are you taking me?”
 「行動の意味が理解できません。まずは説明を」=“I can't understand the meaning behind your actions. First, an explanation.”
-「あなたには興味があります。唯一の男子生徒ですし。何か問題でも？」=“I have an interest in you. You're the only boy in this school, afterall. Is there a problem?”
+「あなたには興味があります。唯一の男子生徒ですし。何か問題でも？」=“I have an interest in you. You're the only boy in this school, after all. Is there a problem?”
 「男女の関係とはどういうものか、詳しく知りたいところです」=“I would like to know more about just what a relationship between a man and a woman entails.”
 「興味がおありですか？　仮入部ならいつでもどうぞ」=“Are you interested? If you want to join provisionally, you're welcome to at any time.”
 「うちの部活、見た目よりもハードですよ。見学して行かれますか」=“Our club activites are harder than they look, you know? Would you like to take a look?”
@@ -103,7 +103,7 @@
 「私もです。最近はオリジナルレシピを開発することにハマッているんです」=“I am as well. Recently, I've gotten super into making an original recipe.”
 「出来なくても生活に支障はありませんからね。私もカップ――いえ、何でもありません」=“Even if you can't cook, not like it matters in everyday life. I too love cup--, no, it's nothing.”
 「あなた、体を動かすのはお好きですか」=“Do you like moving your body?”
-「健全な精神は健全な身体に宿る、とも言いますからね」=“They do say "A healthy mind lives in a healthy body", afterall.”
+「健全な精神は健全な身体に宿る、とも言いますからね」=“They do say "A healthy mind lives in a healthy body", after all.”
 「実は私も体を動かすのは少々苦手で……はい、オンチなんです」=“The truth is, I'm bad at exercise too... Yes, I'm completely hopeless.”
 「勉強はちゃんと毎日やっていますか？」=“Do you study everyday?”
 「わからないことがあれば聞いてください。私で良ければ、お教えしますよ」=“If there's anything you don't understand, feel free to ask. If you're fine with me, then I can teach you at any time.”
@@ -191,11 +191,11 @@
 「尽くすことの喜びは何物にも代えがたいですよね」=“It's hard to substitute the joy of being of help with anything else, isn't it?”
 「親切は時としてありがた迷惑にもなりますから、ご注意を」=“Sometimes, too much kindness can lead to annoyance, so be careful.”
 「もっと色んなことができるようになりたいな」=“Man, wish I could learn to do even more things.”
-「何を求められるかわかりませんからね、手広くやるのは良いことかと」=“You never know what you'll need in life, afterall. I think it's good to have a wide reach, to keep your options open.”
+「何を求められるかわかりませんからね、手広くやるのは良いことかと」=“You never know what you'll need in life, after all. I think it's good to have a wide reach, to keep your options open.”
 「手を広げすぎて、どれも中途半端になってしまっては目も当てられません」=“Be careful, for a jack of all trades is a master of none.”
 「何があっても冷静に対処できるようにならないと」=“Gotta become capable of dealing with anything that comes my way, no matter what.”
 「常に不測の事態に備えておけば、問題ありません」=“As long as you always prepare for the unexpected, there won't be any problems.”
-「まだ経験不足なところもあるんですから、仕方ありませんよ」=“It can't be helped, there's still places where we lack real world experience, afterall.”
+「まだ経験不足なところもあるんですから、仕方ありませんよ」=“It can't be helped, there's still places where we lack real world experience, after all.”
 「すみません、少し答えにお時間を頂きたく……」=“I'm sorry, I would like a bit of time before I answer that...”
 「困ったことがあったら何でも言って」=“If you ever need help with anything, let me know.”
 「私なら大丈夫です。お気持ちだけ頂いておきますね」=“I'm alright myself. I appreciate the sentiment though.”
@@ -218,7 +218,7 @@
 「いざという時に備えて、イメージトレーニングはしっかりやっていますが、何か？」=“I do mental rehearsals, yes, just-in-case the situation ever arises. What about it?”
 「妄想なんて、この私がすると？　……なぜそのような疑いの目で見るのです」=“Do you really think I'd have "fantasies"?What's with those doubt-filled eyes?”
 「男の裸に興奮したりする？」=“Does a guy's naked body turn you on?”
-「緊張で心拍数は上がるでしょうね……見慣れないものですので」=“It does make my heart race, from nervousness though... It's not something I'm used to seeing, afterall.”
+「緊張で心拍数は上がるでしょうね……見慣れないものですので」=“It does make my heart race, from nervousness though... It's not something I'm used to seeing, after all.”
 「試しに見せつけようとしないで下さいね。あなたなら大丈夫だと思いますが」=“Please don't try to show off your own as a "test", alright? Though, I wouldn't mind seeing yours all that much.”
 「エッチな本て持ってる？」=“Do you own any porn mags?”
 「何冊かは。あくまで男性心理を知るための参考資料です」=“Quite a few. Though, I use them for reference data, in an attempt to understand the male psychology.”

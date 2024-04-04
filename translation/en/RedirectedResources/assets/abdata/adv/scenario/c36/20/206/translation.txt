@@ -21,7 +21,7 @@
 「そ、それはまぁ……[H名]さんと温泉かぁ～。うわ、想像しただけで、かなりイイよっ！」=“W-Well that... A hot spring visit with [H名]-san, huh~. Uwah, even from just what I can imagine, it sounds great--!”
 「何を想像しているのか知らないけど、やっぱり今の話は無しにした方が良さそうね」=“I don't know what's going through your head right now, but looks like it'd be better to scrap that idea.”
 「え゛っ！　なんで？　臭くない俺と、ずっと一緒にいられるんだよ？」=“Eh--! Why? We could be together all the time if I didn't smell, no?”
-「は？　もう臭くてもいいわ。いい加減貴方の匂いにも慣れたもの」=“Hah? I don't care even if you smell. I'm already quite used to it afterall.”
+「は？　もう臭くてもいいわ。いい加減貴方の匂いにも慣れたもの」=“Hah? I don't care even if you smell. I'm already quite used to it after all.”
 「えへへっ、そう言われると嬉しいな」=“Ehehe--, Hearing you say that makes me happy.”
 「はぁ……ほら、気持ち悪い事ばかり言ってないで、私を甘えさせるんじゃなかったの？」=“Haa... Come on, don't only talk about these gross things, weren't you going to spoil me?”
 「そうだった。えっと、どうしよっか？　俺、どうしたらいい？」=“That's right. Uhm, What shall we do? What would you like me to do?”

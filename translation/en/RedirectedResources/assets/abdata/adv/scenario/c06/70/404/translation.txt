@@ -2,7 +2,7 @@
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
 「まあ……なんて綺麗な洋菓子でしょう。このようなものをいただくのは初めてです」=My... such beautiful sweets. Today's the first time I have ever gotten to eat something of this sort.
-「あ、やっぱり？　もしかしたらそうじゃないかなーと思って連れてきたかったんだ。雑誌とかＳＮＳで特集されてる有名なスイーツだよ」=Ah, afterall? I thought that'd be the case, that's why I picked this place for us today. The sweets here get featured in magazines and show up on social media a lot.
+「あ、やっぱり？　もしかしたらそうじゃないかなーと思って連れてきたかったんだ。雑誌とかＳＮＳで特集されてる有名なスイーツだよ」=Ah, after all? I thought that'd be the case, that's why I picked this place for us today. The sweets here get featured in magazines and show up on social media a lot.
 「有名なすいーつ……世間知らずな私のために、わざわざ連れてきていただいたのですね。貴方のお心遣いに感謝いたします」=Such popular sweets... you went out of your way to bring me here, just for my sake, I see. I'm very grateful for your consideration.
 「彼氏なんだから当然だよ。ほら、食べてみて」=I wouldn't be a very good boyfriend if I didn't consider you. C'mon, eat up.
 「では、いただきます……んっ……」=Well then, I shall... nn--...
@@ -28,7 +28,7 @@
 「私の好みを覚えてくださっていたなんて、感激でございます。貴方の優しさによって巡り合うことが叶ったちょこもかぶらうにー、とても気に入りました」=I am moved, that you remember even my preferences. This choco mocha brownie, which I could only encounter thanks to your kindness, has completely become one of my favourites.
 「そこまで喜んでもらえると、こっちも探した甲斐があるよ」=Man, seeing you be that happy makes the effort I put in searching for it all the more worth it.
 「つきましては、お礼をさせていただきとうございます。貴方は『あ～ん』をする女はお好きですか？」=In accordance, I would like to express my gratitude. Do you like women, who feed you with an "Aahn~"?
-「えっ、[H名]、『あ～ん』を知ってたんだ」=Eh--, so you knew of that thing afterall, huh? The "Aahn~" thing.
+「えっ、[H名]、『あ～ん』を知ってたんだ」=Eh--, so you knew of that thing after all, huh? The "Aahn~" thing.
 「いいえ、私が『あ～ん』を知ったのはつい先日のことです。貴方ともっと親密な関係になるため、学友の知恵袋に頼らせていただきました」=No, I only learned of it the other day. I had turned to the wisdom of my schoolmates, in order to find ways for us to become even more intimate, you see.
 「なるほどね。『あ～ん』してくれる女の子、好きだよ。是非、してもらいたいっ」=Makes sense. I could never hate a woman who'd feed me food like that. I definitely wanna try it--
 「かしこまりました。では、少々お待ちを……すー……はー……」=I understand. Please do wait a moment then... *inhale*... *exhale*...

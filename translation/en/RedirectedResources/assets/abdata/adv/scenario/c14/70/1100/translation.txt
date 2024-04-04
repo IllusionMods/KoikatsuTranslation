@@ -27,7 +27,7 @@
 「新婦から新郎へ」=“Now from the bride to the groom.”
 「[H名]は緊張してない？」=“You don't feel nervous, [H名]?”
 「正直、結構キテる……緊張すんなっていう方が無理だぜ！」=“Honestly, I am, very much... it would be weirder for me to not be!”
-「そうだよね。せっかくの晴れ舞台だもんね」=“Right. It's our big moment, afterall.”
+「そうだよね。せっかくの晴れ舞台だもんね」=“Right. It's our big moment, after all.”
 「ま、でもお前が隣にいれば、ちょっとはマシに感じるよ」=“But, well, you're right next to me so, it's not that bad.”
 「最後に、愛の証としてキスをしていただきます」=“Lastly, as the proof of your love, you may now kiss each other.”
 「…………」=“......”

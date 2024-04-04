@@ -2,11 +2,11 @@
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
 「うーん、慣れない恰好してるから落ち着かない……」=“Mmm, I've really never worn a suit like this before, can't calm down...”
-（……[H名]も同じ何だろうな。なんたって、ウェディングドレスだし）=(...I wonder if [H名]'s in the same boat, right now? It's a wedding dress, afterall.)
+（……[H名]も同じ何だろうな。なんたって、ウェディングドレスだし）=(...I wonder if [H名]'s in the same boat, right now? It's a wedding dress, after all.)
 （どんな感じになってるんだろう。似合ってるだろうけど、いまいち想像つかないや）=(I wonder what she looks like right now. She'd probably rock it but, I can't exactly think of an image.)
 （いよいよ出番か……）=(Showtime, huh...)
 （おぉ、立派な式場だ……）=(Ooh, what an elegant hall...)
-（……[H名]の新郎役として恥ずかしくないよう、堂々としなきゃな！）=(...Gotta put on a good show, afterall, I'm here playing as [H名]'s groom afterall!)
+（……[H名]の新郎役として恥ずかしくないよう、堂々としなきゃな！）=(...Gotta put on a good show, after all, I'm here playing as [H名]'s groom after all!)
 （き、緊張したぁ……ただ歩くだけで、こんなに緊張するなんて……うぅ、もっと気を引き締めないと！）=(I-I was so tense... to think just walking would make me so nervous... uuu, I gotta pull myself together!)
 モブ=Mob
 「これより新婦が入場致します。後方の扉口をご覧ください」=“And now, the bride will make her entrance. Please pay attention to the main door.”

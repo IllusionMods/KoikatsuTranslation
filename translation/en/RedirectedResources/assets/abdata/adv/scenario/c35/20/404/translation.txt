@@ -9,7 +9,7 @@
 「確かに……そんな風に焼くのって難しそうだよね。さすが人気のメニューだ」=“For sure... Baking it like that must be quite tricky. I guess that's why it's a popular item.”
 「ふわっとしとるけど、中はしっとりで……甘みもしっかりあるっちゃけど、後味は軽くって……ふふっ、とにかく幸せになれる味なん！」=“It's super fluffy but, the insides are really mellow... It's really sweet but, such a gentle aftertaste... Fufu--, it's a taste that really makes you happy!”
 「あはは、[H名]、グルメリポーターみたい。感想聞いてるだけで美味しそうなのが伝わってくるよ」=“Ahaha, you sound like a food reviewer, [H名]. I feel like I understand how tasty it is, just from hearing your impressions.”
-「うんっ、だって本当に美味しいっちゃもんっ！　そうだ、もし良かったら君も食べてみる？」=“Yeah--, it really is tasty afterall--! Oh right, wanna try a bite?”
+「うんっ、だって本当に美味しいっちゃもんっ！　そうだ、もし良かったら君も食べてみる？」=“Yeah--, it really is tasty after all--! Oh right, wanna try a bite?”
 「いいの？　ぜひぜひ！」=“You sure? I'd love to!”
 「うん、ちょっと待っとってね……こうして……クリームもたくさん乗せて……っと」=“Yeah, wait a bit, okay?... I'll cut it up... pile on a bunch of cream... there.”
 「はい、あーん、なん」=“Here, open your mouth, aaaahn.”

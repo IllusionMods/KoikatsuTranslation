@@ -3,6 +3,6 @@
 //
 「……貴方という人は……いつも、直接的すぎます」=“...You are... always, so direct.”
 「うあっ、ごめん！　その、ムード？　が、足りなかったかな。えーと……」=“Uwah--, sorry! Uhm, is it the mood? G-Guess I messed that one up, huh? Erhm...”
-「否の応のを申し立てているわけでございません。私の答えは既に決まっております」=“That wasn't meant to be a 'yes' or a 'no'. My answer is already decided afterall.”
+「否の応のを申し立てているわけでございません。私の答えは既に決まっております」=“That wasn't meant to be a 'yes' or a 'no'. My answer is already decided after all.”
 「恋い慕う殿方に求められれば、応の一言が女の冥利。さっきの苦言はただの照れ隠しです……」=“It is a blessing, that all a woman needs to do is say yes, when desired by the man they love. What I said previously was just our of sheer embarrassment...”
 「あ、えっと…気付けなくて、ごめんっ」=“Ah, erhm... sorry, for not realizing--”

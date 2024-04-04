@@ -43,7 +43,7 @@
 「ふぅん、それで口説いているつもりだとしたら、男として終わってるわね」=“Hmm, if that was your attempt at seducing me, then as a man, you're just done, honestly.”
 「フフッ、見え透いたお世辞でご機嫌窺い？　気色悪いわね」=“Fufu--, trying to please me with that obvious flattery? That's pretty creepy.”
 「恋をしたいって思う？」=“Do you want to fall in love?”
-「えぇ。相手は貴方じゃないけどね。家畜と恋はできないもの、フフフッ」=“Yes. Not with you though. Afterall, you can't fall in love with livestock, Fufufu--”
+「えぇ。相手は貴方じゃないけどね。家畜と恋はできないもの、フフフッ」=“Yes. Not with you though. After all, you can't fall in love with livestock, Fufufu--”
 「それ、本気で聞いてるの？　だとしたら貴方、かなり気持ち悪いわよ」=“Are you seriously asking me that? If so, you're rather disgusting, you know?”
 「好きな男性のタイプを教えてくれる？」=“Can you tell me the type of boys you like?”
 「そうね、何事も学ぶ意欲の高い人かしら。先の見えていない奴は嫌いよ」=“Let's see, I suppose those that have a big drive to learn just about anything. I hate guys who can't plan for the future.”
@@ -80,7 +80,7 @@
 「ふぅん、そういう趣味があるのね？　いいわよ、泣く程痛めつけてあげる」=“Hmm, so you like that sort of stuff, huh? Alright then, I'll torment you with one till you cry.”
 「ならすぐに用意しなさい。くだらない発言を後悔させてあげるわ」=“If so, then prepare one at once. I'll make you regret those stupid remarks of yours.”
 「エッチの時は、優しくなったりする？」=“Are you gentle in bed?”
-「しないわ。そういう時こそ、相手の泣き顔を見て楽しむものでしょう？」=“Nope. Afterall, Isn't that the best time to enjoy your partner's tear stained face?”
+「しないわ。そういう時こそ、相手の泣き顔を見て楽しむものでしょう？」=“Nope. After all, Isn't that the best time to enjoy your partner's tear stained face?”
 「普段は優しくないと言いたいの？　ふぅん、貴方何様？」=“Are you trying to imply that I'm not usually gentle? Hmm, who do you think you are?”
 「下半身でしかモノを考えられないの？　救いようのない下等生物ね」=“Can you not think about literally anything other than sex? Truly an irredeemable lifeform, you are.”
 （よし、エッチなことを聞いてみるぞっ！）=(Alright, I'll ask something lewd!)
@@ -106,7 +106,7 @@
 「そう、私も好きよ。ただ、貴方と違って適度にしかしないけれどね」=“I see, I like it too. Unlike you though, I do it in moderation.”
 「フッ、だから肥えるのよ。でもまぁ、無駄な汗をかきたくないという意見には賛成ね」=“Pfft, that's why you're so fat, you know. But well, I agree with you, I don't particularly like pointlessly sweating either.”
 「頭が良さそうには見えないけど、勉強はしているの？」=“You don't look particularly smart but, do you study often?”
-「事実を言ったまでよ。でも、努力までは否定しないわ。勉強は積み重ねですもの」=“I only stated the truth. But, I won't deny your effort. Work piles up easily afterall.”
+「事実を言ったまでよ。でも、努力までは否定しないわ。勉強は積み重ねですもの」=“I only stated the truth. But, I won't deny your effort. Work piles up easily after all.”
 「フッ、そこまで開き直れれば苦労しないのでしょうね。少しだけ見習うわ」=“Pfft, If you're that serious about it then you certainly won't have a hard time. I'll follow your example.”
 「その身なりで聞くだけ無駄だと思うけど、お洒落には気を使っているの？」=“I think it's kinda pointless to ask this with you dressed like that but, do you pay attention to fashion?”
 「プッ、それで？　そうね……今度本当のお洒落というものを見せてあげるわ」=“Pfft, And? Hmm, Indeed... Next time, I'll show you what actual fashion looks like.”
@@ -168,7 +168,7 @@
 「はぁ、本当に低俗ね。そのみっともなく膨らんだもの、潰してあげましょうか？」=“Haa, truly vulgar. That disgraceful inflated thing, shall I crush it?”
 「良かったわね。これで貴方は一生私に逆らえないわ。フフッ」=“Great. With this, you can never disobey me again, for your whole life. Fufu--”
 「ほら、感想は？　男の目線というのも興味あるわ。正直に言ってみなさい」=“Hey, Thoughts? I am rather interested in a man's point of view. Tell me frankly.”
-「よーく見ておきなさい。貴方が水着を見れる機会なんて、この先ないでしょうから」=“Take a gooood look. Afterall, you likely won't get another chance to look at a girl's swimsuit after this.”
+「よーく見ておきなさい。貴方が水着を見れる機会なんて、この先ないでしょうから」=“Take a gooood look. After all, you likely won't get another chance to look at a girl's swimsuit after this.”
 「はぁ、ここはね、私のお気に入りの場所なの。家畜は立ち入り禁止よ」=“Haa, You know, this is my favourite place. Livestock are forbidden.”
 「水着見学ご苦労様。何？　図星でしょう？　今更取り繕っても無駄よ？」=“Good work on that Swimsuit Observation Trip. What? I hit a Bulls-Eye, no? Trying to gloss it over at this point is pointless, you know?”
 「少しは本を読みなさい。足りない脳でも、多少はマシになるでしょう」=“Try reading a book or two sometime. Even with your lacking brain, it'll do you some good.”
@@ -324,7 +324,7 @@
 「いいわ、その怪し気な活動がどんなものか、確かめてあげる」=“Alright, I'll check for myself, just what those questionable club activities are like.”
 「は？　お断りよ。前から思っていたけど、何なのそれ？」=“Hah? No thanks. I've been thinking about it since you brought it up the first time, but just what is with that club?”
 「コイカツ、だっけ？　気が向いたから、してあげてもいいわよ」=“Love activities, was it? I'm feeling like it, so I don't mind doing them with you.”
-「フフッ、当然の答えね。この私が誘ったのですもの」=“Fufu--, that's an obvious answer. Afterall, it's me who invited you.”
+「フフッ、当然の答えね。この私が誘ったのですもの」=“Fufu--, that's an obvious answer. After all, it's me who invited you.”
 「そうやって貴方は、これからもチャンスを逃していくのでしょうね」=“And just like that, you're going to miss a lot more chances in the future.”
 「一緒に帰らない？」=“Wanna walk home together?”
 「あら、珍しくタイミングがいいじゃない。丁度荷物持ちが欲しかったの」=“Oh my, your timing is unusually great. I needed someone to carry my stuff for me.”
@@ -405,13 +405,13 @@
 「周りをよく見なさい。今、私の一番近くにいるのは誰？　そういう事よ」=“Look closely at your surroundings. Right now, who do you think stands the closest to me? That's the answer to your question.”
 「私がどう思っているかで、貴方は変わるの？　忠誠心のない犬は嫌いよ」=“Are you going to change, depending on what I think? I hate unfaithful dogs.”
 「彼氏がデートに遅れてきたら待てる？」=“If your boyfriend was late for a date, would you wait for him?”
-「えぇ、待つわよ。だって、泣く程痛くして、躾け直さなければいけないもの」=“Yes, I would. Afterall, he would need to be disciplined and retrained, to the point of crying from the pain.”
+「えぇ、待つわよ。だって、泣く程痛くして、躾け直さなければいけないもの」=“Yes, I would. After all, he would need to be disciplined and retrained, to the point of crying from the pain.”
 「待たないわ。仮定の話だとしても腹立たしいわね。少し叩かせなさい」=“I wouldn't. Even talking about it hypothetically pisses me off. Let me beat you up a bit.”
 「彼氏が風邪になったりしたら、看病してくれる？」=“If your boyfriend were to catch a cold, would you tend to him?”
 「そうね。栄養剤を注射して、叩いて気合を入れてやれば、すぐ治るでしょ」=“Sure. With nutrients directly injected into him, and getting some spirit beaten into him, I'm sure he'll get better right away.”
 「いいえ、しないわ。私の下僕なら、体調管理くらい出来て当然よ」=“Nope, I would not. If he's to be my manservant, then I expect him to be able take care of his own health.”
 「下僕は主人と結婚できるのでしょうか？」=“Do you think a manservant can marry his master?”
-「可能性はゼロではないわ。身分違いの恋なんて、よく語られる事でしょう」=“The possibility is not zero. Afterall, aren't there lots of stories about love that transcends status and rank?”
+「可能性はゼロではないわ。身分違いの恋なんて、よく語られる事でしょう」=“The possibility is not zero. After all, aren't there lots of stories about love that transcends status and rank?”
 「無理ね。だって下僕ですもの。それ以上になる必要があるわ」=“No way, impossible. I mean, it's a manservant. You'd need to be more than just a manservant to do that.”
 「花の種でも食べてるの？　貴方、脳内が完全にお花畑よ」=“Do you eat flower seeds or something? Your head is completely a field of flowers.”
 「[H名]、好きだ！」=“[H名], I like you!”
@@ -508,7 +508,7 @@
 「そう、それでいいのよ。お互い悪い話ではないでしょう？」=“That's right, Exactly. Neither of us lose out, no?”
 「へぇ、女に恥をかかせるのね。貴方、いつからそんな大層な男になったの？」=“Heh, going to humiliate a woman, huh? Just when did you become such an mighty guy?”
 「ここで[H名]さんとＨしたい」=“I want to have sex with you here, [H名]-san!”
-「私は構わないわよ。貴方が情けない姿を晒す事になるだけだし。フフッ」=“I don't particularly mind, personally. You're the one who's going to be exposing his pathetic self to the world, afterall. Fufu--”
+「私は構わないわよ。貴方が情けない姿を晒す事になるだけだし。フフッ」=“I don't particularly mind, personally. You're the one who's going to be exposing his pathetic self to the world, after all. Fufu--”
 「貴方、性欲だけで生きてるの？　時と場所を弁えなさい」=“Do you subsist off your sex drive alone or something? Keep the time and place in mind.”
 「いいわよ。大声で泣かせてあげる。誰かにみっともない姿を見てもらいましょう」=“No problem. I'll make you cry in a loud voice. Let's show your pathetic figure to someone.”
 「勝手に一人で晒してなさい。下僕の露出癖に付き合う程、暇じゃないの」=“Make a show of it to the public by your lonesome. I don't have so much free time as to accompany my manservant in his exhibitionist tendencies.”

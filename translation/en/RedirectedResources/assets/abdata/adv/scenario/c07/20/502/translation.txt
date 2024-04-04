@@ -3,5 +3,5 @@
 //
 「おーい[H名]、こっちこっち！」=“Here, [H名], I'm here!”
 「あれ、早めに出てきたつもりだったのに、先を越されたか。[P名]は来るのが早いな」=“Huh, I thought I'd try getting here first but, looks like you beat me to the punch. You really do always reach early, don't you?”
-「ははっ、待ってる時間もデートの醍醐味だからね」=“Haha--, the time spent waiting is part of the fun of going on a date too, afterall.”
+「ははっ、待ってる時間もデートの醍醐味だからね」=“Haha--, the time spent waiting is part of the fun of going on a date too, after all.”
 「さて、それじゃ行こうか」=“Now then, where shall we go?”

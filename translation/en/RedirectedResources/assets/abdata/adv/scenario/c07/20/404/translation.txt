@@ -25,7 +25,7 @@
 「あーん……」=“Aaahn...”
 「んむ。ほんとだ、そんなに甘くない……けどおいしい」=“*Chew*. You were right, it's not all that sweet... but it's tasty.”
 「だろ？　って……ん、あれ……？　今のって……なんかカップルっぽくなかったか……？」=“Right? Wait... nn, huh...? That, just now... wasn't that like super lovey-dovey...?”
-「あ、言われてみれば……でもいいんじゃない？　実際、カップルなんだし、気にするようなことでもないよ」=“Ah, now that you say it... but, isn't it fine? We're a lovey-dovey couple afterall, I don't think you need to pay that much mind to it.”
+「あ、言われてみれば……でもいいんじゃない？　実際、カップルなんだし、気にするようなことでもないよ」=“Ah, now that you say it... but, isn't it fine? We're a lovey-dovey couple after all, I don't think you need to pay that much mind to it.”
 「ほら、周りのお客さんだって別に……って、あれ……みんなにやにやしながらこっちみてるな……」=“Look, even the other customers don't find it all that... wuh... everyone's kinda grinning at us...”
 「あーっ！　やっぱり恥ずかしいっっ！！」=“Aah--! So embarrassing--!!”
 （今さらあんなに照れて……かわいいなぁ、[H名]は）=(Blushing to her ears now of all times... She's so cute.)

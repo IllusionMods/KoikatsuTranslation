@@ -5,7 +5,7 @@
 「ははは、確かに足がくたくただ」=“Hahaha, yeah, my legs feel all battered too.”
 「もっと一緒に……っふわぁ」=“We could... --fuwah.”
 「ねぇ～、少しここで眠っちゃってもいい～？」=“Hey~, can I take a short nap here~?”
-「うん、いいよ。もう夜だしね」=“Yeah, alright. It's already night too, afterall.”
+「うん、いいよ。もう夜だしね」=“Yeah, alright. It's already night too, after all.”
 「ごめんね、[P名]くん。できれば話し相手になってあげたいけど……」=“I'm really sorry, [P名]-kun. I really would love to chat with you but...”
 「気にしなくていいさ。ほら、肩を貸すからくつろいでいいよ」=“You don't need to mind it. Here, I'll lend you my shoulder, so just relax.”
 「それじゃあ、お言葉に甘えて……」=“Well then, I'll take you up on that...”

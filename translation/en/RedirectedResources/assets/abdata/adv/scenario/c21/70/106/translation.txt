@@ -37,4 +37,4 @@ CHOICE:『好きだという気持ち』=Her love for you.
 「産声だったよね……」=It was, wasn't it...
 「うっ……高台だから、日が沈んで風が冷たいね。そろそろ行こうか」=Uu--... we're pretty high up, so the breeze is getting kinda cold now, isn't it? Let's go home?
 「うんっ。ねえ、また一緒にこの夜景、見に来てくれる？」=Okay--. Hey, will you bring me here again, to see this view?
-「もちろん。ここは俺と[H名]の思い出の場所だからね」=Of course. It's our precious little spot, afterall.
+「もちろん。ここは俺と[H名]の思い出の場所だからね」=Of course. It's our precious little spot, after all.

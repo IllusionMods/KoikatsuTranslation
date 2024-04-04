@@ -77,7 +77,7 @@
 「え、ええ。興味はあるわ。だって……ねぇ？」=“Y-Yes. I do. I mean... you know?”
 「な、何言ってんのよ！　興味があるなんて言えるわけないでしょ」=“W-What're you saying! Do you really think I can answer such a question?”
 「君は、エッチのことについて詳しい方？」=“Are you, knowledgable about sex and sex related things?”
-「そ、そんなの知らないわよ！　だって、あたし女の子なんだから」=“N-Not at all! I'm a girl, afterall.”
+「そ、そんなの知らないわよ！　だって、あたし女の子なんだから」=“N-Not at all! I'm a girl, after all.”
 「そ、そんなの答えられないわ！　変なこと聞かないで！」=“I-I'm not answering that! Stop asking me weird things!”
 「女の子同士で、エッチな話題をする？」=“Do girls talk about lewd stuff, between them?”
 「し、しないわよ！　そんな話、するわけないじゃない」=“W-We don't! Of course we don't, why would you think we do?”
@@ -191,7 +191,7 @@
 「ええ、好きよ。花と一緒だと、とても心が和むの」=“Yes, I love it. When I'm near flowers, my heart feels so relaxed.”
 「嫌いではないけど、好きってほどでもないかも……」=“I don't hate it but, I wouldn't say I 'like' it...”
 「言葉づかいは意識するほう？」=“You the type to pay attention to how you talk?”
-「そうね。あたしは結構そういうのに敏感よ。品がでるからね」=“Yeah. I'm pretty sensitive to that sort of stuff. It's what people use to form an impression, afterall.”
+「そうね。あたしは結構そういうのに敏感よ。品がでるからね」=“Yeah. I'm pretty sensitive to that sort of stuff. It's what people use to form an impression, after all.”
 「意識しないわね。そんなの考えてたら、頭がおかしくなっちゃう」=“Not really. If I thought so much about that stuff, I'd go crazy.”
 「ゲームでよく遊んだりする？」=“Play games often?”
 「ええ、よく遊ぶわよ。今度一緒にやる？　あたしは強いわよ～」=“Yes, quite a bit. Wanna play together sometime? I'm pretty good, you know~”
@@ -200,7 +200,7 @@
 「そういえば、学園へ行く途中でクーポンをもらったよ」=“Reminds me, on the way to school, someone gave me this voucher.”
 「へえ、いいな～。今度それでおごってよ」=“Hoh, nice~. Give me a treat later then.”
 「彼氏がほしいって思ったことはある？」=“Ever wanted a boyfriend?”
-「そ、それはもちろんよ。だって、女の子なんだもの」=“O-Of course. I'm a girl, afterall.”
+「そ、それはもちろんよ。だって、女の子なんだもの」=“O-Of course. I'm a girl, after all.”
 「その、漫画みたな恋に憧れはあるけど……正直、よく分からないわ」=“Uhm, a romance like the sort that happens in manga would be nice but... I honestly dunno.”
 「どんなシチュエーションで運命の人と出会いたい？」=“In your head, how would your meeting with your fated go?”
 「そうね。あたしが強盗犯の人質になったところに白馬で駆けつけて助けて欲しいわ」=“Good question. Let's see, I'd be taken hostage by a robber, and he would come rushing on a white horse to save me.”
@@ -231,7 +231,7 @@
 「なによその話！　……き、興味ないけど、その続きを話してもいいのよ？」=“What's with that topic! ...N-Not that I'm interested but, you could keep talking about that, you know?”
 「学園に来て男友達がほしいと思ったことはある？」=“Ever wanted to have guy friends, after you started coming to this school?”
 「そうよね……わかった！　これからはあたしを男だと思って話してくれていいわよ！」=“Makes sense... alright, I've got it! Feel free to talk to me like I'm one of your guy friends, from now on!”
-「そうよね！　あんたにはあたしがいるものね！」=“I see! Makes sense, you do have me, afterall!”
+「そうよね！　あんたにはあたしがいるものね！」=“I see! Makes sense, you do have me, after all!”
 「コーヒーはブラックで飲むほう？」=“You drink your coffee black?”
 「そうよね！　無糖のブラックコーヒーって、おいしいのよね～」=“Right! Unsweetened black coffee's great, isn't it~”
 「やっぱり？　絶対コーヒーにはミルクが欠かせないわよね」=“You too? Coffee without milk is just undrinkable, isn't it?”
@@ -459,7 +459,7 @@
 「ねえ、あたしの背丈って、あんたの好み？」=“Hey, is my height, to your liking?”
 「そう！　あんたはあたしが背が高くても関係ないのね。嬉しいわ」=“I see! Even with how tall I am, you simply don't care, do you? I'm really happy.”
 「よかった。自分で言うのもアレだけど、ちょうどいいものね」=“Thank god. I mean, even if I am saying so myself, I am the perfect size, aren't I?”
-「よかった。あたし、これ以上は伸びないから。うふふ」=“Great. I'm not getting any taller than this, afterall. Ufufu.”
+「よかった。あたし、これ以上は伸びないから。うふふ」=“Great. I'm not getting any taller than this, after all. Ufufu.”
 「ねえ、あたしの体型、あんたの好みかしら？」=“Hey, is my figure to your liking?”
 「そう、それならよかった！　実は、ちょっと気にしてたのよ」=“I see, good then! It's actually been on my mind.”
 「よかったぁ。少しお肉付いてたから、ダイエットして正解だったわ！」=“I'm so glad~. I was starting to put on some weight, looks like going on a diet was the right answer!”

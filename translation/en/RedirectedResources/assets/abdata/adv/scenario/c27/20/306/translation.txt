@@ -9,7 +9,7 @@
 「そうだね……」=“Hmm, let's see...”
 CHOICE:『それじゃ、最後までいようか』=『Let's stay till the end then.』
 CHOICE:『今日はもう帰ろうか』=『Let's go home for today, shall we?』
-「それじゃ、最後までいようか。[H名]も歌い足りないみたいだしね」=“Well then, let's stay till the end. Feels like you haven't had enough singing in you yet, afterall.”
+「それじゃ、最後までいようか。[H名]も歌い足りないみたいだしね」=“Well then, let's stay till the end. Feels like you haven't had enough singing in you yet, after all.”
 「……歌は、充分歌ったわ。ただ、もう少し……あんたと、いたかったの」=“...I've already sang plenty enough. It's just that, I just wanted to... stay with you, for a bit longer.”
 「[H名]……嬉しいよ」=“[H名]... I'm really happy.”
 「……」=“...”

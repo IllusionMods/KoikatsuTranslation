@@ -40,7 +40,7 @@
 「知らなかった。教えてくれてありがとぉ！」=“I hadn't. Thanks for telling me!”
 「友達から男の人を紹介された事ってないの？」=“Have your friends never introduced to you any boys?”
 「ないかな。男の人とこんなに会話したの、あなたが初めてだもの」=“Don't think so? You're the first guy I've ever chatted with this much.”
-「うん。今まではあんまり興味がなかったものだから」=“Yeah. I didn't have any interest in that sort of thing, afterall, until now that is.”
+「うん。今まではあんまり興味がなかったものだから」=“Yeah. I didn't have any interest in that sort of thing, after all, until now that is.”
 「恋はしたことあるの？」=“Have you ever fallen in love?”
 「言葉の意味は知ってるのだけれど、気持ちはわからない。だから気になってるの」=“I know the meaning of the word itself, but not the feeling, no. That's why, I'm starting to get curious.”
 「恋はしたことないから、誰か教えてほしいなぁ」=“Nope, never, which is why I'd love it if someone taught me the feeling.”
@@ -205,7 +205,7 @@
 「白馬の王子様が目の前に現れたら、まず私、憧れよりも先にびっくりしちゃうよ」=“If a prince charming on a white horse really showed up in front of me, I'd be more startled than anything else.”
 「結婚はいつぐらいまでにしたい？」=“By what age do you want to get married?”
 「大好きって思った人が現れたら、すぐにでもその人と結婚式を上げたいなぁ」=“If a person I really fell in love with were to appear in front of me, I'd love to get hitched on the spot.”
-「ん～……私には難しいかなぁ。どうしてケッコンするのかもよくわかんないんだもの」=“Nn~... I don't exactly have an answer for you. I still don't know why I would even get married to begin with, afterall.”
+「ん～……私には難しいかなぁ。どうしてケッコンするのかもよくわかんないんだもの」=“Nn~... I don't exactly have an answer for you. I still don't know why I would even get married to begin with, after all.”
 「理想的な結婚生活って考えたことある？」=“Ever thought about your ideal married life?”
 「うん♪　幸せだなぁって言葉が口癖になるような結婚生活を送りたいかなぁ」=“Yeah♪ I'd love to live the sort of life where it wouldn't sound weird to constantly say "I'm so happy right now" and all.”
 「ケッコンがよくわからないから、理想が思いつかないよ……」=“I don't really get marriage, so I couldn't really say about an "ideal" one...”
@@ -331,7 +331,7 @@
 「えへへっ。じゃあ、帰ろっかぁ♪」=“Ehehe--. Well then, let's go~♪”
 「うっう～残念だなぁ……」=“Uuu~, what a shame...”
 「もしよかったら、デートしない？」=“If it's alright, won't you go on a date with me?”
-「デートは私にはまだ早いよ。だってなにしたらいいのかよくわかんないもの」=“I think it's still too early for me to be going out on dates. I just have no idea about what I'm supposed to do on them, afterall.”
+「デートは私にはまだ早いよ。だってなにしたらいいのかよくわかんないもの」=“I think it's still too early for me to be going out on dates. I just have no idea about what I'm supposed to do on them, after all.”
 「えっと……デートがしたいんだけど、どうかな？」=“Erhm... I wanna go out on a date with you, how about it?”
 「いいよぉ♪　えへへっ。デートってワクワクするよね」=“Sure♪ Ehehe--, dates make you really excited, don't they?”
 「最近はちょっと忙しくて……ごめんなさい」=“I've been a bit busy lately... I'm sorry.”
@@ -405,7 +405,7 @@
 「ずっと待ってると思うなぁ。だから遅れてもいいけど、絶対にちゃんと来てね？」=“I think I would, for as long as it takes. So, you can be late if you have to, but never stand me up, okay?”
 「あんまり遅かったら、私の方から迎えに行っちゃうよ？」=“If you take too long, I'll just come to you instead, you know?”
 「友達と彼氏だったらどっちを優先する？」=“Between a friend and your boyfriend, who would you prioritize?”
-「う～……難しいなぁ。でもあなたを優先しちゃうかも。だって一緒にいたいんだもの」=“Uu~... that's a tough one. But, I might pick you, I think. Afterall, I wanna be with you.”
+「う～……難しいなぁ。でもあなたを優先しちゃうかも。だって一緒にいたいんだもの」=“Uu~... that's a tough one. But, I might pick you, I think. After all, I wanna be with you.”
 あなたも大切だけど、お友達も同じくらいに大切なの……だから、決められない」=You're important too but, my friends are just as important to me... so, I can't pick.
 「今の彼氏と結婚したい？」=“Would you marry your current boyfriend?”
 「恋人同士はみんな結婚するんじゃないの？　私はそのつもりだったんだけどなぁ」=“Are there couples out there that don't eventually get married? I was always planning on it myself.”

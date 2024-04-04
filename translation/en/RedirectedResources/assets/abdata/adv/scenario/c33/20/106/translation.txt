@@ -7,7 +7,7 @@
 「もちろん、それもあるけど、[H名]さんの本音が聞けたから」=“Of course, there's that as well but, It's because I got to hear your true thoughts, [H名]-san.”
 「……涙って不思議よね。本当に悔しい時と、本当に嬉しい時に流れるんだから。それを同じ場所で流したのも不思議」=“... Tears are so strange. They flow both at times of extreme regrets, and times of extreme happiness. It's also strange that I shed such tears at the same place.”
 「いい思い出に塗り替えられたかな」=“I wonder if I managed to repaint this place with good memories for you.”
-「ええ。あなたと心から一つになれた場所だもの」=“Yes. Afterall, it's the place where we were able to become one, heart and soul.”
+「ええ。あなたと心から一つになれた場所だもの」=“Yes. After all, it's the place where we were able to become one, heart and soul.”
 「……今日の夜景は本当に綺麗。もしかしたら、自分の心の鏡なのかもね」=“... The nightscape tonight really is pretty. Maybe it's a mirror, reflecting my heart.”
 「あなたと真剣に付き合って、他の子にも負けたくないって気持ちでいるから、あなたとの時間を貴重に思えるし、夜景もキラキラして見える」=“Going out seriously with you, and having the feeling of not wanting to lose to any other girl, I treasure out time together, and the nightscape looks glistening and sparkling too.”
 CHOICE:『[H名]さんの方が綺麗だよ』=『[H名]-san is way more beautiful!』

@@ -47,7 +47,7 @@
 「そうねぇ……それじゃ、今度誰か誘ってきてあげましょうか」=“Mmm... well then, I'll invite someone you'll get along with next time.”
 「好きな男性のタイプってある？」=“Got a type you're into?”
 「真面目な子かしらね。そういう子を見ると、尽くしてあげたくなっちゃうの」=“Earnest boys, I suppose. When I look at them, I just can't help but wanna dote on them.”
-「難しい質問ね……男の子のこと、あまり知らないんだもの」=“What a tough question... I don't really know much about boys, afterall.”
+「難しい質問ね……男の子のこと、あまり知らないんだもの」=“What a tough question... I don't really know much about boys, after all.”
 「男の子とこういう話をするのって意外と照れくさいのね……別の話にしましょう？」=“Chatting with a boy about this stuff is pretty embarrassing... how about we talk about something else?”
 「みんな、俺のことどう思ってるんだろう」=“I wonder what everyone thinks of me.”
 「私から教えてもいいんだけど……ここは直に聞いちゃいましょ♪　練習だと思って、ね」=“I don't mind telling you that myself but... how about you go and ask them yourself?♪ Think of it as practice.”
@@ -448,7 +448,7 @@
 「ふぅ……危なかったわ。蚊があなたを狙っていたの」=“Fuu... that was dangerous. A mosquito was aiming for you.”
 「あなたは立派よ。自信を持っていいわ」=“You're wonderful. Believe in yourself.”
 「そんな風に言われると、照れるね……」=“You're making me blush here...”
-「私が愛した人だもの。大丈夫。真っ直ぐに自分の道を突き進んで」=“You're the man I fell in love with, afterall. It's alright. Walk forward with your head held high, on your own path.”
+「私が愛した人だもの。大丈夫。真っ直ぐに自分の道を突き進んで」=“You're the man I fell in love with, after all. It's alright. Walk forward with your head held high, on your own path.”
 「私のおっぱい、ちゃんと好き……？」=“Do you, love my boobs...?”
 「私のおっぱいも、あなたへの想いではちきれそうよ」=“My boobs are so full of love for you too, they're almost bursting.”
 「うふふ、揉み心地もちょうど良かったかしら」=“Ufufu, aren't they just perfect to rub?”

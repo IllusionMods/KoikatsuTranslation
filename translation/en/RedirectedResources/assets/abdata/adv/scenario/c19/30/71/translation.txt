@@ -2,6 +2,6 @@
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
 「不思議……一緒に勉強してるだけなのに、どこか甘い感じがする……」=“How strange... even though we're just studying together, I just feel so warm inside...”
-「まあ、恋人同士だもんね。なんなら、もっと甘口にする？」=“Well, we're a couple, afterall. Want me to make you feel even warmer?”
+「まあ、恋人同士だもんね。なんなら、もっと甘口にする？」=“Well, we're a couple, after all. Want me to make you feel even warmer?”
 「も、もう……そんなに意識したら、恥ずかしくて集中できないよぉ……」=“J-Jeez... I won't be able to concentrate, if you make me self-conscious about it...”
 「ははっ、ごめんごめん。謝るからノートで顔隠さないでよ」=“Haha--, sorry, sorry. I'll apologize, so don't hide behind your notebook.”

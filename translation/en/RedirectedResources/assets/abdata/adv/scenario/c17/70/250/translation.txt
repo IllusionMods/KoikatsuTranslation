@@ -3,5 +3,5 @@
 //
 「遊園地から帰るときって、どうしても寂しい気持ちになっちゃうよね……」=When going back home from the amusement park, it always feels a bit lonely, doesn't it...
 「まあ、分からなくはないわ」=Well, not like I don't understand.
-「だよね。[H名]さん、ちょくちょくパンフレット眺めてるし」=Of course. Afterall, you keep looking back to the pamphlet they handed out to us.
+「だよね。[H名]さん、ちょくちょくパンフレット眺めてるし」=Of course. After all, you keep looking back to the pamphlet they handed out to us.
 「うぐっ……これは……そう、次に来たとき何に乗るか考えてただけよ」=Uguh--... this is... right, I was just thinking about what rides we'll ride next time, that's all.

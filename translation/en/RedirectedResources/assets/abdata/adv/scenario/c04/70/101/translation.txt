@@ -2,7 +2,7 @@
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
 「やっぱり公園はカップルが多いわね」=“There really are a whole lot of couples here, huh?”
-「公園って、わりとデートの定番だからね」=“It's a pretty standard spot for a date, afterall.”
+「公園って、わりとデートの定番だからね」=“It's a pretty standard spot for a date, after all.”
 「今、私たちはカップルに見えているのかしら？」=“Do we look like a couple to others, I wonder?”
 「うーん……どうだろう？」=“Nnn... who knows?”
 「他人にどう見られてるかまでは分からないよ」=“Can't exactly tell how someone else would see us.”

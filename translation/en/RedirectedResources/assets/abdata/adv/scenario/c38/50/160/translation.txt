@@ -7,4 +7,4 @@
 「なっ！？　何故そうなるのですか？　ぅぅぅ、そういう事を仰られるのでしたら、もういたしませんよ？」=“Wha--?! Why must you go all the way there? Uuuu, if you're going to say stuff like that, I won't do it anymore, you know?”
 「うわっ、ごめん！　それは……それだけはご勘弁をっ！」=“Uwah--, sorry! Just not that... please spare me that!”
 「ふふ、貴方の弱点を発見してしまいましたね……さて、どういたしましょうか？」=“Fufuh, I see I've found one of your weaknesses... now then, whatever shall I do?”
-「えぇぇ……[H名]、やっぱり外でシたの……怒ってる？」=“Eeeh... are you, like... mad afterall?”
+「えぇぇ……[H名]、やっぱり外でシたの……怒ってる？」=“Eeeh... are you, like... mad after all?”

@@ -5,7 +5,7 @@
 「これより新婦が入場致します。後方の扉口をご覧ください」=“And now, the bride will make her entrance. Please pay attention to the main door.”
 （[H名]……）=([H名]...)
 視線を向けて、そのまま目を奪われてしまった。=The moment my eyes landed on her, I couldn't see anything else.
-ウェディングドレスに身を包んだ彼女が、あまりにも綺麗だったから。=She, wrapped in that wedding dress, was way too beautiful, afterall.
+ウェディングドレスに身を包んだ彼女が、あまりにも綺麗だったから。=She, wrapped in that wedding dress, was way too beautiful, after all.
 緊張気味な俺とは対照的に、[H名]は全く動じておらず、いつもの調子で佇んでいる。=Compared to me, sweating bullets as I was, she was standing there, in her usual form, not perturbed in the slightest.
 そんな所も、俺の目には美しく映ってしまう。=Even that side of hers, was beautiful in my eyes.
 （……ほんと、あんな堂々としてて頼もしいな）=(...For real, she really does look reliable, all confident like that.)

@@ -25,7 +25,7 @@
 「そんな、俺は[H名]の彼氏なんだから当然だよ」=“Well of course, I'm your boyfriend so that much is par for the course.”
 「えへへ、[P名]くんって、ホント頼りになるっていうか、優しすぎるよ……」=“Ehehe, [P名]-kun, you're really just so dependable, way too sweet...”
 「それじゃあお言葉に甘えて……何かあったらさ、すぐ頼るからね！」=“Well then, I'll take you up on your words... if I need anything, I'll let you know right away!”
-「うん！　俺も今日一日、[H名]にたくさん楽しんでもらいたいからさ」=“Yeah! I want you to have a blast today too, afterall!”
+「うん！　俺も今日一日、[H名]にたくさん楽しんでもらいたいからさ」=“Yeah! I want you to have a blast today too, after all!”
 「……あはっ、もう十分すぎるくらいだし」=“...Aha--, I'm already having way too much of a blast.”
 「ん？　何か言った？」=“Hm? Did you say something?”
 「んーん！　何にも！」=“Mmmm! Nothing!”

@@ -2,5 +2,5 @@
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
 「男の人って、たくさんご飯食べるんだねぇ。足りるのかなぁ？」=“Boys eat a ton, don't they? Will that really be enough for you?”
-「成長期だからね。最近は食べても食べても、お腹がすくよ」=“I'm a growing boy, afterall. No matter how much I shovel down, it's never enough.”
+「成長期だからね。最近は食べても食べても、お腹がすくよ」=“I'm a growing boy, after all. No matter how much I shovel down, it's never enough.”
 「そうなんだぁ、じゃあ私の分も少しだけ分けてあげるね」=“I see, I'll share some of mine with you too then.”

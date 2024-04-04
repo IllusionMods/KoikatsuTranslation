@@ -9,7 +9,7 @@
 「……と、曲入れてなかったね……次は何歌う？」=“...So, you didn't queue up another song... What are you going to sing next?”
 「うーん、ずっと歌いっぱなしだったから、少し休憩にしない？　ほら、食事のメニューも結構豊富みたいよ？」=“Well, we've been singing for a while now, wanna take a small break? Look, the menu here also seems to have a lot.”
 「おっ、いいね。それじゃ、何を頼もうか……」=“Oh, good idea. Then, what should we order, hmm...”
-「あっ、これなんかいいんじゃない？　からあげ食べ放題！　男の子だし、いっぱい食べたいでしょ？」=“Ah, doesn't this look good? An all-you-can-eat fried chicken buffet! You're a guy afterall, so you can eat a lot, right?”
+「あっ、これなんかいいんじゃない？　からあげ食べ放題！　男の子だし、いっぱい食べたいでしょ？」=“Ah, doesn't this look good? An all-you-can-eat fried chicken buffet! You're a guy after all, so you can eat a lot, right?”
 「はは、バレてた？　でも、[H名]も結構食べるよね？」=“Haha, is it really that obvious? But, [H名], you also eat a lot, don't you?”
 「ま、まぁね……たくさん食べる女子って……やっぱり引いちゃったりするかしら？」=“W-well, yeah... I guess girls that eat a lot... are a turn off after all?”
 「ううん、全然！　同じくらい食べてくれる女子って、それだけで気を使わなくて済むから、逆に助かるよ」=“No, not at all! Since I don't have to mind myself around a girl that eats about the same, it actually makes it easier for me.”

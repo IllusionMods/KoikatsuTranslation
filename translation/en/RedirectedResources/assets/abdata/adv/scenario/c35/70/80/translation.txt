@@ -3,7 +3,7 @@
 //
 「今日はいつもよりお腹減ってるから特盛りにしようかな。なんだかがっつり食べたい気分なんだよね」=“I feel a lot more hungry than usual so maybe I'll go for an extra large serving. I feel like just stuffing myself today.”
 「あはは、だったら私も大盛にしよーかいな。ちょっと恥ずかしいけど、お腹減りそうなんやもん」=“Ahaha, then maybe I'll go for an extra large serving too. It's a bit embarrassing but, I feel like today's gonna be a long day, so it can't be helped.”
-「お腹が鳴ったら大変だもんね」=“Would be a real pain if your belly starts growling midway through the day, afterall.”
+「お腹が鳴ったら大変だもんね」=“Would be a real pain if your belly starts growling midway through the day, after all.”
 「そそそ、そげん恥ずかしいことしたことなかよ！？」=“I-I-I-I've never done something so embarrassing in my entire life, you know?!”
 「……もしかして授業中に鳴らしたことがあったり？」=“...Have you actually had your stomach growl during class before?”
 「……ノーコメントやけん」=“...No comment.”

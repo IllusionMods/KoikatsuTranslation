@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「何から乗る？　やっぱり絶叫系？」=“Which ride do you want to start with? A screamer afterall?”
+「何から乗る？　やっぱり絶叫系？」=“Which ride do you want to start with? A screamer after all?”
 「うーん、私、普段はあんまり乗らないのよね」=“Nnn, I don't really ride those sorts of rides.”
 「そうなんだ。それじゃ何か別の……」=“I see. Then, guess we'll have to think of something el...”
 「でも、恋人とジェットコースターに乗るのが夢だったの。行くわよ！」=“But, it's always been a dream of mine to ride the roller coaster with my boyfriend. So I'mma go!”

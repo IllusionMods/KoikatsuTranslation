@@ -16,11 +16,11 @@
 「[H名]、観覧車になにか恨みでもあるの！？」=“Do you have a grudge against ferris wheels or something!?”
 「ふふっ、冗談だってば。あとはやっぱり……一緒に乗った恋人同士が、キスをしたり……とか」=“Fufu--, I'm joking, dummy. Aside from that there's of course... couples getting on them, and kissing and... stuff.”
 「そうそう、そういうの……。って、この状況で[H名]の口から聞くとドキドキしちゃうな……」=“Exactly, that sort of thing... Hearing that from your mouth in this situation though, sure does make the heart race...”
-「私も……。だって、こんなシチュエーション、お話の中でしか知らなかったし……」=“Mine too... Afterall, I've never ever heard about a situation like this, aside from inside stories...”
+「私も……。だって、こんなシチュエーション、お話の中でしか知らなかったし……」=“Mine too... After all, I've never ever heard about a situation like this, aside from inside stories...”
 「私自身がこんな風に、誰かと観覧車で二人っきりになるなんて、考えもしなかったから……」=“I never even thought, that I might one day end up in such a situation myself, alone with someone else...”
 「もしかして緊張してる？」=“Are you nervous, by any chance?”
 「ちょっとだけ……してるかも。もっと心の準備をしてから乗ったほうが良かったかなって」=“I might be... just a bit. Wondering maybe if I should have prepared my heart a bit more before we got on.”
-「だって私、いますごくドキドキしてるんだもん……」=“Afterall, my heart's going a thousand miles an hour right now...”
+「だって私、いますごくドキドキしてるんだもん……」=“After all, my heart's going a thousand miles an hour right now...”
 「[H名]……」=“[H]...”
 「キス……してくれる……？」=“Will you... kiss me...?”
 「ああ……」=“Come here...”

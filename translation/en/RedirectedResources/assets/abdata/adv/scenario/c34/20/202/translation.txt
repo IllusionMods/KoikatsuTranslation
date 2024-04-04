@@ -22,7 +22,7 @@
 「どんどんスピードがあがっていくね」=“The speed's going faster and faster.”
 「チョット怖いカラ、お腹ギュッとシテ♡」=“It's a bit scary so, please hold me tight by my belly♡”
 「え、いいの？」=“Eh, you sure?”
-「Ｓｕｒｅ♡　アナタはワタシの王子様ダカラネ♡」=“I'm sure♡ You're my prince, afterall♡”
+「Ｓｕｒｅ♡　アナタはワタシの王子様ダカラネ♡」=“I'm sure♡ You're my prince, after all♡”
 「よーし。ぎゅっ」=“Alright. *hug*--”
 「ギャ～ッ！？　そのギュッ違うヨ！　お腹掴むじゃなくて、腕を回してほしかったノ～！」=“Gyah~!? You're hugging me wrong! I wanted you to wrap your arms around me, not hold my belly~!”
 （ギュッ違いをしてしまった。でも、[H名]の脇腹、やわらかかったな……）=(I fucked that up. But, [H名]'s sides, they were so soft...)

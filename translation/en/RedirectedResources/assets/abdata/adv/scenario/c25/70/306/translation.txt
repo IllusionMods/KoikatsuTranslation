@@ -2,7 +2,7 @@
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
 「ふぅ……歌い疲れちゃった～……」=“Fuu... I'm tired from all that singing~...”
-「二人して連続で歌いまくったからね」=“We just kept going one after another, afterall.”
+「二人して連続で歌いまくったからね」=“We just kept going one after another, after all.”
 「はしゃぎ過ぎちゃったみたい～」=“Looks like we went a bit too overboard~”
 「……あ～、ちょうどいい休憩場所、見つけた～」=“...Ah~, found the perfect spot, to catch a breather~”
 「えっ、どこどこ？」=“Eh--, where? I wanna know too.”

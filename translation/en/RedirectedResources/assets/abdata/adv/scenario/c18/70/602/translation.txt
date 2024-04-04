@@ -5,5 +5,5 @@
 「[H名]……んん……」=“[H名]... nnn...”
 「んっ……んんぅ……」=“Nn--... nnn...”
 「……部屋に入ったらすぐなんですね」=“...You really can't wait, can you? Pushing me down as soon as we got in.”
-「そのために来たからね」=“That's what we came here for, afterall.”
+「そのために来たからね」=“That's what we came here for, after all.”
 「もう、エッチ……」=“Jeez, you perv...”

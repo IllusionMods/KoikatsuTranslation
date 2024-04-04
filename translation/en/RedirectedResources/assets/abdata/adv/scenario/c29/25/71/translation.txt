@@ -2,6 +2,6 @@
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
 「図書室ではなく、部室なんですね」=“At the clubroom, rather than the library, huh?”
-「うん。ほら、図書室だと完全に二人きりってわけじゃないから」=“Yeah. I mean, you know, we can't be ever be truly alone at the library afterall.”
+「うん。ほら、図書室だと完全に二人きりってわけじゃないから」=“Yeah. I mean, you know, we can't be ever be truly alone at the library after all.”
 「あっ……た、確かにそうですね……二人きり、[P]さんと二人きり……」=“Ah--... I-Indeed, that is the case... alone, alone with you, [P]-san...”
 「意識したら緊張してきました……っ」=“I'm starting to get rather nervous now...--”

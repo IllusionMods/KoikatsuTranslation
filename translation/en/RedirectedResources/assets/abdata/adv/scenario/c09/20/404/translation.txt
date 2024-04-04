@@ -16,7 +16,7 @@
 「でも、甘いのは苦手だったんじゃないの？」=“But, I thought you didn't like sweet things?”
 「だから、甘さ控えめ、大人のスイーツよ」=“That's why, it's one of those 'adult sweets', with the sweetness quite understated.”
 「そう言われてもけっこう甘そうに見えるけど……」=“Even if you say that, it looks pretty sweet to me...”
-「そんなことないわ、抹茶だし。もぐもぐ……ほら、そんなに甘くない」=“Not at all, it's matcha and everything, afterall. *Chew chew*... see, it's not that sweet.”
+「そんなことないわ、抹茶だし。もぐもぐ……ほら、そんなに甘くない」=“Not at all, it's matcha and everything, after all. *Chew chew*... see, it's not that sweet.”
 「ひとりで食べて、ひとりで納得されてもな……」=“Eating by yourself, and agreeing with yourself too...”
 「うるさいわね。そんなに言うならあんたも食べてみなさいよ」=“Shaddup. Just try a bite and see for yourself.”
 「それじゃあ、あーんして食べさせてくれる？」=“Well then, will you feed it to me?”

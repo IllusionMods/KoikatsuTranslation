@@ -16,4 +16,4 @@
 「た、た、大したことなかったな！」=“T-That was nothing, not a big deal at all!”
 「[H名]……俺の手をそんなに握りしめて、どうしたの？」=“[H名]... why've you got my hand in a deathgrip then?”
 「べ、別に！　お前が、び、ビビってねえか心配してやってるんだぜ！」=“N-No reason! I'm just worried, a-about you, if you're gonna collapse on me from the fear, and stuff!”
-（こんなに強がってる[H名]が見られるなら、ジェットコースターも悪くはないかもしれないな……）=(That ride's not all that bad afterall, not when I get to see her like this afterwards...)
+（こんなに強がってる[H名]が見られるなら、ジェットコースターも悪くはないかもしれないな……）=(That ride's not all that bad after all, not when I get to see her like this afterwards...)

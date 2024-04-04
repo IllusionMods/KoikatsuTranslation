@@ -196,7 +196,7 @@
 「有難いことに、私の周りに怖いと思わせるような殿方はおりませんので」=“By god's grace, there are no men in my life who I find particularly scary.”
 「別のお話にいたしませんか？」=“Could we talk about something else?”
 「そういえばこの前、信号待ちしてたら……」=“Reminds me, the other day, when I was waiting on this traffic light...”
-「殿方特有の行動ですね。女はそういったことはいたしません」=“Truly, that is an act unique to men. Women do not do such things, afterall.”
+「殿方特有の行動ですね。女はそういったことはいたしません」=“Truly, that is an act unique to men. Women do not do such things, after all.”
 「付き合う男性に求める条件ってある？」=“Is there anything you'd want in a guy, for you to date him?”
 「強いて申し上げるなら、誠実さでしょうか」=“If I really must pick something, I suppose it'd have to be sincerity.”
 「私は求める側ではなく、求められる側ですので」=“As a woman, I shouldn't be doing the desiring, but rather be desired.”
@@ -443,7 +443,7 @@
 「はい。幾久しくよろしくお願い致します」=“Yes. I shall be with you forever.”
 「こうも幸せですと、喧嘩や別れが恐ろしくなります」=“I feel so happy, that I fear a future quarrel, or worse, a parting.”
 「そういう時はちゃんと話し合おう」=“Let's talk things out properly if that happens, okay?”
-「そうですね。そのための恋活部ですよね」=“Indeed. Communication is what our club exists for, afterall.”
+「そうですね。そのための恋活部ですよね」=“Indeed. Communication is what our club exists for, after all.”
 「貴方がこの学園に転入してこられなかったら、私はどうなっていたでしょう」=“If you had never transferred into this school, I wonder what I would have been like, right about now?”
 「それはそれで魅力的だったと思うよ」=“Probably just as attractive as you are now.”
 「うふふ。でも私は、今の私が好きです。これからもよろしくお願いいたします」=“Ufufuh. However, I prefer the me I am right now. Please stay by my side, okay?”
@@ -522,7 +522,7 @@
 「うふふ、何よりも楽しみにしております」=“Ufufuh, I am looking forward to it more than anything else.”
 「今度のお休み、空いておりますか？　もしお時間をいただけるなら、デートに行きたいのですが……」=“Do you have time on our next day off? If you can spare some, I would like to go on a date...”
 「うふふ、デートという言葉、前から使ってみたかったんです。当日はよろしくお願いいたします」=“Ufufuh, I have always wanted to use the word 'date' at least once. I shall leave the specifics to you.”
-「やっぱりお忙しいですよね。私は空いておりますので、何かありましたらご連絡ください」=“You are busy afterall. It is no matter. I am free on our next day off, so please contact me if you end up free on the day.”
+「やっぱりお忙しいですよね。私は空いておりますので、何かありましたらご連絡ください」=“You are busy after all. It is no matter. I am free on our next day off, so please contact me if you end up free on the day.”
 「では、最近ようやく授業に付いていけるようになった英語をお願いいたします」=“Well then, please help me with English. With your help, I have finally started being able to keep up in class.”
 「試験に向けて勉強をするつもりなのですが、ご一緒にいかがですか？」=“I am planning on refreshing the various subjects in preparation for the next exam, would you like to join me?”
 「うふふ、実は勉強の成果を見ていただきたくて。もちろん英語の成果です」=“Ufufuh, I actually wanted to show you how much I've improved. At English, I mean.”

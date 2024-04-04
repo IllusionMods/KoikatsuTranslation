@@ -14,5 +14,5 @@
 「はい！　すごくお似合いで素敵なカップルさんでしたので、是非にと声をかけさせていただきました！　いかがでしょうか？」=“Yes, I am! You guys just look so good together, such a lovely couple, I just had to call out to you. How about it?”
 「どうする？　[H名]の家って神前式っぽいけど」=“What do you say? I feel like your family'd be more about the Japanese sort of wedding.”
 「祖母はそう望んでおりますが、私は伴侶となる殿方のご意向に従いたいと思っております。ですから、良い経験になるのではないでしょうか」=“My grandmother certainly hopes for one such wedding, but I'd personally rather go with whatever my man desires. So I do wonder if it won't be a truly enlightening experience for us.”
-「じゃあ、[H名]のウェディングドレス姿を見たいっていう俺のワガママ、聞いてもらおうかな。俺たちでよければお願いします！」=“Then, guess I'll just have you satisfy one of my dreams today. I do wanna see you in one of those dresses, afterall. If you'll have us, then please let us model for you!”
+「じゃあ、[H名]のウェディングドレス姿を見たいっていう俺のワガママ、聞いてもらおうかな。俺たちでよければお願いします！」=“Then, guess I'll just have you satisfy one of my dreams today. I do wanna see you in one of those dresses, after all. If you'll have us, then please let us model for you!”
 「ありがとうございます！　それでは、さっそく式場までご案内いたしますね！」=“Thank you very much! Then, I'll take you both to the wedding hall!”

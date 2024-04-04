@@ -2,7 +2,7 @@
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
 「曲、随分歌いましたね」=“We sure sang a lot, didn't we?”
-「二人だと順番が回りやすいからね。疲れたりしてない？」=“With just the two of us, the turns pass quite quickly, afterall. Are you tired?”
+「二人だと順番が回りやすいからね。疲れたりしてない？」=“With just the two of us, the turns pass quite quickly, after all. Are you tired?”
 「私は平気です。あなたはどうですか？」=“I'm fine. What about you?”
 「俺も大丈夫だけど、歌いたい歌がなくなってきたかな」=“I'm good too, but I've run out of songs I want to sing to be honest.”
 「では帰りますか？」=“Then, shall we go home?”

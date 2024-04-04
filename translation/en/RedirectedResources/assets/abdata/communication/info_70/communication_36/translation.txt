@@ -31,7 +31,7 @@
 「プッ、お洒落って、何その言い方……だから貴方はダサいのよ」=“Hah, 'fashion-conscious' he said, what's with that speaking style? That's why you're uncool”
 「自分の性格って好き？」=“Do you like your character?”
 「好きよ。自分で好きにならないで、誰が好きになってくれるというの？」=“I do. If you don't like youself, then who will?”
-「好きも嫌いもないわ。これが私だもの。誰に何を言われようと、変えるつもりもない」=“I neither like or hate it. It's me afterall. No matter what others say, I don't plan to change.”
+「好きも嫌いもないわ。これが私だもの。誰に何を言われようと、変えるつもりもない」=“I neither like or hate it. It's me after all. No matter what others say, I don't plan to change.”
 //「貴方、退屈ね。もう少し楽しませてくれると思ったのだけれど」=
 「えっとぉ……女の子の好きな話題ってどんなのかな？」=“Umm... What do girls like to talk about?”
 「それを私に聞くの？　自分が無能だって言っているようなものよ？」=“Are you asking me this? It's like saying you're incompetent.”

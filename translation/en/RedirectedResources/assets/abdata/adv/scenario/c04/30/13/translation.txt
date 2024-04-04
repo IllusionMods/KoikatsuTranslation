@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「で、デート……も、もちろんいいわよ。恋人、だものね……！」=“A-A date... o-of course, it's a yes. We're a couple, afterall...!”
+「で、デート……も、もちろんいいわよ。恋人、だものね……！」=“A-A date... o-of course, it's a yes. We're a couple, after all...!”
 「ど、どうしたの？　顔がすごく赤いけど……」=“W-What's the matter? Your face's burning up...”
 「う、ううん、大丈夫よ……デート、楽しみにしてるわねっ！」=“N-No, it's nothing, I'm okay... I'm really, looking forward to it, okay--?!”

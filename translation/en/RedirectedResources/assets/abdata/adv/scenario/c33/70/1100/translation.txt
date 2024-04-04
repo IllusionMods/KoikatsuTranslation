@@ -19,7 +19,7 @@
 「では、二人の誓いの印として、指輪の交換を致します」=“Then, as the proof of your vows, you may now exchange the rings.”
 「初めに新郎から新婦へ」=“First from the groom to the bride.”
 「[H名]さん、綺麗だよ」=“[H名], you're beautiful.”
-「あなたもバッチリ決まってる。でも、当然よね。私の姓を変えたんだから」=“You look perfect too. But, that's natural. I've changed my name for you, afterall.”
+「あなたもバッチリ決まってる。でも、当然よね。私の姓を変えたんだから」=“You look perfect too. But, that's natural. I've changed my name for you, after all.”
 「これからは[P姓][H名]として、よろしくね」=“From now on, I'll be [H名] [P姓], so do take care of me.”
 「ふふ、夢みたい」=“Fufu, it's like a dream.”
 「夢じゃないよ」=“It's not a dream.”

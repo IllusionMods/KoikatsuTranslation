@@ -33,7 +33,7 @@
 「ふふ、大好きって言われるの、大好きだよ」=“Fufu, I love it when you say that you love me.”
 「……でも、あんまり下まで降りちゃうと、逆に下から見えちゃうんじゃない？」=“...But, if we start going down, won't it actually become easier to see us from down there?”
 「そうね……それじゃ、ここでキス……しましょうか。ごめんなさいね、ころころ変えちゃって」=“You're right... well then, let's kiss... here. I'm sorry, I keep flipflopping on you.”
-「ううん、気にしてないよ。[H名]とキスできるだけで、嬉しいからさ」=“It's fine, I don't mind it. Just being able to kiss you, makes me happy afterall.”
+「ううん、気にしてないよ。[H名]とキスできるだけで、嬉しいからさ」=“It's fine, I don't mind it. Just being able to kiss you, makes me happy after all.”
 「[H名]……んんっ……」=“[H名]... nnn--...”
 「ん、ぁ……ん……」=“Nn, ah... nn...”
 「……素敵なキスだったね」=“...That was a wonderful kiss, wasn't it?”

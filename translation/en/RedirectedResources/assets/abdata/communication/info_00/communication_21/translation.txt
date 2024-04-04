@@ -46,7 +46,7 @@
 「あるけど、私自身経験がないから無難なことしか言えてないかも」=“I have but, I don't have any experience myself so I can only really suggest safe stuff, you know?”
 「ないよーだって私、誰かと付き合ったこととかないもん」=“Nope, I mean, I've never even gone out with anyone.”
 「好きな男性のタイプってある？」=“Got a type of guy that you like?”
-「やっぱり、優しい人がいいかな？　一緒に支え合いたいって思うし」=“I guess I'd default to a sweet, kind guy afterall? Like, I just want us to support each other, you know?”
+「やっぱり、優しい人がいいかな？　一緒に支え合いたいって思うし」=“I guess I'd default to a sweet, kind guy after all? Like, I just want us to support each other, you know?”
 「まだ付き合ったことないから、自分でもよく分からないかも」=“I've never gone out with anyone so, I don't think I know myself, even.”
 「男女でこういう話するのって恥ずかしいし、別のにしない？」=“It's kinda embarrassing to chat about this stuff with a guy, so could we talk about something else?”
 「コイバナ……コイバナ……うーん、ホットな話題がないなぁ」=“Love gossip... love gossip... nnnn, is there really nothing in this place~?”
@@ -205,7 +205,7 @@
 「夢見がちって思われちゃうかもだけど、やっぱり憧れちゃうな」=“At the risk of sounding like someone who spends all day daydreaming, yeah.”
 「小さい頃は憧れてたけど、今はもっと親しみやすい人がいいかな？」=“Back when I was a kid, yeah, but nowadays I'd almost rather a man that's easier to get along with?”
 「いつぐらいまでに結婚したいとかある？」=“By what age do you want to get married?”
-「詳しい歳は恥ずかしいから教えないけど、あるよ、女の子だもん」=“It's embarrassing so I'm not gonna give you an exact number but, I do have a number. I'm a girl, afterall.”
+「詳しい歳は恥ずかしいから教えないけど、あるよ、女の子だもん」=“It's embarrassing so I'm not gonna give you an exact number but, I do have a number. I'm a girl, after all.”
 「考えたことないけど、落ち着いて付き合える人が見つかったときかな？」=“I've never really thought about it but, I guess once I find the one to settle down with?”
 「理想的な結婚生活って考えたことある？」=“Ever thought about your ideal married life?”
 「あるよー。とりあえず旦那さんと仲良く暮らせたらいいなって」=“I have~. As long as me and the husband get along, I can think of the rest from there.”
@@ -295,7 +295,7 @@
 「ねえ、もし迷惑じゃなかったら……私と付き合ってください！」=“Hey, if it's not a bother... please go out with me!”
 「えぇっいいの！？　わ、わ～～♪　嬉しいよ～これからよろしくね！」=“Eeeh--, are you sure?! Y-Yay~♪ I'm so happy~, alright!”
 「そ、そっか、ダメか～。でも、これからもお友達だよね？　えへへ……」=“I-I see, I guess I have no shot~. But, we're still friends, right? Eheheh...”
-「あの、答えはわかってるんだけど、やっぱり好きで……ダメかな？」=“Uhm, I know your answer already but, I really do love you afterall... is there really no chance?”
+「あの、答えはわかってるんだけど、やっぱり好きで……ダメかな？」=“Uhm, I know your answer already but, I really do love you after all... is there really no chance?”
 「……ホント？　ホントのホント！？　わぁい、キミの彼女になれた～」=“...Really? Really really?! Yay~, I get to be your girlfriend~”
 「う、うん、わかってた。だけど、これからもキミを好きでいていいよね？」=“Y-Yep, I knew already. But, I can keep loving you still, right?”
 「あ、あのさ……きみとHしたいなって」=“H-Hey... I wanted to have sex with you, maybe, hahah.”
@@ -424,7 +424,7 @@
 「アナルでも感じる？」=“Do you enjoy anal too?”
 「も～～～知ってて聞くんだからぁ。じゃあ耳貸して……お尻、好きだよ」=“Jeez~~~, you're asking me that knowing full well what the answer is~. Alright, lend me your ear a bit... I love it.”
 「感じません。断じて感じません……え、その方がそそる？　こらー！」=“Not at all. Not even the slightest bit, mister... eh, that just makes you more aroused? Hey~!”
-「やっぱり股間が一番感じる？」=“So I guess your crotch is the most sensitive place afterall?”
+「やっぱり股間が一番感じる？」=“So I guess your crotch is the most sensitive place after all?”
 「もう開き直っちゃう！　キミのおちんちんのせいで一番感じるの！」=“Alright, I'm done being meek! Yes, your dick makes it feel the best out of anywhere else!”
 「も～……そんなに知りたいなら、自分ので確かめてみれば？」=“Jeez~... if you want to know it that badly, why not check for yourself?”
 「キミがエッチなのはわかってるから、強制話題チェーンジ！」=“I get it plenty that you're a really lewd boy so, time for a forceful topic change!”

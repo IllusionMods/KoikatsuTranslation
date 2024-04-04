@@ -5,7 +5,7 @@
 「そうでもないかな」=“Not really.”
 「即答！？　彼女が愛称考えてきたのよ！　それも寝る間も惜しんで！　普通気になるでしょ！？」=“So quickly?! Your cute girlfriend thought of a nickname for you, you know! I even skipped sleep to do it! A normal guy would be curious, no?!”
 「あー、うん……。ちょっと天邪鬼な態度をとってごめんね。聞かせてほしいな」=“Ah, yeah... sorry for being a contrarian there. I'd love to hear it.”
-「何よ、やっぱり気になってたんじゃない。最初からそう言いなさいよ。それじゃあ、今から呼ぶから心して聞きなさい！」=“What, so you were curious afterall. Just say that from the start. Well then, I'mma say it so ready your heart and listen!”
+「何よ、やっぱり気になってたんじゃない。最初からそう言いなさいよ。それじゃあ、今から呼ぶから心して聞きなさい！」=“What, so you were curious after all. Just say that from the start. Well then, I'mma say it so ready your heart and listen!”
 「……[Pあだ名]」=“...[Pあだ名].”
 「……思ったより照れくさいね、これ」=“...More embarrassing than I thought, that.”
 「ちょっと、その反応はこっちまで恥ずかしくなるじゃない！」=“Hey, even I'm getting embarrassed here, with a reaction like that!”

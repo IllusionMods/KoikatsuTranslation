@@ -8,7 +8,7 @@
 「俺も同じだよ。普通同士、大声出して気持ちよく歌おうよ」=“Same here then. Let's have some fun together, as a pair of average singers.”
 「ん、そうね……」=“Nn, yeah...”
 「あれ……？　なんか緊張してる？」=“Huh...? You nervous?”
-「ちょっと……あんたと、個室で二人きりだし」=“A bit... we're alone here, together, afterall.”
+「ちょっと……あんたと、個室で二人きりだし」=“A bit... we're alone here, together, after all.”
 「まあまあ、あんまり深く考えるなって。俺、[H名]の歌声を聞かせて欲しいな」=“It's fine, no need to think about it so deeply. I wanna hear you sing, [H名].”
 「……で、何歌うか決まった？」=“...So, picked a song yet?”
 「曲がありすぎて、迷っちゃうわね……」=“There's so many, I can't decide...”

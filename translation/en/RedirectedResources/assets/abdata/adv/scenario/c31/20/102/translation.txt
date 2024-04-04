@@ -9,7 +9,7 @@
 「オッケー、いいよ。これだけ晴れてると、体を動かしたくなるよね」=“Okay, sure. When it's this clear out, it makes you want to move your body, doesn't it?”
 「そういう事だ。ペースはおまえに合わせてやるから、すぐにへばったりするなよ？」=“That's right. I'll match my pace with yours, so don't wear yourself out all in one go, alright?”
 「大丈夫だって。競争とか言われたらどうしようかと思ったけど、やっぱり軽く話せるくらいのペースがいいよね」=“It's alright. I would have been at a loss if you were to bring up having a race but, a jog just fast enough to have a light chat while doing so would be nice.”
-「一応デートだからな。私だって、ひたすら走って何も話さないなんて、色気のないのは御免だ」=“I mean, it's a date afterall. Even I'm not so unromantic as to just want to run around without saying a single word.”
+「一応デートだからな。私だって、ひたすら走って何も話さないなんて、色気のないのは御免だ」=“I mean, it's a date after all. Even I'm not so unromantic as to just want to run around without saying a single word.”
 「じゃあ、もっと色気のある運動を……」=“Then, how about we do something a bit more romant...”
 「ストップだ。それ以上言うなよ？　爽やかな雰囲気が台無しになる。そういうのは、後の楽しみにとっておけ」=“Stop right there. Don't finish that sentence, alright? This refreshing mood will come to nothing. Leave that sort of thing for later.”
 「ごめん。じゃあ準備運動をして、早速ジョギング開始だね」=“Sorry. Then, let's quickly get warmed up and start with the jogging.”

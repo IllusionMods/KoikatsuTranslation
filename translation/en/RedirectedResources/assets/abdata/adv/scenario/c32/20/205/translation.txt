@@ -36,6 +36,6 @@
 「ん……あっ……」=“Nn... Aah--...”
 「はぁ……ふふふ。今日のデートの最高の瞬間でした……」=“Haa... Fufufu. This was the best moment of today's date...”
 「そう、よかった。俺もキスしたいって思ってたんだけど、なかなか言い出せなくて……」=“That so? I'm glad. I wanted to kiss you to but, I just couldn't find a way to say it...”
-「……遠慮なんかしなくてよかったんですよ。だって、私とあなたは、もうただの友達なんかじゃないんですから」=“...You needn't have held back, you know? Afterall, me and you, we're no longer simply friends anymore.”
+「……遠慮なんかしなくてよかったんですよ。だって、私とあなたは、もうただの友達なんかじゃないんですから」=“...You needn't have held back, you know? After all, me and you, we're no longer simply friends anymore.”
 「そうだったね……[H名]だって、キスしたかったらいつでも言ってくれていいんだよ。もちろん、それ以上のこともね」=“You're right... You as well, [H名], if you ever want to kiss, just say the word at any time, alright? Of course, we can go further than that too.”
 「は、はい、その時はお願いいたします」=“Y-Yes, I'll be depending on you at that time.”

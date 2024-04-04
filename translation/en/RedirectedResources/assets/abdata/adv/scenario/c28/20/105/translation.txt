@@ -32,7 +32,7 @@
 「嬉しくてドキドキしているわしは、恥ずかしい女ではないか？」=“Do I not seem embarrassing, having my heart race so, out of happiness?”
 「そんなことないよ。最高にカワイイ女の子だよ」=“Not at all. To me, you'll always be the cutest girl around.”
 「そっ、そうか……お主はいつもそう言ってくれるがのう……」=“I-Is that so... you do always say that, don't you...”
-「心からそう思ってるから」=“It's from the heart, afterall.”
+「心からそう思ってるから」=“It's from the heart, after all.”
 「ありがとうなのじゃ……」=“Thank you...”
 「だから、俺はすぐ我慢できなくなっちゃうんだよ」=“That's exactly why, I lose my self-control so easily.”
 「我慢？」=“Self-control?”

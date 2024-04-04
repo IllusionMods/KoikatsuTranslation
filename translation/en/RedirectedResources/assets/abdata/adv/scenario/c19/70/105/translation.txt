@@ -13,7 +13,7 @@
 「大げさなんかじゃないよ。本当にそう思うもの……」=“It's not a stretch or an exaggeration or anything at all. I really do feel that way...”
 「だから、[P名]君……素敵な場所を教えてくれてありがとう」=“So, thank you, [P]-kun... for always showing me such lovely places.”
 「場所だけじゃないね。素敵な思い出も、いつも与えてくれて……本当にありがとう」=“It's not just places, either. Thank you... for always giving me, such beautiful memories.”
-「思い出っていうなら俺もだよ。[H名]と二人で一緒に感じたり味わうことで共有できることなんだから」=“If it's memories, then it's the same for me. Afterall, they're things we make, and treasure, together.”
+「思い出っていうなら俺もだよ。[H名]と二人で一緒に感じたり味わうことで共有できることなんだから」=“If it's memories, then it's the same for me. After all, they're things we make, and treasure, together.”
 「そう言ってくれて、本当に嬉しいわ」=“Hearing you say that, makes me so happy.”
 「私、ずっと[P名]君と居たい……。そして、私の知らないこと、いっぱい教えて欲しい」=“I want to be with you forever, [P]-kun... I want you to show me stuff that I don't know about, all sorts of stuff.”
 「教えてもうらうだけじゃなくて、私が知ってることとか[P名]君に教えられたらって思うし……」=“I don't just want you to show me stuff, I also want to show you all the stuff, that you don't know but I do...”

@@ -25,7 +25,7 @@
 「そんなこと言って、あたしのことばっかり見てるし……」=“You say that, but you're still staring only at me...”
 「嫌かな？」=“Do you hate it?”
 「……ううん、嫌じゃないぞ。むしろ、嬉しいくらいだな」=“...No, I don't hate it. If anything, it makes me happy.”
-「だよね。[H名]も、俺のこと見つめ返してくれてるし」=“Right? Afterall, you're staring right back at me too.”
+「だよね。[H名]も、俺のこと見つめ返してくれてるし」=“Right? After all, you're staring right back at me too.”
 「あははっ。あたしも、なんだかんだで相当キミのことが好きみたいだなー」=“Ahaha--. Seems like I just love you that much too.”
 「[H名]……」=“[H名]...”
 「[P名]……」=“[P名]...”

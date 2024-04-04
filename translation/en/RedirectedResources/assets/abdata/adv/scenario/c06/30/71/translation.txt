@@ -8,4 +8,4 @@
 「え……あっ！　うう、口惜しいです……」=“Eh... ah--! Uuu, how mortifying...”
 「でも、それ以外は全部合ってるよ。短期間ですごく上達したね」=“But, all the others are correct. You've improved a lot in this short time.”
 「親身になって勉強を見てくださる貴方のお陰です。至らない恋人で……本当に恥ずかしいです」=“It's all thanks to your tender guidance. It is truly embarrassing, to be such an... inadequate partner.”
-「そんなことないよ。恋人は持ちつ持たれつって言うし、次は俺の国語を見てもらおうかな」=“Not at all. Love is all about give-and-take, afterall. On that note, guess I'll have you help me with my Japanese next.”
+「そんなことないよ。恋人は持ちつ持たれつって言うし、次は俺の国語を見てもらおうかな」=“Not at all. Love is all about give-and-take, after all. On that note, guess I'll have you help me with my Japanese next.”

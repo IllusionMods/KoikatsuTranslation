@@ -3,7 +3,7 @@
 //
 「遊園地は夢の場所ってよく言われるけど、今日は人がいすぎて現実を忘れられないな」=“People often say that the amusement park is the land of dreams but, there's so many people here today, we're gonna have to keep ourselves grounded in reality, huh?”
 「……そう思う。どこ見ても、行列ばかり」=“...Yeah. Lines, no matter where you look.”
-「しょうがないって割り切るしかないか。人気アトラクションはみんな乗りたいからさ」=“Nothing but to accept it, I guess. Everyone wants to ride the popular attractions, afterall.”
+「しょうがないって割り切るしかないか。人気アトラクションはみんな乗りたいからさ」=“Nothing but to accept it, I guess. Everyone wants to ride the popular attractions, after all.”
 「アトラクションとは違うけど、マスコットがあっちにいるし、写真撮りに行こう」=“It's not the same as a ride but, there's the mascot over there, let's go take some pictures with it.”
 「すみませーん、写真いいですか？　ほら、[H名]も横に来て」=“Excuse me, could we take a picture? C'mon, you get in shot too, [H名].”
 「……知らない人のそばにいるのは、苦手」=“...I don't like, standing next to people I don't know.”

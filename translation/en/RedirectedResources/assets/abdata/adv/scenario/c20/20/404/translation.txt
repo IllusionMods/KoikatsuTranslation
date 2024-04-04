@@ -35,4 +35,4 @@
 「ん！　確かに渋い！　けど、美味しいよ！」=“Nn! It really is astringent! But, it's really good!”
 「そ、そうなんですよ。ただ渋いだけじゃなくて、抹茶の香りとかもあって美味しんです」=“T-That's right. It's not just astringent, the matcha aroma also peaks its head in, it's really good.”
 「俺も抹茶プリンの虜になっちゃいそう」=“Seems like I'm gonna get addicted to matcha pudding too.”
-「うふふ……虜になっちゃっていいんですよ。[P名]さんとこの美味しさが共有できて……その、私幸せなので」=“Ufufu... there's no problem with that. Afterall, being able to share this taste together with you... it uhm, it makes me happy.”
+「うふふ……虜になっちゃっていいんですよ。[P名]さんとこの美味しさが共有できて……その、私幸せなので」=“Ufufu... there's no problem with that. After all, being able to share this taste together with you... it uhm, it makes me happy.”

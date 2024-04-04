@@ -2,7 +2,7 @@
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
 「うわ、予想はしてたけど……どこも凄い混雑だね……」=“Wow, I expected a crowd but... this is on another level...”
-「遊園地だもの、仕方ないわよ。この混雑も楽しむくらいでいかないとねっ」=“Well, it can't be helped, it's an amusement park afterall. This crowd is also part of it, so we might as well enjoy it.”
+「遊園地だもの、仕方ないわよ。この混雑も楽しむくらいでいかないとねっ」=“Well, it can't be helped, it's an amusement park after all. This crowd is also part of it, so we might as well enjoy it.”
 「あぁ、[H名]が彼女でよかったよ……」=“Aaah, I'm so glad you're my girlfriend, [H名]...”
 「え？　急にどうしたの？　私、そこまで特別なこと言ったかしら？」=“Eh? What's this all of a sudden? Did I really say something that impressive?”
 「いやほら……遊園地デートって、失敗しやすいって言うし……」=“Well no, but I mean... They say that amusement park dates are really easy to screw up...”

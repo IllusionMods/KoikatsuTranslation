@@ -13,6 +13,6 @@
 CHOICE:「まだもう少し一緒にいない？」=Wanna be together for a little longer?
 CHOICE:「俺も楽しかったよ、それじゃあね」=I had a ton of fun too, well then, see ya.
 「まだもう少し一緒にいない？」=“Wanna be together for a little longer?”
-「ええ、帰るにはまだ早いものね」=“Yes, it's still too early to go home, afterall.”
+「ええ、帰るにはまだ早いものね」=“Yes, it's still too early to go home, after all.”
 「俺も楽しかったよ、それじゃあね」=“I had a ton of fun too, well then, see ya.”
 「ええ、気を付けて帰ってね。また連絡するわ」=“Yes, be careful on your way home, okay? I'll call you later.”

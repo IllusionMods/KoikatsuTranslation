@@ -3,7 +3,7 @@
 //
 「キス、しませんか？」=“Won't you, kiss me?”
 「いきなり、大胆だね」=“So sudden, you're feeling pretty bold today.”
-「いいじゃありませんか。本当に恋人同士なんですから」=“Isn't it fine? We really are a couple, afterall.”
+「いいじゃありませんか。本当に恋人同士なんですから」=“Isn't it fine? We really are a couple, after all.”
 「そうだね。……じゃあ」=“True. ...then.”
 「んはぁ……、ねえ、もっとしましょう……？」=“Nnhaa... Hey, let's do it more...?”
 「今度は舌入れちゃいます……んっ」=“I'll put in my tongue this time... nn--”

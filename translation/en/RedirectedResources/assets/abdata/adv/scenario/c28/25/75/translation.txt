@@ -3,5 +3,5 @@
 //
 「それじゃあ、続いてダッシュ十本ね」=“Well then, next up, we're gonna do a set of 10 dashes.”
 「……ま、まだ走り込むつもりでおるのか？」=“...T-There's yet more sprinting still?”
-「どんな運動も基本は走り込むことだからな」=“It is the base of basically all exercise routines, afterall.”
+「どんな運動も基本は走り込むことだからな」=“It is the base of basically all exercise routines, after all.”
 「……わしはその前に休憩したいのじゃ～」=“...I would like a break first~”

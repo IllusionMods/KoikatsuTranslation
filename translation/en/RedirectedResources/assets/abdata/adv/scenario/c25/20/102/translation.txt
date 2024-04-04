@@ -30,6 +30,6 @@
 「あ～。ちょうどお腹、空いてたんだよね～。奢ってくれてありがとう～」=“Ah~. I was just feeling a bit hungry too~. Thanks for the treat~”
 「う～ん、ソースとばっちり絡み合ってて美味しい～。すごく幸せ～」=“Mmm, the sauce goes with it just perfectly too~. This is bliss~”
 （美味しそうに頬張る[H名]の姿、可愛いな……）=(She looks so cute, stuffing her mouth like that...)
-「はい、残りの半分はキミのだよ。幸せは、ちゃんと共有しなきゃね～」=“Here, I left half for you. Gotta share happiness with others, afterall~”
+「はい、残りの半分はキミのだよ。幸せは、ちゃんと共有しなきゃね～」=“Here, I left half for you. Gotta share happiness with others, after all~”
 「ありがとう。[H名]は優しいね」=“Thanks. You're really sweet, [H名].”
 （なんだか二人の距離が、縮まった気がする。たこ焼き、購入して良かった……）=(I feel like we just got a bit more closer. I'm glad I bought that takoyaki...)

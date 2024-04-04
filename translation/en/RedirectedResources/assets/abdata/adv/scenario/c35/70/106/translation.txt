@@ -2,7 +2,7 @@
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
 「はぁぁ……やっぱりここは綺麗なん……キラキラしてて吸い込まれそうになるん……」=“Haa... this place really is beautiful... It's so sparkly, I feel like I'm going to get swallowed up...”
-「この辺り一番の夜景スポットだもんね。俺も好きだなぁ……なんだか落ち着くよね」=“It's the spot with the best view of the night sky in the area, afterall. I love it too... It's really calming, for some reason.”
+「この辺り一番の夜景スポットだもんね。俺も好きだなぁ……なんだか落ち着くよね」=“It's the spot with the best view of the night sky in the area, after all. I love it too... It's really calming, for some reason.”
 「うんっ！　前に言った通り、君と一緒っていうのもあるんやけど……やっぱり素敵なん……」=“Yeah--! Like I said before, part of it is that I'm with you too... but it really is beautiful...”
 「私……こっちに引っ越してきた時、都会ってどんなところなんやろうって不安やったっちゃけど……やっぱり都会には都会のいいところがたくさんあるっちゃんね」=“When I... When I first moved here, I was all anxious and stuff, over just what kind of place the big city was but... I guess a big city would have it's own spots worthy of a big city.”
 「それに気付かせてくれたん、全部君なんよ。やけん……えへへ、私、君に出会えて良かったん」=“The one who made me realize all of that, was you. What I'm trying to say is... ehehe, I'm glad I met you.”
@@ -33,7 +33,7 @@ CHOICE:『我慢して駅へと戻る』=『Endure it and return to the station�
 「ひゃぁっ！　もーっ、いきなりなんやけんっ！」=“Hyah--! Jeez--, aren't you a hasty one--!”
 （いや……さすがにここじゃ我慢しよう。きちんと駅まで送らないと）=(No... I really should hold myself back here. I gotta drop her off at the station.)
 「このままずっと[H名]と一緒にいたいけど……そうしたらどんどん離れがたくなりそうだよ。今日はそろそろ駅に戻ろっか」=“I wanna stay with you like this for the whole time, [H名], but... If we do that, it'll become harder to go our own ways. We should wrap it up for tonight and go back to the station.”
-「……うん、もうこんな時間やもんね。あのね、また一緒に……夜景とか見てくれる？」=“...Yeah, it's already this late afterall. Hey, will you... bring me out to see this night view again and stuff?”
+「……うん、もうこんな時間やもんね。あのね、また一緒に……夜景とか見てくれる？」=“...Yeah, it's already this late after all. Hey, will you... bring me out to see this night view again and stuff?”
 「もちろん！　夜景だけじゃなくて、一緒に色々な場所へ行こう。[H名]とだったら、どこにでも行きたいよ」=“Of course! Not just this night view but, let's go to all sorts of places together. If it's with you, I want to visit all sorts if places.”
 「あ……えへへ、そう言ってもらえると安心するん。私も……君と一緒に色々なところが見たい。これからもずっと楽しみにしとるけんね」=“Ah... ehehe, hearing you say that gives me peace of mind. I too... want to see lots of places together with you. I'm looking forward to lots of fun times together in the future.”
 「うん、約束するよ」=“Yeah, I promise you.”

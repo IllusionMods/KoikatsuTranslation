@@ -11,7 +11,7 @@
 「エサあげるの？」=“You're gonna feed them?”
 「うん。そのつもりなんだけど……何か持ってない？」=“Yeah. That's the plan... do you have anything?”
 「えーっと、確かポケットに……あったあった、ほら、クッキー」=“Eerhm, I remember putting a... ah, here it is, a cookie.”
-「固くてそのままじゃ食べられないよね。細かく砕いてあげる……はい、どうぞ」=“They probably won't be able to eat it as is, would they? It's gotten so hard afterall. I'll break it up into tiny pieces for them... here you go.”
+「固くてそのままじゃ食べられないよね。細かく砕いてあげる……はい、どうぞ」=“They probably won't be able to eat it as is, would they? It's gotten so hard after all. I'll break it up into tiny pieces for them... here you go.”
 「へぇ、近づいても全然逃げないや……やっぱり、いつもエサもらってるのか」=“Hoh, they're not flying away even though you're so up close to them... guess they really must be getting fed, by people here.”
 （それにしても[H名]のやつ……エサやりに夢中だな……ベンチで休むんじゃなかったのか？）=(That aside, that dolt... she's so engrossed in feeding them... didn't she wanna rest in the shade?)
 「……何してんの。あんたも来なさいよ」=“...What're you doing? C'mon, come here.”

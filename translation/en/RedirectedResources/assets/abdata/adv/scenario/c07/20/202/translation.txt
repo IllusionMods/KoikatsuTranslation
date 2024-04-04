@@ -23,7 +23,7 @@
 「こんなん売っちゃいけないレベルだよ！　『ごめんねっ』なんて軽い謝罪で許される問題じゃ無いぞ！」=“This isn't something you can sell! It's not something you can gloss over with a light『Sorry』!”
 「大げさだなぁ[P名]は。こんなもん普通だろ。……私もう一個食べようかな」=“You're making too big a deal out of it, [P名]. This much is normal, no? ...Maybe I'll go for another one.”
 「……なるほど、こういう人間がいるから売ってるわけか……うまいことできてるんだな……」=“...I see, I guess that's why they're selling it, because people like you exist... Guess they've got some chops alright...”
-「私、この普通のホットドッグにするよ。シンプルこそ至高ってな」=“I'll go with this normal one here. Simple is best, afterall.”
+「私、この普通のホットドッグにするよ。シンプルこそ至高ってな」=“I'll go with this normal one here. Simple is best, after all.”
 「いいね、ノッた。俺も同じやつにしよう」=“Sounds good, I'll go with the same one.”
 「……お、きたきた。そこのベンチで座って食べようか」=“...Oh, it's here. Wanna go sit at that bench and eat it?”
 「そうだな。……んしょっと。おし、そんじゃ、いっただきま～す。……んぐ、むぐむぐ」=“Good idea. ...There. Aight, I'll be digging in. ...*bite*, *chew chew*.”

@@ -31,7 +31,7 @@
 「あぁ、でもすぐにしてしまうのは勿体ないな。少しだけ待ってくれ」=“Yeah, but just going on ahead and doing it like this feels like a bit of a waste. Wait for a moment.”
 「わかった。[H名]の準備が出来るまで、いつまででも待つよ」=“Got it. I'll wait as long as it takes, until you're ready to go, [H名].”
 「おまえの事……最初は、変な奴だと思っていた。いつ頃からだろうな、こんなにおまえを好きになったのは」=“At first... I thought you were a really weird guy. I wonder when it was, that I fell in love with you this much.”
-「出会いが特殊だったからね。でも今じゃ、あの学園での出会いに感謝してるよ」=“We met under special circumstances, afterall. But, if you were to ask me now, I'm really grateful that we met that day, in that school.”
+「出会いが特殊だったからね。でも今じゃ、あの学園での出会いに感謝してるよ」=“We met under special circumstances, after all. But, if you were to ask me now, I'm really grateful that we met that day, in that school.”
 「フッ、覚えているか？　おまえが私に、最初に話しかけてきた時のこと……」=“Pfft, do you remember? When you first approached me, to have a chat...”
 「たしか、俺に興味があったって言ってくれて、嬉しかったのを覚えてるよ。あと、軽薄って言われちゃったかな」=“If I recall correctly, I remember being happy, because you said you were interested in me. After that, I got called shallow for it.”
 「そうだ、よく覚えてるじゃないか。まぁ、私はもっと鮮明に覚えているがな」=“That's right, you have a good memory. Well, I remember it even more clearly than that though.”

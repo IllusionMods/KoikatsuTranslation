@@ -29,7 +29,7 @@
 「[H名]……ここまで一緒に歩いてくれて本当にありがとう」=“[H名]... thank you, for walking with me this far in life. Truly.”
 「あ……えへへ、こちらこそ……なのです。あなたがいてくれたから……私もここまで来られたですよ」=“Ah... eheheh, thank you... as well. I came this far... only because you were there.”
 「二人で一つ……だね」=“Together as one... aren't we?”
-「はいです。もう一人じゃいられないですよ。あなたとくっついて……一つになっちゃったですもん」=“Yes. I can't live by myself anymore. Afterall, I've clung to you so much that... I've become one with you.”
+「はいです。もう一人じゃいられないですよ。あなたとくっついて……一つになっちゃったですもん」=“Yes. I can't live by myself anymore. After all, I've clung to you so much that... I've become one with you.”
 「私……さみしがり屋で甘えん坊ですから……一度くっついちゃったら……もう離れられないのです」=“I'm... very spoiled and, get lonely very easily so... now that I've clung onto you... I can't let go anymore.”
 「それくらい……あなたの傍が心地良くて、楽しくて、嬉しくて、幸せなのですよ。それくらい……大好きなのです」=“That's just how... comfortable I feel, by your side. Everything's so fun, I feel so happy, so blessed. That's just... how much I love you.”
 「[H名]……うん、俺も同じ気持ちだ。いつまでもずっと……二人一つでいたい。そしていっぱい甘えて欲しいよ」=“[H名]... I feel the same way. I want to be... together as one with you forever. And I want you to hold nothing back, I'll spoil you as much as you want.”

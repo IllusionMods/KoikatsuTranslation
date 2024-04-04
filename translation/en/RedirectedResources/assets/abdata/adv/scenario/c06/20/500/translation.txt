@@ -7,7 +7,7 @@
 「よし、到着」=“Alright, we're here.”
 「[H名]、今日はありがとう。最初から最後まで俺を立ててくれてたね」=“Thanks for today, [H名]. You were supporting me in all sorts of ways today, weren't you? I did notice.”
 「はい。お慕い申し上げております、という言葉に偽りはございませんから……いえ、こういうことは自分で申し上げるものではありませんね」=“Yes. When I say I love you dearly, not a word of that is a lie... no, such a thing is not for me to say, is it?”
-「あはは、[H名]に限っては自分で言っちゃってもいいレベルだと思うよ」=“Ahahah, I mean, I don't really see a problem with you saying it, myself. It's clear to me, afterall.”
+「あはは、[H名]に限っては自分で言っちゃってもいいレベルだと思うよ」=“Ahahah, I mean, I don't really see a problem with you saying it, myself. It's clear to me, after all.”
 「貴方がそう仰るなら、自信をもって……今までも、これからも、仲睦まじい時も、そして仲を違えた時も、幾久しくお慕い申し上げております」=“If you say so, then I shall trust in those words... until now, and in the future too, while we are intimate, and even when not, I shall continue loving you dearly for eternity.”
 （相変わらず、健気だな。この後は、どうしよう……）=(She's always so lovable. What should I do here...)
 CHOICE:『自宅に誘う』=Take her home.
@@ -23,7 +23,7 @@ CHOICE:『さよならする』=Say goodbye.
 「貴方に愛していただけるなら、場所は関係ございません」=“If I get to feel your love, then the place matters not to me.”
 「むしろ、私の不安は貴方の熱情が今にも冷めてしまわないかどうかです。さあ、私を連れ去ってくださいまし」=“If anything, what I am anxious about is waiting too long and letting your passion wilt. Please, spirit me away.”
 （イイトコのお嬢様をあまり引き留めるわけにはいかないな……イイトコじゃなければいいって話でもないけど）=(I can't keep a good girl from a nice family like her out too late... I mean, not to say that it'd be fine if she wasn't from a nice family--)
-「俺からも、よろしくね。[H名]とはこれからもずっと付き合っていきたいから」=“Same here. Afterall, I want to keep our relationship going forever.”
+「俺からも、よろしくね。[H名]とはこれからもずっと付き合っていきたいから」=“Same here. After all, I want to keep our relationship going forever.”
 「はい、貴方がそう想ってくださるなら、きっと二人の未来は叶います……それでは、あまり貴方をお引き留めするわけには参りませんので……」=“Yes, as long as you feel that way, I am sure our future will become a reality someday... well then, I couldn't possibly hold you up for too long, so...”
 「あ、待って……」=“Ah, wait...”
 「ん……んん……ちゅっ……ん……」=“Nnn... nnn... *kiss*... nnn...”

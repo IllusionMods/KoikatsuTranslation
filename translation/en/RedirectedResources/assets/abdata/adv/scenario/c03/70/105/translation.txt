@@ -17,7 +17,7 @@
 「もちろん。あ……だったら……手、繋ごっか」=“Of course. Ah... if you're gonna do that... let's hold hands.”
 「あ……はいっ！　ぎゅって握って欲しいです……あなたの手……すごく温かい……」=“Ah... yes--! Please hold it tight... your hand is... so warm...”
 「[H名]の手も温かいよ……温かくて柔らかくて小さい……」=“Yours is warm too, [H]... So warm, and soft, and tiny...”
-「はぅ……お……女の子……ですから……」=“Hau... I... I'm a girl... afterall...”
+「はぅ……お……女の子……ですから……」=“Hau... I... I'm a girl... after all...”
 （[H名]が自分で女の子であることを意識してるように……俺もさっきからずっと自分が男だってことを意識しちゃうな）=(Just like she's conscious of how she's a girl... I can't help but be conscious of how I'm a guy too.)
 「好きな人と夜景を見るのがこんなに幸せなことだなんて……えへへ」=“I never knew looking at a sight like this with the guy I love could make me so happy... ehehe.”
 「ありがとう。そうやって[H名]が嬉しいって思ってくれることが……俺も何よりも嬉しいよ」=“Thank you. Seeing you so happy... makes me happy too, [H].”

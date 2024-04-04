@@ -96,7 +96,7 @@
 「もしかして君って動物好きだったりする？　あ、違ったらごめんね」=“Do you like animals, by any chance? Ah, if I have it wrong, I'm sorry.”
 「やっぱり！　私も好きだから、動物好きな人って分かっちゃうんだー」=“I knew it! I love them too, so I had a feeling.”
 「ふふ、良かった……実はね、私も苦手なの。小さい頃にトラウマがあって……」=“Fufu, great... I can't handle them either, actually. When I was a kid...”
-「男の子ってやっぱりご飯はたくさん食べるのかな？」=“Do boys eat lots of food afterall?”
+「男の子ってやっぱりご飯はたくさん食べるのかな？」=“Do boys eat lots of food after all?”
 「えへへ、実は私もよく食べる方なの。みんなに驚かれるんだよ」=“Ehehe, I actually eat a whole lot too. Everyone gets super shocked.”
 「えー、男の子なのに小食なんだ。ちょっと意外。でも……私と一緒だね」=“Eeh~, you're not a heavy eater even though you're a boy? I didn't expect that. But... you're the same as me then~”
 「何となくだけど、君ってお料理上手そうだよね」=“I dunno why, but I feel like you're a mean cook.”
@@ -207,7 +207,7 @@
 「もしも恋人が出来たらメールはたくさんする？」=“If you got a boyfriend, would you text him a lot?”
 「んー、やっぱりしちゃうと思うなー。いつでも繋がっていたいもんね」=“Nnn, I do think I will~. Can't help but want to stay connected at all times.”
 「お返事が大変だと思うから、ちょっと控えめにするかも……でも、夜は電話しちゃうよ！」=“It'd probably get annoying for him fast, so I'd try to hold it in... but, I would definitely call him at night!”
-「デートするならやっぱり賑やかなところがいい？」=“Would you prefer a lively place for a date afterall?”
+「デートするならやっぱり賑やかなところがいい？」=“Would you prefer a lively place for a date after all?”
 「そうだね。いっぱい人がいる中で、自分達だけ二人の世界……みたいな感じがいいかも」=“Yeah. In our own little world, inside a whole crowd of people... that might not be too bad.”
 「静かなところでゆっくりお話するのがいいかなぁ。ぴったりくっついたりして……ふふっ」=“I'd prefer a quiet place, somewhere we can take our time chatting. Just the two of us, clinging to each other... fufu--”
 「こ、こういうお話は照れちゃうからダメなんだよー」=“T-This sort of stuff is super embarrassing, so I can't~”
@@ -231,7 +231,7 @@
 「私と君って、結構気が合うと思わない？」=“Don't you think we get along pretty well?”
 「だよね！　何となく話しやすいなぁって思ってたんだー」=“Right? Our chats together just flow on and on~”
 「えぇー、そうかなぁ？　私は話しやすいなぁって思ったのにー」=“Eeh, really~? And here I thought we had something special~”
-「ねぇねぇ、コーヒーってやっぱりブラック派？」=“Hey, question, are you the black coffee sort of guy afterall?”
+「ねぇねぇ、コーヒーってやっぱりブラック派？」=“Hey, question, are you the black coffee sort of guy after all?”
 「おお、ここにもお仲間が！　こう見えて、実は私もブラックなのです！」=“Ooh, a comrade here, out of all the places! It may not seem like it, but I actually drink black too!”
 「そうだよね！　苦いの苦手ー！　私はミルクたっぷりめが好きなの」=“Right? Can't handle bitter stuff at all~! I like mine topped up with milk to the brim.”
 「君は辛い食べ物とか平気？」=“Are you fine with spicy food?”
@@ -239,7 +239,7 @@
 「良かったー。私もだよ。同じじゃないと、一緒にご飯食べられないもんね」=“Thank goodness. Me too. It would be really hard to eat together, if our tastes differed.”
 「甘い食べ物ってどう？　意外と好きだったりするのかな？」=“How're you with sweet food? Are you the sort that actually likes sweet stuff under that tough exterior?”
 「うんうん、美味しいもんね。特に間食！　特に夜中！　えへへぇ」=“It's so good, no? Especially between meals! Especially as a midnight snack! Ehehe~”
-「おお、さすが男の子！　実は私も苦手なんだ。お腹いっぱいになっちゃって……」=“Ooh, a boy's a boy, afterall! I actually don't like sweet stuff either. I feel full after a few bites...”
+「おお、さすが男の子！　実は私も苦手なんだ。お腹いっぱいになっちゃって……」=“Ooh, a boy's a boy, after all! I actually don't like sweet stuff either. I feel full after a few bites...”
 「あのね、君としては女の子の胸のサイズって……どのくらいが好みなの？」=“Question, in your eyes... what sort of bust size is the best?”
 「わぁ、嬉しい！　実は胸が大きいのも……って、そんなにジロジロ見ちゃダメー！」=“Wah, I'm glad to hear that! Honestly, it's not all that it's cut out to... wuh, don't stare at them so much~!”
 「私も普通……だよね？　ふふっ、良かった！」=“Mine are normal too... right? Fufu--, glad to hear that!”
@@ -295,7 +295,7 @@
 「どうしよう……私、まだそういうこと考えられなくて……ごめんなさい」=“What do I do... I still can't wrap my mind around that stuff... I'm sorry.”
 「も、もし良かったらっ……私と付き合ってくだひゃいっ！　うわぁん、噛んじゃったよー！」=“I-If it's alright with you--... pleash go out with me--! Uwaahn, I fumbled that up!”
 「えっ？　えっ？　ほ、本当？　本当に本当？　やったぁっ！　嬉しいよぅーっ！」=“Eh--? Eh--? R-Really? Super duper really? Yay--! I'm so happy~!”
-「あ……そ、そっか。そうだよね。私達、お友達だもんね……」=“Ah... I-I see. Right. We're friends, afterall, not...”
+「あ……そ、そっか。そうだよね。私達、お友達だもんね……」=“Ah... I-I see. Right. We're friends, after all, not...”
 「あ、あのね……やっぱり私……君のことが好きで……うぅ……諦められないよ……」=“U-Uhm, listen... I really do... love you so... uuu... I can't let these feelings go...”
 「え……いいの？　ふぇぇ……嬉しいよぅ……ぜ、絶対にダメだと思ってたからーっ！」=“Eh... you sure? Fueeeh... I'm so happy... I-I really thought you would just say sorry again--!”
 「やっぱりそうだよね……うん、大丈夫だよっ！　聞いてくれてありがとう！」=“Right... yeah, it's okay--! Thanks for listening to me!”
@@ -308,7 +308,7 @@
 「人がいるよ？　いいの？　わ、私は……構わないけど……えへへ」=“There's people here, you know? You sure? I-I don't... mind, you know... ehehe.”
 「人前でなんて絶対無理ー！　恥ずかしすぎるよー！」=“Not in front of people, never! It's too embarrassing!”
 「俺、今すぐに、ここできみとHしたい」=“I want to do it with you, here, right now.”
-「うぅぅ……ドキドキするけど……いいよ。私もしたいもん」=“Uuuu... my heart's pounding but... okay. I want to do it too, afterall.”
+「うぅぅ……ドキドキするけど……いいよ。私もしたいもん」=“Uuuu... my heart's pounding but... okay. I want to do it too, after all.”
 「絶対に人が来ちゃうからダメ！　こういうのは二人きりの時にするの！」=“Someone's definitely going to walk in on us, so no! We should do this stuff when we're somewhere private instead!”
 「あ、あのね……変なこと言ってるのは分かってるけど……私、君とエッチしたい……かも」=“U-Uhm, hey... I know what I'm saying is weird but... I want to, have sex with you... I think.”
 「ありがとう！　変な娘だって思わないでね。私、君のこと……」=“Thank you! Don't think of me as a weirdo, okay? To me, you're very...”
@@ -407,7 +407,7 @@
 「もちろんあるよー！　でも教えない！　だって……君には教える必要ないんだもん！」=“Of course I do! But I'm not telling! I mean... there's no need to!”
 「彼氏像というか……理想通りの彼氏ならいるよ♪　えへへっ！」=“An ideal image, huh... well, I do have an ideal boyfriend, standing right here♪ Ehehe--!”
 「やっぱり恋人と二人きりは緊張する？」=“Would you get nervous if you were alone with your boyfriend?”
-「もちろんだよー。だって好きな人だよ？　二人きりだよ？　ど、ドキドキしちゃうよー」=“Of course. Afterall, I love you, you know? We'd be alone together, you know? M-My heart's gonna race and stuff.”
+「もちろんだよー。だって好きな人だよ？　二人きりだよ？　ど、ドキドキしちゃうよー」=“Of course. After all, I love you, you know? We'd be alone together, you know? M-My heart's gonna race and stuff.”
 「最近、少しだけ落ち着くようになったかも。君のそばだと安心するの」=“Recently, I've been feeling a lot more calm. Being next to you makes me feel relaxed.”
 「俺とずっと一緒にいたい？」=“Do you want to stay with me forever?”
 「わわわっ、な、何を当たり前のことをっ！　生まれ変わったって一緒にいたいよ♪」=“Wawawah--, t-that's obvious, isn't it--!? I want to stay with you, even into the next life♪”

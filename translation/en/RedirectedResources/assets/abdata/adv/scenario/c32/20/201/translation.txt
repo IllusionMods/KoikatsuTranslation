@@ -2,7 +2,7 @@
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
 「ジェットコースターに乗ろうよ！　ここの評判なんだって！」=“Let's go on the roller coaster! Apparently, the one here has quite the reputation!”
-「わかりました。ジェットコースターは遊園地の花形ですものね」=“Understood. A roller coaster is an amusement park's star attraction, afterall.”
+「わかりました。ジェットコースターは遊園地の花形ですものね」=“Understood. A roller coaster is an amusement park's star attraction, after all.”
 「で……どのような評判なんですか？　ここのジェットコースターは」=“So... Just what kind of reputation does it have? The roller coaster here.”
 「滅茶苦茶怖いんだってさ」=“They say it's terrifyingly scary, like absurdly so.”
 「そ、そうですか。まあ、私もいい歳ですし、ジェットコースター程度のもの、おそるるに足りませんね」=“I-Is that so? Well, I'm already at this age so, something like a roller coaster is not something to be afraid of, is it?”

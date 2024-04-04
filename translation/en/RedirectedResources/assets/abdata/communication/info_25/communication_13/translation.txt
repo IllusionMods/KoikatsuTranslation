@@ -27,7 +27,7 @@
 「うーん、相手の話をちゃんと聞くことじゃない？」=“Mmmm, you just have to listen carefully to what the other person is saying, no?”
 「そんなの考えたことないよ。友達って自然にできてるもんじゃん？」=“I've never thought about that. Aren't friends just something you make as you go?”
 「おしゃれするのは好き？」=“Do you like dressing and moving according to fashion trends?”
-「そりゃもう、大好きだよ～。女子だしね～」=“Well, yeah, I love it~. I'm a girl, afterall~”
+「そりゃもう、大好きだよ～。女子だしね～」=“Well, yeah, I love it~. I'm a girl, after all~”
 「好き嫌いじゃなくて、おしゃれは女のたしなみだよ」=“It's not about love or hate, it's just what being a girl is about.”
 「自分の性格を一言でいうと、どんな感じ？」=“If you had to describe yourself in one word, what word would it be?”
 「一言ってムズくない？　まぁ、でも強いて言うなら、明るい……かな？」=“Isn't a single word too difficult? Well, if I had to say, bright... I guess?”
@@ -110,7 +110,7 @@
 「テスト前さえしっかりしとけば、問題ないもんね！」=“As long as you get your shit together before a test, who even cares, am I right?”
 「洋服とか小物とか、おしゃれなものって好き？」=“Do you like dressing yourself up? With things like western clothes or accessories or whatever.”
 「勉強道具とかもセンスいいもんね！　きっと家もおしゃれなんだろうなぁ」=“You've got a great taste in picking out stationary and stuff too! I'm sure your apartment looks super stylish too.”
-「そうなんだ。まあ、気にするとお金かかっちゃうもんね」=“I see. Well, that sort of stuff starts costing a ton real fast, afterall.”
+「そうなんだ。まあ、気にするとお金かかっちゃうもんね」=“I see. Well, that sort of stuff starts costing a ton real fast, after all.”
 「ふぅん、アタシとは違うんだね」=“Hmmm, different from me, huh?”
 「へぇ～、アタシに言うことないんだ？」=“Heh~, you've got nothing to say to me?”
 「ん、許してあげるけど、あんなことしないでね」=“Nn, I'll forgive you but, don't do something like that again, okay?”
@@ -191,10 +191,10 @@
 「よく見るよ！　ロマンチックな恋愛ものとかマジいいよね～」=“I do! Romance movies and whatnot are super amazing, don't you think~”
 「あんまり見ないかな～。暗くて眠くなっちゃうんだよね～」=“Not really, I guess?~. It's so dark in theatres it just makes me wanna fall asleep~”
 「普段音楽とか聞くの？」=“Do you listen to music a lot?”
-「聞く、聞く～。カラオケでノれないとか最悪だし」=“I do, I do~. Would absolutely suck if I couldn't sing anything at Karaoke, afterall.”
+「聞く、聞く～。カラオケでノれないとか最悪だし」=“I do, I do~. Would absolutely suck if I couldn't sing anything at Karaoke, after all.”
 「う～ん、聞かないかも。友達と話してることの方が多いかな」=“Mmm, I don't think I do. I'd say I spend more time chatting with friends instead.”
 「街とかはよく出かける？」=“Do you go out into town often?”
-「うん！　友達とよくいくかな。見てるだけでも楽しいからね」=“Yeah! I go out a lot with my friends. Just watching them do stuff is fun for me, afterall.”
+「うん！　友達とよくいくかな。見てるだけでも楽しいからね」=“Yeah! I go out a lot with my friends. Just watching them do stuff is fun for me, after all.”
 「あんまりいかないかな。ついつい買いすぎて、金欠になるからね」=“Not all that much, I'd say? I start buying anything I see, and before I know it my wallet's empty.”
 「ん～。ね、もっと別の話がしたいな～」=“Nn~. Hey, I'd love to chat about something else~.”
 「授業の復習してたんだけど……」=“I was reviewing the material we studied in class but...”
@@ -203,7 +203,7 @@
 「優しそうな目、とかかな？　その……キミみたいな……」=“Their gentle eyes, if they have them, I guess? You know... like yours...”
 「う～ん。すぐには思いつかないなぁ～。でもキミの目は優しくて好きかな～」=“Mmm. I can't really think of something on the spot~. But, I really like how gentle your eyes are~”
 「気になる人とかっていたりするの？」=“Do you have a person you're into?”
-「え、う、うん。まぁアタシも一応女の子だし……、でも誰かはまだヒミツ」=“Eh, y-yeah. Well, I'm a girl too, afterall... But, I'm not telling you who it is.”
+「え、う、うん。まぁアタシも一応女の子だし……、でも誰かはまだヒミツ」=“Eh, y-yeah. Well, I'm a girl too, after all... But, I'm not telling you who it is.”
 「それは内緒。秘密も乙女のたしなみじゃん？」=“That's a secret. Isn't a little bit of mystery part of the charm of a girl?”
 「結婚とかって、憧れたりする？」=“Do you hope to get married and stuff someday?”
 「うん！　真っ白なドレス着て、誓いのき、キスとか……素敵じゃん」=“Yeah! Putting on a white dress, saying my vows, k-kissing... it all sounds super lovely.”
@@ -436,7 +436,7 @@
 「なんだかムラムラしてきたな……」=“I'm feeling really horny all of a sudden...”
 「な、何言ってんの。アタシまで興奮してきちゃうじゃん……」=“W-What are you even saying? You'll make even me horny...”
 「アタシと一緒にいて楽しい？　ちょっと不安でさ……」=“Is it fun to be with me? It's been on my mind recently...”
-「そっか。すごい安心した。これからもずーっと一緒だから」=“I see. That's a relief, seriously. We're gonna be together forever, afterall.”
+「そっか。すごい安心した。これからもずーっと一緒だから」=“I see. That's a relief, seriously. We're gonna be together forever, after all.”
 「え？　あ、なんだ冗談か～。もうイジワル～」=“Eh? Ah, just a joke, huh~. You big meanie~”
 「[P]くんって子供はたくさんほしい？」=“Do you want lots of kids, [P]-kun?”
 「そっか～。じゃあアタシとも～っといいコトしなきゃだね」=“I see~. Well then, we'll have to do lots more fun stuff together then.”

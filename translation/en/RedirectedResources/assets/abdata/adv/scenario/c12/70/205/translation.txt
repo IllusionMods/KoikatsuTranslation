@@ -24,7 +24,7 @@
 「あっ……[H名]、す、凄く近いね……」=“Ah--... Y-You sure are close, [H]...”
 「そ、そうだな、近いな……おまえの体温がじわって伝わってきて……なんか頭がふわふわする」=“Y-Yeah, I sure am... your warmth is seeping into me... my head feels so light.”
 「俺も同じ感じ……ふわふわし過ぎて、頭沸騰しそう」=“Same here... so light, I feel like it's gonna boil over.”
-「ちょ、ちょっと夜景でも見て、ゆっくりしよう。元々、そのために乗ったんだし」=“L-Let's look at the view, and take it easy. That's why we got on, afterall.”
+「ちょ、ちょっと夜景でも見て、ゆっくりしよう。元々、そのために乗ったんだし」=“L-Let's look at the view, and take it easy. That's why we got on, after all.”
 「うん、そうしよっか。落ち着かないと、色々やばそう……」=“Yeah, let's do that. Gotta calm down, else it's gonna be bad...”
 「んぅ？　やばくなると、どうなるんだ？　あたしに教えてくれよ」=“Nnn? Bad in what way? Tell me.”
 「えっ、それはその……色々したくなると言うか……ほら、男は直接的だからさ……ごめん」=“Eh--, you know... I'll want to do stuff... I mean, I'm a man, I can't help it... sorry.”

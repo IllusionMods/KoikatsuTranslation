@@ -3,4 +3,4 @@
 //
 「ちょっと待ちなさい。ひもじい貴方に恵みを与えてあげる」=“Stop for a minute. I'll bestow a blessing upon your famished body.”
 「ほら、カップケーキよ。授業で作った余り物だけど、喜んで食べなさい」=“Look, cupcakes. They're just leftovers from Home-Ec but eat them with pleasure.”
-「学園で餓死されても困るからね。貴方の死体なんて見たら、一生モノのトラウマになりそうだわ」=“It'd be a problem if you died from starvation on school grounds, afterall. If I saw your dead body, I'd be traumatized for life.”
+「学園で餓死されても困るからね。貴方の死体なんて見たら、一生モノのトラウマになりそうだわ」=“It'd be a problem if you died from starvation on school grounds, after all. If I saw your dead body, I'd be traumatized for life.”

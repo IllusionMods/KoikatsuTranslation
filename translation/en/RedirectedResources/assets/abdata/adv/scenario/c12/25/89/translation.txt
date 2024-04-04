@@ -5,7 +5,7 @@
 「うぇっ！　あ、愛称ねぇ……ま、まぁいいんじゃないか。うん」=“Uweh--! N-Nicknames, huh... w-well, why not? Yeah.”
 「よかった。こういうの嫌がるかなって思ってたから。じゃあ[Pあだ名]って、呼んでくれる？」=“Great. I was worried you wouldn't want to. Will you call me [Pあだ名] then?”
 「へっ？　や、待て！　愛称ってそういう？　いやいやいやいや、考え直せって。本当にいいのか？」=“Heh--? No, wait! Is that a nickname? Hang on just a sec, think it over. Are you sure you want that?”
-「よく考えた結果なんだ。どうしてもダメかな？」=“It's one that I decided on after a lot of thinking. Are you really opposed to it afterall?”
+「よく考えた結果なんだ。どうしてもダメかな？」=“It's one that I decided on after a lot of thinking. Are you really opposed to it after all?”
 「もー、そういう聞き方ずるいぞ……。うぅ、わかった。お前の望み通りに呼んでやるよ」=“Jeez, it's unfair, you know, saying it like that... Uuu, I got it. I'll call you what you want me to.”
 「やった！　あ、そうだ、[H]はどう呼ばれたい？　教えてよ」=“Yay! Ah, right. What do you want me to call you, [H]? Tell me.”
 「べ、べつに……特にないから……お、おまえの好きに呼べよ」=“I-I don't... have anything in mind... c-call me whatever you like.”
