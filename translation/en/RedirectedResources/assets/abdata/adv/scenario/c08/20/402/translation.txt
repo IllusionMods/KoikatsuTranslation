@@ -20,6 +20,6 @@
 「何度か挑戦はしたことあるんだけど……いっつも失敗ばっかり……」=“I've attempted it many times but... I always end up ruining it one way or another...”
 「そうか、残念だな……[H名]が作った料理食べてみたかったけど……」=“I see, that's a shame... I really wanted to try your cooking though...”
 「それはダメ！」=“Not happening!”
-「でも……いつか料理の腕が上達して、成功するようになったら食べさせてあげる」=“But... if someday I get good enough at it to atleast finish dishes, then I'll let you try them.”
+「でも……いつか料理の腕が上達して、成功するようになったら食べさせてあげる」=“But... if someday I get good enough at it to at least finish dishes, then I'll let you try them.”
 「ほんと？　楽しみだな！　ずっと待ってるからな」=“Really? Man, I'm looking forward to that! I'll wait, no matter how long it takes.”
 「任せて！　それじゃ約束の証に指切りね♪」=“Leave it to me! Then, let's make a pinky promise to set it in stone♪”

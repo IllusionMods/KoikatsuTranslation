@@ -135,7 +135,7 @@
 「こらー！　プニプニするなー！」=“Hey! Don't poke it!”
 「ぎゃっ！　もー、恥ずかしいからヤメー！」=“Gyah--! Jeez, it's embarrassing so stop!”
 「……いま、そんなことしてる場合かな？」=“...Do you really think this is the time for that?”
-「へへー、キミのことちょっとずつわかってきたなー」=“Hehe~, I think I've figured you out, atleast a bit.”
+「へへー、キミのことちょっとずつわかってきたなー」=“Hehe~, I think I've figured you out, at least a bit.”
 「なーなー、次はどんな話するんだー？」=“Hey, hey, what're we gonna talk about next?”
 「なに話そっかなー」=“What should we talk about~?”
 「なにもないんだったら、もう行くからなー」=“If you've got nothing, then I'mma dash, okay~?”
@@ -490,7 +490,7 @@
 「もっともっとくっついててほしいぞー。キミの体温、感じさせてほしいなー」=“I want you to hug me tight, real tight. I want you to make me feel your warmth.”
 「キミといる時が、いちばん幸せだなー、あたし」=“When I'm with you, I really am at my happiest.”
 「へへー、キミのこと観察中だぞー」=“Hehe, I'm watching your face.”
-「なんで黙ってるんだー？　言い訳くらい、してくれよー」=“Why're you so quiet? Atleast come up with an excuse or two.”
+「なんで黙ってるんだー？　言い訳くらい、してくれよー」=“Why're you so quiet? At least come up with an excuse or two.”
 「はぁー、もういいぞー。頭冷やそうなー？」=“Haa, it's fine. Let's cool off our heads, okay?”
 「いまはこれ以上、一緒にいたくないなー。んじゃ」=“I don't wanna be together any more, for now. See ya.”
 「キミと離れたくないなー。首輪つけちゃいたいぞー」=“I don't wanna be apart from you. I want to put a collar on you.”

@@ -326,7 +326,7 @@
 「一緒に帰らない？」=“Wanna walk home together?”
 「では、ご一緒させてください」=“Well then, do let me join you.”
 「申し訳ございません。今日は迎えに来てもらっているのです」=“My apologies. I am being picked up today.”
-「お邪魔でなければ、途中まで一緒に帰りませんか？」=“If it is not too much trouble, won't you walk home with me, atleast halfway?”
+「お邪魔でなければ、途中まで一緒に帰りませんか？」=“If it is not too much trouble, won't you walk home with me, at least halfway?”
 「有難く存じます。貴方と並んで下校する楽しみを知ってしまったんです」=“I am grateful. I have gotten a taste of the pleasure of walking home together with you, and I cannot let it go.”
 「では、また後日お誘いいたしますね」=“Well then, I shall ask again another day.”
 「もしよかったら、デートしない？」=“Wanna go on a date together? If you'd like, I mean.”
@@ -362,7 +362,7 @@
 「貴方ならもうお分かりでしょう。次にお会いするときまで、然るべき言葉をお待ちしております」=“You should understand well enough, if you are the man I think of you as. I shall be waiting for the right words, until we meet again.”
 「貴方とより良い関係を築きたいからこそ、心を鬼にいたします」=“I would like for us to have an even better relationship, thusly I shall have to harden my heart here.”
 「宜しければお話を、と思ったのですが、時間がありませんね。失礼いたします」=“I would have liked to chat with you a bit if I could have, but I truly do not have time at the moment. Do excuse me.”
-「貴方にならいくらでもご覧いただきたいのですが、手で隠すことだけはご容赦ください」=“I would like nothing more than to let you look as much as you want, but please do allow me to maintain atleast some decency.”
+「貴方にならいくらでもご覧いただきたいのですが、手で隠すことだけはご容赦ください」=“I would like nothing more than to let you look as much as you want, but please do allow me to maintain at least some decency.”
 「貴方はいつまでも変わりませんね。それが殿方の良い所なのでしょうか」=“You never change, do you? One does wonder if that is a virtue and not a sin.”
 「よろしければ、私の水着姿を心行くまでご堪能ください」=“Please savour the sight of me in a swimsuit to your heart's content.”
 「付き合っていても、恥ずかしいものは恥ずかしいのです……」=“We may be in a relationship, but some things remain embarrassing...”
@@ -524,7 +524,7 @@
 「かしこまりました。恋活部の活動、頑張ってくださいね」=“I understand. Please give your very best at the club.”
 「うふふ、何よりも楽しみにしております」=“Ufufuh, I am looking forward to it more than anything else.”
 「今度のお休み、空いておりますか？　もしお時間をいただけるなら、デートに行きたいのですが……」=“Do you have time on our next day off? If you can spare some, I would like to go on a date...”
-「うふふ、デートという言葉、前から使ってみたかったんです。当日はよろしくお願いいたします」=“Ufufuh, I have always wanted to use the word 'date' atleast once. I shall leave the specifics to you.”
+「うふふ、デートという言葉、前から使ってみたかったんです。当日はよろしくお願いいたします」=“Ufufuh, I have always wanted to use the word 'date' at least once. I shall leave the specifics to you.”
 「やっぱりお忙しいですよね。私は空いておりますので、何かありましたらご連絡ください」=“You are busy afterall. It is no matter. I am free on our next day off, so please contact me if you end up free on the day.”
 「では、最近ようやく授業に付いていけるようになった英語をお願いいたします」=“Well then, please help me with English. With your help, I have finally started being able to keep up in class.”
 「試験に向けて勉強をするつもりなのですが、ご一緒にいかがですか？」=“I am planning on refreshing the various subjects in preparation for the next exam, would you like to join me?”

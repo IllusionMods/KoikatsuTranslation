@@ -104,7 +104,7 @@
 「同胞よ！　だが、汝は我のために料理を覚えるのだ！　クックックッ」=“Comrade! However, thou shalt learn how to, for my sake! Kukukuh--”
 「汝、運動は好きか？」=“Do thou like exercise?”
 「うむ、汗をかくことはよいことだ、精進しろ」=“Umu, shedding sweat is a good thing, devote thyself to it.”
-「奇遇だな、我もだ。しかし我は、この身体を操作するために、もっと運動をしなければ……」=“What a coincidence, me as well. However, I must take it up, to atleast some extent, in order to continue using this body...”
+「奇遇だな、我もだ。しかし我は、この身体を操作するために、もっと運動をしなければ……」=“What a coincidence, me as well. However, I must take it up, to at least some extent, in order to continue using this body...”
 「汝は勉強はどうなのだ？　普段からやってるのか？　得意なのか？」=“How art thou with studies? Do thou practice it regularly? Skilled at it?”
 「こ、今度、どちらかの家で、と、共に学ぼうではないか」=“H-How about we study together, at either one of our residences, sometime?”
 「あっ、なかま……ごほん、人間界には、赤点というものが存在するからのぅ……」=“Ah--, a comrade... *cough*, shame that in the human world, there exists the concept of a "failing grade"...”

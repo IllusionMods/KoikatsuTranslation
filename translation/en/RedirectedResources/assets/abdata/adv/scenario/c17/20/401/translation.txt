@@ -12,7 +12,7 @@
 「あなたを心配しただけよ？　そもそも私って、試験前にわざわざ勉強しないのよね」=“I'm just worried about you, you know? To begin with, it's not like I ever go out of my way to study just before an exam.”
 「……ず、ずいぶん余裕なんだね」=“...S-Someone sure has a lot of confidence in themselves.”
 「だって、普段からしっかりと予習復習をしているもの。慌てることなんてないわ」=“I mean, I always do my reviews everyday so, nothing for me to worry about.”
-「あなたも自分のことがわかっているのなら、私に心配される前に動きなさいな」=“If you understand that you're a slacker yourself, then atleast do it before I start getting worried about you.”
+「あなたも自分のことがわかっているのなら、私に心配される前に動きなさいな」=“If you understand that you're a slacker yourself, then at least do it before I start getting worried about you.”
 （……帰ったら勉強するか。でも、それはそれとして……こうも一方的に言われると何かやりかえしたくなるな）=(...Guess I'll do it once I'm home. But, all that aside... being beaten down one-sidedly like this doesn't sit right with me.)
 「あ、虫が飛んでる」=“Ah, a bee.”
 「虫なんて……って、え？　どこ？　どこっ？」=“A bee... wuh, eh? Where? Where is it--?”

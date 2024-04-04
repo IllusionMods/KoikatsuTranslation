@@ -6,5 +6,5 @@
 「う、うん、噂の男。[P名前]って言うんだ」=“Y-Yeah, that very boy. I go by [P名前].”
 「初めまして、よろしくね」=“Nice to meet you.”
 「よろしく！　ってどうしたの？　俺の顔に何か付いてる？」=“Same! Erm, something the matter? Is there something on my face?”
-「ん～ん。家族以外で男の人とこんな至近距離で会話したの、初めてだったものだから」=“Nnnn~. it's just my first time talking to a boy from so up close, atleast one outside of my family.”
+「ん～ん。家族以外で男の人とこんな至近距離で会話したの、初めてだったものだから」=“Nnnn~. it's just my first time talking to a boy from so up close, at least one outside of my family.”
 （なんかすごいい観察されてるけど……どんな話をしよう）=(She's staring holes through me, I feel like a lab rat... oh well, what should we talk about?)

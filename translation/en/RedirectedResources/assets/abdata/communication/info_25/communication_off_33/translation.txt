@@ -277,7 +277,7 @@
 「相手の目を見て話すって、こんなに楽しいことなのねぇ」=“Chatting while looking your partner in the eyes, it's so fun.”
 「そろそろ、何か言ってくれてもいいんじゃない？」=“Shouldn't you talk to me about something already?”
 「なんだか私、あなたに嫌われてるみたいね？　少し頭を冷やしてくるわ、冷えそうにないけど」=“I don't know why, but I feel like you hate me, don't you? I'll go cool off my head a bit, don't feel like it's gonna cool off though.”
-「とりあえずあなた次第よ。それだけは言っておかないとね」=“For the time being, it depends on you. I gotta say that much to you atleast.”
+「とりあえずあなた次第よ。それだけは言っておかないとね」=“For the time being, it depends on you. I gotta say that much to you at least.”
 「あなたがコイカツ部の部長さんだってこと、少しずつ実感が沸いてきたわ。それじゃ、またね」=“I'm starting to understand, bit by bit, why you're the president of the Koikatsu club. Well then, see ya.”
 「そろそろ時間ね。次はもっと刺激的なことをしましょうか」=“It's about time. Let's do something more exciting next time, shall we?”
 「今日も楽しかったわ。それじゃ、また今度ね」=“I had fun today too. Well then, till next time.”
@@ -523,7 +523,7 @@
 「よかったら一緒にお勉強しない？」=“If you'd like, wanna study together?”
 「ふふ、濃密な時間にしましょうね」=“Fufu, let's have a good time together, shall we?”
 「あらそう。じゃあまた時間のあるときにしましょ」=“Oh, I see. Then, let's do it when you have time.”
-「いいわよ。あなたのことだから、ちょっと下心があるんでしょ？　人のことは言えないけどね」=“Sure. I can't say much about other people, but since it's you, you should have atleast a little bit of an ulterior motive, no?”
+「いいわよ。あなたのことだから、ちょっと下心があるんでしょ？　人のことは言えないけどね」=“Sure. I can't say much about other people, but since it's you, you should have at least a little bit of an ulterior motive, no?”
 「少し運動につきあってくれないかしら？」=“Wanna get some exercise together?”
 「ありがとう。体型維持のために身体を動かしたかったの」=“Thanks. I wanted to get some exercise in order to improve my figure.”
 「そう。気分じゃないなら、仕方ないわね」=“I see. If you're not in the mood, then it can't be helped.”

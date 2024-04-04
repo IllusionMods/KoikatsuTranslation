@@ -2,7 +2,7 @@
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
 「バッチリ決めてもらえたな……これで自信を持って[H名]を迎えられるぞ」=“Alright, they did the best they could have... I thinK I can face her with confidence, looking like this.”
-（模擬とはいえ、女の子の夢を実現させるイベントだからな……夢を壊すようなことだけはしないようにしなきゃ）=(It may be a mock one, but this is a dream come true event for many girls... I gotta atleast make sure I don't break that solemn desire.)
+（模擬とはいえ、女の子の夢を実現させるイベントだからな……夢を壊すようなことだけはしないようにしなきゃ）=(It may be a mock one, but this is a dream come true event for many girls... I gotta at least make sure I don't break that solemn desire.)
 （[H名]もバッチリ決めてもらってるだろうから、本当の新婦になった気分で来てほしいな……）=(I'm sure they're doing their best work on her too, so I hope she plays the part of my bride too...)
 （……いよいよ出番か）=(...Showtime, huh?)
 （結婚って、何年後の話なんだろう……）=(I wonder how far off the chance of a wedding really is...)

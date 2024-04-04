@@ -10,7 +10,7 @@
 「う……あんたって、時々イジワルだわ」=“Uu... you're a meanie sometimes, you know that?”
 「綺麗だってほめることのどこがイジワルなんだ？」=“Just what part of complimenting you, telling you that you're beautiful is mean, now?”
 「そうやって、わざわざ聞いてくる所がよ！」=“The way you always try to make me say that stuff, is mean!”
-「でもさ、[H名]も、ほめられて否定しないってことは、自分でもちょっとはそう思ってるってことだろ？」=“But, since you didn't deny that it was a compliment, means that you feel that way yourself, atleast a bit, no?”
+「でもさ、[H名]も、ほめられて否定しないってことは、自分でもちょっとはそう思ってるってことだろ？」=“But, since you didn't deny that it was a compliment, means that you feel that way yourself, at least a bit, no?”
 「ち、違うからね！　あたし、自分が綺麗なんて言ってないから！」=“T-That's not it, okay!? I didn't say that I'm beautiful or anything, I didn't!”
 「もう！　あんたやっぱりイジワルだわ。あたしをからかって、こんな恥ずかしいこと言わせて」=“Jeez! You really are a meanie. Teasing me, making me say such embarrassing things.”
 「ふふ、俺はからかってるつもりなんかないよ」=“Fufu, I'm not trying to tease you though.”

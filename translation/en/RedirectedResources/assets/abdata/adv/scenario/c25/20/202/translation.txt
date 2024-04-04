@@ -5,7 +5,7 @@
 「ごめ～ん、その前にお腹空いちゃった～……」=“Sorry~, before that, I'm really hungry~...”
 「あれ？　朝食は食べて来なかったの？」=“Huh? Did you not get breakfast?”
 「うん。お化粧とか、着ていく洋服選びに時間を取られて～……」=“Yeah. I kinda ended up spending a lot of time putting on makeup and picking my clothes so~...”
-「私も一応女の子だからね。そこら辺は気を遣うんすよ」=“I'm a girl too, in the end. Even I pay attention to atleast that stuff.”
+「私も一応女の子だからね。そこら辺は気を遣うんすよ」=“I'm a girl too, in the end. Even I pay attention to at least that stuff.”
 「そっか……面倒くさがりの[H名]が俺のために、いろいろ準備してくれてたんだ……。ありがとう」=“I see... You, someone who hates effort, dolled yourself up, just for me... Thank you.”
 「じゃあ、あそこのスペースで腹ごしらえをしようか。奢っちゃうよ」=“Well then, let's fill ourselves up at that booth. I'll treat you.”
 ………………=.........

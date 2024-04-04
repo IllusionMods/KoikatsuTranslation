@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「こうやって男子と一緒に帰るのって、子供の頃以来なのです」=“It's the first time I've walked home with a boy like this, atleast since I was a kid.”
+「こうやって男子と一緒に帰るのって、子供の頃以来なのです」=“It's the first time I've walked home with a boy like this, at least since I was a kid.”
 「子供の頃は誰かと帰ってたの？」=“Did you walk home with someone back then?”
 「はいー、といっても集団下校なのです。だから、二人きりで帰るのは人生で初ですよ♪」=“Yes~, but even then it was a whole bunch of us walking home together, really. So, it's my first time walking home with someone, just two of us♪”
 「こういうのはちょっと憧れでしたから……えへへ、嬉しいです」=“I've always dreamed of something like this... ehehe, it makes me happy.”

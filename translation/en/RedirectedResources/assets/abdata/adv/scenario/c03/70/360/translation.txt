@@ -5,5 +5,5 @@
 「二人きりだから大丈夫だよ。さっきの[H名]の姿、俺しか見てないから」=“It's only us here, so it's fine. Only I could see you dancing like that, [H].”
 「わあぁあぁっ！　思い出しちゃ恥ずかしいですーっ！」=“Waaaaaaah--! It's too embarrassing, don't remind me please--!”
 「あはは、ごめんごめん……っと、そろそろ時間だね。行かなきゃ」=“Ahahah, sorry, sorry... oh, our time's almost up. We gotta go.”
-「こ、痕跡だけは残さないようにしなきゃですっ！　最後にもう一度だけ確認するですよ！」=“W-We have to atleast make sure we leave no traces behind! Let me check one more time!”
+「こ、痕跡だけは残さないようにしなきゃですっ！　最後にもう一度だけ確認するですよ！」=“W-We have to at least make sure we leave no traces behind! Let me check one more time!”
 「はは、そうだね。念入りに確認しよう」=“Hahah, right. Let's give it all a thorough check.”

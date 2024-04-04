@@ -384,7 +384,7 @@
 「うわぁ！　もう、あたしをからかって遊んでるの？」=“Uwah~! Jeez, are you messing around with me~?”
 「ねえ、今日はどんな話しよっか。そろそろ大人の話でもする？」=“Hey, what should we chat about today? Wanna start talking about more mature things already?”
 「本は読む方？」=“Do you read books?”
-「ふふん、あたしは読書家なのよ？　なんたって月に一冊も読んでるんだから」=“Fufuhn~, I'm quite the bookworm, you know? I get through atleast one book every month.”
+「ふふん、あたしは読書家なのよ？　なんたって月に一冊も読んでるんだから」=“Fufuhn~, I'm quite the bookworm, you know? I get through at least one book every month.”
 「全然読まないわねえ。漫画なら読むんだけど……」=“Nah, not at all. Manga's a different story though...”
 「マイブームってあるの？」=“Got anything you're really into at the moment?”
 「あるわね。今だとロックにはまってるとこなの」=“Yeah. I'm really into rock music these days.”
@@ -474,7 +474,7 @@
 「そ、そんなに見られたら……」=“I-If you stare so hard...”
 「もう、見るのをやめなさいよ！　恥ずかしいわ！」=“Jeez, stop looking! It's embarrassing!”
 「じっと見つめても、許したりはしないわよ」=“Even if you stare at me, I'm not going to forgive you.”
-「ちょっ、ちょっと！　握っていいかどうかぐらい聞いてよ」=“H-Hey! Atleast ask me first, before you do that.”
+「ちょっ、ちょっと！　握っていいかどうかぐらい聞いてよ」=“H-Hey! At least ask me first, before you do that.”
 「やめてよ、恥ずかしい……」=“Stop it, it's embarrassing...”
 「もう！　恥ずかしすぎて、手汗かいてきちゃったから放して！」=“Jeez! It's so embarrassing, my hand's started sweating, so let go!”
 「んもう～！　ココは触っちゃダメぇ～！」=“Jeez~! No touching me here~!”

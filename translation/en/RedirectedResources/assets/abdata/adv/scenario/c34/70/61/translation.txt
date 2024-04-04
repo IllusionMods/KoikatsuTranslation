@@ -5,7 +5,7 @@
 「あ、[H]！　大丈夫だよ。それより今日も可愛いね、ｖｅｒｙ　ｃｕｔｅ！」=“Ah, [H名]! It's alright. More importantly, you're looking very cute today!”
 「モ～♡　アナタも、素敵ダヨ♡　Ｌｅｔ’ｓ　ｈａｖｅ　ａ　Ｗｏｎｄｅｒｆｕｌ　ｄａｙ♡　最高の一日、シヨウネ♡」=“Jeez~♡ You look lovely too♡ Let's have a wonderful day today♡”
 「ネ、ネェ……手、繋いデモ、イイカナ？」=“H-Hey... Can we, hold hands?”
-「あ……ごめんね、女の子に言わせちゃった。じゃあ、せめて俺から……」=“Ah... Sorry, I ought to bring up that sort of thing, as the guy. Then, I'll atleast...”
+「あ……ごめんね、女の子に言わせちゃった。じゃあ、せめて俺から……」=“Ah... Sorry, I ought to bring up that sort of thing, as the guy. Then, I'll at least...”
 「～～っ♡　ワタシたち、ｌｏｖｅｌｏｖｅダネ♡　ズット、ギュッてシテテ、ホシイノ♡」=“~~~♡ We're so lovey-dovey♡ I want to hold your hand forever♡”
 「うん、もう離さないよ」=“Yeah, I won't let you go anymore.”
 「Ｗｏｏ♡　アナタ、カッコイイ過ぎダヨ～♡　ズルイナ、ズルイ～♡」=“Woo♡ You're way too cool~♡ So unfair, so unfair~♡”

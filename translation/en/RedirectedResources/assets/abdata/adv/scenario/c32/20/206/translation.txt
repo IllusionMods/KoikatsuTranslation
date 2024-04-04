@@ -26,7 +26,7 @@
 「うん、月を見ていると……なんだか食欲が湧いてくるよ」=“Yeah, when I look at the moon... I feel my stomach gurgling.”
 「お腹が空いてるだけじゃないですか、それ」=“Aren't you just hungry?”
 「うう……もう限界だ。降りたら何か軽食を買おう……」=“Uuu... I'm at my limit. When we get down, let's grab a bite to eat or something...”
-「はぁ……デートなんですから、もっとロマンチックな雰囲気になって欲しかったですね」=“Haa... since we're on a date, I was hoping for a bit more of a romantic atmosphere, atleast more than this.”
+「はぁ……デートなんですから、もっとロマンチックな雰囲気になって欲しかったですね」=“Haa... since we're on a date, I was hoping for a bit more of a romantic atmosphere, at least more than this.”
 「ははは、でも俺は楽しかったよ」=“Hahaha, but, I had a blast, you know?”
 「……そうですね。とても楽しい時間を過ごせたと、私も思います」=“...Indeed. I had a great time too.”
 「また来ようね。で、夜景とお月さまをもっと楽しもう」=“Let's come again. Let's enjoy looking at the nightscape and the Moon even more when we do.”

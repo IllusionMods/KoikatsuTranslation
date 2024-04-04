@@ -388,7 +388,7 @@
 「はい、運命的な出会いをしましたから……もちろん、貴方のことですよ」=“Yes, afterall, I've already met my destined... of course, I'm talking about you.”
 「少し浪漫が無いかもしれませんが、単に選択した行動の結果だと思います」=“Perhaps it may come off as a bit unromantic, but I think everything is just a product of every decision building on the last.”
 「毎日してる事とかある？」=“Is there anything you make sure to do daily?”
-「最近は、体のお手入れが日課ですね。色々と、大変なのですよ？」=“Recently, I've made it a routine to thoroughly cleanse my body atleast once a day. It's a lot of work, you know? In many ways.”
+「最近は、体のお手入れが日課ですね。色々と、大変なのですよ？」=“Recently, I've made it a routine to thoroughly cleanse my body at least once a day. It's a lot of work, you know? In many ways.”
 「特にはありませんね。その、毎晩電話したりしたら、やはり迷惑でしょうか？」=“Nothing in particular, really. Uhm, if I were to call you every night, would that be a bother to you afterall?”
 「寝るときはパジャマ派？」=“You the type to wear pajamas when you sleep, [H]?”
 「はい、パジャマですよ。今度写真を撮って、お見せしますね？」=“Yes, I am. I'll take a picture for you tonight, okay?”

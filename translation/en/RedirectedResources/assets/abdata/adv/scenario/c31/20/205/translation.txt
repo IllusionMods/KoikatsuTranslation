@@ -26,7 +26,7 @@
 「こ、こら……いきなり雰囲気を作るな……ぁっ、観覧車が一番上に来たからか？」=“H-Hey... Don't create the mood out of nowhere... Ah--, is it because we've reached the summit?”
 「はは、それは偶然だけど。さっきの言葉は少しだけ訂正……一緒に居るだけじゃ、収まりそうになくて……」=“Haha, that's just a coincidence. I'd like to make a slight correction to what I said earlier... I don't think I could be satisfied, just from being together...”
 「なっ、だ、ダメだぞ？　こんな所でシたら……色々と危ない……色々とな」=“Wha--, W-We can't, you know? Doing it in a place like this... will be problematic in a lot of ways... in a lot of ways, okay?”
-「じゃあ、そこまではしなくても……キス、していいかな？」=“Then, even if we can't go that far... Can we atleast kiss?”
+「じゃあ、そこまではしなくても……キス、していいかな？」=“Then, even if we can't go that far... Can we at least kiss?”
 「まぁ、それくらいなら……いいだろう、お互いずっと喋りっぱなしだったからな、少し休憩だ」=“Well, that much... should be fine, we've been talking nonstop for a while so, let's take a short break.”
 「あ、汗臭かったりしないか？　おまえの言う通り、はしゃぎ過ぎたからな。その辺りはケア出来ていないんだ……」=“Ah, don't I reek of sweat? Just like you said, I got a bit too excited. I wasn't able to take care of that part...”
 「大丈夫だよ。俺、[H名]の汗の匂い好きだし」=“It's alright. I love the smell of your sweat, [H名].”

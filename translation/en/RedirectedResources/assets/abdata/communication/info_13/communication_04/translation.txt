@@ -200,7 +200,7 @@
 「そういえば、この前[H姓]さんいいよねーって話を聞いたよ」=“Reminds me, I heard someone really singing your praises the other day.”
 「あんまり噂話って好きじゃないのだけれど、それは素直にうれしいわね」=“I don't really like gossip all that much but, I'll happily accept that one.”
 「最近ちょっと避けられてる気がするんだけど……」=“I feel like you've been avoiding me for the past while...”
-「き、嫌いだから避けてるわけじゃないの……それだけは信じて、ね？」=“I-It's not because I don't like you... believe me atleast on that, please?”
+「き、嫌いだから避けてるわけじゃないの……それだけは信じて、ね？」=“I-It's not because I don't like you... believe me at least on that, please?”
 「そ、そんなことないわよ、私は……いつも通りだから」=“N-Not at all. I'm... the same as usual.”
 「結婚とかって、あこがれる？」=“Do you dream of getting married someday?”
 「私だって一人の女の子だもの。憧れはあるわ」=“I'm a girl too, at the end of the day. Of course I do.”
@@ -467,7 +467,7 @@
 「ううん、私も子供みたいに騒いで……ごめんなさい」=“No, I was being pretty childish too... I'm sorry.”
 「……イヤよ、私がどうして怒ってるのか、ちゃんと考えて……」=“...No. Think about why I'm mad at you, please...”
 「うん？　そんなに見つめて……何かあった？」=“Yeah? ...Did something happen? You're staring a whole lot.”
-「た、ただ見たいだけなのはわかったから……一言ちょうだい？」=“I-I got it, you just want to look... but atleast say something?”
+「た、ただ見たいだけなのはわかったから……一言ちょうだい？」=“I-I got it, you just want to look... but at least say something?”
 「えっと……何か言いたいことがあるなら、直接話して？」=“Erhm... if there's something you want to say, could you say it directly?”
 「も、もう……学園でそういう目をするのはだめよ？」=“J-Jeez... not while we're at school, okay?”
 「うう……わかりました、私の負けよ……もう好きにして」=“Uuu... I understand, I give up, it's my loss... have your way with me.”

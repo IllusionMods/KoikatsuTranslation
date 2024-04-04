@@ -5,5 +5,5 @@
 「なに？……あっ、あなたは噂の子ね、確か名前は……」=“What? ...Ah--, you're that boy, from the rumours, if I recall correctly, your name was...”
 「[P名前]って言うんだ。……って噂？」=“I go by [P名前]. ...Did you say rumours?”
 「ふふっ、大丈夫よ。悪い噂なんかじゃないから」=“Fufu--, don't worry. None of them are negative.”
-「そっか……それならひと安心……かな？」=“I see... that's something, atleast... I guess?”
+「そっか……それならひと安心……かな？」=“I see... that's something, at least... I guess?”
 「心配性なのね。ところで……私に何か用があるんじゃないの？」=“Worrywart sort, aren't you? By the way... didn't you need something from me?”

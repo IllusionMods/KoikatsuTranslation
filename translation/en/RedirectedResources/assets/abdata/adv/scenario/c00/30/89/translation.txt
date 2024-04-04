@@ -5,7 +5,7 @@
 「ふたりの仲がもっと深まるんじゃないかな。ちょっとやってみましょうよ」=“We'd probably get even closer together. Let's try it out.”
 「えっと、それじゃあ俺のことは……[Pあだ名]で」=“Erhm, well then, call me by uh... [Pあだ名].”
 「なぁにそれ、そんな呼び方でいいの？」=“What's with that, you sure you want me to call you that?”
-「一度そう呼んでもらいたくて……ダメかな？」=“I've always wanted to hear you call me that atleast once... no good?”
+「一度そう呼んでもらいたくて……ダメかな？」=“I've always wanted to hear you call me that at least once... no good?”
 「えぇ～、どうしようかな」=“Eeh~, I dunno~.”
 「あ……やっぱりそんな呼び方するの嫌だよね。ごめん」=“Ah... of course, I should have expected you'd feel grossed out by that. Sorry.”
 「ふふっ、嘘ウソ。君が喜んでくれるなら、私は何だってやるわ……ね、[Pあだ名]♪」=“Fufu--, I'm kidding, kidding. I'll do anything, if it'll make you happy... Hey, [Pあだ名]♪”

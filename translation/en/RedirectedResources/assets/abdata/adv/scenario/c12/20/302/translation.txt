@@ -3,7 +3,7 @@
 //
 「おー！　[H名]、超良かったよー！」=“Oooh! That was super awesome, [H名]!”
 「はは、褒め過ぎだって。たぶん採点とか付けたら、そんなでもないと思うぞ？」=“Hahah, you're laying it on too thick. It'd probably get middling score from the thing, you know?”
-「じゃあ、次は採点機能付きで歌ってみる？　[H名]なら絶対いい点数とれると思うけど」=“Wanna do it with the scoring on for the next one then? You'd score pretty high, atleast I think so.”
+「じゃあ、次は採点機能付きで歌ってみる？　[H名]なら絶対いい点数とれると思うけど」=“Wanna do it with the scoring on for the next one then? You'd score pretty high, at least I think so.”
 「いいって、あたし採点機能苦手なんだよ。なんか凄い歌い難くなるんだ」=“It's fine, I don't like stuff like that. It kinda puts me on the spot, makes it hard to sing.”
 「あー、変に意識しちゃうと、歌ってストレス解消に来たのに、逆にストレス溜まったりするよね」=“Ah, yeah. We came here to blow off stress, not put on some more stress, didn't we?”
 「そういう事。採点を否定するわけじゃないけど、あたしには合わないな」=“Exactly. I don't really have an opinion on the scoring one way or the other, but it just doesn't work for me.”

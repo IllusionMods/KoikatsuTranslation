@@ -5,7 +5,7 @@
 「こう広いと、運動をしたくなるのも分かります。でも運動をすると汗をかいてしまうので……」=“When it's this big, I can understand the feeling of wanting to get a workout. But, if I were to do so, I'll start sweating...”
 「汗かくの、嫌いなの？」=“Do you hate sweating?”
 「いえ、汗で服が濡れるのが嫌なんです。事前に汗をかいてもいい運動用の着替えを用意すべきでした」=“No, but I don't like having my clothes get soaked up with sweat. I should have prepared a change of clothes beforehand, a set of clothes that I wouldn't mind using for exercise and sweating in.”
-「あとは単純に恰好の問題ですね。運動に適したものじゃないと、存分に楽しめないのでは……と考えてしまいます」=“Aside from that, it's simply also a matter of appearance. If I don't wear something that's fit for exercise, I feel like I can't enjoy the activity to the fullest... atleast that's what I end up thinking.”
+「あとは単純に恰好の問題ですね。運動に適したものじゃないと、存分に楽しめないのでは……と考えてしまいます」=“Aside from that, it's simply also a matter of appearance. If I don't wear something that's fit for exercise, I feel like I can't enjoy the activity to the fullest... at least that's what I end up thinking.”
 「ああ、なるほど。それは確かに……そういえば[H名]ってファッションにこだわる方だっけ？」=“Aaah, I see. Certainly, that's... On that note though, are you the type to fuss abot over fashion, [H名]?”
 「はい。大好きです。費やせるお金や時間には限界がありますので、その中でできるだけのことをいつもしているつもりです」=“Yes. I love it. There's a limit to the amount of time and money I have to waste on it though, so I always try to make do with what I can.”
 「うんうん、いつも綺麗だもんね」=“Yeah, you always do look very pretty.”

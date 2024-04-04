@@ -206,7 +206,7 @@
 「そうね。ちょっと強引に……って、なに恥ずかしいこと言わせてるのよー」=“Yeah, for sure. Hopefully they're a bit pushy about it... Eh, what kind of embarrassing things are you even making me say--”
 「たまには私からしたい……かな。なーんて。あ、こら、変な目で見ないの！」=“Sometimes I wanna be the one who initiates them... Yeah. Ah, hey, Don't look at me with those fishy eyes!”
 「結婚するとしたら、式って挙げたい？」=“If you ever get married, would you prefer a full blown ceremony?”
-「もちろん。私だって女の子ですからね。一生に一度くらいウエディングドレスを着てみたいわ」=“Of course. I'm a girl afterall. I wanna try on a wedding dress atleast once in my life.”
+「もちろん。私だって女の子ですからね。一生に一度くらいウエディングドレスを着てみたいわ」=“Of course. I'm a girl afterall. I wanna try on a wedding dress at least once in my life.”
 「うーん、恥ずかしいから別に……あ、でもドレスは着たいから写真だけは撮りたいかな」=“Well, it's rather embarrassing so not particularly... Ah, but, I do want to take a picture in a wedding dress if possible.”
 「好きな人には積極的にアタックする？」=“Would you be proactive in your attempts to court your lover?”
 「もちろん！　当たって砕けろが信条！　と言いたいところだけど……そう簡単にはいかないわよね」=“Of course! Make them crumble and fall into your hands, that is my creed!-- Or so I'd like to say but... easier said then done.”
@@ -234,7 +234,7 @@
 「まぁ、そうよねー。キミは女子のお友達多そうだもの」=“Well, makes sense I guess. You seem to have a lot of female friends after all.”
 「キミ、コーヒーはブラックが好き？」=“Hey, do you like your coffee black?”
 「やっぱりー。私も一緒。混じりけがないのがいいわよね」=“As I thought. I'm the same way. Coffee with nothing to taint it is the best, isnt it?”
-「良かったー。お姉さんもブラック苦手……ミルクないときついのよね」=“I'm glad. This onee-san can't handle black coffee either... It's hard to drink it without atleast milk.”
+「良かったー。お姉さんもブラック苦手……ミルクないときついのよね」=“I'm glad. This onee-san can't handle black coffee either... It's hard to drink it without at least milk.”
 「お料理って、辛い物は好き？」=“Do you like your food spicy?”
 「いいわね！　オススメのアジア料理屋さんあるから、今度一緒に行きましょう」=“Awesome! There's some nice asian restaurants that I know of, next time, let's go together, alright?”
 「えへへ、実はお姉さんも無理ー。我慢して食べるのもつらいものね」=“Ehehe... Actually, this onee-san can't handle it either. Even just enduring it is hard.”

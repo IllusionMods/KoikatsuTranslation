@@ -2,7 +2,7 @@
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
 「綺麗です……このような場所があったとは知りませんでした」=“It's beautiful... I didn't know there was a place like this here.”
-「隠れた夜景スポットらしいんだ。一度[H名]と来たいなって思ってて」=“It's supposedly a hidden spot to look at the night sky from. I've always wanted to bring you here atleast once, [H名].”
+「隠れた夜景スポットらしいんだ。一度[H名]と来たいなって思ってて」=“It's supposedly a hidden spot to look at the night sky from. I've always wanted to bring you here at least once, [H名].”
 「あなたに誘っていただかなければ、見られなかった景色なのですね」=“If it wasn't for you inviting me, I could never have seen such a view.”
 「ふふふっ。ありがとうございます」=“Fufufu--. Thank you very much.”
 「どういたしまして。俺としては、夜景と同じくらい綺麗な[H名]が見れてありがとうかな」=“My pleasure. I feel pretty thankful too, since in my eyes, you look just as pretty as this nightscape today, [H名].”

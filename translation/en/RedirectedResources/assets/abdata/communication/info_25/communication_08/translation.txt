@@ -234,7 +234,7 @@
 「むぅ……私の気のせい」=“Muu... just my imagination, I guess.”
 「コーヒーのブラックは飲める？」=“Do you drink your coffee black?”
 「大人の階段を上るために頑張って挑戦してるの。でも、やっぱり苦いのは苦手かなぁ」=“I'm trying my best to tackle it too, in order to climb the stairs to adulthood. But, bitter stuff is bitter, no matter what.”
-「だよね。お砂糖入れなきゃ、飲めないよ」=“Of course. Gotta add atleast sugar, can't drink it without that.”
+「だよね。お砂糖入れなきゃ、飲めないよ」=“Of course. Gotta add at least sugar, can't drink it without that.”
 「辛いのって平気？　お料理の話なんだけど」=“Are you alright with spice? Foodwise, I mean.”
 「そうなんだぁ、私も少しなら辛いのも平気だよ。でも汗が出るくらいの辛さはダメぇ」=“I see, I'm fine with mildly spicy food myself too. But, I can't take food spicy enough to make me sweat, not one bit.”
 「私もピリピリして痛いのはダメかな。ちなみに私は、プチ甘党なんだよ♪」=“I don't like the stinging sensation either. Incidentally, I've got quite the sweet tooth♪”
@@ -267,7 +267,7 @@
 「んっ……どうしたの、また寂しくなっちゃったのかな？」=“Nn--... what's the matter, have you started feeling lonely again?”
 「甘えん坊なのかな？　男の子だったらいつまでも甘えてちゃダメなんだよ」=“Feeling spoiled? You're a boy, you can't act so spoiled forever, you know?”
 「急に握られたらびっくりしちゃうよ。次からは許可なく手を握っちゃダメだからね」=“Anyone will get started if you grab them so suddenly. Don't grab my hand without asking for permission next time, okay?”
-「ええっ！　胸を触るなら、ちゃんと許可を取ってほしいなぁ、はい。やり直しだよ」=“Eeh--! If you're gonna touch my chest, I'd appreciate if you atleast ask me for permission first. Alright, redo.”
+「ええっ！　胸を触るなら、ちゃんと許可を取ってほしいなぁ、はい。やり直しだよ」=“Eeh--! If you're gonna touch my chest, I'd appreciate if you at least ask me for permission first. Alright, redo.”
 「勝手に触ったらダメなんだよ。もう次はないんだからね？」=“You can't just touch them willy-nilly. Don't do it again, okay?”
 「ええっ！　ど、どうして胸を触るのやめてくれないの。本当にもうダメだからね」=“Eeh--! W-Why won't you stop touching my chest? You really need to stop, okay?”
 「男の人に頭を撫でられると、くすぐったくて、フワッとして、なんだか変な感じ」=“Having a boy rub my head feels so tickly and, fluffy, I don't even know how to describe it.”
@@ -479,7 +479,7 @@
 「あっ……♪　ちょっと寂しくなってたの。だから手を握ってくれて……落ち着いた」=“Ah--...♪ I was feeling a bit lonely. So you holding my hand... really calmed me down.”
 「そ、その繋ぎ方はダメぇ。恥ずかしくて頭がクラクラしちゃうからダメぇ」=“N-No holding me like that. It makes my head go dizzy from embarrassment, so just no.”
 「やっぱり手を繋ぐのは恥ずかしいよ。今は顔見ないで……！」=“Holding hands really is embarrassing. Don't look at my face for now...!”
-「んっ……触るなら、もっと優しくしてほしいな」=“Nn--... if you're gonna touch me, then do it more gently atleast.”
+「んっ……触るなら、もっと優しくしてほしいな」=“Nn--... if you're gonna touch me, then do it more gently at least.”
 「触るだけって言ったよね……なんで摘まむのかなぁ？」=“You said you were just gonna cop a feel, didn't you... So why do I feel you pinching?”
 「ひゃあ！　ちょっと触り過ぎだよ……変な気持ちになっちゃうから、もうおしまい」=“Hyah! You're touching them way too much... I'll get into a weird mood, so no more.”
 「えへへっ、くすぐったいけど、ほっとしちゃう。本当に変な感じだなぁ」=“Ehehe--, it tickles but, it makes me feel so at peace. Such a weird feeling.”

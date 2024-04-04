@@ -12,7 +12,7 @@
 「[H名]のウェディングドレス姿かぁ……うわぁ、めちゃくちゃ楽しみ！」=“You in a wedding dress, huh... uwaah, I wanna see that!”
 「ありがと……あたしだって、おまえのタキシード姿、楽しみだよ」=“Thanks... I'm excited to, see you in a tuxedo too.”
 「あれ、なんかいつもの勢いがないね？　もしかして緊張してる？」=“Huh, you don't sound as lively as usual. Are you nervous?”
-「当たり前だろ……模擬とはいえ、結婚式だぞ？　女なら、誰だって一度は夢に見るものだからな」=“Of course, dummy... it's a mock one, but it's still a wedding at the end of the day. Every girl dreams about this atleast once in their life, you know?”
+「当たり前だろ……模擬とはいえ、結婚式だぞ？　女なら、誰だって一度は夢に見るものだからな」=“Of course, dummy... it's a mock one, but it's still a wedding at the end of the day. Every girl dreams about this at least once in their life, you know?”
 「そっか、女の子の夢ってよく言うもんね。俺は[H名]の夢……叶えられるかな？」=“I see, I guess they don't call it a girl's dream for nothing. Will I be able to... make it come true for you?”
 「あたしに聞くなよ。『叶えてみせる』くらい言ってくれたって、バチは当たらないぞ？」=“Don't ask me. It's not like being a manly man and saying "I'll make it come true for you" is gonna make lightning from heaven strike you.”
 「お待たせしました！　それではご案内致します」=“Sorry for the wait! Well then, I'll be guiding you inside.”

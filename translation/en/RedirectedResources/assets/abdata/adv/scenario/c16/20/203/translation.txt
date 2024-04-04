@@ -13,4 +13,4 @@ CHOICE:『俺達も帰った方がよさそうかな』=Maybe we should go home 
 「群衆心理というやつね。まぁ、十分楽しんだし、もう帰るのには賛成よ」=“Group psychology coming into play, huh? Well, we did have our fun, plenty of it, so I agree that we should go home.”
 「うん、ギリギリで遊んで疲れちゃうよりは、余力を残して帰った方がいいよね」=“Yep, rather than running ourselves ragged till the last minute, it'd be better to go home with some energy to spare, wouldn't it?”
 「ごもっとも。はしゃぎ過ぎて、明日動けなくなりましたでは、話にならないもの」=“Indeed, as you say. An excuse like "I couldn't get out of bed because I couldn't move" isn't gonna fly in anywhere, least of all at school.”
-「はは、確かにね。それじゃあ、最後にお土産くらいは見ていこうか」=“Hahah, yeah. Well then, let's atleast go look at some souvenirs or something before we head out.”
+「はは、確かにね。それじゃあ、最後にお土産くらいは見ていこうか」=“Hahah, yeah. Well then, let's at least go look at some souvenirs or something before we head out.”

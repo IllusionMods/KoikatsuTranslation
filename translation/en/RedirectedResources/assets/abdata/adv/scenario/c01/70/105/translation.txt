@@ -33,7 +33,7 @@
 「それは……本当に、本当に、[H名]のことが大事なんだよ。俺はお父さんになったことないからわからないけど……」=“It's all because he... really, really, really treasures you, you know? I mean, I'm not a father myself so I can't understand it but...”
 「将来、[H名]と結婚して……それで、二人の間に出来た子供が女の子だったら……きっと[H名]のお父さんみたいになるんじゃないかな」=“But, when we get married someday... and the child between us, ends up being a girl... I'll probably end up like your father, [H].”
 「では……今は、わからなくても、父の愛だと思って受け入れた方がいいのですね」=“Then... even if I don't understand it, I should just accept it, as his expression of love towards me, is it?”
-「うん、俺としてはそう思う」=“Yeah, I think so atleast.”
+「うん、俺としてはそう思う」=“Yeah, I think so at least.”
 「なんてこと……私、父にひどいことを言ってしまいました」=“My goodness... I have said some truly horrible things, to my father.”
 「どんな？」=“What sort?”
 「どうしてわかってくださらないの、ですとか……もう知りません、ですとか……ああ、私は父ではなくあなたの味方だということも言ってしまいました」=“Things like, "Why won't you understand?" or... "I don't know, don't talk to me", or... I even went so far as to say "Aaah, I don't care about you anymore, I'm on my boyfriend's side".”

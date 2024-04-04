@@ -2,7 +2,7 @@
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
 「すごい……すごいよ、[P名]くん。夜空に手が届きそう」=“Amazing... it's amazing, [P]-kun. I feel like I could touch the sky if I just reach out.”
-「ここの夜景、評判って聞いてたから……一度、[H名]と来てみたかったんだ」=“I'd heard that this spot was quite famous for the view... I really wanted to come here with you, atleast once.”
+「ここの夜景、評判って聞いてたから……一度、[H名]と来てみたかったんだ」=“I'd heard that this spot was quite famous for the view... I really wanted to come here with you, at least once.”
 「そうだったんだ……ありがとう、こんな素敵な場所に連れてきてくれて」=“I see... thank you, for bringing me to such a lovely place.”
 「ここなら、“かれら”とも交信しやすいかな？」=“Ya think it'd be easier to get in contact with them from here?”
 「うん……それどころか、すぐに宇宙へ行けそうな気さえする」=“Yeah... heck, not just get in contact, but actually have a low latency call with them.”

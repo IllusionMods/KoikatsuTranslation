@@ -10,7 +10,7 @@
 「ひゃっ！　うなっ！　こっち見るなぁっ！」=“Hyah--! Unnah--! Don't look--!”
 「おーい、鼻の下伸びてるぞー。怒られないうちにやめとけよー」=“Oi, I can see that shitty grin, you know? Wipe it off before I get mad.”
 「お、珍しいところで会ったじゃん。ゆっくりしてきなよ」=“Oh, didn't expect to see you here. Take it easy.”
-「ウロウロし過ぎ。教室にいる時くらい落ち着きなって」=“You're way too restless. Learn to relax, atleast when we're in the classroom.”
+「ウロウロし過ぎ。教室にいる時くらい落ち着きなって」=“You're way too restless. Learn to relax, at least when we're in the classroom.”
 「こんなところで何してんの？　あたしの靴に変な事するなよー」=“What're you doing here? Don't do anything weird to my shoes~”
 「話すのか歩くのかどっちかにしなよ。両方は欲張り過ぎだ」=“Either walk or talk, pick one. You can't have both.”
 「ちょっと待った。あのさぁ……あたしを怒らせたいの？」=“Hold it right there. Tell me... are you trying to make me mad?”
@@ -318,7 +318,7 @@
 「おっ、お誘いだな。もちろんいいぞ。どこで食う？」=“Oh--, sounds good. Where are we eating?”
 「あー、ちょっと先約があるんだ、ごめん。また誘ってくれよ」=“Ah, I already made a promise to someone else. Sorry. Ask me again another time.”
 「今日、昼メシ一緒に食わないか？」=“How about we grab lunch together?”
-「おっ、そうこなくっちゃ。ジュースくらい奢ってやるよ」=“Oh--, that's the spirit. C'mon, I'll treat you to some juice atleast.”
+「おっ、そうこなくっちゃ。ジュースくらい奢ってやるよ」=“Oh--, that's the spirit. C'mon, I'll treat you to some juice at least.”
 「そっか、残念。ジュース奢ってやろうと思ってたのになぁ」=“I see. Shame. I'd have treated you to some real nice juice too~”
 「一緒にコイカツしよう」=“Let's do some love activities together?”
 「コイカツって……いつ聞いても恥ずかしいなそれ。ま、いいけど」=“Love activities... just hearing the words makes me blush. Well, not that I mind.”
@@ -515,7 +515,7 @@
 「おっけー！　こっちから誘おうと思ってたとこだよ。へへ、以心伝心っ」=“Okay! I almost was about to ask you that myself. Heheh, we're on the same wavelength--”
 「もぅ、いつまでたっても誘ってくれないから、こっちから言うぞ。ほら、メシいくぞ」=“Jeez, I've been waiting and waiting but you haven't come and invited me, so I'll do it myself. C'mon, we're getting lunch.”
 「よしよし、食後のデザートにあたしを食べてもいいぞ？　なーんてなっ」=“Good boy. I don't mind if you have me for dessert, you know? Just kidding~”
-「えぇ～、なんだよもぅ……なら先に言って欲しかった！　むぅ……」=“Eeh~, what the heck~... you could have atleast told me then! Muuh...”
+「えぇ～、なんだよもぅ……なら先に言って欲しかった！　むぅ……」=“Eeh~, what the heck~... you could have at least told me then! Muuh...”
 「ふふーん、コイカツですなー。じゃあ、青春しちゃいますかー」=“Fufuhn~, love activities, huh? Time for us to live our youth then~”
 「今日はコイカツ……しないのか？　あたしは準備万端だけど……」=“Are we not... doing love activities today? I've been waiting here for you all ready and stuff, you know...”
 「うん！　しようしよう！　えへへ、今日はどんな事がいいかなぁ」=“Yeah! Let's do it, c'mon! Eheheh, what should we do~”
@@ -564,4 +564,4 @@
 「わっ！　こんなことしなくても、あたしがいるだろ？　まったく……」=“Wah--! Why do you do this? You know I'd do it for you any time, no? This guy...”
 「ばっ、何してるんだ。皆の方見ようとしないで、出て行けって」=“Dum--, what the heck are you doing? Don't try to sneak a peek at the others, leave already.”
 「もちろん！　でも……ふふ、コイカツ部に興味あったんだね」=“Of course! But... fufuh~, so you were interested in my club, huh?”
-「な、なにニヤニヤしてるんだよ！　もぅ、からかうなってぇ……」=“W-What's with that shit eating grin! Jeez~, atleast someone's having fun~...”
+「な、なにニヤニヤしてるんだよ！　もぅ、からかうなってぇ……」=“W-What's with that shit eating grin! Jeez~, at least someone's having fun~...”

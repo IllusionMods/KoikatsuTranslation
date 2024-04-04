@@ -11,7 +11,7 @@
 「あなたにとっても、私にとっても」=“Both for you and for me.”
 「[H名]……」=“[H名]...”
 「それは、恋愛感情の延長線上って考えても良いのかな」=“Maybe it'd suffice to think of it as an extension of our feelings of love.”
-「私はそう思っています」=“Atleast, that's what I think.”
+「私はそう思っています」=“At least, that's what I think.”
 「あなたも同じだと嬉しいです」=“It'd make me happy if you felt the same way.”
 「同じだよ。こうして一緒にいるだけで、楽しくなったり切なくなったり……“好き”の気持ちがあるから生まれる思いなんだ」=“I do. Just from being together like this, the feeling of enjoyment, the way my heart feels stuffy... It's because I have the feelings of "love" that I feel this way, I think.”
 「……なんて、ちょっとクサすぎたかな」=“...Heh, was that a bit too pathetic?”

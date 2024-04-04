@@ -10,7 +10,7 @@
 「キミはまたそうやって……」=“Always with that stuff...”
 「ふふ、でも……あたしだって、キミと二人きりでいられて嬉しいぞー」=“Fufu, but... being alone together with you like this makes me happy too.”
 「よかった。それじゃあ一緒だね！」=“Great, looks like we feel the same way then!”
-「でも、せっかくの観覧車なんだから、外の眺めも見た方がいいんじゃないかー？」=“But, we came all the way out here so, shouldn't you atleast try to appreciate the view outside?”
+「でも、せっかくの観覧車なんだから、外の眺めも見た方がいいんじゃないかー？」=“But, we came all the way out here so, shouldn't you at least try to appreciate the view outside?”
 「あたしはキミと一緒に夜景を見るのも好きだぞ」=“Appreciating the view together with you is something I love too.”
 「たしかに、そうかもね」=“For sure, you're not wrong.”
 「でも、[H名]越しに外を見てると、どうしても[H名]に目線がいっちゃって」=“But, whenever I try to look past you and focus on the view, my eyes just move back on their own.”

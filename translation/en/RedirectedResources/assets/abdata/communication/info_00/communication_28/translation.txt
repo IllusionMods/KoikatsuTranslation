@@ -32,7 +32,7 @@
 「自分の性格を一言で言うとなんだと思う？」=“If you had to describe your personality in one phrase, what'd it be?”
 「うーむ、誰とでも仲良くなれる。いやそれは性格ではないのう」=“Mmmm, I can get along with just about anyone. Then again, I suppose that doesn't count as a "personality", does it?”
 「お主はどう思うのじゃ？　自分で言うには難しいのじゃ」=“What do you think it'd be? Such things are difficult to consider objectively by oneself.”
-「のう、違う話でもせんか？　わしはそうしたいのじゃ」=“Why do we not talk about something different? I would like to do so, atleast.”
+「のう、違う話でもせんか？　わしはそうしたいのじゃ」=“Why do we not talk about something different? I would like to do so, at least.”
 「その……どうして、そんな喋り方をしてるの？」=“Uhm... why do you talk like that?”
 「ん～、小さい頃から近所のご老人と一緒にいたから、かのう」=“Nn~, I suppose due to the long time I spent together with the elderly in my neighbourhood, as a child.”
 「将棋、強いの？」=“Are you good at Shogi?”
@@ -300,7 +300,7 @@
 「……本当によいのか？　やったのじゃ～！　これで恋人同士じゃな」=“...Is it really alright? Yay~! With this, we are lovers.”
 「……やっぱりダメなのじゃな。それでもわしの気持ちは変わらないのじゃ」=“...It is indeed of no use, isn't it? Even so, my feelings towards you will not change.”
 「あ、あのさ……きみとHしたいなって」=“H-Hey... I wanna have sex with you maybe, hahah.”
-「そ、そういうことは結婚……せめて付き合ってからじゃ……」=“S-Such things should be left till after marri... atleast once we start dating...”
+「そ、そういうことは結婚……せめて付き合ってからじゃ……」=“S-Such things should be left till after marri... at least once we start dating...”
 「きみとHしたいな」=“I wanna have sex with you.”
 「友達じゃが……そ、そうじゃな。わしもしたい……のじゃ」=“We are but friends, however... i-indeed. I would like to... do it as well.”
 「悪い気はしないのじゃが、わしらはまだ友達なのじゃ……」=“The offer is tempting, and yet we are still but friends...”
@@ -403,7 +403,7 @@
 「……な、何を急に……す、好きじゃ。大好きじゃっ」=“...W-Where did that come fro... I-I love you. Dearly--”
 「嫌いじゃ……とでも言うと思ったか？　安心するのじゃ」=“I hate you... is that phrase what you expected me to say? Be at ease.”
 「彼氏がデートに遅れてきたら待てる？」=“If I showed up late to a date, would you wait?”
-「心配するのじゃ。だから、連絡はちゃんとするのじゃぞっ」=“I would worry. Thusly, you must atleast call me--”
+「心配するのじゃ。だから、連絡はちゃんとするのじゃぞっ」=“I would worry. Thusly, you must at least call me--”
 「わしも待たせるくらいなら、帰るのじゃ。……嘘なのじゃ」=“If I am made to wait, I shall just go home instead. ...That was a lie, I would never.”
 「友達と彼氏だったら、彼氏の方が優先？」=“If it came down to me or your friends, would I come first?”
 「彼氏が優先……なのじゃ。でもその次に友達なのじゃっ」=“You... would be. But my friends would come right after--”

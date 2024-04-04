@@ -27,7 +27,7 @@
 「そうです♡　だって、私なんて悪いところばっかりで……家族以外の誰かに褒められたことなんか……あ……」=“I do♡ I mean, I've no redeeming qualities at all... I don't think I've ever been praised by anybody outside of my family... oh wait...”
 「どうしたの？」=“What's up?”
 「ありました……一回だけ、褒められたこと。小学生の頃、担任の先生に言われたんです。それが……」=“There was this one time... just one time, that someone praised me. Back when I was in elementary school, my homeroom teacher said it to me once. That...”
-「『あなたみたいな純粋な子がいて嬉しいわ』って……あなたに言われるまで、すっかり忘れてました……」=“『I'm really glad there's atleast one pure child like you』... I had completely forgotten about it, until you said the same thing...”
+「『あなたみたいな純粋な子がいて嬉しいわ』って……あなたに言われるまで、すっかり忘れてました……」=“『I'm really glad there's at least one pure child like you』... I had completely forgotten about it, until you said the same thing...”
 「その先生は、[H名]のことが好きだったんだね。やっぱり[H名]は純粋なんだよ」=“That teacher really liked you, didn't they? You really are pure, [H名].”
 「その時のこと、あまり覚えてないんですけど……覚えてないってことは、きっとしっくり来なかったんでしょうね」=“I don't remember all that much from back then but... I'm sure the reason I didn't remember it until now, is because it didn't really fit me.”
 「でも、思い出せたってことは、きっと心のどこかに引っ掛かってたんだよ。埋まってたとも言えるのかな……」=“But, the fact that you remembered it means that it must have stuck, buried somewhere deep inside your heart...”

@@ -104,7 +104,7 @@
 「ママのありがたみがわかるわよね～、ホント……」=“It really puts it into perspective just how hard mothers work, doesn't it~...”
 「あなた、体を動かすのは好き？」=“Do you like moving your body?”
 「心身ともに健康なのが一番よね。朝、一緒にジョギングする？」=“Having a healthy mind and body together's the best, isn't it? Want to go jogging together in the mornings?”
-「うんうん、お休みの日ぐらいはゴロゴロしたいわよね」=“Yeah, exactly, atleast on the weekend, you just want to roll around in bed, right?”
+「うんうん、お休みの日ぐらいはゴロゴロしたいわよね」=“Yeah, exactly, at least on the weekend, you just want to roll around in bed, right?”
 「お家でもちゃんと勉強してる？」=“Do you make sure to study at home too?”
 「あら、予習復習まで……偉いわ♪　なでなでしてあげる」=“My, even your reviews... good boy♪ Let me stroke your head.”
 「お家だと誘惑が多いものね……そういう時は図書室がオススメよ」=“It's very easy to get distracted at home, isn't it... I recommend heading to the library when you feel like that.”
@@ -305,7 +305,7 @@
 「あらあら、正直ね……うふふ、いいわよ」=“My oh my, so direct... ufufu, sure.”
 「もう少し我慢できない？　あなたならできるはずよ」=“Can't you hold it in just a bit longer? My little champ should be able to.”
 「ここでHしたいな」=“I wanna have sex here.”
-「何事も経験だものね。……いいわ、最後までお付き合いしてあげる」=“Suppose you should try everything atleast once. ...Sure, I'll keep you company till the end.”
+「何事も経験だものね。……いいわ、最後までお付き合いしてあげる」=“Suppose you should try everything at least once. ...Sure, I'll keep you company till the end.”
 「こーら、こんなところでふざけちゃダメでしょ」=“Hey~, don't joke about that stuff here.”
 「あらまぁ、こんなところで？　抑えられないのなら、しょうがないわねぇ」=“Dearie me, here? I suppose there's no helping it, if you can't hold it in~”
 「はいはい、また今度ね～。冗談はおしまいよ」=“Yes yes, next time, okay?~ No more jokes.”

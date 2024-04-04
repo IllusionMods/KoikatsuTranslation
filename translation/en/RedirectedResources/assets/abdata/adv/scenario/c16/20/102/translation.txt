@@ -10,7 +10,7 @@
 「そっか、じゃあ俺の責任でもあるね。テーブル付きのベンチが空いてるみたいだし、そこで宿題やっちゃおうか？」=“I see, I guess it's partly my fault too then. Just as well, that bench table seems to be empty too, so wanna do it over there?”
 「いいの？　折角デートに来たのに……やっぱり、この話はなかった事に……」=“You sure? We finally came on a date and... nevermind, pretend I never...”
 「いいっていいって、気になって仕方ないから相談してきたんでしょ？」=“It's fine, it's fine, it's been on your mind so much that you couldn't help yourself, that's why you asked in the end, no?”
-「そうでもないなら、[H名]は黙ってるタイプだと思うし。折角ベンチも空いてるんだから、これはチャンスだよ！」=“You're the type to just keep quiet about that stuff otherwise, atleast I think. The bench is still vacant too, we gotta take it while nobody's got their eye on it!”
+「そうでもないなら、[H名]は黙ってるタイプだと思うし。折角ベンチも空いてるんだから、これはチャンスだよ！」=“You're the type to just keep quiet about that stuff otherwise, at least I think. The bench is still vacant too, we gotta take it while nobody's got their eye on it!”
 「うん……本当にありがとう。もしかしたらそう言ってくれないかと思っていた事、全部言ってくれるのね」=“Okay... thanks, really. You always say all the things I want to hear you say, even when I don't think you will.”
 「一応これでも[H名]の彼氏だからね。[H名]の事なら、誰よりもわかるつもりだよ」=“I mean, I am your boyfriend. I'd like to think I know you better than most, if not everyone else.”
 「さ、とにかくやっちゃおうか。俺は横で見てるから、分からないとことかあったら言ってね」=“Now then, let's just get it done. I'll just be here watching so, if there's anything you don't get, just ask.”

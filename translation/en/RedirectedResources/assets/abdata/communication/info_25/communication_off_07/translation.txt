@@ -364,7 +364,7 @@
 「はぁ～今構ってる時間はないんだ」=“Haa~, I don't have the time to bother with you right now.”
 「……なんだ？　話によっては聞いてやるけど？」=“...What? I'll listen if you have something to say to me though.”
 「とりあえず、またあとで話そう。な？」=“For the time being, let's talk more later, okay?”
-「わわっ！　突然なんだよぉ……その、心の準備ってものがあるだろ？！」=“Wawah--! That's way too sudden... atleast let me, uhm, prepare myself first!”
+「わわっ！　突然なんだよぉ……その、心の準備ってものがあるだろ？！」=“Wawah--! That's way too sudden... at least let me, uhm, prepare myself first!”
 「み、見るなら私だけに……じゃなくて、出ていけって！」=“I-If you're gonna look, look only at me... Wait, no, get out!”
 「べ、べつに水着なんて珍しくないだろ？　せ……背中からも見てみるか？」=“T-There's nothing unusual about me wearing a swimsuit, now is it? D... Do you wanna take a look at my back too?”
 「ほ、ほら！　私をちゃんと……見ろよっ……！　よそ見すんな！」=“H-Hey! Take a... good look at me--...! Don't look away!”
@@ -492,7 +492,7 @@
 「二人の仲が深くなったから、こう言う時間も苦じゃないよな！」=“Now that we've become so close, even just spending time like this doesn't feel boring at all, does it!”
 「もうそろそろ、なんか話さないか？　言ってないこと、あるだろ？」=“Won't you talk to me about something already? You should still have things left to say to me, right?”
 「ちょっと、今無理……。いったん切り上げよう！」=“I can't right now... Let's cut it off here for now!”
-「私だって別に、怒りたいわけじゃないんだ。それだけは知ってて欲しい」=“It's not like I want to be mad at you either. I want you to understand atleast that.”
+「私だって別に、怒りたいわけじゃないんだ。それだけは知ってて欲しい」=“It's not like I want to be mad at you either. I want you to understand at least that.”
 「もう少しだけって、いつも思うんだよなあ。贅沢かな？」=“I always find myself wanting to be together, just for a bit longer. Am I too spoiled?”
 「あーもうっ！　私の体って正直だから困るよ。次、期待してるからな？」=“Aah, jeez--! My body's way too damn honest. I'm really looking forward to our next time, okay?”
 「名残惜しいけど、またな！」=“I really don't want to part but, till next time!”
