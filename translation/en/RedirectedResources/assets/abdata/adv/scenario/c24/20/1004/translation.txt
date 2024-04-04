@@ -7,7 +7,7 @@
 「はい、そのときは是非……」=“Yes, when the time comes, definitely...”
 「お願いします！　今日はお引き受けいただいて、ありがとうございました」=“Thank you! And for helping us out so much today as well, thank you very much!”
 「どうしたの、[H名]。ちょっと疲れちゃった？」=“What's up, [H名]? Tired?”
-「あ、いえ♡　その……♡　私に……自分に、おまじないをかけていたんです♡」=“Ah, no♡ It's,,,♡ I was... just casting a small spell on myself♡”
+「あ、いえ♡　その……♡　私に……自分に、おまじないをかけていたんです♡」=“Ah, no♡ It's...♡ I was... just casting a small spell on myself♡”
 「おまじない？」=“A spell?”
 「はい♡　さっきの式はあくまで模擬で、本当じゃないって……私、勘違い女ですから、こうでもしないと、明日から奥さん面しちゃいそうで♡」=“Yes♡ The ceremony we just had was in the end just a mock one... I'm a woman that misunderstands a whole lot, so if I don't do atleast this much, I'll start thinking that I really am your wife, from tomorrow onwards♡”
 「[H名]……」=“[H名]...”
