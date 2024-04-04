@@ -12,7 +12,7 @@
 「みんなそっちに行ってるの？」=“Everyone's gone over there?”
 「うん。ここはあまり知られていないんだよ」=“Yeah. Not many people know about this one.”
 「へぇ、そうなんだ。いい場所知ってるじゃない」=“Hoh, I see. You sure know some good places.”
-「コイカツ部として、デートスポットは色々調べてるからね」=“I'm always on the lookout for new date spots, afterall, as the president of the Koikatsu club.”
+「コイカツ部として、デートスポットは色々調べてるからね」=“I'm always on the lookout for new date spots, after all, as the president of the Koikatsu club.”
 「ふぅん……あんたもちゃんと活動してるんだ」=“Fuuhn... so you do your club activities properly too, huh?”
 「うっ、ひどいなぁ」=“Uu--, so harsh~”
 「ふふ、ごめんね。わざわざあたしのために調べてくれたんでしょ？　感謝してるわよ」=“Fufu, I'm sorry. You went out of your way to look for this place for me, no? I really am thankful, you know.”

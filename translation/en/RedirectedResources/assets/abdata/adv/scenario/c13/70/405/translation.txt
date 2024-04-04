@@ -18,6 +18,6 @@
 「ははっ、とか言って、[H名]も顔を赤くしてるじゃないか」=“Haha--, you say that but, isn't your face burning up too, [H名]?”
 「……アタシだって、恥ずかしさがないわけじゃないんだよ」=“...It's not like I don't have any embarrassment in me either.”
 「でも、次もしてくれるよね？」=“But, you'll do it again next time too, right?”
-「えへへ、あったりまえじゃん！　だって……」=“Ehehe, that's obvious! Afterall...”
-「だって……？」=“Afterall...?”
+「えへへ、あったりまえじゃん！　だって……」=“Ehehe, that's obvious! After all...”
+「だって……？」=“After all...?”
 「……アタシは、[P名]くんの彼女なんだからねっ！」=“...I'm your girlfriend, [P名]-kun--!”

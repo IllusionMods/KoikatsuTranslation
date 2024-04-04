@@ -9,7 +9,7 @@
 「ジェットコースター♡　Ｔｈｒｉｌｌ満点で楽しかったネ♡　『おばけ屋敷』と『動物ふれあい広場』も見えるヨ♡」=“Roller coaster♡ What a thrill it was♡ There's also the haunted house and animal play area♡”
 「ほら、どんどんあがってくるよ。頂上はここら辺のどの建物より高くなるからね」=“Look, we're going higher and higher. The top's going to be higher than any building around here.”
 「Ｗｏｗ♡　トッテモ楽しみ♡　……ワー……遊園地の外、見えてきたヨ♡　……ヤッパリ、ワタシ、ニッポンに住んでるんダネ」=“Wow♡ Sounds super fun♡ ...Waah... the outskirts of the amusement park, are coming into view♡ ... Really gives me the realization that I'm in Japan.”
-「この遊園地の周りって、バリバリ日本の住宅街だもんね。海外の景色とはやっぱり違う？」=“The area around the park is full of residential buildings, afterall. It really is different from the way it is abroad, huh?”
+「この遊園地の周りって、バリバリ日本の住宅街だもんね。海外の景色とはやっぱり違う？」=“The area around the park is full of residential buildings, after all. It really is different from the way it is abroad, huh?”
 「ウン、全然違う……フフ……」=“Yeah, completely different... Fufu...”
 「ん？　[H名]どうしたの？　なんだか、寂しそうな顔してる？」=“Hm? What's up? You're making a really lonely face there, [H名].”
 「エッ、そうだったカナ？」=“Eh--, really?”
@@ -42,7 +42,7 @@
 （我ながら幼稚だけど、目を閉じさせる方法がこんなことしか思い浮かばなかった……）=(Even for me this is a pretty silly idea but, I couldn't think of any other way to make her close her eyes...)
 「ンン……はふ、ありがと……アナタがいてくれたら、って思うト……ンッ……チュ……平気なんダケド、ソレ言えなくて……ン……チュ、チュむっ……♡」=“Nnn... hafu, thanks... I wanted to say, If you were to stay by me... nn--... *kiss*... I'd be fine, but I couldn't bring myself to say that... nn... *kiss*, *kiss*...♡”
 「どうして？」=“Why?”
-「ウン……ンンッ……アナタは、ＫＯＩ－ＫＡＴＳＵ部の部長デ……あむっ……ン……他にも可愛いオンナノコ、タクサンいるカラ……チュ……♡」=“Nnn... Nnnnn--... You're the president, of the Koikatsu club... *gasp*--... nnn... There's lots of other cute girls too, afterall...*kiss*...♡”
+「ウン……ンンッ……アナタは、ＫＯＩ－ＫＡＴＳＵ部の部長デ……あむっ……ン……他にも可愛いオンナノコ、タクサンいるカラ……チュ……♡」=“Nnn... Nnnnn--... You're the president, of the Koikatsu club... *gasp*--... nnn... There's lots of other cute girls too, after all...*kiss*...♡”
 「ダカラ、慣れないとナノ……ンッ♡　……アナタがいなくなってモ、ンン……ニッポンで生活していけるヨウニ……デモ、こんなｋｉｓｓされタラ……忘れられないヨ♡」=“That's why, I have to get used to it... Nn--♡ ...so that I can live my life here, nnn... even if you leave me one day... but, if you kiss me like this... I won't be able to forget about you♡”
 （俺は今、酷いことをしてるんだろうな……けど、そんなこと言われて、やめられるわけない）=(I'm probably doing something really cruel right now... But, I can't bring myself to stop, not when she's saying something like that)
 「俺は[H名]が好きだよ……」=“You're the one I love, [H名]...”

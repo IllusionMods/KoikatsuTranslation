@@ -4,4 +4,4 @@
 「やっぱり、あなたと勉強すると捗るなぁ」=“Studying with you really does help me get it done faster.”
 「俺も、とても捗ってるよ」=“Same here, I'm making quite the progress.”
 「本当かなぁ。私、勉強の邪魔してないかなぁ」=“Is that really true? Are you sure I'm not getting in your way?”
-「邪魔なんてしてないよ。人に教えるのは自分の勉強にもなるんだから」=“You're not in the way at all. Teaching others helps you understand the material better yourself too, afterall.”
+「邪魔なんてしてないよ。人に教えるのは自分の勉強にもなるんだから」=“You're not in the way at all. Teaching others helps you understand the material better yourself too, after all.”

@@ -7,7 +7,7 @@
 「こちらこそありがとうだよ。[H名]と付き合うようになってから、毎日が楽しくて仕方ないんだ」=“No, thank you. Ever since we started going out together, every single day's been so fun I just can't help myself.”
 「それなら私もよ。毎日新しい発見があるわ、アナタの事を観察していると、本当に飽きないの」=“That's the same for me. I get to see something new everyday, I really never get tired of looking at you.”
 「私って何でも知りたがるでしょう？　そういうところ、嫌われていないかなって心配なんだけど……」=“I mean, you know how I'm the type who wants to figure out everything, you know? I'm actually kinda worried, whether you hate that side of me or not...”
-「大丈夫、心配無用だよ。俺だって、[H名]のことは何だって知りたいって思ってるもん」=“It's alright, you're worrying needlessly. I mean, I want to figure out all there is to know about you too, afterall.”
+「大丈夫、心配無用だよ。俺だって、[H名]のことは何だって知りたいって思ってるもん」=“It's alright, you're worrying needlessly. I mean, I want to figure out all there is to know about you too, after all.”
 「そうなの？　じゃあ、お互いに質問タイムでもする？　二人きりの密室だし、周りの目を気にせず話せるわよ」=“Really? Wanna have a quick question round then? We're alone here too, so we don't need to be worried about prying eyes.”
 「いいね。それじゃあ早速質問。俺のどういうところが好き？」=“That sounds nice. Alright, I'll go first then. What part of me do you like?”
 「えっ、いきなり答えにくい質問ね……流石に恥ずかしいわよ……」=“Eh--, why'd you start with such a hard one... it's really embarrassing to answer that, you know...”

@@ -95,7 +95,7 @@
 「その無言で哀れむような目で訴えてくるのはやめてちょうだい」=“Could you not look at me with those eyes full of pity?”
 「あなたって動物好きな方？　猫とか」=“Do you like animals? Like cats and whatnot.”
 「猫は私も好きよ。見てると癒されるわ」=“I like cats too. Looking at them soothes my heart.”
-「奇遇ね、私も苦手よ。……可愛がっていても、別れがきてしまうもの」=“What a coincidence, me too. ...No amount of love will prevent them from dying eventually, afterall.”
+「奇遇ね、私も苦手よ。……可愛がっていても、別れがきてしまうもの」=“What a coincidence, me too. ...No amount of love will prevent them from dying eventually, after all.”
 「男の子はご飯をよく食べるのかしら」=“Suppose since you're a boy, you must eat a lot?”
 「私も普通の子より食べる方だと思うけれど、悪いことじゃないわよね？」=“I eat more than your average girl too but, that's not something bad, is it?”
 「あら、私もよ。自慢じゃないけれど、あなたよりずっと小食だと思うわ」=“Oh, me too. I wouldn't bet actual money on it, but I probably eat a lot less than you do.”

@@ -23,7 +23,7 @@
 「俺も、意外に[H名]にウェディングドレスが似合ってて、見惚れちゃったよ」=“You also looked surprisingly good in that wedding dress, it really charmed me.”
 「そうかー……ん？　意外に？　さっきと言ってること違くないか？」=“I see... Hm? "surprisingly"? Did I hear you right there?”
 「あっ、いや！　思ってたよりも更に、ずっと綺麗だったってこと」=“Ah--, no! I meant that you looked way more beautiful, than you did even in my imagination.”
-「[H名]ほど綺麗な女の子なんて、他にはいないんだから」=“There's no other girl as beautiful as you out there, afterall.”
+「[H名]ほど綺麗な女の子なんて、他にはいないんだから」=“There's no other girl as beautiful as you out there, after all.”
 「……ありがとう。キミにそう言われるのが、一番嬉しいなー」=“...Thank you. Hearing you say that, is what makes me happy most of all.”
 「キミも、タキシードが意外に似合ってたぞ」=“You look surprisingly dashing too, in that tuxedo.”
 「はははっ、ありがとう」=“Hahaha--, thanks.”

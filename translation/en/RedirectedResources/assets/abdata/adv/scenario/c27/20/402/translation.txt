@@ -11,7 +11,7 @@
 「そもそも、厳密な違いってあるの？」=“Is there much of a difference between the two to begin with?”
 「コーヒーが主役か、牛乳が主役かで変わるって聞いたことある気がするよ」=“I feel like people do differentiate between them, citing whether the milk or whether the coffee is in the lead role.”
 「そういえば、[H名]はコーヒーはブラックで飲むんだっけ？　それともミルクとか入れる？」=“Reminds me, were you the type to put milk in your coffee, [H名]? Or do you drink yours black?”
-「そのままよ。私は大人だから」=“Black. I'm an adult, afterall.”
+「そのままよ。私は大人だから」=“Black. I'm an adult, after all.”
 「最初は背伸びして飲んでたんじゃないの？」=“Sure you didn't have to force it down your throat at the start?”
 「うぐっ……別にそんなことないわよ」=“Uguh--... not at all.”
 （涙目になりながら飲んでた姿が、ありありと浮かぶなぁ）=(I can just about imagine it, [H名] chugging it down with tears in her eyes)

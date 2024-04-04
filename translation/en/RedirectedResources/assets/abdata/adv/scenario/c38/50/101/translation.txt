@@ -21,4 +21,4 @@
 「お安い御用です。ではこちらに、手を繋いでも……よろしいですか？」=“No problem at all. Could we, hold hands... while we go?”
 「もちろん大歓迎！　[H名]はもっと積極的に、ガンガン来て欲しいな！」=“Of course! You can do with being way more assertive than that too, [H名]!”
 「自分を卑下せず……積極的にガンガン……承知しました。キョロキョロしてしまうのは、特にやめなくても……？」=“Be assertive... without disparaging myself... I understand. And I don't need to stop my habit of looking around all over...?”
-「うん、そこは全然ＯＫ！　色んなもの見つけて笑ってる[H名]、可愛かったしね」=“Yep, that's just fine! You looked cute afterall, giggling at every little thing you saw.”
+「うん、そこは全然ＯＫ！　色んなもの見つけて笑ってる[H名]、可愛かったしね」=“Yep, that's just fine! You looked cute after all, giggling at every little thing you saw.”

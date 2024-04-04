@@ -24,7 +24,7 @@
 「[H名]がそんなつもりじゃないのはわかってるよ」=“I know that's not what you were trying to do.”
 「でも、あんなこと言われたら、男はその気になっちゃうんだ」=“But, if you say that sort of stuff, just about any boy's gonna get in the mood.”
 「そ、そうなの……？」=“I-Is that so...?”
-「うん。だって、今の[H名]は特別だから」=“Yep. Afterall, right now, you're really special.”
+「うん。だって、今の[H名]は特別だから」=“Yep. After all, right now, you're really special.”
 「宇宙のことや、“かれら”との交信のことについて話しているときの[H名]は、すごく生き生きとしてる」=“Whenever you're talking about the space or the cosmos, or about your communication with "them", you get very animated and lively.”
 「俺は、そんな[H名]と一緒にいるのが嬉しくて、楽しいんだけど……」=“That side of you is so fun, it makes me really happy, but...”
 「今こうやって夜空に見惚れている[H名]は、なんていうか、すごく神秘的で……ずっと、見惚れてしまう」=“This side of you, the side that's enchanted by this view, how do I say this, it's so mystical to me... it's enchanting to me.”

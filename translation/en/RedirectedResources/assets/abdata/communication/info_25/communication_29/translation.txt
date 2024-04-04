@@ -28,7 +28,7 @@
 「どうでしょうか。比較的、誰かと一緒の方が多い気がしますが……」=“I wonder? If I had to say, I think I spend more time with other people than by myself...”
 「今日、授業中についウトウトしちゃって……そういうことってない？」=“Today, I almost started dozing off in class... ever had that happen to you?”
 「実は時々……。気をつけなければと思ってはいるのですけれど」=“Honestly, it does happen sometimes... I do try to be careful about it though.”
-「私は、常に授業には集中しています。しっかり学ばなくてはいけませんからね」=“I always try my best to concentrate in class. We have to absorb the knowledge being handed out properly, afterall.”
+「私は、常に授業には集中しています。しっかり学ばなくてはいけませんからね」=“I always try my best to concentrate in class. We have to absorb the knowledge being handed out properly, after all.”
 「占いって信じる方？」=“You the type to believe in astrology and stuff?”
 「そうですね……一応。ただ、最終的には自分がどうするかだと思います」=“Good question... I suppose so. Although, I do believe that at the end of the day, you control your own fate.”
 「行動の目安にする程度です」=“Only as much as using it as a reference for the future.”
@@ -44,13 +44,13 @@
 「いえ、あまり……。別の話題が多いです」=“No, not really... We mostly talk about other stuff.”
 「恋愛相談ってされる方？」=“Do people come to you for relationship advice?”
 「よくされますけれど……どうアドバスをすれば良いのかわからなくて」=“They do but... I don't really understand how to best do so.”
-「以前はされていましたけれど、今はめっきりなくなりました。私も恋愛経験がないので」=“Quite often in the past but, not so much nowadays, actually. I have no experience when it comes to love myself either, afterall.”
+「以前はされていましたけれど、今はめっきりなくなりました。私も恋愛経験がないので」=“Quite often in the past but, not so much nowadays, actually. I have no experience when it comes to love myself either, after all.”
 「好きな男性のタイプは？」=“What sort of guy do you like?”
 「……どんな時でも冷静沈着な人が良いですね」=“...I like people that can stay cool, calm, and collected no matter what the situation.”
 「どう答えて良いものやら……普段、そのようなことを考えないので」=“I don't know how to answer that... I normally never think about that stuff.”
 「少々恥ずかしいですね……。別のお話にしませんか？」=“That's quite embarrassing... Could we not talk about something else?”
 「学園内で浮いた話ってあまり聞かないよね」=“Don't really get to hear much raunchy stuff at this school, do ya?”
-「それはまぁ……女子校ですから」=“That's, well... it's an all-girls school, afterall.”
+「それはまぁ……女子校ですから」=“That's, well... it's an all-girls school, after all.”
 「コイカツ部、これからどうなっていくのかなぁ」=“I wonder how things will go for the Koikatsu club...”
 「部長のあなたが弱気でどうしますか。もっと自信を持ってください」=“Well, they certainly won't go well if you as the club leader show weakness like that. Please have some more confidence in yourself.”
 「そうそう。この前やってた恋愛ドラマで――」=“Reminds me. They were airing this romance drama on TV the other day--”
@@ -106,7 +106,7 @@
 「適度な運動は心もスッキリしますね」=“A good amount of exercise helps calm the heart down too, doesn't it?”
 「少し親近感が湧きました。私、どうしてもインドアになりがちで」=“That makes me feel a bit of comradery with you. I just can't help but be an indoorsy person.”
 「普段から勉強していますか？」=“Do you make it a habit to study?”
-「よいことです。積み重ねが結果として表れますから」=“Very commendable. Chipping at it daily is what leads to results, afterall.”
+「よいことです。積み重ねが結果として表れますから」=“Very commendable. Chipping at it daily is what leads to results, after all.”
 「……次のテストでは、お互いに苦労するかもしれません」=“...The both of us might face some trouble, on the next test.”
 「身なりには気を使う方ですか？」=“Do you pay attention to your personal appearance?”
 「少々意外ですけれど、そうなんですね。大事なことだと思います」=“That's a bit unexpected but, not unwelcome. I do think it's quite important.”
@@ -186,7 +186,7 @@
 「ん、私ですか？」=“Nn, me?”
 「テストが返却される前って、妙にドキドキしたりしない？」=“Doesn't it make your heart race, when the teacher starts returning the tests?”
 「多少は。緊張とはまた違うと思うのですが」=“I suppose so. I don't think it's nervousness though.”
-「特にしないですね。既に結果は出ているようなものですから」=“Not really, I'd say. You can't change the results, afterall.”
+「特にしないですね。既に結果は出ているようなものですから」=“Not really, I'd say. You can't change the results, after all.”
 「テレビって見る方？」=“Do you watch TV?”
 「そうですね。カルチャー系の番組は見ていて楽しいです」=“Indeed. It's fun to watch all the cultural programs they air.”
 「あまり……強いて言えばニュースぐらいでしょうか」=“Not all that much... If I had to say, I suppose I do watch the news?”
@@ -200,7 +200,7 @@
 「この前の朝、慌てて家を出たら――」=“The other day, I left my place in the morning in a rush when--”
 「誰にも見られなかったのが、不幸中の幸いですね……」=“Small mercy that nobody else saw you...”
 「誰かと付き合う想像ってする？」=“Do you fantasize about going out with someone?”
-「え、ええ、まあ……年齢も年齢ですから」=“Y-Yes, well... I'm of that age too, afterall.”
+「え、ええ、まあ……年齢も年齢ですから」=“Y-Yes, well... I'm of that age too, after all.”
 「積極的にはあまり……。たまにふと思わなくはないですけれど」=“Not really all that aggressively... It does just pop into my head sometimes though.”
 「理想の彼氏像ってある？」=“Do you have an ideal boyfriend in mind?”
 「落ち着いている人でしょうか。騒がしい方は少し……」=“A calm sort of person, I suppose? I don't think I'd be able to hand a noisy sort of guy...”
@@ -233,7 +233,7 @@
 「くすっ、良かったです……あっ、いえ、なんでも……ありません」=“*giggle*--, I'm glad... ah--, no, it's... nothing.”
 「なるほど。では、もっと精進します」=“I see. Well then, I'll try even harder.”
 「コーヒーはブラックで飲みますか？」=“Do you drink your coffee black?”
-「やっぱりブラックが一番ですよね。香りも味も、しっかり楽しめますから」=“Black coffee truly is the best, isn't it? You can easily savour both the aroma and the taste, afterall.”
+「やっぱりブラックが一番ですよね。香りも味も、しっかり楽しめますから」=“Black coffee truly is the best, isn't it? You can easily savour both the aroma and the taste, after all.”
 「ええ。ミルクや砂糖で、まろやかにして飲むのも美味しいと思います」=“I agree. I do think it's delicious to drink it after mellowing it out a bit with some sugar and milk as well.”
 「辛い食べ物は食べられますか？」=“Can you eat spicy food?”
 「美味しいですよね。個人的には唐辛子のピリッとした辛さが好きです」=“It's delicious, isn't it? Personally, I just love how capsicum makes my tongue sting.”
@@ -303,7 +303,7 @@
 「申し訳ありません。お付き合いもしていない方と、そのような行為に及ぶわけには……」=“I'm sorry. I don't think I can do that sort of thing with someone I'm not even going out with...”
 「きみとHしたいんだ」=“I want to have sex with you.”
 「……はぁ。とんだ変態ですね。……ま、まあ、それを言うなら私もですけれど」=“...Haa. What a pervert you are. ...W-Well, not that I'm one to talk.”
-「い、いけません。私たちは……友人同士ですから」=“W-We mustn't. We're... just friends, afterall.”
+「い、いけません。私たちは……友人同士ですから」=“W-We mustn't. We're... just friends, after all.”
 「ここできみとHしたいんだけど」=“I wanna have sex with you here.”
 「こ、こんなところで……興奮し始めている自分が怖いです」=“I-In this sort of... I'm scared of the fact that I'm getting excited.”
 「さすがに、誰かに見られながらは無理です！」=“Doing it with other people in view really is just completely out of the question!”
@@ -554,7 +554,7 @@
 「あの……[Pあだ名]」=“Uhm... [Pあだ名].”
 「なに？　[Hあだ名]」=“What is it? [Hあだ名].”
 「よ、呼んでみただけ……です」=“I-I just wanted to... say it.”
-「は、はい……良いですよ。[Pあだ名]とのエッチ……満たされる感じがしますから」=“Y-Yes... alright. Having sex with you is always so... satisfying afterall, [Pあだ名].”
+「は、はい……良いですよ。[Pあだ名]とのエッチ……満たされる感じがしますから」=“Y-Yes... alright. Having sex with you is always so... satisfying after all, [Pあだ名].”
 「その……私、[Pあだ名]とエッチしたいのですが、よろしいですか？」=“Listen, uhm... I want to, have sex with you, [Pあだ名], is it alright?”
 「あの、少しお話しませんか？」=“Uhm, won't you chat with me for a bit?”
 「あの、[Pあだ名]。少しお話しませんか？」=“Uhm, [Pあだ名]. Won't you chat with me for a bit?”

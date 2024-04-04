@@ -2,7 +2,7 @@
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
 「ん～……歌いたい曲は、大体歌っちゃったな」=“Nn~... I've more or less gone through all the songs I wanted to sing.”
-「たくさん歌ってましたからね。お疲れ様ですっ」=“You did sing a whole lot, afterall. Great work--”
+「たくさん歌ってましたからね。お疲れ様ですっ」=“You did sing a whole lot, after all. Great work--”
 「これから、どうしましょう？　延長の時間はまだありますけど……」=“What do you want to do next? We still have some of the extended slot left...”
 CHOICE:『もうちょっと居ようか』=Let's stay for a bit longer.
 CHOICE:『帰ろうか』=Let's go home.

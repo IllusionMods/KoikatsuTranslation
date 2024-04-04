@@ -3,5 +3,5 @@
 //
 「……いいわよ」=“...Sure.”
 「本当にいいの？」=“Are you really sure?”
-「ええ、私の大好きで、大切な恋人だもの」=“Yes, you're my boyfriend, the person I love so much, afterall.”
+「ええ、私の大好きで、大切な恋人だもの」=“Yes, you're my boyfriend, the person I love so much, after all.”
 「だから、私の初めて、もらってほしい」=“So, I want you to have it, have my virginity.”

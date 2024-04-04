@@ -2,7 +2,7 @@
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
 「……綺麗……ここって、夜になるとこんな夜景が見られたんだ。知らなかった……」=“...It's beautiful... so you get to see such a view from here, at night. I never knew...”
-「あ、やっぱり場所自体は知ってた？」=“Ah, so you knew of the place afterall?”
+「あ、やっぱり場所自体は知ってた？」=“Ah, so you knew of the place after all?”
 「うん。ここでもよく遊んだし、家族でピクニックにきたときは、いつもここでお弁当食べてたんだ。でも、夜は一回も来たことなかったから……すごくビックリ」=“Yep. I used to play here a lot, and whenever we would come for picnics, we'd always set down our sheet here. But, I've never come here at night so... I didn't expect this.”
 「よかった。ここからの夜景が綺麗だって知ってから、[H名]と一緒に見たかったんだ」=“Great. Ever since I found out that the view from here was this nice, I just couldn't help but want to see it with you.”
 「…………」=“......”

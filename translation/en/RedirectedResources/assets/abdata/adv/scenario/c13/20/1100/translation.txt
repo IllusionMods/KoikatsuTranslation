@@ -21,7 +21,7 @@
 「……あんまり、緊張してなさそうだね？」=“...Not that nervous, are you?”
 「ううん、実はマジ緊張してる」=“No, I'm actually super nervous.”
 「でも、全然そうは見えないよ。すごく堂々としてるし」=“But, you don't seem that way at all. You look majestic.”
-「そりゃ、アタシ、今日の為に生きてきたからさ」=“Well, of course, I've been living till now for this day, afterall.”
+「そりゃ、アタシ、今日の為に生きてきたからさ」=“Well, of course, I've been living till now for this day, after all.”
 「そっか……[H名]はここぞって時にしっかりしてるね。ずっとそう思ってた」=“I see... You're always dependable when it push comes to shove, [H名]. I've always felt that way.”
 「新婦から新郎へ」=“Now from the bride to the groom.”
 「[P名]くんは、いつでも優しくて、カッコよかったよ」=“[P名]-kun, you're always really sweet and cool too, you know.”

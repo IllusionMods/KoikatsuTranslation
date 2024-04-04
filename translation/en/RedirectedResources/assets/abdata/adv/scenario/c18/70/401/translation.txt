@@ -14,6 +14,6 @@
 「でもさ、あの映画の主人公でさえ何回も不幸な目にはあってるんだし。[H名]もいつか不幸がチャラになるくらい巻き返せるんじゃない？」=“But, you know, even the protagonist in that movie kept getting into one problem after another. Won't your own fate turn around one day, enough to offset all the unhappiness you've suffered so far?”
 「そうだったらいいんですけれど……」=“Wouldn't that be nice...”
 「ひょっとすると[H名]は映画の主人公みたいに、これから巻き返してハッピーエンドに近づく頃合いだったりするかもよ」=“You never know, just like in the movies, your life might have already turned around, and you might be approaching your own happy ending instead.”
-「私の人生が本当にあなたの言う通りになってくれたら……そのときは私のこれまでも、そう悪くないものだったと思えるかもしれないですね」=“If my life really does go like you say it might... maybe my life upto this point wouldn't seem so bad in hindsight afterall.”
+「私の人生が本当にあなたの言う通りになってくれたら……そのときは私のこれまでも、そう悪くないものだったと思えるかもしれないですね」=“If my life really does go like you say it might... maybe my life upto this point wouldn't seem so bad in hindsight after all.”
 「まあ何にせよあの映画は面白いし、今度一緒に続編見ようよ」=“Well, at any rate, that movie was interesting to say the least, so let's go watch the sequel together sometime.”
 「はい。是非一緒に」=“Yes. I'd love to.”

@@ -12,7 +12,7 @@
 「ご褒美？　よし、そういうことなら、俺も本気で行くよ！」=“A reward? Alright, I guess I'll get off my ass just this once too!”
 ………………=.........
 「うぅ……結局、[H名]には追いつけなかった……」=“Uuu... I couldn't overtake you in the end...”
-「あたしも本気で走ったからなー。でも、キミも思ったよりずっとねばってたぞ」=“I was running with my all too, afterall. But, you hung in there for way longer than I thought.”
+「あたしも本気で走ったからなー。でも、キミも思ったよりずっとねばってたぞ」=“I was running with my all too, after all. But, you hung in there for way longer than I thought.”
 「何度も挑戦してくるから、気付いたら大分遠くまで来てるしなー」=“We kept going from one spot after another so, we've actually come pretty far from where we started.”
 「そうだね、でもここに芝があってよかった。寝転がるのにもちょうどいいし」=“Yeah, good thing there's some grass here. Just perfect for lying down and rolling around on.”
 「うん！　走った後、そのまま外で横になるのも気持ちいいもんだなー」=“Yeah! Just lying down after running all over feels pretty nice too, doesn't it~?”

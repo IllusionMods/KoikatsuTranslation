@@ -28,5 +28,5 @@ CHOICE:『これからもこういう場所を増やそう』=Let's keep finding
 「もちろん、ここだけじゃないよ？　世界征服するつもりなら、もっといろんな場所を見ないと」=“Since this place isn't gonna be the end, you know? If you plan on conquering the world, we're gonna have to explore a whole lot.”
 「ふふん、当然だ！」=“Fufuhn~, of course!”
 「……その為には、汝も一緒でなければならないな……これからも、付き合ってくれるか？」=“...But I cannot achieve that, without thee by my side... will you stay by my side?”
-「ああ、もちろんだよ。俺たちは魂の同士だからな」=“Yeah, of course. Our souls are bound, afterall.”
+「ああ、もちろんだよ。俺たちは魂の同士だからな」=“Yeah, of course. Our souls are bound, after all.”
 「う、うん！　……えへへ」=“Y-Yeah!... Eheheh.”

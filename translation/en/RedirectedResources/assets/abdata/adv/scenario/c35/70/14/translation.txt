@@ -5,4 +5,4 @@
 「おはよう。ううん、違うよ。ちょうど目が覚めて……って、[H名]はもう起きてたんだ？」=“Morning. No, you didn't. I just woke up by myself... Wait, were you already awake?”
 「うん、寝顔見られるの恥ずかしいけん。でも代わりに、君の寝顔はばっちり見たよ。ぐっすりすやすや……可愛い寝顔やったよ♪」=“Yeah, it'd be too embarrassing to let you see my sleeping face. But, in turn, I got a real good look at your sleeping face. Tucked in, sleeping soundly... It was super cute♪”
 「うぅ……それはそれで恥ずかしい……[H名]以外には見られたくない顔かも……」=“Uuu... That's pretty embarrassing alright... I don't think I want to show that face to anyone aside from you, [H名]...”
-「えへへ、彼女の特権やね♪　そうやって君にとって特別な存在でおれるの、めっちゃ幸せなんよ♪」=“Ehehe, it's your girlfriend's special privilege, afterall♪ Being able to be a special person in your eyes like that, it makes me super happy♪”
+「えへへ、彼女の特権やね♪　そうやって君にとって特別な存在でおれるの、めっちゃ幸せなんよ♪」=“Ehehe, it's your girlfriend's special privilege, after all♪ Being able to be a special person in your eyes like that, it makes me super happy♪”

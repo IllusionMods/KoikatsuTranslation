@@ -19,7 +19,7 @@
 「えっ！？　いやいや、もちろん大好きだよ！」=“Eh--?! No no, of course I love you!”
 「そ、そうか……だったら……ここでキスしてみねえか？」=“I-I see... in that case... how about we kiss here?”
 「……うん、分かった」=“...Okay, sure.”
-「俺も、[H名]とキスしたかったし」=“I wanted to kiss you too, afterall.”
+「俺も、[H名]とキスしたかったし」=“I wanted to kiss you too, after all.”
 「[P名]……じっとしてろよ。私からしてやる」=“[P名]... stay still. I'll do it.”
 「んんっ……」=“Nn--...”
 「ん……」=“Nn...”

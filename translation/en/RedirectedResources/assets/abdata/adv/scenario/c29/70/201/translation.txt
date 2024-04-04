@@ -19,7 +19,7 @@
 「…………」=“......”
 「だ、大丈夫？　さっきから黙ったままだけど。やっぱり怖かったとか……」=“Y-You alright? You've been quiet for a while. It was that scary, huh...”
 「……いえ、怖くはなかったのですが、これほど水に濡れてしまうとは思ってもなかったので……」=“...No, I wasn't afraid but, I never thought I'd get this wet...”
-「前の方の席だと、盛大に水をかぶっちゃうからね。ハンカチかなにかで拭こうか？」=“The front seats do get blasted with most of the onslaught, afterall. Wanna wipe it off with a handkerchief or something?”
+「前の方の席だと、盛大に水をかぶっちゃうからね。ハンカチかなにかで拭こうか？」=“The front seats do get blasted with most of the onslaught, after all. Wanna wipe it off with a handkerchief or something?”
 「それには及びません。ハンカチは私も持っていますし、この濡れ方ではあまり役に立たないと思います」=“It's fine, that's not necessary. It's not like I don't have one myself, but I don't really think it's going to be all that useful with how absolutely drenched I am.”
 「んー、でもそのままっていうのも……ジェットコースターに乗って乾かしてみる？」=“Nnn, but you can't just stay like that... wanna dry off with a ride on the roller coaster?”
 「発想は素晴らしいですが、連続で絶叫系というのはどうなのでしょうか……」=“That's a wonderful idea but, I'm not sure about riding one screamer after another...”

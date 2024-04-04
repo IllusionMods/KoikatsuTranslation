@@ -19,7 +19,7 @@
 「では、二人の誓いの印として、指輪の交換を致します」=“Then, as the proof of your vows, you may now exchange the rings.”
 「初めに新郎から新婦へ」=“First from the groom to the bride.”
 「ふふっ、真面目なお顔……ドキドキしてるのかな？」=“Fufu--, such a serious face... is your heart racing?”
-「もちろん。だってすごく重要な場面でしょ」=“Of course. This is a really important moment afterall, no?”
+「もちろん。だってすごく重要な場面でしょ」=“Of course. This is a really important moment after all, no?”
 「そうだけど……えへへ、君のそういうお顔、めったに見られないから……なんだか嬉しい」=“It is but... ehehe, you don't show me such a face often so... it kinda makes me happy.”
 「はは、そうかな？　でも[H名]にそう言われると、少し落ち着けるかも」=“Haha, that so? But, hearing you say that, helps me calm down a bit.”
 「新婦から新郎へ」=“Now from the bride to the groom.”

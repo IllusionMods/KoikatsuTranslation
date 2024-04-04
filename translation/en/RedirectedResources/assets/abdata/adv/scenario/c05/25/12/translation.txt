@@ -3,5 +3,5 @@
 //
 「え、えっち……うん、いいよ」=“S-Sex... okay, sure.”
 「本当に？　嫌だったら断ってもいいんだよ？」=“You sure? You can say no too, just so you know.”
-「いいの。あなたとえっち、したかったから」=“I'm sure. I wanted to have sex with you too, afterall.”
+「いいの。あなたとえっち、したかったから」=“I'm sure. I wanted to have sex with you too, after all.”
 「[P]くん。あなたもわたしと一緒に救われましょう」=“[P]-kun. Let's get rescued off of here together.”

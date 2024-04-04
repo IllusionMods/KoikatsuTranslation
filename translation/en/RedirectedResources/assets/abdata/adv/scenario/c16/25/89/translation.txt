@@ -5,7 +5,7 @@
 「へぇ、いいんじゃない。面白そうね」=“Hoh, why not? Sounds fun.”
 「やった！　じゃあ、俺のことはさ……[Pあだ名]って、呼んでくれる？」=“Yay! Then, will you call me... [Pあだ名]?”
 「えっ！？　ちょっと待って。それ、本気で言ってる？　愛称っていうのはこう……名前を縮めたりとか」=“Eh--?! Hang on a second. Are you being serious there? Nicknames are more... like shortened names and whatnot.”
-「あー、やっぱ変かな？　どうしても[H]に呼んで欲しかったんだけど……」=“Aah, I guess it's weird afterall? I really wanted to hear you call me that though, you know...”
+「あー、やっぱ変かな？　どうしても[H]に呼んで欲しかったんだけど……」=“Aah, I guess it's weird after all? I really wanted to hear you call me that though, you know...”
 「うっ、別に……嫌とは言ってないわ。ちょっとびっくりしただけよ」=“Uu--, I didn't... say no. It just surprised me, that's all.”
 「じゃあじゃあ！　俺は[H]の事、[Hあだ名]って呼んでいい？」=“Then, then! Mind if I call you [Hあだ名] too?”
 「い、いいんじゃない。好きになさい」=“W-Why not? Do as you like.”

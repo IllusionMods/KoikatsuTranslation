@@ -88,7 +88,7 @@
 「どうすればモテるかな？」=“What should I do to become popular?”
 「それ、私に聞くことじゃないと思うよ～」=“I don't think you should really be asking me that, of all people~”
 「やる気なさそ～なのってダメなの～？」=“Is being lazy really all that bad~?”
-「だよね～、他の人には関係ないよね～」=“Right~, it's not anyone else's business afterall~”
+「だよね～、他の人には関係ないよね～」=“Right~, it's not anyone else's business after all~”
 「ん～？　みんなのやる気が下がる～？　やる気は個人の問題だと思うんだけどな～」=“Nn~? It makes everyone demotivated too~? I feel like motivation is everyone's own personal problem though~”
 「返事がびみょ～だね～、別にいいけどさ～」=“What a wishy-washy answer~, well, not that I mind I guess~”
 「どうでもいい質問だけど、動物ってどう～？」=“This really doesn't matter but like, opinion on animals~?”
@@ -99,12 +99,12 @@
 「そうだよね～、やっぱり食べることより寝ることだよね～」=“Of course~, sleeping's way better than eating, isn't it~”
 「料理とかしてるの～？　一人暮らしなんでしょ～？」=“Do you cook and stuff~? You live alone, no~?”
 「へぇ～……私もするよ～。レンジでチン、綺麗に飾って出来上がり～」=“Heh~... I cook too~. Put it in the microwave, plate it, and dinner's served~”
-「やっぱね～面倒だしね～」=“Of course~, it's a pain afterall~”
+「やっぱね～面倒だしね～」=“Of course~, it's a pain after all~”
 「体育の授業とか好き～？」=“Do you like PE~?”
 「私も～。あ、意外？　座学よりは好きだよ～」=“Me too~. Ah, surprised? It's better than being bored to death in class~”
 「私も～、やっぱり動かないのが一番だよね～」=“Me too~, not moving and just staying still is the best, isn't it~?”
 「家で勉強してるの～？」=“Do you study at home~?”
-「お～、同じ～。後回しにすると、もっと面倒になるからね～」=“Oh~, me too~. It just becomes more of a pain the more you put it off, afterall~”
+「お～、同じ～。後回しにすると、もっと面倒になるからね～」=“Oh~, me too~. It just becomes more of a pain the more you put it off, after all~”
 「うんうん～、授業だけ手一杯になるよね～」=“Yeah, I feel you~, just classes alone are a handful, aren't they~”
 「ファッションに気を使ってる方なの～？」=“Are you the type to put care into your fashion~?”
 「ふ～ん。まぁそろそろ周りの目も気にしなきゃね～」=“Hmm. Well, gotta care about your image too~”
@@ -289,7 +289,7 @@
 「俺……きみのことが好きなんだ。付き合って欲しい」=“I... love you. I want you to go out with me.”
 「う、う～、ごめん、ね～？　まだお友達で～……ね？」=“U-Uu~, I'm sorry~. I wanna still be just friends~... you know?”
 「きみのことが好きなんだ」=“I love you.”
-「……う、うん。い、いいよ。わ、私も好き、だし？」=“...Y-Yeah. A-Alright. I-I love you too, afterall.”
+「……う、うん。い、いいよ。わ、私も好き、だし？」=“...Y-Yeah. A-Alright. I-I love you too, after all.”
 「嫌いじゃないけど……ごめん。気持ちの整理ができなくて……」=“I don't exactly hate you either but... sorry, I can't sort out my feelings...”
 「えっと……わ、私と付き合ってくだ、さい……！」=“Erhm... p-please go out with, me...!”
 「よかった～……うぅ……嬉しい……！」=“Yay~... Uuu... I'm so happy...!”

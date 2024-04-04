@@ -29,7 +29,7 @@
 「最後に、愛の証としてキスをしていただきます」=“Lastly, as the proof of your love, you may now kiss each other.”
 「綺麗だよ。[H名]……」=“You're beautiful, [H]...”
 「上げるとき……手が、震えてた。そんなで……大丈夫？」=“When I was putting it in... your hand, was shaking. Are you... sure?”
-「声が震えてる[H名]に言われたくないよ。やっぱり、人前で挙げるのは嫌だった？」=“I don't wanna hear that from you. Your voice is shaking so much. Don't like having our ceremony around others afterall?”
+「声が震えてる[H名]に言われたくないよ。やっぱり、人前で挙げるのは嫌だった？」=“I don't wanna hear that from you. Your voice is shaking so much. Don't like having our ceremony around others after all?”
 「ううん……人前だから緊張、してるけど……大丈夫。そして、緊張以上に……胸が、とっても……ドキドキしてる」=“No... I am nervous since, there's people around but... I'm okay. Not to mention, more than the nervousness... my chest, is... pounding so much.”
 「俺もドキドキが止まらない。こんなに綺麗な[H名]を前にして、平常でいられる方がどうかしてるって」=“My heart won't stop pounding either. It would be weirder for me to be unruffled, with you looking so pretty right in front of me.”
 「周りが気になるなら、俺だけを見ればいい。今は俺と君、二人だけの時間なんだ」=“If you're bothered by the people around us, just look only at me. This is our moment, only ours.”

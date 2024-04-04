@@ -4,7 +4,7 @@
 「男子とカラオケなんて……初めてだわ」=“Going out to Karaoke with a boy... it's the first time I've done this.”
 「友達とはよく来るの？」=“Do you come often with friends?”
 「誘われたら付き合うけど、自分からはあんまり」=“I tag along if I get invited but, not on my own initiative no.”
-「……私、音痴だし」=“...I'm tone deaf, afterall.”
+「……私、音痴だし」=“...I'm tone deaf, after all.”
 「お、それって本当は上手いパターンだ」=“Oh, and I bet you're gonna actually turn out to be a real good singer.”
 「フリじゃないわよ！」=“I'm not lying!”
 「ごめんごめん。ま、俺もあんまり上手くないし、そういうのは気にせず楽しく歌おう」=“Sorry, sorry. Well, I'm not all that good at singing either so, let's not worry about that stuff and just have fun.”

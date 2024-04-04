@@ -50,11 +50,11 @@
 「タイプ……ごめんなさい。考えた事がなかったわ」=“My type... I'm sorry. Never really thought about it.”
 「ごめんなさい、感情論は苦手なの」=“I'm sorry, emotion based arguments are not really my forte.”
 「女子同士ってコイバナとか多いの？」=“Do girls gossip about romance a lot between themselves?”
-「そうね、皆年頃だもの。他に話題はないのかってくらいね」=“Yes, everyone's about that age, afterall. Almost to the point that nobody talks about anything else.”
+「そうね、皆年頃だもの。他に話題はないのかってくらいね」=“Yes, everyone's about that age, after all. Almost to the point that nobody talks about anything else.”
 「コイカツ部ってどう思うかな？」=“What do you think of the Koikatsu club?”
 「どう思うって……もう少し要点を言ってくれないと答えようがないわ」=“What I think... I'm afraid I can't really give you a satisfactory answer unless you tell me what exactly you're looking for.”
 「女の子同士で付き合ってる子達とかいるのかな？」=“Are there girls who go out with each other, just girls?”
-「いるわよ。元女子校だもの。アナタ、そういう趣味なの？」=“Yes. It's an all girls school, afterall. Is that your fetish?”
+「いるわよ。元女子校だもの。アナタ、そういう趣味なの？」=“Yes. It's an all girls school, after all. Is that your fetish?”
 「積極的な男性って好き？」=“Do you like assertive guys?”
 「何事にも意欲的に取り組めるというのは好ましいわ。生きる力そのものだもの」=“I can come to like a guy with a positive 'can-do' attitude about life. Really no other way to live life.”
 「自分の中で完結できるのならいいけど、大概そういう輩は他人を巻き込む迷惑な奴よ」=“As long as they limit it to themselves, it's fine but, people like that usually get other people wrapped up in their own mess.”
@@ -91,7 +91,7 @@
 「そ、それは……い、一般には生殖の適齢期というのがあって……」=“T-That's... i-in general, once a girl's body becomes ready for reproduction...”
 「正直に答えて、男にとって私のような女は面倒なのかしら？」=“Answer me this seriously, is a girl like me too annoying for guys?”
 「そ、そう……貴重な意見をありがとう。参考にさせて貰うわ」=“I-I see... thanks for your valuable opinion. Let me think on it a bit.”
-「へぇ、そういう見方もあるのね。アナタの事、少し見直したわ」=“Hoh, you can look at it like that too, huh? You're not so bad afterall.”
+「へぇ、そういう見方もあるのね。アナタの事、少し見直したわ」=“Hoh, you can look at it like that too, huh? You're not so bad after all.”
 「私は正直に答えてと言った筈よ、変な気を使わないで」=“I told you to answer me seriously, don't be considerate for no reason now.”
 「動物は好き？　犬や猫の話よ」=“Do you like animals? I'm talking about cats or dogs.”
 「そう、私も好きよ。動物は可愛いものね」=“I see, I love them too. They're adorable, aren't they?”
@@ -106,7 +106,7 @@
 「いい答えね。体は全ての資本よ。今度一緒にジョギングでもどう？」=“Good answer. Your body is everything. How about we go jogging together sometime?”
 「そうなのね。いずれ体は不要となる。そんな時代も近いと私は考えているわ」=“Right. We won't need these bodies anymore, someday. I think that day is pretty close.”
 「勉強はしている？　学生の基本よ？」=“Do you study? I hope you know to, as a student.”
-「へぇ、見直したわ。アナタ、わかっているようね」=“Hoh, I didn't think you had it in you. You seem to get the drill afterall.”
+「へぇ、見直したわ。アナタ、わかっているようね」=“Hoh, I didn't think you had it in you. You seem to get the drill after all.”
 「時間というリソースを何に割くかは人それぞれよね。お互い後悔だけはしないようにしましょ」=“The resource called 'time' is a finite one, and we all have different ideas on how to spend it. Let's just both try not regretting the could haves and should haves.”
 「ファッションには気を使っているのかしら？」=“Do you pay mind to fashion and whatnot?”
 「えぇ、いい傾向だと思うわ。見た目じゃないというのは言い訳にしかならないから」=“Yes, I think that's a good attitude. "Looks aren't everything" is nothing more than an excuse.”
@@ -181,7 +181,7 @@
 「フフッ、興味があるみたいね？　ほら、もっと近くにきなさい」=“Fufuh--, you seem to be interested, huh? C'mon, come closer.”
 「コイカツ部は順調なの？　やるからにはきちんとした方がいいわよ」=“Is your club going well? If you're doing it, then you'd best do it well, okay?”
 「もうお昼の時間なのね。ふぅ、しっかり休まなきゃ」=“It's already lunch time, huh? Fuh, gotta destress properly.”
-「放課後になったからって気を抜いてはダメよ？　ここからの行動が重要なのだから」=“Don't let everything loose just because school's out, okay? This is the part where our actions mean everything, afterall.”
+「放課後になったからって気を抜いてはダメよ？　ここからの行動が重要なのだから」=“Don't let everything loose just because school's out, okay? This is the part where our actions mean everything, after all.”
 「ひゃんっ！　もう！　おどかすのやめてっ！」=“Hyahn--! Jeez! Don't startle me like that--!”
 「何か用事？　遠慮せず言ってみなさい」=“Need something? You don't need to hold back with me.”
 「きみって凄いよね。頭の回転が速いっていうか」=“You're a pretty amazing girl, you know that? Your brain goes so fast.”
@@ -199,7 +199,7 @@
 「もうちょっと違う話題はないの？」=“Do you not have another topic for me?”
 「うー、疲れたー」=“Uu, I'm beat~”
 「そう言うから疲れるのよ。もっと自分をコントロールなさい」=“Complaining like that is why you get tired so easily. Exert some control onto yourself.”
-「ファーストキスってやっぱり特別なもの？」=“So is your first kiss something you hold dear afterall?”
+「ファーストキスってやっぱり特別なもの？」=“So is your first kiss something you hold dear after all?”
 「特別ね。一生その人の顔は覚えてる事になると思うし」=“Yes. I'm sure I'll remember that person's face forever.”
 「そうでもないわ。順番だけで言えば親が最初という人も多いでしょうし」=“Not necessarily. I mean, if you were to really dig, most people's first kiss is from their parents.”
 「付き合ったら尽くすタイプ？」=“Are you the type that'd dedicate herself to her partner?”
@@ -210,12 +210,12 @@
 「先に何があるのか、恋愛の場合は結婚ね。それを考えないのは単なる時間の浪費よ」=“Everything has a next step, and with dating, that's marriage. If you're not thinking about that then it's just a waste of time and nothing more.”
 「男女間で友情は成立するかな？」=“Could friendship between a man and woman truly be possible?”
 「あり得る話よ。最初から可能性を否定しては何も生まれないわ」=“I'd say it is. Certainly, you wouldn't get very far if you deny the possibility right from the outset.”
-「難しいでしょうね。異性に対する欲求は本能的なものだから」=“It'd likely be difficult. Desire towards the other sex is almost an instinctual matter, afterall.”
+「難しいでしょうね。異性に対する欲求は本能的なものだから」=“It'd likely be difficult. Desire towards the other sex is almost an instinctual matter, after all.”
 「少し質問が図々しいかしら。なんでもコイカツでは許されないわよ？」=“That's a pretty shameless question. You can't pass off anything and everything with just the "Koikatsu" word, you know?”
 「はぁ、恋ってなんなんだろ」=“Haah, just what the heck is love?”
 「それは私も疑問よ。一緒に考えましょう」=“What I wouldn't give to know that? Let's think on it together.”
 「エッチしたいなって思った事ある？」=“Ever really felt like having sex?”
-「あ、あるわ……そういう年頃ですもの。でも、誰でもいいってわけじゃない……」=“I-I have... I'm that age, afterall. But, it's not like I'd do it with just anyone, you know...”
+「あ、あるわ……そういう年頃ですもの。でも、誰でもいいってわけじゃない……」=“I-I have... I'm that age, after all. But, it's not like I'd do it with just anyone, you know...”
 「興味はあるけど、どうしてもって程のものじゃない。先にやるべき事が多すぎるもの」=“I am interested in it but, that's as far as it goes, really. There's way too many things I'd rather do.”
 「アブノーマルなエッチって知りたい？」=“Any interest in more fetishistic sex?”
 「なんだか目が怖いわよ……っぅ、し、知っておいて損はないと思うわ……」=“Your eyes are kinda scary... uu, w-well, I wouldn't lose anything knowing about it...”
@@ -384,7 +384,7 @@
 「んもぅ！　だからおどかすのやめてって言ってるのにっ……」=“Jeez! I keep telling you to stop trying to scare me--...”
 「この後の予定はどうなっているの？　私が付き合える事なら何でも言って」=“Got any plans after this? If it's something I can tag along to, I'd love to.”
 「俺、[H]と釣り合ってるかな？」=“Do you really think I'm a good fit for you, [H]?”
-「もちろんよ、私が選んだのだもの。間違いないわ、自信を持ちなさい」=“Of course, I picked you, afterall. And I don't make mistakes, so be more confident.”
+「もちろんよ、私が選んだのだもの。間違いないわ、自信を持ちなさい」=“Of course, I picked you, after all. And I don't make mistakes, so be more confident.”
 「いきなりどうしたの？　何か言われたりした？　聞いてあげるから、全部吐き出しなさい」=“What's wrong, all of a sudden? Did someone say something to you? I'll hear you out so, tell me everything.”
 「毎日お風呂って入ってる？」=“Do you get into the bath daily?”
 「えっ、入ってる……わよ？　まさか匂う？　結構気を使っているのだけれど。ねぇどうなの？」=“Eh--, I... do, you know? Wait, do I smell? I try to be careful about that stuff though. Hey, do I?”
@@ -426,8 +426,8 @@
 「エッチなキスは好き？」=“Do you like lewd kisses?”
 「す、好きよ。いやらしくアナタの舌が絡み付いてきて……やだ、私何言ってるのかしらね。あは……」=“I-I do. Your tongue, lewdly wrapping around mine... gosh, what am I even saying? Ahah...”
 「もちろん、好きだけど……普通のキスの方が好きかしら」=“Of course, I do but... I'd say I like normal kisses more.”
-「やっぱりアソコが一番感じるんだよね？」=“So your crotch is definitely your most sensitive part afterall, I take it?”
-「そ、そうよ……そういう所ですもの。変な事なんて何もないわ。普通なのよ……普通」=“T-That's right... It's that sort of a place, afterall. It's not weird at all. It's normal... completely normal.”
+「やっぱりアソコが一番感じるんだよね？」=“So your crotch is definitely your most sensitive part after all, I take it?”
+「そ、そうよ……そういう所ですもの。変な事なんて何もないわ。普通なのよ……普通」=“T-That's right... It's that sort of a place, after all. It's not weird at all. It's normal... completely normal.”
 「その日にもよりけりよ。ちゃんと私が弄って欲しいところ……わかってね？」=“It depends on how I'm feeling on that day. Try to... figure out where I want it each time, okay?”
 「ほんと、男は下半身で生きてるって実感させられるわ……はぁ……」=“You're a walking example of "men really do think with their dicks"... haah...”
 「初エッチの時ってどうだった？」=“How was your first time?”

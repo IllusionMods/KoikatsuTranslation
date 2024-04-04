@@ -2,7 +2,7 @@
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
 「おっと……混んできたね」=Oh boy... it's started getting pretty packed, huh?
-「皆様、ご帰宅される時間なのですね」=It's time for everyone to go home, afterall.
+「皆様、ご帰宅される時間なのですね」=It's time for everyone to go home, after all.
 「そうだね……うおっと」=Yeah... woah--
 （うおぉ、この体勢はやばいっ、股間が[H名]に……）=(Uwoh, this position is bad, my crotch is sticking into [H名]...)
 CHOICE:『欲望に身を任せる』=Give in to your desires.

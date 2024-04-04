@@ -2,7 +2,7 @@
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
 「やっぱり、ジェットコースターは乗るまで時間がかかるね」=“It really does take a lot of time to actually line up for the roller coaster, doesn't it?”
-「人気のアトラクションだもの。どこもこんなものよ」=“It's a popular attraction, afterall. Every popular one is like this.”
+「人気のアトラクションだもの。どこもこんなものよ」=“It's a popular attraction, after all. Every popular one is like this.”
 「立ちっぱなしだけど大丈夫？」=“Sure you're okay with standing the whole time?”
 「平気よ。それに、この待っている時間、私は結構好きなのよね。アトラクションのことを想像しているとドキドキするの」=“I'm fine. I actually rather like spending time waiting like this. Just thinking about the ride makes my heart go racing.”
 「あ、それ分かるな。どれだけ怖いんだろうって想像している時間は面白いよね」=“Ah, I feel you. It's fun to think about just how scary it's going to be, isn't it?”

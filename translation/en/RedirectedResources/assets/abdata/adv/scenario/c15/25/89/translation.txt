@@ -15,4 +15,4 @@
 「……うん、すごく幸せ……」=“...Yeah, I'm really happy...”
 「あははー！　喜んでくれるならあたしも幸せだぞー！」=“Ahaha! If you're happy, then I'm happy too!”
 「……わがまま聞いてくれてありがとう。その、よかったらまた呼んでくれないかな？」=“...Thanks for listening to such a selfish request. Uhm, if it's alright, won't you call me that again sometime?”
-「全然いいぞー。キミが喜んでくれるしな！」=“I don't mind at all. It makes you happy, afterall!”
+「全然いいぞー。キミが喜んでくれるしな！」=“I don't mind at all. It makes you happy, after all!”

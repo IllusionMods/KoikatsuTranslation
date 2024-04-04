@@ -97,7 +97,7 @@
 「そうか、我も犬は好きだ。忠実だからな」=“I see, I like dogs as well. Loyal beings, they are.”
 「嫌いか、それは我と趣味が同じだ。我も苦手である」=“No affection for them, have you? I share in thy tastes. I cannot handle them either.”
 「汝は、普段、たくさん食べるタイプであるか？」=“Art thou the type to stuff thyself, usually?”
-「食欲は性欲に比例するからの……はっ！　い、いやなんでもない」=“One's appetite is said to be linked to lust, afterall... hah--! I-Ignore that.”
+「食欲は性欲に比例するからの……はっ！　い、いやなんでもない」=“One's appetite is said to be linked to lust, after all... hah--! I-Ignore that.”
 「同胞よ！　だが、たくさん食べないと我の側近は務まらんぞ！」=“Oh, a comrade! However, thou cannot serve by my side, if thy body lacks vitality, so consume lots!”
 「家で料理はするのか？」=“Do thou cook at home?”
 「そうか！　た、食べてみたいぞ！　汝の料理を」=“I see! I-I would like to try it! Thy cooking.”
@@ -381,7 +381,7 @@
 「汝との会話は楽しくて止まらぬな……時間がすぐ過ぎる」=“These chats are so entertaining, I cannot bring myself to stop... the time we have is too short.”
 「我の瞳が汝を捕らえておる……クククッ……」=“My evil eye has thee in its sights... kukukuh--...”
 「悪魔の魔法ってどんなの？」=“What's magic like down there in the demon realm?”
-「クククッ……知りたいか？　汝はすでに魔法にかかっておる……我の虜なのだ」=“Kukukuh--... thou wouldst like to know? Thou should have first hand experience... I have already cast mine on thee, afterall.”
+「クククッ……知りたいか？　汝はすでに魔法にかかっておる……我の虜なのだ」=“Kukukuh--... thou wouldst like to know? Thou should have first hand experience... I have already cast mine on thee, after all.”
 「そ、それはふ、ふたりで添い寝したら……分かるかも？」=“I-If we sleep t-together... you might find out?”
 「ずばり！　魔界の今流行りって何？」=“Alright, riddle me this! What's the current trend in the demon realm right now?”
 「ふむ、流行りかぁ。人間と仲良くすること……であるかな」=“Humu, the trends, huh. Befriending humans... I suppose.”
@@ -516,7 +516,7 @@
 「我もコイカツするぞー……汝と一緒に……」=“I shall do some love activities as well... together with thee...”
 「汝！　コイカツをするぞ……さあさあ……」=“Lord! It is time for love activities... come, come...”
 「部活でも一緒だな……これはラブラブというやつかのう……」=“We do even club activities together... truly lovey-dovey, it is...”
-「友達との時間も、大切にせねばならんからな！」=“Thou must treasure thine time with thy friends as well, afterall!”
+「友達との時間も、大切にせねばならんからな！」=“Thou must treasure thine time with thy friends as well, after all!”
 「いいぞ！　さあ、魔界へ帰ろうではないか……手を繋いで……」=“Sure! Now then, let us head back to the demon realm... while holding hands...”
 「クククッ……さあ、手を繋いで帰るぞ！」=“Kukukuh--... come now, let us walk home while holding hands!”
 「帰宅デートとやらも、なかなか風流であるな……」=“A homeward bound date like this, is quite the elegant thing as well...”

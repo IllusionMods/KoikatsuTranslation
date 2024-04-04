@@ -14,7 +14,7 @@
 「いやいや、そんなこと言わずに[H名]さんも歌おうよ」=“Not at all, don't worry about that stuff and just sing, [H名]-san.”
 「いいから、あなたが歌いなさいよ」=“It's fine, so just sing.”
 「お願いだよ。[H名]さんの歌が聞けなかったら、カラオケの楽しさが半減しちゃうよ」=“Please. If I don't get to listen to you sing, half the fun of Karaoke would be ruined for me.”
-「……そんなに言うなら……いえ、やっぱりだめ。本当に得意じゃないんだもの」=“...When you put it like that... No, it's a no afterall. I really am not any good at it.”
+「……そんなに言うなら……いえ、やっぱりだめ。本当に得意じゃないんだもの」=“...When you put it like that... No, it's a no after all. I really am not any good at it.”
 「上手かどうかなんて関係ないよ」=“Whether you're good or not doesn't matter.”
 「俺は[H名]さんの歌が聞きたいんだ」=“I want to hear you sing, in your own voice.”
 「……本当にうまくないわよ？」=“...I really am no good, okay?”

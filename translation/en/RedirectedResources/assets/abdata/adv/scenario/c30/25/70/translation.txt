@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「うーん、こういう難しいところはどうしても参考書が必要になるわね」=“Oof. This is too hard. Looks like Ill have to use the reference book afterall.”
+「うーん、こういう難しいところはどうしても参考書が必要になるわね」=“Oof. This is too hard. Looks like Ill have to use the reference book after all.”
 「あはは、[H名]はすごいよ。参考書見たら理解出来るんだもん」=“Ahaha, you're amazing, [H名]. To be able to understand the problem just by looking at the reference book.”
 「もう、キミだって理解出来るでしょ？　私のこと、持ち上げすぎよ？」=“Jeez~, You can do it too, can't you? Aren't you just trying to flatter me?”
 「そういうわけじゃないよ。本当にすごいと思ってるんだ。だって問題もさらさら解けてたし……」=“That's not the case, I really do think you're amazing. You're also going through the questions at a breakneck pace”

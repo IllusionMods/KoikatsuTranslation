@@ -28,7 +28,7 @@
 「……それって、評価されてるって事でいいんだよね？」=“... Then, would it be correct to say that I pass your standards?”
 「そうよ。ここまで近くで、私とこんなに長く付き合った人はいないもの。理由はまぁ、聞かなくともわかるでしょ？」=“That's right. There's no one else who's been this close to me for this long, you know. As for the reasons, well, even if I don't tell you, they should be obvious.”
 「それは、まぁ……」=“Well, yes...”
-（[H名]さんに合わせるの、大変だからなぁ……）=(It's quite difficult to put up with [H名]-san, afterall...)
+（[H名]さんに合わせるの、大変だからなぁ……）=(It's quite difficult to put up with [H名]-san, after all...)
 「そういえば、貴方は何で私の下僕になろうと思ったの？」=“Reminds me, Why did you even think of becoming my manservant?”
 「えっ、それは……色々あるけど、一番は[H名]さんといると安心するから……かな」=“Eh--, That's... There's a few reasons but, the biggest one is that I feel at peace when I'm with you, [H名]-san... in a way.”
 「へぇ、あれだけ苛められて安心していたなんて。やっぱり貴方、ちょっとおかしいんじゃないの？」=“Heh, being at peace when being teased that much, you sure you're alright in the head?”

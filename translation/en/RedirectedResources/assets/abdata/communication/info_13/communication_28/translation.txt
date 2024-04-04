@@ -142,7 +142,7 @@
 「ええい、話はもうしまいじゃ！　お主とはもう話したくない！」=“Alright, no more of this! I do not wish to talk to you any more!”
 「……すまんが、わしはこれでも忙しいのでな。さらばじゃ」=“...Apologies, but I am a busy woman, despite appearances. Fare thee well.”
 「まだまだ話足りぬが、仕方ないのう。ではな」=“I still have not chatted enough with you, but I suppose it cannot be helped. See you.”
-「お主は、その……この後は……や、やっぱりいいのじゃ」=“Are you, uhm... after this... n-nevermind, it is nothing afterall.”
+「お主は、その……この後は……や、やっぱりいいのじゃ」=“Are you, uhm... after this... n-nevermind, it is nothing after all.”
 「ん……わしはそろそろ行くのじゃ。ではまたな」=“Nnn... I shall be heading off. See you later.”
 「そうか。またお主と談笑してやってもよいのじゃ……ではまたの」=“Is that so? I do not mind having another chat soon... be seeing you.”
 「あいわかった。では、さらばなのじゃ」=“Alright, got it. Well then, farewell.”
@@ -221,7 +221,7 @@
 「……あ、あるにはあるが、誰とは教えられないのじゃ」=“...I-I have but, I cannot tell you who it was.”
 「……興味はあるが、聞くに聞けないのじゃ」=“...I am interested in such things, but no such event has come to pass.”
 「ドラマとかでエッチな場面があるとき、結構見ちゃう？」=“When the TV drama shifts to a sex scene, do you watch?”
-「み、見るのは仕方なかろう。……それも話の一部なのじゃ」=“I-It is unavoidable. ...It is part of the story, afterall.”
+「み、見るのは仕方なかろう。……それも話の一部なのじゃ」=“I-It is unavoidable. ...It is part of the story, after all.”
 「……激しいのは、恥ずかしくて見られないのじゃ……」=“...When it is too intense, I cannot help but turn my eyes away out of sheer embarrassment...”
 「エッチな妄想ってよくする方？」=“Do you daydream about sex often?”
 「……妄想は……するのじゃ……わっ！　そんな顔でわしを見るなっ！」=“...I... do... wah--! Do not look at me with such eyes--!”
@@ -292,7 +292,7 @@
 「きみのことが好きなんだ」=“I love you.”
 「……い、嫌ではないが、少し時間が欲しいのじゃ」=“...I-I do not hate the idea, but I would like some time.”
 「ちゃんとお主のこと考えたのじゃ……わしも、お主のことが好きなのじゃ」=“I gave it, gave you, a fair bit of thought as well... I love you, as well.”
-「……やっぱり、まだ考えたいのじゃ。ごめんなのじゃ」=“...I would like to think on it some more afterall. My apologies.”
+「……やっぱり、まだ考えたいのじゃ。ごめんなのじゃ」=“...I would like to think on it some more after all. My apologies.”
 「わしでよければ……つ、付き合ってほしいのじゃっ！」=“If you will have me... I-I would like to date you--!”
 「ま、誠かっ！？　わしは嬉しいのじゃ！　これからもよろしくなのじゃ！」=“T-Truly--?! I am overjoyed! Let us continue as we have, and go beyond as well!”
 「……そうじゃな。わしでは恋人には……ならば、友達でいてほしいのじゃ」=“...Indeed. Certainly, I am not partner material... at the very least then, I would like to still stay friends.”
@@ -380,7 +380,7 @@
 「お主、コイカツしておるのか？　わしも交ぜてもらおうかのう」=“Are you in the middle of love activities? Perhaps I shall join you as well.”
 「今からお昼か？　わしもお腹が減ったのじゃ」=“Going for lunch? I am hungry as well.”
 「今日もお疲れじゃったな。一息つかぬか？」=“Good going today as well. Take a breather with me?”
-「す、少し驚いただけじゃ。お主のこと考えておってな」=“I-I just got a bit startled, that is all. I was thinking of you, afterall.”
+「す、少し驚いただけじゃ。お主のこと考えておってな」=“I-I just got a bit startled, that is all. I was thinking of you, after all.”
 「談笑したいのか？　わしはそれよりも……」=“You wish to chat? I would much rather we...”
 「思い出の品とか宝物ってある？」=“Got any particular memento or such you treasure?”
 「初めてもらったお守りじゃな。それから集めるようになってな」=“The first good-luck-charm I ever received. I have since been gathering all sorts of them.”
@@ -425,7 +425,7 @@
 「手コキって好き？」=“Do you like giving me a handjob?”
 「なっ……それは、その……お主が感じてくれるから、好きなのじゃ……」=“Wha--... that's, uhm... it makes you feel good, so I love it...”
 「……嫌いではないが、わしの手で気持ちよくできてるか、時々不安になるのじゃ」=“...I do not hate it but, I sometimes worry whether I'm actually pleasuring you or not.”
-「やっぱり股間が一番感じる？」=“Is your crotch your most sensitive spot afterall?”
+「やっぱり股間が一番感じる？」=“Is your crotch your most sensitive spot after all?”
 「……感じる、のじゃ。……は、恥ずかしいではないかっ！」=“...It, is. ...D-Do not make me say embarrassing things--!”
 「……わしは、よくわからないのじゃ。お主が確かめてくれぬか……？」=“...I do not, know. Won't you check...?”
 「これ以上は恥ずかしいのじゃ。他の話題にするのじゃ」=“Any more than this and I shall burst like an overripe tomato. Let us talk about something else.”
@@ -512,7 +512,7 @@
 「誰かが来たらどうするのじゃ……わしはお主をひとり占めしたいのじゃ」=“What if someone walks in... I want to monopolize you all to myself.”
 「うむ、よいのじゃ。好きな人食べると、ご飯はより美味しくなるのじゃ」=“Umu, very well. Eating together with one's beloved makes meals taste quite a bit more delicious.”
 「お昼はわしと一緒に食べるのじゃ。嬉しいじゃろう？」=“You are having lunch with me today. Does that not make you happy?”
-「お主ならそう言うと思っておったのじゃ。二人で食べるとよりおいしいのう」=“I just knew that's how you'd reply. It tastes quite a bit more delicious when we eat together, afterall.”
+「お主ならそう言うと思っておったのじゃ。二人で食べるとよりおいしいのう」=“I just knew that's how you'd reply. It tastes quite a bit more delicious when we eat together, after all.”
 「む～、残念なのじゃ。次はわしと食べてほしいのじゃ」=“Muh~, a shame. I want you to make time for me next time.”
 「わかったのじゃ。彼女が直々に相手をしてやるのじゃ」=“Got it. Your girlfriend will directly lend you her personal aid.”
 「わしもコイカツしたいのじゃ。と言うよりお主といたいだけなのじゃ」=“I want to do some love activities as well. Or rather, I simply wish to be with you.”

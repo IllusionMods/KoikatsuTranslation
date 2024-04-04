@@ -11,7 +11,7 @@
 「別のスタッフがお支度部屋までご案内しますので、少々お待ちください」=“There is other staff coming that will guide you to the changing rooms and help you get into the clothes, so please wait here for a bit.”
 「ドレスにタキシードかぁ……なんかドキドキするよ」=“A dress and a tuxedo, huh... I'm getting kinda excited.”
 「着ている姿を自分でも想像できません」=“I can't even imagine the sight of me wearing one.”
-「はは、まだ学生だもんね」=“Haha, we're still students, afterall.”
+「はは、まだ学生だもんね」=“Haha, we're still students, after all.”
 「ですが、来るべき時の為にはよい経験になると思います」=“However, I do think it'll make for good practice, for when I actually have to put one on.”
 「お待たせしました！　それではご案内致します」=“Sorry for the wait! Well then, I'll be guiding you inside.”
 「式の流れなどは、お支度部屋にてご説明させていただきますね」=“Things like flow of the ceremony and how to do things will be explained inside the changing room itself.”

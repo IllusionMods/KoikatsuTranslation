@@ -7,7 +7,7 @@
 「俺も[H]と一緒にいられて幸せだよ」=“Being with you makes me happy too, [H].”
 「……す、好きなのじゃ。お主のこと。これからも一緒にいてほしい、のじゃ」=“...I-I am in love. With you. I want you to stay by me, in the future as well.”
 「俺も好きだよ。これからも一緒にいるに決まってるじゃないか」=“I love you too. Of course I'm gonna stay by your side, that's obvious.”
-「……そうか。そうじゃな！　わし達はらぶらぶなのじゃな」=“...I see. Indeed, it is obvious! Afterall, we are in love.”
+「……そうか。そうじゃな！　わし達はらぶらぶなのじゃな」=“...I see. Indeed, it is obvious! After all, we are in love.”
 「今日もありがとうなのじゃ。お主といられて楽しかったのじゃ」=“Thanks for today as well. It was fun, to spend time with you.”
 CHOICE:「もう少し一緒にいない？」=Won't you be with me a bit longer?
 CHOICE:「俺も楽しかったよ、それじゃあね」=I had fun too, see you.

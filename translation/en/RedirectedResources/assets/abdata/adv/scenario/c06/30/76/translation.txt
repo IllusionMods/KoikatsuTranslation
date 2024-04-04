@@ -2,7 +2,7 @@
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
 「すごい！　[H]って泳ぐの速いんだね！」=“Amazing! You're a real fast swimmer, aren't you!”
-「幼少の頃から習っていましたから」=“I have been practicing since I was but a child, afterall.”
+「幼少の頃から習っていましたから」=“I have been practicing since I was but a child, after all.”
 「俺はそこそこなんだよね。泳ぎ方教えてもらっていい？」=“I'm pretty so-so myself, aren't I? Could you teach me your technique?”
 「……？　[H]？」=“...? [H]?”
 「いえ、私の水着姿を見て破廉恥なことを仰るのかと思っていたのですが……何だか、寂しいです」=“Ah, no, I thought you would say something lewd, appreciating the sight of me in a swimsuit as you are, but... I feel quite, empty.”

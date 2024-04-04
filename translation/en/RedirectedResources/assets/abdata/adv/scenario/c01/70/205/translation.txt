@@ -9,7 +9,7 @@
 「お嬢様って感じだね。俺なんて、どっかの工場だったよ。楽しかったけどね」=“Sounds high class. We were taken to some factory somewhere. Still fun though.”
 「工場、いいですね。もし共学の学園にいたら、あなたと工場を回れたのでしょうか」=“A factory, sounds nice. I wonder, if I was a student in a regular school, would we have gotten to explore the factory together?”
 「あはは、そうかもしれないけど、俺は今の学園に転入しちゃうよ」=“Ahaha, maybe but, I'd eventually just transfer away to our current school, you know?”
-「あ、それは嫌ですね。やっぱり、女学園に通っていてよかったです」=“Ah, I'd hate that. I'm glad I went to an all-girls academy afterall.”
+「あ、それは嫌ですね。やっぱり、女学園に通っていてよかったです」=“Ah, I'd hate that. I'm glad I went to an all-girls academy after all.”
 「そう言ってくれると、転入してきた甲斐があったよ」=“Hearing you say that, makes transferring into this school completely worth it all.”
 「はい、あなたが転入してこなかったら、遊園地で遊ぶこともなかったと思います」=“Yes, I don't think I'd have been able to visit the amusement park either, if you hadn't transferred in.”
 「でも、学園の友達と行ったんじゃない？」=“But, haven't you gone before, with your school friends?”

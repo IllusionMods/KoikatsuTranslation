@@ -2,8 +2,8 @@
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
 「初めて来ただけど……案外、綺麗なのね」=“It's my first time here but... it's surprisingly pretty.”
-「一応、ホテルだから」=“Well, it is a hotel, afterall.”
+「一応、ホテルだから」=“Well, it is a hotel, after all.”
 「受付のとき、随分手馴れた気がするけど……調べてたの？」=“You sure handled the booking at the reception real smoothly... did you already look this place up before?”
-「カッコ悪いところは見せられないからね」=“It wouldn't do to show you an uncool sight, afterall.”
+「カッコ悪いところは見せられないからね」=“It wouldn't do to show you an uncool sight, after all.”
 「それより……いいかな？　正直、もう抑えがきかないんだ」=“Rather than that... Can we? I honestly can't hold it in any more.”
 「……聞かなくても、返事は決まってるから」=“...Why do you even ask? You already know the answer, no?”

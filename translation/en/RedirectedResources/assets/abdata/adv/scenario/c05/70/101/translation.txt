@@ -16,5 +16,5 @@
 「あれはあなたが恥ずかしがるでしょ？」=“That'd just make you embarrassed, no?”
 「うん、まあ……否定はしないけど」=“Yeah, well... I won't deny that.”
 「それに……あなたと手をつなぐ理由がほしかったから……」=“Also... I really just wanted, a reason to hold your hand so...”
-「[H名]……そっか。たしかに、デートだもんね。むしろ、俺からつなぐべきだったな」=“[H]... I see. For sure, we're on a date afterall. If anything, I should have been the one to grab your hand from the get go.”
+「[H名]……そっか。たしかに、デートだもんね。むしろ、俺からつなぐべきだったな」=“[H]... I see. For sure, we're on a date after all. If anything, I should have been the one to grab your hand from the get go.”
 「よしっ。それじゃ、このまま交信を続けながら、公園を散歩でもしようか」=“Alright--. Let's take a walk through this park, while communicating with them.”

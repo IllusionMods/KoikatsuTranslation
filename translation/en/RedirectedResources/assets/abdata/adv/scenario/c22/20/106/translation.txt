@@ -31,5 +31,5 @@ CHOICE:『今度は寒さ対策して来ようか』=Let's come next time with s
 「そうだね。曇りの日は特に気を付けた方がいいかも」=“Yeah. Especially on cloudy days like this.”
 「あはは、綺麗な日に限って冷え込むジレンマだ。それじゃ、風邪引かないうちに駅まで戻ろっか？」=“Ahaha, the colder it gets, the prettier it'll be, what a dilemma. Well then, shall we head back before you catch a cold?”
 「うん。あ……でも……駅までこのまま……くっついててもいい？」=“Yeah. Ah... but... do you mind if we... keep clinging like this all the way to the station?”
-「もちろん。寒いのは嫌だもんね」=“Not at all. I wouldn't want you to feel cold, afterall.”
+「もちろん。寒いのは嫌だもんね」=“Not at all. I wouldn't want you to feel cold, after all.”
 「うんっ！　腕組んでぺったりするよ！」=“Yeah--! Let's link arms and cling to each other real tight.”

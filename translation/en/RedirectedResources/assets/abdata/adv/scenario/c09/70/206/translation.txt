@@ -2,12 +2,12 @@
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
 「ふぅ……なんか、やっと座った気がする」=“Fuu... feels like I finally got to sit down, for the day.”
-「ふふふ、そうね。いっぱい歩いたし」=“Fufufu, yeah. We did walk around a lot, afterall.”
+「ふふふ、そうね。いっぱい歩いたし」=“Fufufu, yeah. We did walk around a lot, after all.”
 「今日はかなり遊んだから、もう足がぱんぱんだよ」=“We ran around so much today, my legs feel like lead.”
 「あたしは全然そんなことないけど。あんた、運動不足なんじゃない？」=“I'm perfectly okay here though. Sure it's not just a lack of exercise?”
 「いやいや、[H名]だって足もんだりしてるじゃん」=“No way, I can see you rubbing your own feet there, [H].”
 「え、これは……」=“Eh, this is...”
-「やっぱり、疲れてるんじゃないの？」=“Aren't you tired out too, afterall?”
+「やっぱり、疲れてるんじゃないの？」=“Aren't you tired out too, after all?”
 「そ、そんなことないわよ……えーと、これは…………そう！　むくんでないか気になっただけ！」=“N-Not at all... eerhm, this is... right! I was just checking whether they've swollen up or not!”
 「その言い訳はどうなの……まあ、疲れてないならいいけどさ」=“What sort of excuse is that, even... well, as long as you're not tired out.”
 「本当に、疲れてなんかいないんだからね」=“I really am not tired, okay?”

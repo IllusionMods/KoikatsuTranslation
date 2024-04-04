@@ -13,5 +13,5 @@ CHOICE:『早めに帰る』=Go home early.
 「そうですね。遊びも大切ですが、やはり学生は勉強が資本ですから」=“Indeed. It's important to have fun but, as students, our main job is to maintain grades.”
 「うん、明日の課題もまだ残ってるし……」=“Yeah, and I still have to do the assignments we need to turn in tomorrow...”
 「あら、それはいけませんね。でも……課題が残っているのに私と遊んでくれてありがとうございました」=“Oh, we can't have that. But... you came out on a date with me, even when you have assignments. Thank you very much.”
-「息抜きも必要だからね……って、俺が言うことじゃないか、あはは」=“Well, it's important to take breaks, afterall... guess I'm not in a position to preach that, ahaha.”
+「息抜きも必要だからね……って、俺が言うことじゃないか、あはは」=“Well, it's important to take breaks, after all... guess I'm not in a position to preach that, ahaha.”
 （楽しかったなぁ。また[H名]と遊園地に来よう）=(Man, it was fun~. Let's come here again, with [H].)

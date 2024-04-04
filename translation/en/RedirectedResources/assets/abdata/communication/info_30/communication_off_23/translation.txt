@@ -84,7 +84,7 @@
 「この手の話はあまりしたくないんだなぁ」=“I don't really feel like talking about this~”
 「エッチなゲームとかってやったりするの？」=“Do you ever play adult games and stuff?”
 「それは……乙女の秘密と言う事で、ひとつ……ねぇ？」=“That's... let a girl have her secrets... please?”
-「やっぱり男同士の本とか、見る？」=“So do you read BL afterall?”
+「やっぱり男同士の本とか、見る？」=“So do you read BL after all?”
 「そりゃあ淑女の嗜みっていうか……って何言わせるんですかー！」=“Well I am a lady so I do enjoy some... wuh, what are you making me say!”
 「女の子でもエロ本って持ってるものなの？」=“Do girls have porn mags too?”
 「そりゃぁ、女の子だって興味はあるからねぇ、皆がウブとか夢見ちゃだめですぜ」=“Well, of course, girls are interested in that stuff too, Don't go around thinking all of us are pretty little flowers.”

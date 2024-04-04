@@ -7,7 +7,7 @@
 「公園で音楽鑑賞。素敵ですね……」=“Listening to music at the park, how lovely...”
 「自然の中で、ゆったりお茶をしながら音楽を聴くのっていいよね。ポットに作ってきたお茶で悪いけど」=“Listening to music while sipping on some tea amongst nature is pretty nice, isn't it? Sorry it's just teabag tea though.”
 「そんなことありません。このようなロケーションで飲むお茶は格別です」=“Not at all. Having tea in a place like this is special in its own way.”
-「それに、一番大事なのは、あなたと一緒ということですから」=“Not to mention, what's most important is, spending time with you, afterall.”
+「それに、一番大事なのは、あなたと一緒ということですから」=“Not to mention, what's most important is, spending time with you, after all.”
 「そうだね、こんな時間がずっと続けばいいのにね」=“Yeah, if only we could spend all our time like this.”
 「ふふ、ゆっくりと流れる雲を見上げていると、そんな気持ちになりますね……」=“Fufu, indeed, can't help but feel that way, when looking at the clouds passing us by slowly...”
 「……ふぁ……なんだか、眠くなってきちゃった」=“...Fuah... I'm starting to, get kinda sleepy.”

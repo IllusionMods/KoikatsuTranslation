@@ -5,10 +5,10 @@
 「なんで？　[H名]って、よくカラオケに来てそうなイメージあるけど」=“Why? I got the image that you were the type to often go out for things like Karaoke, [H名].”
 「うん……友達とはよく行くけど……」=“Yeah... with my friends, I do but...”
 「男の子と二人っきりは、その……初めて、だから……」=“It's my first time being, you know... alone with a boy, so...”
-「はは、別に緊張することないよ。だって、相手は俺だよ？」=“Haha, you don't need to be so nervous. Afterall, that boy is nobody other than me, no?”
+「はは、別に緊張することないよ。だって、相手は俺だよ？」=“Haha, you don't need to be so nervous. After all, that boy is nobody other than me, no?”
 「乙女心がわかってないし！　[P名]くんとだから緊張するのっ！」=“You don't know how a girl's heart works at all! I'm nervous precisely because it's you, [P名]-kun--!”
 「そ、そういうもの……？」=“I-Is that so...?”
-「そうに決まってんじゃん！　だって……好きな人の前ではいいところ見せたいし……！」=“Of course it is, you blockhead! Afterall... I want to show my good side, put on a good show, for my beloved...!”
+「そうに決まってんじゃん！　だって……好きな人の前ではいいところ見せたいし……！」=“Of course it is, you blockhead! After all... I want to show my good side, put on a good show, for my beloved...!”
 「ってことで、今日は[P名]くんを惚れ直させるような、歌声披露しちゃうんだからっ！」=“--So with that, I'll make you hear such nice singing today, that you'll fall in love with me all over again--!”
 （おお、すごい気合が入ってる……！）=(Ooh, she's getting really into it...!)
 「まずは何を歌おうかな……」=“What should I start with...”

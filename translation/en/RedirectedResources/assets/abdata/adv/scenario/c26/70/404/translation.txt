@@ -8,13 +8,13 @@
 「なんかウキウキ感が見えないから」=“You don't really seem all that happy about it.”
 「……味、食感、ちゃんと、噛みしめてる」=“...Don't worry, I'm savouring, the taste, and the texture.”
 「それならいいんだ」=“Well as long as you like it.”
-（パンケーキ、小さく切ってる。[H名]の一口小さいもんな）=(She's cutting the pancake in such tiny pieces. Well, she does take very small bites, afterall.)
+（パンケーキ、小さく切ってる。[H名]の一口小さいもんな）=(She's cutting the pancake in such tiny pieces. Well, she does take very small bites, after all.)
 「……うん。おいしい。クリームが……しっとりしてる」=“...Yeah, it's delicious. The cream is... so mellow.”
 「そうなんだ。俺も一口食べてたいな」=“I see. I wanna try a bite too.”
 「……ダメ。これは……私の」=“...You can't. This is... mine.”
 「ダメって悲しいなぁ。……あっ、口にクリームついてるよ」=“You're gonna make your boyfriend cry~. ...Ah--, there's some cream on your mouth.”
 「ひゃっ……！　……いきなり、そういうのは……」=“Hyah--...! ...Don't do that, out of nowh...”
-「うん、甘い。いきなりじゃないと許してくれないだろ。やっぱり一口、俺もほしいな。食べさせてくれない？」=“Yeah, it's sweet. If I didn't do that out of nowhere, you wouldn't have let me, no? I'd love a bite too, afterall. Won't you feed it to me?”
+「うん、甘い。いきなりじゃないと許してくれないだろ。やっぱり一口、俺もほしいな。食べさせてくれない？」=“Yeah, it's sweet. If I didn't do that out of nowhere, you wouldn't have let me, no? I'd love a bite too, after all. Won't you feed it to me?”
 「……それって……あ～ん、してほしいってこと？」=“...Do you mean... with my hand?”
 「うん。[H名]にあ～んしてもらえたら、何倍にもおいしく感じるはず。だから、お願い」=“Yeah. It should tastes much, much better, if you feed it to me with your hand. So, please.”
 「……わかった。一口だけ、だからね」=“...Got it. Just the one bite, okay?”

@@ -2,7 +2,7 @@
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
 「おっと……混んできたね」=Oh boy... it's started getting pretty packed, huh?
-「皆様、ご帰宅される時間なのですね」=It's time for everyone to go home, afterall.
+「皆様、ご帰宅される時間なのですね」=It's time for everyone to go home, after all.
 「そうだね……うおっと」=Yeah... woah--
 （うあっ……[H名]がすぐ傍に……こ、こんなの勃起しちゃう……！）=(Uwah--... she's right up against me... I-I'm gonna get erect...!)
 CHOICE:『いちおう我慢してみる』=Try enduring for the sake of it.

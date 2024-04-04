@@ -9,7 +9,7 @@
 「ん……私の方こそ、ありがとう」=“Nn... me too, thank you.”
 「……はは、この瞬間はいつも名残惜しくなっちゃうな」=“...Haha, this moment always sure feels painful.”
 「学園でも会ってるし、今日だってずっと一緒にいたのに……不思議だよね」=“We always see each other at school, and we spent the whole day today together but still... it's just so weird, isn't it?”
-「……寂しくなるのは、当たり前よ。だって……それだけ、好きなんだから」=“...It's obvious, that it feels sad. Afterall... we just love each other, that much.”
+「……寂しくなるのは、当たり前よ。だって……それだけ、好きなんだから」=“...It's obvious, that it feels sad. After all... we just love each other, that much.”
 「[H名]……」=“[H名]...”
 CHOICE:『自宅に誘う』=Take to your place
 CHOICE:『ラブホに誘う』=Take to love hotel
@@ -19,7 +19,7 @@ CHOICE:『さよならする』=Say goodbye
 （そんなこと言われたら、我慢できなくなるっ……家に連れ帰る時間さえ惜しい、今すぐにでも[H名]とシタい……！）=(I can't hold it in, not when she just said that--... forget enduring it till I can actually take her home, I want to ravage her right here and now...!)
 「……あんた、すごくエッチな顔してる」=“...You're making a really lewd face, you know.”
 「っ……ご、ごめん」=“--...S-Sorry.”
-「謝る必要はないわ……その、私も……同じ気分だから」=“You don't need to apologize... uhm, I feel... the same way, afterall.”
+「謝る必要はないわ……その、私も……同じ気分だから」=“You don't need to apologize... uhm, I feel... the same way, after all.”
 「[H名]……えっと、じゃあ、俺に付いて来てくれる？」=“[H名]... erhm, then, will you follow me?”
 「どこ、行くの……？」=“Where are, we gonna go...?”
 「今の俺たちに、ぴったりな場所だよ」=“A place just perfect for us right now.”

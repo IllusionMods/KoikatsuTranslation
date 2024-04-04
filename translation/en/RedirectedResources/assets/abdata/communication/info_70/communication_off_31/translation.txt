@@ -35,11 +35,11 @@
 「休みの日って、何してるの？」=“What do you do on your days off?”
 「色々だ……って、何故そこで残念そうな顔をする」=“Stuff...--uh, why are you making such a disappointed face at that?”
 「悩んだら買っちゃう派？　保留派？」=“When you're split on something, are you the type to buy it, or to hold off?”
-「買う派、だな。悩むという事は、いつかは買うわけだからな」=“Just like me, huh? Afterall, if you're split on it, that means you'll end up buying it one day anyway.”
+「買う派、だな。悩むという事は、いつかは買うわけだからな」=“Just like me, huh? After all, if you're split on it, that means you'll end up buying it one day anyway.”
 「笑ってみてくれない？　ニコーって」=“Won't you try smiling? Like this.”
 「なんだそれは……どうしても見たいのなら、もっと工夫しろ」=“What's with that... If you really want to see it, try making me smile instead.”
 「恋人が欲しいって思った事ある？」=“Have you ever thought about wanting a lover?”
-「ま、まぁ思った事……くらいは。私だって、女だからな……」=“W-Well, I have... thought about it. I'm a girl too, afterall...”
+「ま、まぁ思った事……くらいは。私だって、女だからな……」=“W-Well, I have... thought about it. I'm a girl too, after all...”
 「特にはないな。そう言うおまえはどうなんだ？」=“Not in particular, no. What about you though?”
 「恋人には尽くすタイプ？」=“Are you the type to serve your lover?”
 「そうだな。特別な関係なのだ、尽くして損はあるまい」=“Yeah, I guess. It's a special relationship, you won't lose out by giving it your all.”
@@ -108,7 +108,7 @@
 「いいな、私も一緒だ。学ぶという事に無駄はないからな」=“Nice, I'm the same as you. You could never go wrong with learning even more.”
 「ははっ、潔い答えだな。うん、実は私もだ！」=“Haha--, what a straight and manly reply. Yeah, the truth is, I'm the same way!”
 「見た目は大事と言うが……おまえはそう思うか？」=“I think that one's appearance is important but... do you feel the same way?”
-「あぁ、同意見だ。第一印象でほとんど決まってしまうからな」=“Yeah, I agree. First impressions are everything, afterall.”
+「あぁ、同意見だ。第一印象でほとんど決まってしまうからな」=“Yeah, I agree. First impressions are everything, after all.”
 「フフッ、言おうと思っていた事を、先に言われてしまったな」=“Fufu--, that's what I wanted to say, you stole my lines.”
 「ふむ、まぁ、人それぞれという事にしよう……」=“Hmm, well, to each their own I suppose...”
 「まず私の事を良く見ろ。話はそれからだ」=“First, take a good look at me. We can talk after that.”
@@ -199,7 +199,7 @@
 「実は俺、超能力が使えるんだ！」=“The truth is, I have telekinesis!”
 「ほーそうかそうか。凄い凄い、あー、見てみたいなー」=“Hoh, I see, I see. Amazing, Amazing. Aah, I sure wanna see it~”
 「キスってやっぱり特別？」=“Do you think kisses are special?”
-「それはまぁ、そうだな。お互いが想い合った結果なのだから」=“Well, yeah, I guess so. It's the result of a couple's feelings for each other, afterall.”
+「それはまぁ、そうだな。お互いが想い合った結果なのだから」=“Well, yeah, I guess so. It's the result of a couple's feelings for each other, after all.”
 「そうでもない。いちいち特別視していたら、面倒だからな」=“Not really. Treating every single thing as special is a pain.”
 「恋人が悪い事したら、怒る？」=“If your lover did something bad, would you get angry?”
 「当たり前だ。間違いは正してやるのが、パートナーの役目だろう」=“That's obvious. It's the partner's duty, to fix their mistakes.”
@@ -323,7 +323,7 @@
 「別に構わんが、その名前はどうにかならないのか？　恥ずかしいぞ」=“I don't particularly mind but, can't you do something about that name? It's embarrassing.”
 「悪いが他の予定がある。また今度な」=“Sorry, but I've got other plans. Some other time.”
 「その、コイカツをだな……してやっても、いいぞ？」=“Uhm, you know, love activities... I don't mind, if we try some out, you know?”
-「フッ、私から誘ったのだ。当たり前だなっ、フフッ」=“Hah, I'm the one who invited you, afterall, of course you'd accept--, fufu--”
+「フッ、私から誘ったのだ。当たり前だなっ、フフッ」=“Hah, I'm the one who invited you, after all, of course you'd accept--, fufu--”
 「ムッ、まぁ……おまえにも予定くらい、あるだろうしな……フンッ」=“Mu--, well... I suppose you've got plans of your own... Hmph--”
 「よければ、一緒に帰らない？」=“If you'd like, wanna walk home together?”
 「フフッ、いいぞ。どこか寄り道していくか？」=“Fufu--, alright. Wanna stop by somewhere?”
@@ -382,7 +382,7 @@
 「どーも、愛しの彼氏さん。フフッ、なんだ照れているのか？」=“Greetings, my beloved boyfriend. Fufu--, what are you blushing for?”
 「ひゃわっ！　こらっ、おどかすな。変な声が出ただろう」=“Hyawa--! Hey--, don't startle me. I made such a weird noise.”
 「[H名]って厳しいけど、強制はしないよね？」=“You're really strict, [H名], but you don't force others, do you?”
-「まぁ、それなりの関係になったのだ。お互い対等でいたいからな」=“Well, we have that sort of a relationship. We both want to be equals to each other, afterall.”
+「まぁ、それなりの関係になったのだ。お互い対等でいたいからな」=“Well, we have that sort of a relationship. We both want to be equals to each other, after all.”
 「さぁ、どうだろうな。これからは遠慮がなくなるかもしれないぞ？」=“Who knows? I might just lose all my restraints, you know?”
 「最近楽しかった事ってある？」=“Is there anything you've started enjoying recently?”
 「おまえをからかっている時が一番楽しいな。フフッ、拗ねるなよ？」=“The time I spent teasing you is the most fun. Fufu--, don't sulk, alright?”
@@ -425,7 +425,7 @@
 「ま、まぁ、折角なら、使える所は使っておくべきだろう」=“W-Well, we ought to make use of all the places we can, no?”
 「このドスケベめ。私が思っていなくても、おまえはしたいのだろう？」=“You damn pervert. Even if I've never thought of it, you want to do it, no?”
 「やっぱり股間が一番感じるところ？」=“Is your crotch really your most sensitive place?”
-「あ、あぁ。そういうところだからな……おいやめろ、ジロジロ見るな」=“Y-Yeah. It's that sort of place afterall... Oi, stop it, don't stare at me like that.”
+「あ、あぁ。そういうところだからな……おいやめろ、ジロジロ見るな」=“Y-Yeah. It's that sort of place after all... Oi, stop it, don't stare at me like that.”
 「どうだろうな？　自分で確かめてみればいいんじゃないか？」=“Who knows? You just need to confirm it for yourself, no?”
 「はぁ、性欲の塊だなおまえは……少しはムードも考えろ」=“Haa, you really are just a lump of lust, aren't you... Try paying attention to the mood as well.”
 「俺と恋人になってから、オナニーの回数って増えた？」=“Have you started masturbating more after becoming my girlfriend?”
@@ -437,7 +437,7 @@
 「フフッ、内面か……そう言うなら、見た目は好みに合わせてやろう」=“Fufu--, my insides, huh... In that case, I'll try matching my appearance to your liking.”
 「なぁ、私との関係を冷やかされるのは、気にするか？」=“Hey, do you mind when people make fun of our relationship?”
 「なら、その時は私に言え。二度と冷やかせないようにしてやる」=“In that case, tell me next time. I'll make sure it never happens again.”
-「そうか、私と同じで良かったよ。周りなど、気にするだけ無駄だからな」=“I see, I'm glad you're the same as me. It's pointless to worry about what others think, afterall.”
+「そうか、私と同じで良かったよ。周りなど、気にするだけ無駄だからな」=“I see, I'm glad you're the same as me. It's pointless to worry about what others think, after all.”
 「私はおまえの事を振り回し過ぎか？　その、少し気になってな」=“Do I push you around too much? That's, it's been on my mind.”
 「むぅぅ、わかっているとは思うが、そういう性格なんだ。許してくれ」=“Muuu, I know you understand but, that's the sort of personality I have. Please forgive me.”
 「フッ、やせ我慢はするなよ？　嫌だと思ったら、素直に言っていいからな」=“Hah, don't force yourself to be tough, alright? If you don't like it, you just need to be honest with me, okay?”
@@ -511,7 +511,7 @@
 「こら、いきなりサカるなっ。もの欲しそうな顔をしても……ダメだからなっ」=“Come on, don't get horny all of a sudden. Even if you make that sort of desire-filled face... We can't--.”
 「タイミングがいいな。丁度おまえと食べたいと思っていたところだ」=“You've got good timing. I was just thinking of grabbing food with you.”
 「これから一緒に昼でもどうだ？」=“How about we grab lunch together?”
-「よし、誰と食べるかは重要だからな。おまえと付き合って、それがわかったよ」=“Alright, who you eat with is important, afterall. I realized that after I started going out with you.”
+「よし、誰と食べるかは重要だからな。おまえと付き合って、それがわかったよ」=“Alright, who you eat with is important, after all. I realized that after I started going out with you.”
 「そうか、なら一人で寂しく食べるとしよう……はぁ、寂しい、寂しいな」=“I see, then I guess I'll eat all by my lonesome... Haa, I feel lonely, so lonely.”
 「恋人とコイカツか、当たり前だが、誘われると嬉しいものだな」=“Love activities with your lover, it's obvious we'd do them but, it feels really nice to be asked.”
 「……コイカツ、してやっても構わないが……どうする？」=“...I don't mind if we do some love activities but... what do you wanna do?”

@@ -5,7 +5,7 @@
 「愛称……ですか？　なんだか照れ臭いですが、面白いかもしれませんね」=“Nicknames... you say? It sounds quite embarrassing but, it may also be quite nice.”
 「よしっ、じゃあ俺のこと……[Pあだ名]って呼んでみて？」=“Alright--, how about you try calling me... [Pあだ名] then?”
 「えっ、愛称ってそういうことですか？　もっと違うものを想像していました」=“Eh--, is that what you meant by nicknames? I was imagining something different.”
-「うーん、やっぱりダメ？　一回だけでも呼んでくれない？」=“Nnn, is it a no go afterall? Won't you call me that, at least just once, please?”
+「うーん、やっぱりダメ？　一回だけでも呼んでくれない？」=“Nnn, is it a no go after all? Won't you call me that, at least just once, please?”
 「嫌とは言っていませんよ。その、少し恥ずかしいですが、貴方のお願いですから……」=“I didn't say I don't want to. It's uhm, it's a bit embarrassing but, you're the one asking so...”
 「やった！　じゃあ……よろしくお願いします！」=“Yay! Then... please do it, ma'am!”
 「ふふ、そんなに改まれると、逆に言い辛いですが……[Pあだ名]。これで、よろしいですか？」=“Fufuh, it's a bit hard to say it, when you get so formal about it... [Pあだ名]. Is that, alright?”

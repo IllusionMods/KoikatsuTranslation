@@ -19,7 +19,7 @@
 「では、二人の誓いの印として、指輪の交換を致します」=“Then, as the proof of your vows, you may now exchange the rings.”
 「初めに新郎から新婦へ」=“First from the groom to the bride.”
 「……緊張してる？」=“...You nervous?”
-「そりゃあね。大事な場面だし」=“Well, yeah. It's an important moment, afterall.”
+「そりゃあね。大事な場面だし」=“Well, yeah. It's an important moment, after all.”
 「自然体で大丈夫よ。いつも通りのあんたが、一番素敵だから」=“Just relax and be the usual you. That version of you is the most lovely one.”
 「ありがとう、すごく嬉しいよ」=“Thanks, that makes me really happy.”
 「新婦から新郎へ」=“Now from the bride to the groom.”

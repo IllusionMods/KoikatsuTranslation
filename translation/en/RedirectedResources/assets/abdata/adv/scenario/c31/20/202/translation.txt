@@ -14,7 +14,7 @@
 「よーし、ここで最後だよ！　スタンプラリーコンプリート！」=“Alright, this is the last one! Stamp Card Rally, Complete!”
 「ふぅ、結構歩いたな。おかげでこの遊園地に詳しくなってしまった」=“Fuu, we sure walked a ton. Thanks to that though, I feel like I know this amusement park like the back of my hand.”
 「まぁ、遊園地側としてはそれが狙いだろうからね。色々知れば、また来たいって思うだろうし」=“Well, that's probably what the amusement park folks were aiming for. If you know about the various attractions, you'll probably want to come again and all.”
-「まんまと思惑に乗せられた訳か。あのウサギめ、やはり只者では無かったようだな」=“They played us like a damn fiddle, huh? That damned rabbit, looks like he wasn't just a regular old rabbit afterall.”
+「まんまと思惑に乗せられた訳か。あのウサギめ、やはり只者では無かったようだな」=“They played us like a damn fiddle, huh? That damned rabbit, looks like he wasn't just a regular old rabbit after all.”
 「はは、そこまでウサギに拘れると、逆に好きなんかじゃないかって思うよ」=“Haha, you're so fixated on that rabbit. I feel like you actually like it.”
 「好きというか、妙に印象に残る顔つきだったからな。それも遊園地側のデザインの上手さか」=“Rather than liking it, it's because it was strangely memorable. I suppose that's just how good the amusement park's design people are.”
 「だったら丁度良かったんじゃない？　選べる景品の中にあのウサギのキーホルダーがあるよ。これを貰おうか？」=“In that case, isn't it just perfect? From the free stuff we can get, a keychain of the rabbit is an option. Shall we get that?”
@@ -26,4 +26,4 @@
 「あぁ、私もそこを心配していた。だが、スタンプラリーのおかげで話題には尽きなかったし、本当にやってよかったな」=“Yeah, that's what I was worried about too. But, thanks to the stamp rally, we had a lot of stuff to talk about, I'm really glad we did it.”
 「そうだね……あっ、あのウサギがまた来たよ？　お礼を言って、一緒に記念写真を撮ってもらおうよ」=“Yeah... Ah--, look, the rabbit's here again. Let's go take a commemorative photograph with it, to express our gratitude.”
 「なっ！　待て！　アイツの横に並べと言うのか？　それは流石にはしゃぎ過ぎというか……恥ずかしくないか？」=“Wha--! Wait! Are you saying we're going to line up next to it? Aren't you getting a bit carried away, or rather... Aren't you embarrassed?”
-「そんな事ないって！　遊園地なんだから、多少はしゃいだ方が普通なんだよ。さ、一緒に行こう！」=“Not at all! It's an amusement park afterall, getting carried away is part of the program. Come, let's go together!”
+「そんな事ないって！　遊園地なんだから、多少はしゃいだ方が普通なんだよ。さ、一緒に行こう！」=“Not at all! It's an amusement park after all, getting carried away is part of the program. Come, let's go together!”

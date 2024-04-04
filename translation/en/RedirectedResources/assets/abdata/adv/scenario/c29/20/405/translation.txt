@@ -5,7 +5,7 @@
 「はい。一押しメニューと言うだけあって、とても美味です」=“Yes. I can see why it's the chef's recommendation here, it's really delicious.”
 「そっかぁ。じゃあ食べさせてほしいなー、なんて」=“I see. Man, I'd love it if you fed me some. Kidding.”
 「欲望を隠す気がまったくありませんね」=“Not planning on hiding your desires at all, huh?”
-「前にもやってもらってるしね」=“You did it the last time too, afterall.”
+「前にもやってもらってるしね」=“You did it the last time too, after all.”
 「だからといって……」=“Even so...”
 「ダメ？」=“No good?”
 「ダメではありませんけれど……あまりベタベタしすぎるのはどうかと思うのです」=“It's not that it's no good... It's just that, I do wonder about flirting so openly in public.”

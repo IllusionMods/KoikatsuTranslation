@@ -31,5 +31,5 @@
 「おおっ！　その手があったか！」=“Oooh--! We had that hand to play!”
 （いや、なんの手だって話だけどさ）=(No, wait, just what kind of hand is that?)
 「思わぬ方向で会話が弾んじゃったけど、夢は膨らむなぁ」=“The conversation kinda took a weird turn there but, my dreams are getting even bigger.”
-「夢は無限、ですから」=“Dreams are boundless, afterall.”
+「夢は無限、ですから」=“Dreams are boundless, after all.”
 （[H名]と俺の先に広がってる無限の夢……一つずつ叶えていきたいな）=(The limitless dreams expanding ever so big in front of the two of us... I want to make them all come true, one by one.)

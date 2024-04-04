@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「何から乗る？　やっぱりジェットコースター？」=What shall we start with? The roller coaster afterall?
+「何から乗る？　やっぱりジェットコースター？」=What shall we start with? The roller coaster after all?
 「定番じゃのう」=It is the amusement park, so we must.
 「苦手だったりする？」=You're not bad with rides like that or anything, are you?
 「わしがか？　そんなわけなかろう」=Me? Surely not.

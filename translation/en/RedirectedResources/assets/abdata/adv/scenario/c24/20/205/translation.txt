@@ -2,7 +2,7 @@
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
 「…………もし、世界があなたと私の二人きりになったら、どうしますか？」=“...If, for some reason, we were the only ones left in the world, what would you do?”
-「うーん。まずは[H名]と協力して自給自足の環境を整えなきゃね。俺たちが大人になるために必要な栄養素を毎日とれるようにしないと、幸せになれないよ」=“Mmm. Well, first we'll have to fix together a self-sufficient environment for ourselves. We won't be able to become happy adults if we don't get our daily nutrient intake, afterall.”
+「うーん。まずは[H名]と協力して自給自足の環境を整えなきゃね。俺たちが大人になるために必要な栄養素を毎日とれるようにしないと、幸せになれないよ」=“Mmm. Well, first we'll have to fix together a self-sufficient environment for ourselves. We won't be able to become happy adults if we don't get our daily nutrient intake, after all.”
 「私との幸せをそんな現実的に考えてくれてるんですね♡」=“You're always so practical and down-to-earth about thinking of our happiness together♡”
 「そのｉｆストーリーは考えたことなかったけど、[H名]との将来のことはけっこう考えてるよ」=“I've never really thought about that particular future but, I actually think quite a bit about our future together, you know?”
 「……あなたはやっぱりすごいです♡　私なんて、目の前のことしか考えてませんでした♡」=“...You really are amazing♡ I only ever thought about us here and now♡”

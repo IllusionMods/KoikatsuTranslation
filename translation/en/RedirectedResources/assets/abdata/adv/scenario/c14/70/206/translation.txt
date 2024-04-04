@@ -2,7 +2,7 @@
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
 「はぁ～、ちょっと昼間ははしゃぎすぎたぜ」=“Haah~, we ran around way too much today.”
-「今日は片っ端からアトラクションを周ったからね～」=“We did go from one attraction to another today, afterall~”
+「今日は片っ端からアトラクションを周ったからね～」=“We did go from one attraction to another today, after all~”
 「ま、こんな時は、座ってるだけで楽しめる観覧車さまさまだな」=“Well, this sort of time is when the ferris wheel, a ride that you can enjoy just by sitting on it, is the most appealing of them all.”
 「はは、遊びつかれてるなんて子どもみたいで、なんか可愛いね」=“Haha, man, you're like a kid tired out from playing around all day, so adorable.”
 「ああ？　もしかして、私のこと馬鹿にしてんのか？」=“Huh? Are you trying to make fun of me there?”

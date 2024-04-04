@@ -4,7 +4,7 @@
 「今日はたくさん歩き回ったね。疲れてない？」=“We walked around a whole lot today, huh? You tired?”
 「平気よ、全然疲れて……」=“I'm fine, I'm not tired at...”
 「ふわぁ……ぁ……」=“*yaaawn*... ah...”
-「……やっぱり、少し疲れてるみたい。あなたの肩に、もたれさせてもらってもいいかしら？」=“...seems like I'm a bit tired out afterall. Mind if I rest my head on your shoulder?”
+「……やっぱり、少し疲れてるみたい。あなたの肩に、もたれさせてもらってもいいかしら？」=“...seems like I'm a bit tired out after all. Mind if I rest my head on your shoulder?”
 「ああ……もちろんだよ」=“Yeah... of course, go ahead.”
 「ふふ、ありがとう。……中は静かね……そして、夜景は綺麗……」=“Fufu, thank you. ...It's so quiet in here... and the sky's so beautiful...”
 「そうだね……」=“Yeah...”
@@ -16,7 +16,7 @@
 「…………」=“......”
 「んんっ……」=“Nnn--...”
 「ん……」=“Nn...”
-「ちゃんと覚えて……くれていたのね」=“So you did remember it... afterall, huh?”
+「ちゃんと覚えて……くれていたのね」=“So you did remember it... after all, huh?”
 「当り前じゃないか」=“Like I could forget.”
 「嬉しいわ。じゃあ、あの時した質問は覚えている？」=“I'm really happy. Then, do you remember the question I asked you that day?”
 「次、俺たちがここに来たらどうなっているかってやつだっけ？」=“The one about what we'd be like the next time we came here?”
@@ -29,7 +29,7 @@
 「なにが分かったの？」=“What did you figure out?”
 「触れていたいと思うし、抱きしめて欲しいと思うし、キスをして欲しいと思う……そう思えることが私の幸せなんだわ」=“I want you to touch me, I want you to hug me, I want you to kiss me too... those thoughts, are my happiness.”
 「それは……俺も同じだよ」=“That's... the same for me.”
-「だったら私たちは幸せよ。だってお互い同じ気持ちなんだもの」=“We're happy, then. Afterall, we feel the same way.”
+「だったら私たちは幸せよ。だってお互い同じ気持ちなんだもの」=“We're happy, then. After all, we feel the same way.”
 「俺たちふたりの間では、定義が一致したってこと？」=“Talking about how we have the same answer to the question of happiness?”
 「ええ……だからあの時の私の答えも……今なら分かるでしょ？」=“Yes... so, you should understand now... what I would have answered that day, right?”
 「ああ、よく分かる……」=“Yeah, I understand it well...”

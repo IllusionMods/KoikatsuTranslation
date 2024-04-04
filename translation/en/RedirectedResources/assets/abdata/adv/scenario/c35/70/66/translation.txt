@@ -3,6 +3,6 @@
 //
 「んーっ、この公園って広くて気持ちいいね。私、引っ越してきてすぐお気に入りの場所になったん！」=“Nnn--, this park is so big, feels really nice, doesn't it? Ever since I moved here, it's been my favourite place!”
 「[H名]はこういうとこが好きなんだ？」=“You like these sorts of place, [H名]?”
-「うん、もともと緑が多いとこに住んどったけん。でも街の中も好きなんよ」=“Yeah, I used to live in a place with tons of greenry to begin with, afterall. But, I like the city area too.”
+「うん、もともと緑が多いとこに住んどったけん。でも街の中も好きなんよ」=“Yeah, I used to live in a place with tons of greenry to begin with, after all. But, I like the city area too.”
 「そうなの？　好きなとこいっぱいあるんだね」=“That so? You like all sorts of places, huh?”
 「うんっ！　学園が楽しいけん、この街自体が好きなんかも。もちろん仲良しな君もおるしね♪」=“Yeah--! School's really fun so, I might just like this entire city as a whole. Of course, you're also here♪”

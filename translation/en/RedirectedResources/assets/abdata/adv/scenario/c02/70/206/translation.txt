@@ -2,7 +2,7 @@
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
 「太陽が、すっかり沈んでしまいましたわね！　さあ、これから楽しい夜の始まりですわ」=The sun as completely set, hasn't it! Now then, here starts our enjoyable evening.
-「遅くなりすぎないように、気をつけなきゃ。一緒にいると楽しすぎて、時間を忘れちゃうからね」=We gotta be careful, not to stay till too late. Being together's so fun, forgetting the time's a real risk, afterall.
+「遅くなりすぎないように、気をつけなきゃ。一緒にいると楽しすぎて、時間を忘れちゃうからね」=We gotta be careful, not to stay till too late. Being together's so fun, forgetting the time's a real risk, after all.
 「おほほほほほ！　当然ですわ！　わたくしと一緒にいられることを、至福とお思いになることね」=Ohohohohohoh! Of course! It is only natural for you to think of being with me as pure bliss.
 「うん、その高笑いを聞かないと、落ち着かないよ」=Yeah, without that laugh of yours around I can't calm down.
 「でしょう？　あなたの喜ぶ顔を見ながら笑うと、声の通りが違いますわ！」=Right? My voice truly does ring louder, when I look at your joy filled face while laughing!
@@ -21,7 +21,7 @@
 「え？　俺も素晴らしいものだったの？」=Eh? I'm a wonderful thing too?
 「ええ、当然ですわ！　この景色と、夜空に輝く星を束ねても、あなたの価値には及びませんわ！」=Yes, of course! This scenery, and that star in the sky, even added together, are nothing at all in comparison to you!
 「そ、そこまで言ってくれるんだね……嬉しいよ」=Y-You're gonna go that far, huh... that makes me happy.
-「そうでしょう。なにせ、あなたの彼女は、このわたくしなのですから」=Doesn't it though? Afterall, your girlfriend is none other than me.
+「そうでしょう。なにせ、あなたの彼女は、このわたくしなのですから」=Doesn't it though? After all, your girlfriend is none other than me.
 「うん……俺の彼女でいてくれて、ありがとう」=Yeah... thanks for being my girlfriend.
 「……そうやって、素直に自分の気持ちを表現できるところ、見習いたいと心から思っておりますわ」=...I want to learn it as well, the way you express your feelings so honestly like that, I really do.
 「もうっ、[H名]さんこそ、いきなり正直にぶっちゃけてんだよ。びっくりするじゃないか」=Jeez--, you're the one who's slamming your honest feelings into me out of nowhere, [H名]-san. How's a man supposed to stay tough?

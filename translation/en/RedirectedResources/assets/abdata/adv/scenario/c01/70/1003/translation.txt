@@ -22,7 +22,7 @@
 「いや、俺に一番似合わない言葉のような……」=“No, words like that don't fit me at all...”
 「自覚がないのですね。あなたは、あなたが思っている以上に、すごい男性なんですよ」=“You've no self-awareness, do you? You are a manlier, a more amazing man, than you realize, you know?”
 「えっと……[H名]こそお上手だよ」=“Erhm... you're pretty good with your words too, [H].”
-「ふふ、当然です。これでも、あなたの恋人ですから……自分が愛する男性を立てない女性はいません。自分が恋した男性に嘘をつく女性もいません」=“Fufu, of course. I'm your girlfriend, afterall... there are no women out there that would not support the man they love. Nor are there any women that would lie to the men they've fallen in love with.”
+「ふふ、当然です。これでも、あなたの恋人ですから……自分が愛する男性を立てない女性はいません。自分が恋した男性に嘘をつく女性もいません」=“Fufu, of course. I'm your girlfriend, after all... there are no women out there that would not support the man they love. Nor are there any women that would lie to the men they've fallen in love with.”
 「少なくとも私はそのような女性であろうと、日々心掛けてます。常に誇りを胸に生きよとは、母の言葉です」=“At the very least, I try my best everyday, in order to not be such a woman. 'Always live with your head held high', as my mother once told me.”
 「俺は信じるよ、[H名]の言葉。というか、今までだって疑ったことはないよ」=“I believe you, believe in your words. Or rather, I've never doubted you, not once.”
 「[H名]はいつもまっすぐ俺を見ててくれるからね」=“Since you always look straight at me, and never anywhere else.”

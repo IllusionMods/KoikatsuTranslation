@@ -6,7 +6,7 @@
 （きっと[H名]もドキドキしてるんだろうな。ウェディングドレス姿……早く見たい）=(I'm sure [H名]'s beside herself from the tension too. A wedding dress, huh... I wanna see her.)
 （いよいよ出番か……）=(Showtime, huh...)
 （よし、ここまで来たら腹をくくって堂々としよう！）=(Alright, there's no going back at this point, only forwards!)
-（なんたって今日は[H名]の新郎役なんだから！）=(Afterall, I'm her groom for today!)
+（なんたって今日は[H名]の新郎役なんだから！）=(After all, I'm her groom for today!)
 （ふぅ……心臓はバクバクいってるけど……ちゃんと出来てたはず……）=(Fuu... my heart's trying to explode but... I'm sure I did it properly...)
 モブ=Mob
 「これより新婦が入場致します。後方の扉口をご覧ください」=“And now, the bride will make her entrance. Please pay attention to the main door.”

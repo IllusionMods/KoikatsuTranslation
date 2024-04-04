@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「お待たせ。あー、５分前じゃ遅かったかな？　結構待った？」=Sorry for the wait. Ah, I guess 5 minutes early is late afterall? Did you wait long?
+「お待たせ。あー、５分前じゃ遅かったかな？　結構待った？」=Sorry for the wait. Ah, I guess 5 minutes early is late after all? Did you wait long?
 「いえ、敢えて言う程の時間は待ってないわよ。アナタは遅刻しなかったんだし、変な負い目も感じる必要はないわ」=No, not so long as to nag at you for it. You weren't late anyway, so no need to feel guilty about it.
 （うわ、これ絶対かなり待ってたやつだ……）=(Uwah, she definitely waited a lot...)
 「さ、参考までに何分前から居たのか教えてもらっていい？」=D-Don't suppose you'll tell me how long you've been here for, just for reference?

@@ -4,7 +4,7 @@
 「[H名]は、休日とか何してるの？」=“[H名], what do you do on your days off?”
 「う～ん、基本的に部屋でダラダラしてるよ～」=“Mmm, well, I generally laze around in my room~”
 「部屋で本読んだり～、ネットで動画見たりして～」=“Reading a book, or watching videos on the internet or whatever~”
-「あー、インドア派なんだね。俺も外出するの面倒な時あるよ」=“Ah, you are an indoor type, afterall. Even I have times when I can't be bothered to leave the house either.”
+「あー、インドア派なんだね。俺も外出するの面倒な時あるよ」=“Ah, you are an indoor type, after all. Even I have times when I can't be bothered to leave the house either.”
 「でしょ～？　やっぱり家でゴロゴロするのが一番だよ～」=“Right~? Really, just loafing around at home is the best~”
 「じゃあ、今日はわざわざ俺とのデートのために外出してくれたんだね。ありがとう」=“So, you went out of your way to come on this date with me today, didn't you? Thank you.”
 「気にしなくていいよ～、たまにだったら、外に出るのも悪くないしね～」=“You don't need to mind it~, going outside every once in a while isn't too bad either~”

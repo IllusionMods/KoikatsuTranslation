@@ -9,7 +9,7 @@
 「準備ですか？」=“Preparations?”
 「はい！　これからお二人には、ウェディングドレスとタキシードにお召し替えいただきます」=“Yes! We'll have the both of you change into a wedding dress and a tuxedo after this.”
 「別のスタッフがお支度部屋までご案内しますので、少々お待ちください」=“There is other staff coming that will guide you to the changing rooms and help you get into the clothes, so please wait here for a bit.”
-「……やっぱり着替えもあるんだ。模擬とはいえ、結構本格的なんだね」=“...So they even have the outfits afterall. Even if it's a mock one, it's pretty realistic, isn't it?”
+「……やっぱり着替えもあるんだ。模擬とはいえ、結構本格的なんだね」=“...So they even have the outfits after all. Even if it's a mock one, it's pretty realistic, isn't it?”
 「ウェディングドレス……私、ウェディングドレス着るの？　君の隣で！？　あ、あはは……ダメ……考えただけで頭が真っ白になりそうだよー！」=“A wedding dress... me? A wedding dress? Next to you!? A-Ahaha... this is bad... just thinking about it is making my head go blank~!”
 「[H名]、落ち着いて！　大丈夫、[H名]なら絶対に似合うよ」=“[H名], calm down! It's alright, it'll definitely look good on you.”
 「うぅ……似合うか似合わないかも不安だけど……それだけじゃなくて……君の隣で……ウェディングドレス……」=“Uuu... I'm worried about that too but... it's not that... a wedding dress... next to you...”

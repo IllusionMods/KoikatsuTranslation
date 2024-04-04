@@ -2,7 +2,7 @@
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
 「[H名]のオムライス、美味しそうだね～」=“Your omurice sure looks delicious, [H]~”
-「オムライスだもの。美味しくないわけないじゃない♪　ふふふ、あー、お腹がなっちゃいそう」=“It's omurice, afterall. There's no way for it not to be delicious♪ Fufufu, ah~, feels like my belly's gonna start rumbling.”
+「オムライスだもの。美味しくないわけないじゃない♪　ふふふ、あー、お腹がなっちゃいそう」=“It's omurice, after all. There's no way for it not to be delicious♪ Fufufu, ah~, feels like my belly's gonna start rumbling.”
 「そういえば、俺、あんまりオムライスってお店で頼まないなぁ」=“Now that I think about it, I never really order omurice at restaurants.”
 「そうね、男の子って、もっとガッツリお肉系を頼んじゃうわよね」=“Right, boys prefer to go for more meaty stuff, don't you all?”
 「オムライスも美味しいと思うけど、なかなかお店で食べる機会ってないなぁ」=“Omurice is great too but, well, I can't help but feel that rare restaurant outings like these should be special treats.”

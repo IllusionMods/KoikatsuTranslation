@@ -3,4 +3,4 @@
 //
 「そ、それで……いかがでしたかしら？　わたくし、その……何か妙なことをしたりは……」=“S-So... how was it? I, uhm... I did not do anything strange, did I...”
 「ううん。すごくよかった」=“Nope, you were great.”
-「ふ、ふふ……当然ですわ！　ええ、しっかり予習しましたもの……ふぅ……よかった……」=“Fuh, fufuh... of course! Yes, I prepared for it quite thoroughly afterall... fuuh... thank god...”
+「ふ、ふふ……当然ですわ！　ええ、しっかり予習しましたもの……ふぅ……よかった……」=“Fuh, fufuh... of course! Yes, I prepared for it quite thoroughly after all... fuuh... thank god...”

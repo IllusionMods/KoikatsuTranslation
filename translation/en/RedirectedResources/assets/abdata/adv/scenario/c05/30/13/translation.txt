@@ -3,4 +3,4 @@
 //
 「デート……うんっ！わたしも行きたいと思っていたの！」=“A date... yeah--! I've wanted to go out on a date for you for a while too!”
 「それじゃ、どこに行くかもちゃんと決めないとね」=“Well then, we'd better decide where we're gonna go then.”
-「うん♪　どこが一番パワーを得られるかなぁ。あなたのことも、救ってあげなきゃ」=“Yeah♪ Where do you think we'll be able to absorb the most power~? I gotta get you rescued too, afterall.”
+「うん♪　どこが一番パワーを得られるかなぁ。あなたのことも、救ってあげなきゃ」=“Yeah♪ Where do you think we'll be able to absorb the most power~? I gotta get you rescued too, after all.”

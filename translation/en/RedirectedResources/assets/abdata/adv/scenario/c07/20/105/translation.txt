@@ -15,12 +15,12 @@
 「そんなもんかな。俺にはよくわからないけど」=“I dunno. I don't really understand that sort of thing.”
 「ダメだな～、[P名]は。そんなんじゃ偉くなれないぞ……ん？」=“That's no good, [P名]~. You won't get anywhere in life like that, you know... Nn?”
 「どうしたの？」=“What's the matter?”
-「……ここ、結構人が多いんだな。やっぱり人気スポットなのか。まあ、この景色だもんな」=“...There's quite a lot of people here. I guess it's a popular spot. This view is amazing afterall.”
+「……ここ、結構人が多いんだな。やっぱり人気スポットなのか。まあ、この景色だもんな」=“...There's quite a lot of people here. I guess it's a popular spot. This view is amazing after all.”
 「うーん、穴場スポットだったんだけど……口コミで有名になってきてるのかな」=“Mmm, it used to be a fairly little-known spot but... I guess word gets around.”
 「ん……これってもしかして……周りカップルだらけなんじゃないか？」=“Nn... all the people around us... don't you think they're all couples?”
-「それは……デートにはもってこいの場所だしね」=“That's... well, it is a great place for a date, afterall.”
+「それは……デートにはもってこいの場所だしね」=“That's... well, it is a great place for a date, after all.”
 「お、おい……なんか、みんなイチャイチャしだしたぞ」=“H-Hey... everyone's kinda started making out.”
-「この雰囲気だから、仕方ないんじゃないかな」=“Well, it's that sort of a mood, afterall.”
+「この雰囲気だから、仕方ないんじゃないかな」=“Well, it's that sort of a mood, after all.”
 「うう……落ち着かないな」=“Uuu... I can't calm down.”
 「じゃあ、俺たちも見せつけてやればいいんだよ」=“In that case, all we need to do is put on our own little show, no?”
 「えっ……そうか、そうだよな」=“Eh--... I see, you're right.”
@@ -47,5 +47,5 @@
 「それは……でも……ここじゃ」=“That's... but... we're--”
 「わかってる。見つからないとこまで行こう」=“I understand. Let's go somewhere where people won't see us.”
 「そんなことまで調べておいたのかよ。スケベだな」=“You even looked up that sort of stuff. What a pervert.”
-「デートは何が起こるかわからないからね」=“You never know how a date's gonna go, afterall.”
+「デートは何が起こるかわからないからね」=“You never know how a date's gonna go, after all.”
 「ふふっ。でも、まあ、そこまで考えてくれたってのは、嬉しいっちゃ嬉しいかもな」=“Fufu--. But, well, I can't exactly say that I'm not happy that you went that far for me.”

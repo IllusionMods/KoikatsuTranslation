@@ -4,7 +4,7 @@
 「ふぅ～、このままずっとのんびりしてたいっす」=“Fuu~, I wanna laze around like this forever.”
 「俺もそうしてたいけど……さすがに長居しすぎたしお店を出ようか」=“I feel the same way but... we've really stayed here for way too long, we should beat it.”
 「ん～？　あ～、もうこんな時間になってたんすね。全然気づかなかったよ～」=“Nn~? Ah~, it's already this late, huh? I didn't realize at all~”
-「すごくリラックスしてたもんね。じゃあちょっと会計を済ませてくるよ」=“You'd completely chilled out, afterall. I'll go settle the bill real quick then.”
+「すごくリラックスしてたもんね。じゃあちょっと会計を済ませてくるよ」=“You'd completely chilled out, after all. I'll go settle the bill real quick then.”
 「奢ってくれるの～？」=“Gonna give me a treat~?”
 「これくらいはね。ちょっとはカッコつけたいしさ」=“Yeah, this much is no problem. I want to show off my cool side too, you see.”
 「ふふ～、ありがと～♪」=“Fufu~, thanks~♪”

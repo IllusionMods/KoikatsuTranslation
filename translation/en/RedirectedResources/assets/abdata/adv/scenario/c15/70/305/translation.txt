@@ -3,7 +3,7 @@
 //
 「なー、そう言えば……」=“Hey, reminds me...”
 「ん？　どうかしたの？」=“Hm? Something up?”
-「……い、いや、やっぱりなんでもないぞー」=“...N-No, nevermind, it's nothing afterall.”
+「……い、いや、やっぱりなんでもないぞー」=“...N-No, nevermind, it's nothing after all.”
 「えー、気になるよ～。言いたいことがあるなら、なんでも言ってほしいな」=“Eh, now I'm curious~. If there's something you wanna say, don't hold it in and lemme hear it.”
 「言いたいことってわけじゃないんだけど、その、なー……」=“It's not something I exactly wanna say but, uhm, hey...”
 「か、カラオケでエッチをしたって話を又聞きで聞いたこと、思い出しちゃって……」=“I-I just remembered how I heard once, about someone talking about how they had sex at a karaoke box once...”

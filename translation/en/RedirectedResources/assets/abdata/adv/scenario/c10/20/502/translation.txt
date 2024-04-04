@@ -4,5 +4,5 @@
 「あ、[H名]！　お待たせ！」=“Ah, [H名]! Sorry for the wait!”
 「クックック……汝よ、よくぞ来た。逃げずに我の前へ現れたこと、褒めてやろう……」=“Kuh kuh kuh... good that thou made it. Some praise is in order, it takes some will to not run away out of sheer terror...”
 （な、なんだろうこのキャラは……魔王か何かかな？）=(W-What's this character now... is she playing at being Satan or whatever?)
-「あはは、せっかくのデートだからね……それじゃ、行こうか」=“Ahahah, well, we have date plans to follow through, afterall... let's go then.”
+「あはは、せっかくのデートだからね……それじゃ、行こうか」=“Ahahah, well, we have date plans to follow through, after all... let's go then.”
 「う、うむっ！」=“U-Umu--!”

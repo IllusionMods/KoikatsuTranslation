@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「今日は前のような失敗はしないわ。過ちは繰り返さないのが私の主義ですもの」=“This time, I won't mess up like last time. It is my policy to never repeat a mistake again, afterall.”
+「今日は前のような失敗はしないわ。過ちは繰り返さないのが私の主義ですもの」=“This time, I won't mess up like last time. It is my policy to never repeat a mistake again, after all.”
 「気合入ってるね。じゃあ、今日はめいっぱい色んなとこ周ろうか」=“I see you're fired up. Then, let's see all sorts of things today, shall we?”
 「えぇ、当たり前よ！　この前の借りをきっちり返してみせるわ！」=“Yes, naturally! I will definitely make it up to you for last time!”
 「あー、はは、流石に疲れてきたね……ちょっと頑張りすぎたかな……」=“Ah, hahah, man, that really was tiring, wasn't it... I think we went a bit too all out...”

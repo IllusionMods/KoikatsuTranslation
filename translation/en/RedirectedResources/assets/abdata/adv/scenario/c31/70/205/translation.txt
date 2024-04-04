@@ -8,7 +8,7 @@
 「いつもすまんな。デートスポットの事なんて、私にはよくわからなくてな……」=“Sorry for making you do that sort of stuff everytime. I don't really know all that much about date spots and stuff...”
 「[H名]の行きたいところでいいと思うよ。俺は[H名]と一緒ならどこでも楽しいし」=“I think any spot you'd like to go to is fine, [H名]. I'm happy enough just being together with you.”
 「そうは言ってもな。極端な例だが、いきなり北極に行きたいと言われても困るだろう？」=“Even so. I know it's an extreme case but, if I told you I'd like to go to the North Pole with you, even you'd be troubled, no?”
-「はは、それは流石にね。でも、そこまで難しく考える必要ないよ。俺達、恋人同士なんだしさ」=“Haha, yeah, even for me that's a bit much. But, you don't need to think over it so much, you know? We're lovers afterall.”
+「はは、それは流石にね。でも、そこまで難しく考える必要ないよ。俺達、恋人同士なんだしさ」=“Haha, yeah, even for me that's a bit much. But, you don't need to think over it so much, you know? We're lovers after all.”
 「そ、そうだな……恋人同士か、改めて言われるとこそばゆいな」=“Y-You're right... Hearing you say the word "lovers" again, it makes me feel a bit fuzzy inside.”
 「うん、最近思うんだよね。本当に恋人同士っていいなってさ」=“Yeah, I've been feeling the same way recently. "It's really nice that we're lovers", and all.”
 「ん？　どういう事だ？　ここはしばらく二人きりだ、普段は言えないような恥ずかしい話もしていいぞ」=“Hmm? What do you mean? It's just the two of us here right now, so I don't mind if we talk about embarrassing stuff we usually don't bring up.”

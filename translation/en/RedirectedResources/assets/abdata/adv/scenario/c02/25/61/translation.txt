@@ -8,7 +8,7 @@
 「おーっほっほっほ！！　何をなさっているの？　早くこっちにいらっしゃい！」=“Ohohohoh!! What are you doing? Come here, right this moment!”
 「はいはい……まあ、喜んでくれてるみたいで嬉しいよ。俺、恋人らしくなれたかな？」=“Yes yes... well, as long as you're happy. Have I become more of a proper boyfriend?”
 「おーっほっほっほ！　恋人でもない男を、連れて歩く趣味なんて、わたくしにはなくってよ。自信持ちなさい！」=“Ohohohoh! I, at the very least, do not have the hobby of dragging around men who are not worthy of me. Have some confidence!”
-「……うん、そうだな。俺、きみのこと大好きだからな」=“...Yeah, you're right. I love you, afterall.”
+「……うん、そうだな。俺、きみのこと大好きだからな」=“...Yeah, you're right. I love you, after all.”
 「お、おほほほ……ちょ、い、いきなりそういうことを言うのは……反則ですわ……」=“O-Ohohohoh... hey, s-saying that stuff out of the blue is... quite unfair...”
 「おーっほっほっほ！　今日も楽しかったですわ！」=“Ohohohoh! Today was quite fun as well!”
 CHOICE:「もう少し一緒にいたいな」=I wanna be with you a bit more.

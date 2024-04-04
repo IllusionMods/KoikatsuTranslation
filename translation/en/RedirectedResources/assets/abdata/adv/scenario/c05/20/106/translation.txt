@@ -11,7 +11,7 @@
 「うん……それは俺も、強く感じているよ」=“Yeah... I feel that too, really strongly.”
 CHOICE:『エッチまでしちゃったしね』=We even had sex.
 CHOICE:『また、この景色を二人で見に来ようね』=Let's come look at this sight again, okay?
-「いろんな思い出が詰まってるからね。エッチまでしちゃったし」=“We've made all sorts of memories here, afterall. We even had sex.”
+「いろんな思い出が詰まってるからね。エッチまでしちゃったし」=“We've made all sorts of memories here, after all. We even had sex.”
 「エッチ……っ……もう……恥ずかしいの思い出しちゃった」=“Sex... --... jeez... making me remember such embarrassing stuff.”
 「……でも、あのときは、夜空がわたしたちだけの宇宙になったみたいで……とっても幸せだったな」=“...But, at that time, the sky felt like it was our very own little chunk of space... I was really happy back then.”
 「[H名]……そんなこと言われたら、俺、また……」=“[H名]... if you say that to me, I'll...”

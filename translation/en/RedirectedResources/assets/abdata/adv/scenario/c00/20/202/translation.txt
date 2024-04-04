@@ -2,7 +2,7 @@
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
 「うーん、このアトラクション。すごい行列だねー……」=“Mmm, this attraction, it's quite popular it seems. What a line...”
-「ふふ、仕方ないわ。だってこの遊園地の目玉なんだもん……ふぅ……」=“Fufu, it can't be helped. It's the main attraction, afterall... Fuu...”
+「ふふ、仕方ないわ。だってこの遊園地の目玉なんだもん……ふぅ……」=“Fufu, it can't be helped. It's the main attraction, after all... Fuu...”
 「……なんだか、居心地悪そうだね」=“...Feeling uncomfortable?”
 「あら、ごめんなさい。ため息ついちゃった……。でもみんなが私をジロジロ見てるんだもん……気になっちゃって……」=“Oh my, I'm sorry. I ended up sighing... It's just, everyone's kinda staring at me... It's on my mind...”
 「えっと、並ぶの止める？」=“Erhm, wanna skip this one?”
@@ -16,7 +16,7 @@
 「う、うん……だったら、仕方ないよね……うん、仕方ない」=“Y-Yeah... In that case, it can't be helped, can it... yeah, it can't.”
 「ほら、しっかり頑張って欲しいじゃない。応援の意味よ……んー、ちゅっ」=“We want them to work hard for our sake, don't we? I'm just trying to cheer them on... Nn, *smooch*”
 「今、投げキッスした？」=“Did you just blow a kiss?”
-「ええ、通りすがりの人がウィンクして来たから……でも、本当にキスをするのは、君だけよ？」=“Yes, a passer-by winked at me just now, afterall... But, you're the only one who gets my actual kisses, okay?”
+「ええ、通りすがりの人がウィンクして来たから……でも、本当にキスをするのは、君だけよ？」=“Yes, a passer-by winked at me just now, after all... But, you're the only one who gets my actual kisses, okay?”
 「……でへへ」=“...teeheehee.”
 「うふふ、その照れた顔……かーわいい♪　うっふ～ん……このウィンクは、君だけに向けたものよ」=“Ufufu, your face is going red... so cute♪ Uffuhn~... that wink was just for you, you know?”
 「ああ、俺、超ハッピー……」=“Aah, I'm super happy...”

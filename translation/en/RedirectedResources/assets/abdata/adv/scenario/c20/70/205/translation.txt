@@ -14,7 +14,7 @@
 「ありがとう。そんなこと思ってくれてたんだね。俺も[H名]といろんな場所に行きたいな」=“Thank you. That's what was on your mind, huh? I wanna visit lots of places with you too, [H].”
 「ほ、ほんとですか！？　う、嬉しいです……って、す、すみません！　なんかすごく恥ずかしいことを……」=“R-Really!? I-I'm so happy... wuh, I-I'm sorry! I said something so embarra...”
 「全然恥ずかしくないよ。とっても嬉しいな」=“It's not embarrassing at all. I'm really happy.”
-「な、なんだか、すごい欲しがりさんみたいで……やっぱり、恥ずかしいですよ」=“I-I must seem, so greedy... it really is, embarrassing afterall.”
+「な、なんだか、すごい欲しがりさんみたいで……やっぱり、恥ずかしいですよ」=“I-I must seem, so greedy... it really is, embarrassing after all.”
 「二人っきりなんだから恥ずかしがることなんてないよ」=“It's just us here, there's no need for you to be embarrassed.”
 「うう……そう、ですね……誰かいるわけではないですし。別に、悪いこと……でもないですもんね=Uu... you're, right... It's not like there's anybody else here. It's not... a bad thing, is it?
 「そうそう、俺だって[H名]といると嬉しいし……欲しがりにだって、なるよ」=“Exactly, being with you makes me happy too, [H]... it makes me, greedy too.”

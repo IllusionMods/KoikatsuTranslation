@@ -12,7 +12,7 @@
 「……着替えか。ってか、[H名]、めちゃ気合入ってるね」=“...Change clothes, huh. You sure seem super into it, [H名].”
 「もちろんです。引き受けたからには、しっかりと、責任持って勤め上げなければっ」=“Of course. Since we've accepted their request, we have to properly take responsibility, and do it well--”
 「なんか鼻息荒いね……。まあ、でもそのとおりだ。しっかり頑張らなきゃ」=“Is your breathing getting rough...? Well, you're not wrong. We have to do our best.”
-「ええ、気合を入れて下さい。私達は、最高の花嫁と花婿になるのですから」=“Yes, fire yourself up. We're going to be the best bride and groom, afterall.”
+「ええ、気合を入れて下さい。私達は、最高の花嫁と花婿になるのですから」=“Yes, fire yourself up. We're going to be the best bride and groom, after all.”
 「ははは、なんだか、本当に結婚するみたいな意気込みだね」=“Hahaha, you're really enthusiatic, feels like we're really about to get married.”
 「……え、ええ。その通りです。だから、あなたも……私と本気で結婚する気持ちで臨んで下さいね」=“...Y-Yes. Exactly, just like that. That's why, you ought to... act like you're getting married to me for real too, alright?”
 「お待たせしました！　それではご案内致します」=“Sorry for the wait! Well then, I'll be guiding you inside.”

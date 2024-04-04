@@ -117,7 +117,7 @@
 「最近やってる恋愛ドラマが……」=“There's this new romance drama on...”
 「なるほど、興味深いです」=“I see, very interesting.”
 「ふとエッチな気分になったりしない？」=“Do you suddenly get the urge to do lewd stuff at times?”
-「はい、私も人間ですので」=“Yes, I'm a human being too afterall.”
+「はい、私も人間ですので」=“Yes, I'm a human being too after all.”
 「友達からエッチの体験談って聞いたことある？」=“Have you ever heard a friend talk about their personal experiences with sex?”
 「はい、大変参考になりました」=“Yes, it was really quite illuminating.”
 「女性にもオカズって概念はあるのかな？」=“Do women have a concept of "side dishes" too?”

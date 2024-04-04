@@ -21,7 +21,7 @@
 CHOICE:『ねぇ、またエッチなんてどうかな？』=『Hey, how about we have sex again?』
 CHOICE:『遅くなる前に今日は帰ろう』=『Let's head back home before it gets dark.』
 「そのさ、またエッチなんて……どうかな？」=“Listen, how about we... have sex again?”
-「……この流れ、この感じ、初めてここに来たときと同じですもんね」=“...This flow, this feeling, it's the same as when we came here the first time around, afterall.”
+「……この流れ、この感じ、初めてここに来たときと同じですもんね」=“...This flow, this feeling, it's the same as when we came here the first time around, after all.”
 「そう。なんか思い出しちゃって……」=“Yeah. It kinda brought up the memories...”
 「……やっぱりダメ、かな？」=“...As I thought, too much?”
 「ダメなんてことはないです。……でも、少しだけですよ？」=“It's not too much. ...But, just for a little bit, okay?”

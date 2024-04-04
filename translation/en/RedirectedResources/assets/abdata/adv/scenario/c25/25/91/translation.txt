@@ -3,4 +3,4 @@
 //
 「[Pあだ名]、おはよ～」=“[Pあだ名], mornin'~”
 「おはよう、[Hあだ名]。不意に呼ばれたから、ちょっと驚いたよ」=“Morning, [Hあだ名]. You called me that so unexpectedly, it was a bit surprising.”
-「ふふ～、驚かすつもりで使ったからね～」=“Fufu~, I called you that to surprise you, afterall~”
+「ふふ～、驚かすつもりで使ったからね～」=“Fufu~, I called you that to surprise you, after all~”

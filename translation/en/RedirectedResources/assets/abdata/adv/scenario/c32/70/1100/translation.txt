@@ -25,7 +25,7 @@
 「じゃ、次。俺の番」=“Then, it's my turn next.”
 「なんだか軽いですね……まあ、重苦しくない方が嬉しいですが」=“Feels kinda lighthearted, doesn't it?... Well, I'm happy that it's not awkward.”
 「はは、ホントは泣きそうなぐらい嬉しいんだよ」=“Haha, I'm actually so happy right now, I could burst into tears on the spot, you know?”
-「ええ、わかっています。だって、あなたの手、少し震えていますから……」=“Yes, I can tell. Afterall, your hand, it's shaking a bit...”
+「ええ、わかっています。だって、あなたの手、少し震えていますから……」=“Yes, I can tell. After all, your hand, it's shaking a bit...”
 「最後に、愛の証としてキスをしていただきます」=“Lastly, as the proof of your love, you may now kiss each other.”
 「……やっとこの時が来ましたね。あの式場のモデルの日を、私は片時も忘れたことがありませんでした」=“...Finally, this time has come. That day, when we became models, I've not forgotten it for a single moment.”
 「俺もだよ……ずーっと、この日を待っていた」=“Same here... I've been waiting for this day, for a long time.”

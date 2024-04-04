@@ -3,7 +3,7 @@
 //
 「もうここまで来ると、緊張してるのかもわからなくなってくるな……」=“Now that things have come this far, I can't even tell anymore if I'm nervous or not...”
 （[H名]、ウェディングドレスを婚前に着ると、婚期を逃すって噂を気にしてたみたいだけど……）=(She seemed to be quite worried, about that whole myth about not being able to get married, if you wear a wedding dress before the day itself...)
-（大丈夫だよね……別れる直前は笑ってたし。まずは俺がしっかりしないと）=(She's probably fine, right?... She was smiling right up until we went our separate ways, afterall. For now, I'll just have to focus on my own part.)
+（大丈夫だよね……別れる直前は笑ってたし。まずは俺がしっかりしないと）=(She's probably fine, right?... She was smiling right up until we went our separate ways, after all. For now, I'll just have to focus on my own part.)
 （いよいよ出番か……）=(Showtime, huh...)
 （すっご、ここで[H名]と結婚……）=(Damn, I'm gonna marry her here...)
 （模擬ってわかってても緊張する……けど、頑張らないとな）=(Even knowing that it'll be a mock one, I can't help but be nervous... but, I gotta get a grip.)

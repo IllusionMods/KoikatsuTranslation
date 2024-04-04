@@ -12,6 +12,6 @@
 CHOICE:「今日はまだ終わらないよ」=The day's not over yet.
 CHOICE:「大丈夫、明日があるさ」=It's alright, there's always tomorrow.
 「今日はまだ終わらないよ」=“The day's not over yet.”
-「そうか、そうだよね！　まだまだこれから、だもんね」=“I see, of course! We've still got a whole lot of time, afterall.”
+「そうか、そうだよね！　まだまだこれから、だもんね」=“I see, of course! We've still got a whole lot of time, after all.”
 「大丈夫、明日があるさ」=“It's alright, there's always tomorrow.”
 「うん、これからも色々な体験を重ねていこうね」=“Yeah, let's experience lots more things in the future together, okay?”

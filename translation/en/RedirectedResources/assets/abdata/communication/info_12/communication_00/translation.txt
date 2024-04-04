@@ -90,7 +90,7 @@
 「ついエッチな妄想しちゃって……」=“My brain just comes up with lewd thoughts out of nowhere...”
 「男の子だったら仕方のないことよね。うんうん、わかるわよ」=“It can't be helped, since you're a boy. Yeah, I do feel you.”
 「私、誰にでも馴れ馴れしくなんてしてないわよね……？」=“I don't act too overly familiar with everyone, do I...?”
-「そうよね、安心したわ。だって、君だけになんだもの♡」=“That gives me peace of mind. Afterall, you're the only one I'm like this with♡”
+「そうよね、安心したわ。だって、君だけになんだもの♡」=“That gives me peace of mind. After all, you're the only one I'm like this with♡”
 「そう……これからは気をつけなきゃダメね」=“I see... I guess I have to be more careful from now on...”
 「答えづらいこと聞いちゃってごめんなさい」=“I'm sorry for asking a hard-to-answer question.”
 「君、動物は好き？」=“Do you like animals?”
@@ -107,7 +107,7 @@
 「インドアなのも悪くはないと思うの。君に怪我されたくないしね」=“I don't think it's bad to be indoorsy either. I wouldn't want you to get hurt either.”
 「毎日ちゃんと勉強してる？」=“Do you study everyday?”
 「偉～い♡　今後に期待できそうね」=“Good boy~♡ Looks like I can expect greatness from you.”
-「勉強だけが全てじゃないものね。遊びも大切よ」=“Studies aren't everything, afterall. It's important to have fun too.”
+「勉強だけが全てじゃないものね。遊びも大切よ」=“Studies aren't everything, after all. It's important to have fun too.”
 「おしゃれには気を使ってる？」=“Do you pay attention to fashion and stuff?”
 「今度、君の私服姿を見てみたいわ♡」=“I wanna see what you look like in casuals one of these days♡”
 「ついつい楽な方に逃げちゃうのよね。夏は薄着になってばかりだし……」=“Can't help but always just run back to what's comfortable, right? I always wear next to nothing during summer myself...”
@@ -389,7 +389,7 @@
 「好きな人とずぅーっと一緒にいること、かな？　ねっ、未来の旦那様♡」=“Being with my beloved forever, I guess? How's that, future hubby♡”
 「そういえばあんまりちゃんと考えたことなかったかも……流されて生きてちゃダメね」=“Come to think of it, I've never really thought about that... Drifting through life is no way to live, is it?”
 「ダイエットはまだ続けてるの？」=“Do you still diet?”
-「努力は続けてるわよ。だって君が自慢に思える彼女でいたいじゃない」=“I still put effort into it, yes. I want to keep being a girlfriend you can brag about, afterall.”
+「努力は続けてるわよ。だって君が自慢に思える彼女でいたいじゃない」=“I still put effort into it, yes. I want to keep being a girlfriend you can brag about, after all.”
 「幸せ太りしちゃいそうだから、また始めなきゃって思ってるんだけどね」=“Nah, but it's easy to let yourself go when your life is full of love and happiness, so I've been thinking of starting it up again.”
 「兄弟が欲しかったりする？」=“Wish you had siblings?”
 「可愛い妹と弟なら、いくらでも欲しいわね～♡」=“I'd love to have lots of cute little brothers and sisters~♡”
@@ -407,7 +407,7 @@
 「付き合う前なら、友達の相談に乗っちゃってたかもしれないわね……」=“Before we started going out, I might have just ceded to my friend's request...”
 「彼氏ができたこと、友達にはもう話した？」=“Have you already told your friends, that you have a boyfriend now?”
 「話したら、まだ付き合ってなかったの、って逆にびっくりされちゃったわ」=“When I told them, they were surprised that we hadn't already gotten together long ago.”
-「言わなくてもみんな気付いてるみたいよ。付き合う前から噂されてたしね」=“Seems like everyone already knows, even without me having to say anything. It was the gossip of the entire school even before we started going out, afterall.”
+「言わなくてもみんな気付いてるみたいよ。付き合う前から噂されてたしね」=“Seems like everyone already knows, even without me having to say anything. It was the gossip of the entire school even before we started going out, after all.”
 「家族に紹介してもいい？」=“Do you mind if I introduce you to my family?”
 「えっ、それは、その、どう捉えたらいいのかな……も、もちろんＯＫよ！」=“Eh--, that's, uhm, how do I go about making a good impression... O-Of course, I'm OK with it!”
 「い、いきなりすぎない？　まだ心の準備が……ね？」=“I-Isn't it too sudden? My heart's not ready... ya know?”

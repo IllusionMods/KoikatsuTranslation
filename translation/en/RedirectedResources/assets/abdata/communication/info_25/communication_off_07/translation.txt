@@ -106,7 +106,7 @@
 「おお！　私も運動には自信があるんだ！　勝負しようぜ！」=“Ooh! Me too! We should have a bout!”
 「私も。苦手ではないんだけど……激しいのはすげー疲れるからな」=“Me too. I wouldn't say I'm bad at it but... the more intense stuff is super exhausting.”
 「勉強は毎日しっかりしてるのか？」=“Do you take care of your studies daily?”
-「日々の積み重ね、大事だよな！」=“Chipping at it daily is what brings results, afterall!”
+「日々の積み重ね、大事だよな！」=“Chipping at it daily is what brings results, after all!”
 「試験前になって慌てるタイプか？　ハハ、一緒だな！」=“The type to panic right before exams, huh? Haha, we're comrades then!”
 「ファッションとかはこだわるほうか？」=“You the type to fuss over fashion?”
 「なんだかんだと、男子もおしゃれな方が良いよな」=“At the end of the day, even boys should dress up trendily.”
@@ -431,7 +431,7 @@
 「処女の見分け方ってさ、知ってる？」=“Do you know how to tell if a girl's a virgin?”
 「し、知らねーよ！」=“L-Like hell I do!”
 「急にエッチしたいって思ったことある？」=“Have you ever felt the itch to have sex creep up on you out of nowhere?”
-「そりゃ……あるよ。お前のこと、好きだし」=“Well... of course. I love you, afterall.”
+「そりゃ……あるよ。お前のこと、好きだし」=“Well... of course. I love you, after all.”
 「な、なぁ……もっと女の子らしさを出した方がいいのか？」=“H-Hey... do you think I should act more girly?”
 「そ、そうか。女の子らしさ……口調とか、か？　わからん……」=“I-I see. Girliness... like my way of speaking, and stuff? I don't really know...”
 「そっか！　そのままでいいか！　ありがとな！」=“I see! I'm fine as I am, huh! Thanks!”
@@ -440,7 +440,7 @@
 「そうだよなぁ、親子だからって、絶対似るってわけでもないよな」=“I know, right? Just because we're a parent and child doesn't mean we have to resemble each other.”
 「お前は徹夜とかしたことあるのか？」=“Have you ever stayed up all night?”
 「だよな、なにかに夢中になってると、つい、しちゃうよな」=“I feel you. It just happens, doesn't it? When you really get into something.”
-「当然だよな。夜は寝るもんだし……」=“Of course. Night time's for sleeping, afterall...”
+「当然だよな。夜は寝るもんだし……」=“Of course. Night time's for sleeping, after all...”
 「なんか最近、ぜんぶエッチ系の話につながっていくよな？」=“You've been turning every chat we have into one about sex recently, haven't you?”
 「き、気のせいじゃない？」=“J-Just your imagination, no?”
 「ん～、そういうことにしといてやる」=“Nn~, well, I'll leave it at that then.”
