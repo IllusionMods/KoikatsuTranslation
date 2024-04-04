@@ -294,7 +294,7 @@
 「……ごめんなさい。やっぱりまだ気持ちの整理がつかないの」=“...I'm sorry. I really haven't managed to get my feelings in order.”
 「ねえ、あなたがもしいいならだけど……私と付き合わない？」=“Hey, if you're fine with it... won't you go out with me?”
 「いっ、いいの？　嬉しい、本当によかった……。これからよろしくね」=“Y--, You sure? Happy, I'm so happy... We're a couple now then.”
-「やっぱり、そうよね……。よければこれからも友達でいてちょうだいね」=“Right, of course... If it's fine with you, please stay my friend atleast, okay?”
+「やっぱり、そうよね……。よければこれからも友達でいてちょうだいね」=“Right, of course... If it's fine with you, please stay my friend at least, okay?”
 「答えは分かってるけれど、あなたへの気持ち諦められなくて、ダメかしら？」=“I already know what the answer's gonna be but, I just can't seem to get rid of my feelings for you, am I really no good?”
 「それ、本当に……？　嬉しいわ、あなたの彼女になれて」=“Are you, being serious...? I'm so glad, to get to be your girlfriend.”
 「やっぱり、そうよね……けど、これからもあなたを好きでいてもいいかしら？」=“Right, of course... But, is it fine if I keep loving you as I have?”

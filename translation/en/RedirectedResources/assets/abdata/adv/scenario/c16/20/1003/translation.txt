@@ -23,7 +23,7 @@
 「震えてる理由はそれなの……ここで一度式を挙げてしまったら、二度目は無いんじゃないかって……」=“That's why I can't stop shaking... that if we have this ceremony now, a real one might not...”
 「大丈夫、何度でも言うよ？　大丈夫だから、[H名]は大丈夫」=“It'll be alright. I can tell you that as many times as you want, you know? It'll be alright. You'll be alright, [H名].”
 「うん……うん、なんだか今日のアナタ、とても頼もしいわ……」=“Okay... okay. You're being so much more reliable today...”
-「こういう時くらいはね。カッコつけてるわけじゃなくて、本当に[H名]の事が好きだから」=“Well, I gotta be, atleast at times like these. I'm not just saying it either, I mean it. Since I love you, really.”
+「こういう時くらいはね。カッコつけてるわけじゃなくて、本当に[H名]の事が好きだから」=“Well, I gotta be, at least at times like these. I'm not just saying it either, I mean it. Since I love you, really.”
 「ねぇ……私、待ってるって言っていいのかしら？　こんな所で、そんな事を言ったら……」=“Hey... is it really okay, for me to say that I'll wait? In this place. I don't want to jinx...”
 「[H名]はもう何も言わなくていいよ。変わりに俺が言う。[H名]、絶対幸せにする……だからもう少しだけ待ってて」=“You don't need to say anything anymore, [H名]. I'll say it for you. [H名], I'll definitely make you happy... so wait for me, just a bit longer.”
 「ぁぁ……はいっ……はいっ……待ってます……私は、アナタの言葉を信じて、ずっと待ってるわ……」=“Aah... yes--... yes--... I will wait--... I'll believe in you, and wait as long as it takes...”

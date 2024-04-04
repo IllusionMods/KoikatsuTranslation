@@ -3,7 +3,7 @@
 //
 （きっちりしてる[H名]のことだから、１０分前行動とかしてるに違いない。遅れないようにしなきゃな）=(Since this is [H名] we're talking about, I bet she'll try to get there 10 minutes early. I gotta do my best to not be late)
 「よし！　１０分前に到着──って、もういる！」=“Alright! I got here 10 minutes before--wait, you're already here!”
-「案外早いんですね。あなたのことですから、遅刻か、ギリギリに到着するかと思っていました」=“You're unexpectedly early. Considering it's you, I expected you to be late, or atleast just barely make it on time.”
+「案外早いんですね。あなたのことですから、遅刻か、ギリギリに到着するかと思っていました」=“You're unexpectedly early. Considering it's you, I expected you to be late, or at least just barely make it on time.”
 「や、やあ、[H名]こそ早いんだね。俺も早めにきたつもりだったんだけど……遅かったみたいだ」=“W-Well, you're pretty early yourself, [H名]. I wanted to come earlier too but... looks like I ended up being late anyway.”
 「普段は１０分前行動を心がけています。でも、遅れたくない相手と待ち合わせする場合は３０分前に着くようにしていますので」=“Normally, I do my best to arrive 10 mins early. But, when I'm meeting with someone who I definitely don't want to keep waiting, I do my best to get there 30 mins early.”
 （……大事な人、って思われてるってことかな）=(...I'm an important person to her, huh?)

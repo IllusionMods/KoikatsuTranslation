@@ -4,7 +4,7 @@
 「あれ！？　もう来てたのか！」=“Huh?! You were already here?!”
 「お早う御座います。貴方こそ、ずいぶんとお早いお着きですね」=“Good morning. You got here quite early yourself.”
 「なんか、ソワソワして落ち着かなくてさ。ん？　ちょっと待って」=“I couldn't keep myself still, you see. Nn? Hang on a second.”
-「確かここまで一時間以上かかるんだよね？　相当早起きだったんじゃない？」=“It should have taken you atleast an hour to get here from your home, right? Did you wake up that early today, for this?”
+「確かここまで一時間以上かかるんだよね？　相当早起きだったんじゃない？」=“It should have taken you at least an hour to get here from your home, right? Did you wake up that early today, for this?”
 「いいえ。いつも通り５時に起床いたしました。身支度に時間がかかってしまったので、遅いぐらいです」=“Not at all. I rose out of bed at 5, as I usually do. It took quite some time for me to dress myself, so if anything, I was almost late.”
 （身支度に……それって凄く楽しみにしてくれてるってことだよな。今日は目一杯楽しんでもらわなきゃ！）=(Dress herself... so it wouldn't be wrong to say she was really excited, huh? Guess I'll have to show her an amazing time today then!)
 「いっぱい遊んでお腹すいちゃったよね。何にしようか……ん？　どうしたの」=“We've been running around so much I'm running on empty. Let's see, what should I get... Hm? What's wrong?”

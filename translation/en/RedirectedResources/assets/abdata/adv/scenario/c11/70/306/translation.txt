@@ -22,5 +22,5 @@ CHOICE:『疲れて声は出せないと伝える』=Tell her that your throat's
 「ごめん……アプローチできないみたい」=“Sorry... doesn't seem like I'll be able to make that approach.”
 「ふふふ、気にしなくてもいいわ。それより、疲れているなら、今日はもうこれぐらいにしておきましょ？」=“Fufufu, you don't need to worry about it. Rather than that, if you're tired, let's go home for today?”
 「うん、そうする」=“Yeah, let's do that.”
-「忘れ物ない？　少しだけテーブルの上、片付けておかないとね」=“Missed anything? We should also clean up the table, atleast a bit.”
+「忘れ物ない？　少しだけテーブルの上、片付けておかないとね」=“Missed anything? We should also clean up the table, at least a bit.”
 「うん……こんなもんかな。じゃ、出よっか」=“Yeah... that should be fine. Then, let's go.”

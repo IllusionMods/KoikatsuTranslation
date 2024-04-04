@@ -43,7 +43,7 @@
 「おーっほっほっほ、わざわざ告白などせずとも勝手に向こうからやってまいりますわ」=“Ohohohoh, they shall come on their own to me, whether I do so or not.”
 「わたくしに釣り合う男性など滅多におりませんわ」=“Men who would be fit for one such as me are quite rare.”
 「友達と恋愛相談ってする？」=“Ever have love talks and discussions with friends?”
-「自分から恋愛話などしませんわ。あまり経験ありませんから」=“I do not start them by myself, atleast. I do not have much experience with such things since.”
+「自分から恋愛話などしませんわ。あまり経験ありませんから」=“I do not start them by myself, at least. I do not have much experience with such things since.”
 「恋愛相談……生憎、今まで縁がありませんでしたわ」=“Love discussion... disappointingly, I have not yet had the opportunity to experience such things as love.”
 「どんなタイプの男性が好きなの？」=“What sort of guys do you like?”
 「強く、逞しく、そしてなによりも優しい人……そんな紳士が好みですわ」=“Strong, manly, and gentler than any and all... I would love such a gentleman.”
@@ -224,7 +224,7 @@
 「おーっほっほっほ、決まってますわ。ネットよ！」=“Ohohohoh, that's simple. Through the internet, of course!”
 「あら、聞かなくてもわかってるんじゃなくて？　おほほほほ」=“My, do you really need to ask? Ohohohohoh.”
 「エッチって楽しい？」=“You enjoy sex?”
-「楽しくないわけがないわ。まあ、相手次第ではありますけど」=“How could I not? Well, I suppose the partner has to be above par, atleast.”
+「楽しくないわけがないわ。まあ、相手次第ではありますけど」=“How could I not? Well, I suppose the partner has to be above par, at least.”
 「どうかしらね？　楽しくないことも考えられますわ」=“Who knows? I can see situations where I may not.”
 「破廉恥ですわ！　付き合いきれませんわね」=“How indecent! I refuse to go along with such topics.”
 「この前さ、物陰で抱き合ってる二人がいて……」=“The other day, I saw a couple making love in the shade...”
@@ -501,7 +501,7 @@
 「名残惜しいですわ……でも、仕方ありませんわね」=“How saddening... but, it cannot be helped, can it?”
 「また、声を掛けてくれても構わなくてよ。むしろ、また声かけなさい。よろしくて？」=“I would not mind if you call out to me again. No, do it again soon. Understand?”
 「あら、残念ね……それではまた。ごきげんよう」=“Oh, a shame... see you then. Good day.”
-「構わなくてよ！　わたくしと付き合うには１００年早かったようね」=“I have no objections! You truly are atleast a 100 years too young, to serve as my partner.”
+「構わなくてよ！　わたくしと付き合うには１００年早かったようね」=“I have no objections! You truly are at least a 100 years too young, to serve as my partner.”
 「あなたはわたくしに似つかわしくありません。お別れを申し渡しますわ」=“You are not a suitable man for me. And so we are parting.”
 「おほほほ、その率直な言葉、嬉しく思いますわ！　よろしくてよ！」=“Ohohohoh, I can be nothing but happy, receiving such candid words! Very well!”
 「あなたの顔を見ていると、身体が火照ってしかたありませんわ。これから、エッチ、いたしません？」=“When I look at your face, my body gets so hot I cannot help myself. Won't you, have sex, with me?”

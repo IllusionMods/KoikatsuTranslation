@@ -7,5 +7,5 @@
 「お、これはもしやナンパっすか？」=“Oh, are you hitting on me right now?”
 「でも、そういうのは面倒だからいいよ～」=“But, that sort of thing's a pain, so I'm good~”
 「えぇっ……、ま、まあ、また話そうね」=“Eeh--... w-well, let's chat again, okay?”
-「はいは～い。可愛そうだから話相手になってあげるよ～」=“Sure thing~. You seem pretty lonely so I'll atleast do that much~”
+「はいは～い。可愛そうだから話相手になってあげるよ～」=“Sure thing~. You seem pretty lonely so I'll at least do that much~”
 「じゃね～お疲れ～」=“See ya~, good work today~”

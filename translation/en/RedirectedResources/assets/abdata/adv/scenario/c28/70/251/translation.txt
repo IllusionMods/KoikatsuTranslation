@@ -2,5 +2,5 @@
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
 （ふぅ、そろそろ駅か。……今日もいいデートができた、よな？）=(Fuuh, almost at the station. ...Today was another good date, right?)
-（観覧車では、いい雰囲気になれたと思うし……）=(I mean, I'm pretty sure we had a good mood going at that ferris wheel atleast...)
+（観覧車では、いい雰囲気になれたと思うし……）=(I mean, I'm pretty sure we had a good mood going at that ferris wheel at least...)
 （……よしっ、この次は……もっと[H名]を笑顔にさせるデートにしよう）=(...Alright--, for the next one... I need to make her smile even more!)

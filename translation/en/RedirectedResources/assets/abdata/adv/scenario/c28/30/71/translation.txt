@@ -3,5 +3,5 @@
 //
 「……教室だと勉強ははかどるのじゃが……」=“...It is quite easy to study in a classroom, but...”
 「どうしたの？」=“What's up?”
-「……一緒にいるのじゃから少しくらい、イチャイチャしたいのじゃ……」=“...We are together right now, I would like to flirt atleast a little bit...”
+「……一緒にいるのじゃから少しくらい、イチャイチャしたいのじゃ……」=“...We are together right now, I would like to flirt at least a little bit...”
 「……じゃあ、机の下で……手をつなごうよ」=“...Alright, let's... hold hands under the desk then.”

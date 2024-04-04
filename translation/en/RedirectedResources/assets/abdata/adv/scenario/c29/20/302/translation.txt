@@ -15,7 +15,7 @@
 「気を悪くさせてしまったのならすみません」=“If I killed the mood or made you feel bad, then I'm sorry.”
 「ううん、全然。むしろ嬉しいよ」=“No, not at all. If anything, I'm happy.”
 「嬉しい、ですか？」=“Happy, you say?”
-「多分それって、俺の自惚れじゃなければ、俺たちが付き合ってるから生まれた感情だと思うんだ」=“That's probably, though this may be my own hubris, an emotion born out of us becoming a couple, atleast I think so.”
+「多分それって、俺の自惚れじゃなければ、俺たちが付き合ってるから生まれた感情だと思うんだ」=“That's probably, though this may be my own hubris, an emotion born out of us becoming a couple, at least I think so.”
 「だから、[H名]の新しい面を見られて嬉しいってこと」=“So I'm happy, that I got to see a new side of you, [H名].”
 「……で、ではもう一曲くらい歌いましょう」=“...W-Well then, I'll sing one more song.”
 「一曲と言わず何曲でも！」=“You can sing as many times as you want!”

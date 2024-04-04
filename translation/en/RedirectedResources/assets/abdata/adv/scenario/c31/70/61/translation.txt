@@ -3,7 +3,7 @@
 //
 「うぅん、顔が自然に緩んでくるな……すまん、少し浮かれているようだ」=“Mmm, my face is relaxing on its own... Sorry, I'm getting a bit too carried away here.”
 「謝る事ないよ。[H名]のそういう顔見られるのは貴重だからね」=“It's nothing you need to apologize for. Being able to see such an expression on your face is really precious to me.”
-「こら、からかう暇があるなら……手くらい繋いだらどうだ？　折角のデート……なのだぞ」=“Hey, if you have the leeway to tease me... How about we hold hands atleast? We're on a date... you know?”
+「こら、からかう暇があるなら……手くらい繋いだらどうだ？　折角のデート……なのだぞ」=“Hey, if you have the leeway to tease me... How about we hold hands at least? We're on a date... you know?”
 「フッ、自分から言った事だが、本当にずっと手を繋いでいたな」=“Hah, I brought it up myself but, you really did hold my hand the whole time.”
 「あぁ、ごめん。その、離したくなくて……色々やり辛かったよね？」=“Aah, Sorry. That's, I didn't want to let go... Must have been hard in many ways, right?”
 「そんな事は気にするな。面倒な事も含めて楽しむのが、付き合うという事だろう？」=“Don't worry about something like that. Enjoying even the annoying things, that's what it means to go out with somebody, no?”

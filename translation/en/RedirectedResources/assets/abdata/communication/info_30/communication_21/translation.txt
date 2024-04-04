@@ -90,7 +90,7 @@
 「昨日こんなことがあったんだけど……」=“Yesterday...”
 「……も～、エッチな話なら聞かなかったのに～」=“...Jeez~, if I knew it was gonna be lewd I'd have blocked my ears~”
 「私、他の子に比べて影薄いって言われるけどそんなことないよね！？」=“People tell me that my presence is barely anything compared to other girls but, it isn't, right?!”
-「だ、だよね！　よかった～ちゃんと私のこと分かってくれる人がいて」=“R-Right! Thank god~, there's atleast someone who sees me for me.”
+「だ、だよね！　よかった～ちゃんと私のこと分かってくれる人がいて」=“R-Right! Thank god~, there's at least someone who sees me for me.”
 「や、やっぱり……何かほしいなー、私だけのオンリーワン」=“Y-You too... what I wouldn't give, for something unique to only me~”
 「な、なんで目を逸らすの！？　はっきり言ってよ～」=“W-Why'd you turn your eyes away!? Tell me~”
 「ねえねえ、キミって動物好きな方？　ワンちゃんとか」=“Hey hey, do you like animals? Like puppies and whatnot.”
@@ -356,7 +356,7 @@
 「うん、なーに？」=“Okay, what is it~?”
 「あー、ごめんね！　これからしなきゃいけないことがあるから、また今度」=“Ah, sorry! I've got something I really need to take care of right now so, another time, okay?”
 「も～、堂々と入ってきて～。私も今度仕返ししちゃおうかな？」=“Jeez~, walking in so brazenly~. Maybe I'll do the same to you sometime?”
-「わ、ダメだよ！　せめて女子の制服着てくるとか、ってもっとダメか」=“Wah, don't! Atleast put on a girls' uniform first, wait no that'd be even worse--”
+「わ、ダメだよ！　せめて女子の制服着てくるとか、ってもっとダメか」=“Wah, don't! At least put on a girls' uniform first, wait no that'd be even worse--”
 「もう、冒険家なんだから。誰かが来たら、二人でロッカーに入っちゃう？」=“Jeez, you're such a thrill junkie. If someone comes, wanna go hide in the locker together?”
 「はぁ、来ると思った。みんな着替え中だから今はダメー」=“Haah, I thought you'd come. Everyone's changing so not right now~!”
 「ふーん。もう知らない。バイバイ」=“Hmph. I don't know you. Byebye.”

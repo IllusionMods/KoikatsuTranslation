@@ -79,7 +79,7 @@
 「はぁ……誰でも知ってるっすよ。小さな子供かっての～」=“Haa... Just about everyone does. Are you a kid~?”
 「エッチな本って見たことあるの？」=“Have you ever seen porn mags?”
 「程度の低い質問っすねぇ……エッチに興味でたばかりの子供じゃあるまいし……」=“What a vulgar question... I didn't just hit puberty, you know...”
-「……エロマンガくらいならみんなあるんじゃないんすか？」=“...Hasn't just about everyone read atleast an eromanga?”
+「……エロマンガくらいならみんなあるんじゃないんすか？」=“...Hasn't just about everyone read at least an eromanga?”
 「……キミさ、そういうこと言うの止めた方がいいっすよ？」=“...You'd be better off not mouthing off about that stuff, you know?”
 「こういうこと聞いてもいいのか、わからないんだけどさ……」=“I don't really know if it'd be okay for me to ask this but...”
 「それ、ダメなヤツっすよ……ドン引きっす」=“That's really bad... like, I'm actually speechless.”

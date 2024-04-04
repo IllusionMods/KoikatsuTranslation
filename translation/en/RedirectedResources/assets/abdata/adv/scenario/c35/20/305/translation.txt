@@ -2,7 +2,7 @@
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
 「いえーい！」=“Yaay!”
-「はぁぁ、やっぱり延長して良かった！　今の歌、一度歌ってみたかった曲なんだ」=“Haa, it was a good choice to extend it! The song just now, I wanted to try singing it atleast once.”
+「はぁぁ、やっぱり延長して良かった！　今の歌、一度歌ってみたかった曲なんだ」=“Haa, it was a good choice to extend it! The song just now, I wanted to try singing it at least once.”
 「私も私も！　最近よく聞くもんね。私もついつい一緒に熱唱しちゃったん」=“Me too, me too! It's a really popular song these days, isn't it? I ended up joining in with you.”
 「最初は恥ずかしいかと思ったけど、カラオケって楽しいんやねぇ。田舎におったらなかなかこういう経験も出来んけん。全部君のおかげなん。ありがとう」=“At first it was a bit embarrassing but, karaoke is really fun, innit? I could have never experienced something like this in the sticks. It's all thanks to you. Thanks.”
 「あはは、逆に[H名]の故郷には、[H名]の故郷にしかない良さがあるよ。いつか……俺にもそういう経験させて欲しいな」=“Ahaha, but your hometown surely has its own charm to it, charm unique to it. Someday... I hope you can show me that charm.”

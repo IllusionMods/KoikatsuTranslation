@@ -2,7 +2,7 @@
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
 「ここがカラオケルーム……案外狭く感じるわね」=“So this is a karaoke box... it's actually pretty small, huh?”
-「そんな初めて来た人みたいなこと言ってどうしたのさ。友達と来たことくらいあるでしょ？」=“What's gotten into you, talking like it's your first time at karaoke? You must have come here before with friends atleast, no?”
+「そんな初めて来た人みたいなこと言ってどうしたのさ。友達と来たことくらいあるでしょ？」=“What's gotten into you, talking like it's your first time at karaoke? You must have come here before with friends at least, no?”
 「ないわよ。一緒に来る友達もいないし、来る理由がないわ」=“I haven't. I don't have any friends that would come with me, nor a reason to come.”
 「あっ、そ、そうなんだ……ごめん、無神経なこと言ったね」=“Ah--, I-I see... Sorry, was being pretty insensitive there, wasn't I?”
 「別に気にしなくていいわよ……裏を返せば、初めてのカラオケをあなたと体験できる、ということなのだし」=“You don't need to mind it... looking at it another way, my first time at karaoke will be with you, and whatnot.”

@@ -222,7 +222,7 @@
 「そういうのは論外ね。快楽に溺れた先が怖いもの」=“Stuff like that is out of the question. Lose yourself to the pleasure and it'll be all over.”
 「女子同士でエッチな事ってしたことある？」=“Ever had sex with a girl?”
 「なっ……あ、相手がいる事ですもの。ノーコメントよ……」=“Wha--... t-that'd need another girl as partner. I'll say nothing beyond that...”
-「しないわよ。少なくとも私はしてない。他はまぁ……女子校だったから……」=“Of course not. Atleast I haven't. As for the other girls... it's an all girls school so...”
+「しないわよ。少なくとも私はしてない。他はまぁ……女子校だったから……」=“Of course not. At least I haven't. As for the other girls... it's an all girls school so...”
 「エッチな知識に自信ある？」=“Would you say you're confident in your knowledge of sex?”
 「えぇ、一通りは知っているつもりよ。な、なによ……必要な事でしょ？」=“Yes, I try to make a point of learning about it. W-What... it's important, no?”
 「自信と言われると難しいわね。相手がいなければ経験は積めないし……」=“Can't really say I'm "confident" in it. Without a partner, I can't really experience it for myself so...”
@@ -262,7 +262,7 @@
 「な、なんなのよ……流石に……照れるわ……」=“W-What is it... you're gonna... make me blush...”
 「はぁ、ないものねだりというやつなのかしら。そんなに胸が好き？」=“Haah, aren't you asking for a bit too much? Do you like breasts that much?”
 「何故アナタがそこまで胸に興味を示すのか、そこに興味が沸いてきたわ」=“Now I'm interested in finding out just why you're that interested in breasts.”
-「もう何を言っても無駄ね。なら、感想を頂戴。私の胸はどうなの？」=“No point in saying anything, is there? Atleast tell me your thoughts then. How's my chest?”
+「もう何を言っても無駄ね。なら、感想を頂戴。私の胸はどうなの？」=“No point in saying anything, is there? At least tell me your thoughts then. How's my chest?”
 「はぁっ、かける言葉も見つからないって、こういう事を言うのね」=“Haah--, so this is what they mean, by being truly at a loss for wards, huh?”
 「こ、この行為に説明を求めるわ……」=“I-I demand an explanation...”
 「手を握られると……動悸が激しくなるの……だから……その……」=“It makes my heart pound... when you do that... so... uhm...”
@@ -516,7 +516,7 @@
 「えっと、私から誘うわね。お昼、一緒に食べましょう？」=“Erhm, I'mma ask myself, okay? Let's eat lunch together?”
 「そう、よかった……その、アナタが中々誘ってくれないから……」=“Okay, great... it's just, uhm, you haven't asked me for a while so...”
 「何か用事？　私にできる事ならなんでも言ってね」=“Are you busy? If there's anything I can help with, let me know, okay?”
-「コイカツね、了解。私、一度やってみたい事があるのだけれど」=“Love activities, right? Roger. There's something I'd like to try atleast once.”
+「コイカツね、了解。私、一度やってみたい事があるのだけれど」=“Love activities, right? Roger. There's something I'd like to try at least once.”
 「コイカツはお休み？　体調が悪かったりしたら言うのよ」=“Is the club on break today? If you're not feeling good, you need to let me know, okay?”
 「フフッ、思い過ごしみたいね。なら今日もよろしく。部長で、彼氏さんっ」=“Fufuh--, seems like I was just overthinking it. Let's have a nice time together again then, my club president boyfriend--”
 「あらら、残念だけど、とりあえず保健室行きましょうか？」=“My dearie, it's a shame but, let's go to the infirmary together for now?”

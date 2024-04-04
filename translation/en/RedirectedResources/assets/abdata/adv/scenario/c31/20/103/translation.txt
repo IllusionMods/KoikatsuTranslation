@@ -15,5 +15,5 @@ CHOICE:『そろそろ帰ろうか』=『Should head home』
 「えぇっ、もしそんな事したって、[H名]には余裕で迎撃されそうだけど……」=“Eeh--, If I were to do that, I feel like you'd easily intercept me, without breaking a sweat...”
 「わからないぞ？　私だって常に気を張っているわけじゃない。不意を突かれる事くらいあるだろう」=“I don't know about that. It's not like I'm always on guard, you know? You could catch me by surprise.”
 「それって……遠回しに誘ってる？」=“Is that... Is that a roundabout invitation?”
-「さぁな。ほら、もう帰るんだろう？　手くらい繋いでいくか？」=“Who knows? Come on, we're going home, no? Wanna hold hands atleast?”
+「さぁな。ほら、もう帰るんだろう？　手くらい繋いでいくか？」=“Who knows? Come on, we're going home, no? Wanna hold hands at least?”
 「うぅ、何か色々チャンスを逃した気がするけど……うん、駅まで手は繋いで帰ろう」=“Uuu, I feel like I just missed out on something just now but... yeah, let's walk to the station hand-in-hand and go home.”

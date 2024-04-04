@@ -6,5 +6,5 @@
 「…………」=“......”
 「って……ちょっ、何して……」=“...Hey--, what are you...”
 「ふふー、起きた起きた。それじゃあ、沢山搾り取ってやるぞ♪」=“Fufu~, you're up, you're up. Well then, I'll wring you out lots♪”
-「へっ？　いや、そんないきなり、ちょっと加減を……」=“Heh--? No, this is way too sudden, lemme atleast...”
+「へっ？　いや、そんないきなり、ちょっと加減を……」=“Heh--? No, this is way too sudden, lemme at least...”
 「にゃはは♪　そんなことするわけないだろー」=“Nyahaha♪ Like I'm letting you get away~”

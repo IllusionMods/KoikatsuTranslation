@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
-「学食だと、これが一番のお気に入りかな」=“I'd say this is my favourite dish, atleast out of the things you can get at this school.”
+「学食だと、これが一番のお気に入りかな」=“I'd say this is my favourite dish, at least out of the things you can get at this school.”
 「たしかに精力がつきそうなものばかりですね」=“Certainly, it is made up of only things that do empower one's libido.”
 「いや、単純にメニューの中で濃い味付けなのと、量が多いからなんだけど……」=“No, I mean, for me it's just that it's the most spiced dish out of all of them here, the serving's also huge, that's all...”
 「そ、そうでしたか。それは、その、失礼いたしました」=“I-I see. I, uhm, I do apologize.”

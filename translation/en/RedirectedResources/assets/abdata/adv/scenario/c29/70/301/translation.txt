@@ -11,7 +11,7 @@
 「本当です。まったく……」=“Exactly so. Good grief...”
 「あまりハードルを上げられると、歌いにくいではないですか」=“If you raise the hurdle too high, it'll be hard for me to sing properly.”
 「そう言いつつリモコン取るんだ」=“So you say, but you've already got the remote in your hand.”
-「折角来たのですから、まずは一曲と思ったのです」=“We came out here and everything, so I thought I'd atleast sing one song.”
+「折角来たのですから、まずは一曲と思ったのです」=“We came out here and everything, so I thought I'd at least sing one song.”
 「じゃあ俺は聴く体勢に入ろうかな」=“Well then, I'll enter into listening mode.”
 「そこまでかしこまらなくても……」=“You don't need to be so formal about it...”
 『小さな手の平 掴める物は きっと限られているけど――』=『This small hand, the things it can grasp, they are surely limited, but--』

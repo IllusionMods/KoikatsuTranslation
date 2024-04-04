@@ -13,7 +13,7 @@
 「ナルシストはやめてよ……流石に傷つく……」=“Don't call me a narcissist... It really does sting...”
 「はは、すまん。でも、おまえが先に余計な事を言うからだぞ？　たしかに私は女らしくないかもしれんが……」=“Haha, sorry. But, you're the one who started it, you know? Certainly, I'm not all that girly but...”
 「ご、ごめん！　そんなつもりじゃなくて……あぁ、ホントごめん……傷つけちゃった、よね？」=“S-Sorry! That's not what I meant to say... Aah, I'm really sorry... I hurt you, didn't I?”
-「まったく、お手柔らかに頼むぞ。これでも女なんだ……普段の仕返しをするなら、もう少し他の方法にしてくれ」=“Jeez, go easy on me, please. At the end of the day, I'm still a girl... If you're going to hit back like usual, then atleast find a different way to do it.”
+「まったく、お手柔らかに頼むぞ。これでも女なんだ……普段の仕返しをするなら、もう少し他の方法にしてくれ」=“Jeez, go easy on me, please. At the end of the day, I'm still a girl... If you're going to hit back like usual, then at least find a different way to do it.”
 「仕返しって……そんなつもりで言ったんじゃないよ。確かに[H名]は厳しいところがあるけど、そこも含めて、好きなんだ」=“Hit back"... I didn't mean it that way. It's true, you have your rough parts, [H名], but I love everything about you, even those sides.”
 「好き、か……そうか、フフッ、我ながら現金だな。おまえに好きと言われると、些細な事はどうでもよくなってしまう」=“Love, huh... I see, Fufu--, that's pretty calculating of you, if I do say so myself. Everytime you profess your love for me, I find myself not giving a damn anymore about the small stuff.”
 「今日の私は、少し不安定みたいだ。夜景が綺麗過ぎて、心が浮ついているのかもな」=“Seems like I'm feeling pretty insecure today. The nightsky is too beautiful, it's making my heart feel a bit restless.”

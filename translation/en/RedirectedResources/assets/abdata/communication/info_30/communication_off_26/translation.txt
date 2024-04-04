@@ -356,7 +356,7 @@
 「……何？　今はそんな気分じゃ、ないんだけど……」=“...What? I'm really not in the, mood though...”
 「……あっ、ごめん。このあと用事があるから……またね？」=“...Ah--, sorry. I have something to do so... later, okay?”
 「……そんなに私の身体、気になるの？　……なんなら、見る？」=“...Are you that curious, about my body? ...Wanna take a look, then?”
-「……せめて……私が目的なのか、他の子なのか……ハッキリしてほしい、かな」=“...I want you to... atleast make it clear, whether you are... here for me, or for another girl.”
+「……せめて……私が目的なのか、他の子なのか……ハッキリしてほしい、かな」=“...I want you to... at least make it clear, whether you are... here for me, or for another girl.”
 「……私の水着姿みたいって……物好きだよね。別に、いいけど……」=“...You're pretty weird... wanting to see me in my swimsuit like this. Not that I, mind...”
 「……他の子じゃなくて、私を……見て」=“...Look at, me, not... other girls.”
 「……ここ、いつもより落ち着く……あなたがいるから、かな」=“...I feel, much calmer than usual, here... wonder if it's, because you're here.”

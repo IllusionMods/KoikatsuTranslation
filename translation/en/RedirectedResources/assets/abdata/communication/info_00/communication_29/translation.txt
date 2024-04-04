@@ -534,7 +534,7 @@
 「いいですよ。お付き合いいたします」=“Sure. I'll keep you company.”
 「一緒に体を動かしませんか？　変な意味ではないですからね」=“Won't you get a workout with me? I don't mean that in a weird way, just so you know.”
 「ありがとうございます。それでは早速始めましょう」=“Thank you very much. Well then, let's get started.”
-「残念です……。では一人でストレッチでもすることにします」=“Shame... Well then, I'll try doing atleast some stretches by myself.”
+「残念です……。では一人でストレッチでもすることにします」=“Shame... Well then, I'll try doing at least some stretches by myself.”
 「ちょっと付いてきてくれる？」=“Mind coming with me for a bit?”
 「ええ、もちろん良いですよ」=“Of course, I'd be happy to.”
 「……すみません。今は無理です」=“...I'm sorry. I can't right now.”

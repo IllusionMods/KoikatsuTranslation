@@ -338,7 +338,7 @@
 「すみません。難問と格闘していまして、少しひとりで考えさせてください」=“I'm sorry, I'm currently wrestling with a particularly difficult problem, please let me think on it for a bit by myself.”
 「よければ、一緒に勉強しませんか？」=“If it's alright with you, won't you study with me?”
 「助かります。あなたからの刺激も頂きたいところでしたので」=“Thank you. That'll help a ton. I was hoping to get some stimulation and inspiration from you.”
-「休息日のつもりでしたか……では大人しく諦めることにします」=“Planned on taking a break today, huh... Then, I'll give up quietly, atleast for today.”
+「休息日のつもりでしたか……では大人しく諦めることにします」=“Planned on taking a break today, huh... Then, I'll give up quietly, at least for today.”
 「これから運動するんだけど、一緒にどう？」=“I'm planning to get some exercise after this, how about we get some together?”
 「はい、喜んで。手加減無しでお願いします」=“Yes, gladly. Please don't hold back on my account.”
 「あなたをバテさせるのは気乗りしませんので……」=“I have no desire to put you through wringer, so...”

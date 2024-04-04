@@ -16,7 +16,7 @@
 「はい、お口開けて……あーん」=“Here, open your mouth... Aaahn.”
 「あ～ん……」=“Aaahn~...”
 「……大きなお口ね。ふふふ、エサをねだる雛鳥みたいで可愛いわよ」=“...What a big mouth. Fufufu, almost like a baby chick begging for feed, how adorable.”
-「はは、照れるね。でも早く食べたいな」=“Haha, you're gonna make me blush. Atleast let me eat something before that.”
+「はは、照れるね。でも早く食べたいな」=“Haha, you're gonna make me blush. At least let me eat something before that.”
 「はいはい、今度こそ食べさせてあげる」=“Yes yes, I'll actually feed it to you this time.”
 「あ～ん」=“Open wide~”
 「あーん……」=“Aaahn...”

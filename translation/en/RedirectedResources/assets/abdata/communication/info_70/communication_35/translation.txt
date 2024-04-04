@@ -91,7 +91,7 @@
 「う、わぁ……気になる……気になるけど……聞いたらエッチな娘やって思われる……」=“U--, wah... I'm curious... I'm curious but... you'll think I'm a lewd girl if I ask about it...”
 「私……方言だけやなくて、考え方も田舎っぽいかいな……」=“Rather than just my way of speaking... is my way of thinking too small town too...”
 「うぅ……やっぱり……でもそういう風に思ってもらえるならいいかも」=“Uuu... so I was right... but if you feel that way then I suppose it's fine.”
-「そうよね！　良かったー。せめて考え方は同年代の人と一緒がいいもん」=“Right! I'm glad. It's great that atleast I think the same way as others of my age.”
+「そうよね！　良かったー。せめて考え方は同年代の人と一緒がいいもん」=“Right! I'm glad. It's great that at least I think the same way as others of my age.”
 「うそっ、なんで答えてくれんと！？　私、変なこと聞いた？」=“No way--, why won't you answer!? Did I ask something weird?”
 「あのね、君って動物は好きなん？」=“Hey, do you like animals?”
 「あはは、私も！　犬派も猫派もなく全部好き！　爬虫類も好きなんよ」=“Ahaha, me too! Not just cats or dogs, I love them all! Even reptiles!”
@@ -182,7 +182,7 @@
 「コイカツ部、頑張ってね！」=“Work hard at the Koikatsu club!”
 「ふぅ……君はお昼もコイカツしてると？」=“Fuu... do you do your club's activities even during lunch time?”
 「今日も一日お疲れさまっ！　私も頑張ったけん、ほめてほめて～」=“Good work today too--! I did my best too, so praise me, praise me~”
-「ひゃっ！　もー、気付かんかった！　あはは、おるならおるって言ってよー」=“Hyah--! Jeez, I didn't notice you! Ahaha, if you're nearby, atleast let me know~”
+「ひゃっ！　もー、気付かんかった！　あはは、おるならおるって言ってよー」=“Hyah--! Jeez, I didn't notice you! Ahaha, if you're nearby, at least let me know~”
 「なぁん？　どーしたと？」=“What? Something up?”
 「俺が言うのもアレだけどさ、結構親しみやすい性格って言われない？」=“It doesn't exactly sound like much coming from me but, do people ever tell you that you're really easy to talk to?”
 「うん、言われるよー。方言のせいかいな？　それとももともとそういう性格なんかなぁ」=“Yeah, they do. I wonder if it's because of my dialect? Or if it's because I've got that sort of a personality to begin with.”
@@ -234,7 +234,7 @@
 「えー、そうやったとー？　もー、ふふっ、分からん言葉あったら聞いてくれていいけんね？」=“Ehh, is that true? Jeez, fufu--, if there's something you don't understand, you can just tell me, you know? I won't mind.”
 「ねぇねぇ、コーヒーってブラックで飲む人？」=“Hey, do you drink your coffee black?”
 「そうよね！　私もブラックー。だってコーヒーの味そのままで飲みたいもん」=“Gotta be! I drink it black too. I prefer the taste of pure, distilled coffee.”
-「わぁ、良かった。私も苦いのは無理ー。せめてミルクだけでも入れんと！」=“Waa, I'm glad. I can't handle it bitter either. Gotta add atleast milk!”
+「わぁ、良かった。私も苦いのは無理ー。せめてミルクだけでも入れんと！」=“Waa, I'm glad. I can't handle it bitter either. Gotta add at least milk!”
 「君って辛いの好きそうよね」=“You like spicy food, don't you?”
 「分かるよー。私も辛いの好きやもん。辛いもの好きは顔に出るとよ？」=“I can tell~. I like spicy food too. It easily shows on your face, you know?”
 「わ、意外やね。でも……私も苦手やけん、嬉しい。一緒にご飯食べられるね」=“Wah, that's surprising. But... I can't handle it either, so that works out great. We can get food together.”
@@ -298,7 +298,7 @@
 「あぅっ、そ、そうよねっ……ううん、友達でいてくれるだけでも嬉しいけん！　これからもよろしくね！」=“Auu--, o-of course--... No, I'm happy enough just being friends with you! Take care of me in the future too!”
 「うぅ……私、やっぱり君のこと諦められんと……だって……こんなに好きなんやもん……ダメ？」=“Uuu... I really can't give up on you... I can't help it... I love you so much... please?”
 「ふぇっ？　あ、あのっ……今、なんて？　えっ、本当にいいん？　わ、私でいいん？　あ、ありがとうっ！　めっちゃ嬉しい！」=“Fueh--? H-Hey--... what, did you just say? Eh--, are you really sure? A-Am I good enough? T-Thank you--! I'm super happy!”
-「そうよね……ううん、大丈夫。分かっとったことやもん。これからも友達でいてね」=“Of course... No, it's fine. I already knew it'd be like this. Let's please stay friends atleast.”
+「そうよね……ううん、大丈夫。分かっとったことやもん。これからも友達でいてね」=“Of course... No, it's fine. I already knew it'd be like this. Let's please stay friends at least.”
 「あ、あのさ、[H]とHしたいなって」=“H-Hey, listen, I wanna have sex with you.”
 「わわっ、さ、さすがにそれはいかんって。だって私たち、付き合っとうわけやないっちゃもん」=“Wawah--, w-we really can't do that. After all, we're not dating.”
 「[H]とHしたい」=“I wanna have sex with you.”

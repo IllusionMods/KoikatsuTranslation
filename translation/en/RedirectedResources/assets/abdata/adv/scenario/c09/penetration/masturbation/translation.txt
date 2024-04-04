@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu v5.1 (CharaStudio) by KK_TextDump v1.4.6.0
 //
-「なっ、あ、あんた、見てたなら声くらいかけなさいよ！」=“Wha--, y-you, if you were watching, atleast lemme know!”
+「なっ、あ、あんた、見てたなら声くらいかけなさいよ！」=“Wha--, y-you, if you were watching, at least lemme know!”

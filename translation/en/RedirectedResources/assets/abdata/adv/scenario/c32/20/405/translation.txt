@@ -5,7 +5,7 @@
 「ああ、今、私は食べずして肉を感じています……ゴクリ……」=“Aah, even without taking a bite, I can just feel the meat from here... *gulp*...”
 「うん、すごく美味しそうだ……肉の誘惑には勝てないよね……」=“Yeah, it looks really good... Can't win against the temptation of meat, can you...”
 「その通りです。人体には、たんばく質が必要です」=“Quite so. The human body requires protein.”
-「犠牲になった動物には申し訳ありませんが、せめてもの供養として美味しく食べてあげたいと思います」=“I do feel bad for the animal who was sacrificed for this but, I'll try to atleast eat the meal deliciously, in remembrance.”
+「犠牲になった動物には申し訳ありませんが、せめてもの供養として美味しく食べてあげたいと思います」=“I do feel bad for the animal who was sacrificed for this but, I'll try to at least eat the meal deliciously, in remembrance.”
 「普段から、そんなこと考えて食べてるの？」=“Do you normally eat meat while thinking that sort of stuff?”
 「……いいえ、なんだかそれっぽいことを言ってみたかっただけです。では、いただきます」=“...Not really, I just wanted to try saying something like that. Well then, thanks for the meal.”
 「おっと、その前にお肉の喜び、俺とシェアしてもらえないかな？」=“Oh, but before that, won't you share with me, the joys of meat?”

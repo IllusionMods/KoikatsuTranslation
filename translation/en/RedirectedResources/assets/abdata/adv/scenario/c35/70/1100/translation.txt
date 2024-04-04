@@ -25,7 +25,7 @@
 「新婦から新郎へ」=“Now from the bride to the groom.”
 「あ……逆になると俺もちょっと震えてる……」=“Ah... Now that it's my turn, mine's shaking a bit too...”
 「ふふっ、本当なん。やっぱり緊張するよね」=“Fufu--, it really is. This really is nerveracking, isn't it?”
-「うん……今日くらいは格好付けようと思ったんだけどな」=“Yeah... I thought I'd show my cool side to you though, atleast for today.”
+「うん……今日くらいは格好付けようと思ったんだけどな」=“Yeah... I thought I'd show my cool side to you though, at least for today.”
 「ううん、君はいつでも格好いいん。こういう時、同じように緊張してらもえることが……私、何よりも嬉しいっちゃん」=“You're always cool in my eyes. The fact that you're just as nervous as me right now... it makes me more happy than anything else.”
 「[H名]……」=“[H名]...”
 「最後に、愛の証としてキスをしていただきます」=“Lastly, as the proof of your love, you may now kiss each other.”

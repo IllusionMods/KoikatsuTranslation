@@ -10,7 +10,7 @@
 「確かに、ストレス発散になるかもね」=“Yeah, I bet it's a real destresser.”
 「だろ？　ほら、[P名]も、早く曲入れろよ」=“Right? Come on, put in some songs for yourself too.”
 「いや、俺、音痴だし……もうちょっと後でもいいよ」=“No, well, I'm a bit tone deaf... I can go later.”
-「なんだよ情けねーなぁ！　せっかく来たってのに、歌わなきゃ損ってやつだろ」=“Why are you being so wishy-washy! We've come all the way out here, you gotta sing atleast a little bit, else you'll be missing out.”
+「なんだよ情けねーなぁ！　せっかく来たってのに、歌わなきゃ損ってやつだろ」=“Why are you being so wishy-washy! We've come all the way out here, you gotta sing at least a little bit, else you'll be missing out.”
 「えっと……そ、それより俺、[H名]の歌が聞きたいな！」=“Erhm... I-I'd much rather hear you sing, [H名]!”
 「ったく！　しゃーないなー。お手本見せてやるから、しっかり聴いとけよ」=“Good grief! It can't be helped then. I'll show you exactly how it's done, so listen well.”
 『果てしない空の下 どこかにきっとあるんだ～♪』=『It's gotta be somewhere Under this sky stretching so far~♪』

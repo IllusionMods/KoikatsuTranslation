@@ -9,7 +9,7 @@
 「[H名]……」=“[H名]...”
 CHOICE:『最後までくっついていよう』=『Cling to each other till the last moment』
 CHOICE:『最後まで思いきりはしゃごう』=『Have a grand old time till the end』
-「それじゃあさ、もう少し時間はあるし、ギリギリまでくっついてよっか。ほら、時間はどうにもならないけど、せめて距離だけでも近くに……」=“Well then, we still have a bit of time so, shall we cling to each other till we have to leave? There's nothing we can do about our limited time but, we can atleast spend it ever so closer together...”
+「それじゃあさ、もう少し時間はあるし、ギリギリまでくっついてよっか。ほら、時間はどうにもならないけど、せめて距離だけでも近くに……」=“Well then, we still have a bit of time so, shall we cling to each other till we have to leave? There's nothing we can do about our limited time but, we can at least spend it ever so closer together...”
 「あ……うん、そうしたい……えへへ、隣、ぺったりするね」=“Ah... yeah, I wanna do that... ehehe, I'll stick tight to you then.”
 「ん……君の身体、すごい温かい……今、歌っとったけんやね」=“Nnn... your body, it's so warm... wonder if it's because you were singing hard until now?”
 「[H名]の身体も熱いよ。隣にいるだけでぽかぽかしてくる……」=“Your body's really hot too, [H名]. Just being next to you makes me feel so warm and comfy...”

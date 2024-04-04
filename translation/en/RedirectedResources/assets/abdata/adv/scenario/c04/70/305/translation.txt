@@ -2,7 +2,7 @@
 // Dumped for Koikatsu v5.1 (Koikatsu Party) by KKP_TextDump v1.4.6.0
 //
 「結構歌ったわね」=“We sang a whole lot, didn't we?”
-「そうだね。二人合わせたら百曲くらい歌ったかも」=“Yeah. Between the two of us, I think we've gone through a hundred songs atleast already.”
+「そうだね。二人合わせたら百曲くらい歌ったかも」=“Yeah. Between the two of us, I think we've gone through a hundred songs at least already.”
 「それは言いすぎよ」=“That's too much even as an exaggeration.”
 （あっ、カラオケ画面の男の人と女の人が……キスしてる）=(Ah--, the album cover, has a... kissing couple.)
 「ねぇ、[H名]。もしよかったらなんだけど……」=“Hey, [H名]. if it's alright with you...”

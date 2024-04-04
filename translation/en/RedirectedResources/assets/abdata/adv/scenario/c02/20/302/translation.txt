@@ -18,6 +18,6 @@
 「ええ、確かにそうでしたわね。では、わたくし自身と勝負をいたします。満点を目指して、今日一日頑張らせていただきますわ！」=“Yes, certainly I remember you saying so. Well then, I shall compete against myself then. I'm going to endeavour to hit the perfect score today!”
 「う、うん……まあ、それならいいや。応援するよ。それで、何の曲を入れればいい？」=“S-Sure... yeah, that's just fine. I'll cheer you on. So then, what song should I put on?”
 「この曲をお願いいたしますわ！」=“Please put on this one!”
-（……リモコン操作ぐらい、自分で憶えて欲しいもんだけどなぁ……まあいいや、はい入力、と）=(...She could atleast learn to operate the remote herself, you know... well whatever, alright, it's in.)
+（……リモコン操作ぐらい、自分で憶えて欲しいもんだけどなぁ……まあいいや、はい入力、と）=(...She could at least learn to operate the remote herself, you know... well whatever, alright, it's in.)
 「ふふ、わたくしの美声で機械をも魅了させてみせます！」=“Fufuh, I shall charm this machine as well, with my beautiful voice!”
 （満足する点が出るまで、マイクを握ってそうだなぁ）=(Until she gets the perfect score she wants, I bet she won't let go of the mic.)

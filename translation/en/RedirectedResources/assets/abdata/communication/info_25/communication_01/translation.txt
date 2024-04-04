@@ -223,7 +223,7 @@
 「それは、その…………時々」=“That's, uhm... sometimes.”
 「ええっ？　その、あの……ご、ご想像におまかせします！」=“Eeh--? Uhm, erhm... I-I'll leave that to your imagination!”
 「女の子も実はエッチって聞くけど本当？」=“I hear that in reality girls themselves are pretty lewd too, but is that true?”
-「どうなのでしょう。知識としては持っていると思いますよ、大事なことですから」=“I wonder. We do possess some knowledge atleast, since it's important.”
+「どうなのでしょう。知識としては持っていると思いますよ、大事なことですから」=“I wonder. We do possess some knowledge at least, since it's important.”
 「またストレートな質問ですね。もう少しオブラートに包んだ方が良いですよ？」=“Another straight ball. I suggest you try asking those sorts of questions in a more round-about way, okay?”
 「さすがに、そのような話題ははばかられると思うのですが……」=“I really can't help but hesistate to answer those sorts of questions...”
 「たまたま、クラスの子が話してるのが聞こえてきたんだけど――」=“The other day, I just happened to overhear a classmate talking about how--”
@@ -384,7 +384,7 @@
 「お話、たくさんしましょうね」=“Let's chat lots, okay?”
 「ついついやっちゃう癖ってなにかある？」=“Got any habits that you just can't help yourself from doing sometimes?”
 「うーん、癖ですか…………あっ、深く考え込んでしまうこと、でしょうか」=“Mmm. Habits, you say... ah--, I tend to get lost in my own thoughts, I suppose.”
-「思い当たるものは特に……ですが、無くて七癖と言いますから、きっとあると思います」=“Nothing comes to mind... however, they do say that every person has their own little quirks, so I'm sure I have one or two atleast.”
+「思い当たるものは特に……ですが、無くて七癖と言いますから、きっとあると思います」=“Nothing comes to mind... however, they do say that every person has their own little quirks, so I'm sure I have one or two at least.”
 「子どもの頃の思い出ってなにかある？」=“Got any memories in particular, from when you were a child?”
 「ピアノのコンクールで優勝したことですね。両親もとても喜んでくれました」=“There was that time I won a piano championship. My parents were over the moon as well.”
 「すぐには思いつきませんね。その、あなたといる今が、素敵な思い出になる……ではいけませんか？」=“Can't think of any, right on the spot. Uhm, the time we spend together these days, they'll become wonderful memories in their own right... would they not count?”

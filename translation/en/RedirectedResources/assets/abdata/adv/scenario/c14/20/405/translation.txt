@@ -10,7 +10,7 @@
 「ほ～う、お前も相当腹が減ってるみたいだけど、大丈夫か～？」=“Hooh~, you seem like you're pretty much on the brink of starvation yourself, you sure you're alright~?”
 「ちょ、ちょっとお腹が鳴っただけだよ！」=“T-That was just a tiny growl, I swear!”
 「う、また鳴っちゃった……」=“Uu, it growled again...”
-「ほうほう、腹の方は正直だなぁ～」=“Hoh hoh, atleast your belly's honest about it~”
+「ほうほう、腹の方は正直だなぁ～」=“Hoh hoh, at least your belly's honest about it~”
 「お前さ。ちゃんと飯食ってんのか？」=“Question. You sure you're getting enough food?”
 「じ、実は、ご飯があまり喉を通らなかったんだよね。デート前で緊張しちゃってさ……」=“B-Being honest, I just couldn't get food down my throat. I just got so nervous about our date...”
 「な～んだ、そういうことだったのかよ」=“The heck~, was that really it?”

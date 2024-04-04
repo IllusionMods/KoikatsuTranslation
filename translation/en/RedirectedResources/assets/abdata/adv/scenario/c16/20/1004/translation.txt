@@ -8,7 +8,7 @@
 「お願いします！　今日はお引き受けいただいて、ありがとうございました」=“Thank you! And for helping us out so much today as well, thank you very much!”
 「[H名]、大丈夫？　疲れてるだろうから、すぐに動かなくていいからね」=“[H名], you alright? You're probably tired so, don't feel like we have to get going right away, okay?”
 「大丈夫よ。フフッ、私達、今日何回こうして大丈夫って言い合ったのかしらね」=“I'm alright. Fufuh--, I wonder how many times we've said the world "alright" to each other today.”
-「覚えきれないくらいは言ったね。[H名]があんなに不安になっちゃうなんて、驚いたよ」=“More times that I can remember, atleast. I didn't think you'd get so anxious, [H名].”
+「覚えきれないくらいは言ったね。[H名]があんなに不安になっちゃうなんて、驚いたよ」=“More times that I can remember, at least. I didn't think you'd get so anxious, [H名].”
 「ごめんなさい……婚期を逃すなんて、ただの風説なのに……あんなに取り乱すなんて私も思わなかった」=“I'm sorry... that myth really is, just a myth but... I didn't think I'd lose my cool that severely either.”
 「それだけ真剣に考えてたって事だよね……」=“You were just that serious about it, weren't you...”
 「こんな重い女、嫌よね……自分でもつくづく嫌になったわ……アナタに嫌われても仕方ないって……」=“You probably hate heavy women like men, don't you... I hate myself too now, honestly... so it can't be helped that you hate me too...”

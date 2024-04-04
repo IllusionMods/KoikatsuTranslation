@@ -4,5 +4,5 @@
 「お、今日は弁当か？」=“Oh, got a lunch box today, huh?”
 「そう、たまには自分で作るのもいいかなって」=“Yeah, thought it'd be good to make lunch myself every so often.”
 「どれどれ、味見してやろう……」=“Alright, let's have a little taste then...”
-「あ、あの……俺のおかずが……無くなっ……あっ！」=“U-Uhm... atleast leave... some of the sides for... ah--!”
+「あ、あの……俺のおかずが……無くなっ……あっ！」=“U-Uhm... at least leave... some of the sides for... ah--!”
 「[P]は料理うまいな！」=“You make for a pretty good cook, [P]!”

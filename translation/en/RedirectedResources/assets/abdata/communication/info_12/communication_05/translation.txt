@@ -32,7 +32,7 @@
 「そういえば、君が他の人と話してるところって、あまり見たことないような？」=“Reminds me, I feel like I've never really seen you chatting with other people?”
 「わたしが話すのは、あなたたちが気づかない存在なの」=“I mostly talk to the people you guys cannot perceive.”
 「そうだね。あなたは話しかけてくるの？」=“Yeah. Will you chat with me?”
-「それがどうかしたの？　話しかけるなら、もっとマシな話をして」=“And what about it? If you wanna talk to me, then get better material atleast.”
+「それがどうかしたの？　話しかけるなら、もっとマシな話をして」=“And what about it? If you wanna talk to me, then get better material at least.”
 「先生たちには悪いけど、授業ってたまに退屈じゃない？」=“Not that I have anything against our teachers but, aren't the classes here really boring sometimes?”
 「うん。もっと宇宙の話とか、星の話とかすればいいのに」=“Yeah. They should teach more about space and stars and whatnot.”
 「そうだ、この前あのクラスの……」=“Right, the other day, the girl from that class...”
@@ -51,7 +51,7 @@
 「興味ない。もっと別の話にして？」=“Not interested. Pick something else?”
 「この学園のあの子ってさ……」=“That girl, from our school...”
 「そうなんだ、それで？」=“I see, and?”
-「学生のうちに恋人とかつくらないとなー」=“Gotta date atleast once in your school life, no~?”
+「学生のうちに恋人とかつくらないとなー」=“Gotta date at least once in your school life, no~?”
 「……わたしも、そういう人がいればいいのに」=“...Would be pretty nice.”
 「ここって女子ばかりだから、浮いた話って少ないよね」=“There's only girls here so, not really much raunchy talk here, is there?”
 「まあ、男の子はあなたしかいないし」=“Well, there's only one guy here, yeah.”

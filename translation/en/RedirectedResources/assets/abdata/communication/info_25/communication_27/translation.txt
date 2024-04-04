@@ -182,7 +182,7 @@
 「あのさ……今度、活動見に行ってもいいかな……？」=“Hey, listen... do you mind if I come check out your club sometime...?”
 「もう、ぺこぺこ……」=“I'm starving...”
 「……もう帰るの？」=“...Gonna go home already?”
-「ひゃぁ！　もう、いたんならそう言ってよね」=“Hyah! Jeez, if you were there then atleast let me know.”
+「ひゃぁ！　もう、いたんならそう言ってよね」=“Hyah! Jeez, if you were there then at least let me know.”
 「あー……あのさ。……ううん、やっぱいい」=“Aah... hey, listen. ...No, nevermind.”
 「宿題が多すぎてたまんないよ」=“There's so much homework I'm breaking down.”
 「だったら、今度私と一緒に……やる？　ふたりでやれば早いかも……」=“In that case, wanna do it together... with me? It might go faster if we do it together...”
@@ -449,7 +449,7 @@
 「……いや、とっくにバレてるよ」=“...That train already left the station long ago.”
 「えーっ、ウソ！？　絶対バレてないと思ってたのに……」=“Eeh--, no way!? And here I thought we were making it out like bandits too...”
 「学園にいる時は、あんたのこと考えないようにする！」=“I've decided to not think about you anymore when we're at school!”
-「えっ……少しは考えててほしいなー、なんて……」=“Eh--... please think about me atleast a little bit, or maybe not I guess...”
+「えっ……少しは考えててほしいなー、なんて……」=“Eh--... please think about me at least a little bit, or maybe not I guess...”
 「だって……人前でも勝手にニヤけてきちゃうんだもん」=“I mean... I can't help but grin like an idiot in front of others whenever I think of you.”
 「あんた、私の胸、そんなに気に入ってるんだ……？」=“You like my chest that much...?”
 「毎日一生懸命マッサージした甲斐があったかも……」=“It was worth it, to massage them everyday like my life depended on it...”

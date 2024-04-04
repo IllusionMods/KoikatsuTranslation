@@ -8,7 +8,7 @@
 CHOICE:『欲望に少し抵抗する』=Resist your desires a bit.
 CHOICE:『鉄の自制心を持って欲望に抵抗する』=Brandish your iron will and resist your desires.
 （で、電車の中で勃たせるわけには……俺なら、己が欲望に抵抗できるはずっ！）=(N-Not like I can go around popping a chub on a train... I should, no, I will resist my own lust--!)
-（……やっぱ無理！　せ、せめて[H名]さんに気づかれないようにしないと――）=(...It's not working! G-Gotta atleast make sure she doesn't notice--)
+（……やっぱ無理！　せ、せめて[H名]さんに気づかれないようにしないと――）=(...It's not working! G-Gotta at least make sure she doesn't notice--)
 「あら？　……なんでここを大きくしてるの？」=“Oh? ...Why're you getting big here?”
 「ご、ごめん……密着した[H名]さんの身体が柔らかくて……」=“S-Sorry... your body's just so soft, [H名]...”
 「えっと……下手に触らないでよ？　出ちゃうから……」=“Erhm... don't accidentally touch it, okay? It'll go everywhere so...”

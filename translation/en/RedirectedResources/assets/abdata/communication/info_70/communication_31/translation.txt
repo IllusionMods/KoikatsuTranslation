@@ -3,7 +3,7 @@
 //
 「何を考えている！　ここは女子用だ！」=“What are you thinking!? This is the woman's toilet!”
 「おまえというやつはっ！」=“Guys like you are--!”
-「今は時間がない。それくらい察しろ」=“I don't have time right now. Guess that much, atleast.”
+「今は時間がない。それくらい察しろ」=“I don't have time right now. Guess that much, at least.”
 「なんだ？　用があるならさっさと言え」=“What? If you need something, spit it out.”
 「すまんな、今は構ってやれる暇がない」=“Sorry, I don't have time for this right now.”
 「んぅぅ～、すぅ～、んふふっ……ふぁぅ……」=“Nnnnn~, Ssuu~, Nnfufu--... Fuah......”
@@ -211,7 +211,7 @@
 「恋人の過去って気にする？」=“Would you worry about your lover's past?”
 「気にならないと言えば嘘になるが、それほど拘りもしないな」=“It'd be a lie to say I wouldn't but, I wouldn't get all that fixated over it.”
 「フッ、後ろめたい事があるのか？　気にしないから白状してみろ」=“Pfft, is there something you're ashamed about? I don't mind so try telling me.”
-「恥ずかしげもなくそういう事を聞くな。少しは考えろ」=“Don't brazenly ask me something like that. Think a bit atleast.”
+「恥ずかしげもなくそういう事を聞くな。少しは考えろ」=“Don't brazenly ask me something like that. Think a bit at least.”
 「最近、夢に[H名]が出てきたんだ」=“Recently, you've been showing up in my dreams, [H名].”
 「ほぅ、それで？　何をしていた？　詳しく聞かせてもらおうか」=“Hoh, and? What did you do? I'll have you tell me in extreme detail.”
 「エッチな本、持ってる？」=“You got porn mags?”
@@ -365,7 +365,7 @@
 「なんだ、見て分かれ。私は今、おまえと話したがっているか？」=“What, you should understand just by looking. Do I look like I want to talk to you right now?”
 「さて、私は怒っているぞ。どうすればいいか、わかるな？」=“Now then, I am angry. You understand what you need to do, right?”
 「すまんな。構ってやりたいが、今は時間がない」=“Sorry. I'd love to stay and chat but, I don't have the time right now.”
-「はぁ、それで？　見たのだから、感想くらい言っていけ」=“Haa, so? Since you took a look, atleast tell me your impressions.”
+「はぁ、それで？　見たのだから、感想くらい言っていけ」=“Haa, so? Since you took a look, at least tell me your impressions.”
 「少し躾け直す必要がありそうだな。この、恥知らずめ」=“Looks like you need to be taught some manners. This shameless guy.”
 「どうだ？　恋人の水着姿は……。惚れ直したか？」=“How is it? Seeing your lover in a swimsuit... Fell even harder for me?”
 「こら、いやらしい目で見回すな。おまえは女なら誰でもいいのか？」=“Come on, don't look around with those obscene eyes. Are you fine with just any random woman?”
